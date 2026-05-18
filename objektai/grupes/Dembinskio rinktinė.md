@@ -18,23 +18,25 @@ Tuo būdu reguliarinės kariuomenės Lietuvoje teliko tik Dembinskio rinktinė (
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tuo būdu reguliarinės kariuomenės Lietuvoje teliko tik Dembinskio rinktinė (apie 3.500 karių).'
+  teiginys: 'Dembinskio rinktinė buvo vienintelė Lietuvoje likusi reguliarinė kariuomenė ir turėjo apie 3 500 karių.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tuo būdu reguliarinės kariuomenės Lietuvoje teliko tik Dembinskio rinktinė (apie 3.500 karių).'
+  santrauka: 'Dembinskio rinktinė buvo vienintelė Lietuvoje likusi reguliarinė kariuomenė ir turėjo apie 3 500 karių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo būdu reguliarinės kariuomenės Lietuvoje teliko tik
     Dembinskio rinktinė (apie 3.500 karių). Rusai tuo tarpu atga-
     beno į Lietuvą daugiau savo kariuomenės, ir Dembinskiui nebe-
     įmanoma buvo kariauti.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

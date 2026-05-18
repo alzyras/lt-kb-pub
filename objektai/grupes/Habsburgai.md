@@ -19,25 +19,27 @@ Mat, imperatorius norėjo susilpninti Zigmantą, kurs ypatingai rūpinosi, kad H
 
 ## Teiginiai
 - t-001
-  teiginys: 'Mat, imperatorius norėjo susilpninti Zigmantą, kurs ypatingai rūpinosi, kad Habsburgai negautų jo brolio Vladislovo valdomosios Vengrijos bei Čekijos.'
+  teiginys: 'Zigmantas rūpinosi, kad Habsburgai negautų jo brolio Vladislovo valdytos Vengrijos ir Čekijos.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Nors vėliau ir vedė Habsburgaitę, tačiau šeimos laimės jau nebesulaukė: gyvenimo pabaigoje net persiskyrė su žmona.'
+  teiginys: 'Austrų Habsburgai po Zigmanto Augusto mirties ypač siekė Lietuvos ir Lenkijos sostų.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-003
-  teiginys: 'Visi kaimynai valdovai ruošėsi po jo mirties įžengti į Lietuvos ir Lenkijos sostus, o ypač tuo rūpinosi Austrų Habsburgai ir caras Jonas IV.'
+  teiginys: 'Barborai mirus, Zigmantas Augustas vedė pirmosios žmonos seserį Habsburgaitę, bet su ja negyveno.'
   pagrindžia:
     - c-003
-- t-004
-  teiginys: 'Barborai mirus, jis vedė pirmosios žmonos seserį Habsburgaitę, tačiau su ja negyveno; ji išvažiavo į Vieną.'
-  pagrindžia:
-    - c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Mat, imperatorius norėjo susilpninti Zigmantą, kurs ypatingai rūpinosi, kad Habsburgai negautų jo brolio Vladislovo valdomosios Vengrijos bei Čekijos.'
+  santrauka: 'Zigmantas rūpinosi, kad Habsburgai negautų jo brolio Vladislovo valdytos Vengrijos ir Čekijos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Glinskio rūpesčiu, šį kartą Maskvai pasisekė gauti daug
@@ -45,50 +47,37 @@ Mat, imperatorius norėjo susilpninti Zigmantą, kurs ypatingai rūpinosi, kad H
     norėjo susilpninti Zigmantą, kurs ypatingai rūpinosi, kad Habs-
     burgai negautų jo brolio Vladislovo valdomosios Vengrijos
     bei Čekijos.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Nors vėliau ir vedė Habsburgaitę, tačiau šeimos laimės jau nebesulaukė: gyvenimo pabaigoje net persiskyrė su žmona.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Nors vėliau ir vedė Habsburgaitę, tačiau šeimos laimės jau
-    nebesulaukė: gyvenimo pabaigoje net persiskyrė su žmona.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Visi kaimynai valdovai ruošėsi po jo mirties įžengti į Lietuvos ir Lenkijos sostus, o ypač tuo rūpinosi Austrų Habsburgai ir caras Jonas IV.'
+  santrauka: 'Austrų Habsburgai po Zigmanto Augusto mirties ypač siekė Lietuvos ir Lenkijos sostų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Visi laukė anksti pasenusio Zigmanto Au-
     gusto mirties. Visi kaimynai valdovai ruošėsi po jo mirties įžengti į Lietuvos ir Lenkijos sostus, o ypač tuo rūpinosi Aus-
     trų Habsburgai ir caras Jonas IV.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Barborai mirus, jis vedė pirmosios žmonos seserį Habsburgaitę, tačiau su ja negyveno; ji išvažiavo į Vieną.'
+    - t-002
+- c-003
+  santrauka: 'Barborai mirus, Zigmantas Augustas vedė pirmosios žmonos seserį Habsburgaitę, bet su ja negyveno.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Barborai mirus, jis vedė pirmosios žmonos seserį Habsburgaitę, ta-
     čiau su ja negyveno; ji išvažiavo į Vieną.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-003

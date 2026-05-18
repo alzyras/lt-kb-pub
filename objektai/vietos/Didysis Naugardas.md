@@ -20,86 +20,96 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D.'
+  teiginys: 'Didysis Naugardas kurį laiką buvo pasidavęs Lietuvos įtakai, o jį valdė Gedimino sūnus Narimantas.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Algirdo įtaka šiaurėje siekė net Pskovo ir D.Naugardo miestų respublikas.'
+  teiginys: 'Algirdo įtaka šiaurėje siekė Didžiojo Naugardo miesto respubliką.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-003
-  teiginys: 'Naugardą.'
+  teiginys: '1428 m. Vytautas surengė paskutinį savo žygį į Didįjį Naugardą ir paėmė iš jo 10 000 rublių kontribuciją.'
   pagrindžia:
     - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-004
-  teiginys: 'Naugardu, o Lietuvos įtakoje — Tverė.'
+  teiginys: 'Kazimierui pasidalijus įtakos sritimis su Maskva, Didysis Naugardas buvo paliktas Maskvos įtakoje.'
   pagrindžia:
     - c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-005
-  teiginys: 'Naugardą Jonas III po antrojo žygio (pirmasis buvo 1471 m., antrasis — 1479 m.) prijungė prie Maskvos.'
+  teiginys: 'Jonas III po antrojo žygio 1479 m. prijungė Didįjį Naugardą prie Maskvos.'
   pagrindžia:
     - c-005
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D.'
+  santrauka: 'Didysis Naugardas kurį laiką buvo pasidavęs Lietuvos įtakai, o jį valdė Gedimino sūnus Narimantas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kurį laiką Lietu-
     vos įtakai buvo pasidavęs net Pskovas su D. Naugardu (Pskovą
     valdė buvęs Gardino kunigaikštis Dovydas, o D. Naugardą —
     Gedimino sūnus Narimantas).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Algirdo įtaka šiaurėje siekė net Pskovo ir D.Naugardo miestų respublikas.'
+  santrauka: 'Algirdo įtaka šiaurėje siekė Didžiojo Naugardo miesto respubliką.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Algirdo įtaka šiaurėje siekė net Pskovo ir D.Nau-
     gardo miestų respublikas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Naugardą.'
+  santrauka: '1428 m. Vytautas surengė paskutinį savo žygį į Didįjį Naugardą ir paėmė iš jo 10 000 rublių kontribuciją.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pagaliau 1428 m.
     Vytautas suruošė paskutinį savo žygį į tolimąjį D. Naugardą.
     Iš jo buvo paimta net 10.000 rublių kontribucijos.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
 - c-004
-  santrauka: 'Naugardu, o Lietuvos įtakoje — Tverė.'
+  santrauka: 'Kazimierui pasidalijus įtakos sritimis su Maskva, Didysis Naugardas buvo paliktas Maskvos įtakoje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Maža to, Kazimieras net pasidalino su Maskva įtakos sritimis:
     Maskvos įtakoje buvo palikti Pskovas su D. Naugardu, o Lie-
     tuvos įtakoje — Tverė. Riazanei buvo palikta teisė pačiai
     pasirinkti sau globą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
 - c-005
-  santrauka: 'Naugardą Jonas III po antrojo žygio (pirmasis buvo 1471 m., antrasis — 1479 m.) prijungė prie Maskvos.'
+  santrauka: 'Jonas III po antrojo žygio 1479 m. prijungė Didįjį Naugardą prie Maskvos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pirmiausia ji privertė savo valdžiai pasi-
@@ -107,15 +117,14 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
     vas jai buvo palankus; o D. Naugardą Jonas III po antrojo žygio
     (pirmasis buvo 1471 m., antrasis — 1479 m.) prijungė prie
     Maskvos. Tuo būdu žuvo galingoji D. Naugardo respublika.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Pskovas]]
 - [[objektai/vietos/Tverė]]

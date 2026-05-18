@@ -20,16 +20,16 @@ Objektų skaičius: 391.
 
 ### Asmenys
 - [[objektai/asmenys/A. Hitleris]]
-- [[objektai/asmenys/A. Smetona]]
+- [[objektai/asmenys/A. Smetona|A. Smetona (prezidentas, XX a.)]]
 - [[objektai/asmenys/A. Voldemaras]]
 - [[objektai/asmenys/Adolfas Ramanauskas-Vanagas]]
-- [[objektai/asmenys/Algirdas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Algirdas Brazauskas]]
 - [[objektai/asmenys/Algirdas Kaušpėdas]]
 - [[objektai/asmenys/Andrejus Sacharovas]]
 - [[objektai/asmenys/Antanas Gustaitis]]
 - [[objektai/asmenys/Antanas Merkys]]
-- [[objektai/asmenys/Antanas Smetona]]
+- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
 - [[objektai/asmenys/Arvydas Juozaitis]]
 - [[objektai/asmenys/Augustinas Voldemaras]]
 - [[objektai/asmenys/Bernardas Berensonas]]
@@ -39,7 +39,7 @@ Objektų skaičius: 391.
 - [[objektai/asmenys/Dovas Zaunius]]
 - [[objektai/asmenys/Džordžas Robertsonas]]
 - [[objektai/asmenys/Ernestas Galvanauskas]]
-- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Gintaras Rinkevičius]]
 - [[objektai/asmenys/Grigalius XIII]]
 - [[objektai/asmenys/J. Pilsudskis]]
@@ -48,7 +48,7 @@ Objektų skaičius: 391.
 - [Jadvyga Jogailienė](../objektai/asmenys/Jadvyga%20Jogailien%C4%97)
 - [Jascha Heifetz](../objektai/asmenys/Jascha%20Heifetz)
 - [Jeronimas Plečkaitis](../objektai/asmenys/Jeronimas%20Ple%C4%8Dkaitis)
-- [Jogaila](../objektai/asmenys/Jogaila)
+- [Jogaila (Lenkijos karalius)](../objektai/asmenys/Jogaila)
 - [Jonas Jablonskis](../objektai/asmenys/Jonas%20Jablonskis)
 - [Jonas Mačiulis-Maironis](../objektai/asmenys/Jonas%20Ma%C4%8Diulis-Maironis)
 - [Jonas Černius](../objektai/asmenys/Jonas%20%C4%8Cernius)
@@ -58,11 +58,11 @@ Objektų skaičius: 391.
 - [Juzefas Pilsudskis](../objektai/asmenys/Juzefas%20Pilsudskis)
 - [K. Masiliūnas](../objektai/asmenys/K.%20Masili%C5%ABnas)
 - [Konstantinas Ostrogiškis](../objektai/asmenys/Konstantinas%20Ostrogi%C5%A1kis)
-- [Kęstutis](../objektai/asmenys/K%C4%99stutis)
+- [Kęstutis (vakarų pasienio valdovas, XIV–XV a.)](../objektai/asmenys/K%C4%99stutis)
 - [Liudvika Didžiulienė-Žmona](../objektai/asmenys/Liudvika%20Did%C5%BEiulien%C4%97-%C5%BDmona)
 - [Matijas Ercbergeris](../objektai/asmenys/Matijas%20Ercbergeris)
 - [Michailas Gorbačiovas](../objektai/asmenys/Michailas%20Gorba%C4%8Diovas)
-- [Mikalojus Konstantinas Čiurlionis](../objektai/asmenys/Mikalojus%20Konstantinas%20%C4%8Ciurlionis)
+- [Mikalojus Konstantinas Čiurlionis (dailininkas)](../objektai/asmenys/Mikalojus%20Konstantinas%20%C4%8Ciurlionis)
 - [Mindaugas](../objektai/asmenys/Mindaugas)
 - [Mykolas Biržiška](../objektai/asmenys/Mykolas%20Bir%C5%BEi%C5%A1ka)
 - [Mykolas Sleževičius](../objektai/asmenys/Mykolas%20Sle%C5%BEevi%C4%8Dius)
@@ -82,7 +82,7 @@ Objektų skaičius: 391.
 - [Vilhelmas fon Urachas](../objektai/asmenys/Vilhelmas%20fon%20Urachas)
 - [Violeta Urmana](../objektai/asmenys/Violeta%20Urmana)
 - [Vladimiras Dubeneckis](../objektai/asmenys/Vladimiras%20Dubeneckis)
-- [Vytautas](../objektai/asmenys/Vytautas)
+- [Vytautas (Lietuvos valdovas, XIV–XV a.)](../objektai/asmenys/Vytautas)
 - [Vytautas Kasiulis](../objektai/asmenys/Vytautas%20Kasiulis)
 - [Vytautas Landsbergis](../objektai/asmenys/Vytautas%20Landsbergis)
 - [Vytautas Radžvilas](../objektai/asmenys/Vytautas%20Rad%C5%BEvilas)

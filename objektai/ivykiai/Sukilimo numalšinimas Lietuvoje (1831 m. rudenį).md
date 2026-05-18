@@ -33,17 +33,21 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Dembinskiui išvykus, Lietuvoje nebeliko jokios stipresnės pajėgos.'
+  teiginys: 'Dembinskiui išvykus, Lietuvoje nebeliko stipresnės sukilėlių pajėgos, o rusų kariuomenei teliko gaudyti sukilėlius.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Tokiomis žiauriomis priemonėmis 1831 m. rudenį buvo likviduotas sukilimas.'
+  teiginys: '1831 m. rudenį sukilimas Lietuvoje buvo numalšintas žiauriomis priemonėmis.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Dembinskiui išvykus, Lietuvoje nebeliko jokios stipresnės pajėgos.'
+  santrauka: 'Dembinskiui išvykus, Lietuvoje nebeliko stipresnės sukilėlių pajėgos, o rusų kariuomenei teliko gaudyti sukilėlius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Dembinskiui išvykus, Lietuvoje
@@ -54,24 +58,24 @@ Nenurodyta
     tojų namus, bet ir bažnyčią, išžudė apie 80 žmonių, o tuos, ku-
     riuos įtarė dalyvavus sukilime, prisirišę prie patrankų nusivarė
     į Vilnių.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Tokiomis žiauriomis priemonėmis 1831 m. rudenį buvo likviduotas sukilimas.'
+  santrauka: '1831 m. rudenį sukilimas Lietuvoje buvo numalšintas žiauriomis priemonėmis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tokiomis žiauriomis priemonėmis 1831 m. rudenį buvo
     likviduotas sukilimas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

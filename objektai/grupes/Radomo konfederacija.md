@@ -20,17 +20,21 @@ Radomo konfederacija. Tada konfederacija iš Radomo buvo perkelta į Varšuvą, 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Radomo konfederacija.'
+  teiginys: 'Radomo konfederacija 1767 m. buvo sudaryta Rusijos kariuomenės apsuptame Radome.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: 'Tada konfederacija iš Radomo buvo perkelta į Varšuvą, kur gyveno patsai Repninas.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Radomo konfederacija.'
+  santrauka: 'Radomo konfederacija 1767 m. buvo sudaryta Rusijos kariuomenės apsuptame Radome.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Radomo konfederacija.** 1767 m. Repninui kurstant, visuose
@@ -65,11 +69,11 @@ Radomo konfederacija. Tada konfederacija iš Radomo buvo perkelta į Varšuvą, 
     vadino, kardinalines teises; be to, iš Rusijos buvo
     paprašyta garantijos, kad nė viena iš tų teisių nebus pa-
     keista. Noroms nenoroms konfederatai turėjo pasirašyti aktą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
@@ -78,11 +82,11 @@ Radomo konfederacija. Tada konfederacija iš Radomo buvo perkelta į Varšuvą, 
   citata_originali: |
     Tada konfederacija iš Radomo buvo perkelta į Varšuvą, kur
     gyveno patsai Repninas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

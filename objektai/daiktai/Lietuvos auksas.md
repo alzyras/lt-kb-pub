@@ -57,13 +57,13 @@ Sovietizacijos metu tapo perdavimo ir pasisavinimo objektu.
 Nenurodyta
 
 ## Teiginiai
-- t-003
+- t-005
   teiginys: 'Pasisavintas tik Švedijos ir Šveicarijos bankuose saugomas Lietuvos auksas.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-004
+- t-006
   teiginys: 'Pasisavintas tik Švedijos ir Šveicarijos bankuose saugomas Lietuvos auksas.'
   pagrindžia:
     - c-001
@@ -82,8 +82,8 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
-    - t-004
+    - t-005
+    - t-006
 
 ## Šaltiniai ir įrodymai
 

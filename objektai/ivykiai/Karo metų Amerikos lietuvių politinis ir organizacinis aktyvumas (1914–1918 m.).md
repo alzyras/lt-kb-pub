@@ -33,40 +33,44 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Jau 1914 m. Filadelfijoje įvyko bendras lietuvių ir ukrainiečių mitingas, kuris reikalavo „išvyti maskolius į Aziją ir palikti Lietuvą lietuviams, o Ukrainą ukrainiečiams".'
+  teiginys: '1914 m. Filadelfijoje lietuvių ir ukrainiečių mitingas reikalavo palikti Lietuvą lietuviams, o Ukrainą ukrainiečiams.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: 'Į katalikų 1916 m. suorganizuotą Tautos Tarybą tautininkai nėjo: jie suorganizavo savo Amerikos Lietuvių Tautinę Tarybą.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-003
-  teiginys: '1918 m. katalikai ir tautininkai sušaukė Naujorke trečiąjį lietuvių seimą, kuriame dalyvavo apie 1.200 lietuviškųjų organizacijų atstovų.'
+  teiginys: '1918 m. katalikai ir tautininkai Naujorke sušaukė trečiąjį lietuvių seimą, kuriame dalyvavo apie 1 200 lietuviškų organizacijų atstovų.'
   pagrindžia:
     - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-004
-  teiginys: 'Tuo reikalu dar 1916 m. Brukline įvyko katalikų ir tautininkų organizacijų atstovų suvažiavimas karo sunaikintos Lietuvos kūrimo reikalams apsvarstyti.'
+  teiginys: '1916 m. Brukline katalikų ir tautininkų organizacijų atstovų suvažiavimas įsteigė Lietuvos Atstatymo Bendrovę.'
   pagrindžia:
     - c-004
-- t-005
-  teiginys: 'Amerikos Valstybėms stojant į karą, — apie 30.000 lietuvių stojo į Amerikos kariuomenę ir jautėsi kariaują dėl savo tautos laisvės.'
-  pagrindžia:
-    - c-005
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Jau 1914 m. Filadelfijoje įvyko bendras lietuvių ir ukrainiečių mitingas, kuris reikalavo „išvyti maskolius į Aziją ir palikti Lietuvą lietuviams, o Ukrainą ukrainiečiams".'
+  santrauka: '1914 m. Filadelfijoje lietuvių ir ukrainiečių mitingas reikalavo palikti Lietuvą lietuviams, o Ukrainą ukrainiečiams.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jau 1914 m. Filadelfijoje įvy-
     ko bendras lietuvių ir ukrainiečių mitingas, kuris reikalavo „iš-
     vyti maskolius į Aziją ir palikti Lietuvą lietuviams, o Ukrainą
     ukrainiečiams".
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
@@ -77,15 +81,15 @@ Nenurodyta
     tininkai nėjo: jie suorganizavo savo Amerikos Lietuvių
     Tautinę Tarybą. Prie tų Tarybų veikimo, siekiančio auto-
     nomijos, socialistai visai neprisidėjo.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 - c-003
-  santrauka: '1918 m. katalikai ir tautininkai sušaukė Naujorke trečiąjį lietuvių seimą, kuriame dalyvavo apie 1.200 lietuviškųjų organizacijų atstovų.'
+  santrauka: '1918 m. katalikai ir tautininkai Naujorke sušaukė trečiąjį lietuvių seimą, kuriame dalyvavo apie 1 200 lietuviškų organizacijų atstovų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     1918 m. katalikai ir tautininkai sušaukė Naujorke trečiąjį
@@ -99,15 +103,15 @@ Nenurodyta
     mitetą ir gegužės 3 d. nusiuntė pas prezidentą Vilsoną abiejų
     Tarybų delegaciją. Prezidentas delegacijai pažadėjo paremti Lie-
     tuvos nepriklausomybę.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
 - c-004
-  santrauka: 'Tuo reikalu dar 1916 m. Brukline įvyko katalikų ir tautininkų organizacijų atstovų suvažiavimas karo sunaikintos Lietuvos kūrimo reikalams apsvarstyti.'
+  santrauka: '1916 m. Brukline katalikų ir tautininkų organizacijų atstovų suvažiavimas įsteigė Lietuvos Atstatymo Bendrovę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo reikalu dar 1916 m. Brukline
@@ -116,28 +120,13 @@ Nenurodyta
     įsteigė Lietuvos Atstatymo Bendrovę; ta bendro-
     vė ėmėsi organizuoti įvairių šakų bendroves, kurios po karo
     turėjo persikelti į Lietuvą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
-- c-005
-  santrauka: 'Amerikos Valstybėms stojant į karą, — apie 30.000 lietuvių stojo į Amerikos kariuomenę ir jautėsi kariaują dėl savo tautos laisvės.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kai visam pasauly paplito garsas, kad karas kariaujamas dėl tautų
-    apsisprendimo ir laisvės teisių, tuomet, — J. Amerikos Valsty-
-    bėms stojant į karą, — apie 30.000 lietuvių stojo į Amerikos
-    kariuomenę ir jautėsi kariaują dėl savo tautos laisvės.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
 
 ## Ryšiai
 ### Laikotarpiai

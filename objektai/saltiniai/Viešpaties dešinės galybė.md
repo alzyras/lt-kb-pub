@@ -30,7 +30,7 @@ Benneto veikalo „Viešpaties dešinės galybė“, 1674) 2 skyrius • L E N K
 
 ## Teiginiai
 - t-001
-  teiginys: 'J. Benneto veikalas „Viešpaties dešinės galybė“ buvo išspausdintas Vilniuje 1674 m. ir vaizdavo Chotyno mūšį.'
+  teiginys: 'Vilniuje 1674 m. spausdintame J. Benneto veikale „Viešpaties dešinės galybė“ buvo Chotyno mūšio vaizdas.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -40,7 +40,7 @@ Benneto veikalo „Viešpaties dešinės galybė“, 1674) 2 skyrius • L E N K
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'J. Benneto veikalas „Viešpaties dešinės galybė“ buvo išspausdintas Vilniuje 1674 m. ir vaizdavo Chotyno mūšį.'
+  santrauka: 'Vilniuje 1674 m. spausdintame J. Benneto veikale „Viešpaties dešinės galybė“ buvo Chotyno mūšio vaizdas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Len-

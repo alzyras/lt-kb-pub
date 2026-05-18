@@ -30,45 +30,28 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Dažniausiai muštynių atsitikdavo švenčių metu, per procesijas, kada ypatingai vieni kitus gebėdavo įžeisti.'
+  teiginys: '1611 m. per Dievo Kūno procesiją protestantas už Ostijos garbinimo pavadinimą stabmeldyste buvo apkultas, suimtas ir nukankintas.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Pavyzdžiui, 1611 m. per Dievo Kūno procesiją vienas protestantas, Ostijos garbinimą išvadinęs stabmeldyste, buvo minios apkultas, suimtas, o vėliau pasmerktas mirti ir nukankintas.'
-  pagrindžia:
-    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Dažniausiai muštynių atsitikdavo švenčių metu, per procesijas, kada ypatingai vieni kitus gebėdavo įžeisti.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Dažniausiai muštynių atsitikdavo švenčių metu, per
-    procesijas, kada ypatingai vieni kitus gebėdavo įžeisti. Taip
-    pat nemaža rietenų ir muštynių būdavo ir per iškilmingas lai-
-    dotuves.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Pavyzdžiui, 1611 m. per Dievo Kūno procesiją vienas protestantas, Ostijos garbinimą išvadinęs stabmeldyste, buvo minios apkultas, suimtas, o vėliau pasmerktas mirti ir nukankintas.'
+  santrauka: '1611 m. per Dievo Kūno procesiją protestantas už Ostijos garbinimo pavadinimą stabmeldyste buvo apkultas, suimtas ir nukankintas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pavyzdžiui, 1611 m. per Dievo Kūno procesiją vie-
     nas protestantas, Ostijos garbinimą išvadinęs stabmeldyste,
     buvo minios apkultas, suimtas, o vėliau pasmerktas mirti ir nu-
     kankintas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Laikotarpiai

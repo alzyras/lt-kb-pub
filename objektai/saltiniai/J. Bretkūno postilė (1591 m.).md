@@ -18,20 +18,24 @@ Bretkūno postilė.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Bretkūno postilė.'
+  teiginys: 'J. Bretkūno postilė minima kaip 1591 m. šaltinis.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Bretkūno postilė.'
+  santrauka: 'J. Bretkūno postilė minima kaip 1591 m. šaltinis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     1591 m. J. Bretkūno postilė.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

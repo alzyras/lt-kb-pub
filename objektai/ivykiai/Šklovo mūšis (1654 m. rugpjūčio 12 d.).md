@@ -45,68 +45,16 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Šklovo mūšio išvakarėse Jonušas Radvila vadovavo gerokai mažesnėms LDK pajėgoms.'
-  pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-002
+- t-003
   teiginys: 'Kunigaikštis Čerkaskis iš Smolensko žygiavo užimti Oršą ir Kopysę, o Šklovo mūšio dieną priešininkų pajėgos dar tik ruošėsi susidūrimui.'
   pagrindžia:
-    - c-002
+    - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Šklovo mūšio išvakarėse Jonušas Radvila vadovavo gerokai mažesnėms LDK pajėgoms.
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Šklovo mūšyje LDK kariuomenei vadovavo
-
-    didysis etmonas kunigaikštis Jonušas Radvila
-    (1612-1655). 1654 m. liepos mėn. J. Radvilos
-
-    vadovaujamas LDK karines pajėgas sudarė
-    11261 karys. Lietuviai stipriai nusileido ru-
-    sams pajėgų dydžiu. Tikėtina, kad realiai
-
-    (apie tai rašo anoniminis autorius, spėjama,
-
-    kad pats J. Radvila) kariuomenės stovyk-
-    loje prie Oršos Radvila turėjo dar mažiau
-    karių: apie 4000 svetimšalių autoramento
-    karių, 2000 bajorų pašauktinių ir pavietų
-    vėliavų (jas sudarė pavietų bajorų seimelių
-
-    nurodymu samdyti kariai; jų samdos lai-
-    kas paprastai būdavo labai trumpas - tar-
-    puvaldžiu arba ginant tam tikrą teritoriją
-    nuo išorės priešo, ji vykdė milicijos funk-
-    cijas), kurių karinis pasirengimas nebuvo
-    labai geras. Situacija prieš mūšį buvo labai
-    grėsminga, miestai pasiduodavo priešui be
-    kovos, atrodė, kad besiveržiančių į Lietuvą
-    rusų sulaikyti tampa neįmanoma.
-
-    Mūšis
-
-    Kariuomenės stovykloje prie Oršos
-    Radvila delsė siųsti pagrindines savo pa-
-    jėgas į mūšį su gausiomis priešo pajėgo-
-    mis. Etmonas siųsdavo atskirus dalinius
-    Smolensko link ir puldinėjo mažesnius
-    priešo dalinius
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: Kunigaikštis Čerkaskis iš Smolensko žygiavo užimti Oršą ir Kopysę, o Šklovo mūšio dieną priešininkų pajėgos dar tik ruošėsi susidūrimui.
+  santrauka: 'Kunigaikštis Čerkaskis iš Smolensko žygiavo užimti Oršą ir Kopysę, o Šklovo mūšio dieną priešininkų pajėgos dar tik ruošėsi susidūrimui.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Caro kariuomenė prie
@@ -119,13 +67,13 @@ Nenurodyta
     nuo Smolensko žygiavo užimti Oršą
 
     ir Kopysę.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-003
 
 ## Ryšiai
 ### Laikotarpiai

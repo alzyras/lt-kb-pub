@@ -29,7 +29,7 @@ tags:
 Finikiečiai pateikiami kaip viena iš tautų, su kuriomis lietuviai turėjo ryšių.
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Finikiečiai pateikiami kaip viena iš tautų, su kuriomis lietuviai turėjo ryšių.'
   pagrindžia:
     - c-001
@@ -38,7 +38,7 @@ Finikiečiai pateikiami kaip viena iš tautų, su kuriomis lietuviai turėjo ry�
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Finikiečiai pateikiami kaip viena iš tautų, su kuriomis lietuviai turėjo ryšių.
+  santrauka: 'Finikiečiai pateikiami kaip viena iš tautų, su kuriomis lietuviai turėjo ryšių.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Lietuvos tauta, gyvendama pietinėj įšleitėj tarp upių Isterio, arba Dunojaus, Tyrulės ir Niperio
@@ -51,9 +51,8 @@ Finikiečiai pateikiami kaip viena iš tautų, su kuriomis lietuviai turėjo ry�
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Egiptiečiai]]
-- [[objektai/grupes/Graikai]]

@@ -30,25 +30,10 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Maskva buvo pasiekta, tačiau jos paimti nepavyko, ir 1618 m. Divilino kaime (prie Maskvos) buvo padarytos 16 metų paliaubos.'
-  pagrindžia:
-    - c-001
+Nenurodyta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Maskva buvo pasiekta, tačiau jos paimti nepavyko, ir 1618 m. Divilino kaime (prie Maskvos) buvo padarytos 16 metų paliaubos.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Maskva buvo pasiekta, tačiau jos paimti nepavyko, ir 1618 m. Divilino kaime (prie Maskvos) buvo padarytos
-    16 metų paliaubos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
+Nenurodyta
 
 ## Ryšiai
 ### Teminiai klasteriai

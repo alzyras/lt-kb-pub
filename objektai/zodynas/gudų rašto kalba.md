@@ -22,10 +22,14 @@ Lietuvoje vidaus reikalams jau nuo XIV amž. galo buvo vartojama gudų rašto ka
   teiginys: 'Lietuvoje vidaus reikalams jau nuo XIV amž. galo buvo vartojama gudų rašto kalba.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: 'Dar ilgai buvo vartojama ta pati gudų kalba, o po unijos kaskart vis labiau ėmė įsigalėti lenkų kalba.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -34,11 +38,11 @@ Lietuvoje vidaus reikalams jau nuo XIV amž. galo buvo vartojama gudų rašto ka
   citata_originali: |
     Lietuvoje vidaus reikalams jau nuo XIV amž. galo buvo vartojama gudų rašto kalba. Iš pradžių, greta
     jos, dar buvo pradėta vartoti lotynų kalba, tačiau ji neįsigalėjo.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
@@ -47,10 +51,10 @@ Lietuvoje vidaus reikalams jau nuo XIV amž. galo buvo vartojama gudų rašto ka
   citata_originali: |
     Dar ilgai buvo vartojama ta pati gudų kalba, o po unijos kaskart
     vis labiau ėmė įsigalėti lenkų kalba.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

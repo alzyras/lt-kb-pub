@@ -21,13 +21,15 @@ Bet tai tebuvo tik diplomatiškas atsikalbėjimas; juo buvo norima nesugriauti L
 
 ## Teiginiai
 - t-001
-  teiginys: 'Bet tai tebuvo tik diplomatiškas atsikalbėjimas; juo buvo norima nesugriauti Lietuvos bajorijos vilčių, kad ši nepultų į Napoleono glėbį, kuris tuo tarpu su savo kariuomene stovėjo Vilkavišky ir jau buvo paskelbęs Rusijai karą.'
+  teiginys: 'Napoleonas su kariuomene stovėjo Vilkaviškyje, kai jau buvo paskelbęs karą Rusijai.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Bet tai tebuvo tik diplomatiškas atsikalbėjimas; juo buvo norima nesugriauti Lietuvos bajorijos vilčių, kad ši nepultų į Napoleono glėbį, kuris tuo tarpu su savo kariuomene stovėjo Vilkavišky ir jau buvo paskelbęs Rusijai karą.'
+  santrauka: 'Napoleonas su kariuomene stovėjo Vilkaviškyje, kai jau buvo paskelbęs karą Rusijai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     atsisvei-
@@ -36,10 +38,10 @@ Bet tai tebuvo tik diplomatiškas atsikalbėjimas; juo buvo norima nesugriauti L
     kalbėjimas; juo buvo norima nesugriauti Lietuvos bajorijos vilčių,
     kad ši nepultų į Napoleono glėbį, kuris tuo tarpu su savo kariuo-
     mene stovėjo Vilkavišky ir jau buvo paskelbęs Rusijai karą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

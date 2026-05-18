@@ -29,7 +29,7 @@ tags:
 Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneriai ar priešai.
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneriai ar priešai.'
   pagrindžia:
     - c-001
@@ -38,7 +38,7 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneriai ar priešai.
+  santrauka: 'Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneriai ar priešai.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Lietuvos tauta, gyvendama pietinėj įšleitėj tarp upių Isterio, arba Dunojaus, Tyrulės ir Niperio
@@ -52,4 +52,4 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

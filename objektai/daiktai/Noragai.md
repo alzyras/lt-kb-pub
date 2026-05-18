@@ -45,7 +45,7 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Laukai buvo ariami medžio noragais, ne geležiniais, o kai kurie storastos bandė įsakyti arti gelžiniais noragais.'
   pagrindžia:
     - c-001
@@ -54,7 +54,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Laukai buvo ariami medžio noragais, ne geležiniais, o kai kurie storastos bandė įsakyti arti gelžiniais noragais.
+  santrauka: 'Laukai buvo ariami medžio noragais, ne geležiniais, o kai kurie storastos bandė įsakyti arti gelžiniais noragais.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Žemę aria medžio noragais, ne geležies, tas dar yra stebuklingesniu, jog jų
@@ -70,7 +70,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Pastabos
 

@@ -48,7 +48,7 @@ Terminas vartojamas kalbant apie Stanislovo Augusto Poniatovskio abdikacijos akt
 Vartojama politinės teisės ir valdovo statuso kontekste.
 
 ## Teiginiai
-- t-002
+- t-003
   teiginys: 'Prie konvencijos buvo pridėtas Stanislovo Augusto Poniatovskio abdikacijos (sosto atsisakymo) aktas.'
   pagrindžia:
     - c-001
@@ -71,7 +71,7 @@ Vartojama politinės teisės ir valdovo statuso kontekste.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai

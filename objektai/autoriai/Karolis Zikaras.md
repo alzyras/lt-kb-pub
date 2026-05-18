@@ -42,99 +42,26 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
 - Prostkų mūšis 1656
 
 ## Teiginiai
-- t-001
-  teiginys: 'Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius ir sudarytojas.'
-  pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Karolis Zikaras šiame leidinyje įvardytas kaip skyrių įvadų autorius ir vienas istorijos šaltinių citatų rinkėjų.'
-  pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: 'Karoliui Zikarui šiame leidinyje priskiriami keli mūšių straipsniai ir informaciniai blokai.'
-  pagrindžia:
-    - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-004
+- t-005
   teiginys: 'Autorių sąraše Karolis Zikaras apibūdinamas kaip Lietuvos karybos istorija, jos didaktika ir valstybingumo istorija besidomintis istorikas.'
   pagrindžia:
-    - c-005
+    - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Bibliografiniame bloke Karolis Zikaras įvardijamas atsakinguoju redaktoriumi ir sudarytoju.
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Atsakingasis redaktorius ir sudarytojas
-    Karolis Zikaras
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: Karolis Zikaras nurodomas kaip skyrių įvadų autorius ir vienas istorijos šaltinių citatų rinkėjų.
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Skyrių įvadų autorius
-    Karolis Zikaras
-
-    Istorijos šaltinių citatas rinko:
-    Auksė Ūsienė,
-    Karolis Zikaras
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: Turinio puslapis rodo kelis konkrečius Karolio Zikaro straipsnius.
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Žalgirio (Griunvaldo) mūšis 1410 Karolis Zikaras 56
-    Pabaisko (Ukmergės) mūšis 1435 Romas Batūra 66
-
-    VAKARŲ KRIKŠČIONYBĖS
-    TVIRTOVĖ RYTUOSE 72
-
-    Vedrošos mūšis 1500 Karolis Zikaras 74
-
-    Klecko mūšis 1506 Darius Baronas 75
-
-    Oršos mūšis 1514 Mintautas Čiurinskas 80
-
-    Ulos (Čašnikų) mūšis 1564 Eduardas Brusokas 86
-    K. Radvilos Perkūno reidas 1581 Karolis Zikaras 90
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-- c-005
-  santrauka: Autorių sąraše pateikiama trumpa Karolio Zikaro profesinė charakteristika.
+  santrauka: 'Autorių sąraše Karolis Zikaras apibūdinamas kaip Lietuvos karybos istorija, jos didaktika ir valstybingumo istorija besidomintis istorikas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Karolis Zikaras (gimęs 1979 m.), Vilniaus universiteto Istorijos
     fakultete įgijo bakalauro ir magistro laipsnius. Domisi Lietuvos
     įvairių laikotarpių karybos istorija ir jos didaktikos problemo-
     mis bei Lietuvos valstybingumo istorija.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-005

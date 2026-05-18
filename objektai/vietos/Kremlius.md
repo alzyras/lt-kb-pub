@@ -49,7 +49,7 @@ Kremlius čia aprašomas kaip tvirtovė, susieta su Maskvos valdžios centru.
 
 ## Teiginiai
 - t-001
-  teiginys: "Jono Kalitos tvirtovės Kremliaus pamatai šiame šaltinyje pateikiami kaip viena iš Lietuvos ir Maskvos dinastinio antagonizmo ašių."
+  teiginys: 'Jono Kalitos tvirtovės Kremlius siejamas su XIV a. pirmoje pusėje prasidėjusiu Lietuvos ir Maskvos dinastijų antagonizmu.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -57,7 +57,7 @@ Kremlius čia aprašomas kaip tvirtovė, susieta su Maskvos valdžios centru.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Kremlius pateikiamas kaip Jono Kalitos tvirtovė Lietuvos ir Maskvos antagonizmo formulėje.
+  santrauka: 'Jono Kalitos tvirtovės Kremlius siejamas su XIV a. pirmoje pusėje prasidėjusiu Lietuvos ir Maskvos dinastijų antagonizmu.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Galima sakyti jau nuo XIV amžiaus pirmos pusės į Gedimino
@@ -66,8 +66,8 @@ Kremlius čia aprašomas kaip tvirtovė, susieta su Maskvos valdžios centru.
     (Gediminaičių-Riurikaičių) _antagonizmas_ (H. Paszkiewicz), pasto­
     viai lydėjęs jas per tolimesnius šimtmečius.
   citata_rodoma: ""
-  teiginio_tipas: interpretacija
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:

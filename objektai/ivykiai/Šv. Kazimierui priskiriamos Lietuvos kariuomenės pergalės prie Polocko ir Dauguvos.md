@@ -31,7 +31,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Karalaitis Kazimieras paskelbtas šventuoju, kai po mirties pradėjo garsėti kaip stebukladaris, nes tikėta, kad jis išgelbėjęs Lietuvą karuose su Maskva – 1518 m. padėjęs Lietuvos kariuomenei įveikti priešą prie Polocko, o 1519 m. laimėti mūšį prie Dauguvos.'
+  teiginys: 'Tikėta, kad šv. Kazimieras 1518 m. padėjo Lietuvos kariuomenei prie Polocko, o 1519 m. laimėti mūšį prie Dauguvos.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -39,7 +39,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Karalaitis Kazimieras paskelbtas šventuoju, kai po mirties pradėjo garsėti kaip stebukladaris, nes tikėta, kad jis išgelbėjęs Lietuvą karuose su Maskva – 1518 m. padėjęs Lietuvos kariuomenei įveikti priešą prie Polocko, o 1519 m. laimėti mūšį prie Dauguvos.'
+  santrauka: 'Tikėta, kad šv. Kazimieras 1518 m. padėjo Lietuvos kariuomenei prie Polocko, o 1519 m. laimėti mūšį prie Dauguvos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Karalaitis Kazimieras paskelbtas šventuoju, kai po mirties

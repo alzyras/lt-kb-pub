@@ -21,13 +21,15 @@ Seimas buvo priverstas įvykdyti visus jo reikalavimus.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Seimas buvo priverstas įvykdyti visus jo reikalavimus.'
+  teiginys: 'Varšuvos konfederacinis seimas pripažino Rusijai teisę prižiūrėti, kad nebūtų pakeistos kardinalinės teisės.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Seimas buvo priverstas įvykdyti visus jo reikalavimus.'
+  santrauka: 'Varšuvos konfederacinis seimas pripažino Rusijai teisę prižiūrėti, kad nebūtų pakeistos kardinalinės teisės.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Seimas buvo
@@ -40,10 +42,10 @@ Seimas buvo priverstas įvykdyti visus jo reikalavimus.
     teises su katalikais, ir t.t. Čartoriskių pradėtos reformos nuėjo
     vėjais, o blogiausia buvo tai, kad Rusijai buvo pripažinta
     teisė prižiūrėti Respublikos vidaus gyvenimą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

@@ -1,9 +1,11 @@
 ---
 tipas: asmuo
-pavadinimas: 'Juozas Zdebskis'
+pavadinimas: 'Juozas Zdebskis (kunigas)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Juozas Zdebskis'
+aliases:
+  - 'Juozas Zdebskis'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
@@ -12,7 +14,7 @@ tags:
   - kunigas
   - valstybė
 ---
-# Juozas Zdebskis
+# Juozas Zdebskis (kunigas)
 
 ## Santrauka
 

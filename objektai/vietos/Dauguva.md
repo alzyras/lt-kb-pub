@@ -20,51 +20,54 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
 
 ## Teiginiai
 - t-001
-  teiginys: 'Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos pasiekdavo net Estiją.'
+  teiginys: 'Treniota su žemaičiais per žygius už Dauguvos pasiekdavo net Estiją.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Kulmo apylinkes, o už Dauguvos pasiekdavo net Estiją.'
+  teiginys: 'Treniota su žemaičiais per žygius už Dauguvos pasiekdavo net Estiją.'
   pagrindžia:
     - c-001
-- t-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-003
   teiginys: 'Tas pats atsitiko ir kitam Lietuvos prekybos keliui, ėjusiam Dauguvos upe per Rygą.'
   pagrindžia:
-    - c-004
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos pasiekdavo net Estiją.'
+  santrauka: 'Treniota su žemaičiais per žygius už Dauguvos pasiekdavo net Estiją.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo tarpu Treniota su žemaičiais žygiavo
     tolimus žygius: Prūsuose jie pasiekdavo net Vyslą, siaubdavo
     Kulmo apylinkes, o už Dauguvos pasiekdavo net Estiją.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
     - t-002
-- c-004
+- c-002
   santrauka: 'Tas pats atsitiko ir kitam Lietuvos prekybos keliui, ėjusiam Dauguvos upe per Rygą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tas pats atsitiko ir kitam Lietuvos prekybos keliui, ėju-
     siam Dauguvos upe per Rygą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/upė]]
-
-### Susiję objektai
-- [[objektai/vietos/Estija]]

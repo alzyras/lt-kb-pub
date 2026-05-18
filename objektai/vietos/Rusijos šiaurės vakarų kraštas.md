@@ -19,13 +19,15 @@ Tačiau, kai prasidėjo rusinimo pastangos, rusai jas ėmė vadinti Rusijos šia
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tačiau, kai prasidėjo rusinimo pastangos, rusai jas ėmė vadinti Rusijos šiaurės vakarų kraštu.'
+  teiginys: 'Rusinimo laikotarpiu rusų valdžia Lietuvos gubernijas ėmė vadinti Rusijos šiaurės vakarų kraštu.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tačiau, kai prasidėjo rusinimo pastangos, rusai jas ėmė vadinti Rusijos šiaurės vakarų kraštu.'
+  santrauka: 'Rusinimo laikotarpiu rusų valdžia Lietuvos gubernijas ėmė vadinti Rusijos šiaurės vakarų kraštu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Visos tos trys gubernijos iš pradžių ir Rusų valdžios buvo
@@ -33,10 +35,10 @@ Tačiau, kai prasidėjo rusinimo pastangos, rusai jas ėmė vadinti Rusijos šia
     sidėjo rusinimo pastangos, rusai jas ėmė vadinti Rusijos
     šiaurės vakarų kraštu. Jį valdė Vilniaus generalgu-
     bernatorius.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

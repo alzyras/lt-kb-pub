@@ -21,77 +21,89 @@ Tam tikslui 1932 m. įsikūrė Draugija Užsienio Lietuviams Remti (DULR). Rūpi
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tam tikslui 1932 m. įsikūrė Draugija Užsienio Lietuviams Remti (DULR).'
+  teiginys: 'Draugija Užsienio Lietuviams Remti (DULR) įsikūrė 1932 m. ir siekė kultūriškai bei kiek galėdama materialiai remti užsienio lietuvius.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Rūpindamasi, kad kraštas palaikytų su išeiviais kuo artimiausią ryšį, draugija padeda į Lietuvą atvykstančioms išeivių ekskursijoms, suartina panašias užsienio lietuvių ir Lietuvos organizacijas, padeda susitikti sportininkams ir pasirodyti menininkams.'
+  teiginys: 'DULR palaikė ryšius su išeiviais, padėdama jų ekskursijoms į Lietuvą, organizacijų suartinimui, sportininkų susitikimams ir menininkų pasirodymams.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-003
-  teiginys: 'Stengdamasi pakelti užsienio lietuvių švietimą, DULR rūpinasi lietuviškų mokyklų steigimu, parūpina išeivių mokykloms mokytojų, siunčia išeivių bibliotekoms knygų ir vadovėlių.'
+  teiginys: 'DULR rūpinosi užsienio lietuvių švietimu: lietuviškų mokyklų steigimu, mokytojų parūpinimu ir knygų bei vadovėlių siuntimu bibliotekoms.'
   pagrindžia:
     - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-004
-  teiginys: 'Kadangi pagrindinė sąlyga suaugusiems nenutausti yra savos lietuviškos organizacijos ir spauda, tai DULR kiek galėdama stengiasi palaikyti visas tautiškas ir ekonomiškas užsienio lietuvių draugijas ir spaudą.'
+  teiginys: 'DULR stengėsi palaikyti užsienio lietuvių tautines ir ekonomines draugijas bei spaudą.'
   pagrindžia:
     - c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-005
-  teiginys: 'Nepaprastai didelę reikšmę užsienio lietuviams turi sava lietuviškoji bažnyčia, lietuviškosios pamaldos.'
+  teiginys: 'DULR rūpinosi, kad didesniuose užsienio lietuvių centruose būtų lietuvių kunigų, lietuviškų pamaldų ir lietuviškų maldaknygių.'
   pagrindžia:
     - c-005
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-006
-  teiginys: 'Taigi dar reikia rasti tokią vietą, kur lietuviams kurtis būtų patogios klimato sąlygos, kuri dar nebūtų kitų tautų užimta ir kuri bent ateity turėtų didelių ekonominių perspektyvų.'
+  teiginys: 'DULR ėmėsi tirti vietas Pietų Amerikoje, kur lietuvių kolonijoms būtų tinkamos klimato sąlygos ir ekonominės perspektyvos.'
   pagrindžia:
     - c-006
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tam tikslui 1932 m. įsikūrė Draugija Užsienio Lietuviams Remti (DULR).'
+  santrauka: 'Draugija Užsienio Lietuviams Remti (DULR) įsikūrė 1932 m. ir siekė kultūriškai bei kiek galėdama materialiai remti užsienio lietuvius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tam tikslui 1932 m. įsikūrė Draugija
     Užsienio Lietuviams Remti (DULR). Draugijos tik-
     slas — remti užsieny gyvenančius lietuvius kultūriškai, o kiek galint
     ir materialiai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Rūpindamasi, kad kraštas palaikytų su išeiviais kuo artimiausią ryšį, draugija padeda į Lietuvą atvykstančioms išeivių ekskursijoms, suartina panašias užsienio lietuvių ir Lietuvos organizacijas, padeda susitikti sportininkams ir pasirodyti menininkams.'
+  santrauka: 'DULR palaikė ryšius su išeiviais, padėdama jų ekskursijoms į Lietuvą, organizacijų suartinimui, sportininkų susitikimams ir menininkų pasirodymams.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Rūpindamasi, kad kraštas palaikytų su išeiviais kuo
     artimiausią ryšį, draugija padeda į Lietuvą atvykstančioms išeivių
     ekskursijoms, suartina panašias užsienio lietuvių ir Lietuvos orga-
     nizacijas, padeda susitikti sportininkams ir pasirodyti menininkams.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Stengdamasi pakelti užsienio lietuvių švietimą, DULR rūpinasi lietuviškų mokyklų steigimu, parūpina išeivių mokykloms mokytojų, siunčia išeivių bibliotekoms knygų ir vadovėlių.'
+  santrauka: 'DULR rūpinosi užsienio lietuvių švietimu: lietuviškų mokyklų steigimu, mokytojų parūpinimu ir knygų bei vadovėlių siuntimu bibliotekoms.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Stengdamasi pakelti užsienio lietuvių švietimą, DULR rūpinasi
     lietuviškų mokyklų steigimu, parūpina išeivių mokykloms mokytojų,
     siunčia išeivių bibliotekoms knygų ir vadovėlių.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
 - c-004
-  santrauka: 'Kadangi pagrindinė sąlyga suaugusiems nenutausti yra savos lietuviškos organizacijos ir spauda, tai DULR kiek galėdama stengiasi palaikyti visas tautiškas ir ekonomiškas užsienio lietuvių draugijas ir spaudą.'
+  santrauka: 'DULR stengėsi palaikyti užsienio lietuvių tautines ir ekonomines draugijas bei spaudą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kadangi pagrindinė sąlyga suaugusiems nenutausti yra savos
@@ -99,15 +111,15 @@ Tam tikslui 1932 m. įsikūrė Draugija Užsienio Lietuviams Remti (DULR). Rūpi
     giasi palaikyti visas tautiškas ir ekonomiškas užsienio lietuvių drau-
     gijas ir spaudą. Tam tikslui ji skiria nemaža pinigų ir remia užsienio
     lietuvių spaudą raštais.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
 - c-005
-  santrauka: 'Nepaprastai didelę reikšmę užsienio lietuviams turi sava lietuviškoji bažnyčia, lietuviškosios pamaldos.'
+  santrauka: 'DULR rūpinosi, kad didesniuose užsienio lietuvių centruose būtų lietuvių kunigų, lietuviškų pamaldų ir lietuviškų maldaknygių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Nepaprastai didelę reikšmę užsienio lietu-
@@ -116,15 +128,15 @@ Tam tikslui 1932 m. įsikūrė Draugija Užsienio Lietuviams Remti (DULR). Rūpi
     centruose būtų lietuvių kunigų, kurie galėtų laikyti lietuviškas pa-
     maldas arba net suorganizuotų savas lietuviškas parapijas. Ji taip
     pat rūpinasi, kad lietuviai turėtų ir savų lietuviškų maldaknygių.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
 - c-006
-  santrauka: 'Taigi dar reikia rasti tokią vietą, kur lietuviams kurtis būtų patogios klimato sąlygos, kuri dar nebūtų kitų tautų užimta ir kuri bent ateity turėtų didelių ekonominių perspektyvų.'
+  santrauka: 'DULR ėmėsi tirti vietas Pietų Amerikoje, kur lietuvių kolonijoms būtų tinkamos klimato sąlygos ir ekonominės perspektyvos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ten, kur lietuviai jau seniai įsikūrę ir jų gyvenimas jau nusi-
@@ -149,11 +161,11 @@ Tam tikslui 1932 m. įsikūrė Draugija Užsienio Lietuviams Remti (DULR). Rūpi
     tas sumanymas davė išeiviams tik didelius nuostolius, nes užpirktos
     žemės pasirodė netinkamos. Taigi DULR ėmėsi ir šito tiriamojo
     darbo.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
 

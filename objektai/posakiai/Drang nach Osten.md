@@ -33,7 +33,7 @@ tags: []
 
 ## Teiginiai
 - t-001
-  teiginys: 'Formulė vartojama vokiečių veržimuisi į Rytus įvardyti ir siejama su smūgiu, suduotu Žalgirio laukuose.'
+  teiginys: 'Žalgirio laukuose pirmą kartą buvo suduotas smūgis vokiečių siekimui „Drang nach Osten“, tai yra veržimuisi į Rytus.'
   pagrindžia:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -41,7 +41,7 @@ tags: []
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Žalgirio pergalė pateikiama kaip smūgis vokiečių veržimuisi į Rytus.
+  santrauka: 'Žalgirio laukuose pirmą kartą buvo suduotas smūgis vokiečių siekimui „Drang nach Osten“, tai yra veržimuisi į Rytus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Bet kaip ten bebūtų, vis dėlto mes tu­
@@ -49,7 +49,7 @@ tags: []
     duotas smūgis vokiečių siekimui — „Drang nach Osten“ —
     veržtis į Rytus.
   citata_rodoma: ""
-  teiginio_tipas: interpretacija
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""

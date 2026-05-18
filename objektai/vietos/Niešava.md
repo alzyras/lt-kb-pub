@@ -19,24 +19,26 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Čia jie gavo iš Konrado žemių su Niešavos pilaite, o patys pasistatė Fogelzango pilį.'
+  teiginys: 'Prie Niešavos jie iš Konrado gavo žemių su pilaite ir pasistatė Fogelzango pilį.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Čia jie gavo iš Konrado žemių su Niešavos pilaite, o patys pasistatė Fogelzango pilį.'
+  santrauka: 'Prie Niešavos jie iš Konrado gavo žemių su pilaite ir pasistatė Fogelzango pilį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Čia jie gavo iš Konrado
     žemių su Niešavos pi-
     laite, o patys pasista-
     tė Fogelzango pilį.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

@@ -30,13 +30,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Antroj Lozanos konferencijoj tų pačių metų birželio 30 — liepos 4 d. dalyvavo iš okupuotosios Lietuvos atvykę delegatai.'
+  teiginys: 'Antrojoje Lozanos konferencijoje 1916 m. birželio 30 d.–liepos 4 d. dalyvavo iš okupuotos Lietuvos atvykę delegatai.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Antroj Lozanos konferencijoj tų pačių metų birželio 30 — liepos 4 d. dalyvavo iš okupuotosios Lietuvos atvykę delegatai.'
+  santrauka: 'Antrojoje Lozanos konferencijoje 1916 m. birželio 30 d.–liepos 4 d. dalyvavo iš okupuotos Lietuvos atvykę delegatai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Antroj Lozanos konferencijoj tų pačių metų birželio 30 —
@@ -44,11 +46,11 @@ Nenurodyta
     Buvo nutarta politinės propagandos centrą padaryti Šveicarijoje
     ir čia sukurti Rusijos, Lietuvos ir Amerikos lietuvių tarybą; dar-
     bo pagrindu buvo paimtas nepriklausomybės reikalavimas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

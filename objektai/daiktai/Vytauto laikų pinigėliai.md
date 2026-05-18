@@ -35,17 +35,21 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: '4—10 — Vytauto laikų pinigėliai (dokumentuose minimi jau 1387 m.; 10 pinigėlių = 1 skatikui; vėliau, XVI amž., jie buvo sulyginti su denarais); 5 — pusskatikis (= 5 pinigėliams) ; 6 ir 7 — dvidenariai (^2 /в skatiko) ; 8 — Kijevo kunig.'
+  teiginys: 'Vytauto laikų pinigėliai dokumentuose minimi jau 1387 m., o dešimt pinigėlių buvo lygūs vienam skatikui.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: 'Po Vytauto, iki Aleksandro laikų, Lietuvoje pinigai vėl nebebuvo kalami.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '4—10 — Vytauto laikų pinigėliai (dokumentuose minimi jau 1387 m.; 10 pinigėlių = 1 skatikui; vėliau, XVI amž., jie buvo sulyginti su denarais); 5 — pusskatikis (= 5 pinigėliams) ; 6 ir 7 — dvidenariai (^2 /в skatiko) ; 8 — Kijevo kunig.'
+  santrauka: 'Vytauto laikų pinigėliai dokumentuose minimi jau 1387 m., o dešimt pinigėlių buvo lygūs vienam skatikui.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     4—10 — Vytauto laikų _pinigėliai_ (dokumentuose minimi jau 1387 m.;
@@ -54,11 +58,11 @@ Nenurodyta
     Kijevo kunig. Vladimiro pinigas; 9 — Naugardo Sieversko kunig. Kaributo
     pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pašalinti
     iš savo kunigaikštijų).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
@@ -67,11 +71,11 @@ Nenurodyta
   citata_originali: |
     Po Vytauto, iki Aleksandro laikų, Lietuvoje pinigai vėl nebebuvo
     kalami. Buvo vartojami svetimi pinigai (daugiausia Prahos skatikai).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 
@@ -82,4 +86,3 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/daiktai/Aleksandro pinigai]]
-- [[objektai/daiktai/Lietuvos pinigai]]

@@ -19,17 +19,21 @@ Kantrimas. Kantrimas savo memoriale kuratoriui Čartoriskiui rašo, esą, didesn
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kantrimas.'
+  teiginys: 'K. Kantrimas buvo universiteto bibliotekininkas ir neįvykdyto projekto autorius.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: 'Kantrimas savo memoriale kuratoriui Čartoriskiui rašo, esą, didesnėje lietuviškųjų gubernijų dalyje kaimiečiai kalbą lietuviškai.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kantrimas.'
+  santrauka: 'K. Kantrimas buvo universiteto bibliotekininkas ir neįvykdyto projekto autorius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Projekto autorius buvo universiteto bibliotekininkas K. Kantri-
@@ -38,11 +42,11 @@ Kantrimas. Kantrimas savo memoriale kuratoriui Čartoriskiui rašo, esą, didesn
     tik tuo metu prasidėjo rusų reakcija prieš lenkiškąją universiteto
     linkmę, ir vadovybei nebebuvo kada galvoti apie savo darbo
     plėtimą; reikėjo tik rūpintis išlaikyti tai, kas pasiekta.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
@@ -55,10 +59,10 @@ Kantrimas. Kantrimas savo memoriale kuratoriui Čartoriskiui rašo, esą, didesn
     nėj) ir Prūsuose. Tilžėj, Klaipėdoj, iš dalies ir Karaliaučiuj lietuviškai
     esą atliekami net prekybos reikalai; tose srityse lietuviškai atliekama
     dalis pamaldų ir lietuviškai žmonės mokomi tikybos.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

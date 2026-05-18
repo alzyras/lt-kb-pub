@@ -32,17 +32,21 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žemaičių vyskupystėje (jis vyskupavo 1850—1875 m.; prieš jo vyskupavimą, 1849 m., Žemaičių vyskupystė buvo padidinta, — prie jos buvo pirskirtos 93 Vilniaus vyskupystės parapijos — Kauno.'
+  teiginys: 'Žemaičių vyskupystėje vyskupo Valančiaus raginama kunigija platino blaivybę ir rašė žmones į blaivybės brolijas.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Pasisekimas buvo toks didelis, jog kai kuriose parapijose blaivybės brolijos nariais pasidarė net 97% visų gyventojų.'
+  teiginys: 'Kai kuriose parapijose blaivybės brolijų nariais tapo net 97 proc. visų gyventojų.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žemaičių vyskupystėje (jis vyskupavo 1850—1875 m.; prieš jo vyskupavimą, 1849 m., Žemaičių vyskupystė buvo padidinta, — prie jos buvo pirskirtos 93 Vilniaus vyskupystės parapijos — Kauno.'
+  santrauka: 'Žemaičių vyskupystėje vyskupo Valančiaus raginama kunigija platino blaivybę ir rašė žmones į blaivybės brolijas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     XIX amž. vidury popiežiaus Pijo IX paraginti, viso pa-
@@ -54,15 +58,15 @@ Nenurodyta
     Panevėžio, Ukmergės, Utenos, Obelių, Zarasų, Kuršo ir Žiem-
     galos dekanatai). Vyskupo raginama, kunigija tapo uoliausia
     blaivybės platintoja; ji surašinėjo žmones į blaivybės brolijas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Pasisekimas buvo toks didelis, jog kai kuriose parapijose blaivybės brolijos nariais pasidarė net 97% visų gyventojų.'
+  santrauka: 'Kai kuriose parapijose blaivybės brolijų nariais tapo net 97 proc. visų gyventojų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pasisekimas buvo toks didelis, jog kai kuriose parapijose blai-
@@ -72,11 +76,11 @@ Nenurodyta
     948.056 rublius, o tegavo vos 53.146 rublius. Vilniaus guberni-
     joje degtinės pajamos kad ir sumažėjo, bet ne taip labai: ten
     buvo tikėtasi 929.305 rublių, o gauta 336.781 rublis.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

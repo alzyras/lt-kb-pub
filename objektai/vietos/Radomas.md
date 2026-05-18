@@ -20,13 +20,15 @@ Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumen
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumentas yra žuvęs, tad nežinia, kur jis duotas; lenkų bajorai savo dokumentą surašė Radome.'
+  teiginys: 'Lenkų bajorai Vilniaus ir Radomo susitarimo dokumentą surašė Radome.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumentas yra žuvęs, tad nežinia, kur jis duotas; lenkų bajorai savo dokumentą surašė Radome.'
+  santrauka: 'Lenkų bajorai Vilniaus ir Radomo susitarimo dokumentą surašė Radome.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vytauto ir Lietuvos bajorų
@@ -34,11 +36,11 @@ Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumen
     vęs, tad nežinia, kur jis duotas; lenkų bajorai savo dokumentą su-
     rašė Radome. Todėl šis susitarimas yra vadinamas Vilniaus
     Radomo susitarimu.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

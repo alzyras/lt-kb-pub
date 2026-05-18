@@ -44,25 +44,25 @@ Vasario 16 Aktas šiame veikale aiškinamas kaip 1918 m. vasario 16 d. Lietuvos 
 - Lietuvos valstybės pamatus ir santykius su kitomis valstybėmis turėjo galutinai nustatyti demokratiškai išrinktas Steigiamasis Seimas.
 
 ## Teiginiai
-- t-010
-  teiginys: 'Vasario 16 Aktas davė pradžią tikrai Lietuvos nepriklausomybei ir aiškiai parodė, kur Taryba veda Lietuvą.'
+- t-014
+  teiginys: 'Vasario 16 Aktas tapo Lietuvos Nepriklausomybės diena, laisvės ir suverenumo simboliu.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-011
-  teiginys: '1918 m. kovo 23 d. A. Smetonos vadovaujama Tarybos delegacija Berlyne pristatė deklaracijos turinį Vokietijos kancleriui Georgui fon Hertlingui.'
+- t-015
+  teiginys: '1918 m. kovo 23 d. Berlyne A. Smetonos vadovaujama Tarybos delegacija pristatė deklaraciją Vokietijos kancleriui Georgui von Hertlingui.'
   pagrindžia:
     - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-012
-  teiginys: 'Kovo 11 Aktas savo dvasia buvo artimas 1918 m. Lietuvos Tarybos paskelbtam Vasario 16 Aktui.'
+- t-016
+  teiginys: 'Kovo 11 Aktas savo dvasia buvo artimas Lietuvos Tarybos 1918 m. paskelbtam Vasario 16 Aktui.'
   pagrindžia:
     - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-013
+- t-017
   teiginys: '1918 m. vasario 16 d. Taryba Vilniuje priėmė rezoliuciją, paskelbusią nepriklausomos Lietuvos valstybės atkūrimą.'
   pagrindžia:
     - c-001
@@ -90,9 +90,9 @@ Vasario 16 Aktas šiame veikale aiškinamas kaip 1918 m. vasario 16 d. Lietuvos 
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-013
+    - t-017
 - c-002
-  santrauka: 'Vasario 16 Aktas davė pradžią tikrai Lietuvos nepriklausomybei ir aiškiai parodė, kur Taryba veda Lietuvą.'
+  santrauka: 'Vasario 16 Aktas tapo Lietuvos Nepriklausomybės diena, laisvės ir suverenumo simboliu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo na-
@@ -105,9 +105,9 @@ Vasario 16 Aktas šiame veikale aiškinamas kaip 1918 m. vasario 16 d. Lietuvos 
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-010
+    - t-014
 - c-003
-  santrauka: '1918 m. kovo 23 d. A. Smetonos vadovaujama Tarybos delegacija Berlyne pristatė deklaracijos turinį Vokietijos kancleriui Georgui fon Hertlingui.'
+  santrauka: '1918 m. kovo 23 d. Berlyne A. Smetonos vadovaujama Tarybos delegacija pristatė deklaraciją Vokietijos kancleriui Georgui von Hertlingui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kovo 23 dieną Berlyne A. Smetonos vadovau-
@@ -122,9 +122,9 @@ Vasario 16 Aktas šiame veikale aiškinamas kaip 1918 m. vasario 16 d. Lietuvos 
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-011
+    - t-015
 - c-004
-  santrauka: 'Kovo 11 Aktas savo dvasia buvo artimas 1918 m. Lietuvos Tarybos paskelbtam Vasario 16 Aktui.'
+  santrauka: 'Kovo 11 Aktas savo dvasia buvo artimas Lietuvos Tarybos 1918 m. paskelbtam Vasario 16 Aktui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kovo 11 Aktas savo dvasia arti-
@@ -144,4 +144,4 @@ Vasario 16 Aktas šiame veikale aiškinamas kaip 1918 m. vasario 16 d. Lietuvos 
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-012
+    - t-016

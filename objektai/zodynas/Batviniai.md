@@ -21,14 +21,14 @@ Pagrindinė forma: `batviniai`.
 Vartojamos formos: `batvinių`, `batvinėliai`.
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: '`Batviniai` šiame tekste yra mėgstamas senovės lietuvių valgis.'
   pagrindžia:
     - c-001
     - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Terminas vartojamas ir kaip lenkų pašaipus pavadinimas lietuviams.'
   pagrindžia:
     - c-001
@@ -37,7 +37,7 @@ Vartojamos formos: `batvinių`, `batvinėliai`.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Batviniai` šiame tekste yra mėgstamas senovės lietuvių valgis
+  santrauka: '`Batviniai` šiame tekste yra mėgstamas senovės lietuvių valgis.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Antras jų didžiai čėdijamas^357
@@ -50,10 +50,10 @@ Vartojamos formos: `batvinių`, `batvinėliai`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
 - c-002
-  santrauka: `Batviniai` šiame tekste yra mėgstamas senovės lietuvių valgis
+  santrauka: '`Batviniai` šiame tekste yra mėgstamas senovės lietuvių valgis.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     šiandien dar lenkai tyčiodamies sako: „Licwiaki bocwiaki“ – lietuvėliai batvinėliai – iš apmaudo,
@@ -65,7 +65,7 @@ Vartojamos formos: `batvinių`, `batvinėliai`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 
 ## Pastabos
 

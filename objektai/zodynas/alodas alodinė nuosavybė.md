@@ -47,7 +47,7 @@ Sąvoka priešinama bendruomeninei žemėvaldai ir siejama su individualia alodi
 Vartojama aiškinant lietuvių, rusėnų žemių ir Maskvos erdvės nuosavybės santykių skirtumus.
 
 ## Teiginiai
-- t-002
+- t-003
   teiginys: 'Rusėnų žemėse, priklausiusiose Lenkijai ir Lietuvai, išplito vakarietiška alodinė nuosavybė – individualus valstiečių ūkis.'
   pagrindžia:
     - c-001
@@ -72,7 +72,7 @@ Vartojama aiškinant lietuvių, rusėnų žemių ir Maskvos erdvės nuosavybės 
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai

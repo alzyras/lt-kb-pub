@@ -43,58 +43,58 @@ tags: []
 - Įžangoje leidinys apibūdinamas kaip jaunųjų istorikų parengtas darbas, skirtas Vytauto 500 metų mirties sukaktuvėms ir platesnės visuomenės pažinčiai su Vytautu.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Leidinys pristatomas kaip 1930 m. Kaune išleista kolektyvinė knyga apie Vytautą Didįjį, kurią parašė septyni autoriai ir redagavo P. Šležas.'
+- t-009
+  teiginys: 'Leidinį „Vytautas Didysis 1350-1430“ parašė septyni autoriai, o redagavo P. Šležas.'
   pagrindžia:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Leidinys pažymėtas kaip „Sakalo“ bendrovės leidinys, išspausdintas Akcinėje „Varpo“ B-vės spaustuvėje Kaune, Gedimino gatvėje Nr. 38.'
+- t-010
+  teiginys: 'Leidinį „Vytautas Didysis 1350-1430“ išleido „Sakalo“ bendrovė, o spausdino Akcinė „Varpo“ bendrovės spaustuvė Kaune.'
   pagrindžia:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-003
+- t-011
   teiginys: 'Turinys apima Vytauto jaunystę, politiką, Žalgirio mūšį, kristianizaciją, santykius su Lenkija, ekonominę politiką, charakteristiką ir vietą Lietuvos istorijoje.'
   pagrindžia:
     - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-004
-  teiginys: 'Įžangoje knyga pristatoma kaip jaunųjų istorikų parengtas darbas, skirtas pagerbti Vytautą jo 500 metų mirties sukaktuvių proga ir padėti visuomenei jį pažinti.'
+- t-012
+  teiginys: 'Leidinio rengėjai jį skyrė Vytauto 500 metų mirties sukaktuvėms ir siekė padėti platesnei visuomenei jį pažinti.'
   pagrindžia:
     - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-005
-  teiginys: '„Žodis į skaitytojus“ pasirašytas P. Šležo vardu Kaune 1930 m. kovo mėn. 13 d.'
-  pagrindžia:
-    - c-004
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-
-- t-006
-  teiginys: 'Leidinio rengėjai buvo sutarę laikytis vidurio tarp moksliško ir populiaraus veikalo.'
-  pagrindžia:
-    - c-005
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-007
-  teiginys: 'Leidinio sudarytojai pabrėžė nesiekiantys pateikti naujų ar originalių faktų, bet norėję jau surinktą medžiagą sugrupuoti žiūrėdami lietuvio akimis ir laikydamiesi objektingumo tiek, kiek leido istorijos faktų pažinimas.'
-  pagrindžia:
-    - c-006
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-008
-  teiginys: 'Įžangoje pareikštas dėkingumas prof. A. Aleknai už naudingus patarimus rašant ir redaguojant monografiją.'
+- t-013
+  teiginys: 'P. Šležas „Žodį į skaitytojus“ pasirašė Kaune 1930 m. kovo 13 d.'
   pagrindžia:
     - c-007
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-014
+  teiginys: 'Leidinio rengėjai buvo sutarę laikytis vidurio tarp moksliško ir populiaraus veikalo.'
+  pagrindžia:
+    - c-004
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-015
+  teiginys: 'Leidinio rengėjai siekė sugrupuoti istorikų surinktus faktus lietuvio akimis ir objektyvumo laikytis tiek, kiek leido faktų pažinimas.'
+  pagrindžia:
+    - c-005
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-016
+  teiginys: 'Leidinio rengėjai dėkojo prof. A. Aleknai už patarimus rašant ir redaguojant monografiją.'
+  pagrindžia:
+    - c-006
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: Tituliniame puslapyje nurodyti autoriai, redaktorius, leidimo vieta, leidėjas ir spaustuvė.
+  santrauka: 'Leidinį „Vytautas Didysis 1350-1430“ parašė septyni autoriai, o redagavo P. Šležas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     VYTAUTAS DIDYSIS
@@ -119,16 +119,16 @@ tags: []
 
 
     Akcinė „Varpo“ B-vės spaustuvė, Kaunas, Gedimino gatvė Nr. 38
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-009
+    - t-010
 - c-002
-  santrauka: Turinys išvardija pagrindines leidinio temas ir autorių priskirtus skyrius.
+  santrauka: 'Turinys apima Vytauto jaunystę, politiką, Žalgirio mūšį, kristianizaciją, santykius su Lenkija, ekonominę politiką, charakteristiką ir vietą Lietuvos istorijoje.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     A. Šapoka. Lietuva iki Vytauto ..................................................... XV
@@ -146,15 +146,15 @@ tags: []
     ```
     Dr. Krasauskaitė. Vytauto charakteristika ................................... 253
     A. Šapoka. Vytauto vieta mūsų istorijoj ....................................... 267
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-011
 - c-003
-  santrauka: Įžangoje nurodoma, kad leidinį rengė jaunieji istorikai Vytauto sukaktuvių proga ir visuomenės pažinimui.
+  santrauka: 'Leidinio rengėjai jį skyrė Vytauto 500 metų mirties sukaktuvėms ir siekė padėti platesnei visuomenei jį pažinti.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Todėl jaunieji
@@ -194,47 +194,29 @@ tags: []
     proga. Kartu taip pat norėtume padėti mūsų platesnei vi­
     suomenei pažinti tą didį Žmogų, kuri, tikime, šį darbą nuo­
     širdžiai sutiks
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-012
 - c-004
-  santrauka: Įžangos pabaigoje nurodyta vieta, data ir P. Šležo parašas.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kaunas,
-    1930 — Vytauto Didžiojo — metais
-    kovo mėn. 13 d.
-    ```
-    ```
-    P. Šležas
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
-
-- c-005
-  santrauka: Įžangoje nusakytas leidinio rengimo pobūdis kaip tarpinis tarp moksliško ir populiaraus veikalo.
+  santrauka: 'Leidinio rengėjai buvo sutarę laikytis vidurio tarp moksliško ir populiaraus veikalo.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tuojau pasiskirstėme temas, aptarėme dar­
     bo pobūdį: laikytis vidurio tarp moksliško ir popu­
     liaraus veikalo, ir išsiskirstėm.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-006
-- c-006
-  santrauka: Įžangoje autoriai aiškina, kad nesiekė originalumo, o stengėsi sugrupuoti jau surinktus faktus ir laikytis objektingumo.
+    - t-014
+- c-005
+  santrauka: 'Leidinio rengėjai siekė sugrupuoti istorikų surinktus faktus lietuvio akimis ir objektyvumo laikytis tiek, kiek leido faktų pažinimas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Apskritai šiuo savo darbu nepasižadame duoti mūsų vi­
@@ -246,15 +228,15 @@ tags: []
     minties, kad mums būtų nerūpėjęs objektingumas: jo, to ob­
     jektingumo, laikėmės, kiek leido istorijos faktų pažinimas bei
     jų supratimas, momentas ir pats veikalo pobūdis.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-007
-- c-007
-  santrauka: Įžangoje padėkota prof. A. Aleknai už pagalbą rengiant monografiją.
+    - t-015
+- c-006
+  santrauka: 'Leidinio rengėjai dėkojo prof. A. Aleknai už patarimus rašant ir redaguojant monografiją.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Pagaliau nieku būdu negalime praeiti pro šalį nepareiškę
@@ -262,10 +244,27 @@ tags: []
     siam naudingais patarimais šią monografiją rašant bei reda­
     guojant, ir kartu apgailestaujam, kad gerb, profesorius dėl
     ligos negalėjo parašyti šiai knygai įžangos žodžio.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-008
+    - t-016
+- c-007
+  santrauka: 'P. Šležas „Žodį į skaitytojus“ pasirašė Kaune 1930 m. kovo 13 d.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Kaunas,
+    1930 — Vytauto Didžiojo — metais
+    kovo mėn. 13 d.
+    ```
+    ```
+    P. Šležas
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-013

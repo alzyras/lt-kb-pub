@@ -19,7 +19,7 @@ Dar nesusigaudę kur pateko, vokiečiai Vilniuje išplatino atsišaukimą, kuria
 
 ## Teiginiai
 - t-001
-  teiginys: 'Dar nesusigaudę kur pateko, vokiečiai Vilniuje išplatino atsišaukimą, kuriame Vilnius buvo pavadintas „gražiausiu Lenkijos karalystės perlu“, tačiau, lietuviams užprotestavus, tuos atsišaukimus nudraskė.'
+  teiginys: 'Vokiečiai Vilniuje išplatino atsišaukimą, kuriame Vilnius buvo pavadintas „gražiausiu Lenkijos karalystės perlu“, bet po lietuvių protesto jį nudraskė.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -29,7 +29,7 @@ Dar nesusigaudę kur pateko, vokiečiai Vilniuje išplatino atsišaukimą, kuria
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Dar nesusigaudę kur pateko, vokiečiai Vilniuje išplatino atsišaukimą, kuriame Vilnius buvo pavadintas „gražiausiu Lenkijos karalystės perlu“, tačiau, lietuviams užprotestavus, tuos atsišaukimus nudraskė.'
+  santrauka: 'Vokiečiai Vilniuje išplatino atsišaukimą, kuriame Vilnius buvo pavadintas „gražiausiu Lenkijos karalystės perlu“, bet po lietuvių protesto jį nudraskė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Dar nesusigaudę kur pateko, vokiečiai Vil-

@@ -37,31 +37,39 @@ Nenurodyta
 - t-001
   teiginys: 'Lydimojoje žemdirbystėje laukas buvo purenamas žagre.'
   pagrindžia:
-    - c-001
+    - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-002
   teiginys: 'Geležinis kirvis padėjo apaugusius plotus paversti dirva.'
   pagrindžia:
-    - c-002
+    - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: 'Žemės darbui naudotas jaučių jungas, vėliau arklai su geležiniu noragu ir kiti geležiniai darbo įrankiai.'
+  teiginys: 'Viduriniame geležies amžiuje žemės darbui naudotas jaučių jungas, o priešistorės pabaigoje paplito arklai su geležiniu noragu.'
   pagrindžia:
     - c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-004
-  teiginys: 'Žemės darbui naudotas jaučių jungas, vėliau arklai su geležiniu noragu ir kiti geležiniai darbo įrankiai.'
-  pagrindžia:
-    - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Lydimojoje žemdirbystėje laukas buvo purenamas žagre.
+  santrauka: 'Geležinis kirvis padėjo apaugusius plotus paversti dirva.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Metalų amžiuje žemės dar­
+    bas plėtėsi, juo labiau kad geležinis kirvis padėjo net apaugusius
+    plotus paversti dirva.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
+- c-002
+  santrauka: 'Lydimojoje žemdirbystėje laukas buvo purenamas žagre.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Girios pakraštyje, ar krūmais apaugusiame
@@ -81,22 +89,8 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: Geležinis kirvis padėjo apaugusius plotus paversti dirva.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Metalų amžiuje žemės dar­
-    bas plėtėsi, juo labiau kad geležinis kirvis padėjo net apaugusius
-    plotus paversti dirva.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
 - c-003
-  santrauka: Žemės darbui naudotas jaučių jungas, vėliau arklai su geležiniu noragu ir kiti geležiniai darbo įrankiai.
+  santrauka: 'Viduriniame geležies amžiuje žemės darbui naudotas jaučių jungas, o priešistorės pabaigoje paplito arklai su geležiniu noragu.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Jau viduriniame geležies amžiuje žemės darbui buvo imta
@@ -116,24 +110,6 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
-- c-004
-  santrauka: Žemės darbui naudotas jaučių jungas, vėliau arklai su geležiniu noragu ir kiti geležiniai darbo įrankiai.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Ji rašė ir apie įvairiausius žemdirbystės įrankius (VUMD, t. 6, 1955 ;
-    t. 13, 1957 ; Ist V, t. 2, 1960, 167-175 p. ; t. 8, 1966, 122-156 p. ; t. 9, 1968,
-    161-180 p.), apie saulės sugrįžimo ir kitas šventes (IstV, t. 11, 1970, 199-
-    225 p. ; t. 13, 1972, 97-119 p.), apie namų židinio kultą (IstV, t. 6, 1964,
-    125-149 p.), apie senovės lietuvių religiją (IstV, t. 10, 1969, 181-207 p.), apie
-    badą ir marą Lietuvoje (IstV, t. 4, 1963, 105-121 p.).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-004
-    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai

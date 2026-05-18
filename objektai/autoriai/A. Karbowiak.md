@@ -18,21 +18,23 @@ Karbowiak, Dzieje wychowania i szkół w Polsce, II, III (1903);.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Karbowiak, Dzieje wychowania i szkół w Polsce, II, III (1903);.'
+  teiginys: 'A. Karbowiak parašė 1903 m. išleistą veikalą „Dzieje wychowania i szkół w Polsce“.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Karbowiak, Dzieje wychowania i szkół w Polsce, II, III (1903);.'
+  santrauka: 'A. Karbowiak parašė 1903 m. išleistą veikalą „Dzieje wychowania i szkół w Polsce“.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     _A. Karbowiak,_ Dzieje
     wychowania i szkół w Polsce, II, III (1903);
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

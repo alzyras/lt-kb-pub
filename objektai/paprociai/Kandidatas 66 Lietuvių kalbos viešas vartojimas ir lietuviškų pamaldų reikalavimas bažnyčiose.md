@@ -42,7 +42,7 @@ Nenurodyta
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Katalikiškos krypties veikėjai daugiausia dėmesio skyrė katalikišką doktriną atitinkančiai lietuvių kultūrinei ir visuomeninei veiklai.'
+  teiginys: '„Vilties“ žurnalo aplinkos tautininkai kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -66,7 +66,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Katalikiškos krypties veikėjai daugiausia dėmesio skyrė katalikišką doktriną atitinkančiai lietuvių kultūrinei ir visuomeninei veiklai.'
+  santrauka: '„Vilties“ žurnalo aplinkos tautininkai kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Daugiausia dėmesio jie skyrė katalikišką

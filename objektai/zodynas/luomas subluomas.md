@@ -21,7 +21,7 @@ Tačiau bajorai – dvarininkai sudarė tik ¼ dalį vietos bajorų luomo, daugu
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tačiau bajorai – dvarininkai sudarė tik ¼ dalį vietos bajorų luomo, dauguma jų – mažažemiai ir bežemiai bajorai, kalbėję daugiausia lenkų kalba ir puoselėję buvusio valstybingumo atminimą ir tradicijas.'
+  teiginys: 'Bajorai dvarininkai sudarė tik ketvirtadalį vietos bajorų luomo, o dauguma bajorų buvo mažažemiai ir bežemiai.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -35,7 +35,7 @@ Tačiau bajorai – dvarininkai sudarė tik ¼ dalį vietos bajorų luomo, daugu
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tačiau bajorai – dvarininkai sudarė tik ¼ dalį vietos bajorų luomo, dauguma jų – mažažemiai ir bežemiai bajorai, kalbėję daugiausia lenkų kalba ir puoselėję buvusio valstybingumo atminimą ir tradicijas.'
+  santrauka: 'Bajorai dvarininkai sudarė tik ketvirtadalį vietos bajorų luomo, o dauguma bajorų buvo mažažemiai ir bežemiai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau bajorai – dvarininkai sudarė tik ¼ dalį vietos bajorų

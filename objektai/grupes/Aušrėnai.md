@@ -29,7 +29,7 @@ tags:
 Aušrėnai šiame fragmente yra istorinis žemaičių vardas.
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Aušrėnai šiame fragmente yra istorinis žemaičių vardas.'
   pagrindžia:
     - c-001
@@ -39,7 +39,7 @@ Aušrėnai šiame fragmente yra istorinis žemaičių vardas.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Aušrėnai šiame fragmente yra istorinis žemaičių vardas.
+  santrauka: 'Aušrėnai šiame fragmente yra istorinis žemaičių vardas.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Antras rašytojas, gyvenąs pirmajame amžiuje gimus Kristui, savo garbingame rašte „Girionų
@@ -51,9 +51,9 @@ Aušrėnai šiame fragmente yra istorinis žemaičių vardas.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
 - c-002
-  santrauka: Aušrėnai šiame fragmente yra istorinis žemaičių vardas.
+  santrauka: 'Aušrėnai šiame fragmente yra istorinis žemaičių vardas.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Kas didžiau, po jūrą mauriojantys, ir jų vienų žemėj
@@ -65,4 +65,4 @@ Aušrėnai šiame fragmente yra istorinis žemaičių vardas.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

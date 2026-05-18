@@ -41,13 +41,13 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: 'Vaikai nuo mažų dienų buvo pratinti prie darbo, žaidimų, įrankių ir karo.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Gimdyvė trečią ar ketvirtą dieną po gimdymo dirbo sunkiausius darbus namie ir lauke.'
   pagrindžia:
     - c-002
@@ -56,7 +56,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Vaikai nuo mažų dienų buvo pratinti prie darbo, žaidimų, įrankių ir karo.
+  santrauka: 'Vaikai nuo mažų dienų buvo pratinti prie darbo, žaidimų, įrankių ir karo.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Ne vien didieji ir pusvaikiai buvo taip skudriais ir veikliais, bet dar mažieji vaikai, apsuk namus
@@ -67,21 +67,25 @@ Nenurodyta
     tviskinėdami, nė nuo vieno nemokomi, sauprasmiai svilksnis^392 ir seidokus^393 dirbo, vylyčias^394
     drožė ir pleštekes^395 po kiemą bėgiodami šaudė, jau nuo mažų dienų į karę pratindamos, kaip
     reiks kurią dieną su žvėrimis giriose ar laukuose su neprieteliais grumtis, liuosybę savo gyniojant.
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: Gimdyvė trečią ar ketvirtą dieną po gimdymo dirbo sunkiausius darbus namie ir lauke.
+  santrauka: 'Gimdyvė trečią ar ketvirtą dieną po gimdymo dirbo sunkiausius darbus namie ir lauke.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
      Wizerunki, tom 22, pag. 68: ...conjunx puerpero duro incumbat scamno, et tertio aut quarto puerperii die gravissimos et domi
     et foris, sustineat labores [18]
     [18] ...gimdyvė žmona guli ant kieto suolo ir trečią ar ketvirtą dieną po gimdymo dirba sunkiausius darbus, tiek namie tiek lauke
     ( _lot_ .).
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004

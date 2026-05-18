@@ -56,19 +56,19 @@ Naudota pasaulinio garso roko muzikantų.
 Nenurodyta
 
 ## Teiginiai
-- t-004
+- t-007
   teiginys: 'Iš Lietuvos emigrantų kilęs Tony Zemaicis sukūrė gitarą „Zemaitis“.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-005
+- t-008
   teiginys: 'Gitara „Zemaitis“ roko pasaulyje tapo bendrine sąvoka.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-006
+- t-009
   teiginys: 'Tony Zemaicis sukūrė gitarą „Zemaitis“, kuri roko pasaulyje tapo bendrine sąvoka.'
   pagrindžia:
     - c-001
@@ -92,9 +92,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
-    - t-005
-    - t-006
+    - t-007
+    - t-008
+    - t-009
 
 ## Šaltiniai ir įrodymai
 

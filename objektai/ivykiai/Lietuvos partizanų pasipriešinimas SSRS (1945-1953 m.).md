@@ -58,7 +58,7 @@ Nenurodyta
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Užimdami miestelius, Lietuvos partizanai naikino vietos įgulas ir okupacinės valdžios dokumentus, išlaisvindavo suimtuosius.'
+  teiginys: 'Užimdami miestelius, Lietuvos partizanai naikino vietos įgulas, valsčiaus dokumentus, mobilizacijos sąrašus ir išlaisvindavo suimtuosius.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -88,7 +88,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Užimdami miestelius, Lietuvos partizanai naikino vietos įgulas ir okupacinės valdžios dokumentus, išlaisvindavo suimtuosius.'
+  santrauka: 'Užimdami miestelius, Lietuvos partizanai naikino vietos įgulas, valsčiaus dokumentus, mobilizacijos sąrašus ir išlaisvindavo suimtuosius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Užimant

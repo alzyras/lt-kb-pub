@@ -29,20 +29,20 @@ K. Duonelaitis šiame šaltinyje minimas kaip poetas, autorius; jam priskiriami 
 - 1818 m. pirmą kartą paskelbti raštai
 
 ## Teiginiai
-- t-001
-  teiginys: 'Duonelaitis šiame fragmente įvardytas didžiuoju Mažosios Lietuvos poetu.'
+- t-004
+  teiginys: 'K. Duonelaitis vadintas didžiuoju Mažosios Lietuvos poetu ir skundėsi, kad kolonistai kraštą užkrėtė nedorybėmis.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-002
+- t-005
   teiginys: 'K. Duonelaičio raštus 1818 m. pirmą kartą paskelbė Rėza.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: 'Duonelaitis minimas tarp autorių, kurių raštai Amerikoje buvo išleisti.'
+- t-006
+  teiginys: 'Spaudos draudimo metu Amerikoje buvo išleisti K. Duonelaičio ir kitų žymesniųjų lietuvių autorių raštai.'
   pagrindžia:
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -50,7 +50,7 @@ K. Duonelaitis šiame šaltinyje minimas kaip poetas, autorius; jam priskiriami 
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Duonelaitis šiame fragmente įvardytas didžiuoju Mažosios Lietuvos poetu
+  santrauka: 'K. Duonelaitis vadintas didžiuoju Mažosios Lietuvos poetu ir skundėsi, kad kolonistai kraštą užkrėtė nedorybėmis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Užtat ir didysis
@@ -58,13 +58,13 @@ K. Duonelaitis šiame šaltinyje minimas kaip poetas, autorius; jam priskiriami 
     džiasi, kad kolonistai užkrėtę kraštą visokiomis nedorybėmis, ir
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-004
 - c-002
-  santrauka: K. Duonelaičio raštus 1818 m. pirmą kartą paskelbė Rėza
+  santrauka: 'K. Duonelaičio raštus 1818 m. pirmą kartą paskelbė Rėza.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Paskutiniai tos rūšies
@@ -74,13 +74,13 @@ K. Duonelaitis šiame šaltinyje minimas kaip poetas, autorius; jam priskiriami 
     nyčios prieglobstyje rašliava M. Lietuvoje jau niekad nebeatgijo.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-005
 - c-003
-  santrauka: Duonelaitis minimas tarp autorių, kurių raštai Amerikoje buvo išleisti
+  santrauka: 'Spaudos draudimo metu Amerikoje buvo išleisti K. Duonelaičio ir kitų žymesniųjų lietuvių autorių raštai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo
@@ -90,11 +90,11 @@ K. Duonelaitis šiame šaltinyje minimas kaip poetas, autorius; jam priskiriami 
     raštų.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-006
 
 ## Ryšiai
 ### Laikotarpiai
@@ -102,4 +102,6 @@ K. Duonelaitis šiame šaltinyje minimas kaip poetas, autorius; jam priskiriami 
 - [[laikotarpiai/XVIII amžius]]
 
 ### Susiję objektai
+- [[objektai/autoriai/Motiejus Valančius]]
 - [[objektai/autoriai/Rėza (leidėjas, 1818 m.)]]
+- [[objektai/autoriai/S. Daukantas]]

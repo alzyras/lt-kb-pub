@@ -19,7 +19,7 @@ Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė �
 
 ## Teiginiai
 - t-001
-  teiginys: 'Į Lietuvių vienybės sąjūdį susibūrė krikščionių demokratų sparno politikai ir ateitininkų jaunimas, leidę pogrindinius leidinius.'
+  teiginys: 'Krikščionių demokratų sparno politikai ir ateitininkų jaunimas telkėsi į Lietuvių frontą ir Lietuvių vienybės sąjūdį, jų kryptis leido pogrindinius leidinius.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -27,7 +27,7 @@ Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė �
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Į Lietuvių vienybės sąjūdį susibūrė krikščionių demokratų sparno politikai ir ateitininkų jaunimas, leidę pogrindinius leidinius.'
+  santrauka: 'Krikščionių demokratų sparno politikai ir ateitininkų jaunimas telkėsi į Lietuvių frontą ir Lietuvių vienybės sąjūdį, jų kryptis leido pogrindinius leidinius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė

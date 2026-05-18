@@ -43,60 +43,28 @@ Lietuviai, nuterioję Sambijos sritis, prie Rudavos vėl susirinko krūvon ir st
 Lietuviai patyrė didelį pralaimėjimą.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Mūšis įvyko ties Rūdavos bažnytkaimiu.'
-  pagrindžia:
-    - c-001
-- t-002
+- t-005
   teiginys: '1370 m. vasario 17 d. prie Rudavos lietuviai patyrė didelį pralaimėjimą.'
   pagrindžia:
-    - c-002
+    - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: 'Autorius nurodo, kad mūšyje žuvo apie 5000 lietuvių ir bent 300 ordino pusės žmonių.'
+- t-006
+  teiginys: 'Rūdavos mūšyje žuvo apie 5000 lietuvių ir mažiausiai 300 vokiečių pusės kariuomenės žmonių.'
   pagrindžia:
-    - c-002
+    - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-004
+- t-007
   teiginys: 'Vytautas dalyvavo Rūdavos mūšyje kaip Kęstučio prie karo pratintas jaunuolis.'
   pagrindžia:
-    - c-003
+    - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Mūšis įvyko ties Rūdavos bažnytkaimiu.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Iš to ordinas suprato brolių planą ir įsakė visų pilių įguloms sku-
-    bėti gelbėti Karaliaučiaus. Čia ordinas surinko didelę kariuo-
-    menę. Algirdas su Kęstučiu, dar nespėję susijungti, ėmė trauk-
-    tis. Kęstutis atsitraukė pirmas, o atsilikęs Algirdas buvo pri-
-    verstas kautis. Mūšis
-    įvyko ties Rūdavos
-    bažnytkaimiu. Jame žu-
-    vo patsai ordino kariuo-
-    menės vadas — maršal-
-    ka, trys komtūrai (pilių
-    bei sričių viršininkai) ir
-    daugybė riterių. Tačiau
-    lietuviai vis dėlto turėjo
-    atsitraukti. Ordinas ir
-    apie šį mūšį skelbė pa-
-    sauliui, kaip apie di-
-    džiausią savo laimėjimą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: '1930 m. veikale Rūdavos mūšis datuojamas 1370 m. vasario 17 d. ir aprašomas kaip didelis lietuvių pralaimėjimas.'
+  santrauka: '1370 m. vasario 17 d. prie Rudavos lietuviai patyrė didelį pralaimėjimą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     zuota daug Prūsų krašto gyventojų. Pasidalinę mažais būre­
@@ -110,14 +78,14 @@ Lietuviai patyrė didelį pralaimėjimą.
     be abejo, perdeda.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-    - t-003
-- c-003
-  santrauka: 'Vytauto vaidmuo Rūdavos mūšyje čia aiškinamas kaip jauno valdovo pratimas prie karo.'
+    - t-005
+    - t-006
+- c-002
+  santrauka: 'Vytautas dalyvavo Rūdavos mūšyje kaip Kęstučio prie karo pratintas jaunuolis.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas, vos dvidešimties metų jaunuolis, žinoma, čia da­
@@ -127,11 +95,11 @@ Lietuviai patyrė didelį pralaimėjimą.
     Vytautą.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-007
 
 ## Ryšiai
 ### Laikotarpiai

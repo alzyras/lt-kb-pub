@@ -36,13 +36,13 @@ Mėlynųjų Vandenų įvykių pagrindiniai šaltiniai: žinios xv a. pirmosios p
 - Mėlynųjų Vandenų įvykių pagrindiniai šaltiniai: žinios xv a. pirmosios pusės rusų Tverės sąvade - Rogožos metraštyje prieš 6871 (1363) m. sakoma, kad rudenį Algirdas „Mėlynuosius Vandenis ir Baltąją pakrantę nukariavo“.
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: 'Mėlynųjų Vandenų įvykių pagrindiniai šaltiniai: žinios xv a. pirmosios pusės rusų Tverės sąvade - Rogožos metraštyje prieš 6871 (1363) m. sakoma, kad rudenį Algirdas „Mėlynuosius Vandenis ir Baltąją pakrantę nukariavo“.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Plačiausiai Lietuvos kariuomenės pirmąjį žygį į Maskvą nušvietusio Rogožos metraščio autorius pabrėžia Algirdo „mokėjimą kariauti“, „kariavimą gudrumu“, iškeliami jo kariniai sugebėjimai.'
   pagrindžia:
     - c-002
@@ -50,6 +50,8 @@ Mėlynųjų Vandenų įvykių pagrindiniai šaltiniai: žinios xv a. pirmosios p
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
   santrauka: 'Mėlynųjų Vandenų įvykių pagrindiniai šaltiniai: žinios xv a. pirmosios pusės rusų Tverės sąvade - Rogožos metraštyje prieš 6871 (1363) m. sakoma, kad rudenį Algirdas „Mėlynuosius Vandenis ir Baltąją pakrantę nukariavo“.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -59,20 +61,32 @@ Mėlynųjų Vandenų įvykių pagrindiniai šaltiniai: žinios xv a. pirmosios p
     rusų Tverės sąvade - Rogožos metraštyje
     prieš 6871 (1363) m. sakoma, kad rudenį
     Algirdas „Mėlynuosius Vandenis ir Baltąją
-    pakrantę nukariavo“.
+    pakrantę nukariavo“. Tas pats aprašyta vė-
+    lesniame Maskvos- Tverės kilmės Nikono
+    metraštyje (susijusiame su Algirdo pali-
+    kuonimis Belskiais). Trumpojoje Lietuvos
+    metraščių redakcijoje (xv a. 4-5 de-
+    šimtmečiai) įrašytas „Pasakojimas apie
+    Podolę“ - plačiausiai kalbantis šaltinis
+    šia tema.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: 'Tiesioginė šio veikalo citata apie šaltinio panaudojimą.'
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-
+    - t-003
 - c-002
   santrauka: 'Plačiausiai Lietuvos kariuomenės pirmąjį žygį į Maskvą nušvietusio Rogožos metraščio autorius pabrėžia Algirdo „mokėjimą kariauti“, „kariavimą gudrumu“, iškeliami jo kariniai sugebėjimai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Plačiausiai Lietuvos
+    Šaltiniuose pabrė-
+    žiama Algirdo netikėto puolimo strategija.
+    Jis kariuomenę „vedė paslapčia“, slėpda-
+    mas savo sumanymą tiek nuo savo karių,
+    tiek nuo pirklių, svetimšalių, tuo metu
+    buvusių Lietuvos valdose, kad gandas apie
+    jo planą nepasklistų. Plačiausiai Lietuvos
     kariuomenės pirmąjį žygį į Maskvą nu-
     švietusio Rogožos metraščio autorius
     pabrėžia Algirdo „mokėjimą kariauti“,
@@ -82,6 +96,6 @@ Mėlynųjų Vandenų įvykių pagrindiniai šaltiniai: žinios xv a. pirmosios p
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: 'Tiesioginė šio veikalo citata apie šaltinio panaudojimą.'
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004

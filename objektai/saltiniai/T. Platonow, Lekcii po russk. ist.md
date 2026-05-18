@@ -18,21 +18,25 @@ Platonow, Lekcii po russk.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Platonow, Lekcii po russk.'
+  teiginys: 'T. Platonowo „Lekcii po russk. ist.“ turėjo devynias laidas.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Platonow, Lekcii po russk.'
+  santrauka: 'T. Platonowo „Lekcii po russk. ist.“ turėjo devynias laidas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     5. _T. Platonow,_ Lekcii po russk. ist.
     (yra 9 laidos);
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

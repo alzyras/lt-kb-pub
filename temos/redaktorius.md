@@ -19,7 +19,7 @@ Objektų skaičius: 21.
 ## Susiję objektai
 
 ### Asmenys
-- [[objektai/asmenys/Antanas Smetona]]
+- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
 - [[objektai/asmenys/Sigitas Tamkevičius]]
 
 ### Autoriai

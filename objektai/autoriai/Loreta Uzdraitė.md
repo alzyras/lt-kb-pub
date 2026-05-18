@@ -38,15 +38,16 @@ Loreta Uzdraitė šiame leidinyje minima kaip kelių žemėlapių, schemų ir in
 - Lietuva ir Aukso orda x1v a.
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Loreta Uzdraitė šiame leidinyje nurodoma kaip ankstyvųjų skyrių schemų ir žemėlapių bendraautorė.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Priedų dalyje Loreta Uzdraitė minima prie 1236 m. skirto bloko.
+  santrauka: 'Loreta Uzdraitė šiame leidinyje nurodoma kaip ankstyvųjų skyrių schemų ir žemėlapių bendraautorė.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     p. 20, Kryžininkų pajėgų telkimas prieš Lietuvą 1236 m., Romas Batūra, Karolis Zikaras,
@@ -54,10 +55,10 @@ Loreta Uzdraitė šiame leidinyje minima kaip kelių žemėlapių, schemų ir in
 
     p. 22, Kalavijuočių ordino ir kryžininkų įsiveržimas į Šiaulių žemę, Romas Batūra,
     Karolis Zikaras, Loreta Uzdraitė.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

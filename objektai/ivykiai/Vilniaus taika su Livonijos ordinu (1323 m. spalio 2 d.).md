@@ -46,19 +46,19 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: '1323 m. spalio 2 d. Vilniuje buvo sudaryta taika tarp Gedimino valdžios, Livonijos ordino ir Livonijos vyskupų.'
+- t-004
+  teiginys: '1323 m. spalio 2 d. Vilniuje Livonijos ordino ir Livonijos vyskupų pasiuntiniai sudarė taiką su Gediminu.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-002
+- t-005
   teiginys: '1323 m. Vilniaus taikoje buvo nustatyti ir Rygai svarbūs prekybos reikalai.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-003
+- t-006
   teiginys: 'Prūsų ordinas Vilniaus taikos nepripažino ir skatino siekti su Gediminu pasirašytos sutarties anuliavimo.'
   pagrindžia:
     - c-002
@@ -67,36 +67,36 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1323 m. spalio 2 d. Vilniuje buvo sudaryta taika tarp Gedimino valdžios ir Livonijos ordino su vyskupais.'
+  santrauka: '1323 m. spalio 2 d. Vilniuje Livonijos ordino ir Livonijos vyskupų pasiuntiniai sudarė taiką su Gediminu.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Nedrįsdamas tačiau atvirai stoti prieš Gediminą, Livo­
     nijos ordinas drauge su Livonijos vyskupais siuntė pasiuntinius
     Vilniun, kur 1323.X.2 buvo padaryta taika, kurioje buvo nustatyti
     ir Rygai svarbus prekybos reikalai^14.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-004
+    - t-005
 - c-002
-  santrauka: '1323 m. spalio 2 d. Vilniuje buvo sudaryta taika tarp Gedimino valdžios ir Livonijos ordino su vyskupais.'
+  santrauka: 'Prūsų ordinas Vilniaus taikos nepripažino ir skatino siekti su Gediminu pasirašytos sutarties anuliavimo.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Prūsų ordinas, nepripažindamas
     tos sutarties, skatino savo vyskupus ir jų kapitulas pareikšti Livo­
     nijos dvasininkams protestą, reikalaujant anuliuoti su Gediminu
     pasirašytą sutartį^16.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-006
 
 ## Ryšiai
 ### Laikotarpiai

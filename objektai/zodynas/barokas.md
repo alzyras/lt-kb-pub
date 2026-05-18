@@ -20,7 +20,7 @@ Baroko sąvoka, kaip minėjome, atėjusi iš meno, ypač iš architektūros, ist
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lietuvoje barokas geriausiai matomas architektūroje, ypač bažnyčiose.'
+  teiginys: 'Lietuvoje barokas geriausiai matomas architektūroje, ypač bažnyčių architektūroje.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -40,7 +40,7 @@ Baroko sąvoka, kaip minėjome, atėjusi iš meno, ypač iš architektūros, ist
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lietuvoje barokas geriausiai matomas architektūroje, ypač bažnyčiose.'
+  santrauka: 'Lietuvoje barokas geriausiai matomas architektūroje, ypač bažnyčių architektūroje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvoje barokas

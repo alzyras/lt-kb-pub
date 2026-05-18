@@ -38,7 +38,7 @@ Pagrindinė forma: `žynių titulai ir pareigybės`.
 Vartojamos formos: `kūrėjai`, `kūrėjaičiai`, `vaidelaičiai`, `žygovai`, `tylusonys`, `lygusonys`, `lydusonys`, `žvalgionys`, `pučionys`, `vėjonys`, `pūsčionys`, `žeisčionys`, `burčionys`, `žvaigždžionys`, `puotininkais`, `ragučiais`, `dvarionimis`, `viršaičiai`, `vyriškaičiai`.
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: 'Išvardijamos skirtingos senosios religijos kunigų rūšys.'
   pagrindžia:
     - c-001
@@ -46,7 +46,7 @@ Vartojamos formos: `kūrėjai`, `kūrėjaičiai`, `vaidelaičiai`, `žygovai`, `
     - c-003
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Kai kurie iš šių vardų žymi apeiginius, kiti - valdinius ar ryšininkų vaidmenis.'
   pagrindžia:
     - c-001
@@ -56,7 +56,7 @@ Vartojamos formos: `kūrėjai`, `kūrėjaičiai`, `vaidelaičiai`, `žygovai`, `
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Išvardijamos skirtingos senosios religijos kunigų rūšys
+  santrauka: 'Išvardijamos skirtingos senosios religijos kunigų rūšys.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     tų pramonių išguldė^875 , kurių įvairūs vardai buvo nuo jų įvairių darbų, beje:
@@ -68,10 +68,10 @@ Vartojamos formos: `kūrėjai`, `kūrėjaičiai`, `vaidelaičiai`, `žygovai`, `
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
 - c-002
-  santrauka: Išvardijamos skirtingos senosios religijos kunigų rūšys
+  santrauka: 'Išvardijamos skirtingos senosios religijos kunigų rūšys.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Paskiau vadino juos dvarionimis, gudiškai dworzanin, jog prie rūmų, arba dvaro,
@@ -84,10 +84,10 @@ Vartojamos formos: `kūrėjai`, `kūrėjaičiai`, `vaidelaičiai`, `žygovai`, `
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
 - c-003
-  santrauka: Išvardijamos skirtingos senosios religijos kunigų rūšys
+  santrauka: 'Išvardijamos skirtingos senosios religijos kunigų rūšys.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Ilgainiui paklydus jau būtinai pirmoje nuomonėj apie
@@ -103,7 +103,7 @@ Vartojamos formos: `kūrėjai`, `kūrėjaičiai`, `vaidelaičiai`, `žygovai`, `
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 
 ## Pastabos
 

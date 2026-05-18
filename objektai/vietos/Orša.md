@@ -19,27 +19,31 @@ Bet tuo tarpu atvykęs Lietuvos hetmonas kunigaikštis Konstantinas Ostrogiškis
 
 ## Teiginiai
 - t-001
-  teiginys: 'Bet tuo tarpu atvykęs Lietuvos hetmonas kunigaikštis Konstantinas Ostrogiškis ties Orša sumušė priešą ir privertė jį trauktis.'
+  teiginys: 'Lietuvos hetmonas Konstantinas Ostrogiškis ties Orša sumušė priešą ir privertė jį trauktis.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: 'Ostrogiškis smarkiai sumušė Maskvos kariuomenę ties Orša.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Bet tuo tarpu atvykęs Lietuvos hetmonas kunigaikštis Konstantinas Ostrogiškis ties Orša sumušė priešą ir privertė jį trauktis.'
+  santrauka: 'Lietuvos hetmonas Konstantinas Ostrogiškis ties Orša sumušė priešą ir privertė jį trauktis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet tuo tarpu atvykęs Lietuvos hetmonas
     kunigaikštis Konstantinas Ostrogiškis ties Orša
     sumušė priešą ir privertė jį trauktis.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
@@ -48,11 +52,11 @@ Bet tuo tarpu atvykęs Lietuvos hetmonas kunigaikštis Konstantinas Ostrogiškis
   citata_originali: |
     Netrukus po to atvykęs K. Ostrogiškis smarkiai sumušė Mas-
     kvos kariuomenę ties Orša.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

@@ -40,14 +40,14 @@ Kimerija buvo žemės šnypis arba pusiasalis prie Uksinės marės. Kimerija vė
 Kimerija minima kaip Uksinės marės įsikišęs žemės šnypis, kur gyveno ankstyvieji gyventojai ir į kurį vėliau įsigrūdo kitos tautos.
 
 ## Teiginiai
-- t-001
-  teiginys: "Kimerija buvo žemės šnypis arba pusiasalis prie Uksinės marės."
+- t-003
+  teiginys: 'Kimerija buvo žemės šnypis arba pusiasalis prie Uksinės marės.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
-  teiginys: "Kimerija vėliau tapo vieta, į kurią įsigrūdo kitos tautos."
+- t-004
+  teiginys: 'Kimerija vėliau tapo vieta, į kurią įsigrūdo kitos tautos.'
   pagrindžia:
     - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
@@ -55,7 +55,7 @@ Kimerija minima kaip Uksinės marės įsikišęs žemės šnypis, kur gyveno ank
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: "Kimerija buvo žemės šnypis arba pusiasalis prie Uksinės marės."
+  santrauka: 'Kimerija buvo žemės šnypis arba pusiasalis prie Uksinės marės.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Vadino
@@ -68,9 +68,9 @@ Kimerija minima kaip Uksinės marės įsikišęs žemės šnypis, kur gyveno ank
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: "Kimerija vėliau tapo vieta, į kurią įsigrūdo kitos tautos."
+  santrauka: 'Kimerija vėliau tapo vieta, į kurią įsigrūdo kitos tautos.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Nes ilgainiui tenai jiems begyvenant, grekonys įsikūrė tūlose vietose Kimerijos ir tenai
@@ -82,21 +82,4 @@ Kimerija minima kaip Uksinės marės įsikišęs žemės šnypis, kur gyveno ank
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: "Kimerija vėliau tapo vieta, į kurią įsigrūdo kitos tautos."
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Tuo tarpu antsigrūdo į Kimeriją kita tauta, kurios
-    lietuviai nepermanydami kalbos vis gudais vadino, kuri ilgainiui išsiplėtė iki dabar minavotų girių,
-    taip jog Uksiniuose pamariuose rados svieto niukinys^86 , kalbąs ir sekąs įvairią dabą ir tikybą.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Juodoji jūra]]
+    - t-004

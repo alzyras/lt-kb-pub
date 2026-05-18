@@ -19,17 +19,21 @@ Jis pats tuo tarpu pradėjo rūpintis, kad iš buvusių didžiosios Lietuvos kun
 
 ## Teiginiai
 - t-001
-  teiginys: 'Jis pats tuo tarpu pradėjo rūpintis, kad iš buvusių didžiosios Lietuvos kunigaikštijos žemių būtų sudaryta autonomiška valstybė; tam tikslui 1811 m. įteikė carui memorialą — kunigaikštijos sudarymo projektą.'
+  teiginys: '1811 m. carui buvo įteiktas memorialas dėl autonomiškos valstybės sudarymo iš buvusių Lietuvos Didžiosios Kunigaikštijos žemių.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Pagaliau Oginskis, pasitaręs su žymesniaisiais Lietuvos ponais, įteikė konkrečius pasiūlymus ir naują memorialą.'
+  teiginys: 'Oginskis, pasitaręs su žymesniaisiais Lietuvos ponais, įteikė konkrečius pasiūlymus ir naują memorialą.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Jis pats tuo tarpu pradėjo rūpintis, kad iš buvusių didžiosios Lietuvos kunigaikštijos žemių būtų sudaryta autonomiška valstybė; tam tikslui 1811 m. įteikė carui memorialą — kunigaikštijos sudarymo projektą.'
+  santrauka: '1811 m. carui buvo įteiktas memorialas dėl autonomiškos valstybės sudarymo iš buvusių Lietuvos Didžiosios Kunigaikštijos žemių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jis pats tuo tarpu pradėjo
@@ -38,25 +42,25 @@ Jis pats tuo tarpu pradėjo rūpintis, kad iš buvusių didžiosios Lietuvos kun
     kė carui memorialą — ku-
     nigaikštijos sudarymo pro-
     jektą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Pagaliau Oginskis, pasitaręs su žymesniaisiais Lietuvos ponais, įteikė konkrečius pasiūlymus ir naują memorialą.'
+  santrauka: 'Oginskis, pasitaręs su žymesniaisiais Lietuvos ponais, įteikė konkrečius pasiūlymus ir naują memorialą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pagaliau Oginskis, pasitaręs
     su žymesniaisiais Lietuvos ponais, įteikė konkrečius pasiūlymus
     ir naują memorialą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

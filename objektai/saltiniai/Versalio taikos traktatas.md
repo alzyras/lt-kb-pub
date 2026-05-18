@@ -21,17 +21,21 @@ Vokietija 1919 m. Versalio taikos traktatu buvo labai suvaržyta.
   teiginys: 'Vokietija 1919 m. Versalio taikos traktatu buvo labai suvaržyta.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
   santrauka: 'Vokietija 1919 m. Versalio taikos traktatu buvo labai suvaržyta.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vokietija 1919 m. Versalio taikos traktatu buvo labai suvaržyta.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

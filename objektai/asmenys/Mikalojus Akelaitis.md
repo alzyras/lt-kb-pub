@@ -28,7 +28,7 @@ tags:
 1859 m. lietuvių švietėjas Mikalojus Akelaitis Juzefui Ignacui Kraševskiui rašė, kad „Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“
 
 ## Teiginiai
-- t-002
+- t-003
   teiginys: '1859 m. lietuvių švietėjas Mikalojus Akelaitis Juzefui Ignacui Kraševskiui rašė: „Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“'
   pagrindžia:
     - c-001
@@ -54,7 +54,7 @@ tags:
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-003
 
 ## Ryšiai
 ### Laikotarpiai

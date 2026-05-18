@@ -32,7 +32,7 @@ tags:
 - Pagrindinė forma: Vyrai, pavojus!
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Ši frazė yra perspėjimo šūksnis pastebėjus čekistų apsupimą.'
   pagrindžia:
     - c-001
@@ -41,15 +41,17 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Šūksnis nuskamba tą akimirką, kai pastebimas apsupimas.
+  santrauka: 'Ši frazė yra perspėjimo šūksnis pastebėjus čekistų apsupimą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
+    Atėjo ryšininkas
+    Dangus ir pasakė, kad apylinkėje ramu, mama ruošia pusryčius, kuriuos netrukus atneš.
     Kalbėdamas su ryšininku pastebėjau, kad stovyklą supa čekistai ir sušukau: „Vyrai, pavo-
-    jus!“
+    jus!“ Dangus nubėgo į tą pusę, kur buvo čekistai.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

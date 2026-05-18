@@ -33,8 +33,8 @@ tags:
 - Pagrindinė forma: Mūsų brolis yra laisvas
 
 ## Teiginiai
-- t-001
-  teiginys: 'Formuluotė šiame pasakojime pateikiama kaip Jogailos atsakymo formulė apie Vytauto ir Lietuvos bajorų laisvę.'
+- t-002
+  teiginys: 'Jogaila atsakė, kad jo brolis yra laisvas, o Lietuvos kunigaikščiai ir bajorai laisvi bei lygūs Lenkijos ponams.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -42,7 +42,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Jogailos atsakymo formulė apie Vytauto ir Lietuvos bajorų laisvę
+  santrauka: 'Jogaila atsakė, kad jo brolis yra laisvas, o Lietuvos kunigaikščiai ir bajorai laisvi bei lygūs Lenkijos ponams.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jogaila atsakė labai nuolaidžiai: „Mūsų brolis yra lais-
@@ -55,4 +55,4 @@ tags:
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

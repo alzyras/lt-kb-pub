@@ -25,7 +25,7 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Chruščiov
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'N. Chruščiovo laikais bažnyčią imta diskredituoti ir morališkai spausti, nors iš trėmimų vietų sugrįžo 130 kunigų.'
+  teiginys: 'Nikita Chruščiovo laikais bažnyčią imta diskredituoti ir morališkai spausti, nors iš trėmimų vietų sugrįžo 130 kunigų.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -48,7 +48,7 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Chruščiov
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'N. Chruščiovo laikais bažnyčią imta diskredituoti ir morališkai spausti, nors iš trėmimų vietų sugrįžo 130 kunigų.'
+  santrauka: 'Nikita Chruščiovo laikais bažnyčią imta diskredituoti ir morališkai spausti, nors iš trėmimų vietų sugrįžo 130 kunigų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     J. Stalino laikais okupacinė valdžia dvasininkiją stengėsi sunaikinti fiziš-

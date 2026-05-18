@@ -45,7 +45,7 @@ Raimundas Lopata įvardytas leidinio redakcinės kolegijos pirmininku ir minimas
 - Lietuvos valstybingumo raida 1914–1918 metais
 
 ## Teiginiai
-- t-005
+- t-006
   teiginys: 'Raimundas Lopata buvo leidinio „Lietuvos istorija“ redakcinės kolegijos pirmininkas.'
   pagrindžia:
     - c-001
@@ -92,7 +92,7 @@ Raimundas Lopata įvardytas leidinio redakcinės kolegijos pirmininku ir minimas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
+    - t-006
 
 ## Ryšiai
 ### Laikotarpiai

@@ -18,20 +18,22 @@ Blaivybės paminklas Skapišky.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Blaivybės paminklas Skapišky.'
+  teiginys: 'Skapiškyje buvo blaivybės paminklas.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Blaivybės paminklas Skapišky.'
+  santrauka: 'Skapiškyje buvo blaivybės paminklas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Blaivybės paminklas Skapišky.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

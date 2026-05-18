@@ -21,17 +21,21 @@ Daug geriau buvo sutvarkytas unitų švietimas. Jų vienuolynų buvo net Žemai�
 
 ## Teiginiai
 - t-001
-  teiginys: 'Daug geriau buvo sutvarkytas unitų švietimas.'
+  teiginys: 'Unitai Vilniuje turėjo popiežiaus išlaikomą kunigų seminariją, o jų švietimu daugiausia rūpinosi bazilijonai.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Jų vienuolynų buvo net Žemaičiuose (Padubysy), nors ten nei pravoslavų nei unitų nebuvo iš viso.'
+  teiginys: 'Unitų vienuolynų buvo net Žemaičiuose, Padubysyje, nors ten nebuvo nei pravoslavų, nei unitų.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Daug geriau buvo sutvarkytas unitų švietimas.'
+  santrauka: 'Unitai Vilniuje turėjo popiežiaus išlaikomą kunigų seminariją, o jų švietimu daugiausia rūpinosi bazilijonai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Daug geriau buvo sutvarkytas
@@ -39,26 +43,26 @@ Daug geriau buvo sutvarkytas unitų švietimas. Jų vienuolynų buvo net Žemai�
     laikomą, kunigų seminariją; mokymu daugiausia užsiėmė jų ba-
     zi1ijonų ordinas, kurs turėjo Lietuvoje net keletą dešimčių
     savo vienuolynų.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Jų vienuolynų buvo net Žemaičiuose (Padubysy), nors ten nei pravoslavų nei unitų nebuvo iš viso.'
+  santrauka: 'Unitų vienuolynų buvo net Žemaičiuose, Padubysyje, nors ten nebuvo nei pravoslavų, nei unitų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jų vienuolynų buvo net Žemaičiuose (Padu-
     bysy), nors ten nei pravoslavų nei unitų nebuvo iš viso. Visur
     prie jų vienuolynų buvo bent pradžios mokyklų, o kai kur net
     ir aukštesniųjų.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

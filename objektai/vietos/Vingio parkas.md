@@ -19,7 +19,7 @@ Katedros) aikštėje dalyvavo apie 30 tūkst., liepos 9 Vingio parke (LPS vadovy
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vingio parke pirmą kartą viešai leista paminėti Molotovo–Ribentropo paktą.'
+  teiginys: 'LKP vadovybė pirmą kartą viešai leido Vingio parke paminėti Molotovo–Ribentropo paktą.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -27,7 +27,7 @@ Katedros) aikštėje dalyvavo apie 30 tūkst., liepos 9 Vingio parke (LPS vadovy
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vingio parke pirmą kartą viešai leista paminėti Molotovo–Ribentropo paktą.'
+  santrauka: 'LKP vadovybė pirmą kartą viešai leido Vingio parke paminėti Molotovo–Ribentropo paktą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     LKP vadovybei Aleksan-

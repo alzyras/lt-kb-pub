@@ -43,48 +43,65 @@ Terminas vartojamas kaip karinis vadovavimo ir karių telkimo pareigybės pavadi
 Šaltinyje žodis pasirodo kariuomenės mobilizacijos, dalinių sudarymo ir mūšio rikiuotės aprašymuose.
 
 ## Teiginiai
-- t-003
-  teiginys: 'Rotmistras šiame šaltinyje tiesiogiai apibrėžiamas kaip kavalerijos dalinio vadas, pats rinkdavęs bajoriškos kilmės karius.'
+- t-005
+  teiginys: 'Rotmistras buvo kavalerijos dalinio vadas, su šaukimo raštais pats rinkdavęs bajoriškos kilmės karius.'
   pagrindžia:
-    - c-003
+    - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-004
-  teiginys: 'Mūšio aprašyme Jonas Petras Sapiega minimas kaip rotmistras, greičiausiai vadovavęs kairiojo sparno daliniams.'
+- t-006
+  teiginys: 'Rotmistras Jonas Petras Sapiega greičiausiai vadovavo kairiajame sparne išdėstytiems kavalerijos daliniams.'
   pagrindžia:
-    - c-004
+    - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-003
-  santrauka: Rotmistras šiame šaltinyje aiškiai apibrėžiamas kaip kavalerijos dalinio vadas.
+- c-001
+  santrauka: 'Rotmistras Jonas Petras Sapiega greičiausiai vadovavo kairiajame sparne išdėstytiems kavalerijos daliniams.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Kavalerijos dalinio vadas - rotmistras, turėdamas šaukimo raštus
-    pats rinkdavo karius („draugus“), kurie būdavo bajoriškos kilmės.
-  citata_rodoma: ''
+    Lauko etmonas kairiajame sparne išdėstė
+    savo kavalerijos dalinius, kuriems greičiau-
+    siai vadovavo Usviatų seniūnas, rotmistras
+    Jonas Petras Sapiega, centre buvo išdės-
+    tyti pėstininkai su muškietomis, kuriems
+    vadovavo LDK didysis maršalka Kristupas
+    Mikalojus Manvydas Dorohostaiskis, deši-
+    niajame sparne buvusiai kavalerijai va-
+    dovavo LDK taurininkas Jonušas Radvila.
+    Sudėtinga vietovė trukdė sėkmingai pulti
+    per centrą, tai galėjo lietuviams kainuoti
+    per
+    daug aukų. Etmonai nu-
+    tarė sustiprinti dešinįjį sparną ir sudaryti
+    geležinį kumštį (šiame sparne buvo sutelkta
+    daugiausiai husarų vėliavų), kuris turėjo
+    smogti ir sunaikinti švedų kairįjį sparną,
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
-- c-004
-  santrauka: Rotmistras čia minimas ir kaip konkretus mūšio sparno vadas.
+    - t-006
+- c-002
+  santrauka: 'Rotmistras buvo kavalerijos dalinio vadas, su šaukimo raštais pats rinkdavęs bajoriškos kilmės karius.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    kairiajame sparne išdėstė
-    savo kavalerijos dalinius, kuriems greičiau-
-    siai vadovavo Usviatų seniūnas, rotmistras
-    Jonas Petras Sapiega,
-  citata_rodoma: ''
+    Tautinio autoramento pagrindu buvo formuojama sunkioji kava-
+    lerija - husarai, vidutinė ir lengvoji kavalerija - kazokai, petihorai
+    bei totoriai, taip pat „lenkų“ ir „vengrų“ tipo pėstininkai. Vidinė
+    dalinių tvarka buvo paremta tradicine „draugų“ tipo organizacija.
+    Kavalerijos dalinio vadas - rotmistras, turėdamas šaukimo raštus
+    pats rinkdavo karius („draugus“), kurie būdavo bajoriškos kilmės.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-005
 
 ## Ryšiai
 ### Teminiai klasteriai

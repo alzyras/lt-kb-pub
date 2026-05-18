@@ -20,17 +20,21 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų Rusijai paliaubas, o Lenkus privertė pasirašyti Spa miestely (Belgijoje) protokolą, kuriuo Lenkija apsiėmė atsitraukti už vadinamosios Kerzono (Curzono) linijos (ją nustatė toji.'
+  teiginys: 'Aukščiausioji Santarvininkių Taryba 1919 m. gruodžio 8 d. nustatė Kerzono liniją.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Ta sutartis, nespręsdama sienų klausimo, nustatė demarkacijos liniją Suvalkų krašte, kaip ją buvo nustačiusi 1919 metų gruodžio 8 d. Aukščiausioji Santarvės Taryba (Kerzono linija); bet toliau už Nemuno — visą Gardino apskritį ligi Merkinės, Varėnos ir Bastūnų.'
+  teiginys: '1919 m. gruodžio 8 d. Aukščiausioji Santarvės Taryba buvo nustačiusi Kerzono liniją Suvalkų krašte.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų Rusijai paliaubas, o Lenkus privertė pasirašyti Spa miestely (Belgijoje) protokolą, kuriuo Lenkija apsiėmė atsitraukti už vadinamosios Kerzono (Curzono) linijos (ją nustatė toji.'
+  santrauka: 'Aukščiausioji Santarvininkių Taryba 1919 m. gruodžio 8 d. nustatė Kerzono liniją.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tada Aukš-
@@ -40,15 +44,15 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
     vadinamosios Kerzono (Curzono) linijos (ją nustatė toji Aukš-
     čiausioji Taryba 1919 metų gruodžio 8 d.) ir Vilniaus sritį ati-
     duoti Lietuvai (liepos 10 d.).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Ta sutartis, nespręsdama sienų klausimo, nustatė demarkacijos liniją Suvalkų krašte, kaip ją buvo nustačiusi 1919 metų gruodžio 8 d. Aukščiausioji Santarvės Taryba (Kerzono linija); bet toliau už Nemuno — visą Gardino apskritį ligi Merkinės, Varėnos ir Bastūnų.'
+  santrauka: '1919 m. gruodžio 8 d. Aukščiausioji Santarvės Taryba buvo nustačiusi Kerzono liniją Suvalkų krašte.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ta sutartis, nespręs-
@@ -56,11 +60,11 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
     te, kaip ją buvo nustačiusi 1919 metų gruodžio 8 d. Aukščiau-
     sioji Santarvės Taryba (Kerzono linija); bet toliau už Nemuno
     — visą Gardino apskritį ligi Merkinės, Varėnos ir Bastūnų
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

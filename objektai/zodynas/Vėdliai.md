@@ -21,7 +21,7 @@ Pagrindinė forma: `vėdliai`.
 Vartojamos formos: `vėdliais`, `vėdlių`.
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: '`Vėdliai` šiame tekste reiškia jaunojo vestuvių palydą.'
   pagrindžia:
     - c-001
@@ -31,7 +31,7 @@ Vartojamos formos: `vėdliais`, `vėdlių`.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Vėdliai` šiame tekste reiškia jaunojo vestuvių palydą
+  santrauka: '`Vėdliai` šiame tekste reiškia jaunojo vestuvių palydą.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Visi tie jaunojo svečiai vadinos vėdliais nuo to, jog
@@ -42,9 +42,9 @@ Vartojamos formos: `vėdliais`, `vėdlių`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
 - c-002
-  santrauka: `Vėdliai` šiame tekste reiškia jaunojo vestuvių palydą
+  santrauka: '`Vėdliai` šiame tekste reiškia jaunojo vestuvių palydą.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Atėjus trečiajai ar ketvirtajai dienai, kartais ir šeštajai dienai, sutemus naktį ėmė vėdliai marčią
@@ -55,7 +55,7 @@ Vartojamos formos: `vėdliais`, `vėdlių`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Pastabos
 

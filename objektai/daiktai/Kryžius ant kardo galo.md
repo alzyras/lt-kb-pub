@@ -44,7 +44,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Kryžiuočiai savo žygiuose nešė kryžių ant kardo galo.
+  santrauka: 'Kryžiuočiai savo žygiuose nešė kryžių ant kardo galo.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tad Gediminui politinės aplinkybės krikštui tapo gana
@@ -52,12 +52,10 @@ Nenurodyta
     žiuočiai, kurie uoliai savo žygiuose nešė kryžių ant kardo galo.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-001
     - t-001
 
 ## Ryšiai

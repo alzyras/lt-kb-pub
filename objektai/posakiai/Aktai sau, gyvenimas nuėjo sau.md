@@ -32,7 +32,7 @@ Formulė priešpriešina juridinius aktus ir tikrąją politinio gyvenimo eigą.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Formulė nusako, kad juridiniai aktai ir tikroji politinė raida gali išsiskirti.'
+  teiginys: 'Unijos dokumentas liko juridiniu aktu, o politinis gyvenimas savo raida nuėjo kitu keliu.'
   pagrindžia:
     - c-001
     - c-002
@@ -41,26 +41,26 @@ Formulė priešpriešina juridinius aktus ir tikrąją politinio gyvenimo eigą.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Trumpa aforistinė formulė tiesiogiai suveda juridinį aktą ir gyvenimo tikrovę.
+  santrauka: 'Unijos dokumentas liko juridiniu aktu, o politinis gyvenimas savo raida nuėjo kitu keliu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Aktai sau, gyvenimas nuėjo sau.
   citata_rodoma: ""
-  teiginio_tipas: interpretacija
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: Gretima pastraipa paaiškina, kad dokumentas liko dokumentu, o gyvenimas nuėjo kitu keliu.
+  santrauka: 'Unijos dokumentas liko juridiniu aktu, o politinis gyvenimas savo raida nuėjo kitu keliu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Pastarosios unijos dokumentas, nors ir labai skambių žo­
     džių prirašytas, pasiliko dokumentu, o gyvenimas savo logikos
     raida nuėjo kitu keliu.
   citata_rodoma: ""
-  teiginio_tipas: interpretacija
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""

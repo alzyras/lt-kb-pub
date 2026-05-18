@@ -22,13 +22,13 @@ Pagrindinė forma: `prasma`.
 Vartojamos formos: `savo prasma`, `savo prasma dirbtais`, `savo prasma dirbo`.
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: '`Prasma` šiame tekste reiškia savą būdą arba meistrystę.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Terminas vartojamas kalbant apie savarankišką darbo atlikimą ir dirbinių gamybą.'
   pagrindžia:
     - c-001
@@ -38,7 +38,7 @@ Vartojamos formos: `savo prasma`, `savo prasma dirbtais`, `savo prasma dirbo`.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Prasma` šiame tekste reiškia savą būdą arba meistrystę
+  santrauka: '`Prasma` šiame tekste reiškia savą būdą arba meistrystę.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Nuo ryto,
@@ -50,10 +50,10 @@ Vartojamos formos: `savo prasma`, `savo prasma dirbtais`, `savo prasma dirbo`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
 - c-002
-  santrauka: Terminas vartojamas kalbant apie savarankišką darbo atlikimą ir dirbinių gamybą
+  santrauka: 'Terminas vartojamas kalbant apie savarankišką darbo atlikimą ir dirbinių gamybą.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     lovius, raugtines, kipius^575 , geldas, muldas, taip pat ir kitą būtos padargą sau tiekė: plėškes^576 ,
@@ -66,7 +66,7 @@ Vartojamos formos: `savo prasma`, `savo prasma dirbtais`, `savo prasma dirbo`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004
 
 ## Pastabos
 

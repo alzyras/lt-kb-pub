@@ -35,6 +35,8 @@ Nenurodyta
   teiginys: 'Kai Livonija Pasvaly padarė su Lietuva sutartį (1557 m.), Jonas IV tuojau paskelbė Livonijai karą; 1559 m. Livonijai pasidavus Zigmantui Augustui, Lietuva stojo jos ginti.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -46,10 +48,10 @@ Nenurodyta
     davus Zigmantui Augustui, Lietuva stojo jos ginti. 1560 m. pra-
     sidėjęs karas dėl Livonijos nesisekė ir užtraukė didelių nelaimių
     visai Lietuvai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

@@ -20,17 +20,23 @@ Tad, norėdamas sumažinti importą ir paremti savąją pramonę, 1776 m. seimas
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tad, norėdamas sumažinti importą ir paremti savąją pramonę, 1776 m. seimas išleido gyventojų išlaidų normuojamąjį įstatymą (lex sumptuaria).'
+  teiginys: '1776 m. seimas išleido gyventojų išlaidų normuojamąjį įstatymą, siekdamas sumažinti importą ir paremti savąją pramonę.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: '1778 ir 1780 m. seimuose tas įstatymas buvo pakartotas ir praplėstas, tačiau niekuomet nebuvo nustatyta, kas ir kaip turi prižiūrėti jo vykdymą.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Tad, norėdamas sumažinti importą ir paremti savąją pramonę, 1776 m. seimas išleido gyventojų išlaidų normuojamąjį įstatymą (lex sumptuaria).'
+  santrauka: '1776 m. seimas išleido gyventojų išlaidų normuojamąjį įstatymą, siekdamas sumažinti importą ir paremti savąją pramonę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tad, norėdamas sumažinti im-
@@ -40,11 +46,11 @@ Tad, norėdamas sumažinti importą ir paremti savąją pramonę, 1776 m. seimas
     ponams buvo įsakyta savo tarnus taisyti kuo pigiausiai, o visų vai-
     vadijų bajorijai įsakyta nešioti tam tikros spalvos vietinės medžiagos
     mundierius.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
@@ -54,10 +60,10 @@ Tad, norėdamas sumažinti importą ir paremti savąją pramonę, 1776 m. seimas
     1778 ir 1780 m. seimuose tas įstatymas buvo pakartotas
     ir praplėstas, tačiau niekuomet nebuvo nustatyta, kas ir kaip turi
     prižiūrėti jo vykdymą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

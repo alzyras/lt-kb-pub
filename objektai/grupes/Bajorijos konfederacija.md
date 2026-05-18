@@ -19,23 +19,25 @@ Kaip tik tuo metu Varšuvoje susidarė bajorijos konfederacija, kuri skelbėsi n
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kaip tik tuo metu Varšuvoje susidarė bajorijos konfederacija, kuri skelbėsi norinti sujungti į vieną kūną visas buvusios Respublikos žemes ir visus kvietė į bendrą darbą.'
+  teiginys: 'Varšuvoje susidariusi bajorijos konfederacija siekė sujungti visas buvusios Respublikos žemes į vieną kūną.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kaip tik tuo metu Varšuvoje susidarė bajorijos konfederacija, kuri skelbėsi norinti sujungti į vieną kūną visas buvusios Respublikos žemes ir visus kvietė į bendrą darbą.'
+  santrauka: 'Varšuvoje susidariusi bajorijos konfederacija siekė sujungti visas buvusios Respublikos žemes į vieną kūną.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kaip
     tik tuo metu Varšuvoje susidarė bajorijos konfederacija, kuri
     skelbėsi norinti sujungti į vieną kūną visas buvusios Respubli-
     kos žemes ir visus kvietė į bendrą darbą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

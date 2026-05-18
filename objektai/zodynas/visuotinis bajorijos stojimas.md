@@ -19,23 +19,25 @@ Kiekvienas toksai šaukimas buvo vadinamas visuotiniu bajorijos stojimu.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kiekvienas toksai šaukimas buvo vadinamas visuotiniu bajorijos stojimu.'
+  teiginys: 'Visuotiniu bajorijos stojimu buvo vadinamas šaukimas, kai sveiki bajorai turėjo eiti į karo tarnybą ir vestis tarnų.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kiekvienas toksai šaukimas buvo vadinamas visuotiniu bajorijos stojimu.'
+  santrauka: 'Visuotiniu bajorijos stojimu buvo vadinamas šaukimas, kai sveiki bajorai turėjo eiti į karo tarnybą ir vestis tarnų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kiekvienas toksai šaukimas buvo vadinamas visuotiniu
     bajorijos stojimu. Visi bajorai, kas sveikas galįs, turėjo
     ne tik patys eiti, bet dar ir vestis tam tikrą skaičių tarnų. Jei kas
     neidavo, galėdavo netekti žemės.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

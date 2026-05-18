@@ -21,13 +21,13 @@ Rugsėjį Himansas dar pataisė planą lietuvių naudai – Vilniaus regionas ja
 
 ## Teiginiai
 - t-001
-  teiginys: 'Himanso plane Vilniaus regionas nebesudarė kantono, o atitiko autonominio rajono statusą.'
+  teiginys: 'Pataisytame Himanso plane Vilniaus regionas nebesudarė kantono, o atitiko autonominio rajono statusą.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: '1922 m. sausį jie surengė rinkimus Vilniaus krašte – Vidurinėje Lietuvoje, kuri formaliai prisijungė prie Lenkijos, o Lietuva liko „nei karo, nei taikos“ situacijoje.'
+  teiginys: '1922 m. sausį Vilniaus krašte surengti rinkimai, po kurių Vidurinė Lietuva formaliai prisijungė prie Lenkijos.'
   pagrindžia:
     - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -55,7 +55,7 @@ Rugsėjį Himansas dar pataisė planą lietuvių naudai – Vilniaus regionas ja
   pagrindžia:
     - t-003
 - c-002
-  santrauka: 'Himanso plane Vilniaus regionas nebesudarė kantono, o atitiko autonominio rajono statusą.'
+  santrauka: 'Pataisytame Himanso plane Vilniaus regionas nebesudarė kantono, o atitiko autonominio rajono statusą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Rugsėjį Himansas dar pataisė planą lietuvių
@@ -69,7 +69,7 @@ Rugsėjį Himansas dar pataisė planą lietuvių naudai – Vilniaus regionas ja
   pagrindžia:
     - t-001
 - c-003
-  santrauka: '1922 m. sausį jie surengė rinkimus Vilniaus krašte – Vidurinėje Lietuvoje, kuri formaliai prisijungė prie Lenkijos, o Lietuva liko „nei karo, nei taikos“ situacijoje.'
+  santrauka: '1922 m. sausį Vilniaus krašte surengti rinkimai, po kurių Vidurinė Lietuva formaliai prisijungė prie Lenkijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1922 m. sausį jie surengė rinkimus Vilniaus krašte – Viduri-

@@ -35,20 +35,20 @@ Martynas Mažvydas Vaitkūnas šiame šaltinyje minimas kaip autorius, raštinin
 - Mažvydo giesmynas
 
 ## Teiginiai
-- t-001
+- t-004
   teiginys: 'Mažvydas rašė lietuviškas protestantiškas knygas.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Martynas Mažvydas Vaitkūnas išleido pirmąjį lietuvišką katekizmą, giesmes ir kitas tikybines knygutes.'
+- t-005
+  teiginys: 'Martynas Mažvydas Vaitkūnas 1547 m. išleido pirmąjį lietuvišką katekizmą, kai kurias giesmes ir kelias tikybines knygutes.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: 'Martynas Mažvydas Vaitkūnas siejamas su 1570 m. giesmynu.'
+- t-006
+  teiginys: 'Martynas Mažvydas Vaitkūnas siejamas su 1570 m. Mažvydo giesmynu.'
   pagrindžia:
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -56,7 +56,7 @@ Martynas Mažvydas Vaitkūnas šiame šaltinyje minimas kaip autorius, raštinin
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Mažvydas rašė lietuviškas protestantiškas knygas
+  santrauka: 'Mažvydas rašė lietuviškas protestantiškas knygas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jas
@@ -69,9 +69,9 @@ Martynas Mažvydas Vaitkūnas šiame šaltinyje minimas kaip autorius, raštinin
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-004
 - c-002
-  santrauka: Martynas Mažvydas Vaitkūnas išleido pirmąjį lietuvišką katekizmą, giesmes ir kitas tikybines knygutes
+  santrauka: 'Martynas Mažvydas Vaitkūnas 1547 m. išleido pirmąjį lietuvišką katekizmą, kai kurias giesmes ir kelias tikybines knygutes.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Mažvydas išleido 1547 m. pirmąjį lietuvišką katekizmą ir
@@ -84,9 +84,9 @@ Martynas Mažvydas Vaitkūnas šiame šaltinyje minimas kaip autorius, raštinin
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-005
 - c-003
-  santrauka: Martynas Mažvydas Vaitkūnas siejamas su 1570 m. giesmynu
+  santrauka: 'Martynas Mažvydas Vaitkūnas siejamas su 1570 m. Mažvydo giesmynu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     1570 m. Mažvydo giesmynas.
@@ -96,13 +96,12 @@ Martynas Mažvydas Vaitkūnas šiame šaltinyje minimas kaip autorius, raštinin
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-006
 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XVI amžius]]
 
 ### Susiję objektai
-- [[objektai/autoriai/Abraomas Kulvietis]]
 - [[objektai/autoriai/J. Bretkūnas]]
 - [[objektai/autoriai/Stanislovas Rapagelionis]]

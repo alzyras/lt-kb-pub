@@ -33,13 +33,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Taigi buvo įkurtas (1228 m.) vyskupo priklausąs riterių ordinas, kurs pagal savo gyvenamąją vietą buvo vadinamas Dobrinės ordinu.'
+  teiginys: '1228 m. buvo įkurtas vyskupui priklausęs riterių ordinas, pagal gyvenamąją vietą vadintas Dobrinės ordinu.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Taigi buvo įkurtas (1228 m.) vyskupo priklausąs riterių ordinas, kurs pagal savo gyvenamąją vietą buvo vadinamas Dobrinės ordinu.'
+  santrauka: '1228 m. buvo įkurtas vyskupui priklausęs riterių ordinas, pagal gyvenamąją vietą vadintas Dobrinės ordinu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tada vysk. Kristijonas kartu su
@@ -50,10 +52,10 @@ Nenurodyta
     buvo vadinamas Dobrinės ordinu. Bet riterių buvo ne-
     daug, todėl ir jų pagalba buvo nedidelė: jie vos įstengdavo ap-
     ginti savo pilį.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

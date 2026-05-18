@@ -43,13 +43,13 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: 'Stoginėje ar daržinėje krovė javus, šiaudus ir šieną.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Jei stoginėse netilpo pašaras, jį krovė ant lauko į žagus arba bragus.'
   pagrindžia:
     - c-002
@@ -58,7 +58,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Stoginėje ar daržinėje krovė javus, šiaudus ir šieną.
+  santrauka: 'Stoginėje ar daržinėje krovė javus, šiaudus ir šieną.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Sekmasis trobesys vadinos stogine, ar daržine, pailguotinas ketvirtainis, į kurį javus, šiaudus ar
@@ -70,9 +70,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: Jei stoginėse netilpo pašaras, jį krovė ant lauko į žagus arba bragus.
+  santrauka: 'Jei stoginėse netilpo pašaras, jį krovė ant lauko į žagus arba bragus.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Jei
@@ -101,4 +101,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004

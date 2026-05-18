@@ -37,14 +37,14 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
 - Naujoji Prūsijos kronika
 
 ## Teiginiai
-- t-001
-  teiginys: 'Vygandas Marburgietis šiame leidinyje įvardijamas kaip „Naujosios Prūsijos žemės kronikos“ autorius.'
+- t-003
+  teiginys: 'Vygandas Marburgietis buvo „Naujosios Prūsijos žemės kronikos“ autorius.'
   pagrindžia:
     - c-001
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Vygando Marburgiečio kronikos ištraukos šiame leidinyje naudojamos aiškinant Strėvos mūšį ir Kauno pilies apgultį.'
   pagrindžia:
     - c-002
@@ -54,35 +54,40 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Šaltinio ištrauka tiesiogiai įvardija Vygando Marburgiečio kroniką.
+  santrauka: 'Vygandas Marburgietis buvo „Naujosios Prūsijos žemės kronikos“ autorius.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Ištrauka iš Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“, kaip lietuvių
     karalius 1345 m., siekdamas apsiginti nuo rengiamo kryžiuočių antpuolio, norėdamas
     pats užpulti priešo teritoriją, jį dezinformuoja
-  citata_rodoma: ''
+    „Ir iškilo [Ordino broliams] klausimas, ar žygiuoti toliau į [Lietuvos] žemę. Mat viena
+    klastinga stabmeldė pranešė magistrui, kad lietuvių karalius telkęs didelę daugybę ka-
+    riuomenės, su kuria norįs nusiaubti Sembos žemę. Todėl [Prūsijos] magistras ir kiti pagal
+    kilmingiausių [svečių] patarimą grįžta saugoti savo krašto.
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: Vygando Marburgiečio kronika naudojama ir Strėvos mūšio kontekste.
+  santrauka: 'Vygandas Marburgietis buvo „Naujosios Prūsijos žemės kronikos“ autorius.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Ištrauka iš Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“ apie 1348 m.
     Strėvos mūšį.
-  citata_rodoma: ''
+    „[1348 m.
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
 - c-003
-  santrauka: Kitoje ištraukoje kronika naudojama Kauno pilies šturmui aprašyti.
+  santrauka: 'Vygando Marburgiečio kronikos ištraukos šiame leidinyje naudojamos aiškinant Strėvos mūšį ir Kauno pilies apgultį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Ištrauka iš Vygando Marburgiečio „Nau-
@@ -94,10 +99,10 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
     į pilį. Stabmeldžiai, tatai suprasdami, iškiša
     iš mūro sijas, kad esąs pakeliamas tiltas
     liktų laisvas naudotis.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004

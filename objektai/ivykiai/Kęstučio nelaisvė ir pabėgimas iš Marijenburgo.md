@@ -33,17 +33,21 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vienam mūšy jis buvo nutrauktas nuo žirgo ir pakliuvo kryžiuočiams į nelaisvę (1361 m.).'
+  teiginys: '1361 m. Kęstutis viename mūšyje buvo nutrauktas nuo žirgo ir pateko kryžiuočiams į nelaisvę.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Šis ir padėjo Kęstučiui pabėgti.'
+  teiginys: 'Alpis padėjo Kęstučiui pabėgti iš Marijenburgo, atnešęs jam kryžiuočio drabužius.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vienam mūšy jis buvo nutrauktas nuo žirgo ir pakliuvo kryžiuočiams į nelaisvę (1361 m.).'
+  santrauka: '1361 m. Kęstutis viename mūšyje buvo nutrauktas nuo žirgo ir pateko kryžiuočiams į nelaisvę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vienam mūšy jis buvo nu-
@@ -52,15 +56,15 @@ Nenurodyta
     nelaisvėje. Marijenburgo pily kalinamam Kęstučiui buvo duotas
     patarnauti kryžiuočių išauklėtas lietuvis Alpis, jaunystėje pate-
     kęs jiems į nelaisvę.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Šis ir padėjo Kęstučiui pabėgti.'
+  santrauka: 'Alpis padėjo Kęstučiui pabėgti iš Marijenburgo, atnešęs jam kryžiuočio drabužius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Šis ir padėjo Kęstučiui pabėgti. Persiren-
@@ -69,11 +73,11 @@ Nenurodyta
     iš ten grįžo į Lietuvą. Grįžęs padėkojo magistrui už gerą lai-
     kymą Marijenburge ir ironiškai pažadėjo, sučiupęs magistrą, jį
     daug geriau laikyti. Po to jis greit vėl pradėjo kovas su ordinu.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

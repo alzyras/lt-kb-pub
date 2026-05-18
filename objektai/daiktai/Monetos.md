@@ -43,7 +43,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Nuo Vytauto laikų Lietuvoje buvo kalamos monetos.
+  santrauka: 'Nuo Vytauto laikų Lietuvoje buvo kalamos monetos.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Pagaliau pasibaigus karams su kryžiuo­
@@ -58,13 +58,7 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-    - t-001
-    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/pinigai]]
-
-### Susiję objektai
-- [[objektai/daiktai/Patrankos]]
-- [[objektai/daiktai/Varpai]]

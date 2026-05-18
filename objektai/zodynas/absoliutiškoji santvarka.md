@@ -19,23 +19,5 @@ tags:
 Čia dar verta plačiau paminėti Lietuvos bajorijos raštą, skelbiantį karalių Augustą absoliutišku didžiuoju Lietuvos kunigaikščiu su paveldėjamąja teise. Štai charakteringa jo ištrauka:.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Čia dar verta plačiau paminėti Lietuvos bajorijos raštą, skelbiantį karalių Augustą absoliutišku didžiuoju Lietuvos kunigaikščiu su paveldėjamąja teise. Štai charakteringa jo ištrauka:.'
-  pagrindžia:
-    - c-001
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Čia dar verta plačiau paminėti Lietuvos bajorijos raštą, skelbiantį karalių Augustą absoliutišku didžiuoju Lietuvos kunigaikščiu su paveldėjamąja teise. Štai charakteringa jo ištrauka:.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Čia dar verta plačiau paminėti Lietuvos bajorijos raštą,
-    skelbiantį karalių Augustą absoliutišku didžiuoju Lietuvos kuni-
-    gaikščiu su paveldėjamąja teise. Štai charakteringa jo ištrauka:
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: žemas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001

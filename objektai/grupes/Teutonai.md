@@ -32,7 +32,7 @@ tags:
 Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyventojų pavergimu.
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyventojų pavergimu.'
   pagrindžia:
     - c-001
@@ -42,7 +42,7 @@ Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyve
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyventojų pavergimu.
+  santrauka: 'Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyventojų pavergimu.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Vadino dar ir paskiau tą kraštą vardu, iš dviejų žodžių sudėtu, iš žemaitiško ir
@@ -55,9 +55,9 @@ Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyve
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
 - c-002
-  santrauka: Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyventojų pavergimu.
+  santrauka: 'Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyventojų pavergimu.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Kad ilgainiui teutonai tuos erulius, tenai gyvenančius, antėjo^105 ir juos
@@ -69,7 +69,7 @@ Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyve
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

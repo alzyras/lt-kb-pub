@@ -42,7 +42,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: '1926 m. gruodžio 17 d. perversmo metu šarvuočiai stovėjo prie Vyriausiojo štabo.'
+  teiginys: '1926 m. gruodžio 17 d. perversmo metu šarvuočiai buvo prie Vyriausiojo štabo.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -50,7 +50,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1926 m. gruodžio 17 d. perversmo metu šarvuočiai stovėjo prie Vyriausiojo štabo.'
+  santrauka: '1926 m. gruodžio 17 d. perversmo metu šarvuočiai buvo prie Vyriausiojo štabo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1926 m. gruodžio 17 d. perversmas –

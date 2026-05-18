@@ -18,21 +18,25 @@ Liubavski, Očerk istorii litovsko-russkago gosudarstva do liublinskoj unii vkli
 
 ## Teiginiai
 - t-001
-  teiginys: 'Liubavski, Očerk istorii litovsko-russkago gosudarstva do liublinskoj unii vkliučitelno (1910; dalį to veikalo į liet.'
+  teiginys: 'M. Liubavskio „Očerk istorii litovsko-russkago gosudarstva do liublinskoj unii vkliučitelno“ išėjo 1910 m., o dalį veikalo į lietuvių kalbą išvertė Sondeckis.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Liubavski, Očerk istorii litovsko-russkago gosudarstva do liublinskoj unii vkliučitelno (1910; dalį to veikalo į liet.'
+  santrauka: 'M. Liubavskio „Očerk istorii litovsko-russkago gosudarstva do liublinskoj unii vkliučitelno“ išėjo 1910 m., o dalį veikalo į lietuvių kalbą išvertė Sondeckis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     _M. Liubavski,_ Očerk istorii litovsko-russkago gosudarstva do liublinskoj unii
     vkliučitelno (1910; dalį to veikalo į liet. kalbą yra išvertęs _Sondeckis);
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

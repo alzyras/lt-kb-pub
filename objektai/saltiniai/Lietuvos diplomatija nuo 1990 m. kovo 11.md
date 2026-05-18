@@ -19,7 +19,7 @@ leidinio „Lietuvos diplomatija nuo 1990 m. kovo 11“ (Vilnius: Lietuvos užsi
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lietuvos diplomatija nuo 1990 m. kovo 11 išleista Vilniuje Lietuvos užsienio reikalų ministerijos 2001 m.'
+  teiginys: 'Leidinys „Lietuvos diplomatija nuo 1990 m. kovo 11“ išleistas Vilniuje Lietuvos užsienio reikalų ministerijos 2001 m.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -29,7 +29,7 @@ leidinio „Lietuvos diplomatija nuo 1990 m. kovo 11“ (Vilnius: Lietuvos užsi
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Lietuvos diplomatija nuo 1990 m. kovo 11 išleista Vilniuje Lietuvos užsienio reikalų ministerijos 2001 m.'
+  santrauka: 'Leidinys „Lietuvos diplomatija nuo 1990 m. kovo 11“ išleistas Vilniuje Lietuvos užsienio reikalų ministerijos 2001 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos žemėlapis), Eugenijaus Peikštenio, Vytauto Jasiūno kolekcijų, leidinio

@@ -18,7 +18,7 @@ Krikščionims demokratams padėjo tai, kad jie demonstravo lojalumą caro vald�
 
 ## Teiginiai
 - t-001
-  teiginys: 'Krikščionims demokratams padėjo tai, kad jie demonstravo lojalumą caro valdžiai, ir jų veiklai caro administracija didesnių kliūčių nestatė.'
+  teiginys: 'Lietuvių krikščionims demokratams padėjo lojalumas caro valdžiai, todėl caro administracija jų veiklai didesnių kliūčių nestatė.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -26,7 +26,7 @@ Krikščionims demokratams padėjo tai, kad jie demonstravo lojalumą caro vald�
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Krikščionims demokratams padėjo tai, kad jie demonstravo lojalumą caro valdžiai, ir jų veiklai caro administracija didesnių kliūčių nestatė.'
+  santrauka: 'Lietuvių krikščionims demokratams padėjo lojalumas caro valdžiai, todėl caro administracija jų veiklai didesnių kliūčių nestatė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Krikščionims demokratams padėjo tai, kad jie demonstravo lojalumą

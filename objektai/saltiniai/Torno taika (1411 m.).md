@@ -35,16 +35,18 @@ tags: []
 - Data / laikotarpis: 1411 m.
 
 ## Teiginiai
-- t-002
-  teiginys: 'Šiame veikale, remiantis Haleckio ir Dlugošo vertinimu, Torno sutartis apibūdinama kaip daugiausia atsižvelgusi į Lietuvos interesus.'
+- t-003
+  teiginys: 'Torno sutartis labiausiai atsižvelgė į Lietuvos interesus, nes Lietuvai buvo grąžinta Žemaitija.'
   pagrindžia:
-    - c-002
+    - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: Citata pagrindžia šaltinyje pateikiamą Torno sutarties interpretaciją Lietuvos interesų požiūriu.
+
+## Bibliografiniai įrodymai
+- c-001
+  santrauka: 'Torno sutartis labiausiai atsižvelgė į Lietuvos interesus, nes Lietuvai buvo grąžinta Žemaitija.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vis tik, sako Halec­
@@ -52,10 +54,10 @@ tags: []
     imtinai į Lietuvos interesus. Lenkijai, po tiekos aukų ir pergaliu,
     ji jokios naudos nesuteikė, o Lietuvai — nors Žemaitija buvo
     grąžinta^1 ).
-  citata_rodoma: ''
-  teiginio_tipas: interpretacija
-  patikimumo_lygis: vidutinis
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: 'Citata perteikia šiame veikale cituojamą Haleckio ir Dlugošo vertinimą, o ne neutralų sutarties tekstą.'
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-003

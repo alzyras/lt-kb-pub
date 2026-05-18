@@ -18,21 +18,25 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: '„Lietuvių Laikraštis", — pats pirmasis lietuviškas laikraštis spaudą atgavus.'
+  teiginys: '„Lietuvių Laikraštis“ buvo pirmasis lietuviškas laikraštis po spaudos atgavimo.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: '„Lietuvių Laikraštis", — pats pirmasis lietuviškas laikraštis spaudą atgavus.'
+  santrauka: '„Lietuvių Laikraštis“ buvo pirmasis lietuviškas laikraštis po spaudos atgavimo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     „Lietuvių Laikraštis",
     — pats pirmasis lietuviškas laikraštis spaudą atgavus.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

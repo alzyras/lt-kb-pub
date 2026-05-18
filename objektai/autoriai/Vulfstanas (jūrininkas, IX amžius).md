@@ -38,7 +38,7 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Vulfstano pasakojime smulkiai nupasakojamas aisčių gyvenimo būdas ir papročiai
+  santrauka: 'Vulfstano pasakojime smulkiai nupasakojamas aisčių gyvenimo būdas ir papročiai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Keliautojai** mums paliko savo kelionių aprašymų, iš kurių

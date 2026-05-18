@@ -32,7 +32,7 @@ Patarlinė formulė čia vartojama kalbant apie jėgų nelygybę ir nenorą prie
 
 ## Teiginiai
 - t-001
-  teiginys: 'Formulė nusako supratimą, kad silpnesnė pusė nesipriešina stipresnei.'
+  teiginys: 'Lenkai nedrįso pasipriešinti Vytautui, nes suprato, kad prieš vėją nepapūs ir jis buvo per galingas.'
   pagrindžia:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -40,7 +40,7 @@ Patarlinė formulė čia vartojama kalbant apie jėgų nelygybę ir nenorą prie
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Posakis paaiškina, kodėl lenkai nedrįso atvirai priešintis Vytautui.
+  santrauka: 'Lenkai nedrįso pasipriešinti Vytautui, nes suprato, kad prieš vėją nepapūs ir jis buvo per galingas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Len­
@@ -48,7 +48,7 @@ Patarlinė formulė čia vartojama kalbant apie jėgų nelygybę ir nenorą prie
     nepapūs, ir nedrįso Vytautui pasipriešinti, nes jis buvo per galin­
     gas.
   citata_rodoma: ""
-  teiginio_tipas: interpretacija
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""

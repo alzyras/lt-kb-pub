@@ -21,21 +21,27 @@ Livonijos valstybė nebuvo vienalytė; joje iš tikrųjų buvo net 6 atskiros ju
 
 ## Teiginiai
 - t-001
-  teiginys: 'Livonijos valstybė nebuvo vienalytė; joje iš tikrųjų buvo net 6 atskiros jungtinės valstybės: 4 vyskupystės, ordinas ir Rygos miestas.'
+  teiginys: 'Livonijos valstybė nebuvo vienalytė: ją sudarė keturios vyskupystės, ordinas ir Rygos miestas.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Livonijos valstybės vadams reikėjo ne tik apsisaugoti nuo Maskvos, bet ir išspręsti bažnytinės valstybės panaikinimo klausimą, nes krašte labai sparčiai plito protestantizmas.'
+  teiginys: 'Livonijos valstybės vadams reikėjo apsisaugoti nuo Maskvos ir spręsti bažnytinės valstybės panaikinimo klausimą.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-003
-  teiginys: '1559 m. Lietuvos seime Vilniuje buvo pasirašyta nauja sutartis, kuria Zigmantas Augustas apsiėmė ginti Livoniją; jam už tai buvo atiduotos 5 ordino ir 2 arkivyskupo pilys, kurias po karo šie galėjo išsipirkti, — magistras už 600.000, o arkivyskupas už 100.000.'
+  teiginys: '1559 m. Vilniuje Zigmantas Augustas apsiėmė ginti Livoniją, už tai gaudamas 5 ordino ir 2 arkivyskupo pilis.'
   pagrindžia:
     - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Livonijos valstybė nebuvo vienalytė; joje iš tikrųjų buvo net 6 atskiros jungtinės valstybės: 4 vyskupystės, ordinas ir Rygos miestas.'
+  santrauka: 'Livonijos valstybė nebuvo vienalytė: ją sudarė keturios vyskupystės, ordinas ir Rygos miestas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Livonijos valstybė nebuvo
@@ -50,15 +56,15 @@ Livonijos valstybė nebuvo vienalytė; joje iš tikrųjų buvo net 6 atskiros ju
     žiuočių ordino šaka (žiūr. 50—51 psl.), bet, turėdamas skirtingas
     sąlygas, jis iš tikrųjų gyveno atskirai ir varė savarankišką po-
     litiką.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Livonijos valstybės vadams reikėjo ne tik apsisaugoti nuo Maskvos, bet ir išspręsti bažnytinės valstybės panaikinimo klausimą, nes krašte labai sparčiai plito protestantizmas.'
+  santrauka: 'Livonijos valstybės vadams reikėjo apsisaugoti nuo Maskvos ir spręsti bažnytinės valstybės panaikinimo klausimą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Livonijos valstybės vadams reikėjo ne tik ap-
@@ -67,15 +73,15 @@ Livonijos valstybė nebuvo vienalytė; joje iš tikrųjų buvo net 6 atskiros ju
     mas. Tačiau, nesant vieno valdovo, buvo sunku dėl to susitarti
     ir sunku apsiginti nuo Maskvos; tad būtinai reikėjo šauktis į
     pagalbą kaimynę Lietuvą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 - c-003
-  santrauka: '1559 m. Lietuvos seime Vilniuje buvo pasirašyta nauja sutartis, kuria Zigmantas Augustas apsiėmė ginti Livoniją; jam už tai buvo atiduotos 5 ordino ir 2 arkivyskupo pilys, kurias po karo šie galėjo išsipirkti, — magistras už 600.000, o arkivyskupas už 100.000.'
+  santrauka: '1559 m. Vilniuje Zigmantas Augustas apsiėmė ginti Livoniją, už tai gaudamas 5 ordino ir 2 arkivyskupo pilis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     1559 m. Lietuvos
@@ -85,10 +91,10 @@ Livonijos valstybė nebuvo vienalytė; joje iš tikrųjų buvo net 6 atskiros ju
     pirkti, — magistras už 600.000, o arkivyskupas už 100.000 auk-
     sinų. Maskvos kariuomenė tuo tarpu skersai ir išilgai žygiavo
     po visą Livoniją; ją tik sulaikė atvykusi Lietuvos kariuomene.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003

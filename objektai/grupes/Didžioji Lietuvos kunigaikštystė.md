@@ -21,34 +21,15 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: '„Didžioji Lietuvos kunigaikštystė ir Lenkų karalystė yra vienas nedalomas ir vienalytis kūnas, o taip pat ne skirtinga, bet viena bendra valstybė, kuri iš dviejų valstybių ir dviejų tautų suėjo ir susijungė į vieną visuomenę".'
+  teiginys: 'Unijos akte Lietuvai buvo paliktas nepaliestas visas Didžiosios Lietuvos Kunigaikštystės valdžios aparatas.'
   pagrindžia:
-    - c-005
-    - c-003
     - c-001
-- t-002
-  teiginys: 'Lietuviams reikalaujant, Lietuvai buvo paliktas nepaliestas visas valdžios aparatas (.. 10 ir 17).'
-  pagrindžia:
-    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '„Didžioji Lietuvos kunigaikštystė ir Lenkų karalystė yra vienas nedalomas ir vienalytis kūnas, o taip pat ne skirtinga, bet viena bendra valstybė, kuri iš dviejų valstybių ir dviejų tautų suėjo ir susijungė į vieną visuomenę".'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    „Didžioji Lietuvos kunigaikštystė
-    ir Lenkų karalystė yra vienas nedalomas ir vienalytis kūnas, o
-    taip pat ne skirtinga, bet viena bendra valstybė, kuri iš dviejų
-    valstybių ir dviejų tautų suėjo ir susijungė į vieną visuomenę".
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Lietuviams reikalaujant, Lietuvai buvo paliktas nepaliestas visas valdžios aparatas (.. 10 ir 17).'
+  santrauka: 'Unijos akte Lietuvai buvo paliktas nepaliestas visas Didžiosios Lietuvos Kunigaikštystės valdžios aparatas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tokie buvo unijos akto nuostatai, įtraukti į jį, lenkams
@@ -62,44 +43,10 @@ tags:
     valstybės urėdai, liko savas iždas, sava kariuomenė ir sava
     teritorija su aiškiai nustatyta siena su Lenkija; liko taip pat
     savos skirtingos Lietuvos teisės, įstatymai ir teismai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: Didžioji Lietuvos kunigaikštystė papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Vesdamas didžiosios Lietuvos kunigaikštijos interesų apspręs­
-    tą bažnytinę politiką, Algirdas, nors pats ir būdamas pagonis,
-    rūpinosi ir budėjo, kad jo pavaldiniai ortodoksai nebūtų _priklau­
-    somi_ nuo priešo žemėje sėdinčio metropolito.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-    - t-001
-- c-005
-  santrauka: Didžioji Lietuvos kunigaikštystė papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Didžioji Lietuvos kunigaikštija ilgiau nebegalėjo būti
-    pagonio valdoma.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-001
-    - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkų karalystė]]

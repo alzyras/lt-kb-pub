@@ -1,6 +1,6 @@
 ---
 tipas: 'asmuo'
-pavadinimas: 'Vytautas'
+pavadinimas: 'Vytautas (Lietuvos valdovas, XIV–XV a.)'
 sukurta: '2026-04-24'
 variantai:
   - 'Vytauto'
@@ -17,6 +17,7 @@ variantai:
   - 'Aleksandras Vytautas'
 aliases:
   - 'Vytautas (Lietuvos valdovas, 1384 m.)'
+  - 'Vytautas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
@@ -70,7 +71,7 @@ tags:
   - asmuo
   - pilis
 ---
-# Vytautas
+# Vytautas (Lietuvos valdovas, XIV–XV a.)
 
 ## Santrauka
 
@@ -343,7 +344,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-043
-  teiginys: '1430 m. LDK buvo galinga kaip niekuomet, o Vytauto galią jautė visas regionas.'
+  teiginys: '1430 m. Vytauto galią jautė visas regionas, o LDK buvo galinga kaip niekuomet.'
   pagrindžia:
     - c-048
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -367,7 +368,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-047
-  teiginys: 'Vytautas per savo agentus Lenkijoje skleidė nuostatą, kad karas su Vokiečių ordinu yra būtinas.'
+  teiginys: 'Vytautas per savo agentus Lenkijoje skleidė nuostatą, kad karas su Vokiečių ordinu būtinas.'
   pagrindžia:
     - c-052
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -403,7 +404,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-053
-  teiginys: 'Vytautas, atremdamas Ordino reikalavimus dėl Veliuonos ir Žemaitijos, tvirtino, kad tai yra jo tėvų palikimas.'
+  teiginys: 'Vytautas, atremdamas Ordino reikalavimus dėl Veliuonos ir Žemaitijos, tvirtino ginantis tėvų palikimą.'
   pagrindžia:
     - c-058
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -421,7 +422,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-056
-  teiginys: 'Vytauto karūnacijos projektas siejamas su Lietuvos christianizacijos ir europeizacijos kontekstu.'
+  teiginys: 'Vytautas siekė karūnacijos Lietuvos christianizacijos ir europeizacijos kontekste.'
   pagrindžia:
     - c-061
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -1203,7 +1204,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   pagrindžia:
     - t-042
 - c-048
-  santrauka: '1430 m. LDK buvo galinga kaip niekuomet, o Vytauto galią jautė visas regionas.'
+  santrauka: '1430 m. Vytauto galią jautė visas regionas, o LDK buvo galinga kaip niekuomet.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     LDK
@@ -1281,7 +1282,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   pagrindžia:
     - t-046
 - c-052
-  santrauka: 'Vytautas per savo agentus Lenkijoje skleidė nuostatą, kad karas su Vokiečių ordinu yra būtinas.'
+  santrauka: 'Vytautas per savo agentus Lenkijoje skleidė nuostatą, kad karas su Vokiečių ordinu būtinas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Todėl Vytautas
@@ -1382,7 +1383,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   pagrindžia:
     - t-052
 - c-058
-  santrauka: 'Vytautas, atremdamas Ordino reikalavimus dėl Veliuonos ir Žemaitijos, tvirtino, kad tai yra jo tėvų palikimas.'
+  santrauka: 'Vytautas, atremdamas Ordino reikalavimus dėl Veliuonos ir Žemaitijos, tvirtino ginantis tėvų palikimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kuchmeis-
@@ -1444,7 +1445,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   pagrindžia:
     - t-055
 - c-061
-  santrauka: 'Vytauto karūnacijos projektas siejamas su Lietuvos christianizacijos ir europeizacijos kontekstu.'
+  santrauka: 'Vytautas siekė karūnacijos Lietuvos christianizacijos ir europeizacijos kontekste.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Atrodo, kad visa Vytauto politika orientuota į „švento

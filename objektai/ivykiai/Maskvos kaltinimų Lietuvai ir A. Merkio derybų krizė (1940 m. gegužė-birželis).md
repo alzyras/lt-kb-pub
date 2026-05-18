@@ -31,7 +31,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tačiau 1940 m. gegužės pabaigoje sovietų žadėtas nesikišimas į vidaus reikalus baigėsi – Maskva viešai apkaltino Lietuvą grobiant iš sovietų bazių kareivius.'
+  teiginys: '1940 m. gegužės pabaigoje Maskva viešai apkaltino Lietuvą grobiant kareivius iš sovietų bazių.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -43,7 +43,7 @@ Nenurodyta
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: 'Birželio 10 d. Kaune nutarta į Maskvą pasiųsti ministrą J. Urbšį, nes A. Merkiui nesisekė normalizuoti situacijos.'
+  teiginys: '1940 m. birželio 10 d. Kaune nutarta į Maskvą pasiųsti ministrą J. Urbšį, nes A. Merkiui nesisekė normalizuoti situacijos.'
   pagrindžia:
     - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -51,7 +51,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tačiau 1940 m. gegužės pabaigoje sovietų žadėtas nesikišimas į vidaus reikalus baigėsi – Maskva viešai apkaltino Lietuvą grobiant iš sovietų bazių kareivius.'
+  santrauka: '1940 m. gegužės pabaigoje Maskva viešai apkaltino Lietuvą grobiant kareivius iš sovietų bazių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau 1940 m. gegužės pabaigoje sovietų žadėtas nesikišimas į vi-
@@ -80,7 +80,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Birželio 10 d. Kaune nutarta į Maskvą pasiųsti ministrą J. Urbšį, nes A. Merkiui nesisekė normalizuoti situacijos.'
+  santrauka: '1940 m. birželio 10 d. Kaune nutarta į Maskvą pasiųsti ministrą J. Urbšį, nes A. Merkiui nesisekė normalizuoti situacijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Birželio 10 dieną Kaune

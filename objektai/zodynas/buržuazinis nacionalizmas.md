@@ -18,7 +18,7 @@ Kai kuriems jų neleista apsigyventi Lietuvoje, dirbti vadovaujamo darbo, mokyti
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kai kuriems asmenims prikaišiota „antisovietinė veikla“ ir „buržuazinis nacionalizmas“, jie buvo ignoruojami ir sekami.'
+  teiginys: 'Kai kuriems asmenims prikaišiotas „buržuazinis nacionalizmas“, jiems neleista dirbti vadovaujamo darbo, jie buvo sekami.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -26,7 +26,7 @@ Kai kuriems jų neleista apsigyventi Lietuvoje, dirbti vadovaujamo darbo, mokyti
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kai kuriems asmenims prikaišiota „antisovietinė veikla“ ir „buržuazinis nacionalizmas“, jie buvo ignoruojami ir sekami.'
+  santrauka: 'Kai kuriems asmenims prikaišiotas „buržuazinis nacionalizmas“, jiems neleista dirbti vadovaujamo darbo, jie buvo sekami.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kai kuriems jų neleista apsi-

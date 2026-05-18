@@ -41,13 +41,13 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: 'Akstys buvo duriamieji ginklai su aštriais akmenimis vietoje iečių.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Tokios akstys dar buvo dėvimos 10 amžiuje ir siejamos su šv. Vaitiekaus pervėrimu.'
   pagrindžia:
     - c-002
@@ -56,7 +56,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Akstys buvo duriamieji ginklai su aštriais akmenimis vietoje iečių.
+  santrauka: 'Akstys buvo duriamieji ginklai su aštriais akmenimis vietoje iečių.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     It^1328 arti susirėmus, kibo į brūklius rendėtinius,
@@ -68,9 +68,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: Tokios akstys dar buvo dėvimos 10 amžiuje ir siejamos su šv. Vaitiekaus pervėrimu.
+  santrauka: 'Tokios akstys dar buvo dėvimos 10 amžiuje ir siejamos su šv. Vaitiekaus pervėrimu.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Tokias akstis dėvėjo dar
@@ -81,4 +81,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004

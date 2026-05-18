@@ -18,7 +18,7 @@ Tęstas 1902 m. Kazimiero Būgos pradėtas lietuvių kalbos žodyno sudarymas (p
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kazimiero Būgos pradėto lietuvių kalbos žodyno pirmieji tomai išspausdinti nacių okupacijos metais.'
+  teiginys: 'Kazimiero Būgos pradėto „Lietuvių kalbos žodyno“ pirmieji tomai buvo išspausdinti nacių okupacijos metais.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -28,7 +28,7 @@ Tęstas 1902 m. Kazimiero Būgos pradėtas lietuvių kalbos žodyno sudarymas (p
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Kazimiero Būgos pradėto lietuvių kalbos žodyno pirmieji tomai išspausdinti nacių okupacijos metais.'
+  santrauka: 'Kazimiero Būgos pradėto „Lietuvių kalbos žodyno“ pirmieji tomai buvo išspausdinti nacių okupacijos metais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kazi-

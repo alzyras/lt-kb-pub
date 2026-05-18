@@ -20,13 +20,15 @@ Toliau jis pasakė: „Taip pat protestuoju prieš neteisybę, kuri mums būtų 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Toliau jis pasakė: „Taip pat protestuoju prieš neteisybę, kuri mums būtų padaryta.'
+  teiginys: 'Vytautas protestavo prieš numatomą neteisybę ir įspėjo lenkus dėl mėginimo atplėšti Palenkę, Voluinę ir Braclavą.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Toliau jis pasakė: „Taip pat protestuoju prieš neteisybę, kuri mums būtų padaryta.'
+  santrauka: 'Vytautas protestavo prieš numatomą neteisybę ir įspėjo lenkus dėl mėginimo atplėšti Palenkę, Voluinę ir Braclavą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Toliau jis pasakė: „Taip pat protestuoju prieš neteisybę,
@@ -35,10 +37,10 @@ Toliau jis pasakė: „Taip pat protestuoju prieš neteisybę, kuri mums būtų 
     mis" ... Tai buvo įspėjimas lenkams, norintiems atplėšti kai kurias
     Lietuvos žemes (Palenkę, Voluinę ir Lietuvai likusį Podolės Bracla-
     vą), dėl kurių abi valstybės rungėsi XIV ir XV amž.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

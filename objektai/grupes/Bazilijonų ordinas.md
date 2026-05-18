@@ -21,14 +21,16 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; mokymu daugiausia užsiėmė jų bazi1ijonų ordinas, kurs turėjo Lietuvoje net keletą dešimčių savo vienuolynų.'
+  teiginys: 'Bazilijonų ordinas daugiausia rūpinosi unitų mokymu ir Lietuvoje turėjo kelias dešimtis vienuolynų.'
   pagrindžia:
     - c-002
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; mokymu daugiausia užsiėmė jų bazi1ijonų ordinas, kurs turėjo Lietuvoje net keletą dešimčių savo vienuolynų.'
+  santrauka: 'Bazilijonų ordinas daugiausia rūpinosi unitų mokymu ir Lietuvoje turėjo kelias dešimtis vienuolynų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Daug geriau buvo sutvarkytas
@@ -36,15 +38,15 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
     laikomą, kunigų seminariją; mokymu daugiausia užsiėmė jų ba-
     zi1ijonų ordinas, kurs turėjo Lietuvoje net keletą dešimčių
     savo vienuolynų.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: Bazilijonų ordinas papildomas patvirtintas šaltinio paminėjimas.
+  santrauka: 'Bazilijonų ordinas daugiausia rūpinosi unitų mokymu ir Lietuvoje turėjo kelias dešimtis vienuolynų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jų vienuolynų buvo net Žemaičiuose (Padu-
@@ -52,10 +54,9 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
     - t-001
 
 ## Ryšiai

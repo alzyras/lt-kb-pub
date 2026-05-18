@@ -21,7 +21,7 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: '1958 m. pasibaigus „atšilimui“, valdžia ribojo atlaidus Šiluvoje, paskelbdama neva „kiaulių marą“.'
+  teiginys: '1958 m. pasibaigus „atšilimui“, valdžia ribojo atlaidų lankymą Šiluvoje, miestelį blokuodama ir skelbdama neva „kiaulių marą“.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -29,7 +29,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1958 m. pasibaigus „atšilimui“, valdžia ribojo atlaidus Šiluvoje, paskelbdama neva „kiaulių marą“.'
+  santrauka: '1958 m. pasibaigus „atšilimui“, valdžia ribojo atlaidų lankymą Šiluvoje, miestelį blokuodama ir skelbdama neva „kiaulių marą“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1958 m. „atšilimas“ baigėsi, pradėta kovoti su religija moky-

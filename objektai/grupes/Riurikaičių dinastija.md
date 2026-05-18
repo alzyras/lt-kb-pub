@@ -20,7 +20,7 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
 
 ## Teiginiai
 - t-001
-  teiginys: 'Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių dinastijos kunigaikščiai buvo išstumti iš politinio gyvenimo.'
+  teiginys: 'Lietuvai užėmus Rusios žemes, ne visi Riurikaičių dinastijos kunigaikščiai buvo išstumti iš politinio gyvenimo.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -28,7 +28,7 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių dinastijos kunigaikščiai buvo išstumti iš politinio gyvenimo.'
+  santrauka: 'Lietuvai užėmus Rusios žemes, ne visi Riurikaičių dinastijos kunigaikščiai buvo išstumti iš politinio gyvenimo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Antra vertus, Lietuvai užėmus Rusios žemes, ne visi

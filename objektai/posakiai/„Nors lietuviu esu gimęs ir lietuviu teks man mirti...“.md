@@ -19,7 +19,7 @@ Nors Lietuva ir toliau bandė rašyti ir lotyniškai, ir net lietuviškai, lenk�
 
 ## Teiginiai
 - t-001
-  teiginys: 'Nors Lietuva ir toliau bandė rašyti ir lotyniškai, ir net lietuviškai, lenkėjimo procesas pamažu apėmė visą jos politinį ir kultūrinį elitą.'
+  teiginys: 'Lenkėjimo procesas pamažu apėmė visą Lietuvos politinį ir kultūrinį elitą.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -27,7 +27,7 @@ Nors Lietuva ir toliau bandė rašyti ir lotyniškai, ir net lietuviškai, lenk�
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Nors Lietuva ir toliau bandė rašyti ir lotyniškai, ir net lietuviškai, lenkėjimo procesas pamažu apėmė visą jos politinį ir kultūrinį elitą.'
+  santrauka: 'Lenkėjimo procesas pamažu apėmė visą Lietuvos politinį ir kultūrinį elitą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nors Lietuva ir toliau bandė rašyti ir lotyniškai, ir net lietuviškai,

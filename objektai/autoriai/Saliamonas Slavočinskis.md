@@ -37,14 +37,14 @@ Saliamono Slavočinskio „Giesmės“ datuojamos 1646 m. ir siejamos su lietuvi
 - Giesmės
 
 ## Teiginiai
-- t-003
+- t-005
   teiginys: 'Saliamono Slavočinskio „Giesmės“ datuojamos 1646 m.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-004
-  teiginys: 'Saliamono Slavočinskio „Giesmės“ rūpinosi lietuvių kalbos funkcionavimu kasdieniu Bažnyčios ir mokyklos lygmeniu.'
+- t-006
+  teiginys: 'Saliamono Slavočinskio „Giesmės“ rūpinosi lietuvių kalbos funkcionavimu kasdieniame Bažnyčios ir mokyklos lygmenyje.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -65,8 +65,8 @@ Saliamono Slavočinskio „Giesmės“ datuojamos 1646 m. ir siejamos su lietuvi
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
-    - t-004
+    - t-005
+    - t-006
 
 ## Ryšiai
 ### Laikotarpiai

@@ -33,28 +33,32 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose Lietuvos seimuose, ir galutinai jis buvo įkurtas 1581 m. Su mažais pakeitimais jis toks pat išliko iki pat nepriklausomybės pabaigos.'
+  teiginys: 'Vyriausiasis Lietuvos tribunolas buvo svarstytas keliuose Lietuvos seimuose ir galutinai įkurtas 1581 m.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: 'Tribunolo teisėjais buvo visų seimelių renkami bajorijos atstovai.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose Lietuvos seimuose, ir galutinai jis buvo įkurtas 1581 m. Su mažais pakeitimais jis toks pat išliko iki pat nepriklausomybės pabaigos.'
+  santrauka: 'Vyriausiasis Lietuvos tribunolas buvo svarstytas keliuose Lietuvos seimuose ir galutinai įkurtas 1581 m.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vyriausiojo Lietuvos tribunolo reikalas buvo
     svarstytas net keliuose atskiruose Lietuvos seimuose, ir galu-
     tinai jis buvo įkurtas 1581 m. Su mažais pakeitimais jis toks
     pat išliko iki pat nepriklausomybės pabaigos.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
@@ -72,11 +76,11 @@ Nenurodyta
     putatus. Taigi nuo to laiko jau buvo 49 tribunolo nariai. Tri-
     bunolo posėdžiaujamomis vietomis buvo paskirti šie miestai:
     Vilnius, Trakai, Naugardukas ir Minskas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

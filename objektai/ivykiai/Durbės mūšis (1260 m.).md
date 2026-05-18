@@ -63,101 +63,42 @@ Ordinas ruošė didelį žygį į Žemaičius ir į pagalbą pasikvietė Prūsų
 Žemaičiai laimėjo mūšį. Jame žuvo visa ordino vadovybė ir beveik visi broliai, o tai tapo sunkiu smūgiu Livonijos ordinui.
 
 ## Teiginiai
-- t-001
-  teiginys: 1260 m. Livonijos ordinas, remiamas Prūsų ordino ir svečių iš Europos, ruošė žygį į Žemaičius, bet žemaičiai pirmi smogė į Kuršą.
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: Prie Durbės ežero žemaičiai laimėjo mūšį prieš ordiną.
-  pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: Durbės mūšyje žuvo visa ordino vadovybė su Livonijos magistru ir Prūsų maršalka, o ordino pusėje atvesti kuršiai pasitraukė iš kovos.
-  pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-
-- t-004
+- t-007
   teiginys: 'Durbės mūšis kilo po didelio Ordino puolimo ir pajėgų telkimo Klaipėdoje.'
   pagrindžia:
     - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-005
+- t-008
   teiginys: 'Durbės mūšio priešistorėje Ordinas veržėsi gilyn į Lietuvą Nemunu ir pastatė Georgenburgo-Jurgio pilį.'
   pagrindžia:
-    - c-004
+    - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-006
+- t-009
   teiginys: 'Po Durbės mūšio Mindaugas atsimetė nuo krikščionybės ir susigrąžino atiduotas teritorijas.'
   pagrindžia:
-    - c-005
+    - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Parodo ordino pasirengimą žygiui ir žemaičių veiksmą Kurše prieš pat mūšį.
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Ordinas
-    ketino suruošti į Žemaičius didelį žygį ir išgriauti Karšuvą.
-    Livonijos ordinui atėjo į pagalbą Prūsų ordinas ir daug svečių
-    iš Europos. Bet visai priešo kariuomenei traukiant į Karšuvą,
-    žemaičiai nėjo jos ginti, o įsibrovė naikinti ordino valdomojo
-    Kuršo. Ordino kariuomenė nusiskubino gelbėti savo žemių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: Tiesiogiai aprašo žemaičių pergalę ir ordino vadovybės žūtį.
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Abiem kariuomenėm susitikus prie Durbės ežero, kovą lai-
-    mėjo žemaičiai. Reikia pastebėti, kad iš mūšio pasitraukė ordino
-    pavergtieji kuršiai, kurie čia buvo jų atvesti kartu su lybiais ir
-    latgaliais. Mūšyje žuvo visa ordino vadovybė su Livonijos ma-
-    gistru ir Prūsų maršalka ir beveik visi broliai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-    - t-003
-
-- c-003
-  santrauka: Durbės mūšis kilo po didelio Ordino puolimo ir pajėgų telkimo Klaipėdoje.
+  santrauka: 'Po Durbės mūšio Mindaugas atsimetė nuo krikščionybės ir susigrąžino atiduotas teritorijas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Iš Dobės (šiaurėje),
-    Klaipėdos (vakaruose) ir Georgenburgo
-    (pietuose) Ordinas bandė spausti vakari-
-    nes lietuvių žemes. Vokiečiai siekė išsau-
-    goti lietuvių blokuojamą Georgenburgą
-    (Jurbarką), būrė dideles pajėgas Klaipė-
-    doje, rengdamiesi dideliam puolimui, kuris
-    galiausiai baigėsi mūšiu prie Durbės.
-  citata_rodoma: ''
+    1259 m. atidavė visą Žemaitijos @ (beveik iki pat Šventosios upės) ir(3 Dainavos teritoriją. Po Durbės mūšio 1261 m.
+
+    atsimetė nuo krikščionybės ir susigrąžino atiduotas teritorijas bei atnaujino kovos veiksmus prieš vokiečius
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
-- c-004
-  santrauka: Durbės mūšio priešistorėje Ordinas veržėsi gilyn į Lietuvą Nemunu ir pastatė Georgenburgo-Jurgio pilį.
+    - t-009
+- c-002
+  santrauka: 'Durbės mūšio priešistorėje Ordinas veržėsi gilyn į Lietuvą Nemunu ir pastatė Georgenburgo-Jurgio pilį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Šia situacija pasinaudojo Livonijos ir
@@ -167,27 +108,32 @@ Ordinas ruošė didelį žygį į Žemaičius ir į pagalbą pasikvietė Prūsų
     go-Jurgio pilį (greičiausiai ji įkurta
     Nemuno dešiniajame krante, Jurbarko
     Bišpiliukų piliavietėje).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
-- c-005
-  santrauka: Po Durbės mūšio Mindaugas atsimetė nuo krikščionybės ir susigrąžino atiduotas teritorijas.
+    - t-008
+- c-003
+  santrauka: 'Durbės mūšis kilo po didelio Ordino puolimo ir pajėgų telkimo Klaipėdoje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    1259 m. atidavė visą Žemaitijos @ (beveik iki pat Šventosios upės) ir(3 Dainavos teritoriją. Po Durbės mūšio 1261 m.
-
-    atsimetė nuo krikščionybės ir susigrąžino atiduotas teritorijas bei atnaujino kovos veiksmus prieš vokiečius
-  citata_rodoma: ''
+    tarp šių dviejų pilių. Iš Dobės (šiaurėje),
+    Klaipėdos (vakaruose) ir Georgenburgo
+    (pietuose) Ordinas bandė spausti vakari-
+    nes lietuvių žemes. Vokiečiai siekė išsau-
+    goti lietuvių blokuojamą Georgenburgą
+    (Jurbarką), būrė dideles pajėgas Klaipė-
+    doje, rengdamiesi dideliam puolimui, kuris
+    galiausiai baigėsi mūšiu prie Durbės.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-006
+    - t-007
 
 ## Ryšiai
 ### Laikotarpiai

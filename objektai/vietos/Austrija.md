@@ -21,24 +21,26 @@ Prie jų dar prisidėjo Austrijos Juozapas II. Čartoriskius, darančius reforma
 
 ## Teiginiai
 - t-001
-  teiginys: 'Prie jų dar prisidėjo Austrijos Juozapas II.'
+  teiginys: 'Austrijos Juozapas II darė reformas, net Bažnyčią pajungdamas valstybės valdžiai.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Prie jų dar prisidėjo Austrijos Juozapas II.'
+  santrauka: 'Austrijos Juozapas II darė reformas, net Bažnyčią pajungdamas valstybės valdžiai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Prie jų dar prisidėjo Austrijos Juozapas II. Susižavėjęs švie-
     čiamąja literatūra, jis darė reformas, viską, net Bažnyčią, pajungda-
     mas valstybės valdžiai (jozefinizmas). Dėl šitų reiškinių visas perio-
     das vadinamas šviesiojo absoliutizmo laikotarpiu.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

@@ -18,13 +18,15 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Ši konfederacija lietė tiktai Lenkiją.'
+  teiginys: 'Lietuvos konfederacija Vilniuje pasiskelbė prisidedanti prie Targovicos konfederacijos.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Ši konfederacija lietė tiktai Lenkiją.'
+  santrauka: 'Lietuvos konfederacija Vilniuje pasiskelbė prisidedanti prie Targovicos konfederacijos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ši konfederacija lie-
@@ -35,11 +37,11 @@ tags:
     deracija, kuri pasiskelbė
     prisidedanti prie Tar-
     govicos konfederacijos.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

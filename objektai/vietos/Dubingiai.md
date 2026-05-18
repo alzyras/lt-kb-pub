@@ -21,6 +21,8 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
   teiginys: 'Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -28,10 +30,10 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

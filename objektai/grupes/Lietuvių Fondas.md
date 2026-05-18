@@ -17,14 +17,14 @@ tags:
 Lietuvių Fondas šiame leidinyje rodomas kaip finansinis jo leidimo rėmėjas, o Fondo valdybos pirmininkai minimi kaip prisiėmę finansinę naštą autoriui įgyvendinant leidinio sumanymą.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Lietuvių Fondas prisidėjo prie leidinio spaudos išlaidų apmokėjimo.'
+- t-003
+  teiginys: 'Lietuvių Fondo lėšomis buvo apmokėta dalis leidinio spaustuvės išlaidų.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Lietuvių Fondo valdybos pirmininkai prisiėmė finansinę naštą, leidusią autoriui išleisti Lietuvos istoriją gimtąja kalba.'
+- t-004
+  teiginys: 'Lietuvių Fondo valdybos pirmininkai prisiėmė finansinę naštą, leidusią autoriui išleisti Lietuvos istoriją lietuvių kalba.'
   pagrindžia:
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -32,20 +32,20 @@ Lietuvių Fondas šiame leidinyje rodomas kaip finansinis jo leidimo rėmėjas, 
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Fondas įvardytas kaip vienas leidinio finansuotojų.
+  santrauka: 'Lietuvių Fondo lėšomis buvo apmokėta dalis leidinio spaustuvės išlaidų.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Spaustuvės išlaidos apmokėtos
     Lietuvių Fondo ir L. K. Mokslo Akademijos lėšomis
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: Fondo valdybos pirmininkai minimi kaip leidinio finansinės naštos prisiėmėjai.
+  santrauka: 'Lietuvių Fondo valdybos pirmininkai prisiėmė finansinę naštą, leidusią autoriui išleisti Lietuvos istoriją lietuvių kalba.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Baigdamas nuoširdžiai dėkoju Lietuvių Fondo Valdybos pir­
@@ -55,16 +55,10 @@ Lietuvių Fondas šiame leidinyje rodomas kaip finansinis jo leidimo rėmėjas, 
     kalba Lietuvos istoriją, kaip aš ją iš savo ilgamečių kitų tyrinėji­
     mų studijų, atitinkamų šaltinių ir dėstymo aukštosiose mokyklose
     esu apčiuopęs.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-    - t-002
-    - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuvių Katalikų Mokslo Akademija]]
+    - t-004

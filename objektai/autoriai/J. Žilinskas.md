@@ -18,23 +18,25 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Žilinskas, kuris redagavo ir Susivienijimo organą „Tėvynę" (1896—1902 m.).'
+  teiginys: 'J. Žilinskas 1893 m. perėmė Susivienijimo vadovybę ir 1896–1902 m. redagavo jo organą „Tėvynę“.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Žilinskas, kuris redagavo ir Susivienijimo organą „Tėvynę" (1896—1902 m.).'
+  santrauka: 'J. Žilinskas 1893 m. perėmė Susivienijimo vadovybę ir 1896–1902 m. redagavo jo organą „Tėvynę“.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kun.
     Burbai pasitraukus (1893 m.), jo vadovybę perėmė kun. J. Ži-
     linskas, kuris redagavo ir Susivienijimo organą „Tėvynę"
     (1896—1902 m.).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

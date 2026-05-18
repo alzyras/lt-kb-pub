@@ -34,22 +34,24 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kaip paprastai, lenkai į elekciją susirinko visi (viritim), o lietuviai atsiuntė tik atstovus.'
+  teiginys: 'Per elekcijas lenkai paprastai susirinkdavo visi viritim, o lietuviai atsiųsdavo tik atstovus.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kaip paprastai, lenkai į elekciją susirinko visi (viritim), o lietuviai atsiuntė tik atstovus.'
+  santrauka: 'Per elekcijas lenkai paprastai susirinkdavo visi viritim, o lietuviai atsiųsdavo tik atstovus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kaip
     paprastai, lenkai į elekciją susirinko visi _(viritim),_ o lietuviai
     atsiuntė tik atstovus.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

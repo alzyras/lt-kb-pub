@@ -53,7 +53,7 @@ Minimos grąžintinų žydų kultūros vertybių kontekste.
 Nenurodyta
 
 ## Teiginiai
-- t-002
+- t-003
   teiginys: 'Lietuva siekė grąžinti žydams išblaškytas kultūros vertybes, tarp jų išsaugotas 300 Torų.'
   pagrindžia:
     - c-001
@@ -78,7 +78,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-003
 
 ## Šaltiniai ir įrodymai
 

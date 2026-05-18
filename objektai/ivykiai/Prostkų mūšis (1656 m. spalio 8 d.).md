@@ -49,25 +49,25 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-005
   teiginys: '1656 m. spalio 8 d. ties Prostkais Lietuvos pajėgos pasitiko besitraukiančias Švedijos ir Brandenburgo pajėgas.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-002
+- t-006
   teiginys: 'Lietuviai apgaulingu atsitraukimo manevru išviliojo brandenburgiečius persikelti į kitą krantą, o priešo įsikišimas buvo sutrukdytas.'
   pagrindžia:
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-003
+- t-007
   teiginys: 'Pagrindinės V. Gosievskio pajėgos užpuolė ir sumušė priešo pajėgas, o Boguslavas Radvila pateko į nelaisvę.'
   pagrindžia:
     - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-004
+- t-008
   teiginys: 'Prostkų mūšyje priešo nuostoliai buvo apie 5500 karių.'
   pagrindžia:
     - c-004
@@ -76,7 +76,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 1656 m. spalio 8 d. ties Prostkais Lietuvos pajėgos pasitiko besitraukiančias Švedijos ir Brandenburgo pajėgas.
+  santrauka: '1656 m. spalio 8 d. ties Prostkais Lietuvos pajėgos pasitiko besitraukiančias Švedijos ir Brandenburgo pajėgas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Švedijos ir jos sąjungininko Branden-
@@ -95,17 +95,18 @@ Nenurodyta
     Radvilos raitelių, 1000 pėstininkų ir 2000
     Walenrodto vedamų pėstininkų. Iš viso
     apie 7000 karių.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-005
 - c-002
-  santrauka: Lietuviai apgaulingu atsitraukimo manevru išviliojo brandenburgiečius persikelti į kitą krantą, o priešo įsikišimas buvo sutrukdytas.
+  santrauka: 'Lietuviai apgaulingu atsitraukimo manevru išviliojo brandenburgiečius persikelti į kitą krantą, o priešo įsikišimas buvo sutrukdytas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
+    Mūšis
     Spalio 8 d. kariuomenės suartėjo ties
     Prostkais skiriamos Elko upės. Lietuviai
 
@@ -117,18 +118,21 @@ Nenurodyta
     kad šiauriau Prostkų per upę keliasi toto-
     riai. Juos sulaikyti jis pasiuntė B. Radvilos
     kavaleriją. Taip pat jis įsakė generolo Wa-
-    lenrodto brandenburgiečiams keltis atgal
-  citata_rodoma: ''
+    lenrodto brandenburgiečiams keltis atgal,
+    tačiau staiga pasirodžiusios pagrindi-
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-006
 - c-003
-  santrauka: Pagrindinės V. Gosievskio pajėgos užpuolė ir sumušė priešo pajėgas, o Boguslavas Radvila pateko į nelaisvę.
+  santrauka: 'Pagrindinės V. Gosievskio pajėgos užpuolė ir sumušė priešo pajėgas, o Boguslavas Radvila pateko į nelaisvę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
+    Taip pat jis įsakė generolo Wa-
+    lenrodto brandenburgiečiams keltis atgal,
     tačiau staiga pasirodžiusios pagrindi-
 
     nės V. Gosievskio pajėgos juos užpuolė
@@ -140,28 +144,28 @@ Nenurodyta
     nelaisvę. Netrukus pagrindinės lietuvių pa-
     jėgos smogė priešo pajėgų likučiams, pats
     gen. G. Valdekas vos suspėjo išsigelbėti.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-007
 - c-004
-  santrauka: Prostkų mūšyje priešo nuostoliai buvo apie 5500 karių.
+  santrauka: 'Prostkų mūšyje priešo nuostoliai buvo apie 5500 karių.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     V. Gosievskio pajėgos neteko apie 200-
     250 nukautų ir sužeistų karių, priešo karių
     krito apie 5500. Priešų pusėje kovojęs
     B. Radvila pateko į nelaisvę.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-008
 
 ## Ryšiai
 ### Laikotarpiai

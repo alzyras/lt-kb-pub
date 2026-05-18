@@ -41,7 +41,7 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Sugautus priešo vyresniuosius lietuviai aukodavo dievams gyvus sudegindami.'
   pagrindžia:
     - c-001
@@ -50,7 +50,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Sugautus priešo vyresniuosius lietuviai aukodavo dievams gyvus sudegindami.
+  santrauka: 'Sugautus priešo vyresniuosius lietuviai aukodavo dievams gyvus sudegindami.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Tarp paimtųjų neprietelių karėje didžiuosius jų vyresniuosius gyvus dievams savo aukavo tokiu
@@ -58,8 +58,10 @@ Nenurodyta
     šarvuotą, kaip buvo kariavęs, pasodino ant jo su visais jo ginklais, paskui, sukrovę malkinę po apačia,
     sudegino. Jei buvo keletą vyresniųjų sugavę, tad lėmė, kurs būt vertesnis dievams aukauti, tą, kurį
     nulėmė, taip pat sudegino, kaip jei pirmąjį.
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

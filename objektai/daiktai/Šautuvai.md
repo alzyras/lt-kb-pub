@@ -33,26 +33,7 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Apsiginklavę daugiausia medžiokliniais šautuvais, dalgiais ir kitais menkais ginklais, sukilėliai rinkosi giriose.'
-  pagrindžia:
-    - c-001
+Nenurodyta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Apsiginklavę daugiausia medžiokliniais šautuvais, dalgiais ir kitais menkais ginklais, sukilėliai rinkosi giriose.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Apsiginklavę daugiausia medžiokliniais šautuvais, dalgiais
-      ir kitais menkais ginklais, sukilėliai rinkosi giriose.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Dalgiai]]
+Nenurodyta

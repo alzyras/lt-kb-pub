@@ -19,21 +19,23 @@ Bet po keleto dienų, padėjęs ginklus, į Prūsiją perėjo ir Rohlando būrys
 
 ## Teiginiai
 - t-001
-  teiginys: 'Bet po keleto dienų, padėjęs ginklus, į Prūsiją perėjo ir Rohlando būrys.'
+  teiginys: 'Rohlando būrys po kelių dienų padėjo ginklus ir perėjo į Prūsiją.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Bet po keleto dienų, padėjęs ginklus, į Prūsiją perėjo ir Rohlando būrys.'
+  santrauka: 'Rohlando būrys po kelių dienų padėjo ginklus ir perėjo į Prūsiją.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet po keleto dienų, padėjęs ginklus, į Prūsiją perėjo ir Roh-
     lando būrys.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

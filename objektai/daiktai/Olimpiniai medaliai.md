@@ -54,19 +54,19 @@ Sporto laimėjimų materialūs ženklai.
 Nenurodyta
 
 ## Teiginiai
-- t-004
+- t-007
   teiginys: 'Barselonos olimpinėse žaidynėse buvo iškovotas pirmasis aukso medalis nepriklausomai Lietuvai.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-005
+- t-008
   teiginys: 'Lietuvos vyrų krepšinio rinktinė 1992, 1996 ir 2000 m. olimpinėse žaidynėse iškovojo bronzos medalius.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-006
+- t-009
   teiginys: 'Tarptautinis olimpinis komitetas 1991 m. rugpjūtį atkūrė Lietuvos tautinio olimpinio komiteto tarptautines teises ir Lietuvos sportininkai dalyvavo tarptautinėse įvairių šakų sporto varžybose už savo šalį.'
   pagrindžia:
     - c-001
@@ -88,7 +88,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-006
+    - t-009
 - c-002
   santrauka: 'Barselonos olimpinėse žaidynėse buvo iškovotas pirmasis aukso medalis nepriklausomai Lietuvai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -103,8 +103,8 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
-    - t-005
+    - t-007
+    - t-008
 
 ## Ryšiai
 ### Teminiai klasteriai

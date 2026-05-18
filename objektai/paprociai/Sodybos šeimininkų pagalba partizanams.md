@@ -41,19 +41,19 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-004
   teiginys: 'Sodybų šeimininkai aprūpindavo partizanus maistu ir kitomis būtinomis priemonėmis.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-002
+- t-005
   teiginys: 'Šeimininkai stebėdavo aplinką ir perspėdavo partizanus apie pavojų.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-003
+- t-006
   teiginys: 'Demaskuotos slėptuvės šeimininkams keldavo represijų, tremties ir sodybos sunaikinimo grėsmę.'
   pagrindžia:
     - c-001
@@ -62,10 +62,13 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Sodybų šeimininkai aprūpindavo partizanus maistu ir kitomis būtinomis priemonėmis.
+  santrauka: 'Sodybų šeimininkai aprūpindavo partizanus maistu ir kitomis būtinomis priemonėmis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Sodybos šeimininkai aprūpindavo
+    Okupacijos pradžioje laisvės kovotojai laikydavosi miško stovyklose ar apsistodavo pas
+    ūkininkus. Okupacinėms pajėgoms pradėjus dominuoti vietovėje, žaliukams teko įsirengti
+    gerai užmaskuotas slėptuves. Slėptuvę būdavo patogu įsirengti pas žmones sodyboje - po
+    krosnimi, tarp dviejų pastato sienų, šuliniuose ir pan. Sodybos šeimininkai aprūpindavo
     partizanus maistu ir kitomis būtinomis priemonėmis, jie stebėdavo aplinką ir pranešdavo
     partizanams apie pavojų, tačiau slėptuvę demaskavus nukentėdavo ne tik partizanai, bet
     ir šeimininkai, sodyba šturmo metu, ar po jo, dažnai būdavo sudeginama, šeimininkai,
@@ -76,6 +79,10 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
-    - t-003
+    - t-004
+    - t-005
+    - t-006
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/paprociai/Partizanų slėptuvių sodybose ir bunkerių įrengimas miškuose]]

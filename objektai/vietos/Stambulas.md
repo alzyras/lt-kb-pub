@@ -19,7 +19,7 @@ sandūros Vilnių priskiria pirmam žydų pasaulinių kultūros centrų dešimtu
 
 ## Teiginiai
 - t-001
-  teiginys: 'XVIII–XIX a. sandūroje Stambulas priskiriamas pirmam žydų pasaulinių kultūros centrų dešimtukui.'
+  teiginys: 'XVIII–XIX a. sandūros Stambulas minimas tarp svarbiausių žydų pasaulinių kultūros centrų.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -27,7 +27,7 @@ sandūros Vilnių priskiria pirmam žydų pasaulinių kultūros centrų dešimtu
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'XVIII–XIX a. sandūroje Stambulas priskiriamas pirmam žydų pasaulinių kultūros centrų dešimtukui.'
+  santrauka: 'XVIII–XIX a. sandūros Stambulas minimas tarp svarbiausių žydų pasaulinių kultūros centrų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šiandien mokslas XVIII–XIX a. sandūros Vilnių priskiria pirmam

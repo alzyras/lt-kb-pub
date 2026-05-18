@@ -19,13 +19,15 @@ Ukmergėje, Zarasuose, Kėdainiuose ir Jurbarke buvo pastatytos naujos cerkvės,
 
 ## Teiginiai
 - t-001
-  teiginys: 'Ukmergėje, Zarasuose, Kėdainiuose ir Jurbarke buvo pastatytos naujos cerkvės, o Pažaislio vienuolyne apsigyveno pravoslavų vyskupas — archieriejus.'
+  teiginys: 'Zarasuose buvo pastatyta viena iš naujų cerkvių.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Ukmergėje, Zarasuose, Kėdainiuose ir Jurbarke buvo pastatytos naujos cerkvės, o Pažaislio vienuolyne apsigyveno pravoslavų vyskupas — archieriejus.'
+  santrauka: 'Zarasuose buvo pastatyta viena iš naujų cerkvių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kauno buvusi jėzuitų bažnyčia, Panevėžio ir Raseinių
@@ -33,11 +35,11 @@ Ukmergėje, Zarasuose, Kėdainiuose ir Jurbarke buvo pastatytos naujos cerkvės,
     rasuose, Kėdainiuose ir Jurbarke buvo pastatytos naujos cerk-
     vės, o Pažaislio vienuolyne apsigyveno pravoslavų vyskupas
     — archieriejus.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

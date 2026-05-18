@@ -44,14 +44,14 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: '1219 m. grupė Lietuvos kunigų sudarė sutartį su Volinijos kunigaikščio Romano našle.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Ipatijaus metraštis prie 1219 m. sutarties mini 21 Lietuvos kunigaikščio vardą, tarp jų Živinbudą, Daujotą, Dausprungą ir Mindaugą.'
+- t-004
+  teiginys: 'Tarp vyresniųjų Lietuvos kunigų buvo minimi Živinbudas, Daujotas, Dausprungas ir jo brolis Mindaugas.'
   pagrindžia:
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -67,28 +67,28 @@ Nenurodyta
     keliasdešimt kunigų vardu. Pvz., kai visa grupė Lietuvos kunigų
     1219 m. darė sutartį su Volinijos kunigaikščio Romano našle, Ipa­
     tijaus metraštyje buvo paminėtas 21 jų vardas (PSRL, II, 735).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: '1219 m. grupė Lietuvos kunigų sudarė sutartį su Volinijos kunigaikščio Romano našle.'
+  santrauka: 'Tarp vyresniųjų Lietuvos kunigų buvo minimi Živinbudas, Daujotas, Dausprungas ir jo brolis Mindaugas.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Šalia eilės vyresniųjų (« starešej ») Lietuvos kunigų, kurių tarpe, be
     kitko, yra minimas Živinbudas, Daujotas, Dausprungas ir šio brolis
     Mindaugas, yra išskaičiuoti keturi vėliau niekur nebesutinkami
     Deltuvos kunigai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004
 
 ## Ryšiai
 ### Laikotarpiai

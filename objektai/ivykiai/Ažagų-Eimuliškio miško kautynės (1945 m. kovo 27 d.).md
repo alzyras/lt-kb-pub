@@ -50,25 +50,25 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-005
   teiginys: '1945 m. kovo pradžioje NKVD divizija pradėjo puolimą prieš Pušaloto, Pasvalio ir Žaliosios girios partizanus.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-002
+- t-006
   teiginys: 'Puolimas buvo vykdomas iš vakarų į rytus, siekiant atkirsti partizanų trauktis kelius, o kovo 27 d. mūšis prasidėjo 7 val. ryto.'
   pagrindžia:
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-003
+- t-007
   teiginys: 'Į kautynes įsitraukė Žaliosios rinktinės Aušros būrys, o partizanai dienos pabaigoje prasiveržė Pakruojo link.'
   pagrindžia:
     - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-004
+- t-008
   teiginys: 'Mūšyje žuvo apie 76-80 partizanų.'
   pagrindžia:
     - c-004
@@ -77,37 +77,41 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 1945 m. kovo pradžioje NKVD divizija pradėjo puolimą prieš Pušaloto, Pasvalio ir Žaliosios girios partizanus.
+  santrauka: '1945 m. kovo pradžioje NKVD divizija pradėjo puolimą prieš Pušaloto, Pasvalio ir Žaliosios girios partizanus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
+    Mūšis
     1945 m. kovo pradžioje NKVD divizija puolė
     Pušaloto, Pasvalio, Žaliosios girios parti-
     zanus Panevėžio apskrityje. Persekiojami
     partizanai pasitraukė į Ažagų-Eimuliškio
-    miškus.
-  citata_rodoma: ''
+    miškus. Puolimas pradėtas iš vakarų į rytus,
+    siekiant atkirsti kelius partizanams trauktis.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-005
 - c-002
-  santrauka: Puolimas buvo vykdomas iš vakarų į rytus, siekiant atkirsti partizanų trauktis kelius, o kovo 27 d. mūšis prasidėjo 7 val. ryto.
+  santrauka: 'Puolimas buvo vykdomas iš vakarų į rytus, siekiant atkirsti partizanų trauktis kelius, o kovo 27 d. mūšis prasidėjo 7 val. ryto.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Puolimas pradėtas iš vakarų į rytus,
+    Persekiojami
+    partizanai pasitraukė į Ažagų-Eimuliškio
+    miškus. Puolimas pradėtas iš vakarų į rytus,
     siekiant atkirsti kelius partizanams trauktis.
     Kovo 27 d. mūšis prasidėjo 7 val. ryto.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-006
 - c-003
-  santrauka: Į kautynes įsitraukė Žaliosios rinktinės Aušros būrys, o partizanai dienos pabaigoje prasiveržė Pakruojo link.
+  santrauka: 'Į kautynes įsitraukė Žaliosios rinktinės Aušros būrys, o partizanai dienos pabaigoje prasiveržė Pakruojo link.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Pirmiausia buvo pulta viena vietinių vyrų,
@@ -120,28 +124,33 @@ Nenurodyta
     vyko atkaklios kautynės. Dienos pabaigoje,
     pasinaudoję tamsa dalis partizanų Jokubavo
     mišku sugebėjo prasiveržti Pakruojo link.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-007
 - c-004
-  santrauka: Mūšyje žuvo apie 76-80 partizanų.
+  santrauka: 'Mūšyje žuvo apie 76-80 partizanų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
+    Tai vienoje, tai kitoje miško vietoje
+    vyko atkaklios kautynės. Dienos pabaigoje,
+    pasinaudoję tamsa dalis partizanų Jokubavo
+    mišku sugebėjo prasiveržti Pakruojo link.
+    Mūšio padariniai
     Žuvo apie 76-80 partizanų (pagal okupan-
     tus 120-121, paimta į nelaisvę 18-19, iš kurių
     5 sužeisti; tačiau tokio skaičiaus nepatvir-
     tina paimti ginklai).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-008
 
 ## Ryšiai
 ### Laikotarpiai

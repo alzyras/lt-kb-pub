@@ -20,46 +20,52 @@ Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalika
 
 ## Teiginiai
 - t-001
-  teiginys: 'Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais.'
+  teiginys: 'Beveik visos didžiųjų ponų šeimos buvo tapusios protestantais.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Katalikams pačios pavojingosios buvo protestantų mokyklos.'
+  teiginys: 'Protestantų mokyklos katalikams buvo laikomos pavojingiausiomis.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-003
   teiginys: 'Tik 1660 m. Lietuvos protestantų rūpesčiu Anglijoje buvo išspausdinta didelė dalis lietuviškai išverstos Biblijos.'
   pagrindžia:
     - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais.'
+  santrauka: 'Beveik visos didžiųjų ponų šeimos buvo tapusios protestantais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Beveik visos didžiųjų ponų šeimos buvo išvir-
     tusios protestantais. Bet jau to pat amžiaus gale atvykusių jėzuitų
     pastangomis katalikybė ėmė atsigauti, ir daugelis didžiųjų
     ponų šeimų sugrįžo atgal į katalikybę (žiūr. 253, 290 psl.).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Katalikams pačios pavojingosios buvo protestantų mokyklos.'
+  santrauka: 'Protestantų mokyklos katalikams buvo laikomos pavojingiausiomis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Katalikams pačios pavojingosios buvo protestantų
     mokyklos. Jos buvo steigiamos protestantų didikų, o kai kur
     ir miestiečių.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 - c-003
@@ -69,11 +75,11 @@ Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalika
     Tik 1660 m. Lietuvos protestantų rūpesčiu Angli-
     joje buvo išspausdinta didelė dalis lietuviškai išverstos Bibli-
     jos.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
 

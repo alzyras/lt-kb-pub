@@ -33,17 +33,21 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Pirmojo Vytauto žygio metu jo pusėje jau buvo ne vien kryžiuočių kariuomenė, bet ir keletas tūkstančių žemaičių.'
+  teiginys: 'Pirmojo Vytauto žygio metu jo pusėje buvo kryžiuočių kariuomenė ir keli tūkstančiai žemaičių.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Tik kai dėl visko buvo susitarta, Vytautas su susirinkusiais pas jį lietuviais išėjo iš savo pilies ir, dėdamasis einąs prieš Jogailą, staiga sudegino Jurbarką, savo rezidencijos pilį — N.'
+  teiginys: 'Susitaręs su Jogaila, Vytautas sudegino Jurbarką, Naująjį Marijenburgą ir Naująjį Bajerburgą.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Pirmojo Vytauto žygio metu jo pusėje jau buvo ne vien kryžiuočių kariuomenė, bet ir keletas tūkstančių žemaičių.'
+  santrauka: 'Pirmojo Vytauto žygio metu jo pusėje buvo kryžiuočių kariuomenė ir keli tūkstančiai žemaičių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pirmojo Vy-
@@ -54,15 +58,15 @@ Nenurodyta
     tautui taikintis. Vytautas sutiko taikintis ir pripažinti Jogailą di-
     džiuoju kunigaikščiu, jei jam bus grąžinta tėviškė, t. y. Trakai ir
     visos Kęstučio valdytosios žemės.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Tik kai dėl visko buvo susitarta, Vytautas su susirinkusiais pas jį lietuviais išėjo iš savo pilies ir, dėdamasis einąs prieš Jogailą, staiga sudegino Jurbarką, savo rezidencijos pilį — N.'
+  santrauka: 'Susitaręs su Jogaila, Vytautas sudegino Jurbarką, Naująjį Marijenburgą ir Naująjį Bajerburgą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Visos šitos derybos ėjo be ordino žinios. Tik kai dėl visko
@@ -73,10 +77,10 @@ Nenurodyta
     ordino pilys suskubo apsisaugoti. Vytautas, susijungęs su Jo-
     gaila, jau bendromis jėgomis sudegino N. Marijeriverderį (ties
     Kaunu). Ordinas dėl to, žinoma, netvėrė apmaudu.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

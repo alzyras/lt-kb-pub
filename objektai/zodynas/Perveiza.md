@@ -21,13 +21,13 @@ Pagrindinė forma: `perveiza`.
 Vartojamos formos: `perveizėjo`, `perveizos`.
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: '`Perveiza` šiame tekste reiškia karių ir jų ginklų bei arklių peržiūrą.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Terminas siejamas su metine karine tvarka ir išbraukimu iš reistro.'
   pagrindžia:
     - c-001
@@ -36,7 +36,7 @@ Vartojamos formos: `perveizėjo`, `perveizos`.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Perveiza` šiame tekste reiškia karių ir jų ginklų bei arklių peržiūrą
+  santrauka: '`Perveiza` šiame tekste reiškia karių ir jų ginklų bei arklių peržiūrą.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Kiekvienos pavietės buvo karūžasis, kurs turėjo visus žemlionis, arba vyčius, surašytus ir kas metą,
@@ -50,8 +50,8 @@ Vartojamos formos: `perveizėjo`, `perveizos`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
 
 ## Pastabos
 

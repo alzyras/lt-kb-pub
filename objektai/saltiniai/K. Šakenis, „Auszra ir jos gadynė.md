@@ -18,20 +18,24 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Šakenis, „Auszra" ir jos gadynė (1933);.'
+  teiginys: 'K. Šakenio veikalas „Auszra ir jos gadynė“ išleistas 1933 m.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Šakenis, „Auszra" ir jos gadynė (1933);.'
+  santrauka: 'K. Šakenio veikalas „Auszra ir jos gadynė“ išleistas 1933 m.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     _K. Šakenis,_ „Auszra" ir jos gadynė (1933);
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

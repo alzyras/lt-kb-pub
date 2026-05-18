@@ -1,6 +1,6 @@
 ---
 tipas: 'asmuo'
-pavadinimas: 'Jogaila'
+pavadinimas: 'Jogaila (Lenkijos karalius)'
 sukurta: '2026-04-24'
 variantai:
   - 'Jogailos'
@@ -11,6 +11,7 @@ variantai:
   - 'karalius Vladislovas'
 aliases:
   - 'Jogaila (Lenkijos karalius, 1382 m.)'
+  - 'Jogaila'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
@@ -61,7 +62,7 @@ tags:
   - asmuo
   - sutartis
 ---
-# Jogaila
+# Jogaila (Lenkijos karalius)
 ## Santrauka
 
 Jogaila šiame šaltinyje rodomas kaip Lietuvos valdovas, tapęs Lenkijos karaliumi ir nulėmęs naują Lietuvos santykių su Lenkija etapą. Jis siejamas su 1382 m. sutartimi su kryžiuočiais, Krėvos aktu, krikštu Krokuvoje, Vilniaus vyskupystės įkūrimu ir susitarimais dėl Vytauto valdžios. Papildomai pabrėžiami jo valdžios perėmimas po Algirdo mirties, 1380 m. paliaubos su Livonija, Ostrovo susitaikymas su Vytautu, vaidmuo 1387 m. krikšto pradžioje ir liudijimas apie jo neraštingumą.
@@ -231,7 +232,7 @@ Jogaila šiame šaltinyje rodomas kaip Lietuvos valdovas, tapęs Lenkijos karali
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-027
-  teiginys: 'Jogaila su šio dokumento turiniu sutiko, jis buvo priimtas ir į istoriją įėjo Krėvos sutarties vardu.'
+  teiginys: '1385 m. Jogaila sutiko su dokumentu, kuris buvo priimtas ir į istoriją įėjo Krėvos sutarties vardu.'
   pagrindžia:
     - c-033
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -791,7 +792,7 @@ Jogaila šiame šaltinyje rodomas kaip Lietuvos valdovas, tapęs Lenkijos karali
   pagrindžia:
     - t-026
 - c-033
-  santrauka: 'Jogaila su šio dokumento turiniu sutiko, jis buvo priimtas ir į istoriją įėjo Krėvos sutarties vardu.'
+  santrauka: '1385 m. Jogaila sutiko su dokumentu, kuris buvo priimtas ir į istoriją įėjo Krėvos sutarties vardu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1385 m. rugpjūčio 14 d. į Krėvos pilį atvyko lenkų delegacija. Lenkai,

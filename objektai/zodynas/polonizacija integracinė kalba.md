@@ -27,13 +27,13 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Lenkų kalba buvo įteisinta Lietuvos bajorų reikalavimu kaip visuomenės pasirinkimas, o ne polonizacija.'
+  teiginys: 'Seime lenkų kalba Lietuvos bajorų reikalavimu įteisinta kaip oficiali raštinių kalba vietoje anksčiau vartotos rusėnų raštų kalbos.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: '„Bolševizaciją“ papildė kaltinimai polonizacija, mat vykdydama rinkiminius pažadus vyriausybė lenkams leido steigti 70 lenkiškų mokyklų, o tai, esant įtemptiems Lietuvos ir Lenkijos santykiams, įvertinta kaip pavojus visai tautai.'
+  teiginys: 'Vyriausybei leidus steigti 70 lenkiškų mokyklų, kaltinimai polonizacija buvo siejami su pavojumi tautai dėl įtemptų Lietuvos ir Lenkijos santykių.'
   pagrindžia:
     - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -56,7 +56,7 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Lenkų kalba buvo įteisinta Lietuvos bajorų reikalavimu kaip visuomenės pasirinkimas, o ne polonizacija.'
+  santrauka: 'Seime lenkų kalba Lietuvos bajorų reikalavimu įteisinta kaip oficiali raštinių kalba vietoje anksčiau vartotos rusėnų raštų kalbos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Seime jai suteikiamas oficialios raštinių kalbos
@@ -71,7 +71,7 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
   pagrindžia:
     - t-002
 - c-003
-  santrauka: '„Bolševizaciją“ papildė kaltinimai polonizacija, mat vykdydama rinkiminius pažadus vyriausybė lenkams leido steigti 70 lenkiškų mokyklų, o tai, esant įtemptiems Lietuvos ir Lenkijos santykiams, įvertinta kaip pavojus visai tautai.'
+  santrauka: 'Vyriausybei leidus steigti 70 lenkiškų mokyklų, kaltinimai polonizacija buvo siejami su pavojumi tautai dėl įtemptų Lietuvos ir Lenkijos santykių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     „Bolševizaciją“ papildė kaltinimai polonizaci-

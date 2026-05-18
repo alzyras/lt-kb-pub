@@ -20,23 +20,35 @@ Pagrindinė forma: `vėlė`.
 Vartojamos formos: `vėlės`.
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: '`Vėlė` šiame tekste reiškia mirusio žmogaus sielą.'
   pagrindžia:
-    - c-001
     - c-002
+    - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Vėlės siejamos su išganymo prašymu ir naktiniu pasirodymu.'
   pagrindžia:
-    - c-001
+    - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Vėlė` šiame tekste reiškia mirusio žmogaus sielą
+  santrauka: '`Vėlė` šiame tekste reiškia mirusio žmogaus sielą.'
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    (^686) siela, vėlė
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
+- c-002
+  santrauka: '`Vėlė` šiame tekste reiškia mirusio žmogaus sielą.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Pagal jų nuomonę dorieji žmonės lig palaidojus stačiai ėję į dangų, bet nedorieji, kurie piktai
@@ -52,20 +64,8 @@ Vartojamos formos: `vėlės`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
-- c-002
-  santrauka: `Vėlė` šiame tekste reiškia mirusio žmogaus sielą
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    (^686) siela, vėlė
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
+    - t-003
+    - t-004
 
 ## Pastabos
 

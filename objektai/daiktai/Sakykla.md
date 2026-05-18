@@ -32,24 +32,7 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Pamokslai buvo sakomi per vertėjus: kunigas sakydavo vokiškai, o kaimo seniūnas ar kitas kuris valstietis iš greta stovinčios sakyklos jo kalbą atpasakodavo lietuviškai.'
-  pagrindžia:
-    - c-001
+Nenurodyta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Pamokslai buvo sakomi per vertėjus: kunigas sakydavo vokiškai, o kaimo seniūnas ar kitas kuris valstietis iš greta stovinčios sakyklos jo kalbą atpasakodavo lietuviškai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pamokslai buvo sakomi per vertėjus: ku-
-      nigas sakydavo vokiškai, o kaimo seniūnas ar kitas kuris vals-
-      tietis iš greta stovinčios sakyklos jo kalbą atpasakodavo lietu-
-      viškai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
+Nenurodyta

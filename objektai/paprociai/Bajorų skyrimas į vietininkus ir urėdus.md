@@ -36,17 +36,21 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tačiau šiuo kartu jau buvo nuspręsta įkurti Lietuvoje tokį pat krašto valdomąjį aparatą, koks buvo Lenkijoj; be to, buvo garantuota, kad visos steigiamos valstybės urėdų vietos bus duodamos tik bajorams katalikams.'
+  teiginys: 'Lietuvoje buvo numatyta įkurti Lenkijos pavyzdžio valdymo aparatą, o naujos urėdų vietos turėjo būti skiriamos tik bajorams katalikams.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'O tokie, lenkų pavyzdžiu naujai įvesti, urėdai turėjo būti vaivados ir kaštelionai; jie turėjo gauti tam tikrų teisių krašto valdyme ir karo atveju turėjo vadovauti savo vaivadijos bajorams.'
+  teiginys: 'Lenkų pavyzdžiu įvesti vaivados ir kaštelionai turėjo gauti teisių krašto valdyme ir karo metu vadovauti savo vaivadijos bajorams.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tačiau šiuo kartu jau buvo nuspręsta įkurti Lietuvoje tokį pat krašto valdomąjį aparatą, koks buvo Lenkijoj; be to, buvo garantuota, kad visos steigiamos valstybės urėdų vietos bus duodamos tik bajorams katalikams.'
+  santrauka: 'Lietuvoje buvo numatyta įkurti Lenkijos pavyzdžio valdymo aparatą, o naujos urėdų vietos turėjo būti skiriamos tik bajorams katalikams.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tačiau šiuo kartu jau buvo nuspręsta įkurti Lie-
@@ -54,25 +58,25 @@ Nenurodyta
     koks buvo Lenkijoj; be to, buvo garantuota, kad vi-
     sos steigiamos valstybės urėdų vietos bus duodamos tik ba-
     jorams katalikams.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'O tokie, lenkų pavyzdžiu naujai įvesti, urėdai turėjo būti vaivados ir kaštelionai; jie turėjo gauti tam tikrų teisių krašto valdyme ir karo atveju turėjo vadovauti savo vaivadijos bajorams.'
+  santrauka: 'Lenkų pavyzdžiu įvesti vaivados ir kaštelionai turėjo gauti teisių krašto valdyme ir karo metu vadovauti savo vaivadijos bajorams.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     O tokie, lenkų pavyzdžiu naujai įvesti,
     urėdai turėjo būti vaivados ir kaštelionai; jie tu-
     rėjo gauti tam tikrų teisių krašto valdyme ir karo atveju turėjo
     vadovauti savo vaivadijos bajorams.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

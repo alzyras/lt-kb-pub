@@ -34,7 +34,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lietuvių genties iškilimas siejamas su vyrų gausumu karo žygiuose ir pagrindais būsimai Lietuvos valstybei.'
+  teiginys: 'Lietuvių genties iškilimą lėmė vyrų gausumas karo žygiuose, o šis iškilimas padėjo pagrindus būsimai Lietuvos valstybei.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -42,7 +42,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lietuvių genties iškilimas siejamas su vyrų gausumu karo žygiuose ir pagrindais būsimai Lietuvos valstybei.'
+  santrauka: 'Lietuvių genties iškilimą lėmė vyrų gausumas karo žygiuose, o šis iškilimas padėjo pagrindus būsimai Lietuvos valstybei.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Matyt, lėmė genties vyrų
@@ -59,5 +59,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/paprociai/Kandidatas 12 Reguliarūs lietuvių plėšiamieji žygiai į Rusios, Lenkijos ir Livonijos žemes]]
 - [[objektai/ivykiai/Pirmasis savarankiškas lietuvių žygis į Rusios žemes (1183 m.)]]

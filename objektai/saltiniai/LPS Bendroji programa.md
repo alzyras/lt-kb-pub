@@ -26,7 +26,7 @@ Suvažiavimas priėmė bendrąją programą, įstatus, 30 rezoliucijų politikos
 
 ## Teiginiai
 - t-001
-  teiginys: 'LPS Bendrojoje programoje pagrindiniu siekiu įvardytas socialistinės visuomenės persitvarkymas demokratijos ir humanizmo pagrindais.'
+  teiginys: 'LPS Bendrojoje programoje pagrindiniu siekiu įvardyta remti socialistinės visuomenės persitvarkymą demokratijos ir humanizmo pagrindais.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -36,7 +36,7 @@ Suvažiavimas priėmė bendrąją programą, įstatus, 30 rezoliucijų politikos
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'LPS Bendrojoje programoje pagrindiniu siekiu įvardytas socialistinės visuomenės persitvarkymas demokratijos ir humanizmo pagrindais.'
+  santrauka: 'LPS Bendrojoje programoje pagrindiniu siekiu įvardyta remti socialistinės visuomenės persitvarkymą demokratijos ir humanizmo pagrindais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Suvažiavimas

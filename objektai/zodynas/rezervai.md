@@ -19,23 +19,25 @@ Kryžiuočiai buvo jau beapsupą lenkus ir būtų juos sumušę, bet tuo momentu
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kryžiuočiai buvo jau beapsupą lenkus ir būtų juos sumušę, bet tuo momentu Vytautas atvedė paskutinius savo rezervus, t.'
+  teiginys: 'Vytautas į mūšį atvedė paskutinius rezervus, tai yra antrąsias kariuomenės eiles.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kryžiuočiai buvo jau beapsupą lenkus ir būtų juos sumušę, bet tuo momentu Vytautas atvedė paskutinius savo rezervus, t.'
+  santrauka: 'Vytautas į mūšį atvedė paskutinius rezervus, tai yra antrąsias kariuomenės eiles.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kryžiuočiai buvo jau beapsupą lenkus ir būtų
     juos sumušę, bet tuo momentu Vytautas atvedė paskutinius savo
     rezervus, t. y. antrąsias kariuomenės eiles. Mūšio įkaršty atsi-
     rado ir pasitraukę dešiniojo sparno lietuviai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

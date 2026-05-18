@@ -21,13 +21,15 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Žemaičių tautiškojo ir kultūriškojo judėjimo centras buvo vyskupo Juozo Arnulfo Giedraičio rezidencija — Alsėdžiai; pats vykupas buvo karštas žemaičių patriotas ir uolus švietimo rėmėjas.'
+  teiginys: 'Juozas Arnulfas Giedraitis buvo laikomas karštu žemaičių patriotu ir uoliu švietimo rėmėju.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Žemaičių tautiškojo ir kultūriškojo judėjimo centras buvo vyskupo Juozo Arnulfo Giedraičio rezidencija — Alsėdžiai; pats vykupas buvo karštas žemaičių patriotas ir uolus švietimo rėmėjas.'
+  santrauka: 'Juozas Arnulfas Giedraitis buvo laikomas karštu žemaičių patriotu ir uoliu švietimo rėmėju.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Žemaičių tautiškojo ir kultūriškojo judėjimo centras buvo
@@ -36,10 +38,10 @@ tags:
     uolus švietimo rėmėjas. Jis išleido savo lietuviškąjį Šv. Rašto
     vertimą (1816 m.), jo raginami kunigai prie bažnyčių steigė
     mokyklas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

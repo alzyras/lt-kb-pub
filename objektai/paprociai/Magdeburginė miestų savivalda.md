@@ -35,13 +35,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Didesniųjų miestų gyventojai gavo teises savarankiškai tvarkytis.'
+  teiginys: 'Magdeburgines teises turintys miestai patys rinkdavo savo viršininkus ir teisėjus.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Didesniųjų miestų gyventojai gavo teises savarankiškai tvarkytis.'
+  santrauka: 'Magdeburgines teises turintys miestai patys rinkdavo savo viršininkus ir teisėjus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Didesniųjų miestų gyventojai gavo teises sa-
@@ -50,10 +52,10 @@ Nenurodyta
     tiesiog magdeburgijomis. Tokias teises turį miestai pa-
     tys rinkdavo savo viršininkus ir teisėjus (nepriklausė bajorų
     teismams).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

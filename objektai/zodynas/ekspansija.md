@@ -13,42 +13,44 @@ tags: []
 # ekspansija
 
 ## Teiginiai
-
-- t-001
-  teiginys: Ekspansija čia reiškia Lietuvos plėtimąsi į rytus.
+- t-003
+  teiginys: 'Ekspansija čia reiškia Lietuvos plėtimąsi į rytus.'
   pagrindžia:
     - c-001
     - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: Tekstas teigia, kad ši rytinė plėtra prasidėjo dar prie Mindaugo.
+- t-004
+  teiginys: 'Tekstas teigia, kad ši rytinė plėtra prasidėjo dar prie Mindaugo.'
   pagrindžia:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  santrauka: Ekspansija čia reiškia Lietuvos plėtimąsi į rytus.
+  santrauka: 'Ekspansija čia reiškia Lietuvos plėtimąsi į rytus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Lietuvos ekspansija rytuose prasidėjo dar prie Mindaugo.
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
 - c-002
-  santrauka: Ekspansija čia reiškia Lietuvos plėtimąsi į rytus.
+  santrauka: 'Ekspansija čia reiškia Lietuvos plėtimąsi į rytus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Jau jis prijungė Lietuvai trikampį plotą tarp Gardino, L. Bras­
     tos ir Naugarduko, t. y. vad. Juodąją Rusiją.
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003

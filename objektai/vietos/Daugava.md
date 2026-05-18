@@ -38,14 +38,14 @@ Daugava teka į Žemaičių jūrą. Anapus Daugavos gyveno lietuvių krašto žm
 Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip geografinė riba anapus Lietuvių žemių.
 
 ## Teiginiai
-- t-001
-  teiginys: "Daugava teka į Žemaičių jūrą."
+- t-003
+  teiginys: 'Daugava teka į Žemaičių jūrą.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
-  teiginys: "Anapus Daugavos gyveno lietuvių krašto žmonės, vėliau vadinti latviais."
+- t-004
+  teiginys: 'Anapus Daugavos gyveno lietuvių krašto žmonės, vėliau vadinti latviais.'
   pagrindžia:
     - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
@@ -53,7 +53,7 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: "Daugava teka į Žemaičių jūrą."
+  santrauka: 'Daugava teka į Žemaičių jūrą.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Taip pat lygia dalia visos upės šiaurinėj įšleitėj nuo tos gi kalvos teka į
@@ -64,9 +64,9 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: "Anapus Daugavos gyveno lietuvių krašto žmonės, vėliau vadinti latviais."
+  santrauka: 'Anapus Daugavos gyveno lietuvių krašto žmonės, vėliau vadinti latviais.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Antrapus Daugavos lietuvius gyvenančius lig upei Gaujai vadino latviais iš
@@ -79,7 +79,7 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai

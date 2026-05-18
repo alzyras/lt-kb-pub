@@ -29,7 +29,7 @@ tags:
 Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.'
   pagrindžia:
     - c-001
@@ -38,7 +38,7 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
+  santrauka: 'Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Lietuvos tauta, gyvendama pietinėj įšleitėj tarp upių Isterio, arba Dunojaus, Tyrulės ir Niperio
@@ -51,9 +51,8 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Finikiečiai]]
-- [[objektai/grupes/Graikai]]

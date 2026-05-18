@@ -18,40 +18,44 @@ Maskvoje tuomet prasidėjo perversmų periodas — užėjo vadinamoji didžioji 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Maskvoje tuomet prasidėjo perversmų periodas — užėjo vadinamoji didžioji suirutė ( smuta ).'
+  teiginys: 'Maskvoje prasidėjęs perversmų periodas vadintas didžiąja suirute (smuta).'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Priešingai, suirutės metu Maskva buvo nebe puolančioji, bet puolamoji.'
+  teiginys: 'Didžiosios suirutės metu Maskva buvo ne puolanti, o puolama.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Maskvoje tuomet prasidėjo perversmų periodas — užėjo vadinamoji didžioji suirutė ( smuta ).'
+  santrauka: 'Maskvoje prasidėjęs perversmų periodas vadintas didžiąja suirute (smuta).'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Maskvoje tuomet prasidėjo per-
     versmų periodas — užėjo vadinamoji didžioji suirutė ( _smuta_ ).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Priešingai, suirutės metu Maskva buvo nebe puolančioji, bet puolamoji.'
+  santrauka: 'Didžiosios suirutės metu Maskva buvo ne puolanti, o puolama.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Dėl to po Jono IV Žiauriojo dar ilgai iš Maskvos pusės nebuvo
     jokio pavojaus Lietuvai. Priešingai, suirutės metu Maskva buvo
     nebe puolančioji, bet puolamoji.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

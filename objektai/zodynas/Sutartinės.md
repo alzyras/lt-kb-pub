@@ -22,13 +22,13 @@ Pagrindinė forma: `sutartinės`.
 Vartojamos formos: `sutartiniais`, `sutartines`, `sutartinėmis`.
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: '`Sutartinės` šiame tekste reiškia atliepiamai dainuojamas dainas.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Terminas vartojamas ir trimitų, naudojamų tokiose sueigose, kontekste.'
   pagrindžia:
     - c-001
@@ -37,7 +37,7 @@ Vartojamos formos: `sutartiniais`, `sutartines`, `sutartinėmis`.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Sutartinės` šiame tekste reiškia atliepiamai dainuojamas dainas
+  santrauka: '`Sutartinės` šiame tekste reiškia atliepiamai dainuojamas dainas.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Įrankiais jų linksmybės buvo ilgi, iš trijų skilų sudėti apvalūs medžio trūbai^551 , nuokamieni^552 ir
@@ -51,12 +51,12 @@ Vartojamos formos: `sutartiniais`, `sutartines`, `sutartinėmis`.
     dainavę atlieptinai, nuo ko ir dainos yra taip pat sutartinėmis vadinamos.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
 
 ## Pastabos
 

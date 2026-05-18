@@ -18,7 +18,7 @@ LPS tapo dar populiaresnis, kai nuo rugsėjo 16 dienos, be biuletenio „Sąjūd
 
 ## Teiginiai
 - t-001
-  teiginys: 'LPS tapo dar populiaresnis, kai nuo rugsėjo 16 dienos, be biuletenio „Sąjūdžio žinios“, pradėtas leisti laikraštis „Atgimimas“ (red. Romualdas Ozolas).'
+  teiginys: '„Sąjūdžio žinios“ buvo LPS biuletenis, greta kurio nuo rugsėjo 16 d. pradėtas leisti laikraštis „Atgimimas“.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -28,7 +28,7 @@ LPS tapo dar populiaresnis, kai nuo rugsėjo 16 dienos, be biuletenio „Sąjūd
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'LPS tapo dar populiaresnis, kai nuo rugsėjo 16 dienos, be biuletenio „Sąjūdžio žinios“, pradėtas leisti laikraštis „Atgimimas“ (red. Romualdas Ozolas).'
+  santrauka: '„Sąjūdžio žinios“ buvo LPS biuletenis, greta kurio nuo rugsėjo 16 d. pradėtas leisti laikraštis „Atgimimas“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     LPS tapo dar populiaresnis,

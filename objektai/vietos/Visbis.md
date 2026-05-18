@@ -19,26 +19,24 @@ Hanzos pirklių prekybos centras Baltijos jūroje buvo Visby miestas Gotlando sa
 
 ## Teiginiai
 - t-001
-  teiginys: 'Hanzos pirklių prekybos centras Baltijos jūroje buvo Visby miestas Gotlando saloje; šiaurėje prie Hanzos prisidėjo D.'
+  teiginys: 'Visbis Gotlando saloje buvo Hanzos pirklių prekybos centras Baltijos jūroje.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Hanzos pirklių prekybos centras Baltijos jūroje buvo Visby miestas Gotlando saloje; šiaurėje prie Hanzos prisidėjo D.'
+  santrauka: 'Visbis Gotlando saloje buvo Hanzos pirklių prekybos centras Baltijos jūroje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Hanzos pirklių prekybos centras Bal-
     tijos jūroje buvo Visby miestas Gotlando saloje; šiaurėje prie
     Hanzos prisidėjo D. Naugardas (žiūr. 28—30 psl.).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Gotlando sala]]

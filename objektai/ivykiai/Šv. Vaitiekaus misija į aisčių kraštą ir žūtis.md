@@ -33,25 +33,33 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Atvykęs pas Lenkų kunigaikštį Boleslovą Narsųjį, gavo apsaugą ir išvyko į aisčių kraštą.'
+  teiginys: 'Vaitiekus, gavęs Boleslovo Narsiojo apsaugą, išvyko į aisčių kraštą ir pasiekė krantą Priegliaus žiotyse.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Tačiau tas nieko nepadėjo: misijonieriams čia nesisekė platinti krikščionybės.'
+  teiginys: 'Vaitiekaus misijonieriams aisčių krašte nesisekė platinti krikščionybės.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-003
-  teiginys: 'Bet vieną rytą, kai visi trys misijonieriai atlaikė mišias, juos užpuolė vietiniai gyventojai ir nužudė vyskupą Vaitiekų.'
+  teiginys: '997 m. balandžio 23 d. vietiniai gyventojai užpuolė misijonierius ir nužudė vyskupą Vaitiekų šventajame miške.'
   pagrindžia:
     - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-004
   teiginys: 'Misijonierių lavonus išpirko kunigaikštis Boleslovas.'
   pagrindžia:
     - c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Atvykęs pas Lenkų kunigaikštį Boleslovą Narsųjį, gavo apsaugą ir išvyko į aisčių kraštą.'
+  santrauka: 'Vaitiekus, gavęs Boleslovo Narsiojo apsaugą, išvyko į aisčių kraštą ir pasiekė krantą Priegliaus žiotyse.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Atvykęs pas Lenkų kunigaikštį Boleslovą Narsųjį,
@@ -59,28 +67,28 @@ Nenurodyta
     jis priplaukė krantą Priegliaus žiotyse. Kad aisčių giminės į at-
     vykusius labai neskersuotų, jis atleido visus savo palydovus ir
     liko tik su dviem kunigais.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Tačiau tas nieko nepadėjo: misijonieriams čia nesisekė platinti krikščionybės.'
+  santrauka: 'Vaitiekaus misijonieriams aisčių krašte nesisekė platinti krikščionybės.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tačiau tas nieko nepadėjo: misijo-
     nieriams čia nesisekė platinti krikščionybės.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Bet vieną rytą, kai visi trys misijonieriai atlaikė mišias, juos užpuolė vietiniai gyventojai ir nužudė vyskupą Vaitiekų.'
+  santrauka: '997 m. balandžio 23 d. vietiniai gyventojai užpuolė misijonierius ir nužudė vyskupą Vaitiekų šventajame miške.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet vieną rytą, kai visi trys
@@ -89,11 +97,11 @@ Nenurodyta
     nodami, buvo sustoję šventajam miške, kur negalėjo įžengti joks
     svetimšalis. Pagonys tuo būdu atkeršijo už savo šventovės
     įžeidimą. Tas atsitiko 997 m. balandžio 23 d.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
 - c-004
@@ -103,11 +111,11 @@ Nenurodyta
     Misijonierių la-
     vonus išpirko kunigaikštis Boleslovas. Vyskupas Vaitiekus buvo
     paskelbtas šventuoju, krikščionybės kankiniu.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
 

@@ -18,13 +18,15 @@ Pirmoji bažnyčia, į kurią buvo grąžintos lietuviškosios pamaldos, buvo Ve
 
 ## Teiginiai
 - t-001
-  teiginys: 'Pirmoji bažnyčia, į kurią buvo grąžintos lietuviškosios pamaldos, buvo Veisėjų.'
+  teiginys: 'Veisėjų bažnyčia buvo pirmoji, į kurią grąžintos lietuviškos pamaldos.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Pirmoji bažnyčia, į kurią buvo grąžintos lietuviškosios pamaldos, buvo Veisėjų.'
+  santrauka: 'Veisėjų bažnyčia buvo pirmoji, į kurią grąžintos lietuviškos pamaldos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pirmoji bažnyčia, į kurią buvo
@@ -32,14 +34,10 @@ Pirmoji bažnyčia, į kurią buvo grąžintos lietuviškosios pamaldos, buvo Ve
     čia 1870 m. paskirtas klebonu Seinų seminarijos auklėtinis kun.
     P. Leonavičius. Jis taip pat pradėjo mokyti lietuviškai kate-
     kizmo ir poterių.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/P. Leonavičius]]

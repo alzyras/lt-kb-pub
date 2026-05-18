@@ -18,13 +18,15 @@ Visos po trečiojo padalinimo Rusijai tekusios žemės iš pradžių buvo padali
 
 ## Teiginiai
 - t-001
-  teiginys: 'Visos po trečiojo padalinimo Rusijai tekusios žemės iš pradžių buvo padalintos į dvi gubernijas — Vilniaus ir Slanimo.'
+  teiginys: 'Po trečiojo padalinimo Rusijai tekusios žemės vėliau buvo sujungtos į vieną Lietuvos guberniją.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Visos po trečiojo padalinimo Rusijai tekusios žemės iš pradžių buvo padalintos į dvi gubernijas — Vilniaus ir Slanimo.'
+  santrauka: 'Po trečiojo padalinimo Rusijai tekusios žemės vėliau buvo sujungtos į vieną Lietuvos guberniją.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Visos po trečiojo padalinimo Rusijai teku-
@@ -33,10 +35,10 @@ Visos po trečiojo padalinimo Rusijai tekusios žemės iš pradžių buvo padali
     į vieną Lietuvos guberniją, bet netrukus vėl buvo pa-
     dalintos net į 3 — Vilniaus, Kauno ir Gardino — gu-
     bernijas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

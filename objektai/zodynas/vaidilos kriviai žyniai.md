@@ -18,13 +18,15 @@ Jie buvo vadinami vaidilomis, kriviais, žyniais ir kitokiais vardais.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Jie buvo vadinami vaidilomis, kriviais, žyniais ir kitokiais vardais.'
+  teiginys: 'Dvasininkai buvo vadinami vaidilomis, kriviais, žyniais ir kitokiais vardais.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Jie buvo vadinami vaidilomis, kriviais, žyniais ir kitokiais vardais.'
+  santrauka: 'Dvasininkai buvo vadinami vaidilomis, kriviais, žyniais ir kitokiais vardais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jie buvo vadinami vaidilo-
@@ -32,10 +34,10 @@ Jie buvo vadinami vaidilomis, kriviais, žyniais ir kitokiais vardais.
     nebuvo vieno vyriausio, viską valdančio dievo, kaip nebuvo vie-
     nos centrinės šventovės, taip nebuvo priklausomybės ryšių ir tarp
     dvasininkų.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

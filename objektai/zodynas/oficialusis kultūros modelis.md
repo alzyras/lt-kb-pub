@@ -21,7 +21,7 @@ Daukšai rūpi ne kasdienės lietuvių kalbos vartojimas, o būtinybė šia kalb
 
 ## Teiginiai
 - t-001
-  teiginys: 'Taigi lietuvių kalbą, nesuspėjant kurti naujadarų pagal gyvenimo poreikius, pradžioje lenkė rusėnų kalba, o vėliau lenkų, tapusi LDK bajorijos integracine kalba ir Vakarų kultūros sklaidos rusėnų žemėse priemone.'
+  teiginys: 'LDK lietuvių kalbą iš pradžių lenkė rusėnų kalba, o vėliau lenkų kalba tapo bajorijos integracine kalba ir Vakarų kultūros sklaidos priemone.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -29,7 +29,7 @@ Daukšai rūpi ne kasdienės lietuvių kalbos vartojimas, o būtinybė šia kalb
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Taigi lietuvių kalbą, nesuspėjant kurti naujadarų pagal gyvenimo poreikius, pradžioje lenkė rusėnų kalba, o vėliau lenkų, tapusi LDK bajorijos integracine kalba ir Vakarų kultūros sklaidos rusėnų žemėse priemone.'
+  santrauka: 'LDK lietuvių kalbą iš pradžių lenkė rusėnų kalba, o vėliau lenkų kalba tapo bajorijos integracine kalba ir Vakarų kultūros sklaidos priemone.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taigi lietuvių kalbą, nesuspėjant kurti naujadarų

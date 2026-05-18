@@ -20,7 +20,7 @@ tags:
 Sakoma: aidint patrankoms, mūzos tyli.
 
 ## Teiginiai
-- t-002
+- t-003
   teiginys: 'Livonijos karo metu Steponas Batoras rūpinosi Vilniaus universiteto, vadinamo mūzų prieglobsčiu, kūrimu.'
   pagrindžia:
     - c-001
@@ -45,4 +45,4 @@ Sakoma: aidint patrankoms, mūzos tyli.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-003

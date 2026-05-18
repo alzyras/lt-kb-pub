@@ -35,39 +35,22 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Zigmanto II antkapis Krokuvos katedroje.'
+  teiginys: 'Zigmanto II antkapis yra Krokuvos katedroje.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Zigmantas II (Senasis), 1506—1548 m. d. Lietuvos kunigaikštis ir Lenkų karalius (taip jis atvaizduotas Krokuvos katedroje esančiam antkapy).'
-  pagrindžia:
-    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Zigmanto II antkapis Krokuvos katedroje.'
+  santrauka: 'Zigmanto II antkapis yra Krokuvos katedroje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Zigmanto II antkapis Krokuvos katedroje.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Zigmantas II (Senasis), 1506—1548 m. d. Lietuvos kunigaikštis ir Lenkų karalius (taip jis atvaizduotas Krokuvos katedroje esančiam antkapy).'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Zigmantas II (Senasis),
-      1506—1548 m. d. Lietuvos kunigaikštis ir
-      Lenkų karalius (taip jis atvaizduotas Kro-
-      kuvos katedroje esančiam antkapy).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002

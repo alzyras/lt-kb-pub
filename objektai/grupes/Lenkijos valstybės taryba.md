@@ -21,7 +21,7 @@ Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės tar
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės taryba ir jau buvo pradėjęs veikti bajorų seimas), Lietuvoje, be didžiojo kunigaikščio, kitos institucijos, kuri galėtų išreikšti Lietuvos valstybės valią, nebūta.'
+  teiginys: 'Lenkijos valstybės taryba greta monarcho įkūnijo Lenkijos valstybingumą.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -35,7 +35,7 @@ Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės tar
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės taryba ir jau buvo pradėjęs veikti bajorų seimas), Lietuvoje, be didžiojo kunigaikščio, kitos institucijos, kuri galėtų išreikšti Lietuvos valstybės valią, nebūta.'
+  santrauka: 'Lenkijos valstybės taryba greta monarcho įkūnijo Lenkijos valstybingumą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės

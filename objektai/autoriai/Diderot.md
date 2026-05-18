@@ -18,27 +18,31 @@ Montesquieu († 1755 m.), Rousseau († 1778 m.), Voltaire († 1778 m.), D'Ale
 
 ## Teiginiai
 - t-001
-  teiginys: 'Montesquieu († 1755 m.), Rousseau († 1778 m.), Voltaire († 1778 m.), D''Alembert († 1783 m.), Diderot († 1784 m.) ir eilė kitų autorių pasidarė epochos dievaičiais.'
+  teiginys: 'Diderot, miręs 1784 m., kartu su kitais autoriais buvo laikomas epochos dievaičiu.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: 'Diderot suorganizuota enciklopedija, apie kurią buvo suburtos visos žymiausios to meto pajėgos, kūrė naują pasaulėžiūrą.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Montesquieu († 1755 m.), Rousseau († 1778 m.), Voltaire († 1778 m.), D''Alembert († 1783 m.), Diderot († 1784 m.) ir eilė kitų autorių pasidarė epochos dievaičiais.'
+  santrauka: 'Diderot, miręs 1784 m., kartu su kitais autoriais buvo laikomas epochos dievaičiu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     _Montesquieu_ († 1755 m.),
     _Rousseau_ († 1778 m.), _Voltaire_ († 1778 m.), _D'Alembert_ († 1783 m.),
     _Diderot_ († 1784 m.) ir eilė kitų autorių pasidarė epochos dievaičiais.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
@@ -47,10 +51,10 @@ Montesquieu († 1755 m.), Rousseau († 1778 m.), Voltaire († 1778 m.), D'Ale
   citata_originali: |
     Diderot suorganizuota enciklopedija, apie kurią buvo suburtos
     visos žymiausios to meto pajėgos, kūrė naują pasaulėžiūrą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

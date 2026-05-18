@@ -58,43 +58,43 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-008
   teiginys: '1919 m. vasario 7-10 d. vyko Kėdainių-Šėtos kautynės; Kėdainių gynybai vadovavo J. Mikoliūnas ir K. Dragunevičius, surinkę apie 80 savanorių; bolševikai puolė Kėdainius, paleido apie 170 artilerijos sviedinių, bet gynėjai atlaikė puolimą.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Tą gynybą šaltinis įvardija kaip pirmąjį Kėdainių įgulos savanorių kovos krikštą.'
+- t-009
+  teiginys: 'Kėdainių gynyba tapo pirmuoju Kėdainių įgulos savanorių kovos krikštu.'
   pagrindžia:
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: '1919 m. vasario 8 d. žvalgybos susirėmime prie Taučiūnų žuvo P. Lukšys, pirmasis Nepriklausomybės kovose žuvęs Lietuvos savanoris; žvalgybos patruliui vadovavo V. Vainauskas, jo padėjėju buvo P. Lukšys.'
+- t-010
+  teiginys: '1919 m. vasario 8 d. Kėdainių gynėjai suorganizavo 17 žmonių žvalgybos patrulį, kuriam vadovavo V. Vainauskas, o jo padėjėju buvo P. Lukšys.'
   pagrindžia:
     - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-004
+- t-011
   teiginys: 'Žvalgų grupę prie Taučiūnų užklupo bolševikų ugnis; lietuviai išsidėstė į grandį ir atidengė atsakomąją ugnį.'
   pagrindžia:
     - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-005
+- t-012
   teiginys: 'Vokiečių kulkosvaidininkas perėmė kulkosvaidį ir sustabdė bolševikų bandymą apsupti žvalgus; raudonarmiečiai ėmė trauktis.'
   pagrindžia:
     - c-005
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-006
+- t-013
   teiginys: 'P. Lukšys žuvo iš Taučiūnų dvaro paleistos ugnies; žvalgai atsitraukė.'
   pagrindžia:
     - c-006
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-007
+- t-014
   teiginys: 'Lietuviai, remiami maždaug 50 vokiečių kareivių, apėjo bolševikų dešinįjį sparną, paėmė 18 raudonarmiečių į nelaisvę, o bolševikai vakare paliko Kėdainių apylinkes ir traukėsi į Šėtą.'
   pagrindžia:
     - c-007
@@ -103,10 +103,10 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 1919 m. vasario 7-10 d. vyko Kėdainių-Šėtos kautynės; Kėdainių gynybai vadovavo J. Mikoliūnas ir K. Dragunevičius, surinkę apie 80 savanorių; bolševikai puolė Kėdainius, paleido apie 170 artilerijos sviedinių, bet gynėjai atlaikė puolimą.
+  santrauka: '1919 m. vasario 7-10 d. vyko Kėdainių-Šėtos kautynės; Kėdainių gynybai vadovavo J. Mikoliūnas ir K. Dragunevičius, surinkę apie 80 savanorių; bolševikai puolė Kėdainius, paleido apie 170 artilerijos sviedinių, bet gynėjai atlaikė puolimą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Karininkai J. Mikoliūnas ir
+    Kėdainių gynyba Karininkai J. Mikoliūnas ir
     K. Dragunevičius, surinkę apie 80 karei-
     vinėse buvusių savanorių ir išskleidę juos
     abipus vieškelio Kėdainiai-Šėta, efektyvia
@@ -119,30 +119,36 @@ Nenurodyta
     užtvarą ir tęsė puolimą Kėdainių link. apie 170 artilerijos sviedinių ir kelis kartus
     juos puolė mėgindami pralaužti gynybą,
     tačiau savanoriams vis pavykdavo taiklia
-    šautuvų ugnimi juos sulaikyti
-  citata_rodoma: ''
+    šautuvų ugnimi juos sulaikyti.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-008
 - c-002
-  santrauka: Tą gynybą šaltinis įvardija kaip pirmąjį Kėdainių įgulos savanorių kovos krikštą.
+  santrauka: 'Kėdainių gynyba tapo pirmuoju Kėdainių įgulos savanorių kovos krikštu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Toks buvo
+    Neturintys kovos patirties savanoriai, drą-
+    sinami būrių vadų, nepakriko ir laikėsi.
+    Bolševikai tą dieną į lietuvių pusę paleido
+    užtvarą ir tęsė puolimą Kėdainių link. apie 170 artilerijos sviedinių ir kelis kartus
+    juos puolė mėgindami pralaužti gynybą,
+    tačiau savanoriams vis pavykdavo taiklia
+    šautuvų ugnimi juos sulaikyti. Toks buvo
     pirmasis Kėdainių įgulos sava-
     norių kovos krikštas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-009
 - c-003
-  santrauka: 1919 m. vasario 8 d. žvalgybos susirėmime prie Taučiūnų žuvo P. Lukšys, pirmasis Nepriklausomybės kovose žuvęs Lietuvos savanoris; žvalgybos patruliui vadovavo V. Vainauskas, jo padėjėju buvo P. Lukšys.
+  santrauka: '1919 m. vasario 8 d. Kėdainių gynėjai suorganizavo 17 žmonių žvalgybos patrulį, kuriam vadovavo V. Vainauskas, o jo padėjėju buvo P. Lukšys.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Naktį iš vasario 7 į 8 d. Kėdainių gynėjų
@@ -157,15 +163,15 @@ Nenurodyta
     raiteliais. Susėdę į dvejas roges žvalgai pa-
     judėjo bolševikų atsitraukimo kryptimi —
     Šėtos link.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-010
 - c-004
-  santrauka: Žvalgų grupę prie Taučiūnų užklupo bolševikų ugnis; lietuviai išsidėstė į grandį ir atidengė atsakomąją ugnį.
+  santrauka: 'Žvalgų grupę prie Taučiūnų užklupo bolševikų ugnis; lietuviai išsidėstė į grandį ir atidengė atsakomąją ugnį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Važiuojant pro Taučiūnų kaimą,
@@ -180,16 +186,16 @@ Nenurodyta
     žvalgus. Vienas kitas jau bandė trauktis
     atgal, tačiau Lukšio sudrausminti ir padrą-
     sinti lietuviai išsiskleidė į grandį ir sugulę
-    atidengė atsakomąją ugnį
-  citata_rodoma: ''
+    atidengė atsakomąją ugnį.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-011
 - c-005
-  santrauka: Vokiečių kulkosvaidininkas perėmė kulkosvaidį ir sustabdė bolševikų bandymą apsupti žvalgus; raudonarmiečiai ėmė trauktis.
+  santrauka: 'Vokiečių kulkosvaidininkas perėmė kulkosvaidį ir sustabdė bolševikų bandymą apsupti žvalgus; raudonarmiečiai ėmė trauktis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tada Vainauskas, iš
@@ -201,15 +207,15 @@ Nenurodyta
     via ugnimi sustabdė bolševikų mėginimą
     žvalgų grupę apsupti. Raudonarmiečiai
     ėmė trauktis.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
+    - t-012
 - c-006
-  santrauka: P. Lukšys žuvo iš Taučiūnų dvaro paleistos ugnies; žvalgai atsitraukė.
+  santrauka: 'P. Lukšys žuvo iš Taučiūnų dvaro paleistos ugnies; žvalgai atsitraukė.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tačiau kitą akimirką į žval-
@@ -217,15 +223,15 @@ Nenurodyta
     P. Lukšys - pirmasis Nepriklausomybės
     kovose žuvęs Lietuvos savano-
     ris. Žvalgai atsitraukė.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-006
+    - t-013
 - c-007
-  santrauka: Lietuviai, remiami maždaug 50 vokiečių kareivių, apėjo bolševikų dešinįjį sparną, paėmė 18 raudonarmiečių į nelaisvę, o bolševikai vakare paliko Kėdainių apylinkes ir traukėsi į Šėtą.
+  santrauka: 'Lietuviai, remiami maždaug 50 vokiečių kareivių, apėjo bolševikų dešinįjį sparną, paėmė 18 raudonarmiečių į nelaisvę, o bolševikai vakare paliko Kėdainių apylinkes ir traukėsi į Šėtą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     kautynės su bolševikais tę-
@@ -238,13 +244,13 @@ Nenurodyta
     18 raudonarmiečių. Bolševikai tos pa-
     čios dienos vakare buvo priversi palikti
     Kėdainių apylinkes ir atsitraukti į Šėtą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-007
+    - t-014
 
 ## Ryšiai
 ### Laikotarpiai

@@ -1,10 +1,12 @@
 ---
 tipas: asmuo
-pavadinimas: 'Ivanas Fiodorovas'
+pavadinimas: 'Ivanas Fiodorovas (spaustuvininkas, XVI a.)'
 sukurta: '2026-05-14'
 variantai:
   - 'Ivaną Fiodorovą'
-aliases: []
+  - 'Ivanas Fiodorovas'
+aliases:
+  - 'Ivanas Fiodorovas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 bukle: juodrastis
@@ -30,14 +32,14 @@ date_end: '2026'
 patikimumas: aukštas
 tags: []
 ---
-# Ivanas Fiodorovas
+# Ivanas Fiodorovas (spaustuvininkas, XVI a.)
 
 ## Santrauka
 
 Ivanas Fiodorovas pristatomas kaip pirmasis Maskvos spaustuvininkas, kurį Chodkevičiai priglobė Zabluduvo spaustuvėje.
 
 ## Teiginiai
-- t-005
+- t-006
   teiginys: '1569 m. Chodkevičiai Zabluduvo spaustuvėje priglobė pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą.'
   pagrindžia:
     - c-001
@@ -62,7 +64,7 @@ Ivanas Fiodorovas pristatomas kaip pirmasis Maskvos spaustuvininkas, kurį Chodk
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
+    - t-006
 
 ## Ryšiai
 ### Laikotarpiai

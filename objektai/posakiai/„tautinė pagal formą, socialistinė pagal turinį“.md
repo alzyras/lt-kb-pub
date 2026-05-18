@@ -18,7 +18,7 @@ tags:
 Kultūra plėtota pagal sovietų principą „tautinė pagal formą, socialistinė pagal turinį“ – tautiniais drabužiais vilkintys choristai dainavo apie V.
 
 ## Teiginiai
-- t-002
+- t-003
   teiginys: 'Sovietų valdžia kultūrą plėtojo pagal principą „tautinė pagal formą, socialistinė pagal turinį“.'
   pagrindžia:
     - c-001
@@ -45,7 +45,7 @@ Kultūra plėtota pagal sovietų principą „tautinė pagal formą, socialistin
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

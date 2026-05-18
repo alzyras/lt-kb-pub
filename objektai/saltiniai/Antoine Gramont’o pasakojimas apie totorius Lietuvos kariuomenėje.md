@@ -39,20 +39,22 @@ Cituojama „Antoine Gramont’o pasakojimas apie totorius Lietuvos kariuomenėj
 - Cituojama „Antoine Gramont’o pasakojimas apie totorius Lietuvos kariuomenėje“ ištrauka apie totorius Lietuvos kariuomenėje.
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: 'Cituojama „Antoine Gramont’o pasakojimas apie totorius Lietuvos kariuomenėje“ ištrauka apie totorius Lietuvos kariuomenėje.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: '„Antoine Gramont’o pasakojimas apie totorius Lietuvos kariuomenėje“ šiame veikale cituojamas kaip atskiras šaltinis.'
+- t-004
+  teiginys: 'Antoine’as Gramont’as rašė, kad totoriai Lietuvoje valdė laisvuosius dvarus ir sudarė lengvąją raitiją.'
   pagrindžia:
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
   santrauka: 'Cituojama „Antoine Gramont’o pasakojimas apie totorius Lietuvos kariuomenėje“ ištrauka apie totorius Lietuvos kariuomenėje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -63,12 +65,11 @@ Cituojama „Antoine Gramont’o pasakojimas apie totorius Lietuvos kariuomenėj
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: 'Tiesioginė šio veikalo citata apie šaltinio panaudojimą.'
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-
+    - t-003
 - c-002
-  santrauka: '„Antoine Gramont’o pasakojimas apie totorius Lietuvos kariuomenėje“ šiame veikale cituojamas kaip atskiras šaltinis.'
+  santrauka: 'Antoine’as Gramont’as rašė, kad totoriai Lietuvoje valdė laisvuosius dvarus ir sudarė lengvąją raitiją.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     „Toliau - totoriai, kuriuos nugalėjęs Lietuvos didysis kunigaikštis parsivedė daugybę
@@ -80,6 +81,6 @@ Cituojama „Antoine Gramont’o pasakojimas apie totorius Lietuvos kariuomenėj
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: 'Tiesioginė šio veikalo citata apie šaltinio panaudojimą.'
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004

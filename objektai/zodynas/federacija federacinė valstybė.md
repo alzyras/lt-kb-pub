@@ -27,13 +27,13 @@ Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira vyk
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Pageidaujama Lenkijos ir Lietuvos federacija niekaip nesilipdė, paaiškėjo, kad lietuviai iš lenkų galėjo tikėtis nepriklausomos Lietuvos tik siauresnėse etnografinėse ribose.'
+  teiginys: 'Pageidauta Lenkijos ir Lietuvos federacija nesusikūrė, o lietuviai iš lenkų galėjo tikėtis tik siauresnių etnografinių ribų Lietuvos.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: 'Tačiau 1921 m. Vilniaus klausimo ir Lietuvos ir Lenkijos priešpriešos sureguliavimą Sąjungininkai sumanė išspręsti federacijos būdu.'
+  teiginys: '1921 m. Sąjungininkai Vilniaus klausimą ir Lietuvos bei Lenkijos priešpriešą siekė sureguliuoti federacijos būdu.'
   pagrindžia:
     - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -63,7 +63,7 @@ Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira vyk
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Pageidaujama Lenkijos ir Lietuvos federacija niekaip nesilipdė, paaiškėjo, kad lietuviai iš lenkų galėjo tikėtis nepriklausomos Lietuvos tik siauresnėse etnografinėse ribose.'
+  santrauka: 'Pageidauta Lenkijos ir Lietuvos federacija nesusikūrė, o lietuviai iš lenkų galėjo tikėtis tik siauresnių etnografinių ribų Lietuvos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pagei-
@@ -78,7 +78,7 @@ Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira vyk
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Tačiau 1921 m. Vilniaus klausimo ir Lietuvos ir Lenkijos priešpriešos sureguliavimą Sąjungininkai sumanė išspręsti federacijos būdu.'
+  santrauka: '1921 m. Sąjungininkai Vilniaus klausimą ir Lietuvos bei Lenkijos priešpriešą siekė sureguliuoti federacijos būdu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau 1921 m. Vilniaus klausimo ir Lietuvos ir Lenki-

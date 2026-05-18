@@ -19,24 +19,26 @@ De jure Lietuva tebuvo pripažinta tik Vokietijos, Rusijos, Šveicarijos, Argent
 
 ## Teiginiai
 - t-001
-  teiginys: 'De jure Lietuva tebuvo pripažinta tik Vokietijos, Rusijos, Šveicarijos, Argentinos, Meksikos ir Latvijos bei Estijos (šias pastarąsias tada jau buvo pripažinusi de jure 21 valstybė).'
+  teiginys: 'Argentina buvo tarp valstybių, kurios tuo metu buvo de jure pripažinusios Lietuvą.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'De jure Lietuva tebuvo pripažinta tik Vokietijos, Rusijos, Šveicarijos, Argentinos, Meksikos ir Latvijos bei Estijos (šias pastarąsias tada jau buvo pripažinusi de jure 21 valstybė).'
+  santrauka: 'Argentina buvo tarp valstybių, kurios tuo metu buvo de jure pripažinusios Lietuvą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     De jure
     Lietuva tebuvo pripažinta tik Vokietijos, Rusijos, Šveicarijos,
     Argentinos, Meksikos ir Latvijos bei Estijos (šias pastarąsias
     tada jau buvo pripažinusi de jure 21 valstybė).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

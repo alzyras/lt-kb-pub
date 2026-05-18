@@ -32,28 +32,7 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Kai Mykolas Sapiega pasidavė, bajorijos regimentorius, grąžinęs jam kardą, nusivežė jį savo karietoje į Valkininkus (kautynės įvyko į šiaurę nuo Valkininkų, Leipūnuose).'
-  pagrindžia:
-    - c-001
+Nenurodyta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Kai Mykolas Sapiega pasidavė, bajorijos regimentorius, grąžinęs jam kardą, nusivežė jį savo karietoje į Valkininkus (kautynės įvyko į šiaurę nuo Valkininkų, Leipūnuose).'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kai Mykolas Sapiega pasidavė, bajo-
-      rijos regimentorius, grąžinęs jam kardą, nusivežė jį savo karietoje į
-      Valkininkus (kautynės įvyko į šiaurę nuo Valkininkų, Leipūnuose).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Kardas]]
-- [[objektai/asmenys/Mykolas Sapiega]]
+Nenurodyta

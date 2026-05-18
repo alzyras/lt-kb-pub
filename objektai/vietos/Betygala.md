@@ -19,41 +19,22 @@ tags:
 Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš Vytauto funduotų Žemaitijos bažnyčių vietų.
 
 ## Teiginiai
-- t-001
-  teiginys: 'po pusę Raseinių, Ariogalos, Betygalos, Laukuvos ir kt.'
-  pagrindžia:
-    - c-001
-
-- t-002
+- t-004
   teiginys: 'Aukokalnis buvo ties dabartine Betygala.'
   pagrindžia:
-    - c-002
+    - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-003
+- t-005
   teiginys: 'Vytautas Betygaloje pastatė bažnyčią.'
   pagrindžia:
-    - c-003
+    - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'po pusę Raseinių, Ariogalos, Betygalos, Laukuvos ir kt.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    po pusę Rasei-
-    nių, Ariogalos, Betygalos, Laukuvos ir kt. sričių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: zemas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: Citata lokalizuoja Aukokalnį pagal dabartinę Betygalą.
+  santrauka: 'Aukokalnis buvo ties dabartine Betygala.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­
@@ -61,13 +42,13 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
     ja iki Aukokalnio, buvusio ties dabartine Betygala.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: Citata įrašo Betygalą tarp Vytauto funduotų Žemaitijos bažnyčių vietų.
+    - t-004
+- c-002
+  santrauka: 'Vytautas Betygaloje pastatė bažnyčią.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Žemaitijoje pastatė Var­
@@ -76,13 +57,15 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
     varniuose, Veliuonoje.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Ariogala]]
 - [[objektai/vietos/Laukuva]]
+- [[objektai/vietos/Dubysa]]
+- [[objektai/vietos/Merkinė]]

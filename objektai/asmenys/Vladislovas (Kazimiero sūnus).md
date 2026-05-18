@@ -22,10 +22,8 @@ Vladislovas buvo Čekų ir Vengrų karalius. Jis tuo tarpu gyveno Silezijoje, ku
   teiginys: 'Vladislovas buvo Čekų ir Vengrų karalius.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Jis tuo tarpu gyveno Silezijoje, kur iš brolio, Čekų karaliaus Vladislovo, buvo gavęs valdyti keletą mažų kunigaikštysčių.'
-  pagrindžia:
-    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -33,22 +31,10 @@ Vladislovas buvo Čekų ir Vengrų karalius. Jis tuo tarpu gyveno Silezijoje, ku
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vladislovas buvo Čekų ir Vengrų karalius
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Jis tuo tarpu gyveno Silezijoje, kur iš brolio, Čekų karaliaus Vladislovo, buvo gavęs valdyti keletą mažų kunigaikštysčių.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Jis tuo tarpu gyveno Silezijoje, kur iš brolio, Čekų karaliaus Vladislovo, buvo gavęs valdyti keletą mažų kunigaikštysčių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002

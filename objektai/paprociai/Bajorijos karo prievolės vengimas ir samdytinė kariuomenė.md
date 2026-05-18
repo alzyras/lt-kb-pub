@@ -36,17 +36,21 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Ankstyvesnieji karai pasibaigdavo Lietuvai nelaimingai ypač dėl to, kad bajorija nenorėjo kariauti ir nenorėjo mokėti karui reikalingų mokesčių.'
+  teiginys: 'Ankstyvesni karai Lietuvai baigdavosi nelaimingai, nes bajorija nenorėjo kariauti ir mokėti karui reikalingų mokesčių.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Kadangi bajorija nenorėjo eiti į karą, tai jos vietoje buvo įvesta samdytinė kariuomenė.'
+  teiginys: 'Bajorijai nenorint eiti į karą, jos vietoje buvo įvesta samdytinė kariuomenė.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Ankstyvesnieji karai pasibaigdavo Lietuvai nelaimingai ypač dėl to, kad bajorija nenorėjo kariauti ir nenorėjo mokėti karui reikalingų mokesčių.'
+  santrauka: 'Ankstyvesni karai Lietuvai baigdavosi nelaimingai, nes bajorija nenorėjo kariauti ir mokėti karui reikalingų mokesčių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ankstyves-
@@ -54,24 +58,24 @@ Nenurodyta
     bajorija nenorėjo kariauti ir nenorėjo mokėti karui reikalingų
     mokesčių. Tad kol būdavo surenkama kariuomenė, Maskva
     suspėdavo užimti nemaža Lietuvos pilių.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Kadangi bajorija nenorėjo eiti į karą, tai jos vietoje buvo įvesta samdytinė kariuomenė.'
+  santrauka: 'Bajorijai nenorint eiti į karą, jos vietoje buvo įvesta samdytinė kariuomenė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kadangi bajorija nenorėjo eiti į karą, tai jos vietoje buvo įves-
     ta samdytinė kariuomenė. Tačiau bajorija nenorėjo
     mokėti net tos kariuomenės išlaikymui reikalingų mokesčių.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

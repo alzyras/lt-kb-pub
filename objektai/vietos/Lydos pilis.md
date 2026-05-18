@@ -46,7 +46,7 @@ Tai pilis, minima tarp ankstyvųjų Vytauto mūro statybų.
 
 ## Teiginiai
 - t-001
-  teiginys: "Vytauto valdymo pradžioje turėjo būti pastatyta mūrinė Lydos pilis."
+  teiginys: 'Vytauto valdymo pradžioje turėjo būti pastatyta mūrinė Lydos pilis.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -54,7 +54,7 @@ Tai pilis, minima tarp ankstyvųjų Vytauto mūro statybų.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Lydos pilis šiame šaltinyje minima kaip mūrinė pilis iš Vytauto valdymo pradžios.
+  santrauka: 'Vytauto valdymo pradžioje turėjo būti pastatyta mūrinė Lydos pilis.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Berods, Vytauto laikais buvo dar
@@ -62,8 +62,8 @@ Tai pilis, minima tarp ankstyvųjų Vytauto mūro statybų.
     būti pastatyta taip pat mūrinė Lydos pilis. Jam priskiriama ir
     restauravimas mūrinių Vilniaus pilių.
   citata_rodoma: ""
-  teiginio_tipas: interpretacija
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:

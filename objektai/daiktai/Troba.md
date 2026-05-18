@@ -43,19 +43,19 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-004
   teiginys: 'Troba buvo ketvirtasis trobesys, skirtas svečiams žiemą vaišinti.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-005
   teiginys: 'Troboje buvo virenė, priemenė, alkierius, kakalys, kaminas ir dūmų kiaurynė.'
   pagrindžia:
     - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-003
+- t-006
   teiginys: 'Troboje vyrai ir moterys vakarodami dirbo įvairius darbus, o be stiklo langų dar būdavo langeliai su lentelėmis.'
   pagrindžia:
     - c-003
@@ -64,7 +64,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Troba buvo ketvirtasis trobesys, skirtas svečiams žiemą vaišinti.
+  santrauka: 'Troba buvo ketvirtasis trobesys, skirtas svečiams žiemą vaišinti.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Ketvirtasis trobesys buvo trobos, arba svetlyčia, kame svečius žiemą vaišino, taip pat
@@ -81,9 +81,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-004
 - c-002
-  santrauka: Troboje buvo virenė, priemenė, alkierius, kakalys, kaminas ir dūmų kiaurynė.
+  santrauka: 'Troboje buvo virenė, priemenė, alkierius, kakalys, kaminas ir dūmų kiaurynė.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Troboje, kurioje, kaip sakiau, žiemą tegyveno, turėjo tris keturis šalutinėj sienoj stiklo langus, o
@@ -100,9 +100,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-005
 - c-003
-  santrauka: Troboje vyrai ir moterys vakarodami dirbo įvairius darbus, o be stiklo langų dar būdavo langeliai su lentelėmis.
+  santrauka: 'Troboje vyrai ir moterys vakarodami dirbo įvairius darbus, o be stiklo langų dar būdavo langeliai su lentelėmis.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Prie to žiburio
@@ -118,4 +118,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-006

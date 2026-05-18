@@ -32,22 +32,24 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Po ilgų derybų Lenkijos ponai prieš karaliaus valią padarė 26 m. paliaubas.'
+  teiginys: 'Po ilgų derybų Lenkijos ponai prieš karaliaus valią sudarė 26 metų Štumdorfo paliaubas.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Po ilgų derybų Lenkijos ponai prieš karaliaus valią padarė 26 m. paliaubas.'
+  santrauka: 'Po ilgų derybų Lenkijos ponai prieš karaliaus valią sudarė 26 metų Štumdorfo paliaubas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Po ilgų derybų Lenkijos ponai prieš
     karaliaus valią padarė 26 m. paliaubas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

@@ -21,51 +21,23 @@ Susikūrus Tautų Sąjungai (pagal Versalio sutartį, pasirašytą 1919 metų bi
 
 ## Teiginiai
 - t-001
-  teiginys: 'Susikūrus Tautų Sąjungai (pagal Versalio sutartį, pasirašytą 1919 metų birželio 28 d.), Lietuvos vyriausybė kreipėsi į ją, prašydama priimti Lietuvą į tą naują tarptautinių santykių tvarkymo ir taikos saugojimo įstaigą, kaip savarankišką nepriklausomą.'
+  teiginys: 'Pagal 1919 m. birželio 28 d. pasirašytą Versalio sutartį buvo įkurta Tautų Sąjunga.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Vokietija, svajodama vėl užgrobti Klaipėdos kraštą, tam neturi jokio juridinio pagrindo, nes, pasirašydama Versalio sutartį, ji sutiko su Klaipėdos krašto atskyrimu, o 1928 m. darydama sienų sutartį su Lietuva, niekieno neverčiama Klaipėdos kraštą pripažino.'
+  teiginys: 'Pasirašydama Versalio sutartį Vokietija sutiko su Klaipėdos krašto atskyrimu.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Susikūrus Tautų Sąjungai (pagal Versalio sutartį, pasirašytą 1919 metų birželio 28 d.), Lietuvos vyriausybė kreipėsi į ją, prašydama priimti Lietuvą į tą naują tarptautinių santykių tvarkymo ir taikos saugojimo įstaigą, kaip savarankišką nepriklausomą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Susikūrus Tautų Sąjungai (pagal Versalio sutartį, pasira-
-    šytą 1919 metų birželio 28 d.), Lietuvos vyriausybė kreipėsi į
-    ją, prašydama priimti Lietuvą į tą naują tarptautinių santykių
-    tvarkymo ir taikos saugojimo įstaigą, kaip savarankišką nepri-
-    klausomą valstybę.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Vokietija, svajodama vėl užgrobti Klaipėdos kraštą, tam neturi jokio juridinio pagrindo, nes, pasirašydama Versalio sutartį, ji sutiko su Klaipėdos krašto atskyrimu, o 1928 m. darydama sienų sutartį su Lietuva, niekieno neverčiama Klaipėdos kraštą pripažino.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Vokietija, svajodama vėl užgrobti Klaipėdos kraštą, tam ne-
-    turi jokio juridinio pagrindo, nes, pasirašydama Versalio su-
-    tartį, ji sutiko su Klaipėdos krašto atskyrimu, o 1928 m. dary-
-    dama sienų sutartį su Lietuva, niekieno neverčiama Klaipėdos
-    kraštą pripažino Lietuvai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Susikūrus Tautų Sąjungai (pagal Versalio sutartį, pasirašytą 1919 metų birželio 28 d.), Lietuvos vyriausybė kreipėsi į ją, prašydama priimti Lietuvą į tą naują tarptautinių santykių tvarkymo ir taikos saugojimo įstaigą, kaip savarankišką nepriklausomą.'
+  santrauka: 'Pagal 1919 m. birželio 28 d. pasirašytą Versalio sutartį buvo įkurta Tautų Sąjunga.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Susikūrus Tautų Sąjungai (pagal Versalio sutartį, pasira-
@@ -73,15 +45,15 @@ Susikūrus Tautų Sąjungai (pagal Versalio sutartį, pasirašytą 1919 metų bi
     ją, prašydama priimti Lietuvą į tą naują tarptautinių santykių
     tvarkymo ir taikos saugojimo įstaigą, kaip savarankišką nepri-
     klausomą valstybę.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Vokietija, svajodama vėl užgrobti Klaipėdos kraštą, tam neturi jokio juridinio pagrindo, nes, pasirašydama Versalio sutartį, ji sutiko su Klaipėdos krašto atskyrimu, o 1928 m. darydama sienų sutartį su Lietuva, niekieno neverčiama Klaipėdos kraštą pripažino.'
+  santrauka: 'Pasirašydama Versalio sutartį Vokietija sutiko su Klaipėdos krašto atskyrimu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vokietija, svajodama vėl užgrobti Klaipėdos kraštą, tam ne-
@@ -89,10 +61,10 @@ Susikūrus Tautų Sąjungai (pagal Versalio sutartį, pasirašytą 1919 metų bi
     tartį, ji sutiko su Klaipėdos krašto atskyrimu, o 1928 m. dary-
     dama sienų sutartį su Lietuva, niekieno neverčiama Klaipėdos
     kraštą pripažino Lietuvai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

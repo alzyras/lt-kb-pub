@@ -18,21 +18,25 @@ Gruševski, Istorija Ukraini Rusi, I-IX (1907—1930);.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Gruševski, Istorija Ukraini Rusi, I-IX (1907—1930);.'
+  teiginys: 'M. Gruševskio „Istorija Ukraini Rusi“ I–IX tomai buvo išleisti 1907–1930 m.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Gruševski, Istorija Ukraini Rusi, I-IX (1907—1930);.'
+  santrauka: 'M. Gruševskio „Istorija Ukraini Rusi“ I–IX tomai buvo išleisti 1907–1930 m.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     _M. Gruševski,_ Istorija Ukraini Rusi, I-IX
     (1907—1930);
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

@@ -21,40 +21,27 @@ Tuo būdu su šia pirmąja Bažnyčios privilegija atsirado Lietuvoje bažnytin�
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tuo būdu su šia pirmąja Bažnyčios privilegija atsirado Lietuvoje bažnytinės žemės nuosavybė be jokių prievolių valstybei; tuo tarpu visi bajorai ir valstiečiai turėjo daug prievolių.'
+  teiginys: 'Pirmoji Bažnyčios privilegija Lietuvoje sukūrė bažnytinės žemės nuosavybę be prievolių valstybei.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Tuo būdu su šia pirmąja Bažnyčios privilegija atsirado Lietuvoje bažnytinės žemės nuosavybė be jokių prievolių valstybei; tuo tarpu visi bajorai ir valstiečiai turėjo daug prievolių.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tuo būdu su šia pirmąja Bažnyčios privilegija
-    atsirado Lietuvoje bažnytinės žemės nuosavybė be jokių prievo-
-    lių valstybei; tuo tarpu visi bajorai ir valstiečiai turėjo daug prie-
-    volių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Tuo būdu su šia pirmąja Bažnyčios privilegija atsirado Lietuvoje bažnytinės žemės nuosavybė be jokių prievolių valstybei; tuo tarpu visi bajorai ir valstiečiai turėjo daug prievolių.'
+  santrauka: 'Pirmoji Bažnyčios privilegija Lietuvoje sukūrė bažnytinės žemės nuosavybę be prievolių valstybei.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo būdu su šia pirmąja Bažnyčios privilegija
     atsirado Lietuvoje bažnytinės žemės nuosavybė be jokių prievo-
     lių valstybei; tuo tarpu visi bajorai ir valstiečiai turėjo daug prie-
     volių.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

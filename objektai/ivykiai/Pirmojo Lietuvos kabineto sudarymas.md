@@ -31,32 +31,36 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Voldemarui sudaryti pirmą nepriklausomosios Lietuvos kabinetą, kurs pradėjo veikti lapkričio 11 d., — tą pačią dieną, kai Vokiečiai, pralaimėję karą, turėjo pasirašyti preliminarines kapituliacijos sąlygas.'
+  teiginys: '1918 m. lapkričio 5 d. Taryba pavedė A. Voldemarui sudaryti pirmą nepriklausomos Lietuvos kabinetą.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Šio antrojo kabineto pirmininku buvo M.'
+  teiginys: 'Antrajam Lietuvos kabinetui pirmininkavo M. Sleževičius.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Voldemarui sudaryti pirmą nepriklausomosios Lietuvos kabinetą, kurs pradėjo veikti lapkričio 11 d., — tą pačią dieną, kai Vokiečiai, pralaimėję karą, turėjo pasirašyti preliminarines kapituliacijos sąlygas.'
+  santrauka: '1918 m. lapkričio 5 d. Taryba pavedė A. Voldemarui sudaryti pirmą nepriklausomos Lietuvos kabinetą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     1918 metų lapkričio mėn. 5 d. Taryba pavedė A. Voldemarui
     sudaryti pirmą nepriklausomosios Lietuvos kabinetą, kurs pradėjo
     veikti lapkričio 11 d., — tą pačią dieną, kai Vokiečiai, pralaimėję
     karą, turėjo pasirašyti preliminarines kapituliacijos sąlygas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Šio antrojo kabineto pirmininku buvo M.'
+  santrauka: 'Antrajam Lietuvos kabinetui pirmininkavo M. Sleževičius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jam
@@ -64,10 +68,10 @@ Nenurodyta
     žmonių iš visų partijų. Šio antrojo kabineto pirmininku buvo
     M. Sleževičius. Kabinetas tuojau paskelbė visų piliečių šaukimą
     į savanorių pulkus ginti nepriklausomybės.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

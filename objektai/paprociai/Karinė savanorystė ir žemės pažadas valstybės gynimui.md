@@ -59,14 +59,14 @@ Nepriklausomybės kovų metu karinė savanorystė siejama su entuziastingu stoji
 - Karinė savanorystė siejama su Lietuvos kariuomenės augimu, žemės pažadu ir tautinių mažumų įtraukimu.
 
 ## Teiginiai
-- t-003
+- t-005
   teiginys: 'Apie 12 000 savanorių stojo į Lietuvos kariuomenę, o jiems buvo žadėti žemės sklypai.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-004
-  teiginys: 'M. Sleževičius pabrėžė, kad bežemiai ir mažažemiai gaus lenkų dvarininkų žemės.'
+- t-006
+  teiginys: 'M. Sleževičius pabrėžė, kad bežemiai ir mažažemiai gaus dalijamos lenkų dvarininkų žemės.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -86,9 +86,9 @@ Nepriklausomybės kovų metu karinė savanorystė siejama su entuziastingu stoji
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-005
 - c-002
-  santrauka: 'M. Sleževičius pabrėžė, kad bežemiai ir mažažemiai gaus lenkų dvarininkų žemės.'
+  santrauka: 'M. Sleževičius pabrėžė, kad bežemiai ir mažažemiai gaus dalijamos lenkų dvarininkų žemės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuviai atmetė
@@ -102,7 +102,7 @@ Nepriklausomybės kovų metu karinė savanorystė siejama su entuziastingu stoji
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-006
 
 ## Šaltiniai ir įrodymai
 

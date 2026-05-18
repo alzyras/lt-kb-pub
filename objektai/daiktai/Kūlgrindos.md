@@ -43,20 +43,20 @@ Jos tarnavo slaptam susisiekimui tarp pilių ir apsaugai nuo priešo.
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: Kūlgrindos buvo akmenimis grįsti slapti keliai.
+- t-004
+  teiginys: 'Kūlgrindos buvo žemaičių akmenimis grįsti vingrūs keliai.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: Kūlgrindomis galėjo naudotis tik prityrusio vadovo vedami žmonės.
+- t-005
+  teiginys: 'Kūlgrindomis galėjo naudotis tik prityrusio vadovo vedami žmonės.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: Lietuvoje dar buvo galima rasti kūlgrindų liekanų.
+- t-006
+  teiginys: 'Lietuvoje dar buvo galima rasti kūlgrindų liekanų.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -64,7 +64,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Apibrėžia kūlgrindas kaip slaptus akmenimis grįstus kelius ir nusako jų naudojimą.
+  santrauka: 'Kūlgrindos buvo žemaičių akmenimis grįsti vingrūs keliai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tie keliai būdavo tokie
@@ -73,15 +73,15 @@ Nenurodyta
     naudotis. Tokie akmenimis grįsti keliai žemaičių buvo vadinami
     kūlgrindomis (kūlis—akmuo). Ir dabar dar galima rasti
     Lietuvoje tokių kelių liekanų.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
-    - t-003
+    - t-004
+    - t-005
+    - t-006
 
 ## Ryšiai
 ### Teminiai klasteriai

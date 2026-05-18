@@ -66,3 +66,7 @@ Daugiakultūriškumas ir daugiakonfesiškumas kartais laikomi didžiausiu Lenkij
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/privilegija]]
+
+### Susiję objektai
+- [[objektai/grupes/Stačiatikiai]]
+- [[objektai/zodynas/daugiakonfesiškumas]]

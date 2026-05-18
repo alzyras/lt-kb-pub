@@ -72,7 +72,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 
 ## Teiginiai
 - t-001
-  teiginys: '1323 m. Gediminas jau gyveno Vilniuje ir iš čia rašė savo laiškus; nuo tada Vilnius tapo nuolatine Lietuvos sostine.'
+  teiginys: '1323 m. Gediminas gyveno Vilniuje, iš čia rašė laiškus ir derėjosi su Ryga bei Ordinu, o Vilnius tapo nuolatine Lietuvos sostine.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -125,34 +125,10 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     - c-011
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-012
-  teiginys: '1377 m. Kryžiuočių Ordino žygis pasiekė Vilniaus apylinkes ir privertė Algirdą užsidaryti Vilniaus pilyje.'
-  pagrindžia:
-    - c-015
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-013
-  teiginys: '1382 m. birželio 12 d. Jogaila, atėjęs nuo Vitebsko, šalininkų padedamas užėmė Vilnių.'
-  pagrindžia:
-    - c-016
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-014
-  teiginys: 'Vytautas Vilniuje pastatė katedrą ir šv. Onos bažnyčią.'
-  pagrindžia:
-    - c-017
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-015
-  teiginys: '1428 m. Jogaila, būdamas Vilniuje, pats iškėlė Vytauto karūnacijos klausimą.'
-  pagrindžia:
-    - c-018
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Citata tiesiogiai pagrindžia Vilniaus kaip nuolatinės sostinės statusą Gedimino laikais.
+  santrauka: '1323 m. Gediminas gyveno Vilniuje, iš čia rašė laiškus ir derėjosi su Ryga bei Ordinu, o Vilnius tapo nuolatine Lietuvos sostine.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Gediminas gyveno jau Vilniuje. Tais metais jau iš Vilniaus jis
@@ -283,68 +259,6 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-011
-- c-015
-  santrauka: Citata rodo, kad kryžiuočių puolimas buvo pasiekęs Vilnių ir paveikė miesto gynybą.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kada Kryžiuočių Ordino maršalka
-    Gotfrydas von Lindenas įsiveržė į Lietuvos gilumą ir, nueida­
-    mas net lig pat Vilniaus, degino kaimus, plėšė žmonių turtą ir
-    juos pačius ėmė nelaisvėn, tuo metu Algirdas, negalėdamas sku­
-    biai suorganizuoti apsigynimo, užsidaręs Vilniaus pilyje, pasi­
-    kvietęs maršalką ir išmetinėjęs jam neriterišką elgesį; o Kęstutis,
-    keršydamas už krašto teriojimą, pasiuntė Vytautą į Užnemunę
-    sunaikinti vokiečių maisto atsargą.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-012
-- c-016
-  santrauka: Citata tiksliai datuoja Jogailos atėjimą į Vilnių ir miesto perėmimą.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tą pačią dieną, kada Vilniuje miesčionys užėmė pilį ir iš­
-    mušė Kęstučio sargybas, t. y. 1382 m. birželio 12 d., Jogaila su
-    ta kariuomene, kurią buvo Kęstučiui žadėjęs pagalbai, atėjo nuo
-    Vitebsko Vilniun ir, šalininkų remiamas, tuojau jį paėmė, o Ry­
-    gos pirklys Hanulo įteikė jam pilies raktus^1 ).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-013
-- c-017
-  santrauka: Citata tiesiogiai mini dvi svarbias Vytauto fundacijas Vilniuje.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Taip, pavyzdžiui, yra išlikusių ži­
-    nių, kad Vytautas pastatė apie 35 bažnyčias įvairiose Lietuvos
-    valstybės vietose: Vilniuje katedrą (1399) ir šv. Onos bažnyčią,
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-014
-- c-018
-  santrauka: Citata sieja Vilnių su 1428 m. iškeltu Vytauto karūnacijos klausimu.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    (^1) ) Dar prieš Lucko suvažiavimą, 1428 m., Vytauto karūnacijos klau­
-    simas buvo pakeltas paties Jogailos, kai jis buvo Vilniuj.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-015
 
 ## Ryšiai
 ### Laikotarpiai
@@ -359,4 +273,3 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Radomas]]
 - [[objektai/vietos/Trakai]]
-- [[objektai/vietos/Vitebskas]]

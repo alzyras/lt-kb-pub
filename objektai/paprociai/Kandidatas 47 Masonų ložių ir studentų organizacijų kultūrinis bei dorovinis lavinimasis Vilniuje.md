@@ -34,7 +34,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vilniaus universitete veikė studentų organizacijos, besirūpinusios kultūriniu ir doroviniu tobulėjimu.'
+  teiginys: 'Vilniaus universitete veikė studentų organizacijos, rūpinusios kultūriniu ir doroviniu tobulėjimu, tiesa, laisve ir Tėvyne.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -48,7 +48,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vilniaus universitete veikė studentų organizacijos, besirūpinusios kultūriniu ir doroviniu tobulėjimu.'
+  santrauka: 'Vilniaus universitete veikė studentų organizacijos, rūpinusios kultūriniu ir doroviniu tobulėjimu, tiesa, laisve ir Tėvyne.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Uni-

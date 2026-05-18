@@ -37,8 +37,8 @@ tags:
 - Za króla Sasa, jedz, pij i popuszczaj pasa
 
 ## Teiginiai
-- t-001
-  teiginys: 'Formuluotė šiame pasakojime pateikiama kaip istoriškai fiksuotas priežodis apie Augusto III laikus.'
+- t-002
+  teiginys: 'Priežodis „Valdant karaliui saksui, gerk, valgyk ir atsileisk sagtį“ įsigalėjo vaizduojant bajorijos puotas, tarpusavio peštynes ir nemokamus mokesčius.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -46,7 +46,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: istoriškai fiksuotas priežodis apie Augusto III laikus
+  santrauka: 'Priežodis „Valdant karaliui saksui, gerk, valgyk ir atsileisk sagtį“ įsigalėjo vaizduojant bajorijos puotas, tarpusavio peštynes ir nemokamus mokesčius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bajorija džiaugėsi, kad nereikia
@@ -64,4 +64,4 @@ tags:
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

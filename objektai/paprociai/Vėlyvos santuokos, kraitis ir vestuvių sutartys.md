@@ -41,13 +41,13 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: 'Mergaitės iki ištekėjimo dirbo ir krovė kraitį, o nuotakos ieškojo ne turtingų, bet narsių vyrų.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Vestuvėms abi pusės ruošė maistą, alų, drabužius ir dovanas, o po to sudarydavo suvodbą.'
   pagrindžia:
     - c-002
@@ -56,7 +56,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Mergaitės iki ištekėjimo dirbo ir krovė kraitį, o nuotakos ieškojo ne turtingų, bet narsių vyrų.
+  santrauka: 'Mergaitės iki ištekėjimo dirbo ir krovė kraitį, o nuotakos ieškojo ne turtingų, bet narsių vyrų.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Nesgi mergaitės, nubengusios sunkiuosius darbus pas savo tėvus, tuojau verpė ir audė sau ant
@@ -68,13 +68,15 @@ Nenurodyta
     lietos ar ūkės vyrų veizėjo, kaipogi pačios ne vien šeimyną vienos būtos, bet trijų, keturių butų
     savo kraičiu galėjo apdaryti. Pinigų nežinojo, ir jų niekam nereikėjo, nesgi mokesnių niekam
     nemokėjo, duoklių nedavė ir rinkliavų nežinojo, kaipogi visi liuosi sau gyvendami dirbo.
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: Vestuvėms abi pusės ruošė maistą, alų, drabužius ir dovanas, o po to sudarydavo suvodbą.
+  santrauka: 'Vestuvėms abi pusės ruošė maistą, alų, drabužius ir dovanas, o po to sudarydavo suvodbą.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Nujau^430 abi pusi tiekės į suvodbą, beje, suvedimą, nuo žodžio vesti, arba į kozas, nuo žodžio
@@ -93,8 +95,10 @@ Nenurodyta
     katra norint pusė atsakytų nebtekėti, tad tėvai atsakančiosios pusės turėjo ne vien dovanas prieš
     dovanas antrai pusei pagrąžinti^435 , bet dar ūkvaizdžių iždą^436 užmokėti; jei tuo geruoju nedarė,
     tad, į tiesą ištikus, per sūdą visa tą atgavo antra pusė, kuri tarės abydyta^437 palikusi.
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004

@@ -41,97 +41,38 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
 - chunk_0003: Durbės mūšis, Vytenio įsiveržimas į Sembą ir Notangą, Vytenio žygis į Lenkiją.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį.'
+- t-006
+  teiginys: 'Petras Dusburgas nurodė, kad vienoje Žemaitijoje buvo net 70 tokių „karaliukų“.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Cituojama „Prūsijos žemės kronika“ ištrauka apie Vytenio įsiveržimą į Ordino žemes:.'
-  pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: 'Cituojama „Prūsijos žemės kronika“ ištrauka apie Lietuvos karaliaus Pukuvero sūnaus Vytenio įsiveržimą į Lenkiją 1292 m.'
-  pagrindžia:
-    - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-
-- t-004
-  teiginys: 'P. Dusburgas šiame veikale minimas kaip žinojęs vienoje Žemaitijoje net 70 „karaliukų“.'
-  pagrindžia:
-    - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-005
+- t-007
   teiginys: 'Mikalojus iš Jarošino, versdamas Dusburgo kroniką iš lotynų į vokiečių kalbą, pridėjo papildymų ir paaiškinimų nuo savęs.'
   pagrindžia:
-    - c-005
+    - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Ištrauka iš Petro Dusburgiečio „Prūsijos žemės kronikos“ apie Durbės mūšį.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: 'Tiesioginė šio veikalo citata apie šaltinio panaudojimą.'
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Cituojama „Prūsijos žemės kronika“ ištrauka apie Vytenio įsiveržimą į Ordino žemes:.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Ištrauka iš Petro Dusburgiečio „Prūsijos žemės kronikos“ apie Vytenio įsiveržimą į
-    Ordino žemes:
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: 'Tiesioginė šio veikalo citata apie šaltinio panaudojimą.'
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Cituojama „Prūsijos žemės kronika“ ištrauka apie Lietuvos karaliaus Pukuvero sūnaus Vytenio įsiveržimą į Lenkiją 1292 m.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Ištrauka iš Petro Dusburgiečio „Prūsijos
-    žemės kronikos“ apie Lietuvos karaliaus
-    Pukuvero sūnaus Vytenio įsiveržimą į
-    Lenkiją 1292 m.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: 'Tiesioginė šio veikalo citata apie šaltinio panaudojimą.'
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: Citata pagrindžia, kad P. Dusburgas minimas kaip liudijęs apie Žemaitijos „karaliukus“.
+  santrauka: 'Petras Dusburgas nurodė, kad vienoje Žemaitijoje buvo net 70 tokių „karaliukų“.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kryžiuočių kronikininkas P. Dusburgas pav. vienoje Žemai­
     tijoje žino tokių „karaliukų” net 70, o Volynijos kronika sako
     1248 met. vienam mūšy žuvę net 40 jotvingių kunigų.^3 )
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
-- c-005
-  santrauka: Citata pagrindžia, kad kalbamą Dusburgo kroniką iš lotynų į vokiečių kalbą vertęs Mikalojus iš Jarošino pridėjo papildymų.
+    - t-006
+- c-002
+  santrauka: 'Mikalojus iš Jarošino, versdamas Dusburgo kroniką iš lotynų į vokiečių kalbą, pridėjo papildymų ir paaiškinimų nuo savęs.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tuo klausimu įdo­
@@ -139,10 +80,10 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
     Jarošino, kuris beversdamas kalbamą Dusburgo kroniką iš lo­
     tynų į vokiečių kalbą, pridėjo nemaža papildymų ir paaiški­
     nimų nuo savęs^1 ).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
+    - t-007

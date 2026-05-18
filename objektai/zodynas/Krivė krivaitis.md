@@ -18,13 +18,13 @@ Pagrindinė forma: `krivė krivaitis`.
 Papildomos aiškios formos neišskirtos.
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: '`Krivė krivaitis` šiame tekste yra aukščiausias šventovės valdovas.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Tam asmeniui priskiriama teisė kalbėti Perūno vardu.'
   pagrindžia:
     - c-002
@@ -33,7 +33,7 @@ Papildomos aiškios formos neišskirtos.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Krivė krivaitis` šiame tekste yra aukščiausias šventovės valdovas
+  santrauka: '`Krivė krivaitis` šiame tekste yra aukščiausias šventovės valdovas.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Dešinėje pusėj buvę rūmai, kuriuose visų vyriausias kunigaikštis, nuo prašaleičių
@@ -44,9 +44,9 @@ Papildomos aiškios formos neišskirtos.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: Tam asmeniui priskiriama teisė kalbėti Perūno vardu
+  santrauka: 'Tam asmeniui priskiriama teisė kalbėti Perūno vardu.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Pats tiktai visų vyriausiasis kunigaikštis kūrėjų kūrėjas tegalėjęs tenai įeiti, kurs davęs atsakus
@@ -57,7 +57,7 @@ Papildomos aiškios formos neišskirtos.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004
 
 ## Pastabos
 

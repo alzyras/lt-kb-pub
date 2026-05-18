@@ -18,7 +18,7 @@ st.) ir lenkė Rumuniją, Bulgariją.
 
 ## Teiginiai
 - t-001
-  teiginys: 'J. Basanavičius į Lietuvą sugrįžo iš emigracijos Bulgarijoje ir tapo sumanymo iniciatoriumi.'
+  teiginys: 'J. Basanavičius grįžo iš emigracijos Bulgarijoje ir tapo suvažiavimo sumanymo iniciatoriumi.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -26,7 +26,7 @@ st.) ir lenkė Rumuniją, Bulgariją.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'J. Basanavičius į Lietuvą sugrįžo iš emigracijos Bulgarijoje ir tapo sumanymo iniciatoriumi.'
+  santrauka: 'J. Basanavičius grįžo iš emigracijos Bulgarijoje ir tapo suvažiavimo sumanymo iniciatoriumi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Su-

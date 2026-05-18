@@ -23,101 +23,52 @@ tags:
 Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje). Protestantų mokyklos buvo įkurtos Vilniuje, Brastoje, Nesvyžiuje, Semetyčiuose, Šiluvoje, Biržuose, Kėdainiuose, Slucke, o pradžios mokyklų buvo beveik kiekvienoj jų parapijoj. Ypač garsėjo Kėdainių mokykla: mat, Radvilų pastangomis Kėdainiai buvo daromi protestantų kultūros centru.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje).'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Protestantų mokyklos buvo įkurtos Vilniuje, Brastoje, Nesvyžiuje, Semetyčiuose, Šiluvoje, Biržuose, Kėdainiuose, Slucke, o pradžios mokyklų buvo beveik kiekvienoj jų parapijoj.'
-  pagrindžia:
-    - c-002
-- t-003
-  teiginys: 'Ypač garsėjo Kėdainių mokykla: mat, Radvilų pastangomis Kėdainiai buvo daromi protestantų kultūros centru.'
-  pagrindžia:
-    - c-003
-
-- t-004
+- t-007
   teiginys: '1919 m. bolševikų ekspansija buvo stabdoma prie Kėdainių.'
   pagrindžia:
-    - c-004
+    - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-
-- t-005
+- t-008
   teiginys: '1919 m. sausį J. Variakojis iš bolševikų užimto Panevėžio su savanorių būriu pasitraukė į Kėdainius.'
   pagrindžia:
-    - c-005
+    - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-
-- t-006
-  teiginys: 'Kėdainiuose jau buvo suorganizuotas savanorių būrys, o savanoriai buvo pasiryžę iš miesto nebesitraukti.'
+- t-009
+  teiginys: 'Kėdainiuose J. Šarauskas buvo suorganizavęs savanorių būrį, o savanoriai buvo pasiryžę iš miesto nesitraukti.'
   pagrindžia:
-    - c-006
-    - c-007
+    - c-003
+    - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje).'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Radvilų šeimos buvo dvi šakos. Vienos centras buvo Biržai
-    ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Protestantų mokyklos buvo įkurtos Vilniuje, Brastoje, Nesvyžiuje, Semetyčiuose, Šiluvoje, Biržuose, Kėdainiuose, Slucke, o pradžios mokyklų buvo beveik kiekvienoj jų parapijoj.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Protestantų mokyklos buvo įkurtos Vilniuje, Brastoje, Nesvy-
-    žiuje, Semetyčiuose, Šiluvoje, Biržuose, Kėdainiuose, Slucke, o pra-
-    džios mokyklų buvo beveik kiekvienoj jų parapijoj.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Ypač garsėjo Kėdainių mokykla: mat, Radvilų pastangomis Kėdainiai buvo daromi protestantų kultūros centru.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Ypač garsėjo Kėdainių mokykla: mat,
-    Radvilų pastangomis Kėdainiai buvo daromi protestantų kultūros
-    centru.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: Citata Kėdainius mini tarp vietų, kur buvo stabdoma bolševikų ekspansija.
+  santrauka: '1919 m. bolševikų ekspansija buvo stabdoma prie Kėdainių.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    atremda-
+    Gimstanti Pirmoji Lietuvos Respublika 1919-1920 m. turėjo
+    kariauti Nepriklausomybės kovose prieš bolševikus, atremda-
     ma jų ekspansiją prie Jiezno ir Kėdainių, po to vydama juos iki
     pat Daugpilio. Buvo priversta taip pat prie Radviliškio kautis su
-  citata_rodoma: ''
+    plėšikaujančiais bermontininkais (oficialiai: Rusijos Vakarų sa-
+    vanorių armija) - Rusijos baltaisiais, prie kurių dėjosi pralaimė-
+    jusios Vokietijos kariuomenės daliniai, o taip pat - prieš tautinės
+    Lietuvos egzistavimo galimybę atmetusius, dar neseniai gin-
+    klo broliais buvusius lenkus prie Širvintų ir Giedraičių. Visos
+    Nepriklausomybės kovos buvo paremtos savanorių heroizmu —
+    net jei už jį Lietuva siūlė žemę, vis tiek pagalvokim, kokia auka
+    buvo siūloma atgimstančiai valstybei.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
-
-- c-005
-  santrauka: Citata rodo Kėdainius kaip atsitraukusio savanorių būrio telkimosi vietą.
+    - t-007
+- c-002
+  santrauka: '1919 m. sausį J. Variakojis iš bolševikų užimto Panevėžio su savanorių būriu pasitraukė į Kėdainius.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Dar 1918 m. gruodžio 29 d. paskir-
@@ -129,44 +80,51 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
     goms užimant Panevėžį, J. Variakojis
     su pirmuoju savanorių būriu paliko
     miestą ir atvyko į Kėdainius.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
-
-- c-006
-  santrauka: Citatos parodo Kėdainius kaip savanorių gynybos ir pasiryžimo centrą.
+    - t-008
+- c-003
+  santrauka: 'Kėdainiuose J. Šarauskas buvo suorganizavęs savanorių būrį, o savanoriai buvo pasiryžę iš miesto nesitraukti.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tuo metu Kėdainių srities apsau-
     gos viršininkas J. Šarauskas mieste jau
     buvo suorganizavęs savąjį savanorių
-    būrį.
-  citata_rodoma: ''
+    būrį. Jame buvo daug gimnazijos moks-
+    leivių ir keletas tarnavusių Rusijos ka-
+    riuomenėje puskarininkių. Atvykus
+    būriui iš Panevėžio, Kėdainių miesto
+    įgula gerokai išaugo (apie 200 sa-
+    vanorių), bet jai trūko ginklų.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-006
-
-- c-007
-  santrauka: Citatos parodo Kėdainius kaip savanorių gynybos ir pasiryžimo centrą.
+    - t-009
+- c-004
+  santrauka: 'Kėdainiuose J. Šarauskas buvo suorganizavęs savanorių būrį, o savanoriai buvo pasiryžę iš miesto nesitraukti.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
+    kepures su geltonomis juostomis ir trispal-
+    vius trikampius kairės rankovės antsiuvus).
     Tai pakėlė ūpą ir pasijutę stipresni, savano-
     riai vėl grįžo į Kėdainius, pasiryžę iš jų ne-
-    sitraukti nė žingsnio.
-  citata_rodoma: ''
+    sitraukti nė žingsnio. Vasario 7 d. anksti
+    ryte Kėdainių įgula iš Kauno gavo šau-
+    tuvų, šovinių ir rankinių granatų.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-006
+    - t-009
 
 ## Ryšiai
 ### Susiję objektai

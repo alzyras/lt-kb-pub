@@ -39,7 +39,7 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Formuluotė šiame pasakojime pateikiama kaip Pilėnų gynimo legendinė formulė.'
+  teiginys: '1336 m. kunigaikščio Margio vadovaujami lietuviai, nebegalėdami apsiginti, verčiau rinkosi žūti ugnyje, negu pasiduoti vokiečiams.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -47,7 +47,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Pilėnų gynimo legendinė formulė
+  santrauka: '1336 m. kunigaikščio Margio vadovaujami lietuviai, nebegalėdami apsiginti, verčiau rinkosi žūti ugnyje, negu pasiduoti vokiečiams.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kunigaikščio Margio vadovaujami lietuviai, kai matėsi nebeapsi-
@@ -63,6 +63,3 @@ tags:
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/Margis]]

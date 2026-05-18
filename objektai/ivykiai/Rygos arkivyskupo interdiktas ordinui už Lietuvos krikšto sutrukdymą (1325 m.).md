@@ -45,14 +45,14 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: '1325 m. iš Avinjono sugrįžęs Rygos arkivyskupas metė ordinui interdiktą už Lietuvos krikšto sutrukdymą.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Atidėjus krikšto klausimą, Gediminui svarbiausia buvo išlaikyti naujai sudarytą taiką.'
+- t-004
+  teiginys: 'Atidėjus krikšto klausimą, Gediminui rūpėjo naujai sudaryta taika.'
   pagrindžia:
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -65,26 +65,26 @@ Nenurodyta
   citata_originali: |
     Iš Avignono 1325 m. sugrįžęs Rygos arki­
     vyskupas metė ordinui interdiktą už Lietuvos krikšto sutrukdymą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: '1325 m. iš Avinjono sugrįžęs Rygos arkivyskupas metė ordinui interdiktą už Lietuvos krikšto sutrukdymą.'
+  santrauka: 'Atidėjus krikšto klausimą, Gediminui rūpėjo naujai sudaryta taika.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Krikšto klausimą atidėjus, Gediminui berūpėjo tik naujai su­
     darytoji taika.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004
 
 ## Ryšiai
 ### Laikotarpiai

@@ -31,13 +31,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Naudodamiesi sunkia Lenkijos būkle, Lietuvos atstovai 1673 m. seime išreikalavo iš lenkų priimti įstatymą, kad kas trečias seimas, kurio maršalka esti lietuvis, būtų šaukiamas Lietuvoje (Gardine).'
+  teiginys: '1673 m. seime Lietuvos atstovai išreikalavo įstatymo, kad kas trečias seimas, kurio maršalka lietuvis, būtų šaukiamas Gardine.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Naudodamiesi sunkia Lenkijos būkle, Lietuvos atstovai 1673 m. seime išreikalavo iš lenkų priimti įstatymą, kad kas trečias seimas, kurio maršalka esti lietuvis, būtų šaukiamas Lietuvoje (Gardine).'
+  santrauka: '1673 m. seime Lietuvos atstovai išreikalavo įstatymo, kad kas trečias seimas, kurio maršalka lietuvis, būtų šaukiamas Gardine.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Naudodamiesi sunkia Len-
@@ -45,11 +47,11 @@ Nenurodyta
     lavo iš lenkų priimti įstatymą, kad kas trečias
     seimas, kurio maršalka esti lietuvis, būtų
     šaukiamas Lietuvoje (Gardine).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

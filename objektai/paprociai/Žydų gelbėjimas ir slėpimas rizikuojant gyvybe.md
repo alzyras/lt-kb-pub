@@ -58,13 +58,13 @@ Nacių okupacijos metu dalis lietuvių visuomenės rizikuodama gyvybe padėjo ž
 - Praktika pateikiama kaip priešinga kolaboravimui ir smurtui Holokausto metu.
 
 ## Teiginiai
-- t-003
+- t-005
   teiginys: 'Dalis lietuvių visuomenės rizikuodama gyvybe bandė padėti žydams ir juos gelbėti.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-004
+- t-006
   teiginys: 'Už žydų gelbėjimą Pasaulio teisuoliais pripažinti 830 lietuvių, o jų sąrašas papildomas.'
   pagrindžia:
     - c-001
@@ -88,8 +88,8 @@ Nacių okupacijos metu dalis lietuvių visuomenės rizikuodama gyvybe padėjo ž
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
-    - t-004
+    - t-005
+    - t-006
 
 ## Šaltiniai ir įrodymai
 

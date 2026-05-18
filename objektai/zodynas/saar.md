@@ -18,21 +18,20 @@ tags: []
 # saar
 
 ## Teiginiai
-
-- t-001
-  teiginys: Saarai siejami su ordos valdovų kaita ir tarpusavio karais.
+- t-004
+  teiginys: 'Vytauto laikais Orda buvo suskilusi, o atskiri saarai nuolat kariavo tarpusavyje.'
   pagrindžia:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: Vytautas rėmė jam palankius saarus ir taip stiprino savo įtaką Ordoje.
+- t-005
+  teiginys: 'Vytautas apie 30 metų rėmė saarus ir sulaukė totorių tarpe sau visiškai paklusnių valdovų.'
   pagrindžia:
     - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: 1427 m. pradžioje tokių valdovų buvo dar penki.
+- t-006
+  teiginys: '1427 m. pradžioje buvo penki saarai, bet metų pabaigoje galutinai įsigalėjo Vytauto palaikomas Machmetas.'
   pagrindžia:
     - c-002
     - c-003
@@ -40,21 +39,22 @@ tags: []
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  santrauka: Saarai siejami su ordos valdovų kaita ir tarpusavio karais.
+  santrauka: 'Vytauto laikais Orda buvo suskilusi, o atskiri saarai nuolat kariavo tarpusavyje.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytauto
     laikais totorių valstybė kaip tik pergyveno krizį. Orda buvo
     suskilusi, atskiri „saarai“ vedė nuolatinius karus.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-004
 - c-002
-  santrauka: Vytautas rėmė jam palankius saarus ir taip stiprino savo įtaką Ordoje.
+  santrauka: 'Vytautas apie 30 metų rėmė saarus ir sulaukė totorių tarpe sau visiškai paklusnių valdovų.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Nuolat remdamas juos per 30 me­
@@ -63,14 +63,16 @@ tags: []
     1411 met., kada įsiviešpatavo Dželad-Eddinas, nė vienas jų,
     kaip sako „Vytauto panegirika”^4 ), „niekad nedrįso galingajam
     gaspadoriui pasipriešinti“.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-    - t-003
+    - t-005
+    - t-006
 - c-003
-  santrauka: 1427 m. pradžioje tokių valdovų buvo dar penki.
+  santrauka: '1427 m. pradžioje buvo penki saarai, bet metų pabaigoje galutinai įsigalėjo Vytauto palaikomas Machmetas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Buvo laikai, kad jo būklė būdavo labai kritiška. Iš karto atsi­
@@ -78,16 +80,15 @@ tags: []
     5), bet 1427 met. gale Vytauto palaikomasis Machmetas įsiga­
     lėjo galutinai. Jis suima savo valdžion visus Pavolgio, Juod­
     marių pakraščio ir Krymo totorius.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-006
 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
 - [[laikotarpiai/XV amžius]]
-
-### Susiję objektai
-- [[objektai/grupes/Krimo totoriai]]

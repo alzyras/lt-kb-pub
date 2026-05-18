@@ -32,13 +32,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Jo pastatytoji Klaipėdos pilis buvo atkirsta, ir su ja ordinas galėjo susisiekti tik jūra.'
+  teiginys: '1328 m. livoniškiai kryžiuočiai perdavė atkirstą Klaipėdos pilį Prūsijos kryžiuočiams.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Jo pastatytoji Klaipėdos pilis buvo atkirsta, ir su ja ordinas galėjo susisiekti tik jūra.'
+  santrauka: '1328 m. livoniškiai kryžiuočiai perdavė atkirstą Klaipėdos pilį Prūsijos kryžiuočiams.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jo pastatytoji Klaipėdos pilis
@@ -46,11 +48,11 @@ Nenurodyta
     1328 m., t. y. Gedimino laikais, livoniškiai kryžiuočiai perdavė ją
     Prūsijos kryžiuočiams, kurie tuo tarpu jau buvo užėmę visą pa-
     jūrį iki Klaipėdos ir įsitvirtinę Nemuno žemupy.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

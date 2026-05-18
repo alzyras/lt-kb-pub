@@ -25,7 +25,7 @@ LLKS Tarybos prezidiumo pirmininku išrinktas kadrinis kariškis Jonas Žemaitis
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: '1953 m. pavasarį agentai išdavė Joną Žemaitį-Vytautą, o po pusantrų metų tardymų jis buvo sušaudytas Maskvos Butyrkų kalėjime.'
+  teiginys: '1953 m. pavasarį agentai išdavė Joną Žemaitį-Vytautą, o po pusantrų metų tardymų jis sušaudytas Maskvos Butyrkų kalėjime.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -55,7 +55,7 @@ LLKS Tarybos prezidiumo pirmininku išrinktas kadrinis kariškis Jonas Žemaitis
   pagrindžia:
     - t-001
 - c-002
-  santrauka: '1953 m. pavasarį agentai išdavė Joną Žemaitį-Vytautą, o po pusantrų metų tardymų jis buvo sušaudytas Maskvos Butyrkų kalėjime.'
+  santrauka: '1953 m. pavasarį agentai išdavė Joną Žemaitį-Vytautą, o po pusantrų metų tardymų jis sušaudytas Maskvos Butyrkų kalėjime.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1953 m. pavasarį užverbuoti

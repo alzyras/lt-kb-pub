@@ -29,8 +29,8 @@ tags: []
 Formulė glaustai apibendrina Abiejų Tautų Respublikai priskiriamus XVII–XVIII a. civilizacinius fenomenus.
 
 ## Teiginiai
-- t-003
-  teiginys: 'Abiejų Tautų Respublikos XVII–XVIII a. reikšmingi fenomenai apibendrinami formule „duona, tolerancija, demokratija, konstitucija, barokas“.'
+- t-004
+  teiginys: 'Formulė „duona, tolerancija, demokratija, konstitucija, barokas“ apibendrino XVII–XVIII a. Abiejų Tautų Respublikos reikšmingus fenomenus.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -38,7 +38,7 @@ Formulė glaustai apibendrina Abiejų Tautų Respublikai priskiriamus XVII–XVI
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Abiejų Tautų Respublikos XVII–XVIII a. reikšmingi fenomenai apibendrinami formule „duona, tolerancija, demokratija, konstitucija, barokas“.'
+  santrauka: 'Formulė „duona, tolerancija, demokratija, konstitucija, barokas“ apibendrino XVII–XVIII a. Abiejų Tautų Respublikos reikšmingus fenomenus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Paprastai moksle laikoma, kad ši
@@ -51,7 +51,7 @@ Formulė glaustai apibendrina Abiejų Tautų Respublikai priskiriamus XVII–XVI
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-004
 
 ## Ryšiai
 ### Laikotarpiai

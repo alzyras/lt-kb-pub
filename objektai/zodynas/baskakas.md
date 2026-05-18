@@ -42,13 +42,13 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
 Žodis pasirodo XIV a. Kijevo ir Podolės valdžios santykių aprašyme.
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: '1331 m. šiame šaltinyje baskakas minimas kaip totorių pareigūnas šalia Kijevo kunigaikščio, Lietuvos vietininko.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Podolės pasakojime baskakai siejami su Ordos duoklės priėmimu.'
   pagrindžia:
     - c-002
@@ -58,49 +58,59 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Baskakas čia minimas kaip totorių pareigūnas greta Kijevo kunigaikščio, Lietuvos vietininko.
+  santrauka: '1331 m. šiame šaltinyje baskakas minimas kaip totorių pareigūnas šalia Kijevo kunigaikščio, Lietuvos vietininko.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    1331 m. šalia Kijevo kunigaikš-
+    Kryžiuočių ordinui, remiamam kryži-
+    ninkų, nuo 1328 m. atnaujinus Lietuvos
+    puolimus, Lietuva, atrodo, bus užmezgusi
+    kompromisinius santykius su Aukso orda,
+    kurios įtakoje, matyt, liko pietinė Kijevo
+    žemės dalis. 1331 m. šalia Kijevo kunigaikš-
     čio, Lietuvos vietininko, minimas ir totorių
     baskakas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: Baskakai šiame šaltinyje tiesiogiai siejami su Ordos renkama duokle.
+  santrauka: 'Podolės pasakojime baskakai siejami su Ordos duoklės priėmimu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
+    Podolės žemės tėvonys bei paveldėtojai“.
     Podolėje veikė jų paskirti atamanai, kurie
     nuo Podolės žemės duodavo duoklę at-
     vykstantiems Ordos baskakams.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004
 - c-003
-  santrauka: Baskakai čia dar kartą minimi kaip valdžios subjektai, kuriems atsisakoma mokėti duoklę.
+  santrauka: 'Podolės pasakojime baskakai siejami su Ordos duoklės priėmimu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Jie susidraugavę su
+    į vakarus nuo minėtos mūšio
+    vietos), kurioje nebuvo nė vie-
+    nos pilies. Jie susidraugavę su
     vietiniais atamanais, ėmė ginti
     Podolės žemę, neduoti duok-
 
-    lės jų baskakams.
-  citata_rodoma: ''
+    lės jų baskakams. Karijotaičiai
+    Podolėje pastatė Smotričo,
+    Bakotos, Kameneco pilis, už-
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004
 
 ## Pastabos
 

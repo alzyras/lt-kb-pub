@@ -244,3 +244,7 @@ tags: []
 - `people` kategorijoje `quote_not_found` sankaupa labai didelė, nes į sujungimą pateko daug vienvardžių, silpnų varianto formų ir to paties asmens kartotinių aptikimų iš skirtingų gabalų.
 - `customs` ir `sayings` kategorijose dalis `no_quote` bei `ambiguous` atvejų yra antraštiniai, reklaminiai ar formuliniai pėdsakai, kurie turi likti tik kaip atradimo užuominos.
 - `sources`, `groups`, `places`, `events` ir `vocabulary` turi pakankamai patvirtintų kūno citatų potencialą viešam integravimui.
+
+## Teiginiai
+
+## Reikšmingi paminėjimai

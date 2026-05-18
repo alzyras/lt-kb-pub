@@ -18,38 +18,24 @@ Ypač daug tenka nukentėti Tilžėje gyvenančiam rašytojui filosofui Vydūnui
 
 ## Teiginiai
 - t-001
-  teiginys: 'Ypač daug tenka nukentėti Tilžėje gyvenančiam rašytojui filosofui Vydūnui, kuris vadovauja vietos lietuviams.'
+  teiginys: 'Tilžėje gyvenęs rašytojas filosofas Vydūnas vadovavo vietos lietuviams ir dėl to daug nukentėjo.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Vydūnas (Vilius Storasta).'
-  pagrindžia:
-    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Ypač daug tenka nukentėti Tilžėje gyvenančiam rašytojui filosofui Vydūnui, kuris vadovauja vietos lietuviams.'
+  santrauka: 'Tilžėje gyvenęs rašytojas filosofas Vydūnas vadovavo vietos lietuviams ir dėl to daug nukentėjo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ypač daug
     tenka nukentėti Tilžėje gyvenančiam rašytojui filosofui Vydūnui,
     kuris vadovauja vietos lietuviams.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Vydūnas (Vilius Storasta).'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Vydūnas (Vilius Storasta).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002

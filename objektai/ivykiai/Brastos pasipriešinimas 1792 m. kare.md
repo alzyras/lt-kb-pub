@@ -31,13 +31,13 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Liepos pabaigoje gynyba jau telkėsi prie Brastos, bet kaip tik tuo metu – liepos 24 dieną atėjo žinia iš Varšuvos apie Stanislovo Augusto kapituliaciją ir prisijungimą prie Targovicos konfederacijos.'
+  teiginys: '1792 m. liepos pabaigoje gynyba telkėsi prie Brastos, kai liepos 24 d. atėjo žinia apie Stanislovo Augusto kapituliaciją ir prisijungimą prie Targovicos konfederacijos.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'LDK kariuomenė turėjo daug sunkumų su karo vadais (kitaip nei Lenkijos kariuomenė Ukrainoje, kuriai vadovavo Juzefas Poniatovskis), nebuvo iki galo pasirengusi karui, tačiau pasipriešino prie Myro, Brastoje ir be didesnių nuostolių atsitraukė prie Varšuvos.'
+  teiginys: 'LDK kariuomenė, stokodama pasirengimo ir patirdama vadovavimo sunkumų, pasipriešino prie Myro ir Brastoje, o paskui atsitraukė prie Varšuvos.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -45,7 +45,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Liepos pabaigoje gynyba jau telkėsi prie Brastos, bet kaip tik tuo metu – liepos 24 dieną atėjo žinia iš Varšuvos apie Stanislovo Augusto kapituliaciją ir prisijungimą prie Targovicos konfederacijos.'
+  santrauka: '1792 m. liepos pabaigoje gynyba telkėsi prie Brastos, kai liepos 24 d. atėjo žinia apie Stanislovo Augusto kapituliaciją ir prisijungimą prie Targovicos konfederacijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Liepos pabaigoje
@@ -60,7 +60,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'LDK kariuomenė turėjo daug sunkumų su karo vadais (kitaip nei Lenkijos kariuomenė Ukrainoje, kuriai vadovavo Juzefas Poniatovskis), nebuvo iki galo pasirengusi karui, tačiau pasipriešino prie Myro, Brastoje ir be didesnių nuostolių atsitraukė prie Varšuvos.'
+  santrauka: 'LDK kariuomenė, stokodama pasirengimo ir patirdama vadovavimo sunkumų, pasipriešino prie Myro ir Brastoje, o paskui atsitraukė prie Varšuvos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     LDK kariuomenė turėjo daug sunkumų su karo

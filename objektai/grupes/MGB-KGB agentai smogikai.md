@@ -19,7 +19,7 @@ Tuo laikotarpiu okupacinė valdžia kovai su partizanais vis dažniau naudojo ag
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tuo laikotarpiu okupacinė valdžia kovai su partizanais vis dažniau naudojo agentų smogikų (mišrius iš užverbuotų buvusių partizanų ir MGB kadrinių karininkų) būrius.'
+  teiginys: 'Okupacinė valdžia kovai su partizanais vis dažniau naudojo agentų smogikų būrius, sudarytus iš užverbuotų buvusių partizanų ir MGB karininkų.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -33,7 +33,7 @@ Tuo laikotarpiu okupacinė valdžia kovai su partizanais vis dažniau naudojo ag
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tuo laikotarpiu okupacinė valdžia kovai su partizanais vis dažniau naudojo agentų smogikų (mišrius iš užverbuotų buvusių partizanų ir MGB kadrinių karininkų) būrius.'
+  santrauka: 'Okupacinė valdžia kovai su partizanais vis dažniau naudojo agentų smogikų būrius, sudarytus iš užverbuotų buvusių partizanų ir MGB karininkų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tuo laikotarpiu okupacinė valdžia kovai su partizanais

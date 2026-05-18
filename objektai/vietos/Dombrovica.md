@@ -18,22 +18,24 @@ III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje, Dombrovicoje, Liub
 
 ## Teiginiai
 - t-001
-  teiginys: 'III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje, Dombrovicoje, Liubešave ir Žuravicuose.'
+  teiginys: 'Brastos apygardoje mokyklų buvo ir Dombrovicoje.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje, Dombrovicoje, Liubešave ir Žuravicuose.'
+  santrauka: 'Brastos apygardoje mokyklų buvo ir Dombrovicoje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje,
     Dombrovicoje, Liubešave ir Žuravicuose. IV Kražių apygar-
     doje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmergėje.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

@@ -1,16 +1,18 @@
 ---
 tipas: asmuo
-pavadinimas: 'Oskaras Milašius'
+pavadinimas: 'Oskaras Milašius (poetas)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Oskaras Milašius'
+aliases:
+  - 'Oskaras Milašius'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
 ---
-# Oskaras Milašius
+# Oskaras Milašius (poetas)
 
 ## Santrauka
 
@@ -18,7 +20,7 @@ Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Oskaras Milašius buvo beveik kiekvienam prancūzui žinomas poetas.'
+  teiginys: 'Oskaras Milašius tapo beveik kiekvienam prancūzui žinomu poetu.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -26,7 +28,7 @@ Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis 
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Oskaras Milašius buvo beveik kiekvienam prancūzui žinomas poetas.'
+  santrauka: 'Oskaras Milašius tapo beveik kiekvienam prancūzui žinomu poetu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     O beveik

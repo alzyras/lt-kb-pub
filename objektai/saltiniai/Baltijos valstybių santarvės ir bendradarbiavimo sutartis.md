@@ -20,7 +20,7 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Atkūrus Baltijos valstybių santarvės ir bendradarbiavimo sutartį buvo įkurta Baltijos Valstybių Taryba.'
+  teiginys: 'Baltijos valstybių santarvės ir bendradarbiavimo sutartis buvo susijusi su Baltijos Valstybių Tarybos įkūrimu.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -30,7 +30,7 @@ tags:
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Atkūrus Baltijos valstybių santarvės ir bendradarbiavimo sutartį buvo įkurta Baltijos Valstybių Taryba.'
+  santrauka: 'Baltijos valstybių santarvės ir bendradarbiavimo sutartis buvo susijusi su Baltijos Valstybių Tarybos įkūrimu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Baltijos valstybių santarvės ir bendradarbiavimo

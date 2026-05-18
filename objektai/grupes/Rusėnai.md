@@ -21,7 +21,7 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lietuvos valdovų valstybės pakraščiuose, rusėnų ir žemaičių gyvenamose teritorijose, galėjo būti įkurdinti ištikimi žmonės iš Lietuvos.'
+  teiginys: 'Rusėnų ir žemaičių gyvenamose valstybės pakraščių teritorijose galėjo būti įkurdinti ištikimi žmonės iš Lietuvos.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -51,7 +51,7 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-006
-  teiginys: 'Pranciškus Skorina buvo kilęs iš rusėnų kultūrinės aplinkos ir laikomas pirmuoju Lietuvos spaustuvininku.'
+  teiginys: 'Pranciškus Skorina kilo iš rusėnų kultūrinės aplinkos ir buvo pirmasis Lietuvos spaustuvininkas.'
   pagrindžia:
     - c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -59,7 +59,7 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lietuvos valdovų valstybės pakraščiuose, rusėnų ir žemaičių gyvenamose teritorijose, galėjo būti įkurdinti ištikimi žmonės iš Lietuvos.'
+  santrauka: 'Rusėnų ir žemaičių gyvenamose valstybės pakraščių teritorijose galėjo būti įkurdinti ištikimi žmonės iš Lietuvos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Grindžiama
@@ -135,7 +135,7 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   pagrindžia:
     - t-005
 - c-006
-  santrauka: 'Pranciškus Skorina buvo kilęs iš rusėnų kultūrinės aplinkos ir laikomas pirmuoju Lietuvos spaustuvininku.'
+  santrauka: 'Pranciškus Skorina kilo iš rusėnų kultūrinės aplinkos ir buvo pirmasis Lietuvos spaustuvininkas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustu-

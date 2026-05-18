@@ -39,7 +39,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Nuo rugsėjo 16 d. greta biuletenio „Sąjūdžio žinios“ pradėtas leisti laikraštis „Atgimimas“, redaguotas Romualdo Ozolo.'
+  teiginys: 'Rugsėjo 16 d. pradėtas leisti laikraštis „Atgimimas“, kurį redagavo Romualdas Ozolas.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -47,7 +47,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Nuo rugsėjo 16 d. greta biuletenio „Sąjūdžio žinios“ pradėtas leisti laikraštis „Atgimimas“, redaguotas Romualdo Ozolo.'
+  santrauka: 'Rugsėjo 16 d. pradėtas leisti laikraštis „Atgimimas“, kurį redagavo Romualdas Ozolas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     LPS tapo dar populiaresnis,

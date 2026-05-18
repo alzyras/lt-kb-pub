@@ -47,7 +47,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Sąjūdžio ženklą su Gedimino stulpais sukūrė Giedrius Reimeris ir Algimantas Nasvytis.'
+  teiginys: 'Sąjūdžio ženklą su Gedimino stulpais sukūrė dailininkai Giedrius Reimeris ir Algimantas Nasvytis.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -55,7 +55,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Sąjūdžio ženklą su Gedimino stulpais sukūrė Giedrius Reimeris ir Algimantas Nasvytis.'
+  santrauka: 'Sąjūdžio ženklą su Gedimino stulpais sukūrė dailininkai Giedrius Reimeris ir Algimantas Nasvytis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A

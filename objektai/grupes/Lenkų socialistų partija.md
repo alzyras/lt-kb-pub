@@ -24,7 +24,7 @@ tags:
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Kitokio požiūrio į Lietuvos perspektyvas laikėsi iš etninės Lietuvos kilusio Juzefo Pilsudskio (Józef Piłsudski) vadovaujama Lenkų socialistų partija.'
+  teiginys: 'Lenkų socialistų partijai vadovavo iš etninės Lietuvos kilęs Juzefas Pilsudskis.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -49,7 +49,7 @@ tags:
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Kitokio požiūrio į Lietuvos perspektyvas laikėsi iš etninės Lietuvos kilusio Juzefo Pilsudskio (Józef Piłsudski) vadovaujama Lenkų socialistų partija.'
+  santrauka: 'Lenkų socialistų partijai vadovavo iš etninės Lietuvos kilęs Juzefas Pilsudskis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kitokio požiūrio į Lietuvos perspektyvas laikėsi iš etninės Lietuvos kilu-

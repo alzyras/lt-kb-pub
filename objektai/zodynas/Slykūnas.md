@@ -21,19 +21,19 @@ Pagrindinė forma: `slykūnas`.
 Vartojamos formos: `smakas`.
 
 ## Teiginiai
-- t-001
+- t-004
   teiginys: '`Slykūnas` šiame tekste reiškia slibiną ar pabaisą.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-005
   teiginys: '`Smakas` vartojamas kaip to paties baisaus padaro vardas.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-003
+- t-006
   teiginys: 'Padaras siejamas su nedorėlių svaidymu ir žmonių bei gyvulių rijimu.'
   pagrindžia:
     - c-001
@@ -43,7 +43,7 @@ Vartojamos formos: `smakas`.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Slykūnas` šiame tekste reiškia slibiną ar pabaisą
+  santrauka: '`Slykūnas` šiame tekste reiškia slibiną ar pabaisą.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Pakalnėj to kalno gulėjęs baisus slykūnas“, arba smakas^708 , kurs
@@ -54,11 +54,11 @@ Vartojamos formos: `smakas`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
-    - t-003
+    - t-004
+    - t-005
+    - t-006
 - c-002
-  santrauka: Padaras siejamas su nedorėlių svaidymu ir žmonių bei gyvulių rijimu
+  santrauka: 'Padaras siejamas su nedorėlių svaidymu ir žmonių bei gyvulių rijimu.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Nesgi Jorė atėjusi paveikia badą, kursai
@@ -70,7 +70,7 @@ Vartojamos formos: `smakas`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-006
 
 ## Pastabos
 

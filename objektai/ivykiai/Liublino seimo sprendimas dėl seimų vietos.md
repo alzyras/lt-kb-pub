@@ -32,21 +32,23 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Seimų vieta.'
+  teiginys: 'Liublino seimas seimų vieta paskyrė Varšuvą arba kitą Lenkijos miestą.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Seimų vieta.'
+  santrauka: 'Liublino seimas seimų vieta paskyrė Varšuvą arba kitą Lenkijos miestą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Seimų vieta.** Liublino seimas seimų vieta paskyrė Varšuvą
     arba kurį nors kitą Lenkijos miestą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

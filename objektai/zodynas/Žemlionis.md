@@ -22,19 +22,19 @@ Pagrindinė forma: `žemlionis`.
 Vartojamos formos: `žemlioniu`, `žemlionys`, `žemlionų`.
 
 ## Teiginiai
-- t-001
+- t-004
   teiginys: 'žemlionis yra žmogus, kuris žemę yra sau pragyvenęs.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-005
   teiginys: '`Žemlionys` šiame tekste reiškia kareivius ar karo sluoksnį.'
   pagrindžia:
     - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-003
+- t-006
   teiginys: 'Jie siejami su karės vėliava ir pilies valdžia.'
   pagrindžia:
     - c-002
@@ -44,7 +44,7 @@ Vartojamos formos: `žemlioniu`, `žemlionys`, `žemlionų`.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: žemlionis yra žmogus, kuris žemę yra sau pragyvenęs
+  santrauka: 'žemlionis yra žmogus, kuris žemę yra sau pragyvenęs.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Jei toksai kiemas,
@@ -56,9 +56,9 @@ Vartojamos formos: `žemlioniu`, `žemlionys`, `žemlionų`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-004
 - c-002
-  santrauka: `Žemlionys` šiame tekste reiškia kareivius ar karo sluoksnį
+  santrauka: '`Žemlionys` šiame tekste reiškia kareivius ar karo sluoksnį.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Pakajui esant, kunigai ūkę rėdė, bet, kėlusis didelėms karėms su svetimomis tautomis, į kurias visai
@@ -74,10 +74,10 @@ Vartojamos formos: `žemlioniu`, `žemlionys`, `žemlionų`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-    - t-003
+    - t-005
+    - t-006
 - c-003
-  santrauka: Jie siejami su karės vėliava ir pilies valdžia
+  santrauka: 'Jie siejami su karės vėliava ir pilies valdžia.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     ponas, kurs pilį valdė, jo pripadėtoju buvo angininkas, kurs raktus angos pilies saugojo; karūžasis^1061 ,
@@ -90,7 +90,7 @@ Vartojamos formos: `žemlioniu`, `žemlionys`, `žemlionų`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-006
 
 ## Pastabos
 

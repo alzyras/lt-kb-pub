@@ -30,23 +30,7 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'derybų Polianovos kaime (tarp Viazmos ir Dorogobužo) buvo padaryta amžinoji taika.'
-  pagrindžia:
-    - c-001
+Nenurodyta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'derybų Polianovos kaime (tarp Viazmos ir Dorogobužo) buvo padaryta amžinoji taika.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Po 11 / 2 mėn. derybų Poliano-
-    vos kaime (tarp Viazmos ir Dorogobužo) buvo padaryta am-
-    žinoji taika.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: žemas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
+Nenurodyta

@@ -52,7 +52,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Sausio 12-osios vakare žmonės rinkosi budėti prie parlamento, Lietuvos radijo ir televizijos bei televizijos bokšto.'
+  teiginys: 'Sausio 12-osios vakare, Atkuriamojo Seimo vadovybei pakvietus, žmonės rinkosi budėti prie parlamento, Lietuvos radijo ir televizijos bei televizijos bokšto.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -60,7 +60,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Sausio 12-osios vakare žmonės rinkosi budėti prie parlamento, Lietuvos radijo ir televizijos bei televizijos bokšto.'
+  santrauka: 'Sausio 12-osios vakare, Atkuriamojo Seimo vadovybei pakvietus, žmonės rinkosi budėti prie parlamento, Lietuvos radijo ir televizijos bei televizijos bokšto.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A

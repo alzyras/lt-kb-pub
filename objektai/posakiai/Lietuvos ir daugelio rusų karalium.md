@@ -36,8 +36,8 @@ tags:
 - Rex lithuanorum et multorum ruthenorum
 
 ## Teiginiai
-- t-001
-  teiginys: 'Formuluotė šiame pasakojime pateikiama kaip Gedimino savititulatūros formulė.'
+- t-002
+  teiginys: 'Gediminas raštuose save titulavo Lietuvos ir daugelio rusų karaliumi.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -45,7 +45,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Gedimino savititulatūros formulė
+  santrauka: 'Gediminas raštuose save titulavo Lietuvos ir daugelio rusų karaliumi.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     O kadangi tuo tarpu dar jos visõs nebuvo
@@ -58,4 +58,4 @@ tags:
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

@@ -33,32 +33,36 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Nesutikimai, kilę po Zigmanto mirties, teturėjo tam tikrų padarinių tik Žemaičiams: konkurentų kovų metu jie išgavo iš Kazimiero privilegiją, kuri apdraudė visas jų teises ir visiems laikams laidavo jiems savotišką vidaus tvarkymąsi.'
+  teiginys: 'Po Zigmanto mirties kilusių kovų metu žemaičiai iš Kazimiero išgavo privilegiją, laidavusią jų teises ir savitą vidaus tvarkymąsi.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Ta privilegija patvirtino visas Vytauto laikais jų turėtąsias teises ir garantavo, kad savo krašto seniūną jie patys sau rinksis, o didysis kunigaikštis jį tik tvirtins.'
+  teiginys: 'Žemaičių kunigaikštystės privilegija patvirtino Vytauto laikų žemaičių teises ir garantavo, kad krašto seniūną jie rinksis patys.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Nesutikimai, kilę po Zigmanto mirties, teturėjo tam tikrų padarinių tik Žemaičiams: konkurentų kovų metu jie išgavo iš Kazimiero privilegiją, kuri apdraudė visas jų teises ir visiems laikams laidavo jiems savotišką vidaus tvarkymąsi.'
+  santrauka: 'Po Zigmanto mirties kilusių kovų metu žemaičiai iš Kazimiero išgavo privilegiją, laidavusią jų teises ir savitą vidaus tvarkymąsi.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Nesutikimai, kilę po Zigmanto mirties, teturėjo tam tikrų
     padarinių tik Žemaičiams: konkurentų kovų metu jie išgavo
     iš Kazimiero privilegiją, kuri apdraudė visas jų teises ir visiems
     laikams laidavo jiems savotišką vidaus tvarkymąsi.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Ta privilegija patvirtino visas Vytauto laikais jų turėtąsias teises ir garantavo, kad savo krašto seniūną jie patys sau rinksis, o didysis kunigaikštis jį tik tvirtins.'
+  santrauka: 'Žemaičių kunigaikštystės privilegija patvirtino Vytauto laikų žemaičių teises ir garantavo, kad krašto seniūną jie rinksis patys.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ta privilegija patvirtino visas Vytauto laikais jų tu-
@@ -69,17 +73,14 @@ Nenurodyta
     buvo tam tikra našta gyventojams). Pagaliau jiems buvo leista
     laisvai medžioti ir žūklauti ten pat, kur ir anksčiau medžiodavo
     ir žūklaudavo.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/privilegija]]
-
-### Susiję objektai
-- [[objektai/paprociai/Žemaičių savivalda ir seniūno rinkimasis]]

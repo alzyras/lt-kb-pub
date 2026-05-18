@@ -19,43 +19,27 @@ Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo ch
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo chanatas (Perekopu vadinosi jų sostinės pilis).'
+  teiginys: 'Auksinei Ordai suskilus, Krime atsirado Perekopo chanatas, kurio pavadinimas siejamas su sostinės pilimi Perekopu.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Sudaręs sąjungą su Krimo chanu, jis jautėsi gana stiprus; maža to, jis ragino chaną pulti Lietuvą.'
-  pagrindžia:
-    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo chanatas (Perekopu vadinosi jų sostinės pilis).'
+  santrauka: 'Auksinei Ordai suskilus, Krime atsirado Perekopo chanatas, kurio pavadinimas siejamas su sostinės pilimi Perekopu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo metu totorių Auksinė Orda suskilo, ir Krime atsi-
     rado kitas — Perekopo chanatas (Perekopu vadinosi jų sosti-
     nės pilis).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Sudaręs sąjungą su Krimo chanu, jis jautėsi gana stiprus; maža to, jis ragino chaną pulti Lietuvą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Sudaręs
-    sąjungą su Krimo chanu, jis jautėsi gana stiprus; maža to, jis
-    ragino chaną pulti Lietuvą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai

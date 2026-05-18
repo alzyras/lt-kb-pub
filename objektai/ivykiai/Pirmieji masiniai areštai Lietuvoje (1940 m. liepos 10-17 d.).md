@@ -42,7 +42,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: '1940 m. liepos 6 d. A. Sniečkus išleido įsakymą, leidusį suimti agituojančiuosius prieš Liaudies vyriausybę.'
+  teiginys: '1940 m. liepos 6 d. Valstybės saugumo departamento direktorius A. Sniečkus leido suimti agituojančiuosius prieš Liaudies vyriausybę.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -50,7 +50,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1940 m. liepos 6 d. A. Sniečkus išleido įsakymą, leidusį suimti agituojančiuosius prieš Liaudies vyriausybę.'
+  santrauka: '1940 m. liepos 6 d. Valstybės saugumo departamento direktorius A. Sniečkus leido suimti agituojančiuosius prieš Liaudies vyriausybę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Represijos ir 1941 metų

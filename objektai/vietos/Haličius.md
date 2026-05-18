@@ -18,22 +18,24 @@ Lenkų rungtynės su Lietuva dabartinės Ukrainos žemėse (Voluinėje, Haličiu
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lenkų rungtynės su Lietuva dabartinės Ukrainos žemėse (Voluinėje, Haličiuje, Podolėje) išėjo jiems į nenaudą.'
+  teiginys: 'Liudvikui valdant, lenkai prarado Haličių, kuris atiteko Vengrijai.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lenkų rungtynės su Lietuva dabartinės Ukrainos žemėse (Voluinėje, Haličiuje, Podolėje) išėjo jiems į nenaudą.'
+  santrauka: 'Liudvikui valdant, lenkai prarado Haličių, kuris atiteko Vengrijai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lenkų rungtynės su Lietuva dabartinės Ukrainos žemėse
     (Voluinėje, Haličiuje, Podolėje) išėjo jiems į nenaudą. Liudvikui
     valdant, jie prarado ir Haličių, kuris atiteko Vengrijai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

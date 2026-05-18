@@ -41,13 +41,13 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: 'Ubladėje buvo duonkepis kakalys, kuriame kepdavo duoną, pyragus, žuvis ir mėsas.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Šalip ubladės buvo kamarėlė, kurioje laikydavo miltų ruošimo įrankius ir pačius miltus.'
   pagrindžia:
     - c-002
@@ -56,7 +56,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Ubladėje buvo duonkepis kakalys, kuriame kepdavo duoną, pyragus, žuvis ir mėsas.
+  santrauka: 'Ubladėje buvo duonkepis kakalys, kuriame kepdavo duoną, pyragus, žuvis ir mėsas.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Šeštasis trobesys vadinamas buvo ublade, kurioje buvo^ duonkepis kakalys, nuo to
@@ -70,9 +70,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: Šalip ubladės buvo kamarėlė, kurioje laikydavo miltų ruošimo įrankius ir pačius miltus.
+  santrauka: 'Šalip ubladės buvo kamarėlė, kurioje laikydavo miltų ruošimo įrankius ir pačius miltus.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Šalip tos ubladės po vienu stogu buvo kamarėlė,
@@ -84,4 +84,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004

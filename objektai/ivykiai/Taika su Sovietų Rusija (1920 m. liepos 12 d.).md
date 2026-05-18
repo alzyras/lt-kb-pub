@@ -31,24 +31,26 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Taika su Sovietų Rusija buvo pasirašyta 1920 metų liepos mėn.'
+  teiginys: 'Taika su Sovietų Rusija buvo pasirašyta 1920 m. liepos 12 d. Maskvoje.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Taika su Sovietų Rusija buvo pasirašyta 1920 metų liepos mėn.'
+  santrauka: 'Taika su Sovietų Rusija buvo pasirašyta 1920 m. liepos 12 d. Maskvoje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Taika su Sovietų Rusija buvo pasirašyta 1920 metų liepos
     mėn. 12 d. Maskvoje. Rusija pripažino Lietuvos atsiskyrimą
     ir visišką jos nepriklausomybę lietuvių gyvenamoje teritorijoje
     su Vilniaus sostine ir Gardinu.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

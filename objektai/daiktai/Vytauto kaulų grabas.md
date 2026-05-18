@@ -32,23 +32,7 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Malinauskas, kurs švenčiausiai tiki Vytauto kaulus tebesant ir kuris iš padavimo numano, kur jie galėtų būti, — surinkęs aukų, padirbdino puikų grabą Vytauto kaulams sudėti,.'
-  pagrindžia:
-    - c-001
+Nenurodyta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Malinauskas, kurs švenčiausiai tiki Vytauto kaulus tebesant ir kuris iš padavimo numano, kur jie galėtų būti, — surinkęs aukų, padirbdino puikų grabą Vytauto kaulams sudėti,.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    D. Malinauskas, kurs švenčiausiai tiki Vytauto kaulus tebesant ir kuris iš padavimo numano, kur jie
-      galėtų būti, — surinkęs aukų, padirbdino puikų grabą Vytauto kau-
-      lams sudėti,
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
+Nenurodyta

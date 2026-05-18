@@ -41,19 +41,13 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-004
   teiginys: 'XV a. pabaigoje - XVI a. pradžioje Lietuvoje ir Lenkijoje susiformavo ilgam tradicine tapusi kovinė rikiuotė.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Mūšio centre dviem ešelonais buvo rikiuojamos sunkiųjų raitelių vėliavos, o lengvoji raitija veikdavo sparnuose.'
-  pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-003
+- t-005
   teiginys: 'XVI a. antrojoje pusėje tarp sunkiosios ir lengvosios kavalerijos pradėti rikiuoti pėstininkai bei artilerija.'
   pagrindžia:
     - c-002
@@ -62,7 +56,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: XV a. pabaigoje - XVI a. pradžioje Lietuvoje ir Lenkijoje susiformavo ilgam tradicine tapusi kovinė rikiuotė.
+  santrauka: 'XV a. pabaigoje - XVI a. pradžioje Lietuvoje ir Lenkijoje susiformavo ilgam tradicine tapusi kovinė rikiuotė.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Xv a. pabaigoje - xvI a. pradžioje susiformavo kovinė rikiuotė, kuri
@@ -78,9 +72,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-004
 - c-002
-  santrauka: Mūšio centre dviem ešelonais buvo rikiuojamos sunkiųjų raitelių vėliavos, o lengvoji raitija veikdavo sparnuose.
+  santrauka: 'XVI a. antrojoje pusėje tarp sunkiosios ir lengvosios kavalerijos pradėti rikiuoti pėstininkai bei artilerija.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tuo metu pėstininkų ir artilerijos vaidmuo mūšio lauke dar ne-
@@ -96,5 +90,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-    - t-003
+    - t-005

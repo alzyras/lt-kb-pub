@@ -21,7 +21,7 @@ MGB Valstybės saugumo ministerija (SSRS). Visuotinį šio karo mastą rodo okup
 
 ## Teiginiai
 - t-001
-  teiginys: '1944–1953 m. MGB organai sunaikino 2 353 partizanų grupes, nukovė 20 000 partizanų ir suėmė 19 000 žmonių.'
+  teiginys: 'MGB organai sunaikino 2 353 partizanų grupes, nukovė 20 000 partizanų ir suėmė 19 000 žmonių.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -29,7 +29,7 @@ MGB Valstybės saugumo ministerija (SSRS). Visuotinį šio karo mastą rodo okup
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1944–1953 m. MGB organai sunaikino 2 353 partizanų grupes, nukovė 20 000 partizanų ir suėmė 19 000 žmonių.'
+  santrauka: 'MGB organai sunaikino 2 353 partizanų grupes, nukovė 20 000 partizanų ir suėmė 19 000 žmonių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     MGB organai sunaikino 2 353 partizanų

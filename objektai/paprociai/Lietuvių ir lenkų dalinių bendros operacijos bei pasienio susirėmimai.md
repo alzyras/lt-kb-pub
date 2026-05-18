@@ -41,25 +41,25 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-005
   teiginys: 'Kartais atskiri lietuvių ir lenkų daliniai surengdavo bendras operacijas prieš rusus.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-002
+- t-006
   teiginys: 'Lenkų daliniai dažnai puldinėjo lietuvių teritoriją nuo Nemuno pietuose iki Zarasų šiaurėje.'
   pagrindžia:
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-003
+- t-007
   teiginys: '1919 m. rudenį lenkų daliniai sistemingai puldinėjo kelių Lietuvos apskričių vietoves.'
   pagrindžia:
     - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-004
+- t-008
   teiginys: 'Provokacijos ir smulkūs lenkų bei lietuvių susirėmimai tęsėsi iki 1920 m. balandžio.'
   pagrindžia:
     - c-003
@@ -68,10 +68,10 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Kartais atskiri lietuvių ir lenkų daliniai surengdavo bendras operacijas prieš rusus.
+  santrauka: 'Kartais atskiri lietuvių ir lenkų daliniai surengdavo bendras operacijas prieš rusus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Tiek lietuvių, tiek ir lenkų pajėgos kovojo su bolševikais, kartais
+    | Tiek lietuvių, tiek ir lenkų pajėgos kovojo su bolševikais, kartais
     atskiri lietuvių ir lenkų daliniai net surengdavo bendras operacijas
     prieš rusus. Tačiau lenkai ėmė dažnai puldinėti lietuvių teritoriją
     įvairiose vietose - nuo Nemuno pietuose iki Zarasų šiaurėje. Sutelkę
@@ -83,9 +83,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-005
 - c-002
-  santrauka: Lenkų daliniai dažnai puldinėjo lietuvių teritoriją nuo Nemuno pietuose iki Zarasų šiaurėje.
+  santrauka: 'Lenkų daliniai dažnai puldinėjo lietuvių teritoriją nuo Nemuno pietuose iki Zarasų šiaurėje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1919 m. rudenį pagrindinėms Lietuvos pajėgoms kovojant su
@@ -99,12 +99,16 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-006
 - c-003
-  santrauka: 1919 m. rudenį lenkų daliniai sistemingai puldinėjo kelių Lietuvos apskričių vietoves.
+  santrauka: '1919 m. rudenį lenkų daliniai sistemingai puldinėjo kelių Lietuvos apskričių vietoves.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Įvairios
+    1920 m. vasario 22-23 d. Kaune kilo bolše-
+    vikų sukurstytas maištas, jo pergalė būtų įrodžiusi Lenkijos tarptautinę
+    poziciją, kad Lietuvos vyriausybė yra prokomunistinė ir leidusi pulti
+    Lietuvą atvira karine jėga. Tačiau Lietuvos vyriausybė maištą numal-
+    Sino ir lenkai prarado pretekstą atviram Kauno puolimui. Įvairios
     provokacijos ir smulkūs susirėmimai tarp lenkų ir lietuvių, nepaisant
     to, vyko iki pat 1920 m. balandžio, kai lenkai pradėjo stambų puolimą
     rytuose prieš bolševikus, sutelkdami visas kovingas pajėgas prieš rusus.
@@ -114,5 +118,5 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
-    - t-004
+    - t-007
+    - t-008

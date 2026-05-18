@@ -38,34 +38,22 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
 - Minimas tarp Vilniaus lietuvių politinio organizavimo veikėjų.
 
 ## Teiginiai
-- t-001
+- t-007
   teiginys: 'P. Klimas parašė veikalo dalį apie nepriklausomosios valstybės atstatymą ir gyvenimą.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'P. Klimas parašė _Liet. senobės bruožai_.'
+- t-008
+  teiginys: 'P. Klimas buvo Vykdomojo Komiteto biuro narys, kai biuras išsirūpino leidimą sušaukti platesnei konferencijai.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-005
-  teiginys: 'P. Klimas buvo Vykdomojo Komiteto biuro narys.'
-  pagrindžia:
-    - c-005
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-006
-  teiginys: 'P. Klimas buvo Lietuvos Tarybos narys.'
-  pagrindžia:
-    - c-006
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: P. Klimas parašė veikalo dalį apie nepriklausomosios valstybės atstatymą ir gyvenimą
+  santrauka: 'P. Klimas parašė veikalo dalį apie nepriklausomosios valstybės atstatymą ir gyvenimą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo būdu p. J. Jakštas parašė apie pirmąjį mūsų
@@ -75,103 +63,29 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
     sios valstybės galo; p. P. Šležas parašė apie rusų valdymo lai-
     kus, o p. P. Klimas — apie nepriklausomosios valstybės atsta-
     tymą ir nepriklausomojo gyvenimo laikotarpį.
-  citata_rodoma: |
-    Tuo būdu p. J. Jakštas parašė apie pirmąjį mūsų tautos valstybinio gyvenimo laikotarpį, iki krikščioniškųjų laikų pradžios, dr. Z. Ivinskis — apie sekantį laikotarpį, iki Gediminaičių dinastijos galo; man teko tęsinys — iki nepriklausomosios valstybės galo; p. P. Šležas parašė apie rusų valdymo laikus, o p. P. Klimas — apie nepriklausomosios valstybės atstatymą ir nepriklausomojo gyvenimo laikotarpį.
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-007
 - c-002
-  santrauka: P. Klimas parašė _Liet. senobės bruožai_
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    _P. Klimas,_
-    Liet. senobės bruožai (1919); _H. Lowmiański,_ Studja nad początkami społe-
-  citata_rodoma: |
-    P. Klimas, Liet. senobės bruožai (1919);
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-005
-  santrauka: P. Klimas buvo Vykdomojo Komiteto biuro narys
+  santrauka: 'P. Klimas buvo Vykdomojo Komiteto biuro narys, kai biuras išsirūpino leidimą sušaukti platesnei konferencijai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vykdomasis Komiteto
     biuras (A. Smetona, J. Šaulys, kun. Stankevičius, M. Biržiška ir
     P. Klimas) po to išsirūpino leidimą sušaukti platesnei konferen-
     cijai.
-  citata_rodoma: |
-    Vykdomasis Komiteto biuras (A. Smetona, J. Šaulys, kun. Stankevičius, M. Biržiška ir P. Klimas) po to išsirūpino leidimą sušaukti platesnei konferencijai.
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  priskyrimo_pagrindas: explicit_name
-  pagrindžia:
-    - t-005
-- c-006
-  santrauka: P. Klimas buvo Lietuvos Tarybos narys
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Lietuvos Tarybos nariai buvo šie: J. Basanavičius, (†), S. Ba-
-    naitis (†), M. Biržiška, K. Bizauskas, P. Dovydaitis, S. Kairys, P.
-    Klimas, D. Malinauskas, P. Mironas, S. Narutavičius (†), A. Pet-
-    rulis (†), A. Smetona, J. Smilgevičius, J. Staugaitis, A. Stulginskis,
-    J. Šaulys, K. Šaulys, J. Šernas (†), J. Vailokaitis, J. Vileišis. Savo
-    pirmininku Taryba išsirinko A. Smetoną.
-  citata_rodoma: |
-    Lietuvos Tarybos nariai buvo šie: J. Basanavičius, (†), S. Banaitis (†), M. Biržiška, K. Bizauskas, P. Dovydaitis, S. Kairys, P. Klimas, D. Malinauskas, P. Mironas, S. Narutavičius (†), A. Petrulis (†), A. Smetona, J. Smilgevičius, J. Staugaitis, A. Stulginskis, J. Šaulys, K. Šaulys, J. Šernas (†), J. Vailokaitis, J. Vileišis. Savo pirmininku Taryba išsirinko A. Smetoną.
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  priskyrimo_pagrindas: explicit_name
-  pagrindžia:
-    - t-006
-- c-007
-  santrauka: P. Klimas papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Klimas, P.: _Lietuvių senobės
-    bruožai,_ Vilnius 1919 (gausi medžiaga, ir išvados dar gera dalimi nėra pa­
-    senusios). — Klimas, P. keliuose egz. mašinraštyje 1939 m. paruošė savo
-    numatytos daugiatomės Lietuvių tautos istorijos I tomą (iki 1200 m.),
-    kurio, deja, neteko panaudoti.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-- c-008
-  santrauka: P. Klimas papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Klimas, P. : _Lietuva,
-    jos gyventojai ir sienos,_ Kaunas 1917. — (”) _Lietuvos sienos rytuose.
-    Memorialas Lietuvos taikos derybose su rusais 1920. V. 21.,_ Švietimo
-    Darbas, nr. 1-2, 3-4, 7-8, 1921. — (”) _Mūsų kovos del Vilniaus,_ I, Vil­
-    nius 1923.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-006
-    - t-002
-    - t-006
+    - t-008
 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/J. Šaulys]]
-- [[objektai/asmenys/kun. Stankevičius]]

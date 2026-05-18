@@ -17,24 +17,5 @@ tags:
 Tuomet lietuviškų raštų spausdinimas rusiškomis raidėmis buvo pavestas Varšuvos Vyriausiosios Mokyklos lektoriui Mikuckiui.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Tuomet lietuviškų raštų spausdinimas rusiškomis raidėmis buvo pavestas Varšuvos Vyriausiosios Mokyklos lektoriui Mikuckiui.'
-  pagrindžia:
-    - c-001
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Tuomet lietuviškų raštų spausdinimas rusiškomis raidėmis buvo pavestas Varšuvos Vyriausiosios Mokyklos lektoriui Mikuckiui.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tuomet lietuviškų raštų spausdinimas rusiškomis raidėmis buvo pavestas Varšuvos Vyriausiosios Mo-
-      kyklos lektoriui Mikuckiui. Tai buvo surusėjęs lenkas, ambi-
-      cingas karjeristas, siekdamas tikslo nesiskaitąs su jokiomis prie-
-      monėmis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001

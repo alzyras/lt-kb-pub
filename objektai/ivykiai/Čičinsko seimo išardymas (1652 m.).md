@@ -32,13 +32,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tiesa, anksčiau seimai daugiausia iširdavo, protestuojant didesnei atstovų grupei, keletui dešimčių ar bent keliolikai seimo atstovų, o 1652 m. seimas iširo, protestuojant tiktai vienam Čičinskui.'
+  teiginys: '1652 m. seimas iširo protestuojant tik vienam Čičinskui, nors anksčiau seimai dažniausiai iširdavo dėl didesnių atstovų grupių protesto.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tiesa, anksčiau seimai daugiausia iširdavo, protestuojant didesnei atstovų grupei, keletui dešimčių ar bent keliolikai seimo atstovų, o 1652 m. seimas iširo, protestuojant tiktai vienam Čičinskui.'
+  santrauka: '1652 m. seimas iširo protestuojant tik vienam Čičinskui, nors anksčiau seimai dažniausiai iširdavo dėl didesnių atstovų grupių protesto.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     O po Liublino unijos
@@ -46,11 +48,11 @@ Nenurodyta
     mų. Tiesa, anksčiau seimai daugiausia iširdavo, protestuojant di-
     desnei atstovų grupei, keletui dešimčių ar bent keliolikai seimo at-
     stovų, o 1652 m. seimas iširo, protestuojant tiktai vienam Čičinskui.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

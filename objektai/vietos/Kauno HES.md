@@ -18,7 +18,7 @@ Atšilimo laikotarpiu Lietuvoje pagal sovietinį modelį vykstant sparčiai indu
 
 ## Teiginiai
 - t-001
-  teiginys: 'Septintąjį–aštuntąjį dešimtmetį Kauno HES pastatyta vykstant sparčiai sovietinei industrializacijai ir urbanizacijai.'
+  teiginys: 'Atšilimo laikotarpiu Kauno HES minima tarp didelių naujų pramonės objektų, statytų sparčios sovietinės industrializacijos ir urbanizacijos metu.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -26,7 +26,7 @@ Atšilimo laikotarpiu Lietuvoje pagal sovietinį modelį vykstant sparčiai indu
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Septintąjį–aštuntąjį dešimtmetį Kauno HES pastatyta vykstant sparčiai sovietinei industrializacijai ir urbanizacijai.'
+  santrauka: 'Atšilimo laikotarpiu Kauno HES minima tarp didelių naujų pramonės objektų, statytų sparčios sovietinės industrializacijos ir urbanizacijos metu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Atšilimo laikotarpiu Lietuvoje pagal sovietinį modelį vykstant sparčiai

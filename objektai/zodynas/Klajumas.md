@@ -18,14 +18,14 @@ Pagrindinė forma: `klajumas`.
 Papildomos aiškios formos neišskirtos.
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: '`Klajumas` šiame tekste reiškia žinyčios kiemą ar šventvietės erdvę.'
   pagrindžia:
     - c-001
     - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Toje erdvėje rinkdavosi maldininkai ir būdavo laikomos malkos šventai ugniai.'
   pagrindžia:
     - c-001
@@ -34,7 +34,7 @@ Papildomos aiškios formos neišskirtos.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Klajumas` šiame tekste reiškia žinyčios kiemą ar šventvietės erdvę
+  santrauka: '`Klajumas` šiame tekste reiškia žinyčios kiemą ar šventvietės erdvę.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Apsukui tos žinyčios buvęs klajumas^774 , į kurį svietas
@@ -42,25 +42,25 @@ Papildomos aiškios formos neišskirtos.
     šventai kūrinti.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
 - c-002
-  santrauka: `Klajumas` šiame tekste reiškia žinyčios kiemą ar šventvietės erdvę
+  santrauka: '`Klajumas` šiame tekste reiškia žinyčios kiemą ar šventvietės erdvę.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Pašaliuose to klajumo buvę žynių, arba kunigų, namai ir kitų žinyčios tarnų ir
     tarnaičių.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 
 ## Pastabos
 

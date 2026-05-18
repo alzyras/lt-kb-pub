@@ -41,7 +41,7 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Kuršiai XI a. rengdavo plėšiamuosius žygius į Danijos ir Švedijos pakrantes.'
   pagrindžia:
     - c-001
@@ -50,10 +50,14 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Kuršiai XI a. rengdavo plėšiamuosius žygius į Danijos ir Švedijos pakrantes.
+  santrauka: 'Kuršiai XI a. rengdavo plėšiamuosius žygius į Danijos ir Švedijos pakrantes.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Tiesa, kuršiai XI a. jau ir patys reng-
+    Ankstyvųjų šaltinių ir archeologiniai duomenys leidžia teigti, kad
+    kai kurių pietvakarių baltų genčių kariniai junginiai yra dalyvavę
+    karo žygiuose į yrančios Romos imperijos teritoriją. Vikingų epo-
+    choje prie jūros gyvenusiems prūsams ir kuršiams teko atremti
+    plėšikaujančius skandinavus. Tiesa, kuršiai XI a. jau ir patys reng-
     davo plėšiamuosius žygius į Danijos ir Švedijos pakrantes.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -61,4 +65,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

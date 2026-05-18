@@ -18,7 +18,7 @@ Lenkijos prezidento Bronislovo Komorovskio (Bronislaw Komorowski) tėvo šaknys 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lenkijos prezidento Bronislovo Komorovskio tėvo šaknys siekė Lietuvą ir jo dvarą Rokiškio apskrityje.'
+  teiginys: 'Bronislovo Komorovskio tėvo šaknys buvo Lietuvoje, jo dvare Rokiškio apskrityje.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -26,7 +26,7 @@ Lenkijos prezidento Bronislovo Komorovskio (Bronislaw Komorowski) tėvo šaknys 
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lenkijos prezidento Bronislovo Komorovskio tėvo šaknys siekė Lietuvą ir jo dvarą Rokiškio apskrityje.'
+  santrauka: 'Bronislovo Komorovskio tėvo šaknys buvo Lietuvoje, jo dvare Rokiškio apskrityje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lenkijos prezidento Bronislovo Komo-

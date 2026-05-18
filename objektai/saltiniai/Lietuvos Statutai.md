@@ -33,7 +33,7 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: 'Žygimanto Augusto privilegija, sulyginusi krikščioniškų konfesijų teises, tapo Antrojo ir Trečiojo Lietuvos Statutų teisine norma.'
+  teiginys: 'Antrajame ir Trečiajame Lietuvos Statutuose teisine norma tapo Žygimanto Augusto privilegija, sulyginusi visų krikščioniškų konfesijų teises.'
   pagrindžia:
     - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -88,7 +88,7 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Žygimanto Augusto privilegija, sulyginusi krikščioniškų konfesijų teises, tapo Antrojo ir Trečiojo Lietuvos Statutų teisine norma.'
+  santrauka: 'Antrajame ir Trečiajame Lietuvos Statutuose teisine norma tapo Žygimanto Augusto privilegija, sulyginusi visų krikščioniškų konfesijų teises.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Žygimanto Augusto privilegija, sulyginusi visų

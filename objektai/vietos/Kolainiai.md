@@ -18,23 +18,25 @@ Nebuvo aplenktos nė mokyklos: Kalvarijos, Padubysio ir Kolainių mokyklos buvo 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Nebuvo aplenktos nė mokyklos: Kalvarijos, Padubysio ir Kolainių mokyklos buvo uždarytos, o Kražių mokykla perkelta į Kauną.'
+  teiginys: 'Kolainių mokykla buvo uždaryta kartu su Kalvarijos ir Padubysio mokyklomis.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Nebuvo aplenktos nė mokyklos: Kalvarijos, Padubysio ir Kolainių mokyklos buvo uždarytos, o Kražių mokykla perkelta į Kauną.'
+  santrauka: 'Kolainių mokykla buvo uždaryta kartu su Kalvarijos ir Padubysio mokyklomis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Nebuvo aplenktos nė mokyklos: Kalvarijos, Padubysio ir
     Kolainių mokyklos buvo uždarytos, o Kražių mokykla perkel-
     ta į Kauną.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

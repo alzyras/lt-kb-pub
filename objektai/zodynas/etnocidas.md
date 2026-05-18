@@ -19,7 +19,7 @@ Pakvipo planingu, lėtiniu etnocidu.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Sovietinės tautų susiliejimo idėjos leido suprasti, kad ateityje lietuvių ir kitos kalbos turėtų išnykti.'
+  teiginys: 'Sovietinės tautų susiliejimo idėjos reiškė siekį formuoti ideologiškai unifikuotą ir rusiškai kalbančią sovietinę naciją.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -27,7 +27,7 @@ Pakvipo planingu, lėtiniu etnocidu.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Sovietinės tautų susiliejimo idėjos leido suprasti, kad ateityje lietuvių ir kitos kalbos turėtų išnykti.'
+  santrauka: 'Sovietinės tautų susiliejimo idėjos reiškė siekį formuoti ideologiškai unifikuotą ir rusiškai kalbančią sovietinę naciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pra-
@@ -44,7 +44,3 @@ Pakvipo planingu, lėtiniu etnocidu.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/homo sovieticus]]

@@ -33,8 +33,8 @@ tags:
 - Pagrindinė forma: neminem captivabimus nisi jure victum
 
 ## Teiginiai
-- t-001
-  teiginys: "Ši formuluotė pateikiama kaip bajorų neliečiamybės privilegijos lotyniška formulė."
+- t-002
+  teiginys: 'Privilegija „neminem captivabimus nisi jure victum“ draudė suimti bajorą be teismo sprendimo.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -42,7 +42,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Citata pateikia tiesioginį įrašo „neminem captivabimus nisi jure victum“ šaltinio pagrindą.
+  santrauka: 'Privilegija „neminem captivabimus nisi jure victum“ draudė suimti bajorą be teismo sprendimo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     kuria
@@ -52,10 +52,10 @@ tags:
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata rekonstruota iš verified canonical evidence."
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai

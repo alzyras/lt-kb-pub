@@ -31,42 +31,46 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Taryba ryžosi atgaivinti savo vienybę nauju, visai savarankišku pareiškimu, kurs patapo Lietuvos nepriklausomybės paskelbimu (1918 m. vasario 16 d.).'
+  teiginys: '1918 m. vasario 16 d. Lietuvos Taryba priėmė naują savarankišką pareiškimą, tapusį Lietuvos nepriklausomybės paskelbimu.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Šito paskelbimo okupacinė valdžia neleido iškelti į viešumą.'
+  teiginys: 'Okupacinė valdžia neleido viešai paskelbti 1918 m. vasario 16 d. Lietuvos nepriklausomybės paskelbimo.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Taryba ryžosi atgaivinti savo vienybę nauju, visai savarankišku pareiškimu, kurs patapo Lietuvos nepriklausomybės paskelbimu (1918 m. vasario 16 d.).'
+  santrauka: '1918 m. vasario 16 d. Lietuvos Taryba priėmė naują savarankišką pareiškimą, tapusį Lietuvos nepriklausomybės paskelbimu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Taryba ryžosi atgaivinti savo vienybę nau-
     ju, visai savarankišku pareiškimu, kurs patapo
     Lietuvos nepriklausomybės paskelbimu (1918 m. vasario 16 d.).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Šito paskelbimo okupacinė valdžia neleido iškelti į viešumą.'
+  santrauka: 'Okupacinė valdžia neleido viešai paskelbti 1918 m. vasario 16 d. Lietuvos nepriklausomybės paskelbimo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Šito paskelbimo okupacinė valdžia neleido iškelti į vie-
     šumą. Berlyno vyriausybė atsisakė pripažinti pagal tą paskelbi-
     mą Lietuvos valstybę ir reikalavo grįžti prie gruodžio 11 d. for-
     mulės, kuri numatė artimus santykius su Vokietija.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

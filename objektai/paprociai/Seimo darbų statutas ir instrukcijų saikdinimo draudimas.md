@@ -34,17 +34,21 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lig šiol seimo darbai eidavo be jokios tvarkos, ir jie dažniausiai iširdavo, atstovams nesusitariant išrinkti net maršalkos.'
+  teiginys: 'Iki statuto seimo darbai vyko be nustatytos tvarkos ir dažnai iširdavo atstovams nesusitarus išrinkti maršalkos.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Kadangi anksčiau daug seimų iširdavo dėl to, kad atstovai seimeliuose būdavo saikdinami griežtai laikytis instrukcijų, tai šitokios priesaikos dabar buvo uždraustos.'
+  teiginys: 'Atstovų priesaikos griežtai laikytis seimelių instrukcijų buvo uždraustos, nes dėl jų anksčiau iširdavo daug seimų.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lig šiol seimo darbai eidavo be jokios tvarkos, ir jie dažniausiai iširdavo, atstovams nesusitariant išrinkti net maršalkos.'
+  santrauka: 'Iki statuto seimo darbai vyko be nustatytos tvarkos ir dažnai iširdavo atstovams nesusitarus išrinkti maršalkos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lig šiol seimo darbai eidavo
@@ -64,25 +68,25 @@ Nenurodyta
     toje turėjo būti svarstomi sei-
     melių pageidavimai, surašyti instrukcijose, ir pačiam gale —
     visoki privatūs prašymai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Kadangi anksčiau daug seimų iširdavo dėl to, kad atstovai seimeliuose būdavo saikdinami griežtai laikytis instrukcijų, tai šitokios priesaikos dabar buvo uždraustos.'
+  santrauka: 'Atstovų priesaikos griežtai laikytis seimelių instrukcijų buvo uždraustos, nes dėl jų anksčiau iširdavo daug seimų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kadangi anksčiau daug seimų iširdavo
     dėl to, kad atstovai seimeliuose būdavo saikdinami griežtai lai-
     kytis instrukcijų, tai šitokios priesaikos dabar buvo uždraustos.
     Be to, netiesiogiai buvo apribotas ir _liberum veto._
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

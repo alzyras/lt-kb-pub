@@ -18,23 +18,25 @@ Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vad
 
 ## Teiginiai
 - t-001
-  teiginys: 'Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vadinamoji „aukso laisvė": kas tik buvo galingas, galėjo nieko neklausyti ir elgtis kaip tinkamas.'
+  teiginys: 'Vadinamoji „aukso laisvė“ leido galingiesiems nieko neklausyti ir elgtis kaip tinkamiems.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vadinamoji „aukso laisvė": kas tik buvo galingas, galėjo nieko neklausyti ir elgtis kaip tinkamas.'
+  santrauka: 'Vadinamoji „aukso laisvė“ leido galingiesiems nieko neklausyti ir elgtis kaip tinkamiems.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Didžiū-
     nams bekovojant su užsispyrėliu karalium ir tarpusavy, įsiga-
     lėjo vadinamoji „aukso laisvė": kas tik buvo galin-
     gas, galėjo nieko neklausyti ir elgtis kaip tinkamas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

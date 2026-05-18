@@ -20,14 +20,16 @@ tags:
 Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiekė tai, kad Rusija taip pat įžengė į pirmaeilių Europos galybių tarpą. Iš Prancūzijos ta pati srovė paplito po visą Europą.
 
 ## Teiginiai
-- t-002
-  teiginys: 'Iš Prancūzijos ta pati srovė paplito po visą Europą.'
+- t-001
+  teiginys: 'Iš Prancūzijos kilusi srovė paplito po Europą ir paveikė Europos valdovus.'
   pagrindžia:
-    - c-002
+    - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Iš Prancūzijos ta pati srovė paplito po visą Europą.'
+- c-001
+  santrauka: 'Iš Prancūzijos kilusi srovė paplito po Europą ir paveikė Europos valdovus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Iš Prancūzijos ta pati srovė paplito po visą Europą. Ja užsi-
@@ -35,10 +37,10 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     tais ir mokslininkais, patys užsiėmė literatūra ir mokslu, savo sosti-
     nėse kūrė mokslų akademijas (Berlyne, Petrapily, Drezdene, Stok-
     holme ir kt.) ir naujus universitetus.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001

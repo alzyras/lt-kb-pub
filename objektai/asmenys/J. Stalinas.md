@@ -21,7 +21,7 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
 
 ## Teiginiai
 - t-001
-  teiginys: '1953 m. mirus J. Stalinui, SSRS pradėjo silpnėti rusinimas, o valdžia labiau pasitikėjo vietiniais lietuviais.'
+  teiginys: 'Po J. Stalino mirties 1953 m. SSRS susilpnėjo rusinimas, o valdžia pradėjo labiau pasitikėti vietiniais lietuviais.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -39,13 +39,13 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-004
-  teiginys: 'Lietuvos valstybingumo paminklų vietose buvo statomos J. Stalino, V. Lenino ir sovietinio kario nugalėtojo statulos.'
+  teiginys: 'J. Stalinas buvo vaizduojamas statulomis, statytomis Lietuvos valstybingumą liudijusių paminklų vietose.'
   pagrindžia:
     - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-005
-  teiginys: 'Mokytojai buvo verčiami studijuoti J. Stalino, V. Lenino ir Karlo Markso veikalus.'
+  teiginys: 'J. Stalino veikalus mokytojai buvo verčiami studijuoti kartu su V. Lenino ir Karlo Markso veikalais.'
   pagrindžia:
     - c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -59,7 +59,7 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1953 m. mirus J. Stalinui, SSRS pradėjo silpnėti rusinimas, o valdžia labiau pasitikėjo vietiniais lietuviais.'
+  santrauka: 'Po J. Stalino mirties 1953 m. SSRS susilpnėjo rusinimas, o valdžia pradėjo labiau pasitikėti vietiniais lietuviais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Padėtis ėmė keistis 1953 m. mirus J. Stalinui, o ypač po trejų metų Ni-
@@ -106,7 +106,7 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
   pagrindžia:
     - t-003
 - c-004
-  santrauka: 'Lietuvos valstybingumo paminklų vietose buvo statomos J. Stalino, V. Lenino ir sovietinio kario nugalėtojo statulos.'
+  santrauka: 'J. Stalinas buvo vaizduojamas statulomis, statytomis Lietuvos valstybingumą liudijusių paminklų vietose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietu-
@@ -121,7 +121,7 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
   pagrindžia:
     - t-004
 - c-005
-  santrauka: 'Mokytojai buvo verčiami studijuoti J. Stalino, V. Lenino ir Karlo Markso veikalus.'
+  santrauka: 'J. Stalino veikalus mokytojai buvo verčiami studijuoti kartu su V. Lenino ir Karlo Markso veikalais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Mokytojai verčiami studijuoti

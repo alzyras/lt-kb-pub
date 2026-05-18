@@ -21,13 +21,13 @@ Steigiamojo Seimo pirmininku išrinktas LŪS lyderis agronomas Aleksandras Stulg
 
 ## Teiginiai
 - t-001
-  teiginys: '1920 m. birželio 19 d. buvo sudaryta Kazio Griniaus vadovaujama vyriausybė.'
+  teiginys: 'Birželio 19-ąją buvo sudaryta Kazio Griniaus vadovaujama vyriausybė.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Prezidentu išrinktas valstiečių liaudininkų lyderis Kazys Grinius.'
+  teiginys: 'Kazys Grinius buvo išrinktas prezidentu kaip valstiečių liaudininkų lyderis.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -41,7 +41,7 @@ Steigiamojo Seimo pirmininku išrinktas LŪS lyderis agronomas Aleksandras Stulg
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1920 m. birželio 19 d. buvo sudaryta Kazio Griniaus vadovaujama vyriausybė.'
+  santrauka: 'Birželio 19-ąją buvo sudaryta Kazio Griniaus vadovaujama vyriausybė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vasario 16 Aktas, skelbė,
@@ -59,7 +59,7 @@ Steigiamojo Seimo pirmininku išrinktas LŪS lyderis agronomas Aleksandras Stulg
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Prezidentu išrinktas valstiečių liaudininkų lyderis Kazys Grinius.'
+  santrauka: 'Kazys Grinius buvo išrinktas prezidentu kaip valstiečių liaudininkų lyderis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Naują valdančiąją koaliciją birželį pirmą kartą suformavo kairė –

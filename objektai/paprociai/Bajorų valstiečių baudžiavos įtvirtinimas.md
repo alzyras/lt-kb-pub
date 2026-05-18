@@ -36,21 +36,27 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Ją išsirūpindama, bajorija nepamiršo nė savęs.'
+  teiginys: 'Po privilegijos bajorų dvaruose gyvenę valstiečiai liko visiškoje savo ponų valdžioje.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Jau Zigmantas bajorų valstiečius buvo atleidęs (1434 m.) nuo mokesčių javais; dabar jie, be to, buvo atleisti ir nuo pastočių, nuo pilių statymo ir remontavimo, nuo pareigos piauti didžiojo kunigaikščio dvarų pievas ir pagaliau nuo piniginio mokesčio.'
+  teiginys: '1434 m. Zigmantas bajorų valstiečius atleido nuo mokesčių javais, o vėliau jie buvo atleisti ir nuo kitų prievolių valstybei.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-003
   teiginys: 'Bajorija, trokšdama pelno, kaskart vis labiau spaudė savo valstiečius.'
   pagrindžia:
     - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Ją išsirūpindama, bajorija nepamiršo nė savęs.'
+  santrauka: 'Po privilegijos bajorų dvaruose gyvenę valstiečiai liko visiškoje savo ponų valdžioje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ta privilegija, be to, dar turėjo labai didelę socialinę reikšmę.
@@ -59,15 +65,15 @@ Nenurodyta
     džioje. Didysis kunigaikštis pasižadėjo nesiuntinėti į jų dvarus
     jokių savo teisėjų ir atleido bajorų valstiečius nuo visų pareigų
     valstybei.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Jau Zigmantas bajorų valstiečius buvo atleidęs (1434 m.) nuo mokesčių javais; dabar jie, be to, buvo atleisti ir nuo pastočių, nuo pilių statymo ir remontavimo, nuo pareigos piauti didžiojo kunigaikščio dvarų pievas ir pagaliau nuo piniginio mokesčio.'
+  santrauka: '1434 m. Zigmantas bajorų valstiečius atleido nuo mokesčių javais, o vėliau jie buvo atleisti ir nuo kitų prievolių valstybei.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jau Zigmantas bajorų valstiečius buvo atleidęs
@@ -78,11 +84,11 @@ Nenurodyta
     nepalengvėjo, nes, vietoj buvusių pareigų ir mokesčių didžiajam
     kunigaikščiui, jie buvo apkrauti didesnėmis pareigomis savo dva-
     rų savininkams — bajorams.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 - c-003
@@ -99,11 +105,11 @@ Nenurodyta
     koje savo ponų valdžioje; jie nebeturėjo jokių pareigų didžia-
     jam kunigaikščiui (valstybei), o vien tik ponams ir niekur ne-
     begalėjo išsikelti iš jų žemių.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
 

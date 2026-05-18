@@ -20,30 +20,44 @@ Pagrindinė forma: `kūrėjų kūrėjas`.
 Vartojamos formos: `kūrėjų kūrėjo`.
 
 ## Teiginiai
-- t-001
+- t-004
   teiginys: '`Kūrėjų kūrėjas` šiame tekste yra visų vyriausias žynys.'
   pagrindžia:
-    - c-001
     - c-002
+    - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-005
   teiginys: 'Šiam asmeniui priskiriama teisė skelbti dievų valią.'
   pagrindžia:
-    - c-001
+    - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-003
+- t-006
   teiginys: 'Jis siejamas su gyvenimu prie žinyčios ir su Perūno atsakais.'
   pagrindžia:
-    - c-002
+    - c-001
     - c-003
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Kūrėjų kūrėjas` šiame tekste yra visų vyriausias žynys
+  santrauka: '`Kūrėjų kūrėjas` šiame tekste yra visų vyriausias žynys.'
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Pats tiktai visų vyriausiasis kunigaikštis kūrėjų kūrėjas tegalėjęs tenai įeiti, kurs davęs atsakus
+    vardu Perūno klausiantiems.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
+    - t-006
+- c-002
+  santrauka: '`Kūrėjų kūrėjas` šiame tekste yra visų vyriausias žynys.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Visų vyriausiu valdymieru tų žynių, kaip sakiau, buvo kūrėjų kūrėjas, kurs vienas pats visus
@@ -57,24 +71,10 @@ Vartojamos formos: `kūrėjų kūrėjo`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
-- c-002
-  santrauka: `Kūrėjų kūrėjas` šiame tekste yra visų vyriausias žynys
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Pats tiktai visų vyriausiasis kunigaikštis kūrėjų kūrėjas tegalėjęs tenai įeiti, kurs davęs atsakus
-    vardu Perūno klausiantiems.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-    - t-003
+    - t-004
+    - t-005
 - c-003
-  santrauka: Jis siejamas su gyvenimu prie žinyčios ir su Perūno atsakais
+  santrauka: 'Jis siejamas su gyvenimu prie žinyčios ir su Perūno atsakais.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Namai to kūrėjų kūrėjo,
@@ -111,7 +111,7 @@ Vartojamos formos: `kūrėjų kūrėjo`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-006
 
 ## Pastabos
 

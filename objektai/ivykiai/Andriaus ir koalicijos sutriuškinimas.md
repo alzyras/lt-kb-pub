@@ -35,6 +35,8 @@ Nenurodyta
   teiginys: 'Trečiasis koalicijos narys ir Andriaus suverenas, Livonijos ordinas, mažai tedalyvavo kare.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -49,10 +51,10 @@ Nenurodyta
     sritis, jis grįžo namo. Tuo būdu, tapęs Lenkų karalium, Jo-
     gaila turėjo savo rankose visą Lietuvą; priešų Lietuvoje jis
     nebeturėjo.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

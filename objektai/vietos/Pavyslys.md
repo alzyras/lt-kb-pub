@@ -21,28 +21,32 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Žymesniųjų bajorų vaikai buvo net išvežti į Pavyslį, kaip įkaitai.'
+  teiginys: 'Ordinas išvežė žymesniųjų Žemaičių bajorų vaikus į Pavyslį kaip įkaitus.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: 'Vokiečių, arba kryžiuočių, ordinas buvo atkviestas apie 1226 m. į Pavyslį kovoti su aisčiais.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Žymesniųjų bajorų vaikai buvo net išvežti į Pavyslį, kaip įkaitai.'
+  santrauka: 'Ordinas išvežė žymesniųjų Žemaičių bajorų vaikus į Pavyslį kaip įkaitus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ordi-
     nas tuo tarpu Žemaičiuose statėsi pilis ir ėmėsi visokių priemonių
     prieš galimą sukilimą. Žymesniųjų bajorų vaikai buvo net iš-
     vežti į Pavyslį, kaip įkaitai. Ordino valdžia buvo labai žiauri.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
@@ -55,10 +59,10 @@ tags:
     persikėlė į dešinįjį krantą, t.y. į aisčių kraštą (žiūr.43 psl.). Per 30
     metų, gaudamas paramos iš Vokietijos, ordinas palengva pa-
     sistūmė beveik iki pat Nemuno.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

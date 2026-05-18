@@ -48,7 +48,7 @@ Nenurodyta
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Plėšiamieji žygiai rodė didėjant lietuvių jėgą, jie tokių žygių skaičiumi pralenkė turtingus prūsus ar karingus kuršius.'
+  teiginys: 'Lietuvių plėšiamieji žygiai rodė jų stiprėjančią galią ir padėjo pagrindus greitai atsirasiančiai Lietuvos valstybei.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -73,7 +73,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Plėšiamieji žygiai rodė didėjant lietuvių jėgą, jie tokių žygių skaičiumi pralenkė turtingus prūsus ar karingus kuršius.'
+  santrauka: 'Lietuvių plėšiamieji žygiai rodė jų stiprėjančią galią ir padėjo pagrindus greitai atsirasiančiai Lietuvos valstybei.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Plėšiamieji žygiai rodė didėjant lietuvių jėgą, jie tokių žygių skaičiumi

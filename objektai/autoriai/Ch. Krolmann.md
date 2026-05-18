@@ -18,20 +18,22 @@ Krolmann, Politische Geschichte des dt.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Krolmann, Politische Geschichte des dt.'
+  teiginys: 'Ch. Krolmann buvo 1933 m. veikalo „Politische Geschichte des dt. Ordens in Preussen“ autorius.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Krolmann, Politische Geschichte des dt.'
+  santrauka: 'Ch. Krolmann buvo 1933 m. veikalo „Politische Geschichte des dt. Ordens in Preussen“ autorius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     _Ch. Krolmann,_ Politische Geschichte des dt. Ordens in Preussen (1933);
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

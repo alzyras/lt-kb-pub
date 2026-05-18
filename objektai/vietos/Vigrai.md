@@ -20,13 +20,15 @@ Norėdama atskirti ją nuo Vilniaus ir Žemaičių vyskupų įtakos, Prūsijos v
 
 ## Teiginiai
 - t-001
-  teiginys: 'Norėdama atskirti ją nuo Vilniaus ir Žemaičių vyskupų įtakos, Prūsijos valdžia įsteigė atskirą, tiesiog popiežiaus priklausomą vyskupiją Vigriuose (1798 m.; 1818 m. ji buvo perkelta į Seinus).'
+  teiginys: '1798 m. Prūsijos valdžia Vigriuose įsteigė atskirą, tiesiog popiežiui pavaldžią vyskupiją, 1818 m. perkeltą į Seinus.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Norėdama atskirti ją nuo Vilniaus ir Žemaičių vyskupų įtakos, Prūsijos valdžia įsteigė atskirą, tiesiog popiežiaus priklausomą vyskupiją Vigriuose (1798 m.; 1818 m. ji buvo perkelta į Seinus).'
+  santrauka: '1798 m. Prūsijos valdžia Vigriuose įsteigė atskirą, tiesiog popiežiui pavaldžią vyskupiją, 1818 m. perkeltą į Seinus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Norėdama atskirti
@@ -36,15 +38,14 @@ Norėdama atskirti ją nuo Vilniaus ir Žemaičių vyskupų įtakos, Prūsijos v
     muoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų
     kleboną pralotą Karpavičių, tikėdamasi, kad jis bus jai pa-
     lankus.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Prienai]]
-- [[objektai/vietos/Seinai]]

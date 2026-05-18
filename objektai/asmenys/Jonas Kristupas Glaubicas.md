@@ -1,12 +1,14 @@
 ---
 tipas: asmuo
-pavadinimas: 'Jonas Kristupas Glaubicas'
+pavadinimas: 'Jonas Kristupas Glaubicas (architektas)'
 sukurta: '2026-05-14'
 variantai:
   - 'Johann Christoph Glaubitz'
   - 'J. K. Glaubicas'
   - 'J. K. Glaubico'
-aliases: []
+  - 'Jonas Kristupas Glaubicas'
+aliases:
+  - 'Jonas Kristupas Glaubicas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 bukle: juodrastis
@@ -26,26 +28,26 @@ susije_irasai: []
 patikimumas: aukštas
 tags: []
 ---
-# Jonas Kristupas Glaubicas
+# Jonas Kristupas Glaubicas (architektas)
 
 ## Santrauka
 
 Jonas Kristupas Glaubicas pristatomas kaip pagrindinis Vilniaus baroko mokyklos architektas ir šios mokyklos stilistikos formuotojas, kūręs daugiakonfesiame Vilniuje.
 
 ## Teiginiai
-- t-009
+- t-012
   teiginys: 'Jonas Kristupas Glaubicas buvo pagrindinis XVIII a. susiformavusios Vilniaus baroko mokyklos architektas.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-010
+- t-013
   teiginys: 'Jono Kristupo Glaubico 1737–1767 m. kūrybos laikotarpis laikomas vienu ryškiausių senosios Lietuvos civilizacijos reiškinių.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-011
+- t-014
   teiginys: 'Jonas Kristupas Glaubicas buvo pagrindinis XVIII a. sukurtos Vilniaus baroko mokyklos architektas.'
   pagrindžia:
     - c-001
@@ -71,8 +73,8 @@ Jonas Kristupas Glaubicas pristatomas kaip pagrindinis Vilniaus baroko mokyklos 
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-009
-    - t-011
+    - t-012
+    - t-014
 - c-002
   santrauka: 'Jono Kristupo Glaubico 1737–1767 m. kūrybos laikotarpis laikomas vienu ryškiausių senosios Lietuvos civilizacijos reiškinių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -90,7 +92,7 @@ Jonas Kristupas Glaubicas pristatomas kaip pagrindinis Vilniaus baroko mokyklos 
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-010
+    - t-013
 
 ## Ryšiai
 ### Laikotarpiai

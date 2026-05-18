@@ -33,17 +33,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Jie kvietėsi į Lietuvą lenkų protestantų pamokslininkų, ir visos pamaldos iš pradžių buvo atliekamos vien lenkiškai.'
+  teiginys: 'Protestantai kvietėsi į Lietuvą lenkų pamokslininkų, todėl jų pamaldos iš pradžių buvo atliekamos vien lenkiškai.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Lietuvos protestantai suskato lietuviškai sakyti pamokslus ir spausdinti lietuviškuosius raštus tik tada, kai to griebėsi atsigavę katalikai.'
-  pagrindžia:
-    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Jie kvietėsi į Lietuvą lenkų protestantų pamokslininkų, ir visos pamaldos iš pradžių buvo atliekamos vien lenkiškai.'
+  santrauka: 'Protestantai kvietėsi į Lietuvą lenkų pamokslininkų, todėl jų pamaldos iš pradžių buvo atliekamos vien lenkiškai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jie kvietėsi į Lietuvą lenkų protestantų pamoksli-
@@ -51,23 +49,10 @@ Nenurodyta
     kiškai. Patsai M. Radvila Juodasis įkūrė Brastoje spaustuvę,
     kur buvo spausdinamos lenkiškos protestantų knygos ir buvo
     lenkiškai išspausdinta Biblija.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Lietuvos protestantai suskato lietuviškai sakyti pamokslus ir spausdinti lietuviškuosius raštus tik tada, kai to griebėsi atsigavę katalikai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Lietuvos protestantai suskato lietuviškai sakyti pamokslus ir spausdinti lietuviškuosius raštus
-    tik tada, kai to griebėsi atsigavę katalikai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002

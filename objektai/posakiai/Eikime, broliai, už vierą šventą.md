@@ -37,7 +37,7 @@ tags:
 - už tėvynę mūsų brangiąją Lietuvą ir už mūsų brolius Lietuvius
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Ši frazė yra kunigo Mackevičiaus pamokslinis raginimas.'
   pagrindžia:
     - c-001
@@ -46,7 +46,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Citata kartu pateikia pamokslo situaciją ir patį raginimą.
+  santrauka: 'Ši frazė yra kunigo Mackevičiaus pamokslinis raginimas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Gražų pamokslą lenkiškai, tą pat ir lietuviškai sakęs kunigas Mackevičius. Visa kariuo-
@@ -60,7 +60,7 @@ tags:
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

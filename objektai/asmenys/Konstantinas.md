@@ -20,27 +20,5 @@ tags:
 Tada karalius kreipėsi į Kotryną, siūlydamasis užleisti jos vaikaičiui Konstantinui sostą, kad tik ji paliktų seimo padarytąsias reformas.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Tada karalius kreipėsi į Kotryną, siūlydamasis užleisti jos vaikaičiui Konstantinui sostą, kad tik ji paliktų seimo padarytąsias reformas.'
-  pagrindžia:
-    - c-001
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Tada karalius kreipėsi į Kotryną, siūlydamasis užleisti jos vaikaičiui Konstantinui sostą, kad tik ji paliktų seimo padarytąsias reformas.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tada karalius kreipėsi į Kotryną,
-      siūlydamasis užleisti jos vaikaičiui Konstantinui sostą, kad tik
-      ji paliktų seimo padarytąsias reformas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Kotryna II]]

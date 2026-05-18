@@ -41,19 +41,13 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-004
   teiginys: 'Lenkai frontui pralaužti atsivežė specialias šturmovąsias grupes.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Tokias grupes sudarė 50-70 gerai prancūzų taktikos apmokytų vyrų, kurie puolė kyliais vienas paskui kitą.'
-  pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-003
+- t-005
   teiginys: 'Durtuvų kautynės šioms grupėms tapo netikėta kliūtimi.'
   pagrindžia:
     - c-002
@@ -62,9 +56,10 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Lenkai frontui pralaužti atsivežė specialias šturmovąsias grupes.
+  santrauka: 'Lenkai frontui pralaužti atsivežė specialias šturmovąsias grupes.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
+    Tam tikslui
     | jie sutraukė daug pėstininkų, artilerijos ir kavalerijos
     | dalinių. Mūsų frontui pralaužti specialiai atsigabeno
     vadinamąsias „šturmovyji grupy“. Tokią grupę, kad ji būtų
@@ -77,9 +72,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-004
 - c-002
-  santrauka: Tokias grupes sudarė 50-70 gerai prancūzų taktikos apmokytų vyrų, kurie puolė kyliais vienas paskui kitą.
+  santrauka: 'Durtuvų kautynės šioms grupėms tapo netikėta kliūtimi.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     mūsiškiai metėsi durtuvų kautynėms, tai jie turėjo nusilenkti, nes
@@ -92,5 +87,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-    - t-003
+    - t-005

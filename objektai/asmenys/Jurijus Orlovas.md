@@ -18,7 +18,7 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: '1976 m. gegužės 12 d. įkurta pirmoji Maskvos Helsinkio grupė (vadovas Jurijus Orlovas), o rudenį panaši grupė įsikūrė Vilniuje.'
+  teiginys: 'Jurijus Orlovas vadovavo 1976 m. gegužės 12 d. įkurtai pirmajai Maskvos Helsinkio grupei.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -26,7 +26,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1976 m. gegužės 12 d. įkurta pirmoji Maskvos Helsinkio grupė (vadovas Jurijus Orlovas), o rudenį panaši grupė įsikūrė Vilniuje.'
+  santrauka: 'Jurijus Orlovas vadovavo 1976 m. gegužės 12 d. įkurtai pirmajai Maskvos Helsinkio grupei.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1976 m. gegužės 12 d. įkurta

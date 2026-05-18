@@ -32,7 +32,7 @@ Formulė pateikiama kaip politinis Gedimino pareiškimas, atskiriantis kovą su 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Formulė pateikiama kaip Gedimino pareiškimas, kad kova vyksta su vokiečiais, o ne su kryžiumi.'
+  teiginys: 'Gediminas pareiškė, kad lietuviai kariauja ne su kryžiumi, o su vokiečiais.'
   pagrindžia:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -40,7 +40,7 @@ Formulė pateikiama kaip politinis Gedimino pareiškimas, atskiriantis kovą su 
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Politinė formulė atskiria konfliktą su Ordinu nuo konflikto su krikščionybe.
+  santrauka: 'Gediminas pareiškė, kad lietuviai kariauja ne su kryžiumi, o su vokiečiais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Gediminas pirmas iš lie­

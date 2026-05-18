@@ -33,25 +33,21 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Suvalkų derybos.'
+  teiginys: 'Suvalkų derybų metu lenkų kariuomenė peržengė Tautų Sąjungos nustatytą demarkacijos liniją ir veržėsi į Gardino–Varėnos ruožą.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Suvalkų derybos pasibaigė susitarimu, kurį abi šalys pasirašė 1920 metų spalių mėn.'
+  teiginys: 'Suvalkų derybos baigėsi susitarimu, kurį abi šalys pasirašė 1920 m. spalio 7 d.'
   pagrindžia:
     - c-002
-- t-003
-  teiginys: 'Ta sutartis, nespręsdama sienų klausimo, nustatė demarkacijos liniją Suvalkų krašte, kaip ją buvo nustačiusi 1919 metų gruodžio 8 d. Aukščiausioji Santarvės Taryba (Kerzono linija); bet toliau už Nemuno — visą Gardino apskritį ligi Merkinės, Varėnos ir.'
-  pagrindžia:
-    - c-003
-- t-004
-  teiginys: 'Pagaliau Lenkija vėl pasiūlė Lietuvai derybas Suvalkuose (rugsėjo mėn.'
-  pagrindžia:
-    - c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Suvalkų derybos.'
+  santrauka: 'Suvalkų derybų metu lenkų kariuomenė peržengė Tautų Sąjungos nustatytą demarkacijos liniją ir veržėsi į Gardino–Varėnos ruožą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Suvalkų derybos.** Tuo pat laiku, kai Tautų Sąjunga nu-
@@ -59,61 +55,26 @@ Nenurodyta
     karo veiksmus, nustatė demarkacijos liniją (Kerzono linija, 1919
     gruodžio 8 d.) ir pasiuntė kontrolės komisiją, — lenkų kariuomenė
     peržengė tą liniją ir veržėsi į Gardino—Varėnos ruožą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Suvalkų derybos pasibaigė susitarimu, kurį abi šalys pasirašė 1920 metų spalių mėn.'
+  santrauka: 'Suvalkų derybos baigėsi susitarimu, kurį abi šalys pasirašė 1920 m. spalio 7 d.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Suvalkų derybos pasibaigė susitarimu, kurį abi ša-
     lys pasirašė 1920 metų spalių mėn. 7 d.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Ta sutartis, nespręsdama sienų klausimo, nustatė demarkacijos liniją Suvalkų krašte, kaip ją buvo nustačiusi 1919 metų gruodžio 8 d. Aukščiausioji Santarvės Taryba (Kerzono linija); bet toliau už Nemuno — visą Gardino apskritį ligi Merkinės, Varėnos ir.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Ta sutartis, nespręs-
-    dama sienų klausimo, nustatė demarkacijos liniją Suvalkų kraš-
-    te, kaip ją buvo nustačiusi 1919 metų gruodžio 8 d. Aukščiau-
-    sioji Santarvės Taryba (Kerzono linija); bet toliau už Nemuno
-    — visą Gardino apskritį ligi Merkinės, Varėnos ir Bastūnų
-    (prie Lydos—Vilniaus geležinkelio) sutartis paliko Lenkų pu-
-    sėje. Linija už Bastūnų buvo palikta nustatyti vėliau, kai rusai
-    pasitrauks iš tos srities. Kartu buvo sutarta sustabdyti visas
-    kovas tarp Lietuvos ir Lenkijos kariuomenių ir pasikeisti be-
-    laisviais.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Pagaliau Lenkija vėl pasiūlė Lietuvai derybas Suvalkuose (rugsėjo mėn.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pagaliau Lenkija vėl pasiūlė Lietuvai derybas Su-
-    valkuose (rugsėjo mėn. 29 d.). Lietuvos vyriausybė, ir šį kartą
-    tikėdamasi geruoju susitarti, sutiko.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
 
 ## Ryšiai
 ### Laikotarpiai

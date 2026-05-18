@@ -19,7 +19,7 @@ Lietuvos krikščionėjimo simboliu tapo šv.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lietuvos didysis kunigaikštis Kazimieras buvo šv. Kazimiero, kurio garbinimo tradicija klostėsi 1458–1484 m., tėvas.'
+  teiginys: 'Lietuvos didysis kunigaikštis Kazimieras buvo Kazimiero, gimusio 1458 m. ir mirusio 1484 m., tėvas.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -27,7 +27,7 @@ Lietuvos krikščionėjimo simboliu tapo šv.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lietuvos didysis kunigaikštis Kazimieras buvo šv. Kazimiero, kurio garbinimo tradicija klostėsi 1458–1484 m., tėvas.'
+  santrauka: 'Lietuvos didysis kunigaikštis Kazimieras buvo Kazimiero, gimusio 1458 m. ir mirusio 1484 m., tėvas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kazimiero (1458–1484),

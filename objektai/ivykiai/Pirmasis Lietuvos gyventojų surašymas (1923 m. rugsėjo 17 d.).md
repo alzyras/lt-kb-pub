@@ -46,19 +46,19 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-004
+- t-007
   teiginys: '1923 m. rugsėjo 17 d. pirmasis Lietuvos gyventojų surašymas užfiksavo 2 028 971 gyventoją be Vilniaus ir Klaipėdos kraštų.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-005
-  teiginys: 'Surašymo duomenimis, Lietuvoje be Vilniaus ir Klaipėdos kraštų buvo 2 028 971 gyventojas.'
+- t-008
+  teiginys: '1923 m. rugsėjo 17 d. pirmojo Lietuvos gyventojų surašymo duomenimis, Lietuvoje be Vilniaus ir Klaipėdos kraštų buvo 2 028 971 gyventojas.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-006
+- t-009
   teiginys: '1923 m. rugsėjo 17 d. pirmojo Lietuvos gyventojų surašymo duomenimis, Lietuvoje be Vilniaus ir Klaipėdos kraštų buvo 2 028 971 gyventojas.'
   pagrindžia:
     - c-001
@@ -80,9 +80,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
-    - t-005
-    - t-006
+    - t-007
+    - t-008
+    - t-009
 
 ## Ryšiai
 ### Laikotarpiai

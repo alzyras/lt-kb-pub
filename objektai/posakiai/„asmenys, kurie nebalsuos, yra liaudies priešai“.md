@@ -19,13 +19,13 @@ Viešai grasinama, kad „asmenys, kurie nebalsuos, yra liaudies priešai“ –
 
 ## Teiginiai
 - t-001
-  teiginys: 'Viešai grasinama, kad „asmenys, kurie nebalsuos, yra liaudies priešai“ – jais vadinami tautininkai ir aukštus postus turėję valdininkai.'
+  teiginys: 'Per rinkimų agitaciją valdžia grasino, kad nebalsuosiantys asmenys yra „liaudies priešai“.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Sovietams įgyvendinant žemės ūkio pertvarkymus, atimta žemė iš ūkininkų, kurie turėjo daugiau nei 30 ha, tokie laikomi buožėmis ir „liaudies priešais“.'
+  teiginys: 'Sovietų valdžia daugiau kaip 30 ha turėjusius ūkininkus laikė buožėmis ir „liaudies priešais“.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -33,7 +33,7 @@ Viešai grasinama, kad „asmenys, kurie nebalsuos, yra liaudies priešai“ –
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Viešai grasinama, kad „asmenys, kurie nebalsuos, yra liaudies priešai“ – jais vadinami tautininkai ir aukštus postus turėję valdininkai.'
+  santrauka: 'Per rinkimų agitaciją valdžia grasino, kad nebalsuosiantys asmenys yra „liaudies priešai“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Per rinkimų agitaciją valdžia daug dėmesio
@@ -50,7 +50,7 @@ Viešai grasinama, kad „asmenys, kurie nebalsuos, yra liaudies priešai“ –
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Sovietams įgyvendinant žemės ūkio pertvarkymus, atimta žemė iš ūkininkų, kurie turėjo daugiau nei 30 ha, tokie laikomi buožėmis ir „liaudies priešais“.'
+  santrauka: 'Sovietų valdžia daugiau kaip 30 ha turėjusius ūkininkus laikė buožėmis ir „liaudies priešais“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sovietams įgyvendinant žemės ūkio pertvarkymus, atimta žemė iš ūki-

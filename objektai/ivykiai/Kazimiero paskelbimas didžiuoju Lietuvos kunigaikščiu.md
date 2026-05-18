@@ -33,17 +33,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lietuvių kviečiamam Kazimierui lenkai leido vykti į Lietuvą, bet tik kaip Vladislovo vietininkui.'
+  teiginys: 'Lietuviai, nepaisydami lenkų ponų protestų, Vilniaus katedroje paskelbė Kazimierą didžiuoju Lietuvos kunigaikščiu.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Zigmantui žuvus, natūraliu kandidatu į Lietuvos sostą tapo jo sūnus Mykolas; Mykolo šalininkai tuojau ir užėmė žemutinę Vilniaus pilį, Trakus ir Brastą.'
-  pagrindžia:
-    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lietuvių kviečiamam Kazimierui lenkai leido vykti į Lietuvą, bet tik kaip Vladislovo vietininkui.'
+  santrauka: 'Lietuviai, nepaisydami lenkų ponų protestų, Vilniaus katedroje paskelbė Kazimierą didžiuoju Lietuvos kunigaikščiu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lietuvių kvie-
@@ -76,38 +74,13 @@ Nenurodyta
     kunigaikščiu, ryšys su Lenkija buvo nutrauktas. Nebeturėdami
     ko Lietuvoje beveikti, išvažiavo iš Vilniaus ir Kazimierą atlydėję
     lenkų ponai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Zigmantui žuvus, natūraliu kandidatu į Lietuvos sostą tapo jo sūnus Mykolas; Mykolo šalininkai tuojau ir užėmė žemutinę Vilniaus pilį, Trakus ir Brastą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **Išrinkimas.** Zigmantui žuvus, natūraliu kandidatu į Lie-
-    tuvos sostą tapo jo sūnus Mykolas; Mykolo šalininkai tuojau
-    ir užėmė žemutinę Vilniaus pilį, Trakus ir Brastą. Žemaičiai
-    taip pat palaikė jo pusę. Tačiau daugumas didikų, bijodami kerš-
-    to už tėvo mirtį, buvo nusistatę prieš jį. Nors tuo pat metu pa-
-    reiškė savo pretenzijas į sostą ir Švitrigaila, bet galinges-
-    nieji Lietuvos didikai, susirinkę į Alšėnus, didžiuoju ku-
-    nigaikščiu išrinko jaunėlį Jogailos sūnų, Kazimierą. Jis buvo
-    iškviestas į Vilnių ir čia paskelbtas didžiuoju Lietuvos kuni-
-    gaikščiu. Švitrigailos ir Mykolo šalininkai turėjo nusileisti, —
-    vieni geruoju, o kiti, priversti ginklu. Kadangi Kazimieras te-
-    turėjo vos 13 m. amžiaus, tai jo vardu kraštą valdė skirtieji pa-
-    tarėjai, kuriems vadovavo išmintingasai politikas Jonas Goš-
-    tautas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai

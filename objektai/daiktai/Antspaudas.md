@@ -35,77 +35,34 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: '1383 m. prie dokumentų turėjo būti pridėti antspaudai.'
+- t-007
+  teiginys: 'Prie 1379 m. sutarties buvo Vytauto antspaudas su jo ženklu ir užrašu „S: DUCJS VITAUTE“.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Kriavo akto dokumentą savo antspaudais tvirtino trys Jogailos broliai, o antspaudą pridėjo ir Vytautas.'
-  pagrindžia:
-    - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-
-- t-003
-  teiginys: '1379 m. sutartyje prie dokumento buvo prikabintas Vytauto antspaudas su jo ženklu ir užrašu „S: DUCJS VITAUTE“. '
-  pagrindžia:
-    - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-004
+- t-008
   teiginys: '1379 m. čia įvardijami kaip pirmoji Vytauto antspaudos pasirodymo data.'
   pagrindžia:
-    - c-003
+    - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-005
+- t-009
   teiginys: 'XIX a. pradžios istorikai teigė matę tos sutarties originalą su visų keturių valdovų sveikais antspaudais.'
   pagrindžia:
-    - c-004
+    - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-006
+- t-010
   teiginys: '1401 m. kovo 11 d. Radome duoto dokumento originalas išliko su 49 antspaudomis.'
   pagrindžia:
-    - c-005
+    - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 1383 m. prie dokumentų turėjo būti pridėti antspaudai.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    1383 m. vidurvasaryje (VII. 19) prie
-    pernykščiai surašytų dokumentų turėjo būti pridėti antspaudai.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: Kriavo akto dokumentą savo antspaudais tvirtino trys Jogailos broliai, o antspaudą pridėjo ir Vytautas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Kaip paprastai prie Jogailos sutarčių, ir prie šio doku­
-    mento savo antspaudus pridėjo dar trys Jogailos broliai (Skirgaila,
-    Kaributas, Lengvenis). Gal tikėdamasis Lietuvoje sau daugiau
-    laimėti, antspaudą prikabino ir Vytautas, kuris, grįžęs iš Prūsų,
-    bendradarbiavo su Jogaila.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: Vytauto antspaudas 1379 m. aprašomas su ženklu ir lotynišku užrašu.
+  santrauka: 'Prie 1379 m. sutarties buvo Vytauto antspaudas su jo ženklu ir užrašu „S: DUCJS VITAUTE“.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Būdamas pilnateisis kunigaikštis, šitą aktą pasirašant da­
@@ -129,10 +86,10 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
-    - t-004
-- c-004
-  santrauka: Vėlesni istorikai sakė matę visų keturių valdovų sveikus antspaudus.
+    - t-007
+    - t-008
+- c-002
+  santrauka: 'XIX a. pradžios istorikai teigė matę tos sutarties originalą su visų keturių valdovų sveikais antspaudais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Prūsų istorikas Voigtas (apie 1825
@@ -141,13 +98,13 @@ Nenurodyta
     sveikas antspaudas^2 ).
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Tai antrinis liudijimas apie matytą originalą."
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
-- c-005
-  santrauka: 1401 m. Radomo dokumento originalas paminėtas kaip išlikęs su 49 antspaudomis.
+    - t-009
+- c-003
+  santrauka: '1401 m. kovo 11 d. Radome duoto dokumento originalas išliko su 49 antspaudomis.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     c) Lenkų karališkos tarybos dokumento, duoto 1401 m. kovo 11 d. Ra­
@@ -158,7 +115,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-006
+    - t-010
 
 ## Ryšiai
 ### Teminiai klasteriai

@@ -34,7 +34,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Pagoniškos šventės Lietuvoje laikomos užsiklojusios krikščioniškuoju švenčių sluoksniu.'
+  teiginys: 'Pagoniškos šventės Lietuvoje išliko krikščioniškųjų švenčių sluoksnyje, o žilos senovės elementai lėmė tautosakos, folkloro ir tautodailės savitumą.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -42,7 +42,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Pagoniškos šventės Lietuvoje laikomos užsiklojusios krikščioniškuoju švenčių sluoksniu.'
+  santrauka: 'Pagoniškos šventės Lietuvoje išliko krikščioniškųjų švenčių sluoksnyje, o žilos senovės elementai lėmė tautosakos, folkloro ir tautodailės savitumą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Galėtume sakyti, kad pagoniškos šventės yra

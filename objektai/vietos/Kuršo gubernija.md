@@ -17,13 +17,15 @@ tags:
 Susikūrus nepriklausomai Latvijai, iš pradžių jos ir Lietuvos siena buvo laikoma buvusios Kuršo gubernijos siena. Tik Palangos pajūris (nuo Šventosios) ir kai kurios Pakuršės lietuviškos sodybos, buvusios Kuršo gubernijoje, buvo priskirtos prie Lietuvos, o Žiemgalos pasieny prie Latvijos buvo priskirti kai kurie buvusios Kauno gubernijos kaimai.
 
 ## Teiginiai
-- t-002
+- t-001
   teiginys: 'Tik Palangos pajūris (nuo Šventosios) ir kai kurios Pakuršės lietuviškos sodybos, buvusios Kuršo gubernijoje, buvo priskirtos prie Lietuvos, o Žiemgalos pasieny prie Latvijos buvo priskirti kai kurie buvusios Kauno gubernijos kaimai.'
   pagrindžia:
-    - c-002
+    - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-002
+- c-001
   santrauka: 'Tik Palangos pajūris (nuo Šventosios) ir kai kurios Pakuršės lietuviškos sodybos, buvusios Kuršo gubernijoje, buvo priskirtos prie Lietuvos, o Žiemgalos pasieny prie Latvijos buvo priskirti kai kurie buvusios Kauno gubernijos kaimai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -32,13 +34,13 @@ Susikūrus nepriklausomai Latvijai, iš pradžių jos ir Lietuvos siena buvo lai
     Kuršo gubernijoje, buvo priskirtos prie Lietuvos, o Žiemgalos
     pasieny prie Latvijos buvo priskirti kai kurie buvusios Kauno
     gubernijos kaimai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

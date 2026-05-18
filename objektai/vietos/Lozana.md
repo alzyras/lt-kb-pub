@@ -19,23 +19,25 @@ gatai išvyko į Lozaną (Lausanne, Šveicarijoje), kur tų pavergtų tautų kon
 
 ## Teiginiai
 - t-001
-  teiginys: 'gatai išvyko į Lozaną (Lausanne, Šveicarijoje), kur tų pavergtų tautų kongresas pareikalavo visai nepriklausomos Lietuvos.'
+  teiginys: 'Lozanoje pavergtų tautų kongresas pareikalavo visiškai nepriklausomos Lietuvos atstatymo.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'gatai išvyko į Lozaną (Lausanne, Šveicarijoje), kur tų pavergtų tautų kongresas pareikalavo visai nepriklausomos Lietuvos.'
+  santrauka: 'Lozanoje pavergtų tautų kongresas pareikalavo visiškai nepriklausomos Lietuvos atstatymo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kiek vėliau trys Komiteto dele-
     gatai išvyko į Lozaną _(Lausanne,_ Šveicarijoje), kur tų pavergtų
     tautų kongresas pareikalavo visai nepriklausomos Lietuvos
     atstatymo.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: zemas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

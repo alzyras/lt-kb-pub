@@ -35,7 +35,7 @@ Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų iš
 
 ## Teiginiai
 - t-001
-  teiginys: 'Nuo Jekaterinos II laikų į vietinį valdymą buvo įtrauktos atskirų luomų savivaldos institucijos.'
+  teiginys: 'Jekaterinos II laikais į vietinį valdymą buvo įtrauktos atskirų luomų savivaldos institucijos.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -43,7 +43,7 @@ Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų iš
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Nuo Jekaterinos II laikų į vietinį valdymą buvo įtrauktos atskirų luomų savivaldos institucijos.'
+  santrauka: 'Jekaterinos II laikais į vietinį valdymą buvo įtrauktos atskirų luomų savivaldos institucijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     L I E T U V O S  I S T O R I J A

@@ -17,8 +17,8 @@ tags:
 Lietuvos pripažinimo reikalai nejudėjo į priekį, daugybė durų jai buvo užtrenktos, nes Prancūzija palaikė didelės Lenkijos „nuo jūros iki jūros“ (nuo Baltijos iki Juodosios) planą, ypač Rusijos iširimo atveju.
 
 ## Teiginiai
-- t-002
-  teiginys: 'Lietuvos pripažinimo reikalai nejudėjo į priekį, daugybė durų jai buvo užtrenktos, nes Prancūzija palaikė didelės Lenkijos „nuo jūros iki jūros“ (nuo Baltijos iki Juodosios) planą, ypač Rusijos iširimo atveju.'
+- t-003
+  teiginys: 'Prancūzijos parama didelės Lenkijos „nuo jūros iki jūros“ planui stabdė Lietuvos pripažinimą.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -26,7 +26,7 @@ Lietuvos pripažinimo reikalai nejudėjo į priekį, daugybė durų jai buvo už
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lietuvos pripažinimo reikalai nejudėjo į priekį, daugybė durų jai buvo užtrenktos, nes Prancūzija palaikė didelės Lenkijos „nuo jūros iki jūros“ (nuo Baltijos iki Juodosios) planą, ypač Rusijos iširimo atveju.'
+  santrauka: 'Prancūzijos parama didelės Lenkijos „nuo jūros iki jūros“ planui stabdė Lietuvos pripažinimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kovos veiksmai su raudonaisiais
@@ -44,4 +44,4 @@ Lietuvos pripažinimo reikalai nejudėjo į priekį, daugybė durų jai buvo už
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-003

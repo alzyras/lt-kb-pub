@@ -19,7 +19,7 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
 
 ## Teiginiai
 - t-001
-  teiginys: 'Niujorkas buvo viena iš pagrindinių JAV vietų, kur gyveno daugiau kaip 300 000 lietuvių imigrantų.'
+  teiginys: 'Daugiau kaip 300 000 JAV lietuvių imigrantų daugiausia gyveno Čikagoje, Niujorke ir Pensilvanijoje.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -27,7 +27,7 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Niujorkas buvo viena iš pagrindinių JAV vietų, kur gyveno daugiau kaip 300 000 lietuvių imigrantų.'
+  santrauka: 'Daugiau kaip 300 000 JAV lietuvių imigrantų daugiausia gyveno Čikagoje, Niujorke ir Pensilvanijoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilva-

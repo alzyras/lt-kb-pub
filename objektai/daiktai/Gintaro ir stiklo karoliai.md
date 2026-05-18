@@ -35,7 +35,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Buvo mėgiami gintaro ir stiklo karoliai.'
+  teiginys: 'Gintaro ir stiklo karoliai buvo mėgiami kaip ir ankstyvesniais laikais.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -43,19 +43,17 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Buvo mėgiami gintaro ir stiklo karoliai.
+  santrauka: 'Gintaro ir stiklo karoliai buvo mėgiami kaip ir ankstyvesniais laikais.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kaip ir ankstyvesniais laikais, buvo mėgiami gintaro, stiklo karo­
     liai.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-001
     - t-001
 
 ## Ryšiai

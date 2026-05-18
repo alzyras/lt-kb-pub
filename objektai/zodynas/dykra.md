@@ -48,22 +48,22 @@ pasienio neapgyventa, dykai likusi teritorija; žemė tarp ribų, miškų ir gyv
 Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Dykra šiame fragmente reiškia pasienio neapgyventą teritoriją.'
+- t-004
+  teiginys: 'Melno dokumente dykros minimos kaip negyvenami plotai, per kuriuos buvo sunku tiksliai išvesti sienas.'
   pagrindžia:
-    - c-003
+    - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-002
+- t-005
   teiginys: 'Sūduvos dykra 1422 m. buvo padalinta.'
   pagrindžia:
-    - c-004
+    - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-003
-  santrauka: Dykra šiame fragmente reiškia pasienio neapgyventą teritoriją
+- c-001
+  santrauka: 'Melno dokumente dykros minimos kaip negyvenami plotai, per kuriuos buvo sunku tiksliai išvesti sienas.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Melno dokumente sienų nebuvo galima tiksliai išvesti, nes jos
@@ -76,9 +76,9 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-- c-004
-  santrauka: Sūduvos dykra 1422 m. buvo padalinta
+    - t-004
+- c-002
+  santrauka: 'Sūduvos dykra 1422 m. buvo padalinta.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Ilgai ginčijama Sūduvos dykra 1422 m. tapo padalinta. Sūduvių
@@ -91,7 +91,7 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-005
 
 ## Pastabos
 

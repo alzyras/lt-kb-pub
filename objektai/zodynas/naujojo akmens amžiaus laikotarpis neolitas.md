@@ -18,13 +18,15 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Šis laikotarpis vadinamas naujuoju akmens amžiumi, arba neolitu.'
+  teiginys: 'Neolitas Lietuvoje tęsėsi nuo maždaug 3000 iki 1500 m. pr. Kr.; tuo metu žmonės sėslėjo, dirbo žemę ir augino naminius gyvulius.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Šis laikotarpis vadinamas naujuoju akmens amžiumi, arba neolitu.'
+  santrauka: 'Neolitas Lietuvoje tęsėsi nuo maždaug 3000 iki 1500 m. pr. Kr.; tuo metu žmonės sėslėjo, dirbo žemę ir augino naminius gyvulius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Apie 3.000 m. pr. Kr. žmonių gyvenime atsiranda naujų per-
@@ -34,10 +36,10 @@ tags:
     fuoti. Šis laikotarpis vadinamas naujuoju akmens am-
     žiumi, arba neolitu. Neolitas Lietuvoje tęsėsi maždaug iki
     1.500 m. pr. Kr.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

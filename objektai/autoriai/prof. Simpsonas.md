@@ -18,23 +18,25 @@ Smetona), kurios savo konferencijose, tarpininkaujant škotui prof. Simpsonui, i
 
 ## Teiginiai
 - t-001
-  teiginys: 'Smetona), kurios savo konferencijose, tarpininkaujant škotui prof. Simpsonui, išvedė sieną, nedaug tenutoldamos nuo buvusios gubernijos sienos.'
+  teiginys: 'Škotas prof. Simpsonas tarpininkavo komisijų konferencijose, kurios išvedė sieną nedaug nutoldamos nuo buvusios gubernijos sienos.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Smetona), kurios savo konferencijose, tarpininkaujant škotui prof. Simpsonui, išvedė sieną, nedaug tenutoldamos nuo buvusios gubernijos sienos.'
+  santrauka: 'Škotas prof. Simpsonas tarpininkavo komisijų konferencijose, kurios išvedė sieną nedaug nutoldamos nuo buvusios gubernijos sienos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     (lietuvių komisijai pirmininkavo pirmasis ir dabartinis prezi-
     dentas A. Smetona), kurios savo konferencijose, tarpininkaujant
     škotui prof. Simpsonui, išvedė sieną, nedaug tenutoldamos nuo
     buvusios gubernijos sienos.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

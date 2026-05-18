@@ -47,64 +47,40 @@ J. Jakštas minimas kaip istorikas ir autorius; šiame tome jis siejamas su Voki
 - Žalgirio mūšis
 
 ## Teiginiai
-- t-001
-  teiginys: 'J. Jakštas parašė pirmąją veikalo dalį.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 - t-002
   teiginys: 'J. Jakštas yra veikalo Vokiečių Ordinas ir Lietuva Vytenio ir Gedimino metu autorius.'
   pagrindžia:
-    - c-002
+    - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: 'J. Jakštas paskelbė originalią ir kritišką studiją apie Vokiečių ordiną ir Lietuvą Vytenio bei Gedimino laikais, taip pat apdairiai nagrinėjo Jogailos ir Vytauto kovas su Vokiečių ordinu.'
+  teiginys: 'J. Jakštas paskelbė studiją apie Vokiečių ordiną ir Lietuvą Vytenio bei Gedimino laikais ir nagrinėjo Jogailos bei Vytauto kovas su Ordinu.'
   pagrindžia:
-    - c-003
+    - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-004
   teiginys: 'J. Jakštas Gedimino laiškus laikė glaudaus rygiečių ir Gedimino politinio veikimo produktu.'
   pagrindžia:
-    - c-004
+    - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-005
-  teiginys: 'J. Jakštas parašė Naujausi Gedimino dinastijos kilmės tyrinėjimai ir kartu su I. Jonynu straipsnį Gediminas.'
+  teiginys: 'J. Jakštas parašė „Naujausi Gedimino dinastijos kilmės tyrinėjimai“ ir su I. Jonynu paskelbė straipsnį „Gediminas“.'
+  pagrindžia:
+    - c-004
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-006
+  teiginys: 'J. Jakštas paskelbė darbus „Dlugošas apie Žalgirio mūšį“ ir „Žalgirio mūšis“.'
   pagrindžia:
     - c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-006
-  teiginys: 'J. Jakštas parašė Dlugošas apie Žalgirio mūšį ir Žalgirio mūšis.'
-  pagrindžia:
-    - c-006
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: J. Jakštas parašė pirmąją veikalo dalį
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tuo būdu p. J. Jakštas parašė apie pirmąjį mūsų
-    tautos valstybinio gyvenimo laikotarpį, iki krikščioniškųjų lai-
-    kų pradžios, dr. Z. Ivinskis — apie sekantį laikotarpį, iki Gedi-
-    minaičių dinastijos galo; man teko tęsinys — iki nepriklausomo-
-    sios valstybės galo; p. P. Šležas parašė apie rusų valdymo lai-
-    kus, o p. P. Klimas — apie nepriklausomosios valstybės atsta-
-    tymą ir nepriklausomojo gyvenimo laikotarpį.
-  citata_rodoma: |
-    Tuo būdu p. J. Jakštas parašė apie pirmąjį mūsų tautos valstybinio gyvenimo laikotarpį, iki krikščioniškųjų laikų pradžios, dr. Z. Ivinskis — apie sekantį laikotarpį, iki Gediminaičių dinastijos galo; man teko tęsinys — iki nepriklausomosios valstybės galo; p. P. Šležas parašė apie rusų valdymo laikus, o p. P. Klimas — apie nepriklausomosios valstybės atstatymą ir nepriklausomojo gyvenimo laikotarpį.
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: Santrumpų sąrašas susieja J. Jakštą su darbu apie ordiną ir Lietuvą Vytenio bei Gedimino metu
+  santrauka: 'J. Jakštas yra veikalo Vokiečių Ordinas ir Lietuva Vytenio ir Gedimino metu autorius.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     JakG = Jakštas, J. : Vokiečių Ordinas ir Lietuva Vytenio ir Gedi­
@@ -116,8 +92,8 @@ J. Jakštas minimas kaip istorikas ir autorius; šiame tome jis siejamas su Voki
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-- c-003
-  santrauka: J. Jakštas apibūdinamas kaip originalių ir kritiškų studijų apie ordiną autorius
+- c-002
+  santrauka: 'J. Jakštas paskelbė studiją apie Vokiečių ordiną ir Lietuvą Vytenio bei Gedimino laikais ir nagrinėjo Jogailos bei Vytauto kovas su Ordinu.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Lietuvos istorijos dirvone gana pozityviu būdu pasirodė J.
@@ -136,8 +112,8 @@ J. Jakštas minimas kaip istorikas ir autorius; šiame tome jis siejamas su Voki
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
-- c-004
-  santrauka: J. Jakštas minimas tarp autorių, aiškinusių Gedimino laiškų kilmę politiniu veikimu
+- c-003
+  santrauka: 'J. Jakštas Gedimino laiškus laikė glaudaus rygiečių ir Gedimino politinio veikimo produktu.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     ir lietuviai (T. Narbutas, A. Prochaska, K. Chodynicki, H. Pasz­
@@ -151,8 +127,8 @@ J. Jakštas minimas kaip istorikas ir autorius; šiame tome jis siejamas su Voki
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
-- c-005
-  santrauka: Išnašoje J. Jakštui priskiriami darbai apie Gedimino dinastiją ir Gediminą
+- c-004
+  santrauka: 'J. Jakštas parašė „Naujausi Gedimino dinastijos kilmės tyrinėjimai“ ir su I. Jonynu paskelbė straipsnį „Gediminas“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     — Jakštas, J. : JakG, I, 127-135 ; II, 5-59 p. — (”) _Naujausi Gedimino
@@ -165,8 +141,8 @@ J. Jakštas minimas kaip istorikas ir autorius; šiame tome jis siejamas su Voki
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
-- c-006
-  santrauka: Žalgirio mūšio bibliografijoje J. Jakštui priskiriami du darbai
+- c-005
+  santrauka: 'J. Jakštas paskelbė darbus „Dlugošas apie Žalgirio mūšį“ ir „Žalgirio mūšis“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Jakštas, J. : _Dlugošas apie Žalgirio
@@ -185,6 +161,3 @@ J. Jakštas minimas kaip istorikas ir autorius; šiame tome jis siejamas su Voki
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
-
-### Susiję objektai
-- [[objektai/autoriai/Z. Ivinskis]]

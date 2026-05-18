@@ -21,48 +21,22 @@ Iš savo pusės Lenkų bajorai pasižadėjo, kad mirus Jogailai nerinksią naujo
 
 ## Teiginiai
 - t-001
-  teiginys: 'Iš savo pusės Lenkų bajorai pasižadėjo, kad mirus Jogailai nerinksią naujo karaliaus be lietuvių ir be Vytauto žinios.'
+  teiginys: 'Lenkų bajorai Radome pasižadėjo po Jogailos mirties nerinkti naujo karaliaus be lietuvių ir Vytauto žinios.'
+  pagrindžia:
+    - c-001
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: 'Lenkų bajorai sutiko pripažinti Jogailos sūnums sostą, išsireikalavę iš Jogailos savo privilegijų praplėtimo.'
   pagrindžia:
     - c-003
-    - c-001
-- t-002
-  teiginys: 'Jogaila tuojau ėmė rūpintis, kad lenkai iš anksto pripažintų jo sūnums sostą.'
-  pagrindžia:
-    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Iš savo pusės Lenkų bajorai pasižadėjo, kad mirus Jogailai nerinksią naujo karaliaus be lietuvių ir be Vytauto žinios.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Iš savo pusės Lenkų ba-
-    jorai pasižadėjo, kad mirus Jogailai nerinksią naujo karaliaus be
-    lietuvių ir be Vytauto žinios.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Jogaila tuojau ėmė rūpintis, kad lenkai iš anksto pripažintų jo sūnums sostą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Jogaila tuojau ėmė rūpintis, kad lenkai iš anksto pripažintų
-    jo sūnums sostą. Lenkų bajorai, už tai išsireikalavę iš Jogailos
-    sau privilegijų praplėtimo, sutiko. Atrodė, kad jau viskas
-    bus gerai, kad, seniesiems valdovams mirus, abudu sostus gaus
-    Jogailos sūnūs, — taip bent svajojo lenkai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: Lenkų bajorai papildomas patvirtintas šaltinio paminėjimas.
+  santrauka: 'Lenkų bajorai Radome pasižadėjo po Jogailos mirties nerinkti naujo karaliaus be lietuvių ir Vytauto žinios.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     atskirais dokumentais jį patvirtino Vytautas, Jo-
@@ -73,10 +47,40 @@ Iš savo pusės Lenkų bajorai pasižadėjo, kad mirus Jogailai nerinksią naujo
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Lenkų bajorai Radome pasižadėjo po Jogailos mirties nerinkti naujo karaliaus be lietuvių ir Vytauto žinios.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Iš savo pusės Lenkų ba-
+    jorai pasižadėjo, kad mirus Jogailai nerinksią naujo karaliaus be
+    lietuvių ir be Vytauto žinios.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-003
+  santrauka: 'Lenkų bajorai sutiko pripažinti Jogailos sūnums sostą, išsireikalavę iš Jogailos savo privilegijų praplėtimo.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Jogaila tuojau ėmė rūpintis, kad lenkai iš anksto pripažintų
+    jo sūnums sostą. Lenkų bajorai, už tai išsireikalavę iš Jogailos
+    sau privilegijų praplėtimo, sutiko. Atrodė, kad jau viskas
+    bus gerai, kad, seniesiems valdovams mirus, abudu sostus gaus
+    Jogailos sūnūs, — taip bent svajojo lenkai.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai

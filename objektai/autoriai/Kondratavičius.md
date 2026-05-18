@@ -19,13 +19,15 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Čia ypač pasižymėjo universiteto auklėtiniai Mickevičius, Kraševskis, Kondratavičius ir daugelis kitų.'
+  teiginys: 'Kondratavičius buvo universiteto auklėtinis, pasižymėjęs lenkų romantinėje literatūroje, kuri temas ėmė iš Lietuvos istorijos.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Čia ypač pasižymėjo universiteto auklėtiniai Mickevičius, Kraševskis, Kondratavičius ir daugelis kitų.'
+  santrauka: 'Kondratavičius buvo universiteto auklėtinis, pasižymėjęs lenkų romantinėje literatūroje, kuri temas ėmė iš Lietuvos istorijos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Universitetui sukėlus susidomėjimą Lietuvos senove, iš-
@@ -37,11 +39,11 @@ tags:
     savo tėvynę Lietuvą, o save laikė tik lenkiškos kultūros lietu-
     viais. Iš antros pusės, tie patys raštai kiek vėliau labai paveikė
     iš liaudies tarpo kilusią lietuviškąją inteligentiją.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

@@ -1,6 +1,6 @@
 ---
 tipas: asmuo
-pavadinimas: 'Kęstutis'
+pavadinimas: 'Kęstutis (vakarų pasienio valdovas, XIV–XV a.)'
 sukurta: '2026-04-24'
 variantai:
   - 'Kęstučio'
@@ -11,6 +11,7 @@ variantai:
   - 'Kęstutis'
 aliases:
   - 'Kęstutis (vakarų pasienio valdovas, 1361 m.)'
+  - 'Kęstutis'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
@@ -46,7 +47,7 @@ patikimumas: 'aukštas'
 tags:
   - asmuo
 ---
-# Kęstutis
+# Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
 ## Santrauka
 
 Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis Lietuvos gynėjas nuo kryžiuočių. Jis siejamas su Trakų pilimi, kovomis su ordinu, derybomis dėl krikšto, herojiškais pagoniškojo patriotizmo laikais, Jogailos pergale prieš jį ir nužudymu Krėvoje.

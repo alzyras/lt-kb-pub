@@ -41,13 +41,13 @@ Geografinis taškas, kuriuo leidinyje aiškinama Lietuvos vieta Europos geografi
 Vieta apibrėžiama Lietuvos ir Vilniaus geografiniame kontekste.
 
 ## Teiginiai
-- t-004
+- t-006
   teiginys: 'Geografinis Europos centras nurodomas Lietuvoje.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-005
+- t-007
   teiginys: 'Prancūzijos nacionalinis geografijos institutas apskaičiavo, kad Europos centro statmuo yra 25 km į šiaurę nuo Vilniaus.'
   pagrindžia:
     - c-002
@@ -69,7 +69,7 @@ Vieta apibrėžiama Lietuvos ir Vilniaus geografiniame kontekste.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-006
 - c-002
   santrauka: 'Prancūzijos nacionalinis geografijos institutas apskaičiavo, kad Europos centro statmuo yra 25 km į šiaurę nuo Vilniaus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -84,7 +84,7 @@ Vieta apibrėžiama Lietuvos ir Vilniaus geografiniame kontekste.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
+    - t-007
 
 ## Šaltiniai ir įrodymai
 

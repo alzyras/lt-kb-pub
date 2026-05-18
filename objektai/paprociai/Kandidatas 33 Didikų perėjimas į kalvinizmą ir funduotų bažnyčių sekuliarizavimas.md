@@ -36,7 +36,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'XVI a. šeštajame ir septintajame dešimtmečiais beveik visi LDK didikai buvo perėję į reformaciją ir sekuliarizavę savo funduotas bažnyčias.'
+  teiginys: 'XVI a. šeštajame-septintajame dešimtmetyje beveik visi LDK didikai perėjo į reformaciją ir sekuliarizavo savo funduotas bažnyčias.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -44,7 +44,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'XVI a. šeštajame ir septintajame dešimtmečiais beveik visi LDK didikai buvo perėję į reformaciją ir sekuliarizavę savo funduotas bažnyčias.'
+  santrauka: 'XVI a. šeštajame-septintajame dešimtmetyje beveik visi LDK didikai perėjo į reformaciją ir sekuliarizavo savo funduotas bažnyčias.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     XVI a. šeštajame–septintajame dešimtmetyje beveik visi didikai buvo

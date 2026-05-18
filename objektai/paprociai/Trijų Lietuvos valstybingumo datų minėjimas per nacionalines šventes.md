@@ -41,45 +41,27 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Lietuviai per nacionalines šventes mini tris Lietuvos valstybingumo datas.'
+- t-004
+  teiginys: 'Minimos Liepos 6-osios, Vasario 16-osios ir Kovo 11-osios Lietuva.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Minimos Liepos 6-osios, Vasario 16-osios ir Kovo 11-osios Lietuva.'
-  pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-003
+- t-005
   teiginys: 'Šis minėjimas siejamas su valstybės kūrimu, atkūrimu ir atsiskyrimu nuo sovietų imperijos.'
   pagrindžia:
-    - c-002
+    - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Lietuviai per nacionalines šventes mini tris Lietuvos valstybingumo datas.
+  santrauka: 'Minimos Liepos 6-osios, Vasario 16-osios ir Kovo 11-osios Lietuva.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tačiau svar-
     biausia, kodėl Lietuvai reikia prisiminti mūšius - ji kaip valstybė
-    buvo naikinama ir turėjo kurtis arba keltis net tris kartus.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: Minimos Liepos 6-osios, Vasario 16-osios ir Kovo 11-osios Lietuva.
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Visus
+    buvo naikinama ir turėjo kurtis arba keltis net tris kartus. Visus
     šiuos tris kartus minime per nacionalines šventes ir kalbame apie
     Liepos 6-osios Lietuvą (1253-aisiais tą dieną buvo karūnuotas
     Mindaugas), Vasario 16-osios Lietuvą arba Pirmąją Respubliką
@@ -93,5 +75,5 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-    - t-003
+    - t-004
+    - t-005

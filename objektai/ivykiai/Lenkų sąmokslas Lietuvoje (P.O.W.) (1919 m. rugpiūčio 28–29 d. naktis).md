@@ -32,35 +32,41 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Organizacijos centras buvo Kaune; visa nepriklausomoji Lietuva buvo suskirstyta į 13 apskričių, kurių kiekvienoje dar buvo po 3—4 tos organizacijos komendantūras.'
+  teiginys: 'P.O.W. organizacijos centras buvo Kaune, o nepriklausomoji Lietuva buvo suskirstyta į 13 jos apskričių.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Visą Lietuvą apipynusi sąmokslininkų tinklu, P.O.W.'
+  teiginys: 'P.O.W. organizacija rengėsi sukilimui ir stengėsi į savo pusę patraukti karininkus bei kareivius.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-003
-  teiginys: 'Mūsų saugumo organai susekė sąmokslininkus, tą pačią sukilimui skirtą naktį buvo padaryta krata P.O.W.'
+  teiginys: 'Saugumo organams susekus P.O.W. sąmokslininkus, jų vadai buvo areštuoti ir sukilimas neįvyko.'
   pagrindžia:
     - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Organizacijos centras buvo Kaune; visa nepriklausomoji Lietuva buvo suskirstyta į 13 apskričių, kurių kiekvienoje dar buvo po 3—4 tos organizacijos komendantūras.'
+  santrauka: 'P.O.W. organizacijos centras buvo Kaune, o nepriklausomoji Lietuva buvo suskirstyta į 13 jos apskričių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Organizacijos centras buvo Kaune; visa nepriklausomoji Lietuva
     buvo suskirstyta į 13 apskričių, kurių kiekvienoje dar buvo po
     3—4 tos organizacijos komendantūras.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Visą Lietuvą apipynusi sąmokslininkų tinklu, P.O.W.'
+  santrauka: 'P.O.W. organizacija rengėsi sukilimui ir stengėsi į savo pusę patraukti karininkus bei kareivius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Visą Lietuvą apipynusi sąmokslininkų tinklu, P.O.W. organi-
@@ -69,15 +75,15 @@ Nenurodyta
     pasisekę patraukti; kiti sąmokslininkai tyčia stojo į kariuomenę
     karininkais ir rūpinosi gauti atsakingas vietas. Pagaliau buvo
     nutarta 1919 m. rugpiūčio 28—29 d. naktį suruošti sukilimą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Mūsų saugumo organai susekė sąmokslininkus, tą pačią sukilimui skirtą naktį buvo padaryta krata P.O.W.'
+  santrauka: 'Saugumo organams susekus P.O.W. sąmokslininkus, jų vadai buvo areštuoti ir sukilimas neįvyko.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Mūsų saugumo organai susekė sąmokslininkus, tą pačią
@@ -85,11 +91,11 @@ Nenurodyta
     ne), kur buvo rastas organizacijos archyvas su narių sąrašais,
     šnipinėjimo, organizacijos ir kitais dokumentais. Sąmokslininkų
     vadai tuojau buvo areštuoti, ir sukilimo nebeįvyko.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
 

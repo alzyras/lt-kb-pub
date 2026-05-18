@@ -21,13 +21,13 @@ Pagrindinė forma: `vartavodamos`.
 Papildomos aiškios formos neišskirtos.
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: '`Vartavodamos` šaltinyje reiškia prekiaujant ar mainant.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Terminas vartojamas kalbant apie javų supirkimą ir pardavimą.'
   pagrindžia:
     - c-001
@@ -36,7 +36,7 @@ Papildomos aiškios formos neišskirtos.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Vartavodamos` šaltinyje reiškia prekiaujant ar mainant
+  santrauka: '`Vartavodamos` šaltinyje reiškia prekiaujant ar mainant.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Veltui dar Abromaitis apskelbė raštą metuose 1595, mokydamas, kaip reikia, javais
@@ -49,8 +49,8 @@ Papildomos aiškios formos neišskirtos.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
 
 ## Ryšiai
 ### Laikotarpiai

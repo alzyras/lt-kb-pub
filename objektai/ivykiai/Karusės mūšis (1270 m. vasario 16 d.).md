@@ -52,71 +52,75 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-004
   teiginys: '1270 m. vasario 16 d. abi kariuomenės ties Karuse (Virtsu) susitiko ant užšalusios jūros ledo.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-002
+- t-005
   teiginys: 'Karusės mūšyje žuvo Livonijos magistras Ottonas Luterbergas ir 52 Ordino broliai.'
   pagrindžia:
-    - c-002
+    - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-003
+- t-006
   teiginys: 'Hermano Vartbergės kronika mūšį sieja su 52 ordino broliais ir 600 krikščionių prie Karuzo.'
   pagrindžia:
-    - c-003
+    - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 1270 m. vasario 16 d. abi kariuomenės ties Karuse (Virtsu) susitiko ant užšalusios jūros ledo.
+  santrauka: '1270 m. vasario 16 d. abi kariuomenės ties Karuse (Virtsu) susitiko ant užšalusios jūros ledo.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Lietuviams žy-
+    ir Lealio vyskupų pajėgos. Lietuviams žy-
     giuojant iš Saremos salos, abi kariuomenės
     ties Karuse (Virtsu) 1270 m. vasario 16 d.
     susitiko ant užšalusios jūros ledo.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-004
 - c-002
-  santrauka: Karusės mūšyje žuvo Livonijos magistras Ottonas Luterbergas ir 52 Ordino broliai.
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Kovoje buvo nukautas Livonijos ma-
-    gistras Ottonas Luterbergas, taip pat
-    52 Ordino broliai (karo vadai). Abi pusės
-    neteko nemažai paprastų karių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: Hermano Vartbergės kronika mūšį sieja su 52 ordino broliais ir 600 krikščionių prie Karuzo.
+  santrauka: 'Hermano Vartbergės kronika mūšį sieja su 52 ordino broliais ir 600 krikščionių prie Karuzo.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     | „Betgi magistrą Otto su 52 ordino broliais ir
     | 600 krikščionių Viko krašte (in Maritima)
     | prie Karuzo šv. Mergelės Julijonos dieną ant
     | ledo sumušė lietuviai.“
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-006
+- c-003
+  santrauka: 'Karusės mūšyje žuvo Livonijos magistras Ottonas Luterbergas ir 52 Ordino broliai.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Kovoje buvo nukautas Livonijos ma-
+    gistras Ottonas Luterbergas, taip pat
+    52 Ordino broliai (karo vadai). Abi pusės
+    neteko nemažai paprastų karių. Ant žirgų
+    likę Ordino broliai pro daugelį lietu-
+    vių būrių prasikirto, jiems į pagalbą sku-
+    bėjo Tartu, Lealio vyskupai ir riteriai iš
+    Talino.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Laikotarpiai

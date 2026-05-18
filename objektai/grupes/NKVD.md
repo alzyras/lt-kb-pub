@@ -73,7 +73,7 @@ Sovietinė saugumo, vidaus reikalų ir represinė institucija bei kariuomenės s
 - susijusios vietos: Lietuva, SSRS giluma.
 
 ## Teiginiai
-- t-011
+- t-012
   teiginys: 'Sovietų NKVD kariuomenės daliniai turėjo neleisti numatytiems suimti asmenims pabėgti į Vokietiją.'
   pagrindžia:
     - c-001
@@ -99,7 +99,7 @@ Sovietinė saugumo, vidaus reikalų ir represinė institucija bei kariuomenės s
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-011
+    - t-012
 
 ## Šaltiniai ir įrodymai
 

@@ -20,7 +20,7 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
 
 ## Teiginiai
 - t-001
-  teiginys: 'Į numatomą autonomijos teritoriją įtraukta Lenkijos karalystei priklausiusi Užnemunė, arba Suvalkija.'
+  teiginys: 'Numatomai autonomijai priskirta Lenkijos karalystei priklausiusi Užnemunė, arba Suvalkija.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -34,7 +34,7 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Į numatomą autonomijos teritoriją įtraukta Lenkijos karalystei priklausiusi Užnemunė, arba Suvalkija.'
+  santrauka: 'Numatomai autonomijai priskirta Lenkijos karalystei priklausiusi Užnemunė, arba Suvalkija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Teritorija, kurioje ši autonomija veiktų, apibrėžta

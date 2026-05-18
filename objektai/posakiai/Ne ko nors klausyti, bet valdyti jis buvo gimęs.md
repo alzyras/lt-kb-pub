@@ -32,7 +32,7 @@ Aforistinė charakteristika pabrėžia, kad Vytauto prigimtis tekste siejama su 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Formulė Vytautą apibūdina kaip žmogų, gimusį valdyti, o ne klausyti kitų.'
+  teiginys: 'Vytautas ėmė vesti savarankišką politiką ir iš Jogailos pavaldinio tapo jam lygiu valdovu.'
   pagrindžia:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -40,7 +40,7 @@ Aforistinė charakteristika pabrėžia, kad Vytauto prigimtis tekste siejama su 
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Aforizmas išryškina Vytauto politinį savarankiškumą ir valdžios siekį.
+  santrauka: 'Vytautas ėmė vesti savarankišką politiką ir iš Jogailos pavaldinio tapo jam lygiu valdovu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Bet tokia būkle
@@ -49,7 +49,7 @@ Aforistinė charakteristika pabrėžia, kad Vytauto prigimtis tekste siejama su 
     ėmė vesti savarankišką politiką ir iš Jogailos pavaldinio tapo
     jam lygus valdovas.
   citata_rodoma: ""
-  teiginio_tipas: vertinimas
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""

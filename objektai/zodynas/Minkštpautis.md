@@ -18,7 +18,7 @@ Pagrindinė forma: `minkštpautis`.
 Papildomos aiškios formos neišskirtos.
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: '`Minkštpautis` šiame tekste reiškia nevyrišką, lepną ar silpną žmogų.'
   pagrindžia:
     - c-001
@@ -27,7 +27,7 @@ Papildomos aiškios formos neišskirtos.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Minkštpautis` šiame tekste reiškia nevyrišką, lepną ar silpną žmogų
+  santrauka: '`Minkštpautis` šiame tekste reiškia nevyrišką, lepną ar silpną žmogų.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     lepnų^385 ir neskudrų: „Merga, – sako, – ne vyras, minkštpautis“ arba: „Veršis nelaižytas, mulkis
@@ -38,7 +38,7 @@ Papildomos aiškios formos neišskirtos.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Pastabos
 

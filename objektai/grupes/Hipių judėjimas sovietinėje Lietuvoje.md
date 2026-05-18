@@ -30,7 +30,7 @@ Apie 1968 m. atsirado pirmosios hipių judėjimo grupelės, o Prahos pavasaris s
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: '1971 m. viename Vilniaus restorane įvyko nelegalus roko festivalis, vadintas Baltijos šalių ar net SSRS hipių suvažiavimu.'
+  teiginys: '1971 m. viename Vilniaus restoranų įvyko nelegalus roko festivalis, vadintas Baltijos šalių ar SSRS hipių suvažiavimu.'
   pagrindžia:
     - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -65,7 +65,7 @@ Apie 1968 m. atsirado pirmosios hipių judėjimo grupelės, o Prahos pavasaris s
   pagrindžia:
     - t-002
 - c-003
-  santrauka: '1971 m. viename Vilniaus restorane įvyko nelegalus roko festivalis, vadintas Baltijos šalių ar net SSRS hipių suvažiavimu.'
+  santrauka: '1971 m. viename Vilniaus restoranų įvyko nelegalus roko festivalis, vadintas Baltijos šalių ar SSRS hipių suvažiavimu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1971 m. viename iš Vilniaus

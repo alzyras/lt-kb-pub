@@ -21,41 +21,22 @@ Naugardo miestiečių valstybė. Naugardu, 1262 m. nužygiavo į Livonijos ordin
 
 ## Teiginiai
 - t-001
-  teiginys: 'Naugardo miestiečių valstybė.'
+  teiginys: 'D. Naugardas buvo miestiečių valstybė.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Naugardu, 1262 m. nužygiavo į Livonijos ordino žemę net iki Cėsio (Vendeno).'
-  pagrindžia:
-    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Naugardo miestiečių valstybė.'
+  santrauka: 'D. Naugardas buvo miestiečių valstybė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     D. Naugardo miestiečių valstybė.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Naugardu, 1262 m. nužygiavo į Livonijos ordino žemę net iki Cėsio (Vendeno).'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    jungą su D. Naugardu, 1262 m. nužygiavo į Livonijos ordino
-    žemę net iki Cėsio (Vendeno).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Cėsis (Vendenas)]]

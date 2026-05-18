@@ -19,21 +19,27 @@ Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Švei
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Šveicarijoje.'
+  teiginys: 'Neutralioje Šveicarijoje susidarė negausus, bet aktyvus lietuvių būrys, šelpęs belaisvius Vokietijoje ir skleidęs žinias apie lietuvių teises.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Buvo nutarta politinės propagandos centrą padaryti Šveicarijoje ir čia sukurti Rusijos, Lietuvos ir Amerikos lietuvių tarybą; dar.'
+  teiginys: 'Šveicarijoje nutarta steigti politinės propagandos centrą ir Rusijos, Lietuvos bei Amerikos lietuvių tarybą, kurios darbo pagrindu tapo nepriklausomybės reikalavimas.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-003
   teiginys: 'Šveicarijos komitetai darbavosi ligi karo pabaigos.'
   pagrindžia:
     - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Šveicarijoje.'
+  santrauka: 'Neutralioje Šveicarijoje susidarė negausus, bet aktyvus lietuvių būrys, šelpęs belaisvius Vokietijoje ir skleidęs žinias apie lietuvių teises.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kitas labai negausus, bet aktyvus lietuvių būrys susidarė
@@ -41,25 +47,25 @@ Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Švei
     organizacijų teikiamomis lėšomis tas būrys šelpė lietuvius be-
     laisvius Vokietijoje ir skleidė žinias apie lietuvių tautą ir jos
     reikalaujamąsias teises savarankiškai tvarkytis.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Buvo nutarta politinės propagandos centrą padaryti Šveicarijoje ir čia sukurti Rusijos, Lietuvos ir Amerikos lietuvių tarybą; dar.'
+  santrauka: 'Šveicarijoje nutarta steigti politinės propagandos centrą ir Rusijos, Lietuvos bei Amerikos lietuvių tarybą, kurios darbo pagrindu tapo nepriklausomybės reikalavimas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Buvo nutarta politinės propagandos centrą padaryti Šveicarijoje
     ir čia sukurti Rusijos, Lietuvos ir Amerikos lietuvių tarybą; dar-
     bo pagrindu buvo paimtas nepriklausomybės reikalavimas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 - c-003
@@ -68,10 +74,10 @@ Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Švei
   citata_originali: |
     Šveicarijos ko-
     mitetai darbavosi ligi karo pabaigos.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003

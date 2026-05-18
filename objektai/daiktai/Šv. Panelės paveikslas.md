@@ -42,13 +42,13 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: 'Naujuosiuose Trakuose buvo išlikęs Vytauto numylėtas Šv. Panelės paveikslas.'
   pagrindžia:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Žmonės tą paveikslą laikė stebuklingu.'
   pagrindžia:
     - c-001
@@ -57,7 +57,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Paveikslas paminėtas kaip išlikęs, Vytautui brangus ir stebuklingu laikytas.
+  santrauka: 'Naujuosiuose Trakuose buvo išlikęs Vytauto numylėtas Šv. Panelės paveikslas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Taip, pavyzdžiui, yra išlikusių ži­
@@ -81,12 +81,12 @@ Nenurodyta
     varniuose, Veliuonoje
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata pateikta platesniame bažnyčių sąrašo kontekste, bet paveikslo savybės įvardytos tiesiogiai."
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
 
 ## Ryšiai
 ### Teminiai klasteriai

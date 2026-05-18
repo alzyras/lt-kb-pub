@@ -31,7 +31,7 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
 
 ## Teiginiai
 - t-001
-  teiginys: 'III Seimo naujoji valdančioji dauguma siekė įdiegti šalyje visateisę demokratinę santvarką.'
+  teiginys: 'III Seimo naujoji valdančioji dauguma skubėjo įdiegti Lietuvoje visateisę demokratinę santvarką.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -39,7 +39,7 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'III Seimo naujoji valdančioji dauguma siekė įdiegti šalyje visateisę demokratinę santvarką.'
+  santrauka: 'III Seimo naujoji valdančioji dauguma skubėjo įdiegti Lietuvoje visateisę demokratinę santvarką.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S

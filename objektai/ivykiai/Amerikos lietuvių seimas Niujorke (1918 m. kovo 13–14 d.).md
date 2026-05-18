@@ -33,13 +33,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: '13—14 d. Naujorke buvo sušauktas Amerikos lietuvių seimas, kuriame susirinko apie 1.200 delegatų; jie pareikalavo iš Amerikos (tada jau kare dalyvavusios) vyriausybės pripažinti nepriklausomą Lietuvos valstybę.'
+  teiginys: '1918 m. kovo 13–14 d. Niujorke sušauktas Amerikos lietuvių seimas pareikalavo, kad JAV vyriausybė pripažintų nepriklausomą Lietuvos valstybę.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '13—14 d. Naujorke buvo sušauktas Amerikos lietuvių seimas, kuriame susirinko apie 1.200 delegatų; jie pareikalavo iš Amerikos (tada jau kare dalyvavusios) vyriausybės pripažinti nepriklausomą Lietuvos valstybę.'
+  santrauka: '1918 m. kovo 13–14 d. Niujorke sušauktas Amerikos lietuvių seimas pareikalavo, kad JAV vyriausybė pripažintų nepriklausomą Lietuvos valstybę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tais pat metais kovo mėn.
@@ -47,11 +49,11 @@ Nenurodyta
     kuriame susirinko apie 1.200 delegatų; jie pareikalavo iš Ameri-
     kos (tada jau kare dalyvavusios) vyriausybės pripažinti nepriklau-
     somą Lietuvos valstybę.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

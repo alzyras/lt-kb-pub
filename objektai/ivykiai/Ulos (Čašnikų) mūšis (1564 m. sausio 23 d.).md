@@ -57,26 +57,26 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-005
   teiginys: 'Petras Šuiskis pasirinko mūšio vietą prie Ulos upės netoli Čašnikų.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-002
+- t-006
   teiginys: 'Lietuvių puolimas sutelkė smūgį prieš maskvėnų artileriją ir sukėlė jų gretose sumaištį.'
   pagrindžia:
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-003
+- t-007
   teiginys: 'Mūšio pabaigoje maskvėnai buvo triuškinami, dalis jų skendo bandydami perplaukti Ulos upę.'
   pagrindžia:
     - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-004
-  teiginys: 'Šiame mūšyje žuvo apie 8000–10000 maskvėnų, o P. Šuiskio kūnas buvo palaidotas Vilniuje.'
+- t-008
+  teiginys: 'Ulos mūšyje žuvo apie 8000-10000 maskvėnų, o P. Šuiskio kūnas buvo atvežtas į Vilnių ir palaidotas stačiatikių katedroje.'
   pagrindžia:
     - c-004
     - c-005
@@ -85,7 +85,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Petras Šuiskis pasirinko mūšio vietą prie Ulos upės netoli Čašnikų.
+  santrauka: 'Petras Šuiskis pasirinko mūšio vietą prie Ulos upės netoli Čašnikų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kariuomenės viena kitą pamatė sau-
@@ -97,16 +97,17 @@ Nenurodyta
     Prieš tai jo kariuomenė per tris-keturias
     dienas buvo nukeliavusi apie 80 km, o lie-
     tuvių kariuomenė mūšio išvakarėse įveikė
-    apie 25 km atstumą.
-  citata_rodoma: ''
+    apie 25 km atstumą. P. Šuiskis išrikiavo
+    savo kariuomenę ir laukė lietuvių.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-005
 - c-002
-  santrauka: Lietuvių puolimas sutelkė smūgį prieš maskvėnų artileriją ir sukėlė jų gretose sumaištį.
+  santrauka: 'Lietuvių puolimas sutelkė smūgį prieš maskvėnų artileriją ir sukėlė jų gretose sumaištį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Puolimą pradėjo kelios lietu-
@@ -123,32 +124,32 @@ Nenurodyta
     nebuvo panaudotos, apie ką vėliau užsi-
     minė Radvila Rudasis) ir šaulius. Pavykus
     juos išmušti iš pozicijų, priešininkų ka-
-    riuomenéje kilo sumaištis
-  citata_rodoma: ''
+    riuomenéje kilo sumaištis.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-006
 - c-003
-  santrauka: Mūšio pabaigoje maskvėnai buvo triuškinami, dalis jų skendo bandydami perplaukti Ulos upę.
+  santrauka: 'Mūšio pabaigoje maskvėnai buvo triuškinami, dalis jų skendo bandydami perplaukti Ulos upę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Trumpai žiemos dienai
+    P. Šuiskis. Trumpai žiemos dienai
     baigiantis prasidėjo maskvėnų
     triuškinimas ir bėgančių priešų
     skerdynės. Daug bėgančių rusų pa-
     skendo, bandydami perplaukti Ulos upę.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-007
 - c-004
-  santrauka: Šiame mūšyje žuvo apie 8000–10000 maskvėnų, o P. Šuiskio kūnas buvo palaidotas Vilniuje.
+  santrauka: 'Ulos mūšyje žuvo apie 8000-10000 maskvėnų, o P. Šuiskio kūnas buvo atvežtas į Vilnių ir palaidotas stačiatikių katedroje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Skaičiuojama,
@@ -165,29 +166,30 @@ Nenurodyta
     kitų artimiausių caro Ivano rv dvariškių.
     Taip pat nemaža kilmingųjų buvo paimta
     į nelaisvę.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-008
 - c-005
-  santrauka: Šiame mūšyje žuvo apie 8000–10000 maskvėnų, o P. Šuiskio kūnas buvo palaidotas Vilniuje.
+  santrauka: 'Ulos mūšyje žuvo apie 8000-10000 maskvėnų, o P. Šuiskio kūnas buvo atvežtas į Vilnių ir palaidotas stačiatikių katedroje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    P. Šuiskio kūnas buvo atvež-
+    Taip pat nemaža kilmingųjų buvo paimta
+    į nelaisvę. P. Šuiskio kūnas buvo atvež-
     tas į Vilnių ir su didele pagarba palaidotas
     stačiatikių katedroje. Lietuviams atiteko
     daug Maskvos kariuomenės ginklų, šarvų,
     drabužių ir atsargų.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-008
 
 ## Ryšiai
 ### Laikotarpiai

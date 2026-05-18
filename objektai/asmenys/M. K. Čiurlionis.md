@@ -21,7 +21,7 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'M. K. Čiurlionis įvardytas kaip didžiausias Lietuvos menininkas, dailininkas ir kompozitorius prie Lietuvos Respublikos ištakų.'
+  teiginys: 'M. K. Čiurlionis buvo dailininkas ir kompozitorius, siejamas su Lietuvos Respublikos ištakomis.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -35,7 +35,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'M. K. Čiurlionis įvardytas kaip didžiausias Lietuvos menininkas, dailininkas ir kompozitorius prie Lietuvos Respublikos ištakų.'
+  santrauka: 'M. K. Čiurlionis buvo dailininkas ir kompozitorius, siejamas su Lietuvos Respublikos ištakomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuva po 1795 m. prijungimo prie Rusijos nepriklausomybę atkūrė

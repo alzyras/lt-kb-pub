@@ -42,7 +42,7 @@ Nenurodyta
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: '„Aušrai“ sustojus dėl vidinių idėjinių nesutarimų ir finansinių sunkumų, jos tęsėjai ėmė rengti naujus periodinius leidinius lietuvių kalba.'
+  teiginys: 'Sustojusi „Aušra“ išplėtė savarankiškos lietuvių tautos ugdymo tęsėjų gretas ir paskatino naujus lietuviškus periodinius leidinius.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -78,7 +78,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 - c-002
-  santrauka: '„Aušrai“ sustojus dėl vidinių idėjinių nesutarimų ir finansinių sunkumų, jos tęsėjai ėmė rengti naujus periodinius leidinius lietuvių kalba.'
+  santrauka: 'Sustojusi „Aušra“ išplėtė savarankiškos lietuvių tautos ugdymo tęsėjų gretas ir paskatino naujus lietuviškus periodinius leidinius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nors po trejų metų „Aušra“ dėl

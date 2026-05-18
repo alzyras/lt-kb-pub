@@ -21,7 +21,7 @@ Aplinkinėse valstybėse ir LDK pietrytinėje dalyje iki Vilniaus išplitusio ch
 
 ## Teiginiai
 - t-001
-  teiginys: 'Aplinkinėse valstybėse ir LDK pietrytinėje dalyje iki Vilniaus išplitusio chasidizmo šalininkai siūlė reformuoti ortodoksinį rabinizmą – sureikšminti individą ir nuoširdų jo tikėjimą, sušvelninti griežtus buitį normuojančius įstatymus.'
+  teiginys: 'Chasidizmo šalininkai siūlė reformuoti ortodoksinį rabinizmą, sureikšminti individą ir sušvelninti buitį normuojančius įstatymus.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -35,7 +35,7 @@ Aplinkinėse valstybėse ir LDK pietrytinėje dalyje iki Vilniaus išplitusio ch
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Aplinkinėse valstybėse ir LDK pietrytinėje dalyje iki Vilniaus išplitusio chasidizmo šalininkai siūlė reformuoti ortodoksinį rabinizmą – sureikšminti individą ir nuoširdų jo tikėjimą, sušvelninti griežtus buitį normuojančius įstatymus.'
+  santrauka: 'Chasidizmo šalininkai siūlė reformuoti ortodoksinį rabinizmą, sureikšminti individą ir sušvelninti buitį normuojančius įstatymus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Aplinkinėse valstybėse ir LDK pietrytinėje dalyje iki

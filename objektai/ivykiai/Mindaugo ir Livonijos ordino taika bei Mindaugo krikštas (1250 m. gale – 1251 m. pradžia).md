@@ -38,24 +38,21 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Mindaugas susitaikė su Livonijos ordino magistru Andriumi von Stirland, kuris su juo padarė taiką ir skatino krikštytis.'
+  teiginys: 'Mindaugas užmezgė ryšį su Livonijos ordino magistru Andriumi von Stirlandu, kuris jį skatino krikštytis ir sudarė su juo taiką.'
   pagrindžia:
     - c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: '1250 m. gale ar 1251 m. pradžioje Mindaugas priėmė krikštą.'
-  pagrindžia:
-    - c-008
-    - c-007
-    - c-006
-    - c-002
-- t-003
   teiginys: 'Mindaugas krikštijosi su sūnumis, žmona Morta ir didele daugybe jam pavaldžių pagonių.'
   pagrindžia:
-    - c-003
+    - c-002
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Mindaugas, naudodamasis priešų nesantaika, susitaikė su Livonijos ordino magistru Andriumi von Stirland ir iš jo pusės gavo taiką bei krikšto reikalavimą.'
+  santrauka: 'Mindaugas užmezgė ryšį su Livonijos ordino magistru Andriumi von Stirlandu, kuris jį skatino krikštytis ir sudarė su juo taiką.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Mindaugui buvo savotiška laimė, kad Tautvilas krikštijosi pas
@@ -67,29 +64,15 @@ Nenurodyta
     ir magistrui Danieliaus ir Tautvilo sąjunga su Rygos vokiečiais
     nebuvo pakeliui. Įtikinęs Mindaugą, žadėjusį užrašyti žemių, jog
     būtinai jam reikia krikštytis^87 , magistras su juo padarė taiką.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Mindaugo krikštas datuojamas 1250 m. galu arba 1251 m. pradžia.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    1250 m. gale ar 1251 pradžioje Mindaugas priėmė krikštą. Jis
-    nebuvo pirmasis lietuvių kunigas, kuris jieškojo Livonijos ordino
-    pagalbos ir krikštijosi.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Su Mindaugu krikštijosi jo šeima ir daugybė jam pavaldžių pagonių.'
+  santrauka: 'Mindaugas krikštijosi su sūnumis, žmona Morta ir didele daugybe jam pavaldžių pagonių.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Mindaugas krikštijosi
@@ -99,70 +82,11 @@ Nenurodyta
     krikštijosi « su didele daugybe pagonių »^92 ; o kitoje bulėje popie­
     žius dar aiškiau pažymėjo, kad krikštą priėmė « didelė daugybė pa­
     gonių, kurie buvo jam (Mindaugui) pasidavę»^93.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-    - t-003
-    - t-003
-- c-006
-  santrauka: Mindaugo krikštas papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Ne mažiau reikšmingas yra kitas klausimas, būtent, ar Min­
-    daugo ir jo šalininkų pasikrikštijimo datą (1251 m.) jau reikia
-    skaityti oficialiuoju visos lietuvių tautos krikštu. Ir tuo klausimu
-    nauji skambus revizionistiniai reikalavimai lietuvių spaudoje pirmą
-    kartą buvo iškelti po II-jo pasaulinio karo^3 , kai dėmesingai, ypač
-    J. A. V. lietuvių kolonijose, buvo švenčiama Mindaugo krikšto 700
-    m. sukaktis (1951 m.).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-002
-- c-007
-  santrauka: Mindaugo krikštas papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Atkeldami tikrojo Lietuvos krikšto datą į mindauginius laikus,
-    t. y. 136 m. anksčiau, be kitko, tos tezės gynėjai nurodo ir į lietu­
-    vių kaimynų oficialiosios krikšto datos paraleles. Pvz., pirmojo
-    ano meto šaltiniuose vos iš legendų miglų autentiškai pasirodančio
-    hercogo Mieško (iš Piastų giminės) pasikrikštijimas (966) laikomas
-    visos lenkų tautos krikštu^4 , kurio millennium (tūkstantmetį) lenkai
-    1966 m. visur taip dėmesingai atšventė. O didžiojo Kijevo kuni­
-    gaikščio Vladimiro (vėliau paskelbto šventuoju) ir jo pavaldinių
-    krikštas (988) taip pat yra laikomas pagrindine data, reiškiančia,
-    kad visi rytų slavai jau X amž. gale yra priėmę bizantiško pavi­
-    dalo krikščionybę su liturgija senojoje slavų kalboje^5.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-002
-    - t-002
-    - t-002
-- c-008
-  santrauka: Mindaugo krikštas papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Ir 1250 met. Mindaugas
-    apsikrikštijo; apkrikštijo ir daug savo didikų. Ordinui jis do­
-    vanojo žymią dalį Žemaitijos, o tas ne tik jį parėmė, bet ir
-    išrūpino jam karališkąjį vainiką.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

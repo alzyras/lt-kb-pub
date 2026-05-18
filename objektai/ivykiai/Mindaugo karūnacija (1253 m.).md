@@ -56,19 +56,19 @@ Mindaugo karūnacija šiame šaltinyje siejama su karūnos tikslu, pasiektu 1253
 Įvykis siejamas su Lietuvos pripažinimu ir Mindaugo diplomatiniu laimėjimu.
 
 ## Teiginiai
-- t-005
-  teiginys: 'Mindaugo karūnos tikslas buvo pasiektas 1253 m. liepos 6 d.'
+- t-008
+  teiginys: 'Mindaugo siektos karūnos tikslas buvo pasiektas 1253 m. liepos 6 d.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-006
+- t-009
   teiginys: 'Popiežius patenkino Mindaugo prašymą dėl karūnos.'
   pagrindžia:
     - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-007
+- t-010
   teiginys: 'Mindaugas buvo pirmas ir vienintelis vainikuotas Lietuvos karalius.'
   pagrindžia:
     - c-001
@@ -90,9 +90,9 @@ Mindaugo karūnacija šiame šaltinyje siejama su karūnos tikslu, pasiektu 1253
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-007
+    - t-010
 - c-002
-  santrauka: 'Mindaugo karūnos tikslas buvo pasiektas 1253 m. liepos 6 d.'
+  santrauka: 'Mindaugo siektos karūnos tikslas buvo pasiektas 1253 m. liepos 6 d.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tikslas buvo pasiektas 1253 m. liepos 6-ąją.
@@ -102,7 +102,7 @@ Mindaugo karūnacija šiame šaltinyje siejama su karūnos tikslu, pasiektu 1253
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
+    - t-008
 - c-003
   santrauka: 'Popiežius patenkino Mindaugo prašymą dėl karūnos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -114,7 +114,7 @@ Mindaugo karūnacija šiame šaltinyje siejama su karūnos tikslu, pasiektu 1253
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-006
+    - t-009
 
 ## Data ir vieta
 - 1253 m. liepos 6 d.

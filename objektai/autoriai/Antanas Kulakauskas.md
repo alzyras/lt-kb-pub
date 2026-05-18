@@ -44,14 +44,14 @@ Antanas Kulakauskas nurodytas kaip vienas knygos „Lietuvos istorija“ autori�
 - Carų valdžioje. Lietuva XIX amžiuje
 
 ## Teiginiai
-- t-004
+- t-006
   teiginys: 'Antanas Kulakauskas buvo vienas 2013 m. Vilniaus universiteto leidyklos išleistos „Lietuvos istorijos“ autorių.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-005
-  teiginys: 'Antanui Kulakauskui nurodytos 2013 m. leidimo autorių teisės.'
+- t-007
+  teiginys: '2013 m. leidime nurodytos Antano Kulakausko autorių teisės.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -79,9 +79,9 @@ Antanas Kulakauskas nurodytas kaip vienas knygos „Lietuvos istorija“ autori�
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-006
 - c-002
-  santrauka: 'Antanui Kulakauskui nurodytos 2013 m. leidimo autorių teisės.'
+  santrauka: '2013 m. leidime nurodytos Antano Kulakausko autorių teisės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Inga Vinogradnaitė
@@ -106,7 +106,7 @@ Antanas Kulakauskas nurodytas kaip vienas knygos „Lietuvos istorija“ autori�
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
+    - t-007
 
 ## Ryšiai
 ### Laikotarpiai

@@ -21,7 +21,7 @@ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK �
 
 ## Teiginiai
 - t-001
-  teiginys: 'Caro valdžia naikino šį kraštą nuo likusios Rusijos skyrusias institucijas ir neleido vietos administracijoje vartoti lenkų kalbos.'
+  teiginys: 'Šiame krašte buvo naikinamos nuo likusios Rusijos jį skyrusios institucijos ir neleista administracijoje vartoti lenkų kalbos.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -29,7 +29,7 @@ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK �
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Caro valdžia naikino šį kraštą nuo likusios Rusijos skyrusias institucijas ir neleido vietos administracijoje vartoti lenkų kalbos.'
+  santrauka: 'Šiame krašte buvo naikinamos nuo likusios Rusijos jį skyrusios institucijos ir neleista administracijoje vartoti lenkų kalbos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Todėl naikintos institucijos, kurios skyrė šį kraštą nuo

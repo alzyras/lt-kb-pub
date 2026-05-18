@@ -20,7 +20,7 @@ Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybė
 
 ## Teiginiai
 - t-001
-  teiginys: 'Po poros metų blaivybės brolijoms priklausė per 80 proc. vyskupijos gyventojų katalikų.'
+  teiginys: 'Blaivybės brolijoms priklausė per 80 proc. vyskupijos gyventojų katalikų.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -28,7 +28,7 @@ Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybė
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Po poros metų blaivybės brolijoms priklausė per 80 proc. vyskupijos gyventojų katalikų.'
+  santrauka: 'Blaivybės brolijoms priklausė per 80 proc. vyskupijos gyventojų katalikų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Po poros metų šių blaivybės

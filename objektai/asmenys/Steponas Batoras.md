@@ -44,68 +44,20 @@ tags:
 Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, siejamas su elekcija, karais su Maskva ir pergalingų Livonijos karo kampanijų atminimu. Vienas kūno fragmentas jį tiesiogiai susieja su paradiniu kalaviju, pagamintu šioms kampanijoms atminti.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Tarpuvaldis ir Stepono Batoro (1576—1586 m.) elekcija 282.'
-  pagrindžia:
-    - c-001
-- t-002
-  teiginys: 'Stepono Batoro karai su Maskva 285.'
-  pagrindžia:
-    - c-002
 - t-004
   teiginys: 'Steponas Batoras buvo sudaręs iš jų 500 raitelių vėliavą.'
   pagrindžia:
     - c-004
 - t-006
-  teiginys: 'Batoro; žemiau kairėje — Vazų, o dešinėje — Poniatauskų; pačioje apačioje — vysk.'
+  teiginys: 'Stepono Batoro herbas buvo pavaizduotas tarp aštuonių herbų aplink Vytį.'
   pagrindžia:
     - c-006
 - t-008
-  teiginys: '1576 m. Steponas Batoras turėjo 43 m. amžiaus.'
+  teiginys: '1576 m. Steponas Batoras buvo 43 metų amžiaus, silpnokos sveikatos, bet laikytas protingu ir energingu valdovu.'
   pagrindžia:
     - c-008
-- t-009
-  teiginys: 'Steponas Batoras įvardijamas Lietuvos ir Lenkijos valdovu.'
-  pagrindžia:
-    - c-009
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-010
-  teiginys: 'Stepono Batoro pergalingoms lietuvių ir jų sąjungininkų kampanijoms Maskvos žemėse Livonijos karo metu buvo pagamintas paradinis kalavijas.'
-  pagrindžia:
-    - c-009
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Tarpuvaldis ir Stepono Batoro (1576—1586 m.) elekcija 282.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    279
-    3. Tarpuvaldis ir Stepono Batoro (1576—1586 m.) elekcija 282
-    4.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Stepono Batoro karai su Maskva 285.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Stepono Batoro asmuo 284
-    5. Stepono Batoro karai su Maskva 285
-    6.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 - c-004
   santrauka: 'Steponas Batoras buvo sudaręs iš jų 500 raitelių vėliavą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -119,7 +71,7 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
   pagrindžia:
     - t-004
 - c-006
-  santrauka: 'Batoro; žemiau kairėje — Vazų, o dešinėje — Poniatauskų; pačioje apačioje — vysk.'
+  santrauka: 'Stepono Batoro herbas buvo pavaizduotas tarp aštuonių herbų aplink Vytį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Aplink Vytį—dar 8 kiti herbai:
@@ -134,7 +86,7 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
   pagrindžia:
     - t-006
 - c-008
-  santrauka: '1576 m. Steponas Batoras turėjo 43 m. amžiaus.'
+  santrauka: '1576 m. Steponas Batoras buvo 43 metų amžiaus, silpnokos sveikatos, bet laikytas protingu ir energingu valdovu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     1576 m. Steponas Batoras turėjo 43 m. amžiaus. Jis buvo
@@ -148,23 +100,6 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
-- c-009
-  santrauka: Steponas Batoras tiesiogiai susiejamas su valdovo titulu ir Livonijos karo pergalių atminimu.
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lietuvos ir Lenkijos valdovo Stepono Batoro pa-
-    radinis kalavijas, pagamintas pergalingoms Lietuvių ir jų
-    sąjungininkų kampanijoms Maskvos žemėse Livonijos karo
-    metu (1558-1582) atminti.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-009
-    - t-010
 
 ## Ryšiai
 ### Laikotarpiai
@@ -175,4 +110,3 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
 
 ### Susiję objektai
 - [[objektai/zodynas/elekcija]]
-- [[objektai/daiktai/Stepono Batoro paradinis kalavijas]]

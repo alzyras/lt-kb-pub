@@ -43,20 +43,20 @@ Rusiškosios raidės pateikiamos kaip rusinimo priemonė: jomis norėta perrašy
 Terminas vartojamas kalbant apie administracinį bandymą įvesti lietuviškai spaudai rusišką grafikos sistemą ir paversti ją mokykliniu skaitymo standartu.
 
 ## Teiginiai
-- t-001
-  teiginys: Rusiškosios raidės čia reiškia rusišką raidyną, kurį siekta primesti lietuviškiems tekstams.
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: Lietuvių mokiniai buvo verčiami skaityti tik rusiškomis raidėmis spausdintas lietuviškas knygas.
+- t-004
+  teiginys: 'Rusų slavofilai buvo iškėlę sumanymą, kad visi slavai turėtų vartoti rusiškąsias raides.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: Rusiškų raidžių įvedimas buvo skirtas atitraukti lietuvius nuo lenkų ir priartinti prie rusų.
+- t-005
+  teiginys: 'Lietuvių mokiniai buvo verčiami skaityti tik rusiškomis raidėmis spausdintas lietuviškas knygas.'
+  pagrindžia:
+    - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-006
+  teiginys: 'Rusiškų raidžių įvedimas buvo skirtas atitraukti lietuvius nuo lenkų ir priartinti prie rusų.'
   pagrindžia:
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -64,20 +64,7 @@ Terminas vartojamas kalbant apie administracinį bandymą įvesti lietuviškai s
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Slavofilų sumanymas visiems slavams vartoti rusiškąsias raides perkeltas ir į lietuviškos spaudos klausimą.
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kaip tik tuo metu rusų slavofilų tarpe buvo kilęs sumany-
-    mas, kad visiems slavams reikėtų vartoti rusiškąsias raides.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: Mokyklose buvo įsakyta lietuviams duoti tik rusiškomis raidėmis spausdintas knygas.
+  santrauka: 'Lietuvių mokiniai buvo verčiami skaityti tik rusiškomis raidėmis spausdintas lietuviškas knygas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Be to, mokytojai turėjo platinti rusiškas knygas. Ka-
@@ -91,9 +78,22 @@ Terminas vartojamas kalbant apie administracinį bandymą įvesti lietuviškai s
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-005
+- c-002
+  santrauka: 'Rusų slavofilai buvo iškėlę sumanymą, kad visi slavai turėtų vartoti rusiškąsias raides.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Kaip tik tuo metu rusų slavofilų tarpe buvo kilęs sumany-
+    mas, kad visiems slavams reikėtų vartoti rusiškąsias raides.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
 - c-003
-  santrauka: Aiškiai įvardijamas rusifikacinis tokio raidyno tikslas.
+  santrauka: 'Rusiškų raidžių įvedimas buvo skirtas atitraukti lietuvius nuo lenkų ir priartinti prie rusų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Įvedant rusiškas raides, buvo norima atitraukti lietuvius nuo
@@ -104,7 +104,7 @@ Terminas vartojamas kalbant apie administracinį bandymą įvesti lietuviškai s
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-006
 
 ## Šaltiniai ir įrodymai
 

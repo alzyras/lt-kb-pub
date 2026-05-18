@@ -33,17 +33,21 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tuo būdu prieš pirmąjį Respublikos padalinimą buvusi perskirta Prūsų Brandenburgo valstybė dabar turėjo būti ne tik galutinai sujungta į vieną plotą, bet net išlygintos ir labai praplėstos jos sienos.'
+  teiginys: '1793 m. dalybų sutartimi Prūsijai turėjo atitekti dideli Lenkijos plotai tarp abiejų Prūsų karalystės dalių.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Tuomet, kaip ir 1772 m., iš karaliaus ir seimo tereikėjo gauti tik padalinimo patvirtinimą; su apkarpyta Respublika reikėjo padaryti naują taikos sutartį.'
+  teiginys: 'Po 1793 m. okupacijų Rusijai ir Prūsijai reikėjo gauti karaliaus bei seimo padalinimo patvirtinimą ir sudaryti naują taikos sutartį.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tuo būdu prieš pirmąjį Respublikos padalinimą buvusi perskirta Prūsų Brandenburgo valstybė dabar turėjo būti ne tik galutinai sujungta į vieną plotą, bet net išlygintos ir labai praplėstos jos sienos.'
+  santrauka: '1793 m. dalybų sutartimi Prūsijai turėjo atitekti dideli Lenkijos plotai tarp abiejų Prūsų karalystės dalių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Todėl 1793 m. (sausio 23 d.) Rusija pasirašė dalybų su-
@@ -55,26 +59,26 @@ Nenurodyta
     pagal sutartį turėjo atitekti Lenkijos Ukraina, o didžiosios Lie-
     tuvos kunigaikštijos visa Minsko vaivadija ir dalis Vilniaus,
     Naugarduko ir Brastos vaivadijų.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Tuomet, kaip ir 1772 m., iš karaliaus ir seimo tereikėjo gauti tik padalinimo patvirtinimą; su apkarpyta Respublika reikėjo padaryti naują taikos sutartį.'
+  santrauka: 'Po 1793 m. okupacijų Rusijai ir Prūsijai reikėjo gauti karaliaus bei seimo padalinimo patvirtinimą ir sudaryti naują taikos sutartį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Rusija sau tenkančias žemes tuo metu jau buvo užėmusi; Prū-
     sija savąsias irgi tuojau okupavo. Tuomet, kaip ir 1772 m., iš
     karaliaus ir seimo tereikėjo gauti tik padalinimo patvirtinimą;
     su apkarpyta Respublika reikėjo padaryti naują taikos sutartį.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

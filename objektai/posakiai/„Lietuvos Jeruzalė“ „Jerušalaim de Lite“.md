@@ -18,7 +18,7 @@ tags:
 bent jau Vilnius prilygo, o gal net pradėjo lenkti (Vilniaus kaip „Lietuvos Jeruzalės“ idėja) tokius žydų kultūros centrus kaip Krokuva, Liublinas ar Lvovas.
 
 ## Teiginiai
-- t-002
+- t-003
   teiginys: 'XVII–XVIII a. Vilnius prilygo arba galėjo lenkti Krokuvą, Liubliną ir Lvovą kaip žydų kultūros centras, siejamas su „Lietuvos Jeruzalės“ idėja.'
   pagrindžia:
     - c-001
@@ -42,4 +42,4 @@ bent jau Vilnius prilygo, o gal net pradėjo lenkti (Vilniaus kaip „Lietuvos J
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-003

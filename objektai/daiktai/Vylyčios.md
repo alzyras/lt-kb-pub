@@ -41,36 +41,22 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: 'Perūno atvaizde rankoje buvo vylyčios.'
   pagrindžia:
-    - c-001
+    - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Kareiviui į kapą dėjo vylyčias kartu su kitais ginklais ir įrankiais.'
   pagrindžia:
-    - c-002
+    - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Perūno atvaizde rankoje buvo vylyčios.
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Tarp tų stabų vienas buvęs
-    pavėdus į amžiaus vyrą, kursai turėjęs veidą drąsų ir raudoną, barzdą garbanotą, ant galvos
-    liepsnas tvaskančias, rankoje vylyčias.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: Kareiviui į kapą dėjo vylyčias kartu su kitais ginklais ir įrankiais.
+  santrauka: 'Kareiviui į kapą dėjo vylyčias kartu su kitais ginklais ir įrankiais.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     mirusiam jo įrankį šalip padėję: ir taip, kareiviui vylyčias, kardą, seidoką^696 ar svilksnį^697
@@ -82,7 +68,21 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004
+- c-002
+  santrauka: 'Perūno atvaizde rankoje buvo vylyčios.'
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Tarp tų stabų vienas buvęs
+    pavėdus į amžiaus vyrą, kursai turėjęs veidą drąsų ir raudoną, barzdą garbanotą, ant galvos
+    liepsnas tvaskančias, rankoje vylyčias.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

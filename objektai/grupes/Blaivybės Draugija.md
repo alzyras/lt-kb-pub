@@ -21,6 +21,8 @@ Kova su girtybe buvo iš naujo pradėta tik 1908 m., įkūrus Blaivybės Draugij
   teiginys: 'Kova su girtybe buvo iš naujo pradėta tik 1908 m., įkūrus Blaivybės Draugiją, kuri ir dabar tebeveikia.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -29,11 +31,11 @@ Kova su girtybe buvo iš naujo pradėta tik 1908 m., įkūrus Blaivybės Draugij
   citata_originali: |
     Kova su girtybe buvo iš naujo pradėta tik 1908 m., įkūrus
     Blaivybės Draugiją, kuri ir dabar tebeveikia.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

@@ -18,21 +18,23 @@ Bielenstein, Die Grenzen d. lett.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Bielenstein, Die Grenzen d. lett.'
+  teiginys: 'A. Bielenstein parašė 1892 m. veikalą „Die Grenzen d. lett. Volksstammes“.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Bielenstein, Die Grenzen d. lett.'
+  santrauka: 'A. Bielenstein parašė 1892 m. veikalą „Die Grenzen d. lett. Volksstammes“.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     _A. Bielenstein,_ Die Grenzen d. lett.
     Volksstammes (1892); _M. Toeppen,_ Historisch-comparative Geographie v.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

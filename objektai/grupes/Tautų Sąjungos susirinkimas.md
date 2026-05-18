@@ -21,21 +21,27 @@ Pirmasis visuotinis Tautų S-gos susirinkimas (1920. S-gos susirinkimas, be to, 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Pirmasis visuotinis Tautų S-gos susirinkimas (1920.'
+  teiginys: 'Pirmasis visuotinis Tautų Sąjungos susirinkimas 1920 m. svarstė Lietuvos, Latvijos ir Estijos prašymą, bet jo dar nepatenkino.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'S-gos susirinkimas, be to, nusprendė būsimąjį Pabaltijo valstybių priėmimą į T.'
+  teiginys: 'Visuotinis Tautų Sąjungos susirinkimas nusprendė būsimą Pabaltijo valstybių priėmimą sieti su pasižadėjimais saugoti mažumų teises.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-003
   teiginys: 'Kitame visuotiniame Tautų Sąjungos susirinkime (1921 m.) visų trijų Pabaltijo valstybių priėmimo klausimas buvo teigiamai išspręstas, tačiau ne be sunkenybių Lietuvai.'
   pagrindžia:
     - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Pirmasis visuotinis Tautų S-gos susirinkimas (1920.'
+  santrauka: 'Pirmasis visuotinis Tautų Sąjungos susirinkimas 1920 m. svarstė Lietuvos, Latvijos ir Estijos prašymą, bet jo dar nepatenkino.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pirmasis visuotinis Tautų S-gos susirinkimas (1920. XI. 15 —
@@ -46,26 +52,26 @@ Pirmasis visuotinis Tautų S-gos susirinkimas (1920. S-gos susirinkimas, be to, 
     pakto (str. 10) uždedamų prievolių ginti tas naujas valstybes
     prieš kaimynų agresiją ar apskritai vengė čia susirišti kuo nors
     buvusios ar būsimos Rusijos .atžvilgiu.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'S-gos susirinkimas, be to, nusprendė būsimąjį Pabaltijo valstybių priėmimą į T.'
+  santrauka: 'Visuotinis Tautų Sąjungos susirinkimas nusprendė būsimą Pabaltijo valstybių priėmimą sieti su pasižadėjimais saugoti mažumų teises.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Visuotinis T. S-gos susirinkimas, be
     to, nusprendė būsimąjį Pabaltijo valstybių priėmimą į T. S-gą
     suvaržyti pasižadėjimais saugoti mažumų teises, kaip tat buvo
     padaryta tam tikrose sutartyse su Lenkija, Čekoslovakija ir t.t.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 - c-003
@@ -75,11 +81,11 @@ Pirmasis visuotinis Tautų S-gos susirinkimas (1920. S-gos susirinkimas, be to, 
     Kitame visuotiniame Tautų Sąjungos susirinkime (1921 m.)
     visų trijų Pabaltijo valstybių priėmimo klausimas buvo teigiamai
     išspręstas, tačiau ne be sunkenybių Lietuvai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
 

@@ -43,7 +43,7 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Kanklės buvo lyginamos su cimbolais ir turėjo gelžines bei varines stygas, o smuikai buvo naudojami savo prasma.'
   pagrindžia:
     - c-001
@@ -52,7 +52,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Kanklės buvo lyginamos su cimbolais ir turėjo gelžines bei varines stygas, o smuikai buvo naudojami savo prasma.
+  santrauka: 'Kanklės buvo lyginamos su cimbolais ir turėjo gelžines bei varines stygas, o smuikai buvo naudojami savo prasma.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Antras įrankis jų
@@ -66,4 +66,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

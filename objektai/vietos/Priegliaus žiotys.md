@@ -21,6 +21,8 @@ Išplaukęs Vysla į jūrą, jis priplaukė krantą Priegliaus žiotyse.
   teiginys: 'Išplaukęs Vysla į jūrą, jis priplaukė krantą Priegliaus žiotyse.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -29,10 +31,10 @@ Išplaukęs Vysla į jūrą, jis priplaukė krantą Priegliaus žiotyse.
   citata_originali: |
     Išplaukęs Vysla į jūrą,
     jis priplaukė krantą Priegliaus žiotyse.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

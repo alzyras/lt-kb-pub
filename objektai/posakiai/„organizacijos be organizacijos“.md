@@ -34,7 +34,7 @@ hos įvykių Lietuvoje pradėjo kurtis „organizacijos be organizacijos“, į 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Po Prahos įvykių Lietuvoje kūrėsi etnokultūrinės kraštotyros draugijos, skatinusios domėtis tautos praeitimi ir ugdžiusios tautinę savimonę.'
+  teiginys: 'Po Prahos įvykių Lietuvoje pradėjo kurtis „organizacijos be organizacijos“, telkusios žmones bendromis idėjomis ir tikslais.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -42,7 +42,7 @@ hos įvykių Lietuvoje pradėjo kurtis „organizacijos be organizacijos“, į 
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Po Prahos įvykių Lietuvoje kūrėsi etnokultūrinės kraštotyros draugijos, skatinusios domėtis tautos praeitimi ir ugdžiusios tautinę savimonę.'
+  santrauka: 'Po Prahos įvykių Lietuvoje pradėjo kurtis „organizacijos be organizacijos“, telkusios žmones bendromis idėjomis ir tikslais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Prahos įvykių Lietuvoje pradėjo kurtis „organizacijos be organizacijos“, į

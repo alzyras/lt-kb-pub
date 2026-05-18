@@ -21,13 +21,15 @@ Prieš bendrąjį seimą buvo sušauktas dar atskiras Lietuvos seimas, tačiau j
 
 ## Teiginiai
 - t-001
-  teiginys: 'Prieš bendrąjį seimą buvo sušauktas dar atskiras Lietuvos seimas, tačiau jame unijos klausimas nė kiek nepasistūmėjo.'
+  teiginys: 'Prieš bendrąjį unijos seimą sušauktame Lietuvos seime unijos klausimas nepasistūmėjo.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Prieš bendrąjį seimą buvo sušauktas dar atskiras Lietuvos seimas, tačiau jame unijos klausimas nė kiek nepasistūmėjo.'
+  santrauka: 'Prieš bendrąjį unijos seimą sušauktame Lietuvos seime unijos klausimas nepasistūmėjo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Prieš bendrąjį seimą buvo sušauktas dar atskiras Lietuvos sei-
@@ -38,11 +40,11 @@ Prieš bendrąjį seimą buvo sušauktas dar atskiras Lietuvos seimas, tačiau j
     tiksiąs su Lenkų reikalavimais ir su receso nuostatais. Ir iš tikro,
     Lietuvos delegacija, atvykusi į 1569 m. seimą, vėl siūlė naujus unijos
     projektus ir vėl reikalavo iš naujo pradėti derybas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

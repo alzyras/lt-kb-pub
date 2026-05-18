@@ -32,25 +32,10 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Visa tai liepos 1 d. buvo patvirtinta trimis unijos aktais — dviem abiejų valstybių luomų ir vienu karaliaus aktu.'
-  pagrindžia:
-    - c-001
+Nenurodyta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Visa tai liepos 1 d. buvo patvirtinta trimis unijos aktais — dviem abiejų valstybių luomų ir vienu karaliaus aktu.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Visa tai liepos 1 d. buvo patvirtinta trimis unijos aktais — dviem abiejų
-    valstybių luomų ir vienu karaliaus aktu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
+Nenurodyta
 
 ## Ryšiai
 ### Teminiai klasteriai

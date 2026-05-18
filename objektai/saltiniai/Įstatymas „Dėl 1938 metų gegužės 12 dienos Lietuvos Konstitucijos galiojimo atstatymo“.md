@@ -20,7 +20,7 @@ Lietuvos Respublikos Aukščiausioji Taryba (vėliau pavadinta Atkuriamuoju Seim
 
 ## Teiginiai
 - t-001
-  teiginys: '1938 m. Lietuvos Konstitucijos veikimas visa apimtimi nebuvo atnaujintas, o po pusvalandžio buvo sustabdytas.'
+  teiginys: '1938 m. Lietuvos Konstitucijos veikimas visa apimtimi nebuvo atnaujintas ir po pusvalandžio buvo sustabdytas.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -30,7 +30,7 @@ Lietuvos Respublikos Aukščiausioji Taryba (vėliau pavadinta Atkuriamuoju Seim
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: '1938 m. Lietuvos Konstitucijos veikimas visa apimtimi nebuvo atnaujintas, o po pusvalandžio buvo sustabdytas.'
+  santrauka: '1938 m. Lietuvos Konstitucijos veikimas visa apimtimi nebuvo atnaujintas ir po pusvalandžio buvo sustabdytas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau šios konstitucijos veikimas visa apim-

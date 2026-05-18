@@ -36,14 +36,20 @@ Nenurodyta
   teiginys: '1894 m. visose lietuvių kolonijose dėl Kražių skerdynių įvyko protestai, gedulingi jų minėjimai, ir viso to atgarsis pasiekė ne tik Amerikos, bet ir Europos tautų spaudą.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Be to, Amerikos lietuvių organizacijos kaip įmanydamos, dažniausiai pinigais, rėmė Lietuvoje veikiančius inteligentus ir jų organizacijas.'
+  teiginys: 'Amerikos lietuvių organizacijos dažniausiai pinigais rėmė Lietuvoje veikiančius inteligentus ir jų organizacijas.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-003
-  teiginys: 'Jau 1894 m. trijų lietuvių klierikų, vėliau žymių veikėjų kunigų,—A.'
+  teiginys: '1894 m. A. Kaupo, A. Miluko ir J. Žilinsko pastangomis buvo įkurta Ivinskio draugija, siekusi lietuvių skyriaus 1900 m. Paryžiaus parodoje.'
   pagrindžia:
     - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -58,41 +64,41 @@ Nenurodyta
     nisteriams, senatoriams ir laikraščių redakcijoms. Ne kartą Rusų
     administracijos organams buvo siuntinėjami protestai dėl lietuvių
     persekiojimo.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Be to, Amerikos lietuvių organizacijos kaip įmanydamos, dažniausiai pinigais, rėmė Lietuvoje veikiančius inteligentus ir jų organizacijas.'
+  santrauka: 'Amerikos lietuvių organizacijos dažniausiai pinigais rėmė Lietuvoje veikiančius inteligentus ir jų organizacijas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Be to, Amerikos lietuvių organizacijos kaip įmanydamos,
     dažniausiai pinigais, rėmė Lietuvoje veikiančius inteligentus ir
     jų organizacijas. Pav., 1898 m. Amerikoje buvo padaryta rinklia-
     va sergančiam Kudirkai sušelpti.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Jau 1894 m. trijų lietuvių klierikų, vėliau žymių veikėjų kunigų,—A.'
+  santrauka: '1894 m. A. Kaupo, A. Miluko ir J. Žilinsko pastangomis buvo įkurta Ivinskio draugija, siekusi lietuvių skyriaus 1900 m. Paryžiaus parodoje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jau 1894 m. trijų lietuvių klierikų, vėliau žymių veikėjų
     kunigų,—A. Kaupo, A. Miluko ir J. Žilinsko,—pastangomis bu-
     vo įkurta Ivinskio Draugija, kurios tikslas buvo rūpintis, kad
     1900 m. pasaulinėje Paryžiaus parodoje būtų ir lietuvių skyrius;
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
 
@@ -102,7 +108,3 @@ Nenurodyta
 
 ### Laikotarpiai
 - [[laikotarpiai/XIX amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/A. Kaupas]]
-- [[objektai/asmenys/A. Milukas]]

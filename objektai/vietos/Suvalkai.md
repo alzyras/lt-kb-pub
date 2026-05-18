@@ -21,6 +21,8 @@ Gimnazijų Užnemunėje buvo dvi — Marijampolėje ir Suvalkuose.
   teiginys: 'Gimnazijų Užnemunėje buvo dvi — Marijampolėje ir Suvalkuose.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -30,10 +32,10 @@ Gimnazijų Užnemunėje buvo dvi — Marijampolėje ir Suvalkuose.
     Gimnazijų Užnemunėje buvo dvi — Marijam-
     polėje ir Suvalkuose. Jas taip pat daugiausia lankė lietuvių vai-
     kai, ir jose taip pat buvo mokoma lietuvių kalbos.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

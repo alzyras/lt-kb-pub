@@ -70,31 +70,31 @@ Centralizuota ginkluoto ir politinio antisovietinio pasipriešinimo organizacija
 - susijusios vietos: bunkeris tarp Radviliškio ir Baisogalos.
 
 ## Teiginiai
-- t-007
+- t-012
   teiginys: 'LLKS Tarybos prezidiumo pirmininku išrinktas Jonas Žemaitis-Vytautas, jam suteiktas partizanų generolo laipsnis.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-008
+- t-013
   teiginys: 'LLKS Tarybos prezidiumo pirmininku išrinktas Jonas Žemaitis-Vytautas, jam suteiktas partizanų generolo laipsnis.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-009
+- t-014
   teiginys: 'LLKS Tarybos prezidiumo pirmininku išrinktas Jonas Žemaitis-Vytautas.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-010
+- t-015
   teiginys: 'LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės atkūrimas ir jos demokratinio valdymo principai.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-011
+- t-016
   teiginys: 'LLKS Vasario 16-osios deklaracijoje numatyta, kad atkurta Lietuva bus demokratinė respublika, kurios suvereni valdžia priklausys tautai.'
   pagrindžia:
     - c-002
@@ -117,9 +117,9 @@ Centralizuota ginkluoto ir politinio antisovietinio pasipriešinimo organizacija
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-007
-    - t-008
-    - t-009
+    - t-012
+    - t-013
+    - t-014
 - c-002
   santrauka: 'LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės atkūrimas ir jos demokratinio valdymo principai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -136,8 +136,8 @@ Centralizuota ginkluoto ir politinio antisovietinio pasipriešinimo organizacija
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-010
-    - t-011
+    - t-015
+    - t-016
 
 ## Šaltiniai ir įrodymai
 

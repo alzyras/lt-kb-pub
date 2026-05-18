@@ -31,8 +31,8 @@ tags:
 - Pagrindinė forma: Leidžiama spausdinti, tik rusiškomis raidėmis
 
 ## Teiginiai
-- t-001
-  teiginys: 'Formuluotė šiame pasakojime pateikiama kaip cenzūros atsakymo formulė.'
+- t-002
+  teiginys: 'Cenzūra paprastai leisdavo spausdinti lietuviškus tekstus tik rusiškomis raidėmis.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -40,7 +40,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: cenzūros atsakymo formulė
+  santrauka: 'Cenzūra paprastai leisdavo spausdinti lietuviškus tekstus tik rusiškomis raidėmis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet vėliau jam
@@ -53,4 +53,4 @@ tags:
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

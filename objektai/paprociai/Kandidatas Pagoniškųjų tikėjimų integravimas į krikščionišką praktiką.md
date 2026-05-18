@@ -35,7 +35,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lokalinės pagoniškos šventvietės galėjo gyvuoti toliau kaip katalikų bažnyčių alternatyva ir bendros su krikščionybe raidos rezultatas.'
+  teiginys: 'Lokalinės pagoniškos šventvietės gyvavo kaip katalikų bažnyčių alternatyva ir bendros su krikščionybe plėtotės rezultatas.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -43,7 +43,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lokalinės pagoniškos šventvietės galėjo gyvuoti toliau kaip katalikų bažnyčių alternatyva ir bendros su krikščionybe raidos rezultatas.'
+  santrauka: 'Lokalinės pagoniškos šventvietės gyvavo kaip katalikų bažnyčių alternatyva ir bendros su krikščionybe plėtotės rezultatas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lokalinių kultų vie-

@@ -23,10 +23,14 @@ Bet visos didžiosios Europos tautos jau seniai pradėjo tvarkyti savo emigracij
   teiginys: 'Bet visos didžiosios Europos tautos jau seniai pradėjo tvarkyti savo emigraciją: jos stengiasi visus išeivius sukoncentruoti kitų kontinentų tuščiuose ar apytuščiuose plotuose, vadinamosiose kolonijose, kurios tampa antrąja tėvyne.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Pietų Amerika dar tebėra didelių galimybių kraštas, dar dideli žemės plotai tebėra neišnaudoti, ir daugely vietų būtų galima įkurti grynai lietuviškų kolonijų, kokių kad turi kitos tautos.'
+  teiginys: 'Pietų Amerikoje buvo laikoma įmanoma įkurti grynai lietuviškų kolonijų, kokių turėjo kitos tautos.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -38,24 +42,24 @@ Bet visos didžiosios Europos tautos jau seniai pradėjo tvarkyti savo emigracij
     stengiasi visus išeivius sukoncentruoti kitų kontinentų tuščiuose
     ar apytuščiuose plotuose, vadinamosiose kolonijose, kurios tampa
     antrąja tėvyne.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Pietų Amerika dar tebėra didelių galimybių kraštas, dar dideli žemės plotai tebėra neišnaudoti, ir daugely vietų būtų galima įkurti grynai lietuviškų kolonijų, kokių kad turi kitos tautos.'
+  santrauka: 'Pietų Amerikoje buvo laikoma įmanoma įkurti grynai lietuviškų kolonijų, kokių turėjo kitos tautos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pietų Amerika dar tebėra didelių galimybių kraštas, dar dideli
     žemės plotai tebėra neišnaudoti, ir daugely vietų būtų galima įkurti
     grynai lietuviškų kolonijų, kokių kad turi kitos tautos.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

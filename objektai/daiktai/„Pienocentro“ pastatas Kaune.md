@@ -33,7 +33,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: '„Pienocentro“ pastatas Kaune (apie 1938).'
+  teiginys: '„Pienocentro“ pastatas Kaune datuojamas apie 1938 m.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -41,7 +41,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '„Pienocentro“ pastatas Kaune (apie 1938).'
+  santrauka: '„Pienocentro“ pastatas Kaune datuojamas apie 1938 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1933 m.

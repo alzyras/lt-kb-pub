@@ -30,7 +30,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: '1918 m. gruodį sionistai Jokūbas Vygodskis ir S. Rozenbaumas tapo Lietuvos vyriausybės nariais.'
+  teiginys: '1918 m. gruodį Jokūbas Vygodskis tapo ministru be portfelio žydų reikalams, o S. Rozenbaumas – užsienio reikalų viceministru.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -38,7 +38,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1918 m. gruodį sionistai Jokūbas Vygodskis ir S. Rozenbaumas tapo Lietuvos vyriausybės nariais.'
+  santrauka: '1918 m. gruodį Jokūbas Vygodskis tapo ministru be portfelio žydų reikalams, o S. Rozenbaumas – užsienio reikalų viceministru.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1918 m. gruodį žydų sionistai Jokūbas

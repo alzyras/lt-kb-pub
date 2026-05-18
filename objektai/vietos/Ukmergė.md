@@ -21,45 +21,55 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, daugiausia puolė Aukštaičius ir ne kartą pasiekė net Ukmergę ir Vilniaus apylinkes.'
+  teiginys: 'Livonijos ordino šaka, puldama aukštaičius, ne kartą pasiekė Ukmergę ir Vilniaus apylinkes.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Aukštaičius ir ne kartą pasiekė net Ukmergę ir Vilniaus apylinkes.'
+  teiginys: 'Livonijos ordino šaka, puldama aukštaičius, ne kartą pasiekė Ukmergę ir Vilniaus apylinkes.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-003
-  teiginys: 'Ukmergės mūšis (1435 m.).'
+  teiginys: 'Ukmergės mūšis vyko 1435 m.'
+  pagrindžia:
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-004
+  teiginys: 'Netoli Ukmergės, ties Pabaisku, Švitrigailai kelią pastojo Mykolo vedama lietuvių ir lenkų kariuomenė.'
   pagrindžia:
     - c-003
-- t-004
-  teiginys: 'Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią Zigmanto sūnaus Mykolo vedama lietuvių ir į pagalbą atėjusių lenkų kariuomenė.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-005
+  teiginys: 'Ukmergėje buvo įkurta pijarų mokykla.'
   pagrindžia:
     - c-004
-- t-005
-  teiginys: 'Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — buvo įkurtos šiose vietose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajam Dolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Valeranavoj, Vitebske, Želviuose ir dar.'
-  pagrindžia:
-    - c-005
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, daugiausia puolė Aukštaičius ir ne kartą pasiekė net Ukmergę ir Vilniaus apylinkes.'
+  santrauka: 'Livonijos ordino šaka, puldama aukštaičius, ne kartą pasiekė Ukmergę ir Vilniaus apylinkes.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo tarpu jų livoniškė šaka,
     apsidorojusi su arkivyskupu ir rygiečiais, daugiausia puolė
     Aukštaičius ir ne kartą pasiekė net Ukmergę ir Vilniaus
     apylinkes.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
     - t-002
-- c-003
-  santrauka: 'Ukmergės mūšis (1435 m.).'
+- c-002
+  santrauka: 'Ukmergės mūšis vyko 1435 m.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Ukmergės mūšis** (1435 **m.).** Švitrigaila daug kartų puolė
@@ -67,29 +77,29 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     nieko nelaimėdavo. 1435 m. jis sukvietė visus savo sąjungininkus
     — Livonijos ordiną, totorius, rusų kunigaikščius — ir išsiruošė
     į didelį žygį.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
-- c-004
-  santrauka: 'Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią Zigmanto sūnaus Mykolo vedama lietuvių ir į pagalbą atėjusių lenkų kariuomenė.'
+- c-003
+  santrauka: 'Netoli Ukmergės, ties Pabaisku, Švitrigailai kelią pastojo Mykolo vedama lietuvių ir lenkų kariuomenė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet, pasiekus Šventąją, netoli Ukmergės (ties Pa-
     baisku), jam pastojo kelią Zigmanto sūnaus Mykolo vedama
     lietuvių ir į pagalbą atėjusių lenkų kariuomenė.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
-- c-005
-  santrauka: 'Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — buvo įkurtos šiose vietose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajam Dolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Valeranavoj, Vitebske, Želviuose ir dar.'
+- c-004
+  santrauka: 'Ukmergėje buvo įkurta pijarų mokykla.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pijarų mokyklos — vienur pilnos
@@ -97,11 +107,11 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     tose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajam
     Dolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Va-
     leranavoj, Vitebske, Želviuose ir dar vienur kitur.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
 
@@ -109,4 +119,3 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
 ### Susiję objektai
 - [[objektai/grupes/Aukštaičiai]]
 - [[objektai/vietos/Pabaiskas]]
-- [[objektai/vietos/Šventoji]]

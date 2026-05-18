@@ -32,23 +32,25 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis buvo pervežtas į Vilnių ir palaidotas katedros rūsyje, po šv.'
+  teiginys: 'Vytauto palaikai po 8 dienų gimtojoje pilyje buvo pervežti į Vilnių ir palaidoti katedros rūsyje po šv. Mykolo Arkangelo altoriumi.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis buvo pervežtas į Vilnių ir palaidotas katedros rūsyje, po šv.'
+  santrauka: 'Vytauto palaikai po 8 dienų gimtojoje pilyje buvo pervežti į Vilnių ir palaidoti katedros rūsyje po šv. Mykolo Arkangelo altoriumi.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Didžiojo valdovo lavonas buvo laikomas 8 die-
     nas gimtojoje pilyje; paskui jis buvo pervežtas į Vilnių ir palaidotas
     katedros rūsyje, po šv. Mykolo Arkangelo altorium.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

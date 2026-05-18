@@ -21,6 +21,8 @@ Visa žemė buvo išmatuota ir nustatytos aiškios ežios.
   teiginys: 'Visa žemė buvo išmatuota ir nustatytos aiškios ežios.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -28,10 +30,10 @@ Visa žemė buvo išmatuota ir nustatytos aiškios ežios.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Visa žemė buvo išmatuota ir nustatytos aiškios ežios.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

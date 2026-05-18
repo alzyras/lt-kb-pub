@@ -19,23 +19,25 @@ Kipčako, arba vadinamosios Auksinės, Ordos chanai (iš Sarajaus) rinkdavo iš 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kipčako, arba vadinamosios Auksinės, Ordos chanai (iš Sarajaus) rinkdavo iš jų mokesčius ir skirdavo jiems kunigaikščius, kurių vienas buvo laikomas didžiuoju.'
+  teiginys: 'Iš Sarajaus veikę Auksinės Ordos chanai rinkdavo mokesčius ir skirdavo kunigaikščius.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kipčako, arba vadinamosios Auksinės, Ordos chanai (iš Sarajaus) rinkdavo iš jų mokesčius ir skirdavo jiems kunigaikščius, kurių vienas buvo laikomas didžiuoju.'
+  santrauka: 'Iš Sarajaus veikę Auksinės Ordos chanai rinkdavo mokesčius ir skirdavo kunigaikščius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kipča-
     ko, arba vadinamosios Auksinės, Ordos chanai (iš Sarajaus)
     rinkdavo iš jų mokesčius ir skirdavo jiems kunigaikščius, kurių
     vienas buvo laikomas didžiuoju.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

@@ -26,7 +26,7 @@ Bene rimčiausias krikščionių demokratų konkurentas etninių lietuvių tauti
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Demokratai leido ir nelegalią spaudą, bendradarbiavo su Lietuvos socialdemokratais, per masonų ložes mėgino kalbėtis dėl būsimo valstybingumo perspektyvų ir su toms ložėms priklausiusiais lenkų visuomenės veikėjais, tačiau bendros kalbos nerado.'
+  teiginys: 'Lietuvos demokratų partija leido nelegalią spaudą, bendradarbiavo su socialdemokratais ir per masonų ložes tarėsi dėl valstybingumo.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -48,7 +48,7 @@ Bene rimčiausias krikščionių demokratų konkurentas etninių lietuvių tauti
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Demokratai leido ir nelegalią spaudą, bendradarbiavo su Lietuvos socialdemokratais, per masonų ložes mėgino kalbėtis dėl būsimo valstybingumo perspektyvų ir su toms ložėms priklausiusiais lenkų visuomenės veikėjais, tačiau bendros kalbos nerado.'
+  santrauka: 'Lietuvos demokratų partija leido nelegalią spaudą, bendradarbiavo su socialdemokratais ir per masonų ložes tarėsi dėl valstybingumo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Demokratai leido ir nelegalią spaudą, bendradarbiavo su Lietuvos

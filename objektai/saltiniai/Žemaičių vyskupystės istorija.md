@@ -34,8 +34,26 @@ tags: []
 - Data: aiškiai nenurodyta.
 
 ## Teiginiai
+- t-002
+  teiginys: 'Vyskupas Valančius parašė dviejų tomų „Žemaičių vyskupystės istoriją“.'
+  pagrindžia:
+    - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Bibliografiniai įrodymai
-
+- c-001
+  santrauka: 'Vyskupas Valančius parašė dviejų tomų „Žemaičių vyskupystės istoriją“.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    O vysk. Valančius pa-
+    rašo Žemaičių vyskupystės istoriją (2 t.).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
 
 ## Reikšmingi paminėjimai

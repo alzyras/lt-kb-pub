@@ -19,38 +19,42 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 
 ## Teiginiai
 - t-001
-  teiginys: 'Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną.'
+  teiginys: 'Po sąjungos su Austrija turkai ją užpuolė ir pasiekė net Vieną.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Net (1683 m.) vykstant vaduoti Vienos, Sapiega nesiskubino su Lietuvos kariuomene ir atvyko tik po didžiojo mūšio.'
+  teiginys: '1683 m. Sapiega, vykdamas vaduoti Vienos, neskubėjo su Lietuvos kariuomene ir atvyko tik po didžiojo mūšio.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną.'
+  santrauka: 'Po sąjungos su Austrija turkai ją užpuolė ir pasiekė net Vieną.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Padarius sąjungą su
     Austrija, turkai užpuolė šią ir pasiekė net Vieną.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Net (1683 m.) vykstant vaduoti Vienos, Sapiega nesiskubino su Lietuvos kariuomene ir atvyko tik po didžiojo mūšio.'
+  santrauka: '1683 m. Sapiega, vykdamas vaduoti Vienos, neskubėjo su Lietuvos kariuomene ir atvyko tik po didžiojo mūšio.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Net (1683 m.) vykstant vaduoti Vienos, Sapiega nesiskubino
     su Lietuvos kariuomene ir atvyko tik po didžiojo mūšio.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

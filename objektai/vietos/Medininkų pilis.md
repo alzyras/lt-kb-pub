@@ -46,7 +46,7 @@ Tai pilis, minima tarp Vytauto laikų mūro statinių ir jų sustiprinimo darbų
 
 ## Teiginiai
 - t-001
-  teiginys: "Vytauto laikais Medininkų pilis buvo dar mūrais sustiprinta."
+  teiginys: 'Vytauto laikais Medininkų pilis buvo dar mūrais sustiprinta.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -54,7 +54,7 @@ Tai pilis, minima tarp Vytauto laikų mūro statinių ir jų sustiprinimo darbų
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Medininkų pilis šiame šaltinyje minima kaip sustiprinta mūro pilis.
+  santrauka: 'Vytauto laikais Medininkų pilis buvo dar mūrais sustiprinta.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Berods, Vytauto laikais buvo dar
@@ -62,8 +62,8 @@ Tai pilis, minima tarp Vytauto laikų mūro statinių ir jų sustiprinimo darbų
     būti pastatyta taip pat mūrinė Lydos pilis. Jam priskiriama ir
     restauravimas mūrinių Vilniaus pilių.
   citata_rodoma: ""
-  teiginio_tipas: interpretacija
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:

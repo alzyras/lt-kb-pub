@@ -1,9 +1,11 @@
 ---
 tipas: asmuo
-pavadinimas: 'Joachimas Lelevelis'
+pavadinimas: 'Joachimas Lelevelis (istorikas)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Joachimas Lelevelis'
+aliases:
+  - 'Joachimas Lelevelis'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
@@ -11,7 +13,7 @@ tags:
   - asmuo
   - mokslininkas
 ---
-# Joachimas Lelevelis
+# Joachimas Lelevelis (istorikas)
 
 ## Santrauka
 
@@ -19,7 +21,7 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Istorikas Joachimas Lelevelis dirbo universitete, kuriame veikė tarptautiniu mastu žinomi mokslininkai.'
+  teiginys: 'Joachimas Lelevelis dirbo universitete kaip vienas iš garsių mokslininkų.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -33,7 +35,7 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Istorikas Joachimas Lelevelis dirbo universitete, kuriame veikė tarptautiniu mastu žinomi mokslininkai.'
+  santrauka: 'Joachimas Lelevelis dirbo universitete kaip vienas iš garsių mokslininkų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Universi-

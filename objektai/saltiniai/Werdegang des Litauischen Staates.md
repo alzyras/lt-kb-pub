@@ -17,21 +17,8 @@ tags:
 Werdegang des Litauischen Staates (1918; yra ir prancūzų kalba);.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Werdegang des Litauischen Staates (1918; yra ir prancūzų kalba);.'
-  pagrindžia:
-    - c-001
+
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Werdegang des Litauischen Staates (1918; yra ir prancūzų kalba);.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    — Werdegang des Litauischen Staates (1918; yra ir prancūzų kalba);
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
+
+## Bibliografiniai įrodymai

@@ -20,13 +20,13 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Stasiui Lozoraičiui vadovaujant Užsienio reikalų ministerijai, ji inicijavo Lietuvos skyriaus rengimą 1939 m. pasaulinei parodai Niujorke.'
+  teiginys: 'Stasiui Lozoraičiui einant užsienio reikalų ministro pareigas, ministerija inicijavo Lietuvos skyriaus rengimą 1939 m. pasaulinei parodai Niujorke.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Užsienio reikalų ministras Stasys Lozoraitis ėmėsi modernizuoti diplomatiją ir rengė naują nacionalinio saugumo strategiją.'
+  teiginys: 'Užsienio reikalų ministras Stasys Lozoraitis kartu su Stasiu Raštikiu modernizavo diplomatiją ir kariuomenę bei parengė naują nacionalinio saugumo strategiją.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -46,7 +46,7 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Stasiui Lozoraičiui vadovaujant Užsienio reikalų ministerijai, ji inicijavo Lietuvos skyriaus rengimą 1939 m. pasaulinei parodai Niujorke.'
+  santrauka: 'Stasiui Lozoraičiui einant užsienio reikalų ministro pareigas, ministerija inicijavo Lietuvos skyriaus rengimą 1939 m. pasaulinei parodai Niujorke.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respubli-
@@ -63,7 +63,7 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Užsienio reikalų ministras Stasys Lozoraitis ėmėsi modernizuoti diplomatiją ir rengė naują nacionalinio saugumo strategiją.'
+  santrauka: 'Užsienio reikalų ministras Stasys Lozoraitis kartu su Stasiu Raštikiu modernizavo diplomatiją ir kariuomenę bei parengė naują nacionalinio saugumo strategiją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Keturiasdešimtmečiai užsienio reikalų ministras

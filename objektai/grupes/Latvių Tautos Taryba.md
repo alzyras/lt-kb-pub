@@ -19,31 +19,35 @@ Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri k
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri kartu su Petrapilio latvių pabėgėlių komitetu ėmė rūpintis sukurti nepriklausomą Latviją.'
+  teiginys: 'Latvių Tautos Taryba susidarė vokiečių neužimtoje Latvijos dalyje ir su Petrapilio latvių pabėgėlių komitetu rūpinosi nepriklausomos Latvijos kūrimu.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Latvių Tautos Taryba pareiškė dėl to proLatvijos laisvės paminklas Rygoje.'
+  teiginys: 'Latvių Tautos Taryba protestavo, kai Brastos taikoje bolševikai paliko Pabaltijį vokiečių valdžioje.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri kartu su Petrapilio latvių pabėgėlių komitetu ėmė rūpintis sukurti nepriklausomą Latviją.'
+  santrauka: 'Latvių Tautos Taryba susidarė vokiečių neužimtoje Latvijos dalyje ir su Petrapilio latvių pabėgėlių komitetu rūpinosi nepriklausomos Latvijos kūrimu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo tarpu vokiečių neužimtoje Latvijos dalyje su-
     sidarė Tautos Taryba, kuri kartu su Petrapilio latvių pabėgėlių
     komitetu ėmė rūpintis sukurti nepriklausomą Latviją.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Latvių Tautos Taryba pareiškė dėl to proLatvijos laisvės paminklas Rygoje.'
+  santrauka: 'Latvių Tautos Taryba protestavo, kai Brastos taikoje bolševikai paliko Pabaltijį vokiečių valdžioje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bolševi-
@@ -51,11 +55,11 @@ Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri k
     vokiečių valdžioje. Latvių Tautos Taryba pareiškė dėl to pro-
     Latvijos laisvės paminklas Rygoje.
     testą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

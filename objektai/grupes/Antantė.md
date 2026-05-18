@@ -20,13 +20,13 @@ Vokietija pateikė ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antant
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vokietija pateikė ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antantės šalių reikalavimu, leido panaudoti savo dalinius stabdant bolševizmą.'
+  teiginys: 'Antantės šalys pareikalavo, kad Vokietija leistų panaudoti savo dalinius bolševizmui stabdyti.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Antantė turėjo pripažinti, kad Lietuvos Taryba iškėlė Lietuvos nepriklausomybės klausimą ir vadavosi iš Vokietijos politikos diktato.'
+  teiginys: 'Antantė pripažino, kad Lietuvos Taryba iškėlė nepriklausomybės klausimą ir išsivadavo iš Vokietijos politikos diktato.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -46,7 +46,7 @@ Vokietija pateikė ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antant
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vokietija pateikė ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antantės šalių reikalavimu, leido panaudoti savo dalinius stabdant bolševizmą.'
+  santrauka: 'Antantės šalys pareikalavo, kad Vokietija leistų panaudoti savo dalinius bolševizmui stabdyti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vokietija pateikė
@@ -60,7 +60,7 @@ Vokietija pateikė ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antant
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Antantė turėjo pripažinti, kad Lietuvos Taryba iškėlė Lietuvos nepriklausomybės klausimą ir vadavosi iš Vokietijos politikos diktato.'
+  santrauka: 'Antantė pripažino, kad Lietuvos Taryba iškėlė nepriklausomybės klausimą ir išsivadavo iš Vokietijos politikos diktato.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Palaipsniui pasikeitė ir Lietuvos Tarybos vertinimas: provokiška

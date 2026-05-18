@@ -41,7 +41,7 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Kaltininkus sodindavo į viežą, plakdavo, kabindavo ir kitais būdais bausdavo; už mažesnius nusikaltimus sumokėti pinigai būdavo išgeriami per šventę.'
   pagrindžia:
     - c-001
@@ -50,7 +50,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Kaltininkus sodindavo į viežą, plakdavo, kabindavo ir kitais būdais bausdavo; už mažesnius nusikaltimus sumokėti pinigai būdavo išgeriami per šventę.
+  santrauka: 'Kaltininkus sodindavo į viežą, plakdavo, kabindavo ir kitais būdais bausdavo; už mažesnius nusikaltimus sumokėti pinigai būdavo išgeriami per šventę.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Kaltininkus taip kankino: vienus korė į sausą medį, kaip šiandien dar tariama yra į paiką žmogų:
@@ -66,8 +66,10 @@ Nenurodyta
     neparodė, tad pats, ten pat po suolu palindęs, turėjo atkaukti arba atloti tais žodžiais: „Tai ne aš taip
     kalbėjau, bet it šuo lojau.“ Jei kas nukalto mažesniuose darbuose, tad mokėjo pinigus, kuriuos visi
     susiėję ant šventės pragėrė.
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

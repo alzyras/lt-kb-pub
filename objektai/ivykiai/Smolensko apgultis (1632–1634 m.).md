@@ -48,25 +48,25 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-005
   teiginys: '1632 m. rusų kariuomenė įsiveržė į Lietuvos teritoriją ir lapkričio 14 d. apsiautė Smolenską.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-002
+- t-006
   teiginys: 'Smolenską gynė apie 2 tūkst. Lietuvos karių, miestas buvo smarkiai apšaudytas ir šturmuojamas, bet nesėkmingai.'
   pagrindžia:
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-003
+- t-007
   teiginys: '1634 m. sausio 24 d. rusų pajėgos kapituliavo po Smolensko apgulties.'
   pagrindžia:
     - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-004
+- t-008
   teiginys: 'Prie Polianovkos buvo sudaryta „amžinosios taikos“ sutartis tarp Lietuvos, Lenkijos ir Rusijos.'
   pagrindžia:
     - c-004
@@ -75,9 +75,10 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 1632 m. rusų kariuomenė įsiveržė į Lietuvos teritoriją ir lapkričio 14 d. apsiautė Smolenską.
+  santrauka: '1632 m. rusų kariuomenė įsiveržė į Lietuvos teritoriją ir lapkričio 14 d. apsiautė Smolenską.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
+    Mūšis
     1632 m. maskvėnai, pasinaudodami
 
     tuo, kad po Zigmanto Vazos mirties jo
@@ -88,16 +89,16 @@ Nenurodyta
     24 tūkst. rusų kariuomenė, vadovau-
 
     jama Michailo Šejino, lapkričio 14 d. ap-
-    gulė šį miestą.
-  citata_rodoma: ''
+    gulė šį miestą. Rusų kariuomenėje buvo
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-005
 - c-002
-  santrauka: Smolenską gynė apie 2 tūkst. Lietuvos karių, miestas buvo smarkiai apšaudytas ir šturmuojamas, bet nesėkmingai.
+  santrauka: 'Smolenską gynė apie 2 tūkst. Lietuvos karių, miestas buvo smarkiai apšaudytas ir šturmuojamas, bet nesėkmingai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Smolenską gynė apie 2 tūkst. Lietuvos
@@ -109,15 +110,15 @@ Nenurodyta
     dymus organizavo Smolensko vaivada
     Aleksandras Gonsevskis su 6 tūkst. apy-
     linkėse veikusių karių.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-006
 - c-003
-  santrauka: 1634 m. sausio 24 d. rusų pajėgos kapituliavo po Smolensko apgulties.
+  santrauka: '1634 m. sausio 24 d. rusų pajėgos kapituliavo po Smolensko apgulties.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1633 m. žiemą į pagalbą atskubėjo tuo-
@@ -142,30 +143,32 @@ Nenurodyta
     lietuvių ir lenkų kariuomenė po atkaklių
     susirėmimų nustūmė rusus nuo miesto,
     apsupo sumenkusias priešo pajėgas ir
-    1634 m. sausio 24 d. privertė kapituliuoti
-  citata_rodoma: ''
+    1634 m. sausio 24 d. privertė kapituliuoti.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-007
 - c-004
-  santrauka: Prie Polianovkos buvo sudaryta „amžinosios taikos“ sutartis tarp Lietuvos, Lenkijos ir Rusijos.
+  santrauka: 'Prie Polianovkos buvo sudaryta „amžinosios taikos“ sutartis tarp Lietuvos, Lenkijos ir Rusijos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Prie Polianovkos upės Lietuva ir Lenkija su
     Rusija sudarė „amžinosios taikos“ sutartį.
     Rusijos mėginimas užimti Smolenską buvo
     sužlugdytas ir miestas kelias dešimtis metų
-    po to priklausė Lietuvai.
-  citata_rodoma: ''
+    po to priklausė Lietuvai. Sutartis galiojo iki
+    1654 m., kai sulaužę ją rusai vėl įsiveržė į
+    Lietuvą.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-008
 
 ## Ryšiai
 ### Laikotarpiai

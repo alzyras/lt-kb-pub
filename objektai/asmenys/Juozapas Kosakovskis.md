@@ -1,9 +1,11 @@
 ---
 tipas: asmuo
-pavadinimas: 'Juozapas Kosakovskis'
+pavadinimas: 'Juozapas Kosakovskis (vyskupas)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Juozapas Kosakovskis'
+aliases:
+  - 'Juozapas Kosakovskis'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
@@ -12,7 +14,7 @@ tags:
   - sukilimas
   - vyskupas
 ---
-# Juozapas Kosakovskis
+# Juozapas Kosakovskis (vyskupas)
 
 ## Santrauka
 
@@ -26,7 +28,7 @@ Lietuvos) konfederacija, kuriai vadovavo Lietuvos didysis etmonas Simonas Kosako
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Livonijos vyskupas Juozapas Kosakovskis buvo tarp Targovicos konfederatų, kuriems įvykdyta egzekucija Varšuvoje birželio 28 d.'
+  teiginys: 'Livonijos vyskupas Juozapas Kosakovskis buvo pakartas Varšuvoje birželio 28 dieną kartu su kai kuriais Targovicos konfederatais.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -49,7 +51,7 @@ Lietuvos) konfederacija, kuriai vadovavo Lietuvos didysis etmonas Simonas Kosako
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Livonijos vyskupas Juozapas Kosakovskis buvo tarp Targovicos konfederatų, kuriems įvykdyta egzekucija Varšuvoje birželio 28 d.'
+  santrauka: 'Livonijos vyskupas Juozapas Kosakovskis buvo pakartas Varšuvoje birželio 28 dieną kartu su kai kuriais Targovicos konfederatais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sukilimo kulminacija Lenkijai ir Lietuvai tapo kai kurių Targovicos

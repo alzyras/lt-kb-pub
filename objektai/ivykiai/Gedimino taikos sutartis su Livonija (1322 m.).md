@@ -44,14 +44,14 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: '1322 m. Gediminas sudarė taikos sutartį su Livonija.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: '1322 m. Gedimino taikos sutartyje su Livonija Aukštaičių vardas pateikiamas kaip geografinis žemės pavadinimas.'
+- t-004
+  teiginys: '1322 m. Gedimino taikos sutartyje su Livonija minėti Aukštaičiai buvo geografinis žemės pavadinimas.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -66,14 +66,14 @@ Nenurodyta
     minimi Lietuvos didžiojo kunigaikščio Gedimino taikos sutartyje
     su Livonija (« Eystoythen »), buvo grynai geografinis žemės pavadi­
     nimas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
 
 ## Ryšiai
 ### Laikotarpiai

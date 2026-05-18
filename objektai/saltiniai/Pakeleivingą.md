@@ -18,22 +18,26 @@ Jis net buvo sumanęs tam tikslui leisti specialų laikraštį ,,Pakeleivingą",
 
 ## Teiginiai
 - t-001
-  teiginys: 'Jis net buvo sumanęs tam tikslui leisti specialų laikraštį ,,Pakeleivingą", bet negavo leidimo.'
+  teiginys: '„Pakeleivingą“ buvo sumanyta leisti kaip specialų laikraštį, tačiau leidimas nebuvo gautas.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Jis net buvo sumanęs tam tikslui leisti specialų laikraštį ,,Pakeleivingą", bet negavo leidimo.'
+  santrauka: '„Pakeleivingą“ buvo sumanyta leisti kaip specialų laikraštį, tačiau leidimas nebuvo gautas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jis
     net buvo sumanęs tam tikslui leisti specialų laikraštį ,,Pake-
     leivingą", bet negavo leidimo.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

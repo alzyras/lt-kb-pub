@@ -68,14 +68,14 @@ Politinė ir rezistencinė lietuvių emigrantų organizacija, veikusi Antrojo pa
 - susijusios vietos: Berlynas, Lietuva, Kaunas.
 
 ## Teiginiai
-- t-012
-  teiginys: 'Karinė Lietuvių aktyvistų fronto dalis bendradarbiavo su Abveru, todėl nurodyta pirmiausia užimti tiltus, geležinkelio mazgus ir oro uostus.'
+- t-014
+  teiginys: 'Karinė Lietuvių aktyvistų fronto dalis bendradarbiavo su Abveru, o instrukcijose pirmiausia nurodyta užimti tiltus, geležinkelio mazgus ir oro uostus.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-013
-  teiginys: '1941 m. rugsėjo 26 d., daugumai ministrų atsisakius tapti tarėjais, naciai uždarė Lietuvių aktyvistų frontą.'
+- t-015
+  teiginys: 'Rugsėjo 26-ąją naciai uždarė Lietuvių aktyvistų frontą, kai dauguma ministrų atsisakė tapti tarėjais.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -83,7 +83,7 @@ Politinė ir rezistencinė lietuvių emigrantų organizacija, veikusi Antrojo pa
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Karinė Lietuvių aktyvistų fronto dalis bendradarbiavo su Abveru, todėl nurodyta pirmiausia užimti tiltus, geležinkelio mazgus ir oro uostus.'
+  santrauka: 'Karinė Lietuvių aktyvistų fronto dalis bendradarbiavo su Abveru, o instrukcijose pirmiausia nurodyta užimti tiltus, geležinkelio mazgus ir oro uostus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Mičiūno reprodukcija)
@@ -104,9 +104,9 @@ Politinė ir rezistencinė lietuvių emigrantų organizacija, veikusi Antrojo pa
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-012
+    - t-014
 - c-002
-  santrauka: '1941 m. rugsėjo 26 d., daugumai ministrų atsisakius tapti tarėjais, naciai uždarė Lietuvių aktyvistų frontą.'
+  santrauka: 'Rugsėjo 26-ąją naciai uždarė Lietuvių aktyvistų frontą, kai dauguma ministrų atsisakė tapti tarėjais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Daugumai ministrų atsisakius tapti
@@ -122,7 +122,7 @@ Politinė ir rezistencinė lietuvių emigrantų organizacija, veikusi Antrojo pa
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-013
+    - t-015
 
 ## Šaltiniai ir įrodymai
 

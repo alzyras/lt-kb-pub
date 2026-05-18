@@ -24,53 +24,36 @@ tags: []
 
 ## Santrauka
 kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis vokiečių pirkliai. Į gudus išvirtę lietuviai gyvena apie Padauguvį. Padaugavyje buvo Ašradės pilis.
-## Teiginiai
-- t-001
-  teiginys: 'kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis vokiečių pirkliai.'
-  pagrindžia:
-    - c-001
 
-- t-002
-  teiginys: "Į gudus išvirtę lietuviai gyvena apie Padauguvį."
+## Teiginiai
+- t-006
+  teiginys: 'Į gudus išvirtę lietuviai gyvena apie Padauguvį.'
   pagrindžia:
     - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-003
-  teiginys: "Padaugavyje buvo Ašradės pilis."
+- t-007
+  teiginys: 'Padaugavyje buvo Ašradės pilis.'
   pagrindžia:
     - c-003
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-004
-  teiginys: "Padaugavio girios buvo naudojamos kaip slėptuvė gyventojams ir turtui."
+- t-008
+  teiginys: 'Padaugavio girios buvo naudojamos kaip slėptuvė gyventojams ir turtui.'
   pagrindžia:
     - c-004
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-005
-  teiginys: "Padaugavys minimas ir kaip kraštas, kuriame buvo baudžiama bei mokami mokesčiai."
+- t-009
+  teiginys: 'Padaugavys minimas ir kaip kraštas, kuriame buvo baudžiama bei mokami mokesčiai.'
   pagrindžia:
     - c-005
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis vokiečių pirkliai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo
-    lankytis vokiečių pirkliai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: zemas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
 
+## Reikšmingi paminėjimai
 - c-002
-  santrauka: "Į gudus išvirtę lietuviai gyvena apie Padauguvį."
+  santrauka: 'Į gudus išvirtę lietuviai gyvena apie Padauguvį.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     išvirto, jų kalba kalbą ir tikybą seka, gyvenantys apie pilis Balostekę, Uolą, Usvietę, Vitesbę,
@@ -81,9 +64,9 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-006
 - c-003
-  santrauka: "Padaugavyje buvo Ašradės pilis."
+  santrauka: 'Padaugavyje buvo Ašradės pilis.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     kaipogi tokiame abaze gulinčius žemaičius metuose 1200 antpuolę iš Rygos meldžionų vokiečiai
@@ -94,9 +77,9 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-007
 - c-004
-  santrauka: "Padaugavio girios buvo naudojamos kaip slėptuvė gyventojams ir turtui."
+  santrauka: 'Padaugavio girios buvo naudojamos kaip slėptuvė gyventojams ir turtui.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Parusy ir Padaugavy baudžiavomis, arba lažais, ir mokesniais, todėl kožnas velijos ant vietos liuosas
@@ -111,9 +94,9 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-008
 - c-005
-  santrauka: "Padaugavys minimas ir kaip kraštas, kuriame buvo baudžiama bei mokami mokesčiai."
+  santrauka: 'Padaugavys minimas ir kaip kraštas, kuriame buvo baudžiama bei mokami mokesčiai.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     tuojau liepė visu panemunių
@@ -125,7 +108,8 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
+    - t-009
+
 ## Pavadinimai šaltiniuose
 
 - Padauguvis

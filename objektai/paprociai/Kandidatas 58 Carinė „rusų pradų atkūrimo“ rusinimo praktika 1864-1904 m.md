@@ -42,7 +42,7 @@ Nenurodyta
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: '„Rusų pradų“ diegimą patikėjus atvykusiems rusų mokytojams, lietuvių kalba į švietimo įstaigas nebuvo įleista.'
+  teiginys: 'Lietuvių kalba nebuvo įleista į švietimo įstaigas, o „rusų pradus“ turėjo diegti iš Rusijos atvykę mokytojai.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -70,7 +70,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 - c-002
-  santrauka: '„Rusų pradų“ diegimą patikėjus atvykusiems rusų mokytojams, lietuvių kalba į švietimo įstaigas nebuvo įleista.'
+  santrauka: 'Lietuvių kalba nebuvo įleista į švietimo įstaigas, o „rusų pradus“ turėjo diegti iš Rusijos atvykę mokytojai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nuga-

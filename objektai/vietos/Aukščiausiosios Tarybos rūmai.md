@@ -36,28 +36,25 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
 - Aukščiausiosios Tarybos
 
 ## Teiginiai
-- t-001
+- t-005
   teiginys: 'Aukščiausiosios Tarybos rūmų rūsyje gynybai buvo įrengtos ginklų remonto, šovinių ir sprogmenų gamybos dirbtuvės bei šaudykla.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-
-- t-002
-  teiginys: 'Ginkluoti vyrai buvo surinkti AT rūmų fojė ir suskirstyti penketukais.'
-  pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-
-- t-003
-  teiginys: 'Ant rūmų stogo pritvirtinti metaliniai strypai turėjo apsunkinti šturmo grupių desantavimą sraigtasparniais.'
+- t-006
+  teiginys: 'Aukščiausiosios Tarybos rūmų fojė ginkluoti vyrai buvo surinkti ir suskirstyti penketukais.'
   pagrindžia:
     - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-
-- t-004
+- t-007
+  teiginys: 'Ant rūmų stogo pritvirtinti metaliniai strypai turėjo apsunkinti šturmo grupių desantavimą sraigtasparniais.'
+  pagrindžia:
+    - c-002
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-008
   teiginys: '1991 m. sausio 11-12 d. rūmų vidus buvo įtvirtinamas spygliuota viela, smėlio maišais, armatūros tinklais, užminuotais laiptais ir baldų barikadomis.'
   pagrindžia:
     - c-004
@@ -66,54 +63,53 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Citata aprašo rūmų rūsyje įrengtą gynybinę infrastruktūrą.
+  santrauka: 'Aukščiausiosios Tarybos rūmų rūsyje gynybai buvo įrengtos ginklų remonto, šovinių ir sprogmenų gamybos dirbtuvės bei šaudykla.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Rengiantis gynybai AT rūsyje buvo įreng-
     tos ginklų remonto ir šovinių, sprogmenų
-    gamybos dirbtuvės bei šaudykla.
-  citata_rodoma: ''
+    gamybos dirbtuvės bei šaudykla. Ginklai
+    ir sprogmenys - gyventojų sunešti, gauti
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-
+    - t-005
 - c-002
-  santrauka: Citata rodo rūmų fojė kaip gynėjų sutelkimo vietą.
+  santrauka: 'Ant rūmų stogo pritvirtinti metaliniai strypai turėjo apsunkinti šturmo grupių desantavimą sraigtasparniais.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    medžiokliniu šautuvu. Ant Aukščiausiosios Tarybos
+    stogo pritvirtinti metaliniai strypai turėjo apsunkinti
+    šturmo grupių desantavimą sraigtasparniais
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-007
+- c-003
+  santrauka: 'Aukščiausiosios Tarybos rūmų fojė ginkluoti vyrai buvo surinkti ir suskirstyti penketukais.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     „Visus ginkluotus vyrus surinko AT rūmų fojė, suskirstė penketu-
-    kais.
-  citata_rodoma: ''
+    kais. Man priskyrė penkis KAD būrio vyrus. Mūsų vieta ir užduotis
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: Citata aprašo stogo pritaikymą gynybai nuo oro desanto.
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Ant Aukščiausiosios Tarybos
-    stogo pritvirtinti metaliniai strypai turėjo apsunkinti
-    šturmo grupių desantavimą sraigtasparniais
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-
+    - t-006
 - c-004
-  santrauka: Citata išsamiai aprašo rūmų vidaus įtvirtinimą.
+  santrauka: '1991 m. sausio 11-12 d. rūmų vidus buvo įtvirtinamas spygliuota viela, smėlio maišais, armatūros tinklais, užminuotais laiptais ir baldų barikadomis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Pirmiausia, dar sausio
+    Inžineriniai įtvirtinimai buvo įrenginė-
+    jami trimis etapais. Pirmiausia, dar sausio
     11-12 d., rūmų viduje spygliuota viela buvo
     apraizgyta dalis praėjimų ir ventiliacinių
 
@@ -123,14 +119,14 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
     įtvirtintas pagrindinių AT rūmų pirmasis
     aukštas, užminuoti laiptai į antrą aukštą,
     pradėtos įrenginėti baldų barikados rūmų
-    viduje
-  citata_rodoma: ''
+    viduje. Išoriniame perimetre smėlio bars-
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-008
 
 ## Ryšiai
 ### Susiję objektai

@@ -20,27 +20,31 @@ Jis juos vadina aisčiais (aestii, aestiorum gentes). Visi aisčiai, pagal kalbo
 
 ## Teiginiai
 - t-001
-  teiginys: 'Jis juos vadina aisčiais (aestii, aestiorum gentes).'
+  teiginys: 'Tacitas veikale „Germania“ mūsų krašto gyventojus vadino aisčiais.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: 'Visi aisčiai, pagal kalbos tarmę, kalbininkų skirstomi į tris grupes — prūsus, lietuvius ir latvius.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Jis juos vadina aisčiais (aestii, aestiorum gentes).'
+  santrauka: 'Tacitas veikale „Germania“ mūsų krašto gyventojus vadino aisčiais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus
     galo romėnų rašytojas Tacitas savo veikale „Germania".
     Jis juos vadina aisčiais _(aestii, aestiorum gentes)._
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
@@ -49,11 +53,11 @@ Jis juos vadina aisčiais (aestii, aestiorum gentes). Visi aisčiai, pagal kalbo
   citata_originali: |
     Visi aisčiai, pagal kalbos tarmę, kalbininkų skirstomi į tris
     grupes — prūsus, lietuvius ir latvius.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

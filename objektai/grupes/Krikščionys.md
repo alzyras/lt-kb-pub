@@ -30,7 +30,7 @@ tags:
 Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.'
   pagrindžia:
     - c-001
@@ -39,7 +39,7 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
+  santrauka: 'Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Užvis ilgainiui, kad nedori krikščionys,
@@ -56,4 +56,4 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

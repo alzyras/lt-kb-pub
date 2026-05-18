@@ -21,21 +21,21 @@ Kaip Varšuvos seime (1563—4 m.), taip ir Liubline lenkai reikalavo visiško a
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kaip Varšuvos seime (1563—4 m.), taip ir Liubline lenkai reikalavo visiško abiejų valstybių sujungimo, o lietuviai atsivežė savo projektus, reikalaudami, kad abidvi valstybės pasiliktų savarankiškos.'
+  teiginys: 'Liublino seime lenkai reikalavo visiško abiejų valstybių sujungimo, o lietuviai siekė išlaikyti jų savarankiškumą.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Grįžę į seimą, lietuviai dar ilgai kovojo, stengdamiesi išsiderėti sau palankesnes sąlygas, ir reikalavo grąžinti atplėštąsias žemes, tačiau, karaliui palaikant lenkus, buvo priversti nusileisti.'
+  teiginys: 'Liublino seime lietuviai reikalavo grąžinti atplėštąsias žemes, bet karaliui palaikant lenkus buvo priversti nusileisti.'
   pagrindžia:
     - c-002
-- t-003
-  teiginys: 'Toliau dar nustatoma, kad abi jungtinės valstybės turėsiančios bendrus seimus (. 8), kurie visada rinksiąsi Lenkijoje (. 16; sudarius uniją, tas pats Liublino seimas nutarė, kad seimai turės rinktis Varšuvoje).'
-  pagrindžia:
-    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kaip Varšuvos seime (1563—4 m.), taip ir Liubline lenkai reikalavo visiško abiejų valstybių sujungimo, o lietuviai atsivežė savo projektus, reikalaudami, kad abidvi valstybės pasiliktų savarankiškos.'
+  santrauka: 'Liublino seime lenkai reikalavo visiško abiejų valstybių sujungimo, o lietuviai siekė išlaikyti jų savarankiškumą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kaip Varšuvos seime
@@ -45,15 +45,15 @@ Kaip Varšuvos seime (1563—4 m.), taip ir Liubline lenkai reikalavo visiško a
     per kurias vienų kitiems buvo pasakyta daug karčių žodžių,
     lietuviai staiga nutraukė derybas ir išvažiavo iš Liublino (kovo
     1 d.).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Grįžę į seimą, lietuviai dar ilgai kovojo, stengdamiesi išsiderėti sau palankesnes sąlygas, ir reikalavo grąžinti atplėštąsias žemes, tačiau, karaliui palaikant lenkus, buvo priversti nusileisti.'
+  santrauka: 'Liublino seime lietuviai reikalavo grąžinti atplėštąsias žemes, bet karaliui palaikant lenkus buvo priversti nusileisti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Grįžę į seimą, lietuviai dar ilgai kovojo, stengdamiesi iš-
@@ -70,29 +70,10 @@ Kaip Varšuvos seime (1563—4 m.), taip ir Liubline lenkai reikalavo visiško a
     atskiras valdžios aparatas, atskiras iždas, atskira kariuomenė
     ir t.t. Visa tai liepos 1 d. buvo patvirtinta trimis unijos aktais
     — dviem abiejų valstybių luomų ir vienu karaliaus aktu.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Toliau dar nustatoma, kad abi jungtinės valstybės turėsiančios bendrus seimus (. 8), kurie visada rinksiąsi Lenkijoje (. 16; sudarius uniją, tas pats Liublino seimas nutarė, kad seimai turės rinktis Varšuvoje).'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Toliau dar nustatoma, kad abi jungtinės valstybės turėsiančios
-    bendrus seimus (§ 8), kurie visada rinksiąsi Lenkijoje (§ 16;
-    sudarius uniją, tas pats Liublino seimas nutarė, kad seimai
-    turės rinktis Varšuvoje).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkų karalystė]]

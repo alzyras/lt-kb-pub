@@ -39,14 +39,14 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
 
 ## Teiginiai
 - t-001
-  teiginys: 'Hanza yra vokiečių miestų sąjunga ir prekybos valdovė'
+  teiginys: 'XIII amžiuje šiaurinės Europos prekybą į savo rankas perėmė vokiečių miestų sąjunga, vadinama Hanza.'
   pagrindžia:
     - c-010
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Hanzos veiklos kontekste minimos vokiečių prekyvietės Baltijos pajūryje'
+  teiginys: 'Baltijos pajūryje vokiečiai buvo įsikūrę miestų ar prekyviečių, kur mainėsi prekėmis su vietos gyventojais.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -58,19 +58,19 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-004
-  teiginys: 'Hanzos miestų atstovai palankiai sutiko Gedimino laiškus'
+  teiginys: 'Hanzos miestų atstovų suvažiavimas Liubeke labai palankiai sutiko Gedimino laiškus.'
   pagrindžia:
     - c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-005
-  teiginys: 'Hanza tiesiogiai yra vokiškųjų miestų pirklių sąjunga ir siejama su Baltijos jūros prekyba'
+  teiginys: 'XIII amžiuje Šiaurės ir Baltijos jūrose įsigalėjo vokiškųjų miestų pirklių sąjunga, vadinama Hanza.'
   pagrindžia:
     - c-005
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-006
-  teiginys: 'Hanzos pirkliai yra Lietuvos prekybos partneriai, su kuriais prekiauti trukdė kryžiuočiai'
+  teiginys: 'Lietuvai buvo sunku prekiauti su Hanzos pirkliais, nes pajūrį ir abiejų didžiųjų upių žiotis buvo užėmę kryžiuočiai.'
   pagrindžia:
     - c-006
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -81,16 +81,10 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
     - c-007
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-008
-  teiginys: '1260 m. Durbės kautynių aplinkoje iš Hanzos miestų laivais buvo atvykę piligrimų.'
-  pagrindžia:
-    - c-008
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Hanza yra vokiečių miestų sąjunga ir prekybos valdovė
+  santrauka: 'XIII amžiuje šiaurinės Europos prekybą į savo rankas perėmė vokiečių miestų sąjunga, vadinama Hanza.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     XIII amž-je visos šiaurinės Europos prekybą suėmė į sa-
@@ -101,7 +95,7 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
   pagrindžia:
     - t-001
 - c-002
-  santrauka: Hanzos veiklos kontekste minimos vokiečių prekyvietės Baltijos pajūryje
+  santrauka: 'Baltijos pajūryje vokiečiai buvo įsikūrę miestų ar prekyviečių, kur mainėsi prekėmis su vietos gyventojais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vi-
@@ -126,7 +120,7 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
   pagrindžia:
     - t-003
 - c-004
-  santrauka: Hanzos miestų atstovai palankiai sutiko Gedimino laiškus
+  santrauka: 'Hanzos miestų atstovų suvažiavimas Liubeke labai palankiai sutiko Gedimino laiškus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Hanzos
@@ -138,7 +132,7 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
   pagrindžia:
     - t-004
 - c-005
-  santrauka: Hanza tiesiogiai yra vokiškųjų miestų pirklių sąjunga ir siejama su Baltijos jūros prekyba
+  santrauka: 'XIII amžiuje Šiaurės ir Baltijos jūrose įsigalėjo vokiškųjų miestų pirklių sąjunga, vadinama Hanza.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose;
@@ -153,7 +147,7 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
   pagrindžia:
     - t-005
 - c-006
-  santrauka: Hanzos pirkliai yra Lietuvos prekybos partneriai, su kuriais prekiauti trukdė kryžiuočiai
+  santrauka: 'Lietuvai buvo sunku prekiauti su Hanzos pirkliais, nes pajūrį ir abiejų didžiųjų upių žiotis buvo užėmę kryžiuočiai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lietuvai buvo sunku prekiauti su Hanzos pirkliais, nes visą
@@ -176,34 +170,6 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
-- c-008
-  santrauka: Hanza minima kaip jūros keliu atvykusių piligrimų tinklas Durbės kautynių kontekste.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Dalyvavo iš Talino danai, estai, kur­
-    šiai ; iš Hanzos miestų laivais buvo atvykę pilgrimų. Tai kelių tuk-
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: 'Citata fragmentiška, bet aiškiai įvardija Hanzos miestus ir piligrimų atvykimą.'
-  pagrindžia:
-    - t-008
-- c-009
-  santrauka: Zenono Ivinskio tekste Hanzos miestai taip pat nurodomi tarp Gedimino laiškų adresatų.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    O trys laiškai
-    (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir dominin­
-    konams ir Hanzos miestams (Liubekui, Rostokui, Stralsundui,
-    Greifswaldni, Stettinui ir Gotlando salai).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
 - c-010
   santrauka: Hanza papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -225,7 +191,3 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
 - [[laikotarpiai/XXI amžius]]
-
-### Susiję objektai
-- [[objektai/grupes/Domininkonų ordinas]]
-- [[objektai/grupes/Pranciškonų ordinas]]

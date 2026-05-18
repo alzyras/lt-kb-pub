@@ -48,7 +48,7 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   pagrindžia:
     - c-001
 - t-002
-  teiginys: 'Visą tą laiką ginčijamoji Voluinė buvo valdoma Švitrigailos, o Podolė buvo valdoma Lenkų.'
+  teiginys: 'Ginčijamoji Voluinė buvo valdoma Švitrigailos, kuris 1452 m. mirdamas testamentu ją paliko Lietuvai.'
   pagrindžia:
     - c-002
 - t-003
@@ -59,18 +59,6 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   teiginys: 'Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje).'
   pagrindžia:
     - c-004
-- t-007
-  teiginys: 'Jogaila, siekdamas susitaikymo, siūlė prie Vytauto tėviškės pridėti Volyniją su Lucku.'
-  pagrindžia:
-    - c-007
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-008
-  teiginys: 'Vėliau Jogaila atidavė Vytautui Volyniją su Lucko ir Vladimiro kunigaikštijomis.'
-  pagrindžia:
-    - c-008
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -91,7 +79,7 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Visą tą laiką ginčijamoji Voluinė buvo valdoma Švitrigailos, o Podolė buvo valdoma Lenkų.'
+  santrauka: 'Ginčijamoji Voluinė buvo valdoma Švitrigailos, kuris 1452 m. mirdamas testamentu ją paliko Lietuvai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Visą tą laiką ginčijamoji Voluinė buvo valdoma Švitrigailos,
@@ -137,35 +125,6 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-- c-007
-  santrauka: Citata rodo Volyniją kaip Jogailos siūlytą priedą prie Vytauto tėviškės.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Todėl dar 1384 metų pavasarį jis pradėjo siunti­
-    nėti Vytautui pasiuntinius, kad šis grįžtų į Lietuvą, žadėdamas
-    jam sugrąžinti jo tėviškę ir siūlydamas dar pridėti Volyniją su
-    Lucku.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-007
-- c-008
-  santrauka: Citata tiesiogiai įvardija Voluinę tarp Vytautui atiduotų valdų.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Jogaila, norėdamas iš sa­
-    vo pusės tą blogą įspūdį šiek tiek sušvelninti, atidavė Vytautui
-    Volyniją su Lucko ir Vladimiro kunigaikštijomis.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-008
 
 ## Ryšiai
 ### Teminiai klasteriai

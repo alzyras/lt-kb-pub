@@ -19,13 +19,15 @@ Susivienijimo Lietuvių Amerikoje neramiausias elementas buvo komunistai.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Susivienijimo Lietuvių Amerikoje neramiausias elementas buvo komunistai.'
+  teiginys: 'Amerikos Lietuvių Darbininkų Susivienijimą komunistai įkūrė po 1930 m. Čikagoje vykusio Susivienijimo Lietuvių Amerikoje seimo.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Susivienijimo Lietuvių Amerikoje neramiausias elementas buvo komunistai.'
+  santrauka: 'Amerikos Lietuvių Darbininkų Susivienijimą komunistai įkūrė po 1930 m. Čikagoje vykusio Susivienijimo Lietuvių Amerikoje seimo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Susivienijimo Lietuvių Amerikoje neramiausias elementas
@@ -38,10 +40,10 @@ Susivienijimo Lietuvių Amerikoje neramiausias elementas buvo komunistai.
     ir šis rūpinasi pašalpomis nedarbo metu, parama ligoje ir gy-
     vybės draudimu, o kultūrinėje ir ypač politinėje veikloje laikosi
     bendros komunistų linijos.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

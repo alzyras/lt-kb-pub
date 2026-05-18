@@ -29,7 +29,7 @@ tags:
 1595 m. Mikalojus Daukša, parengęs pirmąją lietuvišką knygą LDK – „Katekizmą“, o 1599 m. kitą lietuvišką leidinį – „Postilė“, kurios pratarmėje kreipėsi į Lietuvos visuomenę, ragindamas kurti raštiją lietuvių kalba: „Kurgi, sakau, pasaulyje yra tauta, tokia.
 
 ## Teiginiai
-- t-002
+- t-003
   teiginys: '1599 m. „Postilės“ pratarmėje Mikalojus Daukša ragino kurti raštiją lietuvių kalba ir pabrėžė tėvų žemės, papročių bei kalbos svarbą.'
   pagrindžia:
     - c-001
@@ -57,7 +57,7 @@ tags:
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-003
 
 ## Ryšiai
 ### Laikotarpiai

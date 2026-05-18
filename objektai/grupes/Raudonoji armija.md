@@ -36,7 +36,7 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
 
 ## Teiginiai
 - t-001
-  teiginys: 'Po 1939 m. rudens Raudonosios armijos įgulos Lietuvoje veikė jaunimo politines nuotaikas.'
+  teiginys: 'Po 1939 m. rudens Raudonosios armijos įgulos Lietuvoje veikė lietuvių, žydų ir kitų tautinių mažumų jaunimo politines nuotaikas.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -44,7 +44,7 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Po 1939 m. rudens Raudonosios armijos įgulos Lietuvoje veikė jaunimo politines nuotaikas.'
+  santrauka: 'Po 1939 m. rudens Raudonosios armijos įgulos Lietuvoje veikė lietuvių, žydų ir kitų tautinių mažumų jaunimo politines nuotaikas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     )

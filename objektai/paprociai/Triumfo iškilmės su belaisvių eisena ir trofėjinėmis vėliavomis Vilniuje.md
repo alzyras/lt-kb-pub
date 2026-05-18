@@ -41,22 +41,16 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: 'Po pergalės Vilniuje įvyko triumfo iškilmės.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Eisenoje buvo vedami belaisviai Maskvos karvedžiai ir kariai, o Vilniaus katedroje pakabintos trofėjinės vėliavos.'
-  pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Po pergalės Vilniuje įvyko triumfo iškilmės.
+  santrauka: 'Po pergalės Vilniuje įvyko triumfo iškilmės.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kilmingi žuvusieji buvo atvežti ir palai-
@@ -64,19 +58,7 @@ Nenurodyta
     triumfo iškilmės, eisenoje buvo vedami
     belaisviai Maskvos karvedžiai ir kariai,
     Vilniaus katedroje pakabintos trofėjinės
-    vėliavos.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: Eisenoje buvo vedami belaisviai Maskvos karvedžiai ir kariai, o Vilniaus katedroje pakabintos trofėjinės vėliavos.
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    (Kaip liudija Mykolas Lietuvis,
+    vėliavos. (Kaip liudija Mykolas Lietuvis,
     jos su kitomis čia saugotomis sudegė per
     1530 m. gaisrą).
   citata_rodoma: ""
@@ -85,4 +67,8 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/ivykiai/Oršos mūšis (1514 m.)]]

@@ -32,7 +32,7 @@ Tačiau kolektyvizacija Lietuvoje strigo dėl partizaninio karo. Kolektyvizacija
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: 'Po kolektyvizacijos LSSR prieškarinį javų derlingumo, gyvulių skaičiaus ir produktyvumo lygį pasiekė tik po 20 metų.'
+  teiginys: 'LSSR prieškarinį javų derlingumo, gyvulių skaičiaus ir produktyvumo lygį pasiekė tik po 20 metų.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -55,7 +55,7 @@ Tačiau kolektyvizacija Lietuvoje strigo dėl partizaninio karo. Kolektyvizacija
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Po kolektyvizacijos LSSR prieškarinį javų derlingumo, gyvulių skaičiaus ir produktyvumo lygį pasiekė tik po 20 metų.'
+  santrauka: 'LSSR prieškarinį javų derlingumo, gyvulių skaičiaus ir produktyvumo lygį pasiekė tik po 20 metų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     derlingumą, gyvulių skaičių ir jų produktyvumą LSSR pasiekė tik po

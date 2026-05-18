@@ -20,7 +20,7 @@ Susiformavo tvirta kontrabandinės knygnešystės tradicija, ir į XIX a.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Knygnešystė apėmė Rytprūsiuose spausdintos lietuviškos spaudos tradiciniu raidynu nelegalų platinimą Lietuvoje.'
+  teiginys: 'Vyskupas slapta suorganizavo tradiciniu raidynu spausdinamos lietuviškos spaudos leidimą Rytprūsiuose ir nelegalų platinimą Lietuvoje.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -28,7 +28,7 @@ Susiformavo tvirta kontrabandinės knygnešystės tradicija, ir į XIX a.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Knygnešystė apėmė Rytprūsiuose spausdintos lietuviškos spaudos tradiciniu raidynu nelegalų platinimą Lietuvoje.'
+  santrauka: 'Vyskupas slapta suorganizavo tradiciniu raidynu spausdinamos lietuviškos spaudos leidimą Rytprūsiuose ir nelegalų platinimą Lietuvoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Paraginęs nepriimti valdžios peršamų knygų, vyskupas slapta suorga-

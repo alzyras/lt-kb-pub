@@ -26,53 +26,53 @@ tags:
 Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti, kurs greitai išplėtė pagalbos ir pašalpos teikiamąjį darbą, tam tikslui gaudamas iš Rusijos vyriausybės lėšų ir rinkdamas aukas. Komiteto pirmininkas buvo Rusijos Dūmos atstovas M. Yčas, vicepirmininkas A. Smetona, sekretorius St. Šilingas, iždininkas J. Kymantas; jo nariai buvo E. Vileišienė, kun. Olšauskas, kun. Kukta, kun. Dogelis, dr. A. Vilei.
 
 ## Teiginiai
-- t-002
-  teiginys: 'Komiteto pirmininkas buvo Rusijos Dūmos atstovas M. Yčas, vicepirmininkas A. Smetona, sekretorius St. Šilingas, iždininkas J. Kymantas; jo nariai buvo E. Vileišienė, kun. Olšauskas, kun. Kukta, kun. Dogelis, dr. A. Vilei'
+- t-009
+  teiginys: 'Centralinio Komiteto pirmininku buvo M. Yčas, vicepirmininku A. Smetona, sekretoriumi St. Šilingas, o iždininku J. Kymantas.'
+  pagrindžia:
+    - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-010
+  teiginys: 'Kai 1915 metų vasarą Vokietija didelėmis jėgomis puolė Rusiją, paėmė Kauną, o rugsėjo mėnesį Vilnių, — dalis Centralinio Komiteto narių pasiliko Vilniuje, o kita dalis pasitraukė į Rusiją.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: 'Kai 1915 metų vasarą Vokietija didelėmis jėgomis puolė Rusiją, paėmė Kauną, o rugsėjo mėnesį Vilnių, — dalis Centralinio Komiteto narių pasiliko Vilniuje, o kita dalis pasitraukė į Rusiją.'
+- t-011
+  teiginys: 'Lietuvių Komitetas, persikėlęs į Petrapilį (dabartinį Leningradą), organizavo ne tik tremtinių šelpimą, bet ir visos jaunuomenės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimnazijose).'
   pagrindžia:
+    - c-008
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-004
-  teiginys: 'Lietuvių Komitetas, persikėlęs į Petrapilį (dabartinį Leningradą), organizavo ne tik tremtinių šelpimą, bet ir visos jaunuomenės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimnazijose).'
+- t-012
+  teiginys: 'Centralinis Komitetas telkė po Rusiją išblaškytus inteligentus tautos pajėgų ruošiamajam darbui būsimajai Lietuvai.'
   pagrindžia:
-    - c-009
     - c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-005
-  teiginys: 'Tuomet ir seniau išblaškyti po plačiąją Rusiją inteligentai buvo suburti į tautos pajėgų ruošiamąjį darbą būsimajai Lietuvai.'
+- t-013
+  teiginys: 'Komiteto įgaliotiniai, nusiųsti į Šiaurės Ameriką, paskatino ten lietuvius rinkti aukas (Amerikos prezidentas Vilsonas net paskyrė specialią dieną rinkliavai).'
   pagrindžia:
     - c-005
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-006
-  teiginys: 'Komiteto įgaliotiniai, nusiųsti į Šiaurės Ameriką, paskatino ten lietuvius rinkti aukas (Amerikos prezidentas Vilsonas net paskyrė specialią dieną rinkliavai).'
+- t-014
+  teiginys: 'Centralinis Komitetas, be šelpimo, rūpinosi šviesuomenės būrimu bendram Lietuvos ateities kuriamajam darbui.'
   pagrindžia:
     - c-006
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-007
-  teiginys: 'Šalia šelpiamųjų savo uždavinių, Komitetas susirūpino ir šviesuomenės būrimu bendram Lietuvos ateities kuriamajam darbui.'
+- t-015
+  teiginys: 'Centralinio Komiteto pasiuntiniai slapta keliavo po Lietuvą burti krašte likusių inteligentų Lietuvos atstatymo darbui.'
   pagrindžia:
     - c-007
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-008
-  teiginys: 'Komiteto pasiuntiniai slapta pasklido po Lietuvą burti į tą darbą visų krašte likusių inteligentiškų pajėgų.'
-  pagrindžia:
-    - c-008
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: Komiteto pirmininkas buvo Rusijos Dūmos atstovas M. Yčas, vicepirmininkas A. Smetona, sekretorius St. Šilingas, iždininkas J. Kymantas; jo nariai buvo E. Vileišienė, kun. Olšauskas, kun. Kukta, kun. Dogelis, dr. A. Vilei
+- c-001
+  santrauka: 'Centralinio Komiteto pirmininku buvo M. Yčas, vicepirmininku A. Smetona, sekretoriumi St. Šilingas, o iždininku J. Kymantas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Komiteto pirmininkas buvo Rusijos Dūmos atstovas M. Yčas,
@@ -81,13 +81,15 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
     kun. Dogelis, dr. A. Vileišis, P. Leonas, dr. J. Basanavičius, kun.
     Jezukevičius, D. Malinauskas, J. Balčikonis, A. Žmuidzinavičius, J.
     Mašiotas, A. Janulaitis ir M. Sleževičius.
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: Kai 1915 metų vasarą Vokietija didelėmis jėgomis puolė Rusiją, paėmė Kauną, o rugsėjo mėnesį Vilnių, — dalis Centralinio Komiteto narių pasiliko Vilniuje, o kita dalis pasitraukė į Rusiją.
+    - t-009
+- c-002
+  santrauka: 'Kai 1915 metų vasarą Vokietija didelėmis jėgomis puolė Rusiją, paėmė Kauną, o rugsėjo mėnesį Vilnių, — dalis Centralinio Komiteto narių pasiliko Vilniuje, o kita dalis pasitraukė į Rusiją.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kai 1915 metų vasarą Vokietija didelėmis jėgomis puolė
@@ -96,13 +98,15 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
     Rusiją. Tuo būdu ta pati didžioji ir pastovioji lietuvių orga-
     nizacija viena atstovavo to meto lietuvių reikalams tiek vokiečių
     okupuotoje Lietuvoje, tiek Rusijoje.
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
-- c-004
-  santrauka: Lietuvių Komitetas, persikėlęs į Petrapilį (dabartinį Leningradą), organizavo ne tik tremtinių šelpimą, bet ir visos jaunuomenės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimnazijose).
+    - t-010
+- c-003
+  santrauka: 'Lietuvių Komitetas, persikėlęs į Petrapilį (dabartinį Leningradą), organizavo ne tik tremtinių šelpimą, bet ir visos jaunuomenės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimnazijose).'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Lietuvių Komitetas,** persikėlęs į Petrapilį (dabartinį Lenin-
@@ -110,26 +114,30 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
     menės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimna-
     zijose). Studentams buvo duodamos pašalpos universitetuose ir
     steigiami bendrabučiai.
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
-- c-005
-  santrauka: Tuomet ir seniau išblaškyti po plačiąją Rusiją inteligentai buvo suburti į tautos pajėgų ruošiamąjį darbą būsimajai Lietuvai.
+    - t-011
+- c-004
+  santrauka: 'Centralinis Komitetas telkė po Rusiją išblaškytus inteligentus tautos pajėgų ruošiamajam darbui būsimajai Lietuvai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuomet ir seniau išblaškyti po plačiąją
     Rusiją inteligentai buvo suburti į tautos pajėgų ruošiamąjį darbą
     būsimajai Lietuvai. Komitetas rūpinosi per savo atstovus Skan-
     dinavijoje ir Šveicarijoje ir lietuvių belaisviais Vokietijoje.
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
-- c-006
-  santrauka: Komiteto įgaliotiniai, nusiųsti į Šiaurės Ameriką, paskatino ten lietuvius rinkti aukas (Amerikos prezidentas Vilsonas net paskyrė specialią dieną rinkliavai).
+    - t-012
+- c-005
+  santrauka: 'Komiteto įgaliotiniai, nusiųsti į Šiaurės Ameriką, paskatino ten lietuvius rinkti aukas (Amerikos prezidentas Vilsonas net paskyrė specialią dieną rinkliavai).'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Komitetas rūpinosi per savo atstovus Skan-
@@ -141,13 +149,15 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
 
     popiežiaus Benedikto XV tokią pat dieną rinkliavai visose
     pasaulio bažnyčiose.
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-006
-- c-007
-  santrauka: Šalia šelpiamųjų savo uždavinių, Komitetas susirūpino ir šviesuomenės būrimu bendram Lietuvos ateities kuriamajam darbui.
+    - t-013
+- c-006
+  santrauka: 'Centralinis Komitetas, be šelpimo, rūpinosi šviesuomenės būrimu bendram Lietuvos ateities kuriamajam darbui.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Šalia šelpiamųjų savo uždavinių, Komite-
@@ -157,13 +167,15 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
     kuriamajam darbui. Pirmiausia buvo imtasi lietuviškosios mo-
     kyklos organizavimo, jai vadovėlių ruošimo, mokytojų kursų
     steigimo.
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-007
-- c-008
-  santrauka: Komiteto pasiuntiniai slapta pasklido po Lietuvą burti į tą darbą visų krašte likusių inteligentiškų pajėgų.
+    - t-014
+- c-007
+  santrauka: 'Centralinio Komiteto pasiuntiniai slapta keliavo po Lietuvą burti krašte likusių inteligentų Lietuvos atstatymo darbui.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Komiteto pasiuntiniai slapta pasklido po Lietuvą burti
@@ -172,13 +184,15 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
     atstatymo darbą, nepaisant žiaurių okupacijos sąlygų. Daug
     žmonių dėl to nukentėjo — buvo susodinti į kalėjimus arba iš-
     vežti į Vokietiją.
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-008
-- c-009
-  santrauka: Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti papildomas patvirtintas šaltinio paminėjimas.
+    - t-015
+- c-008
+  santrauka: 'Lietuvių Komitetas, persikėlęs į Petrapilį (dabartinį Leningradą), organizavo ne tik tremtinių šelpimą, bet ir visos jaunuomenės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimnazijose).'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Okupacinė valdžia, nepatenkinta tokiuo reikalavimu,
@@ -190,11 +204,13 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
-    - t-004
+    - t-011
 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
+
+### Susiję objektai
+- [[objektai/ivykiai/Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti įkūrimas Vilniuje (1915 m. lapkritis)]]

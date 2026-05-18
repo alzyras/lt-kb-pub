@@ -1,9 +1,11 @@
 ---
 tipas: asmuo
-pavadinimas: 'Martynas Knakfusas'
+pavadinimas: 'Martynas Knakfusas (vyskupas, XVIII–XIX a.)'
 sukurta: '2026-05-18'
-variantai: []
-aliases: []
+variantai:
+  - 'Martynas Knakfusas'
+aliases:
+  - 'Martynas Knakfusas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
@@ -23,7 +25,7 @@ tags:
   - asmuo
   - vyskupas
 ---
-# Martynas Knakfusas
+# Martynas Knakfusas (vyskupas, XVIII–XIX a.)
 
 ## Santrauka
 

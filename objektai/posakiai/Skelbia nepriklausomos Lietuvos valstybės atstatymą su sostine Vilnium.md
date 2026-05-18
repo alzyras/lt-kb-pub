@@ -36,7 +36,7 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Formuluotė šiame pasakojime pateikiama kaip 1917 m. gruodžio 11 d. Lietuvos Tarybos pareiškimo formulė.'
+  teiginys: '1917 m. gruodžio 11 d. Lietuvos Taryba paskelbė nepriklausomos Lietuvos valstybės atkūrimą su sostine Vilniumi.'
   pagrindžia:
     - c-001
     - c-002
@@ -45,7 +45,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 1917 m. gruodžio 11 d. Lietuvos Tarybos pareiškimo formulė
+  santrauka: '1917 m. gruodžio 11 d. Lietuvos Taryba paskelbė nepriklausomos Lietuvos valstybės atkūrimą su sostine Vilniumi.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tokį pareiškimą Taryba padarė 1917 m. gruodžio 11 d., po sun-
@@ -65,7 +65,7 @@ tags:
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 1917 m. gruodžio 11 d. Lietuvos Tarybos pareiškimo formulė
+  santrauka: '1917 m. gruodžio 11 d. Lietuvos Taryba paskelbė nepriklausomos Lietuvos valstybės atkūrimą su sostine Vilniumi.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     II. Tai valstybei tvarkyti ir jos reikalams ginti taikos derybose
@@ -87,6 +87,3 @@ tags:
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
-
-### Susiję objektai
-- [[objektai/grupes/Lietuvos Taryba]]

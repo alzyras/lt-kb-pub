@@ -30,27 +30,8 @@ tags: []
 - Pagrindinė forma: ne bičiulystės, o teisybės
 
 ## Teiginiai
-- t-001
-  teiginys: 'Zigmantas šia formule teisinosi, kad jo sprendimo pagrindas buvo teisybė, o ne bičiulystė.'
-  pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: Zigmanto sprendimo motyvas nusakomas opozicija tarp bičiulystės ir teisybės.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Zigmantas vikriai teisinosi, jog jis sprendimą daręs žiūrėdamas
-    ne bičiulystės, o teisybės.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai

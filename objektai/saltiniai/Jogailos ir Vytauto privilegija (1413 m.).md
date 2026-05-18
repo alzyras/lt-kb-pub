@@ -19,13 +19,17 @@ Naujų teisinių normų davė 1413 m. Jogailos ir Vytauto privilegija, suteikta 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Naujų teisinių normų davė 1413 m. Jogailos ir Vytauto privilegija, suteikta Horodlėje (žiūr.'
+  teiginys: '1413 m. Jogailos ir Vytauto privilegija, suteikta Horodlėje, įtvirtino naujas teisines normas.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Naujų teisinių normų davė 1413 m. Jogailos ir Vytauto privilegija, suteikta Horodlėje (žiūr.'
+  santrauka: '1413 m. Jogailos ir Vytauto privilegija, suteikta Horodlėje, įtvirtino naujas teisines normas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Naujų teisinių normų
@@ -35,10 +39,10 @@ Naujų teisinių normų davė 1413 m. Jogailos ir Vytauto privilegija, suteikta 
     Kazimiero privilegija (žiūr. 180 psl.). Pirmasis bandymas įstaty-
     mus kodifikuoti buvo padarytas 1468 m., išleidus vadinamąjį Ka-
     zimiero Teisyną.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

@@ -32,7 +32,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: '1989 m. gegužės 18 d. priimtos konstitucinės pataisos paskelbė Lietuvos įstatymų viršenybę SSRS įstatymų atžvilgiu ir priimta Lietuvos SSR valstybinio suvereniteto deklaracija.'
+  teiginys: '1989 m. gegužės 18 d. priimtos pataisos paskelbė Lietuvos įstatymų viršenybę SSRS įstatymų atžvilgiu, taip pat priimta Lietuvos SSR suvereniteto deklaracija.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -40,7 +40,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1989 m. gegužės 18 d. priimtos konstitucinės pataisos paskelbė Lietuvos įstatymų viršenybę SSRS įstatymų atžvilgiu ir priimta Lietuvos SSR valstybinio suvereniteto deklaracija.'
+  santrauka: '1989 m. gegužės 18 d. priimtos pataisos paskelbė Lietuvos įstatymų viršenybę SSRS įstatymų atžvilgiu, taip pat priimta Lietuvos SSR suvereniteto deklaracija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     LPS reika-

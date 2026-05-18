@@ -51,7 +51,7 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
 
 ## Teiginiai
 - t-023
-  teiginys: 'Lietuvos Didžiosios Kunigaikštijos pirmasis valdovas Mindaugas spėjo krikštytis iki 1253 m.'
+  teiginys: 'Mindaugas buvo pirmasis Lietuvos Didžiosios Kunigaikštijos valdovas ir XIII a. viduryje suspėjo krikštytis.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -69,7 +69,7 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-026
-  teiginys: 'O Mindaugas, karūnavęsis per Vokietijos vasalą – Livonijos ordiną, tapo ne imperatoriaus, o popiežiaus vasalu ir iš karto gavo teisę į savarankišką, tiesiai popiežiui pavaldžią vyskupiją.'
+  teiginys: 'Mindaugas tapo popiežiaus, o ne imperatoriaus vasalu ir gavo teisę į savarankišką, tiesiai popiežiui pavaldžią vyskupiją.'
   pagrindžia:
     - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -89,7 +89,7 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lietuvos Didžiosios Kunigaikštijos pirmasis valdovas Mindaugas spėjo krikštytis iki 1253 m.'
+  santrauka: 'Mindaugas buvo pirmasis Lietuvos Didžiosios Kunigaikštijos valdovas ir XIII a. viduryje suspėjo krikštytis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Valstybė – Lietuvos Didžioji Kunigaikš-
@@ -144,7 +144,7 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   pagrindžia:
     - t-025
 - c-004
-  santrauka: 'O Mindaugas, karūnavęsis per Vokietijos vasalą – Livonijos ordiną, tapo ne imperatoriaus, o popiežiaus vasalu ir iš karto gavo teisę į savarankišką, tiesiai popiežiui pavaldžią vyskupiją.'
+  santrauka: 'Mindaugas tapo popiežiaus, o ne imperatoriaus vasalu ir gavo teisę į savarankišką, tiesiai popiežiui pavaldžią vyskupiją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     O Mindaugas, karūnavęsis per Vokietijos vasalą –

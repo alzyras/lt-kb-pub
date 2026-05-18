@@ -25,7 +25,7 @@ dr. Sauliui Kaubriui ir daugeliui kitų, prisidėjusių prie jos parengimo, iliu
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Saulius Kaubrys siejamas su 2000 m. Vilniuje išleistu veikalu „Lietuvos mokykla 1918–1939 m.: galios gimtis“.'
+  teiginys: 'Saulius Kaubrys parašė 2000 m. Vilniuje išleistą veikalą „Lietuvos mokykla 1918–1939 m.: galios gimtis“.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -50,7 +50,7 @@ dr. Sauliui Kaubriui ir daugeliui kitų, prisidėjusių prie jos parengimo, iliu
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Saulius Kaubrys siejamas su 2000 m. Vilniuje išleistu veikalu „Lietuvos mokykla 1918–1939 m.: galios gimtis“.'
+  santrauka: 'Saulius Kaubrys parašė 2000 m. Vilniuje išleistą veikalą „Lietuvos mokykla 1918–1939 m.: galios gimtis“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kaubrys S. Lietuvos mokykla 1918–1939 m.: galios gimtis. Vilnius, 2000.

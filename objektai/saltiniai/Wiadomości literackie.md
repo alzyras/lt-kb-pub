@@ -34,19 +34,19 @@ tags: []
 - Data: pradėjo eiti 1760 m.
 
 ## Teiginiai
-- t-004
+- t-007
   teiginys: '„Wiadomości literackie“ pradėjo eiti 1760 m.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-005
-  teiginys: '„Wiadomości literackie“ priskiriamas pirmiesiems Lietuvos laikraščiams.'
+- t-008
+  teiginys: '„Wiadomości literackie“ buvo vienas pirmųjų Lietuvos laikraščių, pradėjusių eiti 1760 m.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-006
+- t-009
   teiginys: '„Wiadomości literackie“ 1760 m. pradėjo eiti kaip vienas pirmųjų Lietuvos laikraščių.'
   pagrindžia:
     - c-001
@@ -69,6 +69,6 @@ tags: []
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
-    - t-005
-    - t-006
+    - t-007
+    - t-008
+    - t-009

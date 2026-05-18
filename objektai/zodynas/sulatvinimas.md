@@ -21,6 +21,8 @@ Apskritai stoka lietuviškų mokyklų ir savos inteligentijos, mišros vedybos i
   teiginys: 'Apskritai stoka lietuviškų mokyklų ir savos inteligentijos, mišros vedybos ir bažnyčių sulatvinimas labai mažina lietuvių skaičių Latvijoje.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -30,10 +32,10 @@ Apskritai stoka lietuviškų mokyklų ir savos inteligentijos, mišros vedybos i
     Apskritai stoka lietuviškų mokyklų ir savos inteligentijos,
     mišros vedybos ir bažnyčių sulatvinimas labai mažina lietuvių
     skaičių Latvijoje.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

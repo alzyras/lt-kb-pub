@@ -21,70 +21,34 @@ tags:
 Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su sąmokslu prieš Mindaugą ir vėliau tapęs Pskovo kunigaikščiu. Jis minimas kaip Mindaugo svogeris, priėmęs Timofėjaus vardą ir iš naujosios žemės rengęs žygius prieš Nalšėnus.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Kariuomenei vadovavo Nalšėnų kunigaikštis Daumantas.'
+- t-007
+  teiginys: 'Daumantas, Nalšėnų kunigaikštis, mėgino pašalinti Mindaugą, bet neįstengė.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'karo vadu dažniausiai skirdavo Gardino srities kunigaikštį Dovydą (spėjama, kad jis buvęs Mindaugo nužudyme dalyvavusio, o vėliau Pskovą valdžiusio, Daumanto sūnus).'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-008
+  teiginys: 'Daumantas buvo Mindaugo svogeris ir Treniotos sąjungininkas prieš Mindaugą.'
   pagrindžia:
     - c-002
-- t-003
-  teiginys: 'Daumantas, Nalšėnų kunigaikštis, mėgino pašalinti Mindaugą, bet neįstengė.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-009
+  teiginys: 'Daumantas per krikštą priėmė Timofėjaus vardą, buvo išrinktas Pskovo kunigaikščiu ir susigiminiavo su Riurikaičiais.'
   pagrindžia:
     - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-004
-  teiginys: 'Daumantas buvo Mindaugo svogeris ir Treniotos sąjungininkas prieš Mindaugą.'
-  pagrindžia:
-    - c-004
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-005
-  teiginys: 'Per krikštą Timofėjaus vardą priėmęs Daumantas buvo išrinktas Pskovo kunigaikščiu ir susigiminiavo su Riurikaičiais.'
-  pagrindžia:
-    - c-005
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-006
+- t-010
   teiginys: '1266 m. Daumantas su pskoviečiais puolė Nalšėnus.'
   pagrindžia:
-    - c-006
+    - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kariuomenei vadovavo Nalšėnų kunigaikštis Daumantas.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kariuomenei vadovavo Nalšėnų kunigaikštis Daumantas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'karo vadu dažniausiai skirdavo Gardino srities kunigaikštį Dovydą (spėjama, kad jis buvęs Mindaugo nužudyme dalyvavusio, o vėliau Pskovą valdžiusio, Daumanto sūnus).'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Gediminas nebuvo toks karingas, kaip Vytenis.
-    Jis pats labai retai vadovavo kariuomenei: kai tekdavo kariauti,
-    karo vadu dažniausiai skirdavo Gardino srities kunigaikštį
-    Dovydą (spėjama, kad jis buvęs Mindaugo nužudyme dalyvavu-
-    sio, o vėliau Pskovą valdžiusio, Daumanto sūnus).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: Daumantas minimas kaip Nalšėnų kunigaikštis, nesėkmingai mėginęs pašalinti Mindaugą
+  santrauka: 'Daumantas, Nalšėnų kunigaikštis, mėgino pašalinti Mindaugą, bet neįstengė.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Esą Nalšėnų kunigaikštis Daumantas tykojęs
@@ -95,11 +59,10 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
-  priskyrimo_pagrindas: explicit_name
   pagrindžia:
-    - t-003
-- c-004
-  santrauka: Daumantas pristatomas kaip Mindaugo svogeris ir Treniotos sąjungininkas
+    - t-007
+- c-002
+  santrauka: 'Daumantas buvo Mindaugo svogeris ir Treniotos sąjungininkas prieš Mindaugą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Neminėdama vardo, Eiliuotinė Livonijos kronika apie Mindaugo
@@ -112,11 +75,10 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
-  priskyrimo_pagrindas: explicit_name
   pagrindžia:
-    - t-004
-- c-005
-  santrauka: Daumantas po krikšto Pskove iškilo į kunigaikščius ir susigiminiavo su Riurikaičiais
+    - t-008
+- c-003
+  santrauka: 'Daumantas per krikštą priėmė Timofėjaus vardą, buvo išrinktas Pskovo kunigaikščiu ir susigiminiavo su Riurikaičiais.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Per krikštą priėmęs Timofėjaus vardą, Daumantas, kaip veiklus
@@ -139,11 +101,10 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
-  priskyrimo_pagrindas: explicit_name
   pagrindžia:
-    - t-005
-- c-006
-  santrauka: Iš Pskovo Daumantas 1266 m. surengė žygį prieš Nalšėnus
+    - t-009
+- c-004
+  santrauka: '1266 m. Daumantas su pskoviečiais puolė Nalšėnus.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Įsikūręs naujoje žemėje, jau 1266 m. su pskoviečiais Daumantas
@@ -153,6 +114,5 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
-  priskyrimo_pagrindas: explicit_name
   pagrindžia:
-    - t-006
+    - t-010

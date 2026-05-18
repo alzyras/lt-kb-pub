@@ -32,7 +32,7 @@ Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsij
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: '1812 m. birželį Napoleonas pradėjo karą su Rusija ir greitai didžioji dalis buvusių LDK žemių atsidūrė jo valdžioje.'
+  teiginys: '1812 m. birželį Napoleonas Bonapartas pradėjo karą su Rusija, po kurio didžioji dalis buvusių LDK žemių greitai atsidūrė jo valdžioje.'
   pagrindžia:
     - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -67,7 +67,7 @@ Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsij
   pagrindžia:
     - t-002
 - c-003
-  santrauka: '1812 m. birželį Napoleonas pradėjo karą su Rusija ir greitai didžioji dalis buvusių LDK žemių atsidūrė jo valdžioje.'
+  santrauka: '1812 m. birželį Napoleonas Bonapartas pradėjo karą su Rusija, po kurio didžioji dalis buvusių LDK žemių greitai atsidūrė jo valdžioje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1812 m. birželį Napoleonas pradėjo karą su Rusija ir greitai didžioji

@@ -29,7 +29,7 @@ tags:
 Indijonai šioje vietoje minimi religinių vardų palyginimo argumente.
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Indijonai šioje vietoje minimi religinių vardų palyginimo argumente.'
   pagrindžia:
     - c-001
@@ -38,7 +38,7 @@ Indijonai šioje vietoje minimi religinių vardų palyginimo argumente.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Indijonai šioje vietoje minimi religinių vardų palyginimo argumente.
+  santrauka: 'Indijonai šioje vietoje minimi religinių vardų palyginimo argumente.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Taip pat indijonų tauta, visų
@@ -50,4 +50,4 @@ Indijonai šioje vietoje minimi religinių vardų palyginimo argumente.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

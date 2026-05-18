@@ -42,7 +42,7 @@ Nenurodyta
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Nors tas mokyklėles persekiojo policija, įkliuvusius jų mokytojus valdžia kartais ištremdavo keleriems metams į Rusijos gilumą, tai nieko neatbaidė – buvo poreikis, susiformavo tradicija.'
+  teiginys: 'Policijos persekiojamos daraktorinės mokyklėlės neišnyko, nes jų poreikis virto tradicija.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -68,7 +68,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Nors tas mokyklėles persekiojo policija, įkliuvusius jų mokytojus valdžia kartais ištremdavo keleriems metams į Rusijos gilumą, tai nieko neatbaidė – buvo poreikis, susiformavo tradicija.'
+  santrauka: 'Policijos persekiojamos daraktorinės mokyklėlės neišnyko, nes jų poreikis virto tradicija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nors tas mokyklėles persekiojo policija, įkliuvusius jų mokytojus valdžia

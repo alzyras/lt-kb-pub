@@ -21,30 +21,15 @@ Jo parama buvo tik Pacų vadovaujamoji Lietuva ir Lenkijos bajorų partija. Pran
 
 ## Teiginiai
 - t-001
-  teiginys: 'Jo parama buvo tik Pacų vadovaujamoji Lietuva ir Lenkijos bajorų partija.'
+  teiginys: 'Bajorų partija patraukė į seimo teismą kelis prancūziškosios partijos žmones, kaltindama juos išdavimu, ir pasmerkė ištremti.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Prancūziškoji partija pagaliau apie karaliaus pašalinimą jau nebegalvojo, nes mirė jos kandidatas (1672 m.); ji dabar tik galvojo, kaip sunaikinti bajorų partiją, kuri keletą prancūziškosios partijos žmonių, kaltindama išdavimu, buvo patraukusi į seimo teismą.'
-  pagrindžia:
-    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Jo parama buvo tik Pacų vadovaujamoji Lietuva ir Lenkijos bajorų partija.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Jo parama buvo tik Pacų vadovaujamoji Lietuva ir Lenkijos bajorų par-
-    tija.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Prancūziškoji partija pagaliau apie karaliaus pašalinimą jau nebegalvojo, nes mirė jos kandidatas (1672 m.); ji dabar tik galvojo, kaip sunaikinti bajorų partiją, kuri keletą prancūziškosios partijos žmonių, kaltindama išdavimu, buvo patraukusi į seimo teismą.'
+  santrauka: 'Bajorų partija patraukė į seimo teismą kelis prancūziškosios partijos žmones, kaltindama juos išdavimu, ir pasmerkė ištremti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Prancūziškoji partija pa-
@@ -53,13 +38,13 @@ Jo parama buvo tik Pacų vadovaujamoji Lietuva ir Lenkijos bajorų partija. Pran
     jorų partiją, kuri keletą prancūziškosios partijos žmonių, kaltin-
     dama išdavimu, buvo patraukusi į seimo teismą ir pasmerkusi
     ištremti.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Susiję objektai

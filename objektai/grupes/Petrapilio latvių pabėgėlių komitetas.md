@@ -19,23 +19,25 @@ Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri k
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri kartu su Petrapilio latvių pabėgėlių komitetu ėmė rūpintis sukurti nepriklausomą Latviją.'
+  teiginys: 'Petrapilio latvių pabėgėlių komitetas kartu su Tautos Taryba rūpinosi nepriklausomos Latvijos sukūrimu.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri kartu su Petrapilio latvių pabėgėlių komitetu ėmė rūpintis sukurti nepriklausomą Latviją.'
+  santrauka: 'Petrapilio latvių pabėgėlių komitetas kartu su Tautos Taryba rūpinosi nepriklausomos Latvijos sukūrimu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo tarpu vokiečių neužimtoje Latvijos dalyje su-
     sidarė Tautos Taryba, kuri kartu su Petrapilio latvių pabėgėlių
     komitetu ėmė rūpintis sukurti nepriklausomą Latviją.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

@@ -36,13 +36,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Didikai beveik visi buvo kalvinai, o miestuose buvo įsigalėję liuterionys; tik didelė dalis smulkbajorių tuomet tebuvo katalikai, (liaudies nusistatymo niekas tada nepaisė: kokį kunigą savo bažnyčioj pastatydavo ponas, tokio tikėjimo turėdavo būti ir.'
+  teiginys: 'Baudžiauninkai turėdavo priklausyti tam tikėjimui, kurio kunigą ponas paskirdavo savo bažnyčioje.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Didikai beveik visi buvo kalvinai, o miestuose buvo įsigalėję liuterionys; tik didelė dalis smulkbajorių tuomet tebuvo katalikai, (liaudies nusistatymo niekas tada nepaisė: kokį kunigą savo bažnyčioj pastatydavo ponas, tokio tikėjimo turėdavo būti ir.'
+  santrauka: 'Baudžiauninkai turėdavo priklausyti tam tikėjimui, kurio kunigą ponas paskirdavo savo bažnyčioje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo metu protestantizmas Lietuvoje buvo labai įsigalėjęs.
@@ -51,11 +53,11 @@ Nenurodyta
     (liaudies nusistatymo niekas tada nepaisė: kokį kunigą savo
     bažnyčioj pastatydavo ponas, tokio tikėjimo turėdavo būti ir bau-
     džiauninkai).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

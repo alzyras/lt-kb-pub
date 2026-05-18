@@ -19,17 +19,15 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko jam įvykdyti: po pusės metų (1453 m.) Konstantinopolį užėmė turkai, imperija žlugo, o su ja žlugo ir unija.'
+  teiginys: '1452 m. Konstantinopolyje buvo paskelbtas susitarimas dėl unijos, bet 1453 m. miestą užėmė turkai.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Konstantinopolis, nes Maskvoje sėdįs imperijos įpėdinis.'
-  pagrindžia:
-    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko jam įvykdyti: po pusės metų (1453 m.) Konstantinopolį užėmė turkai, imperija žlugo, o su ja žlugo ir unija.'
+  santrauka: '1452 m. Konstantinopolyje buvo paskelbtas susitarimas dėl unijos, bet 1453 m. miestą užėmė turkai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tačiau galutinai dėl unijos buvo susitarta kiek vė-
@@ -37,25 +35,13 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
     poly 1452 m., tik jau nebebuvo laiko jam įvykdyti: po pusės
     metų (1453 m.) Konstantinopolį užėmė turkai, imperija žlugo, o
     su ja žlugo ir unija.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Konstantinopolis, nes Maskvoje sėdįs imperijos įpėdinis.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Konstantinopolis, nes Maskvoje sėdįs imperijos įpėdinis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai

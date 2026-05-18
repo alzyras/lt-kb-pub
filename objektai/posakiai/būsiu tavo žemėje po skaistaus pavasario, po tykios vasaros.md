@@ -37,7 +37,7 @@ Formulė perteikia Maskvos didžiojo kunigaikščio grasinimą Algirdui, perduot
 - po skaistaus pavasario, po tykios vasaros
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Ši frazė yra Maskvos didžiojo kunigaikščio grasinimo formulė Algirdui.'
   pagrindžia:
     - c-001
@@ -46,7 +46,7 @@ Formulė perteikia Maskvos didžiojo kunigaikščio grasinimą Algirdui, perduot
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Frazė aiškinama kaip per pasiuntinį perduotas Maskvos valdovo grasinimas.
+  santrauka: 'Ši frazė yra Maskvos didžiojo kunigaikščio grasinimo formulė Algirdui.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     „Lietuvos metraštis“ (Bychovco kronika) (rašytas xvI a. pirmojoje pusėje) pasakoja,
@@ -59,4 +59,4 @@ Formulė perteikia Maskvos didžiojo kunigaikščio grasinimą Algirdui, perduot
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

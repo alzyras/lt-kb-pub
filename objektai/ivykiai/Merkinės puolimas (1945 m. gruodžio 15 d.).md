@@ -53,25 +53,25 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: '1945 m. gruodžio 5 d. prie Mardasavo žuvo Marcinkonių bataliono vadas ir dar trys kovos draugai.'
+- t-005
+  teiginys: '1945 m. gruodžio 5 d. prie Mardasavo žuvo Marcinkonių bataliono vadas Lionginas Švalkus-Šernas ir trys jo kovos draugai.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-002
+- t-006
   teiginys: 'Adolfas Ramanauskas-Vanagas, pasitaręs su Juozu Vitkumi-Kazimieraičiu, nutarė pulti Merkinę keršijant už kovos draugų žūtį.'
   pagrindžia:
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-003
+- t-007
   teiginys: '1945 m. gruodžio 15 d. 11 val. A. Ramanauskas-Vanagas iššovė baltą raketą ir paskelbė atakos pradžią.'
   pagrindžia:
     - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-004
+- t-008
   teiginys: 'Miestelyje partizanai užėmė svarbiausias NKVD ir civilines įstaigas.'
   pagrindžia:
     - c-004
@@ -80,9 +80,10 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 1945 m. gruodžio 5 d. prie Mardasavo žuvo Marcinkonių bataliono vadas ir dar trys kovos draugai.
+  santrauka: '1945 m. gruodžio 5 d. prie Mardasavo žuvo Marcinkonių bataliono vadas Lionginas Švalkus-Šernas ir trys jo kovos draugai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
+    Prieš mūšį
     1945 m. gruodžio 5 d. prie Mardasavo
 
     km., ant Merkio kranto netikėtai užklupti
@@ -90,15 +91,20 @@ Nenurodyta
     vadas Lionginas Švalkus-Šernas, Tomas
     Kondrotas-Briedis, Adolfas Bilinskas-
     Jurginas ir Martynas Navickas-Kardas.
-  citata_rodoma: ''
+    Ryšininkas Juozas Jakavonis rado Merkiu
+    ant ledo lyties plaukiančią žuvusių par-
+    tizanų maldaknygę ir perdavė ją Merkio
+    rinktinės vadui Adolfui Ramanauskui-
+    Vanagui.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-005
 - c-002
-  santrauka: Adolfas Ramanauskas-Vanagas, pasitaręs su Juozu Vitkumi-Kazimieraičiu, nutarė pulti Merkinę keršijant už kovos draugų žūtį.
+  santrauka: 'Adolfas Ramanauskas-Vanagas, pasitaręs su Juozu Vitkumi-Kazimieraičiu, nutarė pulti Merkinę keršijant už kovos draugų žūtį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Ryšininkas Juozas Jakavonis rado Merkiu
@@ -110,15 +116,15 @@ Nenurodyta
     nutarė sutelkti apylinkių partizanų da-
     linius ir pulti Merkinės miestelį, at-
     keršijant už kovos draugų žūtį.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-006
 - c-003
-  santrauka: 1945 m. gruodžio 15 d. 11 val. A. Ramanauskas-Vanagas iššovė baltą raketą ir paskelbė atakos pradžią.
+  santrauka: '1945 m. gruodžio 15 d. 11 val. A. Ramanauskas-Vanagas iššovė baltą raketą ir paskelbė atakos pradžią.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1945 metų gruodžio 15 dieną 11 val.
@@ -128,15 +134,15 @@ Nenurodyta
     raketą, taip paskelbdamas atakos pra-
 
     džią. Smarkiai sningant puolantieji judėjo
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-007
 - c-004
-  santrauka: Miestelyje partizanai užėmė svarbiausias NKVD ir civilines įstaigas.
+  santrauka: 'Miestelyje partizanai užėmė svarbiausias NKVD ir civilines įstaigas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     dviem kryptimis - nuo miestelio kapi-
@@ -144,14 +150,19 @@ Nenurodyta
     telio centro nebuvo sutikta rimtesnio
     pasipriešinimo. Partizanai užėmė NKVD
     būstinę, paštą, valsčiaus ir milicijos įs-
-    taigas.
-  citata_rodoma: ''
+    taigas. Paaiškėjo, kad Druskininkų ba-
+    taliono grupei nepavyko įvykdyti jiems
+    pavestos užduoties ir nutraukti ryšio
+    linijų tarp Merkinės ir Druskininkų,
+    todėl sovietai per Druskininkus susi-
+    siekė su Alytumi ir išsikvietė pagalbą.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-008
 
 ## Ryšiai
 ### Laikotarpiai

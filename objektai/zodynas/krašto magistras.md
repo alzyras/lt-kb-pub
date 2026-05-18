@@ -20,47 +20,25 @@ Todėl 1309 m. didysis magistras su visa taryba atsikėlė į Marijenburgą, ir 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Todėl 1309 m. didysis magistras su visa taryba atsikėlė į Marijenburgą, ir nuo to laiko vad. Prūsijos krašto magistrai išnyko, nes vadovybę perėmė patsai didysis magistras.'
+  teiginys: '1309 m. didžiajam magistrui su taryba persikėlus į Marijenburgą, Prūsijos krašto magistrai išnyko, nes vadovybę perėmė didysis magistras.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Į atskiras ordino žemes būdavo skiriami vadinamieji krašto magistrai (Landmeister).'
-  pagrindžia:
-    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Todėl 1309 m. didysis magistras su visa taryba atsikėlė į Marijenburgą, ir nuo to laiko vad. Prūsijos krašto magistrai išnyko, nes vadovybę perėmė patsai didysis magistras.'
+  santrauka: '1309 m. didžiajam magistrui su taryba persikėlus į Marijenburgą, Prūsijos krašto magistrai išnyko, nes vadovybę perėmė didysis magistras.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Todėl 1309 m. didysis ma-
     gistras su visa taryba atsikėlė į Marijenburgą, ir nuo to laiko vad.
     Prūsijos krašto magistrai išnyko, nes vadovybę perėmė patsai
     didysis magistras.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Į atskiras ordino žemes būdavo skiriami vadinamieji krašto magistrai (Landmeister).'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Į atskiras ordino žemes būdavo skiriami vadinamieji
-    krašto magistrai _(Landmeister)._ Vienas toksai krašto magistras bu-
-    vo paliktas Mažojoj Azijoj, o kitas buvo Vokietijoj, kur buvo
-    daugybė išblaškytų ordino dvarų. Toks pats krašto magistras bu-
-    vo paskirtas ir Pabaltijui. Jis buvo vadinamas Prūsijos magistru.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/didysis magistras]]

@@ -41,7 +41,7 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Karo grobis visada buvo dalijamas į keturias dalis, kurių kiekviena turėjo aiškų gavėją.'
   pagrindžia:
     - c-001
@@ -50,15 +50,17 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Karo grobis visada buvo dalijamas į keturias dalis, kurių kiekviena turėjo aiškų gavėją.
+  santrauka: 'Karo grobis visada buvo dalijamas į keturias dalis, kurių kiekviena turėjo aiškų gavėją.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Sugrietąjį nuo neprietelių grobį karėj visados į keturias dalis dalijo. Visų gerąją atdavė savo
     dievams. Antroji teko kūrėjų kūrėjui ar kunigaikščiui ir jo tarnams arba kunigams. Trečiąją gavo
     kareiviai, kurie buvo neprietelius pergalėję. Ketvirtoji būk tekusi gentims tų, kurie karėj buvo kritę ir
     per kurių narsybę ir kantrybę neprieteliai buvo pergalėti ir liuosybė nuo vergybos paglemžta^1349.
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

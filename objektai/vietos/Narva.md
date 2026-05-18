@@ -18,22 +18,24 @@ Staiga vienu puolimu jis suvaldė Daniją, o padaręs čia taiką, ties Narva (E
 
 ## Teiginiai
 - t-001
-  teiginys: 'Staiga vienu puolimu jis suvaldė Daniją, o padaręs čia taiką, ties Narva (Estijoje) visiškai sunaikino caro kariuomenę.'
+  teiginys: 'Ties Narva Estijoje buvo visiškai sunaikinta caro kariuomenė.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Staiga vienu puolimu jis suvaldė Daniją, o padaręs čia taiką, ties Narva (Estijoje) visiškai sunaikino caro kariuomenę.'
+  santrauka: 'Ties Narva Estijoje buvo visiškai sunaikinta caro kariuomenė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Staiga vienu puolimu jis su-
     valdė Daniją, o padaręs čia taiką, ties Narva (Estijoje) visiškai
     sunaikino caro kariuomenę.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

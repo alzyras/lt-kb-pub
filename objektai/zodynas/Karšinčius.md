@@ -21,13 +21,13 @@ Pagrindinė forma: `karšinčius`.
 Vartojamos formos: `karšinčium`, `karšinčių`.
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: '`Karšinčius` šiame tekste reiškia paveldėtoją, stojantį į sūnaus vietą.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Karšinčius prisiima ir tėvų globos bei išlaikymo pareigą.'
   pagrindžia:
     - c-001
@@ -37,7 +37,7 @@ Vartojamos formos: `karšinčium`, `karšinčių`.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Karšinčius` šiame tekste reiškia paveldėtoją, stojantį į sūnaus vietą
+  santrauka: '`Karšinčius` šiame tekste reiškia paveldėtoją, stojantį į sūnaus vietą.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Nes jei vyresnieji sūnai buvo išrėdyti^1118 iš namų
@@ -50,10 +50,10 @@ Vartojamos formos: `karšinčium`, `karšinčių`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
 - c-002
-  santrauka: Karšinčius prisiima ir tėvų globos bei išlaikymo pareigą
+  santrauka: 'Karšinčius prisiima ir tėvų globos bei išlaikymo pareigą.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Jei tėvai bevaikiai buvo, tad priėmė sau
@@ -66,7 +66,7 @@ Vartojamos formos: `karšinčium`, `karšinčių`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004
 
 ## Pastabos
 

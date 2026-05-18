@@ -45,19 +45,19 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: '1324 m. gegužės gale Vilniuje vyko popiežiaus legatų pokalbiai su Gediminu dėl Lietuvos krikšto.'
+- t-004
+  teiginys: '1324 m. gegužės gale popiežiaus delegato pasiuntiniai parengė pranešimą apie pokalbius Vilniuje.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Legatų pranešime teigiama, kad Prūsijos kryžiuočiai papirkinėjo Žemaičių galinguosius ir kurstė grasinimus Gediminui dėl galimo krikšto.'
+- t-005
+  teiginys: 'Prūsijos kryžiuočiai davė dovanų Žemaičių galingiesiems, kad šie sukiltų prieš Gediminą, jei jis priimtų tikėjimą.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-003
+- t-006
   teiginys: 'Išvykdami iš Livonijos popiežiaus legatai įsakė ketverius metus su Gediminu nekariauti, nes tikėjosi jo krikšto.'
   pagrindžia:
     - c-002
@@ -66,7 +66,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1324 m. gegužės gale Vilniuje vyko popiežiaus legatų pokalbiai su Gediminu dėl Lietuvos krikšto.'
+  santrauka: '1324 m. gegužės gale popiežiaus delegato pasiuntiniai parengė pranešimą apie pokalbius Vilniuje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Popiežiaus delegato pasiuntiniai savo
@@ -79,28 +79,28 @@ Nenurodyta
     lystės ir iš savo pašaknų visus išrausią. Tų grasinimų žodžiai daug
     kartų tais metais buvo sakomi karaliui tiesiog į akis. Panašius
     grasinimus kalbėjo prieš jį ir rusai »^13.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-004
+    - t-005
 - c-002
-  santrauka: '1324 m. gegužės gale Vilniuje vyko popiežiaus legatų pokalbiai su Gediminu dėl Lietuvos krikšto.'
+  santrauka: 'Išvykdami iš Livonijos popiežiaus legatai įsakė ketverius metus su Gediminu nekariauti, nes tikėjosi jo krikšto.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Išvykdami iš Livonijos, popiežiaus legatai įsakė
     su Gediminu nekariauti ketverius metus, nes buvo turima vilčių,
     kad per tą laiką Gediminas galįs pasikrikštyti.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-006
 
 ## Ryšiai
 ### Laikotarpiai

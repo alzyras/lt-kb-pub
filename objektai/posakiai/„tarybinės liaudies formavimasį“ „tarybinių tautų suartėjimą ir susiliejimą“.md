@@ -19,7 +19,7 @@ Prasidėjo oficialios kalbos apie „tarybinės liaudies formavimasį“, „vie
 
 ## Teiginiai
 - t-001
-  teiginys: 'Sovietinėje Lietuvoje laikraščiai pradėti dubliuoti rusų kalba, leista daug rusų literatūros, vaidinta pjesių ir taikyta dvikalbystė.'
+  teiginys: 'Lietuvoje laikraščiai pradėti dubliuoti rusų kalba, leista daug rusų literatūros, vaidintos pjesės ir taikyta dvikalbystė.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -27,7 +27,7 @@ Prasidėjo oficialios kalbos apie „tarybinės liaudies formavimasį“, „vie
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Sovietinėje Lietuvoje laikraščiai pradėti dubliuoti rusų kalba, leista daug rusų literatūros, vaidinta pjesių ir taikyta dvikalbystė.'
+  santrauka: 'Lietuvoje laikraščiai pradėti dubliuoti rusų kalba, leista daug rusų literatūros, vaidintos pjesės ir taikyta dvikalbystė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvoje visi laikraščiai imti dubliuoti ir rusų kalba, leista daug rusų

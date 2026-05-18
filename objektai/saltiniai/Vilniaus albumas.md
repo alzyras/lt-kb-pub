@@ -34,7 +34,7 @@ Vilniaus universiteto Didysis kiemas ir Šv. Vilniaus katedra iš J. Prancūzų 
 
 ## Teiginiai
 - t-001
-  teiginys: 'J. K. Vilčinskio „Vilniaus albume“ 1848 m. publikuotas P. Benoist sukurtas Vilniaus Verkių rūmų interjero vaizdas.'
+  teiginys: 'J. K. Vilčinskio „Vilniaus albume“ 1848 m. pateiktas P. Benoist sukurtas Vilniaus Verkių rūmų interjero vaizdas.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -44,7 +44,7 @@ Vilniaus universiteto Didysis kiemas ir Šv. Vilniaus katedra iš J. Prancūzų 
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'J. K. Vilčinskio „Vilniaus albume“ 1848 m. publikuotas P. Benoist sukurtas Vilniaus Verkių rūmų interjero vaizdas.'
+  santrauka: 'J. K. Vilčinskio „Vilniaus albume“ 1848 m. pateiktas P. Benoist sukurtas Vilniaus Verkių rūmų interjero vaizdas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nors Lietuvos „raudonieji“ buvo už lygiateisį federacinį ryšį su Lenkija,

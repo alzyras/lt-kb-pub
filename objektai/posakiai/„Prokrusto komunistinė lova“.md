@@ -18,7 +18,7 @@ Pasirodė istorinių romanų, dramų, filmų, augo nauja menininkų karta, nepal
 
 ## Teiginiai
 - t-001
-  teiginys: '„Prokrusto komunistinė lova“ reiškė sovietmečio pastangas visiškai parklupdyti Lietuvos kultūrą.'
+  teiginys: 'Sovietmečiu nepavyko visiškai parklupdyti Lietuvos kultūros ir sugrūsti jos į „Prokrusto komunistinę lovą“.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -26,7 +26,7 @@ Pasirodė istorinių romanų, dramų, filmų, augo nauja menininkų karta, nepal
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '„Prokrusto komunistinė lova“ reiškė sovietmečio pastangas visiškai parklupdyti Lietuvos kultūrą.'
+  santrauka: 'Sovietmečiu nepavyko visiškai parklupdyti Lietuvos kultūros ir sugrūsti jos į „Prokrusto komunistinę lovą“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pasirodė istorinių romanų, dramų, filmų, augo

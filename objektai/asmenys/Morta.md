@@ -20,7 +20,7 @@ Per jį 1251 m. pavasarį (ar vasaros pradžioje) Mindaugas išsirūpino sau ir 
 
 ## Teiginiai
 - t-001
-  teiginys: '1251 m. pavasarį ar vasaros pradžioje Mindaugas išsirūpino krikštą sau ir žmonai Mortai.'
+  teiginys: '1251 m. pavasarį arba vasaros pradžioje Morta kartu su Mindaugu gavo krikštą.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -28,7 +28,7 @@ Per jį 1251 m. pavasarį (ar vasaros pradžioje) Mindaugas išsirūpino sau ir 
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1251 m. pavasarį ar vasaros pradžioje Mindaugas išsirūpino krikštą sau ir žmonai Mortai.'
+  santrauka: '1251 m. pavasarį arba vasaros pradžioje Morta kartu su Mindaugu gavo krikštą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Per jį 1251 m. pavasarį (ar

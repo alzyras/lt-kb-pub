@@ -24,10 +24,14 @@ Kitatikius varžančių įstatymų atsirado tik XVII amž. pabaigoje ir XVIII am
   teiginys: 'Kitatikius varžančių įstatymų atsirado tik XVII amž. pabaigoje ir XVIII amžiuje.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Be katalikų, švietimu dar rūpinosi ir kitatikiai.'
+  teiginys: 'Kitatikiai rūpinosi švietimu, daugiausia tikybos reikalais, o jų mokyklos buvo pritaikytos bažnytiniams reikalams.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -42,15 +46,15 @@ Kitatikius varžančių įstatymų atsirado tik XVII amž. pabaigoje ir XVIII am
     baigoje ir XVIII amžiuje. Kai kurios sektos (pavyzdžiui, ari-
     jonys) buvo išvarytos iš krašto. Pagaliau buvo išleistas įstaty-
     mas, kuriuo į senatą ir į seimą galėjo patekti tiktai katalikai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Be katalikų, švietimu dar rūpinosi ir kitatikiai.'
+  santrauka: 'Kitatikiai rūpinosi švietimu, daugiausia tikybos reikalais, o jų mokyklos buvo pritaikytos bažnytiniams reikalams.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Be katalikų, švietimu dar rūpinosi ir kitatikiai. Jie dau-
@@ -65,10 +69,10 @@ Kitatikius varžančių įstatymų atsirado tik XVII amž. pabaigoje ir XVIII am
     bysy), nors ten nei pravoslavų nei unitų nebuvo iš viso. Visur
     prie jų vienuolynų buvo bent pradžios mokyklų, o kai kur net
     ir aukštesniųjų.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

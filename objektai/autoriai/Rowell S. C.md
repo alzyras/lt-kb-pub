@@ -18,7 +18,7 @@ Rowell S.
 
 ## Teiginiai
 - t-001
-  teiginys: 'S. C. Rowellas siejamas su veikalu „Lithuania ascending“ apie pagonišką imperiją Rytų ir Vidurio Europoje 1295–1345 m.'
+  teiginys: 'S. C. Rowellas parašė veikalą „Lithuania ascending“ apie pagonišką imperiją Rytų ir Vidurio Europoje 1295–1345 m.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -26,7 +26,7 @@ Rowell S.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'S. C. Rowellas siejamas su veikalu „Lithuania ascending“ apie pagonišką imperiją Rytų ir Vidurio Europoje 1295–1345 m.'
+  santrauka: 'S. C. Rowellas parašė veikalą „Lithuania ascending“ apie pagonišką imperiją Rytų ir Vidurio Europoje 1295–1345 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Rowell S. C. Lithuania ascending: a pagan empire within east-central Europe,

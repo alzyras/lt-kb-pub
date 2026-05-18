@@ -32,14 +32,14 @@ tags:
 - Pagrindinė forma: Dabar tai jie gaus
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: 'Ši frazė buvo kartojama kareivių prieš puolimą.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Frazė siejama su noru atkeršyti už ankstesnę dieną.'
+- t-004
+  teiginys: '„Dabar tai jie gaus“ buvo siejama su kareivių noru kuo greičiau atkeršyti už ankstesnę dieną.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -47,7 +47,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Pasakymas kartojamas kylant kareivių ūpui ir ruošiantis puolimui.
+  santrauka: 'Ši frazė buvo kartojama kareivių prieš puolimą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tada pro rinktinę pravažiavo keturios vokiečių
@@ -59,5 +59,5 @@ tags:
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004

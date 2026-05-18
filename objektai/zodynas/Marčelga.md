@@ -18,7 +18,7 @@ Pagrindinė forma: `marčelga`.
 Papildomos aiškios formos neišskirtos.
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: '`Marčelga` šiame tekste yra vestuvių apeigų pareigybė, susijusi su jaunosios rengimu.'
   pagrindžia:
     - c-001
@@ -27,7 +27,7 @@ Papildomos aiškios formos neišskirtos.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Marčelga` šiame tekste yra vestuvių apeigų pareigybė, susijusi su jaunosios rengimu
+  santrauka: '`Marčelga` šiame tekste yra vestuvių apeigų pareigybė, susijusi su jaunosios rengimu.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Pasitiekus po kelių nedėlių^440 , kaip buvo sutarta, jaunasis sukvietęs savo gentis, susiedus ir
@@ -39,7 +39,7 @@ Papildomos aiškios formos neišskirtos.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Pastabos
 

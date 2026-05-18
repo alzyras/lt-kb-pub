@@ -45,13 +45,13 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: 'Trimitai buvo ilgi, iš trijų skilų sudėti mediniai pučiamieji instrumentai, naudoti kovai, aukoms ir laidotuvėms.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Trimitų balsas buvo lyginamas su variniais karo trūbais, o patys instrumentai dar minimi 1180 gudų raštuose.'
   pagrindžia:
     - c-002
@@ -60,7 +60,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Trimitai buvo ilgi, iš trijų skilų sudėti mediniai pučiamieji instrumentai, naudoti kovai, aukoms ir laidotuvėms.
+  santrauka: 'Trimitai buvo ilgi, iš trijų skilų sudėti mediniai pučiamieji instrumentai, naudoti kovai, aukoms ir laidotuvėms.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Įrankiais jų linksmybės buvo ilgi, iš trijų skilų sudėti apvalūs medžio trūbai^551 , nuokamieni^552 ir
@@ -74,9 +74,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: Trimitų balsas buvo lyginamas su variniais karo trūbais, o patys instrumentai dar minimi 1180 gudų raštuose.
+  santrauka: 'Trimitų balsas buvo lyginamas su variniais karo trūbais, o patys instrumentai dar minimi 1180 gudų raštuose.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Tų trimitų balsas yra graudžiai malonus, daugiau rūstas,
@@ -89,7 +89,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004
 
 ## Pastabos
 

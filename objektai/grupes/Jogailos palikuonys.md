@@ -21,13 +21,16 @@ Nors lietuviai jau nuo Švitrigailos laikų rinkosi sau kunigaikščius, tačiau
 
 ## Teiginiai
 - t-001
-  teiginys: 'Nors lietuviai jau nuo Švitrigailos laikų rinkosi sau kunigaikščius, tačiau Jogailos palikuonys manė, kad bent Lietuva jiems turinti tekti paveldėtinai; o tuo susitarimu buvo norima įvesti elekciją, taigi visai nebuvo atsižvelgiama į jų teises.'
+  teiginys: 'Jogailos palikuonys manė, kad bent Lietuva jiems turinti tekti paveldėtinai.'
   pagrindžia:
-    - c-003
+    - c-002
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Nors lietuviai jau nuo Švitrigailos laikų rinkosi sau kunigaikščius, tačiau Jogailos palikuonys manė, kad bent Lietuva jiems turinti tekti paveldėtinai; o tuo susitarimu buvo norima įvesti elekciją, taigi visai nebuvo atsižvelgiama į jų teises.'
+  santrauka: 'Jogailos palikuonys manė, kad bent Lietuva jiems turinti tekti paveldėtinai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Nors lietuviai jau nuo Švitrigailos laikų rinkosi
@@ -35,15 +38,15 @@ Nors lietuviai jau nuo Švitrigailos laikų rinkosi sau kunigaikščius, tačiau
     Lietuva jiems turinti tekti paveldėtinai; o tuo susitarimu buvo
     norima įvesti elekciją, taigi visai nebuvo atsižvelgiama į jų tei-
     ses.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-003
-  santrauka: Jogailos palikuonys papildomas patvirtintas šaltinio paminėjimas.
+- c-002
+  santrauka: 'Jogailos palikuonys manė, kad bent Lietuva jiems turinti tekti paveldėtinai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tiesa, nuo Kazimiero laikų
@@ -54,11 +57,7 @@ Nors lietuviai jau nuo Švitrigailos laikų rinkosi sau kunigaikščius, tačiau
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]

@@ -43,21 +43,15 @@ Augustas Ludvikas Schlözeris minimas kaip vokiečių istorikas, 1785 m. paskelb
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Augustas Ludvikas Schlözeris pripažino, kad jo veikalas nėra originalus, o perdirbtas ir sutrumpintas Kojalavičius.'
+  teiginys: 'Augustas Ludvikas Schlözeris pripažino, kad jo veikalas nebuvo originalus, o perdirbtas ir sutrumpintas Kojalavičiaus tekstas.'
   pagrindžia:
     - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: 'Geschichte von Litauen als einem eigenen Grossfürstentume šiame šaltinyje pateikiamas pilnu bibliografiniu pavadinimu.'
-  pagrindžia:
-    - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Schlözeris pristatomas kaip 1785 m. Lietuvos istorijos veikalo autorius
+  santrauka: 'Augustas Ludvikas Schlözeris 1785 m. išleido Didžiosios Lietuvos Kunigaikštystės istoriją iki 1569 metų.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Dar toliau kritiškumo keliu žengė vokiečių istorikas Augustas
@@ -71,7 +65,7 @@ Augustas Ludvikas Schlözeris minimas kaip vokiečių istorikas, 1785 m. paskelb
   pagrindžia:
     - t-001
 - c-002
-  santrauka: Autorius pats įvardijamas kaip Kojalavičiaus teksto perdirbėjas
+  santrauka: 'Augustas Ludvikas Schlözeris pripažino, kad jo veikalas nebuvo originalus, o perdirbtas ir sutrumpintas Kojalavičiaus tekstas.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Autorius nuoširdžiai prisi­
@@ -83,22 +77,6 @@ Augustas Ludvikas Schlözeris minimas kaip vokiečių istorikas, 1785 m. paskelb
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: Išnašoje pateiktas pilnas Schlözerio veikalo bibliografinis pavadinimas
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    (^32) **_Geschichte von Litauen als einem eigenen Grossfürstentume,_** **serijoje :**
-    **_Aug. Ludw. Scllözer und Ludw. Albr. Gebhard_** **, Fortsetzung der Allgemeinen
-    Welthistorie, Teil 50. Žr. J. Matusas :** **_Schlözer A. L_** **., LE, t. 27, 91-92 p.**
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003
-    - t-002
     - t-002
 
 ## Ryšiai

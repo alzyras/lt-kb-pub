@@ -19,7 +19,7 @@ Objektų skaičius: 4.
 ## Susiję objektai
 
 ### Asmenys
-- [[objektai/asmenys/Valerijonas Protasevičius]]
+- [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
 
 ### Autoriai
 - [[objektai/autoriai/Andrius Rudamina]]

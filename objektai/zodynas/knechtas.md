@@ -21,23 +21,25 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Šie gyveno ordino, vyskupų arba riterių bajorų dvaruose, kaip laisvi ūkininkai, ir turėjo tik mokėti tam tikrus mokesčius, padėti statyti pilis ir eiti į karą, kaip riterių tarnai (knechtai).'
+  teiginys: 'Knechtai buvo riterių tarnai, gyvenę dvaruose kaip laisvi ūkininkai, mokėję mokesčius, padėję statyti pilis ir ėję į karą.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Šie gyveno ordino, vyskupų arba riterių bajorų dvaruose, kaip laisvi ūkininkai, ir turėjo tik mokėti tam tikrus mokesčius, padėti statyti pilis ir eiti į karą, kaip riterių tarnai (knechtai).'
+  santrauka: 'Knechtai buvo riterių tarnai, gyvenę dvaruose kaip laisvi ūkininkai, mokėję mokesčius, padėję statyti pilis ir ėję į karą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Šie gyveno ordino, vyskupų arba riterių bajorų dva-
     ruose, kaip laisvi ūkininkai, ir turėjo tik mokėti tam tikrus mo-
     kesčius, padėti statyti pilis ir eiti į karą, kaip riterių tarnai _(knech-
     tai)._
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

@@ -31,22 +31,24 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kiek anksčiau (birželio 30 d.) buvo Maskvoj pasirašyta ir sutartis tremtiniams grąžinti į Lietuvą.'
+  teiginys: 'Birželio 30 d. Maskvoje buvo pasirašyta sutartis tremtiniams grąžinti į Lietuvą.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kiek anksčiau (birželio 30 d.) buvo Maskvoj pasirašyta ir sutartis tremtiniams grąžinti į Lietuvą.'
+  santrauka: 'Birželio 30 d. Maskvoje buvo pasirašyta sutartis tremtiniams grąžinti į Lietuvą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kiek anksčiau (birželio 30 d.) buvo Mask-
     voj pasirašyta ir sutartis tremtiniams grąžinti į Lietuvą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

@@ -32,31 +32,35 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Visa tai ėjo Lietuvos ir Lenkijos teisių sulyginimo (coaequatio iurium) šūkiu, nes tuo buvo norima suvienodinti Lietuvos ir Lenkijos ministerių teises.'
+  teiginys: 'Coaequatio iurium šūkiu siekta suvienodinti Lietuvos ir Lenkijos ministerių teises.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Kancleriui nesipriešinant, vieni Sapiegos nepajėgė apginti ministerių teisių, ir coaequatio iurium įstatymas buvo priimtas elekciniame seime (1697 m.).'
+  teiginys: 'Coaequatio iurium įstatymas buvo priimtas 1697 m. elekciniame seime, Sapiegoms nepajėgus apginti ministerių teisių.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Visa tai ėjo Lietuvos ir Lenkijos teisių sulyginimo (coaequatio iurium) šūkiu, nes tuo buvo norima suvienodinti Lietuvos ir Lenkijos ministerių teises.'
+  santrauka: 'Coaequatio iurium šūkiu siekta suvienodinti Lietuvos ir Lenkijos ministerių teises.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Visa tai ėjo Lietuvos ir Lenkijos teisių suly-
     ginimo _(coaequatio iurium)_ šūkiu, nes tuo buvo norima su-
     vienodinti Lietuvos ir Lenkijos ministerių teises.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Kancleriui nesipriešinant, vieni Sapiegos nepajėgė apginti ministerių teisių, ir coaequatio iurium įstatymas buvo priimtas elekciniame seime (1697 m.).'
+  santrauka: 'Coaequatio iurium įstatymas buvo priimtas 1697 m. elekciniame seime, Sapiegoms nepajėgus apginti ministerių teisių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kancle-
@@ -64,11 +68,11 @@ Nenurodyta
     teisių, ir _coaequatio iurium_ įstatymas buvo priimtas elekci-
     niame seime (1697 m.). Tačiau Sapiegos, nenorėdami išsiža-
     dėti savo galybės, nė neketino laikytis šito įstatymo.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

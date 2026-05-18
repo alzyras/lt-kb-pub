@@ -41,37 +41,37 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-007
   teiginys: 'XVII a. antroji pusė ir visas XVIII a. buvo linijinės taktikos epocha karyboje.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Batalionai buvo rikiuojami taip, kad kuo daugiau kareivių galėtų vienu metu šaudyti.'
+- t-008
+  teiginys: 'Linijinei taktikai reikėjo gana lygios vietovės, nes miškingoje ar raižytoje vietovėje pėstininkams buvo sunku išlaikyti lygiavimą.'
   pagrindžia:
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-003
+- t-009
   teiginys: 'Linijinei taktikai reikėjo gana lygios vietovės.'
   pagrindžia:
     - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-004
+- t-010
   teiginys: 'Linijos artėdavo prie priešo, derindamos šaudymą su judėjimu į priekį.'
   pagrindžia:
     - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-005
+- t-011
   teiginys: 'Dažnai šaudydavo ne visa linija, o atskiri padaliniai paeiliui arba šachmatine tvarka.'
   pagrindžia:
     - c-005
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-006
+- t-012
   teiginys: 'Kariai paprastai šaudydavo nesitaikydami, o mažą taiklumą kompensuodavo salvių gausa.'
   pagrindžia:
     - c-005
@@ -80,7 +80,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: XVII a. antroji pusė ir visas XVIII a. buvo linijinės taktikos epocha karyboje.
+  santrauka: 'XVII a. antroji pusė ir visas XVIII a. buvo linijinės taktikos epocha karyboje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     XVII a. antroji pusė bei visas xviii a. tai linijinės taktikos epocha
@@ -93,9 +93,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-007
 - c-002
-  santrauka: Batalionai buvo rikiuojami taip, kad kuo daugiau kareivių galėtų vienu metu šaudyti.
+  santrauka: 'Linijinei taktikai reikėjo gana lygios vietovės, nes miškingoje ar raižytoje vietovėje pėstininkams buvo sunku išlaikyti lygiavimą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Linijinei taktikai netikdavo bet kokia vietovė, ji turėjo būti gan
@@ -110,9 +110,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-008
 - c-003
-  santrauka: Linijinei taktikai reikėjo gana lygios vietovės.
+  santrauka: 'Linijinei taktikai reikėjo gana lygios vietovės.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Puolimo metu ilgos linijos artėdavo prie priešo pozicijų. Suėjus į
@@ -132,9 +132,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-009
 - c-004
-  santrauka: Linijos artėdavo prie priešo, derindamos šaudymą su judėjimu į priekį.
+  santrauka: 'Linijos artėdavo prie priešo, derindamos šaudymą su judėjimu į priekį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Dažniausiai šaudydavo ne visa linija,
@@ -154,9 +154,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-010
 - c-005
-  santrauka: Dažnai šaudydavo ne visa linija, o atskiri padaliniai paeiliui arba šachmatine tvarka.
+  santrauka: 'Dažnai šaudydavo ne visa linija, o atskiri padaliniai paeiliui arba šachmatine tvarka.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kariai šaudydavo nesitaikydami, tiesiog nu-
@@ -172,5 +172,5 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
-    - t-006
+    - t-011
+    - t-012

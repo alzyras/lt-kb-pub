@@ -30,23 +30,25 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Geriausiai sekėsi Klaipėdos apygardoje.'
+  teiginys: '1898 m. Klaipėdos apygardoje į imperijos parlamentą buvo išrinktas pirmasis lietuvių atstovas Jonas Smalakys.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Geriausiai sekėsi Klaipėdos apygardoje.'
+  santrauka: '1898 m. Klaipėdos apygardoje į imperijos parlamentą buvo išrinktas pirmasis lietuvių atstovas Jonas Smalakys.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Geriausiai sekėsi Klaipėdos apygardoje. Čia 1898 m. buvo
     išrinktas pirmas atstovas į imperijos parlamentą — Tilžės pirk-
     lys Jonas Smalakys.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

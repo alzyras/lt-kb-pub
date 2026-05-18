@@ -36,24 +36,8 @@ Zenono Ivinskio tekste „Germania“ siejama su romėnų istoriku Corneliumi Ta
 - Data / laikotarpis: I amž. gale.
 
 ## Teiginiai
-- t-003
-  teiginys: 'Zenono Ivinskio tekste „Germania“ siejama su Corneliumi Tacitu ir datuojama apie 98 m. po Kr.'
-  pagrindžia:
-    - c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+
 
 ## Reikšmingi paminėjimai
-- c-003
-  santrauka: Zenono Ivinskio tekste nurodoma apytikslė veikalo data ir pilnas autoriaus vardas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tai, berods, 98 m. po Kr. patvirtina ir romėnų istorikas Cornelius
-    Tacitas (52-117 m. po Kr.) savo Germanijoje (45 skyr.).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
+
+## Bibliografiniai įrodymai

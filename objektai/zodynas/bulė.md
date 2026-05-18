@@ -18,21 +18,5 @@ tags:
 Bet (1324 m.) popiežius vis dėlto atsiuntė Gediminui malonią bulę, o netrukus ir legatus.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Bet (1324 m.) popiežius vis dėlto atsiuntė Gediminui malonią bulę, o netrukus ir legatus.'
-  pagrindžia:
-    - c-001
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Bet (1324 m.) popiežius vis dėlto atsiuntė Gediminui malonią bulę, o netrukus ir legatus.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Bet (1324 m.) popiežius vis dėlto atsiuntė Gediminui malonią bulę, o netrukus ir legatus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: žemas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001

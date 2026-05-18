@@ -38,38 +38,25 @@ tags: []
 - Ši Taryba lapkričio 30 d. priėmė pareiškimą, kurio tekstą išplatino kaip.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Ši Taryba lapkričio 30 d. priėmė pareiškimą, kurio tekstą išplatino kaip.'
+- t-003
+  teiginys: '"Tuometinė vokiečių valdžia šį Tarybos nutarimą, dar vadinamą Tilžės aktu, ignoravo.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: '"Tuometinė vokiečių valdžia šį Tarybos nutarimą, dar vadinamą Tilžės aktu, ignoravo.'
-  pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Ši Taryba lapkričio 30 d. priėmė pareiškimą, kurio tekstą išplatino kaip.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Ši Taryba lapkričio 30 d. pri-
-    ėmė pareiškimą, kurio tekstą išplatino kaip
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: 'Tiesioginė šio veikalo citata apie šaltinio panaudojimą.'
-  pagrindžia:
-    - t-001
 
-- c-002
+## Bibliografiniai įrodymai
+- c-001
   santrauka: '"Tuometinė vokiečių valdžia šį Tarybos nutarimą, dar vadinamą Tilžės aktu, ignoravo.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
+    atsišaukimą. Šiame dokumente buvo skel-
+    biama, kad Mažosios Lietuvos lietuviai,
+    remdamiesi JAV prezidento V. Vilsono
+    paskelbtąja tautų apsisprendimo teise, nori
+    „prisiglausti“ prie Didžiosios Lietuvos.
     "Tuometinė vokiečių valdžia šį Tarybos nu-
     tarimą, dar vadinamą Tilžės aktu, igno-
     ravo.
@@ -77,6 +64,6 @@ tags: []
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: 'Tiesioginė šio veikalo citata apie šaltinio panaudojimą.'
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-003

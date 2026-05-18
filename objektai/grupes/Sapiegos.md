@@ -18,41 +18,45 @@ tags:
 Po trejų metų Sapiegos buvo visiškai nugalėti. Gavę 100.000 talerių, Sapiegos palaikė Prancūzijos kandidatą; jų priešai palaikė Augustą. Tada Sapiegos vėl pradėjo drąsiai šeimininkauti Lietuvoje, su niekuo nebesiskaitydami; jų priešų kurstoma bajorija ir vėl ėmė bruzdėti.
 
 ## Teiginiai
-- t-002
+- t-001
   teiginys: 'Gavę 100.000 talerių, Sapiegos palaikė Prancūzijos kandidatą; jų priešai palaikė Augustą.'
   pagrindžia:
-    - c-002
-- t-003
-  teiginys: 'Tada Sapiegos vėl pradėjo drąsiai šeimininkauti Lietuvoje, su niekuo nebesiskaitydami; jų priešų kurstoma bajorija ir vėl ėmė bruzdėti.'
+    - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: 'Sapiegos vėl pradėjo drąsiai šeimininkauti Lietuvoje, o jų priešų kurstoma bajorija ėmė bruzdėti.'
   pagrindžia:
-    - c-003
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-002
+- c-001
   santrauka: 'Gavę 100.000 talerių, Sapiegos palaikė Prancūzijos kandidatą; jų priešai palaikė Augustą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Gavę 100.000
     talerių, Sapiegos palaikė Prancūzijos kandidatą; jų priešai pa-
     laikė Augustą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Tada Sapiegos vėl pradėjo drąsiai šeimininkauti Lietuvoje, su niekuo nebesiskaitydami; jų priešų kurstoma bajorija ir vėl ėmė bruzdėti.'
+    - t-001
+- c-002
+  santrauka: 'Sapiegos vėl pradėjo drąsiai šeimininkauti Lietuvoje, o jų priešų kurstoma bajorija ėmė bruzdėti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tada Sapiegos vėl
     pradėjo drąsiai šeimininkauti Lietuvoje, su niekuo nebesiskai-
     tydami; jų priešų kurstoma bajorija ir vėl ėmė bruzdėti.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-002

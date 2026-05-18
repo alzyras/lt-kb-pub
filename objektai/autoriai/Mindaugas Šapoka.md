@@ -30,7 +30,7 @@ The Battle of Grünwald: in commemoration of the 600th anniversary of the Battle
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: 'M. Šapoka redagavo leidinį „Millennium of Lithuania: Millennium Lithuaniae“, išleistą Vilniuje 2009 m.'
+  teiginys: 'Mindaugas Šapoka redagavo 2009 m. Vilniuje išleistą leidinį „Millennium of Lithuania: Millennium Lithuaniae“.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -53,7 +53,7 @@ The Battle of Grünwald: in commemoration of the 600th anniversary of the Battle
     - t-001
     - t-002
 - c-002
-  santrauka: 'M. Šapoka redagavo leidinį „Millennium of Lithuania: Millennium Lithuaniae“, išleistą Vilniuje 2009 m.'
+  santrauka: 'Mindaugas Šapoka redagavo 2009 m. Vilniuje išleistą leidinį „Millennium of Lithuania: Millennium Lithuaniae“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vilnius, 1976; Millennium of Lithuania:

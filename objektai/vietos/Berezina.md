@@ -20,13 +20,15 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
 
 ## Teiginiai
 - t-001
-  teiginys: 'Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui, — per Vilnių, Kauną, Marijampolę ir Varšuvą jis parskubėjo į Paryžių rinkti naujų jėgų.'
+  teiginys: 'Po žiauraus mūšio prie Berezinos Napoleonas pavedė kariuomenę maršalui Miuratui ir parskubėjo į Paryžių rinkti naujų jėgų.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui, — per Vilnių, Kauną, Marijampolę ir Varšuvą jis parskubėjo į Paryžių rinkti naujų jėgų.'
+  santrauka: 'Po žiauraus mūšio prie Berezinos Napoleonas pavedė kariuomenę maršalui Miuratui ir parskubėjo į Paryžių rinkti naujų jėgų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Be to, netrukus žuvo ir visa Napoleono galybė. Tuojau
@@ -36,11 +38,11 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
     zinos pavedęs kariuomenę savo maršalui Miuratui, — per Vil-
     nių, Kauną, Marijampolę ir Varšuvą jis parskubėjo į Paryžių
     rinkti naujų jėgų.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

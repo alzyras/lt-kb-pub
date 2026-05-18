@@ -20,7 +20,7 @@ Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskrit
 
 ## Teiginiai
 - t-001
-  teiginys: '1917 m. Berno konferencijoje numatyta reikalauti Liepojos uosto.'
+  teiginys: '1917 m. lapkričio 2–10 d. Berno konferencijoje numatyta reikalauti Liepojos uosto.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -34,7 +34,7 @@ Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskrit
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1917 m. Berno konferencijoje numatyta reikalauti Liepojos uosto.'
+  santrauka: '1917 m. lapkričio 2–10 d. Berno konferencijoje numatyta reikalauti Liepojos uosto.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Europos ir JAV lietuvių atstovų Berno konferencijoje 1917 m. lapkričio

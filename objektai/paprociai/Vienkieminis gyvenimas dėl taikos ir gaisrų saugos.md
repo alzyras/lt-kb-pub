@@ -41,34 +41,22 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: 'Autorius teigia, kad ši vienkieminio gyvenimo praktika jo laiku dar tebebuvo gyva kai kuriose vietose.'
   pagrindžia:
-    - c-001
+    - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Kalnėnai ir žemaičiai ilgainiui įsikūrė vienkiemiuose ir sąmoningai rinkosi atstumą nuo kaimynų.'
   pagrindžia:
-    - c-002
+    - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Autorius teigia, kad ši vienkieminio gyvenimo praktika jo laiku dar tebebuvo gyva kai kuriose vietose.
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Taip
-    šiandien dar daugioj vietoj tikrieji lietuviai tebgyvena atsikieminėję savo vienkiemiuose
-    Žemaičiuose, Kurše, Parusy bei Kalne.
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: Kalnėnai ir žemaičiai ilgainiui įsikūrė vienkiemiuose ir sąmoningai rinkosi atstumą nuo kaimynų.
+  santrauka: 'Kalnėnai ir žemaičiai ilgainiui įsikūrė vienkiemiuose ir sąmoningai rinkosi atstumą nuo kaimynų.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Tas dar yra stebuklingesniu, jog tose giriose ilgainiui įsikūrė, atsikieminėdami^172
@@ -78,8 +66,24 @@ Nenurodyta
     negalėtų ugnis prigauti susiedo trobesio, arba, nutikus viename kieme kokiai nočiai, idant
     antrasis, girdėdamas savo susiedo šunis lojant, pats galėtų tuo tarpu pasitiekti o jų^176 nuo savęs
     remti ar antram pagalbą duoti, jei to būt reikę.
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004
+- c-002
+  santrauka: 'Autorius teigia, kad ši vienkieminio gyvenimo praktika jo laiku dar tebebuvo gyva kai kuriose vietose.'
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Taip
+    šiandien dar daugioj vietoj tikrieji lietuviai tebgyvena atsikieminėję savo vienkiemiuose
+    Žemaičiuose, Kurše, Parusy bei Kalne.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003

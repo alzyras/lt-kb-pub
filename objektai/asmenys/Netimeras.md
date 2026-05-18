@@ -21,7 +21,7 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lietuvių vadą Netimerą apkrikštijo Brunonas Bonifacijus, kuris vėliau žuvo nuo Netimero brolio rankos.'
+  teiginys: 'Brunonas Bonifacijus apkrikštijo lietuvių vadą Netimerą, o vėliau žuvo nuo Netimero brolio rankos.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -41,7 +41,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lietuvių vadą Netimerą apkrikštijo Brunonas Bonifacijus, kuris vėliau žuvo nuo Netimero brolio rankos.'
+  santrauka: 'Brunonas Bonifacijus apkrikštijo lietuvių vadą Netimerą, o vėliau žuvo nuo Netimero brolio rankos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vakarų misionierius, būsima-

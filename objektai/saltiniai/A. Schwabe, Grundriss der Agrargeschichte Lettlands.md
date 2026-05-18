@@ -18,21 +18,25 @@ Schwabe, Grundriss der Agrargeschichte Lettlands (1928);.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Schwabe, Grundriss der Agrargeschichte Lettlands (1928);.'
+  teiginys: 'A. Schwabe veikalas „Grundriss der Agrargeschichte Lettlands“ datuojamas 1928 m.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Schwabe, Grundriss der Agrargeschichte Lettlands (1928);.'
+  santrauka: 'A. Schwabe veikalas „Grundriss der Agrargeschichte Lettlands“ datuojamas 1928 m.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     _A. Schwabe,_ Grundriss der Agrargeschichte Lettlands
     (1928);
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

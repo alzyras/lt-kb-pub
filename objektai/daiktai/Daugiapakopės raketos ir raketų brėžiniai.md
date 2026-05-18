@@ -47,7 +47,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'K. Semenavičius buvo vadinamas žymiausiu LDK karo inžinieriumi ir daugiapakopių raketų teorijos kūrėju.'
+  teiginys: 'K. Semenavičius buvo pristatytas kaip žymiausias LDK karo inžinierius ir daugiapakopių raketų teorijos kūrėjas.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -55,7 +55,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'K. Semenavičius buvo vadinamas žymiausiu LDK karo inžinieriumi ir daugiapakopių raketų teorijos kūrėju.'
+  santrauka: 'K. Semenavičius buvo pristatytas kaip žymiausias LDK karo inžinierius ir daugiapakopių raketų teorijos kūrėjas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Iš šių

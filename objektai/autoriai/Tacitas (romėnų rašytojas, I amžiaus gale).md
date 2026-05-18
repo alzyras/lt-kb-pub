@@ -30,13 +30,13 @@ Tacitas šiame šaltinyje minimas kaip romėnų rašytojas, istorikas; jam prisk
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tacitas įvardytas kaip pirmasis mūsų krašto gyventojus minintis romėnų rašytojas ir „Germania“ autorius.'
+  teiginys: 'Tacitas I amžiaus gale veikale „Germania“ pirmasis paminėjo mūsų krašto gyventojus.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Taip pat nurodoma, kad Tacitas „Germania“ skyriuje aprašo aisčių gyvenimą, tikybą ir gintarą.'
+  teiginys: 'Tacitas veikale „Germania“ aisčiams paskyrė skyrelį ir trumpai aprašė jų gyvenimą, tikybą bei gintarą.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -44,7 +44,7 @@ Tacitas šiame šaltinyje minimas kaip romėnų rašytojas, istorikas; jam prisk
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Tacitas įvardytas kaip pirmasis mūsų krašto gyventojus minintis romėnų rašytojas ir „Germania“ autorius
+  santrauka: 'Tacitas I amžiaus gale veikale „Germania“ pirmasis paminėjo mūsų krašto gyventojus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus
@@ -57,7 +57,7 @@ Tacitas šiame šaltinyje minimas kaip romėnų rašytojas, istorikas; jam prisk
   pagrindžia:
     - t-001
 - c-002
-  santrauka: Taip pat nurodoma, kad Tacitas „Germania“ skyriuje aprašo aisčių gyvenimą, tikybą ir gintarą
+  santrauka: 'Tacitas veikale „Germania“ aisčiams paskyrė skyrelį ir trumpai aprašė jų gyvenimą, tikybą bei gintarą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pirmas, kurs duoda plates-

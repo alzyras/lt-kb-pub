@@ -44,10 +44,6 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   teiginys: 'Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpiūčio 5 d.).'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: '1384 m., kada Jadvyga jau buvo atvažiavusi iš Vengrijos į Krokuvą ir buvo vainikuota Lenkijos karaliene, pas Jogailą atvyko speciali lenkų ponų delegacija.'
-  pagrindžia:
-    - c-010
 - t-003
   teiginys: 'Su pačia Jadvyga nebuvo ko kalbėti, nes ji tebuvo dar vos 14 metų mergaitė, buvo įsimylėjusi savo sužadėtinį Vilhelmą ir apie Jogailą nenorėjo nė klausyti.'
   pagrindžia:
@@ -57,21 +53,9 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   pagrindžia:
     - c-004
 - t-005
-  teiginys: 'Po krikšto įvyko jo jungtuvės su Jadvyga ir karūnacija Lenkijos karalium.'
+  teiginys: '1386 m. vasario 18 d. Jogaila susituokė su Jadvyga Jogailiene, o kovo 4 d. buvo karūnuotas Lenkijos karaliumi.'
   pagrindžia:
     - c-005
-- t-006
-  teiginys: 'Jadvyga laišku priminė Vytautui, kad Lietuvos ir Rusios žemės buvo jai užrašytos kraičiu, ir pareikalavo metinio činšo.'
-  pagrindžia:
-    - c-006
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-008
-  teiginys: 'Jadvyga mirė likus porai savaičių iki Vorsklos mūšio.'
-  pagrindžia:
-    - c-008
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -131,7 +115,7 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   pagrindžia:
     - t-004
 - c-005
-  santrauka: 'Po krikšto įvyko jo jungtuvės su Jadvyga ir karūnacija Lenkijos karalium.'
+  santrauka: '1386 m. vasario 18 d. Jogaila susituokė su Jadvyga Jogailiene, o kovo 4 d. buvo karūnuotas Lenkijos karaliumi.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Po krikšto įvyko jo jung-
@@ -144,53 +128,6 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-- c-006
-  santrauka: 'Jadvyga reikalavo iš Vytauto činšo už kraičiu laikytas žemes.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tada Jadvyga „mylimam
-    broliui“ (taip ji rašė) Vytautui laišku priminė, kad tos Lietuvos ir
-    Rusijos žemės, kurias valdė Jogaila prieš ją vesdamas, užrašy­
-    tos jai kraičiu1 2), ir todėl už jas reikalauja iš jo mokėti jai metinį
-    činšą^3 ).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  priskyrimo_pagrindas: explicit_name
-  pagrindžia:
-    - t-006
-- c-008
-  santrauka: 'Jadvygos mirtis šiame veikale siejama su laikotarpiu prieš Vorsklos mūšį.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Pastarąjį susiartinimą pagreitino labai netikėta
-    Jadvygos mirtis, ištikusi pora savaičių prieš Vorsklos mūšį.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  priskyrimo_pagrindas: explicit_name
-  pagrindžia:
-    - t-008
-- c-010
-  santrauka: Jadvyga Jogailienė papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Ka­
-    ralienė Elžbieta bijodama nustoti Lenkijos, pasiuntė savo ketu­
-    riolikos metų dukterį Jadvygą, kuri 1384 m. spalių 13 d. iškilmin­
-    gai įvažiavo į Krokuvą ir po dviejų dienų buvo karūnuota „Lenki­
-    jos karalium“.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Laikotarpiai

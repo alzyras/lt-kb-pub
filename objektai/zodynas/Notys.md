@@ -20,14 +20,14 @@ Pagrindinė forma: `notys`.
 Vartojamos formos: `notyse`.
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: '`Notys` šiame tekste reiškia įvykius ar aplinkybes.'
   pagrindžia:
     - c-001
     - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Žodis vartojamas kaip vieta, kurioje reikia taikyti svetimą mokslą ar žinią.'
   pagrindžia:
     - c-001
@@ -36,7 +36,7 @@ Vartojamos formos: `notyse`.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Notys` šiame tekste reiškia įvykius ar aplinkybes
+  santrauka: '`Notys` šiame tekste reiškia įvykius ar aplinkybes.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     pasitikę tokiose notyse^713 , kuriose reikėjo jiems taupyti svetimą mokslą ar kokią žinią sekti, kas
@@ -44,24 +44,24 @@ Vartojamos formos: `notyse`.
     jiems, taip ir kiti klausė jo, kaipo guvesniojo ir gudresniojo, ir sekė jo mokslą, ir per tą klydo nuo
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
 - c-002
-  santrauka: `Notys` šiame tekste reiškia įvykius ar aplinkybes
+  santrauka: '`Notys` šiame tekste reiškia įvykius ar aplinkybes.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     (^713) įvykiuose
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 
 ## Pastabos
 

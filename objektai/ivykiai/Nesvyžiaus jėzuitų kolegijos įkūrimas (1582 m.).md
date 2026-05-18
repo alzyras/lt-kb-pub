@@ -30,22 +30,24 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tuo metu Mikalojus Kristupas Radvila, vad. Našlaitėlis, įkūrė jėzuitų kolegiją buvusiam kalvinų centre — Nesvyžiuje (1582 m.).'
+  teiginys: 'Mikalojus Kristupas Radvila Našlaitėlis 1582 m. Nesvyžiuje, buvusiame kalvinų centre, įkūrė jėzuitų kolegiją.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tuo metu Mikalojus Kristupas Radvila, vad. Našlaitėlis, įkūrė jėzuitų kolegiją buvusiam kalvinų centre — Nesvyžiuje (1582 m.).'
+  santrauka: 'Mikalojus Kristupas Radvila Našlaitėlis 1582 m. Nesvyžiuje, buvusiame kalvinų centre, įkūrė jėzuitų kolegiją.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo metu Mikalojus Kristupas Radvila, vad. Našlaitėlis, įkūrė jė-
     zuitų kolegiją buvusiam kalvinų centre — Nesvyžiuje (1582 m.).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 
@@ -54,5 +56,4 @@ Nenurodyta
 - [[laikotarpiai/XVI amžius]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Mikalojus Kristupas Radvila Našlaitėlis]]
 - [[objektai/vietos/Nesvyžius]]

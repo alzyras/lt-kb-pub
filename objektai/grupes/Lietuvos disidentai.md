@@ -31,7 +31,7 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: 'Lietuvos disidentinis judėjimas prasidėjo 1960 m., kai Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais.'
+  teiginys: 'Lietuvos disidentinio judėjimo pradžia laikomi 1960 m., kai Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais.'
   pagrindžia:
     - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -74,7 +74,7 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Lietuvos disidentinis judėjimas prasidėjo 1960 m., kai Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais.'
+  santrauka: 'Lietuvos disidentinio judėjimo pradžia laikomi 1960 m., kai Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji

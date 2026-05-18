@@ -38,7 +38,7 @@ Metafora nusako pavojingo sąjungininko laikymą arti savęs ir čia siejama su 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Jogailos atsakyme bendradarbiavimas su Vytautu palyginamas su pavojumi savo užantyje maitinti gyvatę.'
+  teiginys: 'Jogaila teigė, kad laikytis išvien su Vytautu reikštų savo užantyje maitinti gyvatę.'
   pagrindžia:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -46,7 +46,7 @@ Metafora nusako pavojingo sąjungininko laikymą arti savęs ir čia siejama su 
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Metafora įvardija pavojingą artumą su nepatikimu sąjungininku.
+  santrauka: 'Jogaila teigė, kad laikytis išvien su Vytautu reikštų savo užantyje maitinti gyvatę.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Jo­

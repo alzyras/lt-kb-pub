@@ -42,19 +42,19 @@ Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšm
 - Didysis artilerijos menas
 
 ## Teiginiai
-- t-007
-  teiginys: 'Kazimieras Semenavičius buvo vadinamas žymiausiu LDK karo inžinieriumi ir daugiapakopių raketų teorijos kūrėju.'
+- t-010
+  teiginys: 'Kazimieras Semenavičius vadintas žymiausiu LDK karo inžinieriumi ir daugiapakopių raketų teorijos kūrėju.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-008
+- t-011
   teiginys: 'Kazimiero Semenavičiaus veikalo „Artis magnae artilleriae“ frontispisas datuojamas 1650 m.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-009
+- t-012
   teiginys: 'Kazimiero Semenavičiaus raketų brėžiniai buvo publikuoti Amsterdame 1650 m.'
   pagrindžia:
     - c-002
@@ -63,7 +63,7 @@ Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšm
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kazimieras Semenavičius buvo vadinamas žymiausiu LDK karo inžinieriumi ir daugiapakopių raketų teorijos kūrėju.'
+  santrauka: 'Kazimieras Semenavičius vadintas žymiausiu LDK karo inžinieriumi ir daugiapakopių raketų teorijos kūrėju.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Iš šių
@@ -77,8 +77,8 @@ Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšm
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-007
-    - t-008
+    - t-010
+    - t-011
 - c-002
   santrauka: 'Kazimiero Semenavičiaus raketų brėžiniai buvo publikuoti Amsterdame 1650 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -91,7 +91,7 @@ Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšm
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-009
+    - t-012
 
 ## Ryšiai
 ### Laikotarpiai

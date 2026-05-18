@@ -19,7 +19,7 @@ Objektų skaičius: 37.
 ## Susiję objektai
 
 ### Asmenys
-- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/asmenys/Mindaugas (Lietuvos valdovas, 1251 m.)]]
 

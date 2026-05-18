@@ -18,7 +18,7 @@ Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustuvinin
 
 ## Teiginiai
 - t-001
-  teiginys: 'Pranciškus Skorina buvo Paduvos universiteto absolventas ir ten įgijo medicinos daktaro laipsnį.'
+  teiginys: 'Pranciškus Skorina baigė Paduvos universitetą ir ten įgijo medicinos daktaro laipsnį.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -26,7 +26,7 @@ Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustuvinin
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Pranciškus Skorina buvo Paduvos universiteto absolventas ir ten įgijo medicinos daktaro laipsnį.'
+  santrauka: 'Pranciškus Skorina baigė Paduvos universitetą ir ten įgijo medicinos daktaro laipsnį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustu-

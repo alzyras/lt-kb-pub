@@ -23,12 +23,12 @@ tags:
   teiginys: '1793 m. (sausio 23 d.) Rusija pasirašė dalybų sutartį, kuria Prūsijai turėjo tekti dideli Lenkijos plotai, esantieji tarp abiejų Prūsų karalystės dalių.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Rusijai pagal sutartį turėjo atitekti Lenkijos Ukraina, o didžiosios Lietuvos kunigaikštijos visa Minsko vaivadija ir dalis Vilniaus, Naugarduko ir Brastos vaivadijų.'
-  pagrindžia:
-    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
   santrauka: '1793 m. (sausio 23 d.) Rusija pasirašė dalybų sutartį, kuria Prūsijai turėjo tekti dideli Lenkijos plotai, esantieji tarp abiejų Prūsų karalystės dalių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -36,24 +36,10 @@ tags:
     1793 m. (sausio 23 d.) Rusija pasirašė dalybų su-
     tartį, kuria Prūsijai turėjo tekti dideli Lenkijos plotai,
     esantieji tarp abiejų Prūsų karalystės dalių.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Rusijai pagal sutartį turėjo atitekti Lenkijos Ukraina, o didžiosios Lietuvos kunigaikštijos visa Minsko vaivadija ir dalis Vilniaus, Naugarduko ir Brastos vaivadijų.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Rusijai pagal sutartį turėjo atitekti Lenkijos Ukraina, o didžiosios Lie-
-    tuvos kunigaikštijos visa Minsko vaivadija ir dalis Vilniaus,
-    Naugarduko ir Brastos vaivadijų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002

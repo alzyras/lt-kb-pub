@@ -28,34 +28,7 @@ tags:
 Pasvalyje ypatinga ceremonija pagerbiamas keliaujantis po Lietuvą kunigaikščio paveikslas Vytauto Didžiojo karo muziejus, atidarytas 1935 m. Architektas Vladimiras Dubeneckis (V.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Vladimiras Dubeneckis buvo Vytauto Didžiojo karo muziejaus architektas.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Vladimiras Dubeneckis buvo Vytauto Didžiojo karo muziejaus architektas.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Pasvalyje
-    ypatinga ceremonija pagerbiamas keliaujantis po Lietuvą
-    kunigaikščio paveikslas
-     Vytauto Didžiojo karo muziejus, atidarytas 1935 m.
-    Architektas Vladimiras Dubeneckis (V. Augustino nuotrauka)
-
-    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
-    163
-    negėrė vyno ir alaus.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
 
 ## Ryšiai
 ### Laikotarpiai

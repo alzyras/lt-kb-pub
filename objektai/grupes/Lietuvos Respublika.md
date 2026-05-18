@@ -19,7 +19,7 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
 
 ## Teiginiai
 - t-001
-  teiginys: 'XIX–XX a. sandūroje „jaunalietuviai“ pradėjo oponuoti „senalietuviams“ ir po poros dešimtmečių sukūrė Lietuvos Respubliką.'
+  teiginys: 'XIX–XX a. sandūroje „jaunalietuviai“ ėmė oponuoti „senalietuviams“ ir po poros dešimtmečių sukūrė Lietuvos Respubliką.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -39,7 +39,7 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'XIX–XX a. sandūroje „jaunalietuviai“ pradėjo oponuoti „senalietuviams“ ir po poros dešimtmečių sukūrė Lietuvos Respubliką.'
+  santrauka: 'XIX–XX a. sandūroje „jaunalietuviai“ ėmė oponuoti „senalietuviams“ ir po poros dešimtmečių sukūrė Lietuvos Respubliką.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietu-

@@ -21,24 +21,22 @@ tags: []
 # vėliava
 
 ## Teiginiai
-
-- t-001
-  teiginys: 25-80 lancų sudarydavo vėliavą, kurioje būdavo apie 300-400 raitųjų.
+- t-003
+  teiginys: 'Vėliava buvo 25-80 lancų būrys, kuriame būdavo apie 300-400 raitųjų.'
   pagrindžia:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: Riteriai kaudavosi po savo vėliava ir galėdavo, jei ji patekdavo į priešo rankas, prisidėti prie kitos vėliavos.
+- t-004
+  teiginys: 'Riteriai kaudavosi po savo vėliava ir galėdavo, jei ji patekdavo į priešo rankas, prisidėti prie kitos vėliavos.'
   pagrindžia:
     - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  santrauka: 25-80 lancų sudarydavo vėliavą, kurioje būdavo apie 300-400 raitųjų.
+  santrauka: 'Vėliava buvo 25-80 lancų būrys, kuriame būdavo apie 300-400 raitųjų.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Riteris su savo palydovais sudarydavo tam tikrą
@@ -46,13 +44,15 @@ tags: []
     darydavo būrį, kuris buvo vadinamas vėliava. Tokiu būdu vė­
     liavoje būdavo apie 300-400 raitųjų. Tie būriai savo ženklu,
     apie kurį spiesdavosi, turėjo vėliavą.
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: Riteriai kaudavosi po savo vėliava ir galėdavo, jei ji patekdavo į priešo rankas, prisidėti prie kitos vėliavos.
+  santrauka: 'Riteriai kaudavosi po savo vėliava ir galėdavo, jei ji patekdavo į priešo rankas, prisidėti prie kitos vėliavos.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kiekvienas rite­
@@ -60,11 +60,13 @@ tags: []
     bėgti. Jei vėliava patekdavo į priešo rankas, tai riteriui valia
     būdavo pasielgti savo nuožiūra — ar trauktis, ar kautis prisi­
     dėjus prie kitos vėliavos.
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai

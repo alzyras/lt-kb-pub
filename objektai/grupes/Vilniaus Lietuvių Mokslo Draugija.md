@@ -19,13 +19,15 @@ Malinauskas, kurs švenčiausiai tiki Vytauto kaulus tebesant ir kuris iš padav
 
 ## Teiginiai
 - t-001
-  teiginys: 'Malinauskas, kurs švenčiausiai tiki Vytauto kaulus tebesant ir kuris iš padavimo numano, kur jie galėtų būti, — surinkęs aukų, padirbdino puikų grabą Vytauto kaulams sudėti, bet lenkai to grabo nepriėmė į katedrą, ir dabar jis saugomas Vilniaus Lietuvių.'
+  teiginys: 'Vilniaus Lietuvių Mokslo Draugijoje buvo saugomas D. Malinausko aukomis padirbdintas grabas Vytauto kaulams sudėti.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Malinauskas, kurs švenčiausiai tiki Vytauto kaulus tebesant ir kuris iš padavimo numano, kur jie galėtų būti, — surinkęs aukų, padirbdino puikų grabą Vytauto kaulams sudėti, bet lenkai to grabo nepriėmė į katedrą, ir dabar jis saugomas Vilniaus Lietuvių.'
+  santrauka: 'Vilniaus Lietuvių Mokslo Draugijoje buvo saugomas D. Malinausko aukomis padirbdintas grabas Vytauto kaulams sudėti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     D. Malinauskas, kurs švenčiausiai
@@ -33,14 +35,10 @@ Malinauskas, kurs švenčiausiai tiki Vytauto kaulus tebesant ir kuris iš padav
     galėtų būti, — surinkęs aukų, padirbdino puikų grabą Vytauto kau-
     lams sudėti, bet lenkai to grabo nepriėmė į katedrą, ir dabar jis
     saugomas Vilniaus Lietuvių Mokslo Draugijoje.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/D. Malinauskas]]

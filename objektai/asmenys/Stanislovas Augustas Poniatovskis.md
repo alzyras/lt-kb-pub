@@ -1,9 +1,11 @@
 ---
 tipas: asmuo
-pavadinimas: 'Stanislovas Augustas Poniatovskis'
+pavadinimas: 'Stanislovas Augustas Poniatovskis (valdovas)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Stanislovas Augustas Poniatovskis'
+aliases:
+  - 'Stanislovas Augustas Poniatovskis'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
@@ -13,7 +15,7 @@ tags:
   - karalius
   - tauta
 ---
-# Stanislovas Augustas Poniatovskis
+# Stanislovas Augustas Poniatovskis (valdovas)
 
 ## Santrauka
 
@@ -33,7 +35,7 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: 'Liepos 24 d. iš Varšuvos atėjo žinia apie Stanislovo Augusto Poniatovskio kapituliaciją ir prisijungimą prie Targovicos konfederacijos.'
+  teiginys: '1792 m. liepos 24 d. iš Varšuvos atėjo žinia apie Stanislovo Augusto Poniatovskio kapituliaciją ir prisijungimą prie Targovicos konfederacijos.'
   pagrindžia:
     - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -102,7 +104,7 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Liepos 24 d. iš Varšuvos atėjo žinia apie Stanislovo Augusto Poniatovskio kapituliaciją ir prisijungimą prie Targovicos konfederacijos.'
+  santrauka: '1792 m. liepos 24 d. iš Varšuvos atėjo žinia apie Stanislovo Augusto Poniatovskio kapituliaciją ir prisijungimą prie Targovicos konfederacijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Liepos pabaigoje

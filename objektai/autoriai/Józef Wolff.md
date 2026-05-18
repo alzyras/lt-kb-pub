@@ -37,14 +37,14 @@ Józef Wolff šiame šaltinyje minimas kaip istorikas ir veikalo „Ród Gedimin
 - Ród Gediminą
 
 ## Teiginiai
-- t-001
-  teiginys: 'Józef Wolff yra bibliografiškai pateiktas kaip veikalo „Ród Gediminą“ autorius.'
+- t-003
+  teiginys: 'Józef Wolff buvo 1886 m. Krokuvoje išleisto veikalo „Ród Gediminą“ autorius.'
   pagrindžia:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Józef Wolff šiame šaltinyje minimas kaip istorikas, kurio nuomone remiamasi aiškinant Kęstučio vaikų motinystę.'
+- t-004
+  teiginys: 'Istorikas Józef Wolff teigė, kad sunku Patirgą ir Ringailę laikyti vienos motinos vaikais.'
   pagrindžia:
     - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -52,19 +52,19 @@ Józef Wolff šiame šaltinyje minimas kaip istorikas ir veikalo „Ród Gedimin
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Bibliografinis įrašas susieja Józefą Wolffą su veikalu apie Gediminaičių giminę.
+  santrauka: 'Józef Wolff buvo 1886 m. Krokuvoje išleisto veikalo „Ród Gediminą“ autorius.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Wolff = Wolff, Józef, Ród Gediminą. Kraków, 1886.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: Wolffo nuomonė pasitelkiama aiškinant, kad Birutė nebuvo visų Kęstučio vaikų motina.
+  santrauka: 'Istorikas Józef Wolff teigė, kad sunku Patirgą ir Ringailę laikyti vienos motinos vaikais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautą. Negalima ginčyti istorikų nuomonės, kad Birutė esan­
@@ -74,12 +74,12 @@ Józef Wolff šiame šaltinyje minimas kaip istorikas ir veikalo „Ród Gedimin
     gailė, ištekėjusi 1392 metais, vadinasi, po 44 metų, — būtų buvę
     gimę iš vienos motinos.
   citata_rodoma: ""
-  teiginio_tipas: interpretacija
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004
 
 ## Ryšiai
 ### Laikotarpiai

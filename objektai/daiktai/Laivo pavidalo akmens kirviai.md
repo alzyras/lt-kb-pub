@@ -34,7 +34,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Laivo pavidalo akmens kirviai su skyle kotui įstatyti išskiriami kaip būdingas neolito įrankis.'
+  teiginys: 'Laivo pavidalo akmens kirviai buvo gludinti įrankiai su skyle kotui įstatyti.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -42,7 +42,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Laivo pavidalo akmens kirviai su skyle kotui įstatyti išskiriami kaip būdingas neolito įrankis.
+  santrauka: 'Laivo pavidalo akmens kirviai buvo gludinti įrankiai su skyle kotui įstatyti.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Visi tų gyventojų įrankiai buvo stipriai gludinti ir žymiai ge­
@@ -59,6 +59,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-001
     - t-001

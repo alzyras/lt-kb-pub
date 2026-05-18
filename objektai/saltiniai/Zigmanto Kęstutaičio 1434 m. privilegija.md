@@ -20,17 +20,23 @@ Naujų teisinių normų davė 1413 m. Jogailos ir Vytauto privilegija, suteikta 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Naujų teisinių normų davė 1413 m. Jogailos ir Vytauto privilegija, suteikta Horodlėje (žiūr.'
+  teiginys: 'Zigmanto Kęstutaičio 1434 m. privilegija davė naujų teisinių normų Lietuvos valstybės teisėje.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: 'Zigmanto Kęstutaičio privilegija sulygino civilines pravoslavų teises su katalikų teisėmis, tačiau valstybinių vietų jie vis tiek negalėjo gauti.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Naujų teisinių normų davė 1413 m. Jogailos ir Vytauto privilegija, suteikta Horodlėje (žiūr.'
+  santrauka: 'Zigmanto Kęstutaičio 1434 m. privilegija davė naujų teisinių normų Lietuvos valstybės teisėje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Naujų teisinių normų
@@ -40,11 +46,11 @@ Naujų teisinių normų davė 1413 m. Jogailos ir Vytauto privilegija, suteikta 
     Kazimiero privilegija (žiūr. 180 psl.). Pirmasis bandymas įstaty-
     mus kodifikuoti buvo padarytas 1468 m., išleidus vadinamąjį Ka-
     zimiero Teisyną.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
@@ -54,10 +60,10 @@ Naujų teisinių normų davė 1413 m. Jogailos ir Vytauto privilegija, suteikta 
     Zigmanto Kęstutaičio privilegija suly-
     gino civilines pravoslavų teises su katalikų teisėmis, tačiau valstybinių
     vietų jie vis tiek negalėjo gauti.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

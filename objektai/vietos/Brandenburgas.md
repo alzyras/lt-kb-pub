@@ -23,10 +23,14 @@ Lietuviai padėjo lenkams kariauti vieną kartą su Brandenburgu, o kitą kartą
   teiginys: 'Lietuviai padėjo lenkams kariauti vieną kartą su Brandenburgu, o kitą kartą su ordinu.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir toliau germanizavo pavergtuosius Mažosios Lietuvos lietuvius.'
+  teiginys: 'Brandenburgo hercogams atitekusi valstybė išaugo į pavojingą kaimyną ir toliau germanizavo Mažosios Lietuvos lietuvius.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -37,28 +41,24 @@ Lietuviai padėjo lenkams kariauti vieną kartą su Brandenburgu, o kitą kartą
     dos. Lietuviai padėjo
     lenkams kariauti vieną kartą su Brandenburgu, o kitą kartą su
     ordinu.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir toliau germanizavo pavergtuosius Mažosios Lietuvos lietuvius.'
+  santrauka: 'Brandenburgo hercogams atitekusi valstybė išaugo į pavojingą kaimyną ir toliau germanizavo Mažosios Lietuvos lietuvius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Atitekusi Branden-
     burgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir to-
     liau germanizavo pavergtuosius Mažosios Lietuvos lietuvius.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Mažoji Lietuva]]

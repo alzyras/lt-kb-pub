@@ -20,7 +20,7 @@ Stanislovo garbei („kad abi lygiateisės tautos turėtų vieną globėją ir u
 
 ## Teiginiai
 - t-001
-  teiginys: 'Katedra buvo pašvęsta Krokuvos vyskupo šv. Stanislovo garbei, „kad abi lygiateisės tautos turėtų vieną globėją ir užtarėją“.'
+  teiginys: 'Katedra buvo pašvęsta Krokuvos vyskupo šv. Stanislovo garbei, kad abi lygiateisės tautos turėtų vieną globėją ir užtarėją.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -28,7 +28,7 @@ Stanislovo garbei („kad abi lygiateisės tautos turėtų vieną globėją ir u
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Katedra buvo pašvęsta Krokuvos vyskupo šv. Stanislovo garbei, „kad abi lygiateisės tautos turėtų vieną globėją ir užtarėją“.'
+  santrauka: 'Katedra buvo pašvęsta Krokuvos vyskupo šv. Stanislovo garbei, kad abi lygiateisės tautos turėtų vieną globėją ir užtarėją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pastatyta katedra, iškilmingai pa-

@@ -18,7 +18,7 @@ Pati LV neplanavo žudynių, tačiau deklaruojamu antisemitizmu (Žydų padėtie
 
 ## Teiginiai
 - t-001
-  teiginys: 'LV Žydų padėties nuostatus sudarė kaip deklaruojamo antisemitizmo priemonę, siekdama nuolaidų iš nacių Vokietijos.'
+  teiginys: 'LV sudarė Žydų padėties nuostatus kaip deklaruojamo antisemitizmo priemonę ir siekė nuolaidų iš nacių Vokietijos.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -28,7 +28,7 @@ Pati LV neplanavo žudynių, tačiau deklaruojamu antisemitizmu (Žydų padėtie
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'LV Žydų padėties nuostatus sudarė kaip deklaruojamo antisemitizmo priemonę, siekdama nuolaidų iš nacių Vokietijos.'
+  santrauka: 'LV sudarė Žydų padėties nuostatus kaip deklaruojamo antisemitizmo priemonę ir siekė nuolaidų iš nacių Vokietijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pati

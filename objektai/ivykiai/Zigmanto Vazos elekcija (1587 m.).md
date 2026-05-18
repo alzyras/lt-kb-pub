@@ -36,6 +36,8 @@ Nenurodyta
   teiginys: 'Į elekcijos seimą 1587 m. Zamoiskis ir jo priešininkai suvažiavo su dideliais kariuomenės būriais.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -48,11 +50,11 @@ Nenurodyta
     vykla. Lietuviai irgi atvažiavo į Varšuvą, tačiau į elekciją nėjo:
     jie reikalavo, kad pirma lenkai savitarpyje susitaikintų ir paša-
     lintų kariuomenę.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

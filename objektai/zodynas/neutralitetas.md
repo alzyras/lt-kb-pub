@@ -23,6 +23,8 @@ Lenkų ir rusų bolševikų kare Lietuva paskelbė neutralitetą ir rūpinosi ap
   teiginys: 'Lenkų ir rusų bolševikų kare Lietuva paskelbė neutralitetą ir rūpinosi apsaugoti tik savo Maskvos sutartimi su Rusija pripažintą teritoriją.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -32,10 +34,10 @@ Lenkų ir rusų bolševikų kare Lietuva paskelbė neutralitetą ir rūpinosi ap
     Lenkų ir rusų bolševikų kare Lietuva paskelbė neutralitetą
     ir rūpinosi apsaugoti tik savo Maskvos sutartimi su Rusija pri-
     pažintą teritoriją.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

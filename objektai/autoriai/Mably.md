@@ -19,23 +19,25 @@ vidury čia pradėjo plisti šviečiamosios literatūros raštai, tai daugiausia
 
 ## Teiginiai
 - t-001
-  teiginys: 'vidury čia pradėjo plisti šviečiamosios literatūros raštai, tai daugiausia buvo domimasi tais autoriais, kurie rašė apie valstybę (Rousseau, Mably ir kt.).'
+  teiginys: 'XVIII a. viduryje Mably buvo tarp autorių, rašiusių apie valstybę ir sulaukusių susidomėjimo.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'vidury čia pradėjo plisti šviečiamosios literatūros raštai, tai daugiausia buvo domimasi tais autoriais, kurie rašė apie valstybę (Rousseau, Mably ir kt.).'
+  santrauka: 'XVIII a. viduryje Mably buvo tarp autorių, rašiusių apie valstybę ir sulaukusių susidomėjimo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     XVIII a. vidury čia pradėjo plisti šviečiamosios literatūros raštai,
     tai daugiausia buvo domimasi tais autoriais, kurie rašė apie valstybę
     _(Rousseau, Mably_ ir kt.).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

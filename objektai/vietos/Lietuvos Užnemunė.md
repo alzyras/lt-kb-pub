@@ -34,7 +34,7 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
 
 ## Teiginiai
 - t-001
-  teiginys: 'Etninių lietuvių tautinį sąjūdį atnaujino inteligentų karta, kilusi daugiausia iš Užnemunės krašto.'
+  teiginys: 'Etninių lietuvių tautinį sąjūdį atnaujino pobaudžiavinė inteligentų karta, daugiausia kilusi iš Lietuvos Užnemunės.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -42,7 +42,7 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Etninių lietuvių tautinį sąjūdį atnaujino inteligentų karta, kilusi daugiausia iš Užnemunės krašto.'
+  santrauka: 'Etninių lietuvių tautinį sąjūdį atnaujino pobaudžiavinė inteligentų karta, daugiausia kilusi iš Lietuvos Užnemunės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     “

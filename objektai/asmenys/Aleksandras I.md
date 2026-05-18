@@ -21,7 +21,7 @@ Universiteto globėju iki 1824 m. buvo Lenkijos didikų atžala – Adomas Jurgi
 
 ## Teiginiai
 - t-001
-  teiginys: 'Aleksandras I buvo asmeninis Adomo Jurgio Čartoriskio, iki 1824 m. ėjusio universiteto globėjo pareigas, draugas.'
+  teiginys: 'Aleksandras I buvo asmeninis Adomo Jurgio Čartoriskio draugas.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -35,7 +35,7 @@ Universiteto globėju iki 1824 m. buvo Lenkijos didikų atžala – Adomas Jurgi
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Aleksandras I buvo asmeninis Adomo Jurgio Čartoriskio, iki 1824 m. ėjusio universiteto globėjo pareigas, draugas.'
+  santrauka: 'Aleksandras I buvo asmeninis Adomo Jurgio Čartoriskio draugas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Universiteto globėju iki

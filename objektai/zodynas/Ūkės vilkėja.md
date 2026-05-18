@@ -20,14 +20,14 @@ Pagrindinė forma: `ūkės vilkėja`.
 Vartojamos formos: `ūkės vilkėjomis`.
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: '`Ūkės vilkėja` šiame tekste reiškia moterį, kuri tvarko ūkį ir namų darbus.'
   pagrindžia:
     - c-001
     - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Terminas siejamas su garbingu moters vaidmeniu kaimo bendruomenėje.'
   pagrindžia:
     - c-001
@@ -36,7 +36,7 @@ Vartojamos formos: `ūkės vilkėjomis`.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Ūkės vilkėja` šiame tekste reiškia moterį, kuri tvarko ūkį ir namų darbus
+  santrauka: '`Ūkės vilkėja` šiame tekste reiškia moterį, kuri tvarko ūkį ir namų darbus.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     bus didi gaspadinė^402 ir ūkės vilkėja. Kitos sėjo, arė, šieną pjovė ir javus nuo lauko valijo.
@@ -46,10 +46,10 @@ Vartojamos formos: `ūkės vilkėjomis`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
 - c-002
-  santrauka: `Ūkės vilkėja` šiame tekste reiškia moterį, kuri tvarko ūkį ir namų darbus
+  santrauka: '`Ūkės vilkėja` šiame tekste reiškia moterį, kuri tvarko ūkį ir namų darbus.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Mažosios savo rūtas augino, ravėdamos ir visaip jas gerbdamos, idant ir jos būt jau vadinamos
@@ -60,7 +60,7 @@ Vartojamos formos: `ūkės vilkėjomis`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 
 ## Pastabos
 

@@ -31,13 +31,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Komiteto pirmininkas buvo Rusijos Dūmos atstovas M.'
+  teiginys: 'Centralinio komiteto pirmininku buvo Rusijos Dūmos atstovas M. Yčas.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Komiteto pirmininkas buvo Rusijos Dūmos atstovas M.'
+  santrauka: 'Centralinio komiteto pirmininku buvo Rusijos Dūmos atstovas M. Yčas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Komiteto pirmininkas buvo Rusijos Dūmos atstovas M. Yčas,
@@ -46,14 +48,17 @@ Nenurodyta
     kun. Dogelis, dr. A. Vileišis, P. Leonas, dr. J. Basanavičius, kun.
     Jezukevičius, D. Malinauskas, J. Balčikonis, A. Žmuidzinavičius, J.
     Mašiotas, A. Janulaitis ir M. Sleževičius.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
+
+### Susiję objektai
+- [[objektai/grupes/Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti]]

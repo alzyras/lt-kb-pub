@@ -36,50 +36,23 @@ A. Vireliūnas šiame šaltinyje minimas kaip leidinio sudarytojas ir vadovėlio
 - Krašto mokslo vadovėlis
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: 'A. Vireliūnas kartu su P. Šinkūnu sudarė leidinį „Vandens ir vėjo galybė“.'
   pagrindžia:
-    - c-003
     - c-001
+    - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'A. Vireliūnui priskiriamas „Krašto mokslo vadovėlis“.'
+- t-004
+  teiginys: 'A. Vireliūnas buvo nurodytas kaip „Krašto mokslo vadovėlio“ III pradžios mokyklos skyriui autorius.'
   pagrindžia:
-    - c-002
+    - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: A. Vireliūnas įvardijamas kaip leidinio „Vandens ir vėjo galybė“ sudarytojas.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    16. VANDENS IR VĖJO GALYBE. Sudarė A. Vireliūnas ir P. Šinkū­
-    nas su daugybė paveikslėliu. Išleista gerame popieriuje. Kaina Lt. 6, —
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: A. Vireliūno vardu pažymėtas krašto mokslo vadovėlis pradžios mokyklai.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    19. A. Vireliūno, KRAŠTO MOKSLO VADOVĖLIS. III-čiam pra­
-    džios mokyklos skyriui. Pirmosios geografijos žinios ir atskirų Lietuvos
-    vietų apžvalga. Sutrumpintasis Vl-as leidimas. Kaina Lt. 2,50.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: A. Vireliūnas papildomas patvirtintas šaltinio paminėjimas.
+  santrauka: 'A. Vireliūnas kartu su P. Šinkūnu sudarė leidinį „Vandens ir vėjo galybė“.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     16. VANDENS IR VĖJO GALYBE. Sudarė A. Vireliūnas ir P. Šinkū­
@@ -87,8 +60,34 @@ A. Vireliūnas šiame šaltinyje minimas kaip leidinio sudarytojas ir vadovėlio
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-001
+    - t-003
+- c-002
+  santrauka: 'A. Vireliūnas kartu su P. Šinkūnu sudarė leidinį „Vandens ir vėjo galybė“.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    16. VANDENS IR VĖJO GALYBE. Sudarė A. Vireliūnas ir P. Šinkū­
+    nas su daugybė paveikslėliu. Išleista gerame popieriuje. Kaina Lt. 6, —
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
+- c-003
+  santrauka: 'A. Vireliūnas buvo nurodytas kaip „Krašto mokslo vadovėlio“ III pradžios mokyklos skyriui autorius.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    19. A. Vireliūno, KRAŠTO MOKSLO VADOVĖLIS. III-čiam pra­
+    džios mokyklos skyriui. Pirmosios geografijos žinios ir atskirų Lietuvos
+    vietų apžvalga. Sutrumpintasis Vl-as leidimas. Kaina Lt. 2,50.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004

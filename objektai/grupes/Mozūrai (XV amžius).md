@@ -40,7 +40,7 @@ Mozūrai šiame fragmente įvardijami kaip Lietuvos sandarų partneriai.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Mozūrai šiame fragmente įvardijami kaip Lietuvos sandarų partneriai.
+  santrauka: 'Mozūrai šiame fragmente įvardijami kaip Lietuvos sandarų partneriai.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Noris pradžioj 15 amžiaus namų ermyderiai ir svetimos karės trukino lietuvius ir žemaičius nuo
@@ -57,6 +57,3 @@ Mozūrai šiame fragmente įvardijami kaip Lietuvos sandarų partneriai.
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XV amžius]]
-
-### Susiję objektai
-- [[objektai/grupes/Valakai]]

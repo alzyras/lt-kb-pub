@@ -45,7 +45,7 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-005
-  teiginys: 'LDK pakraščių priklausomybė nuo Vilniaus svyravo tarp siuzereniteto ir hegemonijos.'
+  teiginys: 'LDK pakraščių priklausomybė nuo Vilniaus svyravo tarp įvairaus laipsnio siuzereniteto ir hegemonijos.'
   pagrindžia:
     - c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -125,7 +125,7 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
   pagrindžia:
     - t-004
 - c-005
-  santrauka: 'LDK pakraščių priklausomybė nuo Vilniaus svyravo tarp siuzereniteto ir hegemonijos.'
+  santrauka: 'LDK pakraščių priklausomybė nuo Vilniaus svyravo tarp įvairaus laipsnio siuzereniteto ir hegemonijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     LDK

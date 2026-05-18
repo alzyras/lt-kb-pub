@@ -19,7 +19,7 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Baigiantis pirmajam Kristaus epochos tūkstantmečiui milenaristinis sąjūdis apėmė krikščioniškąsias misijas ir naujų šalių krikštus.'
+  teiginys: 'Baigiantis pirmajam Kristaus epochos tūkstantmečiui milenaristinis sąjūdis apėmė krikščioniškąsias misijas ir naujų šalių krikštus Europoje.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -27,7 +27,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Baigiantis pirmajam Kristaus epochos tūkstantmečiui milenaristinis sąjūdis apėmė krikščioniškąsias misijas ir naujų šalių krikštus.'
+  santrauka: 'Baigiantis pirmajam Kristaus epochos tūkstantmečiui milenaristinis sąjūdis apėmė krikščioniškąsias misijas ir naujų šalių krikštus Europoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taip baigiantis pirmajam Kristaus epochos

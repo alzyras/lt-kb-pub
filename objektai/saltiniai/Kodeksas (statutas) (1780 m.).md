@@ -22,8 +22,12 @@ Kodeksas (statutas) 1780 m. buvo pateiktas seimui patvirtinti.
   teiginys: 'Kodeksas (statutas) 1780 m. buvo pateiktas seimui patvirtinti.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
   santrauka: 'Kodeksas (statutas) 1780 m. buvo pateiktas seimui patvirtinti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -31,10 +35,10 @@ Kodeksas (statutas) 1780 m. buvo pateiktas seimui patvirtinti.
     Kodeksas (statutas) 1780 m. buvo pateiktas seimui pa-
     tvirtinti. Jame buvo nuostatų, palengvinančių valstiečių būklę
     ir paimančių juos įstatymo globon.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

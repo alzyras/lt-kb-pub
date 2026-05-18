@@ -28,14 +28,14 @@ M. Krasauskaitė 1930 m. kolektyvinėje monografijoje „Vytautas Didysis“ įr
 - Vytauto charakteristika
 
 ## Teiginiai
-- t-001
-  teiginys: 'Dr. M. Krasauskaitė šiame leidinyje įrašyta tarp knygos autorių.'
+- t-003
+  teiginys: 'Dr. M. Krasauskaitė buvo viena iš leidinio autorių.'
   pagrindžia:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Turinyje Dr. Krasauskaitei priskiriamas skyrius „Vytauto charakteristika“.'
+- t-004
+  teiginys: 'Dr. M. Krasauskaitė parašė skyrių „Vytauto charakteristika“.'
   pagrindžia:
     - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -43,7 +43,7 @@ M. Krasauskaitė 1930 m. kolektyvinėje monografijoje „Vytautas Didysis“ įr
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Tituliniame puslapyje Dr. M. Krasauskaitė įrašyta tarp leidinio autorių.
+  santrauka: 'Dr. M. Krasauskaitė buvo viena iš leidinio autorių.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Parašė:
@@ -51,25 +51,25 @@ M. Krasauskaitė 1930 m. kolektyvinėje monografijoje „Vytautas Didysis“ įr
     ##### A.Šapoka, Z. Ivinskis, V. Dėdinas, A. Kučinskas,
 
     ##### S. Sužiedėlis, P. Šležas, Dr. M. Krasauskaitė.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: Turinyje Dr. Krasauskaitei priskiriamas skyrius apie Vytauto charakteristiką.
+  santrauka: 'Dr. M. Krasauskaitė parašė skyrių „Vytauto charakteristika“.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Dr. Krasauskaitė. Vytauto charakteristika ................................... 253
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004
 
 ## Ryšiai
 ### Laikotarpiai

@@ -21,61 +21,16 @@ tags: []
 Komtūras šiame įraše žymi Ordino pareigūną ir srities ar pilies vadą. Ankstesniame šaltinyje jis nusakytas kaip pilių bei sričių viršininkas, o šiame šaltinyje vartojamas ir bendrine, ir konkrečių titulų forma, pavyzdžiui, kaip Gdansko ar didysis komtūras.
 
 ## Teiginiai
-- t-002
-  teiginys: 'Komtūras šiame šaltinyje žymi Ordino pareigūną arba vietos vadą.'
+- t-006
+  teiginys: 'Ragainės komtūras buvo Vytauto krikštatėvis, kurio vardu Vytautas per krikštą gavo Vigando vardą.'
   pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: 'Vartojamas konkretus didžiojo komtūro titulas.'
-  pagrindžia:
-    - c-004
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-004
-  teiginys: Ragainės komtūras čia įvardijamas kaip Vytauto krikštatėvis.
-  pagrindžia:
-    - c-005
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-005
-  teiginys: komtūras vartojamas kaip Ordino pareigūno titulas.
-  pagrindžia:
-    - c-005
+    - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: Komtūras minimas kaip lietuvių nukautas Ordino pareigūnas.
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1346 m. balandį įsiveržę į Livoniją lietu-
-    viai sunaikino Mežuotnės pilį, nukovė kom-
-    tūrą su keliais kitais broliais.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-004
-  santrauka: Didysis komtūras minimas kaip aukštas Ordino pareigūnas.
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1348 m. Ordino] maršalas brolis Zygfridas iš Da[he]nfeldo ir didysis komtūras brolis
-    Vinrichas iš Kniprodės dalyvavo mūšyje prie Strėvos, narsiai kaudamiesi
-  citata_rodoma: '„[1348 m. Ordino] maršalas brolis Zygfridas iš Da[he]nfeldo ir didysis komtūras brolis Vinrichas iš Kniprodės dalyvavo mūšyje prie Strėvos, narsiai kaudamiesi.“'
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-- c-005
-  santrauka: Ragainės komtūras čia įvardijamas kaip Vytauto krikštatėvis.
+- c-001
+  santrauka: 'Ragainės komtūras buvo Vytauto krikštatėvis, kurio vardu Vytautas per krikštą gavo Vigando vardą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Grįždamas iš šito žygio, Kryžiuočių Ordinas 1383 metų
@@ -84,12 +39,13 @@ Komtūras šiame įraše žymi Ordino pareigūną ir srities ar pilies vadą. An
     jų įgula be vilties kovojo su gausiu priešu. Krikšte Vytautui
     buvo duotas Vigando vardas. Tuo pat vardu buvo ir jo krikš­
     tatėvis, Ragainės komtūras.
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
-    - t-005
+    - t-006
 
 ## Ryšiai
 ### Teminiai klasteriai

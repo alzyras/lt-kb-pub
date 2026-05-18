@@ -25,7 +25,7 @@ Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė �
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: '1943 m. kovo viduryje gestapas suėmė daug pogrindinės spaudos leidėjų ir bendradarbių, taip pat LLKS ir LLA grupes.'
+  teiginys: '1943 m. kovo viduryje gestapas suėmė Lietuvos laisvės kovotojų sąjungos ir LLA grupes.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -48,7 +48,7 @@ Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė �
   pagrindžia:
     - t-001
 - c-002
-  santrauka: '1943 m. kovo viduryje gestapas suėmė daug pogrindinės spaudos leidėjų ir bendradarbių, taip pat LLKS ir LLA grupes.'
+  santrauka: '1943 m. kovo viduryje gestapas suėmė Lietuvos laisvės kovotojų sąjungos ir LLA grupes.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Keršydamas už boikotą gestapas 1943 m. kovo viduryje Lietuvoje suėmė

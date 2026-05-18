@@ -21,7 +21,7 @@ Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira vyk
 
 ## Teiginiai
 - t-001
-  teiginys: 'Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira vykdomoji valdžia – kancleris, iždininkas, etmonas ir kt.'
+  teiginys: 'LDK turėjo atskirą valstybės titulą, teritoriją, vykdomąją valdžią, iždą, kariuomenę, teismus ir teisinę sistemą.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -29,7 +29,7 @@ Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira vyk
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira vykdomoji valdžia – kancleris, iždininkas, etmonas ir kt.'
+  santrauka: 'LDK turėjo atskirą valstybės titulą, teritoriją, vykdomąją valdžią, iždą, kariuomenę, teismus ir teisinę sistemą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira

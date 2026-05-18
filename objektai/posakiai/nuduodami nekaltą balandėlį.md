@@ -46,7 +46,7 @@ Formulė pateikiama kaip Vytauto poleminis kaltinimas kryžiuočiams, vaidinanti
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Poleminė frazė kaltina kryžiuočius veidmainyste.
+  santrauka: 'Formulė kryžiuočius vaizduoja kaip apsimetančius nekaltais ir slepiančius savo klaidas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Jie skundžia mus ir mūsų brolį jums, krikščionijos vieš­
@@ -66,8 +66,8 @@ Formulė pateikiama kaip Vytauto poleminis kaltinimas kryžiuočiams, vaidinanti
     tus, kai valdė jų žemę... Kodėl jie tyli ir slepia savo klaidas,
     nuduodami nekaltą balandėlį
   citata_rodoma: ""
-  teiginio_tipas: vertinimas
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:

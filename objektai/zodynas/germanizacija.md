@@ -21,32 +21,38 @@ Tuo tarpu Mažojoje Lietuvoje ilgą laiką svetimieji buvo tik ponai, o kolonist
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tuo tarpu Mažojoje Lietuvoje ilgą laiką svetimieji buvo tik ponai, o kolonistų daugiau buvo prigabenta tik XVIII amž.; pagaliau pati germanizacijos politika M.'
+  teiginys: 'Mažojoje Lietuvoje germanizacijos politika sustiprėjo tik XIX a. pabaigoje ir nespėjo suvokietinti visų lietuvių.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: 'Tuo būdu ordino laikais tik Mažoji Lietuva išvengė germanizacijos.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-003
   teiginys: 'Naujas lietuviškasis sąjūdis, kuris truko iki pat mūsų laikų, ten prasidėjo tik XIX amž., kai su germanizacijos pastangomis jau ėmė kovoti pasauliniai lietuviai inteligentai.'
   pagrindžia:
     - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tuo tarpu Mažojoje Lietuvoje ilgą laiką svetimieji buvo tik ponai, o kolonistų daugiau buvo prigabenta tik XVIII amž.; pagaliau pati germanizacijos politika M.'
+  santrauka: 'Mažojoje Lietuvoje germanizacijos politika sustiprėjo tik XIX a. pabaigoje ir nespėjo suvokietinti visų lietuvių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo tarpu Mažojoje Lietuvoje ilgą laiką svetimieji buvo tik
     ponai, o kolonistų daugiau buvo prigabenta tik XVIII amž.;
     pagaliau pati germanizacijos politika M. Lietuvoj tesustiprėjo
     tik į XIX amž. galą, todėl nė nespėjo čia suvirškinti visų lietuvių.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
@@ -58,11 +64,11 @@ Tuo tarpu Mažojoje Lietuvoje ilgą laiką svetimieji buvo tik ponai, o kolonist
     sukilimo pavojaus nebebuvo, todėl niekas į juos įtartinai nebežiū-
     rėjo ir paliko nesuvokietintus. Tuo būdu ordino laikais tik
     Mažoji Lietuva išvengė germanizacijos.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 - c-003
@@ -72,11 +78,11 @@ Tuo tarpu Mažojoje Lietuvoje ilgą laiką svetimieji buvo tik ponai, o kolonist
     Naujas lietuviškasis sąjūdis, kuris truko iki pat mūsų laikų, ten
     prasidėjo tik XIX amž., kai su germanizacijos pastangomis jau
     ėmė kovoti pasauliniai lietuviai inteligentai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
 

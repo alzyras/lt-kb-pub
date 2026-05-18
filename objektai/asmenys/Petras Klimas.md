@@ -33,7 +33,7 @@ Vokiečiams modernizuojant aneksijos ir prisijungimo planus, prireikus tam ir ok
 
 ## Teiginiai
 - t-001
-  teiginys: 'Petras Klimas 1926 m. buvo Lietuvos delegacijos Tautų Sąjungoje Ženevoje pasiuntinys.'
+  teiginys: 'Petras Klimas 1926 m. dalyvavo Lietuvos delegacijoje Tautų Sąjungoje Ženevoje kaip pasiuntinys.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -41,7 +41,7 @@ Vokiečiams modernizuojant aneksijos ir prisijungimo planus, prireikus tam ir ok
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Petras Klimas 1926 m. buvo Lietuvos delegacijos Tautų Sąjungoje Ženevoje pasiuntinys.'
+  santrauka: 'Petras Klimas 1926 m. dalyvavo Lietuvos delegacijoje Tautų Sąjungoje Ženevoje kaip pasiuntinys.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Voldemaras, neturėdamas

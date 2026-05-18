@@ -41,13 +41,13 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: 'Ritmuša buvo senovinis vaikų žaidimo ir karinės pratybos įrankis.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Ritmuša buvo senovinis jaunimo karės įrankis, kurio mokėsi nuo mažų dienų.'
   pagrindžia:
     - c-002
@@ -56,7 +56,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Ritmuša buvo senovinis vaikų žaidimo ir karinės pratybos įrankis.
+  santrauka: 'Ritmuša buvo senovinis vaikų žaidimo ir karinės pratybos įrankis.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Nuo to kiekvienas gali minėti, kas per karingumas turėjo būti tos giminės taip augusios, nesgi
@@ -69,9 +69,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: Ritmuša buvo senovinis jaunimo karės įrankis, kurio mokėsi nuo mažų dienų.
+  santrauka: 'Ritmuša buvo senovinis jaunimo karės įrankis, kurio mokėsi nuo mažų dienų.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Trumpai sakant, ritmuša buvo senovėj karės
@@ -83,7 +83,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004
 
 ## Pastabos
 

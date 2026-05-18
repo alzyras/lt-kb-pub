@@ -42,44 +42,28 @@ K. Lohmeyer minimas kaip istorikas ir autorius. Ankstesniame viešame įraše ji
 - Brockhauzo enciklopedijos straipsnis „Litauen"
 
 ## Teiginiai
-- t-001
-  teiginys: 'Lohmeyer, Gesch.'
+- t-005
+  teiginys: 'K. Lohmeyer buvo 1907 m. Gotoje išleisto veikalo „Zur Altpreussischen Geschichte, Aufsätze und Vorträge“ autorius.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'K. Lohmeyer bibliografiškai susietas su veikalu „Zur Altpreussischen Geschichte, Aufsätze und Vorträge“.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-006
+  teiginys: 'K. Lohmeyer šiame šaltinyje minimas kaip vokiečių istorikas, Brockhauzo enciklopedijos straipsnyje „Litauen“ itin aukštai vertinęs Vytautą.'
   pagrindžia:
     - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: 'K. Lohmeyer šiame šaltinyje minimas kaip vokiečių istorikas, Brockhauzo enciklopedijos straipsnyje „Litauen“ itin aukštai vertinęs Vytautą.'
-  pagrindžia:
-    - c-003
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-004
+- t-007
   teiginys: 'K. Lohmeyer priskiriamas autoriams, kurie Vytauto pasitraukimą aiškino kariuomenės susilpnėjimu ir Livonijos Ordino pavojumi.'
   pagrindžia:
-    - c-004
+    - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lohmeyer, Gesch.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    _K. Lohmeyer,_ Gesch. von Ost- und Westpreussen, I (1908; iki 1411 m.).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: Santrumpų sąrašas susieja K. Lohmeyerį su veikalu apie senąją Prūsijos istoriją.
+  santrauka: 'K. Lohmeyer buvo 1907 m. Gotoje išleisto veikalo „Zur Altpreussischen Geschichte, Aufsätze und Vorträge“ autorius.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Lohm. = Lohmeyer. Karl, Zur Altpreussischen Geschichte,
@@ -90,35 +74,35 @@ K. Lohmeyer minimas kaip istorikas ir autorius. Ankstesniame viešame įraše ji
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: K. Lohmeyeris cituojamas kaip vokiečių istorikas, itin aukštai vertinęs Vytautą.
+    - t-005
+- c-002
+  santrauka: 'K. Lohmeyer šiame šaltinyje minimas kaip vokiečių istorikas, Brockhauzo enciklopedijos straipsnyje „Litauen“ itin aukštai vertinęs Vytautą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Europoje. Vienas vokiečiu istorikas (K. Lohmeyer, Brockhau­
     zo enciklop., Litauen) sako, kad jis buvo ir vienas žymiausiųjų
     vyrų viso pasaulio istorijoje.
   citata_rodoma: ""
-  teiginio_tipas: vertinimas
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
-- c-004
-  santrauka: Lohmeyeris pateikiamas kaip vienas aiškinimo apie Vytauto pasitraukimą šalininkų.
+    - t-006
+- c-003
+  santrauka: 'K. Lohmeyer priskiriamas autoriams, kurie Vytauto pasitraukimą aiškino kariuomenės susilpnėjimu ir Livonijos Ordino pavojumi.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     (^1) ) Proch. D. W,., 148, 202, Kol. mano Vytautą pasitraukus dėl kariuo­
     menės susilpnėjimo ir dėl pavojaus iš Livonijos Ordino pusės (106 p.).
     (^2) ) Taip mano ir Lohmeyer (žiūr. 269 p.). (^3) ) Mal. 195, (^4) ) Koch. 145.
   citata_rodoma: ""
-  teiginio_tipas: interpretacija
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-007
 
 ## Ryšiai
 ### Laikotarpiai

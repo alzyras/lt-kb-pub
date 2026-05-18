@@ -23,26 +23,26 @@ Pagrindinė forma: `rėda`.
 Vartojamos formos: `ūkės rėdą`, `rėdą`.
 
 ## Teiginiai
-- t-001
+- t-005
   teiginys: '`Ūkės rėda` šiame tekste reiškia valstybės ar viešojo gyvenimo tvarką.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-006
   teiginys: 'Terminas vartojamas kalbant apie tikybos ir politinės tvarkos konfliktus.'
   pagrindžia:
     - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-003
+- t-007
   teiginys: '`Rėda` šiame tekste reiškia visuomenės ar valstybės tvarką.'
   pagrindžia:
     - c-003
     - c-004
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-004
+- t-008
   teiginys: '`Ūkės rėda` žymi senovės lietuvių santvarką.'
   pagrindžia:
     - c-003
@@ -51,7 +51,7 @@ Vartojamos formos: `ūkės rėdą`, `rėdą`.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Ūkės rėda` šiame tekste reiškia valstybės ar viešojo gyvenimo tvarką
+  santrauka: '`Ūkės rėda` šiame tekste reiškia valstybės ar viešojo gyvenimo tvarką.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Tas dar taip pat yra žinomu, jog ne vieni tokie žemės, oro ar jūrų ermyderiai blaškė ir naikino
@@ -63,9 +63,9 @@ Vartojamos formos: `ūkės rėdą`, `rėdą`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-005
 - c-002
-  santrauka: Terminas vartojamas kalbant apie tikybos ir politinės tvarkos konfliktus
+  santrauka: 'Terminas vartojamas kalbant apie tikybos ir politinės tvarkos konfliktus.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     kurių aš čia užsiėmiau^59 būdą, dabą^60 , tikybą, ūkės rėdą, karybą, prekybą ir mantą^61 , arba pinigus,
@@ -77,9 +77,9 @@ Vartojamos formos: `ūkės rėdą`, `rėdą`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-006
 - c-003
-  santrauka: `Rėda` šiame tekste reiškia visuomenės ar valstybės tvarką
+  santrauka: '`Rėda` šiame tekste reiškia visuomenės ar valstybės tvarką.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Sunku šiandien yra aiškiai ką apie senovės lietuvių ūkės rėdą parašyti, nesgi kruvinos karės,
@@ -90,10 +90,10 @@ Vartojamos formos: `ūkės rėdą`, `rėdą`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
-    - t-003
+    - t-007
+    - t-008
 - c-004
-  santrauka: `Rėda` šiame tekste reiškia visuomenės ar valstybės tvarką
+  santrauka: '`Rėda` šiame tekste reiškia visuomenės ar valstybės tvarką.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Žinoma yra, jog rėda kožnos tautos visados kėlės nuo kunigų, kaipo dievo ir svieto tarpininkų,
@@ -106,7 +106,7 @@ Vartojamos formos: `ūkės rėdą`, `rėdą`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-007
 
 ## Pastabos
 

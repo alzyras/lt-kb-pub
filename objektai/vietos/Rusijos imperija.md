@@ -20,13 +20,13 @@ Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse Rusi
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse Rusijos imperijos valdžia laikėsi 40 metų ir „pasiekė“ ne tokių rezultatų, kokių tikėjosi.'
+  teiginys: 'Rusijos imperijos valdžia 40 metų laikėsi politikos Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse, bet nepasiekė tikėtų rezultatų.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: '1905 m. pradžioje Rusijos sostinėje prasidėjusi pirmoji socialinė demokratinė revoliucija netruko pasiekti ir Lietuvos miestus.'
+  teiginys: '1905 m. pradžioje Rusijos sostinėje prasidėjusi socialinė demokratinė revoliucija netrukus pasiekė Lietuvos miestus.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -34,7 +34,7 @@ Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse Rusi
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse Rusijos imperijos valdžia laikėsi 40 metų ir „pasiekė“ ne tokių rezultatų, kokių tikėjosi.'
+  santrauka: 'Rusijos imperijos valdžia 40 metų laikėsi politikos Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse, bet nepasiekė tikėtų rezultatų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV
@@ -48,7 +48,7 @@ Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse Rusi
   pagrindžia:
     - t-001
 - c-002
-  santrauka: '1905 m. pradžioje Rusijos sostinėje prasidėjusi pirmoji socialinė demokratinė revoliucija netruko pasiekti ir Lietuvos miestus.'
+  santrauka: '1905 m. pradžioje Rusijos sostinėje prasidėjusi socialinė demokratinė revoliucija netrukus pasiekė Lietuvos miestus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1905 m. pradžioje Rusijos sostinėje prasidėjusi pirmoji socialinė de-

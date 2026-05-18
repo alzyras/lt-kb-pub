@@ -19,17 +19,17 @@ Kita vertus, jis vis dėlto pripažino tikėjimo laisvę ir protestantams ir uol
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kita vertus, jis vis dėlto pripažino tikėjimo laisvę ir protestantams ir uoliai saugojo 1573 metų Varšuvos konfederacijos akto nuostatus, nors Lenkijos katalikų Bažnyčios sinodas buvo iškeikęs visus tos konfederacijos gynėjus.'
+  teiginys: '1573 m. Varšuvos konfederacijos akto nuostatai buvo siejami su protestantų tikėjimo laisvės pripažinimu.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Renkamas karalium jis prisiekė laikytis 1573 metų Varšuvos konfederacijos, kuri garantavo, kad dėl tikėjimo niekas nebus persekiojamas.'
-  pagrindžia:
-    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Kita vertus, jis vis dėlto pripažino tikėjimo laisvę ir protestantams ir uoliai saugojo 1573 metų Varšuvos konfederacijos akto nuostatus, nors Lenkijos katalikų Bažnyčios sinodas buvo iškeikęs visus tos konfederacijos gynėjus.'
+  santrauka: '1573 m. Varšuvos konfederacijos akto nuostatai buvo siejami su protestantų tikėjimo laisvės pripažinimu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tačiau valdydamas jis visur rėmė katalikų Bažnyčią,
@@ -38,23 +38,10 @@ Kita vertus, jis vis dėlto pripažino tikėjimo laisvę ir protestantams ir uol
     protestantams ir uoliai saugojo 1573 metų Varšuvos konfede-
     racijos akto nuostatus, nors Lenkijos katalikų Bažnyčios sinodas
     buvo iškeikęs visus tos konfederacijos gynėjus.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Renkamas karalium jis prisiekė laikytis 1573 metų Varšuvos konfederacijos, kuri garantavo, kad dėl tikėjimo niekas nebus persekiojamas.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Renkamas karalium jis prisiekė laikytis 1573 metų Varšuvos konfederacijos, kuri garantavo, kad dėl tikė-
-    jimo niekas nebus persekiojamas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002

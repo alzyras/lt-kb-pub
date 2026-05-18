@@ -18,21 +18,25 @@ Kolankowski, Dzieje w.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kolankowski, Dzieje w.'
+  teiginys: 'L. Kolankowskio „Dzieje w. Ks. Litewskiego za Jagielonów“ pirmasis tomas apėmė 1377-1499 m. ir buvo išleistas 1930 m.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Kolankowski, Dzieje w.'
+  santrauka: 'L. Kolankowskio „Dzieje w. Ks. Litewskiego za Jagielonów“ pirmasis tomas apėmė 1377-1499 m. ir buvo išleistas 1930 m.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     _L. Kolankowski,_ Dzieje w. Ks. Litewskiego za Jagiel-
     lonów, I, 1377—1499 (1930);
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

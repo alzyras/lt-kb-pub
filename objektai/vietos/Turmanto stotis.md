@@ -20,23 +20,25 @@ Ji visa, nuo Šventosios upės (pajūry) iki Lenkų okupuoto Vilniaus krašto (n
 
 ## Teiginiai
 - t-001
-  teiginys: 'Ji visa, nuo Šventosios upės (pajūry) iki Lenkų okupuoto Vilniaus krašto (netoli Turmanto stoties), buvo nukaišiota gairėmis; tokia pat ji tebėra ir iki šiol.'
+  teiginys: 'Gairėmis nužymėta linija ėjo iki Lenkijos okupuoto Vilniaus krašto netoli Turmanto stoties.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Ji visa, nuo Šventosios upės (pajūry) iki Lenkų okupuoto Vilniaus krašto (netoli Turmanto stoties), buvo nukaišiota gairėmis; tokia pat ji tebėra ir iki šiol.'
+  santrauka: 'Gairėmis nužymėta linija ėjo iki Lenkijos okupuoto Vilniaus krašto netoli Turmanto stoties.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ji visa, nuo Šventosios upės (pajūry) iki Lenkų oku-
     puoto Vilniaus krašto (netoli Turmanto stoties), buvo nukai-
     šiota gairėmis; tokia pat ji tebėra ir iki šiol.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

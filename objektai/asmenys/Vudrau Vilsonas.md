@@ -19,7 +19,7 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
 
 ## Teiginiai
 - t-001
-  teiginys: 'Amerikos lietuviai paprašė prezidentą V. Vilsoną 1916 m. lapkričio 1 d. paskelbti Lietuvos karo aukų diena.'
+  teiginys: 'Amerikos lietuviai paprašė prezidentą Vudrau Vilsoną 1916 m. lapkričio 1 d. paskelbti specialia diena Lietuvos karo aukoms.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -27,7 +27,7 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Amerikos lietuviai paprašė prezidentą V. Vilsoną 1916 m. lapkričio 1 d. paskelbti Lietuvos karo aukų diena.'
+  santrauka: 'Amerikos lietuviai paprašė prezidentą Vudrau Vilsoną 1916 m. lapkričio 1 d. paskelbti specialia diena Lietuvos karo aukoms.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Amerikos lietuviai siuntė paramą karo aukoms, paprašė prezi-

@@ -56,54 +56,34 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: Sidabruotos geležinės balnakilpės pristatomos kaip Lietuvoje karių kapuose rastas radinys.
+- t-003
+  teiginys: 'Sidabruotos geležinės balnakilpės buvo rastos Lietuvoje karių kapuose.'
   pagrindžia:
     - c-001
-    - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: Šaltinio fragmentuose balnakilpės datuojamos XI-XIII a., o iliustracijos antraštėje – XI-XII a.
+- t-004
+  teiginys: 'Šaltinio fragmentuose balnakilpės datuojamos XI-XIII a., o iliustracijos antraštėje – XI-XII a.'
   pagrindžia:
     - c-001
-    - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Kūno teksto fragmentas balnakilpes datuoja XI-XIII a. ir sieja su karių kapais Lietuvoje.
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lietuvoje karių
-    kapuose rastos
-    sidabruotos
-    geležinės
-    XI-XIII a.
-    balnakilpės
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-    - t-002
-- c-002
-  santrauka: Iliustracijos antraštė balnakilpes datuoja XI-XII a. ir mini Veršvus bei Rimaisius.
+  santrauka: 'Sidabruotos geležinės balnakilpės buvo rastos Lietuvoje karių kapuose.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     p. 23, Lietuvoje karių kapuose rastos sidabruotos geležinės xI-x11 a. balnakilpės. Veršvai,
     Rimaisiai. VDKM, Artūro Užgalio nuotr.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
 
 ## Ryšiai
 ### Laikotarpiai

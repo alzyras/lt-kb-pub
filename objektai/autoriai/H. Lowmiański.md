@@ -42,50 +42,28 @@ H. Lowmiański minimas kaip istorikas ir tyrėjas; šiame tome jo darbai pasitel
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lowmiański, Studja nad początkami społeczeństwa i państwa lit., I, II (1931, 1932); W.'
+  teiginys: 'H. Lowmiański 1931–1932 m. Vilniuje išleido dviejų tomų veikalą „Studja nad początkami społeczeństwa i państwa litewskiego“.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'H. Lowmiański parašė Studja nad początkami społeczeństwa i państwa litewskiego.'
-  pagrindžia:
-    - c-002
     - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'H. Lowmiański išgarsėjo dviejų tomų veikalu apie Lietuvos visuomenės ir valstybės pradžią.'
+  pagrindžia:
+    - c-002
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
 - t-003
-  teiginys: 'H. Lovmianskis prieš keturis dešimtmečius išgarsėjo dviejų tomų veikalu apie Lietuvos visuomenės ir valstybės pradžią.'
+  teiginys: 'H. Lowmiański darė išvadą, kad 58 000 km² latvių gyvenamame plote buvo apie 145 000 gyventojų.'
   pagrindžia:
     - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-004
-  teiginys: 'H. Lowmiański kartu su H. Paszkiewicziumi minimas seniausių lietuvių sienų klausime.'
-  pagrindžia:
-    - c-005
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-005
-  teiginys: 'H. Lowmiańskio demografinės išvados cituojamos latvių gyvenamo ploto gyventojų skaičiaus klausimu.'
-  pagrindžia:
-    - c-006
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lowmiański, Studja nad początkami społeczeństwa i państwa lit., I, II (1931, 1932); W.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    _H. Lowmiański,_ Studja nad początkami społe-
-    czeństwa i państwa lit., I, II (1931, 1932); _W. Kamieniecki,_ Geneza państwa
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: Santrumpų sąrašas susieja H. Lowmiańskį su dvitomiu veikalu apie Lietuvos visuomenės ir valstybės pradžią
+  santrauka: 'H. Lowmiański 1931–1932 m. Vilniuje išleido dviejų tomų veikalą „Studja nad początkami społeczeństwa i państwa litewskiego“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     LowStud = Lowmiański, H. : Studja nad początkami społeczeństwa i
@@ -96,22 +74,9 @@ H. Lowmiański minimas kaip istorikas ir tyrėjas; šiame tome jo darbai pasitel
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: Pakartotinė bibliografinė nuoroda sustiprina Studja nad początkami społeczeństwa i państwa litewskiego priskyrimą H. Lowmiańskiui
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Lowmiański, H. : _Studja nad początkami społe­
-    czeństwa i państwa litewskiego,_ I-II, Vilnius 1931-1932.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-004
-  santrauka: H. Lovmianskis apibūdinamas kaip išgarsėjęs dvitomio veikalo autorius
+    - t-001
+- c-002
+  santrauka: 'H. Lowmiański išgarsėjo dviejų tomų veikalu apie Lietuvos visuomenės ir valstybės pradžią.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     H. Lovmianskis, kuris
@@ -124,23 +89,22 @@ H. Lowmiański minimas kaip istorikas ir tyrėjas; šiame tome jo darbai pasitel
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
-- c-005
-  santrauka: H. Lowmiańskio pavardė minima aptariant seniausių lietuvių sienų liniją
+    - t-002
+- c-003
+  santrauka: 'H. Lowmiański 1931–1932 m. Vilniuje išleido dviejų tomų veikalą „Studja nad początkami społeczeństwa i państwa litewskiego“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Yra bandoma seniausias lietuvių sienas nukelti iki
-    linijos Merkinė-Eišiškės-Šalčininkai (H. Łowmiański, H. Paszkie­
-    wicz).
+    Lowmiański, H. : _Studja nad początkami społe­
+    czeństwa i państwa litewskiego,_ I-II, Vilnius 1931-1932.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
-- c-006
-  santrauka: H. Lowmiańskio išvados cituojamos gyventojų tankumo skaičiavimui
+    - t-001
+- c-004
+  santrauka: 'H. Lowmiański darė išvadą, kad 58 000 km² latvių gyvenamame plote buvo apie 145 000 gyventojų.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     yra bandoma daryti išvadas (H. Lowmiański), jog 58.000 km^2 latvių
@@ -151,7 +115,7 @@ H. Lowmiański minimas kaip istorikas ir tyrėjas; šiame tome jo darbai pasitel
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
+    - t-003
 
 ## Ryšiai
 ### Laikotarpiai

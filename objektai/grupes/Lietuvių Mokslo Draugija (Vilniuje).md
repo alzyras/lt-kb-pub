@@ -20,13 +20,15 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas.'
+  teiginys: 'Vilniuje 1907 m. įkurta Lietuvių Mokslo Draugija siekė tirti lietuvių tautą, jos kultūrą ir kelti lietuviškąjį mokslą.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas.'
+  santrauka: 'Vilniuje 1907 m. įkurta Lietuvių Mokslo Draugija siekė tirti lietuvių tautą, jos kultūrą ir kelti lietuviškąjį mokslą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Po 1905 m. revoliucijos palengvėjo
@@ -37,10 +39,10 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas.
     įkurta Lietuvių Mokslo Draugija, kuri pasiryžo tirti
     lietuvių tautą, jos kultūrą ir kelti lietuviškąjį mokslą (ji ir dabar
     tebėra gyva ir tebeleidžia savo žurnalą Lietuvių Tautą).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

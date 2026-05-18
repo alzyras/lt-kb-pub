@@ -31,13 +31,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tais pačiais metais birželio mėn.'
+  teiginys: 'Birželio pradžioje Lozanoje vykusi konferencija svarstė propagandos organizavimo klausimus ir protestavo prieš vokiečių okupacijos žiaurumus Lietuvoje.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tais pačiais metais birželio mėn.'
+  santrauka: 'Birželio pradžioje Lozanoje vykusi konferencija svarstė propagandos organizavimo klausimus ir protestavo prieš vokiečių okupacijos žiaurumus Lietuvoje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tais pa-
@@ -46,11 +48,11 @@ Nenurodyta
     rikos. Šita konferencija tegvildeno propagandos organizacijos
     klausimus ir protestavo prieš vokiečių okupacijos žiaurumus
     Lietuvoje ir krašto naikinimą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

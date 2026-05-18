@@ -21,7 +21,7 @@ Vienbalsiai priimtas Lietuvos valstybės nepriklausomybės proklamavimo dokument
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vasario 16 Aktas skelbė, kad Lietuva yra nepriklausoma valstybė su „etnologinėmis sienomis“, tikintis teritorijos padidėjimo.'
+  teiginys: 'Vasario 16 Aktas skelbė nepriklausomą Lietuvą su „etnologinėmis sienomis“, tikintis teritorijos padidėjimo.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -29,7 +29,7 @@ Vienbalsiai priimtas Lietuvos valstybės nepriklausomybės proklamavimo dokument
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vasario 16 Aktas skelbė, kad Lietuva yra nepriklausoma valstybė su „etnologinėmis sienomis“, tikintis teritorijos padidėjimo.'
+  santrauka: 'Vasario 16 Aktas skelbė nepriklausomą Lietuvą su „etnologinėmis sienomis“, tikintis teritorijos padidėjimo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vasario 16 Aktas, skelbė,

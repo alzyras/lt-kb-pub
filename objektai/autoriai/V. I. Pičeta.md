@@ -18,22 +18,24 @@ Pičeta, Lit.-polskija unii i otnošenije k nim lit.-russk.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Pičeta, Lit.-polskija unii i otnošenije k nim lit.-russk.'
+  teiginys: 'V. I. Pičeta 1909 m. paskelbė darbą apie Lietuvos ir Lenkijos unijas bei lietuvių rusų bajorijos santykį su jomis.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Pičeta, Lit.-polskija unii i otnošenije k nim lit.-russk.'
+  santrauka: 'V. I. Pičeta 1909 m. paskelbė darbą apie Lietuvos ir Lenkijos unijas bei lietuvių rusų bajorijos santykį su jomis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     V. I. Pičeta, Lit.-polskija unii i
     otnošenije k nim lit.-russk. šliachty (Sbornik statej, posviašč. Kliučevskomu,
     1909);
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

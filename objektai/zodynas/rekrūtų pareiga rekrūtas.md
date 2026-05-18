@@ -18,21 +18,23 @@ Taip pat nepaprastai valstiečius vargino rekrūtų pareiga (vyrus paimdavo į k
 
 ## Teiginiai
 - t-001
-  teiginys: 'Taip pat nepaprastai valstiečius vargino rekrūtų pareiga (vyrus paimdavo į kariuomenę net 25 metams).'
+  teiginys: 'Rekrūtų pareiga vargino valstiečius, nes vyrus į kariuomenę paimdavo net 25 metams.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Taip pat nepaprastai valstiečius vargino rekrūtų pareiga (vyrus paimdavo į kariuomenę net 25 metams).'
+  santrauka: 'Rekrūtų pareiga vargino valstiečius, nes vyrus į kariuomenę paimdavo net 25 metams.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Taip pat nepaprastai valstiečius vargino rekrūtų pareiga (vyrus
     paimdavo į kariuomenę net 25 metams).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

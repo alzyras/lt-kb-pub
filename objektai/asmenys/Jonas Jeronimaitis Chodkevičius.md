@@ -27,19 +27,19 @@ Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas siuntė Žema
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Chodkevičius suprato tragišką dilemą: arba Lietuva susisaisto su Lenkija, arba Lietuvą užkariauja Rusija.'
+  teiginys: 'Jonas Jeronimaitis Chodkevičius pasirinko Lietuvos susisaistymą su Lenkija ir 1569 m. Liublino seime priėmė unijos idėją.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: 'Kreipdamasis į Žygimantą Augustą, Jonas Jeronimaitis Chodkevičius sakė, kad buvo priverstas nusileisti su didžiu skausmu ir širdgėla.'
+  teiginys: 'Jonas Jeronimaitis Chodkevičius, kreipdamasis į Žygimantą Augustą, teigė buvęs priverstas nusileisti su didžiu skausmu ir širdgėla.'
   pagrindžia:
     - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-004
-  teiginys: 'Chodkevičius pasiekė, kad konkretūs Lenkijos ir Lietuvos ryšių nustatymo ar net unijos sudarymo klausimai būtų sprendžiami ne Liublino seime, bet vėliau, todėl liko galimybė išsaugoti Lietuvos valstybingumą.'
+  teiginys: 'Jonas Jeronimaitis Chodkevičius pasiekė, kad Lenkijos ir Lietuvos ryšių ar unijos klausimai būtų sprendžiami po Liublino seimo.'
   pagrindžia:
     - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -61,7 +61,7 @@ Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas siuntė Žema
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Chodkevičius suprato tragišką dilemą: arba Lietuva susisaisto su Lenkija, arba Lietuvą užkariauja Rusija.'
+  santrauka: 'Jonas Jeronimaitis Chodkevičius pasirinko Lietuvos susisaistymą su Lenkija ir 1569 m. Liublino seime priėmė unijos idėją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     J. J. Chodkevičius suprato tragišką dilemą: arba Lietuva susisaisto su Len-
@@ -77,7 +77,7 @@ Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas siuntė Žema
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Kreipdamasis į Žygimantą Augustą, Jonas Jeronimaitis Chodkevičius sakė, kad buvo priverstas nusileisti su didžiu skausmu ir širdgėla.'
+  santrauka: 'Jonas Jeronimaitis Chodkevičius, kreipdamasis į Žygimantą Augustą, teigė buvęs priverstas nusileisti su didžiu skausmu ir širdgėla.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kreipda-
@@ -91,7 +91,7 @@ Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas siuntė Žema
   pagrindžia:
     - t-003
 - c-004
-  santrauka: 'Chodkevičius pasiekė, kad konkretūs Lenkijos ir Lietuvos ryšių nustatymo ar net unijos sudarymo klausimai būtų sprendžiami ne Liublino seime, bet vėliau, todėl liko galimybė išsaugoti Lietuvos valstybingumą.'
+  santrauka: 'Jonas Jeronimaitis Chodkevičius pasiekė, kad Lenkijos ir Lietuvos ryšių ar unijos klausimai būtų sprendžiami po Liublino seimo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Apgindamas LDK

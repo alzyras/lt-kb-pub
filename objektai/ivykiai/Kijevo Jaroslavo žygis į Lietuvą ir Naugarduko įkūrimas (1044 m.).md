@@ -44,51 +44,11 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: '1044 m. Kijevo Jaroslavas vėl žygiavo į Lietuvą ir pavasarį įkūrė Naugarduką.'
-  pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Autorius svarsto, kad 1040 ir 1044 m. Jaroslavo žygiai gali žymėti vieną platesnę karinę ekspediciją.'
-  pagrindžia:
-    - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+Nenurodyta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: '1044 m. Kijevo Jaroslavas vėl žygiavo į Lietuvą.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    1044 m. Jaroslavas vėl ėjęs « na Litvu » ir pavasarį įkūręs
-    Naugarduką.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: '1044 m. Kijevo Jaroslavas vėl žygiavo į Lietuvą.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    XI amž. rusų metraščiai vos du kartu tepaminėjo lietuvių ir
-    Kijevo rusų karinius konfliktus, jeigu 1040 ir 1044 m. minimi
-    Jaroslavo žygiai nereiškia tik vienos karinės ekspedicijos.
-  citata_rodoma: ''
-  teiginio_tipas: interpretacija
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
+Nenurodyta
 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XI amžius]]
-
-### Susiję objektai
-- [[objektai/grupes/Kijevo Rusia]]

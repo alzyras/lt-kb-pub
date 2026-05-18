@@ -39,14 +39,14 @@ tags:
 Abi formos pateikiamos kaip senasis prekybos žodynas, susietas su pirklių veikla.
 
 ## Teiginiai
-- t-001
-  teiginys: Vaisba reiškia prekybą.
+- t-003
+  teiginys: 'Žodis „vaisba“ reiškia prekybą.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: Vaisbūnas reiškia pirklį.
+- t-004
+  teiginys: 'Žodis „vaisbūnas“ reiškia pirklį.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -54,7 +54,7 @@ Abi formos pateikiamos kaip senasis prekybos žodynas, susietas su pirklių veik
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Vienoje vietoje tiesiogiai paaiškinamos abiejų žodžių reikšmės.
+  santrauka: 'Žodis „vaisba“ reiškia prekybą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pažymėtina, kad „visbiečiai" ir „pirkliai" senovės lietuviams buvo
@@ -67,8 +67,8 @@ Abi formos pateikiamos kaip senasis prekybos žodynas, susietas su pirklių veik
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
 
 ## Šaltiniai ir įrodymai
 

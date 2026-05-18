@@ -18,27 +18,28 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: '1—2 d. lenkai sumušė mūsų kariuomenės dalį netoli Lazdijų, spalių 3—4 d. užėmė Varėnos stotį, kur paėmė mūsų šarvuotą traukinį.'
+  teiginys: 'Spalio 1-2 d. lenkai netoli Lazdijų sumušė Lietuvos kariuomenės dalį.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1—2 d. lenkai sumušė mūsų kariuomenės dalį netoli Lazdijų, spalių 3—4 d. užėmė Varėnos stotį, kur paėmė mūsų šarvuotą traukinį.'
+  santrauka: 'Spalio 1-2 d. lenkai netoli Lazdijų sumušė Lietuvos kariuomenės dalį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pagaliau ėjo kiti nepasisekimai: spalių mėn. 1—2 d.
     lenkai sumušė mūsų kariuomenės dalį netoli Lazdijų, spalių 3—4
     d. užėmė Varėnos stotį, kur paėmė mūsų šarvuotą traukinį.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Varėna]]
-- [[objektai/daiktai/Šarvuotas traukinys]]

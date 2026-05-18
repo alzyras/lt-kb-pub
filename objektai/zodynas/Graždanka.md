@@ -40,14 +40,14 @@ Terminas nusako rusišką raidyną, kuriuo buvo mėginama spausdinti lietuviška
 Graždanka minima kaip konkreti rusų raidžių vartojimo lietuviškoje spaudoje forma, kurios nesėkmę pripažino pati Rusų administracija.
 
 ## Teiginiai
-- t-001
-  teiginys: Graždanka reiškia rusų raides, siūlytas lietuviškai spaudai.
+- t-003
+  teiginys: 'Graždanka vadintos rusų raidės, kurias lietuviai atsisakė priimti lietuviškai spaudai.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: Rusų administracija pripažino, kad lietuviai graždankos nepriėmė.
+- t-004
+  teiginys: 'Rusų administracija pripažino, kad lietuviai graždankos nepriėmė.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -55,7 +55,7 @@ Graždanka minima kaip konkreti rusų raidžių vartojimo lietuviškoje spaudoje
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Graždanka tiesiogiai paaiškinama kaip rusų raidės ir kartu konstatuojama jos nesėkmė.
+  santrauka: 'Graždanka vadintos rusų raidės, kurias lietuviai atsisakė priimti lietuviškai spaudai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet visų svarbiausias tuo reikalu palankus balsas
@@ -68,8 +68,8 @@ Graždanka minima kaip konkreti rusų raidžių vartojimo lietuviškoje spaudoje
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
 
 ## Šaltiniai ir įrodymai
 

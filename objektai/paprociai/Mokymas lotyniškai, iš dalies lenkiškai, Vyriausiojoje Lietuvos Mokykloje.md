@@ -34,38 +34,24 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Daugumas dalykų tebebuvo dėstoma lotyniškai, tik kai kurie dalykai — lenkiškai (galutinai lenkų kalba čia buvo įvesta tik 1816 m., t.'
+  teiginys: 'Vyriausiojoje Lietuvos Mokykloje dauguma dalykų tebebuvo dėstoma lotyniškai, o kai kurie - lenkiškai.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Mokykloje buvo dėstomi visi to meto universitetiniai mokslai.'
-  pagrindžia:
-    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Daugumas dalykų tebebuvo dėstoma lotyniškai, tik kai kurie dalykai — lenkiškai (galutinai lenkų kalba čia buvo įvesta tik 1816 m., t.'
+  santrauka: 'Vyriausiojoje Lietuvos Mokykloje dauguma dalykų tebebuvo dėstoma lotyniškai, o kai kurie - lenkiškai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Daugumas dalykų tebebuvo dėstoma lotyniškai, tik kai kurie daly-
     kai — lenkiškai (galutinai lenkų kalba čia buvo įvesta tik 1816 m.,
     t. y. jau universiteto laikais).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Mokykloje buvo dėstomi visi to meto universitetiniai mokslai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tuo būdu V. Mokykloje buvo dėstomi visi to meto universitetiniai mokslai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002

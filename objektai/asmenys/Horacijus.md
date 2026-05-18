@@ -31,7 +31,7 @@ Motiejaus Kazimiero Sarbievijaus poezija 1646 m. buvo išversta iš lotynų į a
 
 ## Teiginiai
 - t-001
-  teiginys: 'Europos universitetuose Motiejaus Kazimiero Sarbievijaus poezija buvo skaitoma vietoje įprasto Horacijaus.'
+  teiginys: 'Europos universitetuose Horacijus buvo įprastas skaitomas autorius, vietoje kurio skaityta Motiejaus Kazimiero Sarbievijaus poezija.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -39,7 +39,7 @@ Motiejaus Kazimiero Sarbievijaus poezija 1646 m. buvo išversta iš lotynų į a
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Europos universitetuose Motiejaus Kazimiero Sarbievijaus poezija buvo skaitoma vietoje įprasto Horacijaus.'
+  santrauka: 'Europos universitetuose Horacijus buvo įprastas skaitomas autorius, vietoje kurio skaityta Motiejaus Kazimiero Sarbievijaus poezija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     ) rėmėsi ne tik Sorbonos, bet ir

@@ -27,7 +27,7 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Birželį valstiečiai liaudininkai su socialdemokratais pirmą kartą sudarė kairės valdančiąją koaliciją.'
+  teiginys: 'Birželį valstiečiai liaudininkai ir socialdemokratai pirmą kartą suformavo kairės valdančiąją koaliciją.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -39,13 +39,13 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-004
-  teiginys: 'Kairė laikėsi liaudininko M. Sleževičiaus šūkio, kad kova eis tol, kol bus sušauktas Seimas.'
+  teiginys: 'Kairė laikėsi liaudininko M. Sleževičiaus šūkio, kad kova tęsis, kol bus sušauktas Seimas.'
   pagrindžia:
     - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-005
-  teiginys: 'Valstiečių liaudininkų ir krikščionių demokratų lyderiai pradėjo tartis dėl bendros programos.'
+  teiginys: 'Krikščionių demokratų ir valstiečių liaudininkų lyderiai pradėjo tartis dėl bendros programos parengimo.'
   pagrindžia:
     - c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -79,7 +79,7 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Birželį valstiečiai liaudininkai su socialdemokratais pirmą kartą sudarė kairės valdančiąją koaliciją.'
+  santrauka: 'Birželį valstiečiai liaudininkai ir socialdemokratai pirmą kartą suformavo kairės valdančiąją koaliciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Naują valdančiąją koaliciją birželį pirmą kartą suformavo kairė –
@@ -108,7 +108,7 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
   pagrindžia:
     - t-003
 - c-004
-  santrauka: 'Kairė laikėsi liaudininko M. Sleževičiaus šūkio, kad kova eis tol, kol bus sušauktas Seimas.'
+  santrauka: 'Kairė laikėsi liaudininko M. Sleževičiaus šūkio, kad kova tęsis, kol bus sušauktas Seimas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau opozicijai reikalaujant neatidėliojant sudaryti tautos pasi-
@@ -124,7 +124,7 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
   pagrindžia:
     - t-004
 - c-005
-  santrauka: 'Valstiečių liaudininkų ir krikščionių demokratų lyderiai pradėjo tartis dėl bendros programos.'
+  santrauka: 'Krikščionių demokratų ir valstiečių liaudininkų lyderiai pradėjo tartis dėl bendros programos parengimo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Besąlyginis ulti-

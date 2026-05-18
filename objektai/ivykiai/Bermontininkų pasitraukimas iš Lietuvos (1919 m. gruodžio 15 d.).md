@@ -29,29 +29,10 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Nugalėti bermontininkai jau nebesipriešino ir, santarvininkių spiriami, ėmė kraustytis.'
-  pagrindžia:
-    - c-001
+Nenurodyta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Nugalėti bermontininkai jau nebesipriešino ir, santarvininkių spiriami, ėmė kraustytis.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Nugalėti bermontininkai jau nebesipriešino ir, san-
-    tarvininkių spiriami, ėmė kraustytis. Mūsų kariuomenė ly-
-    dėjo juos ir žiūrėjo, kad jų būriai neiškryptų toli iš kelio
-    ir kad neplėštų gyventojų. Šitaip jie buvo palydėti per
-    visą Žemaitiją, ir 1919 m. gruodžio 15 d. paskutinės jų dalys
-    perėjo buvusią Vokietijos sieną.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
+Nenurodyta
 
 ## Ryšiai
 ### Laikotarpiai

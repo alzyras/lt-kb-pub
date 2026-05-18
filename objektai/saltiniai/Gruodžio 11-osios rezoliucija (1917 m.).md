@@ -21,7 +21,7 @@ Oberostas, rezidavęs Kaune, norimos rezoliucijos projektą įteikė Tarybos pre
 
 ## Teiginiai
 - t-001
-  teiginys: 'Oberostas, rezidavęs Kaune, norimos rezoliucijos projektą įteikė Tarybos prezidiumui, kuris, kiek pataisęs, grąžino ją karinei administracijai gruodžio 11 dieną kaip priimtą.'
+  teiginys: 'Gruodžio 11-osios rezoliucijos projektą Oberostas pateikė Tarybos prezidiumui, kuris jį pataisė ir grąžino karinei administracijai kaip priimtą.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -37,7 +37,7 @@ Oberostas, rezidavęs Kaune, norimos rezoliucijos projektą įteikė Tarybos pre
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Oberostas, rezidavęs Kaune, norimos rezoliucijos projektą įteikė Tarybos prezidiumui, kuris, kiek pataisęs, grąžino ją karinei administracijai gruodžio 11 dieną kaip priimtą.'
+  santrauka: 'Gruodžio 11-osios rezoliucijos projektą Oberostas pateikė Tarybos prezidiumui, kuris jį pataisė ir grąžino karinei administracijai kaip priimtą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1918 metų Vasario 16 Aktas

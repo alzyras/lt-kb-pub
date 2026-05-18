@@ -20,26 +20,4 @@ tags:
 Lietuvai liko sukilimo inscenizacijos scenarijus.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Lietuvai liko sukilimo inscenizacijos scenarijus.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Lietuvai liko sukilimo inscenizacijos scenarijus.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tik Rytprūsių lietuvių aktyvistai pasisakė už susijun-
-    gimą su Lietuva tautinės kultūros ir kalbos išsaugojimo labui, tikėdamiesi
-    gauti gerus postus administracijoje. Lietuvai liko sukilimo inscenizacijos
-    scenarijus.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001

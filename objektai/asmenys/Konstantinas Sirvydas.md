@@ -18,7 +18,7 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
 
 ## Teiginiai
 - t-001
-  teiginys: 'Konstantino Sirvydo veikalas „Trijų kalbų žodynas“ pasirodė 1620 m.'
+  teiginys: 'Konstantino Sirvydo veikalas „Trijų kalbų žodynas“ datuojamas 1620 m.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -26,7 +26,7 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Konstantino Sirvydo veikalas „Trijų kalbų žodynas“ pasirodė 1620 m.'
+  santrauka: 'Konstantino Sirvydo veikalas „Trijų kalbų žodynas“ datuojamas 1620 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Iškalbin-

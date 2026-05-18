@@ -47,13 +47,13 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: 'Moterys ir vyrai avėjo rezginėmis arba vyženomis, o vyrai kojas vyniodavo autais, moterys su žekėmis.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Vyženos buvo toks svarbus daiktas, kad vaikai turėjo mokėti jas vyžti.'
   pagrindžia:
     - c-002
@@ -62,7 +62,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Moterys ir vyrai avėjo rezginėmis arba vyženomis, o vyrai kojas vyniodavo autais, moterys su žekėmis.
+  santrauka: 'Moterys ir vyrai avėjo rezginėmis arba vyženomis, o vyrai kojas vyniodavo autais, moterys su žekėmis.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Motriškųjų avalai buvo, kaip jei vyriškųjų, rezginės^336 ar vyženos, tiktai vyrai vilnonais ar
@@ -73,9 +73,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: Vyženos buvo toks svarbus daiktas, kad vaikai turėjo mokėti jas vyžti.
+  santrauka: 'Vyženos buvo toks svarbus daiktas, kad vaikai turėjo mokėti jas vyžti.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Ne vien didieji ir pusvaikiai buvo taip skudriais ir veikliais, bet dar mažieji vaikai, apsuk namus
@@ -89,7 +89,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004
 
 ## Pastabos
 

@@ -21,13 +21,13 @@ Pagrindinė forma: `nevalninkai`.
 Vartojamos formos: `nevalninkais`, `skolininkais`.
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: '`Nevalninkai` šiame tekste reiškia karo belaisvius ar vergais paverstus žmones.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Terminas siejamas su pardavimu į vergus ir skolų neįvykdymu.'
   pagrindžia:
     - c-001
@@ -37,7 +37,7 @@ Vartojamos formos: `nevalninkais`, `skolininkais`.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Nevalninkai` šiame tekste reiškia karo belaisvius ar vergais paverstus žmones
+  santrauka: '`Nevalninkai` šiame tekste reiškia karo belaisvius ar vergais paverstus žmones.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Lygta dalia vertęsi karės
@@ -49,10 +49,10 @@ Vartojamos formos: `nevalninkais`, `skolininkais`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
 - c-002
-  santrauka: Terminas siejamas su pardavimu į vergus ir skolų neįvykdymu
+  santrauka: 'Terminas siejamas su pardavimu į vergus ir skolų neįvykdymu.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Lygia dalia skolininkus, kurie neužmokėjo ant rako^1405 savo skolos, paliko vergais tų, kuriems skolos
@@ -64,7 +64,7 @@ Vartojamos formos: `nevalninkais`, `skolininkais`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004
 
 ## Pastabos
 

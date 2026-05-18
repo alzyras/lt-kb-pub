@@ -33,21 +33,21 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kliūčių akademijai kurti atsirado pačioje Lietuvoje.'
+  teiginys: 'Vilniaus akademijos įkūrimui priešinosi Lietuvos didikai protestantai, o Radvila ir Valavičius iš pradžių atsisakė prispausti privilegijos antspaudą.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Pirmuoju akademijos rektorium buvo paskirtas mozūras, ir tada jau žinomas, o vėliau dar labiau pragarsėjęs teologas, rašytojas ir pamokslininkas Petras Skarga.'
+  teiginys: 'Pirmuoju Vilniaus akademijos rektoriumi buvo paskirtas teologas, rašytojas ir pamokslininkas Petras Skarga.'
   pagrindžia:
     - c-002
-- t-003
-  teiginys: 'Todėl kai 1578 m. Vilniaus jėzuitai per vysk.'
-  pagrindžia:
-    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kliūčių akademijai kurti atsirado pačioje Lietuvoje.'
+  santrauka: 'Vilniaus akademijos įkūrimui priešinosi Lietuvos didikai protestantai, o Radvila ir Valavičius iš pradžių atsisakė prispausti privilegijos antspaudą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Kliūčių** akademijai kurti atsirado pačioje Lietuvoje. Jos įkū-
@@ -56,44 +56,28 @@ Nenurodyta
     privilegijoje valstybinį antspaudą. Galingasis Radvila nenusileido.
     Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vice-
     kanclerio urėdas, nusileido ir prispaudė antspaudą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Pirmuoju akademijos rektorium buvo paskirtas mozūras, ir tada jau žinomas, o vėliau dar labiau pragarsėjęs teologas, rašytojas ir pamokslininkas Petras Skarga.'
+  santrauka: 'Pirmuoju Vilniaus akademijos rektoriumi buvo paskirtas teologas, rašytojas ir pamokslininkas Petras Skarga.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pirmuoju akademijos rektorium buvo paskirtas mozūras,
     ir tada jau žinomas, o vėliau dar labiau pragarsėjęs teologas,
     rašytojas ir pamokslininkas Petras Skarga. Akademija
     greit iškilo ir ilgą laiką buvo centralinė Lietuvos švietimo įstaiga.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Todėl kai 1578 m. Vilniaus jėzuitai per vysk.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Todėl kai 1578 m. Vilniaus jėzuitai per vysk. Protasevičių ir J. Radvilą paprašė jį leisti
-    įkurti Vilniuje akademiją, Stp. Batoras labai mielai sutiko ir
-    davė privilegijos raštą, kurį jis antrą kartą iškilmingai patvirtino
-    atvykęs į Lietuvą (1579 m.). Netrukus akademijos įkūrimą pa-
-    tvirtino ir popiežius.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai

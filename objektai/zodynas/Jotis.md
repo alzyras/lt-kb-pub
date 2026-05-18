@@ -20,13 +20,13 @@ Pagrindinė forma: `jotis`.
 Vartojamos formos: `joties`.
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: '`Jotis` šiame tekste reiškia raitininkų kiekį arba kavaleriją.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Terminas vartojamas kaip karių skaičiavimo vienetas.'
   pagrindžia:
     - c-001
@@ -35,7 +35,7 @@ Vartojamos formos: `joties`.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Jotis` šiame tekste reiškia raitininkų kiekį arba kavaleriją
+  santrauka: '`Jotis` šiame tekste reiškia raitininkų kiekį arba kavaleriją.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Jei priminsim patį didumą šeimynos Lietuvos ūkės, tiktai 13 ir 14 amžiuje buvusį, tad aiškiau dar
@@ -49,8 +49,9 @@ Vartojamos formos: `joties`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
+
 ## Pastabos
 
 - Formos tekste yra linksniuotos, bet reikšmė iš skaičių ir aiškinimo aiški.

@@ -19,7 +19,7 @@ Kilmės iš romėnų teorija, susipynusi su lotynų – „romėnų“ kalbos va
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kilmės iš romėnų teorija ir lotynų kaip „romėnų“ kalbos vartojimas XVII–XVIII a. buvo atsvara savaiminiam lenkėjimui.'
+  teiginys: 'Kilmės iš romėnų teorija ir lotynų kalbos vartojimas XVII–XVIII a. buvo atsvara savaiminiam lenkėjimui.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -27,7 +27,7 @@ Kilmės iš romėnų teorija, susipynusi su lotynų – „romėnų“ kalbos va
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kilmės iš romėnų teorija ir lotynų kaip „romėnų“ kalbos vartojimas XVII–XVIII a. buvo atsvara savaiminiam lenkėjimui.'
+  santrauka: 'Kilmės iš romėnų teorija ir lotynų kalbos vartojimas XVII–XVIII a. buvo atsvara savaiminiam lenkėjimui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kilmės iš

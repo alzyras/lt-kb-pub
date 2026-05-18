@@ -19,17 +19,17 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Įkurtos Halės seminarijos reikalams docentas Haackas 1730 m. išleido lietuvišką žodyną ir gramatiką, o tėvas ir sūnus Rugiai (Pilypas ir Povilas) išleido moksliškų raštų, keliančių lietuvių kalbos gražumą, ir paskelbė keletą vokiškai išverstų lietuvių.'
+  teiginys: 'Docentas Fr. Haackas 1730 m. Halės seminarijos reikalams išleido lietuvišką žodyną ir gramatiką.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Haacko 1730 m. žodynas.'
-  pagrindžia:
-    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Įkurtos Halės seminarijos reikalams docentas Haackas 1730 m. išleido lietuvišką žodyną ir gramatiką, o tėvas ir sūnus Rugiai (Pilypas ir Povilas) išleido moksliškų raštų, keliančių lietuvių kalbos gražumą, ir paskelbė keletą vokiškai išverstų lietuvių.'
+  santrauka: 'Docentas Fr. Haackas 1730 m. Halės seminarijos reikalams išleido lietuvišką žodyną ir gramatiką.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Įkurtos Halės seminarijos
@@ -40,23 +40,10 @@ tags:
     lietuvių kalbos gražumą, ir paskelbė ke-
     letą vokiškai išverstų lietuvių liaudies
     dainelių.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Haacko 1730 m. žodynas.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Fr. Haacko 1730 m.
-    žodynas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002

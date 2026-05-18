@@ -30,7 +30,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Keturi Lietuvos komunistų partijos (LKP) vadovai nuteisti mirties bausme ir po dešimt dienų nuo perversmo pradžios sušaudyti – tai turėjo reikšti, kad tikrieji kaltininkai nubausti, nors opozicinės partijos komunizmo pavojaus nematė.'
+  teiginys: 'Po 1926 m. perversmo keturi LKP vadovai buvo nuteisti mirties bausme ir sušaudyti praėjus dešimčiai dienų nuo perversmo pradžios.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -38,7 +38,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Keturi Lietuvos komunistų partijos (LKP) vadovai nuteisti mirties bausme ir po dešimt dienų nuo perversmo pradžios sušaudyti – tai turėjo reikšti, kad tikrieji kaltininkai nubausti, nors opozicinės partijos komunizmo pavojaus nematė.'
+  santrauka: 'Po 1926 m. perversmo keturi LKP vadovai buvo nuteisti mirties bausme ir sušaudyti praėjus dešimčiai dienų nuo perversmo pradžios.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Keturi

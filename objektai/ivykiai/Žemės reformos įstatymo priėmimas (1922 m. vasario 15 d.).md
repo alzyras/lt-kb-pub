@@ -47,31 +47,31 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-006
+- t-011
   teiginys: '1922 m. vasario 15 d. Steigiamasis Seimas priėmė pagrindinį Žemės reformos įstatymą.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-007
-  teiginys: 'Žemės reformos įstatymas į Valstybinį žemės fondą įtraukė valstybinę, dalį privačios ir bažnytinių institucijų žemės.'
+- t-012
+  teiginys: 'Žemės reformos įstatymas į Valstybinį žemės fondą paėmė valstybinę žemę ir didesnę nei 80 ha privačią bei bažnytinių institucijų žemę.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-008
+- t-013
   teiginys: 'Pirmiausia žemė buvo skiriama kariams savanoriams, bežemiams, mažažemiams valstiečiams, kaimo amatininkams ir kai kurioms įstaigoms.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-009
+- t-014
   teiginys: '1922 m. vasario 15 d. Steigiamasis Seimas krikščionių demokratų balsais priėmė pagrindinį Žemės reformos įstatymą.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-010
+- t-015
   teiginys: 'Pirmiausia žemės gavo kariai savanoriai, bežemiai ir mažažemiai (turėję mažiau kaip 10 ha) valstiečiai, kaimo amatininkai, kai kurios valstybinės ir visuomeninės įstaigos.'
   pagrindžia:
     - c-002
@@ -96,9 +96,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-006
-    - t-007
-    - t-009
+    - t-011
+    - t-012
+    - t-014
 - c-002
   santrauka: 'Pirmiausia žemė buvo skiriama kariams savanoriams, bežemiams, mažažemiams valstiečiams, kaimo amatininkams ir kai kurioms įstaigoms.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -112,8 +112,8 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-008
-    - t-010
+    - t-013
+    - t-015
 
 ## Ryšiai
 ### Teminiai klasteriai

@@ -33,7 +33,7 @@ Griūvant Versalio sistemos postulatams, Tautų Sąjungai nebegarantuojant jos n
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lietuva 1939 m. ratifikavo neutralumo įstatymą, parengtą Baltijos valstybėms nebeturint pasirinkimo dėl saugumo politikos.'
+  teiginys: 'Tautų Sąjungos Statuto 16 straipsnis galėjo reikalauti leisti užsienio kariuomenėms kirsti Baltijos valstybių teritoriją.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -43,7 +43,7 @@ Griūvant Versalio sistemos postulatams, Tautų Sąjungai nebegarantuojant jos n
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Lietuva 1939 m. ratifikavo neutralumo įstatymą, parengtą Baltijos valstybėms nebeturint pasirinkimo dėl saugumo politikos.'
+  santrauka: 'Tautų Sąjungos Statuto 16 straipsnis galėjo reikalauti leisti užsienio kariuomenėms kirsti Baltijos valstybių teritoriją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Neutralumo politika ir

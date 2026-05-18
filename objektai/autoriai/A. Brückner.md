@@ -40,61 +40,27 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
 
 ## Teiginiai
 - t-001
-  teiginys: 'Brückner, Starożytna Litwa (1904) ;.'
+  teiginys: 'A. Brücknerio veikalas „Dzieje kultury polskiej“ 1931 m. išėjo Krokuvoje.'
   pagrindžia:
     - c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Al. Brückner priskiriamas istorikų kartai.'
+  teiginys: 'Al. Brückner pagonių lietuvių kultūrą laikė gana žema.'
   pagrindžia:
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: 'A. Brückner parašė Dzieje kultury polskiej pirmą tomą.'
+  teiginys: 'Dzieje kultury polskiej pirmas tomas šiame šaltinyje cituojamas dėl skyriaus apie lietuvių senovinę kultūrą.'
   pagrindžia:
     - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-004
-  teiginys: 'Al. Brückner pagonių lietuvių kultūrą laikė gana žema.'
-  pagrindžia:
-    - c-004
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-005
-  teiginys: 'Dzieje kultury polskiej pirmas tomas šiame šaltinyje cituojamas dėl skyriaus apie lietuvių senovinę kultūrą.'
-  pagrindžia:
-    - c-005
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Brückner, Starożytna Litwa (1904) ;.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    _A. Brückner,_ Sta-
-    rożytna Litwa (1904) ;
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: Al. Brückner minimas tarp istorikų kartos atstovų
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    istorikų kartos (Al. Brückner, Fr. Papée).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: Bibliografinė nuoroda susieja A. Brückner su Dzieje kultury polskiej
+  santrauka: 'A. Brücknerio veikalas „Dzieje kultury polskiej“ 1931 m. išėjo Krokuvoje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Brückner, A. : _Dzieje
@@ -105,9 +71,9 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
-- c-004
-  santrauka: Al. Brückner pristatomas kaip kritiškai vertinęs pagonių lietuvių kultūrą
+    - t-001
+- c-002
+  santrauka: 'Al. Brückner pagonių lietuvių kultūrą laikė gana žema.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Bet perdėm kritiški kultūros istorikai (pvz., Al. Brückner)
@@ -121,9 +87,9 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
-- c-005
-  santrauka: Nurodoma, kad Dzieje kultury polskiej cituojamas lietuvių senovinės kultūros skyrius
+    - t-002
+- c-003
+  santrauka: 'Dzieje kultury polskiej pirmas tomas šiame šaltinyje cituojamas dėl skyriaus apie lietuvių senovinę kultūrą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     (^3) **Pvz., Al. Brückner :** **_Dzieje kultury polskiej_** **, I (skyrius apie lietuvių
@@ -134,7 +100,7 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
+    - t-003
 
 ## Ryšiai
 ### Laikotarpiai

@@ -33,21 +33,7 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Traidenis turėjo brolių ir sūnų, tad greičiausiai po jo Lietuvą valdė arba jo brolis arba sūnus.'
-  pagrindžia:
-    - c-001
+Nenurodyta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Traidenis turėjo brolių ir sūnų, tad greičiausiai po jo Lietuvą valdė arba jo brolis arba sūnus.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Traidenis turėjo brolių ir sūnų, tad greičiausiai po jo Lietuvą valdė arba jo brolis arba sūnus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
+Nenurodyta

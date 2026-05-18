@@ -54,36 +54,14 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginys: 'Kol Batoras įsiviešpatavo, lenkai sušaukė net keletą seimų, tačiau lietuviai nė viename iš jų nedalyvavo; sušaukę savo atskirą seimą Gardine, jie siūlė lenkams panaikinti rinkimus, t.'
   pagrindžia:
     - c-003
-- t-004
-  teiginys: 'XVIII amž. jis ėmė rinktis tik Vilniuje ir Gardine.'
-  pagrindžia:
-    - c-004
 - t-005
-  teiginys: 'Stp. Batoras mėgo Lietuvoje medžioti ir gyventi; dažniausiai gyvendavo Gardine, kur atnaujino senąją pilį (iš dalies jis čia gyvendavo dėl to, kad nereikėtų gyventi kartu su savo sena žmona Ona).'
+  teiginys: 'Steponas Batoras dažniausiai gyvendavo Gardine, kur atnaujino senąją pilį ir 1586 m. gruodžio 12 d. mirė.'
   pagrindžia:
     - c-005
 - t-006
   teiginys: 'Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karolio Katkevičiaus fundacija), Gardine (Smolensko vyskupo Isaikovskio ir kt.'
   pagrindžia:
     - c-006
-- t-008
-  teiginys: '1376 m. Vytautas jau kaip Gardino kunigaikštis dalyvavo žygyje prieš lenkus.'
-  pagrindžia:
-    - c-008
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-009
-  teiginys: 'Vytautas Gardine rėmė dominikonus ir pranciškonus, skirdamas jiems donacijas ir bažnyčias.'
-  pagrindžia:
-    - c-009
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-010
-  teiginys: '1429 m. rugsėjo 29 d. Vytautas Gardine priėmė lenkų delegaciją savo dvare.'
-  pagrindžia:
-    - c-010
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -133,21 +111,8 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-- c-004
-  santrauka: 'XVIII amž. jis ėmė rinktis tik Vilniuje ir Gardine.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    XVIII
-    amž. jis ėmė rinktis tik Vilniuje ir Gardine.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
 - c-005
-  santrauka: 'Stp. Batoras mėgo Lietuvoje medžioti ir gyventi; dažniausiai gyvendavo Gardine, kur atnaujino senąją pilį (iš dalies jis čia gyvendavo dėl to, kad nereikėtų gyventi kartu su savo sena žmona Ona).'
+  santrauka: 'Steponas Batoras dažniausiai gyvendavo Gardine, kur atnaujino senąją pilį ir 1586 m. gruodžio 12 d. mirė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Stp. Batoras mėgo
@@ -188,54 +153,6 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
-- c-008
-  santrauka: Citata tiesiogiai apibrėžia Vytautą kaip Gardino kunigaikštį 1376 m.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tokiu nuolatinių kovų laiku augo Vytautas savo tėvo dva­
-    re Trakuose, todėl ir jo auklėjime turėjo vyrauti kariški dalykai,
-    ir užtat nenuostabu, kad jis labai anksti (1368 m.) pradeda
-    dalyvauti įvairiuose karo žygiuose: 1368 ir 1372 metais į Mask­
-    vos žemes; 1376 metais, jau kaip Gardino‘kunigaikštis, jis da­
-    lyvauja kartu žygyje prieš lenkus.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-008
-- c-009
-  santrauka: Citata rodo Gardiną kaip vieną iš Vytauto religinės paramos centrų.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kaune ir
-    Ašmenoje, po nenusisekusio Vorsklos mūšio, įkūrė vienuolynus
-    pranciškonams; Breste įsteigė vienuolyną augustinijonams;
-    juos taip pat gausiai apdovanojo Medininkuose (Viln.) ir Pane­
-    munėje; domininkonus parėmė donacijomis Lucke, Gardine ir
-    Naugardėlyje; pranciškonams pastatė jau minėtas bažnyčias
-    Kaune, Gardine, Pinske, Drahočyne.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-009
-- c-010
-  santrauka: Citata tiksliai datuoja Gardiną kaip Vytauto dvaro ir derybų vietą.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tuos sve­
-    čius Vytautas priėmė savo dvare, Gardine (1429. IX. 29).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-010
 
 ## Ryšiai
 ### Laikotarpiai
@@ -246,4 +163,3 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
 
 ### Susiję objektai
 - [[objektai/vietos/Brasta]]
-- [[objektai/vietos/Kaunas]]

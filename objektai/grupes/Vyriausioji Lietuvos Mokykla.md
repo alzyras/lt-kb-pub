@@ -19,38 +19,42 @@ Tokia Vyriausiąja Lietuvos Mokykla buvo pavadinta buvusi jėzuitų Vilniaus aka
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tokia Vyriausiąja Lietuvos Mokykla buvo pavadinta buvusi jėzuitų Vilniaus akademija.'
+  teiginys: 'Vyriausiąja Lietuvos Mokykla buvo pavadinta buvusi jėzuitų Vilniaus akademija.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Mokykloje buvo dėstomi visi to meto universitetiniai mokslai.'
+  teiginys: 'Vyriausiojoje Lietuvos Mokykloje buvo dėstomi visi to meto universitetiniai mokslai.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tokia Vyriausiąja Lietuvos Mokykla buvo pavadinta buvusi jėzuitų Vilniaus akademija.'
+  santrauka: 'Vyriausiąja Lietuvos Mokykla buvo pavadinta buvusi jėzuitų Vilniaus akademija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tokia Vyriausiąja
     Lietuvos Mokykla buvo pavadinta buvusi jėzuitų Vil-
     niaus akademija.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Mokykloje buvo dėstomi visi to meto universitetiniai mokslai.'
+  santrauka: 'Vyriausiojoje Lietuvos Mokykloje buvo dėstomi visi to meto universitetiniai mokslai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     V. Mokykloje buvo dėstomi visi to meto universitetiniai mokslai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

@@ -21,7 +21,7 @@ Mickevičiaus, J.
 
 ## Teiginiai
 - t-001
-  teiginys: 'A. Mickevičiaus kūryba turėjo didelės reikšmės lietuvių tautinės savimonės plėtotei.'
+  teiginys: 'A. Mickevičiaus kūryba kartu su J. Kraševskio kūryba turėjo reikšmės lietuvių tautinės savimonės plėtotei.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -29,7 +29,7 @@ Mickevičiaus, J.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'A. Mickevičiaus kūryba turėjo didelės reikšmės lietuvių tautinės savimonės plėtotei.'
+  santrauka: 'A. Mickevičiaus kūryba kartu su J. Kraševskio kūryba turėjo reikšmės lietuvių tautinės savimonės plėtotei.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Didžiulės reikšmės lietuvių tautinės savimonės plėtotei, plačiųjų lietu-

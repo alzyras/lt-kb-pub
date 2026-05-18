@@ -29,7 +29,7 @@ Siekiant sutramdyti antivalstybinę veiklą, 1934 m. vasario 8 d. priimtas Tauta
 
 ## Teiginiai
 - t-001
-  teiginys: '1934 m. vasario 8 d. priimtas Tautai ir valstybei saugoti įstatymas numatė bausti už lietuvių tautos, vyriausybės ir valstybinių ženklų niekinimą.'
+  teiginys: '1934 m. vasario 8 d. Tautai ir valstybei saugoti įstatymas numatė bausti už lietuvių tautos, Lietuvos vyriausybės ir valstybinių ženklų niekinimą.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -39,7 +39,7 @@ Siekiant sutramdyti antivalstybinę veiklą, 1934 m. vasario 8 d. priimtas Tauta
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: '1934 m. vasario 8 d. priimtas Tautai ir valstybei saugoti įstatymas numatė bausti už lietuvių tautos, vyriausybės ir valstybinių ženklų niekinimą.'
+  santrauka: '1934 m. vasario 8 d. Tautai ir valstybei saugoti įstatymas numatė bausti už lietuvių tautos, Lietuvos vyriausybės ir valstybinių ženklų niekinimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Siekiant sutramdyti antivalstybinę veiklą, 1934 m. vasario 8 d. priim-

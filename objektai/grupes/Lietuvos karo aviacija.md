@@ -19,7 +19,7 @@ Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, buvęs Lie
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lietuvos karo aviacijos vadas Antanas Gustaitis sukonstravo ANBO lėktuvų seriją ir pavadino ją pagal žodžių „Antanas nori būti ore“ pirmąsias raides.'
+  teiginys: 'Nuo 1934 m. Lietuvos karo aviacijai vadovavęs Antanas Gustaitis sukonstravo ANBO lėktuvų seriją.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -27,7 +27,7 @@ Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, buvęs Lie
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lietuvos karo aviacijos vadas Antanas Gustaitis sukonstravo ANBO lėktuvų seriją ir pavadino ją pagal žodžių „Antanas nori būti ore“ pirmąsias raides.'
+  santrauka: 'Nuo 1934 m. Lietuvos karo aviacijai vadovavęs Antanas Gustaitis sukonstravo ANBO lėktuvų seriją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis,

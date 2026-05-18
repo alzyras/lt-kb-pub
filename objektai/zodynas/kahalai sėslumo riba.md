@@ -20,7 +20,7 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Rusijos imperijoje žydams buvo įvesta sėslumo riba ir uždrausta keltis į abi sostines.'
+  teiginys: 'Žydams buvo įvesta sėslumo riba, draudusi keltis į abi Rusijos sostines, tačiau ji netaikyta kvalifikuotiems ir išsilavinusiems žydams.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -34,7 +34,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Rusijos imperijoje žydams buvo įvesta sėslumo riba ir uždrausta keltis į abi sostines.'
+  santrauka: 'Žydams buvo įvesta sėslumo riba, draudusi keltis į abi Rusijos sostines, tačiau ji netaikyta kvalifikuotiems ir išsilavinusiems žydams.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Žydams uždrausta verstis žemės ūkiu, įvesta sėslumo riba, neleidžiama

@@ -35,7 +35,7 @@ Tas pats aprašyta vėlesniame MaskvosTverės kilmės Nikono metraštyje (susiju
 - Tas pats aprašyta vėlesniame MaskvosTverės kilmės Nikono metraštyje (susijusiame su Algirdo palikuonimis Belskiais).
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Tas pats aprašyta vėlesniame MaskvosTverės kilmės Nikono metraštyje (susijusiame su Algirdo palikuonimis Belskiais).'
   pagrindžia:
     - c-001
@@ -43,18 +43,29 @@ Tas pats aprašyta vėlesniame MaskvosTverės kilmės Nikono metraštyje (susiju
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
   santrauka: 'Tas pats aprašyta vėlesniame MaskvosTverės kilmės Nikono metraštyje (susijusiame su Algirdo palikuonimis Belskiais).'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Tas pats aprašyta vė-
+    Mėlynųjų Vandenų įvykių pagrindi-
+    niai šaltiniai: žinios xv a. pirmosios pusės
+    rusų Tverės sąvade - Rogožos metraštyje
+    prieš 6871 (1363) m. sakoma, kad rudenį
+    Algirdas „Mėlynuosius Vandenis ir Baltąją
+    pakrantę nukariavo“. Tas pats aprašyta vė-
     lesniame Maskvos- Tverės kilmės Nikono
     metraštyje (susijusiame su Algirdo pali-
-    kuonimis Belskiais).
+    kuonimis Belskiais). Trumpojoje Lietuvos
+    metraščių redakcijoje (xv a. 4-5 de-
+    šimtmečiai) įrašytas „Pasakojimas apie
+    Podolę“ - plačiausiai kalbantis šaltinis
+    šia tema.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: 'Tiesioginė šio veikalo citata apie šaltinio panaudojimą.'
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

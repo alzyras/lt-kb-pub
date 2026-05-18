@@ -18,7 +18,7 @@ Dauguma kaltinamųjų sakė, kad žavisi nacizmu, Klaipėdą laiko Vokietijos da
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kaltinamieji teigė, kad nurodymus jiems davė nacių vadas Valteris R. Hesas, Ėrichas Kochas ir Vokietijos konsulatas Klaipėdoje.'
+  teiginys: 'Kaltinamieji teigė, kad nacių vadas Valteris R. Hesas jiems davė nurodymus dėl veiklos Klaipėdoje.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -26,7 +26,7 @@ Dauguma kaltinamųjų sakė, kad žavisi nacizmu, Klaipėdą laiko Vokietijos da
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kaltinamieji teigė, kad nurodymus jiems davė nacių vadas Valteris R. Hesas, Ėrichas Kochas ir Vokietijos konsulatas Klaipėdoje.'
+  santrauka: 'Kaltinamieji teigė, kad nacių vadas Valteris R. Hesas jiems davė nurodymus dėl veiklos Klaipėdoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Dauguma kaltinamųjų sakė,

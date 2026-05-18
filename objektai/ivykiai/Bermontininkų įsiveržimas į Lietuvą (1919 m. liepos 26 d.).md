@@ -30,17 +30,21 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: '1919 m. liepos mėn.'
+  teiginys: '1919 m. liepos 26 d. ties Kuršėnais iš Latvijos į Lietuvos teritoriją įžengė stipri jungtinė vokiečių ir rusų kariuomenė.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: '1919 m. spalių mėnesį, kai šiaurinėje Lietuvos dalyje dar nebuvo mūsų kariuomenės, bermontininkai užėmė Šiaulius, Biržus, Linkuvą, Radviliškį ir pradėjo rodyti aiškų nepalankumą Lietuvai.'
+  teiginys: '1919 m. spalį bermontininkai užėmė Šiaulius, Biržus, Linkuvą ir Radviliškį, kai šiaurinėje Lietuvos dalyje dar nebuvo Lietuvos kariuomenės.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1919 m. liepos mėn.'
+  santrauka: '1919 m. liepos 26 d. ties Kuršėnais iš Latvijos į Lietuvos teritoriją įžengė stipri jungtinė vokiečių ir rusų kariuomenė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     1919 m. liepos mėn. 26 d. ties Kuršė-
@@ -48,26 +52,26 @@ Nenurodyta
     kiečių rusų kariuomenė, išgarsėjusi bermontininkų vardu. Ši
     kariuomenė skelbėsi kovojanti prieš bolševikus už seno-
     sios Rusijos atstatymą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: '1919 m. spalių mėnesį, kai šiaurinėje Lietuvos dalyje dar nebuvo mūsų kariuomenės, bermontininkai užėmė Šiaulius, Biržus, Linkuvą, Radviliškį ir pradėjo rodyti aiškų nepalankumą Lietuvai.'
+  santrauka: '1919 m. spalį bermontininkai užėmė Šiaulius, Biržus, Linkuvą ir Radviliškį, kai šiaurinėje Lietuvos dalyje dar nebuvo Lietuvos kariuomenės.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     1919 m. spalių mėnesį,
     kai šiaurinėje Lietuvos dalyje dar nebuvo mūsų kariuomenės,
     bermontininkai užėmė Šiaulius, Biržus, Linkuvą, Radviliškį ir
     pradėjo rodyti aiškų nepalankumą Lietuvai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

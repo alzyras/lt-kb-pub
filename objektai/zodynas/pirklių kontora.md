@@ -18,21 +18,23 @@ Abiejuose tuose centruose Hanza veikiai įsteigė savo agentūras (vadinamąsias
 
 ## Teiginiai
 - t-001
-  teiginys: 'Abiejuose tuose centruose Hanza veikiai įsteigė savo agentūras (vadinamąsias pirklių kontoras).'
+  teiginys: 'Hanzos agentūros buvo vadinamos pirklių kontoromis.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Abiejuose tuose centruose Hanza veikiai įsteigė savo agentūras (vadinamąsias pirklių kontoras).'
+  santrauka: 'Hanzos agentūros buvo vadinamos pirklių kontoromis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Abiejuose tuose centruose Hanza veikiai įsteigė
     savo agentūras (vadinamąsias pirklių kontoras).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

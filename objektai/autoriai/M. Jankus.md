@@ -18,13 +18,15 @@ Jankus ir lietuvių draugas vokietis S.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Jankus ir lietuvių draugas vokietis S.'
+  teiginys: 'M. Jankus rašė „Aušrai“ kartu su kitais Didžiosios Lietuvos lietuviais inteligentais ir redaktoriumi Šernu.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Jankus ir lietuvių draugas vokietis S.'
+  santrauka: 'M. Jankus rašė „Aušrai“ kartu su kitais Didžiosios Lietuvos lietuviais inteligentais ir redaktoriumi Šernu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Juos rašė
@@ -39,11 +41,11 @@ Jankus ir lietuvių draugas vokietis S.
     (autorius giesmės „Lie-
     tuviai esame mes gi-
     mę").
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 
@@ -52,5 +54,4 @@ Jankus ir lietuvių draugas vokietis S.
 - [[temos/redaktorius]]
 
 ### Susiję objektai
-- [[objektai/autoriai/Jonas Basanavičius]]
 - [[objektai/autoriai/S. Zauerveinas]]

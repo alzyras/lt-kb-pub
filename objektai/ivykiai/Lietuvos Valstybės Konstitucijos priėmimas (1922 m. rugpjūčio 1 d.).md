@@ -46,25 +46,25 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-006
+- t-010
   teiginys: 'Lietuvos Valstybės Konstitucija skelbė Lietuvos valstybę nepriklausoma demokratine respublika.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-007
+- t-011
   teiginys: 'Lietuvių kalba Lietuvos Valstybės Konstitucijoje pirmą kartą įteisinta kaip valstybinė.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-008
-  teiginys: 'Konstitucija tautinėms mažumoms Lietuvoje suteikė plačią autonomiją ir įteisino privalomą pradžios mokslą.'
+- t-012
+  teiginys: 'Lietuvos Valstybės Konstitucija suteikė plačią autonomiją Lietuvoje gyvenusioms tautinėms mažumoms ir įteisino privalomą pradžios mokslą.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-009
+- t-013
   teiginys: 'Lietuvos Valstybės Konstitucija skelbė, kad aukščiausioji valdžia priklauso tautai.'
   pagrindžia:
     - c-001
@@ -86,11 +86,11 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-006
-    - t-007
-    - t-009
+    - t-010
+    - t-011
+    - t-013
 - c-002
-  santrauka: 'Konstitucija tautinėms mažumoms Lietuvoje suteikė plačią autonomiją ir įteisino privalomą pradžios mokslą.'
+  santrauka: 'Lietuvos Valstybės Konstitucija suteikė plačią autonomiją Lietuvoje gyvenusioms tautinėms mažumoms ir įteisino privalomą pradžios mokslą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Seimas ir prezidentas (renkamas Seimo) ren-
@@ -102,7 +102,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-008
+    - t-012
 
 ## Ryšiai
 ### Laikotarpiai

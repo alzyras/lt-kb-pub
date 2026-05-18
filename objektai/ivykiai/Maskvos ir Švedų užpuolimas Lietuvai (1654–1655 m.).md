@@ -30,24 +30,26 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Jie dar keletą kartų buvo sušaukti ir vėliau, kai Lietuvą užpuldavo koks priešas (pav., 1654—5 m., ją užpuolus Maskvai su Švedais), bet pagaliau jie visiškai išnyko.'
+  teiginys: '1654–1655 m. Lietuvą užpuolė Maskva ir Švedai.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Jie dar keletą kartų buvo sušaukti ir vėliau, kai Lietuvą užpuldavo koks priešas (pav., 1654—5 m., ją užpuolus Maskvai su Švedais), bet pagaliau jie visiškai išnyko.'
+  santrauka: '1654–1655 m. Lietuvą užpuolė Maskva ir Švedai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jie dar keletą kartų buvo
     sušaukti ir vėliau, kai Lietuvą užpuldavo koks priešas (pav.,
     1654—5 m., ją užpuolus Maskvai su Švedais), bet pagaliau jie
     visiškai išnyko.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

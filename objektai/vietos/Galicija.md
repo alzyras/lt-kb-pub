@@ -20,22 +20,24 @@ Galicijoje.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Galicijoje.'
+  teiginys: 'Po Lenkijos padalinimo Galicijoje išliko unitai, nes ši sritis buvo patekusi Austrijai.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Galicijoje.'
+  santrauka: 'Po Lenkijos padalinimo Galicijoje išliko unitai, nes ši sritis buvo patekusi Austrijai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kai rusai užėmė kraštą, tai unija buvo smurtu
     išnaikinta. Unitai išliko tik tose Lenkijos dalyse, kurios po
     padalinimo buvo patekusios Austrijai, t. y. Galicijoje.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

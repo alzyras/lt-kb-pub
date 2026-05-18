@@ -35,44 +35,5 @@ tags: []
 - Laikotarpio nuoroda: antroji XVI a. pusė.
 
 ## Teiginiai
-- t-001
-  teiginys: 'A. Vijūkas Kojelavičius parašė lotynišką dviejų tomų Lietuvos istoriją „Historia Lituana“.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: '„Historia Lituana“ įvardijama kaip paskutinis veikalas nepriklausomojo gyvenimo laikais.'
-  pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Bibliografiniai įrodymai
-- c-001
-  santrauka: Citata nurodo autorių, kalbą, veikalo pobūdį ir apimtį.
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Antroje XVI a. pusėje kaunietis jėzuitas A.
-    Vijūkas Kojelavičius parašė lotyniškai Lietuvos istoriją —
-    „Historia Lituana" (2 t.).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: Trumpa citata įvardija veikalo vietą Lietuvos istoriografijos sekoje.
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tas darbas ir buvo paskutinis veikalas nepri-
-    klausomojo gyvenimo laikais.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: 'Citata remiasi ankstesniu kontekstu, kuriame jau pristatytas konkretus veikalas.'
-  pagrindžia:
-    - t-002

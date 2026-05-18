@@ -33,7 +33,7 @@ Autoritarinį prezidento režimą 1938 m. gegužės 12 d. sustiprino paskelbta n
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: 'V. Dekanozovo paliepimu A. Smetonos išvykimas buvo pateiktas kaip atsistatydinimas, sudarant įspūdį, kad A. Merkys teisėtai tapo prezidentu.'
+  teiginys: 'Pagal Lietuvos konstituciją laikinai pareigas einantis prezidentas neturėjo teisės skirti naujo vyriausybės vadovo.'
   pagrindžia:
     - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -79,7 +79,7 @@ Autoritarinį prezidento režimą 1938 m. gegužės 12 d. sustiprino paskelbta n
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'V. Dekanozovo paliepimu A. Smetonos išvykimas buvo pateiktas kaip atsistatydinimas, sudarant įspūdį, kad A. Merkys teisėtai tapo prezidentu.'
+  santrauka: 'Pagal Lietuvos konstituciją laikinai pareigas einantis prezidentas neturėjo teisės skirti naujo vyriausybės vadovo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     V. Dekanozovo paliepimu A. Smetonos išvykimas paaiškintas kaip prezi-

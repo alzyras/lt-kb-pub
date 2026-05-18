@@ -18,7 +18,7 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
 
 ## Teiginiai
 - t-001
-  teiginys: 'Paneriuose veikė iš lietuvių sudarytas Ypatingasis SD būrys, viena iš dviejų specialių zonderkomandų, daugiausia vykdžiusių šaudymus.'
+  teiginys: 'Paneriuose veikęs Ypatingasis SD būrys buvo viena iš dviejų lietuvių zonderkomandų, daugiausia vykdžiusių šaudymus.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -26,7 +26,7 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Paneriuose veikė iš lietuvių sudarytas Ypatingasis SD būrys, viena iš dviejų specialių zonderkomandų, daugiausia vykdžiusių šaudymus.'
+  santrauka: 'Paneriuose veikęs Ypatingasis SD būrys buvo viena iš dviejų lietuvių zonderkomandų, daugiausia vykdžiusių šaudymus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Daugiausia šaudė

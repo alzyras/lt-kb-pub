@@ -41,31 +41,17 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Tokias vietas žmonės paprastai vadino milžinų kapais ir net vyresnybės nurodymu jas ardydami nerasdavo nieko, kas patvirtintų liaudies pasakas.'
   pagrindžia:
-    - c-002
     - c-001
+    - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Tokias vietas žmonės paprastai vadino milžinų kapais ir net vyresnybės nurodymu jas ardydami nerasdavo nieko, kas patvirtintų liaudies pasakas.
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Vienok šiandien, atsitikus
-    parėdymu vyresnybės per tokias vietas arba kapus naują vieškelį vesti ar žvizdrą iš tokių kapų į
-    kelią pilti, nieko tokio nėra randama, kas tą didelybę praėjusiojo svieto rodytų, nes tiktai
-    sutrynėję ginklai praėjusiųjų gadynių ir kaulai žmonių tokių, kokius šiandien regim dar
-    gyvojančius.
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: Kovų vietų neliečiamumas papildomas patvirtintas šaltinio paminėjimas.
+  santrauka: 'Tokias vietas žmonės paprastai vadino milžinų kapais ir net vyresnybės nurodymu jas ardydami nerasdavo nieko, kas patvirtintų liaudies pasakas.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Buvo dar šventomis vadinamos karmūšų^842 , arba kovų, vietos, tai yra laukai, kuriuose su
@@ -81,8 +67,23 @@ Nenurodyta
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-001
+    - t-002
+- c-002
+  santrauka: 'Tokias vietas žmonės paprastai vadino milžinų kapais ir net vyresnybės nurodymu jas ardydami nerasdavo nieko, kas patvirtintų liaudies pasakas.'
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Vienok šiandien, atsitikus
+    parėdymu vyresnybės per tokias vietas arba kapus naują vieškelį vesti ar žvizdrą iš tokių kapų į
+    kelią pilti, nieko tokio nėra randama, kas tą didelybę praėjusiojo svieto rodytų, nes tiktai
+    sutrynėję ginklai praėjusiųjų gadynių ir kaulai žmonių tokių, kokius šiandien regim dar
+    gyvojančius.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002

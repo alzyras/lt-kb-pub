@@ -18,22 +18,24 @@ Maskvoje tuomet prasidėjo perversmų periodas — užėjo vadinamoji didžioji 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Maskvoje tuomet prasidėjo perversmų periodas — užėjo vadinamoji didžioji suirutė ( smuta ).'
+  teiginys: 'Maskvoje prasidėjęs perversmų periodas buvo vadinamas didžiąja suirute, arba smuta.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Maskvoje tuomet prasidėjo perversmų periodas — užėjo vadinamoji didžioji suirutė ( smuta ).'
+  santrauka: 'Maskvoje prasidėjęs perversmų periodas buvo vadinamas didžiąja suirute, arba smuta.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Maskvoje tuomet prasidėjo per-
     versmų periodas — užėjo vadinamoji didžioji suirutė ( _smuta_ ).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

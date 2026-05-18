@@ -21,45 +21,51 @@ Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pa
 
 ## Teiginiai
 - t-001
-  teiginys: 'Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą).'
+  teiginys: 'Salyne, Nemuno saloje apie dabartinę Kulautuvą, įvyko Vytauto ir magistro susitikimas, per kurį pasirašyta taikos sutartis.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Nuo pasirašymo vietos ir sutartis vadinama Salyno sutartim.'
+  teiginys: 'Salyno sutartis pavadinta pagal jos pasirašymo vietą Salyną.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-003
   teiginys: 'Nemuno saloje, vadinamoje Salynu, Vytautas susitiko su ordino maršalka derėtis dėl išpirkimo ordino belaisvių, paimtų Tanenbergo mūšyje.'
   pagrindžia:
     - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą).'
+  santrauka: 'Salyne, Nemuno saloje apie dabartinę Kulautuvą, įvyko Vytauto ir magistro susitikimas, per kurį pasirašyta taikos sutartis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     1398 m. buvo padarytas laikinis susitarimas, o kiek vėliau
     įvyko iškilmingas Vytauto ir magistro susitikimas, kurio metu
     buvo pasirašyta taikos sutartis. Susitikimas buvo Salyne (sala
     Nemune, buvusi apie dabartinę Kulautuvą).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Nuo pasirašymo vietos ir sutartis vadinama Salyno sutartim.'
+  santrauka: 'Salyno sutartis pavadinta pagal jos pasirašymo vietą Salyną.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Nuo pasirašymo vie-
     tos ir sutartis vadinama Salyno sutartim.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 - c-003
@@ -68,10 +74,10 @@ Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pa
   citata_originali: |
     1413 m. sausio mėn. Nemuno saloje, vadinamoje Salynu, Vytautas susitiko su ordino maršalka derėtis dėl
     išpirkimo ordino belaisvių, paimtų Tanenbergo mūšyje.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003

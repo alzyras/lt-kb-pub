@@ -21,17 +21,21 @@ Bauža. Bauža savo knygoje kaltina Lietuvos bajoriją, kad ji nesirūpinanti sa
 
 ## Teiginiai
 - t-001
-  teiginys: 'Bauža.'
+  teiginys: 'Ks. Bauža 1806 m. paskelbė knygą „Apie lietuvių tautos ir kalbos kilmę“, kurioje ragino gelbėti lietuvybę.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: 'Bauža savo knygoje kaltina Lietuvos bajoriją, kad ji nesirūpinanti savo kalba, kad nekurianti savos literatūros.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Bauža.'
+  santrauka: 'Ks. Bauža 1806 m. paskelbė knygą „Apie lietuvių tautos ir kalbos kilmę“, kurioje ragino gelbėti lietuvybę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tokį pra-
@@ -39,11 +43,11 @@ Bauža. Bauža savo knygoje kaltina Lietuvos bajoriją, kad ji nesirūpinanti sa
     mergiškis kunigas Ks. Bauža. Savo tyrinėjimus jis paskelbė
     ir atskira knyga — „Apie lietuvių tautos ir kalbos kilmę"
     (1806 m.), kurioje ragina gelbėti lietuvybę.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
@@ -52,10 +56,10 @@ Bauža. Bauža savo knygoje kaltina Lietuvos bajoriją, kad ji nesirūpinanti sa
   citata_originali: |
     **Bauža** savo knygoje kaltina Lietuvos bajoriją, kad ji nesirūpi-
     nanti savo kalba, kad nekurianti savos literatūros.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

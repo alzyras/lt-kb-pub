@@ -21,7 +21,7 @@ Barokinė Nesvyžiaus jėzuitų kolegijos bažnyčia pradėta statyti 1586 m., o
 
 ## Teiginiai
 - t-001
-  teiginys: 'Barokinės santvarkos ir barokinio ūkio sąvokas leidžia vartoti saitai su luomine bajorų santvarka ir lažiniu palivarkiniu ūkiu.'
+  teiginys: 'Barokinės santvarkos ir barokinio ūkio sąvokos siejamos su luomine bajorų santvarka ir lažiniu palivarkiniu ūkiu.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -29,7 +29,7 @@ Barokinė Nesvyžiaus jėzuitų kolegijos bažnyčia pradėta statyti 1586 m., o
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Barokinės santvarkos ir barokinio ūkio sąvokas leidžia vartoti saitai su luomine bajorų santvarka ir lažiniu palivarkiniu ūkiu.'
+  santrauka: 'Barokinės santvarkos ir barokinio ūkio sąvokos siejamos su luomine bajorų santvarka ir lažiniu palivarkiniu ūkiu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Įvairūs saitai juos siejo su 1566 m. įsigalėjusia luomine

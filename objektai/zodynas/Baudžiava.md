@@ -43,34 +43,34 @@ Sąvoka apima ir teisinę valstiečių priklausomybę nuo pono, ir konkretų la�
 Terminas vartojamas ilgame istoriniame pjūvyje: nuo 1447 m. privilegijos, padėjusios pamatą visuotinei baudžiavai, iki 1861 m. jos panaikinimo Rusijos imperijoje.
 
 ## Teiginiai
-- t-001
-  teiginys: 1447 m. privilegija padėjo pamatą visuotinei baudžiavai, palikdama bajorų valstiečius jų ponų valdžioje.
+- t-006
+  teiginys: '1447 m. privilegija padėjo pamatą visuotinei baudžiavai, palikdama bajorų valstiečius jų ponų valdžioje.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: Po 1447 m. privilegijos prasidėjo tikroji baudžiava, vis labiau apkraudama valstiečius mokesčiais ir darbais.
+- t-007
+  teiginys: 'Po 1447 m. privilegijos prasidėjo tikroji baudžiava, vis labiau apkraudama valstiečius mokesčiais ir darbais.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: Baudžiava reiškė valstiečių beteisę priklausomybę, iš kurios nebuvo galima lengvai grąžinti atleistųjų.
+- t-008
+  teiginys: 'Valstiečiai ir toliau liko beteisiai baudžiauninkai, bet atleistųjų dvarininkai nebegalėjo grąžinti į baudžiavą.'
   pagrindžia:
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-005
-  teiginys: 1861 m. vasario 19 d. manifestu baudžiava Rusijos imperijoje buvo panaikinta, paliekant valstiečiams teisę išsipirkti žemę per 49 metus.
+- t-009
+  teiginys: '1861 m. vasario 19 d. manifestu baudžiava Rusijos imperijoje buvo panaikinta, paliekant valstiečiams teisę išsipirkti žemę per 49 metus.'
   pagrindžia:
-    - c-005
+    - c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Baudžiavos pradžia siejama su 1447 m. privilegija ir valstiečių pavaldumu ponams.
+  santrauka: '1447 m. privilegija padėjo pamatą visuotinei baudžiavai, palikdama bajorų valstiečius jų ponų valdžioje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Taigi privilegija pa-
@@ -84,9 +84,9 @@ Terminas vartojamas ilgame istoriniame pjūvyje: nuo 1447 m. privilegijos, padė
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-006
 - c-002
-  santrauka: Aprašomas tikrosios baudžiavos įsigalėjimas po 1447 m.
+  santrauka: 'Po 1447 m. privilegijos prasidėjo tikroji baudžiava, vis labiau apkraudama valstiečius mokesčiais ir darbais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Po 1447 m. privilegijos palengva prasidėjo tikroji bau-
@@ -98,9 +98,9 @@ Terminas vartojamas ilgame istoriniame pjūvyje: nuo 1447 m. privilegijos, padė
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-007
 - c-003
-  santrauka: Pabrėžiama valstiečių beteisė baudžiauninkų padėtis.
+  santrauka: 'Valstiečiai ir toliau liko beteisiai baudžiauninkai, bet atleistųjų dvarininkai nebegalėjo grąžinti į baudžiavą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     socialiniam gyvenime, bet vis dėlto bajorai buvo palikti vienin-
@@ -113,9 +113,9 @@ Terminas vartojamas ilgame istoriniame pjūvyje: nuo 1447 m. privilegijos, padė
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
-- c-005
-  santrauka: Baudžiavos panaikinimas siejamas su 1861 m. manifestu ir išpirkos teise.
+    - t-008
+- c-004
+  santrauka: '1861 m. vasario 19 d. manifestu baudžiava Rusijos imperijoje buvo panaikinta, paliekant valstiečiams teisę išsipirkti žemę per 49 metus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Baudžiavos panaikinimo manifestas** buvo paruoštas Petra-
@@ -128,7 +128,7 @@ Terminas vartojamas ilgame istoriniame pjūvyje: nuo 1447 m. privilegijos, padė
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
+    - t-009
 
 ## Šaltiniai ir įrodymai
 

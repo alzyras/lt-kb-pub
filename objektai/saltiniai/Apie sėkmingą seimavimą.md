@@ -19,13 +19,17 @@ Iš visų autorių buvo žymiausias piaras Konarskis (1700—1773 m.), kuris 4 t
 
 ## Teiginiai
 - t-001
-  teiginys: 'Iš visų autorių buvo žymiausias piaras Konarskis (1700—1773 m.), kuris 4 tomų savo veikale „Apie sėkmingą seimavimą" pirštu prikišamai įrodė, kad išsigelbėti ir panaikinti netvarką bus galima tik panaikinus liberum veto.'
+  teiginys: 'Konarskis keturių tomų veikale „Apie sėkmingą seimavimą“ įrodinėjo, kad netvarką galima panaikinti tik atsisakius liberum veto.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Iš visų autorių buvo žymiausias piaras Konarskis (1700—1773 m.), kuris 4 tomų savo veikale „Apie sėkmingą seimavimą" pirštu prikišamai įrodė, kad išsigelbėti ir panaikinti netvarką bus galima tik panaikinus liberum veto.'
+  santrauka: 'Konarskis keturių tomų veikale „Apie sėkmingą seimavimą“ įrodinėjo, kad netvarką galima panaikinti tik atsisakius liberum veto.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Atsirado tais klausimais ir knygų. Iš visų autorių buvo žy-
@@ -33,10 +37,10 @@ Iš visų autorių buvo žymiausias piaras Konarskis (1700—1773 m.), kuris 4 t
     veikale „Apie sėkmingą seimavimą" pirštu prikišamai įrodė, kad iš-
     sigelbėti ir panaikinti netvarką bus galima tik panaikinus _liberum
     veto._
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

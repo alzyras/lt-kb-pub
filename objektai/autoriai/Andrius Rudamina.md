@@ -39,7 +39,7 @@ Andrius Rudamina minimas kaip Vilniaus universiteto auklėtinis, Kinijoje mision
 - asketikos veikalai kinų kalba
 
 ## Teiginiai
-- t-005
+- t-006
   teiginys: 'Andrius Rudamina buvo Vilniaus universiteto auklėtinis, 1626–1634 m. misionieriavęs Kinijoje ir rašęs asketikos veikalus kinų kalba.'
   pagrindžia:
     - c-001
@@ -62,7 +62,7 @@ Andrius Rudamina minimas kaip Vilniaus universiteto auklėtinis, Kinijoje mision
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
+    - t-006
 
 ## Ryšiai
 ### Teminiai klasteriai

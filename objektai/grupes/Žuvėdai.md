@@ -34,29 +34,29 @@ tags:
 Žuvėdai 1700 m. išvertė Gintės žinyčią, ieškodami joje paslėptų lobių. Žuvėdai minimi tarp jėgų, nuo kurių lietuviai trečią kartą išgelbėjo kitus nuo prapulties ir vergystės.
 
 ## Teiginiai
-- t-001
+- t-004
   teiginys: 'Žuvėdai 1700 m. išvertė Gintės žinyčią, ieškodami joje paslėptų lobių.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-005
   teiginys: 'Žuvėdai minimi tarp jėgų, nuo kurių lietuviai trečią kartą išgelbėjo kitus nuo prapulties ir vergystės.'
   pagrindžia:
     - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-003
+- t-006
   teiginys: 'Žuvėdai buvo sugriovę Palangą, todėl žemaičiai siekė atnaujinti Šventosios uostą ir ten įkurti naują pilį.'
   pagrindžia:
-    - c-003
     - c-004
+    - c-003
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Žuvėdai 1700 m. išvertė Gintės žinyčią, ieškodami joje paslėptų lobių.
+  santrauka: 'Žuvėdai 1700 m. išvertė Gintės žinyčią, ieškodami joje paslėptų lobių.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     bet metuose 1700 išvertė ją žuvėdai^805 , tardami tenai girios vidury paslėptus lobius
@@ -66,9 +66,9 @@ tags:
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-004
 - c-002
-  santrauka: Žuvėdai minimi tarp jėgų, nuo kurių lietuviai trečią kartą išgelbėjo kitus nuo prapulties ir vergystės.
+  santrauka: 'Žuvėdai minimi tarp jėgų, nuo kurių lietuviai trečią kartą išgelbėjo kitus nuo prapulties ir vergystės.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     lietuviai savo lazda išgelbėjo juos pačius tris kartus nuo prapulties ir
@@ -80,9 +80,22 @@ tags:
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-005
 - c-003
-  santrauka: Žuvėdai buvo sugriovę Palangą, todėl žemaičiai siekė atnaujinti Šventosios uostą ir ten įkurti naują pilį.
+  santrauka: 'Žuvėdai buvo sugriovę Palangą, todėl žemaičiai siekė atnaujinti Šventosios uostą ir ten įkurti naują pilį.'
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    laiku kėlės karės su žuvėdais, maskoliais, turkais ir valakais, namuose taip pat tarp pačių netaikos
+    sukilo; ant galo jezavitai^1493 sušyžino^1494 visus atskalūnus, norėdami juos į katalikus atversti.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-006
+- c-004
+  santrauka: 'Žuvėdai buvo sugriovę Palangą, todėl žemaičiai siekė atnaujinti Šventosios uostą ir ten įkurti naują pilį.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Žemaičiai dar vėl norėjo savo Šventosios įtaką arba
@@ -95,25 +108,9 @@ tags:
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
-- c-004
-  santrauka: Žuvėdai buvo sugriovę Palangą, todėl žemaičiai siekė atnaujinti Šventosios uostą ir ten įkurti naują pilį.
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    laiku kėlės karės su žuvėdais, maskoliais, turkais ir valakais, namuose taip pat tarp pačių netaikos
-    sukilo; ant galo jezavitai^1493 sušyžino^1494 visus atskalūnus, norėdami juos į katalikus atversti.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003
+    - t-006
 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
 - [[laikotarpiai/XVII amžius]]
-
-### Susiję objektai
-- [[objektai/grupes/Valakai]]

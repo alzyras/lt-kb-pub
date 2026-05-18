@@ -33,7 +33,7 @@ tags:
 Žemlionys ir vyčiai šaltinyje aiškiai sutapatinami.
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Žemlionys ir vyčiai šaltinyje aiškiai sutapatinami.'
   pagrindžia:
     - c-001
@@ -44,7 +44,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Žemlionys ir vyčiai šaltinyje aiškiai sutapatinami.
+  santrauka: 'Žemlionys ir vyčiai šaltinyje aiškiai sutapatinami.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Nuo ko jau
@@ -57,9 +57,9 @@ tags:
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
 - c-002
-  santrauka: Žemlionys ir vyčiai šaltinyje aiškiai sutapatinami.
+  santrauka: 'Žemlionys ir vyčiai šaltinyje aiškiai sutapatinami.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Žemaičiuose didžiai vėlai dar yra regimas: kaipogi veizint į reistrą^1177 vyčių, metuose 1528 surašytų,
@@ -70,9 +70,9 @@ tags:
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
 - c-003
-  santrauka: Žemlionys ir vyčiai šaltinyje aiškiai sutapatinami.
+  santrauka: 'Žemlionys ir vyčiai šaltinyje aiškiai sutapatinami.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Kas dar yra didžiau
@@ -85,7 +85,7 @@ tags:
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Laikotarpiai

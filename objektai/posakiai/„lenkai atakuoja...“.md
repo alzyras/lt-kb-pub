@@ -20,7 +20,7 @@ Kovos su lenkais įgavo ne tik teritorinį, bet ir socialinį atspalvį – 1920
 
 ## Teiginiai
 - t-001
-  teiginys: '1920 m. rugsėjį Mykolas Sleževičius Seime pareiškė, kad lenkai atakuoja, nes Lietuvos dvarininkai pakvietė jų legionus ginti dvarų.'
+  teiginys: '1920 m. rugsėjį Mykolas Sleževičius Seime pareiškė, kad lenkai atakuoja Lietuvą, nes juos pakvietė dvarininkai.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -28,7 +28,7 @@ Kovos su lenkais įgavo ne tik teritorinį, bet ir socialinį atspalvį – 1920
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1920 m. rugsėjį Mykolas Sleževičius Seime pareiškė, kad lenkai atakuoja, nes Lietuvos dvarininkai pakvietė jų legionus ginti dvarų.'
+  santrauka: '1920 m. rugsėjį Mykolas Sleževičius Seime pareiškė, kad lenkai atakuoja Lietuvą, nes juos pakvietė dvarininkai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kovos su lenkais įgavo ne tik teritorinį, bet ir so-

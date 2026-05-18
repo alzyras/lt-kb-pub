@@ -33,7 +33,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Nematyta masinė deportacija sukrėtė Lietuvą, nes trėmimas buvo nukreiptas į fizinį šeimų naikinimą.'
+  teiginys: 'Pirmasis masinis Lietuvos gyventojų trėmimas sukrėtė Lietuvą, nes buvo nukreiptas į fizinį šeimų naikinimą.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -41,7 +41,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Nematyta masinė deportacija sukrėtė Lietuvą, nes trėmimas buvo nukreiptas į fizinį šeimų naikinimą.'
+  santrauka: 'Pirmasis masinis Lietuvos gyventojų trėmimas sukrėtė Lietuvą, nes buvo nukreiptas į fizinį šeimų naikinimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nematyta masinė deportacija sukrėtė Lietuvą, nes trėmimas

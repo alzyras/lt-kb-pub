@@ -25,13 +25,13 @@ Pagrindinė forma: `vyrgalvė`.
 Vartojamos formos: `vyrgalve`, `vyrgulda`, `vyrišką galvą`.
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: '`Vyrgalvė / vyrgulda` šiame tekste reiškia išpirką už užmušto vyro galvą.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Terminas siejamas su vyriškos galvos verte senovėje.'
   pagrindžia:
     - c-001
@@ -40,7 +40,7 @@ Vartojamos formos: `vyrgalve`, `vyrgulda`, `vyrišką galvą`.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Vyrgalvė / vyrgulda` šiame tekste reiškia išpirką už užmušto vyro galvą
+  santrauka: '`Vyrgalvė / vyrgulda` šiame tekste reiškia išpirką už užmušto vyro galvą.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Jei viens antrą užmušė, tad užmuštojo gentims valna buvo senovėj užmušti patį užmušėją ar jo
@@ -56,8 +56,8 @@ Vartojamos formos: `vyrgalve`, `vyrgulda`, `vyrišką galvą`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
 
 ## Pastabos
 

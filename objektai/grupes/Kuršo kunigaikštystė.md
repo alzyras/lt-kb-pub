@@ -20,21 +20,23 @@ Po ilgų ginčų buvo sutarta, kad Livonija ir Kuršo kunigaikštija bus laikomo
 
 ## Teiginiai
 - t-001
-  teiginys: 'Po ilgų ginčų buvo sutarta, kad Livonija ir Kuršo kunigaikštija bus laikomos priklausančios lygiai abiem valstybėm.'
+  teiginys: 'Livonija ir Kuršo kunigaikštystė po ilgų ginčų buvo laikomos lygiai priklausančiomis abiem valstybėms.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Po ilgų ginčų buvo sutarta, kad Livonija ir Kuršo kunigaikštija bus laikomos priklausančios lygiai abiem valstybėm.'
+  santrauka: 'Livonija ir Kuršo kunigaikštystė po ilgų ginčų buvo laikomos lygiai priklausančiomis abiem valstybėms.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Po ilgų ginčų buvo sutarta, kad Livonija ir Kuršo kunigaikštija
     bus laikomos priklausančios lygiai abiem valstybėm.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

@@ -47,7 +47,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lietuvos ir Žemaitijos krikštais žengtas tik nedidelis žingsnis į krikščioniškąją visuomenę, nes sunaikintos tik svarbiausios pagoniškos šventvietės.'
+  teiginys: '1387 m. Lietuvos ir 1413–1417 m. Žemaitijos krikštai tik nedaug priartino visuomenę prie krikščionybės, nes sunaikintos tik svarbiausios pagoniškos šventvietės.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -55,7 +55,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lietuvos ir Žemaitijos krikštais žengtas tik nedidelis žingsnis į krikščioniškąją visuomenę, nes sunaikintos tik svarbiausios pagoniškos šventvietės.'
+  santrauka: '1387 m. Lietuvos ir 1413–1417 m. Žemaitijos krikštai tik nedaug priartino visuomenę prie krikščionybės, nes sunaikintos tik svarbiausios pagoniškos šventvietės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Gotika

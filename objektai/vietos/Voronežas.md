@@ -18,23 +18,25 @@ menės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimnazijose).
 
 ## Teiginiai
 - t-001
-  teiginys: 'menės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimnazijose).'
+  teiginys: 'Voroneže įsteigtose lietuviškose gimnazijose Lietuvių Komitetas organizavo jaunimo mokymą.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'menės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimnazijose).'
+  santrauka: 'Voroneže įsteigtose lietuviškose gimnazijose Lietuvių Komitetas organizavo jaunimo mokymą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Lietuvių Komitetas,** persikėlęs į Petrapilį (dabartinį Lenin-
     gradą), organizavo ne tik tremtinių šelpimą, bet ir visos jaunuo-
     menės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimna-
     zijose).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: zemas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

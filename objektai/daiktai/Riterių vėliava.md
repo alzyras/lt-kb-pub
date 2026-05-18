@@ -35,13 +35,13 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Aizkrauklės mūšyje pagonims atiteko riterių vėliava.'
+  teiginys: 'Aizkrauklės mūšyje pagonims atitekusi riterių vėliava Livonijoje buvo suvokta kaip didelis smūgis krikščionybei.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Vėliavos netekimas laikytas didele nelaime.'
+  teiginys: 'Riterių vėliavos netekimas kovoje viduramžiais laikytas didele nelaime.'
   pagrindžia:
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -49,7 +49,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Aizkrauklės mūšyje pagonims atiteko riterių vėliava.
+  santrauka: 'Aizkrauklės mūšyje pagonims atitekusi riterių vėliava Livonijoje buvo suvokta kaip didelis smūgis krikščionybei.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Iš to, ką
@@ -58,13 +58,13 @@ Nenurodyta
     pagonims atiteko riterių vėliava 240 *.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: Vėliavos netekimas laikytas didele nelaime.
+  santrauka: 'Riterių vėliavos netekimas kovoje viduramžiais laikytas didele nelaime.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     O jos netekimas kovoje, prie
@@ -72,12 +72,11 @@ Nenurodyta
     skaitėsi didelė nelaimė.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai

@@ -44,13 +44,13 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Didesniosios valstybės steigė specialias brolijas savo maldininkams globoti, kurios iš pradžių rūpinosi kelionės saugumu.'
+- t-003
+  teiginys: 'Po Jeruzalės išvadavimo didesniosios valstybės steigė brolijas maldininkams globoti kelionėse.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Naujos karinės grėsmės sąlygomis globos brolijos virto kariaujančiais riterių ordinais.'
   pagrindžia:
     - c-002
@@ -59,7 +59,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Didesniosios valstybės steigė specialias brolijas savo maldininkams globoti, kurios iš pradžių rūpinosi kelionės saugumu.
+  santrauka: 'Po Jeruzalės išvadavimo didesniosios valstybės steigė brolijas maldininkams globoti kelionėse.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo
@@ -75,9 +75,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: Naujos karinės grėsmės sąlygomis globos brolijos virto kariaujančiais riterių ordinais.
+  santrauka: 'Naujos karinės grėsmės sąlygomis globos brolijos virto kariaujančiais riterių ordinais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bet kai prasidėjo nauji karai, o ypač kai Jeruzalę vėl užėmė
@@ -89,7 +89,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004
 
 ## Ryšiai
 ### Teminiai klasteriai

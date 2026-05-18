@@ -43,80 +43,80 @@ Tai Simono Daukanto veikalas apie senovės lietuvių, kalnėnų ir žemaičių b
 - Veikalo aprašas grindžiamas senovės raštininkų liudijimais ir kalboje tebesančiomis patarlėmis.
 
 ## Teiginiai
-- t-001
+- t-006
   teiginys: 'Veikalas pateikiamas kaip Simono Daukanto „Būdas senovės lietuvių, kalnėnų ir žemaičių“ darbas.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-007
   teiginys: 'Šiame darbo tekste naudojamas Birutės Vanagienės parengtas leidimas, išleistas Vilniuje leidykloje `Ethnos’91` 1993 m.'
   pagrindžia:
-    - c-002
+    - c-003
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-003
+- t-008
   teiginys: 'Šiame leidime publikuojamas tekstas apima p. 5–117 ir 139–211.'
   pagrindžia:
+    - c-003
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  statusas: patvirtinta
+- t-009
+  teiginys: 'Pratarmėje autorius nurodo trumpai aprašąs lietuvių, kalnėnų ir žemaičių būdą, dabą, tikybą, ūkės rėdą, karybą, prekybą ir mantą.'
+  pagrindžia:
     - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-004
-  teiginys: 'Pratarmėje autorius nurodo trumpai aprašąs lietuvių, kalnėnų ir žemaičių būdą, dabą, tikybą, ūkės rėdą, karybą, prekybą ir mantą.'
-  pagrindžia:
-    - c-003
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
-- t-005
+- t-010
   teiginys: 'Autorius teigia veikalo aprašą grindžiąs senovės raštininkų liudijimais ir kalboje tebesančiomis patarlėmis.'
   pagrindžia:
-    - c-003
+    - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-003
-  santrauka: Pratarmėje nusakoma veikalo teminė apimtis ir naudoti atramos šaltiniai.
+
+## Bibliografiniai įrodymai
+- c-001
+  santrauka: 'Veikalas pateikiamas kaip Simono Daukanto „Būdas senovės lietuvių, kalnėnų ir žemaičių“ darbas.'
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Simonas Daukantas
+    # BŪDAS SENOVĖS LIETUVIŲ, KALNĖNŲ IR ŽEMAIČIŲ
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-006
+- c-002
+  santrauka: 'Pratarmėje autorius nurodo trumpai aprašąs lietuvių, kalnėnų ir žemaičių būdą, dabą, tikybą, ūkės rėdą, karybą, prekybą ir mantą.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     kurių aš čia užsiėmiau^59 būdą, dabą^60 , tikybą, ūkės rėdą, karybą, prekybą ir mantą^61 , arba pinigus,
     trumpai išrašyti^62 pagal tą, kaip senovės raštininkai išrašę paliko ir ką dar pačios patarlės, kalboj
     tebesančios, tvirtina, dėl to vien, idant ilgainiui nepragaištų tie brangūs bočių prabočių palaikai,
     kurie tarp mūsų dar iki šiai dienai užsitvėrė^63
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: 'Tiesioginė citata iš vieno šaltinio.'
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
-    - t-005
-
-## Bibliografiniai įrodymai
-- c-001
-  santrauka: Viršelyje nurodomas autorius ir veikalo pavadinimas.
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Simonas Daukantas
-    # BŪDAS SENOVĖS LIETUVIŲ, KALNĖNŲ IR ŽEMAIČIŲ
-  citata_rodoma: 'Simonas Daukantas. Būdas senovės lietuvių, kalnėnų ir žemaičių.'
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: 'Tiesioginė citata iš vieno šaltinio.'
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: Leidinio pabaigoje pateikiama parengėja, leidimo vieta, leidėjas, metai ir puslapiai.
+    - t-009
+    - t-010
+- c-003
+  santrauka: 'Šiame darbo tekste naudojamas Birutės Vanagienės parengtas leidimas, išleistas Vilniuje leidykloje `Ethnos’91` 1993 m.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Simonas Daukantas, _Būdas senovės lietuvių kalnėnų ir žemaičių_ , parengė Birutė Vanagienė, Vilnius: Ethnos’91, 1993,
     p. 5–117, 139–211.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: 'Tiesioginė citata iš vieno šaltinio.'
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-    - t-003
+    - t-007
+    - t-008

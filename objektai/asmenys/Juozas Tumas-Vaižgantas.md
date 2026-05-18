@@ -1,9 +1,11 @@
 ---
 tipas: asmuo
-pavadinimas: 'Juozas Tumas-Vaižgantas'
+pavadinimas: 'Juozas Tumas-Vaižgantas (rašytojas)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Juozas Tumas-Vaižgantas'
+aliases:
+  - 'Juozas Tumas-Vaižgantas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
@@ -12,7 +14,7 @@ tags:
   - kunigas
   - tauta
 ---
-# Juozas Tumas-Vaižgantas
+# Juozas Tumas-Vaižgantas (rašytojas)
 
 ## Santrauka
 

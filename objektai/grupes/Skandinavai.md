@@ -23,6 +23,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   teiginys: 'Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolatinį upių susisiekimą su Bizantija.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -31,11 +33,11 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   citata_originali: |
     Skandinavai, būdami energingiausi iš šiaurės Europos tautų, tu-
     rėjo nuolatinį upių susisiekimą su Bizantija.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

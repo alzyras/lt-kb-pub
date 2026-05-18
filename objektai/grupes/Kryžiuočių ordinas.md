@@ -89,14 +89,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Kryžiuočių ordinas susiejamas su Marijos Mergelės ordino vardu ir kryžiaus karų tradicija'
-  pagrindžia:
-    - c-066
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 - t-003
-  teiginys: 'Ordinas pristatomas kaip nuo Vyslos iki Nemuno priėjusi vokiečių jėga, puolusi lietuvius ir statanti pilis prie Nemuno'
+  teiginys: 'Nuo 1282 m. Kryžiuočių ordinas, pasiekęs Nemuną, pradėjo pulti lietuvius ir statyti pilis Nemuno pakrantėje.'
   pagrindžia:
     - c-003
     - c-046
@@ -109,12 +103,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   teiginys: 'Ordinas apibūdinamas kaip keičiantis taktiką ir rengiantis smulkius reidus į Lietuvą'
   pagrindžia:
     - c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-005
-  teiginys: 'Kryžiuočių ordinas atvirai įvardijamas kaip Jogailos planams priešinęsis vokiečių ordinas, puolęs Lietuvą'
-  pagrindžia:
-    - c-071
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-006
@@ -133,54 +121,10 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-008
-  teiginys: 'Kryžiuočiai tiesiogiai yra pasienio jėga, siejama su Lietuvos pakraščiu'
+  teiginys: 'Kryžiuočių pasienį sudarė didelė giria dabartiniame Suvalkų krašte ir dalyse Tauragės, Kretingos bei Telšių apskričių.'
   pagrindžia:
     - c-008
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-009
-  teiginys: 'Prūsuose sustiprėjęs ordinas kolonizavo žemes ir kasmet puldavo Lietuvą.'
-  pagrindžia:
-    - c-054
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-010
-  teiginys: '1382 m. Jogaila užrašė kryžiuočiams beveik visą vakarinę Žemaičių dalį iki Dubysos ir pažadėjo be ordino žinios nepradėti karo.'
-  pagrindžia:
-    - c-055
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-011
-  teiginys: 'Vytautas ordinui pažadėjo Žemaitiją iki Nevėžio ir Kauną, o ordinas toliau rėmė jo kovą dėl tėviškės.'
-  pagrindžia:
-    - c-056
-    - c-057
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-012
-  teiginys: 'Ordinas plėtė karinę akciją Lietuvos pasienyje statydamas Naująjį Gardiną ir Metenburgą su kryžiuočių įgulomis.'
-  pagrindžia:
-    - c-058
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-013
-  teiginys: 'Prieš Vorsklos žygį ordinas siuntė savo kariuomenę Vytautui ir tebelaikė save kovotoju su netikinčiaisiais.'
-  pagrindžia:
-    - c-068
-    - c-067
-    - c-064
-    - c-059
-    - c-060
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-014
-  teiginys: 'Po Lietuvos krikšto ordinas Vakaruose skleidė gandus apie tariamą krikštą, o po Žalgirio jo pretenzija krikštyti Žemaitiją žlugo.'
-  pagrindžia:
-    - c-065
-    - c-063
-    - c-061
-    - c-062
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
@@ -208,7 +152,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   pagrindžia:
     - t-002
 - c-003
-  santrauka: Ordinas pristatomas kaip nuo Vyslos iki Nemuno priėjusi vokiečių jėga, puolusi lietuvius ir statanti pilis prie Nemuno
+  santrauka: 'Nuo 1282 m. Kryžiuočių ordinas, pasiekęs Nemuną, pradėjo pulti lietuvius ir statyti pilis Nemuno pakrantėje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kaip tik šituo metu
@@ -283,7 +227,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   pagrindžia:
     - t-007
 - c-008
-  santrauka: Kryžiuočiai tiesiogiai yra pasienio jėga, siejama su Lietuvos pakraščiu
+  santrauka: 'Kryžiuočių pasienį sudarė didelė giria dabartiniame Suvalkų krašte ir dalyse Tauragės, Kretingos bei Telšių apskričių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Nors teritorijos atžvilgiu ru-
@@ -334,7 +278,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   pagrindžia:
     - t-002
 - c-046
-  santrauka: Kryžiuočių ordinas papildomas patvirtintas šaltinio paminėjimas.
+  santrauka: 'Nuo 1282 m. Kryžiuočių ordinas, pasiekęs Nemuną, pradėjo pulti lietuvius ir statyti pilis Nemuno pakrantėje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Todėl ordinas per 50 metų nukariavo
@@ -350,7 +294,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   pagrindžia:
     - t-003
 - c-047
-  santrauka: Kryžiuočių ordinas papildomas patvirtintas šaltinio paminėjimas.
+  santrauka: 'Nuo 1282 m. Kryžiuočių ordinas, pasiekęs Nemuną, pradėjo pulti lietuvius ir statyti pilis Nemuno pakrantėje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kryžiuočiai, atslinkę prie Nemuno, tuojau
@@ -400,7 +344,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   pagrindžia:
     - t-007
 - c-050
-  santrauka: Kryžiuočių ordinas papildomas patvirtintas šaltinio paminėjimas.
+  santrauka: 'Nuo 1282 m. Kryžiuočių ordinas, pasiekęs Nemuną, pradėjo pulti lietuvius ir statyti pilis Nemuno pakrantėje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Gedimino ir Algirdo laikais giliai Lie-
@@ -414,7 +358,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   pagrindžia:
     - t-003
 - c-051
-  santrauka: Kryžiuočių ordinas papildomas patvirtintas šaltinio paminėjimas.
+  santrauka: 'Nuo 1282 m. Kryžiuočių ordinas, pasiekęs Nemuną, pradėjo pulti lietuvius ir statyti pilis Nemuno pakrantėje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lietuvai buvo sunku prekiauti su Hanzos pirkliais, nes visą
@@ -477,282 +421,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
     - t-007
     - t-002
     - t-002
-- c-054
-  santrauka: Ordinas parodytas kaip Prūsuose sustiprėjusi ir Lietuvą nuolat puldanti jėga.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Vokiečių Ordinas, bekariaudamas įsigijo Prūsuose didelius
-    žemės plotus ir juos kolonizuodamas, darėsi vis stipresnis, Lai­
-    mėjęs Vislos žiotis ir Pamarį (1309 metais) ir išplėtęs savo pre­
-    kybą su tolimais Vakarų Europos miestais, nors vis labiau tolo
-    nuo pirmykštės Ordino dvasios, bet turėdami pilną iždą pinigų,
-    daug stiprių pilių ir nuolat iš Vakarų Europos plaukiančių jėgų,
-    kryžiuočiai kasmet po kelis kartus puldavo Lietuvą, išniokoda­
-    mi plačias jos sritis, degindami gyvenamas vietas ir žmones iš­
-    sivesdami nelaisvėn.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-009
-- c-055
-  santrauka: 1382 m. Jogaila suteikė ordinui dideles nuolaidas Žemaitijoje ir karo politikoje.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Pirmoje sutarty
-    Jogaila pasižada su abiem Ordinais ketverius metus laikytis
-    taikos, antrojoje žada 4-rių metų bėgy kartu su savo tautiečiais
-    apsikrikštyti, trečiąja sutartimi, kuri buvo vokiečių Ordinui pati
-    svarbiausioji, jis užrašė kryžiuočiams beveik visą Žemaičių
-    kraštą, t. y. vakarinę jo dalį iki pat Dubysos upės. Žadėdamas
-    Jogailai padėti karo jėgomis, Ordinas išgavo iš jo sutikimą, kad
-    jis be Ordino žinios ir pritarimo su niekuo nepradės karo.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-010
-- c-056
-  santrauka: Vytautas už ordino paramą pažadėjo Žemaitiją iki Nevėžio ir Kauną.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Atiduodamas vokiečiams visą Žemaičių kraštą
-    iki pat Nevėžio upės, Vytautas dar pažadėjo Ordinui Kauną.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-011
-- c-057
-  santrauka: Geri santykiai su ordinu buvo laikomi garantija tolesnei paramai Vytautui.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Po šito susitarimo, žemaičių santykiai su Ordinu vis dau­
-    giau švelnėjo. Tai, žinoma, negalėjo atsitikti be Vytauto pa­
-    tarimo ir pritarimo, nes tėviškė dar nebuvo atgauta, t. y. jo pla­
-    nas dar nebuvo realizuotas, todėl gražus su kryžiuočiais sugy­
-    venimas buvo garantija, kad Ordinas neatsisakys ir toliau rem­
-    ti Vytauto jo kovoje dėl teisės į savo tėviškę.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-011
-- c-058
-  santrauka: Ordinas prie Lietuvos pasienio statė naujas pilis su įgulomis.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Matydamas Vytauto pastangas neinant veltui, Ordinas ma­
-    tė reikalą taip pat išplėsti Lietuvos pasienyje akciją. Dar
-    vasarą tam reikalui magistras įsakė netoli Gardino pastatyti dvi
-    pilis: Naująjį Gardiną ir Metenburgą (Meteną), kame buvo pa­
-    talpintos kryžiuočių įgulos.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-012
-- c-059
-  santrauka: Ordinas prie Vorsklos atsiuntė savo komtūrą su kariuomene.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Ordinas atsiuntė savo komtūrą
-    Marquardą v. Salzbachą su keliais tūkstančiais kariuomenės;
-    prisijungė prie Vytauto su savo pulkais ir Tochtamyšas.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-013
-- c-060
-  santrauka: Ordinas tebelaikė kovos su netikinčiaisiais garbę savo prestižo dalimi.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Dabar visa garbė ir
-    šlovė, kurią savinosi Prūsų Ordinas, kaip kovotojas su netikin­
-    čiais, turėjo atitekti Vytautui, galvojančiam nukariauti visus
-    totorius, tarpininkaujant Tochtamyšui, pretendentui į jų sostą.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-013
-- c-061
-  santrauka: Ordinas Vakaruose skleidė gandus apie tariamą Lietuvos krikštą ir gynė savo reputaciją.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Prie­
-    šingai, kryžiuočiai paleido į Vak. Europos visuomenę gandų,
-    kad Lietuvos krikštas yra tariamas, atliktas paviršutiniškai,
-    be didesnio žmonių paruošimo ir net apsikrikštijusieji tai da­
-    rė dovanų pavilioti^2 ). Vytautas, jų vadas, esąs grasinąs sa­
-    vo arklius pagirdyti Reino upėje, vadinasi, katalikas būdamas,
-    norįs užimti ir sunaikinti katalikišką Vokietiją. Vak. Europos
-    visuomenė tikėjo Ordinui ir laikė tik jį tikėjimo gynėju Europos
-    Rytuose.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-014
-- c-062
-  santrauka: Po Žalgirio ordinas prarado pretenziją kardu krikštyti Žemaitiją.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Bet štai Vytautas Žalgirio mūšyje (1410) palaužė Ordino
-    galybę ir Žemaitijai grąžino laisvę. Torno taika (1411) įgijęs
-    Žemaičių kraštą iki gyvos galvos, Vytautas jau nebesiskaitė su
-    žemaičių prisirišimu prie savo tikėjimo ir pasiryžo juos ap­
-    krikštyti. Tuo būdu Ordinas, pralaimėjęs Žalgirio kovą, pra­
-    laimėjo ir čia, nes jo užsimojimas apkrikštyti visą Lietuvą ir
-    plačiai garsintas pasauliui rytuose apaštalavimas, kurį jis vedė
-    kardu, sudužo į Vytauto galybę. Vytautui, bet ne Ordinui,
-    teko garbė laimėti Žemaičius Kristaus Bažnyčiai.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-014
-- c-063
-  santrauka: Kryžiuočių ordinas papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Iš savo pusės, sutikdami apsi­
-    krikštyti, jiedu pirmiausia reikalavo, kad Vokiečių Ordinas Lie­
-    tuvai grąžintų žemes iki Deimės ir Alės upių Prūsijoje ir Žiemga­
-    lius bei Kuršius Livonijoje. Kadangi Lietuvai apsikrikštijus
-    Ordino egzistencijai Lietuvos pasieniuose nebūtų buvę pagrindo,
-    tai jiedu siūlė Ordinui išsikelti į Rusijos pietus, ginti krikščionis
-    nuo totorių užpuldinėjimo.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-014
-- c-064
-  santrauka: Kryžiuočių ordinas papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Naugardiečiai atsakė,
-    kad jie ir su Maskva, ir su Lietuva, pagaliau, ir su Vokiečiais
-    yra padarę atskiras taikos sutartis, čia nieko nelaimėjęs, Vy­
-    tautas stengėsi prieš save atkreiptą ir Maskvos vadovaujamą
-    koaliciją nuginkluoti rytų koalicijos planu, nukreiptu prieš kar­
-    dininkus ir kryžiuočius.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-013
-- c-065
-  santrauka: Kryžiuočių ordinas papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Vytautas, dukart iš Lietuvos pabėgęs, išbuvo apie ketve­
-    rius metus Prūsuose. Tenai, kryžiuočių tarpe, jis išėjo gerą ir
-    drausmingą gyvenimo mokyklą, kuri jam padėjo atsivaduoti
-    tėviškę. Ordino valstybė, gyvenusi keletą šimtų metų krikščio­
-    niškos Vakarų kultūros įtakoj, labai teigiamai galėjo atsiliepti
-    sumaniam Vytautui: jis čionai rado savo tikslams ne tik mate­
-    rialinės, bet ir dvasinės paramos. Tas kraštas jį ir politiškai iš­
-    lavino.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-014
-- c-066
-  santrauka: Kryžiuočių ordinas papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Žodžiu, jis Prūsuose mito Vakarų kultūros vai­
-    siais, ypač materialine kultūra, kurią paskui kėlė savo krašte,
-    statydamas bažnyčias, pilis ir t. t.
-    Išmoko čia ir tos suktos, bet realios Ordino politikos, ku­
-    rios vėliau pats griebdavos santykiaudamas su kaimynais.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-002
-- c-067
-  santrauka: Kryžiuočių ordinas papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Krėvės akte buvo pasirašęs ir jis, bet
-    tas jam nė kiek nekliudė 1398 met. sudaryti su Ordinu prieš
-    savo juridiškąjį suvereną sutartį ir pasirašyti ją titulu: „Dei gra­
-    tia supremus dux Lithuaniae et Russiae“.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-013
-- c-068
-  santrauka: Kryžiuočių ordinas papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Labai aukštai
-    savo ir visos Lietuvos vardą pakėlė sudarydamas kompaniją
-    prieš Ordiną, kuri galutinai savo tikslo pasiekė. Ordinas tapo
-    deskredituotas.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-013
-    - t-014
-    - t-013
-- c-071
-  santrauka: Kryžiuočių ordinas papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    O kai Vokiečių Ordino ma­
-    gistras uždraudė į Lietuvą įvežti druskos, supykęs Vytautas įsa­
-    kė visiems vokiečių pirkliams iki Sekminių iš Lietuvos išsineš­
-    dinti^3 ).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-005
-    - t-014
-    - t-002
-    - t-013
-    - t-013
-    - t-005
 
 ## Ryšiai
 ### Laikotarpiai
@@ -767,4 +435,3 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - [[objektai/paprociai/Sezoniniai ordino žygiai į Lietuvą]]
 - [[objektai/grupes/Templininkų ordinas]]
 - [[objektai/asmenys/Ulrichas von Jungingenas]]
-- [[objektai/grupes/Didžiojo Naugardo respublika]]

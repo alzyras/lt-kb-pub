@@ -33,17 +33,21 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Iš visos Lietuvos rusai pasitraukė be mūšio.'
+  teiginys: 'Napoleono kariuomenei žygiuojant į Lietuvą, rusai iš visos Lietuvos pasitraukė be mūšio.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: 'Napoleono kariuomenei užėmus Lietuvą, bajorija tuojau sujudo rūpintis atgaivinti didžiąją kunigaikštiją Napoleono globoje.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Iš visos Lietuvos rusai pasitraukė be mūšio.'
+  santrauka: 'Napoleono kariuomenei žygiuojant į Lietuvą, rusai iš visos Lietuvos pasitraukė be mūšio.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Paskelbęs
@@ -51,11 +55,11 @@ Nenurodyta
     Kaunu ir greit nužygiavo į Vilnių. Iš visos Lietuvos rusai pa-
     sitraukė be mūšio. Su jais išsikraustė ir Oginskis ir kiti Rusijos
     globos šalininkai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
@@ -68,11 +72,11 @@ Nenurodyta
     duoti jo armijai maisto ir kareivių. Bajorijos atsiunčiamoms de-
     legacijoms jis nieko tikro nežadėjo, nes dar tebebuvo neaiški
     karo pabaiga.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

@@ -32,30 +32,10 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Tačiau caras apsivylė, nes tarpuvaldis buvo labai ramus ir trumpas (Maskvos puolimas dar labiau vertė paskubinti elekciją), ir naujasis karalius veikiai galėjo išžygiuoti į karą.'
-  pagrindžia:
-    - c-001
+Nenurodyta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Tačiau caras apsivylė, nes tarpuvaldis buvo labai ramus ir trumpas (Maskvos puolimas dar labiau vertė paskubinti elekciją), ir naujasis karalius veikiai galėjo išžygiuoti į karą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kai 1632 m. atėjo žinia, kad mirė karalius Zigmantas, caras Myko-
-    las, nelaukdamas paliaubų galo, didžiulę savo kariuomenę iš-
-    siuntė užimti Lietuvos Smolensko. Mat, jis tikėjosi, kad tarpu-
-    valdis ilgai užtruks, kad jo metu, kaip paprastai, krašte kils ne-
-    ramumų. Tačiau caras apsivylė, nes tarpuvaldis buvo labai ra-
-    mus ir trumpas (Maskvos puolimas dar labiau vertė paskubinti
-    elekciją), ir naujasis karalius veikiai galėjo išžygiuoti į karą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
+Nenurodyta
 
 ## Ryšiai
 ### Teminiai klasteriai

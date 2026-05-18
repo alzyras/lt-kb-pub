@@ -62,13 +62,13 @@ Naudota viešoje manifestacijoje Kaune kaip lėktuvų tempiamas simbolis.
 Nenurodyta
 
 ## Teiginiai
-- t-007
+- t-009
   teiginys: 'Liepos 9 d. Vingio parke LPS vadovybė paskelbė reikalavimą legalizuoti trispalvę ir „Tautišką giesmę“.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-008
+- t-010
   teiginys: 'Spalio 6-ąją Aukščiausiosios Tarybos Prezidiumas legalizavo Lietuvos trispalvę, „Tautišką giesmę“, Vytį ir Gediminaičių stulpus.'
   pagrindžia:
     - c-002
@@ -91,7 +91,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-007
+    - t-009
 - c-002
   santrauka: 'Spalio 6-ąją Aukščiausiosios Tarybos Prezidiumas legalizavo Lietuvos trispalvę, „Tautišką giesmę“, Vytį ir Gediminaičių stulpus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -108,7 +108,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-008
+    - t-010
 
 ## Šaltiniai ir įrodymai
 

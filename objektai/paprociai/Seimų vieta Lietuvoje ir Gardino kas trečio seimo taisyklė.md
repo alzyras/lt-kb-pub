@@ -39,22 +39,32 @@ Nenurodyta
   teiginys: 'Liublino seimas seimų vieta paskyrė Varšuvą arba kurį nors kitą Lenkijos miestą.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Keletą kartų jie vis dėlto pasiekė tai, kad seimas prieš įstatymus buvo sušauktas Lietuvoje, o 1673 m. buvo pakeistas ir patsai seimų vietos įstatymas; naujasis įstatymas nustatė, kad kas trečias seimas, kurio maršalka esti lietuvis, rinktųsi Lietuvoje —.'
+  teiginys: '1673 m. pakeistas seimų vietos įstatymas nustatė, kad kas trečias seimas su lietuviu maršalka rinktųsi Gardine.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-003
-  teiginys: 'Be to, tas pats įstatymas pripažino pirmenybę Lietuvos ministeriams, kai seimas būdavo Lietuvoje.'
+  teiginys: 'Tas pats įstatymas pripažino Lietuvos ministerių pirmenybę, kai seimas vykdavo Lietuvoje.'
   pagrindžia:
     - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-004
-  teiginys: 'Naudodamiesi sunkia Lenkijos būkle, Lietuvos atstovai 1673 m. seime išreikalavo iš lenkų priimti įstatymą, kad kas trečias seimas, kurio maršalka esti lietuvis, būtų šaukiamas Lietuvoje (Gardine).'
+  teiginys: 'Lietuvos atstovai 1673 m. seime išreikalavo įstatymo, kad kas trečias seimas su lietuviu maršalka būtų šaukiamas Gardine.'
   pagrindžia:
     - c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-005
-  teiginys: 'Tuo būdu priimtas įstatymas, kad kas trečias seimas turi būti šaukiamas Lietuvoje, buvo vykdomas iki pat Respublikos galo.'
+  teiginys: 'Įstatymas, kad kas trečias seimas turi būti šaukiamas Lietuvoje, buvo vykdomas iki Respublikos pabaigos.'
   pagrindžia:
     - c-005
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -63,15 +73,15 @@ Nenurodyta
   citata_originali: |
     Liublino seimas seimų vieta paskyrė Varšuvą
     arba kurį nors kitą Lenkijos miestą. Tačiau lietuviai visą laiką
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Keletą kartų jie vis dėlto pasiekė tai, kad seimas prieš įstatymus buvo sušauktas Lietuvoje, o 1673 m. buvo pakeistas ir patsai seimų vietos įstatymas; naujasis įstatymas nustatė, kad kas trečias seimas, kurio maršalka esti lietuvis, rinktųsi Lietuvoje —.'
+  santrauka: '1673 m. pakeistas seimų vietos įstatymas nustatė, kad kas trečias seimas su lietuviu maršalka rinktųsi Gardine.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Keletą kartų jie vis dėlto pasiekė tai, kad seimas prieš
@@ -79,29 +89,29 @@ Nenurodyta
     ir patsai seimų vietos įstatymas; naujasis įstatymas nustatė, kad
     kas trečias seimas, kurio maršalka esti lietuvis, rink-
     tųsi Lietuvoje — Gardine.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Be to, tas pats įstatymas pripažino pirmenybę Lietuvos ministeriams, kai seimas būdavo Lietuvoje.'
+  santrauka: 'Tas pats įstatymas pripažino Lietuvos ministerių pirmenybę, kai seimas vykdavo Lietuvoje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Be to, tas pats įstatymas
     pripažino pirmenybę Lietuvos ministeriams, kai seimas būdavo
     Lietuvoje.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
 - c-004
-  santrauka: 'Naudodamiesi sunkia Lenkijos būkle, Lietuvos atstovai 1673 m. seime išreikalavo iš lenkų priimti įstatymą, kad kas trečias seimas, kurio maršalka esti lietuvis, būtų šaukiamas Lietuvoje (Gardine).'
+  santrauka: 'Lietuvos atstovai 1673 m. seime išreikalavo įstatymo, kad kas trečias seimas su lietuviu maršalka būtų šaukiamas Gardine.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Naudodamiesi sunkia Len-
@@ -112,15 +122,15 @@ Nenurodyta
     unijos aktai leido šaukti seimus tik Lenkijoje, tad lenkai
     dėl šito labai spyrėsi, tačiau buvo priversti nusileisti, nes lie-
     tuviai kitaip nesutiko jiems duoti paramos.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
 - c-005
-  santrauka: 'Tuo būdu priimtas įstatymas, kad kas trečias seimas turi būti šaukiamas Lietuvoje, buvo vykdomas iki pat Respublikos galo.'
+  santrauka: 'Įstatymas, kad kas trečias seimas turi būti šaukiamas Lietuvoje, buvo vykdomas iki Respublikos pabaigos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo būdu priimtas įstatymas, kad kas trečias sei-
@@ -128,11 +138,11 @@ Nenurodyta
     Respublikos galo. Išimčių buvo padaryta tik didžiausios
     netvarkos laikais XVIII amž-je, kai iširdavo beveik visi seimai.
     Tuo būdu Gardinas pasidarė tarytum antrąją Lietuvos sostine.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
 

@@ -20,13 +20,15 @@ Kryžiuočiai su Lietuva jau skaitėsi, kaip su valstybe, ir karas jau nebebuvo 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kryžiuočiai su Lietuva jau skaitėsi, kaip su valstybe, ir karas jau nebebuvo vien skerdynės: jau buvo laikomasi tam tikros karo etikos, t.'
+  teiginys: 'Karo etika reiškė vakarų Europoje laikytus kariavimo papročius, kurių imta laikytis kryžiuočių kare su Lietuva.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kryžiuočiai su Lietuva jau skaitėsi, kaip su valstybe, ir karas jau nebebuvo vien skerdynės: jau buvo laikomasi tam tikros karo etikos, t.'
+  santrauka: 'Karo etika reiškė vakarų Europoje laikytus kariavimo papročius, kurių imta laikytis kryžiuočių kare su Lietuva.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kariavimo būdas jau pakitėjo. Kryžiuočiai su Lietuva jau
@@ -34,11 +36,11 @@ Kryžiuočiai su Lietuva jau skaitėsi, kaip su valstybe, ir karas jau nebebuvo 
     jau buvo laikomasi tam tikros karo etikos, t. y. tų kariavimo
     papročių, kurių buvo laikomasi vakarų Europoje. O tas pasikei-
     tė daugiausia dėl to meto lietuvių vado, Kęstučio, nuopelnų.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

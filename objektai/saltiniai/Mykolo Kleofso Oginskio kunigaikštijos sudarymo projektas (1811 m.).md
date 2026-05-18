@@ -18,13 +18,17 @@ Be to, jis siūlė palikti toje kunigaikštijoje Lietuvos statutą be jokių apr
 
 ## Teiginiai
 - t-001
-  teiginys: 'Be to, jis siūlė palikti toje kunigaikštijoje Lietuvos statutą be jokių apribojimų ir įsteigti nuo Petrapilio visiškai nepriklausomą tribunolą (mat, tada aukščiausioji instancija buvo Rusijos senatas).'
+  teiginys: 'Oginskio projekte siūlyta kunigaikštijoje be apribojimų palikti Lietuvos Statutą ir įsteigti nuo Petrapilio nepriklausomą tribunolą.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Be to, jis siūlė palikti toje kunigaikštijoje Lietuvos statutą be jokių apribojimų ir įsteigti nuo Petrapilio visiškai nepriklausomą tribunolą (mat, tada aukščiausioji instancija buvo Rusijos senatas).'
+  santrauka: 'Oginskio projekte siūlyta kunigaikštijoje be apribojimų palikti Lietuvos Statutą ir įsteigti nuo Petrapilio nepriklausomą tribunolą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Be to, jis siūlė pa-
@@ -35,10 +39,10 @@ Be to, jis siūlė palikti toje kunigaikštijoje Lietuvos statutą be jokių apr
     klausomą tribunolą (mat,
     tada aukščiausioji instan-
     cija buvo Rusijos senatas).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

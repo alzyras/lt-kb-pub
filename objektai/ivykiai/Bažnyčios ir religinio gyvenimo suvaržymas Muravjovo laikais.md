@@ -33,25 +33,27 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Pirmiausia buvo uždrausta statyti naujas ir remontuoti senas bažnyčias, uždrausta ruošti procesijas ir viešai sakyti pamokslus.'
+  teiginys: 'Muravjovo laikais buvo uždrausta statyti naujas ir remontuoti senas bažnyčias, rengti procesijas ir viešai sakyti pamokslus.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Be to, Muravjovas ėmė tikrinti, kurios bažnyčios buvo įsivėlusios į sukilimą.'
+  teiginys: 'Muravjovas patikrino bažnyčias dėl dalyvavimo sukilime, rado 32 tokias bažnyčias ir visas jas uždarė.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-003
-  teiginys: 'Todėl ir jie buvo uždrausti statyti be leidimo; buvo leidžiami statyti tik tokie kryžiai, kurie, esą, aiškiai skirti religiniams reikalams, o ne „lenkiškajai propagandai".'
+  teiginys: 'Muravjovo laikais kryžius leista statyti tik su leidimu ir tik tada, kai jie laikyti skirtais religiniams reikalams.'
   pagrindžia:
     - c-003
-- t-004
-  teiginys: 'Po kiekvieno neramumo nuo rusų tekdavo nukentėti ir Bažnyčiai.'
-  pagrindžia:
-    - c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Pirmiausia buvo uždrausta statyti naujas ir remontuoti senas bažnyčias, uždrausta ruošti procesijas ir viešai sakyti pamokslus.'
+  santrauka: 'Muravjovo laikais buvo uždrausta statyti naujas ir remontuoti senas bažnyčias, rengti procesijas ir viešai sakyti pamokslus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pirmiausia buvo uždrausta
@@ -63,15 +65,15 @@ Nenurodyta
     pijos ribų. Įstoti į seminariją taip pat reikėjo leidimo. Pa-
     mokslus leido sakyti tik iš spausdintų ir valdžios patvirtin-
     tų pamokslų rinkinių.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Be to, Muravjovas ėmė tikrinti, kurios bažnyčios buvo įsivėlusios į sukilimą.'
+  santrauka: 'Muravjovas patikrino bažnyčias dėl dalyvavimo sukilime, rado 32 tokias bažnyčias ir visas jas uždarė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Be to, Muravjovas ėmė tikrinti, kurios bažnyčios buvo įsi-
@@ -82,15 +84,15 @@ Nenurodyta
     tyniškos lenkiškos propagandos lizdais ir sukilimo šaknimis".
     Apie 20 vienuolynų pripažino dalyvavus sukilime ir juos už-
     darė.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Todėl ir jie buvo uždrausti statyti be leidimo; buvo leidžiami statyti tik tokie kryžiai, kurie, esą, aiškiai skirti religiniams reikalams, o ne „lenkiškajai propagandai".'
+  santrauka: 'Muravjovo laikais kryžius leista statyti tik su leidimu ir tik tada, kai jie laikyti skirtais religiniams reikalams.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Užkliuvo Muravjovui ir Lietuvos kaimuose bei pakelėse stovį
@@ -99,31 +101,10 @@ Nenurodyta
     ir jie buvo uždrausti statyti be leidimo; buvo leidžiami statyti
     tik tokie kryžiai, kurie, esą, aiškiai skirti religiniams reikalams,
     o ne „lenkiškajai propagandai".
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
-- c-004
-  santrauka: 'Po kiekvieno neramumo nuo rusų tekdavo nukentėti ir Bažnyčiai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Po kiekvieno neramumo nuo rusų tekdavo nukentėti ir
-    Bažnyčiai. Ypač daug ji nukentėjo po 1831 m. sukilimo. Bet
-    visų didžiausia Bažnyčios priespauda prasidėjo Muravjovo lai-
-    kais. Bažnyčias ir vienuolynus jis laikė didžiausiais Rusų valdžios
-    priešais ir lenkybės tvirtovėmis. Todėl valdžia paėmė į savo
-    kontrolę visą Bažnyčios veiklą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Blaivybės kryžiai]]

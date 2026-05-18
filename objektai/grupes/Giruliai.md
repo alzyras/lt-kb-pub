@@ -29,7 +29,7 @@ tags:
 Giruliai šiame fragmente aiškinami kaip istorinis žemaičių ir kalnėnų vardas.
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Giruliai šiame fragmente aiškinami kaip istorinis žemaičių ir kalnėnų vardas.'
   pagrindžia:
     - c-001
@@ -38,7 +38,7 @@ Giruliai šiame fragmente aiškinami kaip istorinis žemaičių ir kalnėnų var
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Giruliai šiame fragmente aiškinami kaip istorinis žemaičių ir kalnėnų vardas.
+  santrauka: 'Giruliai šiame fragmente aiškinami kaip istorinis žemaičių ir kalnėnų vardas.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Šeštajame amžiuje gimus Kristui kitsai raštininkas, minavodamas Lietuvos kraštą, sako: „Vieni
@@ -50,4 +50,4 @@ Giruliai šiame fragmente aiškinami kaip istorinis žemaičių ir kalnėnų var
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

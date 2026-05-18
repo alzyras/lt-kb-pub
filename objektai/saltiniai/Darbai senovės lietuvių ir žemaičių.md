@@ -33,26 +33,5 @@ tags: []
 - Data: aiškiai nenurodyta.
 
 ## Teiginiai
-- t-001
-  teiginys: 'S. Daukantas parašė veikalą „Darbai senovės lietuvių ir žemaičių“.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Bibliografiniai įrodymai
-- c-001
-  santrauka: Citata tiesiogiai priskiria veikalą S. Daukantui.
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tai buvo darbai Vilniaus universiteto
-    auklėtinio S. Daukanto, kuris parašė net kelis Lietuvos isto-
-    rijos veikalus („Darbus senovės lietuvių ir žemaičių", „Būdą senovės
-    lietuvių", „Lietuvos istoriją" — 2 t.).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001

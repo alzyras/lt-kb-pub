@@ -31,7 +31,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Slaptai leista ir nelegaliai platinta „Aušra“ tapo naujų tautinio sąjūdžio jėgų telkimo priemone.'
+  teiginys: 'Slaptai leistas ir nelegaliai platintas „Aušros“ mėnraštis tapo naujų tautinio sąjūdžio jėgų telkimo priemone.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -39,7 +39,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Slaptai leista ir nelegaliai platinta „Aušra“ tapo naujų tautinio sąjūdžio jėgų telkimo priemone.'
+  santrauka: 'Slaptai leistas ir nelegaliai platintas „Aušros“ mėnraštis tapo naujų tautinio sąjūdžio jėgų telkimo priemone.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų

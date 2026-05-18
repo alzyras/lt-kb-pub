@@ -34,7 +34,7 @@ A. Veryha-Darevskis šiame šaltinyje minimas kaip veikalo „Lietuvos mokesčia
 - Lietuvos mokesčiai
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'A. Veryha-Darevskis šiame šaltinyje nurodomas kaip veikalo „Lietuvos mokesčiai“ autorius.'
   pagrindžia:
     - c-002
@@ -44,20 +44,20 @@ A. Veryha-Darevskis šiame šaltinyje minimas kaip veikalo „Lietuvos mokesčia
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Išnašoje A. Veryha-Darevskis pateikiamas kaip veikalo apie Lietuvos mokesčius autorius.
+  santrauka: 'A. Veryha-Darevskis šiame šaltinyje nurodomas kaip veikalo „Lietuvos mokesčiai“ autorius.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     (^2) ) A. Veryha - Darevskis, Lietuvos mokesčiai, 19 p., (Cit. iš Liubavski,
     Oblastnoe delenie L.R.Q. Moskva 1892, p. 321). 3
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
 - c-002
-  santrauka: A. Veryha - Darevskis papildomas patvirtintas šaltinio paminėjimas.
+  santrauka: 'A. Veryha-Darevskis šiame šaltinyje nurodomas kaip veikalo „Lietuvos mokesčiai“ autorius.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     A. Veryha - Darevskis, Lietuvos mokesčiai, 19 p., (Cit. iš Liubavski,
@@ -65,8 +65,7 @@ A. Veryha-Darevskis šiame šaltinyje minimas kaip veikalo „Lietuvos mokesčia
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-001
+    - t-002

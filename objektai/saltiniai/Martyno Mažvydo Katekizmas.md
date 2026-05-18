@@ -24,7 +24,7 @@ Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai knygai lietuvi
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Pirmoji lietuviška knyga – Martyno Mažvydo „Katekizmas“.'
+  teiginys: 'Martyno Mažvydo „Katekizmas“ buvo pirmoji lietuviška knyga.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -61,7 +61,7 @@ Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai knygai lietuvi
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Pirmoji lietuviška knyga – Martyno Mažvydo „Katekizmas“.'
+  santrauka: 'Martyno Mažvydo „Katekizmas“ buvo pirmoji lietuviška knyga.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kilmės iš

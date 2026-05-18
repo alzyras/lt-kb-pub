@@ -33,7 +33,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lietuva patyrė Lietuvos žydų Holokaustą, sovietines deportacijas į Sibirą ir 1944 m. emigraciją į Vakarus.'
+  teiginys: 'Lietuvos žydų Holokaustas buvo viena iš didžiulių Lietuvos patirtų netekčių.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -45,7 +45,7 @@ Nenurodyta
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: '1943 m. naciai naikino miestų getus, kasė ir degino nužudytųjų kūnus.'
+  teiginys: '1943 m. naciai naikino Lietuvos miestų getus, kasė ir degino nužudytųjų kūnus.'
   pagrindžia:
     - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -59,7 +59,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lietuva patyrė Lietuvos žydų Holokaustą, sovietines deportacijas į Sibirą ir 1944 m. emigraciją į Vakarus.'
+  santrauka: 'Lietuvos žydų Holokaustas buvo viena iš didžiulių Lietuvos patirtų netekčių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau pergyvenusi
@@ -91,7 +91,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 - c-003
-  santrauka: '1943 m. naciai naikino miestų getus, kasė ir degino nužudytųjų kūnus.'
+  santrauka: '1943 m. naciai naikino Lietuvos miestų getus, kasė ir degino nužudytųjų kūnus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Karui baigiantis, 1943 m., naciai naikino miestų getus, iškasė

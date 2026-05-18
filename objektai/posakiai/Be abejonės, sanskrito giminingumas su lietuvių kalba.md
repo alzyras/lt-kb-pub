@@ -28,13 +28,13 @@ tags: []
 Epigrafinė frazė pabrėžia lietuvių kalbos giminingumą sanskritui ir priskiriama Robert Gordon Latham veikalui „Descriptive Ethnology“.
 
 ## Teiginiai
-- t-003
-  teiginys: 'Frazėje teigiama, kad sanskrito giminingumas su lietuvių kalba yra didesnis negu su bet kuria kita kalba žemėje.'
+- t-005
+  teiginys: 'Posakyje sanskrito giminingumas su lietuvių kalba laikomas didesniu negu su bet kuria kita kalba žemėje.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-004
+- t-006
   teiginys: 'Frazė priskirta Robert Gordon Latham veikalui „Descriptive Ethnology“.'
   pagrindžia:
     - c-001
@@ -43,7 +43,7 @@ Epigrafinė frazė pabrėžia lietuvių kalbos giminingumą sanskritui ir priski
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Frazėje teigiama, kad sanskrito giminingumas su lietuvių kalba yra didesnis negu su bet kuria kita kalba žemėje.'
+  santrauka: 'Posakyje sanskrito giminingumas su lietuvių kalba laikomas didesniu negu su bet kuria kita kalba žemėje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Į v a d a s
@@ -60,5 +60,5 @@ Epigrafinė frazė pabrėžia lietuvių kalbos giminingumą sanskritui ir priski
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
-    - t-004
+    - t-005
+    - t-006

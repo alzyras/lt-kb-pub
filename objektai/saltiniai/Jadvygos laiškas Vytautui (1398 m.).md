@@ -35,22 +35,24 @@ Jadvyga šiame laiške priminė Vytautui, kad Lietuvos ir Rusijos žemės, kuria
 - Data / laikotarpis: 1398 m.
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: 'Jadvyga laišku priminė Vytautui, kad Lietuvos ir Rusijos žemės, kurias Jogaila valdė prieš ją vesdamas, buvusios užrašytos jai kraičiu, todėl reikalavo iš Vytauto metinio činšo.'
   pagrindžia:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Šiame veikale pasakojama, kad Jadvygos laiškas buvo paskelbtas žymiausiems lietuvių ir rusų bajorams ir buvo suvoktas kaip lietuvių didikus žeminantis.'
+- t-004
+  teiginys: 'Vytautas paskelbė Jadvygos laišką lietuvių ir rusų bajorams, o šie griežtai atmetė jame iškeltus reikalavimus.'
   pagrindžia:
     - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: Citata pagrindžia pagrindinį Jadvygos laiško reikalavimą Vytautui.
+  santrauka: 'Jadvyga laišku priminė Vytautui, kad Lietuvos ir Rusijos žemės, kurias Jogaila valdė prieš ją vesdamas, buvusios užrašytos jai kraičiu, todėl reikalavo iš Vytauto metinio činšo.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tada Jadvyga „mylimam
@@ -58,25 +60,25 @@ Jadvyga šiame laiške priminė Vytautui, kad Lietuvos ir Rusijos žemės, kuria
     Rusijos žemės, kurias valdė Jogaila prieš ją vesdamas, užrašy­
     tos jai kraičiu1 2), ir todėl už jas reikalauja iš jo mokėti jai metinį
     činšą^3 ).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: Citata pagrindžia, kad laiškas buvo viešai perskaitytas bajorams ir laikytas žeminančiu.
+  santrauka: 'Vytautas paskelbė Jadvygos laišką lietuvių ir rusų bajorams, o šie griežtai atmetė jame iškeltus reikalavimus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     sušaukė jis savo visuomenės atstovus į susirinkimą; susirinko
     žymiausi lietuvių ir rusų bajorai. Jiems buvo paskelbtas Jad­
     vygos laiškas, žeminantis lietuvių didikus. Tie, žinoma, dar
     Vytauto pakurstyti, griežtai atmetė tokius reikalavimus
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: 'Citata nutrūksta eilutės pabaigoje, bet pati laiško paskelbimo ir jo suvokimo prasmė yra aiški.'
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004

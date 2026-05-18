@@ -19,40 +19,24 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Čia, be to, dar prieškariniais laikais buvo smulkių lietuvių savišalpos organizacijų, nes didesnis lietuvių skaičius į Argentiną atvyko dar XIX amž. gale.'
+  teiginys: 'Argentinoje dar prieš karą veikė smulkios lietuvių savišalpos organizacijos, nes daugiau lietuvių ten atvyko XIX a. pabaigoje.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Tai vietinės smulkios draugijos, kurios dažniausiai turi tikslą remti savo tautiečius nelaimėje ar bendrai varyti kokį nors verslą (biznį).'
-  pagrindžia:
-    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Čia, be to, dar prieškariniais laikais buvo smulkių lietuvių savišalpos organizacijų, nes didesnis lietuvių skaičius į Argentiną atvyko dar XIX amž. gale.'
+  santrauka: 'Argentinoje dar prieš karą veikė smulkios lietuvių savišalpos organizacijos, nes daugiau lietuvių ten atvyko XIX a. pabaigoje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Čia, be to, dar prieškariniais laikais buvo
     smulkių lietuvių savišalpos organizacijų, nes didesnis lietuvių
     skaičius į Argentiną atvyko dar XIX amž. gale.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Tai vietinės smulkios draugijos, kurios dažniausiai turi tikslą remti savo tautiečius nelaimėje ar bendrai varyti kokį nors verslą (biznį).'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tai vietinės smulkios draugijos, kurios daž-
-    niausiai turi tikslą remti savo tautiečius nelaimėje ar bendrai va-
-    ryti kokį nors verslą (biznį).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002

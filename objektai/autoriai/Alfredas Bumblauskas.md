@@ -49,14 +49,14 @@ Alfredas Bumblauskas minimas kaip recenzentas ir straipsnio autorius ankstesniam
 - Senosios Lietuvos istorija: 1009–1795
 
 ## Teiginiai
-- t-007
+- t-009
   teiginys: 'Alfredas Bumblauskas buvo vienas 2013 m. Vilniaus universiteto leidyklos išleistos „Lietuvos istorijos“ autorių.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-008
-  teiginys: 'Alfredui Bumblauskui nurodytos 2013 m. leidimo autorių teisės.'
+- t-010
+  teiginys: '2013 m. leidime nurodytos Alfredo Bumblausko autorių teisės.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -84,9 +84,9 @@ Alfredas Bumblauskas minimas kaip recenzentas ir straipsnio autorius ankstesniam
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-007
+    - t-009
 - c-002
-  santrauka: 'Alfredui Bumblauskui nurodytos 2013 m. leidimo autorių teisės.'
+  santrauka: '2013 m. leidime nurodytos Alfredo Bumblausko autorių teisės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Inga Vinogradnaitė
@@ -111,7 +111,7 @@ Alfredas Bumblauskas minimas kaip recenzentas ir straipsnio autorius ankstesniam
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-008
+    - t-010
 
 ## Ryšiai
 ### Laikotarpiai

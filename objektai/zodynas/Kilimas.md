@@ -22,14 +22,14 @@ Pagrindinė forma: `kilimas`.
 Vartojamos formos: `sage`, `sagše`, `vilnonę`.
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: '`Kilimas` šiame tekste reiškia moterų išeiginę vilnonę skarą.'
   pagrindžia:
     - c-001
     - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: '`Sage` ir `sagše` yra to paties drabužio vardai.'
   pagrindžia:
     - c-001
@@ -38,7 +38,7 @@ Vartojamos formos: `sage`, `sagše`, `vilnonę`.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Kilimas` šiame tekste reiškia moterų išeiginę vilnonę skarą
+  santrauka: '`Kilimas` šiame tekste reiškia moterų išeiginę vilnonę skarą.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Išeiginiu drabužiu motriškųjų
@@ -51,10 +51,10 @@ Vartojamos formos: `sage`, `sagše`, `vilnonę`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
 - c-002
-  santrauka: `Kilimas` šiame tekste reiškia moterų išeiginę vilnonę skarą
+  santrauka: '`Kilimas` šiame tekste reiškia moterų išeiginę vilnonę skarą.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     tokį kilimą ant pečių antsiautusios^342 , ant dešiniojo peties segele
@@ -66,7 +66,7 @@ Vartojamos formos: `sage`, `sagše`, `vilnonę`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 
 ## Pastabos
 

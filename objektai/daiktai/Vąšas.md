@@ -41,13 +41,13 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: 'Virš ugnavietės kabėjęs ąžuolo ramentas buvo vadinamas vąšu.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Prie vąšo rišdavo druskos gabalą, kurį gaspadinė galėdavo įleisti į katilą.'
   pagrindžia:
     - c-002
@@ -56,7 +56,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Virš ugnavietės kabėjęs ąžuolo ramentas buvo vadinamas vąšu.
+  santrauka: 'Virš ugnavietės kabėjęs ąžuolo ramentas buvo vadinamas vąšu.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Ant pat vidurio tos duobės ar ugnavietės skersai
@@ -70,9 +70,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: Prie vąšo rišdavo druskos gabalą, kurį gaspadinė galėdavo įleisti į katilą.
+  santrauka: 'Prie vąšo rišdavo druskos gabalą, kurį gaspadinė galėdavo įleisti į katilą.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Dar buvo ant to mieto, arba aksties, ant kurio ir vąšas kybojo, pasieti keli
@@ -85,7 +85,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004
 
 ## Pastabos
 

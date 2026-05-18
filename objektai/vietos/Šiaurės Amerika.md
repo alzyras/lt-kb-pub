@@ -22,10 +22,8 @@ Didžioji lietuvių kolonija Šiaurės Amerikoj nuo pat karo pradžios griebėsi
   teiginys: 'Didžioji lietuvių kolonija Šiaurės Amerikoj nuo pat karo pradžios griebėsi šelpti nukentėjusią tėvynę ir reikalavo iš pradžių autonomijos, o vėliau ir nepriklausomybės.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Komiteto įgaliotiniai, nusiųsti į Šiaurės Ameriką, paskatino ten lietuvius rinkti aukas (Amerikos prezidentas Vilsonas net paskyrė.'
-  pagrindžia:
-    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -35,23 +33,10 @@ Didžioji lietuvių kolonija Šiaurės Amerikoj nuo pat karo pradžios griebėsi
     Didžioji lietuvių kolonija Šiaurės Amerikoj nuo
     pat karo pradžios griebėsi šelpti nukentėjusią tėvynę ir reika-
     lavo iš pradžių autonomijos, o vėliau ir nepriklausomybės.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Komiteto įgaliotiniai, nusiųsti į Šiaurės Ameriką, paskatino ten lietuvius rinkti aukas (Amerikos prezidentas Vilsonas net paskyrė.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Komiteto įgaliotiniai, nusiųsti į Šiaurės Ameriką, paskatino ten lie-
-    tuvius rinkti aukas (Amerikos prezidentas Vilsonas net paskyrė
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002

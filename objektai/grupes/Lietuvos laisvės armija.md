@@ -25,7 +25,7 @@ LLA Lietuvos laisvės armija. Žemesnio rango jaunesnieji karininkai atsargos le
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: '1943 m. kovo viduryje gestapas suėmė pogrindinės spaudos leidėjų ir bendradarbių, LLKS ir LLA grupes.'
+  teiginys: '1943 m. kovo viduryje gestapas suėmė Lietuvos laisvės armijos grupes.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -49,7 +49,7 @@ LLA Lietuvos laisvės armija. Žemesnio rango jaunesnieji karininkai atsargos le
   pagrindžia:
     - t-001
 - c-002
-  santrauka: '1943 m. kovo viduryje gestapas suėmė pogrindinės spaudos leidėjų ir bendradarbių, LLKS ir LLA grupes.'
+  santrauka: '1943 m. kovo viduryje gestapas suėmė Lietuvos laisvės armijos grupes.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Keršydamas už boikotą gestapas 1943 m. kovo viduryje Lietuvoje suėmė

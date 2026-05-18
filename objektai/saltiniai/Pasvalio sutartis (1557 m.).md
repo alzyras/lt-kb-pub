@@ -20,13 +20,17 @@ Kai Livonija Pasvaly padarė su Lietuva sutartį (1557 m.), Jonas IV tuojau pask
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kai Livonija Pasvaly padarė su Lietuva sutartį (1557 m.), Jonas IV tuojau paskelbė Livonijai karą; 1559 m. Livonijai pasidavus Zigmantui Augustui, Lietuva stojo jos ginti.'
+  teiginys: 'Po 1557 m. Pasvalio sutarties Jonas IV paskelbė karą Livonijai, o 1559 m. Lietuva stojo ginti Zigmantui Augustui pasidavusios Livonijos.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Kai Livonija Pasvaly padarė su Lietuva sutartį (1557 m.), Jonas IV tuojau paskelbė Livonijai karą; 1559 m. Livonijai pasidavus Zigmantui Augustui, Lietuva stojo jos ginti.'
+  santrauka: 'Po 1557 m. Pasvalio sutarties Jonas IV paskelbė karą Livonijai, o 1559 m. Lietuva stojo ginti Zigmantui Augustui pasidavusios Livonijos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kai Livonija Pasvaly padarė su Lietuva sutartį (1557 m.),
@@ -34,10 +38,10 @@ Kai Livonija Pasvaly padarė su Lietuva sutartį (1557 m.), Jonas IV tuojau pask
     davus Zigmantui Augustui, Lietuva stojo jos ginti. 1560 m. pra-
     sidėjęs karas dėl Livonijos nesisekė ir užtraukė didelių nelaimių
     visai Lietuvai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

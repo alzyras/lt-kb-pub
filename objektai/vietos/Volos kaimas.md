@@ -21,13 +21,15 @@ Taip pat visiems laikams buvo nustatyta karaliaus elekcijos tvarka: buvo nutarta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Taip pat visiems laikams buvo nustatyta karaliaus elekcijos tvarka: buvo nutarta, kad elekcija turinti įvykti lauke tarp Varšuvos ir Volos kaimo; o elekcijoj dalyvauti ir balsuoti galįs kiekvienas bajoras (taigi buvo sakoma, kad į elekciją bajorai vykstą.'
+  teiginys: 'Karaliaus elekcija turėjo vykti lauke tarp Varšuvos ir Volos kaimo, joje dalyvauti ir balsuoti galėjo kiekvienas bajoras.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Taip pat visiems laikams buvo nustatyta karaliaus elekcijos tvarka: buvo nutarta, kad elekcija turinti įvykti lauke tarp Varšuvos ir Volos kaimo; o elekcijoj dalyvauti ir balsuoti galįs kiekvienas bajoras (taigi buvo sakoma, kad į elekciją bajorai vykstą.'
+  santrauka: 'Karaliaus elekcija turėjo vykti lauke tarp Varšuvos ir Volos kaimo, joje dalyvauti ir balsuoti galėjo kiekvienas bajoras.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Taip pat visiems laikams buvo nustatyta karaliaus elekcijos tvar-
@@ -35,10 +37,10 @@ Taip pat visiems laikams buvo nustatyta karaliaus elekcijos tvarka: buvo nutarta
     Varšuvos ir Volos kaimo; o elekcijoj dalyvauti ir
     balsuoti galįs kiekvienas bajoras (taigi buvo sakoma, kad į elek-
     ciją bajorai vykstą _viritim)._
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

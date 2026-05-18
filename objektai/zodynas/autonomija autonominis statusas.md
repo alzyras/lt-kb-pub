@@ -21,7 +21,7 @@ Visuomeninė veikla, domėjimasis karo eiga ir pokario sutvarkymo reikalais Viln
 
 ## Teiginiai
 - t-001
-  teiginys: 'Visuomeninė veikla, domėjimasis karo eiga ir pokario sutvarkymo reikalais Vilniuje subūrė lietuvius į politikos centrą, nusivylusį tuo, jog nei Rusija, nei Vokietija nežada Lietuvai net autonomijos.'
+  teiginys: 'Vilniuje susibūręs lietuvių politikos centras nusivylė, kad nei Rusija, nei Vokietija Lietuvai nežadėjo net autonomijos.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -41,7 +41,7 @@ Visuomeninė veikla, domėjimasis karo eiga ir pokario sutvarkymo reikalais Viln
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Visuomeninė veikla, domėjimasis karo eiga ir pokario sutvarkymo reikalais Vilniuje subūrė lietuvius į politikos centrą, nusivylusį tuo, jog nei Rusija, nei Vokietija nežada Lietuvai net autonomijos.'
+  santrauka: 'Vilniuje susibūręs lietuvių politikos centras nusivylė, kad nei Rusija, nei Vokietija Lietuvai nežadėjo net autonomijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Visuomeninė veikla, domėjimasis karo eiga ir

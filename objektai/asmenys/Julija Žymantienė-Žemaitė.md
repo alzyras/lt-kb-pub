@@ -35,7 +35,7 @@ Kudirkos poezija ir satyriniai, caro valdininkus taikliai pašiepiantys apsakyma
 
 ## Teiginiai
 - t-001
-  teiginys: '1912 m. Vilniuje Julija Žymantienė-Žemaitė dalyvavo Lietuvių mokslo draugijos suvažiavime.'
+  teiginys: '1912 m. Vilniuje Julija Žymantienė-Žemaitė buvo tarp Lietuvių mokslo draugijos suvažiavimo dalyvių.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -43,7 +43,7 @@ Kudirkos poezija ir satyriniai, caro valdininkus taikliai pašiepiantys apsakyma
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1912 m. Vilniuje Julija Žymantienė-Žemaitė dalyvavo Lietuvių mokslo draugijos suvažiavime.'
+  santrauka: '1912 m. Vilniuje Julija Žymantienė-Žemaitė buvo tarp Lietuvių mokslo draugijos suvažiavimo dalyvių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvių mokslo draugijos iniciatorius ir

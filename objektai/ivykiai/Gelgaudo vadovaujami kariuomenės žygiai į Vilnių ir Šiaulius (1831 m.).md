@@ -32,17 +32,21 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tuo tarpu rusai atsiėmė Ukmergę, Jonavą ir Šiaulius.'
+  teiginys: 'Rusams atsiėmus Ukmergę, Jonavą ir Šiaulius, sukilėlių vadai nutarė pulti Šiaulius, bet žygis nepavyko.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Tuo būdu reguliarinės kariuomenės Lietuvoje teliko tik Dembinskio rinktinė (apie 3.500 karių).'
+  teiginys: 'Po sukilėlių nesėkmių Lietuvoje iš reguliariosios kariuomenės liko tik apie 3 500 karių turėjusi Dembinskio rinktinė.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tuo tarpu rusai atsiėmė Ukmergę, Jonavą ir Šiaulius.'
+  santrauka: 'Rusams atsiėmus Ukmergę, Jonavą ir Šiaulius, sukilėlių vadai nutarė pulti Šiaulius, bet žygis nepavyko.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo tarpu rusai atsiėmė
@@ -62,15 +66,15 @@ Nenurodyta
     bajorija buvo labai nepatenkinta generolais. Pagaliau generolai
     sutarė savo jėgas perskirti: Chlapovskis ir Gelgaudas turėjo eiti
     į Kauną, Dembinskis į Kuršo pasienį, o Rohlandas į Palangą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Tuo būdu reguliarinės kariuomenės Lietuvoje teliko tik Dembinskio rinktinė (apie 3.500 karių).'
+  santrauka: 'Po sukilėlių nesėkmių Lietuvoje iš reguliariosios kariuomenės liko tik apie 3 500 karių turėjusi Dembinskio rinktinė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo būdu reguliarinės kariuomenės Lietuvoje teliko tik
@@ -80,11 +84,11 @@ Nenurodyta
     tikrai didelį žygį, nugalėjęs daugybę kliūčių, jis laimingai pra-
     simušė iki Varšuvos, kur buvo iškilmingai sutiktas ir už nuo-
     pelnus paskirtas Varšuvos gubernatorium.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

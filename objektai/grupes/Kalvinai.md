@@ -23,10 +23,14 @@ Vilniuje liuterionys ir kalvinai turėjo po bažnyčią. 1639 m. tyčia ar nety�
   teiginys: 'Vilniuje liuterionys ir kalvinai turėjo po bažnyčią.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: '1639 m. tyčia ar netyčia iš kalvinų bažnyčios šventoriaus kažkas įšovė pro langą į pranciškonių vienuolyno bažnyčią.'
+  teiginys: '1639 m. po šūvio iš kalvinų bažnyčios šventoriaus minia apgriovė kalvinų bažnyčią Vilniuje.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -34,15 +38,15 @@ Vilniuje liuterionys ir kalvinai turėjo po bažnyčią. 1639 m. tyčia ar nety�
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vilniuje liuterionys ir kalvinai turėjo po bažnyčią.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: '1639 m. tyčia ar netyčia iš kalvinų bažnyčios šventoriaus kažkas įšovė pro langą į pranciškonių vienuolyno bažnyčią.'
+  santrauka: '1639 m. po šūvio iš kalvinų bažnyčios šventoriaus minia apgriovė kalvinų bažnyčią Vilniuje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     1639 m. tyčia ar netyčia iš kalvinų bažnyčios šventoriaus kaž-
@@ -52,11 +56,11 @@ Vilniuje liuterionys ir kalvinai turėjo po bažnyčią. 1639 m. tyčia ar nety�
     ilga byla, ir galų gale seimo sprendimu kalvinų bažnyčia Vil-
     niuje buvo nugriauta. Kita kalvinų bažnyčia buvo pastatyta už
     miesto (1640 m.).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

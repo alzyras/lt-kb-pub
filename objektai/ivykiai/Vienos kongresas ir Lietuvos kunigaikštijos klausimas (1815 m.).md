@@ -29,26 +29,10 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Nugalėjus Napoleoną, naujas Europos pertvarkymas buvo sprendžiamas Vienos kongrese (1815 m.).'
-  pagrindžia:
-    - c-001
+Nenurodyta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Nugalėjus Napoleoną, naujas Europos pertvarkymas buvo sprendžiamas Vienos kongrese (1815 m.).'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Nugalėjus Napoleoną, naujas Europos pertvarkymas buvo sprendžiamas Vienos kongrese (1815 m.). Varšuvos ku-
-    nigaikštija buvo paversta Lenkų karalyste, o jos kara-
-    lium pripažintas caras.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
+Nenurodyta
 
 ## Ryšiai
 ### Laikotarpiai

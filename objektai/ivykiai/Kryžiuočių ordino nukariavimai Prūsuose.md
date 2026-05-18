@@ -33,40 +33,50 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tokį įžadą ordino broliai — riteriai — turėjo padaryti visam gyvenimui.'
+  teiginys: 'Ordino broliai riteriai visam gyvenimui įsipareigodavo nuolat kariauti su Kristaus vardo priešais.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: 'Be to, ordino prašomas popiežius skelbdavo Vakaruose kryžiaus karus, ir ordinui į talką plaukdavo minios karių.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-003
   teiginys: 'Kryžiuočių statomos pilys virsdavo naujos valstybės apygardų administraciniais centrais.'
   pagrindžia:
     - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-004
   teiginys: 'Kartu su nukariavimu žengė ir krikščionystė: buvo statomos bažnyčios ir vienuolynai, o prūsai buvo varu krikštijami.'
   pagrindžia:
     - c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-005
-  teiginys: 'Tiesa, ordinas vis dėlto sutiko užleisti vyskupams 1/3 visų savo žemių, tačiau neilgai naudojosi vyskupai ir tokia teise, kadangi netrukus vyskupais buvo skiriami vien tik ordino nariai.'
+  teiginys: 'Ordinas sutiko užleisti vyskupams trečdalį savo žemių, bet netrukus vyskupais buvo skiriami tik ordino nariai.'
   pagrindžia:
     - c-005
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tokį įžadą ordino broliai — riteriai — turėjo padaryti visam gyvenimui.'
+  santrauka: 'Ordino broliai riteriai visam gyvenimui įsipareigodavo nuolat kariauti su Kristaus vardo priešais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ordinas savo įstatuose tu-
     rėjo įsirašęs pareigą nuolat kariauti su Kristaus vardo priešais
     (jam net buvo draudžiama daryti taiką su netikėliais). Tokį įžadą
     ordino broliai — riteriai — turėjo padaryti visam gyvenimui.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
@@ -77,11 +87,11 @@ Nenurodyta
     riterių, ordinas turėjo ir paprastų kareivių, vadinamų jų tarnais.
     Be to, ordino prašomas popiežius skelbdavo Vakaruose kryžiaus
     karus, ir ordinui į talką plaukdavo minios karių.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 - c-003
@@ -93,11 +103,11 @@ Nenurodyta
     valstybės apygardų administraciniais centrais. Apie pilis buvo
     kurdinami iš Vokietijos atkviesti kolonistai. Jie buvo pirmieji
     vokietybės daigai šiose aisčių žemėse.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
 - c-004
@@ -112,15 +122,15 @@ Nenurodyta
     kiau gintis nuo ordino, kad jie neturėjo vieningos valstybės; jų
     smulkūs kunigaikštėliai, savitarpy nesugyvendami, negalėjo
     sutartinai gintis nuo priešo.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
 - c-005
-  santrauka: 'Tiesa, ordinas vis dėlto sutiko užleisti vyskupams 1/3 visų savo žemių, tačiau neilgai naudojosi vyskupai ir tokia teise, kadangi netrukus vyskupais buvo skiriami vien tik ordino nariai.'
+  santrauka: 'Ordinas sutiko užleisti vyskupams trečdalį savo žemių, bet netrukus vyskupais buvo skiriami tik ordino nariai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ir kai vyskupas grįžo iš nelaisvės, tai krašto valdovą
@@ -130,10 +140,10 @@ Nenurodyta
     nariai. Tuo būdu Prūsų ordino valstybėj nebegalėjo kilti jokių
     konfliktų (Dobrinės ordinas, kuris pasirodė nepajėgus, jau 1235
     m. buvo prijungtas prie kryžiuočių ordino).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005

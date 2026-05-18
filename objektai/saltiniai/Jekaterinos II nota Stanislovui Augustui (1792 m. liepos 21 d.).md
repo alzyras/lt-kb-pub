@@ -21,7 +21,7 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Stanislovas Augustas laikėsi pozicijos nebesipriešinti prie Varšuvos stovinčiai Rusijos armijai ir priimti Jekaterinos II liepos 21 d. notą.'
+  teiginys: 'Stanislovas Augustas nusprendė nebesipriešinti prie Varšuvos stovinčiai Rusijos armijai ir priimti Jekaterinos II liepos 21 d. notą.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -31,7 +31,7 @@ tags:
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Stanislovas Augustas laikėsi pozicijos nebesipriešinti prie Varšuvos stovinčiai Rusijos armijai ir priimti Jekaterinos II liepos 21 d. notą.'
+  santrauka: 'Stanislovas Augustas nusprendė nebesipriešinti prie Varšuvos stovinčiai Rusijos armijai ir priimti Jekaterinos II liepos 21 d. notą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Karalius laikėsi pozicijos, kad

@@ -31,8 +31,8 @@ tags:
 - Pagrindinė forma: Lenkiją Kazimieras radęs medinę, o palikęs mūrinę
 
 ## Teiginiai
-- t-001
-  teiginys: 'Formuluotė šiame pasakojime pateikiama kaip istoriškai vartoto pasakymo forma apie Kazimierą Didįjį.'
+- t-002
+  teiginys: 'Lenkai sakydavo, kad Kazimieras Lenkiją radęs medinę, o palikęs mūrinę.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -40,7 +40,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: istoriškai vartoto pasakymo forma apie Kazimierą Didįjį
+  santrauka: 'Lenkai sakydavo, kad Kazimieras Lenkiją radęs medinę, o palikęs mūrinę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Todėl lenkai tada gebėjo
@@ -51,4 +51,4 @@ tags:
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

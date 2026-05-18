@@ -18,7 +18,7 @@ Vilniuje 1868 m.), olimpinis čempionas Berlyne su JAV rinktine ir 1939 m. Europ
 
 ## Teiginiai
 - t-001
-  teiginys: 'Johnny Unitas, citatoje įvardytas Jonu Jonaičiu, buvo amerikietiškojo futbolo garsenybė.'
+  teiginys: 'Johnny Unitas (Jonas Jonaitis) buvo amerikietiškojo futbolo garsenybė.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -26,7 +26,7 @@ Vilniuje 1868 m.), olimpinis čempionas Berlyne su JAV rinktine ir 1939 m. Europ
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Johnny Unitas, citatoje įvardytas Jonu Jonaičiu, buvo amerikietiškojo futbolo garsenybė.'
+  santrauka: 'Johnny Unitas (Jonas Jonaitis) buvo amerikietiškojo futbolo garsenybė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Europos čem-

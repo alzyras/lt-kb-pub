@@ -18,7 +18,7 @@ Pagrindinė forma: `skobai`.
 Papildomos aiškios formos neišskirtos.
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: '`Skobai` šiame tekste yra vaišių valgis, susijęs su mėsa.'
   pagrindžia:
     - c-001
@@ -27,7 +27,7 @@ Papildomos aiškios formos neišskirtos.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Skobai` šiame tekste yra vaišių valgis, susijęs su mėsa
+  santrauka: '`Skobai` šiame tekste yra vaišių valgis, susijęs su mėsa.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Tarp skaninių ir vaišės valgių buvo juka^363 , šiupinys, skilandis, lašiniai, dešros,
@@ -36,11 +36,11 @@ Papildomos aiškios formos neišskirtos.
     viršiau minavojau, spirgino liepos geldose ubladžių kakaliuose.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Pastabos
 

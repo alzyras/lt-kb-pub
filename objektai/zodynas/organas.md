@@ -18,21 +18,23 @@ Jo organas anksčiau buvo „Žvaigždė" ir „Draugas", nuo 1917 metų tapo �
 
 ## Teiginiai
 - t-001
-  teiginys: 'Jo organas anksčiau buvo „Žvaigždė" ir „Draugas", nuo 1917 metų tapo „Garsas".'
+  teiginys: 'Organas anksčiau buvo „Žvaigždė“ ir „Draugas“, o nuo 1917 m. juo tapo „Garsas“.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Jo organas anksčiau buvo „Žvaigždė" ir „Draugas", nuo 1917 metų tapo „Garsas".'
+  santrauka: 'Organas anksčiau buvo „Žvaigždė“ ir „Draugas“, o nuo 1917 m. juo tapo „Garsas“.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jo organas anksčiau buvo „Žvaigždė" ir „Drau-
     gas", nuo 1917 metų tapo „Garsas".
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

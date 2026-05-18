@@ -52,14 +52,14 @@ Pieno perdirbimo ir laikymo techninė įranga.
 Nenurodyta
 
 ## Teiginiai
-- t-003
+- t-005
   teiginys: 'Pieno perdirbimo bendrovės įsigijo modernią įrangą ir šaldytuvus, o pieno ir mėsos produktų eksportas didėjo.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-004
-  teiginys: 'Ūkininkai pradėjo kooperuotis, kūrėsi pieno perdirbimo bendrovės, įsigijus modernią įrangą, šaldytuvus, didėjo pieno ir mėsos produktų eksportas į užsienį.'
+- t-006
+  teiginys: 'Pieno perdirbimo bendrovėms įsigijus modernią įrangą ir šaldytuvus, didėjo pieno ir mėsos produktų eksportas į užsienį.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -79,8 +79,8 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
-    - t-004
+    - t-005
+    - t-006
 
 ## Šaltiniai ir įrodymai
 

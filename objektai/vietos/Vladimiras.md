@@ -45,7 +45,7 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
 - amziai: XIV
 
 ## Teiginiai
-- t-002
+- t-003
   teiginys: 'XIV a. pradžioje Maskva laimėjo kovą dėl jarlyko prieš Tverę ir įsitvirtino Vladimire.'
   pagrindžia:
     - c-001
@@ -69,7 +69,7 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-003
 
 ## Ryšiai
 ### Laikotarpiai

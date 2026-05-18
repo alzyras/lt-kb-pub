@@ -22,10 +22,14 @@ Lietuvoje tada tik ką buvo aprimęs karas su švedais, o Lenkijoje ėjo vidaus 
   teiginys: 'Lietuvoje tada tik ką buvo aprimęs karas su švedais, o Lenkijoje ėjo vidaus karas, vadinamasis Zebžidovskio rokošas.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Kai 1608 m. pasibaigė rokošas, darbo netekę, plėšikauti įpratę kareivių būriai nuvyko padėti tam apsimetėliui Dimitrijui II.'
+  teiginys: '1608 m. pasibaigus rokošui, darbo netekę kareivių būriai nuvyko padėti apsimetėliui Dimitrijui II.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -34,27 +38,23 @@ Lietuvoje tada tik ką buvo aprimęs karas su švedais, o Lenkijoje ėjo vidaus 
   citata_originali: |
     Lietuvoje tada tik ką buvo aprimęs karas su švedais, o Lenki-
     joje ėjo vidaus karas, vadinamasis Zebžidovskio rokošas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Kai 1608 m. pasibaigė rokošas, darbo netekę, plėšikauti įpratę kareivių būriai nuvyko padėti tam apsimetėliui Dimitrijui II.'
+  santrauka: '1608 m. pasibaigus rokošui, darbo netekę kareivių būriai nuvyko padėti apsimetėliui Dimitrijui II.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kai 1608 m. pasibaigė rokošas, darbo netekę, plėšikauti įpratę ka-
     reivių būriai nuvyko padėti tam apsimetėliui Dimitrijui II.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Dimitrijus II]]

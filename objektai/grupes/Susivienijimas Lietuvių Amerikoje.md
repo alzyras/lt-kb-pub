@@ -20,21 +20,27 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Šitas Susivienijimas, kaip matyti ir iš jo tikslo, iš pradžių mažai tesirūpino tautiškosios sąmonės žadinimu.'
+  teiginys: 'Susivienijimas Lietuvių Amerikoje iš pradžių mažai rūpinosi tautinės sąmonės žadinimu.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: 'Susivienijimas Visų Draugysčių Katalikiškų Lietuviškų Amerikoje vėliau buvo pavadintas Susivienijimu Lietuvių Amerikoje, tačiau jo vadovybė pasiliko katalikiškose rankose.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-003
-  teiginys: 'Šliūpą ir buvo nepatenkinti pirmojo Susivienijimo katalikiškąja vadovybe.'
+  teiginys: 'Susivienijimą Lietuvių Amerikoje sukūrė veikėjai, susigrupavę apie dr. Joną Šliūpą ir nepatenkinti pirmojo Susivienijimo katalikiška vadovybe.'
   pagrindžia:
     - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Šitas Susivienijimas, kaip matyti ir iš jo tikslo, iš pradžių mažai tesirūpino tautiškosios sąmonės žadinimu.'
+  santrauka: 'Susivienijimas Lietuvių Amerikoje iš pradžių mažai rūpinosi tautinės sąmonės žadinimu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Šitas Susivienijimas, kaip matyti ir iš jo tikslo, iš pradžių
@@ -44,11 +50,11 @@ tags:
     geruoju su lenkais. Bet, kai Susivienijimo vadovybę 1890 m.
     paėmė kunigas Burba, jis pasidarė grynai tautiška organizacija,
     tolima nuo lenkų.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
@@ -68,15 +74,15 @@ tags:
     mas Lietuvių Amerikoje ir Susivienijimas
     Lietuvių Rymo Katalikų Amerikoje. Abi tos
     organizacijos ir šiandien tebegyvuoja.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Šliūpą ir buvo nepatenkinti pirmojo Susivienijimo katalikiškąja vadovybe.'
+  santrauka: 'Susivienijimą Lietuvių Amerikoje sukūrė veikėjai, susigrupavę apie dr. Joną Šliūpą ir nepatenkinti pirmojo Susivienijimo katalikiška vadovybe.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jį sukūrė tie veikėjai, kurie buvo susigrupavę apie
@@ -90,10 +96,10 @@ tags:
     tis: jame susibūrė tautiškos, liberališkos, socialistiškos ir net ko-
     munistiškos srovės. Visos jos ligi šiol tarp savęs tebesivaržo,
     todėl Susivienijimo veikimą visą laiką trukdo vidaus nesantarvė.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003

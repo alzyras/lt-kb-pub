@@ -19,25 +19,23 @@ Taip antai, Fridrikas Didysis savo dvare laikė Volterą, pats rašė poezijos i
 
 ## Teiginiai
 - t-001
-  teiginys: 'Taip antai, Fridrikas Didysis savo dvare laikė Volterą, pats rašė poezijos ir net mokslo veikalus.'
+  teiginys: 'Fridrikas Didysis savo dvare laikė Volterą, rašė poeziją ir mokslo veikalus.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Taip antai, Fridrikas Didysis savo dvare laikė Volterą, pats rašė poezijos ir net mokslo veikalus.'
+  santrauka: 'Fridrikas Didysis savo dvare laikė Volterą, rašė poeziją ir mokslo veikalus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Taip antai, Fridrikas Didysis
     savo dvare laikė Volterą, pats rašė poezijos ir net mokslo veikalus.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Fridrikas II Didysis]]

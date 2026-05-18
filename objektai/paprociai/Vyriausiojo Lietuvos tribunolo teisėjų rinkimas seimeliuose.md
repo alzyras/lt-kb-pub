@@ -36,25 +36,33 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Todėl bajorija seimuose ir seimeliuose nuolat reikalavo, kad vyriausiasis teismas būtų kitaip sutvarkytas ir kad sparčiau veiktų.'
+  teiginys: 'Bajorija seimuose ir seimeliuose reikalavo pertvarkyti vyriausiąjį teismą ir perduoti apeliacinius teismus bajorijai.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose Lietuvos seimuose, ir galutinai jis buvo įkurtas 1581 m. Su mažais pakeitimais jis toks pat išliko iki pat nepriklausomybės pabaigos.'
+  teiginys: 'Vyriausiasis Lietuvos tribunolas buvo galutinai įkurtas 1581 m., o jo teisėjais buvo visų seimelių renkami bajorijos atstovai.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-003
   teiginys: 'Kiekvienas seimelis rinko po 2 atstovus, vadinamus deputatais; tad iš viso tribunolo narių buvo 46.'
   pagrindžia:
     - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-004
   teiginys: 'Tribunole pirmininkaudavo iš tų pačių deputatų renkamas pirmininkas, vadinamas tribunolo maršalka.'
   pagrindžia:
     - c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Todėl bajorija seimuose ir seimeliuose nuolat reikalavo, kad vyriausiasis teismas būtų kitaip sutvarkytas ir kad sparčiau veiktų.'
+  santrauka: 'Bajorija seimuose ir seimeliuose reikalavo pertvarkyti vyriausiąjį teismą ir perduoti apeliacinius teismus bajorijai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Todėl bajorija
@@ -67,15 +75,15 @@ Nenurodyta
     atsisakė nuo savo teismų ir įkūrė pačios bajorijos renkamą tri-
     bunolą Lenkijoje, tai netrukus tas pats buvo padaryta ir
     Lietuvoje.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose Lietuvos seimuose, ir galutinai jis buvo įkurtas 1581 m. Su mažais pakeitimais jis toks pat išliko iki pat nepriklausomybės pabaigos.'
+  santrauka: 'Vyriausiasis Lietuvos tribunolas buvo galutinai įkurtas 1581 m., o jo teisėjais buvo visų seimelių renkami bajorijos atstovai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vyriausiojo Lietuvos tribunolo reikalas buvo
@@ -85,11 +93,11 @@ Nenurodyta
     jais buvo visų seimelių renkami bajorijos atstovai. Jie visada bū-
     davo renkami specialiai šaukiamame Grabnyčių seimely (apie va-
     sario 2 d.) ir darbuodavos tribunole vienus metus.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 - c-003
@@ -102,11 +110,11 @@ Nenurodyta
     įkurti atskirą tribunolą ir Žemaičiams, bet 1588 m. Žemaičiai
     prisijungė prie to paties tribunolo ir rinkdavo į jį 3 savo de-
     putatus. Taigi nuo to laiko jau buvo 49 tribunolo nariai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
 - c-004
@@ -119,11 +127,11 @@ Nenurodyta
     dvasininkais būdavo sudaromas mišrasis teismas, arba
     dvasiškasis tribunolas, į kurį įeidavo 4 vyskupijų
     kapitulų skiriami kunigai ir 6 tribunolo deputatai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
 

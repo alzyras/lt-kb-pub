@@ -43,13 +43,13 @@ Mindaugas Tamošaitis nurodytas kaip vienas knygos „Lietuvos istorija“ autor
 - Lietuvos Seimo istorija: XX–XXI a. pradžia
 
 ## Teiginiai
-- t-004
+- t-006
   teiginys: 'Mindaugas Tamošaitis buvo vienas 2013 m. Vilniaus universiteto leidyklos išleistos „Lietuvos istorijos“ autorių.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-005
+- t-007
   teiginys: 'Mindaugas Tamošaitis turėjo 2013 m. autorių teises į leidinį „Lietuvos istorija“.'
   pagrindžia:
     - c-002
@@ -78,7 +78,7 @@ Mindaugas Tamošaitis nurodytas kaip vienas knygos „Lietuvos istorija“ autor
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-006
 - c-002
   santrauka: 'Mindaugas Tamošaitis turėjo 2013 m. autorių teises į leidinį „Lietuvos istorija“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -105,7 +105,7 @@ Mindaugas Tamošaitis nurodytas kaip vienas knygos „Lietuvos istorija“ autor
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
+    - t-007
 
 ## Ryšiai
 ### Laikotarpiai

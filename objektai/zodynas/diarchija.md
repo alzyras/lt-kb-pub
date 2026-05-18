@@ -19,30 +19,24 @@ tags: []
 # diarchija
 
 ## Teiginiai
-- t-001
-  teiginys: Diarchija šiame tekste reiškia dviejų kunigaikščių valdymo sistemą.
+- t-004
+  teiginys: 'Diarchija reiškė dviejų asmenų valdymo sistemą, susidariusią Algirdo ir Kęstučio valdymo laikais.'
   pagrindžia:
     - c-001
     - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: Autorius teigia, kad Lietuvos diarchija iš naujo iškilo Jogailos ir Vytauto laikais.
+- t-005
+  teiginys: 'Autorius teigia, kad Lietuvos diarchija iš naujo iškilo Jogailos ir Vytauto laikais.'
   pagrindžia:
     - c-002
-    - c-003
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: Jogailos titulas supremus dux čia aiškinamas kaip daugiau garbės, negu teisės titulas.
-  pagrindžia:
     - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Diarchija šiame tekste reiškia dviejų kunigaikščių valdymo sistemą.
+  santrauka: 'Diarchija reiškė dviejų asmenų valdymo sistemą, susidariusią Algirdo ir Kęstučio valdymo laikais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Baigdami šį darbą norėtume dar išspręsti vieną klausimą,
@@ -53,27 +47,31 @@ tags: []
     dyti Vytautas? Tuo pačiu bus aptarta ir tų santykių forma,
     kuri buvo susidariusi tarp Lietuvos ir Lenkijos, kad ir Vytau­
     to laikais.
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-004
 - c-002
-  santrauka: Diarchija šiame tekste reiškia dviejų kunigaikščių valdymo sistemą.
+  santrauka: 'Diarchija reiškė dviejų asmenų valdymo sistemą, susidariusią Algirdo ir Kęstučio valdymo laikais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Toks Lietu­
     vos žemių dviejų kun. valdymas istorijoj vadinamas vienų is­
     torikų dualizmu, kitų — diarchija nežuvo ir kai mirė Algirdas
     (1377).
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-004
+    - t-005
 - c-003
-  santrauka: Autorius teigia, kad Lietuvos diarchija iš naujo iškilo Jogailos ir Vytauto laikais.
+  santrauka: 'Autorius teigia, kad Lietuvos diarchija iš naujo iškilo Jogailos ir Vytauto laikais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Bet, kaip ten bebūtų, teigiame, kad Lietuvos valstybė buvo val­
@@ -81,12 +79,13 @@ tags: []
     bės diarchija, tik jau daugiau asmeniško pobūdžio, negu sričių
     pasidalinimu, kaip kad buvo Algirdo ir Kęstučio laikais, ir ga­
     vusi, kaip minėjom, kitokį persigrupavimą.
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-    - t-003
+    - t-005
 
 ## Ryšiai
 ### Laikotarpiai

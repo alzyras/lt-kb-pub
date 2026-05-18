@@ -18,36 +18,40 @@ Bieliński, Uniwersytet Wileński, I-III (1899);. Bieliński, Szubrawcy w Wilnie
 
 ## Teiginiai
 - t-001
-  teiginys: 'Bieliński, Uniwersytet Wileński, I-III (1899);.'
+  teiginys: 'J. Bieliński parašė trijų tomų veikalą „Uniwersytet Wileński“, išleistą 1899 m.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Bieliński, Szubrawcy w Wilnie (1910);.'
+  teiginys: 'J. Bieliński parašė veikalą „Szubrawcy w Wilnie“, išleistą 1910 m.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Bieliński, Uniwersytet Wileński, I-III (1899);.'
+  santrauka: 'J. Bieliński parašė trijų tomų veikalą „Uniwersytet Wileński“, išleistą 1899 m.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     _J. Bieliński,_ Uniwersytet Wileński, I-III (1899);
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Bieliński, Szubrawcy w Wilnie (1910);.'
+  santrauka: 'J. Bieliński parašė veikalą „Szubrawcy w Wilnie“, išleistą 1910 m.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     _J. Bieliński,_ Szubrawcy w Wilnie (1910);
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

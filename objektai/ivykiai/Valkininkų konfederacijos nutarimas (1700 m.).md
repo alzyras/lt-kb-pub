@@ -30,25 +30,10 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Ten pat, Valkininkuose, visus Sapiegas ji paskelbė krašto išdavikais, jų dvarus konfiskuotais, jų turėtus urėdus atimtais.'
-  pagrindžia:
-    - c-001
+Nenurodyta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Ten pat, Valkininkuose, visus Sapiegas ji paskelbė krašto išdavikais, jų dvarus konfiskuotais, jų turėtus urėdus atimtais.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Ten pat, Valkininkuose, visus Sapiegas ji paskelbė krašto išdavikais, jų dvarus konfiskuotais,
-    jų turėtus urėdus atimtais.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
+Nenurodyta
 
 ## Ryšiai
 ### Laikotarpiai

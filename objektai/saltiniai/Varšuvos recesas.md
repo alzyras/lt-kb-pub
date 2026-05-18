@@ -19,13 +19,17 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Šitas nebaigto spręsti klausimo nukėlimas į kitą seimą, anų laikų įpročiu, buvo vadinamas recesu (nuo lotyniškojo žodžio recedere).'
+  teiginys: 'Varšuvos recesu vadintas Varšuvoje sudarytas aktas, nukėlęs neišspręstus klausimus į kitą seimą.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Šitas nebaigto spręsti klausimo nukėlimas į kitą seimą, anų laikų įpročiu, buvo vadinamas recesu (nuo lotyniškojo žodžio recedere).'
+  santrauka: 'Varšuvos recesu vadintas Varšuvoje sudarytas aktas, nukėlęs neišspręstus klausimus į kitą seimą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo
@@ -35,10 +39,10 @@ tags:
     anų laikų įpročiu, buvo vadinamas recesu (nuo lotyniškojo žodžio
     _recedere)._ O kadangi šis aktas buvo sudarytas Varšuvoj, tai jis
     vadinamas Varšuvos recesu.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

@@ -17,23 +17,5 @@ tags:
 Pagaliau generolai sutarė savo jėgas perskirti: Chlapovskis ir Gelgaudas turėjo eiti į Kauną, Dembinskis į Kuršo pasienį, o Rohlandas į Palangą.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Pagaliau generolai sutarė savo jėgas perskirti: Chlapovskis ir Gelgaudas turėjo eiti į Kauną, Dembinskis į Kuršo pasienį, o Rohlandas į Palangą.'
-  pagrindžia:
-    - c-001
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Pagaliau generolai sutarė savo jėgas perskirti: Chlapovskis ir Gelgaudas turėjo eiti į Kauną, Dembinskis į Kuršo pasienį, o Rohlandas į Palangą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pagaliau generolai sutarė savo jėgas perskirti: Chlapovskis ir
-      Gelgaudas turėjo eiti į Kauną, Dembinskis į Kuršo pasienį, o
-      Rohlandas į Palangą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001

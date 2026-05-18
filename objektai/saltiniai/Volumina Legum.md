@@ -18,23 +18,27 @@ Vėliau, XVIII amžiuje, visos konstitucijos buvo surinktos ir išspausdintos sp
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vėliau, XVIII amžiuje, visos konstitucijos buvo surinktos ir išspausdintos specialiuose rinkiniuose, vadinamuose Volumina Legum. Jų tada buvo iš viso išspausdinta 8 tomai.'
+  teiginys: 'XVIII a. visos konstitucijos buvo surinktos ir išspausdintos aštuonių tomų rinkinyje „Volumina Legum“.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Vėliau, XVIII amžiuje, visos konstitucijos buvo surinktos ir išspausdintos specialiuose rinkiniuose, vadinamuose Volumina Legum. Jų tada buvo iš viso išspausdinta 8 tomai.'
+  santrauka: 'XVIII a. visos konstitucijos buvo surinktos ir išspausdintos aštuonių tomų rinkinyje „Volumina Legum“.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vėliau, XVIII amžiuje, visos
     konstitucijos buvo surinktos ir išspausdintos specialiuose rinki-
     niuose, vadinamuose **_Volumina Legum._** Jų tada buvo iš viso iš-
     spausdinta 8 tomai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

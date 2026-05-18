@@ -18,7 +18,7 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Šiuo laikotarpiu Lietuva, išskyrus Užnemunę ir 1812 m. Napoleono Bonaparto interliudą, priklausė autokratinei Rusijos imperijai.'
+  teiginys: 'Lietuva, išskyrus Užnemunę ir 1812 m. Napoleono interliudą, priklausė autokratinei Rusijos imperijai.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -38,7 +38,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Šiuo laikotarpiu Lietuva, išskyrus Užnemunę ir 1812 m. Napoleono Bonaparto interliudą, priklausė autokratinei Rusijos imperijai.'
+  santrauka: 'Lietuva, išskyrus Užnemunę ir 1812 m. Napoleono interliudą, priklausė autokratinei Rusijos imperijai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Be to, pagal lyginamąją kalbotyrą, lietuvių kalba yra labiausiai

@@ -41,20 +41,20 @@ Terminais žymimos senosios kulto vietos ir šventovės. Kartu pabrėžiama, kad
 `Alkos` siejamos su vietovardžiais ir apčiuopiamais šventviečių pėdsakais, o `romuvos` minimos kaip vienas iš tų pačių šventovių pavadinimų.
 
 ## Teiginiai
-- t-001
-  teiginys: Alkos vartojamos kaip senųjų šventovių pavadinimas.
+- t-004
+  teiginys: 'Alkos vartojamos kaip senųjų šventovių pavadinimas.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: Romuvos ir alkos pateikiamos kaip skirtingi tų pačių šventovių vardai.
+- t-005
+  teiginys: 'Šventovės vienur buvo vadinamos romuvomis, kitur alkomis, galbūt dėl pobūdžio ar tarmių skirtumų.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: Vienos vyriausiosios Romuvos vaizdinys apibūdinamas kaip viduramžių rašytojų prasimanymas.
+- t-006
+  teiginys: 'Vienos vyriausiosios Romuvos vaizdinys apibūdinamas kaip viduramžių rašytojų prasimanymas.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -62,7 +62,7 @@ Terminais žymimos senosios kulto vietos ir šventovės. Kartu pabrėžiama, kad
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Alkos siejamos su šventovėmis ir vietovardžiais Lietuvoje.
+  santrauka: 'Alkos vartojamos kaip senųjų šventovių pavadinimas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Archeologai atkasa dabar tų šventovių, kurias apylinkės žmonės
@@ -74,9 +74,9 @@ Terminais žymimos senosios kulto vietos ir šventovės. Kartu pabrėžiama, kad
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-004
 - c-002
-  santrauka: Romuva ir alkos aiškinamos kaip skirtingi šventovių pavadinimai, atmetant vienos vyriausiosios Romuvos istoriškumą.
+  santrauka: 'Šventovės vienur buvo vadinamos romuvomis, kitur alkomis, galbūt dėl pobūdžio ar tarmių skirtumų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Taigi pasakojimas, kad buvęs
@@ -92,8 +92,8 @@ Terminais žymimos senosios kulto vietos ir šventovės. Kartu pabrėžiama, kad
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-    - t-003
+    - t-005
+    - t-006
 
 ## Šaltiniai ir įrodymai
 

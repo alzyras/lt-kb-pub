@@ -33,7 +33,7 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: 'Seimas pirmą kartą bandė miestiečių luomui suteikti beveik lygias teises su bajorais arba pradėti šį procesą.'
+  teiginys: 'Seimas pirmą kartą bandė miestiečiams suteikti beveik lygias teises su bajorais.'
   pagrindžia:
     - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -104,7 +104,7 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Seimas pirmą kartą bandė miestiečių luomui suteikti beveik lygias teises su bajorais arba pradėti šį procesą.'
+  santrauka: 'Seimas pirmą kartą bandė miestiečiams suteikti beveik lygias teises su bajorais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Prieš tai Seimas ėmėsi la-

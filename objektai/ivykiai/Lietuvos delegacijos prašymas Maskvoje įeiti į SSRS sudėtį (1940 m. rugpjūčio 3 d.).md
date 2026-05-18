@@ -32,7 +32,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'J. Paleckio vadovaujama 20 asmenų delegacija Maskvoje rugpjūčio 3 d. pasiprašė įeiti į SSRS sudėtį.'
+  teiginys: 'J. Paleckio vadovaujama 20 asmenų delegacija 1940 m. rugpjūčio 3 d. Maskvoje pasiprašė neva savanoriškai įeiti į SSRS sudėtį.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -46,7 +46,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'J. Paleckio vadovaujama 20 asmenų delegacija Maskvoje rugpjūčio 3 d. pasiprašė įeiti į SSRS sudėtį.'
+  santrauka: 'J. Paleckio vadovaujama 20 asmenų delegacija 1940 m. rugpjūčio 3 d. Maskvoje pasiprašė neva savanoriškai įeiti į SSRS sudėtį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Seime išrinkta 20 asmenų delegaci-

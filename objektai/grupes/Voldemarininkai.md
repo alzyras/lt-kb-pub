@@ -59,13 +59,13 @@ Politinė grupuotė.
 - susijusios vietos:
 
 ## Teiginiai
-- t-003
-  teiginys: 'Ultraradikalieji voldemarininkai dėjosi prie krikščionių demokratų ir valstiečių liaudininkų opozicinės „ašies“ pasitarimų.'
+- t-005
+  teiginys: 'Po Lenkijos ultimatumo ultraradikalieji voldemarininkai dėjosi prie krikščionių demokratų ir valstiečių liaudininkų opozicinių pasitarimų.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-004
+- t-006
   teiginys: 'Voldemarininkai kartu su Šaulių sąjunga ir jaunaisiais tautininkais kaltino valdžią impotencija ir ragino vyriausybę jėga atsiimti Vilnių.'
   pagrindžia:
     - c-002
@@ -74,7 +74,7 @@ Politinė grupuotė.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Ultraradikalieji voldemarininkai dėjosi prie krikščionių demokratų ir valstiečių liaudininkų opozicinės „ašies“ pasitarimų.'
+  santrauka: 'Po Lenkijos ultimatumo ultraradikalieji voldemarininkai dėjosi prie krikščionių demokratų ir valstiečių liaudininkų opozicinių pasitarimų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Priėmus Lenkijos ultimatumą atsistatydino J. Tūbelio ministrų kabi-
@@ -91,7 +91,7 @@ Politinė grupuotė.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-005
 - c-002
   santrauka: 'Voldemarininkai kartu su Šaulių sąjunga ir jaunaisiais tautininkais kaltino valdžią impotencija ir ragino vyriausybę jėga atsiimti Vilnių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -110,7 +110,7 @@ Politinė grupuotė.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-006
 
 ## Ryšiai
 ### Laikotarpiai

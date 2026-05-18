@@ -27,7 +27,7 @@ Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatym
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Nepriklausomos Lietuvos laikotarpiu litas išlaikė stabilų kursą, buvo paremtas vertybiniais popieriais ir 12 tonų aukso atsargomis.'
+  teiginys: 'Nepriklausomos Lietuvos laikotarpiu litas išlaikė stabilų kursą ir buvo pagrįstas vertybiniais popieriais bei 12 tonų aukso atsargomis.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -49,7 +49,7 @@ Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatym
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Nepriklausomos Lietuvos laikotarpiu litas išlaikė stabilų kursą, buvo paremtas vertybiniais popieriais ir 12 tonų aukso atsargomis.'
+  santrauka: 'Nepriklausomos Lietuvos laikotarpiu litas išlaikė stabilų kursą ir buvo pagrįstas vertybiniais popieriais bei 12 tonų aukso atsargomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Per visą nepriklausomos Lie-

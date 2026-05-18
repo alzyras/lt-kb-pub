@@ -24,25 +24,25 @@ Pagrindinė forma: `vytūnas`.
 Vartojamos formos: `sargūnas`, `abažūnas`, `anginu`.
 
 ## Teiginiai
-- t-001
+- t-005
   teiginys: '`Vytūnas` šiame tekste yra karo vadovas, vedantis kariauną, kai nėra atmono.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-006
   teiginys: '`Sargūnas` rūpinasi kariaunos mitalu ir pavojumi.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-003
+- t-007
   teiginys: '`Abažūnas` rūpinasi kariaunos priegule.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-004
+- t-008
   teiginys: '`Anginas` saugo pilies angas ir laiko raktus.'
   pagrindžia:
     - c-001
@@ -51,7 +51,7 @@ Vartojamos formos: `sargūnas`, `abažūnas`, `anginu`.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Vytūnas` šiame tekste yra karo vadovas, vedantis kariauną, kai nėra atmono
+  santrauka: '`Vytūnas` šiame tekste yra karo vadovas, vedantis kariauną, kai nėra atmono.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Karės vyresnieji tie buvo: atmonas, nuo žodžio atmonyti, dešimtininkas, šimtininkas, arba
@@ -66,10 +66,10 @@ Vartojamos formos: `sargūnas`, `abažūnas`, `anginu`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
-    - t-003
-    - t-004
+    - t-005
+    - t-006
+    - t-007
+    - t-008
 
 ## Pastabos
 

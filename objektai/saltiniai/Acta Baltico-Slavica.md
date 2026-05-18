@@ -39,15 +39,15 @@ tags: []
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: Citata pagrindžia leidinio santrumpą, leidėją ir nurodytą tomų apimtį.
+  santrauka: '„Acta Baltico-Slavica“ yra Balstogės mokslo draugijos nuo 1964 m. leidžiamas žurnalas, iki 1970 m. turėjęs septynis tomus.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     ABaSl = Acta Baltico-Slavica, Balstogės (Bialystoko) mokslo drau­
     gijos nuo 1964 m. leidžiamas žurn. (iki 1970 m. 7 t.).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

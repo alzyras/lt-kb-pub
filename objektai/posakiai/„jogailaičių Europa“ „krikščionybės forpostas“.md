@@ -27,7 +27,7 @@ Lenkijos ir Lietuvos sostuose sėdėjo lietuviškos kilmės Jogailaičių dinast
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Krikščioniškasis mentalitetas įsigali bent jau tarp visuomenės elito (antemurale christianitatis – krikščionybės forposto – idėja nukreipta prieš stačiatikišką Maskvą), susiformuoja bajorų tauta, turinti istorinę savimonę ir kilmės kroniką.'
+  teiginys: 'Krikščionybės forposto idėja buvo nukreipta prieš stačiatikišką Maskvą ir siejosi su krikščioniškojo mentaliteto įsigalėjimu visuomenės elite.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -51,7 +51,7 @@ Lenkijos ir Lietuvos sostuose sėdėjo lietuviškos kilmės Jogailaičių dinast
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Krikščioniškasis mentalitetas įsigali bent jau tarp visuomenės elito (antemurale christianitatis – krikščionybės forposto – idėja nukreipta prieš stačiatikišką Maskvą), susiformuoja bajorų tauta, turinti istorinę savimonę ir kilmės kroniką.'
+  santrauka: 'Krikščionybės forposto idėja buvo nukreipta prieš stačiatikišką Maskvą ir siejosi su krikščioniškojo mentaliteto įsigalėjimu visuomenės elite.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Krikščioniškasis men-

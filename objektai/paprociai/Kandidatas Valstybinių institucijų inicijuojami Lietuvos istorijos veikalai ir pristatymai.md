@@ -47,7 +47,7 @@ Nenurodyta
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: '1990 m. kovo 11 d. atkūrusi nepriklausomybę, 2004 m. tapusi visateise demokratinių NATO ir ES valstybių šeimos nare, 2013-aisiais Lietuva imsis istorinės pareigos pirmininkauti Europos Sąjungai – laisvų ir demokratinių Europos valstybių susivienijimui.'
+  teiginys: '1990 m. nepriklausomybę atkūrusi ir 2004 m. NATO bei ES nare tapusi Lietuva 2013 m. rengėsi pirmininkauti Europos Sąjungai.'
   pagrindžia:
     - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -89,7 +89,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 - c-003
-  santrauka: '1990 m. kovo 11 d. atkūrusi nepriklausomybę, 2004 m. tapusi visateise demokratinių NATO ir ES valstybių šeimos nare, 2013-aisiais Lietuva imsis istorinės pareigos pirmininkauti Europos Sąjungai – laisvų ir demokratinių Europos valstybių susivienijimui.'
+  santrauka: '1990 m. nepriklausomybę atkūrusi ir 2004 m. NATO bei ES nare tapusi Lietuva 2013 m. rengėsi pirmininkauti Europos Sąjungai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1990 m. kovo 11 d. atkūrusi nepriklausomybę,

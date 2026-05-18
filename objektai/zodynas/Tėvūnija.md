@@ -35,13 +35,13 @@ Pagrindinė forma: `tėvūnija`.
 Vartojamos formos: `tėvūnijomis`, `pavietėmis`, `tėvūnu`, `paviete`, `tėvūnijų`, `pavietų`, `pagastus`, `pagastai`, `dešimtines`.
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: '`Tėvūnija / pavietė` šiame tekste reiškia administracinę apygardą.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: '`Pagastas` ir `dešimtinė` žymi mažesnius tos pačios sistemos vienetus.'
   pagrindžia:
     - c-001
@@ -51,7 +51,7 @@ Vartojamos formos: `tėvūnijomis`, `pavietėmis`, `tėvūnu`, `paviete`, `tėv�
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Tėvūnija / pavietė` šiame tekste reiškia administracinę apygardą
+  santrauka: '`Tėvūnija / pavietė` šiame tekste reiškia administracinę apygardą.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Visa Lietuvos ūkė buvo paskaidyta į mažas apygardas, tėvūnijomis, arba pavietėmis^1057 , vadinamas,
@@ -64,10 +64,10 @@ Vartojamos formos: `tėvūnijomis`, `pavietėmis`, `tėvūnu`, `paviete`, `tėv�
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
 - c-002
-  santrauka: `Pagastas` ir `dešimtinė` žymi mažesnius tos pačios sistemos vienetus
+  santrauka: '`Pagastas` ir `dešimtinė` žymi mažesnius tos pačios sistemos vienetus.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Tos tėvūnijos dalijos į pagastus^1060 , kurių vyresniaisiais buvo vaitai; tie pagastai dalijos į dešimtines,
@@ -78,7 +78,7 @@ Vartojamos formos: `tėvūnijomis`, `pavietėmis`, `tėvūnu`, `paviete`, `tėv�
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004
 
 ## Pastabos
 

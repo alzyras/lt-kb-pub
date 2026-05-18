@@ -32,47 +32,34 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lenkų ponų padedamas, jis 1605 m. užėmė Maskvą.'
+  teiginys: 'Maskvos suirutės metu krašte prasidėjo nauji sukilimai ir atsirado antras apsimetėlis Dimitrijas.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Maskvoj nebuvo ramybės nė dabar.'
+  teiginys: '1613 m. caru išrinkus Mykolą Romanovą prasidėjo naujoji Maskvos, vėliau visos Rusijos, carų dinastija.'
   pagrindžia:
     - c-002
-- t-003
-  teiginys: 'Su juo prasidėjo naujoji Maskvos, o vėliau „visos Rusijos" carų dinastija, kuri išgyvavo iki 1917 m. revoliucijos (iš tikrųjų Romanovų vyriškoji linija išmirė jau XVIII amžiuje, tačiau carai tebesivadino Romanovais iki pat galo).'
-  pagrindžia:
-    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lenkų ponų padedamas, jis 1605 m. užėmė Maskvą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Lenkų ponų padedamas,
-    jis 1605 m. užėmė Maskvą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Maskvoj nebuvo ramybės nė dabar.'
+  santrauka: 'Maskvos suirutės metu krašte prasidėjo nauji sukilimai ir atsirado antras apsimetėlis Dimitrijas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Maskvoj nebuvo ramybės nė dabar. Krašte prasidėjo nauji su-
     kilimai, ir atsirado antras apsimetėlis Dimitrijas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Su juo prasidėjo naujoji Maskvos, o vėliau „visos Rusijos" carų dinastija, kuri išgyvavo iki 1917 m. revoliucijos (iš tikrųjų Romanovų vyriškoji linija išmirė jau XVIII amžiuje, tačiau carai tebesivadino Romanovais iki pat galo).'
+    - t-001
+- c-002
+  santrauka: '1613 m. caru išrinkus Mykolą Romanovą prasidėjo naujoji Maskvos, vėliau visos Rusijos, carų dinastija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Caru buvo išrinktas metropolito Filareto, Teodoro
@@ -81,13 +68,13 @@ Nenurodyta
     gyvavo iki 1917 m. revoliucijos (iš tikrųjų Romanovų vyriškoji
     linija išmirė jau XVIII amžiuje, tačiau carai tebesivadino Roma-
     novais iki pat galo).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -96,6 +83,3 @@ Nenurodyta
 ### Laikotarpiai
 - [[laikotarpiai/XVI amžius]]
 - [[laikotarpiai/XVII amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/Apsimetėlis Dimitrijus]]

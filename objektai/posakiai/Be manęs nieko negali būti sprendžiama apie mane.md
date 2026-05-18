@@ -38,8 +38,8 @@ tags:
 - „veto"
 
 ## Teiginiai
-- t-001
-  teiginys: 'Formuluotė šiame pasakojime pateikiama kaip seimo vienbalsiškumo, protesto ir jo vėlesnio politinio veikimo formulės sujungtos į vieną klasterį.'
+- t-002
+  teiginys: 'Posakis „Be manęs nieko negali būti sprendžiama apie mane“ buvo laikomas bajorų laisvės dėsniu.'
   pagrindžia:
     - c-001
     - c-002
@@ -48,7 +48,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: seimo vienbalsiškumo, protesto ir jo vėlesnio politinio veikimo formulės sujungtos į vieną klasterį
+  santrauka: 'Posakis „Be manęs nieko negali būti sprendžiama apie mane“ buvo laikomas bajorų laisvės dėsniu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     visi savo laisvės pagrindu laikė
@@ -60,9 +60,9 @@ tags:
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
 - c-002
-  santrauka: seimo vienbalsiškumo, protesto ir jo vėlesnio politinio veikimo formulės sujungtos į vieną klasterį
+  santrauka: 'Posakis „Be manęs nieko negali būti sprendžiama apie mane“ buvo laikomas bajorų laisvės dėsniu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Visada atsirasdavo, kas pasakydavo _„veto",_ ir seimas
@@ -73,4 +73,4 @@ tags:
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

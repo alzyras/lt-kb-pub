@@ -20,13 +20,13 @@ Pagrindinė forma: `ašvienis`.
 Vartojamos formos: `ašvienio`.
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: '`Ašvienis` šiame tekste reiškia arklį ar kitą jojamąjį/ūkinį gyvulį.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Žodis vartojamas ūkio, nuomos ir gyvulio pardavimo kontekste.'
   pagrindžia:
     - c-001
@@ -36,7 +36,7 @@ Vartojamos formos: `ašvienio`.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Ašvienis` šiame tekste reiškia arklį ar kitą jojamąjį/ūkinį gyvulį
+  santrauka: '`Ašvienis` šiame tekste reiškia arklį ar kitą jojamąjį/ūkinį gyvulį.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Vargdienis, neturėdamas ašvienio arba javų, savo dirvą ar pievą kitam
@@ -47,10 +47,10 @@ Vartojamos formos: `ašvienio`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
 - c-002
-  santrauka: Žodis vartojamas ūkio, nuomos ir gyvulio pardavimo kontekste
+  santrauka: 'Žodis vartojamas ūkio, nuomos ir gyvulio pardavimo kontekste.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     jei buvo jautis, tad pamušus mėsa dalijos, jei ašvienis, pardavus jį, – pinigais.
@@ -60,7 +60,7 @@ Vartojamos formos: `ašvienio`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004
 
 ## Pastabos
 

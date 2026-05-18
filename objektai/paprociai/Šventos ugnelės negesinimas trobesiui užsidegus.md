@@ -41,33 +41,22 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: 'Sudegusiam trobesiui senu įpročiu sakydavo, kad jį aplankė šventa ugnelė.'
   pagrindžia:
-    - c-001
+    - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Užsidegus trobesiui kai kurie lietuviai nenorėdavo jo gesinti, nes ugnelę laikė šventą ir įsižeidžiančią.'
   pagrindžia:
-    - c-002
+    - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Sudegusiam trobesiui senu įpročiu sakydavo, kad jį aplankė šventa ugnelė.
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Kam norint sudegus, senu įpročiu sako: „Tą ugnelė šventa
-    aplankė.“
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: Užsidegus trobesiui kai kurie lietuviai nenorėdavo jo gesinti, nes ugnelę laikė šventą ir įsižeidžiančią.
+  santrauka: 'Užsidegus trobesiui kai kurie lietuviai nenorėdavo jo gesinti, nes ugnelę laikė šventą ir įsižeidžiančią.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     raštininkas,
@@ -77,8 +66,23 @@ Nenurodyta
     apstoję kūrenantys trobesį it laužą. Kam norint sudegus, senu įpročiu sako: „Tą ugnelė šventa
     aplankė.“ Perkūnijos ugnį daug stigavoja iki šiai dienai, jog ožkos pienu tegalį užgesyti, kas niekų
     kalba yra, nesgi ir pačiu vandeniu gal užgesyti, jei ano gausiai pasitinka.
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004
+- c-002
+  santrauka: 'Sudegusiam trobesiui senu įpročiu sakydavo, kad jį aplankė šventa ugnelė.'
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Kam norint sudegus, senu įpročiu sako: „Tą ugnelė šventa
+    aplankė.“
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003

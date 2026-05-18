@@ -52,7 +52,7 @@ Sąvoka aiškinama per Netimero valdžios paveldimumą ir Lietuvos politinio iš
 Vartojama ankstyvosios Lietuvos politinės organizacijos aptarime.
 
 ## Teiginiai
-- t-004
+- t-005
   teiginys: 'Netimero valdžios paveldimumas rodytų, kad Lietuva buvo pasiekusi bent chiefdomo, arba vadystės, stadiją.'
   pagrindžia:
     - c-001
@@ -75,7 +75,7 @@ Vartojama ankstyvosios Lietuvos politinės organizacijos aptarime.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-005
 
 ## Ryšiai
 ### Teminiai klasteriai

@@ -38,38 +38,22 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
 - Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,.
 
 ## Teiginiai
-- t-002
+- t-003
   teiginys: 'M. Strijkovskis (XVI a. antrojoje pusėje) papildė, kad mūšyje vykstant atkakliai kovai, Gediminas su dalimi karių smogė rusams iš šono, jų rikiuotę pralaužė ir priešą sumušė, priešas buvo priverstas bėgti.'
   pagrindžia:
-    - c-002
+    - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'M. Strijkovskis (XVI a. antrojoje pusėje) papildė, kad mūšyje vykstant atkakliai kovai, Gediminas su dalimi karių smogė rusams iš šono, jų rikiuotę pralaužė ir priešą sumušė, priešas buvo priverstas bėgti.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    M. Strijkovskis (XVI a.
-    antrojoje pusėje) papildė, kad mūšyje vyks-
-    tant atkakliai kovai, Gediminas su dalimi
-    karių smogė rusams iš šono, jų rikiuotę
-    pralaužė ir priešą sumušė, priešas buvo pri-
-    verstas bėgti.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: 'Tiesioginė šio veikalo citata apie šaltinio panaudojimą.'
-  pagrindžia:
-    - t-002
 
 ## Bibliografiniai įrodymai
-- c-002
+- c-001
   santrauka: 'M. Strijkovskis (XVI a. antrojoje pusėje) papildė, kad mūšyje vykstant atkakliai kovai, Gediminas su dalimi karių smogė rusams iš šono, jų rikiuotę pralaužė ir priešą sumušė, priešas buvo priverstas bėgti.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    M. Strijkovskis (XVI a.
+    Lucko, Perejaslavlio kunigaikščiai, o Kijevo,
+    Briansko - pabėgti). M. Strijkovskis (XVI a.
     antrojoje pusėje) papildė, kad mūšyje vyks-
     tant atkakliai kovai, Gediminas su dalimi
     karių smogė rusams iš šono, jų rikiuotę
@@ -79,6 +63,6 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: 'Tiesioginė šio veikalo citata apie šaltinio panaudojimą.'
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-003

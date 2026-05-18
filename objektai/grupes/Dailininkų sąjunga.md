@@ -18,7 +18,7 @@ Nuo rašytojų neatsiliko Dailininkų sąjunga, ekonomistai ir filosofai.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Per Sąjūdžio priešistorę Dailininkų sąjunga įsitraukė į visuomeninį aktyvumą kartu su ekonomistais ir filosofais.'
+  teiginys: 'Sąjūdžio priešistorėje Dailininkų sąjunga įsitraukė į visuomeninį aktyvumą kartu su ekonomistais ir filosofais.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -26,7 +26,7 @@ Nuo rašytojų neatsiliko Dailininkų sąjunga, ekonomistai ir filosofai.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Per Sąjūdžio priešistorę Dailininkų sąjunga įsitraukė į visuomeninį aktyvumą kartu su ekonomistais ir filosofais.'
+  santrauka: 'Sąjūdžio priešistorėje Dailininkų sąjunga įsitraukė į visuomeninį aktyvumą kartu su ekonomistais ir filosofais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos Persitvarkymo Sąjūdis

@@ -41,22 +41,40 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: 'Vaišių ir šventinių valgių racionas turėjo konkrečius patiekalus bei ruošimo būdus.'
   pagrindžia:
-    - c-001
+    - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Vasarą visi valgė ant žemės, prisikloję dembliais ar meškenomis.'
   pagrindžia:
-    - c-002
+    - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Vaišių ir šventinių valgių racionas turėjo konkrečius patiekalus bei ruošimo būdus.
+  santrauka: 'Vasarą visi valgė ant žemės, prisikloję dembliais ar meškenomis.'
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Valgė visi vasarą ant žemės pablaka ar išsitiesę, kaip šiandien dar tebdaro šienuodamies, ant
+    plikos vejos, dembliais ar meškenomis pasikloję, sriuobalą^345 srėbė, su duona pasikąsdami, iš
+    muldų ar raugtinių^346 ir kitų kodžių^347. Paprastai sriuobalu buvo laiški ar skoba putra^348 ; jei tam
+    kartui ją virė, tad buvo vanduo, su miltais suvirintas, ir truputį pienu saldžiu pražilinta; juo
+    daugiau tenai miltų ir pieno buvo, juo skanesne vadinos, ką patarlė, šiandien minavojama, dar
+    stigavoja: „Duok, dievali,– sako, – pievoj karklyną, putroj kankolą^349 “; lygia dalia į skystą putrą
+    sakoma tebėra: „Et, – sako, – pliurškalas, kruopas kruopą gaudo“.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
+- c-002
+  santrauka: 'Vaišių ir šventinių valgių racionas turėjo konkrečius patiekalus bei ruošimo būdus.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Valgė dar pupas, žirnius, riaušius^361 ,
@@ -68,27 +86,13 @@ Nenurodyta
     viršiau minavojau, spirgino liepos geldose ubladžių kakaliuose. Grybus taip pat valgė slėgtus ir
     džiovintus, užvis rūgštai virtus. Tokiu būdu misdami, visi didžiai ilgo amžiaus prilaukė^366 , kaipogi
     senieji šimtą, pusantro šimto metų sau skaitė.
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-- c-002
-  santrauka: Vasarą visi valgė ant žemės, prisikloję dembliais ar meškenomis.
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Valgė visi vasarą ant žemės pablaka ar išsitiesę, kaip šiandien dar tebdaro šienuodamies, ant
-    plikos vejos, dembliais ar meškenomis pasikloję, sriuobalą^345 srėbė, su duona pasikąsdami, iš
-    muldų ar raugtinių^346 ir kitų kodžių^347. Paprastai sriuobalu buvo laiški ar skoba putra^348 ; jei tam
-    kartui ją virė, tad buvo vanduo, su miltais suvirintas, ir truputį pienu saldžiu pražilinta; juo
-    daugiau tenai miltų ir pieno buvo, juo skanesne vadinos, ką patarlė, šiandien minavojama, dar
-    stigavoja: „Duok, dievali,– sako, – pievoj karklyną, putroj kankolą^349 “; lygia dalia į skystą putrą
-    sakoma tebėra: „Et, – sako, – pliurškalas, kruopas kruopą gaudo“.
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai

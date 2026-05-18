@@ -23,23 +23,24 @@ Pagrindinė forma: `šaldros`.
 Vartojamos formos: `šaldrų`, `prašaleičių`, `prašaleičiai`.
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: '`Šaldrų / prašaleičių` šiame tekste reiškia svetimus atvykėlius ar prašalaičius.'
-  pagrindžia:
-    - c-001
-    - c-003
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Šis žodis gali žymėti ir iš kitur atėjusius raštų žmones.'
   pagrindžia:
     - c-001
     - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
+- t-004
+  teiginys: 'Šis žodis gali žymėti ir iš kitur atėjusius raštų žmones.'
+  pagrindžia:
+    - c-001
+    - c-003
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Šaldrų / prašaleičių` šiame tekste reiškia svetimus atvykėlius ar prašalaičius
+  santrauka: '`Šaldrų / prašaleičių` šiame tekste reiškia svetimus atvykėlius ar prašalaičius.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Užvis jog
@@ -52,22 +53,10 @@ Vartojamos formos: `šaldrų`, `prašaleičių`, `prašaleičiai`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
 - c-002
-  santrauka: Šis žodis gali žymėti ir iš kitur atėjusius raštų žmones
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Antrosios žinyčios, prašaleičių raštuose Romove vadinamos, toksai yra aprašas.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: `Šaldrų / prašaleičių` šiame tekste reiškia svetimus atvykėlius ar prašalaičius
+  santrauka: '`Šaldrų / prašaleičių` šiame tekste reiškia svetimus atvykėlius ar prašalaičius.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     (^709) perėjūnų, valkatų
@@ -77,7 +66,20 @@ Vartojamos formos: `šaldrų`, `prašaleičių`, `prašaleičiai`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
+- c-003
+  santrauka: 'Šis žodis gali žymėti ir iš kitur atėjusius raštų žmones.'
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Antrosios žinyčios, prašaleičių raštuose Romove vadinamos, toksai yra aprašas.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
+
 ## Pastabos
 
 - `šaldrų` ir `prašaleičių` čia veikia kaip artimi tos pačios svetimybės vardai. `šaldros` tekste atrodo kaip sinonimas ar keista vartosena, bet priešstata su vietininku aiški.

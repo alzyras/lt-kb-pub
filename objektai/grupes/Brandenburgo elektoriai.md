@@ -22,6 +22,8 @@ tags:
   teiginys: '1618 m. mirus Albrechto sūnui, Prūsai atiteko jo giminaičiams, Brandenburgo elektoriams.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -33,10 +35,10 @@ tags:
     Vėliau iš tų dviejų jungtinių kunigaikštysčių išaugo galinga Prūsų
     karalystė (nuo 1701 m.), kuri pagaliau atsistojo visos Vokietijos
     priešaky.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

@@ -20,23 +20,25 @@ Apskritai, Liublino aktu abi valstybės nebuvo sulietos į vieną, nors tas vals
 
 ## Teiginiai
 - t-001
-  teiginys: 'Apskritai, Liublino aktu abi valstybės nebuvo sulietos į vieną, nors tas valstybių junginys ir buvo vadinamas „abiejų tautų Respublika".'
+  teiginys: 'Liublino aktu abi valstybės nebuvo sulietos į vieną, nors jų junginys buvo vadinamas „abiejų tautų Respublika“.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Apskritai, Liublino aktu abi valstybės nebuvo sulietos į vieną, nors tas valstybių junginys ir buvo vadinamas „abiejų tautų Respublika".'
+  santrauka: 'Liublino aktu abi valstybės nebuvo sulietos į vieną, nors jų junginys buvo vadinamas „abiejų tautų Respublika“.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Apskritai, Liublino aktu abi valstybės nebuvo sulietos į
     vieną, nors tas valstybių junginys ir buvo vadinamas „abiejų
     tautų Respublika".`
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

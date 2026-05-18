@@ -19,30 +19,34 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
 
 ## Teiginiai
 - t-001
-  teiginys: 'Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičiną.'
+  teiginys: 'Kęstučiui ruošiantis nubausti Jogailą, Vytautas išvyko į Drohičiną.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Vladislovui 1444 m. žuvus, po trejų metų derybų, lenkai išsirinko tą patį Kazimierą ir savo karalium. O tų 7 metų būvyje Lietuva buvo net pradėjusi su Lenkijos lenininku, Mozūrų kunigaikščiu, karą dėl Drohičino, kurį šis po Zigmanto mirties buvo užėmęs.'
+  teiginys: 'Po Zigmanto mirties Mozūrų kunigaikštis buvo užėmęs Drohičiną, dėl kurio Lietuva pradėjo karą.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičiną.'
+  santrauka: 'Kęstučiui ruošiantis nubausti Jogailą, Vytautas išvyko į Drohičiną.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas
     išvyko į Drohičiną.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Vladislovui 1444 m. žuvus, po trejų metų derybų, lenkai išsirinko tą patį Kazimierą ir savo karalium. O tų 7 metų būvyje Lietuva buvo net pradėjusi su Lenkijos lenininku, Mozūrų kunigaikščiu, karą dėl Drohičino, kurį šis po Zigmanto mirties buvo užėmęs.'
+  santrauka: 'Po Zigmanto mirties Mozūrų kunigaikštis buvo užėmęs Drohičiną, dėl kurio Lietuva pradėjo karą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Nors Lenkija ir Vladislovas su šituo lietuvių žygiu ir ne-
@@ -52,11 +56,11 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
     būvyje Lietuva buvo net pradėjusi su Lenkijos lenininku, Mo-
     zūrų kunigaikščiu, karą dėl Drohičino, kurį šis po Zigmanto
     mirties buvo užėmęs.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

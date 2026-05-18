@@ -18,13 +18,13 @@ Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideolog
 
 ## Teiginiai
 - t-001
-  teiginys: 'Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideologiškai nepatikimi mokytojai atleidžiami iš darbo.'
+  teiginys: 'Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Siekiant sustiprinti idėjinį komunistinį mokinių auklėjimą, mokyklose steigiamos komjaunimo ir pionierių organizacijos, įrengiami Lenino kampeliai, leisti sienlaikraščiai.'
+  teiginys: 'Mokyklose pionierių organizacijos buvo steigiamos siekiant sustiprinti idėjinį komunistinį mokinių auklėjimą.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -32,7 +32,7 @@ Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideolog
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideologiškai nepatikimi mokytojai atleidžiami iš darbo.'
+  santrauka: 'Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Mokiniai buvo verčiami stoti į pionierių ir komjaunimo
@@ -45,7 +45,7 @@ Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideolog
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Siekiant sustiprinti idėjinį komunistinį mokinių auklėjimą, mokyklose steigiamos komjaunimo ir pionierių organizacijos, įrengiami Lenino kampeliai, leisti sienlaikraščiai.'
+  santrauka: 'Mokyklose pionierių organizacijos buvo steigiamos siekiant sustiprinti idėjinį komunistinį mokinių auklėjimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Siekiant sustiprinti idėjinį komunistinį mokinių auklėjimą, mokyklose

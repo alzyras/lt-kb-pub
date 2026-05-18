@@ -19,40 +19,22 @@ tags: []
 Valstybinė santvarka po Liublino unijos.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Valstybinė santvarka po Liublino unijos.'
+- t-004
+  teiginys: 'Nauja unija padėjo Vytautui apsisaugoti nuo Lenkijos ir trauktis nuo Ordino, siekiant atsiimti Žemaitiją.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: Vytautui nuo Ordino trauktis padėjo apsisaugojimas nuo Lenkijos nauja unija.
-  pagrindžia:
-    - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: Unija siejama su Lietuvos priklausomybės Lenkijai atnaujinimu.
+- t-005
+  teiginys: '1401 m. sausio 18 d. aktu buvo atnaujinta Lietuvos priklausomybė Lenkijai.'
   pagrindžia:
-    - c-003
+    - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Valstybinė santvarka po Liublino unijos.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    XVIII. Valstybinė santvarka po Liublino unijos. 1. I. Lappo, Lietuva
-    ir Lenkija po 1569 m. L. unijos (1932); S. A. Beršadskij, Lit. statut i polsk.
-    konstitucii (1893); 5. L. Ptašicki, K istorii lit. prava poslie III statuta (1893);
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: Vytautui nuo Ordino trauktis padėjo apsisaugojimas nuo Lenkijos nauja unija.
+  santrauka: 'Nauja unija padėjo Vytautui apsisaugoti nuo Lenkijos ir trauktis nuo Ordino, siekiant atsiimti Žemaitiją.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas, aptvarkęs šiek tiek santykius su Lenkija ir su­
@@ -65,13 +47,15 @@ Valstybinė santvarka po Liublino unijos.
     Vytautas. Bet apsisaugojęs nuo Lenkijos nauja unija, sutvar­
     kęs reikalus rytuose ir viduje, ėmė trauktis nuo Ordino, dė­
     damas pastangų atsiimti lietuvišką kraštą — Žemaitija.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: Unija siejama su Lietuvos priklausomybės Lenkijai atnaujinimu.
+    - t-004
+- c-002
+  santrauka: '1401 m. sausio 18 d. aktu buvo atnaujinta Lietuvos priklausomybė Lenkijai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Ne­
@@ -79,11 +63,13 @@ Valstybinė santvarka po Liublino unijos.
     naujintas aktas Lietuvos priklausomybės Lenkijai, kas paskutinį
     kartą buvo pareikšta 1392 m.^3 ) ir nuo to laiko toji priklausomy­
     bė buvo gerokai apardyta.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-005
 
 ## Ryšiai
 ### Teminiai klasteriai

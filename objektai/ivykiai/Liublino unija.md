@@ -39,13 +39,13 @@ Nenurodyta
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Prijungtų sričių bajorams turėjo prisiekti Lenkijai, o Lietuvai grėsė suvereniteto praradimas.'
+  teiginys: 'Prijungtų sričių bajorai turėjo prisiekti Lenkijai, o Lietuvai grėsė suvereniteto praradimas.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: 'J. J. Chodkevičius Žygimantui Augustui teigė, kad LDK atstovai buvo priversti nusileisti su skausmu ir širdgėla.'
+  teiginys: 'Per Liublino unijos derybas LDK atstovai teigė buvę priversti nusileisti su didžiu skausmu ir širdgėla.'
   pagrindžia:
     - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -79,7 +79,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Prijungtų sričių bajorams turėjo prisiekti Lenkijai, o Lietuvai grėsė suvereniteto praradimas.'
+  santrauka: 'Prijungtų sričių bajorai turėjo prisiekti Lenkijai, o Lietuvai grėsė suvereniteto praradimas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Prijungtų sričių bajorai turėjo
@@ -93,7 +93,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'J. J. Chodkevičius Žygimantui Augustui teigė, kad LDK atstovai buvo priversti nusileisti su skausmu ir širdgėla.'
+  santrauka: 'Per Liublino unijos derybas LDK atstovai teigė buvę priversti nusileisti su didžiu skausmu ir širdgėla.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kreipda-

@@ -27,7 +27,7 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
 
 ## Teiginiai
 - t-001
-  teiginys: 'Dalis lietuvių tremtinių ir pabėgėlių, nepatekusių į JAV, pasuko į Didžiąją Britaniją, Kanadą ir Australiją.'
+  teiginys: 'Dalis lietuvių tremtinių ir pabėgėlių, neatvykusių į JAV, pasuko į Didžiąją Britaniją, Kanadą ir Australiją.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -35,7 +35,7 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Dalis lietuvių tremtinių ir pabėgėlių, nepatekusių į JAV, pasuko į Didžiąją Britaniją, Kanadą ir Australiją.'
+  santrauka: 'Dalis lietuvių tremtinių ir pabėgėlių, neatvykusių į JAV, pasuko į Didžiąją Britaniją, Kanadą ir Australiją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Per trejus–ketverius metus į JAV pasisekė atvykti

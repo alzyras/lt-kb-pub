@@ -31,7 +31,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Pademonstruota vienybė su Mažąja Lietuva – Steigiamasis Seimas 1921 m. lapkričio 11 d. vienbalsiai pareikalavo įjungti Klaipėdos teritoriją į Lietuvos sudėtį.'
+  teiginys: 'Steigiamasis Seimas 1921 m. lapkričio 11 d. vienbalsiai pareikalavo įjungti Klaipėdos teritoriją į Lietuvos sudėtį.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -39,7 +39,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Pademonstruota vienybė su Mažąja Lietuva – Steigiamasis Seimas 1921 m. lapkričio 11 d. vienbalsiai pareikalavo įjungti Klaipėdos teritoriją į Lietuvos sudėtį.'
+  santrauka: 'Steigiamasis Seimas 1921 m. lapkričio 11 d. vienbalsiai pareikalavo įjungti Klaipėdos teritoriją į Lietuvos sudėtį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pademonstruota vienybė su

@@ -20,33 +20,15 @@ Netoli Vilniaus, sunkiai prieinamame Galvės ežero pusiasaly, Gediminas pastat�
 
 ## Teiginiai
 - t-001
-  teiginys: 'Netoli Vilniaus, sunkiai prieinamame Galvės ežero pusiasaly, Gediminas pastatė dar kitą tvirtą pilį, kuri ilgą laiką buvo tarytum antroji Lietuvos sostinė, — tai Trakai.'
+  teiginys: 'Galvės ežere buvo Vytauto garbės ir pasididžiavimo statiniu vadinta salos pilis.'
   pagrindžia:
     - c-001
-
-- t-002
-  teiginys: 'Galvės ežeras šiame šaltinyje minimas kaip salos pilies vieta.'
-  pagrindžia:
-    - c-002
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Netoli Vilniaus, sunkiai prieinamame Galvės ežero pusiasaly, Gediminas pastatė dar kitą tvirtą pilį, kuri ilgą laiką buvo tarytum antroji Lietuvos sostinė, — tai Trakai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Netoli Vilniaus, sunkiai prieinamame Galvės
-    ežero pusiasaly, Gediminas pastatė dar kitą tvirtą pilį, kuri ilgą
-    laiką buvo tarytum antroji Lietuvos sostinė, — tai Trakai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: Galvės ežeras įvardijamas kaip salos pilies vieta.
+  santrauka: 'Galvės ežere buvo Vytauto garbės ir pasididžiavimo statiniu vadinta salos pilis.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     kurių žymiausias jo garbės ir pasididžiavimo statinys buvo Galvės
@@ -67,7 +49,7 @@ Netoli Vilniaus, sunkiai prieinamame Galvės ežero pusiasaly, Gediminas pastat�
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai

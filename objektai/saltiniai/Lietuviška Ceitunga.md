@@ -19,13 +19,17 @@ Vėliau atsirado dar daugiau lietuviškų laikraščių; vieni iš jų gyvavo il
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vėliau atsirado dar daugiau lietuviškų laikraščių; vieni iš jų gyvavo ilgiau, kiti trumpiau.'
+  teiginys: 'Nuo 1878 m. Šerno redaguojama „Lietuviška Ceitunga“ ėmė skelbti bendrumą su Didžiosios Lietuvos lietuviais.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Vėliau atsirado dar daugiau lietuviškų laikraščių; vieni iš jų gyvavo ilgiau, kiti trumpiau.'
+  santrauka: 'Nuo 1878 m. Šerno redaguojama „Lietuviška Ceitunga“ ėmė skelbti bendrumą su Didžiosios Lietuvos lietuviais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vėliau
@@ -36,10 +40,10 @@ Vėliau atsirado dar daugiau lietuviškų laikraščių; vieni iš jų gyvavo il
     net ėmė skelbti bendrumą su Didžiosios Lietuvos lietuviais (mat,
     joje buvo pradėję rašyti ir vėlesnieji „Aušros" bendradar-
     biai).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

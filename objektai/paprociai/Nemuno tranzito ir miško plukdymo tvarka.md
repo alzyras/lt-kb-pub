@@ -33,17 +33,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kadangi tatai nepavyko, tai Ambasadorių Konferencija jau po Klaipėdos konvencijos pasirašymo pareiškė norą, kad Lietuva užmegztų santykius su Lenkija ir netrukdytų prekybos nei tranzito (1924.'
+  teiginys: '1924 m. birželio 2 d. Ambasadorių Konferencija pageidavo, kad Lietuva netrukdytų prekybos ir tranzito.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Kitais metais (1925 m.) Lenkija pasiūlė Lietuvai derybas dėl Nemuno atidarymo Kopenhagoje.'
-  pagrindžia:
-    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kadangi tatai nepavyko, tai Ambasadorių Konferencija jau po Klaipėdos konvencijos pasirašymo pareiškė norą, kad Lietuva užmegztų santykius su Lenkija ir netrukdytų prekybos nei tranzito (1924.'
+  santrauka: '1924 m. birželio 2 d. Ambasadorių Konferencija pageidavo, kad Lietuva netrukdytų prekybos ir tranzito.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lenkija vėliau,
@@ -53,32 +51,10 @@ Nenurodyta
     konvencijos pasirašymo pareiškė norą, kad Lietuva užmegztų
     santykius su Lenkija ir netrukdytų prekybos nei tranzito (1924.
     VI. 2).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Kitais metais (1925 m.) Lenkija pasiūlė Lietuvai derybas dėl Nemuno atidarymo Kopenhagoje.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kitais metais (1925 m.) Lenkija pasiūlė Lietuvai derybas dėl
-    Nemuno atidarymo Kopenhagoje. Kadangi Klaipėdos konvenci-
-
-    joje Lietuva sutiko, nepaisydama savo ginčo su Lenkija, atidaryti
-    Nemuną miško plukdymui, todėl pasiūlymą priėmė. Kopen-
-    hagos derybos vėliau dar buvo tęsiamos Luganoj (Šveica-
-    rijoje). Bet ir čia nedavė vaisių, nes Lenkija Nemuno atidarymą
-    siejo su geležinkelių susisiekimu ir net su konsularinių santykių
-    užmezgimu. Tada Lietuvos vyriausybė, vykdydama savo Klaipė-
-    dos konvencijos pasižadėjimą, pati viena išleido vadinamąsias
-    „tranzitinio miško plukdymo Nemunu taisykles" (1926. I. 27).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002

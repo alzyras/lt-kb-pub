@@ -19,13 +19,15 @@ Ypač tas ryškiai matyti, palyginus lietuviškąjį kaimą su greta esančiomis
 
 ## Teiginiai
 - t-001
-  teiginys: 'Ypač tas ryškiai matyti, palyginus lietuviškąjį kaimą su greta esančiomis sulenkėjusiomis bajorų „okolicomis".'
+  teiginys: 'Okolicos buvo sulenkėjusių bajorų gyvenvietės greta lietuviškų kaimų.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Ypač tas ryškiai matyti, palyginus lietuviškąjį kaimą su greta esančiomis sulenkėjusiomis bajorų „okolicomis".'
+  santrauka: 'Okolicos buvo sulenkėjusių bajorų gyvenvietės greta lietuviškų kaimų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ypač tas ryškiai ma-
@@ -34,10 +36,10 @@ Ypač tas ryškiai matyti, palyginus lietuviškąjį kaimą su greta esančiomis
     mės, bet, didžiuodamiesi savo kilmingumu ir iš aukšto žiūrėdami
     į lietuvius kaimiečius, jie netikėtai tapo atsilikėliais ir nu-
     skurdėliais.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

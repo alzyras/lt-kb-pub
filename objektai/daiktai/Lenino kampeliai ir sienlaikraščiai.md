@@ -52,7 +52,7 @@ Naudoti idėjiniam komunistiniam mokinių auklėjimui stiprinti.
 Nenurodyta
 
 ## Teiginiai
-- t-002
+- t-003
   teiginys: 'Mokyklose buvo įrengiami Lenino kampeliai ir leidžiami sienlaikraščiai, siekiant stiprinti idėjinį komunistinį mokinių auklėjimą.'
   pagrindžia:
     - c-001
@@ -73,7 +73,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-003
 
 ## Šaltiniai ir įrodymai
 

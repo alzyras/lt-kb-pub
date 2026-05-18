@@ -19,7 +19,7 @@ Kolontajus nebūtų parėmęs valdovo pozicijos.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Hugas Kolontajus netikėtai parėmė valdovo poziciją ir prisidėjo prie nedidelės balsų persvaros.'
+  teiginys: 'Hugas Kolontajus parėmė valdovo poziciją ir prisidėjo prie nedidelės balsų persvaros.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -27,7 +27,7 @@ Kolontajus nebūtų parėmęs valdovo pozicijos.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Hugas Kolontajus netikėtai parėmė valdovo poziciją ir prisidėjo prie nedidelės balsų persvaros.'
+  santrauka: 'Hugas Kolontajus parėmė valdovo poziciją ir prisidėjo prie nedidelės balsų persvaros.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kiekybiškai tai – nepaprastai maža persvara, ir

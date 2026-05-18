@@ -32,7 +32,7 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: 'Ambasadorių konferencija Lietuvos poziciją suprato kaip pageidavimą Vilnių priskirti Lenkijai.'
+  teiginys: 'Ambasadorių konferencija aiškino, esą Lietuva pati pageidavo Vilnių priskirti Lenkijai.'
   pagrindžia:
     - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -84,7 +84,7 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Ambasadorių konferencija Lietuvos poziciją suprato kaip pageidavimą Vilnių priskirti Lenkijai.'
+  santrauka: 'Ambasadorių konferencija aiškino, esą Lietuva pati pageidavo Vilnių priskirti Lenkijai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ambasadorių konferencija tai suprato kaip norėjo suprasti – neva Lietuva

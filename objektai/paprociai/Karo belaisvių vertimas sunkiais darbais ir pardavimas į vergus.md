@@ -41,13 +41,13 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: 'Paimtus neprietelius lietuviai versdavo sunkiai dirbti ir novijo iki mirties.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Dalis karo belaisvių būdavo parduodama gudams ir totoriams į vergus.'
   pagrindžia:
     - c-001
@@ -56,7 +56,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Paimti karo belaisviai būdavo verčiami sunkiai dirbti, o dalis jų parduodama į vergus.
+  santrauka: 'Paimtus neprietelius lietuviai versdavo sunkiai dirbti ir novijo iki mirties.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Tuo tarpu paimtuosius neprietelius karėj, užvis vokiečius krikščionis, smarkiai smarkesniai galavo
@@ -65,9 +65,11 @@ Nenurodyta
     gieždami apmaudą už savo brolius, kuriuos taip pat vokiečiai žudė ir novijo Parusy, liepdami jiems
     maneliuose^1345 jau griovius kasti ir versmes džiovinti bei pilis dirbti, į kurių bokštus pusgyviams
     reikėjo tąsyti kalkes nugraužtomis rankomis
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004

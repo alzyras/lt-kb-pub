@@ -21,23 +21,23 @@ Pagrindinė forma: `įšleitė`.
 Vartojamos formos: `įšleiti`, `įšleitėj`.
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: '`Įšleitė` šiame tekste reiškia geografinę sritį, panašią į pašlaitę, slėnį ar įdubą.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Autorius įšleite skirsto kraštą į pietinę ir šiaurinę dalis.'
   pagrindžia:
-    - c-002
     - c-003
+    - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Įšleitė` šiame tekste reiškia geografinę sritį, panašią į pašlaitę, slėnį ar įdubą
+  santrauka: '`Įšleitė` šiame tekste reiškia geografinę sritį, panašią į pašlaitę, slėnį ar įdubą.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     kuri kalva dalija tą sluoksnį į dvi įšleiti^75 : į pietinę ir šiaurinę, nuo to, jog visos upės pietinėj įšleitėj
@@ -49,23 +49,9 @@ Vartojamos formos: `įšleiti`, `įšleitėj`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: Autorius įšleite skirsto kraštą į pietinę ir šiaurinę dalis
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Grekonys abelnai gyventojus, toje pietinėj įšleitėj gyvenančius, vadino
-    getais, arba tyrų getais, nes ypačiai^76 medėse gyvenančius masagetais, nuo žodžio medė, arba
-    mėžė^77 ;
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: Autorius įšleite skirsto kraštą į pietinę ir šiaurinę dalis
+  santrauka: 'Autorius įšleite skirsto kraštą į pietinę ir šiaurinę dalis.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Nuo Uksinių pamarių į šiaurę einant, tame sluoksny krašto yra tyrai, beje, neapregimi laukai
@@ -78,7 +64,21 @@ Vartojamos formos: `įšleiti`, `įšleitėj`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004
+- c-003
+  santrauka: 'Autorius įšleite skirsto kraštą į pietinę ir šiaurinę dalis.'
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Grekonys abelnai gyventojus, toje pietinėj įšleitėj gyvenančius, vadino
+    getais, arba tyrų getais, nes ypačiai^76 medėse gyvenančius masagetais, nuo žodžio medė, arba
+    mėžė^77 ;
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
 
 ## Pastabos
 
@@ -86,5 +86,4 @@ Vartojamos formos: `įšleiti`, `įšleitėj`.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Juodoji jūra]]
 - [[objektai/zodynas/Medė]]

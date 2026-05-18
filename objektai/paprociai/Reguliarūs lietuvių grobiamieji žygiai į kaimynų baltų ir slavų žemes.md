@@ -41,13 +41,13 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: 'XII a. pabaigoje lietuviai ėmė reguliariai rengti grobiamuosius žygius į kaimynų baltų ir slavų žemes.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: '1183 m. užfiksuotas pirmasis žinomas lietuvių reidas į Pskovo žemes.'
   pagrindžia:
     - c-002
@@ -56,10 +56,13 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: XII a. pabaigoje lietuviai ėmė reguliariai rengti grobiamuosius žygius į kaimynų baltų ir slavų žemes.
+  santrauka: 'XII a. pabaigoje lietuviai ėmė reguliariai rengti grobiamuosius žygius į kaimynų baltų ir slavų žemes.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    XII a. pabaigoje jie ėmė rengti reguliarius grobiamuosius
+    Po susidūrimo su Kijevo Rusios ekspansija Lietuva ėmė sparčiai
+    vystyti savo karinę galią, 1132 m. Rusios veržimasis buvo galuti-
+    nai atremtas ir XII-XIII a. sandūroje lietuviai tapo aktyviausia jėga
+    regione. XII a. pabaigoje jie ėmė rengti reguliarius grobiamuosius
     žygius į kaimynų baltų ir slavų žemes.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -67,12 +70,15 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: 1183 m. užfiksuotas pirmasis žinomas lietuvių reidas į Pskovo žemes.
+  santrauka: '1183 m. užfiksuotas pirmasis žinomas lietuvių reidas į Pskovo žemes.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    1183 m. užfiksuotas pirma-
+    Rusios veržimasis buvo galuti-
+    nai atremtas ir XII-XIII a. sandūroje lietuviai tapo aktyviausia jėga
+    regione. XII a. pabaigoje jie ėmė rengti reguliarius grobiamuosius
+    žygius į kaimynų baltų ir slavų žemes. 1183 m. užfiksuotas pirma-
     sis žinomas lietuvių reidas į Pskovo žemes.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -80,4 +86,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004

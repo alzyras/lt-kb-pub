@@ -22,13 +22,13 @@ Pagrindinė forma: `viežlybumas`.
 Vartojamos formos: `viežlybumą`, `viežlybai`, `viežlybos`.
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: '`Viežlybumas` šiame tekste reiškia namų dorą, švarą ir tvarkingą elgesį.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Moterims jis pateikiamas kaip vienas svarbiausių namų saugojimo darbų.'
   pagrindžia:
     - c-001
@@ -38,7 +38,7 @@ Vartojamos formos: `viežlybumą`, `viežlybai`, `viežlybos`.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Viežlybumas` šiame tekste reiškia namų dorą, švarą ir tvarkingą elgesį
+  santrauka: '`Viežlybumas` šiame tekste reiškia namų dorą, švarą ir tvarkingą elgesį.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     motriškosios varė plikį^377 laukan iš kiemo, o viežlybumą^378 namuose saugojo. Nesgi turėjo
@@ -51,10 +51,10 @@ Vartojamos formos: `viežlybumą`, `viežlybai`, `viežlybos`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
 - c-002
-  santrauka: Moterims jis pateikiamas kaip vienas svarbiausių namų saugojimo darbų
+  santrauka: 'Moterims jis pateikiamas kaip vienas svarbiausių namų saugojimo darbų.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     didžiausias pasiėmimas kiekvienos žmonos yra saugoti namuose ugnį ir viežlybumą
@@ -65,7 +65,7 @@ Vartojamos formos: `viežlybumą`, `viežlybai`, `viežlybos`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004
 
 ## Pastabos
 

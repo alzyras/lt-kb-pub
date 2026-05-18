@@ -50,20 +50,20 @@ tags: []
 Tai platus pajūrio kraštas tarp Išlos ir Daugavos, kuriam raštininkai priskiria kelis skirtingus vardus.
 
 ## Teiginiai
-- t-001
-  teiginys: "Žemaičių kraštas ir jo pajūris buvo vadinami Sambija ir Samland."
+- t-004
+  teiginys: 'Žemaičių kraštas ir jo pajūris buvo vadinami Sambija ir Samland.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
-  teiginys: "Žemaičių kraštui buvo taikomi ir Ritland, Austurland bei Oestland vardai."
+- t-005
+  teiginys: 'Žemaičių kraštui buvo taikomi ir Ritland, Austurland bei Oestland vardai.'
   pagrindžia:
     - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-003
-  teiginys: "To krašto gyventojai buvo siejami su gyvenimu žemai, pajūriuose."
+- t-006
+  teiginys: 'To krašto gyventojai buvo siejami su gyvenimu žemai, pajūriuose.'
   pagrindžia:
     - c-003
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
@@ -71,7 +71,7 @@ Tai platus pajūrio kraštas tarp Išlos ir Daugavos, kuriam raštininkai priski
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: "Žemaičių kraštas ir jo pajūris buvo vadinami Sambija ir Samland."
+  santrauka: 'Žemaičių kraštas ir jo pajūris buvo vadinami Sambija ir Samland.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Tankiai per pusę iš lietuviško žodžio, per pusę iš
@@ -85,9 +85,9 @@ Tai platus pajūrio kraštas tarp Išlos ir Daugavos, kuriam raštininkai priski
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-004
 - c-002
-  santrauka: "Žemaičių kraštui buvo taikomi ir Ritland, Austurland bei Oestland vardai."
+  santrauka: 'Žemaičių kraštui buvo taikomi ir Ritland, Austurland bei Oestland vardai.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Vadino dar ir paskiau tą kraštą vardu, iš dviejų žodžių sudėtu, iš žemaitiško ir
@@ -100,9 +100,9 @@ Tai platus pajūrio kraštas tarp Išlos ir Daugavos, kuriam raštininkai priski
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-005
 - c-003
-  santrauka: "To krašto gyventojai buvo siejami su gyvenimu žemai, pajūriuose."
+  santrauka: 'To krašto gyventojai buvo siejami su gyvenimu žemai, pajūriuose.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Kiti raštininkai vadino Žemaičių kraštą _Ritland_ , taip pat vardu, iš lietuviško rytai ir
@@ -115,7 +115,7 @@ Tai platus pajūrio kraštas tarp Išlos ir Daugavos, kuriam raštininkai priski
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai

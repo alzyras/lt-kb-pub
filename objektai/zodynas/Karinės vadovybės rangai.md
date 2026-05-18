@@ -29,19 +29,19 @@ Pagrindinė forma: `karinės vadovybės rangai`.
 Vartojamos formos: `dešimtininkus`, `šimtininkus`, `pulkorius`, `ratmistrais`, `karūžuosius`, `įrašą`, `reistrą`, `valdymierą`, `atmoną`, `karvedį`.
 
 ## Teiginiai
-- t-001
+- t-004
   teiginys: 'Senovės kariuomenėje buvo keli vadovybės rangai nuo dešimtininko iki aukščiausio vadovo.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-005
   teiginys: '`Karūžasis` nešė vėliavas ir turėjo karių sąrašą.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-003
+- t-006
   teiginys: '`Atmonas` ir `karvedys` žymi aukščiausią karinį vadą.'
   pagrindžia:
     - c-001
@@ -50,7 +50,7 @@ Vartojamos formos: `dešimtininkus`, `šimtininkus`, `pulkorius`, `ratmistrais`,
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Senovės kariuomenėje buvo keli vadovybės rangai nuo dešimtininko iki aukščiausio vadovo
+  santrauka: 'Senovės kariuomenėje buvo keli vadovybės rangai nuo dešimtininko iki aukščiausio vadovo.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Kėlusis karei, senovėj kalnėnai ir žemaičiai tokiu būdu kėlė sau karvedį, arba atmoną, kurs juos
@@ -69,9 +69,9 @@ Vartojamos formos: `dešimtininkus`, `šimtininkus`, `pulkorius`, `ratmistrais`,
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
-    - t-003
+    - t-004
+    - t-005
+    - t-006
 
 ## Pastabos
 

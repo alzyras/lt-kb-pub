@@ -41,32 +41,26 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-002
-  teiginys: 'Karūnos ir Lietuvos kariuomenės stovyklas įsirengdavo atskirai ir viena kitai neįsakinėdavo.'
-  pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-003
+- t-004
   teiginys: 'Lietuvos kariuomenė buvo laikoma Karūnos armijos pagalbininke ir sąjungininke, o ne pavaldžia provincija.'
   pagrindžia:
-    - c-002
+    - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: Karūnos ir Lietuvos kariuomenės stovyklas įsirengdavo atskirai ir viena kitai neįsakinėdavo.
+- c-001
+  santrauka: 'Lietuvos kariuomenė buvo laikoma Karūnos armijos pagalbininke ir sąjungininke, o ne pavaldžia provincija.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Pirmoji iš šių dviejų kariuomenių yra Karūnos armija ir priklauso Lenkijos karalys-
     i atl tei. Antroji priklauso Lietuvos Didžiajai Kunigaikštystei, pirmosios pagalbininkei ir sq-
-    jungininkei, o ne pavaldžiai provincijai, kaip kad kitos karalystę sudarančios provincijos
+    jungininkei, o ne pavaldžiai provincijai, kaip kad kitos karalystę sudarančios provincijos.
+    Karūnos armija turi 36 000 vyrų, Lietuvos - 12 000; mūsų laikais dar taip nebuvo, kad
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-    - t-003
+    - t-004

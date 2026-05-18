@@ -18,7 +18,7 @@ Lietuva tapo politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo lai
 
 ## Teiginiai
 - t-001
-  teiginys: 'Haličas minimas tarp žemių, buvusių Lietuvos politinėje įtakoje.'
+  teiginys: 'Haličas buvo tarp žemių, buvusių Lietuvos politinėje įtakoje.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -26,7 +26,7 @@ Lietuva tapo politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo lai
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Haličas minimas tarp žemių, buvusių Lietuvos politinėje įtakoje.'
+  santrauka: 'Haličas buvo tarp žemių, buvusių Lietuvos politinėje įtakoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuva tapo

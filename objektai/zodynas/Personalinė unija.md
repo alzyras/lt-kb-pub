@@ -44,29 +44,29 @@ Sąvoka apibūdina tokią politinę jungtį, kurioje valstybės išlieka atskiro
 Terminas vartojamas aptariant Lietuvos ir Lenkijos santykių formą nuo Melniko susitarimo interpretacijos iki Liublino unijos pobūdžio.
 
 ## Teiginiai
-- t-002
-  teiginys: Melniko susitarimu buvo siekta vienos jungtinės valstybės, tačiau praktiškai liko tik personalinė unija.
+- t-005
+  teiginys: 'Melniko susitarimu buvo norima įkurti vieną jungtinę valstybę su bendru seimu, valdovu, apsauga ir pinigais.'
   pagrindžia:
-    - c-002
+    - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: Lietuviai reikalavo savotiškos personalinės unijos, skaitantis su dviem sostais.
+- t-006
+  teiginys: 'Lietuviai reikalavo savotiškos personalinės unijos, kurioje renkant valdovą būtų skaitomasi su dviem sostais.'
   pagrindžia:
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-004
-  teiginys: Liublino aktu susidariusi valstybių jungtis nebuvo visiškas abiejų valstybių suliejimas į vieną.
+- t-007
+  teiginys: 'Liublino aktu susidariusi valstybių jungtis nebuvo visiškas abiejų valstybių suliejimas į vieną.'
   pagrindžia:
+    - c-002
     - c-004
-    - c-005
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: Primenamas vienos jungtinės valstybės sumanymas, su kuriuo lyginama personalinė unija.
+- c-001
+  santrauka: 'Melniko susitarimu buvo norima įkurti vieną jungtinę valstybę su bendru seimu, valdovu, apsauga ir pinigais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Šiuo susita-
@@ -80,24 +80,9 @@ Terminas vartojamas aptariant Lietuvos ir Lenkijos santykių formą nuo Melniko 
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: Lietuvių pozicija aiškinama kaip savotiškos personalinės unijos reikalavimas.
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Savotiškos personalinės unijos reikalavo lie-
-    tuviai. Būtent jie reikalavo, kad kartu renkant valdovą būtų
-    skaitomasi su dviem sostais, o lenkai reikalavo, kad būtų skai-
-    tomasi tik su vienu dviejų jungtinių valstybių sostu.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: Aptariama riba tarp personalinės ir realinės unijos.
+    - t-005
+- c-002
+  santrauka: 'Liublino aktu susidariusi valstybių jungtis nebuvo visiškas abiejų valstybių suliejimas į vieną.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Abidvi
@@ -110,9 +95,24 @@ Terminas vartojamas aptariant Lietuvos ir Lenkijos santykių formą nuo Melniko 
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
-- c-005
-  santrauka: Liublino aktas apibūdinamas kaip nesuliejęs abiejų valstybių į vieną.
+    - t-007
+- c-003
+  santrauka: 'Lietuviai reikalavo savotiškos personalinės unijos, kurioje renkant valdovą būtų skaitomasi su dviem sostais.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Savotiškos personalinės unijos reikalavo lie-
+    tuviai. Būtent jie reikalavo, kad kartu renkant valdovą būtų
+    skaitomasi su dviem sostais, o lenkai reikalavo, kad būtų skai-
+    tomasi tik su vienu dviejų jungtinių valstybių sostu.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-006
+- c-004
+  santrauka: 'Liublino aktu susidariusi valstybių jungtis nebuvo visiškas abiejų valstybių suliejimas į vieną.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Apskritai, Liublino aktu abi valstybės nebuvo sulietos į
@@ -124,7 +124,7 @@ Terminas vartojamas aptariant Lietuvos ir Lenkijos santykių formą nuo Melniko 
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-007
 
 ## Šaltiniai ir įrodymai
 

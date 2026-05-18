@@ -20,21 +20,27 @@ Prancūziškoji partija pagaliau apie karaliaus pašalinimą jau nebegalvojo, ne
 
 ## Teiginiai
 - t-001
-  teiginys: 'Prancūziškoji partija pagaliau apie karaliaus pašalinimą jau nebegalvojo, nes mirė jos kandidatas (1672 m.); ji dabar tik galvojo, kaip sunaikinti bajorų partiją, kuri keletą prancūziškosios partijos žmonių, kaltindama išdavimu, buvo patraukusi į seimo teismą.'
+  teiginys: '1672 m. mirus jos kandidatui, Prancūziškoji partija nebesiekė pašalinti karaliaus ir norėjo sunaikinti bajorų partiją.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: 'Todėl stipriausia atrodė Prancūzų partija.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-003
-  teiginys: 'Prancūziškoji partija tačiau atskirai paskelbė išrinktu princą Kontį.'
+  teiginys: 'Prancūziškoji partija atskirai paskelbė išrinktu princą Kontį.'
   pagrindžia:
     - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Prancūziškoji partija pagaliau apie karaliaus pašalinimą jau nebegalvojo, nes mirė jos kandidatas (1672 m.); ji dabar tik galvojo, kaip sunaikinti bajorų partiją, kuri keletą prancūziškosios partijos žmonių, kaltindama išdavimu, buvo patraukusi į seimo teismą.'
+  santrauka: '1672 m. mirus jos kandidatui, Prancūziškoji partija nebesiekė pašalinti karaliaus ir norėjo sunaikinti bajorų partiją.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Prancūziškoji partija pa-
@@ -43,11 +49,11 @@ Prancūziškoji partija pagaliau apie karaliaus pašalinimą jau nebegalvojo, ne
     jorų partiją, kuri keletą prancūziškosios partijos žmonių, kaltin-
     dama išdavimu, buvo patraukusi į seimo teismą ir pasmerkusi
     ištremti.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
@@ -56,24 +62,24 @@ Prancūziškoji partija pagaliau apie karaliaus pašalinimą jau nebegalvojo, ne
   citata_originali: |
     Todėl stipriausia
     atrodė Prancūzų partija.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Prancūziškoji partija tačiau atskirai paskelbė išrinktu princą Kontį.'
+  santrauka: 'Prancūziškoji partija atskirai paskelbė išrinktu princą Kontį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Prancūziškoji par-
     tija tačiau atskirai paskelbė išrinktu princą Kontį.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
 

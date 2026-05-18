@@ -30,23 +30,25 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Pirmasis naujokų šaukimas į nepriklausomosios Lietuvos kariuomenę buvo paskelbtas tik 1919 m. kovo mėn.'
+  teiginys: 'Pirmasis naujokų šaukimas į nepriklausomos Lietuvos kariuomenę buvo paskelbtas 1919 m. kovo 5 d.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Pirmasis naujokų šaukimas į nepriklausomosios Lietuvos kariuomenę buvo paskelbtas tik 1919 m. kovo mėn.'
+  santrauka: 'Pirmasis naujokų šaukimas į nepriklausomos Lietuvos kariuomenę buvo paskelbtas 1919 m. kovo 5 d.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pirmasis naujokų šaukimas į nepriklausomosios
     Lietuvos kariuomenę buvo paskelbtas tik 1919 m. kovo mėn.
     5 d. Visos pirmosios kariuomenės dalys buvo savanorių.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

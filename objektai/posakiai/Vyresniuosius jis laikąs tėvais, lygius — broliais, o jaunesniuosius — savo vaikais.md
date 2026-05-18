@@ -33,7 +33,7 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Formuluotė šiame pasakojime pateikiama kaip Gedimino hierarchinės pagarbos formulė.'
+  teiginys: 'Gediminas laiške aiškino norą būti paklusniu popiežiaus sūnumi ir teigė vyresniuosius laikąs tėvais, lygius broliais, o jaunesniuosius savo vaikais.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -41,7 +41,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Gedimino hierarchinės pagarbos formulė
+  santrauka: 'Gediminas laiške aiškino norą būti paklusniu popiežiaus sūnumi ir teigė vyresniuosius laikąs tėvais, lygius broliais, o jaunesniuosius savo vaikais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Laiške jis pareiškęs norą būti paklusniu po-

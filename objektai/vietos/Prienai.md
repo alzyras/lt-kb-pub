@@ -20,13 +20,15 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
 
 ## Teiginiai
 - t-001
-  teiginys: 'Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pralotą Karpavičių, tikėdamasi, kad jis bus jai palankus.'
+  teiginys: 'Prienų kleboną pralotą Karpavičių Prūsijos valdžia pasirinko pirmuoju Vygrių vyskupu.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pralotą Karpavičių, tikėdamasi, kad jis bus jai palankus.'
+  santrauka: 'Prienų kleboną pralotą Karpavičių Prūsijos valdžia pasirinko pirmuoju Vygrių vyskupu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Norėdama atskirti
@@ -36,15 +38,14 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
     muoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų
     kleboną pralotą Karpavičių, tikėdamasi, kad jis bus jai pa-
     lankus.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Seinai]]
 - [[objektai/vietos/Vigrai]]

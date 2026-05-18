@@ -23,13 +23,13 @@ Pagrindinė forma: `lažas`.
 Vartojamos formos: `lažu`.
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: '`Lažas` čia reiškia priverstinį darbą ponui ar dvarui.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: '`Lažas` siejamas su baudžiavos įvedimu ir laikomas lenkišku žodžiu.'
   pagrindžia:
     - c-002
@@ -38,7 +38,7 @@ Vartojamos formos: `lažu`.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Lažas` čia reiškia priverstinį darbą ponui ar dvarui
+  santrauka: '`Lažas` čia reiškia priverstinį darbą ponui ar dvarui.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Valdymierai ir vyresnieji, kurie iki šiolei mezliava
@@ -52,9 +52,9 @@ Vartojamos formos: `lažu`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: `Lažas` siejamas su baudžiavos įvedimu ir laikomas lenkišku žodžiu
+  santrauka: '`Lažas` siejamas su baudžiavos įvedimu ir laikomas lenkišku žodžiu.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Kas Lietuvoj lenkiškai nekalbėjo, tas neb žmogum bebuvo, nes vergu to, kurs lenkiškai
@@ -69,7 +69,7 @@ Vartojamos formos: `lažu`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004
 
 ## Pastabos
 

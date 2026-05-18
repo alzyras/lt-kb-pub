@@ -67,19 +67,19 @@ Pagrindinė forma: `miera`.
 Vartojamos formos: `saikas`, `versta`, `nykštis`, `colis`, `pirštas`, `plaštaka`, `gniaužta`, `sprindis`, `uolektis`, `žingsnis`, `kurpė`, `mastas`, `sieksnis`, `šniūrų`, `margas`, `valakas`, `žiupsnis`, `rieškutės`, `gniūžtis`, `našta`, `klėbys`, `ašis`, `sauja`, `grįžtis`, `kepurė`, `rakandą`, `druskinė`, `dvolikis`, `sėtuvė`, `pūras`, `bačka`, `vežimas`, `lašas`, `tauragė`, `kaušas`, `krūžas`, `kipis`, `milžtuvė`, `legerė`, `vogonas`, `verpelė`, `bosas`, `grūdas`, `svaras`, `stukas`, `pundas`, `birkova`.
 
 ## Teiginiai
-- t-001
+- t-004
   teiginys: '`Miera / saikas` šiame tekste reiškia senųjų matų sistemą.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-005
   teiginys: 'Sistema apima ilgio, storio, skysčių ir svorio matavimą.'
   pagrindžia:
     - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-003
+- t-006
   teiginys: '`Versta` tekste pateikiama kaip ilgio vienetas, susietas su sieksniais ir Lietuvos mylia.'
   pagrindžia:
     - c-001
@@ -88,7 +88,7 @@ Vartojamos formos: `saikas`, `versta`, `nykštis`, `colis`, `pirštas`, `plašta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Miera / saikas` šiame tekste reiškia senųjų matų sistemą
+  santrauka: '`Miera / saikas` šiame tekste reiškia senųjų matų sistemą.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Senovėj miera^1132 , arba saikas, ilgumo ir platumo toksai buvo: nykštis, arba colis, pirštas, plaštaka,
@@ -122,10 +122,10 @@ Vartojamos formos: `saikas`, `versta`, `nykštis`, `colis`, `pirštas`, `plašta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-003
+    - t-004
+    - t-006
 - c-002
-  santrauka: Sistema apima ilgio, storio, skysčių ir svorio matavimą
+  santrauka: 'Sistema apima ilgio, storio, skysčių ir svorio matavimą.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Miera, ar saikas, storumo buvo: žiupsnis, rieškutės, gniūžtis^1137 , našta, klėbys, ašis^1138 , sauja, grįžtis,
@@ -138,7 +138,7 @@ Vartojamos formos: `saikas`, `versta`, `nykštis`, `colis`, `pirštas`, `plašta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-005
 
 ## Pastabos
 

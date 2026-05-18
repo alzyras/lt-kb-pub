@@ -33,17 +33,21 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Ordinas nesiskubino į Žemaičius, bet pirmučiausia puolė Lenkiją (1409 m.).'
+  teiginys: '1409 m. Ordinas pirmiausia puolė Lenkiją, o ne skubėjo į Žemaičius.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Jie bandė patraukti į savo pusę Vengrų karalių, imperatoriaus Vaclovo brolį Zigmantą, bet tas, norėdamas išardyti abiejų pusbrolių vienybę, pasiūlė atvykusiam pas jį Vytautui karūnuotis Lietuvos karalium. Tada ne metas buvo pyktis su Lenkija dėl tuščio.'
+  teiginys: 'Zigmantas siūlė Vytautui karūnuotis Lietuvos karaliumi, bet Vytautas šį pasiūlymą atmetė.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Ordinas nesiskubino į Žemaičius, bet pirmučiausia puolė Lenkiją (1409 m.).'
+  santrauka: '1409 m. Ordinas pirmiausia puolė Lenkiją, o ne skubėjo į Žemaičius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ordinas nesiskubino į Žemaičius, bet pirmučiausia puolė
@@ -54,15 +58,15 @@ Nenurodyta
     maičius ir visą kairiąją Panemunę iki Gardino. Jogaila su Vytau-
     tu apkaltino Vaclovą šališkumu ir, pratęsę paliaubas su ordinu
     iki 1410 m. šv. Jono (birželio 24 d.), ėmė ruoštis dideliam žygiui.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Jie bandė patraukti į savo pusę Vengrų karalių, imperatoriaus Vaclovo brolį Zigmantą, bet tas, norėdamas išardyti abiejų pusbrolių vienybę, pasiūlė atvykusiam pas jį Vytautui karūnuotis Lietuvos karalium. Tada ne metas buvo pyktis su Lenkija dėl tuščio.'
+  santrauka: 'Zigmantas siūlė Vytautui karūnuotis Lietuvos karaliumi, bet Vytautas šį pasiūlymą atmetė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jie bandė patraukti į savo pusę Vengrų karalių, imperatoriaus
@@ -75,11 +79,11 @@ Nenurodyta
     Užtat Vytautui vėliau pasisekė padaryti paliaubų sutartį su
     livoniške ordino šaka, ir ji nedalyvavo netrukus įvykusiame di-
     džiame Tanenbergo mūšyje.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

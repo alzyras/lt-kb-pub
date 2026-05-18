@@ -43,14 +43,14 @@ Formulė nusako Vytauto ir Tochtamyšo sandėrį: Tochtamyšą grąžinti į val
 
 ## Teiginiai
 - t-001
-  teiginys: 'Formulė nusako sandėrį atkurti Tochtamyšo valdžią ir pačiam Vytautui sėsti Maskvos soste.'
+  teiginys: 'Vytautas priėmė Tochtamyšą, tikėdamasis jį panaudoti totorių galybei sulaužyti ir atsisėsti Maskvos soste.'
   pagrindžia:
     - c-001
     - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Rusų metraščių variantuose tas pats planas išplečiamas iki visos Rusios valdymo.'
+  teiginys: 'Rusų kronikos teigė, kad Vytautas su Tochtamyšu sutarė siekti Tochtamyšo valdžios Ordoje ir Vytauto valdžios Rusioje.'
   pagrindžia:
     - c-002
     - c-003
@@ -59,7 +59,7 @@ Formulė nusako Vytauto ir Tochtamyšo sandėrį: Tochtamyšą grąžinti į val
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Pagrindinė lietuviško pasakojimo formuluotė susieja Tochtamyšo atkūrimą su Maskvos sostu.
+  santrauka: 'Vytautas priėmė Tochtamyšą, tikėdamasis jį panaudoti totorių galybei sulaužyti ir atsisėsti Maskvos soste.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     nuoširdžiai priėmė atbėgusį pas save Tochtamyšą, tikėdamas jį
@@ -76,7 +76,7 @@ Formulė nusako Vytauto ir Tochtamyšo sandėrį: Tochtamyšą grąžinti į val
   pagrindžia:
     - t-001
 - c-002
-  santrauka: Metraščiai tą pačią formulę išskleidžia iki visos Rusios valdžios plano.
+  santrauka: 'Rusų kronikos teigė, kad Vytautas su Tochtamyšu sutarė siekti Tochtamyšo valdžios Ordoje ir Vytauto valdžios Rusioje.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     (^1) ) a) Pobiįem cara Tymirkutluja, posadym cara Tochtamyša, a on nas
@@ -93,7 +93,7 @@ Formulė nusako Vytauto ir Tochtamyšo sandėrį: Tochtamyšą grąžinti į val
   pagrindžia:
     - t-002
 - c-003
-  santrauka: Kitas šaltinio variantas tą patį sandėrį suformuluoja per saaro Kotlogo vietą ir visos Rusios valdžią.
+  santrauka: 'Vytautas priėmė Tochtamyšą, tikėdamasis jį panaudoti totorių galybei sulaužyti ir atsisėsti Maskvos soste.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Rusų kronikos aiškina, kad

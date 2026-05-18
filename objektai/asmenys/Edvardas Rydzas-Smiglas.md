@@ -18,7 +18,7 @@ Hitlerio 50-mečio šventime, gegužę – maršalo Edvardo Rydzo-Smiglo (Edward
 
 ## Teiginiai
 - t-001
-  teiginys: 'Edvardo Rydzo-Smiglo kvietimu generolas Stasys Raštikis oficialiai lankėsi Lenkijoje.'
+  teiginys: 'Edvardas Rydzas-Smiglas pakvietė generolą Stasį Raštikį oficialiai apsilankyti Lenkijoje.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -26,7 +26,7 @@ Hitlerio 50-mečio šventime, gegužę – maršalo Edvardo Rydzo-Smiglo (Edward
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Edvardo Rydzo-Smiglo kvietimu generolas Stasys Raštikis oficialiai lankėsi Lenkijoje.'
+  santrauka: 'Edvardas Rydzas-Smiglas pakvietė generolą Stasį Raštikį oficialiai apsilankyti Lenkijoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kariuomenės vadas gen. S. Raštikis balandį dalyvavo A. Hitlerio

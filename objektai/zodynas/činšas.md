@@ -34,48 +34,29 @@ tags:
 Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, tų dvarų žemę išdalino valstiečiams, tereikalaudama mokėti palyginti labai mažą činšą (bajoriškųjų valstiečių būklė buvo daug sunkesnė).
 
 ## Teiginiai
-- t-001
-  teiginys: 'Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, tų dvarų žemę išdalino valstiečiams, tereikalaudama mokėti palyginti labai mažą činšą (bajoriškųjų valstiečių būklė buvo daug sunkesnė).'
+- t-005
+  teiginys: 'Činšą mokantys valstiečiai minimi kaip grupė, kurios abi pusės pasižadėjo nepriiminėti iš kito krašto.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: '`činšas` vartojamas kaip duoklė, kurios mokėtojai laikomi atskira socialine grupe.'
-  pagrindžia:
-    - c-002
-    - c-005
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: '`činšininkas` čia vartojamas kaip `duoklininkas` arba duoklę mokantis valstietis.'
-  pagrindžia:
     - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-004
-  teiginys: 'Pateikiamos ir vokiškos bei hibridinės formos `eygene` ir `czinshaftige`, susiejamos su baudžiauninkais ir duoklių mokėtojais.'
+- t-006
+  teiginys: '`činšininkas` čia vartojamas kaip `duoklininkas` arba duoklę mokantis valstietis.'
   pagrindžia:
     - c-003
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-007
+  teiginys: 'Vytautas ordinui aiškino, kad „czinshaftige“ buvo duokles mokėję asmenys.'
+  pagrindžia:
+    - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, tų dvarų žemę išdalino valstiečiams, tereikalaudama mokėti palyginti labai mažą činšą (bajoriškųjų valstiečių būklė buvo daug sunkesnė).'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės
-    sluoksnį, tų dvarų žemę išdalino valstiečiams, tereikalaudama
-    mokėti palyginti labai mažą činšą (bajoriškųjų valstiečių būklė
-    buvo daug sunkesnė).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: `činšas` vartojamas kaip duoklė, kurios mokėtojai laikomi atskira socialine grupe
+  santrauka: 'Činšą mokantys valstiečiai minimi kaip grupė, kurios abi pusės pasižadėjo nepriiminėti iš kito krašto.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Ordino ir Vytauto santykiams buvo reikšminga,
@@ -87,9 +68,9 @@ Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, t�
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: Pateikiamos ir vokiškos bei hibridinės formos `eygene` ir `czinshaftige`, susiejamos su baudžiauninkais ir duoklių mokėtojais
+    - t-005
+- c-002
+  santrauka: 'Vytautas ordinui aiškino, kad „czinshaftige“ buvo duokles mokėję asmenys.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Plačiai išdėstydamas ordinui luominius santykius Žemai­
@@ -103,9 +84,9 @@ Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, t�
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
-- c-004
-  santrauka: `činšininkas` čia vartojamas kaip `duoklininkas` arba duoklę mokantis valstietis
+    - t-007
+- c-003
+  santrauka: '`činšininkas` čia vartojamas kaip `duoklininkas` arba duoklę mokantis valstietis.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Ilgas ir įkyrus aiškinimasis su Vy­
@@ -117,9 +98,9 @@ Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, t�
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
-- c-005
-  santrauka: `činšas` vartojamas kaip duoklė, kurios mokėtojai laikomi atskira socialine grupe
+    - t-006
+- c-004
+  santrauka: 'Činšą mokantys valstiečiai minimi kaip grupė, kurios abi pusės pasižadėjo nepriiminėti iš kito krašto.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Akivaizdoje
@@ -132,7 +113,7 @@ Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, t�
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-005
 
 ## Ryšiai
 ### Laikotarpiai

@@ -16,35 +16,35 @@ tags: []
 # kontrevoliucija
 
 ## Teiginiai
-
-- t-001
-  teiginys: Jogailos veiksmai šiame fragmente apibūdinami kaip kontrevoliucija.
+- t-003
+  teiginys: 'Vokiečių Rygos pirkliai turėjo daug įtakos Jogailos kontrevoliucijos pasisekimui.'
   pagrindžia:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: Tekstas teigia, kad šios kontrevoliucijos sėkmei įtakos turėjo vokiečių Rygos pirkliai.
+- t-004
+  teiginys: 'Vokiečių Rygos pirkliai turėjo daug įtakos Jogailos kontrevoliucijos pasisekimui.'
   pagrindžia:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  santrauka: Jogailos veiksmai šiame fragmente apibūdinami kaip kontrevoliucija.
+  santrauka: 'Vokiečių Rygos pirkliai turėjo daug įtakos Jogailos kontrevoliucijos pasisekimui.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Paminėtina tai, kad Jogailos kontrevoliucijos pasi­
     sekimui daug turėjo įtakos vokiečių Rygos pirkliai, kurie tada
     varė gyvą ir didelę prekybą su Vilniaus miestu.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
 
 ## Ryšiai
 ### Laikotarpiai

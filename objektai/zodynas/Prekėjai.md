@@ -21,13 +21,13 @@ Pagrindinė forma: `prekėjai`.
 Vartojamos formos: `prekėjas`, `prekiojo`.
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: '`Prekėjai` šiame tekste reiškia pirklius ar prekybininkus.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Terminas vartojamas tiek apie senovinius, tiek apie vėlyvesnius prekybos tarpininkus.'
   pagrindžia:
     - c-001
@@ -36,7 +36,7 @@ Vartojamos formos: `prekėjas`, `prekiojo`.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Prekėjai` šiame tekste reiškia pirklius ar prekybininkus
+  santrauka: '`Prekėjai` šiame tekste reiškia pirklius ar prekybininkus.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Herodotas, grekonų raštininkas, gyvenąs
@@ -50,8 +50,9 @@ Vartojamos formos: `prekėjas`, `prekiojo`.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
+
 ## Pastabos
 
 - Tekste greta eina ir veiksmažodinis vartojimas `prekiojo`, bet pati vardinė reikšmė aiški.

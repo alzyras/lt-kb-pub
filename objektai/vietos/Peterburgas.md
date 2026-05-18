@@ -33,7 +33,7 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: '1797 m. sausio 26 d. Rusija, Prūsija ir Austrija pasirašė Peterburgo konvenciją dėl trečiojo LLV padalijimo, valstybingumo likučių ir sienų.'
+  teiginys: '1797 m. sausio 26 d. Peterburgo konvencija patvirtino trečiąjį LLV padalijimą, panaikino valstybingumo likučius ir nubrėžė sienas.'
   pagrindžia:
     - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -45,7 +45,7 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-005
-  teiginys: 'Septintąjį-aštuntąjį dešimtmetį Lietuvą kirto geležinkelis Peterburgas-Varšuva.'
+  teiginys: 'Septintąjį–aštuntąjį dešimtmetį Lietuvą kirto geležinkelis Peterburgas–Varšuva.'
   pagrindžia:
     - c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -99,7 +99,7 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   pagrindžia:
     - t-002
 - c-003
-  santrauka: '1797 m. sausio 26 d. Rusija, Prūsija ir Austrija pasirašė Peterburgo konvenciją dėl trečiojo LLV padalijimo, valstybingumo likučių ir sienų.'
+  santrauka: '1797 m. sausio 26 d. Peterburgo konvencija patvirtino trečiąjį LLV padalijimą, panaikino valstybingumo likučius ir nubrėžė sienas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1797 m. sausio 26 d. Rusija, Prūsija ir Austrija pasirašė naują Peter-
@@ -127,7 +127,7 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   pagrindžia:
     - t-004
 - c-005
-  santrauka: 'Septintąjį-aštuntąjį dešimtmetį Lietuvą kirto geležinkelis Peterburgas-Varšuva.'
+  santrauka: 'Septintąjį–aštuntąjį dešimtmetį Lietuvą kirto geležinkelis Peterburgas–Varšuva.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis

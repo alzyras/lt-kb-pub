@@ -44,13 +44,13 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Halka buvo didelė kanuolė.'
+- t-003
+  teiginys: 'Halka buvo didelė patranka, kurią vos patraukdavo 20 porų arklių.'
   pagrindžia:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Halką vos patraukdavo 20 porų arklių.'
   pagrindžia:
     - c-001
@@ -59,7 +59,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Halka apibūdinama kaip labai sunki didelė kanuolė.
+  santrauka: 'Halka buvo didelė patranka, kurią vos patraukdavo 20 porų arklių.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kariuomenė buvo labai gerai ginkluota;
@@ -69,12 +69,12 @@ Nenurodyta
     kirto ir klojo kelią.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
 
 ## Ryšiai
 ### Laikotarpiai

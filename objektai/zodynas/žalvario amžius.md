@@ -19,24 +19,26 @@ Tik apie vidurį antrojo tūkstantmečio prieš Kristų į Lietuvą patenka paty
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tik apie vidurį antrojo tūkstantmečio prieš Kristų į Lietuvą patenka patys pirmieji žalvario dirbiniai.'
+  teiginys: 'Žalvario amžius Lietuvoje prasidėjo apie antrojo tūkstantmečio pr. Kr. vidurį, kai pasirodė pirmieji žalvario dirbiniai.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tik apie vidurį antrojo tūkstantmečio prieš Kristų į Lietuvą patenka patys pirmieji žalvario dirbiniai.'
+  santrauka: 'Žalvario amžius Lietuvoje prasidėjo apie antrojo tūkstantmečio pr. Kr. vidurį, kai pasirodė pirmieji žalvario dirbiniai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tik apie vidurį antrojo tūkstantmečio prieš Kristų į Lietuvą
     patenka patys pirmieji žalvario dirbiniai. Šiai žalvario am-
     žiaus (maždaug 1500—500 m. pr. Kr.) kultūrai yra charak-
     teringi įvairūs žalvariniai kirviai, ietys ir vienas kitas papuošalas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

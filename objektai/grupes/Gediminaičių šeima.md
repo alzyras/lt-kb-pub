@@ -21,28 +21,32 @@ Be to, tas susitarimas nepatiko nė valdančiajai Gediminaičių šeimai; Aleksa
 
 ## Teiginiai
 - t-001
-  teiginys: 'Be to, tas susitarimas nepatiko nė valdančiajai Gediminaičių šeimai; Aleksandro brolis, Čekų karalius Vladislovas, savo ir jaunesniojo brolio Zigmanto vardu net pareiškė protestą dėl to susitarimo.'
+  teiginys: 'Gediminaičių šeimai nepatiko susitarimas, dėl kurio Vladislovas savo ir Zigmanto vardu pareiškė protestą.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: 'Gedimino šeimos šaka pasibaigė.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Be to, tas susitarimas nepatiko nė valdančiajai Gediminaičių šeimai; Aleksandro brolis, Čekų karalius Vladislovas, savo ir jaunesniojo brolio Zigmanto vardu net pareiškė protestą dėl to susitarimo.'
+  santrauka: 'Gediminaičių šeimai nepatiko susitarimas, dėl kurio Vladislovas savo ir Zigmanto vardu pareiškė protestą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Be to, tas susitarimas nepatiko nė valdančiajai Gediminaičių
     šeimai; Aleksandro brolis, Čekų karalius Vladislovas, savo ir
     jaunesniojo brolio Zigmanto vardu net pareiškė protestą dėl
     to susitarimo.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
@@ -52,10 +56,10 @@ Be to, tas susitarimas nepatiko nė valdančiajai Gediminaičių šeimai; Aleksa
     Gedimino šeimos šaka pasibaigė. Tiesa, dar buvo gyvų daug
     Gedimino giminės kunigaikščių, bet jie jau seniai buvo nutolę
     nuo sosto, nusigyvenę, ir todėl nebetiko kandidatais į valdovus.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

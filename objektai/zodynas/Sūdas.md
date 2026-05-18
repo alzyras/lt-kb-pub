@@ -24,13 +24,13 @@ Pagrindinė forma: `sūdas`.
 Vartojamos formos: `sūdąs`, `sūdą`.
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: '`Sūdas` šiame tekste reiškia teisminį sprendimą ar teismo vietą.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Žodis vartojamas skolų, kaltės ir ginčo sprendimo kontekste.'
   pagrindžia:
     - c-001
@@ -40,7 +40,7 @@ Vartojamos formos: `sūdąs`, `sūdą`.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Sūdas` šiame tekste reiškia teisminį sprendimą ar teismo vietą
+  santrauka: '`Sūdas` šiame tekste reiškia teisminį sprendimą ar teismo vietą.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Tapo dar vergais vėl per sūdą tie, kurie negalėjo ant rako^1052 skolos atduoti savo
@@ -49,14 +49,14 @@ Vartojamos formos: `sūdąs`, `sūdą`.
     pirma kad buvo.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
 - c-002
-  santrauka: Žodis vartojamas skolų, kaltės ir ginčo sprendimo kontekste
+  santrauka: 'Žodis vartojamas skolų, kaltės ir ginčo sprendimo kontekste.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Jei katrai Šaliai toksai sūdąs
@@ -64,11 +64,11 @@ Vartojamos formos: `sūdąs`, `sūdą`.
     nusprendė, taip ir paliko.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004
 
 ## Pastabos
 

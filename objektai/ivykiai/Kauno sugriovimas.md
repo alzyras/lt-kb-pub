@@ -36,6 +36,8 @@ Nenurodyta
   teiginys: 'Kauno sugriovimas 1362 m. buvo svarbus vokiečių ordino laimėjimas, kurį jis taip pat plačiai išgarsino Europoje, kaip ir Strėvos mūšį.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -52,10 +54,10 @@ Nenurodyta
     jėgų. Pilies įgula buvo negausinga ir nepasiruošusi ilgam apgu-
     limui. Jai trūko net maisto. Bet įgulos vadas, Kęstučio sūnus
     Vaidotas, atsilaikė net keletą savaičių.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

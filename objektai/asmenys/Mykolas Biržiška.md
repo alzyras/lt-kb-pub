@@ -33,7 +33,7 @@ Biržiška iš jos pasitraukė.
 
 ## Teiginiai
 - t-001
-  teiginys: '1917 m. Vilniaus konferencijos organizaciniame komitete buvo Mykolas Biržiška, Petras Klimas ir A.'
+  teiginys: 'Mykolas Biržiška 1917 m. priklausė Vilniaus konferencijos organizaciniam komitetui.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -41,7 +41,7 @@ Biržiška iš jos pasitraukė.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1917 m. Vilniaus konferencijos organizaciniame komitete buvo Mykolas Biržiška, Petras Klimas ir A.'
+  santrauka: 'Mykolas Biržiška 1917 m. priklausė Vilniaus konferencijos organizaciniam komitetui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vokiečiams modernizuojant anek-

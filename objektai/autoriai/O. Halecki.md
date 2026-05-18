@@ -54,69 +54,40 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Halecki, Unia lubelska (1916);.'
+  teiginys: 'O. Halecki 1919–1920 m. Krokuvoje išleido dviejų tomų veikalą „Dzieje Unii Jagiellońskiej“.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'O. Halecki parašė Dzieje Unii Jagiellońskiej.'
-  pagrindžia:
-    - c-002
-    - c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: 'O. Haleckis paliko plačius pėdsakus Lietuvos istorijos srityje ir ypač daug dėmesio skyrė unijos klausimui.'
-  pagrindžia:
     - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'O. Halecki gausiais raštais paliko pėdsaką Lietuvos istorijos tyrimuose ir emigracijoje skyrė dėmesio Lietuvai.'
+  pagrindžia:
+    - c-002
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-003
+  teiginys: 'O. Halecki paskelbė darbus apie Švitrigailą, Lietuvos Didžiosios Kunigaikštystės sudėtį, Krėvos sutartį ir Lenkijos istoriją.'
+  pagrindžia:
+    - c-003
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
 - t-004
-  teiginys: 'O. Halecki parašė darbus Ostatnie lata Swidrigiełły i sprawa wołyńska za Kazimierza Jagiellończyka, Litwa, Ruś i Żmudź jako części składowe Wielkiego Księstwa Litewskiego, Przyczynki genealogiczne do dziejów układu krewskiego, La Pologne de 963 à 1914 ir Histoire de Pologne.'
+  teiginys: 'O. Halecki parašė skyrių „From the Union with Hungary to the Union with Lithuania: Jadwiga, 1374–99“.'
   pagrindžia:
     - c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-005
-  teiginys: 'O. Haleckio darbas šiame tome cituojamas santrumpa HaU.'
+  teiginys: 'O. Halecki 1930 m. paskelbė darbą „Witold“.'
   pagrindžia:
     - c-006
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-006
-  teiginys: 'O. Halecki parašė skyrių From, the Union with Hungary to the Union with Lithuania : Jadwiga, 1374-99.'
-  pagrindžia:
-    - c-007
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-007
-  teiginys: 'O. Halecki parašė Witold.'
-  pagrindžia:
-    - c-008
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-008
-  teiginys: 'O. Halecki parašė From Florence to Brest, kuriame išsamiai įvertintas Vytauto vaidmuo.'
-  pagrindžia:
-    - c-010
-    - c-009
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Halecki, Unia lubelska (1916);.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    O. Halecki,
-    Unia lubelska (1916);
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: Santrumpų sąrašas susieja O. Haleckį su Dzieje Unii Jagiellońskiej
+  santrauka: 'O. Halecki 1919–1920 m. Krokuvoje išleido dviejų tomų veikalą „Dzieje Unii Jagiellońskiej“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     HaU = Halecki, O. : Dzieje Unii Jagiellońskiej, t. 1-2, Krokuva
@@ -127,22 +98,9 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: Pakartotinė bibliografinė nuoroda sustiprina Dzieje unii jagiellońskiej priskyrimą O. Haleckiui
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Halecki, O. : _Dzieje unii jagiellońskiej_ , I-II, Kraków
-    1919, 1920.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-004
-  santrauka: O. Haleckis apibūdinamas kaip gausiai apie Lietuvą ir uniją rašęs istorikas
+    - t-001
+- c-002
+  santrauka: 'O. Halecki gausiais raštais paliko pėdsaką Lietuvos istorijos tyrimuose ir emigracijoje skyrė dėmesio Lietuvai.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Gana plačius pėdsakus Lietuvos istorijos srityje savo gausiais
@@ -155,9 +113,9 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
-- c-005
-  santrauka: Vienoje išnašoje išvardyti keli O. Haleckio darbai apie Lietuvą, uniją ir Lenkijos istoriją
+    - t-002
+- c-003
+  santrauka: 'O. Halecki paskelbė darbus apie Švitrigailą, Lietuvos Didžiosios Kunigaikštystės sudėtį, Krėvos sutartį ir Lenkijos istoriją.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     (^130) **J. Adamus :** **_Zastaw w prawie litewskiem XV i XVI wieku_** **, Pamięt­
@@ -177,22 +135,22 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
-- c-006
-  santrauka: Išnaša rodo, kad O. Haleckio darbas vartojamas santrumpa HaII
+    - t-003
+- c-004
+  santrauka: 'O. Halecki 1919–1920 m. Krokuvoje išleido dviejų tomų veikalą „Dzieje Unii Jagiellońskiej“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    (^3) **O. Halecki : HaU, I, 95-97 p. — L. Kolankowski : KolLJ, I, 1930,
-    31 p.**
+    Halecki, O. : _Dzieje unii jagiellońskiej_ , I-II, Kraków
+    1919, 1920.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
-- c-007
-  santrauka: O. Halecki bibliografiškai susiejamas su Cambridge History of Poland skyriumi apie Jadvygą
+    - t-001
+- c-005
+  santrauka: 'O. Halecki parašė skyrių „From the Union with Hungary to the Union with Lithuania: Jadwiga, 1374–99“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     — (”) _From, the Union with Hungary to the Union with
@@ -204,9 +162,9 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-006
-- c-008
-  santrauka: Bibliografinė nuoroda susieja O. Haleckį su darbu Witold
+    - t-004
+- c-006
+  santrauka: 'O. Halecki 1930 m. paskelbė darbą „Witold“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Halecki,
@@ -217,35 +175,7 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-007
-- c-009
-  santrauka: Išnašoje O. Haleckiui priskiriamas darbas From Florence to Brest ir nurodomas jo ryšys su Vytauto vaidmens vertinimu
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    (^61) **O. Halecki :** **_From Florence to Brest_** **, Sacrum Poloniae Millennium,
-    V, 1958, 25-37 p. (išsamiai įvertintas Vytauto vaidmuo).**
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-008
-- c-010
-  santrauka: O. Halecki papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Len­
-    kai žinojo, kaip sako Haleckis, kad Kamienieco Padolija, atiduo­
-    ta iki Vytauto gyvos galvos, todėl ir taip kantriai laukta^2 ).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-008
-    - t-008
+    - t-005
 
 ## Ryšiai
 ### Laikotarpiai

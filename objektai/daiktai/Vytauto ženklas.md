@@ -35,38 +35,29 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Vytautas reikalavo, kad chanas savo piniguose muštų Vytauto ženklą.'
+- t-003
+  teiginys: 'Vienas Vytauto pinigas pagimdė legendą apie Vytauto ženklą, o bukasis trikampis galėjo reikšti Vilniaus inicialą.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-
-- t-002
-  teiginys: 'Vienas Vytauto pinigas čia siejamas su legenda apie Vytauto ženklą, o bukasis trikampis laikomas galimu Vilniaus inicialu.'
-  pagrindžia:
-    - c-003
     - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Vytautas reikalavo, kad chanas savo piniguose muštų Vytauto ženklą.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  santrauka: 'Vienas Vytauto pinigas pagimdė legendą apie Vytauto ženklą, o bukasis trikampis galėjo reikšti Vilniaus inicialą.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Esą Vytautas reikalavęs chaną
-    jam paklusti ir savo piniguose mušti Vytauto ženklą^33.
+    Šis pinigas ir pagimdė legendą apie
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-
+    - t-003
 - c-002
-  santrauka: Vytauto ženklo legenda susiejama su vienu pinigu ir galimu Vilniaus inicialu.
+  santrauka: 'Vienas Vytauto pinigas pagimdė legendą apie Vytauto ženklą, o bukasis trikampis galėjo reikšti Vilniaus inicialą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Šis pinigas ir pagimdė legendą apie
@@ -85,26 +76,13 @@ Nenurodyta
     ```
     Vytauto ženklą. Jei bukasis trikampis iš tikrųjų reiškė raidę
     V, tai galėjo būti Vilniaus inicialas
-  citata_rodoma: "Šis pinigas ir pagimdė legendą apie Vytauto ženklą. Jei bukasis trikampis iš tikrųjų reiškė raidę V, tai galėjo būti Vilniaus inicialas."
-  teiginio_tipas: interpretacija
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata pati vartoja sąlyginę aiškinimo formą."
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: Vytauto ženklas papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Šis pinigas ir pagimdė legendą apie
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-    - t-002
+    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai

@@ -25,7 +25,7 @@ Atkritus vilčiai, kad sovietai „gal neokupuos“, liko dar viena – „o gal
 
 ## Teiginiai
 - t-001
-  teiginys: 'Okupacijos akivaizdoje viltys, kad sovietai „gal neokupuos“ ar „o gal nesovietizuos“, buvo paneigtos.'
+  teiginys: 'Sovietų okupacijos akivaizdoje viltys, kad jie „gal neokupuos“ ar „o gal nesovietizuos“, žlugo.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -33,7 +33,7 @@ Atkritus vilčiai, kad sovietai „gal neokupuos“, liko dar viena – „o gal
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Okupacijos akivaizdoje viltys, kad sovietai „gal neokupuos“ ar „o gal nesovietizuos“, buvo paneigtos.'
+  santrauka: 'Sovietų okupacijos akivaizdoje viltys, kad jie „gal neokupuos“ ar „o gal nesovietizuos“, žlugo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Mažąsias Europos valstybes okupavus Vokietijai sunku buvo tikėtis,

@@ -18,13 +18,13 @@ Pagrindinė forma: `niukinys`.
 Papildomos aiškios formos neišskirtos.
 
 ## Teiginiai
-- t-001
+- t-003
   teiginys: '`Niukinys` čia reiškia maišatį arba susimaišiusią gyventojų masę.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-002
+- t-004
   teiginys: 'Terminas vartojamas kalbant apie tautų ir kalbų maišymąsi Uksinių pamariuose.'
   pagrindžia:
     - c-001
@@ -33,18 +33,18 @@ Papildomos aiškios formos neišskirtos.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: `Niukinys` čia reiškia maišatį arba susimaišiusią gyventojų masę
+  santrauka: '`Niukinys` čia reiškia maišatį arba susimaišiusią gyventojų masę.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Uksiniuose pamariuose rados svieto niukinys^86 , kalbąs ir sekąs įvairią dabą ir tikybą.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
 
 ## Pastabos
 

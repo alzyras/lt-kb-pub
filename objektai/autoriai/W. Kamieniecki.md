@@ -18,22 +18,24 @@ Kamieniecki, Geneza państwa lit.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kamieniecki, Geneza państwa lit.'
+  teiginys: 'W. Kamieniecki yra nurodytas kaip darbo „Geneza państwa lit.“ autorius.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kamieniecki, Geneza państwa lit.'
+  santrauka: 'W. Kamieniecki yra nurodytas kaip darbo „Geneza państwa lit.“ autorius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     _H. Lowmiański,_ Studja nad początkami społe-
     czeństwa i państwa lit., I, II (1931, 1932); _W. Kamieniecki,_ Geneza państwa
     lit. (Przegl. hist., 1915, XIX); _Er. Bujak,_ O stosunkach plemion lit. z. ger-
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

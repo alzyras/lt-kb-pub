@@ -57,7 +57,7 @@ Po pirmojo privatizacijos dešimtmečio masinis nedarbas skatino masinę Lietuvo
 - Praktika siejama su stambių įmonių bankrotais, darbo netekimu ir socialiniais emigracijos padariniais.
 
 ## Teiginiai
-- t-003
+- t-004
   teiginys: 'Nuo 1990 m. iš Lietuvos išvyko daugiau kaip pusė milijono gyventojų, daugiausia į JAV, Airiją, Jungtinę Karalystę, Ispaniją ir Norvegiją.'
   pagrindžia:
     - c-001
@@ -78,7 +78,7 @@ Po pirmojo privatizacijos dešimtmečio masinis nedarbas skatino masinę Lietuvo
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-004
 
 ## Šaltiniai ir įrodymai
 

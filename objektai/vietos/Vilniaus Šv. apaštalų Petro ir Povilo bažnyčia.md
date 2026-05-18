@@ -18,13 +18,13 @@ Vienas didingiausių ir puošniausių LDK baroko interjerų – Vilniaus Šv. Su
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vilniaus Šv. apaštalų Petro ir Povilo bažnyčios interjeras laikomas vienu didingiausių ir puošniausių LDK baroko interjerų.'
+  teiginys: 'Vilniaus Šv. apaštalų Petro ir Povilo bažnyčios XVII a. antros pusės interjeras buvo vienas didingiausių ir puošniausių LDK baroko interjerų.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Vilniaus Šv. apaštalų Petro ir Povilo bažnyčios interjeras laikomas vienu didingiausių ir puošniausių LDK baroko interjerų.'
+  teiginys: 'Vilniaus Šv. apaštalų Petro ir Povilo bažnyčios XVII a. antros pusės interjeras buvo vienas didingiausių ir puošniausių LDK baroko interjerų.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -32,7 +32,7 @@ Vienas didingiausių ir puošniausių LDK baroko interjerų – Vilniaus Šv. Su
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vilniaus Šv. apaštalų Petro ir Povilo bažnyčios interjeras laikomas vienu didingiausių ir puošniausių LDK baroko interjerų.'
+  santrauka: 'Vilniaus Šv. apaštalų Petro ir Povilo bažnyčios XVII a. antros pusės interjeras buvo vienas didingiausių ir puošniausių LDK baroko interjerų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tai reikštų, kad

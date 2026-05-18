@@ -27,7 +27,7 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Siekdami pateisinti gruodžio įvykius tautininkai ir krikščionys demokratai skelbė Lietuvą išgelbėję nuo komunistų perversmo (1924 m. gruodžio 1 d. komunistų pučas Estijoje rodė esant tokią galimybę).'
+  teiginys: 'Tautininkai ir krikščionys demokratai gruodžio įvykius teisino skelbdami, kad išgelbėjo Lietuvą nuo komunistų perversmo.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -39,7 +39,7 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-004
-  teiginys: 'Kandidatus į Seimą siūlė apskričių tarybos (Kaune – miesto taryba), bet kandidatų į Seimą negalėjo kelti visuomeninės organizacijos ir piliečių grupės, o tik tautininkų kontroliuojamos savivaldybės.'
+  teiginys: 'Kandidatus į Seimą galėjo kelti tik tautininkų kontroliuojamos savivaldybės, o ne visuomeninės organizacijos ar piliečių grupės.'
   pagrindžia:
     - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -61,7 +61,7 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Siekdami pateisinti gruodžio įvykius tautininkai ir krikščionys demokratai skelbė Lietuvą išgelbėję nuo komunistų perversmo (1924 m. gruodžio 1 d. komunistų pučas Estijoje rodė esant tokią galimybę).'
+  santrauka: 'Tautininkai ir krikščionys demokratai gruodžio įvykius teisino skelbdami, kad išgelbėjo Lietuvą nuo komunistų perversmo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Siekdami pateisinti gruodžio įvykius tautininkai ir krikščionys demo-
@@ -91,7 +91,7 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
   pagrindžia:
     - t-003
 - c-004
-  santrauka: 'Kandidatus į Seimą siūlė apskričių tarybos (Kaune – miesto taryba), bet kandidatų į Seimą negalėjo kelti visuomeninės organizacijos ir piliečių grupės, o tik tautininkų kontroliuojamos savivaldybės.'
+  santrauka: 'Kandidatus į Seimą galėjo kelti tik tautininkų kontroliuojamos savivaldybės, o ne visuomeninės organizacijos ar piliečių grupės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kandidatus į Seimą siūlė apskričių tarybos (Kaune – miesto taryba), bet

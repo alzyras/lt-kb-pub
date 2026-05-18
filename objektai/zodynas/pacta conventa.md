@@ -20,13 +20,15 @@ Jis turėdavo tik tiek valdžios, kiek bajorija jam duodavo jo išrinkimo metu s
 
 ## Teiginiai
 - t-001
-  teiginys: 'Jis turėdavo tik tiek valdžios, kiek bajorija jam duodavo jo išrinkimo metu sudaromąja sutartimi — pacta conventa.'
+  teiginys: 'Pacta conventa buvo karaliaus išrinkimo metu sudaroma sutartis, kuria bajorija apibrėždavo jo valdžią.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Jis turėdavo tik tiek valdžios, kiek bajorija jam duodavo jo išrinkimo metu sudaromąja sutartimi — pacta conventa.'
+  santrauka: 'Pacta conventa buvo karaliaus išrinkimo metu sudaroma sutartis, kuria bajorija apibrėždavo jo valdžią.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bajorija laikė save
@@ -34,10 +36,10 @@ Jis turėdavo tik tiek valdžios, kiek bajorija jam duodavo jo išrinkimo metu s
     karalium, o karalius buvo laikomas tik bajorijos pasikviestuoju
     valdovu. Jis turėdavo tik tiek valdžios, kiek bajorija jam duoda-
     vo jo išrinkimo metu sudaromąja sutartimi — pacta conventa.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

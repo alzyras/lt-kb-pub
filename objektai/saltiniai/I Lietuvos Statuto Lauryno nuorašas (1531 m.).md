@@ -40,33 +40,5 @@ tags: []
 - Minimas elementas: antraštinis lapas su Vyčiu.
 
 ## Teiginiai
-- t-005
-  teiginys: 'Lietuvos valstybės formavimosi branduoliu laikyta „Lietuvos žemė“ tarp Nemuno ir Neries.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-
 ## Bibliografiniai įrodymai
-- c-001
-  santrauka: 'Lietuvos valstybės formavimosi branduoliu laikyta „Lietuvos žemė“ tarp Nemuno ir Neries.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Ir tai dėsninga: Lietuvos valstybės formavimo-
-    si branduolys buvo „Lietuvos žemė“ (teritorija tarp Nemuno ir Neries),
-
-    L I E T U V O S  I S T O R I J A
-    14
-    Vytis iš I Lietuvos Statuto Lauryno nuorašo (1531 m.)
-    antraštinio lapo
-    tačiau jau Mindaugas jungė prie „Lietuvos žemės“ kitas lietuvių žemes,
-    taip pat plėtė savo įtaką į giminingų genčių teritorijas.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-005
-
 ## Reikšmingi paminėjimai

@@ -36,7 +36,7 @@ Liudijimo formulė atskiria nebeatmenamus Algirdo laikus nuo atmenamų Vytauto l
 - atmenu Didįjį Kunigaikštį Vytautą, Tavo dėdę
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Formulė pateikiama kaip valstiečio liudijimo pradžia, kuri Vytauto laikus išskiria kaip aiškiai atmenamą prievolių laiką.'
   pagrindžia:
     - c-001
@@ -45,7 +45,7 @@ Liudijimo formulė atskiria nebeatmenamus Algirdo laikus nuo atmenamų Vytauto l
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Liudijimo formulė sujungia atminties pareiškimą apie Vytautą su konkrečių duoklių išvardijimu.
+  santrauka: 'Formulė pateikiama kaip valstiečio liudijimo pradžia, kuri Vytauto laikus išskiria kaip aiškiai atmenamą prievolių laiką.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     „Aš, Viešpatie, Algirdo nebeatmenu, bet atmenu Didįjį Kuni­
@@ -62,13 +62,13 @@ Liudijimo formulė atskiria nebeatmenamus Algirdo laikus nuo atmenamų Vytauto l
     mes duodavome 50 kiaunių Didžiajai Kunigaikštienei Vytautie­
     nei, po vieną kiaunę nuo „dūmų“^1 ) ir rugių duoklę, po 3 grašius,
     o virtuvei po vieną vištą, 10 kiaunių ir pusę „grašio“1 2).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai

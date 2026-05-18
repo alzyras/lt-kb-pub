@@ -20,13 +20,15 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: '1912 m. F-ja sušaukė Čikagoje pirmąjį lietuvių moksleivių suvažiavimą ir įkūrė Amerikos Lietuvių R.'
+  teiginys: 'Amerikos Lietuvių Katalikų Federacija 1912 m. Čikagoje įkūrė Amerikos Lietuvių R. Katalikų Moksleivių Susivienijimą.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1912 m. F-ja sušaukė Čikagoje pirmąjį lietuvių moksleivių suvažiavimą ir įkūrė Amerikos Lietuvių R.'
+  santrauka: 'Amerikos Lietuvių Katalikų Federacija 1912 m. Čikagoje įkūrė Amerikos Lietuvių R. Katalikų Moksleivių Susivienijimą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     1912 m. F-ja sušaukė Čikagoje pirmąjį
@@ -38,11 +40,11 @@ tags:
     maža katalikų jaunimo Federacija suorganizavo ir Lietuvos Vy-
     čių Sąjungoje (tai maždaug, kaip Lietuvoje pavasarinin-
     kai); ji turi apie 100 kuopų ir leidžia savo laikraštį „Vytį".
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

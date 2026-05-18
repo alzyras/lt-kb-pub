@@ -18,13 +18,13 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
 
 ## Teiginiai
 - t-001
-  teiginys: 'Nuo 1990 m. iš Lietuvos išvyko daugiau kaip pusė milijono gyventojų, dalis jų emigravo į Jungtinę Karalystę ir Londoną.'
+  teiginys: 'Nuo 1990 m. dalis iš Lietuvos išvykusių daugiau kaip pusės milijono gyventojų emigravo į Jungtinę Karalystę, įskaitant Londoną.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Londone gimęs Antanas Kazimeras Žemaitis sukūrė gitarą „Zemaitis“, roko pasaulyje tapusią bendrine sąvoka.'
+  teiginys: '1935 m. Londone gimė Antanas Kazimeras Žemaitis, sukūręs roko pasaulyje bendrine sąvoka tapusią gitarą „Zemaitis“.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -32,7 +32,7 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Nuo 1990 m. iš Lietuvos išvyko daugiau kaip pusė milijono gyventojų, dalis jų emigravo į Jungtinę Karalystę ir Londoną.'
+  santrauka: 'Nuo 1990 m. dalis iš Lietuvos išvykusių daugiau kaip pusės milijono gyventojų emigravo į Jungtinę Karalystę, įskaitant Londoną.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Įvairiais duomenimis, nuo 1990 m. iš
@@ -46,7 +46,7 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Londone gimęs Antanas Kazimeras Žemaitis sukūrė gitarą „Zemaitis“, roko pasaulyje tapusią bendrine sąvoka.'
+  santrauka: '1935 m. Londone gimė Antanas Kazimeras Žemaitis, sukūręs roko pasaulyje bendrine sąvoka tapusią gitarą „Zemaitis“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ogi visi jie grojo iš Lietuvos emigrantų kilusio Tony’o

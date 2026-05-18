@@ -18,13 +18,17 @@ Savo idėjoms skleisti ji turėjo net laikraštį — „Gatvės Žinias" (Wiado
 
 ## Teiginiai
 - t-001
-  teiginys: 'Savo idėjoms skleisti ji turėjo net laikraštį — „Gatvės Žinias" (Wiadomości Brukowe); jame skaudžiai išplakdavo savo visuomenės nerangumą ir apsileidimą.'
+  teiginys: 'Nenaudėlių draugija savo idėjoms skleisti leido laikraštį „Gatvės Žinios“ (Wiadomości Brukowe).'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Savo idėjoms skleisti ji turėjo net laikraštį — „Gatvės Žinias" (Wiadomości Brukowe); jame skaudžiai išplakdavo savo visuomenės nerangumą ir apsileidimą.'
+  santrauka: 'Nenaudėlių draugija savo idėjoms skleisti leido laikraštį „Gatvės Žinios“ (Wiadomości Brukowe).'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pagaliau, be masonų ir jaunimo organizacijų, Vilniuje vei-
@@ -33,10 +37,10 @@ Savo idėjoms skleisti ji turėjo net laikraštį — „Gatvės Žinias" (Wiado
     ji turėjo net laikraštį — „Gatvės Žinias" _(Wiadomości
     Brukowe);_ jame skaudžiai išplakdavo savo visuomenės ne-
     rangumą ir apsileidimą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

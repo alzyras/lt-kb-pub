@@ -33,17 +33,21 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Jam nesant namie, kilo vilniečių sąmokslas (1382 m.).'
+  teiginys: '1382 m., Kęstučiui išvykus į rytus, Vilniuje kilo sąmokslas, o vokiečiai pirkliai perdavė miestą Jogailai.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Grįžęs jis bandė atsiimti Vilnių, tačiau prie pat miesto Jogailos buvo sumuštas ir pasitraukė į Gardiną rinkti jėgų.'
+  teiginys: 'Vytautas bandė atsiimti Vilnių, bet prie miesto Jogailos buvo sumuštas ir pasitraukė į Gardiną rinkti jėgų.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Jam nesant namie, kilo vilniečių sąmokslas (1382 m.).'
+  santrauka: '1382 m., Kęstučiui išvykus į rytus, Vilniuje kilo sąmokslas, o vokiečiai pirkliai perdavė miestą Jogailai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kęstutis, metęs derybas,
@@ -52,15 +56,15 @@ Nenurodyta
     palaikė Jogailą, nes jis žadėjo taiką su ordinu; o taika su
     ordinu reiškė laisvos prekybos klestėjimą. Pirkliams to visiškai
     pakako; todėl jie bematant perdavė miestą Jogailai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Grįžęs jis bandė atsiimti Vilnių, tačiau prie pat miesto Jogailos buvo sumuštas ir pasitraukė į Gardiną rinkti jėgų.'
+  santrauka: 'Vytautas bandė atsiimti Vilnių, bet prie miesto Jogailos buvo sumuštas ir pasitraukė į Gardiną rinkti jėgų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vytautas
@@ -69,10 +73,10 @@ Nenurodyta
     Gardiną rinkti jėgų. Tuo tarpu Jogaila užėmė ir Trakus; čia jam
     dar padėjo atėję į pagalbą kryžiuočiai. Trakai buvo atiduoti
     valdyti Skirgailai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

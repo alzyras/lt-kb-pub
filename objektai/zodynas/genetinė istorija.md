@@ -45,25 +45,25 @@ priežastinį istoriografijos metodą pabrėžianti istorija, priešpriešinama 
 Autorius aiškina, kad istorijos mokslas turėtų pereiti nuo praktinio-pamokomojo rašymo prie genetinio, priežastinio metodo; Daukanto istorijos rašymas vėl nusukamas į praktinį, pamokomą pasakojimą.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Pragmatiškai-didaktinis istorijos rašymo būdas turi trauktis prieš genetinę istoriją.'
-  pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Genetinis metodas pirmoje vietoje stato visuomeninės reikšmės turinčių įvykių psichofizinį priežastingumą.'
-  pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: 'Istorijos mokslas čia pristatomas kaip pažangos ir naujų priežastinių aiškinimų sritis.'
+- t-005
+  teiginys: 'Pragmatiškai didaktinis istorijos rašymo būdas turėjo trauktis ir užleisti vietą genetinei, priežastinei istorijai.'
   pagrindžia:
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-004
+- t-006
+  teiginys: 'Genetinis metodas pirmoje vietoje stato visuomeninės reikšmės turinčių įvykių psichofizinį priežastingumą.'
+  pagrindžia:
+    - c-002
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-007
+  teiginys: 'Istorijos mokslas daro pažangą, kai nauji tyrinėjimo metodai leidžia rasti naujų senos praeities įvykių priežasčių.'
+  pagrindžia:
+    - c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-008
   teiginys: 'Daukantas istorijos rašymą vėl nukreipė pragmatiškai-didaktine kryptimi.'
   pagrindžia:
     - c-003
@@ -72,7 +72,26 @@ Autorius aiškina, kad istorijos mokslas turėtų pereiti nuo praktinio-pamokomo
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Pragmatiškai-didaktinis istorijos rašymo būdas turi trauktis prieš genetinę istoriją
+  santrauka: 'Istorijos mokslas daro pažangą, kai nauji tyrinėjimo metodai leidžia rasti naujų senos praeities įvykių priežasčių.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Romantiškas žvilgsnis į savo istoriją tebeturi stiprias tradici­
+    jas lietuviuose. Bet ir istorijos mokslas _daro pažangą._ Žinoma,
+    pačioje istorijoje, anoje prieš daug šimtų metų įvykusioje praeityje,
+    nieko _nebegalima pakeisti._ Kas yra atsitikę, yra įvykę amžinai,
+    ir niekada nebesiduoda koriguojama. Keistis gali tačiau vėlesnių
+    generacijų pažiūros į pačius faktus. Pvz., ir senos praeities įvy­
+    kiams aiškinti gali būti surastos naujos priežastys, nauji atžvilgiai,
+    ypač kai pavartojami _nauji_ tyrinėjimo metodai.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-007
+- c-002
+  santrauka: 'Pragmatiškai didaktinis istorijos rašymo būdas turėjo trauktis ir užleisti vietą genetinei, priežastinei istorijai.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Romantiškas žvilgsnis į savo istoriją tebeturi stiprias tradici­
@@ -97,29 +116,10 @@ Autorius aiškina, kad istorijos mokslas turėtų pereiti nuo praktinio-pamokomo
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
-- c-002
-  santrauka: Istorijos mokslas čia pristatomas kaip pažangos ir naujų priežastinių aiškinimų sritis
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Romantiškas žvilgsnis į savo istoriją tebeturi stiprias tradici­
-    jas lietuviuose. Bet ir istorijos mokslas _daro pažangą._ Žinoma,
-    pačioje istorijoje, anoje prieš daug šimtų metų įvykusioje praeityje,
-    nieko _nebegalima pakeisti._ Kas yra atsitikę, yra įvykę amžinai,
-    ir niekada nebesiduoda koriguojama. Keistis gali tačiau vėlesnių
-    generacijų pažiūros į pačius faktus. Pvz., ir senos praeities įvy­
-    kiams aiškinti gali būti surastos naujos priežastys, nauji atžvilgiai,
-    ypač kai pavartojami _nauji_ tyrinėjimo metodai.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003
+    - t-005
+    - t-006
 - c-003
-  santrauka: Daukantas istorijos rašymą vėl nukreipė pragmatiškai-didaktine kryptimi
+  santrauka: 'Daukantas istorijos rašymą vėl nukreipė pragmatiškai-didaktine kryptimi.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Jis nuo 1818 m. Vilniaus universitete dėstė istoriją, nuo 1821 m.
@@ -139,7 +139,7 @@ Autorius aiškina, kad istorijos mokslas turėtų pereiti nuo praktinio-pamokomo
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-008
 
 ## Pastabos
 

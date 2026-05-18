@@ -31,24 +31,26 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tada Karolis XII, pasiskelbęs esąs puolamas, su visa savo kariuomene užėmė Žemaitiją, Kauną, Vilnių (1702 m.) ir nužygiavo į Lenkiją, ketindamas Augusto vietoje pastatyti kitą karalių.'
+  teiginys: 'Karolis XII, pasiskelbęs puolamas, 1702 m. užėmė Žemaitiją, Kauną ir Vilnių, paskui nužygiavo į Lenkiją ketindamas vietoj Augusto iškelti kitą karalių.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tada Karolis XII, pasiskelbęs esąs puolamas, su visa savo kariuomene užėmė Žemaitiją, Kauną, Vilnių (1702 m.) ir nužygiavo į Lenkiją, ketindamas Augusto vietoje pastatyti kitą karalių.'
+  santrauka: 'Karolis XII, pasiskelbęs puolamas, 1702 m. užėmė Žemaitiją, Kauną ir Vilnių, paskui nužygiavo į Lenkiją ketindamas vietoj Augusto iškelti kitą karalių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tada Karolis XII, pasi-
     skelbęs esąs puolamas, su visa savo kariuomene užėmė Žemaitiją,
     Kauną, Vilnių (1702 m.) ir nužygiavo į Lenkiją, ketindamas Au-
     gusto vietoje pastatyti kitą karalių.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

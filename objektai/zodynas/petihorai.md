@@ -44,29 +44,71 @@ Terminas žymi savitą LDK kavalerijos rūšį tarp husarų ir lengvesniųjų ra
 Žodis pasirodo XVII a. kavalerijos rūšių, ginkluotės ir mūšio manevrų aprašymuose.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Petihorai šiame šaltinyje įvardijami Lietuvos kariuomenės raitininkais, Lenkijoje vadintais pancernais.'
-  pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Petihorai sudarydavo vidutinę kavaleriją ir mūšyje manevruodavo flanguose, remdami husarų ataką.'
-  pagrindžia:
-    - c-001
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: 'Petihorai siejami su šarvuočių tipu, dzidomis ir atskiromis vėliavomis Lietuvos kariuomenėje.'
+- t-004
+  teiginys: 'Petihorai buvo Lietuvos kariuomenės raitininkai, Lenkijoje vadinti pancernais.'
   pagrindžia:
     - c-003
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-005
+  teiginys: 'Petihorai sudarydavo vidutinę kavaleriją ir mūšyje manevruodavo flanguose, remdami husarų ataką.'
+  pagrindžia:
+    - c-003
+    - c-001
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-006
+  teiginys: 'Petihorai Lietuvos Didžiosios Kunigaikštijos kariuomenėje buvo kavalerijos rūšis, anksčiau naudojusi dzidas.'
+  pagrindžia:
+    - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Petihorai tiesiogiai apibrėžiami kaip Lietuvos kariuomenės vidutinės kavalerijos raitininkai.
+  santrauka: 'Petihorai sudarydavo vidutinę kavaleriją ir mūšyje manevruodavo flanguose, remdami husarų ataką.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Tuomet didžiojo etmono dėmesys buvo
+    nukreiptas į lietuvių dešinįjį sparną. Ar su-
+    gebės rotmistro J. P. Sapiegos husarų ir pe-
+    tihorų vėliavos atlaikyti pagrindinį Švedijos
+    kariuomenės smūgį ir sužlugdyti Karolio
+    Ix planą apeiti Lietuvos kariuomenę.
+    Rotmistry J. P. Sapiegos, M. Vielamovskio,
+    M. Giedraičio vėliavos sugebėjo sumušti
+    generolo H. Branto kavaleriją, kuri pradėjo
+    trauktis.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-005
+- c-002
+  santrauka: 'Petihorai Lietuvos Didžiosios Kunigaikštijos kariuomenėje buvo kavalerijos rūšis, anksčiau naudojusi dzidas.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    »[...] Lietuvos Didžiosios Kunigaikštijos kariuomenėje yra dar trečioji [kavalerijos rūšis],
+    jie apginkluoti kaip šarvuočiai [pancernes], o jų ietys - kaip husarų, tiesa, kiek trumpes-
+    nės ir su mažesnėmis vėliavėlėmis. Dėl šio skirtumo jos ir vadinamos kitaip: husarų ietys
+    vadinamos kopijomis, o šios - dzidomis: pirmasis žodis, be abejonės, kilęs iš lotyniško
+    copia, reiškiančio pulkus, antrasis - iš krašto kilęs žodis, kurį turi turkai, naudojantys tokio
+    pat tipo ietis. Lietuvių armijoje temačiau keturias tokias vėliavas, o Karūnos armija jų
+    beveik neturi, tik niekas savo grožiu neprilygsta tiems, kuriuos regėjau toj kunigaikštijoj,
+    nes husarai vienodai šaunūs ir vienoje, ir kitoje kariuomenėje. Dabar jie atsisakė savo
+    dzidy ir tapo lygūs šarvuočiams; jie vadinami petihorais ir taip pat yra pagerbti draugų
+    [Touariche] vardu.“
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-006
+- c-003
+  santrauka: 'Petihorai buvo Lietuvos kariuomenės raitininkai, Lenkijoje vadinti pancernais.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvos kariuomenės raitininkas -
@@ -81,51 +123,14 @@ Terminas žymi savitą LDK kavalerijos rūšį tarp husarų ir lengvesniųjų ra
     būti už husarų
     ir tokiu būdu
     remti jų ataką
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
-- c-002
-  santrauka: Petihorų vėliavos čia minimos kaip konkrečios kovos dalyvės.
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Ar su-
-    gebės rotmistro J. P. Sapiegos husarų ir pe-
-    tihorų vėliavos atlaikyti pagrindinį Švedijos
-    kariuomenės smūgį ir sužlugdyti Karolio
-    Ix planą apeiti Lietuvos kariuomenę.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: Ilgesnė citata petihorus sieja su šarvuočiais, dzidomis ir Lietuvos kariuomenės vėliavomis.
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    »[...] Lietuvos Didžiosios Kunigaikštijos kariuomenėje yra dar trečioji [kavalerijos rūšis],
-    jie apginkluoti kaip šarvuočiai [pancernes], o jų ietys - kaip husarų, tiesa, kiek trumpes-
-    nės ir su mažesnėmis vėliavėlėmis. Dėl šio skirtumo jos ir vadinamos kitaip: husarų ietys
-    vadinamos kopijomis, o šios - dzidomis: pirmasis žodis, be abejonės, kilęs iš lotyniško
-    copia, reiškiančio pulkus, antrasis - iš krašto kilęs žodis, kurį turi turkai, naudojantys tokio
-    pat tipo ietis. Lietuvių armijoje temačiau keturias tokias vėliavas, o Karūnos armija jų
-    beveik neturi, tik niekas savo grožiu neprilygsta tiems, kuriuos regėjau toj kunigaikštijoj,
-    nes husarai vienodai šaunūs ir vienoje, ir kitoje kariuomenėje. Dabar jie atsisakė savo
-    dzidy ir tapo lygūs šarvuočiams; jie vadinami petihorais ir taip pat yra pagerbti draugų
-    [Touariche] vardu.“
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
+    - t-004
+    - t-005
 
 ## Pastabos
 

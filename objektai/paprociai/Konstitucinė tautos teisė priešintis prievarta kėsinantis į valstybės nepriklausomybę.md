@@ -41,19 +41,19 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
+- t-004
   teiginys: 'Lietuvos Respublikos Konstitucijos 3 straipsnis suteikia tautai ir kiekvienam piliečiui teisę priešintis prievarta kėsinantis į valstybės nepriklausomybę.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-002
+- t-005
   teiginys: 'Ta pati norma saugo teritorijos vientisumą ir konstitucinę santvarką.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-003
+- t-006
   teiginys: 'Tautos suvereniteto negalima varžyti ar riboti.'
   pagrindžia:
     - c-001
@@ -62,7 +62,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Lietuvos Respublikos Konstitucijos 3 straipsnis suteikia tautai ir kiekvienam piliečiui teisę priešintis prievarta kėsinantis į valstybės nepriklausomybę.
+  santrauka: 'Lietuvos Respublikos Konstitucijos 3 straipsnis suteikia tautai ir kiekvienam piliečiui teisę priešintis prievarta kėsinantis į valstybės nepriklausomybę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Niekas negali varžyti ar riboti Tautos suve-
@@ -79,6 +79,6 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
-    - t-003
+    - t-004
+    - t-005
+    - t-006

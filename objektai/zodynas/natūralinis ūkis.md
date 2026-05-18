@@ -22,6 +22,8 @@ Tais laikais Lietuvoje dar tebevyravo natūralinis ūkis.
   teiginys: 'Tais laikais Lietuvoje dar tebevyravo natūralinis ūkis.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -30,11 +32,11 @@ Tais laikais Lietuvoje dar tebevyravo natūralinis ūkis.
   citata_originali: |
     Tais laikais Lietuvoje dar tebevyravo natūralinis ūkis. Pinigų
     tuomet buvo labai maža, todėl ėjo mainų prekyba.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

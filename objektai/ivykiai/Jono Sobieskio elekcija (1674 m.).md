@@ -33,17 +33,21 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kai pasirodė, jog nebus galima išrinkti Kondės, prieš kurio kandidatūrą jau keliolika metų kovojo bajorija (Jono Kazimiero ir Mykolo laikais), tuomet prancūziškoji partija pastatė kandidatu savo vadą hetmoną Sobieskį.'
+  teiginys: '1674 m. prancūziškoji partija kandidatu iškėlė savo vadą, hetmoną Joną Sobieskį, kai paaiškėjo, kad Kondės išrinkti nepavyks.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: 'Lenkams išrinkus Sobieskį, lietuviai pareiškė protestą ir, sustoję kitoje Vyslos pusėje, į elekcijos lauką neėjo.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kai pasirodė, jog nebus galima išrinkti Kondės, prieš kurio kandidatūrą jau keliolika metų kovojo bajorija (Jono Kazimiero ir Mykolo laikais), tuomet prancūziškoji partija pastatė kandidatu savo vadą hetmoną Sobieskį.'
+  santrauka: '1674 m. prancūziškoji partija kandidatu iškėlė savo vadą, hetmoną Joną Sobieskį, kai paaiškėjo, kad Kondės išrinkti nepavyks.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kai pasirodė,
@@ -57,11 +61,11 @@ Nenurodyta
     lauko, buvo labai palan-
     kiai lenkų bajorijos su-
     tiktas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
@@ -76,11 +80,11 @@ Nenurodyta
     Pacų priešai. Jie atsiskyrė nuo lietuvių daugumos ir prisidėjo
     prie lenkų. Po kiek laiko tuomet nusileido ir Pacai, ir So-
     bieskis buvo visų pripažintas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

@@ -19,54 +19,24 @@ Tada Zigmanto Augusto motina, karalienė Bona, altoriaus vietoje buvo pastačius
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tada Zigmanto Augusto motina, karalienė Bona, altoriaus vietoje buvo pastačiusi marmurinį paminklą;.'
+  teiginys: 'Karalienės Bonos užrašas buvo atkartotas marmurinėje lentoje su nauju prierašu.'
   pagrindžia:
-    - c-003
     - c-001
-- t-002
-  teiginys: 'tai marmurinė lenta su atkartotu karalienės Bonos užrašu ir nauju prierašu.'
-  pagrindžia:
-    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tada Zigmanto Augusto motina, karalienė Bona, altoriaus vietoje buvo pastačiusi marmurinį paminklą;.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tada Zigmanto Augusto motina, ka-
-    ralienė Bona, altoriaus vietoje buvo pastačiusi marmurinį paminklą;
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'tai marmurinė lenta su atkartotu karalienės Bonos užrašu ir nauju prierašu.'
+  santrauka: 'Karalienės Bonos užrašas buvo atkartotas marmurinėje lentoje su nauju prierašu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     tai
     marmurinė lenta su atkartotu karalienės Bonos užrašu ir nauju prie-
     rašu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: Karalienė Bona papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Karalienė Bona Vilniaus katedros bažnyčioje buvo pastačiusi
-    marmurinį Vytautui paminklą, kurį dar XVII a. matė jėzuitų isto­
-    rikas V. A. Kojalavičius.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
-  patikimumo_saltinis: exact_source_offset
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

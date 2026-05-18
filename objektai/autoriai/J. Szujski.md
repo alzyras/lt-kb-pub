@@ -18,21 +18,23 @@ Szujski, Dzieje Polski I—IV (1894, II laida);.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Szujski, Dzieje Polski I—IV (1894, II laida);.'
+  teiginys: 'J. Szujski parašė keturių tomų veikalą „Dzieje Polski“, kurio antra laida išėjo 1894 m.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Szujski, Dzieje Polski I—IV (1894, II laida);.'
+  santrauka: 'J. Szujski parašė keturių tomų veikalą „Dzieje Polski“, kurio antra laida išėjo 1894 m.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     _J. Szujski,_ Dzieje Polski I—IV
     (1894, II laida);
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
