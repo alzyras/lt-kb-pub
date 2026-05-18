@@ -435,10 +435,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   teiginys: 'Taigi net jei žydų, o ypač armėnų, vaidmuo LDK buvo menkesnis nei Lenkijoje, pastarojoje nebuvo tokių ryškių musulmonų totorių ir karaimų bendruomenių, kurias Lietuvos didysis kunigaikštis Vytautas apgyvendino LDK.'
   pagrindžia:
     - c-071
-- t-067
-  teiginys: 'Minimi ne tik bendri valdovai, bet ir Lietuvos didysis kunigaikštis Vytautas ir jo privilegijos Lietuvos bajorams.'
-  pagrindžia:
-    - c-072
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -1612,22 +1608,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-066
-- c-072
-  santrauka: 'Minimi ne tik bendri valdovai, bet ir Lietuvos didysis kunigaikštis Vytautas ir jo privilegijos Lietuvos bajorams.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Minimi ne tik bendri valdovai, bet ir Lietuvos didysis kuni-
-    gaikštis Vytautas ir jo privilegijos Lietuvos bajorams.
-    Priėmus Gegužės trečiosios konstituciją prasidėjusiose diskusijose
-    Lietuvos atstovai konstituciją manė esant savo nuolaida valstybės stipri-
-    nimo vardan (už konstituciją balsavo 30 iš 50 LDK seimūnų).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-067
 
 ## Ryšiai
 ### Laikotarpiai
