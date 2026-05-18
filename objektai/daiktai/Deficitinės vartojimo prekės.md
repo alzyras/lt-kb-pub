@@ -55,14 +55,14 @@ Vartojimo prekės ir buities daiktai.
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: "Sovietmečiu žmonės ilgose eilėse laukdavo talonų įsigyti baldus, indus ir televizorius."
+- t-003
+  teiginys: 'Sovietmečio Lietuvoje žmonės ilgose eilėse laukdavo talonų baldams, indams ir televizoriams įsigyti.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: "Medicinos reikmenų ir vaistų taip pat katastrofiškai trūko."
+- t-004
+  teiginys: 'Sovietmečio Lietuvoje katastrofiškai trūko medicinos reikmenų ir vaistų.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -70,7 +70,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Baldai, indai, televizoriai, medicinos reikmenys ir vaistai įvardyti kaip deficitinės prekės.
+  santrauka: 'Sovietmečio Lietuvoje žmonės ilgose eilėse laukdavo talonų baldams, indams ir televizoriams įsigyti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau tai nereiškė
@@ -81,12 +81,12 @@ Nenurodyta
     tiškai viskas buvo deficitas.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
 
 ## Šaltiniai ir įrodymai
 

@@ -18,13 +18,15 @@ Vėliau Voluinė apskritai tapo šalutinių Gediminaičių šakų įsitvirtinimo
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vėliau Voluinė apskritai tapo šalutinių Gediminaičių šakų įsitvirtinimo erdve – čia tėvonijas sukūrė iš šių šakų kilę Sanguškos (Kovelis, vėliau Slavuta),.'
+  teiginys: 'Kovelyje tėvoniją sukūrė iš šalutinės Gediminaičių šakos kilę Sanguškos.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vėliau Voluinė apskritai tapo šalutinių Gediminaičių šakų įsitvirtinimo erdve – čia tėvonijas sukūrė iš šių šakų kilę Sanguškos (Kovelis, vėliau Slavuta),.'
+  santrauka: 'Kovelyje tėvoniją sukūrė iš šalutinės Gediminaičių šakos kilę Sanguškos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vėliau Voluinė apskritai tapo šalutinių Gedimi-
@@ -34,10 +36,10 @@ Vėliau Voluinė apskritai tapo šalutinių Gediminaičių šakų įsitvirtinimo
     ir Chodkevičiai (Mlynivas), pagaliau iš Voluinės, iš Ostroho buvo nepa-
     prastai reikšmingą vaidmenį suvaidinę riurikaitiškos, taigi „ukrainietiš-
     kos“ kilmės kunigaikščiai Ostrogiškiai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

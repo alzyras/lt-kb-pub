@@ -27,13 +27,15 @@ Tarptautinės konferencijos Vilniuje „NATO vaidmuo besikeičiančioje Europos 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tarptautinės konferencijos Vilniuje „NATO vaidmuo besikeičiančioje Europos saugumo aplinkoje“ metu Lietuvos Respublikos prezidentas Valdas Adamkus ir NATO Generalinis sekretorius Džordžas Robertsonas 2000 m. gegužės 19 d. L I E T U V O S I S T O R I J A 260.'
+  teiginys: 'Džordžas Robertsonas 2000 m. gegužės 19 d. Vilniuje dalyvavo konferencijoje apie NATO vaidmenį Europos saugumo aplinkoje.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tarptautinės konferencijos Vilniuje „NATO vaidmuo besikeičiančioje Europos saugumo aplinkoje“ metu Lietuvos Respublikos prezidentas Valdas Adamkus ir NATO Generalinis sekretorius Džordžas Robertsonas 2000 m. gegužės 19 d. L I E T U V O S I S T O R I J A 260.'
+  santrauka: 'Džordžas Robertsonas 2000 m. gegužės 19 d. Vilniuje dalyvavo konferencijoje apie NATO vaidmenį Europos saugumo aplinkoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tarptautinės konferencijos Vilniuje „NATO vaidmuo besikeičiančioje
@@ -45,17 +47,14 @@ Tarptautinės konferencijos Vilniuje „NATO vaidmuo besikeičiančioje Europos 
     260
     Pagrindinis narystės NATO pranašumas pabrėžiamas Vašingtono su-
     tarties 5-ajame straipsnyje.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/Valdas Adamkus]]

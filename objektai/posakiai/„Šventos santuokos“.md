@@ -21,45 +21,24 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: '„Šventos santuokos“ metafora dažnai taikoma visam unijų procesui, kurio padarinys – 1569 m. sudaryta Liublino unija, sukūrusi jungtinę valstybę – Abiejų Tautų Respubliką.'
+  teiginys: 'Lenkijoje gyvuoja tradicija Liublino unijos sukurtą valstybę vadinti Lenkijos, o ne Abiejų Tautų Respublika.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Galima su šypsena žiūrėti į tradicinės lenkų istorinės minties nelogiškumą: jei unija – „šventa santuoka“, tai kur santuokos partneris?'
-  pagrindžia:
-    - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '„Šventos santuokos“ metafora dažnai taikoma visam unijų procesui, kurio padarinys – 1569 m. sudaryta Liublino unija, sukūrusi jungtinę valstybę – Abiejų Tautų Respubliką.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tai buvo ori-
-    ginalus valstybių junginys, kuris šiandien kartais laikomas net Europos
-    Sąjungos pirmtaku.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Galima su šypsena žiūrėti į tradicinės lenkų istorinės minties nelogiškumą: jei unija – „šventa santuoka“, tai kur santuokos partneris?'
+  santrauka: 'Lenkijoje gyvuoja tradicija Liublino unijos sukurtą valstybę vadinti Lenkijos, o ne Abiejų Tautų Respublika.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lenkijoje gyvuoja tradicija Lietuvą net iki Liublino unijos laikyti Len-
     kijos dalimi, o Liublino unijos sukurtą valstybę vadinti ne Abiejų Tautų,
     o Lenkijos Respublika.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Liublino unija]]
-- [[objektai/ivykiai/Liublino unija (1569 m.)]]
+    - t-001

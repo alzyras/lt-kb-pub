@@ -63,47 +63,10 @@ Po 1992 m. Konstitucijos priėmimo tautinėms bendrijoms priklausantiems pilieč
 Nenurodyta
 
 ## Reikšmingi paminėjimai
-- c-87893
-  santrauka: Konstitucijos kontekste minima teisė puoselėti kalbą, kultūrą ir papročius.
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Pagrindinis šalies įstatymas garantuo-
-    ja prigimtines žmogaus ir piliečio teises ir laisves, piliečiai, priklausantys
-    tautinėms bendrijoms, turi teisę puoselėti savo kalbą, kultūrą ir papro-
-    čius; tautinėms bendrijoms valstybė teikia paramą.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Rankiniu būdu sutrumpinta į šaltinyje exact randamą fragmentą po OCR tarpų validacijos klaidos."
-  pagrindžia:
-    - t-001
-    - t-002
-- c-87196
-  santrauka: Demokratinių vertybių kontekste minima galimybė puoselėti kalbą ir kultūrą.
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Narystės ir demokratijos įtvirtinimui Lietuva ėmė ryžtingai siekti de-
-    mokratinių vertybių – užtikrinti galimybes puoselėti savo kalbą ir kultūrą
-    tautinėms mažumoms, vykdyti religinio turto restituciją, įvertinti Holo-
-    kausto pamokas, grąžinti žydams išblaškytas kultūros vertybes (išsaugo-
-    tas 300 Torų, YIVO instituto dokumentus), sakralinius pastatus, kovoti
-    prieš antisemitizmą ir rasinį bei religinį nepakantumą, garantuoti žodžio,
-    spaudos, rinkimų laisvę.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Rankiniu būdu sutrumpinta į šaltinyje exact randamą fragmentą po OCR tarpų validacijos klaidos."
-  pagrindžia:
-    - t-003
+Nenurodyta
 
 ## Šaltiniai ir įrodymai
 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
-
-### Susiję objektai
-- [[objektai/daiktai/Išsaugotos Toros]]
-- [[objektai/zodynas/Restitucija]]

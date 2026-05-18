@@ -19,13 +19,15 @@ Getuose atsirado pasipriešinimo grupių, kai kurie žydai bėgo į miškus, įs
 
 ## Teiginiai
 - t-001
-  teiginys: 'Getuose atsirado pasipriešinimo grupių, kai kurie žydai bėgo į miškus, įsijungė į antinacinę rezistenciją – sovietų partizanų būrius, kur, nepaisant susidūrimo su antisemitinėmis nuotaikomis, ėmėsi ginklo, daug Lietuvos žydų kovojo SSRS gilumoje suformuotoje.'
+  teiginys: 'Daug Lietuvos žydų kovojo SSRS gilumoje suformuotoje 16-ojoje lietuviškojoje šaulių divizijoje.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Getuose atsirado pasipriešinimo grupių, kai kurie žydai bėgo į miškus, įsijungė į antinacinę rezistenciją – sovietų partizanų būrius, kur, nepaisant susidūrimo su antisemitinėmis nuotaikomis, ėmėsi ginklo, daug Lietuvos žydų kovojo SSRS gilumoje suformuotoje.'
+  santrauka: 'Daug Lietuvos žydų kovojo SSRS gilumoje suformuotoje 16-ojoje lietuviškojoje šaulių divizijoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Getuose atsirado pasipriešinimo grupių, kai kurie žydai bėgo į miš-
@@ -33,10 +35,10 @@ Getuose atsirado pasipriešinimo grupių, kai kurie žydai bėgo į miškus, įs
     paisant susidūrimo su antisemitinėmis nuotaikomis, ėmėsi ginklo, daug
     Lietuvos žydų kovojo SSRS gilumoje suformuotoje 16-ojoje lietuviškojoje
     šaulių divizijoje.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

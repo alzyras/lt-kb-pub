@@ -43,6 +43,8 @@ Nenurodyta
   teiginys: '1991 m., po Lietuvos sausio 13 d. įvykių, EEB (nuo 1993 m. ES) griežtai pasmerkė jėgos naudojimą Baltijos šalyse.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -52,11 +54,11 @@ Nenurodyta
     1991 m.,
     po Lietuvos sausio 13 d. įvykių, EEB (nuo 1993 m. ES) griežtai pasmerkė
     jėgos naudojimą Baltijos šalyse.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

@@ -31,13 +31,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Dislokuotos Lietuvoje NKVD divizijos vykdė baudžiamąsias operacijas: vien 1944 m. liepą–gruodį okupantų teroro aktais nužudyti 2 489 žmonės, apie 100 tūkst.'
+  teiginys: 'Slopinant ginkluotą pasipriešinimą 1948 m. gegužę buvo ištremti 40 002, 1949 m. – 33 500, o 1951 m. – 20 357 Lietuvos gyventojai.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Dislokuotos Lietuvoje NKVD divizijos vykdė baudžiamąsias operacijas: vien 1944 m. liepą–gruodį okupantų teroro aktais nužudyti 2 489 žmonės, apie 100 tūkst.'
+  santrauka: 'Slopinant ginkluotą pasipriešinimą 1948 m. gegužę buvo ištremti 40 002, 1949 m. – 33 500, o 1951 m. – 20 357 Lietuvos gyventojai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietu-
@@ -45,11 +47,11 @@ Nenurodyta
     ginkluotą pasipriešinimą griebtasi masinių deportacijų į Sibirą: 1948 m.
     gegužę ištremta 40 002, 1949 m. – 33 500, o 1951 m. – 20 357 gyvento-
     jai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

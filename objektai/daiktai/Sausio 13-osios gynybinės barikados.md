@@ -62,42 +62,22 @@ Statytos aplink AT-AS pastatą 1991 m. sausio įvykių metu.
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: "1991 m. sausio 12 d. vakare aplink AT-AS pastatą buvo statomos betoninės sienos ir spygliuotų vielų užtvaros."
+- t-006
+  teiginys: '1991 m. sausio 14 d. prie parlamento buvo gynybinės barikados.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: 'Atkuriamojo Seimo vadovybei pakvietus, sausio 12 dienos vakare minios vilniečių ir iš kitų Lietuvos vietų atvykusių žmonių rinkosi budėti prie parlamento rūmų, Lietuvos radijo ir televizijos, televizijos bokšto.'
-  pagrindžia:
-    - c-001
-- t-004
-  teiginys: 'L I E T U V O S I S T O R I J A 244 Gynybinės barikados prie parlamento 1991 m. sausio 14 d. E.'
+- t-007
+  teiginys: '1991 m. sausio 12 d. vakare žmonės rinkosi budėti prie parlamento rūmų, Lietuvos radijo ir televizijos bei televizijos bokšto.'
   pagrindžia:
     - c-002
-- t-005
-  teiginys: '6 skyrius • D A I N U O J A N T I R E V O L I U C I J A 245 Atkuriamojo Seimo vadovybei pakvietus, sausio 12 dienos vakare minios vilniečių ir iš kitų Lietuvos vietų atvykusių žmonių rinkosi budėti prie parlamento rūmų, Lietuvos radijo ir televizijos.'
-  pagrindžia:
-    - c-003
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Barikados aprašomos kaip betoninės sienos ir spygliuotų vielų užtvaros prie AT-AS pastato.
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Atkuriamojo Seimo vadovybei pakvietus, sausio 12 dienos vakare mi-
-    nios vilniečių ir iš kitų Lietuvos vietų atvykusių žmonių rinkosi budėti prie
-    parlamento rūmų, Lietuvos radijo ir televizijos, televizijos bokšto.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'L I E T U V O S I S T O R I J A 244 Gynybinės barikados prie parlamento 1991 m. sausio 14 d. E.'
+  santrauka: '1991 m. sausio 14 d. prie parlamento buvo gynybinės barikados.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     L I E T U V O S  I S T O R I J A
@@ -105,15 +85,15 @@ Nenurodyta
     Gynybinės barikados prie parlamento 1991 m. sausio 14 d.
     E. Masevičiaus nuotrauka
     V.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
-- c-003
-  santrauka: '6 skyrius • D A I N U O J A N T I R E V O L I U C I J A 245 Atkuriamojo Seimo vadovybei pakvietus, sausio 12 dienos vakare minios vilniečių ir iš kitų Lietuvos vietų atvykusių žmonių rinkosi budėti prie parlamento rūmų, Lietuvos radijo ir televizijos.'
+    - t-006
+- c-002
+  santrauka: '1991 m. sausio 12 d. vakare žmonės rinkosi budėti prie parlamento rūmų, Lietuvos radijo ir televizijos bei televizijos bokšto.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A
@@ -123,13 +103,13 @@ Nenurodyta
     parlamento rūmų, Lietuvos radijo ir televizijos, televizijos bokšto. Aplink
     AT-AS pastatą statomos betoninės sienos ir spygliuotų vielų užtvaros. Apie
     12 val.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
+    - t-007
 
 ## Šaltiniai ir įrodymai
 
@@ -140,7 +120,3 @@ Nenurodyta
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
 - [[laikotarpiai/XXI amžius]]
-
-### Susiję objektai
-- [[objektai/ivykiai/Sausio 13-oji (1991 m.)]]
-- [[objektai/ivykiai/Sausio 13-oji ir Vilniaus televizijos bokšto šturmas (1991 m. sausio 12–13 d.)]]

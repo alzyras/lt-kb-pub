@@ -22,6 +22,8 @@ Konstitucija, aptardama valstybės politinę santvarką, rėmėsi Šarlio Montes
   teiginys: 'Konstitucija, aptardama valstybės politinę santvarką, rėmėsi Šarlio Monteskjė (Charles de Montesquieu) valdžių padalijimo principu.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -30,10 +32,10 @@ Konstitucija, aptardama valstybės politinę santvarką, rėmėsi Šarlio Montes
   citata_originali: |
     Konstitucija, aptardama valstybės politinę santvarką, rėmėsi Šarlio
     Monteskjė (Charles de Montesquieu) valdžių padalijimo principu.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

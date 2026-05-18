@@ -18,21 +18,27 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Š iuo laikotarpiu Lietuva (darant išlygą dėl Užnemunės) priklausė autokratinei Rusijos imperijai (išskyrus pusmečiui 1812 m. antrojoje pusėje įsiterpusį Napoleono Bonaparto „interliudą“).'
+  teiginys: 'Šiuo laikotarpiu Lietuva, išskyrus Užnemunę ir 1812 m. Napoleono Bonaparto interliudą, priklausė autokratinei Rusijos imperijai.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'L DK teritorijų prijungimas prie Rusijos reiškė patekimą į autokratinės monarchinės imperijos valdžią, kuri realizuota pasitelkus monarchui pavaldų centralizuotą biurokratinį aparatą.'
+  teiginys: 'Vietiniame Rusijos imperijos valdyme gubernijai vadovavo caro skiriamas, vidaus reikalų žinybai pavaldus gubernatorius.'
   pagrindžia:
     - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-003
-  teiginys: 'BUVUSIO VALSTYBINGUMO TRAUKOJE Kultūrinė autonomija Napoleono šešėlyje L DK teritorijų prijungimas prie Rusijos reiškė patekimą į autokratinės monarchinės imperijos valdžią, kuri realizuota pasitelkus monarchui pavaldų centralizuotą biurokratinį aparatą.'
+  teiginys: 'Vietiniame Rusijos imperijos valdyme gubernijai vadovavo caro skiriamas, vidaus reikalų žinybai pavaldus gubernatorius.'
   pagrindžia:
     - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Š iuo laikotarpiu Lietuva (darant išlygą dėl Užnemunės) priklausė autokratinei Rusijos imperijai (išskyrus pusmečiui 1812 m. antrojoje pusėje įsiterpusį Napoleono Bonaparto „interliudą“).'
+  santrauka: 'Šiuo laikotarpiu Lietuva, išskyrus Užnemunę ir 1812 m. Napoleono Bonaparto interliudą, priklausė autokratinei Rusijos imperijai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Be to, pagal lyginamąją kalbotyrą, lietuvių kalba yra labiausiai
@@ -45,30 +51,29 @@ tags:
     priklausė autokratinei Rusijos imperijai (išskyrus pus-
     mečiui 1812 m. antrojoje pusėje įsiterpusį Napoleono Bonaparto „inter-
     liudą“).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'L DK teritorijų prijungimas prie Rusijos reiškė patekimą į autokratinės monarchinės imperijos valdžią, kuri realizuota pasitelkus monarchui pavaldų centralizuotą biurokratinį aparatą.'
+  santrauka: 'Vietiniame Rusijos imperijos valdyme gubernijai vadovavo caro skiriamas, vidaus reikalų žinybai pavaldus gubernatorius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vietinio valdymo grandyje buvo gubernija, kurios galva – caro ski-
     riamas, bet vidaus reikalų žinybai pavaldus gubernatorius, atsiunčiamas
     iš centro arba kitų gubernijų.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
     - t-003
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Kristijonas Gotlibas Milkus]]
 - [[objektai/zodynas/interliudas]]

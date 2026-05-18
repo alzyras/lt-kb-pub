@@ -19,44 +19,24 @@ LDK įsikūrė vokiečių, žydų ir armėnų. Visų pirma – tai „tarpininka
 
 ## Teiginiai
 - t-001
-  teiginys: 'LDK įsikūrė vokiečių, žydų ir armėnų.'
+  teiginys: 'LDK įsikūrę armėnai tapo kunigaikščių kolektyviniais vasalais, turėjusiais savo konfesiją ir raštą.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Visų pirma – tai „tarpininkaujančios mažumos“ – katalikai armėnai ir judėjai žydai.'
-  pagrindžia:
-    - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'LDK įsikūrė vokiečių, žydų ir armėnų.'
+  santrauka: 'LDK įsikūrę armėnai tapo kunigaikščių kolektyviniais vasalais, turėjusiais savo konfesiją ir raštą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     LDK įsikūrė vokie-
     čių, žydų ir armėnų. Beveik visos šios bendruomenės (išskyrus vokiečius)
     tapo kunigaikščių kolektyviniais vasalais, turinčiais savo konfesiją ir raštą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Visų pirma – tai „tarpininkaujančios mažumos“ – katalikai armėnai ir judėjai žydai.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Aišku,
-    šios mažumos į LDK persikėlė iš Lenkijos ir galbūt iš Vengrijos, todėl
-    natūralu, kad čia jų būta mažiau.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Vokiečiai]]

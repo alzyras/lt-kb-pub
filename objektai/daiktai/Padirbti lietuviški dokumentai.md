@@ -35,31 +35,11 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Jie atsiuntė iš RSSFR apie 2 000 diversantų su padirbtais lietuviškais dokumentais, nelegaliai gabeno ginklus ir steigė jų sandėlius Kaune ir kituose miestuose, verbavo vietinius gyventojus.'
-  pagrindžia:
-    - c-001
+Nenurodyta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Jie atsiuntė iš RSSFR apie 2 000 diversantų su padirbtais lietuviškais dokumentais, nelegaliai gabeno ginklus ir steigė jų sandėlius Kaune ir kituose miestuose, verbavo vietinius gyventojus.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Žinoma, Taikos sutartis, pasirašyta Maskvoje, būtų nieko verta, jei Len-
-    kija nebūtų sumušusi Rusijos bolševikų, nes šie intensyviai ruošė sukilimą
-    Lietuvoje 1920 m. rugpjūtį.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
+Nenurodyta
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dokumentas]]
-
-### Susiję objektai
-- [[objektai/daiktai/Ginklai ir ginkluotė]]
-- [[objektai/grupes/Raudonoji armija]]

@@ -27,13 +27,15 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: '1956 m. suimtas ir vienas iš paskutinių partizanų vadų, buvęs mokytojas Adolfas Ramanauskas-Vanagas, nepaprastai žiauriai kankintas ir kitais metais Sovietų išniekinti Dainavos apygardos partizanų kūnai Adolfas Ramanauskas-Vanagas su ištikimais draugais.'
+  teiginys: 'Adolfas Ramanauskas-Vanagas 1956 m. buvo suimtas, žiauriai kankintas ir kitais metais sušaudytas.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1956 m. suimtas ir vienas iš paskutinių partizanų vadų, buvęs mokytojas Adolfas Ramanauskas-Vanagas, nepaprastai žiauriai kankintas ir kitais metais Sovietų išniekinti Dainavos apygardos partizanų kūnai Adolfas Ramanauskas-Vanagas su ištikimais draugais.'
+  santrauka: 'Adolfas Ramanauskas-Vanagas 1956 m. buvo suimtas, žiauriai kankintas ir kitais metais sušaudytas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1956 m. suimtas ir vienas iš pa-
@@ -50,11 +52,11 @@ tags:
     L I E T U V O S  I S T O R I J A
     214
     sušaudytas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

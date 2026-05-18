@@ -18,26 +18,4 @@ tags:
 Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių kalbai paliekant disciplinos statusą (žinoma, mokyti lietuviškai reikėjo iš vadovėlių, parašytų kirilika).
 
 ## Teiginiai
-- t-001
-  teiginys: 'Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių kalbai paliekant disciplinos statusą (žinoma, mokyti lietuviškai reikėjo iš vadovėlių, parašytų kirilika).'
-  pagrindžia:
-    - c-001
-
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių kalbai paliekant disciplinos statusą (žinoma, mokyti lietuviškai reikėjo iš vadovėlių, parašytų kirilika).'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kaip neprivaloma disciplina lietuvių
-    kalba įsileista ir į kelias Užnemunės vidurines mokyklas, Maskvos uni-
-    versitete paskirta dešimt valstybės stipendijų šių mokyklų auklėtiniams,
-    turintiems atestate lietuvių kalbos pažymį. Taip tikėtasi iš pačių lietuvių
-    paruošti rusų aukštosios kultūros proceso dalyvių, manant, kad jie taps ir
-    lietuvių „suartinimo“ su rusų kultūra gija.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001

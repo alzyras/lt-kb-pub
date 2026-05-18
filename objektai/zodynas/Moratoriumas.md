@@ -27,13 +27,15 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Šalį sukrėtė stambiųjų Lietuvos bankų griūtis, kulminaciją pasiekusi 1995 m. pabaigoje, kai paskelbtas moratoriumas dviem dideliems komerciniams bankams, šalies biudžetas patyrė nemažų nuostolių, nes bankų griūtis tiesiogiai paveikė apie 30 proc..'
+  teiginys: '1995 m. pabaigoje moratoriumas paskelbtas dviem dideliems komerciniams bankams, o jų griūtis pakenkė Lietuvos finansų raidai.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Šalį sukrėtė stambiųjų Lietuvos bankų griūtis, kulminaciją pasiekusi 1995 m. pabaigoje, kai paskelbtas moratoriumas dviem dideliems komerciniams bankams, šalies biudžetas patyrė nemažų nuostolių, nes bankų griūtis tiesiogiai paveikė apie 30 proc..'
+  santrauka: '1995 m. pabaigoje moratoriumas paskelbtas dviem dideliems komerciniams bankams, o jų griūtis pakenkė Lietuvos finansų raidai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šalį sukrėtė stambiųjų Lietuvos bankų griūtis, kulminaciją pasiekusi
@@ -42,11 +44,11 @@ tags:
     griūtis tiesiogiai paveikė apie 30 proc., netiesiogiai – iki 70 proc. šalies
     ūkio subjektų, pakenkė Lietuvos ekonomikos ir finansų raidai, pakirto
     pasitikėjimą bankais šalyje ir užsienyje.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

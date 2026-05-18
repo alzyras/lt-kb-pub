@@ -32,23 +32,30 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tų metų lapkritį visoje Lietuvoje vykusiuose susirinkimuose, mitinguose reikalauta nepritarti SSRS konstitucijos pataisoms, kurios numatė ne plėsti respublikų suverenumą, o stiprinti centralizaciją, prieš tai surinkta 1,8 mln.'
+  teiginys: '1989 m. gegužės 18 d. priimtos konstitucinės pataisos paskelbė Lietuvos įstatymų viršenybę SSRS įstatymų atžvilgiu ir priimta Lietuvos SSR valstybinio suvereniteto deklaracija.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tų metų lapkritį visoje Lietuvoje vykusiuose susirinkimuose, mitinguose reikalauta nepritarti SSRS konstitucijos pataisoms, kurios numatė ne plėsti respublikų suverenumą, o stiprinti centralizaciją, prieš tai surinkta 1,8 mln.'
+  santrauka: '1989 m. gegužės 18 d. priimtos konstitucinės pataisos paskelbė Lietuvos įstatymų viršenybę SSRS įstatymų atžvilgiu ir priimta Lietuvos SSR valstybinio suvereniteto deklaracija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     LPS reika-
     laujant, 1989 m. gegužės 18 d. priimtos konstitucinės pataisos, skelbian-
     čios Lietuvos įstatymų viršenybę SSRS įstatymų atžvilgiu, ir deklaracija
     dėl Lietuvos SSR valstybinio suvereniteto.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/suverenitetas suverenumas]]
+- [[objektai/zodynas/suverenumas suverenitetas]]

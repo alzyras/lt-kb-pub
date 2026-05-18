@@ -28,13 +28,17 @@ Sniečkus išleido įsakymą, leidžiantį suimti agituojančiuosius prieš Liau
 
 ## Teiginiai
 - t-001
-  teiginys: 'Sniečkus išleido įsakymą, leidžiantį suimti agituojančiuosius prieš Liaudies vyriausybę, patvirtintas Lietuvos politinių partijų, šaulių vadovybės „operatyvinės likvidacijos planas“, parengti numatytų suimti asmenų sąrašai, o sovietų NKVD kariuomenės daliniai.'
+  teiginys: '1940 m. liepos 6 d. patvirtintas Lietuvos politinių partijų ir šaulių vadovybės „operatyvinės likvidacijos planas“.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Sniečkus išleido įsakymą, leidžiantį suimti agituojančiuosius prieš Liaudies vyriausybę, patvirtintas Lietuvos politinių partijų, šaulių vadovybės „operatyvinės likvidacijos planas“, parengti numatytų suimti asmenų sąrašai, o sovietų NKVD kariuomenės daliniai.'
+  santrauka: '1940 m. liepos 6 d. patvirtintas Lietuvos politinių partijų ir šaulių vadovybės „operatyvinės likvidacijos planas“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1940 m. liepos 6 d. Valstybės saugumo
@@ -46,10 +50,10 @@ Sniečkus išleido įsakymą, leidžiantį suimti agituojančiuosius prieš Liau
     L I E T U V O S  I S T O R I J A
     194
     turėjo neleisti tokiems pabėgti į Vokietiją.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

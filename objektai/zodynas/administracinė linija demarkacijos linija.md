@@ -23,26 +23,32 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
   teiginys: 'Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariuomenių, lenkai ignoravo 1919 m. birželio 18 d. „Maršalo Fošo“ liniją, o Antantė vengė pripažinti naujas valstybes, laikydamasi Rusijos nedalomumo principo.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Nors 1920 m. spalio 7 d. Lenkijos ir Lietuvos delegacijos Suvalkuose pasirašė karinį susitarimą dėl kariuomenių demarkacijos linijos, paliekant Vilnių Lietuvos pusėje, spalio 9-ąją, dar prieš įsigalint susitarimui, lenkų gen.'
+  teiginys: '1920 m. spalio 7 d. Suvalkų susitarimu Vilnius liko Lietuvos pusėje, bet spalio 9 d. L. Želigovskis įžengė į Vilnių ir paskelbė Vidurinę Lietuvą.'
   pagrindžia:
     - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-003
-  teiginys: 'Ambasadorių konferencija tai suprato kaip norėjo suprasti – neva Lietuva pati pageidauja Vilniaus priskyrimo Lenkijai, tad patvirtino Lenkijos sieną su Rusija pagal 1921 m. Rygos taikos sutartį ir naują demarkacijos liniją tarp Lietuvos ir Lenkijos (Vilnius.'
+  teiginys: 'Ambasadorių konferencija Lietuvos poziciją suprato kaip pageidavimą Vilnių priskirti Lenkijai.'
   pagrindžia:
     - c-003
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+- t-004
+  teiginys: 'Apie 1937 m. giminės iš abiejų pusių susitikdavo prie administracinės linijos, nes keliai tarp Lietuvos ir Lenkijos buvo uždaryti.'
+  pagrindžia:
+    - c-004
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-005
-  teiginys: 'Apsidžiaugusi Sąjungos Taryba patvirtino tai rezoliucija ir ribą tarp abiejų valstybių pavadino jau ne „demarkacijos linija“, o „administracine linija“, bet ne „siena“, kaip norėjo lietuviai.'
+  teiginys: '1938 m. kovo 11 d. prie administracinės linijos Lietuvos pasienio policininkas nušovė liniją perėjusį lenkų kareivį.'
   pagrindžia:
     - c-005
-- t-006
-  teiginys: 'Giminės iš abiejų pusių susitinka prie administracinės linijos (apie 1937 m.).'
-  pagrindžia:
-    - c-006
-- t-007
-  teiginys: 'Deryboms atsidūrus aklavietėje 1938 m. kovo 11 d. įvyko inicidentas prie administracinės linijos – Lietuvos pasienio policininkas nušovė perėjusį liniją lenkų kareivį.'
-  pagrindžia:
-    - c-007
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -53,15 +59,15 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
     ją tarp Lenkijos ir Lietuvos kariuomenių, lenkai ignoravo 1919 m. birželio
     18 d. „Maršalo Fošo“ liniją, o Antantė vengė pripažinti naujas valstybes,
     laikydamasi Rusijos nedalomumo principo.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Nors 1920 m. spalio 7 d. Lenkijos ir Lietuvos delegacijos Suvalkuose pasirašė karinį susitarimą dėl kariuomenių demarkacijos linijos, paliekant Vilnių Lietuvos pusėje, spalio 9-ąją, dar prieš įsigalint susitarimui, lenkų gen.'
+  santrauka: '1920 m. spalio 7 d. Suvalkų susitarimu Vilnius liko Lietuvos pusėje, bet spalio 9 d. L. Želigovskis įžengė į Vilnių ir paskelbė Vidurinę Lietuvą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nors 1920 m.
@@ -70,70 +76,59 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
     vos pusėje, spalio 9-ąją, dar prieš įsigalint susitarimui, lenkų gen. L. Že-
     ligovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos
     (Litwa środkowa) sudarymą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Ambasadorių konferencija tai suprato kaip norėjo suprasti – neva Lietuva pati pageidauja Vilniaus priskyrimo Lenkijai, tad patvirtino Lenkijos sieną su Rusija pagal 1921 m. Rygos taikos sutartį ir naują demarkacijos liniją tarp Lietuvos ir Lenkijos (Vilnius.'
+  santrauka: 'Ambasadorių konferencija Lietuvos poziciją suprato kaip pageidavimą Vilnių priskirti Lenkijai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ambasadorių konferencija tai suprato kaip norėjo suprasti – neva Lietuva
     pati pageidauja Vilniaus priskyrimo Lenkijai, tad patvirtino Lenkijos sieną
     su Rusija pagal 1921 m.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
-- c-005
-  santrauka: 'Apsidžiaugusi Sąjungos Taryba patvirtino tai rezoliucija ir ribą tarp abiejų valstybių pavadino jau ne „demarkacijos linija“, o „administracine linija“, bet ne „siena“, kaip norėjo lietuviai.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    išeities, paprasčiausiai pasakė, jog karo padėties tarp Lietuvos ir Lenkijos
-    nėra.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
-- c-006
-  santrauka: 'Giminės iš abiejų pusių susitinka prie administracinės linijos (apie 1937 m.).'
+- c-004
+  santrauka: 'Apie 1937 m. giminės iš abiejų pusių susitikdavo prie administracinės linijos, nes keliai tarp Lietuvos ir Lenkijos buvo uždaryti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Keliai tarp Lietuvos ir Lenkijos keliolika metų buvo uždaryti. Giminės
     iš abiejų pusių susitinka prie administracinės linijos (apie 1937 m.)
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-006
-- c-007
-  santrauka: 'Deryboms atsidūrus aklavietėje 1938 m. kovo 11 d. įvyko inicidentas prie administracinės linijos – Lietuvos pasienio policininkas nušovė perėjusį liniją lenkų kareivį.'
+    - t-004
+- c-005
+  santrauka: '1938 m. kovo 11 d. prie administracinės linijos Lietuvos pasienio policininkas nušovė liniją perėjusį lenkų kareivį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Deryboms atsidūrus aklavietėje 1938 m. kovo 11 d. įvyko inici-
     dentas prie administracinės linijos – Lietuvos pasienio policininkas nušovė
     perėjusį liniją lenkų kareivį.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-007
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/ivykiai/Incidentas prie Lietuvos ir Lenkijos administracinės linijos (1938 m. kovo 11 d.)]]
+- [[objektai/asmenys/L. Želigovskis]]
 - [[objektai/grupes/Lenkijos kariuomenė]]
+- [[objektai/vietos/Vidurinė Lietuva]]
 - [[objektai/zodynas/administracinė linija]]

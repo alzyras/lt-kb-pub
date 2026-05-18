@@ -58,7 +58,6 @@ Nenurodyta
   teiginys: 'Lenkai tada didžiuodamiesi pabrėždavo, kad jie atnešę Lietuvai vakarų Europos kultūrą, o bajorijai davę savo herbus.'
   pagrindžia:
     - c-002
-
 - t-003
   teiginys: 'Horodlės unijos punktu 47 lietuviams bajorams buvo suteikti 47 lenkų bajorų herbai.'
   pagrindžia:
@@ -83,22 +82,6 @@ Nenurodyta
     - c-007
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-007
-  teiginys: 'LDK herbas Vytis iš herbyno „Stemmata Polonica“ (saugomo Paryžiuje), XVI a.'
-  pagrindžia:
-    - c-008
-- t-008
-  teiginys: 'Gedimino stulpai ir Jogailos kryžius iš herbyno „Stemmata Polonica“ (saugomo Paryžiuje), XVI a.'
-  pagrindžia:
-    - c-009
-- t-009
-  teiginys: 'Tačiau ir tomis sudėtingomis sąlygomis iškilo Vilniaus romantizmo mokykla, kurios didieji atstovai buvo Adomas Mickevičius ir Julius Slovackis (Juliusz Slowacki), o Vilniaus universitetas tuo metu išlaikė pozicijas Europos universitetų LDK herbas Vytis iš.'
-  pagrindžia:
-    - c-010
-- t-010
-  teiginys: 'L I E T U V O S I S T O R I J A 18 Gedimino stulpai ir Jogailos kryžius iš herbyno „Stemmata Polonica“ (saugomo Paryžiuje), XVI a.'
-  pagrindžia:
-    - c-011
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -129,7 +112,6 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
 - c-003
   santrauka: Horodlėje lietuviams bajorams suteikti lenkų herbai.
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -214,77 +196,6 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
-- c-008
-  santrauka: 'LDK herbas Vytis iš herbyno „Stemmata Polonica“ (saugomo Paryžiuje), XVI a.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau ir tomis su-
-    dėtingomis sąlygomis iškilo Vilniaus romantizmo mokykla, kurios didieji
-    atstovai buvo Adomas Mickevičius ir Julius Slovackis (Juliusz Slowacki),
-    o Vilniaus universitetas tuo metu išlaikė pozicijas Europos universitetų
-    LDK herbas Vytis iš herbyno
-    „Stemmata Polonica“ (saugomo
-    Paryžiuje), XVI a. vid.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-007
-- c-009
-  santrauka: 'Gedimino stulpai ir Jogailos kryžius iš herbyno „Stemmata Polonica“ (saugomo Paryžiuje), XVI a.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Gedimino stulpai ir Jogailos kryžius iš herbyno
-    „Stemmata Polonica“ (saugomo Paryžiuje), XVI a. vid.
-    pirmajame šimtuke.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-008
-- c-010
-  santrauka: 'Tačiau ir tomis sudėtingomis sąlygomis iškilo Vilniaus romantizmo mokykla, kurios didieji atstovai buvo Adomas Mickevičius ir Julius Slovackis (Juliusz Slowacki), o Vilniaus universitetas tuo metu išlaikė pozicijas Europos universitetų LDK herbas Vytis iš.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau ir tomis su-
-    dėtingomis sąlygomis iškilo Vilniaus romantizmo mokykla, kurios didieji
-    atstovai buvo Adomas Mickevičius ir Julius Slovackis (Juliusz Slowacki),
-    o Vilniaus universitetas tuo metu išlaikė pozicijas Europos universitetų
-    LDK herbas Vytis iš herbyno
-    „Stemmata Polonica“ (saugomo
-    Paryžiuje), XVI a. vid.
-
-    L I E T U V O S  I S T O R I J A
-    18
-    Gedimino stulpai ir Jogailos kryžius iš herbyno
-    „Stemmata Polonica“ (saugomo Paryžiuje), XVI a.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-009
-- c-011
-  santrauka: 'L I E T U V O S I S T O R I J A 18 Gedimino stulpai ir Jogailos kryžius iš herbyno „Stemmata Polonica“ (saugomo Paryžiuje), XVI a.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    L I E T U V O S  I S T O R I J A
-    18
-    Gedimino stulpai ir Jogailos kryžius iš herbyno
-    „Stemmata Polonica“ (saugomo Paryžiuje), XVI a. vid.
-    pirmajame šimtuke.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-010
 
 ## Ryšiai
 ### Teminiai klasteriai

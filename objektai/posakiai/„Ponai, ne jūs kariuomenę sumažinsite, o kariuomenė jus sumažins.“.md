@@ -30,13 +30,15 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Įsiutę karininkai vienam Seimo nariui populiariai išaiškino, kas atsitiks: „Ponai, ne jūs kariuomenę sumažinsite, o kariuomenė jus sumažins.“ Staigios reformos ir kilnūs valdžios siekiai atsisuko prieš ją pačią.'
+  teiginys: 'Posakis buvo įsiutusių karininkų perspėjimas Seimo nariui, valdžiai pradėjus mažinti karininkų skaičių.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Įsiutę karininkai vienam Seimo nariui populiariai išaiškino, kas atsitiks: „Ponai, ne jūs kariuomenę sumažinsite, o kariuomenė jus sumažins.“ Staigios reformos ir kilnūs valdžios siekiai atsisuko prieš ją pačią.'
+  santrauka: 'Posakis buvo įsiutusių karininkų perspėjimas Seimo nariui, valdžiai pradėjus mažinti karininkų skaičių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Naujoji valdžia, taupydama lėšas, mažino atlygini-
@@ -46,11 +48,11 @@ tags:
     Seimo nariui populiariai išaiškino, kas atsitiks: „Ponai, ne jūs kariuomenę
     sumažinsite, o kariuomenė jus sumažins.“ Staigios reformos ir kilnūs val-
     džios siekiai atsisuko prieš ją pačią.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

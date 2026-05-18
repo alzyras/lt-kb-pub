@@ -21,27 +21,24 @@ Todėl tik 1934 m. rugsėjo 12 d. Ženevoje sudaryta Baltijos valstybių politin
 
 ## Teiginiai
 - t-001
-  teiginys: 'Todėl tik 1934 m. rugsėjo 12 d. Ženevoje sudaryta Baltijos valstybių politinė ir diplomatinė sąjunga – Baltijos antantė arba Baltijos santarvė, siekusi stiprinti ekonominį, socialinį, teisinį ir administracinį bendradarbiavimą.'
+  teiginys: 'Baltijos antantė negarantavo Lietuvai Estijos ir Latvijos paramos konflikte su Lenkija dėl Vilniaus krašto.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Todėl tik 1934 m. rugsėjo 12 d. Ženevoje sudaryta Baltijos valstybių politinė ir diplomatinė sąjunga – Baltijos antantė arba Baltijos santarvė, siekusi stiprinti ekonominį, socialinį, teisinį ir administracinį bendradarbiavimą.'
+  santrauka: 'Baltijos antantė negarantavo Lietuvai Estijos ir Latvijos paramos konflikte su Lenkija dėl Vilniaus krašto.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau ji negaran-
     tavo Lietuvai Estijos ir Latvijos paramos konflikte su Lenkija dėl Vilniaus
     krašto, nors sustiprino regiono šalių bendradarbiavimą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Estija]]
-- [[objektai/vietos/Latvija]]

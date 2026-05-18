@@ -36,25 +36,27 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Grupė inteligentų 1883 m. Rytprūsiuose pradėjo leisti pirmąjį Didžiajai Lietuvai skirtą periodinį leidinį lietuvių kalba ir tradiciniu raidynu – mėnraštį „Aušra“ („Auszra“).'
+  teiginys: 'Slaptai leistas ir nelegaliai platintas mėnraštis telkė tautinio sąjūdžio jėgas ir kėlė lietuvių kultūrinių bei švietimo teisių reikalavimus.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Nors po trejų metų „Aušra“ dėl vidinių idėjinių nesutarimų ir finansinių sunkumų sustojo ėjusi, lietuvių kaip savarankiškos tautos ugdymo darbo tęsėjų gretas išplėtė, jie ėmė rengti ir leisti naujus periodinius leidinius lietuvių kalba.'
+  teiginys: 'Po trejų metų sustojusi „Aušra“ išplėtė lietuvių tautinio ugdymo tęsėjų gretas, kurios ėmė rengti ir leisti naujus lietuviškus periodinius leidinius.'
   pagrindžia:
     - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-003
   teiginys: '„Varpas“ laikėsi liberalios demokratijos pozicijų, kartais krypo į socialdemokratiją, svarstė politinės santvarkos klausimus, kritikavo caro režimą ir kultūros politiką, rūpinosi bendrinės literatūrinės lietuvių kalbos formavimu.'
   pagrindžia:
     - c-003
-- t-004
-  teiginys: 'Katalikiškos pakraipos spauda daugiausia dėmesio skyrė priešinimuisi rusinimo politikai, bet, laikydamasi bendrosios Bažnyčios doktrinos, užėmė lojalias pozicijas caro valdžios atžvilgiu.'
-  pagrindžia:
-    - c-004
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Grupė inteligentų 1883 m. Rytprūsiuose pradėjo leisti pirmąjį Didžiajai Lietuvai skirtą periodinį leidinį lietuvių kalba ir tradiciniu raidynu – mėnraštį „Aušra“ („Auszra“).'
+  santrauka: 'Slaptai leistas ir nelegaliai platintas mėnraštis telkė tautinio sąjūdžio jėgas ir kėlė lietuvių kultūrinių bei švietimo teisių reikalavimus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų
@@ -62,15 +64,15 @@ Nenurodyta
     pozicijų, kėlė reikalavimus, kad etniniams lietuviams būtų pripažintos bent
     jau tokios pačios kultūrinės galimybės ir švietimo sąlygos, kokias Rusijos
     imperijoje turi latviai ir estai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Nors po trejų metų „Aušra“ dėl vidinių idėjinių nesutarimų ir finansinių sunkumų sustojo ėjusi, lietuvių kaip savarankiškos tautos ugdymo darbo tęsėjų gretas išplėtė, jie ėmė rengti ir leisti naujus periodinius leidinius lietuvių kalba.'
+  santrauka: 'Po trejų metų sustojusi „Aušra“ išplėtė lietuvių tautinio ugdymo tęsėjų gretas, kurios ėmė rengti ir leisti naujus lietuviškus periodinius leidinius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nors po trejų metų „Aušra“ dėl
@@ -81,11 +83,11 @@ Nenurodyta
     plėtė, jie ėmė rengti ir leisti nau-
     jus periodinius leidinius lietuvių
     kalba.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 - c-003
@@ -97,27 +99,13 @@ Nenurodyta
     kritikavo caro režimą ir kultūros politiką, rūpinosi bendrinės literatūrinės
     lietuvių kalbos formavimu. Jame spausdinta gero lygio grožinė literatūra,
     poezija, originali ir verstinė, populiarūs mokslo straipsniai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
-- c-004
-  santrauka: 'Katalikiškos pakraipos spauda daugiausia dėmesio skyrė priešinimuisi rusinimo politikai, bet, laikydamasi bendrosios Bažnyčios doktrinos, užėmė lojalias pozicijas caro valdžios atžvilgiu.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Savo spaudą lietuvių ir lenkų kalbomis leido ir pirmoji su lietuvių
-    tautiniu sąjūdžiu susijusi politinė partija – Lietuviškoji socialdemokratų
-    partija, susikūrusi 1896 m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
 
 ## Ryšiai
 ### Teminiai klasteriai

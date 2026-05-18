@@ -18,21 +18,29 @@ Smetonos laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų
 
 ## Teiginiai
 - t-001
-  teiginys: 'Smetonos laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų Lietuvos pareigūnų atleidimas nepadėjo – birželio 14-osios rytą vermachtui įžengus į Paryžių, tos pat dienos vakare 11:45 J.'
+  teiginys: '1940 m. birželio 14 d. vakare J. Urbšys iš V. Molotovo gavo ultimatumą, kuriuo Lietuvai pareikalauta įsileisti neribotus sovietų karinius dalinius.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: 'Visą birželio 15-osios naktį vykusiame vyriausybės posėdyje svarstyta, ar priešintis okupacijai, ar priimti ultimatumą.'
   pagrindžia:
     - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-003
-  teiginys: 'Raštikis) motyvavo, kad viena Lietuva rimčiau pasipriešinti sovietų karinei mašinai negali, būtų daug aukų.'
+  teiginys: 'Kariuomenės vadas gen. V. Vitkauskas ir gen. S. Raštikis teigė, kad viena Lietuva negali rimčiau pasipriešinti sovietų karinei mašinai.'
   pagrindžia:
     - c-003
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Smetonos laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų Lietuvos pareigūnų atleidimas nepadėjo – birželio 14-osios rytą vermachtui įžengus į Paryžių, tos pat dienos vakare 11:45 J.'
+  santrauka: '1940 m. birželio 14 d. vakare J. Urbšys iš V. Molotovo gavo ultimatumą, kuriuo Lietuvai pareikalauta įsileisti neribotus sovietų karinius dalinius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau nei J. Urbšys, nei taikingas A. Smetonos
@@ -43,11 +51,11 @@ Smetonos laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų
     timi neribotus sovietų karinius dalinius, pakeistų vyriausybę į prosovieti-
     nę, nubaustų „kaltus“ pareigūnus ir duotų atsakymą iki birželio 15 dienos
     10 val. ryto.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
@@ -56,24 +64,24 @@ Smetonos laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų
   citata_originali: |
     Visą birželio 15-osios naktį vykusiame vyriausybės posėdyje svarstyta,
     ar priešintis okupacijai, ar priimti ultimatumą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Raštikis) motyvavo, kad viena Lietuva rimčiau pasipriešinti sovietų karinei mašinai negali, būtų daug aukų.'
+  santrauka: 'Kariuomenės vadas gen. V. Vitkauskas ir gen. S. Raštikis teigė, kad viena Lietuva negali rimčiau pasipriešinti sovietų karinei mašinai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kariškiai (kariuomenės vadas gen. V. Vitkauskas, gen.
     S.  Raštikis) motyvavo, kad viena Lietuva rimčiau pasipriešinti sovietų
     karinei mašinai negali, būtų daug aukų.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003

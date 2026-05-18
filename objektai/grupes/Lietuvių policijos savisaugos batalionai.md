@@ -18,28 +18,32 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Į žudynių parengimą, aukų konvojavimą ir šaudymą įtrauktos lietuvių savisaugos policijos grupės (policijos batalionai (vadinami TDA) – Zarasų, Kupiškio, Jonavos ir kt.), pagalbinės policijos ir policijos nuovadų policininkai, jau davę priesaiką A.'
+  teiginys: 'Lietuvių policijos savisaugos batalionai buvo įtraukti į žudynių parengimą, aukų konvojavimą ir šaudymą.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: 'Dalis lietuvių policijos savisaugos batalionų panaudoti akcijose prieš civilius Baltarusijoje, Lenkijoje, Ukrainoje.'
   pagrindžia:
     - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Į žudynių parengimą, aukų konvojavimą ir šaudymą įtrauktos lietuvių savisaugos policijos grupės (policijos batalionai (vadinami TDA) – Zarasų, Kupiškio, Jonavos ir kt.), pagalbinės policijos ir policijos nuovadų policininkai, jau davę priesaiką A.'
+  santrauka: 'Lietuvių policijos savisaugos batalionai buvo įtraukti į žudynių parengimą, aukų konvojavimą ir šaudymą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Į žudynių parengimą, aukų konvojavimą ir šaudymą įtrauk-
     tos lietuvių savisaugos policijos grupės (policijos batalionai (vadinami
     TDA) – Zarasų, Kupiškio, Jonavos ir kt.), pagalbinės policijos ir policijos
     nuovadų policininkai, jau davę priesaiką A. Hitleriui.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
@@ -49,10 +53,10 @@ tags:
     Dalis
     lietuvių policijos savisaugos batalionų panaudoti akcijose prieš civilius
     Baltarusijoje, Lenkijoje, Ukrainoje.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

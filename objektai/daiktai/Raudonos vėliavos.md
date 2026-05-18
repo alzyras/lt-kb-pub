@@ -35,13 +35,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Nuo 1926 m. rudens opozicija Seime ir savo spaudoje vis dažniau pradėjo kalbėti apie komunizmo grėsmę Lietuvos nepriklausomybei, kaltino valdžią netvarkant komunistų – sumažinus politinę policiją nebeliko kam tramdyti priešvalstybinius išsišokimus, chuliganai.'
+  teiginys: '1926 m. rudenį po komunistų mitingų chuliganai su raudonomis vėliavomis gatvėse užkabinėjo uniformuotus kariškius.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Nuo 1926 m. rudens opozicija Seime ir savo spaudoje vis dažniau pradėjo kalbėti apie komunizmo grėsmę Lietuvos nepriklausomybei, kaltino valdžią netvarkant komunistų – sumažinus politinę policiją nebeliko kam tramdyti priešvalstybinius išsišokimus, chuliganai.'
+  santrauka: '1926 m. rudenį po komunistų mitingų chuliganai su raudonomis vėliavomis gatvėse užkabinėjo uniformuotus kariškius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nuo 1926 m. rudens opozicija Seime
@@ -53,10 +55,10 @@ Nenurodyta
     opozicijoje esantis krikščionių demokratų blokas, tautininkai, karininkai
     ir juos palaikantieji (lapkritį raitoji policija brutaliai išvaikė patriotinę
     studentų demonstraciją).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

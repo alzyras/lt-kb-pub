@@ -18,14 +18,16 @@ tags:
 Katedros) aikštėje dalyvavo apie 30 tūkst., liepos 9 Vingio parke (LPS vadovybė per šį mitingą paskelbė reikalavimus legalizuoti tautinius simbolius: trispalvę ir „Tautišką giesmę“) – apie 100 tūkst. LKP vadovybei Aleksandras Jakovlevas pabrėžė, kad „inteligentija – liaudies savimonės išraiška“, – partija nebedraudė komunistams dalyvauti LPS rėmimo grupėse, oficialiai pripažino trispalvę ir „Tautišką giesmę“, pirmą kartą viešai Vingio parke leido paminėti.
 
 ## Teiginiai
-- t-002
-  teiginys: 'LKP vadovybei Aleksandras Jakovlevas pabrėžė, kad „inteligentija – liaudies savimonės išraiška“, – partija nebedraudė komunistams dalyvauti LPS rėmimo grupėse, oficialiai pripažino trispalvę ir „Tautišką giesmę“, pirmą kartą viešai Vingio parke leido paminėti.'
+- t-001
+  teiginys: 'Vingio parke pirmą kartą viešai leista paminėti Molotovo–Ribentropo paktą.'
   pagrindžia:
-    - c-002
+    - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'LKP vadovybei Aleksandras Jakovlevas pabrėžė, kad „inteligentija – liaudies savimonės išraiška“, – partija nebedraudė komunistams dalyvauti LPS rėmimo grupėse, oficialiai pripažino trispalvę ir „Tautišką giesmę“, pirmą kartą viešai Vingio parke leido paminėti.'
+- c-001
+  santrauka: 'Vingio parke pirmą kartą viešai leista paminėti Molotovo–Ribentropo paktą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     LKP vadovybei Aleksan-
@@ -34,10 +36,10 @@ Katedros) aikštėje dalyvavo apie 30 tūkst., liepos 9 Vingio parke (LPS vadovy
     aliai pripažino trispalvę ir „Tautišką giesmę“, pirmą kartą viešai Vingio
     parke leido paminėti Molotovo–Ribentropo paktą, pažadėjo LPS teisę
     leisti laikraštį ir nuolatinę televizijos laidą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001

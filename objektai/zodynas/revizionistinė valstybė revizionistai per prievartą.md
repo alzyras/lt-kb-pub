@@ -22,10 +22,14 @@ Tačiau Lietuva tik iš dalies tapo buferine valstybe, nes jos siekiai atgauti V
   teiginys: 'Tačiau Lietuva tik iš dalies tapo buferine valstybe, nes jos siekiai atgauti Vilnių vedė ją į revizionistinių valstybių draugiją, nors revizijos siekis netgi grėsė nepriklausomybės praradimu.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: 'Žinoma, kad lietuviai tapo „revizionistais per prievartą“.'
   pagrindžia:
     - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -36,11 +40,11 @@ Tačiau Lietuva tik iš dalies tapo buferine valstybe, nes jos siekiai atgauti V
     čiau Lietuva tik iš dalies tapo buferine valstybe, nes jos siekiai atgauti
     Vilnių vedė ją į revizionistinių valstybių draugiją, nors revizijos siekis
     netgi grėsė nepriklausomybės praradimu.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
@@ -49,15 +53,14 @@ Tačiau Lietuva tik iš dalies tapo buferine valstybe, nes jos siekiai atgauti V
   citata_originali: |
     Žinoma, kad lietuviai tapo
     „revizionistais per prievartą“.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/buferinė valstybė saugumo kordonas cordon sanitaire]]
-- [[objektai/posakiai/„revizionistais per prievartą“]]

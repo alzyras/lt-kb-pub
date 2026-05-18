@@ -19,27 +19,25 @@ Taip atsirado nacionalinė eurokomunistinio tipo partija, turinti reformuotą pr
 
 ## Teiginiai
 - t-001
-  teiginys: 'Taip atsirado nacionalinė eurokomunistinio tipo partija, turinti reformuotą programą ir naują statutą.'
+  teiginys: 'Savarankiška LKP tapo nacionaline eurokomunistinio tipo partija su reformuota programa ir nauju statutu.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Taip atsirado nacionalinė eurokomunistinio tipo partija, turinti reformuotą programą ir naują statutą.'
+  santrauka: 'Savarankiška LKP tapo nacionaline eurokomunistinio tipo partija su reformuota programa ir nauju statutu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taip atsirado nacionalinė eurokomunistinio tipo partija,
     turinti reformuotą programą ir naują statutą. Savarankiška LKP, vėliau
     pasivadinusi Lietuvos demokratine darbo partija (LDDP), pasirinko so-
     cialdemokratinę orientaciją.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuvos demokratinė darbo partija]]

@@ -20,31 +20,37 @@ Tuo laikotarpiu okupacinė valdžia kovai su partizanais vis dažniau naudojo ag
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tuo laikotarpiu okupacinė valdžia kovai su partizanais vis dažniau naudojo agentų smogikų (mišrius iš užverbuotų buvusių partizanų ir MGB kadrinių karininkų) būrius.'
+  teiginys: 'Okupacinė valdžia kovai su partizanais vis dažniau naudojo agentų smogikų būrius, sudarytus iš užverbuotų buvusių partizanų ir MGB karininkų.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: 'MGB-KGB agentai smogikai naudojo rezistencijos atributiką ir uniformas terorui, rezistentams naikinti, kankindavo ginkluoto pasipriešinimo dalyvius, tarp jų moteris, senelius, vaikus, sušaudydavo partizanų ryšininkus, rėmėjus.'
   pagrindžia:
     - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-003
-  teiginys: 'Šiame kare, kaip ir kiekviename, neišvengta ir didelių civilių gyventojų aukų; daug tokių aukų būta vietovėse, kur veikė sovietų smogikai, partizanų būriai piktnaudžiavo alkoholiu arba tarp jų pasitaikė žydų žudynėse dalyvavusių asmenų – nors ir nedaug, būta.'
+  teiginys: 'Daug civilių aukų būta vietovėse, kur veikė sovietų smogikai arba partizanų būriai piktnaudžiavo alkoholiu.'
   pagrindžia:
     - c-003
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tuo laikotarpiu okupacinė valdžia kovai su partizanais vis dažniau naudojo agentų smogikų (mišrius iš užverbuotų buvusių partizanų ir MGB kadrinių karininkų) būrius.'
+  santrauka: 'Okupacinė valdžia kovai su partizanais vis dažniau naudojo agentų smogikų būrius, sudarytus iš užverbuotų buvusių partizanų ir MGB karininkų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tuo laikotarpiu okupacinė valdžia kovai su partizanais
     vis dažniau naudojo agentų smogikų (mišrius iš užverbuotų buvusių par-
     tizanų ir MGB kadrinių karininkų) būrius.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
@@ -55,15 +61,15 @@ Tuo laikotarpiu okupacinė valdžia kovai su partizanais vis dažniau naudojo ag
     dojo rezistencijos atributiką ir uniformas terorui, rezistentams naikinti,
     kankindavo ginkluoto pasipriešinimo dalyvius, tarp jų moteris, senelius,
     vaikus, sušaudydavo partizanų ryšininkus, rėmėjus.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Šiame kare, kaip ir kiekviename, neišvengta ir didelių civilių gyventojų aukų; daug tokių aukų būta vietovėse, kur veikė sovietų smogikai, partizanų būriai piktnaudžiavo alkoholiu arba tarp jų pasitaikė žydų žudynėse dalyvavusių asmenų – nors ir nedaug, būta.'
+  santrauka: 'Daug civilių aukų būta vietovėse, kur veikė sovietų smogikai arba partizanų būriai piktnaudžiavo alkoholiu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šiame kare, kaip ir kiekviename, neišvengta ir didelių civilių
@@ -72,11 +78,11 @@ Tuo laikotarpiu okupacinė valdžia kovai su partizanais vis dažniau naudojo ag
     žudynėse dalyvavusių asmenų – nors ir nedaug, būta ir tokių, nes būrių ir
     apygardų vadai neturėjo galimybių patikrinti savo kovotojų dosjė, be to,
     neigiamą įtaką darė ir ilgas gyvenimas po žeme, bunkeriuose.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
 

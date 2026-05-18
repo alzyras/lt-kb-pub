@@ -25,13 +25,15 @@ Postūmį įstoti į NATO ypač sustiprino lapkričio 23 dieną JAV prezidento D
 
 ## Teiginiai
 - t-001
-  teiginys: 'Postūmį įstoti į NATO ypač sustiprino lapkričio 23 dieną JAV prezidento Džordžo Bušo (George Bush) Vilniuje pasakyti istoriniai žodžiai: „Mūsų sąjunga pasiryžusi ginti savo nares.'
+  teiginys: 'Džordžas Bušas Vilniuje pareiškė, kad JAV laikytų Lietuvos priešus ir savo priešais.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Postūmį įstoti į NATO ypač sustiprino lapkričio 23 dieną JAV prezidento Džordžo Bušo (George Bush) Vilniuje pasakyti istoriniai žodžiai: „Mūsų sąjunga pasiryžusi ginti savo nares.'
+  santrauka: 'Džordžas Bušas Vilniuje pareiškė, kad JAV laikytų Lietuvos priešus ir savo priešais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Postūmį įstoti į NATO ypač sustiprino lapkričio 23 dieną JAV prezidento
@@ -40,11 +42,11 @@ Postūmį įstoti į NATO ypač sustiprino lapkričio 23 dieną JAV prezidento D
     priešu, taptų ir Jungtinių Amerikos Valstijų priešu.“ Dž. Bušas taip pat
     priminė, kad JAV niekada nepripažino Lietuvos okupacijos ir visada
     tikėjo, jog mūsų „žemynas nebus padalytas per amžius“.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

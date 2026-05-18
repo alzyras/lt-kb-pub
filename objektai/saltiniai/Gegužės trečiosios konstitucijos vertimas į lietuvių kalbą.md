@@ -19,23 +19,27 @@ Neatsitiktinai tuo metu konstitucija išverčiama ir į lietuvių kalbą, o tai 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Neatsitiktinai tuo metu konstitucija išverčiama ir į lietuvių kalbą, o tai yra per mažai įvertinta Lietuvos kultūros istorijoje, nes iki tol lietuviškai teturėjome religinės ir grožinės literatūros tekstų.'
+  teiginys: 'Gegužės trečiosios konstitucija buvo išversta į lietuvių kalbą tuo metu, kai lietuviškai daugiausia buvo religinių ir grožinių tekstų.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Neatsitiktinai tuo metu konstitucija išverčiama ir į lietuvių kalbą, o tai yra per mažai įvertinta Lietuvos kultūros istorijoje, nes iki tol lietuviškai teturėjome religinės ir grožinės literatūros tekstų.'
+  santrauka: 'Gegužės trečiosios konstitucija buvo išversta į lietuvių kalbą tuo metu, kai lietuviškai daugiausia buvo religinių ir grožinių tekstų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Neatsitiktinai tuo metu konsti-
     tucija išverčiama ir į lietuvių kalbą, o tai yra per mažai įvertinta Lietuvos
     kultūros istorijoje, nes iki tol lietuviškai teturėjome religinės ir grožinės
     literatūros tekstų.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

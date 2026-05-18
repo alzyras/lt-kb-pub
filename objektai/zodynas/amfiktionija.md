@@ -43,14 +43,16 @@ Terminas pateikiamas kaip senovės graikų analogija, padedanti aiškinti žynio
 Vartojama lyginamajame religinių-politinių institucijų aiškinime.
 
 ## Teiginiai
-- t-001
+- t-002
   teiginys: 'Kad būtų išlaikyta politinė pusiausvyra, žynys įsikūrė silpniausios genties (Nadruvos) teritorijoje; tai primena senovės graikų amfiktioniją – polių sąjungą, sudarytą tarpgentinėje teritorijoje esančiai šventovei ginti.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Amfiktionija apibūdinama kaip polių sąjunga.
+  santrauka: 'Kad būtų išlaikyta politinė pusiausvyra, žynys įsikūrė silpniausios genties (Nadruvos) teritorijoje; tai primena senovės graikų amfiktioniją – polių sąjungą, sudarytą tarpgentinėje teritorijoje esančiai šventovei ginti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kad būtų išlaikyta politinė pusiausvyra, žynys įsikūrė silpniausios genties
@@ -60,9 +62,9 @@ Vartojama lyginamajame religinių-politinių institucijų aiškinime.
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Exact citata pridėta po public_notes_have_evidence validacijos klaidos."
-  pagrindžia: []
-    - t-001
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -70,5 +72,4 @@ Vartojama lyginamajame religinių-politinių institucijų aiškinime.
 - [[temos/religinis-terminas]]
 
 ### Susiję objektai
-- [[objektai/daiktai/Aukuro kalnai ir akmenys]]
 - [[objektai/vietos/Nadruva]]

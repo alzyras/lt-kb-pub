@@ -18,22 +18,24 @@ O valdžios olimpe įsitvirtinus Leonidui Brežnevui, sustiprėjus revanšistin�
 
 ## Teiginiai
 - t-001
-  teiginys: 'O valdžios olimpe įsitvirtinus Leonidui Brežnevui, sustiprėjus revanšistinėms stalininėms jėgoms Maskvoje, valdymas vėl sugriežtintas – imta persekioti kitaminčius (1967–1975 m. Lietuvoje už antisovietinę agitaciją ir propagandą nuteisti 1 583 asmenys).'
+  teiginys: 'Leonidui Brežnevui įsitvirtinus valdžioje, Maskvoje sustiprėjo stalininės jėgos ir valdymas vėl buvo sugriežtintas.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'O valdžios olimpe įsitvirtinus Leonidui Brežnevui, sustiprėjus revanšistinėms stalininėms jėgoms Maskvoje, valdymas vėl sugriežtintas – imta persekioti kitaminčius (1967–1975 m. Lietuvoje už antisovietinę agitaciją ir propagandą nuteisti 1 583 asmenys).'
+  santrauka: 'Leonidui Brežnevui įsitvirtinus valdžioje, Maskvoje sustiprėjo stalininės jėgos ir valdymas vėl buvo sugriežtintas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     O valdžios olimpe įsitvirtinus Leo-
     nidui Brežnevui, sustiprėjus revanšistinėms stalininėms jėgoms Maskvoje,
     valdymas vėl sugriežtintas – imta persekioti kitaminčius (1967–1975 m.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

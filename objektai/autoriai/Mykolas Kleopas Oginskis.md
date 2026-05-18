@@ -42,34 +42,45 @@ Mykolas Kleopas Oginskis vadinamas garsiojo polonezo „Atsisveikinimas su Tėvy
 - LDK atkūrimo projektas
 
 ## Teiginiai
-- t-001
-  teiginys: "Mykolas Kleopas Oginskis vadinamas polonezo „Atsisveikinimas su Tėvyne“ autoriumi."
+- t-006
+  teiginys: 'Mykolas Kleopas Oginskis vadinamas polonezo „Atsisveikinimas su Tėvyne“ autoriumi.'
+  pagrindžia:
+    - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+- t-007
+  teiginys: 'Mykolas Kleopas Oginskis buvo stambus dvarininkas, kompozitorius ir polonezo „Atsisveikinimas su Tėvyne“ autorius.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: "Oginskis pristatomas kaip paskutinio LDK atkūrimo projekto autorius."
-  pagrindžia:
-    - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: 'Vienas iš tokių grįžusiųjų bus stambus dvarininkas ir kompozitorius, garsiojo polonezo „Atsisveikinimas su Tėvyne“ autorius Mykolas Kleopas Oginskis.'
+- t-008
+  teiginys: 'Mykolas Kleopas Oginskis buvo 1794 m. sukilėlis ir paskutinio LDK atkūrimo projekto autorius.'
   pagrindžia:
     - c-003
-- t-004
-  teiginys: '1794 m. sukilėlis, paskutinio LDK atkūrimo projekto autorius Mykolas Kleopas Oginskis.'
-  pagrindžia:
-    - c-002
-- t-005
-  teiginys: 'Liko galioti Lietuvos Statutas, lenkų kalba leista savivaldos institucijose, aps- 1794 m. sukilėlis, paskutinio LDK atkūrimo projekto autorius Mykolas Kleopas Oginskis.'
-  pagrindžia:
-    - c-004
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Oginskis pristatomas kaip kompozitorius ir polonezo autorius.
+  santrauka: 'Mykolas Kleopas Oginskis buvo stambus dvarininkas, kompozitorius ir polonezo „Atsisveikinimas su Tėvyne“ autorius.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vienas
+    iš tokių grįžusiųjų bus stambus
+    dvarininkas ir kompozitorius,
+    garsiojo polonezo „Atsisveikini-
+    mas su Tėvyne“ autorius Mykolas
+    Kleopas Oginskis.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-007
+- c-002
+  santrauka: 'Mykolas Kleopas Oginskis vadinamas polonezo „Atsisveikinimas su Tėvyne“ autoriumi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vienas
@@ -86,42 +97,11 @@ Mykolas Kleopas Oginskis vadinamas garsiojo polonezo „Atsisveikinimas su Tėvy
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-- c-002
-  santrauka: Iliustracijos antraštė Oginskį sieja su paskutinio LDK atkūrimo projekto autoryste.
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Dail. F. X. Fabre, 1805–1806 m.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  priskyrimo_pagrindas: explicit_name
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
+    - t-006
 - c-003
-  santrauka: 'Vienas iš tokių grįžusiųjų bus stambus dvarininkas ir kompozitorius, garsiojo polonezo „Atsisveikinimas su Tėvyne“ autorius Mykolas Kleopas Oginskis.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vienas
-    iš tokių grįžusiųjų bus stambus
-    dvarininkas ir kompozitorius,
-    garsiojo polonezo „Atsisveikini-
-    mas su Tėvyne“ autorius Mykolas
-    Kleopas Oginskis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Liko galioti Lietuvos Statutas, lenkų kalba leista savivaldos institucijose, aps- 1794 m. sukilėlis, paskutinio LDK atkūrimo projekto autorius Mykolas Kleopas Oginskis.'
+  santrauka: 'Mykolas Kleopas Oginskis buvo 1794 m. sukilėlis ir paskutinio LDK atkūrimo projekto autorius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Liko ga-
@@ -130,19 +110,15 @@ Mykolas Kleopas Oginskis vadinamas garsiojo polonezo „Atsisveikinimas su Tėvy
     1794 m. sukilėlis, paskutinio
     LDK atkūrimo projekto autorius
     Mykolas Kleopas Oginskis.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
+    - t-008
 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIX amžius]]
 - [[laikotarpiai/XVIII amžius]]
-
-### Susiję objektai
-- [[objektai/paprociai/Kandidatas 45 Rusijos imperijos vietinė luominė savivalda ir bajorų seimeliai]]
-- [[objektai/paprociai/Kandidatas Rusijos imperijos vietinė luominė savivalda ir bajorų seimeliai]]

@@ -21,80 +21,90 @@ Autoritarinį prezidento režimą 1938 m. gegužės 12 d. sustiprino paskelbta n
 
 ## Teiginiai
 - t-001
-  teiginys: 'Autoritarinį prezidento režimą 1938 m. gegužės 12 d. sustiprino paskelbta nauja šalies konstitucija, kurią pasirašė prezidentas A.'
+  teiginys: '1938 m. Konstitucija suteikė prezidentui teisę leisti įstatymus, sudaryti ir ratifikuoti sutartis bei skirti aukščiausius pareigūnus.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Nors diplomatiniai santykiai buvo atkurti, Lenkijos ir Lietuvos bendradarbiavimas nesusiklostė.'
+  teiginys: '1938 m. gegužę priimtoje naujoje konstitucijoje vėl buvo įrašyta, kad Vilnius yra Lietuvos sostinė.'
   pagrindžia:
     - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-003
-  teiginys: 'Merkys teisėtai tapo prezidentu, nes, kaip laikinai einantis pareigas, pagal Lietuvos konstituciją neturėjo teisės skirti naujo vyriausybės vadovo.'
+  teiginys: 'V. Dekanozovo paliepimu A. Smetonos išvykimas buvo pateiktas kaip atsistatydinimas, sudarant įspūdį, kad A. Merkys teisėtai tapo prezidentu.'
   pagrindžia:
     - c-003
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-004
-  teiginys: 'Tam reikėjo nutraukti svetimos valstybės konstitucinių aktų galiojimą Lietuvoje ir, vadovaujantis valstybės tęstinumu bei tapatumu, atkurti paskutinės nepriklausomos Lietuvos (1918–1940 m.) konstitucijos galiojimą.'
+  teiginys: 'Atkuriant valstybę reikėjo nutraukti svetimos valstybės konstitucinių aktų galiojimą ir atkurti paskutinės nepriklausomos Lietuvos konstituciją.'
   pagrindžia:
     - c-004
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Autoritarinį prezidento režimą 1938 m. gegužės 12 d. sustiprino paskelbta nauja šalies konstitucija, kurią pasirašė prezidentas A.'
+  santrauka: '1938 m. Konstitucija suteikė prezidentui teisę leisti įstatymus, sudaryti ir ratifikuoti sutartis bei skirti aukščiausius pareigūnus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Prezi-
     dentas gali leisti įstatymus, sudaryti ir ratifikuoti sutartis, atleisti ir skirti
     aukščiausius pareigūnus, kaip vyriausiasis ginkluotųjų pajėgų vadas jis
     skiria ir atleidžia kariuomenės vadą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Nors diplomatiniai santykiai buvo atkurti, Lenkijos ir Lietuvos bendradarbiavimas nesusiklostė.'
+  santrauka: '1938 m. gegužę priimtoje naujoje konstitucijoje vėl buvo įrašyta, kad Vilnius yra Lietuvos sostinė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nors diplomatiniai santykiai buvo atkurti, Lenkijos ir
     Lietuvos bendradarbiavimas nesusiklostė. Lietuva tai laikė taktiniu atsi-
     traukimu ir 1938 m. gegužę priimtoje naujoje konstitucijoje vėl įrašė, kad
     Vilnius yra Lietuvos sostinė.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Merkys teisėtai tapo prezidentu, nes, kaip laikinai einantis pareigas, pagal Lietuvos konstituciją neturėjo teisės skirti naujo vyriausybės vadovo.'
+  santrauka: 'V. Dekanozovo paliepimu A. Smetonos išvykimas buvo pateiktas kaip atsistatydinimas, sudarant įspūdį, kad A. Merkys teisėtai tapo prezidentu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     V. Dekanozovo paliepimu A. Smetonos išvykimas paaiškintas kaip prezi-
     dento atsistatydinimas ir sudarytas įspūdis, kad A. Merkys teisėtai tapo
     prezidentu, nes, kaip laikinai einantis pareigas, pagal Lietuvos konstituci-
     ją neturėjo teisės skirti naujo vyriausybės vadovo.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
 - c-004
-  santrauka: 'Tam reikėjo nutraukti svetimos valstybės konstitucinių aktų galiojimą Lietuvoje ir, vadovaujantis valstybės tęstinumu bei tapatumu, atkurti paskutinės nepriklausomos Lietuvos (1918–1940 m.) konstitucijos galiojimą.'
+  santrauka: 'Atkuriant valstybę reikėjo nutraukti svetimos valstybės konstitucinių aktų galiojimą ir atkurti paskutinės nepriklausomos Lietuvos konstituciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tam reikė-
     jo nutraukti svetimos valstybės konstitucinių aktų galiojimą Lietuvoje
     ir, vadovaujantis valstybės tęstinumu bei tapatumu, atkurti paskutinės
     nepriklausomos Lietuvos (1918–1940 m.) konstitucijos galiojimą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004

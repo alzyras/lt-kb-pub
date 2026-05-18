@@ -35,26 +35,27 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lietuvos europėjimas neįsivaizduojamas be bažnytinės organizacijos sukūrimo.'
+  teiginys: 'Net toli nuo vyskupijų centrų buvo kuriamos parapijos ir statomos bažnyčios.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lietuvos europėjimas neįsivaizduojamas be bažnytinės organizacijos sukūrimo.'
+  santrauka: 'Net toli nuo vyskupijų centrų buvo kuriamos parapijos ir statomos bažnyčios.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Visur, net ir toliausiai nuo vyskupijų centrų, kurtos parapijos ir statytos
     bažnyčios.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/daiktai/Bažnyčių altoriai, paveikslai, skulptūros, freskos ir vargonai]]
 - [[objektai/paprociai/Kandidatas Katalikiškos bažnytinės organizacijos plėtimas parapijomis, vienuolijomis ir bažnyčiomis]]

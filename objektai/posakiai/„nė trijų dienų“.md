@@ -31,32 +31,15 @@ Kovo 20 dieną Vokietijai ultimatyviai pareikalavus perduoti jai Klaipėdos.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kovo 20 dieną Vokietijai ultimatyviai pareikalavus perduoti jai Klaipėdos.'
+  teiginys: '1939 m. kovo 20 d. Vokietija ultimatyviai pareikalavo perduoti Klaipėdos kraštą ir pagrasino kariuomenės įžygiavimu.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Kovo 20 dieną Vokietijai ultimatyviai pareikalavus perduoti jai Klaipėdos L I E T U V O S I S T O R I J A 182 kraštą, pagrasinus, kad vokiečių kariuomenė priešingu atveju įžygiuos į tą teritoriją ir nežinia kur sustos, 5 valandas trukusiame Ministrų kabineto.'
-  pagrindžia:
-    - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kovo 20 dieną Vokietijai ultimatyviai pareikalavus perduoti jai Klaipėdos.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1939 m.
-    pradžioje Vokietijai jau ruošiantis žygiuoti į Klaipėdą, britai ir prancūzai
-    (Klaipėdos konvencijos signatarai) pranešė, jog jie negarantuoja Klaipė-
-    dai status quo, o be pagalbos išlaikyti Klaipėdą Lietuva nebegalėjo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Kovo 20 dieną Vokietijai ultimatyviai pareikalavus perduoti jai Klaipėdos L I E T U V O S I S T O R I J A 182 kraštą, pagrasinus, kad vokiečių kariuomenė priešingu atveju įžygiuos į tą teritoriją ir nežinia kur sustos, 5 valandas trukusiame Ministrų kabineto.'
+  santrauka: '1939 m. kovo 20 d. Vokietija ultimatyviai pareikalavo perduoti Klaipėdos kraštą ir pagrasino kariuomenės įžygiavimu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Norint išlaikyti Klaipėdą, Lietuvai reikėjo šimtų milijonų litų investici-
@@ -71,19 +54,15 @@ Kovo 20 dieną Vokietijai ultimatyviai pareikalavus perduoti jai Klaipėdos.
     kraštą, pagrasinus, kad vokiečių kariuomenė priešingu atveju įžygiuos į
     tą teritoriją ir nežinia kur sustos, 5 valandas trukusiame Ministrų kabi-
     neto posėdyje A.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
 - [[laikotarpiai/XXI amžius]]
-
-### Susiję objektai
-- [[objektai/zodynas/Status quo]]
-- [[objektai/ivykiai/Vokietijos ultimatumas ir Klaipėdos krašto perdavimas Vokietijai (1939 m. kovo 20-23 d.)]]

@@ -42,91 +42,15 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
 
 ## Teiginiai
 - t-001
-  teiginys: 'Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios – į apygardas.'
+  teiginys: 'LDK bajorija turėjo dvilypį tautinį mentalitetą: vadino save ir lietuviais, ir lenkais.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Lietuvos Didžiajai Kunigaikštijai liko tik etninės lietuvių ir vakarinės baltarusių žemės.'
-  pagrindžia:
-    - c-002
-- t-003
-  teiginys: 'Už Lietuvos ribų Lietuvos bajorai laikyti tiesiog lenkais.'
-  pagrindžia:
-    - c-003
-- t-004
-  teiginys: '1840 m. panaikintas Lietuvos Statutas, o teismų sistema surusinta.'
-  pagrindžia:
-    - c-004
-- t-005
-  teiginys: 'Jie turėjo dvilypį tautinį mentalitetą – vadino save sykiu ir lietuviais, ir lenkais (LDK bajorija nesutiko visiškai integruotis į senąją Lenkijos Karalystę, nors ir nelinko nuo jos atsiskirti).'
-  pagrindžia:
-    - c-005
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios – į apygardas.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Valstybė buvo padalyta į Lenkijos ir Lietuvos
-    švietimo provincijas, o šios – į apygardas. Lietuvos provincijos švietimą
-    tvarkė reformuotas Vilniaus universitetas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Lietuvos Didžiajai Kunigaikštijai liko tik etninės lietuvių ir vakarinės baltarusių žemės.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuvos
-    Didžiajai Kunigaikštijai liko tik etninės lietuvių ir vakarinės baltarusių
-    žemės.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Už Lietuvos ribų Lietuvos bajorai laikyti tiesiog lenkais.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau bajorai – dvarininkai sudarė tik ¼ dalį vietos bajorų
-    luomo, dauguma jų – mažažemiai ir bežemiai bajorai, kalbėję daugiausia
-    lenkų kalba ir puoselėję buvusio valstybingumo atminimą ir tradicijas.
-    Jie turėjo dvilypį tautinį mentalitetą – vadino save sykiu ir lietuviais, ir
-    lenkais (LDK bajorija nesutiko visiškai integruotis į senąją Lenkijos Kara-
-    lystę, nors ir nelinko nuo jos atsiskirti). Už Lietuvos ribų Lietuvos bajorai
-    laikyti tiesiog lenkais.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: '1840 m. panaikintas Lietuvos Statutas, o teismų sistema surusinta.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1840 m. panaikintas
-    Lietuvos Statutas, o teismų sistema surusinta. Lietuvos vardas pašalintas
-    iš Vilniaus ir Gardino gubernijų pavadinimų, buvusios LLV žemės imtos
-    traktuoti kaip Vakarų Rusija, o buvusios LDK teritorija pavadinta Šiaurės
-    Vakarų kraštu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
-- c-005
-  santrauka: 'Jie turėjo dvilypį tautinį mentalitetą – vadino save sykiu ir lietuviais, ir lenkais (LDK bajorija nesutiko visiškai integruotis į senąją Lenkijos Karalystę, nors ir nelinko nuo jos atsiskirti).'
+  santrauka: 'LDK bajorija turėjo dvilypį tautinį mentalitetą: vadino save ir lietuviais, ir lenkais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Jie turėjo dvilypį tautinį mentalitetą – vadino save sykiu ir lietuviais, ir
@@ -157,13 +81,13 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
     ratą. Vietinio valdymo grandyje buvo gubernija, kurios galva – caro ski-
     riamas, bet vidaus reikalų žinybai pavaldus gubernatorius, atsiunčiamas
     iš centro arba kitų gubernijų.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
+    - t-001
 
 ## Ryšiai
 ### Laikotarpiai
@@ -171,8 +95,3 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
 - [[laikotarpiai/XVIII amžius]]
 - [[laikotarpiai/XX amžius]]
 - [[laikotarpiai/XXI amžius]]
-
-### Susiję objektai
-- [[objektai/ivykiai/Antrasis LLV padalijimas]]
-- [[objektai/grupes/Bajorai]]
-- [[objektai/zodynas/rusinimas Vakarų Rusija Šiaurės Vakarų kraštas]]

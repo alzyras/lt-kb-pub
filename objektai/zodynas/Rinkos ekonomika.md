@@ -19,13 +19,15 @@ Sukūrusi laisvą demokratinę visuomenę ir rinkos ekonomiką Lietuva tapo prik
 
 ## Teiginiai
 - t-001
-  teiginys: 'Sukūrusi laisvą demokratinę visuomenę ir rinkos ekonomiką Lietuva tapo priklausoma nuo pasaulinių ir regioninių ekonomikos krizių, globalizacijos poveikių, naujos galimybės gyventojams keisti gyvenamąją vietą iškėlė nematyto masto emigracijos grėsmių, tad ir.'
+  teiginys: 'Sukūrusi rinkos ekonomiką Lietuva tapo jautresnė pasaulinėms ir regioninėms ekonomikos krizėms bei globalizacijos poveikiui.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Sukūrusi laisvą demokratinę visuomenę ir rinkos ekonomiką Lietuva tapo priklausoma nuo pasaulinių ir regioninių ekonomikos krizių, globalizacijos poveikių, naujos galimybės gyventojams keisti gyvenamąją vietą iškėlė nematyto masto emigracijos grėsmių, tad ir.'
+  santrauka: 'Sukūrusi rinkos ekonomiką Lietuva tapo jautresnė pasaulinėms ir regioninėms ekonomikos krizėms bei globalizacijos poveikiui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sukūrusi laisvą demokratinę
@@ -36,10 +38,10 @@ Sukūrusi laisvą demokratinę visuomenę ir rinkos ekonomiką Lietuva tapo prik
     XXI a. ieško ir ieškos atsakymų į visus svarbiausius savo, visos Europos
     ir pasaulio reiškinių metamus iššūkius jau kaip demokratinės Europos ir
     transatlantinio saugumo sistemos sudedamoji dalis.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

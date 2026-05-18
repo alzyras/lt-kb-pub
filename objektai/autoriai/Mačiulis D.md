@@ -19,21 +19,23 @@ Mačiulis D.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Mačiulis D.'
+  teiginys: 'D. Mačiulis parašė veikalą „Valstybės kultūros politika Lietuvoje 1927–1940 metais“, išleistą Vilniuje 2005 m.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Mačiulis D.'
+  santrauka: 'D. Mačiulis parašė veikalą „Valstybės kultūros politika Lietuvoje 1927–1940 metais“, išleistą Vilniuje 2005 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Mačiulis D. Valstybės kultūros politika Lietuvoje 1927–1940 metais. Vilnius,
     2005.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

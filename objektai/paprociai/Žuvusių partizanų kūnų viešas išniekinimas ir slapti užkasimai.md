@@ -59,8 +59,8 @@ Sovietinės represinės institucijos partizaninio judėjimo atramai slopinti nau
 - Praktika susieta su trėmimais, kankinimais ir kitomis represinėmis priemonėmis.
 
 ## Teiginiai
-- t-001
-  teiginys: "Represinės institucijos slopindamos partizaninio judėjimo atramą viešai išniekindavo žuvusių partizanų kūnus ir neleisdavo jų palaidoti."
+- t-002
+  teiginys: 'Represinės institucijos viešai išniekindavo žuvusių partizanų kūnus, neleisdavo jų palaidoti ir slapčia užkasdavo pelkėse ar šiukšlynuose.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -68,7 +68,7 @@ Sovietinės represinės institucijos partizaninio judėjimo atramai slopinti nau
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Citata aprašo kūnų išmetimą aikštėse, viešą išniekinimą ir slaptą užkasimą.
+  santrauka: 'Represinės institucijos viešai išniekindavo žuvusių partizanų kūnus, neleisdavo jų palaidoti ir slapčia užkasdavo pelkėse ar šiukšlynuose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Represinės instituci-
@@ -82,9 +82,9 @@ Sovietinės represinės institucijos partizaninio judėjimo atramai slopinti nau
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata patikrinta kaip pažodinis darbinio šaltinio fragmentas."
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Šaltiniai ir įrodymai
 

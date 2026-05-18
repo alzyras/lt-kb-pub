@@ -33,10 +33,14 @@ Nenurodyta
   teiginys: 'LLL apie save ypač drąsiai pareiškė 1987 m. rugpjūčio 23 d., minint 50-ąsias Molotovo–Ribentropo pakto pasirašymo metines, jos iniciatyva prie Adomo Mickevičiaus paminklo Vilniuje surengtas protesto mitingas.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Lietuvos laisvės lygos surengtas pirmasis sovietmečiu viešas nesankcionuotas mitingas Vilniuje, skirtas Molotovo– Ribentropo paktui paminėti.'
+  teiginys: 'Lietuvos laisvės lyga Vilniuje surengė pirmąjį sovietmečiu viešą nesankcionuotą mitingą Molotovo–Ribentropo paktui paminėti.'
   pagrindžia:
     - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -47,15 +51,15 @@ Nenurodyta
     siai pareiškė 1987 m. rugpjūčio 23 d., minint 50-ąsias Molotovo–Riben-
     tropo pakto pasirašymo metines, jos iniciatyva prie Adomo Mickevičiaus
     paminklo Vilniuje surengtas protesto mitingas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Lietuvos laisvės lygos surengtas pirmasis sovietmečiu viešas nesankcionuotas mitingas Vilniuje, skirtas Molotovo– Ribentropo paktui paminėti.'
+  santrauka: 'Lietuvos laisvės lyga Vilniuje surengė pirmąjį sovietmečiu viešą nesankcionuotą mitingą Molotovo–Ribentropo paktui paminėti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Prahos įvykių Lietuvoje pradėjo kurtis „organizacijos be organizacijos“, į
@@ -64,15 +68,14 @@ Nenurodyta
     Lietuvos laisvės lygos surengtas pirmasis sovietmečiu
     viešas nesankcionuotas mitingas Vilniuje, skirtas Molotovo–
     Ribentropo paktui paminėti.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Adomo Mickevičiaus paminklas Vilniuje]]
-- [[objektai/posakiai/„organizacijos be organizacijos“]]

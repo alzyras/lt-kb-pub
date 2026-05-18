@@ -30,13 +30,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Suvalkijos valstiečiai pa­skelbė streiką, draudė pristatyti pieną į Kauną ir keliuose pastatė postus, o juos ardant kilo riaušės, policija Veiveriuose nušovė tris valstiečius, šimtus areštavo.'
+  teiginys: '1935 m. Suvalkijos valstiečiai paskelbė streiką, draudė pristatyti pieną į Kauną, o Veiveriuose policija nušovė tris valstiečius.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Suvalkijos valstiečiai pa­skelbė streiką, draudė pristatyti pieną į Kauną ir keliuose pastatė postus, o juos ardant kilo riaušės, policija Veiveriuose nušovė tris valstiečius, šimtus areštavo.'
+  santrauka: '1935 m. Suvalkijos valstiečiai paskelbė streiką, draudė pristatyti pieną į Kauną, o Veiveriuose policija nušovė tris valstiečius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1935 m. „Pienocentras“, su-
@@ -44,11 +46,11 @@ Nenurodyta
     kai­nas. Suvalkijos valstiečiai pa­skelbė streiką, draudė pristatyti pieną
     į Kauną ir keliuose pastatė postus, o juos ardant kilo riaušės, policija
     Veiveriuose nušovė tris valstiečius, šimtus areštavo.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

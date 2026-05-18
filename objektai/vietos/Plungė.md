@@ -19,28 +19,25 @@ Decentralizuotai plėtojant pramonę, geriau panaudoti vietiniai darbo išteklia
 
 ## Teiginiai
 - t-001
-  teiginys: 'Decentralizuotai plėtojant pramonę, geriau panaudoti vietiniai darbo ištekliai, Alytaus, Plungės, Utenos gamyklose nuo 50 iki 70 proc.'
+  teiginys: 'Alytaus, Plungės ir Utenos gamyklose 50-70 proc. darbininkų buvo to paties miesto ar rajono gyventojai.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Decentralizuotai plėtojant pramonę, geriau panaudoti vietiniai darbo ištekliai, Alytaus, Plungės, Utenos gamyklose nuo 50 iki 70 proc.'
+  santrauka: 'Alytaus, Plungės ir Utenos gamyklose 50-70 proc. darbininkų buvo to paties miesto ar rajono gyventojai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Decentralizuotai plėtojant pramonę, geriau
     panaudoti vietiniai darbo ištekliai, Alytaus, Plungės, Utenos gamyklose
     nuo 50 iki 70 proc. darbininkų buvo to paties miesto ar rajono gyventojai
     ir tik 3–5 proc.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Alytus]]
-- [[objektai/vietos/Utena]]

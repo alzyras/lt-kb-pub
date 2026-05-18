@@ -21,50 +21,36 @@ Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija
 
 ## Teiginiai
 - t-001
-  teiginys: 'Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija.'
+  teiginys: 'Sovietmečiu Lietuvos miestuose ir miesteliuose buvo statomos V. Lenino statulos.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Lenino, J.'
+  teiginys: 'Sovietmečiu tautiniais drabužiais vilkintys choristai dainavo apie V. Leniną.'
   pagrindžia:
     - c-002
-- t-003
-  teiginys: 'Leniną, tačiau ilgainiui, ypač Dainų šventėse, tai liko apvalkalas privalomai (socialistinei) programai, o kita dalis buvo skirta tik lietuviškai dainai ar šokiui.'
-  pagrindžia:
-    - c-003
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Rem-
-    damiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio
-    16 dienos manifestu deklaravo Sovietų Lietuvą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Lenino, J.'
+  santrauka: 'Sovietmečiu Lietuvos miestuose ir miesteliuose buvo statomos V. Lenino statulos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietu-
     vos valstybingumą liudijusių paminklų vietose miestuose ir miesteliuose
     pristatyta sovietinio kario nugalėtojo, V. Lenino, J. Stalino statulų, pri-
     kabinėta komunistinių šūkių.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Leniną, tačiau ilgainiui, ypač Dainų šventėse, tai liko apvalkalas privalomai (socialistinei) programai, o kita dalis buvo skirta tik lietuviškai dainai ar šokiui.'
+    - t-001
+- c-002
+  santrauka: 'Sovietmečiu tautiniais drabužiais vilkintys choristai dainavo apie V. Leniną.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kultūra plėtota pagal sovietų
@@ -72,16 +58,14 @@ Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija
     bužiais vilkintys choristai dainavo apie V. Leniną, tačiau ilgainiui, ypač
     Dainų šventėse, tai liko apvalkalas privalomai (socialistinei) programai,
     o kita dalis buvo skirta tik lietuviškai dainai ar šokiui.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Raudonoji armija]]
-- [[objektai/vietos/Sovietų Rusija]]
 - [[objektai/asmenys/V. Leninas]]

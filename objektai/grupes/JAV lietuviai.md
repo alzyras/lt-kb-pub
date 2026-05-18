@@ -36,92 +36,21 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
 
 ## Teiginiai
 - t-001
-  teiginys: 'Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyvenusių lietuvių imigrantų, gerai organizuotų į draugijas, sukūrusių gausią spaudą ir kultūrines organizacijas, suaktyvino JAV įstojimas į karą prieš Vokietiją 1917 m. balandį, o.'
+  teiginys: '1918 m. kovą įtakingiausios JAV lietuvių katalikų ir tautininkų organizacijos savo suvažiavimuose pareikalavo Lietuvai nepriklausomybės.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Amerikos lietuviai siuntė paramą karo aukoms, paprašė prezidentą V.'
+  teiginys: 'Tuo metu apie 350 000 lietuvių gyveno JAV, iš jų 180 000 buvo gimę Lietuvoje.'
   pagrindžia:
     - c-002
-- t-003
-  teiginys: '00 lietuvių tuo metu gyveno JAV (iš jų 180 000 gimę Lietuvoje), apie 100 000 Vilniaus krašte, 6 000 – Anglijoje.'
-  pagrindžia:
-    - c-003
-- t-004
-  teiginys: 'JAV lietuvių siunčiami pinigai sudarė 1/10 Lietuvos valstybės biudžeto, išeivijos politinės srovės finansavo Lietuvos politines partijas, rinko aukas valstybės kūrimo darbams.'
-  pagrindžia:
-    - c-004
-- t-005
-  teiginys: '1918 m. kovą įtakingiausios JAV 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 135 lietuvių katalikų ir tautininkų organizacijos savo suvažiavimuose pareikalavo nepriklausomybės Lietuvai, jų atstovai dalyvavo keliose lietuvių konferencijose.'
-  pagrindžia:
-    - c-005
-- t-006
-  teiginys: 'Apie 350 000 lietuvių tuo metu gyveno JAV (iš jų 180 000 gimę Lietuvoje), apie 100 000 Vilniaus krašte, 6 000 – Anglijoje.'
-  pagrindžia:
-    - c-006
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyvenusių lietuvių imigrantų, gerai organizuotų į draugijas, sukūrusių gausią spaudą ir kultūrines organizacijas, suaktyvino JAV įstojimas į karą prieš Vokietiją 1917 m. balandį, o.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilva-
-    nijoje) gyvenusių lietuvių imigrantų, gerai organizuotų į draugijas, sukū-
-    rusių gausią spaudą ir kultūrines organizacijas, suaktyvino JAV įstojimas
-    į karą prieš Vokietiją 1917 m. balandį, o ypač prezidento Vudrau Vilsono
-    (Woodrow Wilson) paskelbti „14 punktų“, davę progą kelti ir Lietuvos
-    klausimą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Amerikos lietuviai siuntė paramą karo aukoms, paprašė prezidentą V.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Amerikos lietuviai siuntė paramą karo aukoms, paprašė prezi-
-    dentą V. Vilsoną 1916 m. lapkričio 1-ąją paskelbti specialia diena Lietuvos
-    karo aukoms, jos metu surinkta 200 tūkst. dolerių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: '00 lietuvių tuo metu gyveno JAV (iš jų 180 000 gimę Lietuvoje), apie 100 000 Vilniaus krašte, 6 000 – Anglijoje.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    lausomybės metais tūkstančiai emigrantų grįžo į Lietuvą, pirko žemę,
-    pradėjo verslus, atidarė pramonės įmones, bankus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'JAV lietuvių siunčiami pinigai sudarė 1/10 Lietuvos valstybės biudžeto, išeivijos politinės srovės finansavo Lietuvos politines partijas, rinko aukas valstybės kūrimo darbams.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    JAV lietuvių siun-
-    čiami pinigai sudarė 1/10 Lietuvos valstybės biudžeto, išeivijos politinės
-    srovės finansavo Lietuvos politines partijas, rinko aukas valstybės kūrimo
-    darbams.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
-- c-005
-  santrauka: '1918 m. kovą įtakingiausios JAV 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 135 lietuvių katalikų ir tautininkų organizacijos savo suvažiavimuose pareikalavo nepriklausomybės Lietuvai, jų atstovai dalyvavo keliose lietuvių konferencijose.'
+  santrauka: '1918 m. kovą įtakingiausios JAV lietuvių katalikų ir tautininkų organizacijos savo suvažiavimuose pareikalavo Lietuvai nepriklausomybės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1918 m. kovą įtakingiausios JAV
@@ -134,15 +63,15 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
     organizacijų veiklos koordinacija.
     1918 metų Vasario 16 Aktas
     1917 m.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
-- c-006
-  santrauka: 'Apie 350 000 lietuvių tuo metu gyveno JAV (iš jų 180 000 gimę Lietuvoje), apie 100 000 Vilniaus krašte, 6 000 – Anglijoje.'
+    - t-001
+- c-002
+  santrauka: 'Tuo metu apie 350 000 lietuvių gyveno JAV, iš jų 180 000 buvo gimę Lietuvoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Apie 350 000 lietuvių tuo metu gyveno JAV (iš jų 180 000 gimę Lie-
@@ -154,13 +83,13 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
     pradėjo verslus, atidarė pramonės įmones, bankus. T. Naruševičius,
     Bronius Balutis, Jonas Žilius, Jonas Šliūpas, Steponas Darius ir kiti tapo
     žinomais visuomenės veikėjais, diplomatais, kariškiais.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-006
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -169,6 +98,3 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
 - [[laikotarpiai/XXI amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/Vudrau Vilsonas]]

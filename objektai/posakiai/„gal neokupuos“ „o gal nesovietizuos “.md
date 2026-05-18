@@ -25,13 +25,15 @@ Atkritus vilčiai, kad sovietai „gal neokupuos“, liko dar viena – „o gal
 
 ## Teiginiai
 - t-001
-  teiginys: 'Atkritus vilčiai, kad sovietai „gal neokupuos“, liko dar viena – „o gal nesovietizuos?“ Kur tau...'
+  teiginys: 'Okupacijos akivaizdoje viltys, kad sovietai „gal neokupuos“ ar „o gal nesovietizuos“, buvo paneigtos.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Atkritus vilčiai, kad sovietai „gal neokupuos“, liko dar viena – „o gal nesovietizuos?“ Kur tau...'
+  santrauka: 'Okupacijos akivaizdoje viltys, kad sovietai „gal neokupuos“ ar „o gal nesovietizuos“, buvo paneigtos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Mažąsias Europos valstybes okupavus Vokietijai sunku buvo tikėtis,
@@ -41,10 +43,10 @@ Atkritus vilčiai, kad sovietai „gal neokupuos“, liko dar viena – „o gal
     dento atsistatydinimas ir sudarytas įspūdis, kad A. Merkys teisėtai tapo
     prezidentu, nes, kaip laikinai einantis pareigas, pagal Lietuvos konstituci-
     ją neturėjo teisės skirti naujo vyriausybės vadovo.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

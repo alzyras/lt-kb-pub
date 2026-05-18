@@ -28,14 +28,14 @@ tags: []
 Epigrafinė frazė pabrėžia lietuvių kalbos giminingumą sanskritui ir priskiriama Robert Gordon Latham veikalui „Descriptive Ethnology“.
 
 ## Teiginiai
-- t-001
-  teiginys: "Įvado epigrafe frazė teigia, kad sanskrito giminingumas su lietuvių kalba yra didesnis negu su bet kuria kita kalba žemėje."
+- t-003
+  teiginys: 'Frazėje teigiama, kad sanskrito giminingumas su lietuvių kalba yra didesnis negu su bet kuria kita kalba žemėje.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: "Frazė priskirta Robert Gordon Latham veikalui „Descriptive Ethnology“."
+- t-004
+  teiginys: 'Frazė priskirta Robert Gordon Latham veikalui „Descriptive Ethnology“.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -43,7 +43,7 @@ Epigrafinė frazė pabrėžia lietuvių kalbos giminingumą sanskritui ir priski
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Citata pateikia frazės tekstą ir jos bibliografinį priskyrimą.
+  santrauka: 'Frazėje teigiama, kad sanskrito giminingumas su lietuvių kalba yra didesnis negu su bet kuria kita kalba žemėje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Į v a d a s
@@ -58,12 +58,7 @@ Epigrafinė frazė pabrėžia lietuvių kalbos giminingumą sanskritui ir priski
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata pririšta prie darbo šaltinio kūno teksto arba kandidato ledžerio patvirtinto offseto."
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Robert Gordon Latham]]
-- [[objektai/posakiai/„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“]]
+    - t-003
+    - t-004

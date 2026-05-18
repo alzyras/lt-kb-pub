@@ -28,18 +28,6 @@ Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkin
   teiginys: 'Ambasadorių Konferencija pagaliau įteikė ultimatumą (rugpiūčio 8 d.), kuriuo pareikalavo per mėnesį laiko pasirašyti be jokių pataisų ir rezervų konferencijos paruoštą projektą.'
   pagrindžia:
     - c-003
-- t-005
-  teiginys: 'Ambasadorių konferencijos 1923 m. kovo 15 d. sprendimą, paliekant istorinę Lietuvos sostinę Vilnių Lenkijai, savotiškai lėmė, praleidęs progą patylėti… E.'
-  pagrindžia:
-    - c-005
-- t-006
-  teiginys: 'Galvanauskas, įsitikinęs, kad per Tautų Sąjungą ar Ambasadorių konferenciją Lietuva Klaipėdos negaus, nusistatė užimti kraštą jėga (anot A.'
-  pagrindžia:
-    - c-006
-- t-007
-  teiginys: 'Kilniaširdiškai nusiteikęs Lietuvos Seimas sausio 24-ąją mielai patenkino šį prašymą, o vasario 17-ąją Ambasadorių konferencija perleido suverenias Klaipėdos teises Lietuvai.'
-  pagrindžia:
-    - c-007
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -71,54 +59,3 @@ Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkin
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-- c-005
-  santrauka: 'Ambasadorių konferencijos 1923 m. kovo 15 d. sprendimą, paliekant istorinę Lietuvos sostinę Vilnių Lenkijai, savotiškai lėmė, praleidęs progą patylėti… E.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Ambasadorių konferencija tai suprato kaip norėjo suprasti – neva Lietuva
-    pati pageidauja Vilniaus priskyrimo Lenkijai, tad patvirtino Lenkijos sieną
-    su Rusija pagal 1921 m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
-- c-006
-  santrauka: 'Galvanauskas, įsitikinęs, kad per Tautų Sąjungą ar Ambasadorių konferenciją Lietuva Klaipėdos negaus, nusistatė užimti kraštą jėga (anot A.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Ministras pirminin-
-    kas E. Galvanauskas, įsitikinęs, kad per Tautų Sąjungą ar Ambasadorių
-    konferenciją Lietuva Klaipėdos negaus, nusistatė užimti kraštą jėga (anot
-    A. Smetonos, be faktinės kontrolės nebus juridinės), J. Pilsudskio pavyz-
-    džiu pastatyti visus į fait accompli padėtį ir tada derėtis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-006
-- c-007
-  santrauka: 'Kilniaširdiškai nusiteikęs Lietuvos Seimas sausio 24-ąją mielai patenkino šį prašymą, o vasario 17-ąją Ambasadorių konferencija perleido suverenias Klaipėdos teises Lietuvai.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kilniaširdiškai nusiteikęs Lietuvos Seimas sausio 24-ąją mielai patenkino
-    šį prašymą, o vasario 17-ąją Ambasadorių konferencija perleido suvere-
-    nias Klaipėdos teises Lietuvai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-007
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jonas Žilius]]
-- [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]
-- [[objektai/grupes/Tautų Sąjunga]]
-- [[objektai/grupes/Vyriausias Mažosios Lietuvos gelbėjimo komitetas]]

@@ -33,13 +33,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: '1938 m. lapkričio 1 d. įkurtas Antano Smetonos lituanistikos institutas – mokslo įstaiga, kuri turėjo tirti lietuvių kalbą, tautosaką ir Lietuvos praeitį, tvarkyti tų sričių mokslinę medžiagą ir šaltinius, atstovauti lituanistikos mokslams Lietuvoje ir.'
+  teiginys: '1938 m. lapkričio 1 d. įkurtas Antano Smetonos lituanistikos institutas turėjo tirti lietuvių kalbą, tautosaką ir Lietuvos praeitį.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1938 m. lapkričio 1 d. įkurtas Antano Smetonos lituanistikos institutas – mokslo įstaiga, kuri turėjo tirti lietuvių kalbą, tautosaką ir Lietuvos praeitį, tvarkyti tų sričių mokslinę medžiagą ir šaltinius, atstovauti lituanistikos mokslams Lietuvoje ir.'
+  santrauka: '1938 m. lapkričio 1 d. įkurtas Antano Smetonos lituanistikos institutas turėjo tirti lietuvių kalbą, tautosaką ir Lietuvos praeitį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1938 m. lapkričio 1 d. įkurtas Antano
@@ -47,11 +49,11 @@ Nenurodyta
     kalbą, tautosaką ir Lietuvos praeitį, tvarkyti tų sričių mokslinę medžiagą ir
     šaltinius, atstovauti lituanistikos mokslams Lietuvoje ir užsienyje, nustatyti
     techninius terminus, rinkti tautosakos, dainų lobius.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

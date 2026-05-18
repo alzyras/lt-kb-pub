@@ -43,31 +43,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Negalime kautis dviejuose diplomatijos frontuose, todėl Lietuvai reikia susigrąžinti Lenkijos faktorių ir išnaudoti jį kovojant su Vokietija.'
+  teiginys: 'S. Lozoraitis laikė modus vivendi su Lenkija būtina Lietuvos nepriklausomybės sąlyga.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Lozoraičio įdėja – „nepriklausomybė svarbiausia“, todėl modus L I E T U V O S I S T O R I J A 178 vivendi su Lenkija yra būtina nepriklausomybės sąlyga.'
-  pagrindžia:
-    - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Negalime kautis dviejuose diplomatijos frontuose, todėl Lietuvai reikia susigrąžinti Lenkijos faktorių ir išnaudoti jį kovojant su Vokietija.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nega-
-    lime kautis dviejuose diplomatijos frontuose, todėl Lietuvai reikia susigrą-
-    žinti Lenkijos faktorių ir išnaudoti jį kovojant su Vokietija.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Lozoraičio įdėja – „nepriklausomybė svarbiausia“, todėl modus L I E T U V O S I S T O R I J A 178 vivendi su Lenkija yra būtina nepriklausomybės sąlyga.'
+  santrauka: 'S. Lozoraitis laikė modus vivendi su Lenkija būtina Lietuvos nepriklausomybės sąlyga.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     S. Lozoraičio įdėja – „nepriklausomybė svarbiausia“, todėl modus
@@ -75,13 +59,13 @@ Nenurodyta
     L I E T U V O S  I S T O R I J A
     178
     vivendi su Lenkija yra būtina nepriklausomybės sąlyga.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Laikotarpiai
@@ -89,5 +73,4 @@ Nenurodyta
 - [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
-- [[objektai/zodynas/modus vivendi]]
 - [[objektai/posakiai/„nepriklausomybė svarbiausia“]]

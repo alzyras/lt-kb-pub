@@ -29,13 +29,15 @@ Andriolli taip nutapė 1863 m. sukilimą – jis pats išneša žuvusį kovų dr
 
 ## Teiginiai
 - t-001
-  teiginys: 'Andriolli taip nutapė 1863 m. sukilimą – jis pats išneša žuvusį kovų draugą iš mūšio lauko prie Dubičių (gegužės 5 d.) L I E T U V O S I S T O R I J A 110 Kariniu požiūriu 60 tūkst.'
+  teiginys: 'M. E. Andriolli nutapė 1863 m. sukilimo sceną, kurioje pats išneša žuvusį kovų draugą iš mūšio lauko prie Dubičių.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Andriolli taip nutapė 1863 m. sukilimą – jis pats išneša žuvusį kovų draugą iš mūšio lauko prie Dubičių (gegužės 5 d.) L I E T U V O S I S T O R I J A 110 Kariniu požiūriu 60 tūkst.'
+  santrauka: 'M. E. Andriolli nutapė 1863 m. sukilimo sceną, kurioje pats išneša žuvusį kovų draugą iš mūšio lauko prie Dubičių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Žymusis dailininkas M. E. Andriolli taip nutapė
@@ -45,11 +47,11 @@ Andriolli taip nutapė 1863 m. sukilimą – jis pats išneša žuvusį kovų dr
     L I E T U V O S  I S T O R I J A
     110
     Kariniu požiūriu 60 tūkst.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

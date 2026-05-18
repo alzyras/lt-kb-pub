@@ -18,22 +18,24 @@ Užmegzti ryšiai su Lenkijos užsienio reikalų ministru Juzefu Beku (Józef Be
 
 ## Teiginiai
 - t-001
-  teiginys: 'Užmegzti ryšiai su Lenkijos užsienio reikalų ministru Juzefu Beku (Józef Beck) nieko gero nedavė: 1936 m. sausį J.'
+  teiginys: '1936 m. sausį Lenkijos užsienio reikalų ministras Juzefas Bekas savo kalboje išplūdo Lietuvą.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Užmegzti ryšiai su Lenkijos užsienio reikalų ministru Juzefu Beku (Józef Beck) nieko gero nedavė: 1936 m. sausį J.'
+  santrauka: '1936 m. sausį Lenkijos užsienio reikalų ministras Juzefas Bekas savo kalboje išplūdo Lietuvą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Užmegzti ryšiai su Lenkijos užsienio reikalų ministru Juzefu Beku (Józef
     Beck) nieko gero nedavė: 1936 m. sausį J. Bekas savo kalboje išplūdo Lie-
     tuvą, o kovo mėn.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

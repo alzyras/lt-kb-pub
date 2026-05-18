@@ -18,21 +18,23 @@ M. Jučas. Vytautas Didysis. Chicago, 2010;.
 
 ## Teiginiai
 - t-001
-  teiginys: 'M. Jučas. Vytautas Didysis. Chicago, 2010;.'
+  teiginys: 'M. Jučas parašė veikalą „Vytautas Didysis“, išleistą Čikagoje 2010 m.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'M. Jučas. Vytautas Didysis. Chicago, 2010;.'
+  santrauka: 'M. Jučas parašė veikalą „Vytautas Didysis“, išleistą Čikagoje 2010 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Warszawa, 1960; M. Jučas. Vytautas Didysis. Chicago, 2010; Lietuva
     1009–2009.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

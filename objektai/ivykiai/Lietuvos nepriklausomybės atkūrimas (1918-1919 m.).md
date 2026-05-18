@@ -34,10 +34,14 @@ Nenurodyta
   teiginys: 'Lietuva po 1795 m. prijungimo prie Rusijos nepriklausomybę atkūrė 1918–1919 m. ir sukūrė valstybę, besirėmusią naujais demokratiniais ir nacionaliniais pagrindais – Lietuvos Respubliką.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Basanavičiaus vadovaujama Lietuvos Taryba paskelbia Nepriklausomos Lietuvos valstybės atkūrimą.'
+  teiginys: '1918 m. vasario 16 d. J. Basanavičiaus vadovaujama Lietuvos Taryba paskelbė Nepriklausomos Lietuvos valstybės atkūrimą.'
   pagrindžia:
     - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -47,25 +51,25 @@ Nenurodyta
     Lietuva po 1795 m. prijungimo prie Rusijos nepriklausomybę atkūrė
     1918–1919 m. ir sukūrė valstybę, besirėmusią naujais demokratiniais ir
     nacionaliniais pagrindais – Lietuvos Respubliką.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Basanavičiaus vadovaujama Lietuvos Taryba paskelbia Nepriklausomos Lietuvos valstybės atkūrimą.'
+  santrauka: '1918 m. vasario 16 d. J. Basanavičiaus vadovaujama Lietuvos Taryba paskelbė Nepriklausomos Lietuvos valstybės atkūrimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1918 II 16
     Vokietijos okupacijos sąlygomis J. Basanavičiaus vadovaujama Lietu-
     vos Taryba paskelbia Nepriklausomos Lietuvos valstybės atkūrimą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 
@@ -73,4 +77,3 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/J. Basanavičius]]
 - [[objektai/grupes/Lietuvos Respublika]]
-- [[objektai/grupes/Lietuvos Taryba]]

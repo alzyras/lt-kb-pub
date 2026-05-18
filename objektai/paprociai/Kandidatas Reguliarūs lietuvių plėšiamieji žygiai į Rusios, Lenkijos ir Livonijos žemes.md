@@ -34,24 +34,26 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Plėšiamieji žygiai rodė didėjant lietuvių jėgą, jie tokių žygių skaičiumi pralenkė turtingus prūsus ar karingus kuršius.'
+  teiginys: 'Lietuvių genties iškilimas siejamas su vyrų gausumu karo žygiuose ir pagrindais būsimai Lietuvos valstybei.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Plėšiamieji žygiai rodė didėjant lietuvių jėgą, jie tokių žygių skaičiumi pralenkė turtingus prūsus ar karingus kuršius.'
+  santrauka: 'Lietuvių genties iškilimas siejamas su vyrų gausumu karo žygiuose ir pagrindais būsimai Lietuvos valstybei.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Matyt, lėmė genties vyrų
     gausumas, ypač svarbus karo žygiuose. Lietuvių genties iškilimas ir padėjo
     pagrindus santvarkos permainoms ir greitai atsirasiančiai Lietuvos valsty-
     bei.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

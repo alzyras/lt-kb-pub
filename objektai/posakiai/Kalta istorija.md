@@ -19,17 +19,21 @@ Tūlas gal pasakys, kad mūsų naratyvas, papasakota istorija, jam pasirodė atv
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tūlas gal pasakys, kad mūsų naratyvas, papasakota istorija, jam pasirodė atverianti per daug aštrių prieštaravimų, gal net per daug kritiška kaimynams.'
+  teiginys: 'Autorių pasakojimas apie Lietuvos istoriją galėjo atrodyti atveriantis aštrių prieštaravimų ir per kritiškas kaimynams.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: 'Nes dėl Lietuvos istorijos komplikuotumo tikrai kalti ne Lietuvos istorikai.'
   pagrindžia:
     - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tūlas gal pasakys, kad mūsų naratyvas, papasakota istorija, jam pasirodė atverianti per daug aštrių prieštaravimų, gal net per daug kritiška kaimynams.'
+  santrauka: 'Autorių pasakojimas apie Lietuvos istoriją galėjo atrodyti atveriantis aštrių prieštaravimų ir per kritiškas kaimynams.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tūlas gal pasakys, kad mūsų
@@ -37,11 +41,11 @@ Tūlas gal pasakys, kad mūsų naratyvas, papasakota istorija, jam pasirodė atv
     prieštaravimų, gal net per daug kritiška kaimynams. Tačiau toks įspūdis
     gali darytis tik dėl to, kad būta valstybių, kurios (kartais) labai norėjo
     „priglobti“ Lietuvą kuo ilgesniam laikui arba tiesiog joje dominuoti.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
@@ -50,10 +54,10 @@ Tūlas gal pasakys, kad mūsų naratyvas, papasakota istorija, jam pasirodė atv
   citata_originali: |
     Nes dėl Lietuvos istorijos komplikuotumo tikrai kalti ne Lietuvos
     istorikai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

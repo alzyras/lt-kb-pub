@@ -21,17 +21,21 @@ Jofės prašymą – įrašyti, kad Lietuva ir Sovietų Rusija „niekuomet nebu
 
 ## Teiginiai
 - t-001
-  teiginys: 'Jofės prašymą – įrašyti, kad Lietuva ir Sovietų Rusija „niekuomet nebuvo karo padėtyje“ (tai skambėjo paradoksaliai, nes sutartis vadinosi „Taikos sutartimi“).'
+  teiginys: 'Lietuviai patenkino A. Jofės prašymą įrašyti, kad Lietuva ir Sovietų Rusija „niekuomet nebuvo karo padėtyje“.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: 'Tačiau sutartis turėjo silpną vietą – prie jos 2 straipsnio sovietai įbruko slaptą papildymą, kad Rusijos dalinių įėjimas į Lietuvos teritoriją karo su Lenkija metu nebus traktuojamas kaip sutarties pažeidimas ar „nedraugiškas aktas“ prieš Lietuvą.'
   pagrindžia:
     - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Jofės prašymą – įrašyti, kad Lietuva ir Sovietų Rusija „niekuomet nebuvo karo padėtyje“ (tai skambėjo paradoksaliai, nes sutartis vadinosi „Taikos sutartimi“).'
+  santrauka: 'Lietuviai patenkino A. Jofės prašymą įrašyti, kad Lietuva ir Sovietų Rusija „niekuomet nebuvo karo padėtyje“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Toliau kaudamiesi dėl didesnės teritorijos Rytuose, moty-
@@ -41,11 +45,11 @@ Jofės prašymą – įrašyti, kad Lietuva ir Sovietų Rusija „niekuomet nebu
     Jofės prašymą – įrašyti, kad Lietuva ir Sovietų Rusija „niekuomet nebuvo
     karo padėtyje“ (tai skambėjo paradoksaliai, nes sutartis vadinosi „Taikos
     sutartimi“).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
@@ -56,11 +60,11 @@ Jofės prašymą – įrašyti, kad Lietuva ir Sovietų Rusija „niekuomet nebu
     slaptą papildymą, kad Rusijos dalinių įėjimas į Lietuvos teritoriją karo su
     Lenkija metu nebus traktuojamas kaip sutarties pažeidimas ar „nedrau-
     giškas aktas“ prieš Lietuvą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

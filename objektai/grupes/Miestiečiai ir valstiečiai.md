@@ -21,28 +21,25 @@ Miestiečių teises ir įformino Gegužės trečiosios konstitucija.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Miestiečių teises ir įformino Gegužės trečiosios konstitucija.'
+  teiginys: 'Gegužės trečiosios konstitucija įformino miestiečių teises ir pirmą kartą užsiminė apie valstybės globą valstiečiams.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Miestiečių teises ir įformino Gegužės trečiosios konstitucija.'
+  santrauka: 'Gegužės trečiosios konstitucija įformino miestiečių teises ir pirmą kartą užsiminė apie valstybės globą valstiečiams.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Mies-
     tiečių teises ir įformino Gegužės trečiosios konstitucija. Joje pirmąkart
     užsiminta ir apie tai, kad valstybė teikia globą valstiečiams jų santykiuose
     su dvarininkais.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Gegužės trečiosios konstitucijos priėmimas]]
-- [[objektai/grupes/Žemesnio prioriteto ribiniai grupių paminėjimai]]

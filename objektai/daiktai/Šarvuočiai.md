@@ -42,13 +42,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: '1926 m. gruodžio 17 d. perversmas – šarvuočiai prie Vyriausiojo štabo 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 157 A.'
+  teiginys: '1926 m. gruodžio 17 d. perversmo metu šarvuočiai stovėjo prie Vyriausiojo štabo.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1926 m. gruodžio 17 d. perversmas – šarvuočiai prie Vyriausiojo štabo 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 157 A.'
+  santrauka: '1926 m. gruodžio 17 d. perversmo metu šarvuočiai stovėjo prie Vyriausiojo štabo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1926 m. gruodžio 17 d. perversmas –
@@ -57,11 +59,11 @@ Nenurodyta
     4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
     157
     A.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

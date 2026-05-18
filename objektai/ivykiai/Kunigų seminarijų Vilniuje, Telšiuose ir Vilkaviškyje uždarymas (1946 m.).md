@@ -31,22 +31,24 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Visi kunigai sekami, registruojama, kas pas kunigą užeina, pamokslai aprašomi.'
+  teiginys: '1946 m. buvo uždarytos kunigų seminarijos Vilniuje, Telšiuose ir Vilkaviškyje.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Visi kunigai sekami, registruojama, kas pas kunigą užeina, pamokslai aprašomi.'
+  santrauka: '1946 m. buvo uždarytos kunigų seminarijos Vilniuje, Telšiuose ir Vilkaviškyje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1946 m. uždarytos kunigų seminarijos Vilniuje, Telšiuose ir Vilkaviš-
     kyje. Leista veikti tik vienai kunigų seminarijai Kaune, klierikų skaičių
     mažinant.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

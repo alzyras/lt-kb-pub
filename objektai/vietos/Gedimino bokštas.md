@@ -19,13 +19,15 @@ trijų Baltijos valstybių gyventojai paminėjo 50-ąsias Molotovo–Ribentropo 
 
 ## Teiginiai
 - t-001
-  teiginys: 'trijų Baltijos valstybių gyventojai paminėjo 50-ąsias Molotovo–Ribentropo pakto pasirašymo sukaktuves – per protesto akciją, pavadintą Baltijos keliu, apie du milijonai lietuvių, latvių ir estų susikibo rankomis sudarydami gyvą, daugiau kaip 650 km ilgio.'
+  teiginys: '1989 m. rugpjūčio 23 d. Baltijos kelio žmonių grandinė driekėsi nuo Gedimino bokšto Vilniuje iki Hermano bokšto Taline.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'trijų Baltijos valstybių gyventojai paminėjo 50-ąsias Molotovo–Ribentropo pakto pasirašymo sukaktuves – per protesto akciją, pavadintą Baltijos keliu, apie du milijonai lietuvių, latvių ir estų susikibo rankomis sudarydami gyvą, daugiau kaip 650 km ilgio.'
+  santrauka: '1989 m. rugpjūčio 23 d. Baltijos kelio žmonių grandinė driekėsi nuo Gedimino bokšto Vilniuje iki Hermano bokšto Taline.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1989 m. rugpjūčio 23 d. 19 val. trijų Baltijos valstybių gyventojai pami-
@@ -34,11 +36,11 @@ trijų Baltijos valstybių gyventojai paminėjo 50-ąsias Molotovo–Ribentropo 
     ir estų susikibo rankomis sudarydami gyvą, daugiau kaip 650 km ilgio
     žmonių grandinę nuo Gedimino bokšto Vilniuje iki Hermano bokšto
     Taline.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

@@ -34,18 +34,6 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
     - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-004
-  teiginys: 'O Mindaugas, karūnavęsis per Vokietijos vasalą – Livonijos ordiną, tapo ne imperatoriaus, o popiežiaus vasalu ir iš karto gavo teisę į savarankišką, tiesiai popiežiui pavaldžią vyskupiją.'
-  pagrindžia:
-    - c-003
-- t-005
-  teiginys: 'Ankstyvaisiais Viduramžiais popiežiai maloningai priimdavo valstybių krikštus, ir šios tapdavo popiežiaus ar imperatoriaus vasalėmis.'
-  pagrindžia:
-    - c-004
-- t-006
-  teiginys: 'Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietuva valstybingumo neprarado, tik tapo Lenkijos vasale.'
-  pagrindžia:
-    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -79,47 +67,6 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
   pagrindžia:
     - t-002
     - t-003
-- c-003
-  santrauka: 'O Mindaugas, karūnavęsis per Vokietijos vasalą – Livonijos ordiną, tapo ne imperatoriaus, o popiežiaus vasalu ir iš karto gavo teisę į savarankišką, tiesiai popiežiui pavaldžią vyskupiją.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    O Mindaugas, karūnavęsis per Vokietijos vasalą –
-    Livonijos ordiną, tapo ne imperatoriaus, o popiežiaus vasalu ir iš karto
-    gavo teisę į savarankišką, tiesiai popiežiui pavaldžią vyskupiją.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
-- c-004
-  santrauka: 'Ankstyvaisiais Viduramžiais popiežiai maloningai priimdavo valstybių krikštus, ir šios tapdavo popiežiaus ar imperatoriaus vasalėmis.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Naujosios Europos tautoms buvo leidžiama krikštytis ir tapti imperatoriaus
-    vasalėmis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
-- c-005
-  santrauka: 'Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietuva valstybingumo neprarado, tik tapo Lenkijos vasale.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    O tiksliau –
-    Jogaila, Lietuvos didysis kunigaikštis, tapo Jogailos, Lenkijos karaliaus,
-    vasalu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-006
 
 ## Ryšiai
 ### Teminiai klasteriai

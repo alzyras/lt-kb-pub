@@ -33,6 +33,8 @@ Nenurodyta
   teiginys: 'Liepos 21 dieną į pirmąjį posėdį susirinkę trijų Baltijos šalių „parlamentai“ stulbinamai sinchroniškai paskelbė savo šalis sovietų socialistinėmis respublikomis.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -42,10 +44,10 @@ Nenurodyta
     Liepos 21 dieną į pirmąjį posėdį susirinkę trijų Baltijos šalių „parlamen-
     tai“ stulbinamai sinchroniškai paskelbė savo šalis sovietų socialistinėmis
     respublikomis.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

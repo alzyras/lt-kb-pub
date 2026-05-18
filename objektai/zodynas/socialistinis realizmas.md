@@ -21,6 +21,8 @@ Naujomis sąlygomis menininkai vis dažniau atsiribodavo nuo socialistinio reali
   teiginys: 'Naujomis sąlygomis menininkai vis dažniau atsiribodavo nuo socialistinio realizmo, pagal galimybę stengėsi nederinti politikos ir propagandos su menu.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -34,10 +36,10 @@ Naujomis sąlygomis menininkai vis dažniau atsiribodavo nuo socialistinio reali
     eilinį žmogų). Naujomis sąlygomis menininkai vis dažniau atsiribodavo
     nuo socialistinio realizmo, pagal galimybę stengėsi nederinti politikos ir
     propagandos su menu.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

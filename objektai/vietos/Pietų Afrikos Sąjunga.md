@@ -18,22 +18,24 @@ sudarė žydai, vykę į Palestiną, Pietų Afrikos Sąjungą ir JAV.
 
 ## Teiginiai
 - t-001
-  teiginys: 'sudarė žydai, vykę į Palestiną, Pietų Afrikos Sąjungą ir JAV.'
+  teiginys: 'Per 20 metų apie 30 proc. iš Lietuvos emigravusių gyventojų sudarė žydai, vykę į Palestiną, Pietų Afrikos Sąjungą ir JAV.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'sudarė žydai, vykę į Palestiną, Pietų Afrikos Sąjungą ir JAV.'
+  santrauka: 'Per 20 metų apie 30 proc. iš Lietuvos emigravusių gyventojų sudarė žydai, vykę į Palestiną, Pietų Afrikos Sąjungą ir JAV.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Per 20 metų iš
     šalies emigravo apie 100 000 gyventojų, iš jų apie 30 proc. sudarė žydai,
     vykę į Palestiną, Pietų Afrikos Sąjungą ir JAV.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

@@ -21,27 +21,24 @@ Raštinės tapo kultūrinės produkcijos gamintojomis, kaupėjomis ir raštinink
 
 ## Teiginiai
 - t-001
-  teiginys: 'Raštinės tapo kultūrinės produkcijos gamintojomis, kaupėjomis ir raštininkų mokyklomis.'
+  teiginys: 'Lietuvoje rašto poreikis sparčiai didėjo, o jį Vakarų Europoje tenkinusių vienuolijų trūko.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Raštinės tapo kultūrinės produkcijos gamintojomis, kaupėjomis ir raštininkų mokyklomis.'
+  santrauka: 'Lietuvoje rašto poreikis sparčiai didėjo, o jį Vakarų Europoje tenkinusių vienuolijų trūko.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šio visuomenės raidos etapo rašto poreikius Vakarų Europoje
     tenkino vienuolijos, tačiau Lietuvoje jų trūko, o rašto poreikis sparčiai
     didėjo.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/paprociai/Kandidatas 28 Didžiojo kunigaikščio raštinės dokumentų rengimo, kaupimo ir registravimo praktika]]
-- [[objektai/paprociai/Kandidatas Didžiojo kunigaikščio raštinės dokumentų rengimo, kaupimo ir registravimo praktika]]

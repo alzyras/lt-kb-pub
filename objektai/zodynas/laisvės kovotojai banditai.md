@@ -18,13 +18,15 @@ Suvažiavime patvirtintas naujas organizacijos pavadinimas: Lietuvos laisvės ko
 
 ## Teiginiai
 - t-001
-  teiginys: 'Suvažiavime patvirtintas naujas organizacijos pavadinimas: Lietuvos laisvės kovos sąjūdis (LLKS), o patys partizanai pradėti vadinti laisvės kovotojais (okupacinė sovietų valdžia paprastai Lietuvos partizanus vadino banditais).'
+  teiginys: 'Partizanų suvažiavime patvirtintas LLKS pavadinimas, o partizanai pradėti vadinti laisvės kovotojais; sovietų valdžia juos vadino banditais.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Suvažiavime patvirtintas naujas organizacijos pavadinimas: Lietuvos laisvės kovos sąjūdis (LLKS), o patys partizanai pradėti vadinti laisvės kovotojais (okupacinė sovietų valdžia paprastai Lietuvos partizanus vadino banditais).'
+  santrauka: 'Partizanų suvažiavime patvirtintas LLKS pavadinimas, o partizanai pradėti vadinti laisvės kovotojais; sovietų valdžia juos vadino banditais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Suvažiavime patvirtin-
@@ -35,15 +37,10 @@ Suvažiavime patvirtintas naujas organizacijos pavadinimas: Lietuvos laisvės ko
     pacinė sovietų valdžia paprastai
     Lietuvos partizanus vadino ban-
     ditais).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Baisogala]]
-- [[objektai/vietos/Radviliškis]]

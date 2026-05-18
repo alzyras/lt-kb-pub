@@ -29,13 +29,15 @@ Roko maršams vadovavo LPS iniciatyvinės grupės narys, populiarios muzikos gru
 
 ## Teiginiai
 - t-001
-  teiginys: 'Roko maršams vadovavo LPS iniciatyvinės grupės narys, populiarios muzikos grupės „Antis“ lyderis Algirdas Kaušpėdas, koncertuose-mitinguose patriotines kalbas sakė Arvydas L I E T U V O S I S T O R I J A 236 Juozaitis, Vytautas Radžvilas ir kiti sąjūdininkai.'
+  teiginys: 'Arvydas Juozaitis Roko maršų koncertuose-mitinguose sakė patriotines kalbas.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Roko maršams vadovavo LPS iniciatyvinės grupės narys, populiarios muzikos grupės „Antis“ lyderis Algirdas Kaušpėdas, koncertuose-mitinguose patriotines kalbas sakė Arvydas L I E T U V O S I S T O R I J A 236 Juozaitis, Vytautas Radžvilas ir kiti sąjūdininkai.'
+  santrauka: 'Arvydas Juozaitis Roko maršų koncertuose-mitinguose sakė patriotines kalbas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tokie jaunimo muzikos koncertų žygiai per Lietuvą
@@ -47,11 +49,11 @@ Roko maršams vadovavo LPS iniciatyvinės grupės narys, populiarios muzikos gru
     L I E T U V O S  I S T O R I J A
     236
     Juozaitis, Vytautas Radžvilas ir kiti sąjūdininkai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

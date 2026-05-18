@@ -32,17 +32,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Iš tiesų Liaudies vyriausybė vykdė sovietų valią, nuo pirmų dienų griovė Lietuvos valstybingumą, keitė administraciją: į svarbius vyriausybės postus buvo paskirti amnestuoti politiniai kaliniai komunistai – LKP vadovas Antanas Sniečkus tapo Valstybės saugumo.'
+  teiginys: 'Liaudies vyriausybė vykdė sovietų valią, griovė Lietuvos valstybingumą, keitė administraciją ir ribojo nekomunistines organizacijas.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Birželio 27-ąją Liaudies vyriausybė panaikino Lietuvos ir Vatikano konkordatą, o liepos 12-ąją, spaudžiant V.'
-  pagrindžia:
-    - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Iš tiesų Liaudies vyriausybė vykdė sovietų valią, nuo pirmų dienų griovė Lietuvos valstybingumą, keitė administraciją: į svarbius vyriausybės postus buvo paskirti amnestuoti politiniai kaliniai komunistai – LKP vadovas Antanas Sniečkus tapo Valstybės saugumo.'
+  santrauka: 'Liaudies vyriausybė vykdė sovietų valią, griovė Lietuvos valstybingumą, keitė administraciją ir ribojo nekomunistines organizacijas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Iš tiesų Liaudies vyriausybė vykdė sovietų valią, nuo pirmų dienų griovė
@@ -53,27 +51,10 @@ Nenurodyta
     LKP (nors kitos politinės partijos neįteisintos), paleistas vadinamasis sme-
     toninis Seimas, uždarytos visos nekomunistinės organizacijos, laikraščiai ir
     žurnalai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Birželio 27-ąją Liaudies vyriausybė panaikino Lietuvos ir Vatikano konkordatą, o liepos 12-ąją, spaudžiant V.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau pasisavintas tik Švedijos ir Šveicarijos bankuose saugomas auksas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Lietuvos auksas]]
-- [[objektai/vietos/Šveicarija]]

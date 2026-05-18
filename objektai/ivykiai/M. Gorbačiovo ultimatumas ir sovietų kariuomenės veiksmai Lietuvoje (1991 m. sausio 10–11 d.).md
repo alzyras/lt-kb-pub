@@ -31,13 +31,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tačiau 1991 m. sausio 10 d. M.'
+  teiginys: 'Sovietų kariuomenė ir specialios paskirties būriai „Alfa“ turėjo įsikišti į „pilietinį konfliktą“ ir nuversti teisėtą Lietuvos valdžią.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tačiau 1991 m. sausio 10 d. M.'
+  santrauka: 'Sovietų kariuomenė ir specialios paskirties būriai „Alfa“ turėjo įsikišti į „pilietinį konfliktą“ ir nuversti teisėtą Lietuvos valdžią.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Promaskviniai būriai turėjo įsiveržti
@@ -45,11 +47,11 @@ Nenurodyta
     ties būriai („Alfa“) įsikišti į „pilietinį konfliktą“ (pasinaudota premjerės
     Kazimieros Prunskienės sprendimu padidinti maisto produktų kainas)
     ir nuversti teisėtą Lietuvos valdžią.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

@@ -20,32 +20,36 @@ Labiausiai savo veiklą čia buvo išplėtoję lenkų tautiniai demokratai, kuri
 
 ## Teiginiai
 - t-001
-  teiginys: 'Labiausiai savo veiklą čia buvo išplėtoję lenkų tautiniai demokratai, kurių lyderis visų lenkų žemių mastu Romanas Dmovskis (Roman Dmowski) vadovavosi lenkų organinio nacionalizmo doktrina.'
+  teiginys: 'Romanas Dmovskis buvo lenkų tautinių demokratų lyderis ir vadovavosi lenkų organinio nacionalizmo doktrina.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Dmovskio ir J.'
+  teiginys: 'R. Dmovskio šalininkai lenkai siekė išlaikyti Lietuvą Lenkijos sudėtyje.'
   pagrindžia:
     - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Labiausiai savo veiklą čia buvo išplėtoję lenkų tautiniai demokratai, kurių lyderis visų lenkų žemių mastu Romanas Dmovskis (Roman Dmowski) vadovavosi lenkų organinio nacionalizmo doktrina.'
+  santrauka: 'Romanas Dmovskis buvo lenkų tautinių demokratų lyderis ir vadovavosi lenkų organinio nacionalizmo doktrina.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     La-
     biausiai savo veiklą čia buvo išplėtoję lenkų tautiniai demokratai, kurių
     lyderis visų lenkų žemių mastu Romanas Dmovskis (Roman Dmowski)
     vadovavosi lenkų organinio nacionalizmo doktrina.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Dmovskio ir J.'
+  santrauka: 'R. Dmovskio šalininkai lenkai siekė išlaikyti Lietuvą Lenkijos sudėtyje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Gausūs R. Dmovskio ir
@@ -53,15 +57,10 @@ Labiausiai savo veiklą čia buvo išplėtoję lenkų tautiniai demokratai, kuri
     1919 m. kovo 24 d. Lietuvos delegacijos notoje tvirtinta, kad Lenkija visą
     laiką išnaudojo Lietuvą, politinė unija XVI a. su ja privedė Lietuvą prie
     vidinio chaoso.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/J. Pilsudskis]]
-- [[objektai/asmenys/Juzefas Pilsudskis]]

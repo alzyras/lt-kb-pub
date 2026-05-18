@@ -37,6 +37,8 @@ Nenurodyta
   teiginys: 'Sausio 9-ąją civiliai aprengti 1 050 Lietuvos savanorių, kurių kišenėse nebūtum galėjęs rasti nė vieno lietuviško dokumento, degtukų ar cigarečių pakelio, peržengė sieną.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -46,11 +48,11 @@ Nenurodyta
     Sausio 9-ąją civiliai aprengti 1 050 Lietuvos savanorių, kurių
     kišenėse nebūtum galėjęs rasti nė vieno lietuviško dokumento, degtukų
     ar cigarečių pakelio, peržengė sieną.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

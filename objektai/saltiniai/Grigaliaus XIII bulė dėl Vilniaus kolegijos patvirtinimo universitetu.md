@@ -37,30 +37,17 @@ Paversti kolegiją aukštąja mokykla reikėjo nemažų lėšų ir pakankamai kv
 
 ## Teiginiai
 - t-001
-  teiginys: 'Paversti kolegiją aukštąja mokykla reikėjo nemažų lėšų ir pakankamai kvalifikuotų dėstytojų, būtinai – popiežiaus pritarimo (1577 m. Grigaliaus XIII pritarimas buvo gautas).'
+  teiginys: '1579 m. spalio 29 d. popiežius Grigalius XIII išleido bulę, patvirtinusią Vilniaus kolegiją universitetu.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: '2 skyrius • L E N K I J O S I R L I E T U V O S VA L S T Y B I Ų J U N G T U V Ė S 79 Paversti kolegiją aukštąja mokykla reikėjo nemažų lėšų ir pakankamai kvalifikuotų dėstytojų, būtinai – popiežiaus pritarimo (1577 m. Grigaliaus XIII pritarimas buvo gautas).'
-  pagrindžia:
-    - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Paversti kolegiją aukštąja mokykla reikėjo nemažų lėšų ir pakankamai kvalifikuotų dėstytojų, būtinai – popiežiaus pritarimo (1577 m. Grigaliaus XIII pritarimas buvo gautas).'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Naujoji mokykla vadinosi Academia et Universitas Vilnensis
-    Societatis Iesu – Vilniaus Jėzaus draugijos akademija ir universitetas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: '2 skyrius • L E N K I J O S I R L I E T U V O S VA L S T Y B I Ų J U N G T U V Ė S 79 Paversti kolegiją aukštąja mokykla reikėjo nemažų lėšų ir pakankamai kvalifikuotų dėstytojų, būtinai – popiežiaus pritarimo (1577 m. Grigaliaus XIII pritarimas buvo gautas).'
+  santrauka: '1579 m. spalio 29 d. popiežius Grigalius XIII išleido bulę, patvirtinusią Vilniaus kolegiją universitetu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S
@@ -79,10 +66,10 @@ Paversti kolegiją aukštąja mokykla reikėjo nemažų lėšų ir pakankamai kv
     popiežius Grigalius XIII išleido bulę, patvirtinusią Vilniaus kolegiją uni-
     versitetu. Naujoji mokykla vadinosi Academia et Universitas Vilnensis
     Societatis Iesu – Vilniaus Jėzaus draugijos akademija ir universitetas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001

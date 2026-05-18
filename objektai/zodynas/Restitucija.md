@@ -21,13 +21,15 @@ Narystės ir demokratijos įtvirtinimui Lietuva ėmė ryžtingai siekti demokrat
 
 ## Teiginiai
 - t-001
-  teiginys: 'Narystės ir demokratijos įtvirtinimui Lietuva ėmė ryžtingai siekti demokratinių vertybių – užtikrinti galimybes puoselėti savo kalbą ir kultūrą tautinėms mažumoms, vykdyti religinio turto restituciją, įvertinti Holokausto pamokas, grąžinti žydams išblaškytas.'
+  teiginys: 'Įtvirtindama demokratines vertybes Lietuva siekė vykdyti religinio turto restituciją ir grąžinti žydų kultūros vertybes.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Narystės ir demokratijos įtvirtinimui Lietuva ėmė ryžtingai siekti demokratinių vertybių – užtikrinti galimybes puoselėti savo kalbą ir kultūrą tautinėms mažumoms, vykdyti religinio turto restituciją, įvertinti Holokausto pamokas, grąžinti žydams išblaškytas.'
+  santrauka: 'Įtvirtindama demokratines vertybes Lietuva siekė vykdyti religinio turto restituciją ir grąžinti žydų kultūros vertybes.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Narystės ir demokratijos įtvirtinimui Lietuva ėmė ryžtingai siekti de-
@@ -37,11 +39,11 @@ Narystės ir demokratijos įtvirtinimui Lietuva ėmė ryžtingai siekti demokrat
     tas 300 Torų, YIVO instituto dokumentus), sakralinius pastatus, kovoti
     prieš antisemitizmą ir rasinį bei religinį nepakantumą, garantuoti žodžio,
     spaudos, rinkimų laisvę.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 
@@ -51,4 +53,3 @@ Narystės ir demokratijos įtvirtinimui Lietuva ėmė ryžtingai siekti demokrat
 
 ### Susiję objektai
 - [[objektai/daiktai/Išsaugotos Toros]]
-- [[objektai/paprociai/Tautinių bendrijų kalbos, kultūros ir papročių puoselėjimas]]

@@ -34,25 +34,31 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Savaip transformuota artimo meilės idėja atsispindi senjoro ir pavaldinio santykiuose, ypač tai pasakytina apie senjoro atsakomybę už pavaldinio išganymą.'
+  teiginys: 'Pavaldiniui buvo nurodoma, kokį tikėjimą jis turi išpažinti.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Savaip transformuota artimo meilės idėja atsispindi senjoro ir pavaldinio santykiuose, ypač tai pasakytina apie senjoro atsakomybę už pavaldinio išganymą.'
+  santrauka: 'Pavaldiniui buvo nurodoma, kokį tikėjimą jis turi išpažinti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vadinasi, pavaldiniui nurodoma, kokį
     tikėjimą jis turi išpažinti. Taigi feodaliniai santykiai įgijo idėjinį pagrindą,
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/tikėjimas]]
+
+### Susiję objektai
+- [[objektai/paprociai/Kandidatas 18 Krikščioniškų laidojimo apeigų įsigalėjimas po Lietuvos krikšto]]
+- [[objektai/paprociai/Kandidatas Senjoro atsakomybė už pavaldinio tikėjimą]]

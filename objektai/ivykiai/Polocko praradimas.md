@@ -30,21 +30,23 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tai parodė ir 1563 m. Polocko praradimas – Lenkijos paramos reikėjo.'
+  teiginys: '1563 m. Polocko praradimas parodė, kad Lietuvai reikėjo Lenkijos paramos.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tai parodė ir 1563 m. Polocko praradimas – Lenkijos paramos reikėjo.'
+  santrauka: '1563 m. Polocko praradimas parodė, kad Lietuvai reikėjo Lenkijos paramos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tai parodė ir 1563  m. Polocko praradi-
     mas – Lenkijos paramos reikėjo.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

@@ -19,17 +19,21 @@ Viešai grasinama, kad „asmenys, kurie nebalsuos, yra liaudies priešai“ –
 
 ## Teiginiai
 - t-001
-  teiginys: 'Viešai grasinama, kad „asmenys, kurie nebalsuos, yra liaudies priešai“ – jais vadinami tautininkai ir aukštus postus turėję valdininkai.'
+  teiginys: 'Per rinkimų agitaciją valdžia viešai grasino, kad nebalsuosiantys asmenys yra „liaudies priešai“.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Sovietams įgyvendinant žemės ūkio pertvarkymus, atimta žemė iš ūkininkų, kurie turėjo daugiau nei 30 ha, tokie laikomi buožėmis ir „liaudies priešais“.'
+  teiginys: 'Sovietams pertvarkant žemės ūkį, daugiau kaip 30 ha turėję ūkininkai laikyti buožėmis ir „liaudies priešais“.'
   pagrindžia:
     - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Viešai grasinama, kad „asmenys, kurie nebalsuos, yra liaudies priešai“ – jais vadinami tautininkai ir aukštus postus turėję valdininkai.'
+  santrauka: 'Per rinkimų agitaciją valdžia viešai grasino, kad nebalsuosiantys asmenys yra „liaudies priešai“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Per rinkimų agitaciją valdžia daug dėmesio
@@ -38,25 +42,25 @@ Viešai grasinama, kad „asmenys, kurie nebalsuos, yra liaudies priešai“ –
     išsaugotas litas, neigtos kalbos apie kolūkių steigimą. Viešai grasinama,
     kad „asmenys, kurie nebalsuos, yra liaudies priešai“ – jais vadinami tau-
     tininkai ir aukštus postus turėję valdininkai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Sovietams įgyvendinant žemės ūkio pertvarkymus, atimta žemė iš ūkininkų, kurie turėjo daugiau nei 30 ha, tokie laikomi buožėmis ir „liaudies priešais“.'
+  santrauka: 'Sovietams pertvarkant žemės ūkį, daugiau kaip 30 ha turėję ūkininkai laikyti buožėmis ir „liaudies priešais“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sovietams įgyvendinant žemės ūkio pertvarkymus, atimta žemė iš ūki-
     ninkų, kurie turėjo daugiau nei 30 ha, tokie laikomi buožėmis ir „liaudies
     priešais“. Juos stengtasi sunaikinti tris kartus padidinant mokesčius.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

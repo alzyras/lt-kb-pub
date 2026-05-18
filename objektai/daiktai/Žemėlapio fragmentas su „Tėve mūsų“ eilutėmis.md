@@ -47,30 +47,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Žemėlapio fragmentas su pirmosiomis „Tėve mūsų“ eilutėmis visomis Europos kalbomis ir lietuvių kalba (pažymėta raudona linija).'
+  teiginys: '1741 m. Niurnberge išleistame žemėlapio fragmente pateiktos pirmosios „Tėve mūsų“ eilutės Europos kalbomis ir lietuvių kalba.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Daukšos veikla pa- 2 skyrius • L E N K I J O S I R L I E T U V O S VA L S T Y B I Ų J U N G T U V Ė S 73 Žemėlapio fragmentas su pirmosiomis „Tėve mūsų“ eilutėmis visomis Europos kalbomis ir lietuvių kalba (pažymėta raudona linija).'
-  pagrindžia:
-    - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Žemėlapio fragmentas su pirmosiomis „Tėve mūsų“ eilutėmis visomis Europos kalbomis ir lietuvių kalba (pažymėta raudona linija).'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Žemėlapio fragmentas su pirmosiomis „Tėve mūsų“ eilutėmis visomis
-    Europos kalbomis ir lietuvių kalba (pažymėta raudona linija).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Daukšos veikla pa- 2 skyrius • L E N K I J O S I R L I E T U V O S VA L S T Y B I Ų J U N G T U V Ė S 73 Žemėlapio fragmentas su pirmosiomis „Tėve mūsų“ eilutėmis visomis Europos kalbomis ir lietuvių kalba (pažymėta raudona linija).'
+  santrauka: '1741 m. Niurnberge išleistame žemėlapio fragmente pateiktos pirmosios „Tėve mūsų“ eilutės Europos kalbomis ir lietuvių kalba.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Daukšos veikla pa-
@@ -80,13 +65,13 @@ Nenurodyta
     Žemėlapio fragmentas su pirmosiomis „Tėve mūsų“ eilutėmis visomis
     Europos kalbomis ir lietuvių kalba (pažymėta raudona linija).
     Niurnbergas, 1741 m.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai

@@ -41,29 +41,34 @@ Istorinis-politinis krašto pavadinimas, vartotas aiškinant trijų dalių Lietu
 Pavadinimas siejamas su senosiomis rusėniškosiomis LDK žemėmis ir modernios Lietuvos etninės valstybės projektu.
 
 ## Teiginiai
-- t-001
-  teiginys: "Į rytus nuo Vidurinės Lietuvos senosios rusėniškosios LDK žemės vadintos Minsko arba rusėnų Lietuva."
+- t-005
+  teiginys: 'Į rytus nuo Vidurinės Lietuvos senosios rusėniškosios LDK žemės buvo vadinamos Minsko arba rusėnų Lietuva.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: "Moderniosios Lietuvos kūrėjai nebepretendavo į Minsko Lietuvą."
+- t-006
+  teiginys: 'Moderniosios Lietuvos kūrėjai nebepretendavo į Minsko Lietuvą.'
+  pagrindžia:
+    - c-003
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+- t-007
+  teiginys: 'Minsko Lietuva vadintos į rytus nuo Vidurinės Lietuvos buvusios senosios rusėniškosios LDK žemės.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: '„Vidurinės Lietuvos“ prasmę galima suvokti tik turint omenyje, jog į rytus nuo jos senosios rusėniškosios LDK žemės vadinamos „Minsko“, arba „rusėnų“, Lietuva.'
+- t-008
+  teiginys: 'Lietuviai siekė kurti valstybę etniniais pagrindais ir nebepretendavo į Minsko Lietuvą.'
   pagrindžia:
     - c-003
-- t-004
-  teiginys: 'Savo ruožtu lietuviai buvo apsisprendę kurti Lietuvos valstybę etniniais pagrindais, nebepretendavo į „Minsko Lietuvą“, tačiau neįsivaizdavo savo valstybės be istorinės sostinės Vilniaus.'
-  pagrindžia:
-    - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Citata tiesiogiai apibrėžia Minsko arba rusėnų Lietuvos pavadinimą.
+  santrauka: 'Į rytus nuo Vidurinės Lietuvos senosios rusėniškosios LDK žemės buvo vadinamos Minsko arba rusėnų Lietuva.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Remiantis tokia lenkiška Lietuvos sam-
@@ -73,13 +78,27 @@ Pavadinimas siejamas su senosiomis rusėniškosiomis LDK žemėmis ir modernios 
     dinamos „Minsko“, arba „rusėnų“, Lietuva.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-005
 - c-002
-  santrauka: Citata nurodo, kad lietuviai nebepretendavo į Minsko Lietuvą.
+  santrauka: 'Minsko Lietuva vadintos į rytus nuo Vidurinės Lietuvos buvusios senosios rusėniškosios LDK žemės.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    „Vidurinės Lietuvos“ prasmę galima suvokti tik
+    turint omenyje, jog į rytus nuo jos senosios rusėniškosios LDK žemės va-
+    dinamos „Minsko“, arba „rusėnų“, Lietuva.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-007
+- c-003
+  santrauka: 'Moderniosios Lietuvos kūrėjai nebepretendavo į Minsko Lietuvą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Savo ruožtu lietuviai buvo apsisprendę kurti Lietuvos valstybę etniniais
@@ -87,25 +106,13 @@ Pavadinimas siejamas su senosiomis rusėniškosiomis LDK žemėmis ir modernios 
     valstybės be istorinės sostinės Vilniaus.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: '„Vidurinės Lietuvos“ prasmę galima suvokti tik turint omenyje, jog į rytus nuo jos senosios rusėniškosios LDK žemės vadinamos „Minsko“, arba „rusėnų“, Lietuva.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    „Vidurinės Lietuvos“ prasmę galima suvokti tik
-    turint omenyje, jog į rytus nuo jos senosios rusėniškosios LDK žemės va-
-    dinamos „Minsko“, arba „rusėnų“, Lietuva.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
+    - t-006
+    - t-008
+
 ## Šaltiniai ir įrodymai
 
 ## Pastabos
@@ -113,6 +120,3 @@ Pavadinimas siejamas su senosiomis rusėniškosiomis LDK žemėmis ir modernios 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/lietuva]]
-
-### Susiję objektai
-- [[objektai/vietos/Vilnius]]

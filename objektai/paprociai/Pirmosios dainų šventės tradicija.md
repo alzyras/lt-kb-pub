@@ -64,20 +64,7 @@ tags: []
 Nenurodyta
 
 ## Reikšmingi paminėjimai
-- c-88634
-  santrauka: Pirmoji šalies dainų šventė įvardyta kaip naujų tradicijų gimimas.
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Gimė naujos tradicijos – 1924 m. Kaune sureng-
-    ta pirmoji šalies dainų šventė.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Rankiniu būdu sutrumpinta į šaltinyje exact randamą fragmentą po OCR tarpų validacijos klaidos."
-  pagrindžia:
-    - t-001
-    - t-002
+Nenurodyta
 
 ## Šaltiniai ir įrodymai
 

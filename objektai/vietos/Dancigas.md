@@ -43,10 +43,6 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
     - c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-007
-  teiginys: 'Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir siekė „laisvojo miesto“ statuso (panašaus į Dancigo (dabar Gdanskas)).'
-  pagrindžia:
-    - c-007
 
 ## Reikšmingi paminėjimai
 - c-004
@@ -65,21 +61,6 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
   pagrindžia:
     - t-004
 
-- c-007
-  santrauka: 'Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir siekė „laisvojo miesto“ statuso (panašaus į Dancigo (dabar Gdanskas)).'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Beje, ne visi klaipė-
-    diškiai lietuvininkai norėjo jungtis prie Lietuvos ir siekė „laisvojo miesto“
-    statuso (panašaus į Dancigo (dabar Gdanskas)).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-007
-
 ## Laikotarpis ir datos
 - tipas: miestas / pilis
 
@@ -88,5 +69,3 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
 - [[objektai/vietos/Karaliaučius]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Ryga]]
-- [[objektai/vietos/Gdanskas]]
-- [[objektai/ivykiai/Versalio taikos konferencijos sprendimas dėl Klaipėdos krašto (1919 m.)]]

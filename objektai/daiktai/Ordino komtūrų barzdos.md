@@ -36,23 +36,25 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Nors reikėjo dar dviejų karų, kad Žemaitija būtų iki galo pripažinta Lietuvai, būtent Žalgirio mūšyje buvo pakirsta Ordino hegemonija, jis nebekėlė egzistencinės grėsmės nei Lenkijai, nei Lietuvai.'
+  teiginys: 'Po Žalgirio mūšio lenkai ir lietuviai pasidalijo grobį, įskaitant belaisvius, Ordino komtūrų barzdas ir vėliavas.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Nors reikėjo dar dviejų karų, kad Žemaitija būtų iki galo pripažinta Lietuvai, būtent Žalgirio mūšyje buvo pakirsta Ordino hegemonija, jis nebekėlė egzistencinės grėsmės nei Lenkijai, nei Lietuvai.'
+  santrauka: 'Po Žalgirio mūšio lenkai ir lietuviai pasidalijo grobį, įskaitant belaisvius, Ordino komtūrų barzdas ir vėliavas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Žalgirio mūšis įėjo į isto-
     riją kaip vienas didžiausių mūšių Viduramžiais, lenkai ir lietuviai pasida-
     lijo grobį – belaisvius, Ordino komtūrų barzdas, vėliavas, taip pat Ordino
     teritoriją – taigi Lietuva – lygiavertė su Lenkija Žalgirio mūšio laimėtoja.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

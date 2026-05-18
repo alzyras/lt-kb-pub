@@ -58,14 +58,8 @@ tags: []
 - Nors tai vienkartinė akcija, citata aiškiai aprašo socialinę protesto formą ir komemoracinius gestus.
 
 ## Teiginiai
-- t-001
-  teiginys: "1989 m. rugpjūčio 23 d. apie du milijonai lietuvių, latvių ir estų Baltijos kelyje susikibo rankomis į daugiau kaip 650 km gyvą žmonių grandinę."
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: "Baltijos kelio komemoraciniai ženklai buvo juodi gedulo kaspinai ir žvakutės."
+- t-003
+  teiginys: '1989 m. rugpjūčio 23 d. Baltijos kelyje apie du milijonai lietuvių, latvių ir estų susikibę rankomis sudarė daugiau kaip 650 km žmonių grandinę.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -73,7 +67,7 @@ tags: []
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Citata aprašo Baltijos kelio laiką, dalyvių skaičių, grandinės formą ir atminties ženklus.
+  santrauka: '1989 m. rugpjūčio 23 d. Baltijos kelyje apie du milijonai lietuvių, latvių ir estų susikibę rankomis sudarė daugiau kaip 650 km žmonių grandinę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1989 m. rugpjūčio 23 d. 19 val. trijų Baltijos valstybių gyventojai pami-
@@ -86,10 +80,9 @@ tags: []
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata patikrinta kaip pažodinis darbinio šaltinio fragmentas."
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
 
 ## Šaltiniai ir įrodymai
 

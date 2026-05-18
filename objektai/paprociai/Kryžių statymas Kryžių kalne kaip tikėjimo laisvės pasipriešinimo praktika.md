@@ -57,8 +57,8 @@ Sovietmečiu Kryžių kalnas tapo tikėjimo laisvės simboliu: valdžiai draudž
 - Praktika susijusi su Kryžių kalno simboline reikšme Lietuvoje ir užsienyje.
 
 ## Teiginiai
-- t-001
-  teiginys: "Kryžių kalnas sovietmečiu tapo kovos už tikėjimo laisvę simboliu, o žmonės naktimis statė vis daugiau kryžių nepaisydami valdžios draudimų."
+- t-002
+  teiginys: 'Kryžių kalnas tapo simboliu ir buvo pramintas lietuviška Golgota.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -66,7 +66,7 @@ Sovietmečiu Kryžių kalnas tapo tikėjimo laisvės simboliu: valdžiai draudž
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Citata aprašo Kryžių kalno simboliką, kryžių naikinimą ir naktinį jų statymą.
+  santrauka: 'Kryžių kalnas tapo simboliu ir buvo pramintas lietuviška Golgota.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taip Kryžių kalnas (jį 1993 m.
@@ -76,9 +76,9 @@ Sovietmečiu Kryžių kalnas tapo tikėjimo laisvės simboliu: valdžiai draudž
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata patikrinta kaip pažodinis darbinio šaltinio fragmentas."
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Šaltiniai ir įrodymai
 

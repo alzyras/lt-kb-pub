@@ -20,24 +20,26 @@ Labiausiai savo veiklą čia buvo išplėtoję lenkų tautiniai demokratai, kuri
 
 ## Teiginiai
 - t-001
-  teiginys: 'Labiausiai savo veiklą čia buvo išplėtoję lenkų tautiniai demokratai, kurių lyderis visų lenkų žemių mastu Romanas Dmovskis (Roman Dmowski) vadovavosi lenkų organinio nacionalizmo doktrina.'
+  teiginys: 'Lenkų įsivaizduojamoje valstybėje etniniams lietuviams buvo numatytas etninės kultūrinės mažumos statusas.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Labiausiai savo veiklą čia buvo išplėtoję lenkų tautiniai demokratai, kurių lyderis visų lenkų žemių mastu Romanas Dmovskis (Roman Dmowski) vadovavosi lenkų organinio nacionalizmo doktrina.'
+  santrauka: 'Lenkų įsivaizduojamoje valstybėje etniniams lietuviams buvo numatytas etninės kultūrinės mažumos statusas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Etniniams lietu-
     viams jų įsivaizduojamoje Lenkijos valstybėje (arba autonominėje Len-
     kijoje Rusijos sudėtyje) buvo numatytas etninės kultūrinės mažumos
     statusas. Nedaug nuo jų skyrėsi lenkų krikščionių demokratų pozicija.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

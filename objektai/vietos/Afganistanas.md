@@ -21,10 +21,14 @@ Apskritai tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Herce
   teiginys: 'Apskritai tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Hercegovinoje, Gruzijoje dalyvavo per du šimtus Lietuvos karių.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: '2004 m. pabaigoje Lietuvai pasiūlyta vadovauti vienos iš Afganistano provincijų – Goro – atkūrimo grupei, sudaryti šioje provincijoje sąlygas užtikrinti stabilumą ir saugumą, padėti Afganistano centrinei valdžiai plėsti savo įtaką regione.'
+  teiginys: '2004 m. pabaigoje Lietuvai pasiūlyta vadovauti Afganistano Goro provincijos atkūrimo grupei ir padėti užtikrinti stabilumą bei saugumą.'
   pagrindžia:
     - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -34,26 +38,26 @@ Apskritai tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Herce
     Apskri-
     tai tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Hercego-
     vinoje, Gruzijoje dalyvavo per du šimtus Lietuvos karių.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: '2004 m. pabaigoje Lietuvai pasiūlyta vadovauti vienos iš Afganistano provincijų – Goro – atkūrimo grupei, sudaryti šioje provincijoje sąlygas užtikrinti stabilumą ir saugumą, padėti Afganistano centrinei valdžiai plėsti savo įtaką regione.'
+  santrauka: '2004 m. pabaigoje Lietuvai pasiūlyta vadovauti Afganistano Goro provincijos atkūrimo grupei ir padėti užtikrinti stabilumą bei saugumą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     2004 m. pabaigoje
     Lietuvai pasiūlyta vadovauti vienos iš Afganistano provincijų – Goro – at-
     kūrimo grupei, sudaryti šioje provincijoje sąlygas užtikrinti stabilumą ir
     saugumą, padėti Afganistano centrinei valdžiai plėsti savo įtaką regione.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

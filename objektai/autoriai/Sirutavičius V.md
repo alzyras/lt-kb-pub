@@ -18,25 +18,23 @@ Laurinavičius Č., Sirutavičius V.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Laurinavičius Č., Sirutavičius V.'
+  teiginys: 'V. Sirutavičius kartu su Č. Laurinavičiumi siejamas su veikalu „Sąjūdis: nuo „persitvarkymo“ iki Kovo 11-osios“.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Laurinavičius Č., Sirutavičius V.'
+  santrauka: 'V. Sirutavičius kartu su Č. Laurinavičiumi siejamas su veikalu „Sąjūdis: nuo „persitvarkymo“ iki Kovo 11-osios“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Laurinavičius Č., Sirutavičius V. Sąjūdis: nuo „persitvarkymo“ iki Kovo
     11-osios, Lietuvos istorija.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Laurinavičius Č]]

@@ -35,22 +35,18 @@ Haličo-Voluinės, arba Ipatijaus, metraštis minimas kaip šaltinis, kuriame pr
 - Paminėjimo data: prie 1252 m.
 
 ## Teiginiai
-- t-001
-  teiginys: "Haličo-Voluinės (Ipatijaus) metraštyje prie 1252 m. minimi keturi dievai."
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: "Šis metraščio paminėjimas naudojamas lietuvių pagonybės panteono aiškinime."
+- t-003
+  teiginys: 'Haličo-Voluinės (Ipatijaus) metraštyje prie 1252 m. minimi keturi dievai.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: Citata pagrindžia metraščio pavadinimą, datą ir keturių dievų paminėjimą.
+  santrauka: 'Haličo-Voluinės (Ipatijaus) metraštyje prie 1252 m. minimi keturi dievai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ilgainiui pasakojimas
@@ -63,5 +59,4 @@ Haličo-Voluinės, arba Ipatijaus, metraštis minimas kaip šaltinis, kuriame pr
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003

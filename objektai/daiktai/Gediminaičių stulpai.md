@@ -36,49 +36,36 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Gediminaičių dinastijos valdymas susijęs su Lietuvos istorijos laikotarpiu, istorinėje tautos sąmonėje laikomu šlovingiausiu.'
+  teiginys: 'Gediminaičių stulpai yra vienas svarbiausių lietuvių tautos ir Lietuvos valstybės simbolių.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Sąjūdžio ženklas su Gedimino stulpais (dail.'
+  teiginys: '1988 m. spalio 6 d. Aukščiausiosios Tarybos Prezidiumas legalizavo Gediminaičių stulpus kaip lietuvių nacionalinį simbolį.'
   pagrindžia:
     - c-002
-- t-003
-  teiginys: 'Kudirkos „Tautišką giesmę“ ir lietuvių nacionalinius simbolius – Vytį ir Gediminaičių stulpus, panaikino ribojančius mitingus, gatvės eitynes ir demonstracijas įsakus.'
-  pagrindžia:
-    - c-003
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Gediminaičių dinastijos valdymas susijęs su Lietuvos istorijos laikotarpiu, istorinėje tautos sąmonėje laikomu šlovingiausiu.'
+  santrauka: 'Gediminaičių stulpai yra vienas svarbiausių lietuvių tautos ir Lietuvos valstybės simbolių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Mūsų kultūroje
     ypač garbingą vietą užima žymiausių jos atstovų – Gedimino, Algirdo,
     Kęstučio, Vytauto – vardai, o dinastijos ženklas – Gediminaičių stulpai –
     yra vienas iš svarbiausių lietuvių tautos ir Lietuvos valstybės simbolių.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Sąjūdžio ženklas su Gedimino stulpais (dail.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Sąjūdžio ženklas su Gedimino stulpais
-    (dail.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Kudirkos „Tautišką giesmę“ ir lietuvių nacionalinius simbolius – Vytį ir Gediminaičių stulpus, panaikino ribojančius mitingus, gatvės eitynes ir demonstracijas įsakus.'
+  santrauka: '1988 m. spalio 6 d. Aukščiausiosios Tarybos Prezidiumas legalizavo Gediminaičių stulpus kaip lietuvių nacionalinį simbolį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Spalio 6-ąją Aukščiausiosios Tarybos Prezidiumas suteikė
@@ -86,19 +73,18 @@ Nenurodyta
     V. Kudirkos „Tautišką giesmę“ ir lietuvių nacionalinius simbolius – Vytį
     ir Gediminaičių stulpus, panaikino ribojančius mitingus, gatvės eitynes ir
     demonstracijas įsakus.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
 
 ### Susiję objektai
-- [[objektai/grupes/Gediminaičių dinastija]]
-- [[objektai/daiktai/Sąjūdžio ženklas su Gedimino stulpais]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/ivykiai/Lietuvių kalbos ir Lietuvos simbolių legalizavimas (1988 m. spalio 6 d.)]]
+- [[objektai/autoriai/V. Kudirka]]

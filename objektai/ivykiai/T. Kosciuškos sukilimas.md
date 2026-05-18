@@ -32,23 +32,7 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Kosciuškos sukilimo metu tapęs Vilniaus gvardijos vadu.'
-  pagrindžia:
-    - c-001
+Nenurodyta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Kosciuškos sukilimo metu tapęs Vilniaus gvardijos vadu.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    L. Gucevičius savo gyvenimu suvienijo ne tik
-    Apšvietos ir klasicizmo idėjas – Lietuvos istorijoje jis vienas ryškiausių
-    menininkų, savo likimą susaisčiusių su krašto likimu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
+Nenurodyta

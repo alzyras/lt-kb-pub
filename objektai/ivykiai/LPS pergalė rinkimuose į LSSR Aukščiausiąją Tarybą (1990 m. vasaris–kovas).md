@@ -31,13 +31,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Sąjūdis jautė savo jėgą – per 1990 m. vasario–kovo rinkimus į LSSR Aukščiausiąją Tarybą iš išrinktų 133 deputatų LPS iškelti ir paremti atstovai gavo net 96 vietas.'
+  teiginys: 'Per 1990 m. vasario–kovo rinkimus į LSSR Aukščiausiąją Tarybą LPS iškelti ir paremti atstovai gavo 96 iš 133 vietų.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Sąjūdis jautė savo jėgą – per 1990 m. vasario–kovo rinkimus į LSSR Aukščiausiąją Tarybą iš išrinktų 133 deputatų LPS iškelti ir paremti atstovai gavo net 96 vietas.'
+  santrauka: 'Per 1990 m. vasario–kovo rinkimus į LSSR Aukščiausiąją Tarybą LPS iškelti ir paremti atstovai gavo 96 iš 133 vietų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sąjūdis jautė savo jėgą – per 1990 m. vasario–kovo rinkimus į LSSR
@@ -45,10 +47,10 @@ Nenurodyta
     stovai gavo net 96 vietas. Tapo aišku, kad Lietuva pasuko nauju keliu,
     komunistų partija neteko vienvaldystės, o dauguma žmonių yra aiškiai
     apsisprendę dėl Lietuvos nepriklausomybės.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

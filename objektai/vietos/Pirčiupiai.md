@@ -18,13 +18,15 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Įtariami pasikėsinimu į vokiečių kareivius žudyti be teismo, kartais sudeginami ištisi kaimai (Pirčiupiai).'
+  teiginys: 'Nacių valdžios laikotarpiu kartais buvo sudeginami ištisi kaimai, tarp jų Pirčiupiai.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Įtariami pasikėsinimu į vokiečių kareivius žudyti be teismo, kartais sudeginami ištisi kaimai (Pirčiupiai).'
+  santrauka: 'Nacių valdžios laikotarpiu kartais buvo sudeginami ištisi kaimai, tarp jų Pirčiupiai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Savo valdymą Lietuvoje naciai tvirtino represijomis, teroru, žudė po-
@@ -32,10 +34,10 @@ tags:
     sugebėjusius pristatyti reikiamo kiekio žemės ūkio produktų. Įtariami
     pasikėsinimu į vokiečių kareivius žudyti be teismo, kartais sudeginami
     ištisi kaimai (Pirčiupiai).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

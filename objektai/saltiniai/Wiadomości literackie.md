@@ -34,25 +34,30 @@ tags: []
 - Data: pradėjo eiti 1760 m.
 
 ## Teiginiai
-- t-001
-  teiginys: "„Wiadomości literackie“ pradėjo eiti 1760 m."
+- t-004
+  teiginys: '„Wiadomości literackie“ pradėjo eiti 1760 m.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: "„Wiadomości literackie“ priskiriamas pirmiesiems Lietuvos laikraščiams."
+- t-005
+  teiginys: '„Wiadomości literackie“ priskiriamas pirmiesiems Lietuvos laikraščiams.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: 'Beveik vienu metu iškilo du nauji Lietuvos kultūros reiškiniai – 1759 m. išleistas pirmasis lietuvių kalbos elementorius, o 1760 m. pradėjo eiti pirmieji Lietuvos laikraščiai – „Kurier Litewski“ ir „Wiadomości literackie“.'
+- t-006
+  teiginys: '„Wiadomości literackie“ 1760 m. pradėjo eiti kaip vienas pirmųjų Lietuvos laikraščių.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: Citata pagrindžia laikraščio pavadinimą, datą ir pirmųjų Lietuvos laikraščių statusą.
+  santrauka: '„Wiadomości literackie“ pradėjo eiti 1760 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Beveik vienu metu iškilo du nauji Lietuvos kultūros reiškiniai – 1759 m.
@@ -64,5 +69,6 @@ tags: []
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-004
+    - t-005
+    - t-006

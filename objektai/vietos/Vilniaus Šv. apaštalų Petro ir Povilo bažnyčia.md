@@ -18,46 +18,32 @@ Vienas didingiausių ir puošniausių LDK baroko interjerų – Vilniaus Šv. Su
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vienas didingiausių ir puošniausių LDK baroko interjerų – Vilniaus Šv.'
+  teiginys: 'Vilniaus Šv. apaštalų Petro ir Povilo bažnyčios interjeras laikomas vienu didingiausių ir puošniausių LDK baroko interjerų.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Sukurti europinės reikšmės kūriniai: Vilniaus katedros Šv.'
-  pagrindžia:
-    - c-002
-- t-003
-  teiginys: 'Tai reikštų, kad Vienas didingiausių ir puošniausių LDK baroko interjerų – Vilniaus Šv.'
+  teiginys: 'Vilniaus Šv. apaštalų Petro ir Povilo bažnyčios interjeras laikomas vienu didingiausių ir puošniausių LDK baroko interjerų.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vienas didingiausių ir puošniausių LDK baroko interjerų – Vilniaus Šv.'
+  santrauka: 'Vilniaus Šv. apaštalų Petro ir Povilo bažnyčios interjeras laikomas vienu didingiausių ir puošniausių LDK baroko interjerų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tai reikštų, kad
     Vienas didingiausių ir puošniausių LDK baroko
     interjerų – Vilniaus Šv. apaštalų Petro ir Povilo bažnyčios
     interjeras (XVII a. antra p.).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Sukurti europinės reikšmės kūriniai: Vilniaus katedros Šv.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kazimie-
-    ro koplyčia, Vilniaus Šv. Petro ir Povilo bažnyčia ar Pažaislio vienuolyno
-    ansamblis prie Kauno.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
     - t-002
-    - t-003

@@ -34,22 +34,24 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vyko streikai, demonstracijos, mitingai.'
+  teiginys: '1905 m. revoliucijai pasiekus Lietuvos miestus, juose vyko streikai, demonstracijos ir mitingai.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vyko streikai, demonstracijos, mitingai.'
+  santrauka: '1905 m. revoliucijai pasiekus Lietuvos miestus, juose vyko streikai, demonstracijos ir mitingai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1905 m. pradžioje Rusijos sostinėje prasidėjusi pirmoji socialinė de-
     mokratinė revoliucija netruko pasiekti ir Lietuvos miestus. Vyko streikai,
     demonstracijos, mitingai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

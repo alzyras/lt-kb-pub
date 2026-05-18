@@ -84,7 +84,6 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
     - c-008
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-
 - t-009
   teiginys: 'Kardininkai šiame šaltinyje rodomi kaip viena iš dviejų pagrindinių Kęstučio priešų jėgų.'
   pagrindžia:
@@ -103,14 +102,6 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
     - c-011
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-013
-  teiginys: 'Vienydamas Lietuvą, Mindaugas negalėjo nekreipti dėmesio į tokią faktų grandinę: 1202 m. Dauguvos žiotyse susikūręs Kalavijuočių ordinas pamažu pradeda užkariauti lybius, latvius, estus, kuršius.'
-  pagrindžia:
-    - c-013
-- t-014
-  teiginys: 'Nors žemaičiai Saulės mūšyje 1236 m. šį žygį Vokiečių ordino riteris pagrobia vaiką.'
-  pagrindžia:
-    - c-014
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -227,7 +218,6 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   patikimumo_pagrindimas: 'Citata trumpa ir kiek OCR iškraipyta, bet reikšmė aiški.'
   pagrindžia:
     - t-008
-
 - c-009
   santrauka: Kardininkai parodyti kaip nuolatinė šiaurinė Kęstučio priešų jėga.
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -280,36 +270,7 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-011
-- c-013
-  santrauka: 'Vienydamas Lietuvą, Mindaugas negalėjo nekreipti dėmesio į tokią faktų grandinę: 1202 m. Dauguvos žiotyse susikūręs Kalavijuočių ordinas pamažu pradeda užkariauti lybius, latvius, estus, kuršius.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kovodamas
-    prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kunigaikštis
-    Konradas 1230 m. pakvietė kurtis Kulmo žemėje prie Vyslos Vokiečių
-    ordino riterius (kryžiuočius).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-013
-- c-014
-  santrauka: 'Nors žemaičiai Saulės mūšyje 1236 m. šį žygį Vokiečių ordino riteris pagrobia vaiką.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    atlaikė, replės Lietuvą jau spaudė – 1237 m. Kalavijuočių ordinas tapo
-    Kryžiuočių ordino vasalu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-014
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/paprociai/Vakarų pagalbos kvietimas ir svečių iš Vokietijos šaukimas]]
-- [[objektai/grupes/Žemaičiai]]

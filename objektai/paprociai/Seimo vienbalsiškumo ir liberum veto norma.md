@@ -55,20 +55,6 @@ Seimo vienbalsiškumo ir liberum veto norma rėmėsi bajorų luomo politinėmis 
 Nenurodyta
 
 ## Reikšmingi paminėjimai
-- c-50364
-  santrauka: Lietuvos atstovų seimavimai minimi prieš bendrus seimus.
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Be
-    to, prieš vykdami į bendrus seimus, Lietuvos atstovai surengdavo savo
-    „seimavimus“ bendrai pozicijai aptarti.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Rankiniu būdu sutrumpinta į šaltinyje exact randamą fragmentą po OCR tarpų validacijos klaidos."
-  pagrindžia:
-    - t-002
-    - t-003
+Nenurodyta
 
 ## Šaltiniai ir įrodymai

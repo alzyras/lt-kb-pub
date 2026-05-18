@@ -19,24 +19,4 @@ tags:
 Taigi, drįstume teigti, kad bent jau iki Jogailos tapsmo Lenkijos karaliumi 1386 m. Lietuva nusipelno būti vadinama karalyste, tegu ir neturinti visų Vakarų pripažinimo atributų – savotiška arba nesisteminė karalystė.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Taigi, drįstume teigti, kad bent jau iki Jogailos tapsmo Lenkijos karaliumi 1386 m. Lietuva nusipelno būti vadinama karalyste, tegu ir neturinti visų Vakarų pripažinimo atributų – savotiška arba nesisteminė karalystė.'
-  pagrindžia:
-    - c-001
-
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Taigi, drįstume teigti, kad bent jau iki Jogailos tapsmo Lenkijos karaliumi 1386 m. Lietuva nusipelno būti vadinama karalyste, tegu ir neturinti visų Vakarų pripažinimo atributų – savotiška arba nesisteminė karalystė.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Juolab kad Lietuva iš tikrųjų tapo
-    unikali valstybė Europoje, kartais net laikoma savarankiška civilizacija,
-    nepriskirtina nei lotyniškajai Vakarų Europai, nei bizantiškajai Rytų Eu-
-    ropai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001

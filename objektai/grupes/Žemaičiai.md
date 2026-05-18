@@ -124,8 +124,6 @@ tags:
     - c-016
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-
-
 - t-021
   teiginys: '1382 m. pagonys žemaičiai dėl tikėjimo bendrumo davė Kęstučiui 9000 vyrų.'
   pagrindžia:
@@ -168,26 +166,6 @@ tags:
     - c-036
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-027
-  teiginys: 'Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo) valstybės pakraščiuose, ne lietuvių, o senųjų rusų (arba rusėnų), taip pat žemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš Lietuvos.'
-  pagrindžia:
-    - c-040
-- t-028
-  teiginys: 'Tačiau dalis etninės Lietuvos yra už šiandieninės Lietuvos ribų, antra vertus, Lietuvos vardu vadinamos į vakarus nuo etninių žemių esančios senųjų žemaičių, dalies jotvingių, sėlių, žiemgalių ir prūsų teritorijos.'
-  pagrindžia:
-    - c-041
-- t-029
-  teiginys: 'Nors žemaičiai Saulės mūšyje 1236 m. šį žygį Vokiečių ordino riteris pagrobia vaiką.'
-  pagrindžia:
-    - c-042
-- t-030
-  teiginys: 'Žemaičiai, sutriuškinę jungtinę Vokiečių ir Livonijos ordinų kariuomenę prie Durbės 1260 m. liepos 13 d., tarpininkaujant Treniotai, iš tikrųjų siūlė Mindaugui atsimesti nuo krikščionybės ir pradėti karą su Livonija.'
-  pagrindžia:
-    - c-043
-- t-031
-  teiginys: 'Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir stačiatikių dvariškių pasipriešinimo.'
-  pagrindžia:
-    - c-044
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -449,8 +427,6 @@ tags:
   pagrindžia:
     - t-012
     - t-012
-
-
 - c-028
   santrauka: Pagonys žemaičiai suteikė Kęstučiui didelę karinę paramą.
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -614,78 +590,6 @@ tags:
     - t-023
     - t-025
     - t-025
-- c-040
-  santrauka: 'Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo) valstybės pakraščiuose, ne lietuvių, o senųjų rusų (arba rusėnų), taip pat žemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš Lietuvos.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Grindžiama
-    mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
-    valstybės pakraščiuose, ne lietuvių, o senųjų rusų (arba rusėnų), taip pat
-    žemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš
-    Lietuvos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-027
-- c-041
-  santrauka: 'Tačiau dalis etninės Lietuvos yra už šiandieninės Lietuvos ribų, antra vertus, Lietuvos vardu vadinamos į vakarus nuo etninių žemių esančios senųjų žemaičių, dalies jotvingių, sėlių, žiemgalių ir prūsų teritorijos.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau dalis etninės Lietuvos yra už šian-
-    dieninės Lietuvos ribų, antra vertus, Lietuvos vardu vadinamos į vakarus
-    nuo etninių žemių esančios senųjų žemaičių, dalies jotvingių, sėlių, žiem-
-    galių ir prūsų teritorijos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-028
-- c-042
-  santrauka: 'Nors žemaičiai Saulės mūšyje 1236 m. šį žygį Vokiečių ordino riteris pagrobia vaiką.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    atlaikė, replės Lietuvą jau spaudė – 1237 m. Kalavijuočių ordinas tapo
-    Kryžiuočių ordino vasalu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-029
-- c-043
-  santrauka: 'Žemaičiai, sutriuškinę jungtinę Vokiečių ir Livonijos ordinų kariuomenę prie Durbės 1260 m. liepos 13 d., tarpininkaujant Treniotai, iš tikrųjų siūlė Mindaugui atsimesti nuo krikščionybės ir pradėti karą su Livonija.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Žemaičiai, sutriuškinę jungtinę Vokiečių ir Livonijos ordinų
-    kariuomenę prie Durbės 1260 m. liepos 13 d., tarpininkaujant Treniotai,
-    iš tikrųjų siūlė Mindaugui atsimesti nuo krikščionybės ir pradėti karą su
-    Livonija.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-030
-- c-044
-  santrauka: 'Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir stačiatikių dvariškių pasipriešinimo.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Gedimino krikšto akcija
-    nepavyko dėl žemaičių ir stačiatikių dvariškių pasipriešinimo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-031
 
 ## Ryšiai
 ### Susiję objektai
@@ -693,9 +597,5 @@ tags:
 - [[objektai/paprociai/Taikos patvirtinimas sudaužiant delnus]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/vietos/Žemaičių kraštas]]
-- [[objektai/grupes/Kalavijuočių ordinas]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Rusėnai]]
-- [[objektai/grupes/Stačiatikiai]]
 - [[objektai/grupes/Valakai]]
-- [[objektai/asmenys/Vytautas]]

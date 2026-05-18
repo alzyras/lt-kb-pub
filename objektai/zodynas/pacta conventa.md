@@ -23,10 +23,6 @@ Jis turėdavo tik tiek valdžios, kiek bajorija jam duodavo jo išrinkimo metu s
   teiginys: 'Jis turėdavo tik tiek valdžios, kiek bajorija jam duodavo jo išrinkimo metu sudaromąja sutartimi — pacta conventa.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Lenkijos ir Lietuvos valstybės teisių sistemos požiūriu įžadas tapo pacta conventa dalimi: taip nuo 1573 m. buvo vadinami elekcinių valdovų įsipareigojimai LLV bajorijai.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -45,22 +41,3 @@ Jis turėdavo tik tiek valdžios, kiek bajorija jam duodavo jo išrinkimo metu s
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Lenkijos ir Lietuvos valstybės teisių sistemos požiūriu įžadas tapo pacta conventa dalimi: taip nuo 1573 m. buvo vadinami elekcinių valdovų įsipareigojimai LLV bajorijai.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Taip įža-
-    do įstatymas teisės normų hierarchijoje iškilo net virš Gegužės trečiosios
-    konstitucijos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/paprociai/Kandidatas 44 Elekcinių valdovų pacta conventa priesaikos bajorijai]]
-- [[objektai/paprociai/Kandidatas Elekcinių valdovų pacta conventa priesaikos bajorijai]]

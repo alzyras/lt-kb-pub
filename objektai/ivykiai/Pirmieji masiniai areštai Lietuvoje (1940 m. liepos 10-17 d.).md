@@ -42,13 +42,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Represijos ir 1941 metų Birželio sukilimas Represijos, areštai, deportacijos, jų baimė – sudedamoji bolševikų vykdytos politikos dalis.'
+  teiginys: '1940 m. liepos 6 d. A. Sniečkus išleido įsakymą, leidusį suimti agituojančiuosius prieš Liaudies vyriausybę.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Represijos ir 1941 metų Birželio sukilimas Represijos, areštai, deportacijos, jų baimė – sudedamoji bolševikų vykdytos politikos dalis.'
+  santrauka: '1940 m. liepos 6 d. A. Sniečkus išleido įsakymą, leidusį suimti agituojančiuosius prieš Liaudies vyriausybę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Represijos ir 1941 metų
@@ -63,11 +65,11 @@ Nenurodyta
     L I E T U V O S  I S T O R I J A
     194
     turėjo neleisti tokiems pabėgti į Vokietiją.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

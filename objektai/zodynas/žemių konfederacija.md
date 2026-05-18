@@ -21,24 +21,26 @@ Taigi matyti, kad 1219 m. Lietuva buvo dar ne valstybė, o tik žemių konfedera
 
 ## Teiginiai
 - t-001
-  teiginys: 'Taigi matyti, kad 1219 m. Lietuva buvo dar ne valstybė, o tik žemių konfederacija, neturėjusi vieno valdovo.'
+  teiginys: 'Žemių konfederacija buvo santvarka, kai atskirų žemių kunigaikščiai derino savo veiksmus, o iš jų jau buvo iškilę vyresnieji kunigaikščiai.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Taigi matyti, kad 1219 m. Lietuva buvo dar ne valstybė, o tik žemių konfederacija, neturėjusi vieno valdovo.'
+  santrauka: 'Žemių konfederacija buvo santvarka, kai atskirų žemių kunigaikščiai derino savo veiksmus, o iš jų jau buvo iškilę vyresnieji kunigaikščiai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Žemė buvo to meto politinės organiza-
     cijos vienetas, žemių konfederacija – tai santvarka, kai atskirų žemių kuni-
     gaikščiai derina savo veiksmus, o iš šių kunigaikščių jau yra iškilę vyresnieji
     kunigaikščiai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

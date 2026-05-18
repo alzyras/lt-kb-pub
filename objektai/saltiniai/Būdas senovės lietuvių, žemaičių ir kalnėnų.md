@@ -20,13 +20,17 @@ Daukantas persikėlė į Sankt Peterburgą, įsidarbino Rusijos valstybės Senat
 
 ## Teiginiai
 - t-001
-  teiginys: 'Daukantas persikėlė į Sankt Peterburgą, įsidarbino Rusijos valstybės Senato archyve, kad galėtų prieiti prie ten saugomų Lietuvos istorijos dokumentų, parašė lietuvių kalba dar dvi dideles Lietuvos istorijos knygas, išleido plačią beletrizuotą etninių.'
+  teiginys: 'Simonas Daukantas išleido beletrizuotą etninių lietuvių kultūros studiją „Būdas senovės lietuvių, žemaičių ir kalnėnų“.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Daukantas persikėlė į Sankt Peterburgą, įsidarbino Rusijos valstybės Senato archyve, kad galėtų prieiti prie ten saugomų Lietuvos istorijos dokumentų, parašė lietuvių kalba dar dvi dideles Lietuvos istorijos knygas, išleido plačią beletrizuotą etninių.'
+  santrauka: 'Simonas Daukantas išleido beletrizuotą etninių lietuvių kultūros studiją „Būdas senovės lietuvių, žemaičių ir kalnėnų“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vėliau S. Daukantas persikėlė į Sankt Peterburgą, įsidar-
@@ -35,10 +39,10 @@ Daukantas persikėlė į Sankt Peterburgą, įsidarbino Rusijos valstybės Senat
     vos istorijos knygas, išleido plačią beletrizuotą etninių lietuvių kultūros
     studiją „Būdas senovės lietuvių, žemaičių ir kalnėnų“, seriją švietėjiškų,
     Simonas Daukantas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

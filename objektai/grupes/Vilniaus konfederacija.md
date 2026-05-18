@@ -20,13 +20,15 @@ Targovicos konfederacijai 1792 m. birželio 25 d. pritarė Vilniaus (t.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Targovicos konfederacijai 1792 m. birželio 25 d. pritarė Vilniaus (t.'
+  teiginys: 'Vilniaus konfederacija 1792 m. birželio 25 d. pritarė Targovicos konfederacijai.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Targovicos konfederacijai 1792 m. birželio 25 d. pritarė Vilniaus (t.'
+  santrauka: 'Vilniaus konfederacija 1792 m. birželio 25 d. pritarė Targovicos konfederacijai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Targovicos konfederacijai 1792  m. birželio 25 d. pritarė Vilniaus (t.  y.
@@ -35,15 +37,14 @@ Targovicos konfederacijai 1792 m. birželio 25 d. pritarė Vilniaus (t.
     ir Vilniaus vyskupas I. Masalskis. Rugsėjo 11 dieną Targovicos ir Vilniaus
     konfederacijos Brastoje susijungė į vieną Abiejų Tautų konfederaciją ir
     savo centru paskelbė Gardiną.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų konfederacija]]
-- [[objektai/grupes/Targovicos konfederacija]]

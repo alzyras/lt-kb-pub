@@ -18,13 +18,15 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Š iuo laikotarpiu Lietuva (darant išlygą dėl Užnemunės) priklausė autokratinei Rusijos imperijai (išskyrus pusmečiui 1812 m. antrojoje pusėje įsiterpusį Napoleono Bonaparto „interliudą“).'
+  teiginys: '1812 m. antrojoje pusėje Lietuvos priklausymą Rusijos imperijai pusmečiui pertraukė Napoleono Bonaparto interliudas.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Š iuo laikotarpiu Lietuva (darant išlygą dėl Užnemunės) priklausė autokratinei Rusijos imperijai (išskyrus pusmečiui 1812 m. antrojoje pusėje įsiterpusį Napoleono Bonaparto „interliudą“).'
+  santrauka: '1812 m. antrojoje pusėje Lietuvos priklausymą Rusijos imperijai pusmečiui pertraukė Napoleono Bonaparto interliudas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Be to, pagal lyginamąją kalbotyrą, lietuvių kalba yra labiausiai
@@ -37,15 +39,14 @@ tags:
     priklausė autokratinei Rusijos imperijai (išskyrus pus-
     mečiui 1812 m. antrojoje pusėje įsiterpusį Napoleono Bonaparto „inter-
     liudą“).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Kristijonas Gotlibas Milkus]]
 - [[objektai/zodynas/autokratinė monarchinė imperija]]

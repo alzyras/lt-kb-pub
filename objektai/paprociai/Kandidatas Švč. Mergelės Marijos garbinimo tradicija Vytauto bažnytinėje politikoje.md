@@ -36,24 +36,26 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Mergelės Marijos – iškart po šio mūšio funduota Vytauto bažnyčia Kaune buvo pašvęsta Švč.'
+  teiginys: 'Vytautas pradėjo Mergelės Marijos garbinimo tradiciją Lietuvoje, siekdamas įtraukti Lietuvą į Europos katalikiškųjų šalių gretas.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Mergelės Marijos – iškart po šio mūšio funduota Vytauto bažnyčia Kaune buvo pašvęsta Švč.'
+  santrauka: 'Vytautas pradėjo Mergelės Marijos garbinimo tradiciją Lietuvoje, siekdamas įtraukti Lietuvą į Europos katalikiškųjų šalių gretas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Mergelės garbinimo tradiciją Lietuvoje pradėjo Vytautas, nors jo baž-
     nytinę politiką Lietuvos krikšto akcijoje užgožė Jogaila, o pagrindinis Vy-
     tauto tikslas buvo pastatyti Lietuvą Europos katalikiškųjų šalių greton. Tai
     padaryti trukdė Vokiečių ordinas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

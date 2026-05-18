@@ -19,20 +19,24 @@ Lietuvos diplomatijos istorija (1925–1940).
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lietuvos diplomatijos istorija (1925–1940).'
+  teiginys: 'Vytauto Žalio Lietuvos diplomatijos istorija (1925–1940) pirmas tomas išleistas Vilniuje 2007 m.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Lietuvos diplomatijos istorija (1925–1940).'
+  santrauka: 'Vytauto Žalio Lietuvos diplomatijos istorija (1925–1940) pirmas tomas išleistas Vilniuje 2007 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Žalys V. Lietuvos diplomatijos istorija (1925–1940). I tomas. Vilnius, 2007.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

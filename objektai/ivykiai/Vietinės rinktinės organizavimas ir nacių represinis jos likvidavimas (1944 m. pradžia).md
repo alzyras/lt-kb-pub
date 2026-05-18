@@ -31,13 +31,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje pritarė lietuvių siūlymui sukurti lietuviškus karinius dalinius – Vietinę rinktinę, kuriai vadovautų lietuviai karininkai ir kuri veiktų tik Lietuvos teritorijoje.'
+  teiginys: '1944 m. pradžioje vokiečių valdžia pritarė lietuvių siūlymui sukurti Vietinę rinktinę, veikiančią tik Lietuvos teritorijoje.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje pritarė lietuvių siūlymui sukurti lietuviškus karinius dalinius – Vietinę rinktinę, kuriai vadovautų lietuviai karininkai ir kuri veiktų tik Lietuvos teritorijoje.'
+  santrauka: '1944 m. pradžioje vokiečių valdžia pritarė lietuvių siūlymui sukurti Vietinę rinktinę, veikiančią tik Lietuvos teritorijoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vokiečių
@@ -46,11 +48,11 @@ Nenurodyta
     kuriai vadovautų lietuviai karininkai ir kuri veiktų tik Lietuvos teritori-
     joje. Vietinei rinktinei ėmėsi vadovauti generolas Povilas Plechavičius. Į jo
     kvietimą atsiliepė 20 tūkst. savanorių, į dalinius priimta 10 tūkst. vyrų.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

@@ -49,28 +49,24 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   teiginys: '1430 m. spalio 17 d. Vytautas su Jogaila išjojo iš Vilniaus į Trakus, o pakeliui nukritęs nuo arklio buvo atvežtas į Trakus žmonos vežime.'
   pagrindžia:
     - c-010
-
 - t-011
   teiginys: 'Žygimantas Kęstutaitis su kariuomene ėjo į Trakus.'
   pagrindžia:
     - c-012
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-
 - t-012
   teiginys: '1655 m. rugpjūtį po Vilniaus užėmimo netrukus buvo užimti Trakai ir Kaunas.'
   pagrindžia:
     - c-013
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-
 - t-013
   teiginys: 'Pagrindinė priešo vora slinko iš Vilniaus pro Trakus ir Aukštadvarį į Jiezną.'
   pagrindžia:
     - c-014
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-
 - t-014
   teiginys: '1379 m. rugsėjo 29 d. po trijų dienų derybų Trakuose buvo pasirašyta sutartis.'
   pagrindžia:
@@ -89,22 +85,6 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
     - c-017
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-017
-  teiginys: '1323 Gediminas perkelia Lietuvos sostinę iš Trakų į Vilnių.'
-  pagrindžia:
-    - c-018
-- t-018
-  teiginys: 'Valdant Gediminui ar jo sūnui Algirdui buvo sukurta visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai, Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys.'
-  pagrindžia:
-    - c-019
-- t-019
-  teiginys: 'Vytautas perstatydino ar pastatė mūrines pilis Vilniuje, Trakuose, Kaune, Gardine, Naugarduke ir Lucke.'
-  pagrindžia:
-    - c-020
-- t-020
-  teiginys: 'Būtent iš LDK karaimų bendruomenės iškilo žymiausias, tolerancijos tyrėjų dažnai minimas Isaakas ben Abrahamas iš Trakų (1525–1586).'
-  pagrindžia:
-    - c-021
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -208,7 +188,6 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 
 ### Susiję įvykiai
 - [[Vytauto mirtis (1430 m. spalio 27 d.)]]
-
 - c-012
   santrauka: Citata tiesiogiai mini žygį į Trakus.
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -225,7 +204,6 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-011
-
 - c-013
   santrauka: Citata Trakus mini tarp 1655 m. užimtų miestų.
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -243,7 +221,6 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-012
-
 - c-014
   santrauka: Citata rodo Trakus kaip priešo judėjimo kelią į Jiezną.
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -257,7 +234,6 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-013
-
 - c-015
   santrauka: Citata tiesiogiai datuoja Trakus kaip 1379 m. sutarties pasirašymo vietą.
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -302,59 +278,6 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-016
-- c-018
-  santrauka: '1323 Gediminas perkelia Lietuvos sostinę iš Trakų į Vilnių.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Gediminas perkelia Lietuvos sostinę iš Trakų į Vilnių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-017
-- c-019
-  santrauka: 'Valdant Gediminui ar jo sūnui Algirdui buvo sukurta visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai, Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Valdant Gediminui ar jo sūnui Algirdui buvo sukurta
-    visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai,
-    Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-018
-- c-020
-  santrauka: 'Vytautas perstatydino ar pastatė mūrines pilis Vilniuje, Trakuose, Kaune, Gardine, Naugarduke ir Lucke.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vytautas
-    perstatydino ar pastatė mūrines pilis Vilniuje, Trakuose, Kaune, Gardine,
-    Naugarduke ir Lucke.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-019
-- c-021
-  santrauka: 'Būtent iš LDK karaimų bendruomenės iškilo žymiausias, tolerancijos tyrėjų dažnai minimas Isaakas ben Abrahamas iš Trakų (1525–1586).'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Būtent iš LDK karaimų bendruomenės iškilo žymiausias, tolerancijos
-    tyrėjų dažnai minimas Isaakas ben Abrahamas iš Trakų (1525–1586).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-020
 
 ## Ryšiai
 ### Susiję objektai
@@ -363,4 +286,3 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - [[objektai/vietos/Naugardukas]]
 - [[objektai/vietos/Vilnius]]
 - [[objektai/ivykiai/Vytauto mirtis (1430 m. spalio 27 d.)]]
-- [[objektai/asmenys/Isaakas ben Abrahamas iš Trakų]]

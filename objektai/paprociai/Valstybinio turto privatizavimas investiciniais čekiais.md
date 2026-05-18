@@ -57,14 +57,14 @@ Atkūrus nepriklausomybę privatizacijos praktika rėmėsi investiciniais čekia
 - Praktika siejama su planinės ekonomikos perėjimu į kapitalistinę rinką ir visuomenės vertinimu, kad privatizacija buvo neteisinga.
 
 ## Teiginiai
-- t-001
-  teiginys: "Privatizacijos laikotarpiu dauguma valstybinių įmonių tapo privačios, o pradiniam kapitalui naudoti investiciniais čekiais pirktas turtas, paskolos ir užsienio lėšos."
+- t-003
+  teiginys: 'Privatizacijos laikotarpiu dauguma valstybinių įmonių tapo privačios ir susidarė naujas verslininkų sluoksnis.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: "Piliečiams formaliai sudarytos vienodos galimybės įsigyti privatizuojamą valstybės turtą už investicinius čekius, bet dalis gyventojų čekius pardavė ir neprivatizavo būsto."
+- t-004
+  teiginys: 'Daugelis gyventojų pardavė čekius ir nesugebėjo privatizuoti savo gyvenamojo būsto.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -72,7 +72,7 @@ Atkūrus nepriklausomybę privatizacijos praktika rėmėsi investiciniais čekia
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Citata aprašo pradinio kapitalo šaltinius ir valstybinio turto privatizavimo rezultatą.
+  santrauka: 'Privatizacijos laikotarpiu dauguma valstybinių įmonių tapo privačios ir susidarė naujas verslininkų sluoksnis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vadinamuoju privatizacijos laikotarpiu dauguma valstybinių įmonių
@@ -82,11 +82,11 @@ Atkūrus nepriklausomybę privatizacijos praktika rėmėsi investiciniais čekia
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata patikrinta kaip pažodinis darbinio šaltinio fragmentas."
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-003
 - c-002
-  santrauka: Citata aprašo investicinių čekių naudojimo nelygumus ir privatizacijos vertinimą.
+  santrauka: 'Daugelis gyventojų pardavė čekius ir nesugebėjo privatizuoti savo gyvenamojo būsto.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nemažai čekių supirkėjų, nusipirkę anksčiau buvu-
@@ -97,9 +97,9 @@ Atkūrus nepriklausomybę privatizacijos praktika rėmėsi investiciniais čekia
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata patikrinta kaip pažodinis darbinio šaltinio fragmentas."
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-004
 
 ## Šaltiniai ir įrodymai
 

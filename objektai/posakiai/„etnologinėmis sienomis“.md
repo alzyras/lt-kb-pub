@@ -21,13 +21,15 @@ Vienbalsiai priimtas Lietuvos valstybės nepriklausomybės proklamavimo dokument
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vienbalsiai priimtas Lietuvos valstybės nepriklausomybės proklamavimo dokumentas, kuris dar kartą, kaip ir 1918 m. Vasario 16 Aktas, skelbė, kad Lietuva yra nepriklausoma valstybė, su „etnologinėmis sienomis“, tai tikriausiai turėjo reikšti, kad kiek.'
+  teiginys: 'Vasario 16 Aktas skelbė, kad Lietuva yra nepriklausoma valstybė su „etnologinėmis sienomis“.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vienbalsiai priimtas Lietuvos valstybės nepriklausomybės proklamavimo dokumentas, kuris dar kartą, kaip ir 1918 m. Vasario 16 Aktas, skelbė, kad Lietuva yra nepriklausoma valstybė, su „etnologinėmis sienomis“, tai tikriausiai turėjo reikšti, kad kiek.'
+  santrauka: 'Vasario 16 Aktas skelbė, kad Lietuva yra nepriklausoma valstybė su „etnologinėmis sienomis“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vasario 16 Aktas, skelbė,
@@ -37,11 +39,11 @@ Vienbalsiai priimtas Lietuvos valstybės nepriklausomybės proklamavimo dokument
     išrinktas LŪS lyderis agronomas Aleksandras Stulginskis (1922–1926 m.
     išrinktas Lietuvos prezidentu), o birželio 19-ąją sudaryta liaudininko
     Kazio Griniaus vadovaujama vyriausybė.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 
@@ -50,3 +52,7 @@ Vienbalsiai priimtas Lietuvos valstybės nepriklausomybės proklamavimo dokument
 - [[temos/aktas - dokumentas]]
 - [[temos/aktas]]
 - [[temos/dokumentas]]
+
+### Susiję objektai
+- [[objektai/asmenys/Aleksandras Stulginskis]]
+- [[objektai/asmenys/Kazys Grinius]]

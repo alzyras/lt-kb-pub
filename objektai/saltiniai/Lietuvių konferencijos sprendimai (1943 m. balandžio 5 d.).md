@@ -20,13 +20,17 @@ Patirdama pralaimėjimų Rytų fronte okupacinė valdžia švelnino savo pozicij
 
 ## Teiginiai
 - t-001
-  teiginys: 'Patirdama pralaimėjimų Rytų fronte okupacinė valdžia švelnino savo poziciją ir leido lietuviams 1943 m. balandžio 5 d. Kaune sušaukti vadinamąją Lietuvių konferenciją.'
+  teiginys: 'Lietuvių konferencijos sprendimai rodė dalyvių ir dalies Lietuvos visuomenės orientaciją į Vokietiją bei reikalavo kolaboruoti jos tarnybose.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Patirdama pralaimėjimų Rytų fronte okupacinė valdžia švelnino savo poziciją ir leido lietuviams 1943 m. balandžio 5 d. Kaune sušaukti vadinamąją Lietuvių konferenciją.'
+  santrauka: 'Lietuvių konferencijos sprendimai rodė dalyvių ir dalies Lietuvos visuomenės orientaciją į Vokietiją bei reikalavo kolaboruoti jos tarnybose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nors
@@ -34,10 +38,10 @@ Patirdama pralaimėjimų Rytų fronte okupacinė valdžia švelnino savo pozicij
     imti sprendimai atspindėjo jos dalyvių ir dalies Lietuvos visuomenės
     orientaciją į Vokietiją: juos vykdant reikėjo kolaboruoti su Vokietija jos
     darbo ir karo tarnybų struktūrose.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

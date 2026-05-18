@@ -30,13 +30,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Naujoji tvarka daugiau teisių suteikė sąjunginėms respublikoms: jos tvirtino respublikinio pavaldumo įmonių gamybos planus, skirstė jų gaminamą produkciją, o 1957 m. vietoje pramonės ir statybos ministerijų įsteigus regionines Liaudies ūkio tarybas (LŪT).'
+  teiginys: '1957 m. vietoje pramonės ir statybos ministerijų įsteigtos regioninės Liaudies ūkio tarybos turėjo pertvarkyti pramonės valdymą iš šakinio į teritorinį.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Naujoji tvarka daugiau teisių suteikė sąjunginėms respublikoms: jos tvirtino respublikinio pavaldumo įmonių gamybos planus, skirstė jų gaminamą produkciją, o 1957 m. vietoje pramonės ir statybos ministerijų įsteigus regionines Liaudies ūkio tarybas (LŪT).'
+  santrauka: '1957 m. vietoje pramonės ir statybos ministerijų įsteigtos regioninės Liaudies ūkio tarybos turėjo pertvarkyti pramonės valdymą iš šakinio į teritorinį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Naujoji tvarka daugiau teisių suteikė sąjunginėms respublikoms:
@@ -45,11 +47,11 @@ Nenurodyta
     įsteigus regionines Liaudies ūkio tarybas (LŪT), pramonės valdymas turėjo
     persitvarkyti iš šakinio į teritorinį. Lietuvos LŪT ėmė kontroliuoti šalies
     įmones, kuriose iš viso dirbo 76 proc. šalies darbininkų.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

@@ -53,8 +53,8 @@ Minimos grąžintinų žydų kultūros vertybių kontekste.
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: "Lietuva siekė grąžinti žydams išblaškytas kultūros vertybes, tarp jų išsaugotas 300 Torų."
+- t-002
+  teiginys: 'Lietuva siekė grąžinti žydams išblaškytas kultūros vertybes, tarp jų išsaugotas 300 Torų.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -62,7 +62,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Toros minimos kultūros vertybių grąžinimo ir religinio turto restitucijos kontekste.
+  santrauka: 'Lietuva siekė grąžinti žydams išblaškytas kultūros vertybes, tarp jų išsaugotas 300 Torų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Narystės ir demokratijos įtvirtinimui Lietuva ėmė ryžtingai siekti de-
@@ -74,11 +74,11 @@ Nenurodyta
     spaudos, rinkimų laisvę.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Šaltiniai ir įrodymai
 
@@ -92,4 +92,3 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/zodynas/Restitucija]]
-- [[objektai/paprociai/Tautinių bendrijų kalbos, kultūros ir papročių puoselėjimas]]

@@ -67,49 +67,7 @@ Po 1863-1864 m. sukilimo M. Valančius per kunigus ragino kaimiečius neleisti v
 Nenurodyta
 
 ## Reikšmingi paminėjimai
-- c-49951
-  santrauka: Rusiškų mokyklų boikotas siejamas su Valančiaus raginimu per kunigus.
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Po 1863–
-    1864 m. sukilimo leidus steigti tik rusiškas mokyklas, kuriose mokytų
-    rusai, vyskupas per patikimus kunigus paragino kaimiečius vaikų į tokias
-    mokyklas neleisti.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Rankiniu būdu sutrumpinta į šaltinyje exact randamą fragmentą po OCR tarpų validacijos klaidos."
-  pagrindžia:
-    - t-001
-    - t-002
-- c-79489
-  santrauka: Daraktorinių mokyklėlių tęstinumas šaltinyje pavadintas tradicija.
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nors tas mokyklėles persekiojo policija, įkliuvusius jų mokytojus valdžia
-    kartais ištremdavo keleriems metams į Rusijos gilumą, tai nieko neatbai-
-    dė – buvo poreikis, susiformavo tradicija.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Rankiniu būdu sutrumpinta į šaltinyje exact randamą fragmentą po OCR tarpų validacijos klaidos."
-  pagrindžia:
-    - t-003
-- c-35780
-  santrauka: Naminis vaikų mokymas kaime tęsėsi ir po revoliucijos.
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kaime ir toliau vaikus mokyta skaityti,
-    rašyti ir skaičiuoti grupelėmis namuose – to valdžia nebedraudė.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Rankiniu būdu sutrumpinta į šaltinyje exact randamą fragmentą po OCR tarpų validacijos klaidos."
-  pagrindžia:
-    - t-004
+Nenurodyta
 
 ## Šaltiniai ir įrodymai
 
@@ -117,7 +75,3 @@ Nenurodyta
 ### Laikotarpiai
 - [[laikotarpiai/XIX amžius]]
 - [[laikotarpiai/XX amžius]]
-
-### Susiję objektai
-- [[objektai/paprociai/Kandidatas 60 Rusiškų mokyklų boikotas ir slaptos daraktorinės mokyklėlės]]
-- [[objektai/paprociai/Kandidatas Rusiškų mokyklų boikotas ir slaptos daraktorinės mokyklėlės]]

@@ -21,10 +21,14 @@ Vietinio valdymo grandyje buvo gubernija, kurios galva – caro skiriamas, bet v
   teiginys: 'Vietinio valdymo grandyje buvo gubernija, kurios galva – caro skiriamas, bet vidaus reikalų žinybai pavaldus gubernatorius, atsiunčiamas iš centro arba kitų gubernijų.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: 'Iš pradžių aneksuotoje teritorijoje pradėtos kurti dvi gubernijos, tačiau tepraėjus tik metams sujungtos į vieną Lietuvos vardu (Litovskaja gubernija).'
   pagrindžia:
     - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -35,11 +39,11 @@ Vietinio valdymo grandyje buvo gubernija, kurios galva – caro skiriamas, bet v
     riamas, bet vidaus reikalų žinybai pavaldus gubernatorius, atsiunčiamas
     iš centro arba kitų gubernijų. Gubernijos skirstytos į apskritis (ujezd) su
     gubernatoriaus skiriamu apskrities viršininku priešakyje.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
@@ -51,11 +55,11 @@ Vietinio valdymo grandyje buvo gubernija, kurios galva – caro skiriamas, bet v
     nija). 1801 m. ši gubernija vėl padalyta į dvi: Lietuvos Vilniaus ir Lietuvos
     Gardino gubernijas, kurios tapo pavaldžios tais pat metais Vilniuje pra-
     dėjusiai veikti generalgubernatoriaus institucijai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

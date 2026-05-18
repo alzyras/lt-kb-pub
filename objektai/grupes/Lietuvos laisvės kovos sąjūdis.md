@@ -70,46 +70,40 @@ Centralizuota ginkluoto ir politinio antisovietinio pasipriešinimo organizacija
 - susijusios vietos: bunkeris tarp Radviliškio ir Baisogalos.
 
 ## Teiginiai
-
-- t-001
-  teiginys: "1949 m. vasario 2-22 d. visos Lietuvos partizanų vadų suvažiavime patvirtintas Lietuvos laisvės kovos sąjūdžio pavadinimas."
+- t-007
+  teiginys: 'LLKS Tarybos prezidiumo pirmininku išrinktas Jonas Žemaitis-Vytautas, jam suteiktas partizanų generolo laipsnis.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: "LLKS ėmėsi vadovauti politinei ir karinei pasipriešinimo organizacijų veiklai."
+- t-008
+  teiginys: 'LLKS Tarybos prezidiumo pirmininku išrinktas Jonas Žemaitis-Vytautas, jam suteiktas partizanų generolo laipsnis.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: "LLKS Tarybos prezidiumo pirmininku išrinktas Jonas Žemaitis-Vytautas."
+- t-009
+  teiginys: 'LLKS Tarybos prezidiumo pirmininku išrinktas Jonas Žemaitis-Vytautas.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-004
-  teiginys: "LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės atkūrimas ir jos demokratinio valdymo principai."
+- t-010
+  teiginys: 'LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės atkūrimas ir jos demokratinio valdymo principai.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-005
-  teiginys: "LLKS Tarybos prezidiumas turėjo būti aukščiausias valdžios organas iki laisvų demokratinių Seimo rinkimų."
+- t-011
+  teiginys: 'LLKS Vasario 16-osios deklaracijoje numatyta, kad atkurta Lietuva bus demokratinė respublika, kurios suvereni valdžia priklausys tautai.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-006
-  teiginys: 'Bunkeryje priimtoje LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės atkūrimas ir jos valdymo principai: santvarka – demokratinė respublika, suvereni Lietuvos valdžia priklauso tautai, Lietuva valdoma per laisvais, demokratiniais.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  santrauka: Nurodoma LLKS pavadinimo patvirtinimo aplinkybė, funkcija ir vadovybė.
+  santrauka: 'LLKS Tarybos prezidiumo pirmininku išrinktas Jonas Žemaitis-Vytautas, jam suteiktas partizanų generolo laipsnis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     LLKS Tarybos prezidiumo pirmininku iš-
@@ -119,15 +113,15 @@ Centralizuota ginkluoto ir politinio antisovietinio pasipriešinimo organizacija
     jam suteiktas aukščiausias – partizanų generolo laipsnis.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata turi puslapio antraštės intarpą, bet LLKS pavadinimas, funkcija ir vadovybė tiesiogiai nurodyti."
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
-    - t-003
+    - t-007
+    - t-008
+    - t-009
 - c-002
-  santrauka: Aprašomi LLKS Vasario 16-osios deklaracijoje numatyti valstybės atkūrimo ir valdžios principai.
+  santrauka: 'LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės atkūrimas ir jos demokratinio valdymo principai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Bunkeryje pri-
@@ -138,13 +132,12 @@ Centralizuota ginkluoto ir politinio antisovietinio pasipriešinimo organizacija
     sudarytą vyriausybę.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
-    - t-005
-    - t-006
+    - t-010
+    - t-011
 
 ## Šaltiniai ir įrodymai
 
@@ -153,4 +146,6 @@ Centralizuota ginkluoto ir politinio antisovietinio pasipriešinimo organizacija
 - [[laikotarpiai/XX amžius]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Jonas Žemaitis-Vytautas]]
 - [[objektai/ivykiai/LLKS Vasario 16-osios deklaracijos priėmimas (1949 m.)]]
+- [[objektai/ivykiai/Visos Lietuvos partizanų vadų suvažiavimas (1949 m. vasario 2–22 d.)]]

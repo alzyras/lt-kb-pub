@@ -25,13 +25,15 @@ Vilniaus televizijos bokšto šturmas – sovietų tankų vikšrai traiško taik
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vilniaus televizijos bokšto šturmas – sovietų tankų vikšrai traiško taikius gynėjus L I E T U V O S I S T O R I J A 246 dainuoti.'
+  teiginys: 'Sausio 13 d. Vytautas Landsbergis prie parlamento susirinkusius žmones ragino nepasiduoti provokacijoms ir dainuoti.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vilniaus televizijos bokšto šturmas – sovietų tankų vikšrai traiško taikius gynėjus L I E T U V O S I S T O R I J A 246 dainuoti.'
+  santrauka: 'Sausio 13 d. Vytautas Landsbergis prie parlamento susirinkusius žmones ragino nepasiduoti provokacijoms ir dainuoti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     sausio
@@ -48,10 +50,10 @@ Vilniaus televizijos bokšto šturmas – sovietų tankų vikšrai traiško taik
     šviesi ir laiminga! Nekreipkime dėmesio į tuos šaudymus, dainuokime!“
     Įvykiai prie televizijos bokšto sukrėtė visą Lietuvą ir nuskambėjo po
     visą pasaulį.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

@@ -21,23 +21,25 @@ Dėl to atgaivinta Seimo institucija.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Dėl to atgaivinta Seimo institucija.'
+  teiginys: 'IV Seimo kandidatus galėjo kelti tautininkų kontroliuojamos savivaldybės, bet ne visuomeninės organizacijos ar piliečių grupės.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Dėl to atgaivinta Seimo institucija.'
+  santrauka: 'IV Seimo kandidatus galėjo kelti tautininkų kontroliuojamos savivaldybės, bet ne visuomeninės organizacijos ar piliečių grupės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kandidatus į Seimą siūlė apskričių tarybos (Kaune – miesto taryba), bet
     kandidatų į Seimą negalėjo kelti visuomeninės organizacijos ir piliečių
     grupės, o tik tautininkų kontroliuojamos savivaldybės.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

@@ -33,6 +33,8 @@ Nenurodyta
   teiginys: 'Rimtesnės kautynės vyko birželio 11 dieną prie Myro, tačiau birželio 14-ąją Vilnius buvo atiduotas be kovos.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -43,11 +45,11 @@ Nenurodyta
     nelygios, todėl numatyta, kad besipriešinanti kariuomenė turi trauktis
     Varšuvos link. Rimtesnės kautynės vyko birželio 11 dieną prie Myro,
     tačiau birželio 14-ąją Vilnius buvo atiduotas be kovos.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

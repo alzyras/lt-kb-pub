@@ -19,42 +19,46 @@ Pati LV neplanavo žudynių, tačiau deklaruojamu antisemitizmu (Žydų padėtie
 
 ## Teiginiai
 - t-001
-  teiginys: 'Pati LV neplanavo žudynių, tačiau deklaruojamu antisemitizmu (Žydų padėties nuostatų sudarymas, konclagerio steigimas VII forte) siekė nuolaidų iš nacių Vokietijos ir plaukė jos politikos farvateryje.'
+  teiginys: 'Lietuvos laikinoji vyriausybė, steigdama konclagerį Kauno VII forte, siekė nuolaidų iš nacių Vokietijos.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Viena jo kuopa padaryta zonderkomanda ir liepos 4 ir 6 dieną nacių komanduojama dalyvavo masinėse 3 000 žydų (dabar jau tik dėl tautybės išskirtų iš visų suimtųjų, įtariamų buvus sovietų aktyvistais) žudynėse Kauno VII forte.'
+  teiginys: 'Liepos 4 ir 6 d. nacių komanduojama zonderkomanda Kauno VII forte dalyvavo masinėse 3 000 žydų žudynėse.'
   pagrindžia:
     - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Pati LV neplanavo žudynių, tačiau deklaruojamu antisemitizmu (Žydų padėties nuostatų sudarymas, konclagerio steigimas VII forte) siekė nuolaidų iš nacių Vokietijos ir plaukė jos politikos farvateryje.'
+  santrauka: 'Lietuvos laikinoji vyriausybė, steigdama konclagerį Kauno VII forte, siekė nuolaidų iš nacių Vokietijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pati
     LV neplanavo žudynių, tačiau deklaruojamu antisemitizmu (Žydų padė-
     ties nuostatų sudarymas, konclagerio steigimas VII forte) siekė nuolaidų
     iš nacių Vokietijos ir plaukė jos politikos farvateryje.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Viena jo kuopa padaryta zonderkomanda ir liepos 4 ir 6 dieną nacių komanduojama dalyvavo masinėse 3 000 žydų (dabar jau tik dėl tautybės išskirtų iš visų suimtųjų, įtariamų buvus sovietų aktyvistais) žudynėse Kauno VII forte.'
+  santrauka: 'Liepos 4 ir 6 d. nacių komanduojama zonderkomanda Kauno VII forte dalyvavo masinėse 3 000 žydų žudynėse.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Viena jo kuopa padaryta
     zonderkomanda ir liepos 4 ir 6 dieną nacių komanduojama dalyvavo
     masinėse 3 000 žydų (dabar jau tik dėl tautybės išskirtų iš visų suimtų-
     jų, įtariamų buvus sovietų aktyvistais) žudynėse Kauno VII forte.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

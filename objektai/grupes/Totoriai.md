@@ -60,7 +60,6 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   teiginys: 'Totorių pavergta Rusija buvo suskilusi į daugybę kunigaikštysčių, todėl nesunku buvo jas paimti į savo valdžią.'
   pagrindžia:
     - c-002
-
 - t-004
   teiginys: 'Vytautui plečiantis į rusų žemes, artėjimas prie totorių sienų vedė prie karo su jais.'
   pagrindžia:
@@ -97,30 +96,6 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-010
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-009
-  teiginys: 'Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta karaimais ir totoriais, kurie tapo artimosios sargybos tautomis.'
-  pagrindžia:
-    - c-016
-- t-010
-  teiginys: 'Žalgirio pergalė dar nepasiekta ideologiškai – Vakaruose sklido paskviliai apie „netikrą“ Jogailos ir Vytauto pergalę, nes jie nugalėjo pasitelkę pagonis, totorius musulmonus.'
-  pagrindžia:
-    - c-017
-- t-011
-  teiginys: 'Taigi net jei žydų, o ypač armėnų, vaidmuo LDK buvo menkesnis nei Lenkijoje, pastarojoje nebuvo tokių ryškių musulmonų totorių ir karaimų bendruomenių, kurias Lietuvos didysis kunigaikštis Vytautas apgyvendino LDK.'
-  pagrindžia:
-    - c-018
-- t-012
-  teiginys: 'LDK iki unijos su Lenkija savo kultūrine ir konfesine įvairove lenkė Lenkiją ir jungtinėje valstybėje šią įvairovę padidino (pavyzdžiui, turėdama totorių musulmonų, kurių iki tol Lenkijoje nebuvo).'
-  pagrindžia:
-    - c-019
-- t-013
-  teiginys: 'Vienas jų tada rašė: „Reikia taip pat neužmiršti, kad čia mums plačiai atsiveria durys į Maskoviją, o iš jos per totorius galėsime pasiekti ir Kiniją.'
-  pagrindžia:
-    - c-020
-- t-014
-  teiginys: 'L I E T U V O S I S T O R I J A 72 LDK iki unijos su Lenkija savo kultūrine ir konfesine įvairove lenkė Lenkiją ir jungtinėje valstybėje šią įvairovę padidino (pavyzdžiui, turėdama totorių musulmonų, kurių iki tol Lenkijoje nebuvo).'
-  pagrindžia:
-    - c-021
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -150,7 +125,6 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
 - c-005
   santrauka: Priartėjimas prie totorių sienų pateiktas kaip karo priežastis.
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -330,96 +304,6 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-007
     - t-006
     - t-008
-- c-016
-  santrauka: 'Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta karaimais ir totoriais, kurie tapo artimosios sargybos tautomis.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Antra vertus, kunigaikš-
-    čiams visi buvo valdiniai – netgi labiau pasitikėta karaimais ir totoriais,
-    kurie tapo artimosios sargybos tautomis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-009
-- c-017
-  santrauka: 'Žalgirio pergalė dar nepasiekta ideologiškai – Vakaruose sklido paskviliai apie „netikrą“ Jogailos ir Vytauto pergalę, nes jie nugalėjo pasitelkę pagonis, totorius musulmonus.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Žalgirio pergalė dar nepasiekta ideologiškai – Va-
-    karuose sklido paskviliai apie „netikrą“ Jogailos ir Vytauto pergalę, nes
-    jie nugalėjo pasitelkę pagonis, totorius musulmonus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-010
-- c-018
-  santrauka: 'Taigi net jei žydų, o ypač armėnų, vaidmuo LDK buvo menkesnis nei Lenkijoje, pastarojoje nebuvo tokių ryškių musulmonų totorių ir karaimų bendruomenių, kurias Lietuvos didysis kunigaikštis Vytautas apgyvendino LDK.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Taigi net
-    jei žydų, o ypač armėnų, vaidmuo LDK buvo menkesnis nei Lenkijoje,
-    pastarojoje nebuvo tokių ryškių musulmonų totorių ir karaimų bendruo-
-    menių, kurias Lietuvos didysis kunigaikštis Vytautas apgyvendino LDK.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-011
-- c-019
-  santrauka: 'LDK iki unijos su Lenkija savo kultūrine ir konfesine įvairove lenkė Lenkiją ir jungtinėje valstybėje šią įvairovę padidino (pavyzdžiui, turėdama totorių musulmonų, kurių iki tol Lenkijoje nebuvo).'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    LDK iki unijos su Lenkija savo kultūrine ir konfesine įvairove len-
-    kė Lenkiją ir jungtinėje valstybėje šią įvairovę padidino (pavyzdžiui,
-    turėdama totorių musulmonų, kurių iki tol Lenkijoje nebuvo).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-012
-- c-020
-  santrauka: 'Vienas jų tada rašė: „Reikia taip pat neužmiršti, kad čia mums plačiai atsiveria durys į Maskoviją, o iš jos per totorius galėsime pasiekti ir Kiniją.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Be to, reikia neužmirš-
-    ti Švedijos ir Livonijos.“ Šios ambicijos nebeatrodo geografiškai tokios
-    naivios, kai prisimename Vilniaus universiteto auklėtinį Andrių Ruda-
-    miną, nunešusį Jėzaus draugijos idėjas iki Kinijos, kur misionieriavo
-    1626–1634 m. ir rašė asketikos veikalus kinų kalba.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-013
-- c-021
-  santrauka: 'L I E T U V O S I S T O R I J A 72 LDK iki unijos su Lenkija savo kultūrine ir konfesine įvairove lenkė Lenkiją ir jungtinėje valstybėje šią įvairovę padidino (pavyzdžiui, turėdama totorių musulmonų, kurių iki tol Lenkijoje nebuvo).'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    L I E T U V O S  I S T O R I J A
-    72
-    LDK iki unijos su Lenkija savo kultūrine ir konfesine įvairove len-
-    kė Lenkiją ir jungtinėje valstybėje šią įvairovę padidino (pavyzdžiui,
-    turėdama totorių musulmonų, kurių iki tol Lenkijoje nebuvo). LDK, tu-
-    rinti dešimt skirtingų konfesijų, XVI a.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-014
 
 ## Ryšiai
 ### Laikotarpiai
@@ -429,8 +313,4 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - [[laikotarpiai/XVII amžius]]
 
 ### Susiję objektai
-- [[objektai/autoriai/Andrius Rudamina]]
-- [[objektai/grupes/Karaimai]]
 - [[objektai/daiktai/Vežimai]]
-- [[objektai/grupes/Vokiečių ordinas]]
-- [[objektai/ivykiai/Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas]]

@@ -19,17 +19,21 @@ dr. Sauliui Kaubriui ir daugeliui kitų, prisidėjusių prie jos parengimo, iliu
 
 ## Teiginiai
 - t-001
-  teiginys: 'dr. Sauliui Kaubriui ir daugeliui kitų, prisidėjusių prie jos parengimo, iliustravimo, reikalingų žemėlapių atrinkimo.'
+  teiginys: 'Saulius Kaubrys recenzavo leidinį „Lietuvos istorija“.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Kaubrys S.'
+  teiginys: 'Saulius Kaubrys siejamas su 2000 m. Vilniuje išleistu veikalu „Lietuvos mokykla 1918–1939 m.: galios gimtis“.'
   pagrindžia:
     - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'dr. Sauliui Kaubriui ir daugeliui kitų, prisidėjusių prie jos parengimo, iliustravimo, reikalingų žemėlapių atrinkimo.'
+  santrauka: 'Saulius Kaubrys recenzavo leidinį „Lietuvos istorija“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nuoširdžiai dėkojame leidinio iniciatoriams, redakcinės kolegijos
@@ -38,23 +42,23 @@ dr. Sauliui Kaubriui ir daugeliui kitų, prisidėjusių prie jos parengimo, iliu
     knygą prof. dr. Zenonui Butkui ir doc. dr. Sauliui Kaubriui ir daugeliui
     kitų, prisidėjusių prie jos parengimo, iliustravimo, reikalingų žemėlapių
     atrinkimo.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Kaubrys S.'
+  santrauka: 'Saulius Kaubrys siejamas su 2000 m. Vilniuje išleistu veikalu „Lietuvos mokykla 1918–1939 m.: galios gimtis“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kaubrys S. Lietuvos mokykla 1918–1939 m.: galios gimtis. Vilnius, 2000.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 
@@ -63,6 +67,4 @@ dr. Sauliui Kaubriui ir daugeliui kitų, prisidėjusių prie jos parengimo, iliu
 - [[temos/žemėlapis]]
 
 ### Susiję objektai
-- [[objektai/autoriai/Alfonsas Eidintas]]
-- [[objektai/autoriai/Kaubrys S]]
 - [[objektai/autoriai/Zenonas Butkus]]

@@ -29,32 +29,15 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: '1935 m. balandį S. Lozoraitis įteikė prezidentui A. Smetonai slaptą memorandumą, kuriame išdėstė savo schemą: mes turime Klaipėdą, tačiau dėl to gresia pavojus, mes neturime Vilniaus ir nėra vilties jį atgauti artimiausioje ateityje. Negalime kautis dviejuose.'
+  teiginys: 'Stasys Lozoraitis laikėsi idėjos „nepriklausomybė svarbiausia“ ir modus vivendi su Lenkija laikė būtina nepriklausomybės sąlyga.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Lozoraičio įdėja – „nepriklausomybė svarbiausia“, todėl modus L I E T U V O S I S T O R I J A 178 vivendi su Lenkija yra būtina nepriklausomybės sąlyga.'
-  pagrindžia:
-    - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1935 m. balandį S. Lozoraitis įteikė prezidentui A. Smetonai slaptą memorandumą, kuriame išdėstė savo schemą: mes turime Klaipėdą, tačiau dėl to gresia pavojus, mes neturime Vilniaus ir nėra vilties jį atgauti artimiausioje ateityje. Negalime kautis dviejuose.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1935 m. balandį
-    S. Lozoraitis įteikė prezidentui A. Smetonai slaptą memorandumą, kuria-
-    me išdėstė savo schemą: mes turime Klaipėdą, tačiau dėl to gresia pavojus,
-    mes neturime Vilniaus ir nėra vilties jį atgauti artimiausioje ateityje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Lozoraičio įdėja – „nepriklausomybė svarbiausia“, todėl modus L I E T U V O S I S T O R I J A 178 vivendi su Lenkija yra būtina nepriklausomybės sąlyga.'
+  santrauka: 'Stasys Lozoraitis laikėsi idėjos „nepriklausomybė svarbiausia“ ir modus vivendi su Lenkija laikė būtina nepriklausomybės sąlyga.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     S. Lozoraičio įdėja – „nepriklausomybė svarbiausia“, todėl modus
@@ -62,13 +45,13 @@ tags:
     L I E T U V O S  I S T O R I J A
     178
     vivendi su Lenkija yra būtina nepriklausomybės sąlyga.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -79,4 +62,3 @@ tags:
 
 ### Susiję objektai
 - [[objektai/ivykiai/S. Lozoraičio slapto memorandumo įteikimas A. Smetonai (1935 m. balandis)]]
-- [[objektai/zodynas/modus vivendi]]

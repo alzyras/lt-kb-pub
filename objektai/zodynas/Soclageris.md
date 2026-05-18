@@ -19,13 +19,15 @@ Soclagerį ištikus politinei, ekonominei, tautinei krizei, lietuviai surado jė
 
 ## Teiginiai
 - t-001
-  teiginys: 'Soclagerį ištikus politinei, ekonominei, tautinei krizei, lietuviai surado jėgų prisikelti kaip tauta, sukurti tautinio judėjimo modelį, išsprogdinti komunistų valdymą respublikoje ir padėti sunaikinti vienpartinį režimą visoje SSRS, pagaliau ir pačią SSRS.'
+  teiginys: 'Soclagerio politinės, ekonominės ir tautinės krizės metu lietuvių tautinis judėjimas prisidėjo prie komunistų valdžios Lietuvoje ir vienpartinio SSRS režimo žlugimo.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Soclagerį ištikus politinei, ekonominei, tautinei krizei, lietuviai surado jėgų prisikelti kaip tauta, sukurti tautinio judėjimo modelį, išsprogdinti komunistų valdymą respublikoje ir padėti sunaikinti vienpartinį režimą visoje SSRS, pagaliau ir pačią SSRS.'
+  santrauka: 'Soclagerio politinės, ekonominės ir tautinės krizės metu lietuvių tautinis judėjimas prisidėjo prie komunistų valdžios Lietuvoje ir vienpartinio SSRS režimo žlugimo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Soclagerį ištikus politi-
@@ -33,10 +35,10 @@ Soclagerį ištikus politinei, ekonominei, tautinei krizei, lietuviai surado jė
     sukurti tautinio judėjimo modelį, išsprogdinti komunistų valdymą res-
     publikoje ir padėti sunaikinti vienpartinį režimą visoje SSRS, pagaliau ir
     pačią SSRS.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

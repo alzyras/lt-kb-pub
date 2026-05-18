@@ -33,42 +33,34 @@ tags: []
 Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kompozitorius, studijavęs Varšuvoje bei Leipcige ir tautinio apsisprendimo kontekste pasirinkęs lietuvius.
 
 ## Teiginiai
-- t-001
+- t-007
   teiginys: 'M. K. Čiurlionis apibūdinamas kaip didžiausias Lietuvos menininkas, dailininkas ir kompozitorius Lietuvos Respublikos ištakų kontekste.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-002
+- t-008
   teiginys: 'Mikalojus Konstantinas Čiurlionis studijavo muziką ir dailę Varšuvoje bei Leipcige.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: 'M. K. Čiurlionis, kilęs iš etniškai lietuviškos aplinkos ir anksčiau gerai nemokėjęs lietuviškai, pasirinko lietuvius.'
+- t-009
+  teiginys: 'Atšilimo laikotarpiu buvo spausdinami M. K. Čiurlionio kūrybos albumai.'
   pagrindžia:
-    - c-002
+    - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-004
-  teiginys: 'Atšilimo laikotarpiu buvo spausdinami M. K. Čiurlionio kūrybos albumai.'
+- t-010
+  teiginys: 'Mikalojus Konstantinas Čiurlionis buvo kilęs iš etniškai lietuviškos aplinkos, bet iki to laikotarpio lietuviškai gerai nemokėjo.'
   pagrindžia:
     - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-005
-  teiginys: 'Čiurlionio muziejaus senojo meno ekspozicija.'
-  pagrindžia:
-    - c-004
-- t-006
-  teiginys: 'Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje, plačiausiai šiuo metu pasaulyje žinomas lietuvių dailininkas ir kompozitorius, muziką ir dailę studijavęs Varšuvoje ir Leipcige.'
-  pagrindžia:
-    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Čiurlionis įvardijamas kaip vienas Lietuvos Respublikos ištakų kultūros veikėjų.
+  santrauka: 'M. K. Čiurlionis apibūdinamas kaip didžiausias Lietuvos menininkas, dailininkas ir kompozitorius Lietuvos Respublikos ištakų kontekste.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuva po 1795 m. prijungimo prie Rusijos nepriklausomybę atkūrė
@@ -77,33 +69,43 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
     sias Lietuvos menininkas, dailininkas ir kompozitorius M. K. Čiurlionis, ir
     tautos Atgimimo dainius poetas Maironis, tautos patriarchas J. Basanavi-
     čius.
-  citata_rodoma: ''
-  teiginio_tipas: vertinimas
+  citata_rodoma: ""
+  teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  priskyrimo_pagrindas: explicit_variant
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-007
 - c-002
-  santrauka: Čiurlionio profesijos, studijos ir lietuviškas apsisprendimas aprašomi viename kūno teksto bloke.
+  santrauka: 'Mikalojus Konstantinas Čiurlionis studijavo muziką ir dailę Varšuvoje bei Leipcige.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kurį laiką taip elgėsi Mikalojus
     Konstantinas Čiurlionis (1875–1911), beje, plačiausiai šiuo metu pasaulyje
     žinomas lietuvių dailininkas ir kompozitorius, muziką ir dailę studijavęs
     Varšuvoje ir Leipcige.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  priskyrimo_pagrindas: explicit_name
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-    - t-003
+    - t-008
 - c-003
-  santrauka: Čiurlionio kūrybos albumai minimi sovietinio atšilimo kultūros politikos kontekste.
+  santrauka: 'Mikalojus Konstantinas Čiurlionis buvo kilęs iš etniškai lietuviškos aplinkos, bet iki to laikotarpio lietuviškai gerai nemokėjo.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Iš etniškai lietuviškos aplinkos kilęs, bet iki to lai-
+    kotarpio lietuviškai gerai nemokėjęs, M. K. Čiurlionis pasirinko lietuvius.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-010
+- c-004
+  santrauka: 'Atšilimo laikotarpiu buvo spausdinami M. K. Čiurlionio kūrybos albumai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Po J. Stalino mirties, „atšilimo“ laikotarpiu, kultūriniame gyvenime
@@ -113,41 +115,13 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
     Maironio, Vinco Mykolaičio-Putino ir kt. kūrinių, M. K. Čiurlionio kū-
     rybos, tautodailės albumų (tokių leidinių įvaduose kūrėjo biografijos ir
     kūrybos apžvalga būdavo pristatoma laikantis marksistinių nuostatų).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  priskyrimo_pagrindas: explicit_variant
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
-- c-004
-  santrauka: 'Čiurlionio muziejaus senojo meno ekspozicija.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Jonų – Mokslo, Visų Šventųjų – Liaudies meno, Kauno
-    Įgulos bažnyčioje – Skulptūros ir vitražo muziejai, Pažaislio vienuolyne –
-    M. K. Čiurlionio muziejaus senojo meno ekspozicija.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
-- c-005
-  santrauka: 'Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje, plačiausiai šiuo metu pasaulyje žinomas lietuvių dailininkas ir kompozitorius, muziką ir dailę studijavęs Varšuvoje ir Leipcige.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Iš etniškai lietuviškos aplinkos kilęs, bet iki to lai-
-    kotarpio lietuviškai gerai nemokėjęs, M. K. Čiurlionis pasirinko lietuvius.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-006
+    - t-009
 
 ## Ryšiai
 ### Laikotarpiai
@@ -155,3 +129,4 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
 
 ### Susiję objektai
 - [[objektai/vietos/Leipcigas]]
+- [[objektai/asmenys/M. K. Čiurlionis]]

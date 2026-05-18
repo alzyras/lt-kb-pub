@@ -66,36 +66,34 @@ Vokiečių karinė administracija / vadovybė okupuotame krašte.
 - susijusios vietos:
 
 ## Teiginiai
-
-- t-001
-  teiginys: "1915 m. frontui stabilizavusis vokiečiai sudarė karinę administraciją, pavadintą Oberostu."
+- t-005
+  teiginys: '1915 m. frontui stabilizavusis, vokiečiai sudarė karinę administraciją ir pavadino ją Oberostu.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: "Oberostui formaliai vadovavo Paulius fon Hindenburgas ir Ėrichas Liudendorfas."
+- t-006
+  teiginys: 'Oberostui formaliai vadovavo Paulius fon Hindenburgas ir Ėrichas Liudendorfas.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: "Oberosto režimas nusavino maistą, apkrovė gyventojus mokesčiais ir prievolėmis, išvežė pramonės įmones ir pradėjo germanizaciją mokyklose."
+- t-007
+  teiginys: 'Oberosto režimas nusavino maistą, apkrovė gyventojus mokesčiais ir prievolėmis, išvežė pramonės įmones ir pradėjo germanizaciją mokyklose.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-004
-  teiginys: "1917 m. Oberostas spaudė Lietuvos Tarybą priimti Vokietijai palankią rezoliuciją."
+- t-008
+  teiginys: '1917 m. pabaigoje Oberostas įteikė Lietuvos Tarybos prezidiumui Vokietijai palankios rezoliucijos projektą.'
   pagrindžia:
     - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-
 - c-001
-  santrauka: Oberosto sudarymas, pavadinimo išskleidimas, vadovybė ir krašto išteklių naudojimas.
+  santrauka: '1915 m. frontui stabilizavusis, vokiečiai sudarė karinę administraciją ir pavadino ją Oberostu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vokiečiai Lietuvą laikė
@@ -112,12 +110,12 @@ Vokiečių karinė administracija / vadovybė okupuotame krašte.
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Tiesiogiai įvardija administraciją, pavadinimo kilmę ir vadovus."
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-005
+    - t-006
 - c-002
-  santrauka: Oberosto režimo taikytos prievolės, rekvizicijos ir germanizacija.
+  santrauka: 'Oberosto režimas nusavino maistą, apkrovė gyventojus mokesčiais ir prievolėmis, išvežė pramonės įmones ir pradėjo germanizaciją mokyklose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lenkijos vadovas, buvo kilęs iš Lietuvos dvarininkų ir vadino save lietu-
@@ -136,11 +134,11 @@ Vokiečių karinė administracija / vadovybė okupuotame krašte.
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Tiesiogiai aprašo režimo veiksmus."
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-007
 - c-003
-  santrauka: Oberostas įteikė Lietuvos Tarybai norimos rezoliucijos projektą.
+  santrauka: '1917 m. pabaigoje Oberostas įteikė Lietuvos Tarybos prezidiumui Vokietijai palankios rezoliucijos projektą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     lietuvių katalikų ir tautininkų organizacijos savo suvažiavimuose parei-
@@ -158,9 +156,9 @@ Vokiečių karinė administracija / vadovybė okupuotame krašte.
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Tiesiogiai sieja Oberostą su politiniu spaudimu Lietuvos Tarybai."
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-008
 
 ## Ryšiai
 ### Laikotarpiai

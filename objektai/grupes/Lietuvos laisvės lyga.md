@@ -32,86 +32,16 @@ tags:
 LLL Lietuvos laisvės lyga. Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos laisvės lyga ( LLL), kurios tikslas – nepriklausomos Lietuvos atkūrimas, religinės, tautinės ir politinės sąmonės ugdymas, Lietuvos laisvės klausimo kėlimas tarptautiniuose forumuose. LLL įkūrėjas ir vadovas Antanas Terleckas save vadino rezistentu, jo supratimu, LLL siekė ne reformuoti SSRS, o atkurti Lietuvos nepriklausomybę taikiomis priemonėmis.
 
 ## Teiginiai
-- t-002
-  teiginys: 'Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos laisvės lyga ( LLL), kurios tikslas – nepriklausomos Lietuvos atkūrimas, religinės, tautinės ir politinės sąmonės ugdymas, Lietuvos laisvės klausimo kėlimas tarptautiniuose forumuose.'
+- t-001
+  teiginys: 'LLL brežnevinės stagnacijos laikotarpiu gaivino pasipriešinimo tradiciją ir tapo pirmąja nacionalinio išsivadavimo organizacija.'
   pagrindžia:
-    - c-002
-- t-003
-  teiginys: 'LLL įkūrėjas ir vadovas Antanas Terleckas save vadino rezistentu, jo supratimu, LLL siekė ne reformuoti SSRS, o atkurti Lietuvos nepriklausomybę taikiomis priemonėmis.'
-  pagrindžia:
-    - c-003
-- t-004
-  teiginys: 'LLL pogrindyje nuo 1976 m. leido laikraštį „Laisvės šauklys“, nuo 1978 m. – žurnalą „Vytis“, kitus pogrindinius leidinius.'
-  pagrindžia:
-    - c-004
-- t-005
-  teiginys: 'Nepaisant LLL nuolatinės kovos už Lietuvos laisvę, atgimimo laikotarpiu susikūręs Lietuvos Persitvarkymo Sąjūdis, o ne LLL tapo pagrindine jėga, atkūrusia Lietuvos nepriklausomybę.'
-  pagrindžia:
-    - c-005
-- t-006
-  teiginys: 'O Sąjūdis – tautos frontas, suvienijęs plačiausius jos sluoksnius, labai įvairių pažiūrų, tačiau dar sinkretišką nediferencijuotą Lietuvos visuomenę, kurios priekyje stovėjo mokslo ir kultūros inteligentija, kėlusi tautą visuotiniais, universaliais, pavergtai.'
-  pagrindžia:
-    - c-006
+    - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos laisvės lyga ( LLL), kurios tikslas – nepriklausomos Lietuvos atkūrimas, religinės, tautinės ir politinės sąmonės ugdymas, Lietuvos laisvės klausimo kėlimas tarptautiniuose forumuose.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos laisvės lyga ( LLL),
-    kurios tikslas – nepriklausomos Lietuvos atkūrimas, religinės, tautinės ir
-    politinės sąmonės ugdymas, Lietuvos laisvės klausimo kėlimas tarptauti-
-    niuose forumuose.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'LLL įkūrėjas ir vadovas Antanas Terleckas save vadino rezistentu, jo supratimu, LLL siekė ne reformuoti SSRS, o atkurti Lietuvos nepriklausomybę taikiomis priemonėmis.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    LLL įkūrėjas ir vadovas Antanas Terleckas save vadino
-    rezistentu, jo supratimu, LLL siekė ne reformuoti SSRS, o atkurti Lietuvos
-    nepriklausomybę taikiomis priemonėmis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'LLL pogrindyje nuo 1976 m. leido laikraštį „Laisvės šauklys“, nuo 1978 m. – žurnalą „Vytis“, kitus pogrindinius leidinius.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    LLL pogrindyje nuo 1976 m. leido laikraštį „Laisvės šau-
-    klys“, nuo 1978 m. – žurnalą „Vytis“, kitus pogrindinius leidinius.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
-- c-005
-  santrauka: 'Nepaisant LLL nuolatinės kovos už Lietuvos laisvę, atgimimo laikotarpiu susikūręs Lietuvos Persitvarkymo Sąjūdis, o ne LLL tapo pagrindine jėga, atkūrusia Lietuvos nepriklausomybę.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Nepaisant LLL nuolatinės kovos už Lietuvos laisvę, atgimimo laikotarpiu
-    susikūręs Lietuvos Persitvarkymo Sąjūdis, o ne LLL tapo pagrindine jėga,
-    atkūrusia Lietuvos nepriklausomybę.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
-- c-006
-  santrauka: 'O Sąjūdis – tautos frontas, suvienijęs plačiausius jos sluoksnius, labai įvairių pažiūrų, tačiau dar sinkretišką nediferencijuotą Lietuvos visuomenę, kurios priekyje stovėjo mokslo ir kultūros inteligentija, kėlusi tautą visuotiniais, universaliais, pavergtai.'
+- c-001
+  santrauka: 'LLL brežnevinės stagnacijos laikotarpiu gaivino pasipriešinimo tradiciją ir tapo pirmąja nacionalinio išsivadavimo organizacija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     LLL buvo paskutinė rezistencijos organizacija, kuri brežnevi-
@@ -123,22 +53,15 @@ LLL Lietuvos laisvės lyga. Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos l
     vos visuomenę, kurios priekyje stovėjo mokslo ir kultūros inteligentija,
     kėlusi tautą visuotiniais, universaliais, pavergtai tautai ypač brangiais lais-
     vės, demokratijos, nepriklausomybės idealais.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-006
+    - t-001
 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
 - [[laikotarpiai/XXI amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/Antanas Terleckas]]
-- [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]
-- [[objektai/ivykiai/Lietuvos laisvės lygos įkūrimas (1978 m.)]]
-- [[objektai/zodynas/pogrindis pogrindiniai leidiniai nelegali spauda]]
-- [[objektai/zodynas/rezistentas]]

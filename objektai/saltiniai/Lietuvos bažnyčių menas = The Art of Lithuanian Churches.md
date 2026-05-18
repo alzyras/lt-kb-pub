@@ -18,39 +18,25 @@ Lietuvos bažnyčių menas = The Art of Lithuanian Churches.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lietuvos bažnyčių menas = The Art of Lithuanian Churches.'
+  teiginys: 'Lietuvos bažnyčių menas = The Art of Lithuanian Churches išleistas Vilniuje 1999 m.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Vilnius, 1999; Lietuvos bažnyčių menas = The Art of Lithuanian Churches.'
-  pagrindžia:
-    - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Lietuvos bažnyčių menas = The Art of Lithuanian Churches.'
+  santrauka: 'Lietuvos bažnyčių menas = The Art of Lithuanian Churches išleistas Vilniuje 1999 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vilnius, 1999; Lietuvos bažnyčių menas = The Art of
     Lithuanian Churches.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Vilnius, 1999; Lietuvos bažnyčių menas = The Art of Lithuanian Churches.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vilnius, 1993; Lietuvos Didžiosios Kunigaikštystės Knyga: bendrų
-    Europos tradicijų link: bendras baltarusių, lietuvių ir lenkų mokslininkų ir rašytojų
-    darbas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002

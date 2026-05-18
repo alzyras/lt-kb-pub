@@ -21,17 +21,21 @@ Taip birželio 17-ąją atsirado gudriai sumanyta savotiška pereinamojo laikota
 
 ## Teiginiai
 - t-001
-  teiginys: 'Taip birželio 17-ąją atsirado gudriai sumanyta savotiška pereinamojo laikotarpio marionetinė „Liaudies vyriausybė“, į kurią įėjo žinomi, kritikavę A.'
+  teiginys: '1940 m. birželio 17 d. sudaryta marionetinė Liaudies vyriausybė, į kurią įėjo A. Smetonos valdymą kritikavę inteligentai.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Iš tiesų Liaudies vyriausybė vykdė sovietų valią, nuo pirmų dienų griovė Lietuvos valstybingumą, keitė administraciją: į svarbius vyriausybės postus buvo paskirti amnestuoti politiniai kaliniai komunistai – LKP vadovas Antanas Sniečkus tapo Valstybės saugumo.'
+  teiginys: 'Liaudies vyriausybė vykdė sovietų valią, griovė Lietuvos valstybingumą ir nuo pirmųjų dienų keitė administraciją.'
   pagrindžia:
     - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Taip birželio 17-ąją atsirado gudriai sumanyta savotiška pereinamojo laikotarpio marionetinė „Liaudies vyriausybė“, į kurią įėjo žinomi, kritikavę A.'
+  santrauka: '1940 m. birželio 17 d. sudaryta marionetinė Liaudies vyriausybė, į kurią įėjo A. Smetonos valdymą kritikavę inteligentai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taip birželio 17-ąją at-
@@ -41,15 +45,15 @@ Taip birželio 17-ąją atsirado gudriai sumanyta savotiška pereinamojo laikota
     kas žurnalistas Justas Paleckis, o jo pavaduotoju ir užsienio reikalų minis-
     tru – rašytojas Vincas Krėvė-Mickevičius, finansų ministru liko Ernestas
     Galvanauskas, krašto apsaugos – gen. Vincas Vitkauskas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Iš tiesų Liaudies vyriausybė vykdė sovietų valią, nuo pirmų dienų griovė Lietuvos valstybingumą, keitė administraciją: į svarbius vyriausybės postus buvo paskirti amnestuoti politiniai kaliniai komunistai – LKP vadovas Antanas Sniečkus tapo Valstybės saugumo.'
+  santrauka: 'Liaudies vyriausybė vykdė sovietų valią, griovė Lietuvos valstybingumą ir nuo pirmųjų dienų keitė administraciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Iš tiesų Liaudies vyriausybė vykdė sovietų valią, nuo pirmų dienų griovė
@@ -60,11 +64,11 @@ Taip birželio 17-ąją atsirado gudriai sumanyta savotiška pereinamojo laikota
     LKP (nors kitos politinės partijos neįteisintos), paleistas vadinamasis sme-
     toninis Seimas, uždarytos visos nekomunistinės organizacijos, laikraščiai ir
     žurnalai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

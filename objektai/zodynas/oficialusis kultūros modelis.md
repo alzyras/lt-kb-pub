@@ -20,13 +20,15 @@ tags:
 Daukšai rūpi ne kasdienės lietuvių kalbos vartojimas, o būtinybė šia kalba sukurti oficialųjį kultūros modelį. Taigi lietuvių kalbą, nesuspėjant kurti naujadarų pagal gyvenimo poreikius, pradžioje lenkė rusėnų kalba, o vėliau lenkų, tapusi LDK bajorijos integracine kalba ir Vakarų kultūros sklaidos rusėnų žemėse priemone.
 
 ## Teiginiai
-- t-002
+- t-001
   teiginys: 'Taigi lietuvių kalbą, nesuspėjant kurti naujadarų pagal gyvenimo poreikius, pradžioje lenkė rusėnų kalba, o vėliau lenkų, tapusi LDK bajorijos integracine kalba ir Vakarų kultūros sklaidos rusėnų žemėse priemone.'
   pagrindžia:
-    - c-002
+    - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-002
+- c-001
   santrauka: 'Taigi lietuvių kalbą, nesuspėjant kurti naujadarų pagal gyvenimo poreikius, pradžioje lenkė rusėnų kalba, o vėliau lenkų, tapusi LDK bajorijos integracine kalba ir Vakarų kultūros sklaidos rusėnų žemėse priemone.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -34,10 +36,15 @@ Daukšai rūpi ne kasdienės lietuvių kalbos vartojimas, o būtinybė šia kalb
     pagal gyvenimo poreikius, pradžioje lenkė rusėnų kalba, o vėliau lenkų,
     tapusi LDK bajorijos integracine kalba ir Vakarų kultūros sklaidos rusėnų
     žemėse priemone.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/integracinė kalba polonizacija]]
+- [[objektai/zodynas/polonizacija integracinė kalba]]

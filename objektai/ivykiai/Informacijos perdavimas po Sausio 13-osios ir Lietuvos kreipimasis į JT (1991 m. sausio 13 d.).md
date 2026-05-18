@@ -36,6 +36,8 @@ Nenurodyta
   teiginys: 'Sovietams nepavyko užgniaužti iš Lietuvos pasauliui sklindančios informacijos.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -45,11 +47,11 @@ Nenurodyta
     Sovietams nepavyko užgniaužti iš Lietuvos pasauliui sklindančios in-
     formacijos. Sausio 13 dieną nutrūkus radijo transliacijai, pradėjo dirbti
     Sitkūnų (netoli Kauno) radijo stotis.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

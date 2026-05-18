@@ -19,28 +19,29 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: '1831 m. birželį į Lietuvą strateginiais sumetimais buvo pasiųsta reguliarioji Lenkijos karalystės kariuomenė, apie 12,6 tūkst.'
+  teiginys: '1831 m. birželį Antano Gelgaudo vadovaujama Lenkijos karalystės kariuomenė kūrė Laikinąją Lenkijos vyriausybę Lietuvoje.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1831 m. birželį į Lietuvą strateginiais sumetimais buvo pasiųsta reguliarioji Lenkijos karalystės kariuomenė, apie 12,6 tūkst.'
+  santrauka: '1831 m. birželį Antano Gelgaudo vadovaujama Lenkijos karalystės kariuomenė kūrė Laikinąją Lenkijos vyriausybę Lietuvoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1831 m. birželį į Lietuvą strateginiais sumetimais buvo pasiųsta re-
     guliarioji Lenkijos karalystės kariuomenė, apie 12,6 tūkst. karių, kuriai
     vadovavo generolas Antanas Gelgaudas. Ji lengvai užėmė Kauną, bet Vil-
     niaus pulti neskubėjo, nes kūrė Laikinąją Lenkijos vyriausybę Lietuvoje.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kaunas]]
 - [[objektai/grupes/Lenkijos karalystės kariuomenė]]

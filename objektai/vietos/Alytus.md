@@ -27,45 +27,36 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
   teiginys: 'Kovos ėjo prie Alytaus, ir kovo mėnesį iš.'
   pagrindžia:
     - c-001
-
 - t-002
   teiginys: 'Mezolito įrankių gausiai aptikta paežerėse nuo Lydos iki Alytaus.'
   pagrindžia:
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-
 - t-003
   teiginys: 'Bolševikų pajėgos planavo persikelti per Nemuną Alytuje ir pulti Kauną iš pietų.'
   pagrindžia:
     - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-
 - t-004
   teiginys: '1919 m. vasario 14-15 d. naktį lietuviai ir vokiečiai išstūmė bolševikus iš Alytaus.'
   pagrindžia:
     - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-
 - t-005
   teiginys: '1919 m. balandžio 3-8 d. lietuviai iš Alytaus puolė Vilniaus link.'
   pagrindžia:
     - c-005
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-
 - t-006
   teiginys: 'Merkinės puolimo metu iš Alytaus rusai sunkvežimiais skubėjo į pagalbą Merkinės NKVD kariams ir stribams.'
   pagrindžia:
     - c-006
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-007
-  teiginys: 'Decentralizuotai plėtojant pramonę, geriau panaudoti vietiniai darbo ištekliai, Alytaus, Plungės, Utenos gamyklose nuo 50 iki 70 proc.'
-  pagrindžia:
-    - c-007
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -82,7 +73,6 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
 - c-002
   santrauka: 'Alytus čia pažymėtas kaip pietinis mezolito radinių ruožo orientyras.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -97,7 +87,6 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
 - c-003
   santrauka: Citata rodo Alytų kaip vieną iš bolševikų planuoto persikėlimo per Nemuną taškų.
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -114,7 +103,6 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
 - c-004
   santrauka: Citata tiesiogiai patvirtina bolševikų išstūmimą iš Alytaus.
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -129,7 +117,6 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
 - c-005
   santrauka: Citata rodo Alytų kaip vieną iš puolimo į Vilnių išeities taškų.
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -145,7 +132,6 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-
 - c-006
   santrauka: Citata rodo Alytų kaip Merkinės gynėjams siųstos pagalbos šaltinį.
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -162,23 +148,3 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
-- c-007
-  santrauka: 'Decentralizuotai plėtojant pramonę, geriau panaudoti vietiniai darbo ištekliai, Alytaus, Plungės, Utenos gamyklose nuo 50 iki 70 proc.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Decentralizuotai plėtojant pramonę, geriau
-    panaudoti vietiniai darbo ištekliai, Alytaus, Plungės, Utenos gamyklose
-    nuo 50 iki 70 proc. darbininkų buvo to paties miesto ar rajono gyventojai
-    ir tik 3–5 proc.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-007
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Plungė]]
-- [[objektai/vietos/Utena]]

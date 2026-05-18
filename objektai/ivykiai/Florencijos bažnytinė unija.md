@@ -42,13 +42,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tačiau popiežiai labai atsargiai steigė arkivyskupijas ir bažnytines provincijas, o Rytų ir Vakarų bažnyčių neįstengė sujungti netrukus po Vytauto mirties įvykusi Florencijos bažnytinė unija (1439).'
+  teiginys: '1439 m. Florencijos bažnytinė unija neįstengė sujungti Rytų ir Vakarų bažnyčių.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tačiau popiežiai labai atsargiai steigė arkivyskupijas ir bažnytines provincijas, o Rytų ir Vakarų bažnyčių neįstengė sujungti netrukus po Vytauto mirties įvykusi Florencijos bažnytinė unija (1439).'
+  santrauka: '1439 m. Florencijos bažnytinė unija neįstengė sujungti Rytų ir Vakarų bažnyčių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Be to, dar bandyta steigti atskirą Lietuvos katalikų bažnyčios provinci-
@@ -58,11 +60,11 @@ Nenurodyta
     netrukus po Vytauto mirties įvykusi Florencijos bažnytinė unija (1439).
     Tačiau Vytauto bažnytinė politika padėjo pagrindus tolesniam Lietuvos
     krikščionėjimui.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

@@ -29,13 +29,17 @@ Siekiant sutramdyti antivalstybinę veiklą, 1934 m. vasario 8 d. priimtas Tauta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Siekiant sutramdyti antivalstybinę veiklą, 1934 m. vasario 8 d. priimtas Tautai ir valstybei saugoti įstatymas, kuriame numatyta bausti tuos, kurie niekins ir įžeidinės lietuvių tautą, Lietuvos vyriausybę, valstybi­nius L I E T U V O S I S T O R I J A 180.'
+  teiginys: '1934 m. vasario 8 d. priimtas Tautai ir valstybei saugoti įstatymas numatė bausti už lietuvių tautos, vyriausybės ir valstybinių ženklų niekinimą.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Siekiant sutramdyti antivalstybinę veiklą, 1934 m. vasario 8 d. priimtas Tautai ir valstybei saugoti įstatymas, kuriame numatyta bausti tuos, kurie niekins ir įžeidinės lietuvių tautą, Lietuvos vyriausybę, valstybi­nius L I E T U V O S I S T O R I J A 180.'
+  santrauka: '1934 m. vasario 8 d. priimtas Tautai ir valstybei saugoti įstatymas numatė bausti už lietuvių tautos, vyriausybės ir valstybinių ženklų niekinimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Siekiant sutramdyti antivalstybinę veiklą, 1934 m. vasario 8 d. priim-
@@ -45,10 +49,10 @@ Siekiant sutramdyti antivalstybinę veiklą, 1934 m. vasario 8 d. priimtas Tauta
     L I E T U V O S  I S T O R I J A
     180
     ženklus, vėliavą, dirbs užsienio naudai prieš Lietuvą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

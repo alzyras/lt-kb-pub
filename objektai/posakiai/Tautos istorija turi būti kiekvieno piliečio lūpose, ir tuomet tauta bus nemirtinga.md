@@ -29,14 +29,14 @@ tags: []
 Frazė istorijos atmintį sieja su piliečių kalbėjimu ir tautos gyvybingumu; ji priskiriama Mikalojui Akelaičiui, kreipusiam ją Juzefui Ignacui Kraševskiui.
 
 ## Teiginiai
-- t-001
-  teiginys: "1859 m. Mikalojus Akelaitis Juzefui Ignacui Kraševskiui pasakė, kad tautos istorija turi būti kiekvieno piliečio lūpose ir tuomet tauta bus nemirtinga."
+- t-003
+  teiginys: '1859 m. Mikalojus Akelaitis Juzefui Ignacui Kraševskiui rašė, kad tautos istorija turi būti kiekvieno piliečio lūpose.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: "Frazė siejama su tautos atminties ir tautos ateities ryšiu."
+- t-004
+  teiginys: 'Frazė siejama su tautos atminties ir tautos ateities ryšiu.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -44,7 +44,7 @@ Frazė istorijos atmintį sieja su piliečių kalbėjimu ir tautos gyvybingumu; 
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Citata pateikia frazės tekstą, datą, priskyrimą ir atminties argumentą.
+  santrauka: '1859 m. Mikalojus Akelaitis Juzefui Ignacui Kraševskiui rašė, kad tautos istorija turi būti kiekvieno piliečio lūpose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi
@@ -57,10 +57,10 @@ Frazė istorijos atmintį sieja su piliečių kalbėjimu ir tautos gyvybingumu; 
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata pririšta prie darbo šaltinio kūno teksto arba kandidato ledžerio patvirtinto offseto."
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
+    - t-004
 
 ## Ryšiai
 ### Laikotarpiai

@@ -29,31 +29,15 @@ Mackevičius, vėliau K.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Mackevičius, vėliau K.'
+  teiginys: 'Antanas Mackevičius po Z. Sierakausko mirties buvo paskirtas Kauno gubernijos sukilėlių karo vadu.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Sierakausko mirties Kauno gubernijos (sukilėliai vadino vaivadija) sukilėlių karo vadu paskirtas jaunas kunigas, apsisprendęs lietuvis Anta- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O M A L I E T U VA ( 1 7 9 5 – 1 9 1 5 ) 109 nas Mackevičius.'
-  pagrindžia:
-    - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Mackevičius, vėliau K.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1863 m. pabaigoje į sukilimo
-    slopintojų rankas pakliuvo A. Mackevičius, vėliau K. Kalinauskas, abu
-    netrukus buvo viešai pakarti.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Sierakausko mirties Kauno gubernijos (sukilėliai vadino vaivadija) sukilėlių karo vadu paskirtas jaunas kunigas, apsisprendęs lietuvis Anta- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O M A L I E T U VA ( 1 7 9 5 – 1 9 1 5 ) 109 nas Mackevičius.'
+  santrauka: 'Antanas Mackevičius po Z. Sierakausko mirties buvo paskirtas Kauno gubernijos sukilėlių karo vadu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Po Z. Sierakausko mirties Kauno gubernijos (sukilėliai vadino vaivadija)
@@ -62,13 +46,13 @@ Mackevičius, vėliau K.
     3 skyrius •  R U S I J O S  I M P E R I J O S  VA L D O M A  L I E T U VA  ( 1 7 9 5 – 1 9 1 5 )
     109
     nas Mackevičius.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Laikotarpiai

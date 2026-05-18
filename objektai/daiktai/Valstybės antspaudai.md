@@ -36,13 +36,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Šis pareigūnas saugojo valstybės antspaudus, prižiūrėjo, kad didžiojo kunigaikščio kanceliarijoje nebūtų parengtas joks raštas, prieštaraująs valstybės įstatymams.'
+  teiginys: 'LDK kancleris saugojo valstybės antspaudus ir prižiūrėjo, kad kanceliarijos raštai neprieštarautų valstybės įstatymams.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Šis pareigūnas saugojo valstybės antspaudus, prižiūrėjo, kad didžiojo kunigaikščio kanceliarijoje nebūtų parengtas joks raštas, prieštaraująs valstybės įstatymams.'
+  santrauka: 'LDK kancleris saugojo valstybės antspaudus ir prižiūrėjo, kad kanceliarijos raštai neprieštarautų valstybės įstatymams.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Plečiantis centrinės valdžios funkcijoms, pirmojoje XV  a. pusėje
@@ -50,10 +52,10 @@ Nenurodyta
     prižiūrėti Lietuvos Metriką. Šis pareigūnas saugojo valstybės antspaudus,
     prižiūrėjo, kad didžiojo kunigaikščio kanceliarijoje nebūtų parengtas joks
     raštas, prieštaraująs valstybės įstatymams.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

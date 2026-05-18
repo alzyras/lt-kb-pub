@@ -18,20 +18,24 @@ Pasipriešinimo istorija.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Pasipriešinimo istorija.'
+  teiginys: 'N. Gaškaitės „Pasipriešinimo istorija. 1944–1953 metai“ išleista Vilniuje 2006 m.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Pasipriešinimo istorija.'
+  santrauka: 'N. Gaškaitės „Pasipriešinimo istorija. 1944–1953 metai“ išleista Vilniuje 2006 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Gaškaitė N. Pasipriešinimo istorija. 1944–1953 metai. Vilnius, 2006.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

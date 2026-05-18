@@ -36,21 +36,27 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Po Mindaugo nužudymo būta didžiulės sumaišties: per kelerius metus Lietuvoje nužudyti dar trys dėl valdžios kovoję kunigaikščiai, vienas išvytas.'
+  teiginys: 'Lietuvių kunigaikštis, priėmęs stačiatikių tikėjimą, galėjo valdyti Rusios žemes, jungiamas prie Lietuvos valstybės.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Kryžiaus karai prieš Lietuvą iš dalies paaiškina Lietuvos ekspansiją į mongolų nuteriotas Kijevo Rusios žemes ir jų pajungimą – taip buvo kaupiami ištekliai kovai Vakaruose.'
+  teiginys: 'Rusios žemėse lietuviai rado bažnytinę sistemą ir raštiją, kurių patys neturėjo.'
   pagrindžia:
     - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-003
-  teiginys: 'Lietuva stačiatikiškos Rusios erdvėse Lietuvos valstybei užėmus senrusių žemes, tų žemių vietininkais tapę lietuvių kunigaikščiai neretai priimdavo stačiatikybę.'
+  teiginys: 'Lietuvos valstybei užėmus senrusių žemes, jų vietininkais tapę lietuvių kunigaikščiai neretai priimdavo stačiatikybę.'
   pagrindžia:
     - c-003
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Po Mindaugo nužudymo būta didžiulės sumaišties: per kelerius metus Lietuvoje nužudyti dar trys dėl valdžios kovoję kunigaikščiai, vienas išvytas.'
+  santrauka: 'Lietuvių kunigaikštis, priėmęs stačiatikių tikėjimą, galėjo valdyti Rusios žemes, jungiamas prie Lietuvos valstybės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taip pradėtas lietuvių kunigaikščių kūrima-
@@ -58,30 +64,30 @@ Nenurodyta
     (šiuo atveju Naugardukas, kuriame Vaišelgą įkurdino tėvas) jungiamos prie
     Lietuvos valstybės. Antra vertus, Vaišelga vienintelis kunigaikštis, atsisakęs
     kunigaikštijos ir tapęs vienuoliu.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Kryžiaus karai prieš Lietuvą iš dalies paaiškina Lietuvos ekspansiją į mongolų nuteriotas Kijevo Rusios žemes ir jų pajungimą – taip buvo kaupiami ištekliai kovai Vakaruose.'
+  santrauka: 'Rusios žemėse lietuviai rado bažnytinę sistemą ir raštiją, kurių patys neturėjo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Jose pa-
     mažu formavosi atskira nuo Maskvos rusų LDK slavų – rusėnų tauta, iš
     kurios vėliau ir atsiras šiuolaikinės baltarusių ir ukrainiečių tautos. Šiose
     žemėse lietuviai atrado tai, ko neturėjo: bažnytinę sistemą ir raštiją.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Lietuva stačiatikiškos Rusios erdvėse Lietuvos valstybei užėmus senrusių žemes, tų žemių vietininkais tapę lietuvių kunigaikščiai neretai priimdavo stačiatikybę.'
+  santrauka: 'Lietuvos valstybei užėmus senrusių žemes, jų vietininkais tapę lietuvių kunigaikščiai neretai priimdavo stačiatikybę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuva stačiatikiškos Rusios erdvėse
@@ -89,11 +95,11 @@ Nenurodyta
     ninkais tapę lietuvių kunigaikščiai neretai priimdavo stačiatikybę. Vėliau
     iš šių periferinių sritinių žemių kunigaikščių kilo garsios vėlesnių laikų
     LDK giminės – Sanguškos, Čartoriskiai, Vyšnioveckiai, Sluckiai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
 
@@ -103,3 +109,4 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/paprociai/Kandidatas 15 Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme]]
+- [[objektai/asmenys/Vaišelga]]

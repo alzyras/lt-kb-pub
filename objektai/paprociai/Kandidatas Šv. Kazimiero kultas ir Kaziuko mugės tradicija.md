@@ -35,24 +35,26 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kazimiero (1458–1484), Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, garbinimo tradicijos klostymasis.'
+  teiginys: 'Jau XVI a. pradžioje karalaitis Kazimieras buvo garbinamas Vilniaus apylinkėse.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kazimiero (1458–1484), Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, garbinimo tradicijos klostymasis.'
+  santrauka: 'Jau XVI a. pradžioje karalaitis Kazimieras buvo garbinamas Vilniaus apylinkėse.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kazimiero (1458–1484),
     Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, garbinimo tradicijos
     klostymasis. Jau XVI a. pradžioje karalaitis Kazimieras garbintas Vilniaus
     apylinkėse, o šv.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

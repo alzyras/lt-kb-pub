@@ -36,27 +36,24 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lenkijos ir Lietuvos valstybės teisių sistemos požiūriu įžadas tapo pacta conventa dalimi: taip nuo 1573 m. buvo vadinami elekcinių valdovų įsipareigojimai LLV bajorijai.'
+  teiginys: 'Įžado įstatymas teisės normų hierarchijoje iškilo net virš Gegužės trečiosios konstitucijos.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lenkijos ir Lietuvos valstybės teisių sistemos požiūriu įžadas tapo pacta conventa dalimi: taip nuo 1573 m. buvo vadinami elekcinių valdovų įsipareigojimai LLV bajorijai.'
+  santrauka: 'Įžado įstatymas teisės normų hierarchijoje iškilo net virš Gegužės trečiosios konstitucijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taip įža-
     do įstatymas teisės normų hierarchijoje iškilo net virš Gegužės trečiosios
     konstitucijos.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/paprociai/Kandidatas 44 Elekcinių valdovų pacta conventa priesaikos bajorijai]]
-- [[objektai/zodynas/pacta conventa]]

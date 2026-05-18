@@ -33,32 +33,15 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: '1917 m. pabaigoje Vokietija, ruošdamasi separatinėms taikos deryboms su Sovietų Rusija, paspaudė Lietuvos Tarybą deklaruoti Lietuvos valstybę ir jos prisijungimą prie Vokietijos.'
+  teiginys: '1917 m. pabaigoje Vokietija, ruošdamasi separatinėms taikos deryboms su Sovietų Rusija, spaudė Lietuvos Tarybą deklaruoti valstybę.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: '1918 metų Vasario 16 Aktas 1917 m. pabaigoje Vokietija, ruošdamasi separatinėms taikos deryboms su Sovietų Rusija, paspaudė Lietuvos Tarybą deklaruoti Lietuvos valstybę ir jos prisijungimą prie Vokietijos.'
-  pagrindžia:
-    - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1917 m. pabaigoje Vokietija, ruošdamasi separatinėms taikos deryboms su Sovietų Rusija, paspaudė Lietuvos Tarybą deklaruoti Lietuvos valstybę ir jos prisijungimą prie Vokietijos.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1918 metų Vasario 16 Aktas
-    1917 m. pabaigoje Vokietija, ruošdamasi separatinėms tai-
-    kos deryboms su Sovietų Rusija, paspaudė Lietuvos Tarybą deklaruoti
-    Lietuvos valstybę ir jos prisijungimą prie Vokietijos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: '1918 metų Vasario 16 Aktas 1917 m. pabaigoje Vokietija, ruošdamasi separatinėms taikos deryboms su Sovietų Rusija, paspaudė Lietuvos Tarybą deklaruoti Lietuvos valstybę ir jos prisijungimą prie Vokietijos.'
+  santrauka: '1917 m. pabaigoje Vokietija, ruošdamasi separatinėms taikos deryboms su Sovietų Rusija, spaudė Lietuvos Tarybą deklaruoti valstybę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1918 metų Vasario 16 Aktas
@@ -68,13 +51,13 @@ tags:
     Kaune, norimos rezoliucijos projektą įteikė Tarybos prezidiumui, kuris,
     kiek pataisęs, grąžino ją karinei administracijai gruodžio 11 dieną kaip
     priimtą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Laikotarpiai

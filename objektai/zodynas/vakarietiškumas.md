@@ -18,13 +18,15 @@ Nors sovietų valdžia netoleravo ir kitų konfesijų tikinčiųjų, juos persek
 
 ## Teiginiai
 - t-001
-  teiginys: 'Nors sovietų valdžia netoleravo ir kitų konfesijų tikinčiųjų, juos persekiojo, katalikai buvo ypač neparankūs dėl to, kad katalikybė siejosi su komunistinei vadovybei nepageidautinu „vakarietiškumu“ – katalikybės centru Vatikane, nepavaldžiu Maskvai, todėl su.'
+  teiginys: 'Sovietų valdžiai katalikai buvo ypač neparankūs, nes katalikybė siejosi su „vakarietiškumu“ ir Vatikanu, nepavaldžiu Maskvai.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Nors sovietų valdžia netoleravo ir kitų konfesijų tikinčiųjų, juos persekiojo, katalikai buvo ypač neparankūs dėl to, kad katalikybė siejosi su komunistinei vadovybei nepageidautinu „vakarietiškumu“ – katalikybės centru Vatikane, nepavaldžiu Maskvai, todėl su.'
+  santrauka: 'Sovietų valdžiai katalikai buvo ypač neparankūs, nes katalikybė siejosi su „vakarietiškumu“ ir Vatikanu, nepavaldžiu Maskvai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nesitaikstanti visuomenė
@@ -33,10 +35,10 @@ Nors sovietų valdžia netoleravo ir kitų konfesijų tikinčiųjų, juos persek
     juos persekiojo, katalikai buvo ypač neparankūs dėl to, kad katalikybė
     siejosi su komunistinei vadovybei nepageidautinu „vakarietiškumu“ –
     katalikybės centru Vatikane, nepavaldžiu Maskvai, todėl su katalikybe
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

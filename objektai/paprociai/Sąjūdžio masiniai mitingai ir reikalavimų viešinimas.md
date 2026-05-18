@@ -62,16 +62,16 @@ tags: []
 - Praktika rodo Sąjūdžio akcijų atvirumą visiems Lietuvos gyventojams.
 
 ## Teiginiai
-- t-002
-  teiginys: "1988 m. liepą-rugsėjį visoje Lietuvoje steigėsi Sąjūdžio iniciatyvinės grupės ir vyko didžiuliai mitingai."
+- t-003
+  teiginys: '1988 m. spalio pabaigoje Lietuvoje buvo įregistruota 1 200 LPS grupių, vienijusių 300 000 narių.'
   pagrindžia:
-    - c-002
+    - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: Citata aprašo iniciatyvinių grupių plitimą, mitingus ir Sąjūdžio atvirumą.
+- c-001
+  santrauka: '1988 m. spalio pabaigoje Lietuvoje buvo įregistruota 1 200 LPS grupių, vienijusių 300 000 narių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1988 m. spalio pabaigoje
@@ -82,9 +82,9 @@ tags: []
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata patikrinta kaip pažodinis darbinio šaltinio fragmentas."
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-003
 
 ## Šaltiniai ir įrodymai
 

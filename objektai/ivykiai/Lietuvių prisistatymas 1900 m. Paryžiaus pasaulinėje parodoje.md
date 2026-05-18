@@ -31,13 +31,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Pirmą kartą lietuviai prisistatė 1900 m. Paryžiaus pasaulinėje parodoje.'
+  teiginys: '1900 m. Paryžiaus pasaulinės parodos etnografiniame skyriuje lietuviai parengė ekspoziciją su tautiniais drabužiais, ūkio padargais ir lietuviška spauda.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Pirmą kartą lietuviai prisistatė 1900 m. Paryžiaus pasaulinėje parodoje.'
+  santrauka: '1900 m. Paryžiaus pasaulinės parodos etnografiniame skyriuje lietuviai parengė ekspoziciją su tautiniais drabužiais, ūkio padargais ir lietuviška spauda.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Paryžiaus pasaulinėje
@@ -45,11 +47,11 @@ Nenurodyta
     čiais iš Mažosios Lietuvos ir ypač padedami JAV lietuvių, paruošė ekspo-
     ziciją, kurioje išdėliojo lietuvių tautinių drabužių, žemės ūkio padargų,
     kitų daiktų, o svarbiausia – slapta Prūsijoje leidžiamos lietuvių spaudos
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

@@ -20,24 +20,26 @@ Svarbiausia, kad Lietuva dėl sudėtingų socialinių, politinių tradicijų ir 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Svarbiausia, kad Lietuva dėl sudėtingų socialinių, politinių tradicijų ir psichologinių priežasčių prarado lietuviškai kalbėjusius „klaipėdiškius“, kurie rinkimuose į vietos seimelį balsavo už susitelkusias vokiškas partijas (panašiai kaip elzasiečiai ar.'
+  teiginys: 'Lietuva prarado lietuviškai kalbėjusius klaipėdiškius, kurie rinkimuose į vietos seimelį balsavo už susitelkusias vokiškas partijas.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Svarbiausia, kad Lietuva dėl sudėtingų socialinių, politinių tradicijų ir psichologinių priežasčių prarado lietuviškai kalbėjusius „klaipėdiškius“, kurie rinkimuose į vietos seimelį balsavo už susitelkusias vokiškas partijas (panašiai kaip elzasiečiai ar.'
+  santrauka: 'Lietuva prarado lietuviškai kalbėjusius klaipėdiškius, kurie rinkimuose į vietos seimelį balsavo už susitelkusias vokiškas partijas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Svarbiausia, kad Lietuva dėl sudėtingų socialinių, politinių tradicijų ir
     psichologinių priežasčių prarado lietuviškai kalbėjusius „klaipėdiškius“,
     kurie rinkimuose į vietos seimelį balsavo už susitelkusias vokiškas parti-
     jas (panašiai kaip elzasiečiai ar Silezijos lenkai).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

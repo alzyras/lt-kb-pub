@@ -91,22 +91,6 @@ Knygnešystė buvo slaptas lietuviškos spaudos spausdinimo, gabenimo ir platini
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-- c-71130
-  santrauka: 2013 m. šaltinis tiesiogiai įvardija kontrabandinės knygnešystės tradicijos susiformavimą.
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Susiformavo tvirta kontrabandinės
-    knygnešystės tradicija, ir į XIX a. pabaigą lietuvių kalba Rytprūsiuo-
-    se išleidžiamų ir į Lietuvą knygnešių atnešamų ir nelegaliai platinamų
-    knygų gausėjo.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Rankiniu būdu sutrumpinta į šaltinyje exact randamą fragmentą po OCR tarpų validacijos klaidos."
-  pagrindžia:
-    - t-006
-    - t-007
 
 ## Ryšiai
 ### Teminiai klasteriai

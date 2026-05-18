@@ -19,22 +19,24 @@ Kolontajus nebūtų parėmęs valdovo pozicijos.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kolontajus nebūtų parėmęs valdovo pozicijos.'
+  teiginys: 'Hugas Kolontajus netikėtai parėmė valdovo poziciją ir prisidėjo prie nedidelės balsų persvaros.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kolontajus nebūtų parėmęs valdovo pozicijos.'
+  santrauka: 'Hugas Kolontajus netikėtai parėmė valdovo poziciją ir prisidėjo prie nedidelės balsų persvaros.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kiekybiškai tai – nepaprastai maža persvara, ir
     tokios nebūtų buvę, jei netikėtai vadinamosios Patriotų partijos vienas iš
     vadų H. Kolontajus nebūtų parėmęs valdovo pozicijos.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

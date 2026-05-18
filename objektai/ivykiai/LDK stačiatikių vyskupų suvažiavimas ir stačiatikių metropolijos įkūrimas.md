@@ -36,25 +36,7 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Todėl „vytautinės“ permainos kultūroje taip pat 1 skyrius • S E N O J I L I E T U VA 45 Vytauto majestotinis antspaudas.'
-  pagrindžia:
-    - c-001
+Nenurodyta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Todėl „vytautinės“ permainos kultūroje taip pat 1 skyrius • S E N O J I L I E T U VA 45 Vytauto majestotinis antspaudas.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Todėl „vytautinės“ permainos kultūroje taip pat
-
-    1 skyrius •  S E N O J I  L I E T U VA
-    45
-    Vytauto majestotinis antspaudas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
+Nenurodyta

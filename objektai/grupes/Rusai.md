@@ -26,14 +26,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     - c-004
     - c-002
     - c-001
-- t-002
-  teiginys: 'Diegti „rusų pradus“ turėjo rusai mokytojai, paprastai atvykę iš Rusijos gilumos, pradžioje daugumą jų sudarė rusų stačiatikių dvasinių seminarijų auklėtiniai.'
-  pagrindžia:
-    - c-006
-- t-003
-  teiginys: '– baltarusiai, rusai ir ukrainiečiai kartu sudėjus.'
-  pagrindžia:
-    - c-007
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -103,38 +95,8 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     - t-001
     - t-001
     - t-001
-- c-006
-  santrauka: 'Diegti „rusų pradus“ turėjo rusai mokytojai, paprastai atvykę iš Rusijos gilumos, pradžioje daugumą jų sudarė rusų stačiatikių dvasinių seminarijų auklėtiniai.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Diegti „rusų pradus“ turėjo
-    rusai mokytojai, paprastai atvykę iš Rusijos gilumos, pradžioje daugumą
-    jų sudarė rusų stačiatikių dvasinių seminarijų auklėtiniai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-007
-  santrauka: '– baltarusiai, rusai ir ukrainiečiai kartu sudėjus.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1897 m. surašymo duomenimis, gyventojų skaičius maždaug da-
-    bartinės Lietuvos ribose (be Klaipėdos krašto) siekė apie 2,7 mln. Apie
-    1,6 mln.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Baltarusiai]]
-- [[objektai/grupes/Ukrainiečiai]]
 - [[objektai/grupes/Valakai]]
 - [[objektai/grupes/Žemaičiai]]

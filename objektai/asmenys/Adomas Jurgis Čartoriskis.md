@@ -20,31 +20,35 @@ Universiteto globėju iki 1824 m. buvo Lenkijos didikų atžala – Adomas Jurgi
 
 ## Teiginiai
 - t-001
-  teiginys: 'Universiteto globėju iki 1824 m. buvo Lenkijos didikų atžala – Adomas Jurgis Čartoriskis (Adam Jerzy Czartoryski, 1770–1861) – asmeninis caro Aleksandro I draugas, kurį laiką ėjęs Rusijos užsienio reikalų ministro pareigas.'
+  teiginys: 'A. J. Čartoriskiui jo globojama apygarda buvo plano atkurti Lenkijos arba Lenkijos ir Lietuvos valstybę parengiamoji grandis.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Čartoriskis, susiaurintos Vilniaus švietimo apygardos ribos, caro Nikolajaus I priežiūra tapo dar akylesnė įkūrus slaptąją policiją.'
+  teiginys: 'A. J. Čartoriskis buvo priverstas atsistatydinti iš globėjo posto.'
   pagrindžia:
     - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Universiteto globėju iki 1824 m. buvo Lenkijos didikų atžala – Adomas Jurgis Čartoriskis (Adam Jerzy Czartoryski, 1770–1861) – asmeninis caro Aleksandro I draugas, kurį laiką ėjęs Rusijos užsienio reikalų ministro pareigas.'
+  santrauka: 'A. J. Čartoriskiui jo globojama apygarda buvo plano atkurti Lenkijos arba Lenkijos ir Lietuvos valstybę parengiamoji grandis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     A. J. Čartoris-
     kiui jo globojama apygarda buvo plano atkurti Lenkijos (ar Lenkijos ir
     Lietuvos) valstybę Rusijos imperijos globoje parengiamoji grandis.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Čartoriskis, susiaurintos Vilniaus švietimo apygardos ribos, caro Nikolajaus I priežiūra tapo dar akylesnė įkūrus slaptąją policiją.'
+  santrauka: 'A. J. Čartoriskis buvo priverstas atsistatydinti iš globėjo posto.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Išvaryti ir politiš-
@@ -52,11 +56,11 @@ Universiteto globėju iki 1824 m. buvo Lenkijos didikų atžala – Adomas Jurgi
     iš globėjo posto A. J. Čartoriskis, susiaurintos Vilniaus švietimo apygar-
     dos ribos, caro Nikolajaus I priežiūra tapo dar akylesnė įkūrus slaptąją
     policiją.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

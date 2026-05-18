@@ -19,25 +19,23 @@ Britai tuo tarpu iškėlė idėją, kad Lietuva už prarastą Vilnių turi gauti
 
 ## Teiginiai
 - t-001
-  teiginys: 'Britai tuo tarpu iškėlė idėją, kad Lietuva už prarastą Vilnių turi gauti Klaipėdą, nors vėliau pasisakė už „laisvojo miesto“ statusą.'
+  teiginys: 'Britai siūlė Lietuvai už prarastą Vilnių gauti Klaipėdą, bet vėliau palaikė Klaipėdos „laisvojo miesto“ statusą.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Britai tuo tarpu iškėlė idėją, kad Lietuva už prarastą Vilnių turi gauti Klaipėdą, nors vėliau pasisakė už „laisvojo miesto“ statusą.'
+  santrauka: 'Britai siūlė Lietuvai už prarastą Vilnių gauti Klaipėdą, bet vėliau palaikė Klaipėdos „laisvojo miesto“ statusą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Britai tuo tarpu iškėlė idėją, kad Lietuva už prarastą Vil-
     nių turi gauti Klaipėdą, nors vėliau pasisakė už „laisvojo miesto“ statusą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]

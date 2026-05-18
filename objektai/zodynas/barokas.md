@@ -20,21 +20,27 @@ Baroko sąvoka, kaip minėjome, atėjusi iš meno, ypač iš architektūros, ist
 
 ## Teiginiai
 - t-001
-  teiginys: 'Baroko sąvoka, kaip minėjome, atėjusi iš meno, ypač iš architektūros, istorijos, o pats žodis „barokas“ siejamas su isp. barrueco, port.'
+  teiginys: 'Lietuvoje barokas geriausiai matomas architektūroje, ypač bažnyčiose.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Nuo 1586 m. Nesvyžiaus jėzuitų bažnyčios iki Vilniaus katedros fasado skulptūrų, sukurtų 1784–1787 m. du šimtus metų Lietuva gyveno baroko dvasia.'
+  teiginys: 'J. K. Glaubico 1737–1767 m. kūryba laikoma vienu ryškiausių senosios Lietuvos civilizacijos reiškinių.'
   pagrindžia:
     - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-003
-  teiginys: 'Ryčiausia ir šiauriausia Europoje baroko architektūra Baroko sąvoka, kaip minėjome, atėjusi iš meno, ypač iš architektūros, istorijos, o pats žodis „barokas“ siejamas su isp. barrueco, port.'
+  teiginys: 'Lietuvos barokas perėjo nuo kuklaus, Renesanso veikiamo baroko prie vėlyvojo baroko, rokoko ir savitos Vilniaus baroko mokyklos.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Baroko sąvoka, kaip minėjome, atėjusi iš meno, ypač iš architektūros, istorijos, o pats žodis „barokas“ siejamas su isp. barrueco, port.'
+  santrauka: 'Lietuvoje barokas geriausiai matomas architektūroje, ypač bažnyčiose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvoje barokas
@@ -43,25 +49,30 @@ Baroko sąvoka, kaip minėjome, atėjusi iš meno, ypač iš architektūros, ist
     finuotai puošnaus baroko ir rokoko, nuo „importo“ etapo prie labai savitos
     Vilniaus baroko mokyklos ir provincijos medinio baroko, nuo visuomenės
     elitui kurto meno prie pačios liaudies barokinės kūrybos.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+    - t-003
 - c-002
-  santrauka: 'Nuo 1586 m. Nesvyžiaus jėzuitų bažnyčios iki Vilniaus katedros fasado skulptūrų, sukurtų 1784–1787 m. du šimtus metų Lietuva gyveno baroko dvasia.'
+  santrauka: 'J. K. Glaubico 1737–1767 m. kūryba laikoma vienu ryškiausių senosios Lietuvos civilizacijos reiškinių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     J. K. Glaubi-
     co kūrybos trisdešimtmetis (1737–1767 m.) yra vienas ryškiausių senosios
     Lietuvos civilizacijos reiškinių, priklausomybės Vakarų civilizacijai ženklas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-    - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/paprociai/Kandidatas 42 Barokinis šventasis peizažas, kryždirbystė ir Vilniaus baroko mokyklos sakralinė estetika]]
+- [[objektai/paprociai/Kandidatas Barokinis šventasis peizažas, kryždirbystė ir Vilniaus baroko mokyklos sakralinė estetika]]

@@ -50,32 +50,16 @@ Terminas aiškinamas kaip aplinkinių vartotas įvardijimas ištikimiems žmonė
 Vartojamas Lietuvos vardo kilmės, etnonimų ir istorinės kalbotyros kontekste.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Šie žmonės aplinkinių buvo vadinami „leičiais“ (latviai iki šiol vadina lietuvius „leišiais“), o gal ir „liečiais“.'
+- t-002
+  teiginys: 'Valstybės pakraščiuose įkurdinti ištikimi žmonės iš Lietuvos aplinkinių vadinti „leičiais“, o gal ir „liečiais“.'
   pagrindžia:
-    - c-002
+    - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Pateikiama leičio vardo forma.
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Šiandien mokslininkai, remdamiesi prielaida, kad Lie-
-    tuvos vardas turi būti išvestas iš etnonimo „lietuvis“, atkreipė dėmesį į
-    vietovardžius su šaknimis „leit-“ ir „liet-“ už Lietuvos ribų. Grindžiama
-    mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
-    valstybės pakraščiuose, ne lietuvių, o senųjų rusų (arba rusėnų), taip pat
-    žemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš
-    Lietuvos. Šie žmonės aplinkinių buvo vadinami „leičiais“ (latviai iki šiol
-    vadina lietuvius „leišiais“), o gal ir „liečiais“.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Exact citata pridėta po public_notes_have_evidence validacijos klaidos."
-  pagrindžia: []
-- c-002
-  santrauka: 'Šie žmonės aplinkinių buvo vadinami „leičiais“ (latviai iki šiol vadina lietuvius „leišiais“), o gal ir „liečiais“.'
+  santrauka: 'Valstybės pakraščiuose įkurdinti ištikimi žmonės iš Lietuvos aplinkinių vadinti „leičiais“, o gal ir „liečiais“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Grindžiama
@@ -86,13 +70,13 @@ Vartojamas Lietuvos vardo kilmės, etnonimų ir istorinės kalbotyros kontekste.
     vadina lietuvius „leišiais“), o gal ir „liečiais“. Taigi, Lietuvos vardas turėjo
     atsirasti nuo etnonimo (susijusio su specifinėmis karinėmis funkcijomis)
     „liečiai“ ar „leičiai“.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Laikotarpiai

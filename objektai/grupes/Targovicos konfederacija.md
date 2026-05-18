@@ -27,18 +27,6 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
   teiginys: 'Targovicos konfederacija, kuri ėjo prieš visas reformas — už senąją santvarką, sugrąžino ir senąjį Lietuvos Lenkijos valstybių atskirumą.'
   pagrindžia:
     - c-002
-- t-004
-  teiginys: 'Peterburge subrendo ir buvo surašytas Targovicos (miestelis Ukrainoje, kuriame telkėsi reformų priešininkai) konfederacijos aktas, paskelbtas 1792 m. gegužės 14 d. Netrukus į pagalbą konfederatams atėjo Rusijos kariuomenė: gegužės 22-ąją ji įžengė į LDK prie.'
-  pagrindžia:
-    - c-004
-- t-005
-  teiginys: 'Targovicos konfederacijai 1792 m. birželio 25 d. pritarė Vilniaus (t.'
-  pagrindžia:
-    - c-005
-- t-006
-  teiginys: 'Sukilimo kulminacija Lenkijai ir Lietuvai tapo kai kurių Targovicos konfederatų, tarp kurių buvo Vilniaus vyskupas I.'
-  pagrindžia:
-    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -69,57 +57,7 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-- c-004
-  santrauka: 'Peterburge subrendo ir buvo surašytas Targovicos (miestelis Ukrainoje, kuriame telkėsi reformų priešininkai) konfederacijos aktas, paskelbtas 1792 m. gegužės 14 d. Netrukus į pagalbą konfederatams atėjo Rusijos kariuomenė: gegužės 22-ąją ji įžengė į LDK prie.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau
-    opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus aršiausius
-    reformų priešininkus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
-- c-005
-  santrauka: 'Targovicos konfederacijai 1792 m. birželio 25 d. pritarė Vilniaus (t.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Targovicos konfederacijai 1792  m. birželio 25 d. pritarė Vilniaus (t.  y.
-    Lietuvos) konfederacija, kuriai vadovavo Lietuvos didysis etmonas
-    Simonas Kosakovskis, jo brolis Livonijos vyskupas Juozapas Kosakovskis
-    ir Vilniaus vyskupas I. Masalskis. Rugsėjo 11 dieną Targovicos ir Vilniaus
-    konfederacijos Brastoje susijungė į vieną Abiejų Tautų konfederaciją ir
-    savo centru paskelbė Gardiną.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
-- c-006
-  santrauka: 'Sukilimo kulminacija Lenkijai ir Lietuvai tapo kai kurių Targovicos konfederatų, tarp kurių buvo Vilniaus vyskupas I.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Sukilimo kulminacija Lenkijai ir Lietuvai tapo kai kurių Targovicos
-    konfederatų, tarp kurių buvo Vilniaus vyskupas I. Masalskis ir Livonijos
-    vyskupas J. Kosakovskis, egzekucija – jie buvo pakarti Varšuvoje birže-
-    lio 28 dieną.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-006
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/aktas]]
-
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų konfederacija]]
-- [[objektai/grupes/Vilniaus konfederacija]]

@@ -18,27 +18,25 @@ tags:
 Visuomenė darėsi pliuralistinė, įregistruota net 40 partijų, tačiau Lietuvos politiniame gyvenime dominavo du pagrindiniai žaidėjai: susidariusi iš savarankiškos LKP, pasivadinusi L I E T U V O S I S T O R I J A 250 socialdemokratine, LDDP (vėliau susivienys. Landsbergio vadovaujamus konservatorius.
 
 ## Teiginiai
-- t-002
-  teiginys: 'Landsbergio vadovaujamus konservatorius.'
+- t-001
+  teiginys: 'Po 1992 m. Seimo rinkimų praėjus ketveriems metams sėkmė lydėjo V. Landsbergio vadovaujamus konservatorius.'
   pagrindžia:
-    - c-002
+    - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Landsbergio vadovaujamus konservatorius.'
+- c-001
+  santrauka: 'Po 1992 m. Seimo rinkimų praėjus ketveriems metams sėkmė lydėjo V. Landsbergio vadovaujamus konservatorius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Per 1992 m. rinkimus į Sei-
     mą A. Brazausko vadovaujama LDDP gavo daugumą, o po ketverių metų
     sėkmė lydėjo V. Landsbergio vadovaujamus konservatorius.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Vytautas Landsbergis]]
+    - t-001

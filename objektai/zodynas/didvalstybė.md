@@ -18,28 +18,32 @@ Be to, ten, kur nereikėjo pripažinimo, kur užteko savo pačios galių, pagoni
 
 ## Teiginiai
 - t-001
-  teiginys: 'Be to, ten, kur nereikėjo pripažinimo, kur užteko savo pačios galių, pagoniška Lietuva pamažu virto visam regionui reikšminga jėga arba didvalstybe (lenk.'
+  teiginys: 'Pagoniška Lietuva pamažu virto visam regionui reikšminga jėga arba didvalstybe.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: 'Valdant Ldk Algirdui (1345–1377) Lietuva ne tik tampa didvalstybe, bet ir išplečia savo teritoriją nuo Baltijos iki Juodosios jūros.'
   pagrindžia:
     - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Be to, ten, kur nereikėjo pripažinimo, kur užteko savo pačios galių, pagoniška Lietuva pamažu virto visam regionui reikšminga jėga arba didvalstybe (lenk.'
+  santrauka: 'Pagoniška Lietuva pamažu virto visam regionui reikšminga jėga arba didvalstybe.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Be to, ten, kur nereikėjo
     pripažinimo, kur užteko savo pačios galių, pagoniška Lietuva pamažu
     virto visam regionui reikšminga jėga arba didvalstybe (lenk. mocartstwo,
     rus. deržava, vok. Grossmacht), o nuo jos iki imperijos – jau tik žingsnis.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
@@ -49,14 +53,10 @@ Be to, ten, kur nereikėjo pripažinimo, kur užteko savo pačios galių, pagoni
     Valdant Ldk
     Algirdui (1345–1377) Lietuva ne tik tampa didvalstybe, bet ir išplečia
     savo teritoriją nuo Baltijos iki Juodosios jūros.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Algirdas]]

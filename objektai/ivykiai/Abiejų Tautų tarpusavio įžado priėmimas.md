@@ -46,29 +46,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: '1791 m. spalio 20 d. Lietuvos delegacija Ketverių metų seime išsireikalavo konstitucijos pataisą, kuri buvo pavadinta Abiejų Tautų tarpusavio įžadu.'
+  teiginys: 'Po Gegužės trečiosios konstitucijos priimtas įstatymas numatė kiekvieną trečią seimą Gardine ir atskiras Lietuvos atstovų sesijas.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Gegužės 16 dieną buvo priimtas įstatymas dėl kiekvieno trečio seimo Gardine L I E T U V O S I S T O R I J A 92 ir atskirų Lietuvos atstovų sesijų, o birželio 24-ąją grįžta prie istorinių Karūnos ir LDK terminų, Abiejų Tautų Respublikos sąvoka atsiranda.'
-  pagrindžia:
-    - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1791 m. spalio 20 d. Lietuvos delegacija Ketverių metų seime išsireikalavo konstitucijos pataisą, kuri buvo pavadinta Abiejų Tautų tarpusavio įžadu.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Taigi į konstituciją sugrąžintas valstybės dualizmo principas – federacija.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Gegužės 16 dieną buvo priimtas įstatymas dėl kiekvieno trečio seimo Gardine L I E T U V O S I S T O R I J A 92 ir atskirų Lietuvos atstovų sesijų, o birželio 24-ąją grįžta prie istorinių Karūnos ir LDK terminų, Abiejų Tautų Respublikos sąvoka atsiranda.'
+  santrauka: 'Po Gegužės trečiosios konstitucijos priimtas įstatymas numatė kiekvieną trečią seimą Gardine ir atskiras Lietuvos atstovų sesijas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Priėmus Gegužės trečiosios konstituciją prasidėjusiose diskusijose
@@ -81,19 +67,15 @@ Nenurodyta
     ir atskirų Lietuvos atstovų sesijų, o birželio 24-ąją grįžta prie istorinių
     Karūnos ir LDK terminų, Abiejų Tautų Respublikos sąvoka atsiranda
     komisijų įvardijimuose, atskirai vyksta kodifikacijos darbai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XVIII amžius]]
 - [[laikotarpiai/XXI amžius]]
-
-### Susiję objektai
-- [[objektai/autoriai/Tadas Korsakas]]
-- [[objektai/posakiai/„Respublikos valstybės“ „bendrą Tėvynę – Lenkijos Respubliką“]]

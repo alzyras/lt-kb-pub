@@ -21,13 +21,15 @@ davė labai reikšmingus fenomenus, kurių trumpa formulė būtų tokia – duon
 
 ## Teiginiai
 - t-001
-  teiginys: 'davė labai reikšmingus fenomenus, kurių trumpa formulė būtų tokia – duona, tolerancija, demokratija, konstitucija, barokas.'
+  teiginys: 'Abiejų Tautų Respublikos XVII–XVIII a. įnašas į Europos ir pasaulio civilizaciją apibendrintas formule „duona, tolerancija, demokratija, konstitucija, barokas“.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'davė labai reikšmingus fenomenus, kurių trumpa formulė būtų tokia – duona, tolerancija, demokratija, konstitucija, barokas.'
+  santrauka: 'Abiejų Tautų Respublikos XVII–XVIII a. įnašas į Europos ir pasaulio civilizaciją apibendrintas formule „duona, tolerancija, demokratija, konstitucija, barokas“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Paprastai moksle laikoma, kad ši
@@ -48,11 +50,11 @@ davė labai reikšmingus fenomenus, kurių trumpa formulė būtų tokia – duon
     • sukūrė teisinę tradiciją, kuri XVI a. davė sistemingiausius Europoje
     teisės kodeksus – Lietuvos Statutus, o 1791 m. kartu su Lenkija –
     konstituciją, tapusią ankstyviausia rašytine konstitucija Europoje.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

@@ -49,44 +49,18 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
     - c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-
 - t-007
   teiginys: '1920 m. rugsėjo 23 d. lenkų divizijos per tiltą per Nemuną Druskininkuose persikėlė Marcinkonių link.'
   pagrindžia:
     - c-006
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-
 - t-008
   teiginys: '1920 m. spalio 7 d. demarkacinė linija buvo nustatyta iki Juodosios Ančios ir Nemuno santakos.'
   pagrindžia:
     - c-007
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-009
-  teiginys: 'Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siaurąja prasme ankstyvaisiais istoriniais laikais buvo tarp Nemuno ir Neries upių.'
-  pagrindžia:
-    - c-008
-- t-010
-  teiginys: 'Kryžiuočių kumštis grėsmingai tebekybojo ties Nemunu.'
-  pagrindžia:
-    - c-009
-- t-011
-  teiginys: 'Tačiau išvedus visą kariuomenę iš Lietuvos, liko neapsaugotos pilys ir staigus Ordino puolimas prie Nemuno galėjo baigtis katastrofa.'
-  pagrindžia:
-    - c-010
-- t-012
-  teiginys: 'Tačiau vėliau jis pretendavo tik į visą Žemaitiją iki Nemuno (vadinasi, ir Klaipėdą) bei Užnemunę.'
-  pagrindžia:
-    - c-011
-- t-013
-  teiginys: 'Napoleono kariuomenės kėlimasis per Nemuną žygyje į Rusiją 1812 m. Dail.'
-  pagrindžia:
-    - c-012
-- t-014
-  teiginys: 'Basanavičius, Stasys Šilingas ir Donatas Malinauskas surašė vadinamąją Gintarinę deklaraciją, kuri rugpjūčio 4 dieną buvo paskelbta Rusijos Dūmoje (karą laimėjus lietuviai trokšta sujungti abi Lietuvas, esančias apie Nemuną – Didžiąją ir Mažąją (Rytų.'
-  pagrindžia:
-    - c-013
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -130,7 +104,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-
 - c-006
   santrauka: Citata tiesiogiai mini persikėlimą per Nemuną Druskininkuose.
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -145,7 +118,6 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
-
 - c-007
   santrauka: Citata rodo Nemuno santaką kaip demarkacinės linijos orientyrą.
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -162,98 +134,10 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
-- c-008
-  santrauka: 'Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siaurąja prasme ankstyvaisiais istoriniais laikais buvo tarp Nemuno ir Neries upių.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tradiciškai manoma, kad Lietuvos valstybės bran-
-    duolys – Lietuvos žemė siaurąja prasme ankstyvaisiais istoriniais laikais
-    buvo tarp Nemuno ir Neries upių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-009
-- c-009
-  santrauka: 'Kryžiuočių kumštis grėsmingai tebekybojo ties Nemunu.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kry-
-    žiuočių kumštis grėsmingai tebekybojo ties Nemunu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-010
-- c-010
-  santrauka: 'Tačiau išvedus visą kariuomenę iš Lietuvos, liko neapsaugotos pilys ir staigus Ordino puolimas prie Nemuno galėjo baigtis katastrofa.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau išvedus visą kariuomenę iš Lietuvos, liko
-    neapsaugotos pilys ir staigus Ordino puolimas prie Nemuno galėjo baig-
-    tis katastrofa.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-011
-- c-011
-  santrauka: 'Tačiau vėliau jis pretendavo tik į visą Žemaitiją iki Nemuno (vadinasi, ir Klaipėdą) bei Užnemunę.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau vėliau
-    jis pretendavo tik į visą Žemaitiją iki Nemuno (vadinasi, ir Klaipėdą) bei
-    Užnemunę.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-012
-- c-012
-  santrauka: 'Napoleono kariuomenės kėlimasis per Nemuną žygyje į Rusiją 1812 m. Dail.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Napoleono kariuomenės kėlimasis per Nemuną žygyje į Rusiją
-    1812 m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-013
-- c-013
-  santrauka: 'Basanavičius, Stasys Šilingas ir Donatas Malinauskas surašė vadinamąją Gintarinę deklaraciją, kuri rugpjūčio 4 dieną buvo paskelbta Rusijos Dūmoje (karą laimėjus lietuviai trokšta sujungti abi Lietuvas, esančias apie Nemuną – Didžiąją ir Mažąją (Rytų.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kai 1914 m.
-    liepą Vilniuje J. Basanavičius, Stasys Šilingas ir Donatas Malinauskas sura-
-    šė vadinamąją Gintarinę deklaraciją, kuri rugpjūčio 4 dieną buvo paskelb-
-    ta Rusijos Dūmoje (karą laimėjus lietuviai trokšta sujungti abi Lietuvas,
-    esančias apie Nemuną – Didžiąją ir Mažąją (Rytų Prūsiją), kad tokia Lie-
-    tuva norėtų gauti autonomiją Rusijos tautų šeimoje), rusai nutylėjo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-014
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Kaunas]]
 - [[objektai/vietos/Klaipėda]]
 - [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Lietauka]]
-- [[objektai/vietos/Neris]]
-- [[objektai/vietos/Užnemunė]]
 - [[objektai/zodynas/demarkacijos linija]]

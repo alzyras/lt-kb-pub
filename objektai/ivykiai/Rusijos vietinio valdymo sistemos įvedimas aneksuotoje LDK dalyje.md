@@ -45,32 +45,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Nuo Jekaterinos II laikų į vietinio valdymo grandį inkorporuotos ir savivaldos atskirų luomų lygmens institucijos – bajorų dvarininkų susirinkimai gubernijose ir apskrityse, atskirų miestų miestiečių luomų, arba subluomų, savivalda.'
+  teiginys: '1795 m. Rusijos aneksuotoje LDK dalyje buvo įvesta vietinio valdymo sistema, prižiūrima vietos administracijos.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'L I E T U V O S I S T O R I J A 100 Nuo Jekaterinos II laikų į vietinio valdymo grandį inkorporuotos ir savivaldos atskirų luomų lygmens institucijos – bajorų dvarininkų susirinkimai gubernijose ir apskrityse, atskirų miestų miestiečių luomų, arba subluomų.'
-  pagrindžia:
-    - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Nuo Jekaterinos II laikų į vietinio valdymo grandį inkorporuotos ir savivaldos atskirų luomų lygmens institucijos – bajorų dvarininkų susirinkimai gubernijose ir apskrityse, atskirų miestų miestiečių luomų, arba subluomų, savivalda.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tai nesavarankiškos vietinės valdžios šakos, prižiūrimos
-    vietos administracijos, atlikusios iš esmės pagalbines funkcijas. Apskrities
-    bajorų susirinkimas rinko kai kuriuos už viešąją tvarką atsakingus parei-
-    gūnus, žemutinės teismų grandies teisėjus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'L I E T U V O S I S T O R I J A 100 Nuo Jekaterinos II laikų į vietinio valdymo grandį inkorporuotos ir savivaldos atskirų luomų lygmens institucijos – bajorų dvarininkų susirinkimai gubernijose ir apskrityse, atskirų miestų miestiečių luomų, arba subluomų.'
+  santrauka: '1795 m. Rusijos aneksuotoje LDK dalyje buvo įvesta vietinio valdymo sistema, prižiūrima vietos administracijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     L I E T U V O S  I S T O R I J A
@@ -84,19 +67,15 @@ Nenurodyta
     gūnus, žemutinės teismų grandies teisėjus. Tokia vietinio valdymo siste-
     ma buvo įvesta ir 1795 m. Rusijos aneksuotoje LDK dalyje, kurioje gyveno
     per 1,8 mln. žmonių, iš jų 1,1 mln. etnografinėje Lietuvoje.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XVIII amžius]]
 - [[laikotarpiai/XXI amžius]]
-
-### Susiję objektai
-- [[objektai/paprociai/Kandidatas 45 Rusijos imperijos vietinė luominė savivalda ir bajorų seimeliai]]
-- [[objektai/paprociai/Kandidatas Rusijos imperijos vietinė luominė savivalda ir bajorų seimeliai]]

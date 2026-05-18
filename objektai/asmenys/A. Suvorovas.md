@@ -20,22 +20,24 @@ Suvorovo vadovaujamai Rusijos kariuomenei imtis veiksmų.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Suvorovo vadovaujamai Rusijos kariuomenei imtis veiksmų.'
+  teiginys: 'A. Suvorovas vadovavo Rusijos kariuomenei, kuriai sukilimo įvykiai tapo pretekstu imtis veiksmų.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Suvorovo vadovaujamai Rusijos kariuomenei imtis veiksmų.'
+  santrauka: 'A. Suvorovas vadovavo Rusijos kariuomenei, kuriai sukilimo įvykiai tapo pretekstu imtis veiksmų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Visa tai atšaldė dalį LLV
     bajorijos nuo sukilimo ir tapo pretekstu A. Suvorovo vadovaujamai Ru-
     sijos kariuomenei imtis veiksmų.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

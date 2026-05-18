@@ -46,36 +46,34 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: "1922 m. rugpjūčio 1 d. Seimas priėmė Lietuvos Valstybės Konstituciją, įtvirtinusią demokratinės respublikos principus."
+- t-006
+  teiginys: 'Lietuvos Valstybės Konstitucija skelbė Lietuvos valstybę nepriklausoma demokratine respublika.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: "Konstitucija pirmą kartą įteisino lietuvių kalbą kaip valstybinę ir garantavo piliečių lygybę prieš įstatymus."
+- t-007
+  teiginys: 'Lietuvių kalba Lietuvos Valstybės Konstitucijoje pirmą kartą įteisinta kaip valstybinė.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: "Konstitucija suteikė dideles galias Seimui, plačią tautinių mažumų autonomiją ir įteisino privalomą pradžios mokslą."
+- t-008
+  teiginys: 'Konstitucija tautinėms mažumoms Lietuvoje suteikė plačią autonomiją ir įteisino privalomą pradžios mokslą.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-004
-  teiginys: 'Seimas 1922 m. rugpjūčio 1 d. priimtoje Lietuvos Valstybės Konstitucijoje įtvirtino Prancūzijos III respublikos pavyzdžio demokratijos principus.'
+- t-009
+  teiginys: 'Lietuvos Valstybės Konstitucija skelbė, kad aukščiausioji valdžia priklauso tautai.'
   pagrindžia:
     - c-001
-- t-005
-  teiginys: 'Konstitucija ypač didelių galių suteikė Seimui, kurį sudarė vadinamieji tautos atstovai.'
-  pagrindžia:
-    - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Konstitucijos priėmimas ir pagrindiniai demokratinės valstybės principai.
+  santrauka: 'Lietuvos Valstybės Konstitucija skelbė Lietuvos valstybę nepriklausoma demokratine respublika.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos valstybė – nepriklausoma demokratinė respublika,
@@ -84,14 +82,15 @@ Nenurodyta
     kartą įteisinta kaip valstybinė.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Kūno prozos citata tiesiogiai nurodo įvykį ir jo aplinkybes."
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-006
+    - t-007
+    - t-009
 - c-002
-  santrauka: Seimo galios, mažumų autonomija ir privalomas pradžios mokslas.
+  santrauka: 'Konstitucija tautinėms mažumoms Lietuvoje suteikė plačią autonomiją ir įteisino privalomą pradžios mokslą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Seimas ir prezidentas (renkamas Seimo) ren-
@@ -99,16 +98,12 @@ Nenurodyta
     gyvenusioms tautinėms mažumoms, įteisino privalomą pradžios mokslą.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Kūno prozos citata tiesiogiai nurodo įvykį ir jo aplinkybes."
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-008
 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
-
-### Susiję objektai
-- [[objektai/daiktai/Lietuvos herbas Vytis]]
-- [[objektai/daiktai/Lietuvos valstybės vėliava]]

@@ -19,22 +19,24 @@ O dabar įsiveržiama į Vokiečių ordino teritoriją ir žygiuojama tiesiai li
 
 ## Teiginiai
 - t-001
-  teiginys: 'O dabar įsiveržiama į Vokiečių ordino teritoriją ir žygiuojama tiesiai link sostinės, siekiant strateginio tikslo – susidurti su visomis Ordino pajėgomis.'
+  teiginys: 'Į Vokiečių ordino teritoriją įsiveržta žygiuojant sostinės link ir siekiant susidurti su visomis Ordino pajėgomis.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'O dabar įsiveržiama į Vokiečių ordino teritoriją ir žygiuojama tiesiai link sostinės, siekiant strateginio tikslo – susidurti su visomis Ordino pajėgomis.'
+  santrauka: 'Į Vokiečių ordino teritoriją įsiveržta žygiuojant sostinės link ir siekiant susidurti su visomis Ordino pajėgomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     O dabar įsiveržiama į Vokiečių ordino teritoriją ir žy-
     giuojama tiesiai link sostinės, siekiant strateginio tikslo – susidurti su vi-
     somis Ordino pajėgomis.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

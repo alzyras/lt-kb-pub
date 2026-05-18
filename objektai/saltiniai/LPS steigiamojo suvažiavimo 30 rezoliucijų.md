@@ -18,22 +18,26 @@ Suvažiavimas priėmė bendrąją programą, įstatus, 30 rezoliucijų politikos
 
 ## Teiginiai
 - t-001
-  teiginys: 'Suvažiavimas priėmė bendrąją programą, įstatus, 30 rezoliucijų politikos, kultūros, ekonomikos, visuomeninio gyvenimo, demokratijos ir kitais klausimais.'
+  teiginys: 'LPS steigiamasis suvažiavimas priėmė 30 rezoliucijų politikos, kultūros, ekonomikos, visuomeninio gyvenimo ir demokratijos klausimais.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Suvažiavimas priėmė bendrąją programą, įstatus, 30 rezoliucijų politikos, kultūros, ekonomikos, visuomeninio gyvenimo, demokratijos ir kitais klausimais.'
+  santrauka: 'LPS steigiamasis suvažiavimas priėmė 30 rezoliucijų politikos, kultūros, ekonomikos, visuomeninio gyvenimo ir demokratijos klausimais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Suvažiavimas
     priėmė bendrąją programą, įstatus, 30 rezoliucijų politikos, kultūros, eko-
     nomikos, visuomeninio gyvenimo, demokratijos ir kitais klausimais.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

@@ -24,12 +24,18 @@ Oberostas, rezidavęs Kaune, norimos rezoliucijos projektą įteikė Tarybos pre
   teiginys: 'Oberostas, rezidavęs Kaune, norimos rezoliucijos projektą įteikė Tarybos prezidiumui, kuris, kiek pataisęs, grąžino ją karinei administracijai gruodžio 11 dieną kaip priimtą.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Tačiau vienas teigiamas dalykas buvo – kilo skandalas, gruodžio 11-osios rezoliucija sukėlė negatyvias JAV ir Rusijos lietuvių reakcijas, skilo ir pati Taryba.'
+  teiginys: 'Gruodžio 11-osios rezoliucija sukėlė neigiamas JAV ir Rusijos lietuvių reakcijas ir suskaldė Lietuvos Tarybą.'
   pagrindžia:
     - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
   santrauka: 'Oberostas, rezidavęs Kaune, norimos rezoliucijos projektą įteikė Tarybos prezidiumui, kuris, kiek pataisęs, grąžino ją karinei administracijai gruodžio 11 dieną kaip priimtą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -41,24 +47,24 @@ Oberostas, rezidavęs Kaune, norimos rezoliucijos projektą įteikė Tarybos pre
     Kaune, norimos rezoliucijos projektą įteikė Tarybos prezidiumui, kuris,
     kiek pataisęs, grąžino ją karinei administracijai gruodžio 11 dieną kaip
     priimtą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Tačiau vienas teigiamas dalykas buvo – kilo skandalas, gruodžio 11-osios rezoliucija sukėlė negatyvias JAV ir Rusijos lietuvių reakcijas, skilo ir pati Taryba.'
+  santrauka: 'Gruodžio 11-osios rezoliucija sukėlė neigiamas JAV ir Rusijos lietuvių reakcijas ir suskaldė Lietuvos Tarybą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau vienas teigiamas dalykas buvo – kilo skandalas, gruodžio
     11-osios rezoliucija sukėlė negatyvias JAV ir Rusijos lietuvių reakcijas,
     skilo ir pati Taryba.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

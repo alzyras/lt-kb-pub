@@ -18,13 +18,15 @@ Dar didesnio atgarsio susilaukė vadinamasis 45 pabaltijiečių memorandumas, ad
 
 ## Teiginiai
 - t-001
-  teiginys: 'Dar didesnio atgarsio susilaukė vadinamasis 45 pabaltijiečių memorandumas, adresuotas JT Generaliniam sekretoriui Kurtui Valdheimui (Kurt Waldheim), Atlanto chartijos valstybėms signatarėms, Vokietijos Federacinės Respublikos ir Vokietijos Demokratinės.'
+  teiginys: '45 pabaltijiečių memorandumas buvo adresuotas JT Generaliniam sekretoriui Kurtui Valdheimui ir kelioms valstybėms bei vyriausybėms.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Dar didesnio atgarsio susilaukė vadinamasis 45 pabaltijiečių memorandumas, adresuotas JT Generaliniam sekretoriui Kurtui Valdheimui (Kurt Waldheim), Atlanto chartijos valstybėms signatarėms, Vokietijos Federacinės Respublikos ir Vokietijos Demokratinės.'
+  santrauka: '45 pabaltijiečių memorandumas buvo adresuotas JT Generaliniam sekretoriui Kurtui Valdheimui ir kelioms valstybėms bei vyriausybėms.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Dar didesnio atgarsio susilaukė va-
@@ -32,10 +34,10 @@ Dar didesnio atgarsio susilaukė vadinamasis 45 pabaltijiečių memorandumas, ad
     sekretoriui Kurtui Valdheimui (Kurt Waldheim), Atlanto chartijos vals-
     tybėms signatarėms, Vokietijos Federacinės Respublikos ir Vokietijos De-
     mokratinės Respublikos vyriausybėms.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

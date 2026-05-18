@@ -18,22 +18,24 @@ Lazutka, E.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lazutka, E.'
+  teiginys: 'S. Lazutka kartu su E. Gudavičiumi parengė „Pirmojo Lietuvos Statuto“ nuorašų faksimilių leidinio pirmo tomo antrą dalį.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lazutka, E.'
+  santrauka: 'S. Lazutka kartu su E. Gudavičiumi parengė „Pirmojo Lietuvos Statuto“ nuorašų faksimilių leidinio pirmo tomo antrą dalį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kraków, 1989; Pirmasis Lietuvos Statutas: Dzialinskio, Lauryno ir Ališavos
     nuorašų faksimilės. Parengė S. Lazutka, E. Gudavičius. T. 1, d. 2. Vilnius, 1985; E. Rimša.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

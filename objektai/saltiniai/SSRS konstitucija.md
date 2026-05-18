@@ -18,24 +18,28 @@ tags:
 Algirdo Sabaliausko nuotrauka 6 skyrius • D A I N U O J A N T I R E V O L I U C I J A 241 nesilaikys SSRS konstitucijos. Gorbačiovas ultimatyviai kreipėsi į Lietuvos AT-AS ir pareikalavo, kad jis tučtuojau visiškai atkurtų SSRS konstitucijos galiojimą.
 
 ## Teiginiai
-- t-002
-  teiginys: 'Gorbačiovas ultimatyviai kreipėsi į Lietuvos AT-AS ir pareikalavo, kad jis tučtuojau visiškai atkurtų SSRS konstitucijos galiojimą.'
+- t-001
+  teiginys: '1991 m. sausio 10 d. M. Gorbačiovas ultimatyviai pareikalavo, kad Lietuvos AT-AS visiškai atkurtų SSRS konstitucijos galiojimą.'
   pagrindžia:
-    - c-002
+    - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Gorbačiovas ultimatyviai kreipėsi į Lietuvos AT-AS ir pareikalavo, kad jis tučtuojau visiškai atkurtų SSRS konstitucijos galiojimą.'
+
+## Bibliografiniai įrodymai
+- c-001
+  santrauka: '1991 m. sausio 10 d. M. Gorbačiovas ultimatyviai pareikalavo, kad Lietuvos AT-AS visiškai atkurtų SSRS konstitucijos galiojimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau 1991 m.
     sausio 10 d. M. Gorbačiovas ultimatyviai kreipėsi į Lietuvos AT-AS ir
     pareikalavo, kad jis tučtuojau visiškai atkurtų SSRS konstitucijos galioji-
     mą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001

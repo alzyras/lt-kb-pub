@@ -23,6 +23,8 @@ Vyskupijoje dominavo lenkų krikščionys demokratai, veikę vadovaudamiesi lenk
   teiginys: 'Vyskupijoje dominavo lenkų krikščionys demokratai, veikę vadovaudamiesi lenkų nacionalizmo doktrina, matę Lenkijos valstybę kuo platesnėje buvusios LLV teritorijoje, rūpinęsi lenkiškojo patriotizmo ir lenkų kalbos pozicijų stiprinimu.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -34,10 +36,10 @@ Vyskupijoje dominavo lenkų krikščionys demokratai, veikę vadovaudamiesi lenk
     nacionalizmo doktrina, matę Lenkijos valstybę kuo platesnėje buvusios LLV
     teritorijoje, rūpinęsi lenkiškojo patriotizmo ir lenkų kalbos pozicijų stipri-
     nimu.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

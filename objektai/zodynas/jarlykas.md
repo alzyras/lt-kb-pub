@@ -44,20 +44,8 @@ Terminas tiesiogiai paaiškintas skliaustuose kaip politinė-administracinė pri
 Vartojamas kalbant apie Tverės ir Maskvos varžybas XIV a. pradžioje.
 
 ## Teiginiai
+
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: Jarlykas paaiškinamas kaip chanų suteikiama privilegija.
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    XIV a. pradžioje pagrindinėmis varžovėmis dėl jarlyko (chanų duoda-
-    ma privilegija rinkti duoklę Aukso ordai iš kitų rusų kunigaikščių) tapo
-    Tverė ir Maskva, kovą laimėjo pastaroji, įsitvirtinusi ir Vladimire.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Exact citata pridėta po public_notes_have_evidence validacijos klaidos."
-  pagrindžia: []
 
 ## Ryšiai
 ### Laikotarpiai

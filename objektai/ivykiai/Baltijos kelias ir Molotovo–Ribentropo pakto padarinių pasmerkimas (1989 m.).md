@@ -45,17 +45,21 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Ypatingas dėmesys skirtas 1939 m. rugpjūčio 23 d. Vokietijos ir Sovietų Sąjungos pasirašytam Molotovo–Ribentropo paktui.'
+  teiginys: 'LSSR Aukščiausiosios Tarybos komisija išnagrinėjo ir viešai pasmerkė Molotovo–Ribentropo pakto ir slaptųjų protokolų padarinius.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'LPS staigus populiarumas ir masiškumas (Lietuvoje nebuvo kampelio, kuriame nebūtų įsikūręs Sąjūdžio skyrius ar Gyvasis Baltijos kelias – rankomis susikibusių žmonių grandinė Vilnius–Ryga–Talinas.1989 m. rugpjūčio 23 d. A.'
+  teiginys: '1989 m. rugpjūčio 23 d. Baltijos kelias buvo rankomis susikibusių žmonių grandinė Vilnius–Ryga–Talinas.'
   pagrindžia:
     - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Ypatingas dėmesys skirtas 1939 m. rugpjūčio 23 d. Vokietijos ir Sovietų Sąjungos pasirašytam Molotovo–Ribentropo paktui.'
+  santrauka: 'LSSR Aukščiausiosios Tarybos komisija išnagrinėjo ir viešai pasmerkė Molotovo–Ribentropo pakto ir slaptųjų protokolų padarinius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ypatingas dėmesys skirtas 1939 m. rugpjūčio 23 d. Vokietijos ir Sovie-
@@ -70,15 +74,15 @@ Nenurodyta
     tautų apsisprendimo principams, Lietuvos SSR Aukščiausiosios Tary-
     bos sudaryta valstybinė komisija išnagrinėjo ir viešai pasmerkė Moloto-
     vo–Ribentropo pakto ir slaptųjų protokolų padarinius – 1940 m.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'LPS staigus populiarumas ir masiškumas (Lietuvoje nebuvo kampelio, kuriame nebūtų įsikūręs Sąjūdžio skyrius ar Gyvasis Baltijos kelias – rankomis susikibusių žmonių grandinė Vilnius–Ryga–Talinas.1989 m. rugpjūčio 23 d. A.'
+  santrauka: '1989 m. rugpjūčio 23 d. Baltijos kelias buvo rankomis susikibusių žmonių grandinė Vilnius–Ryga–Talinas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     LPS staigus populiarumas ir masiškumas
@@ -93,18 +97,14 @@ Nenurodyta
     priimti Lietuvai palankius sprendimus, parodė didelį Lietuvos gyventojų
     sąmoningumą ir apsisprendimą reikalauti dar didesnių nuolaidų iš Mas-
     kvos.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
-
-### Susiję objektai
-- [[objektai/vietos/Ryga]]
-- [[objektai/vietos/Talinas]]

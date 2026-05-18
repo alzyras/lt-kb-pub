@@ -18,27 +18,31 @@ Netgi Suomijos, laisvosios rinkos šalies, ekonomika patyrė didesnį negu deši
 
 ## Teiginiai
 - t-001
-  teiginys: 'Netgi Suomijos, laisvosios rinkos šalies, ekonomika patyrė didesnį negu dešimties procentų nuosmukį, nes 22 proc.'
+  teiginys: 'Suomijos, laisvosios rinkos šalies, ekonomika patyrė didesnį nei dešimties procentų nuosmukį, nes 22 proc. produkcijos eksportavo į SSRS.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: 'Paaiškėjus, kad dauguma buvusių kolūkiečių nesugeba ar neturi galimybių vieni ūkininkauti, pradėtos steigti žemės ūkio bendrovės, tačiau dauguma jų irgi nemokėjo tvarkytis naujais laisvosios rinkos pagrindais ir per keletą metų bankrutavo.'
   pagrindžia:
     - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Netgi Suomijos, laisvosios rinkos šalies, ekonomika patyrė didesnį negu dešimties procentų nuosmukį, nes 22 proc.'
+  santrauka: 'Suomijos, laisvosios rinkos šalies, ekonomika patyrė didesnį nei dešimties procentų nuosmukį, nes 22 proc. produkcijos eksportavo į SSRS.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Netgi Suomijos, laisvosios
     rinkos šalies, ekonomika patyrė didesnį negu dešimties procentų nuos-
     mukį, nes 22 proc. savo produkcijos Suomija eksportavo į SSRS.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
@@ -49,10 +53,10 @@ Netgi Suomijos, laisvosios rinkos šalies, ekonomika patyrė didesnį negu deši
     lūkiečių nesugeba ar neturi galimybių vieni ūkininkauti, pradėtos steigti
     žemės ūkio bendrovės, tačiau dauguma jų irgi nemokėjo tvarkytis nau-
     jais laisvosios rinkos pagrindais ir per keletą metų bankrutavo.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

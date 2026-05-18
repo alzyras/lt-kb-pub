@@ -18,20 +18,22 @@ Smetona žuvo Klivlande per gaisrą.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Smetona žuvo Klivlande per gaisrą.'
+  teiginys: '1944 m. sausį Antanas Smetona žuvo Klivlande per gaisrą.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Smetona žuvo Klivlande per gaisrą.'
+  santrauka: '1944 m. sausį Antanas Smetona žuvo Klivlande per gaisrą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1944 m. sausį A. Smetona žuvo Klivlande per gaisrą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

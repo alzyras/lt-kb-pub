@@ -42,13 +42,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'LenChotyno mūšyje Lenkijos ir Lietuvos kariuomenė sumuša turkus 1673 m. (Iš Vilniuje spausdinto J.'
+  teiginys: '1673 m. Chotyno mūšyje Lenkijos ir Lietuvos kariuomenė sumušė turkus.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'LenChotyno mūšyje Lenkijos ir Lietuvos kariuomenė sumuša turkus 1673 m. (Iš Vilniuje spausdinto J.'
+  santrauka: '1673 m. Chotyno mūšyje Lenkijos ir Lietuvos kariuomenė sumušė turkus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Len-
@@ -60,11 +62,11 @@ Nenurodyta
     75
     kų kalbos vaidmenį Lietuvos kultūroje apibendrino vienas iš Radvilų savo
     laiške, rašytame 1615 m.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

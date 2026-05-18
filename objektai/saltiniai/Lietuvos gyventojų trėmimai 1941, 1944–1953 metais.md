@@ -18,21 +18,25 @@ Lietuvos gyventojų trėmimai 1941, 1944–1953 metais.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lietuvos gyventojų trėmimai 1941, 1944–1953 metais.'
+  teiginys: 'Eugenijaus Grunskio Lietuvos gyventojų trėmimai 1941, 1944–1953 metais išleista Vilniuje 1995 m.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Lietuvos gyventojų trėmimai 1941, 1944–1953 metais.'
+  santrauka: 'Eugenijaus Grunskio Lietuvos gyventojų trėmimai 1941, 1944–1953 metais išleista Vilniuje 1995 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Grunskis E. Lietuvos gyventojų trėmimai 1941, 1944–1953 metais. Vilnius,
     1995.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

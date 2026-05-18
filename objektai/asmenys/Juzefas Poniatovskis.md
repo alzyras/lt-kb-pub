@@ -19,28 +19,29 @@ LDK kariuomenė turėjo daug sunkumų su karo vadais (kitaip nei Lenkijos kariuo
 
 ## Teiginiai
 - t-001
-  teiginys: 'LDK kariuomenė turėjo daug sunkumų su karo vadais (kitaip nei Lenkijos kariuomenė Ukrainoje, kuriai vadovavo Juzefas Poniatovskis), nebuvo iki galo pasirengusi karui, tačiau pasipriešino prie Myro, Brastoje ir be didesnių nuostolių atsitraukė prie Varšuvos.'
+  teiginys: 'Juzefas Poniatovskis vadovavo Lenkijos kariuomenei Ukrainoje.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'LDK kariuomenė turėjo daug sunkumų su karo vadais (kitaip nei Lenkijos kariuomenė Ukrainoje, kuriai vadovavo Juzefas Poniatovskis), nebuvo iki galo pasirengusi karui, tačiau pasipriešino prie Myro, Brastoje ir be didesnių nuostolių atsitraukė prie Varšuvos.'
+  santrauka: 'Juzefas Poniatovskis vadovavo Lenkijos kariuomenei Ukrainoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     LDK kariuomenė turėjo daug sunkumų su karo
     vadais (kitaip nei Lenkijos kariuomenė Ukrainoje, kuriai vadovavo Juze-
     fas Poniatovskis), nebuvo iki galo pasirengusi karui, tačiau pasipriešino
     prie Myro, Brastoje ir be didesnių nuostolių atsitraukė prie Varšuvos.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Brasta]]
 - [[objektai/ivykiai/Brastos pasipriešinimas 1792 m. kare]]

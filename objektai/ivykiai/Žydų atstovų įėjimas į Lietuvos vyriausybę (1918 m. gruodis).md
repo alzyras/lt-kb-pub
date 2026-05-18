@@ -30,13 +30,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: '1918 m. gruodį žydų sionistai Jokūbas Vygodskis ir S.'
+  teiginys: '1918 m. gruodį sionistai Jokūbas Vygodskis ir S. Rozenbaumas tapo Lietuvos vyriausybės nariais.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1918 m. gruodį žydų sionistai Jokūbas Vygodskis ir S.'
+  santrauka: '1918 m. gruodį sionistai Jokūbas Vygodskis ir S. Rozenbaumas tapo Lietuvos vyriausybės nariais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1918 m. gruodį žydų sionistai Jokūbas
@@ -45,10 +47,10 @@ Nenurodyta
     ceministras. Lietuviai nepuoselėjo antisemitizmo ir žydų asimiliacijos
     planų, o žydams Paryžiaus taikos konferencijoje prižadėjo viską, ko tie
     tiktai prašė, visų pirma plačiausią kultūrinę autonomiją.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

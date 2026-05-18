@@ -45,13 +45,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tai ji atsivežė į Lenkiją ir Lietuvą italų architektų, dailininkų ir muzikų, išugdė Renesanso dvasia Žygimantą Augustą, kartu su juo pastatydino Vilniaus Žemutinę pilį, įdiegė daug naujų dalykų: nuo „itališkų pasivaikščiojimų“ – pokylių šokių – iki...'
+  teiginys: 'Bona Sforca į Lenkiją ir Lietuvą atsivežė italų architektų, dailininkų ir muzikų, o Lietuvos diduomenė pamažu perėmė itališką madą.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tai ji atsivežė į Lenkiją ir Lietuvą italų architektų, dailininkų ir muzikų, išugdė Renesanso dvasia Žygimantą Augustą, kartu su juo pastatydino Vilniaus Žemutinę pilį, įdiegė daug naujų dalykų: nuo „itališkų pasivaikščiojimų“ – pokylių šokių – iki...'
+  santrauka: 'Bona Sforca į Lenkiją ir Lietuvą atsivežė italų architektų, dailininkų ir muzikų, o Lietuvos diduomenė pamažu perėmė itališką madą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Renesansas ir reformacija
@@ -67,11 +69,11 @@ Nenurodyta
     Žygimanto Augusto, bet net ir bajorų ir miestiečių bibliotekose. Ankstes-
     nės lietuvių kilmės iš romėnų idėjos pagrindu formuojasi samprata, kad
     lotynų kalba – tai tikroji, arba gimtoji, lietuvių kalba.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

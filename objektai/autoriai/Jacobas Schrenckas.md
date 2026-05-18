@@ -18,21 +18,23 @@ Mikalojus Radvila Juodasis iš Jacobo Schrencko „Armamentarium Heroicum“.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Mikalojus Radvila Juodasis iš Jacobo Schrencko „Armamentarium Heroicum“.'
+  teiginys: 'Jacobo Schrencko „Armamentarium Heroicum“ pateiktas Mikalojus Radvila Juodasis.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Mikalojus Radvila Juodasis iš Jacobo Schrencko „Armamentarium Heroicum“.'
+  santrauka: 'Jacobo Schrencko „Armamentarium Heroicum“ pateiktas Mikalojus Radvila Juodasis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Mikalojus Radvila Juodasis iš Jacobo Schrencko
     „Armamentarium Heroicum“.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

@@ -20,32 +20,38 @@ Pati žemės reformos strategija kuriama ir diegiama vadovaujantis iš viršaus 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Pati žemės reformos strategija kuriama ir diegiama vadovaujantis iš viršaus į apačią nukreiptu administravimu, nepaisant žemės ūkyje dirbusiųjų nuomonės.'
+  teiginys: 'Pirmuosiuose žemės reformos teisės aktuose numatyta grąžinti žemę ir išlikusį turtą buvusiems savininkams ar jų įpėdiniams.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: 'Dėl vykdytos žemės reformos didžioji Lietuvos ūkių dalis buvo per smulkūs, kad galėtų garantuoti šeimai pajamas, prilygstančias minimaliam gyvenimo lygiui.'
   pagrindžia:
     - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-003
   teiginys: 'Žemės reformos metu sunaikinta sovietmečiu veikusi žemės ūkio sistema, kolūkiai ir tarybiniai ūkiai.'
   pagrindžia:
     - c-003
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Pati žemės reformos strategija kuriama ir diegiama vadovaujantis iš viršaus į apačią nukreiptu administravimu, nepaisant žemės ūkyje dirbusiųjų nuomonės.'
+  santrauka: 'Pirmuosiuose žemės reformos teisės aktuose numatyta grąžinti žemę ir išlikusį turtą buvusiems savininkams ar jų įpėdiniams.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pirmuo-
     siuose įstatymų aktuose numatyta grąžinti žemę ir išlikusį turtą buvusiems
     savininkams ar jų įpėdiniams, privatizuoti kolektyvinių ir valstybinių ūkių
     turtą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
@@ -56,11 +62,11 @@ Pati žemės reformos strategija kuriama ir diegiama vadovaujantis iš viršaus 
     Lietuvos ūkių dalis buvo per smulkūs, kad galėtų garantuoti šeimai paja-
     mas, prilygstančias minimaliam gyvenimo lygiui. Atkurto ūkininkų ūkio
     vidutinis dydis ėjo mažyn, iki 6 ha.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 - c-003
@@ -69,10 +75,10 @@ Pati žemės reformos strategija kuriama ir diegiama vadovaujantis iš viršaus 
   citata_originali: |
     Žemės reformos metu sunaikinta sovietmečiu veikusi žemės ūkio
     sistema, kolūkiai ir tarybiniai ūkiai.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003

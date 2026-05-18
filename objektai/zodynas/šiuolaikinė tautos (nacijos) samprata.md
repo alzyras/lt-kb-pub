@@ -20,13 +20,15 @@ pabaigoje Prancūzijos didžioji revoliucija pagimdė naują šiuolaikinę tauto
 
 ## Teiginiai
 - t-001
-  teiginys: 'pabaigoje Prancūzijos didžioji revoliucija pagimdė naują šiuolaikinę tautos (nacijos) sampratą.'
+  teiginys: 'Pagal šiuolaikinę tautos sampratą tautą sudaro ne tik aukštuomenė ir išsilavinę žmonės, bet ir visi valstybės piliečiai ar valdiniai.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'pabaigoje Prancūzijos didžioji revoliucija pagimdė naują šiuolaikinę tautos (nacijos) sampratą.'
+  santrauka: 'Pagal šiuolaikinę tautos sampratą tautą sudaro ne tik aukštuomenė ir išsilavinę žmonės, bet ir visi valstybės piliečiai ar valdiniai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Pagal ją tautą kaip politinę
@@ -36,10 +38,10 @@ pabaigoje Prancūzijos didžioji revoliucija pagimdė naują šiuolaikinę tauto
     eiti prie aukštosios kultūros. Iškilo klausimas, kokia kalba šviesti liaudį,
     siekiant, kad ji taptų tautos dalimi – tos tautos gimtąja ar aukštuomenės
     kalba.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

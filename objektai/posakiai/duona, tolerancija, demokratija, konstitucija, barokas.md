@@ -29,14 +29,8 @@ tags: []
 Formulė glaustai apibendrina Abiejų Tautų Respublikai priskiriamus XVII–XVIII a. civilizacinius fenomenus.
 
 ## Teiginiai
-- t-001
-  teiginys: "Abiejų Tautų Respublikos XVII–XVIII a. reikšmingi fenomenai apibendrinami formule „duona, tolerancija, demokratija, konstitucija, barokas“."
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: "Formulė susiejama su javais, religine tolerancija, bajoriškąja demokratija, teisine tradicija ir Vilniaus baroku."
+- t-003
+  teiginys: 'Abiejų Tautų Respublikos XVII–XVIII a. reikšmingi fenomenai apibendrinami formule „duona, tolerancija, demokratija, konstitucija, barokas“.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -44,7 +38,7 @@ Formulė glaustai apibendrina Abiejų Tautų Respublikai priskiriamus XVII–XVI
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: Citata pateikia formulę ir išskleidžia jos elementus.
+  santrauka: 'Abiejų Tautų Respublikos XVII–XVIII a. reikšmingi fenomenai apibendrinami formule „duona, tolerancija, demokratija, konstitucija, barokas“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Paprastai moksle laikoma, kad ši
@@ -55,10 +49,9 @@ Formulė glaustai apibendrina Abiejų Tautų Respublikai priskiriamus XVII–XVI
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata pririšta prie darbo šaltinio kūno teksto arba kandidato ledžerio patvirtinto offseto."
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-    - t-002
+    - t-003
 
 ## Ryšiai
 ### Laikotarpiai

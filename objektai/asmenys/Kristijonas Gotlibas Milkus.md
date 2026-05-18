@@ -90,7 +90,3 @@ Iš Kristijono Gotlibo Milkaus „Lietuvių–vokiečių ir vokiečių–lietuvi
 - [[laikotarpiai/XIX amžius]]
 - [[laikotarpiai/XVIII amžius]]
 - [[laikotarpiai/XXI amžius]]
-
-### Susiję objektai
-- [[objektai/zodynas/autokratinė monarchinė imperija]]
-- [[objektai/zodynas/interliudas]]

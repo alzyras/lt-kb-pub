@@ -20,62 +20,45 @@ Vis dėlto ir valdžiai buvo aišku, kad etninės Lietuvos kaimo mokyklose prad�
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vis dėlto ir valdžiai buvo aišku, kad etninės Lietuvos kaimo mokyklose pradėti mokyti rusų kalbos mokytojui nemokant lietuviškai yra sunkiai įmanomas dalykas, kad visų pirma tokiam mokytojui reikia išleisti dvikalbius elementorius, kuriuose būtų ir rusiškų.'
+  teiginys: 'M. Muravjovo nurodymu pradėta drausti lietuvių raštija tradiciniu raidynu; draudimas galiojo iki 1904 m. pavasario.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių kalbai paliekant disciplinos statusą (žinoma, mokyti lietuviškai reikėjo iš vadovėlių, parašytų kirilika).'
-  pagrindžia:
-    - c-002
-- t-003
   teiginys: 'Didžiausia lietuvių sąjūdžio pergale ligi šiol laikomas 1904 m. pavasarį atšauktas lietuvių spaudos lotyniškuoju raidynu draudimas, jį panaikinus greitai atsirado ir legaliai pačiame krašte leidžiama lietuvių spauda.'
   pagrindžia:
-    - c-003
+    - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vis dėlto ir valdžiai buvo aišku, kad etninės Lietuvos kaimo mokyklose pradėti mokyti rusų kalbos mokytojui nemokant lietuviškai yra sunkiai įmanomas dalykas, kad visų pirma tokiam mokytojui reikia išleisti dvikalbius elementorius, kuriuose būtų ir rusiškų.'
+  santrauka: 'M. Muravjovo nurodymu pradėta drausti lietuvių raštija tradiciniu raidynu; draudimas galiojo iki 1904 m. pavasario.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     M. Muravjovo
     nurodymu pradėta drausti lietuvių raštija tradiciniu raidynu, šis drau-
     dimas išplėstas į visą Rusijos imperijos teritoriją ir galiojo ligi 1904 m.
     pavasario.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių kalbai paliekant disciplinos statusą (žinoma, mokyti lietuviškai reikėjo iš vadovėlių, parašytų kirilika).'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kaip neprivaloma disciplina lietuvių
-    kalba įsileista ir į kelias Užnemunės vidurines mokyklas, Maskvos uni-
-    versitete paskirta dešimt valstybės stipendijų šių mokyklų auklėtiniams,
-    turintiems atestate lietuvių kalbos pažymį. Taip tikėtasi iš pačių lietuvių
-    paruošti rusų aukštosios kultūros proceso dalyvių, manant, kad jie taps ir
-    lietuvių „suartinimo“ su rusų kultūra gija.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
   santrauka: 'Didžiausia lietuvių sąjūdžio pergale ligi šiol laikomas 1904 m. pavasarį atšauktas lietuvių spaudos lotyniškuoju raidynu draudimas, jį panaikinus greitai atsirado ir legaliai pačiame krašte leidžiama lietuvių spauda.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Didžiausia lietuvių sąjūdžio pergale ligi šiol laikomas 1904 m. pavasarį
     atšauktas lietuvių spaudos lotyniškuoju raidynu draudimas, jį panaikinus
     greitai atsirado ir legaliai pačiame krašte leidžiama lietuvių spauda.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-002

@@ -21,13 +21,15 @@ Demokratija Lietuvoje, pasak A.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Demokratija Lietuvoje, pasak A.'
+  teiginys: 'A. Smetona Lietuvos demokratiją lygino su vaikams nupirktais per dideliais batais.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Demokratija Lietuvoje, pasak A.'
+  santrauka: 'A. Smetona Lietuvos demokratiją lygino su vaikams nupirktais per dideliais batais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Demokratija Lietuvoje, pasak A. Smetonos, tai nupirkti per dideli batai
@@ -35,15 +37,14 @@ Demokratija Lietuvoje, pasak A.
     do, neįsitvirtino, ypač sunkiai sekėsi sudaryti koalicijas. Seimas atrodė
     smulk­meniškai besikišantis į vykdomosios valdžios reikalus ir nekompe-
     tentingas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/A. Smetona]]
 - [[objektai/asmenys/Antanas Smetona]]

@@ -19,21 +19,27 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje pritarė lietuvių siūlymui sukurti lietuviškus karinius dalinius – Vietinę rinktinę, kuriai vadovautų lietuviai karininkai ir kuri veiktų tik Lietuvos teritorijoje.'
+  teiginys: 'Vokiečių valdžia pritarė lietuvių siūlymui sukurti Vietinę rinktinę, vadovaujamą lietuvių karininkų ir veikiančią tik Lietuvoje.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Vokiečiai pareikalavo, kad rinktinė taptų jiems pavaldi.'
+  teiginys: 'Vietinės rinktinės kariai neketino kariauti Vokietijos pusėje ir su ginklais bei amunicija ėmė skirstytis.'
   pagrindžia:
     - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-003
   teiginys: 'Kovai su vietos lenkų pasipriešinimu civilinė administracija pasiuntė į Vilniją lietuvių Vietinės rinktinės dalinius, kurie susidūrė su ginkluotais lenkų Armija Krajova daliniais.'
   pagrindžia:
     - c-003
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje pritarė lietuvių siūlymui sukurti lietuviškus karinius dalinius – Vietinę rinktinę, kuriai vadovautų lietuviai karininkai ir kuri veiktų tik Lietuvos teritorijoje.'
+  santrauka: 'Vokiečių valdžia pritarė lietuvių siūlymui sukurti Vietinę rinktinę, vadovaujamą lietuvių karininkų ir veikiančią tik Lietuvoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vokiečių
@@ -42,24 +48,24 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
     kuriai vadovautų lietuviai karininkai ir kuri veiktų tik Lietuvos teritori-
     joje. Vietinei rinktinei ėmėsi vadovauti generolas Povilas Plechavičius. Į jo
     kvietimą atsiliepė 20 tūkst. savanorių, į dalinius priimta 10 tūkst. vyrų.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Vokiečiai pareikalavo, kad rinktinė taptų jiems pavaldi.'
+  santrauka: 'Vietinės rinktinės kariai neketino kariauti Vokietijos pusėje ir su ginklais bei amunicija ėmė skirstytis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvių kariai neke-
     tino kariauti Vokietijos pusėje ir su ginklais bei amunicija ėmė skirstytis.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 - c-003
@@ -69,11 +75,11 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
     Kovai su vietos lenkų pasipriešinimu civilinė administracija pasiuntė į
     Vilniją lietuvių Vietinės rinktinės dalinius, kurie susidūrė su ginkluotais
     lenkų Armija Krajova daliniais.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
 

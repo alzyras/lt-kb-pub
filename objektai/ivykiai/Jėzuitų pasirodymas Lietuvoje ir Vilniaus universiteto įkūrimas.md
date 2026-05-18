@@ -32,23 +32,29 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Epochos simboline pradžia galėtume laikyti 1569 m. jėzuitų ordino pasirodymą Lietuvoje.'
+  teiginys: 'Jėzuitai Lietuvoje sukūrė kolegijų tinklą, o šios švietimo sistemos viršūnėje 1579 m. buvo įkurtas Vilniaus universitetas.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Epochos simboline pradžia galėtume laikyti 1569 m. jėzuitų ordino pasirodymą Lietuvoje.'
+  santrauka: 'Jėzuitai Lietuvoje sukūrė kolegijų tinklą, o šios švietimo sistemos viršūnėje 1579 m. buvo įkurtas Vilniaus universitetas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Jėzuitai, atnešę į Lietuvą atsinaujinančią katalikybę, valstybės palaikomi
     pakėlė Lietuvos švietimo lygį į naują pakopą – sukūrė aukštesniųjų moky-
     klų – kolegijų tinklą, o šios sistemos viršūnėje – Vilniaus universitetą (įkur-
     tas 1579 m.).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.)]]

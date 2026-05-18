@@ -36,22 +36,24 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Ryškiausios permainos po krikšto buvo išorinės.'
+  teiginys: 'Po Lietuvos krikšto pavaldiniui buvo nurodoma, kokį tikėjimą jis turi išpažinti.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Ryškiausios permainos po krikšto buvo išorinės.'
+  santrauka: 'Po Lietuvos krikšto pavaldiniui buvo nurodoma, kokį tikėjimą jis turi išpažinti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vadinasi, pavaldiniui nurodoma, kokį
     tikėjimą jis turi išpažinti. Taigi feodaliniai santykiai įgijo idėjinį pagrindą,
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 
@@ -59,3 +61,7 @@ Nenurodyta
 ### Teminiai klasteriai
 - [[temos/ritualas]]
 - [[temos/tikėjimas]]
+
+### Susiję objektai
+- [[objektai/paprociai/Kandidatas 19 Senjoro atsakomybė už pavaldinio tikėjimą]]
+- [[objektai/paprociai/Kandidatas Senjoro atsakomybė už pavaldinio tikėjimą]]

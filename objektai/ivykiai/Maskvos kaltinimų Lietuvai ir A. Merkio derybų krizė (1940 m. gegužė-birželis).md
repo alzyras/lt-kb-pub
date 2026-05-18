@@ -34,14 +34,20 @@ Nenurodyta
   teiginys: 'Tačiau 1940 m. gegužės pabaigoje sovietų žadėtas nesikišimas į vidaus reikalus baigėsi – Maskva viešai apkaltino Lietuvą grobiant iš sovietų bazių kareivius.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Tai rodė, jog Maskva kaltinimais siekia toli einančių tikslų, be to, pakvietė atvykti Lietuvos ministrą pirmininką A.'
+  teiginys: 'Maskva kaltinimais siekė toli einančių tikslų ir pakvietė atvykti Lietuvos ministrą pirmininką A. Merkį.'
   pagrindžia:
     - c-002
-- t-004
-  teiginys: 'Birželio 10 dieną Kaune sužinojus, kad A.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+- t-003
+  teiginys: 'Birželio 10 d. Kaune nutarta į Maskvą pasiųsti ministrą J. Urbšį, nes A. Merkiui nesisekė normalizuoti situacijos.'
   pagrindžia:
-    - c-004
+    - c-003
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -52,38 +58,42 @@ Nenurodyta
     daus reikalus baigėsi – Maskva viešai apkaltino Lietuvą grobiant iš so-
     vietų bazių kareivius. Į jokius Lietuvos pasiūlymus sovietai neatsiliepė,
     neleido netgi apklausti neva pagrobtų, bet atsiradusių „aukų“.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Tai rodė, jog Maskva kaltinimais siekia toli einančių tikslų, be to, pakvietė atvykti Lietuvos ministrą pirmininką A.'
+  santrauka: 'Maskva kaltinimais siekė toli einančių tikslų ir pakvietė atvykti Lietuvos ministrą pirmininką A. Merkį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tai rodė,
     jog Maskva kaltinimais siekia toli einančių tikslų, be to, pakvietė atvykti
     Lietuvos ministrą pirmininką A. Merkį.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-- c-004
-  santrauka: 'Birželio 10 dieną Kaune sužinojus, kad A.'
+- c-003
+  santrauka: 'Birželio 10 d. Kaune nutarta į Maskvą pasiųsti ministrą J. Urbšį, nes A. Merkiui nesisekė normalizuoti situacijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Birželio 10 dieną Kaune
     sužinojus, kad A. Merkiui nesiseka normalizuoti situaciją, nutarta pasiųsti
     į Maskvą ministrą J. Urbšį.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Juozas Urbšys]]

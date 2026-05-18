@@ -21,6 +21,8 @@ Kūrybai pasitarnavo vadinamoji „brežnevinė epocha“: kuo žmogus buvo žin
   teiginys: 'Kūrybai pasitarnavo vadinamoji „brežnevinė epocha“: kuo žmogus buvo žinomesnis, tuo sunkiau jam buvo iškelti baudžiamąją bylą (stalinizmo epochoje buvo „visi lygūs“ – saugumo pareigūnai vienodai galėjo suimti ir profesorių, ir ministrą, ir eilinį žmogų).'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -32,10 +34,10 @@ Kūrybai pasitarnavo vadinamoji „brežnevinė epocha“: kuo žmogus buvo žin
     buvo iškelti baudžiamąją bylą (stalinizmo epochoje buvo „visi lygūs“ –
     saugumo pareigūnai vienodai galėjo suimti ir profesorių, ir ministrą, ir
     eilinį žmogų).
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

@@ -18,13 +18,15 @@ Paskelbus Lietuvos nepriklausomybę 1990 m. kovo 11 d. Lietuvos Respublikos AT-A
 
 ## Teiginiai
 - t-001
-  teiginys: 'Paskelbus Lietuvos nepriklausomybę 1990 m. kovo 11 d. Lietuvos Respublikos AT-AS vadovai: centre – Tarybos pirmininkas Vytautas Landsbergis, kairėje – jo pavaduotojai – Kazimieras Motieka ir Bronislovas Kuzmickas, dešinėje – pirmininko pavaduotojas Česlovas.'
+  teiginys: '1990 m. kovo 11 d. Bronislovas Kuzmickas buvo Lietuvos Respublikos Aukščiausiosios Tarybos pirmininko pavaduotojas.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Paskelbus Lietuvos nepriklausomybę 1990 m. kovo 11 d. Lietuvos Respublikos AT-AS vadovai: centre – Tarybos pirmininkas Vytautas Landsbergis, kairėje – jo pavaduotojai – Kazimieras Motieka ir Bronislovas Kuzmickas, dešinėje – pirmininko pavaduotojas Česlovas.'
+  santrauka: '1990 m. kovo 11 d. Bronislovas Kuzmickas buvo Lietuvos Respublikos Aukščiausiosios Tarybos pirmininko pavaduotojas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sąjūdžio kandidatai, laikydamiesi savo rinkiminių
@@ -38,10 +40,10 @@ Paskelbus Lietuvos nepriklausomybę 1990 m. kovo 11 d. Lietuvos Respublikos AT-A
     ir Bronislovas Kuzmickas, dešinėje – pirmininko pavaduotojas
     Česlovas Stankevičius, Lietuvos Respublikos AT Prezidiumo narys
     Aloyzas Sakalas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

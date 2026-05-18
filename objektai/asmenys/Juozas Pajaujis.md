@@ -19,24 +19,26 @@ Atsitokėjusi kairioji opozicija dar pabandė perversmininkų stiliumi grąžint
 
 ## Teiginiai
 - t-001
-  teiginys: 'Atsitokėjusi kairioji opozicija dar pabandė perversmininkų stiliumi grąžinti Seimą, tačiau 1927 m. pavasarį apie Seimo narį valstietį liaudininką Juozą Pajaujį susibūrusios grupės perversmo planas, suėmus J.'
+  teiginys: '1927 m. pavasarį apie Seimo narį Juozą Pajaujį susibūrusios grupės perversmo planas žlugo suėmus J. Pajaujį.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Atsitokėjusi kairioji opozicija dar pabandė perversmininkų stiliumi grąžinti Seimą, tačiau 1927 m. pavasarį apie Seimo narį valstietį liaudininką Juozą Pajaujį susibūrusios grupės perversmo planas, suėmus J.'
+  santrauka: '1927 m. pavasarį apie Seimo narį Juozą Pajaujį susibūrusios grupės perversmo planas žlugo suėmus J. Pajaujį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Atsitokėjusi
     kairioji opozicija dar pabandė perversmininkų stiliumi grąžinti Seimą,
     tačiau 1927 m. pavasarį apie Seimo narį valstietį liaudininką Juozą Pajaujį
     susibūrusios grupės perversmo planas, suėmus J. Pajaujį, žlugo.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

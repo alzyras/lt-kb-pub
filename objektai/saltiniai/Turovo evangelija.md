@@ -19,13 +19,17 @@ surašytas Ostromiro ir Turovo evangelijas.
 
 ## Teiginiai
 - t-001
-  teiginys: 'surašytas Ostromiro ir Turovo evangelijas.'
+  teiginys: 'Turovo evangelija buvo viena iš XI a. surašytų evangelijų, minimų greta Ostromiro evangelijos.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'surašytas Ostromiro ir Turovo evangelijas.'
+  santrauka: 'Turovo evangelija buvo viena iš XI a. surašytų evangelijų, minimų greta Ostromiro evangelijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Savaip rašyti Lietuva nemokėjo, lotyniškas raštas pasiekė vė-
@@ -33,10 +37,10 @@ surašytas Ostromiro ir Turovo evangelijas.
     miro ir Turovo evangelijas. Todėl su krikščionybe susijusios sąvokos, kaip
     antai „kreščenije“ (krikštas) ar „božnica“ (bažnyčia), atėjo į lietuvių kalbą
     ne iš Vakarų, o iš Rusios.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

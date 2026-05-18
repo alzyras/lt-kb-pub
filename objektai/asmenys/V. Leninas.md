@@ -21,32 +21,36 @@ Lenino, J. Leniną, tačiau ilgainiui, ypač Dainų šventėse, tai liko apvalka
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lenino, J.'
+  teiginys: 'Sovietmečiu Lietuvos miestuose ir miesteliuose buvo pristatyta V. Lenino statulų.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
-  teiginys: 'Leniną, tačiau ilgainiui, ypač Dainų šventėse, tai liko apvalkalas privalomai (socialistinei) programai, o kita dalis buvo skirta tik lietuviškai dainai ar šokiui.'
+  teiginys: 'Sovietmečiu tautiniais drabužiais vilkintys choristai dainavo apie V. Leniną.'
   pagrindžia:
     - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lenino, J.'
+  santrauka: 'Sovietmečiu Lietuvos miestuose ir miesteliuose buvo pristatyta V. Lenino statulų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietu-
     vos valstybingumą liudijusių paminklų vietose miestuose ir miesteliuose
     pristatyta sovietinio kario nugalėtojo, V. Lenino, J. Stalino statulų, pri-
     kabinėta komunistinių šūkių.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Leniną, tačiau ilgainiui, ypač Dainų šventėse, tai liko apvalkalas privalomai (socialistinei) programai, o kita dalis buvo skirta tik lietuviškai dainai ar šokiui.'
+  santrauka: 'Sovietmečiu tautiniais drabužiais vilkintys choristai dainavo apie V. Leniną.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kultūra plėtota pagal sovietų
@@ -54,11 +58,11 @@ Lenino, J. Leniną, tačiau ilgainiui, ypač Dainų šventėse, tai liko apvalka
     bužiais vilkintys choristai dainavo apie V. Leniną, tačiau ilgainiui, ypač
     Dainų šventėse, tai liko apvalkalas privalomai (socialistinei) programai,
     o kita dalis buvo skirta tik lietuviškai dainai ar šokiui.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
 

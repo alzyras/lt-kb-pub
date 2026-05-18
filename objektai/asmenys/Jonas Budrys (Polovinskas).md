@@ -25,13 +25,15 @@ Galvanauskas ir ruošiamo žygio vadas, žvalgybos karininkas Jonas Budrys (Polo
 
 ## Teiginiai
 - t-001
-  teiginys: 'Galvanauskas ir ruošiamo žygio vadas, žvalgybos karininkas Jonas Budrys (Polovinskas) nustebo, jog kadriniai Lietuvos kariuomenės karininkai, kovoję prieš lenkus, bermontininkus ir bolševikus, nenoriai rašėsi į Klaipėdos žygį, nes...'
+  teiginys: 'Žvalgybos karininkas Jonas Budrys (Polovinskas) buvo ruošiamo Klaipėdos žygio vadas.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Galvanauskas ir ruošiamo žygio vadas, žvalgybos karininkas Jonas Budrys (Polovinskas) nustebo, jog kadriniai Lietuvos kariuomenės karininkai, kovoję prieš lenkus, bermontininkus ir bolševikus, nenoriai rašėsi į Klaipėdos žygį, nes...'
+  santrauka: 'Žvalgybos karininkas Jonas Budrys (Polovinskas) buvo ruošiamo Klaipėdos žygio vadas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvai liko sukilimo inscenizacijos
@@ -40,11 +42,11 @@ Galvanauskas ir ruošiamo žygio vadas, žvalgybos karininkas Jonas Budrys (Polo
     kas) nustebo, jog kadriniai Lietuvos kariuomenės karininkai, kovoję prieš
     lenkus, bermontininkus ir bolševikus, nenoriai rašėsi į Klaipėdos žygį,
     nes... nelaikė to kova už tėvynę.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

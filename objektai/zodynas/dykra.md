@@ -60,10 +60,6 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
     - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-004
-  teiginys: 'Į dykra paverstas jotvingių, skalvių, nadruvių žemes iš Lietuvos XV a.'
-  pagrindžia:
-    - c-006
 
 ## Reikšmingi paminėjimai
 - c-003
@@ -96,20 +92,6 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-- c-006
-  santrauka: 'Į dykra paverstas jotvingių, skalvių, nadruvių žemes iš Lietuvos XV a.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Būta ir kito Lietuvos vardo plitimo kelio. Į dykra paverstas jotvingių,
-    skalvių, nadruvių žemes iš Lietuvos XV a. pradėjo grįžti šių genčių pali-
-    kuonys, o dar gausiau – lietuviai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
 
 ## Pastabos
 

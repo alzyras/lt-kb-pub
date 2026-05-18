@@ -22,6 +22,8 @@ Dėl šios ir kitų priežasčių lietuvių pogrindžio spauda nacių leistą sa
   teiginys: 'Dėl šios ir kitų priežasčių lietuvių pogrindžio spauda nacių leistą savivaldą vadino „savismauga“.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -33,11 +35,11 @@ Dėl šios ir kitų priežasčių lietuvių pogrindžio spauda nacių leistą sa
     pareigūnų, kurie nori nenori tarnavo vokiečiams ir padėjo jiems išnau-
     doti kraštą. Dėl šios ir kitų priežasčių lietuvių pogrindžio spauda nacių
     leistą savivaldą vadino „savismauga“.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

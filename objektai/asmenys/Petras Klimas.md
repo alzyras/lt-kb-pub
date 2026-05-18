@@ -33,53 +33,15 @@ Vokiečiams modernizuojant aneksijos ir prisijungimo planus, prireikus tam ir ok
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vokiečiams modernizuojant aneksijos ir prisijungimo planus, prireikus tam ir okupuotų lietuvių balso, 1917 m. vasarą lietuviams leista surengti konferenciją Vilniuje. Jos orga.'
+  teiginys: 'Petras Klimas 1926 m. buvo Lietuvos delegacijos Tautų Sąjungoje Ženevoje pasiuntinys.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Jos orga- 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 133 nizacinis komitetas (Mykolas Biržiška, Petras Klimas, A.'
-  pagrindžia:
-    - c-002
-- t-003
-  teiginys: 'Voldemaras, neturėdamas Lietuvos delegacija Tautų Sąjungoje Ženevoje 1926 m., iš kairės: Dovas Zaunius, ministras pirmininkas Augustinas Voldemaras ir pasiuntinys Petras Klimas (H.'
-  pagrindžia:
-    - c-003
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vokiečiams modernizuojant aneksijos ir prisijungimo planus, prireikus tam ir okupuotų lietuvių balso, 1917 m. vasarą lietuviams leista surengti konferenciją Vilniuje. Jos orga.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vokiečiams modernizuojant anek-
-    sijos ir prisijungimo planus, prireikus tam ir okupuotų lietuvių balso,
-    1917 m. vasarą lietuviams leista surengti konferenciją Vilniuje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Jos orga- 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 133 nizacinis komitetas (Mykolas Biržiška, Petras Klimas, A.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Vokiečiams modernizuojant anek-
-    sijos ir prisijungimo planus, prireikus tam ir okupuotų lietuvių balso,
-    1917 m. vasarą lietuviams leista surengti konferenciją Vilniuje. Jos orga-
-
-    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
-    133
-    nizacinis komitetas (Mykolas Biržiška, Petras Klimas, A.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Voldemaras, neturėdamas Lietuvos delegacija Tautų Sąjungoje Ženevoje 1926 m., iš kairės: Dovas Zaunius, ministras pirmininkas Augustinas Voldemaras ir pasiuntinys Petras Klimas (H.'
+  santrauka: 'Petras Klimas 1926 m. buvo Lietuvos delegacijos Tautų Sąjungoje Ženevoje pasiuntinys.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Voldemaras, neturėdamas
@@ -91,13 +53,13 @@ Vokiečiams modernizuojant aneksijos ir prisijungimo planus, prireikus tam ir ok
     160
     išeities, paprasčiausiai pasakė, jog karo padėties tarp Lietuvos ir Lenkijos
     nėra.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-001
 
 ## Ryšiai
 ### Laikotarpiai
@@ -106,5 +68,3 @@ Vokiečiams modernizuojant aneksijos ir prisijungimo planus, prireikus tam ir ok
 
 ### Susiję objektai
 - [[objektai/asmenys/Dovas Zaunius]]
-- [[objektai/asmenys/Juozas Stankevičius]]
-- [[objektai/asmenys/Mykolas Biržiška]]

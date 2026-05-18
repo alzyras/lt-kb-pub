@@ -31,28 +31,32 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: '1931 m. gegužės 2 d. savivaldybės tapo apskričių viršininkų organais – viršininkai pirminin­kaudavo apskričių tarybose, kurios rinkdavo „ypatingus tautos atstovus”, o šie – prezidentą.'
+  teiginys: '1931 m. gegužės 2 d. apskričių tarybos rinkdavo ypatingus tautos atstovus, o šie rinkdavo prezidentą.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 - t-002
   teiginys: 'Smetona sudarė sau sąlygas vėl būti perrenkamas – ypatingieji tautos atstovai 1931 m. gruodžio 11 d. vienbalsiai išrinko jį Lietuvos prezidentu.'
   pagrindžia:
     - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1931 m. gegužės 2 d. savivaldybės tapo apskričių viršininkų organais – viršininkai pirminin­kaudavo apskričių tarybose, kurios rinkdavo „ypatingus tautos atstovus”, o šie – prezidentą.'
+  santrauka: '1931 m. gegužės 2 d. apskričių tarybos rinkdavo ypatingus tautos atstovus, o šie rinkdavo prezidentą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1931 m. gegužės 2 d. savival-
     dybės tapo apskričių viršininkų organais – viršininkai pirminin­kaudavo
     apskričių tarybose, kurios rinkdavo „ypatingus tautos atstovus”, o šie –
     prezidentą.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 - c-002
@@ -66,10 +70,10 @@ Nenurodyta
     į valdžią atėjo A. Hitleris, o 1934 m. po perversmų įsitvirtino autorita-
     riniai režimai Estijoje ir Latvijoje, regione A. Smetonos režimas atrodė
     visai liberalus.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002

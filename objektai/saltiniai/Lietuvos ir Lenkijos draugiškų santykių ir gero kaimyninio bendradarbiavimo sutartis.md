@@ -21,13 +21,17 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: '1994 m. balandžio 26 d. santykius vaisingai vainikavo po ilgų derybų Lietuvos ir Lenkijos pasirašyta draugiškų santykių ir gero kaimyninio bendradarbiavimo sutartis.'
+  teiginys: 'Lietuvos ir Lenkijos sutarties preambulėje pasmerktas smurtas abiejų tautų santykiuose ir patvirtintas teritorijų vientisumas su Vilniumi ir Varšuva.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
 - c-001
-  santrauka: '1994 m. balandžio 26 d. santykius vaisingai vainikavo po ilgų derybų Lietuvos ir Lenkijos pasirašyta draugiškų santykių ir gero kaimyninio bendradarbiavimo sutartis.'
+  santrauka: 'Lietuvos ir Lenkijos sutarties preambulėje pasmerktas smurtas abiejų tautų santykiuose ir patvirtintas teritorijų vientisumas su Vilniumi ir Varšuva.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Dokumento preambulėje, be kitų nuostatų, buvo primin-
@@ -35,10 +39,10 @@ tags:
     smurto naudojimas abiejų tautų tarpusavio santykiuose ir abiejų šalių
     iškilmingai patvirtintas dabartinių teritorijų „su sostinėmis Vilniumi ir
     Varšuva vientisumą[as] dabar ir ateityje“.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001

@@ -33,23 +33,25 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Toks gamtos reiškinių, ypač žemės, sudievinimas trukdė plėstis žemės dirbimui, todėl šventumas pamažu koncentravosi šventvietėse.'
+  teiginys: 'Senieji lietuviai dangaus skliaute, žemėje, ugnyje ir vandenyje matė šventybės raišką.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Toks gamtos reiškinių, ypač žemės, sudievinimas trukdė plėstis žemės dirbimui, todėl šventumas pamažu koncentravosi šventvietėse.'
+  santrauka: 'Senieji lietuviai dangaus skliaute, žemėje, ugnyje ir vandenyje matė šventybės raišką.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Senieji lietuviai
     visur – dangaus skliaute su Saule, Mėnuliu ir žvaigždėmis, žemėje, ugnyje
     ir vandenyje – matę šventybės raišką.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 

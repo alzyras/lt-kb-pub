@@ -36,24 +36,26 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'formavosi ir bendra Abiejų Tautų Respublikos kaip Lenkijos savimonė, tačiau šioje Lenkijoje aiškiai skiriant ir „kitą Lenkiją“.'
+  teiginys: 'Palemono legenda Lietuvos metraščiuose leido lietuvių ir rusėnų bajorijai kildinti save iš Palemono tradicijos.'
   pagrindžia:
     - c-001
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'formavosi ir bendra Abiejų Tautų Respublikos kaip Lenkijos savimonė, tačiau šioje Lenkijoje aiškiai skiriant ir „kitą Lenkiją“.'
+  santrauka: 'Palemono legenda Lietuvos metraščiuose leido lietuvių ir rusėnų bajorijai kildinti save iš Palemono tradicijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono
     ir jo ainių legenda tapo pagrindu ne tik lietuvių, bet ir rusėnų bajorijai
     vesti savo kilmę Palemono tradicija arba sieti save su realia Gediminaičių
     dinastija.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
 
