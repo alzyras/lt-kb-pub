@@ -56,3 +56,8 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Latvija]]
+- [[objektai/vietos/Vokietija]]

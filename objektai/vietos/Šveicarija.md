@@ -115,3 +115,4 @@ Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Švei
 - [[objektai/daiktai/Lietuvos auksas]]
 - [[objektai/ivykiai/Lietuvos valstybingumo griovimo sprendimai 1940 m. birželį-liepą]]
 - [[objektai/vietos/Portugalija]]
+- [[objektai/vietos/Vokietija]]

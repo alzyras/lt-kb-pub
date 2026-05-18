@@ -12,14 +12,30 @@ saltiniai:
   - "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   - "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
   - "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean"
-datos:
-  - "1470 m."
-  - "1506 m."
-periodo_grupes: []
-amziai: []
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1393 m.'
+  - '1394 m.'
+  - '1395 m.'
+  - '1429 m.'
+  - '1470 m.'
+  - '1506 m.'
+  - '1936 m.'
+  - '1978 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+  - 'XV'
+  - 'XVI'
+  - 'XX'
+  - 'XXI'
+date_start: '1393'
+date_end: '2026'
 patikimumas: "vidutinis"
 tags: []
 ---
@@ -65,6 +81,10 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   teiginys: 'Lietuvos ir Lenkijos valdovų – Vytauto ir Jogailos – susitikimui su Šventosios Romos imperijos imperatoriumi ir Vengrijos karaliumi Zigmantu I Vidurio ir Rytų Europos politikos problemoms aptarti ir buvo skirtas Lucko suvažiavimas, vykęs 1429 m. sausio 9–29.'
   pagrindžia:
     - c-014
+- t-015
+  teiginys: 'Tuoj pat po krikšto LDK šalia jau veikusių stačiatikių vyskupijų buvo suformuotos keturios katalikų vyskupijos (Vilniaus, Žemaičių, Lucko ir Kijevo), steigėsi vienuolijos.'
+  pagrindžia:
+    - c-015
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -201,6 +221,20 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-014
+- c-015
+  santrauka: 'Tuoj pat po krikšto LDK šalia jau veikusių stačiatikių vyskupijų buvo suformuotos keturios katalikų vyskupijos (Vilniaus, Žemaičių, Lucko ir Kijevo), steigėsi vienuolijos.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tuoj pat po krikšto LDK šalia jau veikusių stačiatikių vysku-
+    pijų buvo suformuotos keturios katalikų vyskupijos (Vilniaus, Žemaičių,
+    Lucko ir Kijevo), steigėsi vienuolijos. Iki XVI  a.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
 
 ## Pavadinimai šaltiniuose
 
@@ -215,8 +249,10 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
 
 ## Ryšiai
 ### Laikotarpiai
+- [[laikotarpiai/XIV amžius]]
 - [[laikotarpiai/XV amžius]]
 - [[laikotarpiai/XVI amžius]]
+- [[laikotarpiai/XX amžius]]
 
 ### Susiję objektai
 - [[objektai/ivykiai/Lucko suvažiavimas (1429 m.)]]

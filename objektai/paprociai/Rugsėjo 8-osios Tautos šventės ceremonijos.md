@@ -94,4 +94,5 @@ Nenurodyta
 - [[laikotarpiai/XX amžius]]
 
 ### Susiję objektai
+- [[objektai/asmenys/A. Smetona]]
 - [[objektai/daiktai/Vytauto Didžiojo ir A. Smetonos portretai Tautos šventės metu]]

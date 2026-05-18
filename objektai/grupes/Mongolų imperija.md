@@ -6,6 +6,20 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1307 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodo_grupes:
+  - 'LDK'
+  - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XIII'
+  - 'XIV'
+  - 'XXI'
+date_start: '1307'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - grupe
@@ -25,6 +39,10 @@ Mongolų imperija XIII a. Rusų kunigaikštijos buvo patekusios Aukso ordos (sus
   teiginys: 'Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mongolų imperijos dalies) valdžion ir turėjo jai nuolat mokėti duoklę.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Algirdo didvalstybė Mongolų imperija XIII a.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -54,3 +72,25 @@ Mongolų imperija XIII a. Rusų kunigaikštijos buvo patekusios Aukso ordos (sus
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Algirdo didvalstybė Mongolų imperija XIII a.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Algirdo didvalstybė
+    Mongolų imperija XIII a. sudaužė Kijevo Rusią, o Lietuva
+    pasinaudojo pergale ir pajungė kai kurias rusų žemes. Mindaugo laikais
+    prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino lai-
+    kais – Baltoji Rusia (Polockas – 1307 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIII amžius]]
+- [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XXI amžius]]

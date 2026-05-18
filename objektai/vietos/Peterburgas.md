@@ -167,9 +167,7 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Austrija]]
 - [[objektai/vietos/Karaliaučius]]
 - [[objektai/vietos/Liepoja-Romnai]]
 - [[objektai/vietos/Odesa]]
-- [[objektai/ivykiai/Trečiojo Lenkijos ir Lietuvos valstybės padalijimo konvencijos pasirašymas]]
 - [[objektai/vietos/Vokietija]]

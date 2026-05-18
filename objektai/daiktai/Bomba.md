@@ -117,3 +117,4 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/asmenys/Ernestas Galvanauskas]]
+- [[objektai/vietos/Kaunas]]

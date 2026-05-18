@@ -6,6 +6,20 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1991 m.'
+  - '1994 m.'
+  - '2004 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodo_grupes:
+  - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1991'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - ivykis
@@ -43,6 +57,10 @@ Nenurodyta
   teiginys: '2003 m. kovą pasirašius pakviestųjų kandidačių prisijungimo prie Vašingtono sutarties protokolus, Lietuvos Respublikos Seimui ratifikavus Vašingtono sutartį, 2004 m. kovo 29 d. Lietuva tapo visateise NATO nare.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: '6 skyrius • D A I N U O J A N T I R E V O L I U C I J A 259 Savo kelią į NATO Lietuva pradėjo 1991 m. gruodį – prisijungė prie Šiaurės Atlanto bendradarbiavimo tarybos.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -90,7 +108,30 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: '6 skyrius • D A I N U O J A N T I R E V O L I U C I J A 259 Savo kelią į NATO Lietuva pradėjo 1991 m. gruodį – prisijungė prie Šiaurės Atlanto bendradarbiavimo tarybos.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A
+    259
+    Savo kelią į NATO Lietuva pradėjo 1991 m. gruodį – prisijungė prie
+    Šiaurės Atlanto bendradarbiavimo tarybos. 1994 m. sausį Lietuvos Res-
+    publikos prezidentas A. Brazauskas nusiuntė NATO generaliniam sekre-
+    toriui Manfredui Verneriui (Manfred Wörner) laišką, kad Lietuva pagei-
+    dauja tapti šios organizacijos nare. Tų pačių metų sausį Lietuva prisijungė
+    prie Partnerystės taikos labui iniciatyvos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/laiškas]]
+
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

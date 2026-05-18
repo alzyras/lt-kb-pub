@@ -9,7 +9,26 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
+  - '1350 m.'
+  - '1385 m.'
+  - '1386 m.'
   - '1399 m.'
+  - '1430 m.'
+  - '1569 m.'
+  - '1930 m.'
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+  - 'XV'
+  - 'XVI'
+  - 'XX'
+  - 'XXI'
+date_start: '1350'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - karalienė
@@ -61,6 +80,10 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   teiginys: '1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas.'
   pagrindžia:
     - c-012
+- t-011
+  teiginys: 'ABIEJŲ TAUTŲ RESPUBLIKA Liublino unija 1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas.'
+  pagrindžia:
+    - c-013
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -210,11 +233,31 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-010
+- c-013
+  santrauka: 'ABIEJŲ TAUTŲ RESPUBLIKA Liublino unija 1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    ABIEJŲ TAUTŲ RESPUBLIKA
+    Liublino unija
+    1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos
+    ir Lenkijos suartėjimas. „Šventos santuokos“ metafora dažnai taikoma
+    visam unijų procesui, kurio padarinys – 1569 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XVI amžius]]
+- [[laikotarpiai/XX amžius]]
 
 ### Susiję objektai
 - [[objektai/asmenys/Ona Vytautienė]]
 - [[objektai/asmenys/Jadvyga]]
+- [[objektai/asmenys/Jogaila]]

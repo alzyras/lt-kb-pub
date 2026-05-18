@@ -17,30 +17,45 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 laikotarpis: 'XIV a.; 1382 m.; 1384 m.; 1385 m.; 1386 m.; 1387 m.; 1401 m.'
-datos:
-  - '1382 m.'
-  - '1384 m.'
-  - '1385 m.'
-  - '1386 m.'
-  - '1387 m.'
-  - '1401 m.'
-  - '1410 m.'
-  - '1430 m. lapkričio 7 d.'
-  - '1431 m. liepos viduryje'
-  - '1434 m. birželio 1 d.'
-  - '1380 m.'
-  - '1392 m.'
-periodas: ''
-periodo_grupes: []
-amziai:
-  - 'XIV'
-date_start: ''
-date_end: ''
 vaidmenys:
   - 'Lenkijos karalius'
   - 'Lietuvos valdovas'
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1350 m.'
+  - '1380 m.'
+  - '1382 m.'
+  - '1384 m.'
+  - '1385 m.'
+  - '1386 m.'
+  - '1387 m.'
+  - '1392 m.'
+  - '1401 m.'
+  - '1410 m.'
+  - '1413 m.'
+  - '1418 m.'
+  - '1429 m.'
+  - '1430 m.'
+  - '1431 m.'
+  - '1434 m.'
+  - '1569 m.'
+  - '1930 m.'
+  - '1936 m.'
+  - '1978 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+  - 'XV'
+  - 'XVI'
+  - 'XX'
+  - 'XXI'
+date_start: '1350'
+date_end: '2026'
 patikimumas: 'aukštas'
 tags:
   - asmuo
@@ -221,6 +236,42 @@ Jogaila šiame šaltinyje rodomas kaip Lietuvos valdovas, tapęs Lenkijos karali
   teiginys: 'Išeitis buvo 1385 m. sudaryta Krėvos sutartis su Lenkija, pagal kurią Lietuvos didysis kunigaikštis Jogaila tapo Lenkijos karaliumi.'
   pagrindžia:
     - c-034
+- t-029
+  teiginys: 'piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L I E T U VA 35 kunigaikščiai – Gedimino sūnūs Algirdas ir Kęstutis, Algirdo sūnus Jogaila ir iškiliausias dinastijos atstovas Kęstučio sūnus Vytautas Didysis (valdė 1392–1430).'
+  pagrindžia:
+    - c-035
+- t-030
+  teiginys: 'Jogaila su šio dokumento turiniu sutiko, jis buvo priimtas ir į istoriją įėjo Krėvos sutarties vardu.'
+  pagrindžia:
+    - c-036
+- t-031
+  teiginys: 'Sudarydamas Krėvos sutartį, Jogaila, kaip ankstyvasis monarchas, visą valstybę laikė savo nuosavybe ir manė galįs elgtis su Lietuva kaip patinka.'
+  pagrindžia:
+    - c-037
+- t-032
+  teiginys: '1387 m. Jogaila atvyko į Vilnių krikštyti lietuvių.'
+  pagrindžia:
+    - c-038
+- t-033
+  teiginys: '1387 m. vasario 17 d. Jogaila išleido privilegiją Vilniaus vyskupui, kuria buvo įsteigiama ir aprūpinama vyskupo institucija.'
+  pagrindžia:
+    - c-039
+- t-034
+  teiginys: 'Tos dienos rytą Jogailos ir Vytauto pozicijos skyrėsi.'
+  pagrindžia:
+    - c-040
+- t-035
+  teiginys: 'Todėl 1413 m. Vytautas su Jogaila pradeda krikštyti žemaičius.'
+  pagrindžia:
+    - c-041
+- t-036
+  teiginys: 'Lietuvos ir Lenkijos valdovų – Vytauto ir Jogailos – susitikimui su Šventosios Romos imperijos imperatoriumi ir Vengrijos karaliumi Zigmantu I Vidurio ir Rytų Europos politikos problemoms aptarti ir buvo skirtas Lucko suvažiavimas, vykęs 1429 m. sausio 9–29.'
+  pagrindžia:
+    - c-042
+- t-037
+  teiginys: 'ABIEJŲ TAUTŲ RESPUBLIKA Liublino unija 1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas.'
+  pagrindžia:
+    - c-043
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -753,15 +804,178 @@ Jogaila šiame šaltinyje rodomas kaip Lietuvos valdovas, tapęs Lenkijos karali
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-028
+- c-035
+  santrauka: 'piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L I E T U VA 35 kunigaikščiai – Gedimino sūnūs Algirdas ir Kęstutis, Algirdo sūnus Jogaila ir iškiliausias dinastijos atstovas Kęstučio sūnus Vytautas Didysis (valdė 1392–1430).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    piešti
+    įsivaizduojami Lietuvos valdovų portretai
+
+    1 skyrius •  S E N O J I  L I E T U VA
+    35
+    kunigaikščiai – Gedimino sūnūs Algirdas ir Kęstutis, Algirdo sūnus Jo-
+    gaila ir iškiliausias dinastijos atstovas Kęstučio sūnus Vytautas Didysis
+    (valdė 1392–1430). Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam
+    tapus Lenkijos karaliumi (1386), atsirado Gediminaičių šakos Jogailai-
+    čių dinastija. Ši Gediminaičių šaka vėliau (XV a.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-029
+- c-036
+  santrauka: 'Jogaila su šio dokumento turiniu sutiko, jis buvo priimtas ir į istoriją įėjo Krėvos sutarties vardu.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1385 m. rugpjūčio 14 d. į Krėvos pilį atvyko lenkų delegacija. Lenkai,
+    regis, jau turėjo parengtą sutarties dokumentą. Jogaila su šio dokumento
+    turiniu sutiko, jis buvo priimtas ir į istoriją įėjo Krėvos sutarties vardu. Su-
+    tarties sąlygos: Jogaila ima žmona Lenkijos karalaitę Jadvygą, pažada įvesti
+    Lietuvoje katalikų tikėjimą, atgauti prarastas Lenkijos žemes, paleisti lenkų
+    belaisvius ir „prišlieti“ Lietuvą prie Lenkijos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-030
+- c-037
+  santrauka: 'Sudarydamas Krėvos sutartį, Jogaila, kaip ankstyvasis monarchas, visą valstybę laikė savo nuosavybe ir manė galįs elgtis su Lietuva kaip patinka.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Sudarydamas Krėvos sutartį, Jogaila, kaip ankstyvasis monarchas, visą
+    valstybę laikė savo nuosavybe ir manė galįs elgtis su Lietuva kaip patinka.
+    Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teig-
+    ti, kad sutartį sudarė Lenkijos Karalystė ir Lietuvos didysis kunigaikštis.
+    Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės
+    taryba ir jau buvo pradėjęs veikti bajorų seimas), Lietuvoje, be didžiojo
+    kunigaikščio, kitos institucijos, kuri galėtų išreikšti Lietuvos valstybės va-
+    lią, nebūta. Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir
+    Lietuva valstybingumo neprarado, tik tapo Lenkijos vasale. O tiksliau –
+    Jogaila, Lietuvos didysis kunigaikštis, tapo Jogailos, Lenkijos karaliaus,
+    vasalu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-031
+- c-038
+  santrauka: '1387 m. Jogaila atvyko į Vilnių krikštyti lietuvių.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1387 m. Jogaila atvyko į Vilnių krikštyti lietuvių. Kilmingieji bajorai
+    krikštytis kviesti į Vilnių su šeimomis ir kiekvienas atskirai pašlakstytas
+    vandeniu. Nekilmingiems žmonėms karalius, kaip krikštatėvis, dalijo
+    marškinius ir vilnonius drabužius, todėl atsirado norinčių krikštytis ne
+    kartą. Panašiai krikštytos ir keltų bei germanų gentys. Dėl norinčių tapti
+    krikščionimis gausumo teko juos krikštyti būriais įbridusius į upės van-
+    denį. Įvesdamas naująjį tikėjimą, Jogaila naikino pagonybės apraiškas:
+    šventąsias girias, žalčius, šventąją ugnį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-032
+- c-039
+  santrauka: '1387 m. vasario 17 d. Jogaila išleido privilegiją Vilniaus vyskupui, kuria buvo įsteigiama ir aprūpinama vyskupo institucija.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1387 m. vasario 17 d. Jogaila išleido privilegiją Vilniaus vyskupui, ku-
+    ria buvo įsteigiama ir aprūpinama vyskupo institucija. Ši privilegija yra
+    svarbiausias krikščionybės įvedimo Lietuvoje aktas. Vasario 22-ąją Jogai-
+    la išleido raštą, kuriuo visus lietuvius prisiekė patraukti į savo pusę ar net
+    jėga priversti priimti katalikybę. Jogaila, pavertęs Lietuvą krikščioniška
+    šalimi, panaikino pagrindinę politinės izoliacijos priežastį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-033
+- c-040
+  santrauka: 'Tos dienos rytą Jogailos ir Vytauto pozicijos skyrėsi.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tos dienos rytą Jogailos ir Vytauto pozicijos skyrėsi. Vytautas troško
+    lemiamo mūšio, o Jogaila laukė pasiūlymo derėtis – jis tęsė laiką, klau-
+    sydamas mišių ir šventindamas riterius. Jogaila sąjungininkų kariuo-
+    menės dydžiu, žygio kryptimi, grėsmingu jėgos demonstravimu manė
+    priversti Ordiną pradėti derybas ir jam padiktuoti savo sąlygas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-034
+- c-041
+  santrauka: 'Todėl 1413 m. Vytautas su Jogaila pradeda krikštyti žemaičius.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Todėl 1413 m. Vy-
+    tautas su Jogaila pradeda krikštyti žemaičius. 1418 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-035
+- c-042
+  santrauka: 'Lietuvos ir Lenkijos valdovų – Vytauto ir Jogailos – susitikimui su Šventosios Romos imperijos imperatoriumi ir Vengrijos karaliumi Zigmantu I Vidurio ir Rytų Europos politikos problemoms aptarti ir buvo skirtas Lucko suvažiavimas, vykęs 1429 m. sausio 9–29.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuvos ir Lenkijos valdovų  – Vytauto ir Jogailos – susitikimui su
+    Šventosios  Romos imperijos imperatoriumi ir Vengrijos karaliumi Zi-
+    gmantu I Vidurio ir Rytų Europos politikos problemoms aptarti ir buvo
+    skirtas Lucko suvažiavimas, vykęs 1429 m. sausio 9–29 d. Suvažiavime
+    taip pat dalyvavo Maskvos didžiojo kunigaikščio ir Tverės kunigaikščio
+    pasiuntiniai, Riazanės, Odojevo, Didžiojo Naugardo, Pskovo kunigaikš-
+    čiai, popiežiaus legatas, Vokiečių ordino, Aukso ordos, Moldavijos, Da-
+    nijos karaliaus ir Bizantijos imperatoriaus pasiuntiniai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-036
+- c-043
+  santrauka: 'ABIEJŲ TAUTŲ RESPUBLIKA Liublino unija 1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    ABIEJŲ TAUTŲ RESPUBLIKA
+    Liublino unija
+    1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos
+    ir Lenkijos suartėjimas. „Šventos santuokos“ metafora dažnai taikoma
+    visam unijų procesui, kurio padarinys – 1569 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-037
 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
 - [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XVI amžius]]
+- [[laikotarpiai/XX amžius]]
 
 ### Susiję objektai
 - [[objektai/paprociai/Lotyniško krikšto privalomumas ir mišrių moterystių draudimas]]
 - [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Jadvyga]]
+- [[objektai/asmenys/Jadvyga Jogailienė]]
 - [[objektai/ivykiai/Krėvos sutarties priėmimas]]
 - [[objektai/ivykiai/Krėvos sutartis (1385 m.)]]
-- [[objektai/zodynas/vyskupystė]]

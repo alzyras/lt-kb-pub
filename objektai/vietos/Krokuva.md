@@ -10,6 +10,22 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
+datos:
+  - '1350 m.'
+  - '1430 m.'
+  - '1930 m.'
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+  - 'XV'
+  - 'XX'
+  - 'XXI'
+date_start: '1350'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - karalius
@@ -98,6 +114,10 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginys: 'Manoma, kad studijų lygis senajame universitete nebuvo menkesnis nei Prahos, Krokuvos, Vienos ar Romos universitetuose.'
   pagrindžia:
     - c-017
+- t-018
+  teiginys: 'Vasarą rusų ir prūsų kariuomenės perėmė iniciatyvą: birželį Prūsijos kariuomenė užėmė Krokuvą, o rugpjūtį Rusijos kariuomenė – Vilnių.'
+  pagrindžia:
+    - c-018
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -347,8 +367,29 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-017
+- c-018
+  santrauka: 'Vasarą rusų ir prūsų kariuomenės perėmė iniciatyvą: birželį Prūsijos kariuomenė užėmė Krokuvą, o rugpjūtį Rusijos kariuomenė – Vilnių.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vasarą rusų ir prūsų kariuomenės per-
+    ėmė iniciatyvą: birželį Prūsijos kariuomenė užėmė Krokuvą, o rugpjūtį
+    Rusijos kariuomenė – Vilnių. Lapkričio 5 dieną pasidavė Varšuva, kurią
+    gynė ir pasitraukę Lietuvos sukilėliai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
 ### Susiję objektai
 - [[objektai/grupes/Karūnacinis seimas]]
 - [[objektai/grupes/Lenkų ponų taryba]]
@@ -357,6 +398,5 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - [[objektai/paprociai/Kandidatas Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose]]
 - [[objektai/vietos/Luckas]]
 - [[objektai/vietos/Poznanė]]
-- [[objektai/paprociai/Studijos Europos universitetuose]]
 - [[objektai/asmenys/Šv. Stanislovas]]
 - [[objektai/posakiai/„kad abi lygiateisės tautos turėtų vieną globėją ir užtarėją“]]

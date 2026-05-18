@@ -15,20 +15,38 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 laikotarpis: 'XIV a.; 1323 m.; apie 1341 m.'
-datos:
-  - '1323 m.'
-  - 'apie 1341 m.'
-  - '1316 m.'
-periodas: ''
-periodo_grupes: []
-amziai:
-  - 'XIV'
-date_start: ''
-date_end: ''
 vaidmenys:
   - 'Lietuvos valdovas'
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1307 m.'
+  - '1316 m.'
+  - '1320 m.'
+  - '1322 m.'
+  - '1323 m.'
+  - '1324 m.'
+  - '1340 m.'
+  - '1341 m.'
+  - '1362 m.'
+  - '1363 m.'
+  - '1385 m.'
+  - '1572 m.'
+  - '1936 m.'
+  - '1978 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIII'
+  - 'XIV'
+  - 'XVI'
+  - 'XX'
+  - 'XXI'
+date_start: '1307'
+date_end: '2026'
 patikimumas: 'aukštas'
 tags:
   - diplomatas
@@ -131,6 +149,38 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
   teiginys: 'Lietuva liks savarankiška civilizacinė monada, todėl tiek Gediminas, tiek Algirdas, nelaukdami pripažinimo ir karūnos iš svetur, nemandagiai (Vakarų žvilgsniu) vadinsis karaliais.'
   pagrindžia:
     - c-025
+- t-027
+  teiginys: 'Dinastijai vardą davė garsiausias jos atstovas – Vytenio brolis Gediminas (valdęs 1316–1341 m.).'
+  pagrindžia:
+    - c-026
+- t-028
+  teiginys: 'Valdant Gediminui ar jo sūnui Algirdui buvo sukurta visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai, Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys.'
+  pagrindžia:
+    - c-027
+- t-029
+  teiginys: 'Reikšmingiausiu Gedimino politikos atspindžiu yra laikomi jo laiškai.'
+  pagrindžia:
+    - c-028
+- t-030
+  teiginys: 'Jam Gediminas ir siuntė laiškus, kuriuose pareiškė pageidavimą krikštytis: Lietuvos valdovai norį priimti katalikų tikėjimą, bet priversti gintis nuo kryžiuočių, kuriems rūpįs ne krikštas, o valstybės užkariavimas.'
+  pagrindžia:
+    - c-029
+- t-031
+  teiginys: 'Taigi pagoniška Lietuvos visuomenė ir jos ūkinė, socialinė, politinė ir dvasinė struktūra įgijo brandžiausią pavidalą valdant Gediminui.'
+  pagrindžia:
+    - c-030
+- t-032
+  teiginys: 'L I E T U V O S I S T O R I J A 36 Lietuvos valdovas Gediminas, titulavęsis Rex Lethowye ir vedęs intensyvias derybas dėl krikšto, savo laiškais Vakarų šalims ir miestams šalia krikšto kvietė į Lietuvą Vakarų pirklius ir amatininkus.'
+  pagrindžia:
+    - c-031
+- t-033
+  teiginys: 'Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino laikais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Voluinė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos.'
+  pagrindžia:
+    - c-032
+- t-034
+  teiginys: 'Nors Lietuva prisijungė nemažą dalį rusų žemių, bet ir Gediminas, ir Algirdas už teisę jas valdyti turėjo nuolat mokėti duoklę Aukso ordai (Ldk Vytautas nustojo mokėti mongolams duoklę).'
+  pagrindžia:
+    - c-033
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -379,13 +429,167 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-026
+- c-026
+  santrauka: 'Dinastijai vardą davė garsiausias jos atstovas – Vytenio brolis Gediminas (valdęs 1316–1341 m.).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Dinastijai vardą davė garsiausias jos atstovas – Vytenio brolis Gedimi-
+    nas (valdęs 1316–1341 m.). Gediminas nebuvo pirmas šios dinastijos atsto-
+    vas, tačiau būtent jis istoriniu vaidmeniu užgožė savo pirmtakus. Valdant
+    Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti
+    visus jai būdingus požymius, kaip antai: diarchija, ankstyvasis feodaliz-
+    mas – ankstyvieji dvarai, Lietuvoje vadinti „kiemais“. Lietuva tuo metu jau
+    turėjo sostinę, nuo Gedimino prasidėjo sosto paveldėjimo tradicija, mūro
+    civilizacijos ištakos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-027
+- c-027
+  santrauka: 'Valdant Gediminui ar jo sūnui Algirdui buvo sukurta visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai, Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Valdant Gediminui ar jo sūnui Algirdui buvo sukurta
+    visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai,
+    Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys. Lietuva tapo
+    politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijung-
+    tos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje
+    buvę Voluinė ir Haličas, Kijevas, Pskovas. Tai leido Lietuvai tapti didelių
+    politinių kombinacijų dalyve ir vyraujančia regiono jėga – didvalstybe.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-028
+- c-028
+  santrauka: 'Reikšmingiausiu Gedimino politikos atspindžiu yra laikomi jo laiškai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Reikšmingiausiu Gedimino politikos atspindžiu yra laikomi jo laiškai.
+    Nors jie dažniausiai siejami tik su pirmu Vilniaus paminėjimu rašto šal-
+    tiniuose, kartu rodo, kad Gediminas kūrė nuoseklią Lietuvos europėjimo
+    programą. Iš jų matyti labai platus (turint galvoje tarptautinę Lietuvos
+    izoliaciją) Gedimino politinis akiratis. Gediminas kūrė stačiatikių metro-
+    poliją, ryžosi krikštytis pats ir įkurti katalikų arkivyskupiją. Šia bažnytine
+    politika jis sugebėjo sudominti popiežių Joną XXII, kuris jau tais laikais
+    kėlė bažnytinės unijos idėją.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-029
+- c-029
+  santrauka: 'Jam Gediminas ir siuntė laiškus, kuriuose pareiškė pageidavimą krikštytis: Lietuvos valdovai norį priimti katalikų tikėjimą, bet priversti gintis nuo kryžiuočių, kuriems rūpįs ne krikštas, o valstybės užkariavimas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Jam Gediminas ir siuntė laiškus, kuriuose
+    pareiškė pageidavimą krikštytis: Lietuvos valdovai norį priimti katalikų
+    tikėjimą, bet priversti gintis nuo kryžiuočių, kuriems rūpįs ne krikštas,
+    o valstybės užkariavimas. Gediminas taip pat išsiuntė laiškus Vokietijos
+    miestams bei vienuolijoms, pranešdamas, kad laukia popiežiaus pasiun-
+    tinių tartis dėl krikšto. Jis kvietė į Lietuvą atvykti ir čia įsikurti vokiečių
+    riterius, pirklius, amatininkus, valstiečius, žadėjo jiems tokias pačias vei-
+    klos sąlygas kaip Europoje. Tačiau 1323–1324 m. Gedimino krikšto akcija
+    nepavyko dėl žemaičių ir stačiatikių dvariškių pasipriešinimo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-030
+- c-030
+  santrauka: 'Taigi pagoniška Lietuvos visuomenė ir jos ūkinė, socialinė, politinė ir dvasinė struktūra įgijo brandžiausią pavidalą valdant Gediminui.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Taigi pagoniška Lietuvos visuomenė ir jos ūkinė, socialinė, politinė
+    ir dvasinė struktūra įgijo brandžiausią pavidalą valdant Gediminui. Tad
+    XIII a. pabaigoje į Lietuvos istoriją įžengė garsiausia ir – tai svarbu –
+    lietuvių kilmės valdovų – Gediminaičių dinastija, valdžiusi Lietuvą iki
+    1572 m. – Žygimanto Augusto mirties (po jo Lietuvą valdė svetimkilmiai
+    valdovai). Dinastijai vardą davė garsiausias jos atstovas – Gediminas, is-
+    toriniu vaidmeniu užgožęs savo pirmtakus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-031
+- c-031
+  santrauka: 'L I E T U V O S I S T O R I J A 36 Lietuvos valdovas Gediminas, titulavęsis Rex Lethowye ir vedęs intensyvias derybas dėl krikšto, savo laiškais Vakarų šalims ir miestams šalia krikšto kvietė į Lietuvą Vakarų pirklius ir amatininkus.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    L I E T U V O S  I S T O R I J A
+    36
+    Lietuvos valdovas Gediminas, titulavęsis Rex Lethowye ir vedęs inten-
+    syvias derybas dėl krikšto, savo laiškais Vakarų šalims ir miestams šalia
+    krikšto kvietė į Lietuvą Vakarų pirklius ir amatininkus. Lietuvos antiizo-
+    liacinės pastangos ilgai nedavė rezultatų, o ordinų karinė agresija ver-
+    tė Lietuvą visą energiją skirti karybai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-032
+- c-032
+  santrauka: 'Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino laikais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Voluinė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Mindaugo laikais
+    prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino lai-
+    kais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Volui-
+    nė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos.
+    Kijevas galėjo būti prijungtas 1322 m., valdant Gediminui, tačiau labiau
+    linkstama manyti, kad Kijevą prijungė Algirdas po pergalės prieš Aukso
+    ordą prie Mėlynųjų Vandenų 1362 m. ar 1363 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-033
+- c-033
+  santrauka: 'Nors Lietuva prisijungė nemažą dalį rusų žemių, bet ir Gediminas, ir Algirdas už teisę jas valdyti turėjo nuolat mokėti duoklę Aukso ordai (Ldk Vytautas nustojo mokėti mongolams duoklę).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Nors
+    Lietuva prisijungė nemažą dalį rusų žemių, bet ir Gediminas, ir Algir-
+    das už teisę jas valdyti turėjo nuolat mokėti duoklę Aukso ordai (Ldk
+    Vytautas nustojo mokėti mongolams duoklę). Panašu, kad LDK rusiš-
+    kosios žemės buvo Lietuvos ir Aukso ordos kondominiumas – bendra
+
+    L I E T U V O S  I S T O R I J A
+    38
+    valda.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-034
 
 ## Ryšiai
 ### Laikotarpiai
+- [[laikotarpiai/XIII amžius]]
 - [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XVI amžius]]
+- [[laikotarpiai/XX amžius]]
 
 ### Susiję objektai
 - [[objektai/ivykiai/Gedimino sąjunga su Lenkija]]
 - [[objektai/asmenys/Kęstutis]]
 - [[objektai/vietos/Vilnius]]
 - [[objektai/asmenys/Algirdas]]
+- [[objektai/posakiai/`Rex Lethowye`]]

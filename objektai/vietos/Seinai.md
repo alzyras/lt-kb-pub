@@ -6,6 +6,18 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1920 m.'
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1920'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - popiežius
@@ -31,6 +43,10 @@ Norėdama atskirti ją nuo Vilniaus ir Žemaičių vyskupų įtakos, Prūsijos v
   teiginys: 'Savo ruožtu Lietuva nustojo teisės reikšti savo teritorines pretenzijas į Seinus, Punską, nors sena istorija, tautinių mažumų klausimas kartais dar kelia karštas diskusijas.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Paskutinė federacijos su Lenkija galimybė Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo apjungti netgi visų etninių lietuvių žemių, kur lietuviai sudarė daugumą gyventojų – karinių susidūrimų su Lenkija metu buvo prarasti lietuviški Seinai ir Punskas.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -81,8 +97,29 @@ Norėdama atskirti ją nuo Vilniaus ir Žemaičių vyskupų įtakos, Prūsijos v
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Paskutinė federacijos su Lenkija galimybė Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo apjungti netgi visų etninių lietuvių žemių, kur lietuviai sudarė daugumą gyventojų – karinių susidūrimų su Lenkija metu buvo prarasti lietuviški Seinai ir Punskas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Paskutinė federacijos su Lenkija galimybė
+    Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo
+    apjungti netgi visų etninių lietuvių žemių, kur lietuviai sudarė daugumą
+    gyventojų – karinių susidūrimų su Lenkija metu buvo prarasti lietuviš-
+    ki Seinai ir Punskas. Kovos su lenkais įgavo ne tik teritorinį, bet ir so-
+    cialinį atspalvį – 1920 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
 ### Susiję objektai
 - [[objektai/vietos/Prienai]]
 - [[objektai/vietos/Punskas]]

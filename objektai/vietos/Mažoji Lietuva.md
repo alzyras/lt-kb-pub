@@ -6,6 +6,21 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1750 m.'
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'LDK'
+  - 'modernioji Lietuva'
+amziai:
+  - 'XVIII'
+  - 'XIX'
+  - 'XX'
+  - 'XXI'
+date_start: '1750'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - valstybė
@@ -54,6 +69,10 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
   teiginys: 'O juk planuota išrinkti ir apie 100 Seimo atstovų Vilnijoje, 9 vietos skirtos Mažajai Lietuvai, tačiau rinkimai ten nevyko, nes Lietuva tų teritorijų nekontroliavo.'
   pagrindžia:
     - c-009
+- t-010
+  teiginys: 'Jos etnografiniame skyriuje Lietuvos lietuviai, kartu su tautiečiais iš Mažosios Lietuvos ir ypač padedami JAV lietuvių, paruošė ekspoziciją, kurioje išdėliojo lietuvių tautinių drabužių, žemės ūkio padargų, kitų daiktų, o svarbiausia – slapta Prūsijoje.'
+  pagrindžia:
+    - c-010
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -196,9 +215,38 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-009
+- c-010
+  santrauka: 'Jos etnografiniame skyriuje Lietuvos lietuviai, kartu su tautiečiais iš Mažosios Lietuvos ir ypač padedami JAV lietuvių, paruošė ekspoziciją, kurioje išdėliojo lietuvių tautinių drabužių, žemės ūkio padargų, kitų daiktų, o svarbiausia – slapta Prūsijoje.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Jos etnografiniame skyriuje Lietuvos lietuviai, kartu su tautie-
+    čiais iš Mažosios Lietuvos ir ypač padedami JAV lietuvių, paruošė ekspo-
+    ziciją, kurioje išdėliojo lietuvių tautinių drabužių, žemės ūkio padargų,
+    kitų daiktų, o svarbiausia – slapta Prūsijoje leidžiamos lietuvių spaudos
+
+    L I E T U V O S  I S T O R I J A
+    122
+    pavyzdžių. Taip pasauliui buvo pasiųsta žinia, kad caro valdžia draudžia
+    spaudą lietuvių – lotynų abėcėle ir kad yra tokia šalis – Lietuva.
+    Lietuvių tautinis atgimimas, laikęs savo priešu caro režimą, netrukus
+    atrado dar vieną – lenkų polonizatorius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIX amžius]]
+- [[laikotarpiai/XVIII amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
 ### Susiję objektai
 - [[objektai/vietos/Brandenburgas]]
 - [[objektai/asmenys/Kristijonas Donelaitis]]
+- [[objektai/vietos/Rytų Prūsija]]
 - [[objektai/zodynas/istorinė Lietuva]]

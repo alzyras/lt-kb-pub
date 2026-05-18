@@ -7,6 +7,22 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1926 m.'
+  - '1927 m.'
+  - '1928 m.'
+  - '1929 m.'
+  - '1936 m.'
+  - '1978 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1926'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -59,6 +75,22 @@ Voldemarą ir M. Ministerių pirmininkas Voldemaras, manydamas, kad taikingos ir
   teiginys: 'Voldemaras užsienio politiką stumtelėjo radikalesne kryptimi, pabrėžęs, kad politika su Lenkija nesikeičia, tačiau be Vilniaus Lietuva nėra vienas kūnas.'
   pagrindžia:
     - c-011
+- t-012
+  teiginys: 'Voldemaras buvo įsitikinęs, kad „mūsų priešų priešai yra mūsų draugai“ ir laikėsi tautininkų pozicijos, jog Vilniaus klausimo sprendimas eina per Maskvą ir Berlyną, todėl pragmatiškai ieškojo SSRS paramos prieš VII Lietuvos žemės ūkio ir pramonės parodos.'
+  pagrindžia:
+    - c-012
+- t-013
+  teiginys: 'Voldemarui klausimą „Karas ar taika?“ A.'
+  pagrindžia:
+    - c-013
+- t-014
+  teiginys: 'Voldemarui pavyko sutvarkyti tą reikalą vizito Romoje metu – 1927 m. rugsėjo 27 d. jis pasirašė konkordatą su Vatikanu, nustačiusį Lietuvos katalikų bažnyčios padėtį valstybėje.'
+  pagrindžia:
+    - c-014
+- t-015
+  teiginys: 'Voldemaras nieko negalėjo pakeisti.'
+  pagrindžia:
+    - c-015
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -197,8 +229,88 @@ Voldemarą ir M. Ministerių pirmininkas Voldemaras, manydamas, kad taikingos ir
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-011
+- c-012
+  santrauka: 'Voldemaras buvo įsitikinęs, kad „mūsų priešų priešai yra mūsų draugai“ ir laikėsi tautininkų pozicijos, jog Vilniaus klausimo sprendimas eina per Maskvą ir Berlyną, todėl pragmatiškai ieškojo SSRS paramos prieš VII Lietuvos žemės ūkio ir pramonės parodos.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    A. Voldemaras buvo įsitikinęs, kad „mūsų priešų priešai yra mūsų drau-
+    gai“ ir laikėsi tautininkų pozicijos, jog Vilniaus klausimo sprendimas eina
+    per Maskvą ir Berlyną, todėl pragmatiškai ieškojo SSRS paramos prieš
+    VII Lietuvos žemės ūkio  ir pramonės parodos lankytojai
+    (Kaunas, 1928 m.)
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    159
+    Lenkiją.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+- c-013
+  santrauka: 'Voldemarui klausimą „Karas ar taika?“ A.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuva ir Lenkija kaktomuša susidūrė
+    Ženevoje, kur Sąjungos Taryboje gruodžio 10 dieną J. Pilsudskis uždavė
+    A. Voldemarui klausimą „Karas ar taika?“ A. Voldemaras, neturėdamas
+    Lietuvos delegacija Tautų Sąjungoje Ženevoje 1926 m., iš kairės:
+    Dovas Zaunius, ministras pirmininkas Augustinas Voldemaras ir
+    pasiuntinys Petras Klimas (H. Roger Viollet nuotrauka)
+
+    L I E T U V O S  I S T O R I J A
+    160
+    išeities, paprasčiausiai pasakė, jog karo padėties tarp Lietuvos ir Lenkijos
+    nėra.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+- c-014
+  santrauka: 'Voldemarui pavyko sutvarkyti tą reikalą vizito Romoje metu – 1927 m. rugsėjo 27 d. jis pasirašė konkordatą su Vatikanu, nustačiusį Lietuvos katalikų bažnyčios padėtį valstybėje.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tik A. Voldemarui pa-
+    vyko sutvarkyti tą reikalą vizito Romoje metu – 1927 m. rugsėjo 27 d. jis
+    pasirašė konkordatą su Vatikanu, nustačiusį Lietuvos katalikų bažnyčios
+    padėtį valstybėje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
+- c-015
+  santrauka: 'Voldemaras nieko negalėjo pakeisti.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Stiprėjant Europos tendencijai saugoti sienų neliečiamumą, A. Vol-
+    demaras nieko negalėjo pakeisti. Būdamas ir premjeru, ir užsienio rei-
+    kalų ministru jau ne visur spėjo, konfliktavo su keliais savo ministrais
+    ir pradėjo pretenduoti į vienvaldystę šalyje. Po gegužę įvykdyto studen-
+    tų eserų pasikėsinimo į A. Voldemaro gyvybę, 1929 m. rugsėjį visiems
+    ministrams in corpore „atsistatydinus“, turėjo atsistatydinti ir premjeras.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
 ### Susiję objektai
-- [[objektai/asmenys/Augustinas Voldemaras]]
+- [[objektai/ivykiai/Konkordato su Vatikanu pasirašymas (1927 m. rugsėjo 27 d.)]]
+- [[objektai/vietos/Vatikanas]]
+- [[objektai/posakiai/„Karas ar taika “]]
 - [[objektai/posakiai/„seimų laikus“]]

@@ -73,3 +73,4 @@ Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus m
 ### Susiję objektai
 - [[objektai/autoriai/Maironis]]
 - [[objektai/zodynas/spiritus movens]]
+- [[objektai/ivykiai/„Tėvynės sargo“ leidimo pradžia]]

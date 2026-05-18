@@ -14,9 +14,26 @@ saltiniai:
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean'
 laikotarpis: '1345–1377 m.; 1370 m.; 1377 m'
 datos:
-  - '1345–1377 m'
-  - '1370 m'
-  - '1377 m'
+  - '1345 m.'
+  - '1370 m.'
+  - '1377 m.'
+  - '1514 m.'
+  - '1529 m.'
+  - '1566 m.'
+  - '1588 m.'
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+  - 'XVI'
+  - 'XVIII'
+  - 'XX'
+  - 'XXI'
+date_start: '1345'
+date_end: '2026'
 patikimumas: 'aukštas'
 tags:
   - grupe
@@ -101,6 +118,14 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginys: 'Didieji kunigaikščiai, reikšdami teritorines pretenzijas, suvokė baltų erdvės giminingumą, o Vytautas kalbos bendrumu grindė žemaičių priklausomybę Lietuvai.'
   pagrindžia:
     - c-034
+- t-018
+  teiginys: 'Ir vis dėlto net ir šiais vėlyvais amžiais gyvavo „lietuvių nacija“, LDK „politinė tauta“.'
+  pagrindžia:
+    - c-035
+- t-019
+  teiginys: 'Taip įvairiakilmė ponija formavo bendros savimonės „lietuvių nacijos“ ponų sluoksnį.'
+  pagrindžia:
+    - c-036
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -403,11 +428,56 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-017
+- c-035
+  santrauka: 'Ir vis dėlto net ir šiais vėlyvais amžiais gyvavo „lietuvių nacija“, LDK „politinė tauta“.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    XVII–XVIII  a. formavosi ir bendra Abiejų Tautų Respublikos kaip
+    Lenkijos savimonė, tačiau šioje Lenkijoje aiškiai skiriant ir „kitą Lenki-
+    ją“. Ir vis dėlto net ir šiais vėlyvais amžiais gyvavo „lietuvių nacija“, LDK
+    „politinė tauta“. Tai patvirtina sudėtingos dvilypės savimonės formulės.
+    Pavyzdžiui, „gente polonus, natione lituanus“, ir „Лiцвiны грэцкага
+    закону людзi“ arba „Лiцвiны рус’кага рода“. Bendras vidaus politinis
+    gyvenimas, bendri seimai ir seimeliai, susiformavusi LDK teisė Lietuvos
+    Statutuose (tai trys teisynai – 1529, 1566, 1588) ugdė sampratą, kad lie-
+    tuvis yra ne tas, kuris kalba lietuviškai, o tas, kuris gina laisvę ir vadovau-
+    jasi Lietuvos Statutais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018
+- c-036
+  santrauka: 'Taip įvairiakilmė ponija formavo bendros savimonės „lietuvių nacijos“ ponų sluoksnį.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Taip įvairiakilmė ponija formavo bendros savimonės „lietuvių
+    nacijos“ ponų sluoksnį. Tokie žmonės pagal kilmę buvo rusėnai, pagal
+    tikėjimą – graikai katalikai, pagal politinę savimonę – lietuviai, o kalbėjo
+    lenkiškai.
+
+    Lietuvos ir Lenkijos kariuomenė, vadovaujama Konstantino
+    Ostrogiškio, 1514 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XVI amžius]]
+- [[laikotarpiai/XVIII amžius]]
+- [[laikotarpiai/XX amžius]]
+
 ### Susiję objektai
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/daiktai/Vėliavos]]
 - [[objektai/zodynas/egzekucija]]
-- [[objektai/grupes/Kalavijuočių ordinas]]
+- [[objektai/asmenys/Vytautas]]
 - [[objektai/posakiai/„didžiausią ankstyvosios Lietuvos istorijos kūrinį – valstybę“]]

@@ -6,6 +6,19 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1863 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodo_grupes:
+  - 'naujieji laikai'
+  - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XIX'
+  - 'XXI'
+date_start: '1863'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - karalius
@@ -32,6 +45,10 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
   teiginys: 'Svarstant Valstybės Dūmoje Lenkijos politinės autonomijos klausimą lietuvių veikėjai išsakė mintį, kad tokiu atveju nuo karalystės reikėtų atskirti jos lietuviškąją dalį, t.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: '“ Praėjus 20 metų nuo 1863 m. sukilimo etninių lietuvių tautinis sąjūdis prasidėjo iš naujo.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -78,7 +95,28 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: '“ Praėjus 20 metų nuo 1863 m. sukilimo etninių lietuvių tautinis sąjūdis prasidėjo iš naujo.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    “
+    Praėjus 20 metų nuo 1863 m. sukilimo etninių lietuvių
+    tautinis sąjūdis prasidėjo iš naujo. Jį atnaujino pobaudžiavinė inteligentų
+    karta, Rusijos aukštųjų mokyklų auklėtiniai, kilę daugiausia iš Užnemu-
+    nės krašto.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
 ### Susiję objektai
 - [[objektai/vietos/Lenkijos karalystė]]
+- [[objektai/vietos/Užnemunė]]

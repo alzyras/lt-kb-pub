@@ -6,6 +6,16 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodo_grupes:
+  - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XXI'
+date_start: '2013'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - tauta
@@ -34,6 +44,10 @@ Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmeči
   teiginys: 'Hess), Rytų Prūsijos oberprezidentas Ėrichas Kochas (Erich Koch) ir Vokietijos konsulatas Klaipėdoje.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'Jos etnografiniame skyriuje Lietuvos lietuviai, kartu su tautiečiais iš Mažosios Lietuvos ir ypač padedami JAV lietuvių, paruošė ekspoziciją, kurioje išdėliojo lietuvių tautinių drabužių, žemės ūkio padargų, kitų daiktų, o svarbiausia – slapta Prūsijoje.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -96,7 +110,33 @@ Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmeči
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Jos etnografiniame skyriuje Lietuvos lietuviai, kartu su tautiečiais iš Mažosios Lietuvos ir ypač padedami JAV lietuvių, paruošė ekspoziciją, kurioje išdėliojo lietuvių tautinių drabužių, žemės ūkio padargų, kitų daiktų, o svarbiausia – slapta Prūsijoje.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Jos etnografiniame skyriuje Lietuvos lietuviai, kartu su tautie-
+    čiais iš Mažosios Lietuvos ir ypač padedami JAV lietuvių, paruošė ekspo-
+    ziciją, kurioje išdėliojo lietuvių tautinių drabužių, žemės ūkio padargų,
+    kitų daiktų, o svarbiausia – slapta Prūsijoje leidžiamos lietuvių spaudos
+
+    L I E T U V O S  I S T O R I J A
+    122
+    pavyzdžių. Taip pasauliui buvo pasiųsta žinia, kad caro valdžia draudžia
+    spaudą lietuvių – lotynų abėcėle ir kad yra tokia šalis – Lietuva.
+    Lietuvių tautinis atgimimas, laikęs savo priešu caro režimą, netrukus
+    atrado dar vieną – lenkų polonizatorius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XXI amžius]]
+
 ### Susiję objektai
 - [[objektai/vietos/Baltijos jūra]]
+- [[objektai/vietos/Mažoji Lietuva]]

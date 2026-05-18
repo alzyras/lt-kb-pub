@@ -6,6 +6,21 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1939 m.'
+  - '1940 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodo_grupes:
+  - 'XX a.'
+  - 'modernioji Lietuva'
+  - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1939'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -35,6 +50,10 @@ LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko
   teiginys: 'Merkio paskirti artimą krikščionims demokratams gen.'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: 'Merkį brutaliu elgesiu, absurdiškai kaltino Lietuvą antisovieti- 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 187 ne politika, nebūtais kareivių grobimais, neva jų tardymais ir kankinimais, nesama karine antisovietine sąjunga su Latvija ir.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -94,10 +113,31 @@ LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Merkį brutaliu elgesiu, absurdiškai kaltino Lietuvą antisovieti- 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 187 ne politika, nebūtais kareivių grobimais, neva jų tardymais ir kankinimais, nesama karine antisovietine sąjunga su Latvija ir.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Nuo pat pirmo susitikimo Maskvoje 1940 m. birželio 7 d. V. Molotovas
+    sukrėtė A. Merkį brutaliu elgesiu, absurdiškai kaltino Lietuvą antisovieti-
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    187
+    ne politika, nebūtais kareivių grobimais, neva jų tardymais ir kankinimais,
+    nesama karine antisovietine sąjunga su Latvija ir Estija, užkliuvo antiso-
+    vietinė karikatūra Lietuvos laikraštyje, netgi paties A.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
 ### Susiję objektai
-- [[objektai/asmenys/Juozas Urbšys]]
 - [[objektai/grupes/Lietuvos krikščionių demokratų partija]]
 - [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga]]
-- [[objektai/ivykiai/Maskvos kaltinimų Lietuvai ir A. Merkio derybų krizė (1940 m. gegužė-birželis)]]

@@ -694,6 +694,8 @@ tags:
 - [[objektai/grupes/Teutonai]]
 - [[objektai/vietos/Žemaičių kraštas]]
 - [[objektai/grupes/Kalavijuočių ordinas]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Rusėnai]]
 - [[objektai/grupes/Stačiatikiai]]
+- [[objektai/grupes/Valakai]]
 - [[objektai/asmenys/Vytautas]]

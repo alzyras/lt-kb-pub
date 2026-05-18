@@ -6,6 +6,19 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1920 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodo_grupes:
+  - 'modernioji Lietuva'
+  - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1920'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -40,6 +53,14 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
   teiginys: 'Sleževičiaus šūkio „Kova eina, ji eis iki Seimas bus sušauktas“, artimieji įkalbėjo A.'
   pagrindžia:
     - c-006
+- t-007
+  teiginys: 'Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną, L I E T U V O S I S T O R I J A 138 greitosiomis kūrė Lietuvos karines pajėgas, pirmieji Lietuvos daliniai, padedami saksų savanorių dalinių, stojo į ginkluotą kovą prieš Raudonąją.'
+  pagrindžia:
+    - c-007
+- t-008
+  teiginys: 'Sleževičiaus vaidmuo L I E T U V O S I S T O R I J A 144 nepriklausomybės kovose išskirtinis, nes jis pasiekė politinį susitarimą, konsolidavo centrinę administraciją ir pajungė vietos savivaldybes, pakvietė priešintis įsiveržėliams ir tautines mažumas, dėl.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -117,10 +138,52 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną, L I E T U V O S I S T O R I J A 138 greitosiomis kūrė Lietuvos karines pajėgas, pirmieji Lietuvos daliniai, padedami saksų savanorių dalinių, stojo į ginkluotą kovą prieš Raudonąją.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Nau-
+    joji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,
+
+    L I E T U V O S  I S T O R I J A
+    138
+    greitosiomis kūrė Lietuvos karines pajėgas, pirmieji Lietuvos daliniai, pa-
+    dedami saksų savanorių dalinių, stojo į ginkluotą kovą prieš Raudonąją
+    armiją ir pagaliau ją sustabdė fronto linijoje Kaunas–Alytus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: 'Sleževičiaus vaidmuo L I E T U V O S I S T O R I J A 144 nepriklausomybės kovose išskirtinis, nes jis pasiekė politinį susitarimą, konsolidavo centrinę administraciją ir pajungė vietos savivaldybes, pakvietė priešintis įsiveržėliams ir tautines mažumas, dėl.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    M. Sleževičiaus vaidmuo
+
+    L I E T U V O S  I S T O R I J A
+    144
+    nepriklausomybės kovose išskirtinis, nes jis pasiekė politinį susitarimą,
+    konsolidavo centrinę administraciją ir pajungė vietos savivaldybes, pa-
+    kvietė priešintis įsiveržėliams ir tautines mažumas, dėl to Lietuvos ka-
+    riuomenėje kovėsi ir žydų bei baltarusių savanoriai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/tikėjimas]]
+
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/daiktai/Ginklai ir ginkluotė]]

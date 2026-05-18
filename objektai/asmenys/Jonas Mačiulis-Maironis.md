@@ -6,6 +6,23 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1895 m.'
+  - '1944 m.'
+  - '1951 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodo_grupes:
+  - 'XX a.'
+  - 'naujieji laikai'
+  - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XIX'
+  - 'XX'
+  - 'XXI'
+date_start: '1895'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -40,6 +57,10 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
   teiginys: 'Krėvė-Mickevičius, išspausdinta jo, Jurgio Baltrušaičio, Balio Sruogos, Maironio, Vinco Mykolaičio-Putino ir kt.'
   pagrindžia:
     - c-006
+- t-007
+  teiginys: '“ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Joną Mačiulį-Maironį ir kt.) įamžinti savo šalies praeitį raštu.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -124,8 +145,30 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-007
+  santrauka: '“ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Joną Mačiulį-Maironį ir kt.) įamžinti savo šalies praeitį raštu.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    “
+    Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Joną
+    Mačiulį-Maironį ir kt.) įamžinti savo šalies praeitį raštu.
+    Apibendrinamojo pobūdžio istorijos darbai paprastai gimsta lūži-
+    niais valstybės raidos etapais ir išskirtinėmis progomis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIX amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
 ### Susiję objektai
+- [[objektai/asmenys/Simonas Daukantas]]
 - [[objektai/asmenys/V. Krėvė-Mickevičius]]
 - [[objektai/asmenys/Vincas Krėvė-Mickevičius]]

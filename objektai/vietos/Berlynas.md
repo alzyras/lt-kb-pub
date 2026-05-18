@@ -6,6 +6,17 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1936'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - vieta
@@ -41,6 +52,14 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   teiginys: 'Neturėdamos jokio pasirinkimo, trys Baltijos valstybės paruošė neutralumo įstatymą – Lietuva jį ratifikavo 1939 m. sausio 10 d. Tačiau užsienio politikoje pakitimų neįvyko ir Lietuva tęsė manevrus tarp Varšuvos, Maskvos ir Berlyno, stengdamasi neįsivelti į.'
   pagrindžia:
     - c-007
+- t-008
+  teiginys: 'Tačiau užsienio politikoje pakitimų neįvyko ir Lietuva tęsė manevrus tarp Varšuvos, Maskvos ir Berlyno, stengdamasi neįsivelti į karinį konfliktą.'
+  pagrindžia:
+    - c-008
+- t-009
+  teiginys: 'Naciams iš Berlyno neišleidus LAF vado K.'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -129,7 +148,42 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-008
+  santrauka: 'Tačiau užsienio politikoje pakitimų neįvyko ir Lietuva tęsė manevrus tarp Varšuvos, Maskvos ir Berlyno, stengdamasi neįsivelti į karinį konfliktą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tačiau užsienio politikoje pakitimų neįvyko ir Lietuva tęsė manevrus
+    tarp Varšuvos, Maskvos ir Berlyno, stengdamasi neįsivelti į karinį konf-
+    liktą. Kariuomenės vadas gen.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: 'Naciams iš Berlyno neišleidus LAF vado K.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Naciams iš Berlyno neišleidus LAF vado K. Škirpos, įkalinus jį „namų
+    arešte“, birželio 23 dieną sudarytos Laikinosios vyriausybės (LV) vadovu
+    tapo literatūros dėstytojas Juozas Ambrazevičius. LV vyravo krikščionių
+    demokratų pakraipos asmenys.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
 ### Susiję objektai
 - [[objektai/grupes/Baltijos valstybės]]
+- [[objektai/grupes/Laikinoji vyriausybė]]
+- [[objektai/ivykiai/Laikinosios vyriausybės sudarymas (1941 m. birželio 23 d.)]]

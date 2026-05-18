@@ -41,8 +41,3 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/kirilika rusiškas raidynas lotyniškasis raidynas]]
-- [[objektai/posakiai/„lenkų suartinimo su rusais“]]

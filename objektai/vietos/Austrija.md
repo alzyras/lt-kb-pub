@@ -100,6 +100,4 @@ Prie jų dar prisidėjo Austrijos Juozapas II. Čartoriskius, darančius reforma
 - [[temos/tikėjimas]]
 
 ### Susiję objektai
-- [[objektai/vietos/Peterburgas]]
-- [[objektai/ivykiai/Trečiojo Lenkijos ir Lietuvos valstybės padalijimo konvencijos pasirašymas]]
 - [[objektai/zodynas/jozefinizmas]]

@@ -6,6 +6,21 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1689 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodo_grupes:
+  - 'LDK'
+  - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XVI'
+  - 'XVII'
+  - 'XVIII'
+  - 'XXI'
+date_start: '1689'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - vieta
@@ -25,6 +40,10 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
   teiginys: 'LLV santvarka artima Naujiesiems laikams, prilygsta Olandijai (pradėjusiai kurti respublikinę santvarką antrojoje XVI a.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'L I E T U V O S I S T O R I J A 70 LLV santvarka artima Naujiesiems laikams, prilygsta Olandijai (pradėjusiai kurti respublikinę santvarką antrojoje XVI a.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -56,8 +75,31 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'L I E T U V O S I S T O R I J A 70 LLV santvarka artima Naujiesiems laikams, prilygsta Olandijai (pradėjusiai kurti respublikinę santvarką antrojoje XVI a.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    L I E T U V O S  I S T O R I J A
+    70
+    LLV santvarka artima Naujiesiems laikams, prilygsta Olandijai (pradė-
+    jusiai kurti respublikinę santvarką antrojoje XVI a. pusėje) ir pralenkia
+    Anglijos konstitucinę monarchiją, įsigalėjusią 1689 m. Tačiau tai, kad
+    LLV santvarka remiasi tik 7 proc.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XVI amžius]]
+- [[laikotarpiai/XVII amžius]]
+- [[laikotarpiai/XVIII amžius]]
+- [[laikotarpiai/XXI amžius]]
+
 ### Susiję objektai
 - [[objektai/vietos/Skandinavija]]
 - [[objektai/vietos/Šiaurės Europa]]

@@ -63,3 +63,6 @@ Romo Kalantos sušukta frazė siejama su susideginimo protestu prieš okupacinę
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
+
+### Susiję objektai
+- [[objektai/vietos/Kauno miesto sodas]]

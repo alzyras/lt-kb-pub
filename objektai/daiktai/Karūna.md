@@ -8,8 +8,27 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
+datos:
+  - '1251 m.'
+  - '1253 m.'
+  - '1350 m.'
+  - '1430 m.'
+  - '1930 m.'
+  - '1936 m.'
+  - '1978 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIII'
+  - 'XIV'
+  - 'XV'
+  - 'XX'
+  - 'XXI'
+date_start: '1251'
+date_end: '2026'
 patikimumas: 'vidutinis'
-periodas: viduramziai
 tags:
   - daiktas
   - dokumentas
@@ -144,6 +163,10 @@ Nenurodyta
   teiginys: 'O Mindaugas, karūnavęsis per Vokietijos vasalą – Livonijos ordiną, tapo ne imperatoriaus, o popiežiaus vasalu ir iš karto gavo teisę į savarankišką, tiesiai popiežiui pavaldžią vyskupiją.'
   pagrindžia:
     - c-027
+- t-023
+  teiginys: 'Gerbti ir garbinti Vytautą Didįjį, suaktualinus jo istorinį vaidmenį, tiko visiems: karvedys, laimėjęs Žalgirio mūšį, išplėtęs Lietuvą nuo jūrų iki jūrų, siekęs Lietuvai karaliaus karūnos, kurią „nugvelbė“ klastingi lenkai...'
+  pagrindžia:
+    - c-028
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -528,10 +551,31 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-022
+- c-028
+  santrauka: 'Gerbti ir garbinti Vytautą Didįjį, suaktualinus jo istorinį vaidmenį, tiko visiems: karvedys, laimėjęs Žalgirio mūšį, išplėtęs Lietuvą nuo jūrų iki jūrų, siekęs Lietuvai karaliaus karūnos, kurią „nugvelbė“ klastingi lenkai...'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Gerbti ir garbinti
+    Vytautą Didįjį, suaktualinus jo istorinį vaidmenį, tiko visiems: karvedys,
+    laimėjęs Žalgirio mūšį, išplėtęs Lietuvą nuo jūrų iki jūrų, siekęs Lietuvai
+    karaliaus karūnos, kurią „nugvelbė“ klastingi lenkai...
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-023
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dokumentas]]
+
+### Laikotarpiai
+- [[laikotarpiai/XIII amžius]]
+- [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XX amžius]]
 
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]

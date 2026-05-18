@@ -6,6 +6,19 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1940 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodo_grupes:
+  - 'XX a.'
+  - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1940'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -34,6 +47,10 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
   teiginys: 'Molotovo rankų ultimatumą – pareikalauta, kad Lietuva įsileistų papildomus, jokia sutartimi neribotus sovietų karinius dalinius, pakeistų vyriausybę į prosovietinę, nubaustų „kaltus“ pareigūnus ir duotų atsakymą iki birželio 15 dienos 10 val.'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: 'Molotovas sukrėtė A.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -99,12 +116,36 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Molotovas sukrėtė A.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Nuo pat pirmo susitikimo Maskvoje 1940 m. birželio 7 d. V. Molotovas
+    sukrėtė A. Merkį brutaliu elgesiu, absurdiškai kaltino Lietuvą antisovieti-
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    187
+    ne politika, nebūtais kareivių grobimais, neva jų tardymais ir kankinimais,
+    nesama karine antisovietine sąjunga su Latvija ir Estija, užkliuvo antiso-
+    vietinė karikatūra Lietuvos laikraštyje, netgi paties A.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/laiškas]]
 
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
 ### Susiję objektai
 - [[objektai/asmenys/Josifas Stalinas]]
 - [[objektai/asmenys/Juozas Urbšys]]
+- [[objektai/vietos/Maskva]]
 - [[objektai/ivykiai/Vilniaus perdavimo sutarties ir SSRS-Lietuvos savitarpio pagalbos sutarties pasirašymas (1939 m. spalio 10 d.)]]

@@ -6,6 +6,22 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1905 m.'
+  - '1919 m.'
+  - '1920 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodo_grupes:
+  - 'modernioji Lietuva'
+  - 'naujieji laikai'
+  - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1905'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -48,6 +64,14 @@ Kitokio požiūrio į Lietuvos perspektyvas laikėsi iš etninės Lietuvos kilus
   teiginys: 'Pilsudskis pareiškė, kad jo politika yra iš esmės taiki ir kad jis nepuls Lietuvos, kuri yra „tėvyninė“ šalis.'
   pagrindžia:
     - c-009
+- t-010
+  teiginys: 'Pilsudskis – buvusios L I E T U V O S I S T O R I J A 126 dvilypės Lenkijos ir Lietuvos valstybės atkūrimo šalininkas, tą dvilypumą dabar įsivaizdavęs lyg ir kaip federaciją, o pačią Lietuvą tarsi padalytą į tris dalis – vakarinę etniškai lietuvišką, vidurinę.'
+  pagrindžia:
+    - c-010
+- t-011
+  teiginys: 'Pilsudskis, pokario L I E T U V O S I S T O R I J A 132 Lenkijos vadovas, buvo kilęs iš Lietuvos dvarininkų ir vadino save lietuviu, dvarininkas Gabrielis Narutovičius (Gabriel Narutowicz) tapo Lenkijos prezidentu, o jo brolis Stanislovas Narutavičius – vienu.'
+  pagrindžia:
+    - c-011
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -155,8 +179,51 @@ Kitokio požiūrio į Lietuvos perspektyvas laikėsi iš etninės Lietuvos kilus
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-009
+- c-010
+  santrauka: 'Pilsudskis – buvusios L I E T U V O S I S T O R I J A 126 dvilypės Lenkijos ir Lietuvos valstybės atkūrimo šalininkas, tą dvilypumą dabar įsivaizdavęs lyg ir kaip federaciją, o pačią Lietuvą tarsi padalytą į tris dalis – vakarinę etniškai lietuvišką, vidurinę.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Pats J. Pilsudskis – buvusios
+
+    L I E T U V O S  I S T O R I J A
+    126
+    dvilypės Lenkijos ir Lietuvos valstybės atkūrimo šalininkas, tą dvilypumą
+    dabar įsivaizdavęs lyg ir kaip federaciją, o pačią Lietuvą tarsi padalytą į
+    tris dalis – vakarinę etniškai lietuvišką, vidurinę su Vilniumi ir Gardinu,
+    kaip lenkakalbę, ir rytinę su Minsku, kur būtų vietos ir baltarusių kalbai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+- c-011
+  santrauka: 'Pilsudskis, pokario L I E T U V O S I S T O R I J A 132 Lenkijos vadovas, buvo kilęs iš Lietuvos dvarininkų ir vadino save lietuviu, dvarininkas Gabrielis Narutovičius (Gabriel Narutowicz) tapo Lenkijos prezidentu, o jo brolis Stanislovas Narutavičius – vienu.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Nors kai kurie dvarininkai „senlietuviai“ parėmė
+    lietuvių aspiracijas, dauguma dėjo viltis į Lenkiją – J. Pilsudskis, pokario
+
+    L I E T U V O S  I S T O R I J A
+    132
+    Lenkijos vadovas, buvo kilęs iš Lietuvos dvarininkų ir vadino save lietu-
+    viu, dvarininkas Gabrielis Narutovičius (Gabriel Narutowicz) tapo Len-
+    kijos prezidentu, o jo brolis Stanislovas Narutavičius – vienu iš Lietuvos
+    nepriklausomybės kūrėjų, Lietuvos Tarybos nariu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
 ### Susiję objektai
 - [[objektai/asmenys/J. Pilsudskis]]
 - [[objektai/grupes/Lenkų socialistų partija]]

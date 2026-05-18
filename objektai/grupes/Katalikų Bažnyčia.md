@@ -6,6 +6,28 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1387 m.'
+  - '1439 m.'
+  - '1500 m.'
+  - '1515 m.'
+  - '1563 m.'
+  - '1565 m.'
+  - '1569 m.'
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'LDK'
+  - 'modernioji Lietuva'
+amziai:
+  - 'XIV'
+  - 'XV'
+  - 'XVI'
+  - 'XX'
+  - 'XXI'
+date_start: '1387'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - grupe
@@ -41,6 +63,14 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   teiginys: 'Lietuvos katalikai – ir pats Vilniaus vyskupas Valerijonas Protasevičius – stengėsi užbėgti už akių protestantų ketinimui įkurti kolegiją.'
   pagrindžia:
     - c-006
+- t-007
+  teiginys: 'Bažnyčios su dviem grakščiais, skirtingai dekoruotų tarpsnių bokštais tapo neatskiriamu katalikiškojo peizažo bruožu, žymėjo rytinę katalikybės, kartu ir Vidurio Europos ribą.'
+  pagrindžia:
+    - c-007
+- t-008
+  teiginys: '„Lenkų pradų“ kategorijai priskirta ir Katalikų bažnyčia, tačiau caro valdžia vien tarptautinės politikos sumetimais negalėjo imtis tiesioginės Katalikų bažnyčios likvidavimo akcijos.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -131,8 +161,44 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Bažnyčios su dviem grakščiais, skirtingai dekoruotų tarpsnių bokštais tapo neatskiriamu katalikiškojo peizažo bruožu, žymėjo rytinę katalikybės, kartu ir Vidurio Europos ribą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Bažnyčios su dviem grakščiais, skirtingai
+    dekoruotų tarpsnių bokštais tapo neatskiriamu katalikiškojo peizažo bruo-
+    žu, žymėjo rytinę katalikybės, kartu ir Vidurio Europos ribą. J.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: '„Lenkų pradų“ kategorijai priskirta ir Katalikų bažnyčia, tačiau caro valdžia vien tarptautinės politikos sumetimais negalėjo imtis tiesioginės Katalikų bažnyčios likvidavimo akcijos.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    „Lenkų pradų“ kategorijai priskirta ir Katalikų bažnyčia, tačiau caro
+    valdžia vien tarptautinės politikos sumetimais negalėjo imtis tiesioginės
+    Katalikų bažnyčios likvidavimo akcijos. Tad Bažnyčios veikla varžyta, ka-
+    talikai diskriminuojami ir viliojami į stačiatikybę. „Rusų pradų atkūrimo“
+    politikos šalininkai ginčijosi dėl taktikos etninių lietuvių atžvilgiu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XVI amžius]]
+- [[laikotarpiai/XX amžius]]
+
 ### Susiję objektai
 - [[objektai/asmenys/Kristijonas]]
 - [[objektai/zodynas/metropolija bažnytinė provincija]]

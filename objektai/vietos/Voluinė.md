@@ -11,6 +11,25 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
+datos:
+  - '1219 m.'
+  - '1350 m.'
+  - '1430 m.'
+  - '1930 m.'
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+  - 'viduramžiai'
+amziai:
+  - 'XIII'
+  - 'XIV'
+  - 'XV'
+  - 'XX'
+  - 'XXI'
+date_start: '1219'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - karalius
@@ -72,6 +91,18 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   teiginys: 'Labiausiai integruota į Lietuvos Didžiosios Kunigaikštijos gyvenimą tapo Voluinė, kurią Lietuvos didysis kunigaikštis Vytautas ėmė L I E T U V O S I S T O R I J A 46 laikyti tėvonijos dalimi.'
   pagrindžia:
     - c-014
+- t-015
+  teiginys: 'Vėliau Voluinė apskritai tapo šalutinių Gediminaičių šakų įsitvirtinimo erdve – čia tėvonijas sukūrė iš šių šakų kilę Sanguškos (Kovelis, vėliau Slavuta), Čartoriskiai (Klevanė), Vyšnioveckiai (Vyšnivecis) ir kiti, tą patį darė čia valdas įgiję didikai.'
+  pagrindžia:
+    - c-015
+- t-016
+  teiginys: 'Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Trakai ir Kaunas, pilis imta statyti ir toli nuo etninės Lietuvos, rusėniškose LDK žemėse: Juodojoje Rusioje (Gardinas, Naugardukas), Palenkėje (Melnikas, gal Brasta) ir net Voluinėje.'
+  pagrindžia:
+    - c-016
+- t-017
+  teiginys: 'Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ostrogiškis gotiką nunešė iki savo tėvonijos – Ukrainos Voluinėje.'
+  pagrindžia:
+    - c-017
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -242,10 +273,69 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-014
+- c-015
+  santrauka: 'Vėliau Voluinė apskritai tapo šalutinių Gediminaičių šakų įsitvirtinimo erdve – čia tėvonijas sukūrė iš šių šakų kilę Sanguškos (Kovelis, vėliau Slavuta), Čartoriskiai (Klevanė), Vyšnioveckiai (Vyšnivecis) ir kiti, tą patį darė čia valdas įgiję didikai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vėliau Voluinė apskritai tapo šalutinių Gedimi-
+    naičių šakų įsitvirtinimo erdve – čia tėvonijas sukūrė iš šių šakų kilę San-
+    guškos (Kovelis, vėliau Slavuta), Čartoriskiai (Klevanė), Vyšnioveckiai
+    (Vyšnivecis) ir kiti, tą patį darė čia valdas įgiję didikai Radvilos (Olyka)
+    ir Chodkevičiai (Mlynivas), pagaliau iš Voluinės, iš Ostroho buvo nepa-
+    prastai reikšmingą vaidmenį suvaidinę riurikaitiškos, taigi „ukrainietiš-
+    kos“ kilmės kunigaikščiai Ostrogiškiai.
+    Daugybė senovės imperijų žlugo palikdamos apie save tautų kalėjimų
+    atminimą, o tos, kurios nežlugo, virto tautų lydymosi katilais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
+- c-016
+  santrauka: 'Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Trakai ir Kaunas, pilis imta statyti ir toli nuo etninės Lietuvos, rusėniškose LDK žemėse: Juodojoje Rusioje (Gardinas, Naugardukas), Palenkėje (Melnikas, gal Brasta) ir net Voluinėje.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius,
+    Trakai ir Kaunas, pilis imta statyti ir toli nuo etninės Lietuvos, rusėniško-
+    se LDK žemėse: Juodojoje Rusioje (Gardinas, Naugardukas), Palenkėje
+    (Melnikas, gal Brasta) ir net Voluinėje (Luckas). Konfesijų paribio ar net
+    stačiatikių erdvėje atsirado ir gotikinių katalikų bažnyčių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016
+- c-017
+  santrauka: 'Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ostrogiškis gotiką nunešė iki savo tėvonijos – Ukrainos Voluinėje.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Kons-
+    tantinas Ostrogiškis gotiką nunešė iki savo tėvonijos – Ukrainos Voluinė-
+    je. Gotikinių LDK cerkvių stilius turi analogų ir rezidencijų architektūroje
+    (Myro pilis prie Nesvyžiaus), o kartu, atrodo, yra fenomenalus visos Euro-
+    pos kultūroje – tad labiausiai į rytus nutolusi gotika yra istorinėje Lietuvo-
+    je, tai yra europinės reikšmės riba.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/privilegija]]
+
+### Laikotarpiai
+- [[laikotarpiai/XIII amžius]]
+- [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XX amžius]]
 
 ### Susiję objektai
 - [[objektai/vietos/Braclavas]]

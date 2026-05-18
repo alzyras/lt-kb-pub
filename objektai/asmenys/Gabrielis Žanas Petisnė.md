@@ -42,4 +42,5 @@ Prancūzams lietuviai aiškins, kad sukilimas įvyko prieš vokiečius, o ne pri
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Klaipėda]]
 - [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]

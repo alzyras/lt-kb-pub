@@ -99,6 +99,7 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje]]
 - [[objektai/vietos/Estija]]
 - [[objektai/grupes/IV Seimas]]
 - [[objektai/ivykiai/IV Seimo rinkimai (1936 m. vasara)]]

@@ -6,6 +6,18 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1990 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodo_grupes:
+  - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1990'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - ivykis
@@ -40,6 +52,10 @@ Nenurodyta
   teiginys: 'Sąjūdį rėmė visa lietuvių tauta, jis buvo jos jėgos ir stiprybės šaltinis.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Sovietinį Lietuvos SSR herbą keičia Vytis 6 skyrius • D A I N U O J A N T I R E V O L I U C I J A 243 Sąjūdį rėmė visa lietuvių tauta, jis buvo jos jėgos ir stiprybės šaltinis.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -82,7 +98,36 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Sovietinį Lietuvos SSR herbą keičia Vytis 6 skyrius • D A I N U O J A N T I R E V O L I U C I J A 243 Sąjūdį rėmė visa lietuvių tauta, jis buvo jos jėgos ir stiprybės šaltinis.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Sovietinį Lietuvos SSR herbą keičia Vytis
+
+    6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A
+    243
+    Sąjūdį rėmė visa lietuvių tauta, jis buvo jos jėgos ir stiprybės šalti-
+    nis. Pasinaudojęs palankiomis aplinkybėmis ir pasirinkęs neginkluotos
+    kovos būdą, suvienijęs po savo vėliava įvairiausius visuomenės sluoks-
+    nius, Sąjūdis atvedė Lietuvą į laisvę, svariai prisidėjo prie SSRS, visos
+    komunistinės sistemos žlugimo. Šiaip jau romiems rusams irgi trūko
+    kantrybė, tiek metų klausantis komunistų melo apie būsimą komunizmo
+    rojų ir nė vienam jų pažadui netapus realybe, jų nebetenkino SSRS kaip
+    branduolinės ir kosmosą įsisavinusios supervalstybės aureolė, kurioje
+    senimas šypsosi bedantėmis burnomis, parduotuvėse tuščia, butai ankšti
+    arba tik statomi, viskam gauti eilės, talonai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
 ### Susiję objektai
 - [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1990 III 11)]]

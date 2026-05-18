@@ -6,6 +6,27 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1563 m.'
+  - '1573 m.'
+  - '1830 m.'
+  - '1858 m.'
+  - '1889 m.'
+  - '1899 m.'
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'LDK'
+  - 'modernioji Lietuva'
+  - 'naujieji laikai'
+amziai:
+  - 'XVI'
+  - 'XIX'
+  - 'XX'
+  - 'XXI'
+date_start: '1563'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - bajorija
@@ -60,6 +81,14 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
   teiginys: '1830 m. lapkričio pabaigoje Varšuvoje pasikėsinus prieš caro brolį, kuris buvo ir Lenkijos kariuomenės vadas, Varšuvą apėmė miestiečių sukilimas.'
   pagrindžia:
     - c-012
+- t-013
+  teiginys: '„Aušros“ idėjas toliau plėtojo 1889 m. pradėtas leisti žurnalas „Varpas“, įsteigtas Varšuvos lietuvių studentų draugijos „Lietuva“.'
+  pagrindžia:
+    - c-013
+- t-014
+  teiginys: 'Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis Peterburgas–Varšuva (vėliau nutiesiama atšaka per Kauną į Karaliaučių (Kenigsbergą), linija Liepoja–Romnai.'
+  pagrindžia:
+    - c-014
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -207,3 +236,46 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-012
+- c-013
+  santrauka: '„Aušros“ idėjas toliau plėtojo 1889 m. pradėtas leisti žurnalas „Varpas“, įsteigtas Varšuvos lietuvių studentų draugijos „Lietuva“.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    „Aušros“ idėjas toliau plėto-
+    jo 1889 m. pradėtas leisti žurnalas
+    „Varpas“, įsteigtas Varšuvos lie-
+    tuvių studentų draugijos „Lietu-
+    va“. Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka
+    (1858–1899), kuris vos netapo lenku, ir tik „Aušros“ numeris, patekęs jam į
+    rankas, veikiai ištaisė galvoseną ir paskatino „pasijusti lietuviu“.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+- c-014
+  santrauka: 'Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis Peterburgas–Varšuva (vėliau nutiesiama atšaka per Kauną į Karaliaučių (Kenigsbergą), linija Liepoja–Romnai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis
+    Peterburgas–Varšuva (vėliau nutiesiama atšaka per Kauną į Karaliaučių
+    (Kenigsbergą), linija Liepoja–Romnai. Devintajame dešimtmetyje nu-
+    tiesiamos pirmosios telefono linijos, XX a.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIX amžius]]
+- [[laikotarpiai/XVI amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
+### Susiję objektai
+- [[objektai/vietos/Kaunas]]

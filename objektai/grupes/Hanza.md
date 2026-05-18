@@ -16,9 +16,17 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 laikotarpis: 'XIII amž.; XIII amžius; XIII ir XIV amžiai; Vytauto laikai'
 datos:
-  - 'XIII amž'
-  - 'XIII amžius'
-  - 'XIII ir XIV amžiai'
+  - '1936 m.'
+  - '1978 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1936'
+date_end: '2026'
 patikimumas: 'aukštas'
 tags:
   - grupe
@@ -79,6 +87,11 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
     - c-008
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-009
+  teiginys: '“ Nors Lietuva yra geografinis Europos centras (o Kaunas buvo Hanzos miestas), ji dažnai laikoma Rytų Europos dalimi.'
+  pagrindžia:
+    - c-011
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Hanza yra vokiečių miestų sąjunga ir prekybos valdovė
@@ -211,8 +224,29 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
   pagrindžia:
     - t-001
     - t-001
+- c-011
+  santrauka: '“ Nors Lietuva yra geografinis Europos centras (o Kaunas buvo Hanzos miestas), ji dažnai laikoma Rytų Europos dalimi.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    “ Nors
+    Lietuva yra geografinis Europos centras (o Kaunas buvo Hanzos miestas),
+    ji dažnai laikoma Rytų Europos dalimi. Tokiais atvejais turima galvoje ne
+    tiek geografinė, kiek geopolitinė krašto padėtis: XIX–XX a.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
 ### Susiję objektai
 - [[objektai/grupes/Domininkonų ordinas]]
+- [[objektai/vietos/Kaunas]]
 - [[objektai/grupes/Pranciškonų ordinas]]
+- [[objektai/vietos/Rytų Europa]]

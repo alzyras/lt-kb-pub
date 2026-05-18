@@ -80,4 +80,5 @@ Tik penkių valstybių atstovai (Kolumbijos, Italijos, Paragvajaus, Persijos ir 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Ispanija]]
+- [[objektai/vietos/Vokietija]]
 - [[objektai/vietos/Šveicarija]]

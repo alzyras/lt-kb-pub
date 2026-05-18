@@ -12,23 +12,25 @@ saltiniai:
   - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
 bukle: juodrastis
 laikotarpis: "1940-1946 m. Lietuvos okupacijų kontekstas"
-datos:
-  - "1940"
-  - "1941"
-  - "1945"
-  - "1946"
-periodas: "siuolaikine_istorija"
-periodo_grupes:
-  - "sovietinė okupacija"
-  - "pokaris"
-amziai:
-  - "XX"
-date_start: "1940"
-date_end: "1946"
 vaidmenys:
   - "saugumo ir represinė institucija"
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1940 m.'
+  - '1941 m.'
+  - '1945 m.'
+  - '1946 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'okupacijų ir sovietmečio laikotarpis'
+periodo_grupes:
+  - 'XX a.'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1940'
+date_end: '2026'
 patikimumas: "vidutinis"
 tags: []
 ---
@@ -102,6 +104,10 @@ Sovietinė saugumo, vidaus reikalų ir represinė institucija bei kariuomenės s
   teiginys: 'Kovai su partizanais Lietuvoje dislokuota gausi NKVD kariuomenė: 1945 m. vasarą joje buvo iki 20 tūkst., 1946 m. – apie 14 tūkst.'
   pagrindžia:
     - c-003
+- t-010
+  teiginys: 'Sniečkus išleido įsakymą, leidžiantį suimti agituojančiuosius prieš Liaudies vyriausybę, patvirtintas Lietuvos politinių partijų, šaulių vadovybės „operatyvinės likvidacijos planas“, parengti numatytų suimti asmenų sąrašai, o sovietų NKVD kariuomenės daliniai.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 
@@ -158,12 +164,32 @@ Sovietinė saugumo, vidaus reikalų ir represinė institucija bei kariuomenės s
   pagrindžia:
     - t-008
     - t-009
+- c-007
+  santrauka: 'Sniečkus išleido įsakymą, leidžiantį suimti agituojančiuosius prieš Liaudies vyriausybę, patvirtintas Lietuvos politinių partijų, šaulių vadovybės „operatyvinės likvidacijos planas“, parengti numatytų suimti asmenų sąrašai, o sovietų NKVD kariuomenės daliniai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Sniečkus išleido įsakymą, leidžiantį suimti
+    agituojančiuosius prieš Liaudies vyriausybę, patvirtintas Lietuvos politi-
+    nių partijų, šaulių vadovybės „operatyvinės likvidacijos planas“, parengti
+    numatytų suimti asmenų sąrašai, o sovietų NKVD kariuomenės daliniai
+
+    L I E T U V O S  I S T O R I J A
+    194
+    turėjo neleisti tokiems pabėgti į Vokietiją.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
 
 ## Šaltiniai ir įrodymai
 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/ivykiai/Sovietinių represinių struktūrų kova su Lietuvos partizanais (1944–1954 m.)]]

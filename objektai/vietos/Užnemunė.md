@@ -6,6 +6,27 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1422 m.'
+  - '1806 m.'
+  - '1807 m.'
+  - '1815 m.'
+  - '1863 m.'
+  - '1867 m.'
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'LDK'
+  - 'modernioji Lietuva'
+  - 'naujieji laikai'
+amziai:
+  - 'XV'
+  - 'XIX'
+  - 'XX'
+  - 'XXI'
+date_start: '1422'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - vieta
@@ -49,6 +70,18 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
   teiginys: 'Iki 1807 m. Užnemunė priklausė Prūsijai, 1807–1814 m. – Napoleono Bonaparto įkurtai Varšuvos kunigaikštystei.'
   pagrindžia:
     - c-008
+- t-009
+  teiginys: 'Nors didžiosios etninės Lietuvos dalies raidos ir Užnemunės politinės sąlygos skyrėsi, modernios tautos formavimasis vyko ta pačia kryptimi.'
+  pagrindžia:
+    - c-009
+- t-010
+  teiginys: 'Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių kalbai paliekant disciplinos statusą (žinoma, mokyti lietuviškai reikėjo iš vadovėlių, parašytų kirilika).'
+  pagrindžia:
+    - c-010
+- t-011
+  teiginys: 'Jį atnaujino pobaudžiavinė inteligentų karta, Rusijos aukštųjų mokyklų auklėtiniai, kilę daugiausia iš Užnemunės krašto.'
+  pagrindžia:
+    - c-011
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -173,11 +206,67 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-009
+  santrauka: 'Nors didžiosios etninės Lietuvos dalies raidos ir Užnemunės politinės sąlygos skyrėsi, modernios tautos formavimasis vyko ta pačia kryptimi.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Nors didžiosios etninės
+    Lietuvos dalies raidos ir Užnemunės politinės sąlygos skyrėsi, modernios
+    tautos formavimasis vyko ta pačia kryptimi.
+    LDK branduolį sudariusių žemių prijungimas prie Rusijos valstiečių
+    padėties iš esmės nepakeitė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: 'Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių kalbai paliekant disciplinos statusą (žinoma, mokyti lietuviškai reikėjo iš vadovėlių, parašytų kirilika).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lie-
+    tuvių kalbai paliekant disciplinos statusą (žinoma, mokyti lietuviškai rei-
+    kėjo iš vadovėlių, parašytų kirilika). Kaip neprivaloma disciplina lietuvių
+    kalba įsileista ir į kelias Užnemunės vidurines mokyklas, Maskvos uni-
+    versitete paskirta dešimt valstybės stipendijų šių mokyklų auklėtiniams,
+    turintiems atestate lietuvių kalbos pažymį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+- c-011
+  santrauka: 'Jį atnaujino pobaudžiavinė inteligentų karta, Rusijos aukštųjų mokyklų auklėtiniai, kilę daugiausia iš Užnemunės krašto.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    “
+    Praėjus 20 metų nuo 1863 m. sukilimo etninių lietuvių
+    tautinis sąjūdis prasidėjo iš naujo. Jį atnaujino pobaudžiavinė inteligentų
+    karta, Rusijos aukštųjų mokyklų auklėtiniai, kilę daugiausia iš Užnemu-
+    nės krašto.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIX amžius]]
+- [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
 ### Susiję objektai
 - [[objektai/vietos/Augustavo gubernija]]
 - [[objektai/vietos/Klaipėda]]
+- [[objektai/vietos/Lietuvos Užnemunė]]
 - [[objektai/asmenys/Napoleonas Bonapartas]]
 - [[objektai/vietos/Naujoji Prūsija]]
 - [[objektai/vietos/Nemunas]]

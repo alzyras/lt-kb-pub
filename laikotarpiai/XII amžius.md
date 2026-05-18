@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 2.
+Objektų skaičius: 5.
 
 ## Kaip naudoti
 
@@ -20,6 +20,13 @@ Objektų skaičius: 2.
 
 ### Daiktai
 - [[objektai/daiktai/Sidabruotos geležinės balnakilpės]]
+
+### Grupės
+- [[objektai/grupes/Kryžiuočių ordinas]]
+
+### Vietos
+- [[objektai/vietos/Polockas]]
+- [[objektai/vietos/Pskovas]]
 
 ### Žodynas
 - [[objektai/zodynas/proistorė]]

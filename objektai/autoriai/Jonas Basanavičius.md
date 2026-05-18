@@ -9,16 +9,32 @@ variantai:
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 laikotarpis: '1851—1927 m.; 1882—1883 m.; 1913 m.'
-datos:
-  - '1851—1927 m.'
-  - '1882—1883 m.'
-  - '1913 m.'
 vaidmenys:
   - 'autorius'
   - 'redaktorius'
   - 'leidėjas'
   - 'Komiteto narys'
   - 'Lietuvos Tarybos narys'
+datos:
+  - '1851 m.'
+  - '1882 m.'
+  - '1883 m.'
+  - '1905 m.'
+  - '1912 m.'
+  - '1913 m.'
+  - '1914 m.'
+  - '1927 m.'
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
+periodo_grupes:
+  - 'naujieji laikai'
+amziai:
+  - 'XIX'
+  - 'XX'
+  - 'XXI'
+date_start: '1851'
+date_end: '2026'
 patikimumas: 'aukštas'
 tags:
   - autorius
@@ -99,6 +115,14 @@ Jonas Basanavičius rodomas kaip vienas svarbiausių lietuvių tautinio sąjūd�
   teiginys: 'Basanavičius, jau šiuo laikotarpiu lietuvių visuomenės laikytas tautos patriarchu.'
   pagrindžia:
     - c-012
+- t-013
+  teiginys: 'Tautos patriarchas dr. Jonas Basanavičius L I E T U V O S I S T O R I J A 120 Didžiulės reikšmės lietuvių tautinės savimonės plėtotei, plačiųjų lietuviškai kalbančio kaimo masių tautiniam krikštui, t.'
+  pagrindžia:
+    - c-013
+- t-014
+  teiginys: 'Basanavičius, Stasys Šilingas ir Donatas Malinauskas surašė vadinamąją Gintarinę deklaraciją, kuri rugpjūčio 4 dieną buvo paskelbta Rusijos Dūmoje (karą laimėjus lietuviai trokšta sujungti abi Lietuvas, esančias apie Nemuną – Didžiąją ir Mažąją (Rytų.'
+  pagrindžia:
+    - c-014
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -282,6 +306,40 @@ Jonas Basanavičius rodomas kaip vienas svarbiausių lietuvių tautinio sąjūd�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-012
+- c-013
+  santrauka: 'Tautos patriarchas dr. Jonas Basanavičius L I E T U V O S I S T O R I J A 120 Didžiulės reikšmės lietuvių tautinės savimonės plėtotei, plačiųjų lietuviškai kalbančio kaimo masių tautiniam krikštui, t.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tautos patriarchas dr. Jonas Basanavičius
+
+    L I E T U V O S  I S T O R I J A
+    120
+    Didžiulės reikšmės lietuvių tautinės savimonės plėtotei, plačiųjų lietu-
+    viškai kalbančio kaimo masių tautiniam krikštui, t.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+- c-014
+  santrauka: 'Basanavičius, Stasys Šilingas ir Donatas Malinauskas surašė vadinamąją Gintarinę deklaraciją, kuri rugpjūčio 4 dieną buvo paskelbta Rusijos Dūmoje (karą laimėjus lietuviai trokšta sujungti abi Lietuvas, esančias apie Nemuną – Didžiąją ir Mažąją (Rytų.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kai 1914 m.
+    liepą Vilniuje J. Basanavičius, Stasys Šilingas ir Donatas Malinauskas sura-
+    šė vadinamąją Gintarinę deklaraciją, kuri rugpjūčio 4 dieną buvo paskelb-
+    ta Rusijos Dūmoje (karą laimėjus lietuviai trokšta sujungti abi Lietuvas,
+    esančias apie Nemuną – Didžiąją ir Mažąją (Rytų Prūsiją), kad tokia Lie-
+    tuva norėtų gauti autonomiją Rusijos tautų šeimoje), rusai nutylėjo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -290,6 +348,7 @@ Jonas Basanavičius rodomas kaip vienas svarbiausių lietuvių tautinio sąjūd�
 ### Laikotarpiai
 - [[laikotarpiai/XIX amžius]]
 - [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/ivykiai/Amerikos lietuvių fondų ir komitetų kūrimas Lietuvos reikalams (1905–1913 m.)]]

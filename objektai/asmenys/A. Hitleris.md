@@ -6,6 +6,22 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1933 m.'
+  - '1934 m.'
+  - '1935 m.'
+  - '1939 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodo_grupes:
+  - 'modernioji Lietuva'
+  - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1933'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -35,6 +51,10 @@ Hitleris, o 1934 m. po perversmų įsitvirtino autoritariniai režimai Estijoje 
   teiginys: 'Hitlerio 50-mečio šventime, gegužę – maršalo Edvardo Rydzo-Smiglo (Edward Rydz-Śmigły) kvietimu oficialiai lankėsi Lenkijoje.'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: 'Tačiau prezidentas galėjo diktuoti vyriausybės darbus, tad opozicijos Adolfas Hitleris Klaipėdoje 1939 m. kovo 23 d. – jį sveikina vietos vokiečių nacių simpatikai ir SA smogikai 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 183 deleguotas.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -95,8 +115,30 @@ Hitleris, o 1934 m. po perversmų įsitvirtino autoritariniai režimai Estijoje 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Tačiau prezidentas galėjo diktuoti vyriausybės darbus, tad opozicijos Adolfas Hitleris Klaipėdoje 1939 m. kovo 23 d. – jį sveikina vietos vokiečių nacių simpatikai ir SA smogikai 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 183 deleguotas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tačiau prezidentas galėjo diktuoti vyriausybės darbus, tad opozicijos
+    Adolfas Hitleris Klaipėdoje 1939 m. kovo 23 d. –
+    jį sveikina vietos vokiečių nacių simpatikai ir SA smogikai
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    183
+    deleguotas ministras turėjo vykdyti jo užduotis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
 ### Susiję objektai
 - [[objektai/asmenys/Edvardas Rydzas-Smiglas]]
 - [[objektai/asmenys/Stasys Raštikis]]

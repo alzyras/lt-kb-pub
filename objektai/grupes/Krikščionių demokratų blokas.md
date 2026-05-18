@@ -6,6 +6,19 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1920 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodo_grupes:
+  - 'modernioji Lietuva'
+  - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1920'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - elekcija
@@ -36,6 +49,10 @@ Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos l
   teiginys: 'Tačiau krikščionių demokratų blokas, Katalikų veikimo centras (KVC) nuolat kvėpavo į pakaušį – tautininkai taip ir nesugebėjo monopolizuoti ideologinės ir organizacinės erdvės.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'L I E T U V O S I S T O R I J A 148 Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos laimėjo krikščionių demokratų blokas (jį sudarė trys partijos: Lietuvių krikščionių demokratų partija (LKDP), Lietuvos ūkininkų sąjunga (LŪS) ir.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -96,8 +113,29 @@ Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos l
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'L I E T U V O S I S T O R I J A 148 Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos laimėjo krikščionių demokratų blokas (jį sudarė trys partijos: Lietuvių krikščionių demokratų partija (LKDP), Lietuvos ūkininkų sąjunga (LŪS) ir.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    L I E T U V O S  I S T O R I J A
+    148
+    Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuo-
+    se, kuriuos laimėjo krikščionių demokratų blokas (jį sudarė trys partijos:
+    Lietuvių krikščionių demokratų partija (LKDP), Lietuvos ūkininkų są-
+    junga (LŪS) ir Lietuvos darbo federacija (LDF), joms atiteko 59 vietos).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
 ### Susiję objektai
 - [[objektai/grupes/III Seimas]]
 - [[objektai/grupes/Katalikų veikimo centras]]

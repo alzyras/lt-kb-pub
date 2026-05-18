@@ -6,6 +6,29 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1248 m.'
+  - '1558 m.'
+  - '1583 m.'
+  - '1605 m.'
+  - '1700 m.'
+  - '1721 m.'
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'LDK'
+  - 'modernioji Lietuva'
+  - 'viduramžiai'
+amziai:
+  - 'XIII'
+  - 'XVI'
+  - 'XVII'
+  - 'XVIII'
+  - 'XX'
+  - 'XXI'
+date_start: '1248'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - kunigaikštis
@@ -64,6 +87,10 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginys: 'Kova dėl Livonijos daugiausia buvo suinteresuota didesnio uosto neturėjusi Lietuva, nes Lenkija turėjo Gdansko uostą.'
   pagrindžia:
     - c-013
+- t-014
+  teiginys: 'Iškylanti Rusija Šiaurės karo metu (1700–1721) sutriuškino Švedijos karaliaus Karolio XII kariuomenę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki Rygos.'
+  pagrindžia:
+    - c-014
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -228,11 +255,39 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-013
+- c-014
+  santrauka: 'Iškylanti Rusija Šiaurės karo metu (1700–1721) sutriuškino Švedijos karaliaus Karolio XII kariuomenę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki Rygos.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Iškylanti Rusija Šiaurės karo
+    metu (1700–1721) sutriuškino Švedijos karaliaus Karolio XII kariuome-
+    nę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki
+    Rygos. Lietuva ir Lenkija šiame kare ekonomiškai ir politiškai nusilpo, jų
+    teritoriją nuniokojo svetimos ir savos kariuomenės, atsirado anarchijos
+
+    L I E T U V O S  I S T O R I J A
+    88
+    apraiškų ir magnatų tarpusavio kovų, be to, švedai sugriovė nedidelius
+    Lietuvos uostus Palangoje ir Šventojoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIII amžius]]
+- [[laikotarpiai/XVI amžius]]
+- [[laikotarpiai/XVII amžius]]
+- [[laikotarpiai/XVIII amžius]]
+
 ### Susiję objektai
 - [[objektai/vietos/Gdanskas]]
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Talinas]]
 - [[objektai/vietos/Tartai]]
 - [[objektai/vietos/Voluinė]]
+- [[objektai/vietos/Švedija]]

@@ -6,6 +6,21 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1788 m.'
+  - '1791 m.'
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'LDK'
+  - 'modernioji Lietuva'
+amziai:
+  - 'XVIII'
+  - 'XX'
+  - 'XXI'
+date_start: '1788'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - grupe
@@ -40,6 +55,10 @@ Tatai buvo daroma 1788—1792 m. ketverių metų, arba reformų, seime. Šitaip 
   teiginys: 'Nuo 1788 m. pradėjęs posėdžiauti didysis Ketverių metų seimas priėmė Gegužės trečiosios konstituciją.'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: '2 skyrius • L E N K I J O S I R L I E T U V O S VA L S T Y B I Ų J U N G T U V Ė S 91 Gegužės trečiosios konstitucija ir Abiejų Tautų tarpusavio įžadas Nuo 1788 m. pradėjęs posėdžiauti didysis Ketverių metų seimas priėmė Gegužės trečiosios konstituciją.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -117,8 +136,32 @@ Tatai buvo daroma 1788—1792 m. ketverių metų, arba reformų, seime. Šitaip 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: '2 skyrius • L E N K I J O S I R L I E T U V O S VA L S T Y B I Ų J U N G T U V Ė S 91 Gegužės trečiosios konstitucija ir Abiejų Tautų tarpusavio įžadas Nuo 1788 m. pradėjęs posėdžiauti didysis Ketverių metų seimas priėmė Gegužės trečiosios konstituciją.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S
+    91
+    Gegužės trečiosios konstitucija ir
+    Abiejų Tautų tarpusavio įžadas
+    Nuo 1788 m. pradėjęs posėdžiauti didysis Ketverių metų
+    seimas priėmė Gegužės trečiosios konstituciją. Prieš tai Seimas ėmėsi la-
+    bai svarbių socialinių reformų – pirmą kartą bandyta miestiečių luomui
+    suteikti beveik lygias teises su bajorais ar bent pradėti šį procesą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XVIII amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
 ### Susiję objektai
 - [[objektai/ivykiai/Ketverių metų seimas (1788–1792 m.)]]
 - [[objektai/vietos/Paulava]]

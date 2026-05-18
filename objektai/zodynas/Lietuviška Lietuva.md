@@ -6,6 +6,16 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodo_grupes:
+  - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XXI'
+date_start: '2013'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - sąvoka
@@ -27,6 +37,10 @@ Per nepilnus du dešimtmečius Lietuva galutinai tapo lietuviška, jos nebegalė
   teiginys: 'Lietuviška Lietuva, nors tarpais be Vilniaus ar Klaipėdos – didžiausias tautos kūrėjų pasiekimas, be kurio šiandieninė Lietuva vargiai būtų tokia, kokia yra.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Lietuvos vyrų krepšinio rinktinė antrą kartą tapo Europos čempionais 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 177 Lietuviška Lietuva, nors tarpais be Vilniaus ar Klaipėdos – didžiausias tautos kūrėjų pasiekimas, be kurio šiandieninė.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -59,3 +73,30 @@ Per nepilnus du dešimtmečius Lietuva galutinai tapo lietuviška, jos nebegalė
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Lietuvos vyrų krepšinio rinktinė antrą kartą tapo Europos čempionais 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 177 Lietuviška Lietuva, nors tarpais be Vilniaus ar Klaipėdos – didžiausias tautos kūrėjų pasiekimas, be kurio šiandieninė.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuvos vyrų
+    krepšinio rinktinė antrą kartą tapo Europos čempionais
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    177
+    Lietuviška Lietuva, nors tarpais be Vilniaus ar Klaipėdos – didžiausias
+    tautos kūrėjų pasiekimas, be kurio šiandieninė Lietuva vargiai būtų tokia,
+    kokia yra. Gana tipiškas to meto Europai A.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XXI amžius]]
+
+### Susiję objektai
+- [[objektai/asmenys/A. Smetona]]
+- [[objektai/asmenys/Antanas Smetona]]

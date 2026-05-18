@@ -9,13 +9,24 @@ aliases: []
 saltiniai:
   - "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   - "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean"
-datos:
-  - "1253 m."
-periodo_grupes: []
-amziai: []
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1253 m.'
+  - '1936 m.'
+  - '1989 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+  - 'XX a.'
+amziai:
+  - 'XIII'
+  - 'XX'
+  - 'XXI'
+date_start: '1253'
+date_end: '2026'
 patikimumas: "vidutinis"
 tags: []
 ---
@@ -36,6 +47,11 @@ Priėjimas prie Rygos Dauguvos upe taip pat buvo gana sunkus, — čia irgi truk
   teiginys: 'Kai 1621 m. Ryga atiteko Švedams, laisvajai prekybai užsidarė ir šis kelias.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'LPS staigus populiarumas ir masiškumas (Lietuvoje nebuvo kampelio, kuriame nebūtų įsikūręs Sąjūdžio skyrius ar Gyvasis Baltijos kelias – rankomis susikibusių žmonių grandinė Vilnius–Ryga–Talinas.1989 m. rugpjūčio 23 d. A.'
+  pagrindžia:
+    - c-005
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Ryga buvo išgelbėta, Livonija atvaduota.'
@@ -79,6 +95,30 @@ Priėjimas prie Rygos Dauguvos upe taip pat buvo gana sunkus, — čia irgi truk
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'LPS staigus populiarumas ir masiškumas (Lietuvoje nebuvo kampelio, kuriame nebūtų įsikūręs Sąjūdžio skyrius ar Gyvasis Baltijos kelias – rankomis susikibusių žmonių grandinė Vilnius–Ryga–Talinas.1989 m. rugpjūčio 23 d. A.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    LPS staigus populiarumas ir masiškumas
+    (Lietuvoje nebuvo kampelio, kuriame nebūtų įsikūręs Sąjūdžio skyrius ar
+    Gyvasis Baltijos kelias – rankomis susikibusių žmonių
+    grandinė Vilnius–Ryga–Talinas.1989 m. rugpjūčio 23 d.
+    A. Petrovo nuotrauka
+
+    6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A
+    239
+    iniciatyvinė grupė), jo pasiekti rezultatai pirmiausia priverčiant LSSR AT
+    priimti Lietuvai palankius sprendimus, parodė didelį Lietuvos gyventojų
+    sąmoningumą ir apsisprendimą reikalauti dar didesnių nuolaidų iš Mas-
+    kvos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+
 ## Pavadinimai šaltiniuose
 
 - Ryga
@@ -91,9 +131,13 @@ Priėjimas prie Rygos Dauguvos upe taip pat buvo gana sunkus, — čia irgi truk
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIII amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/vietos/Dancigas]]
 - [[objektai/vietos/Latgala]]
 - [[objektai/vietos/Padauguvis]]
 - [[objektai/vietos/Salaspilis]]
+- [[objektai/ivykiai/Baltijos kelias ir Molotovo–Ribentropo pakto padarinių pasmerkimas (1989 m.)]]
+- [[objektai/vietos/Talinas]]

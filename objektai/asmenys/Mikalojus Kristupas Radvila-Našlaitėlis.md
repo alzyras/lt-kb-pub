@@ -9,17 +9,22 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 bukle: juodrastis
 laikotarpis: ''
-datos:
-  - '1575 m.'
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
 vaidmenys:
   - 'didikas'
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1575 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVI'
+  - 'XXI'
+date_start: '1575'
+date_end: '2026'
 patikimumas: aukštas
 tags:
   - didikas
@@ -43,6 +48,10 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Prasidėjus kontrreformacijai į knygų spausdinimą įsitraukė katalikai – Mikalojaus Radvilos Juodojo sūnus Mikalojus Kristupas Radvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m. perkėlė į Vilnių ir atidavė besikuriančiam jėzuitų universitetui.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -62,6 +71,22 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
   pagrindžia:
     - t-001
     - t-002
+- c-002
+  santrauka: 'Prasidėjus kontrreformacijai į knygų spausdinimą įsitraukė katalikai – Mikalojaus Radvilos Juodojo sūnus Mikalojus Kristupas Radvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m. perkėlė į Vilnių ir atidavė besikuriančiam jėzuitų universitetui.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Prasidėjus kontrreformacijai į knygų spausdinimą įsitraukė
+    katalikai – Mikalojaus Radvilos Juodojo sūnus Mikalojus Kristupas Ra-
+    dvila-Našlaitėlis, grįžęs į katalikybę, Brastos spaustuvę 1575 m. perkėlė į
+    Vilnių ir atidavė besikuriančiam jėzuitų universitetui. Knygų spausdini-
+    mas Lietuvoje virto nenutrūkstamu procesu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -69,6 +94,7 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
 
 ### Laikotarpiai
 - [[laikotarpiai/XVI amžius]]
+- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/vietos/Brasta]]

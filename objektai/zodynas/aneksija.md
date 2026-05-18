@@ -84,3 +84,4 @@ Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat s
 - [[objektai/ivykiai/Liaudies seimo rinkimai (1940 m. liepos 14-15 d.)]]
 - [[objektai/ivykiai/Lietuvos delegacijos prašymas Maskvoje įeiti į SSRS sudėtį (1940 m. rugpjūčio 3 d.)]]
 - [[objektai/grupes/Lietuvos komunistų partija]]
+- [[objektai/vietos/Maskva]]

@@ -6,6 +6,22 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1933 m.'
+  - '1934 m.'
+  - '1935 m.'
+  - '1938 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodo_grupes:
+  - 'modernioji Lietuva'
+  - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1933'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -34,6 +50,10 @@ tags:
   teiginys: 'Girėno žygdarbį ir t.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'GusTransatlantiniai lakūnai Steponas Darius ir Stasys Girėnas 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 175 taičio, 1934 m.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -81,10 +101,32 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'GusTransatlantiniai lakūnai Steponas Darius ir Stasys Girėnas 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 175 taičio, 1934 m.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Gus-
+    Transatlantiniai lakūnai
+    Steponas Darius ir Stasys Girėnas
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    175
+    taičio, 1934 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/laiškas]]
+
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/asmenys/S. Darius]]

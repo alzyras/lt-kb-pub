@@ -13,13 +13,32 @@ saltiniai:
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 laikotarpis: 'XV amžius; XVI amžius'
-datos: []
-amziai:
-  - 'XV'
-  - 'XVI'
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1350 m.'
+  - '1413 m.'
+  - '1430 m.'
+  - '1525 m.'
+  - '1586 m.'
+  - '1626 m.'
+  - '1634 m.'
+  - '1930 m.'
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+  - 'XV'
+  - 'XVI'
+  - 'XVII'
+  - 'XX'
+  - 'XXI'
+date_start: '1350'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - grupe
@@ -98,6 +117,10 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   teiginys: 'Vienas jų tada rašė: „Reikia taip pat neužmiršti, kad čia mums plačiai atsiveria durys į Maskoviją, o iš jos per totorius galėsime pasiekti ir Kiniją.'
   pagrindžia:
     - c-020
+- t-014
+  teiginys: 'L I E T U V O S I S T O R I J A 72 LDK iki unijos su Lenkija savo kultūrine ir konfesine įvairove lenkė Lenkiją ir jungtinėje valstybėje šią įvairovę padidino (pavyzdžiui, turėdama totorių musulmonų, kurių iki tol Lenkijoje nebuvo).'
+  pagrindžia:
+    - c-021
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -380,11 +403,30 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-013
+- c-021
+  santrauka: 'L I E T U V O S I S T O R I J A 72 LDK iki unijos su Lenkija savo kultūrine ir konfesine įvairove lenkė Lenkiją ir jungtinėje valstybėje šią įvairovę padidino (pavyzdžiui, turėdama totorių musulmonų, kurių iki tol Lenkijoje nebuvo).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    L I E T U V O S  I S T O R I J A
+    72
+    LDK iki unijos su Lenkija savo kultūrine ir konfesine įvairove len-
+    kė Lenkiją ir jungtinėje valstybėje šią įvairovę padidino (pavyzdžiui,
+    turėdama totorių musulmonų, kurių iki tol Lenkijoje nebuvo). LDK, tu-
+    rinti dešimt skirtingų konfesijų, XVI a.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
 
 ## Ryšiai
 ### Laikotarpiai
+- [[laikotarpiai/XIV amžius]]
 - [[laikotarpiai/XV amžius]]
 - [[laikotarpiai/XVI amžius]]
+- [[laikotarpiai/XVII amžius]]
 
 ### Susiję objektai
 - [[objektai/autoriai/Andrius Rudamina]]

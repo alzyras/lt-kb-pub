@@ -10,6 +10,15 @@ susije_irasai:
   - '[[Nemunas]]'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1936 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+date_start: '1936'
+date_end: ''
 tags:
   - vieta
 ---
@@ -78,6 +87,18 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   teiginys: 'Tarp jų į Klaipėdą žygiavo 40 reguliariosios kariuomenės karininkų ir 584 kariai, kiti – šauliai, studentai ir apie 300 vietinių gyventojų, tarp jų keli vokiečiai, kaip įrodymas sąjungininkams, kad sukilo vietiniai.'
   pagrindžia:
     - c-013
+- t-012
+  teiginys: 'Pagal Versalio sutartį Klaipėdą valdė prancūzų administracija, remiama bataliono prancūzų pėstininkų.'
+  pagrindžia:
+    - c-014
+- t-013
+  teiginys: 'Žygis į Klaipėdą įvyko sklandžiai, Kaunas jį pristatė kaip vietinių sukilimą, juoba kad ir vietos vokiečiai neprieštaravo.'
+  pagrindžia:
+    - c-015
+- t-014
+  teiginys: 'Galima sakyti, kad dvi svarbiausios užsienio politikos problemos – Vilniaus ir Klaipėdos, – lėmė ir Lietuvos žydų bei lenkų padėtį.'
+  pagrindžia:
+    - c-016
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -234,11 +255,60 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-011
+- c-014
+  santrauka: 'Pagal Versalio sutartį Klaipėdą valdė prancūzų administracija, remiama bataliono prancūzų pėstininkų.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuviams mainų principas netiko, nes Vilnius – senoji sostinė, tačiau
+    uostas labai rūpėjo. Pagal Versalio sutartį Klaipėdą valdė prancūzų admi-
+    nistracija, remiama bataliono prancūzų pėstininkų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+- c-015
+  santrauka: 'Žygis į Klaipėdą įvyko sklandžiai, Kaunas jį pristatė kaip vietinių sukilimą, juoba kad ir vietos vokiečiai neprieštaravo.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Žygis į Klaipėdą įvyko sklandžiai, Kaunas jį
+    pristatė kaip vietinių sukilimą, juoba kad ir vietos vokiečiai nepriešta-
+    ravo. Prancūzams lietuviai aiškins, kad sukilimas įvyko prieš vokiečius,
+    o ne prieš Gabrielio Žano Petisnė (Gabriel Jean Petisne) administraciją.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+- c-016
+  santrauka: 'Galima sakyti, kad dvi svarbiausios užsienio politikos problemos – Vilniaus ir Klaipėdos, – lėmė ir Lietuvos žydų bei lenkų padėtį.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Galima sakyti, kad dvi svarbiausios užsienio politikos problemos –
+    Vilniaus ir Klaipėdos, – lėmė ir Lietuvos žydų bei lenkų padėtį. Netu-
+    rinčią savo stiprios vadovaujančios vidurinės klasės, nedidelę lietuvių
+    inteligentijos grupę domino žydų parama, ypač jeigu Lietuva atsikurtų
+    su sostine Vilniumi.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+
 ### Susiję objektai
 - [[objektai/vietos/Nemunas]]
 - [[objektai/vietos/Žemaitija]]
+- [[objektai/asmenys/Gabrielis Žanas Petisnė]]
 - [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]
 - [[objektai/vietos/Užnemunė]]
 - [[objektai/zodynas/fait accompli]]

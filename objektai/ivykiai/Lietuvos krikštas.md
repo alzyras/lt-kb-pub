@@ -9,6 +9,23 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1387 m.'
+  - '1403 m.'
+  - '1936 m.'
+  - '1978 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'LDK'
+  - 'modernioji Lietuva'
+amziai:
+  - 'XIV'
+  - 'XV'
+  - 'XX'
+  - 'XXI'
+date_start: '1387'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - krikštas
@@ -65,6 +82,10 @@ Nenurodyta
   teiginys: 'Ryškiausios permainos po krikšto buvo išorinės.'
   pagrindžia:
     - c-010
+- t-009
+  teiginys: 'Taigi feodaliniai santykiai įgijo idėjinį pagrindą, 1 skyrius • S E N O J I L I E T U VA 43 Lietuva paskutinė ir pėsčia valstybė alegoriniame Europos šalių žygyje prie kryžiaus.'
+  pagrindžia:
+    - c-011
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -216,8 +237,34 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-011
+  santrauka: 'Taigi feodaliniai santykiai įgijo idėjinį pagrindą, 1 skyrius • S E N O J I L I E T U VA 43 Lietuva paskutinė ir pėsčia valstybė alegoriniame Europos šalių žygyje prie kryžiaus.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Savaip transformuota artimo meilės idėja atsispindi
+    senjoro ir pavaldinio santykiuose, ypač tai pasakytina apie senjoro atsa-
+    komybę už pavaldinio išganymą. Vadinasi, pavaldiniui nurodoma, kokį
+    tikėjimą jis turi išpažinti. Taigi feodaliniai santykiai įgijo idėjinį pagrindą,
+
+    1 skyrius •  S E N O J I  L I E T U VA
+    43
+    Lietuva paskutinė ir pėsčia valstybė alegoriniame Europos šalių
+    žygyje prie kryžiaus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
 ### Susiję objektai
 - [[objektai/paprociai/Lietuvos krikšto apeigos]]
 - [[objektai/ivykiai/Lietuvos krikštas (1387 m.)]]

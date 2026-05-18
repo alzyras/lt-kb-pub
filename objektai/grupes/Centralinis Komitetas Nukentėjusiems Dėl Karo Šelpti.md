@@ -204,7 +204,8 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
   citata_originali: |
     Per karą daugeliui gyventojų likus be namų ir lėšų, atsiradus minioms
     padegėlių ir benamių, susikūrė draugija nuo karo nukentėjusiesiems šelp-
-    ti.
+    ti. Jos vadovas A. Smetona, siekdamas kompromiso, į jos veiklą įtraukė
+    kairės ir liberalų lyderius.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -218,5 +219,4 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
 - [[laikotarpiai/XX amžius]]
 
 ### Susiję objektai
-- [[objektai/asmenys/A. Smetona]]
 - [[objektai/asmenys/Antanas Smetona]]

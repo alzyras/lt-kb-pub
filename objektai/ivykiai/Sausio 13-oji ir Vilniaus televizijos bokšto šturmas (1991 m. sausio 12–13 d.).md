@@ -6,6 +6,21 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1940 m.'
+  - '1967 m.'
+  - '1991 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodo_grupes:
+  - 'XX a.'
+  - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1940'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - ivykis
@@ -48,6 +63,14 @@ Nenurodyta
   teiginys: 'Įvykiai prie televizijos bokšto sukrėtė visą Lietuvą ir nuskambėjo po visą pasaulį.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: '6 skyrius • D A I N U O J A N T I R E V O L I U C I J A 245 Atkuriamojo Seimo vadovybei pakvietus, sausio 12 dienos vakare minios vilniečių ir iš kitų Lietuvos vietų atvykusių žmonių rinkosi budėti prie parlamento rūmų, Lietuvos radijo ir televizijos.'
+  pagrindžia:
+    - c-005
+- t-006
+  teiginys: '“ Įvykiai prie televizijos bokšto sukrėtė visą Lietuvą ir nuskambėjo po visą pasaulį.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -107,8 +130,57 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: '6 skyrius • D A I N U O J A N T I R E V O L I U C I J A 245 Atkuriamojo Seimo vadovybei pakvietus, sausio 12 dienos vakare minios vilniečių ir iš kitų Lietuvos vietų atvykusių žmonių rinkosi budėti prie parlamento rūmų, Lietuvos radijo ir televizijos.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A
+    245
+    Atkuriamojo Seimo vadovybei pakvietus, sausio 12 dienos vakare mi-
+    nios vilniečių ir iš kitų Lietuvos vietų atvykusių žmonių rinkosi budėti prie
+    parlamento rūmų, Lietuvos radijo ir televizijos, televizijos bokšto. Aplink
+    AT-AS pastatą statomos betoninės sienos ir spygliuotų vielų užtvaros. Apie
+    12 val. nakties sovietų tankai ir šarvuočiai apsiautė televizijos bokštą bei
+    Lietuvos radijo ir televizijos komiteto pastatą, kurį tik savo kūnais gynė
+    daugiatūkstantinė taikių Lietuvos gyventojų minia.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: '“ Įvykiai prie televizijos bokšto sukrėtė visą Lietuvą ir nuskambėjo po visą pasaulį.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    “
+    Įvykiai prie televizijos bokšto sukrėtė visą Lietuvą ir nuskambėjo po
+    visą pasaulį. Laidojant sausio 13-osios aukas, solidarumo su Lietuva
+    varpai skambėjo Latvijoje, Estijoje, Suomijoje, Švedijoje, Norvegijoje ir
+    kitose Europos šalyse. Šv. Mišios už Lietuvą buvo aukojamos Paryžiaus
+    Dievo Motinos katedroje ir daugelyje pasaulio bažnyčių. Po 1991 m. sau-
+    sio 13-osios įvykių į Vilnių atvykusi akademiko A. Sacharovo žmona ir
+    bendražygė Jelena Boner (Jelena Bonner) mitinge kalbėjo, jog iš lietuvių
+    mokosi Rusijos ir kitų respublikų demokratai. 1991 m. kovą daugiau nei
+    200 tūkst. demonstracijoje dalyvavusių maskviečių skandavo šūkius „Ša-
+    lin rankas nuo Lietuvos“, „Gorbačiovai, atsistatydink!“
+    Lietuvos gyventojai, tragiškomis dienomis ištisas paras budėję prie
+    tautos širdies – Lietuvos parlamento, – sugebėjo atsilaikyti prieš ginkluo-
+    tą jėgą, taikiomis priemonėmis sustabdė beįsibėgėjančią sovietų agresiją.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
 ### Susiję objektai
 - [[objektai/ivykiai/Sausio 13-oji (1991 m.)]]
 - [[objektai/daiktai/Sausio 13-osios gynybinės barikados]]

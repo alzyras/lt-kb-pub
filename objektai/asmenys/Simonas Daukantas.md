@@ -6,6 +6,27 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1793 m.'
+  - '1801 m.'
+  - '1822 m.'
+  - '1848 m.'
+  - '1850 m.'
+  - '1864 m.'
+  - '1875 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodo_grupes:
+  - 'LDK'
+  - 'naujieji laikai'
+  - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XVIII'
+  - 'XIX'
+  - 'XXI'
+date_start: '1793'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -36,6 +57,10 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
   teiginys: 'Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi, o M.'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: '“ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Joną Mačiulį-Maironį ir kt.) įamžinti savo šalies praeitį raštu.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -106,12 +131,34 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: '“ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Joną Mačiulį-Maironį ir kt.) įamžinti savo šalies praeitį raštu.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    “
+    Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Joną
+    Mačiulį-Maironį ir kt.) įamžinti savo šalies praeitį raštu.
+    Apibendrinamojo pobūdžio istorijos darbai paprastai gimsta lūži-
+    niais valstybės raidos etapais ir išskirtinėmis progomis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dokumentas]]
 
+### Laikotarpiai
+- [[laikotarpiai/XIX amžius]]
+- [[laikotarpiai/XVIII amžius]]
+- [[laikotarpiai/XXI amžius]]
+
 ### Susiję objektai
+- [[objektai/asmenys/Jonas Mačiulis-Maironis]]
 - [[objektai/autoriai/Motiejus Valančius]]
 - [[objektai/autoriai/S. Daukantas]]
 - [[objektai/posakiai/„Šlovė žemaičių“]]

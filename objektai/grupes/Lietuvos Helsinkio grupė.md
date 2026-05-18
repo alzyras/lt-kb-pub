@@ -6,6 +6,20 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1976 m.'
+  - '1988 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodo_grupes:
+  - 'XX a.'
+  - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1976'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - dokumentas
@@ -31,6 +45,10 @@ tags:
   teiginys: 'Iki atgimimo laikotarpio 1988 m. Lietuvos Helsinkio grupė parengė, nelegalioje spaudoje paskelbė ir Vakarų valstybėms išsiuntė per 50 dokumentų, išryškinančių sovietų valdžios politiką Lietuvoje.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'Iš kairės kunigai: Vincentas Vėlavičius, Alfonsas Svarinskas, Sigitas Tamkevičius, Juozas Zdebskis, Jonas Kauneckas L I E T U V O S I S T O R I J A 230 Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios Helsinkio Baigiamojo akto.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -77,12 +95,38 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Iš kairės kunigai: Vincentas Vėlavičius, Alfonsas Svarinskas, Sigitas Tamkevičius, Juozas Zdebskis, Jonas Kauneckas L I E T U V O S I S T O R I J A 230 Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios Helsinkio Baigiamojo akto.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Iš kairės kunigai: Vincentas Vėlavičius,
+    Alfonsas Svarinskas, Sigitas Tamkevičius,
+    Juozas Zdebskis, Jonas Kauneckas
+
+    L I E T U V O S  I S T O R I J A
+    230
+    Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėju-
+    sios Helsinkio Baigiamojo akto nuostatų įgyvendinimą, informavusios ki-
+    tas valstybes apie žmogaus teisių pažeidimus. 1976 m. gegužės 12 d. įkurta
+    pirmoji Maskvos Helsinkio grupė (vadovas Jurijus Orlovas), o rudenį pa-
+    naši grupė įsikūrė Vilniuje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/aktas]]
 - [[temos/dokumentas]]
 - [[temos/aktas - dokumentas]]
+
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/asmenys/Andrejus Sacharovas]]

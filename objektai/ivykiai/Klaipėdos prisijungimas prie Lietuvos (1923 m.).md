@@ -6,15 +6,21 @@ variantai: ["Klaipėdos prisijungimas", "Klaipėdos sukilimas", "žygis į Klaip
 aliases: ["Klaipėdos prisijungimas", "Klaipėdos sukilimas", "žygis į Klaipėdą", "akcija Klaipėdoje"]
 saltiniai:
   - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-bukle: paskelbta
-laikotarpis: "1923 m. sausio 6 d.; 1923 m. sausio 9 d.; 1923 m. sausio 17 d.; 1923 m. sausio 24 d.; 1923 m. vasario 17 d."
-datos: ["1923 m. sausio 6 d.", "1923 m. sausio 9 d.", "1923 m. sausio 17 d.", "1923 m. sausio 24 d.", "1923 m. vasario 17 d."]
-periodas: siuolaikine_istorija
-periodo_grupes: [tarpukaris]
+datos:
+  - '1922 m.'
+  - '1923 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
 amziai:
   - 'XX'
-date_start: '1923'
-date_end: '1923'
+  - 'XXI'
+date_start: '1922'
+date_end: '2026'
+bukle: paskelbta
+laikotarpis: "1923 m. sausio 6 d.; 1923 m. sausio 9 d.; 1923 m. sausio 17 d.; 1923 m. sausio 24 d.; 1923 m. vasario 17 d."
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
@@ -84,6 +90,22 @@ Nenurodyta
   teiginys: 'Galvanauskas, įsitikinęs, kad per Tautų Sąjungą ar Ambasadorių konferenciją Lietuva Klaipėdos negaus, nusistatė užimti kraštą jėga (anot A.'
   pagrindžia:
     - c-001
+- t-008
+  teiginys: 'Lietuvai liko sukilimo inscenizacijos scenarijus.'
+  pagrindžia:
+    - c-007
+- t-009
+  teiginys: '1923 m. sausio 6 d. Šilutėje sudarytas Vyriausias Mažosios Lietuvos gelbėjimo komitetas (VMLGK) po trijų dienų paprašė Lietuvos ateiti į pagalbą.'
+  pagrindžia:
+    - c-008
+- t-010
+  teiginys: 'Žygis į Klaipėdą įvyko sklandžiai, Kaunas jį pristatė kaip vietinių sukilimą, juoba kad ir vietos vokiečiai neprieštaravo.'
+  pagrindžia:
+    - c-009
+- t-011
+  teiginys: '1923 m. sausio 17 d. VMLGK paskelbė sprendimą prisijungti prie Lietuvos autonominėmis teisėmis ir paprašė Lietuvos vyriausybės karinės ir finansinės pagalbos.'
+  pagrindžia:
+    - c-010
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -171,14 +193,83 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Lietuvai liko sukilimo inscenizacijos scenarijus.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuvai liko sukilimo inscenizacijos
+    scenarijus. Abipusis psichologinis atotrūkis akivaizdus – E. Galvanauskas
+    ir ruošiamo žygio vadas, žvalgybos karininkas Jonas Budrys (Polovins-
+    kas) nustebo, jog kadriniai Lietuvos kariuomenės karininkai, kovoję prieš
+    lenkus, bermontininkus ir bolševikus, nenoriai rašėsi į Klaipėdos žygį,
+    nes... nelaikė to kova už tėvynę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-008
+  santrauka: '1923 m. sausio 6 d. Šilutėje sudarytas Vyriausias Mažosios Lietuvos gelbėjimo komitetas (VMLGK) po trijų dienų paprašė Lietuvos ateiti į pagalbą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1923 m. sausio 6 d. Šilutėje sudarytas Vyriausias Mažosios Lietuvos
+    gelbėjimo komitetas (VMLGK) po trijų dienų paprašė Lietuvos ateiti į
+    pagalbą. Sausio 9-ąją civiliai aprengti 1 050 Lietuvos savanorių, kurių
+    kišenėse nebūtum galėjęs rasti nė vieno lietuviško dokumento, degtukų
+    ar cigarečių pakelio, peržengė sieną.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-009
+  santrauka: 'Žygis į Klaipėdą įvyko sklandžiai, Kaunas jį pristatė kaip vietinių sukilimą, juoba kad ir vietos vokiečiai neprieštaravo.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Žygis į Klaipėdą įvyko sklandžiai, Kaunas jį
+    pristatė kaip vietinių sukilimą, juoba kad ir vietos vokiečiai nepriešta-
+    ravo. Prancūzams lietuviai aiškins, kad sukilimas įvyko prieš vokiečius,
+    o ne prieš Gabrielio Žano Petisnė (Gabriel Jean Petisne) administraciją.
+    Susišaudymuose nuo prancūzų kulkų žuvo 16 lietuvių, nuo lietuvių – du
+    prancūzai, tačiau garsiai protestavo visi – aršiausiai prancūzai, formaliai
+    vokiečiai ir net britai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+- c-010
+  santrauka: '1923 m. sausio 17 d. VMLGK paskelbė sprendimą prisijungti prie Lietuvos autonominėmis teisėmis ir paprašė Lietuvos vyriausybės karinės ir finansinės pagalbos.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kaunas triumfavo, euforija apėmė visą šalį. „Sukilėlių“ sėkmė atro-
+    dė kaip moralinė satisfakcija už prarastą Vilnių. 1923 m. sausio 17 d.
+    VMLGK paskelbė sprendimą prisijungti prie Lietuvos autonominėmis
+    teisėmis ir paprašė Lietuvos vyriausybės karinės ir finansinės pagalbos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/grupes/Ambasadorių Konferencija]]
+- [[objektai/asmenys/Ernestas Galvanauskas]]
 - [[objektai/asmenys/Gabrielis Žanas Petisnė]]
+- [[objektai/asmenys/Jonas Budrys (Polovinskas)]]
 - [[objektai/vietos/Klaipėda]]
 - [[objektai/grupes/Vyriausias Mažosios Lietuvos gelbėjimo komitetas]]
 - [[objektai/zodynas/fait accompli]]

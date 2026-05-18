@@ -53,4 +53,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Berlynas]]
 - [[objektai/grupes/Laikinoji vyriausybė]]

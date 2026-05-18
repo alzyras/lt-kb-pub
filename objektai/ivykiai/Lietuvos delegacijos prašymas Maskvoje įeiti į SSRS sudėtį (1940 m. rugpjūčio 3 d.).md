@@ -73,4 +73,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Maskva]]
 - [[objektai/zodynas/aneksija]]

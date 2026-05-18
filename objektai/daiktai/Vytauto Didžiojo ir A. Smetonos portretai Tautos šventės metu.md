@@ -60,4 +60,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/A. Smetona]]
 - [[objektai/paprociai/Rugsėjo 8-osios Tautos šventės ceremonijos]]

@@ -180,6 +180,5 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kaunas]]
 - [[objektai/vietos/Plungė]]
 - [[objektai/vietos/Utena]]

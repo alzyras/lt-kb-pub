@@ -6,6 +6,20 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1990 m.'
+  - '1991 m.'
+  - '1992 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodo_grupes:
+  - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1990'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -44,6 +58,15 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
   teiginys: 'Landsbergį, nors sunkumai buvo senosios ekonomikos pasekmės.'
   pagrindžia:
     - c-008
+- t-009
+  teiginys: 'Landsbergis kreipiasi į protestuotojus, bandžiusius įsiveržti į parlamentą, SSRS šalininkus, 1991 m. sausio 8 d.'
+  pagrindžia:
+    - c-009
+- t-010
+  teiginys: 'Landsbergis, kreipdamasis į susirinkusius prie parlamento, ragino užslopinti pyktį, nepasiduoti provokacijoms ir...'
+  pagrindžia:
+    - c-010
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio 25 d. išrinktas muzikologas Vytautas Landsbergis.'
@@ -142,9 +165,48 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-009
+  santrauka: 'Landsbergis kreipiasi į protestuotojus, bandžiusius įsiveržti į parlamentą, SSRS šalininkus, 1991 m. sausio 8 d.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Masevičiaus nuotrauka
+    V. Landsbergis kreipiasi į protestuotojus, bandžiusius įsiveržti į
+    parlamentą, SSRS šalininkus, 1991 m. sausio 8 d.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: 'Landsbergis, kreipdamasis į susirinkusius prie parlamento, ragino užslopinti pyktį, nepasiduoti provokacijoms ir...'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1991 m. sausio
+    13 d. valstybės vadovas V. Landsbergis, kreipdamasis į susirinkusius prie
+    parlamento, ragino užslopinti pyktį, nepasiduoti provokacijoms ir...
+    Vilniaus televizijos bokšto šturmas – sovietų tankų
+    vikšrai traiško taikius gynėjus
+
+    L I E T U V O S  I S T O R I J A
+    246
+    dainuoti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
 ### Susiję objektai
+- [[objektai/ivykiai/Bandymas įsiveržti į parlamentą (1991 m. sausio 8 d.)]]
 - [[objektai/asmenys/Michailas Gorbačiovas]]
 - [[objektai/grupes/Tėvynės Sąjunga-Lietuvos konservatoriai]]
 - [[objektai/posakiai/„kas buvo pavogta, turi būti grąžinta“]]

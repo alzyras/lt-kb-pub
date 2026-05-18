@@ -6,6 +6,20 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1919 m.'
+  - '1920 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodo_grupes:
+  - 'modernioji Lietuva'
+  - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1919'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -44,6 +58,15 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
   teiginys: 'Pilsudskis, skatino veikti visus, nepatenkintus Seimo valdymu („seimokratija“).'
   pagrindžia:
     - c-007
+- t-008
+  teiginys: 'Pilsudskis, pokario L I E T U V O S I S T O R I J A 132 Lenkijos vadovas, buvo kilęs iš Lietuvos dvarininkų ir vadino save lietuviu, dvarininkas Gabrielis Narutovičius (Gabriel Narutowicz) tapo Lenkijos prezidentu, o jo brolis Stanislovas Narutavičius – vienu.'
+  pagrindžia:
+    - c-008
+- t-009
+  teiginys: 'Pilsudskis uždavė A.'
+  pagrindžia:
+    - c-009
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą savo sudėtyje, todėl 1919 m. kovo 24 d. Lietuvos delegacijos notoje tvirtinta, kad Lenkija visą laiką išnaudojo Lietuvą, politinė unija XVI a.'
@@ -136,11 +159,51 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-008
+  santrauka: 'Pilsudskis, pokario L I E T U V O S I S T O R I J A 132 Lenkijos vadovas, buvo kilęs iš Lietuvos dvarininkų ir vadino save lietuviu, dvarininkas Gabrielis Narutovičius (Gabriel Narutowicz) tapo Lenkijos prezidentu, o jo brolis Stanislovas Narutavičius – vienu.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Nors kai kurie dvarininkai „senlietuviai“ parėmė
+    lietuvių aspiracijas, dauguma dėjo viltis į Lenkiją – J. Pilsudskis, pokario
+
+    L I E T U V O S  I S T O R I J A
+    132
+    Lenkijos vadovas, buvo kilęs iš Lietuvos dvarininkų ir vadino save lietu-
+    viu, dvarininkas Gabrielis Narutovičius (Gabriel Narutowicz) tapo Len-
+    kijos prezidentu, o jo brolis Stanislovas Narutavičius – vienu iš Lietuvos
+    nepriklausomybės kūrėjų, Lietuvos Tarybos nariu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: 'Pilsudskis uždavė A.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuva ir Lenkija kaktomuša susidūrė
+    Ženevoje, kur Sąjungos Taryboje gruodžio 10 dieną J. Pilsudskis uždavė
+    A. Voldemarui klausimą „Karas ar taika?“ A.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
 ### Susiję objektai
 - [[objektai/asmenys/Benito Musolinis]]
 - [[objektai/asmenys/Juzefas Pilsudskis]]
 - [[objektai/asmenys/Romanas Dmovskis]]
+- [[objektai/grupes/Tautų Sąjunga]]
+- [[objektai/vietos/Ženeva]]
 - [[objektai/posakiai/„seimokratija“]]
 - [[objektai/posakiai/„tėvyninė“ šalis]]

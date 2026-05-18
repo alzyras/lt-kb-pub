@@ -11,7 +11,25 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
-  - '1558-1582 m.'
+  - '1558 m.'
+  - '1576 m.'
+  - '1582 m.'
+  - '1586 m.'
+  - '1609 m.'
+  - '1611 m.'
+  - '1936 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVI'
+  - 'XVII'
+  - 'XX'
+  - 'XXI'
+date_start: '1558'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -71,6 +89,11 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
   teiginys: '1579 m. balandžio 1 d. karalius Steponas Batoras, paremdamas vyskupo Valerijono Protasevičiaus sumanymą ir pastangas, išdavė Vilniaus universiteto Didysis kiemas ir Šv.'
   pagrindžia:
     - c-012
+- t-014
+  teiginys: 'Lenkijos ir Lietuvos valdovu tapus Transilvanijos kunigaikščiui L I E T U V O S I S T O R I J A 66 Steponui Batorui (valdė 1576–1586 m.) pasiektos lemiamos pergalės Livonijos kare prieš Maskvą ir šios pavojus atitolintas daugiau nei pusamžiui (1609–1611 m..'
+  pagrindžia:
+    - c-013
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Tarpuvaldis ir Stepono Batoro (1576—1586 m.) elekcija 282.'
@@ -201,10 +224,33 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-013
+- c-013
+  santrauka: 'Lenkijos ir Lietuvos valdovu tapus Transilvanijos kunigaikščiui L I E T U V O S I S T O R I J A 66 Steponui Batorui (valdė 1576–1586 m.) pasiektos lemiamos pergalės Livonijos kare prieš Maskvą ir šios pavojus atitolintas daugiau nei pusamžiui (1609–1611 m..'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lenkijos ir Lietuvos valdovu tapus Transilvanijos kunigaikščiui
+
+    L I E T U V O S  I S T O R I J A
+    66
+    Steponui Batorui (valdė 1576–1586  m.) pasiektos lemiamos pergalės
+    Livonijos kare prieš Maskvą ir šios pavojus atitolintas daugiau nei pusam-
+    žiui (1609–1611 m. Lenkija ir Lietuva net buvo užėmusi Maskvą). Tačiau
+    svarbiausias Liublino unijos kompromiso rezultatas – Abiejų Tautų Res-
+    publika, kuri egzistavo dar du amžius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XVI amžius]]
+- [[laikotarpiai/XVII amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/zodynas/elekcija]]

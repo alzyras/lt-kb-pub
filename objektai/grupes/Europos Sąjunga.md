@@ -6,6 +6,17 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '2004 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodo_grupes:
+  - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XXI'
+date_start: '2004'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - diplomatas
@@ -48,6 +59,14 @@ tags:
   teiginys: 'Lietuva, įstojusi į ES, gali Briuselyje reikšti savo poziciją įvairiais klausimais ir net paveikti ES sprendimus – ji turi savo komisarą, Europarlamente – 12 europarlamentarų.'
   pagrindžia:
     - c-007
+- t-008
+  teiginys: 'Lietuvos prezidentas Algirdas Brazauskas ir užsienio reikalų ministras Antanas Valionis pasirašo stojimo į Europos Sąjungą sutartį L I E T U V O S I S T O R I J A 262 Lietuva, įstojusi į ES, gali Briuselyje reikšti savo poziciją įvairiais klausimais ir net.'
+  pagrindžia:
+    - c-008
+- t-009
+  teiginys: 'Dabartinė Lietuva yra visavertė demokratinė Europos valstybė, o nuo visų ES narių ir jų priimtų sprendimų priklauso ir pačios Europos valstybių likimas.'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -152,8 +171,49 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-008
+  santrauka: 'Lietuvos prezidentas Algirdas Brazauskas ir užsienio reikalų ministras Antanas Valionis pasirašo stojimo į Europos Sąjungą sutartį L I E T U V O S I S T O R I J A 262 Lietuva, įstojusi į ES, gali Briuselyje reikšti savo poziciją įvairiais klausimais ir net.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuvos prezidentas Algirdas Brazauskas ir
+    užsienio reikalų ministras Antanas Valionis pasirašo stojimo į
+    Europos Sąjungą sutartį
+
+    L I E T U V O S  I S T O R I J A
+    262
+    Lietuva, įstojusi į ES, gali Briuselyje reikšti savo poziciją įvairiais klau-
+    simais ir net paveikti ES sprendimus – ji turi savo komisarą, Europarla-
+    mente – 12 europarlamentarų. Taigi, nors pavienės šalies įtaka ES spren-
+    dimams nedidelė, Vidurio ir Rytų Europos šalių pozicijoms tam tikrais
+    atvejais sutapus, jų kolektyvinė galia gali gerokai padidėti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: 'Dabartinė Lietuva yra visavertė demokratinė Europos valstybė, o nuo visų ES narių ir jų priimtų sprendimų priklauso ir pačios Europos valstybių likimas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Sėkmingai dalyvaudama įvairiose NATO ir ES veiklos srityse, Lietu-
+    va akivaizdžiai sustiprino savo saugumą ir tarptautinį statusą, sutvirtė-
+    jo ekonomiškai. Dabartinė Lietuva yra visavertė demokratinė Europos
+    valstybė, o nuo visų ES narių ir jų priimtų sprendimų priklauso ir pačios
+    Europos valstybių likimas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XXI amžius]]
+
 ### Susiję objektai
 - [[objektai/vietos/Briuselis]]
 - [[objektai/grupes/Europos Parlamentas]]

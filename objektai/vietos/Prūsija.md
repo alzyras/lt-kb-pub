@@ -15,12 +15,31 @@ aliases: []
 saltiniai:
   - "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
   - "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean"
-datos: []
-periodo_grupes: []
-amziai: []
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1595 m.'
+  - '1701 m.'
+  - '1764 m.'
+  - '1795 m.'
+  - '1806 m.'
+  - '1815 m.'
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'LDK'
+  - 'modernioji Lietuva'
+  - 'naujieji laikai'
+amziai:
+  - 'XVI'
+  - 'XVIII'
+  - 'XIX'
+  - 'XX'
+  - 'XXI'
+date_start: '1595'
+date_end: '2026'
 patikimumas: "vidutinis"
 tags: []
 ---
@@ -58,6 +77,18 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   teiginys: '1793 m. sausio 21 d. Prancūzijoje nukirsdinus Liudviką XVI, sausio 23-iąją Rusija kartu su Prūsija įvykdė antrąjį LLV padalijimą.'
   pagrindžia:
     - c-012
+- t-014
+  teiginys: 'Sukilimo pralaimėjimas pagreitino finalą – 1795 m. spalio 24 d. Peterburge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos ir Lietuvos valstybės padalijimo.'
+  pagrindžia:
+    - c-013
+- t-015
+  teiginys: 'Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsijai ji priklausė iki 1806 m., kai Napoleonas įkūrė Varšuvos kunigaikštiją; 1815 m. Užnemunė atiteko Rusijai).'
+  pagrindžia:
+    - c-014
+- t-016
+  teiginys: 'Kai kuriems lenkų daliniams pavyko prasiveržti atgal į Karalystės teritoriją, kitų dalinių likučiai perėjo sieną su Prūsija.'
+  pagrindžia:
+    - c-015
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -168,6 +199,48 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-013
+- c-013
+  santrauka: 'Sukilimo pralaimėjimas pagreitino finalą – 1795 m. spalio 24 d. Peterburge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos ir Lietuvos valstybės padalijimo.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Sukilimo pralaimėjimas pagreitino finalą – 1795 m. spalio 24 d. Peter-
+    burge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos
+    ir Lietuvos valstybės padalijimo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
+- c-014
+  santrauka: 'Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsijai ji priklausė iki 1806 m., kai Napoleonas įkūrė Varšuvos kunigaikštiją; 1815 m. Užnemunė atiteko Rusijai).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsijai
+    ji priklausė iki 1806  m., kai Napoleonas įkūrė Varšuvos kunigaikštiją;
+    1815 m. Užnemunė atiteko Rusijai).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
+- c-015
+  santrauka: 'Kai kuriems lenkų daliniams pavyko prasiveržti atgal į Karalystės teritoriją, kitų dalinių likučiai perėjo sieną su Prūsija.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kai kuriems lenkų daliniams pavy-
+    ko prasiveržti atgal į Karalystės teritoriją, kitų dalinių likučiai perėjo sieną
+    su Prūsija. Rudenį Rusija susigrąžino ir Lenkijos karalystę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016
 
 ## Pavadinimai šaltiniuose
 
@@ -184,6 +257,12 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - tipas: pajūrio kraštas / regionas; kraštas / regionas; kraštas / istorinis regionas
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIX amžius]]
+- [[laikotarpiai/XVI amžius]]
+- [[laikotarpiai/XVIII amžius]]
+- [[laikotarpiai/XX amžius]]
+
 ### Susiję objektai
 - [[objektai/vietos/Karaliaučius]]
 - [[objektai/vietos/Kuršas]]

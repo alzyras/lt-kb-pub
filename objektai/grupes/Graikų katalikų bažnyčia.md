@@ -37,8 +37,3 @@ Tačiau Graikų katalikų bažnyčios metropolitai vėlgi buvo Kijevo metropolit
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Brastos bažnytinė unija]]
-- [[objektai/zodynas/metropolija bažnytinė unija]]

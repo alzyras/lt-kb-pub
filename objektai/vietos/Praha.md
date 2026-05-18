@@ -6,6 +6,33 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1490 m.'
+  - '1517 m.'
+  - '1519 m.'
+  - '1522 m.'
+  - '1541 m.'
+  - '1851 m.'
+  - '1927 m.'
+  - '1936 m.'
+  - '1968 m.'
+  - '2002 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'LDK'
+  - 'XX a.'
+  - 'modernioji Lietuva'
+  - 'naujieji laikai'
+  - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XV'
+  - 'XVI'
+  - 'XIX'
+  - 'XX'
+  - 'XXI'
+date_start: '1490'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - vieta
@@ -46,6 +73,10 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
   teiginys: '1968 m. susidegino čekas Janas Palachas, protestuodamas prieš sovietų kariuomenės įsiveržimą į Prahą.'
   pagrindžia:
     - c-007
+- t-008
+  teiginys: '2002 m. lapkritį Prahoje septynios NATO kandidatės – Bulgarija, Estija, Latvija, Lietuva, Rumunija, Slovakija ir Slovėnija – pakviestos pradėti derybas su Šiaurės Atlanto sutarties organizacija dėl narystės.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -145,8 +176,31 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-008
+  santrauka: '2002 m. lapkritį Prahoje septynios NATO kandidatės – Bulgarija, Estija, Latvija, Lietuva, Rumunija, Slovakija ir Slovėnija – pakviestos pradėti derybas su Šiaurės Atlanto sutarties organizacija dėl narystės.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    2002 m. lapkritį Prahoje septynios NATO kandidatės – Bul-
+    garija, Estija, Latvija, Lietuva, Rumunija, Slovakija ir Slovėnija – pakvies-
+    tos pradėti derybas su Šiaurės Atlanto sutarties organizacija dėl narystės.
+    Postūmį įstoti į NATO ypač sustiprino lapkričio 23 dieną JAV prezidento
+    Džordžo Bušo (George Bush) Vilniuje pasakyti istoriniai žodžiai: „Mūsų
+    sąjunga pasiryžusi ginti savo nares.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIX amžius]]
+- [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XVI amžius]]
+- [[laikotarpiai/XX amžius]]
+
 ### Susiję objektai
 - [[objektai/asmenys/Janas Palachas]]
 - [[objektai/vietos/Vidurio Europa]]

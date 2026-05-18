@@ -40,8 +40,3 @@ Nuo 1387 m. LDK yra katalikiška, kaip ir Lenkija, tačiau Lenkijoje apie 1500 m
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Brastos bažnytinė unija]]
-- [[objektai/grupes/Graikų katalikų bažnyčia]]

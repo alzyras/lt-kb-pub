@@ -67,4 +67,3 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Kijevas]]
-- [[objektai/vietos/Voluinė]]

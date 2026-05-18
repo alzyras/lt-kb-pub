@@ -31,36 +31,46 @@ saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 laikotarpis: 'XIII amž.; 1190 m.; 1230 m.; 1231 m.; 1309 m.; 1345–1377 m.; 1361 m.; 1362 m.; 1370 m.; 1377 m.; 1382 m.; 1385 m.; 1386 m.; 1387 m.; 1401 m.; 1404 m.; 1409 m.; 1410 m. liepos 15 d.; 1411 m.; 1430 m.; XV amžius; XIII–XV amžiai; 1431 m.; Ukmergės mūšis; 1454–1466 m.; 1466 m.; 1511 m.; 1525 m.; 1618 m.; 1809 m.; XVI a.; 1525 m.; tekste nenurodyta'
 datos:
-  - 'XIII amž'
-  - '1190 m'
-  - '1230 m'
-  - '1231 m'
-  - '1309 m'
-  - '1345–1377 m'
-  - '1361 m'
-  - '1362 m'
-  - '1370 m'
-  - '1377 m'
-  - '1382 m'
-  - '1385 m'
-  - '1386 m'
-  - '1387 m'
-  - '1401 m'
-  - '1404 m'
-  - '1409 m'
-  - '1410 m. liepos 15 d'
-  - '1411 m'
-  - '1430 m'
-  - 'XV amžius'
-  - 'XIII–XV amžiai'
-  - '1431 m'
-  - '1454–1466 m'
-  - '1466 m'
-  - '1511 m'
-  - '1525 m'
-  - '1618 m'
-  - '1809 m'
-  - '1525 m'
+  - '1190 m.'
+  - '1230 m.'
+  - '1231 m.'
+  - '1236 m.'
+  - '1260 m.'
+  - '1309 m.'
+  - '1345 m.'
+  - '1350 m.'
+  - '1361 m.'
+  - '1362 m.'
+  - '1370 m.'
+  - '1377 m.'
+  - '1382 m.'
+  - '1385 m.'
+  - '1386 m.'
+  - '1387 m.'
+  - '1401 m.'
+  - '1404 m.'
+  - '1409 m.'
+  - '1410 m.'
+  - '1411 m.'
+  - '1413 m.'
+  - '1417 m.'
+  - '1430 m.'
+periodas: 'viduramžiai'
+periodo_grupes:
+  - 'LDK'
+  - 'viduramžiai'
+amziai:
+  - 'XII'
+  - 'XIII'
+  - 'XIV'
+  - 'XV'
+  - 'XVI'
+  - 'XVII'
+  - 'XIX'
+  - 'XX'
+  - 'XXI'
+date_start: '1190'
+date_end: '1430'
 patikimumas: 'aukštas'
 tags:
   - grupe
@@ -193,6 +203,14 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   teiginys: 'Žemaičiai, sutriuškinę jungtinę Vokiečių ir Livonijos ordinų kariuomenę prie Durbės 1260 m. liepos 13 d., tarpininkaujant Treniotai, iš tikrųjų siūlė Mindaugui atsimesti nuo krikščionybės ir pradėti karą su Livonija.'
   pagrindžia:
     - c-076
+- t-020
+  teiginys: 'Tačiau svarbiausios buvo politinės aplinkybės – krikšto nau- 1 skyrius • S E N O J I L I E T U VA 41 da išryškėjo netrukus, kai popiežiai uždraudė Vokiečių ordinui kariauti su Lietuva.'
+  pagrindžia:
+    - c-077
+- t-021
+  teiginys: 'Tai padaryti trukdė Vokiečių ordinas.'
+  pagrindžia:
+    - c-078
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -839,9 +857,52 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-019
+- c-077
+  santrauka: 'Tačiau svarbiausios buvo politinės aplinkybės – krikšto nau- 1 skyrius • S E N O J I L I E T U VA 41 da išryškėjo netrukus, kai popiežiai uždraudė Vokiečių ordinui kariauti su Lietuva.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tačiau svarbiausios buvo politinės aplinkybės – krikšto nau-
+
+    1 skyrius •  S E N O J I  L I E T U VA
+    41
+    da išryškėjo netrukus, kai popiežiai uždraudė Vokiečių ordinui kariauti su
+    Lietuva. Nuo tada šio ordino agresija nebegalėjo tikėtis efektyvesnės Va-
+    karų paramos. Krėvos sutarties nulemta sąjunga su Lenkija leido pasiekti
+    pergalę prie Tanenbergo ir Žalgirio. Lietuva, apsikrikštijusi ir nugalėjusi
+    Ordiną, pašalino 200 metų grėsmę savo egzistencijai ir perėjo į naują savo
+    istorijos stadiją – „europėjimo“ arba „kelio į Europą“ epochą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020
+- c-078
+  santrauka: 'Tai padaryti trukdė Vokiečių ordinas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tai
+    padaryti trukdė Vokiečių ordinas. Taip po Žalgirio mūšio atsirado Vytau-
+    to funduotos bažnyčios ir vienuolynai, buvo apkrikštyta Žemaitija (1413),
+    įsteigta Žemaičių vyskupija (1417), o Vakaruose vykdyta plati žinių apie tai
+    sklaidos kampanija, siekiant parodyti Lietuvą kaip katalikišką kraštą.
+    Be to, dar bandyta steigti atskirą Lietuvos katalikų bažnyčios provinci-
+    ją, sukurti Lietuvos stačiatikių metropoliją ar vyskupiją ir šią sujungti su
+    Katalikų bažnyčia.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-021
 
 ## Ryšiai
 ### Laikotarpiai
+- [[laikotarpiai/XII amžius]]
+- [[laikotarpiai/XIII amžius]]
+- [[laikotarpiai/XIV amžius]]
 - [[laikotarpiai/XV amžius]]
 
 ### Susiję objektai

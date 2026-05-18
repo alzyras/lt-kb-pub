@@ -60,4 +60,5 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Kaunas]]
 - [[objektai/grupes/Laikinoji Lenkijos vyriausybė Lietuvoje]]

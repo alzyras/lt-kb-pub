@@ -6,6 +6,19 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1936 m.'
+  - '1940 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'XX a.'
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1936'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - karalius
@@ -56,6 +69,18 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   teiginys: 'Neutralumo įstatymu besiginantį Kauną sukrėtė naujiena apie nacių ir sovietų nepuolimo sutartį 1939 m. rugpjūčio 23 d., kad Vokietija ir SSRS pasirašė papildomą slaptąjį protokolą, – pasidalijo regioną įtakos sferomis: Suomija, Estija ir Latvija atiteko.'
   pagrindžia:
     - c-010
+- t-011
+  teiginys: ', kad Vokietija ir SSRS pasirašė papildomą slaptąjį protokolą, – pasidalijo regioną įtakos sferomis: Suomija, Estija ir Latvija atiteko sovietams, o Lietuva – Vokietijai.'
+  pagrindžia:
+    - c-011
+- t-012
+  teiginys: 'Derybas apsunkino tai, jog spalio pradžioje karines bazes pagal panašias sutartis sovietai jau buvo primetę Estijai ir Latvijai.'
+  pagrindžia:
+    - c-012
+- t-013
+  teiginys: 'Sovietų Sąjunga, pasinaudodama tarptautine padėtimi ir tuo, kad viso pasaulio dėmesys buvo skirtas vokiečių įsiveržimui į Paryžių, 1940 m. vasarą ne tik okupavo Lietuvą, Latviją ir Estiją, bet ir, prievarta įvedusi tariamai demokratinį valdymą (oficialiai.'
+  pagrindžia:
+    - c-013
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -172,12 +197,66 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-010
+- c-011
+  santrauka: ', kad Vokietija ir SSRS pasirašė papildomą slaptąjį protokolą, – pasidalijo regioną įtakos sferomis: Suomija, Estija ir Latvija atiteko sovietams, o Lietuva – Vokietijai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    , kad Vokietija ir SSRS
+    pasirašė papildomą slaptąjį protokolą, – pasidalijo regioną įtakos sfero-
+    mis: Suomija, Estija ir Latvija atiteko sovietams, o Lietuva – Vokietijai.
+    Abi pusės pripažino Lietuvos interesus Vilniaus regione, tačiau jo sienų
+    nedetalizavo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+- c-012
+  santrauka: 'Derybas apsunkino tai, jog spalio pradžioje karines bazes pagal panašias sutartis sovietai jau buvo primetę Estijai ir Latvijai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Derybas apsunkino tai, jog spalio pradžioje karines bazes pagal pa-
+    našias sutartis sovietai jau buvo primetę Estijai ir Latvijai. Lietuviai at-
+    kakliai siekė išvengti karinių bazių, išsaugoti savo etnines žemes, atgauti
+    kelis lietuviškus Vilniaus krašto rajonus (Švenčionis ir Druskininkus).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+- c-013
+  santrauka: 'Sovietų Sąjunga, pasinaudodama tarptautine padėtimi ir tuo, kad viso pasaulio dėmesys buvo skirtas vokiečių įsiveržimui į Paryžių, 1940 m. vasarą ne tik okupavo Lietuvą, Latviją ir Estiją, bet ir, prievarta įvedusi tariamai demokratinį valdymą (oficialiai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Sovietų Sąjunga, pasinaudodama tarptautine padėtimi ir tuo, kad viso
+    pasaulio dėmesys buvo skirtas vokiečių įsiveržimui į Paryžių, 1940 m.
+    vasarą ne tik okupavo Lietuvą, Latviją ir Estiją, bet ir, prievarta įvedusi
+    tariamai demokratinį valdymą (oficialiai vadinamą „liaudies demokrati-
+    ja“), per keletą savaičių šias valstybes įjungė į SSRS sudėtį. Atėjo sunkūs
+    dviejų viena po kitos ėjusių totalitarinių režimų okupacijų laikai, kurie
+    naikins tuos, kurie priešinsis ar nepatiks dėl politinės, socialinės ar rasinės
+    priklausomybės.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
 ### Susiję objektai
+- [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje]]
 - [[objektai/grupes/Baltijos antantė]]
 - [[objektai/vietos/Dauguva]]
 - [[objektai/vietos/Latvija]]
 - [[objektai/grupes/Lietuvių tautininkų sąjunga]]
-- [[objektai/ivykiai/Molotovo-Ribentropo pakto ir slaptojo protokolo pasirašymas (1939 m. rugpjūčio 23 d.)]]
 - [[objektai/vietos/Suomija]]

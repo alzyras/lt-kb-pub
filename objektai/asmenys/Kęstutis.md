@@ -16,21 +16,32 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 laikotarpis: 'XIV a.; 1361 m.; 1382 m.'
-datos:
-  - '1361 m.'
-  - '1382 m.'
-  - '1377 m.'
-periodas: ''
-periodo_grupes: []
-amziai:
-  - 'XIV'
-date_start: ''
-date_end: ''
 vaidmenys:
   - 'vakarų pasienio valdovas'
   - 'Lietuvos gynėjas'
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1361 m.'
+  - '1377 m.'
+  - '1382 m.'
+  - '1386 m.'
+  - '1392 m.'
+  - '1430 m.'
+  - '1936 m.'
+  - '1978 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+  - 'XV'
+  - 'XX'
+  - 'XXI'
+date_start: '1361'
+date_end: '2026'
 patikimumas: 'aukštas'
 tags:
   - asmuo
@@ -134,6 +145,10 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginys: 'kunigaikščiai – Gedimino sūnūs Algirdas ir Kęstutis, Algirdo sūnus Jogaila ir iškiliausias dinastijos atstovas Kęstučio sūnus Vytautas Didysis (valdė 1392–1430).'
   pagrindžia:
     - c-016
+- t-016
+  teiginys: 'piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L I E T U VA 35 kunigaikščiai – Gedimino sūnūs Algirdas ir Kęstutis, Algirdo sūnus Jogaila ir iškiliausias dinastijos atstovas Kęstučio sūnus Vytautas Didysis (valdė 1392–1430).'
+  pagrindžia:
+    - c-017
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -402,13 +417,36 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-015
+- c-017
+  santrauka: 'piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L I E T U VA 35 kunigaikščiai – Gedimino sūnūs Algirdas ir Kęstutis, Algirdo sūnus Jogaila ir iškiliausias dinastijos atstovas Kęstučio sūnus Vytautas Didysis (valdė 1392–1430).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    piešti
+    įsivaizduojami Lietuvos valdovų portretai
+
+    1 skyrius •  S E N O J I  L I E T U VA
+    35
+    kunigaikščiai – Gedimino sūnūs Algirdas ir Kęstutis, Algirdo sūnus Jo-
+    gaila ir iškiliausias dinastijos atstovas Kęstučio sūnus Vytautas Didysis
+    (valdė 1392–1430). Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam
+    tapus Lenkijos karaliumi (1386), atsirado Gediminaičių šakos Jogailai-
+    čių dinastija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016
 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas]]
 - [[objektai/asmenys/Gediminas]]
-- [[objektai/vietos/Galvės ežeras]]
-- [[objektai/zodynas/partizaniškas karas]]
+- [[objektai/asmenys/Vytautas]]

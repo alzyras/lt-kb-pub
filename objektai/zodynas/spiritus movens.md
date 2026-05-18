@@ -45,3 +45,4 @@ Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus m
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/Juozas Tumas (Vaižgantas)]]
+- [[objektai/ivykiai/„Tėvynės sargo“ leidimo pradžia]]

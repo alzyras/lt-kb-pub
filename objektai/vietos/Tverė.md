@@ -164,3 +164,5 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
 - [[objektai/vietos/Maskva]]
 - [[objektai/vietos/Možaiskas]]
 - [[objektai/vietos/Pskovas]]
+- [[objektai/vietos/Riazanė]]
+- [[objektai/zodynas/legatas]]

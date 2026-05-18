@@ -11,19 +11,26 @@ aliases: []
 saltiniai:
   - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
 laikotarpis: "1939 m. rugpjūčio 23 d.; 1987 m.; 1989 m."
-datos:
-  - "1939 m. rugpjūčio 23 d."
-  - "1987 m. rugpjūčio 23 d."
-  - "1989 m. rugpjūčio 23 d."
-periodas: ""
-periodo_grupes: []
-amziai:
-  - "XX"
-date_start: "1939"
-date_end: "1939"
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1939 m.'
+  - '1940 m.'
+  - '1979 m.'
+  - '1987 m.'
+  - '1989 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'XX a.'
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1939'
+date_end: '2026'
 patikimumas: "aukštas"
 tags: []
 ---
@@ -89,6 +96,15 @@ Molotovo–Ribentropo paktas šiame veikale aprašomas kaip 1939 m. rugpjūčio 
   teiginys: '1940 VI 15 realizuodama Molotovo–Ribentropo paktą, Sovietų Sąjunga okupuoja ir aneksuoja Lietuvos Respubliką.'
   pagrindžia:
     - c-002
+- t-012
+  teiginys: 'LLL nariai ypač daug dėmesio skyrė 1939 m. rugpjūčio 23 d. Vokietijos ir Sovietų Sąjungos pasirašytam ir Molotovo–Ribentropo paktui.'
+  pagrindžia:
+    - c-010
+- t-013
+  teiginys: 'Vladimiro Gulevičiaus nuotrauka L I E T U V O S I S T O R I J A 238 tautų apsisprendimo principams, Lietuvos SSR Aukščiausiosios Tarybos sudaryta valstybinė komisija išnagrinėjo ir viešai pasmerkė Molotovo–Ribentropo pakto ir slaptųjų protokolų padarinius –.'
+  pagrindžia:
+    - c-011
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Citata pagrindžia pakto datą, šalis, slaptąjį protokolą ir įtakos sferų padalijimą.
@@ -173,3 +189,50 @@ Molotovo–Ribentropo paktas šiame veikale aprašomas kaip 1939 m. rugpjūčio 
   pagrindžia:
     - t-010
     - t-011
+- c-010
+  santrauka: 'LLL nariai ypač daug dėmesio skyrė 1939 m. rugpjūčio 23 d. Vokietijos ir Sovietų Sąjungos pasirašytam ir Molotovo–Ribentropo paktui.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    LLL nariai ypač daug dėmesio skyrė 1939 m. rugpjūčio 23 d. Vokietijos
+    ir Sovietų Sąjungos pasirašytam ir Molotovo–Ribentropo paktui. 1979 m.
+    rugpjūčio 23 d. LLL kreipėsi į JT Generalinę Asamblėją, reikalaudama
+    dekolonizuoti tris Baltijos valstybes. Dar didesnio atgarsio susilaukė va-
+    dinamasis 45 pabaltijiečių memorandumas, adresuotas JT Generaliniam
+    sekretoriui Kurtui Valdheimui (Kurt Waldheim), Atlanto chartijos vals-
+    tybėms signatarėms, Vokietijos Federacinės Respublikos ir Vokietijos De-
+    mokratinės Respublikos vyriausybėms. Memorandumą pasirašė 4 estai,
+    6 latviai, 35 lietuviai, A. Sacharovas ir 10 žymių rusų disidentų. Šis memo-
+    randumas – svarbiausias LLL paskelbtas dokumentas, turėjęs tarptautinį
+    rezonansą, prašant SSRS vyriausybę paskelbti visus Molotovo–Ribentropo
+
+    5 skyrius •  L I E T U VA :  S O V I E T Ų  I R  N A C I Ų  O K U PA C I J O S
+    231
+    pakto  slaptuosius protokolus, pripažinti jį negaliojančiu nuo pasirašymo
+    datos ir likviduoti jo padarinius – išvesti svetimą kariuomenę iš Pabaltijo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+- c-011
+  santrauka: 'Vladimiro Gulevičiaus nuotrauka L I E T U V O S I S T O R I J A 238 tautų apsisprendimo principams, Lietuvos SSR Aukščiausiosios Tarybos sudaryta valstybinė komisija išnagrinėjo ir viešai pasmerkė Molotovo–Ribentropo pakto ir slaptųjų protokolų padarinius –.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vladimiro Gulevičiaus nuotrauka
+
+    L I E T U V O S  I S T O R I J A
+    238
+    tautų apsisprendimo principams, Lietuvos SSR Aukščiausiosios Tary-
+    bos sudaryta valstybinė komisija išnagrinėjo ir viešai pasmerkė Moloto-
+    vo–Ribentropo pakto ir slaptųjų protokolų padarinius – 1940 m. vasarą
+    sovietų valstybės įvykdytą Lietuvos okupaciją ir neteisėtą prijungimą.
+    1989 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013

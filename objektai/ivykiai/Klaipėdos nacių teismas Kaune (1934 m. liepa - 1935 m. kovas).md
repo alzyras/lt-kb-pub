@@ -6,6 +6,20 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1934 m.'
+  - '1935 m.'
+  - '1937 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1934'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - ginklas
@@ -42,6 +56,10 @@ Nenurodyta
   teiginys: 'Dauguma kaltinamųjų sakė, kad žavisi nacizmu, Klaipėdą laiko Vokietijos dalimi, nurodymus gaudavo iš Vokietijos nacių, o patys buvo tik jų skyrius, kad nurodymus jiems davė nacių vadai Valteris R.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Smetona mirties bausmę netruKlaipėdos nacių teismas Kaune (1934 m. gruodis) 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 181 kus pakeitė kalėjimu iki gyvos galvos, o 1937 m.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -90,7 +108,30 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Smetona mirties bausmę netruKlaipėdos nacių teismas Kaune (1934 m. gruodis) 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 181 kus pakeitė kalėjimu iki gyvos galvos, o 1937 m.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Nacių Vokietija dėl proceso darė didžiulį politinį ir ekonominį spaudi-
+    mą mažai kaimynei, todėl prezidentas A. Smetona mirties bausmę netru-
+    Klaipėdos nacių teismas Kaune (1934 m. gruodis)
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    181
+    kus pakeitė kalėjimu iki gyvos galvos, o 1937 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
 ### Susiję objektai
+- [[objektai/asmenys/A. Smetona]]
 - [[objektai/daiktai/Klaipėdos nacių organizacijų ginklai ir teismo įrodymai]]

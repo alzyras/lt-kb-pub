@@ -105,5 +105,6 @@ Sukilėliai užimtame Kaune pastatė vokiečius prieš įvykusį faktą – už�
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/ivykiai/1941 m. Birželio sukilimas]]
+- [[objektai/vietos/Berlynas]]
 - [[objektai/ivykiai/Laikinosios vyriausybės sudarymas (1941 m. birželio 23 d.)]]
 - [[objektai/posakiai/„Susidariusi laikinoji... atstatanti laisvą ir nepriklausomą Lietuvos valstybę“]]

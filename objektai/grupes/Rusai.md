@@ -136,3 +136,5 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 ### Susiję objektai
 - [[objektai/grupes/Baltarusiai]]
 - [[objektai/grupes/Ukrainiečiai]]
+- [[objektai/grupes/Valakai]]
+- [[objektai/grupes/Žemaičiai]]

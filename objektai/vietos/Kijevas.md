@@ -6,6 +6,23 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1393 m.'
+  - '1394 m.'
+  - '1395 m.'
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'LDK'
+  - 'modernioji Lietuva'
+amziai:
+  - 'XIV'
+  - 'XVI'
+  - 'XX'
+  - 'XXI'
+date_start: '1393'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - karalius
@@ -60,6 +77,14 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   teiginys: 'Tuoj pat po krikšto LDK šalia jau veikusių stačiatikių vyskupijų buvo suformuotos keturios katalikų vyskupijos (Vilniaus, Žemaičių, Lucko ir Kijevo), steigėsi vienuolijos.'
   pagrindžia:
     - c-011
+- t-012
+  teiginys: 'Tada Lietuvai buvo suduotas skaudus smūgis – karalius Žygimantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė beveik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos (Palenkę ir Voluinės, Kijevo ir Podolės (Braclavo) vaivadijas).'
+  pagrindžia:
+    - c-012
+- t-013
+  teiginys: 'Tačiau Graikų katalikų bažnyčios metropolitai vėlgi buvo Kijevo metropolitai, tik jau nuolat reziduojantys Vilniuje.'
+  pagrindžia:
+    - c-013
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -209,10 +234,45 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-011
+- c-012
+  santrauka: 'Tada Lietuvai buvo suduotas skaudus smūgis – karalius Žygimantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė beveik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos (Palenkę ir Voluinės, Kijevo ir Podolės (Braclavo) vaivadijas).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tada Lietuvai buvo suduotas skaudus smūgis – karalius Žygi-
+    mantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė be-
+    veik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos (Palenkę ir Volui-
+    nės, Kijevo ir Podolės (Braclavo) vaivadijas). Prijungtų sričių bajorai turėjo
+    prisiekti Lenkijai, o jų atstovai dalyvauti Lenkijos Seime.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+- c-013
+  santrauka: 'Tačiau Graikų katalikų bažnyčios metropolitai vėlgi buvo Kijevo metropolitai, tik jau nuolat reziduojantys Vilniuje.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tačiau Graikų katalikų bažnyčios metropolitai vėlgi buvo Kijevo metropo-
+    litai, tik jau nuolat reziduojantys Vilniuje. Taigi tiek stačiatikiai, tiek graikai
+    katalikai LDK vaidino svarbesnį vaidmenį nei Lenkijoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XVI amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
 ### Susiję objektai
 - [[objektai/vietos/Braclavas]]
 - [[objektai/vietos/Maskva]]
 - [[objektai/vietos/Mėlynieji Vandenys]]
-- [[objektai/vietos/Voluinė]]

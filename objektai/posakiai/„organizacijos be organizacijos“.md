@@ -6,6 +6,20 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1965 m.'
+  - '1987 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodo_grupes:
+  - 'XX a.'
+  - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1965'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - kraštas
@@ -23,6 +37,10 @@ hos įvykių Lietuvoje pradėjo kurtis „organizacijos be organizacijos“, į 
   teiginys: 'hos įvykių Lietuvoje pradėjo kurtis „organizacijos be organizacijos“, į kurias žmones telkė bendros idėjos, tikslai, kūrėsi etnokultūrinio pobūdžio kraštotyros draugijos, jų nariai ne tik rinko senosios lietuvių kultūros Lietuvos laisvės lygos surengtas.'
   pagrindžia:
     - c-001
+- t-002
+  teiginys: 'Prahos įvykių Lietuvoje pradėjo kurtis „organizacijos be organizacijos“, į kurias žmones telkė bendros idėjos, tikslai, kūrėsi etnokultūrinio pobūdžio kraštotyros draugijos, jų nariai ne tik rinko senosios lietuvių kultūros Lietuvos laisvės lygos surengtas.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -42,7 +60,35 @@ hos įvykių Lietuvoje pradėjo kurtis „organizacijos be organizacijos“, į 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Prahos įvykių Lietuvoje pradėjo kurtis „organizacijos be organizacijos“, į kurias žmones telkė bendros idėjos, tikslai, kūrėsi etnokultūrinio pobūdžio kraštotyros draugijos, jų nariai ne tik rinko senosios lietuvių kultūros Lietuvos laisvės lygos surengtas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Prahos įvykių Lietuvoje pradėjo kurtis „organizacijos be organizacijos“, į
+    kurias žmones telkė bendros idėjos, tikslai, kūrėsi etnokultūrinio pobū-
+    džio kraštotyros draugijos, jų nariai ne tik rinko senosios lietuvių kultūros
+    Lietuvos laisvės lygos surengtas pirmasis sovietmečiu
+    viešas nesankcionuotas mitingas Vilniuje, skirtas Molotovo–
+    Ribentropo paktui paminėti. 1987 m. rugpjūčio 23 d.
+    Romualdo Lanko nuotrauka
+
+    L I E T U V O S  I S T O R I J A
+    232
+    palikimą, bet ir skatino domėtis tautos praeitimi, ugdė gyventojų tautinę
+    savimonę, įsisteigė žygeivių klubų. Pusiau legalūs inteligentų klubai popu-
+    liarėjo: iki 1965 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
 ### Susiję objektai
 - [[objektai/ivykiai/LLL mitingas prie Adomo Mickevičiaus paminklo Vilniuje (1987 m. rugpjūčio 23 d.)]]

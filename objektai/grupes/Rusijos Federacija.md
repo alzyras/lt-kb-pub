@@ -6,6 +6,21 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1940 m.'
+  - '1991 m.'
+  - '1997 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodo_grupes:
+  - 'XX a.'
+  - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1940'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - grupe
@@ -32,6 +47,11 @@ Demokratinė Rusija, kaip ir Lietuva siekusi atsiskirti nuo SSRS, atvirai rėmė
   teiginys: '1997 m. spalį pasirašyta Lietuvos ir Rusijos sutartis dėl valstybinės sienos ir dėl išskirtinės ekonominės zonos ir žemyninio šelfo Baltijos jū- 6 skyrius • D A I N U O J A N T I R E V O L I U C I J A 257 roje atskyrimo.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Rusijos valdžia SSRS griūtį vadina geopolitine katastrofa, nors yra pasmerkusi Sovietų Sąjungos įvykdytą agresiją prieš tris Baltijos valstybes, ir laikosi pozicijos, kad Lietuva, Estija ir Latvija neva savo noru įstojo į SSRS ir kad SSRS dėl savo ano meto.'
+  pagrindžia:
+    - c-004
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Demokratinė Rusija, kaip ir Lietuva siekusi atsiskirti nuo SSRS, atvirai rėmė lietuvių tautos kovą dėl nepriklausomybės.'
@@ -75,8 +95,28 @@ Demokratinė Rusija, kaip ir Lietuva siekusi atsiskirti nuo SSRS, atvirai rėmė
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Rusijos valdžia SSRS griūtį vadina geopolitine katastrofa, nors yra pasmerkusi Sovietų Sąjungos įvykdytą agresiją prieš tris Baltijos valstybes, ir laikosi pozicijos, kad Lietuva, Estija ir Latvija neva savo noru įstojo į SSRS ir kad SSRS dėl savo ano meto.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Rusijos valdžia SSRS griūtį vadina geopolitine katastrofa,
+    nors yra pasmerkusi Sovietų Sąjungos įvykdytą agresiją prieš tris Baltijos
+    valstybes, ir laikosi pozicijos, kad Lietuva, Estija ir Latvija neva savo noru
+    įstojo į SSRS ir kad SSRS dėl savo ano meto veiksmų nekalta – kalta bu-
+    vusi tarptautinė aplinka...
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
 ### Susiję objektai
 - [[objektai/ivykiai/B. Jelcino kreipimasis į Baltijos šalyse tarnaujančius karius po Sausio 13-osios (1991 m. sausio 14 d.)]]
 - [[objektai/asmenys/Borisas Jelcinas]]

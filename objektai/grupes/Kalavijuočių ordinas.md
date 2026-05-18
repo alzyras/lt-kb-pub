@@ -312,5 +312,4 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/paprociai/Vakarų pagalbos kvietimas ir svečių iš Vokietijos šaukimas]]
-- [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Žemaičiai]]

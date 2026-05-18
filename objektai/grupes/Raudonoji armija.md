@@ -6,6 +6,21 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1918 m.'
+  - '1920 m.'
+  - '1939 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodo_grupes:
+  - 'modernioji Lietuva'
+  - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1918'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - grupe
@@ -52,6 +67,10 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
   teiginys: 'Baigiantis Antrajam pasauliniam karui, bijodami artėjančios Raudonosios armijos sugrįžimo ir deportacijų, tūkstančiai Lietuvos gyventojų pasitraukė į Vakarus.'
   pagrindžia:
     - c-008
+- t-009
+  teiginys: ') 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 171 Tarptautinių įvykių poveikis ir lietuviams, ir tautinėms mažumoms po 1939 m. rudens buvo akivaizdus – Raudonosios armijos įgulos darė savo – lietuvių jaunimo dešinėje stiprėjo radikalus.'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -172,8 +191,32 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-009
+  santrauka: ') 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 171 Tarptautinių įvykių poveikis ir lietuviams, ir tautinėms mažumoms po 1939 m. rudens buvo akivaizdus – Raudonosios armijos įgulos darė savo – lietuvių jaunimo dešinėje stiprėjo radikalus.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    )
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    171
+    Tarptautinių įvykių poveikis ir lietuviams, ir tautinėms mažumoms
+    po 1939 m. rudens buvo akivaizdus – Raudonosios armijos įgulos darė
+    savo – lietuvių jaunimo dešinėje stiprėjo radikalus, nacionalistinis spar-
+    nas, kairėje – žydų ir lietuvių jaunimo dalis reiškė aiškias simpatijas SSRS,
+    bolševizmui. Nė vienų netenkino nuosaikus A.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
 ### Susiję objektai
 - [[objektai/daiktai/Ginklai ir ginkluotė]]
 - [[objektai/daiktai/Padirbti lietuviški dokumentai]]

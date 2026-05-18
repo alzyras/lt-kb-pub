@@ -79,4 +79,5 @@ Tačiau Vatikanas 1925 metais sudarė konkordatą su Lenkija, visai neatsižvelg
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/A. Voldemaras]]
 - [[objektai/ivykiai/Konkordato su Vatikanu pasirašymas (1927 m. rugsėjo 27 d.)]]

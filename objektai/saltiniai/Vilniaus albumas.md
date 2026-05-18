@@ -6,6 +6,22 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1846 m.'
+  - '1847 m.'
+  - '1848 m.'
+  - '1857 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodo_grupes:
+  - 'naujieji laikai'
+  - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XIX'
+  - 'XXI'
+date_start: '1846'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - saltinis
@@ -41,6 +57,10 @@ Vilniaus universiteto Didysis kiemas ir Šv. Vilniaus katedra iš J. Prancūzų 
   teiginys: '1579 m. balandžio 1 d. karalius Steponas Batoras, paremdamas vyskupo Valerijono Protasevičiaus sumanymą ir pastangas, išdavė Vilniaus universiteto Didysis kiemas ir Šv.'
   pagrindžia:
     - c-006
+- t-007
+  teiginys: 'Nors Lietuvos „raudonieji“ buvo už lygiateisį federacinį ryšį su Lenkija, Senųjų laikų reminiscencija – Vilniaus Verkių rūmų interjeras iš J.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -124,3 +144,17 @@ Vilniaus universiteto Didysis kiemas ir Šv. Vilniaus katedra iš J. Prancūzų 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Nors Lietuvos „raudonieji“ buvo už lygiateisį federacinį ryšį su Lenkija, Senųjų laikų reminiscencija – Vilniaus Verkių rūmų interjeras iš J.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Nors Lietuvos „raudonieji“ buvo už lygiateisį federacinį ryšį su Lenkija,
+    Senųjų laikų reminiscencija – Vilniaus Verkių rūmų interjeras
+    iš J. K. Vilčinskio „Vilniaus albumo“. Dail. P. Benoist, 1848 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007

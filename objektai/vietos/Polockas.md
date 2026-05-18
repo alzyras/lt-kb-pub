@@ -6,6 +6,30 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1183 m.'
+  - '1490 m.'
+  - '1517 m.'
+  - '1519 m.'
+  - '1522 m.'
+  - '1541 m.'
+  - '1792 m.'
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'LDK'
+  - 'modernioji Lietuva'
+  - 'viduramžiai'
+amziai:
+  - 'XII'
+  - 'XV'
+  - 'XVI'
+  - 'XVIII'
+  - 'XX'
+  - 'XXI'
+date_start: '1183'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - karalius
@@ -60,6 +84,10 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   teiginys: 'Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustuvininkas – Polocko pirklių šeimoje gimęs Pranciškus Skorina (Franciscus Skorina, 1490–1541), Paduvos universiteto absolventas, įgijęs ten medicinos daktaro laipsnį, 1517–1519 m. Prahoje.'
   pagrindžia:
     - c-010
+- t-011
+  teiginys: 'Netrukus į pagalbą konfederatams atėjo Rusijos kariuomenė: gegužės 22-ąją ji įžengė į LDK prie Polocko, prasidėjo 1792 m. karas tarp LLV ir Rusijos.'
+  pagrindžia:
+    - c-011
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -214,7 +242,28 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-010
+- c-011
+  santrauka: 'Netrukus į pagalbą konfederatams atėjo Rusijos kariuomenė: gegužės 22-ąją ji įžengė į LDK prie Polocko, prasidėjo 1792 m. karas tarp LLV ir Rusijos.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Netrukus į pagalbą konfe-
+    deratams atėjo Rusijos kariuomenė: gegužės 22-ąją ji įžengė į LDK prie
+    Polocko, prasidėjo 1792 m. karas tarp LLV ir Rusijos. Vadinamojoje Ru-
+    sijos „Lietuvos kariuomenėje“ buvo 33,7 tūkst.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XII amžius]]
+- [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XVI amžius]]
+- [[laikotarpiai/XVIII amžius]]
+
 ### Susiję objektai
 - [[objektai/vietos/Pskovas]]

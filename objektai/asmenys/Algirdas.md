@@ -14,25 +14,43 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 laikotarpis: 'XIV a.; 1345 m.; 1362 m.; 1377 m.'
-datos:
-  - '1345 m.'
-  - '1362 m.'
-  - '1377 m.'
-  - '1358 m.'
-  - '1360 m.'
-  - '1368 m.'
-  - '1370 m.'
-  - '1372 m.'
-periodas: ''
-periodo_grupes: []
-amziai:
-  - 'XIV'
-date_start: ''
-date_end: ''
 vaidmenys:
   - 'Lietuvos valdovas'
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1322 m.'
+  - '1345 m.'
+  - '1358 m.'
+  - '1360 m.'
+  - '1362 m.'
+  - '1363 m.'
+  - '1368 m.'
+  - '1370 m.'
+  - '1372 m.'
+  - '1377 m.'
+  - '1386 m.'
+  - '1392 m.'
+  - '1430 m.'
+  - '1471 m.'
+  - '1490 m.'
+  - '1506 m.'
+  - '1526 m.'
+  - '1936 m.'
+  - '1978 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+  - 'XV'
+  - 'XVI'
+  - 'XX'
+  - 'XXI'
+date_start: '1322'
+date_end: '2026'
 patikimumas: 'aukštas'
 tags:
   - asmuo
@@ -150,6 +168,10 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
   teiginys: 'Kijevas galėjo būti prijungtas 1322 m., valdant Gediminui, tačiau labiau linkstama manyti, kad Kijevą prijungė Algirdas po pergalės prieš Aukso ordą prie Mėlynųjų Vandenų 1362 m. ar 1363 m. Valdant Gediminui ir Algirdui išsiplėtė ne tik valstybės teritorija –.'
   pagrindžia:
     - c-019
+- t-020
+  teiginys: 'piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L I E T U VA 35 kunigaikščiai – Gedimino sūnūs Algirdas ir Kęstutis, Algirdo sūnus Jogaila ir iškiliausias dinastijos atstovas Kęstučio sūnus Vytautas Didysis (valdė 1392–1430).'
+  pagrindžia:
+    - c-020
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -445,10 +467,36 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-019
+- c-020
+  santrauka: 'piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L I E T U VA 35 kunigaikščiai – Gedimino sūnūs Algirdas ir Kęstutis, Algirdo sūnus Jogaila ir iškiliausias dinastijos atstovas Kęstučio sūnus Vytautas Didysis (valdė 1392–1430).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    piešti
+    įsivaizduojami Lietuvos valdovų portretai
+
+    1 skyrius •  S E N O J I  L I E T U VA
+    35
+    kunigaikščiai – Gedimino sūnūs Algirdas ir Kęstutis, Algirdo sūnus Jo-
+    gaila ir iškiliausias dinastijos atstovas Kęstučio sūnus Vytautas Didysis
+    (valdė 1392–1430). Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam
+    tapus Lenkijos karaliumi (1386), atsirado Gediminaičių šakos Jogailai-
+    čių dinastija. Ši Gediminaičių šaka vėliau (XV a. pab.–XVI a. pr.) pasiekė
+    įtakos viršūnę. Jos atstovai vienu metu sėdėjo Lietuvos, Lenkijos, Čekijos
+    (1471–1526) ir Vengrijos (1490–1506) sostuose.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020
 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XVI amžius]]
+- [[laikotarpiai/XX amžius]]
 
 ### Susiję objektai
 - [[objektai/asmenys/Jaunutis]]

@@ -9,10 +9,27 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean'
-laikotarpis: '1320 m.'
 datos:
   - '1320 m.'
-amziai: []
+  - '1791 m.'
+  - '1795 m.'
+  - '1840 m.'
+  - '1897 m.'
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+  - 'naujieji laikai'
+amziai:
+  - 'XIV'
+  - 'XVIII'
+  - 'XIX'
+  - 'XX'
+  - 'XXI'
+date_start: '1320'
+date_end: '2026'
+laikotarpis: '1320 m.'
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
@@ -56,6 +73,15 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   teiginys: 'Žydų bendruomenės (kahalai) taip pat buvo savivaldūs iki 1840 m., kai žydai buvo įtraukti į bendrąjį miestų valdymą.'
   pagrindžia:
     - c-009
+- t-008
+  teiginys: '– žydai, 10 proc.'
+  pagrindžia:
+    - c-010
+- t-009
+  teiginys: 'Rinkimuose į Dūmą lietuviai, susiblokavę su žydais prieš dvarininkus ir lenkakalbius, išrinko pirmuosius savo parlamentarus, daugiausia socialdemokratus.'
+  pagrindžia:
+    - c-011
+
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: Žydai papildomas patvirtintas šaltinio paminėjimas.
@@ -148,6 +174,39 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-010
+  santrauka: '– žydai, 10 proc.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1897 m. surašymo duomenimis, gyventojų skaičius maždaug da-
+    bartinės Lietuvos ribose (be Klaipėdos krašto) siekė apie 2,7 mln. Apie
+    1,6 mln. (58 proc.) jų buvo etniniai lietuviai (prie lietuvių save priskyrė
+    ir apie 28 proc. bajorų – tuomet bajorai sudarė 5,3 proc. visų krašto gy-
+    ventojų), 13 proc. – žydai, 10 proc. – lenkai, 15 proc. – baltarusiai, rusai ir
+    ukrainiečiai kartu sudėjus. Miestuose gyveno apie 13 proc. krašto gyven-
+    tojų. Tarp miestų gyventojų didžiausia tautinė grupė buvo žydai – apie
+    42 proc., toliau ėjo lenkai – apie 24 proc., lietuviai – apie 8 proc.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-011
+  santrauka: 'Rinkimuose į Dūmą lietuviai, susiblokavę su žydais prieš dvarininkus ir lenkakalbius, išrinko pirmuosius savo parlamentarus, daugiausia socialdemokratus.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Rinkimuose į Dūmą lietuviai, susiblokavę su žydais prieš
+    dvarininkus ir lenkakalbius, išrinko pirmuosius savo parlamentarus, dau-
+    giausia socialdemokratus. Nepasikeitė ir vietinio valdymo modelis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -155,6 +214,9 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
 
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XIX amžius]]
+- [[laikotarpiai/XVIII amžius]]
+- [[laikotarpiai/XX amžius]]
 
 ### Susiję objektai
 - [[objektai/zodynas/Lite litvakai]]

@@ -6,6 +6,18 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1939 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1939'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - ivykis
@@ -44,6 +56,10 @@ Nenurodyta
   teiginys: 'Lietuvai suduotas ir didžiulis ekonominis smūgis – nors Klaipėda sudarė tik 6 proc.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Tačiau prezidentas galėjo diktuoti vyriausybės darbus, tad opozicijos Adolfas Hitleris Klaipėdoje 1939 m. kovo 23 d. – jį sveikina vietos vokiečių nacių simpatikai ir SA smogikai 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 183 deleguotas.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -90,8 +106,30 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Tačiau prezidentas galėjo diktuoti vyriausybės darbus, tad opozicijos Adolfas Hitleris Klaipėdoje 1939 m. kovo 23 d. – jį sveikina vietos vokiečių nacių simpatikai ir SA smogikai 4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 183 deleguotas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tačiau prezidentas galėjo diktuoti vyriausybės darbus, tad opozicijos
+    Adolfas Hitleris Klaipėdoje 1939 m. kovo 23 d. –
+    jį sveikina vietos vokiečių nacių simpatikai ir SA smogikai
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    183
+    deleguotas ministras turėjo vykdyti jo užduotis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
 ### Susiję objektai
 - [[objektai/asmenys/A. Hitleris]]
 - [[objektai/zodynas/Status quo]]

@@ -42,4 +42,5 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Kaunas]]
 - [[objektai/grupes/Lenkijos karalystės kariuomenė]]

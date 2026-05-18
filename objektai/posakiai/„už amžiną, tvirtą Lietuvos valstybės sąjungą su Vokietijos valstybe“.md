@@ -49,3 +49,7 @@ tags:
   pagrindžia:
     - t-001
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/separatinės taikos derybos]]

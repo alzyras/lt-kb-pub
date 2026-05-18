@@ -6,6 +6,23 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1900 m.'
+  - '1914 m.'
+  - '1919 m.'
+  - '1920 m.'
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+  - 'naujieji laikai'
+amziai:
+  - 'XIX'
+  - 'XX'
+  - 'XXI'
+date_start: '1900'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - vieta
@@ -41,6 +58,22 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   teiginys: 'Lietuviai nepuoselėjo antisemitizmo ir žydų asimiliacijos planų, o žydams Paryžiaus taikos konferencijoje prižadėjo viską, ko tie tiktai prašė, visų pirma plačiausią kultūrinę autonomiją.'
   pagrindžia:
     - c-007
+- t-008
+  teiginys: 'Pirmą kartą lietuviai prisistatė 1900 m. Paryžiaus pasaulinėje parodoje.'
+  pagrindžia:
+    - c-008
+- t-009
+  teiginys: '4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 129 Teritorija, apie kurią lietuvių svajota: „Lituania Propria“ (žemėlapis iš Jono Žiliaus knygos „The Boundaries of Lithuania“ (Paryžius, 1920)) L I E T U V O S I S T O R I J A 130 KOVA DĖL.'
+  pagrindžia:
+    - c-009
+- t-010
+  teiginys: 'Versalio sistemoje Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai delegacija vadinosi Lietuvos delegacija prie Paryžiaus taikos konferencijos ir veikė kuluaruose.'
+  pagrindžia:
+    - c-010
+- t-011
+  teiginys: 'Jaunos poros laikė garbės reikalu susituokti Paryžiuje, susipažinti su pasauline literatūra, menu.'
+  pagrindžia:
+    - c-011
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -134,10 +167,95 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-008
+  santrauka: 'Pirmą kartą lietuviai prisistatė 1900 m. Paryžiaus pasaulinėje parodoje.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Pirmą kartą lietuviai prisistatė 1900 m. Paryžiaus pasaulinėje
+    parodoje. Jos etnografiniame skyriuje Lietuvos lietuviai, kartu su tautie-
+    čiais iš Mažosios Lietuvos ir ypač padedami JAV lietuvių, paruošė ekspo-
+    ziciją, kurioje išdėliojo lietuvių tautinių drabužių, žemės ūkio padargų,
+    kitų daiktų, o svarbiausia – slapta Prūsijoje leidžiamos lietuvių spaudos
+
+    L I E T U V O S  I S T O R I J A
+    122
+    pavyzdžių. Taip pasauliui buvo pasiųsta žinia, kad caro valdžia draudžia
+    spaudą lietuvių – lotynų abėcėle ir kad yra tokia šalis – Lietuva.
+    Lietuvių tautinis atgimimas, laikęs savo priešu caro režimą, netrukus
+    atrado dar vieną – lenkų polonizatorius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: '4 skyrius • L I E T U V O S VA L S T Y B Ė S AT K Ū R I M A S 129 Teritorija, apie kurią lietuvių svajota: „Lituania Propria“ (žemėlapis iš Jono Žiliaus knygos „The Boundaries of Lithuania“ (Paryžius, 1920)) L I E T U V O S I S T O R I J A 130 KOVA DĖL.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    129
+    Teritorija, apie kurią lietuvių svajota: „Lituania Propria“
+    (žemėlapis iš Jono Žiliaus knygos „The Boundaries of Lithuania“
+    (Paryžius, 1920))
+
+    L I E T U V O S  I S T O R I J A
+    130
+    KOVA DĖL NEPRIKLAUSOMYBĖS
+    Lietuvos planai: nuo autonomijos
+    iki nepriklausomybės
+    N
+    aują impulsą savo veiklai Europos šalių tautiniai są-
+    jūdžiai gavo 1914 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: 'Versalio sistemoje Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai delegacija vadinosi Lietuvos delegacija prie Paryžiaus taikos konferencijos ir veikė kuluaruose.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Versalio sistemoje
+    Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje
+    prasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai
+    delegacija vadinosi Lietuvos delegacija prie Paryžiaus taikos konferenci-
+    jos ir veikė kuluaruose. Lietuvos delegacijai vadovavo A.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+- c-011
+  santrauka: 'Jaunos poros laikė garbės reikalu susituokti Paryžiuje, susipažinti su pasauline literatūra, menu.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Jaunos poros laikė garbės reikalu susituokti Paryžiuje, susipažinti su
+    pasauline literatūra, menu. Gimė profesionali lietuvių dailė, architektūra,
+    sava filosofijos mokykla.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIX amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
 ### Susiję objektai
 - [[objektai/zodynas/Antisemitizmas]]
 - [[objektai/asmenys/Augustas Zaleskis]]
 - [[objektai/vietos/Zarasai]]
 - [[objektai/zodynas/kultūrinė autonomija]]
+- [[objektai/daiktai/Žemėlapis „Lituania Propria“]]
+- [[objektai/posakiai/„Lithuania Propria“]]

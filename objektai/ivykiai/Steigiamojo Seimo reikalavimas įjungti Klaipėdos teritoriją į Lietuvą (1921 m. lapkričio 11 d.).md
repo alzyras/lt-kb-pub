@@ -54,3 +54,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Klaipėdos kraštas]]
+- [[objektai/grupes/Steigiamasis seimas]]

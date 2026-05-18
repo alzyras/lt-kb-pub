@@ -10,6 +10,25 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
+datos:
+  - '1350 m.'
+  - '1430 m.'
+  - '1800 m.'
+  - '1930 m.'
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+  - 'naujieji laikai'
+amziai:
+  - 'XIV'
+  - 'XV'
+  - 'XVIII'
+  - 'XX'
+  - 'XXI'
+date_start: '1350'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - karalius
@@ -89,6 +108,10 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   teiginys: 'Tuo metu Rusija privertė Stanislovą Augustą targovitėnų valdomame Gardine 1793 m. birželio 17 d. sušaukti Seimą, kuris turėjo pritarti naujai LLV ir Rusijos taikos sutarčiai ir taip patvirtinti antrąjį padalijimą.'
   pagrindžia:
     - c-016
+- t-017
+  teiginys: 'Smuglevičius, 1800 m. įsteigė tekstilės, popieriaus, galanterijos, ginklų, vežimų manufaktūras Gardino ekonomijoje.'
+  pagrindžia:
+    - c-017
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -325,12 +348,37 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-016
+- c-017
+  santrauka: 'Smuglevičius, 1800 m. įsteigė tekstilės, popieriaus, galanterijos, ginklų, vežimų manufaktūras Gardino ekonomijoje.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Jis
+
+    2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S
+    89
+    Lietuvos valstiečiai.
+    Dail. P. Smuglevičius, 1800 m.
+    įsteigė tekstilės, popieriaus, galanterijos, ginklų, vežimų manufaktūras
+    Gardino ekonomijoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XVIII amžius]]
+- [[laikotarpiai/XX amžius]]
+
 ### Susiję objektai
 - [[objektai/vietos/Brasta]]
 - [[objektai/daiktai/Gardino ekonomijos manufaktūrų gaminiai]]
 - [[objektai/ivykiai/Gardino seimas ir antrojo LLV padalijimo patvirtinimas]]
+- [[objektai/vietos/Kaunas]]
 - [[objektai/asmenys/Stanislovas Augustas Poniatovskis]]
 - [[objektai/ivykiai/Targovicos ir Vilniaus konfederacijų susijungimas Brastoje]]
-- [[objektai/asmenys/Vytautas]]

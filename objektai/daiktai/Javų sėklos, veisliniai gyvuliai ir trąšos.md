@@ -9,18 +9,22 @@ saltiniai:
   - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
 bukle: "juodrastis"
 laikotarpis: "ketvirtojo dešimtmečio žemės ūkio modernizacijos kontekstas"
-datos:
-  - "ketvirtasis dešimtmetis"
-periodas: "siuolaikine_istorija"
-periodo_grupes:
-  - "tarpukaris"
-amziai:
-  - "XX"
-date_start: "1930"
-date_end: "1939"
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1930 m.'
+  - '1939 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1930'
+date_end: '2026'
 patikimumas: "vidutinis"
 tags: []
 ---
@@ -73,6 +77,10 @@ Nenurodyta
   teiginys: 'Valstybė lengvatinėmis sąlygomis aprūpindavo ūkininkus geresnėmis javų sėklomis, veisliniais gyvuliais, padėjo rengti žemės ūkio specialistus.'
   pagrindžia:
     - c-001
+- t-004
+  teiginys: 'Žemės ūkyje pradėtos naudoti organinės ir mineralinės trąšos, pagerėjo javų derlingumas (nuo 9 cnt prieš karą iki 12 cnt ketvirtajame dešimtmetyje).'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -103,6 +111,22 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Žemės ūkyje pradėtos naudoti organinės ir mineralinės trąšos, pagerėjo javų derlingumas (nuo 9 cnt prieš karą iki 12 cnt ketvirtajame dešimtmetyje).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Žemės ūkyje pradėtos naudoti organinės ir mineralinės trą-
+    šos, pagerėjo javų derlingumas (nuo 9 cnt prieš karą iki 12 cnt ketvirta-
+    jame dešimtmetyje). Ūkininkai pradėjo kooperuotis, kūrėsi pieno per-
+    dirbimo bendrovės, įsigijus modernią įrangą, šaldytuvus, didėjo pieno ir
+    mėsos produktų eksportas į užsienį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Šaltiniai ir įrodymai
 
@@ -112,3 +136,4 @@ Nenurodyta
 
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

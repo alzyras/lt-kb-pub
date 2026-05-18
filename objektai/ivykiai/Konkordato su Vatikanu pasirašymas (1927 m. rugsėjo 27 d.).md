@@ -54,4 +54,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/A. Voldemaras]]
 - [[objektai/vietos/Vatikanas]]

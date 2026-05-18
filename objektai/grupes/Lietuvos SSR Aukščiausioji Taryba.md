@@ -6,6 +6,25 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1936 m.'
+  - '1940 m.'
+  - '1946 m.'
+  - '1947 m.'
+  - '1988 m.'
+  - '1989 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodo_grupes:
+  - 'XX a.'
+  - 'modernioji Lietuva'
+  - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1936'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - grupe
@@ -44,6 +63,10 @@ Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamufliažo atsisakyta
   teiginys: 'Lietuvos SSR Aukščiausiosios Tarybos sudaryta valstybinė komisija išnagrinėjo ir viešai pasmerkė Molotovo–Ribentropo pakto ir slaptųjų protokolų padarinius – 1940 m. vasarą sovietų valstybės įvykdytą Lietuvos okupaciją ir neteisėtą prijungimą.'
   pagrindžia:
     - c-006
+- t-007
+  teiginys: 'Vladimiro Gulevičiaus nuotrauka L I E T U V O S I S T O R I J A 238 tautų apsisprendimo principams, Lietuvos SSR Aukščiausiosios Tarybos sudaryta valstybinė komisija išnagrinėjo ir viešai pasmerkė Molotovo–Ribentropo pakto ir slaptųjų protokolų padarinius –.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -142,7 +165,31 @@ Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamufliažo atsisakyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Vladimiro Gulevičiaus nuotrauka L I E T U V O S I S T O R I J A 238 tautų apsisprendimo principams, Lietuvos SSR Aukščiausiosios Tarybos sudaryta valstybinė komisija išnagrinėjo ir viešai pasmerkė Molotovo–Ribentropo pakto ir slaptųjų protokolų padarinius –.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vladimiro Gulevičiaus nuotrauka
+
+    L I E T U V O S  I S T O R I J A
+    238
+    tautų apsisprendimo principams, Lietuvos SSR Aukščiausiosios Tary-
+    bos sudaryta valstybinė komisija išnagrinėjo ir viešai pasmerkė Moloto-
+    vo–Ribentropo pakto ir slaptųjų protokolų padarinius – 1940 m. vasarą
+    sovietų valstybės įvykdytą Lietuvos okupaciją ir neteisėtą prijungimą.
+    1989 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
 ### Susiję objektai
 - [[objektai/ivykiai/Okupacinės valdžios rinkimai į aukščiausias institucijas po karo (1946-1947 m.)]]
