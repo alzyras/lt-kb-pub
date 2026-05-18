@@ -32,7 +32,10 @@ Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija. Su stipriausi
   santrauka: 'Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Per 20 metų iš
+    šalies emigravo apie 100 000 gyventojų, iš jų apie 30 proc. sudarė žydai,
     vykę į Palestiną, Pietų Afrikos Sąjungą ir JAV. Lietuviai vyko daugiausia į
+    Pietų Amerikos šalis (Argentiną, Braziliją, Venesuelą ir Urugvajų).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -44,7 +47,13 @@ Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija. Su stipriausi
   santrauka: 'Su stipriausiais finansiškai ir organizacijų atžvilgiu JAV lietuviais daugiausia bendrauta per giminingas politines organizacijas, profesiškai ar tiesiog asmeniškai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Su stipriausiais finansiškai ir
+    organizacijų atžvilgiu JAV lietuviais daugiausia bendrauta per giminin-
     gas politines organizacijas, profesiškai ar tiesiog asmeniškai. Pasaulio
+    lietuvių kongresas Kaune 1935 m., į kurį atvyko 3 000 delegatų ir svečių
+    iš 19 valstybių, parodė, kad dauguma užsienio lietuvių artimi Lietuvai,
+    rūpinasi jos ateitimi, nors ir nepritaria autoritarinio režimo įvestiems
+    politiniams suvaržymams.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

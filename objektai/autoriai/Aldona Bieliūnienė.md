@@ -32,7 +32,8 @@ Bieliūnienė ir kiti. Parengė Aldona Bieliūnienė ir kiti.
   santrauka: 'Bieliūnienė ir kiti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    A. Bieliūnienė ir kiti. Antrasis papildytas leidimas. Vilnius, 2011;
+    A. Bieliūnienė ir kiti. Antrasis papildytas leidimas. Vilnius, 2011; Lietuva žemėlapiuose:
+    = Lithuania on the map: paroda, Vilnius, 1999 09 26–1999 12 11: katalogas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -44,7 +45,9 @@ Bieliūnienė ir kiti. Parengė Aldona Bieliūnienė ir kiti.
   santrauka: 'Parengė Aldona Bieliūnienė ir kiti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vilnius, 2011; Lietuva žemėlapiuose:
     = Lithuania on the map: paroda, Vilnius, 1999 09 26–1999 12 11: katalogas. Parengė
+    Aldona Bieliūnienė ir kiti.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

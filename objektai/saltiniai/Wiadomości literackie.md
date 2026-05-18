@@ -55,6 +55,8 @@ tags: []
   santrauka: Citata pagrindžia laikraščio pavadinimą, datą ir pirmųjų Lietuvos laikraščių statusą.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Beveik vienu metu iškilo du nauji Lietuvos kultūros reiškiniai – 1759 m.
+    išleistas pirmasis lietuvių kalbos elementorius, o 1760 m. pradėjo eiti pir-
     mieji Lietuvos laikraščiai – „Kurier Litewski“ ir „Wiadomości literackie“.
   citata_rodoma: ""
   teiginio_tipas: faktas

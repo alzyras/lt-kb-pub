@@ -1,11 +1,17 @@
 ---
 tipas: asmuo
 pavadinimas: 'Džordžas Bušas'
-sukurta: '2026-05-14'
+sukurta: '2026-05-18'
 variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -28,7 +34,12 @@ Postūmį įstoti į NATO ypač sustiprino lapkričio 23 dieną JAV prezidento D
   santrauka: 'Postūmį įstoti į NATO ypač sustiprino lapkričio 23 dieną JAV prezidento Džordžo Bušo (George Bush) Vilniuje pasakyti istoriniai žodžiai: „Mūsų sąjunga pasiryžusi ginti savo nares.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Postūmį įstoti į NATO ypač sustiprino lapkričio 23 dieną JAV prezidento
+    Džordžo Bušo (George Bush) Vilniuje pasakyti istoriniai žodžiai: „Mūsų
     sąjunga pasiryžusi ginti savo nares. Tie, kurie pasirinktų Lietuvą savo
+    priešu, taptų ir Jungtinių Amerikos Valstijų priešu.“ Dž. Bušas taip pat
+    priminė, kad JAV niekada nepripažino Lietuvos okupacijos ir visada
+    tikėjo, jog mūsų „žemynas nebus padalytas per amžius“.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -43,4 +54,3 @@ Postūmį įstoti į NATO ypač sustiprino lapkričio 23 dieną JAV prezidento D
 
 ### Susiję objektai
 - [[objektai/ivykiai/JAV prezidento Džordžo Bušo kalba Vilniuje dėl Lietuvos saugumo (2002 m. lapkričio 23 d.)]]
-- [[objektai/vietos/Jungtinės Amerikos Valstijos]]

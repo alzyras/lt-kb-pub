@@ -38,7 +38,9 @@ Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija
   santrauka: 'Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Rem-
     damiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio
+    16 dienos manifestu deklaravo Sovietų Lietuvą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -50,7 +52,10 @@ Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija
   santrauka: 'Lenino, J.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietu-
     vos valstybingumą liudijusių paminklų vietose miestuose ir miesteliuose
+    pristatyta sovietinio kario nugalėtojo, V. Lenino, J. Stalino statulų, pri-
+    kabinėta komunistinių šūkių.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -62,7 +67,11 @@ Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija
   santrauka: 'Leniną, tačiau ilgainiui, ypač Dainų šventėse, tai liko apvalkalas privalomai (socialistinei) programai, o kita dalis buvo skirta tik lietuviškai dainai ar šokiui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Kultūra plėtota pagal sovietų
+    principą „tautinė pagal formą, socialistinė pagal turinį“ – tautiniais dra-
     bužiais vilkintys choristai dainavo apie V. Leniną, tačiau ilgainiui, ypač
+    Dainų šventėse, tai liko apvalkalas privalomai (socialistinei) programai,
+    o kita dalis buvo skirta tik lietuviškai dainai ar šokiui.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -76,4 +85,3 @@ Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija
 - [[objektai/grupes/Raudonoji armija]]
 - [[objektai/vietos/Sovietų Rusija]]
 - [[objektai/asmenys/V. Leninas]]
-- [[objektai/posakiai/„tautinė pagal formą, socialistinė pagal turinį“]]

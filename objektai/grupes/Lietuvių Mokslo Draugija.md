@@ -19,10 +19,6 @@ tags:
 Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Šliūpo rūpesčiu buvo įsteigta Lietuvių Mokslo Draugystė, kuri leido mėnesinį literatūros ir mokslo žurnalą „Apšvietą" ir išleido keletą knygų.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas.'
-  pagrindžia:
-    - c-001
 - t-002
   teiginys: 'Tada Šliūpo rūpesčiu buvo įsteigta Lietuvių Mokslo Draugystė, kuri leido mėnesinį literatūros ir mokslo žurnalą „Apšvietą" ir išleido keletą knygų.'
   pagrindžia:
@@ -38,27 +34,6 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
     - c-005
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Po 1905 m. revoliucijos palengvėjo
-    ir kultūrinių draugijų steigimas. Todėl 1906 m. Kaune buvo
-
-
-    įkurta Šv. Kazimiero Draugija knygoms ir laikraš-
-    čiams leisti (ji leido „Ned. Skaitymą", iš kurio vėliau atsirado
-    „Vienybė" ir „Draugija"). Vilniuje 1907 m. buvo
-    įkurta Lietuvių Mokslo Draugija, kuri pasiryžo tirti
-    lietuvių tautą, jos kultūrą ir kelti lietuviškąjį mokslą (ji ir dabar
-    tebėra gyva ir tebeleidžia savo žurnalą Lietuvių Tautą).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
 - c-002
   santrauka: 'Tada Šliūpo rūpesčiu buvo įsteigta Lietuvių Mokslo Draugystė, kuri leido mėnesinį literatūros ir mokslo žurnalą „Apšvietą" ir išleido keletą knygų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -93,7 +68,11 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
   santrauka: 'Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos 1905 m. dėtos, beje, solidariai lietuvių ir lenkų intelektualų, susitarus, kad jame būtų dėstoma bent trimis kalbomis), įkurtos Lietuvių mokslo draugija, plėtojusi etninių lietuvių tautinį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos
+    1905 m. dėtos, beje, solidariai lietuvių ir lenkų intelektualų, susitarus, kad
+    jame būtų dėstoma bent trimis kalbomis), įkurtos Lietuvių mokslo draugija,
     plėtojusi etninių lietuvių tautinį sąjūdį, ir Vilniaus mokslo bičiulių draugija,
+    telkusi lenkiškai kalbančiuosius.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -105,7 +84,10 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
   santrauka: 'Abi draugijos daug dėmesio skyrė praeičiai, LDK paveldui, bet Lietuvių draugija ypač orientavosi į lietuvių kalbos ir etninės kultūros tyrimus, mokyklinių vadovėlių lietuvių mokykloms rengimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Abi
+    draugijos leido mokslinius tęsti-
     nius leidinius. Beje, abi jos buvo
+    viena kitos kolektyviniai nariai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -117,4 +99,3 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuvių Mokslo Draugija (Amerikoje)]]
-- [[objektai/grupes/Lietuvių Mokslo Draugija (Vilniuje)]]

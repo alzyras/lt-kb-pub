@@ -6,6 +6,22 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1835 m.'
+  - '1859 m.'
+  - '1902 m.'
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+  - 'naujieji laikai'
+amziai:
+  - 'XIX'
+  - 'XX'
+  - 'XXI'
+date_start: '1835'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - autorius
@@ -30,18 +46,14 @@ Tiek jų lyrika, tiek klasiškoji Baranausko poema „Anykščių šilelis" nega
   teiginys: 'Baranausko buvo paskirtas kun. Antanavičius (1902—1910 m.).'
   pagrindžia:
     - c-003
-- t-005
-  teiginys: 'Tačiau antros šio sąjūdžio kartos atstovas, aukštaitis, kunigas ir poetas, ateityje tapsiantis vyskupu, lietuvių literatūros šedevro, poemos „Anykščių šilelis“ autorius, Antanas Baranauskas (1835–1902) 1859 m. parašė: „Viso svieto mokslus lietuviam paduosiu.'
-  pagrindžia:
-    - c-005
-- t-006
-  teiginys: 'au antros šio sąjūdžio kartos atstovas, aukštaitis, kunigas ir poetas, ateityje tapsiantis vyskupu, lietuvių literatūros šedevro, poemos „Anykščių šilelis“ autorius, Antanas Baranauskas (1835–1902) 1859 m. parašė: „Viso svieto mokslus lietuviam paduosiu; /.'
-  pagrindžia:
-    - c-005
 - t-007
   teiginys: 'Etninės lietuvybės pagrindu gimstančiai nacijai vyskupo Antano Baranausko formuluoti tikslai atrodė pasiekiami, ypač jei atsirastų valstybė, kuri juos laikytų ir savo kultūros politikos dalimi.'
   pagrindžia:
     - c-007
+- t-008
+  teiginys: 'Tačiau antros šio sąjūdžio kartos atstovas, aukštaitis, kunigas ir poetas, ateityje tapsiantis vyskupu, lietuvių literatūros šedevro, poemos „Anykščių šilelis“ autorius, Antanas Baranauskas (1835–1902) 1859 m. parašė: „Viso svieto mokslus lietuviam paduosiu.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -88,23 +100,13 @@ Tiek jų lyrika, tiek klasiškoji Baranausko poema „Anykščių šilelis" nega
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-- c-005
-  santrauka: 'Tačiau antros šio sąjūdžio kartos atstovas, aukštaitis, kunigas ir poetas, ateityje tapsiantis vyskupu, lietuvių literatūros šedevro, poemos „Anykščių šilelis“ autorius, Antanas Baranauskas (1835–1902) 1859 m. parašė: „Viso svieto mokslus lietuviam paduosiu.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    / Viso svieto raštus, knygas lietuviškan versiu. / Lietuvnykai žmonės bus
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
 - c-007
   santrauka: 'Etninės lietuvybės pagrindu gimstančiai nacijai vyskupo Antano Baranausko formuluoti tikslai atrodė pasiekiami, ypač jei atsirastų valstybė, kuri juos laikytų ir savo kultūros politikos dalimi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvių literatūra per šį laikotarpį pakilo į naujas aukštumas, lietuvių
+    kalba parašyti kūriniai tenkino ir intelektualiai išlavintą protą, gerą meni-
+    nį skonį.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -112,8 +114,31 @@ Tiek jų lyrika, tiek klasiškoji Baranausko poema „Anykščių šilelis" nega
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-008
+  santrauka: 'Tačiau antros šio sąjūdžio kartos atstovas, aukštaitis, kunigas ir poetas, ateityje tapsiantis vyskupu, lietuvių literatūros šedevro, poemos „Anykščių šilelis“ autorius, Antanas Baranauskas (1835–1902) 1859 m. parašė: „Viso svieto mokslus lietuviam paduosiu.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tačiau antros šio sąjūdžio kartos atstovas, aukš-
+    taitis, kunigas ir poetas, ateityje tapsiantis vyskupu, lietuvių literatū-
+    ros šedevro, poemos „Anykščių šilelis“ autorius, Antanas Baranauskas
+    (1835–1902) 1859 m. parašė: „Viso svieto mokslus lietuviam paduosiu;
+    / Viso svieto raštus, knygas lietuviškan versiu. / Lietuvnykai žmonės bus
+    visi galvočiais, / Visam svietui visuos moksluos eis kelio vedžiotų.“ Tai
+    civilizuotos, savo aukštąją kultūrą turinčios tautos vizija. Bet idealisti-
+    nė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIX amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
 ### Susiję objektai
 - [[objektai/asmenys/Baranauskas]]
-- [[objektai/posakiai/„Viso svieto mokslus lietuviam paduosiu...“]]

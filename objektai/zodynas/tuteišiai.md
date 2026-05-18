@@ -49,13 +49,21 @@ Vartojama kalbant apie etninės Lietuvos pietryčių dalies kalbines ir savimon�
 - t-001
   teiginys: 'Bet rytiniai ir pietrytiniai šio ploto pakraščiai jau buvo apimti dvikalbystės ir kalbinės slavizacijos (baltarusėjimo) procesų, prarandant lietuvio, bet neįgyjant baltarusio etninės savimonės, laikant save tiesiog čiabuviais (tuteišiais).'
   pagrindžia:
-    - c-002
+    - c-001
 
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Tuteišiai aiškinami kaip čiabuviai.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1819 m. nuo Vilniaus
+    gubernijos atskirtas ir Kuršo (Kurliandijos) gubernijai perduotas siauras
+    Lietuvos pajūrio ruožas – Palangos ir Šventosios apylinkės.
+    Bemaž visa Vilniaus gubernijos teritorija, suskirstyta į 11 apskričių,
+    istoriniu etnografiniu požiūriu buvo lietuviška, taip pat ir Gardino gu-
+    bernijos šiaurinis pakraštys. Bet rytiniai ir pietrytiniai šio ploto pakraš-
+    čiai jau buvo apimti dvikalbystės ir kalbinės slavizacijos (baltarusėjimo)
+    procesų, prarandant lietuvio, bet neįgyjant baltarusio etninės savimonės,
     laikant save tiesiog čiabuviais (tuteišiais).
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -63,23 +71,9 @@ Vartojama kalbant apie etninės Lietuvos pietryčių dalies kalbines ir savimon�
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: "Exact citata pridėta po public_notes_have_evidence validacijos klaidos."
   pagrindžia: []
-- c-002
-  santrauka: 'Bet rytiniai ir pietrytiniai šio ploto pakraščiai jau buvo apimti dvikalbystės ir kalbinės slavizacijos (baltarusėjimo) procesų, prarandant lietuvio, bet neįgyjant baltarusio etninės savimonės, laikant save tiesiog čiabuviais (tuteišiais).'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    čiai jau buvo apimti dvikalbystės ir kalbinės slavizacijos (baltarusėjimo)
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/istorinė-sąvoka]]
-
 ### Laikotarpiai
 - [[laikotarpiai/XIX amžius]]
 - [[laikotarpiai/XX amžius]]

@@ -29,6 +29,7 @@ Visų pirma – tai „tarpininkaujančios mažumos“ – katalikai armėnai ir
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lenkijoje nebuvo ir sentikių, atsiskyrusių nuo stačiatikių dėl liturgijos ir
+    persekiojamų Rusijoje – antrojoje XVII a. pusėje jie kėlėsi į LDK.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

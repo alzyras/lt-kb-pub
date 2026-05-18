@@ -48,6 +48,7 @@ Nenurodyta
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Svarbiausias iš jų Pakulas – požemio dievas, antrasis – Perkūnas – žaibų
+    ir griausmų dievas, o trečiasis – javų dievas Patrimpas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -59,7 +60,10 @@ Nenurodyta
   santrauka: 'Aprašomas šių dievų kultas ir kulto tarnų hierarchija, vaidilutės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Aprašomas šių
     dievų kultas ir kulto tarnų hierarchija, vaidilutės. Ilgainiui pasakojimas
+    apie prūsų dievų trejybę papildytas naujomis smulkmenomis ar intar-
+    pais, iliustruotas piešiniais.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

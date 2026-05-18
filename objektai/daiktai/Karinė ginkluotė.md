@@ -372,4 +372,3 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/daiktai/Druska]]
 - [[objektai/daiktai/Vilnonės medžiagos]]
-- [[objektai/asmenys/Vytautas]]

@@ -33,7 +33,9 @@ tags:
   santrauka: 'Škirpos, įkalinus jį „namų arešte“, birželio 23 dieną sudarytos Laikinosios vyriausybės (LV) vadovu tapo literatūros dėstytojas Juozas Ambrazevičius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Naciams iš Berlyno neišleidus LAF vado K. Škirpos, įkalinus jį „namų
     arešte“, birželio 23 dieną sudarytos Laikinosios vyriausybės (LV) vadovu
+    tapo literatūros dėstytojas Juozas Ambrazevičius.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -45,7 +47,11 @@ tags:
   santrauka: 'Ambrazevičiui teko konstatuoti, kad vyriausybė „laiko savo veikimą sustabdytu prieš savo valią“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Sugrąžinus iki 1940 m. birželio 15 d. bu-
+    vusią tvarką, atkūrus apskritis, miestų savivaldybes, organizavus policiją,
     vokiečių okupacinė valdžia neleido iš partizanų ir Lietuvos kariuomenės
+    dalių, pasitraukusių iš Raudonosios armijos, sudaryti reguliariąją Lietu-
+    vos kariuomenę.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -53,3 +59,7 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuvos kariuomenė]]

@@ -1,11 +1,17 @@
 ---
 tipas: posakis
 pavadinimas: '„gal neokupuos“ „o gal nesovietizuos “'
-sukurta: '2026-05-14'
+sukurta: '2026-05-18'
 variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - posakis
@@ -28,7 +34,13 @@ Atkritus vilčiai, kad sovietai „gal neokupuos“, liko dar viena – „o gal
   santrauka: 'Atkritus vilčiai, kad sovietai „gal neokupuos“, liko dar viena – „o gal nesovietizuos?“ Kur tau...'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Mažąsias Europos valstybes okupavus Vokietijai sunku buvo tikėtis,
     kad Lietuva liks nepaliesta nacių ir sovietų suokalbio. Atkritus vilčiai, kad
+    sovietai „gal neokupuos“, liko dar viena – „o gal nesovietizuos?“ Kur tau...
+    V. Dekanozovo paliepimu A. Smetonos išvykimas paaiškintas kaip prezi-
+    dento atsistatydinimas ir sudarytas įspūdis, kad A. Merkys teisėtai tapo
+    prezidentu, nes, kaip laikinai einantis pareigas, pagal Lietuvos konstituci-
+    ją neturėjo teisės skirti naujo vyriausybės vadovo.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

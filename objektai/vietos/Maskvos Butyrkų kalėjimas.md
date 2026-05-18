@@ -27,7 +27,12 @@ tags:
   santrauka: 'Žemaitį-Vytautą (1951 m. gruodį patyręs insultą gydėsi požeminiame bunkeryje) ir po pusantrų metų tardymų sušaudė Maskvos Butyrkų kalėjime.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1953 m. pavasarį užverbuoti
     agentai išdavė J. Žemaitį-Vytautą
+    (1951 m. gruodį patyręs insultą
+    gydėsi požeminiame bunkeryje)
+    ir po pusantrų metų tardymų su-
+    šaudė Maskvos Butyrkų kalėjime.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

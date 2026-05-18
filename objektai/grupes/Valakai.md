@@ -91,4 +91,6 @@ Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė.
 
 ### Susiję objektai
 - [[objektai/grupes/Mozūrai (XV amžius)]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Žemaičiai]]
 - [[objektai/grupes/Žuvėdai]]

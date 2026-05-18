@@ -27,7 +27,17 @@ Paskelbus Lietuvos nepriklausomybę 1990 m. kovo 11 d. Lietuvos Respublikos AT-A
   santrauka: 'Paskelbus Lietuvos nepriklausomybę 1990 m. kovo 11 d. Lietuvos Respublikos AT-AS vadovai: centre – Tarybos pirmininkas Vytautas Landsbergis, kairėje – jo pavaduotojai – Kazimieras Motieka ir Bronislovas Kuzmickas, dešinėje – pirmininko pavaduotojas Česlovas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Sąjūdžio kandidatai, laikydamiesi savo rinkiminių
+    pažadų, 1990 m. kovo 11 d. LSSR Aukščiausiosios Tarybos pirmininku
+    išrinkę Sąjūdžio Seimo lyderį Vytautą Landsbergį, LSSR Aukščiausiąją
+    Tarybą pervadino Lietuvos Respublikos Aukščiausiąja Taryba, Lietuvai
+    sugrąžino senąjį jos valstybės pavadinimą „Lietuvos Respublika“, o Vytį
+    Paskelbus Lietuvos nepriklausomybę 1990 m. kovo 11 d.
+    Lietuvos Respublikos AT-AS vadovai: centre – Tarybos pirmininkas
     Vytautas Landsbergis, kairėje – jo pavaduotojai – Kazimieras Motieka
+    ir Bronislovas Kuzmickas, dešinėje – pirmininko pavaduotojas
+    Česlovas Stankevičius, Lietuvos Respublikos AT Prezidiumo narys
+    Aloyzas Sakalas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

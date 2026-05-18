@@ -79,7 +79,13 @@ Nenurodyta
   santrauka: Žemės reformos įstatymo priėmimas ir į Valstybinį žemės fondą paimamos žemės.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1922 m. vasario 15 d. Steigiamasis Seimas krikščionių demokratų
     balsais priėmė pagrindinį Žemės reformos įstatymą. Į Valstybinį žemės
+    fondą paimta valstybinė žemė ir kiti privilegijų teisėmis iš caro valdžios
+    gauti dvarai, visa prieš Lietuvos nepriklausomybę bermontininkų ar len-
+    kų armijose kovojusių asmenų žemė, taip pat privačių asmenų, bažnyčių,
+    vienuolynų ir kitų bažnytinių institucijų žemė, jei jos būta daugiau nei
+    80 ha.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -92,7 +98,9 @@ Nenurodyta
   santrauka: Pirmieji žemės reformos gavėjai.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Pirmiausia žemės gavo kariai savanoriai, bežemiai
     ir mažažemiai (turėję mažiau kaip 10 ha) valstiečiai, kaimo amatininkai,
+    kai kurios valstybinės ir visuomeninės įstaigos.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

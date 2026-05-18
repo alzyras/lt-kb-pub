@@ -43,7 +43,9 @@ Nenurodyta
   santrauka: 'Kadangi lietuviai krikščionybę priėmė palyginti vėlai, mūsų liaudies kultūroje ir tradicijose yra gausu archajiškų, iš pagonybės laikų išlikusių elementų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Galėtume sakyti, kad pagoniškos šventės yra
     tik „užsiklojusios“ krikščioniškuoju švenčių sluoksniu. Išlikę žilos senovės
+    elementai lemia lietuvių tautosakos, folkloro ir tautodailės savitumą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

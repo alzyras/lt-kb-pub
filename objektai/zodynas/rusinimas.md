@@ -49,7 +49,13 @@ Brutaliu, diskriminaciniu rusinimu valdžia siekė aneksuotas Lenkijos ir Lietuv
   santrauka: 'Rusinimo politika 1864–1904 metais Šios politikos ėmėsi sukilimo slopintojas ir vienas jos sumanytojų Vilniaus generalgubernatorius M.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Programą sudarė kompleksas specialių
+    ekonominės ir kultūrinės politikos priemonių, turėjusių susilpninti vietos
     dvarininkijos ekonomines pozicijas ir užtikrinti, kad Rusijos aneksuotose
+    LLV žemėse, dabar oficialiai traktuojamose „nuo seno rusiškomis žemė-
+    mis“, viešajame gyvenime vietoje lenkų įsivyrautų rusų kalba, dominuo-
+    jančias pozicijas įgytų Rusų stačiatikių bažnyčia, o valstiečių vaikai įsilie-
+    tų į rusų aukštąją kultūrą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

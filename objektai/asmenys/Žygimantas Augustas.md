@@ -24,10 +24,6 @@ pabaigoje į Lietuvos istoriją įžengė garsiausia ir – tai svarbu – lietu
   teiginys: 'pabaigoje į Lietuvos istoriją įžengė garsiausia ir – tai svarbu – lietuvių kilmės valdovų – Gediminaičių dinastija, valdžiusi Lietuvą iki 1572 m. – Žygimanto Augusto mirties (po jo Lietuvą valdė svetimkilmiai valdovai).'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Tai ji atsivežė į Lenkiją ir Lietuvą italų architektų, dailininkų ir muzikų, išugdė Renesanso dvasia Žygimantą Augustą, kartu su juo pastatydino Vilniaus Žemutinę pilį, įdiegė daug naujų dalykų: nuo „itališkų pasivaikščiojimų“ – pokylių šokių – iki...'
-  pagrindžia:
-    - c-002
 - t-003
   teiginys: 'Tada Lietuvai buvo suduotas skaudus smūgis – karalius Žygimantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė beveik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos (Palenkę ir Voluinės, Kijevo ir Podolės (Braclavo) vaivadijas).'
   pagrindžia:
@@ -42,7 +38,11 @@ pabaigoje į Lietuvos istoriją įžengė garsiausia ir – tai svarbu – lietu
   santrauka: 'pabaigoje į Lietuvos istoriją įžengė garsiausia ir – tai svarbu – lietuvių kilmės valdovų – Gediminaičių dinastija, valdžiusi Lietuvą iki 1572 m. – Žygimanto Augusto mirties (po jo Lietuvą valdė svetimkilmiai valdovai).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tad
+    XIII a. pabaigoje į Lietuvos istoriją įžengė garsiausia ir – tai svarbu –
     lietuvių kilmės valdovų – Gediminaičių dinastija, valdžiusi Lietuvą iki
+    1572 m. – Žygimanto Augusto mirties (po jo Lietuvą valdė svetimkilmiai
+    valdovai).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -50,18 +50,6 @@ pabaigoje į Lietuvos istoriją įžengė garsiausia ir – tai svarbu – lietu
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Tai ji atsivežė į Lenkiją ir Lietuvą italų architektų, dailininkų ir muzikų, išugdė Renesanso dvasia Žygimantą Augustą, kartu su juo pastatydino Vilniaus Žemutinę pilį, įdiegė daug naujų dalykų: nuo „itališkų pasivaikščiojimų“ – pokylių šokių – iki...'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    kų ir muzikų, išugdė Renesanso dvasia Žygimantą Augustą, kartu su juo
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 - c-003
   santrauka: 'Tada Lietuvai buvo suduotas skaudus smūgis – karalius Žygimantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė beveik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos (Palenkę ir Voluinės, Kijevo ir Podolės (Braclavo) vaivadijas).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -81,7 +69,9 @@ pabaigoje į Lietuvos istoriją įžengė garsiausia ir – tai svarbu – lietu
   santrauka: 'Lietuvoje tai padarė 1563 m. Žygimanto Augusto privilegija, sulyginusi visų krikščioniškų konfesijų teises, tai tapo ir Antrojo bei Trečiojo Lietuvos Statutų teisine norma.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Žygimanto Augusto privilegija, sulyginusi visų
     krikščioniškų konfesijų teises, tai tapo ir Antrojo bei Trečiojo Lietuvos
+    Statutų teisine norma.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -95,6 +85,5 @@ pabaigoje į Lietuvos istoriją įžengė garsiausia ir – tai svarbu – lietu
 - [[temos/dinastija]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Bona Sforca]]
 - [[objektai/ivykiai/Varšuvos konfederacija]]
 - [[objektai/ivykiai/Žygimanto Augusto privilegija dėl krikščioniškų konfesijų teisių]]

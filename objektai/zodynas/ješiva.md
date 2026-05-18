@@ -55,7 +55,9 @@ Vartojamas Vilniaus Gaono pasiūlymų ir žydų mokymo reformų kontekste.
   santrauka: Ješivos apibrėžiamos kaip religinės mokslo įstaigos.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    ješivose (religinėse mokslo įstaigose)
+    Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas
+    ješivose (religinėse mokslo įstaigose) ir jose patobulintos Talmudo studi-
+    jos jidiš kalba.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -66,7 +68,10 @@ Vartojamas Vilniaus Gaono pasiūlymų ir žydų mokymo reformų kontekste.
   santrauka: 'Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas ješivose (religinėse mokslo įstaigose) ir jose patobulintos Talmudo studijos jidiš kalba.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas
+    ješivose (religinėse mokslo įstaigose) ir jose patobulintos Talmudo studi-
     jos jidiš kalba. Jis sukūrė beveik visų to meto žydų mokslo sričių veikalų:
+    nuo Šventojo Rašto komentarų iki hebrajų kalbos gramatikos ir biblinės
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

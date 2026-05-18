@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 18.
+Objektų skaičius: 17.
 
 ## Kaip naudoti
 
@@ -35,7 +35,6 @@ Objektų skaičius: 18.
 - [[objektai/paprociai/Vytauto Didžiojo kulto kūrimo ir jubiliejinių apeigų praktika]]
 - [[objektai/paprociai/Žuvusių partizanų kūnų viešas išniekinimas ir slapti užkasimai]]
 - [[objektai/paprociai/Žydų gelbėjimas ir slėpimas rizikuojant gyvybe]]
-- [[objektai/paprociai/Žydų kultūrinė autonomija, kahalų atstovavimas ir jidiš vartojimas Lietuvos Seime]]
 
 ### Įvykiai
 - [[objektai/ivykiai/Liubomirskio seimo išardymas (1639 m.)]]

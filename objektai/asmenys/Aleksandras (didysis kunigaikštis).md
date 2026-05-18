@@ -42,7 +42,10 @@ Aleksandro (1492—1506 m.) išrinkimas didžiuoju Lietu. Aleksandro asmuo ir jo
   santrauka: 'Aleksandro (1492—1506 m.) išrinkimas didžiuoju Lietu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Lietuvos ir Lenkijos artėjimo laikai
     1. Aleksandro (1492—1506 m.) išrinkimas didžiuoju Lietu-
+        vos kunigaikščiu 191
+    2.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -54,7 +57,9 @@ Aleksandro (1492—1506 m.) išrinkimas didžiuoju Lietu. Aleksandro asmuo ir jo
   santrauka: 'Aleksandro asmuo ir jo mirtis 201.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Ponų tarybos įsigalėjimas ir seimai 198
     5. Aleksandro asmuo ir jo mirtis 201
+    6.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -66,7 +71,10 @@ Aleksandro (1492—1506 m.) išrinkimas didžiuoju Lietu. Aleksandro asmuo ir jo
   santrauka: 'Aleksandras mirė 1506 m. ir buvo palaidotas Vilniaus katedroje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Aleksandras mirė 1506 m. ir buvo palaidotas Vilniaus katedroje
+    Aleksandras mirė 1506 m. ir buvo palaidotas Vilniaus katedroje, nes
+    lenkai, nenorėdami didinti laidotuvių išlaidų, jo kūno nevežė į Kro-
+    kuvą, į savo karalių kapus (1931 m. pradėjus kasinėti Vilniaus ka-
+    tedros rūsį, jo kapas buvo surastas).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -78,7 +86,11 @@ Aleksandro (1492—1506 m.) išrinkimas didžiuoju Lietu. Aleksandro asmuo ir jo
   santrauka: 'sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žygimantui Senajam 1519 m. vedus Milano kunigaikštytę Boną Sforcą (Bona Sforza).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Renesansas ir reformacija
+    Humanistinio išsilavinimo žmonių būta jau XV–XVI a.
     sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko
+    Žygimantui Senajam 1519 m. vedus Milano kunigaikštytę Boną Sforcą
+    (Bona Sforza).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

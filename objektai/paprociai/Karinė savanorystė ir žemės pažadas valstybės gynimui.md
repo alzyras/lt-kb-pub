@@ -77,7 +77,9 @@ Nepriklausomybės kovų metu karinė savanorystė siejama su entuziastingu stoji
   santrauka: Lietuvos kariuomenės augimas siejamas su savanoriais ir žemės sklypų pažadu.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Sa-
     vanoriai pakiliai, su entuziazmu ėjo į Lietuvos kariuomenę, tokių buvo
+    apie 12 000, jiems žadėti žemės sklypai.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -89,7 +91,11 @@ Nepriklausomybės kovų metu karinė savanorystė siejama su entuziastingu stoji
   santrauka: Karinis kvietimas priešintis įsiveržėliams siejamas su tautinių mažumų savanoryste ir žemės pažadu.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuviai atmetė
     bolševikų klasinės diferenciacijos schemą – M. Sleževičius pabrėžė, kad
+    lietuviai yra arba valstiečiai, arba jų vaikai, kad bus dalijama lenkų dva-
+    rininkų, kurių vaikai nuėjo į Lenkijos kariuomenę, žemė, kad jos gaus
+    bežemiai ir mažažemiai – dėl to dauguma gyventojų parėmė vyriausybę.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

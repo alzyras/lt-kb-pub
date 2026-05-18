@@ -33,6 +33,8 @@ Tuo laikotarpiu okupacinė valdžia kovai su partizanais vis dažniau naudojo ag
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tuo laikotarpiu okupacinė valdžia kovai su partizanais
+    vis dažniau naudojo agentų smogikų (mišrius iš užverbuotų buvusių par-
+    tizanų ir MGB kadrinių karininkų) būrius.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -44,7 +46,10 @@ Tuo laikotarpiu okupacinė valdžia kovai su partizanais vis dažniau naudojo ag
   santrauka: 'MGB-KGB agentai smogikai naudojo rezistencijos atributiką ir uniformas terorui, rezistentams naikinti, kankindavo ginkluoto pasipriešinimo dalyvius, tarp jų moteris, senelius, vaikus, sušaudydavo partizanų ryšininkus, rėmėjus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    MGB-KGB agentai smogikai nau-
     dojo rezistencijos atributiką ir uniformas terorui, rezistentams naikinti,
+    kankindavo ginkluoto pasipriešinimo dalyvius, tarp jų moteris, senelius,
+    vaikus, sušaudydavo partizanų ryšininkus, rėmėjus.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -31,6 +31,7 @@ Karolis pagaliau buvo priverstas išsidanginti iš Turkijos.
   santrauka: 'Karolis pagaliau buvo priverstas išsidanginti iš Turkijos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Taip pat papirkimais jis išvengė naujų turkų puolimų, ir
     Karolis pagaliau buvo priverstas išsidanginti iš Turkijos. Su
     mažu palydovų būreliu jis grįžo per Vokietiją į Švediją, kur
     jo jau seniai laukė nauji rūpesčiai.
@@ -45,7 +46,10 @@ Karolis pagaliau buvo priverstas išsidanginti iš Turkijos.
   santrauka: 'O kai pamatai po provincijos miestelį Tryškius vaikštantį Erkiulį Puaro – aktorių Davidą Suchetą – ir ieškantį savo protėvių Suchedowitzų, emigravusių per Turkiją į PAR, pagalvoji, kiek dar tokių vardų slepia Lietuva?'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    O kai pamatai po provincijos
     miestelį Tryškius vaikštantį Erkiulį Puaro – aktorių Davidą Suchetą – ir
+    ieškantį savo protėvių Suchedowitzų, emigravusių per Turkiją į PAR, pa-
+    galvoji, kiek dar tokių vardų slepia Lietuva?
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

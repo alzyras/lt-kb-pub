@@ -42,7 +42,11 @@ Nenurodyta
   santrauka: 'Jei valdžia būtų leidusi lietuviškas pradžios mokyklas ir nedraudusi jose dirbti mokytojais lietuviams, nesiėmusi diskriminacinių priemonių prieš Katalikų bažnyčią ir katalikų viliojimo į stačiatikybę, abėcėlė boikoto galėjo nesusilaukti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Sužlugdyta ir valdžios užmačia pakeisti lietuvių raštijoje tradicinį
     lotyniškąjį raidyną kirilika. Jei valdžia būtų leidusi lietuviškas pradžios
+    mokyklas ir nedraudusi jose dirbti mokytojais lietuviams, nesiėmusi dis-
+    kriminacinių priemonių prieš Katalikų bažnyčią ir katalikų viliojimo į
+    stačiatikybę, abėcėlė boikoto galėjo nesusilaukti.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

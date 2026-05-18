@@ -28,6 +28,11 @@ Kauno Vytauto Didžiojo universiteto veiklą papildė Žemės ūkio akademija Do
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kauno Vytauto Didžiojo universiteto veiklą papildė Žemės ūkio
+    akademija Dotnuvoje, Veterinarijos akademija Kaune, rengusios speci-
+    alistus žemės ūkiui, Pedagoginis institutas rengė mokytojus, Dailės mo-
+    kykla ir konservatorija ugdė menininkus, gavę valstybės stipendijas apie
+    1 500 jaunų lietuvių baigė užsienyje inžinerijos, jūreivystės, medicinos,
+    kalbų ir istorijos, karo mokslus.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

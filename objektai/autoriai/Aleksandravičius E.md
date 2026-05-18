@@ -21,14 +21,20 @@ Aleksandravičius E., Kulakauskas A.
   teiginys: 'Aleksandravičius E., Kulakauskas A.'
   pagrindžia:
     - c-001
+- t-002
+  teiginys: 'Literatūra tolesniam skaitymui Aleksandravičius E., Kulakauskas A.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Aleksandravičius E., Kulakauskas A.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Literatūra
+    tolesniam skaitymui
     Aleksandravičius E., Kulakauskas A. Carų valdžioje. Lietuva XIX am-
-    žiuje. Vilnius, 1996.
+    žiuje.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -36,6 +42,7 @@ Aleksandravičius E., Kulakauskas A.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

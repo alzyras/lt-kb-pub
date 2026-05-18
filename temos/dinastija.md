@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 34.
+Objektų skaičius: 35.
 
 ## Kaip naudoti
 
@@ -26,6 +26,7 @@ Objektų skaičius: 34.
 
 ### Daiktai
 - [[objektai/daiktai/Gediminaičių stulpai]]
+- [[objektai/daiktai/Įsivaizduojami Lietuvos valdovų portretai]]
 
 ### Grupės
 - [[objektai/grupes/Alšėnų kunigaikščiai]]
@@ -51,7 +52,7 @@ Objektų skaičius: 34.
 - [[objektai/paprociai/Kandidatas Sosto paveldėjimo principas Gediminaičių dinastijoje]]
 
 ### Posakiai
-- [[objektai/posakiai/„jogailaičių Europa“ „krikščionybės forpostas“]]
+- [„jogailaičių Europa“ „krikščionybės forpostas“](../objektai/posakiai/%E2%80%9Ejogailai%C4%8Di%C5%B3%20Europa%E2%80%9C%20%E2%80%9Ekrik%C5%A1%C4%8Dionyb%C4%97s%20forpostas%E2%80%9C)
 - [„narsią ir karingą tautą“](../objektai/posakiai/%E2%80%9Enarsi%C4%85%20ir%20karing%C4%85%20taut%C4%85%E2%80%9C)
 - [„tvanas“](../objektai/posakiai/%E2%80%9Etvanas%E2%80%9C)
 

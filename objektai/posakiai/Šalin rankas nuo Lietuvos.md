@@ -48,7 +48,12 @@ tags: []
   santrauka: Citata pateikia šūkius, demonstracijos mastą ir Sausio 13-osios atgarsio kontekstą.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1991 m. kovą daugiau nei
+    200 tūkst. demonstracijoje dalyvavusių maskviečių skandavo šūkius „Ša-
     lin rankas nuo Lietuvos“, „Gorbačiovai, atsistatydink!“
+    Lietuvos gyventojai, tragiškomis dienomis ištisas paras budėję prie
+    tautos širdies – Lietuvos parlamento, – sugebėjo atsilaikyti prieš ginkluo-
+    tą jėgą, taikiomis priemonėmis sustabdė beįsibėgėjančią sovietų agresiją.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

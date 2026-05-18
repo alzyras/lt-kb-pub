@@ -28,6 +28,7 @@ Po 1812 m. Lietuvoje labai išpopuliarėjo masonų judėjimas.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Garsiausioji ložė vadinosi „Uolusis
+    lietuvis“ („Gorliwy Litwin“).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -29,7 +29,12 @@ Tačiau būtent šių žygių į Maskvą metu 1371 m. laiške Konstantinopolio p
   santrauka: 'Tačiau būtent šių žygių į Maskvą metu 1371 m. laiške Konstantinopolio patriarchui Algirdas pasivadina „lietuvių imperatoriumi“ („vasilea Letvon“), taip iškeldamas save virš Maskvos, Tverės ir kitų kunigaikščių ir prisilygindamas Bizantijos imperatoriui –.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tačiau būtent šių žygių į Maskvą metu
+    1371 m. laiške Konstantinopolio patriarchui Algirdas pasivadina „lietu-
+    vių imperatoriumi“ („vasilea Letvon“), taip iškeldamas save virš Maskvos,
     Tverės ir kitų kunigaikščių ir prisilygindamas Bizantijos imperatoriui –
+    Lietuvos valdovai puikiai orientavosi ne tik Vakarų, bet ir Rytų Europos
+    politinėje sistemoje.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

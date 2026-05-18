@@ -53,7 +53,10 @@ Haličo-Voluinės, arba Ipatijaus, metraštis minimas kaip šaltinis, kuriame pr
   santrauka: Citata pagrindžia metraščio pavadinimą, datą ir keturių dievų paminėjimą.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Ilgainiui pasakojimas
+    apie prūsų dievų trejybę papildytas naujomis smulkmenomis ar intar-
     pais, iliustruotas piešiniais. Haličo-Voluinės (Ipatijaus) metraštyje prie
+    1252 m. minimi keturi dievai.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

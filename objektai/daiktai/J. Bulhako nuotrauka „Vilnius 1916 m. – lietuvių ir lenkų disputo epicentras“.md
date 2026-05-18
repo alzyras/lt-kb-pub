@@ -36,12 +36,17 @@ Nenurodyta
   teiginys: 'Vilnius 1916 m. – lietuvių ir lenkų disputo epicentras.'
   pagrindžia:
     - c-001
+- t-002
+  teiginys: 'Pasitarimai vyko, teikta ir pasiūlymų, tačiau visus Vilnius 1916 m. – lietuvių ir lenkų disputo epicentras.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vilnius 1916 m. – lietuvių ir lenkų disputo epicentras.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Pasitarimai vyko, teikta ir pasiūlymų, tačiau visus
     Vilnius 1916 m. – lietuvių ir lenkų disputo epicentras.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -50,3 +55,4 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+    - t-002

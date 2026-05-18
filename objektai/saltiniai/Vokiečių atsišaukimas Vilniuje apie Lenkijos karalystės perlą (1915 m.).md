@@ -28,7 +28,10 @@ Dar nesusigaudę kur pateko, vokiečiai Vilniuje išplatino atsišaukimą, kuria
   santrauka: 'Dar nesusigaudę kur pateko, vokiečiai Vilniuje išplatino atsišaukimą, kuriame Vilnius buvo pavadintas „gražiausiu Lenkijos karalystės perlu“, tačiau, lietuviams užprotestavus, tuos atsišaukimus nudraskė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Dar nesusigaudę kur pateko, vokiečiai Vil-
     niuje išplatino atsišaukimą, kuriame Vilnius buvo pavadintas „gražiausiu
+    Lenkijos karalystės perlu“, tačiau, lietuviams užprotestavus, tuos atsišau-
+    kimus nudraskė.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

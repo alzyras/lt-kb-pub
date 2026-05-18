@@ -74,7 +74,12 @@ Nenurodyta
   santrauka: III Seimo rinkimų rezultatas, naujos koalicijos sudarymas ir prezidento išrinkimas.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    O čia dar po kie-
+    toko trejų metų krikščionių demokratų bloko valdymo 1926 m. gegužės
+    8–9 d. rinkimai į 85 vietų III Seimą atnešė sensaciją – LKDP blokas pra-
     laimėjo. Naują valdančiąją koaliciją birželį pirmą kartą suformavo kairė –
+    valstiečiai liaudininkai ir socialdemokratai, prie jų prisidėjo septyni tau-
+    tinių mažumų atstovai Seime.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

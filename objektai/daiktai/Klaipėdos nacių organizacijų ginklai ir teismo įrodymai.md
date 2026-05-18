@@ -47,7 +47,10 @@ Nenurodyta
   santrauka: 'Lietuvos valdžia kruopščiai rinko kaltinamąją medžiagą, atliko kratas, per kurias išaiškėjo, kad 805 nacių organizacijų nariai turėjo 1 104 šaunamuosius ginklus, kurstomosios literatūros.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuvos valdžia
+    kruopščiai rinko kaltinamąją medžiagą, atliko kratas, per kurias išaiškė-
     jo, kad 805 nacių organizacijų nariai turėjo 1 104 šaunamuosius ginklus,
+    kurstomosios literatūros.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

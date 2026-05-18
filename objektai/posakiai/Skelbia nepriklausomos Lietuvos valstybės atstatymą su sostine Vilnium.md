@@ -87,3 +87,6 @@ tags:
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
+
+### Susiję objektai
+- [[objektai/grupes/Lietuvos Taryba]]

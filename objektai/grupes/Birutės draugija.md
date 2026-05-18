@@ -61,6 +61,5 @@ Pirmoji tokia organizacija buvo 1885 m. Tilžėje įkurta „Birutės" draugija.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/autoriai/Jonas Basanavičius]]
 - [[objektai/asmenys/V. Bruožis]]
 - [[objektai/grupes/Vokiečių literatų draugija]]

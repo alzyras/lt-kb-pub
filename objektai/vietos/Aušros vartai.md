@@ -28,7 +28,11 @@ Seimo pirmininkas Vytautas Landsbergis su svečiu Vilniaus senamiestyje prie Au�
   santrauka: 'Seimo pirmininkas Vytautas Landsbergis su svečiu Vilniaus senamiestyje prie Aušros vartų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    vizitas į Lietuvą. Seimo pirmininkas  Vytautas Landsbergis
+    Planinės
+    ekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad, paėmus
+    į savo rankas gamybą, bus galima ją pasiskirstyti pagal savo poreikius
+    Pirmasis Prancūzijos prezidento Fransua Miterano
+    vizitas į Lietuvą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -36,8 +40,3 @@ Seimo pirmininkas Vytautas Landsbergis su svečiu Vilniaus senamiestyje prie Au�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Fransua Miteranas]]
-- [[objektai/asmenys/Vytautas Landsbergis]]

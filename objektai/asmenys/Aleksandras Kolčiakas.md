@@ -29,7 +29,12 @@ Kovos veiksmai su raudonaisiais baigėsi jų išstūmimu iš Lietuvos 1919 m. va
   santrauka: 'Kovos veiksmai su raudonaisiais baigėsi jų išstūmimu iš Lietuvos 1919 m. vasarą, rudenį sumušta ir keista Pavelo Bermonto-Avalovo (Pavel Bermondt-Avalov) vadovaujama rusų ir vokiečių kariuomenė (bermontininkai), formaliai pavaldi rusų baltųjų generolui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Kovos veiksmai su raudonaisiais
+    baigėsi jų išstūmimu iš Lietuvos 1919 m. vasarą, rudenį sumušta ir keista
+    Pavelo Bermonto-Avalovo (Pavel Bermondt-Avalov) vadovaujama rusų
+    ir vokiečių kariuomenė (bermontininkai), formaliai pavaldi rusų baltųjų
     generolui Aleksandrui Kolčiakui. Iš jų paimtas karo grobis svariai papildė
+    Lietuvos kariuomenės ginkluotę.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

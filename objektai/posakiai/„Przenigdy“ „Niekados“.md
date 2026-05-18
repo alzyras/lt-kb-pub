@@ -28,7 +28,10 @@ Czarkowski) brošiūra „Przenigdy“ („Niekados“), kuri lenkų ir lietuvi�
   santrauka: 'Czarkowski) brošiūra „Przenigdy“ („Niekados“), kuri lenkų ir lietuvių santykius pablogino.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Pasiūlymo bendradarbiauti su bajorais Vilniaus lenkai atsisakė
+    dr. T. Čarkovskio (T. Czarkowski) brošiūra „Przenigdy“ („Niekados“), kuri
     lenkų ir lietuvių santykius pablogino. Daugelis bajorų apskritai nesuprato
+    lietuvių siekių, o bendradarbiavimą su jais laikė negarbe.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

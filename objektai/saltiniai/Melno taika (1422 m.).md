@@ -49,6 +49,8 @@ Pagaliau magistras paprašė taikos; ji buvo padaryta netoli Melno ežero, kariu
     menės nusiaubė visą kraštą. Pagaliau magistras paprašė taikos;
     ji buvo padaryta netoli Melno ežero, kariuomenės sto-
     vykloje, 1422 m. rugsėjo 27 d.
+    Šia taika buvo galutinai išspręstas ginčijamų teritorijų klau-
+    simas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -60,6 +62,9 @@ Pagaliau magistras paprašė taikos; ji buvo padaryta netoli Melno ežero, kariu
   santrauka: 'Šia taika buvo galutinai išspręstas ginčijamų teritorijų klausimas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Pagaliau magistras paprašė taikos;
+    ji buvo padaryta netoli Melno ežero, kariuomenės sto-
+    vykloje, 1422 m. rugsėjo 27 d.
     Šia taika buvo galutinai išspręstas ginčijamų teritorijų klau-
     simas. Ja Lietuvos siena su ordinu buvo nustatyta ir ilgus am-
     žius išliko maždaug ta pati, kuri vėliau ėjo tarp Rusijos ir Vo-
@@ -88,7 +93,10 @@ Pagaliau magistras paprašė taikos; ji buvo padaryta netoli Melno ežero, kariu
   santrauka: 'Kadangi ryškėjo Lenkijos, o ne Lie- 1 skyrius • S E N O J I L I E T U VA 51 tuvos hegemonija regione ir santykiai su Lenkija po Melno taikos tapo svarbiausia politinė problema, pradėtas įgyvendinti Vytauto vainikavimo projektas buvo aktualus ir tarptautiniu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    tuvos hegemonija regione ir santykiai su Lenkija po Melno taikos tapo
     svarbiausia politinė problema, pradėtas įgyvendinti Vytauto vainikavimo
+    projektas buvo aktualus ir tarptautiniu mastu, nes be Lietuvos nebuvo
+    galima išspręsti svarbesnių regiono klausimų.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

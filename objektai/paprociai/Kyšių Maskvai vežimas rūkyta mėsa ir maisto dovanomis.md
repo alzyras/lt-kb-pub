@@ -63,7 +63,10 @@ Sovietmečiu investicijų ir statybų Lietuvoje kontekste minimas kyšių vežim
   santrauka: Citata tiesiogiai nurodo kyšių vežimą ir jo ryšį su investicijomis Lietuvoje.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tai patikdavo Maskvos nomenklatūrai, turėjusiai didelių korupci-
     jos ir vagysčių problemų kitose SSRS vietose. Dėl didelių įmonių, ypač
+    chemijos, nesant lėšų gamtos apsaugai, statybos ir gyventojų gausėjimo
+    didžiuosiuose miestuose ėmė rastis ekologinių problemų.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

@@ -44,7 +44,9 @@ Nenurodyta
   santrauka: 'Tačiau nuo 1864 m., valdžiai bandant keisti krašto kultūrinę ir tautinę tapatybę, neva ištaisant per 500 metų ligtolinės istorijos vyksmo padarytas klaidas ir skriaudas, netgi jokio prieš valdžią nukreipto politinio turinio neturinti knyga, laikraštis ar.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Moky-
     tis skaityti ir rašyti teko slepiantis nuo žandarų, policijos ir valdininkų,
+    rizikuojant atsidurti Rusijos platybėse.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

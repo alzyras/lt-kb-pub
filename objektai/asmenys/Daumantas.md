@@ -75,6 +75,8 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   santrauka: 'karo vadu dažniausiai skirdavo Gardino srities kunigaikštį Dovydą (spėjama, kad jis buvęs Mindaugo nužudyme dalyvavusio, o vėliau Pskovą valdžiusio, Daumanto sūnus).'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Gediminas nebuvo toks karingas, kaip Vytenis.
+    Jis pats labai retai vadovavo kariuomenei: kai tekdavo kariauti,
     karo vadu dažniausiai skirdavo Gardino srities kunigaikštį
     Dovydą (spėjama, kad jis buvęs Mindaugo nužudyme dalyvavu-
     sio, o vėliau Pskovą valdžiusio, Daumanto sūnus).
@@ -104,7 +106,9 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   santrauka: Daumantas pristatomas kaip Mindaugo svogeris ir Treniotos sąjungininkas
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Savo tikslui Treniota rado sąjun­
+    Neminėdama vardo, Eiliuotinė Livonijos kronika apie Mindaugo
+    nužudytoją sako, jog jis buvęs tiek pat turtingas, kaip ir Mindau­
+    gas, ir tiek pat turėjęs palydos 208 209 210 Savo tikslui Treniota rado sąjun­
     gininką Nalšėnų kunigaikštį Daumantą, Mindaugo švogerį, norėjusį
     atkeršyti asmenišką skriaudą.
   citata_rodoma: ""
@@ -133,7 +137,7 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
 
     karo žmogus, Pskovui pasirodė labai naudingas. Jis buvo išrinktas
     Pskovo kunigaikščiu ir, vesdamas Aleksandro Nevskio sūnaus Dimi­
-    tro dukterį, susigiminiavo su Riurikaičiais
+    tro dukterį, susigiminiavo su Riurikaičiais.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -160,7 +164,9 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   santrauka: 'Nalšios kunigaikštis Daumantas (iš kurio Mindaugas paveržė žmoną), veikęs išvien su stipriausiu Mindaugo varžovu Treniota, 1263 m. nužudė Mindaugą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Nalšios kunigaikštis Daumantas (iš kurio Mindaugas paveržė žmoną),
     veikęs išvien su stipriausiu Mindaugo varžovu Treniota, 1263 m. nužudė
+    Mindaugą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -1,21 +1,32 @@
 ---
 tipas: ivykis
 pavadinimas: 'Pirmieji masiniai areštai Lietuvoje (1940 m. liepos 10-17 d.)'
-sukurta: '2026-05-14'
+sukurta: '2026-05-18'
 variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1940 m.'
+  - '1941 m.'
+periodas: 'okupacijų ir sovietmečio laikotarpis'
+periodo_grupes:
+  - 'XX a.'
+amziai:
+  - 'XX'
+date_start: '1940'
+date_end: '1941'
 patikimumas: 'vidutinis'
 tags:
   - ivykis
+  - sukilimas
   - valstybė
 ---
 # Pirmieji masiniai areštai Lietuvoje (1940 m. liepos 10-17 d.)
 
 ## Santrauka
 
-Represijos, areštai, deportacijos, jų baimė – sudedamoji bolševikų vykdytos politikos dalis.
+Represijos ir 1941 metų Birželio sukilimas Represijos, areštai, deportacijos, jų baimė – sudedamoji bolševikų vykdytos politikos dalis.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -31,16 +42,27 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Represijos, areštai, deportacijos, jų baimė – sudedamoji bolševikų vykdytos politikos dalis.'
+  teiginys: 'Represijos ir 1941 metų Birželio sukilimas Represijos, areštai, deportacijos, jų baimė – sudedamoji bolševikų vykdytos politikos dalis.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Represijos, areštai, deportacijos, jų baimė – sudedamoji bolševikų vykdytos politikos dalis.'
+  santrauka: 'Represijos ir 1941 metų Birželio sukilimas Represijos, areštai, deportacijos, jų baimė – sudedamoji bolševikų vykdytos politikos dalis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Represijos ir 1941 metų
+    Birželio sukilimas
+    Represijos, areštai, deportacijos, jų baimė – sudedamoji
+    bolševikų vykdytos politikos dalis. 1940 m. liepos 6 d. Valstybės saugumo
     departamento direktorius A. Sniečkus išleido įsakymą, leidžiantį suimti
+    agituojančiuosius prieš Liaudies vyriausybę, patvirtintas Lietuvos politi-
+    nių partijų, šaulių vadovybės „operatyvinės likvidacijos planas“, parengti
+    numatytų suimti asmenų sąrašai, o sovietų NKVD kariuomenės daliniai
+
+    L I E T U V O S  I S T O R I J A
+    194
+    turėjo neleisti tokiems pabėgti į Vokietiją.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -50,6 +72,5 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuvos šaulių sąjunga]]
-- [[objektai/grupes/NKVD]]
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]

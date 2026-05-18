@@ -114,6 +114,7 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   santrauka: 'Naugardu, o Lietuvos įtakoje — Tverė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Maža to, Kazimieras net pasidalino su Maskva įtakos sritimis:
     Maskvos įtakoje buvo palikti Pskovas su D. Naugardu, o Lie-
     tuvos įtakoje — Tverė. Riazanei buvo palikta teisė pačiai
     pasirinkti sau globą.
@@ -147,6 +148,7 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
     Rem-
     damas paskutinį Tverės bandymą atsiimti iš Maskvos prarastą pirmeny-
     bę, Algirdas net triskart – 1368, 1370 ir 1372 m. – surengė žygį į Maskvą,
+    tačiau Kremliaus užimti nepajėgė.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -157,6 +159,10 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Didysis Naugardas]]
+- [[objektai/vietos/Kremlius]]
 - [[objektai/vietos/Maskva]]
 - [[objektai/vietos/Možaiskas]]
 - [[objektai/vietos/Pskovas]]
+- [[objektai/vietos/Riazanė]]
+- [[objektai/zodynas/legatas]]

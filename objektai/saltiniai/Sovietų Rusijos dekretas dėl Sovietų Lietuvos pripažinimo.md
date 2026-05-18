@@ -27,6 +27,7 @@ Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija
   santrauka: 'Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Po savaitės ją Vladimiro
     Lenino pasirašytu dekretu pripažino Sovietų Rusija.
   citata_rodoma: ''
   teiginio_tipas: faktas

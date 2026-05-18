@@ -49,7 +49,10 @@ Nenurodyta
   santrauka: 'Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat scenarijus taikytas Latvijoje ir Estijoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus –
     toks pat scenarijus taikytas Latvijoje ir Estijoje. Į vieną vietą leista iškelti
+    vieną kandidatą, o kandidatus galėjo kelti tik komunistų partija, kom-
+    jaunimas, MOPR’as ir komunistų vadovaujamos profesinės sąjungos.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -61,7 +64,12 @@ Nenurodyta
   santrauka: 'Per rinkimų agitaciją valdžia daug dėmesio skyrė A.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Per rinkimų agitaciją valdžia daug dėmesio
+    skyrė A. Smetonos režimo kritikai ir niekinimui, propagandai, meluo-
+    ta, kad rinkimai vyks demokratiškai, Lietuva išliks nepriklausoma, bus
     išsaugotas litas, neigtos kalbos apie kolūkių steigimą. Viešai grasinama,
+    kad „asmenys, kurie nebalsuos, yra liaudies priešai“ – jais vadinami tau-
+    tininkai ir aukštus postus turėję valdininkai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -74,6 +82,7 @@ Nenurodyta
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Oficialiais duomenimis, liepos 14–15 dienos rinkimuose į Liaudies
+    seimą dalyvavo 95 proc.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

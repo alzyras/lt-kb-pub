@@ -27,7 +27,10 @@ LLL buvo paskutinė rezistencijos organizacija, kuri brežnevinės stagnacijos l
   santrauka: 'LLL buvo paskutinė rezistencijos organizacija, kuri brežnevinės stagnacijos laikotarpiu gaivino pasipriešinimo tradiciją ir dvasią.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    So-
+    vietinio režimo žlugimo išvakarėse veikdama nelegaliai ir pusiau legaliai,
     ji sulaukė Atgimimo epochos ir tapo pirmąja nacionalinio išsivadavimo
+    organizacija.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

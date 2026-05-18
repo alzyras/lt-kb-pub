@@ -30,6 +30,7 @@ Abi šalys sutarė priimti tą planą kaip „bazę diskusijom“.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuva ir Lenkija turėjo koordinuoti užsienio politiką ir sudaryti karinę
+    ir ekonominę konvencijas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -41,3 +42,4 @@ Abi šalys sutarė priimti tą planą kaip „bazę diskusijom“.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Polis Himansas]]
+- [[objektai/grupes/Tautų Sąjunga]]

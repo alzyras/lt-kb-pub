@@ -28,7 +28,12 @@ Nepaisant nepriklausomybės pradžioje susovietintų Vilniaus krašto lenkų kom
   santrauka: 'Nepaisant nepriklausomybės pradžioje susovietintų Vilniaus krašto lenkų komunistinių funkcionierių planų (Maskvos inspiruota akcija) turėti savo, jų supratimu, teritorinę autonomiją (į ją turėjo įeiti Vilniaus apskritis, apimanti lenkiškus Vilniaus ir.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Nepaisant nepriklausomybės pradžioje susovietintų Vilniaus
+    krašto lenkų komunistinių funkcionierių planų (Maskvos inspiruota
+    akcija) turėti savo, jų supratimu, teritorinę autonomiją (į ją turėjo įeiti
+    Vilniaus apskritis, apimanti lenkiškus Vilniaus ir Šalčininkų rajonus),
     Lietuvos valdžiai terminuotai įvedus juose tiesioginį valdymą, santykiai
+    su Lenkija nepablogėjo – Varšuva suprato, kas ten suka reikalus.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -39,10 +39,6 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   teiginys: 'Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į talką Vytenį.'
   pagrindžia:
     - c-005
-- t-006
-  teiginys: 'Jakštas, Vokiečių ord. ir Lietuva Vytenio ir Gedimino metu (Senovė, I, II); V.'
-  pagrindžia:
-    - c-006
 - t-007
   teiginys: 'Vytenis šiame šaltinyje žymi ilgo Lietuvos krikšto derybų laikotarpio pradžios valdovą.'
   pagrindžia:
@@ -69,7 +65,9 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   santrauka: 'Vytenis (1295-1316 m.) 65.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Gediminaičių dinastijos pradžia 64
     3. Vytenis (1295-1316 m.) 65
+    4.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -140,26 +138,15 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-- c-006
-  santrauka: 'Jakštas, Vokiečių ord. ir Lietuva Vytenio ir Gedimino metu (Senovė, I, II); V.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    _J. Jakš-
-    tas,_ Vokiečių ord. ir Lietuva Vytenio ir Gedimino metu (Senovė, I, II);
-    _V. Vasilievskij,_ Obraščenije Gediminą v katoličestvo (Žurnal Min. Nar. Pr.,
-    t. 169, 1871; liet. _J. Bagdono_ vert.: „Gedimino krikštas", Šviet. Darbas, 1922;
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-006
 - c-007
   santrauka: Vytenis minimas kaip krikšto derybų laikotarpio pradžios valdovas.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Jie per aštuonis dešimtmečius (nuo Vytenio iki Jogailos)
+    Matomai Lietuvos valdo­
+    vai, kurie iki 1385 m. dar buvo pagonys, ar buvo pagoniškais pa­
+    pročiais palaidojami (paskutinieji jų, Algirdas 1377 m. ir Kęstutis
+    1382 m.), ir savo valdomą lietuvių tautą patys tebelaikė dar pago­
+    niška. Jie per aštuonis dešimtmečius (nuo Vytenio iki Jogailos)
     vis daug kartų yra vedę derybas Lietuvos krikšto reikalu.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -187,7 +174,10 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   santrauka: 'pabaigoje minimi dar šie Lietuvos didieji kunigaikščiai: Butigeidis, po jo – šio brolis Butvydas, dar vėliau – Butvydo sūnus Vytenis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Gediminaičių dinastijos iškilimas
+    XIII a. pabaigoje minimi dar šie Lietuvos didieji kunigaikš-
     čiai: Butigeidis, po jo – šio brolis Butvydas, dar vėliau – Butvydo sūnus
+    Vytenis.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

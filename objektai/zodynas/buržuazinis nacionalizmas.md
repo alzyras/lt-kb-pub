@@ -31,7 +31,10 @@ Kai kuriems jų neleista apsigyventi Lietuvoje, dirbti vadovaujamo darbo, mokyti
   santrauka: 'Kai kuriems jų neleista apsigyventi Lietuvoje, dirbti vadovaujamo darbo, mokyti aukštosiose mokyklose, jie ignoruojami, sekami, jiems prikaišiojama „antisovietinė veikla“ ir „buržuazinis nacionalizmas“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Kai kuriems jų neleista apsi-
+    gyventi Lietuvoje, dirbti vadovaujamo darbo, mokyti aukštosiose moky-
     klose, jie ignoruojami, sekami, jiems prikaišiojama „antisovietinė veikla“
+    ir „buržuazinis nacionalizmas“.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -44,6 +47,8 @@ Kai kuriems jų neleista apsigyventi Lietuvoje, dirbti vadovaujamo darbo, mokyti
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Todėl nuo šeštojo dešimtmečio pabaigos prasidėjo Vilniaus universiteto
+    Lietuvių literatūros katedros darbuotojų, kai kurių kultūros veikėjų ide-
+    ologinis puolimas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

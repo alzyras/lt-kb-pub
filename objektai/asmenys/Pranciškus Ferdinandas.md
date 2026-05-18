@@ -29,7 +29,16 @@ N aują impulsą savo veiklai Europos šalių tautiniai sąjūdžiai gavo 1914 m
   santrauka: 'N aują impulsą savo veiklai Europos šalių tautiniai sąjūdžiai gavo 1914 m. birželio 28 d. Sarajeve nugriaudėjus šūviams į Austrijos-Vengrijos erchercogą Pranciškų Ferdinandą (Franz Ferdinand), kai dvi didelės koalicijos perėjo į karo padėtį – Vokietijos ir.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    KOVA DĖL NEPRIKLAUSOMYBĖS
+    Lietuvos planai: nuo autonomijos
+    iki nepriklausomybės
+    N
+    aują impulsą savo veiklai Europos šalių tautiniai są-
+    jūdžiai gavo 1914 m. birželio 28 d. Sarajeve nugriau-
     dėjus šūviams į Austrijos-Vengrijos erchercogą Pranciškų Ferdinandą
+    (Franz Ferdinand), kai dvi didelės koalicijos perėjo į karo padėtį – Vo-
+    kietijos ir Austrijos–Vengrijos imperijos pradėjo karą prieš trilypę Pran-
+    cūzijos, Didžiosios Britanijos ir Rusijos imperijos Antantę.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

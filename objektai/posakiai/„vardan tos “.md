@@ -29,7 +29,13 @@ tags:
   santrauka: 'Ši nedidelė knygelė pateikia aiškų atsakymą į klausimą, kuris Lietuvos žmonėms yra vienas svarbiausių, brangiausių ir labiausiai įkvepiančių: kaip gimė Lietuva ir kodėl mūsų valstybė yra ne atsitiktinumų ar šalutinių aplinkybių išraiška, bet šimtmečius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Ši nedidelė knygelė
+    pateikia aiškų atsakymą į klausimą, kuris Lietuvos žmonėms yra vienas
     svarbiausių, brangiausių ir labiausiai įkvepiančių: kaip gimė Lietuva ir
+    kodėl mūsų valstybė yra ne atsitiktinumų ar šalutinių aplinkybių išraiška,
+    bet šimtmečius brandintas vaisius, teisėtu tautos apsisprendimu grįstas
+    savarankiškumo kelias ir dėsningas, užtarnautas atpildas už kiekvieno
+    lietuvio gyvenimą vardan tos?
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

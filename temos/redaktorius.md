@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 19.
+Objektų skaičius: 21.
 
 ## Kaip naudoti
 
@@ -26,6 +26,7 @@ Objektų skaičius: 19.
 - [[objektai/autoriai/Alfonsas Eidintas]]
 - [[objektai/autoriai/Dr. J. Šliūpas]]
 - [[objektai/autoriai/Gražina Indrišiūnienė]]
+- [[objektai/autoriai/Inga Vinogradnaitė]]
 - [[objektai/autoriai/Jonas Basanavičius]]
 - [[objektai/autoriai/Jonas Šliūpas]]
 - [[objektai/autoriai/Kuršaitis (redaktorius, 1849–1880 m.)]]
@@ -37,6 +38,7 @@ Objektų skaičius: 19.
 
 ### Grupės
 - [[objektai/grupes/Estai]]
+- [[objektai/grupes/Vilniaus universiteto leidykla]]
 
 ### Papročiai
 - [[objektai/paprociai/Kandidatas 63 Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui]]

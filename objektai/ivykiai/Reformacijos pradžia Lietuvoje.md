@@ -47,6 +47,7 @@ Nenurodyta
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1517 m. Martyno Liuterio (Martin Luther) pradėta reformacija laikoma
+    viena iš reikšmingiausių Naujųjų amžių apraiškų.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -58,7 +59,11 @@ Nenurodyta
   santrauka: 'Kulvietis, pasinaudodamas reformacija, iškėlusia gimtosios kalbos svarbą bendraujant su Dievu, suformulavo tokią kultūrinę programą, kuri lietuvių kalbą turėjo padaryti visos švietimo sistemos pagrindu, pakelti šią kalbą į valstybės interesų lygį ir taip.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    A. Kulvietis, pa-
+    sinaudodamas reformacija, iškėlusia gimtosios kalbos svarbą bendraujant
     su Dievu, suformulavo tokią kultūrinę programą, kuri lietuvių kalbą turėjo
+    padaryti visos švietimo sistemos pagrindu, pakelti šią kalbą į valstybės in-
+    teresų lygį ir taip išugdyti lietuvių inteligentiją.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

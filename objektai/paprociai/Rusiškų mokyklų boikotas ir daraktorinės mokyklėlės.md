@@ -71,7 +71,10 @@ Nenurodyta
   santrauka: Rusiškų mokyklų boikotas siejamas su Valančiaus raginimu per kunigus.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    vyskupas per patikimus kunigus paragino kaimiečius vaikų į tokias
+    Po 1863–
+    1864 m. sukilimo leidus steigti tik rusiškas mokyklas, kuriose mokytų
+    rusai, vyskupas per patikimus kunigus paragino kaimiečius vaikų į tokias
+    mokyklas neleisti.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -84,7 +87,9 @@ Nenurodyta
   santrauka: Daraktorinių mokyklėlių tęstinumas šaltinyje pavadintas tradicija.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    buvo poreikis, susiformavo tradicija.
+    Nors tas mokyklėles persekiojo policija, įkliuvusius jų mokytojus valdžia
+    kartais ištremdavo keleriems metams į Rusijos gilumą, tai nieko neatbai-
+    dė – buvo poreikis, susiformavo tradicija.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -97,6 +102,7 @@ Nenurodyta
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kaime ir toliau vaikus mokyta skaityti,
+    rašyti ir skaičiuoti grupelėmis namuose – to valdžia nebedraudė.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -111,3 +117,7 @@ Nenurodyta
 ### Laikotarpiai
 - [[laikotarpiai/XIX amžius]]
 - [[laikotarpiai/XX amžius]]
+
+### Susiję objektai
+- [[objektai/paprociai/Kandidatas 60 Rusiškų mokyklų boikotas ir slaptos daraktorinės mokyklėlės]]
+- [[objektai/paprociai/Kandidatas Rusiškų mokyklų boikotas ir slaptos daraktorinės mokyklėlės]]

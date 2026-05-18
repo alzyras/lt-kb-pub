@@ -49,7 +49,11 @@ Nenurodyta
   santrauka: 'Lietuvių tautinis atgimimas, laikęs savo priešu caro režimą, netrukus atrado dar vieną – lenkų polonizatorius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Jau ne vienos šeimos kalbėjimas
+    lietuviškai viešai, pamaldų lietuvių kalba reikalavimai bažnyčiose kėlė len-
     kiškai kalbančiųjų opoziciją. Dvarininkai, gindamiesi nuo „litvomanijos“,
+    vis labiau tolo nuo lietuviškai kalbančių kaimo gyventojų, o tautiškai ne-
+    susipratę kunigai jau rimtai kirtosi su lietuvių aspiracijomis.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -61,7 +65,11 @@ Nenurodyta
   santrauka: 'Daugiausia dėmesio jie skyrė katalikišką doktriną atitinkančiai lietuvių kultūrinei ir visuomeninei veiklai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Daugiausia dėmesio jie skyrė katalikišką
     doktriną atitinkančiai lietuvių kultūrinei ir visuomeninei veiklai. Kartu su
+    būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, redaguojamą Anta-
+    no Smetonos, grupuote kovojo už lietuvių kalbos teises Vilniaus vyskupijos
+    bažnyčiose, neretai ta kova virsdavo lenkų ir lietuvių muštynėmis.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

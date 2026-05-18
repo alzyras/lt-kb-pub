@@ -28,7 +28,12 @@ trijų Baltijos valstybių gyventojai paminėjo 50-ąsias Molotovo–Ribentropo 
   santrauka: 'trijų Baltijos valstybių gyventojai paminėjo 50-ąsias Molotovo–Ribentropo pakto pasirašymo sukaktuves – per protesto akciją, pavadintą Baltijos keliu, apie du milijonai lietuvių, latvių ir estų susikibo rankomis sudarydami gyvą, daugiau kaip 650 km ilgio.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1989 m. rugpjūčio 23 d. 19 val. trijų Baltijos valstybių gyventojai pami-
+    nėjo 50-ąsias Molotovo–Ribentropo pakto pasirašymo sukaktuves – per
     protesto akciją, pavadintą Baltijos keliu, apie du milijonai lietuvių, latvių
+    ir estų susikibo rankomis sudarydami gyvą, daugiau kaip 650 km ilgio
+    žmonių grandinę nuo Gedimino bokšto Vilniuje iki Hermano bokšto
+    Taline.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

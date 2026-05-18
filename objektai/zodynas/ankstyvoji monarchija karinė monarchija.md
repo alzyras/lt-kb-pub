@@ -32,7 +32,10 @@ Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti 
   santrauka: 'Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti visus jai būdingus požymius, kaip antai: diarchija, ankstyvasis feodalizmas – ankstyvieji dvarai, Lietuvoje vadinti „kiemais“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Valdant
     Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti
+    visus jai būdingus požymius, kaip antai: diarchija, ankstyvasis feodaliz-
+    mas – ankstyvieji dvarai, Lietuvoje vadinti „kiemais“.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -44,7 +47,10 @@ Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti 
   santrauka: 'Lietuvos antiizoliacinės pastangos ilgai nedavė rezultatų, o ordinų karinė agresija vertė Lietuvą visą energiją skirti karybai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuvos antiizo-
+    liacinės pastangos ilgai nedavė rezultatų, o ordinų karinė agresija ver-
     tė Lietuvą visą energiją skirti karybai. Todėl kartais Lietuvos santvarka
+    XIV a. apibūdinama kaip karinė monarchija.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

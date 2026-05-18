@@ -42,7 +42,9 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
   santrauka: 'Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyriausybės tarptautinio pripažinimo problemos, gruodžio 19 dieną sušaukė III Seimo nepaprastąjį posėdį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Jame LKDP bloko
     balsais nauju šalies prezidentu išrinktas tautininkų lyderis A. Smetona,
+    kuris prisiekė laikytis šalies konstitucijos.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -68,7 +70,11 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
   santrauka: 'Voldemarui, jis ramiai pirmininkavo ir vyriausybei, ir Lietuvių tautininkų sąjungai 1931– 1938 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    A. Smetonos ir J. Tūbelio tandemas
+    Ūkinių ir kooperatinių organizacijų kūrėjas ir vadovas
     J. Tūbelis pasirodė visiška priešingybė ekscentriškam A. Voldemarui, jis
+    ramiai pirmininkavo ir vyriausybei, ir Lietuvių tautininkų sąjungai 1931–
+    1938 m.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -80,7 +86,9 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
   santrauka: 'Kandidatus į Seimą siūlė apskričių tarybos (Kaune – miesto taryba), bet kandidatų į Seimą negalėjo kelti visuomeninės organizacijos ir piliečių grupės, o tik tautininkų kontroliuojamos savivaldybės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Kandidatus į Seimą siūlė apskričių tarybos (Kaune – miesto taryba), bet
     kandidatų į Seimą negalėjo kelti visuomeninės organizacijos ir piliečių
+    grupės, o tik tautininkų kontroliuojamos savivaldybės.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -91,6 +99,7 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje]]
 - [[objektai/vietos/Estija]]
 - [[objektai/grupes/IV Seimas]]
 - [[objektai/ivykiai/IV Seimo rinkimai (1936 m. vasara)]]

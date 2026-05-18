@@ -34,7 +34,11 @@ Planinės ekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad, paėmus 
   santrauka: 'Planinės ekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad, paėmus į savo rankas gamybą, bus galima ją pasiskirstyti pagal savo poreikius Pirmasis Prancūzijos prezidento Fransua Miterano vizitas į Lietuvą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Planinės
     ekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad, paėmus
+    į savo rankas gamybą, bus galima ją pasiskirstyti pagal savo poreikius
+    Pirmasis Prancūzijos prezidento Fransua Miterano
+    vizitas į Lietuvą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -46,7 +50,10 @@ Planinės ekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad, paėmus 
   santrauka: 'Planinės ekonomikos laivas plūduriavo kapitalizmo jūroje, lėtai steigiant privačias žemės ūkio ir pramonės įmones, kurių dauguma orientuotos į kapitalistinę Vakarų pasaulio rinką.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Daugelis žmonių nebuvo pasirengę sava-
     rankiškai gyventi. Planinės ekonomikos laivas plūduriavo kapitalizmo
+    jūroje, lėtai steigiant privačias žemės ūkio ir pramonės įmones, kurių
+    dauguma orientuotos į kapitalistinę Vakarų pasaulio rinką.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

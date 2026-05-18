@@ -27,7 +27,11 @@ Dar didesnio atgarsio susilaukė vadinamasis 45 pabaltijiečių memorandumas, ad
   santrauka: 'Dar didesnio atgarsio susilaukė vadinamasis 45 pabaltijiečių memorandumas, adresuotas JT Generaliniam sekretoriui Kurtui Valdheimui (Kurt Waldheim), Atlanto chartijos valstybėms signatarėms, Vokietijos Federacinės Respublikos ir Vokietijos Demokratinės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Dar didesnio atgarsio susilaukė va-
     dinamasis 45 pabaltijiečių memorandumas, adresuotas JT Generaliniam
+    sekretoriui Kurtui Valdheimui (Kurt Waldheim), Atlanto chartijos vals-
+    tybėms signatarėms, Vokietijos Federacinės Respublikos ir Vokietijos De-
+    mokratinės Respublikos vyriausybėms.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

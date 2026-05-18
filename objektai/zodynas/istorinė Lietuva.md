@@ -66,7 +66,15 @@ Vartojama atskiriant LDK tradiciją nuo moderniosios Lietuvos Respublikos sampra
   santrauka: Vartojama istorinės Lietuvos sąvoka.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    šiandien ją vadiname istorine Lietuva.
+    Manoma, kad jei
+    ne vokiečių puolimas, slavų ekspansija, Lietuvos valstybė ir Lietuvos var-
+    das būtų aprėpęs gerokai platesnes (gal net visas) baltų genčių žemes.
+    Tačiau lietuvių kalbos, o vėliau ir lietuviškos savimonės žmonių gyve-
+    nama teritorija rytuose ir pietuose siaurėjo, o Lietuvos vardas – priešin-
+    gai: kartu su Lietuvos Didžiosios Kunigaikštijos ribomis išplito labai toli į
+    rytus ir apėmė plačias rytų slavų žemes. Būtent visa šios valstybės terito-
+    rija (ne tik dabartinė Lietuva, bet ir Baltarusija) ilgainiui pradėta vadinti
+    Lietuva, o šiandien ją vadiname istorine Lietuva.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -77,7 +85,16 @@ Vartojama atskiriant LDK tradiciją nuo moderniosios Lietuvos Respublikos sampra
   santrauka: 'Tačiau lietuvių kalbos, o vėliau ir lietuviškos savimonės žmonių gyvenama teritorija rytuose ir pietuose siaurėjo, o Lietuvos vardas – priešingai: kartu su Lietuvos Didžiosios Kunigaikštijos ribomis išplito labai toli į rytus ir apėmė plačias rytų slavų žemes.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vytis iš I Lietuvos Statuto Lauryno nuorašo (1531 m.)
+    antraštinio lapo
+    tačiau jau Mindaugas jungė prie „Lietuvos žemės“ kitas lietuvių žemes,
+    taip pat plėtė savo įtaką į giminingų genčių teritorijas. Manoma, kad jei
+    ne vokiečių puolimas, slavų ekspansija, Lietuvos valstybė ir Lietuvos var-
+    das būtų aprėpęs gerokai platesnes (gal net visas) baltų genčių žemes.
+    Tačiau lietuvių kalbos, o vėliau ir lietuviškos savimonės žmonių gyve-
+    nama teritorija rytuose ir pietuose siaurėjo, o Lietuvos vardas – priešin-
     gai: kartu su Lietuvos Didžiosios Kunigaikštijos ribomis išplito labai toli į
+    rytus ir apėmė plačias rytų slavų žemes.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -89,7 +106,10 @@ Vartojama atskiriant LDK tradiciją nuo moderniosios Lietuvos Respublikos sampra
   santrauka: 'LDK bajorai, nesvarbu, kokios etninės kilmės, laikė save lietuviais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    XVI–XVIII a. LDK ba-
     jorai, nesvarbu, kokios etninės kilmės, laikė save lietuviais. Net oficialioji
+    valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.), savo ištakomis
+    siekianti dabartinių ukrainiečių ir baltarusių protėvių kalbą, vadinta lie-
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -101,6 +121,11 @@ Vartojama atskiriant LDK tradiciją nuo moderniosios Lietuvos Respublikos sampra
   santrauka: 'Lietuvos vardas įgijo naujų prasmių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietu-
+    vos vardas įgijo naujų prasmių. Šalia istorinės Lietuvos (buvusios LDK)
+    sampratos vis stiprėjo modernioji, Lietuvos vardą siejanti su lietuvių kal-
+    bos vartojimu. Šia samprata rėmėsi naujosios Lietuvos valstybės – Lie-
+    tuvos Respublikos kūrėjai, siekę prie Lietuvos prijungti Mažąją Lietuvą,
     bet atsisakę pretenzijų į nelietuviškai kalbančias istorinės Lietuvos žemes.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -111,14 +136,12 @@ Vartojama atskiriant LDK tradiciją nuo moderniosios Lietuvos Respublikos sampra
     - t-003
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/istorinė-sąvoka]]
-
 ### Laikotarpiai
 - [[laikotarpiai/XIX amžius]]
 - [[laikotarpiai/XX amžius]]
 
 ### Susiję objektai
+- [[objektai/vietos/Baltarusija]]
 - [[objektai/paprociai/Kandidatas 3 LDK bajorų lietuviška savivardystė ir raštų kalbos vadinimas lietuvių kalba]]
 - [[objektai/paprociai/Kandidatas LDK bajorų lietuviška savivardystė ir raštų kalbos vadinimas lietuvių kalba]]
 - [[objektai/vietos/Mažoji Lietuva]]

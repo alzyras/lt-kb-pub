@@ -27,7 +27,7 @@ Rimša.
   santrauka: 'Rimša.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Heraldika: Iš praeities į dabartį. Vilnius, 2004;
+    Heraldika: Iš praeities į dabartį. Vilnius, 2004; Senoji Lietuvos grafika XVI–XIX a.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

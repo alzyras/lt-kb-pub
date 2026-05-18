@@ -55,7 +55,12 @@ Vartojama Lietuvos krikšto privilegijų ir luominės visuomenės pradžios kont
   santrauka: Tripartitio christiana siejama su visuomenės skirstymu.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    tripartitio christiana (visuomenės skirstymas į
+    Strasbūro Šv. Petro Naujosios bažnyčios
+    freska, XV a. pr.
+    o aukščiausiam senjorui – valdovui buvo suteikta valdžios tęstinumo ir
+    paveldimumo sankcija. Su tripartitio christiana (visuomenės skirstymas į
+    karius, dvasininkus ir dirbančius žmones) samprata galima tiesiogiai sieti
+    ir Viduramžių luomų idėją.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -66,3 +71,6 @@ Vartojama Lietuvos krikšto privilegijų ir luominės visuomenės pradžios kont
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
+
+### Susiję objektai
+- [[objektai/zodynas/tripartitio christiana luominė visuomenė]]

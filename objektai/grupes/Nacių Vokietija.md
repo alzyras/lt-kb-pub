@@ -42,7 +42,10 @@ Tačiau Vokietijos vyriausybė uždraudė lietuviams kilus karui sudaryti bet ko
   santrauka: 'Tačiau Vokietijos vyriausybė uždraudė lietuviams kilus karui sudaryti bet kokią Lietuvos vyriausybę ir skelbti bet kokį atsišaukimą į tautą, „negavus tam kompetentingų Vokietijos įstaigų sutikimo“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tačiau Vokietijos
     vyriausybė uždraudė lietuviams kilus karui sudaryti bet kokią Lietuvos
+    vyriausybę ir skelbti bet kokį atsišaukimą į tautą, „negavus tam kompe-
+    tentingų Vokietijos įstaigų sutikimo“.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -54,6 +57,7 @@ Tačiau Vokietijos vyriausybė uždraudė lietuviams kilus karui sudaryti bet ko
   santrauka: 'Nacių Vokietijos planuose Baltijos šalys laikytos vokiečių „gynybine erdve“, kuri palaipsniui turėjo susilieti su Trečiuoju Reichu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Nacių Vokietijos planuose Baltijos šalys laikytos vokiečių
     „gynybine erdve“, kuri palaipsniui turėjo susilieti su Trečiuoju Reichu.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -66,7 +70,9 @@ Tačiau Vokietijos vyriausybė uždraudė lietuviams kilus karui sudaryti bet ko
   santrauka: 'Vokietija Lietuvą laikė sudedamąja SSRS dalimi ir iš pradžių ją administravo karinė valdžia, o 1941 m. liepos pabaigoje įvestas civilinis okupacinis valdymas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Liepos 17-osios nutarimu iš „buvusių laisvų
     Lietuvos, Latvijos, Estijos valstybių“ ir Gudijos sudarytas Rytų krašto
+    (Ostlando) reicho komisariatas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -78,7 +84,9 @@ Tačiau Vokietijos vyriausybė uždraudė lietuviams kilus karui sudaryti bet ko
   santrauka: 'Vokiečių valdžia Lietuvoje pajungė jos išteklius ir ūkį Vokietijos reikmėms, nepaisydama vietos gyventojų poreikių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vokiečių valdžia Lietuvoje
     pajungė jos išteklius ir ūkį Vokietijos reikmėms, nepaisydama vietos gy-
+    ventojų poreikių.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -1,11 +1,17 @@
 ---
 tipas: asmuo
 pavadinimas: 'Jonas Budrys (Polovinskas)'
-sukurta: '2026-05-14'
+sukurta: '2026-05-18'
 variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -28,7 +34,12 @@ Galvanauskas ir ruošiamo žygio vadas, žvalgybos karininkas Jonas Budrys (Polo
   santrauka: 'Galvanauskas ir ruošiamo žygio vadas, žvalgybos karininkas Jonas Budrys (Polovinskas) nustebo, jog kadriniai Lietuvos kariuomenės karininkai, kovoję prieš lenkus, bermontininkus ir bolševikus, nenoriai rašėsi į Klaipėdos žygį, nes...'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuvai liko sukilimo inscenizacijos
     scenarijus. Abipusis psichologinis atotrūkis akivaizdus – E. Galvanauskas
+    ir ruošiamo žygio vadas, žvalgybos karininkas Jonas Budrys (Polovins-
+    kas) nustebo, jog kadriniai Lietuvos kariuomenės karininkai, kovoję prieš
+    lenkus, bermontininkus ir bolševikus, nenoriai rašėsi į Klaipėdos žygį,
+    nes... nelaikė to kova už tėvynę.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

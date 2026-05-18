@@ -73,7 +73,11 @@ Nenurodyta
   santrauka: Sutikimo vartai aprašomi A. Smetonos kelionių ceremonijų kontekste.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Prezidentas A. Smetona visą 1927 m. vasarą ir rudenį, lydimas kari-
+    ninkų, ministrų, žurnalistų ir kino kronikos kamerų, keliavo iš mieste-
     lio į miestelį, kuriuose jį iškilmingai sutikdavo prie lietuvių organizacijų,
+    moksleivių gėlėmis ir vainikais išdabintų sutikimo vartų, po jų – prie ati-
+    tinkamai išpuoštų vietos žydų vartų.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

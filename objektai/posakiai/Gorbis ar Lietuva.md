@@ -29,7 +29,10 @@ Gorbačiovo reformoms, o jį patį nuvers „vanagai“.
   santrauka: 'Gorbačiovo reformoms, o jį patį nuvers „vanagai“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tačiau tarptautinio pripažinimo dar keletą mėnesių teko palaukti –
+    Vakarai baiminosi, kad Baltijos valstybių pripažinimas pakenks M. Gor-
     bačiovo reformoms, o jį patį nuvers „vanagai“. Pasirinkimas Gorbis ar
+    Lietuva Vakarams buvo nelengvas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

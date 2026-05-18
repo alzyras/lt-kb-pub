@@ -28,6 +28,7 @@ Rowell S.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Rowell S. C. Lithuania ascending: a pagan empire within east-central Europe,
+    1295–1345.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

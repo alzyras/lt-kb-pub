@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 58.
+Objektų skaičius: 107.
 
 ## Kaip naudoti
 
@@ -19,43 +19,88 @@ Objektų skaičius: 58.
 ## Susiję objektai
 
 ### Asmenys
+- [[objektai/asmenys/Algirdas]]
+- [[objektai/asmenys/Enėjas Silvijus Pikolominis]]
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Grigalius XIII]]
 - [[objektai/asmenys/Isaakas ben Abrahamas iš Trakų]]
 - [[objektai/asmenys/Ivanas Fiodorovas]]
+- [[objektai/asmenys/Jadvyga]]
+- [[objektai/asmenys/Jadvyga Jogailienė]]
+- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Konstantinas Ostrogiškis]]
 - [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis]]
 - [[objektai/asmenys/Steponas Batoras]]
 - [[objektai/asmenys/Valerijonas Protasevičius]]
 
 ### Autoriai
+- [[objektai/autoriai/Abraomas Kulvietis]]
 - [[objektai/autoriai/Martynas Mažvydas Vaitkūnas]]
+- [[objektai/autoriai/Mikalojus Daukša]]
 - [[objektai/autoriai/Mikalojus Husovianas]]
 - [[objektai/autoriai/Mykolas Lietuvis]]
 - [[objektai/autoriai/Pranciškus Skorina]]
 
 ### Daiktai
+- [[objektai/daiktai/Herbai]]
 - [[objektai/daiktai/Lietuvos pinigai]]
 - [[objektai/daiktai/Pirmosios katedros didysis altoriaus kryžius]]
 - [[objektai/daiktai/Stepono Batoro paradinis kalavijas]]
+- [[objektai/daiktai/Įsivaizduojami Lietuvos valdovų portretai]]
 - [[objektai/daiktai/Šakutė]]
 
 ### Grupės
-- [[objektai/grupes/Gardino seimas (1566 m.)]]
-- [[objektai/grupes/Lietuvos seimas (XVI a.)]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/grupes/Žemaičių medininkai]]
-- [[objektai/grupes/Žemlionys]]
+- [Abiejų Tautų Respublika](../objektai/grupes/Abiej%C5%B3%20Taut%C5%B3%20Respublika)
+- [Gardino seimas (1566 m.)](../objektai/grupes/Gardino%20seimas%20%281566%20m.%29)
+- [Jėzuitų ordinas](../objektai/grupes/J%C4%97zuit%C5%B3%20ordinas)
+- [Katalikų Bažnyčia](../objektai/grupes/Katalik%C5%B3%20Ba%C5%BEny%C4%8Dia)
+- [Lenkai](../objektai/grupes/Lenkai)
+- [Lietuviai](../objektai/grupes/Lietuviai)
+- [Lietuvos kariuomenė](../objektai/grupes/Lietuvos%20kariuomen%C4%97)
+- [Lietuvos seimas (XVI a.)](../objektai/grupes/Lietuvos%20seimas%20%28XVI%20a.%29)
+- [Totoriai](../objektai/grupes/Totoriai)
+- [Vilniaus romantizmo mokykla](../objektai/grupes/Vilniaus%20romantizmo%20mokykla)
+- [Vilniaus universitetas](../objektai/grupes/Vilniaus%20universitetas)
+- [Švedai](../objektai/grupes/%C5%A0vedai)
+- [Žemaičių medininkai](../objektai/grupes/%C5%BDemai%C4%8Di%C5%B3%20medininkai)
+- [Žemlionys](../objektai/grupes/%C5%BDemlionys)
 
 ### Papročiai
-- [[objektai/paprociai/Lydimoji žemdirbystė]]
-- [[objektai/paprociai/Nuotakos išpirkimas ir Krienos mokestis]]
-- [[objektai/paprociai/Pagoniškų elementų integravimas į krikščioniškas praktikas]]
+- [Kandidatas 31 Itališkos mados perėmimas Lietuvos diduomenėje](../objektai/paprociai/Kandidatas%2031%20Itali%C5%A1kos%20mados%20per%C4%97mimas%20Lietuvos%20diduomen%C4%97je)
+- [Kandidatas 39 Lietuvių kalbos oficialaus kultūros modelio kėlimas ir kasdienis Bažnyčios bei mokyklos vartojimas](../objektai/paprociai/Kandidatas%2039%20Lietuvi%C5%B3%20kalbos%20oficialaus%20kult%C5%ABros%20modelio%20k%C4%97limas%20ir%20kasdienis%20Ba%C5%BEny%C4%8Dios%20bei%20mokyklos%20vartojimas)
+- [Kandidatas Birutės legendos tęstinumas ir Birutės kalno gerbimas](../objektai/paprociai/Kandidatas%20Birut%C4%97s%20legendos%20t%C4%99stinumas%20ir%20Birut%C4%97s%20kalno%20gerbimas)
+- [Kandidatas Itališkos mados perėmimas Lietuvos diduomenėje](../objektai/paprociai/Kandidatas%20Itali%C5%A1kos%20mados%20per%C4%97mimas%20Lietuvos%20diduomen%C4%97je)
+- [Kandidatas Lietuvių kalbos oficialaus kultūros modelio kėlimas ir kasdienis Bažnyčios bei mokyklos vartojimas](../objektai/paprociai/Kandidatas%20Lietuvi%C5%B3%20kalbos%20oficialaus%20kult%C5%ABros%20modelio%20k%C4%97limas%20ir%20kasdienis%20Ba%C5%BEny%C4%8Dios%20bei%20mokyklos%20vartojimas)
+- [Lydimoji žemdirbystė](../objektai/paprociai/Lydimoji%20%C5%BEemdirbyst%C4%97)
+- [Nuotakos išpirkimas ir Krienos mokestis](../objektai/paprociai/Nuotakos%20i%C5%A1pirkimas%20ir%20Krienos%20mokestis)
+- [Pagoniškų elementų integravimas į krikščioniškas praktikas](../objektai/paprociai/Pagoni%C5%A1k%C5%B3%20element%C5%B3%20integravimas%20%C4%AF%20krik%C5%A1%C4%8Dioni%C5%A1kas%20praktikas)
 
 ### Posakiai
-- [[objektai/posakiai/nihil novi]]
+- [nihil novi](../objektai/posakiai/nihil%20novi)
+- [„civilizaciniam šuoliui“](../objektai/posakiai/%E2%80%9Ecivilizaciniam%20%C5%A1uoliui%E2%80%9C)
+- [„Koks didelis Tu ir kokia didelė Tavo tėvynė.“](../objektai/posakiai/%E2%80%9EKoks%20didelis%20Tu%20ir%20kokia%20didel%C4%97%20Tavo%20t%C4%97vyn%C4%97.%E2%80%9C)
+- [„Kurgi, sakau, pasaulyje yra tauta...“](../objektai/posakiai/%E2%80%9EKurgi%2C%20sakau%2C%20pasaulyje%20yra%20tauta...%E2%80%9C)
 
 ### Vietos
-- [[objektai/vietos/Balstogė]]
-- [[objektai/vietos/Juodoji jūra]]
-- [[objektai/vietos/Luckas]]
+- [Balstogė](../objektai/vietos/Balstog%C4%97)
+- [Baltijos jūra](../objektai/vietos/Baltijos%20j%C5%ABra)
+- [Birutės kalnas](../objektai/vietos/Birut%C4%97s%20kalnas)
+- [Chotynas](../objektai/vietos/Chotynas)
+- [Juodoji jūra](../objektai/vietos/Juodoji%20j%C5%ABra)
+- [Kijevas](../objektai/vietos/Kijevas)
+- [Lenkija](../objektai/vietos/Lenkija)
+- [Livonija](../objektai/vietos/Livonija)
+- [Luckas](../objektai/vietos/Luckas)
+- [Maskva](../objektai/vietos/Maskva)
+- [Olandija](../objektai/vietos/Olandija)
+- [Polockas](../objektai/vietos/Polockas)
+- [Praha](../objektai/vietos/Praha)
+- [Prūsija](../objektai/vietos/Pr%C5%ABsija)
+- [Transilvanija](../objektai/vietos/Transilvanija)
+- [Varšuva](../objektai/vietos/Var%C5%A1uva)
+- [Vilnius](../objektai/vietos/Vilnius)
+- [Švedija](../objektai/vietos/%C5%A0vedija)
+- [Žemaitija](../objektai/vietos/%C5%BDemaitija)
 - [Žemaičių jūra](../objektai/vietos/%C5%BDemai%C4%8Di%C5%B3%20j%C5%ABra)
 
 ### Įvykiai
@@ -71,9 +116,13 @@ Objektų skaičius: 58.
 - [Karas su Maskva (1499–1503 m.)](../objektai/ivykiai/Karas%20su%20Maskva%20%281499%E2%80%931503%20m.%29)
 - [Klecko mūšis (1506 m. rugpjūčio 6 d.)](../objektai/ivykiai/Klecko%20m%C5%AB%C5%A1is%20%281506%20m.%20rugpj%C5%AB%C4%8Dio%206%20d.%29)
 - [Komulejaus nurodymas dėl Vilniaus klierikų bursos finansavimo (1595–1597 m.)](../objektai/ivykiai/Komulejaus%20nurodymas%20d%C4%97l%20Vilniaus%20klierik%C5%B3%20bursos%20finansavimo%20%281595%E2%80%931597%20m.%29)
+- [LDK kanclerio pareigų įsteigimas](../objektai/ivykiai/LDK%20kanclerio%20pareig%C5%B3%20%C4%AFsteigimas)
 - [Lietuvos ir Lenkijos unijos derybos Varšuvoje ir Liubline bei Liublino unijos akto priėmimas (1563–1569 m.)](../objektai/ivykiai/Lietuvos%20ir%20Lenkijos%20unijos%20derybos%20Var%C5%A1uvoje%20ir%20Liubline%20bei%20Liublino%20unijos%20akto%20pri%C4%97mimas%20%281563%E2%80%931569%20m.%29)
+- [Lietuvos ir Žemaitijos krikštai kaip krikščionėjimo pradžia](../objektai/ivykiai/Lietuvos%20ir%20%C5%BDemaitijos%20krik%C5%A1tai%20kaip%20krik%C5%A1%C4%8Dion%C4%97jimo%20prad%C5%BEia)
+- [Lietuvos krikštas (1387 m.)](../objektai/ivykiai/Lietuvos%20krik%C5%A1tas%20%281387%20m.%29)
 - [Liublino unijos akto priėmimas ir patvirtinimas (1569 m.)](../objektai/ivykiai/Liublino%20unijos%20akto%20pri%C4%97mimas%20ir%20patvirtinimas%20%281569%20m.%29)
 - [Livonijos prijungimas prie Lietuvos valstybės (1561–1566 m.)](../objektai/ivykiai/Livonijos%20prijungimas%20prie%20Lietuvos%20valstyb%C4%97s%20%281561%E2%80%931566%20m.%29)
+- [Maskvos užėmimas](../objektai/ivykiai/Maskvos%20u%C5%BE%C4%97mimas)
 - [Nesvyžiaus jėzuitų kolegijos įkūrimas (1582 m.)](../objektai/ivykiai/Nesvy%C5%BEiaus%20j%C4%97zuit%C5%B3%20kolegijos%20%C4%AFk%C5%ABrimas%20%281582%20m.%29)
 - [Oršos mūšis (1514 m.)](../objektai/ivykiai/Or%C5%A1os%20m%C5%AB%C5%A1is%20%281514%20m.%29)
 - [Stepono Batoro mirtis (1586 m. gruodžio 12 d.)](../objektai/ivykiai/Stepono%20Batoro%20mirtis%20%281586%20m.%20gruod%C5%BEio%2012%20d.%29)

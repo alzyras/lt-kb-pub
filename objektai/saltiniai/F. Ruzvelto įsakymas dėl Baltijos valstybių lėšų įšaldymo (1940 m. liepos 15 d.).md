@@ -24,13 +24,19 @@ didelę įtaką turėjo 1940 m. liepos 15 d. JAV prezidento Lietuvos pabėgėlia
   teiginys: 'didelę įtaką turėjo 1940 m. liepos 15 d. JAV prezidento Lietuvos pabėgėliai stovykloje Vokietijoje (Šeinfelde) renkasi dalijamus drabužius, 1948 m. L I E T U V O S I S T O R I J A 226 F.'
   pagrindžia:
     - c-001
+- t-002
+  teiginys: 'LDT gyvavimui didelę įtaką turėjo 1940 m. liepos 15 d. JAV prezidento Lietuvos pabėgėliai stovykloje Vokietijoje (Šeinfelde) renkasi dalijamus drabužius, 1948 m. L I E T U V O S I S T O R I J A 226 F.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'didelę įtaką turėjo 1940 m. liepos 15 d. JAV prezidento Lietuvos pabėgėliai stovykloje Vokietijoje (Šeinfelde) renkasi dalijamus drabužius, 1948 m. L I E T U V O S I S T O R I J A 226 F.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    LDT gyvavimui didelę įtaką turėjo 1940 m. liepos 15 d. JAV prezidento
     Lietuvos pabėgėliai stovykloje Vokietijoje (Šeinfelde)
+    renkasi dalijamus drabužius, 1948 m.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -38,3 +44,4 @@ didelę įtaką turėjo 1940 m. liepos 15 d. JAV prezidento Lietuvos pabėgėlia
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+    - t-002

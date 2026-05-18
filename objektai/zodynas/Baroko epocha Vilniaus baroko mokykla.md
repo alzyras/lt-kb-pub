@@ -28,6 +28,9 @@ buvo sukurta originali, vadinamoji Vilniaus baroko mokykla, kurios pagrindinis a
   santrauka: 'buvo sukurta originali, vadinamoji Vilniaus baroko mokykla, kurios pagrindinis architektas Jonas Kristupas Glaubicas (Johann Christoph Glaubitz) turėtų būti drąsiai įvesdintas į Europos baroko istoriją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tik XVII a. vyravo „importinis“, ypač itališkas, barokas,
+    o XVIII a. buvo sukurta originali, vadinamoji Vilniaus baroko mokykla,
+    kurios pagrindinis architektas Jonas Kristupas Glaubicas (Johann Chris-
     toph Glaubitz) turėtų būti drąsiai įvesdintas į Europos baroko istoriją.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -40,4 +43,3 @@ buvo sukurta originali, vadinamoji Vilniaus baroko mokykla, kurios pagrindinis a
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Baroko epocha]]
-- [[objektai/asmenys/Jonas Kristupas Glaubicas]]

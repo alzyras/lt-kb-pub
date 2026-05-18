@@ -27,7 +27,8 @@ M. Jučas. Vytautas Didysis. Chicago, 2010;.
   santrauka: 'M. Jučas. Vytautas Didysis. Chicago, 2010;.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    M. Jučas. Vytautas Didysis. Chicago, 2010;
+    Warszawa, 1960; M. Jučas. Vytautas Didysis. Chicago, 2010; Lietuva
+    1009–2009.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

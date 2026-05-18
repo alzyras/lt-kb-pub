@@ -27,6 +27,7 @@ Be to, Kauno IX forte sušaudyti apie 6–8 tūkst.
   santrauka: 'Be to, Kauno IX forte sušaudyti apie 6–8 tūkst.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Be to, Kauno IX forte sušaudyti apie 6–8 tūkst.
     žydų, atvežtų iš Austrijos, Vokietijos, Čekoslovakijos ir Prancūzijos.
   citata_rodoma: ''
   teiginio_tipas: faktas

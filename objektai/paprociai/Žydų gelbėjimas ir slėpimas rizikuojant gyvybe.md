@@ -76,7 +76,12 @@ Nacių okupacijos metu dalis lietuvių visuomenės rizikuodama gyvybe padėjo ž
   santrauka: Citata aprašo gelbėjimo veiksmą, riziką, gelbėtojų grupes ir Pasaulio teisuolių pripažinimą.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Kita lietuvių visuo-
+    menės dalis, rizikuodama gyvybe (buvo ir sušaudytų už žydų slėpimą),
+    bandė padėti žydams, gelbėti, nemažai žydų išgelbėjo katalikų kunigai,
     vienuolės, paprasti valstiečiai. Už žydų gelbėjimą Pasaulio teisuoliais yra
+    pripažinti 830 lietuvių, nors iš tikrųjų jų buvo kur kas daugiau, jų sąrašas
+    vis papildomas.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

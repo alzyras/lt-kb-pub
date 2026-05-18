@@ -1,11 +1,17 @@
 ---
 tipas: ivykis
 pavadinimas: 'Pranciškonų nužudymas Vilniuje Gedimino valdymo pabaigoje'
-sukurta: '2026-05-14'
+sukurta: '2026-05-18'
 variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - ivykis
@@ -15,7 +21,7 @@ tags:
 
 ## Santrauka
 
-Krikšto atsisakymas nereiškė, kad Gediminas atsisakė ir kito tikslo – priartinti Lietuvą prie Vakarų Europos, kviesdamas atvykti vokiečių ko.
+Krikšto atsisakymas nereiškė, kad Gediminas atsisakė ir kito tikslo – priartinti Lietuvą prie Vakarų Europos, kviesdamas atvykti vokiečių ko- 1 skyrius • S E N O J I L I E T U VA 33 lonistus.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -31,16 +37,21 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Krikšto atsisakymas nereiškė, kad Gediminas atsisakė ir kito tikslo – priartinti Lietuvą prie Vakarų Europos, kviesdamas atvykti vokiečių ko.'
+  teiginys: 'Krikšto atsisakymas nereiškė, kad Gediminas atsisakė ir kito tikslo – priartinti Lietuvą prie Vakarų Europos, kviesdamas atvykti vokiečių ko- 1 skyrius • S E N O J I L I E T U VA 33 lonistus.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Krikšto atsisakymas nereiškė, kad Gediminas atsisakė ir kito tikslo – priartinti Lietuvą prie Vakarų Europos, kviesdamas atvykti vokiečių ko.'
+  santrauka: 'Krikšto atsisakymas nereiškė, kad Gediminas atsisakė ir kito tikslo – priartinti Lietuvą prie Vakarų Europos, kviesdamas atvykti vokiečių ko- 1 skyrius • S E N O J I L I E T U VA 33 lonistus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Krikšto atsisakymas nereiškė, kad Gediminas atsisakė ir kito tikslo –
+    priartinti Lietuvą prie Vakarų Europos, kviesdamas atvykti vokiečių ko-
+
+    1 skyrius •  S E N O J I  L I E T U VA
+    33
+    lonistus.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -48,8 +59,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/paprociai/Kandidatas 14 Gedimino kvietimas Vakarų pirkliams, amatininkams ir kolonistams į Lietuvą]]
-- [[objektai/paprociai/Kandidatas Gedimino kvietimas Vakarų pirkliams, amatininkams ir kolonistams į Lietuvą]]

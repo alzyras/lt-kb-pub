@@ -44,7 +44,9 @@ Nenurodyta
   santrauka: 'Visų pirma Vytautas nustojo mokėti duoklę mongolams, panaikino senovinę dalinių kunigaikštijų sistemą, į tas kunigaikštijas paskyrė vietininkus ir suėmė realią valdžią LDK į savo rankas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Iš-
     liko tik mažesnės kunigaikštijos. Tačiau svarbiausios Vytauto politikoje
+    buvo socialinės permainos – kuriamas žemvaldžių riterių sluoksnis.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

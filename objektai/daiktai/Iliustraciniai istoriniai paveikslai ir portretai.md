@@ -9,14 +9,12 @@ saltiniai:
 patikimumas: 'vidutinis'
 tags:
   - daiktas
-  - mūšis
-  - sukilimas
 ---
 # Iliustraciniai istoriniai paveikslai ir portretai
 
 ## Santrauka
 
-Žymusis dailininkas M. E. Andriolli taip nutapė 1863 m. sukilimą – jis pats išneša žuvusį kovų draugą iš mūšio lauko prie Dubičių (gegužės 5 d.).
+Prancūzų kariuomenės traukimasis per Vilniaus rotušės aikštę. Iš J. K. Vilčinskio „Vilniaus albumo“. Dail. J. Damehl, 1846 m.
 
 ## Pavadinimai šaltiniuose
 Nenurodyta
@@ -35,16 +33,16 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Žymusis dailininkas M. E. Andriolli taip nutapė 1863 m. sukilimą – jis pats išneša žuvusį kovų draugą iš mūšio lauko prie Dubičių (gegužės 5 d.).'
+  teiginys: 'Prancūzų kariuomenės traukimasis per Vilniaus rotušės aikštę. Iš J. K. Vilčinskio „Vilniaus albumo“. Dail. J. Damehl, 1846 m.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Žymusis dailininkas M. E. Andriolli taip nutapė 1863 m. sukilimą – jis pats išneša žuvusį kovų draugą iš mūšio lauko prie Dubičių (gegužės 5 d.).'
+  santrauka: 'Prancūzų kariuomenės traukimasis per Vilniaus rotušės aikštę. Iš J. K. Vilčinskio „Vilniaus albumo“. Dail. J. Damehl, 1846 m.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Žymusis dailininkas M. E. Andriolli taip nutapė
+    Prancūzų kariuomenės traukimasis per Vilniaus rotušės aikštę.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -52,7 +50,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/M. E. Andriolli]]

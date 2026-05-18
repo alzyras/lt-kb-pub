@@ -34,10 +34,6 @@ Suvalkų derybos pasibaigė susitarimu, kurį abi šalys pasirašė 1920 metų s
   teiginys: 'Suvalkų derybos pasibaigė susitarimu, kurį abi šalys pasirašė 1920 metų spalių mėn.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: '27 d.), reikalaudama, kad pasitikėjimo atmosferai sukurti Lenkija turinti pirma įvykdyti Suvalkų sutartį.'
-  pagrindžia:
-    - c-002
 - t-003
   teiginys: 'Tebevykstant Lietuvos ir Lenkijos deryboms Suvalkuose, lenkai slapta rengėsi užimti Vilnių. Šiam tikslui turėjo būti panaudotos „sukilusios“ Lenkijos kariuomenės dalys, sudarytos ne tik iš lenkų, bet ir Lenkijos kariuomenėje tarnavusių lenkakalbių lietuvių ir gudų, „nepaklūstančių“ Lenkijos vadovybei. Lenkija negalėjo atvirai vykdyti agresijos prieš Lietuvą, puolimo išvakarėse jau buvo pasirašyta Suvalkų sutartis.'
   pagrindžia:
@@ -76,20 +72,6 @@ Suvalkų derybos pasibaigė susitarimu, kurį abi šalys pasirašė 1920 metų s
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-- c-002
-  santrauka: '27 d.), reikalaudama, kad pasitikėjimo atmosferai sukurti Lenkija turinti pirma įvykdyti Suvalkų sutartį.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Lietuvos vyriausybė tada pasiūlė Lenkijai tiesiogines dery-
-    bas (1922 m. sausio mėn. 27 d.), reikalaudama, kad pasitikėjimo
-    atmosferai sukurti Lenkija turinti pirma įvykdyti Suvalkų sutartį.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 - c-003
   santrauka: 'Tebevykstant Lietuvos ir Lenkijos deryboms Suvalkuose, lenkai slapta rengėsi užimti Vilnių. Šiam tikslui turėjo būti panaudotos „sukilusios“ Lenkijos kariuomenės dalys, sudarytos ne tik iš lenkų, bet ir Lenkijos kariuomenėje tarnavusių lenkakalbių lietuvių ir gudų, „nepaklūstančių“ Lenkijos vadovybei. Lenkija negalėjo atvirai vykdyti agresijos prieš Lietuvą, puolimo išvakarėse jau buvo pasirašyta Suvalkų sutartis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -134,7 +116,12 @@ Suvalkų derybos pasibaigė susitarimu, kurį abi šalys pasirašė 1920 metų s
   santrauka: 'Nors 1920 m. spalio 7 d. Lenkijos ir Lietuvos delegacijos Suvalkuose pasirašė karinį susitarimą dėl kariuomenių demarkacijos linijos, paliekant Vilnių Lietuvos pusėje, spalio 9-ąją, dar prieš įsigalint susitarimui, lenkų gen.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Nors 1920 m.
+    spalio 7 d. Lenkijos ir Lietuvos delegacijos Suvalkuose pasirašė karinį
+    susitarimą dėl kariuomenių demarkacijos linijos, paliekant Vilnių Lietu-
+    vos pusėje, spalio 9-ąją, dar prieš įsigalint susitarimui, lenkų gen. L. Že-
     ligovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos
+    (Litwa środkowa) sudarymą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

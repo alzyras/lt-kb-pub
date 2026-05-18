@@ -57,12 +57,6 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-004
-  teiginys: 'Livonijos ordino šakos magistras rodomas kaip Andriaus suverenas, o Andrius kaip jo vasalas'
-  pagrindžia:
-    - c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 - t-005
   teiginys: 'Livonijos ordino šaka yra paliaubų sutarties partnerė ir kaip Tanenbergo mūšyje nedalyvavusi jėga'
   pagrindžia:
@@ -152,21 +146,6 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
-- c-004
-  santrauka: Livonijos ordino šakos magistras rodomas kaip Andriaus suverenas, o Andrius kaip jo vasalas
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Jo
-    vyriausias brolis Andrius, kuris tuojau po tėvo mirties buvo pra-
-    dėjęs organizuoti sąjungą prieš Jogailą, jau buvo grįžęs į savo
-    valdomąjį Polocką, tačiau visai neketino klausyti Jogailos. Jis
-    buvo pasidavęs Livonijos ordino šakos magistrui ir valdė Po-
-    locką, kaip jo vasalas.
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
 - c-005
   santrauka: Livonijos ordino šaka yra paliaubų sutarties partnerė ir kaip Tanenbergo mūšyje nedalyvavusi jėga
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -309,7 +288,9 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
   santrauka: 'Opoziciją pirmiausia sudarė artimiausi giminaičiai – brolvaikiai, pagalbon pasitelkę ir svetimuosius – Livonijos ordiną ir Voluinę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Mindaugas įveikė šią kliūtį ne tik karo žygiais, bet ir diploma-
     tija – pasinaudojęs Livonijos vidaus prieštaravimais, patraukė į savo pusę
+    Livonijos ordino magistrą Andrių Štirlandą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -335,7 +316,9 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
   santrauka: 'Vadinasi, Mindaugui reikėjo kovoti dėl pagoniškos Žemaitijos su krikščioniškąja Livonija, o kartu Vakarų jėgų ir popiežiaus akyse išlaikyti krikščionio valdovo statusą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vadinasi, Mindaugui reikėjo kovoti dėl pagoniškos Žemaitijos su
     krikščioniškąja Livonija, o kartu Vakarų jėgų ir popiežiaus akyse išlaikyti
+    krikščionio valdovo statusą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

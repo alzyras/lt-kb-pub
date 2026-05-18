@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 52.
+Objektų skaičius: 78.
 
 ## Kaip naudoti
 
@@ -19,43 +19,71 @@ Objektų skaičius: 52.
 ## Susiję objektai
 
 ### Asmenys
+- [[objektai/asmenys/Horacijus]]
+- [[objektai/asmenys/Isaakas ben Abrahamas iš Trakų]]
 - [[objektai/asmenys/Kristupas († 1640 m.)]]
+- [[objektai/asmenys/Steponas Batoras]]
 
 ### Autoriai
 - [[objektai/autoriai/Andrius Rudamina]]
+- [[objektai/autoriai/J. Bennetas]]
 - [[objektai/autoriai/Kazimieras Semenavičius]]
 - [[objektai/autoriai/Martynas Smigleckis]]
 - [[objektai/autoriai/Saliamonas Slavočinskis]]
 
 ### Daiktai
 - [[objektai/daiktai/Daugiapakopės raketos]]
+- [[objektai/daiktai/Daugiapakopės raketos ir raketų brėžiniai]]
 - [[objektai/daiktai/Lietuvos pinigai]]
 
 ### Grupės
+- [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/grupes/Anglai]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/grupes/Totoriai]]
 - [[objektai/grupes/Valakai]]
+- [[objektai/grupes/Švedai]]
 - [[objektai/grupes/Žuvėdai]]
 
 ### Papročiai
+- [[objektai/paprociai/Kandidatas 37 LDK bažnytinės unijos bandymai ir graikų katalikų įsitvirtinimas]]
+- [[objektai/paprociai/Kandidatas LDK bažnytinės unijos bandymai ir graikų katalikų įsitvirtinimas]]
 - [[objektai/paprociai/Nuotakos išpirkimas ir Krienos mokestis]]
 - [[objektai/paprociai/Pagoniškų elementų integravimas į krikščioniškas praktikas]]
 
 ### Posakiai
 - [[objektai/posakiai/duona, tolerancija, demokratija, konstitucija, barokas]]
+- [„didžiausią Europoje tolerancijos uostą“ „Europos tolerancijos lopšys“](../objektai/posakiai/%E2%80%9Edid%C5%BEiausi%C4%85%20Europoje%20tolerancijos%20uost%C4%85%E2%80%9C%20%E2%80%9EEuropos%20tolerancijos%20lop%C5%A1ys%E2%80%9C)
+
+### Vietos
+- [Baltijos jūra](../objektai/vietos/Baltijos%20j%C5%ABra)
+- [Chotynas](../objektai/vietos/Chotynas)
+- [Kinija](../objektai/vietos/Kinija)
+- [Lenkija](../objektai/vietos/Lenkija)
+- [Livonija](../objektai/vietos/Livonija)
+- [Maskva](../objektai/vietos/Maskva)
+- [Olandija](../objektai/vietos/Olandija)
+- [Transilvanija](../objektai/vietos/Transilvanija)
+- [Vilnius](../objektai/vietos/Vilnius)
+- [Švedija](../objektai/vietos/%C5%A0vedija)
 
 ### Įvykiai
-- [[objektai/ivykiai/Andrusavos sutarties patvirtinimas (1686 m.)]]
-- [[objektai/ivykiai/Augusto II elekcija (1697 m.)]]
-- [[objektai/ivykiai/Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)]]
-- [[objektai/ivykiai/coaequatio iurium įstatymo priėmimas (1697 m.)]]
-- [[objektai/ivykiai/Didžioji Maskvos suirutė (1597–1613 m.)]]
-- [[objektai/ivykiai/Divilino paliaubos (1618 m.)]]
-- [[objektai/ivykiai/Gardino paliaubos (1698 m.)]]
-- [[objektai/ivykiai/Jono Sobieskio elekcija (1674 m.)]]
-- [[objektai/ivykiai/Karas su Maskva (1609–1613 m.)]]
-- [[objektai/ivykiai/Karas su Maskva (1632–1634 m.)]]
-- [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.)]]
-- [[objektai/ivykiai/Kėdainių lietuviškų knygų spaustuvės įkūrimas ir sudegimas (apie 1652–1654 m.)]]
+- [Andrusavos sutarties patvirtinimas (1686 m.)](../objektai/ivykiai/Andrusavos%20sutarties%20patvirtinimas%20%281686%20m.%29)
+- [Augusto II elekcija (1697 m.)](../objektai/ivykiai/Augusto%20II%20elekcija%20%281697%20m.%29)
+- [Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)](../objektai/ivykiai/Chotino%20m%C5%AB%C5%A1is%20%281621%20m.%20rugs%C4%97jo%2022%20d.%20%E2%80%93%20spalio%2010%20d.%29)
+- [Chotyno mūšis](../objektai/ivykiai/Chotyno%20m%C5%AB%C5%A1is)
+- [coaequatio iurium įstatymo priėmimas (1697 m.)](../objektai/ivykiai/coaequatio%20iurium%20%C4%AFstatymo%20pri%C4%97mimas%20%281697%20m.%29)
+- [Didžioji Maskvos suirutė (1597–1613 m.)](../objektai/ivykiai/Did%C5%BEioji%20Maskvos%20suirut%C4%97%20%281597%E2%80%931613%20m.%29)
+- [Divilino paliaubos (1618 m.)](../objektai/ivykiai/Divilino%20paliaubos%20%281618%20m.%29)
+- [Gardino paliaubos (1698 m.)](../objektai/ivykiai/Gardino%20paliaubos%20%281698%20m.%29)
+- [Jono Sobieskio elekcija (1674 m.)](../objektai/ivykiai/Jono%20Sobieskio%20elekcija%20%281674%20m.%29)
+- [Karas su Maskva (1609–1613 m.)](../objektai/ivykiai/Karas%20su%20Maskva%20%281609%E2%80%931613%20m.%29)
+- [Karas su Maskva (1632–1634 m.)](../objektai/ivykiai/Karas%20su%20Maskva%20%281632%E2%80%931634%20m.%29)
+- [Kuoknesės mūšis (1601 m. birželio 23 d.)](../objektai/ivykiai/Kuoknes%C4%97s%20m%C5%AB%C5%A1is%20%281601%20m.%20bir%C5%BEelio%2023%20d.%29)
+- [Kėdainių lietuviškų knygų spaustuvės įkūrimas ir sudegimas (apie 1652–1654 m.)](../objektai/ivykiai/K%C4%97daini%C5%B3%20lietuvi%C5%A1k%C5%B3%20knyg%C5%B3%20spaustuv%C4%97s%20%C4%AFk%C5%ABrimas%20ir%20sudegimas%20%28apie%201652%E2%80%931654%20m.%29)
+- [Kėdainių sutarties sudarymas su Švedija](../objektai/ivykiai/K%C4%97daini%C5%B3%20sutarties%20sudarymas%20su%20%C5%A0vedija)
+- [Lietuvos ir Žemaitijos krikštai kaip krikščionėjimo pradžia](../objektai/ivykiai/Lietuvos%20ir%20%C5%BDemaitijos%20krik%C5%A1tai%20kaip%20krik%C5%A1%C4%8Dion%C4%97jimo%20prad%C5%BEia)
 - [Liubomirskio seimo išardymas (1639 m.)](../objektai/ivykiai/Liubomirskio%20seimo%20i%C5%A1ardymas%20%281639%20m.%29)
 - [Lojevo mūšis (1649 m. liepos 31 d.)](../objektai/ivykiai/Lojevo%20m%C5%AB%C5%A1is%20%281649%20m.%20liepos%2031%20d.%29)
 - [Maskvos ir Švedų užpuolimas Lietuvai (1654–1655 m.)](../objektai/ivykiai/Maskvos%20ir%20%C5%A0ved%C5%B3%20u%C5%BEpuolimas%20Lietuvai%20%281654%E2%80%931655%20m.%29)

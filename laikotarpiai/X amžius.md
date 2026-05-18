@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 2.
+Objektų skaičius: 3.
 
 ## Kaip naudoti
 
@@ -20,6 +20,9 @@ Objektų skaičius: 2.
 
 ### Daiktai
 - [[objektai/daiktai/Dviašmenis kalavijas]]
+
+### Vietos
+- [[objektai/vietos/Vilnius]]
 
 ### Įvykiai
 - [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (997 m.)]]

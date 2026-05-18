@@ -47,7 +47,10 @@ Romo Kalantos sušukta frazė siejama su susideginimo protestu prieš okupacinę
   santrauka: Citata pateikia šūksnį, datą, veikėją ir protesto pobūdį.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    sušukęs „Laisvę Lietuvai!“, pasidegė.
+    1972 m. gegužės 14 d. devyniolikme-
+    tis Romas Kalanta, apsiskaitęs, rašęs eilėraščius, grojęs gitara jaunuolis,
+    pats atrodęs kaip hipis, Kauno miesto sode prie Muzikinio teatro apsipy-
+    lė benzinu ir, sušukęs „Laisvę Lietuvai!“, pasidegė.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -60,3 +63,6 @@ Romo Kalantos sušukta frazė siejama su susideginimo protestu prieš okupacinę
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
+
+### Susiję objektai
+- [[objektai/vietos/Kauno miesto sodas]]

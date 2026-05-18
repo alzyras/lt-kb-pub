@@ -48,5 +48,4 @@ tags:
 - [[temos/ežeras]]
 
 ### Susiję objektai
-- [[objektai/vietos/Druskininkai]]
 - [[objektai/vietos/Ežeronis]]

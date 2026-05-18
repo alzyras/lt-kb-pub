@@ -78,7 +78,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   citata_originali: |
     Lietu­
     vių ir rusų bajorai paskelbė Vytautą Lietuvos ir Rusijos kara­
-    lium
+    liumi.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -107,7 +107,9 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   santrauka: 'Diegti „rusų pradus“ turėjo rusai mokytojai, paprastai atvykę iš Rusijos gilumos, pradžioje daugumą jų sudarė rusų stačiatikių dvasinių seminarijų auklėtiniai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Diegti „rusų pradus“ turėjo
     rusai mokytojai, paprastai atvykę iš Rusijos gilumos, pradžioje daugumą
+    jų sudarė rusų stačiatikių dvasinių seminarijų auklėtiniai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -119,7 +121,9 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   santrauka: '– baltarusiai, rusai ir ukrainiečiai kartu sudėjus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1897 m. surašymo duomenimis, gyventojų skaičius maždaug da-
     bartinės Lietuvos ribose (be Klaipėdos krašto) siekė apie 2,7 mln. Apie
+    1,6 mln.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -132,3 +136,5 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 ### Susiję objektai
 - [[objektai/grupes/Baltarusiai]]
 - [[objektai/grupes/Ukrainiečiai]]
+- [[objektai/grupes/Valakai]]
+- [[objektai/grupes/Žemaičiai]]

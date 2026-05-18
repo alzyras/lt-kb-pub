@@ -29,7 +29,10 @@ Tačiau LKP pertvarkos taktika („žingsnis po žingsnio“) neparuošė valsty
   santrauka: 'Tačiau LKP pertvarkos taktika („žingsnis po žingsnio“) neparuošė valstybės tęstinumą įtvirtinančių teisinių ir politinių dokumentų ir neturėjo valstybės atkūrimo programos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tačiau LKP pertvar-
+    kos taktika („žingsnis po žingsnio“) neparuošė valstybės tęstinumą įtvir-
     tinančių teisinių ir politinių dokumentų ir neturėjo valstybės atkūrimo
+    programos.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

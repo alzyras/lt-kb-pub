@@ -40,7 +40,10 @@ Nenurodyta
   santrauka: 'Plėšiamieji žygiai rodė didėjant lietuvių jėgą, jie tokių žygių skaičiumi pralenkė turtingus prūsus ar karingus kuršius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Matyt, lėmė genties vyrų
     gausumas, ypač svarbus karo žygiuose. Lietuvių genties iškilimas ir padėjo
+    pagrindus santvarkos permainoms ir greitai atsirasiančiai Lietuvos valsty-
+    bei.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

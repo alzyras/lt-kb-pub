@@ -28,7 +28,10 @@ Lozoraitis diplomatijos šefo pareigas interpretavo kaip primus inter pares (pir
   santrauka: 'Lozoraitis diplomatijos šefo pareigas interpretavo kaip primus inter pares (pirmas tarp lygiųjų) tarp visų pasiuntinių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    S. Lozoraitis
     diplomatijos šefo pareigas interpretavo kaip
+    primus inter pares (pirmas tarp lygiųjų) tarp
+    visų pasiuntinių.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -36,7 +39,3 @@ Lozoraitis diplomatijos šefo pareigas interpretavo kaip primus inter pares (pir
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/diplomatas]]

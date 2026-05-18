@@ -28,7 +28,13 @@ tags:
   santrauka: 'Žydų naikinimas kėlė didelį visuomenės pasipiktinimą, nacių kolaborantai visuomenėje neteko gero vardo, pasmerkimai ir priekaištai jiems buvo sakomi bažnyčiose, liaudyje jie paniekinamai vadinti „žydšaudžiais“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Žydų naikinimas kėlė
+    didelį visuomenės pasipiktinimą, nacių kolaborantai visuomenėje nete-
+    ko gero vardo, pasmerkimai ir priekaištai jiems buvo sakomi bažnyčio-
     se, liaudyje jie paniekinamai vadinti „žydšaudžiais“. Kita lietuvių visuo-
+    menės dalis, rizikuodama gyvybe (buvo ir sušaudytų už žydų slėpimą),
+    bandė padėti žydams, gelbėti, nemažai žydų išgelbėjo katalikų kunigai,
+    vienuolės, paprasti valstiečiai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

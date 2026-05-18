@@ -30,6 +30,8 @@ Tačiau tai dar ne viskas – rūpintasi tautinių ir valstybinių tradicijų k�
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau tai dar ne viskas – rūpintasi tautinių ir valstybinių tradicijų kūrimu,
+    tautos atminimo vietų steigimu, tradicijų puoselėjimu – nacija turėjo įgy-
+    ti atmintinų vietų ir savo didvyrių.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -40,7 +40,11 @@ Nenurodyta
   santrauka: 'Tačiau 1991 m. sausio 10 d. M.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Promaskviniai būriai turėjo įsiveržti
+    į AT-AS, išvaikyti parlamentą, o sovietų kariuomenė ir specialios paskir-
     ties būriai („Alfa“) įsikišti į „pilietinį konfliktą“ (pasinaudota premjerės
+    Kazimieros Prunskienės sprendimu padidinti maisto produktų kainas)
+    ir nuversti teisėtą Lietuvos valdžią.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

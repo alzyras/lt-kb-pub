@@ -32,7 +32,12 @@ dr. Sauliui Kaubriui ir daugeliui kitų, prisidėjusių prie jos parengimo, iliu
   santrauka: 'dr. Sauliui Kaubriui ir daugeliui kitų, prisidėjusių prie jos parengimo, iliustravimo, reikalingų žemėlapių atrinkimo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Nuoširdžiai dėkojame leidinio iniciatoriams, redakcinės kolegijos
     nariams, skaičiusiems pradinius tekstus, ypač Jauniui Petraičiui, taip
+    pat dr. Vytautui Žaliui, Romanui Judinui, labai ačiū recenzavusiems šią
+    knygą prof. dr. Zenonui Butkui ir doc. dr. Sauliui Kaubriui ir daugeliui
+    kitų, prisidėjusių prie jos parengimo, iliustravimo, reikalingų žemėlapių
+    atrinkimo.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -58,5 +63,6 @@ dr. Sauliui Kaubriui ir daugeliui kitų, prisidėjusių prie jos parengimo, iliu
 - [[temos/žemėlapis]]
 
 ### Susiję objektai
+- [[objektai/autoriai/Alfonsas Eidintas]]
 - [[objektai/autoriai/Kaubrys S]]
 - [[objektai/autoriai/Zenonas Butkus]]

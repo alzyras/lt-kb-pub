@@ -27,7 +27,11 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
   santrauka: 'Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Basųjų karmelitų bažnyčia Mstislavlyje. A. Bumblausko nuotr.
+    O toliau – ištisa plejada modernaus meno, literatūros, architektūros
+    kūrėjų, suspėjusių per du dešimtmečius pakeisti Lietuvos veidą ir krašto-
+    Ryčiausias (500 km nuo Vilniaus) Vilniaus baroko mokyklos
+    ir garsiausio jos architekto J. K. Glaubitzo kūrinys –
+    Basųjų karmelitų bažnyčia Mstislavlyje.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -28,6 +28,10 @@ Lietuviai pirmieji Vilniuje įkūrė Lietuvių dailės draugiją, pradėjo rengt
   santrauka: 'Lietuviai pirmieji Vilniuje įkūrė Lietuvių dailės draugiją, pradėjo rengti viešas dailės parodas, bet netrukus tie vietiniai dailininkai, kurie nenorėjo tapatintis su etninių lietuvių tautinio sąjūdžio tikslais, įkūrė atskirą Vilniaus dailės draugiją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuviai pirmieji Vilniuje
+    įkūrė Lietuvių dailės draugiją, pra-
+    dėjo rengti viešas dailės parodas,
+    bet netrukus tie vietiniai dailininkai, kurie nenorėjo tapatintis su etninių
     lietuvių tautinio sąjūdžio tikslais, įkūrė atskirą Vilniaus dailės draugiją.
   citata_rodoma: ''
   teiginio_tipas: faktas

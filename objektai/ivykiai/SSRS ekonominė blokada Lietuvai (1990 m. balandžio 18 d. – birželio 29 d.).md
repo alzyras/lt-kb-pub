@@ -34,13 +34,21 @@ Nenurodyta
   teiginys: 'Apie Lietuvos nepriklausomybę nieko nenorėjo girdėti SSRS vadovybė su M.'
   pagrindžia:
     - c-001
+- t-002
+  teiginys: 'Belaukiant tarptautinio Lietuvos pripažinimo Apie Lietuvos nepriklausomybę nieko nenorėjo girdėti SSRS vadovybė su M.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Apie Lietuvos nepriklausomybę nieko nenorėjo girdėti SSRS vadovybė su M.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Nepaisant
+    didžiulio smūgio ekonomikai (trūko kuro, kurį laiką nedirbo Mažeikių
+    naftos perdirbimo įmonė, dėl žaliavų trūkumo užsidarė kai kurios ga-
     myklos, atsirado pirmieji bedarbiai), Lietuva atsilaikė ir diplomatinėmis
+    priemonėmis pasiekė ekonominės blokados atšaukimo.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -48,8 +56,8 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/aktas]]
-- [[temos/diplomatas]]

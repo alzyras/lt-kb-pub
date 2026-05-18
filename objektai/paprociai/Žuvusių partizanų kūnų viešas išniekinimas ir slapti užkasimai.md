@@ -71,7 +71,13 @@ Sovietinės represinės institucijos partizaninio judėjimo atramai slopinti nau
   santrauka: Citata aprašo kūnų išmetimą aikštėse, viešą išniekinimą ir slaptą užkasimą.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Represinės instituci-
+    jos, slopindamos parti-
     zaninio judėjimo atramą, trėmė į Sibirą ginkluoto pasipriešinimo dalyvių
+    šeimas, rėmėjus, kankino pasipriešinimo dalyvius, naudojo psichologinę
+    prievartą, pusnuogius žuvusių partizanų lavonus išmesdavo centrinėse
+    miestelių aikštėse, viešai išniekindavo, neleisdavo palaidoti ir patys slap-
+    čia užkasdavo pelkėse ar šiukšlynuose.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

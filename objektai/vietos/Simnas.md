@@ -44,7 +44,9 @@ Seirijuose, Simne, Prienuose ir kt.
   santrauka: 'Pirmasis jos redaktorius buvo tuomet Simne dirbęs kun. Sigitas Tamkevičius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Grupė dvasininkų 1972 m. kovo 19 d. pradėjo leisti katalikišką leidinį „Lie-
     tuvos katalikų bažnyčios kronika“. Pirmasis jos redaktorius buvo tuomet
+    Simne dirbęs kun. Sigitas Tamkevičius.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

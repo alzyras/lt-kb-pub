@@ -45,7 +45,10 @@ Nenurodyta
   santrauka: 'formavosi ir bendra Abiejų Tautų Respublikos kaip Lenkijos savimonė, tačiau šioje Lenkijoje aiškiai skiriant ir „kitą Lenkiją“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono
+    ir jo ainių legenda tapo pagrindu ne tik lietuvių, bet ir rusėnų bajorijai
     vesti savo kilmę Palemono tradicija arba sieti save su realia Gediminaičių
+    dinastija.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -40,7 +40,11 @@ Nenurodyta
   santrauka: 'Dislokuotos Lietuvoje NKVD divizijos vykdė baudžiamąsias operacijas: vien 1944 m. liepą–gruodį okupantų teroro aktais nužudyti 2 489 žmonės, apie 100 tūkst.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietu-
     vos gyventojų patyrė vienokią ar kitokią okupantų prievartą. Slopinant
+    ginkluotą pasipriešinimą griebtasi masinių deportacijų į Sibirą: 1948 m.
+    gegužę ištremta 40 002, 1949 m. – 33 500, o 1951 m. – 20 357 gyvento-
+    jai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

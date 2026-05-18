@@ -30,7 +30,13 @@ Narystės ir demokratijos įtvirtinimui Lietuva ėmė ryžtingai siekti demokrat
   santrauka: 'Narystės ir demokratijos įtvirtinimui Lietuva ėmė ryžtingai siekti demokratinių vertybių – užtikrinti galimybes puoselėti savo kalbą ir kultūrą tautinėms mažumoms, vykdyti religinio turto restituciją, įvertinti Holokausto pamokas, grąžinti žydams išblaškytas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Narystės ir demokratijos įtvirtinimui Lietuva ėmė ryžtingai siekti de-
+    mokratinių vertybių – užtikrinti galimybes puoselėti savo kalbą ir kultūrą
+    tautinėms mažumoms, vykdyti religinio turto restituciją, įvertinti Holo-
+    kausto pamokas, grąžinti žydams išblaškytas kultūros vertybes (išsaugo-
     tas 300 Torų, YIVO instituto dokumentus), sakralinius pastatus, kovoti
+    prieš antisemitizmą ir rasinį bei religinį nepakantumą, garantuoti žodžio,
+    spaudos, rinkimų laisvę.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -45,3 +51,4 @@ Narystės ir demokratijos įtvirtinimui Lietuva ėmė ryžtingai siekti demokrat
 
 ### Susiję objektai
 - [[objektai/daiktai/Išsaugotos Toros]]
+- [[objektai/paprociai/Tautinių bendrijų kalbos, kultūros ir papročių puoselėjimas]]

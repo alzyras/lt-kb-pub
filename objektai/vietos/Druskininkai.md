@@ -59,6 +59,7 @@ O kai, besivydami bolševikus, lenkai ties Druskininkais persikėlė per Nemuną
     Suvalkų sutartyje, kaip demarkacijos linija) ligi Nemuno, paskui
     — Nemunu ligi Druskininkų, nuo čia — per Ežeronis ligi Volios,
     toliau vėl Nemunu ligi Beržūnės, o nuo čia tiesiog į rytus ligi Len-
+    kijos su Sovietų Rusija nustatytų sienų.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -70,6 +71,8 @@ O kai, besivydami bolševikus, lenkai ties Druskininkais persikėlė per Nemuną
   santrauka: 'Lietuviai atkakliai siekė išvengti karinių bazių, išsaugoti savo etnines žemes, atgauti kelis lietuviškus Vilniaus krašto rajonus (Švenčionis ir Druskininkus).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuviai at-
+    kakliai siekė išvengti karinių bazių, išsaugoti savo etnines žemes, atgauti
     kelis lietuviškus Vilniaus krašto rajonus (Švenčionis ir Druskininkus).
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -84,6 +87,4 @@ O kai, besivydami bolševikus, lenkai ties Druskininkais persikėlė per Nemuną
 - [[temos/ežeras]]
 
 ### Susiję objektai
-- [[objektai/vietos/Ežeronis]]
-- [[objektai/vietos/Volia]]
 - [[objektai/vietos/Švenčionys]]

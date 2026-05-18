@@ -27,7 +27,8 @@ Lietuvos sienos: Tūkstantmečio istorija.
   santrauka: 'Lietuvos sienos: Tūkstantmečio istorija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Lietuvos sienos: Tūkstantmečio istorija.
+    Kaunas,
+    1936 (fotografuotinis leidimas: Vilnius, 1989); Lietuvos sienos: Tūkstantmečio istorija.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

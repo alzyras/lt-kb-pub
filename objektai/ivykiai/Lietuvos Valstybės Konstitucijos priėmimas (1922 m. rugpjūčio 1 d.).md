@@ -78,7 +78,10 @@ Nenurodyta
   santrauka: Konstitucijos priėmimas ir pagrindiniai demokratinės valstybės principai.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuvos valstybė – nepriklausoma demokratinė respublika,
+    aukščiausioji valdžia priklauso tautai (LDK laikais tik bajorai turėjo aukš-
     čiausiąją valdžią ir užėmė išskirtinę padėtį šalyje). Lietuvių kalba pirmą
+    kartą įteisinta kaip valstybinė.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -91,7 +94,9 @@ Nenurodyta
   santrauka: Seimo galios, mažumų autonomija ir privalomas pradžios mokslas.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Seimas ir prezidentas (renkamas Seimo) ren-
     kami trejiems metams. Konstitucija suteikė plačią autonomiją Lietuvoje
+    gyvenusioms tautinėms mažumoms, įteisino privalomą pradžios mokslą.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

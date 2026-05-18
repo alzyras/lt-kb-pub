@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 52.
+Objektų skaičius: 54.
 
 ## Kaip naudoti
 
@@ -75,6 +75,8 @@ Objektų skaičius: 52.
 - [JAV prezidento Džordžo Bušo kalba Vilniuje dėl Lietuvos saugumo (2002 m. lapkričio 23 d.)](../objektai/ivykiai/JAV%20prezidento%20D%C5%BEord%C5%BEo%20Bu%C5%A1o%20kalba%20Vilniuje%20d%C4%97l%20Lietuvos%20saugumo%20%282002%20m.%20lapkri%C4%8Dio%2023%20d.%29)
 - [Kryžių kalno kryžių naikinimas ir atstatymas (1961 m. ir vėliau)](../objektai/ivykiai/Kry%C5%BEi%C5%B3%20kalno%20kry%C5%BEi%C5%B3%20naikinimas%20ir%20atstatymas%20%281961%20m.%20ir%20v%C4%97liau%29)
 - [Lenkijos ultimatumas Lietuvai ir jo priėmimas (1938 m. kovo 17-19 d.)](../objektai/ivykiai/Lenkijos%20ultimatumas%20Lietuvai%20ir%20jo%20pri%C4%97mimas%20%281938%20m.%20kovo%2017-19%20d.%29)
+- [Lietuvos ir Žemaitijos krikštai kaip krikščionėjimo pradžia](../objektai/ivykiai/Lietuvos%20ir%20%C5%BDemaitijos%20krik%C5%A1tai%20kaip%20krik%C5%A1%C4%8Dion%C4%97jimo%20prad%C5%BEia)
+- [Politinių partijų uždraudimas Lietuvoje (1936 m. pradžia)](../objektai/ivykiai/Politini%C5%B3%20partij%C5%B3%20u%C5%BEdraudimas%20Lietuvoje%20%281936%20m.%20prad%C5%BEia%29)
 - [Treniotos nužudymas ir Vaišelgos atėjimas į valdžią](../objektai/ivykiai/Treniotos%20nu%C5%BEudymas%20ir%20Vai%C5%A1elgos%20at%C4%97jimas%20%C4%AF%20vald%C5%BEi%C4%85)
 - [Švitrigailos paskelbimas didžiuoju Lietuvos kunigaikščiu](../objektai/ivykiai/%C5%A0vitrigailos%20paskelbimas%20did%C5%BEiuoju%20Lietuvos%20kunigaik%C5%A1%C4%8Diu)
 

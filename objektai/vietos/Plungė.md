@@ -28,7 +28,10 @@ Decentralizuotai plėtojant pramonę, geriau panaudoti vietiniai darbo išteklia
   santrauka: 'Decentralizuotai plėtojant pramonę, geriau panaudoti vietiniai darbo ištekliai, Alytaus, Plungės, Utenos gamyklose nuo 50 iki 70 proc.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Decentralizuotai plėtojant pramonę, geriau
     panaudoti vietiniai darbo ištekliai, Alytaus, Plungės, Utenos gamyklose
+    nuo 50 iki 70 proc. darbininkų buvo to paties miesto ar rajono gyventojai
+    ir tik 3–5 proc.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

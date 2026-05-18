@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 7.
+Objektų skaičius: 9.
 
 ## Kaip naudoti
 
@@ -22,6 +22,9 @@ Objektų skaičius: 7.
 - [[objektai/daiktai/Dviašmenis kalavijas]]
 - [[objektai/daiktai/Sidabruotos geležinės balnakilpės]]
 
+### Grupės
+- [[objektai/grupes/Lietuvos Respublikos užsienio reikalų ministerija]]
+
 ### Papročiai
 - [[objektai/paprociai/Specialių brolijų maldininkams globoti steigimas]]
 
@@ -32,3 +35,4 @@ Objektų skaičius: 7.
 
 ### Žodynas
 - [[objektai/zodynas/chiefdom vadystė|chiefdom / vadystė]]
+- [[objektai/zodynas/pagonybė]]

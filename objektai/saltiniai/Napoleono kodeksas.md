@@ -6,6 +6,20 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1807 m.'
+  - '1809 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodo_grupes:
+  - 'naujieji laikai'
+  - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XIX'
+  - 'XXI'
+date_start: '1807'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - saltinis
@@ -23,13 +37,21 @@ tags:
   teiginys: '1807 m. Europos žemėlapyje atsirado Varšuvos kunigaikštystė – pusiau nepriklausoma, Napoleono globojama valstybė, sudaryta iš Prūsijos anksčiau prisijungtų Lenkijos žemių ir Lietuvos Užnemunės.'
   pagrindžia:
     - c-001
+- t-002
+  teiginys: '3 skyrius • R U S I J O S I M P E R I J O S VA L D O M A L I E T U VA ( 1 7 9 5 – 1 9 1 5 ) 103 1807 m. Europos žemėlapyje atsirado Varšuvos kunigaikštystė – pusiau nepriklausoma, Napoleono globojama valstybė, sudaryta iš Prūsijos anksčiau prisijungtų.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1807 m. Europos žemėlapyje atsirado Varšuvos kunigaikštystė – pusiau nepriklausoma, Napoleono globojama valstybė, sudaryta iš Prūsijos anksčiau prisijungtų Lenkijos žemių ir Lietuvos Užnemunės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Iki 1809 m.
     ši valstybė pati atsikariaus iš Austrijos didžiumą lenkų žemių. Joje įvestas
+    civilinis Napoleono kodeksas, valstiečiams suteikta asmens laisvė, tik be
+    žemės nuosavybės teisės ir be teisės palikti savo gyvenamąją vietą ir ūkį
+    be žemvaldžio žinios.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -37,3 +59,23 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+- c-002
+  santrauka: '3 skyrius • R U S I J O S I M P E R I J O S VA L D O M A L I E T U VA ( 1 7 9 5 – 1 9 1 5 ) 103 1807 m. Europos žemėlapyje atsirado Varšuvos kunigaikštystė – pusiau nepriklausoma, Napoleono globojama valstybė, sudaryta iš Prūsijos anksčiau prisijungtų.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    3 skyrius •  R U S I J O S  I M P E R I J O S  VA L D O M A  L I E T U VA  ( 1 7 9 5 – 1 9 1 5 )
+    103
+    1807 m. Europos žemėlapyje atsirado Varšuvos kunigaikštystė – pu-
+    siau nepriklausoma, Napoleono globojama valstybė, sudaryta iš Prūsijos
+    anksčiau prisijungtų Lenkijos žemių ir Lietuvos Užnemunės. Iki 1809 m.
+    ši valstybė pati atsikariaus iš Austrijos didžiumą lenkų žemių. Joje įvestas
+    civilinis Napoleono kodeksas, valstiečiams suteikta asmens laisvė, tik be
+    žemės nuosavybės teisės ir be teisės palikti savo gyvenamąją vietą ir ūkį
+    be žemvaldžio žinios.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

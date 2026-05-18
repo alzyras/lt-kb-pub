@@ -48,13 +48,21 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   teiginys: 'LSSR institucijos neturėjo jokios realios valdžios – net LKP (bolševikų) centro komitetas turėjo tik eilinės Rusijos srities partijos komiteto teises.'
   pagrindžia:
     - c-008
+- t-009
+  teiginys: 'Pamažu tampanti lietuviškesnė komunistų partija (1953 m. LKP lietuvių buvo 13 tūkst.'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Keturi Lietuvos komunistų partijos (LKP) vadovai nuteisti mirties bausme ir po dešimt dienų nuo perversmo pradžios sušaudyti – tai turėjo reikšti, kad tikrieji kaltininkai nubausti, nors opozicinės partijos komunizmo pavojaus nematė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Keturi
     Lietuvos komunistų partijos (LKP) vadovai nuteisti mirties bausme ir po
+    dešimt dienų nuo perversmo pradžios sušaudyti – tai turėjo reikšti, kad
+    tikrieji kaltininkai nubausti, nors opozicinės partijos komunizmo pavo-
+    jaus nematė.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -67,6 +75,9 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     A. Smetonai atrodė nepavojinga nusilpusių kairiųjų partijų veikla, ėjo
+    jų laikraščiai, nekėlė grėsmės pogrindyje esanti negausi (apie 1 200 narių)
+    Lietuvos komunistų partija, nors Maskva ir pumpavo valiutą į jos subliuš-
+    kusius raumenis.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -78,7 +89,13 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   santrauka: 'Vykstant sekuliarizacijai, jaunimo modernizacijai, yrant uždaram žydų geto gyvenimui valdžia šnairavo į gausėjančius žydų kairiuosius, akty­vius LKP, komunistinio pogrindžio atstovus, kur žydai dominavo: jie sudarė daugiau kaip 70 proc.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vykstant sekuliarizacijai, jauni-
+    mo modernizacijai, yrant uždaram žydų geto gyvenimui valdžia šnairavo
+    į gausėjančius žydų kairiuosius, akty­vius LKP, komunistinio pogrindžio
+    atstovus, kur žydai dominavo: jie sudarė daugiau kaip 70 proc. narių svar-
     biausioje – Kauno LKP organizacijoje, daugumą komjaunime ir MOPR’e
+    (tarptautinė organizacija revoliucionieriams remti, diriguojama iš Mas-
+    kvos).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -90,7 +107,10 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   santrauka: 'Dekanozovui talkino ir sovietų pasiuntinybė su įgaliotuoju atstovu (polpredu) Nikolajumi Pozdniakovu priešakyje, ir iki tol pogrindyje veikusi maža Lietuvos komunistų partija (LKP).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    V. Dekanozovui talkino ir sovietų pasiuntinybė su įgaliotuoju
+    atstovu (polpredu) Nikolajumi Pozdniakovu priešakyje, ir iki tol pogrin-
     dyje veikusi maža Lietuvos komunistų partija (LKP). Šalyje dislokuota
+    daugiatūkstantinė SSRS kariuomenė nulėmė prasidėjusius įvykius.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -102,7 +122,14 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   santrauka: 'Iš tiesų Liaudies vyriausybė vykdė sovietų valią, nuo pirmų dienų griovė Lietuvos valstybingumą, keitė administraciją: į svarbius vyriausybės postus buvo paskirti amnestuoti politiniai kaliniai komunistai – LKP vadovas Antanas Sniečkus tapo Valstybės saugumo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Iš tiesų Liaudies vyriausybė vykdė sovietų valią, nuo pirmų dienų griovė
+    Lietuvos valstybingumą, keitė administraciją: į svarbius vyriausybės pos-
+    tus buvo paskirti amnestuoti politiniai kaliniai komunistai – LKP vadovas
+    Antanas Sniečkus tapo Valstybės saugumo departamento direktoriumi, o
+    Mečislovas Gedvilas – vidaus reikalų ministru; birželio 25 dieną įteisinta
+    LKP (nors kitos politinės partijos neįteisintos), paleistas vadinamasis sme-
     toninis Seimas, uždarytos visos nekomunistinės organizacijos, laikraščiai ir
+    žurnalai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -114,7 +141,10 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   santrauka: 'Į vieną vietą leista iškelti vieną kandidatą, o kandidatus galėjo kelti tik komunistų partija, komjaunimas, MOPR’as ir komunistų vadovaujamos profesinės sąjungos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus –
     toks pat scenarijus taikytas Latvijoje ir Estijoje. Į vieną vietą leista iškelti
+    vieną kandidatą, o kandidatus galėjo kelti tik komunistų partija, kom-
+    jaunimas, MOPR’as ir komunistų vadovaujamos profesinės sąjungos.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -126,6 +156,7 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   santrauka: 'LSSR institucijos neturėjo jokios realios valdžios – net LKP (bolševikų) centro komitetas turėjo tik eilinės Rusijos srities partijos komiteto teises.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    LSSR institucijos neturėjo jokios realios valdžios – net LKP (bolševikų)
     centro komitetas turėjo tik eilinės Rusijos srities partijos komiteto teises.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -134,6 +165,21 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-009
+  santrauka: 'Pamažu tampanti lietuviškesnė komunistų partija (1953 m. LKP lietuvių buvo 13 tūkst.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Postalininiu metu atsisakius masinio fizinio teroro, ne taip atvirai ir
+    masiškai pažeidinėjamos žmogaus teisės ir laisvės, tačiau toliau vykdytas
+    gyventojų priverstinis ideologinis apdorojimas, taikomi administraciniai
+    metodai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 ### Susiję objektai
@@ -143,4 +189,5 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
 - [[objektai/ivykiai/Okupacinės valdžios rinkimai į aukščiausias institucijas po karo (1946-1947 m.)]]
 - [[objektai/ivykiai/Vladimiro Dekanozovo atvykimas į Lietuvą ir realios valdžios perėmimas (1940 m. birželio 15 d.)]]
 - [[objektai/zodynas/aneksija]]
+- [[objektai/zodynas/destalinizacija postalininis metas atšilimo laikotarpis]]
 - [[objektai/zodynas/polpredas]]

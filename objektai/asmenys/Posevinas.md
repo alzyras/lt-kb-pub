@@ -67,7 +67,3 @@ Posevinas tikėjosi, kad Batoras bus priverstas nutraukti kovą: mat, kaip tik t
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/diplomatas]]

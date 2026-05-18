@@ -28,7 +28,9 @@ Tremtinių išvežimas į atšiauraus klimato prie Ledynuotojo vandenyno, Altaja
   santrauka: 'Tremtinių išvežimas į atšiauraus klimato prie Ledynuotojo vandenyno, Altajaus krašto vietoves, kur dalis jų mirė arba žuvo, vertintinas kaip nusikaltimas žmoniškumui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tremtinių išvežimas į at-
     šiauraus klimato prie Ledynuotojo vandenyno, Altajaus krašto vietoves,
+    kur dalis jų mirė arba žuvo, vertintinas kaip nusikaltimas žmoniškumui.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

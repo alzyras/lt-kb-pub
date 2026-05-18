@@ -27,6 +27,8 @@ tags:
   santrauka: '„Sukilėlių“ sėkmė atrodė kaip moralinė satisfakcija už prarastą Vilnių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1923 m. sausio 17 d.
+    VMLGK paskelbė sprendimą prisijungti prie Lietuvos autonominėmis
     teisėmis ir paprašė Lietuvos vyriausybės karinės ir finansinės pagalbos.
   citata_rodoma: ''
   teiginio_tipas: faktas

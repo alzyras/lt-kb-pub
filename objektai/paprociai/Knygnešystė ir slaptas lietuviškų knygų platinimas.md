@@ -48,39 +48,16 @@ Knygnešystė buvo slaptas lietuviškos spaudos spausdinimo, gabenimo ir platini
 - susiję daiktai: lietuviškos knygos; elementoriai
 
 ## Teiginiai
-- t-001
-  teiginys: 'Lietuviškosios spaudos centru pasidarė Tilžė.'
-  pagrindžia:
-    - c-001
 - t-002
   teiginys: 'Jis pats parašė daugybę knygučių ir joms išleisti nesigailėjo nei lėšų nei vargo.'
   pagrindžia:
     - c-002
-- t-003
-  teiginys: 'Kunigija iš pradžių daugiausia rūpinosi religinio turinio knygomis ir elementoriais, kurie buvo reikalingi vaikams mokyti.'
-  pagrindžia:
-    - c-003
 - t-004
   teiginys: 'Visi knygų platinimo vadai turėjo daugybę padėjėjų, kurie slapta eidavo per sieną, nunešdavo rankraščius ir atnešdavo knygų.'
   pagrindžia:
     - c-004
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Lietuviškosios spaudos centru pasidarė Tilžė.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    ** Kad lietuviai neliktų be savų raštų,
-    šie tuojau buvo pradėti spausdinti Mažojoje Lietuvoje. Lietu-
-    viškosios spaudos centru pasidarė Tilžė. Iš ten slapta knygos
-    buvo gabenamos ir skleidžiamos po visą Lietuvą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
 - c-002
   santrauka: 'Jis pats parašė daugybę knygučių ir joms išleisti nesigailėjo nei lėšų nei vargo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -96,25 +73,6 @@ Knygnešystė buvo slaptas lietuviškos spaudos spausdinimo, gabenimo ir platini
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Kunigija iš pradžių daugiausia rūpinosi religinio turinio knygomis ir elementoriais, kurie buvo reikalingi vaikams mokyti.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Jo pradėtą darbą uoliai varė toliau daugelis kunigų,
-    ypač Sudargo klebonas kun. M. Sederevičius (1829—
-    1907 m.). Kunigija iš pradžių daugiausia rūpinosi religinio
-    turinio knygomis ir elementoriais, kurie buvo reikalingi vaikams
-    mokyti. Bet iš dalies jau Daukantas, pats Valančius ir jo bendra-
-    darbiai rašė ir visokių pasaulinio turinio knygų. Vėliau, kai prie
-    to darbo prisidėjo daugiau šiaipjau inteligentų, pasaulinio turinio
-    knygos ėmė net vyrauti (maždaug nuo 1883 m.).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
 - c-004
   santrauka: 'Visi knygų platinimo vadai turėjo daugybę padėjėjų, kurie slapta eidavo per sieną, nunešdavo rankraščius ir atnešdavo knygų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)

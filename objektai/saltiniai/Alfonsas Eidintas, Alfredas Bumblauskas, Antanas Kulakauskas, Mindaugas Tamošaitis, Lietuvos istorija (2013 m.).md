@@ -51,28 +51,10 @@ Tai keturių autorių Lietuvos istorijos sintezė, išleista Lietuvos Respubliko
 - Skyrių autorystė siejama su Alfredu Bumblausku, Antanu Kulakausku, Alfonsu Eidintu ir Mindaugu Tamošaičiu.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Leidinio tituliniame puslapyje ir autorių teisių eilutėse nurodyti Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas ir Mindaugas Tamošaitis.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Leidinys pažymėtas kaip antras leidimas.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 - t-003
   teiginys: 'Bibliografinėje eilutėje leidinys nurodytas kaip 2012 m. Vilniaus universiteto leidyklos 280 puslapių knyga.'
   pagrindžia:
     - c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-004
-  teiginys: 'Leidinys išleistas Lietuvos Respublikos užsienio reikalų ministerijos užsakymu.'
-  pagrindžia:
-    - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-005
@@ -93,43 +75,7 @@ Tai keturių autorių Lietuvos istorijos sintezė, išleista Lietuvos Respubliko
     - c-008
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-
 ## Bibliografiniai įrodymai
-- c-001
-  santrauka: Tituliniame puslapyje nurodyti autoriai, leidykla, metai, užsakovas, antras leidimas ir autorių teisės.
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Alfonsas Eidintas, Alfredas Bumblauskas,
-    Antanas Kulakauskas, Mindaugas Tamošaitis
-    Vilniaus
-    universiteto
-    leidykla
-    2013
-    LIETUVOS
-    I S T O R I J A
-
-    Redakcinė kolegija:
-    Prof. dr. Raimundas Lopata – pirmininkas
-    Prof. dr. Alvydas Jokubaitis
-    Prof. dr. Vytautas Radžvilas
-    Dr. Inga Vinogradnaitė
-    Išleista Lietuvos Respublikos
-    užsienio reikalų ministerijos užsakymu
-    Antras leidimas
-    © Alfonsas Eidintas, 2013
-    © Alfredas Bumblauskas, 2013
-    © Antanas Kulakauskas, 2013
-    © Mindaugas Tamošaitis, 2013
-    © Lietuvos Respublikos užsienio reikalų ministerija, 2013
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-    - t-002
-    - t-004
 - c-003
   santrauka: Bibliografinėje eilutėje nurodyti leidimo metai, leidykla ir apimtis.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -143,12 +89,16 @@ Tai keturių autorių Lietuvos istorijos sintezė, išleista Lietuvos Respubliko
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
 ## Reikšmingi paminėjimai
 - c-005
   santrauka: Redaktoriaus žodyje nurodytas leidinio parengimo užsakymas, numatytas pobūdis ir chronologinė aprėptis.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tai iš-
+    skirtinė galimybė ne tik aktyviai prisidėti kuriant bendrą Europos ateitį,
+    bet ir sustiprinti šalių solidarumą ir dėmesingumą žemyno tautų praeičiai
+    ir, žinoma, dar kartą patiems – iš šiandieninio požiūrio taško – pažvelgti
+    ir visam pasauliui priminti, kas buvo, yra (ir bus) Lietuva.
     Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio
     reikalų ministerija (ministras Audronius Ažubalis) kreipėsi į Vilniaus
     universiteto Tarptautinių santykių ir politikos mokslų instituto moks-
@@ -175,6 +125,14 @@ Tai keturių autorių Lietuvos istorijos sintezė, išleista Lietuvos Respubliko
   santrauka: Redaktoriaus žodyje leidinys apibūdinamas kaip pirmas tokios aprėpties bandymas nuo 1990 m.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Dėl ribotos šios is-
+    torijos apimties atsisakyta detalesnės ekonominės, socialinės ir kultūrinės
+    raidos skirsnių. Skaitytojui jie būtų neabejotinai įdomūs ir pravartūs, bet
+    tebūnie tai ta auka ir kaina, kurią šios knygos autoriai pasiryžo sumokėti,
+    kad pasakojime kuo geriau išryškintų esminius Lietuvos istorijos verpe-
+    tus, Lietuvos valstybės raidą, jos indėlį į regiono ir visos Europos istoriją
+    bei ilgametį, tvirtą – nemirtingą – Lietuvos žmonių ryžtą kurti, saugoti ir
+    puoselėti savo valstybę.
     Redaktorius tikisi supratimo ir atlaidos, jei ne visiems Skaitytojams
     istorinis pasakojimas pasirodys vienodai priimtinas bei darnus, primin-
     damas, kad tai pirmas bandymas nuo 1990 m. valstybės atkūrimo aprėpti

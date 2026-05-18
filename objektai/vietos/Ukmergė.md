@@ -27,7 +27,7 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
 - t-002
   teiginys: 'Aukštaičius ir ne kartą pasiekė net Ukmergę ir Vilniaus apylinkes.'
   pagrindžia:
-    - c-002
+    - c-001
 - t-003
   teiginys: 'Ukmergės mūšis (1435 m.).'
   pagrindžia:
@@ -61,18 +61,6 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Aukštaičius ir ne kartą pasiekė net Ukmergę ir Vilniaus apylinkes.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Aukštaičius ir ne kartą pasiekė net Ukmergę ir Vilniaus
-    apylinkes.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
     - t-002
 - c-003
   santrauka: 'Ukmergės mūšis (1435 m.).'
@@ -124,7 +112,9 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   santrauka: 'Jos rėmė lenkų pradines mokyklas ir Lietuvos vyriausybės finansiškai remiamas lenkų gimnazijas Kaune, Panevėžyje ir Ukmergėje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Jos rėmė lenkų pradines mokyklas ir Lie-
+    Švietimui padėjo lenkų kultūros organiza-
+    cijos Pochodnia („Deglas“), Oswiata („Apšvieta“), Jutrzenka („Aušrinė“),
+    gaudavusios pinigų iš Lenkijos. Jos rėmė lenkų pradines mokyklas ir Lie-
     tuvos vyriausybės finansiškai remiamas lenkų gimnazijas Kaune, Pane-
     vėžyje ir Ukmergėje.
   citata_rodoma: ''

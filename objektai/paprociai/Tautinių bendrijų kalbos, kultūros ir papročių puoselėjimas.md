@@ -67,7 +67,10 @@ Nenurodyta
   santrauka: Konstitucijos kontekste minima teisė puoselėti kalbą, kultūrą ir papročius.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    turi teisę puoselėti savo kalbą, kultūrą ir papro-
+    Pagrindinis šalies įstatymas garantuo-
+    ja prigimtines žmogaus ir piliečio teises ir laisves, piliečiai, priklausantys
+    tautinėms bendrijoms, turi teisę puoselėti savo kalbą, kultūrą ir papro-
+    čius; tautinėms bendrijoms valstybė teikia paramą.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -80,7 +83,13 @@ Nenurodyta
   santrauka: Demokratinių vertybių kontekste minima galimybė puoselėti kalbą ir kultūrą.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    užtikrinti galimybes puoselėti savo kalbą ir kultūrą
+    Narystės ir demokratijos įtvirtinimui Lietuva ėmė ryžtingai siekti de-
+    mokratinių vertybių – užtikrinti galimybes puoselėti savo kalbą ir kultūrą
+    tautinėms mažumoms, vykdyti religinio turto restituciją, įvertinti Holo-
+    kausto pamokas, grąžinti žydams išblaškytas kultūros vertybes (išsaugo-
+    tas 300 Torų, YIVO instituto dokumentus), sakralinius pastatus, kovoti
+    prieš antisemitizmą ir rasinį bei religinį nepakantumą, garantuoti žodžio,
+    spaudos, rinkimų laisvę.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -94,3 +103,7 @@ Nenurodyta
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
+
+### Susiję objektai
+- [[objektai/daiktai/Išsaugotos Toros]]
+- [[objektai/zodynas/Restitucija]]

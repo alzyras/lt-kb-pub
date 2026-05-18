@@ -30,7 +30,10 @@ Postūmį įstoti į NATO ypač sustiprino lapkričio 23 dieną JAV prezidento D
   santrauka: 'Postūmį įstoti į NATO ypač sustiprino lapkričio 23 dieną JAV prezidento Džordžo Bušo (George Bush) Vilniuje pasakyti istoriniai žodžiai: „Mūsų sąjunga pasiryžusi ginti savo nares.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    2003 m. kovą
     pasirašius pakviestųjų kandidačių prisijungimo prie Vašingtono sutarties
+    protokolus, Lietuvos Respublikos Seimui ratifikavus Vašingtono sutartį,
+    2004 m. kovo 29 d. Lietuva tapo visateise NATO nare.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -42,7 +42,9 @@ Nenurodyta
   santrauka: 'Be to, mokyklas leista steigti ir privatiems asmenims bei visuomeninėms organizacijoms, jose galėjo būti mokoma ir lietuvių, taip pat lenkų kalba.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Užnemunėje veikė ir privati moterų
     gimnazija dėstomąja lietuvių kalba. Kaime ir toliau vaikus mokyta skaityti,
+    rašyti ir skaičiuoti grupelėmis namuose – to valdžia nebedraudė.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

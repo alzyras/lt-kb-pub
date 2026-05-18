@@ -46,7 +46,14 @@ Epigrafinė frazė pabrėžia lietuvių kalbos giminingumą sanskritui ir priski
   santrauka: Citata pateikia frazės tekstą ir jos bibliografinį priskyrimą.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Į v a d a s
+    LIETUVA –
+    VIDURIO EUROPOS DALIS
     „Be abejonės, sanskrito giminingumas su lietuvių kalba yra
+    didesnis, negu su bet kuria kita kalba šioje žemėje“
+    Iš britų mokslininko Robert Gordon Latham
+    „Descriptive Ethnology“ („Aprašomoji etnologija“)
+    Geografinis Europos centras?
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

@@ -27,6 +27,9 @@ tags:
   santrauka: '2004 m. pabaigoje Lietuvai pasiūlyta vadovauti vienos iš Afganistano provincijų – Goro – atkūrimo grupei, sudaryti šioje provincijoje sąlygas užtikrinti stabilumą ir saugumą, padėti Afganistano centrinei valdžiai plėsti savo įtaką regione.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    2004 m. pabaigoje
+    Lietuvai pasiūlyta vadovauti vienos iš Afganistano provincijų – Goro – at-
+    kūrimo grupei, sudaryti šioje provincijoje sąlygas užtikrinti stabilumą ir
     saugumą, padėti Afganistano centrinei valdžiai plėsti savo įtaką regione.
   citata_rodoma: ''
   teiginio_tipas: faktas

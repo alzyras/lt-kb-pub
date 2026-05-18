@@ -28,7 +28,11 @@ Slopinant ginkluotą pasipriešinimą griebtasi masinių deportacijų į Sibirą
   santrauka: 'Slopinant ginkluotą pasipriešinimą griebtasi masinių deportacijų į Sibirą: 1948 m. gegužę ištremta 40 002, 1949 m. – 33 500, o 1951 m. – 20 357 gyventojai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietu-
     vos gyventojų patyrė vienokią ar kitokią okupantų prievartą. Slopinant
+    ginkluotą pasipriešinimą griebtasi masinių deportacijų į Sibirą: 1948 m.
+    gegužę ištremta 40 002, 1949 m. – 33 500, o 1951 m. – 20 357 gyvento-
+    jai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

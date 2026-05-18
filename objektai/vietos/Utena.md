@@ -56,7 +56,10 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
   santrauka: 'Decentralizuotai plėtojant pramonę, geriau panaudoti vietiniai darbo ištekliai, Alytaus, Plungės, Utenos gamyklose nuo 50 iki 70 proc.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Decentralizuotai plėtojant pramonę, geriau
     panaudoti vietiniai darbo ištekliai, Alytaus, Plungės, Utenos gamyklose
+    nuo 50 iki 70 proc. darbininkų buvo to paties miesto ar rajono gyventojai
+    ir tik 3–5 proc.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -68,7 +71,13 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
   santrauka: '1926, būdamas dvejų metų su tėvais emigravęs į PAR, vėliau – į Didžiąją Britaniją), o Nobelio taikos premijos laureatu už kovą dėl branduolinio ginklo neplatinimo 1985 m. tapo kardiologas Bernard Lown (Bernardas Lounas), gimęs Utenoje (kaip Boruchas Lacas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Nobelio premijos laureatu bio-
+    chemijos srityje 1982 m. tapo Želvoje gimęs Aaron Klug (Aronas Kliugas,
+    g. 1926, būdamas dvejų metų su tėvais emigravęs į PAR, vėliau – į Didžią-
     ją Britaniją), o Nobelio taikos premijos laureatu už kovą dėl branduolinio
+    ginklo neplatinimo 1985 m. tapo kardiologas Bernard Lown (Bernardas
+    Lounas), gimęs Utenoje (kaip Boruchas Lacas 1921 m.), 1935 m. su šeima
+    emigravęs į JAV.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

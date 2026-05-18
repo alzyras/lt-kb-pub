@@ -21,17 +21,17 @@ Talkininkų rasta tarp nukentėjusių nuo sovietų teroro, kerštaujančių arba
   teiginys: 'Talkininkų rasta tarp nukentėjusių nuo sovietų teroro, kerštaujančių arba bandančių nusiplauti sovietmečio nuodėmes lietuvių – tokie dalyvavo SD inspiruotuose žiauriuose pogromuose birželio 26 dieną Vilijampolėje, 27 – Kauno „Lietūkio“ garaže, nors SD.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Žydų žudynės „Lietūkio“ garaže 1941 m. birželio 27 d. (R.'
-  pagrindžia:
-    - c-002
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Talkininkų rasta tarp nukentėjusių nuo sovietų teroro, kerštaujančių arba bandančių nusiplauti sovietmečio nuodėmes lietuvių – tokie dalyvavo SD inspiruotuose žiauriuose pogromuose birželio 26 dieną Vilijampolėje, 27 – Kauno „Lietūkio“ garaže, nors SD.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Talkinin-
+    kų rasta tarp nukentėjusių nuo sovietų teroro, kerštaujančių arba ban-
+    dančių nusiplauti sovietmečio nuodėmes lietuvių – tokie dalyvavo SD
     inspiruotuose žiauriuose pogromuose birželio 26 dieną Vilijampolėje,
+    27 – Kauno „Lietūkio“ garaže, nors SD einzatsgrupių vadų raportuose
+    sakoma, kad surengti pogromus buvo nelengva.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -39,15 +39,3 @@ Talkininkų rasta tarp nukentėjusių nuo sovietų teroro, kerštaujančių arba
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Žydų žudynės „Lietūkio“ garaže 1941 m. birželio 27 d. (R.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Žydų žudynės „Lietūkio“ garaže 1941 m. birželio 27 d.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002

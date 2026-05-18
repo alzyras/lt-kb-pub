@@ -40,6 +40,10 @@ Nenurodyta
   santrauka: 'Pirmą kartą lietuviai prisistatė 1900 m. Paryžiaus pasaulinėje parodoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Paryžiaus pasaulinėje
+    parodoje. Jos etnografiniame skyriuje Lietuvos lietuviai, kartu su tautie-
+    čiais iš Mažosios Lietuvos ir ypač padedami JAV lietuvių, paruošė ekspo-
+    ziciją, kurioje išdėliojo lietuvių tautinių drabužių, žemės ūkio padargų,
     kitų daiktų, o svarbiausia – slapta Prūsijoje leidžiamos lietuvių spaudos
   citata_rodoma: ''
   teiginio_tipas: faktas

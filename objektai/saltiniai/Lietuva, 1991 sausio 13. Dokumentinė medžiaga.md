@@ -22,13 +22,19 @@ Lietuva, 1991 sausio 13.
   teiginys: 'Lietuva, 1991 sausio 13.'
   pagrindžia:
     - c-001
+- t-002
+  teiginys: 'Lietuvos žemėlapis), Eugenijaus Peikštenio, Vytauto Jasiūno kolekcijų, leidinio „Lietuvos diplomatija nuo 1990 m. kovo 11“ (Vilnius: Lietuvos užsienio reikalų ministerija), 2001; Lietuva, 1991 sausio 13.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Lietuva, 1991 sausio 13.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Lietuva, 1991 sausio 13. Dokumentinė medžiaga. Vilnius: Spaudos
+    Lietuvos žemėlapis), Eugenijaus Peikštenio, Vytauto Jasiūno kolekcijų, leidinio
+    „Lietuvos diplomatija nuo 1990 m. kovo 11“ (Vilnius: Lietuvos užsienio reikalų
+    ministerija), 2001; Lietuva, 1991 sausio 13.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -36,3 +42,4 @@ Lietuva, 1991 sausio 13.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+    - t-002

@@ -42,7 +42,9 @@ Nenurodyta
   santrauka: 'Diplomatai savo atstovaujamose valstybėse simboliškai atstovavo Lietuvai, palaikė ryšius su kitų Baltijos šalių atstovais, dalyvavo įvairių šalių ambasadų, oficialių įstaigų priėmimuose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Diplomatai savo atstovaujamose valstybėse
     simboliškai atstovavo Lietuvai, palaikė ryšius su kitų Baltijos šalių atstovais,
+    dalyvavo įvairių šalių ambasadų, oficialių įstaigų priėmimuose.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -52,8 +54,5 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/diplomatas]]
-
 ### Susiję objektai
 - [[objektai/grupes/Lietuvos diplomatinė tarnyba]]

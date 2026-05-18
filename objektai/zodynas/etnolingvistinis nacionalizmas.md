@@ -27,7 +27,12 @@ Propagandos lygmeniu vyko konkurencinė kova tarp skirtingos ideologinės pakrai
   santrauka: 'Propagandos lygmeniu vyko konkurencinė kova tarp skirtingos ideologinės pakraipos politinių grupuočių (neretai pasivadinusių partijomis), veikusių atskirai lietuvių ir lenkų bendruomenių vardu, kurios daugiau ar mažiau laikėsi atitinkamai arba lietuvių, arba.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Propagandos lygmeniu vyko konkurencinė kova tarp skirtingos ideo-
+    loginės pakraipos politinių grupuočių (neretai pasivadinusių partijomis),
+    veikusių atskirai lietuvių ir lenkų bendruomenių vardu, kurios daugiau ar
+    mažiau laikėsi atitinkamai arba lietuvių, arba lenkų etnolingvistinio naci-
     onalizmo pozicijų ir a priori kitos pusės siekius laikė priešiškais ir iš esmės
+    neteisėtais.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

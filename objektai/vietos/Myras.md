@@ -27,6 +27,7 @@ Rimtesnės kautynės vyko birželio 11 dieną prie Myro, tačiau birželio 14-ą
   santrauka: 'Rimtesnės kautynės vyko birželio 11 dieną prie Myro, tačiau birželio 14-ąją Vilnius buvo atiduotas be kovos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Rimtesnės kautynės vyko birželio 11 dieną prie Myro,
     tačiau birželio 14-ąją Vilnius buvo atiduotas be kovos.
   citata_rodoma: ''
   teiginio_tipas: faktas

@@ -28,7 +28,11 @@ LAF vadovybė pernelyg pasitikėjo nacių Vokietija – manyta, jog „Vokietijo
   santrauka: 'LAF vadovybė pernelyg pasitikėjo nacių Vokietija – manyta, jog „Vokietijos vadovaujamoje Naujoje Europoje bus suteikta visoms tautoms teisė tvarkytis pas save, kaip nori“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Kadangi karinė LAF dalis bendradarbiavo su
+    Abveru, nurodyta pirmiausia užimti tiltus, svarbiausius geležinkelio maz-
+    gus, oro uostus, fabrikus ir kt. LAF vadovybė pernelyg pasitikėjo nacių
     Vokietija – manyta, jog „Vokietijos vadovaujamoje Naujoje Europoje bus
+    suteikta visoms tautoms teisė tvarkytis pas save, kaip nori“.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -36,3 +40,7 @@ LAF vadovybė pernelyg pasitikėjo nacių Vokietija – manyta, jog „Vokietijo
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Abveras]]

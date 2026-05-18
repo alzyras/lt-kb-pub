@@ -23,17 +23,15 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
   teiginys: 'Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (Skandinavija) pritapo prie šiaurinės – dinamiškosios Vakarų Europos dalies (Olandija, Anglija) ir per XVII–XVIII a.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Kuriamam Vilniaus universitetui jėzuitai kėlė didelius tikslus – skleisti mokslą ir katalikybę ne tik Lietuvos Didžiojoje Kunigaikštijoje bei gretimuose kraštuose, bet ir Skandinavijoje, tolimuosiuose Rytų kraštuose (net Kinijoje!).'
-  pagrindžia:
-    - c-002
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (Skandinavija) pritapo prie šiaurinės – dinamiškosios Vakarų Europos dalies (Olandija, Anglija) ir per XVII–XVIII a.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Eu-
+    ropa (Skandinavija) pritapo prie šiaurinės – dinamiškosios Vakarų Euro-
     pos dalies (Olandija, Anglija) ir per XVII–XVIII a. pralenkė katalikiškąją
+    Vidurio Europą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -41,18 +39,6 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Kuriamam Vilniaus universitetui jėzuitai kėlė didelius tikslus – skleisti mokslą ir katalikybę ne tik Lietuvos Didžiojoje Kunigaikštijoje bei gretimuose kraštuose, bet ir Skandinavijoje, tolimuosiuose Rytų kraštuose (net Kinijoje!).'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Kuriamam Vilniaus universitetui jėzuitai kėlė didelius tikslus – skleisti
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai

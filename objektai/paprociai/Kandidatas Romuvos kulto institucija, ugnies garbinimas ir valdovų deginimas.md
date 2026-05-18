@@ -48,7 +48,10 @@ Nenurodyta
   santrauka: 'O valstybėje dėsningai atsiranda sąlygos susidaryti dvasininkų sluoksniui ir kulto reikalus tvarkančiai institucijai, nes veikia mechanizmas, leidžiantis visa tai išlaikyti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tai-
+    gi valstybė iš viršaus lyg ir turėjo bandyti paspartinti pagonybės virtimo
     institucine religija procesą. Šio proceso ankstyvąja apraiška reikėtų laikyti
+    šaltiniuose minimą šventyklą – Nadruvoje esančią Romuvą ir jos krivį.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -60,7 +63,9 @@ Nenurodyta
   santrauka: 'Romuvoje pagrindinis kulto objektas buvo ugnis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Ro-
     muvoje pagrindinis kulto objektas buvo ugnis. Jos garbinimas susijęs su
+    Lietuvoje išplitusiais Aukuro kalnais ir akmenimis.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -72,3 +77,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/paprociai/Kandidatas 9 Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas]]
+- [[objektai/zodynas/Romuva ir krivis]]

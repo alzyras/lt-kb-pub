@@ -8,13 +8,15 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
 tags:
+  - diplomatas
   - ivykis
+  - kraštas
 ---
 # Lenino paminklo pašalinimas Vilniuje (1991 m. rugpjūčio 23 d.)
 
 ## Santrauka
 
-Vilniuje pašalinamas Lenino paminklas.
+Pakviesti į tarnybą savo krašto interesams ginti vaikinai ir merginos turėjo daug ambicijų, gerų sumanymų ir energijos, o dėl savo jaunumo ir trykštančio entuziazmo, netradicinių žingsnių greitai užsitarnavo vyresnio amžiaus Vakarų diplomatų epitetą „Baltic.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -30,16 +32,21 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vilniuje pašalinamas Lenino paminklas.'
+  teiginys: 'Pakviesti į tarnybą savo krašto interesams ginti vaikinai ir merginos turėjo daug ambicijų, gerų sumanymų ir energijos, o dėl savo jaunumo ir trykštančio entuziazmo, netradicinių žingsnių greitai užsitarnavo vyresnio amžiaus Vakarų diplomatų epitetą „Baltic.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vilniuje pašalinamas Lenino paminklas.'
+  santrauka: 'Pakviesti į tarnybą savo krašto interesams ginti vaikinai ir merginos turėjo daug ambicijų, gerų sumanymų ir energijos, o dėl savo jaunumo ir trykštančio entuziazmo, netradicinių žingsnių greitai užsitarnavo vyresnio amžiaus Vakarų diplomatų epitetą „Baltic.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    1991 m. rugpjūčio 23 d. J. Juknevičiaus nuotrauka
+    Pakviesti
+    į tarnybą savo krašto interesams ginti vaikinai ir merginos turėjo daug
+    ambicijų, gerų sumanymų ir energijos, o dėl savo jaunumo ir trykštančio
+    entuziazmo, netradicinių žingsnių greitai užsitarnavo vyresnio amžiaus
+    Vakarų diplomatų epitetą „Baltic Kindergarten“…
+    Vilniuje pašalinamas Lenino paminklas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

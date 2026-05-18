@@ -28,7 +28,11 @@ Getuose atsirado pasipriešinimo grupių, kai kurie žydai bėgo į miškus, įs
   santrauka: 'Getuose atsirado pasipriešinimo grupių, kai kurie žydai bėgo į miškus, įsijungė į antinacinę rezistenciją – sovietų partizanų būrius, kur, nepaisant susidūrimo su antisemitinėmis nuotaikomis, ėmėsi ginklo, daug Lietuvos žydų kovojo SSRS gilumoje suformuotoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Getuose atsirado pasipriešinimo grupių, kai kurie žydai bėgo į miš-
+    kus, įsijungė į antinacinę rezistenciją – sovietų partizanų būrius, kur, ne-
+    paisant susidūrimo su antisemitinėmis nuotaikomis, ėmėsi ginklo, daug
     Lietuvos žydų kovojo SSRS gilumoje suformuotoje 16-ojoje lietuviškojoje
+    šaulių divizijoje.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

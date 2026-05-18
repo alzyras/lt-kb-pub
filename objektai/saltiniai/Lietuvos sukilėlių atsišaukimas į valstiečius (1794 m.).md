@@ -22,13 +22,21 @@ Kreiptasi į valstiečius (tai pirmas atsišaukimas lietuvių kalba) – raginta
   teiginys: 'Kreiptasi į valstiečius (tai pirmas atsišaukimas lietuvių kalba) – raginta pradėti partizaninį karą prieš Rusijos kariuomenę, žadėta suteikti jiems asmens laisvę.'
   pagrindžia:
     - c-001
+- t-002
+  teiginys: 'Sukilėliai veikė ryžtingai – pakorė LDK didįjį etmoną S.'
+  pagrindžia:
+    - c-001
 
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kreiptasi į valstiečius (tai pirmas atsišaukimas lietuvių kalba) – raginta pradėti partizaninį karą prieš Rusijos kariuomenę, žadėta suteikti jiems asmens laisvę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Su-
+    kilėliai veikė ryžtingai – pakorė LDK didįjį etmoną S. Kosakovskį, suėmė
     žymesnius targovitėnus. Kreiptasi į valstiečius (tai pirmas atsišaukimas
+    lietuvių kalba) – raginta pradėti partizaninį karą prieš Rusijos kariuome-
+    nę, žadėta suteikti jiems asmens laisvę.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -36,3 +44,4 @@ Kreiptasi į valstiečius (tai pirmas atsišaukimas lietuvių kalba) – raginta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+    - t-002

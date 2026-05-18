@@ -27,7 +27,9 @@ Vokiečiams modernizuojant aneksijos ir prisijungimo planus, prireikus tam ir ok
   santrauka: 'Vokiečiams modernizuojant aneksijos ir prisijungimo planus, prireikus tam ir okupuotų lietuvių balso, 1917 m. vasarą lietuviams leista surengti konferenciją Vilniuje. Jos orga.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vokiečiams modernizuojant anek-
     sijos ir prisijungimo planus, prireikus tam ir okupuotų lietuvių balso,
+    1917 m. vasarą lietuviams leista surengti konferenciją Vilniuje.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -35,3 +37,7 @@ Vokiečiams modernizuojant aneksijos ir prisijungimo planus, prireikus tam ir ok
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Petras Klimas]]

@@ -48,6 +48,9 @@ Nenurodyta
   santrauka: 'Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybės idėjomis, inicijavo blaivybės sąjūdį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    M.  Valančius,
+    remdamasis kituose katalikiškuo-
+    se kraštuose platinamomis blai-
     vybės idėjomis, inicijavo blaivybės sąjūdį.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -60,7 +63,11 @@ Nenurodyta
   santrauka: 'Po poros metų šių blaivybės brolijų nariais buvo per 80 proc.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Po poros metų šių blaivybės
     brolijų nariais buvo per 80 proc. vyskupijos gyventojų katalikų – taigi
+    lietuviai metė gerti degtinę, kaipmat pakilo ūkių gerovė, sustiprėjo šei-
+    Motiejus Valančius iš J. K. Vilčinskio
+    „Vilniaus albumo“.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -71,5 +78,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Blaivybės brolijos]]
 - [[objektai/paprociai/Kandidatas 57 Valančiaus blaivybės sąjūdis ir blaivybės brolijos]]
 - [[objektai/autoriai/Motiejus Valančius]]

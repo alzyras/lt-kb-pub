@@ -29,6 +29,7 @@ Blažytė-Baužienė D., Tamošaitis M., Truska L.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Blažytė-Baužienė D., Tamošaitis M., Truska L. Lietuvos Seimo istorija:
+    XX–XXI a. pradžia.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

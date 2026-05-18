@@ -34,7 +34,11 @@ Keista, nes ja vykdoma ne tik ,,Lenkijos pertvarka“. Remiantis šiuo įžadu, 
   santrauka: 'Keista, nes ja vykdoma ne tik ,,Lenkijos pertvarka“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Konstitucijoje
+    yra rašoma daugiskaita apie „Respublikos valstybes“, t. y. turima omenyje
     ir Lietuva. Nepaisant visų unitarinių tendencijų, konstitucijos teksto III ir
+    IV skyriuose juodu ant balto parašyta ,,Respublikos valstybės“ – Lenkija
+    ir Lietuva.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

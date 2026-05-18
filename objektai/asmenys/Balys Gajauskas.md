@@ -28,6 +28,9 @@ Sovietinė valdžia represijas prieš disidentus derino su dalinių nuolaidų ki
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sovietinė valdžia represijas prieš disidentus derino su dalinių
+    nuolaidų kitaminčiams taktika, vengdama imtis drastiškų priemonių, ži-
+    nomus disidentus išsiųsdavo iš Sovietų Sąjungos, o kitus suimdavo ir nu-
+    teisdavo (pavyzdžiui, teisti Balys Gajauskas, Viktoras Petkus).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -40,7 +40,9 @@ Nenurodyta
   santrauka: 'Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritarė lietuvių katalikų seimas Čikagoje (JAV).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Dabar jau koordinuotoje akcijoje dalis lietuvių veikėjų deklaravo
     etnopolitinį lietuvių atskirumą ir kėlė Lietuvos statuso klausimą, Mažosios
+    Lietuvos koziriu bandydami jį internacionalizuoti.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

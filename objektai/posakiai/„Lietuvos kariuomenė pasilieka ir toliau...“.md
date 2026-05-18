@@ -27,7 +27,9 @@ Skelbta, kad sovietų kariuomenės įžengimas siekia tik sustiprinti Lietuvos s
   santrauka: 'Skelbta, kad sovietų kariuomenės įžengimas siekia tik sustiprinti Lietuvos saugumą ir esminių permainų neįvyko.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Skelbta, kad
     sovietų kariuomenės įžengimas siekia tik sustiprinti Lietuvos saugumą
+    ir esminių permainų neįvyko.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

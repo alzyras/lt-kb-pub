@@ -39,6 +39,8 @@ Nenurodyta
   santrauka: 'Po gegužę įvykdyto studentų eserų pasikėsinimo į A.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Po gegužę įvykdyto studen-
+    tų eserų pasikėsinimo į A. Voldemaro gyvybę, 1929 m. rugsėjį visiems
     ministrams in corpore „atsistatydinus“, turėjo atsistatydinti ir premjeras.
   citata_rodoma: ''
   teiginio_tipas: faktas

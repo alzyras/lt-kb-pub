@@ -42,7 +42,12 @@ Nenurodyta
   santrauka: 'Bendras vidaus politinis gyvenimas, bendri seimai ir seimeliai, susiformavusi LDK teisė Lietuvos Statutuose (tai trys teisynai – 1529, 1566, 1588) ugdė sampratą, kad lietuvis yra ne tas, kuris kalba lietuviškai, o tas, kuris gina laisvę ir vadovaujasi.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Bendras vidaus politinis
+    gyvenimas, bendri seimai ir seimeliai, susiformavusi LDK teisė Lietuvos
+    Statutuose (tai trys teisynai – 1529, 1566, 1588) ugdė sampratą, kad lie-
+    tuvis yra ne tas, kuris kalba lietuviškai, o tas, kuris gina laisvę ir vadovau-
     jasi Lietuvos Statutais. LDK politinės tautos prielaidas kūrė LDK karinės
+    pergalės Žalgiryje, Klecke, Oršoje, Kirchholme (dab.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

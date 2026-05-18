@@ -66,6 +66,8 @@ Nenurodyta
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nors tas mokyklėles persekiojo policija, įkliuvusius jų mokytojus valdžia
+    kartais ištremdavo keleriems metams į Rusijos gilumą, tai nieko neatbai-
+    dė – buvo poreikis, susiformavo tradicija.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -77,7 +79,18 @@ Nenurodyta
   santrauka: 'Etninės Lietuvos teritorija visoje europinėje Rusijos imperijos dalyje išsiskyrė bene mažiausiu mokyklinio amžiaus vaikų, lankančių oficialias pradžios mokyklas, procentu – europinėje Rusijos imperijos dalyje XIX a.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Etninės Lietuvos teritorija vi-
     soje europinėje Rusijos imperijos
+    dalyje išsiskyrė bene mažiausiu
+    mokyklinio amžiaus vaikų, lan-
+    kančių oficialias pradžios mo-
+    kyklas, procentu – europinėje
+    Rusijos imperijos dalyje XIX a.
+    pabaigoje pradžios mokyklas lan-
+    kė vidutiniškai 66 proc. berniukų
+    ir 18 proc. mergaičių, o Kauno
+    gubernijoje tie skaičiai buvo ati-
+    tinkamai 21 proc. ir 4 proc.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -89,3 +102,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/paprociai/Kandidatas Rusiškų mokyklų boikotas ir slaptos daraktorinės mokyklėlės]]
+- [[objektai/paprociai/Rusiškų mokyklų boikotas ir daraktorinės mokyklėlės]]

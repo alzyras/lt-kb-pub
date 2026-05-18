@@ -58,3 +58,8 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/autoriai/P. Klimas]]
+- [[objektai/asmenys/kun. Stankevičius]]

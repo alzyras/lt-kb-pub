@@ -28,7 +28,13 @@ Berija ir apie ką jie kalbėjo, iki šiol nežinoma.
   santrauka: 'Berija ir apie ką jie kalbėjo, iki šiol nežinoma.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Kodėl kameroje J. Žemaitį lankė
+    SSRS saugumo maršalas L. Be-
+    rija ir apie ką jie kalbėjo, iki šiol
     nežinoma. Tačiau vien tas faktas
+    rodo, kad L. Berija pripažino Lie-
+    tuvoje vykstantį partizaninį karą
+    rimta grėsme sovietų valdymui.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

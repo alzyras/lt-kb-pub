@@ -29,7 +29,11 @@ Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kairiųjų, į k
   santrauka: 'Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kairiųjų, į komunistinę revoliuciją ir vadinamąjį proletarinį internacionalizmą besiorientavusios, nelegaliai veikusios organizacijos, vienas kitas intelektualas, taip pat negausi LDK valstybingumo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kai-
     riųjų, į komunistinę revoliuciją ir vadinamąjį proletarinį internacionalizmą
+    besiorientavusios, nelegaliai veikusios organizacijos, vienas kitas intelektua-
+    las, taip pat negausi LDK valstybingumo idėjos mylėtojų, vadinamoji „kraš-
+    tiečių“ (lenkiškai „krajovcų“) demokratų srovė.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

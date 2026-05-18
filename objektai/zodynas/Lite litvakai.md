@@ -32,7 +32,10 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
   santrauka: 'Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį „Lite“, o save – „litvakais“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Visą istorinės Lietuvos laiko-
     tarpį joje gyvenę žydai vadino šią šalį „Lite“, o save – „litvakais“. Taigi
+    Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioji Ku-
+    nigaikštija.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -44,7 +47,9 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
   santrauka: 'O kai kas priduria – ir… Izraelis, nes, kuriant šią valstybę, reikšmingiausius vaidmenis suvaidino iš šios erdvės kilę žydai, vadinęsi litvakais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    O
     kai kas priduria – ir… Izraelis, nes, kuriant šią valstybę, reikšmingiausius
+    vaidmenis suvaidino iš šios erdvės kilę žydai, vadinęsi litvakais.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -55,5 +60,6 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/litvakai Lite litviš]]
+- [[objektai/paprociai/Kandidatas 4 Istorinės Lietuvos žydų savivardystė „Lite“ ir „litvakai“]]
+- [[objektai/paprociai/Kandidatas Istorinės Lietuvos žydų savivardystė „Lite“ ir „litvakai“]]
 - [[objektai/grupes/Žydai]]

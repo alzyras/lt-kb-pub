@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 73.
+Objektų skaičius: 103.
 
 ## Kaip naudoti
 
@@ -21,46 +21,73 @@ Objektų skaičius: 73.
 ### Asmenys
 - [[objektai/asmenys/Algirdas]]
 - [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Jadvyga]]
 - [[objektai/asmenys/Jadvyga Jogailienė]]
 - [[objektai/asmenys/Jogaila]]
 - [[objektai/asmenys/Karolis IV]]
 - [[objektai/asmenys/Kęstutis]]
+- [[objektai/asmenys/Mindaugas]]
 - [[objektai/asmenys/Skirgaila]]
 - [[objektai/asmenys/Vytautas]]
 - [[objektai/asmenys/Švitrigaila]]
 
 ### Daiktai
+- [[objektai/daiktai/Herbai]]
+- [[objektai/daiktai/Karūna]]
 - [[objektai/daiktai/Lietuvos pinigai]]
 - [[objektai/daiktai/Pirmosios katedros didysis altoriaus kryžius]]
+- [[objektai/daiktai/Įsivaizduojami Lietuvos valdovų portretai]]
 
 ### Grupės
 - [[objektai/grupes/Anglai]]
+- [[objektai/grupes/Gediminaičių dinastija]]
+- [[objektai/grupes/Katalikų Bažnyčia]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Livonijos ordinas]]
-- [[objektai/grupes/Žemaičių medininkai]]
-- [[objektai/grupes/Žuvėdai]]
-- [[objektai/grupes/Žydai]]
+- [[objektai/grupes/Mongolų imperija]]
+- [[objektai/grupes/Totoriai]]
+- [Žemaičių medininkai](../objektai/grupes/%C5%BDemai%C4%8Di%C5%B3%20medininkai)
+- [Žuvėdai](../objektai/grupes/%C5%BDuv%C4%97dai)
+- [Žydai](../objektai/grupes/%C5%BDydai)
 
 ### Papročiai
-- [[objektai/paprociai/Belaisvių apsikeitimas, paliaubos ir riteriškas vaišinimas]]
-- [[objektai/paprociai/Gedimino religinio pakantumo norma]]
-- [[objektai/paprociai/Lotyniško krikšto privalomumas ir mišrių moterystių draudimas]]
-- [[objektai/paprociai/Pagoniškų elementų integravimas į krikščioniškas praktikas]]
-- [[objektai/paprociai/Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais]]
-- [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija]]
-- [[objektai/paprociai/Žemaičių paklusnumas ir ištikimybės priesaikos Ordinui]]
+- [Belaisvių apsikeitimas, paliaubos ir riteriškas vaišinimas](../objektai/paprociai/Belaisvi%C5%B3%20apsikeitimas%2C%20paliaubos%20ir%20riteri%C5%A1kas%20vai%C5%A1inimas)
+- [Gedimino religinio pakantumo norma](../objektai/paprociai/Gedimino%20religinio%20pakantumo%20norma)
+- [Kandidatas 37 LDK bažnytinės unijos bandymai ir graikų katalikų įsitvirtinimas](../objektai/paprociai/Kandidatas%2037%20LDK%20ba%C5%BEnytin%C4%97s%20unijos%20bandymai%20ir%20graik%C5%B3%20katalik%C5%B3%20%C4%AFsitvirtinimas)
+- [Kandidatas LDK bažnytinės unijos bandymai ir graikų katalikų įsitvirtinimas](../objektai/paprociai/Kandidatas%20LDK%20ba%C5%BEnytin%C4%97s%20unijos%20bandymai%20ir%20graik%C5%B3%20katalik%C5%B3%20%C4%AFsitvirtinimas)
+- [Lotyniško krikšto privalomumas ir mišrių moterystių draudimas](../objektai/paprociai/Lotyni%C5%A1ko%20krik%C5%A1to%20privalomumas%20ir%20mi%C5%A1ri%C5%B3%20moterysti%C5%B3%20draudimas)
+- [Pagoniškų elementų integravimas į krikščioniškas praktikas](../objektai/paprociai/Pagoni%C5%A1k%C5%B3%20element%C5%B3%20integravimas%20%C4%AF%20krik%C5%A1%C4%8Dioni%C5%A1kas%20praktikas)
+- [Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais](../objektai/paprociai/Sutarties%20ir%20vasaliteto%20tvirtinimas%20ra%C5%A1tu%20bei%20antspaudais)
+- [Įkaitų davimas kaip sutarties garantija](../objektai/paprociai/%C4%AEkait%C5%B3%20davimas%20kaip%20sutarties%20garantija)
+- [Žemaičių paklusnumas ir ištikimybės priesaikos Ordinui](../objektai/paprociai/%C5%BDemai%C4%8Di%C5%B3%20paklusnumas%20ir%20i%C5%A1tikimyb%C4%97s%20priesaikos%20Ordinui)
 
 ### Posakiai
-- [[objektai/posakiai/Aš tave pasodinsiu Auksinėj Ordoj...]]
-- [[objektai/posakiai/Bemeilijo žūti ugny, negu pasiduoti vokiečiams]]
+- [Aš tave pasodinsiu Auksinėj Ordoj...](../objektai/posakiai/A%C5%A1%20tave%20pasodinsiu%20Auksin%C4%97j%20Ordoj...)
+- [Bemeilijo žūti ugny, negu pasiduoti vokiečiams](../objektai/posakiai/Bemeilijo%20%C5%BE%C5%ABti%20ugny%2C%20negu%20pasiduoti%20vokie%C4%8Diams)
 - [Saugokis manęs, kaip ir aš tavęs saugaus](../objektai/posakiai/Saugokis%20man%C4%99s%2C%20kaip%20ir%20a%C5%A1%20tav%C4%99s%20saugaus)
 - [savo užantyje maitinti gyvatę](../objektai/posakiai/savo%20u%C5%BEantyje%20maitinti%20gyvat%C4%99)
 - [senovės negriauname, naujovių neįvedame](../objektai/posakiai/senov%C4%97s%20negriauname%2C%20naujovi%C5%B3%20ne%C4%AFvedame)
+- [„didžiausią Europoje tolerancijos uostą“ „Europos tolerancijos lopšys“](../objektai/posakiai/%E2%80%9Edid%C5%BEiausi%C4%85%20Europoje%20tolerancijos%20uost%C4%85%E2%80%9C%20%E2%80%9EEuropos%20tolerancijos%20lop%C5%A1ys%E2%80%9C)
 
 ### Vietos
+- [Gardinas](../objektai/vietos/Gardinas)
 - [Isteris](../objektai/vietos/Isteris)
 - [Juodoji jūra](../objektai/vietos/Juodoji%20j%C5%ABra)
+- [Kaunas](../objektai/vietos/Kaunas)
+- [Kijevas](../objektai/vietos/Kijevas)
+- [Kijevo Rusia](../objektai/vietos/Kijevo%20Rusia)
 - [Kremlius](../objektai/vietos/Kremlius)
+- [Krokuva](../objektai/vietos/Krokuva)
+- [Lenkija](../objektai/vietos/Lenkija)
+- [Luckas](../objektai/vietos/Luckas)
+- [Maskva](../objektai/vietos/Maskva)
 - [Podolė](../objektai/vietos/Podol%C4%97)
+- [Vilnius](../objektai/vietos/Vilnius)
+- [Vladimiras](../objektai/vietos/Vladimiras)
+- [Voluinė](../objektai/vietos/Voluin%C4%97)
+- [Žemaitija](../objektai/vietos/%C5%BDemaitija)
 
 ### Įvykiai
 - [1379 m. Trakų 10 metų paliaubos su ordinu](../objektai/ivykiai/1379%20m.%20Trak%C5%B3%2010%20met%C5%B3%20paliaubos%20su%20ordinu)
@@ -73,6 +100,9 @@ Objektų skaičius: 73.
 - [Gedimino taikos sutartis su Livonija (1322 m.)](../objektai/ivykiai/Gedimino%20taikos%20sutartis%20su%20Livonija%20%281322%20m.%29)
 - [Klaipėdos pilies perdavimas Prūsijos kryžiuočiams (1328 m.)](../objektai/ivykiai/Klaip%C4%97dos%20pilies%20perdavimas%20Pr%C5%ABsijos%20kry%C5%BEiuo%C4%8Diams%20%281328%20m.%29)
 - [Kryžiuočių ordino sostinės perkėlimas į Marijenburgą (1309 m.)](../objektai/ivykiai/Kry%C5%BEiuo%C4%8Di%C5%B3%20ordino%20sostin%C4%97s%20perk%C4%97limas%20%C4%AF%20Marijenburg%C4%85%20%281309%20m.%29)
+- [Lietuvos ir Žemaitijos krikštai kaip krikščionėjimo pradžia](../objektai/ivykiai/Lietuvos%20ir%20%C5%BDemaitijos%20krik%C5%A1tai%20kaip%20krik%C5%A1%C4%8Dion%C4%97jimo%20prad%C5%BEia)
+- [Lietuvos krikštas](../objektai/ivykiai/Lietuvos%20krik%C5%A1tas)
+- [Lietuvos krikštas (1387 m.)](../objektai/ivykiai/Lietuvos%20krik%C5%A1tas%20%281387%20m.%29)
 - [Mėlynųjų Vandenų mūšis (1362 m.)](../objektai/ivykiai/M%C4%97lyn%C5%B3j%C5%B3%20Vanden%C5%B3%20m%C5%AB%C5%A1is%20%281362%20m.%29)
 - [Pasiuntinybė į Niurnbergą dėl krikšto (1358 m.)](../objektai/ivykiai/Pasiuntinyb%C4%97%20%C4%AF%20Niurnberg%C4%85%20d%C4%97l%20krik%C5%A1to%20%281358%20m.%29)
 - [Pilėnų pilies gynimas (1336 m.)](../objektai/ivykiai/Pil%C4%97n%C5%B3%20pilies%20gynimas%20%281336%20m.%29)

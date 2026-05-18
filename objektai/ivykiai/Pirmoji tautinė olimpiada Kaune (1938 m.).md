@@ -40,6 +40,8 @@ Nenurodyta
   santrauka: 'Sportas tapo integralia gyvenimo dalimi, tai pademonstruota per pirmąją tautinę olimpiadą Kaune 1938 m., kurioje gausiai dalyvavo ir užsienio šalių lietuviai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Sportas tapo
+    integralia gyvenimo dalimi, tai pademonstruota per pirmąją tautinę olim-
     piadą Kaune 1938 m., kurioje gausiai dalyvavo ir užsienio šalių lietuviai.
   citata_rodoma: ''
   teiginio_tipas: faktas

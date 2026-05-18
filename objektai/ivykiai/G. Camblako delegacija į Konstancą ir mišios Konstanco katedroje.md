@@ -42,7 +42,11 @@ Nenurodyta
   santrauka: '1418 m. Vytautas siunčia į Konstancą jau minėtą G.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    G. Camblako ekume-
+    ninės mišios Konstanco katedroje amžininkams paliko tokį įspūdį, kad
     imtos išsamiai vaizduoti to meto kronikose, o Lietuva drauge su kitomis
+    prie kryžiaus žygiuojančiomis Europos šalimis pateko į krikščioniškų ša-
+    lių bendriją vaizduojančią Strasbūro freską.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

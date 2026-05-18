@@ -39,7 +39,10 @@ Nenurodyta
   santrauka: 'Ypač populiarūs tapo vadinamieji Roko maršai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Ypač populiarūs tapo vadi-
     namieji Roko maršai. Tokie jaunimo muzikos koncertų žygiai per Lietuvą
+    vyko 1987, 1988 ir 1989 m. vasarą – jie buvo skirti LPS idėjoms skleisti ir
+    išlaisvinti režimo įbaugintus žmones.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

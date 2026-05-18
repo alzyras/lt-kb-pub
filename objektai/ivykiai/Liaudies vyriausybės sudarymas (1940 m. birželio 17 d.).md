@@ -40,7 +40,10 @@ Nenurodyta
   santrauka: 'Merkys teisėtai tapo prezidentu, nes, kaip laikinai einantis pareigas, pagal Lietuvos konstituciją neturėjo teisės skirti naujo vyriausybės vadovo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    V. Dekanozovo paliepimu A. Smetonos išvykimas paaiškintas kaip prezi-
     dento atsistatydinimas ir sudarytas įspūdis, kad A. Merkys teisėtai tapo
+    prezidentu, nes, kaip laikinai einantis pareigas, pagal Lietuvos konstituci-
+    ją neturėjo teisės skirti naujo vyriausybės vadovo.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

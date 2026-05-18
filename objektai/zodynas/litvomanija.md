@@ -31,6 +31,9 @@ Dvarininkai, gindamiesi nuo „litvomanijos“, vis labiau tolo nuo lietuviškai
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos bajorų prašyta, kad būtų susipratę ir neveidmainiški lietuviai, kad
+    lietuviškai kalbėtų, melstųsi, mylėtų savo kraštą, jam dirbtų, būtų jo vadai,
+    rūpintųsi liaudies švietimu ir gerove, kad jaunieji bajorai būtų Lietuvos že-
+    mės druska.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

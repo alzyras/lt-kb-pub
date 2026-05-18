@@ -46,6 +46,7 @@ Stalino kultą – susilpnėjo rusinimas, valdžia pradėjo labiau pasitikėti v
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvoje visi laikraščiai imti dubliuoti ir rusų kalba, leista daug rusų
+    literatūros kūrinių, vaidinta pjesių, visur pradėta taikyti dvikalbystę.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

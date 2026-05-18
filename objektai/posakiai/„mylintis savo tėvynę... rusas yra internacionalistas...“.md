@@ -27,7 +27,13 @@ Populiarus to meto posakis, kad mylintis savo tėvynę, kalbą, kultūrą rusas 
   santrauka: 'Populiarus to meto posakis, kad mylintis savo tėvynę, kalbą, kultūrą rusas yra internacionalistas, mylintis savo kultūrą ir kalbą lietuvis – nacionalistas, o mylintis savo kultūrą ir kalbą žydas – sionistas, puikiai atspindėjo kompartijos ideologiją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Sumažėjo lietuvių kalbos vaidmuo viešajame gyvenime – lietuvių kal-
+    ba išstumta iš milicijos, geležinkelio, oro uosto, daugumos valdžios įstai-
+    gų, įmonių – partija ir bet kokia administracija internacionalizmu laikė
     kalbas, sakomas rusiškai. Populiarus to meto posakis, kad mylintis savo
+    tėvynę, kalbą, kultūrą rusas yra internacionalistas, mylintis savo kultūrą
+    ir kalbą lietuvis – nacionalistas, o mylintis savo kultūrą ir kalbą žydas –
+    sionistas, puikiai atspindėjo kompartijos ideologiją.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

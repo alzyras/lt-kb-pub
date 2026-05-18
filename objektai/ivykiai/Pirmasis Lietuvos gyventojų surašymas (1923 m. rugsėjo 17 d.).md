@@ -68,7 +68,10 @@ Nenurodyta
   santrauka: Pirmojo surašymo data, gyventojų skaičius ir tautinė sudėtis.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Reformos vyko nedidelėje, monoetninėje šalyje – 1923 m. rugsė-
+    jo 17  d. pirmojo Lietuvos gyventojų surašymo duomenimis, jų buvo
     2 028 971 (be Vilniaus ir Klaipėdos kraštų). Lietuviai sudarė 82 proc.,
+    žydai 7, vokiečiai 4, lenkai 3, rusai 2,3 proc. gyventojų.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

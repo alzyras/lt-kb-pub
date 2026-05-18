@@ -56,7 +56,9 @@ Paulavos respublikos įstatai minimi kaip 1791 m. Ketverių metų seimo patvirti
   santrauka: Citata pagrindžia įstatų patvirtinimą ir socialinį-politinį kontekstą.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Apšvietos žingsniais Lietuvos ūkyje reikia laikyti valstiečių paleidimo
     iš baudžiavos, suteikiant jiems asmeninę laisvę, atvejus. Ryškiausiu iš jų
+    laikytina P. K. Bžostovskio įkurta Paulavos respublika.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

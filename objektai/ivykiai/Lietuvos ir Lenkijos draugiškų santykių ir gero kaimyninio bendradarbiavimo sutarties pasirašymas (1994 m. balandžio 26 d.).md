@@ -46,7 +46,11 @@ Nenurodyta
   santrauka: '1994 m. balandžio 26 d. santykius vaisingai vainikavo po ilgų derybų Lietuvos ir Lenkijos pasirašyta draugiškų santykių ir gero kaimyninio bendradarbiavimo sutartis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Dokumento preambulėje, be kitų nuostatų, buvo primin-
+    ti ankstesni Lenkijos ir Lietuvos nesutarimai dėl teritorijų, pasmerktas
+    smurto naudojimas abiejų tautų tarpusavio santykiuose ir abiejų šalių
     iškilmingai patvirtintas dabartinių teritorijų „su sostinėmis Vilniumi ir
+    Varšuva vientisumą[as] dabar ir ateityje“.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -58,7 +62,9 @@ Nenurodyta
   santrauka: 'Abi valstybės įsipareigojo grįsti savo santykius tarpusavio pagarba, pasitikėjimu, lygiateisiškumu, gera kaimynyste ir remti viena kitos integraciją į Vakarų valstybių šeimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Ra-
     tifikavus sutartį ir įsigaliojus jos nuostatoms, Lenkija oficialiai atsisakė
+    bet kokių pretenzijų į Vilniaus kraštą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

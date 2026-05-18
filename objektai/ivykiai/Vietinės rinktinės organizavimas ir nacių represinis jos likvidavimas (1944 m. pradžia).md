@@ -40,7 +40,12 @@ Nenurodyta
   santrauka: 'Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje pritarė lietuvių siūlymui sukurti lietuviškus karinius dalinius – Vietinę rinktinę, kuriai vadovautų lietuviai karininkai ir kuri veiktų tik Lietuvos teritorijoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vokiečių
+    valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje pritarė lie-
+    tuvių siūlymui sukurti lietuviškus karinius dalinius – Vietinę rinktinę,
+    kuriai vadovautų lietuviai karininkai ir kuri veiktų tik Lietuvos teritori-
     joje. Vietinei rinktinei ėmėsi vadovauti generolas Povilas Plechavičius. Į jo
+    kvietimą atsiliepė 20 tūkst. savanorių, į dalinius priimta 10 tūkst. vyrų.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -33,7 +33,11 @@ Valstybės Taryba vis atkak­ liau siekė gauti konkrečias valdymo sritis į sa
   santrauka: 'Valstybės Taryba vis atkak­ liau siekė gauti konkrečias valdymo sritis į savo rankas, ruošėsi perimti valdžią, siuntė protestus dėl vokiečių vykdomų rekvizicijų, rūpinosi grąžinti lietuvius karo belaisvius iš Vokietijos ir Austrijos, lietuvių repatriacija iš.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Valstybės Taryba vis atkak­
+    liau siekė gauti konkrečias valdymo sritis į savo rankas, ruošėsi perimti
+    valdžią, siuntė protestus dėl vokiečių vykdomų rekvizicijų, rūpinosi grą-
     žinti lietuvius karo belaisvius iš Vokietijos ir Austrijos, lietuvių repatriaci-
+    ja iš Rusijos (iki 1922 m. sausio į Lietuvą sugrįžo 195 000 žmonių).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -46,6 +50,9 @@ Valstybės Taryba vis atkak­ liau siekė gauti konkrečias valdymo sritis į sa
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lenkai, matydami Lietuvos vykdomą lenkų dvarininkų ekonominės
+    jėgos silpninimą (nepriklausomybės kare daugiausia lenkų dvaruose
+    vykdytos arklių, pašarų, maisto rekvizicijos) ir žemės valdų apkarpymą,
+    nebelaukė.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

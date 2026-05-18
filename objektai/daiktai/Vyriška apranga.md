@@ -43,6 +43,7 @@ Nenurodyta
   santrauka: 'Sukilimo legenda tapo jauna dvarininkaitė Emilija Pliaterytė (Emilia Plater-Broel), kovojusi su vyriška apranga ir ant žirgo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Sukilimo legenda tapo jauna dvarininkaitė Emilija
     Pliaterytė (Emilia Plater-Broel), kovojusi su vyriška apranga ir ant žirgo.
   citata_rodoma: ''
   teiginio_tipas: faktas

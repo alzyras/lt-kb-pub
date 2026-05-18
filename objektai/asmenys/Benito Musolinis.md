@@ -28,7 +28,11 @@ Bolševikų diktatūra SSRS, Benito Musolinio (Benito Mussolini) atėjimas į va
   santrauka: 'Bolševikų diktatūra SSRS, Benito Musolinio (Benito Mussolini) atėjimas į valdžią Italijoje, perversmai Bulgarijoje, Portugalijoje, o ypač karinis perversmas 1926 m. gegužę Lenkijoje, kurio metu į valdžią grįžo J.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Bolševikų diktatūra
+    SSRS, Benito Musolinio (Benito Mussolini) atėjimas į valdžią Italijoje,
+    perversmai Bulgarijoje, Portugalijoje, o ypač karinis perversmas 1926 m.
     gegužę Lenkijoje, kurio metu į valdžią grįžo J. Pilsudskis, skatino veikti
+    visus, nepatenkintus Seimo valdymu („seimokratija“).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

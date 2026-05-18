@@ -39,7 +39,9 @@ Nenurodyta
   santrauka: 'Tiesa, Latvija 1921 m. vasario 16 d. pripažino Lietuvą de jure – Lietuvos tarptautinės izoliacijos metu tai buvo didelė parama.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tiesa, Latvija 1921 m. vasario 16 d. pripaži-
     no Lietuvą de jure – Lietuvos tarptautinės izoliacijos metu tai buvo didelė
+    parama.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

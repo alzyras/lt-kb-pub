@@ -27,7 +27,9 @@ Paprastai Viduramžių Europa tapatinama su Vakarų Europa.
   santrauka: 'Paprastai Viduramžių Europa tapatinama su Vakarų Europa.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Viduramžių Europą, kur gyveno
     suomiai, estai, latviai, prūsai ir lietuviai, laikyti „naujausiąja“ Viduramžių
+    Europa.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

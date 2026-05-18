@@ -65,7 +65,13 @@ Nenurodyta
   santrauka: Toros minimos kultūros vertybių grąžinimo ir religinio turto restitucijos kontekste.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Narystės ir demokratijos įtvirtinimui Lietuva ėmė ryžtingai siekti de-
+    mokratinių vertybių – užtikrinti galimybes puoselėti savo kalbą ir kultūrą
+    tautinėms mažumoms, vykdyti religinio turto restituciją, įvertinti Holo-
+    kausto pamokas, grąžinti žydams išblaškytas kultūros vertybes (išsaugo-
     tas 300 Torų, YIVO instituto dokumentus), sakralinius pastatus, kovoti
+    prieš antisemitizmą ir rasinį bei religinį nepakantumą, garantuoti žodžio,
+    spaudos, rinkimų laisvę.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -86,3 +92,4 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/zodynas/Restitucija]]
+- [[objektai/paprociai/Tautinių bendrijų kalbos, kultūros ir papročių puoselėjimas]]

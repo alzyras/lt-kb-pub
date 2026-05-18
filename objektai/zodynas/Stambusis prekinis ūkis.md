@@ -29,6 +29,12 @@ Kaime susiklostė sudėtinga gyventojų socialinė struktūra: žemdirbiai, įk�
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kaime susiklostė sudėtinga gyventojų socialinė struktūra: žemdirbiai,
+    įkūrę savo ūkį pagal valstiečio ūkio įstatymą, pasinaudoję kolektyvinio
+    ar valstybinio ūkio parama; atgavę turėtą žemę, ūkininkavimui papildo-
+    mai nuomojantys / perkantys kitų paveldėtojų atgautas žemes, siekdami
+    plėtoti stambųjį prekinį ūkį; buvę žemės ūkio įmonių darbininkai ir tar-
+    nautojai, įsikūrę naujose buvusių ūkių gyvenvietėse ir neturintys toje vie-
+    tovėje teisės į žemės nuosavybę.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

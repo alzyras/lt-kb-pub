@@ -161,5 +161,5 @@ Lietuvoje pirmas tuo susirūpino Vilniaus vyskupas Protasevičius. Todėl Vilnia
 - [[temos/didikas]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Steponas Batoras]]
+- [[objektai/grupes/Jėzuitų ordinas]]
 - [[objektai/asmenys/Zigmantas Augustas]]

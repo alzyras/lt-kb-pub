@@ -44,7 +44,15 @@ Nenurodyta
   santrauka: 'Nuo 1926 m. rudens opozicija Seime ir savo spaudoje vis dažniau pradėjo kalbėti apie komunizmo grėsmę Lietuvos nepriklausomybei, kaltino valdžią netvarkant komunistų – sumažinus politinę policiją nebeliko kam tramdyti priešvalstybinius išsišokimus, chuliganai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Nuo 1926 m. rudens opozicija Seime
+    ir savo spaudoje vis dažniau pradėjo kalbėti apie komunizmo grėsmę Lie-
+    tuvos nepriklausomybei, kaltino valdžią netvarkant komunistų – sumaži-
+    nus politinę policiją nebeliko kam tramdyti priešvalstybinius išsišokimus,
+    chuliganai po komunistų mitingų su raudonomis vėliavomis rankose
+    gatvėse užkabinėjo uniformuotus kariškius, nuo „bolševizacijos“ šiurpo
+    opozicijoje esantis krikščionių demokratų blokas, tautininkai, karininkai
     ir juos palaikantieji (lapkritį raitoji policija brutaliai išvaikė patriotinę
+    studentų demonstraciją).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

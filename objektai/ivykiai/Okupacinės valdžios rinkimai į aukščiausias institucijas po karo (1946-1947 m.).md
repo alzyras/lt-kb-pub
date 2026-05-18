@@ -46,7 +46,13 @@ Nenurodyta
   santrauka: 'Sugrąžindamas Lietuvoje sovietų valdžią J.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Sugrąžindamas Lietuvoje sovietų valdžią J. Stalinas „tesėjo“ pažadą,
+    Jaltoje duotą jau sergančiam Franklinui D. Ruzveltui (Franklin D. Roose-
     velt) atsiklausti Baltijos valstybių gyventojų, todėl ir Lietuvoje rengti (tačiau
+    visai nedemokratiniai) rinkimai į aukščiausias okupacinės valdžios insti-
+    tucijas – SSRS Aukščiausiąją Tarybą, Lietuvos SSR Aukščiausiąją Tarybą
+    (pirmą kartą po karo į šias institucijas rinkimai vyko 1946 m. ir 1947 m.), į
+    vietines tarybas – juk formaliai SSRS buvo tarybų, arba sovietų, valdžia.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -58,6 +64,7 @@ Nenurodyta
   santrauka: 'Visuose rinkimuose kandidatus tegalėjo siūlyti vienintelė komunistų partija, rinkimų rezultatai klastojami, oficialiai pranešant, jog rinkimuose dalyvavo per 90 proc.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    LSSR institucijos neturėjo jokios realios valdžios – net LKP (bolševikų)
     centro komitetas turėjo tik eilinės Rusijos srities partijos komiteto teises.
   citata_rodoma: ''
   teiginio_tipas: faktas

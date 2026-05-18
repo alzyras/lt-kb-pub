@@ -30,7 +30,13 @@ Vienbalsiai priimtas Lietuvos valstybės nepriklausomybės proklamavimo dokument
   santrauka: 'Vienbalsiai priimtas Lietuvos valstybės nepriklausomybės proklamavimo dokumentas, kuris dar kartą, kaip ir 1918 m. Vasario 16 Aktas, skelbė, kad Lietuva yra nepriklausoma valstybė, su „etnologinėmis sienomis“, tai tikriausiai turėjo reikšti, kad kiek.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Vasario 16 Aktas, skelbė,
+    kad Lietuva yra nepriklausoma valstybė, su „etnologinėmis sienomis“, tai
+    tikriausiai turėjo reikšti, kad kiek atsitraukta vien nuo etnografinių sienų
     planų, turint viltį, kad teritorija padidės. Steigiamojo Seimo pirmininku
+    išrinktas LŪS lyderis agronomas Aleksandras Stulginskis (1922–1926 m.
+    išrinktas Lietuvos prezidentu), o birželio 19-ąją sudaryta liaudininko
+    Kazio Griniaus vadovaujama vyriausybė.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -29,6 +29,7 @@ Pavyzdžiui, „gente polonus, natione lituanus“, ir „Лiцвiны грэц�
   santrauka: 'Pavyzdžiui, „gente polonus, natione lituanus“, ir „Лiцвiны грэцкага закону людзi“ arba „Лiцвiны рус’кага рода“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Ir vis dėlto net ir šiais vėlyvais amžiais gyvavo „lietuvių nacija“, LDK
     „politinė tauta“. Tai patvirtina sudėtingos dvilypės savimonės formulės.
   citata_rodoma: ''
   teiginio_tipas: faktas

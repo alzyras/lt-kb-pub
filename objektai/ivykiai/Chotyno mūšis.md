@@ -1,11 +1,22 @@
 ---
 tipas: ivykis
 pavadinimas: 'Chotyno mūšis'
-sukurta: '2026-05-14'
+sukurta: '2026-05-18'
 variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1615 m.'
+  - '1673 m.'
+  - '1674 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVII'
+date_start: '1615'
+date_end: '1674'
 patikimumas: 'vidutinis'
 tags:
   - ivykis
@@ -15,7 +26,7 @@ tags:
 
 ## Santrauka
 
-Chotyno mūšyje Lenkijos ir Lietuvos kariuomenė sumuša turkus 1673 m. (Iš Vilniuje spausdinto J.
+LenChotyno mūšyje Lenkijos ir Lietuvos kariuomenė sumuša turkus 1673 m. (Iš Vilniuje spausdinto J.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -31,16 +42,24 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Chotyno mūšyje Lenkijos ir Lietuvos kariuomenė sumuša turkus 1673 m. (Iš Vilniuje spausdinto J.'
+  teiginys: 'LenChotyno mūšyje Lenkijos ir Lietuvos kariuomenė sumuša turkus 1673 m. (Iš Vilniuje spausdinto J.'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Chotyno mūšyje Lenkijos ir Lietuvos kariuomenė sumuša turkus 1673 m. (Iš Vilniuje spausdinto J.'
+  santrauka: 'LenChotyno mūšyje Lenkijos ir Lietuvos kariuomenė sumuša turkus 1673 m. (Iš Vilniuje spausdinto J.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Len-
+    Chotyno mūšyje Lenkijos ir Lietuvos  kariuomenė
+    sumuša turkus 1673 m. (Iš Vilniuje spausdinto
     J. Benneto veikalo „Viešpaties dešinės galybė“, 1674)
+
+    2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S
+    75
+    kų kalbos vaidmenį Lietuvos kultūroje apibendrino vienas iš Radvilų savo
+    laiške, rašytame 1615 m.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -50,6 +69,12 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/laiškas]]
+
+### Laikotarpiai
+- [[laikotarpiai/XVII amžius]]
+
 ### Susiję objektai
 - [[objektai/vietos/Chotynas]]
 - [[objektai/autoriai/J. Bennetas]]

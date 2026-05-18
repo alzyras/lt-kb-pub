@@ -27,7 +27,12 @@ Nors sovietų valdžia netoleravo ir kitų konfesijų tikinčiųjų, juos persek
   santrauka: 'Nors sovietų valdžia netoleravo ir kitų konfesijų tikinčiųjų, juos persekiojo, katalikai buvo ypač neparankūs dėl to, kad katalikybė siejosi su komunistinei vadovybei nepageidautinu „vakarietiškumu“ – katalikybės centru Vatikane, nepavaldžiu Maskvai, todėl su.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Nesitaikstanti visuomenė
+    Lietuva buvo vienintelė prie Sovietų Sąjungos prijungta ka-
     talikiška šalis. Nors sovietų valdžia netoleravo ir kitų konfesijų tikinčiųjų,
+    juos persekiojo, katalikai buvo ypač neparankūs dėl to, kad katalikybė
+    siejosi su komunistinei vadovybei nepageidautinu „vakarietiškumu“ –
+    katalikybės centru Vatikane, nepavaldžiu Maskvai, todėl su katalikybe
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

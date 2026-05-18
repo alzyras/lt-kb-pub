@@ -31,6 +31,8 @@ Vykdant žemės reformą nyko senieji kaimai, žmonės kėlė savo sodybas į vi
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     sėjomaina. Valstybė lengvatinėmis sąlygomis aprūpindavo ūkininkus
+    geresnėmis javų sėklomis, veisliniais gyvuliais, padėjo rengti žemės ūkio
+    specialistus.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

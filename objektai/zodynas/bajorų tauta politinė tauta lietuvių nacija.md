@@ -34,7 +34,10 @@ Krikščioniškasis mentalitetas įsigali bent jau tarp visuomenės elito (antem
   santrauka: 'Krikščioniškasis mentalitetas įsigali bent jau tarp visuomenės elito (antemurale christianitatis – krikščionybės forposto – idėja nukreipta prieš stačiatikišką Maskvą), susiformuoja bajorų tauta, turinti istorinę savimonę ir kilmės kroniką.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Krikščioniškasis men-
+    talitetas įsigali bent jau tarp visuomenės elito (antemurale christianita-
     tis – krikščionybės forposto – idėja nukreipta prieš stačiatikišką Maskvą),
+    susiformuoja bajorų tauta, turinti istorinę savimonę ir kilmės kroniką.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -46,7 +49,11 @@ Krikščioniškasis mentalitetas įsigali bent jau tarp visuomenės elito (antem
   santrauka: 'Kronikos autoriui tauta – tik kilmingieji krašto gyventojai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Legendoje nekeliama ir kal-
+    bos problema: tuo metu kalba nebuvo svarbiausias tautos bruožas, nes
+    tada egzistavo ne etninė, bet politinė lietuvių tauta, kurios pagrindinis
     požymis – priklausymas kilmingiesiems LDK gyventojams. Būtent šių
+    žmonių kilmė ir istorija pasakojama Lietuvos metraščiuose.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -38,6 +38,8 @@ Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsij
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsijai
+    ji priklausė iki 1806  m., kai Napoleonas įkūrė Varšuvos kunigaikštiją;
+    1815 m.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -50,6 +52,7 @@ Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsij
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Iki 1807 m. Užnemunė priklausė Prūsijai, 1807–1814 m. – Napoleono
+    Bonaparto įkurtai Varšuvos kunigaikštystei.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -61,7 +64,12 @@ Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsij
   santrauka: '1812 m. birželį Napoleonas pradėjo karą su Rusija ir greitai didžioji dalis buvusių LDK žemių atsidūrė jo valdžioje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1812 m. birželį Napoleonas pradėjo karą su Rusija ir greitai didžioji
     dalis buvusių LDK žemių atsidūrė jo valdžioje. Napoleonas leido Vilniuje
+    įkurti savo pareigūnų prižiūrimą Laikinąją LDK vyriausybę, kuri palaikė
+    viešąją tvarką krašte ir įsipareigojo organizuoti karinius dalinius, prisidė-
+    siančius prie Napoleono kariuomenės (trečdalį jos sudarė Varšuvos kuni-
+    gaikštystės pulkai).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

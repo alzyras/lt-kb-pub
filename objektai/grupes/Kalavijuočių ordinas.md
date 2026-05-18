@@ -103,12 +103,6 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
     - c-011
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-012
-  teiginys: '1403 m. Jogaila reikalavo, kad Vytautas be karaliaus žinios nedarytų sutarčių su kardininkais.'
-  pagrindžia:
-    - c-012
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 - t-013
   teiginys: 'Vienydamas Lietuvą, Mindaugas negalėjo nekreipti dėmesio į tokią faktų grandinę: 1202 m. Dauguvos žiotyse susikūręs Kalavijuočių ordinas pamažu pradeda užkariauti lybius, latvius, estus, kuršius.'
   pagrindžia:
@@ -238,6 +232,7 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   santrauka: Kardininkai parodyti kaip nuolatinė šiaurinė Kęstučio priešų jėga.
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
+    Vytautas brendo audringu Lietuvos valstybės laikotarpiu,
     kada jo tėvas, gindamas Žemaitijos bei lietuvių laisvę, negalėjo
     išleisti ginklo iš rankų, nes du galingi priešai, kardininkai iš
     šiaurės ir kryžiuočiai iš žiemos vakarų pusės, tuo laiku ypač
@@ -271,6 +266,7 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   santrauka: Kardininkai įvardyti kaip strateginis sausumos ryšio partneris per Žemaitiją.
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
+    Kryžiuočiams čia
     atsirado nemažas pavojus. Būdamas galingas suvienytų vals­
     tybių valdovas, Jogaila galėjo iš Ordino atsiimti ne tiktai iš
     lenkų pagrobtą 1309 m. Pamarį, kuris būtų visiškai užkirtęs
@@ -284,30 +280,14 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-011
-- c-012
-  santrauka: Jogaila draudė Vytautui be savo žinios tartis su kardininkais.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    pareikalavo iš Vytauto naujo pasižadėjimo, kad jis nei su kry­
-    žiuočiais, nei su kardininkais nedarytų jokių sutarčių be kara-
-
-
-    ```
-    171
-    ```
-    liaus žinios ir valios^1
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-012
 - c-013
   santrauka: 'Vienydamas Lietuvą, Mindaugas negalėjo nekreipti dėmesio į tokią faktų grandinę: 1202 m. Dauguvos žiotyse susikūręs Kalavijuočių ordinas pamažu pradeda užkariauti lybius, latvius, estus, kuršius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Kovodamas
     prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kunigaikštis
+    Konradas 1230 m. pakvietė kurtis Kulmo žemėje prie Vyslos Vokiečių
+    ordino riterius (kryžiuočius).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -320,6 +300,7 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     atlaikė, replės Lietuvą jau spaudė – 1237 m. Kalavijuočių ordinas tapo
+    Kryžiuočių ordino vasalu.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -331,5 +312,4 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/paprociai/Vakarų pagalbos kvietimas ir svečių iš Vokietijos šaukimas]]
-- [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Žemaičiai]]

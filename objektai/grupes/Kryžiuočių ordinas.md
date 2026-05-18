@@ -31,36 +31,46 @@ saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 laikotarpis: 'XIII amž.; 1190 m.; 1230 m.; 1231 m.; 1309 m.; 1345–1377 m.; 1361 m.; 1362 m.; 1370 m.; 1377 m.; 1382 m.; 1385 m.; 1386 m.; 1387 m.; 1401 m.; 1404 m.; 1409 m.; 1410 m. liepos 15 d.; 1411 m.; 1430 m.; XV amžius; XIII–XV amžiai; 1431 m.; Ukmergės mūšis; 1454–1466 m.; 1466 m.; 1511 m.; 1525 m.; 1618 m.; 1809 m.; XVI a.; 1525 m.; tekste nenurodyta'
 datos:
-  - 'XIII amž'
-  - '1190 m'
-  - '1230 m'
-  - '1231 m'
-  - '1309 m'
-  - '1345–1377 m'
-  - '1361 m'
-  - '1362 m'
-  - '1370 m'
-  - '1377 m'
-  - '1382 m'
-  - '1385 m'
-  - '1386 m'
-  - '1387 m'
-  - '1401 m'
-  - '1404 m'
-  - '1409 m'
-  - '1410 m. liepos 15 d'
-  - '1411 m'
-  - '1430 m'
-  - 'XV amžius'
-  - 'XIII–XV amžiai'
-  - '1431 m'
-  - '1454–1466 m'
-  - '1466 m'
-  - '1511 m'
-  - '1525 m'
-  - '1618 m'
-  - '1809 m'
-  - '1525 m'
+  - '1190 m.'
+  - '1230 m.'
+  - '1231 m.'
+  - '1236 m.'
+  - '1260 m.'
+  - '1309 m.'
+  - '1345 m.'
+  - '1350 m.'
+  - '1361 m.'
+  - '1362 m.'
+  - '1370 m.'
+  - '1377 m.'
+  - '1382 m.'
+  - '1385 m.'
+  - '1386 m.'
+  - '1387 m.'
+  - '1401 m.'
+  - '1404 m.'
+  - '1409 m.'
+  - '1410 m.'
+  - '1411 m.'
+  - '1413 m.'
+  - '1417 m.'
+  - '1430 m.'
+periodas: 'viduramžiai'
+periodo_grupes:
+  - 'LDK'
+  - 'viduramžiai'
+amziai:
+  - 'XII'
+  - 'XIII'
+  - 'XIV'
+  - 'XV'
+  - 'XVI'
+  - 'XVII'
+  - 'XIX'
+  - 'XX'
+  - 'XXI'
+date_start: '1190'
+date_end: '1430'
 patikimumas: 'aukštas'
 tags:
   - grupe
@@ -185,6 +195,22 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   teiginys: 'Tačiau susidarė tik lietuvių ir latvių tautos; prūsus ir jotvingius nukariavo bei asimiliavo Vokiečių ordinas ir vėliau įkūrė Prūsijos valstybę.'
   pagrindžia:
     - c-074
+- t-018
+  teiginys: 'Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kunigaikštis Konradas 1230 m. pakvietė kurtis Kulmo žemėje prie Vyslos Vokiečių ordino riterius (kryžiuočius).'
+  pagrindžia:
+    - c-075
+- t-019
+  teiginys: 'Žemaičiai, sutriuškinę jungtinę Vokiečių ir Livonijos ordinų kariuomenę prie Durbės 1260 m. liepos 13 d., tarpininkaujant Treniotai, iš tikrųjų siūlė Mindaugui atsimesti nuo krikščionybės ir pradėti karą su Livonija.'
+  pagrindžia:
+    - c-076
+- t-020
+  teiginys: 'Tačiau svarbiausios buvo politinės aplinkybės – krikšto nau- 1 skyrius • S E N O J I L I E T U VA 41 da išryškėjo netrukus, kai popiežiai uždraudė Vokiečių ordinui kariauti su Lietuva.'
+  pagrindžia:
+    - c-077
+- t-021
+  teiginys: 'Tai padaryti trukdė Vokiečių ordinas.'
+  pagrindžia:
+    - c-078
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -289,6 +315,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   santrauka: Kryžiuočiai tiesiogiai yra pasienio jėga, siejama su Lietuvos pakraščiu
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Nors teritorijos atžvilgiu ru-
+    siškosios žemės bent 10 kartų buvo didesnės už tikrąją Lietuvą,
     tačiau gyventojų ten buvo vis dėlto ne daugiau, kaip kad tikro-
     joje Lietuvoje. O ir čia jų buvo ne kažin kiek, nes ir Lietuva dau-
     gely vietų buvo apaugusi didžiulėmis, mažai tegyvenamomis gi-
@@ -310,19 +338,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   citata_originali: |
     1525 m. Lietuvos pašonėje priėmė protestantizmą
     kryžiuočių ordino magistras ir daugumas brolių.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-002
-- c-044
-  santrauka: Kryžiuočių ordinas papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **IV. Kryžiuočių ordino įsikūrimas Pabaltijy.** _M. Oeler,_ Geschichte d.
-    Deutschen Ritter-Ordens (1908); _A. E. Ewald,_ Die Eroberung Preussens
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -516,6 +531,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   santrauka: 1382 m. Jogaila suteikė ordinui dideles nuolaidas Žemaitijoje ir karo politikoje.
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
+    Pirmoje sutarty
     Jogaila pasižada su abiem Ordinais ketverius metus laikytis
     taikos, antrojoje žada 4-rių metų bėgy kartu su savo tautiečiais
     apsikrikštyti, trečiąja sutartimi, kuri buvo vokiečių Ordinui pati
@@ -667,7 +683,9 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   santrauka: Kryžiuočių ordinas papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Vy­
+    Naugardiečiai atsakė,
+    kad jie ir su Maskva, ir su Lietuva, pagaliau, ir su Vokiečiais
+    yra padarę atskiras taikos sutartis, čia nieko nelaimėjęs, Vy­
     tautas stengėsi prieš save atkreiptą ir Maskvos vadovaujamą
     koaliciją nuginkluoti rytų koalicijos planu, nukreiptu prieš kar­
     dininkus ir kryžiuočius.
@@ -701,6 +719,9 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   santrauka: Kryžiuočių ordinas papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
+    Žodžiu, jis Prūsuose mito Vakarų kultūros vai­
+    siais, ypač materialine kultūra, kurią paskui kėlė savo krašte,
+    statydamas bažnyčias, pilis ir t. t.
     Išmoko čia ir tos suktos, bet realios Ordino politikos, ku­
     rios vėliau pats griebdavos santykiaudamas su kaimynais.
   citata_rodoma: ""
@@ -766,7 +787,10 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   santrauka: 'Lietuvos Didžioji Kunigaikštija dėl Vokiečių ordino pavojaus pamažu stiprino ryšius su Lenkija, o XV–XVI a.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuvos Didžioji Kunigaikštija dėl Vo-
+    kiečių ordino pavojaus pamažu stiprino
     ryšius su Lenkija, o XV–XVI a. perėmė
+    krikščionišką Vakarų kultūrą.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -779,6 +803,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Žalgirio (Griunvaldo) mūšis. Lenkijos ir Lietuvos jungtinė kariuomenė
+    sutriuškina Vokiečių ordiną, kėlusį grėsmę abiejų valstybių egzis-
+    tencijai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -790,7 +816,10 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   santrauka: 'Tačiau susidarė tik lietuvių ir latvių tautos; prūsus ir jotvingius nukariavo bei asimiliavo Vokiečių ordinas ir vėliau įkūrė Prūsijos valstybę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    II tūkstantmečio pradžioje pradėjo formuotis prū-
     sų, jotvingių, lietuvių ir latvių tautos. Tačiau susidarė tik lietuvių ir latvių
+    tautos; prūsus ir jotvingius nukariavo bei asimiliavo Vokiečių ordinas ir
+    vėliau įkūrė Prūsijos valstybę.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -798,9 +827,82 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-017
+- c-075
+  santrauka: 'Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kunigaikštis Konradas 1230 m. pakvietė kurtis Kulmo žemėje prie Vyslos Vokiečių ordino riterius (kryžiuočius).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kovodamas
+    prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kunigaikštis
+    Konradas 1230 m. pakvietė kurtis Kulmo žemėje prie Vyslos Vokiečių
+    ordino riterius (kryžiuočius).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018
+- c-076
+  santrauka: 'Žemaičiai, sutriuškinę jungtinę Vokiečių ir Livonijos ordinų kariuomenę prie Durbės 1260 m. liepos 13 d., tarpininkaujant Treniotai, iš tikrųjų siūlė Mindaugui atsimesti nuo krikščionybės ir pradėti karą su Livonija.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Žemaičiai, sutriuškinę jungtinę Vokiečių ir Livonijos ordinų
+    kariuomenę prie Durbės 1260 m. liepos 13 d., tarpininkaujant Treniotai,
+    iš tikrųjų siūlė Mindaugui atsimesti nuo krikščionybės ir pradėti karą su
+    Livonija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019
+- c-077
+  santrauka: 'Tačiau svarbiausios buvo politinės aplinkybės – krikšto nau- 1 skyrius • S E N O J I L I E T U VA 41 da išryškėjo netrukus, kai popiežiai uždraudė Vokiečių ordinui kariauti su Lietuva.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tačiau svarbiausios buvo politinės aplinkybės – krikšto nau-
+
+    1 skyrius •  S E N O J I  L I E T U VA
+    41
+    da išryškėjo netrukus, kai popiežiai uždraudė Vokiečių ordinui kariauti su
+    Lietuva. Nuo tada šio ordino agresija nebegalėjo tikėtis efektyvesnės Va-
+    karų paramos. Krėvos sutarties nulemta sąjunga su Lenkija leido pasiekti
+    pergalę prie Tanenbergo ir Žalgirio. Lietuva, apsikrikštijusi ir nugalėjusi
+    Ordiną, pašalino 200 metų grėsmę savo egzistencijai ir perėjo į naują savo
+    istorijos stadiją – „europėjimo“ arba „kelio į Europą“ epochą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020
+- c-078
+  santrauka: 'Tai padaryti trukdė Vokiečių ordinas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tai
+    padaryti trukdė Vokiečių ordinas. Taip po Žalgirio mūšio atsirado Vytau-
+    to funduotos bažnyčios ir vienuolynai, buvo apkrikštyta Žemaitija (1413),
+    įsteigta Žemaičių vyskupija (1417), o Vakaruose vykdyta plati žinių apie tai
+    sklaidos kampanija, siekiant parodyti Lietuvą kaip katalikišką kraštą.
+    Be to, dar bandyta steigti atskirą Lietuvos katalikų bažnyčios provinci-
+    ją, sukurti Lietuvos stačiatikių metropoliją ar vyskupiją ir šią sujungti su
+    Katalikų bažnyčia.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-021
 
 ## Ryšiai
 ### Laikotarpiai
+- [[laikotarpiai/XII amžius]]
+- [[laikotarpiai/XIII amžius]]
+- [[laikotarpiai/XIV amžius]]
 - [[laikotarpiai/XV amžius]]
 
 ### Susiję objektai
@@ -809,5 +911,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - [[objektai/paprociai/Sezoniniai ordino žygiai į Lietuvą]]
 - [[objektai/grupes/Templininkų ordinas]]
 - [[objektai/asmenys/Ulrichas von Jungingenas]]
+- [[objektai/grupes/Didžiojo Naugardo respublika]]
 - [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
 - [[objektai/ivykiai/Žalgirio mūšis (1410 m.)]]

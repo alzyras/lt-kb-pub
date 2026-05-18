@@ -78,7 +78,10 @@ Nenurodyta
   santrauka: Bomba minima kaip atentato prieš E. Galvanauską priemonė.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lapkričio
+    15  dieną Kaune ant derybininko E. Galvanausko miegamojo palangės
     sprogo padėta bomba – daugelyje vietų sužeistas E.  Galvanauskas liko
+    gyvas, tačiau atentatas niekuomet nebuvo tirtas, o kaltininkai nesurasti.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -91,7 +94,13 @@ Nenurodyta
   santrauka: 'Galvanausko miegamojo palangės sprogo padėta bomba – daugelyje vietų sužeistas E.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplo-
+    matai, tačiau priešinosi visos politinės partijos, karinė vadovybė, Lietu-
+    vos šaulių sąjunga, grasinta net perversmu – planas vertintas kaip lenkų
     Trojos arklys. Jį atmesti ragino Vokietijos ir Rusijos diplomatai. Lapkričio
+    15  dieną Kaune ant derybininko E. Galvanausko miegamojo palangės
+    sprogo padėta bomba – daugelyje vietų sužeistas E.  Galvanauskas liko
+    gyvas, tačiau atentatas niekuomet nebuvo tirtas, o kaltininkai nesurasti.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -108,3 +117,4 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/asmenys/Ernestas Galvanauskas]]
+- [[objektai/vietos/Kaunas]]

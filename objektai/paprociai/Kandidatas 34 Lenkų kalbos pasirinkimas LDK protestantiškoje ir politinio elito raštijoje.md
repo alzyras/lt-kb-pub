@@ -44,7 +44,10 @@ Nenurodyta
   santrauka: 'Reformacija tapo nauju lenkėjimo postūmiu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Nors radosi ir lietuviakalbė
+    raštijos tradicija, LDK visuomenės politinis elitas lietuviakalbės kultūri-
     nės programos nesulaukė ir rinkosi lenkakalbę. Lietuvių kalbą išlaikė tik
+    smulkioji bajorija, o tvirčiausiai – valstiečiai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

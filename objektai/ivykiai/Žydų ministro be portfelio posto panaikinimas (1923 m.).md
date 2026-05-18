@@ -40,6 +40,10 @@ Nenurodyta
   santrauka: '1923 m. panaikintas žydų ministro be portfelio postas, vėliau laikytasi prezidento A.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1923 m. panaikintas žydų ministro be
+    portfelio postas, vėliau laikytasi prezidento A. Smetonos nuostatos – ka-
+    dangi leidžiame tautinėms mažumoms gimtosios kalbos teisę, kultūros
+    reikalais bendrauti su savaisiais, tai mažumos „už tai privalo būti mūsų
     žemės teritoriniai patriotai, mylėti Lietuvą ir gerbti lietuvių tautą“.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -48,7 +52,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/posakiai/„teritoriniai patriotai“]]

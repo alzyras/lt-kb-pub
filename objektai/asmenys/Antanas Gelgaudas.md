@@ -28,7 +28,9 @@ karių, kuriai vadovavo generolas Antanas Gelgaudas.
   santrauka: 'karių, kuriai vadovavo generolas Antanas Gelgaudas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1831 m. birželį į Lietuvą strateginiais sumetimais buvo pasiųsta re-
     guliarioji Lenkijos karalystės kariuomenė, apie 12,6 tūkst. karių, kuriai
+    vadovavo generolas Antanas Gelgaudas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

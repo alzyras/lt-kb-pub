@@ -42,7 +42,10 @@ Nenurodyta
   santrauka: 'Ginkluoti partizanai nekėlė pasitikėjimo vokiečiams, todėl birželio 28-ąją sukilėlių būriai paleisti, o iš savanorių suformuotas Tautinės darbo apsaugos (TDA) batalionas prie Kauno karo komendantūros.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Ginkluoti partizanai
+    nekėlė pasitikėjimo vokiečiams, todėl birželio 28-ąją sukilėlių būriai
     paleisti, o iš savanorių suformuotas Tautinės darbo apsaugos (TDA)
+    batalionas prie Kauno karo komendantūros.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

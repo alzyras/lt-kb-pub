@@ -38,7 +38,10 @@ Universiteto globėju iki 1824 m. buvo Lenkijos didikų atžala – Adomas Jurgi
   santrauka: 'Universiteto globėju iki 1824 m. buvo Lenkijos didikų atžala – Adomas Jurgis Čartoriskis (Adam Jerzy Czartoryski, 1770–1861) – asmeninis caro Aleksandro I draugas, kurį laiką ėjęs Rusijos užsienio reikalų ministro pareigas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Universiteto globėju iki
     1824 m. buvo Lenkijos didikų atžala – Adomas Jurgis Čartoriskis (Adam
+    Jerzy Czartoryski, 1770–1861) – asmeninis caro Aleksandro I draugas,
+    kurį laiką ėjęs Rusijos užsienio reikalų ministro pareigas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -50,7 +53,11 @@ Universiteto globėju iki 1824 m. buvo Lenkijos didikų atžala – Adomas Jurgi
   santrauka: 'Aleksandras I nutarė nekeršyti ištikimybės priesaiką jam sulaužiusiai Lietuvos bajorijai ir viskas liko kaip buvę išskyrus tai, kad milžiniškų kariuomenių žygiavimas per kraštą du kartus per pusę metų turėjo skaudžių pasekmių ekonomikai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1830–1831 metų sukilimas
+    Aleksandras I nutarė nekeršyti ištikimybės priesaiką jam
     sulaužiusiai Lietuvos bajorijai ir viskas liko kaip buvę išskyrus tai, kad
+    milžiniškų kariuomenių žygiavimas per kraštą du kartus per pusę metų
+    turėjo skaudžių pasekmių ekonomikai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -63,6 +70,7 @@ Universiteto globėju iki 1824 m. buvo Lenkijos didikų atžala – Adomas Jurgi
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos bajorija reiškė pageidavimus prisijungti prie šio darinio,
+    tačiau Aleksandras I nesutiko.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

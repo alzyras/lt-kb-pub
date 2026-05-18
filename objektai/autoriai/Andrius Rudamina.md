@@ -67,7 +67,9 @@ Andrius Rudamina minimas kaip Vilniaus universiteto auklėtinis, Kinijoje mision
   santrauka: Rudaminos universitetinis, misionieriškas ir autorinis kontekstas.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Šiauriausias katali-
     kiškas ir ryčiausias Europos universitetas – tai svarbiausia senojo jėzuitų
+    universiteto reikšmė.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -82,7 +84,11 @@ Andrius Rudamina minimas kaip Vilniaus universiteto auklėtinis, Kinijoje mision
   santrauka: 'Be to, reikia neužmiršti Švedijos ir Livonijos.“ Šios ambicijos nebeatrodo geografiškai tokios naivios, kai prisimename Vilniaus universiteto auklėtinį Andrių Rudaminą, nunešusį Jėzaus draugijos idėjas iki Kinijos, kur misionieriavo 1626–1634 m. ir rašė.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Be to, reikia neužmirš-
     ti Švedijos ir Livonijos.“ Šios ambicijos nebeatrodo geografiškai tokios
+    naivios, kai prisimename Vilniaus universiteto auklėtinį Andrių Ruda-
+    miną, nunešusį Jėzaus draugijos idėjas iki Kinijos, kur misionieriavo
+    1626–1634 m. ir rašė asketikos veikalus kinų kalba.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -99,5 +105,6 @@ Andrius Rudamina minimas kaip Vilniaus universiteto auklėtinis, Kinijoje mision
 - [[laikotarpiai/XVII amžius]]
 
 ### Susiję objektai
+- [[objektai/grupes/Totoriai]]
 - [[objektai/vietos/Vilniaus universitetas]]
 - [[objektai/posakiai/„Reikia taip pat neužmiršti, kad čia mums plačiai atsiveria durys į Maskoviją...“]]

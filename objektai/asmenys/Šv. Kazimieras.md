@@ -29,13 +29,19 @@ Pagaliau dar vienas Kazimiero sūnus, taip pat Kazimieras, pripažintas šventuo
   teiginys: 'Kazimieras tapo svarbiausiu Lietuvos bei Vilniaus globėju ir pagrindiniu šventuoju, o Kaziuko mugės – tai iki šių dienų iš LDK laikų ateinanti tradicija.'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: 'Kazimiero, Lenkijos globėjo šv.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Kazimiero (1458–1484), Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, garbinimo tradicijos klostymasis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Kazimiero (1458–1484),
     Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, garbinimo tradicijos
+    klostymasis.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -47,7 +53,10 @@ Pagaliau dar vienas Kazimiero sūnus, taip pat Kazimieras, pripažintas šventuo
   santrauka: 'pradžioje karalaitis Kazimieras garbintas Vilniaus apylinkėse, o šv.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Karalaitis Kazimieras paskelbtas šventuoju, kai po mirties
     pradėjo garsėti kaip stebukladaris, nes tikėta, kad jis išgelbėjęs Lietuvą
+    karuose su Maskva – 1518 m. padėjęs Lietuvos kariuomenei įveikti prie-
+    šą prie Polocko, o 1519 m. laimėti mūšį prie Dauguvos.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -69,6 +78,19 @@ Pagaliau dar vienas Kazimiero sūnus, taip pat Kazimieras, pripažintas šventuo
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Kazimiero, Lenkijos globėjo šv.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kazimiero, Lenkijos
+    globėjo šv. Stanislovo ir šv. Elenos skulptūros ant katedros frontono.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai

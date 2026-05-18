@@ -28,7 +28,9 @@ Lietuvių inteligentų būrys 1988 m. birželio 3 d. Vilniuje Lietuvos mokslų a
   santrauka: 'Lietuvių inteligentų būrys 1988 m. birželio 3 d. Vilniuje Lietuvos mokslų akademijos salėje įsteigė Lietuvos Persitvarkymo Sąjūdžio (LPS) iniciatyvinę grupę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuvių inteligentų būrys 1988 m. birželio 3 d.
     Vilniuje Lietuvos mokslų akademijos salėje įsteigė Lietuvos Persitvarkymo
+    Sąjūdžio (LPS) iniciatyvinę grupę.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

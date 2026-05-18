@@ -59,3 +59,6 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/upė]]
+
+### Susiję objektai
+- [[objektai/vietos/Vilniaus kraštas]]

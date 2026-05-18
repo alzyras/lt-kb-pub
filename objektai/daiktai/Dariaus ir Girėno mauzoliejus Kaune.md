@@ -42,7 +42,9 @@ Nenurodyta
   santrauka: 'Didvyriams Kaune pastatytas mauzoliejus (naikintas per nacių okupaciją ir baigtas naikinti sovietmečiu).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Savo laiške
     prieš skrydį lakūnai ragino Lietuvos jaunimą paskirti save Tėvynės garbei
+    ir šis priesakas tapo tūkstančių jaunuolių ir merginų siekiu.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

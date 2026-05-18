@@ -27,7 +27,20 @@ tags:
   santrauka: '„Galima spėlioti, kad, jeigu turėtume lietuvių literatūros iš to laikotarpio, kaip seniausia indų literatūra, galėtume su didesniu tikrumu teigti, jog arijų kalbos lopšys turėjo būti lietuvių apgyventoje teritorijoje“ Isaac Taylor (1787–1865) Iš „The Origins.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    V s k y r i u s
+    LIETUVA: SOVIETŲ IR
+    NACIŲ OKUPACIJOS
     „Galima spėlioti, kad, jeigu turėtume lietuvių literatūros iš to
+    laikotarpio, kaip seniausia indų literatūra, galėtume su didesniu
+    tikrumu teigti, jog arijų kalbos lopšys turėjo būti lietuvių
+    apgyventoje teritorijoje“
+    Isaac Taylor (1787–1865)
+    Iš „The Origins of the Aryans“ („Arijų kilmė“)
+    STALINO IR HITLERIO GNIAUŽTUOSE
+    K
+    omunistinės SSRS ir nacių Vokietijos draugystės lai-
+    kotarpis 1940 m. pradžioje artėjo į jų lemiamą susi-
+    dūrimą, abi totalitarinės valstybės ruošėsi karui dėl Europos užgrobimo.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -30,7 +30,11 @@ Tai nulėmė, kad LDK didikai (aukščiausias visuomenės sluoksnis) parėmė b�
   santrauka: 'Tai nulėmė, kad LDK didikai (aukščiausias visuomenės sluoksnis) parėmė būtent evangelikų reformatų tikėjimą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tai nulėmė, kad LDK
+    didikai (aukščiausias visuomenės sluoksnis) parėmė būtent evangelikų
     reformatų tikėjimą. Beveik visi didikai katalikai, taip pat dalis ortodoksų
+    perėjo į kalvinistų tikėjimą ir sekuliarizavo beveik 50 proc. katalikų baž-
+    nyčių.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

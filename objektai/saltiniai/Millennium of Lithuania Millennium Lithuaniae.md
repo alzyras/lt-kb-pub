@@ -27,7 +27,8 @@ Millennium of Lithuania: Millennium Lithuaniae.
   santrauka: 'Millennium of Lithuania: Millennium Lithuaniae.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Millennium Lithuaniae. Ed. M. Šapoka, Vilnius, 2009
+    Vilnius, 1976; Millennium of Lithuania:
+    Millennium Lithuaniae. Ed. M. Šapoka, Vilnius, 2009; H. Olszewski.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

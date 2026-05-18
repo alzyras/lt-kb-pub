@@ -27,7 +27,10 @@ Pasirodė istorinių romanų, dramų, filmų, augo nauja menininkų karta, nepal
   santrauka: 'Pasirodė istorinių romanų, dramų, filmų, augo nauja menininkų karta, nepaliesta stalinizmo represijų, atėjusi iš naujų visuomenės sluoksnių – visiškai parklupdyti Lietuvos kultūrą, sugrūsti ją į Prokrusto komunistinę lovą sovietmečiu nepavyko.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Pasirodė istorinių romanų, dramų, filmų, augo
+    nauja menininkų karta, nepaliesta stalinizmo represijų, atėjusi iš naujų
     visuomenės sluoksnių – visiškai parklupdyti Lietuvos kultūrą, sugrūsti ją
+    į Prokrusto komunistinę lovą sovietmečiu nepavyko.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

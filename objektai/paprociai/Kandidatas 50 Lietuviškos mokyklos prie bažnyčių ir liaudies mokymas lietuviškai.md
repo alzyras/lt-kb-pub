@@ -49,7 +49,11 @@ Nenurodyta
   santrauka: '1841 m. valdžia davė leidimą steigti mokyklas prie Telšių (Žemaičių) vyskupijos bažnyčių, jose leista mokyti skaityti ir rašyti lietuviškai, tikybos tiesų, nurodyta supažindinti mokinius su rusų abėcėle.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    1841 m. valdžia davė leidimą
+    steigti mokyklas prie Telšių (Žemaičių) vyskupijos bažnyčių, jose leista
+    mokyti skaityti ir rašyti lietuviškai, tikybos tiesų, nurodyta supažindin-
     ti mokinius su rusų abėcėle. Taigi, valdžia linko traktuoti šias mokyklas
+    kaip parengiamąją pakopą valdiškai rusiškai pradžios mokyklai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -61,7 +65,11 @@ Nenurodyta
   santrauka: 'Valančius pasirūpino, kad kunigai turėtų pagarbų požiūrį į lietuviškai kalbančią liaudį, gerai išmoktų lietuviškai ir sakytų pamokslus lietuviškai, davė nurodymą kunigams prie bažnyčių steigti lietuviškas mokyklas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    O vyskupija
+    tuomet apėmė didžiąją dalį etni-
     nės Lietuvos, ne tik Žemaitiją. Tos
+    mokyklos visiškai nukonkuravo
+    valdiškas mokyklas rusų kalba.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

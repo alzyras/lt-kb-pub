@@ -67,6 +67,7 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
   santrauka: 'riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo jiems kelią.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Pajutę susitelkusią lietuvių ka-
     riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai
     pastojo jiems kelią.
   citata_rodoma: ''
@@ -143,7 +144,10 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
   santrauka: '„Fluxus“ kūrėjas Jurgis Mačiūnas, o gal ir JAV vieno cento autorius skulptorius iš Šiaulių Victor David Brenner (Viktoras Barnauskas, 1871–1924) ar Prancūzijoje labai išgarsėjęs dailininkas Vytautas Kasiulis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    PA B A I G A  A R B A  I Š B A R S T Y T I  L I E T U V O S  V E I D A I
+    „Fluxus“ kūrėjas Jurgis Mačiūnas, o gal ir JAV vieno cento autorius skulp-
     torius iš Šiaulių Victor David Brenner (Viktoras Barnauskas, 1871–1924)
+    ar Prancūzijoje labai išgarsėjęs dailininkas Vytautas Kasiulis.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -155,3 +159,4 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Jokūbas Jasinskis]]
+- [[objektai/vietos/Prancūzija]]

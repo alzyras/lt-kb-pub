@@ -39,7 +39,12 @@ Nenurodyta
   santrauka: 'Einzatsgrupės terorą organizavo taip, kad atrodytų, jog pirmuosius pogromus ir „apsivalymo“ akcijas vykdo vietiniai gyventojai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Talkinin-
+    kų rasta tarp nukentėjusių nuo sovietų teroro, kerštaujančių arba ban-
+    dančių nusiplauti sovietmečio nuodėmes lietuvių – tokie dalyvavo SD
     inspiruotuose žiauriuose pogromuose birželio 26 dieną Vilijampolėje,
+    27 – Kauno „Lietūkio“ garaže, nors SD einzatsgrupių vadų raportuose
+    sakoma, kad surengti pogromus buvo nelengva.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

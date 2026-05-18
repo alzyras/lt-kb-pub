@@ -28,7 +28,10 @@ Sirvydo lietuviški pamokslai, vėlesni giesmynai (Saliamono Slavočinskio „Gi
   santrauka: 'Sirvydo lietuviški pamokslai, vėlesni giesmynai (Saliamono Slavočinskio „Giesmės“ 1646 m.) ar gramatikos (1737 m. lietuvių kalbos gramatika) rūpinosi tik lietuvių kalbos funkcionavimu kasdieniu – Bažnyčios ir mokyklos – lygmeniu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    K.  Sirvydo lietuviški pa-
     mokslai, vėlesni giesmynai (Saliamono Slavočinskio „Giesmės“ 1646 m.)
+    ar gramatikos (1737 m. lietuvių kalbos gramatika) rūpinosi tik lietuvių
+    kalbos funkcionavimu kasdieniu – Bažnyčios ir mokyklos – lygmeniu.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

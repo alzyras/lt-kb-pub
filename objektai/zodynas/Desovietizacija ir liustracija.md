@@ -27,7 +27,10 @@ Visuomenėje virė diskusijos dėl tų, kurie uoliai talkino naciams ir sovietam
   santrauka: 'Visuomenėje virė diskusijos dėl tų, kurie uoliai talkino naciams ir sovietams, dėl lietuvių vaidmens Holokauste, trėmimuose į Sibirą ir represijose, lėtai buvo sprendžiami desovietizacijos ir liustracijos klausimai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Visuomenėje virė diskusijos dėl tų, kurie uoliai talki-
+    no naciams ir sovietams, dėl lietuvių vaidmens Holokauste, trėmimuose į
     Sibirą ir represijose, lėtai buvo sprendžiami desovietizacijos ir liustracijos
+    klausimai.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

@@ -52,5 +52,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas]]
 - [[objektai/asmenys/Jaunutis]]

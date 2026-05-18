@@ -9,16 +9,21 @@ aliases:
   - Lietuvos istorija
 saltiniai: []
 laikotarpis: '1936 m.'
-datos:
-  - '1936 m.'
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1936 m.'
+  - '1939 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1936'
+date_end: '2026'
 patikimumas: ''
 tags: []
 ---
@@ -112,14 +117,18 @@ tags: []
   teiginys: '1936 m. Lietuvos Respublikos švietimo ministerijos (viceministro Kazimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų parašė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas Šapoka.'
   pagrindžia:
     - c-008
-- t-013
-  teiginys: 'Neramiu laikotarpiu parašyto veikalo tikslas buvo ieškoti įkvėpimo lietuvių tautai tūkstantmetėje senovės Lietuvos istorijoje, plačiose senovės karžygių užkariautose erdvėse, autentiškoje baltų kultūroje, Europos L I E T U V O S I S T O R I J A 10.'
-  pagrindžia:
-    - c-009
 - t-014
   teiginys: 'Lietuvos istorija.'
   pagrindžia:
     - c-010
+- t-016
+  teiginys: 'Vilnius, 2009; Lietuvos istorija.'
+  pagrindžia:
+    - c-010
+- t-017
+  teiginys: 'Neramiu laikotarpiu parašyto veikalo tikslas buvo ieškoti įkvėpimo lietuvių tautai tūkstantmetėje senovės Lietuvos istorijoje, plačiose senovės karžygių užkariautose erdvėse, autentiškoje baltų kultūroje, Europos L I E T U V O S I S T O R I J A 10.'
+  pagrindžia:
+    - c-011
 
 ## Reikšmingi paminėjimai
 - c-003
@@ -237,7 +246,10 @@ tags: []
   santrauka: '1936 m. Lietuvos Respublikos švietimo ministerijos (viceministro Kazimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų parašė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas Šapoka.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Lietuvos Respublikos švietimo ministerijos (viceministro Ka-
+    zimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų para-
     šė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas
+    Šapoka.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -245,23 +257,12 @@ tags: []
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-012
-- c-009
-  santrauka: 'Neramiu laikotarpiu parašyto veikalo tikslas buvo ieškoti įkvėpimo lietuvių tautai tūkstantmetėje senovės Lietuvos istorijoje, plačiose senovės karžygių užkariautose erdvėse, autentiškoje baltų kultūroje, Europos L I E T U V O S I S T O R I J A 10.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    tuvių tautai tūkstantmetėje senovės Lietuvos istorijoje, plačiose senovės
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-013
 - c-010
   santrauka: 'Lietuvos istorija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    1936 (fotografuotinis leidimas: Vilnius, 1989)
+    Kaunas,
+    1936 (fotografuotinis leidimas: Vilnius, 1989); Lietuvos sienos: Tūkstantmečio istorija.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -269,6 +270,27 @@ tags: []
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-014
+    - t-016
+- c-011
+  santrauka: 'Neramiu laikotarpiu parašyto veikalo tikslas buvo ieškoti įkvėpimo lietuvių tautai tūkstantmetėje senovės Lietuvos istorijoje, plačiose senovės karžygių užkariautose erdvėse, autentiškoje baltų kultūroje, Europos L I E T U V O S I S T O R I J A 10.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Neramiu laikotarpiu parašyto veikalo tikslas buvo ieškoti įkvėpimo lie-
+    tuvių tautai tūkstantmetėje senovės Lietuvos istorijoje, plačiose senovės
+    karžygių užkariautose erdvėse, autentiškoje baltų kultūroje, Europos
+
+    L I E T U V O S  I S T O R I J A
+    10
+    archajiškiausioje ir savo grožiu išskirtinėje lietuvių kalboje bei po pa-
+    saulį pasklidusių išeivių veikloje.
+    Ruošiantis 1939 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
 
 ## Bibliografiniai įrodymai
     # LIETUVOS

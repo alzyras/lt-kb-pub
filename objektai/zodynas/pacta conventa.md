@@ -33,7 +33,10 @@ Jis turėdavo tik tiek valdžios, kiek bajorija jam duodavo jo išrinkimo metu s
   santrauka: 'Jis turėdavo tik tiek valdžios, kiek bajorija jam duodavo jo išrinkimo metu sudaromąja sutartimi — pacta conventa.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Jis turėdavo tik tiek valdžios, kiek bajorija jam duoda-
+    Bajorija laikė save
+    visagale: kiekvienas bajoras tarėsi galįs būti išrinktas net
+    karalium, o karalius buvo laikomas tik bajorijos pasikviestuoju
+    valdovu. Jis turėdavo tik tiek valdžios, kiek bajorija jam duoda-
     vo jo išrinkimo metu sudaromąja sutartimi — pacta conventa.
   citata_rodoma: ''
   teiginio_tipas: faktas
@@ -46,7 +49,9 @@ Jis turėdavo tik tiek valdžios, kiek bajorija jam duodavo jo išrinkimo metu s
   santrauka: 'Lenkijos ir Lietuvos valstybės teisių sistemos požiūriu įžadas tapo pacta conventa dalimi: taip nuo 1573 m. buvo vadinami elekcinių valdovų įsipareigojimai LLV bajorijai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Taip įža-
     do įstatymas teisės normų hierarchijoje iškilo net virš Gegužės trečiosios
+    konstitucijos.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

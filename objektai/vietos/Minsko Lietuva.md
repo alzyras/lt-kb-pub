@@ -66,7 +66,11 @@ Pavadinimas siejamas su senosiomis rusėniškosiomis LDK žemėmis ir modernios 
   santrauka: Citata tiesiogiai apibrėžia Minsko arba rusėnų Lietuvos pavadinimą.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Remiantis tokia lenkiška Lietuvos sam-
+    prata, Lietuvos Respublika buvo vadinama „Kauno Lietuva“, o žemaičių
     tarmė – lietuvių kalba. „Vidurinės Lietuvos“ prasmę galima suvokti tik
+    turint omenyje, jog į rytus nuo jos senosios rusėniškosios LDK žemės va-
+    dinamos „Minsko“, arba „rusėnų“, Lietuva.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -79,6 +83,8 @@ Pavadinimas siejamas su senosiomis rusėniškosiomis LDK žemėmis ir modernios 
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Savo ruožtu lietuviai buvo apsisprendę kurti Lietuvos valstybę etniniais
+    pagrindais, nebepretendavo į „Minsko Lietuvą“, tačiau neįsivaizdavo savo
+    valstybės be istorinės sostinės Vilniaus.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -90,7 +96,9 @@ Pavadinimas siejamas su senosiomis rusėniškosiomis LDK žemėmis ir modernios 
   santrauka: '„Vidurinės Lietuvos“ prasmę galima suvokti tik turint omenyje, jog į rytus nuo jos senosios rusėniškosios LDK žemės vadinamos „Minsko“, arba „rusėnų“, Lietuva.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    „Vidurinės Lietuvos“ prasmę galima suvokti tik
     turint omenyje, jog į rytus nuo jos senosios rusėniškosios LDK žemės va-
+    dinamos „Minsko“, arba „rusėnų“, Lietuva.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

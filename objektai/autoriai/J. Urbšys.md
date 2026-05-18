@@ -36,7 +36,3 @@ Urbšys, Medžiaga Vilniaus ginčo diplomatinei istorijai (atsp. iš M.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/diplomatas]]

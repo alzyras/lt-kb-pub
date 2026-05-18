@@ -29,7 +29,11 @@ Voldemaro, o vėliau uždarė ir pusiau slaptą, ginkluotą radikaliausių tauti
   santrauka: 'Voldemaro, o vėliau uždarė ir pusiau slaptą, ginkluotą radikaliausių tautininkų organizaciją „Geležinis vilkas“, kuri laikė A.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tylusis kombinacijų meistras
+    A. Smetona savo skalpeliu toliau raižė pūlinius – atsikratė karininkų per-
+    versmininkų apsupties, A. Voldemaro, o vėliau uždarė ir pusiau slaptą,
     ginkluotą radikaliausių tautininkų organizaciją „Geležinis vilkas“, kuri
+    laikė A. Voldemarą savo vadu.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

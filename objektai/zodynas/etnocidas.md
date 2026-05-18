@@ -28,7 +28,13 @@ Pakvipo planingu, lėtiniu etnocidu.
   santrauka: 'Pakvipo planingu, lėtiniu etnocidu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Pra-
+    sidėjo oficialios kalbos apie „tarybinės liaudies formavimasį“, „vieną tary-
     binę kultūrą“, tautybių „susiliejimą“ per rusų kalbą kaip „internacionalinę
+    bendravimo priemonę“, „tarybinių tautų suartėjimą ir susiliejimą“ leido
+    suprasti, kad einama unifikuotos ideologiškai ir rusiškai kalbančios so-
+    vietinės nacijos formavimo intensyvinimo keliu, kad ateityje lietuvių ir
+    kitos kalbos išnyks.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

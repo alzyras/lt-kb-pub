@@ -30,7 +30,11 @@ Demokratija Lietuvoje, pasak A.
   santrauka: 'Demokratija Lietuvoje, pasak A.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Demokratija Lietuvoje, pasak A. Smetonos, tai nupirkti per dideli batai
+    vaikams – parlamentarizmo tradicija vos per šešerius metus nesubren-
     do, neįsitvirtino, ypač sunkiai sekėsi sudaryti koalicijas. Seimas atrodė
+    smulk­meniškai besikišantis į vykdomosios valdžios reikalus ir nekompe-
+    tentingas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -38,3 +42,8 @@ Demokratija Lietuvoje, pasak A.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/A. Smetona]]
+- [[objektai/asmenys/Antanas Smetona]]
