@@ -141,4 +141,3 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
 
 ### Susiję objektai
 - [[objektai/asmenys/Aleksandras Lukašenka]]
-- [[objektai/zodynas/istorinė Lietuva]]

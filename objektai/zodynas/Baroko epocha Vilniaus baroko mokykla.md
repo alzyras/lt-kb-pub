@@ -43,4 +43,3 @@ buvo sukurta originali, vadinamoji Vilniaus baroko mokykla, kurios pagrindinis a
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Baroko epocha]]
-- [[objektai/asmenys/Jonas Kristupas Glaubicas]]

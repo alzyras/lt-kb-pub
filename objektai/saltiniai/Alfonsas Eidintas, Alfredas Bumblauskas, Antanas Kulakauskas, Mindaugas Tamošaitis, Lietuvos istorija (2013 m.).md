@@ -75,14 +75,13 @@ Tai keturių autorių Lietuvos istorijos sintezė, išleista Lietuvos Respubliko
     - c-008
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-
 ## Bibliografiniai įrodymai
 - c-003
   santrauka: Bibliografinėje eilutėje nurodyti leidimo metai, leidykla ir apimtis.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos istorija. – Vilnius: Vilniaus universitetas, Vilniaus universiteto
-    leidykla, 2012.
+    leidykla, 2012. – 280 p.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -90,12 +89,16 @@ Tai keturių autorių Lietuvos istorijos sintezė, išleista Lietuvos Respubliko
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
 ## Reikšmingi paminėjimai
 - c-005
   santrauka: Redaktoriaus žodyje nurodytas leidinio parengimo užsakymas, numatytas pobūdis ir chronologinė aprėptis.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tai iš-
+    skirtinė galimybė ne tik aktyviai prisidėti kuriant bendrą Europos ateitį,
+    bet ir sustiprinti šalių solidarumą ir dėmesingumą žemyno tautų praeičiai
+    ir, žinoma, dar kartą patiems – iš šiandieninio požiūrio taško – pažvelgti
+    ir visam pasauliui priminti, kas buvo, yra (ir bus) Lietuva.
     Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio
     reikalų ministerija (ministras Audronius Ažubalis) kreipėsi į Vilniaus
     universiteto Tarptautinių santykių ir politikos mokslų instituto moks-
@@ -122,6 +125,14 @@ Tai keturių autorių Lietuvos istorijos sintezė, išleista Lietuvos Respubliko
   santrauka: Redaktoriaus žodyje leidinys apibūdinamas kaip pirmas tokios aprėpties bandymas nuo 1990 m.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Dėl ribotos šios is-
+    torijos apimties atsisakyta detalesnės ekonominės, socialinės ir kultūrinės
+    raidos skirsnių. Skaitytojui jie būtų neabejotinai įdomūs ir pravartūs, bet
+    tebūnie tai ta auka ir kaina, kurią šios knygos autoriai pasiryžo sumokėti,
+    kad pasakojime kuo geriau išryškintų esminius Lietuvos istorijos verpe-
+    tus, Lietuvos valstybės raidą, jos indėlį į regiono ir visos Europos istoriją
+    bei ilgametį, tvirtą – nemirtingą – Lietuvos žmonių ryžtą kurti, saugoti ir
+    puoselėti savo valstybę.
     Redaktorius tikisi supratimo ir atlaidos, jei ne visiems Skaitytojams
     istorinis pasakojimas pasirodys vienodai priimtinas bei darnus, primin-
     damas, kad tai pirmas bandymas nuo 1990 m. valstybės atkūrimo aprėpti

@@ -89,4 +89,6 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Dancigas]]
 - [[objektai/vietos/Livonija]]
+- [[objektai/ivykiai/Versalio taikos konferencijos sprendimas dėl Klaipėdos krašto (1919 m.)]]

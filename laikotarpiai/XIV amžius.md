@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 101.
+Objektų skaičius: 103.
 
 ## Kaip naudoti
 
@@ -77,6 +77,7 @@ Objektų skaičius: 101.
 - [Juodoji jūra](../objektai/vietos/Juodoji%20j%C5%ABra)
 - [Kaunas](../objektai/vietos/Kaunas)
 - [Kijevas](../objektai/vietos/Kijevas)
+- [Kijevo Rusia](../objektai/vietos/Kijevo%20Rusia)
 - [Kremlius](../objektai/vietos/Kremlius)
 - [Krokuva](../objektai/vietos/Krokuva)
 - [Lenkija](../objektai/vietos/Lenkija)
@@ -84,6 +85,7 @@ Objektų skaičius: 101.
 - [Maskva](../objektai/vietos/Maskva)
 - [Podolė](../objektai/vietos/Podol%C4%97)
 - [Vilnius](../objektai/vietos/Vilnius)
+- [Vladimiras](../objektai/vietos/Vladimiras)
 - [Voluinė](../objektai/vietos/Voluin%C4%97)
 - [Žemaitija](../objektai/vietos/%C5%BDemaitija)
 

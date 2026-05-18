@@ -175,5 +175,7 @@ Vieta siejama su Lietuvos ir Lenkijos konfliktu dėl Vilniaus po Pirmojo pasauli
 - [[temos/lietuva]]
 
 ### Susiję objektai
+- [[objektai/grupes/Lenkai]]
 - [[objektai/vietos/Rytų Lietuva]]
+- [[objektai/grupes/Senalietuviai]]
 - [[objektai/posakiai/„nei karo, nei taikos“]]

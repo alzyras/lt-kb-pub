@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 5.
+Objektų skaičius: 6.
 
 ## Kaip naudoti
 
@@ -25,6 +25,7 @@ Objektų skaičius: 5.
 - [[objektai/grupes/Kryžiuočių ordinas]]
 
 ### Vietos
+- [[objektai/vietos/Kijevo Rusia]]
 - [[objektai/vietos/Polockas]]
 - [[objektai/vietos/Pskovas]]
 

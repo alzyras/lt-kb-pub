@@ -223,5 +223,4 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
 - [[objektai/grupes/Litvakai]]
 - [[objektai/vietos/Rusija]]
 - [[objektai/zodynas/kahalai sėslumo riba]]
-- [[objektai/zodynas/litvakai Lite litviš]]
 - [[objektai/grupes/Žydų bendruomenės]]

@@ -88,3 +88,5 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
 - [[objektai/vietos/Karaliaučius]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Ryga]]
+- [[objektai/vietos/Gdanskas]]
+- [[objektai/ivykiai/Versalio taikos konferencijos sprendimas dėl Klaipėdos krašto (1919 m.)]]

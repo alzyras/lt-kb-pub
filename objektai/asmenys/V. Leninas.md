@@ -65,4 +65,3 @@ Lenino, J. Leniną, tačiau ilgainiui, ypač Dainų šventėse, tai liko apvalka
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Vladimiras Leninas]]
-- [[objektai/posakiai/„tautinė pagal formą, socialistinė pagal turinį“]]

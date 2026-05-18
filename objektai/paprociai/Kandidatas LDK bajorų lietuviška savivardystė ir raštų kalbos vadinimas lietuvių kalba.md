@@ -59,4 +59,3 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/paprociai/Kandidatas 3 LDK bajorų lietuviška savivardystė ir raštų kalbos vadinimas lietuvių kalba]]
-- [[objektai/zodynas/istorinė Lietuva]]

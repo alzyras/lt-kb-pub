@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 32.
+Objektų skaičius: 29.
 
 ## Kaip naudoti
 
@@ -29,11 +29,9 @@ Objektų skaičius: 32.
 - [[objektai/zodynas/dykra]]
 - [[objektai/zodynas/genetinė istorija]]
 - [[objektai/zodynas/inkorporacija]]
-- [[objektai/zodynas/istorinė Lietuva]]
 - [[objektai/zodynas/kaštelionas]]
 - [[objektai/zodynas/komputas]]
 - [[objektai/zodynas/komtūras]]
-- [[objektai/zodynas/leičiai liečiai leišiai|leičiai / liečiai / leišiai]]
 - [[objektai/zodynas/lituanistinis sąjūdis]]
 - [[objektai/zodynas/marksistinė periodizacija]]
 - [[objektai/zodynas/metropolitas]]
@@ -44,9 +42,8 @@ Objektų skaičius: 32.
 - [[objektai/zodynas/Rusiškosios raidės]]
 - [[objektai/zodynas/seniūnas]]
 - [[objektai/zodynas/tautinis atgimimas]]
-- [tautinė sąmonė](../objektai/zodynas/tautin%C4%97%20s%C4%85mon%C4%97)
-- [tuteišiai](../objektai/zodynas/tutei%C5%A1iai)
-- [tėvūnas](../objektai/zodynas/t%C4%97v%C5%ABnas)
+- [[objektai/zodynas/tautinė sąmonė]]
+- [[objektai/zodynas/tėvūnas]]
 - [unija](../objektai/zodynas/unija)
 - [urėdas](../objektai/zodynas/ur%C4%97das)
 - [vaivada](../objektai/zodynas/vaivada)

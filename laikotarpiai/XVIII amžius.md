@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 78.
+Objektų skaičius: 79.
 
 ## Kaip naudoti
 
@@ -51,6 +51,7 @@ Objektų skaičius: 78.
 
 ### Grupės
 - [1773—1775 m. seimas](../objektai/grupes/1773%E2%80%941775%20m.%20seimas)
+- [Abiejų Tautų Respublika](../objektai/grupes/Abiej%C5%B3%20Taut%C5%B3%20Respublika)
 - [Gardino seimas (1793 m.)](../objektai/grupes/Gardino%20seimas%20%281793%20m.%29)
 - [Jėzuitų ordinas](../objektai/grupes/J%C4%97zuit%C5%B3%20ordinas)
 - [Ketverių metų seimas](../objektai/grupes/Ketveri%C5%B3%20met%C5%B3%20seimas)

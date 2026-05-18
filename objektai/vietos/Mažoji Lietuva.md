@@ -248,5 +248,6 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
 ### Susiję objektai
 - [[objektai/vietos/Brandenburgas]]
 - [[objektai/asmenys/Kristijonas Donelaitis]]
+- [[objektai/vietos/Prūsija]]
+- [[objektai/grupes/Prūsijos valstybė]]
 - [[objektai/vietos/Rytų Prūsija]]
-- [[objektai/zodynas/istorinė Lietuva]]

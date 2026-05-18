@@ -75,4 +75,3 @@ Netoli Vilniaus, sunkiai prieinamame Galvės ežero pusiasaly, Gediminas pastat�
 
 ### Susiję objektai
 - [[objektai/vietos/Galvės ežero salos pilis]]
-- [[objektai/asmenys/Kęstutis]]

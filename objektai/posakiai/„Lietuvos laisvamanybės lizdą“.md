@@ -28,7 +28,11 @@ tags:
   santrauka: '1832 m. nutarta uždaryti Vilniaus universitetą, – anot uždarymo iniciatorių, „Lietuvos laisvamanybės lizdą“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Tiesa, tuomet dviejų šio univer-
+    Nustatyta, kad vietos bajorai
+    gali dirbti vietos administracijos įstaigose tik tada, kai 10 metų atidirbs
+    kitose Rusijos gubernijose.
+    1832 m. nutarta uždaryti Vilniaus universitetą, – anot uždarymo ini-
+    ciatorių, „Lietuvos laisvamanybės lizdą“. Tiesa, tuomet dviejų šio univer-
     siteto fakultetų bazėje buvo įsteigtos dvi atskiros, Rusijos vidaus reikalų
     ministerijai pavaldžios aukštosios mokyklos: Vilniaus medicinos-chirur-
     gijos akademija ir Vilniaus Romos katalikų dvasinė akademija.

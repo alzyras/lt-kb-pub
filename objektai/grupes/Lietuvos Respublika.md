@@ -77,5 +77,7 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Jaunalietuviai]]
 - [[objektai/vietos/Kauno Lietuva]]
 - [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1918-1919 m.)]]
+- [[objektai/grupes/Senalietuviai]]

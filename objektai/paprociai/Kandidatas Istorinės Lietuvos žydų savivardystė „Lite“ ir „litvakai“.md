@@ -54,3 +54,8 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/paprociai/Kandidatas 4 Istorinės Lietuvos žydų savivardystė „Lite“ ir „litvakai“]]
+- [[objektai/zodynas/Lite litvakai]]

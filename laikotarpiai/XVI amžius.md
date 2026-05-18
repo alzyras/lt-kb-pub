@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 105.
+Objektų skaičius: 107.
 
 ## Kaip naudoti
 
@@ -50,6 +50,7 @@ Objektų skaičius: 105.
 - [[objektai/daiktai/Šakutė]]
 
 ### Grupės
+- [Abiejų Tautų Respublika](../objektai/grupes/Abiej%C5%B3%20Taut%C5%B3%20Respublika)
 - [Gardino seimas (1566 m.)](../objektai/grupes/Gardino%20seimas%20%281566%20m.%29)
 - [Jėzuitų ordinas](../objektai/grupes/J%C4%97zuit%C5%B3%20ordinas)
 - [Katalikų Bažnyčia](../objektai/grupes/Katalik%C5%B3%20Ba%C5%BEny%C4%8Dia)
@@ -59,6 +60,7 @@ Objektų skaičius: 105.
 - [Lietuvos seimas (XVI a.)](../objektai/grupes/Lietuvos%20seimas%20%28XVI%20a.%29)
 - [Totoriai](../objektai/grupes/Totoriai)
 - [Vilniaus romantizmo mokykla](../objektai/grupes/Vilniaus%20romantizmo%20mokykla)
+- [Vilniaus universitetas](../objektai/grupes/Vilniaus%20universitetas)
 - [Švedai](../objektai/grupes/%C5%A0vedai)
 - [Žemaičių medininkai](../objektai/grupes/%C5%BDemai%C4%8Di%C5%B3%20medininkai)
 - [Žemlionys](../objektai/grupes/%C5%BDemlionys)

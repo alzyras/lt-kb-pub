@@ -2,7 +2,8 @@
 tipas: asmuo
 pavadinimas: 'Mikalojus Akelaitis'
 sukurta: '2026-05-18'
-variantai: []
+variantai:
+  - 'Mikalojaus Akelaičio'
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
@@ -24,30 +25,33 @@ tags:
 
 ## Santrauka
 
-Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi 1859 m. lietuvių švietėjo Mikalojaus Akelaičio žodžiuose lenkų literatui Juzefui Ignacui Kraševskiui (Józef Ignacy Kraszewski): „Tautos istorija turi būti kiekvieno piliečio lūpose, ir.
+1859 m. lietuvių švietėjas Mikalojus Akelaitis Juzefui Ignacui Kraševskiui rašė, kad „Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“
 
 ## Teiginiai
 - t-001
-  teiginys: 'Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi 1859 m. lietuvių švietėjo Mikalojaus Akelaičio žodžiuose lenkų literatui Juzefui Ignacui Kraševskiui (Józef Ignacy Kraszewski): „Tautos istorija turi būti kiekvieno piliečio lūpose, ir.'
+  teiginys: '1859 m. lietuvių švietėjas Mikalojus Akelaitis Juzefui Ignacui Kraševskiui rašė: „Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“'
   pagrindžia:
     - c-001
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi 1859 m. lietuvių švietėjo Mikalojaus Akelaičio žodžiuose lenkų literatui Juzefui Ignacui Kraševskiui (Józef Ignacy Kraszewski): „Tautos istorija turi būti kiekvieno piliečio lūpose, ir.'
+  santrauka: '1859 m. lietuvių švietėjas Mikalojus Akelaitis Juzefui Ignacui Kraševskiui rašė, kad tautos istorija turi būti kiekvieno piliečio lūpose ir tuomet tauta bus nemirtinga.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi
+    Jas įsi-
+    mindami, savaime tapsite gyvais Lietuvos istorijos liudininkais ir sergėto-
+    jais. Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi
     1859 m. lietuvių švietėjo Mikalojaus Akelaičio žodžiuose lenkų literatui
     Juzefui Ignacui Kraševskiui (Józef Ignacy Kraszewski): „Tautos istorija
     turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“
     Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Joną
-    Mačiulį-Maironį ir kt.
+    Mačiulį-Maironį ir kt.) įamžinti savo šalies praeitį raštu.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
+  priskyrimo_pagrindas: explicit_name
   pagrindžia:
     - t-001
 

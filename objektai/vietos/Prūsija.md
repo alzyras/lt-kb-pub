@@ -271,4 +271,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - [[objektai/vietos/Gumbinė]]
 - [[objektai/asmenys/Liudvikas XVI]]
 - [[objektai/asmenys/Martynas Mažvydas]]
+- [[objektai/vietos/Mažoji Lietuva]]
 - [[objektai/asmenys/Petras I]]
+- [[objektai/grupes/Prūsijos valstybė]]

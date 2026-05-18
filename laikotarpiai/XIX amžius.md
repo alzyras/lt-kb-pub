@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 110.
+Objektų skaičius: 111.
 
 ## Kaip naudoti
 
@@ -67,6 +67,7 @@ Objektų skaičius: 110.
 ### Grupės
 - [Jėzuitų ordinas](../objektai/grupes/J%C4%97zuit%C5%B3%20ordinas)
 - [Lietuvos Didžioji Kunigaikštystė](../objektai/grupes/Lietuvos%20Did%C5%BEioji%20Kunigaik%C5%A1tyst%C4%97)
+- [Vilniaus universitetas](../objektai/grupes/Vilniaus%20universitetas)
 - [Žydai](../objektai/grupes/%C5%BDydai)
 
 ### Papročiai

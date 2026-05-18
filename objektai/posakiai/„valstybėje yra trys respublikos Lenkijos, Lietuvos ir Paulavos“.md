@@ -30,7 +30,9 @@ Apšvietos žingsniais Lietuvos ūkyje reikia laikyti valstiečių paleidimo iš
   santrauka: 'Apšvietos žingsniais Lietuvos ūkyje reikia laikyti valstiečių paleidimo iš baudžiavos, suteikiant jiems asmeninę laisvę, atvejus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Reiškinys neturėjo precedento Vidurio Europoje, tai buvo
+    Tuo metu buvo sakoma, kad valstybėje yra trys respublikos: Lenkijos,
+    Lietuvos ir Paulavos. Šis posakis rodo, kokią ypatingą reikšmę visuomenė
+    teikė Paulavai. Reiškinys neturėjo precedento Vidurio Europoje, tai buvo
     viena iš radikaliausių antrosios XVIII a. pusės valstiečių reformų Lenkijos
     ir Lietuvos Valstybėje.
   citata_rodoma: ''
@@ -40,7 +42,3 @@ Apšvietos žingsniais Lietuvos ūkyje reikia laikyti valstiečių paleidimo iš
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/frazė]]

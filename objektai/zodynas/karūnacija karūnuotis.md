@@ -59,6 +59,3 @@ Tarp visų suvažiavime iškeltų klausimų vienas iš svarbiausiųjų buvo suma
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dokumentas]]
-
-### Susiję objektai
-- [[objektai/daiktai/Karūna]]

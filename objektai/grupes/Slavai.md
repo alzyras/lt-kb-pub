@@ -96,4 +96,3 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Germanai]]
-- [[objektai/zodynas/istorinė Lietuva]]

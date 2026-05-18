@@ -82,6 +82,7 @@ Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulav
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Antanas Tyzenhauzas]]
 - [[objektai/grupes/Ketverių metų seimas]]
+- [[objektai/ivykiai/Paulavos respublikos įkūrimas ir įstatų patvirtinimas]]
 - [[objektai/asmenys/Povilas Ksaveras Bžostovskis]]
+- [[objektai/vietos/Vidurio Europa]]

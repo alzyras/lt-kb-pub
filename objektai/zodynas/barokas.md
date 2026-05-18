@@ -65,7 +65,3 @@ Baroko sąvoka, kaip minėjome, atėjusi iš meno, ypač iš architektūros, ist
   pagrindžia:
     - t-002
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jonas Kristupas Glaubicas]]

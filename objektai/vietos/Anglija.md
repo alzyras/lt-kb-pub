@@ -118,7 +118,6 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Antanas Tyzenhauzas]]
 - [[objektai/vietos/Ispanija]]
 - [[objektai/vietos/Japonija]]
 - [[objektai/vietos/Vilniaus kraštas]]

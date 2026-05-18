@@ -1046,3 +1046,5 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
 - [[objektai/vietos/Krėva]]
 - [[objektai/vietos/Krėvos pilis]]
 - [[objektai/vietos/Lenkija]]
+- [[objektai/grupes/Senalietuviai]]
+- [[objektai/vietos/Vidurinė Lietuva]]

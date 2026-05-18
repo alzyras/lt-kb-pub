@@ -30,7 +30,9 @@ Sakoma: aidint patrankoms, mūzos tyli.
   santrauka: 'Sakoma: aidint patrankoms, mūzos tyli.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Aišku, aukštosios mokyklos poreikis brendo visuo-
+    Tačiau Steponas
+    Batoras Livonijos karo metu rūpinosi mūzų prieglobsčio – Vilniaus uni-
+    versiteto – kūrimu. Aišku, aukštosios mokyklos poreikis brendo visuo-
     menėje, tokios mokyklos kūrimąsi labai paskatino reformacijos ir kontr-
     reformacijos konkurencija. Lietuvos katalikai – ir pats Vilniaus vyskupas
     Valerijonas Protasevičius – stengėsi užbėgti už akių protestantų ketini-

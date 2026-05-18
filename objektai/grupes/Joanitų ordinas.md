@@ -39,5 +39,4 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Templininkų ordinas]]

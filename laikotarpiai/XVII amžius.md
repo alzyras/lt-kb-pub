@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 77.
+Objektų skaičius: 78.
 
 ## Kaip naudoti
 
@@ -37,6 +37,7 @@ Objektų skaičius: 77.
 - [[objektai/daiktai/Lietuvos pinigai]]
 
 ### Grupės
+- [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/grupes/Anglai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
@@ -53,7 +54,7 @@ Objektų skaičius: 77.
 
 ### Posakiai
 - [[objektai/posakiai/duona, tolerancija, demokratija, konstitucija, barokas]]
-- [[objektai/posakiai/„didžiausią Europoje tolerancijos uostą“ „Europos tolerancijos lopšys“]]
+- [„didžiausią Europoje tolerancijos uostą“ „Europos tolerancijos lopšys“](../objektai/posakiai/%E2%80%9Edid%C5%BEiausi%C4%85%20Europoje%20tolerancijos%20uost%C4%85%E2%80%9C%20%E2%80%9EEuropos%20tolerancijos%20lop%C5%A1ys%E2%80%9C)
 
 ### Vietos
 - [Baltijos jūra](../objektai/vietos/Baltijos%20j%C5%ABra)

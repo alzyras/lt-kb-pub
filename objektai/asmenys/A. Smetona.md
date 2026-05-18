@@ -857,5 +857,6 @@ A. Smetona rodomas kaip tautinio judėjimo ir nepriklausomybės laikotarpio poli
 - [[objektai/ivykiai/Klaipėdos nacių teismas Kaune (1934 m. liepa - 1935 m. kovas)]]
 - [[objektai/zodynas/Lietuviška Lietuva]]
 - [[objektai/paprociai/Rugsėjo 8-osios Tautos šventės ceremonijos]]
+- [[objektai/grupes/Voldemarininkai]]
 - [[objektai/daiktai/Vytauto Didžiojo ir A. Smetonos portretai Tautos šventės metu]]
 - [[objektai/posakiai/„Demokratija Lietuvoje ... tai nupirkti per dideli batai vaikams“]]

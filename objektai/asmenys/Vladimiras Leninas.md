@@ -85,4 +85,3 @@ Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija
 - [[objektai/grupes/Raudonoji armija]]
 - [[objektai/vietos/Sovietų Rusija]]
 - [[objektai/asmenys/V. Leninas]]
-- [[objektai/posakiai/„tautinė pagal formą, socialistinė pagal turinį“]]

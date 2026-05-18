@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 388.
+Objektų skaičius: 391.
 
 ## Kaip naudoti
 
@@ -188,7 +188,9 @@ Objektų skaičius: 388.
 - [Lietuvos vyrų krepšinio rinktinė](../objektai/grupes/Lietuvos%20vyr%C5%B3%20krep%C5%A1inio%20rinktin%C4%97)
 - [Lietuvos šaulių sąjunga](../objektai/grupes/Lietuvos%20%C5%A1auli%C5%B3%20s%C4%85junga)
 - [Maskvos Helsinkio grupė](../objektai/grupes/Maskvos%20Helsinkio%20grup%C4%97)
+- [NKGB](../objektai/grupes/NKGB)
 - [NKVD](../objektai/grupes/NKVD)
+- [Oberostas](../objektai/grupes/Oberostas)
 - [Raudonoji armija](../objektai/grupes/Raudonoji%20armija)
 - [Rusijos Federacija](../objektai/grupes/Rusijos%20Federacija)
 - [SA smogikai](../objektai/grupes/SA%20smogikai)
@@ -196,6 +198,7 @@ Objektų skaičius: 388.
 - [Steigiamasis seimas](../objektai/grupes/Steigiamasis%20seimas)
 - [Tautos taryba](../objektai/grupes/Tautos%20taryba)
 - [Tautų Sąjunga](../objektai/grupes/Taut%C5%B3%20S%C4%85junga)
+- [Voldemarininkai](../objektai/grupes/Voldemarininkai)
 - [Šiaurės Atlanto sutarties organizacija](../objektai/grupes/%C5%A0iaur%C4%97s%20Atlanto%20sutarties%20organizacija)
 - [Šiaurės Atlanto sutarties organizacija (NATO)](../objektai/grupes/%C5%A0iaur%C4%97s%20Atlanto%20sutarties%20organizacija%20%28NATO%29)
 - [Žydai](../objektai/grupes/%C5%BDydai)

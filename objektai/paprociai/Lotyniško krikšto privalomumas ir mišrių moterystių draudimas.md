@@ -103,6 +103,3 @@ Nenurodyta
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/Jogaila]]

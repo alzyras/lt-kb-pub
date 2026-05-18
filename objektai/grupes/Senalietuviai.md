@@ -58,3 +58,10 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Jaunalietuviai]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuvos Respublika]]
+- [[objektai/vietos/Vidurinė Lietuva]]

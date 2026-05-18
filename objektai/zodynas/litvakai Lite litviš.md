@@ -38,7 +38,7 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
   santrauka: 'Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį „Lite“, o save – „litvakais“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Visą istorinės Lietuvos laiko-
+    Lietuvos vardas tapo ir žydų savastimi. Visą istorinės Lietuvos laiko-
     tarpį joje gyvenę žydai vadino šią šalį „Lite“, o save – „litvakais“. Taigi
     Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioji Ku-
     nigaikštija.
@@ -53,7 +53,10 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
   santrauka: 'O kai kas priduria – ir… Izraelis, nes, kuriant šią valstybę, reikšmingiausius vaidmenis suvaidino iš šios erdvės kilę žydai, vadinęsi litvakais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    O
+    kita, kaip ATR ir LDK erdvė, vadinasi, „Rusijos žydai“ – tai LDK – Lietu-
+    vos, Baltarusijos, Ukrainos ir Lenkijos – žydai.
+    Kad ir kaip ten būtų, bet kaip tik šioje erdvėje gimė keturios moder-
+    niosios Naujųjų laikų valstybės: Lenkija, Lietuva, Baltarusija, Ukraina. O
     kai kas priduria – ir… Izraelis, nes, kuriant šią valstybę, reikšmingiausius
     vaidmenis suvaidino iš šios erdvės kilę žydai, vadinęsi litvakais.
   citata_rodoma: ''
@@ -67,7 +70,8 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
   santrauka: 'Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai – pradėti laikyti ypač iškiliais žydais, besiskiriančiais nuo kitų griežtu religinės tradicijos laikymusi, intelektualiu racionalumu ir pagarba išsimokslinimui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Be to, Talmudas buvo studijuojamas
+    Ne veltui sklido gandai, kad visi Vilniaus išminčiai atminti-
+    nai mokėjo visus 64 Talmudo tomus. Be to, Talmudas buvo studijuojamas
     jidiš kalbos tarme, susiformavusia Lietuvoje ir vadinama litviš. Maža to,
     ilgainiui būtent litviš tarmė tapo norminės jidiš kalbos pagrindu.
   citata_rodoma: ''
