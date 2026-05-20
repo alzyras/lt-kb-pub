@@ -29,7 +29,10 @@ Išplaukęs Vysla į jūrą, jis priplaukė krantą Priegliaus žiotyse.
   santrauka: 'Išplaukęs Vysla į jūrą, jis priplaukė krantą Priegliaus žiotyse.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Išplaukęs Vysla į jūrą,
+    Ten pagyvenęs kelerius metus benediktinų vienuolyne ir
+    negalėdamas grįžti į savo vyskupiją, jis išsirengė misijų į Euro-
+    pos šiaurę. Atvykęs pas Lenkų kunigaikštį Boleslovą Narsųjį,
+    gavo apsaugą ir išvyko į aisčių kraštą. Išplaukęs Vysla į jūrą,
     jis priplaukė krantą Priegliaus žiotyse.
   citata_rodoma: ""
   teiginio_tipas: faktas

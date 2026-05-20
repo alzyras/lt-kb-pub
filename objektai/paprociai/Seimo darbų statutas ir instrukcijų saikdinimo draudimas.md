@@ -82,7 +82,9 @@ Nenurodyta
     Kadangi anksčiau daug seimų iširdavo
     dėl to, kad atstovai seimeliuose būdavo saikdinami griežtai lai-
     kytis instrukcijų, tai šitokios priesaikos dabar buvo uždraustos.
-    Be to, netiesiogiai buvo apribotas ir _liberum veto._
+    Be to, netiesiogiai buvo apribotas ir _liberum veto._ Priimant
+    seimo tvarkos įstatymą, _veto_ panaikinimui pasipriešino Rusų
+    atstovas Repninas.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

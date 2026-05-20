@@ -33,7 +33,7 @@ tags:
 
 ## Teiginiai
 - t-003
-  teiginys: 'Ši frazė yra Vytauto atsakymas reikalavimui išduoti Tochtamišą.'
+  teiginys: 'Vytautas atsakė Timūr-Kutluko pasiuntiniams, kad Tochtamišo neišduos ir su Timūr-Kutluku nori matytis pats.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -47,7 +47,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Ši frazė yra Vytauto atsakymas reikalavimui išduoti Tochtamišą.'
+  santrauka: 'Vytautas atsakė Timūr-Kutluko pasiuntiniams, kad Tochtamišo neišduos ir su Timūr-Kutluku nori matytis pats.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Greičiausiai Vytauto

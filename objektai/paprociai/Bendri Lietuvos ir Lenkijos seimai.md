@@ -36,13 +36,13 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Buvo sušaukta nemaža bendrų seimų, tačiau jie, nieko neišsprendę, pasibaigdavo gana triukšmingai, ir abi pusės, nepatenkintos Kazimieru, grasino jį pašalinti.'
+  teiginys: 'Bendri Lietuvos ir Lenkijos seimai dažnai nieko neišspręsdavo ir pasibaigdavo triukšmingai.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Kartais lietuviams Lenkijoje būdavo pavojinga net pasirodyti, ir į vieną seimą (Parčavoj) jie sutiko nuvažiuoti tik tada, kai Kazimieras pats atvyko nuo pat sienos jų palydėti (1451 m.).'
+  teiginys: '1451 m. į Parčavos seimą lietuviai sutiko vykti tik tada, kai Kazimieras atvyko nuo sienos jų palydėti.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -62,7 +62,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Buvo sušaukta nemaža bendrų seimų, tačiau jie, nieko neišsprendę, pasibaigdavo gana triukšmingai, ir abi pusės, nepatenkintos Kazimieru, grasino jį pašalinti.'
+  santrauka: 'Bendri Lietuvos ir Lenkijos seimai dažnai nieko neišspręsdavo ir pasibaigdavo triukšmingai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Buvo sušaukta nemaža
@@ -80,10 +80,12 @@ Nenurodyta
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Kartais lietuviams Lenkijoje būdavo pavojinga net pasirodyti, ir į vieną seimą (Parčavoj) jie sutiko nuvažiuoti tik tada, kai Kazimieras pats atvyko nuo pat sienos jų palydėti (1451 m.).'
+  santrauka: '1451 m. į Parčavos seimą lietuviai sutiko vykti tik tada, kai Kazimieras atvyko nuo sienos jų palydėti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Kartais lietuviams Lenkijoje būdavo pavojinga net pasi-
+    Lietuviai irgi atsi-
+    kirsdavo aštriais žodžiais ir demonstratyviai išvažiuodavo na-
+    mo. Kartais lietuviams Lenkijoje būdavo pavojinga net pasi-
     rodyti, ir į vieną seimą (Parčavoj) jie sutiko nuvažiuoti tik tada,
     kai Kazimieras pats atvyko nuo pat sienos jų palydėti (1451 m.).
     Tame pat seime dalis Lietuvos ponų, pasipiktinusių lenkais, grą-
@@ -99,7 +101,12 @@ Nenurodyta
   santrauka: 'Susitarimu siekta įkurti jungtinę valstybę su bendru seimu, bendra valdovo rinkimo vieta, bendra apsauga ir bendrais pinigais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Šiuo susita-
+    Lenkų reikalaujami, jie sutiko pasirašyti naują aktą,
+    normuojantį Lietuvos ir Lenkijos santykius; juo turėjo įvykti
+    tikroji valstybių unija. Naują susitarimą patvirtino trys doku-
+    mentai: tame pačiame Petrakavos seime lenkai ir lietuvių de-
+    legatai susikeitė dokumentais, o kiek vėliau Melnike tą susita-
+    rimą atskiru dokumentu patvirtino Aleksandras. Šiuo susita-
     rimu buvo norima įkurti viena jungtinė valstybė, kuri turė-
     tų bendrą seimą, bendrai vienoje vietoje
     rinktąjį valdovą, bendrą apsaugą ir bendrus
@@ -131,4 +138,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/posakiai/Kad būtų viena tauta, viena visuomenė, viena brolija (fraternitas) ir bendri seimai]]
 - [[objektai/zodynas/Personalinė unija]]

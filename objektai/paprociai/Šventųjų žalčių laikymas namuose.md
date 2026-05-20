@@ -50,7 +50,7 @@ Nenurodyta
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-004
-  teiginys: 'Pagarba žalčiams kai kur išliko vėliau, o miškų ir pamiškių senose trobose dar neseniai buvo laikomi žalčiai.'
+  teiginys: 'XX a. pradžioje pagarba žalčiams kai kur dar buvo išlikusi, o miškų ir pamiškių senose trobose neseniai tebebuvo laikomi žalčiai.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -75,10 +75,12 @@ Nenurodyta
   pagrindžia:
     - t-003
 - c-002
-  santrauka: 'Pagarba žalčiams kai kur išliko vėliau, o miškų ir pamiškių senose trobose dar neseniai buvo laikomi žalčiai.'
+  santrauka: 'XX a. pradžioje pagarba žalčiams kai kur dar buvo išlikusi, o miškų ir pamiškių senose trobose neseniai tebebuvo laikomi žalčiai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Šita pagarba žalčiams tebėra kai kur išlikusi
+    Į paskirtą guolį jie
+    būdavo įvedami su tam tikromis apeigomis ir ten buvo laikomi,
+    kaip namų globėjai. Šita pagarba žalčiams tebėra kai kur išlikusi
     dar ir dabar. Dar visai neseniai miškų ir pamiškių senose tro-
     bose buvo laikomi žalčiai.
   citata_rodoma: ""

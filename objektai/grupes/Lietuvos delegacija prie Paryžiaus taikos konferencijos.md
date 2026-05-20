@@ -97,5 +97,4 @@ Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiau
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Liepoja]]
 - [[objektai/zodynas/etnografinės ribos etnografinis principas]]

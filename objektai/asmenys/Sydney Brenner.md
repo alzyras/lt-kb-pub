@@ -49,5 +49,4 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Butrimonys]]
 - [[objektai/asmenys/Gertrude Ellion]]

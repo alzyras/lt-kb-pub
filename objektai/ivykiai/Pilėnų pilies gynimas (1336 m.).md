@@ -61,6 +61,9 @@ Pilėnų gynėjai pasirinko žūtį ugnyje vietoj pasidavimo vokiečiams.
   santrauka: '1336 m. kunigaikščio Margio vadovaujami Pilėnų gynėjai pasirinko žūti ugnyje, o ne pasiduoti vokiečiams.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Bet giliau į kraštą įsibrauti ordinui vis dėlto nepasisekė,
+    nors ir dažnai jis susilaukdavo svečių iš Europos ir suruošdavo
+    didelių žygių: lietuviai didvyriškai gynėsi savo pilyse.
     Iš šito laikotarpio yra žinomas ir Pilėnų pilies gynimas.
     Kunigaikščio Margio vadovaujami lietuviai, kai matėsi nebeapsi-
     ginsią, bemeilijo žūti ugny, negu pasiduoti vokiečiams (1336 m.).
@@ -75,3 +78,6 @@ Pilėnų gynėjai pasirinko žūtį ugnyje vietoj pasidavimo vokiečiams.
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
+
+### Susiję objektai
+- [[objektai/posakiai/Bemeilijo žūti ugny, negu pasiduoti vokiečiams]]

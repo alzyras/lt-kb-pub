@@ -38,7 +38,7 @@ tags:
 
 ## Teiginiai
 - t-002
-  teiginys: 'Ši frazė yra Sausio 13-osios gynėjų solidarumo ir fizinio pasipriešinimo šūksnis.'
+  teiginys: 'Bokšto gynėjams esant mažiau, žmonės sušuko: „Vyrai, susikibkim rankom ir sudarykim grandinę“.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -46,7 +46,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Ši frazė yra Sausio 13-osios gynėjų solidarumo ir fizinio pasipriešinimo šūksnis.'
+  santrauka: 'Bokšto gynėjams esant mažiau, žmonės sušuko: „Vyrai, susikibkim rankom ir sudarykim grandinę“.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Čia bokšto

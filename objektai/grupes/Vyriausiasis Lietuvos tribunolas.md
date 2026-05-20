@@ -21,7 +21,7 @@ Bet pagaliau, kai Steponas Batoras, ruošdamasis į karą prieš Maskvą (1578 m
 
 ## Teiginiai
 - t-001
-  teiginys: 'Steponui Batorui 1578 m. Lenkijoje įkūrus bajorijos renkamą tribunolą, netrukus toks tribunolas buvo įsteigtas ir Lietuvoje.'
+  teiginys: 'Po Stepono Batoro 1578 m. Lenkijoje įkurto bajorijos renkamo tribunolo toks tribunolas netrukus buvo įsteigtas ir Lietuvoje.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -32,19 +32,16 @@ Bet pagaliau, kai Steponas Batoras, ruošdamasis į karą prieš Maskvą (1578 m
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: 'Tribunole pirmininkaudavo iš tų pačių deputatų renkamas pirmininkas, vadinamas tribunolo maršalka.'
-  pagrindžia:
-    - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Steponui Batorui 1578 m. Lenkijoje įkūrus bajorijos renkamą tribunolą, netrukus toks tribunolas buvo įsteigtas ir Lietuvoje.'
+  santrauka: 'Po Stepono Batoro 1578 m. Lenkijoje įkurto bajorijos renkamo tribunolo toks tribunolas netrukus buvo įsteigtas ir Lietuvoje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Gana ilgą laiką bajorija čia nieko nelaimėjo. Bet pagaliau,
+    Be to, ji reika-
+    lavo, kad didysis kunigaikštis atsisakytų ir nuo apeliacinių
+    teismų, kaip kad atsisakė nuo žemesniųjų, ir paliktų juos bajo-
+    rijai. Gana ilgą laiką bajorija čia nieko nelaimėjo. Bet pagaliau,
     kai Steponas Batoras, ruošdamasis į karą prieš Maskvą (1578 m.),
     atsisakė nuo savo teismų ir įkūrė pačios bajorijos renkamą tri-
     bunolą Lenkijoje, tai netrukus tas pats buvo padaryta ir
@@ -76,24 +73,3 @@ Bet pagaliau, kai Steponas Batoras, ruošdamasis į karą prieš Maskvą (1578 m
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Tribunole pirmininkaudavo iš tų pačių deputatų renkamas pirmininkas, vadinamas tribunolo maršalka.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tribunole pirmininkaudavo iš tų pačių deputatų renkamas
-    pirmininkas, vadinamas tribunolo maršalka. Bylos bū-
-    davo sprendžiamos balsų dauguma. O bajorijos byloms su
-    dvasininkais būdavo sudaromas mišrasis teismas, arba
-    dvasiškasis tribunolas, į kurį įeidavo 4 vyskupijų
-    kapitulų skiriami kunigai ir 6 tribunolo deputatai.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/paprociai/Vyriausiojo Lietuvos tribunolo teisėjų rinkimas seimeliuose]]

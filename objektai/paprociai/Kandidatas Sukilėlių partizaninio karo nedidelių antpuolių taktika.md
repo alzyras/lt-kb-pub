@@ -68,5 +68,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Antanas Mackevičius]]
 - [[objektai/paprociai/Kandidatas 52 Sukilėlių partizaninio karo nedidelių antpuolių taktika]]

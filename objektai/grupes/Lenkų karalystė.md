@@ -6,6 +6,17 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1936'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - grupe
@@ -32,7 +43,11 @@ tags:
   santrauka: 'Liublino unijos akte Lenkų karalystė ir Didžioji Lietuvos kunigaikštystė apibūdintos kaip viena bendra valstybė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    „Didžioji Lietuvos kunigaikštystė
+    Tuo būdu pasikeitė tiktai rolės: anksčiau
+    lietuvių išsirinktąjį valdovą rinkdavosi ir lenkai, dabar priešin-
+    gai — lenkų išsirinktąjį valdovą rinkdavosi ir lietuviai.
+    Liublino unijos dėsniai. Unijos akto § 3-me išreikšta
+    visa jo autorių lenkų idėja: „Didžioji Lietuvos kunigaikštystė
     ir Lenkų karalystė yra vienas nedalomas ir vienalytis kūnas, o
     taip pat ne skirtinga, bet viena bendra valstybė, kuri iš dviejų
     valstybių ir dviejų tautų suėjo ir susijungė į vieną visuomenę".
@@ -43,3 +58,8 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

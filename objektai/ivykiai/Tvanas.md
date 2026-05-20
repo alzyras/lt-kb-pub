@@ -59,3 +59,7 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
+
+### Susiję objektai
+- [[objektai/grupes/Saksų dinastija]]
+- [[objektai/posakiai/„tvanas“]]

@@ -66,15 +66,9 @@ J. Jakštas minimas kaip istorikas ir autorius; šiame tome jis siejamas su Voki
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-005
-  teiginys: 'J. Jakštas parašė „Naujausi Gedimino dinastijos kilmės tyrinėjimai“ ir su I. Jonynu paskelbė straipsnį „Gediminas“.'
-  pagrindžia:
-    - c-004
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-006
   teiginys: 'J. Jakštas paskelbė darbus „Dlugošas apie Žalgirio mūšį“ ir „Žalgirio mūšis“.'
   pagrindžia:
-    - c-005
+    - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 
@@ -83,6 +77,8 @@ J. Jakštas minimas kaip istorikas ir autorius; šiame tome jis siejamas su Voki
   santrauka: 'J. Jakštas yra veikalo Vokiečių Ordinas ir Lietuva Vytenio ir Gedimino metu autorius.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
+    Tekstai. Kaunas (Lietuvos Istorijos
+    Draugijos leidinys) 1941.
     JakG = Jakštas, J. : Vokiečių Ordinas ir Lietuva Vytenio ir Gedi­
     mino metu, Senovė 1, p. 124-155 ; Senovė 2, p. 3-59.
   citata_rodoma: ""
@@ -116,6 +112,10 @@ J. Jakštas minimas kaip istorikas ir autorius; šiame tome jis siejamas su Voki
   santrauka: 'J. Jakštas Gedimino laiškus laikė glaudaus rygiečių ir Gedimino politinio veikimo produktu.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
+    Kadangi dėl tų laiškų autentiškumo ginčas tebesitęsia nuo pat
+    jų atsiradimo iki šiol, yra susidariusi gausi literatūra. Daugumoje
+    vokiečiai (C. Dreyer, J. Voigt, K. Forstreuter ir kt.) tuos laiškus
+    tarė esant rygiečių falsifikatais, arba bent stipriai įtartinais. Lenkai
     ir lietuviai (T. Narbutas, A. Prochaska, K. Chodynicki, H. Pasz­
     kiewicz ir kt.) gynė jų autentiškumą, arba laikė juos glaudaus
     rygiečių ir Gedimino politinio veikimo produktu (J. Jakštas, Z.
@@ -128,24 +128,10 @@ J. Jakštas minimas kaip istorikas ir autorius; šiame tome jis siejamas su Voki
   pagrindžia:
     - t-004
 - c-004
-  santrauka: 'J. Jakštas parašė „Naujausi Gedimino dinastijos kilmės tyrinėjimai“ ir su I. Jonynu paskelbė straipsnį „Gediminas“.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    — Jakštas, J. : JakG, I, 127-135 ; II, 5-59 p. — (”) _Naujausi Gedimino
-    dinastijos kilmės tyrinėjimai,_ LP, I, 1, 1940, 29-56 p. — Jonynas, I. ir
-    Jakštas, J. : _Gediminas,_ LE, t. 7, 62-70 p.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-005
-- c-005
   santrauka: 'J. Jakštas paskelbė darbus „Dlugošas apie Žalgirio mūšį“ ir „Žalgirio mūšis“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Jakštas, J. : _Dlugošas apie Žalgirio
+    — Jakštas, J. : _Dlugošas apie Žalgirio
     mūšį,_ TaPr, I, 2, 1960, 165-181 p. — (”) _Žalgirio mūšis,_ LE, t. 35,
     158-163 p. — Jučas, M. : _Žalgirio mūšis,_ Vilnius 1959. — (”) _Žalgirio
     mūšis,_ rinkiny : LKaKr, 1964. — Jurgėla, C. R. : _Tannenberg_ ( _Eglija-
@@ -156,8 +142,13 @@ J. Jakštas minimas kaip istorikas ir autorius; šiame tome jis siejamas su Voki
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-006
+    - t-005
 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
+
+### Susiję objektai
+- [[objektai/autoriai/A. Prochaska]]
+- [[objektai/autoriai/Jakštas, J]]
+- [[objektai/autoriai/K. Chodynicki]]

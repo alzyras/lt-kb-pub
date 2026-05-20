@@ -52,7 +52,8 @@ Nenurodyta
     liuterionys; tik didelė dalis smulkbajorių tuomet tebuvo katalikai,
     (liaudies nusistatymo niekas tada nepaisė: kokį kunigą savo
     bažnyčioj pastatydavo ponas, tokio tikėjimo turėdavo būti ir bau-
-    džiauninkai).
+    džiauninkai). Labai maža tuomet buvo belikę katalikų kunigų,
+    o dar mažiau jų mokėjo lietuviškai.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -64,4 +65,3 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/didikas]]
-- [[temos/tikėjimas]]

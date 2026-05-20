@@ -85,7 +85,6 @@ Sovietmečiu Kryžių kalnas tapo tikėjimo laisvės simboliu: valdžiai draudž
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/religinė-praktika]]
-- [[temos/tikėjimas]]
 
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]

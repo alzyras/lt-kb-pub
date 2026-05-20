@@ -54,9 +54,9 @@ Nenurodyta
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Turėję taip pat už šventas tūlas upes, ežerus ir šaltenius, kuriuose svietas, eidamas dievų
-    aukauti ir melstis, mazgojęsis ir prausęsis; dėl kokių priežasčių tą yra daręs, raštuose senovės
-    nėra randama, tiktai žodžiai patys upių, ežerų, šventais ar šventomis vadinamų, šiandien dar tą
-    tebstigavoja^838. Niekšai tenai negalėjo ne vien žvejoti, bet prisiartinti, nepadėjęs savo galvos.
+        aukauti ir melstis, mazgojęsis ir prausęsis; dėl kokių priežasčių tą yra daręs, raštuose senovės
+        nėra randama, tiktai žodžiai patys upių, ežerų, šventais ar šventomis vadinamų, šiandien dar tą
+        tebstigavoja^838. Niekšai tenai negalėjo ne vien žvejoti, bet prisiartinti, nepadėjęs savo galvos.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

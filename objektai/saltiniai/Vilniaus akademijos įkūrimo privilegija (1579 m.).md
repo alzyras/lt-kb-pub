@@ -21,7 +21,7 @@ Privilegiją jėzuitams karalius davė būdamas Lenkijoje. Todėl kai 1578 m. Vi
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vilniaus akademijos įkūrimo privilegiją karalius davė jėzuitams būdamas Lenkijoje.'
+  teiginys: 'Vilniaus akademijos įkūrimo privilegiją karalius suteikė jėzuitams būdamas Lenkijoje.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -31,7 +31,7 @@ Privilegiją jėzuitams karalius davė būdamas Lenkijoje. Todėl kai 1578 m. Vi
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Vilniaus akademijos įkūrimo privilegiją karalius davė jėzuitams būdamas Lenkijoje.'
+  santrauka: 'Vilniaus akademijos įkūrimo privilegiją karalius suteikė jėzuitams būdamas Lenkijoje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Privilegiją** jėzuitams karalius davė būdamas Lenkijoje. Kai

@@ -6,6 +6,17 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1936'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - karas
@@ -21,20 +32,30 @@ Sutartyje caras atsisakė nuo Livonijos, Polocko ir Veližo; jam buvo grąžinti
 
 ## Teiginiai
 - t-001
-  teiginys: '1582 m. paliaubų sutartimi caras atsisakė Livonijos, Polocko ir Veližo, o jam grąžinti tik Didieji Lukai.'
+  teiginys: 'Kristupas Radvila Perkūnas turėjo imituoti įsiveržimą į Rusijos teritoriją tarp Veližo ir Smolensko.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1582 m. paliaubų sutartimi caras atsisakė Livonijos, Polocko ir Veližo, o jam grąžinti tik Didieji Lukai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: 'Kristupas Radvila Perkūnas turėjo imituoti įsiveržimą į Rusijos teritoriją tarp Veližo ir Smolensko.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    1582 m. sausio 15 d. buvo pasirašyta 10 metų karo
-    paliaubos. Sutartyje caras atsisakė nuo Livonijos, Polocko ir
-    Veližo; jam buvo grąžinti tik Didieji Lukai.
+    Pagal S. Batoro planą Lietuvos lauko etmo-
+    nas Kristupas Radvila Perkūnas, iki pagrin-
+    dinėms pajėgoms pradedant žygį į Pskovą,
+    turėjo saugoti pasienį su Rusija ir imituoti
+    įsiveržimą į Rusijos teritoriją tarp Veližo
+    ir Smolensko ir kuo ilgiau išlaikyti įtampą
+    šiame ruože. Jis turėjo žygiuoti Veližo link,
+    iš ten pulti Toropeco ir Bialos pilių apy-
+    linkes, kai pagrindinės pajėgos įsiverš
+    į Rusijos teritoriją šiauriau. K. Radvilai
+    buvo duotas leidimas, susiklosčius palan-
+    kioms aplinkybėms, veržtis giliau į priešo
+    teritoriją.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -47,5 +68,9 @@ Sutartyje caras atsisakė nuo Livonijos, Polocko ir Veližo; jam buvo grąžinti
 ### Teminiai klasteriai
 - [[temos/paliaubos]]
 
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
 ### Susiję objektai
-- [[objektai/vietos/Didieji Lukai]]
+- [[objektai/vietos/Toropecas]]

@@ -45,6 +45,8 @@ Nenurodyta
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Naujojo akmens amžiaus kirvukas su kotu, rastas Kaune.
+    Geležis Lietuvoje pradedama vartoti ne anksčiau, kaip apie
+    500 m. pr. Kr.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

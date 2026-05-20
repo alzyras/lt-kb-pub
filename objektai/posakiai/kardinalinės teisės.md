@@ -19,7 +19,7 @@ Buvo patvirtintos 1768 m. vad. kardinalinės teisės, kurių garantu vėl tapo R
 
 ## Teiginiai
 - t-001
-  teiginys: 'Buvo patvirtintos 1768 m. vad. kardinalinės teisės, kurių garantu vėl tapo Rusija ir jos sąjungininkės.'
+  teiginys: '1768 m. vadinamosios kardinalinės teisės buvo patvirtintos, o jų garantu vėl tapo Rusija ir jos sąjungininkės.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -27,10 +27,11 @@ Buvo patvirtintos 1768 m. vad. kardinalinės teisės, kurių garantu vėl tapo R
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Buvo patvirtintos 1768 m. vad. kardinalinės teisės, kurių garantu vėl tapo Rusija ir jos sąjungininkės.'
+  santrauka: '1768 m. vadinamosios kardinalinės teisės buvo patvirtintos, o jų garantu vėl tapo Rusija ir jos sąjungininkės.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Buvo patvirtintos 1768 m. vad. kardi-
+    Tačiau visi anarchijos
+    pradmenys pasiliko. Buvo patvirtintos 1768 m. vad. kardi-
     nalinės teisės, kurių garantu vėl tapo Rusija ir jos są-
     jungininkės. Jose buvo pakeistas tik vienas kitatikius (disi-
     dentus) lietęs punktas: jų teisės buvo suvaržytos, ir į seimą galėjo

@@ -33,7 +33,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: '1674 m. prancūziškoji partija kandidatu iškėlė savo vadą, hetmoną Joną Sobieskį, kai paaiškėjo, kad Kondės išrinkti nepavyks.'
+  teiginys: 'Prancūziškoji partija kandidatu į sostą iškėlė hetmoną Joną Sobieskį, kai paaiškėjo, kad Kondės išrinkti nepavyks.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -47,10 +47,10 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1674 m. prancūziškoji partija kandidatu iškėlė savo vadą, hetmoną Joną Sobieskį, kai paaiškėjo, kad Kondės išrinkti nepavyks.'
+  santrauka: 'Prancūziškoji partija kandidatu į sostą iškėlė hetmoną Joną Sobieskį, kai paaiškėjo, kad Kondės išrinkti nepavyks.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Kai pasirodė,
+    monu Sobieskiu palaikė Prancūzų kandidatą. Kai pasirodė,
     jog nebus galima išrinkti Kondės, prieš kurio kandidatūrą jau
     keliolika metų kovojo bajorija (Jono Kazimiero ir Mykolo lai-
     kais), tuomet prancūziškoji partija pastatė kandidatu savo vadą

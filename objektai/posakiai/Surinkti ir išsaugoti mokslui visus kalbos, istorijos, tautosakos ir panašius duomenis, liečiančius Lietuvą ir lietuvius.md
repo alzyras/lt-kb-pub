@@ -20,7 +20,7 @@ Draugija savo statuto . 1 įsirašė šitokį darbo tikslą: „Surinkti ir išs
 
 ## Teiginiai
 - t-001
-  teiginys: 'Draugija statuto 1 paragrafe įrašė tikslą surinkti ir išsaugoti mokslui duomenis apie Lietuvos ir lietuvių kalbą, istoriją bei tautosaką.'
+  teiginys: 'Draugija statuto 1 paragrafe įrašė tikslą mokslui surinkti ir išsaugoti kalbos, istorijos, tautosakos ir panašius duomenis apie Lietuvą ir lietuvius.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -34,10 +34,14 @@ Draugija savo statuto . 1 įsirašė šitokį darbo tikslą: „Surinkti ir išs
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Draugija statuto 1 paragrafe įrašė tikslą surinkti ir išsaugoti mokslui duomenis apie Lietuvos ir lietuvių kalbą, istoriją bei tautosaką.'
+  santrauka: 'Draugija statuto 1 paragrafe įrašė tikslą mokslui surinkti ir išsaugoti kalbos, istorijos, tautosakos ir panašius duomenis apie Lietuvą ir lietuvius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Draugija savo sta-
+    Maždaug tuo
+    pat metu (1879 m.) buvo įkurta vokiečių mokslininkų draugija
+    _Litauische Literarische Gesellschaft,_ kurios tikslas buvo ty-
+    rinėti nykstančią lietuvių kultūrą ir jų kalbą. Savo tyrinėjimų
+    rezultatams skelbti ji įsikūrė specialų žurnalą. Draugija savo sta-
     tuto § 1 įsirašė šitokį darbo tikslą: „Surinkti ir išsaugo-
     ti mokslui visus kalbos, istorijos, tautosakos ir panašius
     duomenis, liečiančius Lietuvą ir lietuvius".
@@ -52,7 +56,11 @@ Draugija savo statuto . 1 įsirašė šitokį darbo tikslą: „Surinkti ir išs
   santrauka: 'Draugija nesirūpino kelti lietuvybės, o rinko ir saugojo mokslo reikalams lietuviškosios kultūros palaikus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Taigi ji nesirūpino
+    Savo tyrinėjimų
+    rezultatams skelbti ji įsikūrė specialų žurnalą. Draugija savo sta-
+    tuto § 1 įsirašė šitokį darbo tikslą: „Surinkti ir išsaugo-
+    ti mokslui visus kalbos, istorijos, tautosakos ir panašius
+    duomenis, liečiančius Lietuvą ir lietuvius". Taigi ji nesirūpino
     kelti lietuvybės, o vien tik rinkti ir saugoti mokslo reikalui lie-
     tuviškosios kultūros palaikus.
   citata_rodoma: ""

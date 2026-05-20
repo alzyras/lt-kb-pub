@@ -33,7 +33,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Po keleto mėnesių įvyko sukilimas, vadovaujamas Kosciuškos, kuris pastatė savo valdžią; o netrukus po to buvo atliktas paskutinis Respublikos padalinimas.'
+  teiginys: 'Kosciuškos vadovaujamas sukilimas įvyko po kelių mėnesių, sudarė savo valdžią, o netrukus po jo Respublika buvo galutinai padalyta.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -45,7 +45,7 @@ Nenurodyta
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: 'Kosciuška, norėdamas sukelti valstiečius, išleido atsišaukimų, žadėdamas visiems, prie sukilimo prisidėjusiems, laisvę (tokių atsišaukimų buvo išleistų ir lietuviškų).'
+  teiginys: 'Kosciuška, siekdamas sukelti valstiečius, atsišaukimuose žadėjo laisvę visiems prie sukilimo prisidėjusiems valstiečiams.'
   pagrindžia:
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -53,9 +53,12 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Po keleto mėnesių įvyko sukilimas, vadovaujamas Kosciuškos, kuris pastatė savo valdžią; o netrukus po to buvo atliktas paskutinis Respublikos padalinimas.'
+  santrauka: 'Kosciuškos vadovaujamas sukilimas įvyko po kelių mėnesių, sudarė savo valdžią, o netrukus po jo Respublika buvo galutinai padalyta.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Kariuo-
+    menės buvo palikta 5.000 Lietuvoje ir 10.000 Lenkijoje; likusioji
+    jos dalis arba turėjo pereiti Rusų žiniai arba turėjo būti atleista.
     Bet šita naujoji santvarka neilgai tegyvavo. Po keleto mė-
     nesių įvyko sukilimas, vadovaujamas Kosciuškos, kuris pastatė
     savo valdžią; o netrukus po to buvo atliktas paskutinis Res-
@@ -89,9 +92,13 @@ Nenurodyta
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Kosciuška, norėdamas sukelti valstiečius, išleido atsišaukimų, žadėdamas visiems, prie sukilimo prisidėjusiems, laisvę (tokių atsišaukimų buvo išleistų ir lietuviškų).'
+  santrauka: 'Kosciuška, siekdamas sukelti valstiečius, atsišaukimuose žadėjo laisvę visiems prie sukilimo prisidėjusiems valstiečiams.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Veikiai prie
+    sukilimo prisidėjo ir miestiečiai, kurie Varšuvoje pakorė keletą
+    rusams parsidavusių ponų. Vilniuje buvo nuteistas ir pakartas
+    rusų pastatytas Lietuvos hetmonas Simanas Kasakauskas.
     Kosciuška, norėdamas sukelti valstiečius, išleido atsišau-
     kimų, žadėdamas visiems, prie sukilimo prisidėjusiems, laisvę
     (tokių atsišaukimų buvo išleistų ir lietuviškų).

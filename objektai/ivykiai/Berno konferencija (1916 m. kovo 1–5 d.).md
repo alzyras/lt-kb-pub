@@ -42,7 +42,10 @@ Nenurodyta
   santrauka: '1916 m. kovo 1–5 d. Berno konferencija paskelbė Lietuvos nepriklausomybės šūkį ir lietuvių tautos savarankiškumą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    1916 metų kovo
+    Ypačiai Amerikos lietuvių
+    organizacijų teikiamomis lėšomis tas būrys šelpė lietuvius be-
+    laisvius Vokietijoje ir skleidė žinias apie lietuvių tautą ir jos
+    reikalaujamąsias teises savarankiškai tvarkytis. 1916 metų kovo
     mėn. 1—5 d. Berne sušaukta konferencija, atsižvelgdama į lenkų
     propagandą, savinančiąsi Lietuvą, paskelbė Lietuvos nepri-
     klausomybės šūkį ir lietuvių tautos savarankiškumą.
@@ -57,6 +60,3 @@ Nenurodyta
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
-
-### Susiję objektai
-- [[objektai/vietos/Bernas]]

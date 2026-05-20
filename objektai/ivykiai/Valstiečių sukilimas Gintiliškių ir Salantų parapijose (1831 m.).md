@@ -31,7 +31,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Valstiečių sukilimas Gintiliškių ir Salantų parapijose plačiai išsiplėtė, bet buvo rusų kariuomenės išvaikytas.'
+  teiginys: 'Valstiečių sukilimas Gintiliškių ir Salantų parapijose plačiai išsiplėtė, tačiau rusų kariuomenės išvaikyti sukilėliai pabėgo į Prūsiją.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -39,7 +39,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Valstiečių sukilimas Gintiliškių ir Salantų parapijose plačiai išsiplėtė, bet buvo rusų kariuomenės išvaikytas.'
+  santrauka: 'Valstiečių sukilimas Gintiliškių ir Salantų parapijose plačiai išsiplėtė, tačiau rusų kariuomenės išvaikyti sukilėliai pabėgo į Prūsiją.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ypač plačiai

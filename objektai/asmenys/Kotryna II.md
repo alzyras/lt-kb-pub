@@ -37,7 +37,9 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
   santrauka: 'Kotryna II įvykdė Respublikos padalijimus, kurių metu jos trečdalį turėjo užleisti Prūsijai ir Austrijai.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Nuo «nebylių
+    Tie panašumai, kiek jie lietė vakarų kaimyną
+    Lietuvą, labiausiai krito į akis. Abu rusų valdovai stengėsi savo
+    valstybę stiprinti vakarinio kaimyno sąskaiton. Nuo «nebylių
     seimo » (1717) į tolimą perspektyvą užmestos Petro politikos vaisius
     ir buvo carienės Kotrynos II-sios pravesti padalinimai respublikos,
     kurios trečdalį ji turėjo užleisti Prūsijai ir Austrijai.
@@ -52,6 +54,11 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
   santrauka: 'Kotryna II nurodė Stanislovą Augustą Poniatovskį kaip kandidatą į Respublikos sostą, todėl jis buvo jos statytinis.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
+    Septynerių metų karo (1756-1763) pradžioje carės
+    Elzbietos (1741-1761) generolai traukė į Prūsus su savo pulkais per
+    Aukštaičių, Žemaičių ir Sūduvos žemes lyg per Rusijos imperijos
+    dalį. Reikalui esant, jie vakarinėje Žemaitijoje stovyklavo ir žie­
+    mavojo, prievarta imdami proviantą.
     Paskutinis respublikos karalius Stanislovas Augustas Ponia­
     tovskis bebuvo perdėm carės Kotrynos II-sios nurodytas kandida­
     tas, jos statytinis.
@@ -65,5 +72,4 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Konstantinas]]
 - [[objektai/asmenys/Stanislovas Augustas Poniatauskas]]

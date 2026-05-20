@@ -18,7 +18,7 @@ Netrukus pradėjo eiti „Vienybė Lietuvininkų" ir vargonininko Bačkausko Tam
 
 ## Teiginiai
 - t-001
-  teiginys: 'Bačkausko Tamošausko redaguojama „Saulė“ pradėjo eiti netrukus po „Vienybės Lietuvininkų“.'
+  teiginys: 'Vargonininkas Bačkauskas Tamošauskas redagavo laikraštį „Saulė“, kuris pradėjo eiti netrukus po „Vienybės Lietuvininkų“.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -26,10 +26,13 @@ Netrukus pradėjo eiti „Vienybė Lietuvininkų" ir vargonininko Bačkausko Tam
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Bačkausko Tamošausko redaguojama „Saulė“ pradėjo eiti netrukus po „Vienybės Lietuvininkų“.'
+  santrauka: 'Vargonininkas Bačkauskas Tamošauskas redagavo laikraštį „Saulė“, kuris pradėjo eiti netrukus po „Vienybės Lietuvininkų“.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Netrukus pradėjo eiti „Vienybė Lietuvi-
+    Šią kurį laiką (1884—5 m.) redagavo į Ameriką
+    atvykęs dr. J. Šliūpas. Tačiau, nesutikdamas su lenkams pa-
+    lankia „Unijos" linija, Šliūpas ją metė ir pats ėmė leisti „Lie-
+    tuvišką Balsą". Netrukus pradėjo eiti „Vienybė Lietuvi-
     ninkų" ir vargonininko Bačkausko Tamošausko redaguojamoji
     „Sau1ė", kurios tebeina ir dabar.
   citata_rodoma: ""

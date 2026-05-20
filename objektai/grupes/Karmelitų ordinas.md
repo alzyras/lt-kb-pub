@@ -32,8 +32,15 @@ Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: 
   santrauka: 'Karmelitų ordino vienuoliai Lietuvoje rūpinosi pradžios mokslu kartu su kitų ordinų vienuoliais ir parapijų kunigais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: domininkonai, karmelitai, ber-
+    Tiesa, kur-ne-kur
+    jie įsteigdavo ir pradžios mokyklų (kur turėdavo keletą savo
+    žmonių, bet neturėdavo pakankamai lėšų kolegijai įkurti). Bet
+    galima sakyti, kad tik vidurinis ir aukštasis mokslas Lietuvoje
+    tebuvo jėzuitų rankose. Pradžios mokslu, be parapijų kunigų,
+    dar rūpinosi šių ordinų vienuoliai: domininkonai, karmelitai, ber-
     nardinai, pranciškonai, augustinijonai ir kt. Jų vienuolynų Lie-
+
+
     tuvoje buvo jau gana daug.
   citata_rodoma: ""
   teiginio_tipas: faktas

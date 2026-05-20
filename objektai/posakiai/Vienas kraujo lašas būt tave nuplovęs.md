@@ -44,7 +44,7 @@ Jono Aisčio eilutės reiškia dvi priešpriešines Lietuvos pasipriešinimo for
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-004
-  teiginys: 'Kita Aisčio eilutė „Vienų vienas žodis būt tave apgynęs“ šiame šaltinyje pateikiama kaip priminimas apie neginkluoto pasipriešinimo galimybę.'
+  teiginys: 'Aisčio eilutė „Vienų vienas žodis būt tave apgynęs“ primena, kad priešintis buvo galima protestais ir Vyriausybės pasitraukimu.'
   pagrindžia:
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -71,7 +71,7 @@ Jono Aisčio eilutės reiškia dvi priešpriešines Lietuvos pasipriešinimo for
   pagrindžia:
     - t-003
 - c-002
-  santrauka: 'Kita Aisčio eilutė „Vienų vienas žodis būt tave apgynęs“ šiame šaltinyje pateikiama kaip priminimas apie neginkluoto pasipriešinimo galimybę.'
+  santrauka: 'Aisčio eilutė „Vienų vienas žodis būt tave apgynęs“ primena, kad priešintis buvo galima protestais ir Vyriausybės pasitraukimu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Užmirštama mintimis pereiti ir į kitą Aisčio eilutę - „Vienų
@@ -90,3 +90,7 @@ Jono Aisčio eilutės reiškia dvi priešpriešines Lietuvos pasipriešinimo for
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/posakiai/Vienas kraujo lašas būt tave nuplovęs Vienų vienas žodis būt tave apgynęs]]

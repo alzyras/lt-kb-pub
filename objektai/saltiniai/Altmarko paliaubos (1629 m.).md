@@ -19,7 +19,7 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: '1629 m. padarytos Altmarko paliaubos baigėsi 1635 m., tad reikėjo arba ruoštis naujam karui arba rūpintis pratęsti paliaubas.'
+  teiginys: '1629 m. sudarytos Altmarko paliaubos baigėsi 1635 m., todėl reikėjo ruoštis naujam karui arba rūpintis jų pratęsimu.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -29,10 +29,13 @@ tags:
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: '1629 m. padarytos Altmarko paliaubos baigėsi 1635 m., tad reikėjo arba ruoštis naujam karui arba rūpintis pratęsti paliaubas.'
+  santrauka: '1629 m. sudarytos Altmarko paliaubos baigėsi 1635 m., todėl reikėjo ruoštis naujam karui arba rūpintis jų pratęsimu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    1629 m. padarytos
+    **Švedijos sosto klausimas.**
+    Vos padarius taiką su Mask-
+    va, teko rūpintis santykiais su
+    Švedija. 1629 m. padarytos
     Altmarko paliaubos baigėsi
     1635 m., tad reikėjo arba ruoš-
     tis naujam karui arba rūpintis

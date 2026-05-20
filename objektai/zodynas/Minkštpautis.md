@@ -30,8 +30,7 @@ Papildomos aiškios formos neišskirtos.
   santrauka: '`Minkštpautis` šiame tekste reiškia nevyrišką, lepną ar silpną žmogų.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
-    lepnų^385 ir neskudrų: „Merga, – sako, – ne vyras, minkštpautis“ arba: „Veršis nelaižytas, mulkis
-    arba molakis^386 “, arba: „Dantis praėdęs, proto neįgavęs, molio motiejus.“
+    lepnų^385 ir neskudrų: „Merga, – sako, – ne vyras, minkštpautis“ arba: „Veršis nelaižytas, mulkis arba molakis^386 “, arba: „Dantis praėdęs, proto neįgavęs, molio motiejus.“
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

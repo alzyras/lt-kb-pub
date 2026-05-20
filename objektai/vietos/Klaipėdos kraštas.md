@@ -16,6 +16,7 @@ periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
   - 'modernioji Lietuva'
 amziai:
+  - 'XII'
   - 'XX'
   - 'XXI'
 date_start: '1919'
@@ -38,5 +39,6 @@ Bet kadangi tada Lietuvos likimas formaliai dar nebuvo išspręstas, tai tas ats
 
 ## Ryšiai
 ### Laikotarpiai
+- [[laikotarpiai/XII amžius]]
 - [[laikotarpiai/XX amžius]]
 - [[laikotarpiai/XXI amžius]]

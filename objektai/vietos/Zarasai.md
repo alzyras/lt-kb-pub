@@ -6,6 +6,17 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1936'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - vieta
@@ -19,22 +30,23 @@ Ukmergėje, Zarasuose, Kėdainiuose ir Jurbarke buvo pastatytos naujos cerkvės,
 
 ## Teiginiai
 - t-001
-  teiginys: 'Zarasuose buvo pastatyta viena iš naujų cerkvių.'
+  teiginys: '1 brigadai užėmus Zarasus, puolimas tęsėsi toliau.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Zarasuose buvo pastatyta viena iš naujų cerkvių.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: '1 brigadai užėmus Zarasus, puolimas tęsėsi toliau.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Kauno buvusi jėzuitų bažnyčia, Panevėžio ir Raseinių
-    pijarų bažnyčios buvo paverstos cerkvėmis. Ukmergėje, Za-
-    rasuose, Kėdainiuose ir Jurbarke buvo pastatytos naujos cerk-
-    vės, o Pažaislio vienuolyne apsigyveno pravoslavų vyskupas
-    — archieriejus.
+    1 brigadai užėmus Zarasus,
+    puolimas tęsėsi toliau. Į ope-
+    raciją įsitraukė ir II brigada. Ji
+    Šiaurės Rytų Lietuvoje įveik-
+    dama vis dar atkaklų bolševikų
+    pasipriešinimą, ypač darniai
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -44,5 +56,6 @@ Ukmergėje, Zarasuose, Kėdainiuose ir Jurbarke buvo pastatytos naujos cerkvės,
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/archieriejus]]
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

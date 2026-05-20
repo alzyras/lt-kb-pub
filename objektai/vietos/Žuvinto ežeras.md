@@ -8,18 +8,23 @@ variantai:
 aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+datos:
+  - '1945 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'okupacijų ir sovietmečio laikotarpis'
+periodo_grupes:
+  - 'XX a.'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1945'
+date_end: '2026'
 bukle: 'juodrastis'
 laikotarpis: ''
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
 vaidmenys: []
 dalyviai: []
 susije_irasai:
-  - '[[Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]'
 patikimumas: 'vidutinis'
 tags: []
 ---
@@ -35,47 +40,21 @@ tags: []
 
 ## Teiginiai
 - t-004
-  teiginys: 'Žuvinto ežerą ir Palias buvo apsupę šarvuočiai, o lėktuvai raketų šūviais nurodydavo įtartinas ežero vietas.'
-  pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-005
-  teiginys: '1945 m. liepos 13 d. prie Žuvinto ežero Dzūkų būrio partizanai susidūrė su NKVD kareiviais ir stribais.'
+  teiginys: '1945 m. rugpjūčio pradžioje Žuvinto ežerą ir Palias apsupo šarvuočiai, o lėktuvai raketomis rodė įtartinas ežero vietas.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-006
-  teiginys: 'Per Žuvinto ežerą enkavėdistai plaukė iš kluonų durų pasidarytais plaustais.'
+- t-005
+  teiginys: 'Pritrūkę valčių, enkavėdistai per Žuvinto ežerą plaukė kluonų durimis, naudodami jas kaip plaustus.'
   pagrindžia:
-    - c-003
+    - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1945 m. liepos 13 d. prie Žuvinto ežero Dzūkų būrio partizanai susidūrė su NKVD kareiviais ir stribais.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    vadas Vladas Gavėnas-Tarzanas bei lais-
-    vės kovotojai Vincas Boruta-Žvalgas ir
-    Sigitas Melnykas-Portas. Tų pačių metų
-    liepos 13 d., grįždami iš žygio, Dzūkų būrio
-    partizanai prie Žuvinto ežero susidūrė su
-    pasaloje laukusiais NKVD kareiviais ir vie-
-    tiniais stribais. Tuomet žuvo partizanas
-    Jurgis Krušinskas, Juozas Remeikis-Lokys
-    vėliau mirė nuo sužeidimų.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-005
-- c-002
-  santrauka: 'Žuvinto ežerą ir Palias buvo apsupę šarvuočiai, o lėktuvai raketų šūviais nurodydavo įtartinas ežero vietas.'
+  santrauka: '1945 m. rugpjūčio pradžioje Žuvinto ežerą ir Palias apsupo šarvuočiai, o lėktuvai raketomis rodė įtartinas ežero vietas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1945 m. rugpjūčio mėnesio pačioje pra-
@@ -93,8 +72,8 @@ tags: []
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
-- c-003
-  santrauka: 'Per Žuvinto ežerą enkavėdistai plaukė iš kluonų durų pasidarytais plaustais.'
+- c-002
+  santrauka: 'Pritrūkę valčių, enkavėdistai per Žuvinto ežerą plaukė kluonų durimis, naudodami jas kaip plaustus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     patikrinti. Pritrūkus valčių, enkavėdistai
@@ -108,8 +87,12 @@ tags: []
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-006
+    - t-005
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
 ### Susiję objektai
-- [[objektai/ivykiai/Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]
+- [[objektai/vietos/Aleknonių kaimas]]

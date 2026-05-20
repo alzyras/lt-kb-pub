@@ -32,6 +32,8 @@ Vytautas susitiko su totoriais prie Vorsklos upės ir skaudžiai pralaimėjo mū
   santrauka: 'Vytautas susitiko su totoriais prie Vorsklos upės ir skaudžiai pralaimėjo mūšį: žuvo trys ketvirčiai jo kariuomenės ir daugybė kunigaikščių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Kryžiuočiai irgi ėjo po jo vėliava (o kaip dar ne-
+    seniai tokie pat kryžiaus žygiai buvo ruošiami prieš Lietuvą!).
     Vytautas susitiko su totoriais prie Vorsklos upės ir skau-
     džiai pralaimėjo mūšį: žuvo trys ketvirčiai jo kariuomenės ir dau-
     gybė kunigaikščių.
@@ -42,7 +44,3 @@ Vytautas susitiko su totoriais prie Vorsklos upės ir skaudžiai pralaimėjo mū
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/upė]]

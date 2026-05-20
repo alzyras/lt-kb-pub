@@ -80,7 +80,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Lietuvos komunistų partija]]
-- [[objektai/zodynas/aneksija]]
 - [[objektai/zodynas/liaudies priešai]]
 - [[objektai/posakiai/„asmenys, kurie nebalsuos, yra liaudies priešai“]]

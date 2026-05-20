@@ -30,6 +30,10 @@ Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.
   santrauka: 'Lietuvos seimas liepos 30 d. ratifikavo konvenciją.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Ket-
+    virtoji dalis liečia tranzitą upe ir geležinkeliais. Pagaliau
+    penktoje dalyje signatarai apsiima pripažinti po ratifikacijos
+    teisėtais Lietuvos vyriausybės aktus, kuriais ji palaikė tvarką šalyje.
     Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.
   citata_rodoma: ""
   teiginio_tipas: faktas

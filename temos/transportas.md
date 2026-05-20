@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 8.
+Objektų skaičius: 14.
 
 ## Kaip naudoti
 
@@ -18,16 +18,24 @@ Objektų skaičius: 8.
 
 ## Susiję objektai
 
+### Asmenys
+- [[objektai/asmenys/Edigėjus]]
+- [[objektai/asmenys/J. Juška]]
+- [[objektai/asmenys/Stanislovas Kiška]]
+
 ### Daiktai
 - [[objektai/daiktai/ANBO lėktuvai]]
 - [[objektai/daiktai/Gardino ekonomijos manufaktūrų gaminiai]]
+- [[objektai/daiktai/Geležinėmis grandinėmis kaustyti vežimai]]
+- [[objektai/daiktai/Kablinis šautuvas]]
 - [[objektai/daiktai/Kūlgrindos]]
 - [[objektai/daiktai/Laivai]]
 - [[objektai/daiktai/Sovietų tankai ir šarvuočiai]]
 
-### Papročiai
-- [[objektai/paprociai/Seimelių mobilizavimas per puotas, plikbajorius ir instrukcijas]]
+### Vietos
+- [[objektai/vietos/Braginas]]
 
 ### Žodynas
 - [[objektai/zodynas/buožės darbo valstiečiai]]
-- [[objektai/zodynas/ratininkas]]
+- [[objektai/zodynas/gurguolė]]
+- [[objektai/zodynas/Savanoris]]

@@ -42,3 +42,8 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Ypatingasis SD būrys Vilniuje]]
+- [[objektai/zodynas/zonderkomanda]]

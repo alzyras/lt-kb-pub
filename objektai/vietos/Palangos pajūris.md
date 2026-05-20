@@ -29,7 +29,13 @@ Tik Palangos pajūris (nuo Šventosios) ir kai kurios Pakuršės lietuviškos so
   santrauka: 'Palangos pajūris nuo Šventosios buvo priskirtas prie Lietuvos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tik Palangos pajūris (nuo Šven-
+    kadangi ji nesutapo su etnografine lietuvių siena, tai pradžioje
+    čia pasitaikydavo nesusipratimų. Visiems neaiškumams likvi-
+    duoti 1921 m. buvo sudarytos specialios abiejų pusių komisijos
+    (lietuvių komisijai pirmininkavo pirmasis ir dabartinis prezi-
+    dentas A. Smetona), kurios savo konferencijose, tarpininkaujant
+    škotui prof. Simpsonui, išvedė sieną, nedaug tenutoldamos nuo
+    buvusios gubernijos sienos. Tik Palangos pajūris (nuo Šven-
     tosios) ir kai kurios Pakuršės lietuviškos sodybos, buvusios
     Kuršo gubernijoje, buvo priskirtos prie Lietuvos, o Žiemgalos
     pasieny prie Latvijos buvo priskirti kai kurie buvusios Kauno
@@ -44,5 +50,5 @@ Tik Palangos pajūris (nuo Šventosios) ir kai kurios Pakuršės lietuviškos so
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kuršo gubernija]]
 - [[objektai/vietos/Pakuršė]]
+- [[objektai/autoriai/prof. Simpsonas]]

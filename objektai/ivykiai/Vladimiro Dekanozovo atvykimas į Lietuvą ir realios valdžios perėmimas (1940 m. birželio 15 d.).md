@@ -77,5 +77,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Lietuvos komunistų partija]]
 - [[objektai/zodynas/polpredas]]

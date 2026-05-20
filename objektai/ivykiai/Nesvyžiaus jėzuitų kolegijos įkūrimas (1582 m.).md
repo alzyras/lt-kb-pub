@@ -41,6 +41,10 @@ Nenurodyta
   santrauka: 'Mikalojus Kristupas Radvila Našlaitėlis 1582 m. Nesvyžiuje, buvusiame kalvinų centre, įkūrė jėzuitų kolegiją.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    jau po laimingųjų Stepono Batoro karų su Maskva, kai buvo atsi-
+    imtas Polockas ir įsistiprinta Livonijoje, jėzuitų kolegijos buvo
+    įkurtos ir Polocke, ir Rygoje ir Tartuose _(Dorpate)._ Mat, reikėjo
+    stiprios katalikybės atramos tuose nekatalikiškuose kraštuose.
     Tuo metu Mikalojus Kristupas Radvila, vad. Našlaitėlis, įkūrė jė-
     zuitų kolegiją buvusiam kalvinų centre — Nesvyžiuje (1582 m.).
   citata_rodoma: ""

@@ -21,7 +21,7 @@ Vartojamos formos: `šlapjurgiui`.
 
 ## Teiginiai
 - t-002
-  teiginys: '`Šlapjurgis` šiame tekste reiškia drėgną, šalčio lydimą oro būseną.'
+  teiginys: 'Šlapjurgis reiškia oro būseną, kai drėgmė ir šaltis stingdo drabužius.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
@@ -29,11 +29,11 @@ Vartojamos formos: `šlapjurgiui`.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '`Šlapjurgis` šiame tekste reiškia drėgną, šalčio lydimą oro būseną.'
+  santrauka: 'Šlapjurgis reiškia oro būseną, kai drėgmė ir šaltis stingdo drabužius.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     puošė, nes idant, šlapjurgiui^332 esant, nuo šalčio ir drėgsmės^333 pastėrę sijonai blauzdų neplaktų,
-    vyturo^334 sau staibius, vilnonomis, taip pat juodomis, auklėmis^335 nuo kulkšnių lig pat kelių
+        vyturo^334 sau staibius, vilnonomis, taip pat juodomis, auklėmis^335 nuo kulkšnių lig pat kelių.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

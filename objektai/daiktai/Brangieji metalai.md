@@ -7,8 +7,23 @@ aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
+datos:
+  - '1350 m.'
+  - '1430 m.'
+  - '1930 m.'
+  - '1978 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+  - 'XV'
+  - 'XX'
+  - 'XXI'
+date_start: '1350'
+date_end: '2026'
 patikimumas: 'vidutinis'
-periodas: viduramziai
 tags:
   - daiktas
 ---
@@ -35,21 +50,21 @@ Nenurodyta
 
 ## Teiginiai
 - t-003
-  teiginys: 'Palaikydamas gerus santykius su pirkliais, Vytautas įsigijo didelių aukso ir sidabro turtų.'
+  teiginys: 'Kunigaikščiai turėjo sukaupę nemažus brangiųjų metalų kiekius.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Palaikydamas gerus santykius su pirkliais, Vytautas įsigijo didelių aukso ir sidabro turtų.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: 'Kunigaikščiai turėjo sukaupę nemažus brangiųjų metalų kiekius.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Palaikė gerus santykius ir su pirkliais. Jų padedamas įsigi­
-    jo didelius turtus: aukso, sidabro, brangių akmenų, audeklų, kai­
-    linių ir kitokių brangenybių, kurias paskui kitiems dalindamas
-    rodė didelį duosnumą.
+    Plačiai ir nuosekliai išžvalgius šaltinius, yra prieita išvadų,
+    jog jau XIII amž. Lietuvoje buvo daug turto. Kunigaikščiai turėjo
+    sukaupę brangiųjų metalų nemažus kiekius^4. Karių apginklavi­
+    mas buvo turtingas^5.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -57,3 +72,10 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

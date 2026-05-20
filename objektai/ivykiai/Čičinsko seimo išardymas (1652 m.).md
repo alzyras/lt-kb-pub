@@ -43,7 +43,8 @@ Nenurodyta
   santrauka: '1652 m. seimas iširo protestuojant tik vienam Čičinskui, nors anksčiau seimai dažniausiai iširdavo dėl didesnių atstovų grupių protesto.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    O po Liublino unijos
+    Liublino seimo, kada prasidėjo bendrieji lietuvių lenkų
+    seimai, — Lenkijoje iš viso iširo 7 seimai. O po Liublino unijos
     iki 1652 m., kada seimą išardė Čičinskas, iširo dar 13 bendrųjų sei-
     mų. Tiesa, anksčiau seimai daugiausia iširdavo, protestuojant di-
     desnei atstovų grupei, keletui dešimčių ar bent keliolikai seimo at-

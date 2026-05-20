@@ -33,7 +33,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'XIII a. kryžiuočiai atsikraustė į Pavyslį ir ten sukūrė savo valstybę.'
+  teiginys: 'XIII a. kryžiuočiai atsikraustė į Pavyslį, o kalavijuočiai - į Padauguvį.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -47,7 +47,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'XIII a. kryžiuočiai atsikraustė į Pavyslį ir ten sukūrė savo valstybę.'
+  santrauka: 'XIII a. kryžiuočiai atsikraustė į Pavyslį, o kalavijuočiai - į Padauguvį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     XIII amž. į aisčių gyvenamuosius kraštus atsikraustė vokiečiai
@@ -66,7 +66,8 @@ Nenurodyta
   santrauka: 'XIII a. pradžioje mozūrų kunigaikščiai pasikvietė kryžiuočius į pagalbą prieš prūsus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Po ilgų kovų, XIII amž. pra-
+    Aisčių kraštai tuomet labai nukentėdavo. Bet, surinkę jėgų, ais-
+    čiai jiems skaudžiai atkeršydavo. Po ilgų kovų, XIII amž. pra-
     džioje prūsų kilčių kaimynai, mozūrų kunigaikščiai, atsikvietė
     sau į pagalbą vokiečių ordiną (kryžiuočius), kurs vėliau, nuka-
     riavęs didelius aisčių plotus, sukūrė ten savo valstybę.
@@ -77,3 +78,7 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kalavijuočių ordinas]]

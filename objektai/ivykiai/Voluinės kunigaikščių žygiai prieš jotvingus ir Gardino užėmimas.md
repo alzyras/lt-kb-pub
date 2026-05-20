@@ -44,6 +44,10 @@ Nenurodyta
   santrauka: 'Voluinės kunigaikščiams geriau sekėsi kariauti su jotvingais, ir iki XIII amž. pradžios jie jau buvo paėmę net Gardiną.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Po ilgų kovų, XIII amž. pra-
+    džioje prūsų kilčių kaimynai, mozūrų kunigaikščiai, atsikvietė
+    sau į pagalbą vokiečių ordiną (kryžiuočius), kurs vėliau, nuka-
+    riavęs didelius aisčių plotus, sukūrė ten savo valstybę.
     Voluinės kunigaikščiams geriau sekėsi kariauti su jotvin-
     gais, ir iki XIII amž. pradžios jie jau buvo paėmę net Gardiną.
     Nukariautose žemėse tada buvo įkurti Naugardukas, Slanimas ir

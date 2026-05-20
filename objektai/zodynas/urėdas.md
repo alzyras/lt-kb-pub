@@ -25,12 +25,6 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-005
-  teiginys: 'Naujai įvesti urėdai buvo pirmieji krašto žmonės, o vėlesnės institucijos artino administraciją prie lenkiškosios.'
-  pagrindžia:
-    - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -47,26 +41,11 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
-- c-002
-  santrauka: 'Naujai įvesti urėdai buvo pirmieji krašto žmonės, o vėlesnės institucijos artino administraciją prie lenkiškosios.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Naujai įvesti urėdai buvo pirmieji krašto žmonės. Tas pir­
-    mąsias lenkiškas institucijas sekė kitos, kol XVI amž. atėjo
-    momentas, kada Lietuvos administracijos aparatas visiškai
-    susilygino su lenkiškuoju.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-005
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/istorinė-sąvoka]]
 
 ### Susiję objektai
-- [[objektai/daiktai/Lietuvos didysis ir mažasis antspaudai]]
 - [[objektai/zodynas/seniūnas]]
+- [[objektai/zodynas/seniūnas storasta]]

@@ -6,6 +6,19 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1384 m.'
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+  - 'XX'
+  - 'XXI'
+date_start: '1384'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - ordinas
@@ -19,7 +32,7 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Bajerburgas buvo viena iš Ordino pilių, minimų kartu su Klaipėda, Ragaine, Jurbarku, Skirsnemune ir Marijenburgu.'
+  teiginys: 'Gedimino laikais kryžiuočiai, pasistatę Bajerburgo ir Marijenburgo pilis, paslinko arčiau Lietuvos valdų prie Nemuno.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -27,14 +40,16 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Bajerburgas buvo viena iš Ordino pilių, minimų kartu su Klaipėda, Ragaine, Jurbarku, Skirsnemune ir Marijenburgu.'
+  santrauka: 'Gedimino laikais kryžiuočiai, pasistatę Bajerburgo ir Marijenburgo pilis, paslinko arčiau Lietuvos valdų prie Nemuno.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Čia buvo šios ordino pilys: Klai-
-    pėda, Ragainė, Jurbarkas, Skirsnemunė, Marijenburgas, Bajer-
-    burgas, daug kartų statomos ir vėl sugriaunamos jo pilys prie
-    Kauno, būtent Marijenverderis, Ritersverderis, Gotesverderis ir
-    kitos (žiūr. 85 psl.).
+    Vakaruose siena su kry-
+    žiuočiais jau buvo nusistojusi. Visas Nemuno žemupys jau Vy-
+    tenio laikais buvo kryžiuočių; o Gedimino laikais, pasistatę Ba-
+    jerburgo ir Marijenburgo pilis, kryžiuočiai paslinko dar arčiau.
+    Aukščiau Dubysos žiočių, Lietuvos valstybei priklausė jau abi
+    Nemuno pusės (dabartiniame Suvalkų krašte buvo didžiulė giria,
+    ir ten nebuvo pasistatę pilių nei kryžiuočiai nei lietuviai).
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -44,5 +59,11 @@ tags:
     - t-001
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
 ### Susiję objektai
-- [[objektai/vietos/Gotesverderis]]
+- [[objektai/vietos/Marijenburgas]]
+- [[objektai/vietos/Nemunas]]

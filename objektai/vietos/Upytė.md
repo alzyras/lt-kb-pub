@@ -6,6 +6,20 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1000 m.'
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+  - 'viduramžiai'
+amziai:
+  - 'X'
+  - 'XX'
+  - 'XXI'
+date_start: '1000'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - kraštas
@@ -20,27 +34,27 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
 
 ## Teiginiai
 - t-001
-  teiginys: 'Įvedant naujuosius teismus, iš Trakų vaivadijos buvo išskirti Gardino, Kauno ir Upytės pavietai.'
+  teiginys: 'Rugpjūčio pabaigoje į Žemaitiją paeiliui įsibrovė trys Livonijos daliniai, jie niokojo Upytės kraštą.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Įvedant naujuosius teismus, iš Trakų vaivadijos buvo išskirti Gardino, Kauno ir Upytės pavietai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: 'Rugpjūčio pabaigoje į Žemaitiją paeiliui įsibrovė trys Livonijos daliniai, jie niokojo Upytės kraštą.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Krašto padalinimas į pavietus ir vaivadijas. Visas kraš-
-    tas jau anksčiau buvo padalintas į vaivadijas, ir didelių sričių,
-    buvusiųjų kunigaikštysčių, vietininkai jau buvo gavę vaivadų
-    vardą dar XVI amž. pradžioje. Įvedant naujuosius teismus,
-    buvo sudaryti teisminiai pavietai. Kai kurie iš jų sutapo su
-    vaivadijomis, bet iš kai kurių didelių vaivadijų buvo išskirti
-    net keli pavietai; pav., iš Vilniaus vaivadijos buvo išskirta
-    Ašmenos, Lydos, Ukmergės ir Breslaujos, o iš Trakų vaiva-
-    dijos — Gardino, Kauno ir Upytės pavietai. Pilies teismai
-    pavietuose priklausė seniūnams, o vaivadijose — vaivadoms.
+    Rugpjūčio pabaigoje į Žemaitiją paeiliui
+    įsibrovė trys Livonijos daliniai, jie niokojo
+    Upytės kraštą. Begrįžtantis priešas buvo
+    sumuštas, pirmiausia Kuldigos 40 raitelių
+    ir apie 1000 pėstininkų dalinys. J. Dlugošas
+    mini, kad priešas, jau manęs esąs saugus,
+    viename miške buvo apsuptas ir užblokuo-
+    tas medžių užtvaromis, ir iš už jų priedan-
+    gos gausiai strėlėmis apšaudomas, buvo
+    priverstas pasiduoti.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -48,3 +62,9 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/X amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

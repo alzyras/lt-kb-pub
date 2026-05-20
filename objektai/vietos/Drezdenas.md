@@ -21,7 +21,7 @@ Kai per septynerių metų karą Prūsų kariuomenė užėmė Drezdeną, kur buvo
 
 ## Teiginiai
 - t-001
-  teiginys: 'Į Drezdeną karalius buvo perkėlęs Lenkijos ir Lietuvos pinigų kalyklą, kurią per Septynerių metų karą užėmė Prūsų kariuomenė.'
+  teiginys: 'Per Septynerių metų karą Prūsų kariuomenė užėmė Drezdeną, kuriame buvo karaliaus perkelta Lenkijos ir Lietuvos pinigų kalykla.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -29,10 +29,14 @@ Kai per septynerių metų karą Prūsų kariuomenė užėmė Drezdeną, kur buvo
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Į Drezdeną karalius buvo perkėlęs Lenkijos ir Lietuvos pinigų kalyklą, kurią per Septynerių metų karą užėmė Prūsų kariuomenė.'
+  santrauka: 'Per Septynerių metų karą Prūsų kariuomenė užėmė Drezdeną, kuriame buvo karaliaus perkelta Lenkijos ir Lietuvos pinigų kalykla.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Kai per septy-
+    Kilus vadinamajam 7
+    metų karui (1756—1763 m.), ypatingai nukentėjo Lietuva, per
+    kurią perėjo net kelios į Prūsiją žygiavusios Rusų armijos. Ru-
+    sai plėšė iš gyventojų maistą, rinko rekrūtus; Lenkijoje taipgi
+    rinko rekrūtus Fridriko Didžiojo kariuomenė. Kai per septy-
     nerių metų karą Prūsų kariuomenė užėmė Drezdeną, kur buvo
     karaliaus perkelta Lenkijos ir Lietuvos pinigų kalykla, — Fri-
     drikas D. ėmė kalti netikrus pinigus ir gabeno juos į Lenkiją

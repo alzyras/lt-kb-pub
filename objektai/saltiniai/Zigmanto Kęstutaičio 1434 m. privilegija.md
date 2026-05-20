@@ -20,15 +20,9 @@ Naujų teisinių normų davė 1413 m. Jogailos ir Vytauto privilegija, suteikta 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Zigmanto Kęstutaičio 1434 m. privilegija davė naujų teisinių normų Lietuvos valstybės teisėje.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Zigmanto Kęstutaičio privilegija sulygino civilines pravoslavų teises su katalikų teisėmis, tačiau valstybinių vietų jie vis tiek negalėjo gauti.'
   pagrindžia:
-    - c-002
+    - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
@@ -36,28 +30,13 @@ Naujų teisinių normų davė 1413 m. Jogailos ir Vytauto privilegija, suteikta 
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Zigmanto Kęstutaičio 1434 m. privilegija davė naujų teisinių normų Lietuvos valstybės teisėje.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Naujų teisinių normų
-    davė 1413 m. Jogailos ir Vytauto privilegija, suteikta Horodlėje (žiūr.
-    131 psl.), ir Zigmanto Kęstutaičio 1434 m. privilegija (žiūr. 170
-    psl.). Dar daugiau padarė teisinių atmainų 1447 m. didžioji
-    Kazimiero privilegija (žiūr. 180 psl.). Pirmasis bandymas įstaty-
-    mus kodifikuoti buvo padarytas 1468 m., išleidus vadinamąjį Ka-
-    zimiero Teisyną.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
   santrauka: 'Zigmanto Kęstutaičio privilegija sulygino civilines pravoslavų teises su katalikų teisėmis, tačiau valstybinių vietų jie vis tiek negalėjo gauti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Zigmanto Kęstutaičio privilegija suly-
+    Lietuvos valsty-
+    bės ribose buvo daug ir pravoslavų, kurių dvasininkai betgi neturėjo
+    jokių politinių teisių. 1387 ir 1413 m. privilegijos pravoslavams ne-
+    leido gauti valstybinių vietų. Zigmanto Kęstutaičio privilegija suly-
     gino civilines pravoslavų teises su katalikų teisėmis, tačiau valstybinių
     vietų jie vis tiek negalėjo gauti.
   citata_rodoma: ""
@@ -66,4 +45,4 @@ Naujų teisinių normų davė 1413 m. Jogailos ir Vytauto privilegija, suteikta 
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001

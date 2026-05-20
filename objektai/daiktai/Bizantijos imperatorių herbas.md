@@ -6,8 +6,21 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1453 m.'
+  - '1978 m.'
+  - '2026 m.'
+periodas: 'okupacijų ir sovietmečio laikotarpis'
+periodo_grupes:
+  - 'LDK'
+  - 'XX a.'
+amziai:
+  - 'XV'
+  - 'XX'
+  - 'XXI'
+date_start: '1453'
+date_end: '2026'
 patikimumas: 'aukštas'
-periodas: viduramziai
 tags:
   - daiktas
   - simbolis
@@ -34,11 +47,38 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-Nenurodyta
+- t-001
+  teiginys: 'Jonas III, laikydamas save žlugusios Bizantijos imperijos paveldėtoju, pasisavino jos dvigalvį erelį ir dvaro ceremonialą.'
+  pagrindžia:
+    - c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-Nenurodyta
+- c-001
+  santrauka: 'Jonas III, laikydamas save žlugusios Bizantijos imperijos paveldėtoju, pasisavino jos dvigalvį erelį ir dvaro ceremonialą.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Tik Maskvos didžiajam Kunigaikščiui Jonui III, Sofijos Vytau­
+    taitės anūkui (1462-1505), jau nebebuvo baisi eižėjanti Aukso Orda.
+    Jausdamasis žlugusios Bizantijos imperijos paveldėtoju (1453), pa­
+    sisavinęs jos dvigalvį erelį ir jos imperatoriaus dvaro ceremonialą,
+    Jonas III-sis jau savinosi ir caro titulą. O «antrajai Romai »
+    (Konstantinopoliui) kritus, Maskva turėjo įkūnyti «trečiąją Ro­
+    mą», «o ketvirtosios Romos (iš viso) nebegalėjo būti»^11.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/simbolis]]
+
+### Laikotarpiai
+- [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

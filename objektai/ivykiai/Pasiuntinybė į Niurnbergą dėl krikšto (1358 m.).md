@@ -44,77 +44,24 @@ Derybos neįvyko valdovų sąlygomis, todėl buvo grįžta prie karo.
 
 ## Teiginiai
 - t-004
-  teiginys: '1358 m. Lietuvos valdovai pasiuntė giminaitį į Niurnbergą tartis dėl krikščionių tikėjimo priėmimo.'
+  teiginys: 'Derybose dėl krikšto Algirdas ir Kęstutis reikalavo, kad Ordinas grąžintų Lietuvai žemes iki Deimės ir Alės upių ir išsikeltų į Rusijos pietus.'
   pagrindžia:
-    - c-002
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-005
-  teiginys: 'Derybose buvo reikalaujama, kad Ordinas grąžintų Lietuvai žemes iki Deimės ir Alės upių, o pats keltųsi į Rusijos pietus kovoti su totoriais.'
-  pagrindžia:
-    - c-003
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-006
   teiginys: '1358 m. Niurnbergo krikšto pasiūlymas buvo politikos manevras, nes jo sąlygos netiko deryboms.'
   pagrindžia:
-    - c-004
+    - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1358 m. Lietuvos valdovai pasiuntė giminaitį į Niurnbergą tartis dėl krikščionių tikėjimo priėmimo.'
+  santrauka: 'Derybose dėl krikšto Algirdas ir Kęstutis reikalavo, kad Ordinas grąžintų Lietuvai žemes iki Deimės ir Alės upių ir išsikeltų į Rusijos pietus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Tiesa, savo valdymo pradžioje Kęstutis su
-    Algirdu buvo pradėję tartis dėl krikšto. Apsikrikštijus būtų tu­
-    rėję pasiliauti nuolatiniai Ordino puolimai. Lietuvos politinia­
-    me gyvenime galima buvo laukti naujų atmainų. Tam reikalui
-    didieji Lietuvos kunigaikščiai 1358 metais buvo pasiuntę Nürn-
-
-    (^1) ) Wolff, 56 psl.
-
-
-    ```
-    — 5 —
-    ```
     bergan pas ciesorių Karolių IV vieną savo giminaitį tartis dėl
-    priėmimo krikščionių tikėjimo
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-004
-- c-002
-  santrauka: '1358 m. Lietuvos valdovai pasiuntė giminaitį į Niurnbergą tartis dėl krikščionių tikėjimo priėmimo.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tam reikalui
-    didieji Lietuvos kunigaikščiai 1358 metais buvo pasiuntę Nürn-
-
-    (^1) ) Wolff, 56 psl.
-
-
-    ```
-    — 5 —
-    ```
-    bergan pas ciesorių Karolių IV vieną savo giminaitį tartis dėl
-    priėmimo krikščionių tikėjimo
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-004
-- c-003
-  santrauka: 'Derybose buvo reikalaujama, kad Ordinas grąžintų Lietuvai žemes iki Deimės ir Alės upių, o pats keltųsi į Rusijos pietus kovoti su totoriais.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
     priėmimo krikščionių tikėjimo. Iš savo pusės, sutikdami apsi­
     krikštyti, jiedu pirmiausia reikalavo, kad Vokiečių Ordinas Lie­
     tuvai grąžintų žemes iki Deimės ir Alės upių Prūsijoje ir Žiemga­
@@ -128,8 +75,8 @@ Derybos neįvyko valdovų sąlygomis, todėl buvo grįžta prie karo.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
-- c-004
+    - t-004
+- c-002
   santrauka: '1358 m. Niurnbergo krikšto pasiūlymas buvo politikos manevras, nes jo sąlygos netiko deryboms.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -149,7 +96,7 @@ Derybos neįvyko valdovų sąlygomis, todėl buvo grįžta prie karo.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-006
+    - t-005
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -162,3 +109,4 @@ Derybos neįvyko valdovų sąlygomis, todėl buvo grįžta prie karo.
 - [[objektai/asmenys/Algirdas]]
 - [[objektai/asmenys/Karolis IV]]
 - [[objektai/asmenys/Kęstutis]]
+- [[objektai/ivykiai/Pasiuntinybė į Nürnbergą dėl krikšto (1358 m.)]]

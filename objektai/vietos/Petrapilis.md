@@ -6,6 +6,19 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1903 m.'
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+  - 'naujieji laikai'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1903'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - vieta
@@ -18,28 +31,19 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
 
 ## Teiginiai
 - t-001
-  teiginys: 'Petras I Nevos paupyje pradėjo statyti būsimąją Rusijos sostinę Petrapilį.'
+  teiginys: '1903 m. Petrapilyje buvo išleista P. A. Hiltebranto parengta Lietuvos Metrikos teismo bylų knyga.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Čartoriskiai pasiuntė Stanislovą Augustą Poniatauską į Petrapilį.'
-  pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Petras I Nevos paupyje pradėjo statyti būsimąją Rusijos sostinę Petrapilį.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: '1903 m. Petrapilyje buvo išleista P. A. Hiltebranto parengta Lietuvos Metrikos teismo bylų knyga.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Tuo tarpu caras Petras I sėkmingai kariavo su
-    švedais Estijoje, — užėmė Narvą, Tartus ir Nevos paupy pradėjo
-    statyti būsimąją Rusijos sostinę — Petrapilį (dabartinį Le-
-    ningradą). Iš čia, susitaręs su Augustu, jis atvyko į Lietuvą ir už-
-    ėmė Vilnių.
+    LMS = Litovskaja Metrika. Knigi sudnich del, išl. P. A. Hil’tebrant
+    (Russkaja Istoričeskaja Biblioteka, t. 20), Petrapilis 1903.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -47,19 +51,8 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Čartoriskiai pasiuntė Stanislovą Augustą Poniatauską į Petrapilį.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tuo metu Čartoriskiai pasiun-
-    tė į Petrapilį savo sesers sūnų Stanislovą Augustą Po-
-    niatauską. Gavęs Saksonijos atstovo titulą, šis greit su-
-    siartino su sosto įpėdinio rūmais, o su jo žmona Kotryna suėjo
-    net į labai intimius santykius.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

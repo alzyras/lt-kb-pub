@@ -11,17 +11,24 @@ aliases: []
 saltiniai:
   - A. Šapoka (red.), Lietuvos istorija (1936 m.)
 laikotarpis: XV—XIX a.
-datos:
-  - 1447 m.
-  - 1861 m. vasario 19 d.
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1447 m.'
+  - '1861 m.'
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XV'
+  - 'XIX'
+  - 'XX'
+  - 'XXI'
+date_start: '1447'
+date_end: '2026'
 patikimumas: aukštas
 tags: []
 ---
@@ -43,92 +50,9 @@ Sąvoka apima ir teisinę valstiečių priklausomybę nuo pono, ir konkretų la�
 Terminas vartojamas ilgame istoriniame pjūvyje: nuo 1447 m. privilegijos, padėjusios pamatą visuotinei baudžiavai, iki 1861 m. jos panaikinimo Rusijos imperijoje.
 
 ## Teiginiai
-- t-006
-  teiginys: '1447 m. privilegija padėjo pamatą visuotinei baudžiavai, palikdama bajorų valstiečius jų ponų valdžioje.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-007
-  teiginys: 'Po 1447 m. privilegijos prasidėjo tikroji baudžiava, vis labiau apkraudama valstiečius mokesčiais ir darbais.'
-  pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-008
-  teiginys: 'Valstiečiai ir toliau liko beteisiai baudžiauninkai, bet atleistųjų dvarininkai nebegalėjo grąžinti į baudžiavą.'
-  pagrindžia:
-    - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-009
-  teiginys: '1861 m. vasario 19 d. manifestu baudžiava Rusijos imperijoje buvo panaikinta, paliekant valstiečiams teisę išsipirkti žemę per 49 metus.'
-  pagrindžia:
-    - c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: '1447 m. privilegija padėjo pamatą visuotinei baudžiavai, palikdama bajorų valstiečius jų ponų valdžioje.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Taigi privilegija pa-
-    dėjo pamatą visuotinei baudžiavai: bajorų valstiečiai liko visiš-
-    koje savo ponų valdžioje; jie nebeturėjo jokių pareigų didžia-
-    jam kunigaikščiui (valstybei), o vien tik ponams ir niekur ne-
-    begalėjo išsikelti iš jų žemių.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-006
-- c-002
-  santrauka: 'Po 1447 m. privilegijos prasidėjo tikroji baudžiava, vis labiau apkraudama valstiečius mokesčiais ir darbais.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Po 1447 m. privilegijos palengva prasidėjo tikroji bau-
-    džiava (žiūr. 180 psl.): iš savo vietų nebegalį išsikelti valstie-
-    čiai buvo apkraunami vis didesniais mokesčiais ir darbais.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-007
-- c-003
-  santrauka: 'Valstiečiai ir toliau liko beteisiai baudžiauninkai, bet atleistųjų dvarininkai nebegalėjo grąžinti į baudžiavą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    socialiniam gyvenime, bet vis dėlto bajorai buvo palikti vienin-
-    teliais pilnateisiais piliečiais, o valstiečiai ir toliau liko
-    beteisiai baudžiauninkai. Buvo tik nustatyta, kad nebegalima
-    bus grąžinti į baudžiavą tų, kurie atleisti pačių dvarininkų.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-008
-- c-004
-  santrauka: '1861 m. vasario 19 d. manifestu baudžiava Rusijos imperijoje buvo panaikinta, paliekant valstiečiams teisę išsipirkti žemę per 49 metus.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **Baudžiavos panaikinimo manifestas** buvo paruoštas Petra-
-    pily ir paskelbtas 1861 m. vasario 19 d. Juo visoje Rusijos impe-
-    rijoje buvo panaikinta baudžiava, o valstiečiams
-    duota teisė per 49 metus išsipirkti žemę.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-009
+
 
 ## Šaltiniai ir įrodymai
 
@@ -141,3 +65,5 @@ Terminas vartojamas ilgame istoriniame pjūvyje: nuo 1447 m. privilegijos, padė
 ### Laikotarpiai
 - [[laikotarpiai/XIX amžius]]
 - [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

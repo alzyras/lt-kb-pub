@@ -6,6 +6,17 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1936'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - karas
@@ -21,31 +32,23 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kotryna II taip pat kvietė į Rusiją išgarsėjusius rašytojus ir pati rašė.'
+  teiginys: 'Rusija užėmė rytinę Didžiosios Lietuvos Kunigaikštijos dalį iki Dauguvos ir Dniepro.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Tarp Rusijos ir Prūsijos buvo atnaujinta jau daug kartų daryta sutartis, kuria abi valstybės pasižadėjo remti Poniatausko kandidatūrą ir žiūrėti, kad Respublikoje nebūtų padaryta jokių reformų.'
-  pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: 'Rusija užėmė rytinę didžiosios Lietuvos kunigaikštijos dalį iki Dauguvos ir Dniepro.'
-  pagrindžia:
-    - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kotryna II taip pat kvietė į Rusiją išgarsėjusius rašytojus ir pati rašė.'
+  santrauka: 'Rusija užėmė rytinę Didžiosios Lietuvos Kunigaikštijos dalį iki Dauguvos ir Dniepro.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Kotryna II taip pat kvietė į Rusiją išgarsėjusius rašytojus ir pati
-    rašė. Prie jų dar prisidėjo Austrijos Juozapas II.
+    Rusija užėmė rytinę didžiosios Lietuvos kunigaikštijos dalį
+    iki Dauguvos ir Dniepro. Tuo būdu Rusijai teko Lat-
+    gala, šiaurinė dalis Polocko vaivadijos su pačiu miestu, beveik
+    visos Vitebsko ir Mstislaulio vaivadijos ir dalis Minsko vaivadi-
+    jos. Austrija užėmė dalį Mažlenkių ir Galicijos, o Prūsija
+    — Lenkijos Pavyslį ir Varmijos vyskupystę.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -53,40 +56,8 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Tarp Rusijos ir Prūsijos buvo atnaujinta jau daug kartų daryta sutartis, kuria abi valstybės pasižadėjo remti Poniatausko kandidatūrą ir žiūrėti, kad Respublikoje nebūtų padaryta jokių reformų.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tarp Ru-
-    sijos ir Prūsijos buvo atnaujinta jau daug kartų daryta sutartis,
-    kuria abi valstybės pasižadėjo remti Poniatausko kandidatūrą
-    ir žiūrėti, kad Respublikoje nebūtų padaryta jokių reformų. Taip
-    pat jos įsipareigojo priversti seimą, kad kitatikių, t. y. pravosla-
-    vų ir protestantų teisės būtų sulygintos su katalikų teisėmis.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Rusija užėmė rytinę didžiosios Lietuvos kunigaikštijos dalį iki Dauguvos ir Dniepro.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Rusija užėmė rytinę didžiosios Lietuvos kunigaikštijos dalį
-    iki Dauguvos ir Dniepro. Tuo būdu Rusijai teko Lat-
-    gala, šiaurinė dalis Polocko vaivadijos su pačiu miestu, beveik
-    visos Vitebsko ir Mstislaulio vaivadijos ir dalis Minsko vaivadi-
-    jos.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Rusijos ir Prūsijos sutartis remti Poniatausko kandidatūrą (1764 m.)]]
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

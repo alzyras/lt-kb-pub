@@ -26,12 +26,6 @@ tags:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Vokiečių, arba kryžiuočių, ordinas buvo atkviestas apie 1226 m. į Pavyslį kovoti su aisčiais.'
-  pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -49,20 +43,3 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Vokiečių, arba kryžiuočių, ordinas buvo atkviestas apie 1226 m. į Pavyslį kovoti su aisčiais.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Vokiečių, arba kryžiuočių, ordinas
-    buvo atkviestas apie 1226 m. į Pavyslį kovoti su aisčiais. Iš pra-
-    džių jis įsikūrė kairiajame Vyslos krante, o 1231 m. pirmą kartą
-    persikėlė į dešinįjį krantą, t.y. į aisčių kraštą (žiūr.43 psl.). Per 30
-    metų, gaudamas paramos iš Vokietijos, ordinas palengva pa-
-    sistūmė beveik iki pat Nemuno.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002

@@ -49,7 +49,12 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
   santrauka: 'Kazimieras Jogailaitis 1440 m. buvo išrinktas didžiuoju Lietuvos kunigaikščiu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Jogaila 174
+    B. Didžiųjų kunigaikščių monarchijos irimo ir ponų įsigalėjimo
+    laikotarpis
+    I. Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis
     1. Kazimiero išrinkimas d. Lietuvos kunigaikščiu (1440 m.). 177
+    2.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -61,6 +66,7 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
   santrauka: 'Kazimieras Jogailaitis turėjo 6 sūnus ir 5 dukteris.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Kazimieras mirė 65 m. amžiaus, palikęs gausingą šeimą.
     Iš viso jis turėjo 6 sūnus ir 5 dukteris. Jis buvo kelis kartus vedęs,
     bet visų jo vaikų motina buvo austrė Elžbieta Habsburgaitė.
   citata_rodoma: ""
@@ -74,7 +80,9 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
   santrauka: 'Nuo Kazimiero Jogailaičio Lietuvos valdovais visada būdavo išrenkami Jogailos palikuonys.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Bet kadangi, pradedant
+    Krašto valdymo aparatas iki XVI amž. antrosios pusės**
+        **Didysis kunigaikštis ir jo valdžia.** Po Vytauto mirties Lie-
+    tuvos valdovai visada būdavo renkami. Bet kadangi, pradedant
 
 
     Kazimieru, Lietuvos valdovais visada būdavo išrenkami Jogai-
@@ -91,6 +99,7 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
   santrauka: '1454 m. sukilę miestai, bajorija ir vyskupai pasidavė Lenkijos karaliui Kazimierui Jogailaičiui.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    **Ordino galas.** Po Tanenbergo mūšio ordinas pradėjo nykti.
     Palengva kilo nepasitenkinimas ordino valdžia net pačioje jo
     valstybėje, ir 1454 m. sukilę miestai, bajorija ir vyskupai pasidavė
     Lenkų karaliui Kazimierui.
@@ -101,7 +110,3 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/pereinamasis laikotarpis]]

@@ -6,6 +6,17 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1936'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - vieta
@@ -18,7 +29,7 @@ Tizenhauzas buvo užsimojęs padaryti Gardiną didžiuliu pramonės centru ir bu
 
 ## Teiginiai
 - t-001
-  teiginys: 'Gorodnica buvo ypač garsus Tizenhauzo Gardine pastatytas pramonės priemiestis.'
+  teiginys: 'Gorodnica buvo ypač garsus vienas iš dviejų Tizenhauzo Gardine pastatytų pramonės priemiesčių.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -26,15 +37,25 @@ Tizenhauzas buvo užsimojęs padaryti Gardiną didžiuliu pramonės centru ir bu
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Gorodnica buvo ypač garsus Tizenhauzo Gardine pastatytas pramonės priemiestis.'
+  santrauka: 'Gorodnica buvo ypač garsus vienas iš dviejų Tizenhauzo Gardine pastatytų pramonės priemiesčių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Taip antai,
+    Šiauliuose buvo įsteigta
+    drobės dirbtuvė, pora
+    dirbtuvių buvo įsteigta
+    Brastoje ir jos apylin-
+    kėje; tačiau daugumas
+    dirbtuvių buvo sukon-
+    centruota Gardine. Mat,
     Tizenhauzas buvo už-
     simojęs padaryti Gar-
     diną didžiuliu pramonės
     centru ir buvo čia pa-
     statęs net 2 pramonės
     priemiesčius, iš kurių ypač buvo garsi Gorodnica.
+    Dirbtuvėms specialistų buvo pakviesta iš užsienio, o ateičiai
+    jie buvo ruošiami iš valstiečių tarpo.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -42,3 +63,8 @@ Tizenhauzas buvo užsimojęs padaryti Gardiną didžiuliu pramonės centru ir bu
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

@@ -37,7 +37,9 @@ Centro valdžia, norėdama palaikyti šitą lietuvių prisirišimą, leido jiems
   santrauka: 'Lietuviškas laikraštis „Keleivis“ buvo leidžiamas Karaliaučiuje nuo 1849 iki 1880 m.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Centro valdžia, norėdama palaikyti šitą lietuvių prisi-
+    Lietuvybės gynėjai,
+    prašydami neskriausti lietuvių, visada rėmėsi ta jų ištikimybe
+    valdžiai. Centro valdžia, norėdama palaikyti šitą lietuvių prisi-
     rišimą, leido jiems Karaliaučiuje net lietuvišką laikraštį „Kelei-
     vį" (nuo 1849 iki 1880 m.). Jį redagavo didelis lietuvių kalbos
     žinovas, Karaliaučiaus lietuvių seminarijos profesorius Kur-
@@ -53,7 +55,9 @@ Centro valdžia, norėdama palaikyti šitą lietuvių prisirišimą, leido jiems
   santrauka: '„Keleivio“ tikslas buvo išsaugoti lietuvių ištikimybę valdžiai ir valdančiajam sluoksniui.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Vienintelis „Keleivio" tikslas buvo išsaugoti lie-
+    Jį redagavo didelis lietuvių kalbos
+    žinovas, Karaliaučiaus lietuvių seminarijos profesorius Kur-
+    šaitis. Vienintelis „Keleivio" tikslas buvo išsaugoti lie-
     tuvių ištikimybę valdžiai ir valdančiajam
     sluoksniui. Jo tad dėka vėliau, renkant parlamentą, lietu-
     viai paprastai balsuodavo už vokiečius dvarininkus.

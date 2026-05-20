@@ -37,9 +37,6 @@ Ji visa, nuo Šventosios upės (pajūry) iki Lenkų okupuoto Vilniaus krašto (n
 ## Reikšmingi paminėjimai
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/upė]]
-
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
 - [[laikotarpiai/XXI amžius]]

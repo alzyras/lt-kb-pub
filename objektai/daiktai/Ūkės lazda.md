@@ -65,12 +65,11 @@ Nenurodyta
   santrauka: 'Lazda buvo naudojama kaip vyresnybės įsakymų skelbimo ženklas.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
-    Jo įsakymai buvo svietui kaip dievo
-    žodžiais, kuriuos skelbė jam savo lazda, kurią kožnas pamatęs jo siuntinio rankoje tuojau klausė, kas
-    buvo įsakyta, it būt gromatą, jo ranka rašytą, perskaitęs. Nuo ko kalnėnai ir žemaičiai iki šiai dienai
-    savo vyresnybės įsakymą lazda tebvadina ir taip sako: „Karūžasis parnešė lazdą“ arba „Kaip aš
-    neklausysiu savo dvaro lazdos“, tai yra įsakymo, nuo ko lenkai paskui tyčiodamies lietuvius vadino
-    skurczypałka, tai yra sukurčiaus lazda, jog jie it būt lazdos jo bijantys, ne įsakymo.
+    Jo įsakymai buvo svietui kaip dievo žodžiais, kuriuos skelbė jam savo lazda, kurią kožnas pamatęs jo siuntinio rankoje tuojau klausė, kas
+        buvo įsakyta, it būt gromatą, jo ranka rašytą, perskaitęs. Nuo ko kalnėnai ir žemaičiai iki šiai dienai
+        savo vyresnybės įsakymą lazda tebvadina ir taip sako: „Karūžasis parnešė lazdą“ arba „Kaip aš
+        neklausysiu savo dvaro lazdos“, tai yra įsakymo, nuo ko lenkai paskui tyčiodamies lietuvius vadino
+        skurczypałka, tai yra sukurčiaus lazda, jog jie it būt lazdos jo bijantys, ne įsakymo.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -95,7 +94,7 @@ Nenurodyta
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Tuose sueimuose visą parėdką vedė kunigai, kurių tenai valdžia buvo didelė, nesgi, su lazda
-    jam mosterėjus, visi nutilo.
+        jam mosterėjus, visi nutilo.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

@@ -103,4 +103,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/ivykiai/Lucko suvažiavimas]]
 - [[objektai/ivykiai/Vytauto karūnacijos byla]]
+- [[objektai/asmenys/Zigmantas I]]

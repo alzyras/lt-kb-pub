@@ -44,47 +44,14 @@ Lietuviai patyrė didelį pralaimėjimą.
 
 ## Teiginiai
 - t-005
-  teiginys: '1370 m. vasario 17 d. prie Rudavos lietuviai patyrė didelį pralaimėjimą.'
-  pagrindžia:
-    - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-006
-  teiginys: 'Rūdavos mūšyje žuvo apie 5000 lietuvių ir mažiausiai 300 vokiečių pusės kariuomenės žmonių.'
-  pagrindžia:
-    - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-007
   teiginys: 'Vytautas dalyvavo Rūdavos mūšyje kaip Kęstučio prie karo pratintas jaunuolis.'
   pagrindžia:
-    - c-002
+    - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1370 m. vasario 17 d. prie Rudavos lietuviai patyrė didelį pralaimėjimą.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    zuota daug Prūsų krašto gyventojų. Pasidalinę mažais būre­
-    liais ir nuterioję kelias Sambijos krašto sritis, lietuviai 1370 me­
-    tų vasario mėn. 17 d. (sekmadienį) prie Rudavos bažnytkaimio,
-    netoli Karaliaučiaus, vėl susirinko krūvon. Mūšis pasibaigė di­
-    deliu lietuvių pralaimėjimu. Iš vokiečių pusės žuvo jų žymus
-    maršalka Šindenkopfas, 23 ordino broliai riteriai ir mažiausia
-    bent 300 žmonių kariuomenės. Lietuvių pusėje žuvę apie 5000
-    žmonių. Aprašinėdamos vokiečių kronikos lietuvių nuostolius,
-    be abejo, perdeda.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-005
-    - t-006
-- c-002
   santrauka: 'Vytautas dalyvavo Rūdavos mūšyje kaip Kęstučio prie karo pratintas jaunuolis.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -99,7 +66,7 @@ Lietuviai patyrė didelį pralaimėjimą.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-007
+    - t-005
 
 ## Ryšiai
 ### Laikotarpiai

@@ -18,7 +18,7 @@ Jankus ir lietuvių draugas vokietis S.
 
 ## Teiginiai
 - t-001
-  teiginys: 'M. Jankus rašė „Aušrai“ kartu su kitais Didžiosios Lietuvos lietuviais inteligentais ir redaktoriumi Šernu.'
+  teiginys: 'M. Jankus rašė „Aušrai“ kartu su Šernu, S. Zauerveinu ir Didžiosios Lietuvos lietuviais inteligentais.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -26,10 +26,18 @@ Jankus ir lietuvių draugas vokietis S.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'M. Jankus rašė „Aušrai“ kartu su kitais Didžiosios Lietuvos lietuviais inteligentais ir redaktoriumi Šernu.'
+  santrauka: 'M. Jankus rašė „Aušrai“ kartu su Šernu, S. Zauerveinu ir Didžiosios Lietuvos lietuviais inteligentais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Juos rašė
+    Visi jie buvo vien informacinio pobūdžio, ir tautiškosios
+    sąmonės ugdymu nesirūpino. Tik vienas Šernas savo „Lie-
+    tuviškoje Ceitun-
+    goje" buvo pradėjęs
+    spausdinti patriotiškus
+    straipsnius - apie garbin-
+    gą lietuvių praeitį ir apie
+    sunkų dabartinį sveti-
+    mųjų jungą. Juos rašė
     ne tik Didžiosios Lietu-
     vos lietuviai inteligentai,
     — ypač Dr. J. Basa-
@@ -55,3 +63,4 @@ Jankus ir lietuvių draugas vokietis S.
 
 ### Susiję objektai
 - [[objektai/autoriai/S. Zauerveinas]]
+- [[objektai/autoriai/Šernas]]

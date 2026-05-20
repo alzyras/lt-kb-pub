@@ -44,6 +44,8 @@ Seimų rūšys. Po konvokacinio seimo, jo nustatytu laiku, taip pat primas šauk
     vokaciniai seimai būdavo šaukiami mirus karaliui. Juos šauk-
     davo Bažnyčios galva, Gniezno arkivyskupas, vadinamas primu,
     kurs tarpuvaldyje būdavo laikomas valstybės galva — _interrex._
+    Tas seimas turėjo susitarti dėl karaliaus rinkimo datos ir dėl kitų
+    su elekcija susijusių klausimų.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -72,5 +74,5 @@ Seimų rūšys. Po konvokacinio seimo, jo nustatytu laiku, taip pat primas šauk
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/karūnacija]]
+### Susiję objektai
+- [[objektai/grupes/Karūnacinis seimas]]

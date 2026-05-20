@@ -29,7 +29,11 @@ Turėdami stiprią pajėgą, bermontininkai nuginklavę išvaikė ten buvusias L
   santrauka: 'Bermontininkai nuginklavo ir išvaikė ten buvusias Lietuvos komendantūras, o paskui ėmė vieni šeimininkauti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Turėdami stiprią pajėgą, ber-
+    Bet 1919 m. spalių mėnesį,
+    kai šiaurinėje Lietuvos dalyje dar nebuvo mūsų kariuomenės,
+    bermontininkai užėmė Šiaulius, Biržus, Linkuvą, Radviliškį ir
+    pradėjo rodyti aiškų nepalankumą Lietuvai. Lietuvos vyriau-
+    sybės protestai nieko negelbėjo. Turėdami stiprią pajėgą, ber-
     montininkai nuginklavę išvaikė ten buvusias Lietuvos komen-
     dantūras ir ėmė vieni šeimininkauti.
   citata_rodoma: ""

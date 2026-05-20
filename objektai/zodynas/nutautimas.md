@@ -19,7 +19,7 @@ Apskritai tautiška S.S.S.R-os lietuvių būklė gana liūdna: ten sparčiai ein
 
 ## Teiginiai
 - t-001
-  teiginys: 'Apskritai tautiška S.S.S.R-os lietuvių būklė gana liūdna: ten sparčiai eina jų nutautimas, nes jie atskirti nuo savo tautos kamieno ir auklėjami tautiškumui priešingoje — komunistiškoje dvasioje.'
+  teiginys: 'S.S.S.R. lietuvių nutautimas spartėjo, nes jie buvo atskirti nuo tautos kamieno ir auklėjami komunistiška dvasia.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -27,13 +27,17 @@ Apskritai tautiška S.S.S.R-os lietuvių būklė gana liūdna: ten sparčiai ein
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Apskritai tautiška S.S.S.R-os lietuvių būklė gana liūdna: ten sparčiai eina jų nutautimas, nes jie atskirti nuo savo tautos kamieno ir auklėjami tautiškumui priešingoje — komunistiškoje dvasioje.'
+  santrauka: 'S.S.S.R. lietuvių nutautimas spartėjo, nes jie buvo atskirti nuo tautos kamieno ir auklėjami komunistiška dvasia.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    duodama daugiausia agitacinės medžiagos, o kartais ir literatūros
+    dalykų.
     Apskritai tautiška S.S.S.R-os lietuvių būklė gana liūdna: ten
     sparčiai eina jų nutautimas, nes jie atskirti nuo savo tautos ka-
     mieno ir auklėjami tautiškumui priešingoje — komunistiškoje
-    dvasioje.
+    dvasioje. Ten varomoji lietuviška kultūrinė veikla tėra tiktai
+    priemonė komunizmui skleisti ir agituoti prieš tautišką nepri-
+    klausomąją Lietuvą.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

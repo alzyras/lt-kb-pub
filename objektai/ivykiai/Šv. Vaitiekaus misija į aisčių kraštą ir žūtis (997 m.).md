@@ -96,7 +96,10 @@ Vaitiekaus lavoną išpirko Boleslovas Narsusis. Pats Vaitiekus buvo paskelbtas 
   santrauka: 'Vaitiekaus misijonieriams aisčių krašte nesisekė platinti krikščionybės.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tačiau tas nieko nepadėjo: misijo-
+    Išplaukęs Vysla į jūrą,
+    jis priplaukė krantą Priegliaus žiotyse. Kad aisčių giminės į at-
+    vykusius labai neskersuotų, jis atleido visus savo palydovus ir
+    liko tik su dviem kunigais. Tačiau tas nieko nepadėjo: misijo-
     nieriams čia nesisekė platinti krikščionybės.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -114,7 +117,8 @@ Vaitiekaus lavoną išpirko Boleslovas Narsusis. Pats Vaitiekus buvo paskelbtas 
     nužudė vyskupą Vaitiekų. Pasirodė, kad misijonieriai, nieko neži-
     nodami, buvo sustoję šventajam miške, kur negalėjo įžengti joks
     svetimšalis. Pagonys tuo būdu atkeršijo už savo šventovės
-    įžeidimą. Tas atsitiko 997 m. balandžio 23 d.
+    įžeidimą. Tas atsitiko 997 m. balandžio 23 d. Misijonierių la-
+    vonus išpirko kunigaikštis Boleslovas.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -126,7 +130,8 @@ Vaitiekaus lavoną išpirko Boleslovas Narsusis. Pats Vaitiekus buvo paskelbtas 
   santrauka: 'Po mirties Vaitiekus buvo paskelbtas šventuoju, krikščionybės kankiniu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Misijonierių la-
+    Pagonys tuo būdu atkeršijo už savo šventovės
+    įžeidimą. Tas atsitiko 997 m. balandžio 23 d. Misijonierių la-
     vonus išpirko kunigaikštis Boleslovas. Vyskupas Vaitiekus buvo
     paskelbtas šventuoju, krikščionybės kankiniu.
   citata_rodoma: ""

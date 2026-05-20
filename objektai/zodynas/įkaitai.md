@@ -9,6 +9,23 @@ aliases: []
 saltiniai:
 - A. Šapoka (red.), Lietuvos istorija (1936 m.)
 - Vytautas Didysis 1350-1430 (1930 m.)
+datos:
+  - '1350 m.'
+  - '1409 m.'
+  - '1430 m.'
+  - '1930 m.'
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+  - 'XV'
+  - 'XX'
+  - 'XXI'
+date_start: '1350'
+date_end: '2026'
 patikimumas: vidutinis
 tags:
   - bajorija
@@ -23,29 +40,24 @@ tags:
 
 ## Teiginiai
 - t-004
-  teiginys: 'Žemaičiai atsitraukdami nuo Vilniaus vokiečiams atiduoda įkaitus.'
+  teiginys: 'Bijodamas sukilimo, ordinas pareikalavo iš žemaičių naujų įkaitų; vietoj įkaitų jis sulaukė visuotinio sukilimo.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Žemaičiai atsitraukdami nuo Vilniaus vokiečiams atiduoda įkaitus.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: 'Bijodamas sukilimo, ordinas pareikalavo iš žemaičių naujų įkaitų; vietoj įkaitų jis sulaukė visuotinio sukilimo.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Zöllneris ir Vytautas 1383 metų rugsėjo 11 d. didele ka­
-    riuomene vedini, atvyko prie Skirgailos valdomų Trakų. Po
-    trumpos atakos pilis buvo paimta. Čia buvo palikta tik įgula iš 60
-    žmonių su kapitonu Jonu Rabe. Nemaža lietuvių dar čia pat pe­
-    rėjo į teisėto Trakų valdovo Vytauto pusę. Po to Ordino ir Vy­
-    tauto kariuomenės patraukė į Vilnių. Bet puolimui nepasisekus
-    ir Vilniaus nepaėmus, o bijodami, kad nepritrūktų maisto, rug­
-    sėjo 22 d. ėmė trauktis atgal. Šiame žygyje žemaičiai pakei­
-    tė savo nusistatymą su Vokiečių Ordinu: atsitraukdami nuo
-    Vilniaus, jie davė vokiečiams savo įkaitus. Tiesa, tie įkaitai
-    buvo duoti ne nuo visos Žemaitijos sričių. Bet ir tai, kas buvo
-    padaryta, reikia laikyti Vytauto nuopelnu.
+    Bet
+    Vytautas nesiskubino ir vis tęsė derybas. Bijodamas sukilimo,
+    ordinas pareikalavo iš žemaičių naujų įkaitų; vietoj įkaitų jis
+    sulaukė visuotinio sukilimo. Vytautas pats dar laikėsi nuošaliai,
+    bet jo pasiųsti bajorai veikė kartu su žemaičiais, ir 1409 m., pra-
+    dėjus nuo Skirsnemunės, buvo sudegintos visos kryžiuočių pilys,
+    o jie patys buvo išvyti iš Žemaičių.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -53,3 +65,10 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

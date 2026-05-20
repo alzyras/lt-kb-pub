@@ -42,7 +42,10 @@ Nenurodyta
   santrauka: '1706 m. Augustas Altrandštate sudarė taiką su Karoliu, atsisakė Respublikos sosto ir pripažino Leščinskį karaliumi.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Pabūgęs visko netekti,
+    Karolis XII
+    staiga sumušė Augusto kariuomenę; caro kariuomenė iš Brastos
+    pati pasitraukė. Sumanęs suduoti Augustui smūgį skaudžiausioje
+    vietoje, Karolis nužygiavo į Saksoniją. Pabūgęs visko netekti,
     Augustas Altrandštate (Saksonijoje) padarė su Karoliu taiką,
     atsižadėjo Respublikos sosto ir pripažino karalium Leščinskį
     (1706 m.).
@@ -57,3 +60,6 @@ Nenurodyta
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XVIII amžius]]
+
+### Susiję objektai
+- [[objektai/vietos/Altrandštatas]]

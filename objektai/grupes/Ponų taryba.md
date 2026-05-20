@@ -6,6 +6,21 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1398 m.'
+  - '1492 m.'
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+  - 'XV'
+  - 'XX'
+  - 'XXI'
+date_start: '1398'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - grupe
@@ -21,39 +36,37 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
 
 ## Teiginiai
 - t-001
-  teiginys: 'Ponų taryba buvo nuolatinė aukštesniųjų valstybės urėdų grupė, sprendusi valstybės reikalus.'
+  teiginys: 'Ponų taryba turėjo teisę laisvai kalbėti, tačiau liko patariamuoju organu, kurio sprendimai nevaržė didžiojo kunigaikščio.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Kazimiero viešpatavimo metu Ponų taryba sustiprėjo ir, išrinkusi Aleksandrą, pareikalavo nustatyti jos kompetencijos ribas.'
+  teiginys: 'Lietuvos ponų taryboje buvę kunigaikščiai reikalavo vietos senate, bet dėl Lietuvos ponų pasipriešinimo į jį nepateko.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: 'Ponų taryboje kiekvienam buvo suteikta laisvė kalbėti, o didysis kunigaikštis pasižadėjo nebausti už jam nemalonų patarimą.'
+  teiginys: 'Įsigalėjusi ponų taryba ir seimai varžė valdovo veiksmus valstybės politikoje.'
   pagrindžia:
     - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-004
-  teiginys: 'Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba ir seimai.'
-  pagrindžia:
-    - c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Ponų taryba buvo nuolatinė aukštesniųjų valstybės urėdų grupė, sprendusi valstybės reikalus.'
+  santrauka: 'Ponų taryba turėjo teisę laisvai kalbėti, tačiau liko patariamuoju organu, kurio sprendimai nevaržė didžiojo kunigaikščio.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Todėl tuo laiku at-
-    sirado nuolatinė grupė aukštesniųjų valstybės urėdų, kurie
-    spręsdavo visus valstybės reikalus. Tai ir buvo vadinamoji
-    didžiojo kunigaikščio taryba.
+    Be to, jis pasižadėjo, nepasita-
+    ręs su taryba, nebedalinti niekam valstybinių vietų. Taryboje
+    buvo suteikta laisvė kiekvienam visiškai laisvai kal-
+    bėti; didysis kunigaikštis pasižadėjo nebausti net tų, kurių
+    patarimas būtų ir nemalonus jam. Vis dėlto šia privilegija ta-
+    ryba tebebuvo tik patariamasis organas: jos sprendimai nega-
+    lėjo varžyti didžiojo kunigaikščio; išklausęs tarybos nuomonės,
+    jis galėjo ir visiškai priešingai pasielgti.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -62,14 +75,15 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Kazimiero viešpatavimo metu Ponų taryba sustiprėjo ir, išrinkusi Aleksandrą, pareikalavo nustatyti jos kompetencijos ribas.'
+  santrauka: 'Lietuvos ponų taryboje buvę kunigaikščiai reikalavo vietos senate, bet dėl Lietuvos ponų pasipriešinimo į jį nepateko.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Kazimiero viešpatavimo metu taryba taip sutvirtėjo, jog,
-    išrinkusi Aleksandrą, pareikalavo, kad jis nustatytų jos kompe-
-    tencijos ribas. Aleksandras tatai padarė savo 1492 m. privilegi-
-    joje, kuria jis pirmiausia pasižadėjo tartis su taryba, siųs-
-    damas į užsienius pasiuntinius.
+    Bet jie dėl to nekėlė triukšmo; tik ilgai spyrėsi,
+    reikalaudami sau vietos senate, Lietuvos ponų taryboje buvusieji
+    kunigaikščiai. Bet kadangi Lietuvos ponai buvo jiems prie-
+    šingi, tai jie vis dėlto nepateko į senatą. Be to, dar buvo nu-
+    statyta bendrųjų seimų vieta, kuria buvo paskirta Var-
+    šuva.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -78,25 +92,12 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Ponų taryboje kiekvienam buvo suteikta laisvė kalbėti, o didysis kunigaikštis pasižadėjo nebausti už jam nemalonų patarimą.'
+  santrauka: 'Įsigalėjusi ponų taryba ir seimai varžė valdovo veiksmus valstybės politikoje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Taryboje
-    buvo suteikta laisvė kiekvienam visiškai laisvai kal-
-    bėti; didysis kunigaikštis pasižadėjo nebausti net tų, kurių
-    patarimas būtų ir nemalonus jam.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba ir seimai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Visa tai jis galėjo daryti laisvai; tačiau
+    Vieni žemes gaudavo amžinai,
+    kiti — iki savo ar vaikų gyvos galvos, o dar kiti — iki norėjo
+    didysis kunigaikštis. Visa tai jis galėjo daryti laisvai; tačiau
     valstybės politikoje jį varžė įsigalėjusi ponų taryba ir
     seimai (žiūr. 198—201 psl.).
   citata_rodoma: ""
@@ -105,4 +106,11 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-003
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

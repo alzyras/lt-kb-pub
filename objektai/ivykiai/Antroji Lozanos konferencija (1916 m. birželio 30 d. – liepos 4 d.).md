@@ -41,6 +41,9 @@ Nenurodyta
   santrauka: 'Antrojoje Lozanos konferencijoje 1916 m. birželio 30 d.–liepos 4 d. dalyvavo iš okupuotos Lietuvos atvykę delegatai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Šita konferencija tegvildeno propagandos organizacijos
+    klausimus ir protestavo prieš vokiečių okupacijos žiaurumus
+    Lietuvoje ir krašto naikinimą.
     Antroj Lozanos konferencijoj tų pačių metų birželio 30 —
     liepos 4 d. dalyvavo iš okupuotosios Lietuvos atvykę delegatai.
     Buvo nutarta politinės propagandos centrą padaryti Šveicarijoje
@@ -57,3 +60,6 @@ Nenurodyta
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
+
+### Susiję objektai
+- [[objektai/vietos/Šveicarija]]

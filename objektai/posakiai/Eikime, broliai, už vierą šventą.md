@@ -38,7 +38,7 @@ tags:
 
 ## Teiginiai
 - t-002
-  teiginys: 'Ši frazė yra kunigo Mackevičiaus pamokslinis raginimas.'
+  teiginys: 'Kunigas Mackevičius pamoksle ragino eiti už šventą tikėjimą, tėvynę Lietuvą ir lietuvius brolius.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -46,7 +46,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Ši frazė yra kunigo Mackevičiaus pamokslinis raginimas.'
+  santrauka: 'Kunigas Mackevičius pamoksle ragino eiti už šventą tikėjimą, tėvynę Lietuvą ir lietuvius brolius.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Gražų pamokslą lenkiškai, tą pat ir lietuviškai sakęs kunigas Mackevičius. Visa kariuo-
@@ -65,3 +65,4 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/paprociai/Sukilėlių telkimas Salose per bažnyčios varpų skambinimą ir dvikalbį pamokslą]]
+- [[objektai/asmenys/Antanas Mackevičius]]

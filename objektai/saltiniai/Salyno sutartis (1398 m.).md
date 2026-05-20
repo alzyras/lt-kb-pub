@@ -44,12 +44,6 @@ tags:
     - c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-005
-  teiginys: 'Švitrigailai apsiėmus laikytis Salyno sutarties, ordinas pradėjo karą siekdamas pašalinti Vytautą.'
-  pagrindžia:
-    - c-005
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
@@ -74,7 +68,8 @@ tags:
   santrauka: 'Salyno sutartimi Vytautas sutiko užleisti ordinui Žemaičius iki Nevėžio ir šiaurinę Suvalkų krašto dalį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Ja Vytautas sutiko už-
+    Nuo pasirašymo vie-
+    tos ir sutartis vadinama Salyno sutartim. Ja Vytautas sutiko už-
     leisti ordinui Žemaičius iki pat Nevėžio; ordinui, be to, buvo pa-
     likta šiaurinė Suvalkų krašto dalis (anapus linijos, einančios nuo
     Salyno tiesiog į Šešupę, ir kairysis Šešupės krantas). Už tai
@@ -91,7 +86,12 @@ tags:
   santrauka: 'Salyno sutartis buvo sudaryta Vytauto autoritetu, o Jogaila joje neminimas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Taigi ir Salyno sutartis buvo sudaryta jo paties
+    Ta proga reikia pasakyti, kad tada, kai jo interesams
+    būdavo patogu, jis noriai dėdavosi Jogailos vietininku (pa-
+    vyzdžiui, jei kada ordinas reikalaudavo iš jo ko nepriimtino, jis
+    atsikalbinėdavo negalįs to padaryti be Jogailos žinios); bet kada
+    reikėdavo ginti savo ir Lietuvos reikalus, jis tos priklausomybės
+    nepaisydavo. Taigi ir Salyno sutartis buvo sudaryta jo paties
     autoritetu: Jogaila ten nė žodžiu neminimas. Vytautas pats,
     nesiklausęs Jogailos, padarė su ordinu taiką ir net užleido ordinui
     didelius jam pavestos valstybės plotus.
@@ -106,6 +106,8 @@ tags:
   santrauka: 'Salyno sutartyje buvo minimi tik nelaisvieji valstiečiai, o Vytautas teigė, kad laisvieji galėjo kilnotis kur tinkami.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Ordinas, remdamasis Salyno su-
+    tartim, reikalavo, kad pabėgėliai žemaičiai būtų jam grąžinami.
     Bet sutarty buvo minimi tik nelaisvieji valstiečiai, ir Vytautas tei-
     sinosi, kad laisvieji galį kilnotis kur tinkami. O nustatyti, kas
     Žemaičiuose buvo laisvas, o kas ne, buvo labai sunku.
@@ -116,16 +118,3 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
-- c-005
-  santrauka: 'Švitrigailai apsiėmus laikytis Salyno sutarties, ordinas pradėjo karą siekdamas pašalinti Vytautą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kai šis apsiėmė laikytis Salyno sutarties, ordinas pradėjo karą,
-    norėdamas pašalinti Vytautą ir jo vietoje pastatyti Švitrigailą.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-005

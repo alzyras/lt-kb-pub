@@ -80,9 +80,6 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/dokumentas]]
-
 ### Laikotarpiai
 - [[laikotarpiai/XV amžius]]
 

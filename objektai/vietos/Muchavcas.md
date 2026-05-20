@@ -30,6 +30,10 @@ Karaliaus lėšomis buvo iškastas kitas kanalas, kuris jungia Pripetės intaką
   santrauka: 'Karaliaus lėšomis iškastas kanalas sujungė Pripetės intaką Piną su Bugo intaku Muchavcu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Kanalas atsėjo
+    apie 12 milijonų auksinų. Jį iškasė savo lėšomis hetmonas
+    Oginskis (todėl jis ir šiandien dar tebevadinamas Oginskio
+    kanalu).
     Karaliaus lėšomis buvo iškastas kitas kanalas, kuris jungia
     Pripetės intaką Piną su Bugo intaku Muchavcu.
   citata_rodoma: ""
@@ -39,7 +43,3 @@ Karaliaus lėšomis buvo iškastas kitas kanalas, kuris jungia Pripetės intaką
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Pripetė]]

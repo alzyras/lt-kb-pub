@@ -41,7 +41,15 @@ Kai atskirų asmenų ir delegacijų rūpesčiai nieko negelbėjo, jie 1879 m. pa
   santrauka: '1879 m. kaizeriui parašyta peticija surinko 16 400 parašų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Kai atskirų asmenų ir delegacijų rūpesčiai nieko negelbėjo, jie 1879 m. parašė kaizeriui peticiją
+    Lietuviai, būdami
+    nuo seno paklusnūs savo valdovams, reiškė nuolankumą kiek-
+    viena proga ir dabar: karaliaus šeimos švenčių proga nuolat nu-
+    vykdavo į Berlyną lietuvių delegacijos su ištikimybės pareiški-
+    mais. Išleidus lietuvių kalbos draudžiamąjį įstatymą, jie ėmė kla-
+    benti Berlyno valdžios įstaigų ir net valdovų rūmų duris, nurodi-
+    nėdami, kad lietuvių kalbos uždraudimas labai neigiamai atsiliep-
+    siąs tautos religijai ir moralei. Kai atskirų asmenų ir delegacijų
+    rūpesčiai nieko negelbėjo, jie 1879 m. parašė kaizeriui peticiją
     ir surinko po ja net 16.400 parašų.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -54,7 +62,7 @@ Kai atskirų asmenų ir delegacijų rūpesčiai nieko negelbėjo, jie 1879 m. pa
   santrauka: '1882 m. lietuviai vėl kreipėsi į kaizerį su nauja peticija, bet nebegavo atsakymo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tada lietuviai vėl kreipėsi į kaizerį su nauja peticija
+    leidimas. Tada lietuviai vėl kreipėsi į kaizerį su nauja peticija
     (1882 m.), bet šį kartą jau nebegavo net atsakymo. To nepai-
     sydami, jie siuntė dar kelias naujas peticijas; 1982 m. buvo su-
     rinkta 19.000 parašų, o 1895 m. — net 27.000.
@@ -69,7 +77,14 @@ Kai atskirų asmenų ir delegacijų rūpesčiai nieko negelbėjo, jie 1879 m. pa
   santrauka: 'Tuo pat metu buvo rašomos peticijos dėl lietuvių kalbos grąžinimo į mokyklas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Kadangi tuo pat metu
+    Tačiau
+    pirmieji lietuviai kandidatai gaudavo labai maža balsų, nes dau-
+    gumas valstiečių tebebalsavo už vokiečių konservatorių kandida-
+    tus. Mat, konservatoriai buvo daugiausia dvarininkai ir valdi-
+    ninkai, t. y. žmonės, kurie reprezentavo lietuvių kaimiečių įprastą
+    ištikimybę karaliui ir senajai tvarkai. Kadangi tuo pat metu
+
+
     buvo rašomos peticijos dėl lietuvių kalbos grąžinimo į moky-
     klas, tai konservatoriai, norėdami įsipirkti į lietuvių malonę, dė-
     josi pritarią tiems lietuvių rūpesčiams, o iš tikro parlamente lie-

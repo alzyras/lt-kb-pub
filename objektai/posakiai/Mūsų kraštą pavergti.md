@@ -6,15 +6,20 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-laikotarpis: '1430 m. vainikavimo konflikto kontekstas'
 datos:
   - '1430 m.'
-periodas: 'viduramziai'
-periodo_grupes: []
+  - '1978 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
 amziai:
   - 'XV'
+  - 'XX'
+  - 'XXI'
 date_start: '1430'
-date_end: '1430'
+date_end: '2026'
+laikotarpis: '1430 m. vainikavimo konflikto kontekstas'
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
@@ -32,8 +37,33 @@ tags: []
 - Pagrindinė forma: mūsų kraštą pavergti
 
 ## Teiginiai
+- t-002
+  teiginys: 'Vytautas laiškuose imperatoriui Zigmantui ir ordino magistrui teigė, kad draudimas vainikuotis reiškė pastangas „mūsų kraštą pavergti“.'
+  pagrindžia:
+    - c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Vytautas laiškuose imperatoriui Zigmantui ir ordino magistrui teigė, kad draudimas vainikuotis reiškė pastangas „mūsų kraštą pavergti“.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Bet savo politiniame veikime Vytautas nepriklausė
+    tokiems, kurie nuo savo linijos nuolaidžiai trauktųsi. Tai rodo jo
+    laiškai imperatoriui Zigmantui ir ordino magistrui: neleidimas
+    vainikuotis Vytautui reiškė ne tik jo asmeninės laisvės suvaržymą,
+    bet ir pastangas « mūsų kraštą pavergti »^15.
+    Visą 1430 vasarą Vytautas šiam nepaprastam aktui ruošėsi,
+    kai imperatorius jį gynė Romoje: Vytauto vainikavimasis visai
+    nekenkiąs Lietuvos ir Lenkijos sąjungai.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -41,3 +71,5 @@ tags: []
 
 ### Laikotarpiai
 - [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

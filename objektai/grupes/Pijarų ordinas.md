@@ -49,7 +49,7 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
   santrauka: 'XVIII a. į Lietuvą atsikraustęs Pijarų ordinas rūpinosi jaunuomenės auklėjimu ir kūrė dievobaimingąsias mokyklas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Be to, XVIII amž. ir į Lietuvą
+    tuvoje buvo jau gana daug. Be to, XVIII amž. ir į Lietuvą
     atsikraustė specialiai jaunuomenės auklėjimu rūpinąsis pijarų
     ordinas (pijarai kurdavo vadinamąsias dievobaimingąsias
     mokyklas, lotyniškai _scholae piae;_ dėl to jie ir buvo vadinami
@@ -66,6 +66,12 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
   santrauka: 'Pijarai, kaip ir jėzuitai, steigė savo mokyklas iš atskirų didžiūnų ir bajorijos fundacijų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Pijarų atneštąsias mintis, kurioms pritarė vi-
+    suomenė, jėzuitai labai greit pasisavino ir pradėjo mokyti nau-
+    joviškai. Ypač dėl šito jėzuitų prisitaikymo prie naujųjų reika-
+    lavimų, jų mokyklos nenustojo klestėjusios, ir pijarų mokyklos
+    nebegalėjo su jomis konkuruoti (pijarų mokyklų buvo daug ma-
+    žiau, negu jėzuitų).
     Pijarai, kaip ir jėzuitai, steigė savo mokyklas iš atskirų didžiū-
     nų ir bajorijos fundacijų.
   citata_rodoma: ""
@@ -79,7 +85,10 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
   santrauka: 'Pijarų ordinas turėjo pilnų kolegijų ir žemesniųjų mokyklų Vilniuje, Panevėžyje, Ukmergėje, Raseiniuose, Vitebske ir kitose vietose.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Pijarų mokyklos — vienur pilnos
+    Pijarai, kaip ir jėzuitai, steigė savo mokyklas iš atskirų didžiū-
+    nų ir bajorijos fundacijų. Pijarai, niekuo daugiau neužsiimdami,
+    kaip tik mokymu, gyveno tik ten, kur buvo jų mokyklų, o jėzui-
+    tai stengėsi visur apsigyventi. Pijarų mokyklos — vienur pilnos
     kolegijos, kitur žemesniosios mokyklos — buvo įkurtos šiose vie-
     tose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajam
     Dolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Va-

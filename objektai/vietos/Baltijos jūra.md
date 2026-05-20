@@ -13,11 +13,9 @@ datos:
   - '1916 m.'
   - '1936 m.'
   - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
+periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
-  - 'modernioji Lietuva'
-  - 'naujieji laikai'
 amziai:
   - 'XVI'
   - 'XVII'

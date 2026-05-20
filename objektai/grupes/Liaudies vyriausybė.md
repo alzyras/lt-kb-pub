@@ -75,3 +75,5 @@ Taip birželio 17-ąją atsirado gudriai sumanyta savotiška pereinamojo laikota
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/Justas Paleckis]]
+- [[objektai/ivykiai/Lietuvos valstybingumo griovimo sprendimai 1940 m. birželį-liepą]]
+- [[objektai/zodynas/sovietizacija sovietizavimas]]

@@ -30,7 +30,10 @@ Nebuvo aplenkti nė vienuolynai: juos paskelbė „lotyniškos lenkiškos propag
   santrauka: 'Vienuolynai buvo paskelbti „lotyniškos lenkiškos propagandos lizdais ir sukilimo šaknimis“.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Nebuvo aplenkti nė vienuolynai: juos paskelbė „lo-
+    Tokių buvo surasta 32, ir jos visos
+    buvo uždarytos. Be jų, dar buvo uždarytos 52 kop-
+    lyčios: joms buvo prikišta, kad be leidimo buvusios pasta-
+    tytos. Nebuvo aplenkti nė vienuolynai: juos paskelbė „lo-
     tyniškos lenkiškos propagandos lizdais ir sukilimo šaknimis".
   citata_rodoma: ""
   teiginio_tipas: faktas

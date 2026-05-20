@@ -26,7 +26,7 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Pijarai buvo pakviesti, nes rūpinosi mokslu ir praktinio gyvenimo reikalais.'
+  teiginys: 'Pijarai buvo pakviesti, nes daugiau rūpinosi mokslu ir praktinio gyvenimo reikalais.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -37,7 +37,7 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
   santrauka: 'Pijarai XVIII a. Lietuvoje kūrė dievobaimingąsias mokyklas, lotyniškai vadintas scholae piae.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Be to, XVIII amž. ir į Lietuvą
+    tuvoje buvo jau gana daug. Be to, XVIII amž. ir į Lietuvą
     atsikraustė specialiai jaunuomenės auklėjimu rūpinąsis pijarų
     ordinas (pijarai kurdavo vadinamąsias dievobaimingąsias
     mokyklas, lotyniškai _scholae piae;_ dėl to jie ir buvo vadinami
@@ -51,7 +51,7 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Pijarai buvo pakviesti, nes rūpinosi mokslu ir praktinio gyvenimo reikalais.'
+  santrauka: 'Pijarai buvo pakviesti, nes daugiau rūpinosi mokslu ir praktinio gyvenimo reikalais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pijarai daugiau rūpinosi pačiu mokslu ir praktiškojo

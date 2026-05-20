@@ -29,7 +29,11 @@ Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skub
   santrauka: 'Kryžiuočių žygis paprastai trukdavo ne ilgiau kaip savaitę, nes jie skubėdavo, kad lietuviai nespėtų pastoti kelio.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Toks žygis paprastai trukdavo ne ilgiau, kaip
+    Nedideli jo kariuomenės būriai
+    iš pasieninių pilių staiga įsiverždavo į Lietuvą ir, apiplėšę apylin-
+    kę, skubiai grįždavo į savo pilis. Grįždami jie atsigabendavo pri-
+    plėštus turtus, atsivarydavo bandas gyvulių ir atsivesdavo dau-
+    gybę belaisvių. Toks žygis paprastai trukdavo ne ilgiau, kaip
     savaitę: mat, kryžiuočiai skubėdavo, kad nespėtų pastoti jiems
     kelio lietuviai.
   citata_rodoma: ""

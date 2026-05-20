@@ -32,7 +32,10 @@ Tik vėliau iš jaunimo, susispietusio apie moksleivių žurnalą „Aušrinę",
   santrauka: 'Iš jaunimo, susispietusio apie moksleivių žurnalą „Aušrinė“, vėliau atsirado socialistiškos pakraipos aušrininkų organizacija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tik vėliau iš jaunimo, su-
+    Pirmoji lietuvių moksl-
+    eivių organizacija, įsteigta 1911 m., buvo „Ateitis". Tai bu-
+    vo katalikiška ir tautiška organizacija, kuriai priklausė beveik
+    visa mokslus einančioji jaunuomenė. Tik vėliau iš jaunimo, su-
     sispietusio apie moksleivių žurnalą „Aušrinę", atsirado so-
     cialistiškosios pakraipos moksleivių aušrininkų organizacija.
   citata_rodoma: ""

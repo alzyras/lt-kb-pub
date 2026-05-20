@@ -65,11 +65,6 @@ tags:
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/aktas]]
-- [[temos/dokumentas]]
-- [[temos/aktas - dokumentas]]
-
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
 - [[laikotarpiai/XXI amžius]]

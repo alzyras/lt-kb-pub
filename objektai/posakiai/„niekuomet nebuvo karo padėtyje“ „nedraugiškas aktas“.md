@@ -69,10 +69,6 @@ Jofės prašymą – įrašyti, kad Lietuva ir Sovietų Rusija „niekuomet nebu
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/aktas]]
-- [[temos/tikėjimas]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Dominykas Semaško]]
 - [[objektai/asmenys/Simonas Rozenbaumas]]

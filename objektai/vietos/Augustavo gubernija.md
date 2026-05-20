@@ -6,6 +6,20 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1863 m.'
+  - '1965 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
+periodo_grupes:
+  - 'naujieji laikai'
+amziai:
+  - 'XIX'
+  - 'XX'
+  - 'XXI'
+date_start: '1863'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - vieta
@@ -18,23 +32,29 @@ Lietuvos Užnemunė pri- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lietuvos Užnemunė priklausė gubernijai, iš pradžių vadintai Augustavo, o nuo 1867 m. – Suvalkų gubernija.'
+  teiginys: '1863 m. Augustavo gubernijoje, į kurią įėjo lietuviškoji Užnemunė, įvyko 62 sukilėlių mūšiai su caro kariuomene.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lietuvos Užnemunė priklausė gubernijai, iš pradžių vadintai Augustavo, o nuo 1867 m. – Suvalkų gubernija.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  santrauka: '1863 m. Augustavo gubernijoje, į kurią įėjo lietuviškoji Užnemunė, įvyko 62 sukilėlių mūšiai su caro kariuomene.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Lietuvos Užnemunė pri-
+    Per 1863 metus atkakliausiai sukilėliai ko-
+    vėsi su caro kariuomene Kauno gubernijoje,
+    kurioje įvyko 168 mūšiai ir susidūrimai su
+    caro kariuomene. Vilniaus gubernijoje - 81
+    mūšis, Augustavo gubernijoje, į kurią įėjo
+    lietuviškoji Užnemunė - 62 mūšiai.
 
-    3 skyrius •  R U S I J O S  I M P E R I J O S  VA L D O M A  L I E T U VA  ( 1 7 9 5 – 1 9 1 5 )
-    101
-    klausė gubernijai, kuri iš pradžių vadinta Augustavo, o nuo 1867 m. Su-
-    valkų gubernija – tai maždaug šeštadalis dabartinės Lietuvos teritorijos.
+    Prieš mūšį
+
+    Lietuvos sukilėlių vadovybė vyriausiuoju
+    sukilėlių ginkluotojų pajėgų vadu 1863
+    m. pavasarį paskyrė Peterburge tarnavusį
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -44,5 +64,10 @@ Lietuvos Užnemunė pri- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O 
     - t-001
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIX amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
 ### Susiję objektai
-- [[objektai/vietos/Suvalkų gubernija]]
+- [[objektai/vietos/Vilniaus gubernija]]

@@ -54,10 +54,10 @@ Nenurodyta
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Žinoma taip pat yra visiems, jog lietuviai pagonys, laidodami savo numirėlius, taip
-    giedojo: „Eik, – sako, – vargau, į antrą gyvenimą daug laimingesnį, kuriame ne tu vokiečiams, bet
-    tau vokiečiai vergaus.“ Jei būt tikėję, jog ir po smerčio reiks vergauti, kaip gyvojant, tad nebūt
-    taip giedoję laidodami. Jei paskiau dėjo daiktus į kapus, tad ne dėl atenčio^698 darbo, bet dėl
-    pasirodymo, jog, pasauly gyvendami, netingėjo.
+        giedojo: „Eik, – sako, – vargau, į antrą gyvenimą daug laimingesnį, kuriame ne tu vokiečiams, bet
+        tau vokiečiai vergaus.“ Jei būt tikėję, jog ir po smerčio reiks vergauti, kaip gyvojant, tad nebūt
+        taip giedoję laidodami. Jei paskiau dėjo daiktus į kapus, tad ne dėl atenčio^698 darbo, bet dėl
+        pasirodymo, jog, pasauly gyvendami, netingėjo.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

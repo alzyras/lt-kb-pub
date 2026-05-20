@@ -44,7 +44,9 @@ Nenurodyta
   santrauka: 'Pagal Dlugošo pasakojimą, prieš mirtį Vytautas pavedė Lietuvą Jogailai ir liepė jam atiduoti iždo bei pilių raktus.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Pagal Dlugošo idi­
+    Pa­
+    kelyje Vytautas nukrito nuo arklio ir į Trakus buvo nuvežtas jo
+    žmonos vežime. Iš patalo daugiau nebepakilo. Pagal Dlugošo idi­
     lišką aprašymą, Vytautas prieš mirtį (X.27) Lietuvą pavedęs Jo­
     gailai ir liepęs jam nuo iždo ir pilių atiduoti raktus.
   citata_rodoma: ""

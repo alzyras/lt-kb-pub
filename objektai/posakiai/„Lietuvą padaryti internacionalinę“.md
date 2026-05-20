@@ -68,5 +68,4 @@ SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, kita
 - [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Michailas Gorbačiovas]]
 - [[objektai/asmenys/Nikolajus Mitkinas]]

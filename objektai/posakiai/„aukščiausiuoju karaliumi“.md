@@ -67,9 +67,10 @@ tags:
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/kronika]]
-
 ### Laikotarpiai
 - [[laikotarpiai/XIII amžius]]
 - [[laikotarpiai/XXI amžius]]
+
+### Susiję objektai
+- [[objektai/ivykiai/Lietuvos valstybės susikūrimas apie 1240 m]]
+- [[objektai/posakiai/„Mindaugo Lietuvą“]]

@@ -53,33 +53,27 @@ Nenurodyta
 
 ## Teiginiai
 - t-005
-  teiginys: '1581 m. Kristupas Radvila Perkūnas prie Šelomos upės sumušė rusų dalinį ir pasuko į Rusijos gilumą.'
+  teiginys: '1581 m. rugpjūčio 21 d. prie Šelomos upės lietuviai sumušė apie 3000 rusų dalinį, o K. Radvila pasuko Rževo link.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-006
-  teiginys: 'Radvilos pajėgos nusiaubė Rževo, Toropeco ir Staricos apylinkes, o Ivanas IV buvo priverstas evakuoti savo šeimą ir dvarą.'
+  teiginys: '1581 m. rugpjūčio 25 d. K. Radvilos pajėgos nusiaubė Rževo apylinkes, o Ivanas IV evakavo šeimą, dvarą ir iždą.'
   pagrindžia:
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-007
-  teiginys: 'Radvilos pajėgos susikovė su Toropeco įgula, vėliau nusiaubė Dubno, Cholmo, Starajos Rusos ir Opokos apylinkes, o galiausiai pateikė žygio ataskaitą prie Pskovo.'
+  teiginys: 'K. Radvilos pajėgos nusiaubė Opokos apylinkes, o spalio 23 d. pasiekė S. Batoro stovyklą prie apgulto Pskovo.'
   pagrindžia:
     - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-008
-  teiginys: 'Radvilos pajėgos nusiaubė Dubno, Cholmo, Starajos Rusos ir Opokos apylinkes, o galiausiai pateikė žygio ataskaitą prie Pskovo.'
-  pagrindžia:
-    - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1581 m. Kristupas Radvila Perkūnas prie Šelomos upės sumušė rusų dalinį ir pasuko į Rusijos gilumą.'
+  santrauka: '1581 m. rugpjūčio 21 d. prie Šelomos upės lietuviai sumušė apie 3000 rusų dalinį, o K. Radvila pasuko Rževo link.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Pagerbdamas
@@ -103,7 +97,7 @@ Nenurodyta
   pagrindžia:
     - t-005
 - c-002
-  santrauka: 'Radvilos pajėgos nusiaubė Rževo, Toropeco ir Staricos apylinkes, o Ivanas IV buvo priverstas evakuoti savo šeimą ir dvarą.'
+  santrauka: '1581 m. rugpjūčio 25 d. K. Radvilos pajėgos nusiaubė Rževo apylinkes, o Ivanas IV evakavo šeimą, dvarą ir iždą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1581 m. Pskovo kampanija, Radvilos Perkūno reidas, Lietu
@@ -123,28 +117,7 @@ Nenurodyta
   pagrindžia:
     - t-006
 - c-003
-  santrauka: 'Radvilos pajėgos susikovė su Toropeco įgula, vėliau nusiaubė Dubno, Cholmo, Starajos Rusos ir Opokos apylinkes, o galiausiai pateikė žygio ataskaitą prie Pskovo.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Rugpjūčio 29 d. lietuviai susikovė su į pa-
-    galbą savo valdovui skubėjusia apie 1000
-    karių Toropeco įgula. Rusai buvo sumušti,
-    apie 300 jų žuvo. Rugsėjo 4 d. lietuviai pa-
-    siekė Dauguvos ir Volgos upių vandens-
-    kyrą, kur ilsėjosi ir išsižvalgė
-    apylinkes. Rugsėjo 9 d. jie
-    dar kartą susirėmė su
-    Toropeco įgula, nukovė
-    200 rusų šaulių.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-007
-- c-004
-  santrauka: 'Radvilos pajėgos nusiaubė Dubno, Cholmo, Starajos Rusos ir Opokos apylinkes, o galiausiai pateikė žygio ataskaitą prie Pskovo.'
+  santrauka: 'K. Radvilos pajėgos nusiaubė Opokos apylinkes, o spalio 23 d. pasiekė S. Batoro stovyklą prie apgulto Pskovo.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Vėliau
@@ -182,8 +155,12 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-008
+    - t-007
 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XVI amžius]]
+
+### Susiję objektai
+- [[objektai/vietos/Volgos upė]]
+- [[objektai/vietos/Šelomos upė]]

@@ -63,6 +63,5 @@ Himansas Šveicarijos pavyzdžiu paruošė Lietuvos federacinės valstybės, sud
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Rytų Lietuva]]
 - [[objektai/zodynas/autonomija autonominis statusas]]
 - [[objektai/zodynas/federacija federacinė valstybė]]

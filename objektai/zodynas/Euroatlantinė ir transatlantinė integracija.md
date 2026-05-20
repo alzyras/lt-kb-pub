@@ -62,8 +62,5 @@ Santykiai su kaimynėmis ir transatlantinė integracija. Lietuva pasirinko euroa
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/aktas]]
-
 ### Susiję objektai
 - [[objektai/ivykiai/Konstitucinio akto dėl nesijungimo į postsovietines Rytų sąjungas priėmimas (1992 m. birželio 8 d.)]]

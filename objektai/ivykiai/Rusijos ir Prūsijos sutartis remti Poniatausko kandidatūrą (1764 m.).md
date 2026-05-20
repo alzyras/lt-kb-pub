@@ -44,7 +44,7 @@ Nenurodyta
   santrauka: 'Tarp Rusijos ir Prūsijos buvo atnaujinta jau daug kartų daryta sutartis, kuria abi valstybės pasižadėjo remti Poniatausko kandidatūrą ir žiūrėti, kad Respublikoje nebūtų padaryta jokių reformų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tarp Ru-
+    Taip ir įvyko. Tarp Ru-
     sijos ir Prūsijos buvo atnaujinta jau daug kartų daryta sutartis,
     kuria abi valstybės pasižadėjo remti Poniatausko kandidatūrą
     ir žiūrėti, kad Respublikoje nebūtų padaryta jokių reformų. Taip
@@ -61,6 +61,3 @@ Nenurodyta
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XVIII amžius]]
-
-### Susiję objektai
-- [[objektai/vietos/Rusija]]

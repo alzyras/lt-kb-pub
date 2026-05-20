@@ -31,7 +31,9 @@ Varydamas tautišką politiką ir kovodamas su ordinu, jis rado sąjungininkų p
   santrauka: 'Vytenis varė visiškai tokią pat tautišką politiką, kaip ir Traidenis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Vytenis varė visiškai tokią pat tautišką
+    Čia taip pat buvo vienintelis kelias ir ginklams atsigabenti iš
+    vakarų Europos.
+    **Vytenio valstybė.** Vytenis varė visiškai tokią pat tautišką
     politiką, kaip ir Traidenis.
   citata_rodoma: ""
   teiginio_tipas: faktas

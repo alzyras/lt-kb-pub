@@ -26,18 +26,6 @@ Konstitucija. Konstitucija nustatė Lietuvos valstybei demokratinės respublikos
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: '1922 m. Lietuvos Valstybės Konstitucija nustatė Lietuvai demokratinės respublikos formą.'
-  pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: 'Įsigaliojus 1922 m. Konstitucijai, buvo paskelbti rinkimai į pirmąjį seimą.'
-  pagrindžia:
-    - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
@@ -60,38 +48,3 @@ Konstitucija. Konstitucija nustatė Lietuvos valstybei demokratinės respublikos
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: '1922 m. Lietuvos Valstybės Konstitucija nustatė Lietuvai demokratinės respublikos formą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Konstitucija nustatė Lietuvos valstybei demokratinės respubli-
-    kos formą (str. 1) su valstybės spalvomis — geltona, žalia, raudona
-    — ir valstybės ženklu — baltu Vyčiu raudoname dugne (str. 7).
-    Piliečiams laidavo plačias teises ir laisves ir apsaugojo nuosavybės
-    teisę (str. 8-21). Tautos atstovai, renkami kas treji metai visuotiniu,
-    lygiu, tiesioginiu ir slaptu balsavimu, proporcingąja rinkimų sistema,
-    turėjo sudaryti seimą, kurs turėjo leisti įstatymus, prižiūrėti vyriau-
-    sybės darbus, tvirtinti biudžetą, sutartis, pradėti ar baigti karą ir t.t.
-    (str. 22-39).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Įsigaliojus 1922 m. Konstitucijai, buvo paskelbti rinkimai į pirmąjį seimą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tuojau įsigaliojus konstitucijai (1922. VIII. 6), buvo pa-
-    skelbti rinkimai į pirmąjį seimą (1922. X. 10—11); jis susi-
-    rinko lapkričio mėn. 13 d. ir išrinko konstitucijos nustatyta
-    tvarka prezidentą Aleksandrą Stulginskį (XII. 21),
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003

@@ -42,13 +42,13 @@ Nenurodyta
 
 ## Teiginiai
 - t-003
-  teiginys: 'Vilniuje Algirdas buvo pasitiktas senovės papročiu.'
+  teiginys: 'Vilniuje Algirdą džiaugsmingai pasitiko žmonės, senovės papročiu plodami rankomis ir giedodami „Lado! Lado!“.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-004
-  teiginys: 'Pasitinkantieji plojo rankomis ir giedojo „Lado! Lado!“.'
+  teiginys: 'Vilniuje Algirdą pasitikę žmonės plojo rankomis ir giedojo „Lado! Lado!“.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -56,7 +56,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vilniuje Algirdas buvo pasitiktas senovės papročiu.'
+  santrauka: 'Vilniuje Algirdą džiaugsmingai pasitiko žmonės, senovės papročiu plodami rankomis ir giedodami „Lado! Lado!“.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Vilniuje Algirdą džiaugsmin-

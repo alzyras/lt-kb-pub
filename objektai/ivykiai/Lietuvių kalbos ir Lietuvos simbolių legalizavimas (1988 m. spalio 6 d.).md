@@ -58,5 +58,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/daiktai/Gediminaičių stulpai]]
 - [[objektai/autoriai/V. Kudirka]]

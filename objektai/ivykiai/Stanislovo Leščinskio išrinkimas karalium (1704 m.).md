@@ -43,7 +43,9 @@ Nenurodyta
   santrauka: '1704 m. Karolis privertė sušaukti švedų kariuomenės apsuptą elekcinį seimą, kuris karaliumi paskelbė Stanislovą Leščinskį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Pagaliau
+    Todėl visuotinio sukilimo
+    prieš švedus, kaip 1656 m.,
+    nebegalėjo būti. Pagaliau
     1704 m. Karolis privertė
     sušaukti elekcinį seimą, ku-
     ris, apstatytas švedų ka-

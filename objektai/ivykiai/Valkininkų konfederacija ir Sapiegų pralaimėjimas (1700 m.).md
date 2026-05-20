@@ -11,22 +11,30 @@ aliases:
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-patikimumas: 'vidutinis'
 datos:
-  - '1700 m. lapkričio 18 d.'
+  - '1700 m.'
+  - '1771 m.'
+  - '1936 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVII'
+  - 'XVIII'
+  - 'XX'
+  - 'XXI'
+date_start: '1700'
+date_end: '2026'
+patikimumas: 'vidutinis'
 vaidmenys: []
 dalyviai:
   - 'Sapiegos'
   - 'respublikonų kariuomenė'
   - 'LDK bajorija'
 susije_irasai: []
-periodo_grupes: []
-amziai:
-  - 'XVII'
 laikotarpis: '1700 m. lapkričio 18 d.'
-date_start: '1700'
-date_end: '1700'
-periodas: 'ankstyvieji_naujieji_laikai'
 tags:
   - bajorija
   - ivykis
@@ -62,6 +70,12 @@ Nenurodyta
   teiginys: 'Valkininkų mūšis siejamas su ilgainiui Lietuvą apėmusios suirutės pradžia.'
   pagrindžia:
     - c-002
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-008
+  teiginys: 'Valkininkų mūšis dažnai siejamas su ilgainiui Lietuvą apėmusios suirutės pradžia, privedusios šalį prie situacijos, kai jos likimą labiau nei ji pati ėmė lemti jos kaimynai.'
+  pagrindžia:
+    - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
@@ -101,7 +115,39 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-007
+- c-003
+  santrauka: 'Valkininkų mūšis dažnai siejamas su ilgainiui Lietuvą apėmusios suirutės pradžia, privedusios šalį prie situacijos, kai jos likimą labiau nei ji pati ėmė lemti jos kaimynai.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    deklaruojamų bajoriškosios lygybės idealų,
+    dėl kurių ji ir pakilo į ginkluotą kovą, pa-
+    versti gyvenimo tikrove. Valkininkų mūšis
+    dažnai siejamas su ilgainiui Lietuvą apė-
+    musios suirutės pradžia, privedusios šalį
+    prie situacijos, kai jos likimą labiau nei ji
+    pati ėmė lemti jos kaimynai.
+
+    ## Puslapis 143
+
+    BEZDEZO (ANTOPOLIO) MUSIS 1771
+
+    Ki
+    | LIETUVOS
+
+    4 DIDŽIOJI |
+
+    I. KUNIGAIKŠTYSTĖ
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-008
 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XVII amžius]]
+- [[laikotarpiai/XVIII amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

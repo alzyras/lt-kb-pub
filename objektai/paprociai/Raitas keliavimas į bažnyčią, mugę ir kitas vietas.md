@@ -48,7 +48,7 @@ Nenurodyta
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 - t-005
-  teiginys: 'Žirgų gražybė ir jų turėjimas senovėje buvo jaunuomenės garbės klausimas.'
+  teiginys: 'Kalnėnų ir žemaičių jaunuomenė senovėje labiausiai rūpinosi žirgų gražybe.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
@@ -56,13 +56,13 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Žirgų gražybė ir jų turėjimas senovėje buvo jaunuomenės garbės klausimas.'
+  santrauka: 'Kalnėnų ir žemaičių jaunuomenė senovėje labiausiai rūpinosi žirgų gražybe.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Todėl jaunuomenė kaip kalnėnų, taip ir žemaičių senovėj nieku kitu nesirūpino, tiktai žirgų gražybe,
-    kurių veislė visame pasauly buvo garsi ir gedaujama ne vien nuo grekonų ir rymionų dėl savo
-    dailumo, čeklumo^1186 , greitumo ir stiprumo, bet dar ir paskesniuose laikuose yra garbinama ir nuo
-    senųjų minima.
+        kurių veislė visame pasauly buvo garsi ir gedaujama ne vien nuo grekonų ir rymionų dėl savo
+        dailumo, čeklumo^1186 , greitumo ir stiprumo, bet dar ir paskesniuose laikuose yra garbinama ir nuo
+        senųjų minima.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -75,11 +75,11 @@ Nenurodyta
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Todėl šiandien dar jaunas žemaitis, jei
-    negali raitas joti noris ir ant erkelės kumelėlės į bažnyčią ar į mugę, tad velijąs pėsčias beeinąs,
-    nekaip bevažiuojąs. Klausiamas, dėl ko nevažiuoja su motriškosiomis važiuotas, atsako: „Ar aš koksai
-    vergas ratgaly vilktis.“ Gaspadorius subatos vakarą, norėdamas pievos kertę nubengti, stiprina savo
-    jaunus pjovėjus būtinai nuvargusius tais žodžiais: „Vaikeliai, benkim tą barą šiandien, aš jums rytoj
-    duosiu arklius į bažnyčią joti.“
+        negali raitas joti noris ir ant erkelės kumelėlės į bažnyčią ar į mugę, tad velijąs pėsčias beeinąs,
+        nekaip bevažiuojąs. Klausiamas, dėl ko nevažiuoja su motriškosiomis važiuotas, atsako: „Ar aš koksai
+        vergas ratgaly vilktis.“ Gaspadorius subatos vakarą, norėdamas pievos kertę nubengti, stiprina savo
+        jaunus pjovėjus būtinai nuvargusius tais žodžiais: „Vaikeliai, benkim tą barą šiandien, aš jums rytoj
+        duosiu arklius į bažnyčią joti.“
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

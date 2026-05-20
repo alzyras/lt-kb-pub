@@ -21,7 +21,3 @@ Parašytas ir išleistas tiems laikams novatoriškas elementorius lietuvių kalb
 
 ## Teiginiai
 ## Reikšmingi paminėjimai
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/dokumentas]]

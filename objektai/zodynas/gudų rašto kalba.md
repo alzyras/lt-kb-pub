@@ -25,7 +25,7 @@ Lietuvoje vidaus reikalams jau nuo XIV amž. galo buvo vartojama gudų rašto ka
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Dar ilgai buvo vartojama ta pati gudų kalba, o po unijos kaskart vis labiau ėmė įsigalėti lenkų kalba.'
+  teiginys: 'Po unijos greta ilgai vartotos gudų rašto kalbos vis labiau įsigalėjo lenkų kalba.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -36,7 +36,10 @@ Lietuvoje vidaus reikalams jau nuo XIV amž. galo buvo vartojama gudų rašto ka
   santrauka: 'Lietuvoje vidaus reikalams jau nuo XIV amž. galo buvo vartojama gudų rašto kalba.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Lietuvoje vidaus reikalams jau nuo XIV amž. galo buvo vartojama gudų rašto kalba. Iš pradžių, greta
+    **Kalbų vartojimas.** Lietuvoje vidaus reikalams jau nuo XIV
+    amž. galo buvo vartojama gudų rašto kalba. Iš pradžių, greta
+
+
     jos, dar buvo pradėta vartoti lotynų kalba, tačiau ji neįsigalėjo.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -46,9 +49,12 @@ Lietuvoje vidaus reikalams jau nuo XIV amž. galo buvo vartojama gudų rašto ka
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Dar ilgai buvo vartojama ta pati gudų kalba, o po unijos kaskart vis labiau ėmė įsigalėti lenkų kalba.'
+  santrauka: 'Po unijos greta ilgai vartotos gudų rašto kalbos vis labiau įsigalėjo lenkų kalba.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Tačiau judėjimas dėl lotynų kalbos veikiai aprimo. Plačiosios
+    bajorų masės lotynų kalbos nemokėjo, nes nebuvo mokyklų,
+    kuriose jie būtų galėję išmokti, ir gyvenimas nuėjo savo vaga.
     Dar ilgai buvo vartojama ta pati gudų kalba, o po unijos kaskart
     vis labiau ėmė įsigalėti lenkų kalba.
   citata_rodoma: ""

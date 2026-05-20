@@ -6,6 +6,17 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1936'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - ežeras
@@ -21,28 +32,24 @@ O kai, besivydami bolševikus, lenkai ties Druskininkais persikėlė per Nemuną
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lenkams ties Druskininkais persikėlus per Nemuną, Lietuvos kariuomenės būklė dar labiau pablogėjo.'
+  teiginys: 'Rugsėjo 23 d. lenkų divizijos perėjo tiltą per Nemuną Druskininkuose ir žygiavo Marcinkonių link.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: '2) Lietuvos siena eina Kerzono linija (Suvalkų krašto ruože ta linija buvo nustatyta Suvalkų sutartyje, kaip demarkacijos linija) ligi Nemuno, paskui — Nemunu ligi Druskininkų, nuo čia — per Ežeronis ligi Volios, toliau vėl Nemunu ligi Beržūnės, o nuo čia.'
-  pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lenkams ties Druskininkais persikėlus per Nemuną, Lietuvos kariuomenės būklė dar labiau pablogėjo.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: 'Rugsėjo 23 d. lenkų divizijos perėjo tiltą per Nemuną Druskininkuose ir žygiavo Marcinkonių link.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    O kai, besivydami bolše-
-    vikus, lenkai ties Druskininkais persikėlė per Nemuną ir užėjo
-    lietuviams iš kairiojo sparno, — mūsų kariuomenės būklė dar
-    labiau pablogėjo: dalis mūsų kariuomenės buvo visai atkirsta
-    nuo savųjų.
+    Daug lietuvių karių žuvo,
+    buvo sužeisti ar pateko priešams į nelaisvę.
+    Rugsėjo 23 d. lenkų divizijos perėjo tiltą
+    per Nemuną Druskininkuose ir žygiavo
+    Marcinkonių link. Rugsėjo 28 d. lenkai
+    užėmė Lydą ir tęsė puolimą Varėnos kryp-
+    timi.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -50,24 +57,14 @@ O kai, besivydami bolševikus, lenkai ties Druskininkais persikėlė per Nemuną
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: '2) Lietuvos siena eina Kerzono linija (Suvalkų krašto ruože ta linija buvo nustatyta Suvalkų sutartyje, kaip demarkacijos linija) ligi Nemuno, paskui — Nemunu ligi Druskininkų, nuo čia — per Ežeronis ligi Volios, toliau vėl Nemunu ligi Beržūnės, o nuo čia.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    2) Lietuvos siena
-    eina Kerzono linija (Suvalkų krašto ruože ta linija buvo nustatyta
-    Suvalkų sutartyje, kaip demarkacijos linija) ligi Nemuno, paskui
-    — Nemunu ligi Druskininkų, nuo čia — per Ežeronis ligi Volios,
-    toliau vėl Nemunu ligi Beržūnės, o nuo čia tiesiog į rytus ligi Len-
-    kijos su Sovietų Rusija nustatytų sienų.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/ežeras]]
+
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
+### Susiję objektai
+- [[objektai/vietos/Marcinkonys]]

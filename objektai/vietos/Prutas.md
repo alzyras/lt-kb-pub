@@ -29,7 +29,8 @@ Iš tikro jam pasisekė: 1711 m. ties Prutu caras vos nežuvo su visa savo kariu
   santrauka: '1711 m. ties Prutu caras vos nežuvo su visa kariuomene, bet išsigelbėjo ir sudarė sau gana palankią taiką.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Iš tikro jam pasisekė: 1711 m. ties Prutu
+    **Karo pabaiga.** Karolis XII dar tikėjosi atsigauti, sukėlęs
+    prieš carą turkus. Iš tikro jam pasisekė: 1711 m. ties Prutu
     caras vos nežuvo su visa savo kariuomene; tik papirkęs sul-
     tono ministerius, išsigelbėjo ir padarė gana palankią sau tai-
     ką.

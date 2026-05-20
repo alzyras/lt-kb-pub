@@ -9,16 +9,21 @@ variantai:
 aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-bukle: juodrastis
-laikotarpis: '1325 m.'
 datos:
   - '1325 m.'
-periodas: ''
-periodo_grupes: []
+  - '1978 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
 amziai:
   - 'XIV'
+  - 'XX'
+  - 'XXI'
 date_start: '1325'
-date_end: '1325'
+date_end: '2026'
+bukle: juodrastis
+laikotarpis: '1325 m.'
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
@@ -52,7 +57,7 @@ Nenurodyta
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-004
-  teiginys: 'Atidėjus krikšto klausimą, Gediminui rūpėjo naujai sudaryta taika.'
+  teiginys: '1325 m. iš Avinjono sugrįžęs Rygos arkivyskupas paskelbė Ordinui interdiktą už Lietuvos krikšto sutrukdymą.'
   pagrindžia:
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -63,7 +68,12 @@ Nenurodyta
   santrauka: '1325 m. iš Avinjono sugrįžęs Rygos arkivyskupas metė ordinui interdiktą už Lietuvos krikšto sutrukdymą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Iš Avignono 1325 m. sugrįžęs Rygos arki­
+    žodžiuose, berods, atsispindi Gedimino anksčiau turėtos viltys,
+    kada jis, kreipdamasis į popiežių, buvo tikėjęsis, jog aukščiausias
+    Bažnyčios autoritetas sudraus ordiną. Avignone greičiausiai ne­
+    daug tebuvo žinoma, kad kryžiuočiai, sau įsikalę pagonių lietuviu
+    krikštijimo monopolį, kliudė Lietuvai užmegzti ryšius su krikščio­
+    niškomis valstybėmis. Iš Avignono 1325 m. sugrįžęs Rygos arki­
     vyskupas metė ordinui interdiktą už Lietuvos krikšto sutrukdymą.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -73,9 +83,14 @@ Nenurodyta
   pagrindžia:
     - t-003
 - c-002
-  santrauka: 'Atidėjus krikšto klausimą, Gediminui rūpėjo naujai sudaryta taika.'
+  santrauka: '1325 m. iš Avinjono sugrįžęs Rygos arkivyskupas paskelbė Ordinui interdiktą už Lietuvos krikšto sutrukdymą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
+    Avignone greičiausiai ne­
+    daug tebuvo žinoma, kad kryžiuočiai, sau įsikalę pagonių lietuviu
+    krikštijimo monopolį, kliudė Lietuvai užmegzti ryšius su krikščio­
+    niškomis valstybėmis. Iš Avignono 1325 m. sugrįžęs Rygos arki­
+    vyskupas metė ordinui interdiktą už Lietuvos krikšto sutrukdymą.
     Krikšto klausimą atidėjus, Gediminui berūpėjo tik naujai su­
     darytoji taika.
   citata_rodoma: ""
@@ -89,3 +104,8 @@ Nenurodyta
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
+### Susiję objektai
+- [[objektai/asmenys/Gediminas]]

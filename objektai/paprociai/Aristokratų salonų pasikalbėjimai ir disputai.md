@@ -44,7 +44,9 @@ Nenurodyta
   santrauka: 'Aristokratų salonuose vietoj senųjų turnyrų, o kartais ir medžioklių, buvo rengiami pasikalbėjimai ir disputai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Vietoj senųjų aristokratijos turnyrų, o kartais net vietoj
+    Eilė autorių užsiėmė visuomenės san-
+    tvarkos, valstybės ir ūkio klausimais. Visi tuo domėjosi, visi apie tai
+    tekalbėjo. Vietoj senųjų aristokratijos turnyrų, o kartais net vietoj
     medžioklių, salionuose buvo ruošiami pasikalbėjimai ir disputai.
   citata_rodoma: ""
   teiginio_tipas: faktas

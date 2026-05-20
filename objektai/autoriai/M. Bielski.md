@@ -1,0 +1,56 @@
+---
+tipas: autorius
+pavadinimas: 'M. Bielski'
+sukurta: '2026-05-20'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
+patikimumas: 'vidutinis'
+tags:
+  - autorius
+---
+# M. Bielski
+
+## Santrauka
+
+Dlugošas, o ypač XVI amž. išspausdintos Miechowitos, M.Bielskio ir M.
+
+## Teiginiai
+- t-001
+  teiginys: 'M. Bielskio kronika buvo tarp XVI a. išspausdintų lenkų kronikų, pažįstamų aptariamam autoriui.'
+  pagrindžia:
+    - c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'M. Bielskio kronika buvo tarp XVI a. išspausdintų lenkų kronikų, pažįstamų aptariamam autoriui.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Laikydama pagrindu Lietuvos valstybės žemes, ji
+    apžvelgė per kelioliką šimtmečių didelį rytų Europos plotą. Ji buvo
+    atremta į kelioliką Lietuvos Metraščio rankraščių, panaudojant dar
+    aštuonis rusų metraščius (Kijevo ir kitų žemių), kelias Prūsų ordino
+    ir Livonijos kronikas. Iš lenkų kronikų jam buvo pažįstamas J.
+    Dlugošas, o ypač XVI amž. išspausdintos Miechowitos, M.Bielskio
+    ir M. Kromerio kronikos.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/autoriai/M. Kromer]]
+- [[objektai/autoriai/Miechowita]]

@@ -29,6 +29,12 @@ Apskritai stoka lietuviškų mokyklų ir savos inteligentijos, mišros vedybos i
   santrauka: 'Apskritai stoka lietuviškų mokyklų ir savos inteligentijos, mišros vedybos ir bažnyčių sulatvinimas labai mažina lietuvių skaičių Latvijoje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Nors Latvijoje lietuvių kunigų yra beveik pakankamai, bet
+    jie dažniausiai yra skiriami į nelietuviškas sritis arba turi pasi-
+    traukti į Lietuvą, o į parapijas, kur net daugumas yra lietuviai,
+    skiriami latviai kunigai, kurie dažnai visiškai nemoka lietuviškai.
+    Tuo būdu pats didysis lietuviškumo palaikymo veiksnys —
+    bažnyčia — veikia lietuvių nenaudai.
     Apskritai stoka lietuviškų mokyklų ir savos inteligentijos,
     mišros vedybos ir bažnyčių sulatvinimas labai mažina lietuvių
     skaičių Latvijoje.

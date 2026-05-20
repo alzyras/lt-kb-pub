@@ -46,6 +46,8 @@ Nenurodyta
   santrauka: 'Kruvinų susidūrimų pasitaikydavo dažnuose bajorijos susibūrimuose, ypač seimeliuose.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Tik ketvirtą dieną vyskupo Bžostausko ir Višniaveckių rūpesčių jie
+    buvo palaidoti.
     Visa tai labai charakteringa to meto bajorijos nuotaikai ir jos
     veikimo būdui. Šitokių kruvinų vaizdų atsitikdavo dažnuose bajorijos
     susibūrimuose, o ypač seimeliuose.

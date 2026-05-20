@@ -33,7 +33,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Per karūnaciją caras įsakė atsiklausti į iškilmes suvažiavusios bajorijos dėl baudžiavos panaikinimo.'
+  teiginys: 'Per karūnaciją caras įsakė atsiklausti suvažiavusios bajorijos dėl baudžiavos panaikinimo.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -47,7 +47,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Per karūnaciją caras įsakė atsiklausti į iškilmes suvažiavusios bajorijos dėl baudžiavos panaikinimo.'
+  santrauka: 'Per karūnaciją caras įsakė atsiklausti suvažiavusios bajorijos dėl baudžiavos panaikinimo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Dar per karūnaciją caras įsakė atsiklausti dėl baudžiavos
@@ -82,8 +82,8 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/tikėjimas]]
-
 ### Laikotarpiai
 - [[laikotarpiai/XIX amžius]]
+
+### Susiję objektai
+- [[objektai/zodynas/ukazai]]

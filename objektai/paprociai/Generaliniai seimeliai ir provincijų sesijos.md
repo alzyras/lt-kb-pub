@@ -51,7 +51,11 @@ Nenurodyta
   santrauka: 'Generaliniai seimeliai neišnyko įvedus bendrą seimą su lietuviais, o Lietuvoje prieš bendruosius seimus pradėti rengti panašūs suvažiavimai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tie generaliniai seimeliai neišnyko nė įvedus bend-
+    Mat, anks-
+    čiau Lenkija buvo susi-
+    dėjusi iš dviejų valsty-
+    bių, ir šito dvilypio savarankiškumo žymės dar tebebuvo ne-
+    išnykusios. Tie generaliniai seimeliai neišnyko nė įvedus bend-
     rą su lietuviais seimą. Ir Lietuvoje prieš kiekvieną bendrąjį
     seimą taip pat buvo pradėti daryti tokie pat į seimą vyks-
     tančių atstovų ir senatorių suvažiavimai.
@@ -66,7 +70,8 @@ Nenurodyta
   santrauka: 'Provincijų sesijomis vadinti posėdžiai atlikdavo tą patį darbą, kurį anksčiau atlikdavo generaliniai seimeliai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tie posėdžiai būdavo
+    Ten atskirai darydavo savo posė-
+    džius abidvi Lenkijos provincijos ir Lietuva. Tie posėdžiai būdavo
     vadinami „provincijų sesijomis" (sesijomis tada va-
     dindavo ir kiekvienos dienos seimo posėdį; dabar sesijomis va-
     dinamas visas parlamento veikimo metas tarp dviejų atostogų
@@ -79,3 +84,7 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Provincijų sesijos]]

@@ -45,9 +45,6 @@ Postūmį įstoti į NATO ypač sustiprino lapkričio 23 dieną JAV prezidento D
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/tikėjimas]]
-
 ### Susiję objektai
 - [[objektai/grupes/Lietuvos Respublikos Seimas]]
 - [[objektai/vietos/Vašingtonas]]

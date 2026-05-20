@@ -48,9 +48,6 @@ tags:
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/tikėjimas]]
-
 ### Susiję objektai
 - [[objektai/paprociai/Kandidatas 15 Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme]]
 - [[objektai/paprociai/Kandidatas Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme]]

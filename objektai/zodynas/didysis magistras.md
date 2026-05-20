@@ -7,6 +7,22 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+datos:
+  - '1309 m.'
+  - '1410 m.'
+  - '1936 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+  - 'XV'
+  - 'XX'
+  - 'XXI'
+date_start: '1309'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - kraštas
@@ -21,28 +37,26 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
 
 ## Teiginiai
 - t-005
-  teiginys: 'Didysis magistras į mūšį meta rezervą, kai mūšio sėkmė krypsta ne jo naudai.'
+  teiginys: '1309 m. didysis magistras su visa taryba atsikėlė į Marijenburgą ir pats perėmė vadovybę Prūsijoje.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-006
-  teiginys: 'Didysis magistras Ulrichas fon Jungingenas žuvo kartu su beveik visa likusia Ordino vadovybe.'
-  pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Didysis magistras į mūšį meta rezervą, kai mūšio sėkmė krypsta ne jo naudai.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  santrauka: '1309 m. didysis magistras su visa taryba atsikėlė į Marijenburgą ir pats perėmė vadovybę Prūsijoje.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tuo tarpu len
-    ėmė spausti kryžiuočių dešinįjį flangą.
-    Matydamas, kad mūšio sėkmė krypsta ne
-    jo naudai, didysis magistras į mūšį metė
-    rezervą. Kryžiuočiai mėgino apeiti lenkų
+    Visų krašto magistrų
+    viršininku buvo Italijoje gyvenęs didysis magistras. Bet XIII
+    amž. pabaigoje jau buvo aišku, kad didžiausių perspektyvų ordi-
+    nas gali turėti tik Pabaltijy, nes iš Mažosios Azijos jis buvo
+    visiškai išvytas, o kadaise jo Vengrijoje turėtoji kolonija buvo
+    atimta, ir nebebuvo vilties ją atgauti. Todėl 1309 m. didysis ma-
+    gistras su visa taryba atsikėlė į Marijenburgą, ir nuo to laiko vad.
+    Prūsijos krašto magistrai išnyko, nes vadovybę perėmė patsai
+    didysis magistras.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -50,27 +64,14 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
-- c-002
-  santrauka: 'Didysis magistras Ulrichas fon Jungingenas žuvo kartu su beveik visa likusia Ordino vadovybe.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    čių karinė mašina buvo sutriuškinta.
-    Žuvo pats didysis magistras Ulrichas fon
-    Jungingenas, beveik visa likusi Ordino va-
-    dovybė, apie 200 Ordino riterių (trečioji
-    dalis prūsiškųjų kryžiuočių) ir tūkstan-
-    čiai eilinių kryžeivių bei samdinių. Nors
-    Kryžiuočių ordinas nenustojo gyvuoti,
-    bet jam buvo suduotas stiprus smūgis.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-006
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
 ### Susiję objektai
 - [[objektai/asmenys/Ulrichas von Jungingenas]]
 - [[objektai/zodynas/krašto magistras]]

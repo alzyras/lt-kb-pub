@@ -8,6 +8,7 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1990 m.'
+  - '1991 m.'
   - '2013 m.'
   - '2026 m.'
 periodas: 'atkurtos nepriklausomybės laikotarpis'
@@ -32,33 +33,36 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
 
 ## Teiginiai
 - t-001
-  teiginys: 'Michailo Gorbačiovo pertvarkos politikos pradžioje Lietuvoje visuomenės nepasitenkinimas didėjo, kol ji pati ėmėsi iniciatyvos.'
+  teiginys: '1991 m. sausio 10 d. M. Gorbačiovas pareikalavo atkurti SSRS ir Lietuvos SSR konstitucijų galiojimą.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Michailo Gorbačiovo pertvarkos politikos pradžioje Lietuvoje visuomenės nepasitenkinimas didėjo, kol ji pati ėmėsi iniciatyvos.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  santrauka: '1991 m. sausio 10 d. M. Gorbačiovas pareikalavo atkurti SSRS ir Lietuvos SSR konstitucijų galiojimą.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    KGB numeriais pažymėjo eisenos lyderius
+    1991 m.
+    sausio 8 d. „penktoji kolona“, vadovaujama
+    prosovietinės organizacijos „Jedinstvo“
 
-    VI s k y r i u s
-    DAINUOJANTI
-    REVOLIUCIJA
-    SU SĄJŪDŽIU UŽ LIETUVĄ
-    S
-    SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos
-    politiką, Lietuvoje, kitaip nei Maskvoje, Ukrainoje ar
-    Gruzijoje, spengė tyla – pilki LKP CK pirmieji sekretoriai Petras Griš-
-    kevičius ir jį pakeitęs Rimgaudas Songaila laikėsi pasyviai, valdžios va-
-    džias perdavę maskviečiui, lietuviškai nekalbančiam antrajam sekretoriui
-    Nikolajui Mitkinui, kuris siekė „Lietuvą padaryti internacionalinę“. LKP
-    miestų ir rajonų komitetų sekretoriai toliau vykdė CK nurodymus, pro-
-    vincijoje niekas nesikeitė, visuomenės nepasitenkinimas didėjo, kol ga-
-    liausiai ji pati ėmėsi iniciatyvos.
+    ir Lietuvos komunistų partijos (ant ssKP
+
+    platformos), mitingo metu mėgino
+    užimti AT rūmus. Pretekstu tapo Lietuvos
+    Vyriausybės, vadovaujamos Kazimieros
+    Danutės Prunskienės, nepaisant AT prieš-
+    taravimo, išvakarėse pakeltos maisto pro-
+    duktų kainos. Tą pačią dieną į Lietuvą
+    buvo įvesti papildomi sovietų armijos oro
+    desanto daliniai aiškinant, kad jie užtik-
+    rins prievartinį jaunuolių ėmimą į sovie-
+    tinę armiją. Sausio 10 d. M. Gorbačiovas
+    ultimatyviai pareikalavo „nedelsiant ir
+    visiškai atkurti sSRS ir Lietuvos ssR kons-
+    titucijų galiojimą“.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -68,13 +72,6 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/aktas]]
-
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
 - [[laikotarpiai/XXI amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/Nikolajus Mitkinas]]
-- [[objektai/posakiai/„Lietuvą padaryti internacionalinę“]]

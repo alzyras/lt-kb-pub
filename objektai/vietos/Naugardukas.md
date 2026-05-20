@@ -6,6 +6,25 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1044 m.'
+  - '1131 m.'
+  - '1330 m.'
+  - '1337 m.'
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'viduramžiai'
+periodo_grupes:
+  - 'LDK'
+  - 'viduramžiai'
+amziai:
+  - 'XI'
+  - 'XII'
+  - 'XIV'
+  - 'XX'
+  - 'XXI'
+date_start: '1044'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - bajorija
@@ -21,25 +40,22 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Naugardukas minimas tarp kadaise prarastų lietuviškųjų sričių.'
+  teiginys: 'Danieliaus sūnui Romanui Mindaugas davė valdyti Naugarduką, o Vaišvilkas gavo Slanimo, Volkovisko ir kitus atgautų sričių miestus.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Gedimino laikais Vilniuje ir Naugarduke, o gal net ir kitur buvo katalikų bažnyčių.'
-  pagrindžia:
-    - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Naugardukas minimas tarp kadaise prarastų lietuviškųjų sričių.'
+  santrauka: 'Danieliaus sūnui Romanui Mindaugas davė valdyti Naugarduką, o Vaišvilkas gavo Slanimo, Volkovisko ir kitus atgautų sričių miestus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    ėmė kadaise nustotas (žiūr. 38 psl.) lietuviškąsias Gardino, Nau-
-    garduko, Slanimo ir Volkovisko sritis.
+    Sutartis buvo susti-
+    printa Mindaugo dukters ir Danieliaus sūnaus Švarno vedybo-
+    mis. Danieliaus sūnui Romanui Mindaugas davė valdyti Nau-
+    garduką, o Vaišvilkas gavo Slanimo, Volkovisko ir kitus atgautų
+    sričių miestus. Tik jie turėjo pripažinti Mindaugo valdžią.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -47,20 +63,14 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Gedimino laikais Vilniuje ir Naugarduke, o gal net ir kitur buvo katalikų bažnyčių.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Gedimino laikais Vilniuje ir Naugarduke, o gal net ir ki-
-    tur buvo katalikų bažnyčių.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XI amžius]]
+- [[laikotarpiai/XII amžius]]
+- [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XX amžius]]
+
 ### Susiję objektai
+- [[objektai/vietos/Slanimas]]
 - [[objektai/vietos/Volkoviskas]]

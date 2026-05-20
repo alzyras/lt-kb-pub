@@ -29,7 +29,8 @@ Jėzuitas Konstantinas Širvydas 1629 m. išleido pamokslų rinkinį.
   santrauka: 'Jėzuitas Konstantinas Širvydas 1629 m. išleido pamokslų rinkinį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Jėzuitas Konstanti-
+    Be to, lietuviš-
+    komis knygomis susirūpino ir jėzuitai. Jėzuitas Konstanti-
     nas Širvydas 1629 m. išleido pamokslų rinkinį. Netrukus
     jis parašė net lotynišką lenkišką lietuvišką žodyną ir lietuvių kal-
     bos gramatiką lotyniškai.

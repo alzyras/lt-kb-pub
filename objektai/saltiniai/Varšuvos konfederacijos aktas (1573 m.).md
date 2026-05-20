@@ -19,7 +19,7 @@ Kita vertus, jis vis dėlto pripažino tikėjimo laisvę ir protestantams ir uol
 
 ## Teiginiai
 - t-001
-  teiginys: '1573 m. Varšuvos konfederacijos akto nuostatai buvo siejami su protestantų tikėjimo laisvės pripažinimu.'
+  teiginys: '1573 m. Varšuvos konfederacijos aktas siejamas su protestantų tikėjimo laisvės pripažinimu.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -29,10 +29,13 @@ Kita vertus, jis vis dėlto pripažino tikėjimo laisvę ir protestantams ir uol
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: '1573 m. Varšuvos konfederacijos akto nuostatai buvo siejami su protestantų tikėjimo laisvės pripažinimu.'
+  santrauka: '1573 m. Varšuvos konfederacijos aktas siejamas su protestantų tikėjimo laisvės pripažinimu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tačiau valdydamas jis visur rėmė katalikų Bažnyčią,
+    Dėl jo
+    tolerancijos, renkant karalium, jį palaikė beveik visi protes-
+    tantai; dėl to kai kas iš pradžių jį net laikė palinkusiu į protes-
+    tantizmą. Tačiau valdydamas jis visur rėmė katalikų Bažnyčią,
     o ypač uoliausius to meto kovotojus su protestantizmu — jė-
     zuitus. Kita vertus, jis vis dėlto pripažino tikėjimo laisvę ir
     protestantams ir uoliai saugojo 1573 metų Varšuvos konfede-

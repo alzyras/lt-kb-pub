@@ -53,21 +53,15 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-006
-  teiginys: 'Jogaila paimtas vėliavas nugabeno į Krokuvą, į Vavelio pilį.'
+  teiginys: 'Jogaila visas Tanenbergo mūšyje paimtas kryžiuočių vėliavas nugabeno į Krokuvos Vavelio pilį.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-007
-  teiginys: 'Prie šio rinkinio vėliau buvo pridėtos dar penkios kituose mūšiuose paimtos vėliavos.'
+  teiginys: 'Iš kryžiuočių vėliavų rinkinio iki mūsų laikų buvo likę tik XV a. pabaigoje padaryti piešiniai.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-008
-  teiginys: 'Iki mūsų laikų iš šio vėliavų rinkinio liko tik XV a. pabaigoje padaryti piešiniai.'
-  pagrindžia:
-    - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
@@ -76,6 +70,8 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
   santrauka: 'Tanenbergo mūšyje lietuviams ir lenkams teko 51 kryžiuočių kariuomenės vėliava.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    PRIEDĖLIŲ PAAIŠKINIMAI
+    **I Kryžiuočių kariuomenės dalių vėliavos (128—129 psl.).**
     Tanenbergo mūšy lietuviams ir lenkams teko 51 kryžiuočių kariuome-
     nės vėliava. Jogaila jas visas nugabeno į Krokuvą, į Vavelio pilį.
   citata_rodoma: ""
@@ -87,24 +83,12 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
     - t-005
     - t-006
 - c-002
-  santrauka: 'Prie šio rinkinio vėliau buvo pridėtos dar penkios kituose mūšiuose paimtos vėliavos.'
+  santrauka: 'Iš kryžiuočių vėliavų rinkinio iki mūsų laikų buvo likę tik XV a. pabaigoje padaryti piešiniai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Prie
     to rinkinio vėliau dar buvo pridėtos kitos 5 vėliavos, paimtos kituose mū-
-    šiuose. Dabar jos jau yra žuvusios.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-007
-- c-003
-  santrauka: 'Iki mūsų laikų iš šio vėliavų rinkinio liko tik XV a. pabaigoje padaryti piešiniai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Iki mūsų laikų yra likę tik XV amž.
+    šiuose. Dabar jos jau yra žuvusios. Iki mūsų laikų yra likę tik XV amž.
     gale daryti jų piešiniai, kuriuos parūpino lenkų istorikas Dlugošas, rašy-
     damas apie Tanenbergo mūšį.
   citata_rodoma: ""
@@ -113,7 +97,7 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-008
+    - t-007
 
 ## Ryšiai
 ### Teminiai klasteriai

@@ -60,7 +60,7 @@ Nenurodyta
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-008
-  teiginys: 'Panaši ginkluotės praktika sutinkama to meto Kryžiuočių ordine.'
+  teiginys: 'Panaši valstybinės ginkluotės saugojimo, išdavimo ir grąžinimo praktika buvo taikoma Kryžiuočių ordine.'
   pagrindžia:
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -100,3 +100,7 @@ Nenurodyta
     - t-006
     - t-007
     - t-008
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Karinė ginkluotė]]

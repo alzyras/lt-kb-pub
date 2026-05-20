@@ -46,7 +46,11 @@ tags: []
   santrauka: 'Vyskupas Valančius parašė dviejų tomų „Žemaičių vyskupystės istoriją“.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    O vysk. Valančius pa-
+    Daugumas jų rašo lenkiškai, bet iš šito tarpo išeina ir pirmieji
+    veikalai, rašyti lietuviškai. Tai buvo darbai Vilniaus universiteto
+    auklėtinio S. Daukanto, kuris parašė net kelis Lietuvos isto-
+    rijos veikalus („Darbus senovės lietuvių ir žemaičių", „Būdą senovės
+    lietuvių", „Lietuvos istoriją" — 2 t.). O vysk. Valančius pa-
     rašo Žemaičių vyskupystės istoriją (2 t.).
   citata_rodoma: ""
   teiginio_tipas: faktas

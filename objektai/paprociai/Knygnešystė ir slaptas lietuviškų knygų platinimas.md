@@ -59,3 +59,4 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/autoriai/Motiejus Valančius]]
+- [[objektai/zodynas/kunigas]]

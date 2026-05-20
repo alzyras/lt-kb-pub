@@ -44,7 +44,11 @@ Nenurodyta
   santrauka: 'Protestantai kvietėsi į Lietuvą lenkų pamokslininkų, todėl jų pamaldos iš pradžių buvo atliekamos vien lenkiškai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Jie kvietėsi į Lietuvą lenkų protestantų pamoksli-
+    Visas jų gyvenimas buvo
+    susijęs su Lenkija, kur tuo pat metu irgi buvo labai paplitęs pro-
+    testantizmas; todėl, platindami naująjį mokslą, jie neužmezgė
+    jokių ryšių su Mažosios Lietuvos protestantais, bet ėjo išvien
+    su lenkais. Jie kvietėsi į Lietuvą lenkų protestantų pamoksli-
     ninkų, ir visos pamaldos iš pradžių buvo atliekamos vien len-
     kiškai. Patsai M. Radvila Juodasis įkūrė Brastoje spaustuvę,
     kur buvo spausdinamos lenkiškos protestantų knygos ir buvo

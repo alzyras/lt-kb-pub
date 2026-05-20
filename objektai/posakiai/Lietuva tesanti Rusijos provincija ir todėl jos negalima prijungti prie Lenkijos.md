@@ -29,7 +29,12 @@ Tiek Aleksandras I, tiek Mikalojus I (1825— 1855 m.) visada atsakydavo, kad Li
   santrauka: 'Aleksandras I ir Mikalojus I atsakydavo, kad Lietuva esanti Rusijos provincija ir todėl jos negalima prijungti prie Lenkijos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tiek Aleksand-
+    Caras Aleksandras I.
+    (1801—1825 m.).
+    siekęs atgaivinti Lietuvos ku-
+    nigaikštiją, surištą su ta Lenkų
+    karalyste. Bet visos pastangos
+    buvo tuščios. Tiek Aleksand-
     ras I, tiek Mikalojus I (1825—
     1855 m.) visada atsakydavo,
     kad Lietuva tesanti Rusijos

@@ -84,4 +84,3 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/paprociai/Kandidatas Kronikų rašymo ir lietuvių kilmės iš romėnų mito perėmimas]]
-- [[objektai/autoriai/Mykolas Lietuvis]]

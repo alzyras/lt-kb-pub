@@ -6,6 +6,17 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1936'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - vieta
@@ -29,8 +40,18 @@ Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos up
   santrauka: 'Lietuvos rytinė teritorijos linija buvo išvesta Drujos upe.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    12 d. Maskvoje. Rusija pripažino Lietuvos atsiskyrimą
+    ir visišką jos nepriklausomybę lietuvių gyvenamoje teritorijoje
+    su Vilniaus sostine ir Gardinu.
     Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant
     Dauguvos upe, ji ėjo ties Šafranovo dvaru, toliau Drujos upe, per
+    Drivietų, Želvos, Oziraičių ežerus, Medžiolos upe ir per to pat vardo
+    ežerą, per Miastros ežerą, Bliados ežero rytų šonu, Naračios upe,
+    toliau Ušos ir Buchovkos upėmis, per Modolečną, pro Voložino
+    miestą, Voložinkos, Isločės ir Beržūnės upėmis, paskum Nemunu,
+    Svisločės intaku, Lašos upe, pro Induros miestelį, Induros upe, toliau
+    pro Sidros miestelį, Kamenos upe ir pagaliau Gorodniankos upe ligi
+    Bobro upės.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -40,5 +61,6 @@ Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos up
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Šafranovo dvaras]]
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

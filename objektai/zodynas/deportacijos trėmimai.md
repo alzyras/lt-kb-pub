@@ -44,8 +44,5 @@ Slopinant ginkluotą pasipriešinimą griebtasi masinių deportacijų į Sibirą
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/aktas]]
-
 ### Susiję objektai
 - [[objektai/ivykiai/Didieji pokario trėmimai Lietuvoje (1948–1951 m.)]]

@@ -70,7 +70,7 @@ Nenurodyta
     Žemaičiai, kuriems buvo atneštos žinios, kad «javams
     nunokus» prasidėsiąs karas^58 , sukilo dar gegužės mėn. (1409). Jie
     sudegino ordino vietininkui reikalingą Skirsnemunę^59 , be to, puolė
-    Žemaičiuose kitas dvi naujas pilis ir Klaipėdą
+    Žemaičiuose kitas dvi naujas pilis ir Klaipėdą^60.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -111,3 +111,7 @@ Nenurodyta
   pagrindžia:
     - t-003
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/ivykiai/Žemaičių sukilimas (1409 m. gegužė)]]

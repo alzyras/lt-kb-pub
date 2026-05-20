@@ -29,7 +29,11 @@ Anas pomirtinis pasaulis buvo vadinamas dausomis; jis taip pat turėjo savo dvas
   santrauka: 'Anas pomirtinis pasaulis buvo vadinamas dausomis; jis taip pat turėjo savo dvasių bei dievų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Anas pomirtinis pasaulis buvo vadi-
+    Tik pat-
+    sai laidojimo būdas buvo nevienodas. Vieni žmonės, ypač žy-
+    mesnieji, pirma buvo sudeginami ant laužo, o paskui buvo lai-
+    dojami jų ir kartu sudeginto turto pelenai; kiti buvo laidojami
+    su daiktais nesudeginti. Anas pomirtinis pasaulis buvo vadi-
     namas dausomis; jis taip pat turėjo savo dvasių bei dievų.
   citata_rodoma: ""
   teiginio_tipas: faktas

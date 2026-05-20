@@ -6,6 +6,20 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1717 m.'
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'LDK'
+  - 'modernioji Lietuva'
+amziai:
+  - 'XVIII'
+  - 'XX'
+  - 'XXI'
+date_start: '1717'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - kraštas
@@ -21,21 +35,25 @@ Prie jų dar prisidėjo Austrijos Juozapas II. Čartoriskius, darančius reforma
 
 ## Teiginiai
 - t-001
-  teiginys: 'Austrijos Juozapas II darė reformas, net Bažnyčią pajungdamas valstybės valdžiai.'
+  teiginys: 'Per Respublikos padalijimus Kotryna II trečdalį jos turėjo užleisti Prūsijai ir Austrijai.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Austrijos Juozapas II darė reformas, net Bažnyčią pajungdamas valstybės valdžiai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: 'Per Respublikos padalijimus Kotryna II trečdalį jos turėjo užleisti Prūsijai ir Austrijai.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Prie jų dar prisidėjo Austrijos Juozapas II. Susižavėjęs švie-
-    čiamąja literatūra, jis darė reformas, viską, net Bažnyčią, pajungda-
-    mas valstybės valdžiai (jozefinizmas). Dėl šitų reiškinių visas perio-
-    das vadinamas šviesiojo absoliutizmo laikotarpiu.
+    Nuo «nebylių
+    seimo » (1717) į tolimą perspektyvą užmestos Petro politikos vaisius
+    ir buvo carienės Kotrynos II-sios pravesti padalinimai respublikos,
+    kurios trečdalį ji turėjo užleisti Prūsijai ir Austrijai. Tai sudarė
+    visai naują epochą Lietuvos istorijoje.
+    Buvo aišku, kad jungtinės lietuvių ir lenkų respublikos pateki­
+    mas į Rusijos orbitą turėjo vieną dieną sąmoningai pribrandinti
+    jos galą.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -45,8 +63,7 @@ Prie jų dar prisidėjo Austrijos Juozapas II. Čartoriskius, darančius reforma
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/tikėjimas]]
-
-### Susiję objektai
-- [[objektai/zodynas/jozefinizmas]]
+### Laikotarpiai
+- [[laikotarpiai/XVIII amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

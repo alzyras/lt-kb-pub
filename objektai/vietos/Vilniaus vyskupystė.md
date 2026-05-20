@@ -31,6 +31,7 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
   santrauka: '1849 m. prie Žemaičių vyskupystės buvo priskirtos 93 Vilniaus vyskupystės parapijos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Tai buvo savotiškas mokestis.
     XIX amž. vidury popiežiaus Pijo IX paraginti, viso pa-
     saulio dvasininkai ėmė skelbti blaivybę. Lietuvoje didžiausią
     pasisekimą ji turėjo vyskupo Valančiaus valdomoje Že-
@@ -49,5 +50,4 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Utena]]
 - [[objektai/vietos/Žemaičių vyskupystė]]

@@ -48,4 +48,3 @@ Nobelio premijos laureatu biochemijos srityje 1982 m. tapo Želvoje gimęs Aaron
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Bernard Lown]]
-- [[objektai/vietos/Želva]]

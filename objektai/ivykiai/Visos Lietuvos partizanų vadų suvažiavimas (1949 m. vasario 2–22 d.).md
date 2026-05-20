@@ -57,9 +57,5 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/dokumentas]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Jonas Žemaitis-Vytautas]]
-- [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]

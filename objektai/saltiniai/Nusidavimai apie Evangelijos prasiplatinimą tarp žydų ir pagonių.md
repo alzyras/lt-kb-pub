@@ -25,7 +25,7 @@ Tai buvo 1832 m. pradėtas leisti misijų laikraštis „Nusidavimai apie Evange
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Pirmasis lietuviškas laikraštis — „Nusidavimai apie Evangelijos prasiplatinimą tarp žydų ir pagonių".'
+  teiginys: '„Nusidavimai apie Evangelijos prasiplatinimą tarp žydų ir pagonių“ buvo pirmasis lietuviškas laikraštis.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -52,13 +52,15 @@ Tai buvo 1832 m. pradėtas leisti misijų laikraštis „Nusidavimai apie Evange
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Pirmasis lietuviškas laikraštis — „Nusidavimai apie Evangelijos prasiplatinimą tarp žydų ir pagonių".'
+  santrauka: '„Nusidavimai apie Evangelijos prasiplatinimą tarp žydų ir pagonių“ buvo pirmasis lietuviškas laikraštis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pirmasis lietuviškas laikraštis — „Nusidavimai apie Evangelijos prasiplatinimą
     tarp žydų ir pagonių".
     (1832 m. pradėtas leisti Tilžėje, tais pačiais metais perkeltas į Karaliaučių;
     sustojo tik didžiojo karo metu).
+    Mažojoje Lietuvoje negalėjo pasirodyti laikraštis su aiškia tau-
+    tiškąja ideologija.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

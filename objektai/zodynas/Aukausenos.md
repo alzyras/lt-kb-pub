@@ -29,7 +29,7 @@ Vartojamos formos: `aukos`, `aukas`.
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 - t-004
-  teiginys: 'Skiriamos kelios aukų rūšys pagal jų atlikimo aplinką.'
+  teiginys: 'Aukausenos buvo skirstomos į iškilmines, išeigines ir kiemines.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
@@ -40,8 +40,7 @@ Vartojamos formos: `aukos`, `aukas`.
   santrauka: '`Aukausenos` šiame tekste reiškia aukojimo apeigas.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
-    Aukausenos^936 buvo įvairios: iškilminės, išeiginės ir kieminės, kurias visados svietas susirinkęs
-    atlikdavo ant kalnų, kalvų ar ant akmenų po dideliais didelesniais ąžuolais.
+    Aukausenos^936 buvo įvairios: iškilminės, išeiginės ir kieminės, kurias visados svietas susirinkęs atlikdavo ant kalnų, kalvų ar ant akmenų po dideliais didelesniais ąžuolais.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -54,8 +53,7 @@ Vartojamos formos: `aukos`, `aukas`.
   santrauka: '`Aukausenos` šiame tekste reiškia aukojimo apeigas.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
-    Pavestoji diena atlikimui aukos buvo visados aiški ir gaidri^947 , jei kana kados^948
-    nulijo, tad tą turėjo už dievų rūstybę.
+    Pavestoji diena atlikimui aukos buvo visados aiški ir gaidri^947 , jei kana kados^948 nulijo, tad tą turėjo už dievų rūstybę.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

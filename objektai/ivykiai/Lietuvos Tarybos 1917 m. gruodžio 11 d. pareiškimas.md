@@ -42,7 +42,10 @@ Nenurodyta
   santrauka: 'Tiek karo vadovybė, tiek vyriausybė ir reichstagas reikalavo, kad Lietuva įeitų į federaciją su Vokietija, susirišdama su ja militarinėmis ir ekonominėmis konvencijomis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tiek karo vadovybė, tiek
+    Vaisin-
+    gesnės politinės derybos su Vokietijos vyriausybe užsimezgė
+    tik po Tarybos delegacijos vizito, padaryto 1917 gruodžio m. 1 d.
+    naujam kancleriui gr. Hertlingui. Tiek karo vadovybė, tiek
     vyriausybė ir reichstagas reikalavo, kad Lietuva įeitų į federa-
     ciją su Vokietija, susirišdama su ja militarinėmis ir ekonominė-
     mis konvencijomis.

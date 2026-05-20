@@ -6,14 +6,23 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
+datos:
+  - '1350 m.'
+  - '1430 m.'
+  - '1930 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+  - 'XV'
+  - 'XX'
+  - 'XXI'
+date_start: '1350'
+date_end: '2026'
 bukle: juodrastis
 laikotarpis: ''
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
@@ -44,7 +53,8 @@ Autoriaus formulė apibendrina Vytauto kovą dėl teisių kaip siekį, kuriam pa
   santrauka: 'Vytautas dėl savo teisių kovojo ne visai teisėtu būdu, o jo tikslas pateisino priemones.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Jis kovojo dėl sa­
+    Tėviškės atsivadavimo reikalas jį vertė
+    susidėti ir su svetimaisiais prieš savuosius. Jis kovojo dėl sa­
     vo teisių, bet ne visai teisėtu būdu. Tikslas pateisino prie­
     mones.
   citata_rodoma: ""
@@ -58,7 +68,8 @@ Autoriaus formulė apibendrina Vytauto kovą dėl teisių kaip siekį, kuriam pa
   santrauka: 'Vytautas dėl savo teisių kovojo ne visai teisėtu būdu, o jo tikslas pateisino priemones.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Ta kova trūko dešimtį metų. Ji ėjo ne tik atvirame
+    Tikslas pateisino prie­
+    mones. Ta kova trūko dešimtį metų. Ji ėjo ne tik atvirame
     lauke, bet dažnai ir aplinkiniais keliais.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -67,3 +78,10 @@ Autoriaus formulė apibendrina Vytauto kovą dėl teisių kaip siekį, kuriam pa
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

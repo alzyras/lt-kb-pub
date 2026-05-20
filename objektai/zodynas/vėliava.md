@@ -12,9 +12,23 @@ variantai:
 aliases: []
 saltiniai:
 - Vytautas Didysis 1350-1430 (1930 m.)
-laikotarpis: viduramžiai; Žalgirio karo aprašymo kontekstas
 datos:
-- viduramžiai; Žalgirio karo aprašymo kontekstas
+  - '1350 m.'
+  - '1430 m.'
+  - '1930 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+  - 'XV'
+  - 'XVI'
+  - 'XX'
+  - 'XXI'
+date_start: '1350'
+date_end: '2026'
+laikotarpis: viduramžiai; Žalgirio karo aprašymo kontekstas
 patikimumas: aukštas
 tags: []
 ---
@@ -22,28 +36,26 @@ tags: []
 
 ## Teiginiai
 - t-003
-  teiginys: 'Vėliava buvo 25-80 lancų būrys, kuriame būdavo apie 300-400 raitųjų.'
+  teiginys: 'Didžiausia buvo didžiojo etmono husarų vėliava, kurią sudarė 200 raitelių.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-004
-  teiginys: 'Riteriai kaudavosi po savo vėliava ir galėdavo, jei ji patekdavo į priešo rankas, prisidėti prie kitos vėliavos.'
+  teiginys: 'Dragūnų vėliavą sudarė 100-150 žmonių.'
   pagrindžia:
     - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vėliava buvo 25-80 lancų būrys, kuriame būdavo apie 300-400 raitųjų.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: 'Didžiausia buvo didžiojo etmono husarų vėliava, kurią sudarė 200 raitelių.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Riteris su savo palydovais sudarydavo tam tikrą
-    vienetą, kuris vadinosi „lance“, arba „kopijo“. 25-80 lancų su­
-    darydavo būrį, kuris buvo vadinamas vėliava. Tokiu būdu vė­
-    liavoje būdavo apie 300-400 raitųjų. Tie būriai savo ženklu,
-    apie kurį spiesdavosi, turėjo vėliavą.
+    Didžiausia buvo didžiojo etmono husarų vėliava, kurią sudarė
+    200 raitelių. Įprasta vėliava - 100-150 raitelių. Husarų vėliavos pa-
+    grindas buvo „draugai“ — turtingi bajorai.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -52,14 +64,14 @@ tags: []
   pagrindžia:
     - t-003
 - c-002
-  santrauka: 'Riteriai kaudavosi po savo vėliava ir galėdavo, jei ji patekdavo į priešo rankas, prisidėti prie kitos vėliavos.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: 'Dragūnų vėliavą sudarė 100-150 žmonių.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Kiekvienas rite­
-    ris kaudavosi po savo vėliava ir neturėdavo teisės ją palikęs
-    bėgti. Jei vėliava patekdavo į priešo rankas, tai riteriui valia
-    būdavo pasielgti savo nuožiūra — ar trauktis, ar kautis prisi­
-    dėjus prie kitos vėliavos.
+    Vėliavai vadovaudavo
+    kapitonas. Dragūnų vėliavą sudarė 100-150 žmonių.
+
+    Prie svetimšalių autoramento priskirtini ir raitarai, LDK kariuo-
+    menėje buvę dar xvi a.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -69,5 +81,8 @@ tags: []
     - t-004
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Vėliavos]]
+### Laikotarpiai
+- [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XVI amžius]]
+- [[laikotarpiai/XX amžius]]

@@ -6,8 +6,18 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1978 m.'
+  - '2026 m.'
+periodas: 'okupacijų ir sovietmečio laikotarpis'
+periodo_grupes:
+  - 'XX a.'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1978'
+date_end: '2026'
 patikimumas: 'aukštas'
-periodas: viduramziai
 tags:
   - daiktas
 ---
@@ -33,7 +43,32 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-Nenurodyta
+- t-001
+  teiginys: 'Svarbiausi Lietuvos ūkio produktai užsieniui buvo vaškas ir kailiai.'
+  pagrindžia:
+    - c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-Nenurodyta
+- c-001
+  santrauka: 'Svarbiausi Lietuvos ūkio produktai užsieniui buvo vaškas ir kailiai.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    (^296) II skyrius: valstybės iškilimas
+    gaikščių gyvenime _ūkinis_ medžioklės pobūdis ilgai dar buvo stiprus.
+    Svarbiausi Lietuvos ūkio produktai užsieniui buvo vaškas ir kailiai.
+    Tuo tarpu grudų eksportas iki pat XVI amž. beveik visai nežino­
+    mas.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

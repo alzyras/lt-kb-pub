@@ -68,5 +68,4 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
 - [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Michailas Gorbačiovas]]
 - [[objektai/posakiai/„Lietuvą padaryti internacionalinę“]]

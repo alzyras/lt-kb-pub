@@ -21,7 +21,7 @@ Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba n
 
 ## Teiginiai
 - t-001
-  teiginys: 'Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba nieko negalėjo padaryti.'
+  teiginys: 'Nuolatinė Taryba be Rusijos ambasadoriaus Štakelbergo sutikimo nieko negalėjo padaryti.'
   pagrindžia:
     - c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -56,7 +56,10 @@ Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba n
   santrauka: 'Nuolatinė Taryba buvo suorganizuota kaip iki tol nebuvęs centralinės valdžios organas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tuo pat metu buvo suorganizuotas lig šiol nebuvęs centralinės val-
+    Bet
+    kariuomenės skaičių buvo leista padidinti iki 30.000 (nuo 1717
+    m. Respublika turėjo teisę laikyti tik 24.000 kariuomenės). Tuo
+    pat metu buvo suorganizuotas lig šiol nebuvęs centralinės val-
     džios organas, pavadintas Nuolatine Taryba.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -93,6 +96,8 @@ Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba n
   citata_originali: |
     Nuolatinė Taryba išgyvavo 14 metų (iki 1789 m.). Ji turėjo
     didelę reikšmę ir Lietuvai. Iki tol Lietuva ir Lenkija buvo
+
+
     visiškai atskiros valstybės, kurios turėjo visiškai atskirai orga-
     nizuotą savo valdžią.
   citata_rodoma: ""
@@ -103,11 +108,15 @@ Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba n
   pagrindžia:
     - t-005
 - c-004
-  santrauka: 'Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba nieko negalėjo padaryti.'
+  santrauka: 'Nuolatinė Taryba be Rusijos ambasadoriaus Štakelbergo sutikimo nieko negalėjo padaryti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Be jos ambasadoriaus Štakelbergo
+    Visos padalinime dalyvavusios valstybės
+    kartu, o Rusija dar atskiru seimo patvirtintu aktu gavo teisę
+    kontroliuoti Respublikos vidaus gyvenimą. Daugiausia ta teise
+    ėmė naudotis Rusija. Be jos ambasadoriaus Štakelbergo
     sutikimo, nei karalius nei Nuolatinė Taryba nieko negalėjo pa-
+
     daryti.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -120,7 +129,10 @@ Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba n
   santrauka: 'Buvo atgaivinta Nuolatinė Taryba ir tada veikusios karo ir iždo komisijos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Buvo atgaivinta Nuolatinė Taryba ir
+    Kaip pirmą padalinimą patvirtinusiame seime, taip ir šitame
+    šeimininkavo Kotrynos ambasadorius, Ziversas. Buvo sudaryta
+    naujoji valstybės konstitucija, kuria buvo grąžinta santvarka,
+    buvusi po I padalinimo. Buvo atgaivinta Nuolatinė Taryba ir
     tada veikusios karo ir iždo komisijos.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -133,4 +145,3 @@ Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba n
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Gardino seimas]]
-- [[objektai/grupes/Gardino seimas (1793 m.)]]

@@ -19,7 +19,7 @@ Tada Kęstutis su sūnum Vytautu pradėjo su jais partizanišką karą.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tada Kęstutis su sūnum Vytautu pradėjo su jais partizanišką karą.'
+  teiginys: 'Kęstutis su sūnumi Vytautu pradėjo partizanišką karą.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -27,10 +27,19 @@ Tada Kęstutis su sūnum Vytautu pradėjo su jais partizanišką karą.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tada Kęstutis su sūnum Vytautu pradėjo su jais partizanišką karą.'
+  santrauka: 'Kęstutis su sūnumi Vytautu pradėjo partizanišką karą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tada Kęstutis su sūnum Vytautu pradėjo su jais partizanišką karą.
+    Žuvusiam maršalkai Schindekopui pamin-
+    klinis kryžius buvo pastatytas tuojau po
+    mūšio; jam sugriuvus, ant tų pačių pa-
+    matų 1835 m. buvo šis pastatytas. 1870 m.
+    trečią kartą atnaujintas, jis dabar vėl
+    kitaip atrodo.
+    tutis, o Vilniuje Algirdas pasikvietę kryžiuočių vadovybę,
+    padarė su ja sutartis, tačiau kryžiuočiai vis dėlto nesitraukė; ne-
+    pajėgdami paimti pilių, jie naikino miestus ir apylinkes. Tada
+    Kęstutis su sūnum Vytautu pradėjo su jais partizanišką karą.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

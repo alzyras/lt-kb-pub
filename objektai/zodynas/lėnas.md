@@ -19,13 +19,7 @@ Lėnas čia minimas kaip feodalinės priklausomybės forma: viename šaltinyje t
 
 ## Teiginiai
 - t-004
-  teiginys: 'Lėnas čia reiškia Ordino valdžiai pavaldžią feodalinę valdą.'
-  pagrindžia:
-    - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-005
-  teiginys: 'Vytautas pasižada savo tėviškę valdyti kaip Ordino lėną.'
+  teiginys: 'Vytautas, pereidamas į Ordino pusę ir priimdamas krikštą, pasižadėjo savo tėviškę valdyti kaip Ordino lėną.'
   pagrindžia:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -33,10 +27,12 @@ Lėnas čia minimas kaip feodalinės priklausomybės forma: viename šaltinyje t
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lėnas čia reiškia Ordino valdžiai pavaldžią feodalinę valdą.'
+  santrauka: 'Vytautas, pereidamas į Ordino pusę ir priimdamas krikštą, pasižadėjo savo tėviškę valdyti kaip Ordino lėną.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Vytautas,
+    Ordinui
+    akys nušvito ir visos viltys nukrypo į jo pusę. Iš jo, kryžiuo­
+    čių akimis žiūrint, buvo galima gerokai pasipelnyti. Vytautas,
     pereidamas į Ordino pusę ir priimdamas krikštą, pasižadėjo vi­
     są savo tėviškę valdyti, kaip Ordino lėną, jei tik šis jam padėtų
     ją atgauti^2 ).
@@ -47,4 +43,3 @@ Lėnas čia minimas kaip feodalinės priklausomybės forma: viename šaltinyje t
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
-    - t-005

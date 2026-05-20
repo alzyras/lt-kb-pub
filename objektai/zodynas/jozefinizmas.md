@@ -42,7 +42,3 @@ Susižavėjęs šviečiamąja literatūra, jis darė reformas, viską, net Bažn
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Austrija]]

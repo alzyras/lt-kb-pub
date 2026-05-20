@@ -144,7 +144,6 @@ Vieta siejama su Lietuvos ir Lenkijos konfliktu dėl Vilniaus po Pirmojo pasauli
 ### Susiję objektai
 - [[objektai/asmenys/L. Želigovskis]]
 - [[objektai/asmenys/Liucijanas Želigovskis]]
-- [[objektai/vietos/Rytų Lietuva]]
 - [[objektai/ivykiai/Vidurinės Lietuvos rinkimai ir prijungimo prie Lenkijos sprendimas (1922 m.)]]
 - [[objektai/zodynas/administracinė linija demarkacijos linija]]
 - [[objektai/posakiai/„nei karo, nei taikos“]]

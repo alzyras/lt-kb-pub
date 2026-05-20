@@ -32,7 +32,8 @@ Radvilos fundacija), Pašiaušėje (bajoro Beinarto f-ja), Slucke (sudėtinė f-
   santrauka: 'Pašiaušėje veikusi jėzuitų kolegija atsirado bajoro Beinarto fundacijos pagrindu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono
+    Tuo
+    būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono
     Jono Karolio Katkevičiaus fundacija), Gardine (Smolensko
     vyskupo Isaikovskio ir kt. fundacija). Oršoje (karaliaus Zig-
     manto fundacija), Smolenske (klebono Lempickio ir kt. fun-

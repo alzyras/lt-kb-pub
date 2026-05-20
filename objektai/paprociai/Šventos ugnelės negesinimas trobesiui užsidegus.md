@@ -42,12 +42,6 @@ Nenurodyta
 
 ## Teiginiai
 - t-003
-  teiginys: 'Sudegusiam trobesiui senu įpročiu sakydavo, kad jį aplankė šventa ugnelė.'
-  pagrindžia:
-    - c-002
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
-- t-004
   teiginys: 'Užsidegus trobesiui kai kurie lietuviai nenorėdavo jo gesinti, nes ugnelę laikė šventą ir įsižeidžiančią.'
   pagrindžia:
     - c-001
@@ -59,26 +53,12 @@ Nenurodyta
   santrauka: 'Užsidegus trobesiui kai kurie lietuviai nenorėdavo jo gesinti, nes ugnelę laikė šventą ir įsižeidžiančią.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
-    raštininkas,
-    gyvenęs galan septynioliktojo amžiaus, sako, jog, jam gyvojant, lietuviai, trobesiui užsidegus,
-    nenorėję gesyti, tardami, jog ugnelė gesoma pykstanti. Šiandien Žalgirėnuose apie Pinską taip
-    pat niekaip negesantys žmonės trobesio degančio, idant ugnelės pikčiau nesužyžintų^806 , ir
-    apstoję kūrenantys trobesį it laužą. Kam norint sudegus, senu įpročiu sako: „Tą ugnelė šventa
-    aplankė.“ Perkūnijos ugnį daug stigavoja iki šiai dienai, jog ožkos pienu tegalį užgesyti, kas niekų
-    kalba yra, nesgi ir pačiu vandeniu gal užgesyti, jei ano gausiai pasitinka.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-004
-- c-002
-  santrauka: 'Sudegusiam trobesiui senu įpročiu sakydavo, kad jį aplankė šventa ugnelė.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Kam norint sudegus, senu įpročiu sako: „Tą ugnelė šventa
-    aplankė.“
+    raštininkas, gyvenęs galan septynioliktojo amžiaus, sako, jog, jam gyvojant, lietuviai, trobesiui užsidegus,
+        nenorėję gesyti, tardami, jog ugnelė gesoma pykstanti. Šiandien Žalgirėnuose apie Pinską taip
+        pat niekaip negesantys žmonės trobesio degančio, idant ugnelės pikčiau nesužyžintų^806 , ir
+        apstoję kūrenantys trobesį it laužą. Kam norint sudegus, senu įpročiu sako: „Tą ugnelė šventa
+        aplankė.“ Perkūnijos ugnį daug stigavoja iki šiai dienai, jog ožkos pienu tegalį užgesyti, kas niekų
+        kalba yra, nesgi ir pačiu vandeniu gal užgesyti, jei ano gausiai pasitinka.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

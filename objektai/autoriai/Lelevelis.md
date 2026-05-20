@@ -53,9 +53,11 @@ Tik to meto Vilniaus universiteto garsenybė, istorikas profesorius Lelevelis, �
   santrauka: 'Istorijos profesoriaus Lelevelio paskaitų klausytis rinkdavosi ne vien studentai, bet ir daugybė vilniečių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    siryžo, kad ir maišto keliu, išvaduoti savo kraštą iš Rusų jungo.
     Tą nuotaiką ugdė ir pats universitetas, o ypač iškalbingas ir
     gabus istorijos profesorius Lelevelis, kurio paskaitų su-
     sirinkdavo klausyti ne vien studentai, bet ir daugybė vilniečių.
+    Tik visai netikėtai beplintantį judėjimą 1823 m. išardė rusai.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -63,3 +65,7 @@ Tik to meto Vilniaus universiteto garsenybė, istorikas profesorius Lelevelis, �
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/autoriai/D. Poška]]

@@ -7,18 +7,24 @@ aliases: []
 saltiniai:
   - "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
 laikotarpis: "XIV a. pabaigos – XV a. pradžios sutarčių aiškinimas"
-datos: []
-periodas: "viduramziai"
-periodo_grupes:
-  - "LDK"
-amziai:
-  - "XIV"
-  - "XV"
-date_start: "1385"
-date_end: "1401"
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1385 m.'
+  - '1401 m.'
+  - '1978 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+  - 'XV'
+  - 'XX'
+  - 'XXI'
+date_start: '1385'
+date_end: '2026'
 patikimumas: "aukštas"
 tags: []
 ---
@@ -52,15 +58,40 @@ Sąvoka čia reiškia valstybės prijungimą prie kitos valstybės ir vartojama 
 Terminas pasitelkiamas atpasakoti vieną akto aiškinimą ir tuoj pat jam polemiškai priešpriešinti kitą aiškinimą.
 
 ## Teiginiai
+- t-003
+  teiginys: '1385 m. aktas nerodė Lietuvos inkorporacijos, o veikiau būsimą Lietuvos Didžiosios Kunigaikštijos ir karūnos leno santykį.'
+  pagrindžia:
+    - c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+- c-001
+  santrauka: '1385 m. aktas nerodė Lietuvos inkorporacijos, o veikiau būsimą Lietuvos Didžiosios Kunigaikštijos ir karūnos leno santykį.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Lyginant įvairius laiko tekstus, kur vengrų
+    kanceliarijoje buvo vartojamas terminas «applicare», išryškėjo,
+    kad tas žodis tereiškė tapimą lenininku.
+    1385 m. aktas todėl neparodo inkorporacijos, o greičiau busimą
+    leno santykį didžiosios Lietuvos kunigaikštijos ir karūnos. Lietu­
+    voje toliau išliko ne tik valstybinio gyvenimo skirtingumas, bet ir
+    pati didžiojo kunigaikščio institucija.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/istorinė-sąvoka]]
 - [[temos/teisinis-terminas]]
-- [[temos/istorinė-sąvoka - teisinis-terminas]]
 
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
 - [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

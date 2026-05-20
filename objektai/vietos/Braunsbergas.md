@@ -19,7 +19,7 @@ Jie buvo įkurdinti Varmijos vyskupystės centre Braunsberge, o iš ten paplito 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Jėzuitai buvo įkurdinti Varmijos vyskupystės centre Braunsberge ir iš ten paplito po visą Lenkiją.'
+  teiginys: '1564 m. jėzuitai buvo įkurdinti Varmijos vyskupystės centre Braunsberge ir iš ten paplito po Lenkiją.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -27,7 +27,7 @@ Jie buvo įkurdinti Varmijos vyskupystės centre Braunsberge, o iš ten paplito 
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Jėzuitai buvo įkurdinti Varmijos vyskupystės centre Braunsberge ir iš ten paplito po visą Lenkiją.'
+  santrauka: '1564 m. jėzuitai buvo įkurdinti Varmijos vyskupystės centre Braunsberge ir iš ten paplito po Lenkiją.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jėzuitų į Lenkiją
@@ -39,6 +39,10 @@ Jie buvo įkurdinti Varmijos vyskupystės centre Braunsberge, o iš ten paplito 
     kupystės centre Brauns-
     berge, o iš ten paplito
     po visą Lenkiją. 1569
+    m. į Lietuvą jų parsi-
+    kvietė Vilniaus vys-
+    kupas Protasevi-
+    čius.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

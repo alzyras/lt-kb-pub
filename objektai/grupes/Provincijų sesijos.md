@@ -30,7 +30,12 @@ Tos „sesijos" atlikdavo tą patį darbą, kurį anksčiau atlikdavo generalini
   santrauka: 'Provincijų sesijos atlikdavo darbą, kurį anksčiau atlikdavo generaliniai seimeliai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tos „sesijos" atlikdavo tą
+    Ten atskirai darydavo savo posė-
+    džius abidvi Lenkijos provincijos ir Lietuva. Tie posėdžiai būdavo
+    vadinami „provincijų sesijomis" (sesijomis tada va-
+    dindavo ir kiekvienos dienos seimo posėdį; dabar sesijomis va-
+    dinamas visas parlamento veikimo metas tarp dviejų atostogų
+    arba šiaip tarp dviejų pertraukų). Tos „sesijos" atlikdavo tą
     patį darbą, kurį anksčiau atlikdavo generaliniai seimeliai.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -39,3 +44,7 @@ Tos „sesijos" atlikdavo tą patį darbą, kurį anksčiau atlikdavo generalini
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/paprociai/Generaliniai seimeliai ir provincijų sesijos]]

@@ -54,7 +54,7 @@ Nenurodyta
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Aukavę jam
-    javų pėdus, mirą^716 , gintarus, vašką ir vaikus, jis didžiai gėrėjęsis žmogaus krauju.
+        javų pėdus, mirą^716 , gintarus, vašką ir vaikus, jis didžiai gėrėjęsis žmogaus krauju.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

@@ -29,7 +29,10 @@ Buvo uždaryta daugybė vienuolynų (Kaune, Pažaisly, Panevėžy, Ukmergėje, R
   santrauka: 'Telšiuose buvo uždarytas vienuolynas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Buvo uždaryta daugybė vienuolynų
+    Į ištremtųjų vietas
+    buvo privežta rusų, kurie turėjo pasidaryti caro valdžios atrama.
+    Nukentėjo taip pat ir bažnyčios, nes kunigai taip pat buvo
+    prisidėję prie sukilėlių. Buvo uždaryta daugybė vienuolynų
     (Kaune, Pažaisly, Panevėžy, Ukmergėje, Raseiniuose, Telšiuose
     ir kt.).
   citata_rodoma: ""

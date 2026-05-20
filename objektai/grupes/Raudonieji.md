@@ -67,9 +67,6 @@ tags:
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/tikėjimas]]
-
 ### Susiję objektai
 - [[objektai/paprociai/Kandidatas 51 „Raudonųjų“ daugiakalbė sukilimo propaganda valstiečiams]]
 - [[objektai/paprociai/Kandidatas „Raudonųjų“ daugiakalbė sukilimo propaganda valstiečiams]]

@@ -122,3 +122,7 @@ Nenurodyta
 
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
+
+### Susiję objektai
+- [[objektai/asmenys/Bertoldas (pranciškonas)]]
+- [[objektai/asmenys/Henrikas (pranciškonas)]]

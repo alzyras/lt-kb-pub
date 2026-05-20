@@ -45,7 +45,10 @@ Nenurodyta
   santrauka: 'Aukso laisvės ideologai matė netvarką, tačiau veto teisę laikė šventa bajoriškųjų laisvių dalimi.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Laisvės ideologai matė
+    Galingieji didžiūnai nieko ne-
+    klausė, seimai kaskart vis dažniau iro, o bajorija, nors ir jautė
+    neapykantą didžiūnams, tačiau brangino savo laisvę. Nie-
+    kas nesirūpino perorganizuoti valstybės. Laisvės ideologai matė
     netvarką, tačiau _veto_ teisę laikė šventa: esą, tai visų bajoriškųjų
     laisvių perlas, saugotinas, kaip akies lėlytė.
   citata_rodoma: ""

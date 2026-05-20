@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 31.
+Objektų skaičius: 59.
 
 ## Kaip naudoti
 
@@ -19,12 +19,21 @@ Objektų skaičius: 31.
 ## Susiję objektai
 
 ### Asmenys
+- [[objektai/asmenys/Bernardas (abatas)]]
+- [[objektai/asmenys/Bertoldas (pranciškonas)]]
 - [[objektai/asmenys/Feliksas Vaitkus]]
+- [[objektai/asmenys/Gedgaudas]]
+- [[objektai/asmenys/Henne]]
+- [[objektai/asmenys/Hennė (Ordino agentas)]]
+- [[objektai/asmenys/Henrikas (pranciškonas)]]
 - [[objektai/asmenys/imperatorius Zigmantas]]
 - [[objektai/asmenys/Juozas Lukša-Skirmantas]]
 - [[objektai/asmenys/Juozas Urbšys]]
+- [[objektai/asmenys/Justinas Gustaitis]]
 - [[objektai/asmenys/Kazimieras Pyplys-Mažytis]]
+- [[objektai/asmenys/Mahometas Aminas]]
 - [[objektai/asmenys/Manfredas Verneris]]
+- [[objektai/asmenys/Mengli-Girėjus]]
 - [[objektai/asmenys/Michailas Kalininas]]
 - [[objektai/asmenys/Pijus XII]]
 - [[objektai/asmenys/Stasys Girėnas]]
@@ -32,37 +41,56 @@ Objektų skaičius: 31.
 - [[objektai/asmenys/Viačeslavas Molotovas]]
 
 ### Autoriai
+- [[objektai/autoriai/A. Juška]]
+- [[objektai/autoriai/A. Tautavičius]]
+- [[objektai/autoriai/Filotiejus]]
 - [[objektai/autoriai/J. Bennetas]]
-- [[objektai/autoriai/Zigmantas Kęstutaitis]]
+- [[objektai/autoriai/Kassiodoras]]
+- [V. T. Pašuto](../objektai/autoriai/V.%20T.%20Pa%C5%A1uto)
 
 ### Daiktai
-- [[objektai/daiktai/Dariaus ir Girėno mauzoliejus Kaune]]
+- [Dariaus ir Girėno mauzoliejus Kaune](../objektai/daiktai/Dariaus%20ir%20Gir%C4%97no%20mauzoliejus%20Kaune)
 
 ### Grupės
-- [[objektai/grupes/SSRS kariuomenė]]
+- [Rygos miesto taryba](../objektai/grupes/Rygos%20miesto%20taryba)
+- [SSRS kariuomenė](../objektai/grupes/SSRS%20kariuomen%C4%97)
 
 ### Papročiai
-- [[objektai/paprociai/Rašto vartojimas valstybės ir Bažnyčios reikaluose]]
+- [Imperatoriaus dvaro ceremonialo perėmimas](../objektai/paprociai/Imperatoriaus%20dvaro%20ceremonialo%20per%C4%97mimas)
+- [Rašto vartojimas valstybės ir Bažnyčios reikaluose](../objektai/paprociai/Ra%C5%A1to%20vartojimas%20valstyb%C4%97s%20ir%20Ba%C5%BEny%C4%8Dios%20reikaluose)
+- [Vytauto tarpininkavimas ginčuose laiškais ir dovanomis](../objektai/paprociai/Vytauto%20tarpininkavimas%20gin%C4%8Duose%20lai%C5%A1kais%20ir%20dovanomis)
 
 ### Posakiai
-- [[objektai/posakiai/`Rex Lethowye`]]
-- [[objektai/posakiai/`rex` `bazileus`]]
-- [[objektai/posakiai/Vyresniuosius jis laikąs tėvais, lygius — broliais, o jaunesniuosius — savo vaikais]]
-- [[objektai/posakiai/„lietuvių imperatoriumi“ `vasilea Letvon`]]
-- [[objektai/posakiai/„paskirti save Tėvynės garbei“]]
+- [`Rex Lethowye`](../objektai/posakiai/%60Rex%20Lethowye%60)
+- [`rex` `bazileus`](../objektai/posakiai/%60rex%60%20%60bazileus%60)
+- [visur guli nukautas greta nukauto](../objektai/posakiai/visur%20guli%20nukautas%20greta%20nukauto)
+- [Vyresniuosius jis laikąs tėvais, lygius — broliais, o jaunesniuosius — savo vaikais](../objektai/posakiai/Vyresniuosius%20jis%20laik%C4%85s%20t%C4%97vais%2C%20lygius%20%E2%80%94%20broliais%2C%20o%20jaunesniuosius%20%E2%80%94%20savo%20vaikais)
+- [„lietuvių imperatoriumi“ `vasilea Letvon`](../objektai/posakiai/%E2%80%9Elietuvi%C5%B3%20imperatoriumi%E2%80%9C%20%60vasilea%20Letvon%60)
+- [„paskirti save Tėvynės garbei“](../objektai/posakiai/%E2%80%9Epaskirti%20save%20T%C4%97vyn%C4%97s%20garbei%E2%80%9C)
 
 ### Vietos
-- [[objektai/vietos/Veliuonos pilis]]
+- [Gotlandas](../objektai/vietos/Gotlandas)
+- [Greifsvaldas](../objektai/vietos/Greifsvaldas)
+- [Lenčica](../objektai/vietos/Len%C4%8Dica)
+- [Mozūrija](../objektai/vietos/Moz%C5%ABrija)
+- [Pronskas](../objektai/vietos/Pronskas)
+- [Płockas](../objektai/vietos/P%C5%82ockas)
+- [Rostokas](../objektai/vietos/Rostokas)
+- [Stralsundas](../objektai/vietos/Stralsundas)
+- [Veliuonos pilis](../objektai/vietos/Veliuonos%20pilis)
+- [Vroclavas](../objektai/vietos/Vroclavas)
+- [Zna](../objektai/vietos/Zna)
+- [Štetinas](../objektai/vietos/%C5%A0tetinas)
 
 ### Įvykiai
-- [[objektai/ivykiai/Algirdo žygiai į Maskvą]]
-- [[objektai/ivykiai/Chotyno mūšis]]
-- [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]
+- [Algirdo žygiai į Maskvą](../objektai/ivykiai/Algirdo%20%C5%BEygiai%20%C4%AF%20Maskv%C4%85)
+- [Chotyno mūšis](../objektai/ivykiai/Chotyno%20m%C5%AB%C5%A1is)
+- [Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)](../objektai/ivykiai/Gedimino%20lai%C5%A1k%C5%B3%20i%C5%A1siuntimas%20%C4%AF%20Vakar%C5%B3%20Europ%C4%85%20%281323%E2%80%931325%20m.%29)
 - [Lietuvos tapimas visateise NATO nare (2004 m. kovo 29 d.)](../objektai/ivykiai/Lietuvos%20tapimas%20visateise%20NATO%20nare%20%282004%20m.%20kovo%2029%20d.%29)
 - [Partizanų dokumentų nugabenimas į laisvąjį pasaulį (1947 m. pabaiga)](../objektai/ivykiai/Partizan%C5%B3%20dokument%C5%B3%20nugabenimas%20%C4%AF%20laisv%C4%85j%C4%AF%20pasaul%C4%AF%20%281947%20m.%20pabaiga%29)
 - [S. Dariaus ir S. Girėno skrydis per Atlantą ir „Lituanicos“ katastrofa (1933 m. liepos 15-17 d.)](../objektai/ivykiai/S.%20Dariaus%20ir%20S.%20Gir%C4%97no%20skrydis%20per%20Atlant%C4%85%20ir%20%E2%80%9ELituanicos%E2%80%9C%20katastrofa%20%281933%20m.%20liepos%2015-17%20d.%29)
 - [SSRS ultimatumas Lietuvai ir jo priėmimas (1940 m. birželio 14-15 d.)](../objektai/ivykiai/SSRS%20ultimatumas%20Lietuvai%20ir%20jo%20pri%C4%97mimas%20%281940%20m.%20bir%C5%BEelio%2014-15%20d.%29)
-- [Vilniaus įkūrimas ir sostinės perkėlimas](../objektai/ivykiai/Vilniaus%20%C4%AFk%C5%ABrimas%20ir%20sostin%C4%97s%20perk%C4%97limas)
+- [Vytauto žygis į Maskvos apylinkes ir Vosyliaus II globos prisiėmimas (1427 m.)](../objektai/ivykiai/Vytauto%20%C5%BEygis%20%C4%AF%20Maskvos%20apylinkes%20ir%20Vosyliaus%20II%20globos%20prisi%C4%97mimas%20%281427%20m.%29)
 
 ### Žodynas
 - [geležinė uždanga](../objektai/zodynas/gele%C5%BEin%C4%97%20u%C5%BEdanga)

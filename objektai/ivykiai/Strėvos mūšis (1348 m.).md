@@ -77,13 +77,13 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-008
-  teiginys: '1348 m. vasario 2 d. Strėvos kautynės vyko ties Žiežmarių brasta, o lietuviai ir rusų daliniai atakavo priešą ietimis ir lankais.'
+  teiginys: '1348 m. vasario 2 d. Strėvos kautynės tikriausiai vyko ties Žiežmarių brasta, kur lietuviai priešą puolė ietimis, o rusų daliniai šaudė lankais.'
   pagrindžia:
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-009
-  teiginys: 'Vygando kronika Strėvos mūšį sieja su Ordino maršalu, didžiuoju komtūru, didelės lietuvių ir rusų kariuomenės telkimu ir mirtinu susirėmimu prie Strėvos upės.'
+  teiginys: 'Vygando kronika Strėvos mūšį sieja su lietuvių ir rusų kariuomenės susidūrimu su grįžtančiomis Ordino pajėgomis prie Strėvos upės.'
   pagrindžia:
     - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -115,7 +115,7 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
   pagrindžia:
     - t-007
 - c-002
-  santrauka: '1348 m. vasario 2 d. Strėvos kautynės vyko ties Žiežmarių brasta, o lietuviai ir rusų daliniai atakavo priešą ietimis ir lankais.'
+  santrauka: '1348 m. vasario 2 d. Strėvos kautynės tikriausiai vyko ties Žiežmarių brasta, kur lietuviai priešą puolė ietimis, o rusų daliniai šaudė lankais.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mūšis
@@ -136,7 +136,7 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
   pagrindžia:
     - t-008
 - c-003
-  santrauka: 'Vygando kronika Strėvos mūšį sieja su Ordino maršalu, didžiuoju komtūru, didelės lietuvių ir rusų kariuomenės telkimu ir mirtinu susirėmimu prie Strėvos upės.'
+  santrauka: 'Vygando kronika Strėvos mūšį sieja su lietuvių ir rusų kariuomenės susidūrimu su grįžtančiomis Ordino pajėgomis prie Strėvos upės.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     „[1348 m. Ordino] maršalas brolis Zygfridas iš Da[he]nfeldo ir didysis komtūras brolis
@@ -183,3 +183,4 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
 
 ### Susiję objektai
 - [[objektai/asmenys/Kęstutis]]
+- [[objektai/grupes/Rusai]]

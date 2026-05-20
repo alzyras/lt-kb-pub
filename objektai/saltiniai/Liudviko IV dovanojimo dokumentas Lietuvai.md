@@ -34,6 +34,8 @@ Imperatorius Liudvikas IV Bavarietis 1337 m. dovanoja ordino magistrui Ditrichui
   santrauka: 'Imperatorius Liudvikas IV Bavarietis 1337 m. dovanoja ordino magistrui Ditrichui von Altenburgui Lietuvą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    O tuo
+    pat laiku rašytuose laiškuose pranciškonų ir domininkonų vie-
     **Imperatorius Liudvikas IV Bavarietis 1337 m. dovanoja ordino magistrui
     Ditrichui von Altenburgui Lietuvą.**
     Šitaip yra papuošta pirmoji dovanojamojo dokumento raidė _L_. Čia stovįs

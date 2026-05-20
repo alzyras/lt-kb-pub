@@ -48,7 +48,7 @@ Nenurodyta
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 - t-004
-  teiginys: 'Žemaičiai ir vėliau minėjo lazdą kaip vyresnybės įsakymo ženklą.'
+  teiginys: 'Kai kur Žemaičiuose lazda buvo minima kaip vyresnybės įsakymo ir paklusimo ženklas.'
   pagrindžia:
     - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
@@ -60,9 +60,9 @@ Nenurodyta
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Jis pats retai, o rasi ir niekados nedavė įsakymų svietui, bet siuntė per savo kunigus,
-    žygovais^877 vadinamus, kuriems pavedė savo valdžią, įduodamas lietos, arba ūkės^878 , lazdą,
-    krivūle būk vadinamą, ir liepė ta lazda savo įsakymus svietui skelbti, kursai būdas skelbimo
-    įsakymų vyresnybės lazda iki šios dienos užsiturėjo^879 kaip Kalne, taip ir Žemaičiuose
+        žygovais^877 vadinamus, kuriems pavedė savo valdžią, įduodamas lietos, arba ūkės^878 , lazdą,
+        krivūle būk vadinamą, ir liepė ta lazda savo įsakymus svietui skelbti, kursai būdas skelbimo
+        įsakymų vyresnybės lazda iki šios dienos užsiturėjo^879 kaip Kalne, taip ir Žemaičiuose.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -71,13 +71,13 @@ Nenurodyta
   pagrindžia:
     - t-003
 - c-002
-  santrauka: 'Žemaičiai ir vėliau minėjo lazdą kaip vyresnybės įsakymo ženklą.'
+  santrauka: 'Kai kur Žemaičiuose lazda buvo minima kaip vyresnybės įsakymo ir paklusimo ženklas.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
-    tūlose
-    vietose pas žemaičius šiandien tebėra sakoma: „Karūžasis^880 , – sako, – lazdą parnešė“ arba: „Kaip
-    aš neklausysiu lazdos savo vyresnybės.“ Šiandien lenkai tyčiodamies senu įpročiu vadina lietuvį
-    skurczypalka^881 , nuo to, jog jis ne rašto, bet lazdos savo vyresnybės arba kūrėjų kūrėjo klausąs
+    tūlose vietose pas žemaičius šiandien tebėra sakoma: „Karūžasis^880 , – sako, – lazdą parnešė“
+        arba: „Kaip aš neklausysiu lazdos savo vyresnybės.“ Šiandien lenkai tyčiodamies senu įpročiu
+        vadina lietuvį skurczypalka^881 , nuo to, jog jis ne rašto, bet lazdos savo vyresnybės arba
+        kūrėjų kūrėjo klausąs.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

@@ -31,7 +31,10 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
   santrauka: 'Japonija Lietuvą pripažino 1922 m. gruodžio 20 d., reikalaudama pripažinti Versalio sutarties nuostatus dėl Nemuno navigacijos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Iš didžiųjų
+    De jure
+    Lietuva tebuvo pripažinta tik Vokietijos, Rusijos, Šveicarijos,
+    Argentinos, Meksikos ir Latvijos bei Estijos (šias pastarąsias
+    tada jau buvo pripažinusi de jure 21 valstybė). Iš didžiųjų
     santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amerika
     (VII.28); Anglija, Prancūzija, Italija ir Japonija pripažino tiktai
     1922 metų gruodžio 20 dieną, pateikusios sąlygą, kad Lietuva
@@ -44,7 +47,3 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Anglija]]

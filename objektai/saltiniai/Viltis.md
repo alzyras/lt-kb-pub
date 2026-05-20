@@ -32,6 +32,9 @@ Smetonos, redaguojamoji „Viltis".
   santrauka: '1907 m. pradėjusi eiti A. Smetonos redaguojama „Viltis“ kvietė lietuvius į vienybę ir gynė tautos reikalus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Taip pat Kaune išėjo pirmasis lietuviškas
+    mokslo žurnalas „Draugija", kurį leido pralotas A. Dam-
+    brauskas Jakštas.
     Kai „Vilniaus Žinių" leidėjų nuomonės ėmė skirtis, 1907 m.
     pradėjo eiti gabiausio mūsų publicisto, A. Smetonos, reda-
     guojamoji „Viltis". Tai buvo stipriausias lietuviškas laikraš-

@@ -26,7 +26,7 @@ Gubernija buvo administracijos vienetas, valdomas gubernatoriaus ir gubernijos v
 - t-002
   teiginys: 'Kiekviena gubernija buvo suskirstyta į apskritis, kuriose buvo atskiri valdininkai ir teismai.'
   pagrindžia:
-    - c-002
+    - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
@@ -38,19 +38,7 @@ Gubernija buvo administracijos vienetas, valdomas gubernatoriaus ir gubernijos v
     **Gubernija** buvo administracijos vienetas, valdomas gu-
     bernatoriaus ir gubernijos valdybos. Joje taip
     pat buvo teismo rūmai, kurie prižiūrėjo žemesniuosius
-    teismus.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Kiekviena gubernija buvo suskirstyta į apskritis, kuriose buvo atskiri valdininkai ir teismai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Kiekviena gubernija buvo suskirstyta į apskritis,
+    teismus. Kiekviena gubernija buvo suskirstyta į apskritis,
     kuriose buvo atskiri valdininkai ir teismai.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -58,4 +46,5 @@ Gubernija buvo administracijos vienetas, valdomas gubernatoriaus ir gubernijos v
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
+    - t-001
     - t-002

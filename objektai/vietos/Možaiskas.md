@@ -29,7 +29,8 @@ Pirmiausia ji privertė savo valdžiai pasiduoti Lietuvos sąjungininkus Tverę 
   santrauka: 'Možaiskas buvo Lietuvos sąjungininkas, kurį Maskva privertė pasiduoti jos valdžiai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Pirmiausia ji privertė savo valdžiai pasi-
+    Tad Maskva
+    galėjo laisvai veikti. Pirmiausia ji privertė savo valdžiai pasi-
     duoti Lietuvos sąjungininkus Tverę ir vėliau Možaiską. Psko-
     vas jai buvo palankus; o D. Naugardą Jonas III po antrojo žygio
     (pirmasis buvo 1471 m., antrasis — 1479 m.) prijungė prie
@@ -44,4 +45,5 @@ Pirmiausia ji privertė savo valdžiai pasiduoti Lietuvos sąjungininkus Tverę 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Pskovas]]
 - [[objektai/vietos/Tverė]]

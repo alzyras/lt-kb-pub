@@ -1,0 +1,61 @@
+---
+tipas: vieta
+pavadinimas: 'Memmingenas'
+sukurta: '2026-05-20'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1949 m.'
+periodas: 'okupacijų ir sovietmečio laikotarpis'
+periodo_grupes:
+  - 'XX a.'
+amziai:
+  - 'XX'
+date_start: '1949'
+date_end: ''
+patikimumas: 'vidutinis'
+tags:
+  - vieta
+---
+# Memmingenas
+
+## Santrauka
+
+leisto Lietuvių Bibliografinės Tarnybos Biu­ letenio Knygų Lentyna (pradėtas Vokietijos Memmingene, nuo 1949 m. Danville, III., JAV).
+
+## Teiginiai
+- t-001
+  teiginys: 'Lietuvių Bibliografinės Tarnybos biuletenis „Knygų lentyna“ buvo pradėtas leisti Vokietijos Memmingene.'
+  pagrindžia:
+    - c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Lietuvių Bibliografinės Tarnybos biuletenis „Knygų lentyna“ buvo pradėtas leisti Vokietijos Memmingene.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Ruža-
+    niec-Ružancovo 1948-1965 m. leisto Lietuvių Bibliografinės Tarnybos Biu­
+    letenio** **_Knygų Lentyna_** **(pradėtas Vokietijos Memmingene, nuo 1949 m.
+    Danville, III., JAV).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+
+## Ryšiai
+### Teminiai klasteriai
+- [[temos/bibliografija]]
+
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+
+### Susiję objektai
+- [[objektai/vietos/Danville]]

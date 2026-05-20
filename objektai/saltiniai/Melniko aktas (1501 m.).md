@@ -21,7 +21,7 @@ Ir vėlesnės — Liublino unijos pagrindiniai dėsniai buvo irgi paimti iš to 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Ir vėlesnės — Liublino unijos pagrindiniai dėsniai buvo irgi paimti iš to paties Melniko akto.'
+  teiginys: 'Liublino unijos pagrindiniai dėsniai buvo paimti iš Melniko akto.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -37,7 +37,7 @@ Ir vėlesnės — Liublino unijos pagrindiniai dėsniai buvo irgi paimti iš to 
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Ir vėlesnės — Liublino unijos pagrindiniai dėsniai buvo irgi paimti iš to paties Melniko akto.'
+  santrauka: 'Liublino unijos pagrindiniai dėsniai buvo paimti iš Melniko akto.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo būdu šis susitarimas pasiliko tik popieriuje: Lietuva

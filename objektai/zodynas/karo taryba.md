@@ -21,7 +21,7 @@ Vytautas buvo sudarytosios karo tarybos pirmininkas, todėl jisai buvo ir tikras
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vytautas buvo karo tarybos pirmininkas ir todėl laikytas tikruoju mūšio vadu.'
+  teiginys: 'Vytautas buvo sudarytos karo tarybos pirmininkas ir laikytas tikruoju mūšio vadu.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -29,7 +29,7 @@ Vytautas buvo sudarytosios karo tarybos pirmininkas, todėl jisai buvo ir tikras
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vytautas buvo karo tarybos pirmininkas ir todėl laikytas tikruoju mūšio vadu.'
+  santrauka: 'Vytautas buvo sudarytos karo tarybos pirmininkas ir laikytas tikruoju mūšio vadu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Visų viršininku buvo laikomas Jogaila, ir jis turėjo duoti ženklą

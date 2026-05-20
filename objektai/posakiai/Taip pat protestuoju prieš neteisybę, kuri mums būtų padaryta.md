@@ -36,7 +36,9 @@ Toliau jis pasakė: „Taip pat protestuoju prieš neteisybę, kuri mums būtų 
     simės pirmiausia su valdovais krikščionimis, o paskui net su pagoni-
     mis" ... Tai buvo įspėjimas lenkams, norintiems atplėšti kai kurias
     Lietuvos žemes (Palenkę, Voluinę ir Lietuvai likusį Podolės Bracla-
-    vą), dėl kurių abi valstybės rungėsi XIV ir XV amž.
+    vą), dėl kurių abi valstybės rungėsi XIV ir XV amž. Tuo būdu Lie-
+    tuva grasino susitaikinti ir susijungti ne tik su Maskva, bet ir su
+    Lenkijai baisiais totoriais.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

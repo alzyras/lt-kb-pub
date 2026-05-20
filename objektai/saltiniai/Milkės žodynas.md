@@ -32,7 +32,9 @@ tags:
   santrauka: '1800 m. prakalboje Milkės žodynui Kantas teigė, kad lietuvių kultūrinės teisės palaikytinos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    1800 m., savo prakal-
+    Pačioje Mažojoje Lietuvoje XIX amžiaus pradžioje atsi-
+    rado įžymių žmonių nelietuvių, kurie rūpinosi lietuviais ir jų kal-
+    ba ir pripažino jai visišką teisę gyvuoti. 1800 m., savo prakal-
     boje Milkės žodynui, tą pareiškė ir garsusis Karaliaučiaus filo-
     sofas Kantas. Anot jo, valstybė esanti reikalinga tokių kilnių,
     padorių žmonių, kaip lietuviai, todėl jų kultūrinės teisės pa-

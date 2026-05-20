@@ -87,8 +87,5 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/tikėjimas]]
-
 ### Susiję objektai
 - [[objektai/paprociai/Kandidatas 58 Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m]]

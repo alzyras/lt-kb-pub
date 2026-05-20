@@ -9,6 +9,21 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+datos:
+  - '1000 m.'
+  - '1936 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+  - 'viduramžiai'
+amziai:
+  - 'X'
+  - 'XX'
+  - 'XXI'
+date_start: '1000'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - autorius
@@ -22,21 +37,33 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
 
 ## Teiginiai
 - t-005
-  teiginys: 'Šiame leidinyje J. Dlugošas cituojamas kaip Vorsklos mūšio pasakojimo šaltinis.'
+  teiginys: 'J. Dlugošas rašė, kad Edigėjaus kariuomenė prie Vorsklos buvo akimis neaprėpiama.'
   pagrindžia:
-    - c-009
+    - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-006
-  teiginys: 'Šiame leidinyje J. Dlugošo raštai naudojami aprašant Vytauto kariuomenės rikiuotę ir Žalgirio mūšio aplinkybes.'
+  teiginys: 'J. Dlugošas aprašė, kaip Vytautas liepos 5 d. stovykloje raitelius suskirstė pulkais ir daliniais.'
   pagrindžia:
-    - c-010
+    - c-002
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-007
+  teiginys: 'Dlugošas mini, kad priešas, jau manęs esąs saugus, viename miške buvo apsuptas ir užblokuotas medžių užtvaromis, ir iš už jų priedangos gausiai strėlėmis apšaudomas, buvo priverstas pasiduoti.'
+  pagrindžia:
+    - c-003
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-008
+  teiginys: 'J. Dlugošas minėjo, kad tarp Livonijos ordino pajėgų buvo Prūsijos magistro karių.'
+  pagrindžia:
+    - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-009
-  santrauka: 'Šiame leidinyje J. Dlugošas cituojamas kaip Vorsklos mūšio pasakojimo šaltinis.'
+- c-001
+  santrauka: 'J. Dlugošas rašė, kad Edigėjaus kariuomenė prie Vorsklos buvo akimis neaprėpiama.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1399 m. rugpjūčio 12 d., „dvi valan-
@@ -52,17 +79,23 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
-- c-010
-  santrauka: 'Šiame leidinyje J. Dlugošo raštai naudojami aprašant Vytauto kariuomenės rikiuotę ir Žalgirio mūšio aplinkybes.'
+- c-002
+  santrauka: 'J. Dlugošas aprašė, kaip Vytautas liepos 5 d. stovykloje raitelius suskirstė pulkais ir daliniais.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    P. 57 „LIETUVOS KARIUOMENĖ ŠNIPO AKIMIS“, Joannis Dlugosii Opera omnia,
+    Dobeslavas: „Norėčiau, kad patikėtum, magistre, jog Vytauto kariuomenė yra ne tik
+    didelė ir galinga, bet apsiginklavusi puikiausia ginkluote.“
 
-    cura Alexandri Przedziecki edita, t. x111: Historiae Polonicae libri xu, t. rv: Libri
+    VYTAUTAS RIKIUOJA PULKUS
 
-    XI, XII, Krakow, 1877, P. 17. Publikacijos internete: http://www.polona.pl/dlibra/
-    doccontent?id=17339&from=FBC; http://archive.org/details/dzieawszystkieoounkngoog.
-    P. 5% „VYTAUTAS RIKIUOJA PULKUS“ Joannis Dlugosii Opera omnia..., p. 19-20.
+    Dlugošas aprašo tai, kaip Vytautas žygio metu (liepos 5 d.) stovykloje išrikiavęs tvarkė
+    lietuvių kariuomenę:
+
+    „Senu Tėvynės papročiu paskirstęs ją raitelių pulkais (pleištais) ir daliniais; kiekviename
+    pulke raitelius ant žemesnių arklių arba pernelyg menkai apsiginklavusius sustatė viduryje,
+    o juos supo kiti, jojantys ant stipresnių žirgų ir puikiai ginkluoti. Ir tokiu būdu suglaudus
+    ir subūrus pulkus buvo išvengta gretų retumo, o vienas pulkas už kito išsitęsęs per savo
+    plotį užėmė nustatyto ilgio tarpą.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -70,3 +103,60 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
+- c-003
+  santrauka: 'Dlugošas mini, kad priešas, jau manęs esąs saugus, viename miške buvo apsuptas ir užblokuotas medžių užtvaromis, ir iš už jų priedangos gausiai strėlėmis apšaudomas, buvo priverstas pasiduoti.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Rugpjūčio pabaigoje į Žemaitiją paeiliui
+    įsibrovė trys Livonijos daliniai, jie niokojo
+    Upytės kraštą. Begrįžtantis priešas buvo
+    sumuštas, pirmiausia Kuldigos 40 raitelių
+    ir apie 1000 pėstininkų dalinys. J. Dlugošas
+    mini, kad priešas, jau manęs esąs saugus,
+    viename miške buvo apsuptas ir užblokuo-
+    tas medžių užtvaromis, ir iš už jų priedan-
+    gos gausiai strėlėmis apšaudomas, buvo
+    priverstas pasiduoti. Paimtos 7 livonie-
+    čių vėliavos, kurios buvo nugabentos į
+    Vilniaus šv. Stanislovo bažnyčią - katedrą
+    kaip pergalės simbolis.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-007
+- c-004
+  santrauka: 'J. Dlugošas minėjo, kad tarp Livonijos ordino pajėgų buvo Prūsijos magistro karių.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Švitrigailos ir Livonijos ordino pajėgos
+    Švitrigailą remiantys lietuviai, rytinių
+
+    LDK slaviškų žemių (Smolensko, Kijevo,
+    Vitebsko, Polocko) kariai - apie 6000, apie
+    500 totorių; Kryžiuočių ordino Livonijos
+    atšakos „Rygos“ magistro pajėgos — apie
+    500 riterių, apie 100 riterių — „svečių iš už-
+    jūrio“ (J. Dlugošas mini Prūsijos magistro
+    karius), Livonijos samdiniai - apie 4500.
+    Iš viso - apie 11000 žmonių (istoriogra-
+    fijoje šis skaičius kartais padidinamas iki
+    30 000).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-008
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/X amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
+### Susiję objektai
+- [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]

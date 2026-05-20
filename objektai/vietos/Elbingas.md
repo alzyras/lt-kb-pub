@@ -21,13 +21,13 @@ Nesugriautos liko tik Karaliaučiaus, Baigos, Elbingo ir Kulmo, t. Lenkija atgav
 
 ## Teiginiai
 - t-001
-  teiginys: 'Elbingo pilis liko nesugriauta, nes buvo viena iš tvirčiausių pilių.'
+  teiginys: 'Elbingo pilis liko nesugriauta, nes buvo priskirta prie tvirčiausių pilių.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbingą, Marijenburgą ir visą Varmijos vyskupystę.'
+  teiginys: '1466 m. Torno taika Lenkijai grąžino Pamarį, Dancigą, Elbingą, Marijenburgą ir Varmijos vyskupystę.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -35,10 +35,12 @@ Nesugriautos liko tik Karaliaučiaus, Baigos, Elbingo ir Kulmo, t. Lenkija atgav
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Elbingo pilis liko nesugriauta, nes buvo viena iš tvirčiausių pilių.'
+  santrauka: 'Elbingo pilis liko nesugriauta, nes buvo priskirta prie tvirčiausių pilių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Nesugriautos liko tik Karaliau-
+    Ordinas atsidūrė dideliam pavojuj. Ypač labai išsi-
+    plėtė sukilimas Prūsuose, kur buvo sunaikintos beveik visos or-
+    dino pilys ir išžudytos jų įgulos. Nesugriautos liko tik Karaliau-
     čiaus, Baigos, Elbingo ir Kulmo, t. y. pačios tvirtosios pilys.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -48,7 +50,7 @@ Nesugriautos liko tik Karaliaučiaus, Baigos, Elbingo ir Kulmo, t. Lenkija atgav
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbingą, Marijenburgą ir visą Varmijos vyskupystę.'
+  santrauka: '1466 m. Torno taika Lenkijai grąžino Pamarį, Dancigą, Elbingą, Marijenburgą ir Varmijos vyskupystę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     1466 m. Torne buvo pasirašyta taika, kuria ordinas
@@ -62,3 +64,7 @@ Nesugriautos liko tik Karaliaučiaus, Baigos, Elbingo ir Kulmo, t. Lenkija atgav
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Karaliaučius]]

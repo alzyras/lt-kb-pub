@@ -33,7 +33,7 @@ Vytautui priskiriama lakoniška karo formulė pergalę ir galimą pralaimėjimą
 
 ## Teiginiai
 - t-002
-  teiginys: 'Formulė pateikiama kaip Vytauto atsakymas atkalbinėjusiems mesti kovą su totoriais dėl šalčių.'
+  teiginys: 'Posakis „du priešai: šaltis ir totoriai“ pateikiamas kaip Vytauto atsakymo dalis, kai saviškiai prie Dniepro ragino jį dėl šalčių mesti kovą su totoriais.'
   pagrindžia:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -41,9 +41,11 @@ Vytautui priskiriama lakoniška karo formulė pergalę ir galimą pralaimėjimą
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Formulė pateikiama kaip Vytauto atsakymas atkalbinėjusiems mesti kovą su totoriais dėl šalčių.'
+  santrauka: 'Posakis „du priešai: šaltis ir totoriai“ pateikiamas kaip Vytauto atsakymo dalis, kai saviškiai prie Dniepro ragino jį dėl šalčių mesti kovą su totoriais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
+    Vytautas tuo at­
+    žvilgiu buvo tikras kryžiuočių mokinys, realistas ir praktikas.
     Kalboje buvo trumpas ir šykštus, bet žinodamas reikalus,
     dažnai griebdavosi sąmojaus ir lakoniškumo. Kai ant Dniepro
     saviškiai jį atkalbinėjo dėl didelių šalčių mesti kovą su totoriais,
@@ -61,3 +63,7 @@ Vytautui priskiriama lakoniška karo formulė pergalę ir galimą pralaimėjimą
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/frazė]]
+
+### Susiję objektai
+- [[objektai/posakiai/Todėl ir reikia kariauti, nes jeigu nugalėsim, gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės apie mus, kad mus nugalėjo du]]
+- [[objektai/posakiai/„Todėl ir reikia kariauti... šaltis ir totoriai.“]]

@@ -30,7 +30,7 @@ Aušrėnai šiame fragmente yra istorinis žemaičių vardas.
 
 ## Teiginiai
 - t-002
-  teiginys: 'Aušrėnai šiame fragmente yra istorinis žemaičių vardas.'
+  teiginys: 'Aušrėnais vadinti žemaičiai, kurie, pasak seno rašytojo, dirbo žemę ir augino javus bei vaisius.'
   pagrindžia:
     - c-001
     - c-002
@@ -39,12 +39,12 @@ Aušrėnai šiame fragmente yra istorinis žemaičių vardas.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Aušrėnai šiame fragmente yra istorinis žemaičių vardas.'
+  santrauka: 'Aušrėnais vadinti žemaičiai, kurie, pasak seno rašytojo, dirbo žemę ir augino javus bei vaisius.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Antras rašytojas, gyvenąs pirmajame amžiuje gimus Kristui, savo garbingame rašte „Girionų
-    būdas“ sako, tarp visų girionų žemaičiai, arba aušrėnai (aestii), orę testeigę, kitiems slinkaujant^1173 ,
-    beje, javus ir vaisius steigiai^1174 veisiantys.
+        būdas“ sako, tarp visų girionų žemaičiai, arba aušrėnai (aestii), orę testeigę, kitiems slinkaujant^1173 ,
+        beje, javus ir vaisius steigiai^1174 veisiantys.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -53,12 +53,10 @@ Aušrėnai šiame fragmente yra istorinis žemaičių vardas.
   pagrindžia:
     - t-002
 - c-002
-  santrauka: 'Aušrėnai šiame fragmente yra istorinis žemaičių vardas.'
+  santrauka: 'Aušrėnais vadinti žemaičiai, kurie, pasak seno rašytojo, dirbo žemę ir augino javus bei vaisius.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
-    Kas didžiau, po jūrą mauriojantys, ir jų vienų žemėj
-    gintarai tesantys randami; laukai jų ir dirvos, sako, ne sodomis yra, bet kame kurs apsigyvenęs girioj
-    pradyrė sau žemės lopelį, tas to sau ponu buvo ir turėjo gynioti jį nuo neprietelių.
+    Kas didžiau, po jūrą mauriojantys, ir jų vienų žemėj gintarai tesantys randami; laukai jų ir dirvos, sako, ne sodomis yra, bet kame kurs apsigyvenęs girioj pradyrė sau žemės lopelį, tas to sau ponu buvo ir turėjo gynioti jį nuo neprietelių.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

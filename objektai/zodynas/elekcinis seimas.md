@@ -20,7 +20,7 @@ Pagaliau 1704 m. Karolis privertė sušaukti elekcinį seimą, kuris, apstatytas
 
 ## Teiginiai
 - t-001
-  teiginys: '1704 m. Karolis privertė sušaukti elekcinį seimą, kuris karaliumi paskelbė Stanislovą Leščinskį.'
+  teiginys: '1704 m. Karolis privertė sušaukti elekcinį seimą, kuris Stanislovą Leščinskį paskelbė karaliumi.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -28,10 +28,12 @@ Pagaliau 1704 m. Karolis privertė sušaukti elekcinį seimą, kuris, apstatytas
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1704 m. Karolis privertė sušaukti elekcinį seimą, kuris karaliumi paskelbė Stanislovą Leščinskį.'
+  santrauka: '1704 m. Karolis privertė sušaukti elekcinį seimą, kuris Stanislovą Leščinskį paskelbė karaliumi.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Pagaliau
+    Todėl visuotinio sukilimo
+    prieš švedus, kaip 1656 m.,
+    nebegalėjo būti. Pagaliau
     1704 m. Karolis privertė
     sušaukti elekcinį seimą, ku-
     ris, apstatytas švedų ka-

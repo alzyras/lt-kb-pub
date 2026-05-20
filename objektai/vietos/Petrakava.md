@@ -31,7 +31,11 @@ tags:
   santrauka: '1453 m. Petrakavos seime karalius buvo priverstas patvirtinti lenkų privilegijas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Šitokioj dėtoj karalius
+    Švitrigaila mirdamas (1452 m.)
+    testamentu Voluinę paliko Lietuvai, tačiau lenkai ne tik neketino
+    atiduoti Lietuvai Podolės, bet dar ruošėsi ginklu užgrobti ir Vo-
+    luinę. Kazimieras šitam ginče palaikė lietuvius, todėl lenkai ruošėsi
+    jį už tai pašalinti ir pradėti su Lietuva karą. Šitokioj dėtoj karalius
     1453 m. buvo priverstas Petrakavos seime patvirtinti lenkų pri-
     vilegijas, bet žemių jiems prisiekė grąžinti tik tas, kurios ne-
     teisingai esančios kitų užgrobtos.

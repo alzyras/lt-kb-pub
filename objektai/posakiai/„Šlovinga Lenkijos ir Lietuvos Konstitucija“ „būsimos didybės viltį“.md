@@ -21,7 +21,3 @@ Dėl to Gegužės trečiosios konstitucija buvo suvokiama kaip Lietuvos atgaivin
 
 ## Teiginiai
 ## Reikšmingi paminėjimai
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/dokumentas]]

@@ -10,10 +10,9 @@ datos:
   - '1920 m.'
   - '2013 m.'
   - '2026 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
   - 'modernioji Lietuva'
-  - 'šiuolaikinė Lietuva'
 amziai:
   - 'XX'
   - 'XXI'
@@ -33,25 +32,43 @@ Persigrupavusi Lietuvos kariuomenė tik lapkričio viduryje sustabdė lenkų dal
 
 ## Teiginiai
 - t-001
-  teiginys: '1920 m. kovose prie Giedraičių lietuvių artilerija veikė prieš lenkų dalinius.'
+  teiginys: 'Adamkavičiaus vadovaujama 1-oji divizija spalio 29-31 d. sėkmingai kontraatakavo ir išvadavo Giedraičius.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: 'Viena svarbiausių lenkų puolimo krypčių buvo Ukmergės link pro Giedraičius su galutiniu tikslu pulti Kauną iš šiaurės rytų.'
+  pagrindžia:
+    - c-002
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-003
+  teiginys: 'Spalio 26-27 d. lenkai apėjo kairįjį lietuvių sparną ir užėmė Giedraičius, Želvą, Dubingius, Vidiškį.'
+  pagrindžia:
+    - c-003
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1920 m. kovose prie Giedraičių lietuvių artilerija veikė prieš lenkų dalinius.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  santrauka: 'Adamkavičiaus vadovaujama 1-oji divizija spalio 29-31 d. sėkmingai kontraatakavo ir išvadavo Giedraičius.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Lietuvių artilerija prieš lenkų dalinius
-    1920 m. kovose prie Giedraičių
+    Šis ženklas atspindėjo siekį
+    atkurti didžiąją Lenkiją
+    inkorporuojant į ją visą
+    Lietuvos teritoriją
 
-    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
-    145
-    Sąjungininkų architektai, konstravę pokario tvarką, įsivaizdavo Lie-
-    tuvą buferine valstybe, kuri drauge su Latvija, Estija, Suomija, Lenkijos
-    vadovaujama, sudarytų patikimą saugumo kordoną nuo bolševizmo.
+    jau E. Adamkavičiaus vado-
+    vaujama 1-oji divizija spalio
+    29-31 d. sėkmingai kontraat-
+    akavo ir išvadavo Giedraičius.
+    Želigovskio ketinimas greitai pa-
+    siekti pergalę buvo sužlugdytas.
+    Frontas nusistovėjo Kernavės-
+    Musninkų-Širvintų- Giedraičių
+    Dubingių-Švenčionėlių linijoje.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -59,11 +76,52 @@ Persigrupavusi Lietuvos kariuomenė tik lapkričio viduryje sustabdė lenkų dal
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Viena svarbiausių lenkų puolimo krypčių buvo Ukmergės link pro Giedraičius su galutiniu tikslu pulti Kauną iš šiaurės rytų.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    LIETUVOS
+    RESPUBLIKA
+
+    Kautynių priešistorė
+
+    1920 m. spalio 9 d. želigovskininkai užė-
+    mė Vilnių ir ėmė veržtis toliau į Lietuvos
+    teritoriją. Viena svarbiausių lenkų puo-
+    limo krypčių buvo Ukmergės link pro
+    Giedraičius su galutiniu tikslu pulti Kauną
+    iš šiaurės rytų. Lietuvių pajėgos negalėjo
+    atsilaikyti prieš gausių lenkų pajėgų puo-
+    lima.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Spalio 26-27 d. lenkai apėjo kairįjį lietuvių sparną ir užėmė Giedraičius, Želvą, Dubingius, Vidiškį.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Lietuvių pajėgos negalėjo
+    atsilaikyti prieš gausių lenkų pajėgų puo-
+    lima. Spalio 26-27 d. lenkai apėjo kai-
+
+    rįjį lietuvių sparną ir užėmė Giedraičius,
+    Želvą, Dubingius, Vidiškį. Susidarė pavo-
+    jinga padėtis, lenkams pasiekus savo puo-
+    limo tikslą, Lietuvai būtų iškilęs pavojus
+    prarasti nepriklausomybę.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
 - [[laikotarpiai/XXI amžius]]
-
-### Susiję objektai
-- [[objektai/daiktai/Artilerija]]

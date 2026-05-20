@@ -45,7 +45,7 @@ Nenurodyta
   santrauka: 'Konfederaciniuose seimuose atstovai pasižadėdavo numatomus klausimus spręsti balsų dauguma.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Kadangi seimo iširimas dažnai grėsdavo vals-
+    nieko nenuveikę. Kadangi seimo iširimas dažnai grėsdavo vals-
     tybei dideliais pavojais, tai prieš tą blogybę būdavo nukreipti
     vadinamieji konfederaciniai seimai. Atstovai į juos
     būdavo renkami paprasta tvarka, tik suvažiavę, pasiūlius kara-
@@ -60,8 +60,5 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/aktas]]
-
 ### Susiję objektai
 - [[objektai/grupes/Konfederaciniai seimai]]

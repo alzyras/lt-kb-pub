@@ -43,7 +43,10 @@ Nenurodyta
   santrauka: '1328 m. livoniškiai kryžiuočiai perdavė atkirstą Klaipėdos pilį Prūsijos kryžiuočiams.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Jo pastatytoji Klaipėdos pilis
+    Ordino ekspan-
+    sija buvo sulaikyta dar Vytenio Gedimino laikais: jo siena nu-
+    sistojo, ir ji visą laiką išliko maždaug tokia pat, kokia yra da-
+    bartinė Lietuvos Vokietijos siena. Jo pastatytoji Klaipėdos pilis
     buvo atkirsta, ir su ja ordinas galėjo susisiekti tik jūra. Todėl
     1328 m., t. y. Gedimino laikais, livoniškiai kryžiuočiai perdavė ją
     Prūsijos kryžiuočiams, kurie tuo tarpu jau buvo užėmę visą pa-

@@ -38,7 +38,9 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
   santrauka: 'Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio skiriamas urėdas — pakamorė, kuris visas tokias bylas spręsdavo vietoje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Kiekviename dabar
+    Jiems buvo pavestos spręsti visos bylos dėl turto, t. y. vadinamo-
+    sios civilinės bylos. Tik bylos dėl žemės ribų (ežių) buvo pa-
+    vestos atskiram pakamorės teismui. Kiekviename dabar
     naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
     skiriamas urėdas — pakamorė, kuris visas tokias bylas spręs-
     davo vietoje.
@@ -53,7 +55,9 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
   santrauka: 'Žemės teismams rinkti buvo įvesti viso pavieto arba vaivadijos bajorų suvažiavimai, vadinami seimeliais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Žemės teismams rinkti buvo įvesti viso pavieto
+    Toks krašto
+    padalinimas į vaivadijas ir pavietus išbuvo iki valstybės pabaigos.
+    Seimeliai. Žemės teismams rinkti buvo įvesti viso pavieto
     arba vaivadijos bajorų suvažiavimai, vadinami seimeliais.
   citata_rodoma: ""
   teiginio_tipas: faktas

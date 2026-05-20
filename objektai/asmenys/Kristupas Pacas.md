@@ -6,6 +6,17 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1936'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -18,5 +29,34 @@ tags:
 Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu, buvo kancleris Kristupas Pacas, — tas pats, kuris pastatė gražųjį Pažaislio vienuolyną paliai Kauną (jo brolis hetmonas Mykolas pastatė taip pat gražiausią Vilniuje barokinę šv. Vienas iš jų, Mykolas, buvo hetmonas ir Vilniaus vaivada, kitas, Kristupas, — kancleris, trečias, Steponas, — Vilniaus vyskupas, ketvirtas, Kazimieras, — Žemaičių vyskupas, o penktas, Petras, — Žemaičių seniūnas.
 
 ## Teiginiai
+- t-001
+  teiginys: 'Kristupas Pacas buvo vienas bajorų konfederacijos vadovų kovose prieš švedus ir jų sąjungininkus.'
+  pagrindžia:
+    - c-001
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Kristupas Pacas buvo vienas bajorų konfederacijos vadovų kovose prieš švedus ir jų sąjungininkus.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Prieš švedus ir jų sąjungininkus taip pat
+    kovojo vadinamoji bajorų konfederacija - grupė bajorų, deklara-
+    vusi unijinę ištikimybę Lenkijai ir karaliui Jonui Kazimierui Vazai,
+    vadovaujama lauko etmono Vincento Gonsievskio, Povilo Sapiegos,
+    Kristupo ir Mykolo Pacų. Jai priklausė ir dalis išlikusios Lietuvos
+    kariuomenės. Švedijai ėmė nesisekti kovos veiksmai ir Lenkijoje,
+    be to, jai karą paskelbė Rusija.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

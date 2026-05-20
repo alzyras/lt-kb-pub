@@ -29,6 +29,11 @@ Apskritai per vadinamąjį prancūzmetį Lietuva labai nukentėjo: apiplėšė j
   santrauka: 'Apskritai per vadinamąjį prancūzmetį Lietuva labai nukentėjo: apiplėšė ją Napoleono kariuomenė, nepasigailėjo jos nė rusai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Pasitraukus Napoleono kariuomenei, tuojau buvo sugrąžinta
+    senoji Rusų valdžia. Kad ir buvo caro paskelbta amnestija, ta-
+    čiau Napoleono šalininkai tuojau buvo pradėti persekioti: nepa-
+    bėgusius į užsienį išsiuntė į Rusiją, kai kuriems iškėlė bylas ir
+    atėmė dvarus.
     Apskritai per vadinamąjį prancūzmetį Lietuva labai nuken-
     tėjo: apiplėšė ją Napoleono kariuomenė, nepasigailėjo jos nė ru-
     sai.

@@ -42,9 +42,10 @@ Nenurodyta
   santrauka: 'Latvijos valstybės kūrimosi pradžioje Latvijai teko kariauti su bolševikais ir pasilikusiomis vokiečių kariuomenės dalimis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Kaip Lietuvai, taip ir Latvijai kūrimosi pradžioje teko
+    sybė. Kaip Lietuvai, taip ir Latvijai kūrimosi pradžioje teko
     kariauti su bolševikais ir su pasilikusiomis vokiečių kariuomenės
-    dalimis.
+    dalimis. Nuo jų apsigynus, Latvijai nebeliko jokių sunkių už-
+    sienio politikos problemų, ir jos gyvenimas ėjo normalia vaga.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

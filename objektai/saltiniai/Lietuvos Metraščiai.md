@@ -41,6 +41,9 @@ tags: []
   santrauka: 'M. Jučo „Lietuvos Metraščiai“ buvo išleisti Vilniuje 1968 m.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
+    Münchenas.
+    JoŠ = Jogaila, strp. rinkinys (J. Jakštas, Z. Ivinskis, S. Sužiedėlis,
+    A. Šapoka, P. Šležas), red. A. Šapoka, Karmas 1935.
     JučM = Jučas, M. : Lietuvos Metraščiai, Vilnius 1968.
   citata_rodoma: ""
   teiginio_tipas: faktas

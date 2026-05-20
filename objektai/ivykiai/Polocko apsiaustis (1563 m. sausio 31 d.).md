@@ -1,0 +1,101 @@
+---
+tipas: ivykis
+pavadinimas: 'Polocko apsiaustis (1563 m. sausio 31 d.)'
+sukurta: '2026-05-20'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+datos:
+  - '1563 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVI'
+date_start: '1563'
+date_end: ''
+patikimumas: 'vidutinis'
+tags:
+  - ivykis
+  - miestas
+---
+# Polocko apsiaustis (1563 m. sausio 31 d.)
+
+## Santrauka
+
+Tačiau 1563 m. pradžioje caras Ivanas Rūstusis, asmeniškai vadovaudamas 60 tūkstančių karių, įsiveržė į Lietuvos Didžiąją Kunigaikštystę ir sausio 31 d. pradėjo Polocko apsiaustį. Polocko netektis buvo netikėta kaip perkūnas iš giedro dangaus.
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
+## Teiginiai
+- t-001
+  teiginys: '1563 m. sausio 31 d. Ivanas Rūstusis su 60 tūkst. karių pradėjo Polocko apsiaustį.'
+  pagrindžia:
+    - c-001
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: 'Polocko praradimas buvo skaudi netektis Lietuvai, nes miestas buvo svarbus prekybos centras ir stipriausia rytinių žemių tvirtovė.'
+  pagrindžia:
+    - c-002
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: '1563 m. sausio 31 d. Ivanas Rūstusis su 60 tūkst. karių pradėjo Polocko apsiaustį.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    nių rezultatų nepasiekė. Tačiau 1563 m. pra-
+
+    džioje caras Ivanas Rūstusis, asmeniškai
+    vadovaudamas 60 tūkstančių karių, įsi-
+    veržė į Lietuvos Didžiąją Kunigaikštystę
+    ir sausio 31 d. pradėjo Polocko apsiaustį.
+    Nors miestas didvyriškai gynėsi, po dviejų
+    savaičių kovos įgula, nebegalėdama prie-
+    šintis, pasidavė.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Polocko praradimas buvo skaudi netektis Lietuvai, nes miestas buvo svarbus prekybos centras ir stipriausia rytinių žemių tvirtovė.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Polocko netektis buvo netikėta kaip per-
+    kūnas iš giedro dangaus. Gavęs šią žinią,
+    Žygimantas Augustas net apsiverkė. Miesto
+    praradimas buvo nepaprastai skausmingas
+    Lietuvai, nes Polockas buvo ne tik vienas
+    seniausių jos miestų, svarbus prekybos
+    centras, bet ir stipriausia tvirtove rytinėse
+    žemėse.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XVI amžius]]
+
+### Susiję objektai
+- [[objektai/asmenys/Žygimantas Augustas]]

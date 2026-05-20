@@ -6,6 +6,17 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1936'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - kraštas
@@ -24,6 +35,12 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   teiginys: 'Aukštojo mokslo siekę ne dvasininkai vykdavo į Vokietijos, Italijos ir Prancūzijos universitetus.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: 'Pasakojime romėnų karvedys Publijas Libonas iš Italijos pabėgo į Lietuvą ir čia sukūrė valstybę.'
+  pagrindžia:
+    - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
@@ -45,7 +62,27 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Pasakojime romėnų karvedys Publijas Libonas iš Italijos pabėgo į Lietuvą ir čia sukūrė valstybę.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Esą, istorijoje žinomas romėnų karvedys Publijas Li-
+    bonas, savo priešų persekiojamas, iš Italijos atbėgęs į Lietuvą
+    ir čia sukūręs valstybę. Jo vardas čia buvęs iškreiptas į Pale-
+    moną. Tas atsitikę I-II amžiuje po Kristaus. Kadangi pirmieji
+    Lietuvos kunigaikščiai yra žinomi tik iš XIII amž., tai tos teori-
+    jos autoriai išgalvojo nemaža kunigaikščių vardų, kurie už-
+    pildė tą didelę spragą (II—XII amž.), ir visus Lietuvos
+    kunigaikščius kildino iš to Palemono.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Prancūzija]]
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

@@ -9,17 +9,29 @@ aliases: []
 saltiniai:
   - A. Šapoka (red.), Lietuvos istorija (1936 m.)
 laikotarpis: Abiejų Tautų Respublikos seimų praktika
-datos:
-  - 1700 m.
-  - 1788—1792 m.
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1700 m.'
+  - '1788 m.'
+  - '1792 m.'
+  - '1915 m.'
+  - '1918 m.'
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+  - 'modernioji Lietuva'
+  - 'naujieji laikai'
+amziai:
+  - 'XVII'
+  - 'XVIII'
+  - 'XX'
+  - 'XXI'
+date_start: '1700'
+date_end: '2026'
 patikimumas: aukštas
 tags:
   - seimas
@@ -46,18 +58,37 @@ Terminas vartojamas tiek aiškinamajame pasakojime, tiek cituojamame politiniame
 - t-005
   teiginys: 'Konfederaciniuose seimuose veto teisė nebeveikė, nes sprendimai buvo priimami balsų dauguma.'
   pagrindžia:
-    - c-001
+    - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-006
-  teiginys: 'Liberum veto politiniame tekste aiškintas kaip laisvas priešinimosi žodis.'
+  teiginys: 'Liberum veto reiškė laisvojo pasipriešinimo teisę, dėl kurios daug seimų išsiskirstydavo nieko nenuveikę.'
   pagrindžia:
-    - c-002
+    - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
+  santrauka: 'Liberum veto reiškė laisvojo pasipriešinimo teisę, dėl kurios daug seimų išsiskirstydavo nieko nenuveikę.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Pasipriešinimo teisė
+    visų buvo labai branginama, nes visi savo laisvės pagrindu laikė
+    šį dėsnį: „Be manęs nieko negali būti sprendžiama apie mane"
+    _(nihil de те, sine те)._ Tatai vadinosi _liberum veto,_ t. y. laisvojo
+    pasipriešinimo teisė. Dėl jos daugybė seimų turėjo išsiskirstyti,
+
+
+    nieko nenuveikę.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-006
+- c-002
   santrauka: 'Konfederaciniuose seimuose veto teisė nebeveikė, nes sprendimai buvo priimami balsų dauguma.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -75,25 +106,6 @@ Terminas vartojamas tiek aiškinamajame pasakojime, tiek cituojamame politiniame
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
-- c-002
-  santrauka: 'Liberum veto politiniame tekste aiškintas kaip laisvas priešinimosi žodis.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Štai charakteringa jo ištrauka:
-    „ ... Išsižadame visų savo beverčių lenkiškų didžiosios Lietuvos
-    kunigaikštijos, Lenkų karalių ir didžiųjų Lietuvos kunigaikščių mūsų
-    protėviams duotų laisvių. Atmetame laisvą priešinimosi žodį (t. y.
-    liberum veto) ir apie valstybę galvojimo laisvę. Valdžią ir jos dis-
-    poziciją taip pat pavedame ir įteikiame mūsų absoliutiškajam ir
-    aukščiausiajam viešpačiui, šviesiausiajam Lietuvos kunigaikščiui, kaip
-    kadaise ją turėjo paveldėjamieji Lietuvos kunigaikščiai.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-006
 
 ## Šaltiniai ir įrodymai
 
@@ -103,3 +115,5 @@ Terminas vartojamas tiek aiškinamajame pasakojime, tiek cituojamame politiniame
 ### Laikotarpiai
 - [[laikotarpiai/XVII amžius]]
 - [[laikotarpiai/XVIII amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

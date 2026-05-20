@@ -32,7 +32,7 @@ tags:
 
 ## Teiginiai
 - t-002
-  teiginys: 'Cenzūra paprastai leisdavo spausdinti lietuviškus tekstus tik rusiškomis raidėmis.'
+  teiginys: 'Cenzūra paprastai atsakydavo, kad spausdinti leidžiama tik rusiškomis raidėmis.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -40,10 +40,12 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Cenzūra paprastai leisdavo spausdinti lietuviškus tekstus tik rusiškomis raidėmis.'
+  santrauka: 'Cenzūra paprastai atsakydavo, kad spausdinti leidžiama tik rusiškomis raidėmis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Bet vėliau jam
+    Kai vieną metą Rusų valdžia pasidarė nuolaidesnė,
+    žymiam lietuvių veikėjui P. Vileišiui pasisekė išspausdinti Pet-
+    rapily keletą lietuviškų moksliškų knygučių. Bet vėliau jam
     cenzūra paprastai atsakydavo: „Leidžiama spausdinti, tik rusiš-
     komis raidėmis". Vieną kitą knygutę ar kokį atsišaukimą pa-
     sisekdavo išspausdinti, tik cenzūrą apgavus arba apėjus.

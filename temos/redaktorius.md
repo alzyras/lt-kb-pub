@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 21.
+Objektų skaičius: 25.
 
 ## Kaip naudoti
 
@@ -27,8 +27,10 @@ Objektų skaičius: 21.
 - [[objektai/autoriai/Dr. J. Šliūpas]]
 - [[objektai/autoriai/Gražina Indrišiūnienė]]
 - [[objektai/autoriai/Inga Vinogradnaitė]]
+- [[objektai/autoriai/Jonas Arvasevičius]]
 - [[objektai/autoriai/Jonas Basanavičius]]
-- [[objektai/autoriai/Jonas Šliūpas]]
+- [[objektai/autoriai/K. Jablonskis]]
+- [[objektai/autoriai/Konstantinas Jablonskis]]
 - [[objektai/autoriai/Kuršaitis (redaktorius, 1849–1880 m.)]]
 - [[objektai/autoriai/M. Jankus]]
 - [[objektai/autoriai/Mikšas]]
@@ -38,6 +40,8 @@ Objektų skaičius: 21.
 
 ### Grupės
 - [[objektai/grupes/Estai]]
+- [[objektai/grupes/Geležinio Vilko rinktinė]]
+- [[objektai/grupes/Tauro apygarda]]
 - [[objektai/grupes/Vilniaus universiteto leidykla]]
 
 ### Papročiai

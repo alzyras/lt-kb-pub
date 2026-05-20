@@ -21,33 +21,24 @@ Vartojamos formos: `ermyderių`.
 
 ## Teiginiai
 - t-004
-  teiginys: '`Ermyderiai` žymi gamtos, visuomenės ir politinės tvarkos suirutes.'
+  teiginys: 'Ermyderiai apibūdina žemės, vandens ir oro suirutes, taip pat tikybos ir ūkės rėdos nesantaikas.'
   pagrindžia:
     - c-001
-    - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 - t-005
-  teiginys: 'Autorius jais apibūdina tiek žemės ir vandens pokyčius, tiek tikybos ir ūkės tvarkos krizes.'
+  teiginys: 'Ermyderiai minimi kaip žemės, vandens ir oro atmainų ženklai, kuriuos rodo pasaulio aplinka.'
   pagrindžia:
     - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
-- t-006
-  teiginys: 'Lietuvos tautos senovė čia rodoma kaip patirta didelių ūkės ermyderių.'
-  pagrindžia:
-    - c-003
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '`Ermyderiai` žymi gamtos, visuomenės ir politinės tvarkos suirutes.'
+  santrauka: 'Ermyderiai apibūdina žemės, vandens ir oro suirutes, taip pat tikybos ir ūkės rėdos nesantaikas.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
-    Vienos yra buvusios šiame pasauly tokios atmainos, kurias jam raštai pasako, kitas jam
-    žemės, vandens ir oro ermyderiai^3 rodo, noris^4 raštai tyli, kitos yra tokios, kurias žmogus pats
-    savo amžiuje gali regėti.
+    Vienos yra buvusios šiame pasauly tokios atmainos, kurias jam raštai pasako, kitas jam žemės, vandens ir oro ermyderiai^3 rodo, noris^4 raštai tyli, kitos yra tokios, kurias žmogus pats savo amžiuje gali regėti.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -56,39 +47,7 @@ Vartojamos formos: `ermyderių`.
   pagrindžia:
     - t-004
     - t-005
-- c-002
-  santrauka: '`Ermyderiai` žymi gamtos, visuomenės ir politinės tvarkos suirutes.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Tas dar taip pat yra žinomu, jog ne vieni tokie žemės, oro ar jūrų ermyderiai blaškė ir naikino
-    svietą šiame pasauly, bet dar lygia dalia novijo jį nuomonių ermyderiai apie tikybą ir ūkės^45
-    rėdą^46 , nesgi vieni vienaip norėjo dievą garbinti, kiti kitaip;
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-004
-- c-003
-  santrauka: 'Lietuvos tautos senovė čia rodoma kaip patirta didelių ūkės ermyderių.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Jei tiktai pažvelgsim į pačią Lietuvos tautą, kalnėnų ir žemaičių, aiškiai tenai matysim, jog ta
-    tauta ne vien praėjusiuose amžiuose, bet jau gilioj senovėj yra perkentėjusi didžiai didelius savo
-    ūkės ermyderius, nesgi turi sau ypatingą^51 kalbą, būtinai įvairią nuo kitų kalbų, o aiškesnę ir
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-006
 
 ## Pastabos
 
 - Reikšmė plati; vienoje vietoje apima gamtos pokyčius, kitoje socialinę ir politinę suirutę.
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Rėda]]

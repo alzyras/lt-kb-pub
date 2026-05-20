@@ -47,12 +47,6 @@ Nenurodyta
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-004
-  teiginys: 'Neturtingieji toje duoboje kartais ir pėrėsi.'
-  pagrindžia:
-    - c-002
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -60,10 +54,10 @@ Nenurodyta
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Penktasis trobesys buvo taip pat pailguotinai ketvirtainis, reja vadinamas, kuriame javus
-    sausus, iš duobos^232 išimdamies, ant kluono pakloję kūlė. Toje rėjoje buvo ketvirtainis rentinys,
-    aukštesnis už rėjos sienas, duoba vadinamas, mažne pusę rėjos užimąs su kakaliu, kurioje javus
-    džiovino, ant tos duobos buvo doris^233 , arba salyklininkas, kuriame buvo langelis, garvilka
-    vadinamas, kame salyklą džiovino; pažastėse tos duobos buvo peludės, kur pelus pylė.
+        sausus, iš duobos^232 išimdamies, ant kluono pakloję kūlė. Toje rėjoje buvo ketvirtainis rentinys,
+        aukštesnis už rėjos sienas, duoba vadinamas, mažne pusę rėjos užimąs su kakaliu, kurioje javus
+        džiovino, ant tos duobos buvo doris^233 , arba salyklininkas, kuriame buvo langelis, garvilka
+        vadinamas, kame salyklą džiovino; pažastėse tos duobos buvo peludės, kur pelus pylė.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -71,18 +65,3 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
-- c-002
-  santrauka: 'Neturtingieji toje duoboje kartais ir pėrėsi.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Pas
-    neturtinguosius toje duoboj pėrės, nesgi ant kakalio buvo krosnis sukrauta. Pitėjas, garsus
-    žvaigždžinys^234 , keliaudamas po šiaurę, per penkis šimtus metų pirm gimimo Kristaus minavoja
-    jau tą trobesį savo kelionės raštuose, kaipo stebuklingą ir negirdėtą daiktą
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-004

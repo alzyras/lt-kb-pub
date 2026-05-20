@@ -44,7 +44,13 @@ tags:
   santrauka: 'Gediminas laiške aiškino norą būti paklusniu popiežiaus sūnumi ir teigė vyresniuosius laikąs tėvais, lygius broliais, o jaunesniuosius savo vaikais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Laiške jis pareiškęs norą būti paklusniu po-
+    Rusiškosios sritys pagrasino, kad jo nebeklau-
+    sysiančios, o žemaičiai žadėjo net susidėti su ordinu ir iš-
+    naikinti visą Gedimino giminę, jeigu jis krikštytųsi. Todėl
+    Gediminas pareiškė delegatams, kad jis nė nežadėjęs krikštytis:
+    jis tik norėjęs taikos su krikščionimis, kad kiekvienam būtų
+    galima saviškai garbinti Dievą; jis savo valstybėje nedraudžiąs
+    krikščionių tikėjimo. Laiške jis pareiškęs norą būti paklusniu po-
     piežiaus sūnum, nes popiežius esąs už jį vyresnis; vyresniuosius
     jis laikąs tėvais, lygius — broliais, o jaunesniuosius — savo vai-
     kais.

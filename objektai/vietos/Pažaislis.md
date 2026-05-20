@@ -29,7 +29,12 @@ Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu, buvo kancleris 
   santrauka: 'Kristupas Pacas pastatė Pažaislio vienuolyną prie Kauno.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu, buvo kancleris Kristupas Pacas, — tas pats, kuris pastatė gra-
+    Už jų
+    pečių tuomet jau stovėjo visa Lietuva, nes, grįždamas iš elek-
+    cinio seimo, Boguslavas Radvila mirė (netoli Karaliaučiaus), ir
+    galingų konkurentų Pacams daugiau jau nebeliko Lietuvoje.
+    Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu,
+    buvo kancleris Kristupas Pacas, — tas pats, kuris pastatė gra-
     žųjį Pažaislio vienuolyną paliai Kauną (jo brolis hetmonas My-
     kolas pastatė taip pat gražiausią Vilniuje barokinę šv. Petro
     ir Povilo -bažnyčią Antakalny).

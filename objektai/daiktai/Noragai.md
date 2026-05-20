@@ -46,7 +46,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-002
-  teiginys: 'Laukai buvo ariami medžio noragais, ne geležiniais, o kai kurie storastos bandė įsakyti arti gelžiniais noragais.'
+  teiginys: 'Laukai buvo ariami mediniais noragais, o kai kurie storastos įsakė arti geležiniais noragais.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
@@ -54,16 +54,10 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Laukai buvo ariami medžio noragais, ne geležiniais, o kai kurie storastos bandė įsakyti arti gelžiniais noragais.'
+  santrauka: 'Laukai buvo ariami mediniais noragais, o kai kurie storastos įsakė arti geležiniais noragais.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
-    Žemę aria medžio noragais, ne geležies, tas dar yra stebuklingesniu, jog jų
-    grumtai^594 yra kieti, ne smiltėti. Paprastai aria sau medžio noragus po juosta pakišę, idant,
-    vienam nulūžus, netrukdami kitą antmautų^595. Nekurie Storastos, norėdami palengvinti orę, įsakė
-    laukus arti gelžiniais noragais; jei tą metą ar atentį^596 nepaderėjo javai dėl giedrų ar lytų taip,
-    kaip svietas kad buvo geidęs, tad pradėjo jis stigavoti, jog nuo gelžinių noragų javai
-    nevykstantys, nesgi kito lyčiaus nenumanė. Storasta, krūpaudamas, kad svietas, įpuolęs į rūpesnį,
-    nepatraktų, liepė vėl po seno mediniais noragais laukus arti.
+    Žemę aria medžio noragais, ne geležies, tas dar yra stebuklingesniu, jog jų grumtai^594 yra kieti, ne smiltėti. Paprastai aria sau medžio noragus po juosta pakišę, idant, vienam nulūžus, netrukdami kitą antmautų^595. Nekurie Storastos, norėdami palengvinti orę, įsakė laukus arti gelžiniais noragais; jei tą metą ar atentį^596 nepaderėjo javai dėl giedrų ar lytų taip, kaip svietas kad buvo geidęs, tad pradėjo jis stigavoti, jog nuo gelžinių noragų javai nevykstantys, nesgi kito lyčiaus nenumanė. Storasta, krūpaudamas, kad svietas, įpuolęs į rūpesnį, nepatraktų, liepė vėl po seno mediniais noragais laukus arti.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

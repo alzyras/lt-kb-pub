@@ -10,17 +10,21 @@ aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 laikotarpis: XVII a.
-datos:
-  - 1699 m. citatos kontekstas
-periodas: ankstyvieji_naujieji_laikai
-periodo_grupes: []
-amziai:
-  - XVII
-date_start: ''
-date_end: ''
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1699 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVII'
+  - 'XXI'
+date_start: '1699'
+date_end: '2026'
 patikimumas: aukštas
 tags: []
 ---
@@ -47,20 +51,14 @@ Terminas žymi savitą LDK kavalerijos rūšį tarp husarų ir lengvesniųjų ra
 - t-004
   teiginys: 'Petihorai buvo Lietuvos kariuomenės raitininkai, Lenkijoje vadinti pancernais.'
   pagrindžia:
-    - c-003
+    - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-005
   teiginys: 'Petihorai sudarydavo vidutinę kavaleriją ir mūšyje manevruodavo flanguose, remdami husarų ataką.'
   pagrindžia:
-    - c-003
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-006
-  teiginys: 'Petihorai Lietuvos Didžiosios Kunigaikštijos kariuomenėje buvo kavalerijos rūšis, anksčiau naudojusi dzidas.'
-  pagrindžia:
     - c-002
+    - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
@@ -87,27 +85,6 @@ Terminas žymi savitą LDK kavalerijos rūšį tarp husarų ir lengvesniųjų ra
   pagrindžia:
     - t-005
 - c-002
-  santrauka: 'Petihorai Lietuvos Didžiosios Kunigaikštijos kariuomenėje buvo kavalerijos rūšis, anksčiau naudojusi dzidas.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    »[...] Lietuvos Didžiosios Kunigaikštijos kariuomenėje yra dar trečioji [kavalerijos rūšis],
-    jie apginkluoti kaip šarvuočiai [pancernes], o jų ietys - kaip husarų, tiesa, kiek trumpes-
-    nės ir su mažesnėmis vėliavėlėmis. Dėl šio skirtumo jos ir vadinamos kitaip: husarų ietys
-    vadinamos kopijomis, o šios - dzidomis: pirmasis žodis, be abejonės, kilęs iš lotyniško
-    copia, reiškiančio pulkus, antrasis - iš krašto kilęs žodis, kurį turi turkai, naudojantys tokio
-    pat tipo ietis. Lietuvių armijoje temačiau keturias tokias vėliavas, o Karūnos armija jų
-    beveik neturi, tik niekas savo grožiu neprilygsta tiems, kuriuos regėjau toj kunigaikštijoj,
-    nes husarai vienodai šaunūs ir vienoje, ir kitoje kariuomenėje. Dabar jie atsisakė savo
-    dzidy ir tapo lygūs šarvuočiams; jie vadinami petihorais ir taip pat yra pagerbti draugų
-    [Touariche] vardu.“
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-006
-- c-003
   santrauka: 'Petihorai buvo Lietuvos kariuomenės raitininkai, Lenkijoje vadinti pancernais.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -139,3 +116,8 @@ Terminas žymi savitą LDK kavalerijos rūšį tarp husarų ir lengvesniųjų ra
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XVII amžius]]
+- [[laikotarpiai/XXI amžius]]
+
+### Susiję objektai
+- [[objektai/asmenys/H. Brantas]]
+- [[objektai/asmenys/J. P. Sapiega]]

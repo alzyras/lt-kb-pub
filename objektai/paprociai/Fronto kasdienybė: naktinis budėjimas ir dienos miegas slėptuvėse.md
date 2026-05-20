@@ -42,7 +42,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-003
-  teiginys: 'Pirmose linijose įprastas gyvenimas buvo grindžiamas naktiniu budėjimu.'
+  teiginys: 'Pirmose fronto linijose kariai naktį budėdavo, o dieną miegodavo slėptuvėse.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -56,7 +56,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Pirmose linijose įprastas gyvenimas buvo grindžiamas naktiniu budėjimu.'
+  santrauka: 'Pirmose fronto linijose kariai naktį budėdavo, o dieną miegodavo slėptuvėse.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tuo metu, kai lenkai veržėsi Ukmergės link ir vyko sunkios

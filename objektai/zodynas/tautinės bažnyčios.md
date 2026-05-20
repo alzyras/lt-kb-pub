@@ -26,7 +26,7 @@ Amerikoje visų tautinių bažnyčių turtas yra užrašomas vyskupų vardu. Tai
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Amerikoje lietuvių laisvamanių ir griežtesniųjų tautininkų įtakoje atsirado nuo katalikų hierarchijos nepriklausomų tautinių bažnyčių.'
+  teiginys: 'Amerikoje lietuvių laisvamanių ir griežtesniųjų tautininkų įtakoje atsirado tautinių bažnyčių, nepriklausomų nuo katalikų hierarchijos.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -37,7 +37,9 @@ Amerikoje visų tautinių bažnyčių turtas yra užrašomas vyskupų vardu. Tai
   santrauka: 'Amerikoje visų tautinių bažnyčių turtas yra užrašomas vyskupų vardu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Amerikoje visų tautinių bažnyčių tur-
+    Apskaičiuoja-
+    ma, kad bažnyčių ir klebonijų pastatymas lietuviams yra atsėjęs
+    apie 60 milijonų dolerių. Amerikoje visų tautinių bažnyčių tur-
     tas yra užrašomas vyskupų vardu. Dėl to kartais esti ir nesu-
     sipratimų.
   citata_rodoma: ""
@@ -48,10 +50,11 @@ Amerikoje visų tautinių bažnyčių turtas yra užrašomas vyskupų vardu. Tai
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Amerikoje lietuvių laisvamanių ir griežtesniųjų tautininkų įtakoje atsirado nuo katalikų hierarchijos nepriklausomų tautinių bažnyčių.'
+  santrauka: 'Amerikoje lietuvių laisvamanių ir griežtesniųjų tautininkų įtakoje atsirado tautinių bažnyčių, nepriklausomų nuo katalikų hierarchijos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Taip antai, kai kur lietuvių laisvamanių ir griežtesnių-
+    Dėl to kartais esti ir nesu-
+    sipratimų. Taip antai, kai kur lietuvių laisvamanių ir griežtesnių-
     jų tautininkų įtakoje Amerikoje yra atsiradusių katalikų hierar-
     chijos (vyskupų) nepriklausomų bažnyčių, vadinamųjų tautinių
     bažnyčių. Bet jų nedaug tėra — vos 6.

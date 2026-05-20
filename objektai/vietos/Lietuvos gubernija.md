@@ -29,7 +29,7 @@ Visos po trečiojo padalinimo Rusijai tekusios žemės iš pradžių buvo padali
   santrauka: 'Po trečiojo padalinimo Rusijai tekusios žemės vėliau buvo sujungtos į vieną Lietuvos guberniją.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Visos po trečiojo padalinimo Rusijai teku-
+    **Rusų valdžia.** Visos po trečiojo padalinimo Rusijai teku-
     sios žemės iš pradžių buvo padalintos į dvi gubernijas —
     Vilniaus ir Slanimo. Po kiek laiko jos buvo sujungtos
     į vieną Lietuvos guberniją, bet netrukus vėl buvo pa-

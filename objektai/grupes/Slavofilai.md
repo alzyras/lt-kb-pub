@@ -18,7 +18,7 @@ Toks universiteto klestėjimas nepatiko rusams, ypač slavofilams, kurie kaip ti
 
 ## Teiginiai
 - t-001
-  teiginys: 'Slavofilai tuo metu Petrapilyje susiorganizavo į draugiją ir nepritarė universiteto klestėjimui.'
+  teiginys: 'Slavofilams nepatiko universiteto klestėjimas, o tuo metu jie Petrapilyje susiorganizavo į draugiją.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -26,9 +26,14 @@ Toks universiteto klestėjimas nepatiko rusams, ypač slavofilams, kurie kaip ti
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Slavofilai tuo metu Petrapilyje susiorganizavo į draugiją ir nepritarė universiteto klestėjimui.'
+  santrauka: 'Slavofilams nepatiko universiteto klestėjimas, o tuo metu jie Petrapilyje susiorganizavo į draugiją.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Universitetas vėl senoviškai susitvarkė ir
+    veikiai išgarsėjo, kaip geriausioji lenkų mokslo įstaiga: su juo
+    nebegalėjo lygintis nei Lenkijos nei Rusijos mokslo įstaigos.
+    Tuo pat metu labai išaugo ir studentų skaičius: tuojau po Na-
+    poleono karų. jų tebuvo vos apie 150, bet vėliau išaugo iki 1.500.
     Toks universiteto klestėjimas nepatiko rusams, ypač sla-
     vofilams, kurie kaip tik tuo metu Petrapily susiorganizavo į
     draugiją.

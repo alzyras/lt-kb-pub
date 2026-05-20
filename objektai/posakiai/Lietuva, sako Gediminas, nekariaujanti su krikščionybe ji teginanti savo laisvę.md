@@ -43,7 +43,9 @@ tags:
   santrauka: 'Gediminas teigė, kad Lietuva nekariauja su krikščionybe, o tik gina savo laisvę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Lietuva, sako Gediminas,
+    Vytenis prašęs atsiųsti į Lietuvą kunigų, bet ordinas siun-
+    tęs ne kunigus, o savo kariuomenę. Maža to, ordinas net suimi-
+    nėjąs į Lietuvą vykstančius kunigus. Lietuva, sako Gediminas,
     nekariaujanti su krikščionybe: ji teginanti savo laisvę.
   citata_rodoma: ""
   teiginio_tipas: faktas

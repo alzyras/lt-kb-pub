@@ -20,7 +20,7 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Amerikos Lietuvių Katalikų Federacija 1912 m. Čikagoje įkūrė Amerikos Lietuvių R. Katalikų Moksleivių Susivienijimą.'
+  teiginys: 'Amerikos Lietuvių R. Katalikų Moksleivių Susivienijimą 1912 m. Čikagoje įkūrė Amerikos Lietuvių Katalikų Federacija.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -28,7 +28,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Amerikos Lietuvių Katalikų Federacija 1912 m. Čikagoje įkūrė Amerikos Lietuvių R. Katalikų Moksleivių Susivienijimą.'
+  santrauka: 'Amerikos Lietuvių R. Katalikų Moksleivių Susivienijimą 1912 m. Čikagoje įkūrė Amerikos Lietuvių Katalikų Federacija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     1912 m. F-ja sušaukė Čikagoje pirmąjį

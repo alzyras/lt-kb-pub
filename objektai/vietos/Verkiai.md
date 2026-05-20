@@ -6,6 +6,20 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1387 m.'
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'LDK'
+  - 'modernioji Lietuva'
+amziai:
+  - 'XIV'
+  - 'XX'
+  - 'XXI'
+date_start: '1387'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - kunigas
@@ -20,31 +34,22 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
 
 ## Teiginiai
 - t-001
-  teiginys: 'Verkiuose jo pastangomis buvo pastatyti didingi vyskupų rūmai, kurių vėliau jau nebebuvo.'
+  teiginys: '1387 m. vasario 17 d. Jogaila Vilniaus katedrai ir steigiamajai vyskupijai užrašė Verkus ir kitas žemes.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Verkiuose jo pastangomis buvo pastatyti didingi vyskupų rūmai, kurių vėliau jau nebebuvo.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: '1387 m. vasario 17 d. Jogaila Vilniaus katedrai ir steigiamajai vyskupijai užrašė Verkus ir kitas žemes.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Jo pastangomis buvo
-    pastatyta ir dabar tebestovinti
-    gražioji Vilniaus katedra ir di-
-    dingi vyskupų rūmai Verkiuose
-    (dabar jų jau nebėra). Jis buvo
-    ir pirmasis Edukacinės Komisijos
-    pirmininkas. Ypač didelis jo
-    nuopelnas buvo tas, kad visose
-    plačios Vilniaus vyskupijos para-
-    pijose buvo įsteigtos pradžios
-    mokyklos (būdamas vyskupas, jis
-    įsakė visiems savo kunigams
-    steigti mokyklas, o vėliau per
-    dekanus jas prižiūrėjo).
+    Vilniaus katedrai ir steigiamajai vyskupijai Jogaila užra­
+    šė (1387. 11. 17) daug žemių Vilniaus apylinkėse (Malėtus, La­
+    banorus, Verkus), Tauragnų pilį, kelis namus Vilniaus mieste,
+    vienus mūrinius namus didžiojo kunigaikščio pilyje ir ten pat
+    keturis medinius namus^3 ).
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -52,3 +57,13 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
+### Susiję objektai
+- [[objektai/vietos/Malėtai]]
+- [[objektai/vietos/Tauragnų pilis]]

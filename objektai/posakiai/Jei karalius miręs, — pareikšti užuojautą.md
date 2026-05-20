@@ -31,7 +31,8 @@ Užsieny jau daug kas manė, kad jis miręs; pavyzdžiui, Turkų sultonas buvo a
   santrauka: 'Maskvos kunigaikštis pasiuntiniams į Krokuvą nurodydavo pareikšti užuojautą, jei karalius būtų miręs.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Užsieny jau daug kas manė, kad
+    Paskutiniais gyvenimo metais visai
+    nebebuvo girdėt Zigmanto. Užsieny jau daug kas manė, kad
     jis miręs; pavyzdžiui, Turkų sultonas buvo atsiuntęs net užuo-
     jautą, o Maskvos kunigaikštis savo pasiuntiniams, siunčiamiems
     į Krokuvą, instrukcijose įrašydavo: „Jei karalius miręs, — pa-
@@ -44,3 +45,7 @@ Užsieny jau daug kas manė, kad jis miręs; pavyzdžiui, Turkų sultonas buvo a
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Krokuva]]

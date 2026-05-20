@@ -48,7 +48,7 @@ Nenurodyta
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 - t-004
-  teiginys: 'Palikę priešui vien degėsius, lietuviai jį išsekindavo badu ir vargais, o po to puldavo iš girių.'
+  teiginys: 'Kai priešai vaikščiojo po degėsius ieškodami lietuvių, Kęstutis išpuolė iš Palangos girių, o Algirdas užėjo jiems už nugaros iš Žaliosios girios.'
   pagrindžia:
     - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
@@ -60,9 +60,9 @@ Nenurodyta
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Kartais, turėdami su daugiu nuožmių neprietelių kariauti savo krašte, lig neištraukę ant jų į karę,
-    pirma savo pelnelį, beje, kubilėlį su drabužiais, iš namų į neišžengiamas girias toli tolesniai išnešę ir
-    tenai pačias, vaikus ir gyvulius suvedę, javus į žemę įkasę, namus sudegino, idant neprieteliai atėję
-    nei duonos, nei pastogės, nei gyvulio niekame nerastų ir per tą patį badu ir vargais išgaištų
+        pirma savo pelnelį, beje, kubilėlį su drabužiais, iš namų į neišžengiamas girias toli tolesniai išnešę ir
+        tenai pačias, vaikus ir gyvulius suvedę, javus į žemę įkasę, namus sudegino, idant neprieteliai atėję
+        nei duonos, nei pastogės, nei gyvulio niekame nerastų ir per tą patį badu ir vargais išgaištų.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -71,14 +71,13 @@ Nenurodyta
   pagrindžia:
     - t-003
 - c-002
-  santrauka: 'Palikę priešui vien degėsius, lietuviai jį išsekindavo badu ir vargais, o po to puldavo iš girių.'
+  santrauka: 'Kai priešai vaikščiojo po degėsius ieškodami lietuvių, Kęstutis išpuolė iš Palangos girių, o Algirdas užėjo jiems už nugaros iš Žaliosios girios.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
-    Tuo
-    tarpu, jiems po degėsius bevaikščiojant ir beieškant lietuvių, Kęstutis, su 15 tūkstančių joties išpuolęs
-    iš Palangos girių, per Klaipėdą, o Algirdas su antra tiek iš Žaliosios girios per Įstrupį užsiautė užpakalį
-    krikščionims, kurie nuo bado, vargų ir darganų visi galą gavo taip, jog per kelerius metus kaukolės
-    po laukus ir girias, upeliuose ir pievose valkiojos nugaišusių neprietelių
+    Tuo tarpu, jiems po degėsius bevaikščiojant ir beieškant lietuvių, Kęstutis, su 15 tūkstančių joties išpuolęs
+        iš Palangos girių, per Klaipėdą, o Algirdas su antra tiek iš Žaliosios girios per Įstrupį užsiautė užpakalį
+        krikščionims, kurie nuo bado, vargų ir darganų visi galą gavo taip, jog per kelerius metus kaukolės
+        po laukus ir girias, upeliuose ir pievose valkiojos nugaišusių neprietelių.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

@@ -33,6 +33,8 @@ tags:
   citata_originali: |
     „Vienybės Lietuvininkų" antraštė.
     (Tai vienas seniausių ir daug įtakos turėjusių Amerikos lietuvių laikraščių).
+    Greta tų laikraščių, buvo leidžiama ir lietuviškų knygų, ta-
+    čiau jų vertė buvo labai menka.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

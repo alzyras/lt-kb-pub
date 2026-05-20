@@ -29,6 +29,7 @@ Stanevičius — lietuviškų dainų rinkinį.
   santrauka: 'S. Stanevičius išleido lietuviškų dainų rinkinį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Įsitraukę į tą sąjūdį, žemaičiai pirmiausia susirūpino kalba.
     D. Poška net ėmė rašyti žemaitišką žodyną ir tam tikslui
     rinko senas knygas. K. Za-
     bitis Nezabitauskas

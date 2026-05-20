@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 11.
+Objektų skaičius: 8.
 
 ## Kaip naudoti
 
@@ -19,14 +19,11 @@ Objektų skaičius: 11.
 ## Susiję objektai
 
 ### Posakiai
-- [[objektai/posakiai/din vater was ein kunie grôz]]
 - [[objektai/posakiai/du priešai, šaltis ir totoriai]]
 - [[objektai/posakiai/jam patinkąs mažiau iškalbingas, bet užtatai tiesakalbis.]]
 - [[objektai/posakiai/jam patinkąs mažiau iškalbingas, bet užtatai tiesakalbis|jam patinkąs mažiau iškalbingas, bet užtatai tiesakalbis.]]
 - [[objektai/posakiai/Jūs abudu esate mūsų valdovai]]
 - [[objektai/posakiai/Kad tik be arklio nebūtų]]
 - [[objektai/posakiai/Mūsų kraštą pavergti]]
-- [[objektai/posakiai/Ne mano tikėjimo jie trokšta, kaip jie nuduoda, bet siekia žemių]]
 - [[objektai/posakiai/Respublika laikosi netvarka]]
-- [[objektai/posakiai/Žmonės nusidavimų (istorijos) nepažįstantieji vis yra vaikai]]
 - [[objektai/posakiai/„mylintis savo tėvynę... rusas yra internacionalistas...“]]

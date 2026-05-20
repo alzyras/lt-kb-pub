@@ -33,7 +33,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vilniaus generalgubernatorius ir Kauno gubernatorius draudė blaivybės brolijas, remdamiesi visų draugijų uždraudimu.'
+  teiginys: 'Vilniaus generalgubernatorius ir Kauno gubernatorius draudė blaivybės brolijas, nes tuo metu buvo uždraustos visos draugijos.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -53,13 +53,14 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vilniaus generalgubernatorius ir Kauno gubernatorius draudė blaivybės brolijas, remdamiesi visų draugijų uždraudimu.'
+  santrauka: 'Vilniaus generalgubernatorius ir Kauno gubernatorius draudė blaivybės brolijas, nes tuo metu buvo uždraustos visos draugijos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Jau iš pat pradžių Vilniaus
+    **Blaivybės brolijų suvaržymai.** Jau iš pat pradžių Vilniaus
     generalgubernatorius ir Kauno gubernatorius buvo pradėję ka-
     bintis prie vyskupo ir kunigų, drausdami blaivybės brolijas, nes
-    tada buvo uždraustos visos draugijos.
+    tada buvo uždraustos visos draugijos. Tačiau vyskupas nemetė
+    savo gražaus darbo.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -71,7 +72,13 @@ Nenurodyta
   santrauka: 'Per 1863 m. sukilimą Muravjovas uždraudė visokius susibūrimus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Šitaip buvo iki pat
+    Vysku-
+    pas, susiartinęs su šviesesniais
+    dvarininkais, vertė juos panai-
+    kinti visas smukles. Kai ku-
+    riose apskrityse tatai buvo nu-
+    tarę padaryti net bajorų suva-
+    žiavimai. Šitaip buvo iki pat
     1863 m. sukilimo, kada Mu-
     ravjovas uždraudė visokius
     susibūrimus.

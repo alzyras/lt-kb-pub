@@ -19,7 +19,7 @@ Papildomos aiškios formos neišskirtos.
 
 ## Teiginiai
 - t-003
-  teiginys: '`Gaspadorius` šiame tekste reiškia ūkio šeimininką ar namų vadovą.'
+  teiginys: 'Gaspadorius vaizduojamas kaip ūkio šeimininkas, raginantis pjovėjus baigti pievos kertę.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
@@ -33,13 +33,10 @@ Papildomos aiškios formos neišskirtos.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '`Gaspadorius` šiame tekste reiškia ūkio šeimininką ar namų vadovą.'
+  santrauka: 'Gaspadorius vaizduojamas kaip ūkio šeimininkas, raginantis pjovėjus baigti pievos kertę.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
-    Gaspadorius subatos vakarą, norėdamas pievos kertę nubengti, stiprina savo
-    jaunus pjovėjus būtinai nuvargusius tais žodžiais: „Vaikeliai, benkim tą barą šiandien, aš jums rytoj
-    duosiu arklius į bažnyčią joti.“ Šie, tais žodžiais pagaivinti, tarsi sylos atsigėrę, nubengia dainuodami
-    noris pusnakty
+    Gaspadorius subatos vakarą, norėdamas pievos kertę nubengti, stiprina savo jaunus pjovėjus būtinai nuvargusius tais žodžiais: „Vaikeliai, benkim tą barą šiandien, aš jums rytoj duosiu arklius į bažnyčią joti.“ Šie, tais žodžiais pagaivinti, tarsi sylos atsigėrę, nubengia dainuodami noris pusnakty.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

@@ -66,6 +66,8 @@ Nenurodyta
   santrauka: 'Stengdamasi pakelti užsienio lietuvių švietimą, DULR rūpinasi lietuviškų mokyklų steigimu, parūpina išeivių mokykloms mokytojų, siunčia išeivių bibliotekoms knygų ir vadovėlių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    (Kongresas įvyko 1935 m. rugpiūčio 11—17 d. Kaune. Tarp kitko jis
+    nutarė įkurti Pasaulio Lietuvių Sąjungą).
     Stengdamasi pakelti užsienio lietuvių švietimą, DULR rūpinasi
     lietuviškų mokyklų steigimu, parūpina išeivių mokykloms mokytojų,
     siunčia išeivių bibliotekoms knygų ir vadovėlių.

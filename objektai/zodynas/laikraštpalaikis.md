@@ -29,7 +29,8 @@ Vien tik vokiečių štabas spausdino lietuvišką laikraštpalaikį „Dabartį
   santrauka: 'Vokiečių štabas spausdino lietuvišką laikraštpalaikį „Dabartį“.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Vien tik vokiečių štabas spausdino lietuvišką laikrašt-
+    Visi lietuviški laikraščiai buvo
+    uždrausti. Vien tik vokiečių štabas spausdino lietuvišką laikrašt-
     palaikį „Dabartį". Tik 1917 metais buvo gautas leidimas
     griežtoj cenzūroj leisti „Lietuvos Aidą".
   citata_rodoma: ""

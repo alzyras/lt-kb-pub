@@ -6,6 +6,17 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1936'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - karas
@@ -19,45 +30,22 @@ Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Švei
 
 ## Teiginiai
 - t-001
-  teiginys: 'Neutralioje Šveicarijoje susidarė negausus, bet aktyvus lietuvių būrys, šelpęs belaisvius Vokietijoje ir skleidęs žinias apie lietuvių teises.'
+  teiginys: 'Buvo nutarta politinės propagandos centrą padaryti Šveicarijoje ir čia sukurti Rusijos, Lietuvos ir Amerikos lietuvių tarybą; darbo pagrindu buvo paimtas nepriklausomybės reikalavimas.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Šveicarijoje nutarta steigti politinės propagandos centrą ir Rusijos, Lietuvos bei Amerikos lietuvių tarybą, kurios darbo pagrindu tapo nepriklausomybės reikalavimas.'
-  pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: 'Šveicarijos komitetai darbavosi ligi karo pabaigos.'
-  pagrindžia:
-    - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Neutralioje Šveicarijoje susidarė negausus, bet aktyvus lietuvių būrys, šelpęs belaisvius Vokietijoje ir skleidęs žinias apie lietuvių teises.'
+  santrauka: 'Buvo nutarta politinės propagandos centrą padaryti Šveicarijoje ir čia sukurti Rusijos, Lietuvos ir Amerikos lietuvių tarybą; darbo pagrindu buvo paimtas nepriklausomybės reikalavimas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Kitas labai negausus, bet aktyvus lietuvių būrys susidarė
-    neutralinėje Šveicarijoje. Ypačiai Amerikos lietuvių
-    organizacijų teikiamomis lėšomis tas būrys šelpė lietuvius be-
-    laisvius Vokietijoje ir skleidė žinias apie lietuvių tautą ir jos
-    reikalaujamąsias teises savarankiškai tvarkytis.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Šveicarijoje nutarta steigti politinės propagandos centrą ir Rusijos, Lietuvos bei Amerikos lietuvių tarybą, kurios darbo pagrindu tapo nepriklausomybės reikalavimas.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
+    Šita konferencija tegvildeno propagandos organizacijos
+    klausimus ir protestavo prieš vokiečių okupacijos žiaurumus
+    Lietuvoje ir krašto naikinimą.
+    Antroj Lozanos konferencijoj tų pačių metų birželio 30 —
+    liepos 4 d. dalyvavo iš okupuotosios Lietuvos atvykę delegatai.
     Buvo nutarta politinės propagandos centrą padaryti Šveicarijoje
     ir čia sukurti Rusijos, Lietuvos ir Amerikos lietuvių tarybą; dar-
     bo pagrindu buvo paimtas nepriklausomybės reikalavimas.
@@ -67,17 +55,12 @@ Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Švei
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Šveicarijos komitetai darbavosi ligi karo pabaigos.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Šveicarijos ko-
-    mitetai darbavosi ligi karo pabaigos.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003
+    - t-001
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
+### Susiję objektai
+- [[objektai/ivykiai/Antroji Lozanos konferencija (1916 m. birželio 30 d. – liepos 4 d.)]]

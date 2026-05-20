@@ -6,6 +6,22 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1266 m.'
+  - '1267 m.'
+  - '1621 m.'
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIII'
+  - 'XVII'
+  - 'XX'
+  - 'XXI'
+date_start: '1266'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - karas
@@ -20,32 +36,23 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
 
 ## Teiginiai
 - t-001
-  teiginys: 'Treniota su žemaičiais per žygius už Dauguvos pasiekdavo net Estiją.'
+  teiginys: 'Tuo tarpu Treniota su žemaičiais žygiavo tolimus žygius: Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos pasiekdavo net Estiją.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Treniota su žemaičiais per žygius už Dauguvos pasiekdavo net Estiją.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: 'Tas pats atsitiko ir kitam Lietuvos prekybos keliui, ėjusiam Dauguvos upe per Rygą.'
-  pagrindžia:
-    - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Treniota su žemaičiais per žygius už Dauguvos pasiekdavo net Estiją.'
+  santrauka: 'Tuo tarpu Treniota su žemaičiais žygiavo tolimus žygius: Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos pasiekdavo net Estiją.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tuo tarpu Treniota su žemaičiais žygiavo
+    Bet, neatvykus Naugardo ka-
+    riuomenei, jis neįstengė paimti pilies ir, grįžęs namo, daugiau su
+    ordinu nebekariavo. Tuo tarpu Treniota su žemaičiais žygiavo
     tolimus žygius: Prūsuose jie pasiekdavo net Vyslą, siaubdavo
     Kulmo apylinkes, o už Dauguvos pasiekdavo net Estiją.
+    Tai buvo tik siaubiamieji, o ne užkariaujamieji žygiai.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -53,21 +60,14 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-    - t-002
-- c-002
-  santrauka: 'Tas pats atsitiko ir kitam Lietuvos prekybos keliui, ėjusiam Dauguvos upe per Rygą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tas pats atsitiko ir kitam Lietuvos prekybos keliui, ėju-
-    siam Dauguvos upe per Rygą.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/upė]]
+### Laikotarpiai
+- [[laikotarpiai/XIII amžius]]
+- [[laikotarpiai/XVII amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
+### Susiję objektai
+- [[objektai/vietos/Estija]]
+- [[objektai/vietos/Vysla]]

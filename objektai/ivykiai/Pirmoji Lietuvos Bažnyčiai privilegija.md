@@ -42,7 +42,18 @@ Nenurodyta
   santrauka: 'Pirmoji Lietuvos Bažnyčiai privilegija buvo 1387 m. duotas raštas, apibrėžęs Bažnyčios ir dvasininkų teises.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Taip pat buvo duota pir-
+    Todėl tuojau
+    po krikšto Jogaila įkūrė Vil-
+    niaus vyskupystę, pastatė ka-
+    tedrą ir dar 7 pirmąsias para-
+    pijines bažnyčias krašte (Uk-
+    mergėje, Maišiogaloje, Ne-
+    menčine, Medininkuose, Krė-
+    voje, Obalčiuose ir Ainoje).
+    Vyskupui ir dvasininkams
+    pragyventi ir bažnyčioms iš-
+    laikyti jis davė keliolika dva-
+    rų. Taip pat buvo duota pir-
     moji Lietuvos Bažnyčiai pri-
     vilegija, t. y. raštas, arba
     įstatymas, kuriuo nusakomos Bažnyčios ir dvasininkų tei-

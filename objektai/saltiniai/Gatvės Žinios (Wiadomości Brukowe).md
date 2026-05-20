@@ -31,6 +31,10 @@ Savo idėjoms skleisti ji turėjo net laikraštį — „Gatvės Žinias" (Wiado
   santrauka: 'Nenaudėlių draugija savo idėjoms skleisti leido laikraštį „Gatvės Žinios“ (Wiadomości Brukowe).'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Tam tikslui ji rengė visokius
+    pasilinksminimus, vakarėlius ir t.t. Be to, Kėdainių, Kražių ir
+    kt. mokyklose buvo įsikūrusių į vilniškes panašių organizacijų,
+    pasivadinusių Juodaisiais Broliais.
     Pagaliau, be masonų ir jaunimo organizacijų, Vilniuje vei-
     kė dar savotiška, tų pačių tikslų organizacija — Nenaudėlių
     Draugija _(Towarzystwo Szubrawców)._ Savo idėjoms skleisti

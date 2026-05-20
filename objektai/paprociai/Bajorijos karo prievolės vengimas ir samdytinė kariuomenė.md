@@ -53,7 +53,7 @@ Nenurodyta
   santrauka: 'Ankstyvesni karai Lietuvai baigdavosi nelaimingai, nes bajorija nenorėjo kariauti ir mokėti karui reikalingų mokesčių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Ankstyves-
+    **Trečiasis karas su Maskva (1534—1537 m.).** Ankstyves-
     nieji karai pasibaigdavo Lietuvai nelaimingai ypač dėl to, kad
     bajorija nenorėjo kariauti ir nenorėjo mokėti karui reikalingų
     mokesčių. Tad kol būdavo surenkama kariuomenė, Maskva
@@ -69,6 +69,8 @@ Nenurodyta
   santrauka: 'Bajorijai nenorint eiti į karą, jos vietoje buvo įvesta samdytinė kariuomenė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Į ūkį jam teko kreipti daugiau dėmesio,
+    nes ilgų karų metu ypač daug reikėjo pinigų kariuomenei.
     Kadangi bajorija nenorėjo eiti į karą, tai jos vietoje buvo įves-
     ta samdytinė kariuomenė. Tačiau bajorija nenorėjo
     mokėti net tos kariuomenės išlaikymui reikalingų mokesčių.

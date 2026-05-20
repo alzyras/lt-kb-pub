@@ -7,14 +7,17 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1413 m.'
   - '2013 m.'
   - '2026 m.'
 periodas: 'atkurtos nepriklausomybės laikotarpis'
 periodo_grupes:
+  - 'LDK'
   - 'šiuolaikinė Lietuva'
 amziai:
+  - 'XV'
   - 'XXI'
-date_start: '2013'
+date_start: '1413'
 date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
@@ -31,26 +34,33 @@ Tačiau bajorai – dvarininkai sudarė tik ¼ dalį vietos bajorų luomo, daugu
 
 ## Teiginiai
 - t-001
-  teiginys: 'Nuo Jekaterinos II laikų luomų institucijos buvo įtrauktos į vietinį valdymą kaip administracijos prižiūrimos pagalbinės valdžios šakos.'
+  teiginys: 'Vytauto laikais Lietuvos bajorija gavo herbus, įgijo luomo savygarbos ir iš visuomenės sluoksnio virto luomu.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: 'Vytautas sudarė iš produktų cirkuliacijos gyvenusį visuomenės luomą: žydus ir miestelėnus.'
+  pagrindžia:
+    - c-002
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Nuo Jekaterinos II laikų luomų institucijos buvo įtrauktos į vietinį valdymą kaip administracijos prižiūrimos pagalbinės valdžios šakos.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  santrauka: 'Vytauto laikais Lietuvos bajorija gavo herbus, įgijo luomo savygarbos ir iš visuomenės sluoksnio virto luomu.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    L I E T U V O S  I S T O R I J A
-    100
-    Nuo Jekaterinos II laikų į vietinio valdymo grandį inkorporuotos ir
-    savivaldos atskirų luomų lygmens institucijos – bajorų dvarininkų susirin-
-    kimai gubernijose ir apskrityse, atskirų miestų miestiečių luomų, arba su-
-    bluomų, savivalda. Tai nesavarankiškos vietinės valdžios šakos, prižiūrimos
-    vietos administracijos, atlikusios iš esmės pagalbines funkcijas. Apskrities
-    bajorų susirinkimas rinko kai kuriuos už viešąją tvarką atsakingus parei-
-    gūnus, žemutinės teismų grandies teisėjus.
+    Jų vietą
+    užima nauja sociališka jėga, kuriai lemta buvo iškilti jau XV
+    amž. ir ypatingai įsigalėti XVI—XVIII amž.
+    Pagaliau dar pastebėtina, kad Vytauto laikais Lietuvos ba­
+    jorija ne tik išėjo į viešąjį gyvenimą, kaip nauja socialė jėga, ji
+    dar įgijo naujų savybių. Ji gavo europeiško nobiliteto pažymius
+    — herbus ir nuo tų laikų palengva įgijo luomo savygarbos, at­
+    siskyrė nuo kitos visuomenės, iš visuomenės sluogsnio virto
+    luomu.
+    Žinoma mes negalime patikėti Dlugošu, kad iki 1413 met.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -58,7 +68,29 @@ Tačiau bajorai – dvarininkai sudarė tik ¼ dalį vietos bajorų luomo, daugu
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Vytautas sudarė iš produktų cirkuliacijos gyvenusį visuomenės luomą: žydus ir miestelėnus.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Vytautas šioje srity padarė
+    tiek, kad suteikė tautos prekybai ir bendrai ekonomiškam inten­
+    syvesniam gyvenimui potencijos sudarydamas tam tikrą, iš tos
+    visuomenės produktų cirkuliacijos gyvenantį, visuomenės luomą.
+    Tai buvo žydai ir miestelėnų luomas.
+    Žydai tais laikais visoje vakarų Europoje buvo žinomi kaip
+    tinkamiausi žmonės visoms kredito operacijoms vesti.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Laikotarpiai
+- [[laikotarpiai/XV amžius]]
 - [[laikotarpiai/XXI amžius]]
+
+### Susiję objektai
+- [[objektai/grupes/Miestelėnų luomas]]

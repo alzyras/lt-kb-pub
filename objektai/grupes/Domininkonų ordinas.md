@@ -9,6 +9,18 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1936 m.'
+  - '1978 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1936'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - grupe
@@ -20,32 +32,28 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 
 ## Teiginiai
 - t-006
-  teiginys: 'Domininkonai Vokietijoje, Čekijoje, Danijoje, Švedijoje, Norvegijoje ir Gotlande skelbė kryžiaus karą ir telkė naujus piligrimų būrius.'
+  teiginys: 'Bonifacas IX paskyrė domininkoną Gregorijų Vytauto įkurtos Vladimiro vyskupijos Volynijoje vyskupu.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-007
-  teiginys: 'Gegužės 26 d. trys laiškai buvo pasiųsti Saksų provincijos pranciškonams, domininkonams ir Hanzos miestams.'
-  pagrindžia:
-    - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-008
-  teiginys: 'Rygoje veikė domininkonai, o iš ten į Lietuvą buvo siunčiami dvasininkai skelbti evangelijos.'
-  pagrindžia:
-    - c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Domininkonai Vokietijoje, Čekijoje, Danijoje, Švedijoje, Norvegijoje ir Gotlande skelbė kryžiaus karą ir telkė naujus piligrimų būrius.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  santrauka: 'Bonifacas IX paskyrė domininkoną Gregorijų Vytauto įkurtos Vladimiro vyskupijos Volynijoje vyskupu.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Iš naujo skelbdami kryžiaus
-    karą Vokietijoje, Čekijoje, Danijoje, Švedijoje, Norvegijoje, Gotlande,
-    domininkonai turėjo atvesti naujus pilgrimų būrius.
+    Ordino gandus, kad Vytautas su turkais einąs prieš katalikus.
+    Bonifacas IX parėmė Vytauto pastangas plėsti katalikybę ir
+    stačiatikių tarpe, patvirtindamas Vytauto įkurtąją Vladimiro
+    vyskupiją (Volynijoje) ir vyskupu paskirdamas domininkoną
+    Gregorijų; tik dėl to kilo su lenkais nesusipratimų, nes ir jie no­
+    rėjo tame krašte labiau įsigalėti.
+    Iš čia matome, kad Liet. krikštas, kuris plačiai atvėrė Lie­
+    tuvos vartus į Romą ir į Vakarų Europą, kartu tarnavo ir politi­
+    kai, nors daug kur buvo dar kūrenama šventoji lietuvių ugnis
+    ir nesigirdėjo bažnyčios varpų, šaukiančių melstis tikrajam
+    Dievui.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -53,36 +61,13 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
-- c-002
-  santrauka: 'Gegužės 26 d. trys laiškai buvo pasiųsti Saksų provincijos pranciškonams, domininkonams ir Hanzos miestams.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    O trys laiškai
-    (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir dominin­
-    konams ir Hanzos miestams (Liubekui, Rostokui, Stralsundui,
-    Greifswaldni, Stettinui ir Gotlando salai).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-007
-- c-003
-  santrauka: 'Rygoje veikė domininkonai, o iš ten į Lietuvą buvo siunčiami dvasininkai skelbti evangelijos.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Iš Rygos Lietuvon buvo siunti­
-    nėjami dvasininkai skelbti evangelijos^8. Ten veikė pranciškonai
-    ir domininkonai.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-008
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
 ### Susiję objektai
 - [[objektai/grupes/Pranciškonų ordinas]]
+- [[objektai/asmenys/Bonifacas IX]]
+- [[objektai/asmenys/Gregorijus (Vladimiro vyskupas)]]

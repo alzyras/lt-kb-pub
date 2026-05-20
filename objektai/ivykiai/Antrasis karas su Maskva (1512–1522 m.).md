@@ -31,7 +31,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Karas prasidėjo 1512 m. Visos Maskvos jėgos buvo nukreiptos į Smolenską.'
+  teiginys: '1512 m. prasidėjusiame antrajame kare su Maskva visos Maskvos jėgos buvo nukreiptos į Smolenską.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -39,7 +39,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Karas prasidėjo 1512 m. Visos Maskvos jėgos buvo nukreiptos į Smolenską.'
+  santrauka: '1512 m. prasidėjusiame antrajame kare su Maskva visos Maskvos jėgos buvo nukreiptos į Smolenską.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Karas prasidėjo 1512 m. Visos Maskvos jėgos buvo nu-

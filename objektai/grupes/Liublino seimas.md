@@ -38,7 +38,10 @@ Kaip Varšuvos seime (1563—4 m.), taip ir Liubline lenkai reikalavo visiško a
   santrauka: 'Liublino seime lenkai reikalavo visiško abiejų valstybių sujungimo, o lietuviai siekė išlaikyti jų savarankiškumą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Kaip Varšuvos seime
+    Dėl to bajorija ir toliau reikalavo išspręsti unijos klausimą ir
+    sušaukti tam reikalui specialų seimą, kurs pagaliau susirinko
+    1569 m. sausio 10 d.
+    **Liublino seimo eiga ir unijos aktas.** Kaip Varšuvos seime
     (1563—4 m.), taip ir Liubline lenkai reikalavo visiško abiejų vals-
     tybių sujungimo, o lietuviai atsivežė savo projektus, reikalaudami,
     kad abidvi valstybės pasiliktų savarankiškos. Po ilgokų derybų,
@@ -61,6 +64,8 @@ Kaip Varšuvos seime (1563—4 m.), taip ir Liubline lenkai reikalavo visiško a
     žemes, tačiau, karaliui palaikant lenkus, buvo priversti nusileisti.
     Tuo būdu jie sutiko, kad karalius būtų bendrai renkamas, ir
     atsisakė nuo reikalavimo, kad jis dar atskirai būtų Vilniuje pa-
+
+
     keliamas didžiuoju Lietuvos kunigaikščiu: Krokuvoje karūnuo-
     damasis, karalius tuo pačiu turėjo pasidaryti ir didžiuoju Lie-
     tuvos kunigaikščiu. Lietuviai atsisakė ir nuo atskirų savo sei-
@@ -77,3 +82,7 @@ Kaip Varšuvos seime (1563—4 m.), taip ir Liubline lenkai reikalavo visiško a
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Liublinas]]

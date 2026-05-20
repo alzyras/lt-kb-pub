@@ -58,3 +58,8 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Liaudies vyriausybė]]
+- [[objektai/zodynas/sovietizacija sovietizavimas]]

@@ -33,7 +33,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Anglija, Prancūzija, Italija ir Japonija Lietuvą de jure pripažino 1922 m. gruodžio 20 d.'
+  teiginys: '1922 m. gruodžio 20 d. Anglija, Prancūzija, Italija ir Japonija pripažino Lietuvą, iškeldamos sąlygą dėl Nemuno navigacijos režimo.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -41,10 +41,12 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Anglija, Prancūzija, Italija ir Japonija Lietuvą de jure pripažino 1922 m. gruodžio 20 d.'
+  santrauka: '1922 m. gruodžio 20 d. Anglija, Prancūzija, Italija ir Japonija pripažino Lietuvą, iškeldamos sąlygą dėl Nemuno navigacijos režimo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Anglija, Prancūzija, Italija ir Japonija pripažino tiktai
+    Iš didžiųjų
+    santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amerika
+    (VII.28); Anglija, Prancūzija, Italija ir Japonija pripažino tiktai
     1922 metų gruodžio 20 dieną, pateikusios sąlygą, kad Lietuva
     pripažintų Versalio sutarties nuostatus, liečiančius Nemuno
     navigacijos režimą, t. y. jo internacionalizavimą. Nuo tos dienos

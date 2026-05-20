@@ -30,7 +30,12 @@ Pagaliau tarpuvaldį pabaigdavo karūnacinis seimas, kuris visada būdavo šauki
   santrauka: 'Pagaliau tarpuvaldį pabaigdavo karūnacinis seimas, kuris visada būdavo šaukiamas Krokuvoje, nes ten įvykdavo karūnacija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Pagaliau tarpuvaldį pabaigdavo karūnacinis sei-
+    Po konvokacinio seimo,
+    jo nustatytu laiku, taip pat primas šaukdavo e1ekcinį seimą,
+    kuriame būdavo sprendžiami visi karaliaus rinkimo formalumai ir
+    surašomos jam pateikiamos sąlygos. Pačius karaliaus rinkimus
+    atlikdavo visa susirinkusi bajorija; seimas tik atlikdavo visus for-
+    malumus. Pagaliau tarpuvaldį pabaigdavo karūnacinis sei-
     mas, kuris visada būdavo šaukiamas Krokuvoje, nes ten įvyk-
     davo karūnacija.
   citata_rodoma: ""
@@ -40,3 +45,7 @@ Pagaliau tarpuvaldį pabaigdavo karūnacinis seimas, kuris visada būdavo šauki
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/konvokaciniai seimai]]

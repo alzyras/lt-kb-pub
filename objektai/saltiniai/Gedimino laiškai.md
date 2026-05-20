@@ -13,17 +13,24 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 laikotarpis: '1323 m.'
-datos:
-  - '1323 m.'
-periodas: 'viduramziai'
-periodo_grupes: []
-amziai:
-  - 'XIV'
-date_start: '1323'
-date_end: '1323'
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1323 m.'
+  - '1324 m.'
+  - '1936 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+  - 'XX'
+  - 'XXI'
+date_start: '1323'
+date_end: '2026'
 patikimumas: ''
 tags: []
 ---

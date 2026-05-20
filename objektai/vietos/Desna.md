@@ -29,8 +29,12 @@ tags:
   santrauka: 'Dniepro ir Desnos upyne buvo užimtos Briansko, Trubčevsko ir Naugardo Sieversko kunigaikštystės.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Čia jis užėmė visas Dniepro ir Desnos upyno kunigaikštystes — Brianską, Trubčevską, Nau-
-    gardą Sieverską, ir kt.
+    Pats Smolenskas išgyveno nepriklauso-
+    mas dar iki Vytauto. Bet užtat daug geriau Algirdui sekėsi į
+    pietus nuo Smolensko. Čia jis užėmė visas Dniepro ir Desnos
+    upyno kunigaikštystes — Brianską, Trubčevską, Nau-
+    gardą Sieverską, ir kt. Visos tos kunigaikštystės buvo
+    atiduotos valdyti Algirdo sūnums ar brolėnams.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -41,4 +45,4 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Naugardas Sieverskas]]
+- [[objektai/vietos/Dniepras]]

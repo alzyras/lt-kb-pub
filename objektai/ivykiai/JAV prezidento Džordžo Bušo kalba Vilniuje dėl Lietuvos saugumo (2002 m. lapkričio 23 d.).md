@@ -66,9 +66,6 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/tikėjimas]]
-
 ### Laikotarpiai
 - [[laikotarpiai/XXI amžius]]
 

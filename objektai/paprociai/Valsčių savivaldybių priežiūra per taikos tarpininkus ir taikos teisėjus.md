@@ -34,13 +34,13 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: '1861 m. įkurtų valsčių viršaičiai ir raštininkai, kurių daugumą buvo parinkę dvarininkai, buvo atstatyti.'
+  teiginys: '1861 m. įkurtų valsčių viršaičiai ir raštininkai, kurių daugumą buvo paskyrę dvarininkai, buvo atstatyti.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Viso valstiečių savivaldybių veikimo priežiūra buvo pavesta taikos tarpininkams su taikos teisėjais.'
+  teiginys: 'Valstiečių savivaldybių veikimo priežiūra buvo pavesta taikos tarpininkams ir taikos teisėjams.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -48,7 +48,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1861 m. įkurtų valsčių viršaičiai ir raštininkai, kurių daugumą buvo parinkę dvarininkai, buvo atstatyti.'
+  santrauka: '1861 m. įkurtų valsčių viršaičiai ir raštininkai, kurių daugumą buvo paskyrę dvarininkai, buvo atstatyti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     1861 m. įkurtų valsčių viršaičiai (star-
@@ -66,10 +66,13 @@ Nenurodyta
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Viso valstiečių savivaldybių veikimo priežiūra buvo pavesta taikos tarpininkams su taikos teisėjais.'
+  santrauka: 'Valstiečių savivaldybių veikimo priežiūra buvo pavesta taikos tarpininkams ir taikos teisėjams.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Viso valstiečių savivaldybių veikimo priežiūra buvo
+    Centro valdžios skirtiems valdininkams bu-
+    vo įsakyta stropiai žiūrėti, kad dvarininkai ir dvarų administra-
+    cijos tarnautojai nedalyvautų valsčių sueigose ir nesikištų į jų
+    nutarimus. Viso valstiečių savivaldybių veikimo priežiūra buvo
     pavesta taikos tarpininkams su taikos teisėjais. Kai XIX a. gale
     taikos tarpininkai ir taikos teisėjai buvo pakeisti vad. žemiečių
     viršininkais, šie taip pat prižiūrėjo ir valsčių savivaldybes.

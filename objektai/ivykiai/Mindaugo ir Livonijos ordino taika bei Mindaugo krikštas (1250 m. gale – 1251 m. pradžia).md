@@ -9,11 +9,22 @@ variantai:
 aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1250 m.'
+  - '1251 m.'
+  - '1978 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIII'
+  - 'XX'
+  - 'XXI'
+date_start: '1250'
+date_end: '2026'
 patikimumas: 'aukštas'
 laikotarpis: '1250 m. galas – 1251 m. pradžia'
-datos:
-  - '1250 m. galas – 1251 m. pradžia'
-periodas: viduramziai
 tags:
   - ivykis
   - krikštas
@@ -46,6 +57,12 @@ Nenurodyta
 - t-002
   teiginys: 'Mindaugas krikštijosi su sūnumis, žmona Morta ir didele daugybe jam pavaldžių pagonių.'
   pagrindžia:
+    - c-003
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-003
+  teiginys: '1250 m. gale ar 1251 pradžioje Mindaugas priėmė krikštą.'
+  pagrindžia:
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
@@ -72,10 +89,29 @@ Nenurodyta
   pagrindžia:
     - t-001
 - c-002
+  santrauka: '1250 m. gale ar 1251 pradžioje Mindaugas priėmė krikštą.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Įtikinęs Mindaugą, žadėjusį užrašyti žemių, jog
+    būtinai jam reikia krikštytis^87 , magistras su juo padarė taiką.
+    1250 m. gale ar 1251 pradžioje Mindaugas priėmė krikštą. Jis
+    nebuvo pirmasis lietuvių kunigas, kuris jieškojo Livonijos ordino
+    pagalbos ir krikštijosi.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
+- c-003
   santrauka: 'Mindaugas krikštijosi su sūnumis, žmona Morta ir didele daugybe jam pavaldžių pagonių.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Mindaugas krikštijosi
+    Ar Min­
+    daugą krikštui ruošė tas pats Livonijos ordino kunigas Kristijonas,
+    kuris už poros metu tapo paskirtas Lietuvos vyskupu, yra neaišku,
+    nes krikšto laikotarpyje jis buvo Vokietijoje. Mindaugas krikštijosi
     ne tik su sūnumis ir žmona, kuri gavo Mortos vardą, bet ir su būriu
     jam priklausančių žemių gyventojų. Tad Inocentas IV, apie tai iš
     Mindaugo pasiuntinių sužinojęs, galėjo rašyti, jog Lietuvos valdovas
@@ -93,3 +129,5 @@ Nenurodyta
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIII amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

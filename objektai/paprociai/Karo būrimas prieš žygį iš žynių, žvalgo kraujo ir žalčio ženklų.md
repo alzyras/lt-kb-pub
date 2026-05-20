@@ -6,13 +6,16 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean'
-laikotarpis: ''
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
+datos:
+  - '2026 m.'
+periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodo_grupes:
+  - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XXI'
+date_start: '2026'
 date_end: ''
+laikotarpis: ''
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
@@ -42,7 +45,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-003
-  teiginys: 'Prieš pradėdami karą senovės kalnėnai ir žemaičiai pirmiausia klausdavo žynių apie būsimą laimę.'
+  teiginys: 'Prieš pradėdami karą kalnėnai ir žemaičiai per žynius teiraudavosi dievų valios apie būsimo žygio sėkmę.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
@@ -56,16 +59,16 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Prieš pradėdami karą senovės kalnėnai ir žemaičiai pirmiausia klausdavo žynių apie būsimą laimę.'
+  santrauka: 'Prieš pradėdami karą kalnėnai ir žemaičiai per žynius teiraudavosi dievų valios apie būsimo žygio sėkmę.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Kad jau visi buvo susirinkę į vieną vietą ir rangūs prieš neprietelių traukti, tad pirma teiravos ir
-    jautojos per savo žynius, arba kunigus, kokią laimę turėsiantys toje karėj, nesgi garbingą įprotį turėjo
-    nieko didžio neužsiimti, nepasiteiravus pirmiau savo dievų valios apie atenčią laimę, todėl, lig
-    nepradėję kariauti, nutvėrė pirmąjį žvalgytoją, arba špiegą, tad, pririšę jį prie medžio, tiktai ne prie
-    ąžuolo, pervėrė jam vylyčia arba aksčia širdį ir veizėjo: jei kraujas čiurkšliu tekėjo, tad toj karėj vylės
-    laimės, nesgi tas buvo ženklu, jog dievai suteiks jiems pergalę, bet jei kraujas sulojo^1333 , tad reiškė
-    sau atenčioj karėj nelaimę.
+        jautojos per savo žynius, arba kunigus, kokią laimę turėsiantys toje karėj, nesgi garbingą įprotį turėjo
+        nieko didžio neužsiimti, nepasiteiravus pirmiau savo dievų valios apie atenčią laimę, todėl, lig
+        nepradėję kariauti, nutvėrė pirmąjį žvalgytoją, arba špiegą, tad, pririšę jį prie medžio, tiktai ne prie
+        ąžuolo, pervėrė jam vylyčia arba aksčia širdį ir veizėjo: jei kraujas čiurkšliu tekėjo, tad toj karėj vylės
+        laimės, nesgi tas buvo ženklu, jog dievai suteiks jiems pergalę, bet jei kraujas sulojo^1333 , tad reiškė
+        sau atenčioj karėj nelaimę.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -78,7 +81,7 @@ Nenurodyta
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Lygia dalia traukdami į karę kad išvydo žaltį, slenkantį per kelią, taip pat
-    tarės laimėsiantys.
+        tarės laimėsiantys.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -86,3 +89,7 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XXI amžius]]

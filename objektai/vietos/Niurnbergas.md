@@ -19,7 +19,7 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
 
 ## Teiginiai
 - t-001
-  teiginys: 'Abu kunigaikščiai į Niurnbergą pas imperatorių pasiuntė šeimos narį, kuris įtikino, kad Lietuva krikštysis.'
+  teiginys: 'Į Niurnbergą pas imperatorių pasiųstas kunigaikščių šeimos narys įtikino, kad Lietuva tikrai krikštysis.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -27,10 +27,11 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Abu kunigaikščiai į Niurnbergą pas imperatorių pasiuntė šeimos narį, kuris įtikino, kad Lietuva krikštysis.'
+  santrauka: 'Į Niurnbergą pas imperatorių pasiųstas kunigaikščių šeimos narys įtikino, kad Lietuva tikrai krikštysis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Abu kunigaikš-
+    Derybos dėl krikšto 1358 m. Imperatorius parašė Algirdui
+    ir Kęstučiui laiškus, siūlydamas krikštytis. Abu kunigaikš-
     čiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimos
     narį (greičiausiai Kęstučio sūnų Patriką), kuris įtikino impera-
     torių, kad Lietuva tikrai krikštysis.

@@ -19,7 +19,7 @@ Tie generaliniai seimeliai neišnyko nė įvedus bendrą su lietuviais seimą. T
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tie generaliniai seimeliai neišnyko nė įvedus bendrą su lietuviais seimą.'
+  teiginys: 'Generaliniai seimeliai neišnyko nė įvedus bendrą su lietuviais seimą.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -33,7 +33,7 @@ Tie generaliniai seimeliai neišnyko nė įvedus bendrą su lietuviais seimą. T
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tie generaliniai seimeliai neišnyko nė įvedus bendrą su lietuviais seimą.'
+  santrauka: 'Generaliniai seimeliai neišnyko nė įvedus bendrą su lietuviais seimą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tie generaliniai seimeliai neišnyko nė įvedus bend-

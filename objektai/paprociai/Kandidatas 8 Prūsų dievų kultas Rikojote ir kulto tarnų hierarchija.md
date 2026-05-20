@@ -57,7 +57,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/kronika]]
 - [[temos/papuošalas]]
 
 ### Susiję objektai

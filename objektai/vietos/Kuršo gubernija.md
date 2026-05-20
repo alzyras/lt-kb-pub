@@ -6,6 +6,21 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1500 m.'
+  - '1921 m.'
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+  - 'modernioji Lietuva'
+amziai:
+  - 'XV'
+  - 'XX'
+  - 'XXI'
+date_start: '1500'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - vieta
@@ -18,7 +33,7 @@ Susikūrus nepriklausomai Latvijai, iš pradžių jos ir Lietuvos siena buvo lai
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tik Palangos pajūris (nuo Šventosios) ir kai kurios Pakuršės lietuviškos sodybos, buvusios Kuršo gubernijoje, buvo priskirtos prie Lietuvos, o Žiemgalos pasieny prie Latvijos buvo priskirti kai kurie buvusios Kauno gubernijos kaimai.'
+  teiginys: 'Susikūrus nepriklausomai Latvijai, Lietuvos ir Latvijos siena iš pradžių laikyta buvusia Kuršo gubernijos siena.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -26,14 +41,21 @@ Susikūrus nepriklausomai Latvijai, iš pradžių jos ir Lietuvos siena buvo lai
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tik Palangos pajūris (nuo Šventosios) ir kai kurios Pakuršės lietuviškos sodybos, buvusios Kuršo gubernijoje, buvo priskirtos prie Lietuvos, o Žiemgalos pasieny prie Latvijos buvo priskirti kai kurie buvusios Kauno gubernijos kaimai.'
+  santrauka: 'Susikūrus nepriklausomai Latvijai, Lietuvos ir Latvijos siena iš pradžių laikyta buvusia Kuršo gubernijos siena.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tik Palangos pajūris (nuo Šven-
-    tosios) ir kai kurios Pakuršės lietuviškos sodybos, buvusios
-    Kuršo gubernijoje, buvo priskirtos prie Lietuvos, o Žiemgalos
-    pasieny prie Latvijos buvo priskirti kai kurie buvusios Kauno
-    gubernijos kaimai.
+    Lietuvos Latvijos sienos nustatymas**
+
+    Susikūrus nepriklausomai Latvijai, iš pradžių jos ir Lie-
+    tuvos siena buvo laikoma buvusios Kuršo gubernijos siena. Bet
+
+    kadangi ji nesutapo su etnografine lietuvių siena, tai pradžioje
+    čia pasitaikydavo nesusipratimų. Visiems neaiškumams likvi-
+    duoti 1921 m. buvo sudarytos specialios abiejų pusių komisijos
+    (lietuvių komisijai pirmininkavo pirmasis ir dabartinis prezi-
+    dentas A. Smetona), kurios savo konferencijose, tarpininkaujant
+    škotui prof. Simpsonui, išvedė sieną, nedaug tenutoldamos nuo
+    buvusios gubernijos sienos.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -43,6 +65,7 @@ Susikūrus nepriklausomai Latvijai, iš pradžių jos ir Lietuvos siena buvo lai
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Pakuršė]]
-- [[objektai/vietos/Palangos pajūris]]
+### Laikotarpiai
+- [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

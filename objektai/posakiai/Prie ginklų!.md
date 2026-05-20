@@ -8,15 +8,19 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 bukle: juodrastis
 laikotarpis: ''
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodo_grupes:
+  - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XXI'
+date_start: '2013'
+date_end: '2026'
 patikimumas: aukštas
 tags:
   - posakis
@@ -33,7 +37,7 @@ Tai Vilniaus puolimo pradžią ženklinantis ir miestiečius mobilizuojantis ša
 
 ## Teiginiai
 - t-002
-  teiginys: 'Ši frazė yra vilniečių šauksmas puolimo pradžioje.'
+  teiginys: '„Prie ginklų!“ buvo vilniečių šauksmas, pasigirdęs prasidedant puolimui.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -41,7 +45,7 @@ Tai Vilniaus puolimo pradžią ženklinantis ir miestiečius mobilizuojantis ša
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Ši frazė yra vilniečių šauksmas puolimo pradžioje.'
+  santrauka: '„Prie ginklų!“ buvo vilniečių šauksmas, pasigirdęs prasidedant puolimui.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tai buvo
@@ -55,3 +59,7 @@ Tai Vilniaus puolimo pradžią ženklinantis ir miestiečius mobilizuojantis ša
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XXI amžius]]

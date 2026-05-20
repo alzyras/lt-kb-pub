@@ -38,13 +38,13 @@ Mato patarimas yra pėsčio puolimo ir atsitraukimo vilčių atsisakymo formulė
 
 ## Teiginiai
 - t-003
-  teiginys: 'Ši frazė yra Mato pasiūlytas puolimo planas.'
+  teiginys: 'Matas pasiūlė kryžiuočiams palikti žirgus užnugaryje ir pulti priešus pėsčiomis.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-004
-  teiginys: 'Šioje formuluotėje atsisakoma vilties grįžti prie žirgų, kad kariai nevengtų mūšio.'
+  teiginys: '„Palikime savo žirgus toli užpakalyje“ reiškė sumanymą atimti kariams viltį trauktis ir priversti juos nevengti mūšio.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -52,7 +52,7 @@ Mato patarimas yra pėsčio puolimo ir atsitraukimo vilčių atsisakymo formulė
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Ši frazė yra Mato pasiūlytas puolimo planas.'
+  santrauka: 'Matas pasiūlė kryžiuočiams palikti žirgus užnugaryje ir pulti priešus pėsčiomis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Prūsijos maršalas paklau-

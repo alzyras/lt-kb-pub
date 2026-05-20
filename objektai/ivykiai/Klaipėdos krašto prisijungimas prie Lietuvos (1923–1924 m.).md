@@ -44,7 +44,11 @@ Nenurodyta
   santrauka: '1923 m. sausio pradžioje vietos lietuviai, padedami savanorių iš Lietuvos, sukilo prieš Klaipėdos krašto vyresnybę ir užėmė kraštą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Susipratę
+    Paruo-
+    šiamieji darbai Paryžiuje parodė, kad tos komisijos sumany-
+    muose buvo ir „laisvojo krašto" idėja. Pačiame krašte vokiečiai
+    varė kaskart vis didesnę ir griežtesnę propagandą už tą idėją,
+    nepaisydami ekonominių sunkenybių ir nuostolių. Susipratę
     vietos lietuviai, nenorėdami leisti tokiai krypčiai įsivyrauti, pade-
     dami savanorių būrio iš Lietuvos, sukilo su ginklu rankose prieš
     vietinę Klaipėdos krašto vyresnybę ir 1923 metų sausio mėn.

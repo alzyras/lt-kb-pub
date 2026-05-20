@@ -39,7 +39,7 @@ Mengli-Girėjus, gavęs žinią apie totoriams fatališkai pasibaigusį mūšį,
 
 ## Teiginiai
 - t-002
-  teiginys: 'Mengli-Girėjus, gavęs žinią apie totoriams fatališkai pasibaigusį mūšį, tuojau pat išsiuntė savo pasiuntinį į Vilnių, kuris turėjo pranešti, kad chanas labai noriai laikysis gegužės mėnesį suderėtos taikos. Pasiuntinys taip pat gabeno Kazanės chano MahometoAmino laišką, kuriame jis Lietuvai siūlė sąjungą prieš Maskvą.'
+  teiginys: 'Kazanės chanas Mahometas-Aminas laiške siūlė Lietuvai sąjungą prieš Maskvą.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -49,7 +49,7 @@ Mengli-Girėjus, gavęs žinią apie totoriams fatališkai pasibaigusį mūšį,
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Mengli-Girėjus, gavęs žinią apie totoriams fatališkai pasibaigusį mūšį, tuojau pat išsiuntė savo pasiuntinį į Vilnių, kuris turėjo pranešti, kad chanas labai noriai laikysis gegužės mėnesį suderėtos taikos. Pasiuntinys taip pat gabeno Kazanės chano MahometoAmino laišką, kuriame jis Lietuvai siūlė sąjungą prieš Maskvą.'
+  santrauka: 'Kazanės chanas Mahometas-Aminas laiške siūlė Lietuvai sąjungą prieš Maskvą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     mirštantį valdovą Aleksandrą.

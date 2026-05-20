@@ -38,7 +38,7 @@ Aleksandro (1492—1506 m.) išrinkimas didžiuoju Lietu. Aleksandro asmuo ir jo
   santrauka: 'Aleksandras 1492 m. buvo išrinktas Lietuvos didžiuoju kunigaikščiu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Lietuvos ir Lenkijos artėjimo laikai
+    II. Lietuvos ir Lenkijos artėjimo laikai
     1. Aleksandro (1492—1506 m.) išrinkimas didžiuoju Lietu-
         vos kunigaikščiu 191
     2.
@@ -53,6 +53,10 @@ Aleksandro (1492—1506 m.) išrinkimas didžiuoju Lietu. Aleksandro asmuo ir jo
   santrauka: 'Aleksandras mirė 1506 m. ir buvo palaidotas Vilniaus katedroje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Bet jisai nemėgo net
+    tokios tradicinės valdovų pramogos, kaip kad medžioklė; medžioti
+    pagaliau jam trūko ir vikrumo. Buvo labai išlaidus ir išeikvojo ne
+    tik visus savo turtus, bet ir praskolino daugybę valstybinių dvarų.
     Aleksandras mirė 1506 m. ir buvo palaidotas Vilniaus katedroje, nes
     lenkai, nenorėdami didinti laidotuvių išlaidų, jo kūno nevežė į Kro-
     kuvą, į savo karalių kapus (1931 m. pradėjus kasinėti Vilniaus ka-
@@ -64,7 +68,3 @@ Aleksandro (1492—1506 m.) išrinkimas didžiuoju Lietu. Aleksandro asmuo ir jo
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/dokumentas]]

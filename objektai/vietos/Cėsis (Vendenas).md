@@ -30,6 +30,10 @@ Naugardu, 1262 m. nužygiavo į Livonijos ordino žemę net iki Cėsio (Vendeno)
   santrauka: '1262 m. žygis į Livonijos ordino žemę pasiekė Cėsį, dar vadintą Vendenu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Mindaugas tuo metu buvo labai nusivylęs
+    santykiais su ordinu, nes neturėjo iš to jokios naudos. Tiesa,
+    ordinas jo žemių nebepuolė, bet užtat jo akivaizdoje vergė že-
+    maičius. Todėl Mindaugas priėmė pasiūlymą ir, sudaręs są-
     jungą su D. Naugardu, 1262 m. nužygiavo į Livonijos ordino
     žemę net iki Cėsio (Vendeno).
   citata_rodoma: ""

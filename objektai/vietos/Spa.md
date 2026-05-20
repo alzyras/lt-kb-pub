@@ -30,7 +30,9 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
   santrauka: 'Spa miestelyje Belgijoje Lenkija buvo priversta pasirašyti protokolą dėl atsitraukimo už Curzono linijos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tada Aukš-
+    Kai lenkai savo kovose su Rusais nu-
+    ėjo net ligi Kijevo (1920 m. gegužės mėn.), ūmai pasikeitė karo
+    laimė, ir lenkai turėjo labai greitu tempu trauktis. Tada Aukš-
     čiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė So-
     vietų Rusijai paliaubas, o Lenkus privertė pasirašyti Spa mies-
     tely (Belgijoje) protokolą, kuriuo Lenkija apsiėmė atsitraukti už

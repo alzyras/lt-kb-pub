@@ -30,7 +30,9 @@ Tačiau mūsų bajorija daugybe straipsnių ir specialia brošiūra atsakė: „
   santrauka: 'Bajorija į kvietimą prisidėti prie Lietuvos atgaivinimo darbų atsakė straipsniais ir brošiūra su formule „Niekad, niekados“.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tam tikslui buvo išleista net atskira A. Jakšto lenkiškai
+    Lietuviai veikėjai, nepaisydami tokio nepalankaus bajorijos
+    nusistatymo, ne kartą kvietė ją prisidėti prie bendro tautos dar-
+    bo. Tam tikslui buvo išleista net atskira A. Jakšto lenkiškai
     parašyta brošiūra — „Lietuvių Balsas" (1902 m.), kur
     jaunoji bajorų karta buvo kviečiama j bendrą Lietuvos atgaivi-
     nimo darbą. Tačiau mūsų bajorija daugybe straipsnių ir spe-

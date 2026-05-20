@@ -44,7 +44,8 @@ Nenurodyta
   santrauka: 'Jogailos duotoje privilegijoje visos teisės buvo pripažintos tik katalikams, o rytų apeigų krikščionys suvaržyti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Kadangi tuo
+    Ta privi-
+    legija turėjo sustiprinti naujai įvedamą katalikybę. Kadangi tuo
     metu Lietuvoje teko rūpintis, kad katalikybė pirmautų ne tik
     prieš naikinamą pagonybę, bet ir prieš rytų apeigų Bažnyčią, todėl
     Jogailos duotoje privilegijoje visos teisės pripažįstamos tik katali-

@@ -113,3 +113,4 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/paprociai/Kandidatas 63 Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui]]
+- [[objektai/ivykiai/„Aušros“ leidimo pradžia]]

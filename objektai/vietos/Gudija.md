@@ -6,6 +6,19 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1234 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodo_grupes:
+  - 'viduramžiai'
+  - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XIII'
+  - 'XXI'
+date_start: '1234'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - kraštas
@@ -20,20 +33,24 @@ Liepos 17-osios nutarimu iš „buvusių laisvų Lietuvos, Latvijos, Estijos val
 
 ## Teiginiai
 - t-001
-  teiginys: 'Liepos 17-osios nutarimu iš „buvusių laisvų Lietuvos, Latvijos, Estijos valstybių“ ir Gudijos sudarytas Rytų krašto (Ostlando) reicho komisariatas.'
+  teiginys: 'Pagal antrąją Lietuvos metraščio redakciją Mindaugo tėvas 1234 m. kovojo su totoriais prie Mohilnos dabartinėje Gudijoje.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Liepos 17-osios nutarimu iš „buvusių laisvų Lietuvos, Latvijos, Estijos valstybių“ ir Gudijos sudarytas Rytų krašto (Ostlando) reicho komisariatas.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  santrauka: 'Pagal antrąją Lietuvos metraščio redakciją Mindaugo tėvas 1234 m. kovojo su totoriais prie Mohilnos dabartinėje Gudijoje.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Liepos 17-osios nutarimu iš „buvusių laisvų
-    Lietuvos, Latvijos, Estijos valstybių“ ir Gudijos sudarytas Rytų krašto
-    (Ostlando) reicho komisariatas.
+    (^182) II SKYRIUS: VALSTYBĖS IŠKILIMAS
+    krūvos. Antroji to Metraščio redakcija aprašo, kaip Mindaugo tėvas
+    (Bychovco kronikoje jis čia pavadintas Ringaudu) 1234 m. kovojo
+    prieš totorius «nuo saulės patekėjimo iki jos nusileidimo» prie
+    Mohilnos (Nemuno aukštupio dabartinėje Gudijoje). Lietuvos val­
+    dovas, pagal Lietuvos metraštį, totorius ir jų sąjungininkus rusų
+    kunigaikščius galutinai sutriuškinęs (« na golovu poraził »)^142.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -41,3 +58,11 @@ Liepos 17-osios nutarimu iš „buvusių laisvų Lietuvos, Latvijos, Estijos val
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIII amžius]]
+- [[laikotarpiai/XXI amžius]]
+
+### Susiję objektai
+- [[objektai/vietos/Mohilna]]

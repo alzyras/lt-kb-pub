@@ -30,7 +30,10 @@ tags:
   santrauka: 'Argentinoje dar prieš karą veikė smulkios lietuvių savišalpos organizacijos, nes daugiau lietuvių ten atvyko XIX a. pabaigoje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Čia, be to, dar prieškariniais laikais buvo
+    Kultūrinė lietuvių būklė Argentinoje. Argentinoje lietu-
+    viams organizuotis sąlygos buvo ramesnės, nes čia nebuvo emi-
+    gracijos bendrovių, kurios, atvežusios lietuvius, juos ir toliau
+    būtų išnaudojusios. Čia, be to, dar prieškariniais laikais buvo
     smulkių lietuvių savišalpos organizacijų, nes didesnis lietuvių
     skaičius į Argentiną atvyko dar XIX amž. gale.
   citata_rodoma: ""

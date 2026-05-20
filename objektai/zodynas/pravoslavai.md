@@ -31,7 +31,7 @@ tags: []
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-006
-  teiginys: 'Jų nepasitenkinimas prisidėjo prie rytų ir vakarų bažnyčių unijos idėjos.'
+  teiginys: 'Pravoslavų nepasitenkinimas paskatino Vytautą iškelti rytų ir vakarų bažnyčių unijos idėją.'
   pagrindžia:
     - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -56,7 +56,7 @@ tags: []
     - t-004
     - t-005
 - c-002
-  santrauka: 'Jų nepasitenkinimas prisidėjo prie rytų ir vakarų bažnyčių unijos idėjos.'
+  santrauka: 'Pravoslavų nepasitenkinimas paskatino Vytautą iškelti rytų ir vakarų bažnyčių unijos idėją.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Visa tai sukėlė tarp pravoslavų nepasitenkinimą bei anta­

@@ -22,14 +22,7 @@ Vartojamos formos: `batvinių`, `batvinėliai`.
 
 ## Teiginiai
 - t-003
-  teiginys: '`Batviniai` šiame tekste yra mėgstamas senovės lietuvių valgis.'
-  pagrindžia:
-    - c-001
-    - c-002
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
-- t-004
-  teiginys: 'Terminas vartojamas ir kaip lenkų pašaipus pavadinimas lietuviams.'
+  teiginys: 'Batviniai aprašomi kaip rūgštus sriubalas, virtas su džiovinta jautiena, briediena ar kiauliena.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
@@ -37,28 +30,10 @@ Vartojamos formos: `batvinių`, `batvinėliai`.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '`Batviniai` šiame tekste yra mėgstamas senovės lietuvių valgis.'
+  santrauka: 'Batviniai aprašomi kaip rūgštus sriubalas, virtas su džiovinta jautiena, briediena ar kiauliena.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
-    Antras jų didžiai čėdijamas^357
-    sriuobalas buvo batviniai, kuriuos rūgusius, smulkiai kaponėj sukapoję, virė su džiovinta
-    jautienos, briedienos ar kiaulienos mėsa; batvinių stokodami, virė rūgštą lapynę. Vienok daugiau
-    čėdijo sausus valgius, beje, džiūvusius ir keptus
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003
-    - t-004
-- c-002
-  santrauka: '`Batviniai` šiame tekste yra mėgstamas senovės lietuvių valgis.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    šiandien dar lenkai tyčiodamies sako: „Licwiaki bocwiaki“ – lietuvėliai batvinėliai – iš apmaudo,
-    jog niekados negalėjo jų nuveikti; kartais, ir užmušę lietuvį, nieko pas jį nerado, kaip batvinių
-    maišelį, bet, ir tą patį lig jam atimant, reikėjo pirma dvi tris žmogaus galvas padėti.
+    šiandien dar lenkai tyčiodamies sako: „Licwiaki bocwiaki“ – lietuvėliai batvinėliai – iš apmaudo, jog niekados negalėjo jų nuveikti; kartais, ir užmušę lietuvį, nieko pas jį nerado, kaip batvinių maišelį, bet, ir tą patį lig jam atimant, reikėjo pirma dvi tris žmogaus galvas padėti.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

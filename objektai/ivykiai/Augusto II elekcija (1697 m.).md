@@ -32,7 +32,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Elekcija po Jono Sobieskio buvo viena iš nešvariausių visoje Respublikos istorijoje: joje viską lėmė papirkimai.'
+  teiginys: '1697 m. Augusto II elekcijoje po Jono Sobieskio mirties lemiamą vaidmenį turėjo papirkimai.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -40,7 +40,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Elekcija po Jono Sobieskio buvo viena iš nešvariausių visoje Respublikos istorijoje: joje viską lėmė papirkimai.'
+  santrauka: '1697 m. Augusto II elekcijoje po Jono Sobieskio mirties lemiamą vaidmenį turėjo papirkimai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Elekcija po Jono Sobieskio buvo viena iš nešvariausių vi-
@@ -51,6 +51,8 @@ Nenurodyta
     Kontys _(de Conti)_ ir Au-
     strų remiamas velionies
     karaliaus sūnus Jokūbas.
+    Bet Jokūbas buvo nepo-
+    puliarus.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

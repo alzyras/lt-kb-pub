@@ -29,7 +29,10 @@ Kadangi jis tuomet buvo dar mažas, tai buvo sudaryta regencija.
   santrauka: '1533 m. mirus Vosyliui III, Maskvos kunigaikščiu tapo dar mažas Jonas IV Žiaurusis, todėl buvo sudaryta regencija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis. Kadangi jis tuomet buvo
+    (Senas nežinomojo autoriaus paveikslas).
+    muosius du karus Zigmanto laikais pradėjo Maskva, bet šį
+    trečiąjį — Lietuva. Kai 1533 m. mirė Vosylius III, Maskvos
+    kunigaikščiu tapo Jonas IV Žiaurusis. Kadangi jis tuomet buvo
     dar mažas, tai buvo sudaryta regencija.
   citata_rodoma: ""
   teiginio_tipas: faktas

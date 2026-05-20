@@ -41,7 +41,7 @@ Nenurodyta
   santrauka: '1683 m. Sobieskis atskubėjo į pagalbą imperatoriui, išgelbėjo Vieną, o turkai buvo išvaryti net iš dalies Vengrijos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Padarius sąjungą su
+    Bet nepasisekė nė čia. Padarius sąjungą su
     Austrija, turkai užpuolė šią ir pasiekė net Vieną. Kritiškuoju
     momentu Sobieskis atskubėjo imperatoriui į pagalbą; Viena
     buvo išgelbėta (1683 m.), ir turkai buvo išvaryti net iš dalies

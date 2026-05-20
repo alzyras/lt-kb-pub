@@ -83,6 +83,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/dokumentas]]
 - [[temos/laiškas]]
-- [[temos/dokumentas - laiškas]]

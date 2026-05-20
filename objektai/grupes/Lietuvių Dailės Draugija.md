@@ -31,7 +31,8 @@ Vilniuje 1907 m. buvo įkurta Lietuvių Mokslo Draugija, kuri pasiryžo tirti li
   santrauka: 'Lietuvių Dailės Draugija įsikūrė Vilniuje 1907 m.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Vilniuje 1907 m. buvo
+    Skaitymą", iš kurio vėliau atsirado
+    „Vienybė" ir „Draugija"). Vilniuje 1907 m. buvo
     įkurta Lietuvių Mokslo Draugija, kuri pasiryžo tirti
     lietuvių tautą, jos kultūrą ir kelti lietuviškąjį mokslą (ji ir dabar
     tebėra gyva ir tebeleidžia savo žurnalą Lietuvių Tautą).

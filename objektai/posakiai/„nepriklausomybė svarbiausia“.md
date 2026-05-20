@@ -54,9 +54,6 @@ tags:
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/schema]]
-
 ### Laikotarpiai
 - [[laikotarpiai/XXI amžius]]
 

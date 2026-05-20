@@ -137,4 +137,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Vyriausiasis Lietuvos tribunolas]]
+- [[objektai/zodynas/tribunolas]]

@@ -52,7 +52,10 @@ Valsčių savivaldybės buvo įkurtos jau 1861 m. baudžiavos panaikinimo įstat
   santrauka: 'Nauji viršaičių rinkimai buvo apsaugoti nuo dvarininkų įtakos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Nauji viršaičių rinkimai buvo apsaugoti nuo
+    Muravjovas jas pa-
+    keitė ir naujai pertvarkė. 1861 m. įkurtų valsčių viršaičiai (star-
+    šinos) ir raštininkai, kurių daugumas buvo dvarininkų pastatyti,
+    buvo atstatyti. Nauji viršaičių rinkimai buvo apsaugoti nuo
     dvarininkų įtakos.
   citata_rodoma: ""
   teiginio_tipas: faktas

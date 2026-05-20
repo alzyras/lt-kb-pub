@@ -50,7 +50,12 @@ Nenurodyta
     dar pagonių šalis ir tebebuvo garbinami jos šventi miškai ir
     tebekūrenama amžinoji ugnis, tai jau jo laikams baigiantis Lie­
     tuva buvo gerokai sukatalikinta ir daugelyje jos vietų skambėjo
-    bažnyčių varpai.
+    bažnyčių varpai. Vytautas tai pasiekė ne iš karto, bet po visos
+    eilės tų didžių ir nelengvų katalikybės skleidimo žygių, apie ku­
+    riuos iki šiol kalbėjom. Jais Vytautas seną religinę Lietuvos
+    būklę bent oficialiai pakeitė nauja, kurioje viso religinio gyveni­
+    mo centras buvo jau ne senojo lietuvių tikėjimo garbinama gam­
+    ta, bet pats jos Kūrėjas.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

@@ -37,7 +37,10 @@ Ypač dažnai būdavo šaukiami atskiri Lietuvos seimai, einant karui su Maskva 
   santrauka: 'Atskiri Lietuvos seimai ypač dažnai būdavo šaukiami per karą su Maskva ir tarpuvaldžiais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Ypač dažnai būdavo šaukiami atskiri Lietuvos seimai, einant karui su Maskva (mat, jis nelietė Lenkijos). Bet dar dažniau
+    Todėl buvo nemaža atsitikimų, kad, neatsižvelgdamas į unijos
+    akto nuostatus, net pats karalius sušaukdavo atskirus seimus.
+    Ypač dažnai būdavo šaukiami atskiri Lietuvos seimai, einant
+    karui su Maskva (mat, jis nelietė Lenkijos). Bet dar dažniau
     atskirus Lietuvos seimus šaukdavo patys Lietuvos ponai tarpu-
     valdžiuose (karalių nebuvimo metu).
   citata_rodoma: ""
@@ -51,7 +54,8 @@ Ypač dažnai būdavo šaukiami atskiri Lietuvos seimai, einant karui su Maskva 
   santrauka: 'Po Zigmanto Augusto ir vėlesnių karalių mirties atskiri Lietuvos seimai savarankiškai spręsdavo, ką rinkti valdovu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Taip antai, po Zigmanto Augusto ir po vėlesniųjų karalių mirties visada susirinkdavo
+    Taip antai, po Zigmanto
+    Augusto ir po vėlesniųjų karalių mirties visada susirinkdavo
     atskiri Lietuvos seimai ir atskirai spręsdavo, ką rinkti. Į tuo pat
     metu lenkų šaukiamus seimus jie nevažiuodavo, derėdamiesi su
     jais tik per delegatus. Bet XVII amžiuje, kai, pradedant Vladis-

@@ -30,7 +30,15 @@ Norbutas parašė pirmąją didžiulę (9 tomų) Lietuvos istoriją.
   santrauka: 'Norbutas parašė pirmąją didžiulę (9 tomų) Lietuvos istoriją.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Taip pat universiteto įtakoje kiek vėliau Lydos bajoras
+    Lietuvos kilimo jo profesoriai ir stu-
+    dentai iš tradicijos ir iš savo krašto meilės daug dėmesio kreipė
+    į Lietuvos praeitį. Todėl kaip tik šituo metu prasidėjo moks-
+    liškas Lietuvos istorijos tyrinėjimas ir bu-
+    vo išspausdinta nemaža istorinių veikalų. Ir vėliau, kai univer-
+    sitetas jau buvo uždarytas, apie jį susibūrusi krašto ir jo seno-
+    vės mylėtojų grupė liko Vilniuje ir iki pat Muravjovo laikų
+    varė Lietuvos tyrinėjimo darbą, rinko senienas, kūrė muziejus
+    ir t. t. Taip pat universiteto įtakoje kiek vėliau Lydos bajoras
     T. Norbutas parašė pirmąją didžiulę (9 tomų) Lietuvos isto-
     riją.
   citata_rodoma: ""

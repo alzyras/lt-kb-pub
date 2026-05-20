@@ -6,13 +6,16 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean'
-laikotarpis: ''
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
+datos:
+  - '2026 m.'
+periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodo_grupes:
+  - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XXI'
+date_start: '2026'
 date_end: ''
+laikotarpis: ''
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
@@ -42,7 +45,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-002
-  teiginys: 'Tokias vietas žmonės paprastai vadino milžinų kapais ir net vyresnybės nurodymu jas ardydami nerasdavo nieko, kas patvirtintų liaudies pasakas.'
+  teiginys: 'Kovų vietos laikytos šventomis ir neliečiamomis, todėl jas arti, kasti ar kitaip ardyti buvo laikoma didele nuodėme.'
   pagrindžia:
     - c-001
     - c-002
@@ -51,19 +54,19 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tokias vietas žmonės paprastai vadino milžinų kapais ir net vyresnybės nurodymu jas ardydami nerasdavo nieko, kas patvirtintų liaudies pasakas.'
+  santrauka: 'Kovų vietos laikytos šventomis ir neliečiamomis, todėl jas arti, kasti ar kitaip ardyti buvo laikoma didele nuodėme.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Buvo dar šventomis vadinamos karmūšų^842 , arba kovų, vietos, tai yra laukai, kuriuose su
-    neprieteliais buvo grūmęsi ir tenai svietas buvo kritęs kariaudamas: kaipogi senovėj didžiai
-    godojo tuos, kurie, kariaudami ir gyniodami nuo neprietelių savo liuosybę ir savo namus, buvo
-    galvą padėję. Ne vien jų narsybę ir kantrybę gėrynėse^843 ir sueimuose^844 garbino, bet dar norėjo
-    pačias vietas, ant kurių taip garbingi ir narsūs vyrai buvo mirę, idant nė nuo ko nebūt palytimos
-    ir pakušinamos^845 , todėl žambį smeginti^846 , arti, kasti tokias vietas arba laukus turėjo sau už visų
-    didžiausią nuodėmę ir tuos, kurie būt drįsę juos ardyti, kuo smarkiausiai karojo, ką nuo to gal
-    manyti, jog šiandien dar savo pramone^847 niekšai nedrįsta jų kušinti, negut vyresnybei liepiant;
-    kokias vietas paprastai milžinų kapais vadina, apie kuriuos pasakos šiandien dar visiems yra
-    žinomos
+        neprieteliais buvo grūmęsi ir tenai svietas buvo kritęs kariaudamas: kaipogi senovėj didžiai
+        godojo tuos, kurie, kariaudami ir gyniodami nuo neprietelių savo liuosybę ir savo namus, buvo
+        galvą padėję. Ne vien jų narsybę ir kantrybę gėrynėse^843 ir sueimuose^844 garbino, bet dar norėjo
+        pačias vietas, ant kurių taip garbingi ir narsūs vyrai buvo mirę, idant nė nuo ko nebūt palytimos
+        ir pakušinamos^845 , todėl žambį smeginti^846 , arti, kasti tokias vietas arba laukus turėjo sau už visų
+        didžiausią nuodėmę ir tuos, kurie būt drįsę juos ardyti, kuo smarkiausiai karojo, ką nuo to gal
+        manyti, jog šiandien dar savo pramone^847 niekšai nedrįsta jų kušinti, negut vyresnybei liepiant;
+        kokias vietas paprastai milžinų kapais vadina, apie kuriuos pasakos šiandien dar visiems yra
+        žinomos.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -72,14 +75,13 @@ Nenurodyta
   pagrindžia:
     - t-002
 - c-002
-  santrauka: 'Tokias vietas žmonės paprastai vadino milžinų kapais ir net vyresnybės nurodymu jas ardydami nerasdavo nieko, kas patvirtintų liaudies pasakas.'
+  santrauka: 'Kovų vietos laikytos šventomis ir neliečiamomis, todėl jas arti, kasti ar kitaip ardyti buvo laikoma didele nuodėme.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
-    Vienok šiandien, atsitikus
-    parėdymu vyresnybės per tokias vietas arba kapus naują vieškelį vesti ar žvizdrą iš tokių kapų į
-    kelią pilti, nieko tokio nėra randama, kas tą didelybę praėjusiojo svieto rodytų, nes tiktai
-    sutrynėję ginklai praėjusiųjų gadynių ir kaulai žmonių tokių, kokius šiandien regim dar
-    gyvojančius.
+    Vienok šiandien, atsitikus parėdymu vyresnybės per tokias vietas arba kapus naują vieškelį vesti ar žvizdrą iš tokių kapų į
+        kelią pilti, nieko tokio nėra randama, kas tą didelybę praėjusiojo svieto rodytų, nes tiktai
+        sutrynėję ginklai praėjusiųjų gadynių ir kaulai žmonių tokių, kokius šiandien regim dar
+        gyvojančius.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -87,3 +89,10 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XXI amžius]]
+
+### Susiję objektai
+- [[objektai/zodynas/Karmūšų]]

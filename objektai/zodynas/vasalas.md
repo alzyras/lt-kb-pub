@@ -8,6 +8,22 @@ aliases: []
 saltiniai:
 - A. Šapoka (red.), Lietuvos istorija (1936 m.)
 - Vytautas Didysis 1350-1430 (1930 m.)
+datos:
+  - '1350 m.'
+  - '1430 m.'
+  - '1930 m.'
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+  - 'XV'
+  - 'XX'
+  - 'XXI'
+date_start: '1350'
+date_end: '2026'
 patikimumas: vidutinis
 tags: []
 ---
@@ -19,23 +35,23 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
 
 ## Teiginiai
 - t-004
-  teiginys: 'Vytautas raštu pasižada būti Ordino vasalu.'
+  teiginys: 'Vokiečių Prūsija tapo Lenkijos karūnos vasale.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vytautas raštu pasižada būti Ordino vasalu.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: 'Vokiečių Prūsija tapo Lenkijos karūnos vasale.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Todėl 1384
-    metų sausio mėn. pabaigoje mes matome jį Karaliaučiuje, kur
-    atvykęs su savo giminaičiais sausio mėn. 30 d., kaip „Herczog
-    von Traken von Gottes Gnaden” išdavė magistrui raštą, pasi­
-    žadėdamas būti jo vasalu. Tame pačiame dokumente Vytautas
-    pasivadino Vigandu, vietoje pirmiau rašomo Vytauto vardo.
+    Vokiečių Prūsija tapo Lenkijos
+    karūnos vasale. Taip baigėsi vienas di-
+    džiausių viduramžių Europos mūšių, am-
+    žininkų vadintas „didžiuoju“, pakeitęs jėgų
+    balansą visame regione. Lietuvoje prasi-
+    dėjo taikus periodas.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -47,6 +63,12 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/teisinis-terminas]]
+
+### Laikotarpiai
+- [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/paprociai/Ištikimybės priesaikos Jogailai]]

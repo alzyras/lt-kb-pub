@@ -19,7 +19,7 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Dalomoji Komisija buvo sudaryta Lietuvoje ir Lenkijoje atlikti turto dalybų darbą.'
+  teiginys: 'Lietuvoje ir Lenkijoje buvo sudarytos atskiros Dalomosios Komisijos turto dalybų darbui atlikti.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -39,10 +39,15 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Dalomoji Komisija buvo sudaryta Lietuvoje ir Lenkijoje atlikti turto dalybų darbą.'
+  santrauka: 'Lietuvoje ir Lenkijoje buvo sudarytos atskiros Dalomosios Komisijos turto dalybų darbui atlikti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Šitam darbui
+    Komisija turėjo rūpintis tik pačiu mokymu, vadovėliais ir
+    pinigų sunaudojimu. Visi buvusieji jėzuitų dvarai, seimo nu-
+    tarimu, buvo išnuomoti
+    neribotam laikui bajorams
+    iš 4^1 /2% nuo įkainotos
+    dvaro vertės. Šitam darbui
     atlikti Lietuvoje ir Len-
     kijoje buvo sudaryta po
     atskirą Dalomąją
@@ -58,6 +63,10 @@ tags:
   santrauka: 'Greit pasirodė, kad Dalomosios Komisijos su tais turtais daro biznį — dvarus labai pigiai dalina savo artimiesiems, o pinigus tiesiog vagia.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Be to, jėzuitai turėjo
+    daug išskolintų kapitalų; Lietuvoje jų buvo išskolinta 2.438.339,
+    o Lenkijoje net 4.753.877 auks. Tiek už išnuomotus dvarus, tiek
+    už kapitalus Edukacinei Komisijai buvo mokama 41 /2%.
     Greit pasirodė, kad Dalomosios Komisijos su tais turtais daro
     biznį — dvarus labai pigiai dalina savo artimiesiems, o pinigus tie-
     siog vagia.
@@ -72,7 +81,11 @@ tags:
   santrauka: '1776 m. Dalomosios Komisijos buvo panaikintos, o visi turtai pavesti Edukacinei Komisijai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Todėl 1776 m. tos komisijos buvo panaikintos, ir visi
+    Tiek už išnuomotus dvarus, tiek
+    už kapitalus Edukacinei Komisijai buvo mokama 41 /2%.
+    Greit pasirodė, kad Dalomosios Komisijos su tais turtais daro
+    biznį — dvarus labai pigiai dalina savo artimiesiems, o pinigus tie-
+    siog vagia. Todėl 1776 m. tos komisijos buvo panaikintos, ir visi
     turtai pavesti Edukacinei Komisijai.
   citata_rodoma: ""
   teiginio_tipas: faktas

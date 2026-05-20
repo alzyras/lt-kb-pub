@@ -83,5 +83,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila]]
+- [[objektai/daiktai/Vytauto ir Julijonos karūnos]]
 - [[objektai/asmenys/Zigmantas I]]

@@ -44,8 +44,8 @@ Nenurodyta
 - t-002
   teiginys: 'Senieji lietuviai paprastai gėrė vandenį, midų, alų, sulą ir girą.'
   pagrindžia:
-    - c-002
     - c-001
+    - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 
@@ -54,9 +54,9 @@ Nenurodyta
   santrauka: 'Senieji lietuviai paprastai gėrė vandenį, midų, alų, sulą ir girą.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
-    Gėrime taip pat buvo vidutiniais, gėrė paprastai vandenį, midų, alų, beržinę ar klevinę sulą ir
-    girą iš kaušų ir ragų paauksytų, vadinamų taurėmis ir tauragėmis. Nuo ko, kaip sakiau, iki šiai
-    dienai kiekvieną geriamą stotkelį, medžio, molio ar skardos, senu įpročiu taurele tebvadina.
+    Alų ir midų iš liepinio medaus darė savotiškai^367 , kasė į žemę bosus ir tenai laikė kelias dešimtis metų,
+        kurio ir stiprumas nuo jo žemėj būsenos buvo lykuojamas; alų dar šiandien tūlose vietose senu
+        įpročiu tebdairo, o sulą iš beržų ir klevų tebleidžia.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -68,10 +68,9 @@ Nenurodyta
   santrauka: 'Senieji lietuviai paprastai gėrė vandenį, midų, alų, sulą ir girą.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
-    Alų
-    ir midų iš liepinio medaus darė savotiškai^367 , kasė į žemę bosus ir tenai laikė kelias dešimtis metų,
-    kurio ir stiprumas nuo jo žemėj būsenos buvo lykuojamas; alų dar šiandien tūlose vietose senu
-    įpročiu tebdairo, o sulą iš beržų ir klevų tebleidžia.
+    Gėrime taip pat buvo vidutiniais, gėrė paprastai vandenį, midų, alų, beržinę ar klevinę sulą ir
+        girą iš kaušų ir ragų paauksytų, vadinamų taurėmis ir tauragėmis. Nuo ko, kaip sakiau, iki šiai
+        dienai kiekvieną geriamą stotkelį, medžio, molio ar skardos, senu įpročiu taurele tebvadina.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

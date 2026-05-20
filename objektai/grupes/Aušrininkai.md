@@ -17,7 +17,7 @@ Aušrininkai šiame šaltinyje apibūdinami kaip romantiškai nusiteikusi lietuv
 
 ## Teiginiai
 - t-003
-  teiginys: 'Aušrininkai Lietuvoje perėmė Simono Daukanto romantišką tautinį nusistatymą ir tęsė jo palikimą iki nepriklausomybės metų.'
+  teiginys: 'Aušrininkai Lietuvoje sekė Simono Daukanto romantiniu tautiniu nusistatymu ir jo palikimu.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -31,9 +31,14 @@ Aušrininkai šiame šaltinyje apibūdinami kaip romantiškai nusiteikusi lietuv
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Aušrininkai Lietuvoje perėmė Simono Daukanto romantišką tautinį nusistatymą ir tęsė jo palikimą iki nepriklausomybės metų.'
+  santrauka: 'Aušrininkai Lietuvoje sekė Simono Daukanto romantiniu tautiniu nusistatymu ir jo palikimu.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
+    »
+    Šitaip išvertęs žinomą lotynišką humanistų posakį (Homines histo-
+    riarum ignari semper sunt pueri) pradėjo mūsų žymusis tautinio
+    atgimimo vyras J. Basanavičius 1883 metais savo žinomą istorinę
+    prakalbą pirmajame « Aušros » numeryje.
     Tokį nusistatymą jau su kaupu buvo vykdęs mūsų pirmasis
     ir po savo mirties išpopuliarėjęs Lietuvos istorikas Simonas Dau­
     kantas. Per eilę dešimtmečių iki pat nepriklausomybės metų tuo

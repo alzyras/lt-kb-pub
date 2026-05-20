@@ -51,9 +51,13 @@ tags:
   santrauka: 'Posakis „Be manęs nieko negali būti sprendžiama apie mane“ buvo laikomas bajorų laisvės dėsniu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    visi savo laisvės pagrindu laikė
+    Dažnai vienas ar
+    keli papirkti atstovai pareikšdavo protestą prieš viso seimo nu-
+    tarimą, ir visas seimas turėdavo nusileisti. Pasipriešinimo teisė
+    visų buvo labai branginama, nes visi savo laisvės pagrindu laikė
     šį dėsnį: „Be manęs nieko negali būti sprendžiama apie mane"
-    _(nihil de те, sine те)._
+    _(nihil de те, sine те)._ Tatai vadinosi _liberum veto,_ t. y. laisvojo
+    pasipriešinimo teisė.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -65,7 +69,12 @@ tags:
   santrauka: 'Posakis „Be manęs nieko negali būti sprendžiama apie mane“ buvo laikomas bajorų laisvės dėsniu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Visada atsirasdavo, kas pasakydavo _„veto",_ ir seimas
+    Tuo būdu į seimą būdavo išrenkami
+    tokie atstovai, kokių norėdavo didikai; jiems ir instrukcijos būdavo
+    duodamos tokios, kokių norėdavo tie patys didikai. Vienuose pavie-
+    tuose būdavo įtakingesnis vienas didikas, kituose kitas; todėl kai jų
+    atstovai suvažiuodavo į seimą, žinoma, negalėdavo tarp savęs
+    susikalbėti. Visada atsirasdavo, kas pasakydavo _„veto",_ ir seimas
     turėdavo iširti.
   citata_rodoma: ""
   teiginio_tipas: faktas

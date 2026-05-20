@@ -13,7 +13,20 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
-  - '1410 m. liepos 15 d.'
+  - '1410 m.'
+  - '1936 m.'
+  - '1978 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XV'
+  - 'XX'
+  - 'XXI'
+date_start: '1410'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -28,25 +41,27 @@ Ulrichas von Jungingenas šiame šaltinyje rodomas kaip ordino didysis magistras
 
 ## Teiginiai
 - t-006
-  teiginys: 'Žalgirio mūšyje žuvo didysis magistras Ulrichas fon Jungingenas, beveik visa likusi Ordino vadovybė, apie 200 Ordino riterių ir tūkstančiai kryžeivių bei samdinių.'
+  teiginys: 'Tų vėliavų priešaky jojo pats didysis magistras Ulrichas von Jungingenas.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-007
+  teiginys: 'Ulrichas von Jungingenas buvo sužeistas, bet kovojo toliau, kol ietis pervėrė jam kaklą ir jis mirė.'
+  pagrindžia:
+    - c-002
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Žalgirio mūšyje žuvo didysis magistras Ulrichas fon Jungingenas, beveik visa likusi Ordino vadovybė, apie 200 Ordino riterių ir tūkstančiai kryžeivių bei samdinių.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  santrauka: 'Tų vėliavų priešaky jojo pats didysis magistras Ulrichas von Jungingenas.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    čių karinė mašina buvo sutriuškinta.
-    Žuvo pats didysis magistras Ulrichas fon
-    Jungingenas, beveik visa likusi Ordino va-
-    dovybė, apie 200 Ordino riterių (trečioji
-    dalis prūsiškųjų kryžiuočių) ir tūkstan-
-    čiai eilinių kryžeivių bei samdinių. Nors
-    Kryžiuočių ordinas nenustojo gyvuoti,
-    bet jam buvo suduotas stiprus smūgis.
+    Tų vėliavų priešaky jojo pats didysis magistras Ulrichas
+    von Jungingenas. Tos vėliavos žygiavo ta pačia kryptimi, kur
+    buvo dešinysis sąjungininkų sparnas. Jogaila pastebėjęs greitai
+    besiartinintį priešą, labai nusigando.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -54,12 +69,28 @@ Ulrichas von Jungingenas šiame šaltinyje rodomas kaip ordino didysis magistras
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
+- c-002
+  santrauka: 'Ulrichas von Jungingenas buvo sužeistas, bet kovojo toliau, kol ietis pervėrė jam kaklą ir jis mirė.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Kryžiuočių didysis magistras jau buvo sužeistas, bet
+    dar atkakliai kovojo — ryžosi gyvas nepasiduoti. Pagaliau,
+    lietuvio pėstininko ietis pervėrė jam kaklą — jis nukrito nuo
+    arklio ir mirė. Magistrui žuvus sąjungininkai visiškai mūšį lai­
+    mėjo.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
-- [[objektai/daiktai/Du pliki kardai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/didysis magistras]]

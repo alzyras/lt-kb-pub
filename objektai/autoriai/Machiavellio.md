@@ -30,7 +30,10 @@ Bona atsinešė iš Italijos įsitikinimus, kad valdovas turįs siekti valdžios
   santrauka: 'Machiavellio mokslu vadintas įsitikinimas, kad valdovas turi siekti valdžios nesiskaitydamas su priemonėmis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Bona atsinešė iš Italijos įsitikinimus, kad val-
+    **Karalienė Bona.** Kai Zigmantas jau buvo palaužtas sunkios
+    valdymo naštos, valstybėje didžiausią įtaką įgijo gobši intri-
+    gantė jo antroji žmona, Milano ir Bario kunigaikštytė Bo-
+    na Sforza. Bona atsinešė iš Italijos įsitikinimus, kad val-
     dovas turįs siekti valdžios, nesiskaitydamas su jokiomis prie-
     monėmis _(Machiavellio_ mokslas).
   citata_rodoma: ""

@@ -30,7 +30,9 @@ Visą reformą pagal manifestą ir papildomuosius įsakymus (ukazus) reikėjo at
   santrauka: 'Visą reformą pagal manifestą ir papildomuosius įsakymus (ukazus) reikėjo atlikti per 2 metus (tuo laiku valstiečiai dar turėjo eiti baudžiavą).'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Visą reformą pagal
+    Baudžiavos panaikinimo vykdymas buvo pačių dvarininkų
+    rankose, nes visi taikos tarpininkai buvo renkami iš jų tarpo.
+    Dvarininkai, žinoma, tik savimi tesirūpino. Visą reformą pagal
     manifestą ir papildomuosius įsakymus (ukazus) reikėjo atlikti
     per 2 metus (tuo laiku valstiečiai dar turėjo eiti baudžiavą).
   citata_rodoma: ""
@@ -40,3 +42,7 @@ Visą reformą pagal manifestą ir papildomuosius įsakymus (ukazus) reikėjo at
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/ivykiai/Baudžiavos panaikinimas Rusijos imperijoje (1861 m.)]]

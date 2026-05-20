@@ -29,7 +29,13 @@ tags:
   santrauka: 'J. Žilinskas 1893 m. perėmė Susivienijimo vadovybę ir 1896–1902 m. redagavo jo organą „Tėvynę“.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Kun.
+    Bet, kai Susivienijimo vadovybę 1890 m.
+    paėmė kunigas Burba, jis pasidarė grynai tautiška organizacija,
+    tolima nuo lenkų.
+    Susivienijimas Visų Draugysčių Katali-
+    kiškų Lietuviškų Amerikoje vėliau buvo pa-
+    vadintas Susivienijimu Lietuvių Amerikoje,
+    tačiau jo vadovybė pasiliko katalikiškose rankose. Kun.
     Burbai pasitraukus (1893 m.), jo vadovybę perėmė kun. J. Ži-
     linskas, kuris redagavo ir Susivienijimo organą „Tėvynę"
     (1896—1902 m.).

@@ -33,7 +33,7 @@ tags:
 
 ## Teiginiai
 - t-002
-  teiginys: 'Ši frazė yra SSRS valdovų atsakymas į Lietuvos siūlymą tartis.'
+  teiginys: '„Niekada nesitarsim, nesiderėsim!“ buvo SSRS valdovų atsakymas į Lietuvos siūlymą tartis.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -41,7 +41,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Ši frazė yra SSRS valdovų atsakymas į Lietuvos siūlymą tartis.'
+  santrauka: '„Niekada nesitarsim, nesiderėsim!“ buvo SSRS valdovų atsakymas į Lietuvos siūlymą tartis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Štai, buvę skriaudėjai arba paveldėtojai, mūsų ištiesta taikos ir

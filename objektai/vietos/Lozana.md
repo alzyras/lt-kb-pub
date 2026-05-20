@@ -30,10 +30,15 @@ gatai išvyko į Lozaną (Lausanne, Šveicarijoje), kur tų pavergtų tautų kon
   santrauka: 'Lozanoje pavergtų tautų kongresas pareikalavo visiškai nepriklausomos Lietuvos atstatymo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Kiek vėliau trys Komiteto dele-
+    Pirmoji proga viešai prabilti pasitaikė 1916 m. gegužės mėnesį,
+    Rusijos pavergtoms tautoms kreipiantis į Jungtinių Amerikos
+    Valstybių prezidentą Vilsoną. Kiek vėliau trys Komiteto dele-
     gatai išvyko į Lozaną _(Lausanne,_ Šveicarijoje), kur tų pavergtų
     tautų kongresas pareikalavo visai nepriklausomos Lietuvos
-    atstatymo.
+    atstatymo. Okupacinė valdžia, nepatenkinta tokiuo reikalavimu,
+    sumanė pati organizuoti vietinę lietuvių atstovybę, pavadintą
+    _Vertrauensrat,_ t. y. pasitikėjimo taryba, kuri tarnautų vokie-
+    čių administracijai.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

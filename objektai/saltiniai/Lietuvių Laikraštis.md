@@ -33,6 +33,11 @@ tags:
   citata_originali: |
     „Lietuvių Laikraštis",
     — pats pirmasis lietuviškas laikraštis spaudą atgavus.
+    kako tik apie tai pranešti gubernatoriui. Todėl dar 1905 m. pra-
+    džioje pasirodė net trys lietuviški laikraščiai: „Lietuvių
+    Laikraštis", „Lietuvos Bitininkas" ir Petro Vilei-
+    šio leidžiamas pirmasis lietuvių dienraštis „Vilniaus Ži-
+    nios". Pirmasis ėjo Petrapily, o antrieji du Vilniuje.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

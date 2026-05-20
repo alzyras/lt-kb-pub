@@ -37,10 +37,16 @@ Muravjovas, iš visur išstumdamas lenkų kalbą, uždraudė ją vartoti ir semi
   santrauka: 'Muravjovas uždraudė seminarijoje lenkiškai dėstyti homiletiką ir įsakė ją dėstyti rusiškai arba lietuviškai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Muravjovas, iš visur išstumdamas len-
+    Lietuviškas sąjūdis palengva Įsiskverbė ir į Žemaičių semi-
+    nariją, kuri kartu su vyskupu Valančium 1865 m. iš Varnių
+    buvo perkelta į Kauną. Muravjovas, iš visur išstumdamas len-
+
+
     kų kalbą, uždraudė ją vartoti ir seminarijoje, kur iki tol buvo
     lenkiškai dėstoma homiletika (pamokslų mokslas); dabar buvo
-    įsakyta ją dėstyti rusiškai arba lietuviškai.
+    įsakyta ją dėstyti rusiškai arba lietuviškai. Nuo to laiko pro-
+    fesorius (vėliau Seinų vyskupas) Antanas Baranauskas čia ėmė
+    dėstyti lietuviškai lietuvių kalbą ir homiletiką.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -52,9 +58,14 @@ Muravjovas, iš visur išstumdamas lenkų kalbą, uždraudė ją vartoti ir semi
   santrauka: 'Antanas Baranauskas seminarijoje lietuviškai dėstė lietuvių kalbą ir homiletiką.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Nuo to laiko pro-
+    kų kalbą, uždraudė ją vartoti ir seminarijoje, kur iki tol buvo
+    lenkiškai dėstoma homiletika (pamokslų mokslas); dabar buvo
+    įsakyta ją dėstyti rusiškai arba lietuviškai. Nuo to laiko pro-
     fesorius (vėliau Seinų vyskupas) Antanas Baranauskas čia ėmė
-    dėstyti lietuviškai lietuvių kalbą ir homiletiką.
+    dėstyti lietuviškai lietuvių kalbą ir homiletiką. Jis pats buvo
+    geras lietuvių kalbos mokėtojas, jo jaunystės poezija irgi buvo
+    klierikams gerai žinoma, todėl niekas kitas čia negalėjo geriau
+    sukelti susidomėjimo lietuvių kalba.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

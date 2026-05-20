@@ -8,9 +8,23 @@ variantai:
 aliases: []
 saltiniai:
 - Vytautas Didysis 1350-1430 (1930 m.)
-laikotarpis: 1398 m.
 datos:
-- 1398 m.
+  - '1350 m.'
+  - '1398 m.'
+  - '1430 m.'
+  - '1930 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+  - 'XV'
+  - 'XX'
+  - 'XXI'
+date_start: '1350'
+date_end: '2026'
+laikotarpis: 1398 m.
 patikimumas: aukštas
 tags: []
 ---
@@ -23,13 +37,22 @@ tags: []
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: 'Vytautas ir Jogaila 1398 m. rūpinosi gauti Romos sutikimą Vytauto apsikarūnavimui.'
+  pagrindžia:
+    - c-002
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vytauto nepasisekęs apsikarūnavimas siejamas su 1398 m. jo ir Jogailos pastangomis gauti sutikimą Romoje.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Vieni ieško to priežasčių jo nepasiseku­
+    Bet vis tik kyla klausimas, kam Vytautui buvo rei­
+    kalinga užvaldyti visa Rusija ir Totoriai? Už tai daug kas jį ir
+    kaltina, kad, verždamasis vis toliau į rytus, mažai tesirūpinęs
+    lietuviškais kraštais. Vieni ieško to priežasčių jo nepasiseku­
     siame apsikarūnavime, kuriam abu su Jogaila 1398 m. rūpinosi
     gauti sutikimą Romoj.
   citata_rodoma: ""
@@ -39,7 +62,29 @@ tags: []
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+- c-002
+  santrauka: 'Vytautas ir Jogaila 1398 m. rūpinosi gauti Romos sutikimą Vytauto apsikarūnavimui.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Už tai daug kas jį ir
+    kaltina, kad, verždamasis vis toliau į rytus, mažai tesirūpinęs
+    lietuviškais kraštais. Vieni ieško to priežasčių jo nepasiseku­
+    siame apsikarūnavime, kuriam abu su Jogaila 1398 m. rūpinosi
+    gauti sutikimą Romoj. Kita priežastis, tai jo noras sukurti to­
+    kią galybę, kuria atsirėmęs, niekeno nevaržomas, galėtų laisvai
+    valdyti Lietuvą ir, progai pasitaikius, galutinai suvesti sąskai­
+    tas tiek su Ordinu, tiek ir su lenkais.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

@@ -18,7 +18,7 @@ Jis net buvo sumanęs tam tikslui leisti specialų laikraštį ,,Pakeleivingą",
 
 ## Teiginiai
 - t-001
-  teiginys: '„Pakeleivingą“ buvo sumanyta leisti kaip specialų laikraštį, tačiau leidimas nebuvo gautas.'
+  teiginys: '„Pakeleivingą“ buvo sumanyta leisti kaip specialų laikraštį, bet leidimas jam nebuvo gautas.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -28,10 +28,13 @@ Jis net buvo sumanęs tam tikslui leisti specialų laikraštį ,,Pakeleivingą",
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: '„Pakeleivingą“ buvo sumanyta leisti kaip specialų laikraštį, tačiau leidimas nebuvo gautas.'
+  santrauka: '„Pakeleivingą“ buvo sumanyta leisti kaip specialų laikraštį, bet leidimas jam nebuvo gautas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Jis
+    Todėl jis ragino
+    kunigiją būti atsargesnę. Tačiau vyskupas nesiliovė kiekviena
+    proga raginęs tikinčiųjų nebegerti; ragino gyvu žodžiu, ragino
+    savo viešaisiais laiškais ir blaivybės skatinamaisiais raštais. Jis
     net buvo sumanęs tam tikslui leisti specialų laikraštį ,,Pake-
     leivingą", bet negavo leidimo.
   citata_rodoma: ""

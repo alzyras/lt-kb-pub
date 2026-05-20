@@ -27,26 +27,35 @@ Vartojamos formos: `sūdąs`, `sūdą`.
 - t-003
   teiginys: '`Sūdas` šiame tekste reiškia teisminį sprendimą ar teismo vietą.'
   pagrindžia:
-    - c-001
+    - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 - t-004
-  teiginys: 'Žodis vartojamas skolų, kaltės ir ginčo sprendimo kontekste.'
+  teiginys: 'Sūdas vartojamas skolų ir ginčo sprendimo kontekste, kai sprendimą galėjo persūdyti didysis kunigaikštis.'
   pagrindžia:
-    - c-001
     - c-002
+    - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
+  santrauka: 'Sūdas vartojamas skolų ir ginčo sprendimo kontekste, kai sprendimą galėjo persūdyti didysis kunigaikštis.'
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Jei katrai Šaliai toksai sūdąs tėvūno su vyrais netiko, tad atjojęs didysis kunigaikštis į girias medžioti persūdijo^1103 , ir, kaip jis nusprendė, taip ir paliko.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
+- c-002
   santrauka: '`Sūdas` šiame tekste reiškia teisminį sprendimą ar teismo vietą.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
-    Tapo dar vergais vėl per sūdą tie, kurie negalėjo ant rako^1052 skolos atduoti savo
-    skolininkui, tokius sūdąs pripažino vergais tų, nuo kurių pinigus buvo paskoli. je, ir jiems turėjo
-    vergauti lig atduodantys ar lig atdirbantys, nes, atdavus ar atvergavus skolą, vėl paliko liuosais, kaip
-    pirma kad buvo.
+    Tapo dar vergais vėl per sūdą tie, kurie negalėjo ant rako^1052 skolos atduoti savo skolininkui, tokius sūdąs pripažino vergais tų, nuo kurių pinigus buvo paskoli. je, ir jiems turėjo vergauti lig atduodantys ar lig atdirbantys, nes, atdavus ar atvergavus skolą, vėl paliko liuosais, kaip pirma kad buvo.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -54,20 +63,6 @@ Vartojamos formos: `sūdąs`, `sūdą`.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
-    - t-004
-- c-002
-  santrauka: 'Žodis vartojamas skolų, kaltės ir ginčo sprendimo kontekste.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Jei katrai Šaliai toksai sūdąs
-    tėvūno su vyrais netiko, tad atjojęs didysis kunigaikštis į girias medžioti persūdijo^1103 , ir, kaip jis
-    nusprendė, taip ir paliko.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
     - t-004
 
 ## Pastabos

@@ -45,7 +45,9 @@ Nenurodyta
   santrauka: 'Lietuvos žmonės pradėjo šviestis, vyko mokytis į Europos universitetus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Lietuvos žmonės
+    Pa-
+    goniškoji, nuo Europos atskirta ir jos ujama Lietuva tapo krikš-
+    čioniška valstybe, lygi su visomis kitomis. Lietuvos žmonės
     pradėjo šviestis, vyko mokytis į Europos universitetus. Prasi-
     dėjo glaudūs prekybos ryšiai su Vakarais, ir Lietuva žymiai
     praturtėjo.

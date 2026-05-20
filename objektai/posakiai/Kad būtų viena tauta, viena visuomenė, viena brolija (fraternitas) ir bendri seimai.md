@@ -58,7 +58,9 @@ tags:
     Akte yra sakoma: Kad būtų viena tauta, viena visuomenė,
     viena brolija **_(fraternitas)_** ir bendri seimai, o tam vienam kūnui —
     viena galva, vienas karalius, kuris paskirtu laiku ir paskirtoje vietoje
-    bus visų į elekciją atvykusiųjų bendrai renkamas..."
+    bus visų į elekciją atvykusiųjų bendrai renkamas..." Bet kaip tu-
+    rėjo būti atliekami tie bendrieji seimai ir bendroji elekcija, tuo tarpu
+    nebuvo pasakyta; tai turėjo būti vėliau nustatyta.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -69,4 +71,4 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/fraternitas]]
+- [[objektai/paprociai/Bendri Lietuvos ir Lenkijos seimai]]

@@ -32,6 +32,7 @@ Vienas Vilniaus gimnazijos mokinys ant lentos užrašė: „Tegyvuoja gegužės 
   santrauka: 'Šūkį „Tegyvuoja gegužės 3 d. konstitucija!“ vienas Vilniaus gimnazijos mokinys užrašė ant lentos, nes ši konstitucija laikyta siektinu idealu ir laisvės garantija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Tik visai netikėtai beplintantį judėjimą 1823 m. išardė rusai.
     Vienas Vilniaus gimnazijos mokinys ant lentos užrašė: „Te-
     gyvuoja gegužės 3 d. konstitucija!" (mat, ši reforminio
     seimo konstitucija lenkų ir Lietuvos bajorijos buvo laiko-

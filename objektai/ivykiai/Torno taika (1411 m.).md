@@ -10,6 +10,20 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1411 m.'
+  - '1936 m.'
+  - '1978 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XV'
+  - 'XX'
+  - 'XXI'
+date_start: '1411'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - ivykis
@@ -36,24 +50,21 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: '1411 m. vasario 1 d. Jogaila ir Vytautas prie Torno pilies sudarė taiką su didžiuoju magistru.'
+  teiginys: 'Žalgirio kova pasibaigė 1411 m. Torno taika, tačiau nugalėtojai šio laimėjimo visiškai neišnaudojo.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1411 m. vasario 1 d. Jogaila ir Vytautas prie Torno pilies sudarė taiką su didžiuoju magistru.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  santrauka: 'Žalgirio kova pasibaigė 1411 m. Torno taika, tačiau nugalėtojai šio laimėjimo visiškai neišnaudojo.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    9 d. pasirašė vieno mėnesio paliaubas. Joms pasibaigus, pusbroliai
-    vėl žygiavo į Prūsus. Atvykę prie Torno pilies, kur buvo užsidaręs
-    pats didysis magistras, jiedu 1411.II.1 d. padarė taiką. Ją Dlugošas
-    vėl kritikavo, kad « visai klaidingu būdu ir beveik pajuokai buvo
-    atsisakyta tosios garbingos ir atmintinos Grünwaldo (Grinfeldensis)
-    pergalės. Ji nedavė jokios naudos Lenkijos karalystei, tačiau —
-    labai didelę Lietuvos kunigaikštijai »^37.
+    Žalgirio kova, kaip žinom, pasibaigė Torno
+    taika (1411), ir žinom, kad tas laimėjimas nugalėtojų nebuvo vi­
+    siškai išnaudotas. Į Torno taikos sutartį^1 ) įsiskaitęs, gauni įspū­
+    džio, kad ne kryžiuočiai pralaimėjo ...
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -61,3 +72,9 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

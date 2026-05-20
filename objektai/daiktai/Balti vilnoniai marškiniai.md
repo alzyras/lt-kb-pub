@@ -9,17 +9,27 @@ saltiniai:
   - A. Šapoka (red.), Lietuvos istorija (1936 m.)
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
 vaidmenys: []
 dalyviai:
   - Jogaila
 susije_irasai:
   - [[objektai/asmenys/Jogaila|Jogaila]]
+datos:
+  - '1350 m.'
+  - '1430 m.'
+  - '1930 m.'
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+  - 'XV'
+  - 'XX'
+  - 'XXI'
+date_start: '1350'
+date_end: '2026'
 patikimumas: aukstas
 tags: []
 ---
@@ -45,7 +55,7 @@ Marškiniai buvo duodami kaip krikšto dovana ir simbolizavo nekaltąją sielą.
 
 ## Teiginiai
 - t-005
-  teiginys: 'Balti vilnoniai rūbai prie krikšto buvo dalijami ir kaip liturginis nekaltybės simbolio reikalavimas.'
+  teiginys: 'Jogaila krikštijamiesiems duodavo baltų vilnonių rūbų ne tik kaip dovaną, bet ir dėl krikšto liturgijos reikalavimo.'
   pagrindžia:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -53,13 +63,18 @@ Marškiniai buvo duodami kaip krikšto dovana ir simbolizavo nekaltąją sielą.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Balti vilnoniai rūbai prie krikšto buvo dalijami ir kaip liturginis nekaltybės simbolio reikalavimas.'
+  santrauka: 'Jogaila krikštijamiesiems duodavo baltų vilnonių rūbų ne tik kaip dovaną, bet ir dėl krikšto liturgijos reikalavimo.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Jogaila besi­
+    Žmonės buvo krikštijami būriais, atskirai vyrai ir atskirai
+    moterys, kiekvienam būriui suteikiant vardą. Jogaila besi­
     krikštijantiems duodavo dar baltų vilnonių rūbų, bet ne tik kaipo
     dovaną, o ir tam, kad būtų išpildytas liturgikos reikalavimas —
-    prie krikšto turėti baltą rūbą, nekaltybės simbolį.
+    prie krikšto turėti baltą rūbą, nekaltybės simbolį. Tačiau dėl
+    šių nežymių dovanų vargu kas iš lietuvių būtų išsižadėjęs savo
+    seno tikėjimo, arba krikštijęsis keliskart, kad daugiau jų gautų,
+
+    (^1) ) Valachijoje (dabartinėje Rumunijoje).
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -71,3 +86,12 @@ Marškiniai buvo duodami kaip krikšto dovana ir simbolizavo nekaltąją sielą.
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/drabužis]]
+
+### Laikotarpiai
+- [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
+### Susiję objektai
+- [[objektai/asmenys/Jogaila]]

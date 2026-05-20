@@ -26,7 +26,7 @@ Hetmonai buvo kariuomenės vadai. Ankstesniame šaltinyje jie apibrėžti kaip k
 
 ## Teiginiai
 - t-004
-  teiginys: 'Minimos didžiojo, lauko ir Livonijos etmono pareigybės.'
+  teiginys: 'M. Radvila buvo didysis etmonas, Grigalius Chodkevičius - lauko etmonas, o Jonas Chodkevičius - būsimasis Livonijos etmonas.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -34,7 +34,7 @@ Hetmonai buvo kariuomenės vadai. Ankstesniame šaltinyje jie apibrėžti kaip k
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Minimos didžiojo, lauko ir Livonijos etmono pareigybės.'
+  santrauka: 'M. Radvila buvo didysis etmonas, Grigalius Chodkevičius - lauko etmonas, o Jonas Chodkevičius - būsimasis Livonijos etmonas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     buvo geriausi kariai, kuriuos tuo metu

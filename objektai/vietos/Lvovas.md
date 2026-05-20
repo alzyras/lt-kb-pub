@@ -6,6 +6,21 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1392 m.'
+  - '1919 m.'
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+  - 'modernioji Lietuva'
+amziai:
+  - 'XIV'
+  - 'XX'
+  - 'XXI'
+date_start: '1392'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - karas
@@ -19,22 +34,22 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
 
 ## Teiginiai
 - t-001
-  teiginys: 'Karo su turkais metu turkai užėmė Podolės tvirtovę Kameniecą ir veržėsi į Lvovo apylinkes.'
+  teiginys: '1919 m. pavasarį Lenkijos kariuomenė kovojo Ukrainoje prie Lvovo.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Karo su turkais metu turkai užėmė Podolės tvirtovę Kameniecą ir veržėsi į Lvovo apylinkes.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: '1919 m. pavasarį Lenkijos kariuomenė kovojo Ukrainoje prie Lvovo.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Kartu su jo viešpatavimu Lenkijoje prasidėjo sunkus ka-
-    ras su Turkais, kuriems pasidavė ir kazokų hetmonas Doro-
-    šenko. Lenkams, netvarkingai kariaujantiems, karas labai ne-
-    sisekė: turkai užėmė stipriausią Podolės tvirtovę Kameniecą ir
-    veržėsi į Lvovo apylinkes.
+    1919 m. pavasarį Lenkijos kariuomenė kovojo Ukrainoje prie
+    Lvovo. Tuo metu Rytų Lietuvą kontroliavo bolševikai. Bolševikų pa-
+    jėgos šiame rajone buvo išsklaidytos ir sutelktos kitose ilgo fronto
+    vietose, o tarp Marcinkonių ir Lydos rusų pozicijose susidarė menkai
+    Pe 2 o ai ) pridengtas tarpas.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -42,3 +57,13 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
+### Susiję objektai
+- [[objektai/vietos/Rytų Lietuva]]
+- [[objektai/vietos/Ukraina]]

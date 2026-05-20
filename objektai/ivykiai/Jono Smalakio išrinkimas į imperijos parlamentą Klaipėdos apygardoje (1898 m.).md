@@ -41,6 +41,8 @@ Nenurodyta
   santrauka: '1898 m. Klaipėdos apygardoje į imperijos parlamentą buvo išrinktas pirmasis lietuvių atstovas Jonas Smalakys.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Po ilgos kovos jie
+    vis dėlto laimėjo.
     Geriausiai sekėsi Klaipėdos apygardoje. Čia 1898 m. buvo
     išrinktas pirmas atstovas į imperijos parlamentą — Tilžės pirk-
     lys Jonas Smalakys.

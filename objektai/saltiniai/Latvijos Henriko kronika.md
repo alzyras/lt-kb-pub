@@ -1,0 +1,57 @@
+---
+tipas: saltinis
+pavadinimas: 'Latvijos Henriko kronika'
+sukurta: '2026-05-20'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1225 m.'
+  - '1290 m.'
+periodas: 'viduramžiai'
+periodo_grupes:
+  - 'viduramžiai'
+amziai:
+  - 'XIII'
+date_start: '1225'
+date_end: '1290'
+patikimumas: 'vidutinis'
+tags:
+  - ordinas
+  - saltinis
+---
+# Latvijos Henriko kronika
+
+## Santrauka
+
+Kiek plačiau ordino priešą minėjo pir­ mosios Pabaltijyje vokiečių kronikos, būtent, Latvijos Henriko (surašyta 1225-27 m.) ir Eiliuotinė Livonijos kronika (po 1290 m.).
+
+## Teiginiai
+- t-001
+  teiginys: 'Latvijos Henriko kronika, surašyta 1225-1227 m., buvo viena pirmųjų Pabaltijo vokiečių kronikų, plačiau minėjusių ordino priešą.'
+  pagrindžia:
+    - c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+
+## Reikšmingi paminėjimai
+
+## Bibliografiniai įrodymai
+- c-001
+  santrauka: 'Latvijos Henriko kronika, surašyta 1225-1227 m., buvo viena pirmųjų Pabaltijo vokiečių kronikų, plačiau minėjusių ordino priešą.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Rašytų ir gana išblaškytų žinių apie lietuvius, jų religiją, pa­
+    pročius ir gyvenimo būdą ėmė šiek tiek pateikti XII-XIII amž.
+    kaimynai. Skurdžios užuominos aptinkamos rusų «lietopisiuose »,
+    vėliau lenkų metraščiuose. Kiek plačiau ordino priešą minėjo pir­
+    mosios Pabaltijyje vokiečių kronikos, būtent, Latvijos Henriko
+    (surašyta 1225-27 m.) ir Eiliuotinė Livonijos kronika (po 1290 m.).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001

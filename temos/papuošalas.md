@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 14.
+Objektų skaičius: 13.
 
 ## Kaip naudoti
 
@@ -19,23 +19,24 @@ Objektų skaičius: 14.
 ## Susiję objektai
 
 ### Asmenys
-- [[objektai/asmenys/Ditrichas von Altenburgas]]
-- [[objektai/asmenys/Liudvikas IV Bavarietis]]
+- [[objektai/asmenys/Klemensas iš Moskoževo]]
 - [[objektai/asmenys/Simonas Grunau]]
 
 ### Daiktai
-- [[objektai/daiktai/Daujėnų apgalvis]]
-- [[objektai/daiktai/Emaliuotos juostos]]
 - [[objektai/daiktai/Gintaro ir stiklo karoliai]]
 - [[objektai/daiktai/Juostos]]
 - [[objektai/daiktai/Papuošalai]]
-- [[objektai/daiktai/Pasaginės segės]]
 - [[objektai/daiktai/Rikojoto prūsų dievų šventykla ir stabai]]
 - [[objektai/daiktai/Šernų amuletai]]
 
 ### Papročiai
 - [[objektai/paprociai/Kandidatas 8 Prūsų dievų kultas Rikojote ir kulto tarnų hierarchija]]
 - [[objektai/paprociai/Kandidatas Prūsų dievų kultas Rikojote ir kulto tarnų hierarchija]]
+
+### Vietos
+- [[objektai/vietos/Avinjonas]]
+- [[objektai/vietos/Ramygala]]
+- [[objektai/vietos/Volinija]]
 
 ### Žodynas
 - [[objektai/zodynas/žalvario amžius]]

@@ -47,7 +47,9 @@ Nenurodyta
     Kymantas; jo nariai buvo E. Vileišienė, kun. Olšauskas, kun. Kukta,
     kun. Dogelis, dr. A. Vileišis, P. Leonas, dr. J. Basanavičius, kun.
     Jezukevičius, D. Malinauskas, J. Balčikonis, A. Žmuidzinavičius, J.
-    Mašiotas, A. Janulaitis ir M. Sleževičius.
+    Mašiotas, A. Janulaitis ir M. Sleževičius. Partijų kovoms nė tuomet
+    neaprimus, Komitete kilo ginčų, ir trys paskutinieji (kairiųjų pažiū-
+    rų) nariai iš jo išstojo.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

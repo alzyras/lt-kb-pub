@@ -27,7 +27,7 @@ Ona Vytautienė šiame korpuse minima kaip antroji Vytauto žmona, iš pradžių
 
 ## Teiginiai
 - t-007
-  teiginys: 'Ona Vytautienė pradžioje buvo stačiatikė, o vėliau tapo labai uoli katalikė.'
+  teiginys: 'Ona Vytautienė pradžioje buvo stačiatikė, o vėliau tapo labai uolia katalike.'
   pagrindžia:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -39,13 +39,13 @@ Ona Vytautienė šiame korpuse minima kaip antroji Vytauto žmona, iš pradžių
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-009
-  teiginys: 'Ona išdavė raštą, tvirtindama, kad jos vyras sutartį ištesės.'
+  teiginys: 'Ona Vytautienė išdavė raštą, kuriuo patvirtino, kad jos vyras sutartį ištesės.'
   pagrindžia:
     - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-010
-  teiginys: 'Ona Vytautienė kartu su Vytautu dalyvavo sutarties ratifikavime lietuvių pusėje.'
+  teiginys: 'Ona Vytautienė kartu su Vytautu dalyvavo lietuvių pusėje.'
   pagrindžia:
     - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -53,9 +53,12 @@ Ona Vytautienė šiame korpuse minima kaip antroji Vytauto žmona, iš pradžių
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Ona Vytautienė pradžioje buvo stačiatikė, o vėliau tapo labai uoli katalikė.'
+  santrauka: 'Ona Vytautienė pradžioje buvo stačiatikė, o vėliau tapo labai uolia katalike.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
+    Vadinas, Vytautas
+    augo ir pagoniško ir krikščioniško tikėjimų įtakoje. Jo pirmoji
+    žmona Marija, Rusijos kunigaikštytė, berods, buvo stačiatikė.
     Antroji jo žmona Ona pradžioj taip pat buvusi stačiatikė, tik
     paskui pasidarė labai uoli katalikė.
   citata_rodoma: ""
@@ -66,10 +69,13 @@ Ona Vytautienė šiame korpuse minima kaip antroji Vytauto žmona, iš pradžių
   pagrindžia:
     - t-007
 - c-002
-  santrauka: 'Ona Vytautienė kartu su Vytautu dalyvavo sutarties ratifikavime lietuvių pusėje.'
+  santrauka: 'Ona Vytautienė kartu su Vytautu dalyvavo lietuvių pusėje.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Iš lietuvių pusės
+    Iškilmingas tos sutarties ratifikavimas (patvir­
+    tinimas) įvyko tų pačių metų spalių 12 d. Salyno saloj (Ne­
+    mune). Dalyvavo Prūsų ir Livonijos Ordinų magistrai, Var­
+    mijos ir Sambijos vyskupai ir daug komtūrų. Iš lietuvių pusės
     dalyvavo Vytautas su žmona Ona, daugybė kunigaikščių, bajo­
     rų ir palydovų.
   citata_rodoma: ""
@@ -83,7 +89,10 @@ Ona Vytautienė šiame korpuse minima kaip antroji Vytauto žmona, iš pradžių
   santrauka: 'Ona Vytautienė buvo Smolensko kunigaikštytė ir stačiatikė, kurią Vytautas vedė po pirmosios žmonos Marijos mirties.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Jis turėjo tada 33 metus, ir krikščionybė jam
+    21 d. Tapiau mieste­
+    lyje Prūsuose. Jo krikštatėviu buvo Ragainės komtūras Vy­
+    gandas von Baldersheimas, dėl to ir Vytautas apsikrikštijo Vy­
+    gando vardu^1 ). Jis turėjo tada 33 metus, ir krikščionybė jam
     nebuvo svetima, nes savo tėvo Kęstučio dvare Trakuose susi­
     tikdavo su svečiais katalikais iš Mozūrijos, kur buvo nutekė­
     jusi jo sesuo Danuta, iš Malburgo ir kartais iš kitų Vakarų Eu­
@@ -98,10 +107,16 @@ Ona Vytautienė šiame korpuse minima kaip antroji Vytauto žmona, iš pradžių
   pagrindžia:
     - t-008
 - c-004
-  santrauka: 'Ona išdavė raštą, tvirtindama, kad jos vyras sutartį ištesės.'
+  santrauka: 'Ona Vytautienė išdavė raštą, kuriuo patvirtino, kad jos vyras sutartį ištesės.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Iš savo pusės išdavė
+    Vy­
+    tautas dėkojo Jogailai ir Jadvygai už „suteiktas“ dovanas ir
+    išdavė raštą^1 ), pasižadėdamas ir vieno ir kito neapleisti, neieš­
+    koti kitokios valdžios, išskyrus gautąją, ir visokiais būdais juos
+    remti: kariuomene, turtu, ginklais; kovoti su jų visais priešais
+    ir ginti juos; visus ligšiolinius savo priešus Lietuvoj laikyti sa­
+    vo draugais. Čia turėta galvoj Skirgaila. Iš savo pusės išdavė
     raštą ir kun. Ona, tvirtindama, kad jos vyras sutartį ištesės^2 ).
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -112,8 +127,9 @@ Ona Vytautienė šiame korpuse minima kaip antroji Vytauto žmona, iš pradžių
     - t-009
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/dokumentas]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Jadvyga Jogailienė]]
+- [[objektai/asmenys/Danuta]]
+- [[objektai/asmenys/Marija (pirmoji Vytauto žmona)]]
+- [[objektai/vietos/Salyno sala]]
+- [[objektai/asmenys/Vygandas von Baldersheimas]]

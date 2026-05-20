@@ -25,7 +25,7 @@ Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vad
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Ta santvarka buvo vadinama tikrąja laisve, o bajorija ją brangino ir saugojo nuo pakeitimų.'
+  teiginys: 'Tikrąja laisve vadintą santvarką bajorija brangino ir saugojo nuo pakeitimų.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -42,6 +42,8 @@ Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vad
   santrauka: 'Zigmanto laikais Lenkijoje ir Lietuvoje įsigalėjusi „aukso laisvė“ leido galingiesiems nieko neklausyti ir elgtis kaip tinkamiems.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Tik dėl Maskvos nusilpimo tepavyko atgauti didelius žemių
+    plotus.
     Kaip tik Zigmanto laikais tiek Lenkijoje, tiek Lietuvoje įsi-
     galėjo vėliau dar labiau įsivyravusi vidaus netvarka. Didžiū-
     nams bekovojant su užsispyrėliu karalium ir tarpusavy, įsiga-
@@ -55,10 +57,11 @@ Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vad
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Ta santvarka buvo vadinama tikrąja laisve, o bajorija ją brangino ir saugojo nuo pakeitimų.'
+  santrauka: 'Tikrąja laisve vadintą santvarką bajorija brangino ir saugojo nuo pakeitimų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    O visa ta santvarka vis dėlto būdavo vadinama tik-
+    Visada atsirasdavo, kas pasakydavo _„veto",_ ir seimas
+    turėdavo iširti. O visa ta santvarka vis dėlto būdavo vadinama tik-
     rąja laisve. Bajorijos masės ją brangino, stropiai žiūrėjo, kad ji
     nebūtų pakeista, nes tik tokioje santvarkoje kiekvienas jautėsi turįs
     didelę vertę ir galįs pasipelnyti.
@@ -73,10 +76,11 @@ Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vad
   santrauka: 'Vieni siūlė tvarkyti gyvenimą paliekant „aukso laisvės“ principus, o kiti siekė panaikinti liberum veto.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Vieni bandė siūlyti aptvarkyti
+    Suprasdami visas savo krašto visuomenės santvar-
+    kos blogybes, jie ėmė ieškoti išeities. Vieni bandė siūlyti aptvarkyti
     gyvenimą, paliekant nepaliestus pagrindinius „aukso laisvės"
     principus, o kiti net siūlė panaikinti pagrindinę blogybę — _liberum
-    veto._
+    veto._ Atsirado tais klausimais ir knygų.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -84,3 +88,7 @@ Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vad
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/aukso laisvė]]

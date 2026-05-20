@@ -33,22 +33,21 @@ Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyve
 
 ## Teiginiai
 - t-002
-  teiginys: 'Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyventojų pavergimu.'
+  teiginys: 'Teutonai pavergė pajūryje gyvenusius erulius ir kraštovardžiams pridėdavo savo žodį land.'
   pagrindžia:
-    - c-001
     - c-002
+    - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyventojų pavergimu.'
+  santrauka: 'Teutonai pavergė pajūryje gyvenusius erulius ir kraštovardžiams pridėdavo savo žodį land.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
-    Vadino dar ir paskiau tą kraštą vardu, iš dviejų žodžių sudėtu, iš žemaitiško ir
-    teutoniško, ir taip _Samland_ , iš žodžių žem ir _land_ , tai yra Žemasis kraštas, kaipo viršiau minavojau,
-    o gyventojus to krašto vadino _Samländer_ , tai yra žemaičiai, beje: žmonės, gyvenantys žemai,
-    arba pajūriais.
+    Kad ilgainiui teutonai tuos erulius, tenai gyvenančius, antėjo^105 ir juos
+        nuvergė, tad nuo jų, kaipo žinovų Žemaičių jūros, apie tą rytų, arba aušros, kraštą išsijautojo^106 ir
+        tais pačiais vardais vadino, pridėdami savo žodį _land_ – kraštas.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -57,12 +56,12 @@ Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyve
   pagrindžia:
     - t-002
 - c-002
-  santrauka: 'Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyventojų pavergimu.'
+  santrauka: 'Teutonai pavergė pajūryje gyvenusius erulius ir kraštovardžiams pridėdavo savo žodį land.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
-    Kad ilgainiui teutonai tuos erulius, tenai gyvenančius, antėjo^105 ir juos
-    nuvergė, tad nuo jų, kaipo žinovų Žemaičių jūros, apie tą rytų, arba aušros, kraštą išsijautojo^106 ir
-    tais pačiais vardais vadino, pridėdami savo žodį _land_ – kraštas
+    Vadino dar ir paskiau tą kraštą vardu, iš dviejų žodžių sudėtu, iš žemaitiško ir teutoniško, ir taip
+        _Samland_ , iš žodžių žem ir _land_ , tai yra Žemasis kraštas, kaipo viršiau minavojau, o gyventojus to
+        krašto vadino _Samländer_ , tai yra žemaičiai, beje: žmonės, gyvenantys žemai, arba pajūriais.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

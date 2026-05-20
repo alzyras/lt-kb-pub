@@ -88,3 +88,6 @@ Nenurodyta
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XVI amžius]]
+
+### Susiję objektai
+- [[objektai/asmenys/Steponas Batoras]]

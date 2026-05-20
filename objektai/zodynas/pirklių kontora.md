@@ -29,7 +29,11 @@ Abiejuose tuose centruose Hanza veikiai įsteigė savo agentūras (vadinamąsias
   santrauka: 'Hanzos agentūros buvo vadinamos pirklių kontoromis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Abiejuose tuose centruose Hanza veikiai įsteigė
+    Tuo metu rytų Lietuvos, t. y. ru-
+    siškųjų žemių prekyba daugiausia ėjo Dauguva, o tikrosios Lie-
+    tuvos ir jai artimųjų sričių — Nemunu. Todėl prie Dauguvos
+    iškilo didelis prekybos centras Polockas, o prie Nemuno
+    — Kaunas. Abiejuose tuose centruose Hanza veikiai įsteigė
     savo agentūras (vadinamąsias pirklių kontoras).
   citata_rodoma: ""
   teiginio_tipas: faktas

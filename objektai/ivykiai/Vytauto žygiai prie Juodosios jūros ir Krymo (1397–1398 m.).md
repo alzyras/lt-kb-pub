@@ -9,16 +9,22 @@ variantai:
 aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-bukle: juodrastis
-laikotarpis: '1397–1398 m.'
 datos:
-  - '1397–1398 m.'
-periodas: ''
-periodo_grupes: []
+  - '1397 m.'
+  - '1398 m.'
+  - '1978 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
 amziai:
   - 'XIV'
+  - 'XX'
+  - 'XXI'
 date_start: '1397'
-date_end: '1398'
+date_end: '2026'
+bukle: juodrastis
+laikotarpis: '1397–1398 m.'
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
@@ -60,11 +66,17 @@ Nenurodyta
 - t-007
   teiginys: '1398 m. antrajame žygyje Vytautas Dniepro žiotyse pastatė Tavanės tvirtovę.'
   pagrindžia:
-    - c-002
+    - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-008
-  teiginys: '1398 m. žygio metu paimti karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose.'
+  teiginys: 'Pasak Ivinskio, 1398 m. žygio metu paimti karaimai, berods, buvo apgyvendinti Lucke ir Naujuosiuose Trakuose.'
+  pagrindžia:
+    - c-003
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-009
+  teiginys: '1397 m. Vytautas, veikiausiai pritariant Jogailai, surengė didelį žygį prie Juodosios jūros ir į Krymą.'
   pagrindžia:
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -75,7 +87,8 @@ Nenurodyta
   santrauka: '1397 m. Vytautas surengė didelį žygį prie Juodosios jūros ir į Krymą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Atrodo, pritariant Jogailai, kuris
+    Nuo 1397 pamečiui
+    šis atliko į totorius tris žygius. Atrodo, pritariant Jogailai, kuris
     iš viso rūpestingai rėmė pusbrolio rytų planus, Vytautas (1397)
     suruošė didelį žygį prie Juodosios jūros ir Kryman 19 20, kuris tada
     totorių gyvenime vaidino svarbią rolę. Atsigabenęs iš žygio daug
@@ -90,6 +103,26 @@ Nenurodyta
     - t-005
     - t-006
 - c-002
+  santrauka: '1397 m. Vytautas, veikiausiai pritariant Jogailai, surengė didelį žygį prie Juodosios jūros ir į Krymą.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Atrodo, pritariant Jogailai, kuris
+    iš viso rūpestingai rėmė pusbrolio rytų planus, Vytautas (1397)
+    suruošė didelį žygį prie Juodosios jūros ir Kryman 19 20, kuris tada
+    totorių gyvenime vaidino svarbią rolę. Atsigabenęs iš žygio daug
+    totorių belaisvių ir pabėgėlių, kurių pusę atidavė Jogailai, juos
+    Vytautas įkurdino Trakų kunigaikštijoje. Gavę sau privilegijas iš
+    Vytauto, kuris totorių atmintyje per šimtmečius buvo garbinamas,
+    Lietuvos totoriai išlaikė savo mahometonišką tikėjimą ir papročius,
+    kai tuo tarpu Lenkijoje jie buvo sukrikščioninti ir sulenkinti.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-009
+- c-003
   santrauka: '1398 m. antrajame žygyje Vytautas Dniepro žiotyse pastatė Tavanės tvirtovę.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -108,3 +141,11 @@ Nenurodyta
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
+### Susiję objektai
+- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Vytautas]]
+- [[objektai/vietos/Dniepro žiotys]]
+- [[objektai/grupes/Karaimai]]

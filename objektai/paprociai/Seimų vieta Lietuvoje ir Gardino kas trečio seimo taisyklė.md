@@ -48,21 +48,21 @@ Nenurodyta
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: 'Tas pats įstatymas pripažino Lietuvos ministerių pirmenybę, kai seimas vykdavo Lietuvoje.'
+  teiginys: '1673 m. seimų vietos įstatymas pripažino Lietuvos ministerių pirmenybę, kai seimas vykdavo Lietuvoje.'
   pagrindžia:
-    - c-003
+    - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-004
   teiginys: 'Lietuvos atstovai 1673 m. seime išreikalavo įstatymo, kad kas trečias seimas su lietuviu maršalka būtų šaukiamas Gardine.'
   pagrindžia:
-    - c-004
+    - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-005
   teiginys: 'Įstatymas, kad kas trečias seimas turi būti šaukiamas Lietuvoje, buvo vykdomas iki Respublikos pabaigos.'
   pagrindžia:
-    - c-005
+    - c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
@@ -71,7 +71,7 @@ Nenurodyta
   santrauka: 'Liublino seimas seimų vieta paskyrė Varšuvą arba kurį nors kitą Lenkijos miestą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Liublino seimas seimų vieta paskyrė Varšuvą
+    **Seimų vieta.** Liublino seimas seimų vieta paskyrė Varšuvą
     arba kurį nors kitą Lenkijos miestą. Tačiau lietuviai visą laiką
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -84,23 +84,12 @@ Nenurodyta
   santrauka: '1673 m. pakeistas seimų vietos įstatymas nustatė, kad kas trečias seimas su lietuviu maršalka rinktųsi Gardine.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Keletą kartų jie vis dėlto pasiekė tai, kad seimas prieš
+    reikalavo, kad seimai būtų šaukiami ir Lietuvoje ar bent pa-
+    sienyje. Keletą kartų jie vis dėlto pasiekė tai, kad seimas prieš
     įstatymus buvo sušauktas Lietuvoje, o 1673 m. buvo pakeistas
     ir patsai seimų vietos įstatymas; naujasis įstatymas nustatė, kad
     kas trečias seimas, kurio maršalka esti lietuvis, rink-
-    tųsi Lietuvoje — Gardine.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Tas pats įstatymas pripažino Lietuvos ministerių pirmenybę, kai seimas vykdavo Lietuvoje.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Be to, tas pats įstatymas
+    tųsi Lietuvoje — Gardine. Be to, tas pats įstatymas
     pripažino pirmenybę Lietuvos ministeriams, kai seimas būdavo
     Lietuvoje.
   citata_rodoma: ""
@@ -109,12 +98,13 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
+    - t-002
     - t-003
-- c-004
+- c-003
   santrauka: 'Lietuvos atstovai 1673 m. seime išreikalavo įstatymo, kad kas trečias seimas su lietuviu maršalka būtų šaukiamas Gardine.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Naudodamiesi sunkia Len-
+    **Bendrieji seimai Lietuvoje.** Naudodamiesi sunkia Len-
     kijos būkle, Lietuvos atstovai 1673 m. seime išreika-
     lavo iš lenkų priimti įstatymą, kad kas trečias
     seimas, kurio maršalka esti lietuvis, būtų
@@ -129,7 +119,7 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
-- c-005
+- c-004
   santrauka: 'Įstatymas, kad kas trečias seimas turi būti šaukiamas Lietuvoje, buvo vykdomas iki Respublikos pabaigos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -147,9 +137,6 @@ Nenurodyta
     - t-005
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/aktas]]
-
 ### Susiję objektai
 - [[objektai/vietos/Lietuva]]
 - [[objektai/ivykiai/Seimų vietos įstatymo pakeitimas (1673 m.)]]

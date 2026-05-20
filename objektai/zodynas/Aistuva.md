@@ -14,13 +14,13 @@ tags: []
 
 ## Teiginiai
 - t-003
-  teiginys: 'Aistuva tekste aiškinama kaip žodžio kilmės forma.'
+  teiginys: 'Kazimieras Jaunius ir Kazimieras Būga žodį „aesti“ kildino iš žodžio „Aistuva“.'
   pagrindžia:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-004
-  teiginys: 'Aistuva čia siejama su pakraštine žeme ir lietuviškų tautų protėvyne.'
+  teiginys: 'Žodis „Aistuva“ aiškinamas kaip kadaise reiškęs pakraštinę žemę ir buvęs lietuviškų tautų protėvynė.'
   pagrindžia:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -28,7 +28,7 @@ tags: []
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Aistuva tekste aiškinama kaip žodžio kilmės forma.'
+  santrauka: 'Kazimieras Jaunius ir Kazimieras Būga žodį „aesti“ kildino iš žodžio „Aistuva“.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tik ligšiol dar galutinai nesusitarta ar „aesti”

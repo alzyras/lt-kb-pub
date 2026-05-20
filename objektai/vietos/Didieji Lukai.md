@@ -32,7 +32,11 @@ Sutartyje caras atsisakė nuo Livonijos, Polocko ir Veližo; jam buvo grąžinti
   santrauka: '1582 m. sausio 15 d. sutartimi carui buvo grąžinti tik Didieji Lukai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    1582 m. sausio 15 d. buvo pasirašyta 10 metų karo
+    Ka-
+    ralius linko taikintis, nes užėjusi žiema labai trukdė kariauti,
+    be to, kariuomenė buvo išvargusi, joje prasidėjo ligos, o Pskovo
+    tvirtovė buvo gerai sustiprinta ir sunkiai paimama. Todėl po
+    ilgų derybų, 1582 m. sausio 15 d. buvo pasirašyta 10 metų karo
     paliaubos. Sutartyje caras atsisakė nuo Livonijos, Polocko ir
     Veližo; jam buvo grąžinti tik Didieji Lukai.
   citata_rodoma: ""
@@ -48,4 +52,4 @@ Sutartyje caras atsisakė nuo Livonijos, Polocko ir Veližo; jam buvo grąžinti
 - [[temos/paliaubos]]
 
 ### Susiję objektai
-- [[objektai/vietos/Veližas]]
+- [[objektai/vietos/Livonija]]

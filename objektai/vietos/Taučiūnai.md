@@ -6,6 +6,18 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1919 m.'
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1919'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - vieta
@@ -18,7 +30,7 @@ Povilo Lukšio paminklas Taučiūnų kaimo lauke (netoli Kėdainių).
 
 ## Teiginiai
 - t-001
-  teiginys: 'Taučiūnų kaimo lauke netoli Kėdainių stovėjo Povilo Lukšio paminklas.'
+  teiginys: 'Povilo Lukšio paminklas buvo Taučiūnų kaimo lauke, netoli Kėdainių.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -26,10 +38,22 @@ Povilo Lukšio paminklas Taučiūnų kaimo lauke (netoli Kėdainių).
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Taučiūnų kaimo lauke netoli Kėdainių stovėjo Povilo Lukšio paminklas.'
+  santrauka: 'Povilo Lukšio paminklas buvo Taučiūnų kaimo lauke, netoli Kėdainių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Balandžio mėnesį mūsiškiai nustūmė rusus į rytus ligi
+    Vilniaus, tačiau Vilnių paėmė iš pietų prasiveržę lenkai (ba-
+    landžio 19 d.). Nuo 1919 m. gegužės mėn. vidurio prasidėjo
+    planingesnės mūsų kariuomenės operacijos, tačiau mūsų jėgos
+    tada dar nebuvo didesnės, kaip 5—6 tūkstančiai durtuvų, 10
+    patrankų ir 200 kardų (raitelių). Visą karo metą jaunai Lietu-
+    vos kariuomenei daugeliu atžvilgiu teko patirti didelių sun-
+
+
     Povilo Lukšio paminklas Taučiūnų kaimo lauke (netoli Kėdainių).
+    kumų: trūko ne tik aprangos ir ginklų, bet labai dažnai ir
+    maisto, nes okupacijos išvarginti ūkininkai negalėjo daug
+    padėti.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -37,3 +61,8 @@ Povilo Lukšio paminklas Taučiūnų kaimo lauke (netoli Kėdainių).
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

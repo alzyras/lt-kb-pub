@@ -119,5 +119,4 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/paprociai/Kryžiaus žygių prieš totorius organizavimas]]
 - [[objektai/ivykiai/Oršos mūšis (1514 m.)]]

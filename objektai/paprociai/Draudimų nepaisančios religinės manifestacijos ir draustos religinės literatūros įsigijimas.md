@@ -82,7 +82,6 @@ Sovietmečiu religinės manifestacijos veikė kaip masinė draudimų nepaisymo p
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/religinė-praktika]]
-- [[temos/tikėjimas]]
 
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]

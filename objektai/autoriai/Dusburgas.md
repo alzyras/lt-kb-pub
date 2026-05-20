@@ -12,6 +12,25 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 vaidmenys:
   - 'Kryžiuočių ordino kronikininkas'
+datos:
+  - '1291 m.'
+  - '1292 m.'
+  - '1296 m.'
+  - '1315 m.'
+  - '1936 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'LDK'
+  - 'modernioji Lietuva'
+amziai:
+  - 'XIII'
+  - 'XIV'
+  - 'XX'
+  - 'XXI'
+date_start: '1291'
+date_end: '2026'
 patikimumas: 'aukštas'
 tags:
   - autorius
@@ -30,24 +49,29 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
 
 ## Teiginiai
 - t-005
-  teiginys: 'Petras Dusburgietis parašė „Prūsijos žemės kroniką“, kurioje yra ištrauka apie Durbės mūšį.'
+  teiginys: 'Dusburgo kronikoje 1291 m. pirmą kartą paminėta Junigėda, kuri buvo pulta, bet nepaimta.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-006
-  teiginys: 'Šiame leidinyje „Prūsijos žemės kronika“ naudojama kaip šaltinis apie Durbės mūšį ir Vytenio žygį į Ordino žemes.'
+  teiginys: 'Dusburgas 1296 m. Vytenį jau vadino „rex Vithenus“ ir rašė, kad jis surengė žygį į Livoniją.'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Petras Dusburgietis parašė „Prūsijos žemės kroniką“, kurioje yra ištrauka apie Durbės mūšį.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  santrauka: 'Dusburgo kronikoje 1291 m. pirmą kartą paminėta Junigėda, kuri buvo pulta, bet nepaimta.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Ištrauka iš Petro Dusburgiečio „Prūsijos žemės kronikos“ apie Durbės mūšį.
+    Nors pradiniai jų smūgiai atrodė energingi, bet per dešimt­
+    metį apčiuopiamų laimėjimų nebuvo pasiekta. 1291 buvo pulta,
+    Dusburgo kronikoje pirmą kartą paminėta, Junigėda (nuo 1315
+    ten stovėjo Veliuona), bet, jos nepaėmus, netoliese buvo sunaikinta
+    pilis «Mederaba»^23. Grįždami nuo Junigėdos 1292, kryžiuočiai
+    teriojo sritį pernykščiai sudegintos Aukaimio (« Oukaym ») pilies^24.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -56,15 +80,17 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   pagrindžia:
     - t-005
 - c-002
-  santrauka: 'Šiame leidinyje „Prūsijos žemės kronika“ naudojama kaip šaltinis apie Durbės mūšį ir Vytenio žygį į Ordino žemes.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  santrauka: 'Dusburgas 1296 m. Vytenį jau vadino „rex Vithenus“ ir rašė, kad jis surengė žygį į Livoniją.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Ištrauka iš Petro Dusburgiečio „Prūsijos žemės kronikos“ apie Vytenio įsiveržimą į
-    Ordino žemes:
-
-    „1311 viešpaties metais, per Užgavėnes, Vytenis, Lietuvos karalius, su didele kariuomene,
-    degindamas ir plėšdamas, nusiaubė Sembą ir Notangą, išžudė daug žmonių, o beveik
-    penkis šimtus išsivarė į nelaisvę drauge su dideliu grobiu...“
+    Vytenio kovos su ordinu ir jo sąjunga su Ryga**
+    Pukuveras, apie kurį galima aiškiai pasakyti, kad jis (o gal
+    jau ir jo tėvas) pradėjo per 280 metų trukusį paveldimosios mo­
+    narchijos perijodą, apie 1295 turėjo būti miręs. Kronikininkas
+    Dusburgas, kuriam anksčiau Vytenis tebuvo « Lietuvos karaliaus
+    sūnus »^1 , 1296 jau rašė, jog « rex Vithenus » darė žygį Livonijon 1 2.
+    Išskyrus šią kroniką ir keletą įvairių užuominų^3 , kiti bendralaikiai
+    šaltiniai jo nemini.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -74,5 +100,14 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
     - t-006
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIII amžius]]
+- [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
 ### Susiję objektai
-- [[objektai/autoriai/Dusburgas (Kryžiuočių ordino kronikininkas)]]
+- [[objektai/ivykiai/Junigėdos puolimas ir Mederabos sunaikinimas (1291 m.)]]
+- [[objektai/posakiai/Lietuvos karaliaus sūnus]]
+- [[objektai/vietos/Mederaba]]
+- [[objektai/posakiai/„Lietuvos karaliaus sūnus“]]

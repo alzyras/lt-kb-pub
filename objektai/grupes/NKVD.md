@@ -17,6 +17,7 @@ vaidmenys:
 dalyviai: []
 susije_irasai: []
 datos:
+  - '1500 m.'
   - '1940 m.'
   - '1941 m.'
   - '1945 m.'
@@ -25,11 +26,13 @@ datos:
   - '2026 m.'
 periodas: 'okupacijų ir sovietmečio laikotarpis'
 periodo_grupes:
+  - 'LDK'
   - 'XX a.'
 amziai:
+  - 'XV'
   - 'XX'
   - 'XXI'
-date_start: '1940'
+date_start: '1500'
 date_end: '2026'
 patikimumas: "vidutinis"
 tags: []
@@ -74,25 +77,20 @@ Sovietinė saugumo, vidaus reikalų ir represinė institucija bei kariuomenės s
 
 ## Teiginiai
 - t-012
-  teiginys: 'Sovietų NKVD kariuomenės daliniai turėjo neleisti numatytiems suimti asmenims pabėgti į Vokietiją.'
+  teiginys: 'Liepos 22 d. apie 1500 NKVD karių ir stribų apsupo partizanų stovyklą.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Sovietų NKVD kariuomenės daliniai turėjo neleisti numatytiems suimti asmenims pabėgti į Vokietiją.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  santrauka: 'Liepos 22 d. apie 1500 NKVD karių ir stribų apsupo partizanų stovyklą.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Sniečkus išleido įsakymą, leidžiantį suimti
-    agituojančiuosius prieš Liaudies vyriausybę, patvirtintas Lietuvos politi-
-    nių partijų, šaulių vadovybės „operatyvinės likvidacijos planas“, parengti
-    numatytų suimti asmenų sąrašai, o sovietų NKVD kariuomenės daliniai
-
-    L I E T U V O S  I S T O R I J A
-    194
-    turėjo neleisti tokiems pabėgti į Vokietiją.
+    Išdavikas pranešė tikslią partizanų dislokacijos vietą. Liepos 22 d. apie
+    1500 NKVD karių ir stribų apsupo partizanų stovyklą. Partizanai nuo 10
+    iki 13 valandos drąsiai atmušinėjo priešo atakas.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -105,5 +103,6 @@ Sovietinė saugumo, vidaus reikalų ir represinė institucija bei kariuomenės s
 
 ## Ryšiai
 ### Laikotarpiai
+- [[laikotarpiai/XV amžius]]
 - [[laikotarpiai/XX amžius]]
 - [[laikotarpiai/XXI amžius]]

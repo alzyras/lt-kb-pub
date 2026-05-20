@@ -13,6 +13,8 @@ saltiniai:
 datos:
   - '1350 m.'
   - '1430 m.'
+  - '1547 m.'
+  - '1572 m.'
   - '1930 m.'
   - '1936 m.'
   - '2026 m.'
@@ -20,9 +22,9 @@ periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
-  - 'XIII'
   - 'XIV'
   - 'XV'
+  - 'XVI'
   - 'XX'
   - 'XXI'
 date_start: '1350'
@@ -41,50 +43,41 @@ tags:
 Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos palikuonys, kurių teisės sostams buvo pripažįstamos iš tradicijos (nė vienoje valstybėje nebuvo paveldėjamojo įstatymo). Tačiau, kai paskutinysis tos dinastijos valdovas, Zigmantas Augustas, baigė savo gyvenimą be jokio įpėdinio,.
 
 ## Teiginiai
-- t-002
-  teiginys: 'Paskutinysis Gediminaičių dinastijos valdovas Zigmantas Augustas mirė nepalikęs įpėdinio.'
+- t-007
+  teiginys: 'Mirus paskutiniajam Gediminaičių dinastijos valdovui Zigmantui Augustui, Lietuva ir Lenkija galėjo rinktis atskirus valdovus.'
   pagrindžia:
-    - c-002
+    - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Gediminaičių dinastijos Jogailos palikuonių teisės sostams buvo pripažįstamos iš tradicijos.'
+  santrauka: 'Mirus paskutiniajam Gediminaičių dinastijos valdovui Zigmantui Augustui, Lietuva ir Lenkija galėjo rinktis atskirus valdovus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Taip tad buvo, kol buvo neišmirusi Gediminaičių dinas-
     tija — Jogailos palikuonys, kurių teisės sostams buvo pripa-
     žįstamos iš tradicijos (nė vienoje valstybėje nebuvo paveldėja-
-    mojo įstatymo).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Paskutinysis Gediminaičių dinastijos valdovas Zigmantas Augustas mirė nepalikęs įpėdinio.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tačiau, kai paskutinysis tos dinastijos valdovas,
+    mojo įstatymo). Tačiau, kai paskutinysis tos dinastijos valdovas,
     Zigmantas Augustas, baigė savo gyvenimą be jokio įpėdinio,
     abi valstybės savo sumetimais galėjo išsirinkti sau atskirus val-
     dovus, kurie galėjo būti vienas kitam net priešingi — iš skir-
     tingų kraštų galėjo atsinešti ir skirtingus politinius siekimus.
-  citata_rodoma: ''
+    Tuo būdu abi valstybės galėjo nueiti visiškai skirtingais keliais.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-007
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
 
 ### Laikotarpiai
-- [[laikotarpiai/XIII amžius]]
 - [[laikotarpiai/XIV amžius]]
 - [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XVI amžius]]
 - [[laikotarpiai/XX amžius]]

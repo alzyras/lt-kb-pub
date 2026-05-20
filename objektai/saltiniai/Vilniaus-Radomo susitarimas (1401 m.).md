@@ -39,7 +39,10 @@ Po ilgų derybų, 1401 m. buvo pasiektas naujas susitarimas, kurs buvo patvirtin
   santrauka: '1401 m. Vilniaus-Radomo susitarimą atskirais dokumentais patvirtino Vytautas, Jogaila, Lietuvos ir Lenkijos bajorai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Po ilgų derybų, 1401 m. buvo pa-
+    Tuojau buvo iškeltas klau-
+    simas aiškiau sunormuoti Vytauto būklę. Vytautas tam nesiprie-
+    šino; jis ir dabar prisipažino gavęs Lietuvą iš Jogailos, bet tuo
+    tarpu neketino jos grąžinti. Po ilgų derybų, 1401 m. buvo pa-
     siektas naujas susitarimas, kurs buvo patvirtintas 4 atskirais do-
     kumentais: atskirais dokumentais jį patvirtino Vytautas, Jo-
     gaila, Lietuvos ir Lenkų bajorai.
@@ -54,7 +57,10 @@ Po ilgų derybų, 1401 m. buvo pasiektas naujas susitarimas, kurs buvo patvirtin
   santrauka: 'Vilniaus-Radomo susitarimas taip vadinamas todėl, kad Lietuvos dokumentai parašyti Vilniuje, o lenkų bajorų dokumentas surašytas Radome.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Vytauto ir Lietuvos bajorų
+    Po ilgų derybų, 1401 m. buvo pa-
+    siektas naujas susitarimas, kurs buvo patvirtintas 4 atskirais do-
+    kumentais: atskirais dokumentais jį patvirtino Vytautas, Jo-
+    gaila, Lietuvos ir Lenkų bajorai. Vytauto ir Lietuvos bajorų
     dokumentai buvo parašyti Vilniuje; Jogailos dokumentas yra žu-
     vęs, tad nežinia, kur jis duotas; lenkų bajorai savo dokumentą su-
     rašė Radome. Todėl šis susitarimas yra vadinamas Vilniaus

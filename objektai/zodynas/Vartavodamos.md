@@ -40,9 +40,9 @@ Papildomos aiškios formos neišskirtos.
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Veltui dar Abromaitis apskelbė raštą metuose 1595, mokydamas, kaip reikia, javais
-    vartavodamos^1491 , pigiai juos pirkti, o brangiai parduoti. Tuo tarpu žemaičiai vis dar norėjo per jūrą
-    pažines su svetimomis tautomis antturėti ir bičiulautis, to dėjęsi, dar metuose 1589 savo Šventąją
-    upę vokė^1492 , ketėdami tenai savo senovės įtaką, arba uostą, atnaujinti
+        vartavodamos^1491 , pigiai juos pirkti, o brangiai parduoti. Tuo tarpu žemaičiai vis dar norėjo per jūrą
+        pažines su svetimomis tautomis antturėti ir bičiulautis, to dėjęsi, dar metuose 1589 savo Šventąją
+        upę vokė^1492 , ketėdami tenai savo senovės įtaką, arba uostą, atnaujinti.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

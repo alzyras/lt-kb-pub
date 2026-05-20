@@ -50,39 +50,29 @@ Nenurodyta
 - t-003
   teiginys: 'Moterys ir vyrai avėjo rezginėmis arba vyženomis, o vyrai kojas vyniodavo autais, moterys su žekėmis.'
   pagrindžia:
-    - c-001
+    - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 - t-004
-  teiginys: 'Vyženos buvo toks svarbus daiktas, kad vaikai turėjo mokėti jas vyžti.'
+  teiginys: 'Šešerių ar septynerių metų vaikui nemokėti vyžti vyženų buvo laikoma didele gėda.'
   pagrindžia:
-    - c-002
+    - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Moterys ir vyrai avėjo rezginėmis arba vyženomis, o vyrai kojas vyniodavo autais, moterys su žekėmis.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Motriškųjų avalai buvo, kaip jei vyriškųjų, rezginės^336 ar vyženos, tiktai vyrai vilnonais ar
-    marškonais autais vyturo savo kojas, o motriškosios su žekėmis^337.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003
-- c-002
-  santrauka: 'Vyženos buvo toks svarbus daiktas, kad vaikai turėjo mokėti jas vyžti.'
+  santrauka: 'Šešerių ar septynerių metų vaikui nemokėti vyžti vyženų buvo laikoma didele gėda.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Ne vien didieji ir pusvaikiai buvo taip skudriais ir veikliais, bet dar mažieji vaikai, apsuk namus
-    po marškinių tviskinėjantys^389 žiemos laiku, su bočių ar bobute vilnas kedino, gijas vijo,
-    plunksnas plėšė ar vyženas vyžo didiesiems, nesgi už visų didžiausią gėdą sau turėjo vaikelis
-    šešergis ar septynergis nemokėti vyženų vyžti, aparų vyti ir tinklų megzti, virvių sukti, pynų^390
-    pinti, mezginių megzti, nerti, mazginių mazgoti.
+        po marškinių tviskinėjantys^389 žiemos laiku, su bočių ar bobute vilnas kedino, gijas vijo,
+        plunksnas plėšė ar vyženas vyžo didiesiems, nesgi už visų didžiausią gėdą sau turėjo vaikelis
+        šešergis ar septynergis nemokėti vyženų vyžti, aparų vyti ir tinklų megzti, virvių sukti, pynų^390
+        pinti, mezginių megzti, nerti, mazginių mazgoti. Vasarai išaušus, it mažtitelieji^391 , po kiemą
+        tviskinėdami, nė nuo vieno nemokomi, sauprasmiai svilksnis^392 ir seidokus^393 dirbo, vylyčias^394
+        drožė ir pleštekes^395 po kiemą bėgiodami šaudė, jau nuo mažų dienų į karę pratindamos, kaip
+        reiks kurią dieną su žvėrimis giriose ar laukuose su neprieteliais grumtis, liuosybę savo gyniojant.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -90,7 +80,24 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+- c-002
+  santrauka: 'Moterys ir vyrai avėjo rezginėmis arba vyženomis, o vyrai kojas vyniodavo autais, moterys su žekėmis.'
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Motriškųjų avalai buvo, kaip jei vyriškųjų, rezginės^336 ar vyženos, tiktai vyrai vilnonais ar
+        marškonais autais vyturo savo kojas, o motriškosios su žekėmis^337.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
 
 ## Pastabos
 
 - terminai čia gali turėti ir žodyninę vertę, bet šiame gabale jie aiškiai aprašo konkrečią avalynę ir kojas vyniojančius daiktus.
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/paprociai/Vaikų grūdinimas ir motinų auklėjimas]]

@@ -6,6 +6,22 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1399 m.'
+  - '1531 m.'
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'LDK'
+  - 'modernioji Lietuva'
+amziai:
+  - 'XIV'
+  - 'XVI'
+  - 'XX'
+  - 'XXI'
+date_start: '1399'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - pilis
@@ -20,32 +36,26 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
 
 ## Teiginiai
 - t-001
-  teiginys: 'Didžiojo valdovo palaikai buvo pervežti į Vilnių ir palaidoti Vilniaus katedros rūsyje po šv. Mykolo Arkangelo altoriumi.'
+  teiginys: 'Užbaigta Vilniaus katedra buvo pašventinta suteikiant jai Šv. Trejybės, Šv. Stanislovo ir Šv. Vladislovo titulus.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Vilniaus katedroje karalienė Bona altoriaus vietoje pastatė marmurinį paminklą, kuris žuvo per 1610 m. katedros gaisrą.'
+  teiginys: 'Vilniaus katedra sudegė 1399 m., o Vytauto pastatytą naują gotikinę katedrą 1531 m. sunaikino gaisras.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: 'Vilniaus katedroje Vytauto kapo paminklo jau nebebuvo nuo 1610 m. gaisro.'
-  pagrindžia:
-    - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Didžiojo valdovo palaikai buvo pervežti į Vilnių ir palaidoti Vilniaus katedros rūsyje po šv. Mykolo Arkangelo altoriumi.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: 'Užbaigta Vilniaus katedra buvo pašventinta suteikiant jai Šv. Trejybės, Šv. Stanislovo ir Šv. Vladislovo titulus.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Didžiojo valdovo lavonas buvo laikomas 8 die-
-    nas gimtojoje pilyje; paskui jis buvo pervežtas į Vilnių ir palaidotas
-    katedros rūsyje, po šv. Mykolo Arkangelo altorium.
+    Kadangi katedra jau buvo užbaigta statyti, tai sugrįžus
+    pasiuntiniams, pirmiausia ji buvo ir pašventinta, suteikiant jai
+    tris titulus: Šv. Trejybės, Šv. Stanislovo ir Šv. Vladislovo.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -54,12 +64,14 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Vilniaus katedroje karalienė Bona altoriaus vietoje pastatė marmurinį paminklą, kuris žuvo per 1610 m. katedros gaisrą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: 'Vilniaus katedra sudegė 1399 m., o Vytauto pastatytą naują gotikinę katedrą 1531 m. sunaikino gaisras.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Tada Zigmanto Augusto motina, ka-
-    ralienė Bona, altoriaus vietoje buvo pastačiusi marmurinį paminklą;
-    bet kai 1610 m. apdegė katedra, žuvo ir šis paminklas.
+    Stanislovas —
+    lenkų tautos šventasis) ir trečias priminė Jogailą Vladislovą,
+    katedros fundatorių. Bet ši katedra 1399 metais sudegė. Ta­
+    da Vytautas buvo pastatęs naują gotiško stiliaus katedrą,
+    bet ir ją gaisras sunaikino 1531 m.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -67,23 +79,10 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Vilniaus katedroje Vytauto kapo paminklo jau nebebuvo nuo 1610 m. gaisro.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Vilniaus katedroje Vytauto kapo paminklo jau nebebuvo nuo
-    1610 m. gaisro. Tik 1853 m. grafas E. Tiškevičius toje vietoje, kur
-    turėjo būti senasis šv. Mykolo altorius, pastatė naują paminklą; tai
-    marmurinė lenta su atkartotu karalienės Bonos užrašu ir nauju prie-
-    rašu.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Vytauto palaidojimas Vilniaus katedroje]]
+### Laikotarpiai
+- [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XVI amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

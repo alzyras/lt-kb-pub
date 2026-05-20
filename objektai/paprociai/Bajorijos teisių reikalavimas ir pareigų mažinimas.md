@@ -45,7 +45,9 @@ Nenurodyta
   santrauka: 'Lenkų pavyzdžiu einanti bajorija kaskart vis daugiau reikalavo sau teisių ir nuolat mažino sau pareigas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Lenkų pavyzdžiu einanti bajorija kaskart vis dau-
+    Apskritai Zigmanto laikais gyvenimas Lietuvoje labai pa-
+    gerėjo; ypač padaugėjo mokyklų. Bet kunigaikščio valdžia nuo-
+    lat silpnėjo. Lenkų pavyzdžiu einanti bajorija kaskart vis dau-
     giau reikalavo sau teisių ir nuolat mažino sau pareigas.
   citata_rodoma: ""
   teiginio_tipas: faktas

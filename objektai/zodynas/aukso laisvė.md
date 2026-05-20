@@ -29,7 +29,10 @@ Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vad
   santrauka: 'Vadinamoji „aukso laisvė“ leido galingiesiems nieko neklausyti ir elgtis kaip tinkamiems.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Didžiū-
+    Tik dėl Maskvos nusilpimo tepavyko atgauti didelius žemių
+    plotus.
+    Kaip tik Zigmanto laikais tiek Lenkijoje, tiek Lietuvoje įsi-
+    galėjo vėliau dar labiau įsivyravusi vidaus netvarka. Didžiū-
     nams bekovojant su užsispyrėliu karalium ir tarpusavy, įsiga-
     lėjo vadinamoji „aukso laisvė": kas tik buvo galin-
     gas, galėjo nieko neklausyti ir elgtis kaip tinkamas.
@@ -40,3 +43,7 @@ Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vad
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/posakiai/aukso laisvė tikroji laisvė]]

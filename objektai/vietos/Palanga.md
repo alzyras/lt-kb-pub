@@ -6,6 +6,18 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1936 m.'
+  - '1959 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1936'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - ordinas
@@ -20,21 +32,23 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Šia sutartim Švitrigaila sutiko atiduoti kryžiuočiams Palangą ir trejetą mylių pajūrio ruožo.'
+  teiginys: 'Sukilėliai planavo užimti Palangos ir Liepojos uostus.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Šia sutartim Švitrigaila sutiko atiduoti kryžiuočiams Palangą ir trejetą mylių pajūrio ruožo.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: 'Sukilėliai planavo užimti Palangos ir Liepojos uostus.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Skirsnemunėje buvo padaryta su ordinu sąjunga, kuri or-
-    dinui buvo ypatingai maloni, nes čia jam šmėkštelėjo viltis revi-
-    duoti Melno taikos sąlygas. Šia sutartim Švitrigaila sutiko ati-
-    duoti kryžiuočiams Palangą ir trejetą mylių pajūrio ruožo.
+    ginklų ir savanorių iš Londono. Sukilėliai
+    planavo užimti Palangos ir Liepojos uos-
+    tus. Turėdami savo rankose uostų kontrolę,
+    sukilėliai tikėjosi palaikyti nuolatinius
+    ryšius su Lenkija ir kitomis šalimis, iš kur
+    tikėtasi paramos.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -44,5 +58,9 @@ tags:
     - t-001
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
 ### Susiję objektai
-- [[objektai/vietos/Skirsnemunė]]
+- [[objektai/vietos/Liepoja]]

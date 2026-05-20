@@ -29,7 +29,11 @@ Vilniuje liuterionys ir kalvinai turėjo po bažnyčią.
   santrauka: 'Vilniuje liuterionys ir kalvinai turėjo po bažnyčią.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Vilniuje liuterionys ir kalvinai turėjo po bažnyčią.
+    Protestantai buvo silpnesni, todėl jie daugiau ir nu-
+    kentėdavo. Pavyzdžiui, 1611 m. per Dievo Kūno procesiją vie-
+    nas protestantas, Ostijos garbinimą išvadinęs stabmeldyste,
+    buvo minios apkultas, suimtas, o vėliau pasmerktas mirti ir nu-
+    kankintas. Vilniuje liuterionys ir kalvinai turėjo po bažnyčią.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

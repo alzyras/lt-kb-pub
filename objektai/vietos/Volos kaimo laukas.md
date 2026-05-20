@@ -36,6 +36,7 @@ Jis turėjo būti bendrai renkamas Volos kaimo lauke, netoli Varšuvos, dalyvauj
     karaliui. Jis turėjo būti bendrai renkamas Volos kaimo
     lauke, netoli Varšuvos, dalyvaujant visiems abiejų valstybių
     bajorams. Bet į elekciją, žinoma, susirinkdavo ne visi, o tik arti-
+    mųjų sričių ir, be to, tik turtingesnieji bajorai.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

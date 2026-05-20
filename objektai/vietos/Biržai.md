@@ -6,6 +6,20 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1625 m.'
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'LDK'
+  - 'modernioji Lietuva'
+amziai:
+  - 'XVII'
+  - 'XX'
+  - 'XXI'
+date_start: '1625'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - vieta
@@ -18,13 +32,13 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
 
 ## Teiginiai
 - t-001
-  teiginys: 'Biržai ir Kėdainiai buvo vienos Radvilų šeimos šakos centrai.'
+  teiginys: '1625 m. švedai iš Biržų išvežė patranką.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Protestantų mokyklos buvo įkurtos Vilniuje, Brastoje, Nesvyžiuje, Semetyčiuose, Šiluvoje, Biržuose, Kėdainiuose, Slucke, o pradžios mokyklų buvo beveik kiekvienoj jų parapijoj.'
+  teiginys: 'Biržuose ir Slucke liko tokios pat silpnos mokyklėlės kaip Kėdainiuose.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -32,11 +46,13 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Biržai ir Kėdainiai buvo vienos Radvilų šeimos šakos centrai.'
+  santrauka: '1625 m. švedai iš Biržų išvežė patranką.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Radvilų šeimos buvo dvi šakos. Vienos centras buvo Biržai
-    ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje).
+    Pirmoji (gražiausioji) yra
+    nulieta Nesvyžiaus Radvilų liejykloje 1602 m. Ant jos yra Radvilų herbas
+    ir atitinkamas užrašas. Švedai išvežė ją iš Biržų 1625 m.
+    niją, turėdamas daug reikalų namie, nebenorėjo kariauti.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -45,12 +61,14 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Protestantų mokyklos buvo įkurtos Vilniuje, Brastoje, Nesvyžiuje, Semetyčiuose, Šiluvoje, Biržuose, Kėdainiuose, Slucke, o pradžios mokyklų buvo beveik kiekvienoj jų parapijoj.'
+  santrauka: 'Biržuose ir Slucke liko tokios pat silpnos mokyklėlės kaip Kėdainiuose.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Protestantų mokyklos buvo įkurtos Vilniuje, Brastoje, Nesvy-
-    žiuje, Semetyčiuose, Šiluvoje, Biržuose, Kėdainiuose, Slucke, o pra-
-    džios mokyklų buvo beveik kiekvienoj jų parapijoj.
+    Kėdainiuose teliko tik
+    magistrato išlaikoma silpna mokyklėlė. Tokios pat mokyklėlės
+    liko Biržuose ir Slucke.
+
+    #### 7.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -60,6 +78,7 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
     - t-002
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Nesvyžius]]
-- [[objektai/vietos/Olyka]]
+### Laikotarpiai
+- [[laikotarpiai/XVII amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

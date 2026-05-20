@@ -13,15 +13,31 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 laikotarpis: ''
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1248 m.'
+  - '1260 m.'
+  - '1292 m.'
+  - '1311 m.'
+  - '1350 m.'
+  - '1430 m.'
+  - '1930 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'viduramžiai'
+periodo_grupes:
+  - 'LDK'
+  - 'viduramžiai'
+amziai:
+  - 'XIII'
+  - 'XIV'
+  - 'XV'
+  - 'XX'
+  - 'XXI'
+date_start: '1248'
+date_end: '2026'
 patikimumas: 'aukstas'
 tags: []
 ---
@@ -42,28 +58,40 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
 
 ## Teiginiai
 - t-006
-  teiginys: 'Petras Dusburgas nurodė, kad vienoje Žemaitijoje buvo net 70 tokių „karaliukų“.'
+  teiginys: '„Prūsijos žemės kronikoje“ pasakojama, kad 1292 m. Pukuveras pasiuntė Vytenį su didele kariuomene į Bresto žemę Lenkijoje.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-007
-  teiginys: 'Mikalojus iš Jarošino, versdamas Dusburgo kroniką iš lotynų į vokiečių kalbą, pridėjo papildymų ir paaiškinimų nuo savęs.'
+  teiginys: '„Prūsijos žemės kronikoje“ rašoma, kad 1311 m. Vytenis su didele kariuomene nusiaubė Sembą ir Notangą.'
   pagrindžia:
     - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Petras Dusburgas nurodė, kad vienoje Žemaitijoje buvo net 70 tokių „karaliukų“.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: '„Prūsijos žemės kronikoje“ pasakojama, kad 1292 m. Pukuveras pasiuntė Vytenį su didele kariuomene į Bresto žemę Lenkijoje.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Kryžiuočių kronikininkas P. Dusburgas pav. vienoje Žemai­
-    tijoje žino tokių „karaliukų” net 70, o Volynijos kronika sako
-    1248 met. vienam mūšy žuvę net 40 jotvingių kunigų.^3 )
+    NUSIAUBTA LENKIJA
+
+    Ištrauka iš Petro Dusburgiečio „Prūsijos
+    žemės kronikos“ apie Lietuvos karaliaus
+    Pukuvero sūnaus Vytenio įsiveržimą į
+    Lenkiją 1292 m.
+
+    „Pukuveras, Lietuvos karalius, tais pačiais
+    metais pasiuntė savo sūnų Vytenį su didele
+    kariuomene į Lenkiją, į Bresto žemę; kai
+    jie ten pridarė daug žalos, galybę žmonių
+    nukovę bei paėmę į nelaisvę...“
+
+    buvo atremti Aukso ordos, rusų kunigaikš
+    čių bei Livonijos ordino antpuoliai.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -72,14 +100,25 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
   pagrindžia:
     - t-006
 - c-002
-  santrauka: 'Mikalojus iš Jarošino, versdamas Dusburgo kroniką iš lotynų į vokiečių kalbą, pridėjo papildymų ir paaiškinimų nuo savęs.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: '„Prūsijos žemės kronikoje“ rašoma, kad 1311 m. Vytenis su didele kariuomene nusiaubė Sembą ir Notangą.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Tuo klausimu įdo­
-    mus yra pastebėjimas P. Dusburgo amžininko, Mikalojaus iš
-    Jarošino, kuris beversdamas kalbamą Dusburgo kroniką iš lo­
-    tynų į vokiečių kalbą, pridėjo nemaža papildymų ir paaiški­
-    nimų nuo savęs^1 ).
+    Valdant Gediminui
+    Lietuva ėmė sparčiai plėstis į rytus
+
+    LIETUVIAI SEMBOJE IR NOTANGOJE
+
+    Ištrauka iš Petro Dusburgiečio „Prūsijos žemės kronikos“ apie Vytenio įsiveržimą į
+    Ordino žemes:
+
+    „1311 viešpaties metais, per Užgavėnes, Vytenis, Lietuvos karalius, su didele kariuomene,
+    degindamas ir plėšdamas, nusiaubė Sembą ir Notangą, išžudė daug žmonių, o beveik
+    penkis šimtus išsivarė į nelaisvę drauge su dideliu grobiu...“
+
+    LIETUVIAI PRIE RYGOS
+
+    Ištrauka iš Hermano Vartbergės „Livonijos kronikos“ kaip lietuviai su apgulimo ma-
+    šinomis sunaikina Piltenės pilį.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

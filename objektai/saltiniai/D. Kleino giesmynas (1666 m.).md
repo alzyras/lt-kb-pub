@@ -31,7 +31,8 @@ Kleinas išleido net pirmąją lietuvių kalbos gramatiką, o 1666 m. — dvi gi
   santrauka: '1666 m. D. Kleinas išleido dvi giesmių knygas, tapusias pagrindu vėlesnėms lietuvių liuterionių giesmynų laidoms.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Nors lietuviškų knygų spausdinimas
+    Didelė lietuvių parapija buvo net Karaliau-
+    čiuje. Nors lietuviškų knygų spausdinimas
     buvo ir labai sumažėjęs, tačiau nebuvo vi-
     siškai sustojęs; taip antai, 1653 m. D. Klei-
     nas išleido net pirmąją lietuvių kalbos gra-

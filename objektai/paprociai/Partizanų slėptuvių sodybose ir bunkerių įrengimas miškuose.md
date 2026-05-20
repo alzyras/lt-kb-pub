@@ -48,7 +48,7 @@ Nenurodyta
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-006
-  teiginys: 'Vėliau jie įsirengė gerai užmaskuotas slėptuves sodybose ir miške.'
+  teiginys: 'Partizanai slėptuves įsirengdavo sodybose, o nenorėdami pakenkti rėmėjams stengdavosi bunkerius įrengti miške.'
   pagrindžia:
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -87,7 +87,7 @@ Nenurodyta
   pagrindžia:
     - t-005
 - c-002
-  santrauka: 'Vėliau jie įsirengė gerai užmaskuotas slėptuves sodybose ir miške.'
+  santrauka: 'Partizanai slėptuves įsirengdavo sodybose, o nenorėdami pakenkti rėmėjams stengdavosi bunkerius įrengti miške.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Slėptuvę būdavo patogu įsirengti pas žmones sodyboje - po

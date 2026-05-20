@@ -12,17 +12,6 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 laikotarpis: '1911 m.; 1922-1930 m.; 1923 m.; 1930 m.; 1936 m.'
-datos:
-  - '1911 m.'
-  - '1922-1930 m.'
-  - '1923 m.'
-  - '1930 m.'
-  - '1936 m.'
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
 vaidmenys:
   - 'istorikas'
   - 'autorius'
@@ -31,6 +20,26 @@ vaidmenys:
   - 'tikrintojas'
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1350 m.'
+  - '1430 m.'
+  - '1911 m.'
+  - '1922 m.'
+  - '1923 m.'
+  - '1930 m.'
+  - '1936 m.'
+  - '1978 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+  - 'XV'
+  - 'XX'
+  - 'XXI'
+date_start: '1350'
+date_end: '2026'
 patikimumas: 'aukštas'
 tags:
   - autorius
@@ -49,55 +58,15 @@ A. Alekna minimas kaip nusipelnęs istorikas, kelių Lietuvos ir Bažnyčios ist
 
 ## Teiginiai
 - t-009
-  teiginys: 'A. Aleknos „Lietuvos istorijos“ antras leidimas buvo išleistas Tilžėje 1923 m.'
+  teiginys: 'A. Alekna peržiūrėjo ir patikrino Vytautui Didžiajam skirtą monografiją.'
   pagrindžia:
-    - c-006
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-010
-  teiginys: 'Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patarimais ir buvo numatytas įžangos žodžio autorius.'
-  pagrindžia:
-    - c-005
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-011
-  teiginys: 'Prof. A. Alekna peržiūrėjo ir patikrino apie Vytautą Didįjį išleistą plačią monografiją.'
-  pagrindžia:
-    - c-007
+    - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-005
-  santrauka: 'Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patarimais ir buvo numatytas įžangos žodžio autorius.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Pagaliau nieku būdu negalime praeiti pro šalį nepareiškę
-    didelio dėkingumo gerb. prof. A. Aleknai mielai padėju­
-    siam naudingais patarimais šią monografiją rašant bei reda­
-    guojant, ir kartu apgailestaujam, kad gerb, profesorius dėl
-    ligos negalėjo parašyti šiai knygai įžangos žodžio.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-010
-- c-006
-  santrauka: 'A. Aleknos „Lietuvos istorijos“ antras leidimas buvo išleistas Tilžėje 1923 m.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Alekna, A., Lietuvos istorija. Antras leidimas. Tilžė, 1923.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-009
-- c-007
-  santrauka: 'Prof. A. Alekna peržiūrėjo ir patikrino apie Vytautą Didįjį išleistą plačią monografiją.'
+- c-001
+  santrauka: 'A. Alekna peržiūrėjo ir patikrino Vytautui Didžiajam skirtą monografiją.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytauto Didžiojo 500 jubiliejaus metu proga „Sakalo“ B-vė išleido apie
@@ -110,8 +79,14 @@ A. Alekna minimas kaip nusipelnęs istorikas, kelių Lietuvos ir Bažnyčios ist
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-011
+    - t-009
 
 ## Ryšiai
 ### Laikotarpiai
+- [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XV amžius]]
 - [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
+### Susiję objektai
+- [[objektai/grupes/Sakalo bendrovė]]

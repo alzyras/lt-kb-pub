@@ -7,6 +7,21 @@ aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1387 m.'
+  - '1936 m.'
+  - '1978 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'LDK'
+  - 'modernioji Lietuva'
+amziai:
+  - 'XIV'
+  - 'XX'
+  - 'XXI'
+date_start: '1387'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - ritualas
@@ -34,35 +49,23 @@ Nenurodyta
 
 ## Teiginiai
 - t-008
-  teiginys: 'Per Lietuvos krikšto apeigas Gedimino sostinėje pirmiausia turėjo būti krikštijami bajorai.'
+  teiginys: 'Po Lietuvos krikšto bažnyčios pradėtos statyti Ukmergėje, Maišiogaloje, Medininkuose, Nemenčinėje ir kitose rytinės Lietuvos vietose.'
   pagrindžia:
-    - c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-009
-  teiginys: 'Jogailos įsakymu buvo naikinami pagoniški aukų židiniai, šventi medžiai, giraitės ir namuose gerbiami žalčiai.'
-  pagrindžia:
-    - c-004
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-010
-  teiginys: 'Kiekvienas pakrikštytasis gaudavo baltą rūbą.'
-  pagrindžia:
-    - c-005
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+    - c-001
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Per Lietuvos krikšto apeigas Gedimino sostinėje pirmiausia turėjo būti krikštijami bajorai.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+- c-001
+  santrauka: 'Po Lietuvos krikšto bažnyčios pradėtos statyti Ukmergėje, Maišiogaloje, Medininkuose, Nemenčinėje ir kitose rytinės Lietuvos vietose.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Kaip prieš metus Krokuvoje buvo įvykdy­
-    tas Lietuvos kunigaikščių krikštas, taip Gedimino sostinėje pir­
-    miausia turėjo būti krikštijami bajorai. Tas krikštas simbolizavo
-    visos Lietuvos prisijungimą prie Romos tikėjimo, kurio liepsnelė
-    jau vienur kitur ruseno nuo Mindaugo bandytos įvesti krikščiony­
-    bės.
+    Taip pat
+    tuojau buvo pradėtos statyti bažnyčios ir provincijoje: Uk­
+    mergėje, Maišiogaloje, Medininkuose (Viln.), Nemenčine, o kiek
+    vėliau ir kitose rytinės Lietuvos vietose.
+    Vilniaus katedrai ir steigiamajai vyskupijai Jogaila užra­
+    šė (1387.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -70,41 +73,16 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-008
-- c-004
-  santrauka: 'Jogailos įsakymu buvo naikinami pagoniški aukų židiniai, šventi medžiai, giraitės ir namuose gerbiami žalčiai.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Paties Jogailos įsakymu Vilniaus pilies papėdėje esančioje
-    alkvietėje ir kitur aplink buvo sunaikinti aukų židiniai. Buvo
-    liepta iškirsti šventais laikomus medžius ir giraites, išmušti namuose
-    gerbiamus žalčius. Nesant užtenkamai kunigų, mokančių lietuviš­
-    kai, esą pats Jogaila išvertęs lietuvių kalbon «Tėve mūsų» ir
-    « Tikiu į Dievą Tėvą ».
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-009
-- c-005
-  santrauka: 'Kiekvienas pakrikštytasis gaudavo baltą rūbą.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Atgautos nekaltybės ženklan kiekvienas pakrikštytasis gau­
-    davo baltą rūbą.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-010
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/religinė-praktika]]
 - [[temos/ritualas]]
+
+### Laikotarpiai
+- [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/ivykiai/Lietuvos krikštas]]

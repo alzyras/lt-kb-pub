@@ -32,7 +32,10 @@ Tilžėje padaryta su Aleksandru I taika (1807 m.) palaidojo Lietuvos bajorų vi
   santrauka: 'Tilžėje padaryta su Aleksandru I taika (1807 m.) palaidojo Lietuvos bajorų viltis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tilžėje padaryta su Aleksandru I taika
+    Tuo tikslu pas Napoleoną į Tilžę
+    buvo nuvykusi net slapta Lietuvos bajorų delegacija. Bet iš to
+    nieko neišėjo, nes Napoleonas nenorėjo kariauti su caru Alek-
+    sandru I (1801—1825 m.). Tilžėje padaryta su Aleksandru I taika
     (1807 m.) palaidojo Lietuvos bajorų viltis.
   citata_rodoma: ""
   teiginio_tipas: faktas

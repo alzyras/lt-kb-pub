@@ -1,0 +1,79 @@
+---
+tipas: grupe
+pavadinimas: '1-asis pėstininkų pulkas'
+sukurta: '2026-05-20'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
+patikimumas: 'vidutinis'
+tags:
+  - grupe
+---
+# 1-asis pėstininkų pulkas
+
+## Santrauka
+
+Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų žvalgų komanda, du raitelių eskadronai ir karin. Tuo tarpu 1-asis pėstininkų pulkas puolimą pradėjo naktį iš 23 į 24 d. palei Zarasų plentą ir siekė pralaužti atsparumu pagarsėjusią „Bružų poziciją“, tačiau lietuviai patyrė nemažų nuostolių ir puolimas nepavyko.
+
+## Teiginiai
+- t-001
+  teiginys: 'Dešiniąją koloną sudarė du 1-ojo pėstininkų pulko batalionai, raitųjų žvalgų komanda, du raitelių eskadronai ir M. Pečiulionio vadovaujama 4-oji baterija.'
+  pagrindžia:
+    - c-001
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: 'Tuo tarpu 1-asis pėstininkų pulkas puolimą pradėjo naktį iš 23 į 24 d. palei Zarasų plentą ir siekė pralaužti atsparumu pagarsėjusią „Bružų poziciją“, tačiau lietuviai patyrė nemažų nuostolių ir puolimas nepavyko.'
+  pagrindžia:
+    - c-002
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Dešiniąją koloną sudarė du 1-ojo pėstininkų pulko batalionai, raitųjų žvalgų komanda, du raitelių eskadronai ir M. Pečiulionio vadovaujama 4-oji baterija.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Dešiniąją koloną sudarė 1-ojo pės-
+    tininkų pulko du batalionai, raitųjų
+    žvalgų komanda, du raitelių eskadronai
+    ir karin. M. Pečiulionio vadovaujama
+    nepilnos sudėties 4-oji baterija (3 patran-
+    kos). Šiai kolonai vadovavo pats Ladyga.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Tuo tarpu 1-asis pėstininkų pulkas puolimą pradėjo naktį iš 23 į 24 d. palei Zarasų plentą ir siekė pralaužti atsparumu pagarsėjusią „Bružų poziciją“, tačiau lietuviai patyrė nemažų nuostolių ir puolimas nepavyko.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Tuo tarpu 1-asis pėstininkų pulkas puo-
+    limą pradėjo naktį iš 23 į 24 d. palei Zarasų
+    plentą ir siekė pralaužti atsparumu pagarsė-
+    jusią „Bružų poziciją“, tačiau lietuviai patyrė
+    nemažų nuostolių ir puolimas nepavyko.
+    "Tuomet I brigados vadas karin. K. Ladyga
+    įsakė pulti bolševikus Degučių plentu,
+    Zarasų kryptimi.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/M. Pečiulionis]]

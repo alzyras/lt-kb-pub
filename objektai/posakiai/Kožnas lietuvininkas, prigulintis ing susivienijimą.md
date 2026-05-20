@@ -29,7 +29,10 @@ tags:
   santrauka: 'Susivienijimo įstatai reikalavo, kad kiekvienas narys palaikytų savo naciją, padėtų nelaimės ištiktam broliui ir rodytų gerą pavyzdį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Šio Susivienijimo įstatuose buvo įrašytas toksai reika-
+    Tačiau jis greitai žuvo. Jo vietoje lietuvių kunigų pastangomis
+    tuojau buvo įkurtas kitas — Susivienijimas Visų
+    Draugysčių Katalikiškų Lietuviškų Ameri-
+    koje. Šio Susivienijimo įstatuose buvo įrašytas toksai reika-
     lavimas: „Kožnas lietuvininkas, prigulintis ing susivienijimą, pri-
     valo užlaikyti savo naciją, priduot pagelbą savo broliui nelai-
     mėje būvančiam, vest dievobaimingą gyvenimą ir davinėti gerą

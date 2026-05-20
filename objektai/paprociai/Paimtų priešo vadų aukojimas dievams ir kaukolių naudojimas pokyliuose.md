@@ -54,10 +54,10 @@ Nenurodyta
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Tarp paimtųjų neprietelių karėje didžiuosius jų vyresniuosius gyvus dievams savo aukavo tokiu
-    būdu: sugautąjį neprietelių atmoną ar kitą karvedį, pririšę žirgo kojas prie keturių stiebų, patį
-    šarvuotą, kaip buvo kariavęs, pasodino ant jo su visais jo ginklais, paskui, sukrovę malkinę po apačia,
-    sudegino. Jei buvo keletą vyresniųjų sugavę, tad lėmė, kurs būt vertesnis dievams aukauti, tą, kurį
-    nulėmė, taip pat sudegino, kaip jei pirmąjį.
+        būdu: sugautąjį neprietelių atmoną ar kitą karvedį, pririšę žirgo kojas prie keturių stiebų, patį
+        šarvuotą, kaip buvo kariavęs, pasodino ant jo su visais jo ginklais, paskui, sukrovę malkinę po
+        apačia, sudegino. Jei buvo keletą vyresniųjų sugavę, tad lėmė, kurs būt vertesnis dievams aukauti,
+        tą, kurį nulėmė, taip pat sudegino, kaip jei pirmąjį.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

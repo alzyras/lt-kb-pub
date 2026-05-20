@@ -31,7 +31,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tačiau karalaitis Vladislovas, turėdamas Maskvos bajorų pasirašytą jo išrinkimo raštą, titulavosi caru ir 1617 m. žygiavo užimti Maskvos; kariuomenei vadovavo Katkevičius.'
+  teiginys: 'Karalaitis Vladislovas titulavosi caru ir 1617 m. žygiavo užimti Maskvos, o kariuomenei vadovavo Katkevičius.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -39,10 +39,12 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tačiau karalaitis Vladislovas, turėdamas Maskvos bajorų pasirašytą jo išrinkimo raštą, titulavosi caru ir 1617 m. žygiavo užimti Maskvos; kariuomenei vadovavo Katkevičius.'
+  santrauka: 'Karalaitis Vladislovas titulavosi caru ir 1617 m. žygiavo užimti Maskvos, o kariuomenei vadovavo Katkevičius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tačiau karalaitis Vladislovas, turėdamas
+    Smolenskas XVII amžiuje.
+    (Senas raižinys).
+    kenkė ir savo sūnui. Tačiau karalaitis Vladislovas, turėdamas
     Maskvos bajorų pasirašytą jo išrinkimo raštą, titulavosi caru ir
     1617 m. žygiavo užimti Maskvos; kariuomenei vadovavo Kat-
     kevičius.

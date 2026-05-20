@@ -34,17 +34,17 @@ Ji buvo daug platesnė, negu Mindaugo laikais, nes Traidenio klausė ir žemaič
 - t-004
   teiginys: 'Jotvingiai čia rodomi kaip pagonių vardu aiškinti Žaliosios girios gyventojai.'
   pagrindžia:
-    - c-003
+    - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-003
+- c-001
   santrauka: 'Jotvingiai čia rodomi kaip pagonių vardu aiškinti Žaliosios girios gyventojai.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Žaliosios girios gyventojai vadinos žalgirėnais apie Gardiną,
-    Drohičiną ir Chelmą, tankiai dar jacvingais, jazigais^108 nuo gudiško žodžio jazyci, tai yra pagonys.
+        Drohičiną ir Chelmą, tankiai dar jacvingais, jazigais^108 nuo gudiško žodžio jazyci, tai yra pagonys.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

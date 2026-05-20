@@ -6,6 +6,20 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1393 m.'
+  - '1399 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodo_grupes:
+  - 'LDK'
+  - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XIV'
+  - 'XXI'
+date_start: '1393'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - kraštas
@@ -18,25 +32,10 @@ tags:
 Lietuviai atkakliai siekė išvengti karinių bazių, išsaugoti savo etnines žemes, atgauti kelis lietuviškus Vilniaus krašto rajonus (Švenčionis ir Druskininkus).
 
 ## Teiginiai
-- t-001
-  teiginys: 'Lietuviai siekė atgauti Švenčionis ir Druskininkus kaip lietuviškus Vilniaus krašto rajonus.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Lietuviai siekė atgauti Švenčionis ir Druskininkus kaip lietuviškus Vilniaus krašto rajonus.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lietuviai at-
-    kakliai siekė išvengti karinių bazių, išsaugoti savo etnines žemes, atgauti
-    kelis lietuviškus Vilniaus krašto rajonus (Švenčionis ir Druskininkus).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XXI amžius]]

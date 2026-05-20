@@ -1,0 +1,195 @@
+---
+tipas: asmuo
+pavadinimas: 'Zigmantas Liuksemburgietis'
+sukurta: '2026-05-20'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+datos:
+  - '1420 m.'
+  - '1422 m.'
+  - '1423 m.'
+  - '1430 m.'
+  - '1923 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XV'
+  - 'XX'
+date_start: '1420'
+date_end: '1923'
+patikimumas: 'vidutinis'
+tags:
+  - asmuo
+  - karalius
+  - kunigaikštis
+  - popiežius
+---
+# Zigmantas Liuksemburgietis
+
+## Santrauka
+
+Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyti užimtąsias žemes, o ciesorius Zigmantas savo sprendimu Breslave (1420) prisky­ rė jiems ir Žemaitiją. Ciesoriui Zigmantui šitoks Vytauto žygis buvo labai kar­ tus. Po to buvo susitaikinta ir su ciesorium Zigmantu, kuris Kėzmarko suvažiavime (1423) panaikino Breslavo sprendimą, (^1) ) C.
+
+## Teiginiai
+- t-001
+  teiginys: 'Zigmantas Liuksemburgietis 1420 m. Breslavo sprendimu priskyrė Ordinui ir Žemaitiją.'
+  pagrindžia:
+    - c-001
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: 'Zigmantas Liuksemburgietis kurstė popiežių, ordinus, Hanzos miestus ir Vokietijos kunigaikščius kariauti su Vytautu.'
+  pagrindžia:
+    - c-002
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-003
+  teiginys: 'Zigmantas Liuksemburgietis Kėzmarke pasiūlė Vytautui karaliaus karūną ir visišką nepriklausomybę nuo Jogailos bei Lenkijos.'
+  pagrindžia:
+    - c-003
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-004
+  teiginys: 'Zigmantas Liuksemburgietis stengėsi perimti į savo rankas kryžiuočių ginčą su Lietuva ir Lenkija.'
+  pagrindžia:
+    - c-004
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-005
+  teiginys: 'Zigmantas Liuksemburgietis Lucke pasiūlė Jogailai karūnuoti Vytautą.'
+  pagrindžia:
+    - c-005
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-006
+  teiginys: 'Zigmantas dažnai klausinėja Vytautą apie karūnacijos terminą ir skatina jį negaišt.'
+  pagrindžia:
+    - c-006
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Zigmantas Liuksemburgietis 1420 m. Breslavo sprendimu priskyrė Ordinui ir Žemaitiją.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Kryžiuočiai vis dar nenorėjo pripažinti savo pra­
+    laimėjimo Konstancijos susirinkime ir visokeriopais būdais sten­
+    gėsi atgauti prarastą garbę. Martynas V jiems grąžino popie­
+    žiaus Jono XXIII atimtas privilegijas valdyti užimtąsias žemes,
+    o ciesorius Zigmantas savo sprendimu Breslave (1420) prisky­
+    rė jiems ir Žemaitiją. Vytautui reikėjo ginti apkrikštytus že­
+    maičius, ir tas neapsiėjo be karo, kuris įvyko 1422 m.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Zigmantas Liuksemburgietis kurstė popiežių, ordinus, Hanzos miestus ir Vokietijos kunigaikščius kariauti su Vytautu.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Ciesoriui Zigmantui šitoks Vytauto žygis buvo labai kar­
+    tus. Jis pabijojo, kad Vytautas nepradėtų Čekijoje uoliai šei­
+    mininkauti ir jos nepaveržtų. Todėl kurstė prieš Vytautą po­
+    piežių, abu Ordinus, Hanzos miestus, Vokietijos kunigaikščius,
+    — visus juos kviesdamas į karą su Vytautu, globojančiu hereti­
+    kus^1 ).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Zigmantas Liuksemburgietis Kėzmarke pasiūlė Vytautui karaliaus karūną ir visišką nepriklausomybę nuo Jogailos bei Lenkijos.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Vytautas šiuo laiku atmetė ir gundymą suardyti uniją, ka­
+    da jis buvo nuvykęs į Kėzmarką pas Vengrų karalių Zigmantą,
+    norėdamas jį palenkti, kad ištesėtų paliaubas su Lenkija. Zig­
+    mantas atsisakė išpildyti tuo atveju, jei kiltų karas tarp Lenki­
+    jos ir Ordino. Užtat slaptai, nedalyvaujant lenkų ponams, ku­
+    rie kartu buvo atvykę su Vytautu, pasiūlė jam karaliaus karū­
+    ną, žadėdamas visišką nepriklausomybę nuo Jogailos ir Lenki­
+    jos ir net pagalbą prieš juos, jeigu jie priešintųsi. Bet Vytau­
+    tas, ką jis priminė vėliau lenkams, nesileido į jokias derybas
+    tuo klausimu, bet priešingai, sugrįžęs tuojau pranešė Jogailai
+    tuos pasitarimus^2 ).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Zigmantas Liuksemburgietis stengėsi perimti į savo rankas kryžiuočių ginčą su Lietuva ir Lenkija.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Abi
+    pusės išvažinėjo labai susierzinusios ir išsiskubino su skundais
+    pas Zigmantą L., kuris kaskart vis labiau stengėsi paimti į savo
+    rankas kryžiuočių ginčą su Lietuvą ir Lenkija. Galop paaiš­
+    kėjo, kad ginčą išspręsti gali padėti tik ginklas. Buvo
+    jau net suruoštas ir žygis, bet Zigmantui ir popiežiaus legatams
+    tarpininkaujant, ginklai buvo laikinai sustabdyti.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: 'Zigmantas Liuksemburgietis Lucke pasiūlė Jogailai karūnuoti Vytautą.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Atsitiko taip.
+    Dvi dienos prieš Jogailos išvažiavimą iš Lucko, Zigmantas už­
+    ėjo pas Jogailą ir pasiūlė jam karūnuoti Lucko suvažiavimo šei­
+    mininką, kuris nemažai vargo padėjo sušaukdamas čia valdo­
+    vus ir tiek daug nusipelnė ne tik Lietuvai, įvesdamas joje krikš­
+    čionybę, bet ir visai Europai, sulaikydamas totorių užplūdimą
+    ir iškeldamas bažnyčių unijos problemą. Jogaila, išgirdęs, kad
+    Vytautas apie tą sumanymą nieko nežino, pasiuntė į jį patį Zig­
+    mantą apie tai pasikalbėti.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: 'Zigmantas dažnai klausinėja Vytautą apie karūnacijos terminą ir skatina jį negaišt.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Zigmantas dažnai klausinėja
+    Vytautą apie karūnacijos terminą ir skatina jį negaišt. Jis rū­
+    pinasi vis labiau patraukt į savo pusę Ordiną ir sukelt visus ki­
+    tus Lenkijos priešus. Damoklo kardas tikrai pakibo ant unijos,
+    kurią taip smarkiai gynė lenkai ir, ieškodami plačiausios para­
+    mos prieš šį pavojų, Jogailos pašaukti, susivažiavo į Jedlną
+    (1430.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-006
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XX amžius]]
+
+### Susiję objektai
+- [[objektai/asmenys/Vytautas Didysis]]
