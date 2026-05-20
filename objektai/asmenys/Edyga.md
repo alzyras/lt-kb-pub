@@ -39,15 +39,38 @@ Unijos darbui nemažai sutrukdė ir totoriai, kurie, vadovau­ jant Vorsklos nug
 
 ## Teiginiai
 - t-001
-  teiginys: 'Krymo emyro Edygos kariai sudarė dalį totorių pajėgų kartu su Aukso ordos chano Timūr-Kutluko kariais.'
+  teiginys: 'Edygos vadovaujami totoriai 1414-1416 m. dažnai puldinėjo Kijevo ir Podolės kraštus, smarkiai apgriaudami Kijevą ir Lucką.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Totorių pajėgos Aukso ordos chano Timūr-Kutluko, Krymo emyro Edygos kariai.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Krymo emyro Edygos kariai sudarė dalį totorių pajėgų kartu su Aukso ordos chano Timūr-Kutluko kariais.'
+  santrauka: 'Edygos vadovaujami totoriai 1414-1416 m. dažnai puldinėjo Kijevo ir Podolės kraštus, smarkiai apgriaudami Kijevą ir Lucką.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Taigi tas rodo, kad ne visi sta­
+    čiatikiai buvo palankūs Vytauto pageidaujamai Bažnyčių
+    unijai.
+    Unijos darbui nemažai sutrukdė ir totoriai, kurie, vadovau­
+    jant Vorsklos nugalėtojui Edygai, 1414—1416 m. laikotarpyje
+    dažnai puldinėjo Kijevo ir Podolės kraštus, smarkiai apgriauda­
+    mi patį Kijevą ir Lucką. Cemblakas iš savo sostinės turėjo per­
+    sikelti į Vilnių, o Vytautas, užimtas tada karu su Vok.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Totorių pajėgos Aukso ordos chano Timūr-Kutluko, Krymo emyro Edygos kariai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Totorių pajėgos
@@ -58,17 +81,14 @@ Unijos darbui nemažai sutrukdė ir totoriai, kurie, vadovau­ jant Vorsklos nug
 
     Pokalbyje su chanu prieš mūšį Vytautas
     tarsi reikalavęs pavaldumo - visos Ordos
-    pinigus žymėti Vytauto ženklu. Timūr-
-    Kutlukas, paprašęs trijų dienų pagalvoti,
-    siuntė Vytautui daug galvijų, jaučių, avių,
-    sveikino jį.
-  citata_rodoma: ""
+    pinigus žymėti Vytauto ženklu.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Laikotarpiai

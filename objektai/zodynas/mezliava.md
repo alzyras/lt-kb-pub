@@ -29,24 +29,28 @@ Vėlesniais laikais ir vietoj galvijų buvo mokami mokesčiai, vadinami mezliavo
 
 ## Teiginiai
 - t-004
-  teiginys: 'Mezliava buvo bendruomenės renkama duoklė vyresniesiems, negalėjusiems patiems užsidirbti duonos dėl ūkės reikalų.'
+  teiginys: '`Mezliava` šiame tekste reiškia prievolinę duoklę vyresniesiems.'
   pagrindžia:
-    - c-001
+    - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 - t-005
-  teiginys: 'Mezliava padėjo išlaikyti vyresniuosius, kuriuos ūkės reikalai atitraukdavo nuo namų darbo.'
+  teiginys: 'Ji siejama su jų išlaikymu ir ūkės reikalų tarnyba.'
   pagrindžia:
-    - c-001
+    - c-002
+    - c-003
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Mezliava buvo bendruomenės renkama duoklė vyresniesiems, negalėjusiems patiems užsidirbti duonos dėl ūkės reikalų.'
+- c-002
+  santrauka: '`Mezliava` šiame tekste reiškia prievolinę duoklę vyresniesiems.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
-    Viršiau minavotiems vyresniesiems, kuriuos ūkės reikalai trukino nuo namų darbo, tiems svietas metė mezliavą, kaipo negalintiems patiems sau duonos užpelnyti, kožnas pagal savo knebinį^1073 ; ir taip kurie javus sėjo, tie davė jiems duonos, o jų arkliams avižų, kaipogi toj gadynėj vyresnieji raiti jodė po svietą, ne važiojos.
+    Viršiau minavotiems vyresniesiems, kuriuos ūkės reikalai trukino nuo namų darbo, tiems svietas
+    metė mezliavą, kaipo negalintiems patiems sau duonos užpelnyti, kožnas pagal savo knebinį^1073 ; ir
+    taip kurie javus sėjo, tie davė jiems duonos, o jų arkliams avižų, kaipogi toj gadynėj vyresnieji raiti
+    jodė po svietą, ne važiojos.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -54,6 +58,19 @@ Vėlesniais laikais ir vietoj galvijų buvo mokami mokesčiai, vadinami mezliavo
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+    - t-005
+- c-003
+  santrauka: 'Ji siejama su jų išlaikymu ir ūkės reikalų tarnyba.'
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Zigmantas II, didysis Lietuvos kunigaikštis, metuose dar 1522 savo
+    įsakyme, žemaičiams duotame, liepia jiems savo tėvūnams pagal seną dabą po duonos kukulį duoti;
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
     - t-005
 
 ## Pastabos

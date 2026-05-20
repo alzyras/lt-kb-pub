@@ -39,9 +39,15 @@ Nenurodyta
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Lietuvos bajorija priešinosi kodeksui, nes jis buvo skirtas abiem jungtinėms valstybėms ir reiškė Lietuvos statuto atsisakymą.'
+  teiginys: '1780 m. seimo atstovai iš anksto išspausdintą kodekso projektą atmetė net nesvarstę.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-003
+  teiginys: 'Lietuvos bajorija priešinosi kodeksui, nes jis buvo skirtas abiem jungtinėms valstybėms ir reiškė Lietuvos statuto atsisakymą.'
+  pagrindžia:
+    - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
@@ -50,9 +56,7 @@ Nenurodyta
   santrauka: 'Kodeksas (statutas) 1780 m. buvo pateiktas seimui patvirtinti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Vienas artimiausiųjų jo
-    bendradarbių buvo Lietuvos vicekancleris Jokimas Chreptavi-
-    čius. Kodeksas (statutas) 1780 m. buvo pateiktas seimui pa-
+    Kodeksas (statutas) 1780 m. buvo pateiktas seimui pa-
     tvirtinti. Jame buvo nuostatų, palengvinančių valstiečių būklę
     ir paimančių juos įstatymo globon.
   citata_rodoma: ""
@@ -63,11 +67,26 @@ Nenurodyta
   pagrindžia:
     - t-001
 - c-002
+  santrauka: '1780 m. seimo atstovai iš anksto išspausdintą kodekso projektą atmetė net nesvarstę.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Kadangi projektas buvo
+    iš anksto išspausdintas, tai bajorija šaukte šaukė ant jo dar
+    seimeliuose, o atstovai, susirinkę į seimą, atmetė jį net ne-
+    svarstę. Atmetė jį svarbiausia dėl valstiečiams
+    duodamųjų palengvinimų.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
+- c-003
   santrauka: 'Lietuvos bajorija priešinosi kodeksui, nes jis buvo skirtas abiem jungtinėms valstybėms ir reiškė Lietuvos statuto atsisakymą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Atmetė jį svarbiausia dėl valstiečiams
-    duodamųjų palengvinimų. „Mužikus nori padaryti
+    „Mužikus nori padaryti
     bajorais, o mus — mužikais", — šaukė bajorija. (Lietuvos bajo-
     rija to kodekso įvedimui priešinosi dar ir dėl to, kad jis buvo
     skiriamas abiem jungtinėm valstybėm: Lietuva nenorėjo išsiža-
@@ -78,7 +97,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-003
 
 ## Ryšiai
 ### Laikotarpiai

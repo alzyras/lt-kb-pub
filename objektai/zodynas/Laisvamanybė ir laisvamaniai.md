@@ -20,6 +20,7 @@ date_end: ""
 vaidmenys: []
 dalyviai: []
 susije_irasai:
+  - '[[Jonas Šliūpas]]'
 patikimumas: 'aukštas'
 tags:
   - sąvoka

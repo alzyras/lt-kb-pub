@@ -47,30 +47,38 @@ Nenurodyta
 
 ## Teiginiai
 - t-005
-  teiginys: 'Lietuvių bajorų aktas suteikė bajorams teisę spausti Vytautą laikytis unijos ir dalyvauti naujo kunigaikščio rinkimuose.'
+  teiginys: '1401 m. Vilniaus susitarimuose išvardyti bajorai ir pareigūnai turėjo būti ne tik liudininkai, bet ir garantai.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-006
-  teiginys: 'Lietuvių bajorija valstybės reikaluose gavo balsą, kuris anksčiau priklausė didžiojo kunigaikščio valiai.'
+  teiginys: 'Į Vytauto politinius žygius ir sutartis daugiausia buvo įtraukti kilmingieji iš tikrosios Lietuvos.'
   pagrindžia:
     - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-007
+  teiginys: 'Lie­ tuvių bajorų aktas leidžia jiems daryti spaudimą į Vytautą, jei šis nesilaikytų unijos; taip pat lietuviai, mirus Vytautui, gauna teisę dalyvauti naujo kun. elekcijoj.'
+  pagrindžia:
+    - c-003
+- t-008
+  teiginys: 'Lietuvių bajorija valstybės rei­ kaluose gavo balsą, kuris lig šiol išimtinai tepriklausė valdovui, t.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lietuvių bajorų aktas suteikė bajorams teisę spausti Vytautą laikytis unijos ir dalyvauti naujo kunigaikščio rinkimuose.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: '1401 m. Vilniaus susitarimuose išvardyti bajorai ir pareigūnai turėjo būti ne tik liudininkai, bet ir garantai.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Lenkų ponų
-    taryba Radome davė garantiją, kaip lietuv. bajorai Vilniuj len­
-    kams, kad Vytautui nebus atimta d. Lietuvos kunigaikštija. Lie­
-    tuvių bajorų aktas leidžia jiems daryti spaudimą į Vytautą, jei
-    šis nesilaikytų unijos; taip pat lietuviai, mirus Vytautui, gauna
-    teisę dalyvauti naujo kun. elekcijoj. Lenkų bajorija turėjo tą
-    teisę seniau.
+    Vilniaus susitarimuose (1401) pirmą kartą Lietuvos ir Lenkijos
+    unijų istorijoje buvo surašytas Lietuvos bajorų aktas. Ten mini­
+    mas Vilniaus vysk. Jokūbas Plichta, Vilniaus dvaro maršalas Sta­
+    nislovas Čupurna ir trys žymieji Vytauto seniūnai: Vilniaus — Alb.
+    Manivydas, Kriavo —- J. Goštautas, Ašmenos — Astikas. Jie turėjo
+    būti ne tik liudininkai, bet ir garantai, kad visa tai, kas aktuose
+    surašyta, bus vykdoma.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -79,7 +87,38 @@ Nenurodyta
   pagrindžia:
     - t-005
 - c-002
-  santrauka: 'Lietuvių bajorija valstybės reikaluose gavo balsą, kuris anksčiau priklausė didžiojo kunigaikščio valiai.'
+  santrauka: 'Į Vytauto politinius žygius ir sutartis daugiausia buvo įtraukti kilmingieji iš tikrosios Lietuvos.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Manivydas, Kriavo —- J. Goštautas, Ašmenos — Astikas. Jie turėjo
+    būti ne tik liudininkai, bet ir garantai, kad visa tai, kas aktuose
+    surašyta, bus vykdoma. Į Vytauto politinius žygius ir sutartis
+    daugiausia buvo įtraukti kilmingieji iš tikrosios Lietuvos.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-006
+- c-003
+  santrauka: 'Lie­ tuvių bajorų aktas leidžia jiems daryti spaudimą į Vytautą, jei šis nesilaikytų unijos; taip pat lietuviai, mirus Vytautui, gauna teisę dalyvauti naujo kun. elekcijoj.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Lie­
+    tuvių bajorų aktas leidžia jiems daryti spaudimą į Vytautą, jei
+    šis nesilaikytų unijos; taip pat lietuviai, mirus Vytautui, gauna
+    teisę dalyvauti naujo kun. elekcijoj. Lenkų bajorija turėjo tą
+    teisę seniau.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-004
+  santrauka: 'Lietuvių bajorija valstybės rei­ kaluose gavo balsą, kuris lig šiol išimtinai tepriklausė valdovui, t.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Šiaip ar taip kalbant, paskutinioji unija patikrino Lietuvai
@@ -89,13 +128,13 @@ Nenurodyta
     kaluose gavo balsą, kuris lig šiol išimtinai tepriklausė valdovui,
     t. y. did. kunigaikščio valiai, reguliuojant valstybės reikalus.
     Dabar toji visuomenė davė unijai savo sankciją^2 ).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-006
+    - t-008
 
 ## Ryšiai
 ### Laikotarpiai

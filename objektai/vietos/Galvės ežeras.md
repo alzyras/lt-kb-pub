@@ -32,20 +32,37 @@ Netoli Vilniaus, sunkiai prieinamame Galvės ežero pusiasaly, Gediminas pastat�
 
 ## Teiginiai
 - t-001
-  teiginys: 'Iš trijų pusių pilį supa Galvės ežeras.'
+  teiginys: 'Galvės ežero salos pilis buvo minima kaip žymiausias Vytauto garbės ir pasididžiavimo statinys.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Iš trijų pusių pilį supa Galvės ežeras.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Iš trijų pusių pilį supa Galvės ežeras.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  santrauka: 'Galvės ežero salos pilis buvo minima kaip žymiausias Vytauto garbės ir pasididžiavimo statinys.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Pilį saugojo 11 gynybinių bokštų. Iš trijų pusių pilį
-    supa Galvės ežeras. Priešais centrinius vartus buvo
-    iškastas gynybinis griovys, susijungiantis su ežeru.
+    Ar iš tikrųjų Vytauto epochai gali
+    būti priskirtos pirmosios pabūklų liejyklos^5 ir bažnytinių varpų,
+    trūksta autentiškų įrodymų.
+    Tikresnių duomenų yra apie Vytauto mūrinių pilių statybas,
+    kurių žymiausias jo garbės ir pasididžiavimo statinys buvo Galvės
+    (^1) **Žr.** **_Bažnytinė unija,_** **LE, t. 2, 309-313 p.**
+    (^2) **Žr. V. Trumpa :** **_Magdeburgo teisė,_** **LE, t. 17, 63-64 p.**
+    (^3) **Z. Ivinskis :** **_Lietuva ir žydai istorijos šviesoje,_** **Aidai, nr. 10, 1971,
+    438-446 p.; nr. 1, 1972, 24-30 p.**
+    (^4) **Žr. Karys, J. K. : Pinigėliai, LE, t. 23, 19 p.; (”) Senovės lietuvių**
+    **_pinigai,_** **Putnam 1959.**
+    (^5) **Žr.** **_Artilerija, Lietuvos art. istorija_** **, LE, t. 1, 299-300 p.**
+
+
+    ežero salos pilis^6 , kurioje 1414 apsilankė Burgundijos riteris Ghil­
+    lebert de Lannoy.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -53,6 +70,20 @@ Netoli Vilniaus, sunkiai prieinamame Galvės ežero pusiasaly, Gediminas pastat�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Iš trijų pusių pilį supa Galvės ežeras.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Iš trijų pusių pilį
+    supa Galvės ežeras. Priešais centrinius vartus buvo
+    iškastas gynybinis griovys, susijungiantis su ežeru.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai

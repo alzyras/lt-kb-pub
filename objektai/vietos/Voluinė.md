@@ -46,57 +46,56 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
 
 ## Teiginiai
 - t-010
-  teiginys: 'Kuriantis valstybei, iš kaimynų lietuviams pavojingiausi buvo Voluinės kunigaikštystė ir kalavijuočių ordinas.'
+  teiginys: 'Višnioveckiai telkė respublikonų šalininkus, tarnus ir rekrūtus iš savo dvarų Voluinėje.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-011
-  teiginys: 'Krikštijęsis ir susitaikinęs su ordinu, Mindaugas ryžosi atgauti Voluinės kunigaikščio Danieliaus užgrobtas žemes.'
+  teiginys: 'Kuriantis valstybei, iš kaimynų lietuviams pavojingiausi buvo Voluinės kunigaikštystė ir kalavijuočių ordinas.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 - t-012
-  teiginys: '1447 m. privilegija reiškė, kad ginčijamos Podolė ir Voluinė turėjo likti Lietuvai.'
+  teiginys: 'Krikštijęsis ir susitaikinęs su ordinu, Mindaugas ryžosi atgauti Voluinės kunigaikščio Danieliaus užgrobtas žemes.'
   pagrindžia:
     - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 - t-013
-  teiginys: 'Ginčijamą Voluinę valdė Švitrigaila, o mirdamas 1452 m. testamentu ją paliko Lietuvai.'
+  teiginys: 'Kadangi tuo metu tarp Lietuvos ir Lenkijos dar tebeėjo ginčas dėl Podolės ir Voluinės, tai lietuviai į šitą privilegiją įrašė punktą, kuriuo Kazimieras pasižadėjo išlaikyti Lietuvą tose pačiose ribose, kokias ji turėjo Vytauto laikais.'
   pagrindžia:
     - c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 - t-014
-  teiginys: 'Kazimiero laikais Voluinė buvo tarp tankiau gyvenamų Lietuvos valstybės sričių.'
+  teiginys: 'Visą tą laiką ginčijamoji Voluinė buvo valdoma Švitrigailos, o Podolė buvo valdoma Lenkų.'
   pagrindžia:
     - c-005
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 - t-015
-  teiginys: 'Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiuliai Palenkės, Voluinės, Braclavo ir Kijevo žemių plotai atiteko Lenkijai.'
+  teiginys: '), taip ir Kazimiero laikais tankiau buvo gyvenama tik tikrojoj Lietuvoj, Palenkėj, Voluinėj ir Podolės Braclavo srityje (visa kita Podolė priklausė Lenkijai).'
   pagrindžia:
     - c-006
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 - t-016
-  teiginys: 'Viena Radvilų šeimos šaka turėjo centrus Nesvyžiuje ir Olykoje, Voluinėje.'
+  teiginys: 'Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiuliai Palenkės, Voluinės, Braclavo ir Kijevo žemių plotai atiteko Lenkijai.'
   pagrindžia:
     - c-007
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+- t-017
+  teiginys: 'Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje).'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kuriantis valstybei, iš kaimynų lietuviams pavojingiausi buvo Voluinės kunigaikštystė ir kalavijuočių ordinas.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: 'Višnioveckiai telkė respublikonų šalininkus, tarnus ir rekrūtus iš savo dvarų Voluinėje.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    **Karai valstybės jungimo laikotarpy.** Kuriantis valstybei, iš
-    kaimynų lietuviams pavojingiausi buvo Voluinės kunigaikštystė
-    ir kalavijuočių ordinas. Sunku būtų buvę vienu metu kariauti
-    su abiem priešais.
+    LDK rytinių vaivadijų - Baltosios Rusios
+    bajoriją telkė M. K. Katilas, mobilizacijos
+    vieta jai buvo paskirta Vileikos miestelio
+    apylinkės Ašmenos paviete. G. A. Oginskis
+
+    telkė respublikonų pajėgas Žemaitijoje, Viš-
+    nioveckiai organizavo bajoriją LDK pietuo-
+    se - Bresto vaivadijoje, pasitelkę ir savo
+    šalininkus, tarnus bei rekrūtus iš savo dvarų
+    Lenkijoje - Voluinėje. Visas respublikonų
+    pajėgas ketinta sujungti prie Širvintų.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -105,22 +104,37 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   pagrindžia:
     - t-010
 - c-002
-  santrauka: 'Krikštijęsis ir susitaikinęs su ordinu, Mindaugas ryžosi atgauti Voluinės kunigaikščio Danieliaus užgrobtas žemes.'
+  santrauka: 'Kuriantis valstybei, iš kaimynų lietuviams pavojingiausi buvo Voluinės kunigaikštystė ir kalavijuočių ordinas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    **Karai su Voluine.** Krikštijęsis ir susitaikinęs su ordinu,
-    Mindaugas ryžosi atgauti Voluinės kunigaikščio Danieliaus už-
-    grobtas žemes. Dabar karui vadovavo jau nebe svetimi kuni-
-    gaikščiai, bet Mindaugo sūnus Vaišvilkas.
-  citata_rodoma: ""
+    ** Kuriantis valstybei, iš
+    kaimynų lietuviams pavojingiausi buvo Voluinės kunigaikštystė
+    ir kalavijuočių ordinas. Sunku būtų buvę vienu metu kariauti
+    su abiem priešais.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-011
 - c-003
-  santrauka: '1447 m. privilegija reiškė, kad ginčijamos Podolė ir Voluinė turėjo likti Lietuvai.'
+  santrauka: 'Krikštijęsis ir susitaikinęs su ordinu, Mindaugas ryžosi atgauti Voluinės kunigaikščio Danieliaus užgrobtas žemes.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    ** Krikštijęsis ir susitaikinęs su ordinu,
+    Mindaugas ryžosi atgauti Voluinės kunigaikščio Danieliaus už-
+    grobtas žemes. Dabar karui vadovavo jau nebe svetimi kuni-
+    gaikščiai, bet Mindaugo sūnus Vaišvilkas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+- c-004
+  santrauka: 'Kadangi tuo metu tarp Lietuvos ir Lenkijos dar tebeėjo ginčas dėl Podolės ir Voluinės, tai lietuviai į šitą privilegiją įrašė punktą, kuriuo Kazimieras pasižadėjo išlaikyti Lietuvą tose pačiose ribose, kokias ji turėjo Vytauto laikais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     1447 m. privilegija. Kadangi tuo metu tarp Lietuvos ir Len-
@@ -129,57 +143,49 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
     laikyti Lietuvą tose pačiose ribose, kokias ji turėjo Vytauto lai-
 
     kais. Tai reiškė, kad Podolė su Voluine turi likti Lietuvai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-012
-- c-004
-  santrauka: 'Ginčijamą Voluinę valdė Švitrigaila, o mirdamas 1452 m. testamentu ją paliko Lietuvai.'
+    - t-013
+- c-005
+  santrauka: 'Visą tą laiką ginčijamoji Voluinė buvo valdoma Švitrigailos, o Podolė buvo valdoma Lenkų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tame pat seime dalis Lietuvos ponų, pasipiktinusių lenkais, grą-
-    žino jiems herbus, 1413 m. gautus iš lenkų.
     Visą tą laiką ginčijamoji Voluinė buvo valdoma Švitrigailos,
     o Podolė buvo valdoma Lenkų. Švitrigaila mirdamas (1452 m.)
     testamentu Voluinę paliko Lietuvai, tačiau lenkai ne tik neketino
     atiduoti Lietuvai Podolės, bet dar ruošėsi ginklu užgrobti ir Vo-
     luinę.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-013
-- c-005
-  santrauka: 'Kazimiero laikais Voluinė buvo tarp tankiau gyvenamų Lietuvos valstybės sričių.'
+    - t-014
+- c-006
+  santrauka: '), taip ir Kazimiero laikais tankiau buvo gyvenama tik tikrojoj Lietuvoj, Palenkėj, Voluinėj ir Podolės Braclavo srityje (visa kita Podolė priklausė Lenkijai).'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Kaip Vy-
-    tauto (žiūr. 165 psl.), taip ir Kazimiero laikais tankiau buvo
+    ), taip ir Kazimiero laikais tankiau buvo
     gyvenama tik tikrojoj Lietuvoj, Palenkėj, Voluinėj ir Podo-
     lės Braclavo srityje (visa kita Podolė priklausė Lenkijai). O
     rytinės Lietuvos žemės, išskyrus didesniųjų miestų apy-
     linkes, buvo beveik negyvenamos.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-014
-- c-006
+    - t-015
+- c-007
   santrauka: 'Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiuliai Palenkės, Voluinės, Braclavo ir Kijevo žemių plotai atiteko Lenkijai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Jų kiekvienas
-    pavietas turėjo tokių pat, kaip ir visa valstybė: čia buvo ir
-    stalininkų, ir taurininkų, ir ark-
-    lininkų, ir kardininkų ir daugy-
-    bė kitų.
     **Lietuvos valstybės teritorija**
     po unijos buvo labai sumažė-
     jusi, nes didžiuliai Palenkės, Vo-
@@ -187,28 +193,28 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
     plotai atiteko Lenkijai. Lietuviai
     veltui reikalavo, kad lenkai tas
     žemes jiems grąžintų.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-015
-- c-007
-  santrauka: 'Viena Radvilų šeimos šaka turėjo centrus Nesvyžiuje ir Olykoje, Voluinėje.'
+    - t-016
+- c-008
+  santrauka: 'Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje).'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Radvilų šeimos buvo dvi šakos. Vienos centras buvo Biržai
     ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje). Vėlesniųjų
     biržiečių Radvilų tėvas buvo Mikalojus Rudasis, o nesvy-
     žiečių — Mikalojus Juodasis.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-016
+    - t-017
 
 ## Ryšiai
 ### Teminiai klasteriai

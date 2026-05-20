@@ -10,7 +10,6 @@ datos:
   - '1426 m.'
   - '1427 m.'
   - '1428 m.'
-  - '1700 m.'
   - '1978 m.'
   - '2026 m.'
 periodas: 'LDK laikotarpis'
@@ -18,7 +17,6 @@ periodo_grupes:
   - 'LDK'
 amziai:
   - 'XV'
-  - 'XVII'
   - 'XX'
   - 'XXI'
 date_start: '1426'
@@ -35,28 +33,32 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Išsireikalavusi iš Vilniaus miesto kontribuciją, respublikonų kariuomenė iš sostinės pasitraukė į naujas dislokavimo vietas.'
+  teiginys: '1426 m. žygis į Pskovą baigėsi Pskovo respublikos kontribucija.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: '1428 m. Vytautas pasiekė Didžiojo Naugardo respubliką ir iš jos išreikalavo didelę kontribuciją.'
+  pagrindžia:
+    - c-002
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-003
+  teiginys: 'Pasuko Kijevo link, paėmė iš jo 3000 rublių kontribucijos.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Išsireikalavusi iš Vilniaus miesto kontribuciją, respublikonų kariuomenė iš sostinės pasitraukė į naujas dislokavimo vietas.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  santrauka: '1426 m. žygis į Pskovą baigėsi Pskovo respublikos kontribucija.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    vykdant Valkininkų nutarimą, buvo iš
-    esmės suformuota nauja LDK kariuomenė -
-    7500 etatinių vienetų. Išsireikalavusi iš
-    Vilniaus miesto kontribuciją, respublikonų
-    kariuomenė iš sostinės pasitraukė į naujas
-    dislokavimo vietas.
-
-    Valkininkų mūšis galutinai sugriovė
-    Sapiegų hegemoniją Lietuvoje, užbaigė nuo
-
-    1700 m. lapkričio 18 d. VALKININKŲ MUSIS 139
+    Vėliau trejus metus iš eilės (1426-
+    1428) jis rengė tolimus ir jo vardą išgarsinusius žygius Rusijon.
+    1426 žygis į Pskovą pasibaigė tos respublikos kontribucija. Dar
+    garsesnis buvo 1427 m. žygis į rytus, kuriame Vytautas nuėjo už
+    Smolensko į Okos pakraščius iki Kalugos, Tulos ir Riazanės.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -64,10 +66,41 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: '1428 m. Vytautas pasiekė Didžiojo Naugardo respubliką ir iš jos išreikalavo didelę kontribuciją.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    magistrui pranešinėjo čia juokdario vaidmenyje prie Vytauto besi­
+    sukinėjąs žvalgas Henne^7. 1428 m. per sunkiai praeinamas balas
+    ir miškus Vytautas prasiskynė sau kelią į turtingą D. Naugardo
+    respubliką ir iš jos išreikalavo didelę kontribuciją. Ištisiems dešimt­
+    mečiams Vytautas užtikrino Lietuvai taiką rytuose ir santykiuose
+    su totoriais.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Pasuko Kijevo link, paėmė iš jo 3000 rublių kontribucijos.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Totoriai, užvaldę lietuvių stovyklą, paėmė visas jų gur­
+    guoles ir turtus ir tuojau metėsi krašto terioti. Pasuko Kijevo
+    link, paėmė iš jo 3000 rublių kontribucijos. Po to dar pasu­
+    ko į Lucko žemes, ir tik iš ten grįžo į savo stepes.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XV amžius]]
-- [[laikotarpiai/XVII amžius]]
 - [[laikotarpiai/XX amžius]]
 - [[laikotarpiai/XXI amžius]]

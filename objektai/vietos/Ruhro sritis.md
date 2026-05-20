@@ -31,28 +31,26 @@ Didžiosios valstybės, kurios tuo metu buvo susidomėjusios vakarinės Vokietij
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tarptautinės bendruomenės dėmesys buvo nukrypęs į Vokietijos Ruhro sritį, kurią tuo metu okupavo prancūzų kariuomenė.'
+  teiginys: 'Didžiosios valstybės tuo metu domėjosi vakarinės Vokietijos Ruhro srities okupacija.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Tarptautinės bendruomenės dėmesys buvo nukrypęs į Vokietijos Ruhro sritį, kurią tuo metu okupavo prancūzų kariuomenė.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tarptautinės bendruomenės dėmesys buvo nukrypęs į Vokietijos Ruhro sritį, kurią tuo metu okupavo prancūzų kariuomenė.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  santrauka: 'Didžiosios valstybės tuo metu domėjosi vakarinės Vokietijos Ruhro srities okupacija.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Ambasadorių
-    konferencija netrukus turėjo priimti
-    sprendimą dėl Klaipėdos, kuris grei-
-    čiausiai Lietuvai būtų buvęs nepalankus.
-    Tarptautinės bendruomenės dėmesys
-    buvo nukrypęs į Vokietijos Ruhro sritį,
-    kurią tuo metu okupavo prancūzų ka-
-    riuomenė. Nemažą vaidmenį, skatinant
-    Lietuvos vyriausybę priimti sprendimą
-    pradėti karinę operaciją, suvaidino ryž-
-    tingai nusiteikę Šaulių sąjungos nariai.
+    Didžiosios valstybės, kurios tuo metu buvo susidomėjusios
+    vakarinės Vokietijos dalies **_(Ruhro_** srities) okupacija, sujaudin-
+    tos tų įvykių Klaipėdoje, įtarė Lietuvos vyriausybę dalyvavus
+    paties sukilimo ruošime ir pasiuntė nepaprastą komisiją tvarkai
+    grąžinti.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -60,6 +58,24 @@ Didžiosios valstybės, kurios tuo metu buvo susidomėjusios vakarinės Vokietij
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Tarptautinės bendruomenės dėmesys buvo nukrypęs į Vokietijos Ruhro sritį, kurią tuo metu okupavo prancūzų kariuomenė.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Tarptautinės bendruomenės dėmesys
+    buvo nukrypęs į Vokietijos Ruhro sritį,
+    kurią tuo metu okupavo prancūzų ka-
+    riuomenė. Nemažą vaidmenį, skatinant
+    Lietuvos vyriausybę priimti sprendimą
+    pradėti karinę operaciją, suvaidino ryž-
+    tingai nusiteikę Šaulių sąjungos nariai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Laikotarpiai

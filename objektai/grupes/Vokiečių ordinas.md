@@ -34,21 +34,77 @@ Tai padaryti trukdė Vokiečių ordinas. Pagrindinis konfliktas su Vokiečių or
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vokiečių ordinas Vytauto laikų prekybai turėjo didelę įtaką, nes per jo žemes ėjo svarbūs keliai į Vakarų Europą ir Dancigą.'
+  teiginys: 'Vokiečių ordinas galutinai atsisakė pretenzijų į Žemaitiją ir nebekėlė grėsmės Lietuvai.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Vokiečių ordino magistrui uždraudus į Lietuvą įvežti druską, Vytautas liepė vokiečių pirkliams iki Sekminių išvykti iš Lietuvos.'
+  teiginys: 'Vokiečių ordinas rėmė Vytauto vainikavimo planą, siekdamas regione sukurti atsvarą Lenkijai.'
   pagrindžia:
     - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Ordinas, pavyzdžiui, drausdavo juos įvežti į Lietuvą, panašiai, kaip ir ginklus^3 ).'
+  pagrindžia:
+    - c-003
+- t-004
+  teiginys: 'Iš Lietuvos geografinės būklės ir minėtų čia prekybos san­ tykių galime jau pastebėti, kad Vokiečių Ordinas Vytauto laikų prekybai turėjo didžiausios įtakos, nes per jo žemes ėjo svar­ biausi keliai į Vakarų Europą ir Dancigą, su kuriuo lietuviai tu­ rėjo.'
+  pagrindžia:
+    - c-004
+- t-005
+  teiginys: 'O kai Vokiečių Ordino ma­ gistras uždraudė į Lietuvą įvežti druskos, supykęs Vytautas įsa­ kė visiems vokiečių pirkliams iki Sekminių iš Lietuvos išsineš­ dinti^3 ).'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vokiečių ordinas Vytauto laikų prekybai turėjo didelę įtaką, nes per jo žemes ėjo svarbūs keliai į Vakarų Europą ir Dancigą.'
+  santrauka: 'Vokiečių ordinas galutinai atsisakė pretenzijų į Žemaitiją ir nebekėlė grėsmės Lietuvai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vokiečių ordinas galutinai atsisakė pretenzijų į Žemaitiją
+    ir grėsmės Lietuvai nebekėlė. Atėjo metas Lietuvos ir Lenkijos santykių
+    problemai.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Vokiečių ordinas rėmė Vytauto vainikavimo planą, siekdamas regione sukurti atsvarą Lenkijai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lucko suvažiavi-
+    mas rodė LDK ir Vytauto vaidmens svarbą regione, o į Lietuvos istoriją
+    įėjo pirmiausia dėl Vytauto vainikavimo plano, kurį rėmė Zigmantas I
+    ir Vokiečių ordinas, siekdamas sukurti regione atsvarą Lenkijai.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Ordinas, pavyzdžiui, drausdavo juos įvežti į Lietuvą, panašiai, kaip ir ginklus^3 ).'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Ordinas, pavyzdžiui, drausdavo juos įvežti į Lietuvą,
+    panašiai, kaip ir ginklus^3 ). Be to, kaip Vytautas vertino ark­
+
+    (^1) ) Liub.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Iš Lietuvos geografinės būklės ir minėtų čia prekybos san­ tykių galime jau pastebėti, kad Vokiečių Ordinas Vytauto laikų prekybai turėjo didžiausios įtakos, nes per jo žemes ėjo svar­ biausi keliai į Vakarų Europą ir Dancigą, su kuriuo lietuviai tu­ rėjo.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Iš Lietuvos geografinės būklės ir minėtų čia prekybos san­
@@ -60,32 +116,29 @@ Tai padaryti trukdė Vokiečių ordinas. Pagrindinis konfliktas su Vokiečių or
     juo nuolatinių prekybos santykių susijusių su visa eile politinių
     įvykių, kuriems gerėjant arba blogėjant, atitinkamai keitėsi ir
     prekyba su Ordinu.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Vokiečių ordino magistrui uždraudus į Lietuvą įvežti druską, Vytautas liepė vokiečių pirkliams iki Sekminių išvykti iš Lietuvos.'
+    - t-004
+- c-005
+  santrauka: 'O kai Vokiečių Ordino ma­ gistras uždraudė į Lietuvą įvežti druskos, supykęs Vytautas įsa­ kė visiems vokiečių pirkliams iki Sekminių iš Lietuvos išsineš­ dinti^3 ).'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Nors lietuviai ir buvo
-    paleisti, bet Vytautas vokiečių pirklių nepaleido ir Grabovo
-    suvažiavime pareikalavo iš Ordino atsilyginti už paimtas pre­
-    kes ir nužudytų pirklių šeimoms^2 ). O kai Vokiečių Ordino ma­
+    O kai Vokiečių Ordino ma­
     gistras uždraudė į Lietuvą įvežti druskos, supykęs Vytautas įsa­
     kė visiems vokiečių pirkliams iki Sekminių iš Lietuvos išsineš­
     dinti^3 ). Tai buvo po nenusisekusių Veliuonos (1418) derybų nu­
     statyti Žemaitijos sienas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-002
+    - t-005
 
 ## Ryšiai
 ### Laikotarpiai

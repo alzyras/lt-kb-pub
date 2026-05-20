@@ -77,20 +77,29 @@ Sovietinė saugumo, vidaus reikalų ir represinė institucija bei kariuomenės s
 
 ## Teiginiai
 - t-012
-  teiginys: 'Liepos 22 d. apie 1500 NKVD karių ir stribų apsupo partizanų stovyklą.'
+  teiginys: 'Sovietų NKVD kariuomenės daliniai turėjo neleisti numatytiems suimti asmenims pabėgti į Vokietiją.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-013
+  teiginys: 'Liepos 22 d. apie 1500 NKVD karių ir stribų apsupo partizanų stovyklą.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Liepos 22 d. apie 1500 NKVD karių ir stribų apsupo partizanų stovyklą.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  santrauka: 'Sovietų NKVD kariuomenės daliniai turėjo neleisti numatytiems suimti asmenims pabėgti į Vokietiją.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Išdavikas pranešė tikslią partizanų dislokacijos vietą. Liepos 22 d. apie
-    1500 NKVD karių ir stribų apsupo partizanų stovyklą. Partizanai nuo 10
-    iki 13 valandos drąsiai atmušinėjo priešo atakas.
+    Sniečkus išleido įsakymą, leidžiantį suimti
+    agituojančiuosius prieš Liaudies vyriausybę, patvirtintas Lietuvos politi-
+    nių partijų, šaulių vadovybės „operatyvinės likvidacijos planas“, parengti
+    numatytų suimti asmenų sąrašai, o sovietų NKVD kariuomenės daliniai
+
+    L I E T U V O S  I S T O R I J A
+    194
+    turėjo neleisti tokiems pabėgti į Vokietiją.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -98,6 +107,20 @@ Sovietinė saugumo, vidaus reikalų ir represinė institucija bei kariuomenės s
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-012
+- c-002
+  santrauka: 'Liepos 22 d. apie 1500 NKVD karių ir stribų apsupo partizanų stovyklą.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Išdavikas pranešė tikslią partizanų dislokacijos vietą. Liepos 22 d. apie
+    1500 NKVD karių ir stribų apsupo partizanų stovyklą. Partizanai nuo 10
+    iki 13 valandos drąsiai atmušinėjo priešo atakas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
 
 ## Šaltiniai ir įrodymai
 

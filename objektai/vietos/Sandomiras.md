@@ -34,24 +34,35 @@ Bet Jogaila nebepabūgo ir pakeliui į Krokuvą iš Sandomiro rašė vyriausiam 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Panašiu metu Lenkijoje lietuviai puolė Sandomiro ir Krokuvos žemes.'
+  teiginys: 'Tokiu tat laiku Jogaila vėl sukvietė visus savo senatorius į pasitarimą Sandomire (1429 m. rugsėjo 8 d.).'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Paskutiniame Sandomiro suvažiavime, matyt, buvo priimtas neįvardytas sumanymas.'
+  pagrindžia:
+    - c-002
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-003
+  teiginys: 'Panašiu metu Lenkijoje lietuviai puolė Sandomiro ir Krokuvos žemes.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Panašiu metu Lenkijoje lietuviai puolė Sandomiro ir Krokuvos žemes.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  santrauka: 'Tokiu tat laiku Jogaila vėl sukvietė visus savo senatorius į pasitarimą Sandomire (1429 m. rugsėjo 8 d.).'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Prie Cėsių (į šiaurę nuo Dauguvos)
-    lietuviams pavyko sutriuškinti Livonijos
-    riterius. Panašiu metu Lenkijoje lietuviai
-    puolė Sandomiro ir Krokuvos žemes.
-    Lietuvos pajėgos Rusioje plačiai vykdė
-
-    kovinius veiksmus.
+    Paskelbti šiuo metu Lietuvai karą būtų
+    per daug neapgalvotas ir neapskaičiuotas žygis, nes pati viena
+    Lietuva buvo už Lenkiją galingesnė ir, be to, nereikia užmiršti,
+    kad Lietuva dar turėjo sąjungininkų: Romos ciesorių Zigmantą,
+    Ordiną, gal būt, ir husitus, kurių nusistatymas buvo nelabai aiš­
+    kus. Vadinas, pradėt ar išprovokuot karą, reiškė vis tiek jį Len­
+    kijai pralaimėt. Tokiu tat laiku Jogaila vėl sukvietė visus
+    savo senatorius į pasitarimą Sandomire (1429 m. rugsėjo 8 d.).
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -59,6 +70,37 @@ Bet Jogaila nebepabūgo ir pakeliui į Krokuvą iš Sandomiro rašė vyriausiam 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Paskutiniame Sandomiro suvažiavime, matyt, buvo priimtas neįvardytas sumanymas.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Pasakęs tokį ilgą ir griaudingą pamokslą, Olesnickis pa­
+    siūlė Vytautui Jogailos karūną^2 ). Toks sumanymas, matyt, bu­
+    vo priimtas paskutiniame Sandomiriaus suvažiavime. Ar tas
+    sumanymas buvo priimtas pritariant Jogailai, kyla abejonių.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Panašiu metu Lenkijoje lietuviai puolė Sandomiro ir Krokuvos žemes.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Panašiu metu Lenkijoje lietuviai
+    puolė Sandomiro ir Krokuvos žemes.
+    Lietuvos pajėgos Rusioje plačiai vykdė
+
+    kovinius veiksmus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Laikotarpiai

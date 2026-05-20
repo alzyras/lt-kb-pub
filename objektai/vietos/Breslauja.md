@@ -31,28 +31,31 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
 
 ## Teiginiai
 - t-001
-  teiginys: 'Breslaujoje Livonijos magistras ir jo sąjungininkas sujungė savo pajėgas.'
+  teiginys: 'Breslauja su pilimi priklausė vienam Gedimino sūnui paskirtam žemių daliniui.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Jam į pagalbą atėjo Livonijos magistras ir jie Breslaujoje sujungė savo pajėgas.'
+  pagrindžia:
+    - c-002
+- t-003
+  teiginys: 'Sapiegą bei dar du žymesnius belaisvius - Breslaujos seniūną M.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Breslaujoje Livonijos magistras ir jo sąjungininkas sujungė savo pajėgas.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  santrauka: 'Breslauja su pilimi priklausė vienam Gedimino sūnui paskirtam žemių daliniui.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Tais metais
-    Švitrigaila su LDK ry-
-    tinių žemių rusų ku-
-    nigaikščiais ir bajorais
-    „išžygiavo į Lietuvą“.
-    Jam į pagalbą atėjo
-    Livonijos magistras ir
-    jie Breslaujoje sujungė
-    savo pajėgas. Tačiau
-    „užpylus žemę liūtimis“
-    žygiuoti gilyn į Lietuvą buvo nebegalima.
+    Per sostinę įgydamas didžiojo kunigaikščio titulą, t. y. vyres­
+    niškumą prieš kitus brolius, Jaunutis buvo paskirtas galva visai
+    valdančiajai giminei. Į jam paskirtą palyginti nedidelį žemių da­
+    linį, be Vilniaus, dar priklausė artimos sritys su pilimis : Ašmena,
+    Ukmerge, Breslauja (Braslaw).
+    Kiti šeši Gedimino sūnus taip pat gavo savo dalis.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -60,6 +63,37 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Jam į pagalbą atėjo Livonijos magistras ir jie Breslaujoje sujungė savo pajėgas.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Jam į pagalbą atėjo
+    Livonijos magistras ir
+    jie Breslaujoje sujungė
+    savo pajėgas. Tačiau
+    „užpylus žemę liūtimis“
+    žygiuoti gilyn į Lietuvą buvo nebegalima.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Sapiegą bei dar du žymesnius belaisvius - Breslaujos seniūną M.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Sapiegą bei dar du
+    žymesnius belaisvius - Breslaujos seniūną
+    M.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Laikotarpiai

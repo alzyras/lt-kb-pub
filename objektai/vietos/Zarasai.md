@@ -30,23 +30,26 @@ Ukmergėje, Zarasuose, Kėdainiuose ir Jurbarke buvo pastatytos naujos cerkvės,
 
 ## Teiginiai
 - t-001
-  teiginys: '1 brigadai užėmus Zarasus, puolimas tęsėsi toliau.'
+  teiginys: 'Zarasuose buvo pastatyta viena iš naujų cerkvių.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: '1 brigadai užėmus Zarasus, puolimas tęsėsi toliau.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1 brigadai užėmus Zarasus, puolimas tęsėsi toliau.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  santrauka: 'Zarasuose buvo pastatyta viena iš naujų cerkvių.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    1 brigadai užėmus Zarasus,
-    puolimas tęsėsi toliau. Į ope-
-    raciją įsitraukė ir II brigada. Ji
-    Šiaurės Rytų Lietuvoje įveik-
-    dama vis dar atkaklų bolševikų
-    pasipriešinimą, ypač darniai
+    Kauno buvusi jėzuitų bažnyčia, Panevėžio ir Raseinių
+    pijarų bažnyčios buvo paverstos cerkvėmis. Ukmergėje, Za-
+    rasuose, Kėdainiuose ir Jurbarke buvo pastatytos naujos cerk-
+    vės, o Pažaislio vienuolyne apsigyveno pravoslavų vyskupas
+    — archieriejus.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -54,6 +57,20 @@ Ukmergėje, Zarasuose, Kėdainiuose ir Jurbarke buvo pastatytos naujos cerkvės,
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: '1 brigadai užėmus Zarasus, puolimas tęsėsi toliau.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    1 brigadai užėmus Zarasus,
+    puolimas tęsėsi toliau. Į ope-
+    raciją įsitraukė ir II brigada.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Laikotarpiai

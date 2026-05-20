@@ -35,25 +35,30 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vytauto įtaka Pskovo respublikoje buvo susilpnėjusi, nes ji labiau šliejosi prie Livonijos Ordino ir Maskvos.'
+  teiginys: 'Lietuvių būriai pasiekdavo turtingųjų Didžiojo Naugardo ir Pskovo respublikų plotus.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo respublikose, kurios daugiau šliejosi prie Livonijos Ordino ir Maskvos, t.'
+  pagrindžia:
+    - c-002
+- t-003
+  teiginys: 'Naugardo ir Pskovo respublikas šiaurėje ir Aukso Ordos bei Krymo totorius pietuose Vytautas privertė nusilenkti savo galybei — mokėti jam duokles ir teikti dovanų.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vytauto įtaka Pskovo respublikoje buvo susilpnėjusi, nes ji labiau šliejosi prie Livonijos Ordino ir Maskvos.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: 'Lietuvių būriai pasiekdavo turtingųjų Didžiojo Naugardo ir Pskovo respublikų plotus.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Al­
-    girdo užkariautųjų Rusijos kraštų plotą Vytautas buvo jau per­
-    žengęs prieš Žalgirio mūšį, bet tolimesnį jo įsigalėjimą sutrukdė
-    ilga nesantaika su Vok. Ordinu ir kultūros darbas pačioje Lie­
-    tuvoje. Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo
-    respublikose, kurios daugiau šliejosi prie Livonijos Ordino ir
-    Maskvos, t. y. dviejų galybių, labiausiai priešingų Vytauto įsi­
-    galėjimui Rytuose.
+    (^122) I SKYRIUS: LIETUVOS PROISTORĖ
+    kodėl lietuvių kunigaikščiai nuvesdavo savo karinius būrius gana
+    toli, kur buvo daugiau ko grobti. Jie pasiekdavo plotus turtingųjų
+    Didžiojo Naugardo ir Pskovo respublikų. Rytuose jie atsitrenkdavo
+    į tolimus Dniepro plotus.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -61,6 +66,38 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo respublikose, kurios daugiau šliejosi prie Livonijos Ordino ir Maskvos, t.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo
+    respublikose, kurios daugiau šliejosi prie Livonijos Ordino ir
+    Maskvos, t. y. dviejų galybių, labiausiai priešingų Vytauto įsi­
+    galėjimui Rytuose.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Naugardo ir Pskovo respublikas šiaurėje ir Aukso Ordos bei Krymo totorius pietuose Vytautas privertė nusilenkti savo galybei — mokėti jam duokles ir teikti dovanų.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Naugardo ir Pskovo
+    respublikas šiaurėje ir Aukso Ordos bei Krymo totorius pietuose
+    Vytautas privertė nusilenkti savo galybei — mokėti jam duokles
+    ir teikti dovanų. Taip pat Tveriaus kunigaikštis, turėjęs savo že­
+    mes Maskvos kairėje, su Vytautu buvo užmezgęs taikius santy­
+    kius (1427).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Laikotarpiai

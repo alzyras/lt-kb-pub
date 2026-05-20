@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 20.
+Objektų skaičius: 21.
 
 ## Kaip naudoti
 
@@ -38,4 +38,5 @@ Objektų skaičius: 20.
 - [[objektai/daiktai/Vytauto vėliava]]
 - [[objektai/daiktai/Vytauto ženklas]]
 - [[objektai/daiktai/Vėliavos]]
+- [[objektai/daiktai/Šv. Panelės paveikslas]]
 - [[objektai/daiktai/Šv. Vaclovo karūna]]

@@ -61,20 +61,16 @@ Nenurodyta
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-004
-  teiginys: 'Birutė, anot legendos, pasitraukė nuo dievų aukuro į šeimos židinį ir išaugino Vytautą.'
+  teiginys: 'Ir ta lietuvė, kuri, anot legendos, turėjusi visą amžių tarnauti dievams, pasitraukusi nuo jų aukuro į šeimos židinį, išaugino Lietuvai nemažame savo vaikų būryje didelį vyrą — Vytautą.'
   pagrindžia:
     - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Birutės legendoje aukuras minimas kaip vieta, nuo kurios ji pasitraukė į šeimos židinį.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Tačiau Kęstutis neieškojo sau žmonos svetur. Iš
-    visų Gedimino giminės, kunigaikščių jis sudarė lietuviškiausią
-    šeimą. Ir ta lietuvė, kuri, anot legendos, turėjusi visą amžių
+    Ir ta lietuvė, kuri, anot legendos, turėjusi visą amžių
     tarnauti dievams, pasitraukusi nuo jų aukuro į šeimos židinį,
     išaugino Lietuvai nemažame savo vaikų būryje didelį vyrą —
     Vytautą.
@@ -86,21 +82,19 @@ Nenurodyta
   pagrindžia:
     - t-003
 - c-002
-  santrauka: 'Birutė, anot legendos, pasitraukė nuo dievų aukuro į šeimos židinį ir išaugino Vytautą.'
+  santrauka: 'Ir ta lietuvė, kuri, anot legendos, turėjusi visą amžių tarnauti dievams, pasitraukusi nuo jų aukuro į šeimos židinį, išaugino Lietuvai nemažame savo vaikų būryje didelį vyrą — Vytautą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Iš
-    visų Gedimino giminės, kunigaikščių jis sudarė lietuviškiausią
-    šeimą. Ir ta lietuvė, kuri, anot legendos, turėjusi visą amžių
+    Ir ta lietuvė, kuri, anot legendos, turėjusi visą amžių
     tarnauti dievams, pasitraukusi nuo jų aukuro į šeimos židinį,
     išaugino Lietuvai nemažame savo vaikų būryje didelį vyrą —
     Vytautą. Negalima ginčyti istorikų nuomonės, kad Birutė esan­
     ti ne visų Kęstučio vaikų motina.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
 

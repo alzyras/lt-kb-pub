@@ -32,30 +32,28 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
 
 ## Teiginiai
 - t-001
-  teiginys: 'Pamario kunigaikščiai kariavo su Prūsų kiltimis, o aisčiai vengė iš Pamario ateidavusių misijonierių.'
+  teiginys: 'VIII-IX a. slavai jau buvo įsikūrę ir Pamaryje.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Olivos cistersų vienuolis Kristijonas, kilęs iš gretimosios Pamarės, XIII a. pradžioje sėkmingai veikė Prūsuose.'
+  teiginys: 'Aisčiai vengte vengdavo misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikščiais aisčiai nuolat kovojo.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+- t-003
+  teiginys: 'Pirmasis misijonierius, kuriam Prūsuose ėmė sektis, buvo iš gretimosios Pamarės, Olivos cistersų ordino vienuolis Kristijonas.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Pamario kunigaikščiai kariavo su Prūsų kiltimis, o aisčiai vengė iš Pamario ateidavusių misijonierių.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: 'VIII-IX a. slavai jau buvo įsikūrę ir Pamaryje.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Po šitų pirmųjų nepasisekusių misijų, buvo dar nemaža kitų,
-    tačiau jų visų darbas niekais nueidavo. Aisčiai vengte vengdavo
-    misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių
-    kunigaikščiais aisčiai nuolat kovojo. Todėl dabar tie kunigaikš-
-    čiai pradėjo vartoti prieš aisčius smurto jėgą: Pamario ir lenkų
-    kunigaikščiai kariavo su Prūsų kiltimis; su jotvingais kariavo
-    lenkai ir rytų Bažnyčiai priklausanti Voluinės kunigaikštija.
+    Su slavais išryškėjo karo ir prekybiniai santykiai. Apie VIII-IX
+    amž. jie jau buvo prie Polocko - Minsko, net pasiekė iš pietų
+    Gardino sritį. Tada jie įsikūrė ir Pamaryje.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -64,20 +62,36 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Olivos cistersų vienuolis Kristijonas, kilęs iš gretimosios Pamarės, XIII a. pradžioje sėkmingai veikė Prūsuose.'
+  santrauka: 'Aisčiai vengte vengdavo misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikščiais aisčiai nuolat kovojo.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Aisčiai vengte vengdavo
+    misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių
+    kunigaikščiais aisčiai nuolat kovojo. Todėl dabar tie kunigaikš-
+    čiai pradėjo vartoti prieš aisčius smurto jėgą: Pamario ir lenkų
+    kunigaikščiai kariavo su Prūsų kiltimis; su jotvingais kariavo
+    lenkai ir rytų Bažnyčiai priklausanti Voluinės kunigaikštija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Pirmasis misijonierius, kuriam Prūsuose ėmė sektis, buvo iš gretimosios Pamarės, Olivos cistersų ordino vienuolis Kristijonas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pirmasis misijonierius, kuriam Prūsuose ėmė sektis, buvo iš
     gretimosios Pamarės, Olivos cistersų ordino vienuolis Kristi-
-    jonas. Jis veikė XIII amžiaus pradžioje, t. y. praėjus šimtui
-    metų po šv. Vaitiekaus ir šv.
-  citata_rodoma: ""
+    jonas. Jis veikė XIII amžiaus pradžioje, t.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-002
+    - t-003
 
 ## Ryšiai
 ### Laikotarpiai

@@ -57,20 +57,16 @@ Nenurodyta
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: 'Maskvos kunigaikštienė į Maskvą atsivežė dalį Kristaus Kančios relikvijos.'
+  teiginys: 'Mas­ kvos kunigaikštienė grįžo į savo sostinę su brangiomis do­ vanomis, auksu ir sidabru papuoštais paveikslais, net dalį Kristaus Kančios relikvijos atsivežė į Maskvą, ir visu tuo la­ bai džiaugėsi, bet pagalbos iš Maskvos Vytautas vis dėlto negavo^3 ).'
   pagrindžia:
     - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Maskvos kunigaikštienė į Maskvą atsivežė ir dalį Kristaus Kančios relikvijos.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Kad laimėjimas būtų tikresnis, no­
-    rėjo patraukti į savo pusę ir Maskvą. Per dvi savaiti Vytau­
-    tas vaišino savo dukterį Zofiją su vaikais Smolenske. Mas­
+    Mas­
     kvos kunigaikštienė grįžo į savo sostinę su brangiomis do­
     vanomis, auksu ir sidabru papuoštais paveikslais, net dalį
     Kristaus Kančios relikvijos atsivežė į Maskvą, ir visu tuo la­
@@ -84,11 +80,10 @@ Nenurodyta
   pagrindžia:
     - t-002
 - c-002
-  santrauka: 'Maskvos kunigaikštienė į Maskvą atsivežė dalį Kristaus Kančios relikvijos.'
+  santrauka: 'Mas­ kvos kunigaikštienė grįžo į savo sostinę su brangiomis do­ vanomis, auksu ir sidabru papuoštais paveikslais, net dalį Kristaus Kančios relikvijos atsivežė į Maskvą, ir visu tuo la­ bai džiaugėsi, bet pagalbos iš Maskvos Vytautas vis dėlto negavo^3 ).'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Per dvi savaiti Vytau­
-    tas vaišino savo dukterį Zofiją su vaikais Smolenske. Mas­
+    Mas­
     kvos kunigaikštienė grįžo į savo sostinę su brangiomis do­
     vanomis, auksu ir sidabru papuoštais paveikslais, net dalį
     Kristaus Kančios relikvijos atsivežė į Maskvą, ir visu tuo la­
@@ -96,11 +91,11 @@ Nenurodyta
     negavo^3 ). Su Lenkija Vytauto santykiai tada buvo blo-
 
     (^1) ) Proch.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
 

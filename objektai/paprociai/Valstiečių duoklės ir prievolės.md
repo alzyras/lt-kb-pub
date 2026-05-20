@@ -41,15 +41,19 @@ Nenurodyta
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-008
+  teiginys: 'Valakų reforma pasunkino valstiečių santykį su valdoma žeme, gausino prievoles dvarui ir vertė siųsti daugiau darbo rankų į dvaro laukus.'
+  pagrindžia:
+    - c-002
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1557 metų valakų įstatymas Lietuvoje iš pagrindų pertvarkė žemės ūkio santykius, įvedė trilaukio ūkio sistemą ir suvarė valstiečius į kaimus.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Kai 1447 m. didysis Lietuvos kunigaikštis Kazimieras _drauge_
-    tapo ir Lenkijos karaliumi, prasidėjo Lietuvos bajorijos stiprėjimas
-    valstiečių sąskaitom Naująją epochą be šuolio galima atbaigti
+    Naująją epochą be šuolio galima atbaigti
     «valakų» įstatymu _(Ustava na valoki)._ Tas įstatymas (1557 m.)
     Lietuvoje iš pagrindų pertvarkė žemės ūkio santykius. Jis įvedė
     iki XX amž. pradžios išlikusią trilaukio ūkio sistemą (žiem­
@@ -61,6 +65,25 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-007
+- c-002
+  santrauka: 'Valakų reforma pasunkino valstiečių santykį su valdoma žeme, gausino prievoles dvarui ir vertė siųsti daugiau darbo rankų į dvaro laukus.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Tiesa, tas įstatymas reiškė didelę reformą ir žymią pažangą
+    žemės ūkio srityje. Juk ir pati žemė buvo išrūšiuota. Valstiečio
+    santykis su valdomąja žeme tačiau pasunkėjo. Tuo pačiu stiprėjo
+    bajorijos padėtis ir ūkiniu atžvilgiu. Javų kainų pakilimas bajorus
+    skatino didinti dirbamosios žemės arealą, steigti naujus dvarus
+    (palivarkus). Pačių valstiečių prievolės dvarui, suskaldant jų « va­
+    lakus », gausėjo. Vis daugiau darbo rankų iš valstiečio kiemo rei­
+    kėjo siųsti į dvaro laukus.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-008
 
 ## Ryšiai
 ### Teminiai klasteriai

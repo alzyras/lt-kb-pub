@@ -22,6 +22,7 @@ Pirmoji tokia organizacija buvo 1885 m. Tilžėje įkurta „Birutės" draugija.
 - t-001
   teiginys: '„Birutės“ draugija buvo įkurta 1885 m. Tilžėje lietuviškumui stiprinti ir tautinei sąmonei kelti.'
   pagrindžia:
+    - c-002
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
@@ -37,6 +38,20 @@ Pirmoji tokia organizacija buvo 1885 m. Tilžėje įkurta „Birutės" draugija.
     konservuoti lietuviškosios kultūros kūrinius mokslo reikalams,
     „Birutės" tikslas buvo stiprinti lietuviškumą ir kel-
     ti tautišką sąmonę.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: '„Birutės“ draugija buvo įkurta 1885 m. Tilžėje lietuviškumui stiprinti ir tautinei sąmonei kelti.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Jos sumanytojai buvo Basanavi-
+    čius, Šliūpas, Zauerveinas, M. Jankus, V. Bruožis, Mikšas ir
+    nemaža kitų M. Lietuvos veikėjų.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

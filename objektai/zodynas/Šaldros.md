@@ -26,39 +26,27 @@ Vartojamos formos: `šaldrų`, `prašaleičių`, `prašaleičiai`.
 - t-003
   teiginys: '`Šaldrų / prašaleičių` šiame tekste reiškia svetimus atvykėlius ar prašalaičius.'
   pagrindžia:
+    - c-001
     - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 - t-004
-  teiginys: 'Prašaleičiais vadinami iš kitur atklydę žmonės, kurių raštuose žinyčia vadinta Romove.'
+  teiginys: 'Šis žodis gali žymėti ir iš kitur atėjusius raštų žmones.'
   pagrindžia:
-    - c-002
     - c-001
+    - c-003
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Prašaleičiais vadinami iš kitur atklydę žmonės, kurių raštuose žinyčia vadinta Romove.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Antrosios žinyčios, prašaleičių raštuose Romove vadinamos, toksai yra aprašas. Didelėj lygmėj
-        pagiry stovėjęs nuo amžių aukštas ir didžiai drūktas ąžuolas, tuointimpos^770 žaliuojąs, beje,
-        vasarą ir žiemą, kursai buvęs šešiais kampais zomatu^771 aptvertas, priešakinėj sienoj netoli nuo
-        ąžuolo buvusi anga, o užpakalinėj rūsiai, kuriuose indai ir kiti įrankiai, tai lietai^772 derantys, buvę
-        laikomi.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-004
-- c-002
   santrauka: '`Šaldrų / prašaleičių` šiame tekste reiškia svetimus atvykėlius ar prašalaičius.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
-    Užvis jog šaldrų^709 ir prašaleičių, atklydusių į savo kraštą, kurie norėjo savo nuomonę apie dievą jiems įbrukti ir tikybą naują įkurti, tuos, kaipo norinčius sau valdžią įgyti ir svietą nuvergti, be meilės galavo.
+    Užvis jog
+    šaldrų^709 ir prašaleičių, atklydusių į savo kraštą, kurie norėjo savo nuomonę apie dievą jiems
+    įbrukti ir tikybą naują įkurti, tuos, kaipo norinčius sau valdžią įgyti ir svietą nuvergti, be meilės
+    galavo.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -66,6 +54,30 @@ Vartojamos formos: `šaldrų`, `prašaleičių`, `prašaleičiai`.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+    - t-004
+- c-002
+  santrauka: '`Šaldrų / prašaleičių` šiame tekste reiškia svetimus atvykėlius ar prašalaičius.'
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    (^709) perėjūnų, valkatų
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
+- c-003
+  santrauka: 'Šis žodis gali žymėti ir iš kitur atėjusius raštų žmones.'
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Antrosios žinyčios, prašaleičių raštuose Romove vadinamos, toksai yra aprašas.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
     - t-004
 
 ## Pastabos

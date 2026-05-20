@@ -7,17 +7,14 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - '1919 m.'
   - '2013 m.'
   - '2026 m.'
 periodas: 'atkurtos nepriklausomybės laikotarpis'
 periodo_grupes:
-  - 'modernioji Lietuva'
   - 'šiuolaikinė Lietuva'
 amziai:
-  - 'XX'
   - 'XXI'
-date_start: '1919'
+date_start: '2013'
 date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
@@ -34,22 +31,50 @@ Rugsėjį Himansas dar pataisė planą lietuvių naudai – Vilniaus regionas ja
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tuo metu Rytų Lietuvą kontroliavo bolševikai.'
+  teiginys: 'Pataisytame Himanso plane Vilniaus regionas nebesudarė kantono, o atitiko autonominio rajono statusą.'
+  pagrindžia:
+    - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: '1922 m. sausį Vilniaus krašte surengti rinkimai, po kurių Vidurinė Lietuva formaliai prisijungė prie Lenkijos.'
+  pagrindžia:
+    - c-003
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+- t-003
+  teiginys: 'Iki XX a. lietuviai Vilnių laikė istorine LDK sostine ir rėmėsi istoriniais argumentais.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: 'Tautavičius, tyrinėjęs pilkapius Rytų Lietuvoje (AkMD, t.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tuo metu Rytų Lietuvą kontroliavo bolševikai.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  santrauka: 'Iki XX a. lietuviai Vilnių laikė istorine LDK sostine ir rėmėsi istoriniais argumentais.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    1919 m. pavasarį Lenkijos kariuomenė kovojo Ukrainoje prie
-    Lvovo. Tuo metu Rytų Lietuvą kontroliavo bolševikai. Bolševikų pa-
-    jėgos šiame rajone buvo išsklaidytos ir sutelktos kitose ilgo fronto
-    vietose, o tarp Marcinkonių ir Lydos rusų pozicijose susidarė menkai
-    Pe 2 o ai ) pridengtas tarpas.
+    Kadangi iki XX a. nė viena pusė neneigė,
+    kad Vilnius yra istorinė LDK sostinė, lietuviai atkakliai kartojo istorinius
+    argumentus.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
+- c-002
+  santrauka: 'Pataisytame Himanso plane Vilniaus regionas nebesudarė kantono, o atitiko autonominio rajono statusą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Rugsėjį Himansas dar pataisė planą lietuvių
+    naudai – Vilniaus regionas jau nebesudarė kantono, o atitiko autonomi-
+    nio rajono statusą.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -57,11 +82,38 @@ Rugsėjį Himansas dar pataisė planą lietuvių naudai – Vilniaus regionas ja
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-003
+  santrauka: '1922 m. sausį Vilniaus krašte surengti rinkimai, po kurių Vidurinė Lietuva formaliai prisijungė prie Lenkijos.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1922 m. sausį jie surengė rinkimus Vilniaus krašte – Viduri-
+    nėje Lietuvoje, kuri formaliai prisijungė prie Lenkijos, o Lietuva liko „nei
+    karo, nei taikos“ situacijoje.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
+- c-004
+  santrauka: 'Tautavičius, tyrinėjęs pilkapius Rytų Lietuvoje (AkMD, t.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    A. Tautavičius, tyrinėjęs pilkapius Rytų Lietuvoje
+    (AkMD, t.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
 - [[laikotarpiai/XXI amžius]]
+- [[laikotarpiai/XX amžius]]
 
 ### Susiję objektai
 - [[objektai/vietos/Lvovas]]

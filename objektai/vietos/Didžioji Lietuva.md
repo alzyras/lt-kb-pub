@@ -12,8 +12,9 @@ datos:
   - '1909 m.'
   - '1936 m.'
   - '2026 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
+periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
+  - 'modernioji Lietuva'
   - 'naujieji laikai'
 amziai:
   - 'XIX'
@@ -33,25 +34,29 @@ rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų lietuvių; d
 
 ## Teiginiai
 - t-001
-  teiginys: 'Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir kiti lietuviai buvo kilę iš Didžiosios Lietuvos ir joje skleidė protestantizmą.'
+  teiginys: 'Daugelis lietuviškų raštų autorių buvo kilę iš Didžiosios Lietuvos ir joje skleidė protestantizmą.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Savo gausiuose veikaluose Lelevelis, kuris iki pat paskutinių savo gyvenimo metų (1861) emigracijoje nepaleido plunksnos iš rankos, yra nemaža palietęs ir Didžiosios Lietuvos Kunigaikštystės istoriją.'
+  pagrindžia:
+    - c-002
+- t-003
+  teiginys: 'Tur būt, ne be sugestijų žinomo baltisto-etnografo Ed. Volterio, pas kurį Petrapilyje Voldemaras gyveno, išspausdino jis 1909 m. įsidėmėtiną studiją apie XV-XVI amžiuose vykusią tautinę kovą Didžiojoje Lietuvos Kunigaikštijoje^72.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir kiti lietuviai buvo kilę iš Didžiosios Lietuvos ir joje skleidė protestantizmą.'
+  santrauka: 'Daugelis lietuviškų raštų autorių buvo kilę iš Didžiosios Lietuvos ir joje skleidė protestantizmą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Ten buvo pradėta rūpintis liaudim, ku-
-    riai buvo spausdinamos lietuviškos protestantiškos knygos. Jas
+    Jas
     rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų
     lietuvių; daugelis jų buvo kilę iš Didžiosios Lietuvos, kur irgi
     buvo skleidę protestantizmą. Bet vis dėlto svarbiausi protestan-
-
-
-    tizmo skleidėjai Lietuvoje buvo didikai.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -59,6 +64,36 @@ rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų lietuvių; d
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Savo gausiuose veikaluose Lelevelis, kuris iki pat paskutinių savo gyvenimo metų (1861) emigracijoje nepaleido plunksnos iš rankos, yra nemaža palietęs ir Didžiosios Lietuvos Kunigaikštystės istoriją.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Savo gausiuose veikaluose Lelevelis, kuris iki pat paskutinių
+    savo gyvenimo metų (1861) emigracijoje nepaleido plunksnos iš
+    rankos, yra nemaža palietęs ir Didžiosios Lietuvos Kunigaikštystės
+    istoriją. Jis parašė 1839 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Tur būt, ne be sugestijų žinomo baltisto-etnografo Ed. Volterio, pas kurį Petrapilyje Voldemaras gyveno, išspausdino jis 1909 m. įsidėmėtiną studiją apie XV-XVI amžiuose vykusią tautinę kovą Didžiojoje Lietuvos Kunigaikštijoje^72.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Tur būt, ne be sugestijų žinomo baltisto-etnografo
+    Ed. Volterio, pas kurį Petrapilyje Voldemaras gyveno, išspausdino jis
+    1909 m. įsidėmėtiną studiją apie XV-XVI amžiuose vykusią tautinę
+    kovą Didžiojoje Lietuvos Kunigaikštijoje^72.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Laikotarpiai

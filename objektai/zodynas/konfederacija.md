@@ -36,29 +36,41 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
 
 ## Teiginiai
 - t-001
-  teiginys: 'Su kariuomene ir suorganizuotais bajorijos būriais, vadintais konfederacijomis, jie puolė švedus ir Sapiegas.'
+  teiginys: 'Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunaikinti Sapiegos.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Priimtomis sąlygomis bajorijai buvo atimta teisė kurti konfederacijas, apribota hetmonų valdžia ir sumažinta kariuomenė.'
+  teiginys: 'Su kariuomene ir suorganizuotais bajorijos būriais, vadintais konfederacijomis, jie puolė švedus ir Sapiegas.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Priimtomis sąlygomis bajorijai buvo atimta teisė kurti konfederacijas, apribota hetmonų valdžia ir sumažinta kariuomenė.'
+  pagrindžia:
+    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-004
+  teiginys: 'Rembowski, Rokosz i konfederacija w d. prawie polskiem (1893).'
+  pagrindžia:
+    - c-004
+- t-005
+  teiginys: '6); — Bajorų konfederacijos (ten pat, Nr. 9); K.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Su kariuomene ir suorganizuotais bajorijos būriais, vadintais konfederacijomis, jie puolė švedus ir Sapiegas.'
+  santrauka: 'Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunaikinti Sapiegos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Sapiegos tuo tarpu grįžo į Lie-
-    tuvą, hetmonas gavo dalį švedų kariuomenės ir liko Vilniuje. Viš-
-    niaveckis, Oginskis ir kiti Sapiegų priešai su savo kariuomenės
-    būriais tuo tarpu tebebuvo krašte. Su ta kariuomene ir suor-
-    ganizuotais bajorijos būriais (konfederacijomis) jie puolė šve-
-    dus ir Sapiegas.
+    Bajorija sudarė
+    konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunaikinti
+    Sapiegos. Konfederacijos maršalka buvo išrinktas Katilas, o
+    regimentorium (karo vadu) — Mykolas Višniaveckis.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -67,17 +79,12 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Priimtomis sąlygomis bajorijai buvo atimta teisė kurti konfederacijas, apribota hetmonų valdžia ir sumažinta kariuomenė.'
+  santrauka: 'Su kariuomene ir suorganizuotais bajorijos būriais, vadintais konfederacijomis, jie puolė švedus ir Sapiegas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    **Rusų tarpininkavimo padariniai.** Priimtomis sąlygomis,
-    Augustas turėjo per 25 dienas grąžinti savo kariuomenę į Sak-
-    soniją, o bajorijai buvo atimta teisė kurti konfederacijas; be to,
-    buvo apribota hetmonų valdžia, o kariuomenės tebuvo palikta
-    iš viso vos 24.000, — 18.000 Lenkijai ir 6.000 Lietuvai. Tačiau
-    blogiausias viso to padarinys buvo tas, kad taika buvo pada-
-    ryta, tarpininkaujant caro generolui: toliau jau visą laiką carai
-    ėmė kištis į Respublikos vidaus reikalus.
+    Su ta kariuomene ir suor-
+    ganizuotais bajorijos būriais (konfederacijomis) jie puolė šve-
+    dus ir Sapiegas.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -85,6 +92,48 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Priimtomis sąlygomis bajorijai buvo atimta teisė kurti konfederacijas, apribota hetmonų valdžia ir sumažinta kariuomenė.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Priimtomis sąlygomis,
+    Augustas turėjo per 25 dienas grąžinti savo kariuomenę į Sak-
+    soniją, o bajorijai buvo atimta teisė kurti konfederacijas; be to,
+    buvo apribota hetmonų valdžia, o kariuomenės tebuvo palikta
+    iš viso vos 24.000, — 18.000 Lenkijai ir 6.000 Lietuvai.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Rembowski, Rokosz i konfederacija w d. prawie polskiem (1893).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    1906); — Sejm walny (1919); A. Rembowski, Rokosz i konfederacija w d.
+    prawie polskiem (1893).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: '6); — Bajorų konfederacijos (ten pat, Nr. 9); K.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    6); —
+    Bajorų konfederacijos (ten pat, Nr. 9); _K.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Laikotarpiai

@@ -55,19 +55,13 @@ Formulė pateikiama kaip argumentas, kad dvi karūnos ir dvi valstybės negali b
   teiginys: 'Tas projektas buvo naudingas dar ir tuo, kad, sudarius atskirą Lie­ tuvos karaliją, nors ir būtų pasilikusi unija, vis dėlto abi valsty­ bės būtų lygios buvusios^2 ), ir apie inkorporaciją kalbos būtų nebegalėję būti, nes karūna su karūna negali bū­ ti.'
   pagrindžia:
     - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Formulė vartojama kaip argumentas prieš Lietuvos inkorporavimą į kitą karūną.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    O jei Vytautas pats vienas,
-    be Jogailos, būtų apsikarūnavęs ir paskyręs savo nuožiūra sau
-    įpėdinį, tad aišku, Jogaila ir jo vaikai nebūtų turėję jokių teisių
-    į Lietuvos sostą. Jogaila pastaruoju projektu, jei būtų jis įvy­
-    kęs, kaip tik būtų apsaugojęs savo dinastijai Lietuvos sostą. Tas
+    Tas
     projektas buvo naudingas dar ir tuo, kad, sudarius atskirą Lie­
     tuvos karaliją, nors ir būtų pasilikusi unija, vis dėlto abi valsty­
     bės būtų lygios buvusios^2 ), ir apie inkorporaciją kalbos būtų
@@ -84,8 +78,7 @@ Formulė pateikiama kaip argumentas, kad dvi karūnos ir dvi valstybės negali b
   santrauka: 'Tas projektas buvo naudingas dar ir tuo, kad, sudarius atskirą Lie­ tuvos karaliją, nors ir būtų pasilikusi unija, vis dėlto abi valsty­ bės būtų lygios buvusios^2 ), ir apie inkorporaciją kalbos būtų nebegalėję būti, nes karūna su karūna negali bū­ ti.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Jogaila pastaruoju projektu, jei būtų jis įvy­
-    kęs, kaip tik būtų apsaugojęs savo dinastijai Lietuvos sostą. Tas
+    Tas
     projektas buvo naudingas dar ir tuo, kad, sudarius atskirą Lie­
     tuvos karaliją, nors ir būtų pasilikusi unija, vis dėlto abi valsty­
     bės būtų lygios buvusios^2 ), ir apie inkorporaciją kalbos būtų
@@ -94,11 +87,11 @@ Formulė pateikiama kaip argumentas, kad dvi karūnos ir dvi valstybės negali b
     gerai suprato, kad laisva ir paveldima Lietuvos karalija
     būtų buvusi tikra garantija tvirtai laikytis Lenkijoj ir ją valdyt,
     išlaikant dinastijos teises savo rankose.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
 

@@ -11,8 +11,9 @@ datos:
   - '1226 m.'
   - '1936 m.'
   - '2026 m.'
-periodas: 'viduramžiai'
+periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
+  - 'modernioji Lietuva'
   - 'viduramžiai'
 amziai:
   - 'XII'
@@ -34,32 +35,25 @@ karai prieš turkus Palestinoje ir vyravo nuomonė, kad su netikėliais pagonimi
 
 ## Teiginiai
 - t-001
-  teiginys: 'Europoje skelbiami kryžiaus karai prieš turkus Palestinoje pritraukdavo nemažai savanorių karių.'
+  teiginys: 'Kryžiaus karų prieš turkus Palestinoje metu Europoje atsirasdavo nemažai savanorių karių.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Palestinoje, einant kryžiaus karams su turkais, krikščionims apsaugoti ir kariauti buvo įsteigti net keli riterių vienuolių ordinai (templininkų, joanitų ir vokiečių, arba kryžiuočių, ordinas).'
+  teiginys: 'KARALIUS MINDAUGAS IR JO PALIKIMAS 167 ordinas , kuris savo pradžią buvo gavęs 1190 m. Palestinoje prie Akonos apgulimo^74.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Europoje skelbiami kryžiaus karai prieš turkus Palestinoje pritraukdavo nemažai savanorių karių.'
+  santrauka: 'Kryžiaus karų prieš turkus Palestinoje metu Europoje atsirasdavo nemažai savanorių karių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Dažnai jis pats nuvykdavo į Vokietiją ir atsiveždavo
-    būrius karių ir riterių, kurie jam padėjo ne tik saugoti esančias
-    krikščionių bendruomenes, bet ir plėsti krikščionybę ir stiprinti
-    valdžią. Kadangi tuo metu Europoje buvo skelbiami kryžiaus
+    Kadangi tuo metu Europoje buvo skelbiami kryžiaus
     karai prieš turkus Palestinoje ir vyravo nuomonė, kad su neti-
     kėliais pagonimis reikią kariauti, todėl savanorių karių atsiras-
-    davo nemaža. Bet atvykstančių karių pagalba buvo laikinė, nes,
-    pabuvę kiek laiko (dažniausiai metus), jie grįždavo atgal, ir vėl
-    reikėdavo ieškoti naujų karių.
+    davo nemaža.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -68,20 +62,27 @@ karai prieš turkus Palestinoje ir vyravo nuomonė, kad su netikėliais pagonimi
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Palestinoje, einant kryžiaus karams su turkais, krikščionims apsaugoti ir kariauti buvo įsteigti net keli riterių vienuolių ordinai (templininkų, joanitų ir vokiečių, arba kryžiuočių, ordinas).'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: 'KARALIUS MINDAUGAS IR JO PALIKIMAS 167 ordinas , kuris savo pradžią buvo gavęs 1190 m. Palestinoje prie Akonos apgulimo^74.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    **Kalavijuočių ordino įkūrimas** (1202 m.). Palestinoje,
-    einant kryžiaus karams su turkais, krikščionims apsaugoti
-    ir kariauti buvo įsteigti net keli riterių vienuolių ordinai
-    (templininkų, joanitų ir vokiečių, arba kryžiuočių, ordinas).
-    Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vysku-
-    pijoje.
-  citata_rodoma: ""
+    **
+
+
+    ```
+    KARALIUS MINDAUGAS IR JO PALIKIMAS 167
+    ```
+    _ordinas_ , kuris savo pradžią buvo gavęs 1190 m. Palestinoje prie
+    Akonos apgulimo^74.
+    Ketvirtasis vokiečių ordino magistras Hermanas Salza, gavęs
+    Mozūrijos kunigaikščio Konrado kvietimą atsiųsti riterių gintis nuo
+    įkyrių prūsų puldinėjimų, iš imperatoriaus Fridricho II (Hohenštau-
+    feno) išsirūpino ordino ateičiai rytuose reikšmingą privilegiją, duotą
+    Rimini, Italijoje, 1226 m.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
 

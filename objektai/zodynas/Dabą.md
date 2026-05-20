@@ -21,18 +21,26 @@ Vartojamos formos: `dabos`.
 
 ## Teiginiai
 - t-003
-  teiginys: 'Daba minima kartu su būdu ir tikyba, aiškinant senovės lietuvių panašumą į indijonis.'
+  teiginys: '`Dabą` šiame tekste reiškia papročius arba gyvenimo būdą.'
   pagrindžia:
     - c-001
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  statusas: patvirtinta
+- t-004
+  teiginys: 'Autorius ją laiko vienu iš tautos senovės bruožų greta būdo ir tikybos.'
+  pagrindžia:
+    - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Daba minima kartu su būdu ir tikyba, aiškinant senovės lietuvių panašumą į indijonis.'
+  santrauka: '`Dabą` šiame tekste reiškia papročius arba gyvenimo būdą.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
-    jog svietas dar pasakomis minėjo, jog nuo Indijos kilimo buvo, jau nuo jų būdo, dabos ir tikybos, kuo būtinai indijonims pavėdavo^68 , kaip mums tą senovės raštininkai stigavoja^69.
+    kurių aš čia užsiėmiau^59 būdą, dabą^60 , tikybą, ūkės rėdą, karybą, prekybą ir mantą^61 , arba pinigus,
+    trumpai išrašyti^62 pagal tą, kaip senovės raštininkai išrašę paliko ir ką dar pačios patarlės, kalboj
+    tebesančios, tvirtina,
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -40,6 +48,19 @@ Vartojamos formos: `dabos`.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+- c-002
+  santrauka: 'Autorius ją laiko vienu iš tautos senovės bruožų greta būdo ir tikybos.'
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    jog svietas dar pasakomis minėjo, jog nuo Indijos kilimo buvo, jau nuo jų būdo, dabos ir tikybos,
+    kuo būtinai indijonims pavėdavo^68 , kaip mums tą senovės raštininkai stigavoja^69.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
 
 ## Pastabos
 

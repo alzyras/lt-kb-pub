@@ -52,21 +52,40 @@ Nenurodyta
 
 ## Teiginiai
 - t-003
-  teiginys: 'Prieš mūšį Vytautas reikalavo, kad visos Ordos pinigai būtų žymimi Vytauto ženklu.'
+  teiginys: 'Pasak šaltinio, Vytautas reikalavo, kad chanas jam paklustų ir savo piniguose muštų Vytauto ženklą.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-004
-  teiginys: 'Edigėjus, atsakydamas į ankstesnį Vytauto reikalavimą, pareikalavo Lietuvos pinigus žymėti Ordos ženklais.'
+  teiginys: 'Mūšis Pokalbyje su chanu prieš mūšį Vytautas tarsi reikalavęs pavaldumo - visos Ordos pinigus žymėti Vytauto ženklu.'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+- t-005
+  teiginys: 'Edigėjus skelbėsi amžiumi vyresniu, todėl reikalavo Vytauto klusnumo ir atsakydamas į ankstesnį Vytauto reikalavimą, pareikalavo Lietuvos pinigus žymėti Ordos ženklais.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Prieš mūšį Vytautas reikalavo, kad visos Ordos pinigai būtų žymimi Vytauto ženklu.'
+  santrauka: 'Pasak šaltinio, Vytautas reikalavo, kad chanas jam paklustų ir savo piniguose muštų Vytauto ženklą.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Sustojęs rugpiučio 5 Vorsklos
+    krante, Vytautas laukė kelias dienas ir su chanu Timuru — Kut­
+    lugu vedė nesėkmingas derybas. Esą Vytautas reikalavęs chaną
+    jam paklusti ir savo piniguose mušti Vytauto ženklą^33. Timuras
+    tačiau derybomis norėjo tik laimėti laiko, nes laukė savo karo
+    vado Edigos dalinių.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
+- c-002
+  santrauka: 'Mūšis Pokalbyje su chanu prieš mūšį Vytautas tarsi reikalavęs pavaldumo - visos Ordos pinigus žymėti Vytauto ženklu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mūšis
@@ -81,15 +100,15 @@ Nenurodyta
 
     Žasto, dilbio, kelio ir blauz-
     dos apsaugos.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-003
-- c-002
-  santrauka: 'Edigėjus, atsakydamas į ankstesnį Vytauto reikalavimą, pareikalavo Lietuvos pinigus žymėti Ordos ženklais.'
+    - t-004
+- c-003
+  santrauka: 'Edigėjus skelbėsi amžiumi vyresniu, todėl reikalavo Vytauto klusnumo ir atsakydamas į ankstesnį Vytauto reikalavimą, pareikalavo Lietuvos pinigus žymėti Ordos ženklais.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Edigėjus skelbėsi amžiumi vy-
@@ -99,16 +118,14 @@ Nenurodyta
     Ordos ženklais. Tuomet Vytautas įsakė
     savo kariams ruoštis kautynėms.
 
-    1399 m. rugpjūčio 12 d., „dvi valan-
-    dos iki saulėlydžio“ prasidėjo „didžiausias
-    mūšis“.
-  citata_rodoma: ""
+    1399 m.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-004
+    - t-005
 
 ## Ryšiai
 ### Teminiai klasteriai

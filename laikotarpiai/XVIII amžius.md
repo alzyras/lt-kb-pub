@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 137.
+Objektų skaičius: 139.
 
 ## Kaip naudoti
 
@@ -92,6 +92,7 @@ Objektų skaičius: 137.
 ### Papročiai
 - [Husarų vėliavų „draugų“ ir palydos sistema](../objektai/paprociai/Husar%C5%B3%20v%C4%97liav%C5%B3%20%E2%80%9Edraug%C5%B3%E2%80%9C%20ir%20palydos%20sistema)
 - [Kandidatas Žydų gyvenimo ribojimas sėslumo riba Rusijos imperijoje](../objektai/paprociai/Kandidatas%20%C5%BDyd%C5%B3%20gyvenimo%20ribojimas%20s%C4%97slumo%20riba%20Rusijos%20imperijoje)
+- [Trijų Lietuvos valstybingumo datų minėjimas per nacionalines šventes](../objektai/paprociai/Trij%C5%B3%20Lietuvos%20valstybingumo%20dat%C5%B3%20min%C4%97jimas%20per%20nacionalines%20%C5%A1ventes)
 
 ### Posakiai
 - [duona, tolerancija, demokratija, konstitucija, barokas](../objektai/posakiai/duona%2C%20tolerancija%2C%20demokratija%2C%20konstitucija%2C%20barokas)
@@ -103,7 +104,6 @@ Objektų skaičius: 137.
 - [Baltarusija](../objektai/vietos/Baltarusija)
 - [Chotinas](../objektai/vietos/Chotinas)
 - [Gardinas](../objektai/vietos/Gardinas)
-- [Karaliaučius](../objektai/vietos/Karaliau%C4%8Dius)
 - [Krokuva](../objektai/vietos/Krokuva)
 - [Kuoknesė](../objektai/vietos/Kuoknes%C4%97)
 - [Kuršas](../objektai/vietos/Kur%C5%A1as)
@@ -121,6 +121,7 @@ Objektų skaičius: 137.
 - [Užupis](../objektai/vietos/U%C5%BEupis)
 - [Varšuva](../objektai/vietos/Var%C5%A1uva)
 - [Šiauliai](../objektai/vietos/%C5%A0iauliai)
+- [Šiaulių ekonomija](../objektai/vietos/%C5%A0iauli%C5%B3%20ekonomija)
 - [Švedija](../objektai/vietos/%C5%A0vedija)
 
 ### Įvykiai
@@ -141,6 +142,7 @@ Objektų skaičius: 137.
 - [Kosciuškos sukilimas (1794 m.)](../objektai/ivykiai/Kosciu%C5%A1kos%20sukilimas%20%281794%20m.%29)
 - [Kėdainių sutarties sudarymas su Švedija](../objektai/ivykiai/K%C4%97daini%C5%B3%20sutarties%20sudarymas%20su%20%C5%A0vedija)
 - [LDK 1-osios Tautinės brigados sukilimo pradžia Šiauliuose (1794 m. balandžio 16 d.)](../objektai/ivykiai/LDK%201-osios%20Tautin%C4%97s%20brigados%20sukilimo%20prad%C5%BEia%20%C5%A0iauliuose%20%281794%20m.%20baland%C5%BEio%2016%20d.%29)
+- [Lietuvos Brastos mūšis (1792 m. liepos 23 d.)](../objektai/ivykiai/Lietuvos%20Brastos%20m%C5%AB%C5%A1is%20%281792%20m.%20liepos%2023%20d.%29)
 - [Lietuvos ir Lenkijos paskutinis padalinimas](../objektai/ivykiai/Lietuvos%20ir%20Lenkijos%20paskutinis%20padalinimas)
 - [Miro mūšis (1792 m. birželio 11 d.)](../objektai/ivykiai/Miro%20m%C5%AB%C5%A1is%20%281792%20m.%20bir%C5%BEelio%2011%20d.%29)
 - [Nebylus seimas (1717 m.)](../objektai/ivykiai/Nebylus%20seimas%20%281717%20m.%29)

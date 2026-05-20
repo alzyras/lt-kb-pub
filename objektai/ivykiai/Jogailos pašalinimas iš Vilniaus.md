@@ -32,19 +32,44 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vytautui užtarus Jogailą, Kęstutis jį paleido ir davė valdyti Vitebską.'
+  teiginys: 'Kęstutis, radęs Jogailos sutarties su Ordinu raštą, paskelbė atimąs iš Jogailos sostą.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: 'Vytautui užtarus Jogailą, Kęstutis jį paleido ir davė valdyti Vitebską.'
+  pagrindžia:
+    - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
+  santrauka: 'Kęstutis, radęs Jogailos sutarties su Ordinu raštą, paskelbė atimąs iš Jogailos sostą.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Kęstutis tuojau patikėjo žinia, nes jau ir pats įtarė
+    Jogailą. Vytautas, kartu augęs ir draugavęs su Jogaila, nenorėjo
+    tuo tikėti. Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas
+    išvyko į Drohičiną. Jogaila tuo metu buvo išsiuntęs kariuomenę
+
+    į Polocką; čia buvo ir Skirgaila, paskirtas, po sukilusio Andriaus,
+    Polocko kunigaikščiu. Todėl, Kęstučio apsiausta, Vilniaus pi-
+    lis labai greit pasidavė. Kęstutis tuojau suėmė visą Jogailos šei-
+    mą. Radęs sutarties su ordinu raštą, — išdavimo įrodymą tu-
+    rėdamas savo rankose, jis pasiskelbė atimąs iš Jogailos sostą.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
   santrauka: 'Vytautui užtarus Jogailą, Kęstutis jį paleido ir davė valdyti Vitebską.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Radęs sutarties su ordinu raštą, — išdavimo įrodymą tu-
-    rėdamas savo rankose, jis pasiskelbė atimąs iš Jogailos sostą.
     Tačiau, Vytautui užtarus Jogailą, Kęstutis ne tiktai jį paleido
     suimtą, bet dar jam davė valdyti Vitebską, kurį valdė jaunystėje
     jo tėvas Algirdas. Į Polocką išsiųsta Jogailos kariuomenė, iš-
@@ -55,4 +80,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

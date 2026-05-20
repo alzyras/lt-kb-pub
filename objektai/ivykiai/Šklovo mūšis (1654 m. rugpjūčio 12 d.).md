@@ -52,42 +52,19 @@ Nenurodyta
 
 ## Teiginiai
 - t-003
-  teiginys: '1654 m. rugpjūčio 12 d. kunigaikštis Čerkaskis, turėdamas apie 40 000 karių, nuo Smolensko žygiavo užimti Oršą ir Kopysę.'
-  pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-004
-  teiginys: 'Šklovo mūšyje LDK kariuomenei vadovavo didysis etmonas kunigaikštis Jonušas Radvila.'
+  teiginys: 'Kunigaikštis Čerkaskis iš Smolensko žygiavo užimti Oršą ir Kopysę, o Šklovo mūšio dieną priešininkų pajėgos dar tik ruošėsi susidūrimui.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: 'Lietuvos pajėgos Šklovo mūšyje LDK kariuomenei vadovavo didysis etmonas kunigaikštis Jonušas Radvila (1612-1655).'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Šklovo mūšyje LDK kariuomenei vadovavo didysis etmonas kunigaikštis Jonušas Radvila.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lietuvos pajėgos
-
-    Šklovo mūšyje LDK kariuomenei vadovavo
-
-    didysis etmonas kunigaikštis Jonušas Radvila
-    (1612-1655). 1654 m. liepos mėn. J. Radvilos
-
-    vadovaujamas LDK karines pajėgas sudarė
-    11261 karys. Lietuviai stipriai nusileido ru-
-    sams pajėgų dydžiu.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-004
-- c-002
-  santrauka: '1654 m. rugpjūčio 12 d. kunigaikštis Čerkaskis, turėdamas apie 40 000 karių, nuo Smolensko žygiavo užimti Oršą ir Kopysę.'
+  santrauka: 'Kunigaikštis Čerkaskis iš Smolensko žygiavo užimti Oršą ir Kopysę, o Šklovo mūšio dieną priešininkų pajėgos dar tik ruošėsi susidūrimui.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Caro kariuomenė prie
@@ -107,6 +84,27 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+- c-002
+  santrauka: 'Lietuvos pajėgos Šklovo mūšyje LDK kariuomenei vadovavo didysis etmonas kunigaikštis Jonušas Radvila (1612-1655).'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Lietuvos pajėgos
+
+    Šklovo mūšyje LDK kariuomenei vadovavo
+
+    didysis etmonas kunigaikštis Jonušas Radvila
+    (1612-1655). 1654 m. liepos mėn. J. Radvilos
+
+    vadovaujamas LDK karines pajėgas sudarė
+    11261 karys. Lietuviai stipriai nusileido ru-
+    sams pajėgų dydžiu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Laikotarpiai

@@ -32,23 +32,34 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Sukilėliai planavo užimti Palangos ir Liepojos uostus.'
+  teiginys: 'Palangoje buvo tirta žalvario amžiaus gyvenvietė.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Lietuvai atiteko tuomet dar menkai naudingas pajūris nuo Palangos iki Kuršo Šventosios.'
+  pagrindžia:
+    - c-002
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-003
+  teiginys: 'Autorius temas semia iš bėgančiojo gyvenimo laikinoj mūsų sos­ tinėj, o vasarą — iš lietuviškiausio mūsų kurorto — Palangos.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Sukilėliai planavo užimti Palangos ir Liepojos uostus.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  santrauka: 'Palangoje buvo tirta žalvario amžiaus gyvenvietė.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    ginklų ir savanorių iš Londono. Sukilėliai
-    planavo užimti Palangos ir Liepojos uos-
-    tus. Turėdami savo rankose uostų kontrolę,
-    sukilėliai tikėjosi palaikyti nuolatinius
-    ryšius su Lenkija ir kitomis šalimis, iš kur
-    tikėtasi paramos.
+    I. Sadauskaitė rašė apie Kairėnu, Sei-
+    (^95) **Pvz., Paveisininkų (IstV, t. 11, 1970, 227-246 p.), Rasių apylinkės
+    (IstV, t. 12, sąs. 2, 1972, 143-160 p.), Rudaminos (IstV, t. 13, sąs. 2, 1972,
+    83-108 p.), Raginėnų paminklus (AkMD, t. 4, 1958, 65-87 p.), Kurmaičių
+    kapinyną (AkMD, t. 3, 1957, 141-151 p.), Y-VI a. jotvingių senkapį Krikšto­
+    nyse (AkMD, t. 6, 1959, 71-86 p.), žalvario amžiaus gyvenvietę Palangoje
+    (AkMD, t. 7, 1959, 33-40 p.).
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -56,6 +67,41 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Lietuvai atiteko tuomet dar menkai naudingas pajūris nuo Palangos iki Kuršo Šventosios.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Teoretiškai
+    jos buvo siekusios Žemaičių valdžioje esančių Minijos aukštupių.
+    Lietuvai atiteko tuomet dar menkai naudingas pajūris nuo
+    Palangos iki Kuršo Šventosios. Bet tas siaurutis žemės lopelis —
+    Žemaičių žemės kylio pats smaigalys — negailestingai skėlė vokie­
+    čių ordino valstybę į dvi dalis.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Autorius temas semia iš bėgančiojo gyvenimo laikinoj mūsų sos­ tinėj, o vasarą — iš lietuviškiausio mūsų kurorto — Palangos.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Autorius temas semia iš bėgančiojo gyvenimo laikinoj mūsų sos­
+    tinėj, o vasarą — iš lietuviškiausio mūsų kurorto — Palangos. Rašo jis
+    klasiškomis eilėmis, labai švelniai, sakyčiau, net kai kur—peršvelniai,
+    taip, kad jo satyriškų knybtelėjimų be komentoriaus negalima nė su­
+    prasti, nors civilės drąsos jis turi užtektinai, nes savo satyros objektų
+    nebijo net tikrais vardais pavadinti.
+    10.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Laikotarpiai

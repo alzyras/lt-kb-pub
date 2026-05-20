@@ -46,23 +46,83 @@ Cituojama „Naujosios Prūsijos žemės kronika“ ištrauka apie tai, kaip 137
 
 ## Teiginiai
 - t-003
-  teiginys: 'Vygando Marburgiečio „Naujosios Prūsijos žemės kronika“ aprašo, kaip 1376 m. Algirdas ir Kęstutis siaubė Ordino valdas.'
+  teiginys: 'Cituojama „Naujosios Prūsijos žemės kronika“ ištrauka apie tai, kaip 1376 m. Algirdas ir Kęstutis siaubia Ordino valdas.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-004
-  teiginys: 'Vygando Marburgiečio „Naujoji Prūsijos kronika“ aprašo Marienverderio pilies šturmą 1384 m.'
+  teiginys: 'Cituojama „Naujosios Prūsijos žemės kronika“ ištrauka apie Marienverderio pilies šturmą 1384 m.'
   pagrindžia:
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: 'Piksidomis (mažesnio kalibro pabūklais) daugelį jų karių Ištrauka iš Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“ apie tai, kaip 1376 m. Algirdas ir Kęstutis siaubia Ordino valdas.'
+  pagrindžia:
+    - c-003
+- t-006
+  teiginys: 'MARIENVERDERIO PAĖMIMAS Ištrauka iš Vygando Marburgiečio „Naujosios Prūsijos kronikos“ apie Marienverderio pilies šturmą 1384 m. „Trečiadienį, Švento Mato dieną [1384m. rugsėjo 21 d.], prie jos [pilies] prisiartino [stabmeldžiai].'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
+- c-003
+  santrauka: 'Piksidomis (mažesnio kalibro pabūklais) daugelį jų karių Ištrauka iš Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“ apie tai, kaip 1376 m. Algirdas ir Kęstutis siaubia Ordino valdas.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Piksidomis (ma-
+    žesnio kalibro pabūklais) daugelį jų karių
+
+    Ištrauka iš Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“ apie tai,
+    kaip 1376 m. Algirdas ir Kęstutis siaubia Ordino valdas.
+
+    „Tais pačiais metais Kęstutis ir Algirdas, pagavę [Ordino] sargybinius, trimis voromis
+    įsiveržia į neįspėtą Nadruvos kraštą ir aplink Įsruties pilį viską išdegina. Nusivaro vyrus,
+    moteris, taip pat [Ordino] brolių arklius su milžinišku grobiu. Kita kariuomenės vora kaip
+    priešai užpuola Narkyčius. Tenai niokoja taip kaip prieš tai. Pagaliau [niokoja] Taplaukio
+    krašte ir Nadruvoje, [nusinesdami] pakankamą grobį ir t.t. Trečioji vora - Vėluvos žemėje,
+    kurią parbėga, degindami ir naikindami kaimus, bažnyčias, ir viską žudydami ar imdami
+    į nelaisvę. Panašiai pasielgė Karaliaučiaus kanauninkų Želvos valsčiuje, išvesdami vyrus
+    ir moteris. Paskui skuba prie Jurgenburgo - vyskupo pilies ir t.t.“
+
+    Naujoji Prūsijos kronika apie lietuvių reidą į ordino žemes 1376 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-004
+  santrauka: 'MARIENVERDERIO PAĖMIMAS Ištrauka iš Vygando Marburgiečio „Naujosios Prūsijos kronikos“ apie Marienverderio pilies šturmą 1384 m. „Trečiadienį, Švento Mato dieną [1384m. rugsėjo 21 d.], prie jos [pilies] prisiartino [stabmeldžiai].'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    MARIENVERDERIO PAĖMIMAS
+
+    Ištrauka iš Vygando Marburgiečio „Naujosios Prūsijos kronikos“ apie Marienverderio
+    pilies šturmą 1384 m.
+
+    „Trečiadienį, Švento Mato dieną [1384m. rugsėjo 21 d.], prie jos [pilies] prisiartino [sta-
+    bmeldžiai]. Nemuną jie užtvėrė taip, kad niekas negalėjo juo priplaukti. Pirmųjų mišparų
+    [valandą] prasidėjo kautynės, ir iš abiejų pusių po keletą krito. Ir jie veržėsi prie pilies, o
+    komtūras Henrikas iš Klėno tarė saviškiams:
+
+    „Kaip jums patinka šita kariuomenė?“
+
+    Ir [jie] atsakė: „Daug jau buvo - nepaėmė, bet kad Nemuną sargybomis apstatė, mums
+    bus sunku.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Vygando Marburgiečio „Naujosios Prūsijos žemės kronika“ aprašo, kaip 1376 m. Algirdas ir Kęstutis siaubė Ordino valdas.'
+  santrauka: 'Cituojama „Naujosios Prūsijos žemės kronika“ ištrauka apie tai, kaip 1376 m. Algirdas ir Kęstutis siaubia Ordino valdas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Ištrauka iš Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“ apie tai,
@@ -75,7 +135,7 @@ Cituojama „Naujosios Prūsijos žemės kronika“ ištrauka apie tai, kaip 137
   pagrindžia:
     - t-003
 - c-002
-  santrauka: 'Vygando Marburgiečio „Naujoji Prūsijos kronika“ aprašo Marienverderio pilies šturmą 1384 m.'
+  santrauka: 'Cituojama „Naujosios Prūsijos žemės kronika“ ištrauka apie Marienverderio pilies šturmą 1384 m.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Ištrauka iš Vygando Marburgiečio „Naujosios Prūsijos kronikos“ apie Marienverderio

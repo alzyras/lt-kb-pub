@@ -33,26 +33,25 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: '1424 m. Niešavos miestelyje sudaryta prekybos sutartis dėl laisvo tranzito.'
+  teiginys: 'Prie Niešavos jie iš Konrado gavo žemių su pilaite ir pasistatė Fogelzango pilį.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: '1424 metais buvo dar padaryta prekybos sutar­ tis Niešavo miestelyje.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1424 m. Niešavos miestelyje sudaryta prekybos sutartis dėl laisvo tranzito.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: 'Prie Niešavos jie iš Konrado gavo žemių su pilaite ir pasistatė Fogelzango pilį.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tiktai po Melno taikos, prasidėjus geriems Vytauto
-    santykiams su magistru Russdorfu, nebepasitaikė daugiau su­
-    varžymų ir represijų, kurios būtų palietusios vokiečių arba Lie­
-    tuvos pirklius. 1424 metais buvo dar padaryta prekybos sutar­
-    tis Niešavo miestelyje. Čia aktu, pavadintu „über transitus“
-    (laisvas tranzitas), nustatyta, kad Lietuvos, Žemaičių, Lenkijos,
-    Maskvos ir Rusijos pirkliai galės visai laisvai prekiauti Vokie­
-    čių ir Livonijos Ordinų žemėse, o šių pastarųjų pirkliai — aukš­
-    čiau išvardintuose kraštuose^4 ).
+    Čia jie gavo iš Konrado
+    žemių su Niešavos pi-
+    laite, o patys pasista-
+    tė Fogelzango pilį.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -60,6 +59,23 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: '1424 metais buvo dar padaryta prekybos sutar­ tis Niešavo miestelyje.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    1424 metais buvo dar padaryta prekybos sutar­
+    tis Niešavo miestelyje. Čia aktu, pavadintu „über transitus“
+    (laisvas tranzitas), nustatyta, kad Lietuvos, Žemaičių, Lenkijos,
+    Maskvos ir Rusijos pirkliai galės visai laisvai prekiauti Vokie­
+    čių ir Livonijos Ordinų žemėse, o šių pastarųjų pirkliai — aukš­
+    čiau išvardintuose kraštuose^4 ).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Laikotarpiai

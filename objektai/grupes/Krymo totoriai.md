@@ -36,28 +36,42 @@ Taip pat buvo jam paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susit
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lietuvos pajėgose buvo apie 2 tūkst. Krymo totorių samdinių.'
+  teiginys: 'Krymo totoriai buvo paklusnūs Vytautui, kai Kryme įsigalėjo su juo susitaikęs chanas Devletberdi.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Po pergalės ties Prostkais totoriai pasitraukė iš lietuvių pajėgų dėl konflikto dėl belaisvių.'
+  teiginys: '1427 m. pabaigoje Vytauto remiamas Machmetas pavaldė Pavolgio, Juodmarių pakraščio ir Krymo totorius.'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Krymo totorių - samdinių.'
+  pagrindžia:
+    - c-003
+- t-004
+  teiginys: 'Valdekas gavo žinią, kad šiauriau Prostkų per upę keliasi totoriai.'
+  pagrindžia:
+    - c-004
+- t-005
+  teiginys: 'Po pergalės ties Prostkais tarp lietuvių ir jų samdinių totorių kilo konfliktas dėl belaisvių, ypač B.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lietuvos pajėgose buvo apie 2 tūkst. Krymo totorių samdinių.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  santrauka: 'Krymo totoriai buvo paklusnūs Vytautui, kai Kryme įsigalėjo su juo susitaikęs chanas Devletberdi.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Lietuvių tikslas buvo priversti atsi-
-    sakyti Burgundijos kiurfiurstą sąjungos
-    su Švedija. Lietuvos pajėgas sudarė apie
-    10 tūkst. lietuvių ir 2 tūkst. Krymo to-
-    torių - samdinių.
+    Taigi paskutiniais savo valdymo metais Vytautas
+    Aukso Ordą turėjo visiškoje savo įtakoje. Taip pat buvo jam
+    paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susitaikęs
+    chanas Devletberdi, vėliau Machmeto nužudytas.
+    Be šių Vytautui paklusnių totorių, jis turėjo jų ir tiesiog jam
+    priklausančių, nes daug jų gyveno Podolijoj, Kijevo apylinkėse,
+    o kai kurie net etnografinėje Lietuvoje.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -66,11 +80,14 @@ Taip pat buvo jam paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susit
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Po pergalės ties Prostkais totoriai pasitraukė iš lietuvių pajėgų dėl konflikto dėl belaisvių.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  santrauka: '1427 m. pabaigoje Vytauto remiamas Machmetas pavaldė Pavolgio, Juodmarių pakraščio ir Krymo totorius.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Pilypavo mūšis 1656 m. spalio 22 d. Po pergalės ties Prostkais tarp lietuvių ir jų samdinių totorių kilo konfliktas dėl belaisvių, ypač B. Radvilos. Dėl to totoriai pasitraukė iš lietu-
-    vių pajėgų. Pasinaudodami tuo švedai ir brandendburgiečiai, surinkę papildomas pajėgas, pasivijo lietuvius ties Pilypavu (netoli Suvalkų) ir juos sumušė.
+    Buvo laikai, kad jo būklė būdavo labai kritiška. Iš karto atsi­
+    rasdavo net keli „saarai“ (pav. 1427 mt. pradžioje jų buvo dar
+    5), bet 1427 met. gale Vytauto palaikomasis Machmetas įsiga­
+    lėjo galutinai. Jis suima savo valdžion visus Pavolgio, Juod­
+    marių pakraščio ir Krymo totorius.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -78,6 +95,48 @@ Taip pat buvo jam paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susit
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Krymo totorių - samdinių.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Lietuvos pajėgas sudarė apie
+    10 tūkst. lietuvių ir 2 tūkst. Krymo to-
+    torių - samdinių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Valdekas gavo žinią, kad šiauriau Prostkų per upę keliasi totoriai.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Tuo tarpu G. Valdekas gavo žinią,
+    kad šiauriau Prostkų per upę keliasi toto-
+    riai. Juos sulaikyti jis pasiuntė B. Radvilos
+    kavaleriją.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: 'Po pergalės ties Prostkais tarp lietuvių ir jų samdinių totorių kilo konfliktas dėl belaisvių, ypač B.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Po pergalės ties Prostkais tarp lietuvių ir jų samdinių totorių kilo konfliktas dėl belaisvių, ypač B. Radvilos. Dėl to totoriai pasitraukė iš lietu-
+    vių pajėgų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Laikotarpiai

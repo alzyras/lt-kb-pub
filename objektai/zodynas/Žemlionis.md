@@ -23,37 +23,51 @@ Vartojamos formos: `žemlioniu`, `žemlionys`, `žemlionų`.
 
 ## Teiginiai
 - t-004
-  teiginys: 'Žemlioniu vadintas kiemas, kuris karo metu pagal turimos žemės kiekį išleisdavo vieną ar kelis raitus kareivius.'
+  teiginys: 'žemlionis yra žmogus, kuris žemę yra sau pragyvenęs.'
+  pagrindžia:
+    - c-001
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  statusas: patvirtinta
+- t-005
+  teiginys: '`Žemlionys` šiame tekste reiškia kareivius ar karo sluoksnį.'
   pagrindžia:
     - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-005
-  teiginys: 'Žemlionys didelių karų metu išsirinkdavo narsiausią ir kantriausią vyrą, kuris tapdavo karvedžiu arba atmonu.'
-  pagrindžia:
-    - c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
 - t-006
-  teiginys: 'Žemlionys buvo karūžojo žinioje, o prie karūžojo buvo karės vėliava.'
+  teiginys: 'Jie siejami su karės vėliava ir pilies valdžia.'
   pagrindžia:
-    - c-001
+    - c-002
+    - c-003
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Žemlionys didelių karų metu išsirinkdavo narsiausią ir kantriausią vyrą, kuris tapdavo karvedžiu arba atmonu.'
+  santrauka: 'žemlionis yra žmogus, kuris žemę yra sau pragyvenęs.'
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Jei toksai kiemas,
+    karei kėlusis, leido kareivį jotą^259 vieną ar du, tris – pagal tą, kaip daug žemės turėjo, tad vadinos
+    žemlioniu^260 , nuo žemės, kurią buvo sau pragyvenęs.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
+- c-002
+  santrauka: '`Žemlionys` šiame tekste reiškia kareivius ar karo sluoksnį.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Pakajui esant, kunigai ūkę rėdė, bet, kėlusis didelėms karėms su svetimomis tautomis, į kurias visai
-        tautai reikėjo traukti, žemlionys^977 , arba kareiviai, pakėlė tarp savęs visų narsųjį ir kantrųjį vyrą, kurį,
-        pakėlę ant savo pečių, nešiojo po rindas kareivių, rodydami visiems, idant žinotų, ko turi klausyti,
-        nesgi, tą pakėlus, kožno ūkininko gyvyba ir smertis jo rankoje buvo, kaipogi valdžia ir rėdą kūrėjų
-        kūrėjo toj pačioj valandoj apsistojo, o pakeltojo karvedžio, arba atmono, prasidėjo, kurį vadino jau
-        karvedžiu nuo to, jog į karę svietą vedė, jau atmonu, jog ėjo atmonyti^978 neprieteliams sau žalas ir
-        abydas padarytas. Vadino jį didžiuoju gaspadorium, arba didžiuoju kunigaikščiu, beje, didžiuoju
-        kunigu, arba rykiu, beje, karalium, nuo žodžio lotyniško rex regis – karalius.
+    tautai reikėjo traukti, žemlionys^977 , arba kareiviai, pakėlė tarp savęs visų narsųjį ir kantrųjį vyrą, kurį,
+    pakėlę ant savo pečių, nešiojo po rindas kareivių, rodydami visiems, idant žinotų, ko turi klausyti,
+    nesgi, tą pakėlus, kožno ūkininko gyvyba ir smertis jo rankoje buvo, kaipogi valdžia ir rėdą kūrėjų
+    kūrėjo toj pačioj valandoj apsistojo, o pakeltojo karvedžio, arba atmono, prasidėjo, kurį vadino jau
+    karvedžiu nuo to, jog į karę svietą vedė, jau atmonu, jog ėjo atmonyti^978 neprieteliams sau žalas ir
+    abydas padarytas.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -62,18 +76,21 @@ Vartojamos formos: `žemlioniu`, `žemlionys`, `žemlionų`.
   pagrindžia:
     - t-005
     - t-006
-- c-002
-  santrauka: 'Žemlioniu vadintas kiemas, kuris karo metu pagal turimos žemės kiekį išleisdavo vieną ar kelis raitus kareivius.'
+- c-003
+  santrauka: 'Jie siejami su karės vėliava ir pilies valdžia.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
-    Jei toksai kiemas, karei kėlusis, leido kareivį jotą^259 vieną ar du, tris – pagal tą, kaip daug žemės turėjo, tad vadinos žemlioniu^260 , nuo žemės, kurią buvo sau pragyvenęs.
+    ponas, kurs pilį valdė, jo pripadėtoju buvo angininkas, kurs raktus angos pilies saugojo; karūžasis^1061 ,
+    kurio žinioj žemlionys buvo, prie kurio buvo karės vėliava, jo pripadėtoju buvo šimtininkas, arba
+    pulkorius, nuo žodžio pulti, kurs šimtą vyrų į karę vedė, to paskuojo pripadėtoju buvo dešimtininkas,
+    kurs dešimtį vyrų į karę vedė, ir tekūnas, arba vizius, gudiškai voznius^1062.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-006
 
 ## Pastabos
 

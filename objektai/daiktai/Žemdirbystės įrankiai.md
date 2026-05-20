@@ -72,17 +72,17 @@ Nenurodyta
     - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: '(^113) Ji rašė ir apie įvairiausius žemdirbystės įrankius (VUMD, t.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Geležinis kirvis padėjo apaugusius plotus paversti dirva.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Pagalbinės ūkio
-    šakos buvo bitininkystė, medžioklė ir žvejyba. Žemdirbystė turėjo
-    labai gilias tradicijas, kai tolimoje akmens amžiaus epochoje, arti
-    savo sodybų, lyg daržų lysvėmis, paprastai moterys kapliais ap­
-    dirbdavo nedidelius žemės sklypelius. Metalų amžiuje žemės dar­
+    Metalų amžiuje žemės dar­
     bas plėtėsi, juo labiau kad geležinis kirvis padėjo net apaugusius
     plotus paversti dirva.
   citata_rodoma: ""
@@ -134,6 +134,24 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+- c-004
+  santrauka: '(^113) Ji rašė ir apie įvairiausius žemdirbystės įrankius (VUMD, t.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    **
+    (^113) **Ji rašė ir apie įvairiausius žemdirbystės įrankius (VUMD, t. 6, 1955 ;
+    t. 13, 1957 ; Ist V, t. 2, 1960, 167-175 p. ; t. 8, 1966, 122-156 p. ; t. 9, 1968,
+    161-180 p.), apie saulės sugrįžimo ir kitas šventes (IstV, t. 11, 1970, 199-
+    225 p. ; t. 13, 1972, 97-119 p.), apie namų židinio kultą (IstV, t. 6, 1964,
+    125-149 p.), apie senovės lietuvių religiją (IstV, t. 10, 1969, 181-207 p.), apie
+    badą ir marą Lietuvoje (IstV, t. 4, 1963, 105-121 p.).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Teminiai klasteriai

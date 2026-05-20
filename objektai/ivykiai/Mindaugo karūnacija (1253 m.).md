@@ -123,6 +123,9 @@ Mindaugo karūnacija šiame šaltinyje siejama su karūnos tikslu, pasiektu 1253
 Karūna šaltinyje įvardijama kaip svarbiausias Mindaugo krikšto politinis tikslas.
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/karūnacija]]
+
 ### Laikotarpiai
 - [[laikotarpiai/XIII amžius]]
 

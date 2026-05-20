@@ -35,22 +35,34 @@ Merkinės dvaro (prie Turgelių, netoli Vilniaus) valstiečius atleido vien už 
 - t-001
   teiginys: 'Merkinės dvaro valstiečiai buvo atleisti už piniginį mokestį ir gavo savivaldybę.'
   pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Merkinės dvaro valstiečiai buvo atleisti vien už piniginį mokestį ir gavo savivaldybę.'
-  pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Tačiau šiuo metu vienas kitas iš šviesesniųjų bajorų ir didžiūnų suprato, kad valstiečių vergovė ne tik nežmoniška, bet ir nenauMerkinės dvaro (prie Turgelių, netoli Vilniaus) valstiečius atleido vien už piniginį mokestį ir net davė jiems savivaldybę.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Merkinės dvaro valstiečiai buvo atleisti vien už piniginį mokestį ir gavo savivaldybę.'
+  santrauka: 'Merkinės dvaro valstiečiai buvo atleisti už piniginį mokestį ir gavo savivaldybę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    **Baudžiavos naikinimas atskiruose dvaruose.** Tačiau šiuo
+    Merkinės dvaro (prie Turgelių,
+    netoli Vilniaus) valstiečius atleido vien už piniginį mokestį ir net
+    davė jiems savivaldybę.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Tačiau šiuo metu vienas kitas iš šviesesniųjų bajorų ir didžiūnų suprato, kad valstiečių vergovė ne tik nežmoniška, bet ir nenauMerkinės dvaro (prie Turgelių, netoli Vilniaus) valstiečius atleido vien už piniginį mokestį ir net davė jiems savivaldybę.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    ** Tačiau šiuo
     metu vienas kitas iš šviesesniųjų bajorų ir didžiūnų suprato,
     kad valstiečių vergovė ne tik nežmoniška, bet ir nenau-
 
@@ -60,37 +72,14 @@ Merkinės dvaro (prie Turgelių, netoli Vilniaus) valstiečius atleido vien už 
     Kanauninkas Povilas Bžostauskas,
     didelis valstiečių globėjas, Paulovo
     dvaro valstiečių savivaldybės
-    kūrėjas († 1827 m.).
-    dinga patiems dvarininkams.
-  citata_rodoma: ""
+    kūrėjas († 1827 m.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-- c-002
-  santrauka: 'Merkinės dvaro valstiečiai buvo atleisti už piniginį mokestį ir gavo savivaldybę.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Merkinės dvaro (prie Turgelių,
-    netoli Vilniaus) valstiečius atleido vien už piniginį mokestį ir net
-    davė jiems savivaldybę. Iš dalies atleido nuo baudžiavos kai
-    Kanauninkas Povilas Bžostauskas,
-    didelis valstiečių globėjas, Paulovo
-    dvaro valstiečių savivaldybės
-    kūrėjas († 1827 m.).
-    dinga patiems dvarininkams.
-    Todėl kai kurie iš jų patys savo
-    iniciatyva išlaisvino valstiečius,
-    sau pasilikdami tik žemę.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
 
 ## Ryšiai
 ### Teminiai klasteriai

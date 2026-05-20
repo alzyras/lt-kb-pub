@@ -48,13 +48,16 @@ Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai. Vėliau 
     - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-007
+  teiginys: '„dignitorijas, kėdes ir urėdus, kokie yra įsteigti lenkų karalijoje, bus įsteigta ir įkurdinta Vilniuje, būtent Vilniaus vaivada ir kaštelionas, taip pat ir Trakuose...” 283 nlnkai, ne patarėjai, o aktą darą veiksniai^1 ).'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kaštelionas šiame tekste yra lenkiško modelio pareigybė.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Jogaila su Vytautu unijos akto 11 § pažadėjo, kad
     „dignitates, sedes et officia, prout in regno Poloniae instituta
     sunt, instituentur et locabantur in Vilna scilicet palatinus et cas­
     tellanus vilnensis et demum in Trokky“...^2 ).
@@ -79,6 +82,26 @@ Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai. Vėliau 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
+- c-003
+  santrauka: '„dignitorijas, kėdes ir urėdus, kokie yra įsteigti lenkų karalijoje, bus įsteigta ir įkurdinta Vilniuje, būtent Vilniaus vaivada ir kaštelionas, taip pat ir Trakuose...” 283 nlnkai, ne patarėjai, o aktą darą veiksniai^1 ).'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    „dignitorijas, kėdes ir urėdus, kokie yra įsteigti
+    lenkų karalijoje, bus įsteigta ir įkurdinta Vilniuje, būtent Vilniaus vaivada
+    ir kaštelionas, taip pat ir Trakuose...”
+
+
+    ```
+    283
+    ```
+    nlnkai, ne patarėjai, o aktą darą veiksniai^1 ).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
 ### Teminiai klasteriai

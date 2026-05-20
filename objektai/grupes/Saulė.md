@@ -37,11 +37,15 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: '„Saulės“ draugija Kaune įsteigė buhalterijos kursus, rengusius tam darbui tinkamus žmones.'
+  teiginys: '„Saulės“ draugija Kaune įsteigė buhalterijos kursus, rengusius prekybai ir vartotojų bendrovėms reikalingus žmones.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Kylant lietuvių tarpe kaskart vis didesniam susidomėjimui prekyba ir visam krašte steigiantis vartotojų bendrovėms (koperatyvams), „Saulės" draugija taip pat Kaune įsteigė buhalterijos kursus, kurie ruošė tam darbui tinkamus žmones.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -66,15 +70,9 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
   pagrindžia:
     - t-001
 - c-002
-  santrauka: '„Saulės“ draugija Kaune įsteigė buhalterijos kursus, rengusius tam darbui tinkamus žmones.'
+  santrauka: '„Saulės“ draugija Kaune įsteigė buhalterijos kursus, rengusius prekybai ir vartotojų bendrovėms reikalingus žmones.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Ypač plačiai buvo užsimojusi „Sau-
-    lė". Jos rūpesčiu buvo įkurta nemaža pradžios mokyklų, skai-
-    tyklų ir pedagoginiai kursai Kaune, iš kurių išėjo daug tautiš-
-    kai susipratusių mokytojų ir šiaip apsišvietusių veikėjų. Kylant
-    lietuvių tarpe kaskart vis didesniam susidomėjimui prekyba ir
-    visam krašte steigiantis vartotojų bendrovėms (koperatyvams),
     „Saulės" draugija taip pat Kaune įsteigė buhalterijos
     kursus, kurie ruošė tam darbui tinkamus žmones.
   citata_rodoma: ""
@@ -84,6 +82,23 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Kylant lietuvių tarpe kaskart vis didesniam susidomėjimui prekyba ir visam krašte steigiantis vartotojų bendrovėms (koperatyvams), „Saulės" draugija taip pat Kaune įsteigė buhalterijos kursus, kurie ruošė tam darbui tinkamus žmones.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Kylant
+    lietuvių tarpe kaskart vis didesniam susidomėjimui prekyba ir
+    visam krašte steigiantis vartotojų bendrovėms (koperatyvams),
+    „Saulės" draugija taip pat Kaune įsteigė buhalterijos
+    kursus, kurie ruošė tam darbui tinkamus žmones.
+    **Suvaržymai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Laikotarpiai

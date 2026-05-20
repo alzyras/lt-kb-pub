@@ -48,8 +48,6 @@ tags:
   teiginys: 'Gynėjai išsikėlė nerašytą misiją - pasipriešinti bet kokiu atveju ir nepakartoti 1940 m. klaidos!'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -81,23 +79,18 @@ tags:
   santrauka: 'Gynėjai išsikėlė nerašytą misiją - pasipriešinti bet kokiu atveju ir nepakartoti 1940 m. klaidos!'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Tuo tikslu
-    dalis ginkluotų A. Pociaus vadovaujamų
-    vyrų buvo išdėstyti ties Žvėryno tiltu ki-
-    toje Neries pusėje, dalis kovotojų išsidėstė
-    ant Nacionalinės M. Mažvydo bibliotekos
-    stogo. Gynėjai išsikėlė nerašytą misiją - pa-
+    Gynėjai išsikėlė nerašytą misiją - pa-
     sipriešinti bet kokiu atveju ir nepakartoti
     1940 m. klaidos!
 
     Rengiantis gynybai AT rūsyje buvo įreng-
     tos ginklų remonto ir šovinių, sprogmenų
     gamybos dirbtuvės bei šaudykla.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
 

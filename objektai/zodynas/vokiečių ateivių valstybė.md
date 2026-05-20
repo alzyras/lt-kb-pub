@@ -30,15 +30,33 @@ Kai XII amž. gale Livonijoje įsikūrė vokiečių ateivių valstybė, lietuvia
 
 ## Teiginiai
 - t-001
-  teiginys: 'Ateivių krikščionių kolonijos ir misionieriai Livonijoje įkūrė apsaugos organizaciją, vadintą Kalavijuočių ordinu.'
+  teiginys: 'Kai XII amž. gale Livonijoje įsikūrė vokiečių ateivių valstybė, lietuviai ėmė pulti ir ją.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Kadangi čia ateivių krikščionių kolonijos ir misijonieriai dažnai būdavo puolami vietos pagonių, tai jie čia įsikūrė specialią apsaugos organizaciją, kuri paprastai buvo vadinama kalavijuočių ordinu.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Ateivių krikščionių kolonijos ir misionieriai Livonijoje įkūrė apsaugos organizaciją, vadintą Kalavijuočių ordinu.'
+  santrauka: 'Kai XII amž. gale Livonijoje įsikūrė vokiečių ateivių valstybė, lietuviai ėmė pulti ir ją.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Kai XII amž. gale Li-
+    vonijoje įsikūrė vokiečių ateivių valstybė, lietuviai ėmė pulti ir
+    ją.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Kadangi čia ateivių krikščionių kolonijos ir misijonieriai dažnai būdavo puolami vietos pagonių, tai jie čia įsikūrė specialią apsaugos organizaciją, kuri paprastai buvo vadinama kalavijuočių ordinu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kadangi čia
@@ -48,13 +66,13 @@ Kai XII amž. gale Livonijoje įsikūrė vokiečių ateivių valstybė, lietuvia
     ateiviai taip pat buvo vokiečiai. Tuo būdu abiejose lietuvių
     pašonėse XIII amž. pradžioje įsikūrė vokiečių ateivių valstybės,
     kurių tikslas buvo pakrikštyti aisčius ir paimti juos į savo valdžią.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Laikotarpiai

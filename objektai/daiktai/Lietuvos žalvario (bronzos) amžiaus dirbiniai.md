@@ -41,6 +41,12 @@ Nenurodyta
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Lietuvos plote iš žalvario buvo dirbami kirviai, durklai, iečių galai, piautuvai, skustuvai ir įvairūs papuošalai.'
+  pagrindžia:
+    - c-002
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -58,3 +64,18 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Lietuvos plote iš žalvario buvo dirbami kirviai, durklai, iečių galai, piautuvai, skustuvai ir įvairūs papuošalai.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Ir Lietuvos plote iš žalvario buvo
+    dirbami gražus kirviai, durklai, iečių galai, piautuvai, skustuvai ir
+    skoningi papuošalai (smeigtukai, įvijinės apyrankės, galvos papuo­
+    šalai ir kt.).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002

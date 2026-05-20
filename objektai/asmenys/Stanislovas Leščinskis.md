@@ -32,30 +32,26 @@ Leščinskio išrinkimas karalium ir karo pabaiga. 1704 m. Karolis privertė su�
 
 ## Teiginiai
 - t-001
-  teiginys: 'Stanislovas Leščinskis buvo išrinktas ATR valdovu remiant Švedijai, o po jo išrinkimo įsiplieskė karas su Augusto II šalininkais.'
+  teiginys: 'Stanislovas Leščinskis buvo išrinktas karaliumi.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Po Augusto II mirties Stanislovas Leščinskis, remiamas Prancūzijos, vėl mėgino tapti ATR valdovu.'
+  teiginys: 'Gais metais ATR valdovu buvo išrinktas Švedijos remiamas Stanislovas Lesčinskis, įsiplieskė karas tarp jo ir Augusto 11 šalininkų.'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+- t-003
+  teiginys: 'Po Augusto II mirties ATR valdovu vėl mėgina tapti, dabar jau Prancūzijos remiamas, Stanislovas Leščinskis, tačiau Rusijos ir Prūsijos įtaka yra jau pakankamai stipri, kad nejsileisty nepageidaujamos Prancūzijos konkurencijos šiame regione.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Stanislovas Leščinskis buvo išrinktas ATR valdovu remiant Švedijai, o po jo išrinkimo įsiplieskė karas su Augusto II šalininkais.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  santrauka: 'Stanislovas Leščinskis buvo išrinktas karaliumi.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    1704 m.
-    — Augustas II, pasiryžęs nepasiduoti, ATR vardu sudarė
-    ŠE prieš Švediją nukreiptą sąjungą su Rusija, tokiu
-    būdu ATR į karą įtraukdamas formaliai. Tais pa-
-    . Gais metais ATR valdovu buvo išrinktas Švedijos
-    remiamas Stanislovas Lesčinskis, įsiplieskė karas
-    tarp jo ir Augusto 11 šalininkų.
+    - 16. St. Leščinskio išrinkimas karalium ir karo pabaiga
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -64,23 +60,38 @@ Leščinskio išrinkimas karalium ir karo pabaiga. 1704 m. Karolis privertė su�
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Po Augusto II mirties Stanislovas Leščinskis, remiamas Prancūzijos, vėl mėgino tapti ATR valdovu.'
+  santrauka: 'Gais metais ATR valdovu buvo išrinktas Švedijos remiamas Stanislovas Lesčinskis, įsiplieskė karas tarp jo ir Augusto 11 šalininkų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Rusijos agentai grasinimais ir papirkinėjimais kontroliavo
-    Lenkijos-Lietuvos seimus, kurie priimdavo jai palankius sprendi-
-    mus. Po Augusto II mirties ATR valdovu vėl mėgina tapti, dabar
+    — Augustas II, pasiryžęs nepasiduoti, ATR vardu sudarė
+    ŠE prieš Švediją nukreiptą sąjungą su Rusija, tokiu
+    būdu ATR į karą įtraukdamas formaliai. Tais pa-
+    . Gais metais ATR valdovu buvo išrinktas Švedijos
+    remiamas Stanislovas Lesčinskis, įsiplieskė karas
+    tarp jo ir Augusto 11 šalininkų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Po Augusto II mirties ATR valdovu vėl mėgina tapti, dabar jau Prancūzijos remiamas, Stanislovas Leščinskis, tačiau Rusijos ir Prūsijos įtaka yra jau pakankamai stipri, kad nejsileisty nepageidaujamos Prancūzijos konkurencijos šiame regione.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Po Augusto II mirties ATR valdovu vėl mėgina tapti, dabar
     jau Prancūzijos remiamas, Stanislovas Leščinskis, tačiau Rusijos
     ir Prūsijos įtaka yra jau pakankamai stipri, kad nejsileisty nepa-
     geidaujamos Prancūzijos konkurencijos šiame regione. Karaliumi
     tapo Rusijos remiamas neveiklus Augusto 11 sūnus Augustas III.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-002
+    - t-003
 
 ## Ryšiai
 ### Laikotarpiai

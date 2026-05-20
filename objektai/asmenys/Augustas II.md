@@ -36,27 +36,46 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Saksonijos kurfiurstas Augustas II Stiprusis siekė Abiejų Tautų Respubliką paversti absoliutine monarchija.'
+  teiginys: 'Augusto II valdymo pradžia sutapo su Petro Didžiojo epocha, kuri Rusijai ir Respublikai atvėrė naują laikotarpį.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Augustas II susitarė su Rusijos valdovu Petru I dėl paramos prieš Švediją.'
+  teiginys: 'Dalis ATR aristokratijos reikanetgi pasiekė pergalę prie Darsūniškio, tačiau labiau sekėsi Švedijos bicingas Saksonijos kiurfiurstas Augustas 11 (Stiprusis).'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 - t-003
-  teiginys: 'Augusto II siekius rėmė dalis Švedijos karaliaus Karolio XII valdymu nepatenkintos Livonijos aristokratijos.'
+  teiginys: 'Augustas II susitarė su Rusijos valdovu Petru I dél jo paramos prieš Švediją.'
   pagrindžia:
     - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+- t-004
+  teiginys: 'Augusto II siekius rėmė ir dalis Švedijos karaliaus Karolio x11 valdymu nepatenkintos Livonijos aristokratijos.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Saksonijos kurfiurstas Augustas II Stiprusis siekė Abiejų Tautų Respubliką paversti absoliutine monarchija.'
+  santrauka: 'Augusto II valdymo pradžia sutapo su Petro Didžiojo epocha, kuri Rusijai ir Respublikai atvėrė naują laikotarpį.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Tačiau epocha caro Petro Didžiojo,
+    kuris iš naujos sostinės (Petersburgo) tvirtu žingsniu įvedė savo
+    imperiją į Europos areną, reiškė bajorų respublikai patekimą Ru­
+    sijos įtakon. Iš šios sferos Lietuva-Lenkija nebepajėgė išsilaisvinti
+    iki pat padalinimų.
+    Ir Rusijai ir lietuvių-lenkų respublikai Petro Didžiojo epocha,
+    kuri sutapo su pradžia «saksų laikų» (Augustas II), atvėrė
+    naują laikotarpį.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Dalis ATR aristokratijos reikanetgi pasiekė pergalę prie Darsūniškio, tačiau labiau sekėsi Švedijos bicingas Saksonijos kiurfiurstas Augustas 11 (Stiprusis).'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Dalis ATR aristokratijos reika-
@@ -68,20 +87,17 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
     vykdydamas jį išrenkant duotus jsiparei-
     gojimus ir norėdamas naujiesiems pa-
     valdiniams „padaryti įspūdį“ jis 1698 m.
-    įsijungė į 1683 m.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Augustas II susitarė su Rusijos valdovu Petru I dėl paramos prieš Švediją.'
+    - t-002
+- c-003
+  santrauka: 'Augustas II susitarė su Rusijos valdovu Petru I dél jo paramos prieš Švediją.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Todėl Augustas 11 nusprendė
-    išvyti iš Livonijos švedus ir ją užvaldyti.
     Augustas II susitarė su Rusijos valdovu
     Petru I dél jo paramos prieš Švediją. Augus-
     tas II pripažino Prūsijos kunigaikštystės
@@ -89,15 +105,15 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
     _, į karalystės lygmenį, mainais į Prūsijos-
     „ Brandenburgo įsipareigojimą per savo te-
     ritoriją nepraleisti švedų kariuomenės.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Augusto II siekius rėmė dalis Švedijos karaliaus Karolio XII valdymu nepatenkintos Livonijos aristokratijos.'
+    - t-003
+- c-004
+  santrauka: 'Augusto II siekius rėmė ir dalis Švedijos karaliaus Karolio x11 valdymu nepatenkintos Livonijos aristokratijos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Augusto II siekius rėmė ir dalis Švedijos kara-
@@ -112,13 +128,13 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
     priešiškų stovyklų nebuvo sėkmin-
     gas, ir paramos nesulaukusi Sapiegų
     giminė linko ieškoti globos pas švedus.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-003
+    - t-004
 
 ## Ryšiai
 ### Laikotarpiai

@@ -49,29 +49,35 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: '1408 m. Vytautas Kaune suteikė Magdeburgo teises vokiečių pirkliams.'
+  teiginys: 'Kai kuriems Lietuvos miestams buvo suteiktos savivaldybės, vadintos Magdeburgo teisėmis.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Vytautas kėlė Lietuvos prekybą palaikydamas miestus ir suteikdamas jiems daugiau laisvės Magdeburgo miesto pavyzdžiu.'
+  teiginys: 'Kaune Vytautas suteikė Magdeburgo teises (1408 m.) vokiečių pirkliams.'
   pagrindžia:
     - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
+- t-003
+  teiginys: 'Vytautas kėlė Lietuvos prekybą ir kitais būdais, būtent, pa­ laikydamas miestus bei suteikdamas jiems daugiau laisvės Mag­ deburgo miesto pavyzdžiu.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1408 m. Vytautas Kaune suteikė Magdeburgo teises vokiečių pirkliams.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: 'Kai kuriems Lietuvos miestams buvo suteiktos savivaldybės, vadintos Magdeburgo teisėmis.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Bendrai, laikotarpis po Racionžo taikos prekybai buvo gana
-    palankus. Kaune Vytautas suteikė Magdeburgo teises (1408
-    m.) vokiečių pirkliams. Prekyba pasidarė daug gyvesnė. Lie­
-    tuvių pirkliai dabar nuvykdavo toli į Prūsus, pasiekdavo Danci­
-    gą, Rygą. Taip pat šiuo laiku Nemunu buvo plukdoma ir daug
-    medžių.
+    **Miestai.** Visais laikais prekyba ir amatai koncentravosi mies-
+    tuose. Vakaruose miestai turėjo tam tikras teises ir valdėsi pa-
+    tys. Lietuvoje miestams iškilti nebuvo gerų sąlygų, nes kraštas
+    buvo nuolat karų naikinamas ir buvo trukdoma prekyba. Todėl
+    tik Vytauto laikais daugiau iškilo Vilnius, Trakai, Brasta, Gardi-
+    nas, Kaunas. Kai kuriems jų buvo duotos savivaldybės (vadina-
+    mosios Magdeburgo teisės). Tačiau tai buvo tik pati miestų kili-
+    mo pradžia; jie įsigalėjo daug vėliau. Pirmas Magdeburgo teises
+    gavo Vilnius (1387 m.), vėliau Brasta (1390 m.), Gardinas (1391
+    m.), o dar vėliau Kaunas ir kt. miestai.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -80,7 +86,24 @@ Nenurodyta
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Vytautas kėlė Lietuvos prekybą palaikydamas miestus ir suteikdamas jiems daugiau laisvės Magdeburgo miesto pavyzdžiu.'
+  santrauka: 'Kaune Vytautas suteikė Magdeburgo teises (1408 m.) vokiečių pirkliams.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Bendrai, laikotarpis po Racionžo taikos prekybai buvo gana
+    palankus. Kaune Vytautas suteikė Magdeburgo teises (1408
+    m.) vokiečių pirkliams. Prekyba pasidarė daug gyvesnė. Lie­
+    tuvių pirkliai dabar nuvykdavo toli į Prūsus, pasiekdavo Danci­
+    gą, Rygą. Taip pat šiuo laiku Nemunu buvo plukdoma ir daug
+    medžių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Vytautas kėlė Lietuvos prekybą ir kitais būdais, būtent, pa­ laikydamas miestus bei suteikdamas jiems daugiau laisvės Mag­ deburgo miesto pavyzdžiu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas kėlė Lietuvos prekybą ir kitais būdais, būtent, pa­
@@ -88,13 +111,13 @@ Nenurodyta
     deburgo miesto pavyzdžiu. Taip, pav., minėjome, kad 1408
     metais Vytautas suteikė Magdeburgo teises Kauno vokiečiams;
     tokias pat teises turėjo jau Vilnius (1387) ir kiti miestai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-002
+    - t-003
 
 ## Ryšiai
 ### Laikotarpiai

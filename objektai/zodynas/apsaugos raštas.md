@@ -31,27 +31,22 @@ tags: []
 
 ## Teiginiai
 - t-003
-  teiginys: 'Gavęs Jogailos apsaugos raštą, Ordino viršininkas liepos 19 d. laivu nuvyko iki Christmemelio salos.'
+  teiginys: 'Gavęs Jogailos apsaugos raštą, Ordino viršininkas galėjo vykti į susitikimo vietą.'
   pagrindžia:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-004
-  teiginys: 'Gavęs Jogailos apsaugos raštą, Ordino viršininkas liepos 19 d. pasiekė Christmemelio salą ir ten sustojo.'
+  teiginys: 'Gavęs Jogai­ los apsaugos raštą, Ordino viršininkas, lydimas kunigų, lie­ pos 19 dieną laivu nuvyko iki Christmemelio (Skirsnemunės) sa­ los ir ten sustojo, prisidengdamas ta priežastimi, jog dėl Nemu­ no seklumo esą nebegalima toliau plaukti.'
   pagrindžia:
     - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Gavęs Jogailos apsaugos raštą, Ordino viršininkas liepos 19 d. laivu nuvyko iki Christmemelio salos.'
+  santrauka: 'Gavęs Jogailos apsaugos raštą, Ordino viršininkas galėjo vykti į susitikimo vietą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Taip pat į
-    Ordino paklausimą dėl Lietuvos krikšto Jogaila visai nekreipė
-    dėmesio. Galų gale po ilgo delsimo, 1383 metų vasarą turėjo
-    įvykti Ordino magistro ir Jogailos susivažiavimas. Gavęs Jogai­
+    Gavęs Jogai­
     los apsaugos raštą, Ordino viršininkas, lydimas kunigų, lie­
     pos 19 dieną laivu nuvyko iki Christmemelio (Skirsnemunės) sa­
     los ir ten sustojo, prisidengdamas ta priežastimi, jog dėl Nemu­
@@ -64,22 +59,21 @@ tags: []
   pagrindžia:
     - t-003
 - c-002
-  santrauka: 'Gavęs Jogailos apsaugos raštą, Ordino viršininkas liepos 19 d. pasiekė Christmemelio salą ir ten sustojo.'
+  santrauka: 'Gavęs Jogai­ los apsaugos raštą, Ordino viršininkas, lydimas kunigų, lie­ pos 19 dieną laivu nuvyko iki Christmemelio (Skirsnemunės) sa­ los ir ten sustojo, prisidengdamas ta priežastimi, jog dėl Nemu­ no seklumo esą nebegalima toliau plaukti.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Galų gale po ilgo delsimo, 1383 metų vasarą turėjo
-    įvykti Ordino magistro ir Jogailos susivažiavimas. Gavęs Jogai­
+    Gavęs Jogai­
     los apsaugos raštą, Ordino viršininkas, lydimas kunigų, lie­
     pos 19 dieną laivu nuvyko iki Christmemelio (Skirsnemunės) sa­
     los ir ten sustojo, prisidengdamas ta priežastimi, jog dėl Nemu­
     no seklumo esą nebegalima toliau plaukti. Jogaila tuo tarpu
     apsistojo su savo motina ir broliais sutartoje vietoje prie Duby­
     sos įtakos į Nemuną.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
 

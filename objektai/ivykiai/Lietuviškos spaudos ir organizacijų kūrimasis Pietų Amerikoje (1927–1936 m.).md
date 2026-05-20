@@ -32,28 +32,33 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Sao Paule buvo suorganizuota lietuvių parapija ir pastatyta bažnyčia, pašventinta 1936 m. vasario 16 d.'
+  teiginys: 'Pirmasis lietuviškas laikraštis Pietų Amerikoje „Brazilijos Lietuvis“ pasirodė 1927 m.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Kunigas Radžius Urugvajuje įkūrė lietuvių katalikų bendruomenę, kitų organizacijų ir trijų skyrių lietuvišką mokyklą.'
+  teiginys: 'Sao Paule buvo suorganizuota lietuvių parapija ir pastatyta bažnyčia, pašventinta 1936 m. vasario 16 d.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-003
+  teiginys: 'Kunigo Radžiaus rūpesčiu Urugvajuje buvo įkurta lietuvių katalikų bendruomenė, organizacijos ir trijų skyrių mokykla.'
+  pagrindžia:
+    - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Sao Paule buvo suorganizuota lietuvių parapija ir pastatyta bažnyčia, pašventinta 1936 m. vasario 16 d.'
+  santrauka: 'Pirmasis lietuviškas laikraštis Pietų Amerikoje „Brazilijos Lietuvis“ pasirodė 1927 m.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Mokyklose mokoma pagal Lietuvos mokyklų programą; vado-
-    vėliai taip pat gaunami iš Lietuvos. Tuo būdu mokyklų klau-
-    simas čia jau yra įėjęs į tinkamas vėžes. Be to, Sao Paule jau su-
-    organizuota lietuviškoji parapija ir pastatyta bažnyčia (pašven-
-    tinta 1936 m. vasario 16 d.).
+    Lietuviškoji spauda, pirmasis laik-
+    raštis („Brazilijos Lietuvis"), čia atsirado 1927 m. Tiesa, jis
+    ėjo neilgai, bet tuojau jo vietoj atsirado naujų lietuviškų laik-
+    raščių.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -62,13 +67,24 @@ Nenurodyta
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Kunigas Radžius Urugvajuje įkūrė lietuvių katalikų bendruomenę, kitų organizacijų ir trijų skyrių lietuvišką mokyklą.'
+  santrauka: 'Sao Paule buvo suorganizuota lietuvių parapija ir pastatyta bažnyčia, pašventinta 1936 m. vasario 16 d.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Nors čia taip pat veikė ko-
-    munistai ir iš Lietuvos pabėgę plečkaitininkai, vis dėlto čia
-    vyrauja kun. T. Radžiaus suorganizuotos katalikiškos tautiškos
-    organizacijos. Jo rūpesčiu buvo įkurta lietuvių katalikų bend-
+    Be to, Sao Paule jau su-
+    organizuota lietuviškoji parapija ir pastatyta bažnyčia (pašven-
+    tinta 1936 m. vasario 16 d.).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Kunigo Radžiaus rūpesčiu Urugvajuje buvo įkurta lietuvių katalikų bendruomenė, organizacijos ir trijų skyrių mokykla.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Jo rūpesčiu buvo įkurta lietuvių katalikų bend-
     ruomenė, nemaža kitų organizacijų ir lietuviškoji 3 skyrių mo-
     kykla (joje yra apie 100 mokinių). Visos tautiškos organiza-
     cijos to paties kun. Radžiaus buvo suburtos į vieną centrą,
@@ -79,7 +95,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-003
 
 ## Ryšiai
 ### Laikotarpiai

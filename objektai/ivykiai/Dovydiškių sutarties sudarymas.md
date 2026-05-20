@@ -47,19 +47,51 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
 
 ## Teiginiai
 - t-007
-  teiginys: 'Vytautas dalyvavo medžioklėje, bet slaptos sutarties sudarymo nepajuto; jo dalyvavimu Jogaila prisidengė nuo Kęstučio įtarimų.'
+  teiginys: 'Jogaila į Dovydiškių medžioklę atvyko su Vaidotu, Algimanto sūnum Jonu ir Vytautu, o trečią dieną su Ordino svečiais sudarė slaptą sutartį.'
   pagrindžia:
     - c-001
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-008
+  teiginys: 'Vytautas dalyvavo medžioklėje, bet slaptos sutarties sudarymo nepajuto; jo dalyvavimu Jogaila prisidengė nuo Kęstučio įtarimų.'
+  pagrindžia:
+    - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
+  santrauka: 'Jogaila į Dovydiškių medžioklę atvyko su Vaidotu, Algimanto sūnum Jonu ir Vytautu, o trečią dieną su Ordino svečiais sudarė slaptą sutartį.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Norėdamas paslėpti nuo Kęstučio savo paskutinius suma­
+    nymus, Jogaila padarė Dovydiškiuose neva medžioklę^4 ). Į ši­
+    tą „medžioklę“ Vokiečių Ordino magistras atsiuntė savo pa­
+    siuntinius. Pats Jogaila atvyko su Vaidotu, Algimanto
+    sūnum Jonu ir Vytautu. Iškilminga medžioklė truko dvi
+    dienas; trečią dieną Jogaila su Ordino svečiais sudarė slaptą
+
+    (^1) ) Soch., III R., 10—11, 375 psl. (^2) ) Voigt., V t., 288—292 psl.
+    (^3) ) Scr. r. Prus., II, 606 psl. (^4) ) Scr. r. Prus. II t., 576, 604 psl.
+
+
+    ```
+    — 10 —
+    ```
+    sutartį. Seniai tiesdami savo rankas į Kęstučio ginamą Žemai­
+    čių kraštą, kryžiuočiai gana sumaniai suformulavo sutarties ak­
+    tą
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-007
+- c-002
   santrauka: 'Vytautas dalyvavo medžioklėje, bet slaptos sutarties sudarymo nepajuto; jo dalyvavimu Jogaila prisidengė nuo Kęstučio įtarimų.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Kad susitarimas neišeitų aikštėn, reikia taip da­
-    ryti, tartum belaisviai būtų išperkami už pinigus. Nors Vytau­
     tas ir dalyvavo medžioklėje, bet šitos slaptos sutarties suda­
     rymo nepajuto. Jo dalyvavimu, be abejo, Jogaila norėjo prisi­
     dengti nuo visų Kęstučio įtarimų.
@@ -69,7 +101,7 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-007
+    - t-008
 
 ## Ryšiai
 ### Laikotarpiai

@@ -42,15 +42,80 @@ Nenurodyta
 
 ## Teiginiai
 - t-005
-  teiginys: 'Apie 1948 m. sovietai Lietuvoje infiltruodavo agentus-smogikus į partizanų gretas ir net į jų vadovybę.'
+  teiginys: 'MGB-KGB agentai-smogikai suvaidino svarbų vaidmenį galutinai sunaikinant ginkluotą rezistenciją Lietuvoje.'
   pagrindžia:
     - c-001
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-006
+  teiginys: 'Agentai buvo verbuojami ir iš čekistų, ir iš suimtų partizanų, o jų veikla buvo grindžiama griežta konspiracija.'
+  pagrindžia:
+    - c-002
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-007
+  teiginys: 'Agentai-smogikai infiltruodavosi į partizanų gretas ir net į jų vadovybę.'
+  pagrindžia:
+    - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Apie 1948 m. sovietai Lietuvoje infiltruodavo agentus-smogikus į partizanų gretas ir net į jų vadovybę.'
+  santrauka: 'MGB-KGB agentai-smogikai suvaidino svarbų vaidmenį galutinai sunaikinant ginkluotą rezistenciją Lietuvoje.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    MGB-KGB agentai smogikai suvaidino itin svarbų vaidmenį galu-
+    tinai sunaikinant ginkluotą rezistenciją Lietuvoje. Agentų smo-
+    gikų pagrindą sudarė atrinkti iš stribų gretų ir kitų sovietinių
+    respublikų atsiųsti čekistai su panašios veiklos patirtimi. Taip pat
+    agentai buvo verbuojami iš suimtųjų partizanų. Buvę partizanai
+    naikino ne tik buvusius bendražygius, bet ir civilius šalies gyven-
+    tojus. Civilius paprastai žudydavo siekdami sunaikinti galimus
+    liudytojus ir taip „pridengti“ specialiąsias saugumo operacijas.
+    . Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo sufor-
+    muotose vadinamosiose specialiosiose grupėse, kurioms paprastai
+    vadovaudavo koks nors operatyvininkas. Tokių grupių priedangai
+    naudota griežta konspiracija, o jų nariai faktiškai neturėjo galimy-
+    bių pabėgti ar pasitraukti iš spec. grupių sudėties, nes tuojau pat
+    „kompromatas“ būtų pamestas tikriesiems partizanams.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-005
+- c-002
+  santrauka: 'Agentai buvo verbuojami ir iš čekistų, ir iš suimtų partizanų, o jų veikla buvo grindžiama griežta konspiracija.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    KGB kontržvalgybos sąvokų žodyne pateikiamas agentų-smogikų apibrėžimas.
+    „Agentas-smogikas - valstybės saugumo organų agentas, kovinėmis priemonėmis vyk-
+    dantis specialias užduotis. Paprastai jais verbuojami asmenys iš sovietinių patriotų, idė-
+    jiniu pagrindu, pasirengusių ryžtingiems veiksmams, pasirengusių rizikuoti savo gyvybe
+    ir turinčių tam reikiamų asmeninių savybių.
+
+    Taip pat agentais-smogikais galėdavo būti KGB organų sulaikyti ir užverbuoti priešiškų
+    žvalgybinių-diversinių ir nacionalistinių gaujų nariai.
+
+    1940-1950 m. Vakarų Ukrainoje ir Baltijos šalių teritorijoje agentais-smogikais papras-
+    tai būdavo užverbuojami nacionalistinio pogrindžio nariai.
+
+    Esant poreikiui agentai-smogikai apjungiami į kovines-agentūrines grupes.
+
+    Valstybės saugumo komiteto (KGB) kontržvalgybos organai agentus-smogikus naudoja
+    kaip kovos su priešiškomis žvalgybinėmis-diversinėmis grupėmis ir nacionalistinėmis gau-
+    jomis rezervą ypatinguoju laikotarpiu ar karo metu.“
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-006
+- c-003
+  santrauka: 'Agentai-smogikai infiltruodavosi į partizanų gretas ir net į jų vadovybę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Šimonių girios operacija gerai atspindi
@@ -77,4 +142,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
+    - t-007

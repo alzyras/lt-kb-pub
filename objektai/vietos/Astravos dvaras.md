@@ -33,25 +33,25 @@ Atsimetęs nuo ordino, Vytautas susitaikino su Jogaila Astravos dvare, paliai Ly
 
 ## Teiginiai
 - t-001
-  teiginys: 'Atsimetęs nuo ordino, Vytautas susitaikė su Jogaila Astravos dvare prie Lydos.'
+  teiginys: '1392 m. rugpjūčio 5 d. Astrave Vytautas ir Ona Jogailai bei Jadvygai duotuose dokumentuose titulavosi Trakų ir Lucko kunigaikščiais.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: ') Atsimetęs nuo ordino, Vytautas susitaikino su Jogaila Astravos dvare, paliai Lydą.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Atsimetęs nuo ordino, Vytautas susitaikė su Jogaila Astravos dvare prie Lydos.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: '1392 m. rugpjūčio 5 d. Astrave Vytautas ir Ona Jogailai bei Jadvygai duotuose dokumentuose titulavosi Trakų ir Lucko kunigaikščiais.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Astravos**
-        **sutartis (1392 m.)**
-    Atsimetęs nuo ordino, Vytautas susitaikino su Jogaila As-
-    travos dvare, paliai Lydą. Čia buvo sudaryta sutartis, kuria Jo-
-    gaila grąžino Vytautui visas jo tėvo žemes, paliko jam po pirmo-
-    jo grįžimo iš ordino duotąjį Lucką ir pavedė valdyti Vilnių. Vy-
-    tautas už tai pasižadėjo visada pripažinti Jogailos vyriausiąją
-    valdžią ir visada jį palaikyti.
+    Vy­
+    tauto ir jo žmonos Onos Astrave (Ostrowe) Jogailai ir Jadvygai
+    duoti dokumentai (1392.VIII.5) rodo, kad jis su Ona jau titulavosi
+    Trakų ir Lucko kunigaikščiais2S.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -59,6 +59,24 @@ Atsimetęs nuo ordino, Vytautas susitaikino su Jogaila Astravos dvare, paliai Ly
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: ') Atsimetęs nuo ordino, Vytautas susitaikino su Jogaila Astravos dvare, paliai Lydą.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    )**
+    Atsimetęs nuo ordino, Vytautas susitaikino su Jogaila As-
+    travos dvare, paliai Lydą. Čia buvo sudaryta sutartis, kuria Jo-
+    gaila grąžino Vytautui visas jo tėvo žemes, paliko jam po pirmo-
+    jo grįžimo iš ordino duotąjį Lucką ir pavedė valdyti Vilnių. Vy-
+    tautas už tai pasižadėjo visada pripažinti Jogailos vyriausiąją
+    valdžią ir visada jį palaikyti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Laikotarpiai

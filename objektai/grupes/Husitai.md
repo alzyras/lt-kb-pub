@@ -33,27 +33,69 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lenkijoje, o vėliau ir Lietuvoje kilo opozicija husitams ir pradėta kovoti su jų mokslu, liekant Bažnyčios pusėje.'
+  teiginys: '1421 m. sausį į Varėną atvykę husitų pasiuntiniai kvietė Vytautą savo karaliumi ir gavo iš jo aiškių vilčių.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Čekų husitai pasiūlė Jogailai karališką vainiką, bet šis jo nepriėmė, nes tai buvo eretikų siūlymas.'
+  teiginys: 'Kišdamasis į Čekijos reikalus ir tuo erzindamas imperatorių, Vytautas oficialiai savo nusistatymą grindė pastangomis sutaikyti husitus su Roma.'
   pagrindžia:
     - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: 'Popiežius grasė paskelbti Lietuvai kryžiaus žygį, jei Vytautas neatšauks Kaributo ir nenutrauks santykių su husitais.'
+  teiginys: 'Bet pirma Lenkijoje, o paskui ir Lietuvoje kilo prieš husitus opozicija — imta kovoti su jų mokslu, paliekant Bažny­ čios pusėje.'
   pagrindžia:
     - c-003
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
+- t-004
+  teiginys: 'Ir kai čekai husitai pasiūlė karališką vainiką Jo­ gailai, šis nesutiko jos priimti, nes tai buvo eretikų siūlymas.'
+  pagrindžia:
+    - c-004
+- t-005
+  teiginys: 'Popiežius draudė siųsti Kaributą, o kai Vytautas nepaklausė, grasė paskelbsiąs Lietuvai kryžiaus žygį, jei jo neatšauktų ir nenutrauktų su husitais santykių.'
+  pagrindžia:
+    - c-005
+- t-006
+  teiginys: '1424 m. Jogaila, Vytautas, jų didikai, riteriai ir miestai sudarė didelę prieš husitus opo­ ziciją: nutarta su jais kovoti Lietuvoje ir Lenkijoje, vyti iš vals­ tybės husitų šalininkus, konfiskuoti su Kaributu Čekijon išvy­ kusiųjų turtą ir kt.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lenkijoje, o vėliau ir Lietuvoje kilo opozicija husitams ir pradėta kovoti su jų mokslu, liekant Bažnyčios pusėje.'
+  santrauka: '1421 m. sausį į Varėną atvykę husitų pasiuntiniai kvietė Vytautą savo karaliumi ir gavo iš jo aiškių vilčių.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Jogailai atsisakius priimti jam husitų siūlomą Čekijos karūną,
+    veiklusis pusbrolis čekams parodė žymiai daugiau palankumo.
+    1421 m. sausio mėn. Varėnon atvykusiems husitų pasiuntiniams,
+    kurie Vytautą kvietėsi savo karaliumi, šis davė aiškių vilčių.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Kišdamasis į Čekijos reikalus ir tuo erzindamas imperatorių, Vytautas oficialiai savo nusistatymą grindė pastangomis sutaikyti husitus su Roma.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Šis veikė vardu « kviestojo Čekijos karaliaus Vytau­
+    to » (« postulati regis Bohemiae Vitoldi »)^17.
+    Kišdamasis į Čekijos reikalus ir tuo erzindamas imperatorių,
+    Vytautas oficialiai savo nusistatymą grindė pastangomis sutaikyti
+    husitus su Roma. Martynas V keliais atvejais ragino Vytautą
+    pasitraukti nuo husitų.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Bet pirma Lenkijoje, o paskui ir Lietuvoje kilo prieš husitus opozicija — imta kovoti su jų mokslu, paliekant Bažny­ čios pusėje.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Todėl kai Čekijoje pasklido Katalikų Bažnyčiai prie­
@@ -65,15 +107,15 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
     giečio. Bet pirma Lenkijoje, o paskui ir Lietuvoje kilo prieš
     husitus opozicija — imta kovoti su jų mokslu, paliekant Bažny­
     čios pusėje.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Čekų husitai pasiūlė Jogailai karališką vainiką, bet šis jo nepriėmė, nes tai buvo eretikų siūlymas.'
+    - t-003
+- c-004
+  santrauka: 'Ir kai čekai husitai pasiūlė karališką vainiką Jo­ gailai, šis nesutiko jos priimti, nes tai buvo eretikų siūlymas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Ir kai čekai husitai pasiūlė karališką vainiką Jo­
@@ -83,15 +125,15 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
     po kiek laiko sutiko rūpintis jų reikalais ir į Čekiją su kariuo­
     mene nusiuntė Zigmantą Kaributą padėti husitams kovose su
     ciesorium Zigmantu.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Popiežius grasė paskelbti Lietuvai kryžiaus žygį, jei Vytautas neatšauks Kaributo ir nenutrauks santykių su husitais.'
+    - t-004
+- c-005
+  santrauka: 'Popiežius draudė siųsti Kaributą, o kai Vytautas nepaklausė, grasė paskelbsiąs Lietuvai kryžiaus žygį, jei jo neatšauktų ir nenutrauktų su husitais santykių.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tą patį rašė ir Rygos
@@ -100,13 +142,37 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
     kreipti prieš Vytautą. Popiežius draudė siųsti Kaributą, o kai
     Vytautas nepaklausė, grasė paskelbsiąs Lietuvai kryžiaus žygį,
     jei jo neatšauktų ir nenutrauktų su husitais santykių.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-003
+    - t-005
+- c-006
+  santrauka: '1424 m. Jogaila, Vytautas, jų didikai, riteriai ir miestai sudarė didelę prieš husitus opo­ ziciją: nutarta su jais kovoti Lietuvoje ir Lenkijoje, vyti iš vals­ tybės husitų šalininkus, konfiskuoti su Kaributu Čekijon išvy­ kusiųjų turtą ir kt.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    1424 m. Jogaila, Vytautas, jų
+    didikai, riteriai ir miestai sudarė didelę prieš husitus opo­
+    ziciją: nutarta su jais kovoti Lietuvoje ir Lenkijoje, vyti iš vals­
+    tybės husitų šalininkus, konfiskuoti su Kaributu Čekijon išvy­
+    kusiųjų turtą ir kt.
+
+
+    ```
+    117
+    ```
+    ```
+    Vytautas Didysis iš šių santykių su husitais išėjo nenuken­
+    tėjęs.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Laikotarpiai

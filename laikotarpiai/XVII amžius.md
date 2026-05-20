@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 169.
+Objektų skaičius: 167.
 
 ## Kaip naudoti
 
@@ -88,7 +88,9 @@ Objektų skaičius: 169.
 - [Žuvėdai](../objektai/grupes/%C5%BDuv%C4%97dai)
 
 ### Papročiai
+- [Abiejų Tautų Respublikos kariuomenių atskiras stovyklavimas ir pavaldumo nebuvimas](../objektai/paprociai/Abiej%C5%B3%20Taut%C5%B3%20Respublikos%20kariuomeni%C5%B3%20atskiras%20stovyklavimas%20ir%20pavaldumo%20nebuvimas)
 - [Apgaulingo atsitraukimo manevras](../objektai/paprociai/Apgaulingo%20atsitraukimo%20manevras)
+- [Husarų lydėjimas į seimo rinkimus](../objektai/paprociai/Husar%C5%B3%20lyd%C4%97jimas%20%C4%AF%20seimo%20rinkimus)
 - [Husarų vėliavų „draugų“ ir palydos sistema](../objektai/paprociai/Husar%C5%B3%20v%C4%97liav%C5%B3%20%E2%80%9Edraug%C5%B3%E2%80%9C%20ir%20palydos%20sistema)
 - [Kandidatas 37 LDK bažnytinės unijos bandymai ir graikų katalikų įsitvirtinimas](../objektai/paprociai/Kandidatas%2037%20LDK%20ba%C5%BEnytin%C4%97s%20unijos%20bandymai%20ir%20graik%C5%B3%20katalik%C5%B3%20%C4%AFsitvirtinimas)
 - [Kandidatas LDK bažnytinės unijos bandymai ir graikų katalikų įsitvirtinimas](../objektai/paprociai/Kandidatas%20LDK%20ba%C5%BEnytin%C4%97s%20unijos%20bandymai%20ir%20graik%C5%B3%20katalik%C5%B3%20%C4%AFsitvirtinimas)
@@ -124,7 +126,6 @@ Objektų skaičius: 169.
 - [Lenkija](../objektai/vietos/Lenkija)
 - [Lietuvos Brasta](../objektai/vietos/Lietuvos%20Brasta)
 - [Maskva](../objektai/vietos/Maskva)
-- [Minskas](../objektai/vietos/Minskas)
 - [Olandija](../objektai/vietos/Olandija)
 - [Paidė](../objektai/vietos/Paid%C4%97)
 - [Piarnu](../objektai/vietos/Piarnu)
@@ -132,15 +133,12 @@ Objektų skaičius: 169.
 - [Podolė](../objektai/vietos/Podol%C4%97)
 - [Podolės Kameneco tvirtovė](../objektai/vietos/Podol%C4%97s%20Kameneco%20tvirtov%C4%97)
 - [Polianovkos upė](../objektai/vietos/Polianovkos%20up%C4%97)
-- [Ryga](../objektai/vietos/Ryga)
 - [Saksonija](../objektai/vietos/Saksonija)
 - [Salacgryva](../objektai/vietos/Salacgryva)
 - [Salaspilis](../objektai/vietos/Salaspilis)
 - [Smolenskas](../objektai/vietos/Smolenskas)
 - [Suvalkai](../objektai/vietos/Suvalkai)
-- [Trakai](../objektai/vietos/Trakai)
 - [Transilvanija](../objektai/vietos/Transilvanija)
-- [Ukraina](../objektai/vietos/Ukraina)
 - [Valakija](../objektai/vietos/Valakija)
 - [Valkininkai](../objektai/vietos/Valkininkai)
 - [Viljandis](../objektai/vietos/Viljandis)
@@ -200,7 +198,7 @@ Objektų skaičius: 169.
 - [karakolė](../objektai/zodynas/karakol%C4%97)
 - [Kartečė](../objektai/zodynas/Karte%C4%8D%C4%97)
 - [komputas](../objektai/zodynas/komputas)
-- [kontribucija](../objektai/zodynas/kontribucija)
 - [Liberum veto](../objektai/zodynas/Liberum%20veto)
 - [petihorai](../objektai/zodynas/petihorai)
+- [rotmistras](../objektai/zodynas/rotmistras)
 - [svetimšalių autoramentas](../objektai/zodynas/svetim%C5%A1ali%C5%B3%20autoramentas)

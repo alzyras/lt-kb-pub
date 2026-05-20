@@ -34,30 +34,30 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Žemaičių klausimą ir kitus ginčus siūlyta perkelti į popiežiaus Jono XXIII kviečiamą bažnytinį susirinkimą Konstancoje.'
+  teiginys: 'G. Camblako ekumeninės mišios Konstanco katedroje paliko tokį įspūdį, kad buvo išsamiai vaizduojamos kronikose.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: '1415 m. gruodžio 4 d. delegacija iš tolimo krašto buvo iškilmingai priimta Konstancos katedroje ir patraukė susirinkimo dėmesį.'
+  teiginys: 'Pagaliau kariaujančios pusės paklausė popiežiaus Jono XXIII delegato, kuris siūlė nebaigiamą Žemaičių klausimą su visais kitais ginčais perkelti į to popiežiaus kviečiamą bažnytinį susirinkimą Konstancoje.'
   pagrindžia:
     - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+- t-003
+  teiginys: 'Iš tolimo ir beveik nežinomo krašto pasirodymas delegacijos, kuri 1415.XII.4 d. buvo iškilmingai priimta Konstancos katedroje (kur vyko posėdžiai), atkreipė susirinkimo dėmesį.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Žemaičių klausimą ir kitus ginčus siūlyta perkelti į popiežiaus Jono XXIII kviečiamą bažnytinį susirinkimą Konstancoje.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  santrauka: 'G. Camblako ekumeninės mišios Konstanco katedroje paliko tokį įspūdį, kad buvo išsamiai vaizduojamos kronikose.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    (spalio 7 d.) padaryti paliaubas, kurios vėliau vis buvo prailginamos.
-    Pagaliau kariaujančios pusės paklausė popiežiaus Jono XXIII
-    delegato, kuris siūlė nebaigiamą Žemaičių klausimą su visais kitais
-    ginčais perkelti į to popiežiaus kviečiamą bažnytinį susirinkimą
-    Konstancoje. Ten pusbroliai tikėjosi pasisekimo, nes prieš tai
-    Jonas XXIII buvo spėjęs panaikinti pasenusias ordino privilegijas
-    į Lietuvą, pagal Jogailos ir Vytauto prašymą^31.
+    G. Camblako ekume-
+    ninės mišios Konstanco katedroje amžininkams paliko tokį įspūdį, kad
+    imtos išsamiai vaizduoti to meto kronikose, o Lietuva drauge su kitomis
+    prie kryžiaus žygiuojančiomis Europos šalimis pateko į krikščioniškų ša-
+    lių bendriją vaizduojančią Strasbūro freską.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -66,19 +66,36 @@ tags:
   pagrindžia:
     - t-001
 - c-002
-  santrauka: '1415 m. gruodžio 4 d. delegacija iš tolimo krašto buvo iškilmingai priimta Konstancos katedroje ir patraukė susirinkimo dėmesį.'
+  santrauka: 'Pagaliau kariaujančios pusės paklausė popiežiaus Jono XXIII delegato, kuris siūlė nebaigiamą Žemaičių klausimą su visais kitais ginčais perkelti į to popiežiaus kviečiamą bažnytinį susirinkimą Konstancoje.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Pagaliau kariaujančios pusės paklausė popiežiaus Jono XXIII
+    delegato, kuris siūlė nebaigiamą Žemaičių klausimą su visais kitais
+    ginčais perkelti į to popiežiaus kviečiamą bažnytinį susirinkimą
+    Konstancoje. Ten pusbroliai tikėjosi pasisekimo, nes prieš tai
+    Jonas XXIII buvo spėjęs panaikinti pasenusias ordino privilegijas
+    į Lietuvą, pagal Jogailos ir Vytauto prašymą^31.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Iš tolimo ir beveik nežinomo krašto pasirodymas delegacijos, kuri 1415.XII.4 d. buvo iškilmingai priimta Konstancos katedroje (kur vyko posėdžiai), atkreipė susirinkimo dėmesį.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Iš tolimo ir beveik nežinomo krašto pasirodymas delegacijos,
     kuri 1415.XII.4 d. buvo iškilmingai priimta Konstancos katedroje
     (kur vyko posėdžiai), atkreipė susirinkimo dėmesį.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-002
+    - t-003
 
 ## Ryšiai
 ### Laikotarpiai

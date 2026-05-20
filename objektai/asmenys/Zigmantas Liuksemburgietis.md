@@ -190,6 +190,3 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
 ### Laikotarpiai
 - [[laikotarpiai/XV amžius]]
 - [[laikotarpiai/XX amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/Vytautas Didysis]]

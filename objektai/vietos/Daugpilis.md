@@ -32,45 +32,40 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
 
 ## Teiginiai
 - t-001
-  teiginys: 'Po nepavykusio grafo Liudviko Pliaterio antpuolio prieš Rusijos kariuomenės karinio transporto gurguolę, vykstančią į Daugpilį, teko atsisakyti šios tvirtovės puolimo, nes rusų karinė vadovybė perprato sukilėlių planus.'
+  teiginys: 'Užėmę Padauguvio Sėlą, lietuviai persikėlė į dešinįjį Dauguvos krantą ir gyveno Daugpilio apylinkėje.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Z. Sierakausko plane buvo numatyta žygiuoti Daugpilio link ir bandyti užimti šią carinės kariuomenės tvirtovę.'
+  teiginys: 'Po nepavykusio grafo Liudviko Pliaterio antpuolio prieš Rusijos kariuomenės karinio transporto gurguolę, vykstančią į Daugpilį, teko atsisakyti šios tvirtovės puolimo, nes rusų karinė vadovybė perprato sukilėlių planus.'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 - t-003
-  teiginys: 'Galutinis puolimo tikslas buvo Daugpilis.'
+  teiginys: 'Tuomet žygiuoti carinės kariuomenės tvirtovės Daugpilio link ir padedant ten tarnaujantiems iš Lietuvos kilusiems kariškiams, bandyti užimti šį svarbų strateginį punktą.'
   pagrindžia:
     - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 - t-004
-  teiginys: '1920 m. sausio pradžioje Latvijos ir Lenkijos kariuomenės išstūmė Raudonąją armiją iš Daugpilio.'
+  teiginys: 'Galutinis puolimo tikslas buvo Daugpilis.'
   pagrindžia:
     - c-004
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+- t-005
+  teiginys: 'ORiebiniai 1920 m. sausio pradžioje Latvijos ir LenkiJos kariuomenės išstūmė Raudonąją armiją iš Daugpilio.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Po nepavykusio grafo Liudviko Pliaterio antpuolio prieš Rusijos kariuomenės karinio transporto gurguolę, vykstančią į Daugpilį, teko atsisakyti šios tvirtovės puolimo, nes rusų karinė vadovybė perprato sukilėlių planus.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  santrauka: 'Užėmę Padauguvio Sėlą, lietuviai persikėlė į dešinįjį Dauguvos krantą ir gyveno Daugpilio apylinkėje.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Netrukus nenumatyti įvykiai pri-
-    vertė koreguoti planus. Po nepavykusio
-    grafo Liudviko Pliaterio antpuolio prieš
-    Rusijos kariuomenės karinio transporto
-    gurguolę, vykstančią į Daugpilį, teko at-
-    sisakyti šios tvirtovės puolimo, nes rusų
-    karinė vadovybė perprato sukilėlių planus.
-    Sukilėlių apmokymai ir reorgani-
-    zacija Teresboro karinėje stovykloje
-    užtruko 10 dienų.
+    Aukštaičių žemė siekėsi su sėliais ir žiemgaliais, toli įsiterpusiais
+    į Lietuvos plotą. Užėmę Padauguvio Sėlą (tarp Dauguvos intakų
+    Dysnos ir Egluonos), lietuviai nesustojo kairiajame Dauguvos kran­
+    te, bet, įkandin sekdami sėlius, persikėlė ir į dešinįjį Dauguvos
+    šoną — Latgalon, ir gyveno Daugpilio apylinkėje (K. Būga).
+    Šiandien į kelias pagrindines tarmes suskilęs lietuvių gyvena­
+    mas plotas, istorinių laikų angoje buvo vienalytiškas.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -79,7 +74,27 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Z. Sierakausko plane buvo numatyta žygiuoti Daugpilio link ir bandyti užimti šią carinės kariuomenės tvirtovę.'
+  santrauka: 'Po nepavykusio grafo Liudviko Pliaterio antpuolio prieš Rusijos kariuomenės karinio transporto gurguolę, vykstančią į Daugpilį, teko atsisakyti šios tvirtovės puolimo, nes rusų karinė vadovybė perprato sukilėlių planus.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Po nepavykusio
+    grafo Liudviko Pliaterio antpuolio prieš
+    Rusijos kariuomenės karinio transporto
+    gurguolę, vykstančią į Daugpilį, teko at-
+    sisakyti šios tvirtovės puolimo, nes rusų
+    karinė vadovybė perprato sukilėlių planus.
+    Sukilėlių apmokymai ir reorgani-
+    zacija Teresboro karinėje stovykloje
+    užtruko 10 dienų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Tuomet žygiuoti carinės kariuomenės tvirtovės Daugpilio link ir padedant ten tarnaujantiems iš Lietuvos kilusiems kariškiams, bandyti užimti šį svarbų strateginį punktą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Plk. Z. Sierakauskas parengė sukilė-
@@ -90,33 +105,30 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
     tarnaujantiems iš Lietuvos kilusiems kariš-
     kiams, bandyti užimti šį svarbų strateginį
     punktą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Galutinis puolimo tikslas buvo Daugpilis.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Pasiruošimas operacijai
-    Įvertinusi situaciją vyriausioji
-    Lietuvos karinė vadovybė 1919 m.
-    rugpjūčio 23 d. įsakė pradėti puo-
-    limą visu frontu. Galutinis puolimo
-    tikslas buvo Daugpilis. 1 brigados vadas
-    karin.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
 - c-004
-  santrauka: '1920 m. sausio pradžioje Latvijos ir Lenkijos kariuomenės išstūmė Raudonąją armiją iš Daugpilio.'
+  santrauka: 'Galutinis puolimo tikslas buvo Daugpilis.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    įsakė pradėti puo-
+    limą visu frontu. Galutinis puolimo
+    tikslas buvo Daugpilis. 1 brigados vadas
+    karin.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: 'ORiebiniai 1920 m. sausio pradžioje Latvijos ir LenkiJos kariuomenės išstūmė Raudonąją armiją iš Daugpilio.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     ORiebiniai
@@ -124,13 +136,13 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
     1920 m. sausio pradžioje Latvijos ir Lenki-
     Jos kariuomenės išstūmė Raudonąją armiją iš Daug-
     pilio. Latvijos teritorija buvo išvalyta nuo bolševikų.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-004
+    - t-005
 
 ## Ryšiai
 ### Teminiai klasteriai

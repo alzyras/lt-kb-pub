@@ -44,15 +44,19 @@ Nenurodyta
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Emigracijai prižiūrėti prie Vidaus reikalų ministerijos buvo įsteigta speciali referentūra.'
+  pagrindžia:
+    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Pirmasis emigracijos įstatymas buvo išleistas 1920 m., bet jame buvo spragų ir jis ilgainiui atsiliko nuo gyvenimo reikalavimų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Pagaliau ir Lietuvoje susirūpinta savo emigracijos reikalais:
-    stengiamasi palaikyti kultūrinius ryšius su anksčiau išvykusiais išei-
-    viais ir globoti naujai vykstančius. Pirmasis emigracijos įstatymas
+    Pirmasis emigracijos įstatymas
     buvo išleistas dar 1920 m., bet pasirodė, kad jame buvo nemaža
     spragų, o be to, jis ilgainiui atsiliko nuo gyvenimo reikalavimų. Todėl,
     pavyzdžiui, 1926—1929 m., emigracijos bendrovėms gabenant mūsų
@@ -83,6 +87,19 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Emigracijai prižiūrėti prie Vidaus reikalų ministerijos buvo įsteigta speciali referentūra.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    O visai emigracijai prižiūrėti prie Vidaus Reikalų Ministerijos yra
+    įsteigta speciali referentūra.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Laikotarpiai

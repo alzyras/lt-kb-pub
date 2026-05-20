@@ -49,54 +49,47 @@ tags: []
 - t-007
   teiginys: 'Žemaičių jūra per 1000 metų nuseko kelias uolektis.'
   pagrindžia:
-    - c-003
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
-- t-008
-  teiginys: 'Į Žemaičių jūrą nuo šiaurinės kalvos įšleitės tekėjo Daugava, Nemunas, Pragaras ir Isla.'
-  pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-009
-  teiginys: 'Daukanto pasakojime Žemaičių jūroje vyko karai, o pietuose nurimus tautoms vėl plėtėsi prekyba.'
+- t-008
+  teiginys: 'Į Žemaičių jūrą tekėjo šiaurinės upės.'
   pagrindžia:
     - c-002
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  statusas: patvirtinta
+- t-009
+  teiginys: 'Šią jūrą kai kurie raštininkai vadino Rusų mare.'
+  pagrindžia:
+    - c-003
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  statusas: patvirtinta
+- t-010
+  teiginys: 'Žemaičių jūra šiame fragmente yra konkretus jūros vardas.'
+  pagrindžia:
+    - c-004
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  statusas: patvirtinta
+- t-011
+  teiginys: 'Žemaičių jūra siejama su žuvėdų karėmis ir prekybos plėtra.'
+  pagrindžia:
+    - c-005
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  statusas: patvirtinta
+- t-012
+  teiginys: 'Žemaičių jūra susiejama su lietuvių prekyba ir laivynu.'
+  pagrindžia:
+    - c-006
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Į Žemaičių jūrą nuo šiaurinės kalvos įšleitės tekėjo Daugava, Nemunas, Pragaras ir Isla.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Taip pat lygia dalia visos upės šiaurinėj įšleitėj nuo tos gi kalvos teka į
-        Žemaičių jūrą, tarp kurių didžiosios upės yra: Daugava, Nemunas, Pragaras ir Isla.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-008
-- c-002
-  santrauka: 'Daukanto pasakojime Žemaičių jūroje vyko karai, o pietuose nurimus tautoms vėl plėtėsi prekyba.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Kad taip šiaurėj ir Žemaičių jūroje audras vertė kariaudami, vienok nuo pietų, nurimus tautoms kita kitą stumdyti, rados pakajus, ir prekyba vėl pradėjo plėstis.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-009
-- c-003
   santrauka: 'Žemaičių jūra per 1000 metų nuseko kelias uolektis.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Žuvėdai^14 turi ant savo uolų ženklus, kurie rodo, jog Žemaičių jūra
-        per 1000 metų yra per kelias uolektis nusekusi.
+    per 1000 metų yra per kelias uolektis nusekusi.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -104,6 +97,74 @@ tags: []
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-007
+- c-002
+  santrauka: 'Į Žemaičių jūrą tekėjo šiaurinės upės.'
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Taip pat lygia dalia visos upės šiaurinėj įšleitėj nuo tos gi kalvos teka į
+    Žemaičių jūrą, tarp kurių didžiosios upės yra: Daugava, Nemunas, Pragaras ir Isla.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-008
+- c-003
+  santrauka: 'Šią jūrą kai kurie raštininkai vadino Rusų mare.'
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    nuo ko ne vien pati sala Rusnės
+    vardą sau gavo, bet dar tūli raštininkai pačią Žemaičių jūrą Rusų mare vadino, o jos pajūrių
+    gyventojus rusais, bet tankiau parusiais, arba parusais, beje, pas Rusnę gyvenančiais.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-009
+- c-004
+  santrauka: 'Žemaičių jūra šiame fragmente yra konkretus jūros vardas.'
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Šiaurėj, Odinui mirus, nebepasitiko tokio, kurs būt galėjęs visą šiaurę valdyti ir kurio būt
+    klausiusios tautos, šiapus ir anapus Žemaičių jūros gyvenančios.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-010
+- c-005
+  santrauka: 'Žemaičių jūra siejama su žuvėdų karėmis ir prekybos plėtra.'
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Kad taip šiaurėj ir Žemaičių jūroje audras vertė kariaudami, vienok nuo pietų, nurimus tautoms
+    kita kitą stumdyti, rados pakajus, ir prekyba vėl pradėjo plėstis.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-011
+- c-006
+  santrauka: 'Žemaičių jūra susiejama su lietuvių prekyba ir laivynu.'
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    pasidavus Padaugavio vokiečiams į lietuvių globą, jų prekyba per jūrą dar didinos taip, jog Lietuvos
+    ūkės rėdą^1452 ketėjo^1453 jau laivynę^1454 Žemaičių jūroj įkurti, nesgi nuo Narvos upės lig pat mažne
+    Oderio upės į valdžią visas pašalys Žemaičių jūros vėl pagrįžo lietuvių, kaip pirm 300 metų buvo
+    buvęs; todėl prekyba per Žemaičių jūrą pasididino: kaipogi leido tenai linus, javus, kanapes, kailius,
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-012
 
 ## Pastabos
 galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta kaip atskiras jūros vardas.

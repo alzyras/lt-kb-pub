@@ -269,4 +269,3 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
 
 ### Susiję objektai
 - [[objektai/asmenys/Mikalojus Cebulka]]
-- [[objektai/asmenys/Vytautas Didysis]]

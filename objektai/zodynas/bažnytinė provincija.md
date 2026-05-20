@@ -41,25 +41,26 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-006
-  teiginys: 'Vytautas norėjo iš pirmųjų trijų vyskupijų sudaryti nepriklausomą Lietuvos bažnytinę provinciją.'
+  teiginys: 'Ši provincija turėjo užbaigti bažnytinį Lietuvos gyvenimo tvarkymą ir suteikti daugiau savarankiškumo.'
   pagrindžia:
     - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-007
-  teiginys: 'Vytautas rūpinosi įsteigti Lietuvoje bažnytinę provinciją ir dažnai susirašinėjo su popiežiumi Martynu V.'
+  teiginys: 'Iš pirmųjų trijų vysku­ pijų Vytautas, kaip žinome, norėjo sudaryti nepriklausomą Lie­ tuvos bažnytinę provinciją.'
   pagrindžia:
     - c-003
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
+- t-008
+  teiginys: 'Vytautas dėjo pastangų sujungti Vakarų ir Rytų Bažnyčias, Žemaitijoje skleidė katalikybę ir kūrė vyskupiją, rūpinosi įsteig­ ti Lietuvoje bažnytinę provinciją, uoliai sekė Konstancijos su­ sirinkimo eigą ir dažnai susirašinėjo su popiež.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vytautas siekė sudaryti nepriklausomą Lietuvos bažnytinę provinciją.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Šią paskutinę Vytautas įsteigė
-    tik pabaigoj savo gyvenimo (po 1424). Iš pirmųjų trijų vysku­
+    Iš pirmųjų trijų vysku­
     pijų Vytautas, kaip žinome, norėjo sudaryti nepriklausomą Lie­
     tuvos bažnytinę provinciją. Tai būtų buvęs Vytauto vaini­
     kas, uždėtas visam Lietuvos christanizacijos darbui, nes su Lie­
@@ -75,7 +76,22 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
   pagrindžia:
     - t-005
 - c-002
-  santrauka: 'Vytautas norėjo iš pirmųjų trijų vyskupijų sudaryti nepriklausomą Lietuvos bažnytinę provinciją.'
+  santrauka: 'Ši provincija turėjo užbaigti bažnytinį Lietuvos gyvenimo tvarkymą ir suteikti daugiau savarankiškumo.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Vytautas dėjo pastangų sujungti Vakarų ir Rytų Bažnyčias,
+    Žemaitijoje skleidė katalikybę ir kūrė vyskupiją, rūpinosi įsteig­
+    ti Lietuvoje bažnytinę provinciją, uoliai sekė Konstancijos su­
+    sirinkimo eigą ir dažnai susirašinėjo su popiež. Martynu V, rė
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-006
+- c-003
+  santrauka: 'Iš pirmųjų trijų vysku­ pijų Vytautas, kaip žinome, norėjo sudaryti nepriklausomą Lie­ tuvos bažnytinę provinciją.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Iš pirmųjų trijų vysku­
@@ -87,31 +103,29 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
     ir kas butų turėjęs didelės reikšmės, valstybei ir tautiniam gy­
     venimui. Bet kaip Lietuvos valstybei, taip ir jos bažnyčiai jam
     nepavyko iškovoti visiškos laisvės, tikro savarankiškumo.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-006
-- c-003
-  santrauka: 'Vytautas rūpinosi įsteigti Lietuvoje bažnytinę provinciją ir dažnai susirašinėjo su popiežiumi Martynu V.'
+    - t-007
+- c-004
+  santrauka: 'Vytautas dėjo pastangų sujungti Vakarų ir Rytų Bažnyčias, Žemaitijoje skleidė katalikybę ir kūrė vyskupiją, rūpinosi įsteig­ ti Lietuvoje bažnytinę provinciją, uoliai sekė Konstancijos su­ sirinkimo eigą ir dažnai susirašinėjo su popiež.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Tokia netikra kelių metų padėtis nepaprastai trukdė kul­
-    tūrišką Vytauto darbą, kuris šiuo laiku buvo labai intensyvus.
     Vytautas dėjo pastangų sujungti Vakarų ir Rytų Bažnyčias,
     Žemaitijoje skleidė katalikybę ir kūrė vyskupiją, rūpinosi įsteig­
     ti Lietuvoje bažnytinę provinciją, uoliai sekė Konstancijos su­
     sirinkimo eigą ir dažnai susirašinėjo su popiež. Martynu V, rė­
     mė pirklių ir amatininkų reikalus.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-007
+    - t-008
 
 ## Ryšiai
 ### Teminiai klasteriai

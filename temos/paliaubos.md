@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 34.
+Objektų skaičius: 35.
 
 ## Kaip naudoti
 
@@ -48,10 +48,11 @@ Objektų skaičius: 34.
 ### Įvykiai
 - [[objektai/ivykiai/1379 m. Trakų 10 metų paliaubos su ordinu]]
 - [[objektai/ivykiai/1380 m. vasario paliaubos su Livonijos ordinu]]
+- [[objektai/ivykiai/1582 m. sausio 15 d. 10 metų karo paliaubos su Maskva]]
 - [[objektai/ivykiai/Andrusavo paliaubų pasirašymas (1667 m. sausio 30 d.)]]
 - [[objektai/ivykiai/Jogailos ir Vokiečių ordino puolimo sutartis (1382 m. liepos 6 d.)]]
 - [[objektai/ivykiai/Kėzmarko pasitarimai su Zigmantu dėl karūnos]]
-- [[objektai/ivykiai/Paliaubų protokolo pasirašymas Kaune]]
+- [Paliaubų protokolo pasirašymas Kaune](../objektai/ivykiai/Paliaub%C5%B3%20protokolo%20pasira%C5%A1ymas%20Kaune)
 - [Rygos pirklių prekybos teisė Lietuvoje (1253 m.)](../objektai/ivykiai/Rygos%20pirkli%C5%B3%20prekybos%20teis%C4%97%20Lietuvoje%20%281253%20m.%29)
 - [Skuodo kautynės (1259 m.)](../objektai/ivykiai/Skuodo%20kautyn%C4%97s%20%281259%20m.%29)
 - [Trakų paliaubos (1379 m. rugsėjo 29 d.)](../objektai/ivykiai/Trak%C5%B3%20paliaubos%20%281379%20m.%20rugs%C4%97jo%2029%20d.%29)

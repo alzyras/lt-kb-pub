@@ -37,33 +37,37 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
 
 ## Teiginiai
 - t-005
-  teiginys: 'J. Dlugošas rašė, kad Edigėjaus kariuomenė prie Vorsklos buvo akimis neaprėpiama.'
+  teiginys: 'Šiame leidinyje J. Dlugošas cituojamas kaip Vorsklos mūšio pasakojimo šaltinis.'
   pagrindžia:
-    - c-001
+    - c-009
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-006
-  teiginys: 'J. Dlugošas aprašė, kaip Vytautas liepos 5 d. stovykloje raitelius suskirstė pulkais ir daliniais.'
+  teiginys: 'Šiame leidinyje J. Dlugošo raštai naudojami aprašant Vytauto kariuomenės rikiuotę ir Žalgirio mūšio aplinkybes.'
   pagrindžia:
-    - c-002
+    - c-010
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-007
+  teiginys: 'Dlugošas pateikia vengrų didiko Dobeslavo Skoračevskio, Ordino pasiuntinio, atvykusio pas Jogailą į stovyklą derėtis Ordino vardu dėl taikos (tikroji vizito priežastis | buvo informacijos rinkimas apie sąjungininkų pajėgas) pokalbį grįžus su didžiuoju.'
+  pagrindžia:
+    - c-011
+- t-008
+  teiginys: '“ VYTAUTAS RIKIUOJA PULKUS Dlugošas aprašo tai, kaip Vytautas žygio metu (liepos 5 d.) stovykloje išrikiavęs tvarkė lietuvių kariuomenę: „Senu Tėvynės papročiu paskirstęs ją raitelių pulkais (pleištais) ir daliniais; kiekviename pulke raitelius ant žemesnių.'
+  pagrindžia:
+    - c-012
+- t-009
   teiginys: 'Dlugošas mini, kad priešas, jau manęs esąs saugus, viename miške buvo apsuptas ir užblokuotas medžių užtvaromis, ir iš už jų priedangos gausiai strėlėmis apšaudomas, buvo priverstas pasiduoti.'
   pagrindžia:
-    - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-008
-  teiginys: 'J. Dlugošas minėjo, kad tarp Livonijos ordino pajėgų buvo Prūsijos magistro karių.'
+    - c-013
+- t-010
+  teiginys: 'Dlugošas mini Prūsijos magistro karius), Livonijos samdiniai - apie 4500.'
   pagrindžia:
-    - c-004
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+    - c-014
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'J. Dlugošas rašė, kad Edigėjaus kariuomenė prie Vorsklos buvo akimis neaprėpiama.'
+- c-009
+  santrauka: 'Šiame leidinyje J. Dlugošas cituojamas kaip Vorsklos mūšio pasakojimo šaltinis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1399 m. rugpjūčio 12 d., „dvi valan-
@@ -79,12 +83,59 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
-- c-002
-  santrauka: 'J. Dlugošas aprašė, kaip Vytautas liepos 5 d. stovykloje raitelius suskirstė pulkais ir daliniais.'
+- c-010
+  santrauka: 'Šiame leidinyje J. Dlugošo raštai naudojami aprašant Vytauto kariuomenės rikiuotę ir Žalgirio mūšio aplinkybes.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Dobeslavas: „Norėčiau, kad patikėtum, magistre, jog Vytauto kariuomenė yra ne tik
-    didelė ir galinga, bet apsiginklavusi puikiausia ginkluote.“
+    P. 57 „LIETUVOS KARIUOMENĖ ŠNIPO AKIMIS“, Joannis Dlugosii Opera omnia,
+
+    cura Alexandri Przedziecki edita, t. x111: Historiae Polonicae libri xu, t. rv: Libri
+
+    XI, XII, Krakow, 1877, P. 17. Publikacijos internete: http://www.polona.pl/dlibra/
+    doccontent?id=17339&from=FBC; http://archive.org/details/dzieawszystkieoounkngoog.
+    P. 5% „VYTAUTAS RIKIUOJA PULKUS“ Joannis Dlugosii Opera omnia..., p. 19-20.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-006
+- c-011
+  santrauka: 'Dlugošas pateikia vengrų didiko Dobeslavo Skoračevskio, Ordino pasiuntinio, atvykusio pas Jogailą į stovyklą derėtis Ordino vardu dėl taikos (tikroji vizito priežastis | buvo informacijos rinkimas apie sąjungininkų pajėgas) pokalbį grįžus su didžiuoju.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Rankoje
+    karys laiko to meto Lietuvai būdingą
+    pusantros rankos kalaviją, prie šono
+    įmantriai dekoruotos odinės kalavijo
+    makštys su odoje įspaustais ornamentais
+
+    Nuo pagoniškosios
+    iki Vytauto imperijos
+
+    LIETUVOS KARIUOMENĖ ŠNIPO AKIMIS
+
+    J. Dlugošas pateikia vengrų didiko Dobeslavo Skoračevskio, Ordino pasiuntinio, at-
+    vykusio pas Jogailą į stovyklą derėtis Ordino vardu dėl taikos (tikroji vizito priežastis
+    | buvo informacijos rinkimas apie sąjungininkų pajėgas) pokalbį grįžus su didžiuoju
+    magistru.
+
+    Dobeslavas: „Tą, - tarė, - dieną, kai aš atvykau į karaliaus stovyklą, Lietuvos didysis
+    kunigaikštis Vytautas atvyko su galinga, puikia ir gausia kariuomene ir savo pajėgas su-
+    jungė su karaliaus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-012
+  santrauka: '“ VYTAUTAS RIKIUOJA PULKUS Dlugošas aprašo tai, kaip Vytautas žygio metu (liepos 5 d.) stovykloje išrikiavęs tvarkė lietuvių kariuomenę: „Senu Tėvynės papročiu paskirstęs ją raitelių pulkais (pleištais) ir daliniais; kiekviename pulke raitelius ant žemesnių.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    “
 
     VYTAUTAS RIKIUOJA PULKUS
 
@@ -93,17 +144,15 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
 
     „Senu Tėvynės papročiu paskirstęs ją raitelių pulkais (pleištais) ir daliniais; kiekviename
     pulke raitelius ant žemesnių arklių arba pernelyg menkai apsiginklavusius sustatė viduryje,
-    o juos supo kiti, jojantys ant stipresnių žirgų ir puikiai ginkluoti. Ir tokiu būdu suglaudus
-    ir subūrus pulkus buvo išvengta gretų retumo, o vienas pulkas už kito išsitęsęs per savo
-    plotį užėmė nustatyto ilgio tarpą.
-  citata_rodoma: ""
+    o juos supo kiti, jojantys ant stipresnių žirgų ir puikiai ginkluoti.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-006
-- c-003
+    - t-008
+- c-013
   santrauka: 'Dlugošas mini, kad priešas, jau manęs esąs saugus, viename miške buvo apsuptas ir užblokuotas medžių užtvaromis, ir iš už jų priedangos gausiai strėlėmis apšaudomas, buvo priverstas pasiduoti.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -120,15 +169,15 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
     čių vėliavos, kurios buvo nugabentos į
     Vilniaus šv. Stanislovo bažnyčią - katedrą
     kaip pergalės simbolis.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-007
-- c-004
-  santrauka: 'J. Dlugošas minėjo, kad tarp Livonijos ordino pajėgų buvo Prūsijos magistro karių.'
+    - t-009
+- c-014
+  santrauka: 'Dlugošas mini Prūsijos magistro karius), Livonijos samdiniai - apie 4500.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Švitrigailos ir Livonijos ordino pajėgos
@@ -144,13 +193,13 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
     Iš viso - apie 11000 žmonių (istoriogra-
     fijoje šis skaičius kartais padidinamas iki
     30 000).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-008
+    - t-010
 
 ## Ryšiai
 ### Laikotarpiai

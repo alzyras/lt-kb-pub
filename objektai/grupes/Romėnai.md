@@ -35,6 +35,10 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buvo sukūrę aukštą kultūrą, aisčiai galėjo turėti tik retų, atsitiktinių santykių (jie galėjo parduoti romėnų pirkliams nebent savo gražųjį gintarą).'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -43,10 +47,7 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
   citata_originali: |
     Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus
     galo romėnų rašytojas Tacitas savo veikale „Germania".
-    Jis juos vadina aisčiais _(aestii, aestiorum gentes)._ Kadan-
-    gi Pabaltijy archeologinės iškasenos nerodo jokio kultūros
-    pasikeitimo, tai reikia manyti, kad jau nuo naujojo akmens am-
-    žiaus čia bus gyvenę tie patys aisčiai.
+    Jis juos vadina aisčiais _(aestii, aestiorum gentes)._
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -54,6 +55,22 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Su tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir romėnai buvo sukūrę aukštą kultūrą, aisčiai galėjo turėti tik retų, atsitiktinių santykių (jie galėjo parduoti romėnų pirkliams nebent savo gražųjį gintarą).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Su
+    tolimaisiais Europos pietumis, kur dar prieš Kristų graikai ir
+    romėnai buvo sukūrę aukštą kultūrą, aisčiai galėjo turėti tik
+    retų, atsitiktinių santykių (jie galėjo parduoti romėnų pirkliams
+    nebent savo gražųjį gintarą).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Laikotarpiai

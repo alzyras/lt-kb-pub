@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 207.
+Objektų skaičius: 209.
 
 ## Kaip naudoti
 
@@ -34,7 +34,6 @@ Objektų skaičius: 207.
 - [[objektai/asmenys/Mamšėjus]]
 - [[objektai/asmenys/Mengu Timūras]]
 - [[objektai/asmenys/Mindaugas]]
-- [[objektai/asmenys/Mindaugas (Lietuvos valdovas, 1251 m.)]]
 - [[objektai/asmenys/Nogajus (Aukso ordos valdytojas)]]
 - [[objektai/asmenys/Otokaras (Čekijos karalius)]]
 - [[objektai/asmenys/Pršemyslas Otokaras II]]
@@ -46,7 +45,7 @@ Objektų skaičius: 207.
 - [[objektai/asmenys/Zemovitas (Mozūrijos kunigaikštis)]]
 
 ### Autoriai
-- [A. E. Presniakov](../objektai/autoriai/A.%20E.%20Presniakov)
+- [[objektai/autoriai/A. E. Presniakov]]
 - [Dusburgas](../objektai/autoriai/Dusburgas)
 - [Henrikas Latvis](../objektai/autoriai/Henrikas%20Latvis)
 - [Hermanas Vartbergė](../objektai/autoriai/Hermanas%20Vartberg%C4%97)
@@ -96,6 +95,7 @@ Objektų skaičius: 207.
 ### Papročiai
 - [Apgaulingo atsitraukimo manevras](../objektai/paprociai/Apgaulingo%20atsitraukimo%20manevras)
 - [Karaliaus vainikavimo ir patepimo apeigos pagal ordines](../objektai/paprociai/Karaliaus%20vainikavimo%20ir%20patepimo%20apeigos%20pagal%20ordines)
+- [Trijų Lietuvos valstybingumo datų minėjimas per nacionalines šventes](../objektai/paprociai/Trij%C5%B3%20Lietuvos%20valstybingumo%20dat%C5%B3%20min%C4%97jimas%20per%20nacionalines%20%C5%A1ventes)
 - [Vakarų pagalbos kvietimas ir svečių iš Vokietijos šaukimas](../objektai/paprociai/Vakar%C5%B3%20pagalbos%20kvietimas%20ir%20sve%C4%8Di%C5%B3%20i%C5%A1%20Vokietijos%20%C5%A1aukimas)
 - [XIII a. Vakarų Europos pėstininkų apsaugos ir ginkluotės praktika](../objektai/paprociai/XIII%20a.%20Vakar%C5%B3%20Europos%20p%C4%97stinink%C5%B3%20apsaugos%20ir%20ginkluot%C4%97s%20praktika)
 
@@ -117,8 +117,10 @@ Objektų skaičius: 207.
 
 ### Vietos
 - [Ambotė](../objektai/vietos/Ambot%C4%97)
+- [Ariogala](../objektai/vietos/Ariogala)
 - [Aukaimio pilis](../objektai/vietos/Aukaimio%20pilis)
 - [Aukštaitija](../objektai/vietos/Auk%C5%A1taitija)
+- [Betygala](../objektai/vietos/Betygala)
 - [Brianskas](../objektai/vietos/Brianskas)
 - [Ceklis](../objektai/vietos/Ceklis)
 - [Dainava](../objektai/vietos/Dainava)
@@ -166,6 +168,7 @@ Objektų skaičius: 207.
 - [Prūsai](../objektai/vietos/Pr%C5%ABsai)
 - [Prūsija](../objektai/vietos/Pr%C5%ABsija)
 - [Prūsų žemė](../objektai/vietos/Pr%C5%ABs%C5%B3%20%C5%BEem%C4%97)
+- [Raseiniai](../objektai/vietos/Raseiniai)
 - [Raudonė](../objektai/vietos/Raudon%C4%97)
 - [Rimini](../objektai/vietos/Rimini)
 - [Ryga](../objektai/vietos/Ryga)
@@ -175,7 +178,6 @@ Objektų skaičius: 207.
 - [Tverės sritis](../objektai/vietos/Tver%C4%97s%20sritis)
 - [Valkaviskas](../objektai/vietos/Valkaviskas)
 - [Vengrija](../objektai/vietos/Vengrija)
-- [Vitebskas](../objektai/vietos/Vitebskas)
 - [Vladimiras (prie Kliazmos)](../objektai/vietos/Vladimiras%20%28prie%20Kliazmos%29)
 - [Volinijos-Haličo kunigaikštija](../objektai/vietos/Volinijos-Hali%C4%8Do%20kunigaik%C5%A1tija)
 - [Voluinė](../objektai/vietos/Voluin%C4%97)

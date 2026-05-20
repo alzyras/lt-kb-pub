@@ -32,28 +32,44 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 
 ## Teiginiai
 - t-006
-  teiginys: 'Bonifacas IX paskyrė domininkoną Gregorijų Vytauto įkurtos Vladimiro vyskupijos Volynijoje vyskupu.'
+  teiginys: 'Domininkonai Vokietijoje, Čekijoje, Danijoje, Švedijoje, Norvegijoje ir Gotlande skelbė kryžiaus karą ir telkė naujus piligrimų būrius.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-007
+  teiginys: 'Gegužės 26 d. trys laiškai buvo pasiųsti Saksų provincijos pranciškonams, domininkonams ir Hanzos miestams.'
+  pagrindžia:
+    - c-003
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-008
+  teiginys: 'Rygoje veikė domininkonai, o iš Rygos į Lietuvą buvo siunčiami dvasininkai skelbti evangelijos.'
+  pagrindžia:
+    - c-004
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-009
+  teiginys: 'Domininkonai Vokietijoje, Čekijoje, Danijoje, Švedijoje, Norvegijoje ir Gotlande iš naujo skelbė kryžiaus karą.'
+  pagrindžia:
+    - c-002
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-010
+  teiginys: 'Bonifacas IX parėmė Vytauto pastangas plėsti katalikybę ir stačiatikių tarpe, patvirtindamas Vytauto įkurtąją Vladimiro vyskupiją (Volynijoje) ir vyskupu paskirdamas domininkoną Gregorijų; tik dėl to kilo su lenkais nesusipratimų, nes ir jie no­ rėjo tame.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Bonifacas IX paskyrė domininkoną Gregorijų Vytauto įkurtos Vladimiro vyskupijos Volynijoje vyskupu.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: 'Domininkonai Vokietijoje, Čekijoje, Danijoje, Švedijoje, Norvegijoje ir Gotlande skelbė kryžiaus karą ir telkė naujus piligrimų būrius.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Ordino gandus, kad Vytautas su turkais einąs prieš katalikus.
-    Bonifacas IX parėmė Vytauto pastangas plėsti katalikybę ir
-    stačiatikių tarpe, patvirtindamas Vytauto įkurtąją Vladimiro
-    vyskupiją (Volynijoje) ir vyskupu paskirdamas domininkoną
-    Gregorijų; tik dėl to kilo su lenkais nesusipratimų, nes ir jie no­
-    rėjo tame krašte labiau įsigalėti.
-    Iš čia matome, kad Liet. krikštas, kuris plačiai atvėrė Lie­
-    tuvos vartus į Romą ir į Vakarų Europą, kartu tarnavo ir politi­
-    kai, nors daug kur buvo dar kūrenama šventoji lietuvių ugnis
-    ir nesigirdėjo bažnyčios varpų, šaukiančių melstis tikrajam
-    Dievui.
+    Jomis įsakoma dar intensyviau skelbti
+    kryžiaus karus prieš pagonis. Vienoje bulėje sakoma, jog netikėliai
+    esą nužudę beveik 500 kryžiuočių^155. Iš naujo skelbdami kryžiaus
+    karą Vokietijoje, Čekijoje, Danijoje, Švedijoje, Norvegijoje, Gotlande,
+    domininkonai turėjo atvesti naujus pilgrimų būrius.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -61,6 +77,72 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
+- c-002
+  santrauka: 'Domininkonai Vokietijoje, Čekijoje, Danijoje, Švedijoje, Norvegijoje ir Gotlande iš naujo skelbė kryžiaus karą.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Vienoje bulėje sakoma, jog netikėliai
+    esą nužudę beveik 500 kryžiuočių^155. Iš naujo skelbdami kryžiaus
+    karą Vokietijoje, Čekijoje, Danijoje, Švedijoje, Norvegijoje, Gotlande,
+    domininkonai turėjo atvesti naujus pilgrimų būrius. Tuo tarpu
+    žemaičiai, prašydami taikos, siuntė Rygon savo pasiuntinius, kurie
+    ten šaltai buvo priimti.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-009
+- c-003
+  santrauka: 'Gegužės 26 d. trys laiškai buvo pasiųsti Saksų provincijos pranciškonams, domininkonams ir Hanzos miestams.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    O vieno jų
+    turinys atpasakotas popiežiaus atsakyme Gediminui. Vienas tų
+    laiškų (1323.1.24), skirtas «visai krikščionijai», buvo išsiuntinėtas
+    penkiems Vokietijos miestams ir Romai (Avignonui). O trys laiškai
+    (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir dominin­
+    konams ir Hanzos miestams (Liubekui, Rostokui, Stralsundui,
+    Greifswaldni, Stettinui ir Gotlando salai).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-007
+- c-004
+  santrauka: 'Rygoje veikė domininkonai, o iš Rygos į Lietuvą buvo siunčiami dvasininkai skelbti evangelijos.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    savo metropolijos jurisdikcijoje. Iš Rygos Lietuvon buvo siunti­
+    nėjami dvasininkai skelbti evangelijos^8. Ten veikė pranciškonai
+    ir domininkonai.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-008
+- c-005
+  santrauka: 'Bonifacas IX parėmė Vytauto pastangas plėsti katalikybę ir stačiatikių tarpe, patvirtindamas Vytauto įkurtąją Vladimiro vyskupiją (Volynijoje) ir vyskupu paskirdamas domininkoną Gregorijų; tik dėl to kilo su lenkais nesusipratimų, nes ir jie no­ rėjo tame.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Bonifacas IX parėmė Vytauto pastangas plėsti katalikybę ir
+    stačiatikių tarpe, patvirtindamas Vytauto įkurtąją Vladimiro
+    vyskupiją (Volynijoje) ir vyskupu paskirdamas domininkoną
+    Gregorijų; tik dėl to kilo su lenkais nesusipratimų, nes ir jie no­
+    rėjo tame krašte labiau įsigalėti.
+    Iš čia matome, kad Liet.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
 
 ## Ryšiai
 ### Laikotarpiai

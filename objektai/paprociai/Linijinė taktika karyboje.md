@@ -54,21 +54,27 @@ Nenurodyta
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-009
-  teiginys: 'Linijinėje taktikoje dažniausiai šaudydavo atskiri padaliniai paeiliui, kad vienu metu liktų užtaisyta bent pusė ginklų.'
+  teiginys: 'Linijinei taktikai reikėjo gana lygios vietovės.'
   pagrindžia:
     - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-010
-  teiginys: 'Linijinėje taktikoje kariai šaudydavo nesitaikydami, o mažą taiklumą kompensuodavo kulkų gausa šaudant salvėmis.'
+  teiginys: 'Linijos artėdavo prie priešo, derindamos šaudymą su judėjimu į priekį.'
   pagrindžia:
     - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-011
+  teiginys: 'Dažnai šaudydavo ne visa linija, o atskiri padaliniai paeiliui arba šachmatine tvarka.'
+  pagrindžia:
+    - c-005
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-012
   teiginys: 'Kariai paprastai šaudydavo nesitaikydami, o mažą taiklumą kompensuodavo salvių gausa.'
   pagrindžia:
-    - c-004
+    - c-005
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
@@ -106,7 +112,29 @@ Nenurodyta
   pagrindžia:
     - t-008
 - c-003
-  santrauka: 'Linijinėje taktikoje dažniausiai šaudydavo atskiri padaliniai paeiliui, kad vienu metu liktų užtaisyta bent pusė ginklų.'
+  santrauka: 'Linijinei taktikai reikėjo gana lygios vietovės.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Puolimo metu ilgos linijos artėdavo prie priešo pozicijų. Suėjus į
+    efektyviosios ugnies nuotolį, puolantieji galėjo sustoti, pasilygiuoti
+    ir judėti, derindami šaudymą su judėjimu į priekį. Kartais pėsti-
+    ninkai puldavo neatidengdami ugnies. Viena iš mūšyje dalyvau-
+    jančių pusių galiausiai prarasdavo savitvardą ir imdavo trauktis.
+    Siekdama išvengti visiško sutriuškinimo, pralaimėjusi linija turė-
+    davo atsitraukti už savų pajėgų antrosios linijos, persitvarkyti už
+    šios priedangos. Kavalerija sparnuose tuo pačių metu stengdavosi |
+    sutriuškinti arba priversti pasitraukti iš mūšio lauko priešo raite-
+    lius, kad po to galėtų užpulti priešo pėstininkus iš flango arba iš
+    užnugario.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-009
+- c-004
+  santrauka: 'Linijos artėdavo prie priešo, derindamos šaudymą su judėjimu į priekį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Dažniausiai šaudydavo ne visa linija,
@@ -126,9 +154,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-009
-- c-004
-  santrauka: 'Linijinėje taktikoje kariai šaudydavo nesitaikydami, o mažą taiklumą kompensuodavo kulkų gausa šaudant salvėmis.'
+    - t-010
+- c-005
+  santrauka: 'Dažnai šaudydavo ne visa linija, o atskiri padaliniai paeiliui arba šachmatine tvarka.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kariai šaudydavo nesitaikydami, tiesiog nu-
@@ -144,5 +172,5 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-010
     - t-011
+    - t-012

@@ -33,32 +33,32 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
 
 ## Teiginiai
 - t-001
-  teiginys: 'Švitrigailos įkalbėtas Ordinas trimis kryptimis puolė Lenkiją, ją puolė ir Moldavija.'
+  teiginys: 'Į Vytauto susitikimą atvyko ir Moldavijos pasiuntiniai.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Magistras balandį prašė Švitrigailos kartu su Livonija, Podole, Valakija-Moldavija ir totoriais pulti Lenkiją.'
+  teiginys: 'Švitrigailos įkalbėtas Ordinas trimis kryptimis puolė Lenkiją, ją puolė ir Moldavija.'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+- t-003
+  teiginys: 'Magistras dar balandį prašė Švitrigailos kartu su Livonija, Podole, Valakija-Moldavija ir totoriais pulti Lenkiją.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Švitrigailos įkalbėtas Ordinas trimis kryptimis puolė Lenkiją, ją puolė ir Moldavija.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  santrauka: 'Į Vytauto susitikimą atvyko ir Moldavijos pasiuntiniai.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Jogaila apsiautė Lucką, apgula
-    tęsėsi, tačiau jo pajėgos buvo atremtos —
-    lietuviai sėkmingai gynėsi. Švitrigailos
-    įkalbėtas Ordinas trimis kryptimis puolė
-    Lenkiją, ją puolė ir Moldavija. Jogaila
-    1431 m. vasaros pabaigoje buvo priverstas
-    sudaryti Čartorysko paliaubų sutartį dve-
-    Jiems metams su abejomis Ordino šakomis,
-    Moldavija ir totoriais.
+    Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­
+    čiai ir Hanzos atstovai. Atkeliavo ir Vytauto giminaičiai, Mo­
+    zūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­
+    niaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­
+    riaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­
+    niai^2 ). Visi svečiai dosnaus ir vaišingo šeimininko buvo nuošir­
+    džiai priimti.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -67,11 +67,24 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Magistras balandį prašė Švitrigailos kartu su Livonija, Podole, Valakija-Moldavija ir totoriais pulti Lenkiją.'
+  santrauka: 'Švitrigailos įkalbėtas Ordinas trimis kryptimis puolė Lenkiją, ją puolė ir Moldavija.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Lenkijai suartėjus su
-    čekų husitais, Ordinui kilo didelė grėsmė.
+    Švitrigailos
+    įkalbėtas Ordinas trimis kryptimis puolė
+    Lenkiją, ją puolė ir Moldavija. Jogaila
+    1431 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Magistras dar balandį prašė Švitrigailos kartu su Livonija, Podole, Valakija-Moldavija ir totoriais pulti Lenkiją.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
     Magistras dar balandį prašė Švitrigailos
     kartu su Livonija, Podole, Valakija-Mol-
     davija ir totoriais pulti Lenkiją. Tuo tar-
@@ -79,13 +92,13 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
     19 dienų, husitų ir Lenkijos kariuomenė
     įsiveržė į Ordino valdas birželio pradžioje,
     viską naikino ir degino.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-002
+    - t-003
 
 ## Ryšiai
 ### Laikotarpiai

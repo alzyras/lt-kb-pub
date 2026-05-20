@@ -33,21 +33,58 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
 
 ## Teiginiai
 - t-001
-  teiginys: 'Timūr-Kutlukas reikalavo, kad Vytautas išduotų į Lietuvą pabėgusį jo priešą Tochtamišą.'
+  teiginys: 'Tochtamišas iš pradžių buvo Timuro globojamas, o 1391 m. buvo jo sumuštas.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Prie Kijevo telktoje Vytauto kariuomenėje buvo keli tūkstančiai Tochtamišo totorių.'
+  teiginys: '1396 m. Tochtamišas su savo šalininkais ir gausia šeima prisiglaudė Lietuvoje.'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė savo pasiuntinius pas lietuvių didįjį kunigaikštį Vytautą, kad išduotų jam pabėgusį „carą“ Tochtamišą, jo priešą.'
+  pagrindžia:
+    - c-003
+- t-004
+  teiginys: 'Čia buvo ir Tochtamišo totoriai (keli tūkstančiai), 400 pavienių lenkų riterių, tokių kaip Spytekas iš Melštyno, Krokuvos vaivada ir Podolės valdytojas bei kiti.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Timūr-Kutlukas reikalavo, kad Vytautas išduotų į Lietuvą pabėgusį jo priešą Tochtamišą.'
+  santrauka: 'Tochtamišas iš pradžių buvo Timuro globojamas, o 1391 m. buvo jo sumuštas.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Tam įdomios progos davė kilę nesutikimai pačioje Aukso
+    ordoje. Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo
+    chano Timuro globojamas, vėliau (1391) buvo jo sumuštas. Kad
+    ir atgavęs valdžią, Tochtamišas nesijautė saugus.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: '1396 m. Tochtamišas su savo šalininkais ir gausia šeima prisiglaudė Lietuvoje.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Tad 1396 m. Tochtamišas su
+    savo šalininkais ir gausia šeima prisiglaudė Lietuvoje. Jis tikėjosi
+    su Vytauto pagalba atgauti prarastą valdžią.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė savo pasiuntinius pas lietuvių didįjį kunigaikštį Vytautą, kad išduotų jam pabėgusį „carą“ Tochtamišą, jo priešą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Besirengdamas žygiui į Sarajų, Aukso
@@ -58,24 +95,18 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
     „caro Tochtamišo neišduosiu, o su caru
     Timūr-Kutluku noriu matytis pats“.
     Pagrindinė Vytauto kariuomenė iš
-    Vilniaus išvyko apie gegužės 18 d. Vytautas
-    visą birželį telkė karius (savo lietuvius,
-    jam pavaldžių rusų kunigaikščių karius ir
-    kitus) stovykloje prie Kijevo.
-  citata_rodoma: ""
+    Vilniaus išvyko apie gegužės 18 d.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Prie Kijevo telktoje Vytauto kariuomenėje buvo keli tūkstančiai Tochtamišo totorių.'
+    - t-003
+- c-004
+  santrauka: 'Čia buvo ir Tochtamišo totoriai (keli tūkstančiai), 400 pavienių lenkų riterių, tokių kaip Spytekas iš Melštyno, Krokuvos vaivada ir Podolės valdytojas bei kiti.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    O Vytautas atsakęs:
-    „caro Tochtamišo neišduosiu, o su caru
-    Timūr-Kutluku noriu matytis pats“.
     Pagrindinė Vytauto kariuomenė iš
     Vilniaus išvyko apie gegužės 18 d. Vytautas
     visą birželį telkė karius (savo lietuvius,
@@ -85,13 +116,13 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
     pavienių lenkų riterių, tokių kaip Spytekas
     iš Melštyno, Krokuvos vaivada ir Podolės
     valdytojas bei kiti.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-002
+    - t-004
 
 ## Ryšiai
 ### Laikotarpiai

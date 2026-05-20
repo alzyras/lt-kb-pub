@@ -44,35 +44,59 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
 
 ## Teiginiai
 - t-008
-  teiginys: 'Vytautas iš vietininko tapo savarankišku Lietuvos valdovu ir nenorėjo gadinti santykių su Jogaila bei Lenkija.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-009
-  teiginys: 'Savo dvarams administruoti ir tvarkai srityse palaikyti didysis kunigaikštis skirdavo tam tikrus urėdus, kurie buvo vadinami vietininkais.'
+  teiginys: 'Vytautas panaikino svarbesnes sričių kunigaikštijas ir vietoj savarankiškų kunigaikščių paskyrė savo vietininkus.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-009
+  teiginys: 'Vytauto vietininkas ir lietuviškąją partiją palaikę bajorai buvo išžudyti.'
+  pagrindžia:
+    - c-001
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-010
-  teiginys: 'Vietininkai valdė dvarus, prižiūrėjo savo sričių pilis, turėjo jas taisyti ir laikyti paruoštas karui.'
+  teiginys: 'Vytauto santykiai su Lenkija jo gyvenimo pabaigoj Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenorėjo gadinti santykių su Jogaila ir Lenkija.'
   pagrindžia:
     - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+- t-011
+  teiginys: 'Savo dvarams administruoti ir tvarkai srityse palaikyti didysis kunigaikštis skirdavo tam tikrus urėdus, kurie buvo vadinami vietininkais.'
+  pagrindžia:
+    - c-004
+- t-012
+  teiginys: 'Tačiau vietininkai nebuvo vien tik ūkių prievaizdai: jie valdė ne tik dvarus, bet jų žinioje buvo ir tose srityse esančios pilys, kurias jie turėjo taisyti ir laikyti paruoštas karui.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vytautas iš vietininko tapo savarankišku Lietuvos valdovu ir nenorėjo gadinti santykių su Jogaila bei Lenkija.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: 'Vytauto vietininkas ir lietuviškąją partiją palaikę bajorai buvo išžudyti.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    **22. Vytauto santykiai su Lenkija jo gyvenimo pabaigoj**
-
-    Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vy-
-    tautas niekad nenorėjo gadinti santykių su Jogaila ir Lenkija.
-    Bendradarbiavimo su Lenkija jis ypač buvo reikalingas, kovo-
-    damas ginklu ir diplomatija su ordinu.
+    Vy­
+    tauto vietininkas ir bajorai, palaikę lietuviškąją partiją, buvo
+    išžudyti. Vytautas išsiskubino malšinti sukilėlių. Išstovėjęs
+    keturias savaites ir nieko nelaimėjęs, atsitraukė.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-009
+- c-002
+  santrauka: 'Vytautas panaikino svarbesnes sričių kunigaikštijas ir vietoj savarankiškų kunigaikščių paskyrė savo vietininkus.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Paskutine proga dar norėtųsi atsakyti į klausimą: ar Vytau­
+    tas padarė tuo laikotarpiu ką nors naujo Lietuvos vidaus ir už­
+    sienio politikoj? Vidaus politikoj jis laikėsi, kaip buvo galima
+    įsitikinti, tos linijos, kuri buvo pradėta dar Mindaugo († 1263 ), bū­
+    tent naikino atskirų sričių kunigaikštijas. Šis darbas beveik
+    galutinai buvo baigtas Vytauto: jam pasisekė svarbesniąsias ir
+    didesniąsias sričių kunigaikštijas panaikinti ir savarankiškų kuni­
+    gaikščių vietoj pasodinti savo vietininkus, visiškai nuo d. kun.
+    priklausomus.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -80,7 +104,24 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-008
-- c-002
+- c-003
+  santrauka: 'Vytauto santykiai su Lenkija jo gyvenimo pabaigoj Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenorėjo gadinti santykių su Jogaila ir Lenkija.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Vytauto santykiai su Lenkija jo gyvenimo pabaigoj**
+
+    Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vy-
+    tautas niekad nenorėjo gadinti santykių su Jogaila ir Lenkija.
+    Bendradarbiavimo su Lenkija jis ypač buvo reikalingas, kovo-
+    damas ginklu ir diplomatija su ordinu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+- c-004
   santrauka: 'Savo dvarams administruoti ir tvarkai srityse palaikyti didysis kunigaikštis skirdavo tam tikrus urėdus, kurie buvo vadinami vietininkais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -92,15 +133,15 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
     dvaruose (domenuose) ir valdė tik nedidelius valsčius dvarų
     apylinkėse; jie turėdavo prižiūrėti ūkį ir už tai gaudavo 1/3 visų
     dvaro pajamų.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-009
-- c-003
-  santrauka: 'Vietininkai valdė dvarus, prižiūrėjo savo sričių pilis, turėjo jas taisyti ir laikyti paruoštas karui.'
+    - t-011
+- c-005
+  santrauka: 'Tačiau vietininkai nebuvo vien tik ūkių prievaizdai: jie valdė ne tik dvarus, bet jų žinioje buvo ir tose srityse esančios pilys, kurias jie turėjo taisyti ir laikyti paruoštas karui.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tačiau vietininkai nebuvo vien tik ūkių prievaizdai: jie
@@ -110,13 +151,13 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
     bylas. Taigi vietininkai ėjo trejopas pareigas: 1) didžiojo ku-
     nigaikščio turto valdytojo, 2) pilies komendan-
     to ir 3) teisėjo.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-010
+    - t-012
 
 ## Pastabos
 - Šalia esantis viecinykas yra senesnė ar tarmiška forma, bet reikšmė iš konteksto aiški.

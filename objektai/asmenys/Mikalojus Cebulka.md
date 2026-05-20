@@ -53,5 +53,4 @@ Vytautas kartu su karū­ nos pasiuntiniu Zbignievu Olesnickiu pasiuntė ir savo
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Vytautas Didysis]]
 - [[objektai/asmenys/Zbignievas Olesnickis]]

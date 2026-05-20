@@ -33,31 +33,31 @@ Dar tėvui gyvam esant, penkerių metų Jadvyga 1378 m. buvo sužieduota su Aust
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vilhelmui Habsburgui buvo pažadėta lenkų karalaitė Jadvyga, kurią vėliau vedė Jogaila.'
+  teiginys: 'Austrijos Vilhelmas Habsburgas 1378 m. buvo sužieduotas su penkerių metų Jadvyga.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Austrijos hercogas Vilhelmas buvo sužieduotas su vienuolikmete Jadvyga dar jos tėvui mirštant.'
+  teiginys: 'Tuo reikalu pas popiežių buvo siunčiamas kanauninkas Mykolas Trombas (Trąb), bet Vokieti­ joje Habsburgai jį sulaikė, keršydami Jogailai, kad buvo vedęs Vilhelmui Habsburgui pažadėtą lenkų karalaitę Jadvygą.'
   pagrindžia:
     - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
+- t-003
+  teiginys: 'Abi jos, tėvui mirštant, jau buvo sužieduotos: pirmoji (11 metų) su Austrijos hercogu Vilhelmu ir antroji (12 metų) su Brandenbur­ go markagrafu, vėliau tapusiu ciesorium Zigmantu.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vilhelmui Habsburgui buvo pažadėta lenkų karalaitė Jadvyga, kurią vėliau vedė Jogaila.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: 'Austrijos Vilhelmas Habsburgas 1378 m. buvo sužieduotas su penkerių metų Jadvyga.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    tą, paskirti vyskupą, kapitulą. Tuo reikalu pas popiežių buvo
-    siunčiamas kanauninkas Mykolas Trombas (Trąb), bet Vokieti­
-    joje Habsburgai jį sulaikė, keršydami Jogailai, kad buvo vedęs
-    Vilhelmui Habsburgui pažadėtą lenkų karalaitę Jadvygą. Tad
-    kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­
-    niai su Poznaniaus vyskupu Dobrogosta, vieną kartą jau tar­
-    pininkavusiu tarp popiežiaus Inocento VI ir didžiojo Lietuvos
-    kunigaikščio Algirdo.
+    Kas buvo pirmasis pradininkas tos drąsios minties, kuri reiškė
+    ikitolinių susitarimų perversmą, nėra galutinai išaiškinta. Dar tėvui
+    gyvam esant, penkerių metų Jadvyga 1378 m. buvo sužieduota su
+    Austrijos Vilhelmu Habsburgu. Atrodo, kad pirmieji iniciatoriai
+    Lenkijos karūną pasiūlyti Vilniaus valdovui buvo Mažosios Lenkijos
+    ponai.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -66,26 +66,40 @@ Dar tėvui gyvam esant, penkerių metų Jadvyga 1378 m. buvo sužieduota su Aust
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Austrijos hercogas Vilhelmas buvo sužieduotas su vienuolikmete Jadvyga dar jos tėvui mirštant.'
+  santrauka: 'Tuo reikalu pas popiežių buvo siunčiamas kanauninkas Mykolas Trombas (Trąb), bet Vokieti­ joje Habsburgai jį sulaikė, keršydami Jogailai, kad buvo vedęs Vilhelmui Habsburgui pažadėtą lenkų karalaitę Jadvygą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Bet jam pavyko dvi savo karalystes — Vengrų ir Len­
-    kijos — paskirti savo dviem dukterim: Jadvygai ir Marijai. Abi
+    Tuo reikalu pas popiežių buvo
+    siunčiamas kanauninkas Mykolas Trombas (Trąb), bet Vokieti­
+    joje Habsburgai jį sulaikė, keršydami Jogailai, kad buvo vedęs
+    Vilhelmui Habsburgui pažadėtą lenkų karalaitę Jadvygą. Tad
+    kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­
+    niai su Poznaniaus vyskupu Dobrogosta, vieną kartą jau tar­
+    pininkavusiu tarp popiežiaus Inocento VI ir didžiojo Lietuvos
+    kunigaikščio Algirdo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Abi jos, tėvui mirštant, jau buvo sužieduotos: pirmoji (11 metų) su Austrijos hercogu Vilhelmu ir antroji (12 metų) su Brandenbur­ go markagrafu, vėliau tapusiu ciesorium Zigmantu.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Abi
     jos, tėvui mirštant, jau buvo sužieduotos: pirmoji (11 metų) su
     Austrijos hercogu Vilhelmu ir antroji (12 metų) su Brandenbur­
     go markagrafu, vėliau tapusiu ciesorium Zigmantu. Pirmiausia
-    Lenkijai buvo paskirta Marija, kuriai jau 1383 m. sausio 18 d.
-    susivažiavę lenkų bajorai padarė priesaiką, tik pridėdami sąly­
-    gą, kad Lenkijos karūna nebūtų sujungta su Vengrijos ir kad Ma­
-    rija nuolat gyventų Lenkijoj; nes jie nenorėjo, kad jų kraštas, lyg
-    provincija, būtų valdomas iš Budapešto.
-  citata_rodoma: ""
+    Lenkijai buvo paskirta Marija, kuriai jau 1383 m.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-002
+    - t-003
 
 ## Ryšiai
 ### Laikotarpiai

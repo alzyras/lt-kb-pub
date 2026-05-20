@@ -35,23 +35,26 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 
 ## Teiginiai
 - t-001
-  teiginys: '1429 m. beveik užmirštas klausimas vėl iškilo į viešumą ir sujudino visą Europą.'
+  teiginys: 'Iš Prancūzijos kilusi srovė paplito po Europą ir paveikė Europos valdovus.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Praėjus dvidešimt metų nuo Kėzmarko su­ važiavimo, beveik užmirštam klausimui vėl buvo lemta kilti į viešumą ir sujudinti visą Europą.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1429 m. beveik užmirštas klausimas vėl iškilo į viešumą ir sujudino visą Europą.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: 'Iš Prancūzijos kilusi srovė paplito po Europą ir paveikė Europos valdovus.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Vytautui tada daug
-    labiau nekaip karūna rūpėjo pabaigt mūšio lauke nuolatinius
-    ginčus ir susirėmimus su Ordinu, kuris jau nuo seno nedavė
-    Lietuvai ramybės. Praėjus dvidešimt metų nuo Kėzmarko su­
-    važiavimo, beveik užmirštam klausimui vėl buvo lemta kilti į
-    viešumą ir sujudinti visą Europą. Tai atsitiko 1429 m.
+    Iš Prancūzijos ta pati srovė paplito po visą Europą. Ja užsi-
+    krėtė Europos valdovai. Jie palaikė ryšius su išgarsėjusiais litera-
+    tais ir mokslininkais, patys užsiėmė literatūra ir mokslu, savo sosti-
+    nėse kūrė mokslų akademijas (Berlyne, Petrapily, Drezdene, Stok-
+    holme ir kt.) ir naujus universitetus.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -59,6 +62,20 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Praėjus dvidešimt metų nuo Kėzmarko su­ važiavimo, beveik užmirštam klausimui vėl buvo lemta kilti į viešumą ir sujudinti visą Europą.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Praėjus dvidešimt metų nuo Kėzmarko su­
+    važiavimo, beveik užmirštam klausimui vėl buvo lemta kilti į
+    viešumą ir sujudinti visą Europą. Tai atsitiko 1429 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Laikotarpiai

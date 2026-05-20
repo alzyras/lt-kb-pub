@@ -7,18 +7,6 @@ aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-datos:
-  - '1936 m.'
-  - '1978 m.'
-  - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
-  - 'XXI'
-date_start: '1936'
-date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - paprotys
@@ -47,23 +35,30 @@ Nenurodyta
 
 ## Teiginiai
 - t-005
-  teiginys: 'Apsikrikštijusiems bajorams Jogailos privilegija suteikė teisę valdyti, parduoti ir perleisti iš protėvių įgytą nejudomą turtą.'
+  teiginys: 'Krikštą priėmę bajorai įgijo teisę laisvai ir paveldimai valdyti savo žemes.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-006
+  teiginys: 'Naujakrikštai bajorai buvo paliuosuoti nuo kitų patarnavimų didžiajam kunigaikščiui, išskyrus karo tarnybą ir pilių statybą bei taisymą.'
+  pagrindžia:
+    - c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Apsikrikštijusiems bajorams Jogailos privilegija suteikė teisę valdyti, parduoti ir perleisti iš protėvių įgytą nejudomą turtą.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: 'Krikštą priėmę bajorai įgijo teisę laisvai ir paveldimai valdyti savo žemes.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Katalikų tikėjimą įvedant, gavo daugiau laisvės ir bajorai,
-    kurie jį priimdavo. Tokiems bajorams buvo duota teisė valdy­
-    ti iš protėvių įgytą nejudomą turtą (miestus, apskričius, so­
-    džius, namus, dvarus), jį parduoti, kitam perleisti. Buvo su­
-    teikta laisvė savo dukteris ir giminaites leisti už joms tinkamų
-    vyrų, tik kad jie nebūtų stačiatikiai.
+    Trijų vasario mėn. (1387) dokumentų grandinėje Vilniuje reikš­
+    mingiausia buvo Pelenų dienos (20.11.) privilegija^19. Krikštą priė­
+    mę bajorai įgijo teisę laisvai ir paveldimai valdyti savo žemes.
+    Jie gavo pilną laisvę savo šeimos reikaluose, pvz., teisę laisvai už
+    vyro išleisti savo dukteris. Naujakrikštai bajorai buvo paliuosuoti
+    nuo visų kitų patarnavimų didžiajam kunigaikščiui, išskyrus karo
+    tarnybą, naujų pilių statymą ir senųjų taisymą
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -71,6 +66,7 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
+    - t-006
 
 ## Ryšiai
 ### Teminiai klasteriai

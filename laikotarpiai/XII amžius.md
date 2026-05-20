@@ -21,6 +21,9 @@ Objektų skaičius: 27.
 ### Asmenys
 - [[objektai/asmenys/Kazimieras]]
 
+### Autoriai
+- [[objektai/autoriai/P. Klimas]]
+
 ### Daiktai
 - [[objektai/daiktai/Sidabruotos geležinės balnakilpės]]
 - [[objektai/daiktai/Sidabruotos geležinės XI-XII a. balnakilpės]]
@@ -32,7 +35,6 @@ Objektų skaičius: 27.
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Kuršo ir Žiemgalos kunigaikštystė]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
 
 ### Posakiai
 - [[objektai/posakiai/na Litvu]]

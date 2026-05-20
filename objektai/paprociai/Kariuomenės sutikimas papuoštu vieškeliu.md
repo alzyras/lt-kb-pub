@@ -48,20 +48,58 @@ Nenurodyta
 
 ## Teiginiai
 - t-004
-  teiginys: 'Pražygiuojančiam batalionui linkėta ryžto ir sėkmės, o sutikimas tęsėsi apie penkis kilometrus.'
+  teiginys: 'Vietos gyventojai bėgo iš visų pusių pasitikti į miestelį su daina įžygiuojančios lietuvių kariuomenės.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-005
-  teiginys: 'Papuoštu vieškeliu pražygiuojanti kariuomenė buvo organizuotai sutinkama apie penkis kilometrus.'
+  teiginys: 'Vieškelis buvo papuoštas kartelėmis, vainikais, gėlių puokštėmis ir vartais.'
   pagrindžia:
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-006
+  teiginys: 'Pražygiuojančiam batalionui linkėta ryžto ir sėkmės, o sutikimas tęsėsi apie penkis kilometrus.'
+  pagrindžia:
+    - c-003
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-007
+  teiginys: 'Papuoštu vieškeliu pražygiuojanti kariuomenė buvo organizuotai sutinkama apie penkis kilometrus.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
+  santrauka: 'Vietos gyventojai bėgo iš visų pusių pasitikti į miestelį su daina įžygiuojančios lietuvių kariuomenės.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Į miestelį įžygiavome
+    su daina. Žmonės bėgo iš visų pusių pasitikti lietuviško „vaisko“.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
+- c-002
+  santrauka: 'Vieškelis buvo papuoštas kartelėmis, vainikais, gėlių puokštėmis ir vartais.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Kai tik išėjome iš Pagirių bažnytkaimio, mus
+    nustebino papuoštas vieškelis. [...]. Jis abiejose pusėse lygiais protarpiais buvo nusmaigs-
+    tytas kartelėmis, ant kurių pakabinta vainikai ar gėlių puokštės. Daug kur skersai kelio
+    pastatyti vartai, prie kurių stovėjo būriai žmonių.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-005
+- c-003
   santrauka: 'Pražygiuojančiam batalionui linkėta ryžto ir sėkmės, o sutikimas tęsėsi apie penkis kilometrus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -75,8 +113,8 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
-- c-002
+    - t-006
+- c-004
   santrauka: 'Papuoštu vieškeliu pražygiuojanti kariuomenė buvo organizuotai sutinkama apie penkis kilometrus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -84,13 +122,13 @@ Nenurodyta
     plojo, linkėjo ryžto ir sėkmės kovoje su Lietuvos priešais - komunistais. Taip organizuotai
     vieškelis papuoštas ir pražygiuojanti kariuomenė sutinkama buvo apie penkis kilometrus.
     Labai gražus, gerai organizuotas ir nepaprastai greitai atliktas darbas!
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-005
+    - t-007
 
 ## Ryšiai
 ### Laikotarpiai

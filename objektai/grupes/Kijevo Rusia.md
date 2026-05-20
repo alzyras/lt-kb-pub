@@ -8,18 +8,15 @@ aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1040 m.'
   - '1978 m.'
   - '2026 m.'
 periodas: 'okupacijų ir sovietmečio laikotarpis'
 periodo_grupes:
   - 'XX a.'
-  - 'viduramžiai'
 amziai:
-  - 'XI'
   - 'XX'
   - 'XXI'
-date_start: '1040'
+date_start: '1978'
 date_end: '2026'
 patikimumas: 'aukštas'
 tags:
@@ -32,23 +29,31 @@ Kijevo Rusia šiame šaltinyje minima kaip 988 m. Bizantijos krikštą priėmęs
 
 ## Teiginiai
 - t-003
-  teiginys: 'Lietuva patyrė Kijevo Rusios agresiją.'
+  teiginys: 'Kijevo Rusia 988 m. priėmė Bizantijos krikštą.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: 'XI amžiaus rusų metraščiai vos du kartus mini lietuvių ir Kijevo Rusios karinius konfliktus.'
+  pagrindžia:
+    - c-002
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-005
+  teiginys: 'Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (Dniepro ir Dauguvos aukštupiuose), nors Kijevo Rusia 988 m. priėmė Bizantijos krikštą, gyveno dar gana žemame kultūros laipsnyje.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lietuva patyrė Kijevo Rusios agresiją.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  santrauka: 'Kijevo Rusia 988 m. priėmė Bizantijos krikštą.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Lietuvos valstybė
-
-    x1 a. Lietuva patyrė Kijevo Rusios agresiją. 1040 m. Kijevo valdo-
-    vas Jaroslavas surengė didelį žygį į Lietuvą. Lietuvių visgi nesuge-
-    bėta įtraukti į senrusiškos kultūros įtaką, kas ateityje galėjo lemti
-    lietuvių tautos asimiliaciją.
+    Artimiausieji rytų kaimynai dregovičiai (Beržūnės
+    baseine) ir krivičiai (Dniepro ir Dauguvos aukštupiuose), nors
+    Kijevo Rusia 988 m. priėmė Bizantijos krikštą, gyveno dar gana
+    žemame kultūros laipsnyje.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -56,12 +61,42 @@ Kijevo Rusia šiame šaltinyje minima kaip 988 m. Bizantijos krikštą priėmęs
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+- c-002
+  santrauka: 'XI amžiaus rusų metraščiai vos du kartus mini lietuvių ir Kijevo Rusios karinius konfliktus.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    XI amž. rusų metraščiai vos du kartu tepaminėjo lietuvių ir
+    Kijevo rusų karinius konfliktus, jeigu 1040 ir 1044 m. minimi
+    Jaroslavo žygiai nereiškia tik vienos karinės ekspedicijos.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
+- c-003
+  santrauka: 'Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (Dniepro ir Dauguvos aukštupiuose), nors Kijevo Rusia 988 m. priėmė Bizantijos krikštą, gyveno dar gana žemame kultūros laipsnyje.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Artimiausieji rytų kaimynai dregovičiai (Beržūnės
+    baseine) ir krivičiai (Dniepro ir Dauguvos aukštupiuose), nors
+    Kijevo Rusia 988 m. priėmė Bizantijos krikštą, gyveno dar gana
+    žemame kultūros laipsnyje. Tuo tarpu pagonys lietuviai, kaip
+    patvirtina rašytieji šaltiniai (XIII-XIV amž.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Laikotarpiai
-- [[laikotarpiai/XI amžius]]
 - [[laikotarpiai/XX amžius]]
 - [[laikotarpiai/XXI amžius]]
+- [[laikotarpiai/XI amžius]]
 
 ### Susiję objektai
 - [[objektai/asmenys/Jaroslavas (Kijevo valdovas)]]

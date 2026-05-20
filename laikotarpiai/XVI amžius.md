@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 218.
+Objektų skaičius: 219.
 
 ## Kaip naudoti
 
@@ -107,6 +107,8 @@ Objektų skaičius: 218.
 - [Jėzuitų ordinas](../objektai/grupes/J%C4%97zuit%C5%B3%20ordinas)
 - [Katalikų Bažnyčia](../objektai/grupes/Katalik%C5%B3%20Ba%C5%BEny%C4%8Dia)
 - [Kuršo kunigaikštystė](../objektai/grupes/Kur%C5%A1o%20kunigaik%C5%A1tyst%C4%97)
+- [Lenkai](../objektai/grupes/Lenkai)
+- [Lietuviai](../objektai/grupes/Lietuviai)
 - [Lietuvos Didžioji Kunigaikštystė](../objektai/grupes/Lietuvos%20Did%C5%BEioji%20Kunigaik%C5%A1tyst%C4%97)
 - [Lietuvos kariuomenė](../objektai/grupes/Lietuvos%20kariuomen%C4%97)
 - [Lietuvos seimas (XVI a.)](../objektai/grupes/Lietuvos%20seimas%20%28XVI%20a.%29)
@@ -120,7 +122,6 @@ Objektų skaičius: 218.
 - [Vazų dinastija](../objektai/grupes/Vaz%C5%B3%20dinastija)
 - [Vilniaus romantizmo mokykla](../objektai/grupes/Vilniaus%20romantizmo%20mokykla)
 - [Vilniaus universitetas](../objektai/grupes/Vilniaus%20universitetas)
-- [Vokiečiai](../objektai/grupes/Vokie%C4%8Diai)
 - [Švedai](../objektai/grupes/%C5%A0vedai)
 - [Žemaičiai](../objektai/grupes/%C5%BDemai%C4%8Diai)
 - [Žemaičių medininkai](../objektai/grupes/%C5%BDemai%C4%8Di%C5%B3%20medininkai)
@@ -140,6 +141,7 @@ Objektų skaičius: 218.
 - [Lydimoji žemdirbystė](../objektai/paprociai/Lydimoji%20%C5%BEemdirbyst%C4%97)
 - [Pagoniškų elementų integravimas į krikščioniškas praktikas](../objektai/paprociai/Pagoni%C5%A1k%C5%B3%20element%C5%B3%20integravimas%20%C4%AF%20krik%C5%A1%C4%8Dioni%C5%A1kas%20praktikas)
 - [Trilaukio ūkio sistema](../objektai/paprociai/Trilaukio%20%C5%ABkio%20sistema)
+- [Triumfo iškilmės su belaisvių eisena ir trofėjinėmis vėliavomis Vilniuje](../objektai/paprociai/Triumfo%20i%C5%A1kilm%C4%97s%20su%20belaisvi%C5%B3%20eisena%20ir%20trof%C4%97jin%C4%97mis%20v%C4%97liavomis%20Vilniuje)
 - [Vėlyvos santuokos, kraitis ir vestuvių sutartys](../objektai/paprociai/V%C4%97lyvos%20santuokos%2C%20kraitis%20ir%20vestuvi%C5%B3%20sutartys)
 
 ### Posakiai
@@ -164,7 +166,6 @@ Objektų skaičius: 218.
 - [Didžiųjų Lukų tvirtovė](../objektai/vietos/Did%C5%BEi%C5%B3j%C5%B3%20Luk%C5%B3%20tvirtov%C4%97)
 - [Dubrovna](../objektai/vietos/Dubrovna)
 - [Estija](../objektai/vietos/Estija)
-- [Gardinas](../objektai/vietos/Gardinas)
 - [Jelgava](../objektai/vietos/Jelgava)
 - [Juodoji jūra](../objektai/vietos/Juodoji%20j%C5%ABra)
 - [Kanevas](../objektai/vietos/Kanevas)
@@ -186,14 +187,13 @@ Objektų skaičius: 218.
 - [Praha](../objektai/vietos/Praha)
 - [Prūsija](../objektai/vietos/Pr%C5%ABsija)
 - [Pskovas](../objektai/vietos/Pskovas)
+- [Ragainė](../objektai/vietos/Ragain%C4%97)
 - [Salacgryva](../objektai/vietos/Salacgryva)
 - [Salaspilis](../objektai/vietos/Salaspilis)
 - [Saremos sala](../objektai/vietos/Saremos%20sala)
 - [Sluckas](../objektai/vietos/Sluckas)
 - [Smolenskas](../objektai/vietos/Smolenskas)
-- [Tartu](../objektai/vietos/Tartu)
 - [Transilvanija](../objektai/vietos/Transilvanija)
-- [Turovas](../objektai/vietos/Turovas)
 - [Ukraina](../objektai/vietos/Ukraina)
 - [Valakija](../objektai/vietos/Valakija)
 - [Varšuva](../objektai/vietos/Var%C5%A1uva)
@@ -201,13 +201,13 @@ Objektų skaičius: 218.
 - [Vilijandis](../objektai/vietos/Vilijandis)
 - [Vilniaus katedra](../objektai/vietos/Vilniaus%20katedra)
 - [Vilnius](../objektai/vietos/Vilnius)
-- [Vitebskas](../objektai/vietos/Vitebskas)
 - [Vokietija](../objektai/vietos/Vokietija)
 - [Šklovas](../objektai/vietos/%C5%A0klovas)
 - [Švedija](../objektai/vietos/%C5%A0vedija)
 - [Žemaičių jūra](../objektai/vietos/%C5%BDemai%C4%8Di%C5%B3%20j%C5%ABra)
 
 ### Įvykiai
+- [1582 m. sausio 15 d. 10 metų karo paliaubos su Maskva](../objektai/ivykiai/1582%20m.%20sausio%2015%20d.%2010%20met%C5%B3%20karo%20paliaubos%20su%20Maskva)
 - [Antrasis karas su Maskva (1512–1522 m.)](../objektai/ivykiai/Antrasis%20karas%20su%20Maskva%20%281512%E2%80%931522%20m.%29)
 - [B. Serebriano kariuomenės sutriuškinimas po Ulos mūšio](../objektai/ivykiai/B.%20Serebriano%20kariuomen%C4%97s%20sutriu%C5%A1kinimas%20po%20Ulos%20m%C5%AB%C5%A1io)
 - [Didžioji Maskvos suirutė (1597–1613 m.)](../objektai/ivykiai/Did%C5%BEioji%20Maskvos%20suirut%C4%97%20%281597%E2%80%931613%20m.%29)
@@ -248,6 +248,7 @@ Objektų skaičius: 218.
 - [ratukinė-kibirkštinė spyna](../objektai/zodynas/ratukin%C4%97-kibirk%C5%A1tin%C4%97%20spyna)
 - [regestai](../objektai/zodynas/regestai)
 - [regestas regestai](../objektai/zodynas/regestas%20regestai)
+- [rotmistras](../objektai/zodynas/rotmistras)
 - [tautinė sąmonė](../objektai/zodynas/tautin%C4%97%20s%C4%85mon%C4%97)
 - [valstybingumo idėja valstybingumo idealas valstybingumu grįsta periodizacija](../objektai/zodynas/valstybingumo%20id%C4%97ja%20valstybingumo%20idealas%20valstybingumu%20gr%C4%AFsta%20periodizacija)
 - [valstybingumo idėja valstybingumu grįsta periodizacija](../objektai/zodynas/valstybingumo%20id%C4%97ja%20valstybingumu%20gr%C4%AFsta%20periodizacija)

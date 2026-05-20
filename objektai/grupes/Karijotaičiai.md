@@ -36,27 +36,115 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lietuvos kariuomenėje buvo karių, kuriems vadovavo trys Karijotaičiai, Algirdo brolio Karijoto sūnūs.'
+  teiginys: 'Nėra galutinai išaiškinta, kada Karijotaičiai pasirodė Podolėje.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Algirdui leidus, trys broliai Karijotaičiai su Lietuvos žemės pagalba patraukė į Podolės žemę.'
+  teiginys: 'Iš Podolės Karijotaičių paminėtini Jurgis († 1374), Aleksandras († 1388), Konstantinas († 1388), Teodoras.'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: 'Algirdo remiami Karijotaičiai Mažojoje Podolėje organizavo krašto gynybą nuo totorių puolimų ir statė pilis.'
+  teiginys: 'Podolėje Karijotaičiai ėmė įvesti tvarką, statyti pilis (Kamieniecą, Smotryčą, Bakotą ir kt.), užvesti ūkinį gyvenimą.'
   pagrindžia:
     - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: '1366 m. vasarą Karijotaičiai Jurgis ir Aleksandras rėmė Kazimiero žygį prieš Liubartą.'
+  pagrindžia:
+    - c-004
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-005
+  teiginys: 'Lietuvos kariuomenė buvo sudaryta iš Lietuvos valdovo Algirdo ir jo brolio Karijoto trijų sūnų - Karijotaičių vadovaujamų karių.'
+  pagrindžia:
+    - c-005
+- t-006
+  teiginys: 'Mūšio padariniai „Pasakojime apie Podolę“ teigiama, kad Lietuvos valdovo Algirdo brolio Karijoto, valdančio Lietuvos Naugarduką, sūnūs - trys broliai Karijotaičiai, leidus Algirdui, su Lietuvos žemės pagalba, patraukė į Podolės žemę (Mažoji Podolė tarp.'
+  pagrindžia:
+    - c-006
+- t-007
+  teiginys: 'Algirdo remiami Karijotaičiai, įsitvirtinę Mažojoje Podolėje, vietiniams gyventojams pritariant, organizavo šio krašto gynybą nuo totorių puolimų bei grobimų, statė minėtas Smotričo, Bakotos, Kameneco pilis.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lietuvos kariuomenėje buvo karių, kuriems vadovavo trys Karijotaičiai, Algirdo brolio Karijoto sūnūs.'
+  santrauka: 'Nėra galutinai išaiškinta, kada Karijotaičiai pasirodė Podolėje.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Menkai gyvenamoje
+    Podolėje rado sau gerų žemių gausi Algirdo brolio Karijoto šeima.
+    Šie galėjo ten įsikurti ir be Algirdo paramos. Dar nėra galutinai
+    išaiškintas klausimas, kada Karijotaičiai yra pasirodę Podolėje.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Iš Podolės Karijotaičių paminėtini Jurgis († 1374), Aleksandras († 1388), Konstantinas († 1388), Teodoras.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Iš Podolės Karijotaičių paminėtini Jurgis († 1374),
+    Aleksandras († 1388), Konstantinas († 1388), Teodoras. Šalia kitų,
+    kurių vardai apytikriai tenustatomi, rodos, Karijoto sūnus buvo ir
+    Borisas, pasižymėjęs sudarant Kriavo aktą. Podolėje Karijotaičiai
+    ėmė įvesti tvarką, statyti pilis (Kamieniecą, Smotryčą, Bakotą ir
+    kt.), užvesti ūkinį gyvenimą.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Podolėje Karijotaičiai ėmė įvesti tvarką, statyti pilis (Kamieniecą, Smotryčą, Bakotą ir kt.), užvesti ūkinį gyvenimą.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Šalia kitų,
+    kurių vardai apytikriai tenustatomi, rodos, Karijoto sūnus buvo ir
+    Borisas, pasižymėjęs sudarant Kriavo aktą. Podolėje Karijotaičiai
+    ėmė įvesti tvarką, statyti pilis (Kamieniecą, Smotryčą, Bakotą ir
+    kt.), užvesti ūkinį gyvenimą.
+    Drauge su Podole Lietuvos valstybėn buvo įjungta ir Kijevo
+    kunigaikštystė, kuri jau nuo Gedimino laikų buvo didžiojo Lietuvos
+    kunigaikščio priklausomybėje, kai Kijevą valdė jaunesnis Gedimino
+    brolis Teodoras.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: '1366 m. vasarą Karijotaičiai Jurgis ir Aleksandras rėmė Kazimiero žygį prieš Liubartą.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Atsisakęs minties pradėti karą su kryžiuo­
+    čiais, Kazimieras vėl ėmė ruoštis karui ir 1363 m. išsirūpino 12
+    metų atlaidus visiems, kurie kovos su netikėliais^22.
+    1366 vasarą Kazimieras, remiamas Mozūrijos Ziemovito ir
+    Karijotaičių Jurgio ir Aleksandro, su kuriais Liubartas buvo suėjęs
+    į konfliktą, padarė žygį. Tada Kęstutis buvo užimtas kovomis
+    su ordinu, o Algirdas ruošėsi žygiui į Maskvą.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: 'Lietuvos kariuomenė buvo sudaryta iš Lietuvos valdovo Algirdo ir jo brolio Karijoto trijų sūnų - Karijotaičių vadovaujamų karių.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvos kariuomenė buvo sudaryta
@@ -70,15 +158,15 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
     Didžiausia tikimybė, kad Mėlynieji Van-
     denys, tai Siniuchos upė Pietų Ukrainoje,
     kairysis Pietinio Bugo intakas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Algirdui leidus, trys broliai Karijotaičiai su Lietuvos žemės pagalba patraukė į Podolės žemę.'
+    - t-005
+- c-006
+  santrauka: 'Mūšio padariniai „Pasakojime apie Podolę“ teigiama, kad Lietuvos valdovo Algirdo brolio Karijoto, valdančio Lietuvos Naugarduką, sūnūs - trys broliai Karijotaičiai, leidus Algirdui, su Lietuvos žemės pagalba, patraukė į Podolės žemę (Mažoji Podolė tarp.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mūšio padariniai
@@ -100,42 +188,33 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
     vietiniais atamanais, ėmė ginti
     Podolės žemę, neduoti duok-
 
-    lės jų baskakams. Karijotaičiai
-    Podolėje pastatė Smotričo,
-    Bakotos, Kameneco pilis, už-
-  citata_rodoma: ""
+    lės jų baskakams.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Algirdo remiami Karijotaičiai Mažojoje Podolėje organizavo krašto gynybą nuo totorių puolimų ir statė pilis.'
+    - t-006
+- c-007
+  santrauka: 'Algirdo remiami Karijotaičiai, įsitvirtinę Mažojoje Podolėje, vietiniams gyventojams pritariant, organizavo šio krašto gynybą nuo totorių puolimų bei grobimų, statė minėtas Smotričo, Bakotos, Kameneco pilis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Tai buvo
-    pirmas Rytų Europoje toks didelis įsiverži-
-    mas į Ordos valdas, sudavęs jos įtakai di-
-    delį smūgį. Algirdo remiami Karijotaičiai,
+    Algirdo remiami Karijotaičiai,
     įsitvirtinę Mažojoje Podolėje, vietiniams
     gyventojams pritariant, organi-
     zavo šio krašto gynybą nuo
     totorių puolimų bei grobimų, statė minė-
     tas Smotričo, Bakotos, Kameneco pilis.
     Pietinių žemių (Kijevo, Mažosios Podolės
-    ir kt.) išėmimas iš tiesioginės Aukso ordos
-    valdžios vietiniams rusėnams, kaimyni-
-    nėms Rytų Europos šalims (Lenkijai, iš
-    dalies Moldavijai, Vengrijai) sudarė sau-
-    gesnę padėtį rytuose.
-  citata_rodoma: ""
+    ir kt.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-003
+    - t-007
 
 ## Ryšiai
 ### Laikotarpiai

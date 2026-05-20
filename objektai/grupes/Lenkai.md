@@ -11,36 +11,28 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 laikotarpis: '1429 m.; 1430 m'
 datos:
-  - '1200 m.'
   - '1288 m.'
   - '1291 m.'
   - '1294 m.'
-  - '1325 m.'
-  - '1326 m.'
-  - '1343 m.'
-  - '1368 m.'
-  - '1372 m.'
-  - '1376 m.'
   - '1385 m.'
-  - '1386 m.'
-  - '1398 m.'
-  - '1401 m.'
   - '1429 m.'
   - '1430 m.'
-  - '1501 m.'
-  - '1564 m.'
   - '1582 m.'
   - '1697 m.'
   - '1916 m.'
   - '1920 m.'
   - '1923 m.'
   - '1927 m.'
-periodas: 'viduramžiai'
+  - '1932 m.'
+  - '1934 m.'
+  - '1935 m.'
+  - '1936 m.'
+  - '1994 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
-  - 'viduramžiai'
 amziai:
-  - 'XII'
   - 'XIII'
   - 'XIV'
   - 'XV'
@@ -48,8 +40,8 @@ amziai:
   - 'XVII'
   - 'XX'
   - 'XXI'
-date_start: '1200'
-date_end: '1927'
+date_start: '1288'
+date_end: '2026'
 patikimumas: 'aukštas'
 tags:
   - grupe
@@ -62,150 +54,376 @@ tags:
 Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiškai visuomenei. Lenkai yra Traidenio karo priešininkai.
 
 ## Teiginiai
-- t-009
-  teiginys: 'Traidenis daug kariavo su lenkais ir pasiekdavo ne tik Mozūrus, bet ir Krokuvą.'
+- t-001
+  teiginys: 'Įvairūs lenkų autoriai į jį pažiurėjo kaip į tipišką lenkų renesanso atstovą15 16.'
   pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-010
-  teiginys: 'Lietuviai padėjo lenkams kariauti vieną kartą su Brandenburgu, o kitą kartą su ordinu.'
+    - c-027
+- t-002
+  teiginys: 'Bet pasitaiko, kad kartais kronistas perduoda ir lenkų tezes, pvz., iš Dlugošo kronikos atsis­ pindi Žalgirio kautynių aprašymas, Vytauto D.'
   pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-011
-  teiginys: 'Jogaila tuojau ėmė rūpintis, kad lenkai iš anksto pripažintų jo sūnums sostą.'
+    - c-028
+- t-003
+  teiginys: '1291 lietuviai nuteriojo Kujaviją, o kitais metais Pukuveras savo sūnų Vytenį Lenkijon išsiuntė su didele kariuo­ mene^21.'
   pagrindžia:
-    - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-012
-  teiginys: 'Lenkai pasipiktino lietuvių siūlomu projektu ir derybų pagrindu reikalavo Melniko bei Varšuvos receso aktų.'
+    - c-029
+- t-004
+  teiginys: 'Kariuomenės taip išsirikiavo, kad ordino dešinysis sparnas buvo pastatytas prieš lenkų kairįjį sparną, kuris siekė Ludwigsdorfo mišką.'
   pagrindžia:
-    - c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-013
-  teiginys: 'Nuo Kazimiero laikų lenkai karaliais rinkdavosi tuos pačius asmenis, kuriuos Lietuva išsirinkdavo didžiaisiais kunigaikščiais.'
+    - c-030
+- t-005
+  teiginys: 'Nauji Lenkijos pulkai ėmė pulti ilstančią kryžiuočių kariuomenę, ir jų eilės nebeatlaikė.'
   pagrindžia:
-    - c-005
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-014
-  teiginys: 'Nors unijos aktas ir leido, tačiau lenkai Lietuvoje dar ilgai negalėjo įsigyti dvarų, o valstybinių urėdų jie niekuomet negalėjo gauti Lietuvoje.'
-  pagrindžia:
-    - c-006
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+    - c-031
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Traidenis daug kariavo su lenkais ir pasiekdavo ne tik Mozūrus, bet ir Krokuvą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+- c-009
+  santrauka: Lenkai papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: [[Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)]]
   citata_originali: |
-    Mažiausia rūpesčių Traidenis turėjo su kaimynais gudais.
-    Tačiau su lenkais jam tekdavo nemažai kariauti; jis pasiekdavo
-    ne tik Mozūrus, bet ir tolimąją Krokuvą. Mozūrų kunigaikštis
-    (Boleslovas II), norėdamas apsisaugoti nuo Traidenio puolimų,
-    vedė net jo dukterį.
+    Tad lenkai lietuvių žygių iš tolo bijodavę.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
-    - t-009
-- c-002
-  santrauka: 'Lietuviai padėjo lenkams kariauti vieną kartą su Brandenburgu, o kitą kartą su ordinu.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+    - t-006
+- c-010
+  santrauka: Lenkai papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: [[Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)]]
   citata_originali: |
-    Ta-
-    čiau ta sąjunga nedavė
-    Lietuvai jokios nau-
-    dos. Lietuviai padėjo
-    lenkams kariauti vieną kartą su Brandenburgu, o kitą kartą su
-    ordinu. Tačiau lenkai neateidavo į pagalbą Gediminui, nors
-    sutartis galiojo visą Gedimino gyvenimą ir buvo nutraukta tik
-    po jo mirties (1343 m.).
+    Kariuomenės taip išsirikiavo, kad ordino dešinysis sparnas
+    buvo pastatytas prieš lenkų kairįjį sparną, kuris siekė Ludwigsdorfo
+    mišką.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
-    - t-010
-- c-003
-  santrauka: 'Jogaila tuojau ėmė rūpintis, kad lenkai iš anksto pripažintų jo sūnums sostą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+    - t-001
+- c-011
+  santrauka: Lenkai papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: [[Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)]]
   citata_originali: |
-    Bet pagaliau (1424 m.) Jogaila su ketvirtąja sa-
-    vo žmona susilaukė vieno, o vėliau ir kito sūnaus (jo 4-oji
-    žmona buvo Vytauto išpiršta ir jo dvare išaugusi lietuvaitė,
-    Alšėnų kunigaikštytė Zofija).
-    Jogaila tuojau ėmė rūpintis, kad lenkai iš anksto pripažintų
-    jo sūnums sostą. Lenkų bajorai, už tai išsireikalavę iš Jogailos
-    sau privilegijų praplėtimo, sutiko.
+    Vyriausioji Lenkijos vėliava pateko į priešų rankas.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
-    - t-011
-- c-004
-  santrauka: 'Lenkai pasipiktino lietuvių siūlomu projektu ir derybų pagrindu reikalavo Melniko bei Varšuvos receso aktų.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+    - t-002
+    - t-006
+    - t-001
+    - t-002
+- c-013
+  santrauka: Lenkai papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Lenkai šitokiu lietuvių siūlomu projektu pasipiktino. Jie rei-
-    kalavo derybų pagrindui 1501 m. Melniko ir 1564 m. Varšuvos re-
-    ceso aktų.
+    Jadvyga ir lenkų ponai į tai kreivai žiūrėjo ir
+    jiems labai nepatiko, kad jis stengiasi būti nepriklausomas.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
-    - t-012
-- c-005
-  santrauka: 'Nuo Kazimiero laikų lenkai karaliais rinkdavosi tuos pačius asmenis, kuriuos Lietuva išsirinkdavo didžiaisiais kunigaikščiais.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+    - t-001
+- c-014
+  santrauka: Lenkai papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Tiesa, nuo Kazimiero laikų
-    lenkai ėmė rinktis sau karaliais visada tuos pačius asmenis,
-    kuriuos išsirinkdavo Lietuva sau didžiaisiais kunigaikščiais. Tuo
-    būdu išliko personalinės valstybių unijos ryšys: abi valstybės
-    buvo vieno valdovo valdomos. Tačiau tą ryšį palaikė
-    ne aktai, bet Lenkijos, o kartais ir Lietuvos noras jo nenu-
-    traukti.
+    Vytautas net prieš lenkus pradėjo ruoštis į karą.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
-    - t-013
-- c-006
-  santrauka: 'Nors unijos aktas ir leido, tačiau lenkai Lietuvoje dar ilgai negalėjo įsigyti dvarų, o valstybinių urėdų jie niekuomet negalėjo gauti Lietuvoje.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+    - t-002
+- c-015
+  santrauka: Lenkai papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    kalingus įstatymus. Nors unijos aktas ir leido, tačiau lenkai
-    Lietuvoje dar ilgai negalėjo įsigyti dvarų, o valstybinių urėdų
-    jie niekuomet negalėjo gauti Lietuvoje. Unijos aktas, sulie-
-    damas valstybes, paliko daug spragų, kurias dar labiau padi-
-    dino lietuvių noras savarankiškai gyventi ir savos valstybinės
-    tradicijos.
+    Lenkai tvirtina, kad Vorsklos
+    žygis palaidojo tris ketvirtąsias Vytauto kariuomenės dalis.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
   pagrindžia:
-    - t-014
+    - t-005
+- c-016
+  santrauka: Lenkai papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Dabar reikėjo pa­
+    sirūpinti, kas imsis lenkų kariuomenę vesti. Vytautas savo ka­
+    riuomenę pats vedė, o lenkai visai neturėjo vadų. Jogaila ėmė
+    tartis su čekų ir moravų riteriais, siūlydamas jiems kariuome­
+    nę vesti. Tie atsisakė. Tada karalius lenkų kariuomenės ve­
+    dimą atidavė Zyndramui iš Moškovicų, Krokuvos vaivadai.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
+- c-017
+  santrauka: Lenkai papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tuo tarpu lenkai, kurie vėliau pradėjo mūšį, dar kovojo.
+    Prieš lenkus buvo pastatyta vos ketvirta ar penkta kryžiuočių
+    kariuomenės dalis, betgi lenkai nepasistūmėjo iki šiol nė kiek
+    į priekį.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-002
+- c-018
+  santrauka: Lenkai papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Didžioji lenkų vėliava atsidūrė didžiausiame pa­
+    vojuje, susvyravo ir pateko į kryžiuočių tarpą; bet lenkai ją vėl
+    atgavo, nes tuo tarpu į mūšį buvo įtraukta antroji linija.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
+- c-019
+  santrauka: Lenkai papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Pasilikę lenkai su lietuvių likučiais atkakliai laikėsi.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-006
+- c-020
+  santrauka: Lenkai papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    O tai ne­
+    galėjo patikti Lenkijai, kuri budriai sekė kiekvieną jo užsimoji­
+    mą ir stengėsi kliudyti. Vytautas tam negalėjo nesipriešinti,
+    dėl ko ir kilo konfliktas su Lenkija.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-004
+- c-021
+  santrauka: Lenkai papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Todėl iš Lenkijos pusės, nors ir labai silpna, ėmė reikštis opozi­
+    cija: juk lenkai norėjo Krėvės unija tuos žemės plotus laimėti
+    sau, t. y. kolonizuoti, o dabar dalykai ėmė krypti priešingon
+    pusėn.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-002
+- c-022
+  santrauka: Lenkai papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Kad Vytauto lenkai bijojo ir 1401 m.
+    aktą darant, rodo faktas — Lietuvos bajorų dalyvavimas unijoj.
+    Jie bijojo, kad jis, gerai progai pasitaikius, nesugriautų ką tik
+    sulipdyto rūmo. Todėl patraukdami bajorus prie unijos, kad šie
+    turėtų jai įtakos, lenkai siekė, taip sakant, realinės unijos ir no­
+    rėjo suvaržyti Vytautą jo bajorų pasižadėjimais.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
+- c-023
+  santrauka: Lenkai papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Vytautas pradžioj savo akto primena, kad kai lenkai pasi­
+    kvietė į savo sostą Jogailą, tada jis jam kaip karaliui Vladislovui,
+    lenkų Karūnai ir tos karalystės didikams gryna mintimi, neatšau­
+    kiamu noru, nei priverstas, nei suklaidintas, abiem pusėm sutin­
+    kant, tvirtai bei laisvai prižadėjo ir tai dokumentu patvirtino, kad
+    niekados Jogailos karalystės ir karūnos gyventojų neapleis, bet
+    visados visa galybe ir jėga jų laikysis ir juos nuo priešų gins.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-004
+- c-024
+  santrauka: Lenkai papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tuo metu pagerėjo reikalai ir su
+    Lenkija: ji dabar nekliudė Vytauto planą, — gal bijojo kry­
+    žiuočią, kurie iš abieją kraštą nesantaikos galėjo tik pasinaudoti..
+    Juk vokietis niekad nebuvo atsisakęs nuo pretenziją į Lenkiją,
+    taip pat niekad nebuvo atsižadėjęs ne tik nuo įtakos ir net užka­
+    riavimo Žemaitijos, bet ir visos Lietuvos. Tai buvo bendras ir
+    pavojingas priešas vakaruose. Kitas priešas, ne mažiau pavo­
+    jingas, buvo Maskva, kuri diena iš dienos augo ir darėsi rimta
+    Rytą Europos jėga. Žodžiu, Lietuva ir Lenkija stovėjo tarp
+    priekalo ir kūjo, kitaip sakant — grėsė joms peilio ir šakutės
+    „filosofija“. Tat ir nenuostabu, kad kalbamuoju metu tikrai
+    tarp Vytauto ir lenką santykiai ėmė gerėti: lenką riteriai akty­
+    viai dalyvavo visoj eilėj Vytauto žygiu prieš Maskvą^4 ).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
+- c-025
+  santrauka: Lenkai papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Net ir svetur Vytautas mokė­
+    jo įsigyti pagalbininkų ir šalininkų. Ilgą laiką jis turėjo lenkų
+    ponų tarpe stiprią partiją, pasidavusią jo įtakai.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
+- c-026
+  santrauka: Lenkai papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Totorius su vokiečiais jis kolonizavo ne iš meilės,
+    o tik dėl to, kad matė iš to kraštui naudos. Jo tarnyboje mes ga­
+    lime užtikti įvairių svetimšalių, o labiausiai lenkų ir vokiečių.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-001
+    - t-001
+    - t-002
+    - t-005
+    - t-001
+    - t-002
+    - t-001
+    - t-006
+    - t-004
+    - t-002
+    - t-001
+    - t-004
+    - t-001
+    - t-001
+    - t-001
+- c-027
+  santrauka: 'Įvairūs lenkų autoriai į jį pažiurėjo kaip į tipišką lenkų renesanso atstovą15 16.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Įvairūs lenkų autoriai į jį pažiurėjo kaip
+    į tipišką lenkų renesanso atstovą15 16. Bet ir rusai, kurie Kroniką ar
+    jos dalis keliais atvejais XVII-XVIII amž.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-001
+- c-028
+  santrauka: 'Bet pasitaiko, kad kartais kronistas perduoda ir lenkų tezes, pvz., iš Dlugošo kronikos atsis­ pindi Žalgirio kautynių aprašymas, Vytauto D.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Bet pasitaiko, kad kartais
+    kronistas perduoda ir lenkų tezes, pvz., iš Dlugošo kronikos atsis­
+    pindi Žalgirio kautynių aprašymas, Vytauto D. karaliaus karūnos
+    byla (1429-1430).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-029
+  santrauka: '1291 lietuviai nuteriojo Kujaviją, o kitais metais Pukuveras savo sūnų Vytenį Lenkijon išsiuntė su didele kariuo­ mene^21.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    1291 lietuviai nuteriojo Kujaviją, o kitais metais
+    Pukuveras savo sūnų Vytenį Lenkijon išsiuntė su didele kariuo­
+    mene^21. Besikaudamas su įsiveržusiais lietuviais 1294 Sochaczewo
+    apylinkėse žuvo Lęčycos kunigaikštis Kazimieras^22.
+
+    (^14) **LReim, 8346-50.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-030
+  santrauka: 'Kariuomenės taip išsirikiavo, kad ordino dešinysis sparnas buvo pastatytas prieš lenkų kairįjį sparną, kuris siekė Ludwigsdorfo mišką.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Kariuomenės taip išsirikiavo, kad ordino dešinysis sparnas
+    buvo pastatytas prieš lenkų kairįjį sparną, kuris siekė Ludwigsdorfo
+    mišką. Kairysis kryžiuočių sparnas, kuris buvo sutelktas prieš
+    dešiniajame sąjungininkų sparne pastatytus lietuvių pulkus, buvo
+    sudarytas iš stiprių dalinių^21.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-031
+  santrauka: 'Nauji Lenkijos pulkai ėmė pulti ilstančią kryžiuočių kariuomenę, ir jų eilės nebeatlaikė.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Nauji Lenkijos pulkai ėmė pulti ilstančią
+    kryžiuočių kariuomenę, ir jų eilės nebeatlaikė. Lemtingosios kau­
+    tynės baigėsi visišku ordino kariuomenės sutriuškinimu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Laikotarpiai
-- [[laikotarpiai/XII amžius]]
 - [[laikotarpiai/XIII amžius]]
 - [[laikotarpiai/XIV amžius]]
 - [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XVI amžius]]

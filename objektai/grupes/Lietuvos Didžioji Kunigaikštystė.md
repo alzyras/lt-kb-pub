@@ -46,21 +46,62 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
 
 ## Teiginiai
 - t-001
-  teiginys: '1564 m. pradžioje į Lietuvos Didžiąją Kunigaikštystę įsiveržė dvi didelės Maskvos kariuomenės.'
+  teiginys: 'LDK bajorija turėjo dvilypį tautinį mentalitetą: vadino save ir lietuviais, ir lenkais.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: '1559 m. Livonijos ordinas ir Rygos vyskupija paprašė Lietuvos globos ir tapo LDK protektoratu.'
+  teiginys: 'Prieš mūšį 1564 m. pradžioje, iš Maskvos į Vilnių dar nespėjus parvykti pasiuntiniams su žinia, kad dėl paliaubų susitarti nepavyko, į Lietuvos Didžiąją Kunigaikštystę įsiveržė dvi didelės - po kelias dešimtis tūkstančių karių, kariuomenės.'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+- t-003
+  teiginys: '1559 m. Livonijos ordinas ir Rygos vyskupija paprašė Lietuvos globos ir tapo LDK protektoratu.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1564 m. pradžioje į Lietuvos Didžiąją Kunigaikštystę įsiveržė dvi didelės Maskvos kariuomenės.'
+  santrauka: 'LDK bajorija turėjo dvilypį tautinį mentalitetą: vadino save ir lietuviais, ir lenkais.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Jie turėjo dvilypį tautinį mentalitetą – vadino save sykiu ir lietuviais, ir
+    lenkais (LDK bajorija nesutiko visiškai integruotis į senąją Lenkijos Kara-
+    lystę, nors ir nelinko nuo jos atsiskirti). Už Lietuvos ribų Lietuvos bajorai
+    laikyti tiesiog lenkais. Taip juos traktavo ir Rusijos imperijos valdžia.
+    1864 m. – sąlyginė skiriamoji riba, kai Rusijos caro valdžia nuslopi-
+    no paskutinį bajorijos vadovautą sukilimą, kuriuo siekta atkurti buvusią
+    Lenkijos ir Lietuvos valstybę. Tuo metu carizmas pradėjo jau anksčiau
+    paskelbtą valstiečių paleidimo iš baudžiavinės priklausomybės procesą.
+    Valstiečiai pavirto sąlyginai laisvais žmonėmis, nuosavybės teisę į dirba-
+    mą žemę įgijusiu žemiausiu, bet savarankišku valstiečių žemdirbių luo-
+    mu. Brutaliu, diskriminaciniu rusinimu valdžia siekė aneksuotas Lenki-
+    jos ir Lietuvos žemes paversti tiesiog Vakarų Rusija.
+    Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės
+    praradimu, todėl bandė ją atkurti – per Napoleono karus ir du sukili-
+    mus – 1830–1831 m. ir 1863–1864 m. Šiuo laikotarpiu prasidėjo ir etni-
+    nių lietuvių tautinis kultūrinis sąjūdis. Po kelių dešimtmečių jis atsinau-
+    jino ir virto politiškai reikšminga jėga, o etniniai lietuviai, arba lietuvių
+    liaudis – savarankiška kultūrine ir politine bendruomene, 1905 m. parei-
+    kalavusia autonomijos.
+    BUVUSIO VALSTYBINGUMO TRAUKOJE
+    Kultūrinė autonomija Napoleono šešėlyje
+    L
+    DK teritorijų prijungimas prie Rusijos reiškė pateki-
+    mą į autokratinės monarchinės imperijos valdžią, kuri
+    realizuota pasitelkus monarchui pavaldų centralizuotą biurokratinį apa-
+    ratą. Vietinio valdymo grandyje buvo gubernija, kurios galva – caro ski-
+    riamas, bet vidaus reikalų žinybai pavaldus gubernatorius, atsiunčiamas
+    iš centro arba kitų gubernijų.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Prieš mūšį 1564 m. pradžioje, iš Maskvos į Vilnių dar nespėjus parvykti pasiuntiniams su žinia, kad dėl paliaubų susitarti nepavyko, į Lietuvos Didžiąją Kunigaikštystę įsiveržė dvi didelės - po kelias dešimtis tūkstančių karių, kariuomenės.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Prieš mūšį
@@ -85,14 +126,14 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
     dar prieš tai į Didžiųjų Lukų tvirtovę buvo
     nurodyta suvežti atsargas, kurių kariuome-
     nei turėjo pakakti net pusei metų.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
-- c-002
+    - t-002
+- c-003
   santrauka: '1559 m. Livonijos ordinas ir Rygos vyskupija paprašė Lietuvos globos ir tapo LDK protektoratu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -100,15 +141,14 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
     toratu. 1560 m. Maskva tęsė karo puolimą Livonijoje. 1561 m. sutartimi su LDK panaikinta Livonijos konfederacija,
     didesnė dalis Livonijos tapo Lietuvos dalimi
 
-    Ištrauka iš popiežiaus diplomato Fulvio Ruggieri (1572 m.) aprašymo apie Lenkijos ir
-    Lietuvos kariuomenių struktūrą:
-  citata_rodoma: ""
+    Ištrauka iš popiežiaus diplomato Fulvio Ruggieri (1572 m.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-002
+    - t-003
 
 ## Ryšiai
 ### Laikotarpiai

@@ -7,9 +7,6 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - '1325 m.'
-  - '1328 m.'
-  - '1331 m.'
   - '1709 m.'
   - '2013 m.'
   - '2026 m.'
@@ -17,10 +14,9 @@ periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
-  - 'XIV'
   - 'XVIII'
   - 'XXI'
-date_start: '1325'
+date_start: '1709'
 date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
@@ -34,41 +30,39 @@ Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mongolų imperijo
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tuo metu rytuose Aukso orda turėjo kovoti prieš ją puolantį Iraną.'
+  teiginys: 'Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė galinti sudrebinti Maskvos valstybę.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: '1325 m. Aukso orda surengė puolimą prieš Lietuvą: „caras Uzbekas pasiuntė kunigaikščius į Lietuvą kariauti; daug pikto padarė Lietuvai...“ Tai, matyt, buvo chano atsakymas į Lietuvos veiksmus Kijevo žemėje.'
+  teiginys: 'Rusų metraščiai teigia, kad Vytautas žadėjo Tochtamišą iškelti į visų totorių chanatų viršūnę.'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: 'Kryžiuočių ordinui, remiamam kryžininkų, nuo 1328 m. atnaujinus Lietuvos puolimus, Lietuva, atrodo, bus užmezgusi kompromisinius santykius su Aukso orda, kurios įtakoje, matyt, liko pietinė Kijevo žemės dalis.'
+  teiginys: 'Vytauto žygis pasodinti Tochtamišą Aukso ordoje vietoje Timuro ir jo emiro Edigos baigėsi nesėkmingai.'
   pagrindžia:
     - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: 'Per aštuonioliką sa­ vo laisvo valdymo metų jis buvo gerai įsistiprinęs Lietuvoje ir paskleidęs savo įtaką tolimuose rusų kraštuose, Lenkijoje ir net Aukso Ordoje.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tuo metu rytuose Aukso orda turėjo kovoti prieš ją puolantį Iraną.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  santrauka: 'Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė galinti sudrebinti Maskvos valstybę.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Gedimino žygis, mūšis prie Irpenės ir
-    Kijevo užėmimas istoriografijoje datuotas
-    įvairiai, 1320-1321, 1322, 1323, 1324, 1333 m.,
-    pastaraisiais dešimtmečiais akcentuotos
-    dvi priešpaskutinės datos. Tarptautinių
-
-    Tuo metu rytuose Aukso orda turėjo ko-
-    voti prieš ją puolantį Iraną. Taigi atrodo,
-    kad Gedimino žygiui prieš Aukso ordai
-    pavaldų Kijevą palankiausi buvo 1325 m.
-
-    1325 m.
+    (^6) PRATARMĖ
+    vokiečių ordinu. Kai nuo XIV amž. galo totorių valstybė (Aukso
+    Orda) ėmė silpti, atrodė, kad Vytauto Didžiojo laikais sutelktoji
+    jėga sudrebins pagaliau ir pačios Maskvos valstybę iš pamatų.
+    Bet tos audros debesys pamažu išsiskirstė, nepadarydami Maskvai
+    didesnių nuostolių.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -77,15 +71,15 @@ Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mongolų imperijo
   pagrindžia:
     - t-001
 - c-002
-  santrauka: '1325 m. Aukso orda surengė puolimą prieš Lietuvą: „caras Uzbekas pasiuntė kunigaikščius į Lietuvą kariauti; daug pikto padarė Lietuvai...“ Tai, matyt, buvo chano atsakymas į Lietuvos veiksmus Kijevo žemėje.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  santrauka: 'Rusų metraščiai teigia, kad Vytautas žadėjo Tochtamišą iškelti į visų totorių chanatų viršūnę.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    1325 m. Aukso orda surengė puolimą
-    prieš Lietuvą: „caras Uzbekas pasiuntė ku-
-    nigaikščius į Lietuvą kariauti; daug pikto
-    padarė Lietuvai...“ Tai, matyt, buvo chano
-    atsakymas į Lietuvos veiksmus Kijevo
-    žemėje.
+    Pagal rusų met­
+    raščius, Vytautas žadėjo Perekopo (Krymo) vad. Aukso ordos
+    chanui Tochtamišui, nugalėjęs jo priešą Timur-Kutlugą, pasodinti
+    jį visų totorių chanatų viršūnėje, sakydamas : «o tu mane paso­
+    dinki didžiojoje Maskvos kunigaikštijoje ... Vokiečius (ordiną) aš
+    pats paimsiu^2 ».
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -94,17 +88,17 @@ Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mongolų imperijo
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Kryžiuočių ordinui, remiamam kryžininkų, nuo 1328 m. atnaujinus Lietuvos puolimus, Lietuva, atrodo, bus užmezgusi kompromisinius santykius su Aukso orda, kurios įtakoje, matyt, liko pietinė Kijevo žemės dalis.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  santrauka: 'Vytauto žygis pasodinti Tochtamišą Aukso ordoje vietoje Timuro ir jo emiro Edigos baigėsi nesėkmingai.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Kryžiuočių ordinui, remiamam kryži-
-    ninkų, nuo 1328 m. atnaujinus Lietuvos
-    puolimus, Lietuva, atrodo, bus užmezgusi
-    kompromisinius santykius su Aukso orda,
-    kurios įtakoje, matyt, liko pietinė Kijevo
-    žemės dalis. 1331 m. šalia Kijevo kunigaikš-
-    čio, Lietuvos vietininko, minimas ir totorių
-    baskakas.
+    žentas Vasilius, ir todėl jis laikėsi pasyviai, kai Konstantinopolio
+    patriarchas ragino visos Rusios metropolitą Kiprijoną skelbti kry­
+    žiaus karą^32.
+    Lemiamasis Vytauto žygis, vietoje Timuro ir jo emiro Edigos
+    (Edigiu) pasodinti Aukso ordoje Tochtamišą, nelaimingai pasibaigė.
+    Kairiuoju Dniepro krantu Vytautas nužygiavo palei jo prieupį
+    Vorsklą truputį šiauriau Poltavos, kur po 410 metų Petras Didysis
+    sutriuškino švedų galybę (1709).
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -112,12 +106,31 @@ Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mongolų imperijo
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Per aštuonioliką sa­ vo laisvo valdymo metų jis buvo gerai įsistiprinęs Lietuvoje ir paskleidęs savo įtaką tolimuose rusų kraštuose, Lenkijoje ir net Aukso Ordoje.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    ```
+    Vytautas Didysis, kaipo žymus ir galingas Lietuvos val­
+    dovas, pasireiškė jau prieš Žalgirio mūšį. Per aštuonioliką sa­
+    vo laisvo valdymo metų jis buvo gerai įsistiprinęs Lietuvoje ir
+    paskleidęs savo įtaką tolimuose rusų kraštuose, Lenkijoje ir net
+    Aukso Ordoje. Bet Žalgirio mūšis, kuriame jis palaužė Vokie­
+    čių Ordino galybę, Vytauto valdžią dar labiau sutvirtino ir pra­
+    skynė kelią į tikruosius jo didybės laikus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
 - [[laikotarpiai/XVIII amžius]]
 - [[laikotarpiai/XXI amžius]]
+- [[laikotarpiai/XIV amžius]]
 
 ### Susiję objektai
 - [[objektai/zodynas/baskakas]]

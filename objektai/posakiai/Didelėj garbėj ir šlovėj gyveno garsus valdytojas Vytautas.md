@@ -40,7 +40,7 @@ Panegirinė formulių grupė rodo, kad skirtingi autoriai Vytautą vaizdavo kaip
 
 ## Teiginiai
 - t-004
-  teiginys: 'Vienas kronikininkas rašė, kad garsus valdytojas Vytautas ir jo tėvynė gyveno didelėje garbėje ir šlovėje.'
+  teiginys: 'Vienas kronikininkas Vytautą ir jo tėvynę apibūdina didele garbe ir šlove.'
   pagrindžia:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -48,31 +48,24 @@ Panegirinė formulių grupė rodo, kad skirtingi autoriai Vytautą vaizdavo kaip
 - t-005
   teiginys: 'Mechovita Vytautą vadina kunigaikščiu kilnios širdies ir garsios garbės.'
   pagrindžia:
-    - c-001
+    - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-006
   teiginys: 'Herberšteinas Vytautą įvardija vyru, už kurį didesnio Lietuva neturėjo.'
   pagrindžia:
-    - c-001
+    - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vienas kronikininkas rašė, kad garsus valdytojas Vytautas ir jo tėvynė gyveno didelėje garbėje ir šlovėje.'
+  santrauka: 'Vienas kronikininkas Vytautą ir jo tėvynę apibūdina didele garbe ir šlove.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Žodžiu, mirė vyras, kuris turėjo di­
-    delių nuopelnų ne tik savo kraštui, iškeldamas jį į kultūringų
-    kraštų tarpą, bet ir Lenkijai ir visai Europai.
-    Apie Vytautą jo bendralaikis Aeneas Silvijus Picolomini,
-    vėliau popiežius Pijus II, taip atsiliepia: savo laiku Vytauto
-    vardas buvo didelis. „Didelėj garbėj ir šlovėj gyveno garsus val­
+    „Didelėj garbėj ir šlovėj gyveno garsus val­
     dytojas Vytautas ir jo tėvynė“ — kalba apie jį vienas kroniki­
-    ninkas; „kunigaikštis kilnios širdies ir garsios garbės“—tvirtina
-    kitas kronikininkas Mechovita; „vyras, už kurį didesnio Lie­
-    tuva neturėjo“ — išsireiškia šimtą metų vėliau Herberšteinas^1 ).
+    ninkas;
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -80,7 +73,31 @@ Panegirinė formulių grupė rodo, kad skirtingi autoriai Vytautą vaizdavo kaip
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+- c-002
+  santrauka: 'Mechovita Vytautą vadina kunigaikščiu kilnios širdies ir garsios garbės.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    „kunigaikštis kilnios širdies ir garsios garbės“—tvirtina
+    kitas kronikininkas Mechovita;
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
     - t-005
+- c-003
+  santrauka: 'Herberšteinas Vytautą įvardija vyru, už kurį didesnio Lietuva neturėjo.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    „vyras, už kurį didesnio Lie­
+    tuva neturėjo“ — išsireiškia šimtą metų vėliau Herberšteinas^1 ).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
     - t-006
 
 ## Ryšiai

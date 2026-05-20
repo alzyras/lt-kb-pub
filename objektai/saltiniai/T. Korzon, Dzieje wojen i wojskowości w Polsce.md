@@ -8,19 +8,6 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos:
-  - '1923 m.'
-  - '1936 m.'
-  - '1978 m.'
-  - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
-  - 'XXI'
-date_start: '1923'
-date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - saltinis
@@ -32,8 +19,24 @@ tags:
 Zenono Ivinskio literatūros sąraše T. Korzono „Dzieje wojen i wojskowości w Polsce“ cituojama kaip I tomas, išleistas Lvove 1923 m., Žalgirio mūšio tyrimų bibliografijos kontekste.
 
 ## Teiginiai
+- t-001
+  teiginys: 'T. Korzono „Dzieje wojen i wojskowości w Polsce“ I tomas buvo išleistas Lvove 1923 m.'
+  pagrindžia:
+    - c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
 
 ## Bibliografiniai įrodymai
-
-
-## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'T. Korzono „Dzieje wojen i wojskowości w Polsce“ I tomas buvo išleistas Lvove 1923 m.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    — Korzon, T. : _Grunwald,_ Warszawa 1910. — (”) _Dzieje
+    wojen i wojskowości w Polsce,_ **I,** Lwów 1923. — Kuczyński, St. M. :
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001

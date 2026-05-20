@@ -34,35 +34,31 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
 
 ## Teiginiai
 - t-001
-  teiginys: 'Karšuva buvo du ar tris kartus teriota, o jos srityje atakuotos Putvės ir Aukaimio pilys.'
+  teiginys: 'Žemaičiai priešais Jurbarką pasistatė savo pilį Karšuvą.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: '1307 m. Ragainės komtūro riteriai nuniokojo Karšuvą, kai karšuviai išžygiavo prieš Klaipėdos pilį.'
+  teiginys: 'Po du — tris kartus buvo teriota Pograuda, Karšuva, atakuotos pilys Bisena, Junigėda, Putvė (« Pu­ tenicka ») ir Aukaimis (abi Karšuvos srityje).'
   pagrindžia:
     - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 - t-003
-  teiginys: 'XIV a. Karšuvos sritis, apėmusi beveik visą Jūros baseiną, tapo negyvenama dykra.'
+  teiginys: 'Nesisekė tada lietuviams ir Karšuvos srityje.'
   pagrindžia:
     - c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+- t-004
+  teiginys: 'XIV amž. Karšuvos sritis (beveik visas Jūros baseinas) tapo negy­ venama dykra.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Karšuva buvo du ar tris kartus teriota, o jos srityje atakuotos Putvės ir Aukaimio pilys.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  santrauka: 'Žemaičiai priešais Jurbarką pasistatė savo pilį Karšuvą.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Jų didelė dalis buvo skirta naikinti Žemaičių
-    sodyboms ir šturmuoti jų pilims. Po du — tris kartus buvo teriota
-    Pograuda, Karšuva, atakuotos pilys Bisena, Junigėda, Putvė (« Pu­
-    tenicka ») ir Aukaimis (abi Karšuvos srityje). Žemaičiai užsispyrę
-    gynėsi, bet karo laimė įvairavo, kai priešui talkon ateidavo ir koks
-    lietuvių pilių gynėjų išdavimas.
+    Tada priešais
+    Jurbarką žemaičiai pasistatė savo pilį — Karšuvą.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -71,7 +67,23 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
   pagrindžia:
     - t-001
 - c-002
-  santrauka: '1307 m. Ragainės komtūro riteriai nuniokojo Karšuvą, kai karšuviai išžygiavo prieš Klaipėdos pilį.'
+  santrauka: 'Po du — tris kartus buvo teriota Pograuda, Karšuva, atakuotos pilys Bisena, Junigėda, Putvė (« Pu­ tenicka ») ir Aukaimis (abi Karšuvos srityje).'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Po du — tris kartus buvo teriota
+    Pograuda, Karšuva, atakuotos pilys Bisena, Junigėda, Putvė (« Pu­
+    tenicka ») ir Aukaimis (abi Karšuvos srityje). Žemaičiai užsispyrę
+    gynėsi, bet karo laimė įvairavo, kai priešui talkon ateidavo ir koks
+    lietuvių pilių gynėjų išdavimas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Nesisekė tada lietuviams ir Karšuvos srityje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Nesisekė tada lietuviams ir Karšuvos srityje. Kai karšuviai
@@ -80,29 +92,27 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
     esą «matydami, jog nebeįstengs ilgiau priešintis broliams, pasi­
     traukė ir paliko dvi savo pilis Skronaičius (Scroneyte) ir Bebirvai­
     čius (Biverwate) », kurias riteriai sudegino^14.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'XIV a. Karšuvos sritis, apėmusi beveik visą Jūros baseiną, tapo negyvenama dykra.'
+    - t-003
+- c-004
+  santrauka: 'XIV amž. Karšuvos sritis (beveik visas Jūros baseinas) tapo negy­ venama dykra.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Ten buvo galima kolektyviai stipriau
-    priešintis, pasistatant daug darbo rankų reikalaujančių naujų pilių.
     XIV amž. Karšuvos sritis (beveik visas Jūros baseinas) tapo negy­
     venama dykra.
     1311 ordinas turėjo vėl laikinų pasisekimų.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-003
+    - t-004
 
 ## Ryšiai
 ### Laikotarpiai

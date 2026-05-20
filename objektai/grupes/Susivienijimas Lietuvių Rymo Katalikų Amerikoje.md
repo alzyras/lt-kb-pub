@@ -26,6 +26,12 @@ Susivienijimas Lietuvių Rymo Katalikų Amerikoje iš pradžių teturėjo vos 70
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Susivienijimas Lietuvių Rymo Katalikų Amerikoje įkūrė Amerikos Lietuvių Katalikų Federaciją, jungusią katalikiškas Amerikos lietuvių organizacijas.'
+  pagrindžia:
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -36,8 +42,6 @@ Susivienijimas Lietuvių Rymo Katalikų Amerikoje iš pradžių teturėjo vos 70
     Amerikoje** iš pradžių teturėjo vos 704 narius, o dabar turi
     300 su viršum kuopų ir 20.000 narių. Turto jis turi apie 1.200.000
     dolerių. Jo organas anksčiau buvo „Žvaigždė" ir „Drau-
-
-
     gas", nuo 1917 metų tapo „Garsas". Susivienijimo pirmi-
     ninku paprastai renkamas kunigas. Susivienijimas daro kon-
     gresus.
@@ -48,3 +52,30 @@ Susivienijimas Lietuvių Rymo Katalikų Amerikoje iš pradžių teturėjo vos 70
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Susivienijimas Lietuvių Rymo Katalikų Amerikoje įkūrė Amerikos Lietuvių Katalikų Federaciją, jungusią katalikiškas Amerikos lietuvių organizacijas.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Be to, jis yra įkūręs Amerikos Lietuvių Ka-
+    talikų Federaciją, kuri jungia visas katalikiškąsias Ame-
+    rikos lietuvių organizacijas ir ypatingai rūpinasi švietimu ir mo-
+    kyklų steigimu. Tos Federacijos rūpesčiu Amerikoje jau įsteigta
+    labai daug katalikiškųjų organizacijų. Taip antai, Federacijos
+    įkurta (1899 m.) „Motinėlė", kuri, jos remiama, šelpia lie-
+    tuvius moksleivius ir duoda stipendijas 100-ui studentų Amerikos
+    ir Europos universitetuose. 1912 m. F-ja sušaukė Čikagoje pirmąjį
+    lietuvių moksleivių suvažiavimą ir įkūrė Amerikos Lietu-
+    vių R. Katalikų Moksleivių Susivienijimą (to
+    Susivienijimo nariai, nuo savo organo „Giedros", buvo vadi-
+    nami giedrininkais). Karo metu ta organizacija pakriko; jos sky-
+    riai atskirose vietose dar tebeveikia, bet pats centras išnyko. Ne-
+    maža katalikų jaunimo Federacija suorganizavo ir Lietuvos Vy-
+    čių Sąjungoje (tai maždaug, kaip Lietuvoje pavasarinin-
+    kai); ji turi apie 100 kuopų ir leidžia savo laikraštį „Vytį".
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002

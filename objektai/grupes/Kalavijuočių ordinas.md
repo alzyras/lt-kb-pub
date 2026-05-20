@@ -59,34 +59,57 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
 
 ## Teiginiai
 - t-013
-  teiginys: 'Kalavijuočiai atsikraustė į Padauguvį, o kryžiuočiai - į Pavyslį.'
+  teiginys: '1202 m. dabartinės Latvijos teritorijoje įsikūręs Kalavijuočių ordinas siekė nukariauti ir jėga pakrikštyti pagonis baltus.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-014
-  teiginys: 'Naujasis ordinas turėjo būti nuolatinė organizuota vokiečių ir krikštytų čiabuvių karinė pajėga.'
+  teiginys: '1236 m. Saulės mūšyje lietuviai sutriuškino Kalavijuočių ordiną.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-015
-  teiginys: 'Kalavijuočių ordinas, pabūgęs neatsilaikyti vienas, susidėjo su tuo metu Prūsuose kariavusiu Kryžiuočių ordinu.'
+  teiginys: 'Po pralaimėjimo Saulės mūšyje kalavijuočių likučiai buvo prijungti prie Kryžiuočių ordino.'
   pagrindžia:
     - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-016
+  teiginys: 'Vieni jų atsikraustė į Padauguvį (kalavijuočiai), o kiti į Pavyslį (kryžiuočiai).'
+  pagrindžia:
+    - c-004
+- t-017
+  teiginys: 'Ordinas buvo pavadintas Kristaus Karių Brolija (Fratres Militiae Christi), bet dėl išsiūto ant balto jų apsiausto raudono kalavijo paprastai vadinamas kalavijuočių ordinu.'
+  pagrindžia:
+    - c-005
+- t-018
+  teiginys: 'Naujasis ordinas turėjo būti nuolatinė organizuota vokiečių ir krikštytų čiabuvių karinė pajėga.'
+  pagrindžia:
+    - c-006
+- t-019
+  teiginys: 'Pabūgęs, kad vienas neatsilaikys, kalavijuočių ordinas susidėjo su kariaujančiu tuo metu Prūsuose kryžiuočių ordinu.'
+  pagrindžia:
+    - c-007
+- t-020
+  teiginys: 'Kai 1237 m. prie kryžiuočių ordino prisijungė kalavijuočiai, dar buvo paskirtas Livonijos krašto magistras.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kalavijuočiai atsikraustė į Padauguvį, o kryžiuočiai - į Pavyslį.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: '1202 m. dabartinės Latvijos teritorijoje įsikūręs Kalavijuočių ordinas siekė nukariauti ir jėga pakrikštyti pagonis baltus.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    XIII amž. į aisčių gyvenamuosius kraštus atsikraustė vokiečiai
-    ir čia sukūrė savo valstybes. Vieni jų atsikraustė į Padauguvį (ka-
-    lavijuočiai), o kiti į Pavyslį (kryžiuočiai). Nuo tada pradeda
-    rastis kaskart vis daugiau istorinių žinių apie aisčių gyve-
-    nimą ir jų kovas už savo nepriklausomybę.
+    Šiuo periodu išryškėjo lietuvių siekis didinti įtaką kitų baltų
+    gentims (ypač gyvenusioms šiauriau - prie Dauguvos) ir įtraukti
+    jas į konsoliduojamos Lietuvos valstybės sudėtį. Tačiau šis proce-
+    sas buvo pertrauktas 1202 m., dabartinėje Latvijos teritorijoje įsi-
+    kūrus vokiečių Kalavijuočių ordinui, kuris siekė nukariauti ir jėga
+    pakrikštyti pagonis baltus bei pajungti juos naujai vokiečių valsty-
+    bei. Nuo tada prasidėjo kruvina kryžiaus žygių prie Baltijos jūros
+    epocha, kurios pabaigoje daugelis baltų tautų nustojo egzistuoti.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -95,14 +118,16 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   pagrindžia:
     - t-013
 - c-002
-  santrauka: 'Naujasis ordinas turėjo būti nuolatinė organizuota vokiečių ir krikštytų čiabuvių karinė pajėga.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: '1236 m. Saulės mūšyje lietuviai sutriuškino Kalavijuočių ordiną.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Naujasis ordinas turėjo būti nuolatinė organizuota vokiečių
-    ir krikštytų čiabuvių karinė pajėga. Neišnyko nė senas paprati-
-    mas kviesti svečius iš Vokietijos; buvo pradėti skelbti net specia-
-    lūs kryžiaus žygiai. Tačiau visos akcijos centras jau buvo ordi-
-    nas. Jo pareiga buvo ginti krikščionys ir padėti atversti pagonys.
+    baltiška teritorija. Sustiprėjusios Lietuvos valstybės kariuomenė
+
+    buvo pajėgi kautis su Kalavijuočių ordinu ir pastarasis buvo lietu-
+
+    vių sutriuškintas lemiamame Saulės mūšyje 1236 m. Nors lietu- i
+    viams nepavyko perimti vokiečių užgrobtų šiaurinių baltų žemių, .
+    tačiau tolimesnė vokiečių ekspansija iš šiaurės buvo sulaikyta.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -111,7 +136,74 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   pagrindžia:
     - t-014
 - c-003
-  santrauka: 'Kalavijuočių ordinas, pabūgęs neatsilaikyti vienas, susidėjo su tuo metu Prūsuose kariavusiu Kryžiuočių ordinu.'
+  santrauka: 'Po pralaimėjimo Saulės mūšyje kalavijuočių likučiai buvo prijungti prie Kryžiuočių ordino.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Prūsijoje pradėjęs veikti Kryžiuočių ordinas buvo stip-
+    resnis ir geriau organizuotas nei kalavijuočiai. Po pralaimė-
+    jimo Saulės mūšyje kalavijuočių likučiai buvo prijungti prie
+    Kryžiuočių ordino.
+
+    Per beveik tris dešimtmečius kryžiuočiai nukariavo visas
+    prūsų gentis.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-015
+- c-004
+  santrauka: 'Vieni jų atsikraustė į Padauguvį (kalavijuočiai), o kiti į Pavyslį (kryžiuočiai).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Vieni jų atsikraustė į Padauguvį (ka-
+    lavijuočiai), o kiti į Pavyslį (kryžiuočiai). Nuo tada pradeda
+    rastis kaskart vis daugiau istorinių žinių apie aisčių gyve-
+    nimą ir jų kovas už savo nepriklausomybę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016
+- c-005
+  santrauka: 'Ordinas buvo pavadintas Kristaus Karių Brolija (Fratres Militiae Christi), bet dėl išsiūto ant balto jų apsiausto raudono kalavijo paprastai vadinamas kalavijuočių ordinu.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Ordinas buvo pavadintas Kris-
+    taus Karių Brolija _(Fratres Militiae Christi),_ bet dėl išsiūto ant
+    balto jų apsiausto raudono kalavijo paprastai vadinamas ka-
+    lavijuočių ordinu.
+
+    Naujasis ordinas turėjo būti nuolatinė organizuota vokiečių
+    ir krikštytų čiabuvių karinė pajėga.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
+- c-006
+  santrauka: 'Naujasis ordinas turėjo būti nuolatinė organizuota vokiečių ir krikštytų čiabuvių karinė pajėga.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Naujasis ordinas turėjo būti nuolatinė organizuota vokiečių
+    ir krikštytų čiabuvių karinė pajėga. Neišnyko nė senas paprati-
+    mas kviesti svečius iš Vokietijos; buvo pradėti skelbti net specia-
+    lūs kryžiaus žygiai. Tačiau visos akcijos centras jau buvo ordi-
+    nas. Jo pareiga buvo ginti krikščionys ir padėti atversti pagonys.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018
+- c-007
+  santrauka: 'Pabūgęs, kad vienas neatsilaikys, kalavijuočių ordinas susidėjo su kariaujančiu tuo metu Prūsuose kryžiuočių ordinu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pabūgęs, kad vienas neat-
@@ -123,13 +215,27 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
     ordinui. Bet Livonijos ordinas niekad nenustojo savarankišku-
     mo: jis visą laiką turėjo atskirą krašto magistrą ir kitus valdžios
     organus; bendra buvo tik politika ir savitarpio pagalba.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-015
+    - t-019
+- c-008
+  santrauka: 'Kai 1237 m. prie kryžiuočių ordino prisijungė kalavijuočiai, dar buvo paskirtas Livonijos krašto magistras.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Kai 1237 m. prie kryžiuočių ordino prisijungė kalavijuočiai, dar
+    buvo paskirtas Livonijos krašto magistras. Visų krašto magistrų
+    viršininku buvo Italijoje gyvenęs didysis magistras.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020
 
 ## Ryšiai
 ### Laikotarpiai

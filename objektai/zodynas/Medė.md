@@ -23,19 +23,26 @@ Vartojamos formos: `medės`, `medėse`, `mėžė`.
 
 ## Teiginiai
 - t-003
-  teiginys: 'Medė siejama su masagetų pavadinimu ir Medininkų vardu, nes šie gyventojai gyveno didžiose medėse.'
+  teiginys: '`Medė` šiame tekste reiškia mišką arba girią.'
   pagrindžia:
     - c-001
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  statusas: patvirtinta
+- t-004
+  teiginys: 'Terminas vartojamas aiškinant senąsias vietovardžių ir etnonimų kilmes.'
+  pagrindžia:
+    - c-002
+    - c-003
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Medė siejama su masagetų pavadinimu ir Medininkų vardu, nes šie gyventojai gyveno didžiose medėse.'
+  santrauka: '`Medė` šiame tekste reiškia mišką arba girią.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
-    Gyventojus tarp upių Nemuno, Ventos ir Nevėžio vadino medininkais nuo to, jog didžiose medėse gyveno,
-        nuo ko ir vyskupas Žemaičių Medininkų vyskupu lig šio laiko vadinos.
+    už tų tyrų, juo į šiaurę einant,
+    buvo medės, arba girios.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -43,6 +50,34 @@ Vartojamos formos: `medės`, `medėse`, `mėžė`.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+- c-002
+  santrauka: 'Terminas vartojamas aiškinant senąsias vietovardžių ir etnonimų kilmes.'
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Grekonys abelnai gyventojus, toje pietinėj įšleitėj gyvenančius, vadino
+    getais, arba tyrų getais, nes ypačiai^76 medėse gyvenančius masagetais, nuo žodžio medė, arba
+    mėžė^77 ;
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
+- c-003
+  santrauka: 'Terminas vartojamas aiškinant senąsias vietovardžių ir etnonimų kilmes.'
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Gyventojus
+    tarp upių Nemuno, Ventos ir Nevėžio vadino medininkais nuo to, jog didžiose medėse gyveno,
+    nuo ko ir vyskupas Žemaičių Medininkų vyskupu lig šio laiko vadinos.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
 
 ## Pastabos
 

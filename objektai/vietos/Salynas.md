@@ -37,23 +37,45 @@ Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pa
 
 ## Teiginiai
 - t-001
-  teiginys: 'Salyno sutartimi Vytautas sutiko užleisti ordinui Žemaičius iki Nevėžio ir šiaurinę Suvalkų krašto dalį.'
+  teiginys: 'Salyno saloje Nemune įvyko iškilmingas sutarties ratifikavimas.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: '1398 m. spalio 12 d. Salyne įvyko Vytauto ir kryžiuočių magistro suvažiavimas.'
+  pagrindžia:
+    - c-002
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-003
+  teiginys: 'Salyne Vytauto bajorai paskelbė jį Lietuvos ir Rusijos žemių karaliumi.'
+  pagrindžia:
+    - c-003
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-004
+  teiginys: '1398 m. Salyno sutartimi Vytautas užleido Ordinui visą Žemaitiją iki Nevėžio.'
+  pagrindžia:
+    - c-004
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-005
+  teiginys: 'Nuo pasirašymo vietos ir sutartis vadinama Salyno sutartim. Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be to, buvo palikta šiaurinė Suvalkų krašto dalis (anapus linijos, einančios nuo Salyno tiesiog į Šešupę, ir kairysis Šešupės.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Salyno sutartimi Vytautas sutiko užleisti ordinui Žemaičius iki Nevėžio ir šiaurinę Suvalkų krašto dalį.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: 'Salyno saloje Nemune įvyko iškilmingas sutarties ratifikavimas.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Susitikimas buvo Salyne (sala
-    Nemune, buvusi apie dabartinę Kulautuvą). Nuo pasirašymo vie-
-    tos ir sutartis vadinama Salyno sutartim. Ja Vytautas sutiko už-
-    leisti ordinui Žemaičius iki pat Nevėžio; ordinui, be to, buvo pa-
-    likta šiaurinė Suvalkų krašto dalis (anapus linijos, einančios nuo
-    Salyno tiesiog į Šešupę, ir kairysis Šešupės krantas).
+    Iškilmingas tos sutarties ratifikavimas (patvir­
+    tinimas) įvyko tų pačių metų spalių 12 d. Salyno saloj (Ne­
+    mune). Dalyvavo Prūsų ir Livonijos Ordinų magistrai, Var­
+    mijos ir Sambijos vyskupai ir daug komtūrų. Iš lietuvių pusės
+    dalyvavo Vytautas su žmona Ona, daugybė kunigaikščių, bajo­
+    rų ir palydovų.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -61,6 +83,70 @@ Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pa
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: '1398 m. spalio 12 d. Salyne įvyko Vytauto ir kryžiuočių magistro suvažiavimas.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Momentas buvo labai sumaniai pa­
+    sirinktas: dabar kaip tik Vytautui buvo labai reikalinga parama
+    prieš Lenkijos pretenzijas, pareikštas karalienės Jadvygos laiš­
+    ke ir totorius. Tuo tikslu, t. y. gauti iš Ordino pagalbos ir įvyk­
+    sta 1398 m. spalių mėn. 12 d. Salyne Vytauto ir kryžiuočių ma­
+    gistro suvažiavimas^1 ).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Salyne Vytauto bajorai paskelbė jį Lietuvos ir Rusijos žemių karaliumi.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Vytau­
+    tas su Jogaila tuo reikalu rūpinosi Romos kurijoj. Tų pačių
+    metų pabaigoj Salyne Vytautą jo bajorai paskelbė Lietuvos ir
+    Rusijos žemių karalium. Po dvylikos metų šis klausimas vėl iš­
+    kyla aikštėn ir, būtent tuo metu, kai Vytautas lankėsi Kėzmar­
+    ke, pas karalių Zigmantą.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: '1398 m. Salyno sutartimi Vytautas užleido Ordinui visą Žemaitiją iki Nevėžio.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    1398 mt. Salyno sutartimi jis pats užleido Ordinui visą Žemai­
+    tiją, net iki Nevėžio^5 ). O 1400 met. net ginklu padėjo Ordinui
+    suvaldyti ją^6 ).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: 'Nuo pasirašymo vietos ir sutartis vadinama Salyno sutartim. Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be to, buvo palikta šiaurinė Suvalkų krašto dalis (anapus linijos, einančios nuo Salyno tiesiog į Šešupę, ir kairysis Šešupės.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Nuo pasirašymo vie-
+    tos ir sutartis vadinama Salyno sutartim. Ja Vytautas sutiko už-
+    leisti ordinui Žemaičius iki pat Nevėžio; ordinui, be to, buvo pa-
+    likta šiaurinė Suvalkų krašto dalis (anapus linijos, einančios nuo
+    Salyno tiesiog į Šešupę, ir kairysis Šešupės krantas).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Laikotarpiai

@@ -33,32 +33,61 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 
 ## Teiginiai
 - t-007
-  teiginys: 'Prieš kiekvieną bendrąjį seimą Lietuvoje buvo rengiami atskiri atstovų ir senatorių suvažiavimai.'
+  teiginys: 'Iki 1569 m. Lietuva faktiškai ir juridiškai buvo visiškai nepriklausoma valstybė.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-008
-  teiginys: 'Lietuva savo suvažiavimus laikė savitais seimais, kurie skyrėsi nuo Lenkijos provincijų seimelių.'
+  teiginys: 'Prieš kiekvieną bendrąjį seimą Lietuvoje buvo rengiami atskiri atstovų ir senatorių suvažiavimai.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-009
-  teiginys: '1673 m. nustatyta, kad kas trečias seimas, kurio maršalka lietuvis, rinktųsi Lietuvoje, Gardine.'
+  teiginys: 'Lietuva savo suvažiavimus laikė savitais seimais, kurie skyrėsi nuo Lenkijos provincijų seimelių.'
   pagrindžia:
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-010
-  teiginys: 'Lietuvai ir Lenkijai seimų konstitucijos buvo rašomos atskirai, o vienos valstybės konstitucija kitoje negaliojo be specialaus priėmimo.'
+  teiginys: '1673 m. nustatyta, kad kas trečias seimas, kurio maršalka lietuvis, rinktųsi Lietuvoje, Gardine.'
   pagrindžia:
     - c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-011
+  teiginys: 'Lietuvai ir Lenkijai seimų konstitucijos buvo rašomos atskirai, o vienos valstybės konstitucija kitoje negaliojo be specialaus priėmimo.'
+  pagrindžia:
+    - c-005
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-012
+  teiginys: 'Steponas Batoras dažnai šaukdavo atskirus Lietuvos seimus ir laikėsi Lietuvos kaip atskiros valstybės sampratos.'
+  pagrindžia:
+    - c-006
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
+  santrauka: 'Iki 1569 m. Lietuva faktiškai ir juridiškai buvo visiškai nepriklausoma valstybė.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Iki 1569 m. ir faktiškai ir juridiškai
+    Lietuva buvo visiškai nepriklausoma valstybė. Senieji aktai,
+    kuriais ji buvo surišta su Lenkija, jau nebegaliojo. Tiesą sakant,
+    jų niekad nebuvo laikytasi. Tik intereso verčiamos, abi vals-
+    tybės nenorėjo visiškai nutraukti ryšio ir rinkdavosi sau bendrus
+    valdovus.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-007
+- c-002
   santrauka: 'Prieš kiekvieną bendrąjį seimą Lietuvoje buvo rengiami atskiri atstovų ir senatorių suvažiavimai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -75,37 +104,15 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-007
-- c-002
+    - t-008
+- c-003
   santrauka: 'Lietuva savo suvažiavimus laikė savitais seimais, kurie skyrėsi nuo Lenkijos provincijų seimelių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lietuva žiūrėjo į juos, kaip į savo seimus. Nors lenkai, žiūrė-
     dami į Lietuvą, kaip į trečiąją Respublikos provinciją, Lietuvos
     seimelį irgi vadino provincijos seimeliu, tačiau jis labai
-    skyrėsi nuo Lenkijos provincijų seimelių. Mat,
-    Lietuva turėjo atskirą valstybinę organizaciją, atskiras teises bei
-    įstatymus; visi tie skirtingi Lietuvos reikalai ir būdavo apsvars-
-    tomi jos suvažiavimuose.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-008
-- c-003
-  santrauka: '1673 m. nustatyta, kad kas trečias seimas, kurio maršalka lietuvis, rinktųsi Lietuvoje, Gardine.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    reikalavo, kad seimai būtų šaukiami ir Lietuvoje ar bent pa-
-    sienyje. Keletą kartų jie vis dėlto pasiekė tai, kad seimas prieš
-    įstatymus buvo sušauktas Lietuvoje, o 1673 m. buvo pakeistas
-    ir patsai seimų vietos įstatymas; naujasis įstatymas nustatė, kad
-    kas trečias seimas, kurio maršalka esti lietuvis, rink-
-    tųsi Lietuvoje — Gardine. Be to, tas pats įstatymas
-    pripažino pirmenybę Lietuvos ministeriams, kai seimas būdavo
-    Lietuvoje.
+    skyrėsi nuo Lenkijos provincijų seimelių.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -114,6 +121,22 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   pagrindžia:
     - t-009
 - c-004
+  santrauka: '1673 m. nustatyta, kad kas trečias seimas, kurio maršalka lietuvis, rinktųsi Lietuvoje, Gardine.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Keletą kartų jie vis dėlto pasiekė tai, kad seimas prieš
+    įstatymus buvo sušauktas Lietuvoje, o 1673 m. buvo pakeistas
+    ir patsai seimų vietos įstatymas; naujasis įstatymas nustatė, kad
+    kas trečias seimas, kurio maršalka esti lietuvis, rink-
+    tųsi Lietuvoje — Gardine.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-010
+- c-005
   santrauka: 'Lietuvai ir Lenkijai seimų konstitucijos buvo rašomos atskirai, o vienos valstybės konstitucija kitoje negaliojo be specialaus priėmimo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -129,7 +152,29 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-010
+    - t-011
+- c-006
+  santrauka: 'Steponas Batoras dažnai šaukdavo atskirus Lietuvos seimus ir laikėsi Lietuvos kaip atskiros valstybės sampratos.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Steponas Batoras buvo paskutinysis garbingas Lietuvos
+    valdovas. Jis buvo svetimšalis, — lietuviai iš pradžių jo neno-
+    rėjo net pripažinti, bet vėliau jis labai susiartino su Lietuva.
+    Jo nuopelnai dideli. Visų pirma jo karo žygių dėka buvo gar-
+    bingai pašalintas beveik šimtą metų Lietuvą varginęs Maskvos
+    pavojus. Jo nuopelnas buvo ir akademijos įkūrimas. Be to, jis
+    rūpinosi ir ekonominiais krašto reikalais; jo laikais net buvo
+    kilęs sumanymas įkurti Vilniuje valstybės banką. Jis niekad
+    nespaudė lietuvių lenkų naudai. Nepaisydamas Liublino unijos
+    nuostatų, jis dažnai šaukdavo atskirus Lietuvos seimus ir visada
+    skaitėsi su Lietuva, kaip su atskira valstybe.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-012
 
 ## Ryšiai
 ### Susiję objektai

@@ -37,17 +37,17 @@ tags:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Unijos akto . 3-me išreikšta visa jo autorių lenkų idėja: „Didžioji Lietuvos kunigaikštystė ir Lenkų karalystė yra vienas nedalomas ir vienalytis kūnas, o taip pat ne skirtinga, bet viena bendra valstybė, kuri iš dviejų valstybių ir dviejų tautų suėjo ir.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Liublino unijos akte Lenkų karalystė ir Didžioji Lietuvos kunigaikštystė apibūdintos kaip viena bendra valstybė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tuo būdu pasikeitė tiktai rolės: anksčiau
-    lietuvių išsirinktąjį valdovą rinkdavosi ir lenkai, dabar priešin-
-    gai — lenkų išsirinktąjį valdovą rinkdavosi ir lietuviai.
-    Liublino unijos dėsniai. Unijos akto § 3-me išreikšta
-    visa jo autorių lenkų idėja: „Didžioji Lietuvos kunigaikštystė
+    „Didžioji Lietuvos kunigaikštystė
     ir Lenkų karalystė yra vienas nedalomas ir vienalytis kūnas, o
     taip pat ne skirtinga, bet viena bendra valstybė, kuri iš dviejų
     valstybių ir dviejų tautų suėjo ir susijungė į vieną visuomenę".
@@ -58,6 +58,25 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Unijos akto . 3-me išreikšta visa jo autorių lenkų idėja: „Didžioji Lietuvos kunigaikštystė ir Lenkų karalystė yra vienas nedalomas ir vienalytis kūnas, o taip pat ne skirtinga, bet viena bendra valstybė, kuri iš dviejų valstybių ir dviejų tautų suėjo ir.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Unijos akto § 3-me išreikšta
+    visa jo autorių lenkų idėja: „Didžioji Lietuvos kunigaikštystė
+    ir Lenkų karalystė yra vienas nedalomas ir vienalytis kūnas, o
+    taip pat ne skirtinga, bet viena bendra valstybė, kuri iš dviejų
+    valstybių ir dviejų tautų suėjo ir susijungė į vieną visuomenę".
+    Toliau sakoma, kad taip sujungtos valstybės turėsiančios vieną
+    bendrą valdovą, kuris būsiąs bendrai renkamas Lietuvoje ir ka-
+    rūnuojamas Krokuvoje (§ 4).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Laikotarpiai

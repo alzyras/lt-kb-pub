@@ -38,11 +38,9 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Pasakojime romėnų karvedys Publijas Libonas iš Italijos pabėgo į Lietuvą ir čia sukūrė valstybę.'
+  teiginys: 'Esą, istorijoje žinomas romėnų karvedys Publijas Libonas, savo priešų persekiojamas, iš Italijos atbėgęs į Lietuvą ir čia sukūręs valstybę.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -63,22 +61,19 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Pasakojime romėnų karvedys Publijas Libonas iš Italijos pabėgo į Lietuvą ir čia sukūrė valstybę.'
+  santrauka: 'Esą, istorijoje žinomas romėnų karvedys Publijas Libonas, savo priešų persekiojamas, iš Italijos atbėgęs į Lietuvą ir čia sukūręs valstybę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Esą, istorijoje žinomas romėnų karvedys Publijas Li-
     bonas, savo priešų persekiojamas, iš Italijos atbėgęs į Lietuvą
     ir čia sukūręs valstybę. Jo vardas čia buvęs iškreiptas į Pale-
     moną. Tas atsitikę I-II amžiuje po Kristaus. Kadangi pirmieji
-    Lietuvos kunigaikščiai yra žinomi tik iš XIII amž., tai tos teori-
-    jos autoriai išgalvojo nemaža kunigaikščių vardų, kurie už-
-    pildė tą didelę spragą (II—XII amž.), ir visus Lietuvos
-    kunigaikščius kildino iš to Palemono.
-  citata_rodoma: ""
+    Lietuvos kunigaikščiai yra žinomi tik iš XIII amž.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
 

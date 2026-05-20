@@ -46,33 +46,39 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
 
 ## Teiginiai
 - t-006
-  teiginys: 'Žemaičiai, atsitraukdami nuo Vilniaus, davė vokiečiams įkaitų, tačiau jie nebuvo duoti nuo visų Žemaitijos sričių.'
+  teiginys: '1383 m. žemaičiai, atsitraukdami nuo Vilniaus, davė vokiečiams savo įkaitus, nors jie buvo duoti ne nuo visų Žemaitijos sričių.'
   pagrindžia:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-007
-  teiginys: 'Po Jogailos krikšto iškilmių lenkai pareikalavo Vytauto, Skirgailos ir kitų kunigaikščių kaip Jogailos pažadų įvykdymo garantijos.'
+  teiginys: 'Po Jogailos krikšto ir iškilmių lenkai pareikalavo Vytauto, Skirgailos ir kitų kunigaikščių kaip įkaitų, kad būtų garantuotas Jogailos pažadų išpildymas.'
   pagrindžia:
     - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-008
-  teiginys: '1390–1392 m. Vytauto duotų Ordinui įkaitų sąraše minimi du kunigaikščiai – Jurgis ir Jonas.'
+  teiginys: 'Vytautui antrą kartą atsimesti nuo Ordino buvo sunku, nes daugybė jo šalininkų ir artimųjų buvo duoti kryžiuočiams įkaitais.'
   pagrindžia:
     - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-009
-  teiginys: 'Magistras reikalavo, kad Vytautas duotų bajorų sūnus įkaitais ir išpildytų seniau Ordinui duotus pasižadėjimus.'
+  teiginys: '1390–1392 m. Vytauto duotų Ordinui įkaitų sąraše minimi du kunigaikščiai – Jurgis ir Jonas.'
   pagrindžia:
     - c-004
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-010
+  teiginys: 'Magistras reikalavo, kad Vytautas duotų bajorų sūnus įkaitais ir išpildytų seniau Ordinui duotus pasižadėjimus.'
+  pagrindžia:
+    - c-005
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Žemaičiai, atsitraukdami nuo Vilniaus, davė vokiečiams įkaitų, tačiau jie nebuvo duoti nuo visų Žemaitijos sričių.'
+  santrauka: '1383 m. žemaičiai, atsitraukdami nuo Vilniaus, davė vokiečiams savo įkaitus, nors jie buvo duoti ne nuo visų Žemaitijos sričių.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Šiame žygyje žemaičiai pakei­
@@ -88,7 +94,7 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
   pagrindžia:
     - t-006
 - c-002
-  santrauka: 'Po Jogailos krikšto iškilmių lenkai pareikalavo Vytauto, Skirgailos ir kitų kunigaikščių kaip Jogailos pažadų įvykdymo garantijos.'
+  santrauka: 'Po Jogailos krikšto ir iškilmių lenkai pareikalavo Vytauto, Skirgailos ir kitų kunigaikščių kaip įkaitų, kad būtų garantuotas Jogailos pažadų išpildymas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Po visų tų iškilmių įvyko dar vienas faktas. Būtent, lenkai
@@ -103,13 +109,20 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
   pagrindžia:
     - t-007
 - c-003
-  santrauka: '1390–1392 m. Vytauto duotų Ordinui įkaitų sąraše minimi du kunigaikščiai – Jurgis ir Jonas.'
+  santrauka: 'Vytautui antrą kartą atsimesti nuo Ordino buvo sunku, nes daugybė jo šalininkų ir artimųjų buvo duoti kryžiuočiams įkaitais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Neabejotina, kad Vytautas būtų tai
-    padaręs, jei iš tikrųjų jo vaikai būtų buvę nužudyti. Gi 1390
-    —92 m. Vytauto duotų Ordinui įkaitų sąraše mes randame iš
-    tikrųjų du kunigaikščiu: Jurgį ir Joną.
+    Bet šį kartą atsikratyti Ordinu jam buvo daug
+    ```
+    (^1) ) Scr. r. Prus., II t., 648.
+
+
+    ```
+    — 42 —
+    ```
+    sunkiau, nes daugybė šalininkų ir artimųjų buvo duoti įkaitais
+    kryžiuočiams. Todėl reikėjo didelio slaptumo ir atsargumo, kad
+    ir antras jo atsimetimo planas vokiečių nebūtų pastebėtas
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -118,10 +131,23 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
   pagrindžia:
     - t-008
 - c-004
+  santrauka: '1390–1392 m. Vytauto duotų Ordinui įkaitų sąraše minimi du kunigaikščiai – Jurgis ir Jonas.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    1390
+    —92 m. Vytauto duotų Ordinui įkaitų sąraše mes randame iš
+    tikrųjų du kunigaikščiu: Jurgį ir Joną.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-009
+- c-005
   santrauka: 'Magistras reikalavo, kad Vytautas duotų bajorų sūnus įkaitais ir išpildytų seniau Ordinui duotus pasižadėjimus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Taip 1396 m. Vytautas su magistru susivažiavo Dubysos saloj.
     Magistras patiekė tokius reikalavimus Vytautui: 1) Lietuva
     turi pripažinti popiežiaus ir imperatoriaus supremaciją (vir­
     šenybę), 2) Vytautas turi atstatyti visas sugriautas Ordino pi­
@@ -133,7 +159,7 @@ Praktika fiksuojama tiek žemaičių ir Ordino, tiek lenkų ir Lietuvos kunigaik
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-009
+    - t-010
 
 ## Ryšiai
 ### Laikotarpiai

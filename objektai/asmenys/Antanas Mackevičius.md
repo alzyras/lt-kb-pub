@@ -33,44 +33,55 @@ Mackevičius, vėliau K.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kauno gubernijoje vienas pirmųjų sukilimo organizatorių buvo kunigas Antanas Mackevičius.'
+  teiginys: 'Antanas Mackevičius po Z. Sierakausko mirties buvo paskirtas Kauno gubernijos sukilėlių karo vadu.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Antanas Mackevičius stovykloje laikė mišias ir atlikinėjo naujokų įšventinimo apeigas.'
+  teiginys: 'Kauno gubernijoje vienas pirmųjų sukilimo organizatorių buvo kunigas Antanas Mackevičius.'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 - t-003
-  teiginys: 'Antanas Mackevičius sakė pamokslą lenkiškai ir lietuviškai.'
+  teiginys: 'Mackevičius stovykloje laikė mišias, atlikinėjo naujokų įšventinimo apeigas.'
   pagrindžia:
     - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 - t-004
-  teiginys: 'Antanui Mackevičiui buvo pavesta vadovauti vienai sukilėlių kolonai.'
+  teiginys: 'Gražų pamokslą lenkiškai, tą pat ir lietuviškai sakęs kunigas Mackevičius.'
   pagrindžia:
     - c-004
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 - t-005
-  teiginys: 'Antanui Mackevičiui nepavyko tinkamai išdėstyti gynybai savo šaulių.'
+  teiginys: 'Mackevičių, kitą — Genujos-Cuneo karo mokyklos, ruošusios karininkus partizaninei kovai, absolventui B.'
   pagrindžia:
     - c-005
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 - t-006
-  teiginys: 'Antanui Mackevičiui pavyko suburti išsklaidytus sukilėlius ir išvesti juos pro Rusijos kariuomenės apsupimą į Vidurio Lietuvą.'
+  teiginys: 'Mackevičiui nepavyko tinkamai išdėstyti gynybai savo šaulių, klampioje vietovėje sukilėlių kavalerija buvo neveiksminga.'
   pagrindžia:
     - c-006
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+- t-007
+  teiginys: 'Mackevičiui pavyko suburti išsklaidytus sukilėlius ir išvesti pro Rusijos kariuomenės apsupimą į Vidurio Lietuvą.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 - c-001
+  santrauka: 'Antanas Mackevičius po Z. Sierakausko mirties buvo paskirtas Kauno gubernijos sukilėlių karo vadu.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Po Z. Sierakausko mirties Kauno gubernijos (sukilėliai vadino vaivadija)
+    sukilėlių karo vadu paskirtas jaunas kunigas, apsisprendęs lietuvis Anta-
+
+    3 skyrius •  R U S I J O S  I M P E R I J O S  VA L D O M A  L I E T U VA  ( 1 7 9 5 – 1 9 1 5 )
+    109
+    nas Mackevičius.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
   santrauka: 'Kauno gubernijoje vienas pirmųjų sukilimo organizatorių buvo kunigas Antanas Mackevičius.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -85,110 +96,98 @@ Mackevičius, vėliau K.
     kyti Narvos pėstininkų pulko vado barono
     Dellingsgauzeno vadovaujamo dalinio
     puolimą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Antanas Mackevičius stovykloje laikė mišias ir atlikinėjo naujokų įšventinimo apeigas.'
+    - t-002
+- c-003
+  santrauka: 'Mackevičius stovykloje laikė mišias, atlikinėjo naujokų įšventinimo apeigas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Joje vykdė naujokų ap-
-    mokymus, formavo naujus ir reorganizavo
-    esamus dalinius. Kunigas A. Mackevičius
+    Kunigas A. Mackevičius
     stovykloje laikė mišias, atlikinėjo naujokų
     įšventinimo apeigas. Stovykloje veikė karo
     lauko ligoninė, mokymai vyko lietuviškai,
     komandos buvo duodamos lietuvių kalba.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Antanas Mackevičius sakė pamokslą lenkiškai ir lietuviškai.'
+    - t-003
+- c-004
+  santrauka: 'Gražų pamokslą lenkiškai, tą pat ir lietuviškai sakęs kunigas Mackevičius.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Gražų pamokslą lenkiškai, tą pat ir lietuviškai sakęs kunigas Mackevičius. Visa kariuo-
     menė ir pulkų pulkai žmonių klausę tyrame lauke ir net verkę girdėdami sakant:
 
     ~ Eikime, broliai, už vierą šventą, už tėvynę mūsų brangiąją Lietuvą ir už mūsų bro-
-    lius Lietuvius!“
-  citata_rodoma: ""
+    lius Lietuvius!
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Antanui Mackevičiui buvo pavesta vadovauti vienai sukilėlių kolonai.'
+    - t-004
+- c-005
+  santrauka: 'Mackevičių, kitą — Genujos-Cuneo karo mokyklos, ruošusios karininkus partizaninei kovai, absolventui B.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Netrukus iš K. Maleckio žvalgy-
-    binio padalinio atėjo pranešimas apie
-    stambių priešo dalinių artėjimą. Siekda-
-    mas padidinti sukilėlių kariuomenės ju-
-    dėjimo greitį, Z. Sierakauskas savo pajėgas
-    padalino į tris kolonas. Vienai kolonai
+    Vienai kolonai
     pavedė vadovauti A. Mackevičių, kitą —
     Genujos-Cuneo karo mokyklos, ruošusios
     karininkus partizaninei kovai, absolven-
     tui B. Kolyškai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-004
-- c-005
-  santrauka: 'Antanui Mackevičiui nepavyko tinkamai išdėstyti gynybai savo šaulių.'
+    - t-005
+- c-006
+  santrauka: 'Mackevičiui nepavyko tinkamai išdėstyti gynybai savo šaulių, klampioje vietovėje sukilėlių kavalerija buvo neveiksminga.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    I. Ganeckio rinktinė pasuko iš Medeikių
-    į Biržų girią vedlio nurodyta kryptimi ir
-    ties Šniurkiškių palivarku užklupo suki-
-    lėlių stovyklą. A. Mackevičiui nepavyko
+    A. Mackevičiui nepavyko
     tinkamai išdėstyti gynybai savo šaulių,
     klampioje vietovėje sukilėlių kavalerija
     buvo neveiksminga. Narsiai kaudamiesi
     sukilėliai ilgą laiką atmušinėjo rusų karių
     atakas, tačiau po kiek laiko puolantieji pra-
     laužė kairįjį gynėjų sparną.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-005
-- c-006
-  santrauka: 'Antanui Mackevičiui pavyko suburti išsklaidytus sukilėlius ir išvesti juos pro Rusijos kariuomenės apsupimą į Vidurio Lietuvą.'
+    - t-006
+- c-007
+  santrauka: 'Mackevičiui pavyko suburti išsklaidytus sukilėlius ir išvesti pro Rusijos kariuomenės apsupimą į Vidurio Lietuvą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Į nelaisvę pakliuvo Z. Sierakauskas,
-    B. Kolyška, S. Kozakauskas ir dar keletas
-    karininkų. A. Mackevičiui pavyko suburti
+    A. Mackevičiui pavyko suburti
     išsklaidytus sukilėlius ir išvesti pro Rusijos
     kariuomenės apsupimą į Vidurio Lietuvą.
 
     Mūšio pasekmės
 
     Kautynės Biržų girioje buvo didžiau-
-    sios per visą 1863-1864 m. sukilimą.
-  citata_rodoma: ""
+    sios per visą 1863-1864 m.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-006
+    - t-007
 
 ## Ryšiai
 ### Laikotarpiai

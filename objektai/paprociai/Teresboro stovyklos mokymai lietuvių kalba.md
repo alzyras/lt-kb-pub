@@ -63,8 +63,6 @@ Nenurodyta
   teiginys: 'Stovykloje veikė karo lauko ligoninė, mokymai vyko lietuviškai, komandos buvo duodamos lietuvių kalba.'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -90,18 +88,16 @@ Nenurodyta
   santrauka: 'Stovykloje veikė karo lauko ligoninė, mokymai vyko lietuviškai, komandos buvo duodamos lietuvių kalba.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Kunigas A. Mackevičius
-    stovykloje laikė mišias, atlikinėjo naujokų
-    įšventinimo apeigas. Stovykloje veikė karo
+    Stovykloje veikė karo
     lauko ligoninė, mokymai vyko lietuviškai,
     komandos buvo duodamos lietuvių kalba.
     Netrukus nenumatyti įvykiai pri-
     vertė koreguoti planus.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
 

@@ -65,17 +65,13 @@ Nenurodyta
   teiginys: 'Šalia eilės vyresniųjų (« starešej ») Lietuvos kunigų, kurių tarpe, be kitko, yra minimas Živinbudas, Daujotas, Dausprungas ir šio brolis Mindaugas, yra išskaičiuoti keturi vėliau niekur nebesutinkami Deltuvos kunigai.'
   pagrindžia:
     - c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1219 m. grupė Lietuvos kunigų sudarė sutartį su Volinijos kunigaikščio Romano našle.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    O tuometinės Lietuvos priešai kunigų
-    vardus į savo kronikas kartais įtraukdavo tik ryšium su lietuvių
-    karo žygiais, ar taikos sutarčių progomis. Vistik vien Lietuvos
+    Vistik vien Lietuvos
     (Aukštaičių ir Žemaičiu) plote tada atsitiktinai yra užrašyta bent
     keliasdešimt kunigų vardu. Pvz., kai visa grupė Lietuvos kunigų
     1219 m. darė sutartį su Volinijos kunigaikščio Romano našle, Ipa­
@@ -91,11 +87,6 @@ Nenurodyta
   santrauka: 'Tarp vyresniųjų Lietuvos kunigų buvo minimi Živinbudas, Daujotas, Dausprungas ir jo brolis Mindaugas.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Vistik vien Lietuvos
-    (Aukštaičių ir Žemaičiu) plote tada atsitiktinai yra užrašyta bent
-    keliasdešimt kunigų vardu. Pvz., kai visa grupė Lietuvos kunigų
-    1219 m. darė sutartį su Volinijos kunigaikščio Romano našle, Ipa­
-    tijaus metraštyje buvo paminėtas 21 jų vardas (PSRL, II, 735).
     Šalia eilės vyresniųjų (« starešej ») Lietuvos kunigų, kurių tarpe, be
     kitko, yra minimas Živinbudas, Daujotas, Dausprungas ir šio brolis
     Mindaugas, yra išskaičiuoti keturi vėliau niekur nebesutinkami
@@ -111,19 +102,16 @@ Nenurodyta
   santrauka: 'Šalia eilės vyresniųjų (« starešej ») Lietuvos kunigų, kurių tarpe, be kitko, yra minimas Živinbudas, Daujotas, Dausprungas ir šio brolis Mindaugas, yra išskaičiuoti keturi vėliau niekur nebesutinkami Deltuvos kunigai.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Pvz., kai visa grupė Lietuvos kunigų
-    1219 m. darė sutartį su Volinijos kunigaikščio Romano našle, Ipa­
-    tijaus metraštyje buvo paminėtas 21 jų vardas (PSRL, II, 735).
     Šalia eilės vyresniųjų (« starešej ») Lietuvos kunigų, kurių tarpe, be
     kitko, yra minimas Živinbudas, Daujotas, Dausprungas ir šio brolis
     Mindaugas, yra išskaičiuoti keturi vėliau niekur nebesutinkami
     Deltuvos kunigai. Mindaugui ėmus išvarinėti ir žudyti savo priešus,
     visa eilė smulkių ir silpnų kunigų žlugo.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
 
@@ -132,6 +120,3 @@ Nenurodyta
 - [[laikotarpiai/XIII amžius]]
 - [[laikotarpiai/XX amžius]]
 - [[laikotarpiai/XXI amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/Mindaugas (Lietuvos valdovas, 1251 m.)]]

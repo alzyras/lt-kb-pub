@@ -25,6 +25,7 @@ laikotarpis: ''
 vaidmenys: []
 dalyviai: []
 susije_irasai:
+  - '[[Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]'
 patikimumas: 'vidutinis'
 tags: []
 ---
@@ -40,21 +41,51 @@ tags: []
 
 ## Teiginiai
 - t-004
-  teiginys: '1945 m. rugpjūčio pradžioje Žuvinto ežerą ir Palias apsupo šarvuočiai, o lėktuvai raketomis rodė įtartinas ežero vietas.'
-  pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-005
-  teiginys: 'Pritrūkę valčių, enkavėdistai per Žuvinto ežerą plaukė kluonų durimis, naudodami jas kaip plaustus.'
+  teiginys: 'Žuvinto ežerą ir Palias buvo apsupę šarvuočiai, o lėktuvai raketų šūviais nurodydavo įtartinas ežero vietas.'
   pagrindžia:
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: '1945 m. liepos 13 d. prie Žuvinto ežero Dzūkų būrio partizanai susidūrė su NKVD kareiviais ir stribais.'
+  pagrindžia:
+    - c-001
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-006
+  teiginys: 'Per Žuvinto ežerą enkavėdistai plaukė iš kluonų durų pasidarytais plaustais.'
+  pagrindžia:
+    - c-003
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-007
+  teiginys: 'Tų pačių metų liepos 13 d., grįždami iš žygio, Dzūkų būrio partizanai prie Žuvinto ežero susidūrė su pasaloje laukusiais NKVD kareiviais ir vietiniais stribais.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1945 m. rugpjūčio pradžioje Žuvinto ežerą ir Palias apsupo šarvuočiai, o lėktuvai raketomis rodė įtartinas ežero vietas.'
+  santrauka: '1945 m. liepos 13 d. prie Žuvinto ežero Dzūkų būrio partizanai susidūrė su NKVD kareiviais ir stribais.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    vadas Vladas Gavėnas-Tarzanas bei lais-
+    vės kovotojai Vincas Boruta-Žvalgas ir
+    Sigitas Melnykas-Portas. Tų pačių metų
+    liepos 13 d., grįždami iš žygio, Dzūkų būrio
+    partizanai prie Žuvinto ežero susidūrė su
+    pasaloje laukusiais NKVD kareiviais ir vie-
+    tiniais stribais. Tuomet žuvo partizanas
+    Jurgis Krušinskas, Juozas Remeikis-Lokys
+    vėliau mirė nuo sužeidimų.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-005
+- c-002
+  santrauka: 'Žuvinto ežerą ir Palias buvo apsupę šarvuočiai, o lėktuvai raketų šūviais nurodydavo įtartinas ežero vietas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1945 m. rugpjūčio mėnesio pačioje pra-
@@ -72,8 +103,8 @@ tags: []
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
-- c-002
-  santrauka: 'Pritrūkę valčių, enkavėdistai per Žuvinto ežerą plaukė kluonų durimis, naudodami jas kaip plaustus.'
+- c-003
+  santrauka: 'Per Žuvinto ežerą enkavėdistai plaukė iš kluonų durų pasidarytais plaustais.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     patikrinti. Pritrūkus valčių, enkavėdistai
@@ -87,7 +118,25 @@ tags: []
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
+    - t-006
+- c-004
+  santrauka: 'Tų pačių metų liepos 13 d., grįždami iš žygio, Dzūkų būrio partizanai prie Žuvinto ežero susidūrė su pasaloje laukusiais NKVD kareiviais ir vietiniais stribais.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Tų pačių metų
+    liepos 13 d., grįždami iš žygio, Dzūkų būrio
+    partizanai prie Žuvinto ežero susidūrė su
+    pasaloje laukusiais NKVD kareiviais ir vie-
+    tiniais stribais. Tuomet žuvo partizanas
+    Jurgis Krušinskas, Juozas Remeikis-Lokys
+    vėliau mirė nuo sužeidimų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
 ### Laikotarpiai
@@ -95,4 +144,5 @@ tags: []
 - [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
+- [[objektai/ivykiai/Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]
 - [[objektai/vietos/Aleknonių kaimas]]

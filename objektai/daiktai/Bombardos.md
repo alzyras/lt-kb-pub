@@ -47,20 +47,37 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Primityvus apgulos bombardų lafetas — nejudamai prie žemės pritvirtinta masyvi medinė dėžė.'
+  teiginys: '1384 m. rudenį Jogaila ir Vytautas su bombardomis apgulė Kauno Marienwerderį.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Po keturių savaičių apgulties lietuviai priešpriešiais įtaisė bombardą ir užmušė meistrą Hermaną.'
+  teiginys: 'Primityvus apgulos bombardų lafetas — nejudamai prie žemės pritvirtinta masyvi medinė dėžė.'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+- t-003
+  teiginys: 'Po keturių savaičių apgulties, po daugelio susidūrimų meistras Hermanas vienoje pilies angoje pastatė bombardą prieš lietuvius, tačiau lietuviai, priešpriešiais įtaisę tokį pat pabūklą, užmušė minėtą meistrą.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
+  santrauka: '1384 m. rudenį Jogaila ir Vytautas su bombardomis apgulė Kauno Marienwerderį.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    O 1384 m. rudenį abu
+    pusbroliai su bombardomis apgulė Kauno Marienwerderi. Viskuo
+    gerai aprūpinta pilis atlaikė keliolikos savaičių apgniimą ir tik
+    1384.XI.6 d. tekrito.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
   santrauka: 'Primityvus apgulos bombardų lafetas — nejudamai prie žemės pritvirtinta masyvi medinė dėžė.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -70,17 +87,16 @@ Nenurodyta
     ugnies nereikėdavo, buvo šaudoma į tą
     pačią sienos vietą, kol ši sugriūdavo.
 
-    nukovė. Didžiąją mašiną lietuviai tuojau
-    pataisė, bet ji vėl buvo sudaužyta.
-  citata_rodoma: ""
+    nukovė.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Po keturių savaičių apgulties lietuviai priešpriešiais įtaisė bombardą ir užmušė meistrą Hermaną.'
+    - t-002
+- c-003
+  santrauka: 'Po keturių savaičių apgulties, po daugelio susidūrimų meistras Hermanas vienoje pilies angoje pastatė bombardą prieš lietuvius, tačiau lietuviai, priešpriešiais įtaisę tokį pat pabūklą, užmušė minėtą meistrą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Po keturių savaičių apgulties, po dauge-
@@ -90,15 +106,14 @@ Nenurodyta
     tokį pat pabūklą, užmušė minėtą meistrą.
     Po sunkių kovų buvo „pilyje daug brolių
     sužeistų, netinkamų gynybai , tačiau juos
-    keitė sveikieji. Mūšio įkarštyje komtūrui
-    iš mašinos paleistas akmuo nunešė galvą.
-  citata_rodoma: ""
+    keitė sveikieji.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-002
+    - t-003
 
 ## Ryšiai
 ### Laikotarpiai

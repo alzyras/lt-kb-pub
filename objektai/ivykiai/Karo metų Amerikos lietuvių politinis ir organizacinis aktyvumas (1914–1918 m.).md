@@ -33,26 +33,47 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Į katalikų 1916 m. suorganizuotą Tautos Tarybą tautininkai nėjo: jie suorganizavo savo Amerikos Lietuvių Tautinę Tarybą.'
+  teiginys: '1914 m. Filadelfijoje lietuvių ir ukrainiečių mitingas reikalavo palikti Lietuvą lietuviams, o Ukrainą ukrainiečiams.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: '1918 m. katalikai ir tautininkai Naujorke sušaukė trečiąjį lietuvių seimą, kuriame dalyvavo apie 1 200 lietuviškų organizacijų atstovų.'
+  teiginys: 'Į katalikų 1916 m. suorganizuotą Tautos Tarybą tautininkai nėjo: jie suorganizavo savo Amerikos Lietuvių Tautinę Tarybą.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: '1916 m. Brukline katalikų ir tautininkų organizacijų atstovų suvažiavimas įsteigė Lietuvos Atstatymo Bendrovę.'
+  teiginys: '1918 m. katalikai ir tautininkai Naujorke sušaukė trečiąjį lietuvių seimą, kuriame dalyvavo apie 1 200 lietuviškų organizacijų atstovų.'
   pagrindžia:
     - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-004
+  teiginys: '1916 m. Brukline katalikų ir tautininkų organizacijų atstovų suvažiavimas įsteigė Lietuvos Atstatymo Bendrovę.'
+  pagrindžia:
+    - c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
+  santrauka: '1914 m. Filadelfijoje lietuvių ir ukrainiečių mitingas reikalavo palikti Lietuvą lietuviams, o Ukrainą ukrainiečiams.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Jau 1914 m. Filadelfijoje įvy-
+    ko bendras lietuvių ir ukrainiečių mitingas, kuris reikalavo „iš-
+    vyti maskolius į Aziją ir palikti Lietuvą lietuviams, o Ukrainą
+    ukrainiečiams".
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
   santrauka: 'Į katalikų 1916 m. suorganizuotą Tautos Tarybą tautininkai nėjo: jie suorganizavo savo Amerikos Lietuvių Tautinę Tarybą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -66,8 +87,8 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-- c-002
+    - t-002
+- c-003
   santrauka: '1918 m. katalikai ir tautininkai Naujorke sušaukė trečiąjį lietuvių seimą, kuriame dalyvavo apie 1 200 lietuviškų organizacijų atstovų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -88,8 +109,8 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-- c-003
+    - t-003
+- c-004
   santrauka: '1916 m. Brukline katalikų ir tautininkų organizacijų atstovų suvažiavimas įsteigė Lietuvos Atstatymo Bendrovę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -105,7 +126,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-004
 
 ## Ryšiai
 ### Laikotarpiai

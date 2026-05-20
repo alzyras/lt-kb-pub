@@ -43,7 +43,7 @@ Rašliava apibūdinama kaip istorinė, o jos publicistinis pobūdis išryškėja
 
 ## Teiginiai
 - t-004
-  teiginys: 'Istoriškoji rašliava paskutiniaisiais metais buvo gerokai paaugusi.'
+  teiginys: 'Rašliava vartojama kaip istorinės raštijos pavadinimas.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -60,17 +60,18 @@ Rašliava apibūdinama kaip istorinė, o jos publicistinis pobūdis išryškėja
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-007
+  teiginys: '479 Spaudė „Šviesos" spaustuvė Kaune Istoriškoji mūsų rašliava paskutiniaisiais metais gerokai paūgėjo.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Istoriškoji rašliava paskutiniaisiais metais buvo gerokai paaugusi.'
+  santrauka: 'Rašliava vartojama kaip istorinės raštijos pavadinimas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Istoriškoji mūsų rašliava paskutiniaisiais metais gerokai pa-
-    ūgėjo. Bet ligi šiol dar niekas nebuvo bandęs paruošti platesnę
-    mūsų tautos gyvenimo kelio apžvalgą, kuri sujungtų seniausiųjų
-    ir naujųjų laikų įvykius. Tokio vadovėlio reikalą gyvai jautė
-    tiek visuomenė, tiek mokykla.
+    ūgėjo.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -82,12 +83,6 @@ Rašliava apibūdinama kaip istorinė, o jos publicistinis pobūdis išryškėja
   santrauka: 'Iškilus unijos klausimui, Lenkijoje atsirado publicistiškų raštų, kuriuose Lietuva buvo žeminama.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tuo būdu tie ginčai paskatino
-    susidomėjimą garbinga Lietuvos praeitimi, ir tais laikais dar
-    daugiau atsirado istorinių raštų. Kadangi jais ypačiai rūpinosi Lie-
-    tuvos didikai, todėl tų istorijų (kronikų) autoriai savo veikaluose
-    stengdavosi Lietuvos didikų kilmę išvesti iš Lietuvos kuni-
-    gaikščių.
     Iškilus unijos klausimui, Lenkijoje atsirado publicistiškų
     raštų, kuriuose Lietuva buvo žeminama, vaizduojama, kaip nedė-
     kinga, maištaujanti lenkų globojama valstybė.
@@ -102,13 +97,6 @@ Rašliava apibūdinama kaip istorinė, o jos publicistinis pobūdis išryškėja
   santrauka: 'Pirmoji Lietuvos rašliava apibūdinama kaip istorinė ir publicistiška.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Ten jie
-    įrodinėja Ožechovskio tvirtinimų neteisingumą, gina Lietuvos
-    valstybės garbę ir jos teises gyventi savarankiškai. Jie nuro-
-    dinėja, kad Lietuvos vargai prasidėję tik susidėjus su Lenkija,
-    ir visos blogybės — valstybinis pakrikimas, tarpusavio nesantaika
-    — ateinančios tik iš Lenkijos; anksčiau Lietuvoje to nebuvę, to-
-    dėl dėtis į uniją su tokia valstybe Lietuvai nesą jokio reikalo.
     Žodžiu, pirmoji Lietuvos rašliava buvo istorinė ir turėjo
     publicistišką charakterį.
   citata_rodoma: ""
@@ -118,6 +106,24 @@ Rašliava apibūdinama kaip istorinė, o jos publicistinis pobūdis išryškėja
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
+- c-004
+  santrauka: '479 Spaudė „Šviesos" spaustuvė Kaune Istoriškoji mūsų rašliava paskutiniaisiais metais gerokai paūgėjo.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    479
+    Spaudė „Šviesos" spaustuvė Kaune
+
+    Istoriškoji mūsų rašliava paskutiniaisiais metais gerokai pa-
+    ūgėjo. Bet ligi šiol dar niekas nebuvo bandęs paruošti platesnę
+    mūsų tautos gyvenimo kelio apžvalgą, kuri sujungtų seniausiųjų
+    ir naujųjų laikų įvykius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
 
 ## Šaltiniai ir įrodymai
 

@@ -34,26 +34,25 @@ Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis su Maskva pali
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vytautas prekybos reikalus gynė ir 1414–1418 m. paliaubų pasitarimuose Grabove.'
+  teiginys: 'Lietuvos vyriausybės siūlyta laikinoji demarkacijos linija turėjo eiti per Grabovą, Augustavą ir Stabiną.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Toliau Vytautas prekybos reikalus gynė beveik visose su Ordinu padarytose sutartyse (Salyno, Racionžo, Torno), pasita­ rimuose paliaubų metu 1414—1418 (Grabove, Brodnicoje, Ve­ (^1) ) Hirt.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vytautas prekybos reikalus gynė ir 1414–1418 m. paliaubų pasitarimuose Grabove.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: 'Lietuvos vyriausybės siūlyta laikinoji demarkacijos linija turėjo eiti per Grabovą, Augustavą ir Stabiną.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Darydamas su jais atskiras sutartis, jis didino savo iždą
-    auksu, sidabru, audimais, brangiais kailiais, ką vėliau duosniai
-    dalindavo^1 ). Jis gynė pirklių reikalus, padėjo išieškoti skolas,
-    reikalavo atlyginti nuskriaustų pirklių šeimynoms^2 ).
-    Toliau Vytautas prekybos reikalus gynė beveik visose su
-    Ordinu padarytose sutartyse (Salyno, Racionžo, Torno), pasita­
-    rimuose paliaubų metu 1414—1418 (Grabove, Brodnicoje, Ve­
-
-    (^1) ) Hirt.
+    Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis
+    su Maskva paliko sieną nustatyti Lietuvos tiesioginiam susita-
+    rimu su Lenkija, mūsų vyriausybė čia pasiūlė laikinę demar-
+    kacijos liniją, kuri eitų per Grabovą — Augustavą — Stabiną.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -61,6 +60,22 @@ Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis su Maskva pali
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Toliau Vytautas prekybos reikalus gynė beveik visose su Ordinu padarytose sutartyse (Salyno, Racionžo, Torno), pasita­ rimuose paliaubų metu 1414—1418 (Grabove, Brodnicoje, Ve­ (^1) ) Hirt.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Toliau Vytautas prekybos reikalus gynė beveik visose su
+    Ordinu padarytose sutartyse (Salyno, Racionžo, Torno), pasita­
+    rimuose paliaubų metu 1414—1418 (Grabove, Brodnicoje, Ve­
+
+    (^1) ) Hirt.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Laikotarpiai

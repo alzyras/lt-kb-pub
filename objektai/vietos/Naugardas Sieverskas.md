@@ -12,9 +12,10 @@ datos:
   - '1408 m.'
   - '1936 m.'
   - '2026 m.'
-periodas: 'LDK laikotarpis'
+periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
   - 'LDK'
+  - 'modernioji Lietuva'
 amziai:
   - 'XIV'
   - 'XV'
@@ -34,29 +35,39 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Sieversko Naugardo kunigaikštis Dimitras Kaributas pirmasis pakėlė ginklą prieš Vytautą.'
+  teiginys: 'Naugardas Sieverskas buvo viena iš užimtų Dniepro ir Desnos upyno kunigaikštysčių.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Numalšinęs Volynijos kunigaikštį Feodorą, Vytautas pavedė jam valdyti Sieversko Naugardą.'
+  teiginys: 'Švitrigaila, pasprukęs į Polocką, paėmė į savo valdžią Naugardo Sieversko sritį.'
   pagrindžia:
     - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Starodubas ir Okos paupiai.'
+  pagrindžia:
+    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-004
+  teiginys: 'Dėl neaiškios laikysenos ir kitas Jogailos brolis -— Briansko ir Naugardo — Sie­ versko kunigaikštis Dimitras Kaributas 1393 pavasarį kautynėse buvo nugalėtas.'
+  pagrindžia:
+    - c-004
+- t-005
+  teiginys: 'Bet po Raciąžo taikos Švitrigaila grįžo pas Vytautą ir tuoj gavo valdyti Briansko ir Severijos (Naugardo Seversko ir Černigovo) kunigaikštijas, nes ten buvo ką tik miręs (1404) Kaributas (Dimitras) Algirdaitis.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Sieversko Naugardo kunigaikštis Dimitras Kaributas pirmasis pakėlė ginklą prieš Vytautą.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: 'Naugardas Sieverskas buvo viena iš užimtų Dniepro ir Desnos upyno kunigaikštysčių.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tas jų nesutarimas ir bus buvusi vie­
-    na iš priežasčių, kuri padėjo Vytautui juos numalšinti.
-    Pirmas prieš Vytautą pakėlė ginklą Sieversko - Naugar­
-    do kunigaikštis Dimitras Kaributas, kuris buvo sukilęs prieš
-    Vytauto tėvą Kęstutį ir atsisakęs mokėti jam duoklę. Jis įsi­
-    veržė Lietuvos gilumon ir buvo besirengiąs eiti į Vilnių.
+    Čia jis užėmė visas Dniepro ir Desnos upyno kunigaikštystes — Brianską, Trubčevską, Nau-
+    gardą Sieverską, ir kt.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -65,14 +76,14 @@ tags:
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Numalšinęs Volynijos kunigaikštį Feodorą, Vytautas pavedė jam valdyti Sieversko Naugardą.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: 'Švitrigaila, pasprukęs į Polocką, paėmė į savo valdžią Naugardo Sieversko sritį.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Sekančiais metais sukilo ir Volynijos kun. Feodoras, Liu­
-    barto sūnus. Vytautas greit ir jį numalšino. Jo žemes pasili­
-    ko sau, o jam pavedė valdyti Sieversko - Naugardą. Bet jis čia
-    neilgai pabuvęs irgi pabėgo į Vengriją, iš kur abu su Švitrigaila
-    susižinodavo su Ordinu, ruošdami Vytautui pinkles.
+    Tačiau sąmokslas ne visai pasisekė: Švitrigaila suskubo pasprukti
+    į Polocką ir paimti į savo valdžią Polocko, Vitebsko, Smolensko,
+    Naugardo Sieversko, Černigovo ir Kijevo sritis; tuo būdu Zig-
+    mantui, paskelbtam didžiuoju kunigaikščiu, be tikrosios Lietu-
+    vos, liko tiktai Palenkės, Pagirio ir Minsko žemės.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -80,6 +91,55 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Starodubas ir Okos paupiai.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Sta-
+    rodubas ir Okos paupiai. Taigi Maskvos sienos jau siekė Dniep-
+    rą.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Dėl neaiškios laikysenos ir kitas Jogailos brolis -— Briansko ir Naugardo — Sie­ versko kunigaikštis Dimitras Kaributas 1393 pavasarį kautynėse buvo nugalėtas.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Dėl neaiškios
+    laikysenos ir kitas Jogailos brolis -— Briansko ir Naugardo — Sie­
+    versko kunigaikštis Dimitras Kaributas 1393 pavasarį kautynėse
+    buvo nugalėtas. Jis nebeteko ir savo valdos.
+
+    (^2) **PSRL, 22, 203 : « .
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: 'Bet po Raciąžo taikos Švitrigaila grįžo pas Vytautą ir tuoj gavo valdyti Briansko ir Severijos (Naugardo Seversko ir Černigovo) kunigaikštijas, nes ten buvo ką tik miręs (1404) Kaributas (Dimitras) Algirdaitis.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Bet po Raciąžo taikos Švitrigaila
+    grįžo pas Vytautą ir tuoj gavo valdyti Briansko ir Severijos (Nau-
+    gardo Seversko ir Černigovo) kunigaikštijas, nes ten buvo ką tik
+    miręs (1404) Kaributas (Dimitras) Algirdaitis. Sukeldamas maištą
+    tarp didžiajai Lietuvos kunigaikštijai paklususių rytų ir pietų
+    Rusios kunigaikščių (kryžiuočiai apie Švitrigailos užuomačias jau
+    turėjo žinių 1408.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Laikotarpiai

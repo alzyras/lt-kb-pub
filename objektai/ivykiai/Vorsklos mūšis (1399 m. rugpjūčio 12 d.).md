@@ -49,26 +49,42 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vytautas 5 dienas stovėjo kitoje Vorsklos pusėje, įtvirtintoje stovykloje su geležinėmis grandinėmis kaustytais vežimais, su daugeliu patrankėlių (piščalių), patrankų, „arbaletų“.'
+  teiginys: 'Pralaimėjimas prie Vorsklos buvo didelis smūgis Vytautui ir aptemdė jo ankstesnius pasisekimus.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: '1399 m. rugpjūčio 12 d., likus dviem valandoms iki saulėlydžio, prasidėjo Vorsklos mūšis.'
+  teiginys: 'Vytautas 5 dienas stovėjo kitoje Vorsklos pusėje, įtvirtintoje stovykloje su geležinėmis grandinėmis kaustytais vežimais, su daugeliu patrankėlių (piščalių), patrankų, „arbaletų“.'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 - t-003
-  teiginys: 'Vorsklos kautynėse daug lėmė Aukso ordos karių kiekybinė persvara.'
+  teiginys: '1399 m. rugpjūčio 12 d., „dvi valandos iki saulėlydžio“ prasidėjo „didžiausias mūšis“.'
   pagrindžia:
     - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+- t-004
+  teiginys: 'Mūšio padariniai Visų trijų Vytauto žygių, Vorsklos kautynių įvykiai apibendrinti Detmaro Liubeko kronikos tęsinyje: tuo metu lietuviai prieš totorius kariavę tris kartus, dvejas kautynes laimėję, o prie Vorsklos patyrę nesėkmę; to meto žiniomis, tuose.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
+  santrauka: 'Pralaimėjimas prie Vorsklos buvo didelis smūgis Vytautui ir aptemdė jo ankstesnius pasisekimus.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Vytautas susilaukė negirdėto smūgio. Gal būt, jo pirmieji
+    pasisekimai su totoriais per daug jį išdrąsino, ir todėl jis, verž­
+    te verždamasis į kovą, per maža buvo atsargus. Vytauto
+    žvaigždė, taip šviesi ir taip aukštai iškilusi, prie Vorsklos apte­
+    mo.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
   santrauka: 'Vytautas 5 dienas stovėjo kitoje Vorsklos pusėje, įtvirtintoje stovykloje su geležinėmis grandinėmis kaustytais vežimais, su daugeliu patrankėlių (piščalių), patrankų, „arbaletų“.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -82,15 +98,15 @@ Nenurodyta
     vimą, pareikalavo Lietuvos pinigus žymėti
     Ordos ženklais. Tuomet Vytautas įsakė
     savo kariams ruoštis kautynėms.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
-- c-002
-  santrauka: '1399 m. rugpjūčio 12 d., likus dviem valandoms iki saulėlydžio, prasidėjo Vorsklos mūšis.'
+    - t-002
+- c-003
+  santrauka: '1399 m. rugpjūčio 12 d., „dvi valandos iki saulėlydžio“ prasidėjo „didžiausias mūšis“.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1399 m. rugpjūčio 12 d., „dvi valan-
@@ -99,15 +115,15 @@ Nenurodyta
     riuomenė buvo akimis neaprėpiama, prieš
     kurią Vytauto ir krikščionių kunigaikščių
     pulkai atrodė smulkia saujele.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Vorsklos kautynėse daug lėmė Aukso ordos karių kiekybinė persvara.'
+    - t-003
+- c-004
+  santrauka: 'Mūšio padariniai Visų trijų Vytauto žygių, Vorsklos kautynių įvykiai apibendrinti Detmaro Liubeko kronikos tęsinyje: tuo metu lietuviai prieš totorius kariavę tris kartus, dvejas kautynes laimėję, o prie Vorsklos patyrę nesėkmę; to meto žiniomis, tuose.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mūšio padariniai
@@ -125,13 +141,13 @@ Nenurodyta
     prarado apie 14 savo kariuomenės.
     Vorsklos kautynėse daug lėmė Aukso
     ordos karių kiekybinė persvara.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-003
+    - t-004
 
 ## Ryšiai
 ### Laikotarpiai

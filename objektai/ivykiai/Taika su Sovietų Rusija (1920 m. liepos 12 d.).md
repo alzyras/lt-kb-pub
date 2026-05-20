@@ -42,22 +42,25 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: '1920 m. liepos 12 d. Lietuva su Sovietų Rusija sudarė taikos sutartį, kuria Sovietų Rusija pripažino Lietuvos nepriklausomybę.'
+  teiginys: 'Taika su Sovietų Rusija buvo pasirašyta 1920 m. liepos 12 d. Maskvoje.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'PREILIAI A 1920 m. liepos 12 d. Lietuva su Sovietų Rusija sudarė taikos sutartį.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1920 m. liepos 12 d. Lietuva su Sovietų Rusija sudarė taikos sutartį, kuria Sovietų Rusija pripažino Lietuvos nepriklausomybę.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  santrauka: 'Taika su Sovietų Rusija buvo pasirašyta 1920 m. liepos 12 d. Maskvoje.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    PREILIAI A
-
-    1920 m. liepos 12 d. Lietuva su Sovietų Rusija sudarė
-    taikos sutartį. Sovietų Rusija pripažino Lietuvos nepriklausomybę.
-    Buvo nustatyta Lietuvos siena.
+    Taika su Sovietų Rusija buvo pasirašyta 1920 metų liepos
+    mėn. 12 d. Maskvoje. Rusija pripažino Lietuvos atsiskyrimą
+    ir visišką jos nepriklausomybę lietuvių gyvenamoje teritorijoje
+    su Vilniaus sostine ir Gardinu.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -65,6 +68,22 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'PREILIAI A 1920 m. liepos 12 d. Lietuva su Sovietų Rusija sudarė taikos sutartį.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    PREILIAI A
+
+    1920 m. liepos 12 d. Lietuva su Sovietų Rusija sudarė
+    taikos sutartį. Sovietų Rusija pripažino Lietuvos nepriklausomybę.
+    Buvo nustatyta Lietuvos siena.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Laikotarpiai

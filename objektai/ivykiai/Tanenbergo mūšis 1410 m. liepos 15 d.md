@@ -68,15 +68,69 @@ Nenurodyta
 
 ## Teiginiai
 - t-009
-  teiginys: 'Prieš Tanenbergo mūšį kryžiuočių didžiojo magistro pasiuntiniai atnešė du nuogus kardus.'
+  teiginys: 'Žalgirio mūšis buvo vienas didžiausių viduramžių Europos mūšių ir pakeitė jėgų balansą regione.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-010
+  teiginys: 'Kryžiuočių kariuomenė kelią nuo Löbau iki Grün­ valdo (22—25 klm.) turėjo atlikti tą audringą naktį, nes liepos mėn.'
+  pagrindžia:
+    - c-002
+- t-011
+  teiginys: 'Pasiuntiniai pareiškė, kad šituos du kardus atnešė kryžiuočių didžiojo magistro liepiami.'
+  pagrindžia:
+    - c-003
+- t-012
+  teiginys: 'Ir tuo būdu prisiartino Vokiečių Ordinui lemianti valanda: 1410 m. liepos 15 d. Žalgirio laukuo­ se ištiko didelė ir žiauri kova lietuvių ir lenkų suvienytų jėgų — su Ordinu ir jo gausingais Vakarų Europos svečiais.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Prieš Tanenbergo mūšį kryžiuočių didžiojo magistro pasiuntiniai atnešė du nuogus kardus.'
+  santrauka: 'Žalgirio mūšis buvo vienas didžiausių viduramžių Europos mūšių ir pakeitė jėgų balansą regione.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Po Žalgirio mūšio kryžiuočiai
+    jau niekada nebekėlė grėsmės Lietuvos
+    valstybingumui. Ilgainiui Ordinas nustojo
+    egzistuoti. Vokiečių Prūsija tapo Lenkijos
+    karūnos vasale. Taip baigėsi vienas di-
+    džiausių viduramžių Europos mūšių, am-
+    žininkų vadintas „didžiuoju“, pakeitęs jėgų
+    balansą visame regione.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-009
+- c-002
+  santrauka: 'Kryžiuočių kariuomenė kelią nuo Löbau iki Grün­ valdo (22—25 klm.) turėjo atlikti tą audringą naktį, nes liepos mėn.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Ir kai karalius ėjo mels­
+    tis (galėjo būti ryto kokia 10 valanda), jam buvo pranešta, kad
+    Grünvaldo (Žalgirio) apylinkėse pasirodžiusi priešų vėliava, po
+    jos ir kita. Tai rodė, kad kryžiuočiai norėjo užkirsti sąjungi­
+    ninkams kelią į Alenšteiną ir atvyko į Grünvaldo ir Tannenbergo
+    apylinkes. Kryžiuočių kariuomenė kelią nuo Löbau iki Grün­
+    valdo (22—25 klm.) turėjo atlikti tą audringą naktį, nes liepos
+    mėn. 14 d. jie dar buvo Löbau. Taigi, jie į Grünvaldą atvyko
+    pavargę. Kryžiuočiai net galėjo atvykti kiek vėliau už sąjun­
+    gininkus. Dabar abiejų pusiu kariuomenės jau beveik susitiko.
+    Grünvaldo arba Žalgirio apylinkės turėjo pasidaryti kautynių
+    lauku.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+- c-003
+  santrauka: 'Pasiuntiniai pareiškė, kad šituos du kardus atnešė kryžiuočių didžiojo magistro liepiami.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Įėjo Vengrijos
@@ -86,13 +140,29 @@ Nenurodyta
     magistras prašęs priimti tuos du kardu, kaipo pagalbą būsimam
     susirėmimui ir su tais ginklais stoti drąsiai į kautynes at­
     viram lauke, bet nesislapstyti giriose, kaip iki šiol.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-009
+    - t-011
+- c-004
+  santrauka: 'Ir tuo būdu prisiartino Vokiečių Ordinui lemianti valanda: 1410 m. liepos 15 d. Žalgirio laukuo­ se ištiko didelė ir žiauri kova lietuvių ir lenkų suvienytų jėgų — su Ordinu ir jo gausingais Vakarų Europos svečiais.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Ir tuo būdu prisiartino Vokiečių
+    Ordinui lemianti valanda: 1410 m. liepos 15 d. Žalgirio laukuo­
+    se ištiko didelė ir žiauri kova lietuvių ir lenkų suvienytų jėgų —
+    su Ordinu ir jo gausingais Vakarų Europos svečiais. Kryžiuo­
+    čių galybė buvo sutriuškinta.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
 
 ## Ryšiai
 ### Laikotarpiai

@@ -31,25 +31,36 @@ menės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimnazijose).
 - t-001
   teiginys: 'Voroneže įsteigtose lietuviškose gimnazijose Lietuvių Komitetas organizavo jaunimo mokymą.'
   pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Voroneže įsteigtose lietuviškose gimnazijose Lietuvių Komitetas organizavo jaunuomenės mokymą.'
-  pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Lietuvių tremtiniai Rusijoje Lietuvių Komitetas, persikėlęs į Petrapilį (dabartinį Leningradą), organizavo ne tik tremtinių šelpimą, bet ir visos jaunuomenės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimnazijose).'
+  pagrindžia:
+    - c-002
 - t-003
-  teiginys: 'Voroneže sukurta Aukščiausioji Visos Rusijos Lietuvių Tautos Taryba toliau skleidė nepriklausomybės šūkį.'
+  teiginys: 'Nepriklausomybės šūkį toliau skleidė naujai sukurtoji Voroneže Aukščiausioji Visos Rusijos Lietuvių Tautos Taryba, kurią sudarė įvairių partijų atstovai, sušaukti į suvažiavimą trijų pasižymėjusių vyrų — Pr.'
   pagrindžia:
     - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Voroneže įsteigtose lietuviškose gimnazijose Lietuvių Komitetas organizavo jaunuomenės mokymą.'
+  santrauka: 'Voroneže įsteigtose lietuviškose gimnazijose Lietuvių Komitetas organizavo jaunimo mokymą.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    **Lietuvių Komitetas,** persikėlęs į Petrapilį (dabartinį Lenin-
+    gradą), organizavo ne tik tremtinių šelpimą, bet ir visos jaunuo-
+    menės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimna-
+    zijose).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Lietuvių tremtiniai Rusijoje Lietuvių Komitetas, persikėlęs į Petrapilį (dabartinį Leningradą), organizavo ne tik tremtinių šelpimą, bet ir visos jaunuomenės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimnazijose).'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lietuvių tremtiniai Rusijoje
@@ -58,50 +69,28 @@ menės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimnazijose).
     gradą), organizavo ne tik tremtinių šelpimą, bet ir visos jaunuo-
     menės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimna-
     zijose). Studentams buvo duodamos pašalpos universitetuose ir
-    steigiami bendrabučiai. Tuomet ir seniau išblaškyti po plačiąją
-    Rusiją inteligentai buvo suburti į tautos pajėgų ruošiamąjį darbą
-    būsimajai Lietuvai.
-  citata_rodoma: ""
+    steigiami bendrabučiai.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-- c-002
-  santrauka: 'Voroneže įsteigtose lietuviškose gimnazijose Lietuvių Komitetas organizavo jaunimo mokymą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **Lietuvių Komitetas,** persikėlęs į Petrapilį (dabartinį Lenin-
-    gradą), organizavo ne tik tremtinių šelpimą, bet ir visos jaunuo-
-    menės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimna-
-    zijose). Studentams buvo duodamos pašalpos universitetuose ir
-    steigiami bendrabučiai. Tuomet ir seniau išblaškyti po plačiąją
-    Rusiją inteligentai buvo suburti į tautos pajėgų ruošiamąjį darbą
-    būsimajai Lietuvai.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
 - c-003
-  santrauka: 'Voroneže sukurta Aukščiausioji Visos Rusijos Lietuvių Tautos Taryba toliau skleidė nepriklausomybės šūkį.'
+  santrauka: 'Nepriklausomybės šūkį toliau skleidė naujai sukurtoji Voroneže Aukščiausioji Visos Rusijos Lietuvių Tautos Taryba, kurią sudarė įvairių partijų atstovai, sušaukti į suvažiavimą trijų pasižymėjusių vyrų — Pr.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Nesutikimas toks bu-
-    vo griežtas, kad kairioji mažuma išėjo ir išardė seimą. Tada iš-
-    iro ir bendroji Tautos Taryba. Nepriklausomybės šūkį
+    Nepriklausomybės šūkį
     toliau skleidė naujai sukurtoji Voroneže Aukščiausioji Vi-
     sos Rusijos Lietuvių Tautos Taryba, kurią su-
     darė įvairių partijų atstovai, sušaukti į suvažiavimą trijų pasižy-
     mėjusių vyrų — Pr.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
 

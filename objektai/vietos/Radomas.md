@@ -31,21 +31,26 @@ Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumen
 
 ## Teiginiai
 - t-001
-  teiginys: 'Dėl paskutinės unijos buvo susitarta Vilniuje ir Radome, todėl aktas vadintinas Vilniaus-Radomo unija.'
+  teiginys: 'Lenkų bajorai Vilniaus ir Radomo susitarimo dokumentą surašė Radome.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Paskutinę uniją mes įpratę vadinti vilniške, kas ne visiškai teisinga, nes dėl tos unijos buvo susitarta Vilniuj ir Radome.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Dėl paskutinės unijos buvo susitarta Vilniuje ir Radome, todėl aktas vadintinas Vilniaus-Radomo unija.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: 'Lenkų bajorai Vilniaus ir Radomo susitarimo dokumentą surašė Radome.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Paskutinę uniją mes įpratę vadinti vilniške, kas ne visiškai
-    teisinga, nes dėl tos unijos buvo susitarta Vilniuj ir Radome.
-    Todėl ir tas aktas vadintinas Vilniaus-Radomo unija.
-    Pirmiausia susipažinsim su Vytauto duotu dokumentu^2 ).
+    Vytauto ir Lietuvos bajorų
+    dokumentai buvo parašyti Vilniuje; Jogailos dokumentas yra žu-
+    vęs, tad nežinia, kur jis duotas; lenkų bajorai savo dokumentą su-
+    rašė Radome. Todėl šis susitarimas yra vadinamas Vilniaus
+    Radomo susitarimu.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -53,6 +58,21 @@ Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumen
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Paskutinę uniją mes įpratę vadinti vilniške, kas ne visiškai teisinga, nes dėl tos unijos buvo susitarta Vilniuj ir Radome.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Paskutinę uniją mes įpratę vadinti vilniške, kas ne visiškai
+    teisinga, nes dėl tos unijos buvo susitarta Vilniuj ir Radome.
+    Todėl ir tas aktas vadintinas Vilniaus-Radomo unija.
+    Pirmiausia susipažinsim su Vytauto duotu dokumentu^2 ).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Laikotarpiai

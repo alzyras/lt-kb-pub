@@ -36,21 +36,15 @@ Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Lietuvos seimas liepos 30 d. ratifikavo konvenciją.'
+  teiginys: 'Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d. 4.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Lietuvos seimas liepos 30 d. ratifikavo konvenciją.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Ket-
-    virtoji dalis liečia tranzitą upe ir geležinkeliais. Pagaliau
-    penktoje dalyje signatarai apsiima pripažinti po ratifikacijos
-    teisėtais Lietuvos vyriausybės aktus, kuriais ji palaikė tvarką šalyje.
     Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -60,21 +54,17 @@ Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Lietuvos seimas liepos 30 d. ratifikavo konvenciją.'
+  santrauka: 'Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d. 4.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Ket-
-    virtoji dalis liečia tranzitą upe ir geležinkeliais. Pagaliau
-    penktoje dalyje signatarai apsiima pripažinti po ratifikacijos
-    teisėtais Lietuvos vyriausybės aktus, kuriais ji palaikė tvarką šalyje.
     Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.
 
     **4.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
 

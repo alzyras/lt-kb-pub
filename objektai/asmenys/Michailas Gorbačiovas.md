@@ -33,15 +33,50 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
 
 ## Teiginiai
 - t-001
-  teiginys: '1991 m. sausio 10 d. M. Gorbačiovas pareikalavo atkurti SSRS ir Lietuvos SSR konstitucijų galiojimą.'
+  teiginys: 'Michailo Gorbačiovo pertvarkos politikos pradžioje Lietuvoje visuomenės nepasitenkinimas didėjo, kol ji pati ėmėsi iniciatyvos.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Gorbačiovas ultimatyviai pareikalavo „nedelsiant ir visiškai atkurti sSRS ir Lietuvos ssR konstitucijų galiojimą“.'
+  pagrindžia:
+    - c-002
+- t-003
+  teiginys: 'Gorbačiovas buvo izoliuotas Kryme, tačiau kovai prieš komunistinius perversmininkus vadovauti ėmė neseniai išrinktas Rusijos respublikos prezidentas Borisas Jelcinas, po demokratijos idėjomis sutelkęs Rusijos žmones, jis sugebėjo priversti kapituliuoti.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1991 m. sausio 10 d. M. Gorbačiovas pareikalavo atkurti SSRS ir Lietuvos SSR konstitucijų galiojimą.'
+  santrauka: 'Michailo Gorbačiovo pertvarkos politikos pradžioje Lietuvoje visuomenės nepasitenkinimas didėjo, kol ji pati ėmėsi iniciatyvos.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    KGB numeriais pažymėjo eisenos lyderius
+
+    VI s k y r i u s
+    DAINUOJANTI
+    REVOLIUCIJA
+    SU SĄJŪDŽIU UŽ LIETUVĄ
+    S
+    SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos
+    politiką, Lietuvoje, kitaip nei Maskvoje, Ukrainoje ar
+    Gruzijoje, spengė tyla – pilki LKP CK pirmieji sekretoriai Petras Griš-
+    kevičius ir jį pakeitęs Rimgaudas Songaila laikėsi pasyviai, valdžios va-
+    džias perdavę maskviečiui, lietuviškai nekalbančiam antrajam sekretoriui
+    Nikolajui Mitkinui, kuris siekė „Lietuvą padaryti internacionalinę“. LKP
+    miestų ir rajonų komitetų sekretoriai toliau vykdė CK nurodymus, pro-
+    vincijoje niekas nesikeitė, visuomenės nepasitenkinimas didėjo, kol ga-
+    liausiai ji pati ėmėsi iniciatyvos.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Gorbačiovas ultimatyviai pareikalavo „nedelsiant ir visiškai atkurti sSRS ir Lietuvos ssR konstitucijų galiojimą“.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1991 m.
@@ -63,13 +98,33 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
     ultimatyviai pareikalavo „nedelsiant ir
     visiškai atkurti sSRS ir Lietuvos ssR kons-
     titucijų galiojimą“.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
+    - t-002
+- c-003
+  santrauka: 'Gorbačiovas buvo izoliuotas Kryme, tačiau kovai prieš komunistinius perversmininkus vadovauti ėmė neseniai išrinktas Rusijos respublikos prezidentas Borisas Jelcinas, po demokratijos idėjomis sutelkęs Rusijos žmones, jis sugebėjo priversti kapituliuoti.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Prasidėjus perversmui Maskvoje, atostogaujantis
+    M. Gorbačiovas buvo izoliuotas Kryme, tačiau kovai prieš ko-
+    munistinius perversmininkus vadovauti ėmė neseniai išrinktas
+    Rusijos respublikos prezidentas Borisas Jelcinas, po demokratijos
+    idėjomis sutelkęs Rusijos žmones, jis sugebėjo priversti kapituliuoti
+    Maskvos pučistus.
+
+    Prasidėjus perversmui Maskvoje, suaktyvėjo sovietų kariškių vei-
+    kimas Lietuvoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Laikotarpiai

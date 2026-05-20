@@ -34,21 +34,28 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Jaunutis iš Vilniaus buvo išvytas jėga.'
+  teiginys: 'Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie tėvų Vilniuje.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Jam mirus, Vilniuje, tur būt, be jokio pa­ skyrimo kunigaikščiu liko jauniausias sūnus Jaunutis.'
+  pagrindžia:
+    - c-002
+- t-003
+  teiginys: 'Jaunutis iš Vilniaus buvo išvytas jėga.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Jaunutis iš Vilniaus buvo išvytas jėga.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: 'Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie tėvų Vilniuje.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Jaunutis iš Vilniaus buvo išvytas jėga. Išsyk jis pabėgo
-    ieškoti pagalbos į Maskvą, bet vėliau su broliais susitarė ir
-    gavo valdyti Zaslaulį. Algirdas gi su Kęstučiu pasidalino
-    sunkų krašto vadovavimo darbą pusiau.
+    Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs
+    jokios srities, o gyveno prie tėvų Vilniuje. Tėvui mirus, jis
+    automatiškai pasidarė Vilniaus ir gretimųjų sričių valdovu.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -56,6 +63,36 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Jam mirus, Vilniuje, tur būt, be jokio pa­ skyrimo kunigaikščiu liko jauniausias sūnus Jaunutis.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Jam mirus, Vilniuje, tur būt, be jokio pa­
+    skyrimo kunigaikščiu liko jauniausias sūnus Jaunutis. Vilniu­
+    je jis išsilaikė iki 1345 met., kada buvo iš ten pašalintas Al­
+    girdo ir Kęstučio.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Jaunutis iš Vilniaus buvo išvytas jėga.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Jaunutis iš Vilniaus buvo išvytas jėga. Išsyk jis pabėgo
+    ieškoti pagalbos į Maskvą, bet vėliau su broliais susitarė ir
+    gavo valdyti Zaslaulį. Algirdas gi su Kęstučiu pasidalino
+    sunkų krašto vadovavimo darbą pusiau.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Laikotarpiai

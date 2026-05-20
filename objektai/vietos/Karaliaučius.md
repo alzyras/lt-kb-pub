@@ -22,7 +22,6 @@ datos:
   - '1370 m.'
   - '1400 m.'
   - '1430 m.'
-  - '1772 m.'
   - '1864 m.'
   - '1922 m.'
   - '1930 m.'
@@ -35,7 +34,6 @@ amziai:
   - 'XIII'
   - 'XIV'
   - 'XV'
-  - 'XVIII'
   - 'XIX'
   - 'XX'
 date_start: '1255'
@@ -61,45 +59,57 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
 
 ## Teiginiai
 - t-009
-  teiginys: 'Karaliaučiaus, Baigos, Elbingo ir Kulmo pilys liko nesugriautos, nes buvo pačios tvirčiausios.'
+  teiginys: 'Iš Karaliaučiaus ir kitų archyvų Onacevičius buvo prisirankiojęs daug šaltinių.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-010
-  teiginys: 'Vytauto laikais atgijus prekybai Nemunu užsimezgė gyvi ryšiai su Karaliaučiumi ir Dancigu.'
+  teiginys: 'Karaliaučius buvo pastatytas 1255 m. Otokaro II garbei ir vėliau tapo svarbiu ordino atramos tašku kovose prieš lietuvius.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-011
-  teiginys: 'Seniausioji Lietuvos eksporto prekė buvo vaškas, garsus Rygos, Karaliaučiaus ir Dancigo rinkose.'
+  teiginys: 'Karaliaučiuje 1365 m. Būtautas per iškilmingą krikštą gavo Henriko vardą ir išlydėjo ordino kariuomenę į Lietuvą.'
   pagrindžia:
     - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-012
-  teiginys: 'Smarkiai apkarpytas, likęs Lenkijos vasalu, ordinas savo sostinę perkėlė į Karaliaučių.'
+  teiginys: 'Iš pagrindinės ordino žygių bazės Karaliaučiaus kelias iki uždaro lietuvių sodybų ploto buvo gana tolimas.'
   pagrindžia:
     - c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-013
-  teiginys: 'To meto Lietuvos miestuose beveik visi pirkliai buvo vokiečiai, kurie, priešams užplūdus, daugumas išbėgo į Prūsiją, ypač į Karaliaučių.'
+  teiginys: '1400 m. Kalėdoms į Karaliaučių nuvykę kilmingieji buvo apdovanoti druska ir vilnoniais audiniais.'
   pagrindžia:
     - c-005
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-014
+  teiginys: '17 d. (sekmadienį) prie Rudavos bažnytkaimio, netoli Karaliaučiaus, vėl susirinko krūvon.'
+  pagrindžia:
+    - c-006
+- t-015
+  teiginys: 'Jų dau­ giausia parduodavo Vokiečių Ordinui ir Dancigo miestui, o kai­ lius Karaliaučiaus, Dancigo ir Breslavo pirkliams.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Karaliaučiaus, Baigos, Elbingo ir Kulmo pilys liko nesugriautos, nes buvo pačios tvirčiausios.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: 'Iš Karaliaučiaus ir kitų archyvų Onacevičius buvo prisirankiojęs daug šaltinių.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Ordinas atsidūrė dideliam pavojuj. Ypač labai išsi-
-    plėtė sukilimas Prūsuose, kur buvo sunaikintos beveik visos or-
-    dino pilys ir išžudytos jų įgulos. Nesugriautos liko tik Karaliau-
-    čiaus, Baigos, Elbingo ir Kulmo, t. y. pačios tvirtosios pilys.
+    Pagautas iš Vakarų ateinančios roman­
+    tizmo bangos ir vis skatindamas meilę praeičiai, Onacevičius iki
+    savo mirties (1845) Petersburge turėjo artimą kontaktą su savo
+    dideliu gerbėju Simanu Daukantu 50 51.
+    Iš Karaliaučiaus ir kitų archyvų Onacevičius buvo prisirankiojęs
+    daug šaltinių. Bet jo Lietuvos istorijos manuskriptas sulaukė
+    Rotundo veikalo likimo, t. y. dingo, nors ir esąs buvęs testamentu
+    užrašytas J. I. Kraševskiui.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -108,14 +118,15 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   pagrindžia:
     - t-009
 - c-002
-  santrauka: 'Vytauto laikais atgijus prekybai Nemunu užsimezgė gyvi ryšiai su Karaliaučiumi ir Dancigu.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: 'Karaliaučius buvo pastatytas 1255 m. Otokaro II garbei ir vėliau tapo svarbiu ordino atramos tašku kovose prieš lietuvius.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Vytauto laikais, aprimus karams su kryžiuočiais, atgijo pre-
-    kyba Nemunu. Užsimezgė gyvi ryšiai su ordino prekybos cent-
-    rais—Karaliaučium ir Dancigu. Tuo metu rytų Lietuvos, t. y. ru-
-    siškųjų žemių prekyba daugiausia ėjo Dauguva, o tikrosios Lie-
-    tuvos ir jai artimųjų sričių — Nemunu.
+    Daugiau ir tikslesniu žinių yra apie Mindaugo santykius su vo­
+    kiečių ordinu. Prūsuose ordinas sėkmingai tvirtinosi Semboje, kai
+    iš Čekijos atvykusio žygin Otokaro II garbei 1255 m. buvo pasta­
+    tytas Karaliaučius, kuris vėliau kovose prieš lietuvius tapo svarbus
+    atramos taškas. Ordinui toliau rūpėjo per nadruvių, sūduvių ir skal­
+    vių plotus rasti kelią į šiaurę, t. y. į pietų Žemaičius.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -124,14 +135,13 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   pagrindžia:
     - t-010
 - c-003
-  santrauka: 'Seniausioji Lietuvos eksporto prekė buvo vaškas, garsus Rygos, Karaliaučiaus ir Dancigo rinkose.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: 'Karaliaučiuje 1365 m. Būtautas per iškilmingą krikštą gavo Henriko vardą ir išlydėjo ordino kariuomenę į Lietuvą.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    **Eksportuojamos ir importuojamos prekės.** Seniausioji Lietu-
-    vos eksporto prekė buvo vaškas, garsus Rygos, Ka-
-    raliaučiaus ir Dancigo rinkose. Be to, dar labai daug buvo
-    eksportuojama įvairių kailių (kiaunių, vebrų, voverių, lapių
-    ir t.t.).
+    Tad 1365. VII.25 d. Būtautas su 15 šalininkų
+    raiti pabėgo į ordiną. Karaliaučiuje per iškilmingą krikštą gavęs
+    Henriko vardą, Kęstutaitis tuoj išlydėjo į Lietuvą ordino kariuo­
+    menę, kuri atėjo iki pat Vilniaus^18.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -140,15 +150,18 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   pagrindžia:
     - t-011
 - c-004
-  santrauka: 'Smarkiai apkarpytas, likęs Lenkijos vasalu, ordinas savo sostinę perkėlė į Karaliaučių.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: 'Iš pagrindinės ordino žygių bazės Karaliaučiaus kelias iki uždaro lietuvių sodybų ploto buvo gana tolimas.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Smarkiai
-    apkarpytas, likęs Lenkijos vasalu, ordinas savo sostinę per-
-    kėlė į Karaliaučių. Nuo to laiko Karaliaučius buvo sostinė ne
-    tik iki panaikinant ordiną, bet ir įsikūrus vadinamajai Prūsų
-    kunigaikštijai. O Lenkijai Torno taika tekusios žemės išbuvo
-    jos valdžioje iki valstybės padalinimo (1772 m.).
+    Išsidirbo tuomet visa « reysų » sistema, nes reguliariai ir nustatytais
+    terminais į Žemaičius ir Aukštaičius buvo siunčiami judrus ir nedi­
+    deli kariuomenės daliniai, kad jie be vargo pajėgtų išsimaitinti ir
+    rečiau lietuvių apgyventose vietose. Iš pagrindinės ordino žygių
+    bazės Karaliaučiaus kelias iki uždaro lietuvių sodybų ploto buvo
+    gana tolimas. Jis kiek sutrumpėjo, kai reikšmingais 1336 metais,
+    prie Nemuno kryžiuočiams ėmus statytis naujas pilis, nadruvių
+    plote, iš visų pusių supamame didelių miškų masyve, buvo pasta­
+    tyta didelė keturių bokštų pilis Įsrutis (Insterburg).
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -157,14 +170,13 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   pagrindžia:
     - t-012
 - c-005
-  santrauka: 'To meto Lietuvos miestuose beveik visi pirkliai buvo vokiečiai, kurie, priešams užplūdus, daugumas išbėgo į Prūsiją, ypač į Karaliaučių.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: '1400 m. Kalėdoms į Karaliaučių nuvykę kilmingieji buvo apdovanoti druska ir vilnoniais audiniais.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Priešams naikinant miestus,
-    pirkliai išbėgiojo. To meto Lietuvos miestuose beveik visi
-    pirkliai buvo vokiečiai, kurie, priešams užplūdus, daugumas iš-
-    bėgo į Prūsiją, ypač į Karaliaučių.
-    Vazų laikais, be to, dar pablogėjo ir sąlygos prekybai.
+    Ir Žemaičius ordinas siekė
+    sau palenkti dovanomis. 1400 m. Kalėdoms į Karaliaučių nuvykę
+    kilmingieji buvo apdovanoti druska ir vilnoniais audiniais^12 , t. y.
+    to meto Lietuvos branginamomis importo prekėmis.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -172,13 +184,45 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-013
+- c-006
+  santrauka: '17 d. (sekmadienį) prie Rudavos bažnytkaimio, netoli Karaliaučiaus, vėl susirinko krūvon.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Pasidalinę mažais būre­
+    liais ir nuterioję kelias Sambijos krašto sritis, lietuviai 1370 me­
+    tų vasario mėn. 17 d. (sekmadienį) prie Rudavos bažnytkaimio,
+    netoli Karaliaučiaus, vėl susirinko krūvon.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
+- c-007
+  santrauka: 'Jų dau­ giausia parduodavo Vokiečių Ordinui ir Dancigo miestui, o kai­ lius Karaliaučiaus, Dancigo ir Breslavo pirkliams.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Jų dau­
+    giausia parduodavo Vokiečių Ordinui ir Dancigo miestui, o kai­
+    lius Karaliaučiaus, Dancigo ir Breslavo pirkliams. Pastarieji
+    turėjo artimų santykių su Vilniumi, kur Vytautas juos maloniai
+    priiminėdavo. Taip, žemaičiai vieną kartą pardavė Dancigui
+    50 laukinių stumbrų odų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIII amžius]]
 - [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XIX amžius]]
 - [[laikotarpiai/XV amžius]]
-- [[laikotarpiai/XVIII amžius]]
 
 ### Susiję objektai
 - [[objektai/vietos/Dancigas]]

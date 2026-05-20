@@ -51,30 +51,35 @@ Suverenitetas pateikiamas kaip teisinė valstybės teisė valdyti teritoriją ir
 
 ## Teiginiai
 - t-009
-  teiginys: '1940 m. Lietuvos Tarybų respublikos suverenumas citatoje apibūdintas kaip vėl įvykdytas.'
+  teiginys: 'Respublikos suverenumas buvo vis labiau pažeidžiamas.'
+  pagrindžia:
+    - c-002
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-010
+  teiginys: '1940 m. Lietuvos Tarybų respublikos suverenumas buvo apibūdintas kaip vėl įvykdytas.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-010
-  teiginys: 'Jogailos suverenumas buvo siaurinamas, kai jis įsipareigojo be Ordino žinios, patarimo ir valios nepradėti karo.'
+- t-011
+  teiginys: 'Respublikos suverenumas buvo vis labiau pažeidžiamas, ypač per Stanislovo Augusto Poniatovskio elekciją 1764 m.'
   pagrindžia:
     - c-002
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-012
+  teiginys: 'Dubysos sutartyje Jogailos suverenumas buvo siaurinamas.'
+  pagrindžia:
+    - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1940 m. Lietuvos Tarybų respublikos suverenumas citatoje apibūdintas kaip vėl įvykdytas.'
+  santrauka: '1940 m. Lietuvos Tarybų respublikos suverenumas buvo apibūdintas kaip vėl įvykdytas.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Neigdami
-    tikrąją Vasario 16-tosios (1918) akto reikšmę čia tarybiniai istorikai
-    pabrėžė, jog tikrasis Lietuvos valstybingumas tebuvęs atkurtas
-    pasėkoje liaudies masių judėjimo ir proletarinės revoliucijos. Tada
-    Vinco Mickevičiaus-Kapsuko vadovaujama Laikinoji revoliucinė
-    darbininkų ir valstiečių Vyriausybė 1918 m. gruodžio 16 d. mani­
-    festu paskelbė įvedanti Tarybų valdžią Lietuvoje.
     Lietuvos Tarybų respublikos suverenumas, «plačiųjų lietuvių
     tautos masių siekimas »^16 , sukliudytas užsienio intervencijų ir bur­
     žuazinės-fašistinės diktatūros, vėl buvęs įvykdytas 1940 m.
@@ -84,9 +89,30 @@ Suverenitetas pateikiamas kaip teisinė valstybės teisė valdyti teritoriją ir
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-009
+    - t-010
 - c-002
-  santrauka: 'Jogailos suverenumas buvo siaurinamas, kai jis įsipareigojo be Ordino žinios, patarimo ir valios nepradėti karo.'
+  santrauka: 'Respublikos suverenumas buvo vis labiau pažeidžiamas.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Respublikos suverenumas vis labiau visokiais budais būdavo
+    pažeidžiamas. Tipiškai atsivėrė sustiprėjusi Rusijos įtaka per Au­
+    gusto III-jo (1733 m.) ir ypač per Stanislovo Augusto Poniatovskio
+
+
+    ```
+    40 ĮVADAS
+    ```
+    (1764) elekciją
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-009
+    - t-011
+- c-003
+  santrauka: 'Dubysos sutartyje Jogailos suverenumas buvo siaurinamas.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kitu aktu buvo daroma savotiška karinė sąjunga. Jogaila
@@ -101,7 +127,7 @@ Suverenitetas pateikiamas kaip teisinė valstybės teisė valdyti teritoriją ir
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-010
+    - t-012
 
 ## Šaltiniai ir įrodymai
 

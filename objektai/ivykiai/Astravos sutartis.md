@@ -44,21 +44,108 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
 
 ## Teiginiai
 - t-007
-  teiginys: 'Sutartis grąžino Vytautui Lietuvos valdžią didžiojo kunigaikščio teisėmis kaip lėną.'
+  teiginys: '1392 m. rugpjūčio 5 d. Ostrovoje tarp Vytauto ir Jogailos buvo sudaryta taika.'
   pagrindžia:
     - c-002
-    - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-008
-  teiginys: 'Po Ostrovos taikos Jogaila Vilniuje išplėtė Vytauto valdžią visose Lietuvos ir Rusijos žemėse.'
+  teiginys: 'Jogaila grąžino Vytautui Trakus, Gardiną ir Lucką, o Vytautas pasižadėjo Jogailą ir Jadvygą remti kariuomene, turtu ir ginklais.'
   pagrindžia:
     - c-002
+    - c-003
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-009
+  teiginys: 'Sutartis grąžino Vytautui Lietuvos valdžią didžiojo kunigaikščio teisėmis kaip lėną.'
+  pagrindžia:
+    - c-005
+    - c-004
+    - c-001
+    - c-003
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-010
+  teiginys: 'Po Ostrovos Jogaila Vilniuje išplėtė Vytauto valdžią visose Lietuvos ir Rusijos žemėse.'
+  pagrindžia:
+    - c-006
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
+  santrauka: 'Sutartis grąžino Vytautui Lietuvos valdžią didžiojo kunigaikščio teisėmis kaip lėną.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    To pavojaus metu ir iškeliavo į Prūsus Mozūrų kun. Henri­
+    kas. Vytautą rado jis Rittersverdery, berengiantį planus toli­
+    mesniems žygiams. Būdamas Jogailos pasiuntinys, pasiūlė jis
+    savo valdovo vardu Vytautui grįžti, žadėdamas jam grąžinti
+    Lietuvą. Šitą Jogailos ir lenkų kapituliaciją padiktavo ne jų
+    simpatijos Vytautui, bet, kaip mes matėm, sunki Lenkijos ir
+
+    (^1) ) Tuo klausimu žiur. C. ep. V. 81—85 nr., 88—91 nr., 93, 95 nr. ir
+    104 nr.
+    (^2) ) C. ep. V. 94, 96 nr. nr. (^3) ) Jon., 46, 47, (^4) ) Kon., 157.
+
+
+    ```
+    153
+    ```
+    sustiprėjusi Vytauto padėtis. Ir Vytautas, nesitikėdamas tuo
+    tarpu daugiau laimėti bei Henriko prikalbėtas, sulaužė antrą
+    kartą sutartį su Ordinu ir su savo šalininkais sugrįžo į Lietuvą
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-009
+- c-002
+  santrauka: '1392 m. rugpjūčio 5 d. Ostrovoje tarp Vytauto ir Jogailos buvo sudaryta taika.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    sustiprėjusi Vytauto padėtis. Ir Vytautas, nesitikėdamas tuo
+    tarpu daugiau laimėti bei Henriko prikalbėtas, sulaužė antrą
+    kartą sutartį su Ordinu ir su savo šalininkais sugrįžo į Lietuvą.
+    Vytautui grįžus, tarp jo ir Jogailos rugpiūčio mėn. 5 d. Ost­
+    rovoje (Gard.) įvyko taika. Jogaila dovanojo Vytautui ir jo
+    šalininkams jų nusikaltimus, paėmė iš visų ištikimybės priesai­
+    ką ir grąžino Vytautui visą jo tėviškę: Trakus, Gardiną ir dar
+    pridėjo kitas žemes, jų tarpe — Lucką
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-007
+    - t-008
+- c-003
+  santrauka: 'Jogaila grąžino Vytautui Trakus, Gardiną ir Lucką, o Vytautas pasižadėjo Jogailą ir Jadvygą remti kariuomene, turtu ir ginklais.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Vy­
+    tautas dėkojo Jogailai ir Jadvygai už „suteiktas“ dovanas ir
+    išdavė raštą^1 ), pasižadėdamas ir vieno ir kito neapleisti, neieš­
+    koti kitokios valdžios, išskyrus gautąją, ir visokiais būdais juos
+    remti: kariuomene, turtu, ginklais; kovoti su jų visais priešais
+    ir ginti juos; visus ligšiolinius savo priešus Lietuvoj laikyti sa­
+    vo draugais. Čia turėta galvoj Skirgaila. Iš savo pusės išdavė
+    raštą ir kun. Ona, tvirtindama, kad jos vyras sutartį ištesės^2 ).
+    Tai gryni vasalystės pažadai. Tuo būdu Vytautas gavo iš Jo­
+    gailos Lietuvą didž. kunigaikščio teisėmis, kaip lėną. Ši sutar­
+    tis grąžino jam Lietuvos valdžią.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-008
+    - t-009
+- c-004
   santrauka: 'Sutartis grąžino Vytautui Lietuvos valdžią didžiojo kunigaikščio teisėmis kaip lėną.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -73,9 +160,26 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-007
-- c-002
+    - t-009
+- c-005
   santrauka: 'Sutartis grąžino Vytautui Lietuvos valdžią didžiojo kunigaikščio teisėmis kaip lėną.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Jogaila kartu su Vytautu apleidę Ostrovą, atvyko į Vilnių.
+    Čia bebūdamas Jogaila, kaip tai aiškiai liudija Dlugošas ir kiti,
+    ne tik pasodino Vytautą J. Olesnickio vietoje, tuo būdu atiduo­
+    damas jam vietininko valdžią Vilniaus did. kunigaikštijoj, bet
+    dar tą valdžią išplėtė ir, apskritai, visose Lietuvos ir Rusijos
+    žemėse
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-009
+- c-006
+  santrauka: 'Po Ostrovos Jogaila Vilniuje išplėtė Vytauto valdžią visose Lietuvos ir Rusijos žemėse.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Jogaila kartu su Vytautu apleidę Ostrovą, atvyko į Vilnių.
@@ -90,8 +194,7 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-007
-    - t-008
+    - t-010
 
 ## Ryšiai
 ### Laikotarpiai

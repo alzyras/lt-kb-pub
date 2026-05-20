@@ -49,22 +49,47 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
 
 ## Teiginiai
 - t-007
-  teiginys: 'Ties Šiauliais įvyko didelis mūšis, kurį laimėjo lietuviai.'
+  teiginys: 'Šiauliuose, ties dabartine Tilžės ir Vilniaus gatvių sankryža, buvo pagrindinė Šiaulių žemės strateginė kelių sankryža.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-008
+  teiginys: '1794 m. balandžio 16 d. Šiauliuose ir jų apylinkėse sukilimą pradėjo LDK 1-oji Tautinė brigada.'
+  pagrindžia:
+    - c-002
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-009
+  teiginys: 'Spalio 5 d. plk. Virgoličiaus rinktinė iš Kuršėnų persikėlė į Šiaulius.'
+  pagrindžia:
+    - c-003
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-010
+  teiginys: 'Pagrindiniai jų amunicijos sandėliai buvo Šiauliuose ir Žeimelyje, o ginklų - Gubernijoje, Joniškyje ir Šiauliuose.'
+  pagrindžia:
+    - c-004
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-011
+  teiginys: 'Ties Šiauliais įvyko didelis mūšis, kurį laimėjo lietuviai.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Ties Šiauliais įvyko didelis mūšis, kurį laimėjo lietuviai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: 'Šiauliuose, ties dabartine Tilžės ir Vilniaus gatvių sankryža, buvo pagrindinė Šiaulių žemės strateginė kelių sankryža.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    1236 m. kalavijuočiai su svečiais įsiveržė į Lie-
-    tuvą ir žiauriai nusiaubė kraštą. Pajutę susitelkusią lietuvių ka-
-    riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai
-    pastojo jiems kelią. Ties Šiauliais įvyko didelis mūšis, kurį
-    laimėjo lietuviai.
+    Šiaulių žemėje pagrindinė
+    strateginė kelių sankryža yra Šiauliuose
+    (ties dab. Tilžės ir Vilniaus gatvių san-
+    kryža), kur plėtojosi senovės gyvenvietė.
+
+    Labai tikėtina, kad 1236 m. kryžininkų
+    kariuomenės toks būrių pasidalijimo ir su-
+    sirinkimo punktas buvo Šiauliai.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -72,6 +97,78 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-007
+- c-002
+  santrauka: '1794 m. balandžio 16 d. Šiauliuose ir jų apylinkėse sukilimą pradėjo LDK 1-oji Tautinė brigada.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Pirmoji kovų fazė: Vilniaus
+
+    išvadavimas
+
+    1794 m. balandžio 16 d. Šiauliuose ir jo apy-
+    linkėse sukilimą pradėjo LDK 1-oji Tautinė
+    brigada (ankščiau vadinta Kauno husarų).
+    Tuo metu Žemaitijoje praktiškai nebuvo
+    Rusijos kariuomenės.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-008
+- c-003
+  santrauka: 'Spalio 5 d. plk. Virgoličiaus rinktinė iš Kuršėnų persikėlė į Šiaulius.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Spalio 5 d. plk. Virgoličiaus
+    rinktinė iš Kuršėnų per-
+    sikėlė į Šiaulius. Lietuvos
+    vyriausybė negalėjo už-
+    kirsti jai kelio, nes tuo metu
+    Lietuvos kariuomenė dar
+    tęsė kovas su bolševikais Dauguvos fronte.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-009
+- c-004
+  santrauka: 'Pagrindiniai jų amunicijos sandėliai buvo Šiauliuose ir Žeimelyje, o ginklų - Gubernijoje, Joniškyje ir Šiauliuose.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Pagrindiniai jų amunicijos sandėliai
+    buvo Šiauliuose ir Žeimelyje, o ginklų -
+    Gubernijoje, Joniškyje ir Šiauliuose.
+
+    Mūšis
+    1919 m. lapkričio 20 d. fronto vadas
+    plk. ltn. K. Ladyga įsakė pradėti puolimą
+    Radviliškio-Šiaulių kryptimi.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-010
+- c-005
+  santrauka: 'Ties Šiauliais įvyko didelis mūšis, kurį laimėjo lietuviai.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Pajutę susitelkusią lietuvių ka-
+    riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai
+    pastojo jiems kelią. Ties Šiauliais įvyko didelis mūšis, kurį
+    laimėjo lietuviai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
 
 ## Ryšiai
 ### Laikotarpiai

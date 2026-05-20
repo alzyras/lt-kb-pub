@@ -34,27 +34,31 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Viename žygyje buvo pasiektos Įsručio ir Vėluvos apylinkės.'
+  teiginys: 'Vėluvos ir Angerburgo pilys nurodytos kaip įkurtos 1335 metais.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: '(^252) ii skyrius: valstybės iškilimas Jis ordinui atsilygino panašiais teriojimais jo paties žemėse, pasiek­ damas Įsručio ir Vėluvos apylinkes.'
+  pagrindžia:
+    - c-002
+- t-003
+  teiginys: '81 Vechra, upė 287, 312 Vedrošos kautynės 39 Veiviržo upė 180 Vėjukų pilis 227, 235 Velikaja, upė 158 Veliuona 77, 100, 105, 216, 236, 237, 244, 251, 256, 345-347, 352, 353, 357, 358, 360 Vėluva, Prūsuose 250, 252 Vencelis, Čekijos karalius 62, 373, žr.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Viename žygyje buvo pasiektos Įsručio ir Vėluvos apylinkės.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  santrauka: 'Vėluvos ir Angerburgo pilys nurodytos kaip įkurtos 1335 metais.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    (^14) **SRP, II, 533 (Algirdas « cum suis boyaribus et Smyrdens »); 534-
-    536 (Kęstučio dialogas su vyr. magistru).**
-    (^15) **Apie žuvusiųjų skaičius žr. A. Kučinskas,** **_Kęstutis_** **, 69, 73 p.**
-    (^16) **SRP, II, 545-547 p.**
-
-
-    (^252) ii skyrius: valstybės iškilimas
-    Jis ordinui atsilygino panašiais teriojimais jo paties žemėse, pasiek­
-    damas Įsručio ir Vėluvos apylinkes. O kitame žygyje (1365) paėmė
-    ir sunaikino Angerburgo pilį^17.
+    Štai Lietuvai artimesniųjų pilių įkūrimo
+    datos: Klaipėda — 1252 m., Ragainė — 1289 m., Tilžė — 1293 m., Girdava —
+    1325 m., Vėluva ir Angerburgas — 1335 m., Įsrutis ir Röselis — 1337 m.,
+    Lotzenburgas — apie 1340 m., Rastenburgas ir Johanisburgas — 1345 m.,
+    Alenšteinas — 1353 m., Ortelsburgas — taip pat XIV a. vidury, Bišofsburgas—
+    1395 m., Lyka — 1398 m. (miestelis prie jos pradėtas kurti tik 1435 m. ), ir t.t.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -62,6 +66,47 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: '(^252) ii skyrius: valstybės iškilimas Jis ordinui atsilygino panašiais teriojimais jo paties žemėse, pasiek­ damas Įsručio ir Vėluvos apylinkes.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    **
+
+
+    (^252) ii skyrius: valstybės iškilimas
+    Jis ordinui atsilygino panašiais teriojimais jo paties žemėse, pasiek­
+    damas Įsručio ir Vėluvos apylinkes. O kitame žygyje (1365) paėmė
+    ir sunaikino Angerburgo pilį^17.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: '81 Vechra, upė 287, 312 Vedrošos kautynės 39 Veiviržo upė 180 Vėjukų pilis 227, 235 Velikaja, upė 158 Veliuona 77, 100, 105, 216, 236, 237, 244, 251, 256, 345-347, 352, 353, 357, 358, 360 Vėluva, Prūsuose 250, 252 Vencelis, Čekijos karalius 62, 373, žr.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    81
+    Vechra, upė 287, 312
+    Vedrošos kautynės 39
+    Veiviržo upė 180
+    Vėjukų pilis 227, 235
+    Velikaja, upė 158
+    Veliuona 77, 100, 105, 216, 236, 237,
+    244, 251, 256, 345-347, 352, 353,
+    357, 358, 360
+    Vėluva, Prūsuose 250, 252
+    Vencelis, Čekijos karalius 62, 373,
+    žr.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Laikotarpiai

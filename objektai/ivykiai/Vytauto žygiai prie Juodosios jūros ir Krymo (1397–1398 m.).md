@@ -66,29 +66,26 @@ Nenurodyta
 - t-007
   teiginys: '1398 m. antrajame žygyje Vytautas Dniepro žiotyse pastatė Tavanės tvirtovę.'
   pagrindžia:
-    - c-003
+    - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-008
-  teiginys: 'Pasak Ivinskio, 1398 m. žygio metu paimti karaimai, berods, buvo apgyvendinti Lucke ir Naujuosiuose Trakuose.'
-  pagrindžia:
-    - c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-009
-  teiginys: '1397 m. Vytautas, veikiausiai pritariant Jogailai, surengė didelį žygį prie Juodosios jūros ir į Krymą.'
+  teiginys: '1398 m. žygio metu paimti karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose.'
   pagrindžia:
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-009
+  teiginys: 'Atrodo, pritariant Jogailai, kuris iš viso rūpestingai rėmė pusbrolio rytų planus, Vytautas (1397) suruošė didelį žygį prie Juodosios jūros ir Kryman 19 20, kuris tada totorių gyvenime vaidino svarbią rolę.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1397 m. Vytautas surengė didelį žygį prie Juodosios jūros ir į Krymą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Nuo 1397 pamečiui
-    šis atliko į totorius tris žygius. Atrodo, pritariant Jogailai, kuris
+    Atrodo, pritariant Jogailai, kuris
     iš viso rūpestingai rėmė pusbrolio rytų planus, Vytautas (1397)
     suruošė didelį žygį prie Juodosios jūros ir Kryman 19 20, kuris tada
     totorių gyvenime vaidino svarbią rolę. Atsigabenęs iš žygio daug
@@ -103,26 +100,6 @@ Nenurodyta
     - t-005
     - t-006
 - c-002
-  santrauka: '1397 m. Vytautas, veikiausiai pritariant Jogailai, surengė didelį žygį prie Juodosios jūros ir į Krymą.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Atrodo, pritariant Jogailai, kuris
-    iš viso rūpestingai rėmė pusbrolio rytų planus, Vytautas (1397)
-    suruošė didelį žygį prie Juodosios jūros ir Kryman 19 20, kuris tada
-    totorių gyvenime vaidino svarbią rolę. Atsigabenęs iš žygio daug
-    totorių belaisvių ir pabėgėlių, kurių pusę atidavė Jogailai, juos
-    Vytautas įkurdino Trakų kunigaikštijoje. Gavę sau privilegijas iš
-    Vytauto, kuris totorių atmintyje per šimtmečius buvo garbinamas,
-    Lietuvos totoriai išlaikė savo mahometonišką tikėjimą ir papročius,
-    kai tuo tarpu Lenkijoje jie buvo sukrikščioninti ir sulenkinti.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-009
-- c-003
   santrauka: '1398 m. antrajame žygyje Vytautas Dniepro žiotyse pastatė Tavanės tvirtovę.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -137,6 +114,26 @@ Nenurodyta
   pagrindžia:
     - t-007
     - t-008
+- c-003
+  santrauka: 'Atrodo, pritariant Jogailai, kuris iš viso rūpestingai rėmė pusbrolio rytų planus, Vytautas (1397) suruošė didelį žygį prie Juodosios jūros ir Kryman 19 20, kuris tada totorių gyvenime vaidino svarbią rolę.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Atrodo, pritariant Jogailai, kuris
+    iš viso rūpestingai rėmė pusbrolio rytų planus, Vytautas (1397)
+    suruošė didelį žygį prie Juodosios jūros ir Kryman 19 20, kuris tada
+    totorių gyvenime vaidino svarbią rolę. Atsigabenęs iš žygio daug
+    totorių belaisvių ir pabėgėlių, kurių pusę atidavė Jogailai, juos
+    Vytautas įkurdino Trakų kunigaikštijoje. Gavę sau privilegijas iš
+    Vytauto, kuris totorių atmintyje per šimtmečius buvo garbinamas,
+    Lietuvos totoriai išlaikė savo mahometonišką tikėjimą ir papročius,
+    kai tuo tarpu Lenkijoje jie buvo sukrikščioninti ir sulenkinti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 ### Laikotarpiai

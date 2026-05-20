@@ -48,40 +48,44 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
 
 ## Teiginiai
 - t-007
-  teiginys: 'Vytauto laikais, aprimus karams su kryžiuočiais, užsimezgė gyvi prekybos ryšiai su Karaliaučiumi ir Dancigu.'
+  teiginys: 'Dancigas Vytauto laikais minimas tarp prekybos centrų, buvusių netoli Lietuvos.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-008
-  teiginys: 'Seniausioji Lietuvos eksporto prekė buvo vaškas, garsus Rygos, Karaliaučiaus ir Dancigo rinkose.'
+  teiginys: 'Užsimezgė gyvi ryšiai su ordino prekybos centrais—Karaliaučium ir Dancigu.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 - t-009
-  teiginys: '1466 m. Torno taika Lenkijai grąžino Pamarį, Dancigą, Elbingą, Marijenburgą ir visą Varmijos vyskupystę.'
+  teiginys: 'Seniausioji Lietuvos eksporto prekė buvo vaškas, garsus Rygos, Karaliaučiaus ir Dancigo rinkose.'
   pagrindžia:
     - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 - t-010
-  teiginys: 'Po Maksimilijono mirties Dancigas vienintelis iš Lenkijos nepripažino Batoro ir buvo ginklu priverstas jam nusilenkti.'
+  teiginys: 'Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbingą, Marijenburgą ir visą Varmijos vyskupystę.'
   pagrindžia:
     - c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+- t-011
+  teiginys: 'Kadangi netrukus mirė jo konkurentas imperatorius Maksimilijonas, tai jį bematant pripažino visa Lenkija; nepripažino jo tiktai vienintelis pirklių valdomas Dancigo miestas, kurs betgi buvo ginklu priverstas jam nusilenkti.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vytauto laikais, aprimus karams su kryžiuočiais, užsimezgė gyvi prekybos ryšiai su Karaliaučiumi ir Dancigu.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: 'Dancigas Vytauto laikais minimas tarp prekybos centrų, buvusių netoli Lietuvos.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Vytauto laikais, aprimus karams su kryžiuočiais, atgijo pre-
-    kyba Nemunu. Užsimezgė gyvi ryšiai su ordino prekybos cent-
-    rais—Karaliaučium ir Dancigu. Tuo metu rytų Lietuvos, t. y. ru-
-    siškųjų žemių prekyba daugiausia ėjo Dauguva, o tikrosios Lie-
-    tuvos ir jai artimųjų sričių — Nemunu.
+    Tad Vytautas čia labiau pareida­
+    vo ir nuo geografinės valstybės būklės ir nuo politinių bei kul­
+    tūrinių sąlygų.
+    Geografinė jo didingos valstybės būklė prekybai buvo gana
+    patogi, nes jos teritorija siekė Baltijos ir Juodųjų jūrų, su ku­
+    riomis ją jungė platūs Nemuno ir Dniepro baseinai, Pietų Būgo,
+    Dniestro ir kitos upės. Nuo Lietuvos buvo taip pat netoli tokie
+    anų laikų prekybos centrai, kaip D. Naugardas, Dorpatas, Psko­
+    vas, Ryga, Dancigas, Krokuva ir k. Taigi, Vytauto laikų Lie­
+    tuva, jungianti Rytų ir Vakarų Europos kraštus, iš visų pusių
+    buvo apsupta pirklių gyvenamų ir lankomų žemių.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -90,54 +94,67 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
   pagrindžia:
     - t-007
 - c-002
-  santrauka: 'Seniausioji Lietuvos eksporto prekė buvo vaškas, garsus Rygos, Karaliaučiaus ir Dancigo rinkose.'
+  santrauka: 'Užsimezgė gyvi ryšiai su ordino prekybos centrais—Karaliaučium ir Dancigu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    **Eksportuojamos ir importuojamos prekės.** Seniausioji Lietu-
-    vos eksporto prekė buvo vaškas, garsus Rygos, Ka-
-    raliaučiaus ir Dancigo rinkose. Be to, dar labai daug buvo
-    eksportuojama įvairių kailių (kiaunių, vebrų, voverių, lapių
-    ir t.t.).
-  citata_rodoma: ""
+    Vytauto laikais, aprimus karams su kryžiuočiais, atgijo pre-
+    kyba Nemunu. Užsimezgė gyvi ryšiai su ordino prekybos cent-
+    rais—Karaliaučium ir Dancigu. Tuo metu rytų Lietuvos, t.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
 - c-003
-  santrauka: '1466 m. Torno taika Lenkijai grąžino Pamarį, Dancigą, Elbingą, Marijenburgą ir visą Varmijos vyskupystę.'
+  santrauka: 'Seniausioji Lietuvos eksporto prekė buvo vaškas, garsus Rygos, Karaliaučiaus ir Dancigo rinkose.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    ** Seniausioji Lietu-
+    vos eksporto prekė buvo vaškas, garsus Rygos, Ka-
+    raliaučiaus ir Dancigo rinkose. Be to, dar labai daug buvo
+    eksportuojama įvairių kailių (kiaunių, vebrų, voverių, lapių
+    ir t.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-004
+  santrauka: 'Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbingą, Marijenburgą ir visą Varmijos vyskupystę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     1466 m. Torne buvo pasirašyta taika, kuria ordinas
     pasidarė Lenkijos vasalu ir perleido jai daug žemių. Lenkija
     atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte —
     Elbingą, Marijenburgą ir visą Varmijos vyskupystę.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-009
-- c-004
-  santrauka: 'Po Maksimilijono mirties Dancigas vienintelis iš Lenkijos nepripažino Batoro ir buvo ginklu priverstas jam nusilenkti.'
+    - t-010
+- c-005
+  santrauka: 'Kadangi netrukus mirė jo konkurentas imperatorius Maksimilijonas, tai jį bematant pripažino visa Lenkija; nepripažino jo tiktai vienintelis pirklių valdomas Dancigo miestas, kurs betgi buvo ginklu priverstas jam nusilenkti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tad veikiai, atvykęs į Krokuvą, jis karūnavosi ir vedė
-    kunigaikštytę Oną. Kadangi netrukus mirė jo konkurentas im-
+    Kadangi netrukus mirė jo konkurentas im-
     peratorius Maksimilijonas, tai jį bematant pripažino visa Lenki-
     ja; nepripažino jo tiktai vienintelis pirklių valdomas Dancigo
     miestas, kurs betgi buvo ginklu priverstas jam nusilenkti.
     Lietuva iš pradžių visai nepripažino Batoro savo val-
     dovu.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-010
+    - t-011
 
 ## Laikotarpis ir datos
 - tipas: miestas / pilis

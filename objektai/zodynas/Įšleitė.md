@@ -22,26 +22,27 @@ Vartojamos formos: `įšleiti`, `įšleitėj`.
 
 ## Teiginiai
 - t-003
-  teiginys: 'Įšleitė žymi krašto dalį, kurią kalva skiria į pietinę ir šiaurinę įšleites.'
+  teiginys: '`Įšleitė` šiame tekste reiškia geografinę sritį, panašią į pašlaitę, slėnį ar įdubą.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 - t-004
-  teiginys: 'Pietinėje įšleitėje gyvenusius žmones graikai vadino getais arba tyrų getais.'
+  teiginys: 'Autorius įšleite skirsto kraštą į pietinę ir šiaurinę dalis.'
   pagrindžia:
+    - c-003
     - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Įšleitė žymi krašto dalį, kurią kalva skiria į pietinę ir šiaurinę įšleites.'
+  santrauka: '`Įšleitė` šiame tekste reiškia geografinę sritį, panašią į pašlaitę, slėnį ar įdubą.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     kuri kalva dalija tą sluoksnį į dvi įšleiti^75 : į pietinę ir šiaurinę, nuo to, jog visos upės pietinėj įšleitėj
-        teka nuo tos kalvos į Uksinę, arba Juodąją, marę, tarp kurių didžiosios yra: Niperis, Tyrulė ir
-        Isteris, arba Dunojus.
+    teka nuo tos kalvos į Uksinę, arba Juodąją, marę, tarp kurių didžiosios yra: Niperis, Tyrulė ir
+    Isteris, arba Dunojus.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -50,13 +51,27 @@ Vartojamos formos: `įšleiti`, `įšleitėj`.
   pagrindžia:
     - t-003
 - c-002
-  santrauka: 'Pietinėje įšleitėje gyvenusius žmones graikai vadino getais arba tyrų getais.'
+  santrauka: 'Autorius įšleite skirsto kraštą į pietinę ir šiaurinę dalis.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Nuo Uksinių pamarių į šiaurę einant, tame sluoksny krašto yra tyrai, beje, neapregimi laukai
-        per kelias dešimtis mylių, kuriuose auga aukšta žolė taip, jog raito žmogaus negal regėti, per
-        kuriuos teka į Uksine marę upė Tyrulė, nuo tų tyrų taip vadinama; už tų tyrų, juo į šiaurę einant,
-        buvo medės, arba girios.
+    per kelias dešimtis mylių, kuriuose auga aukšta žolė taip, jog raito žmogaus negal regėti, per
+    kuriuos teka į Uksine marę upė Tyrulė, nuo tų tyrų taip vadinama; už tų tyrų, juo į šiaurę einant,
+    buvo medės, arba girios.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
+- c-003
+  santrauka: 'Autorius įšleite skirsto kraštą į pietinę ir šiaurinę dalis.'
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Grekonys abelnai gyventojus, toje pietinėj įšleitėj gyvenančius, vadino
+    getais, arba tyrų getais, nes ypačiai^76 medėse gyvenančius masagetais, nuo žodžio medė, arba
+    mėžė^77 ;
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

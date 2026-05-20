@@ -58,66 +58,66 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 
 ## Teiginiai
 - t-001
-  teiginys: 'Aisčiai vengte vengdavo misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikščiais aisčiai nuolat kovojo.'
+  teiginys: 'Gediminas pradėjo derinti karo veiksmus prieš kryžiuočius su Lenkija.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Pirmiausia kurį nors Gediminaitį išsirinkdavo sau valdovu Lietuva, o paskui jį išsirinkdavo ir Lenkija.'
+  teiginys: 'Lietuvos ir Lenkijos visuomenės, dalyvaujant karaliui, bandė gelbėti valstybę ir ėmėsi pertvarkų, vedusių į Ketverių metų seimo veiklą.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: 'Su Lietuvos kaimynais reikalus tvarkydavo Lietuvos ministeriai, o su Lenkijos kaimynais - Lenkijos ministeriai.'
+  teiginys: '1772 m. Rusijai buvo naudingiausia kontroliuoti ATR formaliai jos nepanaikinant, tačiau spaudžiama Prūsijos ji sutiko su pirmuoju ATR padalijimu.'
   pagrindžia:
     - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-004
-  teiginys: 'Liublino unijos sudarymo metu Lenkijoje veikė Didlenkių ir Mažlenkių atstovų suvažiavimai, vadinti generaliniais seimeliais.'
+  teiginys: 'Aisčiai vengte vengdavo misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikščiais aisčiai nuolat kovojo.'
   pagrindžia:
     - c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 - t-005
-  teiginys: 'Liublino seimas seimų vieta paskyrė Varšuvą arba kurį nors kitą Lenkijos miestą.'
+  teiginys: 'Pirmiausia kurį nors Gediminaitį išsirinkdavo sau valdovu Lietuva, o paskui jį išsirinkdavo ir Lenkija.'
   pagrindžia:
     - c-005
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 - t-006
-  teiginys: 'Lenkijos bajorija turėjo plačias politines teises, savivaldybes ir savus teismus.'
+  teiginys: 'Tačiau su Lietuvos kaimynais visus reikalus atlikdavo Lietuvos ministeriai, o su Lenkijos kaimynais — Lenkų ministeriai.'
   pagrindžia:
     - c-006
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 - t-007
-  teiginys: 'Lenkijoje Zamoiskis neleido Maksimilijonui įžengti į Krokuvą, todėl karūnuotas buvo atvykęs Zigmantas.'
+  teiginys: 'Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jos provincijų — Didlenkių ir Mažlenkių — atskiri astovų suvažiavimai, vadinami generaliniais seimeliais.'
   pagrindžia:
     - c-007
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 - t-008
-  teiginys: 'Lietuvos bajorija jautėsi su Lenkijos bajorija sudaranti vieną tautą, tačiau Lietuva pati gynėsi ir sudarinėjo atskiras sutartis.'
+  teiginys: 'Liublino seimas seimų vieta paskyrė Varšuvą arba kurį nors kitą Lenkijos miestą.'
   pagrindžia:
     - c-008
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+- t-009
+  teiginys: 'Kitaip tuo tarpu buvo Lenkijoje.'
+  pagrindžia:
+    - c-009
+- t-010
+  teiginys: 'Tuo tarpu Lenkijoj laimėjo Zamoiskis.'
+  pagrindžia:
+    - c-010
+- t-011
+  teiginys: 'Lietuvos bajorija jautėsi su Lenkijos bajorija sudaranti vieną luomą, vieną bajorų visuomenę, arba, kaip tada sakydavo, vieną „tautą", tačiau Lietuva rūpinosi ji pati: pati ją gynė nuo priešų, pati, kartais net nesiklausdama lenkų, darė atskiras sutartis.'
+  pagrindžia:
+    - c-011
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Aisčiai vengte vengdavo misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikščiais aisčiai nuolat kovojo.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: 'Gediminas pradėjo derinti karo veiksmus prieš kryžiuočius su Lenkija.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Po šitų pirmųjų nepasisekusių misijų, buvo dar nemaža kitų,
-    tačiau jų visų darbas niekais nueidavo. Aisčiai vengte vengdavo
-    misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių
-    kunigaikščiais aisčiai nuolat kovojo. Todėl dabar tie kunigaikš-
-    čiai pradėjo vartoti prieš aisčius smurto jėgą: Pamario ir lenkų
-    kunigaikščiai kariavo su Prūsų kiltimis; su jotvingais kariavo
-    lenkai ir rytų Bažnyčiai priklausanti Voluinės kunigaikštija.
+    Gediminas pradėjo derinti karo veiksmus prieš
+    kryžiuočius su Lenkija. Pasiekimai vakaruose Gediminui leido
+    plėsti savo valstybę rytuose. Prie jau anksčiau lietuvių užvaldytų
+    Juodosios Rusios (Naugarduko žemių) ir Polocko Gediminas
+    pridėjo užkariautas Haličo-Voluinės, Vitebsko ir Kijevo žemes.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -126,6 +126,78 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   pagrindžia:
     - t-001
 - c-002
+  santrauka: 'Lietuvos ir Lenkijos visuomenės, dalyvaujant karaliui, bandė gelbėti valstybę ir ėmėsi pertvarkų, vedusių į Ketverių metų seimo veiklą.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Ko gero, tai buvo
+    / m x Lo, nemalonus netikėtumas visoms ATR kon-
+    4 ; \ pee o Z a kuravusioms partijoms, net ir karalius
+    10 Klaipėdą Ožka Biržai ĮDaugpilis/ 2 Stanislovas Augustas Poniatovskis, rėmęsis
+    J Raseiniai K dai Bresauj) angeles a Rusijos karine galia, buvo sukrėstas tokio
+    f L 30 [e] įvykių eigos posūkio.
+    Be are US k. Didelė Lietuvos ir Lenkijos tautų ne-
+    LIETUVA Pe laimė vertė jy visuomenes, dalyvaujant net
+
+    =
+    a
+    o
+    60
+    =
+    I
+    o
+    o
+    m
+    =
+
+    X Geninias 6 M ir karaliui, bandyti gelbėti valstybę. Tai pa-
+    Balstogel a wx o augi as B skatino imtis pertvarkų, kurios peraugo į
+    OL Slanimas 5-MI8S 5 Nesvyžius 2 Ketverių metų seimo veiklą, kuris priėmė
+
+    Plockas |“ Belska o R as , i
+    Q KS o; Sluckas 2 garsiąją, valstybės gyvybingumą turėjusią
+    padidinti 1791 m. gegužės 3 d. konstituciją.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: '1772 m. Rusijai buvo naudingiausia kontroliuoti ATR formaliai jos nepanaikinant, tačiau spaudžiama Prūsijos ji sutiko su pirmuoju ATR padalijimu.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Tai suerzino kaimyni-
+    Ž i : nes monarchijas ir tapo pirmojo padalijimo pretekstu.
+    Lenkijos teritorija 1772 m. Rusijai buvo naudingiausia išlaikyti esamą padėtį (kon-
+    | ep sekasi ie troliuoti ATR jos formaliai nepanaikinant), tačiau spaudžiant
+
+    2 Prūsijai sutiko su pirmu ATR padalijimu.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Aisčiai vengte vengdavo misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikščiais aisčiai nuolat kovojo.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Aisčiai vengte vengdavo
+    misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių
+    kunigaikščiais aisčiai nuolat kovojo. Todėl dabar tie kunigaikš-
+    čiai pradėjo vartoti prieš aisčius smurto jėgą: Pamario ir lenkų
+    kunigaikščiai kariavo su Prūsų kiltimis; su jotvingais kariavo
+    lenkai ir rytų Bažnyčiai priklausanti Voluinės kunigaikštija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-005
   santrauka: 'Pirmiausia kurį nors Gediminaitį išsirinkdavo sau valdovu Lietuva, o paskui jį išsirinkdavo ir Lenkija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -135,15 +207,15 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
     valdovu Lietuva, o paskui jį išsirinkdavo ir Lenkija. Tuo būdu,
     be jokių sutarčių, tarp abiejų valstybių faktiškai buvo perso-
     nalinė unija.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Su Lietuvos kaimynais reikalus tvarkydavo Lietuvos ministeriai, o su Lenkijos kaimynais - Lenkijos ministeriai.'
+    - t-005
+- c-006
+  santrauka: 'Tačiau su Lietuvos kaimynais visus reikalus atlikdavo Lietuvos ministeriai, o su Lenkijos kaimynais — Lenkų ministeriai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tačiau su Lietuvos kaimynais visus reikalus atlikdavo Lietuvos
@@ -153,19 +225,18 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
     iš Maskvos gaunami raštai ir su ja padarytos sutartys būdavo
     įteikiamos Lietuvos kancleriams ir saugomos Lietuvos valstybės
     archyve (metrikoje).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Liublino unijos sudarymo metu Lenkijoje veikė Didlenkių ir Mažlenkių atstovų suvažiavimai, vadinti generaliniais seimeliais.'
+    - t-006
+- c-007
+  santrauka: 'Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jos provincijų — Didlenkių ir Mažlenkių — atskiri astovų suvažiavimai, vadinami generaliniais seimeliais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Generaliniai seime-
-    liai. Sudarant Liublino
+    Sudarant Liublino
     uniją, Lenkijoje, be sei-
     melių, dar būdavo daro-
     mi dviejų jos provincijų
@@ -178,46 +249,46 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
     dėjusi iš dviejų valsty-
     bių, ir šito dvilypio savarankiškumo žymės dar tebebuvo ne-
     išnykusios.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-004
-- c-005
+    - t-007
+- c-008
   santrauka: 'Liublino seimas seimų vieta paskyrė Varšuvą arba kurį nors kitą Lenkijos miestą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    **Seimų vieta.** Liublino seimas seimų vieta paskyrė Varšuvą
+    ** Liublino seimas seimų vieta paskyrė Varšuvą
     arba kurį nors kitą Lenkijos miestą. Tačiau lietuviai visą laiką
 
 
     reikalavo, kad seimai būtų šaukiami ir Lietuvoje ar bent pa-
     sienyje.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-005
-- c-006
-  santrauka: 'Lenkijos bajorija turėjo plačias politines teises, savivaldybes ir savus teismus.'
+    - t-008
+- c-009
+  santrauka: 'Kitaip tuo tarpu buvo Lenkijoje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kitaip tuo tarpu buvo Lenkijoje. Ten bajorija _(šlėkta)_ jau
     turėjo plačias politines teises, savivaldybes ir savus teismus. Dėl
     to Lietuvos bajorija Lenkiją laikė sau siektinu pavyzdžiu.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-006
-- c-007
-  santrauka: 'Lenkijoje Zamoiskis neleido Maksimilijonui įžengti į Krokuvą, todėl karūnuotas buvo atvykęs Zigmantas.'
+    - t-009
+- c-010
+  santrauka: 'Tuo tarpu Lenkijoj laimėjo Zamoiskis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo tarpu Lenkijoj laimėjo Za-
@@ -227,18 +298,18 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
     dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties
     Byčina) pralaimėjo mūšį, pateko Zamoiskiui į nelaisvę ir buvo
     priverstas atsisakyti nuo sosto.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-007
-- c-008
-  santrauka: 'Lietuvos bajorija jautėsi su Lenkijos bajorija sudaranti vieną tautą, tačiau Lietuva pati gynėsi ir sudarinėjo atskiras sutartis.'
+    - t-010
+- c-011
+  santrauka: 'Lietuvos bajorija jautėsi su Lenkijos bajorija sudaranti vieną luomą, vieną bajorų visuomenę, arba, kaip tada sakydavo, vieną „tautą", tačiau Lietuva rūpinosi ji pati: pati ją gynė nuo priešų, pati, kartais net nesiklausdama lenkų, darė atskiras sutartis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tokių atsitikimų buvo ir daugiau. Lietuvos
+    Lietuvos
     bajorija jautėsi su Lenkijos bajorija sudaranti vieną luomą, vie-
     ną bajorų visuomenę, arba, kaip tada sakydavo, vieną „tautą",
     tačiau Lietuva rūpinosi ji pati: pati ją gynė nuo priešų, pati,
@@ -247,13 +318,13 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 
 
     #### 2.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-008
+    - t-011
 
 ## Ryšiai
 ### Laikotarpiai

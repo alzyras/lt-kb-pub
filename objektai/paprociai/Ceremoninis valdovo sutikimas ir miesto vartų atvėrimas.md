@@ -42,15 +42,21 @@ Nenurodyta
 
 ## Teiginiai
 - t-004
-  teiginys: 'Kijeviečiai pasitiko Gediminą išėję iš miesto, atvėrė miesto vartus ir sutiko jam tarnauti.'
+  teiginys: 'Miesto atstovai išėję pasitikdavo valdovą ir atverdavo jam miesto vartus.'
   pagrindžia:
     - c-001
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-005
+  teiginys: '1345 m. Lietuvos karalių pasitikęs lyvių seniūnas siūlė viso krašto pasidavimą.'
+  pagrindžia:
+    - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kijeviečiai pasitiko Gediminą išėję iš miesto, atvėrė miesto vartus ir sutiko jam tarnauti.'
+  santrauka: 'Miesto atstovai išėję pasitikdavo valdovą ir atverdavo jam miesto vartus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     kad jų kunigaikštis pabėgęs, jų valdovo
@@ -70,3 +76,19 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+- c-002
+  santrauka: '1345 m. Lietuvos karalių pasitikęs lyvių seniūnas siūlė viso krašto pasidavimą.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    »[-..] 1345 metais Lietuvos karalius (Algirdas) surinko stiprią kariuomenę ir įsiveržė į
+    brolių kraštą [...] jis vyko į Rygą per Naująjį Malūną ir įėjo į Segevoldo apylinkę, kur
+    Lietuvos karalių pasitiko vienas lyvių seniūnas ir tvirtino, kad visa naujakrikštų tauta
+    ji iškėlusi karaliumi, ir, jeigu jis (Algirdas) su tuo sutiks, tai visas kraštas jam pasiduos.
+    Tada karalius jį klausė, o kas atsitiks su Livonijos magistru.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-005

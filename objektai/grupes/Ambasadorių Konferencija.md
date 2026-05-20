@@ -33,7 +33,7 @@ Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkin
 
 ## Teiginiai
 - t-001
-  teiginys: 'Ambasadorių Konferencija Klaipėdos konvencijos nuostatomis siekė patenkinti Lenkijos reikalavimą dėl laisvo tranzito.'
+  teiginys: 'Ambasadorių Konferencija Klaipėdos konvencijos nuostatais siekė patenkinti Lenkijos reikalavimą turėti laisvą tranzitą.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -44,17 +44,17 @@ Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkin
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Ambasadorių Konferencija apkaltino Lietuvą Tautų Sąjungai, kad ji savo elgesiu Klaipėdoje gresianti suardyti taiką ir gerus internaciolinius santykius ir pareikalavo pritaikyti pakto 11 str.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Ambasadorių Konferencija Klaipėdos konvencijos nuostatomis siekė patenkinti Lenkijos reikalavimą dėl laisvo tranzito.'
+  santrauka: 'Ambasadorių Konferencija Klaipėdos konvencijos nuostatais siekė patenkinti Lenkijos reikalavimą turėti laisvą tranzitą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Lietuvos vyriausybė
-    pasiuntė į Paryžių savo delegatus derybų su Ambasadorių Kon-
-    ferencija.
-    **Derybos su didžiosiomis valstybėmis dėl Klaipėdos krašto
-    perėmimo** buvo labai sunkios. Salia punktų, dėl kurių buvo
+    Salia punktų, dėl kurių buvo
     susitarta, Ambasadorių Konferencija norėjo Klaipėdos konven-
     cijos nuostatais pralaužti Lietuvos nusistatymą Lenkijos atžvilgiu
     ir patenkinti šiosios reikalavimus turėti laisvą tranzitą.
@@ -69,12 +69,7 @@ Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkin
   santrauka: 'Ambasadorių Konferencija rugpjūčio 8 d. ultimatumu pareikalavo per mėnesį be pataisų ir rezervų pasirašyti jos parengtą projektą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Ši betgi protestavo prieš tai,
-    pareikšdama, kad ligi nėra pasirašyta ir ratifikuota konvencija,
-    pats suverenitetas Klaipėdos krašte tebepriklausąs santarvės
-    valstybėms, ir todėl visi Lietuvos vyriausybės aktai neturį galios.
-    Derybos vėl buvo atnaujintos liepos mėnesį, tačiau nedavė
-    vaisių. Ambasadorių Konferencija pagaliau įteikė ultimatumą
+    Ambasadorių Konferencija pagaliau įteikė ultimatumą
     (rugpiūčio 8 d.), kuriuo pareikalavo per mėnesį laiko pasirašyti
     be jokių pataisų ir rezervų konferencijos paruoštą projektą.
   citata_rodoma: ""
@@ -84,6 +79,27 @@ Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkin
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Ambasadorių Konferencija apkaltino Lietuvą Tautų Sąjungai, kad ji savo elgesiu Klaipėdoje gresianti suardyti taiką ir gerus internaciolinius santykius ir pareikalavo pritaikyti pakto 11 str.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Ambasadorių
+    Konferencija apkaltino Lietuvą Tautų Sąjungai, kad ji savo
+    elgesiu Klaipėdoje gresianti suardyti taiką ir gerus internacio-
+    linius santykius ir pareikalavo pritaikyti pakto 11 str.
+    Tautų Sąjungos Taryba, išklausiusi Lietuvos delegato (Gal-
+    vanausko) protestą prieš tokį Ambasadorių Konferencijos
+    skundą ir pranešimą apie priežastis, dėl kurių Lietuva negalėjo
+    priimti pasiūlyto projekto be pataisų ir be rezervų, nusprendė
+    sudaryti specialią komisiją konvencijos projektui paruošti, paša-
+    linant visus nesusipratimus (1923.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Laikotarpiai

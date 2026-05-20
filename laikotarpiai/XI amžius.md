@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 26.
+Objektų skaičius: 27.
 
 ## Kaip naudoti
 
@@ -36,6 +36,7 @@ Objektų skaičius: 26.
 - [[objektai/grupes/Baltų kovų brolija „Vilkatlakai“]]
 - [[objektai/grupes/Galindai]]
 - [[objektai/grupes/Kijevo Rusia]]
+- [[objektai/grupes/Kuršiai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos Respublikos užsienio reikalų ministerija]]
 - [[objektai/grupes/Skandinavai]]
@@ -59,5 +60,5 @@ Objektų skaičius: 26.
 - [[objektai/ivykiai/Kijevo Jaroslavo žygis į Lietuvą ir Naugarduko įkūrimas (1044 m.)]]
 
 ### Žodynas
-- [[objektai/zodynas/chiefdom vadystė|chiefdom / vadystė]]
+- [chiefdom / vadystė](../objektai/zodynas/chiefdom%20vadyst%C4%97)
 - [pagonybė](../objektai/zodynas/pagonyb%C4%97)

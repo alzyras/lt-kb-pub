@@ -20,20 +20,37 @@ Kodeksas (statutas) 1780 m. buvo pateiktas seimui patvirtinti. (Lietuvos bajorij
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lietuvos bajorija priešinosi bendro kodekso įvedimui, nes nenorėjo išsižadėti savo statuto ir atskirų teisių.'
+  teiginys: 'Kodeksas (statutas) 1780 m. buvo pateiktas seimui patvirtinti.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: 'Lietuvos bajorija priešinosi bendro kodekso įvedimui, nes nenorėjo išsižadėti savo statuto ir atskirų teisių.'
+  pagrindžia:
+    - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
+  santrauka: 'Kodeksas (statutas) 1780 m. buvo pateiktas seimui patvirtinti.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Kodeksas (statutas) 1780 m. buvo pateiktas seimui pa-
+    tvirtinti.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
   santrauka: 'Lietuvos bajorija priešinosi bendro kodekso įvedimui, nes nenorėjo išsižadėti savo statuto ir atskirų teisių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Atmetė jį svarbiausia dėl valstiečiams
-    duodamųjų palengvinimų. „Mužikus nori padaryti
-    bajorais, o mus — mužikais", — šaukė bajorija. (Lietuvos bajo-
+    (Lietuvos bajo-
     rija to kodekso įvedimui priešinosi dar ir dėl to, kad jis buvo
     skiriamas abiem jungtinėm valstybėm: Lietuva nenorėjo išsiža-
     dėti savo statuto, t. y. savo atskirų teisių).
@@ -43,7 +60,7 @@ Kodeksas (statutas) 1780 m. buvo pateiktas seimui patvirtinti. (Lietuvos bajorij
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

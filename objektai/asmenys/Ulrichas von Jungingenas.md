@@ -41,27 +41,30 @@ Ulrichas von Jungingenas šiame šaltinyje rodomas kaip ordino didysis magistras
 
 ## Teiginiai
 - t-006
-  teiginys: 'Tų vėliavų priešaky jojo pats didysis magistras Ulrichas von Jungingenas.'
+  teiginys: 'Ulrichas von Jungingenas, vėlai sužinojęs Jogailos ir Vytauto planus, skubėjo pastoti priešui kelią.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-007
-  teiginys: 'Ulrichas von Jungingenas buvo sužeistas, bet kovojo toliau, kol ietis pervėrė jam kaklą ir jis mirė.'
+  teiginys: 'Tų vėliavų priešaky jojo pats didysis magistras Ulrichas von Jungingenas.'
   pagrindžia:
     - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
+- t-008
+  teiginys: 'Ulrichas von Jungingenas nukrito nuo arklio ir mirė.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tų vėliavų priešaky jojo pats didysis magistras Ulrichas von Jungingenas.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: 'Ulrichas von Jungingenas, vėlai sužinojęs Jogailos ir Vytauto planus, skubėjo pastoti priešui kelią.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Tų vėliavų priešaky jojo pats didysis magistras Ulrichas
-    von Jungingenas. Tos vėliavos žygiavo ta pačia kryptimi, kur
-    buvo dešinysis sąjungininkų sparnas. Jogaila pastebėjęs greitai
-    besiartinintį priešą, labai nusigando.
+    Įvairių tautų tyrinėtojai skirtingai išryškino jose ir ati­
+    tinkamų tautų (lietuvių, lenkų, Smolensko pulkų) vaidmenį.
+    Gana vėlai tepatyręs Jogailos ir Vytauto planus, ordino didysis
+    magistras Ulricbas von Jungingenas skubėjo priešui pastoti kelią.
+    Nuo Torno Drevencos krantu iki Loebau (VII.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -70,7 +73,22 @@ Ulrichas von Jungingenas šiame šaltinyje rodomas kaip ordino didysis magistras
   pagrindžia:
     - t-006
 - c-002
-  santrauka: 'Ulrichas von Jungingenas buvo sužeistas, bet kovojo toliau, kol ietis pervėrė jam kaklą ir jis mirė.'
+  santrauka: 'Tų vėliavų priešaky jojo pats didysis magistras Ulrichas von Jungingenas.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tų vėliavų priešaky jojo pats didysis magistras Ulrichas
+    von Jungingenas. Tos vėliavos žygiavo ta pačia kryptimi, kur
+    buvo dešinysis sąjungininkų sparnas. Jogaila pastebėjęs greitai
+    besiartinintį priešą, labai nusigando.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-003
+  santrauka: 'Ulrichas von Jungingenas nukrito nuo arklio ir mirė.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kryžiuočių didysis magistras jau buvo sužeistas, bet
@@ -78,13 +96,13 @@ Ulrichas von Jungingenas šiame šaltinyje rodomas kaip ordino didysis magistras
     lietuvio pėstininko ietis pervėrė jam kaklą — jis nukrito nuo
     arklio ir mirė. Magistrui žuvus sąjungininkai visiškai mūšį lai­
     mėjo.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-007
+    - t-008
 
 ## Ryšiai
 ### Laikotarpiai
@@ -93,4 +111,5 @@ Ulrichas von Jungingenas šiame šaltinyje rodomas kaip ordino didysis magistras
 - [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
+- [[objektai/daiktai/Du pliki kardai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]

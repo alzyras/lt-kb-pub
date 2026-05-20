@@ -49,22 +49,30 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tuo laiku buvo padarytos trys ištikimybės priesaikos.'
+  teiginys: 'Iš Krokuvos išvykdami Skirgaila ir Vytautas turėjo duoti priesaika patvirtintus raštus dėl ištikimybės Jogailai ir Jadvygai.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Tos sąjungos tuojau pabūgo lenkai ir jų, be abejo, pakurstytas Jogaila 1403 m. vėl pareikalavo iš Vytauto naujo pasižadėjimo, kad jis nei su kry­ žiuočiais, nei su kardininkais nedarytų jokių sutarčių be kara- 171 liaus žinios ir valios^1 ).'
+  pagrindžia:
+    - c-002
+- t-003
+  teiginys: 'Tokią ištikimybės prie­ saiką tuo laiku iš viso buvo padarytos trys^2 ).'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tuo laiku buvo padarytos trys ištikimybės priesaikos.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: 'Iš Krokuvos išvykdami Skirgaila ir Vytautas turėjo duoti priesaika patvirtintus raštus dėl ištikimybės Jogailai ir Jadvygai.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Jogailą ir Karūną, ir prieš juos nekilti^1 ). Tokią ištikimybės prie­
-    saiką tuo laiku iš viso buvo padarytos trys^2 ).
-    Prochaska yra tos nuomonės, kad aukščiau minėtu priesai­
-    kos aktu Kauno sutartis, kiek ji buvo nukreipta prieš uniją, nu­
-    stojo savo galios^3 ).
+    Pirmučiausia šitam reikalui iš Krokuvos
+    buvo atleisti Skirgaila su Vytautu. Išvykdami jie buvo pri-
+    versti duoti priesaika patvirtintus raštus, kad amžinai būsią
+    ištikimi Lenkų karaliui Jogailai su karaliene Jadvyga ir kad pa-
+    šaukti tuojau atvyksią į Lenkiją.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -72,6 +80,43 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Tos sąjungos tuojau pabūgo lenkai ir jų, be abejo, pakurstytas Jogaila 1403 m. vėl pareikalavo iš Vytauto naujo pasižadėjimo, kad jis nei su kry­ žiuočiais, nei su kardininkais nedarytų jokių sutarčių be kara- 171 liaus žinios ir valios^1 ).'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tos sąjungos tuojau
+    pabūgo lenkai ir jų, be abejo, pakurstytas Jogaila 1403 m. vėl
+    pareikalavo iš Vytauto naujo pasižadėjimo, kad jis nei su kry­
+    žiuočiais, nei su kardininkais nedarytų jokių sutarčių be kara-
+
+
+    ```
+    171
+    ```
+    liaus žinios ir valios^1 ).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Tokią ištikimybės prie­ saiką tuo laiku iš viso buvo padarytos trys^2 ).'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tokią ištikimybės prie­
+    saiką tuo laiku iš viso buvo padarytos trys^2 ).
+    Prochaska yra tos nuomonės, kad aukščiau minėtu priesai­
+    kos aktu Kauno sutartis, kiek ji buvo nukreipta prieš uniją, nu­
+    stojo savo galios^3 ).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Laikotarpiai

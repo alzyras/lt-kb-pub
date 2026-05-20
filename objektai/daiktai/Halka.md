@@ -65,20 +65,16 @@ Nenurodyta
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-005
-  teiginys: 'Halka buvo didelė kanuolė, kurią vos patraukdavo 20 porų arklių.'
+  teiginys: 'Kariuomenė buvo labai gerai ginkluota; viena didelė kanuolė, vadinama Halka, buvo vos patraukiama 20 porų arklių.'
   pagrindžia:
     - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Halka buvo didelė patranka, kurią vos patraukdavo 20 porų arklių.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    1428 metų vasarą jis surengė į Naugardą di­
-    delį žygį, pritraukdamas į jį daug kunigaikščių ir kariuomenės
-    iš Lenkijos ir Rusijos. Kariuomenė buvo labai gerai ginkluota;
+    Kariuomenė buvo labai gerai ginkluota;
     viena didelė kanuolė, vadinama Halka, buvo vos patraukiama
     20 porų arklių. Tačiau žygiuoti į Naugardą buvo nelengva, nes
     vasarą trukdė sunkiai perbrendamos pelkės ir miškai, kuriuos
@@ -92,7 +88,7 @@ Nenurodyta
     - t-003
     - t-004
 - c-002
-  santrauka: 'Halka buvo didelė kanuolė, kurią vos patraukdavo 20 porų arklių.'
+  santrauka: 'Kariuomenė buvo labai gerai ginkluota; viena didelė kanuolė, vadinama Halka, buvo vos patraukiama 20 porų arklių.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kariuomenė buvo labai gerai ginkluota;
@@ -101,11 +97,11 @@ Nenurodyta
     vasarą trukdė sunkiai perbrendamos pelkės ir miškai, kuriuos
     kirto ir klojo kelią. Šias gamtos kliūtis Vytautas nugalėjo, bet
     pats Naugardas liko neįveiktas, nors ir buvo apsiaustas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
 

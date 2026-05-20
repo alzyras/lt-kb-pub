@@ -74,5 +74,8 @@ Seimų rūšys. Po konvokacinio seimo, jo nustatytu laiku, taip pat primas šauk
     - t-002
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/karūnacija]]
+
 ### Susiję objektai
 - [[objektai/grupes/Karūnacinis seimas]]

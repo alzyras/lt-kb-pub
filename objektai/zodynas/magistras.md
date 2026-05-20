@@ -26,9 +26,15 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Vinrichas von Kniprodė 1351–1382 m. buvo kryžiuočių ordino magistras.'
+  teiginys: 'Po nelaimingai pasibaigusio kryžiuočių žygio į Lietuvą 1345 m., kai ordino išdavikas pasirodė esąs patsai magistras, lietuviai nusiaubė ordino kraštą net du kartus (1347 m.).'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-003
+  teiginys: 'Vinrichas von Kniprodė 1351–1382 m. buvo kryžiuočių ordino magistras.'
+  pagrindžia:
+    - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
@@ -37,11 +43,7 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
   santrauka: 'Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašalintas iš vietos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tuo tarpu Algirdas su didele
-    kariuomene įsiveržė į Livoniją; nusiaubęs Žiemgalą, buvo ap-
-    gulęs net Rygą, tačiau, nenorėdamas gadinti santykių su rygie-
-    čiais, jos neėmė. Ordinas dėl tokio savo žygio netvėrė pyk-
-    čiu. Viso nepasisekimo kaltininkas, magistras, buvo paskelb-
+    Viso nepasisekimo kaltininkas, magistras, buvo paskelb-
     tas pamišėliu ir pašalintas iš vietos.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -51,15 +53,13 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Vinrichas von Kniprodė 1351–1382 m. buvo kryžiuočių ordino magistras.'
+  santrauka: 'Po nelaimingai pasibaigusio kryžiuočių žygio į Lietuvą 1345 m., kai ordino išdavikas pasirodė esąs patsai magistras, lietuviai nusiaubė ordino kraštą net du kartus (1347 m.).'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Vinrichas von Kniprodė,
-    kryžiuočių ordino magistras (1351
-    —1382 m.). Jam valdant ordinas
-    pasiekė aukščiausią klestėjimo
-    laipsnį.
-    **3.
+    Po nelaimingai pasibaigusio kry-
+    žiuočių žygio į Lietuvą 1345 m., kai ordino išdavikas pasirodė
+    esąs patsai magistras, lietuviai nusiaubė ordino kraštą net du kar-
+    tus (1347 m.).
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -67,3 +67,17 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Vinrichas von Kniprodė 1351–1382 m. buvo kryžiuočių ordino magistras.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Vinrichas von Kniprodė,
+    kryžiuočių ordino magistras (1351
+    —1382 m.).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003

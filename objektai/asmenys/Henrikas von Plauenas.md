@@ -35,30 +35,32 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
 
 ## Teiginiai
 - t-001
-  teiginys: 'Ordino magistras Henrikas von Plauenas po Makro raporto vyko pas Europos valdovus prašyti pagalbos prieš Vytautą.'
+  teiginys: 'Henrikas von Plauenas buvo Švitco komtūras.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Henrikas von Plauenas po 1410 m. smūgio rengėsi revanšui ir rinko jėgas iš Vakarų Europos.'
+  teiginys: 'Per tą laiką Sviečės komtūras Henrikas von Plauenas, kuris apie mūšio padarinius galėjo sužinoti apie liepos mėn.'
   pagrindžia:
     - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
+- t-003
+  teiginys: 'Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyko pas Čekijos karalių Vaclovą (Zigmanto brolį), Vokietijos elektorius ir Prancūzijos karalių Karolį VI prašyti pagalbos prieš Vytautą.'
+  pagrindžia:
+    - c-003
+- t-004
+  teiginys: 'Henrikas von Plauenas, kuris tada išgelbėjo Ordino galybės likučius, atsi­ dėjęs rengėsi prie revanšo: stropiai rinko jėgas iš visos Vaka­ rų Europos.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Ordino magistras Henrikas von Plauenas po Makro raporto vyko pas Europos valdovus prašyti pagalbos prieš Vytautą.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: 'Henrikas von Plauenas buvo Švitco komtūras.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po
-    Makro raporto išvyko pas Čekijos karalių Vaclovą (Zigmanto
-    brolį), Vokietijos elektorius ir Prancūzijos karalių Karolį VI
-    prašyti pagalbos prieš Vytautą. Vak. Europoje buvo skelbia­
-    ma, kad Vytautas susideda su stačiatikiais, sukelia slavų tau­
-    tas, Nemuno ir Dubysos krantuose stato prieš Ordiną nukreip­
-    tas pilis^1 ).
+    47) Švitco komtūro Henriko v. Plaueno ar Mykolo
+    Kuchmeisterio (paimta ties Koronovu), 48) Tomo miesto, 49) Dancigo
+    senosios komturijos ir pilies, 50) Gnievkovos komturijos, pilies ir miesto,
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -67,26 +69,61 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Henrikas von Plauenas po 1410 m. smūgio rengėsi revanšui ir rinko jėgas iš Vakarų Europos.'
+  santrauka: 'Per tą laiką Sviečės komtūras Henrikas von Plauenas, kuris apie mūšio padarinius galėjo sužinoti apie liepos mėn.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Kad turėtų jis
-    tam laisvas rankas ir materialinės paramos, reikėjo apsidrausti
-    nauja unija nuo Lenkijos, kuri buvo bepradedanti artintis su
-    Zigmantu L., vokiečių imperatorium, kas didino lenkų savaran­
-    kiškumą santykiuose su Lietuva ir kas galėjo jam skersai kelio
-    statyti kliūtis. Reikia dar čia atsiminti ir tai, kad ir kryžiuo­
+    Per tą laiką Sviečės komtūras Henrikas von Plauenas, kuris apie
+    mūšio padarinius galėjo sužinoti apie liepos mėn. 17—18 d., grei­
+    tai nuvyko į Marienburgą, sudegino miestą, surinko apie 4.000
+    ```
+    (^1) ) Jeigu tiesa, kad kryžiuočiu nukautu 18,000, tai ir sąjungininkų žuvu­
+    sių skaičius turėtu būti didesnis. Ordinas, tur būt, norėdamas labiau są­
+    jungininkus įskųsti, žuvusiu saviškiu skaičių, matyt, kiek padidino.
+    (^2) ) Kiti priskaito 15.000—16.000, kas atrodo perdaug.
+
+
+    ```
+    — 88 —
+    ```
+    vyrų gynėjų ir su jais užsidarė pily.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyko pas Čekijos karalių Vaclovą (Zigmanto brolį), Vokietijos elektorius ir Prancūzijos karalių Karolį VI prašyti pagalbos prieš Vytautą.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po
+    Makro raporto išvyko pas Čekijos karalių Vaclovą (Zigmanto
+    brolį), Vokietijos elektorius ir Prancūzijos karalių Karolį VI
+    prašyti pagalbos prieš Vytautą. Vak.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Henrikas von Plauenas, kuris tada išgelbėjo Ordino galybės likučius, atsi­ dėjęs rengėsi prie revanšo: stropiai rinko jėgas iš visos Vaka­ rų Europos.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Reikia dar čia atsiminti ir tai, kad ir kryžiuo­
     čiai negalėjo užmiršti 1410 m. smūgio ir pažeminimo. Henrikas
     von Plauenas, kuris tada išgelbėjo Ordino galybės likučius, atsi­
     dėjęs rengėsi prie revanšo: stropiai rinko jėgas iš visos Vaka­
     rų Europos.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-002
+    - t-004
 
 ## Ryšiai
 ### Laikotarpiai

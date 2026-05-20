@@ -40,24 +40,186 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
 
 ## Teiginiai
 - t-001
-  teiginys: 'Stanislovas Augustas Poniatovskis 1764 m. buvo išrinktas ATR karaliumi ir prieš tai buvo pasiuntiniu Rusijoje.'
+  teiginys: '1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Poniatovskis rašė Prancūzijos steigiamajam susirinkimui apie „dar vieną tautą Europoje“.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Stanislovas Augustas Poniatovskis, spaudžiamas Rusijos, Gardine sušaukė seimą, kuris buvo priverstas sutikti su antruoju padalijimu.'
+  teiginys: 'Stanislovas Augustas Poniatovskis buvo išrinktas LLV valdovu, o jo valdymo laikas 1764–1795 m. tapo permainų, reformų bandymų ir valstybės agonijos epocha.'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: '1792 m. liepos 24 d. iš Varšuvos atėjo žinia apie Stanislovo Augusto Poniatovskio kapituliaciją ir prisijungimą prie Targovicos konfederacijos.'
+  pagrindžia:
+    - c-003
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+- t-004
+  teiginys: 'Stanislovas Augustas Poniatovskis laikėsi pozicijos nebesipriešinti prie Varšuvos stovinčiai Rusijos armijai ir priimti Jekaterinos II notą.'
+  pagrindžia:
+    - c-004
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+- t-005
+  teiginys: 'Stanislovo Augusto Poniatovskio susitaikėliška pozicija pasmerkta, nes LLV priešinimosi galimybės 1792 m. kare su Rusija nebuvo išsemtos.'
+  pagrindžia:
+    - c-005
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+- t-006
+  teiginys: 'Prie Varšuvos Stanislovas Augustas Poniatovskis nepasirodė fronte, neišnaudojo visuotinės mobilizacijos ir nesuformavo miestiečių milicijos.'
+  pagrindžia:
+    - c-006
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+- t-007
+  teiginys: 'Stanislovas Augustas Poniatovskis dėl ambicijų įsitraukė į smulkias intrigas, susipyko su aplinka ir lemtingais momentais liko vienišas.'
+  pagrindžia:
+    - c-007
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+- t-008
+  teiginys: 'Rusija privertė Stanislovą Augustą Poniatovskį 1793 m. birželio 17 d. Gardine sušaukti Seimą, turėjusį patvirtinti antrąjį LLV padalijimą.'
+  pagrindžia:
+    - c-008
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+- t-009
+  teiginys: 'KUNIGAIKŠTYSTĖ 3 Mūšio priešistorė Pasibaigus Saksų dinastijos (Augusto II Stipriojo (soste 1697-1733 m.) ir jo sūnaus Augusto III (soste 1733-1763 m.)) valdymui, kuris pasižymėjo vis didesnės ATR klimpimo į degradacijos ir stagnacijos liūną bei.'
+  pagrindžia:
+    - c-009
+- t-010
+  teiginys: 'Nors Lietuvos ir Lenkijos kariuomenės dar turėjo jėgų ir ryžto priešintis, tačiau karalius Stanislovas Augustas Poniatovskis Rusijos spaudžiamas sušaukė Gardine seimą, kuris (apsuptas Rusijos kariuomenės) buvo priverstas sutikti su antruoju padalijimu ir.'
+  pagrindžia:
+    - c-010
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Stanislovas Augustas Poniatovskis 1764 m. buvo išrinktas ATR karaliumi ir prieš tai buvo pasiuntiniu Rusijoje.'
+  santrauka: '1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Poniatovskis rašė Prancūzijos steigiamajam susirinkimui apie „dar vieną tautą Europoje“.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Ne veltui 1791 m. vasarą Lenkijos ir
+    Lietuvos valdovas Stanislovas Augustas Poniatovskis rašė Prancūzijos
+    steigiamajam susirinkimui, kad, be Prancūzijos, „yra dar viena tauta Eu-
+    ropoje“.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Stanislovas Augustas Poniatovskis buvo išrinktas LLV valdovu, o jo valdymo laikas 1764–1795 m. tapo permainų, reformų bandymų ir valstybės agonijos epocha.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    LLV valdovu buvo išrinktas Stanislo-
+    vas Augustas Poniatovskis. Nors jis ne iš tų valdovų, kurie lemia istorijos
+    vyksmą, būtent jo valdymo laikas (1764–1795) tapo istorine epocha – tai
+    ir permainų ir reformų bandymų, ir baroko saulėlydžio bei valstybės ago-
+    nijos ir sunaikinimo epocha.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: '1792 m. liepos 24 d. iš Varšuvos atėjo žinia apie Stanislovo Augusto Poniatovskio kapituliaciją ir prisijungimą prie Targovicos konfederacijos.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Liepos pabaigoje
+    gynyba jau telkėsi prie Brastos, bet kaip tik tuo metu – liepos 24 dieną at-
+    ėjo žinia iš Varšuvos apie Stanislovo Augusto kapituliaciją ir prisijungimą
+    prie Targovicos konfederacijos.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Stanislovas Augustas Poniatovskis laikėsi pozicijos nebesipriešinti prie Varšuvos stovinčiai Rusijos armijai ir priimti Jekaterinos II notą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Karalius laikėsi pozicijos, kad
+    Rusijos armijai, stovinčiai prie Varšuvos, nebesipriešinti, priimti liepos
+    21 dieną iš Jekaterinos II gautą notą.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: 'Stanislovo Augusto Poniatovskio susitaikėliška pozicija pasmerkta, nes LLV priešinimosi galimybės 1792 m. kare su Rusija nebuvo išsemtos.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Istorija pasmerkė susitaikėlišką Stanislovo
+    Augusto poziciją – LLV priešinimosi galimybės 1792 m. gegužės–liepos
+    kare su Rusija toli gražu nebuvo išsemtos.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: 'Prie Varšuvos Stanislovas Augustas Poniatovskis nepasirodė fronte, neišnaudojo visuotinės mobilizacijos ir nesuformavo miestiečių milicijos.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    O prie Varšuvos viskas atsirėmė į Stanislovo Augusto poziciją, kuris
+    taip ir nepasirodė fronte ir neišnaudojo visuotinės mobilizacijos, nesufor-
+    mavo miestiečių milicijos.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: 'Stanislovas Augustas Poniatovskis dėl ambicijų įsitraukė į smulkias intrigas, susipyko su aplinka ir lemtingais momentais liko vienišas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Dėl savo
+    ambicijų užsiėmė smulkiomis intrigėlėmis, susipyko su visa savo aplin-
+    ka, todėl lemtingais momentais stūksojo vienišas, o visuomenė, tiek daug
+    sudėjusi vilčių į šį valdovą ir Gegužės trečiosios konstitucija atsisakiusi
+    valdovų elekcijos, buvo nuvilta ir išduota.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: 'Rusija privertė Stanislovą Augustą Poniatovskį 1793 m. birželio 17 d. Gardine sušaukti Seimą, turėjusį patvirtinti antrąjį LLV padalijimą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tuo metu Rusija privertė Stanislovą Augustą targovitėnų valdo-
+    mame Gardine 1793 m. birželio 17 d. sušaukti Seimą, kuris turėjo pritarti
+    naujai LLV ir Rusijos taikos sutarčiai ir taip patvirtinti antrąjį padalijimą.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: 'KUNIGAIKŠTYSTĖ 3 Mūšio priešistorė Pasibaigus Saksų dinastijos (Augusto II Stipriojo (soste 1697-1733 m.) ir jo sūnaus Augusto III (soste 1733-1763 m.)) valdymui, kuris pasižymėjo vis didesnės ATR klimpimo į degradacijos ir stagnacijos liūną bei.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    I. KUNIGAIKŠTYSTĖ
+    KUNIGAIKŠTYSTĖ
 
     3
 
@@ -75,22 +237,18 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
     Stanislovas Augustas Poniatovskis, kuris
     dar prieš tapdamas karaliumi buvo pa-
     siuntiniu Rusijoje, kur suartėjo su Rusijos
-    valdove. Augusto Poniatovskio globėjus
-    Čartoriskius, savo ruožtu, rėmė Rusijos im-
-    peratorė Jekaterina 11. Ji tikėjosi per juos
-    plėsti savo įtaką.
-  citata_rodoma: ""
+    valdove.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Stanislovas Augustas Poniatovskis, spaudžiamas Rusijos, Gardine sušaukė seimą, kuris buvo priverstas sutikti su antruoju padalijimu.'
+    - t-009
+- c-010
+  santrauka: 'Nors Lietuvos ir Lenkijos kariuomenės dar turėjo jėgų ir ryžto priešintis, tačiau karalius Stanislovas Augustas Poniatovskis Rusijos spaudžiamas sušaukė Gardine seimą, kuris (apsuptas Rusijos kariuomenės) buvo priverstas sutikti su antruoju padalijimu ir.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    .
     160
     Dunojus Vv
     BudaO, Peštas
@@ -101,13 +259,13 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
     Rusijos kariuomenės) buvo priverstas sutikti su antruoju padalijimu ir atšaukti konstituciją.
 
     per Muchaveco upę.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-002
+    - t-010
 
 ## Ryšiai
 ### Teminiai klasteriai

@@ -60,63 +60,56 @@ Nenurodyta
 
 ## Teiginiai
 - t-020
-  teiginys: 'Vytautas per pirmus ketverius metus Žemaičių vyskupystei mokėjo pašalpą lietuviškais grašiais.'
+  teiginys: 'Jono Kazimiero laikais lietuviškų pinigų buvo kalama apsčiai, o variniai šilingai buvo pirmieji lietuviški vario pinigai.'
   pagrindžia:
-    - c-007
+    - c-015
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-021
-  teiginys: 'Vytautas reikalavo, kad totoriai atmuštų jo atvaizdą savo piniguose.'
+  teiginys: 'Totoriai turėjo atmušti Vytauto atvaizdą savo piniguose.'
   pagrindžia:
-    - c-001
+    - c-010
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-022
   teiginys: 'Vytautas Jogailai davė 20.000 kapų grašių kariuomenei užsieniuose samdyti.'
   pagrindžia:
-    - c-003
+    - c-011
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-023
-  teiginys: 'Vytauto laikais Lietuvoje kursavo čekų grašiai, o kai kurie jų buvo kalami ir Lietuvoje.'
+  teiginys: 'Vytauto laikais rūmuose kartais mokėta rubliais, Lietuvoje kursavo čekų grašiai, o Vytauto laikais jie buvo kalami ir Lietuvoje.'
   pagrindžia:
-    - c-004
+    - c-012
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-024
-  teiginys: 'Lietuviški denariukai atsirado 1387-1390 m., o jų pusėse vaizduoti ieties galas ir Gedimino stulpai.'
+  teiginys: 'Lietuviški denariukai atsirado 1387-1390 m., o jų pusėse vaizduoti ieties galas, kryžius ir Gedimino stulpai.'
   pagrindžia:
-    - c-005
+    - c-013
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-025
   teiginys: 'Vytauto įsakymu Kaune kalti pinigėliai turėjo Gedimino stulpus ir raidę K.'
   pagrindžia:
-    - c-006
+    - c-014
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-026
-  teiginys: 'Vytautas reikalavo, kad totoriai pripažintų jį tėvu, mokėtų duoklę ir atmuštų jo atvaizdą savo piniguose.'
+  teiginys: 'Šis pareikalavo, kad totoriai pripažintų jį savo tėvu, mokėtų jam duoklę ir atmuštų jo atvaizdą savo piniguo­ se.'
   pagrindžia:
-    - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
+    - c-016
 - t-027
-  teiginys: 'Vytautas per pirmus ketverius metus Žemaičių vyskupystei mokėjo pašalpą lietuviškais grašiais.'
+  teiginys: 'Vytau­ tas, teikdamas per pirmus keturis metus Žemaičių vyskupys­ tei pašalpą, mokėjo jai lietuviškais grašiais (latorum grossorum^1 ).'
   pagrindžia:
-    - c-008
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
+    - c-017
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Vytautas reikalavo, kad totoriai atmuštų jo atvaizdą savo piniguose.'
+- c-010
+  santrauka: 'Totoriai turėjo atmušti Vytauto atvaizdą savo piniguose.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Kai Vytautas prisiartino prie Vorsklos upės kranto, tuoj
-    ten atvyko ir vienas Timur-Kotlogo vadas Edyga ir laukė atei­
-    nant paties Kotlogo. Kad išloštų laiką, Edyga pradėjo su Vy­
-    tautu derėtis. Šis pareikalavo, kad totoriai pripažintų jį savo
+    Šis pareikalavo, kad totoriai pripažintų jį savo
     tėvu, mokėtų jam duoklę ir atmuštų jo atvaizdą savo piniguo­
     se.
   citata_rodoma: ""
@@ -126,28 +119,11 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-021
-- c-002
-  santrauka: 'Vytautas reikalavo, kad totoriai pripažintų jį tėvu, mokėtų duoklę ir atmuštų jo atvaizdą savo piniguose.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kad išloštų laiką, Edyga pradėjo su Vy­
-    tautu derėtis. Šis pareikalavo, kad totoriai pripažintų jį savo
-    tėvu, mokėtų jam duoklę ir atmuštų jo atvaizdą savo piniguo­
-    se. Jiems besideriant atvyko ir Timur-Kotlogas ir atmetė
-    Vytauto sąlygas.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-026
-- c-003
+- c-011
   santrauka: 'Vytautas Jogailai davė 20.000 kapų grašių kariuomenei užsieniuose samdyti.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Kunigaikštis Kaributas buvo jau seniau
-    išsiųstas su kariuomenės būriu pas Jogailą. Vytautas dar davė
+    Vytautas dar davė
     Jogailai 20.000 kapų grašių kariuomenei užsieniuose samdyti.
     Už tuos pinigus Jogaila pasamdė čekų ir moravų, — vokiečiai
     nėjo, nes palaikė Ordiną.
@@ -158,8 +134,8 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-022
-- c-004
-  santrauka: 'Vytauto laikais Lietuvoje kursavo čekų grašiai, o kai kurie jų buvo kalami ir Lietuvoje.'
+- c-012
+  santrauka: 'Vytauto laikais rūmuose kartais mokėta rubliais, Lietuvoje kursavo čekų grašiai, o Vytauto laikais jie buvo kalami ir Lietuvoje.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Pinigai, kuriais buvo mokami mokesčiai Vytauto valdymo
@@ -177,8 +153,8 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-023
-- c-005
-  santrauka: 'Lietuviški denariukai atsirado 1387-1390 m., o jų pusėse vaizduoti ieties galas ir Gedimino stulpai.'
+- c-013
+  santrauka: 'Lietuviški denariukai atsirado 1387-1390 m., o jų pusėse vaizduoti ieties galas, kryžius ir Gedimino stulpai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Šalia jų kursavo ir lietuviški denariukai, atsiradę 1387-1390
@@ -198,7 +174,7 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-024
-- c-006
+- c-014
   santrauka: 'Vytauto įsakymu Kaune kalti pinigėliai turėjo Gedimino stulpus ir raidę K.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -216,15 +192,11 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-025
-- c-007
-  santrauka: 'Vytautas per pirmus ketverius metus Žemaičių vyskupystei mokėjo pašalpą lietuviškais grašiais.'
+- c-015
+  santrauka: 'Jono Kazimiero laikais lietuviškų pinigų buvo kalama apsčiai, o variniai šilingai buvo pirmieji lietuviški vario pinigai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    K pinigėliai buvo
-    du kartu didesni už aukščiau minėtus pinigėlius ir daugiausia jų
-    rasta Kaune (1844 m.). Viename Jogailos ir Vytauto dokumen­
-    te pabrėžta, kad mokesčiai būtų mokami kaltais Lietuvoj si­
-    dabriniais pinigais; matyt, grašiais arba denariukais. Vytau­
+    Vytau­
     tas, teikdamas per pirmus keturis metus Žemaičių vyskupys­
     tei pašalpą, mokėjo jai lietuviškais grašiais (latorum gros-
     sorum^1 ).
@@ -235,23 +207,36 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-020
-- c-008
-  santrauka: 'Vytautas per pirmus ketverius metus Žemaičių vyskupystei mokėjo pašalpą lietuviškais grašiais.'
+- c-016
+  santrauka: 'Šis pareikalavo, kad totoriai pripažintų jį savo tėvu, mokėtų jam duoklę ir atmuštų jo atvaizdą savo piniguo­ se.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Viename Jogailos ir Vytauto dokumen­
-    te pabrėžta, kad mokesčiai būtų mokami kaltais Lietuvoj si­
-    dabriniais pinigais; matyt, grašiais arba denariukais. Vytau­
+    Šis pareikalavo, kad totoriai pripažintų jį savo
+    tėvu, mokėtų jam duoklę ir atmuštų jo atvaizdą savo piniguo­
+    se. Jiems besideriant atvyko ir Timur-Kotlogas ir atmetė
+    Vytauto sąlygas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-026
+- c-017
+  santrauka: 'Vytau­ tas, teikdamas per pirmus keturis metus Žemaičių vyskupys­ tei pašalpą, mokėjo jai lietuviškais grašiais (latorum grossorum^1 ).'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Vytau­
     tas, teikdamas per pirmus keturis metus Žemaičių vyskupys­
     tei pašalpą, mokėjo jai lietuviškais grašiais (latorum gros-
     sorum^1 ).
     Be mokesčių Vytautas didindavo dar savo pajamas ir kon­
     tribucijomis.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-027
 

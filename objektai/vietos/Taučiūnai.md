@@ -30,30 +30,36 @@ Povilo Lukšio paminklas Taučiūnų kaimo lauke (netoli Kėdainių).
 
 ## Teiginiai
 - t-001
-  teiginys: 'Povilo Lukšio paminklas buvo Taučiūnų kaimo lauke, netoli Kėdainių.'
+  teiginys: 'Važiuojant pro Taučiūnų kaimą, žvalgus netikėtai pasitiko smarki bolševikų kuopos ugnis.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Iš Taučiūnų dvaro į žvalgus buvo atidengta ugnis.'
+  pagrindžia:
+    - c-002
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-003
+  teiginys: 'Visą karo metą jaunai Lietuvos kariuomenei daugeliu atžvilgiu teko patirti didelių sunPovilo Lukšio paminklas Taučiūnų kaimo lauke (netoli Kėdainių).'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Povilo Lukšio paminklas buvo Taučiūnų kaimo lauke, netoli Kėdainių.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: 'Važiuojant pro Taučiūnų kaimą, žvalgus netikėtai pasitiko smarki bolševikų kuopos ugnis.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Balandžio mėnesį mūsiškiai nustūmė rusus į rytus ligi
-    Vilniaus, tačiau Vilnių paėmė iš pietų prasiveržę lenkai (ba-
-    landžio 19 d.). Nuo 1919 m. gegužės mėn. vidurio prasidėjo
-    planingesnės mūsų kariuomenės operacijos, tačiau mūsų jėgos
-    tada dar nebuvo didesnės, kaip 5—6 tūkstančiai durtuvų, 10
-    patrankų ir 200 kardų (raitelių). Visą karo metą jaunai Lietu-
-    vos kariuomenei daugeliu atžvilgiu teko patirti didelių sun-
+    Susėdę į dvejas roges žvalgai pa-
+    judėjo bolševikų atsitraukimo kryptimi —
+    Šėtos link. Važiuojant pro Taučiūnų kaimą,
+    žvalgus netikėtai pasitiko smarki bolše-
+    vikų kuopos ugnis. Netikėtai apšaudyti
 
+    172
 
-    Povilo Lukšio paminklas Taučiūnų kaimo lauke (netoli Kėdainių).
-    kumų: trūko ne tik aprangos ir ginklų, bet labai dažnai ir
-    maisto, nes okupacijos išvarginti ūkininkai negalėjo daug
-    padėti.
+    KĖDAINIŲ-ŠĖTOS KAUTYNES 1919 m. vasario 7-10 d. =
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -61,6 +67,42 @@ Povilo Lukšio paminklas Taučiūnų kaimo lauke (netoli Kėdainių).
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Iš Taučiūnų dvaro į žvalgus buvo atidengta ugnis.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Raudonarmiečiai
+    ėmė trauktis. Tačiau kitą akimirką į žval-
+    gus pasipylė ugnis iš Taučiūnų dvaro. Žuvo
+    P. Lukšys - pirmasis Nepriklausomybės
+    kovose žuvęs Lietuvos savano-
+    ris.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Visą karo metą jaunai Lietuvos kariuomenei daugeliu atžvilgiu teko patirti didelių sunPovilo Lukšio paminklas Taučiūnų kaimo lauke (netoli Kėdainių).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Visą karo metą jaunai Lietu-
+    vos kariuomenei daugeliu atžvilgiu teko patirti didelių sun-
+
+
+    Povilo Lukšio paminklas Taučiūnų kaimo lauke (netoli Kėdainių).
+    kumų: trūko ne tik aprangos ir ginklų, bet labai dažnai ir
+    maisto, nes okupacijos išvarginti ūkininkai negalėjo daug
+    padėti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Laikotarpiai

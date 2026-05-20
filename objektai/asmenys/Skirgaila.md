@@ -12,9 +12,6 @@ saltiniai:
 datos:
   - '1350 m.'
   - '1380 m.'
-  - '1389 m.'
-  - '1391 m.'
-  - '1392 m.'
   - '1393 m.'
   - '1395 m.'
   - '1399 m.'
@@ -55,55 +52,72 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
 
 ## Teiginiai
 - t-020
-  teiginys: 'Jogaila pavedė Lietuvą savo broliui Skirgailai, todėl Vytautui tuo metu labiau rūpėjo Lietuvos ateitis negu jos krikštas.'
+  teiginys: 'Jogaila pasiuntė savo brolį Skirgailą su slaptais įgaliojimais į Vakarų Europą, kur jis Marienburge buvo draugiškai priimtas.'
   pagrindžia:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-021
-  teiginys: 'Skirgailai buvo pavesta valdyti Vilniaus sritis.'
+  teiginys: 'Skirgaila viešpatavo Trakuose, o jo išvarymas galėjo sukelti naują karą.'
   pagrindžia:
     - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-022
-  teiginys: '1391 m. liepos 22 d. Jogaila dokumentu pažadėjo Skirgailai be jo žinios niekam neatiduoti Vilniaus ir kitų miestų.'
+  teiginys: 'Skirgaila buvo apibūdintas kaip didelis girtuoklis, smarkus žmogus ir geras chirurgas.'
   pagrindžia:
     - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-023
-  teiginys: 'Po susitaikymo su Vytautu Jogaila sutaikė jį ir su Skirgaila, kuris buvo laikomas didžiausiu Vytauto priešu.'
+  teiginys: 'Lietuvos visuomenė buvo nepatenkinta Skirgailos valdymu, nes jis buvo nepopuliarus ir nesugebėjo sutelkti valstybės jėgų.'
   pagrindžia:
     - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-024
-  teiginys: 'Tai pasi­ sekė dar lengviau įvykdyti, kai mirė Skirgaila (1395 m.).'
+  teiginys: '1391 m. Jogailos išduotas dokumentas rodė, kad Skirgailos valdžia Vilniuje buvo griežtai apribota.'
   pagrindžia:
     - c-005
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-025
-  teiginys: 'Iki 1392 m. Jogaila bandė valdyti Lietuvą per savo brolį ir vietininką Skirgailą.'
+  teiginys: 'Skirgaila mirė 1395 m., o po jo mirties Kremenecas vėl susijungė su Volynija.'
   pagrindžia:
     - c-006
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-026
+  teiginys: 'Viena jų Jogaila su Skirgaila pasižadėjo ketverių metų būvyje pasikrikštyti su visu kraštu.'
+  pagrindžia:
+    - c-007
+- t-027
+  teiginys: 'O Skirgaila, sėkmingai apgulęs Polocką, kur jis pats atsisėdo, Andrių paėmė nelaisvėn ir išsiuntė Lenkijon.'
+  pagrindžia:
+    - c-008
+- t-028
+  teiginys: 'Reikšmingu dokumentu užrašydamas Skirgailai Trakus ir Polocką, karalius pažadėjo laikyti jį aukščiau už visus kitus brolius — «a deržati mi jeho vyše usieje našeje bratije »^3.'
+  pagrindžia:
+    - c-009
+- t-029
+  teiginys: 'Bet visos valdžios valstybėje Skirgaila neturėjo.'
+  pagrindžia:
+    - c-010
+- t-030
+  teiginys: '1393 m. tarp jo ir Skirgailos vėl kilo smarkus ginčas, kuriam išspręsti Jogaila ir Jadvyga nuvyko į Vilnių.'
+  pagrindžia:
+    - c-011
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Jogaila pavedė Lietuvą savo broliui Skirgailai, todėl Vytautui tuo metu labiau rūpėjo Lietuvos ateitis negu jos krikštas.'
+  santrauka: 'Jogaila pasiuntė savo brolį Skirgailą su slaptais įgaliojimais į Vakarų Europą, kur jis Marienburge buvo draugiškai priimtas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Tačiau viso šio darbo
-    vadovu buvo Jogaila, kuris stengėsi Vytautą nustumti į šalį
-    nuo rūpinimosi Lietuva ir krikšto reikalais. Lietuvą Jogaila
-    pavedė savo broliui Skirgailai ir todėl Vytautui tuo tarpu la­
-    biau parūpo Lietuvos ateitis, kaip jos krikštas. Jis, surinkęs
-    Lucke savo šalininkus, puolė Vilnių (1389); tačiau turėjo pasi­
-    traukti ir antrą kartą bėgti pas kryžiuočius ir pradėti su Jo­
-    gaila karą.
+    Naujų galimumų akivaizdoje Jogaila pasiuntė į Vakarų Eu­
+    ropą savo brolį Skirgailą su slaptais įgaliojimais į kažkokius
+    pasitarimus. Ordinas, matyti, apie Skirgailos pasiuntinystės
+    tikslus žinojo ar bent nujautė, nes jis Marienburge buvo draugiš­
+    kai ir vaišingai priimtas.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -112,12 +126,11 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
   pagrindžia:
     - t-020
 - c-002
-  santrauka: 'Skirgailai buvo pavesta valdyti Vilniaus sritis.'
+  santrauka: 'Skirgaila viešpatavo Trakuose, o jo išvarymas galėjo sukelti naują karą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Skirgailai buvo pavesta valdyti Vilniaus sritis. Jo valdžia
-    nesiekė kitų kunigaikščių (Ged. giminės) teritorijų. Ji buvo la­
-    bai apribota.
+    Tuo tarpu Trakuose viešpatavo Skirgaila, kurio išva­
+    rymas vėl galėjo sukelti naują karą.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -126,11 +139,42 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
   pagrindžia:
     - t-021
 - c-003
-  santrauka: '1391 m. liepos 22 d. Jogaila dokumentu pažadėjo Skirgailai be jo žinios niekam neatiduoti Vilniaus ir kitų miestų.'
+  santrauka: 'Skirgaila buvo apibūdintas kaip didelis girtuoklis, smarkus žmogus ir geras chirurgas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Kad šito­
-    kia reforma buvo manoma padaryti, rodo ir šis faktas. 1391 m.
+    Lietuvos didikai negalėjo pakęsti dar ir to, kad jų aukš­
+    čiausias žmogus, Skirgaila, visiškai neimponavo dorovingumu:
+    buvo didelis girtuoklis, pasigėręs nustodavęs proto, mušdavosi,
+    kardu kapodavo apie save susirinkusius žmones, o atsipeikėjęs
+    pats sužeistuosius apraišiodavo, nes tais laikais buvęs geras
+    chirurgas.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-022
+- c-004
+  santrauka: 'Lietuvos visuomenė buvo nepatenkinta Skirgailos valdymu, nes jis buvo nepopuliarus ir nesugebėjo sutelkti valstybės jėgų.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Antra, Lietuvos visuomenė
+    labai buvo nepatenkinta Skirgailos valdymu, nes savo gyveni­
+    mu nebuvo jos tarpe populiarus ir nesugebėjo sujungti vienon
+    galybėn skylančių Lietuvos jėgų.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-023
+- c-005
+  santrauka: '1391 m. Jogailos išduotas dokumentas rodė, kad Skirgailos valdžia Vilniuje buvo griežtai apribota.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    1391 m.
     liepos 22 d. Jogaila išdavė Skirgailai dokumentą, kad Vilniaus
     ir kitų miestų be jo žinios niekam neatiduos, net ir tikram savo
     broliui, ir kad Vilnių ir kitus miestus valdys tiesiog pats Jogaila
@@ -142,31 +186,12 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-022
-- c-004
-  santrauka: 'Po susitaikymo su Vytautu Jogaila sutaikė jį ir su Skirgaila, kuris buvo laikomas didžiausiu Vytauto priešu.'
+    - t-024
+- c-006
+  santrauka: 'Skirgaila mirė 1395 m., o po jo mirties Kremenecas vėl susijungė su Volynija.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Susitaikinęs Jogaila su Vytautu, stengėsi jį, pagaliau, su­
-    taikinti ir su Skirgaila^2 ), didžiausiu Vytauto priešu, kas jam ir
-    pavyko padaryti^3 ). Vytautas pasižadėjo padėti Skirgailai pa­
-    imti Kijevą ir atiduoti jam Kremencą ir Stožką vietoj Trakų
-    kunigaikštijos. Po metų, kai vėl kilo tarp jų nesusipratimai,
-    juos sutaikino Jadvyga.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-023
-- c-005
-  santrauka: 'Tai pasi­ sekė dar lengviau įvykdyti, kai mirė Skirgaila (1395 m.).'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Ostrogo kunigaikštis Feodoras turėjo iš
-    Vytauto rankų priimti privilegiją, tvirtinančią ir išplečiančių jo
-    žemes^3 ), o tuo pačiu pripažįstančią Lucko viršenybę. Tai pasi­
+    Tai pasi­
     sekė dar lengviau įvykdyti, kai mirė Skirgaila (1395 m.). Kre-
     meniecas vėl susijungė su Volynija^4 ).
   citata_rodoma: ""
@@ -175,23 +200,85 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-024
-- c-006
-  santrauka: 'Iki 1392 m. Jogaila bandė valdyti Lietuvą per savo brolį ir vietininką Skirgailą.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Klausimas kaip Lietuva
-    bus valdoma, pasiliekama to paties Jogailos nuožiūroje. Jis
-    gi bando ją valdyti per savo vietininką (iki 1392 mt.) broli
-    Skirgailą, kurį, kaip sako Dlugošas, buvo paskyręs „pro prin­
-    cipali duce“, „ut summe rerum in Lithuaniae praeesset^3 ).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
     - t-025
+- c-007
+  santrauka: 'Viena jų Jogaila su Skirgaila pasižadėjo ketverių metų būvyje pasikrikštyti su visu kraštu.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Viena jų Jogaila su
+    Skirgaila pasižadėjo ketverių metų būvyje pasikrikštyti su visu
+    kraštu. Kitu aktu buvo daroma savotiška karinė sąjunga.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-026
+- c-008
+  santrauka: 'O Skirgaila, sėkmingai apgulęs Polocką, kur jis pats atsisėdo, Andrių paėmė nelaisvėn ir išsiuntė Lenkijon.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    O Skirgaila, sėkmingai apgulęs Polocką, kur
+    jis pats atsisėdo, Andrių paėmė nelaisvėn ir išsiuntė Lenkijon.
+    Vėliau laisvę atgavęs, Andrius žuvo Vytauto pusėje 1399 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-027
+- c-009
+  santrauka: 'Reikšmingu dokumentu užrašydamas Skirgailai Trakus ir Polocką, karalius pažadėjo laikyti jį aukščiau už visus kitus brolius — «a deržati mi jeho vyše usieje našeje bratije »^3.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Reikšmingu dokumentu užrašydamas
+    Skirgailai Trakus ir Polocką, karalius pažadėjo laikyti jį aukščiau
+    už visus kitus brolius — «a deržati mi jeho vyše usieje našeje
+    bratije »^3.
+    Skirgailos politinis svoris, kurio valdžion pateko svarbios že­
+    mės, turėjo padidėti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-028
+- c-010
+  santrauka: 'Bet visos valdžios valstybėje Skirgaila neturėjo.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Bet visos valdžios valstybėje Skirgaila neturėjo. O Vilnių
+    Jogaila sau pasiliko, atsiųsdamas ten lenkų įgulą, kuriai vadovavo
+    Klemensas Moskorzewskis. Lietuvos metraštis («Liatopisiec veli-
+    kich kniaziej litovskich») Vytauto lupomis paaiškina, jog tokis
+    Jogailos žygis sukėlė Lietuvoje nepasitenkinimą, nes didžiojoje
+    kunigaikštijoje ėmė valdyti svetimieji, «ko anksčiau lietuvių
+    žemėje nebūdavo »5 6.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-029
+- c-011
+  santrauka: '1393 m. tarp jo ir Skirgailos vėl kilo smarkus ginčas, kuriam išspręsti Jogaila ir Jadvyga nuvyko į Vilnių.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    1393 m. tarp jo ir Skirgailos vėl kilo smarkus ginčas,
+    kuriam išspręsti Jogaila ir Jadvyga nuvyko į Vilnių. Abu pusbro­
+    liai isipareigoįo, reikalui esant, šauktis karalienės tarpininkavimo
+    (1393.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-030
 
 ## Ryšiai
 ### Laikotarpiai

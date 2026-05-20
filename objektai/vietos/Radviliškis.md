@@ -34,47 +34,38 @@ sėkmingų L I E T U V O S I S T O R I J A 212 bandymų 1949 m. vasario 2–22 d
 
 ## Teiginiai
 - t-001
-  teiginys: 'Prie Radviliškio vyko kautynės su plėšikaujančiais bermontininkais, oficialiai vadintais Rusijos Vakarų savanorių armija.'
+  teiginys: '1949 m. vasario 2–22 d. bunkeryje tarp Radviliškio ir Baisogalos įvyko pirmasis ir paskutinis visos Lietuvos partizanų vadų suvažiavimas.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: '1919 m. lapkričio 20 d. K. Ladyga įsakė pradėti puolimą Radviliškio-Šiaulių kryptimi.'
+  teiginys: 'Buvo priversta taip pat prie Radviliškio kautis su plėšikaujančiais bermontininkais (oficialiai: Rusijos Vakarų savanorių armija) - Rusijos baltaisiais, prie kurių dėjosi pralaimėjusios Vokietijos kariuomenės daliniai, o taip pat - prieš tautinės Lietuvos.'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 - t-003
-  teiginys: 'Radviliškyje 1923 m. sausio 9 d. J. Budrio vadovaujamas sukilėlių traukinys sutiko M. Kalmantavičiaus-Bajoro vadovaujamą traukinį.'
+  teiginys: 'Ladyga įsakė pradėti puolimą Radviliškio-Šiaulių kryptimi.'
   pagrindžia:
     - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 - t-004
-  teiginys: '1949 m. vasario 11 d. Minaičių kaime tarp Radviliškio ir Baisogalos susitiko Vakarų ir Pietų Lietuvos partizanų atstovai bei vadai.'
+  teiginys: 'Klaipėdos kraštu (O Radviliškyje jie sutinka kitą sukilėlių traukinį, — — Geležinkelio linijos, | vadovaujamą M.'
   pagrindžia:
     - c-004
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+- t-005
+  teiginys: 'Minaičių kaimas (tarp Radviliškio ir Baisogalos), 1949 m. vasario 11 d. Pakeliui į suvažiavimą susitikę Vakarų Lietuvos (Jūros) ir Pietų Lietuvos (Nemuno) partizanų atstovai ir vadai.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Prie Radviliškio vyko kautynės su plėšikaujančiais bermontininkais, oficialiai vadintais Rusijos Vakarų savanorių armija.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  santrauka: '1949 m. vasario 2–22 d. bunkeryje tarp Radviliškio ir Baisogalos įvyko pirmasis ir paskutinis visos Lietuvos partizanų vadų suvažiavimas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Gimstanti Pirmoji Lietuvos Respublika 1919-1920 m. turėjo
-    kariauti Nepriklausomybės kovose prieš bolševikus, atremda-
-    ma jų ekspansiją prie Jiezno ir Kėdainių, po to vydama juos iki
-    pat Daugpilio. Buvo priversta taip pat prie Radviliškio kautis su
-    plėšikaujančiais bermontininkais (oficialiai: Rusijos Vakarų sa-
-    vanorių armija) - Rusijos baltaisiais, prie kurių dėjosi pralaimė-
-    jusios Vokietijos kariuomenės daliniai, o taip pat - prieš tautinės
-    Lietuvos egzistavimo galimybę atmetusius, dar neseniai gin-
-    klo broliais buvusius lenkus prie Širvintų ir Giedraičių. Visos
-    Nepriklausomybės kovos buvo paremtos savanorių heroizmu —
-    net jei už jį Lietuva siūlė žemę, vis tiek pagalvokim, kokia auka
-    buvo siūloma atgimstančiai valstybei.
+    bandymų 1949 m. vasario 2–22 d.
+    įvyko pirmasis ir paskutinis visos
+    Lietuvos partizanų vadų suvažiavi-
+    mas bunkeryje tarp Radviliškio ir
+    Baisogalos.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -83,7 +74,24 @@ sėkmingų L I E T U V O S I S T O R I J A 212 bandymų 1949 m. vasario 2–22 d
   pagrindžia:
     - t-001
 - c-002
-  santrauka: '1919 m. lapkričio 20 d. K. Ladyga įsakė pradėti puolimą Radviliškio-Šiaulių kryptimi.'
+  santrauka: 'Buvo priversta taip pat prie Radviliškio kautis su plėšikaujančiais bermontininkais (oficialiai: Rusijos Vakarų savanorių armija) - Rusijos baltaisiais, prie kurių dėjosi pralaimėjusios Vokietijos kariuomenės daliniai, o taip pat - prieš tautinės Lietuvos.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Buvo priversta taip pat prie Radviliškio kautis su
+    plėšikaujančiais bermontininkais (oficialiai: Rusijos Vakarų sa-
+    vanorių armija) - Rusijos baltaisiais, prie kurių dėjosi pralaimė-
+    jusios Vokietijos kariuomenės daliniai, o taip pat - prieš tautinės
+    Lietuvos egzistavimo galimybę atmetusius, dar neseniai gin-
+    klo broliais buvusius lenkus prie Širvintų ir Giedraičių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Ladyga įsakė pradėti puolimą Radviliškio-Šiaulių kryptimi.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mūšis
@@ -95,21 +103,17 @@ sėkmingų L I E T U V O S I S T O R I J A 212 bandymų 1949 m. vasario 2–22 d
     bermontininkų, jie Radviliškyje turėjo
     apie 10-12 patrankų, daugybę kulkosvai-
     džių, minosvaidžių ir bombosvaidžių.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Radviliškyje 1923 m. sausio 9 d. J. Budrio vadovaujamas sukilėlių traukinys sutiko M. Kalmantavičiaus-Bajoro vadovaujamą traukinį.'
+    - t-003
+- c-004
+  santrauka: 'Klaipėdos kraštu (O Radviliškyje jie sutinka kitą sukilėlių traukinį, — — Geležinkelio linijos, | vadovaujamą M.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    === Geležinkelio linija
-    Kretinga-Kužiai,
-    kuri buvo nutiesta
-    tik 1936 m.
     +—— Lietuvių žygio į
     Klaipėdą maršrutas
 
@@ -119,16 +123,15 @@ sėkmingų L I E T U V O S I S T O R I J A 212 bandymų 1949 m. vasario 2–22 d
 
     — — Geležinkelio linijos, | vadovaujamą M. Kalmantavičiaus-Bajoro, kuris
     kurios egzistavo atvyko iš Panevėžio.
-    1923 m.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-003
-- c-004
-  santrauka: '1949 m. vasario 11 d. Minaičių kaime tarp Radviliškio ir Baisogalos susitiko Vakarų ir Pietų Lietuvos partizanų atstovai bei vadai.'
+    - t-004
+- c-005
+  santrauka: 'Minaičių kaimas (tarp Radviliškio ir Baisogalos), 1949 m. vasario 11 d. Pakeliui į suvažiavimą susitikę Vakarų Lietuvos (Jūros) ir Pietų Lietuvos (Nemuno) partizanų atstovai ir vadai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     partizanų vadovybę, pagrindiniu kovos tikslu buvo nurodytas siekis
@@ -141,28 +144,14 @@ sėkmingų L I E T U V O S I S T O R I J A 212 bandymų 1949 m. vasario 2–22 d
     į suvažiavimą susitikę Vakarų
     Lietuvos (Jūros) ir Pietų Lietuvos
     (Nemuno) partizanų atstovai ir
-    vadai. Antroje eilėje (stovi) iš kairės:
-    ketvirtas - Vakarų Lietuvos srities
-    štabo viršininkas Vytautas Gužas-
-    Kardas, penktas - Tauro apygardos
-    vadas Aleksandras Grybinas-Faus-
-    tas, septintas — Vakarų Lietuvos sri-
-    ties vadas Aleksandras Milaševičius-
-    Ruonis, devintas - Pietų Lietuvos
-    srities vadas Adolfas Ramanauskas-
-    Vanagas, dešimtas - Kęstučio
-    apygardos štabo viršininkas
-    Robertas Gedvilas-Remigijus, vie-
-    nuoliktas - Vakarų Lietuvos srities
-    Agitacijos ir propagandos skyriaus
-    viršininkas Antanas Liesys-Idenas
-  citata_rodoma: ""
+    vadai.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-004
+    - t-005
 
 ## Ryšiai
 ### Laikotarpiai

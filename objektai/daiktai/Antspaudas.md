@@ -36,27 +36,63 @@ Nenurodyta
 
 ## Teiginiai
 - t-007
-  teiginys: 'XIX a. pradžios istorikai teigė matę tos sutarties originalą su visų keturių valdovų sveikais antspaudais.'
+  teiginys: 'Prie 1379 m. sutarties buvo Vytauto antspaudas su jo ženklu ir užrašu „S: DUCJS VITAUTE“.'
   pagrindžia:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-008
-  teiginys: '1401 m. kovo 11 d. Radome duoto dokumento originalas išliko su 49 antspaudais.'
+  teiginys: '1379 m. čia įvardijami kaip pirmoji Vytauto antspaudos pasirodymo data.'
+  pagrindžia:
+    - c-001
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-009
+  teiginys: 'XIX a. pradžios istorikai teigė matę tos sutarties originalą su visų keturių valdovų sveikais antspaudais.'
   pagrindžia:
     - c-002
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-010
+  teiginys: '1401 m. kovo 11 d. Radome duoto dokumento originalas išliko su 49 antspaudomis.'
+  pagrindžia:
+    - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'XIX a. pradžios istorikai teigė matę tos sutarties originalą su visų keturių valdovų sveikais antspaudais.'
+  santrauka: 'Prie 1379 m. sutarties buvo Vytauto antspaudas su jo ženklu ir užrašu „S: DUCJS VITAUTE“.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
+    Būdamas pilnateisis kunigaikštis, šitą aktą pasirašant da­
+    lyvavo ir Vytautas. Pačiame tekste yra pažymėta, kad be ma­
+    gistro ir Jogailos savo antspaudas prie dokumentų prikabino
+    „Kinstutte herczoge czu Tracken und Wytould unsir son“. Iš
+    ```
+    (^1) ) L. E. K. U., III t., 144 nr. (^2) ) Krum., 83 psl.
+
+
+    ```
+    — 9 —
+    ```
     tikro prie šitos sutarties buvo Vytauto antspauda su jo ženklu
     ir užrašu „S: DUCJS VITAUTE”, kas reiškia kunigaikščio
     Vytauto antspaudą. 1379 metai yra pati pirmoji Vytauto ant­
-    spaudos pasirodymo data^1 ). Prūsų istorikas Voigtas (apie 1825
+    spaudos pasirodymo data^1 ).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-007
+    - t-008
+- c-002
+  santrauka: 'XIX a. pradžios istorikai teigė matę tos sutarties originalą su visų keturių valdovų sveikais antspaudais.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Prūsų istorikas Voigtas (apie 1825
     metus) ir kiti to laiko istorikai, t. y. prieš šimtą metų, žiūrėda­
     mi tos sutarties originalą, sakė esą matę visų keturių valdovų
     sveikas antspaudas^2 ).
@@ -66,25 +102,20 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-007
-- c-002
-  santrauka: '1401 m. kovo 11 d. Radome duoto dokumento originalas išliko su 49 antspaudais.'
+    - t-009
+- c-003
+  santrauka: '1401 m. kovo 11 d. Radome duoto dokumento originalas išliko su 49 antspaudomis.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    (^1) ) a) Vytauto dokumento, duoto 1401 m. sausio 18 d. Vilniuj, yra išli­
-    kęs iki mūsų laikų originalas (kun. Cartoriškių archyve).
-    b) Lietuvių bajorų dokumentas išduotas tais pačiais metais ir tą pačią
-    dieną Vilniuj; originalas žuvęs.
     c) Lenkų karališkos tarybos dokumento, duoto 1401 m. kovo 11 d. Ra­
     dome, išlikęs originalas su 49 antspaudomis, yra Radvilų archyve Niesvyžiuj.
-    (^2) ) C. ep. V., 223.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-008
+    - t-010
 
 ## Ryšiai
 ### Teminiai klasteriai

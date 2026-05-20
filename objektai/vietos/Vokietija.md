@@ -44,46 +44,41 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
 
 ## Teiginiai
 - t-001
-  teiginys: 'Ordinas išlaikė paprotį kviesti svečius iš Vokietijos ir pradėjo skelbti specialius kryžiaus žygius.'
+  teiginys: 'Po 1629 m. paliaubų su ATR Gustavo Adolfo vadovaujama švedų kariuomenė Vokietijoje laimėjo prieš katalikų kariuomenes.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Daug didikų vaikų Vokietijos universitetuose perimdavo protestantų mokslą ir parsiveždavo jį į Lietuvą.'
+  teiginys: 'Neišnyko nė senas papratimas kviesti svečius iš Vokietijos; buvo pradėti skelbti net specialūs kryžiaus žygiai.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 - t-003
-  teiginys: 'Rengiantis 1579 m. žygiui buvo samdomi kareiviai Vengrijoje ir Vokietijoje.'
+  teiginys: 'Be to, daug didikų vaikų, išvažiavę mokytis į Vokietijos universitetus, užsikrėsdavo protestantų mokslu, kurį parsiveždavo kartu ir į Lietuvą; čia, esant tokiai liūdnai Bažnyčios būklei, jam buvo labai patogi dirva plisti.'
   pagrindžia:
     - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 - t-004
-  teiginys: 'Daugelis vykdavo mokytis į Vokietiją, o dėl tenykščių protestantiškų universitetų dažnai grįždavo protestantais.'
+  teiginys: 'Tuo būdu surinkus pinigų, prisisamdžius Vengrijoje ir Vokietijoje kareivių, prisipirkus ir prisigaminus ginklų (tada Vilniuje buvo įsteigta patrankų liejykla), 1579 m.'
   pagrindžia:
     - c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 - t-005
-  teiginys: 'Išvykę į Vokietijos universitetus jaunuoliai kartais vėl pereidavo į protestantizmą, o grįžę namo vėliau grįždavo į katalikybę.'
+  teiginys: 'Daugelis vyko į Vokietiją; bet kadangi ten universitetai buvo protestantiški, tai dažnai jie iš ten grįždavo protestantai.'
   pagrindžia:
     - c-005
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+- t-006
+  teiginys: 'Tais laikais būdavo labai paprastas reiškinys, kad jaunystėje buvę protestantai, patekę į jėzuitų mokyklas, pasidarydavo katalikais, išvykę į Vokietijos universitetus, vėl atvirsdavo į protestantizmą, o grįžę namo po kiek laiko vėl pereidavo į katalikybę.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Ordinas išlaikė paprotį kviesti svečius iš Vokietijos ir pradėjo skelbti specialius kryžiaus žygius.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: 'Po 1629 m. paliaubų su ATR Gustavo Adolfo vadovaujama švedų kariuomenė Vokietijoje laimėjo prieš katalikų kariuomenes.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Naujasis ordinas turėjo būti nuolatinė organizuota vokiečių
-    ir krikštytų čiabuvių karinė pajėga. Neišnyko nė senas paprati-
-    mas kviesti svečius iš Vokietijos; buvo pradėti skelbti net specia-
-    lūs kryžiaus žygiai. Tačiau visos akcijos centras jau buvo ordi-
-    nas.
+    Po 1629 m. paliaubų su ATR, Švedijos karaliaus Gustavo Adolfo
+    vadovaujama švedų kariuomenė ėmė skinti pergales prieš kata-
+    likų kariuomenes Trisdešimtmečio karo mūšių laukuose (1618-
+    1648 m.), Vokietijoje.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -92,7 +87,22 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Daug didikų vaikų Vokietijos universitetuose perimdavo protestantų mokslą ir parsiveždavo jį į Lietuvą.'
+  santrauka: 'Neišnyko nė senas papratimas kviesti svečius iš Vokietijos; buvo pradėti skelbti net specialūs kryžiaus žygiai.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Neišnyko nė senas paprati-
+    mas kviesti svečius iš Vokietijos; buvo pradėti skelbti net specia-
+    lūs kryžiaus žygiai. Tačiau visos akcijos centras jau buvo ordi-
+    nas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Be to, daug didikų vaikų, išvažiavę mokytis į Vokietijos universitetus, užsikrėsdavo protestantų mokslu, kurį parsiveždavo kartu ir į Lietuvą; čia, esant tokiai liūdnai Bažnyčios būklei, jam buvo labai patogi dirva plisti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Protestantizmo plitimas.** Protestantizmas labai greitai pa-
@@ -102,55 +112,31 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
     vo protestantų mokslu, kurį parsiveždavo kartu ir į Lietuvą; čia,
     esant tokiai liūdnai Bažnyčios būklei, jam buvo labai patogi
     dirva plisti.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Rengiantis 1579 m. žygiui buvo samdomi kareiviai Vengrijoje ir Vokietijoje.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pagaliau laimėjo lietuviai
-    ir karalius; lenkai irgi sutiko apsidėti mokesčiais. Lietuva noriai
-    pasižadėjo duoti 10.000 karių. Tuo būdu surinkus pinigų, prisi-
-    samdžius Vengrijoje ir Vokietijoje kareivių, prisipirkus ir prisi-
-    gaminus ginklų (tada Vilniuje buvo įsteigta patrankų liejykla),
-
-    1579 m. vasarą pats karalius iš Vilniaus išžygiavo prieš caro
-    kariuomenę, kuri buvo suspiesta Pskove.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
 - c-004
-  santrauka: 'Daugelis vykdavo mokytis į Vokietiją, o dėl tenykščių protestantiškų universitetų dažnai grįždavo protestantais.'
+  santrauka: 'Tuo būdu surinkus pinigų, prisisamdžius Vengrijoje ir Vokietijoje kareivių, prisipirkus ir prisigaminus ginklų (tada Vilniuje buvo įsteigta patrankų liejykla), 1579 m.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tuo būdu jau buvo pakankamai
-    kandidatų aukštajai mokyklai, kuri buvo labai reikalinga, nes
-    daugelis jaunimo turėjo vykti toliau mokytis į užsienio univer-
-    sitetus. Daugelis vyko į Vokietiją; bet kadangi ten universitetai
-    buvo protestantiški, tai dažnai jie iš ten grįždavo protestantai.
-    Tais laikais būdavo labai paprastas reiškinys, kad jaunystėje
-    buvę protestantai, patekę į jėzuitų mokyklas, pasidarydavo ka-
-    talikais, išvykę į Vokietijos universitetus, vėl atvirsdavo į pro-
-    testantizmą, o grįžę namo po kiek laiko vėl pereidavo į kata-
-    likybę.
-  citata_rodoma: ""
+    Tuo būdu surinkus pinigų, prisi-
+    samdžius Vengrijoje ir Vokietijoje kareivių, prisipirkus ir prisi-
+    gaminus ginklų (tada Vilniuje buvo įsteigta patrankų liejykla),
+
+    1579 m.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
 - c-005
-  santrauka: 'Išvykę į Vokietijos universitetus jaunuoliai kartais vėl pereidavo į protestantizmą, o grįžę namo vėliau grįždavo į katalikybę.'
+  santrauka: 'Daugelis vyko į Vokietiją; bet kadangi ten universitetai buvo protestantiški, tai dažnai jie iš ten grįždavo protestantai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Daugelis vyko į Vokietiją; bet kadangi ten universitetai
@@ -159,17 +145,33 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
     buvę protestantai, patekę į jėzuitų mokyklas, pasidarydavo ka-
     talikais, išvykę į Vokietijos universitetus, vėl atvirsdavo į pro-
     testantizmą, o grįžę namo po kiek laiko vėl pereidavo į kata-
+    likybę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: 'Tais laikais būdavo labai paprastas reiškinys, kad jaunystėje buvę protestantai, patekę į jėzuitų mokyklas, pasidarydavo katalikais, išvykę į Vokietijos universitetus, vėl atvirsdavo į protestantizmą, o grįžę namo po kiek laiko vėl pereidavo į katalikybę.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tais laikais būdavo labai paprastas reiškinys, kad jaunystėje
+    buvę protestantai, patekę į jėzuitų mokyklas, pasidarydavo ka-
+    talikais, išvykę į Vokietijos universitetus, vėl atvirsdavo į pro-
+    testantizmą, o grįžę namo po kiek laiko vėl pereidavo į kata-
     likybę. Todėl katalikų dvasininkams ir jėzuitams buvo labai
     svarbu įkurti savo aukštąją mokyklą, kad kuo mažiausia vyktų
     mokytis svetur ir kad vietoje būtų galima paruošti didžiai rei-
     kalingų katalikų šviesuolių su aukštuoju mokslu.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-005
+    - t-006
 
 ## Ryšiai
 ### Laikotarpiai

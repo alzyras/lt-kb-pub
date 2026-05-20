@@ -30,22 +30,49 @@ Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Švei
 
 ## Teiginiai
 - t-001
-  teiginys: 'Buvo nutarta politinės propagandos centrą padaryti Šveicarijoje ir čia sukurti Rusijos, Lietuvos ir Amerikos lietuvių tarybą; darbo pagrindu buvo paimtas nepriklausomybės reikalavimas.'
+  teiginys: 'Neutralioje Šveicarijoje susidarė negausus, bet aktyvus lietuvių būrys, šelpęs belaisvius Vokietijoje ir skleidęs žinias apie lietuvių teises.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Šveicarijoje nutarta steigti politinės propagandos centrą ir Rusijos, Lietuvos bei Amerikos lietuvių tarybą, kurios darbo pagrindu tapo nepriklausomybės reikalavimas.'
+  pagrindžia:
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-003
+  teiginys: 'Šveicarijos komitetai darbavosi ligi karo pabaigos.'
+  pagrindžia:
+    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-004
+  teiginys: '123 Švarnas, Danieliaus sūnus 155, 157, 172, 179, 197, 199-201 Švedija 67, 72, 101, 107, 116, 184 Šveicarija 70 ; Šveicarijos Friburgas 57, 59, 153 Švėkšna 184 Švč.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Buvo nutarta politinės propagandos centrą padaryti Šveicarijoje ir čia sukurti Rusijos, Lietuvos ir Amerikos lietuvių tarybą; darbo pagrindu buvo paimtas nepriklausomybės reikalavimas.'
+  santrauka: 'Neutralioje Šveicarijoje susidarė negausus, bet aktyvus lietuvių būrys, šelpęs belaisvius Vokietijoje ir skleidęs žinias apie lietuvių teises.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Šita konferencija tegvildeno propagandos organizacijos
-    klausimus ir protestavo prieš vokiečių okupacijos žiaurumus
-    Lietuvoje ir krašto naikinimą.
-    Antroj Lozanos konferencijoj tų pačių metų birželio 30 —
-    liepos 4 d. dalyvavo iš okupuotosios Lietuvos atvykę delegatai.
+    Kitas labai negausus, bet aktyvus lietuvių būrys susidarė
+    neutralinėje Šveicarijoje. Ypačiai Amerikos lietuvių
+    organizacijų teikiamomis lėšomis tas būrys šelpė lietuvius be-
+    laisvius Vokietijoje ir skleidė žinias apie lietuvių tautą ir jos
+    reikalaujamąsias teises savarankiškai tvarkytis.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Šveicarijoje nutarta steigti politinės propagandos centrą ir Rusijos, Lietuvos bei Amerikos lietuvių tarybą, kurios darbo pagrindu tapo nepriklausomybės reikalavimas.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
     Buvo nutarta politinės propagandos centrą padaryti Šveicarijoje
     ir čia sukurti Rusijos, Lietuvos ir Amerikos lietuvių tarybą; dar-
     bo pagrindu buvo paimtas nepriklausomybės reikalavimas.
@@ -55,7 +82,39 @@ Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Švei
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002
+- c-003
+  santrauka: 'Šveicarijos komitetai darbavosi ligi karo pabaigos.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Šveicarijos ko-
+    mitetai darbavosi ligi karo pabaigos.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: '123 Švarnas, Danieliaus sūnus 155, 157, 172, 179, 197, 199-201 Švedija 67, 72, 101, 107, 116, 184 Šveicarija 70 ; Šveicarijos Friburgas 57, 59, 153 Švėkšna 184 Švč.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    123
+    Švarnas, Danieliaus sūnus 155, 157,
+    172, 179, 197, 199-201
+    Švedija 67, 72, 101, 107, 116, 184
+    Šveicarija 70 ; Šveicarijos Friburgas
+    57, 59, 153
+    Švėkšna 184
+    Švč.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Laikotarpiai

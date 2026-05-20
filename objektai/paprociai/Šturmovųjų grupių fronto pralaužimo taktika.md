@@ -47,6 +47,12 @@ Nenurodyta
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: 'Durtuvų kautynės šioms grupėms tapo netikėta kliūtimi.'
+  pagrindžia:
+    - c-002
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -67,3 +73,18 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+- c-002
+  santrauka: 'Durtuvų kautynės šioms grupėms tapo netikėta kliūtimi.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    mūsiškiai metėsi durtuvų kautynėms, tai jie turėjo nusilenkti, nes
+    tai buvo jiems didelis netikėtumas. „Šturmovcai“ tą savo nepasi-
+    sekimą aiškino tuo, kad jie buvo atvežti tiesiog iš bolševikų fronto,
+    tai ir puolė tokiu pat būdu kaip ir bolševikus.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-005

@@ -50,27 +50,60 @@ Nenurodyta
 
 ## Teiginiai
 - t-005
-  teiginys: 'Prostkų mūšyje lietuviai apgaulingu atsitraukimu išviliojo brandenburgiečius persikelti į kitą Elko upės krantą.'
+  teiginys: '1656 m. spalio 8 d. ties Prostkais Lietuvos pajėgos pasitiko besitraukiančias Švedijos ir Brandenburgo pajėgas.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-006
-  teiginys: 'Pagrindinės V. Gosievskio pajėgos užpuolė ir sumušė priešo pajėgas, o Boguslavas Radvila pateko į nelaisvę.'
+  teiginys: 'Lietuviai apgaulingu atsitraukimo manevru išviliojo brandenburgiečius persikelti į kitą krantą, o priešo įsikišimas buvo sutrukdytas.'
   pagrindžia:
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-007
-  teiginys: 'Prostkų mūšyje priešo nuostoliai buvo apie 5500 karių.'
+  teiginys: 'Pagrindinės V. Gosievskio pajėgos užpuolė ir sumušė priešo pajėgas, o Boguslavas Radvila pateko į nelaisvę.'
   pagrindžia:
     - c-003
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-008
+  teiginys: 'Prostkų mūšyje priešo nuostoliai buvo apie 5500 karių.'
+  pagrindžia:
+    - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Prostkų mūšyje lietuviai apgaulingu atsitraukimu išviliojo brandenburgiečius persikelti į kitą Elko upės krantą.'
+  santrauka: '1656 m. spalio 8 d. ties Prostkais Lietuvos pajėgos pasitiko besitraukiančias Švedijos ir Brandenburgo pajėgas.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Švedijos ir jos sąjungininko Branden-
+    burgo besitraukiančias pajėgas ties
+    Prostkais pasitiko Lietuvos lauko etmono
+    Vincento Gosievskio vadovaujamos pajė-
+    gos. Lietuvių tikslas buvo priversti atsi-
+    sakyti Burgundijos kiurfiurstą sąjungos
+    su Švedija. Lietuvos pajėgas sudarė apie
+    10 tūkst. lietuvių ir 2 tūkst. Krymo to-
+    torių - samdinių. Jungtinę olando gen.
+    Georgo Fridriko Valdeko vadovaujamą
+    švedų, brandenburgiečių ir prūsų ka-
+    riuomenę sudarė 3500 raitarų ir dra-
+    gūnų, 800 už švedus kariavusio Boguslavo
+    Radvilos raitelių, 1000 pėstininkų ir 2000
+    Walenrodto vedamų pėstininkų. Iš viso
+    apie 7000 karių.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-005
+- c-002
+  santrauka: 'Lietuviai apgaulingu atsitraukimo manevru išviliojo brandenburgiečius persikelti į kitą krantą, o priešo įsikišimas buvo sutrukdytas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mūšis
@@ -93,8 +126,8 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
-- c-002
+    - t-006
+- c-003
   santrauka: 'Pagrindinės V. Gosievskio pajėgos užpuolė ir sumušė priešo pajėgas, o Boguslavas Radvila pateko į nelaisvę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -117,8 +150,8 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-006
-- c-003
+    - t-007
+- c-004
   santrauka: 'Prostkų mūšyje priešo nuostoliai buvo apie 5500 karių.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -132,7 +165,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-007
+    - t-008
 
 ## Ryšiai
 ### Laikotarpiai

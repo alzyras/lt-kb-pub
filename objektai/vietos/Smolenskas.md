@@ -7,45 +7,24 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
-  - '1239 m.'
-  - '1240 m.'
   - '1396 m.'
-  - '1399 m.'
   - '1401 m.'
   - '1404 m.'
-  - '1427 m.'
-  - '1512 m.'
   - '1514 m.'
-  - '1522 m.'
-  - '1581 m.'
-  - '1601 m.'
-  - '1605 m.'
-  - '1609 m.'
-  - '1611 m.'
-  - '1615 m.'
-  - '1616 m.'
-  - '1621 m.'
-  - '1632 m.'
-  - '1634 m.'
-  - '1649 m.'
-  - '1654 m.'
-  - '1656 m.'
-  - '1673 m.'
-periodas: 'viduramžiai'
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
   - 'LDK'
-  - 'viduramžiai'
+  - 'modernioji Lietuva'
 amziai:
-  - 'XIII'
   - 'XIV'
   - 'XV'
   - 'XVI'
-  - 'XVII'
-  - 'XVIII'
   - 'XX'
   - 'XXI'
-date_start: '1239'
-date_end: '1673'
+date_start: '1396'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - karalius
@@ -61,58 +40,78 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Smolenskui buvo suteikta privilegija, garantavusi jam dalį savarankiškumo.'
+  teiginys: 'Smolenskas buvo vienas iš miestų, iš kurių susidarė atskiros kunigaikštijos.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Maskvos kariuomenė net tris kartus buvo apgulusi Smolenską, užėmė Oršą ir apdegino Vitebską.'
+  teiginys: 'Smolenskas buvo vienas iš miestų, iš kurių susidarė atskiros kunigaikštijos.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: '1512 m. prasidėjus karui visos Maskvos jėgos buvo nukreiptos į Smolenską.'
+  teiginys: 'Po sąmokslo Švitrigaila paspruko į Polocką ir perėmė Smolensko sritį kartu su kitomis sritimis.'
   pagrindžia:
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-004
-  teiginys: '1522 m. paliaubomis Smolenskas buvo paliktas Maskvai ir Lietuvai grįžo tik 1611 m.'
+  teiginys: 'Maskvos kariuomenė net tris kartus buvo apgulusi Smolenską, užėmė Oršą ir apdegino Vitebską.'
   pagrindžia:
     - c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-005
-  teiginys: 'Caras pyko, kad karalius nepripažino jam Polocko, Smolensko ir Livonijos kunigaikščio titulų.'
+  teiginys: 'Vosylius III su Glinskiu artinosi prie Smolensko, laikyto svarbiausiu Dniepro aukštupį saugančiu strateginiu punktu.'
   pagrindžia:
     - c-005
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-006
-  teiginys: 'Zigmanto Vazos laikais Smolenskas buvo atgautas, o Jono Kazimiero laikais Andrusavos sutartimi vėl atiduotas Maskvai.'
+  teiginys: '1512 m. prasidėjus karui, visos Maskvos jėgos buvo nukreiptos į Smolenską.'
   pagrindžia:
     - c-006
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-007
-  teiginys: 'Smolenske atsirado jėzuitų kolegija, funduota klebono Lempickio ir kitų fundatorių.'
+  teiginys: '1522 m. paliaubomis Smolenskas buvo paliktas Maskvai ir Lietuvai grįžo tik 1611 m.'
   pagrindžia:
     - c-007
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-008
+  teiginys: 'Caras pyko, kad karalius nepripažino jam Smolensko kunigaikščio titulo ir pats tą titulą vartojo.'
+  pagrindžia:
+    - c-008
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-009
+  teiginys: 'Plėsdamas savo valdžią rytuose, Vytautas energingai sutvarkė Smolenską.'
+  pagrindžia:
+    - c-009
+- t-010
+  teiginys: 'Remdamasis giminyste, Vytautas pasisiūlė tarpininkauti ir ta proga 1396 m. rudenį užėmė Smolenską, iškilmingai miestan įžengdamas ir amžininkus nuste­ bindamas.'
+  pagrindžia:
+    - c-010
+- t-011
+  teiginys: '1401 vėl atkrito Smolenskas.'
+  pagrindžia:
+    - c-011
+- t-012
+  teiginys: 'Vytautas greit užvaldė Smolenską (1404.VI.27) ir jame vėl paskyrė savo vietininką^48.'
+  pagrindžia:
+    - c-012
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Smolenskui buvo suteikta privilegija, garantavusi jam dalį savarankiškumo.'
+  santrauka: 'Smolenskas buvo vienas iš miestų, iš kurių susidarė atskiros kunigaikštijos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    179 psl.),
-    o vėliau — Smolenskui. Smolenske buvo įsigalėjęs Lengvenio
-    Algirdaičio sūnus Jurgis. Nors jis ir buvo jėga pašalintas, ta-
-    čiau Smolenskui teko duoti privilegiją, garantuojančią jam dalį
-    savarankiškumo.
+    Iš jos miestų, kaip antai:
+    Smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros ku-
+    nigaikštijos.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -121,13 +120,11 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Maskvos kariuomenė net tris kartus buvo apgulusi Smolenską, užėmė Oršą ir apdegino Vitebską.'
+  santrauka: 'Smolenskas buvo vienas iš miestų, iš kurių susidarė atskiros kunigaikštijos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Maskvos kariuomenė net tris kartus buvo
-    apgulusi Smolenską, užėmė Oršą ir apdegino Vitebską. Alek-
-    sandras pradėjo derybas dėl taikos. Tačiau amžinosios taikos
-    jam nepasisekė padaryti; buvo pasirašytos tik 6 metų paliaubos.
+    Smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros ku-
+    nigaikštijos.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -136,7 +133,53 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   pagrindžia:
     - t-002
 - c-003
-  santrauka: '1512 m. prasidėjus karui visos Maskvos jėgos buvo nukreiptos į Smolenską.'
+  santrauka: 'Po sąmokslo Švitrigaila paspruko į Polocką ir perėmė Smolensko sritį kartu su kitomis sritimis.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tačiau sąmokslas ne visai pasisekė: Švitrigaila suskubo pasprukti
+    į Polocką ir paimti į savo valdžią Polocko, Vitebsko, Smolensko,
+    Naugardo Sieversko, Černigovo ir Kijevo sritis; tuo būdu Zig-
+    mantui, paskelbtam didžiuoju kunigaikščiu, be tikrosios Lietu-
+    vos, liko tiktai Palenkės, Pagirio ir Minsko žemės.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Maskvos kariuomenė net tris kartus buvo apgulusi Smolenską, užėmė Oršą ir apdegino Vitebską.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Maskvos kariuomenė net tris kartus buvo
+    apgulusi Smolenską, užėmė Oršą ir apdegino Vitebską. Alek-
+    sandras pradėjo derybas dėl taikos.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: 'Vosylius III su Glinskiu artinosi prie Smolensko, laikyto svarbiausiu Dniepro aukštupį saugančiu strateginiu punktu.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tuo pat metu betgi pradėjo karą su Lietuva Glinskio pasikviestas Vosylius
+    III, kuris skelbėsi einąs vaduoti spaudžiamųjų pravoslavų. Kar-
+    tu su Glinskiu jis apgulė daugelį Lietuvos miestų ir artinosi prie
+    svarbiausiojo strateginio punkto, saugančio Dniepro aukštupį,
+    — prie Smolensko.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: '1512 m. prasidėjus karui, visos Maskvos jėgos buvo nukreiptos į Smolenską.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Karas prasidėjo 1512 m. Visos Maskvos jėgos buvo nu-
@@ -148,15 +191,12 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
-- c-004
+    - t-006
+- c-007
   santrauka: '1522 m. paliaubomis Smolenskas buvo paliktas Maskvai ir Lietuvai grįžo tik 1611 m.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Laimėjimas buvo didžiausias, Maskvos jėgos buvo
-    sunaikintos, tačiau lietuviams jau nebepasisekė atsiimti Smolens-
-    ko tvirtovės, nors karas po to dar truko 8 metus. Pagaliau
-    1522 m. buvo padarytos 11 m. paliaubos. Smolenskas buvo
+    Pagaliau 1522 m. buvo padarytos 11 m. paliaubos. Smolenskas buvo
     paliktas Maskvai; jis grįžo Lietuvai tik maždaug po 100 metų
     (t. y. 1611 m.).
   citata_rodoma: ""
@@ -165,72 +205,95 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
-- c-005
-  santrauka: 'Caras pyko, kad karalius nepripažino jam Polocko, Smolensko ir Livonijos kunigaikščio titulų.'
+    - t-007
+- c-008
+  santrauka: 'Caras pyko, kad karalius nepripažino jam Smolensko kunigaikščio titulo ir pats tą titulą vartojo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Todėl
-    jis pradėjo su caru derybas. Caras jo pasiuntinius priėmė labai
+    Caras jo pasiuntinius priėmė labai
     nemandagiai, pyko, kam karalius nepripažįstąs jam Polocko,
     Smolensko ir Livonijos kunigaikščio titulų, o tuos titulus patsai
-    vartojąs, piktinosi, kad Stp. Batoras laiške jį vadinąs broliu (jau
-    nuo seno buvo toks paprotys, kad valdovai vienas kitą vadin-
-    davo broliu; tačiau caras, pykdamas ant Stp.
+    vartojąs, piktinosi, kad Stp. Batoras laiške jį vadinąs broliu
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
-- c-006
-  santrauka: 'Zigmanto Vazos laikais Smolenskas buvo atgautas, o Jono Kazimiero laikais Andrusavos sutartimi vėl atiduotas Maskvai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+    - t-008
+- c-009
+  santrauka: 'Plėsdamas savo valdžią rytuose, Vytautas energingai sutvarkė Smolenską.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Zigmanto Vazos laikais, kai Maskvoje siautė di-
-    džioji suirutė, buvo atgautas Smolenskas (žiūr. 313 psl.), ta-
-    čiau Jono Kazimiero laikais Andrusavos sutartimi (žiūr. 330
-    psl.) jis vėl buvo atiduotas Maskvai, ir sienos su ja liko beveik
-    tokios pat, kokios buvo Stp. Batoro laikais.
-  citata_rodoma: ""
+    Plėsdamas savo valdžią rytuose, Vytautas energingai sutvarkė
+    Smolenską. Lietuvos ekspansijoje į rytus ši Dniepro aukštupio
+    kunigaikštija žymią rolę vaidino nuo Mindaugo laikų, nes yra
+    duomenų, kad jau XIII amž. pusėje lietuvių kunigaikštis Edvydas
+    buvo įsitvirtinęs Smolenske^7. Ši Dniepro tvirtovė buvo svarbus
+    raktas į didžiausius plotus. Smolenskas ilgai saugojo Lietuvos
+    valstybės šiaurės-rytų valdas, ir lietuviai nuo 1514 per visą šimt­
+    metį nedarė su Maskva pastovios taikos, iš visų jėgų stengdamiesi
+    jį atgal atsiimti.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-006
-- c-007
-  santrauka: 'Smolenske atsirado jėzuitų kolegija, funduota klebono Lempickio ir kitų fundatorių.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+    - t-009
+- c-010
+  santrauka: 'Remdamasis giminyste, Vytautas pasisiūlė tarpininkauti ir ta proga 1396 m. rudenį užėmė Smolenską, iškilmingai miestan įžengdamas ir amžininkus nuste­ bindamas.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Tuo
-    būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono
-    Jono Karolio Katkevičiaus fundacija), Gardine (Smolensko
-    vyskupo Isaikovskio ir kt. fundacija). Oršoje (karaliaus Zig-
-    manto fundacija), Smolenske (klebono Lempickio ir kt. fun-
-    dacija), Kaune (brolių Vijūkų Kojelavičių fundacija), Minske
-    (kanclerio Martyno Oginskio ir K. Bžostausko fundacija), Nau-
-    garduke (sudėtinė fundacija), Bobruiske (Triznos fun-
-    dacija), Pinske (kanclerio Aibr. St. Radvilos fundacija), Pa-
-    šiaušėje (bajoro Beinarto f-ja), Slucke (sudėtinė f-ja),
-    Vitebske (Smolensko vaivados A. Gansiausko f-ja), Žodiš-
-    kiuose (Minkevičių f-ja), Brastoje (vicekanclerio L. K. Sa-
-    piegos f-ja).
-  citata_rodoma: ""
+    VORSKLOS KATASTROFA 313
+    ```
+    Sviatoslavo sūnūs — Jogailai paklusnumą žadėjęs Jurgis ir jo brolis
+    Hlebas — pateko savitarpio nesantaikon. Remdamasis giminyste,
+    Vytautas pasisiūlė tarpininkauti ir ta proga 1396 m. rudenį užėmė
+    Smolenską, iškilmingai miestan įžengdamas ir amžininkus nuste­
+    bindamas.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-007
+    - t-010
+- c-011
+  santrauka: '1401 vėl atkrito Smolenskas.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Ne mažiau Vytauto padėtis susvyravo Rusios plotuose. 1401
+    vėl atkrito Smolenskas. Sukilusių miestiečių ir savo šalininkų Smo­
+    lenske remiamas, grįžo ir įsigalėjo išvarytasis Jurgis (Jurijus) Svia­
+    toslavaitis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+- c-012
+  santrauka: 'Vytautas greit užvaldė Smolenską (1404.VI.27) ir jame vėl paskyrė savo vietininką^48.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Vytautas greit užvaldė Smolenską
+    (1404.VI.27) ir jame vėl paskyrė savo vietininką^48.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
 
 ## Ryšiai
 ### Laikotarpiai
-- [[laikotarpiai/XIII amžius]]
 - [[laikotarpiai/XIV amžius]]
 - [[laikotarpiai/XV amžius]]
 - [[laikotarpiai/XVI amžius]]
+- [[laikotarpiai/XX amžius]]
 
 ### Susiję objektai
 - [[objektai/ivykiai/Antrasis karas su Maskva (1512–1522 m.)]]

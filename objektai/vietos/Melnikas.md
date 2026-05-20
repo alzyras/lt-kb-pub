@@ -29,28 +29,25 @@ Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Tr
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vokiečiai apsiėmė laikytis taikos su krikščioniškomis Trakų kunigaikštijos žemėmis, tarp jų Melniku.'
+  teiginys: 'Vytauto laikais Melnike, Palenkėje, imta statyti pilis rusėniškose LDK žemėse toli nuo etninės Lietuvos.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'O Vokiečiai apsiėmė tik su krikščioniškomis Trakų kunigaikštijos žemėmis: Gardinu, Vol­ kovisku, Drohičinu, Melniku, Bielsku, Brestu ir Kamieńcu laiky­ tis taikos kaipo priedangos, kad su pagoniškomis Lietuvos sri­ timis galį taikos ir nesilaikyti^1 ).'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vokiečiai apsiėmė laikytis taikos su krikščioniškomis Trakų kunigaikštijos žemėmis, tarp jų Melniku.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: 'Vytauto laikais Melnike, Palenkėje, imta statyti pilis rusėniškose LDK žemėse toli nuo etninės Lietuvos.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Abu ma­
-    gistrai (Livonijos ir Prūsų) su didžiaisiais Lietuvos kunigaikš­
-    čiais sutarė, kad pietinė Prūsijos dalis ir prie jos prieiną Lie­
-    tuvos kraštai nei vienų nei kitų nustatytų metų bėgy ne­
-    bebūtų puldinėjami. Lietuviai pasižadėjo nebeužpuldinėti pieti­
-    nės Prūsijos dalies, kurią sudarė Osterodės, Ortelsburgo, Var­
-    tenburgo ir Gunlaukeno apskričiai. O Vokiečiai apsiėmė tik su
-    krikščioniškomis Trakų kunigaikštijos žemėmis: Gardinu, Vol­
-    kovisku, Drohičinu, Melniku, Bielsku, Brestu ir Kamieńcu laiky­
-    tis taikos kaipo priedangos, kad su pagoniškomis Lietuvos sri­
-    timis galį taikos ir nesilaikyti^1 ).
+    Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius,
+    Trakai ir Kaunas, pilis imta statyti ir toli nuo etninės Lietuvos, rusėniško-
+    se LDK žemėse: Juodojoje Rusioje (Gardinas, Naugardukas), Palenkėje
+    (Melnikas, gal Brasta) ir net Voluinėje (Luckas).
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -58,6 +55,22 @@ Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Tr
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'O Vokiečiai apsiėmė tik su krikščioniškomis Trakų kunigaikštijos žemėmis: Gardinu, Vol­ kovisku, Drohičinu, Melniku, Bielsku, Brestu ir Kamieńcu laiky­ tis taikos kaipo priedangos, kad su pagoniškomis Lietuvos sri­ timis galį taikos ir nesilaikyti^1 ).'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    O Vokiečiai apsiėmė tik su
+    krikščioniškomis Trakų kunigaikštijos žemėmis: Gardinu, Vol­
+    kovisku, Drohičinu, Melniku, Bielsku, Brestu ir Kamieńcu laiky­
+    tis taikos kaipo priedangos, kad su pagoniškomis Lietuvos sri­
+    timis galį taikos ir nesilaikyti^1 ).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Laikotarpiai

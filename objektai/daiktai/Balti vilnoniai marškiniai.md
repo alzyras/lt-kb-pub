@@ -55,26 +55,25 @@ Marškiniai buvo duodami kaip krikšto dovana ir simbolizavo nekaltąją sielą.
 
 ## Teiginiai
 - t-005
-  teiginys: 'Jogaila krikštijamiesiems duodavo baltų vilnonių rūbų ne tik kaip dovaną, bet ir dėl krikšto liturgijos reikalavimo.'
+  teiginys: 'Balti vilnoniai rūbai prie krikšto buvo dalijami ir kaip liturginis nekaltybės simbolio reikalavimas.'
   pagrindžia:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-006
+  teiginys: 'Jogaila besi­ krikštijantiems duodavo dar baltų vilnonių rūbų, bet ne tik kaipo dovaną, o ir tam, kad būtų išpildytas liturgikos reikalavimas — prie krikšto turėti baltą rūbą, nekaltybės simbolį.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Jogaila krikštijamiesiems duodavo baltų vilnonių rūbų ne tik kaip dovaną, bet ir dėl krikšto liturgijos reikalavimo.'
+  santrauka: 'Balti vilnoniai rūbai prie krikšto buvo dalijami ir kaip liturginis nekaltybės simbolio reikalavimas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Žmonės buvo krikštijami būriais, atskirai vyrai ir atskirai
-    moterys, kiekvienam būriui suteikiant vardą. Jogaila besi­
+    Jogaila besi­
     krikštijantiems duodavo dar baltų vilnonių rūbų, bet ne tik kaipo
     dovaną, o ir tam, kad būtų išpildytas liturgikos reikalavimas —
-    prie krikšto turėti baltą rūbą, nekaltybės simbolį. Tačiau dėl
-    šių nežymių dovanų vargu kas iš lietuvių būtų išsižadėjęs savo
-    seno tikėjimo, arba krikštijęsis keliskart, kad daugiau jų gautų,
-
-    (^1) ) Valachijoje (dabartinėje Rumunijoje).
+    prie krikšto turėti baltą rūbą, nekaltybės simbolį.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -82,6 +81,25 @@ Marškiniai buvo duodami kaip krikšto dovana ir simbolizavo nekaltąją sielą.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
+- c-002
+  santrauka: 'Jogaila besi­ krikštijantiems duodavo dar baltų vilnonių rūbų, bet ne tik kaipo dovaną, o ir tam, kad būtų išpildytas liturgikos reikalavimas — prie krikšto turėti baltą rūbą, nekaltybės simbolį.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Jogaila besi­
+    krikštijantiems duodavo dar baltų vilnonių rūbų, bet ne tik kaipo
+    dovaną, o ir tam, kad būtų išpildytas liturgikos reikalavimas —
+    prie krikšto turėti baltą rūbą, nekaltybės simbolį. Tačiau dėl
+    šių nežymių dovanų vargu kas iš lietuvių būtų išsižadėjęs savo
+    seno tikėjimo, arba krikštijęsis keliskart, kad daugiau jų gautų,
+
+    (^1) ) Valachijoje (dabartinėje Rumunijoje).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Teminiai klasteriai

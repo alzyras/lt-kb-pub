@@ -34,23 +34,27 @@ Tai reiškė projektą naujos sienos, kuri už dvejų metų buvo priimta prie Me
 
 ## Teiginiai
 - t-001
-  teiginys: '1422 m. rugsėjo 27 d. prie Melno ežero, netoli Vislos, buvo sudaryta taika.'
+  teiginys: 'Prie Melno ežero buvo priimtas naujos sienos projektas.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: '27 d. prie Melno ežero (netoli Vislos)^1 ).'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1422 m. rugsėjo 27 d. prie Melno ežero, netoli Vislos, buvo sudaryta taika.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: 'Prie Melno ežero buvo priimtas naujos sienos projektas.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Tik
-    kada patys Prūsijos krašto gyventojai prieš kryžiuočius sukilo,
-    o Zigmanto žadėtos pagalbos nesulaukė, magistras turėjo nu­
-    sileisti.
-    Taika buvo padaryta 1422 m. rugsėjo mėn. 27 d. prie
-    Melno ežero (netoli Vislos)^1 ).
+    Kryžiuočiams laikantis savo, kunigaikštis suti­
+    ko «taikos labui » (« propter bonum pacis ») atsisakyti nuo Klai­
+    pėdos su trijų mylių ruožu nuo jūros^30. Tai reiškė projektą naujos
+    sienos, kuri už dvejų metų buvo priimta prie Melno ežero. Bet
+    Veliuonoje nieko nebuvo pasiekta, nes ordinas laukė sau naudos
+    iš Romos tarpininkavimo.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -58,6 +62,19 @@ Tai reiškė projektą naujos sienos, kuri už dvejų metų buvo priimta prie Me
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: '27 d. prie Melno ežero (netoli Vislos)^1 ).'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Taika buvo padaryta 1422 m. rugsėjo mėn. 27 d. prie
+    Melno ežero (netoli Vislos)^1 ).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai

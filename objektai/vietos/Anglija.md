@@ -31,28 +31,27 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
 
 ## Teiginiai
 - t-001
-  teiginys: 'Sierakausko manymu, po mėnesio kito turėjo prasidėti Anglijos ir Prancūzijos intervencija prieš Rusiją.'
+  teiginys: 'Anglija Lietuvą pripažino 1922 m. gruodžio 20 d. kartu su Prancūzija, Italija ir Japonija.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Sierakausko manymu, po mėnesio kito turėjo prasidėti Anglijos ir Prancūzijos intervencija prieš Rusiją.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Sierakausko manymu, po mėnesio kito turėjo prasidėti Anglijos ir Prancūzijos intervencija prieš Rusiją.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  santrauka: 'Anglija Lietuvą pripažino 1922 m. gruodžio 20 d. kartu su Prancūzija, Italija ir Japonija.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Turėdami savo rankose uostų kontrolę,
-    sukilėliai tikėjosi palaikyti nuolatinius
-    ryšius su Lenkija ir kitomis šalimis, iš kur
-    tikėtasi paramos. Z. Sierakausko manymu,
-    po mėnesio kito turėjo prasidėti Anglijos
-    ir Prancūzijos intervencija prieš Rusiją.
-    Šiems tikslams įgyvendinti už Anykščių
-    esančio Andrioniškio miške prie Teresboro
-    palivarko (dabar Knebių kaimas) sukilėliai
-    įrengė stovyklą, į kurią sutraukė didesnę
-    dalį savo pajėgų.
+    Iš didžiųjų
+    santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amerika
+    (VII.28); Anglija, Prancūzija, Italija ir Japonija pripažino tiktai
+    1922 metų gruodžio 20 dieną, pateikusios sąlygą, kad Lietuva
+    pripažintų Versalio sutarties nuostatus, liečiančius Nemuno
+    navigacijos režimą, t. y. jo internacionalizavimą.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -60,6 +59,25 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Sierakausko manymu, po mėnesio kito turėjo prasidėti Anglijos ir Prancūzijos intervencija prieš Rusiją.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Sierakausko manymu,
+    po mėnesio kito turėjo prasidėti Anglijos
+    ir Prancūzijos intervencija prieš Rusiją.
+    Šiems tikslams įgyvendinti už Anykščių
+    esančio Andrioniškio miške prie Teresboro
+    palivarko (dabar Knebių kaimas) sukilėliai
+    įrengė stovyklą, į kurią sutraukė didesnę
+    dalį savo pajėgų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Laikotarpiai

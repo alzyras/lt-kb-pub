@@ -19,7 +19,13 @@ Papildomos aiškios formos neišskirtos.
 
 ## Teiginiai
 - t-003
-  teiginys: 'Gaspada buvo skirta keleiviams, atėjusiems dievų maldyti.'
+  teiginys: '`Gaspada` šiame tekste yra keleiviams skirta pastogė.'
+  pagrindžia:
+    - c-001
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  statusas: patvirtinta
+- t-004
+  teiginys: 'Ji priklauso žinyčios erdvei šalia kunigaikščio rūmų.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
@@ -27,10 +33,11 @@ Papildomos aiškios formos neišskirtos.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Gaspada buvo skirta keleiviams, atėjusiems dievų maldyti.'
+  santrauka: '`Gaspada` šiame tekste yra keleiviams skirta pastogė.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
-    po kairės tos angos buvusi gaspada^773 keleiviams, atėjusiems dievų maldyti.
+    po kairės tos angos buvusi gaspada^773
+    keleiviams, atėjusiems dievų maldyti.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -38,6 +45,7 @@ Papildomos aiškios formos neišskirtos.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+    - t-004
 
 ## Pastabos
 

@@ -33,15 +33,37 @@ Lenkijos maršalkos Bartušo ir 6) Zavišos Juodojo (rašte minimas dar Lietuvos
 
 ## Teiginiai
 - t-001
-  teiginys: '1429 m. birželio 18 d. maršalka Rumbaudas su Vilniaus vaivada Gedgaudu Lenčicoje įteikė Jogailai Vytauto laišką.'
+  teiginys: 'Rumbaudas su Galminu, Getautu, Klausigaila ir Vasibutu persikėlė per Nevėžį ir pradėjo užimti sukilusį kraštą.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Kai sužinojo, kad kryžiuočių pasiuntinys, Tomo komtūras, atvyko pas Jogailą į Lenčicą, pa­ siuntė ten ir Vytautas savo delegatus: Vilniaus vaivadą (palati­ num) Gedgaudą (Gedigoldum) ir maršalką Rumbaudą (Rum­ poldum).'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1429 m. birželio 18 d. maršalka Rumbaudas su Vilniaus vaivada Gedgaudu Lenčicoje įteikė Jogailai Vytauto laišką.'
+  santrauka: 'Rumbaudas su Galminu, Getautu, Klausigaila ir Vasibutu persikėlė per Nevėžį ir pradėjo užimti sukilusį kraštą.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Grūdų sulaikymas Vytautui akivaizdžiai parodė, ką reiškė
+    neturėjimas Nemuno žiočių, ir tai paskatino jį veikti. Jo pareigū­
+    nas Rumbaudas ir dar keli kiti bajorai (Galminas, Getautas, Klau­
+    sigaila, Vasibutas) persikėlė per Nevėžį ir nuo Surviliškio — Kreke­
+    navos pradėjo užimti sukilusį kraštą. Įdomu tai, kad Raseinių
+    bajoras « Clawssegail » 1390 Karaliaučiuje su kitais Žemaičių kilmin­
+    gaisiais buvo pažadėjęs remti į ordiną pabėgusį Vytautą.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Kai sužinojo, kad kryžiuočių pasiuntinys, Tomo komtūras, atvyko pas Jogailą į Lenčicą, pa­ siuntė ten ir Vytautas savo delegatus: Vilniaus vaivadą (palati­ num) Gedgaudą (Gedigoldum) ir maršalką Rumbaudą (Rum­ poldum).'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kai sužinojo, kad kryžiuočių
@@ -50,13 +72,13 @@ Lenkijos maršalkos Bartušo ir 6) Zavišos Juodojo (rašte minimas dar Lietuvos
     num) Gedgaudą (Gedigoldum) ir maršalką Rumbaudą (Rum­
     poldum). Atvykę jie į Lenčicą (1429 VI. 18), įteikė Jogailai Vy­
     tauto laišką.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Laikotarpiai
@@ -67,4 +89,3 @@ Lenkijos maršalkos Bartušo ir 6) Zavišos Juodojo (rašte minimas dar Lietuvos
 
 ### Susiję objektai
 - [[objektai/asmenys/Gedgaudas]]
-- [[objektai/asmenys/Vytautas Didysis]]

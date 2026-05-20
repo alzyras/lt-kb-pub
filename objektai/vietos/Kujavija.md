@@ -36,25 +36,34 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vengrų karalius, laikydamas Kujaviją ir Dobrynę priklausančiomis jo suverenitetui, panoro jas parduoti Ordinui.'
+  teiginys: '1291 m. lietuviai nuteriojo Kujaviją, o kitais metais Pukuveras išsiuntė Vytenį į Lenkiją su didele kariuomene.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: '1300 m. lietuviai vėl pasirodė Dobryniaus ir Kujavijos srityse, kur patyrė kryžiuočių smūgį.'
+  pagrindžia:
+    - c-002
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-003
+  teiginys: 'Dabar Vengrų karalius, laikydamas Kujaviją ir Dobrynę pri­ klausančias jo suverenitetui ir būdamas valdovas savo vasalo Vladislovo, panoro ir Dobrynę, ir Kujaviją parduoti Ordinui.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vengrų karalius, laikydamas Kujaviją ir Dobrynę priklausančiomis jo suverenitetui, panoro jas parduoti Ordinui.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: '1291 m. lietuviai nuteriojo Kujaviją, o kitais metais Pukuveras išsiuntė Vytenį į Lenkiją su didele kariuomene.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    ir kilo dėl tų žemių suverenumo ginčas tarp Lenkijos ir Vengri­
-    jos karaliaus Zigmanto Liuksemburgiečio, kuris, būdamas Bran­
-    denburgo kurfiurstas, dalį savo žemių, esančių tarp Branden­
-    burgo ir Poznanės, būtent Naująją Marchiją, pardavė Ordinui.
-    Dabar Vengrų karalius, laikydamas Kujaviją ir Dobrynę pri­
-    klausančias jo suverenitetui ir būdamas valdovas savo vasalo
-    Vladislovo, panoro ir Dobrynę, ir Kujaviją parduoti Ordinui.
-    Su tuo sutiko ir patsai Vladislovas ir jo žmona.
+    Esą
+    1288 Liubline, kaip pabrėžia Ipatijaus kronika, kilęs didelis susi­
+    jaudinimas, nes besiartinanti rusų kariuomenė buvusi palaikyta
+    lietuviais^20. 1291 lietuviai nuteriojo Kujaviją, o kitais metais
+    Pukuveras savo sūnų Vytenį Lenkijon išsiuntė su didele kariuo­
+    mene^21. Besikaudamas su įsiveržusiais lietuviais 1294 Sochaczewo
+    apylinkėse žuvo Lęčycos kunigaikštis Kazimieras^22.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -62,6 +71,37 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: '1300 m. lietuviai vėl pasirodė Dobryniaus ir Kujavijos srityse, kur patyrė kryžiuočių smūgį.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    1296 lietuviai įsiveržė į
+    Sandomieriaus ir Kujavijos žemes. 1300 jie vėl pasirodė Dobry­
+    niaus ir Kujavijos srityse, čia patirdami smūgį iš kryžiuočių. Drauge
+    su rusais tada lietuviai vėl puolė Sandomieriaus ir Liublino žemes,
+    o 1307 buvo įsiveržę į Kališo sritį^5.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Dabar Vengrų karalius, laikydamas Kujaviją ir Dobrynę pri­ klausančias jo suverenitetui ir būdamas valdovas savo vasalo Vladislovo, panoro ir Dobrynę, ir Kujaviją parduoti Ordinui.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Dabar Vengrų karalius, laikydamas Kujaviją ir Dobrynę pri­
+    klausančias jo suverenitetui ir būdamas valdovas savo vasalo
+    Vladislovo, panoro ir Dobrynę, ir Kujaviją parduoti Ordinui.
+    Su tuo sutiko ir patsai Vladislovas ir jo žmona.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Laikotarpiai

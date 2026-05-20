@@ -36,25 +36,39 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
 
 ## Teiginiai
 - t-001
-  teiginys: 'Riurikaičių dinastijos išsibaigimas 1598 m. neturėjo reikšmingesnių atliepių Abiejų Tautų Respublikoje.'
+  teiginys: 'Lietuvai užėmus Rusios žemes, ne visi Riurikaičių dinastijos kunigaikščiai buvo išstumti iš politinio gyvenimo.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Lietuvoje išsilaikę smulkūs Riurikaičiai nebuvo savarankiški valdovai ir priklausė nuo didžiojo kunigaikščio.'
+  teiginys: 'Bet toliau nei Riurikaičių dinastijos išsibaigimas (1598), nei garsieji «sąmyšio metai» (1604-12), —nors lietuviai su lenkais per Dimitrą Prisimetėlį buvo ėmę šeimininkauti net pačioje Maskvoje,— pagaliau nei Romanovų dinastijos pradžia (1613) nebeturėjo.'
   pagrindžia:
     - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
+- t-003
+  teiginys: 'Tik Lietuvos daliniai kunigaikščiai, ar valdančiosios šeimos nariai, ar išsilaikiusieji smulkus Riurikaičiai, nebuvo savarankus valdovai.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Riurikaičių dinastijos išsibaigimas 1598 m. neturėjo reikšmingesnių atliepių Abiejų Tautų Respublikoje.'
+  santrauka: 'Lietuvai užėmus Rusios žemes, ne visi Riurikaičių dinastijos kunigaikščiai buvo išstumti iš politinio gyvenimo.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Antra vertus, Lietuvai užėmus Rusios žemes, ne visi
+    senrusių Riurikaičių dinastijos kunigaikščiai buvo išstumti iš politinio
+    gyvenimo.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Bet toliau nei Riurikaičių dinastijos išsibaigimas (1598), nei garsieji «sąmyšio metai» (1604-12), —nors lietuviai su lenkais per Dimitrą Prisimetėlį buvo ėmę šeimininkauti net pačioje Maskvoje,— pagaliau nei Romanovų dinastijos pradžia (1613) nebeturėjo.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Šituo atžvilgiu XV amž. gale
-    Lietuvos ir Rusijos istorijos naujos epochos susiliečia.
     Bet toliau nei Riurikaičių dinastijos išsibaigimas (1598), nei
     garsieji «sąmyšio metai» (1604-12), —nors lietuviai su lenkais per
     Dimitrą Prisimetėlį buvo ėmę šeimininkauti net pačioje Maskvoje,—
@@ -64,15 +78,15 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
     kuris iš naujos sostinės (Petersburgo) tvirtu žingsniu įvedė savo
     imperiją į Europos areną, reiškė bajorų respublikai patekimą Ru­
     sijos įtakon.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Lietuvoje išsilaikę smulkūs Riurikaičiai nebuvo savarankiški valdovai ir priklausė nuo didžiojo kunigaikščio.'
+    - t-002
+- c-003
+  santrauka: 'Tik Lietuvos daliniai kunigaikščiai, ar valdančiosios šeimos nariai, ar išsilaikiusieji smulkus Riurikaičiai, nebuvo savarankus valdovai.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Ir Gediminas, ir Jonas Kalita savo valdžioje
@@ -80,13 +94,13 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
     ar valdančiosios šeimos nariai, ar išsilaikiusieji smulkus Riurikaičiai,
     nebuvo savarankus valdovai. Jie labiau negu Maskvoje priklausė
     nuo didžiojo kunigaikščio.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-002
+    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai

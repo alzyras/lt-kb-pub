@@ -33,26 +33,26 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Mielnikas buvo viena iš Trakų kunigaikštijos sričių, kurių abu magistrai pasižadėjo nepulti.'
+  teiginys: '1384 m. vasarą Vytautas buvo gavęs dalį tėvo valdų, įskaitant Palenkę su Drohičinu ir Mielniku.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Abu magistrai pasižadėjo nepulti krikščioniškų Trakų kunigaikšti­ jos sričių (Gardino, Volkovisko, Drahočyno, Mielniko, Bielsko, Brastos, Kamienco) Lietuvos gi kunigaikščiai — Jogaila su Kęstučiu, — pasižadėjo nepulti prie tų pat sričių prieinančių Ordino.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Mielnikas buvo viena iš Trakų kunigaikštijos sričių, kurių abu magistrai pasižadėjo nepulti.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: '1384 m. vasarą Vytautas buvo gavęs dalį tėvo valdų, įskaitant Palenkę su Drohičinu ir Mielniku.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Su pagoniškąja Lietuva pirmąsias nuolatinio karo paliau­
-    bas Ordinas padarė 1379 m. Labai įdomios ir viduramžiui
-    charakteringos jų sąlygos: paliaubos daromos 10 metų. Abu
-    magistrai pasižadėjo nepulti krikščioniškų Trakų kunigaikšti­
-    jos sričių (Gardino, Volkovisko, Drahočyno, Mielniko, Bielsko,
-    Brastos, Kamienco) Lietuvos gi kunigaikščiai — Jogaila su
-    Kęstučiu, — pasižadėjo nepulti prie tų pat sričių prieinančių
-    Ordino apskričių (Osterodes, Ortelsburgo, Wartenburgo ir
-    Varmijos)^1 ).
+    1384 m. vasarą jis buvo gavęs dalį tėvo valdų, būtent, Gardiną,
+    Lietuvos Brastą ir Palenkę su Drohičinu ir Mielniku^8. O mirus
+    senam dėdei Liubartui Gediminaičiui (apie 1385), jis po poros metų
+    kažkokiu nežinomu būdu įsigyveno Volinijoje. Ten Vytautas už­
+    valdė dvi svarbiausias pilis — Lucką ir Vladimirą^7.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -60,6 +60,24 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Abu magistrai pasižadėjo nepulti krikščioniškų Trakų kunigaikšti­ jos sričių (Gardino, Volkovisko, Drahočyno, Mielniko, Bielsko, Brastos, Kamienco) Lietuvos gi kunigaikščiai — Jogaila su Kęstučiu, — pasižadėjo nepulti prie tų pat sričių prieinančių Ordino.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Abu
+    magistrai pasižadėjo nepulti krikščioniškų Trakų kunigaikšti­
+    jos sričių (Gardino, Volkovisko, Drahočyno, Mielniko, Bielsko,
+    Brastos, Kamienco) Lietuvos gi kunigaikščiai — Jogaila su
+    Kęstučiu, — pasižadėjo nepulti prie tų pat sričių prieinančių
+    Ordino apskričių (Osterodes, Ortelsburgo, Wartenburgo ir
+    Varmijos)^1 ).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Laikotarpiai

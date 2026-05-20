@@ -31,28 +31,27 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Mozūrų kunigaikštis Henrikas iškeliavo į Prūsus ir rado Vytautą Rittersverderyje.'
+  teiginys: 'Jogaila pasiuntė pas Vytautą jaunutį Mozūrų kunigaikštį Henriką.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Henrikas kaip Jogailos pasiuntinys pasiūlė Vytautui grįžti, žadėdamas jam grąžinti Lietuvą.'
+  teiginys: 'To pavojaus metu ir iškeliavo į Prūsus Mozūrų kun. Henri­ kas.'
   pagrindžia:
     - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
+- t-003
+  teiginys: 'Henrikas (Mozūrų kunigaikštis) savo valdovo vardu Vytautui grįžti, žadėdamas jam grąžinti Lietuvą.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Mozūrų kunigaikštis Henrikas iškeliavo į Prūsus ir rado Vytautą Rittersverderyje.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: 'Jogaila pasiuntė pas Vytautą jaunutį Mozūrų kunigaikštį Henriką.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Ta sunki Lenkijos būklė ir padeda mums išaiškinti Jo­
-    gailos ir Lenkijos Vytautui padarytus nusileidimus.
-    To pavojaus metu ir iškeliavo į Prūsus Mozūrų kun. Henri­
-    kas. Vytautą rado jis Rittersverdery, berengiantį planus toli­
-    mesniems žygiams.
+    Jogaila pasiuntė pas Vytautą jaunutį Mozūrų kunigaikštį
+    Henriką.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -61,23 +60,36 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Henrikas kaip Jogailos pasiuntinys pasiūlė Vytautui grįžti, žadėdamas jam grąžinti Lietuvą.'
+  santrauka: 'To pavojaus metu ir iškeliavo į Prūsus Mozūrų kun. Henri­ kas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Vytautą rado jis Rittersverdery, berengiantį planus toli­
-    mesniems žygiams. Būdamas Jogailos pasiuntinys, pasiūlė jis
+    To pavojaus metu ir iškeliavo į Prūsus Mozūrų kun. Henri­
+    kas. Vytautą rado jis Rittersverdery, berengiantį planus toli­
+    mesniems žygiams.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Henrikas (Mozūrų kunigaikštis) savo valdovo vardu Vytautui grįžti, žadėdamas jam grąžinti Lietuvą.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Būdamas Jogailos pasiuntinys, pasiūlė jis
     savo valdovo vardu Vytautui grįžti, žadėdamas jam grąžinti
     Lietuvą. Šitą Jogailos ir lenkų kapituliaciją padiktavo ne jų
     simpatijos Vytautui, bet, kaip mes matėm, sunki Lenkijos ir
 
     (^1) ) Tuo klausimu žiur.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-002
+    - t-003
 
 ## Ryšiai
 ### Laikotarpiai

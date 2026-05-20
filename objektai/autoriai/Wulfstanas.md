@@ -30,27 +30,38 @@ Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą. Apie « aisčių
 
 ## Teiginiai
 - t-001
-  teiginys: 'Wulfstanas buvo jūrininkas, lankęsis tuose kraštuose ir perdavęs apie juos žinių.'
+  teiginys: 'Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Apie « aisčių » žemę Wulfstanas pasakoja, kad ji esanti labai didelė, o joje esą daug medaus ir žuvies.'
+  pagrindžia:
+    - c-002
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-003
+  teiginys: 'Wulfstanas pasakojo apie prūsų laidojimo papročius ir teigė, kad aisčiai mokėjo išlaikyti užšaldytus lavonus vasarą.'
+  pagrindžia:
+    - c-003
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-004
+  teiginys: 'Tas žinias jis sako gavęs iš kažkokio jūrininko Wulfstano, kuris tuose kraštuose lankęsis.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Wulfstanas buvo jūrininkas, lankęsis tuose kraštuose ir perdavęs apie juos žinių.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: 'Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Be
-    daug kitų autorių IX amž. apie aisčius apščiai žinių duoda
-    Anglų karalius Alfredas D. (871—901), kuris versdamas ispa­
-    no Orossiuso knygą „Historiarum liber VII adversus pa­
-    ganos“ pridėjo joje nesančias žinias apie Baltijos jūrų pa­
-    kraščių tautas, tarp kitko ir apie aisčius. Tas žinias jis sako
-    gavęs iš kažkokio jūrininko Wulfstano, kuris tuose kraštuose
-    lankęsis. Istoriografijoj tos žinios ir žinomos kaip Wulfstano
-
-    (^1) ) Klim.
+    Dažnai miglotos ankstyvesnių autorių žinios
+    apie rytų Pabaltijį buvo atėjusios netikrais ir vingiuotais keliais.
+    Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą. Iš
+    Haithabu (Schleswige) keliautojas buriniu laivu atvyko iki Truso
+    (Drausensee).
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -58,6 +69,57 @@ Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą. Apie « aisčių
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Apie « aisčių » žemę Wulfstanas pasakoja, kad ji esanti labai didelė, o joje esą daug medaus ir žuvies.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Jų metu žymioji dalis turto,
+    kuris į 5-6 dalis 5-6 mylių atstume išskirstomas, tekdavusi tam,
+    kuris su savo žirgu pirmasis pasiekdavęs toliausiai padėtą didžiąją
+    dalį. Panašios lenktynės Prūsuose yra paliudytos dar XVI-XVII
+    amž.
+    Apie « aisčių » žemę Wulfstanas pasakoja, kad ji esanti labai
+    didelė, o joje esą daug medaus ir žuvies. Tarp savęs aisčiai daug
+    kariaują.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Wulfstanas pasakojo apie prūsų laidojimo papročius ir teigė, kad aisčiai mokėjo išlaikyti užšaldytus lavonus vasarą.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Tad alaus « ais­
+    čiai » nedarą.
+    Įdomiai Wulfstanas pasakojo apie prūsų laidojimo papročius.
+    «Aisčiai» moką išlaikyti užšaldytus lavonus net vasaros karščių
+    metu.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Tas žinias jis sako gavęs iš kažkokio jūrininko Wulfstano, kuris tuose kraštuose lankęsis.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tas žinias jis sako
+    gavęs iš kažkokio jūrininko Wulfstano, kuris tuose kraštuose
+    lankęsis. Istoriografijoj tos žinios ir žinomos kaip Wulfstano
+
+    (^1) ) Klim.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Laikotarpiai

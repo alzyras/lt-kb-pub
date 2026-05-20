@@ -50,15 +50,16 @@ Vytauto veiksmai sutrikdė ordino kariuomenės aprūpinimą.
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-005
-  teiginys: 'Kęstučio pasiųstas Vytautas sunaikino vokiečių maisto atsargas nuo Nemuno iki Tamovos, todėl kryžiuočiai šešias dienas stokojo duonos ir pašaro.'
+  teiginys: 'Kęstučio lieptas Vytautas sunaikino ordino maisto atsargas nuo Nemuno iki Tamovos, todėl kryžiuočiai šešias dienas neturėjo duonos ir pašaro.'
   pagrindžia:
+    - c-003
     - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-006
   teiginys: '1377 m. žygis buvo pirmas žinomas Vytauto savarankiškas pasirodymas karo lauke.'
   pagrindžia:
-    - c-003
+    - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
@@ -79,7 +80,7 @@ Vytauto veiksmai sutrikdė ordino kariuomenės aprūpinimą.
   pagrindžia:
     - t-004
 - c-002
-  santrauka: 'Kęstučio pasiųstas Vytautas sunaikino vokiečių maisto atsargas nuo Nemuno iki Tamovos, todėl kryžiuočiai šešias dienas stokojo duonos ir pašaro.'
+  santrauka: 'Kęstučio lieptas Vytautas sunaikino ordino maisto atsargas nuo Nemuno iki Tamovos, todėl kryžiuočiai šešias dienas neturėjo duonos ir pašaro.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kada Kryžiuočių Ordino maršalka
@@ -102,6 +103,22 @@ Vytauto veiksmai sutrikdė ordino kariuomenės aprūpinimą.
   pagrindžia:
     - t-005
 - c-003
+  santrauka: 'Kęstučio lieptas Vytautas sunaikino ordino maisto atsargas nuo Nemuno iki Tamovos, todėl kryžiuočiai šešias dienas neturėjo duonos ir pašaro.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Pavestą uždavinį Vy­
+    tautas labai puikiai atliko, sunaikindamas visą vokiečių maisto
+    atsargą nuo Nemuno iki Tamovos (aukščiau Insterburgo). Kry­
+    žiuočiai, kaip rašo kronikininkas Vygandas Marburgietis, šešias
+    dienas turėjo išbūti nematę duonos, o arkliai — pašaro
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-005
+- c-004
   santrauka: '1377 m. žygis buvo pirmas žinomas Vytauto savarankiškas pasirodymas karo lauke.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |

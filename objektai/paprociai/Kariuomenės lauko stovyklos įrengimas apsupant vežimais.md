@@ -55,11 +55,13 @@ Nenurodyta
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-004
-  teiginys: 'Kariuomenė stovykloje apsisupdavo amunicijos ir provianto vežimais, palikdavo kelis praėjimus, o išorėje iškasdavo griovį.'
+  teiginys: '„Nenutylėsiu ir būdo, kuriuo ši kariuomenė paprastai įsikuria stovyklose, nes šis būdas labai skiriasi nuo kitų ir dėl to pažymėtinas.'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+- t-005
+  teiginys: 'Susibūrusi į vieną vietą, visa kariuomenė apsisupa vežimais, kuriais gabenama amunicija, proviantas ir kiti dalykai: paliekami tik keli praėjimai, prie kurių saugumo sumetimais statomi artilerijos pabūklai, kurių esama labai daug, tik nelabai didelių; išorėje.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -79,7 +81,23 @@ Nenurodyta
   pagrindžia:
     - t-003
 - c-002
-  santrauka: 'Kariuomenė stovykloje apsisupdavo amunicijos ir provianto vežimais, palikdavo kelis praėjimus, o išorėje iškasdavo griovį.'
+  santrauka: '„Nenutylėsiu ir būdo, kuriuo ši kariuomenė paprastai įsikuria stovyklose, nes šis būdas labai skiriasi nuo kitų ir dėl to pažymėtinas.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    „Nenutylėsiu ir būdo, kuriuo ši kariuomenė paprastai įsikuria stovyklose, nes šis būdas
+    labai skiriasi nuo kitų ir dėl to pažymėtinas. Susibūrusi į vieną vietą, visa kariuomenė ap-
+    sisupa vežimais, kuriais gabenama amunicija, proviantas ir kiti dalykai: paliekami tik keli
+    praėjimai, prie kurių saugumo sumetimais statomi artilerijos pabūklai, kurių esama labai
+    daug, tik nelabai didelių; išorėje už vežimų iškasamas ilgas ir platus griovys.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-003
+  santrauka: 'Susibūrusi į vieną vietą, visa kariuomenė apsisupa vežimais, kuriais gabenama amunicija, proviantas ir kiti dalykai: paliekami tik keli praėjimai, prie kurių saugumo sumetimais statomi artilerijos pabūklai, kurių esama labai daug, tik nelabai didelių; išorėje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Susibūrusi į vieną vietą, visa kariuomenė ap-
@@ -88,14 +106,14 @@ Nenurodyta
     daug, tik nelabai didelių; išorėje už vežimų iškasamas ilgas ir platus griovys. Tokiu būdu
     kariai jaučiasi ne mažiau saugūs nei gerai įtvirtintame ir apsaugotame mieste.“
 
-    1564 m. sausio 23 d. ULOS (CASNIKY) MŪŠIS 89
-  citata_rodoma: ""
+    1564 m.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-004
+    - t-005
 
 ## Ryšiai
 ### Laikotarpiai

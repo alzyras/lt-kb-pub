@@ -19,20 +19,38 @@ Taryba, susirinkusi spalių mėn. Tautų Sąjungos Taryba, negalėdama sutikti s
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tautų Sąjungos Taryba 1921 m. kovo 3 d. pasiūlė Lietuvai ir Lenkijai ginčą spręsti tiesioginėmis derybomis, pirmininkaujant Hymansui.'
+  teiginys: 'Tautų Sąjungos Taryba spalio pabaigoje Briuselyje pasiūlė Lietuvos ir Lenkijos ginčą spręsti plebiscitu jos priežiūroje.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: 'Tautų Sąjungos Taryba 1921 m. kovo 3 d. pasiūlė Lietuvai ir Lenkijai ginčą spręsti tiesioginėmis derybomis, pirmininkaujant Hymansui.'
+  pagrindžia:
+    - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
+  santrauka: 'Tautų Sąjungos Taryba spalio pabaigoje Briuselyje pasiūlė Lietuvos ir Lenkijos ginčą spręsti plebiscitu jos priežiūroje.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Lenkija nepaisė to reikalavimo, o T. S. Taryba, susirinkusi spa-
+    lių mėn. pabaigoj Briusely, pasiūlė visą tą ginčą išspręsti ple-
+    biscitu Tautų Sąjungos priežiūroje.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
   santrauka: 'Tautų Sąjungos Taryba 1921 m. kovo 3 d. pasiūlė Lietuvai ir Lenkijai ginčą spręsti tiesioginėmis derybomis, pirmininkaujant Hymansui.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Bet Lenkija norėjo daryti plebiscitą sa-
-    vo kariuomenės globoje ir savo administracijos įtakoje. Tautų
-    Sąjungos Taryba, negalėdama sutikti su tokia plebiscito ko-
+    Tautų Sąjungos Taryba, negalėdama sutikti su tokia plebiscito ko-
     medija, 1921 m. kovo mėn. 3 d. pasiūlė Lietuvai ir Lenkijai tą
     klausimą spręsti tiesioginėmis derybomis, kurioms pirmininkau-
     tų Belgų atstovas Hymansas.
@@ -42,4 +60,4 @@ Taryba, susirinkusi spalių mėn. Tautų Sąjungos Taryba, negalėdama sutikti s
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

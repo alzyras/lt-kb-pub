@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 217.
+Objektų skaičius: 219.
 
 ## Kaip naudoti
 
@@ -160,6 +160,7 @@ Objektų skaičius: 217.
 - [Leibgvardijos Voluinės pėstininkų pulkas](../objektai/grupes/Leibgvardijos%20Voluin%C4%97s%20p%C4%97stinink%C5%B3%20pulkas)
 - [Lietuvos Didžioji Kunigaikštystė](../objektai/grupes/Lietuvos%20Did%C5%BEioji%20Kunigaik%C5%A1tyst%C4%97)
 - [Lietuvos Karininkų Ramovė](../objektai/grupes/Lietuvos%20Karinink%C5%B3%20Ramov%C4%97)
+- [Lietuvos Provincijos Valdymo Skyrius](../objektai/grupes/Lietuvos%20Provincijos%20Valdymo%20Skyrius)
 - [Vilniaus universitetas](../objektai/grupes/Vilniaus%20universitetas)
 - [Žydai](../objektai/grupes/%C5%BDydai)
 
@@ -182,6 +183,7 @@ Objektų skaičius: 217.
 - [Berlynas](../objektai/vietos/Berlynas)
 - [Chotinas](../objektai/vietos/Chotinas)
 - [Didžioji Lietuva](../objektai/vietos/Did%C5%BEioji%20Lietuva)
+- [Karaliaučius](../objektai/vietos/Karaliau%C4%8Dius)
 - [Kaunas](../objektai/vietos/Kaunas)
 - [Kauno gubernija](../objektai/vietos/Kauno%20gubernija)
 - [Kuoknesė](../objektai/vietos/Kuoknes%C4%97)
@@ -197,11 +199,11 @@ Objektų skaičius: 217.
 - [Sankt Peterburgas](../objektai/vietos/Sankt%20Peterburgas)
 - [Turgeliai](../objektai/vietos/Turgeliai)
 - [Ukmergė](../objektai/vietos/Ukmerg%C4%97)
-- [Utena](../objektai/vietos/Utena)
 - [Užnemunė](../objektai/vietos/U%C5%BEnemun%C4%97)
 - [Varšuvos kunigaikštystė](../objektai/vietos/Var%C5%A1uvos%20kunigaik%C5%A1tyst%C4%97)
 - [Vilniaus gubernija](../objektai/vietos/Vilniaus%20gubernija)
 - [Čikaga](../objektai/vietos/%C4%8Cikaga)
+- [Šiaulių ekonomija](../objektai/vietos/%C5%A0iauli%C5%B3%20ekonomija)
 - [Šiaurės Vakarų kraštas](../objektai/vietos/%C5%A0iaur%C4%97s%20Vakar%C5%B3%20kra%C5%A1tas)
 - [Šklovas](../objektai/vietos/%C5%A0klovas)
 

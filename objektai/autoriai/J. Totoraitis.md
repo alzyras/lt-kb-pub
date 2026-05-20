@@ -31,21 +31,29 @@ Totoraitis, Die Litauer unter d. K. Totoraitis, Lietuvos atgijimas;.
 
 ## Teiginiai
 - t-001
-  teiginys: 'J. Totoraitis buvo „Sūduvos-Suvalkijos istorijos“ pirmojo tomo, išleisto Kaune 1938 m., autorius.'
+  teiginys: 'J. Totoraitis parašė veikalą „Die Litauer unter d. K. Mindowe“, išleistą 1905 m.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'J. Totoraitis parašė veikalą „Lietuvos atgijimas“.'
+  pagrindžia:
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-003
+  teiginys: 'Totoraitis : Sūduvos-Suvalkijos istorija, t.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'J. Totoraitis buvo „Sūduvos-Suvalkijos istorijos“ pirmojo tomo, išleisto Kaune 1938 m., autorius.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  santrauka: 'J. Totoraitis parašė veikalą „Die Litauer unter d. K. Mindowe“, išleistą 1905 m.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Pr. Kuraitis, Kaunas 1925-
-    1940.
-    ToS = J. Totoraitis : Sūduvos-Suvalkijos istorija, t. 1, Kaunas
-    1938.
+    _J. Totoraitis,_ Die Litauer unter d. K. Mindowe (1905;
+    liet. sutrump.: „Mindaugas Lietuvos karalius", 1932);
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -53,6 +61,31 @@ Totoraitis, Die Litauer unter d. K. Totoraitis, Lietuvos atgijimas;.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'J. Totoraitis parašė veikalą „Lietuvos atgijimas“.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    _J. Totoraitis,_ Lietuvos atgijimas;
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Totoraitis : Sūduvos-Suvalkijos istorija, t.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    ToS = J. Totoraitis : Sūduvos-Suvalkijos istorija, t. 1, Kaunas
+    1938.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Laikotarpiai

@@ -34,27 +34,36 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
 
 ## Teiginiai
 - t-001
-  teiginys: 'Krasauskaitės pedagoginis darbas Marijampolėje jai trukdė tęsti istorinius tyrinėjimus tėvynėje ir emigracijoje.'
+  teiginys: 'Po mūšio prie Berezinos Napoleonas per Vilnių, Kauną, Marijampolę ir Varšuvą parskubėjo į Paryžių.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: ': Baltijos valstybių politinė geografija ; Lietuvos ribų problema, Kaunas-Marijampolė 1929 (vert.'
+  pagrindžia:
+    - c-002
+- t-003
+  teiginys: 'Paties autoriaus sulietuvinta: Mindaugas, Lietuvos karalius, Marijampolė 1932.'
+  pagrindžia:
+    - c-003
+- t-004
+  teiginys: '(1930) jos duota šio valdovo charakteristika parodė, jog Krasauskaitė yra įžvalgi isto­ rikė, tačiau atsidavimas pedagoginiam darbui (Marijampolė) jai nebeleido tėvynėje ir emigracijoje užsiimti tyrinėjimais.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Krasauskaitės pedagoginis darbas Marijampolėje jai trukdė tęsti istorinius tyrinėjimus tėvynėje ir emigracijoje.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  santrauka: 'Po mūšio prie Berezinos Napoleonas per Vilnių, Kauną, Marijampolę ir Varšuvą parskubėjo į Paryžių.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Zūricho universitetą užbaigė rūpestingai parašy­
-    dama vokiškai disertaciją apie Lietuvos bajorijos privilegijas iki
-    XV amž. galo^92. Rinkinyje apie Vytautą D. (1930) jos duota šio
-    valdovo charakteristika parodė, jog Krasauskaitė yra įžvalgi isto­
-    rikė, tačiau atsidavimas pedagoginiam darbui (Marijampolė) jai
-    nebeleido tėvynėje ir emigracijoje užsiimti tyrinėjimais.
-    A. Kučinskas, kuris 1927 m. buvo baigęs Teologijos-
-    Filosofijos fakulteto Filosofijos skyrių, turėjo įvairaus vadovėlių
-    ruošimo ir daug pedagoginio darbo Marijampolėje ir Šiauliuose
-    (1939-1940 m. berniukų gimnazijos direktorius).
+    Be to, netrukus žuvo ir visa Napoleono galybė. Tuojau
+    po unijos atnaujinimo iškilmių jis išžygiavo iš Vilniaus į
+    Maskvą. Tačiau jis nerado taikos nė tenai. Bado ir didelių
+    šalčių vejamas, grįžo atgal. Po žiauraus mūšio prie Bere-
+    zinos pavedęs kariuomenę savo maršalui Miuratui, — per Vil-
+    nių, Kauną, Marijampolę ir Varšuvą jis parskubėjo į Paryžių
+    rinkti naujų jėgų.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -62,6 +71,50 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: ': Baltijos valstybių politinė geografija ; Lietuvos ribų problema, Kaunas-Marijampolė 1929 (vert.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    : _Baltijos valstybių politinė geografija_ ; _Lietuvos ribų
+    problema,_ Kaunas-Marijampolė 1929 (vert. latv. ir lenk.) (”) _Lietuvių
+    tautos plotai ir gyventojai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Paties autoriaus sulietuvinta: Mindaugas, Lietuvos karalius, Marijampolė 1932.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Paties autoriaus sulietuvinta:** **_Mindaugas,
+    Lietuvos karalius,_** **Marijampolė 1932.**
+    (^71) **J.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: '(1930) jos duota šio valdovo charakteristika parodė, jog Krasauskaitė yra įžvalgi isto­ rikė, tačiau atsidavimas pedagoginiam darbui (Marijampolė) jai nebeleido tėvynėje ir emigracijoje užsiimti tyrinėjimais.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    (1930) jos duota šio
+    valdovo charakteristika parodė, jog Krasauskaitė yra įžvalgi isto­
+    rikė, tačiau atsidavimas pedagoginiam darbui (Marijampolė) jai
+    nebeleido tėvynėje ir emigracijoje užsiimti tyrinėjimais.
+    A.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Laikotarpiai

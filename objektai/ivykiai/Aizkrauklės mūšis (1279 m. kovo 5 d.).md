@@ -51,15 +51,37 @@ Nenurodyta
 
 ## Teiginiai
 - t-003
-  teiginys: 'Lietuvių pergalė prie Aizkrauklės pagal Ordino patirtų nuostolių mastą XIII a. buvo antroji po Durbės kautynių.'
+  teiginys: '1279 m. kovo 5 d. Padauguvyje prie Aizkrauklės įvyko mūšis, kuriame abi pusės patyrė nuostolių.'
   pagrindžia:
     - c-001
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-004
+  teiginys: 'Aizkrauklės pergalė pagal Ordino nuostolius XIII a. buvo antroji po Durbės kautynių.'
+  pagrindžia:
+    - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lietuvių pergalė prie Aizkrauklės pagal Ordino patirtų nuostolių mastą XIII a. buvo antroji po Durbės kautynių.'
+  santrauka: '1279 m. kovo 5 d. Padauguvyje prie Aizkrauklės įvyko mūšis, kuriame abi pusės patyrė nuostolių.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Mūšis vyko 1279 m. kovo 5 d. Padau-
+    guvyje prie Aizkrauklės. Abi pusės pa-
+    tyrė nuostolių. Broliai laikėsi, „jie priešų
+    pralaužė eiles <...>, juos blaškė, bet ka-
+    riuomenė lietuvių <...> sustiprėjo“.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
+- c-002
+  santrauka: 'Aizkrauklės pergalė pagal Ordino nuostolius XIII a. buvo antroji po Durbės kautynių.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mūšio reikšmė
@@ -73,7 +95,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-004
 
 ## Ryšiai
 ### Laikotarpiai

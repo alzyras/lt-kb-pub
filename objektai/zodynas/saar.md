@@ -41,25 +41,29 @@ tags: []
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-005
-  teiginys: 'Vytautas apie 30 metų rėmė saarus ir sulaukė tarp totorių jam visiškai paklusnių valdovų.'
+  teiginys: 'Vytautas apie 30 metų rėmė saarus ir sulaukė totorių tarpe sau visiškai paklusnių valdovų.'
   pagrindžia:
     - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-006
-  teiginys: '1427 m. pradžioje buvo penki saarai, o metų pabaigoje galutinai įsigalėjo Vytauto palaikomas Machmetas.'
+  teiginys: '1427 m. pradžioje buvo penki saarai, bet metų pabaigoje galutinai įsigalėjo Vytauto palaikomas Machmetas.'
   pagrindžia:
+    - c-002
     - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-007
+  teiginys: 'Orda buvo suskilusi, atskiri „saarai“ vedė nuolatinius karus.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vytauto laikais Orda buvo suskilusi, o atskiri saarai nuolat kariavo tarpusavyje.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Bet kadaise Europą drebėti vertusi jų galybė jau buvo žuvusi,
-    puolama Algirdo ir Maskvos kunigaikščio Dimitro. Vytauto
+    Vytauto
     laikais totorių valstybė kaip tik pergyveno krizį. Orda buvo
     suskilusi, atskiri „saarai“ vedė nuolatinius karus.
   citata_rodoma: ""
@@ -70,7 +74,7 @@ tags: []
   pagrindžia:
     - t-004
 - c-002
-  santrauka: 'Vytautas apie 30 metų rėmė saarus ir sulaukė tarp totorių jam visiškai paklusnių valdovų.'
+  santrauka: 'Vytautas apie 30 metų rėmė saarus ir sulaukė totorių tarpe sau visiškai paklusnių valdovų.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Nuolat remdamas juos per 30 me­
@@ -86,8 +90,9 @@ tags: []
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
+    - t-006
 - c-003
-  santrauka: '1427 m. pradžioje buvo penki saarai, o metų pabaigoje galutinai įsigalėjo Vytauto palaikomas Machmetas.'
+  santrauka: '1427 m. pradžioje buvo penki saarai, bet metų pabaigoje galutinai įsigalėjo Vytauto palaikomas Machmetas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Buvo laikai, kad jo būklė būdavo labai kritiška. Iš karto atsi­
@@ -102,6 +107,23 @@ tags: []
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
+- c-004
+  santrauka: 'Orda buvo suskilusi, atskiri „saarai“ vedė nuolatinius karus.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Vytauto
+    laikais totorių valstybė kaip tik pergyveno krizį. Orda buvo
+    suskilusi, atskiri „saarai“ vedė nuolatinius karus. Pereskopo
+    (Krymo) ordos chanui Tochtamyšui buvo pasisekę sujungti
+    Ordą vėl, bet paskui jis buvo sumuštas ir išvytas Timur Kotlogo
+    (1395 mt.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
 ### Laikotarpiai

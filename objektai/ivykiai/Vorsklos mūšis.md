@@ -49,31 +49,55 @@ Nenurodyta
 
 ## Teiginiai
 - t-013
-  teiginys: 'Vorsklos kautynės reiškė galą Vytauto didiesiems planams, o didelė jo kariuomenės dalis buvo išžudyta.'
+  teiginys: '1399 m. rugpjūčio 12 d. popietę prie Vorsklos totorių kariuomenė į kautynes stojo gerokai gausesnė už Vytauto jėgas.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-014
-  teiginys: 'Po Vorsklos mūšio Vytautui nakties tamsoje pavyko pabėgti kartu su broliu Žygimantu ir Švitrigaila.'
-  pagrindžia:
-    - c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-015
-  teiginys: 'Vorsklos kautynės reiškė galą Vytauto didiesiems planams.'
+  teiginys: 'Vorsklos kautynės reiškė galą Vytauto didiesiems planams, o didelė jo kariuomenės dalis buvo išžudyta.'
   pagrindžia:
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-015
+  teiginys: 'Vytautui nakties tamsoje pavyko pabėgti kartu su jaunu broliu Žygimantu ir Švitrigaila.'
+  pagrindžia:
+    - c-003
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-016
+  teiginys: 'Vorsklos kautynės, apie kurias iš ano laiko yra daug šaltinių^35 , reiškė galą Vytauto didiesiems planams.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
+  santrauka: '1399 m. rugpjūčio 12 d. popietę prie Vorsklos totorių kariuomenė į kautynes stojo gerokai gausesnė už Vytauto jėgas.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Lemiamasis Vytauto žygis, vietoje Timuro ir jo emiro Edigos
+    (Edigiu) pasodinti Aukso ordoje Tochtamišą, nelaimingai pasibaigė.
+    Kairiuoju Dniepro krantu Vytautas nužygiavo palei jo prieupį
+    Vorsklą truputį šiauriau Poltavos, kur po 410 metų Petras Didysis
+    sutriuškino švedų galybę (1709). Sustojęs rugpiučio 5 Vorsklos
+    krante, Vytautas laukė kelias dienas ir su chanu Timuru — Kut­
+    lugu vedė nesėkmingas derybas. Esą Vytautas reikalavęs chaną
+    jam paklusti ir savo piniguose mušti Vytauto ženklą^33. Timuras
+    tačiau derybomis norėjo tik laimėti laiko, nes laukė savo karo
+    vado Edigos dalinių. Šitaip rugpiučio 12 popietėje totorių kariuo­
+    menės į kautynes stojo žymiai daugiau už Vytauto jėgas^34.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-013
+- c-002
   santrauka: 'Vorsklos kautynės reiškė galą Vytauto didiesiems planams, o didelė jo kariuomenės dalis buvo išžudyta.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Šitaip rugpiučio 12 popietėje totorių kariuo­
-    menės į kautynes stojo žymiai daugiau už Vytauto jėgas^34.
     Vorsklos kautynės, apie kurias iš ano laiko yra daug šaltinių^35 ,
     reiškė galą Vytauto didiesiems planams. Didelė dalis apsuptos jo
     kariuomenės (skaičiuojama trys ketvirčiai) buvo išžudyta.
@@ -83,32 +107,11 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-013
-- c-002
-  santrauka: 'Vorsklos kautynės reiškė galą Vytauto didiesiems planams.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Vorsklos kautynės, apie kurias iš ano laiko yra daug šaltinių^35 ,
-    reiškė galą Vytauto didiesiems planams. Didelė dalis apsuptos jo
-    kariuomenės (skaičiuojama trys ketvirčiai) buvo išžudyta. Už­
-    muštųjų skaičius tačiau labai perdedamas, kai minima 100.000
-    kritusių, nes iš viso Vytauto pusėje kovojančių krikščionių tebuvo
-    bent dešimtį kartų mažiau.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-015
+    - t-014
 - c-003
-  santrauka: 'Po Vorsklos mūšio Vytautui nakties tamsoje pavyko pabėgti kartu su broliu Žygimantu ir Švitrigaila.'
+  santrauka: 'Vytautui nakties tamsoje pavyko pabėgti kartu su jaunu broliu Žygimantu ir Švitrigaila.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Iš vokiečių ordino kariuomenės teišsigelbėjo pora riterių (jų
-    tarpe Salzbacbas) ir dešimtis vyrų^38. Savo galvas tolimose stepėse
-    paliko ir vieninteliai du lietuviai-kryžiuočiai Jonas ir Tomas Sur­
-    vilos.
     Pačiam Vytautui nakties tamsoje, drauge su jaunu broliu
     Žygimantu ir Švitrigaila, pasisekė pabėgti.
   citata_rodoma: ""
@@ -117,7 +120,22 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-014
+    - t-015
+- c-004
+  santrauka: 'Vorsklos kautynės, apie kurias iš ano laiko yra daug šaltinių^35 , reiškė galą Vytauto didiesiems planams.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Vorsklos kautynės, apie kurias iš ano laiko yra daug šaltinių^35 ,
+    reiškė galą Vytauto didiesiems planams. Didelė dalis apsuptos jo
+    kariuomenės (skaičiuojama trys ketvirčiai) buvo išžudyta. Už­
+    muštųjų skaičius tačiau labai perdedamas, kai minima 100.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016
 
 ## Ryšiai
 ### Laikotarpiai

@@ -29,21 +29,36 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
 
 ## Teiginiai
 - t-001
-  teiginys: 'Šeduvos-Panevėžio geležinkelio liniją dengė vokiečių saksų batalionas.'
+  teiginys: 'Šeduvoje jėzuitai buvo įkūrę vieną iš mažesnių mokyklų.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Stapulionio vadovaujamas Joniškėlio partizanų batalionas, Šeduvos-Panevėžio geležinkelio liniją dengė vokiečių saksų batalionas.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Šeduvos-Panevėžio geležinkelio liniją dengė vokiečių saksų batalionas.'
+  santrauka: 'Šeduvoje jėzuitai buvo įkūrę vieną iš mažesnių mokyklų.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų —
+    Varniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve,
+    Alūkstoje, Daugpily, Jelgavoj ir kitur.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Stapulionio vadovaujamas Joniškėlio partizanų batalionas, Šeduvos-Panevėžio geležinkelio liniją dengė vokiečių saksų batalionas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Nuo gegužės 17 d. pra-
-    dėti „sustiprintą žvalgybą“, priešui pradė-
-    jus trauktis - „pulti ir persekioti“. Rinktinės
-    puolimą turėjo paremti A. Stapulionio
+    Stapulionio
     vadovaujamas Joniškėlio partizanų ba-
     talionas, Šeduvos-Panevėžio
     geležinkelio liniją dengė vo-
@@ -52,13 +67,13 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
     Bolševikų pajėgas sudarė 14-asis
     ir 15-asis šaulių pėstininkų pulkai ir
     6-asis latvių komunistų pulkas.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Laikotarpiai

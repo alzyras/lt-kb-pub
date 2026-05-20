@@ -46,35 +46,49 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 
 ## Teiginiai
 - t-011
-  teiginys: '1447 m. privilegijoje Kazimieras pasižadėjo išlaikyti Lietuvą Vytauto laikų ribose, todėl Podolė su Voluine turėjo likti Lietuvai.'
+  teiginys: 'Susidarius grėsmingai situacijai, Zigmantas Vaza nurodė LDK kariuomenei telktis prie Podolės Kameneco ir padėti Lenkijos kariuomenei.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-012
-  teiginys: 'Išleisdami Kazimierą į Lenkiją, lietuviai gavo lenkų sutikimą, kad visa Podolė ir Voluinė bus pripažintos Lietuvai.'
+  teiginys: 'Liepos 14 d. lietuviai atžygiavo į bendrą stovyklą prie Orinino, netoli Podolės Kameneco.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-013
-  teiginys: 'Kazimiero laikais tankiau gyventa tik tikrojoje Lietuvoje, Palenkėje, Voluinėje ir Podolės Braclavo srityje.'
+  teiginys: 'Podolei ir Rusiai kazokai buvo svarbi jėga ginantis nuo totorių, todėl valdovas jiems mokėjo nedidelį atlygį.'
   pagrindžia:
     - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-014
+  teiginys: 'Kadangi tuo metu tarp Lietuvos ir Lenkijos dar tebeėjo ginčas dėl Podolės ir Voluinės, tai lietuviai į šitą privilegiją įrašė punktą, kuriuo Kazimieras pasižadėjo išlaikyti Lietuvą tose pačiose ribose, kokias ji turėjo Vytauto laikais.'
+  pagrindžia:
+    - c-004
+- t-015
+  teiginys: 'Kazimiero karaliavimas Lenkijoje ir jo santykiai su Lietuva Išleisdami Kazimierą į Lenkiją, lietuviai buvo gavę lenkų sutikimą, kad visa Podolė ir Voluinė bus pripažintos Lietuvai.'
+  pagrindžia:
+    - c-005
+- t-016
+  teiginys: '), taip ir Kazimiero laikais tankiau buvo gyvenama tik tikrojoj Lietuvoj, Palenkėj, Voluinėj ir Podolės Braclavo srityje (visa kita Podolė priklausė Lenkijai).'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1447 m. privilegijoje Kazimieras pasižadėjo išlaikyti Lietuvą Vytauto laikų ribose, todėl Podolė su Voluine turėjo likti Lietuvai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: 'Susidarius grėsmingai situacijai, Zigmantas Vaza nurodė LDK kariuomenei telktis prie Podolės Kameneco ir padėti Lenkijos kariuomenei.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    1447 m. privilegija. Kadangi tuo metu tarp Lietuvos ir Len-
-    kijos dar tebeėjo ginčas dėl Podolės ir Voluinės, tai lietuviai
-    į šitą privilegiją įrašė punktą, kuriuo Kazimieras pasižadėjo iš-
-    laikyti Lietuvą tose pačiose ribose, kokias ji turėjo Vytauto lai-
-
-    kais. Tai reiškė, kad Podolė su Voluine turi likti Lietuvai.
+    Susidarius grėsmingai si-
+    tuacijai, Abiejų Tautų Res-
+    publikos valdovas Zigmantas Vaza
+    nurodė LDx kariuomenei telktis prie
+    Podolės Kameneco ir suteikti pagalbą
+    Lenkijos kariuomenei. Jungtinės kariuo-
+    menės vadu karalius paskyrė Lietuvos di-
+    dįjį etmoną Joną Karolį Chodkevičių.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -83,15 +97,19 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   pagrindžia:
     - t-011
 - c-002
-  santrauka: 'Išleisdami Kazimierą į Lenkiją, lietuviai gavo lenkų sutikimą, kad visa Podolė ir Voluinė bus pripažintos Lietuvai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: 'Liepos 14 d. lietuviai atžygiavo į bendrą stovyklą prie Orinino, netoli Podolės Kameneco.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Kazimiero karaliavimas Lenkijoje ir jo santykiai su Lietuva**
-
-    Išleisdami Kazimierą į Lenkiją, lietuviai buvo gavę lenkų
-    sutikimą, kad visa Podolė ir Voluinė bus pripažintos Lietuvai.
-    Kazimieras tą pažadėjo savo privilegijoje ir priesaikoje. Bet
-    kai jis nuvyko į Lenkiją, lenkai pareikalavo sau tų žemių.
+    1621 m. birželio pabaigoje LDK kariuo-
+    menė atvyko į Lvovą. Liepos 14 d. lietuviai
+    atžygiavo į bendrą stovyklą prie Orinino,
+    netoli Podolės Kameneco. Jungtinėje
+    kariuomenėje buvo 33180 karių
+    (daugiau nei devyniolika tūkstančių
+    kavalerijos ir apie keturiolika tūks-
+    tančių pėstininkų) LDK kariuomenę
+    sudarė 3350 husarų, 750 reitarų, 2200
+    kazokų ir totorių, 2350 pėstininkų.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -100,15 +118,15 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   pagrindžia:
     - t-012
 - c-003
-  santrauka: 'Kazimiero laikais tankiau gyventa tik tikrojoje Lietuvoje, Palenkėje, Voluinėje ir Podolės Braclavo srityje.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: 'Podolei ir Rusiai kazokai buvo svarbi jėga ginantis nuo totorių, todėl valdovas jiems mokėjo nedidelį atlygį.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Kaip Vy-
-    tauto (žiūr. 165 psl.), taip ir Kazimiero laikais tankiau buvo
-    gyvenama tik tikrojoj Lietuvoj, Palenkėj, Voluinėj ir Podo-
-    lės Braclavo srityje (visa kita Podolė priklausė Lenkijai). O
-    rytinės Lietuvos žemės, išskyrus didesniųjų miestų apy-
-    linkes, buvo beveik negyvenamos.
+    įgudę šaudyti iš lanko kaip totoriai ir lygiai kaip totoriai, kai to reikia, visu spartumu
+    traukdamiesi, sugeba apšaudyti besivejantį priešą strėlėmis. Podolei ir Rusiai jie svarbi
+    Jėga ginantis nuo totorių, kurie, kazokų bijodami, per Dniestrą persikelti išdrįsta tik su-
+    rinkę dideles pajėgas; todėl Jo Didenybė kazokams moka atlygį, nors ir labai nedidelį.“
+
+    CHOTINO MŪŠIS 1621 m. rugsėjo 2-spalio 10 d.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -116,6 +134,56 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-013
+- c-004
+  santrauka: 'Kadangi tuo metu tarp Lietuvos ir Lenkijos dar tebeėjo ginčas dėl Podolės ir Voluinės, tai lietuviai į šitą privilegiją įrašė punktą, kuriuo Kazimieras pasižadėjo išlaikyti Lietuvą tose pačiose ribose, kokias ji turėjo Vytauto laikais.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    1447 m. privilegija. Kadangi tuo metu tarp Lietuvos ir Len-
+    kijos dar tebeėjo ginčas dėl Podolės ir Voluinės, tai lietuviai
+    į šitą privilegiją įrašė punktą, kuriuo Kazimieras pasižadėjo iš-
+    laikyti Lietuvą tose pačiose ribose, kokias ji turėjo Vytauto lai-
+
+    kais. Tai reiškė, kad Podolė su Voluine turi likti Lietuvai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
+- c-005
+  santrauka: 'Kazimiero karaliavimas Lenkijoje ir jo santykiai su Lietuva Išleisdami Kazimierą į Lenkiją, lietuviai buvo gavę lenkų sutikimą, kad visa Podolė ir Voluinė bus pripažintos Lietuvai.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Kazimiero karaliavimas Lenkijoje ir jo santykiai su Lietuva**
+
+    Išleisdami Kazimierą į Lenkiją, lietuviai buvo gavę lenkų
+    sutikimą, kad visa Podolė ir Voluinė bus pripažintos Lietuvai.
+    Kazimieras tą pažadėjo savo privilegijoje ir priesaikoje. Bet
+    kai jis nuvyko į Lenkiją, lenkai pareikalavo sau tų žemių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
+- c-006
+  santrauka: '), taip ir Kazimiero laikais tankiau buvo gyvenama tik tikrojoj Lietuvoj, Palenkėj, Voluinėj ir Podolės Braclavo srityje (visa kita Podolė priklausė Lenkijai).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    ), taip ir Kazimiero laikais tankiau buvo
+    gyvenama tik tikrojoj Lietuvoj, Palenkėj, Voluinėj ir Podo-
+    lės Braclavo srityje (visa kita Podolė priklausė Lenkijai). O
+    rytinės Lietuvos žemės, išskyrus didesniųjų miestų apy-
+    linkes, buvo beveik negyvenamos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016
 
 ## Pavadinimai šaltiniuose
 

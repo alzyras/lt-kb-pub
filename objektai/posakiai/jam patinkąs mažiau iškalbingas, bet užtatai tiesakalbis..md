@@ -41,21 +41,19 @@ Vytautui priskiriama vertinimo formulė iškelia tiesakalbiškumą aukščiau u�
 
 ## Teiginiai
 - t-002
-  teiginys: 'Vytautas, išgirdęs giriamą iškalbingą kunigaikštį, trumpai tarė, kad jam patinka mažiau iškalbingas, bet tiesakalbis žmogus.'
+  teiginys: 'Formulė pateikiama kaip trumpas Vytauto vertinimas, kad tiesakalbiškumas vertingesnis už iškalbingumą.'
   pagrindžia:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: 'Vytautas, išgirdęs giriamą iškalbingą kunigaikštį, trumpai tarė, kad jam patinka mažiau iškalbingas, bet tiesakalbis žmogus.'
+  teiginys: 'O kai vėl kartą jo akyse kažkas gyrė vieną iškalbingą kunigaikštį, Vytautas trumpai ta­ rė, kad jam patinkąs mažiau iškalbingas, bet užtatai tiesa­ kalbis.'
   pagrindžia:
     - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vytautas, išgirdęs giriamą iškalbingą kunigaikštį, trumpai tarė, kad jam patinka mažiau iškalbingas, bet tiesakalbis žmogus.'
+  santrauka: 'Formulė pateikiama kaip trumpas Vytauto vertinimas, kad tiesakalbiškumas vertingesnis už iškalbingumą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kalboje buvo trumpas ir šykštus, bet žinodamas reikalus,
@@ -69,7 +67,7 @@ Vytautui priskiriama vertinimo formulė iškelia tiesakalbiškumą aukščiau u�
     galima ir laukinius žvėris sušvelninti. O kai vėl kartą jo akyse
     kažkas gyrė vieną iškalbingą kunigaikštį, Vytautas trumpai ta­
     rė, kad jam patinkąs mažiau iškalbingas, bet užtatai tiesa­
-    kalbis.
+    kalbis
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -78,23 +76,20 @@ Vytautui priskiriama vertinimo formulė iškelia tiesakalbiškumą aukščiau u�
   pagrindžia:
     - t-002
 - c-002
-  santrauka: 'Vytautas, išgirdęs giriamą iškalbingą kunigaikštį, trumpai tarė, kad jam patinka mažiau iškalbingas, bet tiesakalbis žmogus.'
+  santrauka: 'O kai vėl kartą jo akyse kažkas gyrė vieną iškalbingą kunigaikštį, Vytautas trumpai ta­ rė, kad jam patinkąs mažiau iškalbingas, bet užtatai tiesa­ kalbis.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Kai
-    kartą jam kažkas priminė jo didelį duosnumą dalinant toto­
-    riams žemes Lietuvoje ir Rusijoj, Vytautas atsakęs, kad gerumu
-    galima ir laukinius žvėris sušvelninti. O kai vėl kartą jo akyse
+    O kai vėl kartą jo akyse
     kažkas gyrė vieną iškalbingą kunigaikštį, Vytautas trumpai ta­
     rė, kad jam patinkąs mažiau iškalbingas, bet užtatai tiesa­
     kalbis.
     Istoriniai reikšmingas Vytauto veikimas prasideda Kęstu­
     čio kovos metu su Jogaila.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
 

@@ -19,20 +19,37 @@ Bet tuo tarpu atvykęs Lietuvos hetmonas kunigaikštis Konstantinas Ostrogiškis
 
 ## Teiginiai
 - t-001
-  teiginys: 'Konstantinas Ostrogiškis ties Orša smarkiai sumušė Maskvos kariuomenę.'
+  teiginys: 'Lietuvos hetmonas Konstantinas Ostrogiškis ties Orša sumušė priešą ir privertė jį trauktis.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: 'Ostrogiškis smarkiai sumušė Maskvos kariuomenę ties Orša.'
+  pagrindžia:
+    - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Konstantinas Ostrogiškis ties Orša smarkiai sumušė Maskvos kariuomenę.'
+  santrauka: 'Lietuvos hetmonas Konstantinas Ostrogiškis ties Orša sumušė priešą ir privertė jį trauktis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Visos Maskvos jėgos buvo nu-
-    kreiptos į Smolenską. Jis buvo net 3 sykius apgultas ir pagaliau,
-    Glinskiui sukėlus viduje sąmokslą, buvo paimtas (1514 m.).
+    Bet tuo tarpu atvykęs Lietuvos hetmonas
+    kunigaikštis Konstantinas Ostrogiškis ties Orša
+    sumušė priešą ir privertė jį trauktis.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Ostrogiškis smarkiai sumušė Maskvos kariuomenę ties Orša.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
     Netrukus po to atvykęs K. Ostrogiškis smarkiai sumušė Mas-
     kvos kariuomenę ties Orša.
   citata_rodoma: ""
@@ -41,4 +58,4 @@ Bet tuo tarpu atvykęs Lietuvos hetmonas kunigaikštis Konstantinas Ostrogiškis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

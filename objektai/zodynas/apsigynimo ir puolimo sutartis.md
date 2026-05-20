@@ -40,14 +40,16 @@ tags: []
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: 'Prochaska yra tos nuomonės, kad aukščiau minėtu priesai­ kos aktu Kauno sutartis, kiek ji buvo nukreipta prieš uniją, nu­ stojo savo galios^3 ).'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kauno taika Vytautui buvo apsigynimo ir puolimo sutartis, nepraradusi vertės ir naudinga jo rytų politikai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Tokią ištikimybės prie­
-    saiką tuo laiku iš viso buvo padarytos trys^2 ).
     Prochaska yra tos nuomonės, kad aukščiau minėtu priesai­
     kos aktu Kauno sutartis, kiek ji buvo nukreipta prieš uniją, nu­
     stojo savo galios^3 ). Gal lenkai taip ir manė, bet Vytautui Kau­
@@ -61,6 +63,27 @@ tags: []
   pagrindžia:
     - t-003
     - t-004
+- c-002
+  santrauka: 'Prochaska yra tos nuomonės, kad aukščiau minėtu priesai­ kos aktu Kauno sutartis, kiek ji buvo nukreipta prieš uniją, nu­ stojo savo galios^3 ).'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Prochaska yra tos nuomonės, kad aukščiau minėtu priesai­
+    kos aktu Kauno sutartis, kiek ji buvo nukreipta prieš uniją, nu­
+    stojo savo galios^3 ). Gal lenkai taip ir manė, bet Vytautui Kau­
+    no taika, būdama apsigynimo ir puolimo sutartis, nenustojo sa­
+    vo vertės ir jam buvo labai naudinga politikai rytuose.
+
+    ```
+    Vytautas, naujais pasižadėjimais nuraminęs lenką galvas
+    ir susiderinęs su Ordinu, pasuko į rytus sutvarkyt Smolensko
+    reikalą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Laikotarpiai

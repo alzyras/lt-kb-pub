@@ -63,17 +63,17 @@ Nenurodyta
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-005
-  teiginys: 'Atvirame lauke stovėjusius Ordino riterius, šarvuotus metaliniais šarvais, kepino karšta liepos saulė.'
+  teiginys: 'Sunkiąją kavaleriją sudarydavo raiti kariai apkaustyti nuo galvos iki kojų tvirtais metaliniais šarvais.'
   pagrindžia:
     - c-003
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 - t-006
-  teiginys: 'Pasimeldęs ir raginamas Vytauto bei lenkų riterių, Jogaila užsidėjo šarvus ir nuvyko prie kariuomenės.'
+  teiginys: 'Visa Ordino kariuomenė stovėjo atvi­ rame lauke ir riterius, šarvuotus metaliniais šarvais, kepino karšta liepos mėnesio saulė, tuo tarpu sąjungininkų kariuo­ menės dalis slėpėsi medžių ūksmėje, galėjo ilsėtis.'
   pagrindžia:
     - c-004
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
+- t-007
+  teiginys: 'Pasimeldęs Jogaila, ne tik Vytauto, bet ir lenkų riterių raginamas, užsidėjo šarvus ir nu­ vyko prie kariuomenės.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -112,40 +112,57 @@ Nenurodyta
   pagrindžia:
     - t-004
 - c-003
-  santrauka: 'Atvirame lauke stovėjusius Ordino riterius, šarvuotus metaliniais šarvais, kepino karšta liepos saulė.'
+  santrauka: 'Sunkiąją kavaleriją sudarydavo raiti kariai apkaustyti nuo galvos iki kojų tvirtais metaliniais šarvais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Abi priešininkų kariuomenės
-    buvo netoli viena kitos. Visa Ordino kariuomenė stovėjo atvi­
+    ```
+    ```
+    Kavalerija būdavo sunkiai ir lengvai ginkluota. Sunkiąją
+    kavaleriją sudarydavo raiti kariai apkaustyti nuo galvos iki
+    kojų tvirtais metaliniais šarvais. Šarvuodavo net arklius. Toks
+    riteris su anų laikų ginklais buvo beveik nepaimama tvirtovė.
+    Sunkiai šarvuotieji kovose turėdavo ir nepatogumų, — jei pa­
+    sitaikydavo nuo arklio nusiversti, tai ant jo užsėsti kautynių
+    laiku jiems būdavo labai sunku.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-004
+  santrauka: 'Visa Ordino kariuomenė stovėjo atvi­ rame lauke ir riterius, šarvuotus metaliniais šarvais, kepino karšta liepos mėnesio saulė, tuo tarpu sąjungininkų kariuo­ menės dalis slėpėsi medžių ūksmėje, galėjo ilsėtis.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Visa Ordino kariuomenė stovėjo atvi­
     rame lauke ir riterius, šarvuotus metaliniais šarvais, kepino
     karšta liepos mėnesio saulė, tuo tarpu sąjungininkų kariuo­
     menės dalis slėpėsi medžių ūksmėje, galėjo ilsėtis. Ordino ka­
     riuomenė nerimavo ir norėjo pradėti mūšį, bet to padaryti ne­
     galėjo, nes ne viskas buvo sutvarkyta.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-005
-- c-004
-  santrauka: 'Pasimeldęs ir raginamas Vytauto bei lenkų riterių, Jogaila užsidėjo šarvus ir nuvyko prie kariuomenės.'
+    - t-006
+- c-005
+  santrauka: 'Pasimeldęs Jogaila, ne tik Vytauto, bet ir lenkų riterių raginamas, užsidėjo šarvus ir nu­ vyko prie kariuomenės.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Ordino ka­
-    riuomenė nerimavo ir norėjo pradėti mūšį, bet to padaryti ne­
-    galėjo, nes ne viskas buvo sutvarkyta. Pasimeldęs Jogaila, ne tik
+    Pasimeldęs Jogaila, ne tik
     Vytauto, bet ir lenkų riterių raginamas, užsidėjo šarvus ir nu­
     vyko prie kariuomenės. Kariuomenė jau buvo visai paruošta ir
     laukė ženklo.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-006
+    - t-007
 
 ## Ryšiai
 ### Laikotarpiai

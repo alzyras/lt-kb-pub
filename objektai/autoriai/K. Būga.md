@@ -53,25 +53,31 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
 
 ## Teiginiai
 - t-003
-  teiginys: 'K. Būga prieš Pirmąjį pasaulinį karą visai baltų tautų grupei taikė aisčių vardą.'
+  teiginys: 'K. Būga kartu su K. Jauniumi kelias gimines vadino aisčiais, remdamasis viduramžių raštais ir vietovardžiais.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: 'K. Būga parengė darbus apie upių vardus, aisčių praeitį vietovardžių šviesoje ir lietuvių kalbos žodyną.'
+  pagrindžia:
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-005
+  teiginys: 'Lietuviai prieš I pasaulinį karą visai baltų tautų grupei buvo davę aisčių vardą (K. Būga). Anot Tacito, Svebų (Baltijos) jūros dešiniajame krante gyveną Aestii garbiną dievų motiną, nešioją šernų amuletus, javus ir kitus žemės vaisius rūpestingiau auginą.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'K. Būga prieš Pirmąjį pasaulinį karą visai baltų tautų grupei taikė aisčių vardą.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  santrauka: 'K. Būga kartu su K. Jauniumi kelias gimines vadino aisčiais, remdamasis viduramžių raštais ir vietovardžiais.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Visu tikrumu tačiau dar nėra baigta įrodyti, kad jo minimieji
-    « Aestii » — « Aestiorum gentes », apie kuriuos tiek daug rašyta,
-    galima tapatinti su baltais. Lietuviai prieš I pasaulinį karą visai
-    baltų tautų grupei buvo davę aisčių vardą (K. Būga). Anot Tacito,
-    Svebų (Baltijos) jūros dešiniajame krante gyveną Aestii garbiną
-    dievų motiną, nešioją šernų amuletus, javus ir kitus žemės vaisius
-    rūpestingiau auginą, negu germanai: jūros pakraščiais ir krante jie
-    renką gintarą, kurį vadiną « glesum ».
+    Tik didieji mūsų kalbininkai Jaunius su
+    Būga visas tas gimines vadino aisčiais, argumentuodami tuo, kad
+    taip jas vadina senieji viduramžio raštai ir kad ten, kur jie gyveno,
+    yra tą vardą pateisinančių vietovardžių (pav., _Aistmarės_ Prūsuose).
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -79,6 +85,37 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+- c-002
+  santrauka: 'K. Būga parengė darbus apie upių vardus, aisčių praeitį vietovardžių šviesoje ir lietuvių kalbos žodyną.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    _K. Būga,_ Upių vardų studijos ir aisčių bei slavėnų senovė (T. ir Ž.,
+    I); — Aisčių praeitis vietų vardų šviesoje (T. ir Ž., II); — Liet. kalbos
+    žodynas (įvadas; I, II sąs.) ;
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
+- c-003
+  santrauka: 'Lietuviai prieš I pasaulinį karą visai baltų tautų grupei buvo davę aisčių vardą (K. Būga). Anot Tacito, Svebų (Baltijos) jūros dešiniajame krante gyveną Aestii garbiną dievų motiną, nešioją šernų amuletus, javus ir kitus žemės vaisius rūpestingiau auginą.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Lietuviai prieš I pasaulinį karą visai
+    baltų tautų grupei buvo davę aisčių vardą (K. Būga). Anot Tacito,
+    Svebų (Baltijos) jūros dešiniajame krante gyveną Aestii garbiną
+    dievų motiną, nešioją šernų amuletus, javus ir kitus žemės vaisius
+    rūpestingiau auginą, negu germanai: jūros pakraščiais ir krante jie
+    renką gintarą, kurį vadiną « glesum ».
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Laikotarpiai

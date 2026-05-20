@@ -50,21 +50,25 @@ Nenurodyta
 
 ## Teiginiai
 - t-003
-  teiginys: 'Kunigaikščiai turėjo sukaupę nemažus brangiųjų metalų kiekius.'
+  teiginys: 'Palaikydamas gerus santykius su pirkliais, Vytautas įsigijo didelių aukso ir sidabro turtų.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: 'Kunigaikščiai turėjo sukaupę brangiųjų metalų nemažus kiekius^4.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kunigaikščiai turėjo sukaupę nemažus brangiųjų metalų kiekius.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  santrauka: 'Palaikydamas gerus santykius su pirkliais, Vytautas įsigijo didelių aukso ir sidabro turtų.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Plačiai ir nuosekliai išžvalgius šaltinius, yra prieita išvadų,
-    jog jau XIII amž. Lietuvoje buvo daug turto. Kunigaikščiai turėjo
-    sukaupę brangiųjų metalų nemažus kiekius^4. Karių apginklavi­
-    mas buvo turtingas^5.
+    Palaikė gerus santykius ir su pirkliais. Jų padedamas įsigi­
+    jo didelius turtus: aukso, sidabro, brangių akmenų, audeklų, kai­
+    linių ir kitokių brangenybių, kurias paskui kitiems dalindamas
+    rodė didelį duosnumą.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -72,6 +76,20 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+- c-002
+  santrauka: 'Kunigaikščiai turėjo sukaupę brangiųjų metalų nemažus kiekius^4.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Kunigaikščiai turėjo
+    sukaupę brangiųjų metalų nemažus kiekius^4. Karių apginklavi­
+    mas buvo turtingas^5.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Laikotarpiai

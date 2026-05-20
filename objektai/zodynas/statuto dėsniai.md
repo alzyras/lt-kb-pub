@@ -35,19 +35,17 @@ Pagaliau įvedamas dar vienas — lenkams pats svarbusis — nuostatas, reikalau
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'O valstybinių urėdų jie niekuomet negalėjo gauti Lietuvoje, nes unijos akte reikalaujamieji pakeisti statuto nuostatai niekad nebuvo pakeisti.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Statuto dėsniai draudė lenkams įsigyti dvarų Lietuvoje, o vienas unijos nuostatas reikalavo šį draudimą panaikinti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    To-
-    liau dar nustatoma, kad abi jungtinės valstybės turėsiančios
-    bendrus seimus (§ 8), kurie visada rinksiąsi Lenkijoje (§ 16;
-    sudarius uniją, tas pats Liublino seimas nutarė, kad seimai
-    turės rinktis Varšuvoje). Kitais unijos akto paragrafais nusta-
-    toma, kad turėsianti būti bendra abiejų valstybių užsienio poli-
-    tika (§ 11) ir bendras piniginis vienetas (§ 12). Pagaliau įveda-
+    Pagaliau įveda-
     mas dar vienas — lenkams pats svarbusis — nuostatas, reikalaująs
     panaikinti visus Lietuvos įstatymus (statuto dėsnius), drau-
     džiančius lenkams įsigyti Lietuvoje dvarų.
@@ -58,6 +56,21 @@ Pagaliau įvedamas dar vienas — lenkams pats svarbusis — nuostatas, reikalau
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'O valstybinių urėdų jie niekuomet negalėjo gauti Lietuvoje, nes unijos akte reikalaujamieji pakeisti statuto nuostatai niekad nebuvo pakeisti.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    O valstybinių urėdų jie niekuomet negalėjo gauti
+    Lietuvoje, nes unijos akte reikalaujamieji pakeisti statuto nuo-
+    statai niekad nebuvo pakeisti. Tuo būdu iš visos unijos liko
+    tik bendras valdovas ir bendri seimai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Laikotarpiai

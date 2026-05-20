@@ -36,26 +36,44 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
 
 ## Teiginiai
 - t-001
-  teiginys: 'Užbaigta Vilniaus katedra buvo pašventinta suteikiant jai Šv. Trejybės, Šv. Stanislovo ir Šv. Vladislovo titulus.'
+  teiginys: 'Didžiojo valdovo palaikai buvo pervežti į Vilnių ir palaidoti Vilniaus katedros rūsyje po šv. Mykolo Arkangelo altoriumi.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Vilniaus katedra sudegė 1399 m., o Vytauto pastatytą naują gotikinę katedrą 1531 m. sunaikino gaisras.'
+  teiginys: 'Vilniaus katedroje karalienė Bona altoriaus vietoje pastatė marmurinį paminklą, kuris žuvo per 1610 m. katedros gaisrą.'
   pagrindžia:
     - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Vilniaus katedroje Vytauto kapo paminklo jau nebebuvo nuo 1610 m. gaisro.'
+  pagrindžia:
+    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-004
+  teiginys: 'Panelės bažnyčių, dabar buvo padė­ ti pamatai Vilniaus katedrai ir šv.'
+  pagrindžia:
+    - c-004
+- t-005
+  teiginys: 'Kadangi katedra jau buvo užbaigta statyti, tai sugrįžus pasiuntiniams, pirmiausia ji buvo ir pašventinta, suteikiant jai tris titulus: Šv.'
+  pagrindžia:
+    - c-005
+- t-006
+  teiginys: 'Bet ši katedra 1399 metais sudegė.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Užbaigta Vilniaus katedra buvo pašventinta suteikiant jai Šv. Trejybės, Šv. Stanislovo ir Šv. Vladislovo titulus.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: 'Didžiojo valdovo palaikai buvo pervežti į Vilnių ir palaidoti Vilniaus katedros rūsyje po šv. Mykolo Arkangelo altoriumi.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Kadangi katedra jau buvo užbaigta statyti, tai sugrįžus
-    pasiuntiniams, pirmiausia ji buvo ir pašventinta, suteikiant jai
-    tris titulus: Šv. Trejybės, Šv. Stanislovo ir Šv. Vladislovo.
+    Didžiojo valdovo lavonas buvo laikomas 8 die-
+    nas gimtojoje pilyje; paskui jis buvo pervežtas į Vilnių ir palaidotas
+    katedros rūsyje, po šv. Mykolo Arkangelo altorium.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -64,14 +82,12 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Vilniaus katedra sudegė 1399 m., o Vytauto pastatytą naują gotikinę katedrą 1531 m. sunaikino gaisras.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: 'Vilniaus katedroje karalienė Bona altoriaus vietoje pastatė marmurinį paminklą, kuris žuvo per 1610 m. katedros gaisrą.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Stanislovas —
-    lenkų tautos šventasis) ir trečias priminė Jogailą Vladislovą,
-    katedros fundatorių. Bet ši katedra 1399 metais sudegė. Ta­
-    da Vytautas buvo pastatęs naują gotiško stiliaus katedrą,
-    bet ir ją gaisras sunaikino 1531 m.
+    Tada Zigmanto Augusto motina, ka-
+    ralienė Bona, altoriaus vietoje buvo pastačiusi marmurinį paminklą;
+    bet kai 1610 m. apdegė katedra, žuvo ir šis paminklas.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -79,6 +95,65 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Vilniaus katedroje Vytauto kapo paminklo jau nebebuvo nuo 1610 m. gaisro.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Vilniaus katedroje Vytauto kapo paminklo jau nebebuvo nuo
+    1610 m. gaisro. Tik 1853 m. grafas E. Tiškevičius toje vietoje, kur
+    turėjo būti senasis šv. Mykolo altorius, pastatė naują paminklą; tai
+    marmurinė lenta su atkartotu karalienės Bonos užrašu ir nauju prie-
+    rašu.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Panelės bažnyčių, dabar buvo padė­ ti pamatai Vilniaus katedrai ir šv.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Be esančių jau Vilniuje nuo seniau šv.
+    Mikalojaus, šv. Petro ir šv. Panelės bažnyčių, dabar buvo padė­
+    ti pamatai Vilniaus katedrai ir šv. Martyno bei šv. Jono baž­
+    nyčioms* 2).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: 'Kadangi katedra jau buvo užbaigta statyti, tai sugrįžus pasiuntiniams, pirmiausia ji buvo ir pašventinta, suteikiant jai tris titulus: Šv.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Kadangi katedra jau buvo užbaigta statyti, tai sugrįžus
+    pasiuntiniams, pirmiausia ji buvo ir pašventinta, suteikiant jai
+    tris titulus: Šv. Trejybės, Šv. Stanislovo ir Šv. Vladislovo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: 'Bet ši katedra 1399 metais sudegė.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Bet ši katedra 1399 metais sudegė. Ta­
+    da Vytautas buvo pastatęs naują gotiško stiliaus katedrą,
+    bet ir ją gaisras sunaikino 1531 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Laikotarpiai

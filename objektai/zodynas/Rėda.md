@@ -24,46 +24,89 @@ Vartojamos formos: `ūkės rėdą`, `rėdą`.
 
 ## Teiginiai
 - t-005
-  teiginys: '`Rėda` šiame tekste reiškia visuomenės ar valstybės tvarką.'
+  teiginys: '`Ūkės rėda` šiame tekste reiškia valstybės ar viešojo gyvenimo tvarką.'
   pagrindžia:
     - c-001
-    - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 - t-006
-  teiginys: 'Apie senovės lietuvių ūkės rėdą sunku aiškiai parašyti, nes karai ir priešai daug ką sunaikino.'
+  teiginys: 'Terminas vartojamas kalbant apie tikybos ir politinės tvarkos konfliktus.'
   pagrindžia:
-    - c-001
+    - c-002
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  statusas: patvirtinta
+- t-007
+  teiginys: '`Rėda` šiame tekste reiškia visuomenės ar valstybės tvarką.'
+  pagrindžia:
+    - c-003
+    - c-004
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  statusas: patvirtinta
+- t-008
+  teiginys: '`Ūkės rėda` žymi senovės lietuvių santvarką.'
+  pagrindžia:
+    - c-003
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
+  santrauka: '`Ūkės rėda` šiame tekste reiškia valstybės ar viešojo gyvenimo tvarką.'
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Tas dar taip pat yra žinomu, jog ne vieni tokie žemės, oro ar jūrų ermyderiai blaškė ir naikino
+    svietą šiame pasauly, bet dar lygia dalia novijo jį nuomonių ermyderiai apie tikybą ir ūkės^45
+    rėdą^46 , nesgi vieni vienaip norėjo dievą garbinti, kiti kitaip;
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-005
+- c-002
+  santrauka: 'Terminas vartojamas kalbant apie tikybos ir politinės tvarkos konfliktus.'
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    kurių aš čia užsiėmiau^59 būdą, dabą^60 , tikybą, ūkės rėdą, karybą, prekybą ir mantą^61 , arba pinigus,
+    trumpai išrašyti^62 pagal tą, kaip senovės raštininkai išrašę paliko ir ką dar pačios patarlės, kalboj
+    tebesančios, tvirtina,
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-006
+- c-003
   santrauka: '`Rėda` šiame tekste reiškia visuomenės ar valstybės tvarką.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Sunku šiandien yra aiškiai ką apie senovės lietuvių ūkės rėdą parašyti, nesgi kruvinos karės,
-        smarkūs neprieteliai, dar užvis bjauresnė žmonių skaugė^956 visa paspėjo išnaikinti.
+    smarkūs neprieteliai, dar užvis bjauresnė žmonių skaugė^956 visa paspėjo išnaikinti.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
-    - t-006
-- c-002
+    - t-007
+    - t-008
+- c-004
   santrauka: '`Rėda` šiame tekste reiškia visuomenės ar valstybės tvarką.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
-    Žinoma yra, jog rėda kožnos tautos visados kėlės nuo kunigų, kaipo dievo ir svieto tarpininkų, nesgi išminčiai svieto, regėdami, jog žmogus nuo pirmosios dienos lig savo paskuojės karšaties turi visados draugėj gyventi, kaipogi be draugės niekšai negalėtų ant svieto patekti, o ir gimęs be jos ilgainiui pragaištų.
+    Žinoma yra, jog rėda kožnos tautos visados kėlės nuo kunigų, kaipo dievo ir svieto tarpininkų,
+    nesgi išminčiai svieto, regėdami, jog žmogus nuo pirmosios dienos lig savo paskuojės karšaties turi
+    visados draugėj gyventi, kaipogi be draugės niekšai negalėtų ant svieto patekti, o ir gimęs be jos
+    ilgainiui pragaištų.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
+    - t-007
 
 ## Pastabos
 

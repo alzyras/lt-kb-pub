@@ -40,17 +40,19 @@ Nenurodyta
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: 'Žemaičiai vedė savitą politinį gyvenimą, socialiniu atžvilgiu skyrėsi nuo kitų lietuvių žemių ir savo privilegijas išlaikė iki XVI amžiaus.'
+  pagrindžia:
+    - c-002
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Didieji Lietuvos kunigaikščiai Žemaičių krašto vidaus reikaluose turėjo nedaug įtakos, bet pavojaus metu teikė pagalbą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Neramiame
-    pomindauginiame laikotarpyje smulkios Žemaičių sritinės kuni­
-    gaikštijos, kurių ten buvo ne mažas skaičius, buvo atsipalaidavusios
-    viena nuo kitos. Kiek jas vėl spėjo apjungti Traidenis, nėra duo­
-    menų. Bet didieji Lietuvos kunigaikščiai, nors nedaug teturėjo
+    Bet didieji Lietuvos kunigaikščiai, nors nedaug teturėjo
     įtakos į Žemaičių krašto vidaus reikalus, tačiau jį laikydami didžio­
     sios Lietuvos kunigaikštijos sudedamąja dalimi, pavojaus metu
     teikė pagalbą.
@@ -61,6 +63,31 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+- c-002
+  santrauka: 'Žemaičiai vedė savitą politinį gyvenimą, socialiniu atžvilgiu skyrėsi nuo kitų lietuvių žemių ir savo privilegijas išlaikė iki XVI amžiaus.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Tenka pastebėti, jog Žemaičiai iš dalies vedė savitą
+
+    (^1) **« ... contra gentem illam potentem et durissime cervicis exercitatam-
+    que in bello » (SRP, I, 146).**
+    (^2) **SRP, I, 147 p.**
+
+
+    ```
+    212 n skyrius: valstybės iškilimas
+    ```
+    politinį gyvenimą. Ir socialiniu atžvilgiu jie skyrėsi nuo kitų lie­
+    tuvių žemių. Žemaičiai į Lietuvos valstybę labiau buvo įjungti
+    Vytauto laikais, nors savo skirtingas privilegijas išlaikė iki pat
+    XVI amž
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Teminiai klasteriai

@@ -76,8 +76,6 @@ Nenurodyta
   teiginys: 'Valkininkų mūšis dažnai siejamas su ilgainiui Lietuvą apėmusios suirutės pradžia, privedusios šalį prie situacijos, kai jos likimą labiau nei ji pati ėmė lemti jos kaimynai.'
   pagrindžia:
     - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -119,9 +117,7 @@ Nenurodyta
   santrauka: 'Valkininkų mūšis dažnai siejamas su ilgainiui Lietuvą apėmusios suirutės pradžia, privedusios šalį prie situacijos, kai jos likimą labiau nei ji pati ėmė lemti jos kaimynai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    deklaruojamų bajoriškosios lygybės idealų,
-    dėl kurių ji ir pakilo į ginkluotą kovą, pa-
-    versti gyvenimo tikrove. Valkininkų mūšis
+    Valkininkų mūšis
     dažnai siejamas su ilgainiui Lietuvą apė-
     musios suirutės pradžia, privedusios šalį
     prie situacijos, kai jos likimą labiau nei ji
@@ -136,12 +132,12 @@ Nenurodyta
 
     4 DIDŽIOJI |
 
-    I. KUNIGAIKŠTYSTĖ
-  citata_rodoma: ""
+    I.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
 

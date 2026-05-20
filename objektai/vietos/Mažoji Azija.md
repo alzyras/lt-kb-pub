@@ -29,21 +29,25 @@ Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie g
 
 ## Teiginiai
 - t-001
-  teiginys: 'Mažojoje Azijoje buvo likusi tik nedidelė ordino dalis.'
+  teiginys: 'Mažajai Azijai patekus į turkų valdžią, Viduržemio jūros prekybos centrai pamažu neteko reikšmės Europai.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Kaukaze, Pietryčių Europoje, Mažojoje Azijoje ir Ukrainoje jie pasirodė apie trečio tūkstantmečio pr.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Mažojoje Azijoje buvo likusi tik nedidelė ordino dalis.'
+  santrauka: 'Mažajai Azijai patekus į turkų valdžią, Viduržemio jūros prekybos centrai pamažu neteko reikšmės Europai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Kita ordino narių dalis jau kūrė Vengrijoj savo
-    atskirą valstybę. Mažojoj Azijoj tuo būdu buvo likusi tik nedidelė
-    ordino dalis. Į Vengriją ordinas buvo pakviestas kariauti su ją puo-
-    lančiais pagonimis kumanais.
+    Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos cent-
+    rai, kurie grupavosi Viduržemio jūroje, tada pamažu visai Euro-
+    pai nustojo savo reikšmės, ir šiaurėje ėmė kurtis nauji prekybos
+    centrai.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -51,6 +55,19 @@ Kiek vėliau Mažoji Azija pateko į Turkų valdžią; prekybos centrai, kurie g
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Kaukaze, Pietryčių Europoje, Mažojoje Azijoje ir Ukrainoje jie pasirodė apie trečio tūkstantmečio pr.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Kaukaze, Pietryčių Europoje, Mažojoje Azijoje ir Ukrainoje jie
+    pasirodė apie trečio tūkstantmečio pr. Kr. pabaigą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Laikotarpiai

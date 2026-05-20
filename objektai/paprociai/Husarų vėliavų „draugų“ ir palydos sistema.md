@@ -49,31 +49,53 @@ Nenurodyta
 
 ## Teiginiai
 - t-005
-  teiginys: 'Husarai ir jų XVII a. pavyzdžio organizacija ATR egzistavo iki XVIII a.'
+  teiginys: 'Husarų vėliavų branduolį sudarė turtingi bajorai - draugai.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-006
-  teiginys: 'Lietuvos ir Lenkijos husarai XVII a. buvo vienintelė šoko kavalerija Europoje.'
+  teiginys: 'Husarai paprastai atakuodavo priešą dviem linijomis, kurių pirmoji silpnindavo rikiuotę, o antroji pralauždavo gretas.'
   pagrindžia:
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-007
+  teiginys: '„Draugas“ atsivesdavo ir tarnus, kurie į rikiuotę nestodavo, o užsiimdavo ūkine veikla, saugodavo stovyklą ir kitaip užtikrindavo „draugo“ ir jo mūšiui, dalyvaudavo visi husarai „draugai“, todėl kiekvienas vėliavų pirmos eilės karys puikiai žinodavo mūšio.'
+  pagrindžia:
+    - c-003
+- t-008
+  teiginys: 'Husarai ir jų XVII a.'
+  pagrindžia:
+    - c-004
+- t-009
+  teiginys: '„Draugų“ palydos buvo vieninteliai vieneLietuvos ir Lenkijos husarai - vienintelė xvii a.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Husarai ir jų XVII a. pavyzdžio organizacija ATR egzistavo iki XVIII a.'
+  santrauka: 'Husarų vėliavų branduolį sudarė turtingi bajorai - draugai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Dažniausiai šio periodo Lenkijos husarai vaiz-
-    duojami su sparnais, pritvirtintais prie nugaros ar
-    prie žirgo balno. Tvirty duomenų apie Lietuvos
-    kariuomenės husarų sparnus neaptikta.
-    Husarai ir jų XVII a. pavyzdžio organizacija eg-
-    zistavo ATR iki XVIII a.
-
-    _ palydos poreikius.
+    Didžiausia buvo didžiojo etmono husarų vėliava, kurią sudarė
+    200 raitelių. Įprasta vėliava - 100-150 raitelių. Husarų vėliavos pa-
+    grindas buvo „draugai“ — turtingi bajorai. Kiekvienas „draugas“
+    atsivesdavo palydą ir tarnus. Palydos struktūra
+    greičiausiai susiformavo iš viduramžių laikų ri-
+    terių „ieties“, ją sudarė įvairių socialinių sluoksnių
+    atstovai, dažniausiai nelabai turtingi bajorai, kuriuos
+    samdydavosi „draugas“. Pabuvojęs husarų „draugo“
+    palydoje ir užsidirbęs, neturtingas bajoras pats ga-
+    lėdavo tapti, tarkime, kazokų vėliavos „draugu“
+    (lengvosios kavalerijos palydą būdavo pigiau iš-
+    laikyti). Tačiau husarų „draugo“ palydoje galėjo
+    būti ir miestiečiai ar net ir valstiečiai iš „draugo“
+    dvaro. Palydą ginklais, šarvais ir žirgais aprūpindavo
+    „draugas“, palydos ginkluotė būdavo mažiau puošni.
+    „Draugai“ sudarydavo vėliavos priekinę eilę, jo pa-
+    lyda stodavo už jo ir sudarydavo antrąją, trečiąją ir
+    ketvirtąją eiles.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -82,10 +104,76 @@ Nenurodyta
   pagrindžia:
     - t-005
 - c-002
-  santrauka: 'Lietuvos ir Lenkijos husarai XVII a. buvo vienintelė šoko kavalerija Europoje.'
+  santrauka: 'Husarai paprastai atakuodavo priešą dviem linijomis, kurių pirmoji silpnindavo rikiuotę, o antroji pralauždavo gretas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
+    Lietuvos ir Lenkijos husarai - vienintelė xvii a.
+
+    „šoko kavalerija“ Europoje. ATR kariuomenės pratęsė
+    Europos riterių atakos tradiciją, o Vakarų Europoje xVII a.
+    pralaužiamosios kavalerijos atakos nebuvo naudojamos
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-006
+- c-003
+  santrauka: '„Draugas“ atsivesdavo ir tarnus, kurie į rikiuotę nestodavo, o užsiimdavo ūkine veikla, saugodavo stovyklą ir kitaip užtikrindavo „draugo“ ir jo mūšiui, dalyvaudavo visi husarai „draugai“, todėl kiekvienas vėliavų pirmos eilės karys puikiai žinodavo mūšio.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    „Draugas“ atsivesdavo ir tarnus, kurie į rikiuotę
+    nestodavo, o užsiimdavo ūkine veikla, saugodavo
+    stovyklą ir kitaip užtikrindavo „draugo“ ir jo
+
+    mūšiui, dalyvaudavo visi husarai „draugai“, todėl kiekvienas vė-
+    liavų pirmos eilės karys puikiai žinodavo mūšio sumanymą.
+    Husarai dėvėjo krūtinšarvį - kirasą, svėrusią apie 15 kg, pečius
+    saugodavo ilgi metaliniai antpečiai, rankos ir kojos taip pat būdavo
+    apsaugotos, viskas sujungta odiniais dirželiais, galvą saugodavo
+    šalmas, paprastai su nosies apsauga. Pagrindinis husaro ginklas
+    buvo ilga 3-6 metrų ietis, kuri paprastai būdavo kiek ilgesnė nei
+    vakarietiškų pėstininkų pikė (apie 4,5—5 m), tačiau daug lengvesnė
+    (ji būdavo tuščiavidurė). Kontakto metu husaro ietis sutrupėdavo
+    į šipulius ir prireikus ataką pakartoti, pirmosios eilės husarai pa-
+    imdavo kitą ietį iš antros eilės husarų. Jei husaras nebetu-
+    rėdavo ieties, puldamas jis naudodavo dūrimui skirtus
+    trumpesnius ginklus - palašą arba konseržą, kitaip estoką
+    (panašų į špagą ilgąjį kavalerijos durtuvą). Artimoje ko-
+    voje husarai naudodavo kardus ir pistoletus, buožes ir pan.
+    Husarai paprastai atakuodavo priešą dviem linijomis (ban-
+    gomis), kurių kiekviena būdavo sudaryta iš kelių (daž-
+    niausiai keturių) husarų eilių. Pirmoji atakuojančių
+    „ husarų linija turėdavo susilpninti priešų rikiuotę
+    („užkabinančioji“ banga), o antroji linija turėdavo
+    pralaužti priešų gretas („verčiančioji“ banga).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-004
+  santrauka: 'Husarai ir jų XVII a.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Husarai ir jų XVII a. pavyzdžio organizacija eg-
+    zistavo ATR iki XVIII a.
+
     _ palydos poreikius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-005
+  santrauka: '„Draugų“ palydos buvo vieninteliai vieneLietuvos ir Lenkijos husarai - vienintelė xvii a.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
     „Draugų“ palydos buvo vieninteliai viene-
 
     Lietuvos ir Lenkijos husarai - vienintelė xvii a.
@@ -95,13 +183,13 @@ Nenurodyta
     pralaužiamosios kavalerijos atakos nebuvo naudojamos
 
     tai, sudarę vėliavą.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-006
+    - t-009
 
 ## Ryšiai
 ### Laikotarpiai

@@ -36,33 +36,54 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: '1923 m. vasario 16 d. Ambasadorių Konferencija nutarė Klaipėdos kraštą priskirti Lietuvos valstybei, suteikiant jam autonominį režimą.'
+  teiginys: 'Klaipėdos krašto lietuvių atstovai norėjo jungtis prie Didžiosios Lietuvos vietinės autonomijos sąlygomis ir dalyvavo Valstybės Taryboje.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Klaipėdos kraštas turėjo autonominę valdžią, o Lietuvos Respublikos vyriausybei ten atstovavo prezidento skiriamas gubernatorius.'
+  teiginys: '1923 m. vasario 16 d. Ambasadorių Konferencija nutarė Klaipėdos kraštą priskirti Lietuvos valstybei, suteikiant jam autonominį režimą.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: 'Klaipėdos krašto autonominis statutas apibrėžė vietinių organų kompetenciją, seimelio, direktorijos ir gubernatoriaus funkcijas.'
+  teiginys: 'Klaipėdos kraštas turėjo autonominę valdžią, o Lietuvos Respublikos vyriausybei ten atstovavo prezidento skiriamas gubernatorius.'
   pagrindžia:
     - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-004
+  teiginys: 'Klaipėdos krašto autonominis statutas apibrėžė vietinių organų kompetenciją, seimelio, direktorijos ir gubernatoriaus funkcijas.'
+  pagrindžia:
+    - c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
+  santrauka: 'Klaipėdos krašto lietuvių atstovai norėjo jungtis prie Didžiosios Lietuvos vietinės autonomijos sąlygomis ir dalyvavo Valstybės Taryboje.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Klaipėdos krašto lietuvių atstovai
+    paskelbė norą prisijungti prie Didžiosios Lietuvos tam tikros
+    vietinės autonomijos sąlygomis; kooptuoti, jie dalyvavo ir Vals-
+    tybės Tarybos darbuose. Steigiamasis seimas taip pat svarstė
+    Klaipėdos krašto klausimą ir, atsižvelgdamas į ilgą ten Vokie-
+    tijos viešpatavimą, pareiškė (1921.XI.il.), kad tas kraštas turėtų
+    būti prijungtas prie Lietuvos, kaip atskiras autonominis vienetas.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
   santrauka: '1923 m. vasario 16 d. Ambasadorių Konferencija nutarė Klaipėdos kraštą priskirti Lietuvos valstybei, suteikiant jam autonominį režimą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Lietuvos vyriausybė atrėmė įtarimus, tačiau
-    apsiėmė atšaukti visus iš Didžiosios Lietuvos išėjusius savano-
-    rius, pasižadėjo viską padaryti ramybei ir taikai išlaikyti ir tam
-    tikslui pasiuntė iš savo pusės specialų komisarą. Didžiosios
+    Didžiosios
     valstybės, arba vadinamoji Ambasadorių Konferencija, buvo
     patenkintos jų komisijos ir Lietuvos komisaro bendradarbiavimu
     visų įvykių likvidavime ir 1923 metų vasario 16 d. nutarė Klai-
@@ -76,14 +97,12 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
-- c-002
+    - t-002
+- c-003
   santrauka: 'Klaipėdos kraštas turėjo autonominę valdžią, o Lietuvos Respublikos vyriausybei ten atstovavo prezidento skiriamas gubernatorius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    8 d. komisijos nustatytas susitarimo, arba konven-
-    cijos, tekstas buvo pasirašytas Paryžiuje Lietuvos ir didžiųjų
-    valstybių įgaliotinių. Nuo to laiko Klaipėdos kraštas yra negin-
+    Nuo to laiko Klaipėdos kraštas yra negin-
     čijama Lietuvos valstybės dalis. Jis turi savo autonominę valdžią,
     o respublikos vyriausybei ten atstovauja prezidento skiriamas gu-
     bernatorius.
@@ -93,23 +112,12 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-- c-003
+    - t-003
+- c-004
   santrauka: 'Klaipėdos krašto autonominis statutas apibrėžė vietinių organų kompetenciją, seimelio, direktorijos ir gubernatoriaus funkcijas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    **_Klaipėdos konvencija,_** kurią 1924 m. gegužės 8 d. pasirašė Pary-
-    žiuje Prancūzų ministeris pirmininkas ir užsienių reikalų ministeris
-    **_Poincarė,_** italų ambasadorius **_Avenzzana,_** japonų **_ambasadorius
-    Ishii,_** anglų markizas **_de Crewe_** ir Lietuvos ministeris pirmininkas ir
-    užsienių reikalų ministeris **_Galvanauskas,_** — susideda iš penkių da-
-    lių. Pirmoji — pagrindinė konvencija perduoda Lietuvai suvere-
-    nitetą Klaipėdos krašte, uždeda pareigą atlyginti okupacijos išlaidas
-    ir dalį reparacijų, nustato optacijos sąlygas, atleidžia klaipėdiečius
-    ligi 1930 metų nuo karo prievolės ir duoda teisę Tautų S-gos tarybos
-    nariams atkreipti dėmesį į konvencijos laužymus; o jei dėl to ne-
-    būtų sutikimo su signatarais, šiems paliekama laisvė pateikti ginčą
-    Hagos Teismui. Antroji dalis yra priedėlis, kuris išdėsto au-
+    Antroji dalis yra priedėlis, kuris išdėsto au-
     tonominį statutą, būtent apibrėžia vietinių organų kompetenciją,
     nustato seimelio ir direktorijos sudarymą, gubernatoriaus funkcijas,
     santykius tarp teismo organų, dviejų kalbų oficialumą, finansinius
@@ -120,4 +128,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-004

@@ -59,6 +59,3 @@ Popiežiaus pasiuntinys Zenonas norėjo dar Ordiną su Vytautu sutaikyti, bet ne
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XV amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/Vytautas Didysis]]

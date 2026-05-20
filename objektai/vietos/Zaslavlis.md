@@ -31,47 +31,33 @@ Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zasla
 
 ## Teiginiai
 - t-001
-  teiginys: 'Švitrigailos pajėgos užėmė Zaslavlį, Borisovą, Minską, Krėvą, Lydą, Vilnių, Trakus ir priartėjo prie Kauno.'
+  teiginys: 'Zaslavlis minimas tarp paskutinių rytinių slavų pilių prie sunkiai nustatomos rytinės lietuvių etnografinės sienos.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Zaslavlyje, tarp Volinijos ir Podolės, valdė Jaunučio sūnus.'
+  pagrindžia:
+    - c-002
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-003
+  teiginys: 'Vykstant Vytautui pro Polocką, Vitebską, Smolenską, Zaslavlių, Brianską, Černigovą iki Kijevo, jam lenkėsi visi tų kraštų kunigaikščiai, išreikšdami savo pa­ klusnumą.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Švitrigailos pajėgos užėmė Zaslavlį, Borisovą, Minską, Krėvą, Lydą, Vilnių, Trakus ir priartėjo prie Kauno.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  santrauka: 'Zaslavlis minimas tarp paskutinių rytinių slavų pilių prie sunkiai nustatomos rytinės lietuvių etnografinės sienos.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    kunigaikštystės, totorių kariuomenė
-    įsiveržė į Lietuvą. Šios pajėgos užėmė
-    Borisovą, Minską, Zaslavlį, Krėvą, Lydą,
-    Vilnių, Trakus ir priartėjo prie Kauno.
-    Žygimantas su savo mažesne Lietuvos ka-
-    riuomene nestojo į mūšį, bet vesdamas
-    savo pajėgas ne keliais ir neprieinamomis
-    vietomis, puldinėjo Švitrigailos tiekimo da-
-    linius, padarydamas jiems daug nuostolių,
-
-    67
-
-    pi
-    6£
-    kr L
-    610
-    2 a
-    T
-    = 5
-    o 2
-    22
-    co
-    “+
-    p
-    23
-    iv
-
-    ## Puslapis 70
-
-    priversdamas priešą badauti.
+    Etnografinė lietuvių siena rytuose šiauriau Nemuno yra dar
+    sunkiau nustatoma, nes šis pakraštys nėra tiksliai ištyrinėtas.
+    Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas,
+    Minskas, Zaslavlis. 1387 metų Jogailos rašte Skirgailai minimi prie
+    Molodečnos Lebedžiai (Lebedev) «na russkoj storone », rodo, jog
+    ten baigėsi lietuvių plotai.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -79,6 +65,38 @@ Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zasla
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Zaslavlyje, tarp Volinijos ir Podolės, valdė Jaunučio sūnus.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Senojoje
+    Turovo — Pinsko kunigaikštijoje, arba Polesėje sėdėjo Algirdo
+    brolio Narimanto sūnus. O Podolėje įsigyveno kito Gediminaičio
+    — Karijoto vaikai. Netoliese nuo ten, būtent, Zaslavlyje (tarp
+    Volinijos ir Podolės) valdė Jaunučio sūnus. Po kietų kovų su
+    Lenkija, Volinijoje (Lucke) išsilaikė senas Gediminaitis Liubartas.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Vykstant Vytautui pro Polocką, Vitebską, Smolenską, Zaslavlių, Brianską, Černigovą iki Kijevo, jam lenkėsi visi tų kraštų kunigaikščiai, išreikšdami savo pa­ klusnumą.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Vykstant Vytautui pro Polocką,
+    Vitebską, Smolenską, Zaslavlių, Brianską, Černigovą iki Kijevo,
+    jam lenkėsi visi tų kraštų kunigaikščiai, išreikšdami savo pa­
+    klusnumą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Laikotarpiai

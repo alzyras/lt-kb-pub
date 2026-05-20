@@ -35,26 +35,47 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tačiau lietuvių puolimas užstrigo ir Lietuvos kariuomenei pavyko tik išvaduoti Daugus bei Žąslius.'
+  teiginys: 'Vytautas ir Jogaila viešėjo Dauguose, kai sužinojo juos įžeidusį imperatoriaus sprendimą.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Lietuviams pavyko tik šiek tiek pasistūmėti į priekį, užimant Žaslius ir Daugus, tačiau pralaužti bolševikų pozicijų nepavyko.'
+  teiginys: 'Tačiau lietuvių puolimas užstrigo ir Lietuvos kariuomenei pavyko tik išvaduoti Daugus bei Žąslius.'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 - t-003
-  teiginys: '1945 m. birželio 14 d. Varčios miške tarp Alovės ir Daugų partizanai susikovė su NKVD kariuomene.'
+  teiginys: 'Šiaurinė (Kauno) grupė turėjo pulti per Žiežmarius, Zaslius, Vievį Pietinė grupė turėjo užimti Daugus ir Varéng@, tada palei gelezinkelį pro Lentvarį pulti Vilnių.'
   pagrindžia:
     - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+- t-004
+  teiginys: 'Lietuviams pavyko tik šiek tiek pasistūmėti į priekį, užimant Žaslius ir Daugus, tačiau pralaužti bolševikų pozicijų nepavyko.'
+  pagrindžia:
+    - c-004
+- t-005
+  teiginys: 'Varčios miške, tarp Alovės ir Daugų mstl.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
+  santrauka: 'Vytautas ir Jogaila viešėjo Dauguose, kai sužinojo juos įžeidusį imperatoriaus sprendimą.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Be to, jis neturėjo teisės tame krašte statyti pilių
+    ir daryti sustiprinimų^2 ). Kai šį sprendimą sužinojo Vytautas ir
+    Jogaila, kurie tada viešėjo Dauguose, abu taip balsiai pra­
+    virko, kad jų verksmas, kaip sako Dlugošas, iš tolo buvo
+    girdėti. Toks įžeidžiantis ir neteisingas klausimo išsprendimas
+    suglaudė abi valstybes į bendrą kovą.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
   santrauka: 'Tačiau lietuvių puolimas užstrigo ir Lietuvos kariuomenei pavyko tik išvaduoti Daugus bei Žąslius.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -64,32 +85,44 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
     ir atsiimti Lietuvos sostinę. Tačiau lietu-
     vių puolimas užstrigo ir Lietuvos kariuo-
     menei pavyko tik išvaduoti Daugus bei
-    Žąslius. Netrukus, 1919 m. balandžio 19 d.
-    lenkų kariuomenė puolė ir užėmė Vilnių.
-  citata_rodoma: ""
+    Žąslius. Netrukus, 1919 m.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
-- c-002
+    - t-002
+- c-003
+  santrauka: 'Šiaurinė (Kauno) grupė turėjo pulti per Žiežmarius, Zaslius, Vievį Pietinė grupė turėjo užimti Daugus ir Varéng@, tada palei gelezinkelį pro Lentvarį pulti Vilnių.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Balandžio 3-8 d. lietuviai iš Alytaus ir Kauno puolė Vilniaus link.
+    Šiaurinė (Kauno) grupė turėjo pulti per Žiežmarius, Zaslius, Vievį
+    Pietinė grupė turėjo užimti Daugus ir Varéng@, tada palei gelezin-
+    kelį pro Lentvarį pulti Vilnių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
   santrauka: 'Lietuviams pavyko tik šiek tiek pasistūmėti į priekį, užimant Žaslius ir Daugus, tačiau pralaužti bolševikų pozicijų nepavyko.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuviams pavyko tik šiek tiek pasistūmėti į priekį, užimant Žas-
     lius ir Daugus, tačiau pralaužti bolševikų pozicijų nepavyko. 1919 m.
-    pavasario viduryje Lietuvos kariuomenė dar buvo per maža stam-
-    bioms puolamosioms operacijoms.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-002
-- c-003
-  santrauka: '1945 m. birželio 14 d. Varčios miške tarp Alovės ir Daugų partizanai susikovė su NKVD kariuomene.'
+    - t-004
+- c-005
+  santrauka: 'Varčios miške, tarp Alovės ir Daugų mstl.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     DAINAVOS APYGARDA DIDZIOSIOS KOVOS APYGARDA
@@ -98,13 +131,13 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
     1945 m. birželio 14 d. Alytaus aps. Alytaus vls. Varčios miške, tarp Alovės ir Daugų
     mstl. partizanai susikovė su NKVD kariuomenės 220-ojo pasienio pulku, kuris puolė
     Lietuvos kariuomenės ats. Itn. Adolfo Ramanausko vadovaujamą partizanų būrį.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-003
+    - t-005
 
 ## Ryšiai
 ### Laikotarpiai

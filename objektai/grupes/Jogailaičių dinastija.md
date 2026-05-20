@@ -36,29 +36,42 @@ Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam tapus Lenkijos karaliumi (13
 
 ## Teiginiai
 - t-001
-  teiginys: 'Jogailaičių epocha prasidėjo 1386 m. ir truko iki 1572 m., kai Lietuvos valdovas tapo Lenkijos karaliumi.'
+  teiginys: 'Lietuviškos kilmės Jogailaičių dinastija iki 1572 m. valdė Lenkijoje ir Lietuvoje, o XV a. pabaigoje–XVI a. pradžioje užėmė Čekijos ir Vengrijos sostus.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Jogailaičių epocha Lenkijos istorijoje laikoma šviesiausiąja.'
+  teiginys: 'Čekijai pasitraukus iš Jogailaičių dinastinės sistemos, joje liko tik Lenkija ir Lietuva.'
   pagrindžia:
     - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus žinomiausioms Europos monarchijoms.'
+  pagrindžia:
+    - c-003
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+- t-004
+  teiginys: 'Tai reiškė pradžią visai naujos, beveik du amžiu (1386-1572) patveru­ sios Jogailaičių epochos, sekusios keliolika metų po paskutiniojo Piasto Kazimiero Didžiojo mirties (1370).'
+  pagrindžia:
+    - c-004
+- t-005
+  teiginys: '« Jogailaičių epocha» Lenkijos istorijoje yra laikoma pati šviesiau­ sioji.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Jogailaičių epocha prasidėjo 1386 m. ir truko iki 1572 m., kai Lietuvos valdovas tapo Lenkijos karaliumi.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  santrauka: 'Lietuviškos kilmės Jogailaičių dinastija iki 1572 m. valdė Lenkijoje ir Lietuvoje, o XV a. pabaigoje–XVI a. pradžioje užėmė Čekijos ir Vengrijos sostus.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Ne mažiau jų davė ir santykiai su Lenkija. Rytų Europos
-    tolimesniam vystymuisi yra laikoma labai stambiu įvykiu^12 , kad
-    Lietuvos valdovas tapo karaliumi kaimyninėje lenkų žemėje. Tai
-    reiškė pradžią visai naujos, beveik du amžiu (1386-1572) patveru­
-    sios Jogailaičių epochos, sekusios keliolika metų po paskutiniojo
-    Piasto Kazimiero Didžiojo mirties (1370).
+    Lenkijos ir Lietuvos sostuose sė-
+    dėjo lietuviškos kilmės Jogailaičių dinastija (iki 1572 m.), XV a. pabaigo-
+    je–XVI a. pradžioje užėmusi taip pat Čekijos ir Vengrijos sostus. Taigi,
+    šios epochos rytinė Vidurio Europa buvo tapusi „jogailaičių Europa“, o
+    jogailaičių dinastija – pagrindine Habsburgų dinastijos konkurente.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -67,15 +80,11 @@ Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam tapus Lenkijos karaliumi (13
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Jogailaičių epocha Lenkijos istorijoje laikoma šviesiausiąja.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  santrauka: 'Čekijai pasitraukus iš Jogailaičių dinastinės sistemos, joje liko tik Lenkija ir Lietuva.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    « Jogailaičių epocha» Lenkijos istorijoje yra laikoma pati šviesiau­
-    sioji. Kilmė tos rytų Europos istorijoje reikšmingos dinastijos
-    pradingsta tamsoje.
-    Du XIII amž. Lietuvos istorijai svarbus šaltiniai pasibaigia
-    (Eiliuotinė kronika — 1290, Ipatijaus metraštis — 1292), ir iš čia
-    nutrūksta, kad ir menkos, žinios apie lietuvius.
+    Čekijai „atkritus“ nuo Jogailaičių dinastinės sistemos, joje, kaip ir
+    anksčiau, liko tik Lenkija ir Lietuva.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -83,6 +92,52 @@ Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam tapus Lenkijos karaliumi (13
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus žinomiausioms Europos monarchijoms.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Gediminaičių ir Jogailaičių
+    dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos
+    monarchijoms ir nuo to mes jaučiamės smagiau.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Tai reiškė pradžią visai naujos, beveik du amžiu (1386-1572) patveru­ sios Jogailaičių epochos, sekusios keliolika metų po paskutiniojo Piasto Kazimiero Didžiojo mirties (1370).'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Ne mažiau jų davė ir santykiai su Lenkija. Rytų Europos
+    tolimesniam vystymuisi yra laikoma labai stambiu įvykiu^12 , kad
+    Lietuvos valdovas tapo karaliumi kaimyninėje lenkų žemėje. Tai
+    reiškė pradžią visai naujos, beveik du amžiu (1386-1572) patveru­
+    sios Jogailaičių epochos, sekusios keliolika metų po paskutiniojo
+    Piasto Kazimiero Didžiojo mirties (1370).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: '« Jogailaičių epocha» Lenkijos istorijoje yra laikoma pati šviesiau­ sioji.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    « Jogailaičių epocha» Lenkijos istorijoje yra laikoma pati šviesiau­
+    sioji. Kilmė tos rytų Europos istorijoje reikšmingos dinastijos
+    pradingsta tamsoje.
+    Du XIII amž.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Teminiai klasteriai

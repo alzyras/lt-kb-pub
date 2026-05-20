@@ -33,15 +33,44 @@ Susikūrus nepriklausomai Latvijai, iš pradžių jos ir Lietuvos siena buvo lai
 
 ## Teiginiai
 - t-001
-  teiginys: 'Susikūrus nepriklausomai Latvijai, Lietuvos ir Latvijos siena iš pradžių laikyta buvusia Kuršo gubernijos siena.'
+  teiginys: 'Kitas svarbus sukilėlių uždavinys - paimti į savo rankas Kuršo gubernijos vakarinės dalies kontrolę, kad būtų užtikrintas laivo su ginklais priėmimas iš Vakarų Europos.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Lietuvos Latvijos sienos nustatymas Susikūrus nepriklausomai Latvijai, iš pradžių jos ir Lietuvos siena buvo laikoma buvusios Kuršo gubernijos siena.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Susikūrus nepriklausomai Latvijai, Lietuvos ir Latvijos siena iš pradžių laikyta buvusia Kuršo gubernijos siena.'
+  santrauka: 'Kitas svarbus sukilėlių uždavinys - paimti į savo rankas Kuršo gubernijos vakarinės dalies kontrolę, kad būtų užtikrintas laivo su ginklais priėmimas iš Vakarų Europos.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Tuomet žygiuoti carinės kariuomenės
+    tvirtovės Daugpilio link ir padedant ten
+    tarnaujantiems iš Lietuvos kilusiems kariš-
+    kiams, bandyti užimti šį svarbų strateginį
+    punktą. Kitas svarbus sukilėlių uždavi-
+    nys - paimti į savo rankas Kuršo guber-
+    nijos vakarinės dalies kontrolę, kad būtų
+    užtikrintas laivo su ginklais priėmimas iš
+    Vakarų Europos. Teofilio Lapinskio vado-
+    vaujama ekspedicija laivu turėjo atgabenti
+
+    Sukilėlių pajėgos
+    Sukilėlių galėjo būti nuo 1500 iki
+    2500 karių.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Lietuvos Latvijos sienos nustatymas Susikūrus nepriklausomai Latvijai, iš pradžių jos ir Lietuvos siena buvo laikoma buvusios Kuršo gubernijos siena.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lietuvos Latvijos sienos nustatymas**
@@ -51,18 +80,14 @@ Susikūrus nepriklausomai Latvijai, iš pradžių jos ir Lietuvos siena buvo lai
 
     kadangi ji nesutapo su etnografine lietuvių siena, tai pradžioje
     čia pasitaikydavo nesusipratimų. Visiems neaiškumams likvi-
-    duoti 1921 m. buvo sudarytos specialios abiejų pusių komisijos
-    (lietuvių komisijai pirmininkavo pirmasis ir dabartinis prezi-
-    dentas A. Smetona), kurios savo konferencijose, tarpininkaujant
-    škotui prof. Simpsonui, išvedė sieną, nedaug tenutoldamos nuo
-    buvusios gubernijos sienos.
-  citata_rodoma: ""
+    duoti 1921 m.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Laikotarpiai

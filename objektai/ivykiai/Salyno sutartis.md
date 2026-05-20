@@ -47,34 +47,45 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
 
 ## Teiginiai
 - t-009
-  teiginys: 'Salyne Vytautas titulavo save aukščiausiuoju Lietuvos kunigaikščiu, atidavė Ordinui visą Žemaitiją ir nutraukė ryšius su Karūna.'
+  teiginys: '1398 m. spalio 12 d. Salyno saloje ratifikuojant sutartį dalyvavo Prūsų ir Livonijos ordinų magistrai, vyskupai ir Vytautas su Ona.'
   pagrindžia:
-    - c-001
+    - c-006
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-010
-  teiginys: 'Salyno suvažiavime Vytautas titulavo save aukščiausiuoju Lietuvos ir Rusijos kunigaikščiu ir leido paskelbti save karaliumi.'
+  teiginys: 'Salyne Vytautas elgėsi kaip aukščiausiasis Lietuvos ir Rusijos kunigaikštis, atidavė Ordinui visą Žemaitiją ir nutraukė ryšius su Karūna.'
   pagrindžia:
-    - c-002
+    - c-007
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-011
+  teiginys: 'Salyno suvažiavime Vytauto titulas ir paskelbimas karaliumi buvo laikomi jo galybės gestu Lenkijai ir grasinimu unijai.'
+  pagrindžia:
+    - c-008
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Salyne Vytautas titulavo save aukščiausiuoju Lietuvos kunigaikščiu, atidavė Ordinui visą Žemaitiją ir nutraukė ryšius su Karūna.'
+- c-006
+  santrauka: '1398 m. spalio 12 d. Salyno saloje ratifikuojant sutartį dalyvavo Prūsų ir Livonijos ordinų magistrai, vyskupai ir Vytautas su Ona.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Tuo tikslu, t. y. gauti iš Ordino pagalbos ir įvyk­
-    sta 1398 m. spalių mėn. 12 d. Salyne Vytauto ir kryžiuočių ma­
-    gistro suvažiavimas^1 ). Vytautas atvyko su puikia ir gau­
-    sia svita. Čia jisai, laikydamas save aukščiausiu Lietuvos kun.
-    (nors tas titulas priklausė tik Jogailai; jo vartojimas, sako Koch.,
-    yra aiškus Vytauto stokojimas lojalumo Jogailai ir Lenkijai),
-    atidavė Ordinui visą Žemaitiją^2 ), o iškilmingai patvirtindamas
-    visus reikalavimus kryžiuočių, besigrumiančių tuo metu su Len­
-    kija dėl Dobrynės, nutraukė visus ryšius su Karūna, žinodamas,
-    kad savarankiškumas, o ypač nedraugingas Lietuvos pasielgi­
-    mas su Lenkija, negalėjo būti jos toleruojamas.
+    1398 m. Gardine
+    padarė preliminarinę (prirengiamąją) sutartį, kuria Vytautas:
+
+    1. Atidavė Ordinui Žemaičius iki Nevėžio ir pasižadėjo jam pa­
+    dėti pastatyti dvi ar tris pilis. 2. Abi pusės prižadėjo paleisti
+    belaisvius, jų skaičiuj ir Vytauto brolį Zigmantą. 3. Vytautas
+    padės užkariauti Ordinui Pskovą, o šis Vytautui — Naugardą
+    D. 4. Nepraleis jokios kariuomenės per savo žemes, einančios
+    prieš kryžiuočius. 5. Jei Ordinas pageidautų, Vytautas turi,
+    jei tokia jo būtų valia, pasistengti, kad ta sutartis būtų patvir­
+    tinta Jogailos^1 ). Iškilmingas tos sutarties ratifikavimas (patvir­
+    tinimas) įvyko tų pačių metų spalių 12 d. Salyno saloj (Ne­
+    mune). Dalyvavo Prūsų ir Livonijos Ordinų magistrai, Var­
+    mijos ir Sambijos vyskupai ir daug komtūrų. Iš lietuvių pusės
+    dalyvavo Vytautas su žmona Ona, daugybė kunigaikščių, bajo­
+    rų ir palydovų.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -82,8 +93,27 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-009
-- c-002
-  santrauka: 'Salyno suvažiavime Vytautas titulavo save aukščiausiuoju Lietuvos ir Rusijos kunigaikščiu ir leido paskelbti save karaliumi.'
+- c-007
+  santrauka: 'Salyne Vytautas elgėsi kaip aukščiausiasis Lietuvos ir Rusijos kunigaikštis, atidavė Ordinui visą Žemaitiją ir nutraukė ryšius su Karūna.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    sta 1398 m. spalių mėn. 12 d. Salyne Vytauto ir kryžiuočių ma­
+    gistro suvažiavimas^1 ). Vytautas atvyko su puikia ir gau­
+    sia svita. Čia jisai, laikydamas save aukščiausiu Lietuvos kun.
+    (nors tas titulas priklausė tik Jogailai; jo vartojimas, sako Koch.,
+    yra aiškus Vytauto stokojimas lojalumo Jogailai ir Lenkijai),
+    atidavė Ordinui visą Žemaitiją^2 ), o iškilmingai patvirtindamas
+    visus reikalavimus kryžiuočių, besigrumiančių tuo metu su Len­
+    kija dėl Dobrynės, nutraukė visus ryšius su Karūna
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-010
+- c-008
+  santrauka: 'Salyno suvažiavime Vytauto titulas ir paskelbimas karaliumi buvo laikomi jo galybės gestu Lenkijai ir grasinimu unijai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Šiaip ar taip Vy­
@@ -99,7 +129,7 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-010
+    - t-011
 
 ## Ryšiai
 ### Laikotarpiai

@@ -62,4 +62,3 @@ Kai sužinojo, kad kryžiuočių pasiuntinys, Tomo komtūras, atvyko pas Jogail�
 
 ### Susiję objektai
 - [[objektai/asmenys/Rumbaudas]]
-- [[objektai/asmenys/Vytautas Didysis]]

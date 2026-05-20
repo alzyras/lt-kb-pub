@@ -51,49 +51,34 @@ Nenurodyta
 - t-005
   teiginys: 'Kartais atskiri lietuvių ir lenkų daliniai surengdavo bendras operacijas prieš rusus.'
   pagrindžia:
-    - c-002
+    - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-006
-  teiginys: 'Lenkų ir lietuvių provokacijos bei smulkūs susirėmimai vyko iki 1920 m. balandžio.'
+  teiginys: 'Lenkų daliniai dažnai puldinėjo lietuvių teritoriją nuo Nemuno pietuose iki Zarasų šiaurėje.'
   pagrindžia:
-    - c-003
+    - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-007
-  teiginys: 'Provokacijos ir smulkūs lenkų bei lietuvių susirėmimai tęsėsi iki 1920 m. balandžio.'
+  teiginys: '1919 m. rudenį lenkų daliniai sistemingai puldinėjo kelių Lietuvos apskričių vietoves.'
   pagrindžia:
     - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-008
-  teiginys: 'Atskiri lietuvių ir lenkų daliniai kartais surengdavo bendras operacijas prieš rusus.'
+  teiginys: 'Provokacijos ir smulkūs lenkų bei lietuvių susirėmimai tęsėsi iki 1920 m. balandžio.'
   pagrindžia:
-    - c-001
+    - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-009
+  teiginys: '[137 Ašmeną, | Tiek lietuvių, tiek ir lenkų pajėgos kovojo su bolševikais, kartais atskiri lietuvių ir lenkų daliniai net surengdavo bendras operacijas prieš rusus.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Atskiri lietuvių ir lenkų daliniai kartais surengdavo bendras operacijas prieš rusus.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    [137 Ašmeną,
-
-    | Tiek lietuvių, tiek ir lenkų pajėgos kovojo su bolševikais, kartais
-    atskiri lietuvių ir lenkų daliniai net surengdavo bendras operacijas
-    prieš rusus. Tačiau lenkai ėmė dažnai puldinėti lietuvių teritoriją
-    įvairiose vietose - nuo Nemuno pietuose iki Zarasų šiaurėje. Sutelkę
-    visas pajėgas prieš bolševikus lietuviai galėjo apsisaugojimui nuo
-    lenkų palikti tik labai nedideles pajėgas.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-008
-- c-002
   santrauka: 'Kartais atskiri lietuvių ir lenkų daliniai surengdavo bendras operacijas prieš rusus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -110,8 +95,24 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
+- c-002
+  santrauka: 'Lenkų daliniai dažnai puldinėjo lietuvių teritoriją nuo Nemuno pietuose iki Zarasų šiaurėje.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    1919 m. rudenį pagrindinėms Lietuvos pajėgoms kovojant su
+    bermontininkais, lenkai mėgino įvairiose vietose veržtis į Lietuvos
+    teritorijos glumą. Jų įvairaus dydžio daliniai sistemingai puldinėjo
+    Alytaus, Trakų, Širvintų, Ukmergės, Utenos ir Zarasų apskričių vieto-
+    ves, kurias gynė tik negausios vietinių karo komendantūrų kuopos.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-006
 - c-003
-  santrauka: 'Lenkų ir lietuvių provokacijos bei smulkūs susirėmimai vyko iki 1920 m. balandžio.'
+  santrauka: '1919 m. rudenį lenkų daliniai sistemingai puldinėjo kelių Lietuvos apskričių vietoves.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1920 m. vasario 22-23 d. Kaune kilo bolše-
@@ -128,8 +129,27 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-006
     - t-007
+    - t-008
+- c-004
+  santrauka: '[137 Ašmeną, | Tiek lietuvių, tiek ir lenkų pajėgos kovojo su bolševikais, kartais atskiri lietuvių ir lenkų daliniai net surengdavo bendras operacijas prieš rusus.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    [137 Ašmeną,
+
+    | Tiek lietuvių, tiek ir lenkų pajėgos kovojo su bolševikais, kartais
+    atskiri lietuvių ir lenkų daliniai net surengdavo bendras operacijas
+    prieš rusus. Tačiau lenkai ėmė dažnai puldinėti lietuvių teritoriją
+    įvairiose vietose - nuo Nemuno pietuose iki Zarasų šiaurėje. Sutelkę
+    visas pajėgas prieš bolševikus lietuviai galėjo apsisaugojimui nuo
+    lenkų palikti tik labai nedideles pajėgas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 ### Laikotarpiai

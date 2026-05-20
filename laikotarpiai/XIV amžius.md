@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 523.
+Objektų skaičius: 551.
 
 ## Kaip naudoti
 
@@ -39,11 +39,12 @@ Objektų skaičius: 523.
 - [[objektai/asmenys/Dimitrijus (Voluinietis Karijotaitis)]]
 - [[objektai/asmenys/Dmitrijus Algirdaitis Brenskietis]]
 - [[objektai/asmenys/Dmitrijus Ivanovičius]]
+- [[objektai/asmenys/Dovydas (Gardino pilininkas)]]
 - [[objektai/asmenys/Edividas]]
 - [[objektai/asmenys/Edyga]]
 - [[objektai/asmenys/Elžbieta]]
 - [[objektai/asmenys/Engelhardas Rabe]]
-- [[objektai/asmenys/Feodoras (Ostrogo kunigaikštis)]]
+- [Feodoras (Ostrogo kunigaikštis)](../objektai/asmenys/Feodoras%20%28Ostrogo%20kunigaik%C5%A1tis%29)
 - [Galminas](../objektai/asmenys/Galminas)
 - [Gediminas (Lietuvos valdovas)](../objektai/asmenys/Gediminas)
 - [Getautas](../objektai/asmenys/Getautas)
@@ -81,6 +82,7 @@ Objektų skaičius: 523.
 - [Konradas Wallenrodas](../objektai/asmenys/Konradas%20Wallenrodas)
 - [Kęstutis (vakarų pasienio valdovas, XIV–XV a.)](../objektai/asmenys/K%C4%99stutis)
 - [Lengvenis](../objektai/asmenys/Lengvenis)
+- [Liubartas](../objektai/asmenys/Liubartas)
 - [Liubartas Gediminaitis](../objektai/asmenys/Liubartas%20Gediminaitis)
 - [Liudvikas (Vengrijos karalius)](../objektai/asmenys/Liudvikas%20%28Vengrijos%20karalius%29)
 - [Lokietka](../objektai/asmenys/Lokietka)
@@ -113,6 +115,7 @@ Objektų skaičius: 523.
 - [Traidenis I](../objektai/asmenys/Traidenis%20I)
 - [Uzbeko](../objektai/asmenys/Uzbeko)
 - [Vaclovas Čekietis](../objektai/asmenys/Vaclovas%20%C4%8Cekietis)
+- [Vaidotas](../objektai/asmenys/Vaidotas)
 - [Vaidotas (Butauto sūnus)](../objektai/asmenys/Vaidotas%20%28Butauto%20s%C5%ABnus%29)
 - [Vasibutas](../objektai/asmenys/Vasibutas)
 - [Vikintas](../objektai/asmenys/Vikintas)
@@ -124,7 +127,6 @@ Objektų skaičius: 523.
 - [Vladislovas Łokietka](../objektai/asmenys/Vladislovas%20%C5%81okietka)
 - [Vosylius I](../objektai/asmenys/Vosylius%20I)
 - [Vytautas (Lietuvos valdovas, XIV–XV a.)](../objektai/asmenys/Vytautas)
-- [Vytautas Didysis](../objektai/asmenys/Vytautas%20Didysis)
 - [Vytenis](../objektai/asmenys/Vytenis)
 - [Vytenis (Lietuvos karalius)](../objektai/asmenys/Vytenis%20%28Lietuvos%20karalius%29)
 - [Ziemovitas III](../objektai/asmenys/Ziemovitas%20III)
@@ -133,8 +135,10 @@ Objektų skaičius: 523.
 
 ### Autoriai
 - [A. Alekna](../objektai/autoriai/A.%20Alekna)
+- [A. Kučinskas](../objektai/autoriai/A.%20Ku%C4%8Dinskas)
 - [A. Mierzyński](../objektai/autoriai/A.%20Mierzy%C5%84ski)
 - [A. Salys](../objektai/autoriai/A.%20Salys)
+- [A. Šapoka](../objektai/autoriai/A.%20%C5%A0apoka)
 - [Dusburgas](../objektai/autoriai/Dusburgas)
 - [G. Rhode](../objektai/autoriai/G.%20Rhode)
 - [Goyski, W](../objektai/autoriai/Goyski%2C%20W)
@@ -144,9 +148,11 @@ Objektų skaičius: 523.
 - [J. Dąbrowski](../objektai/autoriai/J.%20D%C4%85browski)
 - [J. Jakubowski](../objektai/autoriai/J.%20Jakubowski)
 - [K. Avižonis](../objektai/autoriai/K.%20Avi%C5%BEonis)
+- [K. Lohmeyer](../objektai/autoriai/K.%20Lohmeyer)
 - [K. Navickas](../objektai/autoriai/K.%20Navickas)
 - [Karolis Zikaras](../objektai/autoriai/Karolis%20Zikaras)
 - [Kliausis, lg](../objektai/autoriai/Kliausis%2C%20lg)
+- [L. Kolankowski](../objektai/autoriai/L.%20Kolankowski)
 - [lg. Kliausis](../objektai/autoriai/lg.%20Kliausis)
 - [Lianskoronskij, V](../objektai/autoriai/Lianskoronskij%2C%20V)
 - [Loreta Uzdraitė](../objektai/autoriai/Loreta%20Uzdrait%C4%97)
@@ -166,14 +172,17 @@ Objektų skaičius: 523.
 - [Zenonas Ivinskis](../objektai/autoriai/Z.%20Ivinskis)
 
 ### Daiktai
+- [Apgulties mašinos](../objektai/daiktai/Apgulties%20ma%C5%A1inos)
 - [Aukuras](../objektai/daiktai/Aukuras)
 - [Balti vilnoniai marškiniai](../objektai/daiktai/Balti%20vilnoniai%20mar%C5%A1kiniai)
 - [Bombardos](../objektai/daiktai/Bombardos)
 - [Brangieji metalai](../objektai/daiktai/Brangieji%20metalai)
+- [Du pliki kardai](../objektai/daiktai/Du%20pliki%20kardai)
 - [Gediminaičių stulpai](../objektai/daiktai/Gediminai%C4%8Di%C5%B3%20stulpai)
 - [Halka](../objektai/daiktai/Halka)
 - [Herbai](../objektai/daiktai/Herbai)
 - [Ietis](../objektai/daiktai/Ietis)
+- [Iždo ir pilių raktai](../objektai/daiktai/I%C5%BEdo%20ir%20pili%C5%B3%20raktai)
 - [Karinė ginkluotė](../objektai/daiktai/Karin%C4%97%20ginkluot%C4%97)
 - [Karūna](../objektai/daiktai/Kar%C5%ABna)
 - [Kristaus Kančios relikvija](../objektai/daiktai/Kristaus%20Kan%C4%8Dios%20relikvija)
@@ -184,6 +193,7 @@ Objektų skaičius: 523.
 - [Pilies raktai](../objektai/daiktai/Pilies%20raktai)
 - [Pirmosios katedros didysis altoriaus kryžius](../objektai/daiktai/Pirmosios%20katedros%20didysis%20altoriaus%20kry%C5%BEius)
 - [Rusiškas 1870 m. modelio šautuvas Berdan Nr. 2](../objektai/daiktai/Rusi%C5%A1kas%201870%20m.%20modelio%20%C5%A1autuvas%20Berdan%20Nr.%202)
+- [Sienodaužiai](../objektai/daiktai/Sienodau%C5%BEiai)
 - [Vežimai](../objektai/daiktai/Ve%C5%BEimai)
 - [Vytauto vėliava](../objektai/daiktai/Vytauto%20v%C4%97liava)
 - [Vytauto ženklas](../objektai/daiktai/Vytauto%20%C5%BEenklas)
@@ -191,6 +201,7 @@ Objektų skaičius: 523.
 - [Įsivaizduojami Lietuvos valdovų portretai](../objektai/daiktai/%C4%AEsivaizduojami%20Lietuvos%20valdov%C5%B3%20portretai)
 - [Šarvai](../objektai/daiktai/%C5%A0arvai)
 - [Šarvinių pirštinių, žasto, dilbio, kelio ir blauzdos apsaugos](../objektai/daiktai/%C5%A0arvini%C5%B3%20pir%C5%A1tini%C5%B3%2C%20%C5%BEasto%2C%20dilbio%2C%20kelio%20ir%20blauzdos%20apsaugos)
+- [Šv. Panelės paveikslas](../objektai/daiktai/%C5%A0v.%20Panel%C4%97s%20paveikslas)
 - [Šv. Vaclovo karūna](../objektai/daiktai/%C5%A0v.%20Vaclovo%20kar%C5%ABna)
 - [Žasto, dilbio, kelio ir blauzdos apsaugos](../objektai/daiktai/%C5%BDasto%2C%20dilbio%2C%20kelio%20ir%20blauzdos%20apsaugos)
 
@@ -227,6 +238,7 @@ Objektų skaičius: 523.
 - [Stačiatikiai](../objektai/grupes/Sta%C4%8Diatikiai)
 - [Totoriai](../objektai/grupes/Totoriai)
 - [Tverės kunigaikštystė](../objektai/grupes/Tver%C4%97s%20kunigaik%C5%A1tyst%C4%97)
+- [Vilniaus kapitula](../objektai/grupes/Vilniaus%20kapitula)
 - [Vokiečiai](../objektai/grupes/Vokie%C4%8Diai)
 - [Žemaičiai](../objektai/grupes/%C5%BDemai%C4%8Diai)
 - [Žemaičių medininkai](../objektai/grupes/%C5%BDemai%C4%8Di%C5%B3%20medininkai)
@@ -236,10 +248,14 @@ Objektų skaičius: 523.
 ### Papročiai
 - [Aisčių ugnies kultas ir šventoji namų ugnelė](../objektai/paprociai/Ais%C4%8Di%C5%B3%20ugnies%20kultas%20ir%20%C5%A1ventoji%20nam%C5%B3%20ugnel%C4%97)
 - [Bajorijos stiprinimas valdovo privilegijomis](../objektai/paprociai/Bajorijos%20stiprinimas%20valdovo%20privilegijomis)
+- [Belaisvių apsikeitimas, paliaubos ir riteriškas vaišinimas](../objektai/paprociai/Belaisvi%C5%B3%20apsikeitimas%2C%20paliaubos%20ir%20riteri%C5%A1kas%20vai%C5%A1inimas)
+- [Gedimino informacinė diplomatija ir karo veiksmų derinimas su Lenkija](../objektai/paprociai/Gedimino%20informacin%C4%97%20diplomatija%20ir%20karo%20veiksm%C5%B3%20derinimas%20su%20Lenkija)
 - [Kandidatas 37 LDK bažnytinės unijos bandymai ir graikų katalikų įsitvirtinimas](../objektai/paprociai/Kandidatas%2037%20LDK%20ba%C5%BEnytin%C4%97s%20unijos%20bandymai%20ir%20graik%C5%B3%20katalik%C5%B3%20%C4%AFsitvirtinimas)
 - [Kandidatas LDK bažnytinės unijos bandymai ir graikų katalikų įsitvirtinimas](../objektai/paprociai/Kandidatas%20LDK%20ba%C5%BEnytin%C4%97s%20unijos%20bandymai%20ir%20graik%C5%B3%20katalik%C5%B3%20%C4%AFsitvirtinimas)
+- [Kryžiaus žygių prieš totorius organizavimas](../objektai/paprociai/Kry%C5%BEiaus%20%C5%BEygi%C5%B3%20prie%C5%A1%20totorius%20organizavimas)
 - [Lietuvos krikšto apeigos](../objektai/paprociai/Lietuvos%20krik%C5%A1to%20apeigos)
 - [Lietuvos valdovų laidojimas pagoniškais papročiais](../objektai/paprociai/Lietuvos%20valdov%C5%B3%20laidojimas%20pagoni%C5%A1kais%20papro%C4%8Diais)
+- [Lotyniško krikšto privalomumas ir mišrių moterystių draudimas](../objektai/paprociai/Lotyni%C5%A1ko%20krik%C5%A1to%20privalomumas%20ir%20mi%C5%A1ri%C5%B3%20moterysti%C5%B3%20draudimas)
 - [Pagoniškų elementų integravimas į krikščioniškas praktikas](../objektai/paprociai/Pagoni%C5%A1k%C5%B3%20element%C5%B3%20integravimas%20%C4%AF%20krik%C5%A1%C4%8Dioni%C5%A1kas%20praktikas)
 - [Sezoniniai ordino žygiai į Lietuvą](../objektai/paprociai/Sezoniniai%20ordino%20%C5%BEygiai%20%C4%AF%20Lietuv%C4%85)
 - [Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais](../objektai/paprociai/Sutarties%20ir%20vasaliteto%20tvirtinimas%20ra%C5%A1tu%20bei%20antspaudais)
@@ -260,7 +276,10 @@ Objektų skaičius: 523.
 - [jam patinkąs mažiau iškalbingas, bet užtatai tiesakalbis.](../objektai/posakiai/jam%20patink%C4%85s%20ma%C5%BEiau%20i%C5%A1kalbingas%2C%20bet%20u%C5%BEtatai%20tiesakalbis.)
 - [Karalius Keystutte, jo pavaldiniai ir jo žemės ir Žemaičių gyventojai visiškai turi būti išskirti](../objektai/posakiai/Karalius%20Keystutte%2C%20jo%20pavaldiniai%20ir%20jo%20%C5%BEem%C4%97s%20ir%20%C5%BDemai%C4%8Di%C5%B3%20gyventojai%20visi%C5%A1kai%20turi%20b%C5%ABti%20i%C5%A1skirti)
 - [karūna su karūna negali būti sujungta — inkorporuota](../objektai/posakiai/kar%C5%ABna%20su%20kar%C5%ABna%20negali%20b%C5%ABti%20sujungta%20%E2%80%94%20inkorporuota)
+- [Mes kariaujame ne su kryžium, o su vokiečiais!](../objektai/posakiai/Mes%20kariaujame%20ne%20su%20kry%C5%BEium%2C%20o%20su%20vokie%C4%8Diais%21)
 - [Mirė tikrai mūsų tautos garbė.](../objektai/posakiai/Mir%C4%97%20tikrai%20m%C5%ABs%C5%B3%20tautos%20garb%C4%97)
+- [nuduodami nekaltą balandėlį](../objektai/posakiai/nuduodami%20nekalt%C4%85%20baland%C4%97l%C4%AF)
+- [pinklėmis antremti pinkles](../objektai/posakiai/pinkl%C4%97mis%20antremti%20pinkles)
 - [prieš vėją nepapūs](../objektai/posakiai/prie%C5%A1%20v%C4%97j%C4%85%20nepap%C5%ABs)
 - [Saugokis manęs, kaip ir aš tavęs saugaus](../objektai/posakiai/Saugokis%20man%C4%99s%2C%20kaip%20ir%20a%C5%A1%20tav%C4%99s%20saugaus)
 - [savo užantyje maitinti gyvatę](../objektai/posakiai/savo%20u%C5%BEantyje%20maitinti%20gyvat%C4%99)
@@ -279,6 +298,8 @@ Objektų skaičius: 523.
 - [Ašmena](../objektai/vietos/A%C5%A1mena)
 - [Bajerburgas](../objektai/vietos/Bajerburgas)
 - [Berlynas](../objektai/vietos/Berlynas)
+- [Betygala](../objektai/vietos/Betygala)
+- [Biala](../objektai/vietos/Biala)
 - [Brandenburgo žemė](../objektai/vietos/Brandenburgo%20%C5%BEem%C4%97)
 - [Brasta](../objektai/vietos/Brasta)
 - [Brianskas](../objektai/vietos/Brianskas)
@@ -293,6 +314,7 @@ Objektų skaičius: 523.
 - [Dovydiškės](../objektai/vietos/Dovydi%C5%A1k%C4%97s)
 - [Druckas](../objektai/vietos/Druckas)
 - [Dubingiai](../objektai/vietos/Dubingiai)
+- [Dubysa](../objektai/vietos/Dubysa)
 - [Dubysos sala](../objektai/vietos/Dubysos%20sala)
 - [Eigulių pilis](../objektai/vietos/Eiguli%C5%B3%20pilis)
 - [Gardinas](../objektai/vietos/Gardinas)
@@ -318,6 +340,7 @@ Objektų skaičius: 523.
 - [Krymas](../objektai/vietos/Krymas)
 - [Kujavija](../objektai/vietos/Kujavija)
 - [Kulių (Jurgaičių) pilys](../objektai/vietos/Kuli%C5%B3%20%28Jurgai%C4%8Di%C5%B3%29%20pilys)
+- [Labanoras](../objektai/vietos/Labanoras)
 - [Lenkija](../objektai/vietos/Lenkija)
 - [Livonija](../objektai/vietos/Livonija)
 - [Lohajskas](../objektai/vietos/Lohajskas)
@@ -366,6 +389,7 @@ Objektų skaičius: 523.
 - [Pomeranija](../objektai/vietos/Pomeranija)
 - [Praga](../objektai/vietos/Praga)
 - [Płockas](../objektai/vietos/P%C5%82ockas)
+- [Raseiniai](../objektai/vietos/Raseiniai)
 - [Rastenburgas](../objektai/vietos/Rastenburgas)
 - [Ratne](../objektai/vietos/Ratne)
 - [Riazanė](../objektai/vietos/Riazan%C4%97)
@@ -374,6 +398,7 @@ Objektų skaičius: 523.
 - [Ritterswerderis](../objektai/vietos/Ritterswerderis)
 - [Rudava](../objektai/vietos/Rudava)
 - [Ryga](../objektai/vietos/Ryga)
+- [Rževas](../objektai/vietos/R%C5%BEevas)
 - [Salynas](../objektai/vietos/Salynas)
 - [Sambija](../objektai/vietos/Sambija)
 - [Sandomierius](../objektai/vietos/Sandomierius)
@@ -406,6 +431,7 @@ Objektų skaičius: 523.
 - [Vilniaus katedra](../objektai/vietos/Vilniaus%20katedra)
 - [Vilnius](../objektai/vietos/Vilnius)
 - [Vitebskas](../objektai/vietos/Vitebskas)
+- [Vištyčio ežeras](../objektai/vietos/Vi%C5%A1ty%C4%8Dio%20e%C5%BEeras)
 - [Vladimiras](../objektai/vietos/Vladimiras)
 - [Vladimiras (prie Kliazmos)](../objektai/vietos/Vladimiras%20%28prie%20Kliazmos%29)
 - [Volinija](../objektai/vietos/Volinija)
@@ -430,6 +456,7 @@ Objektų skaičius: 523.
 - [1381 m. kryžiuočių puolimai Kęstučio valdose](../objektai/ivykiai/1381%20m.%20kry%C5%BEiuo%C4%8Di%C5%B3%20puolimai%20K%C4%99stu%C4%8Dio%20valdose)
 - [1384 m. Žemaičių sąjunga su Ordinu ir Vytauto pasidavimas Ordinui](../objektai/ivykiai/1384%20m.%20%C5%BDemai%C4%8Di%C5%B3%20s%C4%85junga%20su%20Ordinu%20ir%20Vytauto%20pasidavimas%20Ordinui)
 - [1387 m. vasaros žygis į Raudonąją Rusią](../objektai/ivykiai/1387%20m.%20vasaros%20%C5%BEygis%20%C4%AF%20Raudon%C4%85j%C4%85%20Rusi%C4%85)
+- [Algirdo žygiai prieš Maskvą (1368, 1370, 1372 m.)](../objektai/ivykiai/Algirdo%20%C5%BEygiai%20prie%C5%A1%20Maskv%C4%85%20%281368%2C%201370%2C%201372%20m.%29)
 - [Astravos sutartis](../objektai/ivykiai/Astravos%20sutartis)
 - [Aukaimio pilies sunaikinimas (1302 ir 1305 m.)](../objektai/ivykiai/Aukaimio%20pilies%20sunaikinimas%20%281302%20ir%201305%20m.%29)
 - [Bisenos sunaikinimas (1316 m.)](../objektai/ivykiai/Bisenos%20sunaikinimas%20%281316%20m.%29)
@@ -551,6 +578,7 @@ Objektų skaičius: 523.
 - [tripartitio christiana](../objektai/zodynas/tripartitio%20christiana)
 - [tėviškė](../objektai/zodynas/t%C4%97vi%C5%A1k%C4%97)
 - [vaivada](../objektai/zodynas/vaivada)
+- [Vakarų Bažnyčios schizma](../objektai/zodynas/Vakar%C5%B3%20Ba%C5%BEny%C4%8Dios%20schizma)
 - [valstybingumo idėja valstybingumo idealas valstybingumu grįsta periodizacija](../objektai/zodynas/valstybingumo%20id%C4%97ja%20valstybingumo%20idealas%20valstybingumu%20gr%C4%AFsta%20periodizacija)
 - [valstybingumo idėja valstybingumu grįsta periodizacija](../objektai/zodynas/valstybingumo%20id%C4%97ja%20valstybingumu%20gr%C4%AFsta%20periodizacija)
 - [vasalas](../objektai/zodynas/vasalas)

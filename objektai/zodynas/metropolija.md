@@ -76,31 +76,34 @@ Nenurodyta.
 
 ## Teiginiai
 - t-009
-  teiginys: '1415 m. Vytautas, nesusitaręs su Maskva, pasekė Algirdu ir nepaisė patriarcho priešinimosi dėl savos metropolijos.'
+  teiginys: 'Gediminui nepavyko išlaikyti Lietuvos metropolijos dėl Maskvos žemėse gyvenusio Kijevo metropolito Teognosto priešiškumo.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-010
+  teiginys: '1300 m. metropolitas Maksimas perkėlė Kijevo metropolijos rezidenciją į Vladimirą prie Kliazmos, Maskvos žemėse.'
+  pagrindžia:
+    - c-002
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-011
+  teiginys: 'Vytautas tą savos metropolijos svarbą suprato labai gerai ir po visokių pertraktacijų su Maskva, nepajėgęs kaip reikiant išrišti klausimo susitarimu, pasekė Algirdu, ir nebodamas patriarcho priešinimosi 1415 met.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1415 m. Vytautas, nesusitaręs su Maskva, pasekė Algirdu ir nepaisė patriarcho priešinimosi dėl savos metropolijos.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: 'Gediminui nepavyko išlaikyti Lietuvos metropolijos dėl Maskvos žemėse gyvenusio Kijevo metropolito Teognosto priešiškumo.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Lie­
-    tuvai rivalizuojant su Maskva dėl subūrimo apie save rusų že­
-    mių buvo labai nepatogu, kad aukščiausias vietinis jų bažny­
-    čios autoritetas yra Maskvos pusėje, kad rusai į Maskvą žiūri,
-    kaip į savo tikybinį centrą. Dėl to jau Algirdas buvo dėjęs daug
-    pastangų, ir jam pagaliau buvo pasisekę įkurti Lietuvos kuni­
-    gaikštijos ribose gyvenantiems pravoslavams atskirą metropo­
-    liją, nes senąjį metropolitą grąžinti į Kijevą jau buvo nebegalima.
-    Vytautas tą savos metropolijos svarbą suprato labai gerai ir po
-    visokių pertraktacijų su Maskva, nepajėgęs kaip reikiant išrišti
-    klausimo susitarimu, pasekė Algirdu, ir nebodamas patriarcho
-    priešinimosi 1415 met. sušaukęs Naugardukan pravoslavų aukš­
-    tuosius dvasiškius ir didikus, Kijevo metropolitu paskelbė Jurgį
-    Cemblaką.
+    Lietuvos metropolijos Gediminui nepasisekė išlai­
+    kyti dėl priešiško nusistatymo Maskvos žemėse gyvenančio Kijevo
+    metropolito Teognosto. Šio intrygų ir sudarytų kliūčių siūlai vedė
+    į Maskvą.
+    Tinkamai nesutvarkytas Lietuvos rytinių žemių bažnytinis
+    priklausomumas prie Gedimino įpėdinių sudarė valstybei įvairių
+    rūpesčių.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -108,6 +111,43 @@ Nenurodyta.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-009
+- c-002
+  santrauka: '1300 m. metropolitas Maksimas perkėlė Kijevo metropolijos rezidenciją į Vladimirą prie Kliazmos, Maskvos žemėse.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Tinkamai nesutvarkytas Lietuvos rytinių žemių bažnytinis
+    priklausomumas prie Gedimino įpėdinių sudarė valstybei įvairių
+    rūpesčių. Iš vis labiau silpnėjančio Kijevo metropolijos rezidencijos
+    perkėlimas į Vladimirą (prie Kliazmos) Maskvos žemėse (tai atliko
+    1300 m. metropolitas Maksimas), Lietuvos valstybingumui stačia­
+    tikių plotuose augino rimtą pavojų. Tik Algirdui vėl pasisekė (1353)
+    šimtui metų laimėti atskirus metropolitus Lietuvai.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-010
+- c-003
+  santrauka: 'Vytautas tą savos metropolijos svarbą suprato labai gerai ir po visokių pertraktacijų su Maskva, nepajėgęs kaip reikiant išrišti klausimo susitarimu, pasekė Algirdu, ir nebodamas patriarcho priešinimosi 1415 met.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Dėl to jau Algirdas buvo dėjęs daug
+    pastangų, ir jam pagaliau buvo pasisekę įkurti Lietuvos kuni­
+    gaikštijos ribose gyvenantiems pravoslavams atskirą metropo­
+    liją, nes senąjį metropolitą grąžinti į Kijevą jau buvo nebegalima.
+    Vytautas tą savos metropolijos svarbą suprato labai gerai ir po
+    visokių pertraktacijų su Maskva, nepajėgęs kaip reikiant išrišti
+    klausimo susitarimu, pasekė Algirdu, ir nebodamas patriarcho
+    priešinimosi 1415 met.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
 
 ## Pastabos
 

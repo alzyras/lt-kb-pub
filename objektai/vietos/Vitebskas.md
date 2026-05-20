@@ -18,8 +18,6 @@ datos:
   - '1392 m.'
   - '1393 m.'
   - '1430 m.'
-  - '1562 m.'
-  - '1623 m.'
   - '1930 m.'
   - '1936 m.'
   - '2026 m.'
@@ -27,11 +25,8 @@ periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
-  - 'XIII'
   - 'XIV'
   - 'XV'
-  - 'XVI'
-  - 'XVII'
   - 'XX'
   - 'XXI'
 date_start: '1350'
@@ -50,65 +45,79 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
 
 ## Teiginiai
 - t-013
-  teiginys: 'Iš Smolensko, Vitebsko, Minsko, Černigovo ir kitų miestų susidarė atskiros kunigaikštijos.'
+  teiginys: 'Strėvos kautynėse dalyvavo būriai iš Vitebsko, o mūšis baigėsi lietuvių pralaimėjimu.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-014
-  teiginys: 'Gediminas prijungė po Mindaugo išsivadavusį Vitebską su gretimaisiais miestais.'
+  teiginys: 'Perversmo pasėkoje Jogailai tebuvo paliktos jo tėvo žemės — Vitebskas ir Kriavo kunigaikštystė, o pats Kęstutis pirmą kartą paėmė aukščiausią valdžią, tapdamas didžiuoju kunigaikščiu (1381-82).'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-015
-  teiginys: 'Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Polocko, Vitebsko, Smolensko bei kitas sritis.'
+  teiginys: '1382 m. birželio 12 d. Jogailai atvykus iš Vitebsko į Vilnių, Hanulis jam įteikė pilies raktus.'
   pagrindžia:
     - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-016
-  teiginys: 'Švitrigaila pabėgo į Vitebską ir surinko naują kariuomenę, bet su ja nebegalėjo priešintis.'
+  teiginys: 'Didžiosios kunigaikštijos plačios sritys per Polocką ir Vitebską buvo įtrauktos į Dauguvos prekybą.'
   pagrindžia:
     - c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-017
-  teiginys: 'Maskvos kariuomenė net tris kartus buvo apgulusi Smolenską, užėmė Oršą ir apdegino Vitebską.'
+  teiginys: 'Vilniaus valdovui tiesiogiai priklausė Vilniaus žemė su artimomis Juodosios Rusios, Vitebsko, Minsko ir Mstislavlio sritimis.'
   pagrindžia:
     - c-005
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-018
-  teiginys: '1623 m. sukilę Vitebsko miestiečiai pravoslavai nužudė Polocko unitų arkivyskupą Juozapatą Kuncevičių.'
+  teiginys: 'Po Julijonos Algirdienės mirties jauniausias karaliaus brolis, būtent Švitrigaila, kuris per krikštą buvo gavęs Boleslovo vardą, prieš Jogailos valią buvo įsišeimininkavęs Vitebske.'
   pagrindžia:
     - c-006
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-019
-  teiginys: 'Vitebske buvo įkurta jėzuitų kolegija, funduota Smolensko vaivados A. Gansiausko.'
+  teiginys: 'Su Jogailos žinia, Vytautas kartu su Skirgaila 1392 m. paėmė Vitebską.'
   pagrindžia:
     - c-007
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-020
-  teiginys: 'Vitebskas buvo viena iš vietų, kuriose įkurtos pijarų mokyklos.'
+  teiginys: '1382 m. birželio 12 d., Jogaila su ta kariuomene, kurią buvo Kęstučiui žadėjęs pagalbai, atėjo nuo Vitebsko Vilniun ir, šalininkų remiamas, tuojau jį paėmė, o Ry­ gos pirklys Hanulo įteikė jam pilies raktus^1 ).'
   pagrindžia:
     - c-008
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+- t-021
+  teiginys: 'Panašiai buvo ir rusiškuose Lietuvos valstybės kraštuose, kur apie Vytauto pergalę skleidė žinias iš Žalgirio mūšio sugrį­ žusieji rusų kareiviai ir vokiečių belaisviai, kalinami tų kraštų pilyse, kaip Vitebske, Kijeve ir kitur.'
+  pagrindžia:
+    - c-009
+- t-022
+  teiginys: 'Vykstant Vytautui pro Polocką, Vitebską, Smolenską, Zaslavlių, Brianską, Černigovą iki Kijevo, jam lenkėsi visi tų kraštų kunigaikščiai, išreikšdami savo pa­ klusnumą.'
+  pagrindžia:
+    - c-010
+- t-023
+  teiginys: '237 įvyko panaikinant tokias didžiąsias kunigaikštijas, kaip Poloc­ ko, Vitebsko, Smolensko, Novgorodo-Sieversko, Kijevo, Voly­ nijos ir Podolijos.'
+  pagrindžia:
+    - c-011
+- t-024
+  teiginys: 'Kai Jo­ gaila grįžo iš Vitebsko, Kęstutis, skubiai parvykęs Lietuvon, or­ ganizuoja pasipriešinimą, Vytautas jam tik padeda.'
+  pagrindžia:
+    - c-012
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Iš Smolensko, Vitebsko, Minsko, Černigovo ir kitų miestų susidarė atskiros kunigaikštijos.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: 'Strėvos kautynėse dalyvavo būriai iš Vitebsko, o mūšis baigėsi lietuvių pralaimėjimu.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Bet jau XII
-    amž. Polocko kunigaikštija pakriko. Iš jos miestų, kaip antai:
-    Smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros ku-
-    nigaikštijos. Tada aisčiams jau lengviau buvo kariauti, ir XIII a.
-    pradžioje jie ne tik nebemokėjo jokių duoklių Polockui, bet net
-    paėmė į savo valdžią kai kurias jo valdytas kunigaikštijėles.
+    Tačiau Strėvos kau­
+    tynės, kuriose dalyvavo būriai iš Vladimiro (Volinijos), Liet. Bras­
+    tos, Polocko, Vitebsko ir Smolensko, baigėsi lietuvių pralaimėjimu.
+    Aiškiai perdėtais ordino kronikų duomenimis^11 , lietuvių pusėje esą
+    žuvę keliolika tūkstančių žmonių, o dar keli tūkstančiai esą prigėrę
+    Strėvoje, kai pati upė yra nesunkiai perbrendama.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -117,19 +126,15 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
   pagrindžia:
     - t-013
 - c-002
-  santrauka: 'Gediminas prijungė po Mindaugo išsivadavusį Vitebską su gretimaisiais miestais.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: 'Perversmo pasėkoje Jogailai tebuvo paliktos jo tėvo žemės — Vitebskas ir Kriavo kunigaikštystė, o pats Kęstutis pirmą kartą paėmė aukščiausią valdžią, tapdamas didžiuoju kunigaikščiu (1381-82).'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Tačiau kai ku-
-    rios sritys Vytenio laikais dar nebuvo visiškai prijungtos: jos
-    tebuvo tiktai pasidavusios Lietuvos įtakai. Gediminas čia glau-
-    džiai sujungė su savo valstybe jau Vytenio užimtą Palenkę, Pa-
-    girį ir gretimąsias sritis, o be to, dar užėmė didelę dalį Voluinės,
-    prijungė po Mindaugo išsivaduvusį Vitebską su gretimaisiais
-    miestais ir paėmė į savo įtaką tolimąjį Kijevą. Kurį laiką Lietu-
-    vos įtakai buvo pasidavęs net Pskovas su D. Naugardu (Pskovą
-    valdė buvęs Gardino kunigaikštis Dovydas, o D. Naugardą —
-    Gedimino sūnus Narimantas).
+    Jogailai nenujaučiant, Kęstutis, staiga užėmęs sostinę, nelais­
+    vėn paėmė Jogailą su jo broliais ir motina. Perversmo pasėkoje
+    Jogailai tebuvo paliktos jo tėvo žemės — Vitebskas ir Kriavo
+    kunigaikštystė, o pats Kęstutis pirmą kartą paėmė aukščiausią
+    valdžią, tapdamas didžiuoju kunigaikščiu (1381-82). Jogailos prie­
+    šui Andriui jis leido grįžti į Polocką.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -138,17 +143,13 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
   pagrindžia:
     - t-014
 - c-003
-  santrauka: 'Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Polocko, Vitebsko, Smolensko bei kitas sritis.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: '1382 m. birželio 12 d. Jogailai atvykus iš Vitebsko į Vilnių, Hanulis jam įteikė pilies raktus.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Švitrigaila buvo sąmokslininkų užpultas tuo metu, kai, vyk-
-    damas į derybas su Jogaila, nakvojo sustojęs Ašmenoje.
-    Tačiau sąmokslas ne visai pasisekė: Švitrigaila suskubo pasprukti
-    į Polocką ir paimti į savo valdžią Polocko, Vitebsko, Smolensko,
-    Naugardo Sieversko, Černigovo ir Kijevo sritis; tuo būdu Zig-
-    mantui, paskelbtam didžiuoju kunigaikščiu, be tikrosios Lietu-
-    vos, liko tiktai Palenkės, Pagirio ir Minsko žemės.
-    Zigmanto ryšiai su Lenkija.
+    Kai 1382.VI.
+    12 d. iš Vitebsko atvyko į Vilnių Jogaila, Hanulis jam įteikė pilies
+    raktus^13 , ir Vytautas, atvykęs su savo kariuomene prie pilies mūrų,
+    jau nieko nebegalėjo padaryti.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -157,18 +158,15 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
   pagrindžia:
     - t-015
 - c-004
-  santrauka: 'Švitrigaila pabėgo į Vitebską ir surinko naują kariuomenę, bet su ja nebegalėjo priešintis.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: 'Didžiosios kunigaikštijos plačios sritys per Polocką ir Vitebską buvo įtrauktos į Dauguvos prekybą.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Jame žuvo patsai Livonijos magistras su dau-
-    gybe riterių, žuvo Kaributo sūnus Zigmantas (kadaise buvęs
-    Vytauto vietininku Čekijoje, dabar palaikęs Švitrigailą), žuvo
-    daugybė rusų kunigaikščių; be to, daugelis pateko į nelaisvę.
-    Pačiam Švitrigailai pavyko pabėgti į Vitebską ir surinkti naują
-    kariuomenę, tačiau su ja jis vis dėlto nebegalėjo priešintis. Ne-
-    trukus Zigmantui pasidavė Polockas, Smolenskas, Vitebskas ir
-    Naugardas Sieverskas; Švitrigailai liko tik pietinės sritys — Ki-
-    jevas ir Voluinė su Lucku.
+    Esant nepatogiam susisiekimui į Pietus, vis daugiau reikšmės
+    įgijo Dauguvos kelias. Didžiosios kunigaikštijos plačios sritys per
+    Polocką ir Vitebską buvo įtrauktos į Dauguvos prekybą. Vilniuje
+    ir Trakuose atsirado vokiečių pirklių kolonijos. Nuo Vytenio ir
+    Gedimino laikų Ryga išsivystė Lietuvai ypatingai svarbiu prekybos
+    centru.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -177,13 +175,14 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
   pagrindžia:
     - t-016
 - c-005
-  santrauka: 'Maskvos kariuomenė net tris kartus buvo apgulusi Smolenską, užėmė Oršą ir apdegino Vitebską.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: 'Vilniaus valdovui tiesiogiai priklausė Vilniaus žemė su artimomis Juodosios Rusios, Vitebsko, Minsko ir Mstislavlio sritimis.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Besirūpinant karaliaus karūna apleisti karo reikalai
-    dar labiau pablogėjo. Maskvos kariuomenė net tris kartus buvo
-    apgulusi Smolenską, užėmė Oršą ir apdegino Vitebską. Alek-
-    sandras pradėjo derybas dėl taikos.
+    Tiesioginėje didžiojo kunigaikščio valdžioje
+    tebuvo tik dalis valstybės. Jam priklausė betarpiškai Vilniaus
+    žemė su artimomis Juodosios Rusios, Vitebsko, Minsko ir Mstislavlio
+    sritimis. Tas žemes Vilniaus valdovas pats valdė per savo pasta­
+    tytus vietininkus (« namiestniki ») ir tijūnus.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -192,15 +191,14 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
   pagrindžia:
     - t-017
 - c-006
-  santrauka: '1623 m. sukilę Vitebsko miestiečiai pravoslavai nužudė Polocko unitų arkivyskupą Juozapatą Kuncevičių.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: 'Po Julijonos Algirdienės mirties jauniausias karaliaus brolis, būtent Švitrigaila, kuris per krikštą buvo gavęs Boleslovo vardą, prieš Jogailos valią buvo įsišeimininkavęs Vitebske.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Labai dažnai ten
-    įvykdavo net kruvinų susirėmimų. Tų kovų metu sukilę Vi-
-    tebsko miestiečiai pravoslavai (1623 m.) nužudė net Polocko
-    unitų arkivyskupą Juozapatą Kuncevičių (jis vėliau
-    buvo paskelbtas unitų šventuoju). Per ilgas kovas pravoslavai
-    išsilaikė ir gyveno kartu su unitais.
+    Du suimti paties Jogailos broliai buvo nusiųsti Krokuvon^3.
+    Po Julijonos Algirdienės mirties jauniausias karaliaus brolis, būtent
+    Švitrigaila, kuris per krikštą buvo gavęs Boleslovo vardą, prieš
+    Jogailos valią buvo įsišeimininkavęs Vitebske. Su Jogailos žinia,
+    Vytautas kartu su Skirgaila 1392 m. paėmė Vitebską.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -209,22 +207,16 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
   pagrindžia:
     - t-018
 - c-007
-  santrauka: 'Vitebske buvo įkurta jėzuitų kolegija, funduota Smolensko vaivados A. Gansiausko.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: 'Su Jogailos žinia, Vytautas kartu su Skirgaila 1392 m. paėmė Vitebską.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Tuo
-    būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono
-    Jono Karolio Katkevičiaus fundacija), Gardine (Smolensko
-    vyskupo Isaikovskio ir kt. fundacija). Oršoje (karaliaus Zig-
-    manto fundacija), Smolenske (klebono Lempickio ir kt. fun-
-    dacija), Kaune (brolių Vijūkų Kojelavičių fundacija), Minske
-    (kanclerio Martyno Oginskio ir K. Bžostausko fundacija), Nau-
-    garduke (sudėtinė fundacija), Bobruiske (Triznos fun-
-    dacija), Pinske (kanclerio Aibr. St. Radvilos fundacija), Pa-
-    šiaušėje (bajoro Beinarto f-ja), Slucke (sudėtinė f-ja),
-    Vitebske (Smolensko vaivados A. Gansiausko f-ja), Žodiš-
-    kiuose (Minkevičių f-ja), Brastoje (vicekanclerio L. K. Sa-
-    piegos f-ja).
+    Po Julijonos Algirdienės mirties jauniausias karaliaus brolis, būtent
+    Švitrigaila, kuris per krikštą buvo gavęs Boleslovo vardą, prieš
+    Jogailos valią buvo įsišeimininkavęs Vitebske. Su Jogailos žinia,
+    Vytautas kartu su Skirgaila 1392 m. paėmė Vitebską. Dėl neaiškios
+    laikysenos ir kitas Jogailos brolis -— Briansko ir Naugardo — Sie­
+    versko kunigaikštis Dimitras Kaributas 1393 pavasarį kautynėse
+    buvo nugalėtas.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -233,32 +225,95 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
   pagrindžia:
     - t-019
 - c-008
-  santrauka: 'Vitebskas buvo viena iš vietų, kuriose įkurtos pijarų mokyklos.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: '1382 m. birželio 12 d., Jogaila su ta kariuomene, kurią buvo Kęstučiui žadėjęs pagalbai, atėjo nuo Vitebsko Vilniun ir, šalininkų remiamas, tuojau jį paėmė, o Ry­ gos pirklys Hanulo įteikė jam pilies raktus^1 ).'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Pijarai, niekuo daugiau neužsiimdami,
-    kaip tik mokymu, gyveno tik ten, kur buvo jų mokyklų, o jėzui-
-    tai stengėsi visur apsigyventi. Pijarų mokyklos — vienur pilnos
-    kolegijos, kitur žemesniosios mokyklos — buvo įkurtos šiose vie-
-    tose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajam
-    Dolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Va-
-    leranavoj, Vitebske, Želviuose ir dar vienur kitur.
-
-    #### 6.
-  citata_rodoma: ""
+    Tą pačią dieną, kada Vilniuje miesčionys užėmė pilį ir iš­
+    mušė Kęstučio sargybas, t. y. 1382 m. birželio 12 d., Jogaila su
+    ta kariuomene, kurią buvo Kęstučiui žadėjęs pagalbai, atėjo nuo
+    Vitebsko Vilniun ir, šalininkų remiamas, tuojau jį paėmė, o Ry­
+    gos pirklys Hanulo įteikė jam pilies raktus^1 ).
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-020
+- c-009
+  santrauka: 'Panašiai buvo ir rusiškuose Lietuvos valstybės kraštuose, kur apie Vytauto pergalę skleidė žinias iš Žalgirio mūšio sugrį­ žusieji rusų kareiviai ir vokiečių belaisviai, kalinami tų kraštų pilyse, kaip Vitebske, Kijeve ir kitur.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    ```
+    Panašiai buvo ir rusiškuose Lietuvos valstybės kraštuose,
+    kur apie Vytauto pergalę skleidė žinias iš Žalgirio mūšio sugrį­
+    žusieji rusų kareiviai ir vokiečių belaisviai, kalinami tų kraštų
+    pilyse, kaip Vitebske, Kijeve ir kitur. Tos žinios kėlė Vytauto
+    garbę, aukštino jį vietinių gyventojų akyse.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-021
+- c-010
+  santrauka: 'Vykstant Vytautui pro Polocką, Vitebską, Smolenską, Zaslavlių, Brianską, Černigovą iki Kijevo, jam lenkėsi visi tų kraštų kunigaikščiai, išreikšdami savo pa­ klusnumą.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Vykstant Vytautui pro Polocką,
+    Vitebską, Smolenską, Zaslavlių, Brianską, Černigovą iki Kijevo,
+    jam lenkėsi visi tų kraštų kunigaikščiai, išreikšdami savo pa­
+    klusnumą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-022
+- c-011
+  santrauka: '237 įvyko panaikinant tokias didžiąsias kunigaikštijas, kaip Poloc­ ko, Vitebsko, Smolensko, Novgorodo-Sieversko, Kijevo, Voly­ nijos ir Podolijos.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    ```
+    — 237
+    ```
+    įvyko panaikinant tokias didžiąsias kunigaikštijas, kaip Poloc­
+    ko, Vitebsko, Smolensko, Novgorodo-Sieversko, Kijevo, Voly­
+    nijos ir Podolijos. Visi šių kunigaikščių, daugiausia jau minėtų
+    tėvynainių, dvarai su visa dirbama ir nedirbama žeme, žmonė­
+    mis, gyvuliais ir padargais pateko į tiesioginę Vytauto valdžią.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-023
+- c-012
+  santrauka: 'Kai Jo­ gaila grįžo iš Vitebsko, Kęstutis, skubiai parvykęs Lietuvon, or­ ganizuoja pasipriešinimą, Vytautas jam tik padeda.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Kai Jo­
+    gaila grįžo iš Vitebsko, Kęstutis, skubiai parvykęs Lietuvon, or­
+    ganizuoja pasipriešinimą, Vytautas jam tik padeda. Stačiai
+    keistai atrodo Vytauto pasitikėjimas Jogaila, nors jau ne kartą
+    buvo paaiškėję, kad Jogaila neteisingai elgėsi.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-024
 
 ## Ryšiai
 ### Laikotarpiai
-- [[laikotarpiai/XIII amžius]]
 - [[laikotarpiai/XIV amžius]]
 - [[laikotarpiai/XV amžius]]
-- [[laikotarpiai/XVI amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/vietos/Ukmergė]]

@@ -33,19 +33,35 @@ Pasiuntė tada į Lietuvą delegaciją iš didžiausių Vytauto ka­ rūnacijos 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Jonas Tarnovskis vadovavo lenkų riteriams savanoriams, sudariusiems 10 vėliavų.'
+  teiginys: 'Jonas Tarnovskis buvo vienas iš Vytauto karūnacijos priešininkų, pasiųstų į Lietuvą atitraukti jį nuo karūnacijos.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Juos papildė Lenkijos karalystės pinigais suverbuoti žmonės ir lenkų riteriai savanoriai (10 vėliavų), vadovaujami Jono Tarnovskio (būsimo Lenkijos didžiojo etmono), visų pirma - karaliaus dvarionys, kuriems vadovavo Albertas (Vaitiekus) Sampolinskis.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Jonas Tarnovskis vadovavo lenkų riteriams savanoriams, sudariusiems 10 vėliavų.'
+  santrauka: 'Jonas Tarnovskis buvo vienas iš Vytauto karūnacijos priešininkų, pasiųstų į Lietuvą atitraukti jį nuo karūnacijos.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Pasiuntė tada į Lietuvą delegaciją iš didžiausių Vytauto ka­
+    rūnacijos priešininkų, būtent: Zb. Olesnickį ir Joną Tarnovs­
+    kį. Jų tikslas buvo atitraukt Vytautą nuo karūnacijos.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Juos papildė Lenkijos karalystės pinigais suverbuoti žmonės ir lenkų riteriai savanoriai (10 vėliavų), vadovaujami Jono Tarnovskio (būsimo Lenkijos didžiojo etmono), visų pirma - karaliaus dvarionys, kuriems vadovavo Albertas (Vaitiekus) Sampolinskis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Pastariesiems vadovavo
-    patyręs karys Jonušas Svierčiovskis.
     Juos papildė Lenkijos karalystės pini-
     gais suverbuoti žmonės ir lenkų riteriai
     savanoriai (10 vėliavų), vadovaujami
@@ -56,13 +72,13 @@ Pasiuntė tada į Lietuvą delegaciją iš didžiausių Vytauto ka­ rūnacijos 
     vių ir lenkų kariuomenę, senųjų šaltinių
     duomenimis, sudarė 30000 (ar 35000)
     karių.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Laikotarpiai

@@ -40,39 +40,45 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vytauto organizuotas kryžiaus žygis 1399 m. prie Vorsklos baigėsi pralaimėjimu.'
+  teiginys: 'Kautynių vieta buvo numatyta Vorsklos upės apylinkėse.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Vytauto pralaimėjimas totoriams prie Vorsklos 1399 m. sulėtino Lietuvos plėtrą rytuose.'
+  teiginys: 'Kai Vytautas priartėjo prie Vorsklos upės kranto, ten atvyko Timur-Kutlugo vadas Edyga.'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: 'Prie kairiojo Dniepro intako Vorsklos Lietuvos jungtinės pajėgos susitiko su Timūr-Kutluko kariuomene.'
+  teiginys: 'Vytauto didelių užsimojimų žygis buvo pralaimėtas prie Vorsklos.'
   pagrindžia:
     - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: 'Vytautas ir pats buvo reagavęs į Serbijos sunaikinimą prie Kosovo (1389) - organizavo analogišką Nikopoliui (1396) kryžiaus žygį, pasibaigusį taip pat pralaimėjimu 1399 m. prie Vorsklos.'
+  pagrindžia:
+    - c-004
+- t-005
+  teiginys: 'Vytauto pralaimėjimas totoriams prie Vorsklos 1399 m. sulėtino Lietuvos plėtrą rytuose.'
+  pagrindžia:
+    - c-005
+- t-006
+  teiginys: 'Rugpjūčio pradžioje kariuomenė, persikėlusi per Dnieprą, jo kairiuoju krantu patraukė į Šarvinių pirštinių rekonstrukcija stepes, kur laukė prie kairiojo Dniepro intako Vorsklos, prie Ordos valdų paribių, susitiko su Aukso ordos chano Timūr-Kutluko kariuomene.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vytauto organizuotas kryžiaus žygis 1399 m. prie Vorsklos baigėsi pralaimėjimu.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  santrauka: 'Kautynių vieta buvo numatyta Vorsklos upės apylinkėse.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Garsiajame
-    Lucko suvažiavime 1429 m. pas Vytautą rinkosi Vidurio ir Rytų
-    Europos valdovai svarstyti jau nebe Kryžiuočių ordino, o Osmanų
-    imperijos keliamo pavojaus. Vytautas ir pats buvo reagavęs į Ser-
-    bijos sunaikinimą prie Kosovo (1389) - organizavo analogišką
-    Nikopoliui (1396) kryžiaus žygį, pasibaigusį taip pat pralaimėjimu
-    1399 m. prie Vorsklos.
-
-    Švitrigaila popiežiui net rašys, kad Lietuva yra „ant viso krikš-
-    čionių pasaulio sienos“ (in finibus totius Christianitatis).
+    Visos tos didžiulės kariuomenės susirinkimo vieta buvo
+    paskirta Kijeve. Kautynėms vieta buvo numatyta Vorsklos
+    upės apylinkės. 1399 m. rugpiūčio pradžioj Vytauto karo jė­
+    gos susitelkė kairiajame Vorsklos^1 ) upės krante.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -81,16 +87,15 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Vytauto pralaimėjimas totoriams prie Vorsklos 1399 m. sulėtino Lietuvos plėtrą rytuose.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  santrauka: 'Kai Vytautas priartėjo prie Vorsklos upės kranto, ten atvyko Timur-Kutlugo vadas Edyga.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Vienas galingiausių Lietuvos valdovų, didysis kunigaikštis
-    Vytautas maksimaliai išplėtė Lietuvos valstybę, rytuose prijungęs
-    Smolenską ir pasiekęs Juodąją jūrą. Vytauto pralaimėjimas toto-
-    riams prie Vorsklos 1399 m. sulėtino Lietuvos plėtrą rytuose.
-
-    Po Vytauto mirties kilusios sosto dalybos sukėlė pilietinį karą,
-    pasibaigusį 1435 m.
+    Tokios didelės
+    krikščionių kariuomenės rytų kraštuose niekas dar nebuvo ma­
+    tęs. Kai Vytautas prisiartino prie Vorsklos upės kranto, tuoj
+    ten atvyko ir vienas Timur-Kotlogo vadas Edyga ir laukė atei­
+    nant paties Kotlogo. Kad išloštų laiką, Edyga pradėjo su Vy­
+    tautu derėtis.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -99,12 +104,60 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Prie kairiojo Dniepro intako Vorsklos Lietuvos jungtinės pajėgos susitiko su Timūr-Kutluko kariuomene.'
+  santrauka: 'Vytauto didelių užsimojimų žygis buvo pralaimėtas prie Vorsklos.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Bet deja, jam tokiu iš jo grįžti neteko: didelių užsimojimų žygis
+    buvo prie Vorsklos pralaimėtas. To išdavoj Vytauto taip auk­
+    štai iškilęs autoritetas krito ir jo kai kurie priešai pamatė da­
+    bar gerą progą pakelt savo galvas. Turėjo pasikeisti ir jo pla­
+    nai su Lenkija.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Vytautas ir pats buvo reagavęs į Serbijos sunaikinimą prie Kosovo (1389) - organizavo analogišką Nikopoliui (1396) kryžiaus žygį, pasibaigusį taip pat pralaimėjimu 1399 m. prie Vorsklos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Buvo valakai, kryžiuo-
-    čių dalinys (100 riterių), vadovaujamas
-    Ragainės komtūro Markvardo. Rugpjūčio
+    Vytautas ir pats buvo reagavęs į Ser-
+    bijos sunaikinimą prie Kosovo (1389) - organizavo analogišką
+    Nikopoliui (1396) kryžiaus žygį, pasibaigusį taip pat pralaimėjimu
+    1399 m. prie Vorsklos.
+
+    Švitrigaila popiežiui net rašys, kad Lietuva yra „ant viso krikš-
+    čionių pasaulio sienos“ (in finibus totius Christianitatis).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: 'Vytauto pralaimėjimas totoriams prie Vorsklos 1399 m. sulėtino Lietuvos plėtrą rytuose.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Vytauto pralaimėjimas toto-
+    riams prie Vorsklos 1399 m. sulėtino Lietuvos plėtrą rytuose.
+
+    Po Vytauto mirties kilusios sosto dalybos sukėlė pilietinį karą,
+    pasibaigusį 1435 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: 'Rugpjūčio pradžioje kariuomenė, persikėlusi per Dnieprą, jo kairiuoju krantu patraukė į Šarvinių pirštinių rekonstrukcija stepes, kur laukė prie kairiojo Dniepro intako Vorsklos, prie Ordos valdų paribių, susitiko su Aukso ordos chano Timūr-Kutluko kariuomene.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Rugpjūčio
     pradžioje kariuomenė, persikėlusi per
     Dnieprą, jo kairiuoju krantu patraukė į
 
@@ -124,13 +177,13 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
     nigaikščiai, Tochtamišo totoriai, talkinin-
     kai iš Lenkijos, Kryžiuočių ordino kariai,
     moldavai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-003
+    - t-006
 
 ## Ryšiai
 ### Laikotarpiai

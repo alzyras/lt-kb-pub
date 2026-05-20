@@ -38,21 +38,16 @@ tags: []
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-004
-  teiginys: 'Vytautas ir Jogaila 1398 m. rūpinosi gauti Romos sutikimą Vytauto apsikarūnavimui.'
+  teiginys: 'Vieni ieško to priežasčių jo nepasiseku­ siame apsikarūnavime, kuriam abu su Jogaila 1398 m. rūpinosi gauti sutikimą Romoj.'
   pagrindžia:
     - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vytauto nepasisekęs apsikarūnavimas siejamas su 1398 m. jo ir Jogailos pastangomis gauti sutikimą Romoje.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Bet vis tik kyla klausimas, kam Vytautui buvo rei­
-    kalinga užvaldyti visa Rusija ir Totoriai? Už tai daug kas jį ir
-    kaltina, kad, verždamasis vis toliau į rytus, mažai tesirūpinęs
-    lietuviškais kraštais. Vieni ieško to priežasčių jo nepasiseku­
+    Vieni ieško to priežasčių jo nepasiseku­
     siame apsikarūnavime, kuriam abu su Jogaila 1398 m. rūpinosi
     gauti sutikimą Romoj.
   citata_rodoma: ""
@@ -63,22 +58,20 @@ tags: []
   pagrindžia:
     - t-003
 - c-002
-  santrauka: 'Vytautas ir Jogaila 1398 m. rūpinosi gauti Romos sutikimą Vytauto apsikarūnavimui.'
+  santrauka: 'Vieni ieško to priežasčių jo nepasiseku­ siame apsikarūnavime, kuriam abu su Jogaila 1398 m. rūpinosi gauti sutikimą Romoj.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Už tai daug kas jį ir
-    kaltina, kad, verždamasis vis toliau į rytus, mažai tesirūpinęs
-    lietuviškais kraštais. Vieni ieško to priežasčių jo nepasiseku­
+    Vieni ieško to priežasčių jo nepasiseku­
     siame apsikarūnavime, kuriam abu su Jogaila 1398 m. rūpinosi
     gauti sutikimą Romoj. Kita priežastis, tai jo noras sukurti to­
     kią galybę, kuria atsirėmęs, niekeno nevaržomas, galėtų laisvai
     valdyti Lietuvą ir, progai pasitaikius, galutinai suvesti sąskai­
     tas tiek su Ordinu, tiek ir su lenkais.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
 

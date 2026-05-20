@@ -37,34 +37,39 @@ Karijotas čia minimas kaip Gedimino sūnus, gavęs Naugarduką; jo vardu siejam
 
 ## Teiginiai
 - t-005
-  teiginys: 'Karijoto trijų sūnų Karijotaičių vadovaujami kariai sudarė dalį Lietuvos kariuomenės.'
+  teiginys: 'Karijotas buvo Gedimino sūnus, kuriam Gediminas paskyrė Naugarduką.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-006
-  teiginys: 'Karijoto sūnūs, leidus Algirdui, patraukė į Podolės žemę ir ėmė ją ginti nuo duoklės baskakams.'
+  teiginys: 'Karijotai, Gedimino sūnaus sūnūs, įsigalėjo Podolijoje.'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-007
+  teiginys: 'Karijoto sūnus Feodoras sukilo prieš Vytautą, bet buvo sumuštas ir paimtas į nelaisvę.'
+  pagrindžia:
+    - c-003
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-008
+  teiginys: 'Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai, Podolėje įsikūrę dėdės Karijoto Gediminaičio sūnūs, ypač Borisas ir Konstantinas.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Karijoto trijų sūnų Karijotaičių vadovaujami kariai sudarė dalį Lietuvos kariuomenės.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  santrauka: 'Karijotas buvo Gedimino sūnus, kuriam Gediminas paskyrė Naugarduką.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Lietuvos kariuomenė buvo sudaryta
-    iš Lietuvos valdovo Algirdo ir jo brolio
-    Karijoto trijų sūnų - Karijotaičių vado-
-    vaujamų karių. Jie susirėmė su Juodosios
-    jūros pajūrio ir Krymo totorių teritori-
-    jos trijų vadų-kunigaikščių Chadžibėjaus,
-    Kutlugbugo, Dmitrijaus kariuomene.
-
-    Didžiausia tikimybė, kad Mėlynieji Van-
-    denys, tai Siniuchos upė Pietų Ukrainoje,
-    kairysis Pietinio Bugo intakas.
+    Dar gyvas Gediminas visą didžiulę savo valstybę buvo
+    padalinęs savo sūnums. Algirdas buvo gavęs Krėvę (be to,
+    kaip minėta, jis valdė savo žmonos tėviškę Vitebską), Monvy­
+    das — Kernavą ir Slonimą, Narimantas — Pinską, Kęstutis
+    — Trakus, Karijotas — Naugarduką, o didžiausiąją Vilniaus
+    sritį valdė jis pats.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -73,31 +78,11 @@ Karijotas čia minimas kaip Gedimino sūnus, gavęs Naugarduką; jo vardu siejam
   pagrindžia:
     - t-005
 - c-002
-  santrauka: 'Karijoto sūnūs, leidus Algirdui, patraukė į Podolės žemę ir ėmė ją ginti nuo duoklės baskakams.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  santrauka: 'Karijotai, Gedimino sūnaus sūnūs, įsigalėjo Podolijoje.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Mūšio padariniai
-
-    „Pasakojime apie Podolę“ tei-
-    giama, kad Lietuvos valdovo
-    Algirdo brolio Karijoto, val-
-    dančio Lietuvos Naugarduką,
-    sūnūs - trys broliai Karijotaičiai,
-    leidus Algirdui, su Lietuvos
-    žemės pagalba, pa-
-    traukė į Podolės žemę
-    (Mažoji Podolė tarp Aukštutinių
-    Pietinio Bugo ir Dniestro, taigi
-
-    į vakarus nuo minėtos mūšio
-    vietos), kurioje nebuvo nė vie-
-    nos pilies. Jie susidraugavę su
-    vietiniais atamanais, ėmė ginti
-    Podolės žemę, neduoti duok-
-
-    lės jų baskakams. Karijotaičiai
-    Podolėje pastatė Smotričo,
-    Bakotos, Kameneco pilis, už-
+    Nuo to laiko Podolijoj įsigalėjo Algirdo gimi­
+    naičiai Karijotai, Gedimino sūnaus sūnūs.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -105,6 +90,37 @@ Karijotas čia minimas kaip Gedimino sūnus, gavęs Naugarduką; jo vardu siejam
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
+- c-003
+  santrauka: 'Karijoto sūnus Feodoras sukilo prieš Vytautą, bet buvo sumuštas ir paimtas į nelaisvę.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Karijoto sūnus Feodoras, nepatenkintas naująja Lietuvos
+    santvarka, ėmė ir sukilo prieš Vytautą, kuris jį sumušė ir paėmė
+    nelaisvėn, o jo žemes pasiėmė sau.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-007
+- c-004
+  santrauka: 'Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai, Podolėje įsikūrę dėdės Karijoto Gediminaičio sūnūs, ypač Borisas ir Konstantinas.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai,
+    Podolėje įsikūrę dėdės Karijoto Gediminaičio sūnūs, ypač Borisas
+    ir Konstantinas. Būdami jau lotyniškai krikštyti, iš Podolės jie
+    palaikė ryšius su Krokuva ir ją lankė. Labiausiai Konstantinas,
+    kuriam rūpėjo Padolę apsaugoti nuo totorių, buvo Lietuvos ir
+    Lenkijos sąjungos šalininkas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
 
 ## Ryšiai
 ### Laikotarpiai

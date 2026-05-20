@@ -29,7 +29,7 @@ Karalius tuo tarpu kreipėsi pagalbos į Prūsiją, su kuria seimo (1790 m.) buv
 - t-002
   teiginys: 'Prūsija rėmė seimą siekdama spausti Rusiją, kuri nesutiko leisti jai užimti Dancigo ir Torno.'
   pagrindžia:
-    - c-001
+    - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
@@ -40,9 +40,21 @@ Karalius tuo tarpu kreipėsi pagalbos į Prūsiją, su kuria seimo (1790 m.) buv
   santrauka: '1790 m. seimas sudarė karinę sutartį su Prūsija, tačiau Prūsija atsisakė padėti karaliui.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    deratai. Karalius tuo tarpu kreipėsi pagalbos į Prūsiją, su
+    Karalius tuo tarpu kreipėsi pagalbos į Prūsiją, su
     kuria seimo (1790 m.) buvo padaryta karinė sutartis, tačiau ši
-    atsisakė padėti. Mat, anksčiau Prūsija seimą rėmė tik dėl to,
+    atsisakė padėti.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Prūsija rėmė seimą siekdama spausti Rusiją, kuri nesutiko leisti jai užimti Dancigo ir Torno.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Mat, anksčiau Prūsija seimą rėmė tik dėl to,
     kad norėjo įgelti Rusijai, kuri nesutiko leisti jai užimti Dancigo
     ir Torno.
   citata_rodoma: ""
@@ -51,5 +63,4 @@ Karalius tuo tarpu kreipėsi pagalbos į Prūsiją, su kuria seimo (1790 m.) buv
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
     - t-002

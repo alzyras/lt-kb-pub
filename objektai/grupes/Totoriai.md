@@ -59,62 +59,164 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 
 ## Teiginiai
 - t-009
-  teiginys: 'Lietuva tuo metu turėjo keturis pagrindinius priešus: Prūsijos-Livonijos vokiečių ordiną, Maskvą, totorius ir Lenkiją.'
+  teiginys: 'Vytautas, užimdamas naujus rusų kraštus, priartėjo prie totorių sienų, ir tai vedė prie karo.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-010
-  teiginys: 'Buvo pasiūlyta kryžiuočius iškelti į rytų stepes ginti Europos šalių nuo totorių.'
+  teiginys: 'Vytautui atsisakius išduoti Tochtamyšą Kipčako chanui Timur-Kotlogui, karas su totoriais tapo neišvengiamas.'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-011
-  teiginys: 'Totoriams strateginį privalumą teikė Krymo pusiasalio nuošalumas nuo Lenkijos, Lietuvos ir Maskvos valstybės.'
+  teiginys: 'Edygos vadovaujami totoriai 1414–1416 m. dažnai puldinėjo Kijevo ir Podolės kraštus, apgriaudami Kijevą ir Lucką.'
   pagrindžia:
     - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-012
-  teiginys: 'Totorių raiteliai vesdavosi po tris atsarginius žirgus, todėl galėdavo labai sparčiai judėti.'
+  teiginys: 'Totoriai kartu su Livonijos ordinu trukdė taikų Vytauto darbą.'
   pagrindžia:
     - c-004
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-013
-  teiginys: 'Po apiplėšimo totoriai stengdavosi kuo sparčiau pasitraukti, todėl bajorų kariuomenės mobilizacija neretai vėluodavo.'
+  teiginys: 'Vytauto laikais Rytų Europos pietuose totoriai turėjo didelę galybę ir buvo užkariavę daug rusų gyvenamų žemių.'
   pagrindžia:
     - c-005
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-014
-  teiginys: '1506 m. vasarą totoriai įsiveržė į LDK valdas.'
+  teiginys: 'Lietuva tuo metu turėjo keturis pagrindinius priešus: Prūsijos-Livonijos vokiečių ordiną, Maskvą, totorius ir Lenkiją.'
   pagrindžia:
     - c-006
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 - t-015
-  teiginys: 'Totoriai stovyklavietę pasirinko prie Klecko, nes miestas nekėlė pavojaus ir tiko išpuoliams keliomis kryptimis.'
+  teiginys: 'Taip pat buvo pasiūlyta iškelti kryžiuočius į rytų stepes ginti Europos šalių nuo totorių.'
   pagrindžia:
     - c-007
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 - t-016
-  teiginys: 'Pagrindinėje stovyklavietėje buvę totoriai jau tą pačią dieną - rugpjūčio ketvirtąją - sužinojo apie link jų judančią Lietuvos kariuomenę.'
+  teiginys: 'Totorių kariuomenė Strateginį privalumą totoriams laidavo jų pagrindinės buveinės - Krymo pusiasalio nuošalumas nuo stiprių galios centrų, tokių kaip Lenkija, Lietuva ar Maskvos valstybė.'
   pagrindžia:
     - c-008
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 - t-017
-  teiginys: 'Artėdama Klecko link nuo Pinsko pusės LDK kariuomenė išėjo ant aukštumos, nuo kurios buvo matyti Kleckas ir jo kaimynystėje tarp Lanios ir Cepros upių išsirikiavusi totorių kariuomenė.'
+  teiginys: 'Kiekvienas raitelis su savimi vesdavosi po tris atsarginius žirgus, kuriuos keičiant totorių raiteliai galėdavo judėti taip sparčiai, jog anaiptol ne visada žinia apie totorių reidą galėdavo užbėgti jiems už akių.'
   pagrindžia:
     - c-009
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+- t-018
+  teiginys: 'Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinės kariuomenės mobilizacija galėdavo užtrukti tol, kol jos jau nebereikėdavo, nes po apiplėšimo totoriai stengdavosi pasitraukti kuo sparčiau.'
+  pagrindžia:
+    - c-010
+- t-019
+  teiginys: 'Totorių įsiveržimas 1506 m. vasarą totoriai įsiveržė į LDK valdas gerai nusiteikę.'
+  pagrindžia:
+    - c-011
+- t-020
+  teiginys: 'Ekspedicines pajėgas sudarė maždaug 4000 totorių, turėję apie 10000 žirgų.'
+  pagrindžia:
+    - c-012
+- t-021
+  teiginys: 'Vietą savo stovyklavietei jie pasirinko prie Klecko miesto, kuris dar 1503 m. buvo jų sunaikintas ir nekėlė pavojaus, o stovėdamas ant kelių, vedančių į Pinską, Vilnių, Nesvyžių ir Slucką, buvo itin geras punktas išpuoliams, kuriuos totoriai vykdė pasiskirstę.'
+  pagrindžia:
+    - c-013
+- t-022
+  teiginys: 'Pagrindinėje stovyklavietėje buvę totoriai jau tą pačią dieną - rugpjūčio ketvirtąją - sužinojo apie link jų judančią Lietuvos kariuomenę.'
+  pagrindžia:
+    - c-014
+- t-023
+  teiginys: 'Artėdama Klecko link nuo Pinsko pusės LDK kariuomenė išėjo ant aukštumos, nuo kurios buvo matyti Kleckas ir jo kaimynystėje tarp Lanios ir Cepros upių išsirikiavusi totorių kariuomenė.'
+  pagrindžia:
+    - c-015
 
 ## Reikšmingi paminėjimai
 - c-001
+  santrauka: 'Vytautas, užimdamas naujus rusų kraštus, priartėjo prie totorių sienų, ir tai vedė prie karo.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Taip Algirdas, pasinaudojęs chanų
+    vaidais, atėmė iš jų Kijevą ir Podoliją. Vytautas irgi, užimda­
+    mas vis naujus rusų kraštus, dar labiau prisiartino prie totorių
+    sienų, kas jiems negalėjo patikti, ir vedė prie karo. Dabar ir
+    reikėjo išspręsti jau senokai pribrendusi klausimą, kas valdys
+    Rusijos žemes: Vytautas ar totoriai.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-009
+- c-002
+  santrauka: 'Vytautui atsisakius išduoti Tochtamyšą Kipčako chanui Timur-Kotlogui, karas su totoriais tapo neišvengiamas.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Kai Timur-Kotlogas, Kipčako chanas, pareikalavo išduoti
+    jam pabėgėlį Tochtamyšą, tai Vytautas atsisakė. Po to, karas su
+    totoriais pasidarė jau nebeišvengiamas. Jadvyga savo „wiesz­
+    czym duchem“ (pranašingu nujautimu), kaip sako Prochaska,
+    pranašavo ambicingam Vytautui didelių užsimojimų galą^2 ).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-010
+- c-003
+  santrauka: 'Edygos vadovaujami totoriai 1414–1416 m. dažnai puldinėjo Kijevo ir Podolės kraštus, apgriaudami Kijevą ir Lucką.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Unijos darbui nemažai sutrukdė ir totoriai, kurie, vadovau­
+    jant Vorsklos nugalėtojui Edygai, 1414—1416 m. laikotarpyje
+    dažnai puldinėjo Kijevo ir Podolės kraštus, smarkiai apgriauda­
+    mi patį Kijevą ir Lucką. Cemblakas iš savo sostinės turėjo per­
+    sikelti į Vilnių, o Vytautas, užimtas tada karu su Vok. Ordinu
+    (1414) ir krikšto reikalais Žemaitijoje (1416), negalėjo tinkamai
+    totorių sudrausti.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-011
+- c-004
+  santrauka: 'Totoriai kartu su Livonijos ordinu trukdė taikų Vytauto darbą.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Visi šie rūpesčiai reikalavo
+    taikos, o jos nebuvo matyti. Be Vok. Ordino trukdė dar
+    taikų Vytauto darbą totoriai, Livonijos Ordinas ir k. Totoriai,
+    vedami seno Vorsklos nugalėtojo Edygos, 1414—1416 m. smar­
+    kiai apgriovė Kijevą, Lucką ir nuniokojo jų apylinkes.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-012
+- c-005
+  santrauka: 'Vytauto laikais Rytų Europos pietuose totoriai turėjo didelę galybę ir buvo užkariavę daug rusų gyvenamų žemių.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Rytų Europos pietuose Vytauto laikais turėjo didelę galybę
+    totoriai, kurie kadaise buvo užkariavę veik visus didžiulius ru­
+    sų gyvenamus plotus ir pasidarę jų suverenais. Daugelis rusų
+    kunigaikščių tebemokėjo jiems duoklę dar ir Vytauto laikais.
+    Bet kadaise Europą drebėti vertusi jų galybė jau buvo žuvusi,
+    puolama Algirdo ir Maskvos kunigaikščio Dimitro. Vytauto
+    laikais totorių valstybė kaip tik pergyveno krizį. Orda buvo
+    suskilusi, atskiri „saarai“ vedė nuolatinius karus.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-013
+- c-006
   santrauka: 'Lietuva tuo metu turėjo keturis pagrindinius priešus: Prūsijos-Livonijos vokiečių ordiną, Maskvą, totorius ir Lenkiją.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -130,21 +232,18 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     tolių, įnešė savo indėlį atremiant galingą
     Ordino spaudimą plataus Lietuvos gyny-
     binio karo sąlygomis.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-009
-- c-002
-  santrauka: 'Buvo pasiūlyta kryžiuočius iškelti į rytų stepes ginti Europos šalių nuo totorių.'
+    - t-014
+- c-007
+  santrauka: 'Taip pat buvo pasiūlyta iškelti kryžiuočius į rytų stepes ginti Europos šalių nuo totorių.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Taigi, Lietuva siekė atgauti
-    Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą,
-    Latgalą, visą Baltijos pajūrį tarp Priegliaus
-    ir Dauguvos. Taip pat buvo pasiūlyta iškelti
+    Taip pat buvo pasiūlyta iškelti
     kryžiuočius į rytų stepes ginti Europos
     šalių nuo totorių. Šiuose Algirdo reikala-
     vimuose atsispindi suvokimas, kad žemės,
@@ -155,15 +254,15 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     teisėtas siekis atremti Lietuvos valstybę į
     Baltijos pakrantę, suvokimas, kad jūra yra
     natūrali Lietuvos siena šiaurvakariuose.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-010
-- c-003
-  santrauka: 'Totoriams strateginį privalumą teikė Krymo pusiasalio nuošalumas nuo Lenkijos, Lietuvos ir Maskvos valstybės.'
+    - t-015
+- c-008
+  santrauka: 'Totorių kariuomenė Strateginį privalumą totoriams laidavo jų pagrindinės buveinės - Krymo pusiasalio nuošalumas nuo stiprių galios centrų, tokių kaip Lenkija, Lietuva ar Maskvos valstybė.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Totorių kariuomenė
@@ -179,15 +278,15 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     kiamą lizdą, iš kurio, savo ruožtu, galėdavo
     nesunkiai leistis į tolimus žygius. Taktinį
     pranašumą sąlygojo jų lengvoji kavalerija.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-011
-- c-004
-  santrauka: 'Totorių raiteliai vesdavosi po tris atsarginius žirgus, todėl galėdavo labai sparčiai judėti.'
+    - t-016
+- c-009
+  santrauka: 'Kiekvienas raitelis su savimi vesdavosi po tris atsarginius žirgus, kuriuos keičiant totorių raiteliai galėdavo judėti taip sparčiai, jog anaiptol ne visada žinia apie totorių reidą galėdavo užbėgti jiems už akių.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kiekvienas raitelis su savimi vesdavosi po
@@ -198,15 +297,15 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     Totoriams tai leisdavo pasiekti netikėtumo
     efektą. Laiku neįspėtas kraštas tapdavo
     lengvu grobikų „eksploatacijos“ objektu.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-012
-- c-005
-  santrauka: 'Po apiplėšimo totoriai stengdavosi kuo sparčiau pasitraukti, todėl bajorų kariuomenės mobilizacija neretai vėluodavo.'
+    - t-017
+- c-010
+  santrauka: 'Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinės kariuomenės mobilizacija galėdavo užtrukti tol, kol jos jau nebereikėdavo, nes po apiplėšimo totoriai stengdavosi pasitraukti kuo sparčiau.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Iš kitos pusės, nesant masinės reguliarios
@@ -219,16 +318,16 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     silpnosios vietos leido totoriams dažnai
 
     nebaudžiamiems plėšti LDK žemes xv a.
-    pabaigoje - xvi a. pradžioje. Tiesa, dar
-  citata_rodoma: ""
+    pabaigoje - xvi a. pradžioje.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-013
-- c-006
-  santrauka: '1506 m. vasarą totoriai įsiveržė į LDK valdas.'
+    - t-018
+- c-011
+  santrauka: 'Totorių įsiveržimas 1506 m. vasarą totoriai įsiveržė į LDK valdas gerai nusiteikę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Totorių įsiveržimas
@@ -243,15 +342,33 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     sėkmė nuo jų šį kartą nusisuks. Pats žygis
 
     į LDK gilumą prasidėjo gegužės pabaigoje.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-014
-- c-007
-  santrauka: 'Totoriai stovyklavietę pasirinko prie Klecko, nes miestas nekėlė pavojaus ir tiko išpuoliams keliomis kryptimis.'
+    - t-019
+- c-012
+  santrauka: 'Ekspedicines pajėgas sudarė maždaug 4000 totorių, turėję apie 10000 žirgų.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Jam vadovavo jaunesnieji Mengli-Girėjaus
+    sūnūs Fatihas ir Burnašas. Ekspedicines
+    pajėgas sudarė maždaug 4000 totorių, tu-
+    rėję apie 10000 žirgų. Jodami stepėmis tarp
+    Lietuvos ir Maskvos valdų jie kasdien su-
+    kardavo maždaug po 25 km ir per 50 dienų
+    įveikė apie 900 km atstumą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020
+- c-013
+  santrauka: 'Vietą savo stovyklavietei jie pasirinko prie Klecko miesto, kuris dar 1503 m. buvo jų sunaikintas ir nekėlė pavojaus, o stovėdamas ant kelių, vedančių į Pinską, Vilnių, Nesvyžių ir Slucką, buvo itin geras punktas išpuoliams, kuriuos totoriai vykdė pasiskirstę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Ties Lojevu jie
@@ -266,19 +383,17 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     Nesvyžių ir Slucką, buvo itin geras punktas
     išpuoliams, kuriuos totoriai vykdė pasi-
     skirstę mažesniais būriais.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-015
-- c-008
+    - t-021
+- c-014
   santrauka: 'Pagrindinėje stovyklavietėje buvę totoriai jau tą pačią dieną - rugpjūčio ketvirtąją - sužinojo apie link jų judančią Lietuvos kariuomenę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Dalis jų išvengė
-    žūties ir aplinkiniais keliais pasiekė Klecką.
     Pagrindinėje stovyklavietėje buvę totoriai
     jau tą pačią dieną - rugpjūčio ketvirtąją -
     sužinojo apie link jų judančią Lietuvos ka-
@@ -289,14 +404,14 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     priešų vietoje, nes jie nebuvo nusiteikę bėgti
     pametę grobį, kuriam „surinkti“ prireikė ke-
     leto mėnesių darbo.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-016
-- c-009
+    - t-022
+- c-015
   santrauka: 'Artėdama Klecko link nuo Pinsko pusės LDK kariuomenė išėjo ant aukštumos, nuo kurios buvo matyti Kleckas ir jo kaimynystėje tarp Lanios ir Cepros upių išsirikiavusi totorių kariuomenė.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -314,13 +429,13 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     pozicijoje būtų buvę labai sudėtinga, antra
     vertus, vietos kompaktiškumas ir jiems pa-
     tiems neleido laisvai manevruoti.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-017
+    - t-023
 
 ## Ryšiai
 ### Laikotarpiai

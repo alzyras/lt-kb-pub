@@ -43,9 +43,15 @@ Nenurodyta
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Melno taika Lietuvai paliko pajūrį nuo Palangos iki Kuršo Šventosios ir ties Palanga perkirto Ordino žemių nedalomumą.'
+  teiginys: 'Melno taika nustatyta siena išsilaikė penkis šimtmečius; Lietuvai atiteko dalis Žemaičių ir Sūduvos dykros, o Lenkijai - Niešavos kraštas.'
   pagrindžia:
     - c-002
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-003
+  teiginys: 'Melno taika Lietuvai paliko pajūrį nuo Palangos iki Kuršo Šventosios ir ties Palanga perkirto Ordino žemių nedalomumą.'
+  pagrindžia:
+    - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 
@@ -65,6 +71,21 @@ Nenurodyta
   pagrindžia:
     - t-001
 - c-002
+  santrauka: 'Melno taika nustatyta siena išsilaikė penkis šimtmečius; Lietuvai atiteko dalis Žemaičių ir Sūduvos dykros, o Lenkijai - Niešavos kraštas.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Po tiek ilgų ginčų ir ginkluotų konfliktų pagaliau buvo sutarta
+    siena, kuri nuostabiu būdu, nežiūrint įvairių mėginimų ją pakeisti,
+    patvariai išsilaikė penkis šimtmečius. Lietuvai atiteko žymi dalis
+    Žemaičių ir Sūduvos dykros, o Lenkija gavo Niešavos kraštą.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
+- c-003
   santrauka: 'Melno taika Lietuvai paliko pajūrį nuo Palangos iki Kuršo Šventosios ir ties Palanga perkirto Ordino žemių nedalomumą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -79,7 +100,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-003
 
 ## Ryšiai
 ### Laikotarpiai

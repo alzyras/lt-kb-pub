@@ -9,18 +9,16 @@ saltiniai:
 datos:
   - '1387 m.'
   - '1529 m.'
-  - '1654 m.'
-  - '1655 m.'
   - '1936 m.'
   - '1960 m.'
   - '2026 m.'
-periodas: 'LDK laikotarpis'
+periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
   - 'LDK'
+  - 'modernioji Lietuva'
 amziai:
   - 'XIV'
   - 'XVI'
-  - 'XVII'
   - 'XX'
   - 'XXI'
 date_start: '1387'
@@ -38,59 +36,40 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Šios pajėgos užėmė Borisovą, Minską, Zaslavlį, Krėvą, Lydą, Vilnių, Trakus ir priartėjo prie Kauno.'
+  teiginys: 'Iš Minsko, kaip ir iš Smolensko, Vitebsko bei Černigovo, susidarė atskira kunigaikštija.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Kunigaikščių Baziliaus Serebriano ir Petro Šuiskio pajėgos turėjo susijungti ir pulti Minsko, Naugarduko, o vėliau Vilniaus kryptimi.'
+  teiginys: 'Užpultas Minskas, kaip ir Sluckas, nepasidavė maišto vadui.'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: 'Nors Lietuvos kariuomenė 1654-1655 m. kiek galėdama stabdė rusų veržimąsi, 1655 m. pavasarį Rusijos kariuomenė užėmė Minską, o liepą lietuvius prie Ašmenos sumušę, rusai ir jų sąjungininkai kazokai priartėjo prie Vilniaus.'
+  teiginys: 'Užpultas Minskas, kaip ir Sluckas, nepasidavė maišto vadui.'
   pagrindžia:
     - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: 'Buvo tikrai laimingas atvejis, kai Baltarusijos TSR Mokslų Akademija (Minskas) Jablonskiui pavedė suredaguoti ir išleisti 1-jį Lietuvos Statutą («Statut Velikogo Knjažestva Litovskogo 1529 goda»).'
+  pagrindžia:
+    - c-004
+- t-005
+  teiginys: 'Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zaslavlis.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Šios pajėgos užėmė Borisovą, Minską, Zaslavlį, Krėvą, Lydą, Vilnių, Trakus ir priartėjo prie Kauno.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  santrauka: 'Iš Minsko, kaip ir iš Smolensko, Vitebsko bei Černigovo, susidarė atskira kunigaikštija.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    kunigaikštystės, totorių kariuomenė
-    įsiveržė į Lietuvą. Šios pajėgos užėmė
-    Borisovą, Minską, Zaslavlį, Krėvą, Lydą,
-    Vilnių, Trakus ir priartėjo prie Kauno.
-    Žygimantas su savo mažesne Lietuvos ka-
-    riuomene nestojo į mūšį, bet vesdamas
-    savo pajėgas ne keliais ir neprieinamomis
-    vietomis, puldinėjo Švitrigailos tiekimo da-
-    linius, padarydamas jiems daug nuostolių,
-
-    67
-
-    pi
-    6£
-    kr L
-    610
-    2 a
-    T
-    = 5
-    o 2
-    22
-    co
-    “+
-    p
-    23
-    iv
-
-    ## Puslapis 70
-
-    priversdamas priešą badauti.
+    Iš jos miestų, kaip antai:
+    Smolensko, Vitebsko, Minsko, Černigovo, susidarė atskiros ku-
+    nigaikštijos.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -99,25 +78,12 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Kunigaikščių Baziliaus Serebriano ir Petro Šuiskio pajėgos turėjo susijungti ir pulti Minsko, Naugarduko, o vėliau Vilniaus kryptimi.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  santrauka: 'Užpultas Minskas, kaip ir Sluckas, nepasidavė maišto vadui.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Viena jų, vadovaujama
-    kunigaikščio Baziliaus Serebriano, pajudėjo
-    iš Smolensko, kita, vadovaujama patyru-
-    sio karvedžio kunigaikščio Petro Šuiskio,
-
-    iš Polocko traukė į Drucką. Čia jos turėjo
-    susijungti ir pulti Minsko, Naugarduko, o
-    vėliau Vilniaus kryptimi. Buvo planuojama
-    stambaus masto ilgalaikė kampanija,
-
-    gal net visai Lietuvos Didžiajai
-    Kunigaikštystei užimti, nes
-
-    dar prieš tai į Didžiųjų Lukų tvirtovę buvo
-    nurodyta suvežti atsargas, kurių kariuome-
-    nei turėjo pakakti net pusei metų.
+    Tačiau jis kiek apsivylė: Maskvos pasienio
+    sritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mo-
+    zyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -126,16 +92,12 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Nors Lietuvos kariuomenė 1654-1655 m. kiek galėdama stabdė rusų veržimąsi, 1655 m. pavasarį Rusijos kariuomenė užėmė Minską, o liepą lietuvius prie Ašmenos sumušę, rusai ir jų sąjungininkai kazokai priartėjo prie Vilniaus.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  santrauka: 'Užpultas Minskas, kaip ir Sluckas, nepasidavė maišto vadui.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Kazokų vadai supratę, kad patys ukrainiečiai neįstengs išsivaduoti
-    iš Lenkijos valdžios, 1654 m. sudarė sąjungą su Maskva. Tais pa-
-    čiais metais Rusija pasiuntė savo gausią kariuomenę į Lietuvą. Nors
-    Lietuvos kariuomenė 1654-1655 m. kiek galėdama stabdė rusų ver-
-    žimąsi, 1655 m. pavasarį Rusijos kariuomenė užėmė Minską, o liepą
-    lietuvius prie Ašmenos sumušę, rusai ir jų sąjungininkai kazokai
-    priartėjo prie Vilniaus.
+    Maskvos pasienio
+    sritys prie jo maišto neprisidėjo; jam tepasisekė užimti tik Mo-
+    zyrių ir Turovą, o užpultieji Sluckas ir Minskas jam nepasidavė.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -143,13 +105,51 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Buvo tikrai laimingas atvejis, kai Baltarusijos TSR Mokslų Akademija (Minskas) Jablonskiui pavedė suredaguoti ir išleisti 1-jį Lietuvos Statutą («Statut Velikogo Knjažestva Litovskogo 1529 goda»).'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Buvo tikrai laimingas atvejis, kai Baltarusijos TSR Mokslų
+    Akademija (Minskas) Jablonskiui pavedė suredaguoti ir išleisti 1-jį
+    Lietuvos Statutą («Statut Velikogo Knjažestva Litovskogo 1529
+    goda»). Tą darbą atliko objektyviai ir kritiškai su reikalingu
+    moksliniu aparatu (1960).
+    Nežiūrint priverčiamųjų okupanto direktyvų, kurių ir Ja­
+    blonskis, žinoma, ypač kolektyviniuose leidiniuose, negalėjo išveng­
+    ti, jis sugebėjo ir tarybiniais metais duoti gerų darbų Lietuvos
+    kultūros istorijos, jos teisės istorijos bei socialinių santykių vysty­
+    mosi srityje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: 'Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zaslavlis.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Etnografinė lietuvių siena rytuose šiauriau Nemuno yra dar
+    sunkiau nustatoma, nes šis pakraštys nėra tiksliai ištyrinėtas.
+    Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas,
+    Minskas, Zaslavlis. 1387 metų Jogailos rašte Skirgailai minimi prie
+    Molodečnos Lebedžiai (Lebedev) «na russkoj storone », rodo, jog
+    ten baigėsi lietuvių plotai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
 - [[laikotarpiai/XVI amžius]]
-- [[laikotarpiai/XVII amžius]]
 - [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/vietos/Druckas]]

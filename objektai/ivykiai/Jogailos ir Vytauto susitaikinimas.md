@@ -33,14 +33,39 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Susitaręs su Jogaila, Vytautas sudegino Jurbarką, Naująjį Marijenburgą ir Naująjį Bajerburgą.'
+  teiginys: 'Pirmojo Vytauto žygio metu jo pusėje buvo kryžiuočių kariuomenė ir keli tūkstančiai žemaičių.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: 'Susitaręs su Jogaila, Vytautas sudegino Jurbarką, Naująjį Marijenburgą ir Naująjį Bajerburgą.'
+  pagrindžia:
+    - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
+  santrauka: 'Pirmojo Vytauto žygio metu jo pusėje buvo kryžiuočių kariuomenė ir keli tūkstančiai žemaičių.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Pirmojo Vy-
+    tauto žygio metu jo pusėje jau buvo ne vien kryžiuočių kariuo-
+    menė, bet ir keletas tūkstančių žemaičių. Pas Vytautą, apsigy-
+    venusį Naujajam Marijenburge, plaukė jo šalininkai iš visos Lie-
+    tuvos, ir Jogaila kaskart nedrąsiau jautėsi. Todėl jis pasiūlė Vy-
+    tautui taikintis. Vytautas sutiko taikintis ir pripažinti Jogailą di-
+    džiuoju kunigaikščiu, jei jam bus grąžinta tėviškė, t. y. Trakai ir
+    visos Kęstučio valdytosios žemės.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
   santrauka: 'Susitaręs su Jogaila, Vytautas sudegino Jurbarką, Naująjį Marijenburgą ir Naująjį Bajerburgą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -58,4 +83,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

@@ -41,7 +41,6 @@ periodo_grupes:
   - 'LDK'
 amziai:
   - 'XIV'
-  - 'XV'
   - 'XX'
   - 'XXI'
 date_start: '1362'
@@ -71,33 +70,43 @@ Nenurodyta
 
 ## Teiginiai
 - t-009
-  teiginys: 'Rogožos metraštyje prie 1363 m. rašoma, kad Algirdas rudenį nukariavo Mėlynuosius Vandenis ir Baltąją pakrantę.'
+  teiginys: 'Algirdas 1363 m. rudenį nukariavo Mėlynuosius Vandenis ir Baltąją pakrantę.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-010
-  teiginys: 'Istorinė tradicija teigia, kad Algirdas, sutelkęs lietuvių pajėgas ir žygiuodamas Padniepre, ties Mėlynaisiais Vandenimis sumušė totorius.'
+  teiginys: 'Algirdas, sutelkęs lietuvių pajėgas, žygiuodamas Padniepre pro Kanevą ir Čerkasus, ties Mėlynaisiais Vandenimis sumušė totorius.'
   pagrindžia:
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-011
-  teiginys: 'Didžiausia tikimybė, kad Mėlynieji Vandenys, tai Siniuchos upė Pietų Ukrainoje, kairysis Pietinio Bugo intakas.'
+  teiginys: 'Lietuvos kariuomenę sudarė Algirdas ir Karijoto sūnų vadovaujami kariai; prieš juos stojo Chadžibėjaus, Kutlugbugos ir Dmitrijaus kariuomenė.'
   pagrindžia:
     - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-012
-  teiginys: 'Algirdo žygis prieš totorius ir pergalė prie Mėlynųjų Vandenų sutvirtino Lietuvos pozicijas Kijevo žemėje ir pačiame Kijeve.'
+  teiginys: 'Tikėtina Mėlynųjų Vandenų mūšio vieta siejama su Siniuchos upe Pietų Ukrainoje ir Targovicos vietove prie jos žiočių.'
   pagrindžia:
     - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-013
+  teiginys: 'Pergalė sutvirtino Lietuvos pozicijas Kijevo žemėje, nusiaubė Podolę ir buvo pirmas toks didelis įsiveržimas į Ordos valdas.'
+  pagrindžia:
+    - c-005
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-014
+  teiginys: 'Sumušdamas totorius 1362 m. prie Būgo prieupio Mėlynųjų Vandenų — « Sine Wody » (arti Juodosios jūros), Algirdas laimėjo ne tik plačią Podoliją, turtingą žemę palei Dniestrą, bet ir patį Dniepro žemupį, kuris tada buvo tuščias^13.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Rogožos metraštyje prie 1363 m. rašoma, kad Algirdas rudenį nukariavo Mėlynuosius Vandenis ir Baltąją pakrantę.'
+  santrauka: 'Algirdas 1363 m. rudenį nukariavo Mėlynuosius Vandenis ir Baltąją pakrantę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mėlynųjų Vandenų įvykių pagrindi-
@@ -121,7 +130,7 @@ Nenurodyta
   pagrindžia:
     - t-009
 - c-002
-  santrauka: 'Istorinė tradicija teigia, kad Algirdas, sutelkęs lietuvių pajėgas ir žygiuodamas Padniepre, ties Mėlynaisiais Vandenimis sumušė totorius.'
+  santrauka: 'Algirdas, sutelkęs lietuvių pajėgas, žygiuodamas Padniepre pro Kanevą ir Čerkasus, ties Mėlynaisiais Vandenimis sumušė totorius.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tas pats aprašyta vė-
@@ -144,7 +153,7 @@ Nenurodyta
   pagrindžia:
     - t-010
 - c-003
-  santrauka: 'Didžiausia tikimybė, kad Mėlynieji Vandenys, tai Siniuchos upė Pietų Ukrainoje, kairysis Pietinio Bugo intakas.'
+  santrauka: 'Lietuvos kariuomenę sudarė Algirdas ir Karijoto sūnų vadovaujami kariai; prieš juos stojo Chadžibėjaus, Kutlugbugos ir Dmitrijaus kariuomenė.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvos kariuomenė buvo sudaryta
@@ -154,10 +163,6 @@ Nenurodyta
     jūros pajūrio ir Krymo totorių teritori-
     jos trijų vadų-kunigaikščių Chadžibėjaus,
     Kutlugbugo, Dmitrijaus kariuomene.
-
-    Didžiausia tikimybė, kad Mėlynieji Van-
-    denys, tai Siniuchos upė Pietų Ukrainoje,
-    kairysis Pietinio Bugo intakas.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -166,7 +171,34 @@ Nenurodyta
   pagrindžia:
     - t-011
 - c-004
-  santrauka: 'Algirdo žygis prieš totorius ir pergalė prie Mėlynųjų Vandenų sutvirtino Lietuvos pozicijas Kijevo žemėje ir pačiame Kijeve.'
+  santrauka: 'Tikėtina Mėlynųjų Vandenų mūšio vieta siejama su Siniuchos upe Pietų Ukrainoje ir Targovicos vietove prie jos žiočių.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Didžiausia tikimybė, kad Mėlynieji Van-
+    denys, tai Siniuchos upė Pietų Ukrainoje,
+    kairysis Pietinio Bugo intakas. Aukščiau
+    šios upės žiočių buvusi pilis ir šiandien yra
+    vietovė Targovica (buvęs Ordos karinis-
+    administracinis centras), pro kurią kelias iš
+    pietų, nuo Juodosios jūros ir Krymo veda
+    Lucko ir Kijevo link. Galbūt čia, šiame
+    regione ir įvykęs mūšis. Apie jį kai kurių
+    detalių, galbūt remdamasis istorine tra-
+    dicija, dar pateikia xvi a. LDK karininkas,
+    diplomatas, Lietuvos istorikas Motiejus
+    Strijkovskis: „Algirdas išrikiavo savo pa-
+    jėgas šešiais lenktais rikiuotės daliniais.
+    Neišlaikę spaudimo totoriai bėgo“ žuvo
+    daug murzy ir ulonų.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-012
+- c-005
+  santrauka: 'Pergalė sutvirtino Lietuvos pozicijas Kijevo žemėje, nusiaubė Podolę ir buvo pirmas toks didelis įsiveržimas į Ordos valdas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Taigi po mūšio buvo nusiaub-
@@ -192,12 +224,27 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-012
+    - t-013
+- c-006
+  santrauka: 'Sumušdamas totorius 1362 m. prie Būgo prieupio Mėlynųjų Vandenų — « Sine Wody » (arti Juodosios jūros), Algirdas laimėjo ne tik plačią Podoliją, turtingą žemę palei Dniestrą, bet ir patį Dniepro žemupį, kuris tada buvo tuščias^13.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Sumušdamas totorius 1362 m. prie Būgo prieupio Mėlynųjų
+    Vandenų — « Sine Wody » (arti Juodosios jūros), Algirdas laimėjo
+    ne tik plačią Podoliją, turtingą žemę palei Dniestrą, bet ir patį
+    Dniepro žemupį, kuris tada buvo tuščias^13. Menkai gyvenamoje
+    Podolėje rado sau gerų žemių gausi Algirdo brolio Karijoto šeima.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XV amžius]]
 - [[laikotarpiai/XX amžius]]
 - [[laikotarpiai/XXI amžius]]
 

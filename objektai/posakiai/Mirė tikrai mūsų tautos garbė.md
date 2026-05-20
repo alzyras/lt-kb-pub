@@ -41,29 +41,22 @@ Trumpa epitafinė formulė Vytauto mirtį įvardija kaip visos tautos garbės ne
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vytauto mirtis apibūdinta žodžiais, kad mirė tikra tautos garbė.'
+  teiginys: 'Vytauto mirtis apibūdinta žodžiais, kad mirė tikrai mūsų tautos garbė.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Vytautas mirė susitaikęs su Dievu, o jo kūnas aštuonias dienas buvo viešai išstatytas atsisveikinimui.'
-  pagrindžia:
     - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Taip tad Vytautas, didysis mūsų valdovas, kaip geras ka­ talikas, susitaikinęs su Dievu, užmerkė akis ir paliko Lietuvą didelėms nelaimėms.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vytauto mirtis apibūdinta žodžiais, kad mirė tikra tautos garbė.'
+  santrauka: 'Vytauto mirtis apibūdinta žodžiais, kad mirė tikrai mūsų tautos garbė.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Ne tiktai
-    tikėjimu, bet ir protu suprantąs tos tiesos tikrumą, jog kiekvie­
-    nas žmogus kelsis iš numirusių ir susilauks atlyginimo pagal
-    savo darbus. Jei jis negerai suprantąs tą tiesą, prašo pamo­
-    kyti, nes esąs pasiruošęs išpildyti visus Katalikų Bažnyčios
-    nuostatus ir savo vyskupo pamokymus^3 ).
     Taip tad Vytautas, didysis mūsų valdovas, kaip geras ka­
     talikas, susitaikinęs su Dievu, užmerkė akis ir paliko Lietuvą
     didelėms nelaimėms.
@@ -75,22 +68,32 @@ Trumpa epitafinė formulė Vytauto mirtį įvardija kaip visos tautos garbės ne
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Vytautas mirė susitaikęs su Dievu, o jo kūnas aštuonias dienas buvo viešai išstatytas atsisveikinimui.'
+  santrauka: 'Vytauto mirtis apibūdinta žodžiais, kad mirė tikrai mūsų tautos garbė.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Jei jis negerai suprantąs tą tiesą, prašo pamo­
-    kyti, nes esąs pasiruošęs išpildyti visus Katalikų Bažnyčios
-    nuostatus ir savo vyskupo pamokymus^3 ).
-    Taip tad Vytautas, didysis mūsų valdovas, kaip geras ka­
-    talikas, susitaikinęs su Dievu, užmerkė akis ir paliko Lietuvą
-    didelėms nelaimėms. Jo kūnas per aštuonias dienas buvo vie­
-    šai išstatytas, kad galėtų žmonės paskutinį kartą atsisveikinti
-    su savo dideliu valdovu.
+    Mirė tikrai mūsų tautos
+    garbė.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-003
+  santrauka: 'Taip tad Vytautas, didysis mūsų valdovas, kaip geras ka­ talikas, susitaikinęs su Dievu, užmerkė akis ir paliko Lietuvą didelėms nelaimėms.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Taip tad Vytautas, didysis mūsų valdovas, kaip geras ka­
+    talikas, susitaikinęs su Dievu, užmerkė akis ir paliko Lietuvą
+    didelėms nelaimėms. Jo kūnas per aštuonias dienas buvo vie­
+    šai išstatytas, kad galėtų žmonės paskutinį kartą atsisveikinti
+    su savo dideliu valdovu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
 

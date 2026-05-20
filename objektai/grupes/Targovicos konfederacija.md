@@ -7,18 +7,18 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
-  - '1773 m.'
   - '1793 m.'
   - '1936 m.'
   - '2026 m.'
-periodas: 'LDK laikotarpis'
+periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
   - 'LDK'
+  - 'modernioji Lietuva'
 amziai:
   - 'XVIII'
   - 'XX'
   - 'XXI'
-date_start: '1773'
+date_start: '1793'
 date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
@@ -34,24 +34,33 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
 
 ## Teiginiai
 - t-001
-  teiginys: 'Targovicos konfederacija padalijo nuo 1773 m. veikusią bendrą Edukacinę Komisiją į atskiras Lietuvos ir Lenkijos komisijas.'
+  teiginys: 'Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfederacija.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Targovicos konfederacija, kuri ėjo prieš visas reformas — už senąją santvarką, sugrąžino ir senąjį Lietuvos Lenkijos valstybių atskirumą.'
+  pagrindžia:
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-003
+  teiginys: 'Poniatovskis paskelbė jungiąsis prie Targovicos konfederacijos, o kariuomenei įsakė sudėti ginklus, nors ji dar tikrai galėjo kovoti.'
+  pagrindžia:
+    - c-003
+- t-004
+  teiginys: 'Perėmus valdžią, Targovicos konfederacijos šalininkams Ketverių metų seimo pradėtos reformos panaikintos, valstybė tapo visiškai priklausoma nuo kaimynų.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Targovicos konfederacija padalijo nuo 1773 m. veikusią bendrą Edukacinę Komisiją į atskiras Lietuvos ir Lenkijos komisijas.'
+  santrauka: 'Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfederacija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Viskas sugrįžo į senąją būklę, o kai kuriais atžvil-
-    giais valstybių atskirumas net dar padidėjo; pav., Targovicos
-    konfederacija net perskyrė nuo 1773 m. buvusią bendrą Edu-
-    kacinę Komisiją: vietoje vienos buvo sudarytos dvi atskiros
-    Lietuvos ir Lenkijos komisijos.
-
-    ##### 5.
+    Ta konfederacija dėl jos akto pa-
+    skelbimo vietos yra vadinama Targovicos konfederacija.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -59,6 +68,57 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Targovicos konfederacija, kuri ėjo prieš visas reformas — už senąją santvarką, sugrąžino ir senąjį Lietuvos Lenkijos valstybių atskirumą.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tačiau
+    Targovicos konfederacija, kuri ėjo prieš visas reformas — už
+    senąją santvarką, sugrąžino ir senąjį Lietuvos Lenkijos valstybių
+    atskirumą.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Poniatovskis paskelbė jungiąsis prie Targovicos konfederacijos, o kariuomenei įsakė sudėti ginklus, nors ji dar tikrai galėjo kovoti.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    “, tačiau
+    galima daryti pamatuotą prielaidą, kad jei
+    laiku butų atvykęs lauktas pastiprinimas
+
+    Jau liepos 24 d. karalius S. A. Poniatovskis
+    paskelbė jungiąsis prie Targovicos konfede-
+    racijos, o kariuomenei įsakė sudėti ginklus,
+    nors ji dar tikrai galėjo kovoti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Perėmus valdžią, Targovicos konfederacijos šalininkams Ketverių metų seimo pradėtos reformos panaikintos, valstybė tapo visiškai priklausoma nuo kaimynų.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Perėmus valdžią, Targovicos konfederacijos
+    šalininkams Ketverių metų seimo pradėtos
+    reformos panaikintos, valstybė tapo visiš-
+    kai priklausoma nuo kaimynų. Siekiant dar
+    labiau susilpninti Abiejų Tautų Respubliką,
+    1793 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Laikotarpiai

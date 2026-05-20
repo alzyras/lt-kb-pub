@@ -21,9 +21,15 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Didžiosios žemės reformos įstatymas buvo išleistas 1922 m. kovo 29 d.'
+  teiginys: '1919 m. birželio 20 d. įstatymas numatė žemės reformai naudoti ne tik valstybės, bet ir privačią žemę.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: 'Didžiosios žemės reformos įstatymas buvo išleistas tik 1922 metais (kovo 29 d.).'
+  pagrindžia:
+    - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
@@ -31,7 +37,32 @@ tags:
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Didžiosios žemės reformos įstatymas buvo išleistas 1922 m. kovo 29 d.'
+  santrauka: '1919 m. birželio 20 d. įstatymas numatė žemės reformai naudoti ne tik valstybės, bet ir privačią žemę.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Jau tada
+    buvo nustatyta (1919 metų birželio mėn. 20 d. įstatymu), kad
+    tam tikslui bus suvartotos ne tik valstybei priklausančios žemės,
+    bet ir privatinės. Priverstinai turėjo būti paimta 15% žemės iš
+    tų savininkų, kurie jos turėjo nuo 500 ligi 800 hektarų, ir 30%
+    iš tų, kurie turėjo žemės daugiau, kaip 800 hektarų. Steigia-
+    majam seimui buvo paliktas išspręsti atlyginimo klausimas ir
+    sąlygos, kuriomis apdovanotieji žeme turėjo tapti jos savininkais.
+    Tada buvo nustatyta, kad vienas kariškis prie daikto turėjo
+    gauti nuo 8 ligi 20 hektarų (dešimtinių), destis kokios rūšies
+    žemė. Kiekvienam tokiam įsikuriančiam ūkiui valstybė davė dar
+    pašalpos — medžių ligi 100 kelmų ir javų ligi 30 pūdų žieminių
+    ir 50 pūdų vasarinių. Gautoji žemė negalėjo būti nei kam nors
+    parduota nei kitaip kaip perleista be vyriausybės sutikimo.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Didžiosios žemės reformos įstatymas buvo išleistas tik 1922 metais (kovo 29 d.).'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Didžiosios žemės reformos įstatymas buvo
@@ -41,11 +72,10 @@ tags:
     ūkiui, — pirmiausia smulkiajam ir vidutiniajam ūkiui. Reforma,
     be to, dar norėjo perimti į valstybės nuosavybę tuos žemės tur-
     tus, kuriuos valstybė gali tikslingiau sunaudoti ir apsaugoti,
-    negu privatiniai asmens.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-002

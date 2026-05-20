@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 57.
+Objektų skaičius: 58.
 
 ## Kaip naudoti
 
@@ -76,6 +76,7 @@ Objektų skaičius: 57.
 - [Točilovo ežeras](../objektai/vietos/To%C4%8Dilovo%20e%C5%BEeras)
 - [Vaišvilčiai](../objektai/vietos/Vai%C5%A1vil%C4%8Diai)
 - [Visla](../objektai/vietos/Visla)
+- [Vištyčio ežeras](../objektai/vietos/Vi%C5%A1ty%C4%8Dio%20e%C5%BEeras)
 - [Volia](../objektai/vietos/Volia)
 - [Vystyčio ežeras](../objektai/vietos/Vysty%C4%8Dio%20e%C5%BEeras)
 - [Širvintos upė](../objektai/vietos/%C5%A0irvintos%20up%C4%97)

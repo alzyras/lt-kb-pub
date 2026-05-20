@@ -31,15 +31,38 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 
 ## Teiginiai
 - t-001
-  teiginys: 'Šventaragio slėnis buvo prie pat pilies kalno, kur Vilniaus lietuviai kūreno šventąją ugnį.'
+  teiginys: 'Šventaragio slėnyje Gediminas susapnavęs sapną, kurį išaiškino vyriausias žynys Lizdeika.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Tai buvo Šventaragio slėny prie pat pilies kalno.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Šventaragio slėnis buvo prie pat pilies kalno, kur Vilniaus lietuviai kūreno šventąją ugnį.'
+  santrauka: 'Šventaragio slėnyje Gediminas susapnavęs sapną, kurį išaiškino vyriausias žynys Lizdeika.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Gražia legenda yra apipintas Vilniuje valstybės sostinės
+    įkūrimas^14. Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­
+    takoje), Gediminas nukovęs taurą, o paskni Šventaragio slėnyje
+    (kur vėliau pastatyta katedra) susapnavęs įdomų sapną, kurį tepa­
+    jėgęs tik vyriausias žynys Lizdeika išaiškinti. Valdovo sapne gir­
+    dėtas staugimas «geležinio vilko », «lyg jame butų staugę šimtas
+    vilkų », reiškęs, jog toje vietoje busiąs pastatytas miestas, kuris
+    pasieksiąs didelio garso.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Tai buvo Šventaragio slėny prie pat pilies kalno.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Katedra, kaipo būsianti vyriausia Lietuvos bažny­
@@ -48,13 +71,13 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     ugnį. Tai buvo Šventaragio slėny prie pat pilies kalno. Yra
     išlikęs padavimas, kad jos didysis altorius įkurtas pačioj šven­
     toj ugniavietėj.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Laikotarpiai

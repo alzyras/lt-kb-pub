@@ -30,13 +30,36 @@ Vartojamos formos: `sargūnas`, `abažūnas`, `anginu`.
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
+- t-006
+  teiginys: '`Sargūnas` rūpinasi kariaunos mitalu ir pavojumi.'
+  pagrindžia:
+    - c-001
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  statusas: patvirtinta
+- t-007
+  teiginys: '`Abažūnas` rūpinasi kariaunos priegule.'
+  pagrindžia:
+    - c-001
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  statusas: patvirtinta
+- t-008
+  teiginys: '`Anginas` saugo pilies angas ir laiko raktus.'
+  pagrindžia:
+    - c-001
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '`Vytūnas` šiame tekste yra karo vadovas, vedantis kariauną, kai nėra atmono.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
-    Karės vyresnieji tie buvo: atmonas, nuo žodžio atmonyti, dešimtininkas, šimtininkas, arba pulkorius, nuo žodžio pulti, ir karūžasis, kuriuos viršiau minavojau; buvo dar vytūnas, kurs visą kariauną vedė į karę nesant atmono, sargūnas, kursai rūpinos kariaunos mitalu ir pavojumu^1308 , abažūnas, kurs priegule^1309 kariaunos rūpinos. Lygia dalia pilies vyras, arba pilies ponas, turėjo sau pripadėtoją vyresnįjį, anginu vadinamą, kurs angas pilies saugojo ir uždarius jų raktus pas save laikė, be jo žinios, karei esant, niekas negalėjo įeiti į pilį nei išeiti.
+    Karės vyresnieji tie buvo: atmonas, nuo žodžio atmonyti, dešimtininkas, šimtininkas, arba
+    pulkorius, nuo žodžio pulti, ir karūžasis, kuriuos viršiau minavojau; buvo dar vytūnas, kurs visą
+    kariauną vedė į karę nesant atmono, sargūnas, kursai rūpinos kariaunos mitalu ir pavojumu^1308 ,
+    abažūnas, kurs priegule^1309 kariaunos rūpinos. Lygia dalia pilies vyras, arba pilies ponas, turėjo sau
+    pripadėtoją vyresnįjį, anginu vadinamą, kurs angas pilies saugojo ir uždarius jų raktus pas save laikė,
+    be jo žinios, karei esant, niekas negalėjo įeiti į pilį nei išeiti.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -44,6 +67,9 @@ Vartojamos formos: `sargūnas`, `abažūnas`, `anginu`.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
+    - t-006
+    - t-007
+    - t-008
 
 ## Pastabos
 

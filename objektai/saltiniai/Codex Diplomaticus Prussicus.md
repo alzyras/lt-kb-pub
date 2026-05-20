@@ -42,19 +42,25 @@ tags: []
 
 ## Teiginiai
 - t-001
-  teiginys: 'Pirmasis Codex Diplomaticus Prussicus tomas išleistas Karaliaučiuje 1836 m.'
+  teiginys: '„Codex Diplomaticus Prussicus“ 3-6 tomus, apimančius 1299-1404 m., J. Voigtas išleido Karaliaučiuje 1848-1861 m.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: '= Codex Diplomaticus Prussicus.'
+  pagrindžia:
+    - c-002
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Pirmasis Codex Diplomaticus Prussicus tomas išleistas Karaliaučiuje 1836 m.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: '„Codex Diplomaticus Prussicus“ 3-6 tomus, apimančius 1299-1404 m., J. Voigtas išleido Karaliaučiuje 1848-1861 m.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    C. D. Prus. = Codex Diplomaticus Prussicus. I B., Koenigsberg,
-    1836.
+    CB = Commentationes Balticae, Jahrbuch des Baltischen For­
+    schungsinstituts, t. 1-13, Bonn 1954-67.
+    CDPr = Codex Diplomaticus Prussicus, išl. J. Voigt, t. 3-6 (1299-
+    1404), Karaliaučius 1848-1861.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -64,3 +70,16 @@ tags: []
     - t-001
 
 ## Reikšmingi paminėjimai
+- c-002
+  santrauka: '= Codex Diplomaticus Prussicus.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    C. D. Prus. = Codex Diplomaticus Prussicus. I B., Koenigsberg,
+    1836.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

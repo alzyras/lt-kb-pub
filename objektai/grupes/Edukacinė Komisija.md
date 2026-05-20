@@ -42,7 +42,7 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: '1776 m. panaikinus turto komisijas, jų turtai buvo pavesti Edukacinei Komisijai.'
+  teiginys: '1776 m. panaikinus komisijas, jų turtai buvo pavesti Edukacinei Komisijai.'
   pagrindžia:
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -60,20 +60,15 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-005
-  teiginys: 'Targovicos konfederacija perskyrė nuo 1773 m. buvusią bendrą Edukacinę Komisiją į atskiras Lietuvos ir Lenkijos komisijas.'
+  teiginys: ', Targovicos konfederacija net perskyrė nuo 1773 m. buvusią bendrą Edukacinę Komisiją: vietoje vienos buvo sudarytos dvi atskiros Lietuvos ir Lenkijos komisijos.'
   pagrindžia:
     - c-005
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Edukacinė Komisija perėmė panaikinto jėzuitų ordino mokyklas ir ėmė rūpintis visu švietimu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Todėl bajorija dar labiau pra-
-    dėjo jaustis sudaranti ne tik vieną visuomenę, bet net ir vieną
-    valstybę.
     Be Nuolatinės Tarybos, kaip tik to pat padalinamojo seimo
     metu buvo įkurtas dar vienas bendras Lietuvai ir Lenkijai orga-
     nas. Tai buvo vadinamoji Edukacinė Komisija, kuri
@@ -90,7 +85,7 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
   santrauka: 'Edukacinė Komisija buvo įkurta kaip bendra Lietuvos ir Lenkijos institucija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    visų kitų mokyklų priežiūra. Komisija buvo įkurta bendra Lie-
+    Komisija buvo įkurta bendra Lie-
     tuvai ir Lenkijai.
     Komisija turėjo rūpintis tik pačiu mokymu, vadovėliais ir
     pinigų sunaudojimu.
@@ -102,14 +97,10 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
   pagrindžia:
     - t-001
 - c-003
-  santrauka: '1776 m. panaikinus turto komisijas, jų turtai buvo pavesti Edukacinei Komisijai.'
+  santrauka: '1776 m. panaikinus komisijas, jų turtai buvo pavesti Edukacinei Komisijai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tiek už išnuomotus dvarus, tiek
-    už kapitalus Edukacinei Komisijai buvo mokama 41 /2%.
-    Greit pasirodė, kad Dalomosios Komisijos su tais turtais daro
-    biznį — dvarus labai pigiai dalina savo artimiesiems, o pinigus tie-
-    siog vagia. Todėl 1776 m. tos komisijos buvo panaikintos, ir visi
+    Todėl 1776 m. tos komisijos buvo panaikintos, ir visi
     turtai pavesti Edukacinei Komisijai.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -122,10 +113,6 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
   santrauka: 'Edukacinė Komisija buvo laikoma pirmu Europoje atveju, kai švietimą perėmė valstybė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Valstybės atžvilgiu senoji karta buvo kon-
-    servatyvi ir bajoriškųjų laisvių garbintoja, o jaunoji karta išdidžiai
-    siekė reformų. Tad paskutiniaisiais Respublikos gyvenimo metais
-    padarytosios reformos buvo jaunosios kartos darbas.
     Edukacinės Komisijos idėja buvo tikrai vykusi: tai buvo iš viso
     pirmas atsitikimas Europoj, kad švietimą paėmė į savo žinią pati
     valstybė.
@@ -137,21 +124,20 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
   pagrindžia:
     - t-003
 - c-005
-  santrauka: 'Targovicos konfederacija perskyrė nuo 1773 m. buvusią bendrą Edukacinę Komisiją į atskiras Lietuvos ir Lenkijos komisijas.'
+  santrauka: ', Targovicos konfederacija net perskyrė nuo 1773 m. buvusią bendrą Edukacinę Komisiją: vietoje vienos buvo sudarytos dvi atskiros Lietuvos ir Lenkijos komisijos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Viskas sugrįžo į senąją būklę, o kai kuriais atžvil-
-    giais valstybių atskirumas net dar padidėjo; pav., Targovicos
+    , Targovicos
     konfederacija net perskyrė nuo 1773 m. buvusią bendrą Edu-
     kacinę Komisiją: vietoje vienos buvo sudarytos dvi atskiros
     Lietuvos ir Lenkijos komisijos.
 
     ##### 5.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
 

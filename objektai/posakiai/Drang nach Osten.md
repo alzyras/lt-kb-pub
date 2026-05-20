@@ -48,19 +48,16 @@ tags: []
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Žalgirio laukuose pirmą kartą buvo suduotas smūgis vokiečių siekimui „Drang nach Osten“ veržtis į Rytus.'
+  teiginys: 'Bet kaip ten bebūtų, vis dėlto mes tu­ rim čia konstatuot, kad Žalgirio laukuose pirmą kartą buvo su­ duotas smūgis vokiečių siekimui — „Drang nach Osten“ — veržtis į Rytus.'
   pagrindžia:
     - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Žalgirio laukuose pirmą kartą buvo suduotas smūgis vokiečių siekimui „Drang nach Osten“, tai yra veržimuisi į Rytus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Jogaila taip pat IX. 20 pasitraukė, ir tokiu būdu Marien­
-    burgas nebuvo paimtas. Bet kaip ten bebūtų, vis dėlto mes tu­
+    Bet kaip ten bebūtų, vis dėlto mes tu­
     rim čia konstatuot, kad Žalgirio laukuose pirmą kartą buvo su­
     duotas smūgis vokiečių siekimui — „Drang nach Osten“ —
     veržtis į Rytus.
@@ -72,21 +69,20 @@ tags: []
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Žalgirio laukuose pirmą kartą buvo suduotas smūgis vokiečių siekimui „Drang nach Osten“ veržtis į Rytus.'
+  santrauka: 'Bet kaip ten bebūtų, vis dėlto mes tu­ rim čia konstatuot, kad Žalgirio laukuose pirmą kartą buvo su­ duotas smūgis vokiečių siekimui — „Drang nach Osten“ — veržtis į Rytus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    20 pasitraukė, ir tokiu būdu Marien­
-    burgas nebuvo paimtas. Bet kaip ten bebūtų, vis dėlto mes tu­
+    Bet kaip ten bebūtų, vis dėlto mes tu­
     rim čia konstatuot, kad Žalgirio laukuose pirmą kartą buvo su­
     duotas smūgis vokiečių siekimui — „Drang nach Osten“ —
     veržtis į Rytus.
     Baigiant tenka padaryti dar kelias apibendrinančias pa­
     stabas apie mūšio organizaciją, vadovybę ir vietą istorijoje.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
 

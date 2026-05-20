@@ -51,21 +51,27 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
 
 ## Teiginiai
 - t-001
-  teiginys: 'Zigmanto Vazos pradėto karo dėl Švedijos sosto metu Livonija iki Dauguvos upės atiteko Švedijai.'
+  teiginys: 'Apie 650 m. prasidėjo didelė švedų ekspansija iš Gotlando ir vidurio Švedijos.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Zigmanto Vazos laikais, šiam pradėjus karą dėl Švedijos sosto, Livonija buvo prarasta: ji net iki Dauguvos upės atiteko Švedijai (žiūr.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Zigmanto Vazos pradėto karo dėl Švedijos sosto metu Livonija iki Dauguvos upės atiteko Švedijai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: 'Apie 650 m. prasidėjo didelė švedų ekspansija iš Gotlando ir vidurio Švedijos.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    285—289 psl.). Zigmanto
-    Vazos laikais, šiam pradėjus karą dėl Švedijos sosto, Livonija
-    buvo prarasta: ji net iki Dauguvos upės atiteko Švedijai (žiūr.
-    304, 328 psl.).
+    Archeolo­
+    giniai duomens parodo apie 650 m. prasidedančią didelę švedų
+    ekspansiją iš Gotlando ir vidurio Švedijos. VII amž. gale jie įsi­
+    kūrė Grobine, kur turėjo savo svarbią karinę bazę Seeburgą, užėmė
+    Apuolės pilį (prie Skuodo). VIII amž. pusėje jie randami Sauslauke
+    (prie Durbės).
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -73,6 +79,21 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Zigmanto Vazos laikais, šiam pradėjus karą dėl Švedijos sosto, Livonija buvo prarasta: ji net iki Dauguvos upės atiteko Švedijai (žiūr.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Zigmanto
+    Vazos laikais, šiam pradėjus karą dėl Švedijos sosto, Livonija
+    buvo prarasta: ji net iki Dauguvos upės atiteko Švedijai (žiūr.
+    304, 328 psl.).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Laikotarpiai

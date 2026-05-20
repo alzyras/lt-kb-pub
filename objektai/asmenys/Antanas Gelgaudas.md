@@ -29,21 +29,37 @@ karių, kuriai vadovavo generolas Antanas Gelgaudas.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Generolas Antanas Gelgaudas vadovavo jungtinei sukilėlių kariuomenei.'
+  teiginys: 'Antanas Gelgaudas vadovavo 1831 m. birželį į Lietuvą pasiųstai reguliariajai Lenkijos karalystės kariuomenei.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Antanas Gelgaudas paliko štabą ir pats dalyvavo mūšyje.'
+  teiginys: 'Jungtinei sukilėlių kariuomenei vadovavo generolas Antanas Gelgaudas.'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+- t-003
+  teiginys: 'Gelgaudas, palikęs štabą, pats dalyvavo mūšyje.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Generolas Antanas Gelgaudas vadovavo jungtinei sukilėlių kariuomenei.'
+  santrauka: 'Antanas Gelgaudas vadovavo 1831 m. birželį į Lietuvą pasiųstai reguliariajai Lenkijos karalystės kariuomenei.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1831 m. birželį į Lietuvą strateginiais sumetimais buvo pasiųsta re-
+    guliarioji Lenkijos karalystės kariuomenė, apie 12,6 tūkst. karių, kuriai
+    vadovavo generolas Antanas Gelgaudas.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Jungtinei sukilėlių kariuomenei vadovavo generolas Antanas Gelgaudas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvos sukilėliams į pa-
@@ -57,31 +73,31 @@ karių, kuriai vadovavo generolas Antanas Gelgaudas.
     luotai) buvo suvokta, kad sukilimo karinė
     ir politinė sėkmė priklauso nuo to, ar pa-
     vyks užimti Lietuvos sostinę - Vilnių.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Antanas Gelgaudas paliko štabą ir pats dalyvavo mūšyje.'
+    - t-002
+- c-003
+  santrauka: 'Gelgaudas, palikęs štabą, pats dalyvavo mūšyje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    XIX a. pirmoji pusė k
+    pirmoji pusė k
 
     Gen. A. Gelgaudas, palikęs štabą, pats
     dalyvavo mūšyje. Jis nesislėpė, stengėsi
     visur būti pirmas. Artilerijos sviedinys
     nukovė jo žirgą. Daugeliui atrodė, kad jis
     ieškojo mirties.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-002
+    - t-003
 
 ## Ryšiai
 ### Laikotarpiai

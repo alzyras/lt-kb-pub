@@ -55,20 +55,45 @@ Nenurodyta
 
 ## Teiginiai
 - t-004
-  teiginys: 'Lietuvių karvedžiai nuo seno mėgo apgaulingo atsitraukimo manevrą ir juo versdavo priešininką suardyti savo rikiuotę.'
+  teiginys: 'Karolis Chodkevičius įsakė frontui imituoti atsitraukimą.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-005
-  teiginys: 'Lietuvių karvedžiai nuo seno mėgo apgaulingo atsitraukimo manevrą, kurį su laiku vis įdomiau įgyvendindavo ir provokuodami suardyti priešo rikiuotę priversdavo jį pralaimėti.'
+  teiginys: 'Lietuvių karvedžiai nuo seno mėgo apgaulingo atsitraukimo manevrą ir juo versdavo priešininką suardyti savo rikiuotę.'
   pagrindžia:
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-006
+  teiginys: 'Lietuvių karvedžiai nuo seno mėgo apgaulingo atsitraukimo manevrą, kurį su laiku vis įdomiau įgyvendindavo ir provokuodami suardyti priešo rikiuotę priversdavo jį pralaimėti.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
+  santrauka: 'Karolis Chodkevičius įsakė frontui imituoti atsitraukimą.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Pagaliau Karolis Chodkevičius davė
+    komandą visam frontui pradėti imituoti
+    atsitraukimą. Atsukę priešui nugaras, lietu-
+    viai pradėjo trauktis. Švedijos kariuomenės
+    vadovybė iškart sureagavo į šį manevrą ir
+    buvo duotas įsakymas pulti „besitraukian-
+    čius“ lietuvius (šis manevras labai pri-
+    mena 1270 m. Karusės, 1279 m. Aizkraulės,
+    1410 m. Žalgirio, 1514 m. Oršos mūšius ir
+    daug kitų).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
+- c-002
   santrauka: 'Lietuvių karvedžiai nuo seno mėgo apgaulingo atsitraukimo manevrą ir juo versdavo priešininką suardyti savo rikiuotę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -84,13 +109,12 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
-- c-002
+    - t-005
+- c-003
   santrauka: 'Lietuvių karvedžiai nuo seno mėgo apgaulingo atsitraukimo manevrą, kurį su laiku vis įdomiau įgyvendindavo ir provokuodami suardyti priešo rikiuotę priversdavo jį pralaimėti.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Oršos mūšius ir
-    daug kitų). Lietuvių karvedžiai nuo seno
+    Lietuvių karvedžiai nuo seno
     mėgo apgaulingo atsitraukimo manevrą,
     kurį su laiku vis įdomiau įgyvendindavo ir
     provokuodami suardyti priešo rikiuotę pri-
@@ -99,13 +123,13 @@ Nenurodyta
     Pirmoji puolimą pradėjo švedų kai-
     riojo, o netrukus ir dešiniojo sparno
     kavalerija.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-005
+    - t-006
 
 ## Ryšiai
 ### Laikotarpiai

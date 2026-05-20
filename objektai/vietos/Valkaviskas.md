@@ -32,23 +32,29 @@ Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskrit
 
 ## Teiginiai
 - t-001
-  teiginys: '1289 m. Budikidas ir jo brolis Budivydas taikai palaikyti perleido Valkaviską.'
+  teiginys: 'Valkavisko apskritis buvo įtraukta į Lietuvos teritorijos projektą, grindžiamą „Lithuania Propria“ ribomis.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Taikai palaikyti, « Budikidas » ir jo brolis « Budivydas » jiems 1289 per­ leido Valkaviską^19.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1289 m. Budikidas ir jo brolis Budivydas taikai palaikyti perleido Valkaviską.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  santrauka: 'Valkavisko apskritis buvo įtraukta į Lietuvos teritorijos projektą, grindžiamą „Lithuania Propria“ ribomis.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Haličo — Volinijos kunigaikščiai plėtėsi į šiaurę,
-    paimdami senas Mindaugines valdas, Slanimo ir kitas pilis. Taikai
-    palaikyti, « Budikidas » ir jo brolis « Budivydas » jiems 1289 per­
-    leido Valkaviską^19. Vargu tos nuolaidos turėjo kokį ryšį su Prūsų
-    ordino agresija, nes tuo pat laiku lietuviai puldinėjo kitų kaimynų
-    žemes, ypač Lenkiją.
+    Šaulys) bei užsienio lietuvių atstovai, pasisakyta
+    už etnografinį teritorijos formavimo principą „Lithuania Propria“ ribose:
+    Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko
+    apskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis),
+    be to, Alūkštos apskritis Kurše iki Dauguvos upės, numatyta reikalauti
+    ir Liepojos uosto (vokiškoji Klaipėda neminėta taktiniais sumetimais).
+    Apskritai teritoriniai Lietuvos projektai keitėsi keičiantis tarptautinei si-
+    tuacijai – niekas negalėjo pasakyti, kokio dydžio valstybe ji galėtų tapti.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -56,6 +62,22 @@ Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskrit
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Taikai palaikyti, « Budikidas » ir jo brolis « Budivydas » jiems 1289 per­ leido Valkaviską^19.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Taikai
+    palaikyti, « Budikidas » ir jo brolis « Budivydas » jiems 1289 per­
+    leido Valkaviską^19. Vargu tos nuolaidos turėjo kokį ryšį su Prūsų
+    ordino agresija, nes tuo pat laiku lietuviai puldinėjo kitų kaimynų
+    žemes, ypač Lenkiją.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Laikotarpiai

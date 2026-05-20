@@ -70,20 +70,39 @@ Sovietinė valstybės saugumo ir represinė struktūra.
 
 ## Teiginiai
 - t-006
-  teiginys: 'Prienų NKGB tardytojas Arkadijus Kruglovas, stovėjęs prie durų, paleido automato seriją į Tigrą.'
+  teiginys: 'Atkuriant stalininį režimą Lietuvoje, totalitariniam režimui dirigavo komunistų partija, NKGB ir NKVD struktūros.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-007
+  teiginys: 'NKVD ir NKGB skyriai visose apskrityse koordinavo baudžiamąsias operacijas, gaudynes, tardymus ir agentų verbavimą.'
+  pagrindžia:
+    - c-002
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  statusas: patvirtinta
+- t-008
+  teiginys: 'Ją paleido prie durų stovėjęs Prienų NKGB tardytojas Kruglov Arkadij.'
+  pagrindžia:
+    - c-003
+- t-009
+  teiginys: 'Kaip vėliau paaiškėjo, bolševikai tylėjo todėl, kad pirmaisiais šūviais Tigras nukovė tris NKGB dalinio buvusius vadus: kpt.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Prienų NKGB tardytojas Arkadijus Kruglovas, stovėjęs prie durų, paleido automato seriją į Tigrą.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  santrauka: 'Atkuriant stalininį režimą Lietuvoje, totalitariniam režimui dirigavo komunistų partija, NKGB ir NKVD struktūros.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Iš lauko atsakė automato serija. Ją paleido prie durų stovėjęs Prienų NKGB tardytojas
-    Kruglov Arkadij. Bet pasirodė, kad Tigro oda buvo per kieta. Kulkos, pralindusios pro duris,
-    paliko Tigro milinėje, nė viena nepasiekdama kūno.
+    Tačiau bėda ta, kad lygia greta, kone tuo pat metu
+    Lietuva buvo reokupuota, t. y. sovietų kariuomenė antrą kartą okupavo
+    Lietuvą, Latviją ir Estiją – grąžintas stalininis režimas, imtos vykdyti re-
+    kvizicijos, vyrai gaudyti darbams. Totalitariniam režimui vėl ėmė diri-
+    guoti komunistų partija, valstybės saugumo (NKGB ir NKVD) struktū-
+    ros, sovietų valdininkai ir okupacinė kariuomenė. Iki 1945 m. pavasario
+    į Lietuvą buvo atsiųsta 6 tūkst. rusakalbių į svarbiausius kuriamos admi-
+    nistracijos postus.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -91,6 +110,56 @@ Sovietinė valstybės saugumo ir represinė struktūra.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
+- c-002
+  santrauka: 'NKVD ir NKGB skyriai visose apskrityse koordinavo baudžiamąsias operacijas, gaudynes, tardymus ir agentų verbavimą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kovai su partizanais Lietuvoje dislokuota gausi NKVD kariuomenė:
+    1945 m. vasarą joje buvo iki 20 tūkst., 1946 m. – apie 14 tūkst. karių. NKVD
+    ir NKGB skyriai, įsikūrę visose apskrityse, koordinavo baudžiamąsias ope-
+    racijas, vadovavo joms ir žmonių gaudynėms, tardė suimtuosius, verbavo
+    agentus. Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė
+    „naikintojų batalionus“, lietuvių vadintus stribais (santrumpa nuo rus. pa-
+    vadinimo istrebitelnyje bataliony), į kuriuos agitavo stoti vietinius gyvento-
+    jus.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-007
+- c-003
+  santrauka: 'Ją paleido prie durų stovėjęs Prienų NKGB tardytojas Kruglov Arkadij.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Iš lauko atsakė automato serija. Ją paleido prie durų stovėjęs Prienų NKGB tardytojas
+    Kruglov Arkadij. Bet pasirodė, kad Tigro oda buvo per kieta. Kulkos, pralindusios pro duris,
+    paliko Tigro milinėje, nė viena nepasiekdama kūno.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-004
+  santrauka: 'Kaip vėliau paaiškėjo, bolševikai tylėjo todėl, kad pirmaisiais šūviais Tigras nukovė tris NKGB dalinio buvusius vadus: kpt.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Kaip vėliau paaiškėjo, bolševikai tylėjo todėl, kad pirmaisiais šūviais Tigras nukovė
+    tris NKGB dalinio buvusius vadus: kpt. Kruglovą, leit. Marcinkevičių ir dar vieną rusą
+    karininką. Išmušus visą vadovybę, likę gyvi enkagebistai nesugalvojo, kaip toliau pulti be
+    komandų. Jie leido partizanams pasitraukti neapšaudomiems.“
+
+    1945 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 ### Laikotarpiai

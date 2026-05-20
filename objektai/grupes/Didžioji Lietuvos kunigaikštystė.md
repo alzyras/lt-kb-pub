@@ -32,25 +32,29 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Unijos akto 3 paragrafas skelbė, kad Didžioji Lietuvos Kunigaikštystė ir Lenkų Karalystė sudaro vieną bendrą valstybę.'
+  teiginys: 'Didžioji Lietuvos kunigaikštija ilgiau nebegalėjo būti pagonio valdoma.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Unijos akto . 3-me išreikšta visa jo autorių lenkų idėja: „Didžioji Lietuvos kunigaikštystė ir Lenkų karalystė yra vienas nedalomas ir vienalytis kūnas, o taip pat ne skirtinga, bet viena bendra valstybė, kuri iš dviejų valstybių ir dviejų tautų suėjo ir.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Unijos akto 3 paragrafas skelbė, kad Didžioji Lietuvos Kunigaikštystė ir Lenkų Karalystė sudaro vieną bendrą valstybę.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: 'Didžioji Lietuvos kunigaikštija ilgiau nebegalėjo būti pagonio valdoma.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Liublino unijos dėsniai. Unijos akto § 3-me išreikšta
-    visa jo autorių lenkų idėja: „Didžioji Lietuvos kunigaikštystė
-    ir Lenkų karalystė yra vienas nedalomas ir vienalytis kūnas, o
-    taip pat ne skirtinga, bet viena bendra valstybė, kuri iš dviejų
-    valstybių ir dviejų tautų suėjo ir susijungė į vieną visuomenę".
-    Toliau sakoma, kad taip sujungtos valstybės turėsiančios vieną
-    bendrą valdovą, kuris būsiąs bendrai renkamas Lietuvoje ir ka-
-    rūnuojamas Krokuvoje (§ 4).
+    Nors valstybėje
+    didelį autoritetą ir politiškai karinį patyrimą turįs Kęstutis tebe­
+    buvo tvirtai užsisklendęs savo pagonybėje, jaunam Jogailai turėjo
+    ryškėti, jog reikia ieškoti naujų ir tikrų būdų, kurie leistų priimti
+    krikščionybę. Didžioji Lietuvos kunigaikštija ilgiau nebegalėjo būti
+    pagonio valdoma.
+    Jau dėl šitų priežasčių tarp Jogailos ir Kęstučio turėjo kilti
+    pirmieji nesutarimai, kuriuos vikriai išnaudojo kryžiuočiai.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -58,6 +62,25 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Unijos akto . 3-me išreikšta visa jo autorių lenkų idėja: „Didžioji Lietuvos kunigaikštystė ir Lenkų karalystė yra vienas nedalomas ir vienalytis kūnas, o taip pat ne skirtinga, bet viena bendra valstybė, kuri iš dviejų valstybių ir dviejų tautų suėjo ir.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Unijos akto § 3-me išreikšta
+    visa jo autorių lenkų idėja: „Didžioji Lietuvos kunigaikštystė
+    ir Lenkų karalystė yra vienas nedalomas ir vienalytis kūnas, o
+    taip pat ne skirtinga, bet viena bendra valstybė, kuri iš dviejų
+    valstybių ir dviejų tautų suėjo ir susijungė į vieną visuomenę".
+    Toliau sakoma, kad taip sujungtos valstybės turėsiančios vieną
+    bendrą valdovą, kuris būsiąs bendrai renkamas Lietuvoje ir ka-
+    rūnuojamas Krokuvoje (§ 4).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Laikotarpiai

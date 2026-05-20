@@ -31,44 +31,40 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
 
 ## Teiginiai
 - t-001
-  teiginys: '7-asis pulkas puolė Prienų kryptimi, siekdamas apeiti Kauną ir užpulti jį iš pietų.'
+  teiginys: 'Prienų kleboną pralotą Karpavičių Prūsijos valdžia pasirinko pirmuoju Vygrių vyskupu.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Bolševikų pajėgos planavo persikelti per Nemuną Prienuose ir Alytuje ir pulti Kauną iš pietų.'
+  teiginys: '© ::iosios brigados 7-asis pulkas puola Prienų kryptimi su tikslu apeiti ir užpulti Kauną iš pietų.'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 - t-003
-  teiginys: 'Ginkluoti šautuvais Mosin-Nagant ir rusišku Maxim kulkosvaidžiu pulkas, veržtis per tiltą Prienuose rengėsi tai užduočiai numatytas „lietuviškasis“ (buvęs „Vilniaus“) 7-asis pulkas.'
+  teiginys: '173 r ‘wv 2 m = o vi = = x rą a 7 sa kovos ## Puslapis 176 LIETUVOS, RESPUBLIKA Prieš mūšį Įgyvendindamos Kauno užėmimo planą bolševikų pajėgos ketino veržtis iki Nemuno, persikelti per jį Prienuose ir Alytuje ir pulti Kauną iš pietų.'
   pagrindžia:
     - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 - t-004
-  teiginys: 'Prienų NKGB tardytojas Arkadijus Kruglovas paleido automato seriją prie durų.'
+  teiginys: 'Ginkluoti šautuvais Mosin-Nagant ir rusišku Maxim kulkosvaidžiu pulkas, veržtis per tiltą Prienuose rengėsi tai užduočiai numatytas „lietuviškasis“ (buvęs „Vilniaus“) 7-asis pulkas.'
   pagrindžia:
     - c-004
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+- t-005
+  teiginys: 'Ją paleido prie durų stovėjęs Prienų NKGB tardytojas Kruglov Arkadij.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '7-asis pulkas puolė Prienų kryptimi, siekdamas apeiti Kauną ir užpulti jį iš pietų.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  santrauka: 'Prienų kleboną pralotą Karpavičių Prūsijos valdžia pasirinko pirmuoju Vygrių vyskupu.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    ‘ tikslu perėjus per Nemuną
-    pulti Vilkaviškio kryptimi
-    ir atkirsti Lietuvą nuo
-    Vokietijos.
-    © ::iosios brigados 7-asis pul-
-    kas puola Prienų kryptimi su
-    tikslu apeiti ir užpulti Kauną
-    iš pietų. 5-asis pulkas puola
-    Kauną tiesiai pro Kaišiadoris.
+    Norėdama atskirti
+    ją nuo Vilniaus ir Žemaičių vyskupų įtakos, Prūsijos valdžia
+    įsteigė atskirą, tiesiog popiežiaus priklausomą vyskupiją Vig-
+    riuose (1798 m.; 1818 m. ji buvo perkelta į Seinus). Pir-
+    muoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų
+    kleboną pralotą Karpavičių, tikėdamasi, kad jis bus jai pa-
+    lankus.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -77,7 +73,22 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Bolševikų pajėgos planavo persikelti per Nemuną Prienuose ir Alytuje ir pulti Kauną iš pietų.'
+  santrauka: '© ::iosios brigados 7-asis pulkas puola Prienų kryptimi su tikslu apeiti ir užpulti Kauną iš pietų.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    © ::iosios brigados 7-asis pul-
+    kas puola Prienų kryptimi su
+    tikslu apeiti ir užpulti Kauną
+    iš pietų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: '173 r ‘wv 2 m = o vi = = x rą a 7 sa kovos ## Puslapis 176 LIETUVOS, RESPUBLIKA Prieš mūšį Įgyvendindamos Kauno užėmimo planą bolševikų pajėgos ketino veržtis iki Nemuno, persikelti per jį Prienuose ir Alytuje ir pulti Kauną iš pietų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     173
@@ -119,25 +130,18 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
     svarbi kompleksinių Raudonosios armi-
     jos veiksmų plano, nukreipto prieš at-
     gimusį Lietuvos valstybingumą, dalis.
-    Gavusi iš savo žvalgų informaciją, jog
-    nuo Žiežmarių iki Alytaus nebuvo nei lie-
-    tuvių, nei vokiečių dalinių, bolševikų ka-
-    rinė vadovybė 1919 m. vasario pradžioje
-    ryžosi pradėti Kauno puolimą iš pietų
-    pusės.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-002
-- c-003
+    - t-003
+- c-004
   santrauka: 'Ginkluoti šautuvais Mosin-Nagant ir rusišku Maxim kulkosvaidžiu pulkas, veržtis per tiltą Prienuose rengėsi tai užduočiai numatytas „lietuviškasis“ (buvęs „Vilniaus“) 7-asis pulkas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Lietuvos kariuomenės
-    pėstininkai pozicijoje. Ginkluoti
+    Ginkluoti
     šautuvais Mosin-Nagant ir
 
     rusišku Maxim kulkosvaidžiu
@@ -148,26 +152,26 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
     pulkas. Pulti Alytų turėjo
     šios divizijos 3-asis
     ir 4-asis pulkai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Prienų NKGB tardytojas Arkadijus Kruglovas paleido automato seriją prie durų.'
+    - t-004
+- c-005
+  santrauka: 'Ją paleido prie durų stovėjęs Prienų NKGB tardytojas Kruglov Arkadij.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Iš lauko atsakė automato serija. Ją paleido prie durų stovėjęs Prienų NKGB tardytojas
     Kruglov Arkadij. Bet pasirodė, kad Tigro oda buvo per kieta.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-004
+    - t-005
 
 ## Ryšiai
 ### Laikotarpiai

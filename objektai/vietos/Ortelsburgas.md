@@ -31,15 +31,36 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Ortelsburgo apskritis priklausė pietinei Prūsijos daliai, kurios lietuviai pasižadėjo nebeužpuldinėti.'
+  teiginys: 'Kęstutis tais pačiais metais talkino Liubarto ir Algirdo žygiuose ir Prūsuose puolė Ortelsburgą.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Lietuviai pasižadėjo nebeužpuldinėti pieti­ nės Prūsijos dalies, kurią sudarė Osterodės, Ortelsburgo, Var­ tenburgo ir Gunlaukeno apskričiai.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Ortelsburgo apskritis priklausė pietinei Prūsijos daliai, kurios lietuviai pasižadėjo nebeužpuldinėti.'
+  santrauka: 'Kęstutis tais pačiais metais talkino Liubarto ir Algirdo žygiuose ir Prūsuose puolė Ortelsburgą.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Taip kronikose vėl atsi­
+    rado keliatūkstantiniai priešų aukų skaičiai^21. Kad lietuvių nuosto­
+    liai nebuvo tokie dideli, reikšmingai patvirtina tai, jog tais pat
+    metais Kęstutis talkino Liubarto ir Algirdo žygiuose ir Prūsuose
+    puolė Ortelsburgą^22. Jeigu lietuviai butų netekę didelio karių skai­
+    čiaus, jie nebūtų galėję tęsti savo tolimesnių žygių į Prūsus.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Lietuviai pasižadėjo nebeužpuldinėti pieti­ nės Prūsijos dalies, kurią sudarė Osterodės, Ortelsburgo, Var­ tenburgo ir Gunlaukeno apskričiai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Nauja sutartis buvo padaryta dešimčiai metų. Abu ma­
@@ -49,13 +70,13 @@ tags:
     bebūtų puldinėjami. Lietuviai pasižadėjo nebeužpuldinėti pieti­
     nės Prūsijos dalies, kurią sudarė Osterodės, Ortelsburgo, Var­
     tenburgo ir Gunlaukeno apskričiai.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
+    - t-002
 
 ## Ryšiai
 ### Laikotarpiai

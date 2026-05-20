@@ -48,49 +48,23 @@ Nenurodyta
 
 ## Teiginiai
 - t-003
-  teiginys: 'Kunigas A. Mackevičius sukilėlių stovykloje laikė mišias ir atlikinėjo naujokų įšventinimo apeigas.'
-  pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-004
-  teiginys: 'Kunigas A. Mackevičius laimino sukilėlius ir šventino jų vėliavas.'
+  teiginys: 'Sukilėlių stovykloje jis laikė mišias ir atlikinėjo naujokų įšventinimo apeigas.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: 'Mackevičius laimina sukilėlius ir šventina jų vėliavas bent įgyti autonominę nepriklausomybę.'
+  pagrindžia:
+    - c-002
 - t-005
   teiginys: 'Mackevičius stovykloje laikė mišias, atlikinėjo naujokų įšventinimo apeigas.'
   pagrindžia:
     - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kunigas A. Mackevičius laimino sukilėlius ir šventino jų vėliavas.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Tuo metu visoje Europoje sklido pa-
-    vergtų tautų laisvės idėjos. Išsivadavimo
-    iš Rusijos imperijos siekis stipriausiai
-    reiškėsi Lenkijoje ir Lietuvoje. Caro vy-
-    riausybei pradėjus daryti pirmąsias re-
-    formas, stiprėjo viltis atgauti laisvę ar
-
-    Kunigas A. Mackevičius laimina
-    sukilėlius ir šventina jų vėliavas
-
-    bent įgyti autonominę nepriklausomybę.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-004
-- c-002
-  santrauka: 'Kunigas A. Mackevičius sukilėlių stovykloje laikė mišias ir atlikinėjo naujokų įšventinimo apeigas.'
+  santrauka: 'Sukilėlių stovykloje jis laikė mišias ir atlikinėjo naujokų įšventinimo apeigas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Šiems tikslams įgyvendinti už Anykščių
@@ -109,22 +83,39 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+- c-002
+  santrauka: 'Mackevičius laimina sukilėlius ir šventina jų vėliavas bent įgyti autonominę nepriklausomybę.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Caro vy-
+    riausybei pradėjus daryti pirmąsias re-
+    formas, stiprėjo viltis atgauti laisvę ar
+
+    Kunigas A. Mackevičius laimina
+    sukilėlius ir šventina jų vėliavas
+
+    bent įgyti autonominę nepriklausomybę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 - c-003
   santrauka: 'Mackevičius stovykloje laikė mišias, atlikinėjo naujokų įšventinimo apeigas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Joje vykdė naujokų ap-
-    mokymus, formavo naujus ir reorganizavo
-    esamus dalinius. Kunigas A. Mackevičius
+    Kunigas A. Mackevičius
     stovykloje laikė mišias, atlikinėjo naujokų
     įšventinimo apeigas. Stovykloje veikė karo
     lauko ligoninė, mokymai vyko lietuviškai,
     komandos buvo duodamos lietuvių kalba.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
 

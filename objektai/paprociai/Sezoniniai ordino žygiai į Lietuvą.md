@@ -65,15 +65,12 @@ Nenurodyta
   teiginys: 'Ordino kronikose 1345-1382 m. suregistruoti 66 Prūsų kryžiuočių žygiai ir 30 žygių iš Livonijos.'
   pagrindžia:
     - c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Po 1345 m. kryžiuočiai reguliariais terminais siuntė judrius nedidelius kariuomenės dalinius į Žemaičius ir Aukštaičius.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Smulkūs teriojimai iš ordino žemių nuolat buvo kartojami.
     Sistemingai tokią taktiką kryžiuočiai ypač ėmė naudoti po 1345 m.
     Išsidirbo tuomet visa « reysų » sistema, nes reguliariai ir nustatytais
     terminais į Žemaičius ir Aukštaičius buvo siunčiami judrus ir nedi­
@@ -90,9 +87,6 @@ Nenurodyta
   santrauka: '1345–1382 metais ordino kronikose suregistruota 66 Prūsų kryžiuočių ir 30 Livonijos žygių.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Pora tokių žygių paprastai buvo įvykdoma pirmais žiemos
-    mėnesiais prieš atlydį. O vasaros žygis buvo ruošiamas apie rug­
-    piūčio vidurį, skubant jį užbaigti prieš rudens darganas ir liūtis.
     Ordino kronikose 1345-1382 m. yra suregistruota 66 žygiai iš Prūsų
     kryžiuočių ir 30—iš Livonijos.
   citata_rodoma: ""
@@ -106,19 +100,14 @@ Nenurodyta
   santrauka: 'Ordino kronikose 1345-1382 m. suregistruoti 66 Prūsų kryžiuočių žygiai ir 30 žygių iš Livonijos.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    O vasaros žygis buvo ruošiamas apie rug­
-    piūčio vidurį, skubant jį užbaigti prieš rudens darganas ir liūtis.
     Ordino kronikose 1345-1382 m. yra suregistruota 66 žygiai iš Prūsų
     kryžiuočių ir 30—iš Livonijos. Į tą skaičių neįeina pasienyje
-    ordino riterių suorganizuoti savanorių — « plėšikėlių » (vad. « strut­
-    ter », «latrunculi ») nuolatiniai plėšikavimai, be to, pasienių pilių
-    valdytojų vykdomi teriojimai į artimas Žemaičių ir Aukštaičių
-    žemes.
-  citata_rodoma: ""
+    ordino riterių suorganizuoti savanorių — « plėšikėlių » (vad.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
 

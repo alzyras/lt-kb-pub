@@ -50,21 +50,40 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Raitelis kelis kartus puolė žvalgą kardu ir du kartus jį lengvai sužeidė.'
+  teiginys: 'Kautynės pirmiausia prasidėjo ietimis, o vėliau buvo naudojami kirviai, kardai ir kiti ginklai.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: '1917 m. modelio lenkiškas kardas buvo skirtas ulonų, artilerijos ir gurguolės puskarininkiams.'
+  teiginys: 'Arklys šoko per griovį, o lenkas dūrė kardu.'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+- t-003
+  teiginys: '“ 1917 m. modelio lenkiškas kardas, skirtas ulonų, artilerijos ir gurguolės puskarininkiams 1920 m.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Raitelis kelis kartus puolė žvalgą kardu ir du kartus jį lengvai sužeidė.'
+  santrauka: 'Kautynės pirmiausia prasidėjo ietimis, o vėliau buvo naudojami kirviai, kardai ir kiti ginklai.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Iš priešin­
+    gų pusių nuo kalnelių ėmė leistis kariuomenės ir tuoj susitiko.
+    Pirmiausia kautynės prasidėjo ietimis, o paskui į darbą ėjo kir­
+    viai, kardai ir kiti ginklai. Tiesa, pačioje mūšio pradžioje kry­
+    žiuočiai iššovė porą kartų iš patrankų, bet jos sumišimo sąjun­
+    gininkų kariuomenėj nesukėlė.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Arklys šoko per griovį, o lenkas dūrė kardu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Arklys šoko per griovį, o lenkas dūrė kardu. Lenkas apsisuko ir
@@ -74,31 +93,30 @@ Nenurodyta
 
     per griovį, ir raitelis nieko negalėjo padaryti, tačiau vis dėl to du kar-
     tus šiek tiek įdūrė žvalgui.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-001
-- c-002
-  santrauka: '1917 m. modelio lenkiškas kardas buvo skirtas ulonų, artilerijos ir gurguolės puskarininkiams.'
+    - t-002
+- c-003
+  santrauka: '“ 1917 m. modelio lenkiškas kardas, skirtas ulonų, artilerijos ir gurguolės puskarininkiams 1920 m.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Tačiau nebuvo panaudotas nė vienas tų būdų. Lenkas, senas karys,
-    irgi ilgai juk neatsiminė, kad turi pistoletą.“
+    “
 
     1917 m. modelio lenkiškas kardas, skirtas ulonų,
     artilerijos ir gurguolės puskarininkiams
 
-    1920 m. lapkričio 17-21 d. GIEDRAIČIŲ KAUTYNĖS 209
-  citata_rodoma: ""
+    1920 m.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-002
+    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai

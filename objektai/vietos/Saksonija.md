@@ -37,30 +37,30 @@ Lietuvos pasieny, o iš kitos pusės, nuo Lenkijos netolimoje Saksonijoje, jis b
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kol karas vyko Saksonijoje, Lietuvoje įsigalėjo Rusijos kariuomenė.'
+  teiginys: 'Saksonija buvo nuo Lenkijos netolima teritorija.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: '1700 m. Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą.'
+  teiginys: 'Kol karas vyko Saksonijoje, Lietuvoje įsigalėjo Rusijos kariuomenė.'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+- t-003
+  teiginys: 'Šiaurės karas 1700 m. Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kol karas vyko Saksonijoje, Lietuvoje įsigalėjo Rusijos kariuomenė.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  santrauka: 'Saksonija buvo nuo Lenkijos netolima teritorija.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    1706 m. švedai nužygiavo į
-    Saksoniją ir, sumušę Augusto 11 pajėgas, privertė jį
-    atsisakyti ATR sosto. Kol karas vyko Saksonijoje,
-    Lietuvoje įsigalėjo Rusijos kariuomenė. Nugalėjęs
-    Augustą II, Karolis x11 1708 m. puolė Rusiją, tačiau
-    1709 m. buvo nugalėtas prie Poltavos ir karą pralai-
-    mėjo.
+    Tuomet, iš vienos pusės, turėdamas savo ka-
+    riuomenę Vidžemėje, t. y. Lietuvos pasieny, o iš kitos pusės,
+    nuo Lenkijos netolimoje Saksonijoje, jis būtų galėjęs lengviau
+    suvaldyti ir didikus ir bajoriją ir pasiekti absoliutiškos val-
+    džios.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -69,7 +69,21 @@ Lietuvos pasieny, o iš kitos pusės, nuo Lenkijos netolimoje Saksonijoje, jis b
   pagrindžia:
     - t-001
 - c-002
-  santrauka: '1700 m. Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą.'
+  santrauka: 'Kol karas vyko Saksonijoje, Lietuvoje įsigalėjo Rusijos kariuomenė.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Kol karas vyko Saksonijoje,
+    Lietuvoje įsigalėjo Rusijos kariuomenė. Nugalėjęs
+    Augustą II, Karolis x11 1708 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Šiaurės karas 1700 m. Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Šiaurės karas
@@ -80,13 +94,13 @@ Lietuvos pasieny, o iš kitos pusės, nuo Lenkijos netolimoje Saksonijoje, jis b
     saksus nuo Rygos, 1702 m. įsiveržė į Lietuvos terito-
     riją. Augustui II priešiški Sapiegos parėmė švedus,
     M atsinaujino Lietuvos didikų tarpusavio kova.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-002
+    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai

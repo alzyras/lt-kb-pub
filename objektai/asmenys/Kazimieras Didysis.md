@@ -35,36 +35,35 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kazimiero Didžiojo politikos idėją lenkų istorikas Kochanovskis vadino nemirtinga, nes ji atvėrė Lenkijai rytų horizontus.'
+  teiginys: 'Kazimieras Didysis buvo paskutinysis Piastas, miręs 1370 m. prieš Jogailaičių epochos pradžią.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Tą žemę Kazimieras III buvo atidavęs Vladislovui iš Opolės.'
+  teiginys: 'Šitą atsigręžimą lenkų istorikas Kocha­ novskis vadina nemirštama Kazimiero D.'
   pagrindžia:
     - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 - t-003
-  teiginys: '1325 m. Kazimiero Didžiojo ir Gedimino dukters Aldonos jungtuvės sutvirtino Vladislovo Lokietkos ir Lietuvos sutartį.'
+  teiginys: 'Tą žemę Kazimieras III buvo atidavęs Vladislovui iš Opolės.'
   pagrindžia:
     - c-003
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
+- t-004
+  teiginys: 'Jau tada bekovodamas su Ordinu Lenkų kara­ lius Vladislovas Łokietka sau tinkamu sąjungininku buvo nu­ žiūrėjęs Gedimino valdomą Lietuvą, ir tarp jų 1325 buvo pa­ daryta sutartis, kurią sutvirtino Gedimino dukters Aldonos ir Vladislovo sūnaus Kazimiero.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kazimiero Didžiojo politikos idėją lenkų istorikas Kochanovskis vadino nemirtinga, nes ji atvėrė Lenkijai rytų horizontus.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: 'Kazimieras Didysis buvo paskutinysis Piastas, miręs 1370 m. prieš Jogailaičių epochos pradžią.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Kalyšiaus sutartimi atsi­
-    sakė nuo Pamario ir kitų kraštų Ordino naudai. Jau anksčiau
-    prasidėjęs didelis spaudimas vakaruose lenkus dabar automatiš­
-    kai atgręžė į rytus. Šitą atsigręžimą lenkų istorikas Kocha­
-    novskis vadina nemirštama Kazimiero D. politikos idėja, nes
-    ji parodžiusi Lenkijos istorijos raidai plačius horizontus rytuo­
-    se^1 ).
+    Ne mažiau jų davė ir santykiai su Lenkija. Rytų Europos
+    tolimesniam vystymuisi yra laikoma labai stambiu įvykiu^12 , kad
+    Lietuvos valdovas tapo karaliumi kaimyninėje lenkų žemėje. Tai
+    reiškė pradžią visai naujos, beveik du amžiu (1386-1572) patveru­
+    sios Jogailaičių epochos, sekusios keliolika metų po paskutiniojo
+    Piasto Kazimiero Didžiojo mirties (1370).
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -73,22 +72,36 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Tą žemę Kazimieras III buvo atidavęs Vladislovui iš Opolės.'
+  santrauka: 'Šitą atsigręžimą lenkų istorikas Kocha­ novskis vadina nemirštama Kazimiero D.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Lenkijoj ėjo nuo seniau ginčas
-    dėl Dobrynės žemės. Tą žemę Kazimieras III buvo atidavęs
-    Vladislovui iš Opolės. Tas pats Vladislovas buvo paskirtas
-    Lenkų ir Vengrų karaliaus Liudviko valdyti Galiciją.
-  citata_rodoma: ""
+    Šitą atsigręžimą lenkų istorikas Kocha­
+    novskis vadina nemirštama Kazimiero D. politikos idėja, nes
+    ji parodžiusi Lenkijos istorijos raidai plačius horizontus rytuo­
+    se^1 ).
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
 - c-003
-  santrauka: '1325 m. Kazimiero Didžiojo ir Gedimino dukters Aldonos jungtuvės sutvirtino Vladislovo Lokietkos ir Lietuvos sutartį.'
+  santrauka: 'Tą žemę Kazimieras III buvo atidavęs Vladislovui iš Opolės.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tą žemę Kazimieras III buvo atidavęs
+    Vladislovui iš Opolės. Tas pats Vladislovas buvo paskirtas
+    Lenkų ir Vengrų karaliaus Liudviko valdyti Galiciją.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Jau tada bekovodamas su Ordinu Lenkų kara­ lius Vladislovas Łokietka sau tinkamu sąjungininku buvo nu­ žiūrėjęs Gedimino valdomą Lietuvą, ir tarp jų 1325 buvo pa­ daryta sutartis, kurią sutvirtino Gedimino dukters Aldonos ir Vladislovo sūnaus Kazimiero.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Jau tada bekovodamas su Ordinu Lenkų kara­
@@ -100,13 +113,13 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
     taika lenkų - Ordino ginčas kuriam laikui buvo išrištas. Už
     gautą Kujavų ir Dobrynės žemę Kazimieras didysis sutiko
     Pamarį palikti Ordinui^3 ).
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-003
+    - t-004
 
 ## Ryšiai
 ### Laikotarpiai

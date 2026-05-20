@@ -28,27 +28,23 @@ Tūkstančiai lietuvių važiavo uždarbiauti į Rygą, Peterburgą, Odesą, bet
 
 ## Teiginiai
 - t-001
-  teiginys: 'Odesos universiteto istorikas V. V. Antonovičius iš šaltinių tyrė senosios Lietuvos valstybės istoriją iki Gedimino mirties.'
+  teiginys: 'Tūkstančiai lietuvių važiavo uždarbiauti į Rygą, Peterburgą, Odesą, bet masiškiausia ekonominė emigracija nuo 1868 m. vyko į JAV.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Odesos universiteto istorikas V.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Odesos universiteto istorikas V. V. Antonovičius iš šaltinių tyrė senosios Lietuvos valstybės istoriją iki Gedimino mirties.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  santrauka: 'Tūkstančiai lietuvių važiavo uždarbiauti į Rygą, Peterburgą, Odesą, bet masiškiausia ekonominė emigracija nuo 1868 m. vyko į JAV.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Jeigu patys šaltiniai, daugumoje
-    paimti iš Vilniaus centrinio archyvo, buvo naudingi Lietuvos isto­
-    rijai, tai daugelis plačių įvadų 39-nių tomų rinkinio aktų buvo
-    diletantiški^133.
-    XIX amžiui einant į galą rusų universitetų istorikams vis
-    daugiau ėmė parupti išsiaišinnti, kas buvo anoji Lietuvos valstybė,
-    kuri nuo XIII amž. per du šimtus metų nepaliovė užimti plačius
-    rytų slavų plotus. Odesos universiteto istorikas V. V. Antono­
-    vičius iš šaltinių bandė tirti ir duoti senosios Lietuvos valsty­
-    bės istoriją iki Gedimino mirties (AnM, AnOč).
+    Tūkstančiai lietuvių važiavo uždarbiauti į Rygą, Peterburgą,
+    Odesą, bet masiškiausia ekonominė emigracija nuo 1868 m. vyko į JAV.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -56,6 +52,23 @@ Tūkstančiai lietuvių važiavo uždarbiauti į Rygą, Peterburgą, Odesą, bet
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Odesos universiteto istorikas V.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    XIX amžiui einant į galą rusų universitetų istorikams vis
+    daugiau ėmė parupti išsiaišinnti, kas buvo anoji Lietuvos valstybė,
+    kuri nuo XIII amž. per du šimtus metų nepaliovė užimti plačius
+    rytų slavų plotus. Odesos universiteto istorikas V. V. Antono­
+    vičius iš šaltinių bandė tirti ir duoti senosios Lietuvos valsty­
+    bės istoriją iki Gedimino mirties (AnM, AnOč).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Laikotarpiai

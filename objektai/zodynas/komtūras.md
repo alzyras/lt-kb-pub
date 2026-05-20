@@ -41,26 +41,43 @@ Komtūras šiame įraše žymi Ordino pareigūną ir srities ar pilies vadą. An
 
 ## Teiginiai
 - t-006
-  teiginys: '1346 m. balandį įsiveržę į Livoniją lietuviai sunaikino Mežuotnės pilį, nukovė komtūrą su keliais kitais broliais.'
+  teiginys: 'Ragainės komtūras buvo Vytauto krikštatėvis, kurio vardu Vytautas per krikštą gavo Vigando vardą.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-007
-  teiginys: 'Prie Strėvos žuvo daug Ordino brolių, tarp jų Gdansko komtūras ir Sembos vyskupo teisėjas.'
+  teiginys: '1346 m. balandį įsiveržę į Livoniją lietuviai sunaikino Mežuotnės pilį, nukovė komtūrą su keliais kitais broliais.'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 - t-008
-  teiginys: '1348 m. Ordino didysis komtūras Vinrichas iš Kniprodės dalyvavo mūšyje prie Strėvos.'
+  teiginys: 'Daug ordino brolių žuvo, tarp jų Gdansko komtūras, Sembos vyskupo teisėjas.'
   pagrindžia:
     - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+- t-009
+  teiginys: '„[1348 m. Ordino] maršalas brolis Zygfridas iš Da[he]nfeldo ir didysis komtūras brolis Vinrichas iš Kniprodės dalyvavo mūšyje prie Strėvos, narsiai kaudamiesi.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
+  santrauka: 'Ragainės komtūras buvo Vytauto krikštatėvis, kurio vardu Vytautas per krikštą gavo Vigando vardą.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Grįždamas iš šito žygio, Kryžiuočių Ordinas 1383 metų
+    spalių mėn. 21 d. Tapiau miestelyje Vytautą be jokių iškilmių
+    pakrikštijo. Tai įvyko tuo pačiu laiku, kai Trakuose palikusi
+    jų įgula be vilties kovojo su gausiu priešu. Krikšte Vytautui
+    buvo duotas Vigando vardas. Tuo pat vardu buvo ir jo krikš­
+    tatėvis, Ragainės komtūras.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-006
+- c-002
   santrauka: '1346 m. balandį įsiveržę į Livoniją lietuviai sunaikino Mežuotnės pilį, nukovė komtūrą su keliais kitais broliais.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -70,52 +87,45 @@ Komtūras šiame įraše žymi Ordino pareigūną ir srities ar pilies vadą. An
     magistras ruošėsi įsiveržti su kryžininkais
     anglais, prancūzais - bet žygio neįvykdė,
     juos sutelkė Įsrutyje gynybai nuo lietuvių.
-  citata_rodoma: ""
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-006
-- c-002
-  santrauka: 'Prie Strėvos žuvo daug Ordino brolių, tarp jų Gdansko komtūras ir Sembos vyskupo teisėjas.'
+    - t-007
+- c-003
+  santrauka: 'Daug ordino brolių žuvo, tarp jų Gdansko komtūras, Sembos vyskupo teisėjas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Mūšyje, pirmiausia jo pradžioje, kaip pa-
-    žymi kronikininkas Vygandas, lietuviai
-    priešą atakavo svaidomosiomis ietimis, o
-    Lietuvos kariai rusai šaudydami iš lankų.
     Daug ordino brolių žuvo, tarp jų Gdan-
     sko komtūras, Sembos vyskupo teisėjas.
     Kronikininko Vygando liudijimu, kry-
     žiuočių spaudžiami lietuviai traukėsi per
     Strėvos upę ir daug jų krito (Ordino kro-
     nikos rodo fantastiškus skaičius: 10, 18 ir
-    pan. tūkstančių, tuo tarpu kryžiuočių -
-    8 broliai ir 42 gerieji vyrai - Vartbergė).
-  citata_rodoma: ""
+    pan.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-007
-- c-003
-  santrauka: '1348 m. Ordino didysis komtūras Vinrichas iš Kniprodės dalyvavo mūšyje prie Strėvos.'
+    - t-008
+- c-004
+  santrauka: '„[1348 m. Ordino] maršalas brolis Zygfridas iš Da[he]nfeldo ir didysis komtūras brolis Vinrichas iš Kniprodės dalyvavo mūšyje prie Strėvos, narsiai kaudamiesi.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     „[1348 m. Ordino] maršalas brolis Zygfridas iš Da[he]nfeldo ir didysis komtūras brolis
     Vinrichas iš Kniprodės dalyvavo mūšyje prie Strėvos, narsiai kaudamiesi. Dieną prieš
-    [Šventojo] Pauliaus Atsivertimo šventę [sausio 24 d.] jie įėjo į [stabmeldžių] žemę, kur
-    pagal maršalo įsakymą abiejų lyčių stabmeldžiai - jauni ir seni - buvo žudomi, o kraš-
-    tas ugnimi išdegintas.
-  citata_rodoma: ""
+    [Šventojo] Pauliaus Atsivertimo šventę [sausio 24 d.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-008
+    - t-009
 
 ## Ryšiai
 ### Teminiai klasteriai
