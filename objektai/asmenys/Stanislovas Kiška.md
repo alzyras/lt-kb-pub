@@ -1,0 +1,65 @@
+---
+tipas: asmuo
+pavadinimas: 'Stanislovas Kiška'
+sukurta: '2026-05-20'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+datos:
+  - '1502 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVI'
+date_start: '1502'
+date_end: ''
+patikimumas: 'vidutinis'
+tags:
+  - asmuo
+  - karvedys
+  - transportas
+---
+# Stanislovas Kiška
+
+## Santrauka
+
+Stanislovas Kiška nebuvo labai gabus karvedys, bet jau turėjo tam tikros patirties kovose su totoriais ir maskvėnais (po to, kai 1502 m. jam pavyko apginti Smolenską nuo maskvėnų, jam buvo patikėtos etmono pareigos). Rugpjūčio 5 d. paryčiais žygio vargai etmoną Stanislovą Kišką išvertė iš kojų.
+
+## Teiginiai
+- t-001
+  teiginys: 'Rugpjūčio 5 d. paryčiais etmonas Stanislovas Kiška dėl žygio vargų nebegalėjo vadovauti ir pageidavo toliau važiuoti vežimu.'
+  pagrindžia:
+    - c-001
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Rugpjūčio 5 d. paryčiais etmonas Stanislovas Kiška dėl žygio vargų nebegalėjo vadovauti ir pageidavo toliau važiuoti vežimu.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Toks
+    žygio tempas tais laikais buvo maksimali
+    ištvermingumo riba. Rugpjūčio 5 d. pary-
+    čiais žygio vargai etmoną Stanislovą Kišką
+    išvertė iš kojų. Jis pageidavo toliau važiuoti
+    vežimu, bet kampanijoje dalyvavę Lietuvos
+    ponai apsisprendė visą vadovavimą patikėti
+    Mykolui Glinskiui.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+
+## Ryšiai
+### Teminiai klasteriai
+- [[temos/karvedys]]
+- [[temos/transportas]]
+
+### Laikotarpiai
+- [[laikotarpiai/XVI amžius]]

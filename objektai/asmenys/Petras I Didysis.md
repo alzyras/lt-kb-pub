@@ -7,6 +7,18 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1936 m.'
+  - '1978 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1936'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -20,28 +32,26 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
 
 ## Teiginiai
 - t-001
-  teiginys: 'Petras I Didysis iš Peterburgo įvedė Rusijos imperiją į Europos areną, o jo epocha reiškė Respublikos patekimą Rusijos įtakon.'
+  teiginys: 'Augustas II susitarė su Rusijos valdovu Petru I dėl jo paramos prieš Švediją.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: '1721 m. Petras I Didysis paskelbė Rusiją imperija.'
-  pagrindžia:
-    - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Petras I Didysis iš Peterburgo įvedė Rusijos imperiją į Europos areną, o jo epocha reiškė Respublikos patekimą Rusijos įtakon.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  santrauka: 'Augustas II susitarė su Rusijos valdovu Petru I dėl jo paramos prieš Švediją.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Tačiau epocha caro Petro Didžiojo,
-    kuris iš naujos sostinės (Petersburgo) tvirtu žingsniu įvedė savo
-    imperiją į Europos areną, reiškė bajorų respublikai patekimą Ru­
-    sijos įtakon. Iš šios sferos Lietuva-Lenkija nebepajėgė išsilaisvinti
-    iki pat padalinimų.
+    Todėl Augustas 11 nusprendė
+    išvyti iš Livonijos švedus ir ją užvaldyti.
+    Augustas II susitarė su Rusijos valdovu
+    Petru I dél jo paramos prieš Švediją. Augus-
+    tas II pripažino Prūsijos kunigaikštystės
+    “(kartu su Brandenburgu) statuso pakélima
+    _, į karalystės lygmenį, mainais į Prūsijos-
+    „ Brandenburgo įsipareigojimą per savo te-
+    ritoriją nepraleisti švedų kariuomenės.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -49,22 +59,12 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: '1721 m. Petras I Didysis paskelbė Rusiją imperija.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Dar labiau tas pavojus Lietuvai ir Lenkijai išaugo XVIII amž.
-    pradžioje Petro I-jo Didžiojo asmenyje, kuris 1721 Rusiją paskelbė
-    imperija.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
 ### Susiję objektai
 - [[objektai/asmenys/Augustas II]]
 - [[objektai/vietos/Petrapilis]]

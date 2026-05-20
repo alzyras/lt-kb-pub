@@ -63,13 +63,13 @@ Nenurodyta
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-006
-  teiginys: 'Po mūšio Vasilijus III pasitraukė iš Smolensko, o Lietuvai vėl atiteko kelios pilys.'
+  teiginys: 'Po Oršos mūšio Vasilijus III pasitraukė iš Smolensko, o Lietuvai vėl atiteko Mstislavlio, Dubrovnos ir Kryčevo pilys.'
   pagrindžia:
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-007
-  teiginys: 'Po Oršos mūšio propagandos kampanija leido Žygimantui spręsti tarptautinius klausimus ir siųsti žymesnius belaisvius į Europos valdovų dvarus.'
+  teiginys: 'Po Oršos mūšio propagandos kampanija padėjo Žygimantui spręsti tarptautinius klausimus, o žymesni belaisviai buvo siunčiami į Europos valdovų dvarus.'
   pagrindžia:
     - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -96,7 +96,7 @@ Nenurodyta
   pagrindžia:
     - t-005
 - c-002
-  santrauka: 'Po mūšio Vasilijus III pasitraukė iš Smolensko, o Lietuvai vėl atiteko kelios pilys.'
+  santrauka: 'Po Oršos mūšio Vasilijus III pasitraukė iš Smolensko, o Lietuvai vėl atiteko Mstislavlio, Dubrovnos ir Kryčevo pilys.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Po mūšio pasikeitė karo eiga.
@@ -114,7 +114,7 @@ Nenurodyta
   pagrindžia:
     - t-006
 - c-003
-  santrauka: 'Po Oršos mūšio propagandos kampanija leido Žygimantui spręsti tarptautinius klausimus ir siųsti žymesnius belaisvius į Europos valdovų dvarus.'
+  santrauka: 'Po Oršos mūšio propagandos kampanija padėjo Žygimantui spręsti tarptautinius klausimus, o žymesni belaisviai buvo siunčiami į Europos valdovų dvarus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Propagandos kampanija po mūšio leido
@@ -140,4 +140,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Konstantinas Ostrogiškis]]
 - [[objektai/posakiai/Antemurale Christianitatis]]
-- [[objektai/paprociai/Triumfo iškilmės su belaisvių eisena ir trofėjinėmis vėliavomis Vilniuje]]
+- [[objektai/autoriai/Mykolas Lietuvis]]
+- [[objektai/ivykiai/Oršos mūšis (1514 m. rugsėjo 8 d.)]]
+- [[objektai/asmenys/Vasilijus III]]

@@ -31,7 +31,11 @@ Jo nevykusiai padaryta bažnytinė unija sukiršino rytų apeigų tikinčiuosius
   santrauka: 'Bažnytinė unija sukiršino rytų apeigų unitus ir pravoslavus ir paruošė dirvą Maskvos įsikišimui.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Jo nevy-
+    Kaip tik Zigmanto laikais tiek Lenkijoje, tiek Lietuvoje įsi-
+    galėjo vėliau dar labiau įsivyravusi vidaus netvarka. Didžiū-
+    nams bekovojant su užsispyrėliu karalium ir tarpusavy, įsiga-
+    lėjo vadinamoji „aukso laisvė": kas tik buvo galin-
+    gas, galėjo nieko neklausyti ir elgtis kaip tinkamas. Jo nevy-
     kusiai padaryta bažnytinė unija sukiršino rytų apeigų tikinčiuo-
     sius (unitus su pravoslavais) ir paruošė dirvą vėlesnėms aud-
     roms ir Maskvos įsikišimui.

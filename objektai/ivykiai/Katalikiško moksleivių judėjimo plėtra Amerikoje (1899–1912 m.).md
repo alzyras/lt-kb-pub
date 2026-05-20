@@ -42,7 +42,10 @@ Nenurodyta
   santrauka: '1912 m. federacija Čikagoje sušaukė pirmąjį lietuvių moksleivių suvažiavimą ir įkūrė Amerikos lietuvių Romos katalikų moksleivių susivienijimą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    1912 m. F-ja sušaukė Čikagoje pirmąjį
+    Taip antai, Federacijos
+    įkurta (1899 m.) „Motinėlė", kuri, jos remiama, šelpia lie-
+    tuvius moksleivius ir duoda stipendijas 100-ui studentų Amerikos
+    ir Europos universitetuose. 1912 m. F-ja sušaukė Čikagoje pirmąjį
     lietuvių moksleivių suvažiavimą ir įkūrė Amerikos Lietu-
     vių R. Katalikų Moksleivių Susivienijimą (to
     Susivienijimo nariai, nuo savo organo „Giedros", buvo vadi-

@@ -59,7 +59,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-008
-  teiginys: '1919 m. vasario 7-10 d. vyko Kėdainių-Šėtos kautynės; Kėdainių gynybai vadovavo J. Mikoliūnas ir K. Dragunevičius, surinkę apie 80 savanorių; bolševikai puolė Kėdainius, paleido apie 170 artilerijos sviedinių, bet gynėjai atlaikė puolimą.'
+  teiginys: 'Kėdainių gynybai vadovavę J. Mikoliūnas ir K. Dragunevičius apie 80 savanorių šautuvų ugnimi sustabdė bolševikų puolimą.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -71,13 +71,13 @@ Nenurodyta
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-010
-  teiginys: '1919 m. vasario 8 d. Kėdainių gynėjai suorganizavo 17 žmonių žvalgybos patrulį, kuriam vadovavo V. Vainauskas, o jo padėjėju buvo P. Lukšys.'
+  teiginys: 'Vasario 8-osios rytą Kėdainių gynėjai sudarė 17 žmonių žvalgybos patrulį, kuriam vadovavo V. Vainauskas, o padėjėju paskirtas P. Lukšys.'
   pagrindžia:
     - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-011
-  teiginys: 'Žvalgų grupę prie Taučiūnų užklupo bolševikų ugnis; lietuviai išsidėstė į grandį ir atidengė atsakomąją ugnį.'
+  teiginys: 'Prie Taučiūnų kaimo bolševikų kuopos ugnies užklupti žvalgai Lukšio paraginti išsiskleidė į grandį ir atidengė atsakomąją ugnį.'
   pagrindžia:
     - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -89,7 +89,7 @@ Nenurodyta
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-013
-  teiginys: 'P. Lukšys žuvo iš Taučiūnų dvaro paleistos ugnies; žvalgai atsitraukė.'
+  teiginys: 'P. Lukšys žuvo, kai į žvalgus pasipylė ugnis iš Taučiūnų dvaro, o žvalgai atsitraukė.'
   pagrindžia:
     - c-006
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -103,7 +103,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1919 m. vasario 7-10 d. vyko Kėdainių-Šėtos kautynės; Kėdainių gynybai vadovavo J. Mikoliūnas ir K. Dragunevičius, surinkę apie 80 savanorių; bolševikai puolė Kėdainius, paleido apie 170 artilerijos sviedinių, bet gynėjai atlaikė puolimą.'
+  santrauka: 'Kėdainių gynybai vadovavę J. Mikoliūnas ir K. Dragunevičius apie 80 savanorių šautuvų ugnimi sustabdė bolševikų puolimą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kėdainių gynyba Karininkai J. Mikoliūnas ir
@@ -148,7 +148,7 @@ Nenurodyta
   pagrindžia:
     - t-009
 - c-003
-  santrauka: '1919 m. vasario 8 d. Kėdainių gynėjai suorganizavo 17 žmonių žvalgybos patrulį, kuriam vadovavo V. Vainauskas, o jo padėjėju buvo P. Lukšys.'
+  santrauka: 'Vasario 8-osios rytą Kėdainių gynėjai sudarė 17 žmonių žvalgybos patrulį, kuriam vadovavo V. Vainauskas, o padėjėju paskirtas P. Lukšys.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Naktį iš vasario 7 į 8 d. Kėdainių gynėjų
@@ -171,7 +171,7 @@ Nenurodyta
   pagrindžia:
     - t-010
 - c-004
-  santrauka: 'Žvalgų grupę prie Taučiūnų užklupo bolševikų ugnis; lietuviai išsidėstė į grandį ir atidengė atsakomąją ugnį.'
+  santrauka: 'Prie Taučiūnų kaimo bolševikų kuopos ugnies užklupti žvalgai Lukšio paraginti išsiskleidė į grandį ir atidengė atsakomąją ugnį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Važiuojant pro Taučiūnų kaimą,
@@ -215,7 +215,7 @@ Nenurodyta
   pagrindžia:
     - t-012
 - c-006
-  santrauka: 'P. Lukšys žuvo iš Taučiūnų dvaro paleistos ugnies; žvalgai atsitraukė.'
+  santrauka: 'P. Lukšys žuvo, kai į žvalgus pasipylė ugnis iš Taučiūnų dvaro, o žvalgai atsitraukė.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tačiau kitą akimirką į žval-
@@ -255,3 +255,8 @@ Nenurodyta
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
+
+### Susiję objektai
+- [[objektai/grupes/Kėdainių įgula]]
+- [[objektai/ivykiai/Kėdainių-Šėtos kautynės]]
+- [[objektai/asmenys/Povilas Lukšys]]

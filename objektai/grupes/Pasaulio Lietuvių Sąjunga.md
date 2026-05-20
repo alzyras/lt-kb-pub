@@ -42,4 +42,4 @@ Pirmojo pasaulio lietuvių kongreso prezidiumas.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Pirmojo pasaulio lietuvių kongreso prezidiumas]]
+- [[objektai/ivykiai/Pirmasis pasaulio lietuvių kongresas (1935 m.)]]

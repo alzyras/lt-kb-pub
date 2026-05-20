@@ -53,13 +53,13 @@ Nenurodyta
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-005
-  teiginys: '1812 m. Poška iš tuščiavidurio ąžuolo padarė tris trobeles, kuriose buvo įtaisyti muziejėliai.'
+  teiginys: '1812 m. D. Poška iš tuščiavidurio ąžuolo padarė tris trobeles, kuriose buvo įtaisyti muziejėliai.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-006
-  teiginys: 'D. Poškos iš tuščiavidurio ąžuolo padarytos trobelės tebestovėjo Bijotuose, paliai Skaudvilę.'
+  teiginys: 'D. Poškos iš tuščiavidurio ąžuolo padarytos trobelės tebestovėjo Bijotuose prie Skaudvilės.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -70,6 +70,11 @@ Nenurodyta
   santrauka: 'D. Poška savo Baublyje įtaisė senienų muziejų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Kad nebūtų darkoma
+    žemaičių kalba, bajorai ir ku-
+    nigai pradėjo spausdinti nau-
+    jų maldaknygių, giesmynų ir
+    elementorių.
     Be to, buvo renkamos se-
     nienos ir seni istoriniai doku-
     mentai, o D. Poška savo
@@ -84,13 +89,19 @@ Nenurodyta
   pagrindžia:
     - t-004
 - c-002
-  santrauka: '1812 m. Poška iš tuščiavidurio ąžuolo padarė tris trobeles, kuriose buvo įtaisyti muziejėliai.'
+  santrauka: '1812 m. D. Poška iš tuščiavidurio ąžuolo padarė tris trobeles, kuriose buvo įtaisyti muziejėliai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Visi to sąjūdžio bajorai, kad ir mylėjo savo kraštą, kad ir
+    rūpinosi lietuviškosios kalbos grynumu, tačiau neskelbė jokių —
+    D. Poškos Baublys.
     1812 m. Poška iš tuščiavidurio ąžuolo
     padarė 3 trobeles, kuriose buvo įtaisyti
     muziejėliai; Bijotuose, paliai Skaud-
     vilę, jos dar tebestovi.
+    nei socialinių nei tautinių — idėjų, nes lietuviškasis elementas dar
+    nebuvo tiek susipratęs, kad galėtų veržtis iš nusistojusios
+    santvarkos formų.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

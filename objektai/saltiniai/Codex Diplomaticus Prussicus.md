@@ -8,17 +8,29 @@ aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 laikotarpis: '1299-1404; 1848-1861 m.'
-datos:
-  - '1299-1404'
-  - '1848-1861 m.'
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1299 m.'
+  - '1404 m.'
+  - '1836 m.'
+  - '1848 m.'
+  - '1861 m.'
+  - '1978 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+  - 'naujieji laikai'
+amziai:
+  - 'XIII'
+  - 'XV'
+  - 'XIX'
+  - 'XX'
+  - 'XXI'
+date_start: '1299'
+date_end: '2026'
 patikimumas: ''
 tags: []
 ---
@@ -30,19 +42,19 @@ tags: []
 
 ## Teiginiai
 - t-001
-  teiginys: '„Codex Diplomaticus Prussicus“ 3-6 tomus, apimančius 1299-1404 m., J. Voigtas išleido Karaliaučiuje 1848-1861 m.'
+  teiginys: 'Pirmasis Codex Diplomaticus Prussicus tomas išleistas Karaliaučiuje 1836 m.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: '„Codex Diplomaticus Prussicus“ 3-6 tomus, apimančius 1299-1404 m., J. Voigtas išleido Karaliaučiuje 1848-1861 m.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  santrauka: 'Pirmasis Codex Diplomaticus Prussicus tomas išleistas Karaliaučiuje 1836 m.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    CDPr = Codex Diplomaticus Prussicus, išl. J. Voigt, t. 3-6 (1299-
-    1404), Karaliaučius 1848-1861.
+    C. D. Prus. = Codex Diplomaticus Prussicus. I B., Koenigsberg,
+    1836.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -50,3 +62,5 @@ tags: []
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Reikšmingi paminėjimai

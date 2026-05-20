@@ -39,7 +39,7 @@ Nenurodyta
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Padalinamasis seimas konstitucijomis didikams, pasidarbavusiems rusams, skyrė milžiniškas pinigų sumas.'
+  teiginys: 'Padalinamasis seimas konstitucijomis skyrė milžiniškas pinigų sumas didikams, pasidarbavusiems rusams.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -50,6 +50,15 @@ Nenurodyta
   santrauka: 'Per 1773–1775 m. padalinamąjį seimą buvo sunaikintos valstybės pajamos, išgrobsčius daugumą valstybės dvarų ir iždo pinigus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Pagaliau jis vėl buvo suardytas per vidaus karus,
+    konfederacijas ir rusų kariuomenės nuolatinį lankymąsi Stanis-
+    lovo Augusto valdymo pirmoje pusėje. Tuo metu pirmiausia
+    kraštą naikino tarpuvaldžio kovos, vėliau — Radomo konfedera-
+    cijos metu, — savo priešus persekiojanti rusų kariuomenė; pa-
+    galiau visas kraštas buvo nuteriotas Baro konfederacijos metu:
+    tada viską plėšė ir naikino ne tik būriai konfederatų ir rusų
+    kariuomenė, bet ir daugybė plėšikų gaujų (jos dažnai dėjosi
+    kovojančiais konfederatais, bet iš tikro teužsiėmė tik plėšimais).
     Valstybės pajamos per 1773—1775 m. padalinamąjį seimą,
     kai krašte šeimininkavo visoki rusų parsidavėliai, taip pat buvo
     visiškai sunaikintos: daugumas valstybės dvarų buvo jų iš-
@@ -63,10 +72,21 @@ Nenurodyta
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Padalinamasis seimas konstitucijomis didikams, pasidarbavusiems rusams, skyrė milžiniškas pinigų sumas.'
+  santrauka: 'Padalinamasis seimas konstitucijomis skyrė milžiniškas pinigų sumas didikams, pasidarbavusiems rusams.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Seimas priėmė eilę konstitucijų, kuriomis
+    Tuo metu pirmiausia
+    kraštą naikino tarpuvaldžio kovos, vėliau — Radomo konfedera-
+    cijos metu, — savo priešus persekiojanti rusų kariuomenė; pa-
+    galiau visas kraštas buvo nuteriotas Baro konfederacijos metu:
+    tada viską plėšė ir naikino ne tik būriai konfederatų ir rusų
+    kariuomenė, bet ir daugybė plėšikų gaujų (jos dažnai dėjosi
+    kovojančiais konfederatais, bet iš tikro teužsiėmė tik plėšimais).
+    Valstybės pajamos per 1773—1775 m. padalinamąjį seimą,
+    kai krašte šeimininkavo visoki rusų parsidavėliai, taip pat buvo
+    visiškai sunaikintos: daugumas valstybės dvarų buvo jų iš-
+    grobstyta (seimas tą patvirtino), be to, jie išgrobstė ir visus
+    ižde buvusius pinigus. Seimas priėmė eilę konstitucijų, kuriomis
     Rusams pasidarbavę didikai „už nuopelnus kraštui" buvo
     apdovanoti milžiniškomis sumomis pinigų.
   citata_rodoma: ""

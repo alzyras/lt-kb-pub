@@ -31,7 +31,9 @@ Jų tarpe buvo vienas kitas senųjų prūsų bajoras, pasidavęs ordinui ir jam 
   santrauka: 'Vitingais buvo vadinami senųjų prūsų bajorai, pasidavę ordinui ir jam tarnavę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Jų tarpe
+    Kitas aukštesnysis luo-
+    mas buvo atėjūnai vokiečiai bajorai, kurie čia gavo
+    dvarų ir kurių pareiga buvo padėti ordinui kariauti. Jų tarpe
     buvo vienas kitas senųjų prūsų bajoras, pasidavęs ordinui ir jam
     tarnavęs (jie buvo vadinami vitingais). Ir iš jų, kaip ir iš atsi-
     krausčiusių vokiečių riterių, kai kurie įstodavo į ordiną.

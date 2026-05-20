@@ -6,6 +6,17 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1936'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - vieta
@@ -17,5 +28,31 @@ tags:
 Jis tai atliko per lenkų Gniezno arkivyskupą.
 
 ## Teiginiai
+- t-001
+  teiginys: 'Gniezno arkivyskupas Mikalojus buvo įtrauktas į Lietuvos ir Lenkijos vyskupų delegaciją į Konstanciją.'
+  pagrindžia:
+    - c-001
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Gniezno arkivyskupas Mikalojus buvo įtrauktas į Lietuvos ir Lenkijos vyskupų delegaciją į Konstanciją.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tais reikalais 1415 m. į Konstanciją buvo išsiųsta Lietuvos
+    ir Lenkijos vyskupų delegacija, susidedanti iš Vilniaus vysku­
+    po Petro, Lvovo arkivysk. Jono, Gniezno arkivysk. Mikalojaus
+    ir Breslavo vysk. Jono.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

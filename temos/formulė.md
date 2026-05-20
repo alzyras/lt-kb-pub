@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 9.
+Objektų skaičius: 6.
 
 ## Kaip naudoti
 
@@ -19,12 +19,11 @@ Objektų skaičius: 9.
 ## Susiję objektai
 
 ### Posakiai
-- [[objektai/posakiai/Aš, Viešpatie, Algirdo nebeatmenu...]]
 - [[objektai/posakiai/Didelėj garbėj ir šlovėj gyveno garsus valdytojas Vytautas]]
-- [[objektai/posakiai/Kol jis gyvas busiąs, o taip pat ir jo įpėdiniai, niekada nuo tų žemių neatsisakysią]]
 - [[objektai/posakiai/Ne bičiulystės, o teisybės]]
-- [[objektai/posakiai/Senos ir tikros Žemaičių sienos]]
-- [[objektai/posakiai/Taikos labui]]
-- [[objektai/posakiai/Visišką ordino sunaikinimą]]
+- [[objektai/posakiai/ne koks „Storasta“ ar Jogailos vietininkas, bet faktiškasis Lietuvos valdytojas]]
 - [[objektai/posakiai/Viskas yra viena, viena žemė ir tie patys žmonės]]
 - [[objektai/posakiai/„gente polonus, natione lituanus“]]
+
+### Žodynas
+- [[objektai/zodynas/suverenas]]

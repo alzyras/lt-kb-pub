@@ -43,6 +43,10 @@ Nenurodyta
   santrauka: '1921 m. rugsėjo 22 d. Lietuva buvo priimta į Tautų Sąjungą ir įėjo lygiomis teisėmis į pasaulio valstybių draugiją.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Visuotinis T. S-gos susirinkimas, be
+    to, nusprendė būsimąjį Pabaltijo valstybių priėmimą į T. S-gą
+    suvaržyti pasižadėjimais saugoti mažumų teises, kaip tat buvo
+    padaryta tam tikrose sutartyse su Lenkija, Čekoslovakija ir t.t.
     Kitame visuotiniame Tautų Sąjungos susirinkime (1921 m.)
     visų trijų Pabaltijo valstybių priėmimo klausimas buvo teigiamai
     išspręstas, tačiau ne be sunkenybių Lietuvai. Tuo metu didžio-

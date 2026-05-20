@@ -6,6 +6,17 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1936'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - kraštas
@@ -20,21 +31,28 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Ordinui buvo paliktas kairysis Šešupės krantas.'
+  teiginys: 'Sienos buvo pravestos Leipūnos ir Širvintos upėmis iki Šešupės, o nuo jos tiesiai į Nemuną prie Smalininkų.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Ordinui buvo paliktas kairysis Šešupės krantas.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: 'Sienos buvo pravestos Leipūnos ir Širvintos upėmis iki Šešupės, o nuo jos tiesiai į Nemuną prie Smalininkų.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Ja Vytautas sutiko už-
-    leisti ordinui Žemaičius iki pat Nevėžio; ordinui, be to, buvo pa-
-    likta šiaurinė Suvalkų krašto dalis (anapus linijos, einančios nuo
-    Salyno tiesiog į Šešupę, ir kairysis Šešupės krantas).
+    Lenkija gavo Niešavo žemę su
+    keliais sodžiais ir viena pilimi, o Lietuva — Žemaitiją ir Sūda­
+    viją su Vytauto nustatytomis ribomis. Jos buvo pravestos nuo
+    Mozūrijos sienos upe aukštyn į Grajevo ir Ragordo ežerus, iš
+    čia pro Vištyčio ežerą į Leipūnos upę, toliau Leipūnos ir Šir­
+    vintos upėmis iki Šešupės ir nuo jos tiesiai į Nemuną prie Sma­
+    lininkų; iš čia — į Palangą, paliekant Ordinui dviejų mylių
+    pakraštį prie Nemuno ir trijų mylių pakraštį prie Jūros. Tuo
+    būdu Klaipėda buvo palikta Ordinui, o Palanga — Lietuvai; ji
+    skyrė Vokiečių ir Livonijos Ordinų žemes, kas apsaugojo Lie­
+    tuvą nuo didesnės vokiečių įtakos1 2).
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -44,5 +62,6 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Nevėžis]]
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

@@ -44,7 +44,7 @@ tags:
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-004
-  teiginys: 'Ši gynybinė nuostata siejama su Sausio 13-osios kulminacija.'
+  teiginys: '„Nepuolam, bet nesitraukiam“ buvo gynybinė nesmurtinio pasipriešinimo nuostata, pasiekusi kulminaciją sovietų puolimo akivaizdoje.'
   pagrindžia:
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -67,7 +67,7 @@ tags:
   pagrindžia:
     - t-003
 - c-002
-  santrauka: 'Ši gynybinė nuostata siejama su Sausio 13-osios kulminacija.'
+  santrauka: '„Nepuolam, bet nesitraukiam“ buvo gynybinė nesmurtinio pasipriešinimo nuostata, pasiekusi kulminaciją sovietų puolimo akivaizdoje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Sudarėme savo Laikinąją

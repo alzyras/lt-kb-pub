@@ -32,7 +32,12 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
   santrauka: 'Šliūpo rūpesčiu įsteigta Lietuvių Mokslo Draugystė leido mėnesinį literatūros ir mokslo žurnalą „Apšvieta“ ir išleido kelias knygas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tada Šliūpo rūpesčiu buvo įsteig-
+    Greta tų laikraščių, buvo leidžiama ir lietuviškų knygų, ta-
+    čiau jų vertė buvo labai menka. Tai buvo visokios naivios isto-
+    rijos, plėšikų nuotykiai, sapnininkai ir t.t. Rimtesnių ir tikrai
+    vertingų raštų atsirado tik tada, kai į Ameriką atvyko daugiau
+    inteligentų ir kai, Šliūpui su kun. Burba vadovaujant, buvo
+    galutinai atsiskirta nuo lenkų. Tada Šliūpo rūpesčiu buvo įsteig-
     ta Lietuvių Mokslo Draugystė, kuri leido mėnesinį
     literatūros ir mokslo žurnalą „Apšvietą" ir išleido keletą
     knygų.
@@ -47,7 +52,9 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
   santrauka: 'Šliūpo rūpesčiu įsteigta Lietuvių Mokslo Draugystė leido mėnesinį literatūros ir mokslo žurnalą „Apšvieta“ ir išleido kelias knygas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    D. karo metu dalis tų pinigų žuvo iš Vilniaus iš-
+    1913 m. į Ameriką atvyko dr. J. Basanavičius ir M.
+    Yčas, kurie surinko apie 25.000 dolerių Tautos Namams Vil-
+    niuje statyti. D. karo metu dalis tų pinigų žuvo iš Vilniaus iš-
     vežtuose bankuose, o iš kitos dalies 1915—1922 m. Lietuvių
     Mokslo Draugija leido tik ką įsikūrusioms lietuviškoms mo-
     kykloms vadovėlius.

@@ -73,3 +73,7 @@ Abi formos pateikiamos kaip senasis prekybos žodynas, susietas su pirklių veik
 ## Šaltiniai ir įrodymai
 
 ## Pastabos
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/vaisba vaisbūnas]]

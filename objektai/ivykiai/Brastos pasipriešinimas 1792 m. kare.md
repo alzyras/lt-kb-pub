@@ -78,4 +78,3 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Juzefas Poniatovskis]]
-- [[objektai/asmenys/Stanislovas Augustas Poniatovskis]]

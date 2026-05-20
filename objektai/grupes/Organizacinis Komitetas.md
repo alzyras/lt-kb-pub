@@ -37,6 +37,8 @@ Susirinkimas, pasivadinęs Organizaciniu Komitetu, nenorėjo pertraukti savo pol
     P. Klimas) po to išsirūpino leidimą sušaukti platesnei konferen-
     cijai. Iš Organizacinio Komiteto pateiktų kandidatų, kurie pri-
     klausė įvairioms politinėms pakraipoms ir luomams, biuras su-
+
+
     darė konferencijos atstovų sąrašą, — maždaug po 5—8 atstovus
     iš kiekvienos apskrities (šių buvo tuomet sudaryta 33).
   citata_rodoma: ""

@@ -6,14 +6,23 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
+datos:
+  - '1350 m.'
+  - '1430 m.'
+  - '1930 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+  - 'XV'
+  - 'XX'
+  - 'XXI'
+date_start: '1350'
+date_end: '2026'
 bukle: juodrastis
 laikotarpis: ''
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
@@ -32,15 +41,21 @@ Vytautui priskiriama vertinimo formulė iškelia tiesakalbiškumą aukščiau u�
 
 ## Teiginiai
 - t-002
-  teiginys: 'Formulė pateikiama kaip trumpas Vytauto vertinimas, kad tiesakalbiškumas vertingesnis už iškalbingumą.'
+  teiginys: 'Vytautas, išgirdęs giriamą iškalbingą kunigaikštį, trumpai tarė, kad jam patinka mažiau iškalbingas, bet tiesakalbis žmogus.'
   pagrindžia:
     - c-001
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-003
+  teiginys: 'Vytautas, išgirdęs giriamą iškalbingą kunigaikštį, trumpai tarė, kad jam patinka mažiau iškalbingas, bet tiesakalbis žmogus.'
+  pagrindžia:
+    - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Formulė pateikiama kaip trumpas Vytauto vertinimas, kad tiesakalbiškumas vertingesnis už iškalbingumą.'
+  santrauka: 'Vytautas, išgirdęs giriamą iškalbingą kunigaikštį, trumpai tarė, kad jam patinka mažiau iškalbingas, bet tiesakalbis žmogus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kalboje buvo trumpas ir šykštus, bet žinodamas reikalus,
@@ -54,7 +69,7 @@ Vytautui priskiriama vertinimo formulė iškelia tiesakalbiškumą aukščiau u�
     galima ir laukinius žvėris sušvelninti. O kai vėl kartą jo akyse
     kažkas gyrė vieną iškalbingą kunigaikštį, Vytautas trumpai ta­
     rė, kad jam patinkąs mažiau iškalbingas, bet užtatai tiesa­
-    kalbis
+    kalbis.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -62,10 +77,37 @@ Vytautui priskiriama vertinimo formulė iškelia tiesakalbiškumą aukščiau u�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-002
+  santrauka: 'Vytautas, išgirdęs giriamą iškalbingą kunigaikštį, trumpai tarė, kad jam patinka mažiau iškalbingas, bet tiesakalbis žmogus.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Kai
+    kartą jam kažkas priminė jo didelį duosnumą dalinant toto­
+    riams žemes Lietuvoje ir Rusijoj, Vytautas atsakęs, kad gerumu
+    galima ir laukinius žvėris sušvelninti. O kai vėl kartą jo akyse
+    kažkas gyrė vieną iškalbingą kunigaikštį, Vytautas trumpai ta­
+    rė, kad jam patinkąs mažiau iškalbingas, bet užtatai tiesa­
+    kalbis.
+    Istoriniai reikšmingas Vytauto veikimas prasideda Kęstu­
+    čio kovos metu su Jogaila.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/frazė]]
 
+### Laikotarpiai
+- [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
 ### Susiję objektai
 - [[objektai/posakiai/jam patinkąs mažiau iškalbingas, bet užtatai tiesakalbis]]
+- [[objektai/posakiai/„jam patinkąs mažiau iškalbingas, bet užtatai tiesakalbis.“]]

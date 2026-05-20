@@ -42,7 +42,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-002
-  teiginys: 'Panedėly daug kas vengia leistis į tolimą kelionę arba dirbti sunkų darbą, nes tą dieną laiko grėsminga ir ją pridengia kaip karaliaus dienos šventimą.'
+  teiginys: 'Daug lietuvių panedėly vengė tolimos kelionės ar sunkaus darbo, nes šią dieną laikė grieku ir dangstė karaliaus dienos šventimu.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
@@ -50,16 +50,16 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Panedėly daug kas vengia leistis į tolimą kelionę arba dirbti sunkų darbą, nes tą dieną laiko grėsminga ir ją pridengia kaip karaliaus dienos šventimą.'
+  santrauka: 'Daug lietuvių panedėly vengė tolimos kelionės ar sunkaus darbo, nes šią dieną laikė grieku ir dangstė karaliaus dienos šventimu.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     pritirtu yra daiktu, kad lietuviai, Vilniuje metuose 1387 apsikrikštiję, panedėly po baltosios
-    nedėlios^802 tą žinyčią sugriovė, tarp skaitliaus minavoto 121 plytos pasitiko ir ta, kuri turėjo už
-    ženklą dvikežį skersį. Lietuviai, kalnėnai ir žemaičiai, gailėdamos savo praėjusios gadynės ir savo
-    laimingų dienų, ryžos amžinai minavonei tos dienos, kurioje tą žinyčią buvo sugriovę, raudoti ir
-    šventinti, kaipogi iki šiai dienai daug žmonių iš namo savo išeiti į tolimą kelionę arba ką sunkų
-    dirbti panedėly už grieką^803 sau turi; nes, idant paslėptų tą savo gailesį nuo lenkų kunigų, sakės
-    jiems karaliaus dieną šventinantys.
+        nedėlios^802 tą žinyčią sugriovė, tarp skaitliaus minavoto 121 plytos pasitiko ir ta, kuri turėjo už
+        ženklą dvikežį skersį. Lietuviai, kalnėnai ir žemaičiai, gailėdamos savo praėjusios gadynės ir savo
+        laimingų dienų, ryžos amžinai minavonei tos dienos, kurioje tą žinyčią buvo sugriovę, raudoti ir
+        šventinti, kaipogi iki šiai dienai daug žmonių iš namo savo išeiti į tolimą kelionę arba ką sunkų
+        dirbti panedėly už grieką^803 sau turi; nes, idant paslėptų tą savo gailesį nuo lenkų kunigų, sakės
+        jiems karaliaus dieną šventinantys.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

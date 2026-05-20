@@ -32,10 +32,14 @@ tags:
   santrauka: 'Knechtai buvo riterių tarnai, gyvenę dvaruose kaip laisvi ūkininkai, mokėję mokesčius, padėję statyti pilis ir ėję į karą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Šie gyveno ordino, vyskupų arba riterių bajorų dva-
+    Be to,
+    dar buvo taip pat atėjūnų vokiečių miestiečių ir vals-
+    tiečių. Šie gyveno ordino, vyskupų arba riterių bajorų dva-
     ruose, kaip laisvi ūkininkai, ir turėjo tik mokėti tam tikrus mo-
     kesčius, padėti statyti pilis ir eiti į karą, kaip riterių tarnai _(knech-
-    tai)._
+    tai)._ Didžiausią krašto gyventojų masę sudarė senieji krašto
+    gyventojai, ordino vadinami vienu bendru vardu — prūsais
+    valstiečiais.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

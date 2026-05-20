@@ -1,0 +1,116 @@
+---
+tipas: vieta
+pavadinimas: 'Kalniškės miškas'
+sukurta: '2026-05-20'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+datos:
+  - '1944 m.'
+  - '1945 m.'
+periodas: 'okupacijų ir sovietmečio laikotarpis'
+periodo_grupes:
+  - 'XX a.'
+amziai:
+  - 'XX'
+date_start: '1944'
+date_end: '1945'
+patikimumas: 'vidutinis'
+tags:
+  - ginklas
+  - mūšis
+  - vieta
+---
+# Kalniškės miškas
+
+## Santrauka
+
+Kartu su žmona 1944 m. jis pasitraukė į Kalniškės mišką, kur pradėjo vadovauti iš gimtinės kaimų suburtiems vyrams kovoje su okupantais. Prieš mūšį Apie kilometrą už Krosnos, Lazdijų link, kairėje plento pusėje, tęsiasi 3-4 km pločio ir apie 8 km ilgio kalvotas, mišrus Kalniškės miškas. “ Mūšis 220-ojo pasienio pulko kariai apsupo Kalniškės mišką, kuriame buvo įrengta partizanų stovykla.
+
+## Teiginiai
+- t-001
+  teiginys: '1944 m. jis su žmona pasitraukė į Kalniškės mišką ir pradėjo vadovauti iš gimtinės kaimų suburtiems vyrams.'
+  pagrindžia:
+    - c-001
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: 'Kalniškės miškas yra apie 3–4 km pločio ir apie 8 km ilgio kalvotas mišrus miškas netoli Krosnos.'
+  pagrindžia:
+    - c-002
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: '1944 m. jis su žmona pasitraukė į Kalniškės mišką ir pradėjo vadovauti iš gimtinės kaimų suburtiems vyrams.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Grįžus
+    sovietų okupacinėms pajėgoms, Jonas Neifalta buvo
+    sužeistas ir suimtas, tačiau jam pavyko pasprukti.
+    Kartu su žmona 1944 m. jis pasitraukė į Kalniškės
+    mišką, kur pradėjo vadovauti iš gimtinės kaimų su-
+    burtiems vyrams kovoje su okupantais.
+
+    Blokeliuose su pilkos spalvos ii
+
+    juostele pateikiama informacija
+    apie ginkluotės raidą
+
+    Dėl galingo patrankų
+    naudojamo parako
+    užtaiso sviedinių
+    sienelės turėjo būti
+    pakankamai storos,
+    kad šūvio metu
+    sviedinys nesprogtų
+    dar vamzdyje, 0
+
+    tai sumažindavo
+    sprogstamosios
+    medžiagos kiekį
+    sviedinyje.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Kalniškės miškas yra apie 3–4 km pločio ir apie 8 km ilgio kalvotas mišrus miškas netoli Krosnos.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Prieš mūšį
+
+    Apie kilometrą už Krosnos, Lazdijų link,
+    kairėje plento pusėje, tęsiasi 3-4 km pločio
+    ir apie 8 km ilgio kalvotas, mišrus Kalniškės
+    miškas. 5-6 km už Krosnos ir apie 1,5 km
+    nuo plento šiame miške 1945 metais įvyko
+    Kalniškės mūšis.
+
+    1945 m. gegužės 14 d. iš Simno rajono
+    NKVD skyriaus viršininko gauti duome-
+    nys apie tai, kad Seminiškių miško rajone,
+    37 km į vakarus nuo Alytaus, 8 km į pie-
+    tvakarius nuo Simno, NKVD duomenimis
+    slėpėsi iki 70 žm. partizanų grupė, gink-
+    luota rankiniais ir sunkiaisiais kulkos-
+    vaidžiais, automatais ir šautuvais.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+
+### Susiję objektai
+- [[objektai/vietos/Krosna]]

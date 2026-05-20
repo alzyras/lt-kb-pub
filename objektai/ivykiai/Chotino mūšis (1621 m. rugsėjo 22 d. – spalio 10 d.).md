@@ -9,18 +9,22 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 bukle: 'juodrastis'
 laikotarpis: '1621 m. rugsėjo 22 d. – spalio 10 d.'
-datos:
-  - '1621 m. rugsėjo 22 d. – spalio 10 d.'
-periodas: 'ankstyvieji_naujieji_laikai'
-periodo_grupes: []
-amziai:
-  - 'XVII'
-date_start: '1621'
-date_end: '1621'
 vaidmenys: []
 dalyviai:
   - 'Jonas Karolis Chodkevičius'
 susije_irasai: []
+datos:
+  - '1621 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVII'
+  - 'XXI'
+date_start: '1621'
+date_end: '2026'
 patikimumas: 'aukstas'
 tags:
   - mūšis
@@ -45,7 +49,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-003
-  teiginys: 'Chotino mūšis buvo gynybinio karo pavyzdys ir paskutinė Jono Karolio Chodkevičiaus pergalė.'
+  teiginys: 'Chotino mūšis buvo gynybinio mūšio pavyzdys ir paskutinė Jono Karolio Chodkevičiaus pergalė.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -53,13 +57,19 @@ Nenurodyta
 - t-004
   teiginys: 'Po Chotino mūšio Turkija pasirašė paliaubas, o 1623 m. taika atstatė sieną palei Dniestrą.'
   pagrindžia:
+    - c-003
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-005
+  teiginys: 'Chotino mūšis tapo paskutine legendinio Lietuvos karvedžio Jono Karolio Chodkevičiaus pasiekta pergale.'
+  pagrindžia:
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Chotino mūšis buvo gynybinio karo pavyzdys ir paskutinė Jono Karolio Chodkevičiaus pergalė.'
+  santrauka: 'Chotino mūšis buvo gynybinio mūšio pavyzdys ir paskutinė Jono Karolio Chodkevičiaus pergalė.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     priversdavo juos bėgti nuo gynybinių
@@ -76,6 +86,24 @@ Nenurodyta
   pagrindžia:
     - t-003
 - c-002
+  santrauka: 'Chotino mūšis tapo paskutine legendinio Lietuvos karvedžio Jono Karolio Chodkevičiaus pasiekta pergale.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Šis laimėjimas - puikus gy-
+    nybinio mūšio pavyzdys. Chotino mūšis
+    tapo paskutine legendinio Lietuvos karve-
+    džio Jono Karolio Chodkevičiaus pasiekta
+    pergale. Šios pergalės dėka Lenkija buvo
+
+    sukurti galingiausią savo laiko karinę jėgą.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-005
+- c-003
   santrauka: 'Po Chotino mūšio Turkija pasirašė paliaubas, o 1623 m. taika atstatė sieną palei Dniestrą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -97,3 +125,8 @@ Nenurodyta
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XVII amžius]]
+- [[laikotarpiai/XXI amžius]]
+
+### Susiję objektai
+- [[objektai/vietos/Chotinas]]
+- [[objektai/asmenys/Jonas Karolis Katkevičius]]

@@ -30,7 +30,8 @@ Jį valdė Vilniaus generalgubernatorius.
   santrauka: 'Rusų šiaurės vakarų kraštu vadintą sritį valdė Vilniaus generalgubernatorius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tačiau, kai pra-
+    Visos tos trys gubernijos iš pradžių ir Rusų valdžios buvo
+    vadinamos Lietuvos gubernijomis. Tačiau, kai pra-
     sidėjo rusinimo pastangos, rusai jas ėmė vadinti Rusijos
     šiaurės vakarų kraštu. Jį valdė Vilniaus generalgu-
     bernatorius.
@@ -41,3 +42,7 @@ Jį valdė Vilniaus generalgubernatorius.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Rusijos šiaurės vakarų kraštas]]

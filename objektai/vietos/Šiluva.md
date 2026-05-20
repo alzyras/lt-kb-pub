@@ -31,7 +31,10 @@ Protestantų mokyklos buvo įkurtos Vilniuje, Brastoje, Nesvyžiuje, Semetyčiuo
   citata_originali: |
     Protestantų mokyklos buvo įkurtos Vilniuje, Brastoje, Nesvy-
     žiuje, Semetyčiuose, Šiluvoje, Biržuose, Kėdainiuose, Slucke, o pra-
-    džios mokyklų buvo beveik kiekvienoj jų parapijoj.
+    džios mokyklų buvo beveik kiekvienoj jų parapijoj. Iš visų
+    šių mokyklų iš pradžių žymiausioji buvo vilniškė. Po protes-
+    tantų susidūrimų su katalikais, 1640 m. ji buvo panaikinta kartu su
+    kalvinų bažnyčia.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

@@ -7,6 +7,17 @@ variantai:
 aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1978 m.'
+  - '2026 m.'
+periodas: 'okupacijų ir sovietmečio laikotarpis'
+periodo_grupes:
+  - 'XX a.'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1978'
+date_end: '2026'
 patikimumas: 'aukštas'
 tags:
   - grupe
@@ -18,36 +29,21 @@ Lietuvių Fondas šiame leidinyje rodomas kaip finansinis jo leidimo rėmėjas, 
 
 ## Teiginiai
 - t-003
-  teiginys: 'Lietuvių Fondo lėšomis buvo apmokėta dalis leidinio spaustuvės išlaidų.'
-  pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-004
   teiginys: 'Lietuvių Fondo valdybos pirmininkai prisiėmė finansinę naštą, leidusią autoriui išleisti Lietuvos istoriją lietuvių kalba.'
   pagrindžia:
-    - c-002
+    - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lietuvių Fondo lėšomis buvo apmokėta dalis leidinio spaustuvės išlaidų.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Spaustuvės išlaidos apmokėtos
-    Lietuvių Fondo ir L. K. Mokslo Akademijos lėšomis
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003
-- c-002
   santrauka: 'Lietuvių Fondo valdybos pirmininkai prisiėmė finansinę naštą, leidusią autoriui išleisti Lietuvos istoriją lietuvių kalba.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
+    Nors ir neturėdamas dabar po kojomis savo gimtos Lietuvos
+    (Žemaičių) žemės, autorius čia į visą lietuvių tautos istoriją bando
+    žvelgti iš pačios Lietuvos ir vertinti faktus akimis palikuonių tos
+    tautos, kuri buvo tos istorijos nešėja.
     Baigdamas nuoširdžiai dėkoju Lietuvių Fondo Valdybos pir­
     mininkams (pp. Dr. A. Razmai, Dr. K. Ambrozaičiui), kad jie
     pasiimdami Fondui finansinę naštą, įgalino mane realizuoti šią
@@ -61,4 +57,9 @@ Lietuvių Fondas šiame leidinyje rodomas kaip finansinis jo leidimo rėmėjas, 
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-003
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

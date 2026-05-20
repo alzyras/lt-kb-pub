@@ -35,6 +35,7 @@ Pasienio stulpas, Lietuvos Lenkijos ir Prūsų kunigaikštijos sienų susiėjimo
     pastatytas 1545 m. Viršuj parašo
     lentos matyti Lietuvos Vytis ir
     Lenkijos erelis.
+    **4.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

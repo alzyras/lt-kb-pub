@@ -24,29 +24,37 @@ Vartojamos formos: `žiuponais`.
 
 ## Teiginiai
 - t-003
-  teiginys: '`Žiuponai` šiame tekste reiškia vietinius ponus ar valdovus.'
+  teiginys: 'Žiuponais prašaleičiai vadino lietuvių sau ponus, kurie IX amžiuje randami Žemaičių krašte.'
   pagrindžia:
-    - c-001
     - c-002
+    - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 - t-004
   teiginys: 'Žodis siejamas su Žemaičių krašto politine sandara ankstyvaisiais viduramžiais.'
   pagrindžia:
-    - c-001
+    - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '`Žiuponai` šiame tekste reiškia vietinius ponus ar valdovus.'
+  santrauka: 'Žiuponais prašaleičiai vadino lietuvių sau ponus, kurie IX amžiuje randami Žemaičių krašte.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
-    Prašaleičiai, nepermanydami lietuvių kalbos, vadino tuos sau ponus žiuponais^1026 ,
-    kurie jau 9 amžiuje yra randami Žemaičių krašte, kaipogi keleivis, gimimo anglas, 890 metuose gimus
-    Kristui buvęs Žemaičiuose, taip rašo: „Žemaičiuose yra daugybė ypatingų rykių, arba valdžionų^1027 ,
-    kurie pilyse gyvena ir tarp savęs viens su kitu kariauja, patys geria nugeižėjusį^1028 kumelės pieną, o
-    svietas midų.“
+    Kitas raštininkas sako: „Tie sau ponai, turėdami ne tiktai vieną sodą^1029 , bet vieną patį vergą, vadinos rykiais, arba karaliais.“
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
+- c-002
+  santrauka: 'Žiuponais prašaleičiai vadino lietuvių sau ponus, kurie IX amžiuje randami Žemaičių krašte.'
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Prašaleičiai, nepermanydami lietuvių kalbos, vadino tuos sau ponus žiuponais^1026 , kurie jau 9 amžiuje yra randami Žemaičių krašte, kaipogi keleivis, gimimo anglas, 890 metuose gimus Kristui buvęs Žemaičiuose, taip rašo: „Žemaičiuose yra daugybė ypatingų rykių, arba valdžionų^1027 , kurie pilyse gyvena ir tarp savęs viens su kitu kariauja, patys geria nugeižėjusį^1028 kumelės pieną, o svietas midų.“
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -55,19 +63,6 @@ Vartojamos formos: `žiuponais`.
   pagrindžia:
     - t-003
     - t-004
-- c-002
-  santrauka: '`Žiuponai` šiame tekste reiškia vietinius ponus ar valdovus.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Kitas raštininkas sako: „Tie sau ponai, turėdami ne tiktai vieną sodą^1029 , bet vieną patį
-    vergą, vadinos rykiais, arba karaliais.“
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003
 
 ## Pastabos
 

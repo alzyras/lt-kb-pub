@@ -44,7 +44,9 @@ Nenurodyta
   santrauka: 'Didikams nepavyko sutrukdyti Mykolo Kaributo Višniaveckio elekcijos, nes bajorija ir Pacų vadovaujama Lietuva jį palaikė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Didikai bandė šitą elekciją sutruk-
+    Tuo tarpu jis buvo
+    labai nusigyvenęs ir gyveno tik iš kitų malonės, nes karų metu
+    buvo žuvę visi tėvo turtai. Didikai bandė šitą elekciją sutruk-
     dyti, tačiau bajorija dėjo galvą už savo išrinktąjį karalių. Pacų
     vadovaujamoji Lietuva irgi pasisakė už jį, ir tuo būdu Višnia-
     veckis tapo karalium.

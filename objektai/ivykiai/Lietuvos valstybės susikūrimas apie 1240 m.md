@@ -81,3 +81,7 @@ Nenurodyta
 ### Laikotarpiai
 - [[laikotarpiai/XIII amžius]]
 - [[laikotarpiai/XXI amžius]]
+
+### Susiję objektai
+- [[objektai/posakiai/„Mindaugo Lietuvą“]]
+- [[objektai/posakiai/„aukščiausiuoju karaliumi“]]

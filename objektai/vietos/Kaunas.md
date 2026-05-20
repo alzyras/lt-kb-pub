@@ -18,27 +18,32 @@ susije_irasai:
   - '[[Nemunas]]'
 datos:
   - '1350 m.'
+  - '1361 m.'
+  - '1362 m.'
+  - '1368 m.'
+  - '1382 m.'
+  - '1384 m.'
+  - '1399 m.'
+  - '1401 m.'
+  - '1408 m.'
+  - '1412 m.'
   - '1430 m.'
   - '1831 m.'
+  - '1873 m.'
+  - '1876 m.'
+  - '1907 m.'
+  - '1912 m.'
+  - '1913 m.'
   - '1915 m.'
   - '1916 m.'
   - '1918 m.'
   - '1919 m.'
+  - '1920 m.'
   - '1922 m.'
-  - '1924 m.'
-  - '1930 m.'
-  - '1934 m.'
-  - '1936 m.'
-  - '1937 m.'
-  - '1938 m.'
-  - '1939 m.'
-  - '1940 m.'
-  - '2013 m.'
+  - '1923 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
-  - 'modernioji Lietuva'
-  - 'naujieji laikai'
 amziai:
   - 'XIV'
   - 'XV'
@@ -46,7 +51,7 @@ amziai:
   - 'XX'
   - 'XXI'
 date_start: '1350'
-date_end: '2013'
+date_end: '1923'
 tags:
   - vieta
 ---
@@ -67,99 +72,41 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 Šaltinyje Kaunas pasirodo Nemuno gynybos, Vytauto politikos, Hanzos prekybos ir miestų savivaldos raidos kontekste. Vėlesniuose skyriuose jis minimas ir kaip jėzuitų kolegijos vieta.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Kaunas buvo stipriausia lietuvių pilis ir kovose su Ordinu suvaidino svarbų vaidmenį.'
+- t-012
+  teiginys: 'Atstatęs Kauno ir kitas pasienyje su ordinu sugriautas pilis, valdovas ragino žemaičius keltis pas jį.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Vytautas atstatė Kauno pilį ir kitas Ordino pasienyje sugriautas pilis.'
+- t-013
+  teiginys: 'Todėl prie Dauguvos iškilo didelis prekybos centras Polockas, o prie Nemuno — Kaunas.'
   pagrindžia:
-    - c-003
+    - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: 'Vytauto laikais Kaunas buvo vienas svarbiausių prekybos centrų prie Nemuno; čia Hanza buvo įsteigusi savo agentūrą.'
-  pagrindžia:
-    - c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-005
-  teiginys: 'Kaune buvo įkurta jėzuitų kolegija.'
-  pagrindžia:
-    - c-006
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-006
-  teiginys: 'Bolševikų puolimo planas numatė apeiti ir užpulti Kauną iš pietų, o 5-ajam pulkui pulti Kauną tiesiai pro Kaišiadoris.'
-  pagrindžia:
-    - c-007
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-007
-  teiginys: '1919 m. balandžio 3-8 d. lietuviai iš Kauno puolė Vilniaus link.'
-  pagrindžia:
-    - c-008
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-008
-  teiginys: '1920 m. vasario 22-23 d. Kaune kilo bolševikų sukurstytas maištas.'
-  pagrindžia:
-    - c-009
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kaunas buvo stipriausia lietuvių pilis ir kovose su Ordinu suvaidino svarbų vaidmenį.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Stipriausia lie-
-    tuvių pilis buvo Kaunas. Ji visose šitose kovose suvaidino labai
-    svarbų vaidmenį.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: Citata patikslina, kad kryžiuočių laimėjimas Kauno atžvilgiu nebuvo ilgalaikis.
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pagaliau ir
-    Kauno pasiekimas buvo tik laikinis kryžiuočių laimėjimas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-001
-- c-003
-  santrauka: Citata pagrindžia Vytauto atliktą Kauno pilies atstatymą.
+  santrauka: 'Atstatęs Kauno ir kitas pasienyje su ordinu sugriautas pilis, valdovas ragino žemaičius keltis pas jį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Sunormavęs santykius su
     Lenkija, jis tuojau sumažino savo draugiškumą ordinui. Atsta-
     tęs Kauno ir kitas ordino pasieny sugriautas pilis, jis pradėjo
-    raginti žemaičius keltis pas jį.
-  citata_rodoma: ''
+    raginti žemaičius keltis pas jį. Ordinas, remdamasis Salyno su-
+    tartim, reikalavo, kad pabėgėliai žemaičiai būtų jam grąžinami.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-- c-004
-  santrauka: Citata išsamiai parodo Kauno vaidmenį Nemuno prekyboje ir Hanzos tinkle.
+    - t-012
+- c-002
+  santrauka: 'Todėl prie Dauguvos iškilo didelis prekybos centras Polockas, o prie Nemuno — Kaunas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Vytauto laikais, aprimus karams su kryžiuočiais, atgijo pre-
-    kyba Nemunu. Užsimezgė gyvi ryšiai su ordino prekybos cent-
-    rais—Karaliaučium ir Dancigu. Tuo metu rytų Lietuvos, t. y. ru-
+    Tuo metu rytų Lietuvos, t. y. ru-
     siškųjų žemių prekyba daugiausia ėjo Dauguva, o tikrosios Lie-
     tuvos ir jai artimųjų sričių — Nemunu. Todėl prie Dauguvos
     iškilo didelis prekybos centras Polockas, o prie Nemuno
@@ -167,88 +114,13 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     savo agentūras (vadinamąsias pirklių kontoras). Ypač svarbus
     centras buvo Kaunas: mat, prekybai labai patogi jo vieta — dvie-
     jų didelių upių santakas.
-  citata_rodoma: ''
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
-- c-006
-  santrauka: Citata tiesiogiai mini Kauną tarp jėzuitų kolegijų vietų.
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tuo
-    būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono
-    Jono Karolio Katkevičiaus fundacija), Gardine (Smolensko
-    vyskupo Isaikovskio ir kt. fundacija). Oršoje (karaliaus Zig-
-    manto fundacija), Smolenske (klebono Lempickio ir kt. fun-
-    dacija), Kaune (brolių Vijūkų Kojelavičių fundacija), Minske
-    (kanclerio Martyno Oginskio ir K. Bžostausko fundacija), Nau-
-    garduke (sudėtinė fundacija), Bobruiske (Triznos fun-
-    dacija), Pinske (kanclerio Aibr. St. Radvilos fundacija), Pa-
-    šiaušėje (bajoro Beinarto f-ja), Slucke (sudėtinė f-ja),
-    Vitebske (Smolensko vaivados A. Gansiausko f-ja), Žodiš-
-    kiuose (Minkevičių f-ja), Brastoje (vicekanclerio L. K. Sa-
-    piegos f-ja).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-005
-- c-007
-  santrauka: Citata tiesiogiai aprašo Kauno puolimo planą iš kelių krypčių.
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    © ::iosios brigados 7-asis pul-
-    kas puola Prienų kryptimi su
-    tikslu apeiti ir užpulti Kauną
-    iš pietų. 5-asis pulkas puola
-    Kauną tiesiai pro Kaišiadoris.
-    Jo puolimo kryptis pagal-
-    binė. Esminis puolimo suma-
-
-    nymas apeiti ir pulti Kauną iš
-    iaurės ie pietų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-006
-- c-008
-  santrauka: Citata rodo Kauną kaip vieną iš puolimo į Vilnių išeities vietų.
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Balandžio 3-8 d. lietuviai iš Alytaus ir Kauno puolė Vilniaus link.
-    Šiaurinė (Kauno) grupė turėjo pulti per Žiežmarius, Zaslius, Vievį
-    Pietinė grupė turėjo užimti Daugus ir Varéng@, tada palei gelezin-
-    kelį pro Lentvarį pulti Vilnių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-007
-- c-009
-  santrauka: Citata tiesiogiai mini bolševikų sukurstytą maištą Kaune.
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1920 m. vasario 22-23 d. Kaune kilo bolše-
-    vikų sukurstytas maištas, jo pergalė būtų įrodžiusi Lenkijos tarptautinę
-    poziciją, kad Lietuvos vyriausybė yra prokomunistinė ir leidusi pulti
-    Lietuvą atvira karine jėga.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-008
+    - t-013
 
 ## Ryšiai
 ### Laikotarpiai

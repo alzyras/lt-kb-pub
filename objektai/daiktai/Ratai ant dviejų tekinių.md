@@ -47,12 +47,6 @@ Nenurodyta
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-004
-  teiginys: 'Pjautuvus, dalgius ir grėblius darydavo iš medžio, ne iš geležies.'
-  pagrindžia:
-    - c-002
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -60,8 +54,8 @@ Nenurodyta
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Pirmieji ratai kalnėnų ir žemaičių buvo ant dviejų tekinių, šliuižiu^275 vadinami, ant kurių javus ir
-    šieną iš pievų vežė bei į kelią keliavo, nesgi kitokių ratų negalėjo dėvėti dėl ankštumo ir šlapumo
-    kelio.
+        šieną iš pievų vežė bei į kelią keliavo, nesgi kitokių ratų negalėjo dėvėti dėl ankštumo ir šlapumo
+        kelio.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -69,19 +63,6 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
-- c-002
-  santrauka: 'Pjautuvus, dalgius ir grėblius darydavo iš medžio, ne iš geležies.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Pjautuvus, dalgius ir grėblius dėvėjo tokius pat, kaip jei šiandien regim dėvimus, tiktai ne
-    geležies, bet medžio noragais ir virbalais.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-004
 
 ## Ryšiai
 ### Susiję objektai

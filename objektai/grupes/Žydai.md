@@ -49,26 +49,6 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
 ## Teiginiai
 
 ## Reikšmingi paminėjimai
-- c-004
-  santrauka: Žydai papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tai buvo žydai ir miestelėnų luomas.
-    Žydai tais laikais visoje vakarų Europoje buvo žinomi kaip
-    tinkamiausi žmonės visoms kredito operacijoms vesti. Tai bu­
-    vo profesionalai „bankininkai“. Kaip tik XIV amž. pusėje, su­
-    laukus vakarų Europoje didelių persekiojimų, daugybė jų buvo
-    palikę savo senąsias vietas ir persikraustė tarp kitko į Lenkiją,
-    o iš jos vėliau, jau Vytauto laikais, organizuotai persikėlė ir Lie­
-    tuvon.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-002
-    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai

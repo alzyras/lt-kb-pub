@@ -54,7 +54,7 @@ Nenurodyta
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-006
-  teiginys: 'Nacionalinėje M. Mažvydo bibliotekoje įkurtas pirmosios medicinos pagalbos ir medicininio vadovavimo punktas.'
+  teiginys: 'Nacionalinėje M. Mažvydo bibliotekoje Raudonojo Kryžiaus pastangomis įkurtas pirmosios medicinos pagalbos ir medicininio vadovavimo punktas.'
   pagrindžia:
     - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -94,7 +94,7 @@ Nenurodyta
   pagrindžia:
     - t-005
 - c-003
-  santrauka: 'Nacionalinėje M. Mažvydo bibliotekoje įkurtas pirmosios medicinos pagalbos ir medicininio vadovavimo punktas.'
+  santrauka: 'Nacionalinėje M. Mažvydo bibliotekoje Raudonojo Kryžiaus pastangomis įkurtas pirmosios medicinos pagalbos ir medicininio vadovavimo punktas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     deputatų pastangomis. Medicininę pagalbą
@@ -117,4 +117,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Aukščiausiosios Tarybos rūmai]]
+- [[objektai/grupes/Raudonasis Kryžius]]

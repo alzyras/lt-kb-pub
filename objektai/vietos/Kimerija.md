@@ -43,39 +43,24 @@ Kimerija minima kaip Uksinės marės įsikišęs žemės šnypis, kur gyveno ank
 - t-003
   teiginys: 'Kimerija buvo žemės šnypis arba pusiasalis prie Uksinės marės.'
   pagrindžia:
-    - c-001
+    - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 - t-004
-  teiginys: 'Kimerija vėliau tapo vieta, į kurią įsigrūdo kitos tautos.'
+  teiginys: 'Kimerijoje grekonys įsikūrė kai kuriose vietose ir pasistatė Chersoneso, Teodosijos bei Albijos pilis.'
   pagrindžia:
-    - c-002
+    - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kimerija buvo žemės šnypis arba pusiasalis prie Uksinės marės.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Vadino
-    kiemarionimis užvis tuos, kurie gyveno žemės šnipy^70 , į Uksinę marę įsikišusiame, arba pussalėj^71 ,
-    Kimerija vadinamoj, regis, nuo to, jog iš Uksinės marės artinantiems tenai rodės kiemai it marėj
-    paskendę.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003
-- c-002
-  santrauka: 'Kimerija vėliau tapo vieta, į kurią įsigrūdo kitos tautos.'
+  santrauka: 'Kimerijoje grekonys įsikūrė kai kuriose vietose ir pasistatė Chersoneso, Teodosijos bei Albijos pilis.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Nes ilgainiui tenai jiems begyvenant, grekonys įsikūrė tūlose vietose Kimerijos ir tenai
-    pamatavo^81 sau garsias pilis Chersonesą, Teodosiją ir Albiją; bet paskiau įsigrūdo ten nuožmi
-    tauta, gudais vadinama, varu iš Azijos išvaryta ar šių turtų pasmilusi^82 , niekšai to nežino.
+        pamatavo^81 sau garsias pilis Chersonesą, Teodosiją ir Albiją; bet paskiau įsigrūdo ten nuožmi
+        tauta, gudais vadinama, varu iš Azijos išvaryta ar šių turtų pasmilusi^82 , niekšai to nežino.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -83,3 +68,17 @@ Kimerija minima kaip Uksinės marės įsikišęs žemės šnypis, kur gyveno ank
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+- c-002
+  santrauka: 'Kimerija buvo žemės šnypis arba pusiasalis prie Uksinės marės.'
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Vadino kiemarionimis užvis tuos, kurie gyveno žemės šnipy^70 , į Uksinę marę įsikišusiame, arba pussalėj^71 ,
+        Kimerija vadinamoj, regis, nuo to, jog iš Uksinės marės artinantiems tenai rodės kiemai it marėj
+        paskendę.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003

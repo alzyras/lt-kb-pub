@@ -18,7 +18,7 @@ Jų tarpe bene žymiausios buvo laumės, arba žmogaus likimą lemiančios deiv�
 
 ## Teiginiai
 - t-001
-  teiginys: 'Jų tarpe bene žymiausios buvo laumės, arba žmogaus likimą lemiančios deivės (ateinančios prie gimstančio žmogaus ir valdančios jo gyvenimą iki pat mirties).'
+  teiginys: 'Laumės laikytos žmogaus likimą lemiančiomis deivėmis, valdančiomis jo gyvenimą nuo gimimo iki mirties.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -26,10 +26,13 @@ Jų tarpe bene žymiausios buvo laumės, arba žmogaus likimą lemiančios deiv�
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Jų tarpe bene žymiausios buvo laumės, arba žmogaus likimą lemiančios deivės (ateinančios prie gimstančio žmogaus ir valdančios jo gyvenimą iki pat mirties).'
+  santrauka: 'Laumės laikytos žmogaus likimą lemiančiomis deivėmis, valdančiomis jo gyvenimą nuo gimimo iki mirties.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Jų tarpe bene žymiausios buvo laumės, arba
+    Gyvuliai, augalai, ežerai, kalnai, girios, miškai ir
+    atskiri medžiai, - žodžiu, visa gamta buvo pilna dievybių.
+    Bet buvo dievybių, ir nieko bendro neturinčių su gamta ir
+    jos reiškiniais. Jų tarpe bene žymiausios buvo laumės, arba
     žmogaus likimą lemiančios deivės (ateinančios prie gimstan-
     čio žmogaus ir valdančios jo gyvenimą iki pat mirties).
   citata_rodoma: ""

@@ -55,25 +55,7 @@ Mindaugas vaizduojamas kaip pirmasis Lietuvos karalius ir ankstyvasis valstybės
 
 ## Teiginiai
 - t-001
-  teiginys: 'Mindaugas 1219 m. pirmą kartą paminėtas istoriniuose šaltiniuose, kai su kitais Lietuvos žemės kunigaikščiais sudarė taikos sutartį su Haliču-Voluine.'
-  pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: '1236 m. Haličo-Voluinės didysis kunigaikštis su Mindaugu derėjosi jau kaip su visos Lietuvos valdovu.'
-  pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: 'Stiprindamas centrinę valdžią, Mindaugas 1249 m. atėmė valdas iš Vykinto, Tautvilo ir Gedvydo, o 1254 m. galutinai nugalėjo savo oponentus.'
-  pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-004
-  teiginys: 'Per 1260 m. didįjį prūsų sukilimą, žuvus Mindaugui, Lietuvos pagalba prūsams nutrūko, o Vakarų Europos parama Ordinui sustiprėjo.'
+  teiginys: 'Žuvus Lietuvos karaliui Mindaugui, nutrūko Lietuvos pagalba 1260 m. sukilusiems prūsams.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -81,7 +63,7 @@ Mindaugas vaizduojamas kaip pirmasis Lietuvos karalius ir ankstyvasis valstybės
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Per 1260 m. didįjį prūsų sukilimą, žuvus Mindaugui, Lietuvos pagalba prūsams nutrūko, o Vakarų Europos parama Ordinui sustiprėjo.'
+  santrauka: 'Žuvus Lietuvos karaliui Mindaugui, nutrūko Lietuvos pagalba 1260 m. sukilusiems prūsams.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Per beveik tris dešimtmečius kryžiuočiai nukariavo visas
@@ -96,27 +78,11 @@ Mindaugas vaizduojamas kaip pirmasis Lietuvos karalius ir ankstyvasis valstybės
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
-- c-002
-  santrauka: 'Mindaugas 1219 m. pirmą kartą paminėtas istoriniuose šaltiniuose, kai su kitais Lietuvos žemės kunigaikščiais sudarė taikos sutartį su Haliču-Voluine.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Mindaugo valdoma Lietuva iki 1263 m. Mindaugas pirmą kartą istoriniuose šaltiniuose minimas 1219 m., tais
-    metais jis kartu su kitais Lietuvos žemės kunigaikščiais sudarė taikos sutartį su Haliču-Voluine. 1236 m. Haličo-
-    Voluinės didysis kunigaikštis su Mindaugu derasi jau kaip su visos Lietuvos valdovu. Stiprindamas centrinę valdžią
-    Mindaugas 1249 m. iš žemaičių kunigaikščio Vykinto ir savo sūnėnų Tautvilo bei Gedvydo atėmė jų valdas. Šie,
-    remiami Haličo-Voluinės ir Livonijos, pradėjo karą prieš Mindaugą. Daugelis lietuvių, žemaičių, nalšėnų, jotvingių
-    liko ištikimi Mindaugui ir jam pavyko 1254 m. galutinai nugalėti savo oponentus.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
     - t-001
-    - t-002
-    - t-003
 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIII amžius]]
+
+### Susiję objektai
+- [[objektai/asmenys/Mindaugas]]

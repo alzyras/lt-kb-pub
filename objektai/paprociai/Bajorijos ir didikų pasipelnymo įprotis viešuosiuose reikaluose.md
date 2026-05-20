@@ -35,7 +35,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'To meto bajorija ir didikai buvo įpratę pasipelnyti iš viešųjų reikalų, prie kurių prisidėdavo.'
+  teiginys: 'To meto bajorija ir didikai buvo įpratę pasipelnyti visur, kur tik prisidėdavo.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -43,10 +43,13 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'To meto bajorija ir didikai buvo įpratę pasipelnyti iš viešųjų reikalų, prie kurių prisidėdavo.'
+  santrauka: 'To meto bajorija ir didikai buvo įpratę pasipelnyti visur, kur tik prisidėdavo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Bet to meto bajorija
+    Edukacinės Komisijos idėja buvo tikrai vykusi: tai buvo iš viso
+    pirmas atsitikimas Europoj, kad švietimą paėmė į savo žinią pati
+    valstybė. Iš to būtų galėję išeiti nemaža naudos, jei žmonės, kurie
+    stovėjo prie to darbo, būtų buvę sąžiningesni. Bet to meto bajorija
     ir didikai buvo įpratę visur, kur tik prikišdavo savo pirštus, pasipel-
     nyti.
   citata_rodoma: ""

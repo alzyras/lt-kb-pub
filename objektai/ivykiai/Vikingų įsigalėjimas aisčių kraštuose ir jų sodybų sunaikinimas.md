@@ -31,34 +31,14 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vikingai pasiekė aisčių gyvenamus kraštus ir jų pajūriuose įsteigė savo kolonijų.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Vikingų įsigalėjimas aisčių kraštuose buvo neilgas, nes X amžiuje visos jų sodybos buvo sugriautos.'
   pagrindžia:
-    - c-002
+    - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vikingai pasiekė aisčių gyvenamus kraštus ir jų pajūriuose įsteigė savo kolonijų.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tuo būdu jie pasiekė ir
-    aisčių gyvenamus kraštus ir čia pajūriuose pristeigė savo ko-
-    lonijų.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
   santrauka: 'Vikingų įsigalėjimas aisčių kraštuose buvo neilgas, nes X amžiuje visos jų sodybos buvo sugriautos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -73,4 +53,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001

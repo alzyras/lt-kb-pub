@@ -48,18 +48,18 @@ Nenurodyta
 - t-008
   teiginys: 'Senovės lietuvių pomirtinio gyvenimo samprata reiškė, kad mirus kilmingam žmogui kartu su lavonu sudegindavo ginklus, arklį, tarnus, moteris, brangius apdarus, kurtus, sakalus ir kitus karo žygio reikmenis.'
   pagrindžia:
-    - c-002
+    - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-009
   teiginys: 'Vėlinių dienomis gyvieji, rūpindamiesi vėlių likimu, Žeminei nuliedavo gėrimų ir numesdavo valgio, o vėles laikė galinčiomis pereiti į gyvulius, medžius ir kitus gamtos kūnus.'
   pagrindžia:
-    - c-003
+    - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-002
+- c-001
   santrauka: 'Senovės lietuvių pomirtinio gyvenimo samprata reiškė, kad mirus kilmingam žmogui kartu su lavonu sudegindavo ginklus, arklį, tarnus, moteris, brangius apdarus, kurtus, sakalus ir kitus karo žygio reikmenis.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -78,7 +78,7 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-008
-- c-003
+- c-002
   santrauka: 'Vėlinių dienomis gyvieji, rūpindamiesi vėlių likimu, Žeminei nuliedavo gėrimų ir numesdavo valgio, o vėles laikė galinčiomis pereiti į gyvulius, medžius ir kitus gamtos kūnus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |

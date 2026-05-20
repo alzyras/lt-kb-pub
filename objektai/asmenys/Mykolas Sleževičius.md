@@ -87,9 +87,6 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/tikėjimas]]
-
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
 - [[laikotarpiai/XXI amžius]]

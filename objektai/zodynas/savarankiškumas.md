@@ -27,7 +27,7 @@ Juo buvo patvirtintas Vytauto savarankiškumas: jis buvo paskelbtas tikruoju val
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Tuo būdu Lietuvos savarankiškumas buvo paskelbtas tik laikinis — iki gyvos Vytauto galvos.'
+  teiginys: 'Lietuvos savarankiškumas buvo paskelbtas laikinu, galiojančiu tik iki Vytauto gyvos galvos.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -57,10 +57,13 @@ Juo buvo patvirtintas Vytauto savarankiškumas: jis buvo paskelbtas tikruoju val
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Tuo būdu Lietuvos savarankiškumas buvo paskelbtas tik laikinis — iki gyvos Vytauto galvos.'
+  santrauka: 'Lietuvos savarankiškumas buvo paskelbtas laikinu, galiojančiu tik iki Vytauto gyvos galvos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Iš savo pusės Lenkų ba-
+    Juo buvo patvirtintas Vytauto sava-
+    rankiškumas: jis buvo paskelbtas tikruoju valdovu, bet kartu bu-
+    vo garantuota, kad po jo mirties visa Lietuva turėsianti grįžti Jo-
+    gailai ir jo įpėdiniams, Lenkų karaliams. Iš savo pusės Lenkų ba-
     jorai pasižadėjo, kad mirus Jogailai nerinksią naujo karaliaus be
     lietuvių ir be Vytauto žinios. Tuo būdu Lietuvos savarankišku-
     mas buvo paskelbtas tik laikinis — iki gyvos Vytauto galvos.
@@ -71,7 +74,3 @@ Juo buvo patvirtintas Vytauto savarankiškumas: jis buvo paskelbtas tikruoju val
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/dokumentas]]

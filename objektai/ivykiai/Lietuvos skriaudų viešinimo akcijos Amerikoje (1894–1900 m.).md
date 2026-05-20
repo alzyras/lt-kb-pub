@@ -44,12 +44,6 @@ Nenurodyta
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: '1894 m. A. Kaupo, A. Miluko ir J. Žilinsko pastangomis buvo įkurta Ivinskio draugija, siekusi lietuvių skyriaus 1900 m. Paryžiaus parodoje.'
-  pagrindžia:
-    - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -86,21 +80,6 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-- c-003
-  santrauka: '1894 m. A. Kaupo, A. Miluko ir J. Žilinsko pastangomis buvo įkurta Ivinskio draugija, siekusi lietuvių skyriaus 1900 m. Paryžiaus parodoje.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Jau 1894 m. trijų lietuvių klierikų, vėliau žymių veikėjų
-    kunigų,—A. Kaupo, A. Miluko ir J. Žilinsko,—pastangomis bu-
-    vo įkurta Ivinskio Draugija, kurios tikslas buvo rūpintis, kad
-    1900 m. pasaulinėje Paryžiaus parodoje būtų ir lietuvių skyrius;
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai

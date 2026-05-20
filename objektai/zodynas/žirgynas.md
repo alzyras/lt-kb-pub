@@ -21,13 +21,13 @@ Kadangi kunigaikštis karo reikalui privalė arklių, tai krašte buvo daug žir
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kadangi kunigaikštis karo reikalui privalė arklių, tai krašte buvo daug žirgynų.'
+  teiginys: 'Krašte buvo daug žirgynų, nes kunigaikščiui karo reikalams reikėjo arklių.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Netoli Kauno buvo 800 arklių žirgynas.'
+  teiginys: 'Netoli Kauno buvo žirgynas, kuriame auginta 800 arklių.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -35,10 +35,14 @@ Kadangi kunigaikštis karo reikalui privalė arklių, tai krašte buvo daug žir
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kadangi kunigaikštis karo reikalui privalė arklių, tai krašte buvo daug žirgynų.'
+  santrauka: 'Krašte buvo daug žirgynų, nes kunigaikščiui karo reikalams reikėjo arklių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Kadangi kunigaikštis karo
+    Kiekvienas iš jų mokėjo mo-
+    kesčius savo verslo produktais. Tie, kurie mokėjo medum ir
+    vašku, buvo vadinami bitininkais, kurie mokėjo kiaunių
+    ir vebrų kailiukais — kiaunininkais ir vebrininkais,
+    kurie žuvimis — žuvininkais. Kadangi kunigaikštis karo
     reikalui privalė arklių, tai krašte buvo daug žirgynų.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -48,10 +52,14 @@ Kadangi kunigaikštis karo reikalui privalė arklių, tai krašte buvo daug žir
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Netoli Kauno buvo 800 arklių žirgynas.'
+  santrauka: 'Netoli Kauno buvo žirgynas, kuriame auginta 800 arklių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Kai
+    Tie, kurie mokėjo medum ir
+    vašku, buvo vadinami bitininkais, kurie mokėjo kiaunių
+    ir vebrų kailiukais — kiaunininkais ir vebrininkais,
+    kurie žuvimis — žuvininkais. Kadangi kunigaikštis karo
+    reikalui privalė arklių, tai krašte buvo daug žirgynų. Kai
     kur buvo auginama šimtai arklių; pavyzdžiui, netoli Kauno
     buvo 800 arklių žirgynas.
   citata_rodoma: ""

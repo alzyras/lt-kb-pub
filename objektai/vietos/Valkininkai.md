@@ -6,6 +6,19 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1700 m.'
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVII'
+  - 'XX'
+  - 'XXI'
+date_start: '1700'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - bajorija
@@ -20,33 +33,22 @@ Sapiegoms visus jėga tramdant, vis dėlto 1700 m. visam krašte atsirado daugyb
 
 ## Teiginiai
 - t-001
-  teiginys: '1700 m. Sapiegų dvarus plėšę būriai iš Lydos ir Ašmenos apylinkių atėjo prie Valkininkų.'
+  teiginys: 'Valkininkuose bajorų minia kardais sukapojo Višniaveckio atgabentą belaisvį ir dar du belaisvius.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Višniaveckis nuvežė Sapiegą į Valkininkus, kur kitą rytą bajorų minia jį sukapojo kardais.'
-  pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: 'Sapiegų priešų raštas buvo datuotas Valkininkuose 1700 m. lapkričio 24 d.'
-  pagrindžia:
-    - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1700 m. Sapiegų dvarus plėšę būriai iš Lydos ir Ašmenos apylinkių atėjo prie Valkininkų.'
+  santrauka: 'Valkininkuose bajorų minia kardais sukapojo Višniaveckio atgabentą belaisvį ir dar du belaisvius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Sapiegoms visus jėga tramdant, vis dėlto 1700 m. visam krašte
-    atsirado daugybė jų dvarus plėšiančių būrių, kurie pagaliau susi-
-    spietė Lydos ir Ašmenos apylinkėse, o iš ten atėjo prie Val-
-    kininkų.
+    Sapiegos, vos prasidėjus kautynėms, pabėgo į Vilnių) va-
+    karop buvo apsuptas ir turėjo pasiduoti. Višniaveckis jį nu-
+    sivežė į Valkininkus, kur kitą rytą įsiutusi bajorų minia, nepai-
+    sydama Višniaveckio pasipriešinimo, jį kardais sukapojo (kartu
+    buvo sukapoti dar du belaisviai).
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -54,37 +56,9 @@ Sapiegoms visus jėga tramdant, vis dėlto 1700 m. visam krašte atsirado daugyb
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Višniaveckis nuvežė Sapiegą į Valkininkus, kur kitą rytą bajorų minia jį sukapojo kardais.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Višniaveckis jį nu-
-    sivežė į Valkininkus, kur kitą rytą įsiutusi bajorų minia, nepai-
-    sydama Višniaveckio pasipriešinimo, jį kardais sukapojo
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Sapiegų priešų raštas buvo datuotas Valkininkuose 1700 m. lapkričio 24 d.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tas raštas pasirašytas visų žymesniųjų Sapiegų priešų, bajorijos
-    vadų (Višniaveckio, Oginskio, Katilo, Radvilos, Pociejaus ir kt.). Jis
-    datuotas Valkininkuose 1700 m. lapkričio 24 d., t. y. tą pačią dieną,
-    kai buvo padarytas nutarimas, skelbiąs Sapiegas išdavikais; bet iš
-    tikro jis buvo surašytas vėliau, ir parašai surinkti atskirai.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Valkininkų konfederacija]]
+### Laikotarpiai
+- [[laikotarpiai/XVII amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

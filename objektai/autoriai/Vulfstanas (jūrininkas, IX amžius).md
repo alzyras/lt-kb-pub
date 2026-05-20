@@ -30,7 +30,7 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vulfstano pasakojime smulkiai nupasakojamas aisčių gyvenimo būdas ir papročiai.'
+  teiginys: 'IX a. jūrininkas Vulfstanas, buvęs Prūsuose, smulkiai nupasakojo aisčių gyvenimo būdą ir papročius.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -38,9 +38,11 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vulfstano pasakojime smulkiai nupasakojamas aisčių gyvenimo būdas ir papročiai.'
+  santrauka: 'IX a. jūrininkas Vulfstanas, buvęs Prūsuose, smulkiai nupasakojo aisčių gyvenimo būdą ir papročius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Tas prane-
+    šimas yra išlikęs iki mūsų laikų.
     **Keliautojai** mums paliko savo kelionių aprašymų, iš kurių
     taip pat šį tą sužinome apie aisčius. įdomiausiai minimi aisčiai
     IX amž. jūrininko Vulfstano pasakojime. Buvęs Prūsuose,

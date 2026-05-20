@@ -41,6 +41,9 @@ Nenurodyta
   santrauka: '1917 m. lapkričio 2–10 d. Berne sušauktoje naujojoje konferencijoje dalyvavo ir Lietuvos Tarybos delegatai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Taip pat Šveicarijoje susidarė komitetas tvarkyti popiežiaus
+    paskelbtai pasaulinei bažnytinei rinkliavai nukentėjusios Lietu-
+    vos naudai (1917 m. pradžioj).
     Kai Vilniaus konferencija išrinko Lietuvos Tarybą, Berne
     vėl buvo sušaukta naujoji konferencija (1917 m. lapkričio
     2 — 10 d.), kurioj dalyvavo ir Tarybos delegatai. Konfe-
@@ -57,3 +60,6 @@ Nenurodyta
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
+
+### Susiję objektai
+- [[objektai/paprociai/Pasaulinė bažnytinė rinkliava nukentėjusios Lietuvos naudai]]

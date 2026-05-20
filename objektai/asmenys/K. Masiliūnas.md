@@ -43,7 +43,7 @@ K. Masiliūnas minimas kaip viceministeris, rūpinęsis veikalo bendradarbių su
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-004
-  teiginys: 'K. Masiliūnas kartu su J. Tonkūnu rūpinosi bendradarbių parinkimu ir rėmė dirbamą darbą.'
+  teiginys: 'K. Masiliūnas kartu su J. Tonkūnu rūpinosi bendradarbių rinkimu ir teikė paramą atliekamam darbui.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -54,7 +54,8 @@ K. Masiliūnas minimas kaip viceministeris, rūpinęsis veikalo bendradarbių su
   santrauka: 'K. Masiliūno rūpesčiu buvo suburti penki žmonės, sutikę rašyti atskirus tautos gyvenimo laikotarpius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Pagaliau p. Viceministerio K. Masiliūno rūpesčiu
+    Ypač dėl jo sielojosi Švietimo
+    Ministerija. Pagaliau p. Viceministerio K. Masiliūno rūpesčiu
     buvo suburta penketas žmonių, sutikusių imtis to darbo ir su-
     tarusių parašyti kiekvienas apie atskirą mūsų tautos gyvenimo
     laikotarpį.
@@ -66,9 +67,12 @@ K. Masiliūnas minimas kaip viceministeris, rūpinęsis veikalo bendradarbių su
   pagrindžia:
     - t-003
 - c-002
-  santrauka: 'K. Masiliūnas kartu su J. Tonkūnu rūpinosi bendradarbių parinkimu ir rėmė dirbamą darbą.'
+  santrauka: 'K. Masiliūnas kartu su J. Tonkūnu rūpinosi bendradarbių rinkimu ir teikė paramą atliekamam darbui.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Norėtumėm pareikšti viltį, kad vadovėlis nors iš dalies pa-
+    tenkins gyvą visuomenės ir mokyklos reikalą, o kartu ir padė-
+    koti visiems, kurie prisidėjo prie jo pasirodymo. Pirmiausia
     tenka padėkoti p. Švietimo Ministeriui prof. J. Tonkūnui ir Vi-
     ceministeriui K. Masiliūnui, kurie daugiausia rūpinosi renkant
     bendradarbius, o vėliau visą laiką rodė dėmesį dirbamajam dar-

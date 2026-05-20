@@ -32,7 +32,10 @@ Taigi buvo įkurtas (1228 m.) vyskupo priklausąs riterių ordinas, kurs pagal s
   santrauka: 'Dobrinės ordinas buvo 1228 m. įkurtas vyskupui priklausęs riterių ordinas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Taigi buvo įkurtas (1228 m.) vyskupo
+    Tada vysk. Kristijonas kartu su
+    kunigaikščiu Konradu sumanė čia įkurti tokią pat pastovią or-
+    ganizaciją krikščionių reikalams ginti, kokią vysk. Albertas bu-
+    vo įkūręs Livonijoj. Taigi buvo įkurtas (1228 m.) vyskupo
     priklausąs riterių ordinas, kurs pagal savo gyvenamąją vietą
     buvo vadinamas Dobrinės ordinu. Bet riterių buvo ne-
     daug, todėl ir jų pagalba buvo nedidelė: jie vos įstengdavo ap-
@@ -44,3 +47,7 @@ Taigi buvo įkurtas (1228 m.) vyskupo priklausąs riterių ordinas, kurs pagal s
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/ivykiai/Dobrinės ordino įkūrimas]]

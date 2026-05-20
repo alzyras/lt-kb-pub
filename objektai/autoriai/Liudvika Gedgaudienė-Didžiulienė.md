@@ -6,13 +6,16 @@ variantai:
 aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-laikotarpis: ''
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
+datos:
+  - '2013 m.'
+periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodo_grupes:
+  - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XXI'
+date_start: '2013'
 date_end: ''
+laikotarpis: ''
 vaidmenys:
   - 'užrašų autorė'
   - 'prisiminimų autorė'
@@ -34,22 +37,40 @@ Liudvika Gedgaudienė-Didžiulienė šiame leidinyje minima kaip užrašų ir pr
 
 ## Teiginiai
 - t-003
-  teiginys: 'Liudvika Gedgaudienė-Didžiulienė šiame leidinyje įvardijama kaip užrašų autorė.'
+  teiginys: 'Liudvika Gedgaudienė-Didžiulienė paliko užrašus su prisiminimais apie sukilėlių pajėgų telkimą Salų miestelyje.'
   pagrindžia:
-    - c-001
+    - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-004
-  teiginys: 'Liudvikos Gedgaudienės-Didžiulienės užrašuose aprašomas sukilėlių pajėgų telkimas Salų miestelyje.'
+  teiginys: 'Sierakausko nurodymu jie : SUKILĖLIŲ PULKAI Iš Liudvikos Gedgaudienės-Didžiulienės užrašų.'
   pagrindžia:
-    - c-002
-    - c-003
+    - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Liudvika Gedgaudienė-Didžiulienė šiame leidinyje įvardijama kaip užrašų autorė.'
+  santrauka: 'Sierakausko nurodymu jie : SUKILĖLIŲ PULKAI Iš Liudvikos Gedgaudienės-Didžiulienės užrašų.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Z. Sierakausko nurodymu jie
+
+    : SUKILĖLIŲ PULKAI
+
+    Iš Liudvikos Gedgaudienės-Didžiulienės užrašų. Sukilimo metu dar vaiku buvusios
+    moters prisiminimai apie telkiamas sukilėlių pajėgas Salų miestelyje.
+
+    „Štai vieną dieną bažnyčioje visais varpais skambina.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
+- c-002
+  santrauka: 'Liudvika Gedgaudienė-Didžiulienė paliko užrašus su prisiminimais apie sukilėlių pajėgų telkimą Salų miestelyje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Iš Liudvikos Gedgaudienės-Didžiulienės užrašų. Sukilimo metu dar vaiku buvusios
@@ -61,39 +82,10 @@ Liudvika Gedgaudienė-Didžiulienė šiame leidinyje minima kaip užrašų ir pr
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
-- c-002
-  santrauka: 'Liudvikos Gedgaudienės-Didžiulienės užrašuose aprašomas sukilėlių pajėgų telkimas Salų miestelyje.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    „Štai vieną dieną bažnyčioje visais varpais skambina. Pulkai žmonių eina į Salas. Nuėjo
-    ir mūsų tėveliai ir visa šeimyna; tiktai mes vaikai su bobute namie belikome. Kaip gaila!
-    Sugrįžę apsakinėjo tokius gražius daiktus.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-004
-- c-003
-  santrauka: 'Liudvikos Gedgaudienės-Didžiulienės užrašuose aprašomas sukilėlių pajėgų telkimas Salų miestelyje.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Buvusi ten atėjusi Lietuvos kariuomenė, trys didžiausi pulkai. Vienas pulkas, Dolegos
-    vedamas, antras kunigo Mackevičiaus, trečias kunigo Pežos-Palionio. Pirmajame visi
-    | kareiviai gražiai apsitaisę, prie šonų šoblios, ant pečių muškietai, ant galvų konfederat-
-    kos. Antrasai pulkas aptaisytas, kas ką turėjo; o trečiasai - sodiečių, beveik visų vyzoty,
-    dalgėm apginkluotų.
 
-    Gražų pamokslą lenkiškai, tą pat ir lietuviškai sakęs kunigas Mackevičius. Visa kariuo-
-    menė ir pulkų pulkai žmonių klausę tyrame lauke ir net verkę girdėdami sakant:
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XXI amžius]]
 
-    ~ Eikime, broliai, už vierą šventą, už tėvynę mūsų brangiąją Lietuvą ir už mūsų bro-
-    lius Lietuvius!“
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-004
+### Susiję objektai
+- [[objektai/vietos/Salos]]

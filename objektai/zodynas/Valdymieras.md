@@ -24,51 +24,28 @@ Vartojamos formos: `valdymierais`, `valdymierai`.
 - t-005
   teiginys: '`Valdymieras` čia reiškia valdovą arba aukščiausią viešpatį.'
   pagrindžia:
-    - c-002
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
-- t-006
-  teiginys: 'Terminas gali būti vartojamas tiek dieviškos, tiek politinės valdžios prasme.'
-  pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-007
+- t-006
   teiginys: '`Valdymierai` šiame tekste reiškia tautų valdovus.'
   pagrindžia:
-    - c-003
+    - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-008
-  teiginys: 'Jiems priskiriamas svetimų parėdymų įvedimas siekiant padidinti valdžią.'
+- t-007
+  teiginys: 'Valdymierai kartais įvesdavo svetimus parėdymus, siekdami padidinti savo valdžią ir pavergti žmones.'
   pagrindžia:
-    - c-003
+    - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Terminas gali būti vartojamas tiek dieviškos, tiek politinės valdžios prasme.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    kaipo tą rodo pačios karės, kurias senovėj su persų viešpačiais ir su grekonų
-    valdymierais^79 turėjo; jog yra buvusi didžiai turtinga, akyla ir sugebanti, jei išgalėjo stengti^80 prieš
-    taip stiprius ir narsius neprietelius,
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-006
-- c-002
   santrauka: '`Valdymieras` čia reiškia valdovą arba aukščiausią viešpatį.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
-    Jei netyčiomis jis
-    tenai pavirstų, atsikelti ir stotis, sako, nevalna^102 yra, nes turi ant pilvo išsiristi. Visi tie prietarai ant
-    to eina, sako toliau, jog nuo ten prasidėjusi jų tauta, kame esąs visų valdymieras dievas, kurio kiti
-    visi klausą ir tarnaują. Laimė žemaičių tą tvirtinanti.
+    Jei netyčiomis jis tenai pavirstų, atsikelti ir stotis, sako, nevalna^102 yra, nes turi ant pilvo išsiristi. Visi tie prietarai ant to eina, sako toliau, jog nuo ten prasidėjusi jų tauta, kame esąs visų valdymieras dievas, kurio kiti visi klausą ir tarnaują. Laimė žemaičių tą tvirtinanti.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -76,21 +53,19 @@ Vartojamos formos: `valdymierais`, `valdymierai`.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
-- c-003
+- c-002
   santrauka: '`Valdymierai` šiame tekste reiškia tautų valdovus.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
-    nesgi anie tankiai regėjo per prityrimą, jog valdymierai tautų dėl to vien kartais
-    įveda svetimus parėdymus^710 į savo ūkę, idant per tą galėtų padidinti savo valdžią ir svietą
-    nuvergti.
+    nesgi anie tankiai regėjo per prityrimą, jog valdymierai tautų dėl to vien kartais įveda svetimus parėdymus^710 į savo ūkę, idant per tą galėtų padidinti savo valdžią ir svietą nuvergti.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
+    - t-006
     - t-007
-    - t-008
 
 ## Pastabos
 

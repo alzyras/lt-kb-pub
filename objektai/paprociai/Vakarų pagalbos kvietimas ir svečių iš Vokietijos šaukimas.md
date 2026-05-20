@@ -45,7 +45,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-005
-  teiginys: 'Popiežiaus privilegijų skatinami iš Vokietijos atvykę kryžininkai didino Kalavijuočių ordino pajėgas.'
+  teiginys: 'Popiežiaus privilegijų skatinami kryžininkai iš Vokietijos didino naujo ordino gretas.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -53,10 +53,14 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Popiežiaus privilegijų skatinami iš Vokietijos atvykę kryžininkai didino Kalavijuočių ordino pajėgas.'
+  santrauka: 'Popiežiaus privilegijų skatinami kryžininkai iš Vokietijos didino naujo ordino gretas.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Popiežiaus privi­
+    Pagal Palestinoje
+    su turkais kovojančių templininkų statutą, vyskupo priklausomybėje
+    1202-1203 m. žiemą buvo įkurtas kalavijuočių ordinas ( _Fratres Militiae
+    Christi_ ). Jojo nariai ( _Schwertbrueder_ ) ant savo balto apsiausto, be
+    raudono kryžiaus, nešiojo dar išsiuvinėtą kalaviją. Popiežiaus privi­
     legijų skatinami, iš Vokietijos atvykstantieji kryžininkai didino naujo
     ordino prieauglių.
   citata_rodoma: ""
@@ -73,3 +77,4 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/grupes/Kalavijuočių ordinas]]
+- [[objektai/daiktai/Baltas apsiaustas su išsiuvinėtu kalaviju]]

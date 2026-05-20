@@ -41,7 +41,7 @@ Nenurodyta
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Riterių vėliavos netekimas kovoje viduramžiais laikytas didele nelaime.'
+  teiginys: 'Riterių vėliavos netekimas kovoje viduramžiais laikytas didele nelaime dėl itin vertintos ženklų simbolikos.'
   pagrindžia:
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -52,7 +52,10 @@ Nenurodyta
   santrauka: 'Aizkrauklės mūšyje pagonims atitekusi riterių vėliava Livonijoje buvo suvokta kaip didelis smūgis krikščionybei.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Iš to, ką
+    5 d.), iš kurių kry­
+    žiuočių nelaimei pasitraukė žiemgaliai^238 , žuvo pats magistras ir 71
+    ordino riteris^239. Skaudžiam Aizkrauklės pralaimėjimni Eiliuotinės
+    kronikos autorius tepaskyrė, palyginti, nedaug posmelių. Iš to, ką
     kronistas pasakė, matyti, jog tos kautynės Livonijoje buvo pergy­
     ventos, kaip «didelis smūgis krikščionybei», ypač kai «krito » ir
     pagonims atiteko riterių vėliava 240 *.
@@ -64,10 +67,14 @@ Nenurodyta
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Riterių vėliavos netekimas kovoje viduramžiais laikytas didele nelaime.'
+  santrauka: 'Riterių vėliavos netekimas kovoje viduramžiais laikytas didele nelaime dėl itin vertintos ženklų simbolikos.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    O jos netekimas kovoje, prie
+    Skaudžiam Aizkrauklės pralaimėjimni Eiliuotinės
+    kronikos autorius tepaskyrė, palyginti, nedaug posmelių. Iš to, ką
+    kronistas pasakė, matyti, jog tos kautynės Livonijoje buvo pergy­
+    ventos, kaip «didelis smūgis krikščionybei», ypač kai «krito » ir
+    pagonims atiteko riterių vėliava 240 *. O jos netekimas kovoje, prie
     viduriniais amžiais perdėtai vertinamos įvairių ženklų simbolikos,
     skaitėsi didelė nelaimė.
   citata_rodoma: ""

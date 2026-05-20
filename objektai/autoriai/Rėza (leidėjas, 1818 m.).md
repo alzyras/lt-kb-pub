@@ -36,13 +36,13 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
 
 ## Teiginiai
 - t-001
-  teiginys: 'Rėza 1818 m. išleido Duonelaičio raštus ir 1825 m. dainų rinkinį.'
+  teiginys: 'Rėza 1818 m. išleido Duonelaičio raštus, o 1825 m. - savo išgarsėjusį dainų rinkinį.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Rėza išleido trečią Šventojo Rašto leidimą, paskelbė Duonelaičio raštus ir išleido liaudies dainų rinkinį.'
+  teiginys: 'Rėza išleido trečią Šventojo Rašto leidimą, 1818 m. paskelbė Duonelaičio raštus ir 1825 m. išleido liaudies dainų rinkinį.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -56,9 +56,14 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Rėza 1818 m. išleido Duonelaičio raštus ir 1825 m. dainų rinkinį.'
+  santrauka: 'Rėza 1818 m. išleido Duonelaičio raštus, o 1825 m. - savo išgarsėjusį dainų rinkinį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Ir neturtingų bajorų
+    tarpe atsirado apsišvietusių žmonių, kurie, mylėdami savo kraš-
+    tą, ėmė domėtis viskuo, kas sava. Neužmiršo jie nė savo kal-
+    bos; vienas kitas pradėjo bandyti žemaitiškai rašyti ir rinkti
+    savo krašto padavimus ir įvairias senienas.
     Šitą sąjūdį dar labiau sustiprino susidomėjimas lietuviš-
     kumu, kurį paskatino Vilniaus universitetas, ir XIX amž. pra-
     džioje pasirodęs visuotinis susidomėjimas lietuvių kalba ir lie-
@@ -75,7 +80,7 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Rėza išleido trečią Šventojo Rašto leidimą, paskelbė Duonelaičio raštus ir išleido liaudies dainų rinkinį.'
+  santrauka: 'Rėza išleido trečią Šventojo Rašto leidimą, 1818 m. paskelbė Duonelaičio raštus ir 1825 m. išleido liaudies dainų rinkinį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Paskutiniai tos rūšies
@@ -94,7 +99,9 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
   santrauka: 'Rėza buvo vienas iš lietuvių kalbos gynėjų per ginčą, kuriame lietuvių kalba buvo apginta.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Bet tuojau atsirado ir karštų lietuvių kalbos
+    Tuo būdu parapijos paveldėjamuoju keliu
+    einančios iš tėvų į vaikus. Todėl, esą, negalima parinkti nė tin-
+    kamesnių kunigų. Bet tuojau atsirado ir karštų lietuvių kalbos
     gynėjų (prof. Rėza, kunigas Ostermejeris, mokytojas Gizevijas);
     laikraščiuose prasidėjo karštas ginčas, ir lietuvių kalba šį kartą
     buvo apginta.

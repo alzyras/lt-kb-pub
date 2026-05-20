@@ -34,7 +34,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Susidūrę su lietuviais, stebėtojai pastebėdavo šventuosius miškus, amžinąsias ugnis, dievų vardus ir tikybines apeigas.'
+  teiginys: 'Susidūrę su lietuviais, svetimieji pastebėdavo šventuosius miškus, amžinąsias ugnis, dievų vardus ir tikybines apeigas.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -42,9 +42,14 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Susidūrę su lietuviais, stebėtojai pastebėdavo šventuosius miškus, amžinąsias ugnis, dievų vardus ir tikybines apeigas.'
+  santrauka: 'Susidūrę su lietuviais, svetimieji pastebėdavo šventuosius miškus, amžinąsias ugnis, dievų vardus ir tikybines apeigas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Ano
+    meto Lietuva savo kultūra, žinoma, negalėjo žavėti svetimšalių. Tai
+    buvo pelkėtas ir miškuotas kraštas, nusėtas medinėmis pilaitėmis; tuo
+    jis, žinoma, negalėdavo stebinti Europos riterių, kurie buvo papratę
+    savo kraštuose ant aukštų uolinių kalnų matyti galingas akmens pilis.
     Be to, susidurdami su lietuviais, jie čia pastebėdavo daug to, kas
     jiems būdavo nesuprantama ir nepaprasta: šventuosius miškus, amži-
     nąsias ugnis, keistus dievų vardus, keistas tikybines apeigas.

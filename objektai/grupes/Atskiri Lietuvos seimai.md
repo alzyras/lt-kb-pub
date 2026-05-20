@@ -20,7 +20,7 @@ Ypač dažnai būdavo šaukiami atskiri Lietuvos seimai, einant karui su Maskva 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Ypač dažnai būdavo šaukiami atskiri Lietuvos seimai, einant karui su Maskva (mat, jis nelietė Lenkijos).'
+  teiginys: 'Atskiri Lietuvos seimai ypač dažnai būdavo šaukiami vykstant karui su Maskva, nes jis nelietė Lenkijos.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -40,9 +40,13 @@ Ypač dažnai būdavo šaukiami atskiri Lietuvos seimai, einant karui su Maskva 
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Ypač dažnai būdavo šaukiami atskiri Lietuvos seimai, einant karui su Maskva (mat, jis nelietė Lenkijos).'
+  santrauka: 'Atskiri Lietuvos seimai ypač dažnai būdavo šaukiami vykstant karui su Maskva, nes jis nelietė Lenkijos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Tuojau po Liublino unijos abi valstybės turėjo labai daug skir-
+    tingų reikalų, kurie kartais visai neliesdavo antrosios valstybės.
+    Todėl buvo nemaža atsitikimų, kad, neatsižvelgdamas į unijos
+    akto nuostatus, net pats karalius sušaukdavo atskirus seimus.
     Ypač dažnai būdavo šaukiami atskiri Lietuvos seimai, einant
     karui su Maskva (mat, jis nelietė Lenkijos).
   citata_rodoma: ""
@@ -56,7 +60,8 @@ Ypač dažnai būdavo šaukiami atskiri Lietuvos seimai, einant karui su Maskva 
   santrauka: 'Atskirus Lietuvos seimus tarpuvaldžiais dažnai šaukdavo patys Lietuvos ponai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Bet dar dažniau
+    Ypač dažnai būdavo šaukiami atskiri Lietuvos seimai, einant
+    karui su Maskva (mat, jis nelietė Lenkijos). Bet dar dažniau
     atskirus Lietuvos seimus šaukdavo patys Lietuvos ponai tarpu-
     valdžiuose (karalių nebuvimo metu). Taip antai, po Zigmanto
     Augusto ir po vėlesniųjų karalių mirties visada susirinkdavo
@@ -89,3 +94,4 @@ Ypač dažnai būdavo šaukiami atskiri Lietuvos seimai, einant karui su Maskva 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/paprociai/Atskiri Lietuvos seimai karo ir tarpuvaldžio metu]]
+- [[objektai/ivykiai/Maskvos ir Švedų užpuolimas Lietuvai (1654–1655 m.)]]

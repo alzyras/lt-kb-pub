@@ -24,8 +24,8 @@ Vartojamos formos: `vėdliais`, `vėdlių`.
 - t-002
   teiginys: '`Vėdliai` šiame tekste reiškia jaunojo vestuvių palydą.'
   pagrindžia:
-    - c-001
     - c-002
+    - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 
@@ -34,8 +34,7 @@ Vartojamos formos: `vėdliais`, `vėdlių`.
   santrauka: '`Vėdliai` šiame tekste reiškia jaunojo vestuvių palydą.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
-    Visi tie jaunojo svečiai vadinos vėdliais nuo to, jog
-    keliavo parvėdlauti savo jaunajam žmoną.
+    Atėjus trečiajai ar ketvirtajai dienai, kartais ir šeštajai dienai, sutemus naktį ėmė vėdliai marčią martuoti, beje, į kelią rėdyti; taip pradeda tuo kartu jaunąją vadinti.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -47,8 +46,7 @@ Vartojamos formos: `vėdliais`, `vėdlių`.
   santrauka: '`Vėdliai` šiame tekste reiškia jaunojo vestuvių palydą.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
-    Atėjus trečiajai ar ketvirtajai dienai, kartais ir šeštajai dienai, sutemus naktį ėmė vėdliai marčią
-    martuoti, beje, į kelią rėdyti; taip pradeda tuo kartu jaunąją vadinti.
+    Visi tie jaunojo svečiai vadinos vėdliais nuo to, jog keliavo parvėdlauti savo jaunajam žmoną.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

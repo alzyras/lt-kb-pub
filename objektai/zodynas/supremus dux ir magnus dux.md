@@ -20,13 +20,13 @@ tags: []
 
 ## Teiginiai
 - t-003
-  teiginys: 'Jogaila Kęstučio atžvilgiu buvo vadinamas supremus dux, tai yra aukščiausiu kunigaikščiu.'
+  teiginys: 'Pagal 1379 m. sutartį su Ordinu Jogaila Kęstučio atžvilgiu buvo tik supremus dux, tai yra aukščiausias kunigaikštis.'
   pagrindžia:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-004
-  teiginys: 'Vytautas Jogailos atžvilgiu buvo magnus dux, tai yra didysis kunigaikštis.'
+  teiginys: 'Jogailai tapus Lenkijos karaliumi, Vytautas jo atžvilgiu buvo magnus dux, tai yra didysis kunigaikštis.'
   pagrindžia:
     - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -34,10 +34,14 @@ tags: []
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Jogaila Kęstučio atžvilgiu buvo vadinamas supremus dux, tai yra aukščiausiu kunigaikščiu.'
+  santrauka: 'Pagal 1379 m. sutartį su Ordinu Jogaila Kęstučio atžvilgiu buvo tik supremus dux, tai yra aukščiausias kunigaikštis.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Jam mirus Vilniaus d. kun. tapo Jogaila, kuris, spren­
+    Mes žinom, kad Lietuvą savo laiku valdė du didžiuoju ku­
+    nigaikščiu: Algirdas Vilniuj, Trakuose Kęstutis. Toks Lietu­
+    vos žemių dviejų kun. valdymas istorijoj vadinamas vienų is­
+    torikų dualizmu, kitų — diarchija nežuvo ir kai mirė Algirdas
+    (1377). Jam mirus Vilniaus d. kun. tapo Jogaila, kuris, spren­
     džiant iš 1379 m. sutarties su Ordinu, Kęstučio atžvilgiu buvo
     tiktai supremus dux (aukščiausias kunigaikštis).
   citata_rodoma: ""
@@ -48,7 +52,7 @@ tags: []
   pagrindžia:
     - t-003
 - c-002
-  santrauka: 'Vytautas Jogailos atžvilgiu buvo magnus dux, tai yra didysis kunigaikštis.'
+  santrauka: 'Jogailai tapus Lenkijos karaliumi, Vytautas jo atžvilgiu buvo magnus dux, tai yra didysis kunigaikštis.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Dabar įdomu atsakyti, kas atsitiko su ta sistema, kai Jo­
@@ -72,3 +76,7 @@ tags: []
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
 - [[laikotarpiai/XV amžius]]
+
+### Susiję objektai
+- [[objektai/zodynas/diarchija]]
+- [[objektai/zodynas/supremus dux magnus dux]]

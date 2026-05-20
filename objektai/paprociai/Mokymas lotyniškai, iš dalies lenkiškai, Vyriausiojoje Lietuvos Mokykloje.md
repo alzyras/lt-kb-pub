@@ -45,6 +45,9 @@ Nenurodyta
   santrauka: 'Vyriausiojoje Lietuvos Mokykloje dauguma dalykų tebebuvo dėstoma lotyniškai, o kai kurie - lenkiškai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Fizinėje kolegijoje
+    buvo mokoma gamtos mokslų, matematikos ir medicinos. Tuo būdu
+    V. Mokykloje buvo dėstomi visi to meto universitetiniai mokslai.
     Daugumas dalykų tebebuvo dėstoma lotyniškai, tik kai kurie daly-
     kai — lenkiškai (galutinai lenkų kalba čia buvo įvesta tik 1816 m.,
     t. y. jau universiteto laikais).

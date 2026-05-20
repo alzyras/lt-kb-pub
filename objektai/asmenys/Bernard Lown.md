@@ -48,4 +48,3 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Aaron Klug]]
-- [[objektai/vietos/Želva]]

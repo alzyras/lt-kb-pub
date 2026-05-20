@@ -35,6 +35,13 @@ Baudžiavos panaikinimo vykdymas buvo pačių dvarininkų rankose, nes visi taik
   santrauka: 'Baudžiavos panaikinimo vykdymas buvo pačių dvarininkų rankose, nes visi taikos tarpininkai buvo renkami iš jų tarpo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Caras Aleksandras II
+    (1855-1881 m.).
+    Reformai atlikti buvo sudarytos apskrityse valstiečių ko-
+    misijos, apskritys padalintos į apylinkes, kurių priešaky bu-
+    vo pastatyti taikos tarpininkai, o didesniesiems nesu-
+    sipratimams spręsti — visų tarpininkų suvažiavimai, vadinami
+    taikos suvažiavimais.
     Baudžiavos panaikinimo vykdymas buvo pačių dvarininkų
     rankose, nes visi taikos tarpininkai buvo renkami iš jų tarpo.
   citata_rodoma: ""
@@ -48,7 +55,10 @@ Baudžiavos panaikinimo vykdymas buvo pačių dvarininkų rankose, nes visi taik
   santrauka: 'Viso valstiečių savivaldybių veikimo priežiūra buvo pavesta taikos tarpininkams su taikos teisėjais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Viso valstiečių savivaldybių veikimo priežiūra buvo
+    Centro valdžios skirtiems valdininkams bu-
+    vo įsakyta stropiai žiūrėti, kad dvarininkai ir dvarų administra-
+    cijos tarnautojai nedalyvautų valsčių sueigose ir nesikištų į jų
+    nutarimus. Viso valstiečių savivaldybių veikimo priežiūra buvo
     pavesta taikos tarpininkams su taikos teisėjais. Kai XIX a. gale
     taikos tarpininkai ir taikos teisėjai buvo pakeisti vad. žemiečių
     viršininkais, šie taip pat prižiūrėjo ir valsčių savivaldybes.
@@ -63,3 +73,4 @@ Baudžiavos panaikinimo vykdymas buvo pačių dvarininkų rankose, nes visi taik
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/paprociai/Valsčių savivaldybių priežiūra per taikos tarpininkus ir taikos teisėjus]]
+- [[objektai/zodynas/taikos suvažiavimai]]

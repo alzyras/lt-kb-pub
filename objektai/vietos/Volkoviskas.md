@@ -6,6 +6,17 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1936'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - seimas
@@ -19,25 +30,22 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Volkovisko sritis priskirta prie kadaise prarastų lietuviškųjų sričių.'
+  teiginys: 'Danieliaus sūnui Romanui Mindaugas davė valdyti Naugarduką, o Vaišvilkas gavo Slanimo, Volkovisko ir kitus atgautų sričių miestus.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Prieš bendruosius seimus Lietuvos atstovų ir senatorių suvažiavimai iš pradžių vykdavo Volkoviske, vėliau Slanime.'
-  pagrindžia:
-    - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Volkovisko sritis priskirta prie kadaise prarastų lietuviškųjų sričių.'
+  santrauka: 'Danieliaus sūnui Romanui Mindaugas davė valdyti Naugarduką, o Vaišvilkas gavo Slanimo, Volkovisko ir kitus atgautų sričių miestus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    ėmė kadaise nustotas (žiūr. 38 psl.) lietuviškąsias Gardino, Nau-
-    garduko, Slanimo ir Volkovisko sritis.
+    Sutartis buvo susti-
+    printa Mindaugo dukters ir Danieliaus sūnaus Švarno vedybo-
+    mis. Danieliaus sūnui Romanui Mindaugas davė valdyti Nau-
+    garduką, o Vaišvilkas gavo Slanimo, Volkovisko ir kitus atgautų
+    sričių miestus. Tik jie turėjo pripažinti Mindaugo valdžią.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -45,22 +53,12 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Prieš bendruosius seimus Lietuvos atstovų ir senatorių suvažiavimai iš pradžių vykdavo Volkoviske, vėliau Slanime.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Ir Lietuvoje prieš kiekvieną bendrąjį
-    seimą taip pat buvo pradėti daryti tokie pat į seimą vyks-
-    tančių atstovų ir senatorių suvažiavimai. Iš pradžių jie įvyk-
-    davo Volkoviske, o vėliau Slanime.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
 ### Susiję objektai
 - [[objektai/vietos/Naugardukas]]
+- [[objektai/vietos/Slanimas]]

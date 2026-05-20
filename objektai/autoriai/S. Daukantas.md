@@ -31,27 +31,21 @@ S. Daukantas šiame šaltinyje minimas kaip istorikas, rašytojas; jam priskiria
 
 ## Teiginiai
 - t-004
-  teiginys: 'Daukantas parašė „Darbus senovės lietuvių ir žemaičių“, „Būdą senovės lietuvių“ ir „Lietuvos istoriją“.'
+  teiginys: 'Daukantas parašė „Darbus senovės lietuvių ir žemaičių“, „Būdą senovės lietuvių“ ir dviejų tomų „Lietuvos istoriją“.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-005
-  teiginys: 'S. Daukantas rašė pasaulinio turinio knygas.'
+  teiginys: 'Spaudos draudimo metais Amerikoje buvo išleista Daukanto raštų.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-006
-  teiginys: 'Daukantas buvo tarp žymesnių lietuvių autorių, kurių raštai spaudos draudimo metais buvo išleisti Amerikoje.'
-  pagrindžia:
-    - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Daukantas parašė „Darbus senovės lietuvių ir žemaičių“, „Būdą senovės lietuvių“ ir „Lietuvos istoriją“.'
+  santrauka: 'Daukantas parašė „Darbus senovės lietuvių ir žemaičių“, „Būdą senovės lietuvių“ ir dviejų tomų „Lietuvos istoriją“.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pirmieji tikri, susipratę lietuviai, buvę aiškioje Vilniaus uni-
@@ -72,23 +66,12 @@ S. Daukantas šiame šaltinyje minimas kaip istorikas, rašytojas; jam priskiria
   pagrindžia:
     - t-004
 - c-002
-  santrauka: 'S. Daukantas rašė pasaulinio turinio knygas.'
+  santrauka: 'Spaudos draudimo metais Amerikoje buvo išleista Daukanto raštų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Bet iš dalies jau Daukantas, pats Valančius ir jo bendra-
-    darbiai rašė ir visokių pasaulinio turinio knygų.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-005
-- c-003
-  santrauka: 'Daukantas buvo tarp žymesnių lietuvių autorių, kurių raštai spaudos draudimo metais buvo išleisti Amerikoje.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tuo
+    Per 35 m. ji išleido 40
+    veikalų (ne tik originalių lietuviškų raštų, bet ir verstinių). Be
+    jos, ėmė leisti knygas įvairūs laikraščiai ir atskiri asmens. Tuo
     būdu, kai Lietuvoje buvo draudžiama spauda, Amerikoje buvo
     išleista daugumas žymesniųjų lietuvių autorių (Duonelaičio,
     Strazdelio, Daukanto, Valančiaus, Ivinskio, Kudirkos ir t.t.)
@@ -99,9 +82,8 @@ S. Daukantas šiame šaltinyje minimas kaip istorikas, rašytojas; jam priskiria
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-006
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/K. Duonelaitis]]
-- [[objektai/autoriai/Motiejus Valančius]]

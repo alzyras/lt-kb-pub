@@ -12,14 +12,6 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 bukle: 'juodrastis'
 laikotarpis: '1991 m. sausio-rugpjūčio mėnesiai; ypač 1991 m. sausio 11-13 d., 1991 m. sausio 13-osios naktis ir 1991 m. rugpjūčio pučo dienos'
-datos:
-  - '1991 m. sausio-rugpjūčio mėnesiai; ypač 1991 m. sausio 11-13 d., 1991 m. sausio 13-osios naktis ir 1991 m. rugpjūčio pučo dienos'
-periodas: 'siuolaikine_istorija'
-periodo_grupes: []
-amziai:
-  - 'XX'
-date_start: '1991'
-date_end: '1991'
 vaidmenys: []
 dalyviai:
   - 'Vytautas Landsbergis'
@@ -34,6 +26,18 @@ dalyviai:
   - 'sovietų pajėgos'
   - 'OMON'
 susije_irasai: []
+datos:
+  - '1991 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodo_grupes:
+  - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1991'
+date_end: '2026'
 patikimumas: 'aukstas'
 tags:
   - karas
@@ -58,81 +62,50 @@ Nenurodyta
 
 ## Teiginiai
 - t-009
-  teiginys: 'Pirmosiomis sausio dienomis gynėjai buvo išdėstyti ginti rūmus, jų išorinį perimetrą ir atakuoti sovietų pajėgas iš nugaros.'
+  teiginys: 'Gynyba buvo grindžiama trimis principais, o politinė vadovybė laikėsi nuostatos nepasiduoti, bet ir neperžengti paskutinės ribos be būtinybės.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-010
-  teiginys: 'Gynyba buvo grindžiama trimis principais, o politinė vadovybė laikėsi nuostatos nepasiduoti, bet ir neperžengti paskutinės ribos be būtinybės.'
-  pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-011
-  teiginys: 'Karinės inžinerijos prasme Aukščiausiosios Tarybos rūmų gynybą sudarė rūmų vidaus, išorinio perimetro ir tolimųjų prieigų žiedai.'
+  teiginys: '1991 m. sausio 13-osios naktį užpuolimas buvo įvardytas kaip karinė agresija ir svetimos jėgos primestas karo stovis.'
   pagrindžia:
     - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-012
-  teiginys: '1991 m. sausio 13-osios naktį užpuolimas buvo įvardytas kaip karinė agresija ir svetimos jėgos primestas karo stovis.'
+- t-011
+  teiginys: 'Sausio 13-osios naktį žuvo 14 laisvės gynėjų, beveik tūkstantis žmonių buvo sužeisti, o Parlamento užpuolikai nebepuolė.'
   pagrindžia:
     - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-013
-  teiginys: 'Sausio 13-osios naktį žuvo 14 laisvės gynėjų, netoli tūkstančio buvo sužeisti, o Parlamento užpuolikai nebepuolė.'
+- t-012
+  teiginys: 'Pirmosiomis savaitėmis po kruvinosios nakties buvo įrengtos smėlio, akmenų ir gelžbetonio barikados, o gynyba buvo planingai stiprinama.'
   pagrindžia:
     - c-005
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-014
-  teiginys: 'Pirmosiomis savaitėmis po kruvinosios nakties buvo įrengtos smėlio, akmenų ir gelžbetonio barikados, o gynyba buvo planingai stiprinama.'
+- t-013
+  teiginys: 'Artėjant 1991 m. rugpjūčio Maskvos pučui, Lietuvos kariai jau turėjo pirmąsias uniformas, o AT gynyba buvo geriau organizuota.'
   pagrindžia:
     - c-006
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-015
-  teiginys: 'Artėjant 1991 m. rugpjūčio Maskvos pučui, Lietuvos kariai jau turėjo pirmąsias uniformas, o AT gynyba buvo geriau organizuota.'
+- t-014
+  teiginys: 'Sausio 11-13 d. Aukščiausiosios Tarybos rūmuose duota kario savanorio priesaika tapo teisiniu pagrindu Lietuvos piliečiui ginti valstybę ginklu.'
   pagrindžia:
     - c-007
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-016
-  teiginys: 'Sausio 11-13 d. priesaika sudarė teisinį pagrindą Lietuvos piliečiui ginti savo valstybę ginklu, o gynyboje dalyvavo kariai savanoriai, KAD darbuotojai, pasieniečiai, apsaugos pareigūnai ir šauliai.'
+- t-015
+  teiginys: 'Karinės inžinerijos prasme rūmų gynyba buvo sudaryta iš trijų žiedų: rūmų vidaus, išorinio perimetro, tolimųjų rūmų prieigų.'
   pagrindžia:
-    - c-008
+    - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Pirmosiomis sausio dienomis gynėjai buvo išdėstyti ginti rūmus, jų išorinį perimetrą ir atakuoti sovietų pajėgas iš nugaros.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Pirmomis sausio įvykių dienomis tik
-    mažesnioji gynėjų dalis turėjo aiškesnę uz-
-    duotį - pagal galimybes ginti AT rūmus ir
-    jų išorinį perimetrą, siekiant užfiksuoti patį
-    pasipriešinimo faktą, o daliai ginkluotų gy-
-    nėjų AT šturmo metu atakuoti šturmuojan-
-    čias sovietų pajėgas iš nugaros. Tuo tikslu
-    dalis ginkluotų A. Pociaus vadovaujamų
-    vyrų buvo išdėstyti ties Žvėryno tiltu ki-
-    toje Neries pusėje, dalis kovotojų išsidėstė
-    ant Nacionalinės M. Mažvydo bibliotekos
-    stogo. Gynėjai išsikėlė nerašytą misiją - pa-
-    sipriešinti bet kokiu atveju ir nepakartoti
-    1940 m. klaidos!
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-009
-- c-002
   santrauka: 'Gynyba buvo grindžiama trimis principais, o politinė vadovybė laikėsi nuostatos nepasiduoti, bet ir neperžengti paskutinės ribos be būtinybės.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -148,9 +121,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-010
-- c-003
-  santrauka: 'Karinės inžinerijos prasme Aukščiausiosios Tarybos rūmų gynybą sudarė rūmų vidaus, išorinio perimetro ir tolimųjų prieigų žiedai.'
+    - t-009
+- c-002
+  santrauka: 'Karinės inžinerijos prasme rūmų gynyba buvo sudaryta iš trijų žiedų: rūmų vidaus, išorinio perimetro, tolimųjų rūmų prieigų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     puolančiųjų. Karinės
@@ -158,14 +131,17 @@ Nenurodyta
     gynyba buvo sudaryta iš trijų žiedų: rūmų
     vidaus, išorinio perimetro, tolimųjų rūmų
     prieigų.
+
+    Inžineriniai įtvirtinimai buvo įrenginė-
+    jami trimis etapais.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-011
-- c-004
+    - t-015
+- c-003
   santrauka: '1991 m. sausio 13-osios naktį užpuolimas buvo įvardytas kaip karinė agresija ir svetimos jėgos primestas karo stovis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -181,9 +157,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-012
-- c-005
-  santrauka: 'Sausio 13-osios naktį žuvo 14 laisvės gynėjų, netoli tūkstančio buvo sužeisti, o Parlamento užpuolikai nebepuolė.'
+    - t-010
+- c-004
+  santrauka: 'Sausio 13-osios naktį žuvo 14 laisvės gynėjų, beveik tūkstantis žmonių buvo sužeisti, o Parlamento užpuolikai nebepuolė.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     „Nepuolam, bet nesitraukiam“ gynybinė nuostata pasiekė savo
@@ -197,8 +173,8 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-013
-- c-006
+    - t-011
+- c-005
   santrauka: 'Pirmosiomis savaitėmis po kruvinosios nakties buvo įrengtos smėlio, akmenų ir gelžbetonio barikados, o gynyba buvo planingai stiprinama.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -223,8 +199,8 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-014
-- c-007
+    - t-012
+- c-006
   santrauka: 'Artėjant 1991 m. rugpjūčio Maskvos pučui, Lietuvos kariai jau turėjo pirmąsias uniformas, o AT gynyba buvo geriau organizuota.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -240,9 +216,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-015
-- c-008
-  santrauka: 'Sausio 11-13 d. priesaika sudarė teisinį pagrindą Lietuvos piliečiui ginti savo valstybę ginklu, o gynyboje dalyvavo kariai savanoriai, KAD darbuotojai, pasieniečiai, apsaugos pareigūnai ir šauliai.'
+    - t-013
+- c-007
+  santrauka: 'Sausio 11-13 d. Aukščiausiosios Tarybos rūmuose duota kario savanorio priesaika tapo teisiniu pagrindu Lietuvos piliečiui ginti valstybę ginklu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     „Sausio 11-13 dienomis Aukščiausiosios Tarybos rūmuose duota Lietuvos kario savano-
@@ -259,12 +235,12 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-016
+    - t-014
 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/paprociai/Aukščiausiosios Tarybos gynybos principai]]
-- [[objektai/posakiai/Nepakartoti 1940 m. klaidos!]]

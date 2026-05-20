@@ -83,9 +83,6 @@ Nenurodyta
 ## Šaltiniai ir įrodymai
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/dokumentas]]
-
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
 - [[laikotarpiai/XXI amžius]]

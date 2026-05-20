@@ -32,6 +32,8 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
   santrauka: 'Tuo metu Maskva buvo užgrobusi Tartų (Dorpato) vyskupystę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Šitos sutarties nepripažino tik Rygos miestas; jis liko nepri-
+    klausomos iki 1582 m., kada jį nukariavo Steponas Batoras.
     Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vys-
     kupystę, Švedai — Talino (Revelio) miestą su apylinkėmis, o
     Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Pil-
@@ -44,3 +46,8 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Piltenė]]
+- [[objektai/vietos/Saremos]]

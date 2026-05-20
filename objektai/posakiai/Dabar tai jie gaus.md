@@ -33,7 +33,7 @@ tags:
 
 ## Teiginiai
 - t-003
-  teiginys: 'Ši frazė buvo kartojama kareivių prieš puolimą.'
+  teiginys: '„Dabar tai jie gaus“ kareiviai kartojo pakilus ūpui po pro rinktinę pravažiavusių keturių vokiečių patrankų.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -47,7 +47,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Ši frazė buvo kartojama kareivių prieš puolimą.'
+  santrauka: '„Dabar tai jie gaus“ kareiviai kartojo pakilus ūpui po pro rinktinę pravažiavusių keturių vokiečių patrankų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tada pro rinktinę pravažiavo keturios vokiečių

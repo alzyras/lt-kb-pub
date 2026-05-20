@@ -30,6 +30,10 @@ Kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones per savo 
   santrauka: 'Tėvūnai dvaruose prižiūrėjo visą tų dvarų ūkį.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
+    Valstybės priešaky stovėjo niekuo nevar­
+    žomas, monarcho teisėmis, did. kunigaikštis; sritys, su mažo­
+    mis išimtimis, buvo valdomos visai did. kun. priklausomų vie­
+    tininkų. Jų prievolė buvo valdyti tuos kraštus d. kun. vardu:
     prižiūrėti tvarką, teismus, rinkti mokesčius; be to, dar d. kun.
     dvaruose sėdėjo ir tėvūnai, prižiūrintieji visą tų dvarų ūkį.
   citata_rodoma: ""

@@ -13,19 +13,19 @@ saltiniai:
 datos:
   - '1251 m.'
   - '1387 m.'
+  - '1398 m.'
   - '1413 m.'
   - '1417 m.'
+  - '1418 m.'
   - '1422 m.'
   - '1936 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
+periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
-  - 'modernioji Lietuva'
 amziai:
   - 'XIII'
   - 'XIV'
   - 'XV'
-  - 'XVI'
   - 'XX'
 date_start: '1251'
 date_end: '1936'
@@ -57,7 +57,7 @@ tags:
 - [[laikotarpiai/XIII amžius]]
 - [[laikotarpiai/XIV amžius]]
 - [[laikotarpiai/XV amžius]]
-- [[laikotarpiai/XVI amžius]]
+- [[laikotarpiai/XX amžius]]
 
 ### Susiję objektai
 - [[objektai/vietos/Klaipėda]]

@@ -10,14 +10,24 @@ variantai:
 aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-laikotarpis: '1260–1268 m.` kontekstas; 1261 m.; 1268 m.; 1324 m.'
 datos:
-  - '1260–1268 m.` kontekstas; 1261 m.; 1268 m.; 1324 m.'
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
+  - '1260 m.'
+  - '1261 m.'
+  - '1268 m.'
+  - '1324 m.'
+  - '1978 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIII'
+  - 'XIV'
+  - 'XX'
+  - 'XXI'
+date_start: '1260'
+date_end: '2026'
+laikotarpis: '1260–1268 m.` kontekstas; 1261 m.; 1268 m.; 1324 m.'
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
@@ -48,8 +58,37 @@ atsisakymas krikščionybės, atkritimas nuo tikėjimo.; atsimetimas nuo priimto
 Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
 
 ## Teiginiai
+- t-006
+  teiginys: 'Mindaugo apostazija siejama su galimu jo atsimetimu nuo krikščionybės po Žemaičių pergalės prie Durbės.'
+  pagrindžia:
+    - c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Mindaugo apostazija siejama su galimu jo atsimetimu nuo krikščionybės po Žemaičių pergalės prie Durbės.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Kly­
+    menko, H. Lowmiański ir kt.) 20 * didelė dauguma, o gal ir visi Min­
+    daugo vardu išduoti dovanojimai reikią laikyti autentiškais dokumen­
+    tais.
+    Didelės svarbos yra penktoji problema, dėl kurios daug kas sau
+    yra laužęs galvą, būtent, ar Mindaugas iš tiesų iki mirties išliko krikš­
+    čionimi, tapdamas pagonių reakcijos kankiniu (toniu jį laiko J. Lat­
+    kowski), ar jis po didžiojo Žemaičių laimėjimo prie Durbės atsimetė
+    nuo krikščionyįės. Nors daug Mindaugo apostazijos klausimu ra­
+    šyta, bet čia galima tarti kun. J. Stakausko (Mindaugo krikščioniu
+    išlikimo šalininko) žodžiais, kad «turi tam tikro pagrindo ir priešin­
+    goji nuomonė »^21.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-006
 
 ## Pastabos
 
@@ -63,3 +102,5 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
 ### Laikotarpiai
 - [[laikotarpiai/XIII amžius]]
 - [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

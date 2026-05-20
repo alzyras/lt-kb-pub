@@ -45,3 +45,8 @@ Viena jo kuopa padaryta zonderkomanda ir liepos 4 ir 6 dieną nacių komanduojam
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Heinricho Hamano skrajojantis būrys]]
+- [[objektai/grupes/Ypatingasis SD būrys Vilniuje]]

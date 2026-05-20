@@ -12,8 +12,28 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
+  - '1350 m.'
   - '1399 m.'
+  - '1402 m.'
+  - '1404 m.'
+  - '1408 m.'
   - '1418 m.'
+  - '1430 m.'
+  - '1432 m.'
+  - '1930 m.'
+  - '1936 m.'
+  - '1978 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+  - 'XV'
+  - 'XX'
+  - 'XXI'
+date_start: '1350'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -27,44 +47,37 @@ tags:
 
 ## Teiginiai
 - t-017
-  teiginys: 'Švitrigaila, būdamas Jogailos broliu, tikėjosi perimti Vitebską po kunigaikštienės mirties.'
+  teiginys: '1430 m. lapkričio 7 d. buvo sudarytos paliaubos tarp Lenkijos karaliaus Jogailos ir jo brolio, Lietuvos didžiojo kunigaikščio Švitrigailos.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-018
-  teiginys: 'Švitrigaila sukilo, užmušė Feodorą Vesną ir pats ėmė valdyti Vitebską.'
+  teiginys: 'Švitrigaila siekė visiško savarankiškumo ir palaikė ryšį su Ordinu.'
   pagrindžia:
     - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-019
-  teiginys: 'Švitrigaila buvo priverstas nusilenkti Vytautui, po to pasiųstas Jogailai į Krokuvą, bet netrukus pabėgo į Vengriją.'
+  teiginys: '1432 m. gruodžio 8 d. Ašmenos mūšyje Švitrigailos jėgos buvo išsklaidytos, o jis pats pabėgo į Polocką.'
   pagrindžia:
     - c-003
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-020
-  teiginys: 'Po Vorsklos pralaimėjimo Švitrigaila pareiškė pretenzijas į Lietuvą, o ramybės dėlei jam buvo atiduota Podolija ir kiti Rusios plotai.'
-  pagrindžia:
-    - c-004
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-021
-  teiginys: 'Švitrigaila vėl pabėgo iš Lietuvos: šį kartą į Maskvą, pas totorius ir galiausiai pas Ordiną.'
-  pagrindžia:
-    - c-005
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Švitrigaila, būdamas Jogailos broliu, tikėjosi perimti Vitebską po kunigaikštienės mirties.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: '1430 m. lapkričio 7 d. buvo sudarytos paliaubos tarp Lenkijos karaliaus Jogailos ir jo brolio, Lietuvos didžiojo kunigaikščio Švitrigailos.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Pas ją buvo apsigyvenęs ir
-    Jogailos brolis Švitrigaila. Švitrigaila manė, kad mirus ku­
-    nigaikštienei, Jogaila jį paskirs Vitebsko valdytoju.
+    Tuo
+    tarpu Lenkija klasta užėmė LDK pavaldume
+    buvusias pietines derlingąsias Podolės
+    žemes. Tuo pasipiktino „visi lietuviai“, kilo
+    didžiulė įtampa. 1430 m. lapkričio 7 d. buvo
+    sudarytos paliaubos tarp Lenkijos kara-
+    liaus Jogailos ir jo brolio, Lietuvos didžiojo
+    kunigaikščio Švitrigailos.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -73,12 +86,17 @@ tags:
   pagrindžia:
     - t-017
 - c-002
-  santrauka: 'Švitrigaila sukilo, užmušė Feodorą Vesną ir pats ėmė valdyti Vitebską.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: 'Švitrigaila siekė visiško savarankiškumo ir palaikė ryšį su Ordinu.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    To negalėjo pa­
-    kęsti ambicingas ir neramaus būdo Švitrigaila ir pakėlė mai­
-    štą: užmušė Feodorą Vesną ir pats ėmė valdyti Vitebską.
+    Lenkijos valdantieji sluoksniai Švitrigailai
+    siūlė net Lenkijos vainiką arba valdyti
+    Lietuvą, bet ryšyje su Lenkija. Švitrigaila
+    siekė visiško savarankiškumo ir palaikė
+    ryšį su Ordinu.
+
+    Kovai prieš Ordiną Lenkija suartėjo
+    su Čekijos husitais.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -87,14 +105,17 @@ tags:
   pagrindžia:
     - t-018
 - c-003
-  santrauka: 'Švitrigaila buvo priverstas nusilenkti Vytautui, po to pasiųstas Jogailai į Krokuvą, bet netrukus pabėgo į Vengriją.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: '1432 m. gruodžio 8 d. Ašmenos mūšyje Švitrigailos jėgos buvo išsklaidytos, o jis pats pabėgo į Polocką.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Švitrigaila susilaukė pagalbos ir iš Smo­
-    lensko. Dėl to Vitebsko paėmimas kiek užtruko. Bet Švitri­
-    gaila vis dėlto buvo priverstas iki žemės Vytautui nusilenkti ir
-    pasiduoti. Po to jis buvo pasiųstas į Krokuvą Jogailai. Iš čia
-    netrukus jis pabėgo į Vengriją.
+    lenkų daliniais. 1432 m.
+    gruodžio 8 d. Ašmenos
+    mūšyje Švitrigailos jėgos
+    buvo išsklaidytos, o jis pats
+    pabėgo į Polocką. 1432-
+    1433 m. kova vyko pietryti-
+    nėse LDK žemėse tarp Lenkijos karaliaus ir
+    Švitrigailos šalininkų.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -102,39 +123,13 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-019
-- c-004
-  santrauka: 'Po Vorsklos pralaimėjimo Švitrigaila pareiškė pretenzijas į Lietuvą, o ramybės dėlei jam buvo atiduota Podolija ir kiti Rusios plotai.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tą Vytauto pralaimėjimą pajuto ir neramusis Švitrigaila.
-    Skubinos ir jis pareikšti savo pretenzijų į Lietuvą. Ramybės
-    dėliai jam buvo atiduota valdyti Podolija, kaip Lenkijos žemė ir
-    dar buvo pridėta ir kiti Rusijos plotai.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-020
-- c-005
-  santrauka: 'Švitrigaila vėl pabėgo iš Lietuvos: šį kartą į Maskvą, pas totorius ir galiausiai pas Ordiną.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tuo pačiu metu Švitrigaila vėl pabėgo iš Lietuvos. Šį kartą jau į
-    Maskvą, o paskui pas totorius, iš čia — pas Ordiną.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-021
 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
 - [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/asmenys/Kaributas]]

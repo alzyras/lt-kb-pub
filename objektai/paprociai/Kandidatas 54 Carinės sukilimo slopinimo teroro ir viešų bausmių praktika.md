@@ -101,5 +101,3 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/paprociai/Kandidatas Carinės sukilimo slopinimo teroro ir viešų bausmių praktika]]
-- [[objektai/asmenys/Konstantinas Kalinauskas]]
-- [[objektai/asmenys/Zigmantas Sierakauskas]]

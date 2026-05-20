@@ -7,17 +7,23 @@ aliases: []
 saltiniai:
   - "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
 laikotarpis: "XIII a. vidurys"
-datos: []
-periodas: "viduramziai"
-periodo_grupes:
-  - "LDK"
-amziai:
-  - "XIII"
-date_start: "1254"
-date_end: "1261"
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1254 m.'
+  - '1261 m.'
+  - '1978 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIII'
+  - 'XX'
+  - 'XXI'
+date_start: '1254'
+date_end: '2026'
 patikimumas: "aukštas"
 tags: []
 ---
@@ -51,8 +57,29 @@ Sąvoka nusako popiežiaus skelbiamą kovą su religinio priešo statusą gavusi
 Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo totorių, tiek apie nuolatinę kovos prieš pagonis mobilizaciją.
 
 ## Teiginiai
+- t-004
+  teiginys: 'Bulėmis buvo įsakoma intensyviau skelbti kryžiaus karus prieš pagonis.'
+  pagrindžia:
+    - c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Bulėmis buvo įsakoma intensyviau skelbti kryžiaus karus prieš pagonis.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Iš to laikotarpio yra užsilikusios popiežiaus Aleksandro IV, didelio
+    ordino geradario, kelios bulės. Jomis įsakoma dar intensyviau skelbti
+    kryžiaus karus prieš pagonis. Vienoje bulėje sakoma, jog netikėliai
+    esą nužudę beveik 500 kryžiuočių^155.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -61,3 +88,5 @@ Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo toto
 
 ### Laikotarpiai
 - [[laikotarpiai/XIII amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

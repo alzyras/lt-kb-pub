@@ -45,7 +45,7 @@ Nenurodyta
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: 'Po Skirgailos mirties Vytautas Kijeve paskyrė savo vietininką Joną Algimantaitį.'
+  teiginys: 'Po Skirgailos mirties 1397 m. Vytautas Kijeve paskyrė savo vietininką Alšėnų kunigaikštį Joną Algimantaitį.'
   pagrindžia:
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -68,6 +68,8 @@ Nenurodyta
   santrauka: 'Vytautas suvaldė nepaklusnius sričių kunigaikščius, pašalino juos iš vietų ir paskyrė savo vietininkus bajorus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    daugelis jų nė neketino jo klausyti. Mat, kiekvienas Algirdo sū-
+    nus jautėsi Vilniaus sričiai turįs daugiau teisių, negu Vytautas.
     Bet Vytautas iš pat pradžių parodė tvirtą valdovo ranką, ir visi
     nepaklusnūs kunigaikščiai buvo ne tik suvaldyti, bet net pašalinti
     iš savo vietų; jų vietose buvo pastatyti Vytauto vietininkai
@@ -100,7 +102,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Po Skirgailos mirties Vytautas Kijeve paskyrė savo vietininką Joną Algimantaitį.'
+  santrauka: 'Po Skirgailos mirties 1397 m. Vytautas Kijeve paskyrė savo vietininką Alšėnų kunigaikštį Joną Algimantaitį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Netrukus neteko savo srities ir Kijevo kunigaikštis, Jo-
@@ -120,7 +122,8 @@ Nenurodyta
   santrauka: 'Pašalinus Karijotaitį, Podolė buvo padalyta į tris dalis, o Vytautui tiesiogiai atiteko tik rytinė jos dalis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Iš visų čia suminėtų sri-
+    Tuo būdu tiesioginei Vytauto valdžiai atiteko ir ši,
+    viena iš stambiausiųjų kunigaikštysčių. Iš visų čia suminėtų sri-
     čių ne visiškai perėjo į Vytauto valdžią tik viena Podolė: mat, ji
     iš seno buvo glaudžiai susijusi su Lenkija. Pašalinus Karijotaitį,
     ji buvo padalinta į 3 dalis: vakarinė dalis buvo priskirta prie Len-
@@ -138,7 +141,11 @@ Nenurodyta
   santrauka: 'Jis pats iš pradžių titulavosi tik Trakų kunigaikščiu, bet po kelerių metų (pirmą kartą 1395 m.) ėmė tituluotis didžiuoju Lietuvos kunigaikščiu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Jis pats iš pradžių titulavosi tik Tra-
+    Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos va-
+    salas ir išlikusiems sričių kunigaikščiams leido reikšti ištikimybės
+    priesaikas Jogailai, tačiau valdyti jis valdė pats vienas: Jogaila be
+    jo nieko negalėjo padaryti Lietuvoje. Jis pasidarė Jogailos są-
+    jungininkas, o ne valdinys. Jis pats iš pradžių titulavosi tik Tra-
     kų kunigaikščiu, bet po kelerių metų (pirmą kartą 1395 m.) ėmė
     tituluotis didžiuoju Lietuvos kunigaikščiu.
   citata_rodoma: ""

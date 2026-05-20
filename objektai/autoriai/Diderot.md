@@ -35,7 +35,10 @@ Montesquieu († 1755 m.), Rousseau († 1778 m.), Voltaire († 1778 m.), D'Ale
   santrauka: 'Diderot, miręs 1784 m., kartu su kitais autoriais buvo laikomas epochos dievaičiu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    _Montesquieu_ († 1755 m.),
+    menkaverčiai, nepasižymį gilumu, o tik drąsių, viską neigiančių iš-
+    vadų dialektika, bet to meto žmogui tai buvo viskas.
+    Mokslas ir literatūra įsiskverbė ir į aukštąjį luomą, į aristokratų
+    salionus, įsiskverbė net į karaliaus rūmus. _Montesquieu_ († 1755 m.),
     _Rousseau_ († 1778 m.), _Voltaire_ († 1778 m.), _D'Alembert_ († 1783 m.),
     _Diderot_ († 1784 m.) ir eilė kitų autorių pasidarė epochos dievaičiais.
   citata_rodoma: ""
@@ -49,6 +52,10 @@ Montesquieu († 1755 m.), Rousseau († 1778 m.), Voltaire († 1778 m.), D'Ale
   santrauka: 'Diderot suorganizuota enciklopedija, apie kurią buvo suburtos visos žymiausios to meto pajėgos, kūrė naują pasaulėžiūrą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Mokslas ir literatūra įsiskverbė ir į aukštąjį luomą, į aristokratų
+    salionus, įsiskverbė net į karaliaus rūmus. _Montesquieu_ († 1755 m.),
+    _Rousseau_ († 1778 m.), _Voltaire_ († 1778 m.), _D'Alembert_ († 1783 m.),
+    _Diderot_ († 1784 m.) ir eilė kitų autorių pasidarė epochos dievaičiais.
     Diderot suorganizuota enciklopedija, apie kurią buvo suburtos
     visos žymiausios to meto pajėgos, kūrė naują pasaulėžiūrą.
   citata_rodoma: ""

@@ -42,7 +42,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-002
-  teiginys: 'Kalvėje patys sau kalė padarynę ir ginklą.'
+  teiginys: 'Kalvėje kalnėnai ir žemaičiai patys sau kalė padargus ir ginklus.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
@@ -50,11 +50,11 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kalvėje patys sau kalė padarynę ir ginklą.'
+  santrauka: 'Kalvėje kalnėnai ir žemaičiai patys sau kalė padargus ir ginklus.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Devintasis trobesys buvo kalvė, būtinai ketvirtainis, kurioje patys sau padarynę ir ginklą kalė,
-    nesgi kalnėnai ir žemaičiai gėdėjos ko norint nuo svetimo reikalauti, todėl visa patys sau dirbo.
+        nesgi kalnėnai ir žemaičiai gėdėjos ko norint nuo svetimo reikalauti, todėl visa patys sau dirbo.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

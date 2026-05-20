@@ -44,7 +44,9 @@ Nenurodyta
   santrauka: 'Valstiečiai galėjo skųstis, jei seniūnas nesilaikė nustatytų prievolių ir reikalavo daugiau.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Jei kartais koks seniūnas nenorė-
+    Kokios pareigos bū-
+    davo pažymėtos tuose inventoriuose, tokias valstiečiai turė-
+    davo ir eiti tiems dvarams. Jei kartais koks seniūnas nenorė-
     davo to laikytis, reikalaudavo daugiau, tai valstiečiai galėjo
     skųstis. Žinoma, valstiečiams skųsti poną jo paties draugams
     ar giminėms buvo gana sunku, ir dažniausiai jie nieko nelai-

@@ -30,7 +30,9 @@ Ukmergėje, Zarasuose, Kėdainiuose ir Jurbarke buvo pastatytos naujos cerkvės,
   santrauka: 'Ukmergėje, Zarasuose, Kėdainiuose ir Jurbarke buvo pastatytos naujos cerkvės, o Pažaislio vienuolyne apsigyveno pravoslavų vyskupas — archieriejus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Kauno buvusi jėzuitų bažnyčia, Panevėžio ir Raseinių
+    Buvo uždaryta daugybė vienuolynų
+    (Kaune, Pažaisly, Panevėžy, Ukmergėje, Raseiniuose, Telšiuose
+    ir kt.). Kauno buvusi jėzuitų bažnyčia, Panevėžio ir Raseinių
     pijarų bažnyčios buvo paverstos cerkvėmis. Ukmergėje, Za-
     rasuose, Kėdainiuose ir Jurbarke buvo pastatytos naujos cerk-
     vės, o Pažaislio vienuolyne apsigyveno pravoslavų vyskupas
@@ -42,7 +44,3 @@ Ukmergėje, Zarasuose, Kėdainiuose ir Jurbarke buvo pastatytos naujos cerkvės,
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Zarasai]]

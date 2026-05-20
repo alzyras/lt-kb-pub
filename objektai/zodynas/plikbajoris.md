@@ -21,7 +21,7 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Plikbajoriai seimeliuose turėjo lygų balsą su didikais ir galėjo paremti pono ar mokėtojo nuomonę kardu.'
+  teiginys: 'Plikbajoriai seimeliuose turėjo lygų balsą su didikais ir kardais galėdavo remti pono ar užmokėjusio asmens nuomonę.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -41,10 +41,13 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Plikbajoriai seimeliuose turėjo lygų balsą su didikais ir galėjo paremti pono ar mokėtojo nuomonę kardu.'
+  santrauka: 'Plikbajoriai seimeliuose turėjo lygų balsą su didikais ir kardais galėdavo remti pono ar užmokėjusio asmens nuomonę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Į seimelius tam pačiam tikslui buvo suvežamos iš okolicų masės plikbajorių,
+    Todėl didikai stengėsi patraukti į savo
+    pusę daugumą bajorijos. O ją patraukti tebuvo galima tik protek-
+    cijomis ir nuolatinėmis puotomis savo dvaruose. Į seimelius tam
+    pačiam tikslui buvo suvežamos iš okolicų masės plikbajorių,
     nes ir jie turėjo lygų su didikais balsą ir, svarbiausia, turėjo prie
     šono bajoriškąjį ženklą — kardą, kurį kiekvienu momentu galėdavo
     vartoti savo pono ar to, kuris gerai užmokėdavo, nuomonei paremti.
@@ -59,7 +62,8 @@ tags:
   santrauka: 'Didiko atgabentos virtuvės seimelio metu maitindavo nuskurusius plikbajorius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Atvežti
+    Todėl jie va-
+    žiuodavo triukšmingai garbindami juos vežantį didiką. Atvežti
     jie tuojau būdavo sutalpinami iš anksto pasamdytose smuklėse ir
     šiaipjau patalpose. Taip pat iš anksto didiko atgabentos virtuvės pa-
     gamindavo jiems valgyti, nes nuskurę plikbajoriai visada būdavo
@@ -75,6 +79,10 @@ tags:
   santrauka: 'Po seimelio ponas plikbajoriams dar padalindavo po truputį pinigų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Bet
+    jei taip nukentėjusių vadas seimely nieko nelaimėdavo arba būdavo
+    priešingos partijos priverstas pabėgti, tai nieko negaudavo nė nuken-
+    tėję. Jiems tekdavo laukti kito seimelio ir tikėtis savo poną apginti.
     Po seimelio ponas plikbajoriams dar padalindavo po truputį pinigų.
   citata_rodoma: ""
   teiginio_tipas: faktas

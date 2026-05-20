@@ -32,6 +32,11 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
   santrauka: 'Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiuliai Palenkės, Voluinės, Braclavo ir Kijevo žemių plotai atiteko Lenkijai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Jų kiekvienas
+    pavietas turėjo tokių pat, kaip ir visa valstybė: čia buvo ir
+    stalininkų, ir taurininkų, ir ark-
+    lininkų, ir kardininkų ir daugy-
+    bė kitų.
     **Lietuvos valstybės teritorija**
     po unijos buvo labai sumažė-
     jusi, nes didžiuliai Palenkės, Vo-
@@ -46,3 +51,8 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Kijevas]]
+- [[objektai/vietos/Voluinė]]

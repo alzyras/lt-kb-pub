@@ -33,36 +33,14 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Napoleono kariuomenei žygiuojant į Lietuvą, rusai iš visos Lietuvos pasitraukė be mūšio.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Napoleono kariuomenei užėmus Lietuvą, bajorija tuojau sujudo rūpintis atgaivinti didžiąją kunigaikštiją Napoleono globoje.'
   pagrindžia:
-    - c-002
+    - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Napoleono kariuomenei žygiuojant į Lietuvą, rusai iš visos Lietuvos pasitraukė be mūšio.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Paskelbęs
-    karą, Napoleonas su kariuomene persikėlė per Nemuną ties
-    Kaunu ir greit nužygiavo į Vilnių. Iš visos Lietuvos rusai pa-
-    sitraukė be mūšio. Su jais išsikraustė ir Oginskis ir kiti Rusijos
-    globos šalininkai.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
   santrauka: 'Napoleono kariuomenei užėmus Lietuvą, bajorija tuojau sujudo rūpintis atgaivinti didžiąją kunigaikštiją Napoleono globoje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -78,7 +56,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001
 
 ## Ryšiai
 ### Laikotarpiai

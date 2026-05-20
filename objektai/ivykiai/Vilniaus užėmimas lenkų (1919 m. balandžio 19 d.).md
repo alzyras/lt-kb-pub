@@ -41,7 +41,10 @@ Nenurodyta
   santrauka: '1919 m. balandžio 19 d. iš pietų prasiveržę lenkai paėmė Vilnių, nors lietuvių pajėgos buvo nustūmusios rusus iki miesto.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Kovos ėjo prie Alytaus, ir kovo mėnesį iš
+    Mūsiškiai, pradėję ka-
+    riauti su bolševikais, pirmą mūšį laimėjo prie Kėdainių, kur
+    žuvo pirmas fronto kareivis Povilas Lukšys (1919 m.
+    vasario 7—9 d.). Kovos ėjo prie Alytaus, ir kovo mėnesį iš
     rusų buvo atimtas Jėznas, Butrimonys ir toliau, šiaurėj, Kreke-
     nava. Balandžio mėnesį mūsiškiai nustūmė rusus į rytus ligi
     Vilniaus, tačiau Vilnių paėmė iš pietų prasiveržę lenkai (ba-

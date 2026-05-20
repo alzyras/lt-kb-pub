@@ -113,4 +113,3 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Ivanas Kornilovas]]
-- [[objektai/asmenys/Michailas Muravjovas]]

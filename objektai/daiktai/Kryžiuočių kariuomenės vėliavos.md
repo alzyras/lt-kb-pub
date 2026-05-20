@@ -58,3 +58,8 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Ordino komtūrų barzdos]]
+- [[objektai/ivykiai/Žalgirio mūšis (1410 m.)]]

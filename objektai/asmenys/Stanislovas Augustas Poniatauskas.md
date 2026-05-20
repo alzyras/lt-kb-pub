@@ -33,6 +33,9 @@ Stanislovo Augusto išrinkimas ir tarpuvaldžio kovos. Tuo metu Čartoriskiai pa
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     - 3. Stanislovo Augusto išrinkimas ir tarpuvaldžio kovos
+          - 4. Čartoriskių reformos
+          - 5- Radomo konfed. ir Čartoriskių ref. apkarpymas (1768 m.)
+          - 6.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

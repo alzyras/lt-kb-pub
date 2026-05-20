@@ -135,3 +135,4 @@ Nenurodyta
 - [[objektai/paprociai/Kandidatas Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui]]
 - [[objektai/grupes/Lietuviškoji socialdemokratų partija]]
 - [[objektai/ivykiai/Lietuviškosios socialdemokratų partijos susikūrimas]]
+- [[objektai/ivykiai/„Aušros“ leidimo pradžia]]

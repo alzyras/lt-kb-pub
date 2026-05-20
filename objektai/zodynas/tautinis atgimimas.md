@@ -10,16 +10,22 @@ variantai:
 aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-laikotarpis: '1861 m.`, `1883 m.`, `1905 m.; nenurodyta'
 datos:
   - '1861 m.'
   - '1883 m.'
-  - '1905 m.; nenurodyta'
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
+  - '1905 m.'
+  - '1978 m.'
+  - '2026 m.'
+periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
+periodo_grupes:
+  - 'naujieji laikai'
+amziai:
+  - 'XIX'
+  - 'XX'
+  - 'XXI'
+date_start: '1861'
+date_end: '2026'
+laikotarpis: '1861 m.`, `1883 m.`, `1905 m.; nenurodyta'
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
@@ -52,8 +58,34 @@ lietuvių tautos kultūrinis ir politinis pakilimas, susietas su baudžiavos pan
 Autorius sieja tautinį atgimimą su socialiniais pokyčiais ir vėlesniu intensyvaus tautinio judėjimo dešimtmečiu; Daukanto istorijos darbai vertinami kaip svarbūs tautinio atgimimo laikotarpiu.
 
 ## Teiginiai
+- t-006
+  teiginys: 'Daukantas turėjo didelę reikšmę tautinio atgimimo laikotarpiu ir skatino lietuvių tautinės sąmonės raidą.'
+  pagrindžia:
+    - c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Daukantas turėjo didelę reikšmę tautinio atgimimo laikotarpiu ir skatino lietuvių tautinės sąmonės raidą.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Jokia Daukanto istorijos rašymo ir jo metodo kritika tačiau
+    nepajėgs sumažinti jo didelės reikšmės tautinio atgimimo laikotar­
+    pyje. Daukantas lietuvių tautinės sąmonės išsivystymui yra davęs
+    gana reikšmingų paskatų^58. Jis pirmasis gana aiškiai rodė kelią,
+    kad lietuviams reikia atsiskirti nuo «koroniarų » (lenkų). Ne tik
+    dėl savo žemaitiškai kieto antilenkiško nusistatymo, bet ir dėl savo
+    istorijos rašymo metodo Daukantas—tuo metu, kai Valančius už
+    savo Žemaičių Vyskupystę buvo giriamas —susilaukė iš lenkų per­
+    dėtai karčios kritikos^59.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-006
 
 ## Pastabos
 
@@ -66,3 +98,7 @@ Autorius sieja tautinį atgimimą su socialiniais pokyčiais ir vėlesniu intens
 ### Laikotarpiai
 - [[laikotarpiai/XIX amžius]]
 - [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
+### Susiję objektai
+- [[objektai/zodynas/tautinė sąmonė]]

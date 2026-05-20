@@ -5,13 +5,40 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+datos:
+  - '1581 m.'
+  - '1601 m.'
+  - '1605 m.'
+  - '1609 m.'
+  - '1621 m.'
+  - '1632 m.'
+  - '1634 m.'
+  - '1649 m.'
+  - '1654 m.'
+  - '1656 m.'
+  - '1673 m.'
+  - '1700 m.'
+  - '1771 m.'
+  - '1792 m.'
+  - '1794 m.'
+  - '1831 m.'
+  - '1863 m.'
+  - '1919 m.'
+  - '2013 m.'
+periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodo_grupes:
+  - 'LDK'
+  - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XVI'
+  - 'XVII'
+  - 'XVIII'
+  - 'XIX'
+  - 'XX'
+  - 'XXI'
+date_start: '1581'
+date_end: '2013'
 laikotarpis: ''
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
 vaidmenys:
   - 'autorius'
   - 'karo istorikas'
@@ -63,3 +90,10 @@ Arvydas Pociūnas šiame leidinyje minimas kaip kelių skirtingų laikotarpių k
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIX amžius]]
+- [[laikotarpiai/XVI amžius]]
+- [[laikotarpiai/XVII amžius]]
+- [[laikotarpiai/XVIII amžius]]

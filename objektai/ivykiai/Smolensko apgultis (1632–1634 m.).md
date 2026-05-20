@@ -49,7 +49,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-005
-  teiginys: '1632 m. rusų kariuomenė įsiveržė į Lietuvos teritoriją ir lapkričio 14 d. apsiautė Smolenską.'
+  teiginys: '1632 m. rusų kariuomenė įsiveržė į Lietuvos teritoriją siekdama atgauti Smolenską ir lapkričio 14 d. apsiautė miestą.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -61,7 +61,7 @@ Nenurodyta
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-007
-  teiginys: '1634 m. sausio 24 d. rusų pajėgos kapituliavo po Smolensko apgulties.'
+  teiginys: '1634 m. sausio 24 d. Vladislovo Vazos vadovaujama lietuvių ir lenkų kariuomenė privertė rusų pajėgas kapituliuoti prie Smolensko.'
   pagrindžia:
     - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -75,7 +75,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1632 m. rusų kariuomenė įsiveržė į Lietuvos teritoriją ir lapkričio 14 d. apsiautė Smolenską.'
+  santrauka: '1632 m. rusų kariuomenė įsiveržė į Lietuvos teritoriją siekdama atgauti Smolenską ir lapkričio 14 d. apsiautė miestą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mūšis
@@ -118,7 +118,7 @@ Nenurodyta
   pagrindžia:
     - t-006
 - c-003
-  santrauka: '1634 m. sausio 24 d. rusų pajėgos kapituliavo po Smolensko apgulties.'
+  santrauka: '1634 m. sausio 24 d. Vladislovo Vazos vadovaujama lietuvių ir lenkų kariuomenė privertė rusų pajėgas kapituliuoti prie Smolensko.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1633 m. žiemą į pagalbą atskubėjo tuo-

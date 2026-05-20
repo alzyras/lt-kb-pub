@@ -34,7 +34,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Iki Aleksandro laikų po Vytauto Lietuvoje pinigai vėl nebebuvo kalami.'
+  teiginys: 'Iki Aleksandro laikų po Vytauto Lietuvoje pinigai nebebuvo kalami, todėl buvo vartojami svetimi pinigai.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -48,9 +48,12 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Iki Aleksandro laikų po Vytauto Lietuvoje pinigai vėl nebebuvo kalami.'
+  santrauka: 'Iki Aleksandro laikų po Vytauto Lietuvoje pinigai nebebuvo kalami, todėl buvo vartojami svetimi pinigai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Kaributo
+    pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pašalinti
+    iš savo kunigaikštijų).
     Po Vytauto, iki Aleksandro laikų, Lietuvoje pinigai vėl nebebuvo
     kalami. Buvo vartojami svetimi pinigai (daugiausia Prahos skatikai).
   citata_rodoma: ""
@@ -64,6 +67,8 @@ Nenurodyta
   santrauka: 'Aleksandro pinigams priskirti pinigėlis, pusskatikis ir skatikas, o nevykusiai nukalti skatikai nebuvo leidžiami į apyvartą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Po Vytauto, iki Aleksandro laikų, Lietuvoje pinigai vėl nebebuvo
+    kalami. Buvo vartojami svetimi pinigai (daugiausia Prahos skatikai).
     **Alekandro pinigai:** 11 — _pinigėlis;_ 12 — _pusskatikis;_ 13 — _skatikas_
     (skatikai, nevykusiai nukalti, nebuvo leidžiami į apyvartą).
   citata_rodoma: ""

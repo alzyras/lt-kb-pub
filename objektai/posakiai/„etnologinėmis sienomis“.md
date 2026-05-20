@@ -48,11 +48,6 @@ Vienbalsiai priimtas Lietuvos valstybės nepriklausomybės proklamavimo dokument
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/aktas - dokumentas]]
-- [[temos/aktas]]
-- [[temos/dokumentas]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Aleksandras Stulginskis]]
 - [[objektai/asmenys/Kazys Grinius]]

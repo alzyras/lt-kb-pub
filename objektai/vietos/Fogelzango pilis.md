@@ -30,10 +30,15 @@ tags:
   santrauka: 'Gavę iš Konrado žemių su Niešavos pilaite, ordino broliai pasistatė Fogelzango pilį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    1230 m. pirmieji ordino atstovai jau buvo Prūsų pasieny.
     Čia jie gavo iš Konrado
     žemių su Niešavos pi-
     laite, o patys pasista-
-    tė Fogelzango pilį.
+    tė Fogelzango pilį. Ne-
+    trukus iš tų pirmųjų
+    savo sodybų jie pradėjo
+    nuolatinį karą su aisčių
+    kiltimis.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -44,4 +49,4 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Niešava]]
+- [[objektai/ivykiai/Kryžiuočių ordino atsikraustymas į Prūsus]]

@@ -6,6 +6,22 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1349 m.'
+  - '1425 m.'
+  - '1427 m.'
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+  - 'XV'
+  - 'XX'
+  - 'XXI'
+date_start: '1349'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - grupe
@@ -17,5 +33,68 @@ tags:
 Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
 
 ## Teiginiai
+- t-001
+  teiginys: 'Maskvos kunigaikštija, kurioje viešpatavo nuo 1425 metų Vytauto globojamas jo anūkas, dukters Sofijos sūnus Vosylius, atsparumo nerodė.'
+  pagrindžia:
+    - c-001
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: 'Rusų kronikos Vytautui priskyrė susitarimą su Tochtamyšu, pagal kurį jis ketino valdyti Didžiąją Maskvos kunigaikštiją ir visą Rusiją.'
+  pagrindžia:
+    - c-002
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Maskvos kunigaikštija, kurioje viešpatavo nuo 1425 metų Vytauto globojamas jo anūkas, dukters Sofijos sūnus Vosylius, atsparumo nerodė.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Kad ir po didelių pastangų, bet į gyvenimo galą
+    jam pasisekė paimti savo įtakon ir Pskovą su išdidžiuoju Nau­
+    gardu^3 ), nes Didž. Maskvos kunigaikštija, kurioje viešpatavo
+    nuo 1425 metų Vytauto globojamas jo anūkas, dukters Sofijos
+    sūnus Vosylius, atsparumo nerodė.
+
+    Vytauto autoritetą rytuose liudija jo juokdario, Ordino
+    agento Hennės, pranešimas apie triumfatorišką Vytauto kelionę
+    — ekspediciją savo valstybės rytiniu pakraščiu 1427 met.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+- c-002
+  santrauka: 'Rusų kronikos Vytautui priskyrė susitarimą su Tochtamyšu, pagal kurį jis ketino valdyti Didžiąją Maskvos kunigaikštiją ir visą Rusiją.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Rusų kronikos aiškina, kad
+    su Tochtamyšu jis sutaręs šitaip: „Aš tave pasodinsiu saaro
+    Kotlogo vietoj, o pats tada atsisėsiu Didžioj Maskvos kunigaikš­
+    tijoje ir valdysiu visą Rusiją^2 ). Galima manyti, kad tokio
+    samprotavimo priskyrimas būtų anachronizmas, bet esmėje jis
+    yra teisingas.
+    Kaip visur, taip ir čia Vytautas veikė labai energingai ir drą­
+    siai, bet pirmos pastangos pasibaigė Vorsklos katastrofa, kur
+    žuvo visa jo armija, o jo valstybę užplūdę totoriai pasiekė net
+    Kijevą^3 ).
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
+### Susiję objektai
+- [[objektai/grupes/Maskvos kunigaikštija]]

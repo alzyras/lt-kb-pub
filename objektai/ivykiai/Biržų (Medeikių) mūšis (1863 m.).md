@@ -67,7 +67,7 @@ Nenurodyta
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-007
-  teiginys: 'Gegužės 8 d. mūšio metu gen. mjr. I. Ganeckio rinktinė užklupo sukilėlių stovyklą ties Šniurkiškių palivarku; A. Mackevičiaus šauliai nebuvo tinkamai išdėstyti gynybai.'
+  teiginys: 'Gegužės 8 d. gen. mjr. I. Ganeckio rinktinė ties Šniurkiškių palivarku užklupo sukilėlių stovyklą.'
   pagrindžia:
     - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -127,7 +127,7 @@ Nenurodyta
   pagrindžia:
     - t-006
 - c-003
-  santrauka: 'Gegužės 8 d. mūšio metu gen. mjr. I. Ganeckio rinktinė užklupo sukilėlių stovyklą ties Šniurkiškių palivarku; A. Mackevičiaus šauliai nebuvo tinkamai išdėstyti gynybai.'
+  santrauka: 'Gegužės 8 d. gen. mjr. I. Ganeckio rinktinė ties Šniurkiškių palivarku užklupo sukilėlių stovyklą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Dešimtą valandą ryto gen. mjr.
@@ -178,3 +178,6 @@ Nenurodyta
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIX amžius]]
+
+### Susiję objektai
+- [[objektai/ivykiai/Biržų (Medeikių) mūšis]]

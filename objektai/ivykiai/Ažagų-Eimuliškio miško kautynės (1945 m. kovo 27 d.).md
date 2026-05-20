@@ -57,7 +57,7 @@ Nenurodyta
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-006
-  teiginys: 'Puolimas buvo vykdomas iš vakarų į rytus, siekiant atkirsti partizanų trauktis kelius, o kovo 27 d. mūšis prasidėjo 7 val. ryto.'
+  teiginys: 'NKVD puolimas buvo vykdomas iš vakarų į rytus, siekiant atkirsti partizanų pasitraukimo kelius, o kovo 27 d. mūšis prasidėjo 7 val. ryto.'
   pagrindžia:
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -69,7 +69,7 @@ Nenurodyta
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-008
-  teiginys: 'Mūšyje žuvo apie 76-80 partizanų.'
+  teiginys: 'Ažagų-Eimuliškio miško kautynėse žuvo apie 76-80 partizanų.'
   pagrindžia:
     - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -95,7 +95,7 @@ Nenurodyta
   pagrindžia:
     - t-005
 - c-002
-  santrauka: 'Puolimas buvo vykdomas iš vakarų į rytus, siekiant atkirsti partizanų trauktis kelius, o kovo 27 d. mūšis prasidėjo 7 val. ryto.'
+  santrauka: 'NKVD puolimas buvo vykdomas iš vakarų į rytus, siekiant atkirsti partizanų pasitraukimo kelius, o kovo 27 d. mūšis prasidėjo 7 val. ryto.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Persekiojami
@@ -132,7 +132,7 @@ Nenurodyta
   pagrindžia:
     - t-007
 - c-004
-  santrauka: 'Mūšyje žuvo apie 76-80 partizanų.'
+  santrauka: 'Ažagų-Eimuliškio miško kautynėse žuvo apie 76-80 partizanų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tai vienoje, tai kitoje miško vietoje
@@ -155,3 +155,7 @@ Nenurodyta
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
+
+### Susiję objektai
+- [[objektai/vietos/Jokubavo miškas]]
+- [[objektai/vietos/Pakruojis]]

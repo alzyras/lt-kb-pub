@@ -32,7 +32,9 @@ Todėl tuojau po krikšto Jogaila įkūrė Vilniaus vyskupystę, pastatė katedr
   santrauka: 'Po Lietuvos krikšto Jogaila įkūrė Vilniaus vyskupystę, pastatė katedrą ir septynias pirmąsias parapijines bažnyčias krašte.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Todėl tuojau
+    **Vilniaus vyskupystės įkūrimas.** Pats krikštas dar nieko ne-
+    reiškė: be bažnyčių ir katalikų dvasininkų kraštas ir toliau galėjo
+    likti pagoniškas. Todėl tuojau
     po krikšto Jogaila įkūrė Vil-
     niaus vyskupystę, pastatė ka-
     tedrą ir dar 7 pirmąsias para-

@@ -30,7 +30,10 @@ tags:
   santrauka: 'Gotesverderis buvo viena iš prie Kauno daug kartų statytų ir vėl sugriautų Ordino pilių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Čia buvo šios ordino pilys: Klai-
+    Lietuvos vaka-
+    ruose susidarė ištisa kryžiuočių pilių virtinė, — pradedant Klaipė-
+    da, einant Nemunu iki Dubysos, o kai kuriais laikotarpiais iki
+    Nevėžio ir net iki Neries intako. Čia buvo šios ordino pilys: Klai-
     pėda, Ragainė, Jurbarkas, Skirsnemunė, Marijenburgas, Bajer-
     burgas, daug kartų statomos ir vėl sugriaunamos jo pilys prie
     Kauno, būtent Marijenverderis, Ritersverderis, Gotesverderis ir
@@ -42,7 +45,3 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Bajerburgas]]

@@ -31,7 +31,7 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
 
 ## Teiginiai
 - t-002
-  teiginys: 'Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.'
+  teiginys: 'Krikščionys kardu vertė lietuvius, kalnėnus ir žemaičius krikštytis ir siekė juos pavergti.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
@@ -39,17 +39,17 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.'
+  santrauka: 'Krikščionys kardu vertė lietuvius, kalnėnus ir žemaičius krikštytis ir siekė juos pavergti.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Užvis ilgainiui, kad nedori krikščionys,
-    užsidengę liekulu^508 savo tikybos, suokė^509 kardu juos krikštytis, vildamies, jog tuo pragumu
-    tegalėsią juos nuvergti ir tarp savo gyvulių paskaityti, todėl toje gadynėj lietuvis, kalnėnas ar
-    žemaitis, norėdamas dar liuosu mirti ar po seno gyventi, turėjo su ginklu gulti ir kelti, idant
-    visados būt rangiu^510 drausti ir ramdyti savo neprietelius, dykstančius išplėšti jo liuosybę, visų
-    brangiąją nuo paties dievo jiems duotą dovaną, kuriuos tankiai nuveikę, atmonydami^511 savo
-    žalas ir gieždamies ant jų apmaudą, nusiaubė plačiai platesniai, toli tolesniai jų kraštų sritis,
-    belikdami po savęs akmenį ir vandenį.
+        užsidengę liekulu^508 savo tikybos, suokė^509 kardu juos krikštytis, vildamies, jog tuo pragumu
+        tegalėsią juos nuvergti ir tarp savo gyvulių paskaityti, todėl toje gadynėj lietuvis, kalnėnas ar
+        žemaitis, norėdamas dar liuosu mirti ar po seno gyventi, turėjo su ginklu gulti ir kelti, idant
+        visados būt rangiu^510 drausti ir ramdyti savo neprietelius, dykstančius išplėšti jo liuosybę, visų
+        brangiąją nuo paties dievo jiems duotą dovaną, kuriuos tankiai nuveikę, atmonydami^511 savo
+        žalas ir gieždamies ant jų apmaudą, nusiaubė plačiai platesniai, toli tolesniai jų kraštų sritis,
+        belikdami po savęs akmenį ir vandenį.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

@@ -26,7 +26,7 @@ Jogaila tam pritarė, bet griežčiausiai pasipriešino Lenkų ponų taryba, kur
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: '1430 m. lenkų ponai privertė į Krokuvą grįžusį Jogailą atšaukti sutikimą dėl Vytauto karūnacijos.'
+  teiginys: '1430 m. lenkų ponai privertė į Krokuvą grįžusį Jogailą atšaukti sutikimą dėl Vytauto karūnavimo.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -52,9 +52,11 @@ Jogaila tam pritarė, bet griežčiausiai pasipriešino Lenkų ponų taryba, kur
   pagrindžia:
     - t-001
 - c-002
-  santrauka: '1430 m. lenkų ponai privertė į Krokuvą grįžusį Jogailą atšaukti sutikimą dėl Vytauto karūnacijos.'
+  santrauka: '1430 m. lenkų ponai privertė į Krokuvą grįžusį Jogailą atšaukti sutikimą dėl Vytauto karūnavimo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Tuo būdu Vytauto karūnacijos klau-
+    simas Lucke liko neišspręstas; jis turėjo būti išspręstas vėliau.
     Karūnacijos byla 1430 m. Lenkų ponai prispyrė grįžusį į
     Krokuvą Jogailą atšaukti savo duotąjį sutikimą dėl Vytauto karū-
     nacijos.

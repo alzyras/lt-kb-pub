@@ -30,6 +30,14 @@ Organizacijos centras buvo Kaune; visa nepriklausomoji Lietuva buvo suskirstyta 
   santrauka: 'Organizacijos centras buvo Kaune; visa nepriklausomoji Lietuva buvo suskirstyta į 13 apskričių, kurių kiekvienoje dar buvo po 3—4 tos organizacijos komendantūras.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Iš okupuoto Vil-
+    niaus instruktuojama ir pinigais aprūpinama, ta organizacija varė
+    labai platų darbą: šnipinėdama nuolat pranešinėjo lenkams apie
+    Lietuvos kariuomenės jėgas, apie krašto politinę būklę ir nuo-
+    taiką; atvažiuojančioms santarvės komisijoms teikė vyriausybę
+    šmeižiančius memorandumus, iš Vilniaus gabeno proklamacijas
+    ir knygutes, skleidė nepasitikėjimą ir verbavo sau narius ne tik
+    sulenkėjusių dvarininkų, bet ir nenusimanančių lietuvių tarpe.
     Organizacijos centras buvo Kaune; visa nepriklausomoji Lietuva
     buvo suskirstyta į 13 apskričių, kurių kiekvienoje dar buvo po
     3—4 tos organizacijos komendantūras. Viskas, žinoma, buvo

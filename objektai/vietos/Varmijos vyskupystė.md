@@ -27,7 +27,7 @@ Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbin
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: '1564 m. Varmijos vyskupas Stanislovas Hozijus atkvietė jėzuitus į Lenkiją.'
+  teiginys: '1564 m. Varmijos vyskupas Stanislovas Hozijus atkvietė jėzuitus į Lenkiją ir įkurdino juos Braunsberge.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -50,7 +50,7 @@ Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbin
   pagrindžia:
     - t-001
 - c-002
-  santrauka: '1564 m. Varmijos vyskupas Stanislovas Hozijus atkvietė jėzuitus į Lenkiją.'
+  santrauka: '1564 m. Varmijos vyskupas Stanislovas Hozijus atkvietė jėzuitus į Lenkiją ir įkurdino juos Braunsberge.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jėzuitų į Lenkiją
@@ -62,6 +62,10 @@ Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbin
     kupystės centre Brauns-
     berge, o iš ten paplito
     po visą Lenkiją. 1569
+    m. į Lietuvą jų parsi-
+    kvietė Vilniaus vys-
+    kupas Protasevi-
+    čius.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

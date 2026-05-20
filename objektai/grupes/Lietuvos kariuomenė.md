@@ -12,7 +12,14 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
+  - '1236 m.'
+  - '1328 m.'
   - '1514 m.'
+  - '1547 m.'
+  - '1564 m.'
+  - '1589 m.'
+  - '1601 m.'
+  - '1603 m.'
   - '1605 m.'
   - '1620 m.'
   - '1919 m.'
@@ -23,17 +30,17 @@ datos:
   - '1940 m.'
   - '2013 m.'
   - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
+periodas: 'viduramžiai'
 periodo_grupes:
-  - 'LDK'
-  - 'XX a.'
-  - 'modernioji Lietuva'
+  - 'viduramžiai'
 amziai:
+  - 'XIII'
+  - 'XIV'
   - 'XVI'
   - 'XVII'
   - 'XX'
   - 'XXI'
-date_start: '1514'
+date_start: '1236'
 date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
@@ -46,33 +53,37 @@ tags:
 Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, kaip Algirdo vedama kariuomenė prie Mėlynųjų Vandenų, kaip XV a. pabaigos - XVI a. pradžios kilmingųjų pašauktinė raitelių kariuomenė ir kaip aktyvi kovos jėga Klecko bei Kuoknesės kampanijose. Šiame šaltinyje ji apibūdinama ir per savo sandarą, ginkluotę, samdinių naudojimą, žygio tempą bei vadovavimą.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Be to, Napoleono pavesta, ji pradėjo formuoti ir Lietuvos kariuomenę — 4 pėstininkų ir 5 raitelių pulkus.'
+- t-011
+  teiginys: 'Napoleono pavesta laikinoji Lietuvos vyriausybė pradėjo formuoti Lietuvos kariuomenę iš 4 pėstininkų ir 5 raitelių pulkų.'
   pagrindžia:
     - c-001
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Be to, Napoleono pavesta, ji pradėjo formuoti ir Lietuvos kariuomenę — 4 pėstininkų ir 5 raitelių pulkus.'
+  santrauka: 'Napoleono pavesta laikinoji Lietuvos vyriausybė pradėjo formuoti Lietuvos kariuomenę iš 4 pėstininkų ir 5 raitelių pulkų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Be to, Napoleono pavesta, ji pradėjo
+    Napoleono kariuomenė keliasi per Nemuną ties Kaunu.
+    buvo įvestos rekvizicijos. Be to, Napoleono pavesta, ji pradėjo
     formuoti ir Lietuvos kariuomenę — 4 pėstininkų ir 5 raitelių pul-
-    kus.
-  citata_rodoma: ''
+    kus. Napoleonas tikėjosi, kad bus daug daugiau sudaryta ka-
+    riuomenės.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-011
 
 ## Ryšiai
 ### Laikotarpiai
+- [[laikotarpiai/XIII amžius]]
+- [[laikotarpiai/XIV amžius]]
 - [[laikotarpiai/XVI amžius]]
 - [[laikotarpiai/XVII amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/grupes/Kalavijuočių ordinas]]

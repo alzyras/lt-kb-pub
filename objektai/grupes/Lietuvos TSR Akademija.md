@@ -1,0 +1,64 @@
+---
+tipas: grupe
+pavadinimas: 'Lietuvos TSR Akademija'
+sukurta: '2026-05-20'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1935 m.'
+  - '1938 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+date_start: '1935'
+date_end: '1938'
+patikimumas: 'vidutinis'
+tags:
+  - grupe
+  - valstybė
+---
+# Lietuvos TSR Akademija
+
+## Santrauka
+
+Janulaitis) prie naujos sistemos vos buvo toleruojami, Jablons­ kis, kuris (nuo 1935) universitete tebuvo neetatiniu lektoriumi Lietuvos teisės istorijai, Kauno apygardos teisėju ir Valstybės Tarybos nariu (nuo 1938), tarybiniais metais šalia universitetinio.
+
+## Teiginiai
+- t-001
+  teiginys: 'Tarybiniais metais Jablonskis pamažu tapo Lietuvos TSR Akademijos pilnateisiu nariu, akademiku.'
+  pagrindžia:
+    - c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Tarybiniais metais Jablonskis pamažu tapo Lietuvos TSR Akademijos pilnateisiu nariu, akademiku.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Antrasis to rinkinio tomas liko rankraštyje.
+    Kai iki tol vadovavusieji universiteto istorikai (I. Jonynas,
+    A. Janulaitis) prie naujos sistemos vos buvo toleruojami, Jablons­
+    kis, kuris (nuo 1935) universitete tebuvo neetatiniu lektoriumi
+    Lietuvos teisės istorijai, Kauno apygardos teisėju ir Valstybės
+    Tarybos nariu (nuo 1938), tarybiniais metais šalia universitetinio
+    darbo pasidarė pamažu Lietuvos TSR Akademijoje pilnateisiu
+    nariu (akademiku). Jis tapo Lietuvos istorijos srityje ne tik tikruoju
+    jaunos kartos istorikų auklėtoju Vilniaus universitete, bet dar
+
+    (^84) **Z. Ivinskis :** **_Prel.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]

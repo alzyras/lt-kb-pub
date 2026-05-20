@@ -29,7 +29,9 @@ Lietuviai tų knygpalaikių neėmė nė į rankas, o slaptųjų knygų skaičius
   santrauka: 'Lietuviai neėmė į rankas valdžios leistų rusiškomis raidėmis spausdintų knygpalaikių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Veltui nuėjo rusų pastangos įpiršti valdžios
+    Per 40 spaudos draudimo
+    metų paaiškėjo, kad lietuviškoji spauda auga, nepaisydama jo-
+    kių persekiojimų. Veltui nuėjo rusų pastangos įpiršti valdžios
     leidžiamąsias knygas, spausdintas rusiškomis raidėmis. Lietu-
     viai tų knygpalaikių neėmė nė į rankas, o slaptųjų knygų skai-
     čius labai sparčiai augo.

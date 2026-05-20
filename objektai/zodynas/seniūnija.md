@@ -19,7 +19,7 @@ Aukštosios valstybinės vietos nebuvo atlyginamos iki pat XVIII amžiaus, bet k
 
 ## Teiginiai
 - t-001
-  teiginys: 'Seniūnijos buvo valstybės dvarai, teikti su aukštosiomis valstybinėmis vietomis, kurios iki XVIII a. nebuvo atlyginamos.'
+  teiginys: 'Seniūnijos buvo valstybės dvarai, kuriuos suteikdavo kartu su aukštomis valstybinėmis pareigomis.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -27,14 +27,16 @@ Aukštosios valstybinės vietos nebuvo atlyginamos iki pat XVIII amžiaus, bet k
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Seniūnijos buvo valstybės dvarai, teikti su aukštosiomis valstybinėmis vietomis, kurios iki XVIII a. nebuvo atlyginamos.'
+  santrauka: 'Seniūnijos buvo valstybės dvarai, kuriuos suteikdavo kartu su aukštomis valstybinėmis pareigomis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Aukštosios vals-
+    už kurias jie palaikydavo karaliaus politiką. Aukštosios vals-
     tybinės vietos nebuvo atlyginamos iki pat XVIII amžiaus, bet
     kandidatų į jas niekad netrūkdavo, nes jos duodavo ne tik įta-
     kos valstybėje, bet ir valstybės dvarų, vadinamųjų seniū-
-    nijų.
+    nijų. Iš jiems duodamų valdyti dvarų dažnas ne tik pa-
+    dengdavo valstybės pareigas einant padarytas išlaidas, bet ir
+    nemažus turtus susikraudavo.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

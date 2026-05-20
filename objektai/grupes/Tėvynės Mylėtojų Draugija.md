@@ -36,7 +36,8 @@ Bet ypatingai pagyvėjo lietuviškoji spauda, kai 1896 m. buvo įsteigta Tėvyn�
   santrauka: 'Tėvynės Mylėtojų Draugija buvo įsteigta 1896 m. lietuviškiems raštams leisti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Bet ypatingai pagyvėjo lietuviškoji spauda, kai 1896 m. buvo įsteigta Tėvynės Mylėtojų Draugystė, tu-
+    Bet ypatingai pagyvėjo lietuviškoji spauda, kai 1896 m.
+    buvo įsteigta Tėvynės Mylėtojų Draugystė, tu-
     rėjusi tikslą leisti lietuviškus raštus. Per 35 m. ji išleido 40
     veikalų (ne tik originalių lietuviškų raštų, bet ir verstinių). Be
     jos, ėmė leisti knygas įvairūs laikraščiai ir atskiri asmens.

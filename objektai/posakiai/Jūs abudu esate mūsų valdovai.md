@@ -48,7 +48,9 @@ Formulė keliuose pasakojimuose pateikiama kaip iškilmingas Jogailos ir Vytauto
   santrauka: 'Lenkų didikai Liubičo bylos metu pareiškė, kad Vytautas ir Jogaila yra jų viešpačiai, kurių sprendimas bus įvykdytas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Tą
+    Vi­
+    sa tai rodo, kad Vytautas ėmė šeimininkauti Lenkijoj, dėl ko ir
+    patys lenkai pripažįsta jį savo viešpačiu greta Jogailos. Tą
     mes žinom iš pačių lenkų didikų pareiškimo Liubičo bylos me­
     tu: jūs abu (Vyt. ir Jog.) esate mūsų viešpačiai: kų toje byloje
     nuspręsite, bus ir įvykdyta^2 ).
@@ -63,3 +65,6 @@ Formulė keliuose pasakojimuose pateikiama kaip iškilmingas Jogailos ir Vytauto
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/frazė]]
+
+### Susiję objektai
+- [[objektai/posakiai/Jūs abu esate mūsų viešpačiai]]

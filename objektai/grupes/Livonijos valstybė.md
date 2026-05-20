@@ -21,53 +21,27 @@ Livonijos valstybė nebuvo vienalytė; joje iš tikrųjų buvo net 6 atskiros ju
 
 ## Teiginiai
 - t-001
-  teiginys: 'Livonijos valstybė nebuvo vienalytė: ją sudarė keturios vyskupystės, ordinas ir Rygos miestas.'
+  teiginys: 'Livonijos valstybės vadams reikėjo apsisaugoti nuo Maskvos ir spręsti bažnytinės valstybės panaikinimo klausimą.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Livonijos valstybės vadams reikėjo apsisaugoti nuo Maskvos ir spręsti bažnytinės valstybės panaikinimo klausimą.'
-  pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-003
   teiginys: '1559 m. Vilniuje Zigmantas Augustas apsiėmė ginti Livoniją, už tai gaudamas 5 ordino ir 2 arkivyskupo pilis.'
   pagrindžia:
-    - c-003
+    - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Livonijos valstybė nebuvo vienalytė: ją sudarė keturios vyskupystės, ordinas ir Rygos miestas.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Livonijos valstybė nebuvo
-    vienalytė; joje iš tikrųjų buvo net 6 atskiros jungtinės valsty-
-    bės: 4 vyskupystės, ordinas ir Rygos miestas. Iš pradžių ir
-    ordinas priklausė Rygos arkivyskupui, bet XIV amžiuje (Ge-
-    dimino laikais, — žiūr. 71 psl.) jis nusikratė ta priklausomybe.
-    Vyskupų valdžia toliau dar labiau susilpnėjo; jų vasalai —
-    riteriai bajorai ir miestai pagaliau sukūrė organizacijas su po-
-    litinėmis teisėmis ir su savo seimais. Tačiau ordinas nesudarė
-    savarankiškos valstybės: nuo 1237 m. jis buvo tų pačių kry-
-    žiuočių ordino šaka (žiūr. 50—51 psl.), bet, turėdamas skirtingas
-    sąlygas, jis iš tikrųjų gyveno atskirai ir varė savarankišką po-
-    litiką.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
   santrauka: 'Livonijos valstybės vadams reikėjo apsisaugoti nuo Maskvos ir spręsti bažnytinės valstybės panaikinimo klausimą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Livonijos valstybės vadams reikėjo ne tik ap-
+    Tik čia
+    tuo atžvilgiu buvo sunkiau, nes kaip tik tuo metu Livonijos
+    valstybių žemes pradėjo smarkiai pulti Maskva, kuri norėjo
+    pasiekti jūrą. Livonijos valstybės vadams reikėjo ne tik ap-
     sisaugoti nuo Maskvos, bet ir išspręsti bažnytinės valstybės pa-
     naikinimo klausimą, nes krašte labai sparčiai plito protestantiz-
     mas. Tačiau, nesant vieno valdovo, buvo sunku dėl to susitarti
@@ -79,8 +53,8 @@ Livonijos valstybė nebuvo vienalytė; joje iš tikrųjų buvo net 6 atskiros ju
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-- c-003
+    - t-001
+- c-002
   santrauka: '1559 m. Vilniuje Zigmantas Augustas apsiėmė ginti Livoniją, už tai gaudamas 5 ordino ir 2 arkivyskupo pilis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -97,4 +71,4 @@ Livonijos valstybė nebuvo vienalytė; joje iš tikrųjų buvo net 6 atskiros ju
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-002

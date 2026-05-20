@@ -60,9 +60,6 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/kronika]]
-
 ### Susiję objektai
 - [[objektai/paprociai/Prezidento A. Smetonos iškilmingos kelionės po miestelius ir sutikimo vartų ceremonijos]]
 - [[objektai/daiktai/Sutikimo vartai]]

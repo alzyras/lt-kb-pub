@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 6.
+Objektų skaičius: 5.
 
 ## Kaip naudoti
 
@@ -20,7 +20,6 @@ Objektų skaičius: 6.
 
 ### Papročiai
 - [[objektai/paprociai/Draudimų nepaisančios religinės manifestacijos ir draustos religinės literatūros įsigijimas]]
-- [[objektai/paprociai/Gedimino religinio pakantumo norma]]
 - [[objektai/paprociai/Kryžių statymas Kryžių kalne kaip tikėjimo laisvės pasipriešinimo praktika]]
 - [[objektai/paprociai/Lietuvos krikšto apeigos]]
 - [[objektai/paprociai/Specialių brolijų maldininkams globoti steigimas]]

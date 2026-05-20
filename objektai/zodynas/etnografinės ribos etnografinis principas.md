@@ -94,9 +94,5 @@ Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos valstyb�
     - t-003
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/upė]]
-
 ### Susiję objektai
-- [[objektai/vietos/Liepoja]]
 - [[objektai/grupes/Lietuvos delegacija prie Paryžiaus taikos konferencijos]]

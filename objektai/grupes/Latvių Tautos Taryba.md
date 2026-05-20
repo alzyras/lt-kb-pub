@@ -36,7 +36,10 @@ Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri k
   santrauka: 'Latvių Tautos Taryba susidarė vokiečių neužimtoje Latvijos dalyje ir su Petrapilio latvių pabėgėlių komitetu rūpinosi nepriklausomos Latvijos kūrimu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tuo tarpu vokiečių neužimtoje Latvijos dalyje su-
+    Dabartinė Latvija yra atsiradusi taip pat po didžiojo karo,
+    kaip ir Lietuva. Kai Rusijoje kilo revoliucija, beveik visa Lat-
+    vija buvo užimta vokiečių, kurie svajojo paimti į savo valdžią
+    visą Pabaltijį. Tuo tarpu vokiečių neužimtoje Latvijos dalyje su-
     sidarė Tautos Taryba, kuri kartu su Petrapilio latvių pabėgėlių
     komitetu ėmė rūpintis sukurti nepriklausomą Latviją.
   citata_rodoma: ""
@@ -50,7 +53,9 @@ Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri k
   santrauka: 'Latvių Tautos Taryba protestavo, kai Brastos taikoje bolševikai paliko Pabaltijį vokiečių valdžioje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Bolševi-
+    Tuo tarpu vokiečių neužimtoje Latvijos dalyje su-
+    sidarė Tautos Taryba, kuri kartu su Petrapilio latvių pabėgėlių
+    komitetu ėmė rūpintis sukurti nepriklausomą Latviją. Bolševi-
     kai, Brastoje darydami taiką su vokiečiais, visą Pabaltijį paliko
     vokiečių valdžioje. Latvių Tautos Taryba pareiškė dėl to pro-
     Latvijos laisvės paminklas Rygoje.

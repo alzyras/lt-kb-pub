@@ -9,14 +9,23 @@ variantai:
 aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-laikotarpis: '1392 m.'
 datos:
+  - '1350 m.'
   - '1392 m.'
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
+  - '1430 m.'
+  - '1930 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+  - 'XV'
+  - 'XX'
+  - 'XXI'
+date_start: '1350'
+date_end: '2026'
+laikotarpis: '1392 m.'
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
@@ -36,15 +45,9 @@ Ostrovo sutartimi Jogaila atidavė Vytautui valdyti visą didžiąją Lietuvos k
 
 ## Teiginiai
 - t-003
-  teiginys: 'Ostrovo sutartimi Jogaila atidavė Vytautui valdyti visą didžiąją Lietuvos kunigaikštiją su rusiškąja jos dalimi, o Vytautas su savo žmona pažadėjo Jogailai ir Lenkijos karūnai ištikimybę.'
-  pagrindžia:
-    - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-004
   teiginys: 'Ostrovo sutartis padėjo pagrindą Lietuvos nepriklausomybei atstatyti ir turėjo užtikrinti taiką bei tvarką krašte.'
   pagrindžia:
-    - c-002
+    - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
@@ -52,36 +55,14 @@ Ostrovo sutartimi Jogaila atidavė Vytautui valdyti visą didžiąją Lietuvos k
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Ostrovo sutartimi Jogaila atidavė Vytautui valdyti visą didžiąją Lietuvos kunigaikštiją su rusiškąja jos dalimi, o Vytautas su savo žmona pažadėjo Jogailai ir Lenkijos karūnai ištikimybę.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Painformuotas apie galutinius Vytauto žygius, Jogaila
-    rugpiūčio mėn. 5 d. atvyko Ostrovan, netoli Lydos. Čia Jogai­
-    los dvariškių ir Vytauto bajorų akivaizdoj įvyko iškilmingas
-    jųdviejų susitaikinimas. Šį kartą daug ko pamokytas, Jogaila
-    tikrai ryžosi savo žodį ištesėti. Ostrovo sutartim atidavė jis
-    Vytautui valdyti visą didžiąją Lietuvos kunigaikštiją su rusiš-
-
-    (^1) ) Scr. r. Prus., II t., 647.
-
-
-    ```
-    — 44 —
-    ```
-    kąja jos dalim, o Vytautas su savo žmona pažadėjo Jogailai ir
-    Lenkijos karūnai savo ištikimybę
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003
-- c-002
   santrauka: 'Ostrovo sutartis padėjo pagrindą Lietuvos nepriklausomybei atstatyti ir turėjo užtikrinti taiką bei tvarką krašte.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Jo sudarytąja su Jogaila Ostrovos
+    Šitų nepasitenkinusiųjų priešaky atsistojo pats
+    Vytautas, Lietuvos ir jos visuomenės reikalų gynėjas, kuris
+    po ilgų ir sunkių kovų, ne be svetimos pagalbos, iškovojo iš
+    Jogailos ne tik savo tėviškę, bet ir visą Lietuvą su jai priklau­
+    sančiais Rusų žemių plotais. Jo sudarytąja su Jogaila Ostrovos
     sutartimi (1392) buvo padėtas ir pagrindas Lietuvos nepriklau­
     somybei atstatyti^1 ). Be to, ši sutartis turėjo užtikrinti ir taiką ir
     tvarką išvargintam ir nualintam ilgų naminių karų kraštui.
@@ -91,4 +72,4 @@ Ostrovo sutartimi Jogaila atidavė Vytautui valdyti visą didžiąją Lietuvos k
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-004
+    - t-003

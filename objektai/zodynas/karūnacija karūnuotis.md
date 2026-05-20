@@ -38,6 +38,10 @@ Tarp visų suvažiavime iškeltų klausimų vienas iš svarbiausiųjų buvo suma
   citata_originali: |
     Tarp visų suvažiavime iškeltų klausimų vienas iš svarbiau-
     siųjų buvo sumanymas karūnuoti Vytautą Lietuvos karalium.
+    Sumanymą iškėlė imperatorius Zigmantas. Jogaila tam pritarė,
+    bet griežčiausiai pasipriešino Lenkų ponų taryba, kuriai vado-
+    vavo Lietuvos savarankiškumo priešas, vysk. Zbignevas
+    Olesnickis.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -49,6 +53,7 @@ Tarp visų suvažiavime iškeltų klausimų vienas iš svarbiausiųjų buvo suma
   santrauka: 'Vytautas paskyrė karūnacijos datą rugsėjo 8 d., susikvietė svečių ir laukė imperatoriaus žadėtos karūnos su dokumentais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Tada lenkai pradėjo ginkluotis.
     Buvo paruoštos betgi ir Vytauto jėgos. Jis jau paskyrė karūnaci-
     jos terminą (rugsėjo 8 d.), susikvietė svečių ir laukė imperatoriaus
     atsiunčiamos žadėtosios karūnos su karūnacijos dokumentais.
@@ -59,7 +64,3 @@ Tarp visų suvažiavime iškeltų klausimų vienas iš svarbiausiųjų buvo suma
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/dokumentas]]

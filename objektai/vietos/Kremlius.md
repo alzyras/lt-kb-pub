@@ -60,6 +60,13 @@ Kremlius čia aprašomas kaip tvirtovė, susieta su Maskvos valdžios centru.
   santrauka: 'Jono Kalitos tvirtovės Kremlius siejamas su XIV a. pirmoje pusėje prasidėjusiu Lietuvos ir Maskvos dinastijų antagonizmu.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
+    Lietuviai romantikai su pagrindu didžiavosi laikais, kai Lie­
+    tuva plačiai išplėtė savo valstybingumą aname rytiniame šone iki
+    anapus Dniepro ir taip sukūrė rytų Europoje žymiausią valstybę.
+    Bet tie patys romantikai jau nebesidomėjo ir net kartais nebelaikė
+    Lietuvos istorijos dalimi laikų, kada tuose pat rytuose ant Maskvos
+    upės kranto išaugusi jėga, daugiausia yra parodžiusi aktyvumo
+    Lietuvos ir Lenkijos unijinę valstybę «išbraukti » iš žemėlapio.
     Galima sakyti jau nuo XIV amžiaus pirmos pusės į Gedimino
     sostinės Vilniaus ir į Jono Kalitos tvirtovės Kremliaus pamatus
     buvo įmūrytas tų dviejų valstybių ir jas valdančiųjų dinastijų

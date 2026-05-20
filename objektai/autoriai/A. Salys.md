@@ -12,20 +12,31 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 laikotarpis: '1930 m.; 1954 m.; 1955 m.'
-datos:
-  - '1930 m.'
-  - '1954 m.'
-  - '1955 m.'
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
 vaidmenys:
   - 'kalbininkas'
   - 'autorius'
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1350 m.'
+  - '1430 m.'
+  - '1930 m.'
+  - '1936 m.'
+  - '1954 m.'
+  - '1955 m.'
+  - '1978 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+  - 'modernioji Lietuva'
+amziai:
+  - 'XIV'
+  - 'XV'
+  - 'XX'
+  - 'XXI'
+date_start: '1350'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - autorius
@@ -45,21 +56,31 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
 
 ## Teiginiai
 - t-008
-  teiginys: 'Dr. A. Salio straipsnis buvo įdėtas žurnalo „Kalba“ numeryje kartu su kitų autorių straipsniais.'
+  teiginys: 'A. Salys teigė, kad slavų kalbos artimiausios baltų kalboms, o bendra baltų-slavų protautė nėra žinoma.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-009
+  teiginys: 'A. Salys 1930 m. „Tautos ir žodžio“ VI tome paskelbė darbą „Die žemaitischen Mundarten“ apie žemaičių tarmes.'
+  pagrindžia:
+    - c-002
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Dr. A. Salio straipsnis buvo įdėtas žurnalo „Kalba“ numeryje kartu su kitų autorių straipsniais.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: 'A. Salys teigė, kad slavų kalbos artimiausios baltų kalboms, o bendra baltų-slavų protautė nėra žinoma.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Šiame numeryje yra įdėtas paskutinis prof. Jablonskio — Ry­
-    giškių Jono straipsnis. Be to, įdėta prof. Brenderio, prof. Putino-
-    Mykolaičio, Dr. Pr. Skardžiaus, Dr. A. Salio, ir kalbininkų Talmanto,
-    Laurynaičio ir Kuzmickio straipsniai. Šio numerio kaina Lt. 3. —.
+    Su slavais baltų protėviai, ypač iki geležies amžiaus pradžios,
+    yra turėję artimų santykių. Todėl iš visų indoeuropiečių kalbų
+    slavų kalbos yra artimiausios baltų kalboms; tačiau baltų-slavų
+    bendra protautė yra nežinoma, nes ir slavų ir baltų prokalbės yra
+    išriedėjusios iš dviejų artimų indoeuropiečių prokalbės tarmių (A.
+    Salys). Begyvendamos kaimynystėje, abi protautės įgijo bendrų
+    žodžių ir kalbos ypatybių, kurios jas atskyrė nuo kitų indoeuropie­
+    čių kalbų.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -67,7 +88,34 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-008
+- c-002
+  santrauka: 'A. Salys 1930 m. „Tautos ir žodžio“ VI tome paskelbė darbą „Die žemaitischen Mundarten“ apie žemaičių tarmes.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    (^15) **Lites, II, 150; plg. III, 76, 92, 105 p.**
+    (^16) **Lites, II, 74, 97, 101 p.; SRP, III, 711 p. — Plg. Z. Ivinskis :** **_Kovos
+    bruožai,_** **o. c. 67 p.**
+    (^17) **SRP, I, 146-147 p. — Plg. A. Salys :** **_Die žemaitischen Mundarten,_**
+    **I, Tauta ir Žodis, VI, 1930, 196, 242 p.; ZStŽ, 31-40 p.**
+    (^18) **Lites, II, 98, 138 p.**
+    (^19) **Dešinysis Vyslos prieupis Osa (Ossa) skyrė senprūsių žemę nuo Kul­
+    mijos.**
+    (^20) **CEV, 257 p.**
+    (^21) **Lites, II, 74, 140-144 p.**
+    (^22) **Lites, II, 139 ; III, 41, 43 p.**
+    (^23) **Lites, II, 140 p.**
+    (^24) **Lites, II, 304 p.**
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 ### Laikotarpiai
+- [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XV amžius]]
 - [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

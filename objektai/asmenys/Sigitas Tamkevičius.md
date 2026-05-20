@@ -74,5 +74,4 @@ Pirmasis jos redaktorius buvo tuomet Simne dirbęs kun. Sigitas Tamkevičius. 19
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/kronika]]
 - [[temos/redaktorius]]

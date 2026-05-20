@@ -64,51 +64,45 @@ Nenurodyta
 
 ## Teiginiai
 - t-009
-  teiginys: '1605 m. rugsėjo 27 d. ties Salaspiliu (Kirkholmu) Karolis IX išrikiavo savo kariuomenę, o J. K. Chodkevičius liepė Lietuvos kariuomenei pasiruošti mūšiui; prie didžiojo etmono prisijungė ir Kuršo kunigaikštis Fridrichas Ketleris.'
+  teiginys: 'Švedų ir Lietuvos kariuomenės nepajudėjusios išstovėjo iki vidudienio, nes švedai buvo išsirikiavę ant aukšto upelio kranto, o lietuviai mėgino juos išprovokuoti pulti pirmuosius.'
   pagrindžia:
     - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-010
-  teiginys: 'Švedų ir Lietuvos kariuomenės nepajudėjusios išstovėjo iki vidudienio, nes švedai buvo išsirikiavę ant aukšto upelio kranto, o lietuviai mėgino juos išprovokuoti pulti pirmuosius.'
+  teiginys: 'Karolis Chodkevičius per laikiną ramybę pasakė kalbą, padrąsino ir įkvėpė savo karius.'
   pagrindžia:
     - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-011
-  teiginys: 'Pasinaudodamas laikina ramybe, Karolis Chodkevičius pasakė kalbą, padrąsino karius ir vėliau įsakė visam frontui imituoti atsitraukimą; šis manevras tekste aiškiai pristatomas kaip tradicinė lietuvių karvedžių apgaulingo atsitraukimo taktika.'
-  pagrindžia:
-    - c-005
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-012
   teiginys: 'J. K. Chodkevičius, pastebėjęs, kad švedų pėstininkų rikiuotė prarado darnumą, įsakė pulti; V. Vainos kavalerija atakavo centre, o J. P. Sapiegos ir T. Dambravos raiteliai smogė flanguose.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-013
+- t-012
   teiginys: 'Salaspilio mūšyje švedų kavalerijai netvarkingai traukiantis suiro pėstininkų rikiuotė, o centre žuvo švedų generolas A. Liuneburgietis.'
   pagrindžia:
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-014
+- t-013
   teiginys: 'Švedų gvardijos kavaleriją pasitiko T. Lackio husarai ir ryžtingu puolimu nubloškė švedų raituosius gvardiečius, po to švedų pajėgos bėgo iš mūšio lauko.'
+  pagrindžia:
+    - c-005
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-014
+  teiginys: 'T. Dambravos vadovaujama reitarų vėliava prajojo Dauguvos pakrante ir smogė švedų kavalerijai iš šono.'
   pagrindžia:
     - c-006
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-015
-  teiginys: 'T. Dambravos vadovaujama reitarų vėliava prajojo Dauguvos pakrante, smūgiu iš šono ir priekio sutriuškino švedų kavaleriją, o mūšyje prasidėjo panika.'
-  pagrindžia:
-    - c-007
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-016
   teiginys: 'Salaspilio mūšyje žuvo Fridrichas Liuneburgietis ir Andrius Lennartssonas, o lietuvių kairiojo sparno sėkmė padėjo V. Vainos kariams centre.'
   pagrindžia:
-    - c-008
+    - c-007
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
@@ -135,7 +129,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-012
+    - t-011
 - c-002
   santrauka: 'Salaspilio mūšyje švedų kavalerijai netvarkingai traukiantis suiro pėstininkų rikiuotė, o centre žuvo švedų generolas A. Liuneburgietis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -153,34 +147,8 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-013
+    - t-012
 - c-003
-  santrauka: '1605 m. rugsėjo 27 d. ties Salaspiliu (Kirkholmu) Karolis IX išrikiavo savo kariuomenę, o J. K. Chodkevičius liepė Lietuvos kariuomenei pasiruošti mūšiui; prie didžiojo etmono prisijungė ir Kuršo kunigaikštis Fridrichas Ketleris.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Rugsėjo 27 d. apie 10 val. Švedijos kara-
-    lius Karolis 1x išrikiavo savo kariuomenę.
-    LDK didysis etmonas J. K. Chodkevičius,
-    pamatęs lauke besirikiuojančius švedus,
-    įsakė Lietuvos kariuomenei išsirikiuoti ir
-    pasiruošti mūšiui.
-
-    Kairiajame Dauguvos krante buvęs
-    Kuršo kunigaikštis Fridrichas Ketleris, ma-
-    tydamas besirikiuojančius lietuvius, savo
-    300 raitelių įsakė persikelti į dešinįjį krantą.
-    Kuršiečiai, kartu su kunigaikščiu, sėkmin-
-    gai perplaukė upę ir prisistatė didžiajam
-    etmonui. Ši akimirka labai pakėlė Lietuvos
-    karių nuotaiką.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-009
-- c-004
   santrauka: 'Švedų ir Lietuvos kariuomenės nepajudėjusios išstovėjo iki vidudienio, nes švedai buvo išsirikiavę ant aukšto upelio kranto, o lietuviai mėgino juos išprovokuoti pulti pirmuosius.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -203,9 +171,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-010
-- c-005
-  santrauka: 'Pasinaudodamas laikina ramybe, Karolis Chodkevičius pasakė kalbą, padrąsino karius ir vėliau įsakė visam frontui imituoti atsitraukimą; šis manevras tekste aiškiai pristatomas kaip tradicinė lietuvių karvedžių apgaulingo atsitraukimo taktika.'
+    - t-009
+- c-004
+  santrauka: 'Karolis Chodkevičius per laikiną ramybę pasakė kalbą, padrąsino ir įkvėpė savo karius.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Pasinaudodamas laikina ramybe, Karolis
@@ -221,8 +189,8 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-011
-- c-006
+    - t-010
+- c-005
   santrauka: 'Švedų gvardijos kavaleriją pasitiko T. Lackio husarai ir ryžtingu puolimu nubloškė švedų raituosius gvardiečius, po to švedų pajėgos bėgo iš mūšio lauko.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -237,9 +205,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-014
-- c-007
-  santrauka: 'T. Dambravos vadovaujama reitarų vėliava prajojo Dauguvos pakrante, smūgiu iš šono ir priekio sutriuškino švedų kavaleriją, o mūšyje prasidėjo panika.'
+    - t-013
+- c-006
+  santrauka: 'T. Dambravos vadovaujama reitarų vėliava prajojo Dauguvos pakrante ir smogė švedų kavalerijai iš šono.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Rotmistrų J. P. Sapiegos ir T. Dambra-
@@ -262,8 +230,8 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-015
-- c-008
+    - t-014
+- c-007
   santrauka: 'Salaspilio mūšyje žuvo Fridrichas Liuneburgietis ir Andrius Lennartssonas, o lietuvių kairiojo sparno sėkmė padėjo V. Vainos kariams centre.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -282,8 +250,13 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-016
+    - t-015
 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XVII amžius]]
+
+### Susiję objektai
+- [[objektai/ivykiai/Salaspilio (Kirkcholmo) mūšis]]
+- [[objektai/asmenys/T. Lackis]]
+- [[objektai/grupes/Švedų gvardijos kavalerija]]

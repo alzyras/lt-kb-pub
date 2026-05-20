@@ -31,7 +31,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Polockas pamažu artino savo sienas prie aisčių krašto, o Padauguvio giminės kurį laiką jam mokėjo duoklę.'
+  teiginys: 'Polockas pamažu artino savo sienas prie aisčių krašto, o Padauguvio giminės kurį laiką pripažino jo valdžią ir mokėjo duoklę.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -39,7 +39,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Polockas pamažu artino savo sienas prie aisčių krašto, o Padauguvio giminės kurį laiką jam mokėjo duoklę.'
+  santrauka: 'Polockas pamažu artino savo sienas prie aisčių krašto, o Padauguvio giminės kurį laiką pripažino jo valdžią ir mokėjo duoklę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Šiaurėje, kur buvo susikūrusi galinga Polocko kunigaikštija,
@@ -54,3 +54,7 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Polockas]]

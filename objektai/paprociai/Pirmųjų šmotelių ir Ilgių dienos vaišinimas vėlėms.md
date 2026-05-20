@@ -54,13 +54,13 @@ Nenurodyta
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Tą žinodami, kalnėnai ir žemaičiai didžiai rūpinęsi likumu
-    savo dūšių atenčio je^701 , todėl mirdami liuobėję^702 įsakyti gentims visus apsiėjimus^703
-    laidosenos^704 kaip reikiant atlikti, kurie taip pat jų įsakymus didžiai saugoję, nesgi neattiesiant^705
-    jų ne vien dievai, bet ir pačios dūšios baisiai apmaudavusios ant neklausančiųjų: kaipgi
-    baldžiusios naktimis ir blaškiusios, darydamos jiems iškadas^706 javuose, gyvuliuose ir kituose
-    daiktuose, nesgi jos, nebūdamos palaidotomis, kentėjusios alkį, todėl, idant jas nutildytų, ne vien
-    kiek pradėdami valgyti ar gerti mėčioję žemyn pirmuosius šmotelius valgio ir laistę gėrimo, bet
-    dar metuose kartą ilgių^707 dieną jas vaišinę, kaip tuojau regėsim.
+        savo dūšių atenčio je^701 , todėl mirdami liuobėję^702 įsakyti gentims visus apsiėjimus^703
+        laidosenos^704 kaip reikiant atlikti, kurie taip pat jų įsakymus didžiai saugoję, nesgi neattiesiant^705
+        jų ne vien dievai, bet ir pačios dūšios baisiai apmaudavusios ant neklausančiųjų: kaipgi
+        baldžiusios naktimis ir blaškiusios, darydamos jiems iškadas^706 javuose, gyvuliuose ir kituose
+        daiktuose, nesgi jos, nebūdamos palaidotomis, kentėjusios alkį, todėl, idant jas nutildytų, ne vien
+        kiek pradėdami valgyti ar gerti mėčioję žemyn pirmuosius šmotelius valgio ir laistę gėrimo, bet
+        dar metuose kartą ilgių^707 dieną jas vaišinę, kaip tuojau regėsim.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

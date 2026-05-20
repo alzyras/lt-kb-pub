@@ -30,7 +30,8 @@ Kipčako, arba vadinamosios Auksinės, Ordos chanai (iš Sarajaus) rinkdavo iš 
   santrauka: 'Iš Sarajaus veikę Auksinės Ordos chanai rinkdavo mokesčius ir skirdavo kunigaikščius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Kipča-
+    **Maskvos iškilimas.** Kai Lietuva XIII amž. pradėjo rinkti
+    rusų žemes, visos jų kunigaikštystės priklausė totorių. Kipča-
     ko, arba vadinamosios Auksinės, Ordos chanai (iš Sarajaus)
     rinkdavo iš jų mokesčius ir skirdavo jiems kunigaikščius, kurių
     vienas buvo laikomas didžiuoju.

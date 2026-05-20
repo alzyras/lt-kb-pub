@@ -42,7 +42,9 @@ Nenurodyta
   santrauka: '1673 m. seime Lietuvos atstovai išreikalavo įstatymo, kad kas trečias seimas, kurio maršalka lietuvis, būtų šaukiamas Gardine.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Naudodamiesi sunkia Len-
+    vis dėlto nesutiko sutartinai veikti su savo priešu Sobieskiu —
+    nieku būdu nepasidavė jo vadovybei.
+    **Bendrieji seimai Lietuvoje.** Naudodamiesi sunkia Len-
     kijos būkle, Lietuvos atstovai 1673 m. seime išreika-
     lavo iš lenkų priimti įstatymą, kad kas trečias
     seimas, kurio maršalka esti lietuvis, būtų

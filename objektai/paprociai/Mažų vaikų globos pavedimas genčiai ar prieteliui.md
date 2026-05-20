@@ -54,7 +54,7 @@ Nenurodyta
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Mirdamas tėvas jei paliko mažus vaikus, tad pavedė jų globą savo visų artimiausiam genčiai ar
-    visų didžiausiam prieteliui, ką darė tokiu būdu.
+        visų didžiausiam prieteliui, ką darė tokiu būdu.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

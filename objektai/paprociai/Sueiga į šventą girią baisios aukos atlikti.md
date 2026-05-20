@@ -42,21 +42,20 @@ Nenurodyta
 
 ## Teiginiai
 - t-002
-  teiginys: 'Visų giminių pasiuntiniai senu įpročiu sueina į šventą girią aukai atlikti.'
+  teiginys: 'Žemaičių giminių pasiuntiniai nustatytu laiku sueidavo į šventą girią atlikti baisios aukos pagal seną įprotį.'
   pagrindžia:
-    - c-002
     - c-001
+    - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Visų giminių pasiuntiniai senu įpročiu sueina į šventą girią aukai atlikti.'
+  santrauka: 'Žemaičių giminių pasiuntiniai nustatytu laiku sueidavo į šventą girią atlikti baisios aukos pagal seną įprotį.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
-    „Žemaičiai (Semnones) esantys. Jų tikyba senovę jų rodo. Laikui atėjus, siuntiniai^99
-    visų giminių tos tautos sueina į šventą girią senu įpročiu baisios aukos atlikti; ir taip, nugalavę
-    akivaizdoj žmogųį aukauja pagal nuožmų įprotį, godoja^100 dar ir kitaip tą girią: nieksai tenai
+    negali, negut^101 surištas, įžengti, kaipo nenusižeminęs prieš galybę aukščiausią. Jei netyčiomis jis
+         tenai pavirstų, atsikelti ir stotis, sako, nevalna^102 yra, nes turi ant pilvo išsiristi.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -65,11 +64,12 @@ Nenurodyta
   pagrindžia:
     - t-002
 - c-002
-  santrauka: 'Visų giminių pasiuntiniai senu įpročiu sueina į šventą girią aukai atlikti.'
+  santrauka: 'Žemaičių giminių pasiuntiniai nustatytu laiku sueidavo į šventą girią atlikti baisios aukos pagal seną įprotį.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
-    negali, negut^101 surištas, įžengti, kaipo nenusižeminęs prieš galybę aukščiausią. Jei netyčiomis jis
-    tenai pavirstų, atsikelti ir stotis, sako, nevalna^102 yra, nes turi ant pilvo išsiristi.
+    „Žemaičiai (Semnones) esantys. Jų tikyba senovę jų rodo. Laikui atėjus, siuntiniai^99
+         visų giminių tos tautos sueina į šventą girią senu įpročiu baisios aukos atlikti; ir taip, nugalavę
+         akivaizdoj žmogųį aukauja pagal nuožmų įprotį, godoja^100 dar ir kitaip tą girią: nieksai tenai
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

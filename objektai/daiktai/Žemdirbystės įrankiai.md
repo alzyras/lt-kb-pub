@@ -6,8 +6,28 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1955 m.'
+  - '1957 m.'
+  - '1960 m.'
+  - '1963 m.'
+  - '1964 m.'
+  - '1966 m.'
+  - '1968 m.'
+  - '1969 m.'
+  - '1970 m.'
+  - '1972 m.'
+  - '1978 m.'
+  - '2026 m.'
+periodas: 'okupacijų ir sovietmečio laikotarpis'
+periodo_grupes:
+  - 'XX a.'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1955'
+date_end: '2026'
 patikimumas: 'aukštas'
-periodas: priesistore
 tags:
   - daiktas
   - įrankis
@@ -58,7 +78,11 @@ Nenurodyta
   santrauka: 'Geležinis kirvis padėjo apaugusius plotus paversti dirva.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Metalų amžiuje žemės dar­
+    Pagalbinės ūkio
+    šakos buvo bitininkystė, medžioklė ir žvejyba. Žemdirbystė turėjo
+    labai gilias tradicijas, kai tolimoje akmens amžiaus epochoje, arti
+    savo sodybų, lyg daržų lysvėmis, paprastai moterys kapliais ap­
+    dirbdavo nedidelius žemės sklypelius. Metalų amžiuje žemės dar­
     bas plėtėsi, juo labiau kad geležinis kirvis padėjo net apaugusius
     plotus paversti dirva.
   citata_rodoma: ""
@@ -115,3 +139,7 @@ Nenurodyta
 ### Teminiai klasteriai
 - [[temos/įrankis]]
 - [[temos/ūkio-įrankis]]
+
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

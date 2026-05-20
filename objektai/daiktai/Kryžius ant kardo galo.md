@@ -47,9 +47,12 @@ Nenurodyta
   santrauka: 'Kryžiuočiai savo žygiuose nešė kryžių ant kardo galo.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Tad Gediminui politinės aplinkybės krikštui tapo gana
+    vokiečių ordinas per daug buvo užsisklendęs savo siauruose sieki­
+    muose. Tad Gediminui politinės aplinkybės krikštui tapo gana
     nepalankios, nes teisę krikštyti Lietuvą tik sau tepripažino kry­
     žiuočiai, kurie uoliai savo žygiuose nešė kryžių ant kardo galo.
+    Ryžtingai kovojančių pagonių jie iš viso neturėjo progos klaustis,
+    ar jie turi norą krikštytis.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

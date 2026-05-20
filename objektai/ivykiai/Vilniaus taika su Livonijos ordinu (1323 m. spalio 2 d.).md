@@ -70,7 +70,11 @@ Nenurodyta
   santrauka: '1323 m. spalio 2 d. Vilniuje Livonijos ordino ir Livonijos vyskupų pasiuntiniai sudarė taiką su Gediminu.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Nedrįsdamas tačiau atvirai stoti prieš Gediminą, Livo­
+    Jeigu tuose žodžiuose ir galėjo būti šiek tiek perdėjimo, yra
+    tikra, kad Gedimino laiškų išsiuntimo laikotarpyje Lietuvą puldi­
+    nėjo Prūsų kryžiuočiai, kuriems iš šono atėjęs pagonių pakrikštiji­
+    mas būtų reiškęs galą jų pretenzijų į Lietuvą (taip ir įvyko po
+    1387 m.). Nedrįsdamas tačiau atvirai stoti prieš Gediminą, Livo­
     nijos ordinas drauge su Livonijos vyskupais siuntė pasiuntinius
     Vilniun, kur 1323.X.2 buvo padaryta taika, kurioje buvo nustatyti
     ir Rygai svarbus prekybos reikalai^14.
@@ -86,7 +90,11 @@ Nenurodyta
   santrauka: 'Prūsų ordinas Vilniaus taikos nepripažino ir skatino siekti su Gediminu pasirašytos sutarties anuliavimo.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Prūsų ordinas, nepripažindamas
+    Išvykdami iš Livonijos, popiežiaus legatai įsakė
+    su Gediminu nekariauti ketverius metus, nes buvo turima vilčių,
+    kad per tą laiką Gediminas galįs pasikrikštyti. Tuo metu kryžiuo­
+    čiai, kad ir erzindami Gediminą kitais budais, laikėsi oficialios
+    taikos, ir karą tepradėjo 1328 m. Prūsų ordinas, nepripažindamas
     tos sutarties, skatino savo vyskupus ir jų kapitulas pareikšti Livo­
     nijos dvasininkams protestą, reikalaujant anuliuoti su Gediminu
     pasirašytą sutartį^16.

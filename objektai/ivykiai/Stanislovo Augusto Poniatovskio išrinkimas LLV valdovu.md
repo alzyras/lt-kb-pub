@@ -60,6 +60,3 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
-
-### Susiję objektai
-- [[objektai/asmenys/Stanislovas Augustas Poniatovskis]]

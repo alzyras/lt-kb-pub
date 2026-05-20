@@ -44,28 +44,34 @@ Vartojamos formos: `raktininkas`, `parakčia`, `angininkas`, `karūžasis`, `ši
 - t-006
   teiginys: 'Vaidyla iš dvaro duonkepio padėjėjo buvo pakeltas didžiojo kunigaikščio rūmininku.'
   pagrindžia:
-    - c-004
+    - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-007
   teiginys: 'Vaidyla vėliau Julijonos malone gavo vyno pilstytojo pareigybę.'
   pagrindžia:
-    - c-004
+    - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-008
   teiginys: 'Vaidyla, vedęs Jogailos seserį Mariją, pateko į aukštesnį luomą ir buvo pakeltas didžiojo kunigaikščio rūmininku.'
   pagrindžia:
-    - c-004
+    - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-004
+- c-001
   santrauka: 'Vaidyla iš dvaro duonkepio padėjėjo buvo pakeltas didžiojo kunigaikščio rūmininku.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Į šitą luomą jis pateko vesdamas Jogailos seserį
+    Eidamas dar toliau ir norėdamas daugiau laimėti, negu
+    pirmom dviem sutartim buvo laimėta, savo patarėjų nurodomas
+    ir padedamas, 1380 metų pavasarį Jogaila pasirašė naują su­
+    tartį, iš kurios Kęstutis jau aiškiai yra išskiriamas. Naujo žy­
+    gio kurstytoju ir sumanytoju buvo Vaidyla, kuris jau iš seno
+    pyko ant Kęstučio už nepripažinimą jo lygiu su kitais kuni­
+    gaikščiais. Į šitą luomą jis pateko vesdamas Jogailos seserį
     Mariją; iš dvaro duonkepio padėjėjo buvo pakeltas didžiojo
     kunigaikščio rūmininku, o vėliau Julijonos malone— ir vyno
     pilstytoju.

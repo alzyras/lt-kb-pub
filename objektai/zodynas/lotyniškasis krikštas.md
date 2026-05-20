@@ -7,20 +7,26 @@ aliases: []
 saltiniai:
   - "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
 laikotarpis: "XIV a. pabaiga"
-datos: []
-periodas: "viduramziai"
-periodo_grupes:
-  - "LDK"
-amziai:
-  - "XIV"
-date_start: "1385"
-date_end: "1385"
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1385 m.'
+  - '1422 m.'
+  - '1978 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+  - 'XV'
+  - 'XX'
+  - 'XXI'
+date_start: '1385'
+date_end: '2026'
 patikimumas: "aukštas"
-tags:
-  - krikštas
+tags: []
 ---
 # lotyniškasis krikštas
 
@@ -50,8 +56,61 @@ Sąvoka nusako krikštą pagal lotyniškąją vakarietišką tradiciją ir šiam
 Terminas vartojamas aiškinant Lietuvos posūkį į Vakarų Europą ir oficialų krikšto atnaujinimą valstybinėje plotmėje.
 
 ## Teiginiai
+- t-003
+  teiginys: 'Svarbioji jungtis su Vakarų Europa buvo pradėta lotyniškuoju krikštu.'
+  pagrindžia:
+    - c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-004
+  teiginys: 'Lietuvos valdovui einant į Lenkiją, valstybiniu lygmeniu buvo atnaujintas lotyniškasis krikštas, nuošalyje paliekant Kryžiuočių ordiną.'
+  pagrindžia:
+    - c-002
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Svarbioji jungtis su Vakarų Europa buvo pradėta lotyniškuoju krikštu.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Svarbioji jungtis
+    su Vakarų Europa buvo pradėta lotyniškuoju krikštu. Lietuvos
+    ateičiai buvo reikšmingas faktas, kad Lietuva iš didžiosios Algirdo
+    laikų kryžkelės pasuko jau Mindaugo bandytu Romos keliu. Į kai­
+    myninę Lenkiją užkuriom nueinant Lietuvos valdovui, vėl valsty­
+    binėje plotmėje buvo atnaujintas lotyniškasis krikštas, nuošalia-
+    paliekant oficialųjį krikštytoją kryžiuočių ordiną, atstovavusį gin­
+    kluotai « misijų teorijai ».
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
+- c-002
+  santrauka: 'Lietuvos valdovui einant į Lenkiją, valstybiniu lygmeniu buvo atnaujintas lotyniškasis krikštas, nuošalyje paliekant Kryžiuočių ordiną.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Lietuvos
+    ateičiai buvo reikšmingas faktas, kad Lietuva iš didžiosios Algirdo
+    laikų kryžkelės pasuko jau Mindaugo bandytu Romos keliu. Į kai­
+    myninę Lenkiją užkuriom nueinant Lietuvos valdovui, vėl valsty­
+    binėje plotmėje buvo atnaujintas lotyniškasis krikštas, nuošalia-
+    paliekant oficialųjį krikštytoją kryžiuočių ordiną, atstovavusį gin­
+    kluotai « misijų teorijai ». Pagaliau pasibaigus karams su kryžiuo­
+    čiais (1422 m.—su Prūsų, 1435 m.—su Livonijos), prasidėjo vi­
+    daus kolonizacija, ypač Sūduvos giriose, vystėsi prekyba su Prūsais
+    (Dancigu ir Karaliaučiumi), nuo Vytauto laikų buvo kalamos mo­
+    netos, liejami pabūklai, varpai.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -59,3 +118,6 @@ Terminas vartojamas aiškinant Lietuvos posūkį į Vakarų Europą ir oficialų
 
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

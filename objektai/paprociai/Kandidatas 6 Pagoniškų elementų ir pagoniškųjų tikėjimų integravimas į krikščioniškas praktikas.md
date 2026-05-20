@@ -80,9 +80,6 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/tikėjimas]]
-
 ### Susiję objektai
 - [[objektai/paprociai/Kandidatas Pagoniškų elementų išlikimas krikščioniškų švenčių papročiuose]]
 - [[objektai/paprociai/Kandidatas Pagoniškųjų tikėjimų integravimas į krikščionišką praktiką]]

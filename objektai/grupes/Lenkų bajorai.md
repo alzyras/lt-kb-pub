@@ -39,7 +39,11 @@ Iš savo pusės Lenkų bajorai pasižadėjo, kad mirus Jogailai nerinksią naujo
   santrauka: 'Lenkų bajorai Radome pasižadėjo po Jogailos mirties nerinkti naujo karaliaus be lietuvių ir Vytauto žinios.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    atskirais dokumentais jį patvirtino Vytautas, Jo-
+    Vytautas tam nesiprie-
+    šino; jis ir dabar prisipažino gavęs Lietuvą iš Jogailos, bet tuo
+    tarpu neketino jos grąžinti. Po ilgų derybų, 1401 m. buvo pa-
+    siektas naujas susitarimas, kurs buvo patvirtintas 4 atskirais do-
+    kumentais: atskirais dokumentais jį patvirtino Vytautas, Jo-
     gaila, Lietuvos ir Lenkų bajorai. Vytauto ir Lietuvos bajorų
     dokumentai buvo parašyti Vilniuje; Jogailos dokumentas yra žu-
     vęs, tad nežinia, kur jis duotas; lenkų bajorai savo dokumentą su-
@@ -55,7 +59,11 @@ Iš savo pusės Lenkų bajorai pasižadėjo, kad mirus Jogailai nerinksią naujo
   santrauka: 'Lenkų bajorai Radome pasižadėjo po Jogailos mirties nerinkti naujo karaliaus be lietuvių ir Vytauto žinios.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Iš savo pusės Lenkų ba-
+    Todėl šis susitarimas yra vadinamas Vilniaus
+    Radomo susitarimu. Juo buvo patvirtintas Vytauto sava-
+    rankiškumas: jis buvo paskelbtas tikruoju valdovu, bet kartu bu-
+    vo garantuota, kad po jo mirties visa Lietuva turėsianti grįžti Jo-
+    gailai ir jo įpėdiniams, Lenkų karaliams. Iš savo pusės Lenkų ba-
     jorai pasižadėjo, kad mirus Jogailai nerinksią naujo karaliaus be
     lietuvių ir be Vytauto žinios.
   citata_rodoma: ""
@@ -85,6 +93,3 @@ Iš savo pusės Lenkų bajorai pasižadėjo, kad mirus Jogailai nerinksią naujo
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/privilegija]]
-
-### Susiję objektai
-- [[objektai/grupes/Lietuvos bajorija]]

@@ -30,7 +30,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: '1611 m. per Dievo Kūno procesiją protestantas už Ostijos garbinimo pavadinimą stabmeldyste buvo apkultas, suimtas ir nukankintas.'
+  teiginys: '1611 m. per Dievo Kūno procesiją Vilniuje protestantas už Ostijos garbinimo pavadinimą stabmeldyste buvo apkultas, suimtas ir nukankintas.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -38,10 +38,13 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1611 m. per Dievo Kūno procesiją protestantas už Ostijos garbinimo pavadinimą stabmeldyste buvo apkultas, suimtas ir nukankintas.'
+  santrauka: '1611 m. per Dievo Kūno procesiją Vilniuje protestantas už Ostijos garbinimo pavadinimą stabmeldyste buvo apkultas, suimtas ir nukankintas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Pavyzdžiui, 1611 m. per Dievo Kūno procesiją vie-
+    Taip
+    pat nemaža rietenų ir muštynių būdavo ir per iškilmingas lai-
+    dotuves. Protestantai buvo silpnesni, todėl jie daugiau ir nu-
+    kentėdavo. Pavyzdžiui, 1611 m. per Dievo Kūno procesiją vie-
     nas protestantas, Ostijos garbinimą išvadinęs stabmeldyste,
     buvo minios apkultas, suimtas, o vėliau pasmerktas mirti ir nu-
     kankintas.

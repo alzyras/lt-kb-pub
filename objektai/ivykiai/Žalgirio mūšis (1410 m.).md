@@ -119,5 +119,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/ivykiai/Žalgirio mūšis]]
-- [[objektai/vietos/Žalgiris]]
+- [[objektai/daiktai/Kryžiuočių kariuomenės vėliavos]]
+- [[objektai/daiktai/Ordino komtūrų barzdos]]

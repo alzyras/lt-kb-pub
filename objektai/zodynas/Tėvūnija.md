@@ -36,28 +36,37 @@ Vartojamos formos: `tėvūnijomis`, `pavietėmis`, `tėvūnu`, `paviete`, `tėv�
 
 ## Teiginiai
 - t-003
-  teiginys: '`Tėvūnija / pavietė` šiame tekste reiškia administracinę apygardą.'
+  teiginys: 'Tėvūnija, arba pavietė, buvo maža Lietuvos ūkės apygarda.'
   pagrindžia:
-    - c-001
+    - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 - t-004
   teiginys: '`Pagastas` ir `dešimtinė` žymi mažesnius tos pačios sistemos vienetus.'
   pagrindžia:
-    - c-001
     - c-002
+    - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '`Tėvūnija / pavietė` šiame tekste reiškia administracinę apygardą.'
+  santrauka: '`Pagastas` ir `dešimtinė` žymi mažesnius tos pačios sistemos vienetus.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
-    Visa Lietuvos ūkė buvo paskaidyta į mažas apygardas, tėvūnijomis, arba pavietėmis^1057 , vadinamas,
-    nuo vardo vyresniojo, tėvūnu vadinamo, gudiškai Storasta^1058 , ar rasi nuo žodžio vieta, į kurią
-    liuobėjo vyresnieji tos apygardos susirinkę sūdyti^1059 arba kitus ūkės reikalus atlikti: todėl vadinos
-    paviete, gudiškai pavietu.
+    Tos tėvūnijos dalijos į pagastus^1060 , kurių vyresniaisiais buvo vaitai; tie pagastai dalijos į dešimtines, jų vyresnieji vadinos pristovais.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
+- c-002
+  santrauka: 'Tėvūnija, arba pavietė, buvo maža Lietuvos ūkės apygarda.'
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Visa Lietuvos ūkė buvo paskaidyta į mažas apygardas, tėvūnijomis, arba pavietėmis^1057 , vadinamas, nuo vardo vyresniojo, tėvūnu vadinamo, gudiškai Storasta^1058 , ar rasi nuo žodžio vieta, į kurią liuobėjo vyresnieji tos apygardos susirinkę sūdyti^1059 arba kitus ūkės reikalus atlikti: todėl vadinos paviete, gudiškai pavietu.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -65,19 +74,6 @@ Vartojamos formos: `tėvūnijomis`, `pavietėmis`, `tėvūnu`, `paviete`, `tėv�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
-    - t-004
-- c-002
-  santrauka: '`Pagastas` ir `dešimtinė` žymi mažesnius tos pačios sistemos vienetus.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Tos tėvūnijos dalijos į pagastus^1060 , kurių vyresniaisiais buvo vaitai; tie pagastai dalijos į dešimtines,
-    jų vyresnieji vadinos pristovais.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
     - t-004
 
 ## Pastabos

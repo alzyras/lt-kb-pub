@@ -29,7 +29,13 @@ Zigmanto Augusto seseriai Onai paliktų privatinių dvarų. Zigmanto Augusto ses
   santrauka: 'Zigmanto Augusto seseriai Onai buvo palikti privatiniai dvarai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Zigmanto Augusto seseriai Onai paliktų privatinių dvarų.
+    Zigmanto Augusto seseriai Onai paliktų privatinių dvarų. To-
+    liau lietuviai reikalavo, kad bendrieji seimai rinktųsi pakaito-
+    mis Lietuvoje ir Lenkijoje, o ne vien tik Lenkijoje; kad Lietuvos
+    kariuomenės vadais nebūtų skiriami nei lenkai nei kiti svetim-
+    šaliai, o vien tik lietuviai; kad Lietuvai būtų pridėta tiek naujų
+    žemių, kiek buvo nuo jos atplėšta ir priskirta Lenkijai 1569 m.
+    Liublino seime.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

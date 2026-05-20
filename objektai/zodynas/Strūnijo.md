@@ -21,29 +21,45 @@ Vartojamos formos: `strūnijo ar dailidavo`.
 
 ## Teiginiai
 - t-003
-  teiginys: '`Strūnijo` šiame tekste reiškia savomis jėgomis statyti ar įrengti trobesius.'
+  teiginys: 'Strūnijo reiškia statė sau trobesius be svetimo meistro pagalbos.'
   pagrindžia:
-    - c-001
+    - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 - t-004
-  teiginys: 'Terminas siejamas ir su įrankių kalimu bei namų apdirbimu.'
+  teiginys: 'Strūnijo vartojama kalbant apie namų įrengimą, kuriam reikalingus įrankius žmonės patys kalė.'
   pagrindžia:
-    - c-001
     - c-002
+    - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '`Strūnijo` šiame tekste reiškia savomis jėgomis statyti ar įrengti trobesius.'
+  santrauka: 'Strūnijo vartojama kalbant apie namų įrengimą, kuriam reikalingus įrankius žmonės patys kalė.'
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Taip pat įrankius, kuriais namus strūnijo ar dailidavo, patys sau kalė, nė nuo ko nemokomi, nesgi šiandien
+        dar taria į žmogų, rūpinantis įsteigimu^569 kokio daikto ir dejuojantį nesugebėjimu, sako: „Akių
+        pasiklausk“ arba: „Buklus ir su žąsia moka arti“ [19], kaipogi, pagal jų nuomonę, žmogus, ką
+        paregėjęs, tą turi padirbti. Ir taip jų grąžtai, kaltai, Strūnos^570 , skaptai, skrytulės^571 , kirviai, skliutai
+        yra pačių dirbti.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
+- c-002
+  santrauka: 'Strūnijo reiškia statė sau trobesius be svetimo meistro pagalbos.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Visa gudryba senovės lietuvių, kalnėnų ir žemaičių, buvo ta, jog visa, ko vien reikiant, patys
-    sau steigė, idant svetimo nereikalautų, kaip motriškosios, taip ir vyriškieji; ir taip motriškosios
-    verpė, audė ir dažė savo drobes ir milus įvairiomis barvomis nė nuo ko nemokomos, pačių
-    dažyvėmis^567 savo prasma. Vyriškieji taip pat strūnijo^568 sau visus trobesius, svetimo meistro
-    nereikalaudami, dailidavo ratus, važius, šlėdes, arba šlajas, ir roges.
+        sau steigė, idant svetimo nereikalautų, kaip motriškosios, taip ir vyriškieji; ir taip motriškosios
+        verpė, audė ir dažė savo drobes ir milus įvairiomis barvomis nė nuo ko nemokomos, pačių
+        dažyvėmis^567 savo prasma. Vyriškieji taip pat strūnijo^568 sau visus trobesius, svetimo meistro
+        nereikalaudami, dailidavo ratus, važius, šlėdes, arba šlajas, ir roges.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -51,22 +67,6 @@ Vartojamos formos: `strūnijo ar dailidavo`.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
-    - t-004
-- c-002
-  santrauka: 'Terminas siejamas ir su įrankių kalimu bei namų apdirbimu.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Taip pat
-    įrankius, kuriais namus strūnijo ar dailidavo, patys sau kalė, nė nuo ko nemokomi, nesgi šiandien
-    dar taria į žmogų, rūpinantis įsteigimu^569 kokio daikto ir dejuojantį nesugebėjimu, sako: „Akių
-    pasiklausk“ arba: „Buklus ir su žąsia moka arti“ [19], kaipogi, pagal jų nuomonę, žmogus, ką
-    paregėjęs, tą turi padirbti.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
     - t-004
 
 ## Pastabos
@@ -76,3 +76,4 @@ Vartojamos formos: `strūnijo ar dailidavo`.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/paprociai/Savarankiškas ūkio ir namų dirbinių gaminimas]]
+- [[objektai/daiktai/Ūkio įrankiai]]

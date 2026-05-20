@@ -90,3 +90,7 @@ Nenurodyta
 - [[laikotarpiai/XI amžius]]
 - [[laikotarpiai/XII amžius]]
 - [[laikotarpiai/XIII amžius]]
+
+### Susiję objektai
+- [[objektai/vietos/Rimaisiai]]
+- [[objektai/vietos/Veršvai]]

@@ -36,8 +36,12 @@ Visos teisės, kurias turėjo iždininkai, buvo pavestos iždo komisijai, o hetm
   santrauka: 'Visos teisės, kurias turėjo iždininkai, buvo pavestos iždo komisijai, o hetmonų turėtosios teisės atiteko karo komisijai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Visos teisės, kurias turėjo iždininkai, buvo pavestos iždo komisijai,
+    Pirmiausia buvo įkurta kiekvienoj
+    jungtinėj valstybėj po dvi komisijas — iždo ir karo. Visos
+    teisės, kurias turėjo iždininkai, buvo pavestos iždo komisijai,
     o hetmonų turėtosios teisės atiteko karo komisijai. Hetmonams
+
+
     liko tik kariuomenės vadovybė, t. y. jie liko vien kariuomenės
     vadais, o visas kariuomenės aprūpinimas ir jos surinkimas ati-
     teko komisijai.
@@ -52,7 +56,12 @@ Visos teisės, kurias turėjo iždininkai, buvo pavestos iždo komisijai, o hetm
   santrauka: 'Čartoriskių įsteigtos karo ir iždo komisijos buvo paliktos kaip vykdomieji organai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Buvo paliktos taip pat Čartoriskių įsteigtos karo
+    Kiekvienas or-
+    dinarinis seimas (jis susirinkdavo kas 2 metai) pusę tarybos na-
+    rių turėdavo pakeisti naujais arba perrinkti iš naujo. Visa taryba
+    buvo padalinta į 5 departamentus (jų kiekvienas vedė atskirus
+    reikalus) — karo, iždo, užsienio, policijos, arba administracijos,
+    ir teisingumo. Buvo paliktos taip pat Čartoriskių įsteigtos karo
     ir iždo komisijos, kaip vykdomieji organai; Nuolatinė Taryba
     visą veikimą turėjo tik prižiūrėti, aiškinti įstatymus ir spręst
     kylančius konfliktus.

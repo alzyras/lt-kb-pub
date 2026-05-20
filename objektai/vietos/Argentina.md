@@ -30,7 +30,9 @@ De jure Lietuva tebuvo pripažinta tik Vokietijos, Rusijos, Šveicarijos, Argent
   santrauka: 'Argentina buvo tarp valstybių, kurios tuo metu buvo de jure pripažinusios Lietuvą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    De jure
+    Tuo būdu nuo 1921 metų rugsėjo 22 d. Lietuva įėjo lygio-
+    mis teisėmis į pasaulio valstybių draugiją. Bet tas įėjimas dar
+    neišsprendė juridinių santykių su visa eile valstybių. De jure
     Lietuva tebuvo pripažinta tik Vokietijos, Rusijos, Šveicarijos,
     Argentinos, Meksikos ir Latvijos bei Estijos (šias pastarąsias
     tada jau buvo pripažinusi de jure 21 valstybė).

@@ -45,7 +45,10 @@ Nenurodyta
   santrauka: 'Per elekcijas lenkai paprastai susirinkdavo visi viritim, o lietuviai atsiųsdavo tik atstovus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Kaip
+    Apie karaliavimą
+    jis, žinoma, nė svajote nesvajojo, ir išrinkimas jam pačiam buvo
+    labai netikėtas.
+    **Lietuviai Mykolo elekcijoje** nebuvo visiškai vieningi. Kaip
     paprastai, lenkai į elekciją susirinko visi _(viritim),_ o lietuviai
     atsiuntė tik atstovus.
   citata_rodoma: ""

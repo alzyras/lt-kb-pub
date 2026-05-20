@@ -36,9 +36,3 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 Nenurodyta
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/aktas - dokumentas]]
-- [[temos/aktas]]
-- [[temos/dokumentas]]

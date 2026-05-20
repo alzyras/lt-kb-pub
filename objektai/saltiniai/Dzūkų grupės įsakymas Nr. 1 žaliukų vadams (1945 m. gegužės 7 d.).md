@@ -8,15 +8,21 @@ aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 laikotarpis: ''
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1945 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'okupacijų ir sovietmečio laikotarpis'
+periodo_grupes:
+  - 'XX a.'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1945'
+date_end: '2026'
 patikimumas: 'aukštas'
 tags: []
 ---
@@ -42,7 +48,7 @@ Cituojama „Dzūkų grupės įsakymas Nr. 1 žaliukų vadams (1945 m. gegužės
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-004
-  teiginys: 'Dabar veikiantieji atskiri žaliukų daliniai vadinasi atatinkamai jų vadų slapyvardžio būriais, pav., Perkūno būrys, Šarūno būrys ir pan. [...].'
+  teiginys: 'Dzūkų grupės įsakyme Nr. 1 nurodyta, kad atskiri žaliukų daliniai vadinti jų vadų slapyvardžių būriais.'
   pagrindžia:
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -67,7 +73,7 @@ Cituojama „Dzūkų grupės įsakymas Nr. 1 žaliukų vadams (1945 m. gegužės
   pagrindžia:
     - t-003
 - c-002
-  santrauka: 'Dabar veikiantieji atskiri žaliukų daliniai vadinasi atatinkamai jų vadų slapyvardžio būriais, pav., Perkūno būrys, Šarūno būrys ir pan. [...].'
+  santrauka: 'Dzūkų grupės įsakyme Nr. 1 nurodyta, kad atskiri žaliukų daliniai vadinti jų vadų slapyvardžių būriais.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Dabar veikiantieji atskiri žaliukų dali-

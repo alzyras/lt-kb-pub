@@ -6,6 +6,20 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1561 m.'
+  - '1572 m.'
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVI'
+  - 'XX'
+  - 'XXI'
+date_start: '1561'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - grupe
@@ -20,7 +34,7 @@ Po ilgų ginčų buvo sutarta, kad Livonija ir Kuršo kunigaikštija bus laikomo
 
 ## Teiginiai
 - t-001
-  teiginys: 'Livonija ir Kuršo kunigaikštystė po ilgų ginčų buvo laikomos lygiai priklausančiomis abiem valstybėms.'
+  teiginys: 'Po ilgų ginčų sutarta, kad Kuršo kunigaikštystė ir Livonija priklausys lygiai Lenkijai ir LDK.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -28,11 +42,15 @@ Po ilgų ginčų buvo sutarta, kad Livonija ir Kuršo kunigaikštija bus laikomo
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Livonija ir Kuršo kunigaikštystė po ilgų ginčų buvo laikomos lygiai priklausančiomis abiem valstybėms.'
+  santrauka: 'Po ilgų ginčų sutarta, kad Kuršo kunigaikštystė ir Livonija priklausys lygiai Lenkijai ir LDK.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Lietuviai ją laikė prijungta prie Lietuvos, o Lenkai
+    tvirtino, kad ji prisiekusi karaliui, todėl ir jiems priklausanti.
     Po ilgų ginčų buvo sutarta, kad Livonija ir Kuršo kunigaikštija
     bus laikomos priklausančios lygiai abiem valstybėm.
+    Pagaliau lenkams labai rūpėjo iškovoti sau teisę Lietu-
+    voje įsigyti dvarų ir gauti urėdų.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -40,3 +58,9 @@ Po ilgų ginčų buvo sutarta, kad Livonija ir Kuršo kunigaikštija bus laikomo
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XVI amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

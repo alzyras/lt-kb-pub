@@ -20,7 +20,7 @@ Statutas, paruoštas vadovaujant kancleriui Albertui Goštautui, buvo taisomas k
 
 ## Teiginiai
 - t-001
-  teiginys: 'Statutas, paruoštas vadovaujant kancleriui Albertui Goštautui, buvo taisomas kelių komisijų.'
+  teiginys: 'Kancleriui Albertui Goštautui vadovaujant paruoštas Statutas buvo taisomas kelių komisijų.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -28,9 +28,14 @@ Statutas, paruoštas vadovaujant kancleriui Albertui Goštautui, buvo taisomas k
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Statutas, paruoštas vadovaujant kancleriui Albertui Goštautui, buvo taisomas kelių komisijų.'
+  santrauka: 'Kancleriui Albertui Goštautui vadovaujant paruoštas Statutas buvo taisomas kelių komisijų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    į 13 skyrių, o šie — į 282 straipsnius. Kiekvienas skyrius liečia
+    kurį nors atskirą dalyką: vienas — valdovą ir nusikaltimus prieš
+    jį, kitas — valstybės gynimą, trečias — bajorų žemės teises,
+    ketvirtas — paveldėjimo teises, penktas — įvairiausius krimina-
+    linius nusikaltimus, ir t. t.
     Statutas, paruoštas vadovaujant kancleriui Albertui Goš-
     tautui, buvo taisomas kelių komisijų. Jame surinktos teisės pa-
     imtos iš privilegijų ir gyvenime veikusiųjų papročių.

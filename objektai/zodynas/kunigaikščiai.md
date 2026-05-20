@@ -32,7 +32,11 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
   santrauka: 'Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšiai tarp jų stiprėjo, ir jungtinių apylinkių karo vadai tapo nuolatiniais valdovais — kunigaikščiais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Bet šitoki
+    Anų laikų svetimšaliai juos vadin-
+    davo daugybe dar kitų vardų: vyresniaisiais, kilmingaisiais, kuni-
+    gaikščiais, karaliais ir t. t. Kadangi iš pradžių politiniai vienetai
+    buvo smulkūs, tai tokių vadų buvo labai daug: kartais vienam
+    susidūrime su priešu jų žūdavo net po keliolika. Bet šitoki
     susijungę smulkūs vienetai, savo rikių vadovaujami, atlikdami
     bendrus žygius turėdavo, žinoma, ir bendrą vadą. Iš pradžių
     tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšiai

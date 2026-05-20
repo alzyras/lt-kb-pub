@@ -37,6 +37,9 @@ Jų tarpe buvo ir didysis poetas Mickevičius, kurio raštai jau tada susirenkan
   santrauka: 'Mickevičius buvo poetas, kurio raštai draugijos būrelyje jau tada keldavo nepaprastą entuziazmą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Veiklesnieji universiteto studentai pir-
+    miausia įkūrė slaptą Filomatų (mokslo mėgėjų) Draugiją,
+    kurios tikslas buvo lavintis ir dirbti visuomenei.
     Draugija buvo negausinga, nes į ją buvo priimami tik visiškai
     patikimi ir kuo nors pasižymėję studentai (poetai, rašytojai,
     rimtai ruošiąsi mokslui ir t.t.). Jų tarpe buvo ir didysis poetas
@@ -53,10 +56,11 @@ Jų tarpe buvo ir didysis poetas Mickevičius, kurio raštai jau tada susirenkan
   santrauka: 'Adomas Mickevičius buvo ištremtas į Rusiją, kai jau buvo mokytojas Kaune ir palaikė glaudžius ryšius su studentais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Taip pat buvo ištremtas į Rusiją ir Ad. Mickevičius,
+    Buvo ištremtas ir patsai filaretų vadas Tomas
+    Zanas. Taip pat buvo ištremtas į Rusiją ir Ad. Mickevičius,
     kuris tuo tarpu jau buvo mokytoju Kaune, tačiau su studen-
     tais tebepalaikė glaudžius ryšius, siuntinėjo jiems savo raštų
-    ir t.t.
+    ir t.t. Tuo pat metu prasidėjo kratos ir kitose vietose.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

@@ -42,7 +42,7 @@ Nenurodyta
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: '1326 m. Gediminas talkininkavo Lokietkai, pasiųsdamas 1200 vyrų, ir sąjungininkai palaikė vienas kitą kovoje prieš ordiną.'
+  teiginys: '1326 m. Gediminas pasiuntė Lokietkai 1200 vyrų kovai prieš Brandenburgo markgrafą.'
   pagrindžia:
     - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -59,6 +59,10 @@ Nenurodyta
   santrauka: '1325 m. taikos sutartis buvo sutvirtinta Lokietkos sūnaus Kazimiero ir Gedimino dukters Aldonos vedybomis.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
+    Gedimino taika su Lenkija ir kovos su vokiečių ordinu**
+    Matydamas, kad kova su kryžiuočiais užtruks, Gediminas tuo
+    tarpu surado talkininką Lenkijos Vladislovo Lokietkos asmenyje.
+    Šis ruošėsi kariauti su ordinu dėl užgrobto Dancigo ir Pamario.
     1325 m. sudarydami taikos sutartį, sąjungininkai ją sutvirtino
     vedybomis tarp Lokietkos sūnaus Kazimiero ir Gedimino dukters
     Aldonos, kuri, kaip vėliau buvo pasakojama, Lenkijon atsivedusi
@@ -74,7 +78,10 @@ Nenurodyta
   santrauka: '1325 m. Gedimino sutartis buvo pirmasis Lietuvos taikos sąlytis su Lenkija, kurio atminimas dar jautėsi Liublino unijos išvakarėse.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Jo 1325 m. sutartis buvo pir­
+    Lietuva jau nuo Traidenio laikų turėjo pastovesnį ryšį su
+    Mozurija. Išleidęs savo dukterį už Płocko «Vankos », Gediminas
+    ir savo laiškuose kviečiamiems į Lietuvą vakarų svetimšaliams
+    rekomendavo kelią per Mozūriją. Jo 1325 m. sutartis buvo pir­
     masis su Lenkija taikos sąlytis, kurio atminimas dar buvo jau­
     čiamas Liublino unijos išvakarėse, t. y. beveik po pustrečio šimt­
     mečio.
@@ -86,7 +93,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 - c-003
-  santrauka: '1326 m. Gediminas talkininkavo Lokietkai, pasiųsdamas 1200 vyrų, ir sąjungininkai palaikė vienas kitą kovoje prieš ordiną.'
+  santrauka: '1326 m. Gediminas pasiuntė Lokietkai 1200 vyrų kovai prieš Brandenburgo markgrafą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Iš Gedimino ir Lokietkos sąjungos daugiausia naudos turėjo
@@ -103,3 +110,9 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Kazimieras (Lokietkos sūnus)]]
+- [[objektai/vietos/Płockas]]
+- [[objektai/asmenys/Vladislovas Lokietka]]

@@ -42,7 +42,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-003
-  teiginys: 'Podolės žemės paskirti atamanai duodavo duoklę atvykstantiems Ordos baskakams.'
+  teiginys: 'Podolėje paskirti atamanai nuo Podolės žemės duodavo duoklę atvykstantiems Ordos baskakams.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -56,7 +56,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Podolės žemės paskirti atamanai duodavo duoklę atvykstantiems Ordos baskakams.'
+  santrauka: 'Podolėje paskirti atamanai nuo Podolės žemės duodavo duoklę atvykstantiems Ordos baskakams.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Podolės žemės tėvonys bei paveldėtojai“.

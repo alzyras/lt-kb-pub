@@ -32,7 +32,7 @@ Mozūrai šiame fragmente įvardijami kaip Lietuvos sandarų partneriai.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Mozūrai šiame fragmente įvardijami kaip Lietuvos sandarų partneriai.'
+  teiginys: 'Mozūrai buvo tarp grupių, su kuriomis Zigmantas Kęstutaitis patvirtino sandaras, po kurių prekyba didėjo.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
@@ -40,12 +40,12 @@ Mozūrai šiame fragmente įvardijami kaip Lietuvos sandarų partneriai.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Mozūrai šiame fragmente įvardijami kaip Lietuvos sandarų partneriai.'
+  santrauka: 'Mozūrai buvo tarp grupių, su kuriomis Zigmantas Kęstutaitis patvirtino sandaras, po kurių prekyba didėjo.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Noris pradžioj 15 amžiaus namų ermyderiai ir svetimos karės trukino lietuvius ir žemaičius nuo
-    prekybos, vienok Zigmantui Kęstutaičiui paėmus ūkę valdyti ir patvirtinus sandaras su mozūrais,
-    valakais, totoriais ir vokiečiais, po nedidžios perglytos prekė kas kartą didinos.
+        prekybos, vienok Zigmantui Kęstutaičiui paėmus ūkę valdyti ir patvirtinus sandaras su mozūrais,
+        valakais, totoriais ir vokiečiais, po nedidžios perglytos prekė kas kartą didinos.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

@@ -29,8 +29,16 @@ Apygardos viršininku — kuratorium buvo paskirtas caro Aleksandro jaunystės d
   santrauka: 'Apygardos viršininku — kuratorium buvo paskirtas caro Aleksandro jaunystės draugas ir artimas patarėjas Adomas Čartoriskis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Apygardos viršininku — kuratorium buvo pa-
+    Rusi-
+    joje įsteigė švietimo ministeriją ir visą imperiją padalino į 6 švie-
+    timo apygardas. Vienos tokios apygardos centru buvo Vilnius;
+    prie jos priklausė visos buvusios Lietuvos kunigaikštijos žemės
+    ir, be to, dar Voluinė, Podolė ir Kijevo sritis (vėliau tos apy-
+    gardos ribos buvo kaitaliojamos, bet jos centras visą laiką
+    buvo Vilnius). Apygardos viršininku — kuratorium buvo pa-
     skirtas caro Aleksandro jaunystės draugas ir artimas patarėjas
+
+
     Adomas Čartoriskis.
   citata_rodoma: ""
   teiginio_tipas: faktas

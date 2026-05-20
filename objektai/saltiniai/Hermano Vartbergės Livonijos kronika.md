@@ -12,20 +12,26 @@ aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 laikotarpis: '1236 m.; 1235 m.; 1329 m. [1330 m. kovo pradžioje]'
-datos:
-  - '1236 m.'
-  - '1235 m.'
-  - '1329 m. [1330 m. kovo pradžioje]'
-periodas: 'viduramziai'
-periodo_grupes: []
-amziai:
-  - 'XIII'
-  - 'XIV'
-date_start: '1235'
-date_end: '1330'
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1235 m.'
+  - '1236 m.'
+  - '1329 m.'
+  - '1330 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'viduramžiai'
+periodo_grupes:
+  - 'LDK'
+  - 'viduramžiai'
+amziai:
+  - 'XIII'
+  - 'XIV'
+  - 'XXI'
+date_start: '1235'
+date_end: '2026'
 patikimumas: 'aukštas'
 tags: []
 ---
@@ -49,15 +55,9 @@ Cituojama „Hermano Vartbergės Livonijos kronika“ ištrauka apie 1236 m. Sau
 
 ## Teiginiai
 - t-004
-  teiginys: 'Cituojama „Hermano Vartbergės Livonijos kronika“ ištrauka, kurioje rodoma, kaip lietuviai su apgulimo mašinomis sunaikina Piltenės pilį.'
+  teiginys: 'Hermano Vartbergės „Livonijos kronikos“ ištraukoje aprašoma, kaip lietuviai su apgulimo mašinomis sunaikino Piltenės pilį.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-005
-  teiginys: '„Hermano Vartbergės Livonijos kronika“ šiame veikale cituojamas chunk_0003: piltenės pilies puolimas ir lietuvių apgulimo mašinos.'
-  pagrindžia:
-    - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
@@ -65,7 +65,7 @@ Cituojama „Hermano Vartbergės Livonijos kronika“ ištrauka apie 1236 m. Sau
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Cituojama „Hermano Vartbergės Livonijos kronika“ ištrauka, kurioje rodoma, kaip lietuviai su apgulimo mašinomis sunaikina Piltenės pilį.'
+  santrauka: 'Hermano Vartbergės „Livonijos kronikos“ ištraukoje aprašoma, kaip lietuviai su apgulimo mašinomis sunaikino Piltenės pilį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Ištrauka iš Hermano Vartbergės „Livonijos kronikos“ kaip lietuviai su apgulimo ma-
@@ -77,17 +77,3 @@ Cituojama „Hermano Vartbergės Livonijos kronika“ ištrauka apie 1236 m. Sau
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
-- c-002
-  santrauka: '„Hermano Vartbergės Livonijos kronika“ šiame veikale cituojamas chunk_0003: piltenės pilies puolimas ir lietuvių apgulimo mašinos.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    „1329 m. [1330 m. kovo pradžioje] lietuvių karalius su didele kariuomene atvyko rygiečių
-    kviestas prie Piltenės vyskupo pilies ir nuo jos su įvairiomis apgulimo mašinomis pradėjo
-    puolimą. [...] Nuniokojęs kraštą jis [Gediminas] grįžo atgal.“
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-005

@@ -7,15 +7,21 @@ aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 laikotarpis: '1863 m. sukilimo metu; Teresboro karinėje stovykloje prie Andrioniškio'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1863 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
+periodo_grupes:
+  - 'naujieji laikai'
+amziai:
+  - 'XIX'
+  - 'XXI'
+date_start: '1863'
+date_end: '2026'
 patikimumas: 'aukštas'
 tags: []
 ---
@@ -53,6 +59,12 @@ Nenurodyta
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: 'Stovykloje veikė karo lauko ligoninė, mokymai vyko lietuviškai, komandos buvo duodamos lietuvių kalba.'
+  pagrindžia:
+    - c-002
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -74,3 +86,30 @@ Nenurodyta
   pagrindžia:
     - t-003
     - t-004
+- c-002
+  santrauka: 'Stovykloje veikė karo lauko ligoninė, mokymai vyko lietuviškai, komandos buvo duodamos lietuvių kalba.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Kunigas A. Mackevičius
+    stovykloje laikė mišias, atlikinėjo naujokų
+    įšventinimo apeigas. Stovykloje veikė karo
+    lauko ligoninė, mokymai vyko lietuviškai,
+    komandos buvo duodamos lietuvių kalba.
+    Netrukus nenumatyti įvykiai pri-
+    vertė koreguoti planus.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-005
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
+### Susiję objektai
+- [[objektai/asmenys/Antanas Mackevičius]]
+- [[objektai/paprociai/Kunigo A. Mackevičiaus religinės apeigos sukilėlių stovykloje]]

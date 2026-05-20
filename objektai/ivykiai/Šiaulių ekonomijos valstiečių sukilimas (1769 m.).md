@@ -64,7 +64,8 @@ Nenurodyta
   santrauka: 'Šiaulių ekonomijos sukilėliai norėjo susidėti su Ukrainos valstiečiais, bet atvykusi kariuomenė jų sukilimą žiauriai numalšino.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tuo pat metu buvo sukilę Ukrainos
+    Tai buvo neramūs tik ką prasidėjusios Baro
+    konfederacijos laikai. Tuo pat metu buvo sukilę Ukrainos
     valstiečiai ir išpiovę daugybę bajorijos ir jų tarnų. Šiauliškiai
     buvo norėję net susidėti su jais ir bendrai kovoti, bet atvykusi
     kariuomenė labai žiauriai numalšino jų sukilimą.

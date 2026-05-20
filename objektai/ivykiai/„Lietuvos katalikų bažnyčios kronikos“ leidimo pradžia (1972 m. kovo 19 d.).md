@@ -70,7 +70,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/kronika]]
 - [[temos/redaktorius]]
 
 ### Laikotarpiai

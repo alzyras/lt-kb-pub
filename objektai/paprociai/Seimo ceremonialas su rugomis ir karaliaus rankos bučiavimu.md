@@ -52,6 +52,10 @@ Nenurodyta
   santrauka: 'Seimo pradžioje dalyviai bučiuodavo soste sėdinčiam karaliui ranką, o kancleris arba vicekancleris pristatydavo karaliaus pasiūlymus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Po to senatas ir atstovai sueidavo į
+    vieną salę (tatai buvo tikroji seimo darbų pradžia). Čia senatas
+    susėsdavo priešaky, o atstovai susėsdavo vaivadijomis tokia
+    pat eile, kokia sėdėdavo jų atstovaujamų vaivadijų senatoriai.
     Pradžioje visi eidavo pabučiuoti soste sėdinčiajam karaliui
     rankos, o po to kancleris arba vicekancleris pareikšdavo kara-
     liaus pasiūlymus, t. y. pakartodavo ir papildydavo seimeliams
@@ -67,7 +71,16 @@ Nenurodyta
   santrauka: 'Seimas būdavo baigiamas atsisveikinimu su karaliumi, kai dalyviai vėl bučiuodavo jam ranką.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Pagaliau sei-
+    Jei būdavo reikalo, abeji
+    rūmai vėl susitikdavo arba susižinodavo per delegacijas, o seimą
+    baigiant vėl susirinkdavo į vieną salę, kur būdavo perskaitomi
+    apsvarstytieji įstatymai.
+    Čia niekam nepriešta-
+    raujant, jie būdavo lai-
+    komi priimtais, o kam
+    nors priešinantis ir savo
+    protesto neatsiimant, —
+    atmestais. Pagaliau sei-
     mas būdavo baigiamas
     atsisveikinimu su kara-
     lium, — ir vėl visi bu-

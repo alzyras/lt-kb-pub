@@ -31,6 +31,9 @@ Visus raštus į Maskvą antspauduodavo Lietuvos kancleriai, o iš Maskvos gauna
   santrauka: 'Visus raštus į Maskvą antspauduodavo Lietuvos kancleriai, o iš Maskvos gaunami raštai ir su ja padarytos sutartys būdavo įteikiamos Lietuvos kancleriams ir saugomos Lietuvos valstybės archyve (metrikoje).'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Tačiau su Lietuvos kaimynais visus reikalus atlikdavo Lietuvos
+    ministeriai, o su Lenkijos kaimynais — Lenkų ministeriai. Lie-
+    tuva daugiausia turėdavo"reikalų su sau artimiausia Maskva.
     Visus raštus į Maskvą antspauduodavo Lietuvos kancleriai, o
     iš Maskvos gaunami raštai ir su ja padarytos sutartys būdavo
     įteikiamos Lietuvos kancleriams ir saugomos Lietuvos valstybės
@@ -42,3 +45,7 @@ Visus raštus į Maskvą antspauduodavo Lietuvos kancleriai, o iš Maskvos gauna
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lenkija]]

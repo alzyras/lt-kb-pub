@@ -30,9 +30,11 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   santrauka: 'Šiaurės ir Baltijos jūrose suaktyvėjo prekyba, o jose įsigalėjo vokiškųjų miestų pirklių sąjunga Hanza.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose;
+    pai nustojo savo reikšmės, ir šiaurėje ėmė kurtis nauji prekybos
+    centrai. Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose;
     čia įsigalėjo vokiškųjų miestų pirklių sąjunga, vadinamoji Han-
-    za.
+    za. Nuo to tad laiko (XIII amžiaus) ir Lietuvos prekyba ėmė
+    krypti į Baltijos jūrą.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

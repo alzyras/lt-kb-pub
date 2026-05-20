@@ -31,7 +31,10 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
   santrauka: 'Per karūnacinį seimą Maksimilijonas ties Byčina pralaimėjo mūšį, pateko į Zamoiskio nelaisvę ir turėjo atsisakyti sosto.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Maksimilijonas
+    Tuo tarpu Lenkijoj laimėjo Za-
+    moiskis. Būdamas hetmonas, vadovaudamas Lenkijos kariuo-
+    menei, jis atvykstančio Maksimilijono neįleido į Krokuvą
+    Tuo būdu buvo karūnuotas atvykęs Zigmantas. Maksimilijonas
     dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties
     Byčina) pralaimėjo mūšį, pateko Zamoiskiui į nelaisvę ir buvo
     priverstas atsisakyti nuo sosto.
@@ -45,4 +48,4 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Silezija]]
+- [[objektai/vietos/Lenkija]]

@@ -1,0 +1,86 @@
+---
+tipas: daiktas
+pavadinimas: 'Dujokaukės'
+sukurta: '2026-05-20'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+datos:
+  - '1947 m.'
+periodas: 'okupacijų ir sovietmečio laikotarpis'
+periodo_grupes:
+  - 'XX a.'
+amziai:
+  - 'XX'
+date_start: '1947'
+date_end: ''
+patikimumas: 'vidutinis'
+tags:
+  - daiktas
+  - miestas
+---
+# Dujokaukės
+
+## Santrauka
+
+Statybininkų šalmai ir dujokaukės - gautos Vilniaus miesto tarybos | | Lietuvos atsikurimas ## Puslapis 258 KALAŠNIKOVO SISTEMOS AUTOMATINIAI ŠAUTUVAI 1947 m.
+
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
+## Teiginiai
+- t-001
+  teiginys: 'Dujokaukės buvo gautos iš Vilniaus miesto tarybos.'
+  pagrindžia:
+    - c-001
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Dujokaukės buvo gautos iš Vilniaus miesto tarybos.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Benzinas padegamiesiems
+    mišiniams buvo suaukotas eilinių Lietuvos
+    gyventojų. Maistą taip pat aukojo gyventojai
+    ir maitinimo įmonės. Statybines medžiagas
+    įtvirtinimų statybai tiekė įvairios statybinės
+    organizacijos. Statybininkų šalmai ir du-
+    jokaukės - gautos Vilniaus miesto tarybos | |
+
+    Lietuvos atsikurimas
+
+    ## Puslapis 258
+
+    KALAŠNIKOVO SISTEMOS AUTOMATINIAI ŠAUTUVAI
+
+    1947 m. sovietų konstruktoriaus M. Kalašnikovo sukurtas automa-
+    tinis šautuvas AK-47 buvo priimtas į sovietinės armijos ginkluotę.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+
+### Susiję objektai
+- [[objektai/daiktai/Statybininkų šalmai]]

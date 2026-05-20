@@ -49,56 +49,20 @@ Nenurodyta
 
 ## Teiginiai
 - t-005
-  teiginys: '1649 m. liepos 21 d. J. Radvila atvedė kariuomenę prie Lojevo, kur buvo numatyta pasitikti artėjančius kazokus.'
+  teiginys: 'Lojevo mūšyje kazokų kariuomenė buvo perskelta į dvi dalis, jos kairysis sparnas sumuštas, o M. Kričevskio kariai atsitraukė į mišką.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-006
-  teiginys: 'Lojevo mūšyje kazokų kariuomenė buvo perskelta į dvi dalis, jos kairysis sparnas sumuštas, o M. Kričevskio kariai atsitraukė į mišką.'
-  pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-007
   teiginys: 'Lojevo mūšis buvo pirmoji svari J. Radvilos pergalė, o žinia apie ją plačiai pasklido Europoje.'
   pagrindžia:
-    - c-003
+    - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1649 m. liepos 21 d. J. Radvila atvedė kariuomenę prie Lojevo, kur buvo numatyta pasitikti artėjančius kazokus.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1649 m. liepos 21 d. J. Radvila at-
-    vedė savo kariuomenę prie Lojevo, kur
-    numatyta pasitikti artėjančius kazokus.
-    Maždaug 3 km nuo Lojevo buvo supil-
-    tas gynybinis žemių pylimas.
-
-    Tuo metu B. Chmelnickis prieš
-    Lietuvos kariuomenę pasiuntė
-    M. Kričevskį. Kita kazokų kariuomenė,
-    vadovaujama S. Podobailos, kontroliavo
-    Dnepro brastas ties Lojevu.
-
-    S. Podobaila išsirinko vietą tarp
-    Dniepro ir Sožos žiočių, apsuptą nepra-
-    einamų pelkių, o tose vietose, kur buvo
-    įmanoma pereiti, išrausė griovius ir supylė
-    pylimus. Lojevo miestas, esantis kitoje
-    (dešinėje) upės pusėje, buvo sudegintas,
-    kad priešui nebūtų kur įsitvirtinti.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-005
-- c-002
   santrauka: 'Lojevo mūšyje kazokų kariuomenė buvo perskelta į dvi dalis, jos kairysis sparnas sumuštas, o M. Kričevskio kariai atsitraukė į mišką.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -127,8 +91,8 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-006
-- c-003
+    - t-005
+- c-002
   santrauka: 'Lojevo mūšis buvo pirmoji svari J. Radvilos pergalė, o žinia apie ją plačiai pasklido Europoje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -151,7 +115,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-007
+    - t-006
 
 ## Ryšiai
 ### Laikotarpiai

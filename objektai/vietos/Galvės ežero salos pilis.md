@@ -67,6 +67,10 @@ Tai pilis, minima kaip vienas reprezentacinių Vytauto statinių.
   santrauka: 'Galvės ežero salos pilis buvo žymiausias Vytauto garbės ir pasididžiavimo statinys.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
+    Ar iš tikrųjų Vytauto epochai gali
+    būti priskirtos pirmosios pabūklų liejyklos^5 ir bažnytinių varpų,
+    trūksta autentiškų įrodymų.
+    Tikresnių duomenų yra apie Vytauto mūrinių pilių statybas,
     kurių žymiausias jo garbės ir pasididžiavimo statinys buvo Galvės
     (^1) **Žr.** **_Bažnytinė unija,_** **LE, t. 2, 309-313 p.**
     (^2) **Žr. V. Trumpa :** **_Magdeburgo teisė,_** **LE, t. 17, 63-64 p.**
@@ -78,7 +82,7 @@ Tai pilis, minima kaip vienas reprezentacinių Vytauto statinių.
 
 
     ežero salos pilis^6 , kurioje 1414 apsilankė Burgundijos riteris Ghil­
-    lebert de Lannoy
+    lebert de Lannoy.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

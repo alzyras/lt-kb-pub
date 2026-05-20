@@ -29,7 +29,10 @@ Arkliams prižiūrėti ir šerti buvo specialūs valstiečiai, vadinami arklinin
   santrauka: 'Arkliams prižiūrėti ir šerti buvo specialūs valstiečiai, vadinami arklininkais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Arkliams prižiūrėti ir šerti buvo spe-
+    Kadangi kunigaikštis karo
+    reikalui privalė arklių, tai krašte buvo daug žirgynų. Kai
+    kur buvo auginama šimtai arklių; pavyzdžiui, netoli Kauno
+    buvo 800 arklių žirgynas. Arkliams prižiūrėti ir šerti buvo spe-
     cialūs valstiečiai, vadinami arklininkais.
   citata_rodoma: ""
   teiginio_tipas: faktas

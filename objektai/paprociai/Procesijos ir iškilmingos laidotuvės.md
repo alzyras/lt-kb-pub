@@ -51,7 +51,11 @@ Nenurodyta
   santrauka: 'Muštynių dažniausiai kildavo per švenčių procesijas, taip pat rietenų ir muštynių pasitaikydavo per iškilmingas laidotuves.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Dažniausiai muštynių atsitikdavo švenčių metu, per
+    Miestuose, ypač Vil-
+    niuje, kur mišrai gyveno katali-
+    kai su protestantais, kildavo vi-
+    sokių nesusipratimų ir muš-
+    tynių. Dažniausiai muštynių atsitikdavo švenčių metu, per
     procesijas, kada ypatingai vieni kitus gebėdavo įžeisti. Taip
     pat nemaža rietenų ir muštynių būdavo ir per iškilmingas lai-
     dotuves.
@@ -66,7 +70,10 @@ Nenurodyta
   santrauka: 'Pavyzdžiui, 1611 m. per Dievo Kūno procesiją vienas protestantas, Ostijos garbinimą išvadinęs stabmeldyste, buvo minios apkultas, suimtas, o vėliau pasmerktas mirti ir nukankintas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Pavyzdžiui, 1611 m. per Dievo Kūno procesiją vie-
+    Taip
+    pat nemaža rietenų ir muštynių būdavo ir per iškilmingas lai-
+    dotuves. Protestantai buvo silpnesni, todėl jie daugiau ir nu-
+    kentėdavo. Pavyzdžiui, 1611 m. per Dievo Kūno procesiją vie-
     nas protestantas, Ostijos garbinimą išvadinęs stabmeldyste,
     buvo minios apkultas, suimtas, o vėliau pasmerktas mirti ir nu-
     kankintas.

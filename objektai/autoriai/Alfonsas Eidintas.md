@@ -146,3 +146,7 @@ Alfonsas Eidintas nurodytas kaip vienas knygos „Lietuvos istorija“ autorių;
 
 ### Laikotarpiai
 - [[laikotarpiai/XXI amžius]]
+
+### Susiję objektai
+- [[objektai/autoriai/Antanas Kulakauskas]]
+- [[objektai/autoriai/Mindaugas Tamošaitis]]

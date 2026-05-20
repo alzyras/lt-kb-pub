@@ -80,3 +80,7 @@ Tadas Korsakas siejamas su Abiejų Tautų tarpusavio įžado autoryste: šaltini
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XVIII amžius]]
+
+### Susiję objektai
+- [[objektai/ivykiai/1794 m. sukilimas Lietuvoje]]
+- [[objektai/ivykiai/1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas]]

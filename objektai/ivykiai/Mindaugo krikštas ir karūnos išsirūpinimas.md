@@ -58,4 +58,3 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Andrius Štirlandas]]
-- [[objektai/ivykiai/Mindaugo krikštas]]

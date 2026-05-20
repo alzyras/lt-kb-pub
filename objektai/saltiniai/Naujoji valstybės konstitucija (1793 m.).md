@@ -19,7 +19,7 @@ Buvo sudaryta naujoji valstybės konstitucija, kuria buvo grąžinta santvarka, 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Buvo sudaryta naujoji valstybės konstitucija, kuria buvo grąžinta santvarka, buvusi po I padalinimo.'
+  teiginys: 'Naujoji valstybės konstitucija grąžino po I padalijimo buvusią valstybės santvarką.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -29,10 +29,13 @@ Buvo sudaryta naujoji valstybės konstitucija, kuria buvo grąžinta santvarka, 
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Buvo sudaryta naujoji valstybės konstitucija, kuria buvo grąžinta santvarka, buvusi po I padalinimo.'
+  santrauka: 'Naujoji valstybės konstitucija grąžino po I padalijimo buvusią valstybės santvarką.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Buvo sudaryta
+    Taigi minėtame Gardino seime (1793 m.) ir reikėjo tatai
+    padaryti.
+    Kaip pirmą padalinimą patvirtinusiame seime, taip ir šitame
+    šeimininkavo Kotrynos ambasadorius, Ziversas. Buvo sudaryta
     naujoji valstybės konstitucija, kuria buvo grąžinta santvarka,
     buvusi po I padalinimo.
   citata_rodoma: ""

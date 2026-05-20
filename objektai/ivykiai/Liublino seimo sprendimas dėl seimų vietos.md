@@ -43,6 +43,9 @@ Nenurodyta
   santrauka: 'Liublino seimas seimų vieta paskyrė Varšuvą arba kitą Lenkijos miestą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Tuo būdu ir seime visus
+    Lietuvos reikalus atlikdavo tik jos minis-
+    teriai.
     **Seimų vieta.** Liublino seimas seimų vieta paskyrė Varšuvą
     arba kurį nors kitą Lenkijos miestą.
   citata_rodoma: ""

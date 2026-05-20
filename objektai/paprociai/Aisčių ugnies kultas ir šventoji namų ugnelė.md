@@ -8,17 +8,25 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 laikotarpis: 'senovės aisčiai; priešistorinis laikotarpis'
-datos:
-  - 'senovės aisčiai'
-  - 'priešistorinis laikotarpis'
-periodas: 'priesistore'
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1350 m.'
+  - '1430 m.'
+  - '1930 m.'
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+  - 'XV'
+  - 'XX'
+  - 'XXI'
+date_start: '1350'
+date_end: '2026'
 patikimumas: 'aukštas'
 tags: []
 ---
@@ -47,7 +55,7 @@ Nenurodyta
 - t-005
   teiginys: 'Senovės Lietuvoje nėra rimtų liudijimų apie tikybos šventnamius, o šventosios ugnies pastogės, jei buvo, neišsiskyrė iš paprastų trobesių.'
   pagrindžia:
-    - c-002
+    - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-006
@@ -56,12 +64,22 @@ Nenurodyta
     - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-007
+  teiginys: 'Senovės Lietuvoje buvo žinomi keli kulto tarnų vardai, bet nerasta organizacinio ryšio tarp jų liudijimų.'
+  pagrindžia:
+    - c-002
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-002
+- c-001
   santrauka: 'Senovės Lietuvoje nėra rimtų liudijimų apie tikybos šventnamius, o šventosios ugnies pastogės, jei buvo, neišsiskyrė iš paprastų trobesių.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
+    Jokio vyriau­
+    siojo krivės arba, kaip S. Grunau vadina, Krivių Krivaičio
+    veikiausiai niekad nebuvo. Ligšiol yra žinoma keletas kulto
+    tarnų vardų, bet jokio organizacinio ryšio tarp jų neužtikta^2 ),
     Taip pat nėra jokių rimtų liudijimų, kad senovės Lietuvoje
     būtų buvę kokių tikybos šventnamių. Jei ir buvo kokios pa­
     stogės šventajai ugniai nuo oro kritulių apsaugoti, tai jos niekuo
@@ -73,6 +91,24 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
+- c-002
+  santrauka: 'Senovės Lietuvoje buvo žinomi keli kulto tarnų vardai, bet nerasta organizacinio ryšio tarp jų liudijimų.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Ligšiol yra žinoma keletas kulto
+    tarnų vardų, bet jokio organizacinio ryšio tarp jų neužtikta^2 ),
+    Taip pat nėra jokių rimtų liudijimų, kad senovės Lietuvoje
+    būtų buvę kokių tikybos šventnamių. Jei ir buvo kokios pa­
+    stogės šventajai ugniai nuo oro kritulių apsaugoti, tai jos niekuo
+    nepasižymėjo, gal visai nesiskyrė nuo paprastų trobesių.
+    Su šventaisiais rišasi stabų klausimas.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-007
 - c-003
   santrauka: 'Svetimšaliams labiausiai į akis krito lietuvių ugnies kultas, su kuriuo buvo siejami medžiai, ištisi miškai ir kai kurie gyvuliai, pavyzdžiui, žalčiai, petrelės ir Dievo karvytės.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -89,3 +125,10 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

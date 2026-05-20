@@ -34,35 +34,14 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Jėzuitai mokydami pirmučiausia stengėsi išauklėti gerus katalikus ir paklusnius Bažnyčios sūnus.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Jėzuitų kolegijose mokiniai ruošdavo religinio turinio vaidinimus ir disputus.'
   pagrindžia:
-    - c-002
+    - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Jėzuitai mokydami pirmučiausia stengėsi išauklėti gerus katalikus ir paklusnius Bažnyčios sūnus.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Jėzuitai mokydami pirmučiausia stengėsi išauklėti gerus
-    katalikus ir paklusnius Bažnyčios sūnus. Jie mokė beveik tik
-    to, kas buvo reikalinga to meto katalikų Bažnyčios mokslui
-    įgyti.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
   santrauka: 'Jėzuitų kolegijose mokiniai ruošdavo religinio turinio vaidinimus ir disputus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -75,4 +54,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001

@@ -7,15 +7,19 @@ variantai:
 aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-laikotarpis: XIV a. Aukso ordos valdžios kontekstas
 datos:
-  - 1331 m.
-periodas: viduramziai
-periodo_grupes: []
+  - '1331 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
 amziai:
-  - XIV
+  - 'XIV'
+  - 'XXI'
 date_start: '1331'
-date_end: ''
+date_end: '2026'
+laikotarpis: XIV a. Aukso ordos valdžios kontekstas
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
@@ -43,22 +47,28 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
 
 ## Teiginiai
 - t-003
-  teiginys: '1331 m. šiame šaltinyje baskakas minimas kaip totorių pareigūnas šalia Kijevo kunigaikščio, Lietuvos vietininko.'
+  teiginys: '1331 m. totorių baskakas minimas šalia Kijevo kunigaikščio, Lietuvos vietininko.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-004
-  teiginys: 'Podolės pasakojime baskakai siejami su Ordos duoklės priėmimu.'
+  teiginys: 'Podolėje atamanai duodavo duoklę atvykstantiems Ordos baskakams.'
+  pagrindžia:
+    - c-003
+    - c-004
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-005
+  teiginys: '1331 m. šalia Kijevo kunigaikščio, Lietuvos vietininko, minimas ir totorių baskakas.'
   pagrindžia:
     - c-002
-    - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1331 m. šiame šaltinyje baskakas minimas kaip totorių pareigūnas šalia Kijevo kunigaikščio, Lietuvos vietininko.'
+  santrauka: '1331 m. totorių baskakas minimas šalia Kijevo kunigaikščio, Lietuvos vietininko.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kryžiuočių ordinui, remiamam kryži-
@@ -77,7 +87,30 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
   pagrindžia:
     - t-003
 - c-002
-  santrauka: 'Podolės pasakojime baskakai siejami su Ordos duoklės priėmimu.'
+  santrauka: '1331 m. šalia Kijevo kunigaikščio, Lietuvos vietininko, minimas ir totorių baskakas.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Kryžiuočių ordinui, remiamam kryži-
+    ninkų, nuo 1328 m. atnaujinus Lietuvos
+    puolimus, Lietuva, atrodo, bus užmezgusi
+    kompromisinius santykius su Aukso orda,
+    kurios įtakoje, matyt, liko pietinė Kijevo
+    žemės dalis. 1331 m. šalia Kijevo kunigaikš-
+    čio, Lietuvos vietininko, minimas ir totorių
+    baskakas.
+
+    Kijevo atėmimas iš tiesioginės Aukso
+    ordos valdžios buvo reikšmingas Lietuvai,
+    jos tarptautinei situacijai.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-005
+- c-003
+  santrauka: 'Podolėje atamanai duodavo duoklę atvykstantiems Ordos baskakams.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Podolės žemės tėvonys bei paveldėtojai“.
@@ -91,8 +124,8 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
-- c-003
-  santrauka: 'Podolės pasakojime baskakai siejami su Ordos duoklės priėmimu.'
+- c-004
+  santrauka: 'Podolėje atamanai duodavo duoklę atvykstantiems Ordos baskakams.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     į vakarus nuo minėtos mūšio
@@ -122,6 +155,8 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
 
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
+- [[objektai/grupes/Aukso orda]]
 - [[objektai/paprociai/Podolės žemės duoklės davimas Ordos baskakams per paskirtus atamanus]]

@@ -170,9 +170,6 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
     - t-007
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/tikėjimas]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Kazys Grinius]]
 - [[objektai/grupes/Lietuvos krikščionių demokratų partija]]

@@ -91,7 +91,6 @@ Teritorija, apie kurią lietuvių svajota: „Lituania Propria“ (žemėlapis i
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/upė]]
 - [[temos/žemėlapis]]
 
 ### Laikotarpiai

@@ -29,8 +29,18 @@ Radvila, kaip Brandenburgo elektoriaus ministeris, oficialiai rėmė imperatoria
   santrauka: 'Brandenburgo elektorius su imperatoriumi piršo Neuburgo princą, o jo ministeris Radvila oficialiai rėmė šią kandidatūrą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Radvila, kaip Branden-
-    burgo elektoriaus ministeris, oficialiai rėmė imperatoriaus ir
+    Galin-
+    gieji Pacai savo pusėje tu-
+    rėjo beveik visus Lietuvos
+    atstovus, o prieš juos buvo
+    Radvilų galybės likučiai, ku-
+    riems vadovavo iš Karaliau-
+    čiaus į seimą atvykęs Boguslo-
+    vas Radvila. Pacai su Radvila
+    negalėjo remti vieno kandi-
+    dato. Radvila, kaip Branden-
+    burgo elektoriaus ministeris,
+    oficialiai rėmė imperatoriaus ir
     elektoriaus peršamą Neuburgo
     princą, bet kartu statė ir savo
     kandidatūrą.

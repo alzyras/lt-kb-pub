@@ -30,7 +30,10 @@ Kaip tik tuo metu Varšuvoje susidarė bajorijos konfederacija, kuri skelbėsi n
   santrauka: 'Varšuvoje susidariusi bajorijos konfederacija siekė sujungti visas buvusios Respublikos žemes į vieną kūną.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Kaip
+    Tas jo apsivylimas daug prisidėjo, kad jis vis nieko
+    aiškaus nepasakė dėl Lietuvos ateities. Bet bajorija į laikinę vy-
+    riausybę žiūrėjo, kaip į valstybės užuomazgą, ir, entuziazmo pa-
+    gauta, ėmė rūpintis atnaujinti unijos ryšius su Lenkija. Kaip
     tik tuo metu Varšuvoje susidarė bajorijos konfederacija, kuri
     skelbėsi norinti sujungti į vieną kūną visas buvusios Respubli-
     kos žemes ir visus kvietė į bendrą darbą.

@@ -6,6 +6,17 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1936'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -20,18 +31,30 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
 
 ## Teiginiai
 - t-001
-  teiginys: 'Jurgis Radvila buvo vyskupas ir Mikalojaus Radvilos Juodojo sūnus.'
+  teiginys: 'Kijevo vaivada ir LDK taurininkas Jurgis Radvila vadovavo ne mažiau kaip 8000 lietuvių pašauktinių bajorų.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Jurgis Radvila buvo vyskupas ir Mikalojaus Radvilos Juodojo sūnus.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: 'Kijevo vaivada ir LDK taurininkas Jurgis Radvila vadovavo ne mažiau kaip 8000 lietuvių pašauktinių bajorų.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    verstas vyskupas Jurgis Radvila (Mik. Juodojo sūnus).
+    Lietuvių pašauktinių ba-
+    jorų susirinko ne mažiau kaip 8000 karių.
+    Jiems vadovavo talentingas karvedys, jau
+    pasižymėjęs kovose su totoriais ir vokie-
+    čių ordinu, tuometinis Kijevo vaivada ir
+    LDK taurininkas Jurgis Radvila (vėliau
+    tapęs LDK didžiuoju etmonu). Samdinių
+    karo stovykloje susirinko 20 raitelių ir
+    15 pėstininkų pulkų (pateikiamas jų skai-
+    čius - 6663), kurie, dar pake-
+    B  liui prisijungus vélavusiems
+    5 pulkams, turėjo sudaryti
+    daugiau kaip 8000 karių.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -39,3 +62,8 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

@@ -40,7 +40,3 @@ Kovai su vietos lenkų pasipriešinimu civilinė administracija pasiuntė į Vil
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Vietinė rinktinė]]

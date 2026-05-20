@@ -17,17 +17,31 @@ aliases: []
 saltiniai:
 - Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
 - Vytautas Didysis 1350-1430 (1930 m.)
-laikotarpis: XIV a. pradžia; 1300 m. ir po to; 1354 m., 1375 m., 1389 m. ir 1415 m.
 datos:
-- XIV a. pradžia; 1300 m. ir po to; 1354 m.
-- 1375 m.
-- 1389 m. ir 1415 m.
+  - '1300 m.'
+  - '1350 m.'
+  - '1353 m.'
+  - '1354 m.'
+  - '1375 m.'
+  - '1389 m.'
+  - '1415 m.'
+  - '1430 m.'
+  - '1930 m.'
+  - '1978 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIII'
+  - 'XIV'
+  - 'XV'
+  - 'XX'
+  - 'XXI'
+date_start: '1300'
+date_end: '2026'
+laikotarpis: XIV a. pradžia; 1300 m. ir po to; 1354 m., 1375 m., 1389 m. ir 1415 m.
 patikimumas: aukštas
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
@@ -62,21 +76,31 @@ Nenurodyta.
 
 ## Teiginiai
 - t-009
-  teiginys: 'Algirdas įkūrė atskirą metropoliją Lietuvos kunigaikštijos ribose gyvenantiems pravoslavams.'
+  teiginys: '1415 m. Vytautas, nesusitaręs su Maskva, pasekė Algirdu ir nepaisė patriarcho priešinimosi dėl savos metropolijos.'
   pagrindžia:
-    - c-008
+    - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-008
-  santrauka: 'Algirdas įkūrė atskirą metropoliją Lietuvos kunigaikštijos ribose gyvenantiems pravoslavams.'
+- c-001
+  santrauka: '1415 m. Vytautas, nesusitaręs su Maskva, pasekė Algirdu ir nepaisė patriarcho priešinimosi dėl savos metropolijos.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Dėl to jau Algirdas buvo dėjęs daug
+    Lie­
+    tuvai rivalizuojant su Maskva dėl subūrimo apie save rusų že­
+    mių buvo labai nepatogu, kad aukščiausias vietinis jų bažny­
+    čios autoritetas yra Maskvos pusėje, kad rusai į Maskvą žiūri,
+    kaip į savo tikybinį centrą. Dėl to jau Algirdas buvo dėjęs daug
     pastangų, ir jam pagaliau buvo pasisekę įkurti Lietuvos kuni­
     gaikštijos ribose gyvenantiems pravoslavams atskirą metropo­
     liją, nes senąjį metropolitą grąžinti į Kijevą jau buvo nebegalima.
+    Vytautas tą savos metropolijos svarbą suprato labai gerai ir po
+    visokių pertraktacijų su Maskva, nepajėgęs kaip reikiant išrišti
+    klausimo susitarimu, pasekė Algirdu, ir nebodamas patriarcho
+    priešinimosi 1415 met. sušaukęs Naugardukan pravoslavų aukš­
+    tuosius dvasiškius ir didikus, Kijevo metropolitu paskelbė Jurgį
+    Cemblaką.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -94,6 +118,7 @@ Nenurodyta.
 - [[laikotarpiai/XIII amžius]]
 - [[laikotarpiai/XIV amžius]]
 - [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XX amžius]]
 
 ### Susiję objektai
 - [[objektai/zodynas/metropolitas]]

@@ -42,7 +42,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-003
-  teiginys: 'Pirmaisiais Lietuvos kariuomenės mėnesiais įvesti skiriamieji ženklai - trikampis tautinių spalvų rankovės antsiuvas ir geltonas lankelis ant kepurės.'
+  teiginys: 'Pirmaisiais Lietuvos kariuomenės mėnesiais buvo įvesti trikampis tautinių spalvų rankovės antsiuvas ir geltonas lankelis ant kepurės.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -50,7 +50,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Pirmaisiais Lietuvos kariuomenės mėnesiais įvesti skiriamieji ženklai - trikampis tautinių spalvų rankovės antsiuvas ir geltonas lankelis ant kepurės.'
+  santrauka: 'Pirmaisiais Lietuvos kariuomenės mėnesiais buvo įvesti trikampis tautinių spalvų rankovės antsiuvas ir geltonas lankelis ant kepurės.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Besikurianti Lietuvos kariuomenė pirmaisiais savo egzistavimo mėnesiais nebuvo pa-

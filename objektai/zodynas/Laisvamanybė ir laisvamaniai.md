@@ -20,7 +20,6 @@ date_end: ""
 vaidmenys: []
 dalyviai: []
 susije_irasai:
-  - '[[Jonas Šliūpas]]'
 patikimumas: 'aukštas'
 tags:
   - sąvoka
@@ -53,7 +52,10 @@ Terminas siejamas su J. Šliūpo veikla ir aplink jį susibūrusia tautininkų b
   santrauka: 'Jonas Šliūpas visą gyvenimą kovojo dėl tautos teisių bei susipratimo ir dėl laisvamanybės.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Dr. Šliūpas visą
+    Jį sukūrė tie veikėjai, kurie buvo susigrupavę apie
+    dr. J. Šliūpą ir buvo nepatenkinti pirmojo Susivienijimo kata-
+    likiškąja vadovybe. Bet šis Susivienijimas buvo toks pat ne-
+    vieningas, kaip ir pati dr. J. Šliūpo veikla. Dr. Šliūpas visą
     gyvenimą kovojo dėl dviejų dalykų: dėl tautos teisių bei su-
     sipratimo ir dėl laisvamanybės.
   citata_rodoma: ""
@@ -71,6 +73,3 @@ Terminas siejamas su J. Šliūpo veikla ir aplink jį susibūrusia tautininkų b
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIX amžius]]
-
-### Susiję objektai
-- [[objektai/autoriai/Jonas Šliūpas]]

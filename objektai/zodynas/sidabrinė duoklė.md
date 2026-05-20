@@ -27,7 +27,7 @@ Bet, greta visų rinkliavų ūkio produktais ir amatininkų gaminiais, kai kuri�
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-005
-  teiginys: 'Piniginis paklusnybės mokestis įvairiose vietose vadintas skirtingai, bet labiausiai žinotas sidabrinės vardu.'
+  teiginys: 'Sidabrinė duoklė buvo piniginis paklusnybės mokestis, įvairiose vietose vadintas skirtingais vardais.'
   pagrindžia:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -59,3 +59,4 @@ Bet, greta visų rinkliavų ūkio produktais ir amatininkų gaminiais, kai kuri�
 
 ### Susiję objektai
 - [[objektai/paprociai/Valstiečių duoklės ir prievolės]]
+- [[objektai/zodynas/sidabrinė duoklė tributum serebsčina]]

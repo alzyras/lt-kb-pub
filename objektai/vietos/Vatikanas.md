@@ -31,7 +31,12 @@ Tačiau Vatikanas 1925 metais sudarė konkordatą su Lenkija, visai neatsižvelg
   santrauka: 'Tačiau Vatikanas 1925 metais sudarė konkordatą su Lenkija, visai neatsižvelgdamas į Lietuvos teises nepabaigtame ginče su Lenkija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tačiau Vatikanas 1925 metais sudarė
+    Tada kilo pavojus, kad bent okupuo-
+    tosios Lietuvos Bažnyčia vėl gali būti surišta su Lenkijos arki-
+    vyskupijomis. Todėl, užmezgus oficialinius santykius su Vati-
+    kanu, pirmas vyriausybės rūpestis buvo sudaryti atskirą Lie-
+    tuvos bažnytinę provinciją, iš kurios nebūtų išskirtas okupuo-
+    tasis Vilniaus kraštas. Tačiau Vatikanas 1925 metais sudarė
     konkordatą su Lenkija, visai neatsižvelgdamas į Lietuvos teises
     nepabaigtame ginče su Lenkija.
   citata_rodoma: ""

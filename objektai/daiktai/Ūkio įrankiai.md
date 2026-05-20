@@ -42,7 +42,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-002
-  teiginys: 'Įrankius jie patys sau kalė ir gaminosi be svetimo meistro, o šiame sąraše tiesiogiai minimi grąžtai, kaltai, Strūnos, skaptai, skrytulės, kirviai ir skliutai.'
+  teiginys: 'Ūkio įrankius, tarp jų grąžtus, kaltus, strūnas, skaptus, skrytules, kirvius ir skliutus, žmonės dirbosi patys.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
@@ -50,15 +50,14 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Įrankius jie patys sau kalė ir gaminosi be svetimo meistro, o šiame sąraše tiesiogiai minimi grąžtai, kaltai, Strūnos, skaptai, skrytulės, kirviai ir skliutai.'
+  santrauka: 'Ūkio įrankius, tarp jų grąžtus, kaltus, strūnas, skaptus, skrytules, kirvius ir skliutus, žmonės dirbosi patys.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
-    Taip pat
-    įrankius, kuriais namus strūnijo ar dailidavo, patys sau kalė, nė nuo ko nemokomi, nesgi šiandien
-    dar taria į žmogų, rūpinantis įsteigimu^569 kokio daikto ir dejuojantį nesugebėjimu, sako: „Akių
-    pasiklausk“ arba: „Buklus ir su žąsia moka arti“ [19], kaipogi, pagal jų nuomonę, žmogus, ką
-    paregėjęs, tą turi padirbti. Ir taip jų grąžtai, kaltai, Strūnos^570 , skaptai, skrytulės^571 , kirviai, skliutai
-    yra pačių dirbti.
+    Taip pat įrankius, kuriais namus strūnijo ar dailidavo, patys sau kalė, nė nuo ko nemokomi, nesgi šiandien
+        dar taria į žmogų, rūpinantis įsteigimu^569 kokio daikto ir dejuojantį nesugebėjimu, sako: „Akių
+        pasiklausk“ arba: „Buklus ir su žąsia moka arti“ [19], kaipogi, pagal jų nuomonę, žmogus, ką
+        paregėjęs, tą turi padirbti. Ir taip jų grąžtai, kaltai, Strūnos^570 , skaptai, skrytulės^571 , kirviai, skliutai
+        yra pačių dirbti.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -74,3 +73,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/paprociai/Savarankiškas ūkio ir namų dirbinių gaminimas]]
+- [[objektai/zodynas/Strūnijo]]

@@ -18,7 +18,7 @@ III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje, Dombrovicoje, Liub
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kražių apygardoje tokios mokyklos buvo Kaune, Kretingoje, Panevėžyje, Raseiniuose ir Ukmergėje.'
+  teiginys: 'Kražių apygardoje šios mokyklos buvo Kaune, Kretingoje, Panevėžyje, Raseiniuose ir Ukmergėje.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -26,9 +26,13 @@ III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje, Dombrovicoje, Liub
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kražių apygardoje tokios mokyklos buvo Kaune, Kretingoje, Panevėžyje, Raseiniuose ir Ukmergėje.'
+  santrauka: 'Kražių apygardoje šios mokyklos buvo Kaune, Kretingoje, Panevėžyje, Raseiniuose ir Ukmergėje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    I Gardino apygardoj apygardėlinių mokyklų buvo šiose vie-
+    tose: Vilniuje, Volkoviske, Višniove, Pastoviuose, Lydoje, Merkinėje,
+    ir Ščucine; II Naugarduko apygardoje jų buvo Minske, Cho-
+    lopieničiuose, Nesvyžiuje, Slucke, Bobruiske, Berezvieče ir Lužkose.
     III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje,
     Dombrovicoje, Liubešave ir Žuravicuose. IV Kražių apygar-
     doje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmergėje.

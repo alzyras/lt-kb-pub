@@ -51,8 +51,13 @@ Tam tikslui buvo įsakyta paruošti vadinamuosius inventorius, kuriuose nuo seno
   santrauka: 'Inventoriai valstiečiams menkai padėjo, nes jie liko beteisiai ir negalėjo skųstis dėl pono didinamų prievolių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tačiau tie inventoriai nega-
+    Tam tikslui buvo įsakyta paruošti vadinamuo-
+    sius inventorius, kuriuose nuo seno buvo surašomos visos
+    valstiečių pareigos. Inventoriams suvienodinti visose gubernijose
+    buvo įsteigti specialūs komitetai. Tačiau tie inventoriai nega-
     lėjo daug padėti, nes valstiečiai vis tiek pasiliko beteisiai: jei
+
+
     ponas didino prievoles, jie neturėjo kam pasiskųsti.
   citata_rodoma: ""
   teiginio_tipas: faktas

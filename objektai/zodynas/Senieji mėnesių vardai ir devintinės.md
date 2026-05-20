@@ -36,19 +36,19 @@ Vartojamos formos: `siekis`, `sausis`, `kovas`, `karvelis`, `balandis`, `geguž�
 
 ## Teiginiai
 - t-004
-  teiginys: 'Metai šiame tekste dalijami į 13 mėnesių.'
+  teiginys: 'Senieji metai buvo dalijami į trylika mėnesių.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 - t-005
-  teiginys: 'Kai kurie mėnesių vardai yra senieji ir kitokie nei dabartiniai.'
+  teiginys: 'Tarp senųjų mėnesių vardų minimi siekis, karvelis, kirmėšų, šilo mėnuo ir spalių mėnuo.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 - t-006
-  teiginys: 'Mėnesiai skaidomi į devintines.'
+  teiginys: 'Kiekvienas mėnuo turėjo po 27 dienas ir dalijosi į tris devintines.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
@@ -56,14 +56,10 @@ Vartojamos formos: `siekis`, `sausis`, `kovas`, `karvelis`, `balandis`, `geguž�
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Metai šiame tekste dalijami į 13 mėnesių.'
+  santrauka: 'Senieji metai buvo dalijami į trylika mėnesių.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
-    Metus dalijo į trylika mėnesių, kuriuos taip vadino: 1. siekis, 2.
-    sausis, 3. kovas, 4. karvelis, arba balandis, 5. gegužė, 6. kirmėšų, arba birželis, 7. liepos mėnuo, 8.
-    rugpjūtis, 9. rugsėjis, 10. šilo mėnuo, 11. spalių mėnuo, 12. lapkristis, 13. gruodis. Kožnas mėnuo
-    turėjo saviep 27 dienas ir dalijos į tris dalis, arba taip vadinamas devintines, nuo devintosios dienos,
-    kurioje svietas, visuotinai susirinkęs, meldės arba linksminos[43].
+    Metus dalijo į trylika mėnesių, kuriuos taip vadino: 1. siekis, 2. sausis, 3. kovas, 4. karvelis, arba balandis, 5. gegužė, 6. kirmėšų, arba birželis, 7. liepos mėnuo, 8. rugpjūtis, 9. rugsėjis, 10. šilo mėnuo, 11. spalių mėnuo, 12. lapkristis, 13. gruodis. Kožnas mėnuo turėjo saviep 27 dienas ir dalijos į tris dalis, arba taip vadinamas devintines, nuo devintosios dienos, kurioje svietas, visuotinai susirinkęs, meldės arba linksminos[43].
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

@@ -18,7 +18,7 @@ Pradžios mokyklų mokytojams paruošti tenai buvo įsteigta mokytojų seminarij
 
 ## Teiginiai
 - t-001
-  teiginys: 'Pradžios mokyklų mokytojams paruošti tenai buvo įsteigta mokytojų seminarija Veiveriuose (1866 m.), kurioje buvo dėstoma ir lietuvių kalba.'
+  teiginys: '1866 m. Veiveriuose įsteigta mokytojų seminarija rengė pradžios mokyklų mokytojus, joje dėstyta ir lietuvių kalba.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -26,9 +26,14 @@ Pradžios mokyklų mokytojams paruošti tenai buvo įsteigta mokytojų seminarij
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Pradžios mokyklų mokytojams paruošti tenai buvo įsteigta mokytojų seminarija Veiveriuose (1866 m.), kurioje buvo dėstoma ir lietuvių kalba.'
+  santrauka: '1866 m. Veiveriuose įsteigta mokytojų seminarija rengė pradžios mokyklų mokytojus, joje dėstyta ir lietuvių kalba.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Vienos kongreso dalyviais,
+    kurie jai pavedė Lenkų karalystę, Užnemunėje neišdrįso griebtis
+    tokios griežtos rusinimo politikos. Be to, ten lietuviai dar ir dėl to
+    buvo mažiau spaudžiami, kad valdžia norėjo juos atitraukti nuo
+    lenkų.
     Pradžios mokyklų mokytojams paruošti tenai buvo įsteigta
     mokytojų seminarija Veiveriuose (1866 m.), kurioje buvo dės-
     toma ir lietuvių kalba.

@@ -36,7 +36,10 @@ Tokia Vyriausiąja Lietuvos Mokykla buvo pavadinta buvusi jėzuitų Vilniaus aka
   santrauka: 'Vyriausiąja Lietuvos Mokykla buvo pavadinta buvusi jėzuitų Vilniaus akademija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tokia Vyriausiąja
+    Edukacinė Komisija perorgani-
+    zavo visą mokyklų tinklą. Pirmiausia Lietuvoje ir Lenkijoje
+    buvo padaryta po vieną vyriausiąją mokyklą, kuriai priklausė
+    visų kitų krašto mokyklų priežiūra. Tokia Vyriausiąja
     Lietuvos Mokykla buvo pavadinta buvusi jėzuitų Vil-
     niaus akademija.
   citata_rodoma: ""
@@ -50,6 +53,10 @@ Tokia Vyriausiąja Lietuvos Mokykla buvo pavadinta buvusi jėzuitų Vilniaus aka
   santrauka: 'Vyriausiojoje Lietuvos Mokykloje buvo dėstomi visi to meto universitetiniai mokslai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Va-
+    dinamoje moralinių mokslų kolegijoje buvo mokoma
+    filosofijos, teologijos ir teisės mokslų. Fizinėje kolegijoje
+    buvo mokoma gamtos mokslų, matematikos ir medicinos. Tuo būdu
     V. Mokykloje buvo dėstomi visi to meto universitetiniai mokslai.
   citata_rodoma: ""
   teiginio_tipas: faktas

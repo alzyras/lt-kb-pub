@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 18.
+Objektų skaičius: 21.
 
 ## Kaip naudoti
 
@@ -18,21 +18,23 @@ Objektų skaičius: 18.
 
 ## Susiję objektai
 
-### Asmenys
-- [[objektai/asmenys/L. Kuodžius]]
-- [[objektai/asmenys/R. Pesys]]
-
 ### Autoriai
 - [[objektai/autoriai/Aldona Bieliūnienė]]
+- [[objektai/autoriai/J. Andrius]]
+- [[objektai/autoriai/Lianskoronskij, V]]
+- [[objektai/autoriai/P. Šinkūnas]]
 - [[objektai/autoriai/Saulius Kaubrys]]
+- [[objektai/autoriai/T. Lehr-Splawiński]]
 - [[objektai/autoriai/Zenonas Butkus]]
 
 ### Daiktai
 - [[objektai/daiktai/Kęstučio Fedirkos nuotrauka „Trakų pilis“]]
 - [[objektai/daiktai/Lenkijos ir Lietuvos Valstybės žemėlapis]]
-- [[objektai/daiktai/Lietuviškas žemėlapis]]
 - [[objektai/daiktai/Žemėlapio fragmentas su „Tėve mūsų“ eilutėmis]]
 - [[objektai/daiktai/Žemėlapis „Lituania Propria“]]
+
+### Grupės
+- [[objektai/grupes/Arabai]]
 
 ### Papročiai
 - [[objektai/paprociai/Kandidatas 39 Lietuvių kalbos oficialaus kultūros modelio kėlimas ir kasdienis Bažnyčios bei mokyklos vartojimas]]
@@ -51,3 +53,4 @@ Objektų skaičius: 18.
 
 ### Žodynas
 - [[objektai/zodynas/egzilinė vyriausybė]]
+- [[objektai/zodynas/monografija]]

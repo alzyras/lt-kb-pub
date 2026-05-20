@@ -25,7 +25,7 @@ Bretkūno postilė. Jas rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Jas rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų lietuvių; daugelis jų buvo kilę iš Didžiosios Lietuvos, kur irgi buvo skleidę protestantizmą.'
+  teiginys: 'J. Bretkūnas buvo tarp lietuvių, rašiusių protestantizmo skleidimo tekstus.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -33,10 +33,12 @@ Bretkūno postilė. Jas rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Jas rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų lietuvių; daugelis jų buvo kilę iš Didžiosios Lietuvos, kur irgi buvo skleidę protestantizmą.'
+  santrauka: 'J. Bretkūnas buvo tarp lietuvių, rašiusių protestantizmo skleidimo tekstus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Jas
+    Tuo pat metu protestantizmas labai uoliai buvo platinamas
+    ir Mažojoje Lietuvoje. Ten buvo pradėta rūpintis liaudim, ku-
+    riai buvo spausdinamos lietuviškos protestantiškos knygos. Jas
     rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų
     lietuvių; daugelis jų buvo kilę iš Didžiosios Lietuvos, kur irgi
     buvo skleidę protestantizmą.

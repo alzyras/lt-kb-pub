@@ -29,6 +29,8 @@ Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Starodubas ir Okos paup
   santrauka: 'Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Starodubas ir Okos paupiai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Tačiau amžinosios taikos
+    jam nepasisekė padaryti; buvo pasirašytos tik 6 metų paliaubos.
     Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Sta-
     rodubas ir Okos paupiai. Taigi Maskvos sienos jau siekė Dniep-
     rą.

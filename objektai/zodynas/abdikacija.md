@@ -75,7 +75,6 @@ Vartojama politinės teisės ir valdovo statuso kontekste.
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/istorinė-sąvoka - teisinis-terminas]]
 - [[temos/istorinė-sąvoka]]
 - [[temos/teisinis-terminas]]
 

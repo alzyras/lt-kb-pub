@@ -29,7 +29,10 @@ Maskvoje tuomet prasidėjo perversmų periodas — užėjo vadinamoji didžioji 
   santrauka: 'Maskvoje prasidėjęs perversmų periodas buvo vadinamas didžiąja suirute, arba smuta.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Maskvoje tuomet prasidėjo per-
+    su Lietuva, tačiau jam jau nebeteko kariauti, nes netrukus
+    (1584 m.) jis mirė. Po jo, 15 metų buvo caru jokiems dideliems
+    žygiams netikęs jo silpnaprotis sūnus Teodoras, su kurio mirtim
+    pasibaigė Kalitos dinastija. Maskvoje tuomet prasidėjo per-
     versmų periodas — užėjo vadinamoji didžioji suirutė ( _smuta_ ).
   citata_rodoma: ""
   teiginio_tipas: faktas

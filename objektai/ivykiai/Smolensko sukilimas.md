@@ -44,7 +44,7 @@ Nenurodyta
   santrauka: 'Po pralaimėto Vorsklos mūšio Smolenskas atsimetė nuo Vytauto: buvo nužudytas jo vietininkas ir grįžo kunigaikštis Jurgis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Nelaimingas Vorsklos mūšis buvo di-
+    **Smolensko sukilimas.** Nelaimingas Vorsklos mūšis buvo di-
     delis smūgis Vytauto rytų politikai. Pirmučiausia nuo Vytauto
     atsimetė Smolenskas (jo vietininkas buvo užmuštas, ir grįžo se-
     nasis Smolensko kunigaikštis Jurgis).

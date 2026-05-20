@@ -66,6 +66,8 @@ H. Lowmiański minimas kaip istorikas ir tyrėjas; šiame tome jo darbai pasitel
   santrauka: 'H. Lowmiański 1931–1932 m. Vilniuje išleido dviejų tomų veikalą „Studja nad początkami społeczeństwa i państwa litewskiego“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
+    Knigi Zapisej, išl. I. I. Lappo (Russ­
+    kaja Istoričeskaja Biblioteka, t. 27), Petrapilis 1910.
     LowStud = Lowmiański, H. : Studja nad początkami społeczeństwa i
     państwa litewskiego, t. 1-2, Vilnius 1931-32.
   citata_rodoma: ""
@@ -79,7 +81,10 @@ H. Lowmiański minimas kaip istorikas ir tyrėjas; šiame tome jo darbai pasitel
   santrauka: 'H. Lowmiański išgarsėjo dviejų tomų veikalu apie Lietuvos visuomenės ir valstybės pradžią.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    H. Lovmianskis, kuris
+    J. Latkowskis buvo pirmasis, kuris bandė nustatyti
+    Lietuvos valstybės pradžios datą ir moksliniai tyrinėti karaliaus
+    Mindaugo laikus^126. W. Kętrzyńskis atsidėjo Mindaugo
+    donacinių dokumentų klausimui^127. H. Lovmianskis, kuris
     iki šiol nepaliauja rašęs ir iš Lietuvos istorijos srities, prieš 4 dešimt­
     mečius išgarsėjo savo 2-jų tomų veikalu apie Lietuvos visuo­
     menės ir valstybės pradžią (LowStud).
@@ -94,7 +99,10 @@ H. Lowmiański minimas kaip istorikas ir tyrėjas; šiame tome jo darbai pasitel
   santrauka: 'H. Lowmiański 1931–1932 m. Vilniuje išleido dviejų tomų veikalą „Studja nad początkami społeczeństwa i państwa litewskiego“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Lowmiański, H. : _Studja nad początkami społe­
+    —
+    Liubavskij, M. : _Litva i slavjane u ich uzaemaadnosiniach u XI-XII st.,_
+    Zapiski addzelu gumanitarnych navuk. Belaruskaja Akademija Navuk,
+    VIII, 1929, 1-20 p. — Lowmiański, H. : _Studja nad początkami społe­
     czeństwa i państwa litewskiego,_ I-II, Vilnius 1931-1932.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -107,6 +115,11 @@ H. Lowmiański minimas kaip istorikas ir tyrėjas; šiame tome jo darbai pasitel
   santrauka: 'H. Lowmiański darė išvadą, kad 58 000 km² latvių gyvenamame plote buvo apie 145 000 gyventojų.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
+    Apytikriu skaičiavimu apie 1000 m. po Kr. baltų plotas
+    turėjęs apimti 255.000 km^2. Lietuvių gyvenamasis plotas tada turė­
+    jęs būti — 85.000 km^2 (K. Pakštas).
+    Nors nėra aiškių įrodymų, tačiau pasigaunant kaimynų šaltinių
+    ir vėlesnių Lietuvos ploto duomenų, prieš pat valstybės susidarymą
     yra bandoma daryti išvadas (H. Lowmiański), jog 58.000 km^2 latvių
     gyvenamame plote tebuvę apie 145.000 gyventojų, t. y. po pustrečio
   citata_rodoma: ""
@@ -120,3 +133,7 @@ H. Lowmiański minimas kaip istorikas ir tyrėjas; šiame tome jo darbai pasitel
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
+
+### Susiję objektai
+- [[objektai/autoriai/M. Liubavskij]]
+- [[objektai/autoriai/W. Kętrzyński]]

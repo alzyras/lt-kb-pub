@@ -36,7 +36,9 @@ Bolševikai, Brastoje darydami taiką su vokiečiais, visą Pabaltijį paliko vo
   santrauka: 'Bolševikai, Brastoje darydami taiką su vokiečiais, visą Pabaltijį paliko vokiečių valdžioje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Bolševi-
+    Tuo tarpu vokiečių neužimtoje Latvijos dalyje su-
+    sidarė Tautos Taryba, kuri kartu su Petrapilio latvių pabėgėlių
+    komitetu ėmė rūpintis sukurti nepriklausomą Latviją. Bolševi-
     kai, Brastoje darydami taiką su vokiečiais, visą Pabaltijį paliko
     vokiečių valdžioje. Latvių Tautos Taryba pareiškė dėl to pro-
     Latvijos laisvės paminklas Rygoje.
@@ -52,9 +54,10 @@ Bolševikai, Brastoje darydami taiką su vokiečiais, visą Pabaltijį paliko vo
   santrauka: 'Kaip Lietuvai, taip ir Latvijai kūrimosi pradžioje teko kariauti su bolševikais ir su pasilikusiomis vokiečių kariuomenės dalimis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Kaip Lietuvai, taip ir Latvijai kūrimosi pradžioje teko
+    sybė. Kaip Lietuvai, taip ir Latvijai kūrimosi pradžioje teko
     kariauti su bolševikais ir su pasilikusiomis vokiečių kariuomenės
-    dalimis.
+    dalimis. Nuo jų apsigynus, Latvijai nebeliko jokių sunkių už-
+    sienio politikos problemų, ir jos gyvenimas ėjo normalia vaga.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

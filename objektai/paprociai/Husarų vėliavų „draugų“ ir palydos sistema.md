@@ -7,15 +7,22 @@ aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 laikotarpis: 'XVI a. antroji pusė – XVIII a.'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodo_grupes:
+  - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XVI'
+  - 'XVII'
+  - 'XVIII'
+  - 'XXI'
+date_start: '2013'
+date_end: '2026'
 patikimumas: 'aukštas'
 tags: []
 ---
@@ -42,13 +49,13 @@ Nenurodyta
 
 ## Teiginiai
 - t-005
-  teiginys: 'Husarų vėliavų branduolį sudarė turtingi bajorai - draugai.'
+  teiginys: 'Husarai ir jų XVII a. pavyzdžio organizacija ATR egzistavo iki XVIII a.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-006
-  teiginys: 'Husarai paprastai atakuodavo priešą dviem linijomis, kurių pirmoji silpnindavo rikiuotę, o antroji pralauždavo gretas.'
+  teiginys: 'Lietuvos ir Lenkijos husarai XVII a. buvo vienintelė šoko kavalerija Europoje.'
   pagrindžia:
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -56,27 +63,17 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Husarų vėliavų branduolį sudarė turtingi bajorai - draugai.'
+  santrauka: 'Husarai ir jų XVII a. pavyzdžio organizacija ATR egzistavo iki XVIII a.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Didžiausia buvo didžiojo etmono husarų vėliava, kurią sudarė
-    200 raitelių. Įprasta vėliava - 100-150 raitelių. Husarų vėliavos pa-
-    grindas buvo „draugai“ — turtingi bajorai. Kiekvienas „draugas“
-    atsivesdavo palydą ir tarnus. Palydos struktūra
-    greičiausiai susiformavo iš viduramžių laikų ri-
-    terių „ieties“, ją sudarė įvairių socialinių sluoksnių
-    atstovai, dažniausiai nelabai turtingi bajorai, kuriuos
-    samdydavosi „draugas“. Pabuvojęs husarų „draugo“
-    palydoje ir užsidirbęs, neturtingas bajoras pats ga-
-    lėdavo tapti, tarkime, kazokų vėliavos „draugu“
-    (lengvosios kavalerijos palydą būdavo pigiau iš-
-    laikyti). Tačiau husarų „draugo“ palydoje galėjo
-    būti ir miestiečiai ar net ir valstiečiai iš „draugo“
-    dvaro. Palydą ginklais, šarvais ir žirgais aprūpindavo
-    „draugas“, palydos ginkluotė būdavo mažiau puošni.
-    „Draugai“ sudarydavo vėliavos priekinę eilę, jo pa-
-    lyda stodavo už jo ir sudarydavo antrąją, trečiąją ir
-    ketvirtąją eiles.
+    Dažniausiai šio periodo Lenkijos husarai vaiz-
+    duojami su sparnais, pritvirtintais prie nugaros ar
+    prie žirgo balno. Tvirty duomenų apie Lietuvos
+    kariuomenės husarų sparnus neaptikta.
+    Husarai ir jų XVII a. pavyzdžio organizacija eg-
+    zistavo ATR iki XVIII a.
+
+    _ palydos poreikius.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -85,14 +82,19 @@ Nenurodyta
   pagrindžia:
     - t-005
 - c-002
-  santrauka: 'Husarai paprastai atakuodavo priešą dviem linijomis, kurių pirmoji silpnindavo rikiuotę, o antroji pralauždavo gretas.'
+  santrauka: 'Lietuvos ir Lenkijos husarai XVII a. buvo vienintelė šoko kavalerija Europoje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
+    _ palydos poreikius.
+    „Draugų“ palydos buvo vieninteliai viene-
+
     Lietuvos ir Lenkijos husarai - vienintelė xvii a.
 
     „šoko kavalerija“ Europoje. ATR kariuomenės pratęsė
     Europos riterių atakos tradiciją, o Vakarų Europoje xVII a.
     pralaužiamosios kavalerijos atakos nebuvo naudojamos
+
+    tai, sudarę vėliavą.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -100,3 +102,13 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XVI amžius]]
+- [[laikotarpiai/XVII amžius]]
+- [[laikotarpiai/XVIII amžius]]
+- [[laikotarpiai/XXI amžius]]
+
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublikos kariuomenė]]

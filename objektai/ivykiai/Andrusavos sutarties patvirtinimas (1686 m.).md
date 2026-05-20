@@ -46,7 +46,8 @@ Nenurodyta
     Ruošdamasis koalicijai prieš Turkus, Sobieskis padarė am-
     žinąją taiką su Maskva. Buvo patvirtinta (1686 m.)
     Andrusavos sutartis su didelėmis nuolaidomis Maskvai, tačiau
-    caras prie karo su Turkais neprisidėjo.
+    caras prie karo su Turkais neprisidėjo. Daug dirbęs, daug ka-
+    riavęs, Jonas Sobieskis mirė 1696 m., nieko nepasiekęs.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

@@ -34,7 +34,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Taip pat Šveicarijoje susidarė komitetas tvarkyti popiežiaus paskelbtai pasaulinei bažnytinei rinkliavai nukentėjusios Lietuvos naudai (1917 m. pradžioj).'
+  teiginys: '1917 m. pradžioje Šveicarijoje susidarė komitetas popiežiaus paskelbtai pasaulinei bažnytinei rinkliavai nukentėjusios Lietuvos naudai tvarkyti.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -42,12 +42,17 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Taip pat Šveicarijoje susidarė komitetas tvarkyti popiežiaus paskelbtai pasaulinei bažnytinei rinkliavai nukentėjusios Lietuvos naudai (1917 m. pradžioj).'
+  santrauka: '1917 m. pradžioje Šveicarijoje susidarė komitetas popiežiaus paskelbtai pasaulinei bažnytinei rinkliavai nukentėjusios Lietuvos naudai tvarkyti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Taip pat Šveicarijoje susidarė komitetas tvarkyti popiežiaus
     paskelbtai pasaulinei bažnytinei rinkliavai nukentėjusios Lietu-
     vos naudai (1917 m. pradžioj).
+    Kai Vilniaus konferencija išrinko Lietuvos Tarybą, Berne
+    vėl buvo sušaukta naujoji konferencija (1917 m. lapkričio
+    2 — 10 d.), kurioj dalyvavo ir Tarybos delegatai. Konfe-
+    rencija patvirtino Vilniaus konferencijos nutarimus ir iškėlė rei-
+    kalą būsimajai Lietuvai turėti uostą (Klaipėdą).
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -55,3 +60,7 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/ivykiai/Berne naujoji konferencija (1917 m. lapkričio 2–10 d.)]]

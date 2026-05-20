@@ -29,7 +29,11 @@ Valstiečiai čia taip pat buvo geresnėje būklėje; daugelis jų iki pat rusų
   santrauka: 'Daugelis valstiečių iki pat rusų valdymo pradžios tebebuvo činšininkai, o ne baudžiauninkai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Valstiečiai čia taip pat buvo geresnėje
+    Čia bajorijos buvo labai daug, bet ji daugiausia
+    buvo neturtinga ir mažai kuo tesiskyrė nuo valstiečių; ji tik tu-
+    rėjo politines teises ir galėjo užimti valstybines vietas. Tačiau
+    būdami neturtingi, bajorai čia tebebuvo nenutolę nuo liaudies
+    ir tebekalbėjo lietuviškai. Valstiečiai čia taip pat buvo geresnėje
     būklėje; daugelis jų iki pat rusų valdymo pradžios tebebuvo
     činšininkai, o ne baudžiauninkai.
   citata_rodoma: ""

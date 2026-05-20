@@ -43,5 +43,4 @@ Dekanozovui talkino ir sovietų pasiuntinybė su įgaliotuoju atstovu (polpredu)
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Lietuvos komunistų partija]]
 - [[objektai/ivykiai/Vladimiro Dekanozovo atvykimas į Lietuvą ir realios valdžios perėmimas (1940 m. birželio 15 d.)]]

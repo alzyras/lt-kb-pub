@@ -39,13 +39,13 @@ Nenurodyta
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Kai ordinas gavo kvietimą atvykti į Prūsus, tuo metu jis bylinėjosi su Vengrų karalium, norėdamas atgauti iš jo žemes.'
+  teiginys: 'Gavęs kvietimą atvykti į Prūsus, Vokiečių ordinas bylinėjosi su Vengrijos karaliumi dėl siekio atgauti prarastas žemes.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: '1230 m. pirmieji ordino atstovai jau buvo Prūsų pasieny.'
+  teiginys: '1230 m. pirmieji Vokiečių ordino atstovai jau buvo pasiekę Prūsų pasienį.'
   pagrindžia:
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -56,6 +56,9 @@ Nenurodyta
   santrauka: 'Kunigaikštis Konradas pakvietė Vokiečių ordiną persikelti į Prūsus ir rūpintis vietinių bei aplinkinių krikščionių apsauga.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Bet riterių buvo ne-
+    daug, todėl ir jų pagalba buvo nedidelė: jie vos įstengdavo ap-
+    ginti savo pilį.
     Jau Dobrinės ordiną steigdami, vyskupas ir kunigaikštis Kon-
     radas susižinojo su vokiečių riterių ordinu, kurs kryžiaus karų
     metu buvo įsteigtas Palestinoje; ten galutinai įsigalėjus turkams, jo
@@ -70,7 +73,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Kai ordinas gavo kvietimą atvykti į Prūsus, tuo metu jis bylinėjosi su Vengrų karalium, norėdamas atgauti iš jo žemes.'
+  santrauka: 'Gavęs kvietimą atvykti į Prūsus, Vokiečių ordinas bylinėjosi su Vengrijos karaliumi dėl siekio atgauti prarastas žemes.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Į Vengriją ordinas buvo pakviestas kariauti su ją puo-
@@ -87,14 +90,18 @@ Nenurodyta
   pagrindžia:
     - t-002
 - c-003
-  santrauka: '1230 m. pirmieji ordino atstovai jau buvo Prūsų pasieny.'
+  santrauka: '1230 m. pirmieji Vokiečių ordino atstovai jau buvo pasiekę Prūsų pasienį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     1230 m. pirmieji ordino atstovai jau buvo Prūsų pasieny.
     Čia jie gavo iš Konrado
     žemių su Niešavos pi-
     laite, o patys pasista-
-    tė Fogelzango pilį.
+    tė Fogelzango pilį. Ne-
+    trukus iš tų pirmųjų
+    savo sodybų jie pradėjo
+    nuolatinį karą su aisčių
+    kiltimis.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -102,3 +109,7 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Fogelzango pilis]]

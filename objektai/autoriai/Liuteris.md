@@ -27,13 +27,13 @@ Ypač didelis nepasitenkinimas ordinu ėjo iš to, kad krašte buvo smarkiai įs
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Tada magistras Albrechtas patsai užmezgė ryšius su Liuteriu.'
+  teiginys: 'Magistras Albrechtas pats užmezgė ryšius su Liuteriu.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: 'Liuteris jam patarė mesti vienuolio apdarus, vesti žmoną ir pasiskelbti kunigaikščiu.'
+  teiginys: 'Liuteris patarė mesti vienuolio apdarus, vesti žmoną ir pasiskelbti kunigaikščiu.'
   pagrindžia:
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -44,7 +44,8 @@ Ypač didelis nepasitenkinimas ordinu ėjo iš to, kad krašte buvo smarkiai įs
   santrauka: 'Liuterio mokslas krašte buvo smarkiai įsigalėjęs, juo sekė net kai kurie vyskupai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Ypač didelis nepasitenkinimas ordi-
+    Tuo tarpu ordino valstybėje buvo labai neramu: visi
+    reikalavo ordino reformos. Ypač didelis nepasitenkinimas ordi-
     nu ėjo iš to, kad krašte buvo smarkiai įsigalėjęs naujai pradėtas
     skelbti Liuterio mokslas. Juo buvo pasekę net kai kurie vyskupai.
   citata_rodoma: ""
@@ -55,9 +56,12 @@ Ypač didelis nepasitenkinimas ordinu ėjo iš to, kad krašte buvo smarkiai įs
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Tada magistras Albrechtas patsai užmezgė ryšius su Liuteriu.'
+  santrauka: 'Magistras Albrechtas pats užmezgė ryšius su Liuteriu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Ypač didelis nepasitenkinimas ordi-
+    nu ėjo iš to, kad krašte buvo smarkiai įsigalėjęs naujai pradėtas
+    skelbti Liuterio mokslas. Juo buvo pasekę net kai kurie vyskupai.
     Tada magistras Albrechtas patsai užmezgė ryšius su Liuteriu.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -67,11 +71,13 @@ Ypač didelis nepasitenkinimas ordinu ėjo iš to, kad krašte buvo smarkiai įs
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Liuteris jam patarė mesti vienuolio apdarus, vesti žmoną ir pasiskelbti kunigaikščiu.'
+  santrauka: 'Liuteris patarė mesti vienuolio apdarus, vesti žmoną ir pasiskelbti kunigaikščiu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Liuteris jam patarė mesti vienuolio apdarus, vesti žmoną ir
-    pasiskelbti kunigaikščiu.
+    pasiskelbti kunigaikščiu. Gavęs dėdės, karaliaus Zigmanto, su-
+    tikimą, jis visa tai įvykdė ir 1525 m. Krokuvoje iškilmingai
+    prisiekė Zigmantui, kaip Prūsų kunigaikštis.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

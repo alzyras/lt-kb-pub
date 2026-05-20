@@ -59,5 +59,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Aukso orda]]
 - [[objektai/paprociai/Kandidatas 22 LDK rusų žemių duoklės mokėjimas Aukso ordai]]

@@ -29,7 +29,9 @@ Dar smarkiau buvo pradėti persekioti unitai, kurie veikiai visai išnyko — bu
   santrauka: 'Persekiojami unitai veikiai išnyko, nes buvo varu suvaryti į pravoslaviją.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Dar smarkiau buvo pradėti persekioti unitai, kurie veikiai visai išnyko — buvo
+    Be to, buvo konfiskuoti ir visi dvasininkų dvarai (jiems
+    buvo palikti tik maži sklypeliai žemės). Dar smarkiau buvo
+    pradėti persekioti unitai, kurie veikiai visai išnyko — buvo
     varu suvaryti į pravoslaviją (žiūr. 303 psl.).
   citata_rodoma: ""
   teiginio_tipas: faktas

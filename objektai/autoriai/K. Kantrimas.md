@@ -25,7 +25,7 @@ Kantrimas. Kantrimas savo memoriale kuratoriui Čartoriskiui rašo, esą, didesn
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Kantrimas savo memoriale kuratoriui Čartoriskiui rašo, esą, didesnėje lietuviškųjų gubernijų dalyje kaimiečiai kalbą lietuviškai.'
+  teiginys: 'K. Kantrimas memoriale kuratoriui Čartoriskiui rašė, kad didesnėje lietuviškųjų gubernijų dalyje kaimiečiai kalbėjo lietuviškai.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -50,7 +50,7 @@ Kantrimas. Kantrimas savo memoriale kuratoriui Čartoriskiui rašo, esą, didesn
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Kantrimas savo memoriale kuratoriui Čartoriskiui rašo, esą, didesnėje lietuviškųjų gubernijų dalyje kaimiečiai kalbą lietuviškai.'
+  santrauka: 'K. Kantrimas memoriale kuratoriui Čartoriskiui rašė, kad didesnėje lietuviškųjų gubernijų dalyje kaimiečiai kalbėjo lietuviškai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Kantrimas** savo memoriale kuratoriui Čartoriskiui rašo, esą,

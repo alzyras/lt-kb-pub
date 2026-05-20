@@ -42,7 +42,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-002
-  teiginys: 'Skitais arba kailinuočiais vadinti gyventojai visada dėvėdavo kailinius.'
+  teiginys: 'Graikai šiaurėje gyvenusius žmones vadino skitais arba kailinuočiais, nes jie žiemą ir vasarą dėvėdavo kailinius.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
@@ -50,13 +50,13 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Skitais arba kailinuočiais vadinti gyventojai visada dėvėdavo kailinius.'
+  santrauka: 'Graikai šiaurėje gyvenusius žmones vadino skitais arba kailinuočiais, nes jie žiemą ir vasarą dėvėdavo kailinius.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Tankiau grekonys abelnai^72 visus gyventojus šiapus Uksinės marės, beje, į šiaurę
-    linkan gyvenančius, vadino skitais, arba kailinuočiais, nuo to, jog visados žiemą ir vasarą kailinius
-    dėvėjo, žiemą įvirsčius, o vasarą išvirsčius; bet pervis^73 tankiau lig paskuojų laikų vadino juos
-    getais, kaip tuojau regėsim.
+         linkan gyvenančius, vadino skitais, arba kailinuočiais, nuo to, jog visados žiemą ir vasarą kailinius
+         dėvėjo, žiemą įvirsčius, o vasarą išvirsčius; bet pervis^73 tankiau lig paskuojų laikų vadino juos
+         getais, kaip tuojau regėsim.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

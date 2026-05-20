@@ -67,9 +67,6 @@ Krikščioniškasis mentalitetas įsigali bent jau tarp visuomenės elito (antem
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/kronika]]
-
 ### Susiję objektai
 - [[objektai/zodynas/bajorų tauta politinė tauta lietuvių nacija]]
 - [[objektai/posakiai/„jogailaičių Europa“ „krikščionybės forpostas“]]

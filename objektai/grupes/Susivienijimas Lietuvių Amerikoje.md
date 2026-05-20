@@ -31,12 +31,6 @@ tags:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: 'Susivienijimą Lietuvių Amerikoje sukūrė veikėjai, susigrupavę apie dr. Joną Šliūpą ir nepatenkinti pirmojo Susivienijimo katalikiška vadovybe.'
-  pagrindžia:
-    - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -81,25 +75,3 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Susivienijimą Lietuvių Amerikoje sukūrė veikėjai, susigrupavę apie dr. Joną Šliūpą ir nepatenkinti pirmojo Susivienijimo katalikiška vadovybe.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Jį sukūrė tie veikėjai, kurie buvo susigrupavę apie
-    dr. J. Šliūpą ir buvo nepatenkinti pirmojo Susivienijimo kata-
-    likiškąja vadovybe. Bet šis Susivienijimas buvo toks pat ne-
-    vieningas, kaip ir pati dr. J. Šliūpo veikla. Dr. Šliūpas visą
-    gyvenimą kovojo dėl dviejų dalykų: dėl tautos teisių bei su-
-    sipratimo ir dėl laisvamanybės. Todėl apie jį susibūrė griežtes-
-    nieji tautininkai ir laisvamaniai. Bet šitos dvi savybės ne vi-
-    suose vienodai sutapo. Todėl ir Susivienijimas nebuvo vienaly-
-    tis: jame susibūrė tautiškos, liberališkos, socialistiškos ir net ko-
-    munistiškos srovės. Visos jos ligi šiol tarp savęs tebesivaržo,
-    todėl Susivienijimo veikimą visą laiką trukdo vidaus nesantarvė.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003

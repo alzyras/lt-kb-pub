@@ -29,6 +29,10 @@ Tuo tarpu rusai atsiėmė Ukmergę, Jonavą ir Šiaulius.
   santrauka: 'Rusai atsiėmė Jonavą kartu su Ukmerge ir Šiauliais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Tačiau puo-
+    limas nepasisekė. Netekęs
+    2.000 žmonių, Gelgaudas
+    pasitraukė į Raseinius.
     Tuo tarpu rusai atsiėmė
     Ukmergę, Jonavą ir Šiau-
     lius.

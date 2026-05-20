@@ -54,7 +54,13 @@ tags:
   santrauka: 'Algirdas paskelbė, kad visa Rusia savaime turėtų priklausyti lietuviams.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Bet to paties siekė ir Algirdas, kuris nedvejodamas pas­
+    Padėtis tačiau
+    pamažu keitėsi Lietuvos nenaudai, kai Maskvos kunigaikščiai ėmė
+    stiprėti. Svarbus buvo veiksnys, kad Rusios gyventojus rišo tas
+    pats tikėjimas su Maskva, kurios valdovas Jonas Kalita, pirmasis
+    energingas rytinių slavų žemių « rinkėjas », savo palikuoniams buvo
+    nurodęs aiškų kelią surinkti savo valdžion visą susiskaldžiusią
+    Rusią. Bet to paties siekė ir Algirdas, kuris nedvejodamas pas­
     kelbė, jog «savaime visa Rusia (Russia) turėtų priklausyti lietu­
     viams »^14.
   citata_rodoma: ""

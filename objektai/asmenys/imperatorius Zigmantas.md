@@ -18,7 +18,7 @@ Sumanymą iškėlė imperatorius Zigmantas. Atšaukimas buvo laišku praneštas 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Imperatorius Zigmantas gavo laišku praneštą atšaukimą ir jo nuorašą tuojau nusiuntė Vytautui.'
+  teiginys: 'Imperatorius Zigmantas buvo laišku informuotas apie atšaukimą ir jo nuorašą tuojau nusiuntė Vytautui.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -26,10 +26,12 @@ Sumanymą iškėlė imperatorius Zigmantas. Atšaukimas buvo laišku praneštas 
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Imperatorius Zigmantas gavo laišku praneštą atšaukimą ir jo nuorašą tuojau nusiuntė Vytautui.'
+  santrauka: 'Imperatorius Zigmantas buvo laišku informuotas apie atšaukimą ir jo nuorašą tuojau nusiuntė Vytautui.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Atšaukimas buvo laišku praneštas imperatoriui Zigman-
+    Karūnacijos byla 1430 m. Lenkų ponai prispyrė grįžusį į
+    Krokuvą Jogailą atšaukti savo duotąjį sutikimą dėl Vytauto karū-
+    nacijos. Atšaukimas buvo laišku praneštas imperatoriui Zigman-
     tui, kurs laiško nuorašą tuojau nusiuntė Vytautui.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -42,3 +44,6 @@ Sumanymą iškėlė imperatorius Zigmantas. Atšaukimas buvo laišku praneštas 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/laiškas]]
+
+### Susiję objektai
+- [[objektai/vietos/Krokuva]]

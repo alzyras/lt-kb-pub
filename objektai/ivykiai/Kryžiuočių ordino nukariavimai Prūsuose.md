@@ -39,7 +39,7 @@ Nenurodyta
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Be to, ordino prašomas popiežius skelbdavo Vakaruose kryžiaus karus, ir ordinui į talką plaukdavo minios karių.'
+  teiginys: 'Ordino prašymu popiežius Vakaruose skelbdavo kryžiaus karus, todėl ordinui į talką atvykdavo daug karių.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -68,7 +68,7 @@ Nenurodyta
   santrauka: 'Ordino broliai riteriai visam gyvenimui įsipareigodavo nuolat kariauti su Kristaus vardo priešais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Ordinas savo įstatuose tu-
+    **Kryžiuočių ordino nukariavimai.** Ordinas savo įstatuose tu-
     rėjo įsirašęs pareigą nuolat kariauti su Kristaus vardo priešais
     (jam net buvo draudžiama daryti taiką su netikėliais). Tokį įžadą
     ordino broliai — riteriai — turėjo padaryti visam gyvenimui.
@@ -80,10 +80,11 @@ Nenurodyta
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Be to, ordino prašomas popiežius skelbdavo Vakaruose kryžiaus karus, ir ordinui į talką plaukdavo minios karių.'
+  santrauka: 'Ordino prašymu popiežius Vakaruose skelbdavo kryžiaus karus, todėl ordinui į talką atvykdavo daug karių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Be
+    Tokį įžadą
+    ordino broliai — riteriai — turėjo padaryti visam gyvenimui. Be
     riterių, ordinas turėjo ir paprastų kareivių, vadinamų jų tarnais.
     Be to, ordino prašomas popiežius skelbdavo Vakaruose kryžiaus
     karus, ir ordinui į talką plaukdavo minios karių.

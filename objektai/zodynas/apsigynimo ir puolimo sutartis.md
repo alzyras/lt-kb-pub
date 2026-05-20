@@ -7,6 +7,21 @@ variantai:
 aliases: []
 saltiniai:
 - Vytautas Didysis 1350-1430 (1930 m.)
+datos:
+  - '1350 m.'
+  - '1430 m.'
+  - '1930 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+  - 'XV'
+  - 'XX'
+  - 'XXI'
+date_start: '1350'
+date_end: '2026'
 patikimumas: aukštas
 tags: []
 ---
@@ -31,6 +46,8 @@ tags: []
   santrauka: 'Kauno taika Vytautui buvo apsigynimo ir puolimo sutartis, nepraradusi vertės ir naudinga jo rytų politikai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
+    Tokią ištikimybės prie­
+    saiką tuo laiku iš viso buvo padarytos trys^2 ).
     Prochaska yra tos nuomonės, kad aukščiau minėtu priesai­
     kos aktu Kauno sutartis, kiek ji buvo nukreipta prieš uniją, nu­
     stojo savo galios^3 ). Gal lenkai taip ir manė, bet Vytautui Kau­
@@ -44,3 +61,10 @@ tags: []
   pagrindžia:
     - t-003
     - t-004
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

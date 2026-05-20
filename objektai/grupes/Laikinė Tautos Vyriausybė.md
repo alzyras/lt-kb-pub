@@ -31,7 +31,18 @@ Tada raudonųjų centro komitetas, pabėgėlių verčiamas, pasivadino Laikine T
   santrauka: 'Raudonųjų centro komitetas, pabėgėlių verčiamas, pasivadino Laikine Tautos Vyriausybe ir paskelbė sukilimą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tada raudonųjų centro komitetas, pabėgėlių verčiamas, pasivadino Laikine
+    Kadangi raudonųjų
+    daugiausia buvo
+    miestiečiuose, dvarų
+    administracijoje ir
+    smulkiųjų dvarinin-
+    kų tarpe, todėl 1863
+    m. pradžioje prasidė-
+    jo tų sluoksnių jau-
+    nimo gaudymas į re-
+    krūtus. Daugumas jaunimo, vengdamas patekti į kariuomenę,
+    išsislapstė po miškus ir rinkosi į būrius. Tada raudonųjų
+    centro komitetas, pabėgėlių verčiamas, pasivadino Laikine
     Tautos Vyriausybe ir paskelbė sukilimą.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -40,3 +51,7 @@ Tada raudonųjų centro komitetas, pabėgėlių verčiamas, pasivadino Laikine T
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/ivykiai/1863 m. sukilimo paskelbimas Lenkijoje ir Lietuvoje (1863 m. pradžioje)]]

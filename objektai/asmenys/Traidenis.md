@@ -12,6 +12,24 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1272 m.'
+  - '1289 m.'
+  - '1290 m.'
+  - '1292 m.'
+  - '1936 m.'
+  - '1978 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'LDK'
+  - 'modernioji Lietuva'
+amziai:
+  - 'XIII'
+  - 'XX'
+  - 'XXI'
+date_start: '1272'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -24,40 +42,30 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
 
 ## Teiginiai
 - t-009
-  teiginys: 'Traidenis laikomas vienu žymiausių XIII a. Lietuvos valdovų ir stipriu baltų žemių jungėju.'
+  teiginys: 'Traidenis 1272 m. prie Vakarų Bugo užėmė Drohičiną, svarbų strateginį punktą.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-010
-  teiginys: 'Traidenis buvo vedęs Mozurijos ir Kujavijos kunigaikščio Konrado I dukterį Liudmilą.'
+  teiginys: 'Žymus Lietuvos valdovas ir karo vadas Traidenis atkakliai gynė Lietuvą bei kitus baltus plačiuose frontuose.'
   pagrindžia:
     - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-011
-  teiginys: 'Traidenis turėjo dukrą Gaudimantę, kuri 1279 m. ištekėjo už Płocko Boleslovo II ir per krikštą gavo Sofijos vardą.'
-  pagrindžia:
-    - c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-012
-  teiginys: 'Traidenis buvo pirmasis XIII a. Lietuvos valdovas, miręs savo mirtimi.'
-  pagrindžia:
-    - c-004
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Traidenis laikomas vienu žymiausių XIII a. Lietuvos valdovų ir stipriu baltų žemių jungėju.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  santrauka: 'Traidenis 1272 m. prie Vakarų Bugo užėmė Drohičiną, svarbų strateginį punktą.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Bet ir iš to, kas apie Trai­
-    denį yra žinoma, galima apčiuopti, jog, šalia Mindaugo, jis yra buvęs
-    XIII amž. _žymiausias_ Lietuvos valdovas. Jis ne tik kad vėl įtvirtino
-    Lietuvos valdžią artimose rusų žemėse, bet buvo stiprus baltų žemių
-    jungėjas.
+    Pats Traidenis, pietuose atrėmęs priešo
+    atakas, 1272 m. prie Vakarų Bugo, pasiuntęs
+    ten gardiniečius, užėmė Drohičiną (dab.
+    Rytų Lenkijoje), strateginį punktą, svarbų
+    santykiams su Lenkija, Pietvakarių Rusia ir
+    jotvingių žemės gynybai. Traidenis kreipė
+    didelį dėmesį ir į Padauguvį.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -66,12 +74,20 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   pagrindžia:
     - t-009
 - c-002
-  santrauka: 'Traidenis buvo vedęs Mozurijos ir Kujavijos kunigaikščio Konrado I dukterį Liudmilą.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  santrauka: 'Žymus Lietuvos valdovas ir karo vadas Traidenis atkakliai gynė Lietuvą bei kitus baltus plačiuose frontuose.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Trai­
-    denis buvo vedęs Mozurijos ir Kujavijos kunigaikščio Konrado I
-    dukterį Liudmilą^230.
+    Žymus Lietuvos valdovas ir karo vadas
+    Traidenis atkakliai gynė Lietuvą bei kitus
+    baltus plačiuose frontuose. Paliko Lietuvą
+    stiprią, suvienytą valstybę, kurią to-
+    liau gynė įvairiuose šaltiniuose minimi
+    Lietuvos valdovai: Budikidas (1289 m.),
+    Butigeidis (1290 m.), Pukuveras (1292 m.);
+    istoriografijoje kartais teigiama, kad
+    gali būti vienas asmuo, pvz., Pukuveras-
+    Butvydas, Pukuvero sūnūs Vytenis,
+    Gediminas ir kiti Gediminaičiai.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -79,33 +95,9 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-010
-- c-003
-  santrauka: 'Traidenis turėjo dukrą Gaudimantę, kuri 1279 m. ištekėjo už Płocko Boleslovo II ir per krikštą gavo Sofijos vardą.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tad vienas iš Mozūrų kunigaikš­
-    čių, būtent, Płocko Boleslovas II, norėdamas dar labiau apsisaugoti
-    nuo lietuvių puolimų, 1279 m. vedė Traidenio dukrą Gaudimantę
-    (Gaudemundą), kuri per krikštą gavo Sofijos vardą.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-011
-- c-004
-  santrauka: 'Traidenis buvo pirmasis XIII a. Lietuvos valdovas, miręs savo mirtimi.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Po mirties Trai­
-    denio, kuris pirmasis iš Lietuvos XIII amž. valdovų mirė savo
-    mirtimi, neberandama pėdsakų apie sukrėtimus, ar maištus, kurie
-    buvo lydėję Mindaugo nužudymą.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-012
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIII amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

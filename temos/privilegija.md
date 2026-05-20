@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 30.
+Objektų skaičius: 41.
 
 ## Kaip naudoti
 
@@ -19,7 +19,11 @@ Objektų skaičius: 30.
 ## Susiję objektai
 
 ### Asmenys
-- [[objektai/asmenys/Valavičius]]
+- [[objektai/asmenys/Boleslovas Maldingasis]]
+- [[objektai/asmenys/Feodoras (Ostrogo kunigaikštis)]]
+- [[objektai/asmenys/Jonas XXIII]]
+- [[objektai/asmenys/Kęsgaila]]
+- [[objektai/asmenys/Otokaras (Čekijos karalius)]]
 
 ### Autoriai
 - [[objektai/autoriai/Albertas Goštautas]]
@@ -35,31 +39,38 @@ Objektų skaičius: 30.
 - [[objektai/paprociai/Kandidatas 36 LDK daugiakonfesiškumo juridinis įforminimas ir religinė tolerancija]]
 - [[objektai/paprociai/Kandidatas LDK daugiakonfesiškumo juridinis įforminimas ir religinė tolerancija]]
 - [[objektai/paprociai/Lietuvos bajorijos seimai]]
+- [[objektai/paprociai/Naujai krikštytų lietuvių bajorų privilegijavimas]]
 - [[objektai/paprociai/Žemaičių savivalda ir seniūno rinkimasis]]
 
 ### Posakiai
-- [[objektai/posakiai/neminem captivabimus nisi jure victum]]
-- [[objektai/posakiai/nihil novi]]
+- [[objektai/posakiai/Damoklo kardas tikrai pakibo ant unijos]]
 - [[objektai/posakiai/„senovės negriauname, naujovių neįvedame“]]
 - [[objektai/posakiai/„valstybė valstybėje“]]
 
 ### Vietos
+- [[objektai/vietos/Rimini]]
+- [[objektai/vietos/Vakarų Prūsija]]
 - [[objektai/vietos/Voluinė]]
+- [[objektai/vietos/Žemaičių seniūnija]]
 
 ### Įvykiai
-- [[objektai/ivykiai/1447 m. privilegijos išsiderėjimas]]
+- [[objektai/ivykiai/1422 m. Červinsko stovykla ir bajorų privilegijų suteikimas]]
 - [[objektai/ivykiai/Algirdo žygiai į Maskvą]]
-- [[objektai/ivykiai/Pirmoji Lietuvos Bažnyčiai privilegija]]
-- [[objektai/ivykiai/Pirmoji visam kraštui privilegija]]
-- [[objektai/ivykiai/Varšuvos konfederacija]]
-- [[objektai/ivykiai/Žemaičių kunigaikštystės privilegija]]
-- [[objektai/ivykiai/Žygimanto Augusto privilegija dėl krikščioniškų konfesijų teisių]]
+- [Pirmoji Lietuvos Bažnyčiai privilegija](../objektai/ivykiai/Pirmoji%20Lietuvos%20Ba%C5%BEny%C4%8Diai%20privilegija)
+- [Pirmoji visam kraštui privilegija](../objektai/ivykiai/Pirmoji%20visam%20kra%C5%A1tui%20privilegija)
+- [Varšuvos konfederacija](../objektai/ivykiai/Var%C5%A1uvos%20konfederacija)
+- [Žemaičių kunigaikštystės privilegija](../objektai/ivykiai/%C5%BDemai%C4%8Di%C5%B3%20kunigaik%C5%A1tyst%C4%97s%20privilegija)
+- [Žygimanto Augusto privilegija dėl krikščioniškų konfesijų teisių](../objektai/ivykiai/%C5%BDygimanto%20Augusto%20privilegija%20d%C4%97l%20krik%C5%A1%C4%8Dioni%C5%A1k%C5%B3%20konfesij%C5%B3%20teisi%C5%B3)
 
 ### Žodynas
-- [[objektai/zodynas/daugiakonfesiškumas]]
-- [[objektai/zodynas/daugiakonfesiškumas daugiakultūriškumas]]
+- [baudžiavinė epocha](../objektai/zodynas/baud%C5%BEiavin%C4%97%20epocha)
+- [daugiakonfesiškumas](../objektai/zodynas/daugiakonfesi%C5%A1kumas)
+- [daugiakonfesiškumas daugiakultūriškumas](../objektai/zodynas/daugiakonfesi%C5%A1kumas%20daugiakult%C5%ABri%C5%A1kumas)
+- [imunitetai](../objektai/zodynas/imunitetai)
 - [kultūrinė autonomija](../objektai/zodynas/kult%C5%ABrin%C4%97%20autonomija)
+- [Mahometoniškas tikėjimas](../objektai/zodynas/Mahometoni%C5%A1kas%20tik%C4%97jimas)
 - [privilegija lex privata](../objektai/zodynas/privilegija%20lex%20privata)
 - [Tautinės mažumos](../objektai/zodynas/Tautin%C4%97s%20ma%C5%BEumos)
 - [tripartitio christiana luominė visuomenė](../objektai/zodynas/tripartitio%20christiana%20luomin%C4%97%20visuomen%C4%97)
 - [Valstybinis žemės fondas](../objektai/zodynas/Valstybinis%20%C5%BEem%C4%97s%20fondas)
+- [šlėkta](../objektai/zodynas/%C5%A1l%C4%97kta)

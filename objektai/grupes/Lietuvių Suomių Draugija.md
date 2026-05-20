@@ -24,7 +24,7 @@ Dabar Suomijoje yra Lietuvių Suomių Draugija, o Estijoje — Lietuvių Draugij
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Suomijoje buvo apie šimtą lietuvių, todėl jų veikla negalėjo plačiai išsiplėsti.'
+  teiginys: 'Suomijoje buvo apie šimtą lietuvių, todėl jų veikla negalėjo išsiplėsti ir apsiribojo ryšio su Lietuva palaikymu.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -35,7 +35,10 @@ Dabar Suomijoje yra Lietuvių Suomių Draugija, o Estijoje — Lietuvių Draugij
   santrauka: 'Suomijoje veikė Lietuvių Suomių Draugija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Dabar Suomijoje yra Lietuvių Suomių Drau-
+    Ypač daug lietuvių studentų, daugiausia medikų, studijuodavo
+    Tartų universitete, Estijoje. Tuose kraštuose lietuvių tarnavo
+    įvairiose rusų valdžios įstaigose, bet po karo daugumas jų grįžo
+    į Lietuvą. Dabar Suomijoje yra Lietuvių Suomių Drau-
     gija, o Estijoje — Lietuvių Draugija Estijoje.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -45,9 +48,11 @@ Dabar Suomijoje yra Lietuvių Suomių Draugija, o Estijoje — Lietuvių Draugij
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Suomijoje buvo apie šimtą lietuvių, todėl jų veikla negalėjo plačiai išsiplėsti.'
+  santrauka: 'Suomijoje buvo apie šimtą lietuvių, todėl jų veikla negalėjo išsiplėsti ir apsiribojo ryšio su Lietuva palaikymu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Dabar Suomijoje yra Lietuvių Suomių Drau-
+    gija, o Estijoje — Lietuvių Draugija Estijoje.
     Kadangi lietuvių ten nedaug tėra (Suomijoje vos apie šimtą, o
     Estijoje keletas šimtų), tai jų veikla negali išsiplėsti. Jie tik pa-
     laiko ryšį su Lietuva.

@@ -61,9 +61,6 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/tikėjimas]]
-
 ### Susiję objektai
 - [[objektai/paprociai/Kandidatas 51 „Raudonųjų“ daugiakalbė sukilimo propaganda valstiečiams]]
 - [[objektai/grupes/Raudonieji]]

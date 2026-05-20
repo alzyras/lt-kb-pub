@@ -8,15 +8,24 @@ aliases:
   - Vladimiras
 saltiniai:
   - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+datos:
+  - '1384 m.'
+  - '1385 m.'
+  - '1394 m.'
+  - '1398 m.'
+  - '1399 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+  - 'XXI'
+date_start: '1384'
+date_end: '2026'
 bukle: juodrastis
 laikotarpis: "XIV a. pradžios kontekstas"
-datos: []
-periodas: "viduramziai"
-periodo_grupes: []
-amziai:
-  - "XIV"
-date_start: ""
-date_end: ""
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
@@ -46,23 +55,23 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
 
 ## Teiginiai
 - t-003
-  teiginys: 'XIV a. pradžioje Maskva laimėjo kovą dėl jarlyko prieš Tverę ir įsitvirtino Vladimire.'
+  teiginys: 'Jogailos kariuomenė pro Vladimirą liepos pabaigoje artėjo prie Lucko.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'XIV a. pradžioje Maskva laimėjo kovą dėl jarlyko prieš Tverę ir įsitvirtino Vladimire.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  santrauka: 'Jogailos kariuomenė pro Vladimirą liepos pabaigoje artėjo prie Lucko.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Vis dėlto į mongolų nuteriotą erdvę pretendavo ir neprijungtos
-    prie LDK senųjų rusų žemės. Iš jų viena stipriausių buvo Vladimiro-Su-
-    zdalės žemė.
-    XIV a. pradžioje pagrindinėmis varžovėmis dėl jarlyko (chanų duoda-
-    ma privilegija rinkti duoklę Aukso ordai iš kitų rusų kunigaikščių) tapo
-    Tverė ir Maskva, kovą laimėjo pastaroji, įsitvirtinusi ir Vladimire.
+    Jogailos kariuomenė pro Vladimirą lie-
+    pos pabaigoje artėjo prie Lucko. Prie Stirės
+    įvyko Švitrigailos pajėgoms nesékmin-
+    gas mūšis. Jogaila apsiautė Lucką, apgula
+    tęsėsi, tačiau jo pajėgos buvo atremtos —
+    lietuviai sėkmingai gynėsi.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -74,3 +83,7 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XXI amžius]]
+
+### Susiję objektai
+- [[objektai/vietos/Stirė]]

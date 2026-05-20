@@ -54,9 +54,9 @@ Nenurodyta
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     dar žinoma yra, jog dideli ir seni medžiai senovėj buvo ženklais rubežių grumtuose, kuriuos
-    saugojo kaipo šventus, nesgi už pakušinimą^821 rubežių ženklų buvo visų smarkiausia koronę^822 ,
-    beje, smerčio, kaipogi raštuose 15 ir 16 amžiaus mažne vieni medžiai yra randami ženklais
-    rubežių.
+        saugojo kaipo šventus, nesgi už pakušinimą^821 rubežių ženklų buvo visų smarkiausia koronę^822 ,
+        beje, smerčio, kaipogi raštuose 15 ir 16 amžiaus mažne vieni medžiai yra randami ženklais
+        rubežių.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

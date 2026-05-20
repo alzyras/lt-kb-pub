@@ -48,7 +48,12 @@ Nenurodyta
   santrauka: '1918 m. vasario 16 d. Lietuvos Taryba priėmė naują savarankišką pareiškimą, tapusį Lietuvos nepriklausomybės paskelbimu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Taryba ryžosi atgaivinti savo vienybę nau-
+    Kairioji dalis atsisakė dėtis
+    prie kompromiso ir išstojo iš Tarybos. Bet ir likusioji Tarybos
+    dauguma greitai įsitikino, kad Vokiečiams terūpėjo gauti iš Ta-
+    rybos sau argumentų prieš Rusijos delegaciją; o kai derybos
+    su Rusais nutrūko, Berlyno aneksionistai visai pamiršo Lietu-
+    vos nepriklausomybę. Taryba ryžosi atgaivinti savo vienybę nau-
     ju, visai savarankišku pareiškimu, kurs patapo
     Lietuvos nepriklausomybės paskelbimu (1918 m. vasario 16 d.).
   citata_rodoma: ""
@@ -62,6 +67,9 @@ Nenurodyta
   santrauka: 'Okupacinė valdžia neleido viešai paskelbti 1918 m. vasario 16 d. Lietuvos nepriklausomybės paskelbimo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Taryba ryžosi atgaivinti savo vienybę nau-
+    ju, visai savarankišku pareiškimu, kurs patapo
+    Lietuvos nepriklausomybės paskelbimu (1918 m. vasario 16 d.).
     Šito paskelbimo okupacinė valdžia neleido iškelti į vie-
     šumą. Berlyno vyriausybė atsisakė pripažinti pagal tą paskelbi-
     mą Lietuvos valstybę ir reikalavo grįžti prie gruodžio 11 d. for-

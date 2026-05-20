@@ -32,7 +32,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'P.O.W. organizacijos centras buvo Kaune, o nepriklausomoji Lietuva buvo suskirstyta į 13 jos apskričių.'
+  teiginys: 'P.O.W. organizacijos centras buvo Kaune, o nepriklausomoji Lietuva buvo suskirstyta į 13 jos veiklos apskričių.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -52,9 +52,18 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'P.O.W. organizacijos centras buvo Kaune, o nepriklausomoji Lietuva buvo suskirstyta į 13 jos apskričių.'
+  santrauka: 'P.O.W. organizacijos centras buvo Kaune, o nepriklausomoji Lietuva buvo suskirstyta į 13 jos veiklos apskričių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Laisvoji ir priešų užimtoji Lietuva 1919—1920 m.
+    _Wojskowa_ — Kariškoji Lenkų Organizacija). Iš okupuoto Vil-
+    niaus instruktuojama ir pinigais aprūpinama, ta organizacija varė
+    labai platų darbą: šnipinėdama nuolat pranešinėjo lenkams apie
+    Lietuvos kariuomenės jėgas, apie krašto politinę būklę ir nuo-
+    taiką; atvažiuojančioms santarvės komisijoms teikė vyriausybę
+    šmeižiančius memorandumus, iš Vilniaus gabeno proklamacijas
+    ir knygutes, skleidė nepasitikėjimą ir verbavo sau narius ne tik
+    sulenkėjusių dvarininkų, bet ir nenusimanančių lietuvių tarpe.
     Organizacijos centras buvo Kaune; visa nepriklausomoji Lietuva
     buvo suskirstyta į 13 apskričių, kurių kiekvienoje dar buvo po
     3—4 tos organizacijos komendantūras.
@@ -86,7 +95,8 @@ Nenurodyta
   santrauka: 'Saugumo organams susekus P.O.W. sąmokslininkus, jų vadai buvo areštuoti ir sukilimas neįvyko.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Mūsų saugumo organai susekė sąmokslininkus, tą pačią
+    Bet visas planas aitais
+    išėjo. Mūsų saugumo organai susekė sąmokslininkus, tą pačią
     sukilimui skirtą naktį buvo padaryta krata P.O.W. centre (Kau-
     ne), kur buvo rastas organizacijos archyvas su narių sąrašais,
     šnipinėjimo, organizacijos ir kitais dokumentais. Sąmokslininkų
@@ -100,9 +110,6 @@ Nenurodyta
     - t-003
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/dokumentas]]
-
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
 

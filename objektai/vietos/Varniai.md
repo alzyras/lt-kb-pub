@@ -6,6 +6,17 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1936'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - kraštas
@@ -20,32 +31,25 @@ Vyskupystės centru buvo padaryti Varniai. Be to, jėzuitai turėjo įsikūrę i
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vyskupystės centru buvo padaryti Varniai.'
+  teiginys: 'Varniuose Vytautas paskyrė Žemaičių vyskupo buveinę, o jo pastatyta bažnyčia buvo pašventinta katedra.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Jėzuitai Varniuose turėjo įsikūrę mažesnę mokyklą.'
-  pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vyskupystės centru buvo padaryti Varniai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: 'Varniuose Vytautas paskyrė Žemaičių vyskupo buveinę, o jo pastatyta bažnyčia buvo pašventinta katedra.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Tie pasiuntiniai tris mė-
-    nesius dirbo Žemaičiuose ir įšventino pirmąjį Žemaičių vyskupą
-    Motiejų. Vyskupystės centru buvo padaryti Varniai.
-    Vys-
-    kupystė buvo vadinama Žemaičių, arba Medininkų, nes Varniai
-    buvo Medininkais vadinamoje Žemaičių srityje. Vytautas ten
-    pastatė katedrą, o visam krašte — 8 parapijines bažnyčias (Vi-
-    duklėje, Luokėje, Kaltinėnuose, Kelmėje, Raseiniuose, Arioga-
-    loje, Kražiuose ir Veliuonoje).
+    Varniuose, kur buvo Vytauto paskirta Žemaičių
+    vyskupui buveinė ir praminta nuo tos apskrities vardo Medinin­
+    kais, čia jo pastatytą bažnyčią pasiuntiniai pašventino į ka­
+    tedrą, pavadindami šv. Aleksandro vardu, kad tuo primintų jos
+    fundatorių Vytautą-Aleksandrą; taip pat paskyrė vyskupijos
+    kapitulą. Iš Varnių pasiuntiniai aplankė visas iki šiol Vytauto pa­
+    statytas bažnyčias, sutvarkė jų reikalus, ir nukeliavę į Trakus,
+    nuolatinę Vytauto rezidenciją, įšventino Žemaičių vyskupą.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -53,17 +57,8 @@ Vyskupystės centru buvo padaryti Varniai. Be to, jėzuitai turėjo įsikūrę i
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Jėzuitai Varniuose turėjo įsikūrę mažesnę mokyklą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų —
-    Varniuose, Lauksodyje, Šeduvoje, Mstislauly, Slanime, Mogileve,
-    Alūkstoje, Daugpily, Jelgavoj ir kitur.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

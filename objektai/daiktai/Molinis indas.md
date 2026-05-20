@@ -54,10 +54,10 @@ Nenurodyta
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     paskui sušluostę gruzdinius^1299 numirėlio supylė į molio
-    indą, ir lydėtojai, nešdami į kapus, sušuko regintys keliaujantį nabaštiką debesyse ant balto žirgo ir
-    sakalą besklendžiantį lygiai; įdėję indą į kapus ir kaukoles neprietelių pergalėtųjų ant grandies suvėrę,
-    padėjo po indo apačia ir žemėmis aprausė; minavonei vadino tuos kapus vardu to, kas tenai buvo
-    palaidotas.
+        indą, ir lydėtojai, nešdami į kapus, sušuko regintys keliaujantį nabaštiką debesyse ant balto žirgo ir
+        sakalą besklendžiantį lygiai; įdėję indą į kapus ir kaukoles neprietelių pergalėtųjų ant grandies suvėrę,
+        padėjo po indo apačia ir žemėmis aprausė; minavonei vadino tuos kapus vardu to, kas tenai buvo
+        palaidotas.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

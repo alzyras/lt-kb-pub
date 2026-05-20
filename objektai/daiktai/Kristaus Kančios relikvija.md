@@ -8,15 +8,24 @@ saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 bukle: juodrastis
 laikotarpis: ''
-datos: []
-periodas: viduramziai
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1350 m.'
+  - '1430 m.'
+  - '1930 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+  - 'XV'
+  - 'XX'
+  - 'XXI'
+date_start: '1350'
+date_end: '2026'
 patikimumas: 'aukštas'
 tags: []
 ---
@@ -47,13 +56,21 @@ Nenurodyta
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Maskvos kunigaikštienė į Maskvą atsivežė dalį Kristaus Kančios relikvijos.'
+  pagrindžia:
+    - c-002
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Maskvos kunigaikštienė į Maskvą atsivežė ir dalį Kristaus Kančios relikvijos.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Mas­
+    Kad laimėjimas būtų tikresnis, no­
+    rėjo patraukti į savo pusę ir Maskvą. Per dvi savaiti Vytau­
+    tas vaišino savo dukterį Zofiją su vaikais Smolenske. Mas­
     kvos kunigaikštienė grįžo į savo sostinę su brangiomis do­
     vanomis, auksu ir sidabru papuoštais paveikslais, net dalį
     Kristaus Kančios relikvijos atsivežė į Maskvą, ir visu tuo la­
@@ -66,3 +83,30 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-002
+  santrauka: 'Maskvos kunigaikštienė į Maskvą atsivežė dalį Kristaus Kančios relikvijos.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Per dvi savaiti Vytau­
+    tas vaišino savo dukterį Zofiją su vaikais Smolenske. Mas­
+    kvos kunigaikštienė grįžo į savo sostinę su brangiomis do­
+    vanomis, auksu ir sidabru papuoštais paveikslais, net dalį
+    Kristaus Kančios relikvijos atsivežė į Maskvą, ir visu tuo la­
+    bai džiaugėsi, bet pagalbos iš Maskvos Vytautas vis dėlto
+    negavo^3 ). Su Lenkija Vytauto santykiai tada buvo blo-
+
+    (^1) ) Proch.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

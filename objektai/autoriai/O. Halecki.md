@@ -9,21 +9,43 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-laikotarpis: '1915 m.; 1916 m.; 1919 m.; 1920 m.; 1930 m.; 1939 m.; 1950 m.; 1958 m.'
 datos:
+  - '1374 m.'
+  - '1386 m.'
+  - '1398 m.'
+  - '1439 m.'
+  - '1596 m.'
+  - '1696 m.'
+  - '1914 m.'
   - '1915 m.'
   - '1916 m.'
   - '1919 m.'
   - '1920 m.'
+  - '1925 m.'
   - '1930 m.'
+  - '1932 m.'
+  - '1933 m.'
+  - '1936 m.'
   - '1939 m.'
+  - '1945 m.'
   - '1950 m.'
   - '1958 m.'
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
+  - '1978 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+  - 'XV'
+  - 'XVI'
+  - 'XVII'
+  - 'XIX'
+  - 'XX'
+  - 'XXI'
+date_start: '1374'
+date_end: '2026'
+laikotarpis: '1915 m.; 1916 m.; 1919 m.; 1920 m.; 1930 m.; 1939 m.; 1950 m.; 1958 m.'
 vaidmenys:
   - 'istorikas'
   - 'autorius'
@@ -54,44 +76,36 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
 
 ## Teiginiai
 - t-001
-  teiginys: 'O. Halecki 1919–1920 m. Krokuvoje išleido dviejų tomų veikalą „Dzieje Unii Jagiellońskiej“.'
+  teiginys: 'O. Halecki manė, kad Hohencolerno kandidatūra Lenkijoje galingam Vytautui buvo neparanki.'
   pagrindžia:
     - c-001
-    - c-004
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'O. Halecki gausiais raštais paliko pėdsaką Lietuvos istorijos tyrimuose ir emigracijoje skyrė dėmesio Lietuvai.'
+  teiginys: 'O. Halecki manė, kad svarstytas užsimojimas būtų atkirtęs Lietuvą nuo jūros ir leidęs kryžiuočiams susijungti su Livonijos Ordinu.'
   pagrindžia:
     - c-002
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: 'O. Halecki paskelbė darbus apie Švitrigailą, Lietuvos Didžiosios Kunigaikštystės sudėtį, Krėvos sutartį ir Lenkijos istoriją.'
+  teiginys: 'O. Halecki teigė, kad lenkai kantriai laukė Kamienieco Podolės, atiduotos iki Vytauto gyvos galvos.'
   pagrindžia:
     - c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-004
-  teiginys: 'O. Halecki parašė skyrių „From the Union with Hungary to the Union with Lithuania: Jadwiga, 1374–99“.'
-  pagrindžia:
-    - c-005
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-005
-  teiginys: 'O. Halecki 1930 m. paskelbė darbą „Witold“.'
-  pagrindžia:
-    - c-006
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'O. Halecki 1919–1920 m. Krokuvoje išleido dviejų tomų veikalą „Dzieje Unii Jagiellońskiej“.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  santrauka: 'O. Halecki manė, kad Hohencolerno kandidatūra Lenkijoje galingam Vytautui buvo neparanki.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    HaU = Halecki, O. : Dzieje Unii Jagiellońskiej, t. 1-2, Krokuva
-    1919-1920.
+    Pirmas toks grasini­
+    mo aktas buvo padarytas 1421 m. — tai Jogailos dukters Jad­
+    vygos sužieduotuvės su devynerių metų Fridriko, Brandenbur­
+    gijos markgrafo, sūnum. Galingam Vytautui, kaip mano Ha­
+    leckis, Hohencolerno kandidatūra Lenkijoj buvo neparanki, ne­
+    žiūrint ir to pavojaus, kuris turėjo iš ten kilti Liuksemburgiečiui.
+    Taip galvoja Haleckis.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -100,13 +114,20 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'O. Halecki gausiais raštais paliko pėdsaką Lietuvos istorijos tyrimuose ir emigracijoje skyrė dėmesio Lietuvai.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  santrauka: 'O. Halecki manė, kad svarstytas užsimojimas būtų atkirtęs Lietuvą nuo jūros ir leidęs kryžiuočiams susijungti su Livonijos Ordinu.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Gana plačius pėdsakus Lietuvos istorijos srityje savo gausiais
-    raštais yra palikęs O. Haleckis, kuris ir emigracijoje vis daug
-    dėmesio skyrė Lietuvai, nors į ją vis žvelgė savu lenkiškuoju po­
-    žiūriu. Tai jaučiama labiausiai veikale apie uniją (HaU).
+    Būdamas pilnas nemalonės naujiems karūnos politikos vai­
+    rininkams, kancleriui Jonui Šafrancui, vėliau pakeltam pakanc­
+    leriui Vladislovui Oporovskiui, kurie darė kliūčių jo siekimams,
+    — Vytautas grasino, neatsižiūrėdamas net gyviausių Lietuvos
+    interesų, kad vietoj Liubičo atiduos kryžiuočiams Palangą. Šis
+    užsimojimas, kaip mano Haleckis, pavojingas buvo dviem at­
+    žvilgiais: Lietuva, kuriai Vytautas neseniai troško atgauti Klai­
+    pėdą, būtų buvus visiškai atkirsta nuo jūros ir būtų buvęs suteik­
+    tas kryžiuočiams taip seniai trokštamas galimumas susijungti
+    su Livonijos Ordinu. Jogailos ir lenkų pažiūros buvo tokios,
+    kad Vytautas neturi teisės atiduoti kam nors Lietuvos dalies.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -115,20 +136,16 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'O. Halecki paskelbė darbus apie Švitrigailą, Lietuvos Didžiosios Kunigaikštystės sudėtį, Krėvos sutartį ir Lenkijos istoriją.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  santrauka: 'O. Halecki teigė, kad lenkai kantriai laukė Kamienieco Podolės, atiduotos iki Vytauto gyvos galvos.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    (^130) **J. Adamus :** **_Zastaw w prawie litewskiem XV i XVI wieku_** **, Pamięt­
-    nik Historyczno-Prawny, I t., 7 zesz., 1925;** **_Państwo litewskie w latach
-    1386-1398_** **, žr. Księga pamiątkowa ku uczczeniu 400-setnej rocznicy Statutu
-    Litewskiego, Vilnius 1932. — O. Halecki :** **_Ostatnie tata Swidrigielły i spra­
-    wa wołyńska za Kazimierza Jagiellończyka_** **, Krokuva 1915;** **_Litwa, Ruś i
-    Żmudź jako części składowe Wielkiego Księstwa Litewskiego_** **, RAU, 34, 1916,
-    214-254 p. ;** **_Dzieje unii jagiellońskiej,_** **I-II, Krokuva 1919 ;** **_Przyczynki ge­
-    nealogiczne do dziejów układu krewskiego_** **, MieH, 1939 ;** **_Die Beziehungen der
-    Habsburger zum litauischen Hochadel,_** **Mitteilungen des Instituts für österr.
-    Geschichtsforschung, 1915;** **_La Pologne de 963 ä 1914. Essai de synthese
-    historique,_** **Paris 1933 ;** **_Histoire de Pologne_** **, New York 1945 ;**
+    Taip pat buvo neliečia­
+    mi Lietuvos ir Lenkijos ginčijami rusų žemės klausimai. Len­
+    kai žinojo, kaip sako Haleckis, kad Kamienieco Padolija, atiduo­
+    ta iki Vytauto gyvos galvos, todėl ir taip kantriai laukta^2 ). Len­
+    kų „kantrybė“ visiškai aiški: jie gerai suprato, kad prieš vėją
+    nepapūs, ir nedrįso Vytautui pasipriešinti, nes jis buvo per galin­
+    gas.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -136,47 +153,13 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
-- c-004
-  santrauka: 'O. Halecki 1919–1920 m. Krokuvoje išleido dviejų tomų veikalą „Dzieje Unii Jagiellońskiej“.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Halecki, O. : _Dzieje unii jagiellońskiej_ , I-II, Kraków
-    1919, 1920.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-005
-  santrauka: 'O. Halecki parašė skyrių „From the Union with Hungary to the Union with Lithuania: Jadwiga, 1374–99“.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    — (”) _From, the Union with Hungary to the Union with
-    Lithuania : Jadwiga, 1374-99,_ Tlie Cambridge History of Poland (to
-    1696), Cambridge 1950, 188-209 p.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-004
-- c-006
-  santrauka: 'O. Halecki 1930 m. paskelbė darbą „Witold“.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Halecki,
-    O.: Witold, PamZH, II, 1930, 153-168 p
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-005
 
 ## Ryšiai
 ### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XVI amžius]]
+- [[laikotarpiai/XVII amžius]]
+
+### Susiję objektai
+- [[objektai/posakiai/prieš vėją nepapūs]]

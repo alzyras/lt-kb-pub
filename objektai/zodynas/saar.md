@@ -11,7 +11,23 @@ saltiniai:
 - Vytautas Didysis 1350-1430 (1930 m.)
 laikotarpis: 1395 m., 1411 m., 1427 m.
 datos:
-- 1395 m., 1411 m., 1427 m.
+  - '1350 m.'
+  - '1395 m.'
+  - '1411 m.'
+  - '1427 m.'
+  - '1430 m.'
+  - '1930 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+  - 'XV'
+  - 'XX'
+  - 'XXI'
+date_start: '1350'
+date_end: '2026'
 patikimumas: vidutinis
 tags: []
 ---
@@ -25,15 +41,14 @@ tags: []
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-005
-  teiginys: 'Vytautas apie 30 metų rėmė saarus ir sulaukė totorių tarpe sau visiškai paklusnių valdovų.'
+  teiginys: 'Vytautas apie 30 metų rėmė saarus ir sulaukė tarp totorių jam visiškai paklusnių valdovų.'
   pagrindžia:
     - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-006
-  teiginys: '1427 m. pradžioje buvo penki saarai, bet metų pabaigoje galutinai įsigalėjo Vytauto palaikomas Machmetas.'
+  teiginys: '1427 m. pradžioje buvo penki saarai, o metų pabaigoje galutinai įsigalėjo Vytauto palaikomas Machmetas.'
   pagrindžia:
-    - c-002
     - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
@@ -43,7 +58,8 @@ tags: []
   santrauka: 'Vytauto laikais Orda buvo suskilusi, o atskiri saarai nuolat kariavo tarpusavyje.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Vytauto
+    Bet kadaise Europą drebėti vertusi jų galybė jau buvo žuvusi,
+    puolama Algirdo ir Maskvos kunigaikščio Dimitro. Vytauto
     laikais totorių valstybė kaip tik pergyveno krizį. Orda buvo
     suskilusi, atskiri „saarai“ vedė nuolatinius karus.
   citata_rodoma: ""
@@ -54,7 +70,7 @@ tags: []
   pagrindžia:
     - t-004
 - c-002
-  santrauka: 'Vytautas apie 30 metų rėmė saarus ir sulaukė totorių tarpe sau visiškai paklusnių valdovų.'
+  santrauka: 'Vytautas apie 30 metų rėmė saarus ir sulaukė tarp totorių jam visiškai paklusnių valdovų.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Nuolat remdamas juos per 30 me­
@@ -70,9 +86,8 @@ tags: []
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
-    - t-006
 - c-003
-  santrauka: '1427 m. pradžioje buvo penki saarai, bet metų pabaigoje galutinai įsigalėjo Vytauto palaikomas Machmetas.'
+  santrauka: '1427 m. pradžioje buvo penki saarai, o metų pabaigoje galutinai įsigalėjo Vytauto palaikomas Machmetas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Buvo laikai, kad jo būklė būdavo labai kritiška. Iš karto atsi­
@@ -92,3 +107,9 @@ tags: []
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
 - [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
+### Susiję objektai
+- [[objektai/asmenys/Dimitras (Maskvos kunigaikštis)]]
+- [[objektai/grupes/Krimo totoriai]]

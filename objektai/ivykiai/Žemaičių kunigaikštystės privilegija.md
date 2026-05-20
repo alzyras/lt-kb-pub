@@ -50,6 +50,7 @@ Nenurodyta
   santrauka: 'Po Zigmanto mirties kilusių kovų metu žemaičiai iš Kazimiero išgavo privilegiją, laidavusią jų teises ir savitą vidaus tvarkymąsi.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    **2. Žemaičių kunigaikštystės privilegija**
     Nesutikimai, kilę po Zigmanto mirties, teturėjo tam tikrų
     padarinių tik Žemaičiams: konkurentų kovų metu jie išgavo
     iš Kazimiero privilegiją, kuri apdraudė visas jų teises ir visiems

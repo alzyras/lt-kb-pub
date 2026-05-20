@@ -46,5 +46,4 @@ Kudirkos „Tautišką giesmę“ ir lietuvių nacionalinius simbolius – Vytį
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/daiktai/Gediminaičių stulpai]]
 - [[objektai/ivykiai/Lietuvių kalbos ir Lietuvos simbolių legalizavimas (1988 m. spalio 6 d.)]]

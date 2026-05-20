@@ -31,7 +31,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: '1767 m. Repninui kurstant Radomas buvo numatytas prieš karalių ir Čartoriskius nukreiptų konfederacijų centru.'
+  teiginys: '1767 m. Repninui kurstant, Radomas buvo numatytas prieš karalių ir Čartoriskius nukreiptų konfederacijų centru.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -45,7 +45,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1767 m. Repninui kurstant Radomas buvo numatytas prieš karalių ir Čartoriskius nukreiptų konfederacijų centru.'
+  santrauka: '1767 m. Repninui kurstant, Radomas buvo numatytas prieš karalių ir Čartoriskius nukreiptų konfederacijų centru.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Radomo konfederacija.** 1767 m. Repninui kurstant, visuose
@@ -68,7 +68,18 @@ Nenurodyta
   santrauka: 'Radome rusų kariuomenės apsupti konfederatai buvo priversti pasirašyti aktą, pripažinusį lygias teises kitatikiams.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tačiau ir jis ir visi kon-
+    Už
+    sugrąžinimą jis buvo dėkingas
+    tik Kotrynai, todėl sutiko, kad
+    prie jo būtų prikomandiruotas
+    rusų pulkininkas Karas, su ku-
+    riuo jis kiekvienu reikalu galėtų
+    pasitarti. Degdamas neapykan-
+    ta Čartoriskiams ir karaliui, jis
+    svajojo juos sunaikinti, o jų tur-
+    tus pasiimti sau už visas skriau-
+    das, patirtas per 3 ištrėmimo
+    metus. Tačiau ir jis ir visi kon-
     federatai labai apsivylė: Rado-
     me rusų kariuomenės apsupti, jie buvo priversti pasirašyti konfe-
     deracijos aktą, kuriuo kvietė prisidėti prie konfederacijos ir kara-
@@ -86,8 +97,5 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/aktas]]
-
 ### Laikotarpiai
 - [[laikotarpiai/XVIII amžius]]

@@ -68,7 +68,9 @@ Kuršaitis šiame šaltinyje minimas kaip redaktorius, profesorius; jam priskiri
   santrauka: 'Kuršaitis redagavo lietuvišką laikraštį „Keleivį“ ir buvo Karaliaučiaus lietuvių seminarijos profesorius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Centro valdžia, norėdama palaikyti šitą lietuvių prisi-
+    Lietuvybės gynėjai,
+    prašydami neskriausti lietuvių, visada rėmėsi ta jų ištikimybe
+    valdžiai. Centro valdžia, norėdama palaikyti šitą lietuvių prisi-
     rišimą, leido jiems Karaliaučiuje net lietuvišką laikraštį „Kelei-
     vį" (nuo 1849 iki 1880 m.). Jį redagavo didelis lietuvių kalbos
     žinovas, Karaliaučiaus lietuvių seminarijos profesorius Kur-
@@ -100,7 +102,12 @@ Kuršaitis šiame šaltinyje minimas kaip redaktorius, profesorius; jam priskiri
   santrauka: 'Kuršaičio „Keleivis“ ragino lietuvius uoliai dalyvauti rinkimuose.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tad veltui Kuršaičio „Ke-
+    Į Prū-
+    sijos parlamentą rinkimai buvo taip sutvarkyti, kad lietuviams
+    juose buvo sunku dalyvauti, nes iš rinkėjų buvo reikalaujama
+    tam tikro cenzo. Pagaliau parlamentinė santvarka lietuviams
+    buvo ir svetima: jie jautėsi esą ištikimi savo karaliaus valdiniai,
+    jokios politinės kovos neprivalą. Tad veltui Kuršaičio „Ke-
     leivis" šaukdavo lietuvius uoliai dalyvauti rinkimuose.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -113,7 +120,9 @@ Kuršaitis šiame šaltinyje minimas kaip redaktorius, profesorius; jam priskiri
   santrauka: 'Kuršaitis 1849—1880 m. leido „Keleivį“.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Daugiau
+    Tai buvo 1832 m. pradėtas leisti
+    misijų laikraštis „Nusidavimai apie Evangelijos
+    prasiplatinimą tarp žydų ir pagonių". Daugiau
     įtakos betgi visuomenei turėjo 1849—1880 m. su valdžios pa-
     rama prof. Kuršaičio leistasai „Keleivis". Jis buvo leidžiamas
     tam tikslui, kad užkirstų kelią tuo metu lietuvių tarpe plintan-

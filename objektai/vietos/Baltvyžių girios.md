@@ -18,7 +18,7 @@ Negalėdami spaudos atšaukimo pasiekti per ministerius, — Vilniaus generalgub
 
 ## Teiginiai
 - t-001
-  teiginys: 'Baltvyžių giriose vykusioje medžioklėje Sviatopolkas Mirskis ir Veriovkinas sutarė prikalbėti carą dėl spaudos atšaukimo.'
+  teiginys: 'Baltvyžių giriose Sviatopolkas Mirskis ir Veriovkinas sutarė per medžioklę įtikinti carą dėl spaudos atšaukimo.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -26,10 +26,13 @@ Negalėdami spaudos atšaukimo pasiekti per ministerius, — Vilniaus generalgub
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Baltvyžių giriose vykusioje medžioklėje Sviatopolkas Mirskis ir Veriovkinas sutarė prikalbėti carą dėl spaudos atšaukimo.'
+  santrauka: 'Baltvyžių giriose Sviatopolkas Mirskis ir Veriovkinas sutarė per medžioklę įtikinti carą dėl spaudos atšaukimo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Negalėdami spaudos atšaukimo pasiekti per ministerius, — Vilniaus generalgubernatorius Sviatopolkas Mirskis ir Kauno gubernatorius Veriovkinas sutarė prikalbėti tuo reikalu carą medžiok-
+    Šio dekreto paskelbimą paveikė aukštieji Rusų valdžios atstovai
+    Lietuvoje. Negalėdami spaudos atšaukimo pasiekti per ministerius,
+    — Vilniaus generalgubernatorius Sviatopolkas Mirskis ir Kauno
+    gubernatorius Veriovkinas sutarė prikalbėti tuo reikalu carą medžiok-
     lėje, įvykusioje Baltvyžių giriose. Caras, jų įtikintas, grįžęs į Pet-
     rapilį paskelbė tą dekretą.
   citata_rodoma: ""

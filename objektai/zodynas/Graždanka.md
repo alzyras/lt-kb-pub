@@ -58,7 +58,7 @@ Graždanka minima kaip konkreti rusų raidžių vartojimo lietuviškoje spaudoje
   santrauka: 'Graždanka vadintos rusų raidės, kurias lietuviai atsisakė priimti lietuviškai spaudai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Bet visų svarbiausias tuo reikalu palankus balsas
+    inteligentai. Bet visų svarbiausias tuo reikalu palankus balsas
     buvo Lietuvoje veikiančios Rusų administracijos. Ji siūlė todėl
     panaikinti draudimą, kad jis nepasiekęs tikslo — lietuviai rusų
     raidžių (vad. graždankos) neprisiėmę.

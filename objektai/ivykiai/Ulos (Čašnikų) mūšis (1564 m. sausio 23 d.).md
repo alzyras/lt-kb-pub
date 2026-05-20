@@ -64,7 +64,7 @@ Nenurodyta
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-006
-  teiginys: 'Lietuvių puolimas sutelkė smūgį prieš maskvėnų artileriją ir sukėlė jų gretose sumaištį.'
+  teiginys: 'Ulos mūšyje lietuvių pajėgos smūgį sutelkė prieš maskvėnų artileriją ir šaulius, o išmušus juos iš pozicijų priešininkų kariuomenėje kilo sumaištis.'
   pagrindžia:
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -76,7 +76,7 @@ Nenurodyta
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-008
-  teiginys: 'Ulos mūšyje žuvo apie 8000-10000 maskvėnų, o P. Šuiskio kūnas buvo atvežtas į Vilnių ir palaidotas stačiatikių katedroje.'
+  teiginys: 'Ulos mūšyje žuvo apie 8000–10000 maskvėnų, o P. Šuiskio kūnas buvo atvežtas į Vilnių ir palaidotas stačiatikių katedroje.'
   pagrindžia:
     - c-004
     - c-005
@@ -107,7 +107,7 @@ Nenurodyta
   pagrindžia:
     - t-005
 - c-002
-  santrauka: 'Lietuvių puolimas sutelkė smūgį prieš maskvėnų artileriją ir sukėlė jų gretose sumaištį.'
+  santrauka: 'Ulos mūšyje lietuvių pajėgos smūgį sutelkė prieš maskvėnų artileriją ir šaulius, o išmušus juos iš pozicijų priešininkų kariuomenėje kilo sumaištis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Puolimą pradėjo kelios lietu-
@@ -149,7 +149,7 @@ Nenurodyta
   pagrindžia:
     - t-007
 - c-004
-  santrauka: 'Ulos mūšyje žuvo apie 8000-10000 maskvėnų, o P. Šuiskio kūnas buvo atvežtas į Vilnių ir palaidotas stačiatikių katedroje.'
+  santrauka: 'Ulos mūšyje žuvo apie 8000–10000 maskvėnų, o P. Šuiskio kūnas buvo atvežtas į Vilnių ir palaidotas stačiatikių katedroje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Skaičiuojama,
@@ -174,7 +174,7 @@ Nenurodyta
   pagrindžia:
     - t-008
 - c-005
-  santrauka: 'Ulos mūšyje žuvo apie 8000-10000 maskvėnų, o P. Šuiskio kūnas buvo atvežtas į Vilnių ir palaidotas stačiatikių katedroje.'
+  santrauka: 'Ulos mūšyje žuvo apie 8000–10000 maskvėnų, o P. Šuiskio kūnas buvo atvežtas į Vilnių ir palaidotas stačiatikių katedroje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Taip pat nemaža kilmingųjų buvo paimta

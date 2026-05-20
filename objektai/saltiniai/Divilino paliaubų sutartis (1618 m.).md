@@ -39,7 +39,8 @@ tags:
   santrauka: '1618 m. Divilino kaime (prie Maskvos) buvo padarytos 16 metų paliaubos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    1618 m. Divilino kaime (prie Maskvos) buvo padarytos
+    Maskva buvo pasiekta, tačiau jos paimti nepavyko,
+    ir 1618 m. Divilino kaime (prie Maskvos) buvo padarytos
     16 metų paliaubos. Maskva būtinai reikalavo, kad Vladislovas
     nebesivadintų caru, bet tas neatsisakė nuo titulo. Šitas klau-
     simas tuo būdu ir liko neišspręstas, bet sienų klausimas ir kiti

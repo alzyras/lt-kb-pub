@@ -31,7 +31,12 @@ Todėl 1309 m. didysis magistras su visa taryba atsikėlė į Marijenburgą, ir 
   santrauka: '1309 m. didžiajam magistrui su taryba persikėlus į Marijenburgą, Prūsijos krašto magistrai išnyko, nes vadovybę perėmė didysis magistras.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Todėl 1309 m. didysis ma-
+    Visų krašto magistrų
+    viršininku buvo Italijoje gyvenęs didysis magistras. Bet XIII
+    amž. pabaigoje jau buvo aišku, kad didžiausių perspektyvų ordi-
+    nas gali turėti tik Pabaltijy, nes iš Mažosios Azijos jis buvo
+    visiškai išvytas, o kadaise jo Vengrijoje turėtoji kolonija buvo
+    atimta, ir nebebuvo vilties ją atgauti. Todėl 1309 m. didysis ma-
     gistras su visa taryba atsikėlė į Marijenburgą, ir nuo to laiko vad.
     Prūsijos krašto magistrai išnyko, nes vadovybę perėmė patsai
     didysis magistras.
@@ -42,3 +47,7 @@ Todėl 1309 m. didysis magistras su visa taryba atsikėlė į Marijenburgą, ir 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/didysis magistras]]

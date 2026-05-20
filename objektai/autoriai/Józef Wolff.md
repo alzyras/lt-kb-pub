@@ -55,6 +55,8 @@ Józef Wolff šiame šaltinyje minimas kaip istorikas ir veikalo „Ród Gedimin
   santrauka: 'Józef Wolff buvo 1886 m. Krokuvoje išleisto veikalo „Ród Gediminą“ autorius.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
+    = Wołonczewskis, Motiejus K., Żemajtiu Wiskupiste, Vil­
+    nius, 1848.
     Wolff = Wolff, Józef, Ród Gediminą. Kraków, 1886.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -67,6 +69,9 @@ Józef Wolff šiame šaltinyje minimas kaip istorikas ir veikalo „Ród Gedimin
   santrauka: 'Istorikas Józef Wolff teigė, kad sunku Patirgą ir Ringailę laikyti vienos motinos vaikais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
+    Ir ta lietuvė, kuri, anot legendos, turėjusi visą amžių
+    tarnauti dievams, pasitraukusi nuo jų aukuro į šeimos židinį,
+    išaugino Lietuvai nemažame savo vaikų būryje didelį vyrą —
     Vytautą. Negalima ginčyti istorikų nuomonės, kad Birutė esan­
     ti ne visų Kęstučio vaikų motina. Istorikas Wolffas sako, esą
     sunku prileisti, kad Kęstučio sūnus Patirgas, kuris istorijos la­

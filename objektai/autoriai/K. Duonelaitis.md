@@ -36,7 +36,7 @@ K. Duonelaitis šiame šaltinyje minimas kaip poetas, autorius; jam priskiriami 
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-005
-  teiginys: 'K. Duonelaičio raštus 1818 m. pirmą kartą paskelbė Rėza.'
+  teiginys: 'Rėza 1818 m. pirmą kartą paskelbė K. Duonelaičio raštus.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -53,9 +53,12 @@ K. Duonelaitis šiame šaltinyje minimas kaip poetas, autorius; jam priskiriami 
   santrauka: 'K. Duonelaitis vadintas didžiuoju Mažosios Lietuvos poetu ir skundėsi, kad kolonistai kraštą užkrėtė nedorybėmis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Užtat ir didysis
+    Į Mažąją Lietuvą jie atnešė daug netikusių
+    papročių — tinginiavimą, girtybę, muštynes ir ištvirkavimą. To-
+    dėl lietuvių jie buvo laikomi blogais žmonėmis. Užtat ir didysis
     Mažosios Lietuvos poetas, Duonelaitis (1714—1780 m.), skun-
     džiasi, kad kolonistai užkrėtę kraštą visokiomis nedorybėmis, ir
+    ragina lietuvius su jais nesusidėti.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -64,7 +67,7 @@ K. Duonelaitis šiame šaltinyje minimas kaip poetas, autorius; jam priskiriami 
   pagrindžia:
     - t-004
 - c-002
-  santrauka: 'K. Duonelaičio raštus 1818 m. pirmą kartą paskelbė Rėza.'
+  santrauka: 'Rėza 1818 m. pirmą kartą paskelbė K. Duonelaičio raštus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Paskutiniai tos rūšies
@@ -83,7 +86,9 @@ K. Duonelaitis šiame šaltinyje minimas kaip poetas, autorius; jam priskiriami 
   santrauka: 'Spaudos draudimo metu Amerikoje buvo išleisti K. Duonelaičio ir kitų žymesniųjų lietuvių autorių raštai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tuo
+    Per 35 m. ji išleido 40
+    veikalų (ne tik originalių lietuviškų raštų, bet ir verstinių). Be
+    jos, ėmė leisti knygas įvairūs laikraščiai ir atskiri asmens. Tuo
     būdu, kai Lietuvoje buvo draudžiama spauda, Amerikoje buvo
     išleista daugumas žymesniųjų lietuvių autorių (Duonelaičio,
     Strazdelio, Daukanto, Valančiaus, Ivinskio, Kudirkos ir t.t.)
@@ -102,6 +107,5 @@ K. Duonelaitis šiame šaltinyje minimas kaip poetas, autorius; jam priskiriami 
 - [[laikotarpiai/XVIII amžius]]
 
 ### Susiję objektai
-- [[objektai/autoriai/Motiejus Valančius]]
 - [[objektai/autoriai/Rėza (leidėjas, 1818 m.)]]
 - [[objektai/autoriai/S. Daukantas]]

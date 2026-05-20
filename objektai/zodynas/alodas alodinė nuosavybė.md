@@ -76,7 +76,6 @@ Vartojama aiškinant lietuvių, rusėnų žemių ir Maskvos erdvės nuosavybės 
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/istorinė-sąvoka - teisinis-terminas]]
 - [[temos/istorinė-sąvoka]]
 - [[temos/teisinis-terminas]]
 

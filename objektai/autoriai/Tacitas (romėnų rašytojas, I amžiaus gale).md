@@ -49,6 +49,10 @@ Tacitas šiame šaltinyje minimas kaip romėnų rašytojas, istorikas; jam prisk
   citata_originali: |
     Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus
     galo romėnų rašytojas Tacitas savo veikale „Germania".
+    Jis juos vadina aisčiais _(aestii, aestiorum gentes)._ Kadan-
+    gi Pabaltijy archeologinės iškasenos nerodo jokio kultūros
+    pasikeitimo, tai reikia manyti, kad jau nuo naujojo akmens am-
+    žiaus čia bus gyvenę tie patys aisčiai.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -73,3 +77,8 @@ Tacitas šiame šaltinyje minimas kaip romėnų rašytojas, istorikas; jam prisk
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Aisčiai]]
+- [[objektai/grupes/Romėnai]]

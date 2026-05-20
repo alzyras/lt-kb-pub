@@ -38,6 +38,10 @@ Baudžiavos panaikinimo manifestas buvo paruoštas Petrapily ir paskelbtas 1861 
   santrauka: '1861 m. vasario 19 d. paskelbtu Baudžiavos panaikinimo manifestu Rusijos imperijoje panaikinta baudžiava.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Nebuvo tik sutikimo dėl tolimesnio jų li-
+    kimo. Bet vis dėlto vienur daugumas, kitur bent dalis bajorų
+    stojo už tai, kad valstiečiams turi būti leista išsipirkti savo val-
+    domąją žemę ir pasidaryti jos savininkais.
     **Baudžiavos panaikinimo manifestas** buvo paruoštas Petra-
     pily ir paskelbtas 1861 m. vasario 19 d. Juo visoje Rusijos impe-
     rijoje buvo panaikinta baudžiava, o valstiečiams

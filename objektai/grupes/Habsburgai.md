@@ -6,6 +6,20 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1514 m.'
+  - '1515 m.'
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVI'
+  - 'XX'
+  - 'XXI'
+date_start: '1514'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - grupe
@@ -19,34 +33,23 @@ Mat, imperatorius norėjo susilpninti Zigmantą, kurs ypatingai rūpinosi, kad H
 
 ## Teiginiai
 - t-001
-  teiginys: 'Zigmantas rūpinosi, kad Habsburgai negautų jo brolio Vladislovo valdytos Vengrijos ir Čekijos.'
+  teiginys: 'Barborai mirus, jis vedė pirmosios žmonos seserį Habsburgaitę, tačiau su ja negyveno; ji išvažiavo į Vieną.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Austrų Habsburgai po Zigmanto Augusto mirties ypač siekė Lietuvos ir Lenkijos sostų.'
-  pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: 'Barborai mirus, Zigmantas Augustas vedė pirmosios žmonos seserį Habsburgaitę, bet su ja negyveno.'
-  pagrindžia:
-    - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Zigmantas rūpinosi, kad Habsburgai negautų jo brolio Vladislovo valdytos Vengrijos ir Čekijos.'
+  santrauka: 'Barborai mirus, jis vedė pirmosios žmonos seserį Habsburgaitę, tačiau su ja negyveno; ji išvažiavo į Vieną.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Glinskio rūpesčiu, šį kartą Maskvai pasisekė gauti daug
-    paramos iš imperatoriaus Maksimilijono. Mat, imperatorius
-    norėjo susilpninti Zigmantą, kurs ypatingai rūpinosi, kad Habs-
-    burgai negautų jo brolio Vladislovo valdomosios Vengrijos
-    bei Čekijos.
+    Tačiau
+    jis labai pasikeitė po žmonos Barboros mirties: nuolat jos liūdėjo,
+    nešiojo juodus apdarus, gyveno juodai išmuštuose kambariuose.
+    Barborai mirus, jis vedė pirmosios žmonos seserį Habsburgaitę, ta-
+    čiau su ja negyveno; ji išvažiavo į Vieną. Negaudamas persisky-
+    rimo, jis nebegalėjo vesti.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -54,30 +57,9 @@ Mat, imperatorius norėjo susilpninti Zigmantą, kurs ypatingai rūpinosi, kad H
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Austrų Habsburgai po Zigmanto Augusto mirties ypač siekė Lietuvos ir Lenkijos sostų.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Visi laukė anksti pasenusio Zigmanto Au-
-    gusto mirties. Visi kaimynai valdovai ruošėsi po jo mirties įžengti į Lietuvos ir Lenkijos sostus, o ypač tuo rūpinosi Aus-
-    trų Habsburgai ir caras Jonas IV.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Barborai mirus, Zigmantas Augustas vedė pirmosios žmonos seserį Habsburgaitę, bet su ja negyveno.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Barborai mirus, jis vedė pirmosios žmonos seserį Habsburgaitę, ta-
-    čiau su ja negyveno; ji išvažiavo į Vieną.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XVI amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

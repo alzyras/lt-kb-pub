@@ -19,13 +19,13 @@ Mažvydas išleido 1547 m. pirmąjį lietuvišką katekizmą ir kai kurias giesm
 
 ## Teiginiai
 - t-001
-  teiginys: 'Rapagelionis vertė dalį giesmių, kurias Mažvydas išleido kartu su 1547 m. pirmuoju lietuvišku katekizmu.'
+  teiginys: 'Stanislovas Rapagelionis vertė dalį giesmių, kurias Mažvydas paskelbė greta 1547 m. pirmojo lietuviško katekizmo.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Rapagelionis rašė tikybines knygas Mažojoje Lietuvoje ir buvo tarp autorių, kurių daugelis kilo iš Didžiosios Lietuvos.'
+  teiginys: 'Stanislovas Rapagelionis buvo tarp lietuvių, rašiusių tikybines knygas Mažojoje Lietuvoje.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -33,10 +33,12 @@ Mažvydas išleido 1547 m. pirmąjį lietuvišką katekizmą ir kai kurias giesm
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Rapagelionis rašė tikybines knygas Mažojoje Lietuvoje ir buvo tarp autorių, kurių daugelis kilo iš Didžiosios Lietuvos.'
+  santrauka: 'Stanislovas Rapagelionis buvo tarp lietuvių, rašiusių tikybines knygas Mažojoje Lietuvoje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Jas
+    Tuo pat metu protestantizmas labai uoliai buvo platinamas
+    ir Mažojoje Lietuvoje. Ten buvo pradėta rūpintis liaudim, ku-
+    riai buvo spausdinamos lietuviškos protestantiškos knygos. Jas
     rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų
     lietuvių; daugelis jų buvo kilę iš Didžiosios Lietuvos, kur irgi
     buvo skleidę protestantizmą.
@@ -48,7 +50,7 @@ Mažvydas išleido 1547 m. pirmąjį lietuvišką katekizmą ir kai kurias giesm
   pagrindžia:
     - t-002
 - c-002
-  santrauka: 'Rapagelionis vertė dalį giesmių, kurias Mažvydas išleido kartu su 1547 m. pirmuoju lietuvišku katekizmu.'
+  santrauka: 'Stanislovas Rapagelionis vertė dalį giesmių, kurias Mažvydas paskelbė greta 1547 m. pirmojo lietuviško katekizmo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Mažvydas išleido 1547 m. pirmąjį lietuvišką katekizmą ir

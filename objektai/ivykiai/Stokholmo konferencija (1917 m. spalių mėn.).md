@@ -42,6 +42,8 @@ Nenurodyta
   santrauka: '1917 m. spalį antroji Stokholmo konferencija pritarė Vilniaus konferencijos programai ir Lietuvos Tarybą pripažino visos lietuvių tautos atstovybe.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Stokholme buvo Rusijos ir Šveica-
+    rijos lietuvių suvažiavimas Lietuvos klausimams populiarizuoti.
     Vėliau, 1917 m. spalių mėn., antroji Stokholmo konferencija pri-
     tarė Vilniaus konferencijos programai ir pripažino Lietuvos Ta-
     rybą visos lietuvių tautos atstovybe.

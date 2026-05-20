@@ -38,7 +38,7 @@ Formulė perteikia Maskvos didžiojo kunigaikščio grasinimą Algirdui, perduot
 
 ## Teiginiai
 - t-002
-  teiginys: 'Ši frazė yra Maskvos didžiojo kunigaikščio grasinimo formulė Algirdui.'
+  teiginys: 'Maskvos didysis kunigaikštis per pasiuntinį perdavė Algirdui grasinimą būti jo žemėje po pavasario ir vasaros.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -46,7 +46,7 @@ Formulė perteikia Maskvos didžiojo kunigaikščio grasinimą Algirdui, perduot
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Ši frazė yra Maskvos didžiojo kunigaikščio grasinimo formulė Algirdui.'
+  santrauka: 'Maskvos didysis kunigaikštis per pasiuntinį perdavė Algirdui grasinimą būti jo žemėje po pavasario ir vasaros.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     „Lietuvos metraštis“ (Bychovco kronika) (rašytas xvI a. pirmojoje pusėje) pasakoja,

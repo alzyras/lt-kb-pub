@@ -9,6 +9,23 @@ aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
+datos:
+  - '1350 m.'
+  - '1381 m.'
+  - '1430 m.'
+  - '1930 m.'
+  - '1978 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+  - 'XV'
+  - 'XX'
+  - 'XXI'
+date_start: '1350'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -23,22 +40,31 @@ Vaidotas šiame įraše atskirtas kaip Butauto sūnus, 1381 m. pabėgęs iš Kę
 - t-003
   teiginys: 'Vaidotas buvo Butauto sūnus.'
   pagrindžia:
-    - c-002
+    - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-004
   teiginys: 'Vaidotas 1381 m., būdamas apie šešiolikos metų, pabėgo iš senelio Kęstučio globos į Prūsus ir vyko pas ciesorių priimti krikšto.'
+  pagrindžia:
+    - c-001
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-005
+  teiginys: 'Vaidotas 1381 m., būdamas šešiolikos metų, pabėgo iš senelio Kęstučio globos į Prūsus ir vyko pas ciesorių priimti krikšto.'
   pagrindžia:
     - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-002
+- c-001
   santrauka: 'Vaidotas buvo Butauto sūnus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Bu­
+    25 d. išbėgo Karaliaučiun ir apsikrikštijo
+    Henriko vardu. Nuvykęs Vakarų Europon buvo Romos cieso­
+    riaus Karolio IV pakeltas imperijos kunigaikščiu ir gyveno jo dvare (1369
+    —81), paprastai vadinamas „lietuvių karaliumi Henriku”. Bu­
     tauto sūnus Vaidotas, turėdamas vos šešioliką metų, taip pat
     pabėgo iš savo senelio Kęstučio globos į Prūsus (1381 m.), iš kur
     nuvyko pas ciesorių, norėdamas priimti krikštą^2 ).
@@ -50,3 +76,31 @@ Vaidotas šiame įraše atskirtas kaip Butauto sūnus, 1381 m. pabėgęs iš Kę
   pagrindžia:
     - t-003
     - t-004
+- c-002
+  santrauka: 'Vaidotas 1381 m., būdamas šešiolikos metų, pabėgo iš senelio Kęstučio globos į Prūsus ir vyko pas ciesorių priimti krikšto.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Nuvykęs Vakarų Europon buvo Romos cieso­
+    riaus Karolio IV pakeltas imperijos kunigaikščiu ir gyveno jo dvare (1369
+    —81), paprastai vadinamas „lietuvių karaliumi Henriku”. Bu­
+    tauto sūnus Vaidotas, turėdamas vos šešioliką metų, taip pat
+    pabėgo iš savo senelio Kęstučio globos į Prūsus (1381 m.), iš kur
+    nuvyko pas ciesorių, norėdamas priimti krikštą^2 ). Kitus Kęstu­
+    čio sūnus mes vėliau minėsime sąryšyje su politiniais įvykiais.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-005
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
+### Susiję objektai
+- [[objektai/ivykiai/Vaidoto pabėgimas į Prūsus]]

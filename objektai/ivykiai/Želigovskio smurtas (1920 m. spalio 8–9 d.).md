@@ -45,7 +45,7 @@ Nenurodyta
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: 'Lenkija aiškino, kad generolas Želigovskis savavališkai užėmė Vilnių, bet šaltinis šį pasakojimą vadina pramanu.'
+  teiginys: 'Lenkija teigė, kad generolas Želigovskis savavališkai užėmė Vilnių, tačiau šaltinis šį aiškinimą vadino pramanu.'
   pagrindžia:
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -56,6 +56,9 @@ Nenurodyta
   santrauka: 'Per derybas lenkų karo jėgos, nepaisydamos paliaubų, veržėsi Vilniaus link.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Pati sutartis
+    turėjo galioti, ligi visi ginčo klausimai tarp Lietuvos ir Lenkijos
+    bus galutinai išspręsti.
     **Želigovskio smurtas.** Jau derybų metu lenkų karo jėgos,
     nepaisydamos paliaubų, veržėsi Vilniaus link, tarytum ten būtų
     buvę rusų bolševikų.
@@ -70,10 +73,15 @@ Nenurodyta
   santrauka: 'Želigovskio smurtas sulaužė Suvalkų sutartį praėjus dviem dienoms po jos pasirašymo ir sutrikdė Lietuvos ir Lenkijos santykių tvarkymą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tuo
+    Suvalkų sutarties parašai.
+    govskio vedamos, puolė Vilnių nuo Lydos pusės ir jį užėmė
+    (9 d.), lietuviams visai to nelaukiant ir neturint ten pakankamai
+    jėgų atsilaikyti (lietuvių Vilniuje tebuvo vos 3 batalijonai). Tuo
     būdu Suvalkų sutartis, tik dvi dienos po pasirašymo, buvo su-
     laužyta, ir tas apgaulės ir smurto žygis sutrukdė visą tolesnį
-    Lietuvių ir Lenkų santykių tvarkymą.
+    Lietuvių ir Lenkų santykių tvarkymą. Lenkija, nebegalėdama
+    niekuo pateisinti tokio savo elgesio, pramanė „sukilimo" pa-
+    saką.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -82,7 +90,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Lenkija aiškino, kad generolas Želigovskis savavališkai užėmė Vilnių, bet šaltinis šį pasakojimą vadina pramanu.'
+  santrauka: 'Lenkija teigė, kad generolas Želigovskis savavališkai užėmė Vilnių, tačiau šaltinis šį aiškinimą vadino pramanu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lenkija, nebegalėdama

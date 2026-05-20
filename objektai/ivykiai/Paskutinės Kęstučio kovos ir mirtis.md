@@ -33,44 +33,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kalėjime; Kęstutį netrukus išvežė į Krėvos pilį, o Vytautą paliko Vilniuje.'
+  teiginys: 'Kęstučio lavonas buvo atvežtas iš Krėvos į Vilnių, iškilmingai palaidotas ir sudegintas su jo mėgtais daiktais, ginklais bei gyvuliais.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Kęstučio lavonas buvo atvežtas iš Krėvos į Vilnių, iškilmingai palaidotas ir sudegintas ant laužo su jo mėgtais daiktais.'
-  pagrindžia:
-    - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kalėjime; Kęstutį netrukus išvežė į Krėvos pilį, o Vytautą paliko Vilniuje.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Vytautas tuojau pra-
-    nešė tėvui apie įvykius, ir Kęstutis parsiskubino atgal. Surinkę
-    jėgų, Kęstutis su Vytautu atvyko prie Trakų, kur buvo ir
-    Jogaila su Skirgaila; čia taip pat atvyko ir kryžiuočių ka-
-    riuomenė. Dėl kažin kokių priežasčių mūšio neįvyko. Skir-
-    gailai pasiūlius ir Vytautui pritarus, Kęstutis su Vytautu nu-
-    vyko pas Jogailą derybų. Tas pakvietė juos į Vilnių, kur abudu
-    suėmė, nors kviesdamas Skirgaila buvo davęs žodį, kad jiems
-    nieko blogo neatsitiksią. Kęstučio ir Vytauto kariuomenė buvo
-    paleista, o jie patys buvo uždaryti kalėjime; Kęstutį netrukus
-    išvežė į Krėvos pilį, o Vytautą paliko Vilniuje. Krėvoje iška-
-    lėjęs 5 dienas, Kęstutis buvo nužudytas.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Kęstučio lavonas buvo atvežtas iš Krėvos į Vilnių, iškilmingai palaidotas ir sudegintas ant laužo su jo mėgtais daiktais.'
+  santrauka: 'Kęstučio lavonas buvo atvežtas iš Krėvos į Vilnių, iškilmingai palaidotas ir sudegintas su jo mėgtais daiktais, ginklais bei gyvuliais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kęstučio lavonas iš Krėvos buvo atvežtas į Vilnių ir iškil-
@@ -83,4 +54,4 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-001

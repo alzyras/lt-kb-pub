@@ -30,7 +30,9 @@ tags:
   santrauka: '1618 m. mirus Albrechto sūnui, Prūsai atiteko jo giminaičiams, Brandenburgo elektoriams.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    1618 m. mirus Albrechto
+    Tuo būdu
+    buvusi katalikybės atrama rytuose, ordino valstybė, pirmoji priėmė
+    protestantizmą ir atsisakė nuo katalikybės. 1618 m. mirus Albrechto
     sūnui, Prūsai atiteko jo giminaičiams, Brandenburgo elektoriams.
     Vėliau iš tų dviejų jungtinių kunigaikštysčių išaugo galinga Prūsų
     karalystė (nuo 1701 m.), kuri pagaliau atsistojo visos Vokietijos

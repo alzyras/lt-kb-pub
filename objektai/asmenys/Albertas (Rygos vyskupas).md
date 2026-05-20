@@ -25,7 +25,7 @@ Albertas buvo Rygos vyskupas ir vienas Livonijos vokiečių valdžios kūrėjų.
 
 ## Teiginiai
 - t-001
-  teiginys: '1209 m. Rygos vyskupas Albertas nugalėjo Jersikos karalių Visvaldį.'
+  teiginys: 'Rygos vyskupas Albertas nugalėjo Visvaldį.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -33,7 +33,7 @@ Albertas buvo Rygos vyskupas ir vienas Livonijos vokiečių valdžios kūrėjų.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1209 m. Rygos vyskupas Albertas nugalėjo Jersikos karalių Visvaldį.'
+  santrauka: 'Rygos vyskupas Albertas nugalėjo Visvaldį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Jotvingiai aw MI Visvaldis buvo nugalėtas

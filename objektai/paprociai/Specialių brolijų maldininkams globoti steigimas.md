@@ -80,7 +80,10 @@ Nenurodyta
   santrauka: 'Naujos karinės grėsmės sąlygomis globos brolijos virto kariaujančiais riterių ordinais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Bet kai prasidėjo nauji karai, o ypač kai Jeruzalę vėl užėmė
+    Todėl visos didesniosios valstybės ten ėmė steigti spe-
+    cialias brolijas savo maldininkams globoti. Iš pradžių tokios brolijos
+    globojo ligonius ir saugojo, kad maldininkams nieko blogo neatsitiktų
+    kelyje. Bet kai prasidėjo nauji karai, o ypač kai Jeruzalę vėl užėmė
     turkai ir kai buvo pradėta rūpintis vėl ją atgauti, — tokios brolijos
     virto kariaujančiųjų riterių ordinais.
   citata_rodoma: ""

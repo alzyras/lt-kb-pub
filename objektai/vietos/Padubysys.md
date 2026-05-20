@@ -31,7 +31,8 @@ Nebuvo aplenktos nė mokyklos: Kalvarijos, Padubysio ir Kolainių mokyklos buvo 
   citata_originali: |
     Nebuvo aplenktos nė mokyklos: Kalvarijos, Padubysio ir
     Kolainių mokyklos buvo uždarytos, o Kražių mokykla perkel-
-    ta į Kauną.
+    ta į Kauną. Uždarytų mokyklų vietoje veltui buvo bandomos
+    kurti rusiškos mokyklos: jos neturėdavo mokinių.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

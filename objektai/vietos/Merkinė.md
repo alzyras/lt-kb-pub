@@ -12,7 +12,30 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 susije_irasai:
-  - '[[Merkinės puolimas (1945 m. gruodžio 15 d.)]]'
+datos:
+  - '1350 m.'
+  - '1430 m.'
+  - '1918 m.'
+  - '1919 m.'
+  - '1920 m.'
+  - '1930 m.'
+  - '1936 m.'
+  - '1945 m.'
+  - '1949 m.'
+  - '1957 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+  - 'modernioji Lietuva'
+amziai:
+  - 'XIV'
+  - 'XV'
+  - 'XX'
+  - 'XXI'
+date_start: '1350'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - sutartis
@@ -25,27 +48,28 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
 
 ## Teiginiai
 - t-007
-  teiginys: 'Jogaila aplankė Merkinę, kur po tikėjimo tiesų pamokymo buvo krikštijami vietiniai ir apylinkių žmonės.'
+  teiginys: '1920 m. spalio 7 d. Suvalkų sutartis Merkinę paliko Lenkijos pusėje nustatytos demarkacijos linijos atžvilgiu.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-008
-  teiginys: 'Keliautojai iš Merkinės Nemunu vyko į Kauną kartu su kunigijos būriu ir diduomene.'
-  pagrindžia:
-    - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Jogaila aplankė Merkinę, kur po tikėjimo tiesų pamokymo buvo krikštijami vietiniai ir apylinkių žmonės.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: '1920 m. spalio 7 d. Suvalkų sutartis Merkinę paliko Lenkijos pusėje nustatytos demarkacijos linijos atžvilgiu.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Čia jis aplankė didesnius Lietuvos miestelius,
-    kaip Ašmeną, Lydą, Krėvę, Eišiškius, Merkinę, Gardiną ir k.,
-    kur buvo sukviečiami vietiniai ir iš apylinkių žmonės ir, pamo­
-    kius juos tikėjimo tiesų, krikštijami.
+    Lietuvos vyriausybė, ir šį kartą
+    tikėdamasi geruoju susitarti, sutiko.
+    Suvalkų derybos pasibaigė susitarimu, kurį abi ša-
+    lys pasirašė 1920 metų spalių mėn. 7 d. Ta sutartis, nespręs-
+    dama sienų klausimo, nustatė demarkacijos liniją Suvalkų kraš-
+    te, kaip ją buvo nustačiusi 1919 metų gruodžio 8 d. Aukščiau-
+    sioji Santarvės Taryba (Kerzono linija); bet toliau už Nemuno
+    — visą Gardino apskritį ligi Merkinės, Varėnos ir Bastūnų
+
+    (prie Lydos—Vilniaus geležinkelio) sutartis paliko Lenkų pu-
+    sėje.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -53,26 +77,17 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-007
-- c-002
-  santrauka: 'Keliautojai iš Merkinės Nemunu vyko į Kauną kartu su kunigijos būriu ir diduomene.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­
-    gijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir
-    ja iki Aukokalnio, buvusio ties dabartine Betygala.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-008
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
 ### Susiję objektai
 - [[objektai/vietos/Medininkų pilis]]
-- [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.)]]
 - [[objektai/vietos/Ukmergė]]
 - [[objektai/vietos/Varėna]]
-- [[objektai/vietos/Betygala]]
-- [[objektai/vietos/Dubysa]]
+- [[objektai/grupes/Aukščiausioji Santarvininkių Taryba]]
+- [[objektai/zodynas/demarkacijos linija]]

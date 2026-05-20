@@ -77,9 +77,6 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/kronika]]
-
 ### Susiję objektai
 - [[objektai/paprociai/Kandidatas 38 Lenkų kalbos, kultūros ir gyvensenos perėmimas LDK elite]]
 - [[objektai/posakiai/„Nors lietuviu esu gimęs ir lietuviu teks man mirti...“]]

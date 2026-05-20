@@ -19,7 +19,3 @@ Vilnius: Spaudos departamentas, 1991; A.
 
 ## Teiginiai
 ## Reikšmingi paminėjimai
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/dokumentas]]

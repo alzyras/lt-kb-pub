@@ -49,6 +49,11 @@ Nenurodyta
   santrauka: 'Coaequatio iurium šūkiu siekta suvienodinti Lietuvos ir Lenkijos ministerių teises.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Buvo pa-
+    leistas šūkis suvaržyti hetmono teisę iš vienos vietos į kitą
+    kiloti kariuomenę ir suvaržyti iždininko teisę savo nuožiūra
+    valdyti pinigus. Ta pačia proga dar buvo reikalaujama susiau-
+    rinti kanclerio teises, atimant iš jo teismo sprendimų priežiūrą.
     Visa tai ėjo Lietuvos ir Lenkijos teisių suly-
     ginimo _(coaequatio iurium)_ šūkiu, nes tuo buvo norima su-
     vienodinti Lietuvos ir Lenkijos ministerių teises.
@@ -63,7 +68,8 @@ Nenurodyta
   santrauka: 'Coaequatio iurium įstatymas buvo priimtas 1697 m. elekciniame seime, Sapiegoms nepajėgus apginti ministerių teisių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Kancle-
+    Juo tada buvęs Sapiegų priešas D. Radvila bemeilijo atsisakyti
+    nuo tų savo teisių, kad tik būtų suvaržyti Sapiegos. Kancle-
     riui nesipriešinant, vieni Sapiegos nepajėgė apginti ministerių
     teisių, ir _coaequatio iurium_ įstatymas buvo priimtas elekci-
     niame seime (1697 m.). Tačiau Sapiegos, nenorėdami išsiža-

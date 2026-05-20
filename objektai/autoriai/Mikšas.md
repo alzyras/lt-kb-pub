@@ -55,6 +55,14 @@ Lietuvos veikėjas Mikšas, paskui dr. J. „Aušra" iš pradžių buvo spausdin
   santrauka: 'Mikšas Tilžėje įsteigė spaustuvę, kurioje vėliau buvo spausdinama „Aušra“.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Bet
+    kadangi jis tuo metu gyveno užsieny, daugiausia Bulgarijoje
+    (1884—1905 m.), tai laikraštį tvarkė kiti, būtent Maž. Lietuvos
+    veikėjas Mikšas, pa-
+    skui dr. J. Šliūpas,
+    o kai šį vokiečių valdžia
+    privertė išvažiuoti į
+    Ameriką, — vėl Mikšas.
     „Aušra" iš pradžių bu-
     vo spausdinama Ragai-
     nėje, o paskui Tilžėje,

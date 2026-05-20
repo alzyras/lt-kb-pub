@@ -30,7 +30,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: '1918 m. kovo 23 d. Tarybos delegacija Vokietijos kancleriui Hertlingui pranešė vasario 16 d. nepriklausomybės paskelbimą.'
+  teiginys: '1918 m. kovo 23 d. kaizeris Vilhelmas II pasirašė Lietuvos nepriklausomybės pripažinimo aktą, susiedamas jį su artimais santykiais su Vokietija.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -38,7 +38,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1918 m. kovo 23 d. Tarybos delegacija Vokietijos kancleriui Hertlingui pranešė vasario 16 d. nepriklausomybės paskelbimą.'
+  santrauka: '1918 m. kovo 23 d. kaizeris Vilhelmas II pasirašė Lietuvos nepriklausomybės pripažinimo aktą, susiedamas jį su artimais santykiais su Vokietija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kovo mėn.
@@ -58,8 +58,5 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/aktas]]
-
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]

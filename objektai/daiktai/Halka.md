@@ -8,17 +8,25 @@ saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 bukle: juodrastis
 laikotarpis: ''
-datos:
-  - '1428 m.'
-periodas: viduramziai
-periodo_grupes: []
-amziai:
-  - 'XV'
-date_start: '1428'
-date_end: '1428'
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1350 m.'
+  - '1428 m.'
+  - '1430 m.'
+  - '1930 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+  - 'XV'
+  - 'XX'
+  - 'XXI'
+date_start: '1350'
+date_end: '2026'
 patikimumas: 'aukštas'
 tags:
   - ginklas
@@ -56,13 +64,21 @@ Nenurodyta
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: 'Halka buvo didelė kanuolė, kurią vos patraukdavo 20 porų arklių.'
+  pagrindžia:
+    - c-002
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Halka buvo didelė patranka, kurią vos patraukdavo 20 porų arklių.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Kariuomenė buvo labai gerai ginkluota;
+    1428 metų vasarą jis surengė į Naugardą di­
+    delį žygį, pritraukdamas į jį daug kunigaikščių ir kariuomenės
+    iš Lenkijos ir Rusijos. Kariuomenė buvo labai gerai ginkluota;
     viena didelė kanuolė, vadinama Halka, buvo vos patraukiama
     20 porų arklių. Tačiau žygiuoti į Naugardą buvo nelengva, nes
     vasarą trukdė sunkiai perbrendamos pelkės ir miškai, kuriuos
@@ -75,7 +91,27 @@ Nenurodyta
   pagrindžia:
     - t-003
     - t-004
+- c-002
+  santrauka: 'Halka buvo didelė kanuolė, kurią vos patraukdavo 20 porų arklių.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Kariuomenė buvo labai gerai ginkluota;
+    viena didelė kanuolė, vadinama Halka, buvo vos patraukiama
+    20 porų arklių. Tačiau žygiuoti į Naugardą buvo nelengva, nes
+    vasarą trukdė sunkiai perbrendamos pelkės ir miškai, kuriuos
+    kirto ir klojo kelią. Šias gamtos kliūtis Vytautas nugalėjo, bet
+    pats Naugardas liko neįveiktas, nors ir buvo apsiaustas.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Laikotarpiai
+- [[laikotarpiai/XIV amžius]]
 - [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

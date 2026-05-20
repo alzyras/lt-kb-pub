@@ -10,15 +10,22 @@ aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 laikotarpis: ''
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1368 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodo_grupes:
+  - 'LDK'
+  - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XIV'
+  - 'XXI'
+date_start: '1368'
+date_end: '2026'
 patikimumas: 'aukštas'
 tags: []
 ---
@@ -38,50 +45,8 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
 - chunk_0026: antrinės bibliografinės nuorodos į Pabaisko mūšį, drąsią ataką ir grobio užgrobimą.
 
 ## Teiginiai
-- t-005
-  teiginys: 'Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis Dmitrijus pats sulaužė taiką, atsiųsdamas pas Algirdą „savo pasiuntinį su karo paskelbimu“.'
-  pagrindžia:
-    - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-006
-  teiginys: '„Lietuvos metraštis (Bychovco kronika)“ šiame veikale cituojamas chunk_0026: antrinės bibliografinės nuorodos į pabaisko mūšį, drąsią ataką ir grobio užgrobimą.'
-  pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
+
 
 ## Reikšmingi paminėjimai
 
 ## Bibliografiniai įrodymai
-- c-001
-  santrauka: 'Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis Dmitrijus pats sulaužė taiką, atsiųsdamas pas Algirdą „savo pasiuntinį su karo paskelbimu“.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Lietuvos metraštis (Bychovco kronika)
-    teigia, kad Maskvos didysis kunigaikš-
-    tis Dmitrijus pats sulaužė taiką, atsiųsda-
-    mas pas Algirdą „savo pasiuntinį su karo
-    paskelbimu“.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-005
-- c-002
-  santrauka: '„Lietuvos metraštis (Bychovco kronika)“ šiame veikale cituojamas chunk_0026: antrinės bibliografinės nuorodos į pabaisko mūšį, drąsią ataką ir grobio užgrobimą.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    „Lietuvos metraštis“ (Bychovco kronika) (rašytas xvI a. pirmojoje pusėje) pasakoja,
-    kaip Maskvos didysis kunigaikštis Lietuvos valdovui Algirdui per pasiuntinį perduoda
-    ugnies ir kardą, kas turėjo reikšti: „būsiu tavo žemėje po skaistaus pavasario, po ty-
-    kios vasaros“.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-006

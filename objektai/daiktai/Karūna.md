@@ -11,7 +11,12 @@ saltiniai:
 datos:
   - '1251 m.'
   - '1253 m.'
+  - '1341 m.'
   - '1350 m.'
+  - '1398 m.'
+  - '1401 m.'
+  - '1409 m.'
+  - '1429 m.'
   - '1430 m.'
   - '1930 m.'
   - '1936 m.'
@@ -55,223 +60,88 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Todėl jis grąžinąs karūną, kad ji būtų atiduota daugiau jėgų turinčiam naujajam karaliui.'
+- t-019
+  teiginys: 'Vytautas priminė, kad buvo pažadėjęs laikytis Jogailos karalystės ir karūnos gyventojų bei ginti juos nuo priešų.'
   pagrindžia:
     - c-001
-- t-002
-  teiginys: 'Jis jau paskyrė karūnacijos terminą (rugsėjo 8 d.), susikvietė svečių ir laukė imperatoriaus atsiunčiamos žadėtosios karūnos su karūnacijos dokumentais.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-020
+  teiginys: 'Pasakęs tokį ilgą ir griaudingą pamokslą, Olesnickis pa­ siūlė Vytautui Jogailos karūną^2 ).'
   pagrindžia:
     - c-002
-- t-003
-  teiginys: 'Lenkai dar visaip bandė sutrukdyti Vytauto sumanymą, prašė Vytautą nors nesiskubinti ir buvo pasiūlę jam įteikti net Lenkų karūną (tuo būdu Jogailai būtų tekę atsisakyti nuo sosto).'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-021
+  teiginys: 'Cigala ir Rothas ragino Vytautą karūnuotis ir patarė kaldinti karūnas Vilniuje.'
   pagrindžia:
     - c-003
-- t-004
-  teiginys: 'Tik tada, kai jis panoro Lietuvos savarankiškumą apdrausti karališkąja karūna, lenkai pakėlė didžiausią triukšmą.'
-  pagrindžia:
-    - c-004
-- t-005
-  teiginys: 'Popiežius Mindaugui suteikė karaliaus vainiką, o Livonijos ordino pagalba išrūpinta karūna buvo uždėta 1253 m.'
-  pagrindžia:
-    - c-013
-    - c-005
-    - c-006
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-007
-  teiginys: 'Kęstučiui po krikšto buvo žadėtas karališkas titulas, karaliaus ženklai ir karaliaus karūna.'
-  pagrindžia:
-    - c-009
-    - c-010
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-008
-  teiginys: 'Vytautui vežti vainikai buvo sulaikyti, todėl 1430 m. rugsėjo 8 d. numatytas vainikavimas susitrukdė.'
-  pagrindžia:
-    - c-011
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-009
-  teiginys: 'Vytautas buvo priėmęs husitų čekų siūlomą karaliaus karūną.'
-  pagrindžia:
-    - c-012
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Todėl jis grąžinąs karūną, kad ji būtų atiduota daugiau jėgų turinčiam naujajam karaliui.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: 'Vytautas priminė, kad buvo pažadėjęs laikytis Jogailos karalystės ir karūnos gyventojų bei ginti juos nuo priešų.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Graudinga buvo 1668 m. seimo scena, kai karalius įteikė atsisa-
-    kymo aktą ir pasakė paskutinę kalbą. Verkė ir jis pats ir visas
-    seimas. Savo kalboje jis sakėsi esąs senatvės prislėgtas, karų ir
-    vidaus netvarkos nuvargintas. Todėl jis grąžinąs karūną, kad ji
-    būtų atiduota daugiau jėgų turinčiam naujajam karaliui.
-  citata_rodoma: ''
+    Pirmiausia susipažinsim su Vytauto duotu dokumentu^2 ).
+    Vytautas pradžioj savo akto primena, kad kai lenkai pasi­
+    kvietė į savo sostą Jogailą, tada jis jam kaip karaliui Vladislovui,
+    lenkų Karūnai ir tos karalystės didikams gryna mintimi, neatšau­
+    kiamu noru, nei priverstas, nei suklaidintas, abiem pusėm sutin­
+    kant, tvirtai bei laisvai prižadėjo ir tai dokumentu patvirtino, kad
+    niekados Jogailos karalystės ir karūnos gyventojų neapleis, bet
+    visados visa galybe ir jėga jų laikysis ir juos nuo priešų gins.
+    Ir dabar, kada Jogaila jam atiduoda aukščiausią savo valdžią
+    iki gyvos galvos (ad tempora vite nostre) visose Lietuvos kuni­
+    gaikštijos žemėse, jis, norėdamas dar labiau gerbti jį, karūną,
+
+    (^1) ) a) Vytauto dokumento, duoto 1401 m. sausio 18 d. Vilniuj, yra išli­
+    kęs iki mūsų laikų originalas (kun. Cartoriškių archyve).
+    b) Lietuvių bajorų dokumentas išduotas tais pačiais metais ir tą pačią
+    dieną Vilniuj; originalas žuvęs.
+    c) Lenkų karališkos tarybos dokumento, duoto 1401 m. kovo 11 d. Ra­
+    dome, išlikęs originalas su 49 antspaudomis, yra Radvilų archyve Niesvyžiuj.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-019
 - c-002
-  santrauka: 'Jis jau paskyrė karūnacijos terminą (rugsėjo 8 d.), susikvietė svečių ir laukė imperatoriaus atsiunčiamos žadėtosios karūnos su karūnacijos dokumentais.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: 'Pasakęs tokį ilgą ir griaudingą pamokslą, Olesnickis pa­ siūlė Vytautui Jogailos karūną^2 ).'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Buvo paruoštos betgi ir Vytauto jėgos. Jis jau paskyrė karūnaci-
-    jos terminą (rugsėjo 8 d.), susikvietė svečių ir laukė imperatoriaus
-    atsiunčiamos žadėtosios karūnos su karūnacijos dokumentais.
-  citata_rodoma: ''
+    Pasakęs tokį ilgą ir griaudingą pamokslą, Olesnickis pa­
+    siūlė Vytautui Jogailos karūną^2 ). Toks sumanymas, matyt, bu­
+    vo priimtas paskutiniame Sandomiriaus suvažiavime. Ar tas
+    sumanymas buvo priimtas pritariant Jogailai, kyla abejonių.
+  citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-020
 - c-003
-  santrauka: 'Lenkai dar visaip bandė sutrukdyti Vytauto sumanymą, prašė Vytautą nors nesiskubinti ir buvo pasiūlę jam įteikti net Lenkų karūną (tuo būdu Jogailai būtų tekę atsisakyti nuo sosto).'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: 'Cigala ir Rothas ragino Vytautą karūnuotis ir patarė kaldinti karūnas Vilniuje.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Lenkai dar visaip bandė sutrukdyti Vytauto sumanymą,
-    prašė Vytautą nors nesiskubinti ir buvo pasiūlę jam įteikti net
-    Lenkų karūną (tuo būdu Jogailai būtų tekę atsisakyti nuo sosto).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Tik tada, kai jis panoro Lietuvos savarankiškumą apdrausti karališkąja karūna, lenkai pakėlė didžiausią triukšmą.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tik tada, kai jis panoro
-    Lietuvos savarankiškumą apdrausti karališkąja karūna, lenkai
-    pakėlė didžiausią triukšmą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
-- c-005
-  santrauka: Popiežius Mindaugui suteikė karaliaus vainiką.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tiesa,
-    popiežius palankiai sutiko Mindaugo žygį in suteikė jam karaliaus
-    vainiką.
+    Čia dar tebebuvo ir Cigala ir Rothas, kurie nesi­
+    liovė Vytautą įkalbinėt karūnuotis, patardami kaldinti Vilniuj
+    karūnas ir jomis karūnuotis. Tą ir pats Zigmantas esą patvirtintų.
+    Bet atvykusi lenkų delegacija su Jogaila priešaky ir bus tą pata­
+    rimą sutrukdžiusi.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-005
-- c-006
-  santrauka: Livonijos ordino pagalba išrūpinta karūna Mindaugui uždėta 1253 m.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Livonijos ordino pagalba išrūpintąją karūną užsidėti Mindaugui
-    sekėsi šiek tiek lengviau, bet ir tai užtruko dvejus metus (1253).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-005
-- c-009
-  santrauka: Kęstučiui buvo žadėtas karališkas titulas ir karaliaus ženklai.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Kęstučiui ir jo įpėdiniams po krikšto popiežius žadėjo suteikti ka­
-    rališką titulą ir « papuošti karaliaus ženklais »^5.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-007
-- c-010
-  santrauka: Kęstučiui turėjo būti išrūpinta karaliaus karūna.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Darydamas taiką su Vengrijos karaliumi Liudviku Anjou,
-    Kęstutis žadėjo jam pagalbą ir sutiko pats su savo broliais ir
-    valdiniais priimti krikštą. Už tai Liudvikas jam turėjo iš popie­
-    žiaus išrūpinti karaliaus karūną.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-007
-- c-011
-  santrauka: 'Vytautui vežti vainikai buvo sulaikyti, todėl 1430 m. rugsėjo 8 d. numatytas vainikavimas susitrukdė.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    laukė IX.8 d. iškilmės ir Vytauto triumfo. Lenkai dar labiau su­
-    stiprino sargybas, kad nepravažiuotų delegacija, kuri vežė vainikus.
-    Išgirdę apie pasienio trukdymus, tie pasiuntiniai su vainikais grįžo
-    Vokietijon. Vainikavimas susitrukdė. Iš Švč. Mergelės šventės
-    IX.8 d. vainikavimo data buvo perkelta į šv. Mykolą (IX.29), bet
-    ir tada vainikų vis nebuvo. Svečiai ėmė skirstytis namo, tačiau
-    Vytautas dar nebuvo nustojęs vilties tapti karaliumi. Dar X.13 d.,
-    t. y. lygiai 14 dienų prieš savo mirtį, rašydamas Zigmantui, Vytau­
-    tas priekaištavo, kad tas neišpildęs pažadų ir laiku neatsiuntęs
-    vainikų. Tuo tarpu Jogaila drauge su Olesnickiu atvyko į Vilnių.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-008
-- c-012
-  santrauka: Vytautas buvo priėmęs husitų čekų siūlomą karaliaus karūną.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Vytautas buvo taip pat pirmasis Lietuvos valdovas, kuris
-    susirišo labiau su universalinėmis jėgomis. Jis turėjo daug santy­
-    kių, kaip rodo ir gausi korespondencija, su imperatoriumi ir popie­
-    žiumi. Norėdamas « atmokėti» imp. Zigmantui už Breslavo spren­
-    dimą^7 , už Žemaičių priskyrimą ordinui, Vytautas buvo net priė­
-    męs jam husitų čekų siūlomą karaliaus karūną, ir ten buvo nu­
-    siuntęs keletui metų Žygimantą Kaributą.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-009
-- c-013
-  santrauka: Karūna papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tiesa,
-    popiežius palankiai sutiko Mindaugo žygį in suteikė jam karaliaus
-    vainiką. Bet siekdami savų tikslų, Livonijos ordinas ir Rygos arki­
-    vyskupas kliudė jam tapti nepriklausomu.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
-  pagrindžia:
-    - t-005
+    - t-021
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/dokumentas]]
-
 ### Laikotarpiai
 - [[laikotarpiai/XIII amžius]]
 - [[laikotarpiai/XIV amžius]]
@@ -281,3 +151,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/karūnacija karūnuotis]]
+- [[objektai/ivykiai/Sandomiro pasitarimas dėl Vytauto karūnacijos (1429 m. rugsėjo 8 d.)]]

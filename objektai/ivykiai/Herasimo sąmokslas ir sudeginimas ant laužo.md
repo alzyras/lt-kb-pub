@@ -43,7 +43,8 @@ Nenurodyta
   santrauka: 'Herasimas siekė sukelti maištą Smolenske, bet jo sąmokslas buvo susektas ir Švitrigailos įsakymu jis sudegintas ant laužo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Švitrigailos didelis priešas (Zigmanto šalininkas),
+    Tačiau Švitrigailai tą darbą sutrukdė Zigman-
+    tas ir lenkai. Švitrigailos didelis priešas (Zigmanto šalininkas),
     Vilniaus vyskupas Motiejus slapta prikalbėjo Smolenske gyve-
     nantį Herasimą sukelti maištą ir pavesti Zigmanto valdžiai visą
     Smolensko žemę: tuomet, esą, unijos reikalais imsiąsis rūpintis

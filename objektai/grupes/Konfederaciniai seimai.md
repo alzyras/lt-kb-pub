@@ -30,7 +30,7 @@ Kadangi seimo iširimas dažnai grėsdavo valstybei dideliais pavojais, tai prie
   santrauka: 'Konfederaciniai seimai buvo skirti iširusių seimų keliamam pavojui valstybei sumažinti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Kadangi seimo iširimas dažnai grėsdavo vals-
+    nieko nenuveikę. Kadangi seimo iširimas dažnai grėsdavo vals-
     tybei dideliais pavojais, tai prieš tą blogybę būdavo nukreipti
     vadinamieji konfederaciniai seimai. Atstovai į juos
     būdavo renkami paprasta tvarka, tik suvažiavę, pasiūlius kara-
@@ -45,8 +45,5 @@ Kadangi seimo iširimas dažnai grėsdavo valstybei dideliais pavojais, tai prie
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/aktas]]
-
 ### Susiję objektai
 - [[objektai/paprociai/Konfederaciniai seimai kaip balsų daugumos tvarka]]

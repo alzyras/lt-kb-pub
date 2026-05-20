@@ -30,7 +30,12 @@ Kita vertus, jis vis dėlto pripažino tikėjimo laisvę ir protestantams ir uol
   santrauka: 'Lenkijos katalikų Bažnyčios sinodas buvo iškeikęs visus 1573 metų Varšuvos konfederacijos gynėjus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Kita vertus, jis vis dėlto pripažino tikėjimo laisvę ir
+    Dėl jo
+    tolerancijos, renkant karalium, jį palaikė beveik visi protes-
+    tantai; dėl to kai kas iš pradžių jį net laikė palinkusiu į protes-
+    tantizmą. Tačiau valdydamas jis visur rėmė katalikų Bažnyčią,
+    o ypač uoliausius to meto kovotojus su protestantizmu — jė-
+    zuitus. Kita vertus, jis vis dėlto pripažino tikėjimo laisvę ir
     protestantams ir uoliai saugojo 1573 metų Varšuvos konfede-
     racijos akto nuostatus, nors Lenkijos katalikų Bažnyčios sinodas
     buvo iškeikęs visus tos konfederacijos gynėjus.
@@ -41,8 +46,3 @@ Kita vertus, jis vis dėlto pripažino tikėjimo laisvę ir protestantams ir uol
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/aktas]]
-- [[temos/tikėjimas]]

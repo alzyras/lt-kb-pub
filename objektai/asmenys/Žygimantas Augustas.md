@@ -6,6 +6,20 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1564 m.'
+  - '1581 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodo_grupes:
+  - 'LDK'
+  - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XVI'
+  - 'XXI'
+date_start: '1564'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -21,34 +35,37 @@ pabaigoje į Lietuvos istoriją įžengė garsiausia ir – tai svarbu – lietu
 
 ## Teiginiai
 - t-001
-  teiginys: 'Žygimanto Augusto mirtimi 1572 m. baigėsi Gediminaičių dinastijos valdymas Lietuvoje.'
+  teiginys: 'Sužinojęs apie Polocko netektį, Žygimantas Augustas net apsiverkė.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Žygimantas Augustas savo aktais prie Lenkijos prijungė beveik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos.'
+  teiginys: 'Žygimanto Augusto pistoletas su ratukine spyna XVI a. trečiajame ketvirtyje buvo pagamintas Vokietijoje.'
   pagrindžia:
     - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: 'Žygimanto Augusto privilegija sulygino visų krikščioniškų konfesijų teises.'
+  teiginys: 'DVX LIT 1564“ (Žygimantas Augustas, Lenkijos karalius, Didysis Lietuvos Kunigaikštis, 1564).'
   pagrindžia:
     - c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Žygimanto Augusto mirtimi 1572 m. baigėsi Gediminaičių dinastijos valdymas Lietuvoje.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  santrauka: 'Sužinojęs apie Polocko netektį, Žygimantas Augustas net apsiverkė.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Tad
-    XIII a. pabaigoje į Lietuvos istoriją įžengė garsiausia ir – tai svarbu –
-    lietuvių kilmės valdovų – Gediminaičių dinastija, valdžiusi Lietuvą iki
-    1572 m. – Žygimanto Augusto mirties (po jo Lietuvą valdė svetimkilmiai
-    valdovai).
+    Polocko netektis buvo netikėta kaip per-
+    kūnas iš giedro dangaus. Gavęs šią žinią,
+    Žygimantas Augustas net apsiverkė. Miesto
+    praradimas buvo nepaprastai skausmingas
+    Lietuvai, nes Polockas buvo ne tik vienas
+    seniausių jos miestų, svarbus prekybos
+    centras, bet ir stipriausia tvirtove rytinėse
+    žemėse.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -57,13 +74,27 @@ pabaigoje į Lietuvos istoriją įžengė garsiausia ir – tai svarbu – lietu
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Žygimantas Augustas savo aktais prie Lenkijos prijungė beveik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  santrauka: 'Žygimanto Augusto pistoletas su ratukine spyna XVI a. trečiajame ketvirtyje buvo pagamintas Vokietijoje.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Tada Lietuvai buvo suduotas skaudus smūgis – karalius Žygi-
-    mantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė be-
-    veik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos (Palenkę ir Volui-
-    nės, Kijevo ir Podolės (Braclavo) vaivadijas).
+    Žygimanto Augusto pistoletas su
+    ratukine spyna (Puffer) su Lenkijos
+    ereliu ir raide S (Sigismundus)
+    Vokietija, XVI a. trečiasis ketvirtis
+
+    Mūšis
+
+    Kariuomenės viena kitą pamatė sau-
+
+    sio 26 d. Žygyje gavęs žinių apie tai, kad lie-
+    tuviai ruošiasi jam užkirsti kelią, P. Šuiskis
+    pats pasirinko mūšio vietą - lauką tarpu-
+    miškyje prie Ulos upės netoli Čašnikų.
+    Prieš tai jo kariuomenė per tris-keturias
+    dienas buvo nukeliavusi apie 80 km, o lie-
+    tuvių kariuomenė mūšio išvakarėse įveikė
+    apie 25 km atstumą. P. Šuiskis išrikiavo
+    savo kariuomenę ir laukė lietuvių.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -72,12 +103,14 @@ pabaigoje į Lietuvos istoriją įžengė garsiausia ir – tai svarbu – lietu
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Žygimanto Augusto privilegija sulygino visų krikščioniškų konfesijų teises.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  santrauka: 'DVX LIT 1564“ (Žygimantas Augustas, Lenkijos karalius, Didysis Lietuvos Kunigaikštis, 1564).'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Žygimanto Augusto privilegija, sulyginusi visų
-    krikščioniškų konfesijų teises, tai tapo ir Antrojo bei Trečiojo Lietuvos
-    Statutų teisine norma.
+    Patrankos laibgalis dekoruotas Hidra (drakonu), o drūtgalis - karūna, Vyčiu ir Gediminaičių stulpais bei užrašu
+    „SIGISMVNDVS AVGVST. REX POLO MAG. DVX LIT 1564“ (Žygimantas Augustas, Lenkijos karalius, Didysis Lietuvos Kunigaikštis, 1564). Žygimanto Au-
+    gusto įsteigta patrankų liejykla Vilniuje vėliau rūpinosi ir S. Batoras, čia pagamintus pabūklus jis plačiai naudojo karuose su Maskva
+
+    1581 m. liepa-spalis K. RADVILOS PERKŪNO REIDAS 95
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -90,5 +123,9 @@ pabaigoje į Lietuvos istoriją įžengė garsiausia ir – tai svarbu – lietu
 ### Teminiai klasteriai
 - [[temos/dinastija]]
 
+### Laikotarpiai
+- [[laikotarpiai/XVI amžius]]
+- [[laikotarpiai/XXI amžius]]
+
 ### Susiję objektai
-- [[objektai/ivykiai/Žygimanto Augusto privilegija dėl krikščioniškų konfesijų teisių]]
+- [[objektai/ivykiai/Polocko apsiaustis (1563 m. sausio 31 d.)]]

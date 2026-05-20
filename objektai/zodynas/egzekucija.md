@@ -21,7 +21,7 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Egzekucija vadinta įstatymų vykdymo politika.'
+  teiginys: 'Egzekucija buvo vadinama įstatymų vykdymo politika.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -35,10 +35,13 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Egzekucija vadinta įstatymų vykdymo politika.'
+  santrauka: 'Egzekucija buvo vadinama įstatymų vykdymo politika.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Šita politika buvo vadinama įstatymų vykdymu, arba — iš lotyniško — egzekucija.
+    Tuo metu Lenkų valstybė stengėsi susigrąžinti sau visus bajo-
+    rų kuriuo nors būdu pasisavintus dvarus ir atiminėjo visas žemes,
+    kurioms bajorai neturėjo nuosavybės dokumentų. Šita politika buvo
+    vadinama įstatymų vykdymu, arba — iš lotyniško — egzekucija.
     Lietuvoje daugybė valstybės dvarų buvo taip pat patekę į bajorijos
     ir ponų rankas, — ypač Aleksandro laikais, nes jis juos dalino be
     atodairos, ir todėl jiems niekas neturėjo nuosavybės dokumentų.
@@ -53,6 +56,11 @@ tags:
   santrauka: 'Ginčuose su lenkais lietuviai reikalavo garantijos, kad Lietuvoje nebūtų vykdoma egzekucija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Šita politika buvo
+    vadinama įstatymų vykdymu, arba — iš lotyniško — egzekucija.
+    Lietuvoje daugybė valstybės dvarų buvo taip pat patekę į bajorijos
+    ir ponų rankas, — ypač Aleksandro laikais, nes jis juos dalino be
+    atodairos, ir todėl jiems niekas neturėjo nuosavybės dokumentų.
     Tad ir šitam unijos projekte ir vėlesniuose ginčuose su lenkais
     lietuviai reikalavo, kad karalius duotų garantiją, jog Lietuvoje nebū-
     sianti vykdoma vadinamoji egzekucija.

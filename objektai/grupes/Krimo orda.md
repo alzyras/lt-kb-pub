@@ -18,25 +18,23 @@ Krimo ordos chanas Hadži-Girėjas buvo ištikimas Lietuvos sąjungininkas. Po t
 
 ## Teiginiai
 - t-001
-  teiginys: 'Krimo ordos chanas Hadži-Girėjas buvo ištikimas Lietuvos sąjungininkas.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
   teiginys: 'Krimo totoriai pradėjo smarkius puolimus, ypač nukreiptus į Kijevo, Podolės ir Galicijos sritis.'
   pagrindžia:
-    - c-002
+    - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Krimo ordos chanas Hadži-Girėjas buvo ištikimas Lietuvos sąjungininkas.'
+  santrauka: 'Krimo totoriai pradėjo smarkius puolimus, ypač nukreiptus į Kijevo, Podolės ir Galicijos sritis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Krimo ordos chanas Hadži-Girėjas buvo ištikimas Lietuvos
-    sąjungininkas.
+    Bet nuo 1466 m. ėmęs valdyti Mengli-Girėjas, užsi-
+    gavęs, kad Kazimieras užmezgė ryšius su didžiausiu jo priešu —
+    Užvolgio ordos chanu Achmetu, perėjo į Jono III pusę. Mat, Jo-
+    nas III buvo taip pat Achmeto priešas, o be to, apsiėmė jam daugiau
+    mokėti už sąjungą. Po to prasidėjo baisūs Krimo totorių puolimai;
+    ypač jie puolė Kijevo, Podolės ir Galicijos sritis.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -44,15 +42,3 @@ Krimo ordos chanas Hadži-Girėjas buvo ištikimas Lietuvos sąjungininkas. Po t
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Krimo totoriai pradėjo smarkius puolimus, ypač nukreiptus į Kijevo, Podolės ir Galicijos sritis.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Po to prasidėjo baisūs Krimo totorių puolimai; ypač jie puolė Kijevo, Podolės ir Galicijos sritis.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002

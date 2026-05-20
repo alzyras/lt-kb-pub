@@ -35,7 +35,9 @@ Mat, lig šiol savų parapijinių mokyklų teturi vos pusė lietuviškųjų para
   santrauka: 'Savų parapijinių mokyklų turėjo vos pusė lietuviškųjų parapijų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Mat, lig šiol savų
+    Amerikoje yra ir lietuvių kunigų sąjunga, kuri veltui ilgą
+    laiką rūpinosi gauti atskirą lietuvį vyskupą. Kitas, pats svar-
+    busis jos rūpestis yra mokyklų steigimas. Mat, lig šiol savų
     parapijinių mokyklų teturi vos pusė lietuviškųjų parapijų.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -48,6 +50,9 @@ Mat, lig šiol savų parapijinių mokyklų teturi vos pusė lietuviškųjų para
   santrauka: 'Amerikoje lietuvių mokyklų skaičius nuo apie 30 mokyklų 1919 m. išaugo iki 72, o daugumą jų išlaikė parapijos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Bet ne visos vienuolės dirba
+    mokyklose; didelė jų dalis dirba įvairiose prieglaudose ir ligo-
+    ninėse.
     Lietuvių mokyklų 1919 m. Amerikoje buvo apie 30, o dabar
     jų yra 72; jų daugumą išlaiko parapijos (iš viso čia lietuvių
     mokyklose mokosi apie 12.000 mokinių).

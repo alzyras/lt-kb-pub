@@ -32,7 +32,7 @@ Vytautui priskiriama vertinimo formulė iškelia tiesakalbiškumą aukščiau u�
 
 ## Teiginiai
 - t-002
-  teiginys: 'Formulė pateikiama kaip trumpas Vytauto vertinimas, kad tiesakalbiškumas vertingesnis už iškalbingumą.'
+  teiginys: 'Vytautas, išgirdęs giriamą iškalbingą kunigaikštį, trumpai tarė, kad jam patinka mažiau iškalbingas, bet tiesakalbis žmogus.'
   pagrindžia:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -40,7 +40,7 @@ Vytautui priskiriama vertinimo formulė iškelia tiesakalbiškumą aukščiau u�
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Formulė pateikiama kaip trumpas Vytauto vertinimas, kad tiesakalbiškumas vertingesnis už iškalbingumą.'
+  santrauka: 'Vytautas, išgirdęs giriamą iškalbingą kunigaikštį, trumpai tarė, kad jam patinka mažiau iškalbingas, bet tiesakalbis žmogus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kalboje buvo trumpas ir šykštus, bet žinodamas reikalus,
@@ -54,7 +54,7 @@ Vytautui priskiriama vertinimo formulė iškelia tiesakalbiškumą aukščiau u�
     galima ir laukinius žvėris sušvelninti. O kai vėl kartą jo akyse
     kažkas gyrė vieną iškalbingą kunigaikštį, Vytautas trumpai ta­
     rė, kad jam patinkąs mažiau iškalbingas, bet užtatai tiesa­
-    kalbis
+    kalbis.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

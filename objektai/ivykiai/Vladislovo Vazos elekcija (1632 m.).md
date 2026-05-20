@@ -42,7 +42,11 @@ Nenurodyta
   santrauka: 'Vladislovo Vazos elekcija užtruko vos pusę valandos, nes jis neturėjo priešininkų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Pati
+    Todėl
+    tėvui mirus jokio kito
+    kandidato nebuvo. Visas
+    tarpuvaldis buvo labai
+    trumpas ir ramus. Pati
     elekcija užtruko vos^1 /2
     valandos, nes Vladislovo
     priešų nebuvo.

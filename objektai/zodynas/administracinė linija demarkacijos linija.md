@@ -129,6 +129,5 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
 ### Susiję objektai
 - [[objektai/ivykiai/Incidentas prie Lietuvos ir Lenkijos administracinės linijos (1938 m. kovo 11 d.)]]
 - [[objektai/asmenys/L. Želigovskis]]
-- [[objektai/grupes/Lenkijos kariuomenė]]
 - [[objektai/vietos/Vidurinė Lietuva]]
 - [[objektai/zodynas/administracinė linija]]

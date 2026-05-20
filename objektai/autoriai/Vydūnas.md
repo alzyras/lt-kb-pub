@@ -29,7 +29,11 @@ Ypač daug tenka nukentėti Tilžėje gyvenančiam rašytojui filosofui Vydūnui
   santrauka: 'Tilžėje gyvenęs rašytojas filosofas Vydūnas vadovavo vietos lietuviams ir dėl to daug nukentėjo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Ypač daug
+    Todėl vokiečiai ėmė
+    labai rūpintis išnaikinti lietuvybę anapus Nemuno ir remti vo-
+    kiškumą Klaipėdos krašte. Už Nemuno lietuvybė be galo per-
+    sekiojama: lietuviai veikėjai suvaržyti, dažnai visoki demon-
+    strantai išdaužo jiems langus, o juos pačius sumuša. Ypač daug
     tenka nukentėti Tilžėje gyvenančiam rašytojui filosofui Vydūnui,
     kuris vadovauja vietos lietuviams.
   citata_rodoma: ""

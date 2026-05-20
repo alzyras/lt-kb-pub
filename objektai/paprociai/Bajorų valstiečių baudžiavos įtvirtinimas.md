@@ -36,7 +36,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Po privilegijos bajorų dvaruose gyvenę valstiečiai liko visiškoje savo ponų valdžioje.'
+  teiginys: 'Privilegija paliko bajorų dvaruose gyvenusius valstiečius visiškoje jų ponų valdžioje.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -48,7 +48,7 @@ Nenurodyta
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: 'Bajorija, trokšdama pelno, kaskart vis labiau spaudė savo valstiečius.'
+  teiginys: 'Bajorija siekė draudimo didžiajam kunigaikščiui priimti pabėgusius bajorų valstiečius.'
   pagrindžia:
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -56,7 +56,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Po privilegijos bajorų dvaruose gyvenę valstiečiai liko visiškoje savo ponų valdžioje.'
+  santrauka: 'Privilegija paliko bajorų dvaruose gyvenusius valstiečius visiškoje jų ponų valdžioje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ta privilegija, be to, dar turėjo labai didelę socialinę reikšmę.
@@ -76,7 +76,9 @@ Nenurodyta
   santrauka: '1434 m. Zigmantas bajorų valstiečius atleido nuo mokesčių javais, o vėliau jie buvo atleisti ir nuo kitų prievolių valstybei.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Jau Zigmantas bajorų valstiečius buvo atleidęs
+    Didysis kunigaikštis pasižadėjo nesiuntinėti į jų dvarus
+    jokių savo teisėjų ir atleido bajorų valstiečius nuo visų pareigų
+    valstybei. Jau Zigmantas bajorų valstiečius buvo atleidęs
     (1434 m.) nuo mokesčių javais; dabar jie, be to, buvo atleisti ir nuo
     pastočių, nuo pilių statymo ir remontavimo, nuo pareigos piauti
     didžiojo kunigaikščio dvarų pievas ir pagaliau nuo piniginio
@@ -92,7 +94,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Bajorija, trokšdama pelno, kaskart vis labiau spaudė savo valstiečius.'
+  santrauka: 'Bajorija siekė draudimo didžiajam kunigaikščiui priimti pabėgusius bajorų valstiečius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Bajorija, trokšdama pelno, kaskart
@@ -116,3 +118,6 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/privilegija]]
+
+### Susiję objektai
+- [[objektai/zodynas/pastočiai]]

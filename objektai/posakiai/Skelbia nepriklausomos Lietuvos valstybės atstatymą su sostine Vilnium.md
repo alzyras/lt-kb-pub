@@ -39,7 +39,6 @@ tags:
   teiginys: '1917 m. gruodžio 11 d. Lietuvos Taryba paskelbė nepriklausomos Lietuvos valstybės atkūrimą su sostine Vilniumi.'
   pagrindžia:
     - c-001
-    - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
@@ -48,6 +47,8 @@ tags:
   santrauka: '1917 m. gruodžio 11 d. Lietuvos Taryba paskelbė nepriklausomos Lietuvos valstybės atkūrimą su sostine Vilniumi.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    su pažadais sudaryti militarinę ir ekonominę sąjungą su Vo-
+    kietija.
     Tokį pareiškimą Taryba padarė 1917 m. gruodžio 11 d., po sun-
     kių derybų Kaune su kanclerio atstovu ir karo vadovybe. Jo tekstas
     buvo šioks: „I. Lietuvos Taryba, krašto ir užsienių lietuvių pripa-
@@ -57,25 +58,6 @@ tags:
     somos Lietuvos valstybės atstatymą su sostine Vilnium ir jos atpa-
     laidavimą nuo visų valstybinių ryšių, kurie kada nors yra buvę su
     kitomis valstybėmis.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: '1917 m. gruodžio 11 d. Lietuvos Taryba paskelbė nepriklausomos Lietuvos valstybės atkūrimą su sostine Vilniumi.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    II. Tai valstybei tvarkyti ir jos reikalams ginti taikos derybose
-    Lietuvos Taryba prašo Vokiečių valstybę apsaugos ir pagalbos. Atsi-
-    žvelgdama į gyvus Lietuvos interesus, kurie reikalauja nieko netru-
-    kus sueiti į artimus ir patvarius santykius su Vokiečių valstybe,
-    Lietuvos Taryba pasisako už nuolatinį (amžiną) tvirtą sąjungos ryšį
-    su Vokietijos valstybe; ta sąjunga turėtų būti įvykdyta ypač milita-
-    rinės bei susisiekimo konvencijos ir muitų bei pinigų sistemos ben-
-    drumo pamatais".
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

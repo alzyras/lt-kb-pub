@@ -7,15 +7,23 @@ aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 laikotarpis: ''
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1945 m.'
+  - '1990 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodo_grupes:
+  - 'XX a.'
+  - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1945'
+date_end: '2026'
 patikimumas: 'aukštas'
 tags: []
 ---
@@ -35,7 +43,7 @@ Alytuje 1990 metų gegužės 18 d. užrašyto Kalniškės mūšio dalyvio Petro 
 
 ## Teiginiai
 - t-003
-  teiginys: '»---Apie 100 partizanų būrį Kalniškės miške 1945 05 16 apsupo NKVD kariuomenė. Simno stribų prašymu mišką apsupo iš vakaro. Keletas partizanų išėjo į kaimą. Sugrįžę apie 24 val. pas ūkininką, miške radome pilna vyrų. Dar saulei netekėjus Ralių k. prie miško pasigirdo automatų šūviai. Vyrai sukilo ir išėjo į savo vietas. Iš kaimo atbėgo.'
+  teiginys: 'Petro Seredos-Stumbro pasakojimas apie Kalniškės mūšį buvo užrašytas Alytuje 1990 m. gegužės 18 d.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -45,14 +53,21 @@ Alytuje 1990 metų gegužės 18 d. užrašyto Kalniškės mūšio dalyvio Petro 
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: '»---Apie 100 partizanų būrį Kalniškės miške 1945 05 16 apsupo NKVD kariuomenė. Simno stribų prašymu mišką apsupo iš vakaro. Keletas partizanų išėjo į kaimą. Sugrįžę apie 24 val. pas ūkininką, miške radome pilna vyrų. Dar saulei netekėjus Ralių k. prie miško pasigirdo automatų šūviai. Vyrai sukilo ir išėjo į savo vietas. Iš kaimo atbėgo.'
+  santrauka: 'Petro Seredos-Stumbro pasakojimas apie Kalniškės mūšį buvo užrašytas Alytuje 1990 m. gegužės 18 d.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
+    Tauta ir kiekvienas pilietis turi teisę
+    priešintis bet kam, kas prievarta kėsinasi į
+    Lietuvos valstybės nepriklausomybę, terito-
+    rijos vientisumą, konstitucinę santvarką.“
+
+    MŪŠIO DALYVIO ATSIMINIMAI
+
+    Alytuje 1990 metų gegužės 18 d. užrašyto Kalniškės mūšio da-
+    lyvio Petro Seredos-Stumbro pasakojimo ištrauka:
+
     »---Apie 100 partizanų būrį Kalniškės miške 1945 05 16 apsupo NKVD
-    kariuomenė. Simno stribų prašymu mišką apsupo iš vakaro. Keletas
-    partizanų išėjo į kaimą. Sugrįžę apie 24 val. pas ūkininką, miške ra-
-    dome pilna vyrų. Dar saulei netekėjus Ralių k. prie miško pasigirdo
-    automatų šūviai. Vyrai sukilo ir išėjo į savo vietas. Iš kaimo atbėgo
+    kariuomenė. Simno stribų prašymu mišką apsupo iš vakaro.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

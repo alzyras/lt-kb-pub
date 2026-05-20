@@ -35,48 +35,20 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Zigmanto Augusto laikais Lietuvoje buvo nukalta daug įvairių pinigų, tarp jų obolių, denarų, skatikų, talerių ir dukatų.'
+  teiginys: 'Visuose Zigmanto Augusto piniguose buvo įrašas „Moneta magni ducatus Lithuaniae“.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Visuose Zigmanto Augusto piniguose buvo įrašas „Moneta magni ducatus Lithuaniae“.'
-  pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-003
   teiginys: 'Zigmantas Augustas apie 1565 m. Tikocine pradėjo kalti lenkiškos vertės pinigus, bet dėl nepasitenkinimo darbą nutraukė.'
   pagrindžia:
-    - c-003
+    - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Zigmanto Augusto laikais Lietuvoje buvo nukalta daug įvairių pinigų, tarp jų obolių, denarų, skatikų, talerių ir dukatų.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    **Zigmanto Augusto** pinigai: 16 — _obolis,_ arba _pusdenaris_ (jo dydis
-    yra lygus denaro dydžiui, bet sidabro kokybė perpus prastesnė); 17 — _de-
-    naras;_ 18 — _dvidenaris;_ 19 — _pusskatikis;_ 20 — skatikas; 21 — _trečiokas_
-    ( = 3 skatikai); 22 — _ketvirtokas_ ( = 4 skatikai); 23 — _šeštokas_ ( = 6 skatikai);
-    24 — _taleris,_ arba _puskapis_ (= 30 skatikų; tai didžiausias sidabro pinigas);
-    25 — _dukatas_ (auksinis pinigas, _auksinas,_ kurį vėliau dar vadino _raudo-
-    nuoju;_ jis turėjo З1/2 gramų 231 /2 karatų aukso; jo vertė iš karto buvo
-    lygi 30 skatikų, bet XVI a. gale už jį jau buvo mokama 2 auks., t. y.
-    60 skt., Zigmanto Vazos laikais — 4 auks., Jono Kazimiero — 6 auks.,
-    o Stanislovo Augusto — 18 auks.). Zigmanto Augusto laikais Lietuvoje
-    pinigų buvo nukalta labai daug ir įvairių.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
   santrauka: 'Visuose Zigmanto Augusto piniguose buvo įrašas „Moneta magni ducatus Lithuaniae“.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -92,8 +64,8 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-- c-003
+    - t-001
+- c-002
   santrauka: 'Zigmantas Augustas apie 1565 m. Tikocine pradėjo kalti lenkiškos vertės pinigus, bet dėl nepasitenkinimo darbą nutraukė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -112,7 +84,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai

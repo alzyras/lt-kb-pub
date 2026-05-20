@@ -26,7 +26,7 @@ Vilniuje liuterionys ir kalvinai turėjo po bažnyčią. 1639 m. tyčia ar nety�
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: '1639 m. po šūvio iš kalvinų bažnyčios šventoriaus minia apgriovė kalvinų bažnyčią Vilniuje.'
+  teiginys: '1639 m. po šūvio iš kalvinų bažnyčios šventoriaus Vilniuje minia apgriovė kalvinų bažnyčią, o seimo sprendimu ji buvo nugriauta.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -37,7 +37,11 @@ Vilniuje liuterionys ir kalvinai turėjo po bažnyčią. 1639 m. tyčia ar nety�
   santrauka: 'Vilniuje liuterionys ir kalvinai turėjo po bažnyčią.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Vilniuje liuterionys ir kalvinai turėjo po bažnyčią.
+    Protestantai buvo silpnesni, todėl jie daugiau ir nu-
+    kentėdavo. Pavyzdžiui, 1611 m. per Dievo Kūno procesiją vie-
+    nas protestantas, Ostijos garbinimą išvadinęs stabmeldyste,
+    buvo minios apkultas, suimtas, o vėliau pasmerktas mirti ir nu-
+    kankintas. Vilniuje liuterionys ir kalvinai turėjo po bažnyčią.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -46,7 +50,7 @@ Vilniuje liuterionys ir kalvinai turėjo po bažnyčią. 1639 m. tyčia ar nety�
   pagrindžia:
     - t-001
 - c-002
-  santrauka: '1639 m. po šūvio iš kalvinų bažnyčios šventoriaus minia apgriovė kalvinų bažnyčią Vilniuje.'
+  santrauka: '1639 m. po šūvio iš kalvinų bažnyčios šventoriaus Vilniuje minia apgriovė kalvinų bažnyčią, o seimo sprendimu ji buvo nugriauta.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     1639 m. tyčia ar netyčia iš kalvinų bažnyčios šventoriaus kaž-

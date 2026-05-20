@@ -43,6 +43,7 @@ tags:
   santrauka: 'Vytautas maršalkai pareiškė, kad piktuoju iš jo dar niekas nieko nelaimėjo ir kad savo nusistatymo jis nekeičia.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Vytautas supykęs atrėžė:
     — Maršalka, tu labai gerai žinai, kad piktuoju iš ma-
     nęs dar niekas nieko nelaimėjo. Kas manęs ne-
     gerbia, to nevertinu nė aš. Savo nusistatymo aš nekei-

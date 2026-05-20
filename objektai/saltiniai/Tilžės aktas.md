@@ -39,7 +39,7 @@ tags: []
 
 ## Teiginiai
 - t-003
-  teiginys: '"Tuometinė vokiečių valdžia šį Tarybos nutarimą, dar vadinamą Tilžės aktu, ignoravo.'
+  teiginys: 'Tuometinė vokiečių valdžia ignoravo Tarybos nutarimą, vadinamą Tilžės aktu.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -49,7 +49,7 @@ tags: []
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: '"Tuometinė vokiečių valdžia šį Tarybos nutarimą, dar vadinamą Tilžės aktu, ignoravo.'
+  santrauka: 'Tuometinė vokiečių valdžia ignoravo Tarybos nutarimą, vadinamą Tilžės aktu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     atsišaukimą. Šiame dokumente buvo skel-

@@ -6,6 +6,22 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1263 m.'
+  - '1267 m.'
+  - '1270 m.'
+  - '1290 m.'
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIII'
+  - 'XX'
+  - 'XXI'
+date_start: '1263'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - grupe
@@ -19,7 +35,7 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
 
 ## Teiginiai
 - t-001
-  teiginys: 'Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir žemaičių, gyveno kuršiai.'
+  teiginys: 'Kuršiai gyveno dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir žemaičių.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -27,10 +43,12 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir žemaičių, gyveno kuršiai.'
+  santrauka: 'Kuršiai gyveno dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir žemaičių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Ry-
+    Į pie-
+    tus nuo žemaičių ir į rytus nuo jotvingų gyveno aukštai-
+    čiai, kurie sudarė vėlesnės Lietuvos valstybės branduolį. Ry-
     tinės jų sienos nėra aiškios; jie užėmė visą Neries aukštupį,
     artėjo prie Bererinos aukštupio ir prie Dysnos
     **Latviai.** Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo
@@ -49,5 +67,10 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/upė]]
+### Laikotarpiai
+- [[laikotarpiai/XIII amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
+### Susiję objektai
+- [[objektai/grupes/Sėliai]]

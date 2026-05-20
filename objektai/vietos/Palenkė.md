@@ -6,6 +6,17 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1936'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - karalius
@@ -21,26 +32,38 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva turėjo nepulti ordino žemių, esančių Palenkės pasieny.'
+  teiginys: 'Vytenis atgavo didžiąją dalį Palenkės ir prijungė prie Lietuvos Drohičiną bei Brastą.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Pirmiausia tokie kaimai su trilaukiais buvo įvesti Lenkijos kaimynijoje — Palenkėje.'
+  teiginys: 'Gediminas glaudžiai sujungė su savo valstybe jau Vytenio užimtą Palenkę, Pagirį ir gretimąsias sritis.'
   pagrindžia:
     - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-003
+  teiginys: 'Kazimiero laikais Palenkė buvo viena iš tankiau gyvenamų Lietuvos valstybės sričių.'
+  pagrindžia:
+    - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva turėjo nepulti ordino žemių, esančių Palenkės pasieny.'
+  santrauka: 'Vytenis atgavo didžiąją dalį Palenkės ir prijungė prie Lietuvos Drohičiną bei Brastą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Sutartyje ordinas pasižadėjo ne-
-    pulti Palenkės (pradedant Gardinu), o Lietuva turėjo nepulti or-
-    dino žemių, esančių Palenkės pasieny.
+    Senasis
+    jotvingų kraštas (t. y. vadinamoji Juodoji Rusija su Naugar-
+    duku, Slanimu ir Volkovisku), kurį buvo užėmusi ir kolonizavusi
+    Voluinė, jau tapo nebeginčijamu Lietuvos kraštu. Vytenis taip
+    pat atgavo didžiąją dalį Palenkės (irgi jotvingų žemes, ku-
+    rias buvo užėmę tie patys Voluinės ir Mozūrų kunigaikščiai),
+    prijungė prie Lietuvos jau Traidenio laikinai užimtą Drohičiną
+    ir Brastą. Tuo būdu savo įpėdiniui, broliui Gediminui, Vytenis
+    paliko jau didelę valstybę su aiškiai nustatyta politikos linija.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -49,14 +72,17 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Pirmiausia tokie kaimai su trilaukiais buvo įvesti Lenkijos kaimynijoje — Palenkėje.'
+  santrauka: 'Gediminas glaudžiai sujungė su savo valstybe jau Vytenio užimtą Palenkę, Pagirį ir gretimąsias sritis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Toksai ūkis turėjo įtakos ir Lietuvai. Pirmiausia tokie
-    kaimai su trilaukiais buvo įvesti Lenkijos kaimynijoje — Pa-
-    lenkėje. Tuo tarpu visose kitose Lietuvos srityse vyravo kito-
-    niškas ūkis. Čia valstiečiai gyveno po vieną ar po kelis; prasi-
-    dirbdavo žemės kur giriose ir sėdavo, kaip įmanydavo.
+    Ir čia Lietuvos sienos jau Vytenio lai-
+    kais buvo nukeltos toli nuo lietuviškojo krašto. Tačiau kai ku-
+    rios sritys Vytenio laikais dar nebuvo visiškai prijungtos: jos
+    tebuvo tiktai pasidavusios Lietuvos įtakai. Gediminas čia glau-
+    džiai sujungė su savo valstybe jau Vytenio užimtą Palenkę, Pa-
+    girį ir gretimąsias sritis, o be to, dar užėmė didelę dalį Voluinės,
+    prijungė po Mindaugo išsivaduvusį Vitebską su gretimaisiais
+    miestais ir paėmė į savo įtaką tolimąjį Kijevą.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -64,3 +90,29 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Kazimiero laikais Palenkė buvo viena iš tankiau gyvenamų Lietuvos valstybės sričių.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Kaip Vy-
+    tauto (žiūr. 165 psl.), taip ir Kazimiero laikais tankiau buvo
+    gyvenama tik tikrojoj Lietuvoj, Palenkėj, Voluinėj ir Podo-
+    lės Braclavo srityje (visa kita Podolė priklausė Lenkijai). O
+    rytinės Lietuvos žemės, išskyrus didesniųjų miestų apy-
+    linkes, buvo beveik negyvenamos.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
+### Susiję objektai
+- [[objektai/vietos/Brasta]]
+- [[objektai/vietos/Drohičinas]]

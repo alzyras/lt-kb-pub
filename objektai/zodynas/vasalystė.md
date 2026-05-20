@@ -19,7 +19,7 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
 
 ## Teiginiai
 - t-004
-  teiginys: 'Vytautas 1384 m. birželį Ordinui pasižada savo vasalystę.'
+  teiginys: '1384 m. birželio 14 d. Vytautas Ordinui pasižadėjo savo vasalystę.'
   pagrindžia:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -27,7 +27,7 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vytautas 1384 m. birželį Ordinui pasižada savo vasalystę.'
+  santrauka: '1384 m. birželio 14 d. Vytautas Ordinui pasižadėjo savo vasalystę.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Joje 1384 metų birželio mėn. 14 d. Vytautas ir magis­

@@ -22,17 +22,43 @@ saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 laikotarpis: 'XIII a. pabaiga; po didžiojo Durbės mūšio; 1362 m. žiema; 1385 m.; 1387 m.; 1410 m. liepos 15 d.; 1499–1503 m.; 1237 m.; 1557 m.; 1559 m.; 1561 m.; 1260 m.; 1328 m'
 datos:
-  - '1362 m. žiema'
-  - '1385 m'
-  - '1387 m'
-  - '1410 m. liepos 15 d'
-  - '1499–1503 m'
-  - '1237 m'
-  - '1557 m'
-  - '1559 m'
-  - '1561 m'
-  - '1260 m'
-  - '1328 m'
+  - '1237 m.'
+  - '1253 m.'
+  - '1260 m.'
+  - '1328 m.'
+  - '1331 m.'
+  - '1333 m.'
+  - '1345 m.'
+  - '1350 m.'
+  - '1362 m.'
+  - '1364 m.'
+  - '1370 m.'
+  - '1372 m.'
+  - '1382 m.'
+  - '1385 m.'
+  - '1387 m.'
+  - '1398 m.'
+  - '1409 m.'
+  - '1410 m.'
+  - '1417 m.'
+  - '1421 m.'
+  - '1424 m.'
+  - '1429 m.'
+  - '1430 m.'
+  - '1499 m.'
+periodas: 'viduramžiai'
+periodo_grupes:
+  - 'LDK'
+  - 'viduramžiai'
+amziai:
+  - 'XIII'
+  - 'XIV'
+  - 'XV'
+  - 'XVI'
+  - 'XX'
+  - 'XXI'
+date_start: '1237'
+date_end: '1499'
 patikimumas: 'aukštas'
 tags:
   - grupe
@@ -46,45 +72,59 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
 
 ## Teiginiai
 - t-014
-  teiginys: 'Livonijos ordinas atskubėjo kryžiuočiams į pagalbą, o jo magistras dalyvavo 1398 m. Salyno sutarties patvirtinime.'
+  teiginys: 'Traidenis net kelis kartus skaudžiai sumušė Livonijos ordino kariuomenę ir ne kartą su savo kariuomene skersai ir išilgai išvaikščiojo ordino žemes, tačiau nepajėgė sugriauti jo galingų pilių.'
   pagrindžia:
     - c-001
-    - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-015
-  teiginys: 'Konstancos susirinkimo aplinkoje Livonijos ordinas vaizduotas kaip savo vyskupijas skriaudžianti jėga.'
+  teiginys: 'Magistro įsakymu, 1362 m. žiemą prie Kauno atvyko ir Livonijos ordino kariuomenė.'
   pagrindžia:
-    - c-003
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+    - c-002
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-016
-  teiginys: 'Livonijos ordinas sudarė prieš Vytautą nukreiptą 10 metų sutartį su Pskovu, o 1421 m. padarė amžiną taiką su Didžiuoju Naugardu.'
+  teiginys: 'Trečiasis koalicijos narys ir Andriaus suverenas, Livonijos ordinas, mažai tedalyvavo kare.'
   pagrindžia:
-    - c-004
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+    - c-003
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-017
-  teiginys: 'Kryžiuočių siekis užkariauti Žemaitiją buvo susijęs su noru sausuma susisiekti su Livonijos ordinu.'
+  teiginys: 'Vytautas sudarė paliaubų sutartį su Livonijos ordino šaka, todėl ji nedalyvavo Tanenbergo mūšyje.'
   pagrindžia:
-    - c-005
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+    - c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-018
-  teiginys: '1424 m. Niešavo sutartis suteikė Lietuvos ir Žemaičių pirkliams laisvą prekybą Livonijos ordino žemėse.'
+  teiginys: 'Livonijos ordino atstovai nebuvo įleisti į taikos derybas, todėl Aleksandras turėjo palikti sąjungininką.'
+  pagrindžia:
+    - c-005
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-019
+  teiginys: 'Livonijos ordinas nuo 1237 m. buvo kryžiuočių ordino šaka, bet veikė atskirai ir vykdė savarankišką politiką.'
   pagrindžia:
     - c-006
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-020
+  teiginys: 'Bet 1260 m. Livonijos ordinui pralaimėjus mūšį prie Durbės, sukilo visas jo pavergtas kraštas.'
+  pagrindžia:
+    - c-007
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Livonijos ordinas atskubėjo kryžiuočiams į pagalbą, o jo magistras dalyvavo 1398 m. Salyno sutarties patvirtinime.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: 'Traidenis net kelis kartus skaudžiai sumušė Livonijos ordino kariuomenę ir ne kartą su savo kariuomene skersai ir išilgai išvaikščiojo ordino žemes, tačiau nepajėgė sugriauti jo galingų pilių.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tuo tarpu atsiskubino ir kryžiuočiams į pa­
-    galbą Livonijos Ordinas ir daugiau kariuomenės iš Prūsų. Vy­
-    tautas turėjo trauktis atgal Vilniaus link.
+    Po Durbės mūšio sukilusias kiltis ordinas jau buvo
+    nugalėjęs. Traidenis net kelis kartus skaudžiai sumušė Livonijos
+    ordino kariuomenę ir ne kartą su savo kariuomene skersai ir
+    išilgai išvaikščiojo ordino žemes, tačiau nepajėgė sugriauti jo
+    galingų pilių. Tuo būdu ordinas atsilaikė, kai kur net pasistū-
+    mėjo į Lietuvos pusę.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -93,28 +133,15 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
   pagrindžia:
     - t-014
 - c-002
-  santrauka: 'Livonijos ordinas atskubėjo kryžiuočiams į pagalbą, o jo magistras dalyvavo 1398 m. Salyno sutarties patvirtinime.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: 'Magistro įsakymu, 1362 m. žiemą prie Kauno atvyko ir Livonijos ordino kariuomenė.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Iškilmingas tos sutarties ratifikavimas (patvir­
-    tinimas) įvyko tų pačių metų spalių 12 d. Salyno saloj (Ne­
-    mune). Dalyvavo Prūsų ir Livonijos Ordinų magistrai, Var­
-    mijos ir Sambijos vyskupai ir daug komtūrų.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-014
-- c-003
-  santrauka: 'Konstancos susirinkimo aplinkoje Livonijos ordinas vaizduotas kaip savo vyskupijas skriaudžianti jėga.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Konstanci­
-    jos susirikimas Vytautą padarė Livonijos vyskupų globė­
-    ju, nes šias vyskupijas Livonijos Ordinas, savo nepasotinama po­
-    litika, dažnai nuskriausdavo.
+    Kauno užpuolimą suruošė Prūsų ordinas, ker-
+    šydamas Kęstučiui už pabėgimą iš nelaisvės (1361 m.). Magistro
+    įsakymu, 1362 m. žiemą prie Kauno atvyko ir Livonijos ordino
+    kariuomenė. Kryžiuočių buvo tiek daug, kad atvykę Algirdas
+    su Kęstučiu nedrįso gelbėti apgultos pilies: per maža jie turėjo
+    jėgų.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -122,17 +149,15 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-015
-- c-004
-  santrauka: 'Livonijos ordinas sudarė prieš Vytautą nukreiptą 10 metų sutartį su Pskovu, o 1421 m. padarė amžiną taiką su Didžiuoju Naugardu.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+- c-003
+  santrauka: 'Trečiasis koalicijos narys ir Andriaus suverenas, Livonijos ordinas, mažai tedalyvavo kare.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Bet daugiausia Vytautas širdo ant Livonijos Ordino, kuris
-    tuo pat laiku, kai Konstancijon buvo siunčiamas Cemblakas, pa­
-    darė su Pskovu 10 metų sutartį, nukreiptą prieš Vytautą. Vy­
-    tautas išmetinėjo Ordinui, kad negarbinga susidėti su nekatali­
-    kais prieš jį kataliką, ir grasino pasiųsti skundą Konstancijos
-    susirinkimui; bet ir tas nieko nepadėjo, nes po kelių metų Ordi­
-    nas padarė amžiną taiką ir su Naugardu D. (1421).
+    Trečiasis koalicijos narys ir Andriaus suverenas, Livonijos
+    ordinas, mažai tedalyvavo kare. Nusiaubęs kai kurias Lietuvos
+    sritis, jis grįžo namo. Tuo būdu, tapęs Lenkų karalium, Jo-
+    gaila turėjo savo rankose visą Lietuvą; priešų Lietuvoje jis
+    nebeturėjo.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -140,17 +165,19 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-016
-- c-005
-  santrauka: 'Kryžiuočių siekis užkariauti Žemaitiją buvo susijęs su noru sausuma susisiekti su Livonijos ordinu.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+- c-004
+  santrauka: 'Vytautas sudarė paliaubų sutartį su Livonijos ordino šaka, todėl ji nedalyvavo Tanenbergo mūšyje.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Pirmuoju tokiu draugu vi­
-    suomet būdavo Ordinas. Bet ir pastarasis, bauginamas Vytau­
-    to laimėjimų rytuose, verčiamas buvo ieškotis taikos Lietuvoj.
-    Kryžiuočiai gerai suprato, kad Vytauto galybės išaugimas ne
-    tik jam padės atsiskaityti su Lenkija, bet ir jų pačių norams —
-    užkariauti Žemaitiją, kaip tiesioginį sausažemiu susisiekimą su
-    Livonijos Ordinu ir įsigalėti rytuose — padarys galą.
+    Nuostolis dėl pairusių derybų buvo nedidelis: sąjunga su
+    savo tikslų siekiančiu Zigmantu negalėjo būti naudinga Lietuvai.
+    Užtat Vytautui vėliau pasisekė padaryti paliaubų sutartį su
+    livoniške ordino šaka, ir ji nedalyvavo netrukus įvykusiame di-
+    džiame Tanenbergo mūšyje.
+    **Tanenbergo mūšis 1410 m. liepos 15 d.** Surinkę savo jė-
+    gas ir prisisamdę Vakaruose daug karių, ypač čekų, Jogaila su
+    Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Čer-
+    vinsku (prie Vyslos).
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -158,16 +185,17 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-017
-- c-006
-  santrauka: '1424 m. Niešavo sutartis suteikė Lietuvos ir Žemaičių pirkliams laisvą prekybą Livonijos ordino žemėse.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+- c-005
+  santrauka: 'Livonijos ordino atstovai nebuvo įleisti į taikos derybas, todėl Aleksandras turėjo palikti sąjungininką.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    1424 metais buvo dar padaryta prekybos sutar­
-    tis Niešavo miestelyje. Čia aktu, pavadintu „über transitus“
-    (laisvas tranzitas), nustatyta, kad Lietuvos, Žemaičių, Lenkijos,
-    Maskvos ir Rusijos pirkliai galės visai laisvai prekiauti Vokie­
-    čių ir Livonijos Ordinų žemėse, o šių pastarųjų pirkliai — aukš­
-    čiau išvardintuose kraštuose^4 ).
+    Abi pusės pasižadėjo neliesti viena antrai pripažintų že-
+    mių ir laisvai praleisti per savo žemes kitos valstybės pasiun-
+    tinius ir pirklius. (Livonijos ordino atstovai nebuvo įsileisti į
+    taikos derybas: Aleksandras turėjo mesti savo sąjungininką).
+
+    Bet ir padarius taiką, santykiai su Maskva nė kiek ne-
+    pagerėjo.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -175,12 +203,48 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-018
+- c-006
+  santrauka: 'Livonijos ordinas nuo 1237 m. buvo kryžiuočių ordino šaka, bet veikė atskirai ir vykdė savarankišką politiką.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tačiau ordinas nesudarė
+    savarankiškos valstybės: nuo 1237 m. jis buvo tų pačių kry-
+    žiuočių ordino šaka (žiūr. 50—51 psl.), bet, turėdamas skirtingas
+    sąlygas, jis iš tikrųjų gyveno atskirai ir varė savarankišką po-
+    litiką. Todėl kryžiuočių ordino virtimas pasauline kunigaikš-
+    tyste jokios reikšmės neturėjo livoniškei jo šakai. Visgi nuo to
+    laiko ir čia pradėta galvoti apie ordino panaikinimą.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-019
+- c-007
+  santrauka: 'Bet 1260 m. Livonijos ordinui pralaimėjus mūšį prie Durbės, sukilo visas jo pavergtas kraštas.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Bet 1260 m. Livonijos
+    ordinui pralaimėjus mūšį prie Durbės, sukilo visas jo pavergtas
+    kraštas. Žemaičiai tada sugriovė Jurbarką, išvarė iš savo krašto
+    ordiną ir, susijungę su sukilusiomis Padauguvio giminėmis, iš-
+    griovė daugybę ordino pilių Livonijoj; Žemaičiuose jie neįveikė
+    tiktai Klaipėdos pilies.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-020
 
 ## Ryšiai
 ### Laikotarpiai
+- [[laikotarpiai/XIII amžius]]
 - [[laikotarpiai/XIV amžius]]
 - [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XVI amžius]]
 
 ### Susiję objektai
-- [[objektai/grupes/Užvolgio orda]]
 - [[objektai/zodynas/paliaubos]]

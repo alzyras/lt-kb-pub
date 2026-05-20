@@ -71,9 +71,6 @@ Imperijos politikoje „lenkų klausimu“ viršų gavo tie, kurie manė, kad re
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/tikėjimas]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Aleksandras III]]
 - [[objektai/zodynas/polonofobija]]

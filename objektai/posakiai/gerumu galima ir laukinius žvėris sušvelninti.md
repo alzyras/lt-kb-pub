@@ -6,14 +6,23 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
+datos:
+  - '1350 m.'
+  - '1430 m.'
+  - '1930 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+  - 'XV'
+  - 'XX'
+  - 'XXI'
+date_start: '1350'
+date_end: '2026'
 bukle: juodrastis
 laikotarpis: ''
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
@@ -32,18 +41,29 @@ Vytautui priskiriama moralinė formulė teigia, kad gerumas pajėgus sušvelnint
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vytautui priskiriama formulė teigia, kad gerumu galima sušvelninti net laukinius žvėris.'
+  teiginys: 'Vytautas posakiu apie gerumu sušvelninamus laukinius žvėris aiškino savo dosnumą totoriams dalijant žemes Lietuvoje ir Rusijoje.'
   pagrindžia:
     - c-001
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: 'Vytautas atsakė, kad gerumu galima sušvelninti ir laukinius žvėris, kai jam priminė dosnumą totoriams dalijant žemes Lietuvoje ir Rusijoje.'
+  pagrindžia:
+    - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vytautui priskiriama formulė teigia, kad gerumu galima sušvelninti net laukinius žvėris.'
+  santrauka: 'Vytautas posakiu apie gerumu sušvelninamus laukinius žvėris aiškino savo dosnumą totoriams dalijant žemes Lietuvoje ir Rusijoje.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Kai
+    Kalboje buvo trumpas ir šykštus, bet žinodamas reikalus,
+    dažnai griebdavosi sąmojaus ir lakoniškumo. Kai ant Dniepro
+    saviškiai jį atkalbinėjo dėl didelių šalčių mesti kovą su totoriais,
+    Vytautas atrėmė: todėl ir reikia kariauti, nes jeigu nugalėsim,
+    gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės
+    apie mus, kad mus nugalėjo du priešai: šaltis ir totoriai. Kai
     kartą jam kažkas priminė jo didelį duosnumą dalinant toto­
     riams žemes Lietuvoje ir Rusijoj, Vytautas atsakęs, kad gerumu
     galima ir laukinius žvėris sušvelninti.
@@ -54,3 +74,35 @@ Vytautui priskiriama moralinė formulė teigia, kad gerumas pajėgus sušvelnint
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Vytautas atsakė, kad gerumu galima sušvelninti ir laukinius žvėris, kai jam priminė dosnumą totoriams dalijant žemes Lietuvoje ir Rusijoje.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Kai ant Dniepro
+    saviškiai jį atkalbinėjo dėl didelių šalčių mesti kovą su totoriais,
+    Vytautas atrėmė: todėl ir reikia kariauti, nes jeigu nugalėsim,
+    gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės
+    apie mus, kad mus nugalėjo du priešai: šaltis ir totoriai. Kai
+    kartą jam kažkas priminė jo didelį duosnumą dalinant toto­
+    riams žemes Lietuvoje ir Rusijoj, Vytautas atsakęs, kad gerumu
+    galima ir laukinius žvėris sušvelninti. O kai vėl kartą jo akyse
+    kažkas gyrė vieną iškalbingą kunigaikštį, Vytautas trumpai ta­
+    rė, kad jam patinkąs mažiau iškalbingas, bet užtatai tiesa­
+    kalbis.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-002
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
+### Susiję objektai
+- [[objektai/posakiai/„gerumu galima ir laukinius žvėris sušvelninti.“]]

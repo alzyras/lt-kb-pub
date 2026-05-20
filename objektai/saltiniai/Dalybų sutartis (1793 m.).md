@@ -33,7 +33,13 @@ tags:
   santrauka: '1793 m. (sausio 23 d.) Rusija pasirašė dalybų sutartį, kuria Prūsijai turėjo tekti dideli Lenkijos plotai, esantieji tarp abiejų Prūsų karalystės dalių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    1793 m. (sausio 23 d.) Rusija pasirašė dalybų su-
+    Grasydama padaryti taiką su Prancūzija,
+    Prūsija išgavo Austrijos ir Rusijos sutikimą, kad jai būtų ati-
+    duotas Dancigas su Tornu ir kai kurios kitos Lenkijos sritys.
+    Mat, Austrija bijojo likti viena prieš Prancūziją, o Rusija bijojo,
+    kad, atpalaidavusi rankas ir įsikišusi į Respublikos reikalus,
+    Prūsija gali privirti daug košės ar net sugriauti visus laimėji-
+    mus. Todėl 1793 m. (sausio 23 d.) Rusija pasirašė dalybų su-
     tartį, kuria Prūsijai turėjo tekti dideli Lenkijos plotai,
     esantieji tarp abiejų Prūsų karalystės dalių.
   citata_rodoma: ""

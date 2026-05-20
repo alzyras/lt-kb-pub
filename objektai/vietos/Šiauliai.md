@@ -15,6 +15,26 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+datos:
+  - '1236 m.'
+  - '1794 m.'
+  - '1919 m.'
+  - '1927 m.'
+  - '1936 m.'
+  - '1939 m.'
+  - '1940 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'viduramžiai'
+periodo_grupes:
+  - 'viduramžiai'
+amziai:
+  - 'XIII'
+  - 'XVIII'
+  - 'XX'
+  - 'XXI'
+date_start: '1236'
+date_end: '2026'
 susije_irasai: []
 patikimumas: 'žemas'
 tags:
@@ -29,36 +49,22 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
 
 ## Teiginiai
 - t-007
-  teiginys: 'Šiauliuose, ties dabartinių Tilžės ir Vilniaus gatvių sankryža, buvo pagrindinė Šiaulių žemės strateginė kelių sankryža ir plėtojosi senovės gyvenvietė.'
+  teiginys: 'Ties Šiauliais įvyko didelis mūšis, kurį laimėjo lietuviai.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-008
-  teiginys: 'Bermontininkų rinktinė iš Kuršėnų persikėlė į Šiaulius.'
-  pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-009
-  teiginys: 'Šiauliuose buvo vieni pagrindinių bermontininkų amunicijos ir ginklų sandėlių.'
-  pagrindžia:
-    - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Šiauliuose, ties dabartinių Tilžės ir Vilniaus gatvių sankryža, buvo pagrindinė Šiaulių žemės strateginė kelių sankryža ir plėtojosi senovės gyvenvietė.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  santrauka: 'Ties Šiauliais įvyko didelis mūšis, kurį laimėjo lietuviai.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Iš
-    įvairių šaltinių žinoma, kad po plėšimo
-    kariuomenė vėl susirinkdavo į nustatytą
-    vietą-stovyklą. Šiaulių žemėje pagrindinė
-    strateginė kelių sankryža yra Šiauliuose
-    (ties dab. Tilžės ir Vilniaus gatvių san-
-    kryža), kur plėtojosi senovės gyvenvietė.
+    1236 m. kalavijuočiai su svečiais įsiveržė į Lie-
+    tuvą ir žiauriai nusiaubė kraštą. Pajutę susitelkusią lietuvių ka-
+    riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai
+    pastojo jiems kelią. Ties Šiauliais įvyko didelis mūšis, kurį
+    laimėjo lietuviai.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -66,35 +72,10 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-007
-- c-002
-  santrauka: 'Bermontininkų rinktinė iš Kuršėnų persikėlė į Šiaulius.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Spalio 5 d. plk. Virgoličiaus
-    rinktinė iš Kuršėnų per-
-    sikėlė į Šiaulius. Lietuvos
-    vyriausybė negalėjo už-
-    kirsti jai kelio, nes tuo metu
-    Lietuvos kariuomenė dar
-    tęsė kovas su bolševikais Dauguvos fronte.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-008
-- c-003
-  santrauka: 'Šiauliuose buvo vieni pagrindinių bermontininkų amunicijos ir ginklų sandėlių.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Pagrindiniai jų amunicijos sandėliai
-    buvo Šiauliuose ir Žeimelyje, o ginklų -
-    Gubernijoje, Joniškyje ir Šiauliuose.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-009
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIII amžius]]
+- [[laikotarpiai/XVIII amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

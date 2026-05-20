@@ -102,3 +102,8 @@ Tačiau Vokietijos vyriausybė uždraudė lietuviams kilus karui sudaryti bet ko
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Rytų kraštas (Ostlandas)]]
+- [[objektai/ivykiai/Rytų krašto (Ostlando) reicho komisariato sudarymas ir civilinio okupacinio valdymo įvedimas (1941 m. liepos pabaiga)]]

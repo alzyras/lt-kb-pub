@@ -9,19 +9,25 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 bukle: 'juodrastis'
 laikotarpis: '1654 m. rugpjūčio 12 d.'
-datos:
-  - '1654 m. rugpjūčio 12 d.'
-periodas: 'ankstyvieji_naujieji_laikai'
-periodo_grupes: []
-amziai:
-  - 'XVII'
-date_start: '1654'
-date_end: '1654'
 vaidmenys: []
 dalyviai:
   - 'Jonušas Radvila'
   - 'kunigaikštis Čerkaskis'
 susije_irasai: []
+datos:
+  - '1612 m.'
+  - '1654 m.'
+  - '1655 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVII'
+  - 'XXI'
+date_start: '1612'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - mūšis
@@ -46,7 +52,13 @@ Nenurodyta
 
 ## Teiginiai
 - t-003
-  teiginys: 'Kunigaikštis Čerkaskis iš Smolensko žygiavo užimti Oršą ir Kopysę, o Šklovo mūšio dieną priešininkų pajėgos dar tik ruošėsi susidūrimui.'
+  teiginys: '1654 m. rugpjūčio 12 d. kunigaikštis Čerkaskis, turėdamas apie 40 000 karių, nuo Smolensko žygiavo užimti Oršą ir Kopysę.'
+  pagrindžia:
+    - c-002
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-004
+  teiginys: 'Šklovo mūšyje LDK kariuomenei vadovavo didysis etmonas kunigaikštis Jonušas Radvila.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -54,7 +66,28 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kunigaikštis Čerkaskis iš Smolensko žygiavo užimti Oršą ir Kopysę, o Šklovo mūšio dieną priešininkų pajėgos dar tik ruošėsi susidūrimui.'
+  santrauka: 'Šklovo mūšyje LDK kariuomenei vadovavo didysis etmonas kunigaikštis Jonušas Radvila.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Lietuvos pajėgos
+
+    Šklovo mūšyje LDK kariuomenei vadovavo
+
+    didysis etmonas kunigaikštis Jonušas Radvila
+    (1612-1655). 1654 m. liepos mėn. J. Radvilos
+
+    vadovaujamas LDK karines pajėgas sudarė
+    11261 karys. Lietuviai stipriai nusileido ru-
+    sams pajėgų dydžiu.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
+- c-002
+  santrauka: '1654 m. rugpjūčio 12 d. kunigaikštis Čerkaskis, turėdamas apie 40 000 karių, nuo Smolensko žygiavo užimti Oršą ir Kopysę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Caro kariuomenė prie
@@ -78,3 +111,4 @@ Nenurodyta
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XVII amžius]]
+- [[laikotarpiai/XXI amžius]]

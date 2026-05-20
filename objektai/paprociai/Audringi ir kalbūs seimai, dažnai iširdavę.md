@@ -45,7 +45,9 @@ Nenurodyta
   santrauka: 'Seimai paprastai būdavo audringi ir kalbūs, o po ilgų kalbų dažnai iširdavo; iki minimo momento iš Augusto II šauktų seimų buvo iširę septyni.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Nors šiaipjau visi seimai būdavo labai
+    Jei kuri pusė jų nepriimtų, prieš tą jis pagrasino čia pat
+    stovinčia caro armija. Visi buvo labai nepatenkinti, tačiau prieš
+    jėgą teko nusilenkti. Nors šiaipjau visi seimai būdavo labai
     audringi, atstovai juose mėgdavo daug kalbėti, ir po ilgų kalbų
 
     seimas dažniausiai iširdavo (iš Augusto II iki tol šauktų seimų

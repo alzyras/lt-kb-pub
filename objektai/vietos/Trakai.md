@@ -13,6 +13,35 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 susije_irasai: []
+datos:
+  - '1350 m.'
+  - '1352 m.'
+  - '1377 m.'
+  - '1379 m.'
+  - '1382 m.'
+  - '1383 m.'
+  - '1412 m.'
+  - '1430 m.'
+  - '1435 m.'
+  - '1440 m.'
+  - '1654 m.'
+  - '1655 m.'
+  - '1930 m.'
+  - '1936 m.'
+  - '1978 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+  - 'XV'
+  - 'XVII'
+  - 'XX'
+  - 'XXI'
+date_start: '1350'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - miestas
@@ -25,31 +54,41 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 
 ## Teiginiai
 - t-017
-  teiginys: '1379 m. rugsėjo 29 d. po trijų dienų derybų Trakuose buvo pasirašyta sutartis.'
+  teiginys: 'Netoli Vilniaus, sunkiai prieinamame Galvės ežero pusiasaly, Gediminas pastatė dar kitą tvirtą pilį, kuri ilgą laiką buvo tarytum antroji Lietuvos sostinė, — tai Trakai.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-018
-  teiginys: 'Lietuvą kurį laiką valdė diarchija: Algirdas Vilniuje, o Kęstutis Trakuose.'
+  teiginys: 'Nuvykęs į Trakus, Vytautas atsigulė ir daugiau nebekėlė.'
   pagrindžia:
     - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-019
-  teiginys: 'Vytauto laikais Trakų žemėje buvo daug dvarų, nes ji buvo labiau apgyventa ir arti didžiojo kunigaikščio būstinės.'
+  teiginys: 'Švitrigaila daug kartų puolė Zigmantą ir kartą net pasiekė Vilnių ir Trakus, tačiau vis nieko nelaimėdavo.'
   pagrindžia:
     - c-003
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  statusas: patvirtinta
+- t-020
+  teiginys: 'Mykolas, nusilenkęs Kazimierui, žadėjo būti jam paklusnus; jis tik prašė, kad jam būtų palikti Trakai ir kad būtų nubausti tėvo užmušėjai.'
+  pagrindžia:
+    - c-004
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1379 m. rugsėjo 29 d. po trijų dienų derybų Trakuose buvo pasirašyta sutartis.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: 'Netoli Vilniaus, sunkiai prieinamame Galvės ežero pusiasaly, Gediminas pastatė dar kitą tvirtą pilį, kuri ilgą laiką buvo tarytum antroji Lietuvos sostinė, — tai Trakai.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Po trijų dienų sunkių derybų Trakuose bu­
-    vo pasirašyta (1379—IX—29) sutartis.
+    Todėl čia greit išaugo didelis miestas, kurs tapo amžinąja
+    Lietuvos sostine. Netoli Vilniaus, sunkiai prieinamame Galvės
+    ežero pusiasaly, Gediminas pastatė dar kitą tvirtą pilį, kuri ilgą
+    laiką buvo tarytum antroji Lietuvos sostinė, — tai Trakai. Jo
+    sūnus [[Kęstutis]] vėliau pastatė kitą didingą mūro pilį to paties
+    ežero saloje.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -58,11 +97,12 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   pagrindžia:
     - t-017
 - c-002
-  santrauka: 'Lietuvą kurį laiką valdė diarchija: Algirdas Vilniuje, o Kęstutis Trakuose.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: 'Nuvykęs į Trakus, Vytautas atsigulė ir daugiau nebekėlė.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Mes žinom, kad Lietuvą savo laiku valdė du didžiuoju ku­
-    nigaikščiu: Algirdas Vilniuj, Trakuose Kęstutis.
+    Susitrenkęs nebegalėjo toliau joti, todėl važiavo žmonos
+    vežime. Nuvykęs į Trakus, atsigulė ir daugiau nebekėlė.
+    Vytauto kapas.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -71,16 +111,14 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   pagrindžia:
     - t-018
 - c-003
-  santrauka: 'Vytauto laikais Trakų žemėje buvo daug dvarų, nes ji buvo labiau apgyventa ir arti didžiojo kunigaikščio būstinės.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: 'Švitrigaila daug kartų puolė Zigmantą ir kartą net pasiekė Vilnių ir Trakus, tačiau vis nieko nelaimėdavo.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Vytautas Didysis, ėmęs valdyti Lietuvą, taip pat pasidarė
-    didelis žemvaldys, paveldėdamas didž. kunigaikščiui priklau­
-    sančias žemes ir jų dvarus. Jo laikais tokių dvarų - ūkio centrų
-    gausiai buvo pačioje Lietuvoje—Vilniaus, Trakų ir iš dalies Že­
-    maičių žemėse, ir Volynijoje bei Podolijoje, nes tai buvo labiau
-    apgyventos vietos; be to, Trakų ir Vilniaus žemės buvo taip pat
-    arčiau didž. Lietuvos kunigaikščio būstinės.
+    **Ukmergės mūšis** (1435 **m.).** Švitrigaila daug kartų puolė
+    Zigmantą ir kartą net pasiekė Vilnių ir Trakus, tačiau vis
+    nieko nelaimėdavo. 1435 m. jis sukvietė visus savo sąjungininkus
+    — Livonijos ordiną, totorius, rusų kunigaikščius — ir išsiruošė
+    į didelį žygį.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -88,9 +126,32 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-019
+- c-004
+  santrauka: 'Mykolas, nusilenkęs Kazimierui, žadėjo būti jam paklusnus; jis tik prašė, kad jam būtų palikti Trakai ir kad būtų nubausti tėvo užmušėjai.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    **Kazimiero konkurentų likimas.** Mykolas, nusilenkęs Kazimie-
+    rui, žadėjo būti jam paklusnus; jis tik prašė, kad jam būtų palikti
+    Trakai ir kad būtų nubausti tėvo užmušėjai. Tačiau netrukus jis
+    bandė suruošti prieš Kazimierą sąmokslą, kuriam nepavykus, pa-
+    bėgo į Maskvą.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-020
 
 ## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XVII amžius]]
+- [[laikotarpiai/XX amžius]]
+
 ### Susiję objektai
+- [[objektai/asmenys/Kęstutis]]
 - [[objektai/vietos/Luckas]]
 - [[objektai/vietos/Minskas]]
 - [[objektai/vietos/Naugardukas]]

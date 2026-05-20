@@ -6,8 +6,18 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1978 m.'
+  - '2026 m.'
+periodas: 'okupacijų ir sovietmečio laikotarpis'
+periodo_grupes:
+  - 'XX a.'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1978'
+date_end: '2026'
 patikimumas: 'aukštas'
-periodas: viduramziai
 tags:
   - daiktas
 ---
@@ -33,7 +43,36 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-Nenurodyta
+- t-001
+  teiginys: 'Per Rygą Lietuva iš Vakarų gaudavo būtiniausių dalykų, tarp jų druską, vilnones medžiagas ir geležį.'
+  pagrindžia:
+    - c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-Nenurodyta
+- c-001
+  santrauka: 'Per Rygą Lietuva iš Vakarų gaudavo būtiniausių dalykų, tarp jų druską, vilnones medžiagas ir geležį.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Nuo Vytenio ir
+    Gedimino laikų Ryga išsivystė Lietuvai ypatingai svarbiu prekybos
+    centru. Per Rygą Lietuva traukėsi sau iš Vakarų būtiniausius
+    dalykus, būtent, druską, vilnones medžiagas, geležį (ginklus). O ji
+    galėjo pasiūlyti Vakaruose gerą paklausą turinčių ir lengvai trans­
+    portuojamų prekių (vaško ir kailių) neišsenkančius kiekius.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
+### Susiję objektai
+- [[objektai/daiktai/Druska]]

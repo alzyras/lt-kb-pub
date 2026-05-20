@@ -21,7 +21,3 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
 ## Teiginiai
 
 ## Reikšmingi paminėjimai
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/upė]]

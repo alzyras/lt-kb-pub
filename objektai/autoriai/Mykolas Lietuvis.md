@@ -9,20 +9,24 @@ saltiniai:
   - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
 bukle: juodrastis
 laikotarpis: "apie 1550 m."
-datos:
-  - "apie 1550 m."
-periodas: "ankstyvieji_naujieji_laikai"
-periodo_grupes:
-  - "LDK"
-amziai:
-  - "XVI"
-date_start: "1550"
-date_end: "1550"
 vaidmenys:
   - "literatas"
   - "raštininkas"
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1530 m.'
+  - '1550 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVI'
+  - 'XXI'
+date_start: '1530'
+date_end: '2026'
 patikimumas: "aukštas"
 tags:
   - autorius
@@ -39,28 +43,25 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
 
 ## Teiginiai
 - t-006
-  teiginys: 'Mykolo Lietuvio svarstymai apie valstybės tvarką siejami su veikalu „Apie totorių, lietuvių ir maskvėnų papročius“.'
+  teiginys: 'Mykolas Lietuvis liudijo, kad Vilniaus katedroje laikytos trofėjinės vėliavos sudegė per 1530 m. gaisrą.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-007
-  teiginys: 'Mykolas Lietuvis savo svarstymuose Vytauto laikų papročių rigorizmą ir asketizmą priešpriešino savo meto visuomenės išglebimui, girtuoklystei ir netvarkai.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Mykolo Lietuvio svarstymai apie valstybės tvarką siejami su veikalu „Apie totorių, lietuvių ir maskvėnų papročius“.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  santrauka: 'Mykolas Lietuvis liudijo, kad Vilniaus katedroje laikytos trofėjinės vėliavos sudegė per 1530 m. gaisrą.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Šias idėjas randame ir
-    Mykolo Lietuvio svarstymuose apie valstybės tvarką („Apie totorių, lietuvių
-    ir maskvėnų papročius“, apie 1550), kurioje Vytauto laikų papročių rigoriz-
-    mas ir asketizmas yra priešpriešinamas savo meto visuomenės išglebimui,
-    girtuoklystei ir netvarkai.
+    Kilmingi žuvusieji buvo atvežti ir palai-
+    doti Vilniuje. Čia, valdovui grįžus, įvyko
+    triumfo iškilmės, eisenoje buvo vedami
+    belaisviai Maskvos karvedžiai ir kariai,
+    Vilniaus katedroje pakabintos trofėjinės
+    vėliavos. (Kaip liudija Mykolas Lietuvis,
+    jos su kitomis čia saugotomis sudegė per
+    1530 m. gaisrą).
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -68,13 +69,13 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
-    - t-007
 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XVI amžius]]
+- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/autoriai/Mikalojus Husovianas]]
-- [[objektai/paprociai/Kandidatas 30 Kronikų rašymo ir lietuvių kilmės iš romėnų mito perėmimas]]
-- [[objektai/paprociai/Kandidatas Kronikų rašymo ir lietuvių kilmės iš romėnų mito perėmimas]]
+- [[objektai/ivykiai/Oršos mūšis (1514 m. rugsėjo 8 d.)]]
+- [[objektai/ivykiai/Oršos mūšis (1514 m.)]]

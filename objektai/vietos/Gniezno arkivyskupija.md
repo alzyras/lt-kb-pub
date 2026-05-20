@@ -31,11 +31,15 @@ Senosios Lietuvos valstybės laikais, nuo pat krikšto, visa etnografinė Lietuv
   santrauka: 'Nuo Lietuvos krikšto visa etnografinė Lietuva priklausė Lenkijos Gniezno arkivyskupijai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Senosios Lietuvos valstybės laikais, nuo
+    Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės
+    provincijos klausimas. Senosios Lietuvos valstybės laikais, nuo
     pat krikšto, visa etnografinė Lietuva priklausė Lenkijos Gniezno
     arkivyskupijai, o rusų valdymo laikais ji buvo įterpta į naujai
     sudarytą Mogilevo arkivyskupiją, kurios arkivyskupas buvo
-    perkeltas į Petrapilį.
+    perkeltas į Petrapilį. Tik XIX a. pradžioje įkurta Vigrių vysku-
+    pija priklausė tiesiog popiežiaus, o vėliau jos vietoje įkurta Sei-
+    nų vyskupija priklausė, taip pat XIX amž. įkurtai, Varšuvos ar-
+    kivyskupijai.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

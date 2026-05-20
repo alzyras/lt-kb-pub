@@ -45,51 +45,14 @@ Praktika minima Vytauto santykiuose su Ordinu ir Jogailos dokumentiniame pažad�
 
 ## Teiginiai
 - t-004
-  teiginys: 'Magistras davė Vytautui raštišką pažadą teikti paramą atgaunant tėviškę.'
-  pagrindžia:
-    - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-005
-  teiginys: '1384 m. sausio 30 d. Vytautas Karaliaučiuje išdavė magistrui raštą ir pasižadėjo būti jo vasalu.'
-  pagrindžia:
-    - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-006
   teiginys: '1385 m. rugpjūčio 14 d. Jogailos pažadus patvirtinęs dokumentas buvo papildomai sustiprintas Vytauto, Skirgailos, Kaributo ir Lengvenio antspaudais.'
   pagrindžia:
-    - c-002
+    - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Magistras davė Vytautui raštišką pažadą teikti paramą atgaunant tėviškę.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Magistras iš savo pusės davė Vytautui raštišką pažadą
-    teikti jam paramos atgaunant tėviškę. Bet ir Vytautas taip pat
-
-
-    ```
-    — 24 —
-    ```
-    turėjo visus savo pažadus dokumentu patvirtinti. Todėl 1384
-    metų sausio mėn. pabaigoje mes matome jį Karaliaučiuje, kur
-    atvykęs su savo giminaičiais sausio mėn. 30 d., kaip „Herczog
-    von Traken von Gottes Gnaden” išdavė magistrui raštą, pasi­
-    žadėdamas būti jo vasalu. Tame pačiame dokumente Vytautas
-    pasivadino Vigandu, vietoje pirmiau rašomo Vytauto vardo
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-004
-    - t-005
-- c-002
   santrauka: '1385 m. rugpjūčio 14 d. Jogailos pažadus patvirtinęs dokumentas buvo papildomai sustiprintas Vytauto, Skirgailos, Kaributo ir Lengvenio antspaudais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -107,7 +70,7 @@ Praktika minima Vytauto santykiuose su Ordinu ir Jogailos dokumentiniame pažad�
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-006
+    - t-004
 
 ## Ryšiai
 ### Laikotarpiai

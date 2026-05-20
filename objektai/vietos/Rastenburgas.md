@@ -6,6 +6,20 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1347 m.'
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'LDK'
+  - 'modernioji Lietuva'
+amziai:
+  - 'XIV'
+  - 'XX'
+  - 'XXI'
+date_start: '1347'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - miestas
@@ -20,23 +34,25 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Rastenburgo pilis buvo įkurta 1345 m.'
+  teiginys: '1347 m. vasarį du lietuvių valdovai puolė Prūsijoje buvusį Rastenburgą.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Rastenburgo pilis buvo įkurta 1345 m.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: '1347 m. vasarį du lietuvių valdovai puolė Prūsijoje buvusį Rastenburgą.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Štai Lietuvai artimesniųjų pilių įkūrimo
-    datos: Klaipėda — 1252 m., Ragainė — 1289 m., Tilžė — 1293 m., Girdava —
-    1325 m., Vėluva ir Angerburgas — 1335 m., Įsrutis ir Röselis — 1337 m.,
-    Lotzenburgas — apie 1340 m., Rastenburgas ir Johanisburgas — 1345 m.,
-    Alenšteinas — 1353 m., Ortelsburgas — taip pat XIV a. vidury, Bišofsburgas—
-    1395 m., Lyka — 1398 m. (miestelis prie jos pradėtas kurti tik 1435 m. ), ir t.t.
+    1347 m. vasarį „abu lietuvių karaliai“
+    puolė Prūsijoje Rastenburgą, niokojo
+    Bartos žemę iki Girdavų pilies, apgulė
+    Lunenburgą, sunaikino jo papilį.
+
+    Nuo lietuvių puolimo Ordinas bandė sau-
+    goti Sembą. Magistras su gausia kariuomene
+    įvairiose vietose priešais Lietuvos žemes
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -44,3 +60,12 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
+### Susiję objektai
+- [[objektai/vietos/Lunenburgas]]

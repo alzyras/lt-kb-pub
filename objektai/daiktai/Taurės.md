@@ -51,18 +51,18 @@ Nenurodyta
 - t-003
   teiginys: 'Gėrimo indą, vadinamą stotkeliu, senovėje dar vadino taure arba taurage.'
   pagrindžia:
-    - c-002
+    - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-002
+- c-001
   santrauka: 'Gėrimo indą, vadinamą stotkeliu, senovėje dar vadino taure arba taurage.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Pačius ragus žvėrių vienus ant kesčių^159 galų maustė ir ragotines^160 dirbo sau ginklui, nesgi
-    geležies dar nežinojo, iš kitų gėrė, nuo ko iki šiolei geriamą stotkelį senu įpročiu taure, arba
-    taurage^161 , tebvadina.
+        geležies dar nežinojo, iš kitų gėrė, nuo ko iki šiolei geriamą stotkelį senu įpročiu taure, arba
+        taurage^161 , tebvadina.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

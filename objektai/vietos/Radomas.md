@@ -6,6 +6,17 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1936'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - bajorija
@@ -20,22 +31,21 @@ Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumen
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lenkų bajorai Vilniaus ir Radomo susitarimo dokumentą surašė Radome.'
+  teiginys: 'Dėl paskutinės unijos buvo susitarta Vilniuje ir Radome, todėl aktas vadintinas Vilniaus-Radomo unija.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lenkų bajorai Vilniaus ir Radomo susitarimo dokumentą surašė Radome.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: 'Dėl paskutinės unijos buvo susitarta Vilniuje ir Radome, todėl aktas vadintinas Vilniaus-Radomo unija.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Vytauto ir Lietuvos bajorų
-    dokumentai buvo parašyti Vilniuje; Jogailos dokumentas yra žu-
-    vęs, tad nežinia, kur jis duotas; lenkų bajorai savo dokumentą su-
-    rašė Radome. Todėl šis susitarimas yra vadinamas Vilniaus
-    Radomo susitarimu.
+    Paskutinę uniją mes įpratę vadinti vilniške, kas ne visiškai
+    teisinga, nes dėl tos unijos buvo susitarta Vilniuj ir Radome.
+    Todėl ir tas aktas vadintinas Vilniaus-Radomo unija.
+    Pirmiausia susipažinsim su Vytauto duotu dokumentu^2 ).
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -45,5 +55,9 @@ Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumen
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/dokumentas]]
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
+### Susiję objektai
+- [[objektai/ivykiai/Vilniaus-Radomo susitarimas]]

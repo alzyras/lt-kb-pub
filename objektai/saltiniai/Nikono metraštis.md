@@ -36,7 +36,7 @@ Tas pats aprašyta vėlesniame MaskvosTverės kilmės Nikono metraštyje (susiju
 
 ## Teiginiai
 - t-002
-  teiginys: 'Tas pats aprašyta vėlesniame MaskvosTverės kilmės Nikono metraštyje (susijusiame su Algirdo palikuonimis Belskiais).'
+  teiginys: 'Nikono metraštyje aprašyti Mėlynųjų Vandenų įvykiai, siejami su Algirdo žygiu į Mėlynuosius Vandenis ir Baltąją pakrantę.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -46,7 +46,7 @@ Tas pats aprašyta vėlesniame MaskvosTverės kilmės Nikono metraštyje (susiju
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Tas pats aprašyta vėlesniame MaskvosTverės kilmės Nikono metraštyje (susijusiame su Algirdo palikuonimis Belskiais).'
+  santrauka: 'Nikono metraštyje aprašyti Mėlynųjų Vandenų įvykiai, siejami su Algirdo žygiu į Mėlynuosius Vandenis ir Baltąją pakrantę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mėlynųjų Vandenų įvykių pagrindi-

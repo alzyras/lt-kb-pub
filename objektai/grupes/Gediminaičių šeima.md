@@ -38,10 +38,15 @@ Be to, tas susitarimas nepatiko nė valdančiajai Gediminaičių šeimai; Aleksa
   santrauka: 'Gediminaičių šeimai nepatiko susitarimas, dėl kurio Vladislovas savo ir Zigmanto vardu pareiškė protestą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    pagalbos; tad nebuvo jokios naudos dėtis į uniją su Lenkija.
     Be to, tas susitarimas nepatiko nė valdančiajai Gediminaičių
     šeimai; Aleksandro brolis, Čekų karalius Vladislovas, savo ir
     jaunesniojo brolio Zigmanto vardu net pareiškė protestą dėl
-    to susitarimo.
+    to susitarimo. Nors lietuviai jau nuo Švitrigailos laikų rinkosi
+    sau kunigaikščius, tačiau Jogailos palikuonys manė, kad bent
+    Lietuva jiems turinti tekti paveldėtinai; o tuo susitarimu buvo
+    norima įvesti elekciją, taigi visai nebuvo atsižvelgiama į jų tei-
+    ses.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -53,6 +58,7 @@ Be to, tas susitarimas nepatiko nė valdančiajai Gediminaičių šeimai; Aleksa
   santrauka: 'Gedimino šeimos šaka pasibaigė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    (Gersono paveikslas).
     Gedimino šeimos šaka pasibaigė. Tiesa, dar buvo gyvų daug
     Gedimino giminės kunigaikščių, bet jie jau seniai buvo nutolę
     nuo sosto, nusigyvenę, ir todėl nebetiko kandidatais į valdovus.
@@ -63,3 +69,7 @@ Be to, tas susitarimas nepatiko nė valdančiajai Gediminaičių šeimai; Aleksa
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Jogailos palikuonys]]

@@ -31,7 +31,22 @@ Be to, jis siūlė palikti toje kunigaikštijoje Lietuvos statutą be jokių apr
   santrauka: 'Oginskio projekte siūlyta kunigaikštijoje be apribojimų palikti Lietuvos Statutą ir įsteigti nuo Petrapilio nepriklausomą tribunolą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Be to, jis siūlė pa-
+    Juo buvo siūloma iš
+    8 Rusijos gubernijų, ku-
+    riose veikė Lietuvos statu-
+    tas, sudaryti didžiąją Lie-
+    tuvos kunigaikštiją (įsidė-
+    mėtina, kad į ją buvo siū-
+    loma įterpti ir Voluinės,
+    Podolės ir Kijevo sritis,
+    kurios nuo 1569 m. buvo
+    Lenkijos ribose: mat, jose
+    taip pat visą laiką veikė
+    Lietuvos statutas). Ogins-
+    kis nurodinėjo, kad tuo
+    būdu kelias Nepoleono
+    įtakai Lietuvoje būtų už-
+    kirstas. Be to, jis siūlė pa-
     likti toje kunigaikštijoje
     Lietuvos statutą be jokių
     apribojimų ir įsteigti nuo

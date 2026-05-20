@@ -20,7 +20,3 @@ Tačiau tai dar ne viskas – rūpintasi tautinių ir valstybinių tradicijų k�
 
 ## Teiginiai
 ## Reikšmingi paminėjimai
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/aktas]]

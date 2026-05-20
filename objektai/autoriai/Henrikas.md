@@ -26,13 +26,13 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
 
 ## Teiginiai
 - t-004
-  teiginys: 'Šiame leidinyje Henrikas Latvis tiesiogiai siejamas su „Livonijos kronika“.'
+  teiginys: 'Henrikas Latvis siejamas su „Livonijos kronika“, kurioje aprašytas lietuvių kovos būdas prie Dauguvos 1207 m.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-005
-  teiginys: 'Šiame leidinyje Henriko Latvio „Livonijos kronika“ naudojama aprašant lietuvių kovos būdą ir Lietuvos valdžios siekį valdyti kitas gentis.'
+  teiginys: 'Henriko Latvio „Livonijos kronikoje“ aprašytas lietuvių kovos būdas ir Lietuvos valdžios siekis valdyti kitas gentis.'
   pagrindžia:
     - c-001
     - c-002
@@ -41,7 +41,7 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Šiame leidinyje Henrikas Latvis tiesiogiai siejamas su „Livonijos kronika“.'
+  santrauka: 'Henrikas Latvis siejamas su „Livonijos kronika“, kurioje aprašytas lietuvių kovos būdas prie Dauguvos 1207 m.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Ištrauka iš žymiausio Kalavijuočių ideologo Henriko Latvio „Livonijos kronikos“
@@ -55,7 +55,7 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
     - t-004
     - t-005
 - c-002
-  santrauka: 'Šiame leidinyje Henriko Latvio „Livonijos kronika“ naudojama aprašant lietuvių kovos būdą ir Lietuvos valdžios siekį valdyti kitas gentis.'
+  santrauka: 'Henriko Latvio „Livonijos kronikoje“ aprašytas lietuvių kovos būdas ir Lietuvos valdžios siekis valdyti kitas gentis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Ištrauka iš Henriko Latvio „Livonijos kronikos“ apie Lietuvos valdžios siekį valdyti

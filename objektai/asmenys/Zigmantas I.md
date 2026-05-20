@@ -71,5 +71,5 @@ Lietuvos ir Lenkijos valdovų – Vytauto ir Jogailos – susitikimui su Švento
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila]]
 - [[objektai/ivykiai/Lucko suvažiavimas]]
+- [[objektai/daiktai/Vytauto ir Julijonos karūnos]]

@@ -16,9 +16,22 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-patikimumas: 'vidutinis'
 datos:
-  - '1410 m. liepos 15 d.'
+  - '1410 m.'
+  - '1936 m.'
+  - '1978 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XV'
+  - 'XX'
+  - 'XXI'
+date_start: '1410'
+date_end: '2026'
+patikimumas: 'vidutinis'
 vaidmenys: []
 dalyviai:
   - 'Vytautas'
@@ -28,13 +41,7 @@ dalyviai:
   - 'lenkai'
   - 'kryžiuočiai'
 susije_irasai: []
-periodo_grupes: []
-amziai:
-  - 'XV'
 laikotarpis: '1410 m. liepos 15 d.'
-date_start: '1410'
-date_end: '1410'
-periodas: 'viduramziai'
 tags:
   - ivykis
   - mūšis
@@ -61,25 +68,24 @@ Nenurodyta
 
 ## Teiginiai
 - t-009
-  teiginys: 'Žalgirio mūšis buvo vienas didžiausių viduramžių Europos mūšių ir pakeitė jėgų balansą regione.'
+  teiginys: 'Prieš Tanenbergo mūšį kryžiuočių didžiojo magistro pasiuntiniai atnešė du nuogus kardus.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Žalgirio mūšis buvo vienas didžiausių viduramžių Europos mūšių ir pakeitė jėgų balansą regione.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  santrauka: 'Prieš Tanenbergo mūšį kryžiuočių didžiojo magistro pasiuntiniai atnešė du nuogus kardus.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Po Žalgirio mūšio kryžiuočiai
-    jau niekada nebekėlė grėsmės Lietuvos
-    valstybingumui. Ilgainiui Ordinas nustojo
-    egzistuoti. Vokiečių Prūsija tapo Lenkijos
-    karūnos vasale. Taip baigėsi vienas di-
-    džiausių viduramžių Europos mūšių, am-
-    žininkų vadintas „didžiuoju“, pakeitęs jėgų
-    balansą visame regione.
+    Įėjo Vengrijos
+    ir Štetino kunigaikštijos ženklais pažymėti du riteriai dviem
+    nuogais kardais nešini. Pasiuntiniai pareiškė, kad šituos du
+    kardus atnešė kryžiuočių didžiojo magistro liepiami. Ordino
+    magistras prašęs priimti tuos du kardu, kaipo pagalbą būsimam
+    susirėmimui ir su tais ginklais stoti drąsiai į kautynes at­
+    viram lauke, bet nesislapstyti giriose, kaip iki šiol.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -91,3 +97,9 @@ Nenurodyta
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
+### Susiję objektai
+- [[objektai/asmenys/Vytautas]]
+- [[objektai/ivykiai/Tanenbergo mūšis (1410 m. liepos 15 d.)]]

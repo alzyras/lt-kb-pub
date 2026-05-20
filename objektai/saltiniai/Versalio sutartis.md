@@ -40,6 +40,10 @@ Susikūrus Tautų Sąjungai (pagal Versalio sutartį, pasirašytą 1919 metų bi
   santrauka: 'Pagal 1919 m. birželio 28 d. pasirašytą Versalio sutartį buvo įkurta Tautų Sąjunga.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    II. 16) savo
+    teises lygiomis su Lenkija dalyvauti jo darbuose, tačiau kon-
+    gresas į tatai neatsižvelgė, rezervuodamas čia daugiausia senosios
+    Rusijos teises spręsti visų Pabaltijo valstybių likimą.
     Susikūrus Tautų Sąjungai (pagal Versalio sutartį, pasira-
     šytą 1919 metų birželio 28 d.), Lietuvos vyriausybė kreipėsi į
     ją, prašydama priimti Lietuvą į tą naują tarptautinių santykių
@@ -56,6 +60,13 @@ Susikūrus Tautų Sąjungai (pagal Versalio sutartį, pasirašytą 1919 metų bi
   santrauka: 'Pasirašydama Versalio sutartį Vokietija sutiko su Klaipėdos krašto atskyrimu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Čia, be to, dar nemažai prisidėjo Vokietija, kuri, tam tikrą
+    laiką būdama Tautų Sąjungos narys, ne kartą skundė Tautų
+    Sąjungai Lietuvos vyriausybę už tariamą konvencijos nesilai-
+    kymą; tuo tarpu ta pati Vokietija visokiais slaptais būdais kišosi
+    į Klaipėdos vidaus administracijos reikalus ir kiršino gyventojus
+    prieš visą eilę konvencijos nuostatų. Dėl tos priežasties Klai-
+    pėdoje maža tėra ramumo ir darnaus sugyvenimo.
     Vokietija, svajodama vėl užgrobti Klaipėdos kraštą, tam ne-
     turi jokio juridinio pagrindo, nes, pasirašydama Versalio su-
     tartį, ji sutiko su Klaipėdos krašto atskyrimu, o 1928 m. dary-

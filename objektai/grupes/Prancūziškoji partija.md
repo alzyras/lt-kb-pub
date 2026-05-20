@@ -20,35 +20,30 @@ Prancūziškoji partija pagaliau apie karaliaus pašalinimą jau nebegalvojo, ne
 
 ## Teiginiai
 - t-001
-  teiginys: '1672 m. mirus jos kandidatui, Prancūziškoji partija nebesiekė pašalinti karaliaus ir norėjo sunaikinti bajorų partiją.'
+  teiginys: 'Todėl stipriausia atrodė Prancūzų partija.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Todėl stipriausia atrodė Prancūzų partija.'
-  pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-003
   teiginys: 'Prancūziškoji partija atskirai paskelbė išrinktu princą Kontį.'
   pagrindžia:
-    - c-003
+    - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1672 m. mirus jos kandidatui, Prancūziškoji partija nebesiekė pašalinti karaliaus ir norėjo sunaikinti bajorų partiją.'
+  santrauka: 'Todėl stipriausia atrodė Prancūzų partija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Prancūziškoji partija pa-
-    galiau apie karaliaus pašalinimą jau nebegalvojo, nes mirė jos
-    kandidatas (1672 m.); ji dabar tik galvojo, kaip sunaikinti ba-
-    jorų partiją, kuri keletą prancūziškosios partijos žmonių, kaltin-
-    dama išdavimu, buvo patraukusi į seimo teismą ir pasmerkusi
-    ištremti.
+    Bet Jokūbas buvo nepo-
+    puliarus. Be to, jo šei-
+    moje ėjo kivirčai dėl tėvo
+    palikimo pasidalinimo, ir
+    prieš jį veikė net pati
+    motina. Todėl stipriausia
+    atrodė Prancūzų partija.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -57,23 +52,12 @@ Prancūziškoji partija pagaliau apie karaliaus pašalinimą jau nebegalvojo, ne
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Todėl stipriausia atrodė Prancūzų partija.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Todėl stipriausia
-    atrodė Prancūzų partija.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-003
   santrauka: 'Prancūziškoji partija atskirai paskelbė išrinktu princą Kontį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Prancūziškoji par-
+    Be to, jį parėmė ne tik Maskvos caro, bet ir nuo Jokūbo
+    atsimetusio imperatoriaus atstovas. Tuo būdu didelė dalis ba-
+    jorijos paskelbė karalium Fridriką Augustą. Prancūziškoji par-
     tija tačiau atskirai paskelbė išrinktu princą Kontį.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -81,8 +65,4 @@ Prancūziškoji partija pagaliau apie karaliaus pašalinimą jau nebegalvojo, ne
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkijos bajorų partija]]
+    - t-002

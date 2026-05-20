@@ -43,9 +43,3 @@ Vienbalsiai priimtas Lietuvos valstybės nepriklausomybės proklamavimo dokument
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/aktas - dokumentas]]
-- [[temos/aktas]]
-- [[temos/dokumentas]]

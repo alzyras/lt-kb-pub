@@ -21,14 +21,7 @@ Vartojamos formos: `rykius`.
 
 ## Teiginiai
 - t-003
-  teiginys: '`Rykys` šiame tekste reiškia valdovą arba vadą.'
-  pagrindžia:
-    - c-001
-    - c-002
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
-- t-004
-  teiginys: 'Terminas vartojamas ir kaip bendras socialinės hierarchijos pavadinimas, ir kaip konkretaus valdovo titulas.'
+  teiginys: 'Decebalas vadinamas getų rykiu ir vaizduojamas kaip nepasidavęs romėnams.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
@@ -36,23 +29,7 @@ Vartojamos formos: `rykius`.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '`Rykys` šiame tekste reiškia valdovą arba vadą.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    nuo tokios jos
-    kalbos gali kožnas aiškiai numanyti, jog angis^52 yra turėjusi savo ypatingą tikybą, rėdą, vyresnybę
-    ir diduomenę, beje: savo viešpačius, rykius^53 ir kunigaikščius, kurie viena kalba su svietu yra
-    kalbėję;
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003
-    - t-004
-- c-002
-  santrauka: '`Rykys` šiame tekste reiškia valdovą arba vadą.'
+  santrauka: 'Decebalas vadinamas getų rykiu ir vaizduojamas kaip nepasidavęs romėnams.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Decebalus, getų rykys, niekaip nenorėjo jiems pasiduoti ir lig paskuojo prieš rymionis stengė.

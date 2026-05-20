@@ -69,7 +69,12 @@ Terminas vartojamas aptariant Lietuvos ir Lenkijos santykių formą nuo Melniko 
   santrauka: 'Melniko susitarimu buvo norima įkurti vieną jungtinę valstybę su bendru seimu, valdovu, apsauga ir pinigais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Šiuo susita-
+    Lenkų reikalaujami, jie sutiko pasirašyti naują aktą,
+    normuojantį Lietuvos ir Lenkijos santykius; juo turėjo įvykti
+    tikroji valstybių unija. Naują susitarimą patvirtino trys doku-
+    mentai: tame pačiame Petrakavos seime lenkai ir lietuvių de-
+    legatai susikeitė dokumentais, o kiek vėliau Melnike tą susita-
+    rimą atskiru dokumentu patvirtino Aleksandras. Šiuo susita-
     rimu buvo norima įkurti viena jungtinė valstybė, kuri turė-
     tų bendrą seimą, bendrai vienoje vietoje
     rinktąjį valdovą, bendrą apsaugą ir bendrus
@@ -85,10 +90,11 @@ Terminas vartojamas aptariant Lietuvos ir Lenkijos santykių formą nuo Melniko 
   santrauka: 'Liublino aktu susidariusi valstybių jungtis nebuvo visiškas abiejų valstybių suliejimas į vieną.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Abidvi
+    ir buvo kreipiama į susitarimą dėl bendro valdovo. Abidvi
     pusės sutiko turėti bendrą valdovą; jos skyrėsi tik dėl forma-
     lumų, iš kurių turėjo išeiti, ar jos liks tik personalinėje unijoje
-    ar pereis į realinę.
+    ar pereis į realinę. Savotiškos personalinės unijos reikalavo lie-
+    tuviai.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -100,7 +106,10 @@ Terminas vartojamas aptariant Lietuvos ir Lenkijos santykių formą nuo Melniko 
   santrauka: 'Lietuviai reikalavo savotiškos personalinės unijos, kurioje renkant valdovą būtų skaitomasi su dviem sostais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Savotiškos personalinės unijos reikalavo lie-
+    Abidvi
+    pusės sutiko turėti bendrą valdovą; jos skyrėsi tik dėl forma-
+    lumų, iš kurių turėjo išeiti, ar jos liks tik personalinėje unijoje
+    ar pereis į realinę. Savotiškos personalinės unijos reikalavo lie-
     tuviai. Būtent jie reikalavo, kad kartu renkant valdovą būtų
     skaitomasi su dviem sostais, o lenkai reikalavo, kad būtų skai-
     tomasi tik su vienu dviejų jungtinių valstybių sostu.
@@ -115,6 +124,9 @@ Terminas vartojamas aptariant Lietuvos ir Lenkijos santykių formą nuo Melniko 
   santrauka: 'Liublino aktu susidariusi valstybių jungtis nebuvo visiškas abiejų valstybių suliejimas į vieną.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Įstatymą priimant tebuvo kartu balsuojama. Tuo būdu
+    jungtinės valstybės tik viena kitą prižiūrėjo, kad viena nepriimtų
+    nieko nenaudingo kitai.
     Apskritai, Liublino aktu abi valstybės nebuvo sulietos į
     vieną, nors tas valstybių junginys ir buvo vadinamas „abiejų
     tautų Respublika".

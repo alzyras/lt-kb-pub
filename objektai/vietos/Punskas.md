@@ -10,10 +10,9 @@ datos:
   - '1920 m.'
   - '2013 m.'
   - '2026 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
   - 'modernioji Lietuva'
-  - 'šiuolaikinė Lietuva'
 amziai:
   - 'XX'
   - 'XXI'
@@ -31,23 +30,21 @@ Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo apjungti netgi visų 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Karinių susidūrimų su Lenkija metu Lietuva prarado lietuviškus Seinus ir Punską.'
+  teiginys: 'Rugsėjo 22 d. „Gediminas“ susirėmė su lenkų artilerija už Punsko, prie Smalėnų miestelio.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Karinių susidūrimų su Lenkija metu Lietuva prarado lietuviškus Seinus ir Punską.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  santrauka: 'Rugsėjo 22 d. „Gediminas“ susirėmė su lenkų artilerija už Punsko, prie Smalėnų miestelio.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Paskutinė federacijos su Lenkija galimybė
-    Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo
-    apjungti netgi visų etninių lietuvių žemių, kur lietuviai sudarė daugumą
-    gyventojų – karinių susidūrimų su Lenkija metu buvo prarasti lietuviš-
-    ki Seinai ir Punskas. Kovos su lenkais įgavo ne tik teritorinį, bet ir so-
-    cialinį atspalvį – 1920 m.
+    Iš Kauno šarvuotas trauki-
+    nys nuvyko į Varėną, iš ten per Alytų į Šeštokus. Rugsėjo 22 d. „Gediminas“ susirėmė su
+    lenkų artilerija už Punsko, prie Smalėnų miestelio. Traukinys savo patrankomis ir kul-
+    kosvaidžiais rėmė Lietuvos kariuomenės pėstininkų veiksmus.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -60,3 +57,6 @@ Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo apjungti netgi visų 
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
 - [[laikotarpiai/XXI amžius]]
+
+### Susiję objektai
+- [[objektai/vietos/Smalėnai]]

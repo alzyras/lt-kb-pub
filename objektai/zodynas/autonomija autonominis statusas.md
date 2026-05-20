@@ -87,5 +87,4 @@ Visuomeninė veikla, domėjimasis karo eiga ir pokario sutvarkymo reikalais Viln
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Rytų Lietuva]]
 - [[objektai/zodynas/kantonas kantoninis principas]]

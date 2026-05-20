@@ -30,7 +30,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: '1917 m. pabaigoje Brastoje prasidėjus bolševikų ir Vokietijos taikos deryboms, lietuviai siekė grįžti į Lietuvą.'
+  teiginys: '1917 m. pabaigoje Brastoje prasidėjus bolševikų ir Vokietijos taikos deryboms, lietuviai siekė kuo greičiau grįžti į Lietuvą.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -38,9 +38,12 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1917 m. pabaigoje Brastoje prasidėjus bolševikų ir Vokietijos taikos deryboms, lietuviai siekė grįžti į Lietuvą.'
+  santrauka: '1917 m. pabaigoje Brastoje prasidėjus bolševikų ir Vokietijos taikos deryboms, lietuviai siekė kuo greičiau grįžti į Lietuvą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Greitai įvykęs komunistų
+    perversmas pertraukė ne tik Komiteto, bet ir šios Tarybos
+    veikimą.
     Tarp bolševikų vyriausybės ir Vokietijos prasidėjus sepa-
     ratinės taikos deryboms (derybos prasidėjo 1917 m. gale Brasto-
     je, taika buvo pasirašyta 1918 m. kovo mėn.), visi lietuvių rū-

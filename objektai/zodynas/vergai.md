@@ -20,7 +20,7 @@ Tai buvo vergai.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Vergais paprastai tapdavo karo belaisviai ir jų šeimos, neturėję laisvės ir turėję dirbti bajorui.'
+  teiginys: 'Vergais paprastai būdavo karo belaisviai ir jų šeimos, neturėję laisvės ir privalėję dirbti bajorui.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -28,7 +28,7 @@ Tai buvo vergai.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vergais paprastai tapdavo karo belaisviai ir jų šeimos, neturėję laisvės ir turėję dirbti bajorui.'
+  santrauka: 'Vergais paprastai būdavo karo belaisviai ir jų šeimos, neturėję laisvės ir privalėję dirbti bajorui.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tai buvo vergai. Vergais paprastai būdavo karo belaisviai

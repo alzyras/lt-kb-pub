@@ -32,7 +32,11 @@ Jis taip pat pasižadėjo grąžinti tą Maskvos bajorų raštą, kuriuo (1610 m
   santrauka: '1610 m. Maskvos bajorų raštu buvo patvirtintas Vladislovo išrinkimas caru.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Jis taip pat pasižadėjo grąžinti tą Maskvos bajorų raštą,
+    žinoji taika. Ja caras atsisakė nuo visų jau Divilino paliaubų
+    sutartimi perleistų žemių, atsisakė nuo pretenzijų į Livoniją ir
+    sutiko sumokėti 200.000 rublių karo išlaidų, o Vladislovas už
+    tai pripažino jį caru ir atsisakė nuo visų pretenzijų į Maskvos
+    sostą. Jis taip pat pasižadėjo grąžinti tą Maskvos bajorų raštą,
     kuriuo (1610 m.) buvo patvirtintas jo išrinkimas caru.
   citata_rodoma: ""
   teiginio_tipas: faktas

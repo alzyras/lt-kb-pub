@@ -36,7 +36,8 @@ Tik vienas Šernas savo „Lietuviškoje Ceitungoje" buvo pradėjęs spausdinti 
   santrauka: 'Šernas „Lietuviškoje Ceitungoje“ pradėjo spausdinti patriotiškus straipsnius apie lietuvių praeitį ir svetimųjų jungą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tik vienas Šernas savo „Lie-
+    Visi jie buvo vien informacinio pobūdžio, ir tautiškosios
+    sąmonės ugdymu nesirūpino. Tik vienas Šernas savo „Lie-
     tuviškoje Ceitun-
     goje" buvo pradėjęs
     spausdinti patriotiškus
@@ -66,6 +67,8 @@ Tik vienas Šernas savo „Lietuviškoje Ceitungoje" buvo pradėjęs spausdinti 
   santrauka: '1878 m. Šerno redaguojama „Lietuviška Ceitunga“ ėmė skelbti bendrumą su Didžiosios Lietuvos lietuviais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Jų tarpe buvo ir tokių, kurie jau stojo ant
+    grynai tautiško pagrindo, gynė tautiškus lietuvių reikalus, o nuo
     1878 m. Šerno redaguojamoji „Lietuviška Ceitunga"
     net ėmė skelbti bendrumą su Didžiosios Lietuvos lietuviais (mat,
     joje buvo pradėję rašyti ir vėlesnieji „Aušros" bendradar-
@@ -83,3 +86,7 @@ Tik vienas Šernas savo „Lietuviškoje Ceitungoje" buvo pradėjęs spausdinti 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/redaktorius]]
+
+### Susiję objektai
+- [[objektai/autoriai/M. Jankus]]
+- [[objektai/autoriai/S. Zauerveinas]]

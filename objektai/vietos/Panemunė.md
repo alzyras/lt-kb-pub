@@ -6,6 +6,17 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1936'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - karas
@@ -21,20 +32,24 @@ Pirmasis tų pabėgėlių ir tremtinių etapas buvo Vilniaus krašto Panemunė i
 
 ## Teiginiai
 - t-001
-  teiginys: 'Panemunė ir Vilniaus miestas buvo pirmasis pabėgėlių ir tremtinių etapas Vilniaus krašte.'
+  teiginys: 'Vytautas, išvykęs į Panemunę žvalgybų, pranešė Kęstučiui apie kryžiuočius Bajerburgo pilyje.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Panemunė ir Vilniaus miestas buvo pirmasis pabėgėlių ir tremtinių etapas Vilniaus krašte.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: 'Vytautas, išvykęs į Panemunę žvalgybų, pranešė Kęstučiui apie kryžiuočius Bajerburgo pilyje.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    karas užtruktų ilgiau, kaip kelis mėnesius. Pirmasis tų pabė-
-    gėlių ir tremtinių etapas buvo Vilniaus krašto Panemunė ir
-    patsai Vilniaus miestas.
+    1380 metų vasario mėn. jis jau vienas
+    pats padarė su Livonijos magistru Vilhelmu von Vrymersheimu
+    penkiems mėnesiams paliaubas. Tačiau viešai jis dar palaikė
+    Kęstutį. Kada Vytautas, išvykęs į Panemunę žvalgybų, pra­
+    nešė savo tėvui, kad Bajerburgo pilyje, netoli Veliuonos, yra
+    susimetę kryžiuočiai, o Jogaila, sužinojęs apie tai iš Kęstučio, vis
+    dėlto atsiuntė savo brolį Kaributą pagalbon.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -42,3 +57,8 @@ Pirmasis tų pabėgėlių ir tremtinių etapas buvo Vilniaus krašto Panemunė i
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

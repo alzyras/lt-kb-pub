@@ -46,6 +46,9 @@ Nenurodyta
   santrauka: 'Zigmanto II antkapis yra Krokuvos katedroje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Zigmantas buvo augalotas ir tvirtas vyras;
+    sako jį galėdavus perlaužti pasagą ir pertraukti storoką kanapinę
+    virvę. Jo sveikata pairo tik į gyvenimo pabaigą. Jaunystę praleido
     Zigmanto II antkapis Krokuvos katedroje.
   citata_rodoma: ""
   teiginio_tipas: faktas

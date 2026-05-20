@@ -6,6 +6,20 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1947 m.'
+  - '1949 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodo_grupes:
+  - 'XX a.'
+  - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1947'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - vieta
@@ -17,29 +31,10 @@ tags:
 Lenkijos prezidento Bronislovo Komorovskio (Bronislaw Komorowski) tėvo šaknys Lietuvoje, jo dvare Rokiškio apskrityje.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Bronislovo Komorovskio tėvo šaknys Lietuvoje siejamos su jo dvaru Rokiškio apskrityje.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Bronislovo Komorovskio tėvo šaknys Lietuvoje siejamos su jo dvaru Rokiškio apskrityje.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Lenkijos prezidento Bronislovo Komo-
-    rovskio (Bronislaw Komorowski) tėvo šaknys Lietuvoje, jo dvare Rokiš-
-    kio apskrityje.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Bronislovas Komorovskis]]
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

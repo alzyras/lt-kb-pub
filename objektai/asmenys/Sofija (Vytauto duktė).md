@@ -27,35 +27,30 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
 
 ## Teiginiai
 - t-006
-  teiginys: 'Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsilankęs pas Vytautą Lucke, susižadėjo su jo dukteria Sofija.'
+  teiginys: '1387 m. Lucke būsimas Maskvos valdovas turėjo vesti Vytauto dukterį Sofiją, kad sutartis su Vytautu būtų tvirtesnė.'
   pagrindžia:
-    - c-002
+    - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-007
-  teiginys: 'Jogaila, varžydamas Vytautą, be jo sutikimo uždraudė išleisti Sofiją už Maskvos kunigaikščio.'
+  teiginys: 'Jogaila be Vytauto sutikimo uždraudė jam išleisti dukterį Sofiją už Maskvos kunigaikščio.'
   pagrindžia:
-    - c-003
+    - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-008
   teiginys: 'Sofijos, Maskvos kunigaikštienės, vardu buvo įteiktas protestas prieš Žemaitijos atidavimą Ordinui po jos tėvo mirties.'
   pagrindžia:
-    - c-004
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-009
-  teiginys: 'Po vyro mirties Sofija prašė Vytautą paimti jos sūnų Vosylių II globon, paliekant jam valstybę.'
-  pagrindžia:
-    - c-005
+    - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsilankęs pas Vytautą Lucke, susižadėjo su jo dukteria Sofija.'
+- c-001
+  santrauka: '1387 m. Lucke būsimas Maskvos valdovas turėjo vesti Vytauto dukterį Sofiją, kad sutartis su Vytautu būtų tvirtesnė.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
+    Pabaigoj
     1387 m. apsilankė jis Vytauto dvare Lucke. Čia jie padarė su­
     tartį. Kad ji būtų tvirtesnė, būsimas Maskvos viešpats turėjo
     vesti Vytauto dukterį Sofiją. Tai buvo pirmas nelegalus Vytau­
@@ -69,16 +64,20 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
-- c-003
-  santrauka: 'Jogaila, varžydamas Vytautą, be jo sutikimo uždraudė išleisti Sofiją už Maskvos kunigaikščio.'
+- c-002
+  santrauka: 'Jogaila be Vytauto sutikimo uždraudė jam išleisti dukterį Sofiją už Maskvos kunigaikščio.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Bet Jo­
+    Bet ir tokio fakto akivaizdoj, Vytautas dar kartą pareika­
+    lavo iš Jogailos ištesėti savo pažadus. Tai buvo paskutinis Vy­
+    tauto bandymas taikos keliu išspręsti nesusipratimus. Bet Jo­
     gaila, tarytum pasityčiodamas iš tokių Vytauto reikalavimų,
     ėmė jį persekioti ir visaip varžyti: be jo sutikimo uždraudė jam
     savo dukterį Sofiją išleisti už Maskvos kunigaikščio; ėmė se­
     kioti kiekvieną jo žingsnį, gaudyti jo bajorus ir torturuoti, kad
-    sužinotų ką Vytautas mąsto
+    sužinotų ką Vytautas mąsto; buvo periminėjami jo laiškai: la­
+    bai buvo saugojamas, kad jis į kokią nors pusę ne tik pasiunti­
+    nio, bet ir laiško nepasiųstų.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -86,10 +85,14 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-007
-- c-004
+- c-003
   santrauka: 'Sofijos, Maskvos kunigaikštienės, vardu buvo įteiktas protestas prieš Žemaitijos atidavimą Ordinui po jos tėvo mirties.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
+    Ordino gi pasiuntiniui, kuris dar kaltino Vytautą, kad jis nebeiš­
+    duoda Torne žadėto rašto apie Žemaitijos grąžinimą po savo ir
+    Jogailos mirties, dabar jis tokį raštą kartu su Jogaila parašė, bet
+    labai neformalų. Ordino pasiuntinys, žinoma, jo nepriėmė.
     Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto
     dukters Sofijos (Maskvos kunigaikštienės) ir Jogailos dukters
     Jadvygos (Lenkų karalaitės) vardu protestą prieš Žemaičių
@@ -101,21 +104,6 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-008
-- c-005
-  santrauka: 'Po vyro mirties Sofija prašė Vytautą paimti jos sūnų Vosylių II globon, paliekant jam valstybę.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Vytautas ruošėsi gerai juos nubausti. Bet dar Minske jį sutiko
-    duktė Sofija, Maskvos kunigaikštienė su nepilnamečiu savo
-    sūnumi Vosylių II ir, pildydama savo mirusio vyro valią, prašė
-    paimti sūnų savo globon, paliekant jam jo valstybę^2 ).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-009
 
 ## Ryšiai
 ### Susiję objektai

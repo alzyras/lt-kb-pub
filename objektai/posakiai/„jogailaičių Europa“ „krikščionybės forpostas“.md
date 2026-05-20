@@ -72,6 +72,5 @@ Lenkijos ir Lietuvos sostuose sėdėjo lietuviškos kilmės Jogailaičių dinast
 
 ### Susiję objektai
 - [[objektai/grupes/Habsburgų dinastija]]
-- [[objektai/grupes/Jogailaičių dinastija]]
 - [[objektai/zodynas/bajorų tauta politinė lietuvių tauta]]
 - [[objektai/zodynas/bajorų tauta politinė tauta lietuvių nacija]]

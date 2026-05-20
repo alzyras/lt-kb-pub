@@ -7,8 +7,24 @@ aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
+datos:
+  - '1350 m.'
+  - '1399 m.'
+  - '1430 m.'
+  - '1930 m.'
+  - '1978 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+  - 'XV'
+  - 'XX'
+  - 'XXI'
+date_start: '1350'
+date_end: '2026'
 patikimumas: 'vidutinis'
-periodas: viduramziai
 tags:
   - daiktas
   - simbolis
@@ -36,19 +52,35 @@ Nenurodyta
 
 ## Teiginiai
 - t-003
-  teiginys: 'Vienas Vytauto pinigas pagimdė legendą apie Vytauto ženklą, o bukasis trikampis galėjo reikšti Vilniaus inicialą.'
+  teiginys: 'Prieš mūšį Vytautas reikalavo, kad visos Ordos pinigai būtų žymimi Vytauto ženklu.'
   pagrindžia:
     - c-001
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-004
+  teiginys: 'Edigėjus, atsakydamas į ankstesnį Vytauto reikalavimą, pareikalavo Lietuvos pinigus žymėti Ordos ženklais.'
+  pagrindžia:
     - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Vienas Vytauto pinigas pagimdė legendą apie Vytauto ženklą, o bukasis trikampis galėjo reikšti Vilniaus inicialą.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: 'Prieš mūšį Vytautas reikalavo, kad visos Ordos pinigai būtų žymimi Vytauto ženklu.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Šis pinigas ir pagimdė legendą apie
+    Mūšis
+
+    Pokalbyje su chanu prieš mūšį Vytautas
+    tarsi reikalavęs pavaldumo - visos Ordos
+    pinigus žymėti Vytauto ženklu. Timūr-
+    Kutlukas, paprašęs trijų dienų pagalvoti,
+    siuntė Vytautui daug galvijų, jaučių, avių,
+    sveikino jį. Taip buvo delsiama, kol atvyko
+    visoje Ordoje garsus kunigaikštis - emyras
+
+    Žasto, dilbio, kelio ir blauz-
+    dos apsaugos.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -57,33 +89,36 @@ Nenurodyta
   pagrindžia:
     - t-003
 - c-002
-  santrauka: 'Vienas Vytauto pinigas pagimdė legendą apie Vytauto ženklą, o bukasis trikampis galėjo reikšti Vilniaus inicialą.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: 'Edigėjus, atsakydamas į ankstesnį Vytauto reikalavimą, pareikalavo Lietuvos pinigus žymėti Ordos ženklais.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Šis pinigas ir pagimdė legendą apie
+    Edigėjus skelbėsi amžiumi vy-
+    resniu, todėl reikalavo Vytauto klusnumo
+    ir atsakydamas į ankstesnį Vytauto reikala-
+    vimą, pareikalavo Lietuvos pinigus žymėti
+    Ordos ženklais. Tuomet Vytautas įsakė
+    savo kariams ruoštis kautynėms.
 
-    (^1) ) Dūmas — atskiras ūkis, turįs vieną kaminą ar aukštini, pro kur
-    išeidavo dūmai. Red.
-    (^2) ) A. Veryha - Darevskis, Lietuvos mokesčiai, 19 p., (Cit. iš Liubavski,
-    Oblastnoe delenie L.R.Q. Moskva 1892, p. 321). 3
-    ) J. Jakubowski, Opis Księstwa Trockiego (Kwartalnink hist. 1907 m.).
-    (^4) ) C. ep. V., 1298, 1329 nr.
-    (^5) ) Kapoti — rusiškai — rubit, iš čia — rub — rublis. Red.
-
-
-    ```
-    241
-    ```
-    Vytauto ženklą. Jei bukasis trikampis iš tikrųjų reiškė raidę
-    V, tai galėjo būti Vilniaus inicialas
+    1399 m. rugpjūčio 12 d., „dvi valan-
+    dos iki saulėlydžio“ prasidėjo „didžiausias
+    mūšis“.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-004
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/simbolis]]
+
+### Laikotarpiai
+- [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
+### Susiję objektai
+- [[objektai/paprociai/Pavaldumo demonstravimas derybose per pinigų ženklinimą ir dovanas]]

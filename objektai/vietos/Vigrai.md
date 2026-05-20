@@ -31,7 +31,8 @@ Norėdama atskirti ją nuo Vilniaus ir Žemaičių vyskupų įtakos, Prūsijos v
   santrauka: '1798 m. Prūsijos valdžia Vigriuose įsteigė atskirą, tiesiog popiežiui pavaldžią vyskupiją, 1818 m. perkeltą į Seinus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Norėdama atskirti
+    Šiaurinė Užnemunės dalis anksčiau priklausė
+    Žemaičių, o pietinė — Vilniaus vyskupijai. Norėdama atskirti
     ją nuo Vilniaus ir Žemaičių vyskupų įtakos, Prūsijos valdžia
     įsteigė atskirą, tiesiog popiežiaus priklausomą vyskupiją Vig-
     riuose (1798 m.; 1818 m. ji buvo perkelta į Seinus). Pir-
@@ -45,7 +46,3 @@ Norėdama atskirti ją nuo Vilniaus ir Žemaičių vyskupų įtakos, Prūsijos v
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Prienai]]

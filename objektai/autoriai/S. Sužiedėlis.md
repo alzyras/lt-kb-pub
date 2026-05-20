@@ -9,10 +9,33 @@ aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 laikotarpis: '1930 m. (veikalo sudarymo kontekstas)'
-datos:
-  - '1930 m. (veikalo sudarymo kontekstas)'
 vaidmenys:
   - 'autorius'
+datos:
+  - '1223 m.'
+  - '1350 m.'
+  - '1430 m.'
+  - '1502 m.'
+  - '1930 m.'
+  - '1936 m.'
+  - '1937 m.'
+  - '1941 m.'
+  - '1943 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+  - 'modernioji Lietuva'
+  - 'viduramžiai'
+amziai:
+  - 'XIII'
+  - 'XIV'
+  - 'XV'
+  - 'XVI'
+  - 'XX'
+  - 'XXI'
+date_start: '1223'
+date_end: '2026'
 patikimumas: 'aukštas'
 tags:
   - autorius
@@ -30,28 +53,31 @@ S. Sužiedėlis 1930 m. kolektyvinėje monografijoje „Vytautas Didysis“ įra
 
 ## Teiginiai
 - t-003
-  teiginys: 'S. Sužiedėlis buvo vienas iš leidinio autorių.'
+  teiginys: 'S. Sužiedėlis yra nurodytas kaip straipsnio „Apuolė“ autorius.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-004
-  teiginys: 'Turinyje S. Sužiedėliui priskiriami skyriai „Vytauto vaidmuo Lietuvos kristianizacijoj“, „Vytauto galybės laikai“ ir „Vytauto ekonominė politika“.'
+  teiginys: 'S. Sužiedėlis parašė tekstą „Vytautas Didysis ir Lietuvos christianizacija“, paskelbtą 1930 m. leidinyje TK.'
   pagrindžia:
     - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'S. Sužiedėlis buvo vienas iš leidinio autorių.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: 'S. Sužiedėlis yra nurodytas kaip straipsnio „Apuolė“ autorius.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Parašė:
-    ```
-    ##### A.Šapoka, Z. Ivinskis, V. Dėdinas, A. Kučinskas,
+    — Senn, A. : _On the Kinship between
+    Slavic and Baltic_ , Slavonic and East European Revue, XX, 1941. —
+    (”) _Die Beziehungen des Baltischen zum Slavischen und Germanischen,_
+    Zeitschr. für vergleichende Sprachforschung, t. 70, 1954. — Stankus, J. :
+    _Geležies dirbinių gamyklas Lietuvoje V-V III amžiais technologija_ , AkMD,
+    t. 34, 1970, 57-74 p. — Sužiedėlis, S.: _Apuolė_ , EnL, I, 112-113 p.
 
-    ##### S. Sužiedėlis, P. Šležas, Dr. M. Krasauskaitė.
+    **5.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -60,15 +86,14 @@ S. Sužiedėlis 1930 m. kolektyvinėje monografijoje „Vytautas Didysis“ įra
   pagrindžia:
     - t-003
 - c-002
-  santrauka: 'Turinyje S. Sužiedėliui priskiriami skyriai „Vytauto vaidmuo Lietuvos kristianizacijoj“, „Vytauto galybės laikai“ ir „Vytauto ekonominė politika“.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: 'S. Sužiedėlis parašė tekstą „Vytautas Didysis ir Lietuvos christianizacija“, paskelbtą 1930 m. leidinyje TK.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    S. Sužiedėlis. Vytauto vaidmuo Lietuvos kristianizacijoj 91
-    S. Sužiedėlis. Vytauto galybės laikai .............................................
-    P. Šležas. Vytauto santykiai su Lenkija ....................... 141
-    P. Šležas. Vytauto konfliktas su Lenkija dėl karūnacijos ............. 205
-    ```
-    S.Sužiedėlis. Vytauto ekonominė politika ..................................... 235
+    Br. 1923. — Sužiedėlis, S. :
+    Vytautas Didysis ir Lietuvos christianizacija , TK, nr. 7-8, 1930, 442-
+    483 p. — (”) Veidu į Katalikų Bažnyčią , Židinys, nr. 4, 1937, 441-453 p.
+    — Šležas, P. : Lietuvos krikštas, NaR, nr. 16, 1937, 345-351 p. — Völ­
+    ker, K. : Die Kirchenpolitik der Jagiellonem, Zeitschr. f.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -79,4 +104,10 @@ S. Sužiedėlis 1930 m. kolektyvinėje monografijoje „Vytautas Didysis“ įra
 
 ## Ryšiai
 ### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XIII amžius]]
+- [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XVI amžius]]
+
+### Susiję objektai
+- [[objektai/autoriai/Sužiedėlis, S]]

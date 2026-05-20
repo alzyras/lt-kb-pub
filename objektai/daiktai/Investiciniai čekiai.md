@@ -171,7 +171,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/dokumentas]]
 - [[temos/pinigai]]
 
 ### Laikotarpiai

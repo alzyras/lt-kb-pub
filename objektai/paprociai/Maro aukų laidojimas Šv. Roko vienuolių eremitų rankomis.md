@@ -39,7 +39,7 @@ Nenurodyta
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Vienas vienuolis nuo 1708 m. liepos iki 1709 m. Velykų palaidojo 22 862 lavonus.'
+  teiginys: 'Vienas Šv. Roko vienuolis eremitas nuo 1708 m. liepos iki 1709 m. Velykų palaidojo 22 862 lavonus.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -50,6 +50,7 @@ Nenurodyta
   santrauka: 'Maro aukas daugiausia laidojo Šv. Roko vienuoliai eremitai, nors dauguma jų buvo išbėgioję.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Nebūdavo galima jų spėti nė laidoti.
     Laidojo daugiausia Š v. Roko vienuoliai eremitai, kurių
     daugumas irgi buvo išbėgioję.
   citata_rodoma: ""
@@ -60,7 +61,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Vienas vienuolis nuo 1708 m. liepos iki 1709 m. Velykų palaidojo 22 862 lavonus.'
+  santrauka: 'Vienas Šv. Roko vienuolis eremitas nuo 1708 m. liepos iki 1709 m. Velykų palaidojo 22 862 lavonus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Yra likę žinių apie vieną vienuolį, kuris kasdien palaidodavęs

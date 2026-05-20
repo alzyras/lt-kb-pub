@@ -49,7 +49,10 @@ tags:
   santrauka: 'Posakis „Respublika laikosi netvarka“ aiškino, kad netvarkinga bajorų Respublika niekam nepavojinga ir todėl nebus puolama.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Kiek vėliau įėjo
+    Nie-
+    kas nesirūpino perorganizuoti valstybės. Laisvės ideologai matė
+    netvarką, tačiau _veto_ teisę laikė šventa: esą, tai visų bajoriškųjų
+    laisvių perlas, saugotinas, kaip akies lėlytė. Kiek vėliau įėjo
     į madą posakis: „Respublika laikosi netvarka"
     (t. y. netvarkos dėka): esą, laisva bajorų Respublika esanti
     netvarkinga, užtat niekam ir nepavojinga, — todėl jos niekas

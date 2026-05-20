@@ -21,7 +21,7 @@ Jie svajojo net panaikinti liberum veto, bet kadangi tam pasipriešino Rusų ir 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Liberum veto panaikinimui pasipriešinus Rusų ir Prūsų atstovams, veto buvo paliktas, bet priimtas seimo darbų statutas.'
+  teiginys: 'Rusų ir Prūsų atstovams pasipriešinus liberum veto panaikinimui, veto buvo paliktas, bet priimtas seimo darbų statutas.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -33,7 +33,7 @@ Jie svajojo net panaikinti liberum veto, bet kadangi tam pasipriešino Rusų ir 
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: 'Buvo palikti liberum veto, karaliaus elekcija ir bajorijos teisė neklausyti karaliaus, jei jis nevykdė pacta conventa punktų.'
+  teiginys: 'Buvo palikti liberum veto, karaliaus elekcija ir bajorijos teisė neklausyti karaliaus, kai šis nevykdė pacta conventa punktų.'
   pagrindžia:
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -41,10 +41,11 @@ Jie svajojo net panaikinti liberum veto, bet kadangi tam pasipriešino Rusų ir 
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Liberum veto panaikinimui pasipriešinus Rusų ir Prūsų atstovams, veto buvo paliktas, bet priimtas seimo darbų statutas.'
+  santrauka: 'Rusų ir Prūsų atstovams pasipriešinus liberum veto panaikinimui, veto buvo paliktas, bet priimtas seimo darbų statutas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Jie sva-
+    Antroji Čartoriskių svarbi
+    reforma lietė seimą. Jie sva-
     jojo net panaikinti _liberum
     veto,_ bet kadangi tam pasi-
     priešino Rusų ir Prūsų atsto-
@@ -73,11 +74,18 @@ Jie svajojo net panaikinti liberum veto, bet kadangi tam pasipriešino Rusų ir 
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Buvo palikti liberum veto, karaliaus elekcija ir bajorijos teisė neklausyti karaliaus, jei jis nevykdė pacta conventa punktų.'
+  santrauka: 'Buvo palikti liberum veto, karaliaus elekcija ir bajorijos teisė neklausyti karaliaus, kai šis nevykdė pacta conventa punktų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Jose buvo pakeistas tik vienas kitatikius (disi-
+    dentus) lietęs punktas: jų teisės buvo suvaržytos, ir į seimą galėjo
+    pakliūti tik 3 disidentų atstovai, t. y. po 1 iš Lietuvos, Did-
+    lenkių ir Mažlenkių; jų senatorių negalėjo būti nė vieno; jų
+    naujai pastatytose bažnyčiose buvo uždrausta skambinti varpais.
     Buvo palikta ir _liberum veto,_ ir karalių elekcija ir bajorijos teisė
     neklausyti karaliaus, nevykdant _pacta conventa_ punktų. Bet
+    kariuomenės skaičių buvo leista padidinti iki 30.000 (nuo 1717
+    m.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -85,3 +93,7 @@ Jie svajojo net panaikinti liberum veto, bet kadangi tam pasipriešino Rusų ir 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Čartoriskiai]]

@@ -32,7 +32,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Po ilgų derybų Lenkijos ponai prieš karaliaus valią sudarė 26 metų Štumdorfo paliaubas.'
+  teiginys: 'Po ilgų derybų Lenkijos ponai prieš karaliaus valią sudarė 26 metų paliaubas.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -40,10 +40,15 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Po ilgų derybų Lenkijos ponai prieš karaliaus valią sudarė 26 metų Štumdorfo paliaubas.'
+  santrauka: 'Po ilgų derybų Lenkijos ponai prieš karaliaus valią sudarė 26 metų paliaubas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Po ilgų derybų Lenkijos ponai prieš
+    Be to, lenkų bajorija reikalavo taikos ir gra-
+    sino neduoti karui lėšų; jai pakako ir to, kad švedai žadėjo
+    pasitraukti iš Prūsijos miestų, jų valdomų nuo 1629 m.: jiems rū-
+    pėjo tik, kad palengvėtų prekyba ir kad jie galėtų lengviau par-
+    duoti savo ūkio produktus. Karalių palaikė tik Lietuva, kuriai
+    rūpėjo atgauti Livoniją. Po ilgų derybų Lenkijos ponai prieš
     karaliaus valią padarė 26 m. paliaubas.
   citata_rodoma: ""
   teiginio_tipas: faktas

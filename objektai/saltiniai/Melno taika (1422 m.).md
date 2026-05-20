@@ -21,21 +21,15 @@ Pagaliau magistras paprašė taikos; ji buvo padaryta netoli Melno ežero, kariu
 
 ## Teiginiai
 - t-001
-  teiginys: 'Melno taika buvo sudaryta 1422 m. rugsėjo 27 d. netoli Melno ežero, kariuomenės stovykloje.'
+  teiginys: 'Melno taika galutinai išsprendė ginčijamų teritorijų klausimą.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Šia taika buvo galutinai išspręstas ginčijamų teritorijų klausimas.'
-  pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-003
   teiginys: 'Melno taika buvo baigtos ilgai ėjusios Lietuvos kovos su vokiečių ordinu.'
   pagrindžia:
-    - c-003
+    - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
@@ -43,30 +37,11 @@ Pagaliau magistras paprašė taikos; ji buvo padaryta netoli Melno ežero, kariu
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Melno taika buvo sudaryta 1422 m. rugsėjo 27 d. netoli Melno ežero, kariuomenės stovykloje.'
+  santrauka: 'Melno taika galutinai išsprendė ginčijamų teritorijų klausimą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Pagaliau 1422 m. Jogaila su Vytautu paskelbė
-    ordinui karą ir, sujungę savo kariuomenes, iš Lenkijos įsiveržė
-    į jo žemes. Ordinas buvo nepasiruošęs kariauti ir į atvirą kovą
-    nestojo. Jis nutarė tiktai gintis pilyse. Lietuvių ir lenkų kariuo-
+    Lietuvių ir lenkų kariuo-
     menės nusiaubė visą kraštą. Pagaliau magistras paprašė taikos;
-    ji buvo padaryta netoli Melno ežero, kariuomenės sto-
-    vykloje, 1422 m. rugsėjo 27 d.
-    Šia taika buvo galutinai išspręstas ginčijamų teritorijų klau-
-    simas.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Šia taika buvo galutinai išspręstas ginčijamų teritorijų klausimas.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pagaliau magistras paprašė taikos;
     ji buvo padaryta netoli Melno ežero, kariuomenės sto-
     vykloje, 1422 m. rugsėjo 27 d.
     Šia taika buvo galutinai išspręstas ginčijamų teritorijų klau-
@@ -79,11 +54,15 @@ Pagaliau magistras paprašė taikos; ji buvo padaryta netoli Melno ežero, kariu
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-- c-003
+    - t-001
+- c-002
   santrauka: 'Melno taika buvo baigtos ilgai ėjusios Lietuvos kovos su vokiečių ordinu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Taigi kad ir daug padėjo pastangų, vis dėlto Vytautas neatgavo
+    Klaipėdos krašto ir nepasiekė Nemuno žemupio. Užtat likusi
+    didžioji Žemaičių dalis buvo pripažinta Lietuvai nebe iki gy-
+    vos Vytauto ir Jogailos galvos, bet amžinai.
     Melno taika buvo baigtos ilgai ėjusios Lietuvos kovos su
     vokiečių ordinu.
   citata_rodoma: ""
@@ -92,4 +71,4 @@ Pagaliau magistras paprašė taikos; ji buvo padaryta netoli Melno ežero, kariu
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-002

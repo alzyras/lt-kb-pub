@@ -12,6 +12,24 @@ saltiniai:
 - A. Šapoka (red.), Lietuvos istorija (1936 m.)
 - Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
 - Vytautas Didysis 1350-1430 (1930 m.)
+datos:
+  - '1350 m.'
+  - '1413 m.'
+  - '1430 m.'
+  - '1930 m.'
+  - '1936 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+  - 'XV'
+  - 'XX'
+  - 'XXI'
+date_start: '1350'
+date_end: '2026'
 patikimumas: vidutinis
 tags: []
 ---
@@ -23,40 +41,23 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
 
 ## Teiginiai
 - t-006
-  teiginys: 'Vilniaus vaivada buvo numatytas kaip Vilniuje steigiamas urėdas pagal Lenkijos karalystės pavyzdį.'
-  pagrindžia:
-    - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-007
-  teiginys: '1413 m. Vilniuje ir Trakuose numatyti lenkiško modelio administraciniai postai.'
+  teiginys: 'Tik Vilniaus ir Trakų sritys nuo 1413 m. turėjo savo viršininkus, vadinamus ne vietininkais, bet vaivadomis.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1413 m. Vilniuje ir Trakuose numatyti lenkiško modelio administraciniai postai.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: 'Tik Vilniaus ir Trakų sritys nuo 1413 m. turėjo savo viršininkus, vadinamus ne vietininkais, bet vaivadomis.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    „dignitates, sedes et officia, prout in regno Poloniae instituta
-    sunt, instituentur et locabantur in Vilna scilicet palatinus et cas­
-    tellanus vilnensis et demum in Trokky“...^2 ).
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-007
-- c-002
-  santrauka: 'Vilniaus vaivada buvo numatytas kaip Vilniuje steigiamas urėdas pagal Lenkijos karalystės pavyzdį.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    „dignitorijas, kėdes ir urėdus, kokie yra įsteigti
-    lenkų karalijoje, bus įsteigta ir įkurdinta Vilniuje, būtent Vilniaus vaivada
-    ir kaštelionas, taip pat ir Trakuose...”
+    Tik Vilniaus ir Trakų
+    sritys nuo 1413 m. turėjo savo viršininkus, vadinamus ne vieti-
+    ninkais, bet vaivadomis. Tai buvo lenkiškojo tipo urėdai,
+    kurie vesdavo savo srities bajoriją į karą ir turėdavo kitokių,
+    į vietininkų panašių, pareigų. Jiems karo reikaluose ir teismuose
+    tarsi padėjėjai buvo kaštelionai.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -68,6 +69,12 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/istorinė-sąvoka]]
+
+### Laikotarpiai
+- [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/zodynas/kaštelionas]]

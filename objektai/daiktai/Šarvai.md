@@ -8,15 +8,24 @@ saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 bukle: juodrastis
 laikotarpis: ''
-datos: []
-periodas: viduramziai
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1350 m.'
+  - '1430 m.'
+  - '1930 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+  - 'XV'
+  - 'XX'
+  - 'XXI'
+date_start: '1350'
+date_end: '2026'
 patikimumas: 'aukštas'
 tags: []
 ---
@@ -51,6 +60,18 @@ Nenurodyta
   teiginys: 'Lengvosios kavalerijos šarvai buvo lengvesni, dengė pečius ir krūtinę, o galvas saugojo šalmai.'
   pagrindžia:
     - c-002
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-005
+  teiginys: 'Atvirame lauke stovėjusius Ordino riterius, šarvuotus metaliniais šarvais, kepino karšta liepos saulė.'
+  pagrindžia:
+    - c-003
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-006
+  teiginys: 'Pasimeldęs ir raginamas Vytauto bei lenkų riterių, Jogaila užsidėjo šarvus ir nuvyko prie kariuomenės.'
+  pagrindžia:
+    - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
@@ -90,3 +111,45 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+- c-003
+  santrauka: 'Atvirame lauke stovėjusius Ordino riterius, šarvuotus metaliniais šarvais, kepino karšta liepos saulė.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Abi priešininkų kariuomenės
+    buvo netoli viena kitos. Visa Ordino kariuomenė stovėjo atvi­
+    rame lauke ir riterius, šarvuotus metaliniais šarvais, kepino
+    karšta liepos mėnesio saulė, tuo tarpu sąjungininkų kariuo­
+    menės dalis slėpėsi medžių ūksmėje, galėjo ilsėtis. Ordino ka­
+    riuomenė nerimavo ir norėjo pradėti mūšį, bet to padaryti ne­
+    galėjo, nes ne viskas buvo sutvarkyta.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-005
+- c-004
+  santrauka: 'Pasimeldęs ir raginamas Vytauto bei lenkų riterių, Jogaila užsidėjo šarvus ir nuvyko prie kariuomenės.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Ordino ka­
+    riuomenė nerimavo ir norėjo pradėti mūšį, bet to padaryti ne­
+    galėjo, nes ne viskas buvo sutvarkyta. Pasimeldęs Jogaila, ne tik
+    Vytauto, bet ir lenkų riterių raginamas, užsidėjo šarvus ir nu­
+    vyko prie kariuomenės. Kariuomenė jau buvo visai paruošta ir
+    laukė ženklo.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-006
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

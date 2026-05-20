@@ -30,7 +30,17 @@ Iš Krokuvos atėjo į Vilnių prašymas, kad arčiau lietuvių stovįs universi
   santrauka: 'Mokslo mėgėjų draugija Krokuvoje prašė Vilniaus universiteto patyrinėti lietuvių praeitį ir jai apie tai pranešti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Iš Krokuvos atėjo į Vil-
+    Bet tuo pačiu metu va-
+    karų Europoje iš Rugio, o
+    vėliau iš Rėzos leidinių pa-
+    žintoji lietuvių tautosaka
+    sudomino pačius žymiuosius
+    mokslininkus. Kai Lesingas,
+    Herderis ir Goethė parodė
+    savo susidomėjimą lietuvių
+    tautosaka, su ja panoro susi-
+    pažinti ir lenkų mokslinin-
+    kai. Iš Krokuvos atėjo į Vil-
     nių prašymas, kad arčiau
     lietuvių stovįs universitetas
     patyrinėtų jų praeitį ir šį

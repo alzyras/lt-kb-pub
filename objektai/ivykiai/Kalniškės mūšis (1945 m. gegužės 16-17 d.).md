@@ -10,14 +10,6 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 bukle: 'juodrastis'
 laikotarpis: '1945 m. gegužės 16-17 d.; gegužės 14 d. kaip žvalgybinė priešistorė'
-datos:
-  - '1945 m. gegužės 16-17 d.; gegužės 14 d. kaip žvalgybinė priešistorė'
-periodas: 'siuolaikine_istorija'
-periodo_grupes: []
-amziai:
-  - 'XX'
-date_start: '1945'
-date_end: '1945'
 vaidmenys: []
 dalyviai:
   - 'Jonas Neifalta-Lakūnas'
@@ -28,6 +20,19 @@ dalyviai:
   - 'majoras Buiničius'
   - '220-asis Kutuzovo ordino pulkas'
 susije_irasai: []
+datos:
+  - '1945 m.'
+  - '1946 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'okupacijų ir sovietmečio laikotarpis'
+periodo_grupes:
+  - 'XX a.'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1945'
+date_end: '2026'
 patikimumas: 'aukstas'
 tags:
   - mūšis
@@ -52,36 +57,15 @@ Nenurodyta
 
 ## Teiginiai
 - t-005
-  teiginys: 'Kalniškės mūšyje žuvo Neifalto-Lakūno žmona, partizanė slapyvardžiu Pušelė.'
+  teiginys: 'Kalniškės mūšyje partizanai, naudodami granatas ir sutelktą ugnį, su nuostoliais prasiveržė link Sūsninkų.'
   pagrindžia:
     - c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-006
-  teiginys: 'Partizanams pavyko prasiveržti iš apsupties link Sūsninkų.'
-  pagrindžia:
-    - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kalniškės mūšyje žuvo Neifalto-Lakūno žmona, partizanė slapyvardžiu Pušelė.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Kautynių metu žuvo Neifalto-Lakūno žmona, partizanė slapyvardžiu „Pušelė“. Bet pats
-    Neifalta-Lakūnas tikrai nežuvo, kaip kad daug kur rašoma. „Lakūną“ po Kalniškės mūšio
-    mačiau ne kartą savo akimis. Žuvo jis apie 1946 m., kūnas buvo numestas ant grindinio
-    Krosnoje. Tuo metu aš jau buvau suimtas...“
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-005
-- c-002
-  santrauka: 'Partizanams pavyko prasiveržti iš apsupties link Sūsninkų.'
+  santrauka: 'Kalniškės mūšyje partizanai, naudodami granatas ir sutelktą ugnį, su nuostoliais prasiveržė link Sūsninkų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     ne tik jėgos, pritrūko ir šaudmenų. Bai-
@@ -96,8 +80,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-006
+    - t-005
 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

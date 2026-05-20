@@ -42,7 +42,7 @@ Terminais žymimos senosios kulto vietos ir šventovės. Kartu pabrėžiama, kad
 
 ## Teiginiai
 - t-004
-  teiginys: 'Alkos vartojamos kaip senųjų šventovių pavadinimas.'
+  teiginys: 'Archeologų atkastas šventoves apylinkių žmonės dažnai vadino alkų vardais.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -62,9 +62,11 @@ Terminais žymimos senosios kulto vietos ir šventovės. Kartu pabrėžiama, kad
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Alkos vartojamos kaip senųjų šventovių pavadinimas.'
+  santrauka: 'Archeologų atkastas šventoves apylinkių žmonės dažnai vadino alkų vardais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    O šitos šventovės
+    būdavo rengiamos kur nors arti sodybų, ant atskirų piliakalnių.
     Archeologai atkasa dabar tų šventovių, kurias apylinkės žmonės
     dažniausiai vadina savotiškais alkų vardais. Alkos kalnų, Al-
     kakapių, Alkų kaimų — pilna Lietuvoje.
@@ -79,7 +81,10 @@ Terminais žymimos senosios kulto vietos ir šventovės. Kartu pabrėžiama, kad
   santrauka: 'Šventovės vienur buvo vadinamos romuvomis, kitur alkomis, galbūt dėl pobūdžio ar tarmių skirtumų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Taigi pasakojimas, kad buvęs
+    Visi jie atlikinėjo įvairias apeigas, tik, žinoma, kai
+    kurie iš jų buvo žinomesni, išgarsėję gydymu ar būrimu, — į juos
+    kreipėsi didesnis skaičius žmonių, su jais skaitėsi valdovai, —
+    tad ir jų šventovės buvo garsesnės. Taigi pasakojimas, kad buvęs
     kažkoks vienas vyriausiasis kunigas ir viena vyriausioji šventovė
     — Romuva, — yra prasimanymas viduramžio rašytojų, kurie, ne-
     daug težinodami apie tikrąją aisčių religiją, prasimanė šitą dalyką,

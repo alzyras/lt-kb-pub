@@ -6,6 +6,21 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1598 m.'
+  - '1600 m.'
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'LDK'
+  - 'modernioji Lietuva'
+amziai:
+  - 'XVI'
+  - 'XX'
+  - 'XXI'
+date_start: '1598'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -21,24 +36,29 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Zigmantas mirė 1632 m., iškaraliavęs net 44 m.'
+  teiginys: '1598 m. Zigmantas Vaza III su nedidele kariuomene nuvyko į Švediją, bet buvo išstumtas ir priverstas pasitraukti.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Zigmantas Vaza mirdamas paliko 5 sūnus ir 2 dukteris.'
+  teiginys: 'Po Zigmanto Vazos mirties maskvėnai įsiveržė į Lietuvos teritoriją, siekdami atgauti Smolenską.'
   pagrindžia:
     - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Zigmantas mirė 1632 m., iškaraliavęs net 44 m.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: '1598 m. Zigmantas Vaza III su nedidele kariuomene nuvyko į Švediją, bet buvo išstumtas ir priverstas pasitraukti.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Zigmantas mirė 1632 m., iškaraliavęs net 44 m.
+    1598 m. Zigmantas Vaza 111 su nedidele
+    kariuomene nuvyko į Švediją, bet buvo
+    išstumtas ir priverstas pasitraukti. Atsa-
+    kydamas į tai Karolis 1600 m. su švedų ka-
+    riuomene įsiveržė į Livoniją bei užėmė dalį
+    jos teritorijos.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -47,10 +67,18 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Zigmantas Vaza mirdamas paliko 5 sūnus ir 2 dukteris.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: 'Po Zigmanto Vazos mirties maskvėnai įsiveržė į Lietuvos teritoriją, siekdami atgauti Smolenską.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Zigmantas Vaza mirdamas paliko 5 sūnus ir 2 dukteris.
+    Mūšis
+    1632 m. maskvėnai, pasinaudodami
+
+    tuo, kad po Zigmanto Vazos mirties jo
+    sūnus Vladislovas dar nebuvo įsitvirtinęs
+    Lenkijos-Lietuvos soste, įsiveržė į Lietuvos
+    teritoriją siekdami atgauti Smolenską.
+
+    24 tūkst. rusų kariuomenė, vadovau-
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -60,5 +88,7 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/upė]]
+### Laikotarpiai
+- [[laikotarpiai/XVI amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

@@ -48,7 +48,10 @@ Nenurodyta
   santrauka: 'Apie 1652 m. Jonušas Radvila Kėdainiuose įkūrė lietuviškoms knygoms skirtą spaustuvę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tik kai apie 1652 m. hetmonas
+    testantiškąjį katekizmą (1598 m.); 1599 m. pasirodžius Daukšos
+    postilei, protestantai 1600 m. išleido savąją. Tom dviem kny-
+    gom buvo aprūpinti gyvieji protestantų reikalai, ir per 50 metų
+    jie nieko daugiau nebeišleido. Tik kai apie 1652 m. hetmonas
     Jonušas Radvila Kėdainiuose įkūrė specialią lietuviškoms
     knygoms spaustuvę, čia buvo išspausdinta maldaknygių,
     giesmių rinkinys, katekizmas ir nauja postilė.
@@ -63,7 +66,10 @@ Nenurodyta
   santrauka: 'Kėdainių lietuviškų knygų spaustuvė veikė vos porą metų ir greičiausiai sudegė 1654 m.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Spaustuvė te-
+    Tik kai apie 1652 m. hetmonas
+    Jonušas Radvila Kėdainiuose įkūrė specialią lietuviškoms
+    knygoms spaustuvę, čia buvo išspausdinta maldaknygių,
+    giesmių rinkinys, katekizmas ir nauja postilė. Spaustuvė te-
     veikė vos porą metų: greičiausiai, ji sudegė (1654 m.). Netrukus
     Maskvos ir Švedų karai sunaikino visą kėdainiškių Radvilų
     galybę, ir nebebuvo kas įtaisytų spaustuvę.

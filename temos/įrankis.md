@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 6.
+Objektų skaičius: 11.
 
 ## Kaip naudoti
 
@@ -18,10 +18,21 @@ Objektų skaičius: 6.
 
 ## Susiję objektai
 
+### Autoriai
+- [[objektai/autoriai/J. Stankus]]
+- [[objektai/autoriai/P. Dundulienė]]
+
 ### Daiktai
-- [[objektai/daiktai/Birka]]
 - [[objektai/daiktai/Geležiniai ginklai ir įrankiai]]
+- [[objektai/daiktai/Geležiniai įrankiai]]
 - [[objektai/daiktai/Gitara „Zemaitis“]]
-- [[objektai/daiktai/Gyvatgalviai kapliai]]
 - [[objektai/daiktai/Pieno perdirbimo įranga ir šaldytuvai]]
 - [[objektai/daiktai/Žemdirbystės įrankiai]]
+
+### Posakiai
+- [[objektai/posakiai/nei žemės, nei žmonių]]
+
+### Vietos
+- [[objektai/vietos/Katra]]
+- [[objektai/vietos/Merkys]]
+- [[objektai/vietos/Ūla]]

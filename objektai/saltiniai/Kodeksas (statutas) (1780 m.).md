@@ -32,7 +32,9 @@ Kodeksas (statutas) 1780 m. buvo pateiktas seimui patvirtinti.
   santrauka: 'Kodeksas (statutas) 1780 m. buvo pateiktas seimui patvirtinti.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Kodeksas (statutas) 1780 m. buvo pateiktas seimui pa-
+    Vienas artimiausiųjų jo
+    bendradarbių buvo Lietuvos vicekancleris Jokimas Chreptavi-
+    čius. Kodeksas (statutas) 1780 m. buvo pateiktas seimui pa-
     tvirtinti. Jame buvo nuostatų, palengvinančių valstiečių būklę
     ir paimančių juos įstatymo globon.
   citata_rodoma: ""

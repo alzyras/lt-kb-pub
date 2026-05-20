@@ -31,7 +31,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Rusai iš Vilniaus į Maskvą išvežė net brangius ponų rūmų baldus, o švedai vežėsi į Stokholmą net akademijos biblioteką ir daugybę kitų kultūros turtų.'
+  teiginys: 'Rusai iš Vilniaus į Maskvą išvežė brangius ponų rūmų baldus.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -45,10 +45,11 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Rusai iš Vilniaus į Maskvą išvežė net brangius ponų rūmų baldus, o švedai vežėsi į Stokholmą net akademijos biblioteką ir daugybę kitų kultūros turtų.'
+  santrauka: 'Rusai iš Vilniaus į Maskvą išvežė brangius ponų rūmų baldus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Rusai iš Vilniaus į
+    Daugelis brangeny-
+    bių buvo išvežta į Maskvą ir į Švediją. Rusai iš Vilniaus į
     Maskvą išvežė net brangius ponų rūmų baldus, o švedai vežėsi
     į Stokholmą net akademijos biblioteką ir daugybę kitų kultū-
     ros turtų. Biblioteka pakeliui iš jų buvo atimta ir grąžinta, bet
@@ -65,7 +66,8 @@ Nenurodyta
   santrauka: '1655 m. rusams užėmus Vilnių, miestas buvo apiplėštas ir sudegintas, o gaisras jame siautė 17 dienų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Miestai
+    Todėl suprantama, kad po visų karų krašto ūkis
+    buvo labai sunaikintas ir negreit tegalėjo atsigauti. Miestai
     buvo apiplėšti ir sudeginti (1655 m. rusams užėmus Vilnių, gais-
     ras jame siautė net 17 dienų). Dvarai taip pat buvo sunaikinti
     ir sudeginti, o jų valstiečiai išbėgioję.
@@ -80,3 +82,6 @@ Nenurodyta
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XVII amžius]]
+
+### Susiję objektai
+- [[objektai/vietos/Vilnius]]

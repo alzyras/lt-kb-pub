@@ -28,13 +28,13 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
 - t-002
   teiginys: 'Lietuvos feodalizmas nuo Vakarų Europos feodalizmo labiau skyrėsi sritinių kunigaikščių, o ne bajorijos teisėmis.'
   pagrindžia:
-    - c-002
+    - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-003
   teiginys: 'Lietuvos feodalizmas nebuvo galutinai išsiplėtojęs.'
   pagrindžia:
-    - c-003
+    - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
@@ -43,20 +43,9 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
   santrauka: 'Lietuvoje buvo santvarka, maždaug atitikusi Vakaruose feodalizmu vadintą santvarką.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Taigi ir pas mus buvo maždaug tokia pat santvarka,
-    kaip Vakaruose vadinamasis feodalizmas.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: 'Lietuvos feodalizmas nuo Vakarų Europos feodalizmo labiau skyrėsi sritinių kunigaikščių, o ne bajorijos teisėmis.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tik Lietuvos feoda-
+    Lietuvos bajorijos pareigos valstybei priklausydavo nuo jų val-
+    domosios žemės. Taigi ir pas mus buvo maždaug tokia pat santvarka,
+    kaip Vakaruose vadinamasis feodalizmas. Tik Lietuvos feoda-
     lizmas buvo kiek kitoks: jis skyrėsi nuo vakarų Europos feodalizmo
     ne tiek bajorijos, kiek sritinių kunigaikščių teisėmis.
   citata_rodoma: ""
@@ -65,11 +54,17 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
+    - t-001
     - t-002
-- c-003
+- c-002
   santrauka: 'Lietuvos feodalizmas nebuvo galutinai išsiplėtojęs.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Todėl jos
+    buvo nepastovios: kunigaikščiai galėjo būti kilnojami iš vienos vie-
+    tos į kitą, jų sritys galėjo būti karpomos, mažinamos ir didinamos.
+    Tuo tarpu Vakaruose vasalų valstybės buvo pastovios ir neliečiamos;
+    jos buvo kunigaikščių gaunamos iš tėvų, o ne iš suvereno malonės.
     Lietuvos feodalizmas, kaip matome, nebuvo galutinai išsiplėtojęs.
   citata_rodoma: ""
   teiginio_tipas: faktas

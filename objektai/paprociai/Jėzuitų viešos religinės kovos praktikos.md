@@ -59,6 +59,9 @@ Nenurodyta
   santrauka: 'Jėzuitai su protestantais kovojo ne tik mokyklomis, bet ir tikybiniais disputais, kuriuose ginčydavosi su protestantų teologais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Šie buvo leidžiami į aukštąsias užsienio mo-
+    kyklas ir, gerai išmokslinti, grįždavo namo dirbti mokyklose,
+    misijose ir t.t.
     Be mokyklų, katalikiškai auklėjančių jaunąją kartą, jėzuitai
     dar kovojo su protestantais ir kitokiais būdais. Jie ruošdavo
     tikybinius disputus, kuriuose savo moksliškumu nugalėdavo
@@ -95,6 +98,7 @@ Nenurodyta
   santrauka: 'Vilniuje sustiprėję jėzuitai rengė viešus disputus su protestantų teologais ir bažnyčiose turėjo savo pamokslininkų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Tatai jis irgi pavedė padaryti tiems patiems jėzuitams.
     Jėzuitai, kurie labai nepalankiomis sąlygomis pradėjo
     savo darbą Lietuvoje, dabar jau buvo labai sustiprėję. Ypač
     didelė jų įtaka buvo Vilniuje; čia jie ruošė viešus disputus
@@ -107,3 +111,7 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Vilnius]]

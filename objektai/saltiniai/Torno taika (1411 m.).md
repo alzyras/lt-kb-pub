@@ -9,14 +9,23 @@ variantai:
 aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-laikotarpis: '1411 m.'
 datos:
+  - '1350 m.'
   - '1411 m.'
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
+  - '1430 m.'
+  - '1930 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+  - 'XV'
+  - 'XX'
+  - 'XXI'
+date_start: '1350'
+date_end: '2026'
+laikotarpis: '1411 m.'
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
@@ -36,9 +45,15 @@ tags: []
 
 ## Teiginiai
 - t-003
-  teiginys: 'Torno sutartis labiausiai atsižvelgė į Lietuvos interesus, nes Lietuvai buvo grąžinta Žemaitija.'
+  teiginys: 'Torno sutartis atsižvelgė į Lietuvos interesus: Lietuvai buvo grąžinta Žemaitija, o Lenkijai naudos nesuteikta.'
   pagrindžia:
     - c-001
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-004
+  teiginys: 'Torno sutartis laikyta palankia Lietuvai, nes Lietuvai buvo grąžinta Žemaitija, o Lenkijai ji naudos nesuteikė.'
+  pagrindžia:
+    - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
@@ -46,10 +61,11 @@ tags: []
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Torno sutartis labiausiai atsižvelgė į Lietuvos interesus, nes Lietuvai buvo grąžinta Žemaitija.'
+  santrauka: 'Torno sutartis atsižvelgė į Lietuvos interesus: Lietuvai buvo grąžinta Žemaitija, o Lenkijai naudos nesuteikta.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Vis tik, sako Halec­
+    Čia kyla klausimas: ar daug yra atsitikimu, kada norima ki­
+    tiems pakenkti, sau skriaudos nepadarius? Vis tik, sako Halec­
     kis, sunku nepatikėti Dlugošui, kad Torno sutartis atsižvelgė iš­
     imtinai į Lietuvos interesus. Lenkijai, po tiekos aukų ir pergaliu,
     ji jokios naudos nesuteikė, o Lietuvai — nors Žemaitija buvo
@@ -61,3 +77,22 @@ tags: []
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+- c-002
+  santrauka: 'Torno sutartis laikyta palankia Lietuvai, nes Lietuvai buvo grąžinta Žemaitija, o Lenkijai ji naudos nesuteikė.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Vis tik, sako Halec­
+    kis, sunku nepatikėti Dlugošui, kad Torno sutartis atsižvelgė iš­
+    imtinai į Lietuvos interesus. Lenkijai, po tiekos aukų ir pergaliu,
+    ji jokios naudos nesuteikė, o Lietuvai — nors Žemaitija buvo
+    grąžinta^1 ). Iš viso to, kas pasakyta, tenka padaryti išvada,
+    kad Vytautas šiuo savo žygiu norėjo Lietuvos gerovės, kry­
+    žiuočių likučiu išgelbėjimas buvo jam reikalingas tęsti tolimes­
+    nei savarankiškai politikai su Lenkija.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004

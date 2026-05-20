@@ -70,13 +70,13 @@ Ordinas ruošė didelį žygį į Žemaičius ir į pagalbą pasikvietė Prūsų
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-008
-  teiginys: 'Durbės mūšio priešistorėje Ordinas veržėsi gilyn į Lietuvą Nemunu ir pastatė Georgenburgo-Jurgio pilį.'
+  teiginys: 'Prieš Durbės mūšį Livonijos ir Prūsijos ordinai veržėsi į Lietuvą Nemunu ir 1259 m. pastatė Georgenburgo-Jurgio pilį.'
   pagrindžia:
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-009
-  teiginys: 'Po Durbės mūšio Mindaugas atsimetė nuo krikščionybės ir susigrąžino atiduotas teritorijas.'
+  teiginys: 'Po Durbės mūšio Mindaugas 1261 m. atsimetė nuo krikščionybės, susigrąžino atiduotas teritorijas ir atnaujino kovą prieš vokiečius.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -84,7 +84,7 @@ Ordinas ruošė didelį žygį į Žemaičius ir į pagalbą pasikvietė Prūsų
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Po Durbės mūšio Mindaugas atsimetė nuo krikščionybės ir susigrąžino atiduotas teritorijas.'
+  santrauka: 'Po Durbės mūšio Mindaugas 1261 m. atsimetė nuo krikščionybės, susigrąžino atiduotas teritorijas ir atnaujino kovą prieš vokiečius.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1259 m. atidavė visą Žemaitijos @ (beveik iki pat Šventosios upės) ir(3 Dainavos teritoriją. Po Durbės mūšio 1261 m.
@@ -98,7 +98,7 @@ Ordinas ruošė didelį žygį į Žemaičius ir į pagalbą pasikvietė Prūsų
   pagrindžia:
     - t-009
 - c-002
-  santrauka: 'Durbės mūšio priešistorėje Ordinas veržėsi gilyn į Lietuvą Nemunu ir pastatė Georgenburgo-Jurgio pilį.'
+  santrauka: 'Prieš Durbės mūšį Livonijos ir Prūsijos ordinai veržėsi į Lietuvą Nemunu ir 1259 m. pastatė Georgenburgo-Jurgio pilį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Šia situacija pasinaudojo Livonijos ir
@@ -138,3 +138,6 @@ Ordinas ruošė didelį žygį į Žemaičius ir į pagalbą pasikvietė Prūsų
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIII amžius]]
+
+### Susiję objektai
+- [[objektai/vietos/Georgenburgas]]

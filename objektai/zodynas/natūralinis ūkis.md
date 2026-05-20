@@ -30,6 +30,10 @@ Tais laikais Lietuvoje dar tebevyravo natūralinis ūkis.
   santrauka: 'Tais laikais Lietuvoje dar tebevyravo natūralinis ūkis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Bet jau tada, ypač ponų ir turtingesniųjų ba-
+    jorų žemėse, buvo valstiečių, kurie buvo pririšti prie pavestojo
+    žemės ploto ir turėjo nustatytas pareigas; tokie valstiečiai vadi-
+    nosi nelaisvaisiais.
     Tais laikais Lietuvoje dar tebevyravo natūralinis ūkis. Pinigų
     tuomet buvo labai maža, todėl ėjo mainų prekyba.
   citata_rodoma: ""

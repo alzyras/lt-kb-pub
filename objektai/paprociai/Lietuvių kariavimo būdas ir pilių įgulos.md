@@ -111,3 +111,7 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-009
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Gediminas]]

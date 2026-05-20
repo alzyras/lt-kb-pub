@@ -1,0 +1,56 @@
+---
+tipas: autorius
+pavadinimas: 'Vincas Krėvė'
+sukurta: '2026-05-20'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Vytautas Didysis 1350-1430 (1930 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
+patikimumas: 'vidutinis'
+tags:
+  - autorius
+  - karalius
+  - tauta
+---
+# Vincas Krėvė
+
+## Santrauka
+
+Vinco Krėvės Raštai VIII t.
+
+## Teiginiai
+- t-001
+  teiginys: 'Vincas Krėvė buvo „Raštų“ VIII tomo, kuriame išspausdinta misterijos „Likimo keliais“ II dalis, autorius.'
+  pagrindžia:
+    - c-001
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Vincas Krėvė buvo „Raštų“ VIII tomo, kuriame išspausdinta misterijos „Likimo keliais“ II dalis, autorius.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    8. Vinco Krėvės Raštai VIII t. Misterijos „LIKIMO KELIAIS” II da­
+    lis, su priedu — V. Bičiūno tos misterijos pastabos ir komentarai. Abiejų
+    knygų kaina Lt. 8, —
+    „Likimo kelių” turinį sudaro savotiškai pasakiškas pasakoji­
+    mas apie Vincą Višvilį — prastą kaimo bernaitį piemenėli, kuris pri­
+    siklausęs motinos pasakų apie karalių Žvaigždikį ir karalienę Panikę,
+    ryžtasi prikelti iš miego Žvaigždikį, atseit, pačią Lietuvą. Tie visi
+    Vinco Višvilio sunkūs ieškojimai, klajonės, nuostabus nuotykiai ir il­
+    ga kelionė — tai giliai prasmingas visos mūsų tautos kelias nuo pat
+    pradžios ligi šių dienų.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001

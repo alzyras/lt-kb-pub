@@ -29,6 +29,10 @@ Išmatavus žemę, geriausiose vietose buvo steigiami dvarai ir palivarkai, o ap
   santrauka: 'Išmatavus žemę, geriausiose vietose buvo steigiami dvarai ir palivarkai, o aplink juos buvo duodama po valaką valstiečiams.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Bažny-
+    čioms, kurios neturėjo žemės, buvo jos duota po 2 valakus
+    (tatai buvo laikoma atlyginimu už dešimtinę, kuri tada buvo
+    panaikinta). Miestų žemės irgi buvo atskirtos.
     Išmatavus žemę, geriausiose vietose buvo steigiami dvarai
     ir palivarkai, o aplink juos buvo duodama po valaką valstie-
     čiams.

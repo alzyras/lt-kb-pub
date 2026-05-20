@@ -81,9 +81,6 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/tikėjimas]]
-
 ### Susiję objektai
 - [[objektai/paprociai/Kandidatas „Raudonųjų“ daugiakalbė sukilimo propaganda valstiečiams]]
 - [[objektai/grupes/Raudonieji]]

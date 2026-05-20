@@ -31,9 +31,11 @@ Pirmoji tokia organizacija buvo 1885 m. Tilžėje įkurta „Birutės" draugija.
   santrauka: 'Vokiečių literatų draugija siekė mokslo reikalams konservuoti lietuviškosios kultūros kūrinius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Pirmoji tokia organizacija buvo 1885 m. Tilžėje įkurta „Birutės"
+    Pirmoji
+    tokia organizacija buvo 1885 m. Tilžėje įkurta „Birutės"
     draugija. Tuo tarpu, kai vokiečių Literatų Draugija turėjo tikslą
-    konservuoti lietuviškosios kultūros kūrinius mokslo reikalams, „Birutės" tikslas buvo stiprinti lietuviškumą ir kel-
+    konservuoti lietuviškosios kultūros kūrinius mokslo reikalams,
+    „Birutės" tikslas buvo stiprinti lietuviškumą ir kel-
     ti tautišką sąmonę.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -46,3 +48,4 @@ Pirmoji tokia organizacija buvo 1885 m. Tilžėje įkurta „Birutės" draugija.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Birutės draugija]]
+- [[objektai/zodynas/tautiškas susipratimas tautiška sąmonė tautiškoji veikla]]

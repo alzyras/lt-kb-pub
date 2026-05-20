@@ -35,26 +35,32 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
 
 ## Teiginiai
 - t-001
-  teiginys: '1991 m. sausio 8 d. V. Landsbergis kreipėsi į SSRS šalininkus, bandžiusius įsiveržti į parlamentą.'
+  teiginys: 'Sausio 12 d. Vytauto Landsbergio vadovaujama Aukščiausioji Taryba priėmė nutarimą „Dėl priemonių Lietuvos Respublikai ginti“.'
   pagrindžia:
     - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: '1991 m. sausio 13 d. valstybės vadovas V. Landsbergis ragino susirinkusius prie parlamento nepasiduoti provokacijoms ir dainuoti.'
+  teiginys: '1991 m. sausio 13 d. Aukščiausiosios Tarybos pirmininką ir šalies vadovą Vytautą Landsbergį saugojo ATAS pareigūnai.'
   pagrindžia:
     - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1991 m. sausio 8 d. V. Landsbergis kreipėsi į SSRS šalininkus, bandžiusius įsiveržti į parlamentą.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  santrauka: 'Sausio 12 d. Vytauto Landsbergio vadovaujama Aukščiausioji Taryba priėmė nutarimą „Dėl priemonių Lietuvos Respublikai ginti“.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Masevičiaus nuotrauka
-    V. Landsbergis kreipiasi į protestuotojus, bandžiusius įsiveržti į
-    parlamentą, SSRS šalininkus, 1991 m. sausio 8 d.
+    su Vilniumi. Sausio 12 d. Aukščiausioji
+    Taryba - Atkuriamasis Seimas, vadovau-
+    jamas pirmininko Vytauto Landsbergio,
+    priėmė nutarimą „Dėl priemonių Lietuvos
+    Respublikai ginti“. Jau sausio 13-osios
+    naktį sovietai šturmavo Vilniaus televi-
+    zijos bokštą, Lietuvos radijo ir televizi-
+    jos komitetą, o tankų ir šarvuočių vora
+    pajudėjo Parlamento link.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -63,18 +69,12 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
   pagrindžia:
     - t-001
 - c-002
-  santrauka: '1991 m. sausio 13 d. valstybės vadovas V. Landsbergis ragino susirinkusius prie parlamento nepasiduoti provokacijoms ir dainuoti.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  santrauka: '1991 m. sausio 13 d. Aukščiausiosios Tarybos pirmininką ir šalies vadovą Vytautą Landsbergį saugojo ATAS pareigūnai.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    1991 m. sausio
-    13 d. valstybės vadovas V. Landsbergis, kreipdamasis į susirinkusius prie
-    parlamento, ragino užslopinti pyktį, nepasiduoti provokacijoms ir...
-    Vilniaus televizijos bokšto šturmas – sovietų tankų
-    vikšrai traiško taikius gynėjus
-
-    L I E T U V O S  I S T O R I J A
-    246
-    dainuoti.
+    p. 260, Aukščiausiosios Tarybos pirmininkas ir šalies vadovas Vytautas Lansbergis 1991 m.
+    sausio 13 d. saugomas ATAS (Aukščiausiosios Tarybos Apsaugos skyriaus) pareigūnų,
+    Romualdo Požerskio nuotr.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -89,4 +89,4 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
 - [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
-- [[objektai/ivykiai/Bandymas įsiveržti į parlamentą (1991 m. sausio 8 d.)]]
+- [[objektai/grupes/Aukščiausioji Taryba]]

@@ -6,6 +6,23 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1260 m.'
+  - '1274 m.'
+  - '1959 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodo_grupes:
+  - 'LDK'
+  - 'XX a.'
+  - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XIII'
+  - 'XX'
+  - 'XXI'
+date_start: '1260'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - ivykis
@@ -32,72 +49,13 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-001
-  teiginys: 'Prieš Žalgirio mūšį Vokiečių ordinas buvo galinga jėga, kėlusi egzistencinį pavojų Lietuvos valstybei.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: '1410 m. liepos 15 d. jungtinė Lenkijos (50 vėliavų) bei Lietuvos (40 vėliavų) ir Vokiečių ordino kariuomenės (51 vėliava) sustojo viena priešais kitą laukuose šalia Žalgirio (Griunfeldo, dar Griunvaldas) kaimo.'
-  pagrindžia:
-    - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: 'Žalgirio mūšis į istoriją įėjo kaip vienas didžiausių Viduramžių mūšių.'
-  pagrindžia:
-    - c-003
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
+Nenurodyta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Prieš Žalgirio mūšį Vokiečių ordinas buvo galinga jėga, kėlusi egzistencinį pavojų Lietuvos valstybei.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Ordinas tebebuvo
-    galinga jėga, kėlusi egzistencinį pavojų Lietuvos valstybei. Grėsmingas jis
-    buvo ir Lenkijai, nes tebevaldė Pamarį – vienintelį Lenkijos išėjimą prie
-    jūros.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-002
-  santrauka: '1410 m. liepos 15 d. jungtinė Lenkijos (50 vėliavų) bei Lietuvos (40 vėliavų) ir Vokiečių ordino kariuomenės (51 vėliava) sustojo viena priešais kitą laukuose šalia Žalgirio (Griunfeldo, dar Griunvaldas) kaimo.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1410 m. liepos 15 d. jungtinė Lenkijos (50 vėliavų) bei Lietuvos (40
-    vėliavų) ir Vokiečių ordino kariuomenės (51 vėliava) sustojo viena prie-
-    šais kitą laukuose šalia Žalgirio (Griunfeldo, dar Griunvaldas) kaimo.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Žalgirio mūšis į istoriją įėjo kaip vienas didžiausių Viduramžių mūšių.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Žalgirio mūšis įėjo į isto-
-    riją kaip vienas didžiausių mūšių Viduramžiais, lenkai ir lietuviai pasida-
-    lijo grobį – belaisvius, Ordino komtūrų barzdas, vėliavas, taip pat Ordino
-    teritoriją – taigi Lietuva – lygiavertė su Lenkija Žalgirio mūšio laimėtoja.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003
+Nenurodyta
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Žalgirio mūšis (1410 m.)]]
-- [[objektai/vietos/Žalgiris]]
+### Laikotarpiai
+- [[laikotarpiai/XIII amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

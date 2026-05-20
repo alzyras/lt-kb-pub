@@ -7,6 +7,18 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1936 m.'
+  - '1978 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1936'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -19,26 +31,24 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Sustiprėjusi Rusijos įtaka Respublikoje aiškiai atsivėrė per Augusto III 1733 m. elekciją.'
+  teiginys: 'Augustas III, Augusto II sūnus, tapo karaliumi remiamas Rusijos.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Sustiprėjusi Rusijos įtaka Respublikoje aiškiai atsivėrė per Augusto III 1733 m. elekciją.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  santrauka: 'Augustas III, Augusto II sūnus, tapo karaliumi remiamas Rusijos.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Respublikos suverenumas vis labiau visokiais budais būdavo
-    pažeidžiamas. Tipiškai atsivėrė sustiprėjusi Rusijos įtaka per Au­
-    gusto III-jo (1733 m.) ir ypač per Stanislovo Augusto Poniatovskio
-
-
-    ```
-    40 ĮVADAS
-    ```
-    (1764) elekciją
+    Po Augusto II mirties ATR valdovu vėl mėgina tapti, dabar
+    jau Prancūzijos remiamas, Stanislovas Leščinskis, tačiau Rusijos
+    ir Prūsijos įtaka yra jau pakankamai stipri, kad nejsileisty nepa-
+    geidaujamos Prancūzijos konkurencijos šiame regione. Karaliumi
+    tapo Rusijos remiamas neveiklus Augusto 11 sūnus Augustas III.
+    Abiejų Tautų Respublikos silpnėjimas tragiškai sutapo su jos kai-
+    mynių sustiprėjimu.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -48,5 +58,6 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Suverenitetas]]
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

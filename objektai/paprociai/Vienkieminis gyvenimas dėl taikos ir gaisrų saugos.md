@@ -42,44 +42,25 @@ Nenurodyta
 
 ## Teiginiai
 - t-003
-  teiginys: 'Autorius teigia, kad ši vienkieminio gyvenimo praktika jo laiku dar tebebuvo gyva kai kuriose vietose.'
+  teiginys: 'Kai kur Žemaičiuose, Kurše, Parusyje ir Kalne lietuviai dar gyveno atsiskyrę vienkiemiuose.'
   pagrindžia:
-    - c-002
+    - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 - t-004
-  teiginys: 'Kalnėnai ir žemaičiai ilgainiui įsikūrė vienkiemiuose ir sąmoningai rinkosi atstumą nuo kaimynų.'
+  teiginys: 'Kalnėnai ir žemaičiai kūrėsi vienkiemiuose atokiai vieni nuo kitų, kad išvengtų barnių, gaisrų plitimo ir galėtų padėti kaimynams.'
   pagrindžia:
-    - c-001
+    - c-002
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kalnėnai ir žemaičiai ilgainiui įsikūrė vienkiemiuose ir sąmoningai rinkosi atstumą nuo kaimynų.'
+  santrauka: 'Kai kur Žemaičiuose, Kurše, Parusyje ir Kalne lietuviai dar gyveno atsiskyrę vienkiemiuose.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
-    Tas dar yra stebuklingesniu, jog tose giriose ilgainiui įsikūrė, atsikieminėdami^172
-    vienkiemiuose per gerą šaukimą nuo kits kito taip, idant balsą gaidžio ar šunies savo susiedo^173
-    galėtų girdėti, ką darė jau dėl išvengimo tarp savęs barnių, kurie it^174 veikiai galėjo keltis, turint
-    lygiai^175 pievas, dirvas ir daržus, jau saugodamies nuo gaisrų, idant, vienam trobesiui užsidegus,
-    negalėtų ugnis prigauti susiedo trobesio, arba, nutikus viename kieme kokiai nočiai, idant
-    antrasis, girdėdamas savo susiedo šunis lojant, pats galėtų tuo tarpu pasitiekti o jų^176 nuo savęs
-    remti ar antram pagalbą duoti, jei to būt reikę.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-004
-- c-002
-  santrauka: 'Autorius teigia, kad ši vienkieminio gyvenimo praktika jo laiku dar tebebuvo gyva kai kuriose vietose.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Taip
-    šiandien dar daugioj vietoj tikrieji lietuviai tebgyvena atsikieminėję savo vienkiemiuose
-    Žemaičiuose, Kurše, Parusy bei Kalne.
+    Taip šiandien dar daugioj vietoj tikrieji lietuviai tebgyvena atsikieminėję savo vienkiemiuose
+        Žemaičiuose, Kurše, Parusy bei Kalne.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -87,3 +68,21 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+- c-002
+  santrauka: 'Kalnėnai ir žemaičiai kūrėsi vienkiemiuose atokiai vieni nuo kitų, kad išvengtų barnių, gaisrų plitimo ir galėtų padėti kaimynams.'
+  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  citata_originali: |
+    Tas dar yra stebuklingesniu, jog tose giriose ilgainiui įsikūrė, atsikieminėdami^172
+        vienkiemiuose per gerą šaukimą nuo kits kito taip, idant balsą gaidžio ar šunies savo susiedo^173
+        galėtų girdėti, ką darė jau dėl išvengimo tarp savęs barnių, kurie it^174 veikiai galėjo keltis, turint
+        lygiai^175 pievas, dirvas ir daržus, jau saugodamies nuo gaisrų, idant, vienam trobesiui užsidegus,
+        negalėtų ugnis prigauti susiedo trobesio, arba, nutikus viename kieme kokiai nočiai, idant
+        antrasis, girdėdamas savo susiedo šunis lojant, pats galėtų tuo tarpu pasitiekti o jų^176 nuo savęs
+        remti ar antram pagalbą duoti, jei to būt reikę.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004

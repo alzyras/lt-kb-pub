@@ -51,7 +51,11 @@ tags:
   santrauka: '1582 m. pasirodė pirmoji spausdinta Lietuvos istorija, lenkiškai parašyta Merkelio Giedraičio globojamo Strikauskio.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    XVI
+    Keletas jų duoda net ištisą Lie-
+    tuvos istorijos apžvalgą. Pirmo-
+    sios jų buvo rašomos ta pačia
+    gudų kalba, kuria buvo rašomi
+    visi vidaus reikalų raštai. XVI
     amž. gale (1582 m.) pasirodo pirmoji spausdinta Lietuvos istorija, len-
     kiškai parašyta (Žemaičių vyskupo Merkelio Giedraičio globojamojo)
     lenko Strikauskio.

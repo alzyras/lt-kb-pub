@@ -41,6 +41,7 @@ Nenurodyta
   santrauka: 'Pirmasis pasaulio lietuvių kongresas įvyko 1935 m. rugpjūčio 11–17 d. Kaune.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Pirmojo pasaulio lietuvių kongreso prezidiumas.
     (Kongresas įvyko 1935 m. rugpiūčio 11—17 d. Kaune. Tarp kitko jis
     nutarė įkurti Pasaulio Lietuvių Sąjungą).
   citata_rodoma: ""
@@ -54,3 +55,6 @@ Nenurodyta
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
+
+### Susiję objektai
+- [[objektai/grupes/Pasaulio Lietuvių Sąjunga]]

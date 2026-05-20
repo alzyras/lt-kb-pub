@@ -39,7 +39,9 @@ Tad, norėdamas sumažinti importą ir paremti savąją pramonę, 1776 m. seimas
   santrauka: '1776 m. seimas išleido gyventojų išlaidų normuojamąjį įstatymą, siekdamas sumažinti importą ir paremti savąją pramonę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tad, norėdamas sumažinti im-
+    Kadangi visas aukštesnysis sluoksnis buvo užsikrėtęs vakarų
+    Europos madomis, tai iš užsienio reikėjo įvežti labai daug prekių,
+    ir prekybos balansas būdavo pasyvus. Tad, norėdamas sumažinti im-
     portą ir paremti savąją pramonę, 1776 m. seimas išleido gyventojų
     išlaidų normuojamąjį įstatymą **_(lex sumptuaria)._** Juo visiems mies-
     tiečiams ir bajorijai buvo uždrausta taisytis užsienio medžiagomis,
@@ -57,7 +59,13 @@ Tad, norėdamas sumažinti importą ir paremti savąją pramonę, 1776 m. seimas
   santrauka: '1778 ir 1780 m. seimuose tas įstatymas buvo pakartotas ir praplėstas, tačiau niekuomet nebuvo nustatyta, kas ir kaip turi prižiūrėti jo vykdymą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    1778 ir 1780 m. seimuose tas įstatymas buvo pakartotas
+    Tad, norėdamas sumažinti im-
+    portą ir paremti savąją pramonę, 1776 m. seimas išleido gyventojų
+    išlaidų normuojamąjį įstatymą **_(lex sumptuaria)._** Juo visiems mies-
+    tiečiams ir bajorijai buvo uždrausta taisytis užsienio medžiagomis,
+    ponams buvo įsakyta savo tarnus taisyti kuo pigiausiai, o visų vai-
+    vadijų bajorijai įsakyta nešioti tam tikros spalvos vietinės medžiagos
+    mundierius. 1778 ir 1780 m. seimuose tas įstatymas buvo pakartotas
     ir praplėstas, tačiau niekuomet nebuvo nustatyta, kas ir kaip turi
     prižiūrėti jo vykdymą.
   citata_rodoma: ""

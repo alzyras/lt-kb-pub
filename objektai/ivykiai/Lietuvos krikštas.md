@@ -10,21 +10,30 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
+  - '1219 m.'
+  - '1236 m.'
+  - '1385 m.'
   - '1387 m.'
   - '1403 m.'
+  - '1569 m.'
+  - '1572 m.'
+  - '1795 m.'
+  - '1918 m.'
   - '1936 m.'
   - '1978 m.'
   - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
+periodas: 'viduramžiai'
 periodo_grupes:
-  - 'LDK'
-  - 'modernioji Lietuva'
+  - 'viduramžiai'
 amziai:
+  - 'XIII'
   - 'XIV'
   - 'XV'
+  - 'XVI'
+  - 'XVIII'
   - 'XX'
   - 'XXI'
-date_start: '1387'
+date_start: '1219'
 date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
@@ -51,60 +60,32 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-002
-  teiginys: 'Krikšto apeigos pirmiausia buvo atliktos Vilniuje, o paskui Jogaila važinėdamas krikštijo visas kitas žymesnes Lietuvos vietas.'
+- t-006
+  teiginys: 'Lietuviai krikštijosi Vytauto Didžiojo ir Jogailos paraginti bei paklusdami jų įsakymams.'
   pagrindžia:
-    - c-007
-    - c-006
+    - c-001
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-007
+  teiginys: 'Prieš vyskupijos įkūrimą Jogaila iš Vilniaus išvyko į rytų Lietuvą, kur buvo mokomi ir krikštijami vietos žmonės.'
+  pagrindžia:
     - c-002
-- t-003
-  teiginys: 'Krikštui sušaukdavo apylinkės žmones į vieną vietą; kad greičiau eitų krikštas, žmones krikštijo būriais.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-008
+  teiginys: 'Vytautas nuo pirmos krikšto dienos aktyviai dalyvavo krikštijimo darbe, aiškino žmonėms tikėjimą ir ragino juos krikštytis.'
   pagrindžia:
     - c-003
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Krikšto apeigos pirmiausia buvo atliktos Vilniuje, o paskui Jogaila važinėdamas krikštijo visas kitas žymesnes Lietuvos vietas.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Krikšto apeigos pirmiausia buvo atliktos Vilniuje, o paskui
-    Jogaila važinėdamas krikštijo visas kitas žymesnes Lietuvos vie-
-    tas. Nekrikštyti liko tik žemaičiai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
-- c-003
-  santrauka: 'Krikštui sušaukdavo apylinkės žmones į vieną vietą; kad greičiau eitų krikštas, žmones krikštijo būriais.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Krikštui sušaukdavo
-    apylinkės žmones į vieną vietą; kad greičiau eitų krikštas, žmones
-
-
-    krikštijo būriais. Vienas būrys buvo krikštijamas vienu, kitas
-    kitu vardu ir t. t. Kaip krikšto dovana, Jogailos vardu buvo
-    dalinami balti vilnoniai marškiniai, simbolizuoją nekaltąją sielą.
-    Kadangi tais laikais lietuviai paprastai nešiodavo lininius apdarus,
-    tai daug kas ėjo krikštytis jau vien dėl marškinių. Be abejo, grei-
-    tomis atliktas krikštas nieko nepakeitė krašte: žmonės liko, kaip
-    buvę, pagonys; dar praėjo pora amžių, ligi buvo išnaikinta pa-
-    gonybė Lietuvoje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
-- c-006
-  santrauka: Lietuvos krikštas papildomas patvirtintas šaltinio paminėjimas.
+- c-001
+  santrauka: 'Lietuviai krikštijosi Vytauto Didžiojo ir Jogailos paraginti bei paklusdami jų įsakymams.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Lietuviai krikštijosi
+    Per menkos buvo dovanos, kad būtų vertusios veidmai­
+    niauti kad ir pagoniško tikėjimo lietuvį. Lietuviai krikštijosi
     Vytauto D. ir Jogailos paraginti ir pasiduodami jų įsakymams,
     nes buvo išleistas raštas, skelbiąs katalikybę Lietuvoje viešpa­
     taujančiu tikėjimu ir įsakąs visiems jį priimti^1 ). Laisvi liko tik
@@ -113,13 +94,16 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
-- c-007
-  santrauka: Lietuvos krikštas papildomas patvirtintas šaltinio paminėjimas.
+    - t-006
+- c-002
+  santrauka: 'Prieš vyskupijos įkūrimą Jogaila iš Vilniaus išvyko į rytų Lietuvą, kur buvo mokomi ir krikštijami vietos žmonės.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
+    Motiejus,
+    vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš
+    Kauno^1 ).
     Dar prieš vyskupijos įkūrimą Jogaila iš Vilniaus išvyko į
     rytų Lietuvą. Čia jis aplankė didesnius Lietuvos miestelius,
     kaip Ašmeną, Lydą, Krėvę, Eišiškius, Merkinę, Gardiną ir k.,
@@ -129,16 +113,35 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-007
+- c-003
+  santrauka: 'Vytautas nuo pirmos krikšto dienos aktyviai dalyvavo krikštijimo darbe, aiškino žmonėms tikėjimą ir ragino juos krikštytis.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Vytautas nuo pat pirmos krikšto dienos aktyviai daly­
+    vavo krikštijimo darbe, aiškindamas žmonėms tikėjimą, ragin­
+    damas juos krikštytis. Jo, kaipo Gardino kunigaikščio, ant­
+    spaudos pridėtos privilegijų raštuose; taigi jis prisidėjo ir prie
+    naujos visuomeninės tvarkos įvedimo. Tačiau viso šio darbo
+    vadovu buvo Jogaila, kuris stengėsi Vytautą nustumti į šalį
+    nuo rūpinimosi Lietuva ir krikšto reikalais.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-008
 
 ## Ryšiai
 ### Laikotarpiai
+- [[laikotarpiai/XIII amžius]]
 - [[laikotarpiai/XIV amžius]]
 - [[laikotarpiai/XV amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
+- [[laikotarpiai/XVI amžius]]
 
 ### Susiję objektai
 - [[objektai/paprociai/Lietuvos krikšto apeigos]]
+- [[objektai/asmenys/Vytautas Didysis]]

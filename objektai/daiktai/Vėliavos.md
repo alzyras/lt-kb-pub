@@ -11,15 +11,27 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 laikotarpis: ''
-datos: []
-periodas: viduramziai
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1350 m.'
+  - '1399 m.'
+  - '1430 m.'
+  - '1930 m.'
+  - '1978 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+  - 'XV'
+  - 'XX'
+  - 'XXI'
+date_start: '1350'
+date_end: '2026'
 patikimumas: 'aukštas'
 tags:
   - daiktas
@@ -48,47 +60,49 @@ Nenurodyta
 
 ## Teiginiai
 - t-015
-  teiginys: 'Riterių būrys buvo vadinamas vėliava ir telkėsi apie savo ženklą.'
+  teiginys: 'Algirdas prie Maskvos pasirodė ant Pasveikinimo kalno su visomis savo pajėgomis ir išskleistomis vėliavomis.'
   pagrindžia:
     - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-016
-  teiginys: 'Riteris neturėjo teisės palikęs savo vėliavą bėgti iš mūšio.'
+  teiginys: 'XIV a. antrosios pusės lietuvių kario rekonstrukcijoje karys tarnauja Lietuvos valdovo asmeninėje vėliavoje.'
   pagrindžia:
     - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-017
-  teiginys: 'Senuosiuose Žalgirio aprašymuose Vytautui skiriama 40 vėliavų, Jogailai 51, o Ordinui 52 vėliavos.'
+  teiginys: 'Pridengę jų kraštines pozicijas trimis Smolensko vėliavomis, lietuviai pradėjo manevrą atsitraukdami.'
   pagrindžia:
     - c-003
-    - c-004
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-018
-  teiginys: 'Jogailą saugojo kunigaikščio Kaributo vėliava, kurią Vytautas buvo nusiuntęs dar prieš karą.'
+  teiginys: 'Lenkai patyrė didelį spaudimą tiek centre, tiek dešinėje, neatlaikiusi spaudimo net krito didžioji Krokuvos vėliava.'
   pagrindžia:
-    - c-005
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
-- t-019
-  teiginys: 'Tarp pabėgusių lenkų vėliavų buvo ir šv. Jurgio vėliava.'
-  pagrindžia:
-    - c-006
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+    - c-004
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Riterių būrys buvo vadinamas vėliava ir telkėsi apie savo ženklą.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: 'Algirdas prie Maskvos pasirodė ant Pasveikinimo kalno su visomis savo pajėgomis ir išskleistomis vėliavomis.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Riteris su savo palydovais sudarydavo tam tikrą
-    vienetą, kuris vadinosi „lance“, arba „kopijo“. 25-80 lancų su­
-    darydavo būrį, kuris buvo vadinamas vėliava. Tokiu būdu vė­
-    liavoje būdavo apie 300-400 raitųjų. Tie būriai savo ženklu,
-    apie kurį spiesdavosi, turėjo vėliavą.
+    Kai ryte po pamaldų „Maskvos kuni-
+    gaikštis su bajorais ir su kunigaikščiais
+    išeina iš cerkvės, Algirdas su visomis savo
+    pajėgomis, išskleidęs savo vėliavas, pasi-
+    rodė ant Pasveikinimo kalno (Paklonaja
+    gara)“ prie Maskvos. Maskvos didysis
+
+    kunigaikštis, įsakęs aplink sudeginti visą
+    priemiestį („posadą“), kad būtų atviras
+    plotas gynybai, užsidarė Kremliuje, o kartu
+    su juo ir metropolitas, kunigaikščiai bei
+    bajorai. Lietuvos kariuomenė, apsupusi
+    Maskvos Kremlių, stovėjo tris paras, su-
+    degino visus priemiesčius, cerkves, vie-
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -97,14 +111,19 @@ Nenurodyta
   pagrindžia:
     - t-015
 - c-002
-  santrauka: 'Riteris neturėjo teisės palikęs savo vėliavą bėgti iš mūšio.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: 'XIV a. antrosios pusės lietuvių kario rekonstrukcijoje karys tarnauja Lietuvos valdovo asmeninėje vėliavoje.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Kiekvienas rite­
-    ris kaudavosi po savo vėliava ir neturėdavo teisės ją palikęs
-    bėgti. Jei vėliava patekdavo į priešo rankas, tai riteriui valia
-    būdavo pasielgti savo nuožiūra — ar trauktis, ar kautis prisi­
-    dėjus prie kitos vėliavos.
+    Pagal istorinę tradiciją Vytautas
+
+    XIV a. antrosios pusės lietuvių kario rekonstrukcija. Šis
+    karys tarnauja Lietuvos valdovo asmeninėje vėliavoje.
+    Jo tunika puošia valdovo heraldinė simbolika -
+    Gediminaičių stulpai
+
+    ~
+
+    52 VORSKLOS MUSIS 1399 m. rugpjūčio 12 d.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -113,12 +132,17 @@ Nenurodyta
   pagrindžia:
     - t-016
 - c-003
-  santrauka: 'Senuosiuose Žalgirio aprašymuose Vytautui skiriama 40 vėliavų, Jogailai 51, o Ordinui 52 vėliavos.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: 'Pridengę jų kraštines pozicijas trimis Smolensko vėliavomis, lietuviai pradėjo manevrą atsitraukdami.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Zyndramas vedimui mažai turėjo reikšmės; jis kovojo tik prie
-    vyriausios vėliavos, tuo tarpu visos sąjunginės kariuomenės
-    vadovybė atiteko Vytautui.
+    Po valandos pagaliau į mūšį įsitraukė
+    lenkų kavalerija. Pridengę jų kraštines
+
+    pozicijas trimis Smolensko vėliavomis,
+    lietuviai pradėjo manevrą atsitraukdami.
+    Lietuvius puolę persekioti kryžiuočiai iš-
+    sklaidė savo gretas, pavyti manevringesnių
+    lietuvių jiems nepavyko.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -127,52 +151,16 @@ Nenurodyta
   pagrindžia:
     - t-017
 - c-004
-  santrauka: 'Senuosiuose Žalgirio aprašymuose Vytautui skiriama 40 vėliavų, Jogailai 51, o Ordinui 52 vėliavos.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  santrauka: 'Lenkai patyrė didelį spaudimą tiek centre, tiek dešinėje, neatlaikiusi spaudimo net krito didžioji Krokuvos vėliava.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    Se­
-    nesnieji istorijos šaltiniai paduoda tokį vėliavų skaičių: Vy­
-    tauto 40 vėliavų^2 ) (neskaitant totorių), Jogailos 51 vėliava (jų
-
-    (^1) ) Taip Kotzebue, Voigt priskaito sąj. 163.000,
-    Szainocha
-    Górski
-    Prochaska
-    kiti
-    80-90.000
-    23.600
-    23.900
-    27.000
-    Ordino 83.000.
-    „ 80.000
-    „ 16.000
-    „ 16.320
-    „ 15.000
-    (^2) ) Iš tų Lietuvos kariuomneės vėliavų, kovojančių po Vyties ženklu,
-    Dlugošas (IV, 41 p.) išvardina šias: Trakų, Vilniaus, Gardino, Kauno, Ly­
-    dos, Medininkų, Smolensko, Polocko, Vitebsko, Kijevo, Pinsko, Naugardu­
-    ko, Bresto, Volkovisko, Drohicko, Mielniko, Kremenieco, Starodubo.
-
-
-    ```
-    — 82 —
-    ```
-    tarpe 5 vėl. samdytos už Vytauto pinigus, 7 vėl. Raudonosios
-    Rusijos, 1 vėl. Podolijos ir 1 vėl. kunig. Kaributo) ir Ordino 52
-    vėl. Vėliavų skaičius ginčų nesukelia
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-017
-- c-005
-  santrauka: 'Jogailą saugojo kunigaikščio Kaributo vėliava, kurią Vytautas buvo nusiuntęs dar prieš karą.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Jį saugojo kunigaikščio Kaributo
-    vėliava, kurią dar prieš karą Vytautas buvo Jogailai nusiuntęs.
+    kariuomenę iš lenkų dešinės ir juos ap-
+    supti. Lenkai patyrė didelį spaudimą tiek
+    centre, tiek dešinėje, neatlaikiusi spau-
+    dimo net krito didžioji Krokuvos vėliava.
+    Kryžiuočiai, pamanę, jog mūšis laimė-
+    tas, užtraukė pergalės giesmę „Kristus
+    prisikėlė“.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -180,27 +168,19 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-018
-- c-006
-  santrauka: 'Tarp pabėgusių lenkų vėliavų buvo ir šv. Jurgio vėliava.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Pabėgo ir kelios lenkų vėliavos, jų tarpe ir labai narsi šv.
-    Jurgio vėliava.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-019
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/simbolis]]
 
+### Laikotarpiai
+- [[laikotarpiai/XIV amžius]]
+- [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
+
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
-- [[objektai/daiktai/Skydas]]
-- [[objektai/zodynas/vėliava]]
+- [[objektai/daiktai/Gediminaičių stulpai]]

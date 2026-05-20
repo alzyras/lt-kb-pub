@@ -1,0 +1,85 @@
+---
+tipas: daiktas
+pavadinimas: 'Pistoletas-kulkosvaidis PPS-43'
+sukurta: '2026-05-20'
+variantai: []
+aliases: []
+saltiniai:
+  - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+datos:
+  - '1991 m.'
+periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodo_grupes:
+  - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XX'
+date_start: '1991'
+date_end: ''
+patikimumas: 'vidutinis'
+tags:
+  - daiktas
+  - ginklas
+---
+# Pistoletas-kulkosvaidis PPS-43
+
+## Santrauka
+
+Pasyvios ir aktyvios kliūtys prieš pėstininkus turėjo tikslą tiesiog sulėtinti šturmo greitį ir suteikti erdvės gynėjams PPS-43, perdirbtas sovietinis pistoletaskulkosvaidis, šovinys - 7,62x25 mm TT.
+
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
+## Teiginiai
+- t-001
+  teiginys: 'PPS-43 buvo perdirbtas sovietinis pistoletas-kulkosvaidis, naudotas 1991 m. sausį Parlamente budėjusių savanorių.'
+  pagrindžia:
+    - c-001
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'PPS-43 buvo perdirbtas sovietinis pistoletas-kulkosvaidis, naudotas 1991 m. sausį Parlamente budėjusių savanorių.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Tuo tarpu inžinerinės
+    kliūtys turėjo sustabdyti sunkiąją kovinę
+    techniką atokiau nuo Parlamento rūmų ir
+    sudaryti galimybę išvengti TV bokšto sce-
+    narijaus. Pasyvios ir aktyvios kliūtys prieš
+    pėstininkus turėjo tikslą tiesiog sulėtinti
+    šturmo greitį ir suteikti erdvės gynėjams
+
+    PPS-43, perdirbtas sovietinis pistoletas-
+    kulkosvaidis, šovinys - 7,62x25 mm TT.
+    1991 m. sausį Parlamente budėjusių savanorių
+    ginklas
+
+    manevruoti bei nu-
+
+    kauti kuo daugiau
+
+    puolančiųjų.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]

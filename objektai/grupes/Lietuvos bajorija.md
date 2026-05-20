@@ -6,6 +6,19 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1413 m.'
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XV'
+  - 'XX'
+  - 'XXI'
+date_start: '1413'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - bajorija
@@ -21,41 +34,29 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
 
 ## Teiginiai
 - t-001
-  teiginys: 'Jo valdymo metu Lietuva jau tiek sutvirtėjo, jog apie jos priklausomybę Lenkijai nebegalėjo būti nė kalbos, ir Lietuvos bajorai tuojau po jo mirties, nieko nesiklausę, paskelbė savo valdovu Švitrigailą.'
+  teiginys: 'Napoleono kariuomenei užėmus Lietuvą, bajorija tuojau sujudo rūpintis atgaivinti didžiąją kunigaikštiją Napoleono globoje.'
   pagrindžia:
     - c-001
-    - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Lietuvos bajorijos suvažiavimas Vilniuje nutarė pačiam carui išdėstyti sunkią bajorijos būklę.'
-  pagrindžia:
-    - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-003
-  teiginys: 'Napoleono kariuomenei užėmus Lietuvą, bajorija tuojau sujudo rūpintis atgaivinti didžiąją kunigaikštiją Napoleono globoje.'
-  pagrindžia:
-    - c-004
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-004
   teiginys: 'Napoleonas leido Lietuvos bajorijai sudaryti laikiną savo valdžią.'
   pagrindžia:
-    - c-005
+    - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Jo valdymo metu Lietuva jau tiek sutvirtėjo, jog apie jos priklausomybę Lenkijai nebegalėjo būti nė kalbos, ir Lietuvos bajorai tuojau po jo mirties, nieko nesiklausę, paskelbė savo valdovu Švitrigailą.'
+  santrauka: 'Napoleono kariuomenei užėmus Lietuvą, bajorija tuojau sujudo rūpintis atgaivinti didžiąją kunigaikštiją Napoleono globoje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    atskirais dokumentais jį patvirtino Vytautas, Jo-
-    gaila, Lietuvos ir Lenkų bajorai. Vytauto ir Lietuvos bajorų
-    dokumentai buvo parašyti Vilniuje; Jogailos dokumentas yra žu-
-    vęs, tad nežinia, kur jis duotas; lenkų bajorai savo dokumentą su-
-    rašė Radome.
+    Su jais išsikraustė ir Oginskis ir kiti Rusijos
+    globos šalininkai.
+    Napoleono kariuomenei užėmus Lietuvą, bajorija tuojau
+    sujudo rūpintis atgaivinti didžiąją kunigaikštiją Napoleono glo-
+    boje. Bet Napoleonui pirmučiausia rūpėjo, kiek Lietuva galėtų
+    duoti jo armijai maisto ir kareivių.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -64,27 +65,14 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Jo valdymo metu Lietuva jau tiek sutvirtėjo, jog apie jos priklausomybę Lenkijai nebegalėjo būti nė kalbos, ir Lietuvos bajorai tuojau po jo mirties, nieko nesiklausę, paskelbė savo valdovu Švitrigailą.'
+  santrauka: 'Napoleonas leido Lietuvos bajorijai sudaryti laikiną savo valdžią.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Jo valdymo metu Lietuva jau tiek
-    sutvirtėjo, jog apie jos priklausomybę Lenkijai nebegalėjo būti
-    nė kalbos, ir Lietuvos bajorai tuojau po jo mirties, nieko nesi-
-    klausę, paskelbė savo valdovu Švitrigailą.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
-- c-003
-  santrauka: 'Lietuvos bajorijos suvažiavimas Vilniuje nutarė pačiam carui išdėstyti sunkią bajorijos būklę.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Lietuvos bajorija pasistengė šituo momentu pasinaudoti.
-    Gausus Vilniuje sušauktas bajorijos suvažiavimas nutarė pačiam
-    carui išdėstyti sunkią savo būklę.
+    Tačiau jis leido Lietuvos bajorijai sudaryti lai-
+    kinę savo valdžią.
+    Laikinės Lietuvos vyriausybės priešaky
+    atsistojo grafas Soltanas. Toji vyriausybė turėjo tvarkyti
+    krašto reikalus ir parūpinti armijai maisto.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -92,38 +80,9 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-- c-004
-  santrauka: 'Napoleono kariuomenei užėmus Lietuvą, bajorija tuojau sujudo rūpintis atgaivinti didžiąją kunigaikštiją Napoleono globoje.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Napoleono kariuomenei užėmus Lietuvą, bajorija tuojau
-    sujudo rūpintis atgaivinti didžiąją kunigaikštiją Napoleono glo-
-    boje.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003
-- c-005
-  santrauka: 'Napoleonas leido Lietuvos bajorijai sudaryti laikiną savo valdžią.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tačiau jis leido Lietuvos bajorijai sudaryti lai-
-    kinę savo valdžią.
-    Laikinės Lietuvos vyriausybės priešaky
-    atsistojo grafas Soltanas.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-004
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Laikinė Lietuvos vyriausybė]]
-- [[objektai/grupes/Lenkų bajorai]]
-- [[objektai/grupes/Napoleono kariuomenė]]
+### Laikotarpiai
+- [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

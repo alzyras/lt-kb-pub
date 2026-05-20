@@ -42,6 +42,9 @@ Nenurodyta
   santrauka: 'Varšuvos konfederacinis seimas (1768 m.) turėjo patvirtinti viską, ko reikalavo Repninas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Noroms nenoroms konfederatai turėjo pasirašyti aktą.
+    Tada konfederacija iš Radomo buvo perkelta į Varšuvą, kur
+    gyveno patsai Repninas.
     **Varšuvos konfederacinis seimas (1768 m.)** turėjo patvirtinti
     viską, ko reikalavo Repninas.
   citata_rodoma: ""

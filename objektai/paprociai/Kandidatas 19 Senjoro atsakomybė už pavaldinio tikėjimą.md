@@ -56,8 +56,5 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/tikėjimas]]
-
 ### Susiję objektai
 - [[objektai/paprociai/Kandidatas Senjoro atsakomybė už pavaldinio tikėjimą]]

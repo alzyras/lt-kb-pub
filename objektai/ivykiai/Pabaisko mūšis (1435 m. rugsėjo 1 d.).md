@@ -64,30 +64,24 @@ Nenurodyta
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-010
-  teiginys: 'Priešas Pabaisko apylinkėse atsitraukė į patogesnes pozicijas, bet lietuvių-lenkų kariuomenė jį smogė ir perskėlė pusiau.'
+  teiginys: 'Pabaisko mūšyje Švitrigailos ir Ordino kariuomenė palūžo ir bėgo, o daug žmonių pateko į nelaisvę.'
   pagrindžia:
     - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-011
-  teiginys: 'Pabaisko mūšyje Švitrigailos ir Ordino kariuomenė palūžo ir bėgo, o daug žmonių pateko į nelaisvę.'
+  teiginys: 'Pabaisko mūšyje žuvo Livonijos magistras Kerskorfas ir maršalas Nesselrodė, o mūšis buvo lyginamas su Tanenbergo-Žalgirio kautynėmis.'
   pagrindžia:
     - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-012
-  teiginys: 'Pabaisko mūšyje žuvo Livonijos magistras Kerskorfas ir maršalas Nesselrodė, o mūšis buvo lyginamas su Tanenbergo-Žalgirio kautynėmis.'
+  teiginys: 'Žygimantas Kęstutaitis pergalei Pabaisko mūšyje atminti 1436–1440 m. pastatė parapinę bažnyčią Pabaiske.'
   pagrindžia:
     - c-005
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-013
-  teiginys: 'Žygimantas Kęstutaitis pergalei Pabaiske atminti pastatė parapinę bažnyčią.'
-  pagrindžia:
-    - c-006
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-014
   teiginys: 'Po Vytauto mirties kilusios sosto dalybos sukėlė pilietinį karą, pasibaigusį 1435 m. Pabaisko mūšiu, o jame dalyvavęs Livonijos ordinas buvo visiškai susilpnintas.'
   pagrindžia:
     - c-001
@@ -108,7 +102,7 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-014
+    - t-013
 - c-002
   santrauka: '1435 m. rugsėjo 1 d. prie Ukmergės, prie Šventosios upės, įvyko mūšis, kuriame Žygimantas ir jo sūnus Mykolas sumušė Švitrigailos pajėgas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -125,41 +119,6 @@ Nenurodyta
   pagrindžia:
     - t-009
 - c-003
-  santrauka: 'Priešas Pabaisko apylinkėse atsitraukė į patogesnes pozicijas, bet lietuvių-lenkų kariuomenė jį smogė ir perskėlė pusiau.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    „Kariuomenės sustojo viena prieš kitą ne-
-    toliese, taip, kad jas tik mažas upelis skyrė“.
-    Taip jos kelias paras stovėjo, susikaupę
-    laukė mūšio. Šią kariuomenių išsidėstymo
-    situaciją natūroje atitinka ne Žirnajos (kaip
-    įprasta istoriografijoje), bet jos dešiniojo
-    intako Vintaros, tekančios per dabartinį
-    Pabaisko miestelį, padėtis.
-
-    Kokiose pozicijose buvo sustojusi kelyje
-    Gelvonų link Švitrigailos - Ordino ka-
-    riuomenė, ar buvo perėjusi Žirnajos upę
-    (kaip teigiama istoriografijoje), nėra aišku.
-    Greičiausiai tame kelyje tebuvo pereita tik
-    Vintara.
-
-    Švitrigaila ir Ordinas nutarė rugsėjo
-    1-ąją atsitraukti į patogesnes pozicijas. Kai
-    šį kariuomenės judėjimą pastebėjo lie-
-    tuvių-lenkų kariuomenė, ji smogė besi-
-    traukiančio priešo būriams, pirmiausia
-    livoniečiams. Priešo kariuomenė buvo
-    perskelta pusiau. Mūšis pareikalavo dau-
-    gelio aukų. Pagaliau, nežiūrint viršijančių
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-010
-- c-004
   santrauka: 'Pabaisko mūšyje Švitrigailos ir Ordino kariuomenė palūžo ir bėgo, o daug žmonių pateko į nelaisvę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -180,8 +139,8 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-011
-- c-005
+    - t-010
+- c-004
   santrauka: 'Pabaisko mūšyje žuvo Livonijos magistras Kerskorfas ir maršalas Nesselrodė, o mūšis buvo lyginamas su Tanenbergo-Žalgirio kautynėmis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -206,9 +165,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-012
-- c-006
-  santrauka: 'Žygimantas Kęstutaitis pergalei Pabaiske atminti pastatė parapinę bažnyčią.'
+    - t-011
+- c-005
+  santrauka: 'Žygimantas Kęstutaitis pergalei Pabaisko mūšyje atminti 1436–1440 m. pastatė parapinę bažnyčią Pabaiske.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Pabaisko mūšis imperatoriaus
@@ -226,8 +185,11 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-013
+    - t-012
 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XV amžius]]
+
+### Susiję objektai
+- [[objektai/vietos/Pabaiskas]]

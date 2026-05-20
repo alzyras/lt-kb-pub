@@ -87,4 +87,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Antanas Mackevičius]]
 - [[objektai/posakiai/Eikime, broliai, už vierą šventą]]

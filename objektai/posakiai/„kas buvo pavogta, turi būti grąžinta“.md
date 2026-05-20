@@ -18,7 +18,3 @@ Landsbergis atkakliai ir tvirtai paisė tik moralios politikos principų – „
 
 ## Teiginiai
 ## Reikšmingi paminėjimai
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/aktas]]

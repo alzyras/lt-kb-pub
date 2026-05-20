@@ -30,7 +30,8 @@ Kryžiuočiai buvo jau beapsupą lenkus ir būtų juos sumušę, bet tuo momentu
   santrauka: 'Vytautas į mūšį atvedė paskutinius rezervus, tai yra antrąsias kariuomenės eiles.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Kryžiuočiai buvo jau beapsupą lenkus ir būtų
+    Čia dar 3 valandas ėjo
+    smarkios kovos. Kryžiuočiai buvo jau beapsupą lenkus ir būtų
     juos sumušę, bet tuo momentu Vytautas atvedė paskutinius savo
     rezervus, t. y. antrąsias kariuomenės eiles. Mūšio įkaršty atsi-
     rado ir pasitraukę dešiniojo sparno lietuviai.

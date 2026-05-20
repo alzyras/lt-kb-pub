@@ -12,23 +12,24 @@ saltiniai:
   - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
 bukle: juodrastis
 laikotarpis: "1948-1953 m."
-datos:
-  - "1948-11"
-  - "1949-02-02"
-  - "1949-02-16"
-  - "1949-02-22"
-  - "1953-05"
-periodas: "siuolaikine_istorija"
-periodo_grupes:
-  - "pokaris"
-amziai:
-  - "XX"
-date_start: "1948"
-date_end: "1953"
 vaidmenys:
   - "centralizuota ginkluoto ir politinio pasipriešinimo organizacija"
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1948 m.'
+  - '1949 m.'
+  - '1953 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'okupacijų ir sovietmečio laikotarpis'
+periodo_grupes:
+  - 'XX a.'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1948'
+date_end: '2026'
 patikimumas: "vidutinis"
 tags: []
 ---
@@ -70,82 +71,13 @@ Centralizuota ginkluoto ir politinio antisovietinio pasipriešinimo organizacija
 - susijusios vietos: bunkeris tarp Radviliškio ir Baisogalos.
 
 ## Teiginiai
-- t-012
-  teiginys: 'LLKS Tarybos prezidiumo pirmininku išrinktas Jonas Žemaitis-Vytautas, jam suteiktas partizanų generolo laipsnis.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-013
-  teiginys: 'LLKS Tarybos prezidiumo pirmininku išrinktas Jonas Žemaitis-Vytautas, jam suteiktas partizanų generolo laipsnis.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-014
-  teiginys: 'LLKS Tarybos prezidiumo pirmininku išrinktas Jonas Žemaitis-Vytautas.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-015
-  teiginys: 'LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės atkūrimas ir jos demokratinio valdymo principai.'
-  pagrindžia:
-    - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-- t-016
-  teiginys: 'LLKS Vasario 16-osios deklaracijoje numatyta, kad atkurta Lietuva bus demokratinė respublika, kurios suvereni valdžia priklausys tautai.'
-  pagrindžia:
-    - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'LLKS Tarybos prezidiumo pirmininku išrinktas Jonas Žemaitis-Vytautas, jam suteiktas partizanų generolo laipsnis.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    LLKS Tarybos prezidiumo pirmininku iš-
-    rinktas kadrinis kariškis Jonas Žemaitis-Vytautas (1929 m. baigė Kauno
-    karo mokyklą, gavo leitenanto laipsnį, kurį laiką tarnavo 2-ajame artile-
-    rijos pulke, 1936–1938 m. studijavo Prancūzijos artilerijos mokykloje),
-    jam suteiktas aukščiausias – partizanų generolo laipsnis.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-012
-    - t-013
-    - t-014
-- c-002
-  santrauka: 'LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės atkūrimas ir jos demokratinio valdymo principai.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Bunkeryje pri-
-    imtoje LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės
-    atkūrimas ir jos valdymo principai: santvarka – demokratinė respublika,
-    suvereni Lietuvos valdžia priklauso tautai, Lietuva valdoma per laisvais,
-    demokratiniais, visuotiniais, lygiais, slaptais rinkimais išrinktą Seimą ir jo
-    sudarytą vyriausybę.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-015
-    - t-016
+
 
 ## Šaltiniai ir įrodymai
 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/Jonas Žemaitis-Vytautas]]
-- [[objektai/ivykiai/LLKS Vasario 16-osios deklaracijos priėmimas (1949 m.)]]
-- [[objektai/ivykiai/Visos Lietuvos partizanų vadų suvažiavimas (1949 m. vasario 2–22 d.)]]
+- [[laikotarpiai/XXI amžius]]

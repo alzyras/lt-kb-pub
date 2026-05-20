@@ -37,13 +37,13 @@ Mėlynųjų Vandenų įvykių pagrindiniai šaltiniai: žinios xv a. pirmosios p
 
 ## Teiginiai
 - t-003
-  teiginys: 'Mėlynųjų Vandenų įvykių pagrindiniai šaltiniai: žinios xv a. pirmosios pusės rusų Tverės sąvade - Rogožos metraštyje prieš 6871 (1363) m. sakoma, kad rudenį Algirdas „Mėlynuosius Vandenis ir Baltąją pakrantę nukariavo“.'
+  teiginys: 'Rogožos metraštyje prie 6871 (1363) m. rašoma, kad rudenį Algirdas nukariavo Mėlynuosius Vandenis ir Baltąją pakrantę.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-004
-  teiginys: 'Plačiausiai Lietuvos kariuomenės pirmąjį žygį į Maskvą nušvietusio Rogožos metraščio autorius pabrėžia Algirdo „mokėjimą kariauti“, „kariavimą gudrumu“, iškeliami jo kariniai sugebėjimai.'
+  teiginys: 'Rogožos metraštis plačiausiai nušvietė pirmąjį Lietuvos kariuomenės žygį į Maskvą ir pabrėžė Algirdo kariavimą gudrumu.'
   pagrindžia:
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -53,7 +53,7 @@ Mėlynųjų Vandenų įvykių pagrindiniai šaltiniai: žinios xv a. pirmosios p
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Mėlynųjų Vandenų įvykių pagrindiniai šaltiniai: žinios xv a. pirmosios pusės rusų Tverės sąvade - Rogožos metraštyje prieš 6871 (1363) m. sakoma, kad rudenį Algirdas „Mėlynuosius Vandenis ir Baltąją pakrantę nukariavo“.'
+  santrauka: 'Rogožos metraštyje prie 6871 (1363) m. rašoma, kad rudenį Algirdas nukariavo Mėlynuosius Vandenis ir Baltąją pakrantę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mėlynųjų Vandenų įvykių pagrindi-
@@ -77,7 +77,7 @@ Mėlynųjų Vandenų įvykių pagrindiniai šaltiniai: žinios xv a. pirmosios p
   pagrindžia:
     - t-003
 - c-002
-  santrauka: 'Plačiausiai Lietuvos kariuomenės pirmąjį žygį į Maskvą nušvietusio Rogožos metraščio autorius pabrėžia Algirdo „mokėjimą kariauti“, „kariavimą gudrumu“, iškeliami jo kariniai sugebėjimai.'
+  santrauka: 'Rogožos metraštis plačiausiai nušvietė pirmąjį Lietuvos kariuomenės žygį į Maskvą ir pabrėžė Algirdo kariavimą gudrumu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Šaltiniuose pabrė-

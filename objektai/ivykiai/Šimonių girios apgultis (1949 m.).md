@@ -60,15 +60,9 @@ Nenurodyta
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-005
-  teiginys: '1949 m. spalį suimti Albinas Kubilius-Rūgštymas ir Alfonsas Vildžiūnas-Vijoklis sutiko bendradarbiauti ir atvedė čekistus prie Šiaurės Rytų partizanų srities štabo bunkerio; bunkeryje susisprogdino Antanas Slučka-Šarūnas, Joana Railaitė-Neringa ir Juozas Jovaiša-Lokis; Balys Žukauskas-Princas pasidavė gyvas ir nurodė dar 3 štabo bunkerius.'
+  teiginys: 'Per 1949 m. lapkričio 1–2 d. susirėmimą Šimonių girioje sovietų kariai susprogdino aštuonis partizanų bunkerius, žuvo 33 partizanai, 10 pateko į nelaisvę.'
   pagrindžia:
     - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-- t-006
-  teiginys: 'Didžiausio susirėmimo metu Šimonių girioje susprogdinti aštuoni partizanų bunkeriai, žuvo 33 partizanai, 10 pateko į nelaisvę, o 1949 m. rudenį sunaikinti Algimanto apygardos ir Šarūno rinktinės štabai.'
-  pagrindžia:
-    - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
@@ -90,41 +84,7 @@ Nenurodyta
   pagrindžia:
     - t-004
 - c-002
-  santrauka: '1949 m. spalį suimti Albinas Kubilius-Rūgštymas ir Alfonsas Vildžiūnas-Vijoklis sutiko bendradarbiauti ir atvedė čekistus prie Šiaurės Rytų partizanų srities štabo bunkerio; bunkeryje susisprogdino Antanas Slučka-Šarūnas, Joana Railaitė-Neringa ir Juozas Jovaiša-Lokis; Balys Žukauskas-Princas pasidavė gyvas ir nurodė dar 3 štabo bunkerius.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1949 m. spalio 24 d. MGB agentui V. Kučiui
-    panaudojus spec. preparatus „Neptun-20“,
-    buvo suimti Algimanto apygardos štabo
-    pareigūnas Albinas Kubilius-Rūgštymas
-    ir Vytenio būrio partizanas Alfonsas
-    Vildžiūnas-Vijoklis. Po intensyvių tardymų
-    bei kankinimų abu sutiko bendradarbiauti
-    ir spalio 28 d. atvedė čekistus prie tuome-
-    tinio Šiaurės Rytų partizanų srities štabo
-    bunkerio Anykščių valsčiaus, Butkiškio
-    vienkiemio Jovaišų sodyboje. Rūgštymas
-    buvo pristatytas prie pagrindinio įėjimo,
-    o Vijoklis — prie atsarginio. Išdavikus ly-
-    dėjo ir visą operaciją vykdė MGB 298-ojo
-    šaulių pulko 3-iojo bataliono kareiviai.
-    Nematydami kitos išeities, bunkeryje
-    susisprogdino Rytų Lietuvos srities vadas
-    Antanas Slučka-Šarūnas kartu su savo
-    žmona, RL štabo nare, štabo sekretore Joana
-    Railaite-Neringa ir partizanu Juozu Jovaiša-
-    Lokiu. Štabo adjutantas Balys Žukauskas-
-    Princas pasidavė gyvas ir nurodė dar
-    3 štabo bunkerius.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-005
-- c-003
-  santrauka: 'Didžiausio susirėmimo metu Šimonių girioje susprogdinti aštuoni partizanų bunkeriai, žuvo 33 partizanai, 10 pateko į nelaisvę, o 1949 m. rudenį sunaikinti Algimanto apygardos ir Šarūno rinktinės štabai.'
+  santrauka: 'Per 1949 m. lapkričio 1–2 d. susirėmimą Šimonių girioje sovietų kariai susprogdino aštuonis partizanų bunkerius, žuvo 33 partizanai, 10 pateko į nelaisvę.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mūšio padariniai
@@ -146,8 +106,11 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-006
+    - t-005
 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
+
+### Susiję objektai
+- [[objektai/ivykiai/Šimonių girios apgultis]]

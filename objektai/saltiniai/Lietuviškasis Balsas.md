@@ -23,12 +23,6 @@ tags:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: '1885 m. „Lietuviškasis Balsas“ pradėtas leisti kaip laikraštis, kurį leidėjui teko beveik vienam prirašyti, išspausdinti ir išplatinti.'
-  pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 
@@ -39,6 +33,9 @@ tags:
   citata_originali: |
     „Lietuviškojo Balso" pirmojo numerio antraštė.
     (Laikraštis ėjo 1885—1889 m.).
+    pagalbos. Tačiau lietuvių nusistatymas ginti savo teises nė kiek
+    nemažėjo; jį dar labiau paskatino tautiškasis Amerikos lietu-
+    vių judėjimas, ypač pagyvėjęs su 1883 m. atsiradusia „Aušra".
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -46,17 +43,3 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: '1885 m. „Lietuviškasis Balsas“ pradėtas leisti kaip laikraštis, kurį leidėjui teko beveik vienam prirašyti, išspausdinti ir išplatinti.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    1885 m. jau ėmė leisti savo laikraštį „Lietuviškąjį Bal-
-    są", kurį jam tekdavo beveik vienam ir prirašyti, ir išspausdinti
-    ir išplatinti.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-002

@@ -29,7 +29,13 @@ tags:
   santrauka: 'Žygio metu buvo pasiekta Kaluga, taip pat Tula ir Riazanė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Šito žygio metu
+    Vytautas
+    tuojau išžygiavo į Maskvą, bet jaunučio Maskvos kunigaikš-
+    čio Vosyliaus II motina, Vytauto duktė Sofija, atvykusi jo pa-
+    sitikti į Smolenską, permaldavo Vytautą, ir jis tuo metu tepri-
+    jungė prie Lietuvos tik keletą kunigaikštysčių, kurios anksčiau
+    svyravo tarp Maskvos ir Lietuvos. Be to, jis pats pasidarė
+    savo vaikaičio, Maskvos kunigaikščio, globėju. Šito žygio metu
     buvo pasiekta net Tula, Kaluga ir Riazanė.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -38,8 +44,3 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Riazanė]]
-- [[objektai/vietos/Tula]]

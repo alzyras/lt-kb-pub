@@ -89,9 +89,6 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/dokumentas]]
-
 ### Susiję objektai
 - [[objektai/grupes/Tikinčiųjų teisių gynimo komitetas]]
 - [[objektai/zodynas/kulto laisvė]]

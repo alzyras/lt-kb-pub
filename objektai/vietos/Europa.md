@@ -6,6 +6,20 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1429 m.'
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'LDK'
+  - 'modernioji Lietuva'
+amziai:
+  - 'XV'
+  - 'XX'
+  - 'XXI'
+date_start: '1429'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - karas
@@ -21,22 +35,23 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 
 ## Teiginiai
 - t-001
-  teiginys: 'Iš Prancūzijos kilusi srovė paplito po Europą ir paveikė Europos valdovus.'
+  teiginys: '1429 m. beveik užmirštas klausimas vėl iškilo į viešumą ir sujudino visą Europą.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Iš Prancūzijos kilusi srovė paplito po Europą ir paveikė Europos valdovus.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: '1429 m. beveik užmirštas klausimas vėl iškilo į viešumą ir sujudino visą Europą.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Iš Prancūzijos ta pati srovė paplito po visą Europą. Ja užsi-
-    krėtė Europos valdovai. Jie palaikė ryšius su išgarsėjusiais litera-
-    tais ir mokslininkais, patys užsiėmė literatūra ir mokslu, savo sosti-
-    nėse kūrė mokslų akademijas (Berlyne, Petrapily, Drezdene, Stok-
-    holme ir kt.) ir naujus universitetus.
+    Vytautui tada daug
+    labiau nekaip karūna rūpėjo pabaigt mūšio lauke nuolatinius
+    ginčus ir susirėmimus su Ordinu, kuris jau nuo seno nedavė
+    Lietuvai ramybės. Praėjus dvidešimt metų nuo Kėzmarko su­
+    važiavimo, beveik užmirštam klausimui vėl buvo lemta kilti į
+    viešumą ir sujudinti visą Europą. Tai atsitiko 1429 m.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -44,3 +59,9 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XV amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

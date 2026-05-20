@@ -30,6 +30,10 @@ Mums nėra reikalo vartoti baltų termino dar ir dėl to, kad juo dažnai pažym
   santrauka: 'Suomiai priskirti prie lietuviams negiminiškų tautų, kurios kartais buvo žymimos baltų terminu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Tik didieji mūsų kalbininkai Jaunius su
+    Būga visas tas gimines vadino aisčiais, argumentuodami tuo, kad
+    taip jas vadina senieji viduramžio raštai ir kad ten, kur jie gyveno,
+    yra tą vardą pateisinančių vietovardžių (pav., _Aistmarės_ Prūsuose).
     Mums nėra reikalo vartoti _baltų_ termino dar ir dėl to, kad juo dažnai
     pažymimos ir kitos, mums visiškai negiminiškos tautos: lybiai, estai
     ir suomiai.

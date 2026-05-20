@@ -67,3 +67,7 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
+
+### Susiję objektai
+- [[objektai/ivykiai/Tvanas]]
+- [[objektai/posakiai/„tvanas“]]

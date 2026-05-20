@@ -10,6 +10,23 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+datos:
+  - '1648 m.'
+  - '1649 m.'
+  - '1651 m.'
+  - '1936 m.'
+  - '2013 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'LDK'
+  - 'modernioji Lietuva'
+amziai:
+  - 'XVII'
+  - 'XX'
+  - 'XXI'
+date_start: '1648'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - autorius
@@ -26,13 +43,19 @@ A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Liet
 
 ## Teiginiai
 - t-004
-  teiginys: 'Šiame leidinyje A. Vijūkas Kojelavičius pateikiamas kaip amžininkas, kurio teiginiu remiamasi vertinant Lenkijos kariuomenės elgesį.'
+  teiginys: 'Albertas Vijūkas-Kojelavičius vertino, kad Lenkijos kariuomenė dažnai stodavo į mūšį nepasvėrusi savo jėgų.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-005
-  teiginys: 'Šiame leidinyje A. Vijūkas Kojelavičius įvardijamas kaip 1651 m. veikalo „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ autorius.'
+  teiginys: 'A. Vijūkas-Kojalavičius 1651 m. parašė veikalą „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“.'
+  pagrindžia:
+    - c-003
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-006
+  teiginys: 'Amžininko Alberto Vijūko-Kojelavičiaus teigimu, Lenkijos kariuomenė dažnai stodavo į mūšį nepasvėrusi savo jėgų, vedina paniekos priešui.'
   pagrindžia:
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -40,7 +63,7 @@ A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Liet
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Šiame leidinyje A. Vijūkas Kojelavičius pateikiamas kaip amžininkas, kurio teiginiu remiamasi vertinant Lenkijos kariuomenės elgesį.'
+  santrauka: 'Albertas Vijūkas-Kojelavičius vertino, kad Lenkijos kariuomenė dažnai stodavo į mūšį nepasvėrusi savo jėgų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Amžininko Alberto Vijūko-Kojelavi-
@@ -55,7 +78,26 @@ A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Liet
   pagrindžia:
     - t-004
 - c-002
-  santrauka: 'Šiame leidinyje A. Vijūkas Kojelavičius įvardijamas kaip 1651 m. veikalo „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ autorius.'
+  santrauka: 'Amžininko Alberto Vijūko-Kojelavičiaus teigimu, Lenkijos kariuomenė dažnai stodavo į mūšį nepasvėrusi savo jėgų, vedina paniekos priešui.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Amžininko Alberto Vijūko-Kojelavi-
+    čiaus teigimu, Lenkijos kariuomenė dažnai
+    stodavo į mūšį nepasvėrusi savo jėgų, ve-
+    dina paniekos priešui.
+
+    1648 m. vasarą kazokai ėmė veržtis į
+    LDK pietrytinės sritis. Jie siautėjo Pinsko,
+    Starodubo ir Mozyriaus apylinkėse.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-006
+- c-003
+  santrauka: 'A. Vijūkas-Kojalavičius 1651 m. parašė veikalą „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Ištrauka iš A. Vijūko-Kojalavičiaus 1651 metų veikalo ,,Apie 1648 ir 1649 metų žygius
@@ -67,3 +109,9 @@ A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Liet
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
+
+## Ryšiai
+### Laikotarpiai
+- [[laikotarpiai/XVII amžius]]
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

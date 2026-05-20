@@ -30,6 +30,14 @@ O iš Lietuvos pabėgę dvarininkai šaukte šaukė, kad „mužikų" kuriama va
   santrauka: 'Iš Lietuvos pabėgę dvarininkai teigė, kad „mužikų“ kuriama valstybė jau esanti bolševikiška.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
+    Toks jų
+    pageidavimas buvo ne kartą pareikštas Vokietijos valdžiai dar
+    okupacijos laikais, to pat jie siekė ir tada, kai Europos likimą
+    sprendė karą laimėjusioji santarvė. Kadangi Lenkija nuo seno
+    turėjo didelį Prancūzijos palankumą, tad atgimusiai Lietuvai ko-
+    va buvo labai sunki, — juo labiau, kad santarvės valstybės
+    tada dar labai nepasitikėjo Lietuva ir bijojo, kad silpna ma-
+    žytė valstybė sudarysianti tik geras sąlygas bolševizmui plisti.
     O iš Lietuvos pabėgę dvarininkai šaukte šaukė, kad „mužikų"
     kuriama valstybė jau esanti bolševikiška.
   citata_rodoma: ""

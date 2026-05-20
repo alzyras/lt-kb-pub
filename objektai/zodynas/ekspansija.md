@@ -14,14 +14,13 @@ tags: []
 
 ## Teiginiai
 - t-003
-  teiginys: 'Ekspansija čia reiškia Lietuvos plėtimąsi į rytus.'
+  teiginys: 'Lietuvos ekspansija rytuose prasidėjo dar valdant Mindaugui.'
   pagrindžia:
     - c-001
-    - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-004
-  teiginys: 'Tekstas teigia, kad ši rytinė plėtra prasidėjo dar prie Mindaugo.'
+  teiginys: 'Lietuvos ekspansija rytuose prasidėjo dar valdant Mindaugui.'
   pagrindžia:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -29,9 +28,15 @@ tags: []
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Ekspansija čia reiškia Lietuvos plėtimąsi į rytus.'
+  santrauka: 'Lietuvos ekspansija rytuose prasidėjo dar valdant Mindaugui.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
+    Kaip Vytenis buvo nenuilstamas kovotojas ir tolimų
+    ekspedicijų organizatorius bei vadas, taip po jo viešpatavęs jo
+    brolis Gediminas (1316 — 1341) buvo didelis politikas, tikra­
+    sis Didžiosios Lietuvos kunigaikštijos organizatorius. Jis ne
+    tik glaudžiai sujungė bei sutvirtino valstybę, bet ir įvedė ją į
+    rytų politiškų galybių tarpą, kaip pirmaeilės reikšmės narį.
     Lietuvos ekspansija rytuose prasidėjo dar prie Mindaugo.
   citata_rodoma: ""
   teiginio_tipas: faktas
@@ -41,16 +46,3 @@ tags: []
   pagrindžia:
     - t-003
     - t-004
-- c-002
-  santrauka: 'Ekspansija čia reiškia Lietuvos plėtimąsi į rytus.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Jau jis prijungė Lietuvai trikampį plotą tarp Gardino, L. Bras­
-    tos ir Naugarduko, t. y. vad. Juodąją Rusiją.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-003

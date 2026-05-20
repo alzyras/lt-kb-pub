@@ -7,6 +7,18 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1936 m.'
+  - '1978 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1936'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - ežeras
@@ -20,29 +32,20 @@ Netoli Vilniaus, sunkiai prieinamame Galvės ežero pusiasaly, Gediminas pastat�
 
 ## Teiginiai
 - t-001
-  teiginys: 'Galvės ežere buvo Vytauto garbės ir pasididžiavimo statiniu vadinta salos pilis.'
+  teiginys: 'Iš trijų pusių pilį supa Galvės ežeras.'
   pagrindžia:
     - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Galvės ežere buvo Vytauto garbės ir pasididžiavimo statiniu vadinta salos pilis.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  santrauka: 'Iš trijų pusių pilį supa Galvės ežeras.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    kurių žymiausias jo garbės ir pasididžiavimo statinys buvo Galvės
-    (^1) **Žr.** **_Bažnytinė unija,_** **LE, t. 2, 309-313 p.**
-    (^2) **Žr. V. Trumpa :** **_Magdeburgo teisė,_** **LE, t. 17, 63-64 p.**
-    (^3) **Z. Ivinskis :** **_Lietuva ir žydai istorijos šviesoje,_** **Aidai, nr. 10, 1971,
-    438-446 p.; nr. 1, 1972, 24-30 p.**
-    (^4) **Žr. Karys, J. K. : Pinigėliai, LE, t. 23, 19 p.; (”) Senovės lietuvių**
-    **_pinigai,_** **Putnam 1959.**
-    (^5) **Žr.** **_Artilerija, Lietuvos art. istorija_** **, LE, t. 1, 299-300 p.**
-
-
-    ežero salos pilis^6 , kurioje 1414 apsilankė Burgundijos riteris Ghil­
-    lebert de Lannoy
+    Pilį saugojo 11 gynybinių bokštų. Iš trijų pusių pilį
+    supa Galvės ežeras. Priešais centrinius vartus buvo
+    iškastas gynybinis griovys, susijungiantis su ežeru.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -55,5 +58,6 @@ Netoli Vilniaus, sunkiai prieinamame Galvės ežero pusiasaly, Gediminas pastat�
 ### Teminiai klasteriai
 - [[temos/ežeras]]
 
-### Susiję objektai
-- [[objektai/vietos/Galvės ežero salos pilis]]
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]

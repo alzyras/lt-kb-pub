@@ -29,7 +29,10 @@ Jie kiekvienas irgi atsivedė samdytos kariuomenės — savo dvarų milicijos.
   santrauka: 'Dvarų milicija buvo didikų atsivesta samdyta kariuomenė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Jie kiekvienas irgi atsivedė
+    Čia jau buvo sutraukta visa Sapiegų kariuomenė
+    ir dalis jiems ištikimos bajorijos. Tačiau Sapiegų priešų jėgos
+    buvo didesnės: prieš Sapiegas buvo susirinkusi beveik visos
+    Lietuvos bajorija ir visi didžiūnai. Jie kiekvienas irgi atsivedė
     samdytos kariuomenės — savo dvarų milicijos.
   citata_rodoma: ""
   teiginio_tipas: faktas

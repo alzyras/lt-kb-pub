@@ -57,7 +57,9 @@ Nenurodyta
     ningą pragyvenimo šaltinį, ir jos būdavo atiduodamos tam, kas
     kuriuo nors būdu nusipelnydavo didžiajam kunigaikščiui. Tuo
     būdu į dvasininkus įsibraudavo daug žmonių, kurie nieko
-    bendro neturėdavo su Bažnyčia, o tiktai norėdavo pasipelnyti.
+    bendro neturėdavo su Bažnyčia, o tiktai norėdavo pasipelnyti. Tie
+    kunigai, kurie atkildavo iš Lenkijos, taip pat mažai tesirūpin-
+    davo tikybos reikalais.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

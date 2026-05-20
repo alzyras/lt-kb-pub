@@ -48,6 +48,4 @@ tags:
 
 ## Ryšiai
 ### Teminiai klasteriai
-- [[temos/dokumentas - laiškas]]
-- [[temos/dokumentas]]
 - [[temos/laiškas]]

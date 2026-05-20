@@ -68,8 +68,5 @@ Rusinimo politika 1864–1904 metais Šios politikos ėmėsi sukilimo slopintoja
     - t-002
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/tikėjimas]]
-
 ### Susiję objektai
 - [[objektai/zodynas/rusinimas]]

@@ -34,10 +34,15 @@ Tuo būdu su šia pirmąja Bažnyčios privilegija atsirado Lietuvoje bažnytin�
   santrauka: 'Pirmoji Bažnyčios privilegija Lietuvoje sukūrė bažnytinės žemės nuosavybę be prievolių valstybei.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tuo būdu su šia pirmąja Bažnyčios privilegija
+    būti valdomos tokiomis pat teisėmis, kokiomis valdė savo žemes
+    ir patsai valdovas. Tuo būdu su šia pirmąja Bažnyčios privilegija
     atsirado Lietuvoje bažnytinės žemės nuosavybė be jokių prievo-
     lių valstybei; tuo tarpu visi bajorai ir valstiečiai turėjo daug prie-
-    volių.
+    volių. Todėl vėliau iškilusi
+    bajorija ilgai rūpinosi, kad ir
+    dvasininkų žemėms būtų už-
+    dėta karo prievolė ir mokes-
+    čiai.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas

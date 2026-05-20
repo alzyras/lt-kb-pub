@@ -30,7 +30,9 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
   santrauka: 'Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Tačiau galutinai dėl unijos buvo susitarta kiek vė-
+    Imperatorius, norėdamas gauti Vakarų para-
+    mos prieš turkus, taip pat pasiūlė Bazelio suvažiavimui sujungti
+    Bažnyčias. Tačiau galutinai dėl unijos buvo susitarta kiek vė-
     liau Florencijoje. Tas susitarimas buvo paskelbtas Konstantino-
     poly 1452 m., tik jau nebebuvo laiko jam įvykdyti: po pusės
     metų (1453 m.) Konstantinopolį užėmė turkai, imperija žlugo, o
@@ -42,7 +44,3 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Konstantinopolis]]

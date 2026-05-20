@@ -6,6 +6,17 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1936 m.'
+  - '2026 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1936'
+date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
   - ordinas
@@ -20,20 +31,23 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
 
 ## Teiginiai
 - t-001
-  teiginys: 'Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kuršmarės jungiasi su Baltija.'
+  teiginys: 'Algirdas su Kęstučiu, teriodami Kuršių marių pakraščius, nužygiavo iki Deimenos.'
   pagrindžia:
     - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kuršmarės jungiasi su Baltija.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  santrauka: 'Algirdas su Kęstučiu, teriodami Kuršių marių pakraščius, nužygiavo iki Deimenos.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Tam tikslui 1252 m. Livo-
-    nijos ordinas ėmė statyti pilį toje vietoje, kur Kuršmarės
-    jungiasi su Baltija.
+    Kniprodė smarkiai
+    teriojo Gaižuvos, Ariogalos ir Raseinių sritis; tik dėl staigaus
+    polaidžio jis turėjo gana nuostolingą grįžimą^12. O Algirdas su
+    Kęstučiu, teriodami Kuršių Marių pakraščiais, nužygiavo iki Dei­
+    menos^13. Dešimtmečiui praslinkus, lietuviai patyrė smūgį vėl pa­
+    čioje Lietuvoje.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -43,5 +57,6 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Baltija]]
+### Laikotarpiai
+- [[laikotarpiai/XX amžius]]
+- [[laikotarpiai/XXI amžius]]
