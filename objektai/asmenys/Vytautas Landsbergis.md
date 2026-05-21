@@ -9,17 +9,13 @@ saltiniai:
 datos:
   - '1990 m.'
   - '1991 m.'
-  - '1992 m.'
-  - '2013 m.'
-  - '2026 m.'
 periodas: 'atkurtos nepriklausomybės laikotarpis'
 periodo_grupes:
   - 'šiuolaikinė Lietuva'
 amziai:
   - 'XX'
-  - 'XXI'
 date_start: '1990'
-date_end: '2026'
+date_end: '1991'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -128,7 +124,6 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/grupes/Aukščiausioji Taryba]]

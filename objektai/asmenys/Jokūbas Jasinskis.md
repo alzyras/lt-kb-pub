@@ -8,17 +8,13 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1794 m.'
-  - '2013 m.'
-  - '2026 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
-  - 'šiuolaikinė Lietuva'
 amziai:
   - 'XVIII'
-  - 'XXI'
 date_start: '1794'
-date_end: '2026'
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -150,4 +146,3 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XVIII amžius]]
-- [[laikotarpiai/XXI amžius]]

@@ -7,30 +7,15 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
-  - '1590 m.'
-  - '1595 m.'
-  - '1596 m.'
-  - '1599 m.'
-  - '1600 m.'
-  - '1601 m.'
-  - '1602 m.'
-  - '1603 m.'
-  - '1604 m.'
-  - '1605 m.'
   - '1609 m.'
-  - '1936 m.'
-  - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
+periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
-  - 'modernioji Lietuva'
 amziai:
   - 'XVI'
   - 'XVII'
-  - 'XX'
-  - 'XXI'
-date_start: '1590'
-date_end: '2026'
+date_start: '1609'
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -104,8 +89,6 @@ Jos nebeišgelbėjo nė karaliaus atsiųstas Katkevičius. Katkevičius (Mūsų 
 ### Laikotarpiai
 - [[laikotarpiai/XVI amžius]]
 - [[laikotarpiai/XVII amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/vietos/Chotinas]]

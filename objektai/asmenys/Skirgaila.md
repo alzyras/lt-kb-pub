@@ -11,15 +11,11 @@ saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1350 m.'
-  - '1380 m.'
   - '1393 m.'
   - '1395 m.'
   - '1399 m.'
   - '1430 m.'
   - '1930 m.'
-  - '1936 m.'
-  - '1978 m.'
-  - '2026 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
@@ -27,9 +23,8 @@ amziai:
   - 'XIV'
   - 'XV'
   - 'XX'
-  - 'XXI'
 date_start: '1350'
-date_end: '2026'
+date_end: '1930'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -285,7 +280,6 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
 - [[laikotarpiai/XIV amžius]]
 - [[laikotarpiai/XV amžius]]
 - [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/vietos/Kremencas]]

@@ -9,17 +9,13 @@ saltiniai:
 datos:
   - '1564 m.'
   - '1581 m.'
-  - '2013 m.'
-  - '2026 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
-  - 'šiuolaikinė Lietuva'
 amziai:
   - 'XVI'
-  - 'XXI'
 date_start: '1564'
-date_end: '2026'
+date_end: '1581'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -194,7 +190,6 @@ pabaigoje į Lietuvos istoriją įžengė garsiausia ir – tai svarbu – lietu
 
 ### Laikotarpiai
 - [[laikotarpiai/XVI amžius]]
-- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/ivykiai/Polocko apsiaustis (1563 m. sausio 31 d.)]]

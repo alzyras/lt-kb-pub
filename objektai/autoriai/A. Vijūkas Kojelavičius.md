@@ -14,19 +14,13 @@ datos:
   - '1648 m.'
   - '1649 m.'
   - '1651 m.'
-  - '1936 m.'
-  - '2013 m.'
-  - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
+periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
-  - 'modernioji Lietuva'
 amziai:
   - 'XVII'
-  - 'XX'
-  - 'XXI'
 date_start: '1648'
-date_end: '2026'
+date_end: '1651'
 patikimumas: 'vidutinis'
 tags:
   - autorius
@@ -133,5 +127,3 @@ A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Liet
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XVII amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

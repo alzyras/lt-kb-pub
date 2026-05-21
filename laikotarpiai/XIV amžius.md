@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 548.
+Objektų skaičius: 533.
 
 ## Kaip naudoti
 
@@ -19,7 +19,6 @@ Objektų skaičius: 548.
 ## Susiję objektai
 
 ### Asmenys
-- [[objektai/asmenys/Aldona Gediminaitė]]
 - [[objektai/asmenys/Aldona Ona]]
 - [[objektai/asmenys/Aleksandras (Mykolo sūnus)]]
 - [[objektai/asmenys/Aleksandras Vyguntas]]
@@ -31,7 +30,6 @@ Objektų skaičius: 548.
 - [[objektai/asmenys/Baltramiejus (vyskupas)]]
 - [[objektai/asmenys/Benediktas]]
 - [[objektai/asmenys/Bernardas (abatas)]]
-- [[objektai/asmenys/Birutė]]
 - [[objektai/asmenys/Bodzanta]]
 - [[objektai/asmenys/Boleslovas Jurgis Traidenaitis]]
 - [[objektai/asmenys/Bonifacas IX]]
@@ -41,12 +39,11 @@ Objektų skaičius: 548.
 - [[objektai/asmenys/Dmitrijus Ivanovičius]]
 - [[objektai/asmenys/Dovydas (Gardino pilininkas)]]
 - [[objektai/asmenys/Edividas]]
-- [[objektai/asmenys/Edyga]]
 - [[objektai/asmenys/Elžbieta]]
 - [[objektai/asmenys/Engelhardas Rabe]]
-- [Feodoras (Ostrogo kunigaikštis)](../objektai/asmenys/Feodoras%20%28Ostrogo%20kunigaik%C5%A1tis%29)
-- [Galminas](../objektai/asmenys/Galminas)
-- [Gediminas (Lietuvos valdovas)](../objektai/asmenys/Gediminas)
+- [[objektai/asmenys/Feodoras (Ostrogo kunigaikštis)]]
+- [[objektai/asmenys/Galminas]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
 - [Getautas](../objektai/asmenys/Getautas)
 - [Guillaume de Machaut](../objektai/asmenys/Guillaume%20de%20Machaut)
 - [Henrikas IV](../objektai/asmenys/Henrikas%20IV)
@@ -63,13 +60,11 @@ Objektų skaičius: 548.
 - [Jonas Liuksemburgietis](../objektai/asmenys/Jonas%20Liuksemburgietis)
 - [Jonas Olesnickis](../objektai/asmenys/Jonas%20Olesnickis)
 - [Jonas Survila](../objektai/asmenys/Jonas%20Survila)
-- [Jonas Tarnovskis](../objektai/asmenys/Jonas%20Tarnovskis)
 - [Jonas XXII (popiežius)](../objektai/asmenys/Jonas%20XXII%20%28popie%C5%BEius%29)
 - [Julijona (Algirdo žmona)](../objektai/asmenys/Julijona%20%28Algirdo%20%C5%BEmona%29)
 - [Jurgis (Danieliaus sūnus)](../objektai/asmenys/Jurgis%20%28Danieliaus%20s%C5%ABnus%29)
 - [Jurgis Sviatoslavaitis](../objektai/asmenys/Jurgis%20Sviatoslavaitis)
 - [Jurgis Vytautaitis](../objektai/asmenys/Jurgis%20Vytautaitis)
-- [Karijotas](../objektai/asmenys/Karijotas)
 - [Karolis IV](../objektai/asmenys/Karolis%20IV)
 - [Kazimieras](../objektai/asmenys/Kazimieras)
 - [Kazimieras (Lokietkos sūnus)](../objektai/asmenys/Kazimieras%20%28Lokietkos%20s%C5%ABnus%29)
@@ -92,7 +87,6 @@ Objektų skaičius: 548.
 - [Marquardas von Salzbachas](../objektai/asmenys/Marquardas%20von%20Salzbachas)
 - [Michailas Aleksandrovičius](../objektai/asmenys/Michailas%20Aleksandrovi%C4%8Dius)
 - [Mikalojus Maskoževskis](../objektai/asmenys/Mikalojus%20Masko%C5%BEevskis)
-- [Mindaugas](../objektai/asmenys/Mindaugas)
 - [Mozūrijos kunigaikštis Jonušas](../objektai/asmenys/Moz%C5%ABrijos%20kunigaik%C5%A1tis%20Jonu%C5%A1as)
 - [Mozūrų kunigaikštis Henrikas](../objektai/asmenys/Moz%C5%ABr%C5%B3%20kunigaik%C5%A1tis%20Henrikas)
 - [Mykolas Küchmeisteris](../objektai/asmenys/Mykolas%20K%C3%BCchmeisteris)
@@ -131,25 +125,18 @@ Objektų skaičius: 548.
 - [Vytenis (Lietuvos karalius)](../objektai/asmenys/Vytenis%20%28Lietuvos%20karalius%29)
 - [Ziemovitas III](../objektai/asmenys/Ziemovitas%20III)
 - [Zofija Algimantaitė](../objektai/asmenys/Zofija%20Algimantait%C4%97)
-- [Švitrigaila](../objektai/asmenys/%C5%A0vitrigaila)
 
 ### Autoriai
-- [A. Alekna](../objektai/autoriai/A.%20Alekna)
-- [A. Kučinskas](../objektai/autoriai/A.%20Ku%C4%8Dinskas)
 - [A. Mierzyński](../objektai/autoriai/A.%20Mierzy%C5%84ski)
-- [A. Salys](../objektai/autoriai/A.%20Salys)
 - [A. Šapoka](../objektai/autoriai/A.%20%C5%A0apoka)
 - [Dusburgas](../objektai/autoriai/Dusburgas)
 - [G. Rhode](../objektai/autoriai/G.%20Rhode)
 - [Goyski, W](../objektai/autoriai/Goyski%2C%20W)
 - [Henriką von Rebdorf](../objektai/autoriai/Henrik%C4%85%20von%20Rebdorf)
-- [Hermanas Vartbergė](../objektai/autoriai/Hermanas%20Vartberg%C4%97)
 - [J. Adamus](../objektai/autoriai/J.%20Adamus)
 - [J. Dąbrowski](../objektai/autoriai/J.%20D%C4%85browski)
 - [J. Jakubowski](../objektai/autoriai/J.%20Jakubowski)
 - [K. Avižonis](../objektai/autoriai/K.%20Avi%C5%BEonis)
-- [K. Lohmeyer](../objektai/autoriai/K.%20Lohmeyer)
-- [K. Navickas](../objektai/autoriai/K.%20Navickas)
 - [Karolis Zikaras](../objektai/autoriai/Karolis%20Zikaras)
 - [Kliausis, lg](../objektai/autoriai/Kliausis%2C%20lg)
 - [L. Kolankowski](../objektai/autoriai/L.%20Kolankowski)
@@ -162,9 +149,7 @@ Objektų skaičius: 548.
 - [O. Navickaitė-Kuncienė](../objektai/autoriai/O.%20Navickait%C4%97-Kuncien%C4%97)
 - [Osten-Sacken, P. von](../objektai/autoriai/Osten-Sacken%2C%20P.%20von)
 - [P. von](../objektai/autoriai/P.%20von)
-- [P. Šležas](../objektai/autoriai/P.%20%C5%A0le%C5%BEas)
 - [Petras Dusburgietis](../objektai/autoriai/Petras%20Dusburgietis)
-- [S. Sužiedėlis](../objektai/autoriai/S.%20Su%C5%BEied%C4%97lis)
 - [St. Zajączkowski](../objektai/autoriai/St.%20Zaj%C4%85czkowski)
 - [V. Urbanavičius](../objektai/autoriai/V.%20Urbanavi%C4%8Dius)
 - [Vygandas Marburgietis](../objektai/autoriai/Vygandas%20Marburgietis)

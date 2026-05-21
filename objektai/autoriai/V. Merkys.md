@@ -13,7 +13,6 @@ periodas: 'okupacijų ir sovietmečio laikotarpis'
 periodo_grupes:
   - 'XX a.'
 amziai:
-  - 'XIX'
   - 'XX'
 date_start: '1965'
 date_end: '1968'
@@ -60,7 +59,6 @@ Merkys 125 , S. Jurginis, J., Merkys, V., Tautavičius, A.
 
 ## Ryšiai
 ### Laikotarpiai
-- [[laikotarpiai/XIX amžius]]
 - [[laikotarpiai/XX amžius]]
 
 ### Susiję objektai

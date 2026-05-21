@@ -24,7 +24,6 @@ vaidmenys:
 dalyviai: []
 susije_irasai: []
 datos:
-  - '1350 m.'
   - '1380 m.'
   - '1382 m.'
   - '1383 m.'
@@ -44,10 +43,6 @@ datos:
   - '1431 m.'
   - '1434 m.'
   - '1569 m.'
-  - '1930 m.'
-  - '1936 m.'
-  - '1978 m.'
-  - '2013 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
@@ -55,10 +50,8 @@ amziai:
   - 'XIV'
   - 'XV'
   - 'XVI'
-  - 'XX'
-  - 'XXI'
-date_start: '1350'
-date_end: '2013'
+date_start: '1380'
+date_end: '1569'
 patikimumas: 'aukštas'
 tags:
   - asmuo
@@ -1095,7 +1088,6 @@ Jogaila šiame šaltinyje rodomas kaip Lietuvos valdovas, tapęs Lenkijos karali
 - [[laikotarpiai/XIV amžius]]
 - [[laikotarpiai/XV amžius]]
 - [[laikotarpiai/XVI amžius]]
-- [[laikotarpiai/XX amžius]]
 
 ### Susiję objektai
 - [[objektai/paprociai/Lotyniško krikšto privalomumas ir mišrių moterystių draudimas]]

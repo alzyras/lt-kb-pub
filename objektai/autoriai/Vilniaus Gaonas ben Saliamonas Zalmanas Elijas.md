@@ -12,14 +12,15 @@ saltiniai:
 bukle: juodrastis
 laikotarpis: "1720–1797 m."
 datos:
-  - "1720–1797"
-periodas: "naujieji_laikai"
+  - '1720 m.'
+  - '1797 m.'
+periodas: 'LDK laikotarpis'
 periodo_grupes:
-  - "LDK"
+  - 'LDK'
 amziai:
-  - "XVIII"
-date_start: "1720"
-date_end: "1797"
+  - 'XVIII'
+date_start: '1720'
+date_end: '1797'
 vaidmenys:
   - "religinis mokslininkas"
   - "redaktorius"
@@ -79,13 +80,6 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
     - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-021
-  teiginys: 'Vilnių išgarsino Vilniaus Gaonas ben Saliamonas Zalmanas Elijas, gyvenęs 1720–1797 m. ir laikomas viena iškiliausių pasaulio žydų istorijos asmenybių.'
-  pagrindžia:
-    - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vilniaus Gaonas ben Saliamonas Zalmanas Elijas gyveno 1720–1797 m. ir laikomas viena iškiliausių pasaulio žydų istorijos asmenybių.'

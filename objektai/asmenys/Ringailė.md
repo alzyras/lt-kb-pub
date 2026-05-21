@@ -8,18 +8,13 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
   - '1392 m.'
-  - '1936 m.'
-  - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
+periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
-  - 'modernioji Lietuva'
 amziai:
   - 'XIV'
-  - 'XX'
-  - 'XXI'
 date_start: '1392'
-date_end: '2026'
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -59,8 +54,6 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/asmenys/Mozūrų kunigaikštis Henrikas]]

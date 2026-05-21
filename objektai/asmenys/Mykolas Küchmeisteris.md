@@ -12,18 +12,14 @@ datos:
   - '1407 m.'
   - '1413 m.'
   - '1414 m.'
-  - '1978 m.'
-  - '2026 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
   - 'XIV'
   - 'XV'
-  - 'XX'
-  - 'XXI'
 date_start: '1336'
-date_end: '2026'
+date_end: '1414'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -141,5 +137,3 @@ Joje įsikūrė ordino vietininkas — vaitas («Voigt») Mykolas Küch­ meiste
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
 - [[laikotarpiai/XV amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

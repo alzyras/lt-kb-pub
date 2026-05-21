@@ -8,17 +8,13 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
   - '1396 m.'
-  - '1936 m.'
-  - '2026 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
   - 'XIV'
-  - 'XX'
-  - 'XXI'
 date_start: '1396'
-date_end: '2026'
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -107,8 +103,6 @@ Vladimiro pinigas; 9 — Naugardo Sieversko kunig. Vladimirui ir Ratnos kunigaik
 
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/zodynas/kunigaikštija]]

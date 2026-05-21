@@ -11,19 +11,13 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1230 m.'
-  - '1936 m.'
-  - '1978 m.'
-  - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
+periodas: 'viduramžiai'
 periodo_grupes:
-  - 'modernioji Lietuva'
   - 'viduramžiai'
 amziai:
   - 'XIII'
-  - 'XX'
-  - 'XXI'
 date_start: '1230'
-date_end: '2026'
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -112,8 +106,6 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIII amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)]]

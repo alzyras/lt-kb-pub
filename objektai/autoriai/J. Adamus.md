@@ -15,7 +15,6 @@ datos:
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
-  - 'modernioji Lietuva'
 amziai:
   - 'XIV'
   - 'XX'

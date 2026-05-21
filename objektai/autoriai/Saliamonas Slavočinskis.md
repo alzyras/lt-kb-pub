@@ -10,14 +10,14 @@ saltiniai:
 bukle: juodrastis
 laikotarpis: "1646 m."
 datos:
-  - "1646 m."
-periodas: "ankstyvieji_naujieji_laikai"
+  - '1646 m.'
+periodas: 'LDK laikotarpis'
 periodo_grupes:
-  - "LDK"
+  - 'LDK'
 amziai:
-  - "XVII"
-date_start: "1646"
-date_end: "1646"
+  - 'XVII'
+date_start: '1646'
+date_end: ''
 vaidmenys:
   - "giesmyno rengėjas"
 dalyviai: []

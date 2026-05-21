@@ -23,13 +23,6 @@ Vilniaus klasicizmas: parodos katalogas.
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: '„Vilniaus klasicizmas“ yra parodos katalogas, siejamas su 1999–2000 m. parodomis Varšuvos nacionaliniame muziejuje ir Lietuvos dailės muziejuje.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-
 ## Reikšmingi paminėjimai
 
 ## Bibliografiniai įrodymai

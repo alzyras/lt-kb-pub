@@ -7,18 +7,12 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos:
-  - '1936 m.'
-  - '1978 m.'
-  - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
-  - 'XXI'
-date_start: '1936'
-date_end: '2026'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -109,10 +103,6 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
     - t-003
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Augustas II]]
 - [[objektai/vietos/Petrapilis]]

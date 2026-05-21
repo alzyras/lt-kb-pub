@@ -11,9 +11,9 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 laikotarpis: '1849–1880 m.; † 1884 m.; 1849—1880 m.'
 datos:
-  - '1849–1880 m.'
-  - '† 1884 m.'
-  - '1849—1880 m.'
+  - '1849 m.'
+  - '1880 m.'
+  - '1884 m.'
 vaidmenys:
   - 'redaktorius'
   - 'profesorius'
@@ -22,6 +22,10 @@ vaidmenys:
 patikimumas: 'aukštas'
 aliases:
   - 'Kuršaitis'
+amziai:
+  - 'XIX'
+periodo_grupes:
+  - 'naujieji laikai'
 tags:
   - autorius
 ---

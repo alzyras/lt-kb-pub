@@ -13,17 +13,14 @@ datos:
   - '1389 m.'
   - '1393 m.'
   - '1569 m.'
-  - '2013 m.'
-  - '2026 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
   - 'XIV'
   - 'XVI'
-  - 'XXI'
 date_start: '1384'
-date_end: '2026'
+date_end: '1569'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -119,4 +116,3 @@ tags:
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
 - [[laikotarpiai/XVI amžius]]
-- [[laikotarpiai/XXI amžius]]

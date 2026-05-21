@@ -9,10 +9,9 @@ saltiniai:
 datos:
   - '1949 m.'
   - '1991 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodas: 'okupacijų ir sovietmečio laikotarpis'
 periodo_grupes:
   - 'XX a.'
-  - 'šiuolaikinė Lietuva'
 amziai:
   - 'XX'
 date_start: '1949'

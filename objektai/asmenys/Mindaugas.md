@@ -13,29 +13,18 @@ datos:
   - '1244 m.'
   - '1245 m.'
   - '1246 m.'
-  - '1248 m.'
   - '1250 m.'
-  - '1251 m.'
   - '1253 m.'
   - '1260 m.'
   - '1263 m.'
   - '1268 m.'
-  - '1316 m.'
-  - '1341 m.'
-  - '1939 m.'
-  - '2013 m.'
-  - '2026 m.'
 periodas: 'viduramžiai'
 periodo_grupes:
-  - 'LDK'
   - 'viduramžiai'
 amziai:
   - 'XIII'
-  - 'XIV'
-  - 'XX'
-  - 'XXI'
 date_start: '1219'
-date_end: '2026'
+date_end: '1268'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -311,6 +300,3 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIII amžius]]
-- [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

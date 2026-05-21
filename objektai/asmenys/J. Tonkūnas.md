@@ -9,11 +9,10 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 laikotarpis: '1936 m.'
-datos:
-  - '1936 m.'
+datos: []
 periodas: ''
-periodo_grupes: []
-amziai: []
+periodo_grupes:
+amziai:
 date_start: ''
 date_end: ''
 vaidmenys:
@@ -62,8 +61,5 @@ J. Tonkūnas minimas kaip švietimo ministeris, rūpinęsis veikalo bendradarbi�
     - t-002
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
 ### Susiję objektai
 - [[objektai/asmenys/K. Masiliūnas]]

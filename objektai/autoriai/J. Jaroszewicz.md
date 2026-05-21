@@ -8,18 +8,14 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
   - '1846 m.'
-  - '1936 m.'
-  - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
+periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
 periodo_grupes:
-  - 'modernioji Lietuva'
   - 'naujieji laikai'
 amziai:
   - 'XIX'
   - 'XX'
-  - 'XXI'
 date_start: '1846'
-date_end: '2026'
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - autorius
@@ -90,4 +86,3 @@ Jaroszewicz, Obraz Litwy pod względem jej cywilizacyi, I—III (1844) ;.
 ### Laikotarpiai
 - [[laikotarpiai/XIX amžius]]
 - [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

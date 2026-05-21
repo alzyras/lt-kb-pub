@@ -14,17 +14,13 @@ susije_irasai: []
 datos:
   - '1525 m.'
   - '1586 m.'
-  - '2013 m.'
-  - '2026 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
   - 'XVI'
-  - 'XVII'
-  - 'XXI'
 date_start: '1525'
-date_end: '2026'
+date_end: '1586'
 patikimumas: aukštas
 tags: []
 ---
@@ -60,5 +56,3 @@ Isaakas ben Abrahamas iš Trakų pristatomas kaip iš LDK karaimų bendruomenės
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XVI amžius]]
-- [[laikotarpiai/XVII amžius]]
-- [[laikotarpiai/XXI amžius]]

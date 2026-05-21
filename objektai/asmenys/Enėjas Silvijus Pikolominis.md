@@ -6,11 +6,10 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos: []
+datos:
 periodas: ''
-periodo_grupes: []
-amziai:
-  - 'XVI'
+periodo_grupes:
+amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
@@ -48,7 +47,3 @@ Enėjas Silvijus Pikolominis (Enea Silvio Piccolomini) „Knygoje apie vyrus, ga
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVI amžius]]

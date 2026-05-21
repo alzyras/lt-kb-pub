@@ -40,12 +40,6 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Černigove susidarė atskira kunigaikštija.'
-  pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 - t-003
   teiginys: 'Švitrigaila paėmė į savo valdžią Černigovo sritį.'
   pagrindžia:

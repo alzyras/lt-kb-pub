@@ -12,19 +12,13 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1324 m.'
-  - '1936 m.'
-  - '2013 m.'
-  - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
+periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
-  - 'modernioji Lietuva'
 amziai:
   - 'XIV'
-  - 'XX'
-  - 'XXI'
 date_start: '1324'
-date_end: '2026'
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -119,5 +113,3 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

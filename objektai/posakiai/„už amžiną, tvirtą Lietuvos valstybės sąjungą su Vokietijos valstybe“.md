@@ -26,13 +26,6 @@ tags:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: '1917 m. pabaigoje Vokietija spaudė Lietuvos Tarybą deklaruoti Lietuvos valstybę ir jos prisijungimą prie Vokietijos.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1917 m. pabaigoje Vokietija spaudė Lietuvos Tarybą deklaruoti Lietuvos valstybę ir jos prisijungimą prie Vokietijos.'

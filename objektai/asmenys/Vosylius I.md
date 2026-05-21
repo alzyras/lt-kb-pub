@@ -12,18 +12,14 @@ datos:
   - '1408 m.'
   - '1422 m.'
   - '1425 m.'
-  - '1978 m.'
-  - '2026 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
   - 'XIV'
   - 'XV'
-  - 'XX'
-  - 'XXI'
 date_start: '1389'
-date_end: '2026'
+date_end: '1425'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -133,8 +129,6 @@ Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovait
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
 - [[laikotarpiai/XV amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/asmenys/Vosylius (Maskvos kunigaikštis)]]

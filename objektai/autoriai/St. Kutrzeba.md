@@ -9,17 +9,13 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
   - '1914 m.'
-  - '1936 m.'
-  - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
+periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
 periodo_grupes:
-  - 'modernioji Lietuva'
   - 'naujieji laikai'
 amziai:
   - 'XX'
-  - 'XXI'
 date_start: '1914'
-date_end: '2026'
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - autorius
@@ -74,4 +70,3 @@ Kutrzebos Historja ustroju Polski w zarysie, II — Litwa). Kutrzeba i Wl.
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

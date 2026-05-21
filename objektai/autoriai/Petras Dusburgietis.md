@@ -7,18 +7,15 @@ aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
-  - '1260 m.'
   - '1311 m.'
   - '2005 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
-  - 'šiuolaikinė Lietuva'
 amziai:
-  - 'XIII'
   - 'XIV'
   - 'XXI'
-date_start: '1260'
+date_start: '1311'
 date_end: '2005'
 patikimumas: 'vidutinis'
 tags:
@@ -117,7 +114,6 @@ Dusburgietis pažymi, kad „keturi tūkstančiai lietuvių“ niokojo Kuršo ž
 
 ## Ryšiai
 ### Laikotarpiai
-- [[laikotarpiai/XIII amžius]]
 - [[laikotarpiai/XIV amžius]]
 - [[laikotarpiai/XXI amžius]]
 

@@ -7,17 +7,14 @@ aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1891 m.'
   - '1905 m.'
-  - '1907 m.'
 periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
 periodo_grupes:
   - 'naujieji laikai'
 amziai:
-  - 'XIX'
   - 'XX'
-date_start: '1891'
-date_end: '1907'
+date_start: '1905'
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - autorius
@@ -59,7 +56,6 @@ Hruševskis. Hruševskyj : HrlU, IV, 1905, 181 p. KULTŪRINIS LYGIS PAGONIŠKOJE
 
 ## Ryšiai
 ### Laikotarpiai
-- [[laikotarpiai/XIX amžius]]
 - [[laikotarpiai/XX amžius]]
 
 ### Susiję objektai

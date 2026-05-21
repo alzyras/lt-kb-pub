@@ -10,18 +10,13 @@ datos:
   - '1328 m.'
   - '1330 m.'
   - '1331 m.'
-  - '1936 m.'
-  - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
+periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
-  - 'modernioji Lietuva'
 amziai:
   - 'XIV'
-  - 'XX'
-  - 'XXI'
 date_start: '1328'
-date_end: '2026'
+date_end: '1331'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -78,5 +73,3 @@ tags:
 
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

@@ -9,14 +9,13 @@ saltiniai:
 datos:
   - '1971 m.'
   - '1973 m.'
-  - '1974 m.'
 periodas: 'okupacijų ir sovietmečio laikotarpis'
 periodo_grupes:
   - 'XX a.'
 amziai:
   - 'XX'
 date_start: '1971'
-date_end: '1974'
+date_end: '1973'
 patikimumas: 'vidutinis'
 tags:
   - autorius

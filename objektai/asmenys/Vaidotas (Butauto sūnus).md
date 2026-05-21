@@ -10,22 +10,14 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
-  - '1350 m.'
   - '1381 m.'
-  - '1430 m.'
-  - '1930 m.'
-  - '1978 m.'
-  - '2026 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
   - 'XIV'
-  - 'XV'
-  - 'XX'
-  - 'XXI'
-date_start: '1350'
-date_end: '2026'
+date_start: '1381'
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -91,9 +83,6 @@ Vaidotas šiame įraše atskirtas kaip Butauto sūnus, 1381 m. pabėgęs iš Kę
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XV amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/ivykiai/Vaidoto pabėgimas į Prūsus]]

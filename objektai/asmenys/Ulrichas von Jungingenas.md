@@ -14,19 +14,13 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1410 m.'
-  - '1936 m.'
-  - '1978 m.'
-  - '2013 m.'
-  - '2026 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
   - 'XV'
-  - 'XX'
-  - 'XXI'
 date_start: '1410'
-date_end: '2026'
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -107,8 +101,6 @@ Ulrichas von Jungingenas šiame šaltinyje rodomas kaip ordino didysis magistras
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XV amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/daiktai/Du pliki kardai]]

@@ -19,24 +19,17 @@ vaidmenys:
 dalyviai: []
 susije_irasai: []
 datos:
-  - '1350 m.'
-  - '1430 m.'
   - '1930 m.'
   - '1935 m.'
-  - '1936 m.'
-  - '1978 m.'
-  - '2026 m.'
-periodas: 'LDK laikotarpis'
+periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
-  - 'LDK'
   - 'modernioji Lietuva'
 amziai:
   - 'XIV'
   - 'XV'
   - 'XX'
-  - 'XXI'
-date_start: '1350'
-date_end: '2026'
+date_start: '1930'
+date_end: '1935'
 patikimumas: 'vidutinis'
 tags:
   - autorius
@@ -123,4 +116,3 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
 - [[laikotarpiai/XIV amžius]]
 - [[laikotarpiai/XV amžius]]
 - [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

@@ -13,11 +13,13 @@ datos:
   - '1938 m.'
   - '1948 m.'
   - '1950 m.'
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+date_start: '1938'
+date_end: '1950'
 vaidmenys:
   - 'specialistas'
   - 'archeologas'

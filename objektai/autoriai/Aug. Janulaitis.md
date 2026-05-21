@@ -10,17 +10,14 @@ datos:
   - '1795 m.'
   - '1807 m.'
   - '1863 m.'
-  - '1920 m.'
   - '1923 m.'
   - '1927 m.'
   - '1928 m.'
   - '1930 m.'
-  - '1935 m.'
   - '1936 m.'
   - '1940 m.'
 periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
 periodo_grupes:
-  - 'modernioji Lietuva'
   - 'naujieji laikai'
 amziai:
   - 'XVIII'

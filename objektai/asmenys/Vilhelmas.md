@@ -8,18 +8,13 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
   - '1383 m.'
-  - '1936 m.'
-  - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
+periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
-  - 'modernioji Lietuva'
 amziai:
   - 'XIV'
-  - 'XX'
-  - 'XXI'
 date_start: '1383'
-date_end: '2026'
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -65,8 +60,6 @@ Vilhelmas iš Krokuvos pilies buvo išvytas; Jadvyga, norėjusi pas jį pabėgti
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/asmenys/Vilhelmas Habsburgas]]

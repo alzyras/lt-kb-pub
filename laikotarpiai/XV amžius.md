@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 454.
+Objektų skaičius: 436.
 
 ## Kaip naudoti
 
@@ -22,7 +22,6 @@ Objektų skaičius: 454.
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Benediktas Makra]]
 - [[objektai/asmenys/Benediktas Makras]]
-- [[objektai/asmenys/Birutė]]
 - [[objektai/asmenys/Bonifacas IX]]
 - [[objektai/asmenys/Chudandachas]]
 - [[objektai/asmenys/Devletas]]
@@ -30,7 +29,6 @@ Objektų skaičius: 454.
 - [[objektai/asmenys/Dimitras Kaributas]]
 - [[objektai/asmenys/Dlugošas]]
 - [[objektai/asmenys/Dželad-Eddinas]]
-- [[objektai/asmenys/Ediga]]
 - [[objektai/asmenys/Edyga]]
 - [[objektai/asmenys/Elžbieta Granauskaitė]]
 - [[objektai/asmenys/Focijus (Maskvos „visos Rusijos“ metropolitas)]]
@@ -44,14 +42,11 @@ Objektų skaičius: 454.
 - [[objektai/asmenys/Hinka iš Valdšteino]]
 - [[objektai/asmenys/Hlebas]]
 - [[objektai/asmenys/Ivanas Ganeckis]]
-- [Jadvyga (Jogailos duktė)](../objektai/asmenys/Jadvyga%20%28Jogailos%20dukt%C4%97%29)
-- [Jadvyga Jogailienė](../objektai/asmenys/Jadvyga%20Jogailien%C4%97)
-- [Jogaila (Lenkijos karalius)](../objektai/asmenys/Jogaila)
+- [[objektai/asmenys/Jadvyga (Jogailos duktė)]]
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
 - [Jomantas](../objektai/asmenys/Jomantas)
 - [Jonas (Breslavo vyskupas)](../objektai/asmenys/Jonas%20%28Breslavo%20vyskupas%29)
 - [Jonas (Lvovo arkivyskupas)](../objektai/asmenys/Jonas%20%28Lvovo%20arkivyskupas%29)
-- [Jonas Tarnovskis](../objektai/asmenys/Jonas%20Tarnovskis)
-- [Julijona (Algirdo žmona)](../objektai/asmenys/Julijona%20%28Algirdo%20%C5%BEmona%29)
 - [Jurgis Boliminas](../objektai/asmenys/Jurgis%20Boliminas)
 - [Jurgis Cemblakas](../objektai/asmenys/Jurgis%20Cemblakas)
 - [Jurgis Galminas](../objektai/asmenys/Jurgis%20Galminas)
@@ -59,12 +54,9 @@ Objektų skaičius: 454.
 - [Jurgis Geldgaudas](../objektai/asmenys/Jurgis%20Geldgaudas)
 - [Jurgis Sviatoslavaitis](../objektai/asmenys/Jurgis%20Sviatoslavaitis)
 - [Karigaila](../objektai/asmenys/Karigaila)
-- [Karijotas](../objektai/asmenys/Karijotas)
-- [Kazimieras](../objektai/asmenys/Kazimieras)
 - [Kiprijonas](../objektai/asmenys/Kiprijonas)
 - [Klausigaila](../objektai/asmenys/Klausigaila)
 - [Kęstutis (vakarų pasienio valdovas, XIV–XV a.)](../objektai/asmenys/K%C4%99stutis)
-- [Liubartas](../objektai/asmenys/Liubartas)
 - [Martynas V](../objektai/asmenys/Martynas%20V)
 - [Mikalojus (Gniezno arkivyskupas)](../objektai/asmenys/Mikalojus%20%28Gniezno%20arkivyskupas%29)
 - [Mikalojus Dziežgavičius](../objektai/asmenys/Mikalojus%20Dzie%C5%BEgavi%C4%8Dius)
@@ -87,7 +79,6 @@ Objektų skaičius: 454.
 - [Ulrichas von Jungingenas](../objektai/asmenys/Ulrichas%20von%20Jungingenas)
 - [Vaclovas](../objektai/asmenys/Vaclovas)
 - [Vaidotas](../objektai/asmenys/Vaidotas)
-- [Vaidotas (Butauto sūnus)](../objektai/asmenys/Vaidotas%20%28Butauto%20s%C5%ABnus%29)
 - [Vladislovas (Jogailos sūnus)](../objektai/asmenys/Vladislovas%20%28Jogailos%20s%C5%ABnus%29)
 - [Vladislovas Jogailaitis](../objektai/asmenys/Vladislovas%20Jogailaitis)
 - [Vosylius](../objektai/asmenys/Vosylius)
@@ -104,10 +95,6 @@ Objektų skaičius: 454.
 - [Žygimantas Kęstutaitis](../objektai/asmenys/%C5%BDygimantas%20K%C4%99stutaitis)
 
 ### Autoriai
-- [A. Alekna](../objektai/autoriai/A.%20Alekna)
-- [A. Kučinskas](../objektai/autoriai/A.%20Ku%C4%8Dinskas)
-- [A. Salys](../objektai/autoriai/A.%20Salys)
-- [A. Šapoka](../objektai/autoriai/A.%20%C5%A0apoka)
 - [Bełch, St. J](../objektai/autoriai/Be%C5%82ch%2C%20St.%20J)
 - [C. R. Jurgėla](../objektai/autoriai/C.%20R.%20Jurg%C4%97la)
 - [Dieboldo Schillingo](../objektai/autoriai/Dieboldo%20Schillingo)
@@ -124,13 +111,11 @@ Objektų skaičius: 454.
 - [Jan Fijałek](../objektai/autoriai/Jan%20Fija%C5%82ek)
 - [Jurgėla, C. R](../objektai/autoriai/Jurg%C4%97la%2C%20C.%20R)
 - [Jučas, M](../objektai/autoriai/Ju%C4%8Das%2C%20M)
-- [K. Lohmeyer](../objektai/autoriai/K.%20Lohmeyer)
 - [Karolis Zikaras](../objektai/autoriai/Karolis%20Zikaras)
 - [Kliausis, lg](../objektai/autoriai/Kliausis%2C%20lg)
 - [L. Kolankowski](../objektai/autoriai/L.%20Kolankowski)
 - [Laskowski, O](../objektai/autoriai/Laskowski%2C%20O)
 - [lg. Kliausis](../objektai/autoriai/lg.%20Kliausis)
-- [Loreta Uzdraitė](../objektai/autoriai/Loreta%20Uzdrait%C4%97)
 - [M. Oehler](../objektai/autoriai/M.%20Oehler)
 - [Majewski, W](../objektai/autoriai/Majewski%2C%20W)
 - [O. Halecki](../objektai/autoriai/O.%20Halecki)
@@ -139,18 +124,15 @@ Objektų skaičius: 454.
 - [Oehler, M](../objektai/autoriai/Oehler%2C%20M)
 - [Osten-Sacken, P. von](../objektai/autoriai/Osten-Sacken%2C%20P.%20von)
 - [P. von](../objektai/autoriai/P.%20von)
-- [P. Šležas](../objektai/autoriai/P.%20%C5%A0le%C5%BEas)
 - [Pranciškus Skorina](../objektai/autoriai/Pranci%C5%A1kus%20Skorina)
 - [prof. kunigas Dr. J. Fijalek](../objektai/autoriai/prof.%20kunigas%20Dr.%20J.%20Fijalek)
 - [Rhode, G](../objektai/autoriai/Rhode%2C%20G)
-- [S. Sužiedėlis](../objektai/autoriai/S.%20Su%C5%BEied%C4%97lis)
 - [Senn A. E](../objektai/autoriai/Senn%20A.%20E)
 - [St. M. Kuczyński](../objektai/autoriai/St.%20M.%20Kuczy%C5%84ski)
 - [T. Korzon](../objektai/autoriai/T.%20Korzon)
 - [Thunert, E](../objektai/autoriai/Thunert%2C%20E)
 - [Urbonas, O](../objektai/autoriai/Urbonas%2C%20O)
 - [W. Majewski](../objektai/autoriai/W.%20Majewski)
-- [Zenonas Ivinskis](../objektai/autoriai/Z.%20Ivinskis)
 
 ### Daiktai
 - [Arbaletas](../objektai/daiktai/Arbaletas)

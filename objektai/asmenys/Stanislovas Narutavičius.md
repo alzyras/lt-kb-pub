@@ -6,19 +6,12 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos:
-  - '1918 m.'
-  - '2013 m.'
-  - '2026 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'modernioji Lietuva'
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XX'
-  - 'XXI'
-date_start: '1918'
-date_end: '2026'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -58,8 +51,3 @@ Kairys, Stanislovas Narutavičius, Jonas Vileišis ir M.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

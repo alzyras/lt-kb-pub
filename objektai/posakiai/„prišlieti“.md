@@ -24,13 +24,6 @@ rties sąlygos: Jogaila ima žmona Lenkijos karalaitę Jadvygą, pažada įvesti
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Sutartyje Jogaila pažadėjo vesti Jadvygą, įvesti Lietuvoje katalikų tikėjimą ir „prišlieti“ Lietuvą prie Lenkijos.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Sutartyje Jogaila pažadėjo vesti Jadvygą, įvesti Lietuvoje katalikų tikėjimą ir „prišlieti“ Lietuvą prie Lenkijos.'

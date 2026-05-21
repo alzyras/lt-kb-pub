@@ -6,17 +6,13 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-datos:
-  - '1936 m.'
-  - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
+datos: []
+periodas: ''
+periodo_grupes: []
 amziai:
   - 'XX'
-  - 'XXI'
-date_start: '1936'
-date_end: '2026'
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -117,7 +113,6 @@ Mūsiškiai, pradėję kariauti su bolševikais, pirmą mūšį laimėjo prie K�
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]

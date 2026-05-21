@@ -6,17 +6,12 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos:
-  - '1508 m.'
-  - '1512 m.'
-  - '1516 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
-date_start: '1508'
-date_end: '1516'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -61,7 +56,3 @@ bojarinų Grigorijaus Fiodorovičiaus Davidovo, Ivano Andrejevičiaus Čeliadnin
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVI amžius]]

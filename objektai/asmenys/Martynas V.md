@@ -8,22 +8,16 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1417 m.'
-  - '1418 m.'
   - '1421 m.'
   - '1424 m.'
   - '1431 m.'
-  - '1978 m.'
-  - '2026 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
+periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
-  - 'XX a.'
 amziai:
   - 'XV'
-  - 'XX'
-  - 'XXI'
 date_start: '1417'
-date_end: '2026'
+date_end: '1431'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -165,5 +159,3 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XV amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

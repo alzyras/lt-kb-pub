@@ -11,21 +11,17 @@ datos:
   - '1411 m.'
   - '1910 m.'
   - '1923 m.'
-  - '1936 m.'
   - '1955 m.'
   - '1960 m.'
   - '1965 m.'
-  - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
+periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
-  - 'modernioji Lietuva'
 amziai:
   - 'XV'
   - 'XX'
-  - 'XXI'
 date_start: '1409'
-date_end: '2026'
+date_end: '1965'
 patikimumas: 'vidutinis'
 tags:
   - autorius
@@ -83,4 +79,3 @@ Korzon, Dzieje wojen i wojskowości w Polsce, I—III (1923);. Korzon, Dola i ni
 ### Laikotarpiai
 - [[laikotarpiai/XV amžius]]
 - [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

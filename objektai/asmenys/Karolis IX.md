@@ -9,19 +9,14 @@ saltiniai:
 datos:
   - '1574 m.'
   - '1650 m.'
-  - '1936 m.'
-  - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
+periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
-  - 'modernioji Lietuva'
 amziai:
   - 'XVI'
   - 'XVII'
-  - 'XX'
-  - 'XXI'
 date_start: '1574'
-date_end: '2026'
+date_end: '1650'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -145,8 +140,6 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
 ### Laikotarpiai
 - [[laikotarpiai/XVI amžius]]
 - [[laikotarpiai/XVII amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/asmenys/Henrikas Vrede]]

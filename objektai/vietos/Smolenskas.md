@@ -45,12 +45,6 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Smolenskas buvo vienas iš miestų, iš kurių susidarė atskiros kunigaikštijos.'
-  pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 - t-003
   teiginys: 'Po sąmokslo Švitrigaila paspruko į Polocką ir perėmė Smolensko sritį kartu su kitomis sritimis.'
   pagrindžia:

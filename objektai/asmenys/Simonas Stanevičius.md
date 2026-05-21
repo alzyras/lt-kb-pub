@@ -12,19 +12,14 @@ datos:
   - '1822 m.'
   - '1848 m.'
   - '1864 m.'
-  - '2013 m.'
-  - '2026 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
-  - 'naujieji laikai'
-  - 'šiuolaikinė Lietuva'
 amziai:
   - 'XVIII'
   - 'XIX'
-  - 'XXI'
 date_start: '1793'
-date_end: '2026'
+date_end: '1864'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -68,4 +63,3 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
 ### Laikotarpiai
 - [[laikotarpiai/XIX amžius]]
 - [[laikotarpiai/XVIII amžius]]
-- [[laikotarpiai/XXI amžius]]

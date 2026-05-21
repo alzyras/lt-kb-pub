@@ -14,7 +14,6 @@ periodas: 'okupacijų ir sovietmečio laikotarpis'
 periodo_grupes:
   - 'XX a.'
 amziai:
-  - 'XVIII'
   - 'XX'
 date_start: '1961'
 date_end: '1972'
@@ -60,5 +59,4 @@ tags:
 
 ## Ryšiai
 ### Laikotarpiai
-- [[laikotarpiai/XVIII amžius]]
 - [[laikotarpiai/XX amžius]]

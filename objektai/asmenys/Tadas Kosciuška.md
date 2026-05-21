@@ -8,18 +8,13 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
   - '1794 m.'
-  - '1936 m.'
-  - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
+periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
-  - 'modernioji Lietuva'
 amziai:
   - 'XVIII'
-  - 'XX'
-  - 'XXI'
 date_start: '1794'
-date_end: '2026'
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -93,5 +88,3 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklausomybės kovose generolas, Ju
 
 ### Laikotarpiai
 - [[laikotarpiai/XVIII amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

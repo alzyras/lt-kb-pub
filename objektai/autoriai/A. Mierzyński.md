@@ -8,26 +8,20 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
   - '1351 m.'
-  - '1889 m.'
   - '1892 m.'
   - '1893 m.'
   - '1895 m.'
   - '1896 m.'
   - '1899 m.'
-  - '1936 m.'
-  - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
+periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
-  - 'modernioji Lietuva'
-  - 'naujieji laikai'
 amziai:
   - 'XIV'
   - 'XIX'
   - 'XX'
-  - 'XXI'
 date_start: '1351'
-date_end: '2026'
+date_end: '1899'
 patikimumas: 'vidutinis'
 tags:
   - autorius
@@ -74,4 +68,3 @@ Mierzyński, Źródła do mitolog, lit., I, II (1892, 1896); H.
 - [[laikotarpiai/XIV amžius]]
 - [[laikotarpiai/XIX amžius]]
 - [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

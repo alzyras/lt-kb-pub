@@ -12,15 +12,14 @@ saltiniai:
 bukle: juodrastis
 laikotarpis: "1415 m.; 1439 m. kontekstas"
 datos:
-  - "1415 m."
-  - "1439 m."
-periodas: "viduramziai"
+  - '1439 m.'
+periodas: 'LDK laikotarpis'
 periodo_grupes:
-  - "LDK"
+  - 'LDK'
 amziai:
-  - "XV"
-date_start: "1415"
-date_end: "1439"
+  - 'XV'
+date_start: '1439'
+date_end: ''
 vaidmenys:
   - "stačiatikybės teologas"
 dalyviai: []

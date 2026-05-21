@@ -24,13 +24,6 @@ Lietuvos Didžiosios Kunigaikštystės Knyga: bendrų Europos tradicijų link: b
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: '„Lietuvos Didžiosios Kunigaikštystės Knyga“ buvo bendras baltarusių, lietuvių ir lenkų mokslininkų bei rašytojų darbas.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-
 ## Reikšmingi paminėjimai
 
 ## Bibliografiniai įrodymai

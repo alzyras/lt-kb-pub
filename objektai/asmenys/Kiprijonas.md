@@ -11,18 +11,14 @@ datos:
   - '1406 m.'
   - '1408 m.'
   - '1431 m.'
-  - '1978 m.'
-  - '2026 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
   - 'XIV'
   - 'XV'
-  - 'XX'
-  - 'XXI'
 date_start: '1390'
-date_end: '2026'
+date_end: '1431'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -90,5 +86,3 @@ Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
 - [[laikotarpiai/XV amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

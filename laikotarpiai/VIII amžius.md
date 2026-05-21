@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 2.
+Objektų skaičius: 1.
 
 ## Kaip naudoti
 
@@ -17,9 +17,6 @@ Objektų skaičius: 2.
 - Tolimesni ryšiai matomi pačiuose objektų puslapiuose, kur išlieka tikslesni šaltinių ir citatų kontekstai.
 
 ## Susiję objektai
-
-### Autoriai
-- [[objektai/autoriai/E. Radzvilovaitė]]
 
 ### Grupės
 - [[objektai/grupes/LTSR Mokslų Akademijos Istorijos Institutas]]

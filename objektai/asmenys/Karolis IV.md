@@ -11,18 +11,13 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1358 m.'
-  - '1936 m.'
-  - '2013 m.'
-  - '2026 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
   - 'XIV'
-  - 'XX'
-  - 'XXI'
 date_start: '1358'
-date_end: '2026'
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -93,8 +88,6 @@ Karolis IV minimas kaip Šv. Romos imperatorius, siūlęs Lietuvai krikštą ir 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/asmenys/Kazimieras Didysis]]

@@ -17,20 +17,14 @@ datos:
   - '1292 m.'
   - '1296 m.'
   - '1315 m.'
-  - '1936 m.'
-  - '2013 m.'
-  - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
+periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
-  - 'modernioji Lietuva'
 amziai:
   - 'XIII'
   - 'XIV'
-  - 'XX'
-  - 'XXI'
 date_start: '1291'
-date_end: '2026'
+date_end: '1315'
 patikimumas: 'aukštas'
 tags:
   - autorius
@@ -136,8 +130,6 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
 ### Laikotarpiai
 - [[laikotarpiai/XIII amžius]]
 - [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/ivykiai/Junigėdos puolimas ir Mederabos sunaikinimas (1291 m.)]]

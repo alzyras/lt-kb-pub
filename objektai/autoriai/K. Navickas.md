@@ -13,7 +13,6 @@ periodas: 'okupacijų ir sovietmečio laikotarpis'
 periodo_grupes:
   - 'XX a.'
 amziai:
-  - 'XIV'
   - 'XX'
 date_start: '1964'
 date_end: '1966'
@@ -65,7 +64,6 @@ Navickaitė-Kuncienė, O.
 
 ## Ryšiai
 ### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
 - [[laikotarpiai/XX amžius]]
 
 ### Susiję objektai

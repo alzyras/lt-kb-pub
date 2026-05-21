@@ -6,14 +6,11 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos:
-  - '1945 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
-date_start: '1945'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
 tags:
@@ -67,6 +64,3 @@ Juška: „Daug tą dieną žuvo mūsiškių, bet gal ne mažiau žuvo ir okupan
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/transportas]]
-
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]

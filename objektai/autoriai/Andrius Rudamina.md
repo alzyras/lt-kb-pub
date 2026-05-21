@@ -10,14 +10,15 @@ saltiniai:
 bukle: juodrastis
 laikotarpis: "1626–1634 m."
 datos:
-  - "1626–1634 m."
-periodas: "ankstyvieji_naujieji_laikai"
+  - '1626 m.'
+  - '1634 m.'
+periodas: 'LDK laikotarpis'
 periodo_grupes:
-  - "LDK"
+  - 'LDK'
 amziai:
-  - "XVII"
-date_start: "1626"
-date_end: "1634"
+  - 'XVII'
+date_start: '1626'
+date_end: '1634'
 vaidmenys:
   - "misionierius"
   - "asketikos veikalų autorius"

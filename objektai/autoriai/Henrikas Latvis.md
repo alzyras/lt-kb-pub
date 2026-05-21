@@ -9,18 +9,13 @@ saltiniai:
 datos:
   - '1207 m.'
   - '1236 m.'
-  - '1978 m.'
-  - '2026 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
+periodas: 'viduramžiai'
 periodo_grupes:
-  - 'XX a.'
   - 'viduramžiai'
 amziai:
   - 'XIII'
-  - 'XX'
-  - 'XXI'
 date_start: '1207'
-date_end: '2026'
+date_end: '1236'
 patikimumas: 'vidutinis'
 tags:
   - autorius
@@ -128,5 +123,3 @@ Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimyn�
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIII amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

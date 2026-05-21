@@ -9,18 +9,13 @@ saltiniai:
 datos:
   - '1661 m.'
   - '1667 m.'
-  - '1936 m.'
-  - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
+periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
-  - 'modernioji Lietuva'
 amziai:
   - 'XVII'
-  - 'XX'
-  - 'XXI'
 date_start: '1661'
-date_end: '2026'
+date_end: '1667'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -90,5 +85,3 @@ Be jų, dar turėjo savo paties pinigais surinktos kariuomenės Vitebsko vaivada
 
 ### Laikotarpiai
 - [[laikotarpiai/XVII amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

@@ -7,15 +7,14 @@ aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
-  - '1944 m.'
   - '1945 m.'
 periodas: 'okupacijų ir sovietmečio laikotarpis'
 periodo_grupes:
   - 'XX a.'
 amziai:
   - 'XX'
-date_start: '1944'
-date_end: '1945'
+date_start: '1945'
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - asmuo

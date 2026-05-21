@@ -9,18 +9,13 @@ saltiniai:
 datos:
   - '1632 m.'
   - '1634 m.'
-  - '1936 m.'
-  - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
+periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
-  - 'modernioji Lietuva'
 amziai:
   - 'XVII'
-  - 'XX'
-  - 'XXI'
 date_start: '1632'
-date_end: '2026'
+date_end: '1634'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -154,8 +149,6 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XVII amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/asmenys/Mykolas Borisovičius Šeina]]

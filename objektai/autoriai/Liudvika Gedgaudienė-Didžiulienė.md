@@ -6,14 +6,11 @@ variantai:
 aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos:
-  - '2013 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XXI'
-date_start: '2013'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
 date_end: ''
 laikotarpis: ''
 vaidmenys:
@@ -125,8 +122,5 @@ Liudvika Gedgaudienė-Didžiulienė šiame leidinyje minima kaip užrašų ir pr
     - t-005
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Salos]]

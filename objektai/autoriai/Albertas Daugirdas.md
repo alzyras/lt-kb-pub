@@ -11,16 +11,13 @@ datos:
   - '1953 m.'
   - '1971 m.'
   - '1991 m.'
-  - '2013 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodas: 'okupacijų ir sovietmečio laikotarpis'
 periodo_grupes:
   - 'XX a.'
-  - 'šiuolaikinė Lietuva'
 amziai:
   - 'XX'
-  - 'XXI'
 date_start: '1944'
-date_end: '2013'
+date_end: '1991'
 laikotarpis: ''
 vaidmenys:
   - 'autorius'
@@ -119,7 +116,6 @@ Albertas Daugirdas šiame leidinyje minimas kaip straipsnio apie Aukščiausiosi
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/autoriai/Loreta Uzdraitė]]

@@ -24,13 +24,6 @@ rugpjūčio 25 dieną Liaudies seimas buvo pervadintas Lietuvos SSR Aukščiausi
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Lietuvos SSR liaudies komisarų taryba buvo patvirtinta formaliai aukščiausiąja respublikos vykdomąja valdžia ir pakeitė Liaudies vyriausybę.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Lietuvos SSR liaudies komisarų taryba buvo patvirtinta formaliai aukščiausiąja respublikos vykdomąja valdžia ir pakeitė Liaudies vyriausybę.'

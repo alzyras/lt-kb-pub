@@ -11,16 +11,13 @@ datos:
   - '1989 m.'
   - '1998 m.'
   - '2000 m.'
-  - '2013 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodas: 'okupacijų ir sovietmečio laikotarpis'
 periodo_grupes:
   - 'XX a.'
-  - 'šiuolaikinė Lietuva'
 amziai:
   - 'XX'
-  - 'XXI'
 date_start: '1963'
-date_end: '2013'
+date_end: '2000'
 laikotarpis: ''
 vaidmenys:
   - 'autorius'
@@ -145,4 +142,3 @@ Arvydas Anušauskas šiame leidinyje minimas kaip straipsnio apie žymiausius Li
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

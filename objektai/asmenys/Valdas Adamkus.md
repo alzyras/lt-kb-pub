@@ -9,16 +9,13 @@ saltiniai:
 datos:
   - '1998 m.'
   - '2000 m.'
-  - '2013 m.'
-  - '2026 m.'
 periodas: 'atkurtos nepriklausomybės laikotarpis'
 periodo_grupes:
   - 'šiuolaikinė Lietuva'
 amziai:
   - 'XX'
-  - 'XXI'
 date_start: '1998'
-date_end: '2026'
+date_end: '2000'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -80,4 +77,3 @@ Brazauską vadovo poste pakeitė iš JAV grįžęs gyventi į Lietuvą Valdas Ad
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

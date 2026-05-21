@@ -10,22 +10,14 @@ datos:
   - '1200 m.'
   - '1325 m.'
   - '1326 m.'
-  - '1350 m.'
-  - '1430 m.'
-  - '1930 m.'
-  - '2026 m.'
-periodas: 'LDK laikotarpis'
+periodas: 'viduramžiai'
 periodo_grupes:
-  - 'LDK'
   - 'viduramžiai'
 amziai:
   - 'XII'
   - 'XIV'
-  - 'XV'
-  - 'XX'
-  - 'XXI'
 date_start: '1200'
-date_end: '2026'
+date_end: '1326'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -69,5 +61,3 @@ tags:
 ### Laikotarpiai
 - [[laikotarpiai/XII amžius]]
 - [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XV amžius]]
-- [[laikotarpiai/XX amžius]]

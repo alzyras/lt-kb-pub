@@ -30,13 +30,6 @@ Taip Kryžių kalnas (jį 1993 m. aplankė popiežius Jonas Paulius II) tapo sim
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: 'Pirmojo vizito į Lietuvą metu Joną Paulių II lydėjo prezidentas Algirdas Brazauskas ir arkivyskupas Audrys Juozas Bačkis.'
-  pagrindžia:
-    - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Popiežius Jonas Paulius II 1993 m. aplankė Kryžių kalną.'

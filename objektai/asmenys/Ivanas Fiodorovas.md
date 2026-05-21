@@ -19,16 +19,13 @@ datos:
   - '1562 m.'
   - '1569 m.'
   - '1575 m.'
-  - '2013 m.'
-  - '2026 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
   - 'XVI'
-  - 'XXI'
 date_start: '1562'
-date_end: '2026'
+date_end: '1575'
 patikimumas: aukštas
 tags: []
 ---
@@ -69,4 +66,3 @@ Ivanas Fiodorovas pristatomas kaip pirmasis Maskvos spaustuvininkas, kurį Chodk
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XVI amžius]]
-- [[laikotarpiai/XXI amžius]]

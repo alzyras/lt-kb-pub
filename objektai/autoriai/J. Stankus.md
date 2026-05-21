@@ -7,17 +7,14 @@ aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1953 m.'
   - '1970 m.'
-  - '1974 m.'
 periodas: 'okupacijų ir sovietmečio laikotarpis'
 periodo_grupes:
   - 'XX a.'
 amziai:
-  - 'XVI'
   - 'XX'
-date_start: '1953'
-date_end: '1974'
+date_start: '1970'
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - autorius
@@ -62,5 +59,4 @@ Stankus, J. — Stankus, J.
 - [[temos/įrankis]]
 
 ### Laikotarpiai
-- [[laikotarpiai/XVI amžius]]
 - [[laikotarpiai/XX amžius]]

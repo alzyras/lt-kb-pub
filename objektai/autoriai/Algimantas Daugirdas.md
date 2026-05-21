@@ -13,10 +13,9 @@ datos:
   - '1940 m.'
   - '1949 m.'
   - '1972 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
+periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
-  - 'XX a.'
 amziai:
   - 'XVIII'
   - 'XIX'

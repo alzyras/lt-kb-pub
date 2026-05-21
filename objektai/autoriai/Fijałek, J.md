@@ -12,7 +12,6 @@ datos:
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
-  - 'naujieji laikai'
 amziai:
   - 'XV'
   - 'XX'

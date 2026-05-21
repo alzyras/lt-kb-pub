@@ -13,29 +13,21 @@ vaidmenys:
   - 'autorius'
 datos:
   - '1223 m.'
-  - '1350 m.'
-  - '1430 m.'
   - '1502 m.'
   - '1930 m.'
   - '1936 m.'
   - '1937 m.'
   - '1941 m.'
   - '1943 m.'
-  - '2026 m.'
-periodas: 'LDK laikotarpis'
+periodas: 'viduramžiai'
 periodo_grupes:
-  - 'LDK'
-  - 'modernioji Lietuva'
   - 'viduramžiai'
 amziai:
   - 'XIII'
-  - 'XIV'
-  - 'XV'
   - 'XVI'
   - 'XX'
-  - 'XXI'
 date_start: '1223'
-date_end: '2026'
+date_end: '1943'
 patikimumas: 'aukštas'
 tags:
   - autorius
@@ -162,9 +154,8 @@ S. Sužiedėlis 1930 m. kolektyvinėje monografijoje „Vytautas Didysis“ įra
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIII amžius]]
-- [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XV amžius]]
 - [[laikotarpiai/XVI amžius]]
+- [[laikotarpiai/XX amžius]]
 
 ### Susiję objektai
 - [[objektai/autoriai/Sužiedėlis, S]]

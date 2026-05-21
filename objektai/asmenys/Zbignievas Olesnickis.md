@@ -6,14 +6,12 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-datos:
-  - '1429 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
+datos: []
+periodas: ''
+periodo_grupes: []
 amziai:
   - 'XV'
-date_start: '1429'
+date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
 tags:

@@ -12,29 +12,13 @@ datos:
   - '1605 m.'
   - '1609 m.'
   - '1621 m.'
-  - '1632 m.'
-  - '1634 m.'
-  - '1649 m.'
-  - '1654 m.'
-  - '1656 m.'
-  - '1673 m.'
-  - '1700 m.'
-  - '1771 m.'
-  - '1792 m.'
-  - '1794 m.'
-  - '1831 m.'
-  - '1863 m.'
-  - '1919 m.'
   - '1971 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
-  - 'XX a.'
 amziai:
   - 'XVI'
   - 'XVII'
-  - 'XVIII'
-  - 'XIX'
   - 'XX'
 date_start: '1581'
 date_end: '1971'
@@ -77,7 +61,6 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 
 ## Ryšiai
 ### Laikotarpiai
-- [[laikotarpiai/XIX amžius]]
 - [[laikotarpiai/XVI amžius]]
 - [[laikotarpiai/XVII amžius]]
-- [[laikotarpiai/XVIII amžius]]
+- [[laikotarpiai/XX amžius]]

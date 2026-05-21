@@ -9,18 +9,13 @@ saltiniai:
 datos:
   - '1348 m.'
   - '1380 m.'
-  - '1936 m.'
-  - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
+periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
-  - 'modernioji Lietuva'
 amziai:
   - 'XIV'
-  - 'XX'
-  - 'XXI'
 date_start: '1348'
-date_end: '2026'
+date_end: '1380'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -62,5 +57,3 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

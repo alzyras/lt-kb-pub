@@ -24,20 +24,17 @@ datos:
   - '1831 m.'
   - '1863 m.'
   - '1919 m.'
-  - '2013 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
-  - 'šiuolaikinė Lietuva'
 amziai:
   - 'XVI'
   - 'XVII'
   - 'XVIII'
   - 'XIX'
   - 'XX'
-  - 'XXI'
 date_start: '1581'
-date_end: '2013'
+date_end: '1919'
 laikotarpis: ''
 vaidmenys:
   - 'autorius'

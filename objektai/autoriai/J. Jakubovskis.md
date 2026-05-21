@@ -9,9 +9,8 @@ saltiniai:
 datos:
   - '1900 m.'
   - '1921 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
+periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
 periodo_grupes:
-  - 'modernioji Lietuva'
   - 'naujieji laikai'
 amziai:
   - 'XIX'

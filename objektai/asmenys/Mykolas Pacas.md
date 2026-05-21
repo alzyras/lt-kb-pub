@@ -6,17 +6,12 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-datos:
-  - '1936 m.'
-  - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
-  - 'XXI'
-date_start: '1936'
-date_end: '2026'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -55,8 +50,3 @@ Vienas iš jų, Mykolas, buvo hetmonas ir Vilniaus vaivada, kitas, Kristupas, �
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

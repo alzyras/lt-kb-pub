@@ -14,18 +14,15 @@ datos:
   - '1988 m.'
   - '1999 m.'
   - '2002 m.'
-  - '2013 m.'
-  - '2026 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
 periodo_grupes:
   - 'naujieji laikai'
-  - 'šiuolaikinė Lietuva'
 amziai:
   - 'XIX'
   - 'XX'
   - 'XXI'
 date_start: '1865'
-date_end: '2026'
+date_end: '2002'
 patikimumas: 'vidutinis'
 tags:
   - asmuo

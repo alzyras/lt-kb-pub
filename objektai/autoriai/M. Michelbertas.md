@@ -17,7 +17,6 @@ periodas: 'okupacijų ir sovietmečio laikotarpis'
 periodo_grupes:
   - 'XX a.'
 amziai:
-  - 'V'
   - 'XX'
 date_start: '1961'
 date_end: '1967'
@@ -62,7 +61,6 @@ Michelbertas (AkMD, t.
 
 ## Ryšiai
 ### Laikotarpiai
-- [[laikotarpiai/V amžius]]
 - [[laikotarpiai/XX amžius]]
 
 ### Susiję objektai

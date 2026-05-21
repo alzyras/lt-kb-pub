@@ -9,19 +9,13 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1698 m.'
-  - '1936 m.'
-  - '1978 m.'
-  - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
+periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
-  - 'modernioji Lietuva'
 amziai:
   - 'XVII'
-  - 'XX'
-  - 'XXI'
 date_start: '1698'
-date_end: '2026'
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -139,8 +133,6 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XVII amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/daiktai/Lietuvos pinigai]]

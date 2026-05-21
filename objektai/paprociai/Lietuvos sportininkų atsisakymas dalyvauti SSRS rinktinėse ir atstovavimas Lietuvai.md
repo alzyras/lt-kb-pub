@@ -65,12 +65,6 @@ Atkūrus Lietuvą sportininkų vieša atsiskyrimo nuo SSRS sporto struktūrų pr
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-006
-  teiginys: '1991 m. rugpjūtį Tarptautiniam olimpiniam komitetui atkūrus LTOK teises, Lietuvos sportininkai tarptautinėse varžybose atstovavo savo šaliai.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001

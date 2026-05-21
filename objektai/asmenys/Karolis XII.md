@@ -10,18 +10,13 @@ datos:
   - '1706 m.'
   - '1708 m.'
   - '1709 m.'
-  - '1936 m.'
-  - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
+periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
-  - 'modernioji Lietuva'
 amziai:
   - 'XVIII'
-  - 'XX'
-  - 'XXI'
 date_start: '1706'
-date_end: '2026'
+date_end: '1709'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -95,8 +90,6 @@ Kai Augustas II su Petru I padarė sutartį atimti iš Švedų Baltijos pajūrį
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XVIII amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/vietos/Saksonija]]

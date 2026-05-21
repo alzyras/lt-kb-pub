@@ -8,18 +8,13 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
   - '1249 m.'
-  - '1936 m.'
-  - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
+periodas: 'viduramžiai'
 periodo_grupes:
-  - 'modernioji Lietuva'
   - 'viduramžiai'
 amziai:
   - 'XIII'
-  - 'XX'
-  - 'XXI'
 date_start: '1249'
-date_end: '2026'
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -61,8 +56,6 @@ Kunigaikštis Vykintas netrukus ties Tverais buvo nugalėtas; jis pats žuvo mū
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIII amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/asmenys/Gedvydas]]

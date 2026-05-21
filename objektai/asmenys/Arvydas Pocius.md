@@ -39,13 +39,6 @@ Ant Aukščiausiosios Tarybos stogo pritvirtinti metaliniai strypai turėjo apsu
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: 'AT gynėjas Arvydas Pocius 1991 m. rugpjūčio pučo metu buvo ginkluotas pistoletu-kulkosvaidžiu PPS.'
-  pagrindžia:
-    - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'AT gynėjas Arvydas Pocius vėliau tapo generolu leitenantu ir Lietuvos kariuomenės vadu.'

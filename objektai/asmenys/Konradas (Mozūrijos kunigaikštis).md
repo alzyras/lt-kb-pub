@@ -12,19 +12,13 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1230 m.'
-  - '1936 m.'
-  - '2013 m.'
-  - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
+periodas: 'viduramžiai'
 periodo_grupes:
-  - 'modernioji Lietuva'
   - 'viduramžiai'
 amziai:
   - 'XIII'
-  - 'XX'
-  - 'XXI'
 date_start: '1230'
-date_end: '2026'
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -89,8 +83,6 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIII amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/asmenys/Kristijonas]]

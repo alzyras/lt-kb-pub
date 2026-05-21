@@ -23,12 +23,6 @@ The Battle of Grünwald: in commemoration of the 600th anniversary of the Battle
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Mindaugas Šapoka kartu su Josephu Everattu redagavo M. Jučo leidinį „The Battle of Grünwald“.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 - t-003
   teiginys: 'Mindaugas Šapoka redagavo 2009 m. Vilniuje išleistą leidinį „Millennium of Lithuania: Millennium Lithuaniae“.'
   pagrindžia:

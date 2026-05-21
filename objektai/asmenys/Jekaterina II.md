@@ -10,18 +10,13 @@ datos:
   - '1764 m.'
   - '1767 m.'
   - '1768 m.'
-  - '1792 m.'
-  - '1793 m.'
-  - '2013 m.'
-  - '2026 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
   - 'XVIII'
-  - 'XXI'
 date_start: '1764'
-date_end: '2026'
+date_end: '1768'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -116,4 +111,3 @@ Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų iš
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XVIII amžius]]
-- [[laikotarpiai/XXI amžius]]

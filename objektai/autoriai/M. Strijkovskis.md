@@ -8,15 +8,11 @@ variantai:
 aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos:
-  - '2013 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XVI'
-  - 'XXI'
-date_start: '2013'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
 date_end: ''
 laikotarpis: ''
 vaidmenys:
@@ -161,9 +157,5 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
     - t-005
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVI amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)]]

@@ -9,12 +9,18 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 laikotarpis: '1714—1780 m.; 1818 m.'
 datos:
-  - '1714—1780 m.'
+  - '1714 m.'
+  - '1780 m.'
   - '1818 m.'
 vaidmenys:
   - 'poetas'
   - 'autorius'
 patikimumas: 'vidutinis'
+amziai:
+  - 'XVIII'
+  - 'XIX'
+periodo_grupes:
+  - 'LDK'
 tags:
   - autorius
 ---

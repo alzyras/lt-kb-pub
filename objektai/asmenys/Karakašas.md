@@ -6,11 +6,10 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
+datos:
 periodas: ''
-periodo_grupes: []
-amziai:
-  - 'XVII'
+periodo_grupes:
+amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
@@ -61,7 +60,3 @@ Rugsėjo 15 d. turkų kariuomenė, vadovaujama Budos pašos Karakašo dar kartą
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVII amžius]]

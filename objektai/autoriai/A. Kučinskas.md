@@ -11,22 +11,15 @@ laikotarpis: '1930 m. (veikalo sudarymo kontekstas)'
 vaidmenys:
   - 'autorius'
 datos:
-  - '1350 m.'
-  - '1430 m.'
   - '1930 m.'
   - '1934 m.'
-  - '2026 m.'
-periodas: 'LDK laikotarpis'
+periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
-  - 'LDK'
   - 'modernioji Lietuva'
 amziai:
-  - 'XIV'
-  - 'XV'
   - 'XX'
-  - 'XXI'
-date_start: '1350'
-date_end: '2026'
+date_start: '1930'
+date_end: '1934'
 patikimumas: 'aukštas'
 tags:
   - autorius
@@ -117,7 +110,4 @@ A. Kučinskas 1930 m. kolektyvinėje monografijoje „Vytautas Didysis“ įraš
 
 ## Ryšiai
 ### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XV amžius]]
 - [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

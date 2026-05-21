@@ -13,15 +13,13 @@ datos:
   - '1959 m.'
   - '1960 m.'
   - '1961 m.'
-  - '1966 m.'
-  - '1968 m.'
 periodas: 'okupacijų ir sovietmečio laikotarpis'
 periodo_grupes:
   - 'XX a.'
 amziai:
   - 'XX'
 date_start: '1955'
-date_end: '1968'
+date_end: '1961'
 patikimumas: 'vidutinis'
 tags:
   - autorius

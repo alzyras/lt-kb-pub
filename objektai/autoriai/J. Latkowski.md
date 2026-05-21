@@ -6,20 +6,12 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-datos:
-  - '1892 m.'
-  - '1936 m.'
-  - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
-  - 'XX'
-  - 'XXI'
-date_start: '1892'
-date_end: '2026'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - autorius
@@ -59,10 +51,5 @@ Latkowski, Mendog król lit.
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIX amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/autoriai/Lenkų istorikai ir Lietuvos istoriografijos tyrėjai]]

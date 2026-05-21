@@ -13,7 +13,6 @@ periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
 periodo_grupes:
   - 'naujieji laikai'
 amziai:
-  - 'XVI'
   - 'XIX'
   - 'XX'
 date_start: '1893'
@@ -61,5 +60,4 @@ tags:
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIX amžius]]
-- [[laikotarpiai/XVI amžius]]
 - [[laikotarpiai/XX amžius]]

@@ -6,16 +6,12 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos:
-  - '2013 m.'
-  - '2026 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XXI'
-date_start: '2013'
-date_end: '2026'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -64,8 +60,5 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/posakiai/„Lietuvą padaryti internacionalinę“]]

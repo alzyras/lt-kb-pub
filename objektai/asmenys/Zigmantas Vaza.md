@@ -9,18 +9,13 @@ saltiniai:
 datos:
   - '1598 m.'
   - '1600 m.'
-  - '1936 m.'
-  - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
+periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
-  - 'modernioji Lietuva'
 amziai:
   - 'XVI'
-  - 'XX'
-  - 'XXI'
 date_start: '1598'
-date_end: '2026'
+date_end: '1600'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -119,5 +114,3 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XVI amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

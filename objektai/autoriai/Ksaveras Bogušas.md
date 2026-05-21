@@ -17,16 +17,13 @@ dalyviai: []
 susije_irasai: []
 datos:
   - '1808 m.'
-  - '2013 m.'
-  - '2026 m.'
 periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
 periodo_grupes:
   - 'naujieji laikai'
 amziai:
   - 'XIX'
-  - 'XXI'
 date_start: '1808'
-date_end: '2026'
+date_end: ''
 patikimumas: "aukštas"
 tags:
   - autorius
@@ -78,4 +75,3 @@ Ksaveras Bogušas pristatomas kaip iš Lietuvos kilęs kunigas ir teologas, kuri
 
 ### Laikotarpiai
 - [[laikotarpiai/XIX amžius]]
-- [[laikotarpiai/XXI amžius]]

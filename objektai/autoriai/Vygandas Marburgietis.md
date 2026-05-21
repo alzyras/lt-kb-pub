@@ -12,16 +12,13 @@ saltiniai:
 datos:
   - '1345 m.'
   - '1348 m.'
-  - '2013 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
-  - 'šiuolaikinė Lietuva'
 amziai:
   - 'XIV'
-  - 'XXI'
 date_start: '1345'
-date_end: '2013'
+date_end: '1348'
 laikotarpis: ''
 vaidmenys:
   - 'kronikininkas'
@@ -202,7 +199,6 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/vietos/Semba]]

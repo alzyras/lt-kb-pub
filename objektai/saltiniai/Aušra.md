@@ -41,11 +41,6 @@ tags:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: '1883 m. pirmajame „Aušros“ numeryje J. Basanavičius pradėjo savo žinomą istorinę prakalbą.'
-  pagrindžia:
-    - c-002
-
 ## Bibliografiniai įrodymai
 - c-001
   santrauka: '1883 m. pirmajame „Aušros“ numeryje J. Basanavičius pradėjo savo žinomą istorinę prakalbą.'

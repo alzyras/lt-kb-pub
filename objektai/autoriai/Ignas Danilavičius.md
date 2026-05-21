@@ -9,10 +9,9 @@ saltiniai:
 datos:
   - '1569 m.'
   - '1932 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
+periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
-  - 'modernioji Lietuva'
 amziai:
   - 'XVI'
   - 'XX'

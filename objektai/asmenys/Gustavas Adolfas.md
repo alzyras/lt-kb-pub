@@ -10,18 +10,13 @@ datos:
   - '1618 m.'
   - '1629 m.'
   - '1648 m.'
-  - '1936 m.'
-  - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
+periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
-  - 'modernioji Lietuva'
 amziai:
   - 'XVII'
-  - 'XX'
-  - 'XXI'
 date_start: '1618'
-date_end: '2026'
+date_end: '1648'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -62,5 +57,3 @@ Gustavo Adolfo duktė Kristina, kuriai buvo pripažintas sostas, susipykusi su s
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XVII amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

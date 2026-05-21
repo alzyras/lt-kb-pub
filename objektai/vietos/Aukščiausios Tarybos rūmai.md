@@ -23,13 +23,6 @@ Prie Aukščiausios Tarybos rūmų Vilniuje 1990 m. kovo 11 d. Mergaitė su plak
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: '1990 m. kovo 11 d. prie Aukščiausios Tarybos rūmų Vilniuje mergaitė laikė plakatą, reikalaujantį LR vietoj LSSR.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1990 m. kovo 11 d. prie Aukščiausios Tarybos rūmų Vilniuje mergaitė laikė plakatą, reikalaujantį LR vietoj LSSR.'

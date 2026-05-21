@@ -38,13 +38,6 @@ Gorbačiovą, manydami, kad tokiu būdu vėl atkurs stabilumą Sovietų Sąjungo
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: 'Artūras Sakalauskas buvo paskutinis 1991 m. kovoje už laisvę žuvęs Lietuvos savanoris.'
-  pagrindžia:
-    - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Artūras Sakalauskas buvo paskutinis 1991 m. kovoje už laisvę žuvęs Lietuvos savanoris.'

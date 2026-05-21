@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 209.
+Objektų skaičius: 203.
 
 ## Kaip naudoti
 
@@ -45,19 +45,13 @@ Objektų skaičius: 209.
 - [[objektai/asmenys/Zemovitas (Mozūrijos kunigaikštis)]]
 
 ### Autoriai
-- [[objektai/autoriai/A. E. Presniakov]]
-- [Dusburgas](../objektai/autoriai/Dusburgas)
+- [[objektai/autoriai/Dusburgas]]
 - [Henrikas Latvis](../objektai/autoriai/Henrikas%20Latvis)
 - [Hermanas Vartbergė](../objektai/autoriai/Hermanas%20Vartberg%C4%97)
 - [Karolis Zikaras](../objektai/autoriai/Karolis%20Zikaras)
-- [L. Nakaitė](../objektai/autoriai/L.%20Nakait%C4%97)
 - [Loreta Uzdraitė](../objektai/autoriai/Loreta%20Uzdrait%C4%97)
-- [Petras Dusburgietis](../objektai/autoriai/Petras%20Dusburgietis)
-- [R. Batūra](../objektai/autoriai/R.%20Bat%C5%ABra)
 - [R. Jasas](../objektai/autoriai/R.%20Jasas)
 - [S. Sužiedėlis](../objektai/autoriai/S.%20Su%C5%BEied%C4%97lis)
-- [Sužiedėlis, S](../objektai/autoriai/Su%C5%BEied%C4%97lis%2C%20S)
-- [Zenonas Ivinskis](../objektai/autoriai/Z.%20Ivinskis)
 
 ### Daiktai
 - [Arisaka 30 modelio šautuvas](../objektai/daiktai/Arisaka%2030%20modelio%20%C5%A1autuvas)

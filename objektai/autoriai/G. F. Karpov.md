@@ -10,10 +10,9 @@ datos:
   - '1487 m.'
   - '1570 m.'
   - '1892 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
+periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
-  - 'naujieji laikai'
 amziai:
   - 'XV'
   - 'XVI'

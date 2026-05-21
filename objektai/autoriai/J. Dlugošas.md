@@ -11,19 +11,13 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1000 m.'
-  - '1936 m.'
-  - '2013 m.'
-  - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
+periodas: 'viduramžiai'
 periodo_grupes:
-  - 'modernioji Lietuva'
   - 'viduramžiai'
 amziai:
   - 'X'
-  - 'XX'
-  - 'XXI'
 date_start: '1000'
-date_end: '2026'
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - autorius
@@ -204,8 +198,6 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/X amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]

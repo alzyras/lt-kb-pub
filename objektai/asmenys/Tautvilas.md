@@ -9,20 +9,14 @@ saltiniai:
 datos:
   - '1249 m.'
   - '1307 m.'
-  - '1382 m.'
-  - '1936 m.'
-  - '2026 m.'
-periodas: 'LDK laikotarpis'
+periodas: 'viduramžiai'
 periodo_grupes:
-  - 'LDK'
   - 'viduramžiai'
 amziai:
   - 'XIII'
   - 'XIV'
-  - 'XX'
-  - 'XXI'
 date_start: '1249'
-date_end: '2026'
+date_end: '1307'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -86,8 +80,6 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
 ### Laikotarpiai
 - [[laikotarpiai/XIII amžius]]
 - [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/asmenys/Gedvydas]]

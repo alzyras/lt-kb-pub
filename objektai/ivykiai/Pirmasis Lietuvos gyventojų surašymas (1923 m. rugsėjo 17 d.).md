@@ -58,12 +58,6 @@ Nenurodyta
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-009
-  teiginys: '1923 m. rugsėjo 17 d. pirmojo Lietuvos gyventojų surašymo duomenimis, Lietuvoje be Vilniaus ir Klaipėdos kraštų buvo 2 028 971 gyventojas.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001

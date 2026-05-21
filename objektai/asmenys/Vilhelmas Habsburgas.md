@@ -9,17 +9,13 @@ saltiniai:
 datos:
   - '1378 m.'
   - '1383 m.'
-  - '1978 m.'
-  - '2026 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
   - 'XIV'
-  - 'XX'
-  - 'XXI'
 date_start: '1378'
-date_end: '2026'
+date_end: '1383'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -104,8 +100,6 @@ Dar tėvui gyvam esant, penkerių metų Jadvyga 1378 m. buvo sužieduota su Aust
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/asmenys/Jadvyga Jogailienė]]

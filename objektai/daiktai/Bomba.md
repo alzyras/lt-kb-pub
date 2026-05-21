@@ -68,12 +68,6 @@ Nenurodyta
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-009
-  teiginys: 'Lapkričio 15 d. Kaune ant E. Galvanausko miegamojo palangės sprogo padėta bomba.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001

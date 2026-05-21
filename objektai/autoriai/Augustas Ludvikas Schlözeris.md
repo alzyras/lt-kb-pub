@@ -11,18 +11,14 @@ saltiniai:
 datos:
   - '1569 m.'
   - '1785 m.'
-  - '1978 m.'
-  - '2026 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
   - 'XVI'
   - 'XVIII'
-  - 'XX'
-  - 'XXI'
 date_start: '1569'
-date_end: '2026'
+date_end: '1785'
 laikotarpis: '1785 m.'
 vaidmenys:
   - 'vokiečių istorikas'
@@ -132,5 +128,3 @@ Augustas Ludvikas Schlözeris minimas kaip vokiečių istorikas, 1785 m. paskelb
 ### Laikotarpiai
 - [[laikotarpiai/XVI amžius]]
 - [[laikotarpiai/XVIII amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

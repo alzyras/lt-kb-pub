@@ -8,18 +8,13 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
   - '1569 m.'
-  - '1936 m.'
-  - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
+periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
-  - 'modernioji Lietuva'
 amziai:
   - 'XVI'
-  - 'XX'
-  - 'XXI'
 date_start: '1569'
-date_end: '2026'
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - autorius
@@ -108,5 +103,3 @@ Vėliau čia mokėsi visa eilė didžių veikėjų, kaip antai: Maironis, Jakšt
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XVI amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

@@ -7,21 +7,14 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - '1992 m.'
-  - '1993 m.'
-  - '1998 m.'
-  - '2000 m.'
   - '2003 m.'
-  - '2013 m.'
-  - '2026 m.'
 periodas: 'atkurtos nepriklausomybės laikotarpis'
 periodo_grupes:
   - 'šiuolaikinė Lietuva'
 amziai:
-  - 'XX'
   - 'XXI'
-date_start: '1992'
-date_end: '2026'
+date_start: '2003'
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -67,7 +60,6 @@ Spalio 21 dieną LKP CK pirmuoju sekretoriumi tapo Algirdas Brazauskas, įgijęs
 
 ## Ryšiai
 ### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
 - [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai

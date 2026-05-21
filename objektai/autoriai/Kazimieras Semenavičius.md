@@ -12,14 +12,14 @@ saltiniai:
 bukle: juodrastis
 laikotarpis: "1650 m."
 datos:
-  - "1650 m."
-periodas: "ankstyvieji_naujieji_laikai"
+  - '1650 m.'
+periodas: 'LDK laikotarpis'
 periodo_grupes:
-  - "LDK"
+  - 'LDK'
 amziai:
-  - "XVII"
-date_start: "1650"
-date_end: "1650"
+  - 'XVII'
+date_start: '1650'
+date_end: ''
 vaidmenys:
   - "karo inžinierius"
   - "veikalo autorius"

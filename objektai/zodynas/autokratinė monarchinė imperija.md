@@ -29,13 +29,6 @@ tags:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: 'Vietiniame Rusijos imperijos valdyme gubernijai vadovavo caro skiriamas, vidaus reikalų žinybai pavaldus gubernatorius.'
-  pagrindžia:
-    - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Lietuva, išskyrus Užnemunę ir 1812 m. Napoleono interliudą, priklausė autokratinei Rusijos imperijai.'

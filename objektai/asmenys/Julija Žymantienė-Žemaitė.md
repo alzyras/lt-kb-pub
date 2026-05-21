@@ -8,18 +8,13 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1912 m.'
-  - '2013 m.'
-  - '2026 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
 periodo_grupes:
   - 'naujieji laikai'
-  - 'šiuolaikinė Lietuva'
 amziai:
-  - 'XIX'
   - 'XX'
-  - 'XXI'
 date_start: '1912'
-date_end: '2026'
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -65,6 +60,4 @@ Kudirkos poezija ir satyriniai, caro valdininkus taikliai pašiepiantys apsakyma
 
 ## Ryšiai
 ### Laikotarpiai
-- [[laikotarpiai/XIX amžius]]
 - [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

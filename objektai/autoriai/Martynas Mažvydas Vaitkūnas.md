@@ -10,7 +10,6 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 laikotarpis: 'XVI a.; 1547 m.; 1570 m.'
 datos:
-  - 'XVI a.'
   - '1547 m.'
   - '1570 m.'
 vaidmenys:
@@ -18,6 +17,10 @@ vaidmenys:
   - 'raštininkas'
   - 'katekizmo ir giesmių autorius'
 patikimumas: 'aukštas'
+amziai:
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 tags:
   - autorius
 ---

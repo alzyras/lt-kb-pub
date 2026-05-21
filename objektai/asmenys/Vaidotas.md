@@ -9,18 +9,14 @@ saltiniai:
 datos:
   - '1362 m.'
   - '1401 m.'
-  - '1978 m.'
-  - '2026 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
   - 'XIV'
   - 'XV'
-  - 'XX'
-  - 'XXI'
 date_start: '1362'
-date_end: '2026'
+date_end: '1401'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -84,5 +80,3 @@ Iš ordino žemių patekęs į Vakarus, po studijų Pragos universitete, nuo 140
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
 - [[laikotarpiai/XV amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

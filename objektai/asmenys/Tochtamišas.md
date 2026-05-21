@@ -9,17 +9,13 @@ saltiniai:
 datos:
   - '1391 m.'
   - '1396 m.'
-  - '1978 m.'
-  - '2026 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
   - 'XIV'
-  - 'XX'
-  - 'XXI'
 date_start: '1391'
-date_end: '2026'
+date_end: '1396'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -127,8 +123,6 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/asmenys/Spytekas iš Melštyno]]

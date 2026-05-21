@@ -18,6 +18,10 @@ vaidmenys:
 patikimumas: 'vidutinis'
 aliases:
   - 'Rėza'
+amziai:
+  - 'XIX'
+periodo_grupes:
+  - 'naujieji laikai'
 tags:
   - autorius
   - mokslininkas

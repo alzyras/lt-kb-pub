@@ -6,22 +6,12 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos:
-  - '1929 m.'
-  - '1931 m.'
-  - '1935 m.'
-  - '1938 m.'
-  - '2013 m.'
-  - '2026 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'modernioji Lietuva'
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XX'
-  - 'XXI'
-date_start: '1929'
-date_end: '2026'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -66,8 +56,3 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

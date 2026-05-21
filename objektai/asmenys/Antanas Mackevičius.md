@@ -9,17 +9,13 @@ saltiniai:
 datos:
   - '1863 m.'
   - '1864 m.'
-  - '2013 m.'
-  - '2026 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
 periodo_grupes:
   - 'naujieji laikai'
-  - 'šiuolaikinė Lietuva'
 amziai:
   - 'XIX'
-  - 'XXI'
 date_start: '1863'
-date_end: '2026'
+date_end: '1864'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -192,7 +188,6 @@ Mackevičius, vėliau K.
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIX amžius]]
-- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/asmenys/B. Kolyška]]

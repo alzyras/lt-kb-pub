@@ -36,12 +36,6 @@ tags: []
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-004
-  teiginys: 'Vokiečių Rygos pirkliai turėjo daug įtakos Jogailos kontrevoliucijos pasisekimui.'
-  pagrindžia:
-    - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 - t-005
   teiginys: 'Paminėtina tai, kad Jogailos kontrevoliucijos pasi­ sekimui daug turėjo įtakos vokiečių Rygos pirkliai, kurie tada varė gyvą ir didelę prekybą su Vilniaus miestu.'
   pagrindžia:

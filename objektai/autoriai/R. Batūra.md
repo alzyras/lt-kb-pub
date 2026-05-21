@@ -12,7 +12,6 @@ periodas: 'okupacijų ir sovietmečio laikotarpis'
 periodo_grupes:
   - 'XX a.'
 amziai:
-  - 'XIII'
   - 'XX'
 date_start: '1966'
 date_end: ''
@@ -54,5 +53,4 @@ Batūra : Lietuvos metraščių legendinės dalies ir M. Batūra rašė : XIII a
 
 ## Ryšiai
 ### Laikotarpiai
-- [[laikotarpiai/XIII amžius]]
 - [[laikotarpiai/XX amžius]]

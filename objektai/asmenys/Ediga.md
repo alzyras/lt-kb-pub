@@ -7,16 +7,14 @@ aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1408 m.'
   - '1709 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
-  - 'XV'
   - 'XVIII'
-date_start: '1408'
-date_end: '1709'
+date_start: '1709'
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -81,7 +79,6 @@ Lemiamasis Vytauto žygis, vietoje Timuro ir jo emiro Edigos (Edigiu) pasodinti 
 
 ## Ryšiai
 ### Laikotarpiai
-- [[laikotarpiai/XV amžius]]
 - [[laikotarpiai/XVIII amžius]]
 
 ### Susiję objektai

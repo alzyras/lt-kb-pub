@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 885.
+Objektų skaičius: 703.
 
 ## Kaip naudoti
 
@@ -19,217 +19,35 @@ Objektų skaičius: 885.
 ## Susiję objektai
 
 ### Asmenys
-- [[objektai/asmenys/A. Hitleris]]
-- [[objektai/asmenys/A. Smetona|A. Smetona (prezidentas, XX a.)]]
-- [[objektai/asmenys/A. Voldemaras]]
-- [[objektai/asmenys/Adolfas Ramanauskas-Vanagas]]
-- [[objektai/asmenys/Albertas Manvydas]]
-- [[objektai/asmenys/Aldona Gediminaitė]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Algirdas Brazauskas]]
-- [[objektai/asmenys/Andrejus Sacharovas]]
-- [[objektai/asmenys/Antanas Gelgaudas]]
-- [[objektai/asmenys/Antanas Gustaitis]]
-- [[objektai/asmenys/Antanas Mackevičius]]
-- [[objektai/asmenys/Antanas Merkys]]
-- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
 - [[objektai/asmenys/Antanas Valionis]]
-- [[objektai/asmenys/Augustas II]]
-- [[objektai/asmenys/Augustas III]]
-- [[objektai/asmenys/Augustinas Voldemaras]]
 - [[objektai/asmenys/Bernardas Berensonas]]
-- [[objektai/asmenys/Birutė]]
-- [[objektai/asmenys/Borisas Jelcinas]]
-- [[objektai/asmenys/Czesław Miłosz]]
-- [[objektai/asmenys/Dimitras Kaributas]]
-- [[objektai/asmenys/Dovydas (Gardino pilininkas)]]
-- [[objektai/asmenys/Edyga]]
-- [Ernestas Galvanauskas](../objektai/asmenys/Ernestas%20Galvanauskas)
-- [Gediminas (Lietuvos valdovas)](../objektai/asmenys/Gediminas)
-- [Ghillebert de Lannoy](../objektai/asmenys/Ghillebert%20de%20Lannoy)
-- [Gustavas Adolfas](../objektai/asmenys/Gustavas%20Adolfas)
-- [Henrikas (Mozūrų kunigaikštis)](../objektai/asmenys/Henrikas%20%28Moz%C5%ABr%C5%B3%20kunigaik%C5%A1tis%29)
-- [Henrikas von Plauenas](../objektai/asmenys/Henrikas%20von%20Plauenas)
-- [Horacijus](../objektai/asmenys/Horacijus)
-- [Ignotas Masalskis (vyskupas, XVIII–XIX a.)](../objektai/asmenys/Ignotas%20Masalskis)
-- [Isaakas ben Abrahamas iš Trakų](../objektai/asmenys/Isaakas%20ben%20Abrahamas%20i%C5%A1%20Trak%C5%B3)
-- [Ivanas Fiodorovas (spaustuvininkas, XVI a.)](../objektai/asmenys/Ivanas%20Fiodorovas)
-- [J. Pilsudskis](../objektai/asmenys/J.%20Pilsudskis)
-- [Jadvyga](../objektai/asmenys/Jadvyga)
-- [Jadvyga Jogailienė](../objektai/asmenys/Jadvyga%20Jogailien%C4%97)
-- [Jaunutis](../objektai/asmenys/Jaunutis)
-- [Jekaterina II](../objektai/asmenys/Jekaterina%20II)
-- [Jokūbas Jasinskis](../objektai/asmenys/Jok%C5%ABbas%20Jasinskis)
-- [Jomantas](../objektai/asmenys/Jomantas)
-- [Jonas Karolis Katkevičius](../objektai/asmenys/Jonas%20Karolis%20Katkevi%C4%8Dius)
-- [Jonas Mačiulis-Maironis](../objektai/asmenys/Jonas%20Ma%C4%8Diulis-Maironis)
-- [Jonas Mejenas](../objektai/asmenys/Jonas%20Mejenas)
-- [Jonas Tarnovskis](../objektai/asmenys/Jonas%20Tarnovskis)
-- [Jonas XXIII](../objektai/asmenys/Jonas%20XXIII)
-- [Jonas Černius](../objektai/asmenys/Jonas%20%C4%8Cernius)
-- [Julija Žymantienė-Žemaitė](../objektai/asmenys/Julija%20%C5%BDymantien%C4%97-%C5%BDemait%C4%97)
-- [Julijona](../objektai/asmenys/Julijona)
-- [Julijona (Algirdo žmona)](../objektai/asmenys/Julijona%20%28Algirdo%20%C5%BEmona%29)
-- [Juozas Tūbelis](../objektai/asmenys/Juozas%20T%C5%ABbelis)
-- [Jurgis Radvila](../objektai/asmenys/Jurgis%20Radvila)
-- [Juzefas Pilsudskis](../objektai/asmenys/Juzefas%20Pilsudskis)
-- [Kaributas](../objektai/asmenys/Kaributas)
-- [Karigaila](../objektai/asmenys/Karigaila)
-- [Karijotas](../objektai/asmenys/Karijotas)
-- [Karolis IV](../objektai/asmenys/Karolis%20IV)
-- [Karolis IX](../objektai/asmenys/Karolis%20IX)
-- [Karolis XII](../objektai/asmenys/Karolis%20XII)
-- [Kazimieras](../objektai/asmenys/Kazimieras)
-- [Kazimieras Didysis](../objektai/asmenys/Kazimieras%20Didysis)
-- [Kazimieras Sapiega](../objektai/asmenys/Kazimieras%20Sapiega)
-- [Kiprijonas](../objektai/asmenys/Kiprijonas)
-- [Konradas (Mozūrijos kunigaikštis)](../objektai/asmenys/Konradas%20%28Moz%C5%ABrijos%20kunigaik%C5%A1tis%29)
-- [Konstantinas Kalinauskas](../objektai/asmenys/Konstantinas%20Kalinauskas)
-- [Kristijonas (vyskupas)](../objektai/asmenys/Kristijonas)
-- [Kristijonas Gotlibas Milkus](../objektai/asmenys/Kristijonas%20Gotlibas%20Milkus)
-- [Kristupas II Radvila](../objektai/asmenys/Kristupas%20II%20Radvila)
-- [Kristupas Pacas](../objektai/asmenys/Kristupas%20Pacas)
-- [Kristupas Radvila Perkūnas](../objektai/asmenys/Kristupas%20Radvila%20Perk%C5%ABnas)
-- [Kęstutis (vakarų pasienio valdovas, XIV–XV a.)](../objektai/asmenys/K%C4%99stutis)
-- [Lengvenis](../objektai/asmenys/Lengvenis)
-- [Lengvenis Algirdaitis](../objektai/asmenys/Lengvenis%20Algirdaitis)
-- [Liubartas](../objektai/asmenys/Liubartas)
-- [Liudvikas](../objektai/asmenys/Liudvikas)
-- [M. Sleževičius](../objektai/asmenys/M.%20Sle%C5%BEevi%C4%8Dius)
-- [Martynas V](../objektai/asmenys/Martynas%20V)
-- [Michailas Gorbačiovas](../objektai/asmenys/Michailas%20Gorba%C4%8Diovas)
-- [Michailas Muravjovas](../objektai/asmenys/Michailas%20Muravjovas)
-- [Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)](../objektai/asmenys/Mikalojus%20Kristupas%20Radvila-Na%C5%A1lait%C4%97lis)
-- [Mikalojus Radvila Juodasis](../objektai/asmenys/Mikalojus%20Radvila%20Juodasis)
-- [Mikalojus Radvila Rudasis](../objektai/asmenys/Mikalojus%20Radvila%20Rudasis)
-- [Mindaugas](../objektai/asmenys/Mindaugas)
-- [Mykolas](../objektai/asmenys/Mykolas)
-- [Mykolas Biržiška](../objektai/asmenys/Mykolas%20Bir%C5%BEi%C5%A1ka)
-- [Mykolas Küchmeisteris](../objektai/asmenys/Mykolas%20K%C3%BCchmeisteris)
-- [Mykolas Pacas](../objektai/asmenys/Mykolas%20Pacas)
-- [Mykolas Sleževičius](../objektai/asmenys/Mykolas%20Sle%C5%BEevi%C4%8Dius)
-- [Nadine Gordimer](../objektai/asmenys/Nadine%20Gordimer)
-- [Nikolajus Mitkinas](../objektai/asmenys/Nikolajus%20Mitkinas)
-- [Patrikas](../objektai/asmenys/Patrikas)
-- [Petras Griškevičius](../objektai/asmenys/Petras%20Gri%C5%A1kevi%C4%8Dius)
-- [Petras I Didysis](../objektai/asmenys/Petras%20I%20Didysis)
-- [Petras Klimas](../objektai/asmenys/Petras%20Klimas)
-- [Povilas Lukšys](../objektai/asmenys/Povilas%20Luk%C5%A1ys)
-- [Povilas Sapiega](../objektai/asmenys/Povilas%20Sapiega)
-- [Rimgaudas Songaila](../objektai/asmenys/Rimgaudas%20Songaila)
-- [Ringailė](../objektai/asmenys/Ringail%C4%97)
-- [Robert Gordon Latham](../objektai/asmenys/Robert%20Gordon%20Latham)
-- [Rumbaudas](../objektai/asmenys/Rumbaudas)
-- [Simonas Daukantas](../objektai/asmenys/Simonas%20Daukantas)
-- [Simonas Stanevičius](../objektai/asmenys/Simonas%20Stanevi%C4%8Dius)
-- [Skirgaila](../objektai/asmenys/Skirgaila)
-- [Sofija Vytautaitė](../objektai/asmenys/Sofija%20Vytautait%C4%97)
-- [Stanislovas Augustas Poniatovskis (valdovas)](../objektai/asmenys/Stanislovas%20Augustas%20Poniatovskis)
-- [Stanislovas Leščinskis](../objektai/asmenys/Stanislovas%20Le%C5%A1%C4%8Dinskis)
-- [Stanislovas Narutavičius](../objektai/asmenys/Stanislovas%20Narutavi%C4%8Dius)
-- [Stasys Girėnas](../objektai/asmenys/Stasys%20Gir%C4%97nas)
-- [Steponas Batoras](../objektai/asmenys/Steponas%20Batoras)
-- [Sviatoslavas](../objektai/asmenys/Sviatoslavas)
-- [Tadas Kosciuška](../objektai/asmenys/Tadas%20Kosciu%C5%A1ka)
-- [Tautvilas](../objektai/asmenys/Tautvilas)
-- [Teodoras](../objektai/asmenys/Teodoras)
-- [Teodoras (Liubarto sūnus)](../objektai/asmenys/Teodoras%20%28Liubarto%20s%C5%ABnus%29)
-- [Tochtamišas](../objektai/asmenys/Tochtami%C5%A1as)
-- [Tochtamyšas](../objektai/asmenys/Tochtamy%C5%A1as)
-- [Tomas Naruševičius](../objektai/asmenys/Tomas%20Naru%C5%A1evi%C4%8Dius)
-- [Traidenis](../objektai/asmenys/Traidenis)
-- [Ulrichas von Jungingenas](../objektai/asmenys/Ulrichas%20von%20Jungingenas)
-- [Vaidotas](../objektai/asmenys/Vaidotas)
-- [Vaidotas (Butauto sūnus)](../objektai/asmenys/Vaidotas%20%28Butauto%20s%C5%ABnus%29)
-- [Valdas Adamkus](../objektai/asmenys/Valdas%20Adamkus)
-- [Viačeslavas Molotovas](../objektai/asmenys/Via%C4%8Deslavas%20Molotovas)
-- [Vilhelmas](../objektai/asmenys/Vilhelmas)
-- [Vilhelmas Habsburgas](../objektai/asmenys/Vilhelmas%20Habsburgas)
-- [Vinrichas von Kniprodė](../objektai/asmenys/Vinrichas%20von%20Kniprod%C4%97)
-- [Vladimiras Algirdaitis](../objektai/asmenys/Vladimiras%20Algirdaitis)
-- [Vladislovas Vaza](../objektai/asmenys/Vladislovas%20Vaza)
-- [Vosylius](../objektai/asmenys/Vosylius)
-- [Vosylius I](../objektai/asmenys/Vosylius%20I)
-- [Vygantas Jocius](../objektai/asmenys/Vygantas%20Jocius)
-- [Vykintas](../objektai/asmenys/Vykintas)
-- [Vytautas (Lietuvos valdovas, XIV–XV a.)](../objektai/asmenys/Vytautas)
-- [Vytautas Landsbergis](../objektai/asmenys/Vytautas%20Landsbergis)
-- [Vytenis](../objektai/asmenys/Vytenis)
-- [Ziemovitas](../objektai/asmenys/Ziemovitas)
-- [Zigmantas Augustas](../objektai/asmenys/Zigmantas%20Augustas)
-- [Zigmantas Sierakauskas](../objektai/asmenys/Zigmantas%20Sierakauskas)
-- [Zigmantas Vaza](../objektai/asmenys/Zigmantas%20Vaza)
-- [Švitrigaila](../objektai/asmenys/%C5%A0vitrigaila)
-- [Žygimantas Augustas](../objektai/asmenys/%C5%BDygimantas%20Augustas)
-- [Žygimantas Senasis](../objektai/asmenys/%C5%BDygimantas%20Senasis)
+- [[objektai/asmenys/Jonas Mejenas]]
+- [[objektai/asmenys/Vygantas Jocius]]
 
 ### Autoriai
-- [A. Alekna](../objektai/autoriai/A.%20Alekna)
-- [A. Brückner](../objektai/autoriai/A.%20Br%C3%BCckner)
-- [A. Kučinskas](../objektai/autoriai/A.%20Ku%C4%8Dinskas)
-- [A. Mierzyński](../objektai/autoriai/A.%20Mierzy%C5%84ski)
-- [A. Salys](../objektai/autoriai/A.%20Salys)
-- [A. Vijūkas Kojelavičius](../objektai/autoriai/A.%20Vij%C5%ABkas%20Kojelavi%C4%8Dius)
-- [A. Šapoka](../objektai/autoriai/A.%20%C5%A0apoka)
-- [Albertas Daugirdas](../objektai/autoriai/Albertas%20Daugirdas)
-- [Alfonsas Eidintas](../objektai/autoriai/Alfonsas%20Eidintas)
-- [Alfredas Bumblauskas](../objektai/autoriai/Alfredas%20Bumblauskas)
-- [Alvydas Jokubaitis](../objektai/autoriai/Alvydas%20Jokubaitis)
-- [Andžej Geglis](../objektai/autoriai/And%C5%BEej%20Geglis)
-- [Antanas Kulakauskas](../objektai/autoriai/Antanas%20Kulakauskas)
-- [Arvydas Anušauskas](../objektai/autoriai/Arvydas%20Anu%C5%A1auskas)
-- [Arvydas Pociūnas](../objektai/autoriai/Arvydas%20Poci%C5%ABnas)
-- [Augustas Ludvikas Schlözeris](../objektai/autoriai/Augustas%20Ludvikas%20Schl%C3%B6zeris)
-- [Bumblauskas A](../objektai/autoriai/Bumblauskas%20A)
-- [Daugirdas A](../objektai/autoriai/Daugirdas%20A)
-- [Dieckmann Ch](../objektai/autoriai/Dieckmann%20Ch)
-- [Dusburgas](../objektai/autoriai/Dusburgas)
-- [Eduardas Brusokas](../objektai/autoriai/Eduardas%20Brusokas)
-- [H. Paszkiewicz](../objektai/autoriai/H.%20Paszkiewicz)
-- [Henrikas Latvis](../objektai/autoriai/Henrikas%20Latvis)
-- [Ig. Jonynas](../objektai/autoriai/Ig.%20Jonynas)
-- [Inga Vinogradnaitė](../objektai/autoriai/Inga%20Vinogradnait%C4%97)
-- [J. Aničas](../objektai/autoriai/J.%20Ani%C4%8Das)
-- [J. Dlugošas](../objektai/autoriai/J.%20Dlugo%C5%A1as)
-- [J. Jakubowski](../objektai/autoriai/J.%20Jakubowski)
-- [J. Jaroszewicz](../objektai/autoriai/J.%20Jaroszewicz)
-- [J. Latkowski](../objektai/autoriai/J.%20Latkowski)
-- [J. Talmantas](../objektai/autoriai/J.%20Talmantas)
-- [J. Totoraitis](../objektai/autoriai/J.%20Totoraitis)
-- [J. Voigt](../objektai/autoriai/J.%20Voigt)
-- [K. Būga](../objektai/autoriai/K.%20B%C5%ABga)
-- [K. Lohmeyer](../objektai/autoriai/K.%20Lohmeyer)
-- [Ksaveras Bogušas](../objektai/autoriai/Ksaveras%20Bogu%C5%A1as)
-- [L. Arbusow](../objektai/autoriai/L.%20Arbusow)
-- [L. Kolankowski](../objektai/autoriai/L.%20Kolankowski)
-- [Liudvika Gedgaudienė-Didžiulienė](../objektai/autoriai/Liudvika%20Gedgaudien%C4%97-Did%C5%BEiulien%C4%97)
-- [Loreta Uzdraitė](../objektai/autoriai/Loreta%20Uzdrait%C4%97)
-- [M. Jučas](../objektai/autoriai/M.%20Ju%C4%8Das)
-- [M. Strijkovskis](../objektai/autoriai/M.%20Strijkovskis)
-- [Maironis](../objektai/autoriai/Maironis)
-- [Mindaugas Tamošaitis](../objektai/autoriai/Mindaugas%20Tamo%C5%A1aitis)
-- [Motiejus Valančius](../objektai/autoriai/Motiejus%20Valan%C4%8Dius)
-- [Mykolas Lietuvis](../objektai/autoriai/Mykolas%20Lietuvis)
-- [O. Halecki](../objektai/autoriai/O.%20Halecki)
-- [P. Klimas](../objektai/autoriai/P.%20Klimas)
-- [P. Tarasenka](../objektai/autoriai/P.%20Tarasenka)
-- [P. Šležas](../objektai/autoriai/P.%20%C5%A0le%C5%BEas)
-- [Petras Dusburgietis](../objektai/autoriai/Petras%20Dusburgietis)
-- [Raimundas Lopata](../objektai/autoriai/Raimundas%20Lopata)
-- [S. Sužiedėlis](../objektai/autoriai/S.%20Su%C5%BEied%C4%97lis)
-- [Senn A. E](../objektai/autoriai/Senn%20A.%20E)
-- [Skučas A](../objektai/autoriai/Sku%C4%8Das%20A)
-- [St. Kutrzeba](../objektai/autoriai/St.%20Kutrzeba)
-- [Sužiedėlis S](../objektai/autoriai/Su%C5%BEied%C4%97lis%20S)
-- [T. Korzon](../objektai/autoriai/T.%20Korzon)
-- [Vygandas Marburgietis](../objektai/autoriai/Vygandas%20Marburgietis)
-- [Wulfstanas](../objektai/autoriai/Wulfstanas)
-- [Zenonas Ivinskis](../objektai/autoriai/Z.%20Ivinskis)
+- [[objektai/autoriai/Alfonsas Eidintas]]
+- [[objektai/autoriai/Alfredas Bumblauskas]]
+- [[objektai/autoriai/Alvydas Jokubaitis]]
+- [[objektai/autoriai/Antanas Kulakauskas]]
+- [[objektai/autoriai/Bumblauskas A]]
+- [[objektai/autoriai/Daugirdas A]]
+- [[objektai/autoriai/Dieckmann Ch]]
+- [[objektai/autoriai/Eduardas Brusokas]]
+- [[objektai/autoriai/Inga Vinogradnaitė]]
+- [[objektai/autoriai/J. Aničas]]
+- [[objektai/autoriai/M. Jučas]]
+- [[objektai/autoriai/Mindaugas Tamošaitis]]
+- [[objektai/autoriai/Petras Dusburgietis]]
+- [[objektai/autoriai/Raimundas Lopata]]
+- [[objektai/autoriai/Senn A. E]]
+- [[objektai/autoriai/Skučas A]]
+- [[objektai/autoriai/Sužiedėlis S]]
 
 ### Daiktai
-- [Apgulties mašinos](../objektai/daiktai/Apgulties%20ma%C5%A1inos)
-- [Aukuras](../objektai/daiktai/Aukuras)
-- [Balnas](../objektai/daiktai/Balnas)
+- [[objektai/daiktai/Apgulties mašinos]]
+- [[objektai/daiktai/Aukuras]]
+- [[objektai/daiktai/Balnas]]
 - [Baltas apsiaustas su išsiuvinėtu kalaviju](../objektai/daiktai/Baltas%20apsiaustas%20su%20i%C5%A1siuvin%C4%97tu%20kalaviju)
 - [Balti vilnoniai marškiniai](../objektai/daiktai/Balti%20vilnoniai%20mar%C5%A1kiniai)
 - [Bizantijos imperatorių herbas](../objektai/daiktai/Bizantijos%20imperatori%C5%B3%20herbas)

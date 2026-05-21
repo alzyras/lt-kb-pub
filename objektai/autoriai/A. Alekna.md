@@ -21,27 +21,18 @@ vaidmenys:
 dalyviai: []
 susije_irasai: []
 datos:
-  - '1350 m.'
-  - '1430 m.'
   - '1911 m.'
   - '1922 m.'
   - '1923 m.'
   - '1930 m.'
   - '1936 m.'
-  - '1978 m.'
-  - '2026 m.'
-periodas: 'LDK laikotarpis'
+periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
 periodo_grupes:
-  - 'LDK'
-  - 'modernioji Lietuva'
   - 'naujieji laikai'
 amziai:
-  - 'XIV'
-  - 'XV'
   - 'XX'
-  - 'XXI'
-date_start: '1350'
-date_end: '2026'
+date_start: '1911'
+date_end: '1936'
 patikimumas: 'aukštas'
 tags:
   - autorius
@@ -204,10 +195,7 @@ A. Alekna minimas kaip nusipelnęs istorikas, kelių Lietuvos ir Bažnyčios ist
 
 ## Ryšiai
 ### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XV amžius]]
 - [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/grupes/Sakalo bendrovė]]

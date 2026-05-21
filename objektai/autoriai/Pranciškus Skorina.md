@@ -10,17 +10,19 @@ saltiniai:
 bukle: juodrastis
 laikotarpis: "1490–1541 m.; 1517–1519 m.; 1522 m."
 datos:
-  - "1490–1541"
-  - "1517–1519 m."
-  - "1522 m."
-periodas: "ankstyvieji_naujieji_laikai"
+  - '1490 m.'
+  - '1517 m.'
+  - '1519 m.'
+  - '1522 m.'
+  - '1541 m.'
+periodas: 'LDK laikotarpis'
 periodo_grupes:
-  - "LDK"
+  - 'LDK'
 amziai:
-  - "XV"
-  - "XVI"
-date_start: "1490"
-date_end: "1541"
+  - 'XV'
+  - 'XVI'
+date_start: '1490'
+date_end: '1541'
 vaidmenys:
   - "spaustuvininkas"
   - "knygų rengėjas"

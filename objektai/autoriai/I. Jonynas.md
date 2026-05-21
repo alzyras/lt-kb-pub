@@ -7,18 +7,14 @@ aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1934 m.'
-  - '1935 m.'
   - '1939 m.'
   - '1940 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
+periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
-  - 'XX a.'
   - 'modernioji Lietuva'
 amziai:
-  - 'XIX'
   - 'XX'
-date_start: '1934'
+date_start: '1939'
 date_end: '1940'
 patikimumas: 'vidutinis'
 tags:
@@ -64,7 +60,6 @@ Jonynas, lg. : JakG, I, 127-135 ; II, 5-59 p. — (”) Naujausi Gedimino dinast
 - [[temos/dinastija]]
 
 ### Laikotarpiai
-- [[laikotarpiai/XIX amžius]]
 - [[laikotarpiai/XX amžius]]
 
 ### Susiję objektai

@@ -12,12 +12,15 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 laikotarpis: '1931-1932 m.'
 datos:
-  - '1931-1932 m.'
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
+  - '1931 m.'
+  - '1932 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+date_start: '1931'
+date_end: '1932'
 vaidmenys:
   - 'istorikas'
   - 'autorius'

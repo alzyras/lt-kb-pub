@@ -18,25 +18,14 @@ vaidmenys:
 dalyviai: []
 susije_irasai: []
 datos:
-  - '1350 m.'
-  - '1430 m.'
   - '1930 m.'
-  - '1936 m.'
-  - '1954 m.'
-  - '1955 m.'
-  - '1978 m.'
-  - '2026 m.'
-periodas: 'LDK laikotarpis'
+periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
-  - 'LDK'
   - 'modernioji Lietuva'
 amziai:
-  - 'XIV'
-  - 'XV'
   - 'XX'
-  - 'XXI'
-date_start: '1350'
-date_end: '2026'
+date_start: '1930'
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - autorius
@@ -121,7 +110,4 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
 
 ## Ryšiai
 ### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XV amžius]]
 - [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

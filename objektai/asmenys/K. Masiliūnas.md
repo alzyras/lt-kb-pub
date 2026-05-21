@@ -8,11 +8,10 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 laikotarpis: '1936 m.'
-datos:
-  - '1936 m.'
+datos: []
 periodas: ''
-periodo_grupes: []
-amziai: []
+periodo_grupes:
+amziai:
 date_start: ''
 date_end: ''
 vaidmenys:
@@ -86,8 +85,5 @@ K. Masiliūnas minimas kaip viceministeris, rūpinęsis veikalo bendradarbių su
     - t-004
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
 ### Susiję objektai
 - [[objektai/asmenys/J. Tonkūnas]]

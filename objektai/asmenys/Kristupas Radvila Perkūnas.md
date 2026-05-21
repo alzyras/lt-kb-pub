@@ -10,18 +10,13 @@ datos:
   - '1558 m.'
   - '1581 m.'
   - '1583 m.'
-  - '1936 m.'
-  - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
+periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
-  - 'modernioji Lietuva'
 amziai:
   - 'XVI'
-  - 'XX'
-  - 'XXI'
 date_start: '1558'
-date_end: '2026'
+date_end: '1583'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -126,8 +121,6 @@ Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XVI amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/asmenys/Jonas Sicinskis]]

@@ -11,15 +11,13 @@ datos:
   - '1422 m.'
   - '1423 m.'
   - '1430 m.'
-  - '1923 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
   - 'XV'
-  - 'XX'
 date_start: '1420'
-date_end: '1923'
+date_end: '1430'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -189,4 +187,3 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XV amžius]]
-- [[laikotarpiai/XX amžius]]

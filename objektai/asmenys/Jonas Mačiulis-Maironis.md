@@ -6,23 +6,12 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos:
-  - '1895 m.'
-  - '1944 m.'
-  - '1951 m.'
-  - '2013 m.'
-  - '2026 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-  - 'naujieji laikai'
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XIX'
-  - 'XX'
-  - 'XXI'
-date_start: '1895'
-date_end: '2026'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -63,10 +52,5 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIX amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Simonas Daukantas]]

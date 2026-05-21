@@ -10,18 +10,14 @@ datos:
   - '1724 m.'
   - '1804 m.'
   - '1812 m.'
-  - '2013 m.'
-  - '2026 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
-  - 'šiuolaikinė Lietuva'
 amziai:
   - 'XVIII'
   - 'XIX'
-  - 'XXI'
 date_start: '1724'
-date_end: '2026'
+date_end: '1812'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -89,4 +85,3 @@ Iš Kristijono Gotlibo Milkaus „Lietuvių–vokiečių ir vokiečių–lietuvi
 ### Laikotarpiai
 - [[laikotarpiai/XIX amžius]]
 - [[laikotarpiai/XVIII amžius]]
-- [[laikotarpiai/XXI amžius]]

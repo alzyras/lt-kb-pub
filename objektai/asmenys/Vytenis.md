@@ -10,19 +10,13 @@ saltiniai:
 datos:
   - '1316 m.'
   - '1341 m.'
-  - '1936 m.'
-  - '1978 m.'
-  - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
+periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
-  - 'modernioji Lietuva'
 amziai:
   - 'XIV'
-  - 'XX'
-  - 'XXI'
 date_start: '1316'
-date_end: '2026'
+date_end: '1341'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -111,5 +105,3 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

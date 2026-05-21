@@ -7,18 +7,14 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
-  - '1936 m.'
   - '1939 m.'
-  - '2026 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
   - 'modernioji Lietuva'
 amziai:
-  - 'XIX'
   - 'XX'
-  - 'XXI'
-date_start: '1936'
-date_end: '2026'
+date_start: '1939'
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - autorius
@@ -59,9 +55,7 @@ Jonynas, Pirmasis Lietuvos statutas (Vairas, 1930, Nr. 2);.
 
 ## Ryšiai
 ### Laikotarpiai
-- [[laikotarpiai/XIX amžius]]
 - [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/autoriai/I. Jonynas]]

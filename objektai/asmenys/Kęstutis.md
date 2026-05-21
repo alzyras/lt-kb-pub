@@ -31,20 +31,14 @@ datos:
   - '1390 m.'
   - '1392 m.'
   - '1430 m.'
-  - '1936 m.'
-  - '1978 m.'
-  - '2013 m.'
-  - '2026 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
   - 'XIV'
   - 'XV'
-  - 'XX'
-  - 'XXI'
 date_start: '1361'
-date_end: '2026'
+date_end: '1430'
 patikimumas: 'aukštas'
 tags:
   - asmuo
@@ -448,8 +442,6 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
 - [[laikotarpiai/XV amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas]]

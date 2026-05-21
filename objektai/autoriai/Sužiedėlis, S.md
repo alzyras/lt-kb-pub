@@ -7,23 +7,15 @@ aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1223 m.'
-  - '1502 m.'
   - '1930 m.'
-  - '1936 m.'
   - '1937 m.'
-  - '1941 m.'
-  - '1943 m.'
-periodas: 'viduramžiai'
+periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
   - 'modernioji Lietuva'
-  - 'viduramžiai'
 amziai:
-  - 'XIII'
-  - 'XVI'
   - 'XX'
-date_start: '1223'
-date_end: '1943'
+date_start: '1930'
+date_end: '1937'
 patikimumas: 'vidutinis'
 tags:
   - autorius
@@ -63,8 +55,6 @@ tags:
 
 ## Ryšiai
 ### Laikotarpiai
-- [[laikotarpiai/XIII amžius]]
-- [[laikotarpiai/XVI amžius]]
 - [[laikotarpiai/XX amžius]]
 
 ### Susiję objektai

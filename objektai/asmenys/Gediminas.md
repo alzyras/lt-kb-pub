@@ -33,22 +33,15 @@ datos:
   - '1341 m.'
   - '1362 m.'
   - '1363 m.'
-  - '1385 m.'
   - '1572 m.'
-  - '1936 m.'
-  - '1978 m.'
-  - '2013 m.'
-  - '2026 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
   - 'XIV'
   - 'XVI'
-  - 'XX'
-  - 'XXI'
 date_start: '1307'
-date_end: '2026'
+date_end: '1572'
 patikimumas: 'aukštas'
 tags:
   - diplomatas
@@ -635,8 +628,6 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
 - [[laikotarpiai/XVI amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/ivykiai/Gedimino sąjunga su Lenkija]]

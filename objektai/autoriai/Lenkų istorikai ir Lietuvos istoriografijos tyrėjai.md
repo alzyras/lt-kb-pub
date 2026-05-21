@@ -13,16 +13,11 @@ datos:
   - '1838 m.'
   - '1857 m.'
   - '1859 m.'
-  - '1874 m.'
-  - '1882 m.'
-  - '1907 m.'
   - '1947 m.'
   - '1965 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
+periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
-  - 'XX a.'
-  - 'naujieji laikai'
 amziai:
   - 'XVI'
   - 'XVII'

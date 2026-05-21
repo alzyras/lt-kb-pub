@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 209.
+Objektų skaičius: 199.
 
 ## Kaip naudoti
 
@@ -21,18 +21,13 @@ Objektų skaičius: 209.
 ### Asmenys
 - [[objektai/asmenys/Aleksandras]]
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/asmenys/Enėjas Silvijus Pikolominis]]
 - [[objektai/asmenys/Fulvio Ruggieri]]
 - [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
-- [[objektai/asmenys/Grigalius Chodkevičius]]
 - [[objektai/asmenys/Isaakas ben Abrahamas iš Trakų]]
-- [[objektai/asmenys/Ivanas Andrejevičius Čeliadninas]]
 - [[objektai/asmenys/Ivanas Fiodorovas|Ivanas Fiodorovas (spaustuvininkas, XVI a.)]]
 - [[objektai/asmenys/Ivanas IV Rūstusis]]
 - [[objektai/asmenys/Jadvyga]]
-- [[objektai/asmenys/Jadvyga Jogailienė]]
 - [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
-- [[objektai/asmenys/Jonas Chodkevičius]]
 - [[objektai/asmenys/Jonas Karolis Katkevičius]]
 - [[objektai/asmenys/Karina Nilsdotter]]
 - [[objektai/asmenys/Karolis Carlsonas Gyllenhielmas]]
@@ -44,12 +39,11 @@ Objektų skaičius: 209.
 - [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis|Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)]]
 - [[objektai/asmenys/Mikalojus Radvila Juodasis]]
 - [[objektai/asmenys/Mykolas Glinskis]]
-- [Romanas Sanguška](../objektai/asmenys/Romanas%20Sangu%C5%A1ka)
-- [Stanislovas Kiška](../objektai/asmenys/Stanislovas%20Ki%C5%A1ka)
-- [Steponas Batoras](../objektai/asmenys/Steponas%20Batoras)
-- [Valerijonas Protasevičius (vyskupas)](../objektai/asmenys/Valerijonas%20Protasevi%C4%8Dius)
-- [Zigmantas Vaza](../objektai/asmenys/Zigmantas%20Vaza)
-- [Žygimantas Augustas](../objektai/asmenys/%C5%BDygimantas%20Augustas)
+- [[objektai/asmenys/Stanislovas Kiška]]
+- [[objektai/asmenys/Steponas Batoras]]
+- [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
+- [[objektai/asmenys/Zigmantas Vaza]]
+- [[objektai/asmenys/Žygimantas Augustas]]
 
 ### Autoriai
 - [Aleksandro Gvanjinio](../objektai/autoriai/Aleksandro%20Gvanjinio)
@@ -59,9 +53,7 @@ Objektų skaičius: 209.
 - [G. F. Karpov](../objektai/autoriai/G.%20F.%20Karpov)
 - [Gintautas Jakštys](../objektai/autoriai/Gintautas%20Jak%C5%A1tys)
 - [Girolamo Lippomano](../objektai/autoriai/Girolamo%20Lippomano)
-- [H. Spliet](../objektai/autoriai/H.%20Spliet)
 - [Ignas Danilavičius](../objektai/autoriai/Ignas%20Danilavi%C4%8Dius)
-- [J. Stankus](../objektai/autoriai/J.%20Stankus)
 - [J. Voigt](../objektai/autoriai/J.%20Voigt)
 - [Jokimas Lelevelis](../objektai/autoriai/Jokimas%20Lelevelis)
 - [K. Jablonskis](../objektai/autoriai/K.%20Jablonskis)
@@ -69,7 +61,6 @@ Objektų skaičius: 209.
 - [Konstantinas Jablonskis](../objektai/autoriai/Konstantinas%20Jablonskis)
 - [Lenkų istorikai ir Lietuvos istoriografijos tyrėjai](../objektai/autoriai/Lenk%C5%B3%20istorikai%20ir%20Lietuvos%20istoriografijos%20tyr%C4%97jai)
 - [M. Dovnar-Zapol’skij](../objektai/autoriai/M.%20Dovnar-Zapol%E2%80%99skij)
-- [M. Strijkovskis](../objektai/autoriai/M.%20Strijkovskis)
 - [Maironis](../objektai/autoriai/Maironis)
 - [Martynas Mažvydas Vaitkūnas](../objektai/autoriai/Martynas%20Ma%C5%BEvydas%20Vaitk%C5%ABnas)
 - [Mykolas Lietuvis](../objektai/autoriai/Mykolas%20Lietuvis)
@@ -78,7 +69,6 @@ Objektų skaičius: 209.
 - [S. Baltramaitis](../objektai/autoriai/S.%20Baltramaitis)
 - [S. Sužiedėlis](../objektai/autoriai/S.%20Su%C5%BEied%C4%97lis)
 - [Sigismundi Liberi Baronis in Herberstain, Neyperg & Guettenhag](../objektai/autoriai/Sigismundi%20Liberi%20Baronis%20in%20Herberstain%2C%20Neyperg%20&%20Guettenhag)
-- [Sužiedėlis, S](../objektai/autoriai/Su%C5%BEied%C4%97lis%2C%20S)
 
 ### Daiktai
 - [Alebardos](../objektai/daiktai/Alebardos)

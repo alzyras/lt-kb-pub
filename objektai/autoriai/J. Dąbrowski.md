@@ -9,17 +9,13 @@ saltiniai:
 datos:
   - '1385 m.'
   - '1444 m.'
-  - '1862 m.'
-  - '1957 m.'
   - '1961 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
-  - 'naujieji laikai'
 amziai:
   - 'XIV'
   - 'XV'
-  - 'XIX'
   - 'XX'
 date_start: '1385'
 date_end: '1961'
@@ -62,6 +58,5 @@ Dąbrowski : Rozbiór krytyczny Anna ­ lium Poloniae Jana Długosza z lat 1385-
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XIX amžius]]
 - [[laikotarpiai/XV amžius]]
 - [[laikotarpiai/XX amžius]]

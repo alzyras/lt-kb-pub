@@ -6,17 +6,12 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos:
-  - '1978 m.'
-  - '2026 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
-  - 'XXI'
-date_start: '1978'
-date_end: '2026'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -63,10 +58,6 @@ Kas galėjo įspėti, kad Sofijos anūkas Jonas III Vytauto imperijos palikuonia
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
 - [[objektai/asmenys/Vasilijus (Maskvos didysis kunigaikštis)]]

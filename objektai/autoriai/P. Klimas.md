@@ -19,20 +19,15 @@ datos:
   - '1920 m.'
   - '1921 m.'
   - '1923 m.'
-  - '1936 m.'
   - '1939 m.'
-  - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
+periodas: 'viduramžiai'
 periodo_grupes:
-  - 'modernioji Lietuva'
-  - 'naujieji laikai'
   - 'viduramžiai'
 amziai:
   - 'XII'
   - 'XX'
-  - 'XXI'
 date_start: '1200'
-date_end: '2026'
+date_end: '1939'
 patikimumas: 'aukštas'
 tags:
   - autorius
@@ -147,4 +142,3 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
 ### Laikotarpiai
 - [[laikotarpiai/XII amžius]]
 - [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

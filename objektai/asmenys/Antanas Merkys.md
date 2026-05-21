@@ -9,18 +9,13 @@ saltiniai:
 datos:
   - '1939 m.'
   - '1940 m.'
-  - '2013 m.'
-  - '2026 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
-  - 'XX a.'
   - 'modernioji Lietuva'
-  - 'šiuolaikinė Lietuva'
 amziai:
   - 'XX'
-  - 'XXI'
 date_start: '1939'
-date_end: '2026'
+date_end: '1940'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -65,7 +60,6 @@ LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/autoriai/A. Merkys]]

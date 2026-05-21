@@ -15,10 +15,12 @@ bukle: juodrastis
 laikotarpis: ''
 datos:
   - '1767 m.'
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVIII'
+date_start: '1767'
 date_end: ''
 vaidmenys:
   - 'ūkio reformų veikėjas'

@@ -18,29 +18,21 @@ vaidmenys:
   - 'Žemaičių vyskupas'
   - 'blaivybės veikėjas'
 datos:
-  - '1801 m.'
   - '1848 m.'
   - '1850 m.'
-  - '1867 m.'
-  - '1869 m.'
   - '1875 m.'
   - '1922 m.'
   - '1929 m.'
-  - '1936 m.'
   - '1965 m.'
   - '1972 m.'
-  - '2026 m.'
 periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
 periodo_grupes:
-  - 'XX a.'
-  - 'modernioji Lietuva'
   - 'naujieji laikai'
 amziai:
   - 'XIX'
   - 'XX'
-  - 'XXI'
-date_start: '1801'
-date_end: '2026'
+date_start: '1848'
+date_end: '1972'
 patikimumas: 'aukštas'
 tags:
   - autorius
@@ -276,4 +268,3 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
 ### Laikotarpiai
 - [[laikotarpiai/XIX amžius]]
 - [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

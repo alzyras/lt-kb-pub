@@ -9,16 +9,14 @@ saltiniai:
 bukle: juodrastis
 laikotarpis: "1794 m.; 1805–1806 m. portreto kontekstas"
 datos:
-  - "1794 m."
-  - "1805–1806 m."
-periodas: "naujieji_laikai"
+  - '1794 m.'
+periodas: 'LDK laikotarpis'
 periodo_grupes:
-  - "LDK"
+  - 'LDK'
 amziai:
-  - "XVIII"
-  - "XIX"
-date_start: "1794"
-date_end: "1806"
+  - 'XVIII'
+date_start: '1794'
+date_end: ''
 vaidmenys:
   - "kompozitorius"
   - "polonezo autorius"
@@ -120,5 +118,4 @@ Mykolas Kleopas Oginskis vadinamas garsiojo polonezo „Atsisveikinimas su Tėvy
 
 ## Ryšiai
 ### Laikotarpiai
-- [[laikotarpiai/XIX amžius]]
 - [[laikotarpiai/XVIII amžius]]

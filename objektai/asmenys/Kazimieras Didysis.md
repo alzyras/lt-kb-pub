@@ -10,19 +10,13 @@ saltiniai:
 datos:
   - '1325 m.'
   - '1343 m.'
-  - '1936 m.'
-  - '1978 m.'
-  - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
+periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
-  - 'modernioji Lietuva'
 amziai:
   - 'XIV'
-  - 'XX'
-  - 'XXI'
 date_start: '1325'
-date_end: '2026'
+date_end: '1343'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -124,8 +118,6 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/asmenys/Aldona Gediminaitė]]

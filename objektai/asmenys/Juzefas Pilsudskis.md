@@ -6,22 +6,12 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos:
-  - '1905 m.'
-  - '1919 m.'
-  - '1920 m.'
-  - '2013 m.'
-  - '2026 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'modernioji Lietuva'
-  - 'naujieji laikai'
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XX'
-  - 'XXI'
-date_start: '1905'
-date_end: '2026'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -89,8 +79,3 @@ Kitokio požiūrio į Lietuvos perspektyvas laikėsi iš etninės Lietuvos kilus
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

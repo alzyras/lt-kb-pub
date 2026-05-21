@@ -77,12 +77,6 @@ Centralizuota ginkluoto ir politinio antisovietinio pasipriešinimo organizacija
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-013
-  teiginys: 'LLKS Tarybos prezidiumo pirmininku išrinktas Jonas Žemaitis-Vytautas, jam suteiktas partizanų generolo laipsnis.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 - t-014
   teiginys: 'LLKS Tarybos prezidiumo pirmininku išrinktas Jonas Žemaitis-Vytautas.'
   pagrindžia:

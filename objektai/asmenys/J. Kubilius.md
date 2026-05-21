@@ -6,14 +6,11 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos:
-  - '1914 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XX'
-date_start: '1914'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
 tags:
@@ -55,8 +52,5 @@ Kubiliaus vadovaujama kolona (Ukmergės atskirasis batalionas, pusė husarų esk
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
 ### Susiję objektai
 - [[objektai/grupes/Ukmergės batalionas]]

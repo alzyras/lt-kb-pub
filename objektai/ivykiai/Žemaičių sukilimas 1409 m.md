@@ -55,12 +55,6 @@ Nenurodyta
     - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-004
-  teiginys: '1409 m. rugpjūčio 6 d. Ordinas paskelbė karą Lenkijai, kai kryžiuočiams galutinai išslydo Žemaičiai.'
-  pagrindžia:
-    - c-003
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001

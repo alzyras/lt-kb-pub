@@ -14,13 +14,15 @@ saltiniai:
 bukle: juodrastis
 laikotarpis: ''
 datos:
-  - 'apie 1700–1767 m.'
-  - '1737–1767 m.'
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
+  - '1737 m.'
+  - '1767 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVIII'
+date_start: '1737'
+date_end: '1767'
 vaidmenys:
   - 'architektas'
 dalyviai: []

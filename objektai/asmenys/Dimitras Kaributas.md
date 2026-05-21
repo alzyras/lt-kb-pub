@@ -8,18 +8,13 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1404 m.'
-  - '1408 m.'
-  - '1978 m.'
-  - '2026 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
   - 'XV'
-  - 'XX'
-  - 'XXI'
 date_start: '1404'
-date_end: '2026'
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -64,5 +59,3 @@ Bet po Raciąžo taikos Švitrigaila grįžo pas Vytautą ir tuoj gavo valdyti B
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XV amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

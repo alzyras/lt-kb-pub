@@ -7,20 +7,15 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - '1921 m.'
   - '1923 m.'
   - '1926 m.'
-  - '2013 m.'
-  - '2026 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
   - 'modernioji Lietuva'
-  - 'šiuolaikinė Lietuva'
 amziai:
   - 'XX'
-  - 'XXI'
-date_start: '1921'
-date_end: '2026'
+date_start: '1923'
+date_end: '1926'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -90,7 +85,6 @@ Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgali
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/asmenys/Jonas Budrys (Polovinskas)]]

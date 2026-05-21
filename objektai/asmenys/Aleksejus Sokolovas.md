@@ -6,11 +6,10 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
+datos:
 periodas: ''
-periodo_grupes: []
-amziai:
-  - 'XX'
+periodo_grupes:
+amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
@@ -71,9 +70,6 @@ Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo suformuotose vadinamosiose 
     - t-002
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
 ### Susiję objektai
 - [[objektai/zodynas/agentas-smogikas]]
 - [[objektai/zodynas/specialioji grupė]]

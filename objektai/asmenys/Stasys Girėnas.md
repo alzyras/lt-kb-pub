@@ -9,19 +9,14 @@ saltiniai:
 datos:
   - '1933 m.'
   - '1934 m.'
-  - '1935 m.'
   - '1938 m.'
-  - '2013 m.'
-  - '2026 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
   - 'modernioji Lietuva'
-  - 'šiuolaikinė Lietuva'
 amziai:
   - 'XX'
-  - 'XXI'
 date_start: '1933'
-date_end: '2026'
+date_end: '1938'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -126,4 +121,3 @@ tags:
 
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

@@ -9,18 +9,13 @@ saltiniai:
 datos:
   - '1351 m.'
   - '1382 m.'
-  - '1936 m.'
-  - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
+periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
-  - 'modernioji Lietuva'
 amziai:
   - 'XIV'
-  - 'XX'
-  - 'XXI'
 date_start: '1351'
-date_end: '2026'
+date_end: '1382'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -62,8 +57,6 @@ Vinrichas von Kniprodė, kryžiuočių ordino magistras (1351 —1382 m.).
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/ivykiai/Kęstučio ir Algirdo derybos dėl krikšto]]

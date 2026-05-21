@@ -12,7 +12,6 @@ periodas: 'okupacijų ir sovietmečio laikotarpis'
 periodo_grupes:
   - 'XX a.'
 amziai:
-  - 'XVIII'
   - 'XX'
 date_start: '1969'
 date_end: ''
@@ -58,5 +57,4 @@ Matulaitytė rašo apie astro­ nomijos mokslo įvedimą Vilniaus universitete X
 
 ## Ryšiai
 ### Laikotarpiai
-- [[laikotarpiai/XVIII amžius]]
 - [[laikotarpiai/XX amžius]]

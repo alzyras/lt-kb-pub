@@ -12,10 +12,12 @@ bukle: juodrastis
 laikotarpis: '1886 m.'
 datos:
   - '1886 m.'
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
+periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
+periodo_grupes:
+  - 'naujieji laikai'
+amziai:
+  - 'XIX'
+date_start: '1886'
 date_end: ''
 vaidmenys:
   - 'istorikas'

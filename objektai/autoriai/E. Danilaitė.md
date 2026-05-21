@@ -7,7 +7,6 @@ aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1962 m.'
   - '1964 m.'
   - '1966 m.'
   - '1967 m.'
@@ -17,7 +16,7 @@ periodo_grupes:
   - 'XX a.'
 amziai:
   - 'XX'
-date_start: '1962'
+date_start: '1964'
 date_end: '1968'
 patikimumas: 'vidutinis'
 tags:

@@ -14,7 +14,6 @@ periodas: 'okupacijų ir sovietmečio laikotarpis'
 periodo_grupes:
   - 'XX a.'
 amziai:
-  - 'XIII'
   - 'XX'
 date_start: '1964'
 date_end: '1968'
@@ -66,7 +65,6 @@ Nakaitė, L.
 
 ## Ryšiai
 ### Laikotarpiai
-- [[laikotarpiai/XIII amžius]]
 - [[laikotarpiai/XX amžius]]
 
 ### Susiję objektai

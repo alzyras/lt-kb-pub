@@ -10,14 +10,14 @@ saltiniai:
 bukle: juodrastis
 laikotarpis: "1618 m."
 datos:
-  - "1618 m."
-periodas: "ankstyvieji_naujieji_laikai"
+  - '1618 m.'
+periodas: 'LDK laikotarpis'
 periodo_grupes:
-  - "LDK"
+  - 'LDK'
 amziai:
-  - "XVII"
-date_start: "1618"
-date_end: "1618"
+  - 'XVII'
+date_start: '1618'
+date_end: ''
 vaidmenys:
   - "profesorius"
   - "veikalo autorius"

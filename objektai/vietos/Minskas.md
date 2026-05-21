@@ -47,12 +47,6 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: 'Užpultas Minskas, kaip ir Sluckas, nepasidavė maišto vadui.'
-  pagrindžia:
-    - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 - t-004
   teiginys: 'Buvo tikrai laimingas atvejis, kai Baltarusijos TSR Mokslų Akademija (Minskas) Jablonskiui pavedė suredaguoti ir išleisti 1-jį Lietuvos Statutą («Statut Velikogo Knjažestva Litovskogo 1529 goda»).'
   pagrindžia:

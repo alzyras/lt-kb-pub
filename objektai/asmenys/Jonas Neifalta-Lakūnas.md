@@ -9,15 +9,13 @@ saltiniai:
 datos:
   - '1910 m.'
   - '1945 m.'
-  - '1946 m.'
 periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
 periodo_grupes:
-  - 'XX a.'
   - 'naujieji laikai'
 amziai:
   - 'XX'
 date_start: '1910'
-date_end: '1946'
+date_end: '1945'
 patikimumas: 'vidutinis'
 tags:
   - asmuo

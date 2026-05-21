@@ -9,18 +9,13 @@ saltiniai:
 datos:
   - '1980 m.'
   - '1991 m.'
-  - '2013 m.'
-  - '2026 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodas: 'okupacijų ir sovietmečio laikotarpis'
 periodo_grupes:
   - 'XX a.'
-  - 'šiuolaikinė Lietuva'
 amziai:
-  - 'XIX'
   - 'XX'
-  - 'XXI'
 date_start: '1980'
-date_end: '2026'
+date_end: '1991'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -62,9 +57,7 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
 
 ## Ryšiai
 ### Laikotarpiai
-- [[laikotarpiai/XIX amžius]]
 - [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/asmenys/Nadine Gordimer]]

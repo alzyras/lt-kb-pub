@@ -7,17 +7,14 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
-  - '1936 m.'
   - '1938 m.'
-  - '2026 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
   - 'modernioji Lietuva'
 amziai:
   - 'XX'
-  - 'XXI'
-date_start: '1936'
-date_end: '2026'
+date_start: '1938'
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - autorius
@@ -64,4 +61,3 @@ Paszkiewicz, Jagiellonowie a Moskwa, I — Litwa a Moskwa w XIII i XIV wieku (19
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

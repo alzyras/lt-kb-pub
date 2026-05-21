@@ -9,18 +9,13 @@ saltiniai:
 datos:
   - '1917 m.'
   - '1926 m.'
-  - '2013 m.'
-  - '2026 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
 periodo_grupes:
-  - 'modernioji Lietuva'
   - 'naujieji laikai'
-  - 'šiuolaikinė Lietuva'
 amziai:
   - 'XX'
-  - 'XXI'
 date_start: '1917'
-date_end: '2026'
+date_end: '1926'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -64,7 +59,6 @@ Vokiečiams modernizuojant aneksijos ir prisijungimo planus, prireikus tam ir ok
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/asmenys/Dovas Zaunius]]

@@ -11,12 +11,13 @@ laikotarpis: '1957 m.; 1958 m.; 1960 m.'
 datos:
   - '1957 m.'
   - '1958 m.'
-  - '1960 m.'
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
+periodas: 'okupacijų ir sovietmečio laikotarpis'
+periodo_grupes:
+  - 'XX a.'
+amziai:
+  - 'XX'
+date_start: '1957'
+date_end: '1958'
 vaidmenys:
   - 'autorius'
   - 'istorikas'

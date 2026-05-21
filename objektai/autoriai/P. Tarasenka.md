@@ -8,17 +8,14 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
   - '1929 m.'
-  - '1936 m.'
   - '1956 m.'
-  - '2026 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
   - 'modernioji Lietuva'
 amziai:
   - 'XX'
-  - 'XXI'
 date_start: '1929'
-date_end: '2026'
+date_end: '1956'
 patikimumas: 'vidutinis'
 tags:
   - autorius
@@ -64,4 +61,3 @@ Tarasenka, Lietuvos archeologijos medžiaga (1929); B. Tarasenka, Apeiginiai L.
 
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

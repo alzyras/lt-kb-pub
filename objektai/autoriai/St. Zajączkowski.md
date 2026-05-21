@@ -14,21 +14,14 @@ datos:
   - '1929 m.'
   - '1930 m.'
   - '1931 m.'
-  - '1940 m.'
-  - '1941 m.'
-  - '1951 m.'
-  - '1952 m.'
-  - '1953 m.'
-  - '1954 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
-  - 'XX a.'
 amziai:
   - 'XIV'
   - 'XX'
 date_start: '1325'
-date_end: '1954'
+date_end: '1931'
 patikimumas: 'vidutinis'
 tags:
   - autorius

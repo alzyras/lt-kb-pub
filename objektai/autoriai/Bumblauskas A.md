@@ -11,19 +11,16 @@ datos:
   - '1795 m.'
   - '1999 m.'
   - '2005 m.'
-  - '2013 m.'
-  - '2026 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodas: 'viduramžiai'
 periodo_grupes:
   - 'viduramžiai'
-  - 'šiuolaikinė Lietuva'
 amziai:
   - 'XI'
   - 'XVIII'
   - 'XX'
   - 'XXI'
 date_start: '1009'
-date_end: '2026'
+date_end: '2005'
 patikimumas: 'vidutinis'
 tags:
   - autorius

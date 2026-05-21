@@ -8,17 +8,13 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1236 m.'
-  - '1329 m.'
-  - '1330 m.'
 periodas: 'viduramžiai'
 periodo_grupes:
-  - 'LDK'
   - 'viduramžiai'
 amziai:
   - 'XIII'
-  - 'XIV'
 date_start: '1236'
-date_end: '1330'
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - autorius
@@ -75,4 +71,3 @@ balnakilpės = L se KRISTAUS KARIŲ BROLIJOS LIKIMAS Ištrauka iš Hermano Vartb
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIII amžius]]
-- [[laikotarpiai/XIV amžius]]

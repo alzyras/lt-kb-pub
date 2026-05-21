@@ -8,17 +8,14 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1529 m.'
-  - '1934 m.'
   - '1941 m.'
   - '1959 m.'
   - '1960 m.'
   - '1961 m.'
   - '1962 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
+periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
-  - 'XX a.'
-  - 'modernioji Lietuva'
 amziai:
   - 'XVI'
   - 'XX'

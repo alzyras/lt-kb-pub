@@ -9,18 +9,14 @@ saltiniai:
 datos:
   - '1389 m.'
   - '1425 m.'
-  - '1978 m.'
-  - '2026 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
   - 'XIV'
   - 'XV'
-  - 'XX'
-  - 'XXI'
 date_start: '1389'
-date_end: '2026'
+date_end: '1425'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -87,5 +83,3 @@ Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė ir Smolensko leną Viazm
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
 - [[laikotarpiai/XV amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

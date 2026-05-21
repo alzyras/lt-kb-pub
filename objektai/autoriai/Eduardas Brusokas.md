@@ -11,10 +11,9 @@ datos:
   - '1970 m.'
   - '2000 m.'
   - '2006 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
+periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
-  - 'XX a.'
 amziai:
   - 'XVIII'
   - 'XX'

@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 165.
+Objektų skaičius: 160.
 
 ## Kaip naudoti
 
@@ -27,12 +27,10 @@ Objektų skaičius: 165.
 - [[objektai/asmenys/Frederikas Joachimas Mansfeldas]]
 - [[objektai/asmenys/Gustavas Adolfas]]
 - [[objektai/asmenys/Horacijus]]
-- [[objektai/asmenys/Isaakas ben Abrahamas iš Trakų]]
 - [[objektai/asmenys/Ivanas IV Rūstusis]]
 - [[objektai/asmenys/J. Radvila]]
 - [[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis]]
 - [[objektai/asmenys/Jonas Karolis Katkevičius]]
-- [[objektai/asmenys/Karakašas]]
 - [[objektai/asmenys/Karina Nilsdotter]]
 - [[objektai/asmenys/Karolis Carlsonas Gyllenhielmas]]
 - [[objektai/asmenys/Karolis IX]]
@@ -42,18 +40,15 @@ Objektų skaičius: 165.
 - [[objektai/asmenys/Michailas Fiodorovičius Romanovas]]
 - [[objektai/asmenys/Povilas Sapiega]]
 - [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis (valdovas)]]
-- [[objektai/asmenys/Steponas Batoras]]
 - [[objektai/asmenys/V. Gosievskis]]
-- [Vladislovas Vaza](../objektai/asmenys/Vladislovas%20Vaza)
-- [Zigmantas Sierakauskas](../objektai/asmenys/Zigmantas%20Sierakauskas)
+- [[objektai/asmenys/Vladislovas Vaza]]
 
 ### Autoriai
-- [A. Vijūkas Kojelavičius](../objektai/autoriai/A.%20Vij%C5%ABkas%20Kojelavi%C4%8Dius)
-- [Andrius Rudamina](../objektai/autoriai/Andrius%20Rudamina)
+- [[objektai/autoriai/A. Vijūkas Kojelavičius]]
+- [[objektai/autoriai/Andrius Rudamina]]
 - [Arvydas Pociūnas](../objektai/autoriai/Arvydas%20Poci%C5%ABnas)
 - [Gintautas Jakštys](../objektai/autoriai/Gintautas%20Jak%C5%A1tys)
 - [J. Bennetas](../objektai/autoriai/J.%20Bennetas)
-- [Karolis Zikaras](../objektai/autoriai/Karolis%20Zikaras)
 - [Kazimieras Semenavičius](../objektai/autoriai/Kazimieras%20Semenavi%C4%8Dius)
 - [Lenkų istorikai ir Lietuvos istoriografijos tyrėjai](../objektai/autoriai/Lenk%C5%B3%20istorikai%20ir%20Lietuvos%20istoriografijos%20tyr%C4%97jai)
 - [M. Zeilleris](../objektai/autoriai/M.%20Zeilleris)

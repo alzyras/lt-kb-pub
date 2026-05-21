@@ -31,13 +31,6 @@ Lietuvos partizanų 1947 m. 5 skyrius • L I E T U VA : S O V I E T Ų I R N A 
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: 'Partizanams užėmus miestelius, buvo naikinami valsčiaus dokumentai, mobilizacijos sąrašai ir pyliavų žiniaraščiai.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Partizanams užėmus miestelius, buvo naikinami valsčiaus dokumentai, mobilizacijos sąrašai ir pyliavų žiniaraščiai.'

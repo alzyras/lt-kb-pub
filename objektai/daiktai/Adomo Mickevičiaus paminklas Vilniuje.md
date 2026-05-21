@@ -55,12 +55,6 @@ Nenurodyta
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-006
-  teiginys: '1987 m. rugpjūčio 23 d. LLL iniciatyva prie Adomo Mickevičiaus paminklo Vilniuje surengtas protesto mitingas.'
-  pagrindžia:
-    - c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001

@@ -17,19 +17,13 @@ datos:
   - '1289 m.'
   - '1290 m.'
   - '1292 m.'
-  - '1936 m.'
-  - '1978 m.'
-  - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
+periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
-  - 'modernioji Lietuva'
 amziai:
   - 'XIII'
-  - 'XX'
-  - 'XXI'
 date_start: '1272'
-date_end: '2026'
+date_end: '1292'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -187,5 +181,3 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIII amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

@@ -9,16 +9,12 @@ saltiniai:
   - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
 bukle: juodrastis
 laikotarpis: "1791 m.; 1794 m."
-datos:
-  - "1791 m. spalio 20 d."
-  - "1794 m."
-periodas: "naujieji_laikai"
-periodo_grupes:
-  - "Abiejų Tautų Respublika"
-amziai:
-  - "XVIII"
-date_start: "1791"
-date_end: "1794"
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 vaidmenys:
   - "konstitucijos pataisos autorius"
 dalyviai: []
@@ -78,9 +74,6 @@ Tadas Korsakas siejamas su Abiejų Tautų tarpusavio įžado autoryste: šaltini
     - t-011
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVIII amžius]]
-
 ### Susiję objektai
 - [[objektai/ivykiai/1794 m. sukilimas Lietuvoje]]
 - [[objektai/ivykiai/1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas]]

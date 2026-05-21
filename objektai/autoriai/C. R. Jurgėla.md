@@ -13,10 +13,9 @@ datos:
   - '1923 m.'
   - '1948 m.'
   - '1961 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
+periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
-  - 'XX a.'
 amziai:
   - 'XV'
   - 'XIX'

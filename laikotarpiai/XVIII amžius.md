@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 133.
+Objektų skaičius: 126.
 
 ## Kaip naudoti
 
@@ -19,9 +19,7 @@ Objektų skaičius: 133.
 ## Susiję objektai
 
 ### Asmenys
-- [[objektai/asmenys/A. Smetona|A. Smetona (prezidentas, XX a.)]]
 - [[objektai/asmenys/Antanas Klementas]]
-- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
 - [[objektai/asmenys/Antanas Tyzenhauzas|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]
 - [[objektai/asmenys/Bogdanas Knorringas]]
 - [[objektai/asmenys/Ediga]]
@@ -42,20 +40,15 @@ Objektų skaičius: 133.
 - [[objektai/asmenys/Tadas Kosciuška]]
 
 ### Autoriai
-- [[objektai/autoriai/A. Šidlauskas]]
 - [[objektai/autoriai/Algimantas Daugirdas]]
-- [[objektai/autoriai/Andžej Geglis]]
 - [[objektai/autoriai/Arvydas Pociūnas]]
-- [Aug. Janulaitis](../objektai/autoriai/Aug.%20Janulaitis)
-- [Augustas Ludvikas Schlözeris](../objektai/autoriai/Augustas%20Ludvikas%20Schl%C3%B6zeris)
-- [Bumblauskas A](../objektai/autoriai/Bumblauskas%20A)
-- [Eduardas Brusokas](../objektai/autoriai/Eduardas%20Brusokas)
-- [Gintautas Jakštys](../objektai/autoriai/Gintautas%20Jak%C5%A1tys)
+- [[objektai/autoriai/Aug. Janulaitis]]
+- [[objektai/autoriai/Augustas Ludvikas Schlözeris]]
+- [[objektai/autoriai/Bumblauskas A]]
+- [[objektai/autoriai/Eduardas Brusokas]]
 - [Irena Zujienė](../objektai/autoriai/Irena%20Zujien%C4%97)
 - [K. Duonelaitis](../objektai/autoriai/K.%20Duonelaitis)
 - [Mykolas Kleopas Oginskis](../objektai/autoriai/Mykolas%20Kleopas%20Oginskis)
-- [S. Matulaitytė](../objektai/autoriai/S.%20Matulaityt%C4%97)
-- [Tadas Korsakas](../objektai/autoriai/Tadas%20Korsakas)
 - [Vilniaus Gaonas ben Saliamonas Zalmanas Elijas](../objektai/autoriai/Vilniaus%20Gaonas%20ben%20Saliamonas%20Zalmanas%20Elijas)
 
 ### Daiktai

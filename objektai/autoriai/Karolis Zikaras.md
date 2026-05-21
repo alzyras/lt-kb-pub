@@ -33,11 +33,9 @@ datos:
   - '1605 m.'
   - '1609 m.'
   - '1621 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodas: 'viduramžiai'
 periodo_grupes:
-  - 'LDK'
   - 'viduramžiai'
-  - 'šiuolaikinė Lietuva'
 amziai:
   - 'XIII'
   - 'XIV'
@@ -47,7 +45,6 @@ amziai:
   - 'XVIII'
   - 'XIX'
   - 'XX'
-  - 'XXI'
 date_start: '1236'
 date_end: '1621'
 laikotarpis: ''

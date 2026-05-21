@@ -9,28 +9,16 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
-  - '1350 m.'
   - '1377 m.'
   - '1384 m.'
-  - '1385 m.'
   - '1386 m.'
-  - '1399 m.'
-  - '1430 m.'
-  - '1569 m.'
-  - '1930 m.'
-  - '1936 m.'
-  - '2026 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
   - 'XIV'
-  - 'XV'
-  - 'XVI'
-  - 'XX'
-  - 'XXI'
-date_start: '1350'
-date_end: '2026'
+date_start: '1377'
+date_end: '1386'
 patikimumas: 'vidutinis'
 tags:
   - karalienė
@@ -331,9 +319,6 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XV amžius]]
-- [[laikotarpiai/XVI amžius]]
-- [[laikotarpiai/XX amžius]]
 
 ### Susiję objektai
 - [[objektai/asmenys/Ona Vytautienė]]

@@ -8,25 +8,16 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1793 m.'
-  - '1801 m.'
   - '1822 m.'
-  - '1848 m.'
-  - '1850 m.'
   - '1864 m.'
-  - '1875 m.'
-  - '2013 m.'
-  - '2026 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
-  - 'naujieji laikai'
-  - 'šiuolaikinė Lietuva'
 amziai:
   - 'XVIII'
   - 'XIX'
-  - 'XXI'
 date_start: '1793'
-date_end: '2026'
+date_end: '1864'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -70,7 +61,6 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
 ### Laikotarpiai
 - [[laikotarpiai/XIX amžius]]
 - [[laikotarpiai/XVIII amžius]]
-- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/asmenys/Jonas Mačiulis-Maironis]]

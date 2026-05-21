@@ -8,14 +8,13 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '2013 m.'
-  - '2026 m.'
 periodas: 'atkurtos nepriklausomybės laikotarpis'
 periodo_grupes:
   - 'šiuolaikinė Lietuva'
 amziai:
   - 'XXI'
 date_start: '2013'
-date_end: '2026'
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - autorius

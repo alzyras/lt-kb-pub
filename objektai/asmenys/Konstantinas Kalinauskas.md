@@ -8,17 +8,13 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1863 m.'
-  - '2013 m.'
-  - '2026 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
 periodo_grupes:
   - 'naujieji laikai'
-  - 'šiuolaikinė Lietuva'
 amziai:
   - 'XIX'
-  - 'XXI'
 date_start: '1863'
-date_end: '2026'
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -117,7 +113,6 @@ Lenkijos sukilėlių vyriausybė į Lietuvos sukilimo vadovybę grąžino „rau
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIX amžius]]
-- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/grupes/Laikinoji Vyriausybė Lietuvoje]]

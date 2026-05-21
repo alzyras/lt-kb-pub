@@ -6,14 +6,11 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos:
-  - '1946 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
-date_start: '1946'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
 tags:
@@ -54,7 +51,3 @@ Kautynių metu žuvo Neifalto-Lakūno žmona, partizanė slapyvardžiu „Pušel
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]

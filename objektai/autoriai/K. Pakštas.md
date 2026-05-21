@@ -7,20 +7,16 @@ aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1924 m.'
-  - '1929 m.'
   - '1950 m.'
   - '1951 m.'
   - '1956 m.'
-  - '1960 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
+periodas: 'okupacijų ir sovietmečio laikotarpis'
 periodo_grupes:
   - 'XX a.'
-  - 'modernioji Lietuva'
 amziai:
   - 'XX'
-date_start: '1924'
-date_end: '1960'
+date_start: '1950'
+date_end: '1956'
 patikimumas: 'vidutinis'
 tags:
   - autorius

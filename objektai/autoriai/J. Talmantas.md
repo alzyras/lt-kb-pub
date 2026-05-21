@@ -9,16 +9,13 @@ saltiniai:
 datos:
   - '1926 m.'
   - '1935 m.'
-  - '1978 m.'
-  - '2026 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
   - 'modernioji Lietuva'
 amziai:
   - 'XX'
-  - 'XXI'
 date_start: '1926'
-date_end: '2026'
+date_end: '1935'
 patikimumas: 'vidutinis'
 tags:
   - autorius
@@ -102,4 +99,3 @@ Talmantas, Kaunas 1935 (vokišką santrauką gerai paruošė V.
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

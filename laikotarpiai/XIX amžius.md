@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 205.
+Objektų skaičius: 189.
 
 ## Kaip naudoti
 
@@ -19,16 +19,12 @@ Objektų skaičius: 205.
 ## Susiję objektai
 
 ### Asmenys
-- [[objektai/asmenys/A. Smetona|A. Smetona (prezidentas, XX a.)]]
 - [[objektai/asmenys/Antanas Mackevičius]]
 - [[objektai/asmenys/Bernardas Berensonas]]
 - [[objektai/asmenys/Chaim Soutin]]
-- [[objektai/asmenys/Czesław Miłosz]]
 - [[objektai/asmenys/H. Dembinskis]]
 - [[objektai/asmenys/Ignotas Masalskis|Ignotas Masalskis (vyskupas, XVIII–XIX a.)]]
 - [[objektai/asmenys/Jascha Heifetz]]
-- [[objektai/asmenys/Jonas Mačiulis-Maironis]]
-- [[objektai/asmenys/Julija Žymantienė-Žemaitė]]
 - [[objektai/asmenys/Jurgis Mačiūnas]]
 - [[objektai/asmenys/Kazys Ladyga]]
 - [[objektai/asmenys/Konstantinas Kalinauskas]]
@@ -37,6 +33,7 @@ Objektų skaičius: 205.
 - [[objektai/asmenys/Martynas Knakfusas|Martynas Knakfusas (vyskupas, XVIII–XIX a.)]]
 - [[objektai/asmenys/Michailas Muravjovas]]
 - [[objektai/asmenys/Mikalojus Akelaitis]]
+- [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis|Mikalojus Konstantinas Čiurlionis (dailininkas)]]
 - [[objektai/asmenys/Simonas Daukantas]]
 - [[objektai/asmenys/Simonas Stanevičius]]
 - [[objektai/asmenys/Teofilis Lapinskis]]
@@ -46,11 +43,10 @@ Objektų skaičius: 205.
 - [[objektai/autoriai/A. Lewicki]]
 - [[objektai/autoriai/A. Mierzyński]]
 - [[objektai/autoriai/A. Prochaska]]
-- [A. Tyla](../objektai/autoriai/A.%20Tyla)
-- [A. Veryha - Darevskis](../objektai/autoriai/A.%20Veryha%20-%20Darevskis)
-- [A. Werminghoef](../objektai/autoriai/A.%20Werminghoef)
+- [[objektai/autoriai/A. Tyla]]
+- [[objektai/autoriai/A. Veryha - Darevskis]]
+- [[objektai/autoriai/A. Werminghoef]]
 - [Algimantas Daugirdas](../objektai/autoriai/Algimantas%20Daugirdas)
-- [Andžej Geglis](../objektai/autoriai/And%C5%BEej%20Geglis)
 - [Antonovič, V. B](../objektai/autoriai/Antonovi%C4%8D%2C%20V.%20B)
 - [Arvydas Pociūnas](../objektai/autoriai/Arvydas%20Poci%C5%ABnas)
 - [Aug. Janulaitis](../objektai/autoriai/Aug.%20Janulaitis)
@@ -60,20 +56,15 @@ Objektų skaičius: 205.
 - [F. Sliesoriūnas](../objektai/autoriai/F.%20Sliesori%C5%ABnas)
 - [Fijalek, J](../objektai/autoriai/Fijalek%2C%20J)
 - [G. F. Karpov](../objektai/autoriai/G.%20F.%20Karpov)
-- [Gintautas Jakštys](../objektai/autoriai/Gintautas%20Jak%C5%A1tys)
 - [Gókski, K](../objektai/autoriai/G%C3%B3kski%2C%20K)
 - [H. Spliet](../objektai/autoriai/H.%20Spliet)
 - [H. Useser](../objektai/autoriai/H.%20Useser)
 - [Hevekeb, K](../objektai/autoriai/Hevekeb%2C%20K)
-- [I. Jonynas](../objektai/autoriai/I.%20Jonynas)
-- [Ig. Jonynas](../objektai/autoriai/Ig.%20Jonynas)
 - [Ilovajskij, D. J](../objektai/autoriai/Ilovajskij%2C%20D.%20J)
 - [J. Aničas](../objektai/autoriai/J.%20Ani%C4%8Das)
-- [J. Dąbrowski](../objektai/autoriai/J.%20D%C4%85browski)
 - [J. Jakubovskis](../objektai/autoriai/J.%20Jakubovskis)
 - [J. Jaroszewicz](../objektai/autoriai/J.%20Jaroszewicz)
 - [J. Kochanowski](../objektai/autoriai/J.%20Kochanowski)
-- [J. Latkowski](../objektai/autoriai/J.%20Latkowski)
 - [J. Voigt](../objektai/autoriai/J.%20Voigt)
 - [Jokimas Lelevelis](../objektai/autoriai/Jokimas%20Lelevelis)
 - [Jurgėla, C. R](../objektai/autoriai/Jurg%C4%97la%2C%20C.%20R)
@@ -94,13 +85,10 @@ Objektų skaičius: 205.
 - [Liubavskij, M](../objektai/autoriai/Liubavskij%2C%20M)
 - [M. Dovnar-Zapol’skij](../objektai/autoriai/M.%20Dovnar-Zapol%E2%80%99skij)
 - [M. F. Vladimirskij-Budanov](../objektai/autoriai/M.%20F.%20Vladimirskij-Budanov)
-- [M. Hruševskis](../objektai/autoriai/M.%20Hru%C5%A1evskis)
-- [M. K. Liubavskis](../objektai/autoriai/M.%20K.%20Liubavskis)
 - [M. Ljubavskij](../objektai/autoriai/M.%20Ljubavskij)
 - [M. Stryjkowski](../objektai/autoriai/M.%20Stryjkowski)
 - [M. Wolonczewskis (Valančius)](../objektai/autoriai/M.%20Wolonczewskis%20%28Valan%C4%8Dius%29)
 - [Motiejus Valančius](../objektai/autoriai/Motiejus%20Valan%C4%8Dius)
-- [Mykolas Kleopas Oginskis](../objektai/autoriai/Mykolas%20Kleopas%20Oginskis)
 - [Nieborowski, P](../objektai/autoriai/Nieborowski%2C%20P)
 - [O. Maksimaitienė](../objektai/autoriai/O.%20Maksimaitien%C4%97)
 - [O. Urbonas](../objektai/autoriai/O.%20Urbonas)
@@ -108,17 +96,13 @@ Objektų skaičius: 205.
 - [P. Žostautaitė](../objektai/autoriai/P.%20%C5%BDostautait%C4%97)
 - [R. Krasauskas](../objektai/autoriai/R.%20Krasauskas)
 - [R. Strazdūnaitė](../objektai/autoriai/R.%20Strazd%C5%ABnait%C4%97)
-- [R. Vėbra](../objektai/autoriai/R.%20V%C4%97bra)
 - [Rėza (leidėjas, 1818 m.)](../objektai/autoriai/R%C4%97za%20%28leid%C4%97jas%2C%201818%20m.%29)
 - [S. Ekdahl](../objektai/autoriai/S.%20Ekdahl)
-- [S. Samalavičius](../objektai/autoriai/S.%20Samalavi%C4%8Dius)
 - [Smolka, St](../objektai/autoriai/Smolka%2C%20St)
 - [St. Smolka](../objektai/autoriai/St.%20Smolka)
 - [Szyszman, A](../objektai/autoriai/Szyszman%2C%20A)
 - [Thunert, E](../objektai/autoriai/Thunert%2C%20E)
 - [Urbonas, O](../objektai/autoriai/Urbonas%2C%20O)
-- [V. Merkys](../objektai/autoriai/V.%20Merkys)
-- [V. Milius](../objektai/autoriai/V.%20Milius)
 - [V. Černeckis](../objektai/autoriai/V.%20%C4%8Cerneckis)
 - [W. Zakrzewski](../objektai/autoriai/W.%20Zakrzewski)
 - [Werminghoef, A](../objektai/autoriai/Werminghoef%2C%20A)

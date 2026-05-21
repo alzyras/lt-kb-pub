@@ -8,16 +8,13 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
   - '1928 m.'
-  - '1936 m.'
-  - '2026 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
   - 'modernioji Lietuva'
 amziai:
   - 'XX'
-  - 'XXI'
 date_start: '1928'
-date_end: '2026'
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - autorius
@@ -59,4 +56,3 @@ Arbusow, Grundriss d. Geschichte Liw-, Estund Kurlands (1889; yra dar 3 laidos);
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

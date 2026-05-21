@@ -11,18 +11,14 @@ datos:
   - '1907 m.'
   - '1912 m.'
   - '1921 m.'
-  - '1978 m.'
-  - '2026 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
-  - 'naujieji laikai'
 amziai:
   - 'XIV'
   - 'XX'
-  - 'XXI'
 date_start: '1387'
-date_end: '2026'
+date_end: '1921'
 patikimumas: 'vidutinis'
 tags:
   - autorius
@@ -80,4 +76,3 @@ Jakubowski, J.: Opis księstwa trockiego w 1387 r ., PH, t.
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
 - [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

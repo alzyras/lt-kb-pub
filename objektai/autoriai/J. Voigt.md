@@ -12,19 +12,14 @@ datos:
   - '1838 m.'
   - '1857 m.'
   - '1859 m.'
-  - '1936 m.'
-  - '2026 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
+periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
-  - 'modernioji Lietuva'
 amziai:
   - 'XVI'
   - 'XIX'
-  - 'XX'
-  - 'XXI'
 date_start: '1525'
-date_end: '2026'
+date_end: '1859'
 patikimumas: 'vidutinis'
 tags:
   - autorius
@@ -68,8 +63,6 @@ Voigt, Geschichte Preussens (iki 1525 m.), I-IX (1827-1839);.
 ### Laikotarpiai
 - [[laikotarpiai/XIX amžius]]
 - [[laikotarpiai/XVI amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/autoriai/Lenkų istorikai ir Lietuvos istoriografijos tyrėjai]]

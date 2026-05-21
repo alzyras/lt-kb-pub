@@ -13,18 +13,14 @@ datos:
   - '1769 m.'
   - '1773 m.'
   - '1821 m.'
-  - '2013 m.'
-  - '2026 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
-  - 'šiuolaikinė Lietuva'
 amziai:
   - 'XVIII'
   - 'XIX'
-  - 'XXI'
 date_start: '1740'
-date_end: '2026'
+date_end: '1821'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -91,7 +87,6 @@ Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vy
 ### Laikotarpiai
 - [[laikotarpiai/XIX amžius]]
 - [[laikotarpiai/XVIII amžius]]
-- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/asmenys/Martynas Knakfusas]]

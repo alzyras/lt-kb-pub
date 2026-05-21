@@ -6,14 +6,11 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos:
-  - '1972 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
-periodo_grupes:
-  - 'XX a.'
-amziai:
-  - 'XX'
-date_start: '1972'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
 tags:
@@ -54,8 +51,5 @@ Ochmańskio raštai, P. Ochmański, J.
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
 ### Susiję objektai
 - [[objektai/autoriai/Lenkų istorikai ir Lietuvos istoriografijos tyrėjai]]

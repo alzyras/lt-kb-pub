@@ -18,23 +18,14 @@ vaidmenys:
 dalyviai: []
 susije_irasai: []
 datos:
-  - '1350 m.'
-  - '1430 m.'
   - '1907 m.'
-  - '1908 m.'
-  - '1930 m.'
-  - '1936 m.'
-  - '2026 m.'
-periodas: 'LDK laikotarpis'
+periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
 periodo_grupes:
-  - 'LDK'
+  - 'naujieji laikai'
 amziai:
-  - 'XIV'
-  - 'XV'
   - 'XX'
-  - 'XXI'
-date_start: '1350'
-date_end: '2026'
+date_start: '1907'
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - autorius
@@ -135,7 +126,4 @@ K. Lohmeyer minimas kaip istorikas ir autorius. Ankstesniame viešame įraše ji
 
 ## Ryšiai
 ### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XV amžius]]
 - [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

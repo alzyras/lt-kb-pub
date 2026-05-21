@@ -350,6 +350,41 @@ function syncEmptyState(
   }
 }
 
+function syncCurrentPageFilter() {
+  const body = document.body
+  const center = document.querySelector<HTMLElement>(".center")
+  if (!center || !body) {
+    return
+  }
+
+  const filterable = body.dataset.citationFilterable === "true"
+  const quoteCount = Number(body.dataset.quoteCount ?? "0")
+  const sourceIds = parseSourceIds(body.dataset.citationSources)
+  const optionsOk = optionsMatchItem({ filterable, quoteCount, sourceIds })
+  const shouldHide = optionFiltersActive() && !optionsOk
+
+  let notice = center.querySelector<HTMLElement>("[data-current-options-empty]")
+  if (!notice) {
+    notice = document.createElement("div")
+    notice.className = "options-filter-empty"
+    notice.setAttribute("data-current-options-empty", "true")
+    notice.hidden = true
+    center.insertBefore(notice, center.firstChild)
+  }
+  notice.textContent =
+    "Šis puslapis neatitinka pasirinktų citatų filtrų. Sumažink min. citatų skaičių arba atstatyk filtrus."
+  notice.hidden = !shouldHide
+
+  center
+    .querySelectorAll<HTMLElement>(":scope > .page-header, :scope > article, :scope > hr")
+    .forEach((element) => {
+      if (element === notice) {
+        return
+      }
+      element.hidden = shouldHide
+    })
+}
+
 function applyCitationFilters() {
   const citationEntries = document.querySelectorAll<HTMLElement>('[data-citation-entry="true"]')
   const visibleCitationIds = new Set<string>()
@@ -405,6 +440,7 @@ function applyFilters() {
   applyListFilters()
   applyExplorerFilters()
   applyCitationFilters()
+  syncCurrentPageFilter()
   syncPanelState()
   document.dispatchEvent(new CustomEvent("quartz-options-change"))
 }

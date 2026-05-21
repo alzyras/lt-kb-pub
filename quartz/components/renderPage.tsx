@@ -1,3 +1,4 @@
+import fs from "node:fs"
 import { render } from "preact-render-to-string"
 import { QuartzComponent, QuartzComponentProps } from "./types"
 import HeaderConstructor from "./Header"
@@ -9,6 +10,7 @@ import { visit } from "unist-util-visit"
 import { Root, Element, ElementContent } from "hast"
 import { GlobalConfiguration } from "../cfg"
 import { i18n } from "../i18n"
+import { collectCitationMetadata, isObjectPage } from "../util/citationFilter"
 import { styleText } from "util"
 
 interface RenderComponents {
@@ -268,10 +270,44 @@ export function renderPage(
 
   const lang = componentData.fileData.frontmatter?.lang ?? cfg.locale?.split("-")[0] ?? "en"
   const direction = i18n(cfg.locale).direction ?? "ltr"
+  const frontmatter = componentData.fileData.frontmatter as
+    | {
+        citatu_skaicius?: number
+        citatu_saltiniu_id?: string[]
+      }
+    | undefined
+  const citationFilter = componentData.fileData.citationFilter as
+    | {
+        quoteCount?: number
+        sourceIds?: string[]
+      }
+    | undefined
+  const filePath = String(componentData.fileData.filePath ?? "")
+  const relativePath = String(componentData.fileData.relativePath ?? "")
+  const fileCitationFilter =
+    filePath && isObjectPage(relativePath)
+      ? collectCitationMetadata(fs.readFileSync(filePath, "utf8"))
+      : citationFilter
+  const currentQuoteCount = Number(fileCitationFilter?.quoteCount ?? frontmatter?.citatu_skaicius ?? 0)
+  const rawSourceIds = Array.isArray(fileCitationFilter?.sourceIds)
+    ? fileCitationFilter.sourceIds
+    : frontmatter?.citatu_saltiniu_id
+  const currentSourceIds = Array.isArray(rawSourceIds)
+    ? rawSourceIds.filter((value): value is string => typeof value === "string")
+    : []
+  const currentCitationFilterable = Boolean(
+    String(slug).startsWith("objektai/") &&
+      (fileCitationFilter || currentQuoteCount > 0 || currentSourceIds.length > 0),
+  )
   const doc = (
     <html lang={lang} dir={direction}>
       <Head {...componentData} />
-      <body data-slug={slug}>
+      <body
+        data-slug={slug}
+        data-citation-filterable={currentCitationFilterable ? "true" : "false"}
+        data-quote-count={`${currentQuoteCount}`}
+        data-citation-sources={currentSourceIds.join("|")}
+      >
         <div id="quartz-root" class="page">
           <Body {...componentData}>
             {LeftComponent}

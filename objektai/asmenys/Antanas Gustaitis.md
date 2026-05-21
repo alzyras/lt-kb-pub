@@ -9,17 +9,13 @@ saltiniai:
 datos:
   - '1934 m.'
   - '1939 m.'
-  - '2013 m.'
-  - '2026 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
   - 'modernioji Lietuva'
-  - 'šiuolaikinė Lietuva'
 amziai:
   - 'XX'
-  - 'XXI'
 date_start: '1934'
-date_end: '2026'
+date_end: '1939'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -63,4 +59,3 @@ Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, buvęs Lie
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

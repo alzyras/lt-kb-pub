@@ -9,18 +9,14 @@ saltiniai:
 datos:
   - '1390 m.'
   - '1429 m.'
-  - '1936 m.'
-  - '2026 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
   - 'XIV'
   - 'XV'
-  - 'XX'
-  - 'XXI'
 date_start: '1390'
-date_end: '2026'
+date_end: '1429'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -84,8 +80,6 @@ Lenkijos maršalkos Bartušo ir 6) Zavišos Juodojo (rašte minimas dar Lietuvos
 ### Laikotarpiai
 - [[laikotarpiai/XIV amžius]]
 - [[laikotarpiai/XV amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/asmenys/Gedgaudas]]

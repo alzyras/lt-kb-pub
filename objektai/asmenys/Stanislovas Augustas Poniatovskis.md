@@ -13,18 +13,14 @@ datos:
   - '1733 m.'
   - '1763 m.'
   - '1764 m.'
-  - '2013 m.'
-  - '2026 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
-  - 'šiuolaikinė Lietuva'
 amziai:
   - 'XVII'
   - 'XVIII'
-  - 'XXI'
 date_start: '1697'
-date_end: '2026'
+date_end: '1764'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -274,4 +270,3 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
 ### Laikotarpiai
 - [[laikotarpiai/XVII amžius]]
 - [[laikotarpiai/XVIII amžius]]
-- [[laikotarpiai/XXI amžius]]

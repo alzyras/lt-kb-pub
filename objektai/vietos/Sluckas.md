@@ -43,12 +43,6 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: 'Per maištą Sluckas ir Minskas nepasidavė, nors Mozyrių ir Turovą sukilėliui pavyko užimti.'
-  pagrindžia:
-    - c-003
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 - t-004
   teiginys: 'Slucke buvo įkurta jėzuitų kolegija, paremta sudėtine fundacija.'
   pagrindžia:

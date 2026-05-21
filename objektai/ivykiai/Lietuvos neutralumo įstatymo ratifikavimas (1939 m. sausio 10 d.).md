@@ -37,12 +37,6 @@ Nenurodyta
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: '1938 m. vasarą trijų Baltijos šalių užsienio reikalų ministrai nutarė neleisti užsienio kariuomenėms kirsti jų teritorijų.'
-  pagrindžia:
-    - c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001

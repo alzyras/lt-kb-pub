@@ -6,17 +6,12 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos:
-  - '1900 m.'
-  - '1901 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XIX'
-  - 'XX'
-date_start: '1900'
-date_end: '1901'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - autorius
@@ -57,8 +52,3 @@ Liubavskis. Liubavskij : Oblastnoe delenie (LOD); Litovsko-russkij sejm (ČIObč
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIX amžius]]
-- [[laikotarpiai/XX amžius]]

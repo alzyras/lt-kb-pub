@@ -9,9 +9,8 @@ saltiniai:
 datos:
   - '1888 m.'
   - '1963 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
+periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
 periodo_grupes:
-  - 'XX a.'
   - 'naujieji laikai'
 amziai:
   - 'XIX'

@@ -13,13 +13,16 @@ saltiniai:
 bukle: juodrastis
 laikotarpis: ''
 datos:
-  - '1875–1911'
-  - '1908 m.'
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
+  - '1875 m.'
+  - '1911 m.'
+periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
+periodo_grupes:
+  - 'naujieji laikai'
+amziai:
+  - 'XIX'
+  - 'XX'
+date_start: '1875'
+date_end: '1911'
 vaidmenys:
   - 'dailininkas'
   - 'kompozitorius'
@@ -127,6 +130,7 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
 
 ## Ryšiai
 ### Laikotarpiai
+- [[laikotarpiai/XIX amžius]]
 - [[laikotarpiai/XX amžius]]
 
 ### Susiję objektai

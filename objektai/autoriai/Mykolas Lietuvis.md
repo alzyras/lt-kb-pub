@@ -17,16 +17,13 @@ susije_irasai: []
 datos:
   - '1530 m.'
   - '1550 m.'
-  - '2013 m.'
-  - '2026 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
   - 'XVI'
-  - 'XXI'
 date_start: '1530'
-date_end: '2026'
+date_end: '1550'
 patikimumas: "aukštas"
 tags:
   - autorius
@@ -99,7 +96,6 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XVI amžius]]
-- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/ivykiai/Oršos mūšis (1514 m. rugsėjo 8 d.)]]

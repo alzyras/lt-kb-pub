@@ -37,12 +37,6 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Maišto metu jam pavyko užimti tik Mozyrių ir Turovą, o Sluckas ir Minskas nepasidavė.'
-  pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 - t-003
   teiginys: 'Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo tekusios Pinsko ir Turovo kunigaikštijos, t.'
   pagrindžia:

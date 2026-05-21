@@ -7,17 +7,11 @@ variantai:
 aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos:
-  - '2013 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XVIII'
-  - 'XIX'
-  - 'XX'
-  - 'XXI'
-date_start: '2013'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
 date_end: ''
 laikotarpis: ''
 vaidmenys:
@@ -75,11 +69,6 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
   teiginys: 'Andžej Geglis kartu su Karoliu Zikaru buvo teksto „Automatiniai šautuvai“ bendraautoris.'
   pagrindžia:
     - c-007
-- t-010
-  teiginys: 'Andžej Geglis kartu su Karoliu Zikaru buvo teksto „Kalašnikovo sistemos automatiniai šautuvai“ bendraautoris.'
-  pagrindžia:
-    - c-008
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Andžej Geglis kartu su Karoliu Zikaru buvo teksto „Kalašnikovo sistemos automatiniai šautuvai“ bendraautoris.'
@@ -188,10 +177,3 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-010
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIX amžius]]
-- [[laikotarpiai/XVIII amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

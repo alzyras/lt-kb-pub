@@ -15,11 +15,13 @@ laikotarpis: ''
 datos:
   - '1769 m.'
   - '1791 m.'
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVIII'
+date_start: '1769'
+date_end: '1791'
 vaidmenys:
   - 'reformų veikėjas'
 dalyviai: []

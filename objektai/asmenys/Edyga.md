@@ -7,23 +7,15 @@ aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
-  - '1350 m.'
-  - '1412 m.'
   - '1414 m.'
   - '1416 m.'
-  - '1430 m.'
-  - '1930 m.'
-  - '2026 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
-  - 'XIV'
   - 'XV'
-  - 'XX'
-  - 'XXI'
-date_start: '1350'
-date_end: '2026'
+date_start: '1414'
+date_end: '1416'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -92,7 +84,4 @@ Unijos darbui nemažai sutrukdė ir totoriai, kurie, vadovau­ jant Vorsklos nug
 
 ## Ryšiai
 ### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
 - [[laikotarpiai/XV amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

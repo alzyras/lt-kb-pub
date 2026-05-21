@@ -6,11 +6,10 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos: []
+datos:
 periodas: ''
-periodo_grupes: []
-amziai:
-  - 'XIX'
+periodo_grupes:
+amziai: []
 date_start: ''
 date_end: ''
 patikimumas: 'vidutinis'
@@ -45,7 +44,3 @@ Vėbra^128.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIX amžius]]

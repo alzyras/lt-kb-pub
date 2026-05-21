@@ -10,23 +10,12 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos:
-  - '1908 m.'
-  - '1909 m.'
-  - '1924 m.'
-  - '1936 m.'
-  - '1958 m.'
-  - '1961 m.'
-  - '1978 m.'
-  - '2026 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
-amziai:
-  - 'XX'
-  - 'XXI'
-date_start: '1908'
-date_end: '2026'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 laikotarpis: '1908; 1909 m.; 1924 m.; 1958-1961 m.'
 vaidmenys:
   - 'kalbininkas'
@@ -116,8 +105,3 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

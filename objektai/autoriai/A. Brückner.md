@@ -10,17 +10,13 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1931 m.'
-  - '1936 m.'
-  - '1978 m.'
-  - '2026 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
   - 'modernioji Lietuva'
 amziai:
   - 'XX'
-  - 'XXI'
 date_start: '1931'
-date_end: '2026'
+date_end: ''
 laikotarpis: '1931 m.'
 vaidmenys:
   - 'istorikas'
@@ -129,7 +125,6 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/autoriai/Pr. Papée]]

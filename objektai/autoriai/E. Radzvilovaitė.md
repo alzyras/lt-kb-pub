@@ -12,7 +12,6 @@ periodas: 'okupacijų ir sovietmečio laikotarpis'
 periodo_grupes:
   - 'XX a.'
 amziai:
-  - 'VIII'
   - 'XX'
 date_start: '1966'
 date_end: ''
@@ -81,7 +80,6 @@ Radzvilovaitė pateikė žinių apie lietuvių genčių skydus II-VIII a. Radzvi
 
 ## Ryšiai
 ### Laikotarpiai
-- [[laikotarpiai/VIII amžius]]
 - [[laikotarpiai/XX amžius]]
 
 ### Susiję objektai

@@ -6,17 +6,12 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos:
-  - '2013 m.'
-  - '2026 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
-periodo_grupes:
-  - 'šiuolaikinė Lietuva'
-amziai:
-  - 'XVII'
-  - 'XXI'
-date_start: '2013'
-date_end: '2026'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -166,9 +161,5 @@ Pavasarį paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu buvęs Rusijos a
     - t-006
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVII amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Daugpilis]]

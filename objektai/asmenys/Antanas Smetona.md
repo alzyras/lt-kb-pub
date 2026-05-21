@@ -9,11 +9,7 @@ aliases:
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
-  - '1793 m.'
-  - '1795 m.'
-  - '1916 m.'
   - '1917 m.'
-  - '1918 m.'
   - '1919 m.'
   - '1920 m.'
   - '1923 m.'
@@ -24,20 +20,13 @@ datos:
   - '1938 m.'
   - '1939 m.'
   - '1940 m.'
-  - '2013 m.'
-  - '2026 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
 periodo_grupes:
-  - 'LDK'
-  - 'modernioji Lietuva'
   - 'naujieji laikai'
-  - 'šiuolaikinė Lietuva'
 amziai:
-  - 'XVIII'
   - 'XX'
-  - 'XXI'
-date_start: '1793'
-date_end: '2026'
+date_start: '1917'
+date_end: '1940'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -492,9 +481,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 - [[temos/redaktorius]]
 
 ### Laikotarpiai
-- [[laikotarpiai/XVIII amžius]]
 - [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/ivykiai/1938 m. Lietuvos Konstitucijos paskelbimas (1938 m. gegužės 12 d.)]]

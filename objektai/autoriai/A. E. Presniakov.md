@@ -13,7 +13,6 @@ periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
 periodo_grupes:
   - 'naujieji laikai'
 amziai:
-  - 'XIII'
   - 'XX'
 date_start: '1908'
 date_end: '1910'
@@ -56,5 +55,4 @@ Lietuvos istorijos klausimus nuo XIII a. vidurio iki Liublino unijos savo paskai
 
 ## Ryšiai
 ### Laikotarpiai
-- [[laikotarpiai/XIII amžius]]
 - [[laikotarpiai/XX amžius]]

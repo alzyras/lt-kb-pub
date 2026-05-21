@@ -13,7 +13,6 @@ periodas: 'okupacijų ir sovietmečio laikotarpis'
 periodo_grupes:
   - 'XX a.'
 amziai:
-  - 'XIX'
   - 'XX'
 date_start: '1965'
 date_end: '1968'
@@ -58,7 +57,6 @@ Milius (AkMD, t.
 
 ## Ryšiai
 ### Laikotarpiai
-- [[laikotarpiai/XIX amžius]]
 - [[laikotarpiai/XX amžius]]
 
 ### Susiję objektai

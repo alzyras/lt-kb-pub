@@ -9,17 +9,13 @@ saltiniai:
 datos:
   - '1955 m.'
   - '1961 m.'
-  - '1962 m.'
-  - '1964 m.'
-  - '1965 m.'
-  - '1966 m.'
 periodas: 'okupacijų ir sovietmečio laikotarpis'
 periodo_grupes:
   - 'XX a.'
 amziai:
   - 'XX'
 date_start: '1955'
-date_end: '1966'
+date_end: '1961'
 patikimumas: 'vidutinis'
 tags:
   - autorius

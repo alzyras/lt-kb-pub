@@ -12,15 +12,16 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 laikotarpis: '1936 m. (veikalo sudarymo kontekstas); 1929 m.; 1940 m.; 1960 m.'
 datos:
-  - '1936 m. (veikalo sudarymo kontekstas)'
   - '1929 m.'
   - '1940 m.'
   - '1960 m.'
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+date_start: '1929'
+date_end: '1960'
 vaidmenys:
   - 'autorius'
   - 'istorikas'

@@ -16,22 +16,13 @@ datos:
   - '1576 m.'
   - '1581 m.'
   - '1582 m.'
-  - '1586 m.'
-  - '1609 m.'
-  - '1611 m.'
-  - '1936 m.'
-  - '2013 m.'
-  - '2026 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
   - 'XVI'
-  - 'XVII'
-  - 'XX'
-  - 'XXI'
 date_start: '1558'
-date_end: '2026'
+date_end: '1582'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -170,9 +161,6 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XVI amžius]]
-- [[laikotarpiai/XVII amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/daiktai/Stepono Batoro paradinis kalavijas]]

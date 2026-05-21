@@ -14,11 +14,12 @@ bukle: juodrastis
 laikotarpis: ''
 datos:
   - '1569 m.'
-  - '1579 m. balandžio 1 d.'
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVI'
+date_start: '1569'
 date_end: ''
 vaidmenys:
   - 'vyskupas'

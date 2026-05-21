@@ -17,16 +17,13 @@ dalyviai: []
 susije_irasai: []
 datos:
   - '1575 m.'
-  - '2013 m.'
-  - '2026 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
   - 'XVI'
-  - 'XXI'
 date_start: '1575'
-date_end: '2026'
+date_end: ''
 patikimumas: aukštas
 tags:
   - didikas
@@ -69,4 +66,3 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
 
 ### Laikotarpiai
 - [[laikotarpiai/XVI amžius]]
-- [[laikotarpiai/XXI amžius]]

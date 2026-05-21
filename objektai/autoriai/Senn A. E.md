@@ -19,19 +19,15 @@ datos:
   - '2006 m.'
   - '2009 m.'
   - '2010 m.'
-  - '2013 m.'
-  - '2026 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
-  - 'modernioji Lietuva'
-  - 'šiuolaikinė Lietuva'
 amziai:
   - 'XV'
   - 'XX'
   - 'XXI'
 date_start: '1410'
-date_end: '2026'
+date_end: '2010'
 patikimumas: 'vidutinis'
 tags:
   - autorius

@@ -14,20 +14,15 @@ datos:
   - '1341 m.'
   - '1362 m.'
   - '1991 m.'
-  - '2013 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodas: 'viduramžiai'
 periodo_grupes:
-  - 'LDK'
   - 'viduramžiai'
-  - 'šiuolaikinė Lietuva'
 amziai:
   - 'XIII'
   - 'XIV'
-  - 'XV'
   - 'XX'
-  - 'XXI'
 date_start: '1236'
-date_end: '2013'
+date_end: '1991'
 laikotarpis: ''
 vaidmenys:
   - 'bendraautorė'
@@ -228,7 +223,6 @@ Loreta Uzdraitė šiame leidinyje minima kaip kelių žemėlapių, schemų ir in
 ### Laikotarpiai
 - [[laikotarpiai/XIII amžius]]
 - [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XV amžius]]
 - [[laikotarpiai/XX amžius]]
 
 ### Susiję objektai

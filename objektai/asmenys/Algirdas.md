@@ -20,15 +20,10 @@ vaidmenys:
 dalyviai: []
 susije_irasai: []
 datos:
-  - '1322 m.'
   - '1345 m.'
   - '1358 m.'
   - '1360 m.'
   - '1362 m.'
-  - '1363 m.'
-  - '1368 m.'
-  - '1370 m.'
-  - '1372 m.'
   - '1377 m.'
   - '1386 m.'
   - '1392 m.'
@@ -37,10 +32,6 @@ datos:
   - '1490 m.'
   - '1506 m.'
   - '1526 m.'
-  - '1936 m.'
-  - '1978 m.'
-  - '2013 m.'
-  - '2026 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
@@ -48,10 +39,8 @@ amziai:
   - 'XIV'
   - 'XV'
   - 'XVI'
-  - 'XX'
-  - 'XXI'
-date_start: '1322'
-date_end: '2026'
+date_start: '1345'
+date_end: '1526'
 patikimumas: 'aukštas'
 tags:
   - asmuo
@@ -404,7 +393,6 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
 - [[laikotarpiai/XIV amžius]]
 - [[laikotarpiai/XV amžius]]
 - [[laikotarpiai/XVI amžius]]
-- [[laikotarpiai/XX amžius]]
 
 ### Susiję objektai
 - [[objektai/asmenys/Jaunutis]]

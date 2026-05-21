@@ -33,7 +33,6 @@ susije_irasai: []
 datos:
   - '1350 m.'
   - '1377 m.'
-  - '1379 m.'
   - '1383 m.'
   - '1384 m.'
   - '1386 m.'
@@ -62,7 +61,6 @@ amziai:
   - 'XIV'
   - 'XV'
   - 'XX'
-  - 'XXI'
 date_start: '1350'
 date_end: '1429'
 patikimumas: 'aukštas'
@@ -2247,7 +2245,6 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - [[laikotarpiai/XIV amžius]]
 - [[laikotarpiai/XV amžius]]
 - [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
 - [[objektai/vietos/Astravos dvaras]]
