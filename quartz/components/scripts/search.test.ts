@@ -1,6 +1,18 @@
 import test, { describe } from "node:test"
 import assert from "node:assert"
 
+type SearchOptionsState = {
+  minQuoteCount: number
+  sourceSelectionMode: "all" | "custom"
+  selectedSourceIds: string[]
+}
+
+type SearchFilterPage = {
+  citationFilterable?: boolean
+  quoteCount?: number
+  citationSourceIds?: string[]
+}
+
 // Inline the encoder function from search.inline.ts for testing
 const isCJKCodePoint = (code: number) =>
   (code >= 0x3040 && code <= 0x309f) ||
@@ -55,6 +67,34 @@ const encoder = (str: string): string[] => {
   }
 
   return tokens
+}
+
+const searchOptionsMatchPage = (
+  page: SearchFilterPage | undefined,
+  options: SearchOptionsState,
+): boolean => {
+  const active = options.minQuoteCount > 0 || options.sourceSelectionMode === "custom"
+  if (!active) {
+    return true
+  }
+  if (!page?.citationFilterable) {
+    return false
+  }
+
+  const quoteCount = Number(page.quoteCount ?? 0)
+  if (quoteCount < options.minQuoteCount) {
+    return false
+  }
+
+  if (options.sourceSelectionMode === "all") {
+    return true
+  }
+
+  const selected = new Set(options.selectedSourceIds)
+  const sourceIds = Array.isArray(page.citationSourceIds)
+    ? page.citationSourceIds.filter((value): value is string => typeof value === "string")
+    : []
+  return sourceIds.some((sourceId) => selected.has(sourceId))
 }
 
 describe("search encoder", () => {
@@ -181,5 +221,37 @@ describe("search encoder", () => {
       const result = encoder("hello  ")
       assert.deepStrictEqual(result, ["hello"])
     })
+  })
+})
+
+describe("search option filters", () => {
+  test("hide non-citation pages when quote filter is active", () => {
+    assert.equal(
+      searchOptionsMatchPage(
+        { citationFilterable: false, quoteCount: 0 },
+        { minQuoteCount: 1, sourceSelectionMode: "all", selectedSourceIds: [] },
+      ),
+      false,
+    )
+  })
+
+  test("keep pages that meet the minimum quote count", () => {
+    assert.equal(
+      searchOptionsMatchPage(
+        { citationFilterable: true, quoteCount: 92, citationSourceIds: ["eidintas-2013"] },
+        { minQuoteCount: 50, sourceSelectionMode: "all", selectedSourceIds: [] },
+      ),
+      true,
+    )
+  })
+
+  test("respect selected citation sources", () => {
+    assert.equal(
+      searchOptionsMatchPage(
+        { citationFilterable: true, quoteCount: 12, citationSourceIds: ["sapoka-1936"] },
+        { minQuoteCount: 1, sourceSelectionMode: "custom", selectedSourceIds: ["eidintas-2013"] },
+      ),
+      false,
+    )
   })
 })

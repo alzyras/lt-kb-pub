@@ -218,6 +218,28 @@ function matchesSourceSelection(itemSourceIds: string[]): boolean {
   return itemSourceIds.some((id) => selected.has(id))
 }
 
+function optionFiltersActive(): boolean {
+  return state.minQuoteCount > 0 || state.sourceSelectionMode === "custom"
+}
+
+function optionsMatchItem({
+  filterable,
+  quoteCount,
+  sourceIds,
+}: {
+  filterable: boolean
+  quoteCount: number
+  sourceIds: string[]
+}): boolean {
+  if (!optionFiltersActive()) {
+    return true
+  }
+  if (!filterable) {
+    return false
+  }
+  return quoteCount >= state.minQuoteCount && matchesSourceSelection(sourceIds)
+}
+
 function detectMaxQuoteCount(): number {
   const counts = [...document.querySelectorAll<HTMLElement>("[data-quote-count]")]
     .map((el) => Number(el.dataset.quoteCount ?? "0"))
@@ -248,12 +270,9 @@ function applyListFilters() {
   entries.forEach((entry) => {
     const periodOk = entry.dataset.periodMatch !== "false"
     const filterable = entry.dataset.citationFilterable === "true"
-    let optionsOk = true
-    if (filterable) {
-      const quoteCount = Number(entry.dataset.quoteCount ?? "0")
-      const sourceIds = parseSourceIds(entry.dataset.citationSources)
-      optionsOk = quoteCount >= state.minQuoteCount && matchesSourceSelection(sourceIds)
-    }
+    const quoteCount = Number(entry.dataset.quoteCount ?? "0")
+    const sourceIds = parseSourceIds(entry.dataset.citationSources)
+    const optionsOk = optionsMatchItem({ filterable, quoteCount, sourceIds })
     entry.dataset.optionsMatch = optionsOk ? "true" : "false"
     entry.hidden = !(periodOk && optionsOk)
   })
@@ -263,12 +282,9 @@ function applyListFilters() {
 function applyExplorerFilters() {
   const evaluateLeaf = (item: HTMLLIElement): boolean => {
     const filterable = item.dataset.citationFilterable === "true"
-    let optionsOk = true
-    if (filterable) {
-      const quoteCount = Number(item.dataset.quoteCount ?? "0")
-      const sourceIds = parseSourceIds(item.dataset.citationSources)
-      optionsOk = quoteCount >= state.minQuoteCount && matchesSourceSelection(sourceIds)
-    }
+    const quoteCount = Number(item.dataset.quoteCount ?? "0")
+    const sourceIds = parseSourceIds(item.dataset.citationSources)
+    const optionsOk = optionsMatchItem({ filterable, quoteCount, sourceIds })
     item.dataset.optionsMatch = optionsOk ? "true" : "false"
     item.hidden = !optionsOk
     return optionsOk
@@ -390,6 +406,7 @@ function applyFilters() {
   applyExplorerFilters()
   applyCitationFilters()
   syncPanelState()
+  document.dispatchEvent(new CustomEvent("quartz-options-change"))
 }
 
 function syncPanelState() {

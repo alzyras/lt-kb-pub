@@ -12,10 +12,22 @@ interface Item {
   [key: string]: any
 }
 
+type SearchOptionsState = {
+  minQuoteCount: number
+  sourceSelectionMode: "all" | "custom"
+  selectedSourceIds: string[]
+}
+
 // Can be expanded with things like "term" in the future
 type SearchType = "basic" | "tags"
 let searchType: SearchType = "basic"
 let currentSearchTerm: string = ""
+const OPTIONS_STORAGE_KEY = "ltkb-options-v1"
+const DEFAULT_SEARCH_OPTIONS_STATE: SearchOptionsState = {
+  minQuoteCount: 0,
+  sourceSelectionMode: "all",
+  selectedSourceIds: [],
+}
 
 const isCJKCodePoint = (code: number) =>
   (code >= 0x3040 && code <= 0x309f) ||
@@ -111,6 +123,54 @@ const tokenizeTerm = (term: string) => {
   }
 
   return tokens.sort((a, b) => b.length - a.length) // always highlight longest terms first
+}
+
+function readSearchOptionsState(): SearchOptionsState {
+  const stored = localStorage.getItem(OPTIONS_STORAGE_KEY)
+  if (!stored) {
+    return { ...DEFAULT_SEARCH_OPTIONS_STATE }
+  }
+  try {
+    const parsed = JSON.parse(stored) as Partial<SearchOptionsState>
+    const selectedSourceIds = Array.isArray(parsed.selectedSourceIds)
+      ? parsed.selectedSourceIds.filter((value): value is string => typeof value === "string")
+      : []
+    return {
+      minQuoteCount: Number.isFinite(parsed.minQuoteCount) ? Math.max(0, Number(parsed.minQuoteCount)) : 0,
+      sourceSelectionMode: parsed.sourceSelectionMode === "custom" ? "custom" : "all",
+      selectedSourceIds,
+    }
+  } catch {
+    return { ...DEFAULT_SEARCH_OPTIONS_STATE }
+  }
+}
+
+function searchOptionFiltersActive(options: SearchOptionsState): boolean {
+  return options.minQuoteCount > 0 || options.sourceSelectionMode === "custom"
+}
+
+function searchOptionsMatchPage(page: ContentDetails | undefined, options: SearchOptionsState): boolean {
+  if (!searchOptionFiltersActive(options)) {
+    return true
+  }
+  if (!page?.citationFilterable) {
+    return false
+  }
+
+  const quoteCount = Number(page.quoteCount ?? 0)
+  if (quoteCount < options.minQuoteCount) {
+    return false
+  }
+
+  if (options.sourceSelectionMode === "all") {
+    return true
+  }
+
+  const selected = new Set(options.selectedSourceIds)
+  const sourceIds = Array.isArray(page.citationSourceIds)
+    ? page.citationSourceIds.filter((value): value is string => typeof value === "string")
+    : []
+  return sourceIds.some((sourceId) => selected.has(sourceId))
 }
 
 function highlight(searchTerm: string, text: string, trim?: boolean) {
@@ -525,7 +585,9 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
       ...getByField("content"),
       ...getByField("tags"),
     ])
+    const options = readSearchOptionsState()
     const finalResults = [...allIds]
+      .filter((id) => searchOptionsMatchPage(data[idDataMap[id]], options))
       .sort((a, b) => rankResult(currentSearchTerm, b) - rankResult(currentSearchTerm, a))
       .slice(0, numSearchResults)
       .map((id) => formatForDisplay(currentSearchTerm, id))
@@ -538,6 +600,14 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
   window.addCleanup(() => searchButton.removeEventListener("click", () => showSearch("basic")))
   searchBar.addEventListener("input", onType)
   window.addCleanup(() => searchBar.removeEventListener("input", onType))
+  const onOptionsChange = () => {
+    if (!container.classList.contains("active") || !searchBar.value) {
+      return
+    }
+    searchBar.dispatchEvent(new Event("input", { bubbles: true }))
+  }
+  document.addEventListener("quartz-options-change", onOptionsChange)
+  window.addCleanup(() => document.removeEventListener("quartz-options-change", onOptionsChange))
 
   registerEscapeHandler(container, hideSearch)
   await fillDocument(data)
