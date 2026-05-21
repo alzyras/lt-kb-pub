@@ -16,22 +16,33 @@ interface Item {
 type SearchType = "basic" | "tags"
 let searchType: SearchType = "basic"
 let currentSearchTerm: string = ""
+
+const isCJKCodePoint = (code: number) =>
+  (code >= 0x3040 && code <= 0x309f) ||
+  (code >= 0x30a0 && code <= 0x30ff) ||
+  (code >= 0x4e00 && code <= 0x9fff) ||
+  (code >= 0xac00 && code <= 0xd7af) ||
+  (code >= 0x20000 && code <= 0x2a6df)
+
+const normalizeSearchText = (str: string): string =>
+  [...str.toLowerCase()]
+    .map((char) => {
+      const code = char.codePointAt(0)!
+      return isCJKCodePoint(code) ? char : char.normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+    })
+    .join("")
+
 const encoder = (str: string): string[] => {
   const tokens: string[] = []
   let bufferStart = -1
   let bufferEnd = -1
-  const lower = str.toLowerCase()
+  const lower = normalizeSearchText(str)
 
   let i = 0
   for (const char of lower) {
     const code = char.codePointAt(0)!
 
-    const isCJK =
-      (code >= 0x3040 && code <= 0x309f) ||
-      (code >= 0x30a0 && code <= 0x30ff) ||
-      (code >= 0x4e00 && code <= 0x9fff) ||
-      (code >= 0xac00 && code <= 0xd7af) ||
-      (code >= 0x20000 && code <= 0x2a6df)
+    const isCJK = isCJKCodePoint(code)
 
     const isWhitespace = code === 32 || code === 9 || code === 10 || code === 13
 
@@ -86,7 +97,8 @@ let index = new FlexSearch.Document<Item>({
 const p = new DOMParser()
 const fetchContentCache: Map<FullSlug, Element[]> = new Map()
 const contextWindowWords = 30
-const numSearchResults = 8
+const numSearchResults = 12
+const searchCandidateLimit = 80
 const numTagResults = 5
 
 const tokenizeTerm = (term: string) => {
@@ -318,6 +330,30 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
     }
   }
 
+  const basename = (slug: FullSlug) => String(slug).split("/").pop() ?? String(slug)
+
+  const rankResult = (term: string, id: number) => {
+    const slug = idDataMap[id]
+    const page = data[slug]
+    const query = normalizeSearchText(term.trim())
+    const title = normalizeSearchText(page?.title ?? "")
+    const slugName = normalizeSearchText(basename(slug).replaceAll("-", " "))
+    const path = normalizeSearchText(String(slug).replaceAll("/", " "))
+    const quoteCount = Number(page?.quoteCount ?? 0)
+    const claimCount = Number(page?.claimCount ?? 0)
+
+    if (!query) return 0
+    if (title === query) return 1_000_000 + quoteCount * 10 + claimCount
+    if (slugName === query) return 950_000 + quoteCount * 10 + claimCount
+    if (title.startsWith(`${query} `)) return 900_000 + quoteCount * 10 + claimCount
+    if (slugName.startsWith(`${query} `)) return 850_000 + quoteCount * 10 + claimCount
+    if (title.split(/\s+/).includes(query)) return 800_000 + quoteCount * 10 + claimCount
+    if (path.split(/\s+/).includes(query)) return 750_000 + quoteCount * 10 + claimCount
+    if (title.includes(query)) return 700_000 + quoteCount * 10 + claimCount
+    if (path.includes(query)) return 650_000 + quoteCount * 10 + claimCount
+    return quoteCount * 10 + claimCount
+  }
+
   function highlightTags(term: string, tags: string[]) {
     if (!tags || searchType !== "tags") {
       return []
@@ -466,14 +502,14 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
         // default search by tags index
         searchResults = await index.searchAsync({
           query: currentSearchTerm,
-          limit: numSearchResults,
+          limit: searchCandidateLimit,
           index: ["tags"],
         })
       }
     } else if (searchType === "basic") {
       searchResults = await index.searchAsync({
         query: currentSearchTerm,
-        limit: numSearchResults,
+        limit: searchCandidateLimit,
         index: ["title", "content"],
       })
     }
@@ -489,7 +525,10 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
       ...getByField("content"),
       ...getByField("tags"),
     ])
-    const finalResults = [...allIds].map((id) => formatForDisplay(currentSearchTerm, id))
+    const finalResults = [...allIds]
+      .sort((a, b) => rankResult(currentSearchTerm, b) - rankResult(currentSearchTerm, a))
+      .slice(0, numSearchResults)
+      .map((id) => formatForDisplay(currentSearchTerm, id))
     await displayResults(finalResults)
   }
 

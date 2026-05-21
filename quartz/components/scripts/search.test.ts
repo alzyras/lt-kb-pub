@@ -2,22 +2,32 @@ import test, { describe } from "node:test"
 import assert from "node:assert"
 
 // Inline the encoder function from search.inline.ts for testing
+const isCJKCodePoint = (code: number) =>
+  (code >= 0x3040 && code <= 0x309f) ||
+  (code >= 0x30a0 && code <= 0x30ff) ||
+  (code >= 0x4e00 && code <= 0x9fff) ||
+  (code >= 0xac00 && code <= 0xd7af) ||
+  (code >= 0x20000 && code <= 0x2a6df)
+
+const normalizeSearchText = (str: string): string =>
+  [...str.toLowerCase()]
+    .map((char) => {
+      const code = char.codePointAt(0)!
+      return isCJKCodePoint(code) ? char : char.normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+    })
+    .join("")
+
 const encoder = (str: string): string[] => {
   const tokens: string[] = []
   let bufferStart = -1
   let bufferEnd = -1
-  const lower = str.toLowerCase()
+  const lower = normalizeSearchText(str)
 
   let i = 0
   for (const char of lower) {
     const code = char.codePointAt(0)!
 
-    const isCJK =
-      (code >= 0x3040 && code <= 0x309f) ||
-      (code >= 0x30a0 && code <= 0x30ff) ||
-      (code >= 0x4e00 && code <= 0x9fff) ||
-      (code >= 0xac00 && code <= 0xd7af) ||
-      (code >= 0x20000 && code <= 0x2a6df)
+    const isCJK = isCJKCodePoint(code)
 
     const isWhitespace = code === 32 || code === 9 || code === 10 || code === 13
 
@@ -67,6 +77,18 @@ describe("search encoder", () => {
     test("should lowercase all text", () => {
       const result = encoder("Hello WORLD Test")
       assert.deepStrictEqual(result, ["hello", "world", "test"])
+    })
+  })
+
+  describe("Lithuanian text", () => {
+    test("should fold Lithuanian diacritics for accent-insensitive search", () => {
+      const result = encoder("Žemaitis Šešuoliai Kęstutis")
+      assert.deepStrictEqual(result, ["zemaitis", "sesuoliai", "kestutis"])
+    })
+
+    test("should keep plain Lithuanian names searchable", () => {
+      const result = encoder("Vytautas Didysis")
+      assert.deepStrictEqual(result, ["vytautas", "didysis"])
     })
   })
 
