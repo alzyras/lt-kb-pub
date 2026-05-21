@@ -102,6 +102,5 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
 - [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
-- [[objektai/autoriai/Mikalojus Husovianas]]
 - [[objektai/ivykiai/Oršos mūšis (1514 m. rugsėjo 8 d.)]]
 - [[objektai/ivykiai/Oršos mūšis (1514 m.)]]

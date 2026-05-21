@@ -147,6 +147,9 @@ ProJa = Prochaska, A. ProW = Prochaska, A. Prochaska.
     - t-004
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/aktas]]
+
 ### Laikotarpiai
 - [[laikotarpiai/XIX amžius]]
 - [[laikotarpiai/XX amžius]]

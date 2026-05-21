@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 551.
+Objektų skaičius: 548.
 
 ## Kaip naudoti
 
@@ -256,7 +256,6 @@ Objektų skaičius: 551.
 - [Lietuvos krikšto apeigos](../objektai/paprociai/Lietuvos%20krik%C5%A1to%20apeigos)
 - [Lietuvos valdovų laidojimas pagoniškais papročiais](../objektai/paprociai/Lietuvos%20valdov%C5%B3%20laidojimas%20pagoni%C5%A1kais%20papro%C4%8Diais)
 - [Lotyniško krikšto privalomumas ir mišrių moterystių draudimas](../objektai/paprociai/Lotyni%C5%A1ko%20krik%C5%A1to%20privalomumas%20ir%20mi%C5%A1ri%C5%B3%20moterysti%C5%B3%20draudimas)
-- [Pagoniškų elementų integravimas į krikščioniškas praktikas](../objektai/paprociai/Pagoni%C5%A1k%C5%B3%20element%C5%B3%20integravimas%20%C4%AF%20krik%C5%A1%C4%8Dioni%C5%A1kas%20praktikas)
 - [Sezoniniai ordino žygiai į Lietuvą](../objektai/paprociai/Sezoniniai%20ordino%20%C5%BEygiai%20%C4%AF%20Lietuv%C4%85)
 - [Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais](../objektai/paprociai/Sutarties%20ir%20vasaliteto%20tvirtinimas%20ra%C5%A1tu%20bei%20antspaudais)
 - [Vytauto bažnyčių statymas ir vienuolynų steigimas](../objektai/paprociai/Vytauto%20ba%C5%BEny%C4%8Di%C5%B3%20statymas%20ir%20vienuolyn%C5%B3%20steigimas)
@@ -554,7 +553,6 @@ Objektų skaičius: 551.
 - [emyras](../objektai/zodynas/emyras)
 - [grašis](../objektai/zodynas/gra%C5%A1is)
 - [inkorporacija](../objektai/zodynas/inkorporacija)
-- [jarlykas](../objektai/zodynas/jarlykas)
 - [kapitula](../objektai/zodynas/kapitula)
 - [kaštelionas](../objektai/zodynas/ka%C5%A1telionas)
 - [komtūras](../objektai/zodynas/komt%C5%ABras)
@@ -575,7 +573,6 @@ Objektų skaičius: 551.
 - [seniūnas storasta](../objektai/zodynas/seni%C5%ABnas%20storasta)
 - [supremus dux ir magnus dux](../objektai/zodynas/supremus%20dux%20ir%20magnus%20dux)
 - [supremus dux magnus dux](../objektai/zodynas/supremus%20dux%20magnus%20dux)
-- [tripartitio christiana](../objektai/zodynas/tripartitio%20christiana)
 - [tėviškė](../objektai/zodynas/t%C4%97vi%C5%A1k%C4%97)
 - [vaivada](../objektai/zodynas/vaivada)
 - [Vakarų Bažnyčios schizma](../objektai/zodynas/Vakar%C5%B3%20Ba%C5%BEny%C4%8Dios%20schizma)

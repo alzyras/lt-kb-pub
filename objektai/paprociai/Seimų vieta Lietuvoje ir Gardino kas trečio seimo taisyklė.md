@@ -147,6 +147,9 @@ Nenurodyta
     - t-005
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/aktas]]
+
 ### Susiję objektai
 - [[objektai/vietos/Lietuva]]
 - [[objektai/ivykiai/Seimų vietos įstatymo pakeitimas (1673 m.)]]

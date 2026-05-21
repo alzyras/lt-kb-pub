@@ -54,5 +54,8 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/aktas]]
+
 ### Susiję objektai
 - [[objektai/zodynas/Euroatlantinė ir transatlantinė integracija]]

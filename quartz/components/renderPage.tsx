@@ -29,8 +29,9 @@ export function pageResources(
 ): StaticResources {
   const contentIndexPath = joinSegments(baseDir, "static/contentIndex.json")
   const citationSourcesPath = joinSegments(baseDir, "static/citationSources.json")
-  const contentIndexScript = `const fetchData = fetch("${contentIndexPath}").then(data => data.json())`
-  const citationSourcesScript = `globalThis.fetchCitationSources = fetch("${citationSourcesPath}").then(data => data.json()).catch(() => [])`
+  const assetVersion = Date.now().toString()
+  const contentIndexScript = `const fetchData = fetch("${contentIndexPath}?v=${assetVersion}", { cache: "no-store" }).then(data => data.json())`
+  const citationSourcesScript = `globalThis.fetchCitationSources = fetch("${citationSourcesPath}?v=${assetVersion}", { cache: "no-store" }).then(data => data.json()).catch(() => [])`
 
   const resources: StaticResources = {
     css: [

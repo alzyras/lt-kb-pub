@@ -80,5 +80,8 @@ Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­ leisdami raštą, 
     - t-002
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/aktas]]
+
 ### Susiję objektai
 - [[objektai/asmenys/Dr. Baptistas Cigala]]

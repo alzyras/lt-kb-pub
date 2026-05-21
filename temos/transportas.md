@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 14.
+Objektų skaičius: 13.
 
 ## Kaip naudoti
 
@@ -25,7 +25,6 @@ Objektų skaičius: 14.
 
 ### Daiktai
 - [[objektai/daiktai/ANBO lėktuvai]]
-- [[objektai/daiktai/Gardino ekonomijos manufaktūrų gaminiai]]
 - [[objektai/daiktai/Geležinėmis grandinėmis kaustyti vežimai]]
 - [[objektai/daiktai/Kablinis šautuvas]]
 - [[objektai/daiktai/Kūlgrindos]]

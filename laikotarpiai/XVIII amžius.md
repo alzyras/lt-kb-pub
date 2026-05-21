@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 139.
+Objektų skaičius: 133.
 
 ## Kaip naudoti
 
@@ -52,11 +52,7 @@ Objektų skaičius: 139.
 - [Eduardas Brusokas](../objektai/autoriai/Eduardas%20Brusokas)
 - [Gintautas Jakštys](../objektai/autoriai/Gintautas%20Jak%C5%A1tys)
 - [Irena Zujienė](../objektai/autoriai/Irena%20Zujien%C4%97)
-- [Jučas M](../objektai/autoriai/Ju%C4%8Das%20M)
 - [K. Duonelaitis](../objektai/autoriai/K.%20Duonelaitis)
-- [Kiaupa Z](../objektai/autoriai/Kiaupa%20Z)
-- [Kiaupienė J](../objektai/autoriai/Kiaupien%C4%97%20J)
-- [Kuncevičius A](../objektai/autoriai/Kuncevi%C4%8Dius%20A)
 - [Mykolas Kleopas Oginskis](../objektai/autoriai/Mykolas%20Kleopas%20Oginskis)
 - [S. Matulaitytė](../objektai/autoriai/S.%20Matulaityt%C4%97)
 - [Tadas Korsakas](../objektai/autoriai/Tadas%20Korsakas)
@@ -79,7 +75,6 @@ Objektų skaičius: 139.
 - [Edukacinė Komisija](../objektai/grupes/Edukacin%C4%97%20Komisija)
 - [Gardino seimas](../objektai/grupes/Gardino%20seimas)
 - [Jėzuitų ordinas](../objektai/grupes/J%C4%97zuit%C5%B3%20ordinas)
-- [Ketverių metų seimas](../objektai/grupes/Ketveri%C5%B3%20met%C5%B3%20seimas)
 - [LDK 1-oji Tautinė brigada](../objektai/grupes/LDK%201-oji%20Tautin%C4%97%20brigada)
 - [Lietuvos Didžioji Kunigaikštystė](../objektai/grupes/Lietuvos%20Did%C5%BEioji%20Kunigaik%C5%A1tyst%C4%97)
 - [Lietuvos jėzuitų kolegijos](../objektai/grupes/Lietuvos%20j%C4%97zuit%C5%B3%20kolegijos)
@@ -107,7 +102,6 @@ Objektų skaičius: 139.
 - [Krokuva](../objektai/vietos/Krokuva)
 - [Kuoknesė](../objektai/vietos/Kuoknes%C4%97)
 - [Kuršas](../objektai/vietos/Kur%C5%A1as)
-- [Mažoji Lietuva](../objektai/vietos/Ma%C5%BEoji%20Lietuva)
 - [Muchavecas](../objektai/vietos/Muchavecas)
 - [Olandija](../objektai/vietos/Olandija)
 - [Paupys](../objektai/vietos/Paupys)

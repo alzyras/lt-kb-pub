@@ -48,3 +48,7 @@ absoliučia balsų dauguma (124 deputatams balsavus už, nė vienam nebalsavus p
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Teminiai klasteriai
+- [[temos/aktas]]

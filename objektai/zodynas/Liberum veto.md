@@ -7,7 +7,7 @@ variantai:
   - veto
 aliases: []
 saltiniai:
-  - A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  - [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 laikotarpis: Abiejų Tautų Respublikos seimų praktika
 vaidmenys: []
 dalyviai: []

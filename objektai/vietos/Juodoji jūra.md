@@ -86,5 +86,4 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
 - [[objektai/vietos/Isteris]]
 - [[objektai/vietos/Kimerija]]
 - [[objektai/vietos/Podolė]]
-- [[objektai/vietos/Viduržemio jūra]]
 - [[objektai/zodynas/Įšleitė]]

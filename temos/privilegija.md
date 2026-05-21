@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 41.
+Objektų skaičius: 39.
 
 ## Kaip naudoti
 
@@ -58,7 +58,6 @@ Objektų skaičius: 41.
 - [[objektai/ivykiai/Algirdo žygiai į Maskvą]]
 - [Pirmoji Lietuvos Bažnyčiai privilegija](../objektai/ivykiai/Pirmoji%20Lietuvos%20Ba%C5%BEny%C4%8Diai%20privilegija)
 - [Pirmoji visam kraštui privilegija](../objektai/ivykiai/Pirmoji%20visam%20kra%C5%A1tui%20privilegija)
-- [Varšuvos konfederacija](../objektai/ivykiai/Var%C5%A1uvos%20konfederacija)
 - [Žemaičių kunigaikštystės privilegija](../objektai/ivykiai/%C5%BDemai%C4%8Di%C5%B3%20kunigaik%C5%A1tyst%C4%97s%20privilegija)
 - [Žygimanto Augusto privilegija dėl krikščioniškų konfesijų teisių](../objektai/ivykiai/%C5%BDygimanto%20Augusto%20privilegija%20d%C4%97l%20krik%C5%A1%C4%8Dioni%C5%A1k%C5%B3%20konfesij%C5%B3%20teisi%C5%B3)
 
@@ -72,5 +71,4 @@ Objektų skaičius: 41.
 - [privilegija lex privata](../objektai/zodynas/privilegija%20lex%20privata)
 - [Tautinės mažumos](../objektai/zodynas/Tautin%C4%97s%20ma%C5%BEumos)
 - [tripartitio christiana luominė visuomenė](../objektai/zodynas/tripartitio%20christiana%20luomin%C4%97%20visuomen%C4%97)
-- [Valstybinis žemės fondas](../objektai/zodynas/Valstybinis%20%C5%BEem%C4%97s%20fondas)
 - [šlėkta](../objektai/zodynas/%C5%A1l%C4%97kta)

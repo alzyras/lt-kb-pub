@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 15.
+Objektų skaičius: 13.
 
 ## Kaip naudoti
 
@@ -21,8 +21,6 @@ Objektų skaičius: 15.
 ### Papročiai
 - [[objektai/paprociai/Baltijos kelias kaip gyvos žmonių grandinės komemoracinė protesto forma]]
 - [[objektai/paprociai/Karinė savanorystė ir žemės pažadas valstybės gynimui]]
-- [[objektai/paprociai/Knygnešystė ir slaptas lietuviškų knygų platinimas]]
-- [[objektai/paprociai/Kyšių Maskvai vežimas rūkyta mėsa ir maisto dovanomis]]
 - [[objektai/paprociai/Lietuvos sportininkų atsisakymas dalyvauti SSRS rinktinėse ir atstovavimas Lietuvai]]
 - [[objektai/paprociai/Masinė Lietuvos gyventojų emigracija po privatizacijos dešimtmečio]]
 - [[objektai/paprociai/Masinės džiaugsmo manifestacijos gavus tarptautinį pripažinimą]]

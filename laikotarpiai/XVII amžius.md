@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 167.
+Objektų skaičius: 165.
 
 ## Kaip naudoti
 
@@ -94,7 +94,6 @@ Objektų skaičius: 167.
 - [Husarų vėliavų „draugų“ ir palydos sistema](../objektai/paprociai/Husar%C5%B3%20v%C4%97liav%C5%B3%20%E2%80%9Edraug%C5%B3%E2%80%9C%20ir%20palydos%20sistema)
 - [Kandidatas 37 LDK bažnytinės unijos bandymai ir graikų katalikų įsitvirtinimas](../objektai/paprociai/Kandidatas%2037%20LDK%20ba%C5%BEnytin%C4%97s%20unijos%20bandymai%20ir%20graik%C5%B3%20katalik%C5%B3%20%C4%AFsitvirtinimas)
 - [Kandidatas LDK bažnytinės unijos bandymai ir graikų katalikų įsitvirtinimas](../objektai/paprociai/Kandidatas%20LDK%20ba%C5%BEnytin%C4%97s%20unijos%20bandymai%20ir%20graik%C5%B3%20katalik%C5%B3%20%C4%AFsitvirtinimas)
-- [Pagoniškų elementų integravimas į krikščioniškas praktikas](../objektai/paprociai/Pagoni%C5%A1k%C5%B3%20element%C5%B3%20integravimas%20%C4%AF%20krik%C5%A1%C4%8Dioni%C5%A1kas%20praktikas)
 
 ### Posakiai
 - [duona, tolerancija, demokratija, konstitucija, barokas](../objektai/posakiai/duona%2C%20tolerancija%2C%20demokratija%2C%20konstitucija%2C%20barokas)
@@ -104,7 +103,6 @@ Objektų skaičius: 167.
 
 ### Vietos
 - [Ašmena](../objektai/vietos/A%C5%A1mena)
-- [Baltijos jūra](../objektai/vietos/Baltijos%20j%C5%ABra)
 - [Biržai](../objektai/vietos/Bir%C5%BEai)
 - [Biržų pilis](../objektai/vietos/Bir%C5%BE%C5%B3%20pilis)
 - [Bychovo tvirtovė](../objektai/vietos/Bychovo%20tvirtov%C4%97)

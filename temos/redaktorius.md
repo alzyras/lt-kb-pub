@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 25.
+Objektų skaičius: 23.
 
 ## Kaip naudoti
 
@@ -28,14 +28,12 @@ Objektų skaičius: 25.
 - [[objektai/autoriai/Gražina Indrišiūnienė]]
 - [[objektai/autoriai/Inga Vinogradnaitė]]
 - [[objektai/autoriai/Jonas Arvasevičius]]
-- [[objektai/autoriai/Jonas Basanavičius]]
 - [[objektai/autoriai/K. Jablonskis]]
 - [[objektai/autoriai/Konstantinas Jablonskis]]
 - [[objektai/autoriai/Kuršaitis (redaktorius, 1849–1880 m.)]]
 - [[objektai/autoriai/M. Jankus]]
 - [[objektai/autoriai/Mikšas]]
 - [[objektai/autoriai/S. Zauerveinas]]
-- [[objektai/autoriai/Vincas Kudirka]]
 - [[objektai/autoriai/Šernas]]
 
 ### Grupės

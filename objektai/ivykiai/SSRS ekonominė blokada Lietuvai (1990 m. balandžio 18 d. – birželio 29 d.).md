@@ -61,3 +61,7 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
+
+## Ryšiai
+### Teminiai klasteriai
+- [[temos/aktas]]

@@ -179,5 +179,4 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
 - [[laikotarpiai/XXI amžius]]
 
 ### Susiję objektai
-- [[objektai/vietos/Balstogė]]
 - [[objektai/vietos/Ryga]]

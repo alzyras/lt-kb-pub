@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 59.
+Objektų skaičius: 56.
 
 ## Kaip naudoti
 
@@ -21,7 +21,6 @@ Objektų skaičius: 59.
 ### Asmenys
 - [[objektai/asmenys/Bernardas (abatas)]]
 - [[objektai/asmenys/Bertoldas (pranciškonas)]]
-- [[objektai/asmenys/Feliksas Vaitkus]]
 - [[objektai/asmenys/Gedgaudas]]
 - [[objektai/asmenys/Henne]]
 - [[objektai/asmenys/Hennė (Ordino agentas)]]
@@ -37,7 +36,6 @@ Objektų skaičius: 59.
 - [[objektai/asmenys/Michailas Kalininas]]
 - [[objektai/asmenys/Pijus XII]]
 - [[objektai/asmenys/Stasys Girėnas]]
-- [[objektai/asmenys/Steponas Darius]]
 - [[objektai/asmenys/Viačeslavas Molotovas]]
 
 ### Autoriai
@@ -46,13 +44,10 @@ Objektų skaičius: 59.
 - [[objektai/autoriai/Filotiejus]]
 - [[objektai/autoriai/J. Bennetas]]
 - [[objektai/autoriai/Kassiodoras]]
-- [V. T. Pašuto](../objektai/autoriai/V.%20T.%20Pa%C5%A1uto)
-
-### Daiktai
-- [Dariaus ir Girėno mauzoliejus Kaune](../objektai/daiktai/Dariaus%20ir%20Gir%C4%97no%20mauzoliejus%20Kaune)
+- [[objektai/autoriai/V. T. Pašuto]]
 
 ### Grupės
-- [Rygos miesto taryba](../objektai/grupes/Rygos%20miesto%20taryba)
+- [[objektai/grupes/Rygos miesto taryba]]
 - [SSRS kariuomenė](../objektai/grupes/SSRS%20kariuomen%C4%97)
 
 ### Papročiai

@@ -9,7 +9,7 @@ variantai:
   - 'Brunono Bonifaco misija į aisčių kraštą ir žūtis'
 aliases: []
 saltiniai:
-  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - '[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]'
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 laikotarpis: '1008 m. galas – 1009 m. vasario 14 d.'
 datos:

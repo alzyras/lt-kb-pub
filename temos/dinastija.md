@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 60.
+Objektų skaičius: 59.
 
 ## Kaip naudoti
 
@@ -82,7 +82,6 @@ Objektų skaičius: 60.
 - [ATR karai su Švedija XVII a](../objektai/ivykiai/ATR%20karai%20su%20%C5%A0vedija%20XVII%20a)
 - [Didžioji Maskvos suirutė (1597–1613 m.)](../objektai/ivykiai/Did%C5%BEioji%20Maskvos%20suirut%C4%97%20%281597%E2%80%931613%20m.%29)
 - [Lietuvos ir Lenkijos paskutinis padalinimas](../objektai/ivykiai/Lietuvos%20ir%20Lenkijos%20paskutinis%20padalinimas)
-- [Mohačo mūšis](../objektai/ivykiai/Moha%C4%8Do%20m%C5%AB%C5%A1is)
 - [Nepriklausomybės pradžia](../objektai/ivykiai/Nepriklausomyb%C4%97s%20prad%C5%BEia)
 - [Stanislovo Augusto Poniatovskio išrinkimas LLV valdovu](../objektai/ivykiai/Stanislovo%20Augusto%20Poniatovskio%20i%C5%A1rinkimas%20LLV%20valdovu)
 - [Sąmyšio metai (1604-1612 m.)](../objektai/ivykiai/S%C4%85my%C5%A1io%20metai%20%281604-1612%20m.%29)

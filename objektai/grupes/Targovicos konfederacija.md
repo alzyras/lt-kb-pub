@@ -121,6 +121,9 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
     - t-004
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/aktas]]
+
 ### Laikotarpiai
 - [[laikotarpiai/XVIII amžius]]
 - [[laikotarpiai/XX amžius]]

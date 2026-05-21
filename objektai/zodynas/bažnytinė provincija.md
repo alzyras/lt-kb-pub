@@ -136,6 +136,3 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
 - [[laikotarpiai/XV amžius]]
 - [[laikotarpiai/XX amžius]]
 - [[laikotarpiai/XXI amžius]]
-
-### Susiję objektai
-- [[objektai/vietos/Vilniaus kraštas]]

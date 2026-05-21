@@ -138,7 +138,6 @@ Nenurodyta
 - [[laikotarpiai/XVI amžius]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Konstantinas Ostrogiškis]]
 - [[objektai/posakiai/Antemurale Christianitatis]]
 - [[objektai/autoriai/Mykolas Lietuvis]]
 - [[objektai/ivykiai/Oršos mūšis (1514 m. rugsėjo 8 d.)]]

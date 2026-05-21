@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 219.
+Objektų skaičius: 205.
 
 ## Kaip naudoti
 
@@ -24,11 +24,8 @@ Objektų skaičius: 219.
 - [[objektai/asmenys/Bernardas Berensonas]]
 - [[objektai/asmenys/Chaim Soutin]]
 - [[objektai/asmenys/Czesław Miłosz]]
-- [[objektai/asmenys/Donatas Katkus]]
-- [[objektai/asmenys/Gintaras Rinkevičius]]
 - [[objektai/asmenys/H. Dembinskis]]
 - [[objektai/asmenys/Ignotas Masalskis|Ignotas Masalskis (vyskupas, XVIII–XIX a.)]]
-- [[objektai/asmenys/Jacques Lipchitz]]
 - [[objektai/asmenys/Jascha Heifetz]]
 - [[objektai/asmenys/Jonas Mačiulis-Maironis]]
 - [[objektai/asmenys/Julija Žymantienė-Žemaitė]]
@@ -40,26 +37,20 @@ Objektų skaičius: 219.
 - [[objektai/asmenys/Martynas Knakfusas|Martynas Knakfusas (vyskupas, XVIII–XIX a.)]]
 - [[objektai/asmenys/Michailas Muravjovas]]
 - [[objektai/asmenys/Mikalojus Akelaitis]]
-- [[objektai/asmenys/Petras Repšys]]
-- [[objektai/asmenys/Saulius Sondeckis]]
 - [[objektai/asmenys/Simonas Daukantas]]
 - [[objektai/asmenys/Simonas Stanevičius]]
-- [Stasys Kuzma](../objektai/asmenys/Stasys%20Kuzma)
-- [Teofilis Lapinskis](../objektai/asmenys/Teofilis%20Lapinskis)
-- [Victor David Brenner](../objektai/asmenys/Victor%20David%20Brenner)
-- [Violeta Urmana](../objektai/asmenys/Violeta%20Urmana)
-- [Vytautas Kasiulis](../objektai/asmenys/Vytautas%20Kasiulis)
+- [[objektai/asmenys/Teofilis Lapinskis]]
+- [[objektai/asmenys/Victor David Brenner]]
 
 ### Autoriai
-- [A. Lewicki](../objektai/autoriai/A.%20Lewicki)
-- [A. Mierzyński](../objektai/autoriai/A.%20Mierzy%C5%84ski)
-- [A. Prochaska](../objektai/autoriai/A.%20Prochaska)
+- [[objektai/autoriai/A. Lewicki]]
+- [[objektai/autoriai/A. Mierzyński]]
+- [[objektai/autoriai/A. Prochaska]]
 - [A. Tyla](../objektai/autoriai/A.%20Tyla)
 - [A. Veryha - Darevskis](../objektai/autoriai/A.%20Veryha%20-%20Darevskis)
 - [A. Werminghoef](../objektai/autoriai/A.%20Werminghoef)
 - [Algimantas Daugirdas](../objektai/autoriai/Algimantas%20Daugirdas)
 - [Andžej Geglis](../objektai/autoriai/And%C5%BEej%20Geglis)
-- [Antanas Baranauskas](../objektai/autoriai/Antanas%20Baranauskas)
 - [Antonovič, V. B](../objektai/autoriai/Antonovi%C4%8D%2C%20V.%20B)
 - [Arvydas Pociūnas](../objektai/autoriai/Arvydas%20Poci%C5%ABnas)
 - [Aug. Janulaitis](../objektai/autoriai/Aug.%20Janulaitis)
@@ -85,7 +76,6 @@ Objektų skaičius: 219.
 - [J. Latkowski](../objektai/autoriai/J.%20Latkowski)
 - [J. Voigt](../objektai/autoriai/J.%20Voigt)
 - [Jokimas Lelevelis](../objektai/autoriai/Jokimas%20Lelevelis)
-- [Jonas Basanavičius](../objektai/autoriai/Jonas%20Basanavi%C4%8Dius)
 - [Jurgėla, C. R](../objektai/autoriai/Jurg%C4%97la%2C%20C.%20R)
 - [Jučas, M](../objektai/autoriai/Ju%C4%8Das%2C%20M)
 - [Józef Wolff](../objektai/autoriai/J%C3%B3zef%20Wolff)
@@ -130,7 +120,6 @@ Objektų skaičius: 219.
 - [V. Merkys](../objektai/autoriai/V.%20Merkys)
 - [V. Milius](../objektai/autoriai/V.%20Milius)
 - [V. Černeckis](../objektai/autoriai/V.%20%C4%8Cerneckis)
-- [Vincas Kudirka](../objektai/autoriai/Vincas%20Kudirka)
 - [W. Zakrzewski](../objektai/autoriai/W.%20Zakrzewski)
 - [Werminghoef, A](../objektai/autoriai/Werminghoef%2C%20A)
 - [Zakrzewski, W](../objektai/autoriai/Zakrzewski%2C%20W)
@@ -168,7 +157,6 @@ Objektų skaičius: 219.
 - [Kandidatas Lietuvininkų ir Mažosios Lietuvos vardų vartojimas Prūsijoje](../objektai/paprociai/Kandidatas%20Lietuvinink%C5%B3%20ir%20Ma%C5%BEosios%20Lietuvos%20vard%C5%B3%20vartojimas%20Pr%C5%ABsijoje)
 - [Kandidatas Tautos istorijos atminties saugojimas piliečių lūpose](../objektai/paprociai/Kandidatas%20Tautos%20istorijos%20atminties%20saugojimas%20pilie%C4%8Di%C5%B3%20l%C5%ABpose)
 - [Kunigo A. Mackevičiaus religinės apeigos sukilėlių stovykloje](../objektai/paprociai/Kunigo%20A.%20Mackevi%C4%8Diaus%20religin%C4%97s%20apeigos%20sukil%C4%97li%C5%B3%20stovykloje)
-- [Rusiškų mokyklų boikotas ir daraktorinės mokyklėlės](../objektai/paprociai/Rusi%C5%A1k%C5%B3%20mokykl%C5%B3%20boikotas%20ir%20daraktorin%C4%97s%20mokykl%C4%97l%C4%97s)
 - [Teresboro stovyklos mokymai lietuvių kalba](../objektai/paprociai/Teresboro%20stovyklos%20mokymai%20lietuvi%C5%B3%20kalba)
 
 ### Posakiai
@@ -189,8 +177,6 @@ Objektų skaičius: 219.
 - [Kuoknesė](../objektai/vietos/Kuoknes%C4%97)
 - [Lietuvos Užnemunė](../objektai/vietos/Lietuvos%20U%C5%BEnemun%C4%97)
 - [Merkinės dvaras](../objektai/vietos/Merkin%C4%97s%20dvaras)
-- [Paryžius](../objektai/vietos/Pary%C5%BEius)
-- [Praha](../objektai/vietos/Praha)
 - [Prūsija](../objektai/vietos/Pr%C5%ABsija)
 - [Rokiškis](../objektai/vietos/Roki%C5%A1kis)
 - [Ryga](../objektai/vietos/Ryga)

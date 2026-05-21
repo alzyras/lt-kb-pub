@@ -55,6 +55,9 @@ Jogailos ir Vytauto duotas uniją tvirtinąs aktas pašaukė Lietuvos bajoriją 
     - t-001
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/aktas]]
+
 ### Laikotarpiai
 - [[laikotarpiai/XV amžius]]
 

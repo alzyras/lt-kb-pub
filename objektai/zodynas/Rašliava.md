@@ -7,7 +7,7 @@ variantai:
   - rašliava
 aliases: []
 saltiniai:
-  - A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  - [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 laikotarpis: ""
 vaidmenys: []
 dalyviai: []

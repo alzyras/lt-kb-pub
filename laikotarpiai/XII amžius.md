@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 27.
+Objektų skaičius: 26.
 
 ## Kaip naudoti
 
@@ -43,7 +43,6 @@ Objektų skaičius: 27.
 - [[objektai/vietos/Brandenburgo žemė]]
 - [[objektai/vietos/Dubingiai]]
 - [[objektai/vietos/Kijevo Rusia]]
-- [[objektai/vietos/Klaipėdos kraštas]]
 - [[objektai/vietos/Livonija]]
 - [[objektai/vietos/Naugardukas]]
 - [[objektai/vietos/Padauguvis]]
@@ -56,7 +55,7 @@ Objektų skaičius: 27.
 
 ### Įvykiai
 - [[objektai/ivykiai/Kijevo Jaroslavo žygis į Lietuvą ir Naugarduko įkūrimas (1044 m.)]]
-- [Kijevo Mstislavo žygiai į Lietuvą (1131–1132 m.)](../objektai/ivykiai/Kijevo%20Mstislavo%20%C5%BEygiai%20%C4%AF%20Lietuv%C4%85%20%281131%E2%80%931132%20m.%29)
+- [[objektai/ivykiai/Kijevo Mstislavo žygiai į Lietuvą (1131–1132 m.)]]
 
 ### Žodynas
 - [proistorė](../objektai/zodynas/proistor%C4%97)

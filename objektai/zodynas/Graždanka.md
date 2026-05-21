@@ -6,7 +6,7 @@ variantai:
   - graždankos
 aliases: []
 saltiniai:
-  - A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  - [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 laikotarpis: spaudos draudimo laikotarpis
 datos:
   - 1904 m. gegužės 7 d.

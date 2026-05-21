@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 27.
+Objektų skaičius: 26.
 
 ## Kaip naudoti
 
@@ -26,7 +26,6 @@ Objektų skaičius: 27.
 - [[objektai/autoriai/Adomas Bremenietis]]
 - [[objektai/autoriai/Al'-Idrisi|Al''-Idrisi]]
 - [[objektai/autoriai/Bumblauskas A]]
-- [[objektai/autoriai/Jučas M]]
 
 ### Daiktai
 - [[objektai/daiktai/Dviašmenis kalavijas]]
@@ -60,5 +59,5 @@ Objektų skaičius: 27.
 - [[objektai/ivykiai/Kijevo Jaroslavo žygis į Lietuvą ir Naugarduko įkūrimas (1044 m.)]]
 
 ### Žodynas
-- [chiefdom / vadystė](../objektai/zodynas/chiefdom%20vadyst%C4%97)
+- [[objektai/zodynas/chiefdom vadystė|chiefdom / vadystė]]
 - [pagonybė](../objektai/zodynas/pagonyb%C4%97)

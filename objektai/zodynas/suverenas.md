@@ -55,4 +55,5 @@ Tik Jogaila šiaip taip sugebėjo išvengti tą padėtį juridiškai formuluoti,
 
 ## Ryšiai
 ### Teminiai klasteriai
+- [[temos/aktas]]
 - [[temos/formulė]]

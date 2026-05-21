@@ -79,6 +79,9 @@ tags:
     - t-001
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/aktas]]
+
 ### Laikotarpiai
 - [[laikotarpiai/XV amžius]]
 - [[laikotarpiai/XX amžius]]

@@ -73,6 +73,9 @@ Pagaliau įvedamas dar vienas — lenkams pats svarbusis — nuostatas, reikalau
     - t-002
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/aktas]]
+
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]
 - [[laikotarpiai/XXI amžius]]

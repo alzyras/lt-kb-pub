@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 21.
+Objektų skaičius: 20.
 
 ## Kaip naudoti
 
@@ -28,7 +28,6 @@ Objektų skaičius: 21.
 - [[objektai/autoriai/Zenonas Butkus]]
 
 ### Daiktai
-- [[objektai/daiktai/Kęstučio Fedirkos nuotrauka „Trakų pilis“]]
 - [[objektai/daiktai/Lenkijos ir Lietuvos Valstybės žemėlapis]]
 - [[objektai/daiktai/Žemėlapio fragmentas su „Tėve mūsų“ eilutėmis]]
 - [[objektai/daiktai/Žemėlapis „Lituania Propria“]]

@@ -56,5 +56,8 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/aktas]]
+
 ### Susiję objektai
 - [[objektai/zodynas/deportacijos trėmimai]]

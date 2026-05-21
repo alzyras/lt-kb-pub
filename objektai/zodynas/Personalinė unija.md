@@ -8,7 +8,7 @@ variantai:
   - personalinės unijos
 aliases: []
 saltiniai:
-  - A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  - [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 laikotarpis: Lietuvos ir Lenkijos santykių istorija
 datos:
   - 1499 m.

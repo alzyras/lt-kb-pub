@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 219.
+Objektų skaičius: 209.
 
 ## Kaip naudoti
 
@@ -25,7 +25,6 @@ Objektų skaičius: 219.
 - [[objektai/asmenys/Fulvio Ruggieri]]
 - [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Grigalius Chodkevičius]]
-- [[objektai/asmenys/Grigalius XIII]]
 - [[objektai/asmenys/Isaakas ben Abrahamas iš Trakų]]
 - [[objektai/asmenys/Ivanas Andrejevičius Čeliadninas]]
 - [[objektai/asmenys/Ivanas Fiodorovas|Ivanas Fiodorovas (spaustuvininkas, XVI a.)]]
@@ -38,14 +37,13 @@ Objektų skaičius: 219.
 - [[objektai/asmenys/Karina Nilsdotter]]
 - [[objektai/asmenys/Karolis Carlsonas Gyllenhielmas]]
 - [[objektai/asmenys/Karolis IX]]
-- [[objektai/asmenys/Konstantinas Ostrogiškis]]
 - [[objektai/asmenys/Kristupas Radvila Perkūnas]]
 - [[objektai/asmenys/Maksimilijonas I]]
 - [[objektai/asmenys/Mathias Ziindt]]
 - [[objektai/asmenys/Michailas Bulgakovas-Golica]]
 - [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis|Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)]]
-- [Mikalojus Radvila Juodasis](../objektai/asmenys/Mikalojus%20Radvila%20Juodasis)
-- [Mykolas Glinskis](../objektai/asmenys/Mykolas%20Glinskis)
+- [[objektai/asmenys/Mikalojus Radvila Juodasis]]
+- [[objektai/asmenys/Mykolas Glinskis]]
 - [Romanas Sanguška](../objektai/asmenys/Romanas%20Sangu%C5%A1ka)
 - [Stanislovas Kiška](../objektai/asmenys/Stanislovas%20Ki%C5%A1ka)
 - [Steponas Batoras](../objektai/asmenys/Steponas%20Batoras)
@@ -54,7 +52,6 @@ Objektų skaičius: 219.
 - [Žygimantas Augustas](../objektai/asmenys/%C5%BDygimantas%20Augustas)
 
 ### Autoriai
-- [Abraomas Kulvietis](../objektai/autoriai/Abraomas%20Kulvietis)
 - [Aleksandro Gvanjinio](../objektai/autoriai/Aleksandro%20Gvanjinio)
 - [Arvydas Pociūnas](../objektai/autoriai/Arvydas%20Poci%C5%ABnas)
 - [Augustas Ludvikas Schlözeris](../objektai/autoriai/Augustas%20Ludvikas%20Schl%C3%B6zeris)
@@ -75,8 +72,6 @@ Objektų skaičius: 219.
 - [M. Strijkovskis](../objektai/autoriai/M.%20Strijkovskis)
 - [Maironis](../objektai/autoriai/Maironis)
 - [Martynas Mažvydas Vaitkūnas](../objektai/autoriai/Martynas%20Ma%C5%BEvydas%20Vaitk%C5%ABnas)
-- [Mikalojus Daukša](../objektai/autoriai/Mikalojus%20Dauk%C5%A1a)
-- [Mikalojus Husovianas](../objektai/autoriai/Mikalojus%20Husovianas)
 - [Mykolas Lietuvis](../objektai/autoriai/Mykolas%20Lietuvis)
 - [O. Halecki](../objektai/autoriai/O.%20Halecki)
 - [Pranciškus Skorina](../objektai/autoriai/Pranci%C5%A1kus%20Skorina)
@@ -139,7 +134,6 @@ Objektų skaičius: 219.
 - [Kandidatas Lietuvių kalbos oficialaus kultūros modelio kėlimas ir kasdienis Bažnyčios bei mokyklos vartojimas](../objektai/paprociai/Kandidatas%20Lietuvi%C5%B3%20kalbos%20oficialaus%20kult%C5%ABros%20modelio%20k%C4%97limas%20ir%20kasdienis%20Ba%C5%BEny%C4%8Dios%20bei%20mokyklos%20vartojimas)
 - [Kariuomenės lauko stovyklos įrengimas apsupant vežimais](../objektai/paprociai/Kariuomen%C4%97s%20lauko%20stovyklos%20%C4%AFrengimas%20apsupant%20ve%C5%BEimais)
 - [Lydimoji žemdirbystė](../objektai/paprociai/Lydimoji%20%C5%BEemdirbyst%C4%97)
-- [Pagoniškų elementų integravimas į krikščioniškas praktikas](../objektai/paprociai/Pagoni%C5%A1k%C5%B3%20element%C5%B3%20integravimas%20%C4%AF%20krik%C5%A1%C4%8Dioni%C5%A1kas%20praktikas)
 - [Trilaukio ūkio sistema](../objektai/paprociai/Trilaukio%20%C5%ABkio%20sistema)
 - [Triumfo iškilmės su belaisvių eisena ir trofėjinėmis vėliavomis Vilniuje](../objektai/paprociai/Triumfo%20i%C5%A1kilm%C4%97s%20su%20belaisvi%C5%B3%20eisena%20ir%20trof%C4%97jin%C4%97mis%20v%C4%97liavomis%20Vilniuje)
 - [Vėlyvos santuokos, kraitis ir vestuvių sutartys](../objektai/paprociai/V%C4%97lyvos%20santuokos%2C%20kraitis%20ir%20vestuvi%C5%B3%20sutartys)
@@ -154,8 +148,6 @@ Objektų skaičius: 219.
 
 ### Vietos
 - [Alūksnė](../objektai/vietos/Al%C5%ABksn%C4%97)
-- [Balstogė](../objektai/vietos/Balstog%C4%97)
-- [Baltijos jūra](../objektai/vietos/Baltijos%20j%C5%ABra)
 - [Birutės kalnas](../objektai/vietos/Birut%C4%97s%20kalnas)
 - [Brasta](../objektai/vietos/Brasta)
 - [Cerkasai](../objektai/vietos/Cerkasai)
@@ -184,7 +176,6 @@ Objektų skaičius: 219.
 - [Narva](../objektai/vietos/Narva)
 - [Olandija](../objektai/vietos/Olandija)
 - [Poznanė](../objektai/vietos/Poznan%C4%97)
-- [Praha](../objektai/vietos/Praha)
 - [Prūsija](../objektai/vietos/Pr%C5%ABsija)
 - [Pskovas](../objektai/vietos/Pskovas)
 - [Ragainė](../objektai/vietos/Ragain%C4%97)
@@ -221,7 +212,6 @@ Objektų skaičius: 219.
 - [Lietuvos krikštas](../objektai/ivykiai/Lietuvos%20krik%C5%A1tas)
 - [Lietuvos krikštas (1387 m.)](../objektai/ivykiai/Lietuvos%20krik%C5%A1tas%20%281387%20m.%29)
 - [Liublino unijos akto priėmimas ir patvirtinimas (1569 m.)](../objektai/ivykiai/Liublino%20unijos%20akto%20pri%C4%97mimas%20ir%20patvirtinimas%20%281569%20m.%29)
-- [Maskvos užėmimas](../objektai/ivykiai/Maskvos%20u%C5%BE%C4%97mimas)
 - [Nepriklausomybės pradžia](../objektai/ivykiai/Nepriklausomyb%C4%97s%20prad%C5%BEia)
 - [Nesvyžiaus jėzuitų kolegijos įkūrimas (1582 m.)](../objektai/ivykiai/Nesvy%C5%BEiaus%20j%C4%97zuit%C5%B3%20kolegijos%20%C4%AFk%C5%ABrimas%20%281582%20m.%29)
 - [Oršos mūšis (1514 m. rugsėjo 8 d.)](../objektai/ivykiai/Or%C5%A1os%20m%C5%AB%C5%A1is%20%281514%20m.%20rugs%C4%97jo%208%20d.%29)

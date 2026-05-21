@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 13.
+Objektų skaičius: 10.
 
 ## Kaip naudoti
 
@@ -19,13 +19,11 @@ Objektų skaičius: 13.
 ## Susiję objektai
 
 ### Asmenys
-- [[objektai/asmenys/F. Ruzveltas]]
 - [[objektai/asmenys/Vladas Jazokas-Petraitis]]
 
 ### Daiktai
 - [[objektai/daiktai/1900 m. Paryžiaus parodos lietuvių ekspozicijos daiktai]]
 - [[objektai/daiktai/Balti vilnoniai marškiniai]]
-- [[objektai/daiktai/Baroko kasdienybės daiktai]]
 - [[objektai/daiktai/Drabužiai]]
 
 ### Grupės
@@ -39,7 +37,6 @@ Objektų skaičius: 13.
 - [[objektai/vietos/Šeinfeldas]]
 
 ### Įvykiai
-- [[objektai/ivykiai/F. Ruzvelto įsakymo dėl Baltijos valstybių lėšų įšaldymo išleidimas (1940 m. liepos 15 d.)]]
 - [[objektai/ivykiai/Lietuvių prisistatymas 1900 m. Paryžiaus pasaulinėje parodoje]]
 
 ### Žodynas

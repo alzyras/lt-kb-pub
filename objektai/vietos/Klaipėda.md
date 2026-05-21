@@ -9,7 +9,7 @@ susije_irasai:
   - '[[Žemaitija]]'
   - '[[Nemunas]]'
 saltiniai:
-  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - '[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]'
 datos:
   - '1236 m.'
   - '1252 m.'

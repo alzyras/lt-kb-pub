@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 49.
+Objektų skaičius: 48.
 
 ## Kaip naudoti
 
@@ -76,7 +76,6 @@ Objektų skaičius: 49.
 - [grašis](../objektai/zodynas/gra%C5%A1is)
 - [litas](../objektai/zodynas/litas)
 - [natūralinis ūkis](../objektai/zodynas/nat%C5%ABralinis%20%C5%ABkis)
-- [ostmarkės auksinai](../objektai/zodynas/ostmark%C4%97s%20auksinai)
 - [pastočiai](../objektai/zodynas/pasto%C4%8Diai)
 - [plikbajoris](../objektai/zodynas/plikbajoris)
 - [rublis](../objektai/zodynas/rublis)

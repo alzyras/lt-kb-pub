@@ -100,5 +100,8 @@ Nenurodyta
     - t-003
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/aktas]]
+
 ### Laikotarpiai
 - [[laikotarpiai/XIX amžius]]

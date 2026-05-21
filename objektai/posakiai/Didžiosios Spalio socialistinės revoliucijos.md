@@ -56,5 +56,8 @@ To tomo uždavinys yra parodyti, kaip «Didžiosios Spalio socialistinės revoli
     - t-001
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/aktas]]
+
 ### Laikotarpiai
 - [[laikotarpiai/XX amžius]]

@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 457.
+Objektų skaičius: 454.
 
 ## Kaip naudoti
 
@@ -63,7 +63,6 @@ Objektų skaičius: 457.
 - [Kazimieras](../objektai/asmenys/Kazimieras)
 - [Kiprijonas](../objektai/asmenys/Kiprijonas)
 - [Klausigaila](../objektai/asmenys/Klausigaila)
-- [Konstantinas Ostrogiškis](../objektai/asmenys/Konstantinas%20Ostrogi%C5%A1kis)
 - [Kęstutis (vakarų pasienio valdovas, XIV–XV a.)](../objektai/asmenys/K%C4%99stutis)
 - [Liubartas](../objektai/asmenys/Liubartas)
 - [Martynas V](../objektai/asmenys/Martynas%20V)
@@ -231,7 +230,6 @@ Objektų skaičius: 457.
 - [Kandidatas Lietuvininkų ir Mažosios Lietuvos vardų vartojimas Prūsijoje](../objektai/paprociai/Kandidatas%20Lietuvinink%C5%B3%20ir%20Ma%C5%BEosios%20Lietuvos%20vard%C5%B3%20vartojimas%20Pr%C5%ABsijoje)
 - [Kryžiaus žygių prieš totorius organizavimas](../objektai/paprociai/Kry%C5%BEiaus%20%C5%BEygi%C5%B3%20prie%C5%A1%20totorius%20organizavimas)
 - [Monetų kalimas ir pabūklų, varpų liejimas](../objektai/paprociai/Monet%C5%B3%20kalimas%20ir%20pab%C5%ABkl%C5%B3%2C%20varp%C5%B3%20liejimas)
-- [Pagoniškų elementų integravimas į krikščioniškas praktikas](../objektai/paprociai/Pagoni%C5%A1k%C5%B3%20element%C5%B3%20integravimas%20%C4%AF%20krik%C5%A1%C4%8Dioni%C5%A1kas%20praktikas)
 - [Prekyba su Prūsais (Dancigu ir Karaliaučiumi)](../objektai/paprociai/Prekyba%20su%20Pr%C5%ABsais%20%28Dancigu%20ir%20Karaliau%C4%8Diumi%29)
 - [Vidaus kolonizacija Sūduvos giriose](../objektai/paprociai/Vidaus%20kolonizacija%20S%C5%ABduvos%20giriose)
 - [Vytauto donacijos Medininkų vyskupijai ir bažnyčioms](../objektai/paprociai/Vytauto%20donacijos%20Medinink%C5%B3%20vyskupijai%20ir%20ba%C5%BEny%C4%8Dioms)
@@ -332,7 +330,6 @@ Objektų skaičius: 457.
 - [Podolija](../objektai/vietos/Podolija)
 - [Podolė](../objektai/vietos/Podol%C4%97)
 - [Polockas](../objektai/vietos/Polockas)
-- [Praha](../objektai/vietos/Praha)
 - [Pskovas](../objektai/vietos/Pskovas)
 - [Racionžas](../objektai/vietos/Racion%C5%BEas)
 - [Ragainė](../objektai/vietos/Ragain%C4%97)

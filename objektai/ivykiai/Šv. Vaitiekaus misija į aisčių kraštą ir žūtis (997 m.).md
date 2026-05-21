@@ -8,7 +8,7 @@ variantai:
   - Adalberto mirtis
 aliases: []
 saltiniai:
-  - A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  - [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 laikotarpis: 997 m. balandžio 23 d.
 datos:
   - 997 m. balandžio 23 d.

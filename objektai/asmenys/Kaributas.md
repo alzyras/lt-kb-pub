@@ -104,6 +104,7 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
 
 ## Ryšiai
 ### Teminiai klasteriai
+- [[temos/aktas]]
 - [[temos/pinigai]]
 
 ### Laikotarpiai

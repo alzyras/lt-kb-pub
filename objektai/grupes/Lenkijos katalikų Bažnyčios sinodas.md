@@ -46,3 +46,7 @@ Kita vertus, jis vis dėlto pripažino tikėjimo laisvę ir protestantams ir uol
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Teminiai klasteriai
+- [[temos/aktas]]

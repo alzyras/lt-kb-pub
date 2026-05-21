@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 6.
+Objektų skaičius: 5.
 
 ## Kaip naudoti
 
@@ -28,4 +28,3 @@ Objektų skaičius: 6.
 ### Įvykiai
 - [[objektai/ivykiai/Kauno protestai po Romo Kalantos susideginimo (1972 m. gegužės 18–19 d.)]]
 - [[objektai/ivykiai/Lietuvos nepriklausomybės tarptautinis pripažinimas (1991 m. vasario 11 d. – rugsėjo 6 d.)]]
-- [[objektai/ivykiai/Visuotinė apklausa dėl Lietuvos nepriklausomybės ir konstitucinis įstatymas (1991 m. vasaris)]]

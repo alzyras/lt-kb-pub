@@ -101,6 +101,9 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/aktas]]
+
 ### Laikotarpiai
 - [[laikotarpiai/XVI amžius]]
 - [[laikotarpiai/XX amžius]]

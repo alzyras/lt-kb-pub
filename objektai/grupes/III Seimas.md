@@ -58,6 +58,9 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
     - t-001
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/aktas]]
+
 ### Laikotarpiai
 - [[laikotarpiai/XXI amžius]]
 

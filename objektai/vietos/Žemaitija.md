@@ -9,7 +9,7 @@ susije_irasai:
   - '[[Lietuva]]'
   - '[[Klaipėda]]'
 saltiniai:
-  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - '[[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]'
 datos:
   - '1251 m.'
   - '1387 m.'

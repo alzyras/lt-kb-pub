@@ -9,7 +9,7 @@ variantai:
   - baudžiavos
 aliases: []
 saltiniai:
-  - A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  - [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 laikotarpis: XV—XIX a.
 vaidmenys: []
 dalyviai: []
