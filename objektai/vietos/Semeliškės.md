@@ -53,10 +53,3 @@ Kairiajame Neries krante prie Semeliškių — Rykantų įsitvirtinusi 3-ioji I.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/L. Želigovskis]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Rykantai]]
-- [[objektai/vietos/Vilnius]]

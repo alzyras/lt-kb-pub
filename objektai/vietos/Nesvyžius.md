@@ -181,28 +181,3 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Brasta]]
-- [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Maskva]]
-- [[objektai/asmenys/Mikalojus (Gniezno arkivyskupas)]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/vietos/Zabluduvas]]
-- [[objektai/zodynas/barokas]]
-- [[objektai/zodynas/gotika]]
-- [[objektai/grupes/Chodkevičiai]]
-- [[objektai/asmenys/Ivanas Fiodorovas|Ivanas Fiodorovas (spaustuvininkas, XVI a.)]]
-- [[objektai/vietos/Kleckas]]
-- [[objektai/ivykiai/Krymo totorių įsiveržimas į Lietuvą (1506 m.)]]
-- [[objektai/grupes/Nesvyžiaus Radvilos]]
-- [[objektai/ivykiai/Nesvyžiaus jėzuitų kolegijos įkūrimas (1582 m.)]]
-- [[objektai/vietos/Olyka]]
-- [[objektai/ivykiai/Radvilų ir Chodkevičių spaustuvių steigimai ir Brastos spaustuvės perkėlimas]]
-- [[objektai/daiktai/Spaustuvės]]
-- [[objektai/vietos/Vilniaus katedra]]
-- [[objektai/daiktai/Vilniaus katedros portalo kolonada ir frontono skulptūros]]
-- [[objektai/vietos/Europa]]
-- [[objektai/vietos/Myro pilis|Myro pilis (pilis)]]

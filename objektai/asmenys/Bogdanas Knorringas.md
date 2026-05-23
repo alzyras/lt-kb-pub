@@ -90,11 +90,7 @@ Rusijos kariuomenės korpusui, puolusiam Vilnių, vadovavo generolas leitenantas
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kaunas]]
 - [[objektai/grupes/LDK 1-oji Tautinė brigada]]
-- [[objektai/vietos/Rusija]]
 - [[objektai/ivykiai/Vilniaus išvadavimas (1794 m. balandžio 22–23 d.)]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/husarai]]
-- [[objektai/vietos/Šiauliai]]
 - [[objektai/grupes/Rusijos kariuomenės korpusas]]

@@ -48,15 +48,3 @@ Kai per septynerių metų karą Prūsų kariuomenė užėmė Drezdeną, kur buvo
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/pinigai]]
-
-### Susiję objektai
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Prūsai]]
-- [[objektai/vietos/Prūsija]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/ivykiai/Šiaurės karas (1700–1721 m.)]]

@@ -116,23 +116,3 @@ Jis turėjo žygiuoti Veližo link, iš ten pulti Toropeco ir Bialos pilių apyl
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/ežeras]]
-
-### Susiję objektai
-- [[objektai/vietos/Biala]]
-- [[objektai/vietos/Dauguva]]
-- [[objektai/grupes/Didžiojo Naugardo respublika]]
-- [[objektai/ivykiai/K. Radvilos Perkūno reidas (1581 m. liepa-spalis)|Kristupo Radvilos Perkūno reidas (1581 m. liepa-spalis)]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Pskovas]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/vietos/Rusija]]
-- [[objektai/vietos/Smolenskas]]
-- [[objektai/vietos/Starica]]
-- [[objektai/vietos/Veližas]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/vietos/Volgos upė]]

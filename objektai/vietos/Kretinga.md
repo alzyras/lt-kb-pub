@@ -129,18 +129,3 @@ IV Kražių apygardoje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmerg
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Latvija]]
-- [[objektai/vietos/Šiauliai]]
-- [[objektai/vietos/Gargždai]]
-- [[objektai/autoriai/J. Puzinas]]
-- [[objektai/grupes/Kardo rinktinė]]
-- [[objektai/grupes/Klevo kuopa]]
-- [[objektai/vietos/Kretingos apskritis]]
-- [[objektai/grupes/SD Einsatzgruppen]]
-- [[objektai/grupes/Tilžės gestapo būrys]]
-- [[objektai/vietos/Kužiai]]
-- [[objektai/vietos/Mažeikiai]]
-- [[objektai/vietos/Priekulė]]

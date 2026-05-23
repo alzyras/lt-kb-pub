@@ -131,9 +131,3 @@ Senieji Trakai čia aprašomi kaip vienuolių įkurdinimo vieta.
 ## Šaltiniai ir įrodymai
 
 ## Pastabos
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Mažoji Lenkija]]
-- [[objektai/vietos/Trakai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

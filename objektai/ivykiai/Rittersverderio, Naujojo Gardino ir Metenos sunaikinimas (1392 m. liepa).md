@@ -69,8 +69,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Metena]]
-- [[objektai/vietos/Rittersverderis]]
 - [[objektai/grupes/Vengrai]]
-- [[objektai/vietos/Gardinas]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

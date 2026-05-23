@@ -72,8 +72,5 @@ m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaitijos Livonijo
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Livonija]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/ivykiai/Mindaugo karūnacija (1253 m.)]]
-- [[objektai/vietos/Viena]]

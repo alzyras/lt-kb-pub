@@ -94,7 +94,5 @@ tags:
 - [[temos/dinastija]]
 
 ### Susiję objektai
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/valstybingumo idėja valstybingumo idealas valstybingumu grįsta periodizacija]]

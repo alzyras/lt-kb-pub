@@ -219,7 +219,6 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/paprociai/LDK politinės tautos savivoka ir Palemono kilmės tradicija]]
 - [[objektai/autoriai/Laurynas Ivinskis]]

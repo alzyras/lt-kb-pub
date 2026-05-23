@@ -55,8 +55,6 @@ Finikiečiai pateikiami kaip viena iš tautų, su kuriomis lietuviai turėjo ry�
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/Pažinės|pažinės]]
 - [[objektai/zodynas/Įšleitė|įšleitė]]
 - [[objektai/grupes/Egiptiečiai]]
-- [[objektai/vietos/Viena]]

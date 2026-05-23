@@ -95,12 +95,3 @@ Ypač tai jam buvo patogu dėl labai lengvos ir ne visai griežtos Torno taikos,
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Henrikas]]
-- [[objektai/asmenys/Henrikas von Plauenas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Torno]]
-- [[objektai/ivykiai/Torno taika (1411 m.)]]
-- [[objektai/vietos/Kulmas]]

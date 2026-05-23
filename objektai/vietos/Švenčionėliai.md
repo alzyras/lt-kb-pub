@@ -74,17 +74,3 @@ Frontas nusistovėjo KernavėsMusninkų-ŠirvintųGiedraičių Dubingių-Švenč
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/vietos/Giedraičiai]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/vietos/Kiauneliškio geležinkelio stotis]]
-- [[objektai/vietos/Labanoro giria]]
-- [[objektai/vietos/Naručio apylinkės]]
-- [[objektai/vietos/Pagaigalė]]
-- [[objektai/grupes/Vytauto apygarda]]
-- [[objektai/vietos/Dubingiai]]
-- [[objektai/vietos/Musninkai]]

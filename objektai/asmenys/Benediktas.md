@@ -54,7 +54,5 @@ Ypatingą jam mi­ siją Jogaila paskyrė 1387 m. vasarą: pasiuntė jį su kari
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Haličas]]
-- [[objektai/vietos/Vengrija]]
 - [[objektai/zodynas/kaštelionas]]
 - [[objektai/zodynas/žygis]]

@@ -67,11 +67,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Viena]]
 - [[objektai/autoriai/Dalius Žygelis]]
 - [[objektai/asmenys/Jonas Kuklieris]]
-- [[objektai/vietos/Kiauneliškiai]]
 - [[objektai/autoriai/Ričardas Čekutis]]
 - [[objektai/asmenys/V. Grigaliūnas-Glovackis]]
-- [[objektai/vietos/Vidugiriai]]

@@ -44,6 +44,4 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Vilnius]]
 - [[objektai/grupes/Brandenburgo elektoriai]]
-- [[objektai/vietos/Prūsija]]

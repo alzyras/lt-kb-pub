@@ -97,6 +97,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Mykolas Glinskis]]
 - [[objektai/zodynas/Sutartinės|sutartinės]]

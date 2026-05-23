@@ -83,8 +83,10 @@ Nenurodyta
 ## Šaltiniai ir įrodymai
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/dokumentas]]
+
 ### Susiję objektai
 - [[objektai/zodynas/Antisemitizmas]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/zodynas/Restitucija]]

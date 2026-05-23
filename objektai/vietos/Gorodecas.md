@@ -51,12 +51,3 @@ Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zasla
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Nemunas]]
-- [[objektai/asmenys/Skirgaila]]
-- [[objektai/grupes/Slavai]]
-- [[objektai/vietos/Viena]]
-- [[objektai/vietos/Lohajskas]]

@@ -60,9 +60,6 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lenkija]]
 - [[objektai/grupes/Lenkijos kariuomenė]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/seniūnas]]

@@ -60,8 +60,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Rusija]]
 - [[objektai/asmenys/Stanislovas Soltanas]]
 - [[objektai/zodynas/maršalas]]

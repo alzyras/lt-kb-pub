@@ -62,10 +62,5 @@ Smetona stengėsi laikytis „vidurainės [A.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Maskva]]
-- [[objektai/vietos/SSRS]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/asmenys/Augustinas Voldemaras]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

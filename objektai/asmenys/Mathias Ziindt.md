@@ -62,9 +62,6 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Gardinas]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/vaivada]]

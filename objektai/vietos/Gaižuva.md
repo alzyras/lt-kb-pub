@@ -57,17 +57,3 @@ Taip pat du kartu (1292, 1294) ordino kariuomenė pasiekė Nemuno dešiniojo kra
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Dubysa]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Kymel]]
-- [[objektai/vietos/Nemunas]]
-- [[objektai/vietos/Pačtuva]]
-- [[objektai/vietos/Peštvė]]
-- [[objektai/vietos/Vilkija]]
-- [[objektai/ivykiai/Gaižuvos ir Pačtuvos sričių nusiaubimas (1292 ir 1294 m.)]]
-- [[objektai/ivykiai/Junigėdos, Peštvės ir Pograudos kampanija (1293 m.)]]
-- [[objektai/ivykiai/Kymel pilies sunaikinimas (1295 m.)]]
-- [[objektai/vietos/Nevėžis]]

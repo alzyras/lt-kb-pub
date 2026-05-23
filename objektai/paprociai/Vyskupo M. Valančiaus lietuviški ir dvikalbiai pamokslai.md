@@ -108,7 +108,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/autoriai/Motiejus Valančius]]
 - [[objektai/autoriai/S. Daukantas]]
 - [[objektai/grupes/Lietuviai]]

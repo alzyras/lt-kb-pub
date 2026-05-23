@@ -77,12 +77,3 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Suvalkai]]
-- [[objektai/zodynas/gubernija]]
-- [[objektai/vietos/Suvalkų gubernija]]

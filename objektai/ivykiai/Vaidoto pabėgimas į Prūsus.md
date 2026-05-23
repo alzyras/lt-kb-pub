@@ -72,7 +72,6 @@ Nenurodyta
 - [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
 - [[objektai/asmenys/Karolis IV]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/vietos/Prūsai]]
 - [[objektai/asmenys/Vaidotas]]
 - [[objektai/asmenys/Vaidotas (Butauto sūnus)]]
 - [[objektai/zodynas/ciesorius]]

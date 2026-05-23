@@ -304,15 +304,8 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Dancigas]]
-- [[objektai/vietos/Kaunas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Liublinas]]
-- [[objektai/vietos/Prūsai]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/unija]]

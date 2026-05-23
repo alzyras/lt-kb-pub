@@ -72,8 +72,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Mindaugas]]
-- [[objektai/vietos/Voluinė]]
 - [[objektai/zodynas/kunigaikščiai]]

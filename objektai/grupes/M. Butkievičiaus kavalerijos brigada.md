@@ -49,7 +49,5 @@ Butkievičiaus kavalerijos brigada ir iki dienos pabaigos ji pasiekia Videniški
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Giedraičiai]]
 - [[objektai/grupes/J. Baranovskio brigada]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Videniškis]]

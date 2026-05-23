@@ -65,9 +65,9 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/didikas]]
+- [[temos/tikėjimas]]
 
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/zodynas/protestantizmas]]
 - [[objektai/zodynas/Baudžiava]]

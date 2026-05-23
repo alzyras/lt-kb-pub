@@ -79,7 +79,6 @@ Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­ leisdami raštą, 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Krokuva]]
 - [[objektai/zodynas/apsikarūnavimas]]
 - [[objektai/zodynas/ciesorius]]
 - [[objektai/asmenys/Dr. Baptistas Cigala]]

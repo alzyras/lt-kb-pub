@@ -59,8 +59,4 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Brandenburgas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Semba]]
-- [[objektai/vietos/Vokietija]]
-- [[objektai/vietos/Čekija]]

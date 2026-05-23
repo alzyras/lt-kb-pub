@@ -77,22 +77,3 @@ Ten jis žygiavo, norėdamas suvaldyti ne­ paklusnius jam Okos ir Dono aukštup
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Skirsnemunė]]
-- [[objektai/vietos/Tverė]]
-- [[objektai/asmenys/Švitrigaila]]
-- [[objektai/vietos/Liubutskas]]
-- [[objektai/vietos/Mcenskas]]
-- [[objektai/vietos/Mozūrija]]
-- [[objektai/vietos/Novosielskas]]
-- [[objektai/vietos/Novosielsko]]
-- [[objektai/vietos/Peremišlis]]
-- [[objektai/vietos/Vorotinskas]]
-- [[objektai/asmenys/Vosylius]]
-- [[objektai/asmenys/Vosylius II]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/asmenys/Chudandachas]]

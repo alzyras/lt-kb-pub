@@ -193,5 +193,4 @@ A. Alekna minimas kaip nusipelnęs istorikas, kelių Lietuvos ir Bažnyčios ist
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/monografija]]
-- [[objektai/vietos/Kauno vyskupija]]
 - [[objektai/grupes/Sakalo bendrovė]]

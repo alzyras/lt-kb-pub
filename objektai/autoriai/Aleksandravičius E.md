@@ -69,8 +69,3 @@ Aleksandravičius E., Kulakauskas A.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Vilnius]]

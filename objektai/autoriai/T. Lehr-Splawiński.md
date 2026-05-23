@@ -55,6 +55,3 @@ Lehr-Splawiński, T.
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/žemėlapis]]
-
-### Susiję objektai
-- [[objektai/vietos/Varšuva]]

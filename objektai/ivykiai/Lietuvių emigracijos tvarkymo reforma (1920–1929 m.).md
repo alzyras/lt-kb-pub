@@ -104,5 +104,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Ateitis]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/Adynos|adynos]]

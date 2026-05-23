@@ -56,10 +56,6 @@ Merkį brutaliu elgesiu, absurdiškai kaltino Lietuvą antisovieti- 4 skyrius �
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Latvija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Maskva]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/Liaudies vyriausybės sudarymas (1940 m. birželio 17 d.)]]
 - [[objektai/posakiai/„gal neokupuos“ „o gal nesovietizuos “]]
-- [[objektai/vietos/Merkys]]

@@ -101,11 +101,3 @@ Seirijuose, Simne, Prienuose ir kt.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Grenoblis]]
-- [[objektai/vietos/Kalniškės miškas]]
-- [[objektai/vietos/Krosna]]
-- [[objektai/vietos/Seminiškių miško rajonas]]
-- [[objektai/asmenys/Sigitas Tamkevičius]]

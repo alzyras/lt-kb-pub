@@ -108,5 +108,3 @@ Dejevo, į Paupį. Dejevo daliniai mėgino įsiveržti į miestą per Bernardin�
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Patrankos]]
-- [[objektai/vietos/Užupis]]
-- [[objektai/vietos/Vilnius]]

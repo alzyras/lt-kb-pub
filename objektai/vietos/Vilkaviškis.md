@@ -77,12 +77,3 @@ Bet tai tebuvo tik diplomatiškas atsikalbėjimas; juo buvo norima nesugriauti L
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Gulbiniškiai]]
-- [[objektai/grupes/MGB]]
-- [[objektai/vietos/Pilviškiai]]
-- [[objektai/vietos/Prienai]]
-- [[objektai/vietos/Vilkaviškio apskritis]]
-- [[objektai/ivykiai/Kunigų seminarijų Vilniuje, Telšiuose ir Vilkaviškyje uždarymas (1946 m.)]]

@@ -57,5 +57,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Kazimiera Prunskienė]]

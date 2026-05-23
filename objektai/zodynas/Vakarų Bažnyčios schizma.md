@@ -115,5 +115,4 @@ tags: []
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Bonifacas IX]]
-- [[objektai/vietos/Malburgas]]
 - [[objektai/zodynas/neofitas]]

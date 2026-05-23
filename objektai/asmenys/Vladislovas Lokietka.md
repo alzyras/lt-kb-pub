@@ -79,15 +79,11 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Dancigas]]
 - [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
 - [[objektai/ivykiai/Gedimino sąjunga su Lenkija]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Lokietka]]
-- [[objektai/vietos/Pamaris]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/asmenys/Aldona Gediminaitė]]
 - [[objektai/asmenys/Kazimieras (Lokietkos sūnus)]]

@@ -49,14 +49,3 @@ VII amž. gale jie įsi­ kūrė Grobine, kur turėjo savo svarbią karinę baz�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Durbė]]
-- [[objektai/vietos/Gotlandas]]
-- [[objektai/zodynas/ekspansija]]
-- [[objektai/grupes/Švedai]]
-- [[objektai/ivykiai/Apuolės apgula (853 m.)]]
-- [[objektai/vietos/Kuršas]]
-- [[objektai/vietos/Grobinė]]
-- [[objektai/vietos/Sauslaukė]]

@@ -76,7 +76,6 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
 - [[objektai/posakiai/Tegul krikščionys (lotyniškieji) Dievą garbina pagal savo apeigas, tegul rusai (rutheni) jam tarnauja pagal savo paprotį, lenkai taip pat sa]]
 - [[objektai/ivykiai/Treniotos nužudymas (1264 m.)]]
 - [[objektai/zodynas/Vieningo darbo vyriausybė]]
-- [[objektai/vietos/Vilniaus vyskupija]]
 - [[objektai/asmenys/Vladas Mironas]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/Pusrytės|pusrytės]]

@@ -45,11 +45,3 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Marijampolė]]
-- [[objektai/vietos/Varšuva]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/zodynas/maršalas]]
-- [[objektai/zodynas/unija]]

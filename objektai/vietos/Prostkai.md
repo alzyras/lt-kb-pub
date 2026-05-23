@@ -55,15 +55,3 @@ Mūšis Spalio 8 d. kariuomenės suartėjo ties Prostkais skiriamos Elko upės.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Elko upė]]
-- [[objektai/asmenys/Georgas Fridrikas Valdekas]]
-- [[objektai/vietos/Pilypavas]]
-- [[objektai/ivykiai/Pilypavo mūšis (1656 m. spalio 22 d.)]]
-- [[objektai/ivykiai/Prostkų mūšis (1656 m. spalio 8 d.)]]
-- [[objektai/vietos/Salaspilis]]
-- [[objektai/asmenys/Walenrodto]]
-- [[objektai/ivykiai/Švedijos karo paskelbimas ATR (1655 m.)]]

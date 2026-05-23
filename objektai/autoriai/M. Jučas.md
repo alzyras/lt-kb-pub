@@ -83,8 +83,3 @@ M. Jučas. Vytautas Didysis. Chicago, 2010;.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Čikaga]]

@@ -112,14 +112,9 @@ Sukilėliai užimtame Kaune pastatė vokiečius prieš įvykusį faktą – už�
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Berlynas]]
-- [[objektai/vietos/Europa]]
-- [[objektai/vietos/Kaunas]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/autoriai/Juozas Ambrazevičius]]
-- [[objektai/vietos/Kauno VII fortas]]
 - [[objektai/ivykiai/Laikinosios vyriausybės sudarymas (1941 m. birželio 23 d.)]]
 - [[objektai/posakiai/„Susidariusi laikinoji... atstatanti laisvą ir nepriklausomą Lietuvos valstybę“]]

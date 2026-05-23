@@ -181,28 +181,3 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Trakai]]
-- [[objektai/asmenys/Švitrigaila]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/asmenys/A. N. Trubeckojus]]
-- [[objektai/vietos/Bobruiskas]]
-- [[objektai/vietos/Gardinas]]
-- [[objektai/vietos/Gardino gubernija]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
-- [[objektai/asmenys/I. Zolotarenko]]
-- [[objektai/vietos/Juodoji Rusia]]
-- [[objektai/vietos/Kauno gubernija]]
-- [[objektai/vietos/Pašiaušė]]
-- [[objektai/grupes/Pravoslavai]]
-- [[objektai/vietos/Smolenskas]]
-- [[objektai/asmenys/V. B. Seremetjevas]]
-- [[objektai/vietos/Vilniaus gubernija]]
-- [[objektai/vietos/Vitebskas]]
-- [[objektai/ivykiai/Vytauto žygis į Maskvos apylinkes ir Vosyliaus II globos prisiėmimas (1427 m.)]]
-- [[objektai/vietos/Žodiškiai]]
-- [[objektai/vietos/Kaunas]]
-- [[objektai/vietos/Zaslavlis]]

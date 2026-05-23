@@ -77,10 +77,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuvos komunistų partija]]
-- [[objektai/vietos/Maskva]]
-- [[objektai/vietos/SSRS]]
 - [[objektai/grupes/SSRS kariuomenė]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/polpredas]]

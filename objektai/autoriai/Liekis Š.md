@@ -40,5 +40,4 @@ Liekis Š.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Žydai]]

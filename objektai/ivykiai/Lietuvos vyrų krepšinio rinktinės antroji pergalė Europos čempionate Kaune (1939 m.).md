@@ -72,9 +72,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Europa]]
-- [[objektai/vietos/Kaunas]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuvos vyrų krepšinio rinktinė]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/vietos/Kauno sporto halė]]

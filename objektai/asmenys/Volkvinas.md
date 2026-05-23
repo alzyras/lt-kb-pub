@@ -55,7 +55,6 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kuršas]]
 - [[objektai/grupes/Kuršiai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/magistras]]

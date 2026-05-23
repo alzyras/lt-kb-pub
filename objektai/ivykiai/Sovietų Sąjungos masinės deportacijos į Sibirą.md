@@ -96,11 +96,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Europa]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/SSRS]]
 - [[objektai/grupes/Žydai]]
-- [[objektai/vietos/Sibiras]]
-- [[objektai/vietos/Viena]]
 - [[objektai/zodynas/kolektyvizacija]]
 - [[objektai/ivykiai/1944 m. emigracija į Vakarus]]

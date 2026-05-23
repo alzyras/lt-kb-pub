@@ -56,4 +56,3 @@ Vietoje LV ministrų vokiečių valdžia lietuvių administracijos vadovais pask
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Petras Kubiliūnas]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/vietos/Lietuva]]

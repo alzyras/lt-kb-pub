@@ -66,11 +66,13 @@ Tarp visų suvažiavime iškeltų klausimų vienas iš svarbiausiųjų buvo suma
     - t-002
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/dokumentas]]
+
 ### Susiję objektai
 - [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
 - [[objektai/daiktai/Karūna]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/apsikarūnavimas]]
 - [[objektai/zodynas/savarankiškumas]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

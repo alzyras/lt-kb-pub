@@ -62,6 +62,4 @@ Visi klysta; nelaisvas buvo nuo klaidų ir Vytautas didžiulėj savo politikoj: 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Horodlė]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/vietos/Žalgiris]]

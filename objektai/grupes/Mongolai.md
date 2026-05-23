@@ -59,13 +59,9 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kijevo Rusia]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Maskva]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Rusėnai]]
-- [[objektai/vietos/Tverė]]
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Karolis IV]]

@@ -53,15 +53,3 @@ Polocke sėdėjo Andrius, Brianske (prie Desnos) — Dimi­ tras († 1399), Če
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/vietos/Brianskas]]
-- [[objektai/vietos/Kijevas]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Polockas]]
-- [[objektai/vietos/Vladimiras]]
-- [[objektai/zodynas/kunigaikštija]]
-- [[objektai/vietos/Pripetė]]
-- [[objektai/asmenys/Teodoras]]

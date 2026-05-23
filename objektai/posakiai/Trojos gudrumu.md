@@ -48,6 +48,4 @@ Planas buvo išduotas, ir «Trojos gudrumu» sostinėje įsistiprinti nepavyko.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Luckas]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/vietos/Vilnius]]

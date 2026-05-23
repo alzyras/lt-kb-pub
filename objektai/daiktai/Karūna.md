@@ -684,6 +684,9 @@ Nenurodyta
     - t-027
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/dokumentas]]
+
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/karūnacija karūnuotis]]
@@ -691,12 +694,6 @@ Nenurodyta
 - [[objektai/grupes/Husitai]]
 - [[objektai/posakiai/Iki gyvos Vytauto ir Jogailos galvos]]
 - [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Luckas]]
-- [[objektai/vietos/Rusija]]
-- [[objektai/vietos/Salyne]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Zig. Rothas]]
 - [[objektai/zodynas/apsikarūnavimas]]
@@ -715,15 +712,12 @@ Nenurodyta
 - [[objektai/asmenys/K. Dragunevičius]]
 - [[objektai/paprociai/Kreipimasis į Vytautą svarbiausiais reikalais]]
 - [[objektai/ivykiai/Kėdainių-Šėtos kautynės]]
-- [[objektai/vietos/Lenčica]]
 - [[objektai/ivykiai/Lenčicos audiencija dėl Vytauto karūnacijos (1429 m. birželis 18–21 d.)]]
 - [[objektai/daiktai/Lietuvos kario savadarbė diržo sagtis]]
 - [[objektai/daiktai/Lietuvos kariuomenės savanorio rankovės antsiuvas]]
 - [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos|Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (krikštas)]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/asmenys/Morta]]
-- [[objektai/vietos/Podolija]]
-- [[objektai/vietos/Podolė]]
 - [[objektai/asmenys/Stanislovas Ciołek]]
 - [[objektai/paprociai/Suvažiavimų rengimas arti Lietuvos sienos]]
 - [[objektai/asmenys/Vaclovas Pragiečius]]

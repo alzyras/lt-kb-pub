@@ -56,5 +56,3 @@ Bet iš kitos pusės, susitikimas su mažalenkiais galėjo jį įtikinti, kad Le
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]

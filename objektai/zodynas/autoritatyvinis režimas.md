@@ -60,6 +60,5 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Voldemarininkai]]
 - [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas]]

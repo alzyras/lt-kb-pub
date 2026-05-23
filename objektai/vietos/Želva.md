@@ -138,19 +138,3 @@ Nobelio premijos laureatu biochemijos srityje 1982 m. tapo Želvoje gimęs Aaron
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Giedraičiai]]
-- [[objektai/vietos/Gursčiai]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/NKVD]]
-- [[objektai/grupes/Tautų Sąjungos kontrolės komisija]]
-- [[objektai/vietos/Ukmergė]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/Aaron Klug]]
-- [[objektai/asmenys/Bernard Lown]]
-- [[objektai/vietos/Videniškis]]
-- [[objektai/vietos/Vidiškis]]

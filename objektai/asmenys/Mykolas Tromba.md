@@ -58,6 +58,3 @@ Tuo reikalu pas popiežių buvo siunčiamas kanauninkas Mykolas Trombas (Trąb),
 ### Susiję objektai
 - [[objektai/grupes/Habsburgai]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Viena]]
-- [[objektai/vietos/Vokietija]]

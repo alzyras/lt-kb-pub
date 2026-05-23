@@ -58,7 +58,9 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/tikėjimas]]
+
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuvos bajorija]]
 - [[objektai/asmenys/Švitrigaila]]

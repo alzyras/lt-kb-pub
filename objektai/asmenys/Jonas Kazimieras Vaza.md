@@ -57,12 +57,8 @@ Prieš švedus ir jų sąjungininkus taip pat kovojo vadinamoji bajorų konfeder
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Bajorų konfederacija]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Mykolas]]
-- [[objektai/vietos/Rusija]]
 - [[objektai/zodynas/konfederacija]]
 - [[objektai/grupes/Švedai]]
-- [[objektai/vietos/Švedija]]
 - [[objektai/asmenys/Kristupas Pacas]]
 - [[objektai/asmenys/Mykolas Pacas]]

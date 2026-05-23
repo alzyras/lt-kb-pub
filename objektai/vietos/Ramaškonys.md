@@ -49,11 +49,3 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Rytas]]
-- [[objektai/vietos/Alionys]]
-- [[objektai/vietos/Puoriai]]
-- [[objektai/vietos/Šešuolėliai]]

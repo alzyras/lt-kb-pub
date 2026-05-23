@@ -40,15 +40,3 @@ Specialiosios SD grupės (Tilžės gestapo būrys) 1941 m. birželio 24 d. suša
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Kretinga]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Palanga]]
-- [[objektai/vietos/Vokietija]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/grupes/SD Einsatzgruppen]]
-- [[objektai/grupes/Tilžės gestapo būrys]]
-- [[objektai/vietos/Tilžė]]

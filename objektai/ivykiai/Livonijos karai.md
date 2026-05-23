@@ -89,13 +89,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Baltija]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Livonija]]
-- [[objektai/vietos/Maskva]]
-- [[objektai/vietos/Rusija]]
-- [[objektai/vietos/Švedija]]

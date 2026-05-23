@@ -188,8 +188,3 @@ ProJa = Prochaska, A. ProW = Prochaska, A. Prochaska.
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/aktas]]
-
-### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Rusija]]
-- [[objektai/vietos/Varšuva]]

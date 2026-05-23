@@ -57,5 +57,3 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/A. Merkys]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Merkys]]

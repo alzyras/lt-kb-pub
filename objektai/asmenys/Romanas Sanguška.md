@@ -65,7 +65,6 @@ Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didži
 ### Susiję objektai
 - [[objektai/grupes/Chodkevičiai]]
 - [[objektai/asmenys/Jonas Chodkevičius]]
-- [[objektai/vietos/Livonija]]
 - [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
 - [[objektai/zodynas/etmonas]]
 - [[objektai/zodynas/hetmonas]]

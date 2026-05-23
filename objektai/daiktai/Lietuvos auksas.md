@@ -84,8 +84,3 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/pinigai]]
-
-### Susiję objektai
-- [[objektai/vietos/Švedija]]
-- [[objektai/vietos/Šveicarija]]
-- [[objektai/vietos/Lietuva]]

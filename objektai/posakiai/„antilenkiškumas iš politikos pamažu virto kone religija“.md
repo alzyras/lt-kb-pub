@@ -45,9 +45,9 @@ Tebetvyranti įjungimo į Lenkiją grėsmė Lietuvos valstybei sukūrė apsuptie
     - t-001
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/elekcija]]
+
 ### Susiję objektai
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/ivykiai/Vilniaus užėmimas (1655 m. rugpjūčio 7 d.)]]
-- [[objektai/vietos/Vilnius]]

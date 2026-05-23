@@ -58,13 +58,3 @@ Ukmergės rinktinė turėjo veržtis Ukmergės-UtenosZarasų kryptimi, Panevėž
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Panevėžio rinktinė]]
-- [[objektai/vietos/Rusija]]
-- [[objektai/vietos/Ukmergė]]
-- [[objektai/grupes/Ukmergės rinktinė]]
-- [[objektai/vietos/Zarasai]]
-- [[objektai/asmenys/Bronislovas Komorovskis]]

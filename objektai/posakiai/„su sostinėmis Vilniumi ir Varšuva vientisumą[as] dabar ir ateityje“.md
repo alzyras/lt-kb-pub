@@ -45,6 +45,4 @@ Dokumento preambulėje, be kitų nuostatų, buvo priminti ankstesni Lenkijos ir 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/ivykiai/Lietuvos ir Lenkijos draugiškų santykių ir gero kaimyninio bendradarbiavimo sutarties pasirašymas (1994 m. balandžio 26 d.)]]

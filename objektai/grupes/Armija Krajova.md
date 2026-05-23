@@ -45,4 +45,3 @@ Kovai su vietos lenkų pasipriešinimu civilinė administracija pasiuntė į Vil
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Vilnija]]

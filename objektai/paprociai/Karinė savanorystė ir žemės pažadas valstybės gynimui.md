@@ -113,7 +113,5 @@ Nepriklausomybės kovų metu karinė savanorystė siejama su entuziastingu stoji
 ### Susiję objektai
 - [[objektai/grupes/Bolševikai]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/M. Sleževičius]]

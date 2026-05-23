@@ -107,11 +107,3 @@ Kartu su žmona 1944 m. jis pasitraukė į Kalniškės mišką, kur pradėjo vad
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Krosna]]
-- [[objektai/vietos/Lazdijai]]
-- [[objektai/grupes/NKVD]]
-- [[objektai/vietos/Simnas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

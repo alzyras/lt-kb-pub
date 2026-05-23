@@ -53,16 +53,3 @@ Sprendžiant iš pagrindinių istorinių šaltinių, Švitrigailos ir Ordino paj
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/ežeras]]
-
-### Susiję objektai
-- [[objektai/vietos/Gelvonai]]
-- [[objektai/vietos/Pašilė]]
-- [[objektai/vietos/Viena]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/asmenys/Švitrigaila]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/vietos/Pabaiskas]]

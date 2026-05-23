@@ -114,9 +114,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
-- [[objektai/vietos/Europa]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Viena]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/feodalizmas]]
 - [[objektai/zodynas/kunigaikščiai]]

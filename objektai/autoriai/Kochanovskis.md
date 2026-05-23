@@ -84,8 +84,5 @@ Kochanovskis parodžiusi Lenkijos istorijos raidai plačius horizontus rytuo­ s
 
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Mažlenkiai]]
 - [[objektai/zodynas/unija]]
 - [[objektai/zodynas/lenkinti]]

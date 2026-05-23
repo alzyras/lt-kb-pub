@@ -99,10 +99,6 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/grupes/Antantė]]
-- [[objektai/vietos/Giedraičiai]]
-- [[objektai/vietos/Kaunas]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

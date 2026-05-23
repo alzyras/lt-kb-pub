@@ -1,7 +1,12 @@
 import test, { describe } from "node:test"
 import assert from "node:assert"
-import { generateSiteMap, ContentDetails, ContentIndexMap } from "./contentIndex"
-import { FilePath, FullSlug } from "../../util/path"
+import {
+  generateSiteMap,
+  filterPublicNavigationLinks,
+  ContentDetails,
+  ContentIndexMap,
+} from "./contentIndex"
+import { FilePath, FullSlug, SimpleSlug } from "../../util/path"
 import { GlobalConfiguration } from "../../cfg"
 
 const cfg = {
@@ -40,5 +45,28 @@ describe("ContentIndex sitemap", () => {
     assert.match(xml, /<lastmod>2026-05-06T12:00:00\.000Z<\/lastmod>/)
     assert.doesNotMatch(xml, /<lastmod>2026-05-01T12:00:00\.000Z<\/lastmod>/)
     assert.doesNotMatch(xml, /undefined|false|xmlns:xhtml/)
+  })
+})
+
+describe("ContentIndex links", () => {
+  test("filters broad navigation-only targets from the public link index", () => {
+    const links = filterPublicNavigationLinks([
+      "objektai/asmenys/Vytautas",
+      "objektai/vietos/Trakai",
+      "objektai/saltiniai/A",
+      "laikotarpiai/XV amžius",
+      "temos/valdovas",
+    ] as SimpleSlug[])
+
+    assert.deepStrictEqual(links, ["objektai/asmenys/Vytautas", "temos/valdovas"])
+  })
+
+  test("drops outgoing links from broad navigation-only pages", () => {
+    const links = filterPublicNavigationLinks(
+      ["objektai/asmenys/Vytautas", "temos/valdovas"] as SimpleSlug[],
+      "laikotarpiai/XX-amzius",
+    )
+
+    assert.deepStrictEqual(links, [])
   })
 })

@@ -78,15 +78,3 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Hanza]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rygiečiai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/autoriai/Detmaro Liubeko]]
-- [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]
-- [[objektai/vietos/Polockas]]
-- [[objektai/vietos/Rostokas]]

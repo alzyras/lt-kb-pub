@@ -71,10 +71,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kaunas]]
 - [[objektai/grupes/LDK 1-oji Tautinė brigada]]
-- [[objektai/vietos/Rusija]]
 - [[objektai/ivykiai/Vilniaus išvadavimas (1794 m. balandžio 22–23 d.)]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/vietos/Šiauliai]]
 - [[objektai/zodynas/husarai]]

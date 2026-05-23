@@ -72,12 +72,8 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Viena]]
 - [[objektai/autoriai/Dalius Žygelis]]
 - [[objektai/asmenys/J. Juška]]
 - [[objektai/autoriai/Karolis Zikaras]]
-- [[objektai/vietos/Kiauneliškiai]]
 - [[objektai/autoriai/Ričardas Čekutis]]
-- [[objektai/vietos/Žuvinto ežeras]]
-- [[objektai/vietos/Žuvinto palios]]
 - [[objektai/posakiai/„karas po karo“]]

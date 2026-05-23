@@ -56,9 +56,3 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Kolainiai]]
-- [[objektai/vietos/Nemunas]]
-- [[objektai/zodynas/magistras]]

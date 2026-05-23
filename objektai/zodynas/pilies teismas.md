@@ -49,5 +49,4 @@ Pagaliau baudžiamosios (kriminalinės) bylos buvo pavestos spręsti trečiam, v
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Viena]]
 - [[objektai/zodynas/urėdas]]

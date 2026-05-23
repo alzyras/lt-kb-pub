@@ -70,7 +70,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Aukaimis]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Mederaba]]
 - [[objektai/autoriai/Dusburgas]]

@@ -81,5 +81,4 @@ Bet po Raciąžo taikos Švitrigaila grįžo pas Vytautą ir tuoj gavo valdyti B
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kijevas]]
 - [[objektai/ivykiai/Vitebsko užėmimas (1392 m.)]]

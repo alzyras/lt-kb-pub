@@ -153,7 +153,6 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Husitai]]
-- [[objektai/vietos/Maskva]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
@@ -166,5 +165,4 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
 - [[objektai/grupes/Vengrai]]
 - [[objektai/ivykiai/Vilniaus akademijos įkūrimas (1579 m.)]]
 - [[objektai/asmenys/Vosylius II]]
-- [[objektai/vietos/Luckas]]
 - [[objektai/asmenys/Zofija Algimantaitė]]

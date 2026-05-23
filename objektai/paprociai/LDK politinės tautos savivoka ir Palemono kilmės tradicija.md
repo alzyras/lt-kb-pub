@@ -79,7 +79,6 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/grupes/Gediminaičių dinastija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuvos bajorija]]
 - [[objektai/asmenys/Palemonas]]
 - [[objektai/grupes/Rusėnai]]

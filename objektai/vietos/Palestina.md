@@ -146,15 +146,3 @@ karai prieš turkus Palestinoje ir vyravo nuomonė, kad su netikėliais pagonimi
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Albertas]]
-- [[objektai/asmenys/Albertas (Rygos vyskupas)]]
-- [[objektai/vietos/Europa]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Rimini]]
-- [[objektai/paprociai/Vakarų pagalbos kvietimas ir svečių iš Vokietijos šaukimas]]
-- [[objektai/ivykiai/Veronos auksinė bulė ir Kuršo, Lietuvos bei Žiemgalių padovanojimas (1245 m.)]]
-- [[objektai/zodynas/didysis magistras]]
-- [[objektai/grupes/Joanitų ordinas]]

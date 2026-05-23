@@ -94,8 +94,4 @@ tags:
 ### Susiję objektai
 - [[objektai/daiktai/Artilerija]]
 - [[objektai/grupes/Bolševikai]]
-- [[objektai/vietos/Daugpilis]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Užpaliai]]
-- [[objektai/vietos/Dauguva]]

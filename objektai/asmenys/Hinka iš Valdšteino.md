@@ -57,5 +57,4 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Karūna]]
-- [[objektai/vietos/Liublinas]]
 - [[objektai/grupes/Čekai]]

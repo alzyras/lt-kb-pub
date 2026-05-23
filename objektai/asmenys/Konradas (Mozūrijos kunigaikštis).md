@@ -103,11 +103,7 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kulmas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Mozūrija]]
-- [[objektai/vietos/Prūsai]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/vietos/Vysla]]
 - [[objektai/zodynas/pagonybė]]

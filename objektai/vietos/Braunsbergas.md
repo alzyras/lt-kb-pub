@@ -50,11 +50,3 @@ Jie buvo įkurdinti Varmijos vyskupystės centre Braunsberge, o iš ten paplito 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/zodynas/vyskupystė]]
-- [[objektai/vietos/Varmijos vyskupystė]]

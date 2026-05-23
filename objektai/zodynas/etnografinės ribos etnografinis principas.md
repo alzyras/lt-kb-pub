@@ -94,24 +94,13 @@ Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos valstyb�
     - t-003
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/upė]]
+
 ### Susiję objektai
-- [[objektai/vietos/Alūkšta]]
-- [[objektai/vietos/Bernas]]
-- [[objektai/vietos/Dauguva]]
-- [[objektai/vietos/Europa]]
-- [[objektai/vietos/Kaunas]]
-- [[objektai/vietos/Klaipėda]]
-- [[objektai/vietos/Kuršas]]
-- [[objektai/vietos/Liepoja]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos seimas|Lietuvos seimas (seimas)]]
-- [[objektai/vietos/Slanimas]]
 - [[objektai/asmenys/Steponas]]
-- [[objektai/vietos/Suvalkai]]
-- [[objektai/vietos/Valkaviskas]]
-- [[objektai/vietos/Vilniaus gubernija]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/gubernija]]
 - [[objektai/posakiai/„Lithuania Propria“]]
 - [[objektai/asmenys/Jurgis Šaulys]]

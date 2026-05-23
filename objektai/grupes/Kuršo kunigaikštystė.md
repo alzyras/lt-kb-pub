@@ -146,13 +146,7 @@ Po ilgų ginčų buvo sutarta, kad Livonija ir Kuršo kunigaikštija bus laikomo
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kuršas]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Liublinas]]
-- [[objektai/vietos/Livonija]]
 - [[objektai/grupes/Livonijos konfederacija]]
 - [[objektai/zodynas/konfederacija]]
 - [[objektai/zodynas/unija]]
-- [[objektai/vietos/Viena]]
 - [[objektai/grupes/Livonijos kunigaikštystė]]

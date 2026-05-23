@@ -80,6 +80,4 @@ Vinrichas von Kniprodė, kryžiuočių ordino magistras (1351 —1382 m.).
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Europa]]
-- [[objektai/vietos/Prūsai]]
 - [[objektai/zodynas/magistras]]

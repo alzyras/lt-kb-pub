@@ -54,4 +54,3 @@ Stryjkovskio kroniką, Gedimino laikų žymiojo karo vado Dovydo Gardiniškio ž
 ### Susiję objektai
 - [[objektai/asmenys/Dovydas (Gardino pilininkas)]]
 - [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
-- [[objektai/vietos/Maskva]]

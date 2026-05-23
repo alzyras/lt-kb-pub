@@ -56,4 +56,3 @@ Jeigu iki tol Vytautas atrodė nepastovus, besiblaškantis, avantiūristas, tai 
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/asmenys/J. Aukštuolaitis]]
-- [[objektai/vietos/Tauragė]]

@@ -48,12 +48,7 @@ Lietuvos pripažinimo reikalai nejudėjo į priekį, daugybė durų jai buvo už
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Baltija]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Prancūzija]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/vietos/Rusija]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/karo grobis]]
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

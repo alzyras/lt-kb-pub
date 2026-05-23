@@ -81,5 +81,3 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Rusai]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Rusija]]

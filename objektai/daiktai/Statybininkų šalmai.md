@@ -80,8 +80,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/daiktai/Dujokaukės]]
 - [[objektai/asmenys/M. Kalašnikovas]]
 - [[objektai/daiktai/Sovietų automatinis šautuvas AK-47]]

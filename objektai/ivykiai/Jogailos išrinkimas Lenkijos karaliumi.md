@@ -68,7 +68,3 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Sandomiras]]
-- [[objektai/vietos/Valkaviskas]]
-- [[objektai/vietos/Liublinas]]

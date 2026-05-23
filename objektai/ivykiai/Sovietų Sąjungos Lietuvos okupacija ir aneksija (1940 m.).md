@@ -79,13 +79,9 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Latvija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/SSRS]]
 - [[objektai/grupes/Sovietų Sąjunga]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/vietos/Estija]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/Baltijos valstybių okupavimas ir įjungimas į SSRS sudėtį (1940 m. vasara)]]
 - [[objektai/zodynas/liaudies demokratija]]

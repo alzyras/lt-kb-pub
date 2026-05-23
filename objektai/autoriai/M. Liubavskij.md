@@ -79,13 +79,8 @@ Liubavskij). Liubavskij, M.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kijevas]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/vietos/Rusija]]
 - [[objektai/daiktai/Vaškas]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/vietos/Bizantija]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Slavai]]

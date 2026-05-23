@@ -65,9 +65,5 @@ Vietinio valdymo grandyje buvo gubernija, kurios galva – caro skiriamas, bet v
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Gardinas]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Viena]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/generalgubernatorius]]
 - [[objektai/zodynas/gubernija]]

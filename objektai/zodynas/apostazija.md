@@ -123,7 +123,6 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
 - [[temos/religinis-terminas]]
 
 ### Susiję objektai
-- [[objektai/vietos/Durbė]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/ivykiai/Durbės mūšis (1260 m.)]]

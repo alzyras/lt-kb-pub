@@ -72,11 +72,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Konstancija]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Livonija]]
-- [[objektai/vietos/Naugardas]]
-- [[objektai/vietos/Pskovas]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Livonijos ordinas]]

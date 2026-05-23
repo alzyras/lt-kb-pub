@@ -80,11 +80,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Auksinė Orda]]
-- [[objektai/vietos/Dniepras]]
-- [[objektai/vietos/Krokuva]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Podolė]]
-- [[objektai/vietos/Ragainė]]
 - [[objektai/asmenys/Timūr-Kutlukas]]
 - [[objektai/asmenys/Tochtamišas]]
 - [[objektai/grupes/Tochtamišo totoriai]]

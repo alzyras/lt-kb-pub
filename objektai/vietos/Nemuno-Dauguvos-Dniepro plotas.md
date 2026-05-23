@@ -53,13 +53,3 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Baltai]]
-- [[objektai/vietos/Europa]]
-- [[objektai/grupes/Germanai]]
-- [[objektai/vietos/Pripetė]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/zodynas/geležies amžius]]
-- [[objektai/vietos/Pripetės pelkės]]

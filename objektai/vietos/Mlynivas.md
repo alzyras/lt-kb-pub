@@ -44,21 +44,3 @@ tą patį darė čia valdas įgiję didikai Radvilos (Olyka) ir Chodkevičiai (M
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/didikas]]
-
-### Susiję objektai
-- [[objektai/grupes/Chodkevičiai]]
-- [[objektai/vietos/Ostrohas]]
-- [[objektai/vietos/Voluinė]]
-- [[objektai/grupes/Vyšnioveckiai]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/grupes/Čartoriskiai]]
-- [[objektai/vietos/Klevanė]]
-- [[objektai/vietos/Kovelis]]
-- [[objektai/vietos/Slavuta]]
-- [[objektai/vietos/Vyšnivecis]]
-- [[objektai/zodynas/tėvonija]]
-- [[objektai/zodynas/tėvonija tėvų palikimas]]

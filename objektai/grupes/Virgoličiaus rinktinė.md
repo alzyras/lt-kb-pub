@@ -58,6 +58,4 @@ Virgoličiaus, kur ėmė užiminėti patalpas, plėšti gyventojus ir kitaip sav
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kuršėnai]]
 - [[objektai/asmenys/Virgoličius]]
-- [[objektai/vietos/Šiauliai]]

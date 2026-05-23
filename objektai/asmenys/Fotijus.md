@@ -58,10 +58,6 @@ Jis buvo tačiau priverstas pripažinti « Kijevo ir visos Rusios» metropolitu 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kijevas]]
-- [[objektai/vietos/Kijevo Rusia]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Polockas]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/zodynas/metropolitas]]

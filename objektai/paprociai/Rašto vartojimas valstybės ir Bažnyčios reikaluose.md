@@ -68,6 +68,5 @@ Nenurodyta
 - [[temos/laiškas]]
 
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Slavai]]

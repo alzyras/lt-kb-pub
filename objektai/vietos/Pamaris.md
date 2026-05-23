@@ -67,17 +67,3 @@ Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbin
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Gardino sritis]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
-- [[objektai/grupes/Kalavijuočių ordinas]]
-- [[objektai/asmenys/Kazimieras Didysis]]
-- [[objektai/asmenys/Vladislovas Lokietka]]
-- [[objektai/asmenys/Vladislovas Łokietka]]
-- [[objektai/ivykiai/Žalgirio mūšis (1410 m.)]]
-- [[objektai/grupes/Pamario kunigaikščių sąjunga]]
-- [[objektai/vietos/Pamarys]]

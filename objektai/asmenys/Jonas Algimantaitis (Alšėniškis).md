@@ -49,5 +49,4 @@ Joną Algimantaitį (Alšėniškį)^3 ).
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kijevas]]
 - [[objektai/zodynas/vietininkas]]

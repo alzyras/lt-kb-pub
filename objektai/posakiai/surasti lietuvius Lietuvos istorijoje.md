@@ -63,10 +63,7 @@ Perėjęs pagrindinai į poliublininius laikus ir juose «ieškodamas lietuvių 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/A. Šapoka]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Liublinas]]
 - [[objektai/zodynas/poliublininis laikotarpis]]
 - [[objektai/zodynas/unija]]
 - [[objektai/zodynas/poliublininiai laikai]]

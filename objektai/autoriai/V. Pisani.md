@@ -57,5 +57,4 @@ Pisani, V.: II paganesimo balto-slavo, Storia delle religioni, red. G.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Saulė]]

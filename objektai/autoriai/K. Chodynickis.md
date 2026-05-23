@@ -52,6 +52,4 @@ Chodynickis ir J.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/unija]]

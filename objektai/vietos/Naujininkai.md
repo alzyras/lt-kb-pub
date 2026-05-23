@@ -48,11 +48,3 @@ Frankovskio vadovaujamus lietuvių įtvirtinimus tarp Naujininkų, šv.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kazokai]]
-- [[objektai/asmenys/Leontijus Bennigsenas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Pogulianka]]
-- [[objektai/asmenys/M. Frankovskis]]

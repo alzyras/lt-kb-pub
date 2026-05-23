@@ -90,10 +90,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Giedraičiai]]
-- [[objektai/vietos/Labanoras]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Ukmergė]]
 - [[objektai/ivykiai/Giedraičių kautynės]]

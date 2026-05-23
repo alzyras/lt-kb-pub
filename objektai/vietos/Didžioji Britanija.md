@@ -63,20 +63,3 @@ Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė monopolizuoti Lie
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Brazilija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuvos diplomatinė tarnyba]]
-- [[objektai/vietos/SSRS]]
-- [[objektai/vietos/Urugvajus]]
-- [[objektai/vietos/Vatikanas]]
-- [[objektai/vietos/Vokietija]]
-- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
-- [[objektai/asmenys/Josifas Stalinas]]
-- [[objektai/daiktai/Lietuvos trispalvė]]
-- [[objektai/paprociai/Masinės džiaugsmo manifestacijos gavus tarptautinį pripažinimą]]
-- [[objektai/zodynas/aneksija]]
-- [[objektai/vietos/Kanada]]

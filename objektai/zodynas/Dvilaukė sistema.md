@@ -81,7 +81,5 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/paprociai/Lydimoji žemdirbystė]]
-- [[objektai/vietos/Viena]]
 - [[objektai/grupes/Valakai]]

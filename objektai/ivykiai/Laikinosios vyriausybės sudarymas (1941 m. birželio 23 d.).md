@@ -55,7 +55,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Berlynas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/autoriai/Juozas Ambrazevičius]]
 - [[objektai/grupes/Laikinoji vyriausybė]]

@@ -48,8 +48,6 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Europa]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Europos Taryba|Europos Taryba (institucija)]]
 - [[objektai/grupes/Jungtinių Tautų organizacija]]
 - [[objektai/grupes/UNESCO]]

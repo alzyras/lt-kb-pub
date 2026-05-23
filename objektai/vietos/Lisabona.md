@@ -39,9 +39,3 @@ tai neatrodė bloga išeitis – Roma, Madridas ar Lisabona tebespinduliavo kata
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Madridas]]
-- [[objektai/vietos/Paragvajus]]
-- [[objektai/vietos/Meksika]]

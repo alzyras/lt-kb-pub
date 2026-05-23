@@ -57,9 +57,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Liublinas]]
-- [[objektai/vietos/SSRS]]
-- [[objektai/vietos/Vokietija]]
 - [[objektai/asmenys/Joachimas fon Ribentropas]]
-- [[objektai/vietos/Liublino vaivadija]]

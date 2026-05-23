@@ -79,8 +79,6 @@ Vartojama politinės teisės ir valdovo statuso kontekste.
 - [[temos/teisinis-terminas]]
 
 ### Susiję objektai
-- [[objektai/vietos/Austrija]]
-- [[objektai/vietos/Prūsija]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/1797 m. Peterburgo konvencija dėl trečiojo padalijimo patvirtinimo]]
 - [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis (valdovas)]]

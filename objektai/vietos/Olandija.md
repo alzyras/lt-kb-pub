@@ -57,8 +57,3 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Anglija]]
-- [[objektai/grupes/Abiejų Tautų Respublika]]

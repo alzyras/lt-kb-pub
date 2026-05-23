@@ -66,6 +66,4 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lenkija]]
 - [[objektai/zodynas/Suverenitetas]]
-- [[objektai/vietos/Vilnius]]

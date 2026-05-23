@@ -74,20 +74,3 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Valkininkai]]
-- [[objektai/grupes/12-asis ulonų pulkas]]
-- [[objektai/grupes/2-asis pėstininkų pulkas]]
-- [[objektai/grupes/7-asis pėstininkų pulkas]]
-- [[objektai/asmenys/A. Chlapovskis]]
-- [[objektai/asmenys/E. Doterivas]]
-- [[objektai/asmenys/H. Dembinskis]]
-- [[objektai/grupes/Kališo raitelių dalinys]]
-- [[objektai/grupes/Poznanės raitininkų eskadronai]]
-- [[objektai/vietos/Salaspilis]]
-- [[objektai/grupes/Trakų sukilėlių daliniai]]
-- [[objektai/vietos/Vokė]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/zodynas/zonderkomanda]]

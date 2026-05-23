@@ -69,12 +69,7 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
 - [[temos/dinastija]]
 
 ### Susiję objektai
-- [[objektai/vietos/Europa]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Rusija]]
 - [[objektai/grupes/Švedai]]
-- [[objektai/vietos/Švedija]]
 - [[objektai/posakiai/„tvanas“]]
 - [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis (valdovas)]]
 - [[objektai/ivykiai/Tvanas]]

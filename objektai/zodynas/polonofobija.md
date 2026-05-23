@@ -49,8 +49,10 @@ N ors Rusijos imperijos vidaus politika nerusiškų imperijos regionų ir „pak
     - t-001
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/tikėjimas]]
+
 ### Susiję objektai
 - [[objektai/grupes/Rusai]]
-- [[objektai/vietos/Rusija]]
 - [[objektai/asmenys/Aleksandras III]]
 - [[objektai/zodynas/„lenkų pradai“ „rusų pradai“]]

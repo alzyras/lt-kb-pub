@@ -45,7 +45,5 @@ Stanislovo garbei („kad abi lygiateisės tautos turėtų vieną globėją ir u
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Krokuva]]
-- [[objektai/vietos/Viena]]
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/asmenys/Šv. Stanislovas]]

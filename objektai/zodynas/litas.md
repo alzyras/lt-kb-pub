@@ -69,7 +69,6 @@ Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatym
 - [[temos/pinigai]]
 
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuvos bankas]]
 - [[objektai/daiktai/Lietuvos pinigai]]
 - [[objektai/daiktai/Lietuvos pinigai litas]]

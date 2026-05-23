@@ -65,19 +65,11 @@ Nes Lietuviai Vilnius 0 Jotvingiai aw MI Visvaldis buvo nugalėtas NY Rygos vysk
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Europa]]
 - [[objektai/grupes/Jotvingiai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Kulmas]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Mozūrija]]
-- [[objektai/vietos/Ryga]]
 - [[objektai/grupes/Teutonai]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/grupes/Dobrinės ordinas]]
 - [[objektai/ivykiai/Dobrinės ordino įkūrimas]]
 - [[objektai/ivykiai/Kalavijuočių ordino įkūrimas]]
-- [[objektai/vietos/Kiauneliškiai]]
-- [[objektai/vietos/Padauguvis]]
-- [[objektai/vietos/Palestina]]
 - [[objektai/grupes/Vilniaus Akademija]]

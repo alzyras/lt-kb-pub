@@ -79,8 +79,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Ukraina]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/ekonomija]]
 - [[objektai/zodynas/konfederacija]]
-- [[objektai/vietos/Šiauliai]]

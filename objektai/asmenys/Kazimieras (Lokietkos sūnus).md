@@ -57,13 +57,10 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Dancigas]]
 - [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
 - [[objektai/ivykiai/Gedimino sąjunga su Lenkija]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Lokietka]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/asmenys/Aldona Gediminaitė]]

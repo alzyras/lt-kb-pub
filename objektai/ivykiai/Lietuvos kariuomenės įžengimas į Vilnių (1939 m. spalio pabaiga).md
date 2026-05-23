@@ -69,7 +69,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
-- [[objektai/vietos/SSRS]]
-- [[objektai/vietos/Vilnius]]

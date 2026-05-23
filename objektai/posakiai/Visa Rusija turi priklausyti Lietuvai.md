@@ -73,9 +73,6 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kijevo Rusia]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Maskva]]
 - [[objektai/grupes/Slavai]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

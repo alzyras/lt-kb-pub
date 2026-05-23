@@ -46,7 +46,6 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
 - [[temos/dinastija]]
 
 ### Susiję objektai
-- [[objektai/vietos/Europa]]
 - [[objektai/grupes/Jogailaičiai]]
 - [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
 - [[objektai/asmenys/Traidenis]]

@@ -80,16 +80,3 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Prūsija]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/vietos/Angerburgas]]
-- [[objektai/vietos/Girdava]]
-- [[objektai/vietos/Johanisburgas]]
-- [[objektai/vietos/Lotzenburgas]]
-- [[objektai/vietos/Röselis]]
-- [[objektai/vietos/Lunenburgas]]

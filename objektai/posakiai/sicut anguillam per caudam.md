@@ -55,5 +55,4 @@ Pats ordinas Konstancoje pripažino Žemaičius telaikęs lyg slidų ungurį už
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Konstanca]]
 - [[objektai/grupes/Kryžiuočių ordinas]]

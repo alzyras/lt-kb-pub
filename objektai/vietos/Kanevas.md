@@ -64,11 +64,3 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Cerkasai]]
-- [[objektai/vietos/Dniepras]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
-- [[objektai/vietos/Irpenė]]
-- [[objektai/vietos/Kijevas]]

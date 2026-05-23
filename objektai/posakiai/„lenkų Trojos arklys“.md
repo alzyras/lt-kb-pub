@@ -45,7 +45,4 @@ Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačia
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Rusija]]
-- [[objektai/vietos/Vokietija]]
 - [[objektai/grupes/Šaulių sąjunga]]

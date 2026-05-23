@@ -54,7 +54,6 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Andrius Sniadeckis]]
-- [[objektai/vietos/Austrija]]
 - [[objektai/asmenys/Joachimas Lelevelis|Joachimas Lelevelis (istorikas)]]
 - [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
 - [[objektai/autoriai/Lelevelis]]

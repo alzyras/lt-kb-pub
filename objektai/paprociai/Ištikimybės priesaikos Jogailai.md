@@ -120,6 +120,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kaunas]]
 - [[objektai/autoriai/Prochaska]]
 - [[objektai/zodynas/Miera|miera]]

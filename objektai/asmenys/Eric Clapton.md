@@ -45,7 +45,5 @@ O dabar atspėkime, kas bendra tokiems pasaulinio garso muzikantams kaip Jimi He
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Londonas]]
 - [[objektai/zodynas/Bendrinė sąvoka]]
 - [[objektai/daiktai/Gitara „Zemaitis“]]

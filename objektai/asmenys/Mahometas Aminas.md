@@ -65,10 +65,6 @@ Pasiuntinys taip pat gabeno Kazanės chano MahometoAmino laišką, kuriame jis L
 - [[temos/laiškas]]
 
 ### Susiję objektai
-- [[objektai/vietos/Kazanė]]
-- [[objektai/vietos/Krymas]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/chanas]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/asmenys/Žygimantas Senasis]]
-- [[objektai/vietos/Maskva]]

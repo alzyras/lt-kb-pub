@@ -78,12 +78,3 @@ Neprasigyvenę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugia
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Baltija]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/NATO]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/asmenys/Džordžas Bušas]]

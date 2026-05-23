@@ -104,10 +104,7 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/grupes/Baro konfederacija]]
-- [[objektai/vietos/Donas]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Rusija]]
 - [[objektai/zodynas/konfederacija]]
 - [[objektai/grupes/Bajorai]]

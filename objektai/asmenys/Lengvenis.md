@@ -173,13 +173,8 @@ Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir
 - [[temos/aktas]]
 
 ### Susiję objektai
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Naugardas]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/asmenys/Jurgis (Lengvenio sūnus)]]
-- [[objektai/vietos/Kremenecas]]
-- [[objektai/vietos/Riazanė]]
-- [[objektai/vietos/Smolenskas]]
 - [[objektai/grupes/Smolensko pulkai]]
 - [[objektai/paprociai/Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais|Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais (sutartis)]]

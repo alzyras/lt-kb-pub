@@ -90,4 +90,3 @@ tags: []
 ### Susiję objektai
 - [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/vietos/Žalgiris]]

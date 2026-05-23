@@ -45,10 +45,7 @@ Sovietų Sąjunga, pasinaudodama tarptautine padėtimi ir tuo, kad viso pasaulio
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Latvija]]
-- [[objektai/vietos/SSRS]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/vietos/Baltija]]
 - [[objektai/grupes/Sovietų Sąjunga]]
 - [[objektai/ivykiai/Baltijos valstybių okupavimas ir įjungimas į SSRS sudėtį (1940 m. vasara)]]
 - [[objektai/ivykiai/Sovietų Sąjungos Lietuvos okupacija ir aneksija (1940 m.)]]

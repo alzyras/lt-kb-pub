@@ -167,7 +167,3 @@ tags: []
     - t-012
 ## Pastabos
 galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta kaip atskiras jūros vardas.
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Daugava]]

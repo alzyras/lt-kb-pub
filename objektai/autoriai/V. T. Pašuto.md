@@ -87,9 +87,5 @@ Pašuto : Obrazovanie litovskogo gosudarstva (išl. Pašuto, V.
 - [[temos/laiškas]]
 
 ### Susiję objektai
-- [[objektai/vietos/Kijevas]]
-- [[objektai/vietos/Krokuva]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Maskva]]
 - [[objektai/daiktai/Skydas]]
 - [[objektai/zodynas/metrika]]

@@ -77,5 +77,4 @@ Gimbutienė (Gimbutas), M. Gimbutienė, M.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Baltija]]
 - [[objektai/grupes/Lietuviai]]

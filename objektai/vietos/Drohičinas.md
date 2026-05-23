@@ -118,16 +118,3 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Jotvingai]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Palenkė]]
-- [[objektai/asmenys/Traidenis]]
-- [[objektai/vietos/Voluinė]]
-- [[objektai/asmenys/Vytenis]]
-- [[objektai/asmenys/Liubartas Gediminaitis]]
-- [[objektai/ivykiai/Ordino žygis į Lietuvą ir Gardino, Merkinės, Drohičino bei Lydos sudeginimas (1393 m.)]]
-- [[objektai/vietos/Brasta]]
-- [[objektai/zodynas/Magdeburgo teisės]]

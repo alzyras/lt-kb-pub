@@ -95,7 +95,6 @@ Totorių pajėgos Aukso ordos chano Timūr-Kutluko, Krymo emyro Edygos kariai. T
 - [[objektai/grupes/Auksinė Orda]]
 - [[objektai/asmenys/Edigėjus]]
 - [[objektai/asmenys/Edyga]]
-- [[objektai/vietos/Krymas]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/grupes/Totorių pajėgos]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

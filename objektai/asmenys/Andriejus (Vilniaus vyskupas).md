@@ -56,6 +56,5 @@ Rodos, kad Jogaila su Vytautu ir Vilniaus vysk.
 - [[temos/paliaubos]]
 
 ### Susiję objektai
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/paliaubos]]
 - [[objektai/grupes/Kryžiuočių ordinas]]

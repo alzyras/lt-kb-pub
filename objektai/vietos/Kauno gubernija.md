@@ -162,25 +162,3 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Alūkšta]]
-- [[objektai/vietos/Dauguva]]
-- [[objektai/vietos/Gardinas]]
-- [[objektai/vietos/Kaunas]]
-- [[objektai/vietos/Klaipėda]]
-- [[objektai/vietos/Kuršas]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Liepoja]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Minskas]]
-- [[objektai/vietos/Rusija]]
-- [[objektai/vietos/Slanimas]]
-- [[objektai/vietos/Suvalkai]]
-- [[objektai/vietos/Valkaviskas]]
-- [[objektai/vietos/Vilniaus gubernija]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/zodynas/gubernija]]
-- [[objektai/posakiai/„Lithuania Propria“]]

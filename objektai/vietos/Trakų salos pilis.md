@@ -51,8 +51,3 @@ Antrame plane matyti Trakų salos pilis.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Salos]]
-- [[objektai/vietos/Trakai]]

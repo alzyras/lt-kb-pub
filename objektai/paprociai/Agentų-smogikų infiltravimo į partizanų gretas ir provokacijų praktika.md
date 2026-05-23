@@ -146,5 +146,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/ivykiai/Šimonių girios apgultis (1949 m.)]]

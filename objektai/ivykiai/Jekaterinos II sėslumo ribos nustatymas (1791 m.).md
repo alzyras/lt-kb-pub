@@ -56,5 +56,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Jekaterina II]]
-- [[objektai/vietos/Rusija]]
 - [[objektai/grupes/Žydai]]

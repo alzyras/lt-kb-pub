@@ -222,20 +222,13 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
     - t-014
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/elekcija]]
+
 ### Susiję objektai
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Liublinas]]
-- [[objektai/vietos/Livonija]]
-- [[objektai/vietos/Maskva]]
-- [[objektai/vietos/Transilvanija]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/unija]]
-- [[objektai/vietos/Šv. Jonų bažnyčia]]
-- [[objektai/vietos/Jelgava]]
 - [[objektai/daiktai/Jono Budrio Polovinsko špaga]]
 - [[objektai/ivykiai/Nesvyžiaus jėzuitų kolegijos įkūrimas (1582 m.)]]
-- [[objektai/vietos/Polockas]]
 - [[objektai/daiktai/Stepono Batoro paradinis kalavijas]]
 - [[objektai/zodynas/kariuomenės konfederacija]]
 - [[objektai/posakiai/„aidint patrankoms, mūzos tyli“]]

@@ -132,8 +132,6 @@ Rašliava apibūdinama kaip istorinė, o jos publicistinis pobūdis išryškėja
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/unija]]
 - [[objektai/autoriai/K. Duonelaitis]]
 - [[objektai/autoriai/Rėza (leidėjas, 1818 m.)]]

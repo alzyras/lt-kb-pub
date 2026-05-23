@@ -53,9 +53,11 @@ Is­ torikai Danilavičius ir Koneczny tą dokumentą laiko falsifikatu; tačiau
     - t-001
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/dokumentas]]
+
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/paprociai/Ištikimybės priesaikos Jogailai]]
-- [[objektai/vietos/Konstancija]]
 - [[objektai/daiktai/Vėliavos]]
 - [[objektai/zodynas/apsigynimo ir puolimo sutartis|apsigynimo ir puolimo sutartis (sutartis)]]

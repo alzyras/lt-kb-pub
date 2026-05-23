@@ -138,15 +138,8 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Konstancija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Lvovas]]
-- [[objektai/vietos/Ryga]]
 - [[objektai/zodynas/Savanoris]]
-- [[objektai/vietos/Viena]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/kapitula]]
-- [[objektai/vietos/Žemaitija]]
 - [[objektai/asmenys/Aleksandras (Moldavijos valdovas)]]
 - [[objektai/asmenys/Jonas Paleologas]]
 - [[objektai/asmenys/Manuelis]]

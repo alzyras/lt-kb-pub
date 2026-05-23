@@ -69,8 +69,6 @@ Kosakovskis.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/daiktai/Namas]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/etmonas]]
 - [[objektai/zodynas/hetmonas]]

@@ -154,13 +154,7 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Ateitis]]
-- [[objektai/vietos/Baltija]]
 - [[objektai/zodynas/ES pilietis]]
-- [[objektai/vietos/Estija]]
-- [[objektai/vietos/Europa]]
-- [[objektai/vietos/Kijevo Rusia]]
-- [[objektai/vietos/Latvija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/peticija]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/Lietuvos įstojimas į ES ir NATO (2004 m.)]]

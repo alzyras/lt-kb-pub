@@ -121,12 +121,9 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Livonija]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/asmenys/Morta]]
-- [[objektai/vietos/Ryga]]
 - [[objektai/asmenys/Tautvilas]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/kunigaikščiai]]

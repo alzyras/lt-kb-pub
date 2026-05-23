@@ -74,10 +74,6 @@ Tik vėliau (1872 m.) Panevėžy buvo įsteigta mokytojų seminarija, kuri ruoš
 ### Susiję objektai
 - [[objektai/grupes/Baltarusiai]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/vietos/Užnemunė]]
-- [[objektai/vietos/Veiveriai]]
-- [[objektai/vietos/Viena]]
 - [[objektai/zodynas/rusinimas]]

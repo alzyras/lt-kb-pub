@@ -141,10 +141,8 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
 - [[temos/teisinis-terminas]]
 
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/asmenys/Žygimantas]]
-- [[objektai/vietos/Berlynas]]
 - [[objektai/autoriai/K. Avižonis]]
 - [[objektai/grupes/Lietuvos didikai]]
 - [[objektai/zodynas/poliublininiai laikai]]

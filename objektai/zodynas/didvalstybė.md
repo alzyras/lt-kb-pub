@@ -64,8 +64,6 @@ Be to, ten, kur nereikėjo pripažinimo, kur užteko savo pačios galių, pagoni
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/vietos/Baltija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/posakiai/„nuo jūros iki jūros“]]
 - [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]

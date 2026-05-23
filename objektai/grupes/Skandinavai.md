@@ -72,14 +72,14 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     - t-002
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/upė]]
+
 ### Susiję objektai
 - [[objektai/grupes/Baltai]]
 - [[objektai/grupes/Kuršiai]]
-- [[objektai/vietos/Prūsai]]
 - [[objektai/grupes/Vikingai]]
-- [[objektai/vietos/Švedija]]
 - [[objektai/ivykiai/Vikingų įsigalėjimas aisčių kraštuose ir jų sodybų sunaikinimas]]
 - [[objektai/grupes/Bizantijos imperija]]
-- [[objektai/vietos/Juodoji jūra]]
 - [[objektai/grupes/Voluiniečiai]]
 - [[objektai/paprociai/Kuršių plėšiamieji žygiai į Danijos ir Švedijos pakrantes]]

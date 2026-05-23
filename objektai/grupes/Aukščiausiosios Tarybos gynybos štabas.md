@@ -53,7 +53,6 @@ p. 254, Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius,
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Aukščiausiosios Tarybos rūmai|Aukščiausiosios Tarybos rūmai (institucija)]]
 - [[objektai/asmenys/Audrius Butkevičius]]
 - [[objektai/asmenys/Jonas Gečas]]
 - [[objektai/asmenys/Virginijus Česnulevičius]]

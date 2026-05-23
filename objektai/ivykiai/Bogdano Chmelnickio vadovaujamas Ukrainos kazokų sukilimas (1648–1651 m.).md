@@ -105,10 +105,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kazokai]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Lojevas]]
-- [[objektai/vietos/Mozyrius]]
-- [[objektai/vietos/Ovručas]]
-- [[objektai/vietos/Starodubas]]
-- [[objektai/vietos/Ukraina]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

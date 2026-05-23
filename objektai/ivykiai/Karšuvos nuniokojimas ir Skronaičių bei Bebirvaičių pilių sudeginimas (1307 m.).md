@@ -67,7 +67,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Karšuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Ragainė]]
 - [[objektai/zodynas/komtūras]]

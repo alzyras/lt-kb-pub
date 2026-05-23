@@ -103,10 +103,6 @@ Be jų, dar turėjo savo paties pinigais surinktos kariuomenės Vitebsko vaivada
 - [[temos/pinigai]]
 
 ### Susiję objektai
-- [[objektai/vietos/Kaunas]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
-- [[objektai/vietos/Rusija]]
 - [[objektai/grupes/Rusijos kariuomenė]]
 - [[objektai/grupes/Sapiegos]]

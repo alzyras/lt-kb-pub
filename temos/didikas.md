@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 59.
+Objektų skaičius: 55.
 
 ## Kaip naudoti
 
@@ -64,12 +64,6 @@ Objektų skaičius: 59.
 ### Posakiai
 - [deržati mi jeho vyše vseje našeje bratije](../objektai/posakiai/der%C5%BEati%20mi%20jeho%20vy%C5%A1e%20vseje%20na%C5%A1eje%20bratije)
 - [Jūs abu esate mūsų viešpačiai](../objektai/posakiai/J%C5%ABs%20abu%20esate%20m%C5%ABs%C5%B3%20vie%C5%A1pa%C4%8Diai)
-
-### Vietos
-- [Bistrica](../objektai/vietos/Bistrica)
-- [Mlynivas](../objektai/vietos/Mlynivas)
-- [Saksonija](../objektai/vietos/Saksonija)
-- [Vidžemė](../objektai/vietos/Vid%C5%BEem%C4%97)
 
 ### Įvykiai
 - [1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas (unija)](../objektai/ivykiai/1413%20m.%20Horodl%C4%97s%20unijos%20per%C5%BEi%C5%ABra%20ir%20naujas%20i%C5%A1tikimyb%C4%97s%20pa%C5%BEadas)

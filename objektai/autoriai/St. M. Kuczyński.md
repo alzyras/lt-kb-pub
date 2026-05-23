@@ -75,10 +75,3 @@ Kuczyński, S. Kuczyński : Wielka wojna z Zakonem Krzyżackim w latach 1409-11 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Kaunas]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Liublinas]]
-- [[objektai/vietos/Varšuva]]

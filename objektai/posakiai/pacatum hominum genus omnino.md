@@ -59,5 +59,4 @@ Padarydamas santrauką vėliau dingusios Kassiodoro rašytos gotų istorijos, ra
 - [[objektai/grupes/Gotai]]
 - [[objektai/autoriai/Jordanes]]
 - [[objektai/autoriai/Kassiodoras]]
-- [[objektai/vietos/Vysla]]
 - [[objektai/grupes/Vidivarii]]

@@ -55,11 +55,3 @@ Nuvykęs Maskvon, jis prikalbėjo kunigaikštį Dimitrą žygiui į Lietuvą, ir
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Brianskas]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Starodubas]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/vietos/Desna]]

@@ -81,19 +81,12 @@ Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyk
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Dubysa]]
-- [[objektai/vietos/Europa]]
 - [[objektai/autoriai/Henrikas]]
 - [[objektai/asmenys/Henrikas von Plauenas]]
 - [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Nemunas]]
-- [[objektai/vietos/Prancūzija]]
 - [[objektai/grupes/Slavai]]
 - [[objektai/asmenys/Vaclovas]]
-- [[objektai/vietos/Vokietija]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/elektorius]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/vietos/Čekija]]

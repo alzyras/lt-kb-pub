@@ -127,9 +127,6 @@ Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgali
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Klaipėda]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Pilsudskis]]
 - [[objektai/zodynas/akcijos]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]

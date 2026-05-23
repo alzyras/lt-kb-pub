@@ -102,12 +102,6 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Livonija]]
-- [[objektai/vietos/Naugardas]]
-- [[objektai/vietos/Pskovas]]
-- [[objektai/vietos/Rusija]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/vietos/Žalgiris]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/vietos/Maskva]]
 - [[objektai/grupes/Maskvos kunigaikštija]]

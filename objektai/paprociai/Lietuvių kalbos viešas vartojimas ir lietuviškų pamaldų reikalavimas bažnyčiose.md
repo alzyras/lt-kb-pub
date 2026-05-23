@@ -103,5 +103,3 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Viena]]
-- [[objektai/vietos/Vilnius]]

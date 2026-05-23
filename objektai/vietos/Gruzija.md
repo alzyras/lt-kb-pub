@@ -39,11 +39,3 @@ Apskritai tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Herce
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Afganistanas]]
-- [[objektai/vietos/Bosnija ir Hercegovina]]
-- [[objektai/vietos/Irakas]]
-- [[objektai/vietos/Kosovas]]

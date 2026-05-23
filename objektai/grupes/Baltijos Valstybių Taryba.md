@@ -46,5 +46,4 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Baltija]]
 - [[objektai/ivykiai/Lietuvos, Latvijos ir Estijos Baltijos Valstybių Tarybos įkūrimas (1990 m. gegužės 12 d.)]]

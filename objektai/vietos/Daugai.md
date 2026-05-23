@@ -192,23 +192,3 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Brasta]]
-- [[objektai/vietos/Kaunas]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/asmenys/Ona Vytautienė]]
-- [[objektai/vietos/Trakai]]
-- [[objektai/vietos/Veliuona]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/vietos/Alovė]]
-- [[objektai/grupes/MVD]]
-- [[objektai/ivykiai/Pirmasis Vilniaus krašto okupavimas (1919 m. balandžio 19 d.)]]
-- [[objektai/vietos/Tabariškės]]
-- [[objektai/vietos/Varčios miškas]]
-- [[objektai/vietos/Vroclavas]]
-- [[objektai/vietos/Žąsliai]]
-- [[objektai/vietos/Viena]]

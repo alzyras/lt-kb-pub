@@ -53,12 +53,13 @@ tags:
     - t-001
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/elekcija]]
+
 ### Susiję objektai
-- [[objektai/vietos/Viena]]
 - [[objektai/zodynas/elektorius]]
 - [[objektai/asmenys/Aleksandras (Moldavijos valdovas)]]
 - [[objektai/asmenys/Barbora Cyleikaitė]]
-- [[objektai/vietos/Breslavas]]
 - [[objektai/asmenys/Dr. Baptistas Cigala]]
 - [[objektai/grupes/Husitai]]
 - [[objektai/asmenys/Jonas Paleologas]]
@@ -71,7 +72,6 @@ tags:
 - [[objektai/ivykiai/Pasiuntinybė į Nürnbergą dėl krikšto (1358 m.)]]
 - [[objektai/daiktai/Pragos miesto raktai|Pragos miesto raktai (miestas)]]
 - [[objektai/autoriai/Pranciškus de Comitibus]]
-- [[objektai/vietos/Prūsija]]
 - [[objektai/zodynas/Romos karalius]]
 - [[objektai/asmenys/St. Ciolką]]
 - [[objektai/grupes/Vienos universiteto profesoriai]]
@@ -83,7 +83,6 @@ tags:
 - [[objektai/zodynas/konsekracija]]
 - [[objektai/zodynas/lėnininkai]]
 - [[objektai/zodynas/vikariatas]]
-- [[objektai/vietos/Čekija]]
 - [[objektai/asmenys/Marija]]
 - [[objektai/asmenys/Marija (Liudviko duktė)]]
 - [[objektai/asmenys/Vaidotas (Butauto sūnus)]]

@@ -99,9 +99,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Brasta]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/apsiaustis]]
 - [[objektai/grupes/Švedai]]
-- [[objektai/vietos/Švedija]]
 - [[objektai/grupes/Švedijos kariuomenė]]

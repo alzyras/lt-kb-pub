@@ -83,8 +83,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Aisčiai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Padauguvis]]
-- [[objektai/vietos/Prūsai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Kalavijuočių ordinas]]

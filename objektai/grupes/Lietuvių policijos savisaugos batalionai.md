@@ -63,6 +63,4 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Jonava]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Ukraina]]

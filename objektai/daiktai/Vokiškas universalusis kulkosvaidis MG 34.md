@@ -81,5 +81,3 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/NKVD]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/vietos/Vokietija]]

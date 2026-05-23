@@ -55,7 +55,6 @@ Tautinio autoramento pagrindu buvo formuojama sunkioji kavalerija - husarai, vid
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/grupes/Bajorai]]
-- [[objektai/vietos/Lenkija]]
 - [[objektai/zodynas/lengvoji kavalerija]]
 - [[objektai/zodynas/petihorai]]
 - [[objektai/zodynas/husarai]]

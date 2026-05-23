@@ -52,5 +52,4 @@ p. dalys, turinčios apsaugoti divizijos vadovybe ir sustiprinti kitus pulkus.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Ukmergė]]
 - [[objektai/zodynas/flangas]]

@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 58.
+Objektų skaičius: 53.
 
 ## Kaip naudoti
 
@@ -58,13 +58,6 @@ Objektų skaičius: 58.
 - [„kad yra atstatomas 1940 metais svetimos jėgos panaikintas Lietuvos Valstybės suverenių galių vykdymas...“](../objektai/posakiai/%E2%80%9Ekad%20yra%20atstatomas%201940%20metais%20svetimos%20j%C4%97gos%20panaikintas%20Lietuvos%20Valstyb%C4%97s%20suvereni%C5%B3%20gali%C5%B3%20vykdymas...%E2%80%9C)
 - [„niekuomet nebuvo karo padėtyje“ „nedraugiškas aktas“](../objektai/posakiai/%E2%80%9Eniekuomet%20nebuvo%20karo%20pad%C4%97tyje%E2%80%9C%20%E2%80%9Enedraugi%C5%A1kas%20aktas%E2%80%9C)
 - [„valdomos demokratijos“](../objektai/posakiai/%E2%80%9Evaldomos%20demokratijos%E2%80%9C)
-
-### Vietos
-- [Buda](../objektai/vietos/Buda)
-- [Prisikėlimo bažnyčia](../objektai/vietos/Prisik%C4%97limo%20ba%C5%BEny%C4%8Dia)
-- [Rotušės aikštė](../objektai/vietos/Rotu%C5%A1%C4%97s%20aik%C5%A1t%C4%97)
-- [Targovica](../objektai/vietos/Targovica)
-- [Varmė](../objektai/vietos/Varm%C4%97)
 
 ### Įvykiai
 - [1384 m. Žemaičių sąjunga su Ordinu ir Vytauto pasidavimas Ordinui](../objektai/ivykiai/1384%20m.%20%C5%BDemai%C4%8Di%C5%B3%20s%C4%85junga%20su%20Ordinu%20ir%20Vytauto%20pasidavimas%20Ordinui)

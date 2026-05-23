@@ -70,12 +70,8 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Klaipėda]]
-- [[objektai/vietos/Torunė]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/vietos/Žalgiris]]
-- [[objektai/vietos/Žemaitija]]
 - [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
 - [[objektai/daiktai/Karūna]]
 - [[objektai/posakiai/„iki gyvos galvos“]]

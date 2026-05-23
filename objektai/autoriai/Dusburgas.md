@@ -126,15 +126,11 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Aukaimis]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Vytenis]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/posakiai/„Lietuvos karaliaus sūnus“]]
 - [[objektai/grupes/Galindai]]
 - [[objektai/grupes/Sūduviai-jotvingiai]]
 - [[objektai/posakiai/„Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“]]
-- [[objektai/vietos/Livonija]]
 - [[objektai/ivykiai/Junigėdos puolimas ir Mederabos sunaikinimas (1291 m.)]]
-- [[objektai/vietos/Mederaba]]

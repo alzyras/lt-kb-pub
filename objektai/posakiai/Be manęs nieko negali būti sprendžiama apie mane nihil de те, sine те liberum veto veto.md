@@ -95,8 +95,10 @@ Jie svajojo net panaikinti liberum veto, bet kadangi tam pasipriešino Rusų ir 
     - t-003
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/elekcija]]
+
 ### Susiję objektai
-- [[objektai/vietos/Prūsai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/kitatikiai]]

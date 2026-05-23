@@ -138,8 +138,6 @@ Nenurodyta
 - [[objektai/asmenys/George Harrison]]
 - [[objektai/asmenys/Keith Richards]]
 - [[objektai/asmenys/Leonard Cohen]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Londonas]]
 - [[objektai/asmenys/Bruce Springsteen]]
 - [[objektai/asmenys/Jimi Hendrix]]
 - [[objektai/asmenys/Paul McCartney]]

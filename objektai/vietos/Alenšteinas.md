@@ -73,14 +73,3 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Drevenca]]
-- [[objektai/vietos/Angerburgas]]
-- [[objektai/vietos/Girdava]]
-- [[objektai/vietos/Grünvaldas]]
-- [[objektai/vietos/Johanisburgas]]
-- [[objektai/vietos/Lotzenburgas]]
-- [[objektai/vietos/Röselis]]
-- [[objektai/vietos/Marienburgas]]

@@ -73,13 +73,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Cholmas]]
-- [[objektai/vietos/Kijevas]]
-- [[objektai/vietos/Konstantinopolis]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Naugardukas]]
-- [[objektai/vietos/Rusija]]
 - [[objektai/grupes/Stačiatikiai]]
-- [[objektai/vietos/Turovas]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/metropolija]]

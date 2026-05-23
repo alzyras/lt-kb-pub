@@ -47,12 +47,3 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Kuršas]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/autoriai/Motiejus Valančius]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/zodynas/vyskupystė]]
-- [[objektai/vietos/Žemaičių vyskupystė]]

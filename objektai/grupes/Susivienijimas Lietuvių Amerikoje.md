@@ -108,6 +108,5 @@ tags:
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Viena]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/zodynas/organas]]

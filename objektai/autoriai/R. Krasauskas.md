@@ -56,7 +56,6 @@ Krasauskas, R.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/autoriai/Krasauskas, R]]
 - [[objektai/autoriai/Nieborowski, P]]
 - [[objektai/autoriai/P. Nieborowski]]

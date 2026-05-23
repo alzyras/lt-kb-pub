@@ -67,4 +67,3 @@ Nenurodyta
 - [[objektai/asmenys/Jadvyga]]
 - [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
 - [[objektai/asmenys/Skirgaila]]
-- [[objektai/vietos/Vilnius]]

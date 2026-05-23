@@ -71,8 +71,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Aukaimis]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Viena]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/vietos/Aukaimio pilis|Aukaimio pilis (pilis)]]

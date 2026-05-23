@@ -95,6 +95,5 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
     - t-003
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Vilnius]]
+### Teminiai klasteriai
+- [[temos/dokumentas]]

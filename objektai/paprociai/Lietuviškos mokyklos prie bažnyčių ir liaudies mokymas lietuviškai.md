@@ -103,4 +103,3 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/autoriai/Motiejus Valančius]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/vietos/Telšiai]]

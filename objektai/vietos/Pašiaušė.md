@@ -52,22 +52,3 @@ Radvilos fundacija), Pašiaušėje (bajoro Beinarto f-ja), Slucke (sudėtinė f-
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Bobruiskas]]
-- [[objektai/vietos/Brasta]]
-- [[objektai/vietos/Gardinas]]
-- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
-- [[objektai/vietos/Kaunas]]
-- [[objektai/vietos/Kražiai]]
-- [[objektai/vietos/Minskas]]
-- [[objektai/vietos/Pinskas]]
-- [[objektai/vietos/Sluckas]]
-- [[objektai/vietos/Smolenskas]]
-- [[objektai/vietos/Vitebskas]]
-- [[objektai/zodynas/hetmonas]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/vietos/Meškuičiai]]
-- [[objektai/ivykiai/Radviliškio kautynės (1919 m. lapkričio 21–22 d.)]]
-- [[objektai/vietos/Žodiškiai]]

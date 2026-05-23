@@ -68,5 +68,4 @@ Vartojamos formos: `dabos`.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Žalioji giria]]
 - [[objektai/grupes/Lietuviai]]

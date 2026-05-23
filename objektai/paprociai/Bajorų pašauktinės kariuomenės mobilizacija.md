@@ -97,7 +97,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/daiktai/Vėliavos]]
 - [[objektai/zodynas/husarai]]

@@ -87,11 +87,8 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Mykolas]]
 - [[objektai/asmenys/Mykolas Velhorskis]]
 - [[objektai/asmenys/Tadas Kosciuška]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/savarankiškumas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

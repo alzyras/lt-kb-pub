@@ -101,11 +101,7 @@ Parusėnai galėjo sutelkti didelę kariuomenę kovai su vokiečių meldžionimi
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kalnėnai]]
-- [[objektai/vietos/Liepoja]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Nemunas]]
-- [[objektai/vietos/Rusnė]]
-- [[objektai/vietos/Viena]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/zodynas/Meldžionys|meldžionys]]

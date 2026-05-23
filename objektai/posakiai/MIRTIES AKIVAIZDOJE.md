@@ -53,5 +53,4 @@ MIRTIES AKIVAIZDOJE Viršila Antanas Šukys aprašo vieną nutikimą žvalgyboje
 ### Susiję objektai
 - [[objektai/asmenys/Antanas Šukys]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Viena]]
 - [[objektai/zodynas/viršila]]

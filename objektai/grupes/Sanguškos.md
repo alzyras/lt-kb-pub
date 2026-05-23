@@ -45,7 +45,4 @@ Vėliau iš šių periferinių sritinių žemių kunigaikščių kilo garsios v�
 ### Susiję objektai
 - [[objektai/grupes/Sluckiai]]
 - [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/vietos/Viena]]
-- [[objektai/vietos/Kovelis]]
-- [[objektai/vietos/Slavuta]]
 - [[objektai/grupes/Vyšnioveckiai]]

@@ -54,6 +54,3 @@ Jurgėla: History of the Lithuanian Nation, New York 1948. Jurgėla, C.
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/aktas]]
-
-### Susiję objektai
-- [[objektai/vietos/Čikaga]]

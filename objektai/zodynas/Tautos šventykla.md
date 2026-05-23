@@ -52,6 +52,5 @@ Sumanyta pastatyti Kaune Prisikėlimo 4 skyrius • L I E T U V O S VA L S T Y B
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kaunas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Prisikėlimo bažnyčia Kaune]]

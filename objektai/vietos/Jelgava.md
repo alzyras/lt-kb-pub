@@ -75,24 +75,3 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Brasta]]
-- [[objektai/vietos/Kuršas]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Livonija]]
-- [[objektai/vietos/Ryga]]
-- [[objektai/vietos/Sluckas]]
-- [[objektai/asmenys/Steponas]]
-- [[objektai/asmenys/Steponas Batoras]]
-- [[objektai/vietos/Vitebskas]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/zodynas/vasalas]]
-- [[objektai/vietos/Žiemgala]]
-- [[objektai/vietos/Piltenė]]
-- [[objektai/vietos/Saremos]]
-- [[objektai/vietos/Mintauja]]
-- [[objektai/vietos/Viena]]
-- [[objektai/vietos/Lauksodis]]

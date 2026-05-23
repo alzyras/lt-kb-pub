@@ -51,7 +51,6 @@ tags:
 ### Susiję objektai
 - [[objektai/asmenys/Antanas Šukys]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Viena]]
 - [[objektai/zodynas/viršila]]
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/grupes/Lietuvos kariuomenės 2-ojo pėstininkų Didžiojo Lietuvos kunigaikščio Algirdo pulko mokomoji kuopa]]

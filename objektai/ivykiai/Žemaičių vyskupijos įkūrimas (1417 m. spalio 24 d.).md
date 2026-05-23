@@ -100,14 +100,8 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/upė]]
+
 ### Susiję objektai
-- [[objektai/vietos/Konstancija]]
-- [[objektai/vietos/Kuršas]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Nevėžis]]
-- [[objektai/vietos/Prūsai]]
-- [[objektai/vietos/Trakai]]
-- [[objektai/vietos/Užnemunė]]
-- [[objektai/vietos/Varniai]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

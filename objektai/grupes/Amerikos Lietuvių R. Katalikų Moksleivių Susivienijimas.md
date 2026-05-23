@@ -50,8 +50,6 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/organas]]
-- [[objektai/vietos/Čikaga]]
 - [[objektai/grupes/Lietuvos Vyčių Sąjunga]]

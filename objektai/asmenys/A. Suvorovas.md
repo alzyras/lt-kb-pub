@@ -45,4 +45,3 @@ Suvorovo vadovaujamai Rusijos kariuomenei imtis veiksmų.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/bajorija]]
-- [[objektai/vietos/Rusija]]

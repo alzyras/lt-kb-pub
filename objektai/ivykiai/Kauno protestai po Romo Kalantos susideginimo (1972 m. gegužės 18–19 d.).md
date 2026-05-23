@@ -95,10 +95,6 @@ Nenurodyta
 - [[temos/laidotuvės]]
 
 ### Susiję objektai
-- [[objektai/vietos/Kaunas]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Rimgaudas Songaila]]
-- [[objektai/vietos/Ukraina]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/posakiai/„Lietuvą padaryti internacionalinę“]]
-- [[objektai/vietos/Kauno Laisvės alėja]]

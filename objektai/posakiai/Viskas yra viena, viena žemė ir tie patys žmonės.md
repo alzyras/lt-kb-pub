@@ -87,7 +87,5 @@ tags: []
 
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Viena]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Žemaičiai]]
-- [[objektai/vietos/Vroclavas]]

@@ -200,14 +200,10 @@ Terminas žymi savitą LDK kavalerijos rūšį tarp husarų ir lengvesniųjų ra
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Chotinas]]
 - [[objektai/daiktai/Ietys]]
 - [[objektai/grupes/Janičarai]]
 - [[objektai/daiktai/Karūna]]
-- [[objektai/vietos/Krymas]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Turkija]]
 - [[objektai/zodynas/husarai]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/daiktai/Šarvuočiai]]

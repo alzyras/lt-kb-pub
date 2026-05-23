@@ -56,10 +56,3 @@ Vienas jų tada rašė: „Reikia taip pat neužmiršti, kad čia mums plačiai 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Europa]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/autoriai/Andrius Rudamina]]
-- [[objektai/vietos/Rudamina]]

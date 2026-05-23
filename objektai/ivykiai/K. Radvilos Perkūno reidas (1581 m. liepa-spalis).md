@@ -214,9 +214,3 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/vietos/Rusija]]
-- [[objektai/vietos/Rževas]]
-- [[objektai/vietos/Opokos apylinkės]]
-- [[objektai/vietos/Salaspilis]]
-- [[objektai/vietos/Staraja Rusa]]
-- [[objektai/vietos/Toropecas]]

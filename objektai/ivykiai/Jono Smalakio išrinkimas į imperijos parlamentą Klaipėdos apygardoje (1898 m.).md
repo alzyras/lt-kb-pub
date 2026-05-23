@@ -56,5 +56,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Tilžė]]
 - [[objektai/grupes/Lietuviai]]

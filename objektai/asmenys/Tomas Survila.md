@@ -68,8 +68,6 @@ Talkininkų kryžiuočių liko tik keletas, tarp jų žuvo tarnaudami senajai T�
 ### Susiję objektai
 - [[objektai/grupes/Auksinė Orda]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Smolenskas]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/grupes/Lietuviai]]

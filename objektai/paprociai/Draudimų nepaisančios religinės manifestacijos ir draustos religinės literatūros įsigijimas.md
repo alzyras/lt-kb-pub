@@ -82,6 +82,7 @@ Sovietmečiu religinės manifestacijos veikė kaip masinė draudimų nepaisymo p
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/religinė-praktika]]
+- [[temos/tikėjimas]]
 
 ### Susiję objektai
 - [[objektai/daiktai/Nelegaliai išspausdinta religinė literatūra]]

@@ -53,11 +53,3 @@ vasarį „abu lietuvių karaliai“ puolė Prūsijoje Rastenburgą, niokojo Bar
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Prūsija]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/vietos/Rastenburgas]]

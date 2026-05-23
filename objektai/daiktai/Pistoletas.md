@@ -66,7 +66,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Viena]]
 - [[objektai/asmenys/Mikalojus Radvila Juodasis]]
 - [[objektai/daiktai/Pistoletas Browning HP (Hi-Power)]]
 - [[objektai/daiktai/Pistoletas-kulkosvaidis MP 18]]

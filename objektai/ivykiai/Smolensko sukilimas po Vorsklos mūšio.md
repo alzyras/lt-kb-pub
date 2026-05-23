@@ -67,6 +67,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Smolenskas]]
 - [[objektai/asmenys/Sviatoslavas]]
-- [[objektai/vietos/Vorskla]]

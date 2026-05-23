@@ -43,6 +43,4 @@ Taip liko neįgyvendintos Algirdo išsakytos pretenzijos, kad „savaime visa Ru
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/vietos/Kijevo Rusia]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/ivykiai/Algirdo žygiai į Maskvą]]

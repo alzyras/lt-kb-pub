@@ -85,4 +85,3 @@ Vokiečiams modernizuojant aneksijos ir prisijungimo planus, prireikus tam ir ok
 - [[objektai/asmenys/Augustinas Voldemaras]]
 - [[objektai/asmenys/Dovas Zaunius]]
 - [[objektai/posakiai/„Karas ar taika “]]
-- [[objektai/vietos/Vilnius]]

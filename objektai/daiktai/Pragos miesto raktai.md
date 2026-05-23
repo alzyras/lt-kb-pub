@@ -72,7 +72,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Kaributas]]
-- [[objektai/vietos/Praga]]
 - [[objektai/zodynas/ciesorius]]
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/grupes/Čekai]]

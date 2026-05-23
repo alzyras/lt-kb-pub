@@ -62,9 +62,9 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/aktas]]
+- [[temos/elekcija]]
 
 ### Susiję objektai
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/ivykiai/III Seimo daugumos demokratinės reformos (1926 m. birželio 17 d.)]]

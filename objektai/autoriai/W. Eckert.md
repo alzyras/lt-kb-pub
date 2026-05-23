@@ -55,10 +55,7 @@ Eckert, W.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Berlynas]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Kuršas]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

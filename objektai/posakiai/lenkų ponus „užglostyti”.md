@@ -59,8 +59,6 @@ Toks jo žygis lenką tarpe sukėlė didelį pasipriešinimą, nes jie Krėvės 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Krokuva]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/unija]]
 - [[objektai/zodynas/žygis]]
-- [[objektai/vietos/Lenkija]]

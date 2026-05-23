@@ -52,14 +52,3 @@ Varčios miške, tarp Alovės ir Daugų mstl.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Alytus]]
-- [[objektai/vietos/Dainava]]
-- [[objektai/vietos/Daugai]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/NKVD]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Merkinės batalionas]]
-- [[objektai/vietos/Varčios miškas]]

@@ -112,12 +112,8 @@ Caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (161
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/grupes/Bajorai]]
-- [[objektai/vietos/Europa]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Rusija]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/unija]]
 - [[objektai/grupes/Habsburgai]]

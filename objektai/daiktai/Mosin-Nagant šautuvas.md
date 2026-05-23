@@ -81,8 +81,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/2-asis pėstininkų pulkas]]
-- [[objektai/vietos/Alytus]]
-- [[objektai/vietos/Kaunas]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Rusija]]
 - [[objektai/daiktai/Rusiškas 1870 m. modelio šautuvas Berdan Nr. 2]]

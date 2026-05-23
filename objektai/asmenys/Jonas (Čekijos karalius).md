@@ -60,12 +60,5 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Nemunas]]
-- [[objektai/vietos/Niurnbergas]]
-- [[objektai/vietos/Prūsija]]
-- [[objektai/vietos/Veliuona]]
-- [[objektai/vietos/Vengrija]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/vietos/Čekija]]

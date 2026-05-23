@@ -54,8 +54,4 @@ Vėliau Lietuvos metropolitu pradė­ jo skaitytis Gniezno arkivyskupas, bet iš
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Gniezno]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/metropolija]]
-- [[objektai/vietos/Paulava]]
-- [[objektai/vietos/Vilnius]]

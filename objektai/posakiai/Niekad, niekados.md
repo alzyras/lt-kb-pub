@@ -48,6 +48,5 @@ Tačiau mūsų bajorija daugybe straipsnių ir specialia brošiūra atsakė: „
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/bajorija]]

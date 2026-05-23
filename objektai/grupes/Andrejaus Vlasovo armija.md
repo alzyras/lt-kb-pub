@@ -43,6 +43,5 @@ Akcijose prieš žydus Lietuvoje naciai panaudojo ir rusų Andrejaus Vlasovo arm
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Latviai]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Žydai]]

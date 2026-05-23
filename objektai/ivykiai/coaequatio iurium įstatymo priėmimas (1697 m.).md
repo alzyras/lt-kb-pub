@@ -83,9 +83,9 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/elekcija]]
+
 ### Susiję objektai
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Sapiegos]]
-- [[objektai/vietos/Viena]]
 - [[objektai/zodynas/hetmonas]]

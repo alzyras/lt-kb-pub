@@ -61,5 +61,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Europa]]
 - [[objektai/zodynas/bajorija]]

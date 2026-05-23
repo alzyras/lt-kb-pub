@@ -359,18 +359,12 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Europa]]
 - [[objektai/zodynas/Laisvamanybė ir laisvamaniai]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Rusija]]
 - [[objektai/asmenys/Simonas Stanevičius]]
 - [[objektai/asmenys/Steponas]]
 - [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/barokas]]
-- [[objektai/vietos/Čekija]]
-- [[objektai/vietos/Šv. Jonų bažnyčia]]
 - [[objektai/paprociai/Jėzuitiškas mokymas ir katalikybės sklaida per Vilniaus universitetą]]
 - [[objektai/ivykiai/Vilniaus universiteto įkūrimas]]
 - [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.)]]

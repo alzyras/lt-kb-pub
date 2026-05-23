@@ -115,4 +115,3 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
 - [[objektai/autoriai/D. Poška]]
-- [[objektai/vietos/Lietuva]]

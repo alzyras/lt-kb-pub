@@ -78,11 +78,3 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/K. Radvilos Perkūno reidas (1581 m. liepa-spalis)|Kristupo Radvilos Perkūno reidas (1581 m. liepa-spalis)]]
-- [[objektai/vietos/Starica]]
-- [[objektai/vietos/Tverės žemės]]
-- [[objektai/vietos/Volgos upė]]
-- [[objektai/vietos/Šelomos upė]]

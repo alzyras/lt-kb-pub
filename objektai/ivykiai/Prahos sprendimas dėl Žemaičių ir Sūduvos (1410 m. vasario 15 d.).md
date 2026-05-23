@@ -69,7 +69,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Butrimas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Vaclovas]]
-- [[objektai/vietos/Vengrija]]
 - [[objektai/asmenys/Vengrijos Zigmantas]]

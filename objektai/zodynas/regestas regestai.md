@@ -57,10 +57,11 @@ tags:
     - t-001
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/dokumentas]]
+
 ### Susiję objektai
 - [[objektai/autoriai/Danilavičius]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/autoriai/Ignas Danilavičius]]
 - [[objektai/zodynas/regestai]]

@@ -60,6 +60,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/maršalka]]
-- [[objektai/vietos/Gardinas]]

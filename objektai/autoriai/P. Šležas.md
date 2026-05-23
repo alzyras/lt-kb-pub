@@ -171,7 +171,5 @@ P. Šležas minimas kaip autorius ir redaktorius; jam priskiriami darbai Lietuvo
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kaunas]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/christianizacija]]
 - [[objektai/zodynas/monografija]]

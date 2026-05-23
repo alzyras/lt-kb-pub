@@ -94,10 +94,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/SSRS]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/konstitucijos]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/vietos/Aukščiausios Tarybos rūmai|Aukščiausios Tarybos rūmai (institucija)]]

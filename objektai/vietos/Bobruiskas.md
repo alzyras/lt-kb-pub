@@ -52,20 +52,3 @@ Bžostausko fundacija), Naugarduke (sudėtinė fundacija), Bobruiske (Triznos fu
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Brasta]]
-- [[objektai/vietos/Gardinas]]
-- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
-- [[objektai/vietos/Kaunas]]
-- [[objektai/vietos/Kražiai]]
-- [[objektai/vietos/Minskas]]
-- [[objektai/vietos/Pinskas]]
-- [[objektai/vietos/Sluckas]]
-- [[objektai/vietos/Smolenskas]]
-- [[objektai/vietos/Vitebskas]]
-- [[objektai/zodynas/hetmonas]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/vietos/Pašiaušė]]
-- [[objektai/vietos/Žodiškiai]]

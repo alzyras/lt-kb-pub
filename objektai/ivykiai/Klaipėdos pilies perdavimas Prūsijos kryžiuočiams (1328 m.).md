@@ -63,8 +63,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Livonijos ordinas]]
-- [[objektai/vietos/Nemunas]]
-- [[objektai/vietos/Prūsija]]
-- [[objektai/vietos/Vokietija]]

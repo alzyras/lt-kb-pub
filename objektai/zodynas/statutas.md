@@ -65,7 +65,6 @@ Kodeksas (statutas) 1780 m. buvo pateiktas seimui patvirtinti. (Lietuvos bajorij
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/ivykiai/Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/posakiai/Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те liberum veto veto]]
 - [[objektai/paprociai/Bičiulystė ir bitininkystė]]
 - [[objektai/daiktai/Didysis Lietuvos antspaudas]]

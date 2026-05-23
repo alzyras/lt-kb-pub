@@ -56,25 +56,3 @@ Užpelkių miške buvo numatytas Prisikėlimo apygardos štabo posėdis, susitik
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Laurynas Mingilas-Džiugas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/grupes/Agentai-smogikai]]
-- [[objektai/asmenys/Bronius Liesis-Naktis]]
-- [[objektai/autoriai/Dalius Žygelis]]
-- [[objektai/asmenys/Juozas Paliūnas-Rytas]]
-- [[objektai/vietos/Kiauneliškiai]]
-- [[objektai/grupes/Maironio rinktinė]]
-- [[objektai/asmenys/Petras Bartkus-Žadgaila]]
-- [[objektai/asmenys/Povilas Morkūnas-Rimantas]]
-- [[objektai/grupes/Prisikėlimo apygarda]]
-- [[objektai/daiktai/Prisikėlimo apygardos partizanų antsiuvas]]
-- [[objektai/autoriai/Ričardas Čekutis]]
-- [[objektai/ivykiai/Užpelkių kautynės]]
-- [[objektai/ivykiai/Užpelkių kautynės (1949 m.)]]
-- [[objektai/asmenys/Vytautas Šniuolis-Svajūnas]]
-- [[objektai/zodynas/agentas-smogikas]]

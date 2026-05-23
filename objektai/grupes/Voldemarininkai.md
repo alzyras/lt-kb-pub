@@ -156,9 +156,6 @@ Politinė grupuotė.
 ### Susiję objektai
 - [[objektai/daiktai/Artilerija]]
 - [[objektai/grupes/Jaunieji tautininkai]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Vokietija]]
 - [[objektai/grupes/Šaulių sąjunga]]
 - [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
@@ -166,7 +163,6 @@ Politinė grupuotė.
 - [[objektai/grupes/Lietuvos krikščionių demokratų partija]]
 - [[objektai/ivykiai/Voldemarininkų pučas ir Laikinosios vyriausybės veiklos uždraudimas (1941 m. liepos 23 d. - rugpjūčio 5 d.)]]
 - [[objektai/zodynas/autoritatyvinis režimas]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/asmenys/Augustinas Voldemaras]]
 - [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga]]
 - [[objektai/asmenys/Petras Kubiliūnas]]

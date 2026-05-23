@@ -68,7 +68,5 @@ Smetonos valdymą inteligentai: ministru pirmininku paskirtas komunistuojantis l
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/SSRS]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/vietos/Maskva]]
 - [[objektai/grupes/Liaudies vyriausybė]]

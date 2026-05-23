@@ -82,5 +82,4 @@ Nasonov : Novogrodskaja pervaja letopis' staršego i mladšego izvodov , Moskva-
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Maskva]]
 - [[objektai/zodynas/žygis]]

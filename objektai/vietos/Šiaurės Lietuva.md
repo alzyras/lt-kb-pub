@@ -87,17 +87,3 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Baltija]]
-- [[objektai/grupes/Bermontininkai]]
-- [[objektai/grupes/Bolševikai]]
-- [[objektai/vietos/Latvija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/vietos/Rusija]]
-- [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/vietos/Raseiniai]]

@@ -80,11 +80,7 @@ Lemiamasis Vytauto žygis, vietoje Timuro ir jo emiro Edigos (Edigiu) pasodinti 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Auksinė Orda]]
-- [[objektai/vietos/Dniepras]]
-- [[objektai/vietos/Kijevo Rusia]]
-- [[objektai/vietos/Konstantinopolis]]
 - [[objektai/grupes/Totoriai]]
-- [[objektai/vietos/Vorskla]]
 - [[objektai/zodynas/chanas]]
 - [[objektai/grupes/Švedai]]
 - [[objektai/daiktai/Vytauto ženklas]]

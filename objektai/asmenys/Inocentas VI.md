@@ -60,8 +60,4 @@ Tad kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­ niai s
 ### Susiję objektai
 - [[objektai/grupes/Habsburgai]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Perudžija]]
-- [[objektai/vietos/Viena]]
 - [[objektai/zodynas/brevė]]
-- [[objektai/vietos/Poznanė]]

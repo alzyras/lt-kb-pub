@@ -44,7 +44,6 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Kahalai]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/ivykiai/Lietuvos žydų tarybos (Vaad) sudarymas (1920 m.)]]
 - [[objektai/zodynas/kahalai sėslumo riba]]

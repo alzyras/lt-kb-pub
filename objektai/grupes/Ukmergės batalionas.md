@@ -56,5 +56,4 @@ Kubiliaus vadovaujamas Ukmergės batalionas, nepaisydamas smarkios priešo ugnie
 - [[objektai/daiktai/Artilerija]]
 - [[objektai/grupes/Bolševikai]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/vietos/Ukmergė]]
 - [[objektai/asmenys/J. Kubilius]]

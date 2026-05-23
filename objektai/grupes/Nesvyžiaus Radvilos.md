@@ -44,7 +44,4 @@ Po Jonušo Radvilos mirties Kėdainiai nebeturėjo pono.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kėdainiai]]
-- [[objektai/vietos/Nesvyžius]]
-- [[objektai/vietos/Sluckas]]
 - [[objektai/grupes/Protestantai]]

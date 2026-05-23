@@ -72,14 +72,3 @@ Pirmasis tų pabėgėlių ir tremtinių etapas buvo Vilniaus krašto Panemunė i
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Bajerburgas]]
-- [[objektai/asmenys/Kaributas]]
-- [[objektai/vietos/Livonija]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/vietos/Aukštadvaris]]
-- [[objektai/vietos/Gardinas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

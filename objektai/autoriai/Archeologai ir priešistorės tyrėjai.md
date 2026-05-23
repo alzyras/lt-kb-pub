@@ -125,6 +125,4 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Aukštadvaris]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/feodalizmas]]

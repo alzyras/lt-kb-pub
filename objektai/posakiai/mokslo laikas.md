@@ -51,5 +51,4 @@ Ketveri metai ordino žemėse buvo naudingai praleistas « mokslo laikas ».
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

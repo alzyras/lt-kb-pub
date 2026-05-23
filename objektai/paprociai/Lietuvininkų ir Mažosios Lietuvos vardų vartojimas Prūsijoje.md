@@ -78,10 +78,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Nadruviai]]
-- [[objektai/vietos/Prūsai]]
-- [[objektai/vietos/Prūsija]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/dykra]]

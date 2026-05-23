@@ -45,20 +45,3 @@ Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu, buvo kancleris 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Kaunas]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Pacai]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/zodynas/hetmonas]]
-- [[objektai/vietos/Antakalnis]]
-- [[objektai/vietos/Kauno įgulos bažnyčia]]
-- [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis|Mikalojus Konstantinas Čiurlionis (dailininkas)]]
-- [[objektai/vietos/Pažaislio vienuolynas]]
-- [[objektai/vietos/Vilniaus katedra]]
-- [[objektai/vietos/Visų Šventųjų bažnyčia]]
-- [[objektai/zodynas/archieriejus]]
-- [[objektai/vietos/Šv. Jonų bažnyčia]]
-- [[objektai/asmenys/Kristupas Pacas]]

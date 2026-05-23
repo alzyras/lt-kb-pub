@@ -76,4 +76,3 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/grupes/Čekai]]
-- [[objektai/vietos/Čekija]]

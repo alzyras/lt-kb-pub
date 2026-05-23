@@ -126,12 +126,3 @@ Lietauka siejama su Neries upe, Kernave ir Lietuvos žemės siaurąja prasme sam
 ## Šaltiniai ir įrodymai
 
 ## Pastabos
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/lietuva]]
-
-### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Nemunas]]
-- [[objektai/vietos/Neris]]

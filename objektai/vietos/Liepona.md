@@ -49,14 +49,3 @@ Sūduvos dykroje toliau siena buvo nužymėta upių krantais : visu Lieponos pau
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Merūniškiai]]
-- [[objektai/vietos/Sūduva]]
-- [[objektai/zodynas/dykra]]
-- [[objektai/vietos/Šešupė]]
-- [[objektai/vietos/Širvintos]]
-- [[objektai/vietos/Preivosto šilai]]
-- [[objektai/vietos/Vystyčio ežeras]]
-- [[objektai/vietos/Širvinta]]

@@ -52,17 +52,3 @@ Iš čia ji tęsėsi vėl per dykrą tiesiai į Preivosto (Prawdzisken) šilus, 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/ežeras]]
-
-### Susiję objektai
-- [[objektai/vietos/Liepona]]
-- [[objektai/vietos/Sūduva]]
-- [[objektai/zodynas/dykra]]
-- [[objektai/vietos/Širvintos]]
-- [[objektai/vietos/Preivosto šilai]]
-- [[objektai/vietos/Raigardo ežeras]]
-- [[objektai/vietos/Vystyčio ežeras]]
-- [[objektai/vietos/Širvinta]]

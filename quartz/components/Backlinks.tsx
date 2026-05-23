@@ -13,6 +13,16 @@ const defaultOptions: BacklinksOptions = {
   hideWhenEmpty: true,
 }
 
+const publicNavigationSuppressedLinkPrefixes = [
+  "laikotarpiai/",
+  "objektai/saltiniai/",
+  "objektai/vietos/",
+]
+const isPublicNavigationSuppressedSlug = (slug: string | undefined): boolean => {
+  const value = String(slug ?? "")
+  return publicNavigationSuppressedLinkPrefixes.some((prefix) => value.startsWith(prefix))
+}
+
 export default ((opts?: Partial<BacklinksOptions>) => {
   const options: BacklinksOptions = { ...defaultOptions, ...opts }
   const { OverflowList, overflowListAfterDOMLoaded } = OverflowListFactory()
@@ -24,7 +34,11 @@ export default ((opts?: Partial<BacklinksOptions>) => {
     cfg,
   }: QuartzComponentProps) => {
     const slug = simplifySlug(fileData.slug!)
-    const backlinkFiles = allFiles.filter((file) => file.links?.includes(slug))
+    const backlinkFiles = isPublicNavigationSuppressedSlug(slug)
+      ? []
+      : allFiles.filter(
+          (file) => !isPublicNavigationSuppressedSlug(file.slug) && file.links?.includes(slug),
+        )
     if (options.hideWhenEmpty && backlinkFiles.length == 0) {
       return null
     }

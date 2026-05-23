@@ -51,9 +51,7 @@ Bet jam pavyko dvi savo karalystes — Vengrų ir Len­ kijos — paskirti savo 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Austrija]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Vengrai]]
-- [[objektai/vietos/Brandenburgas]]
 - [[objektai/asmenys/Marija]]
 - [[objektai/zodynas/ciesorius]]

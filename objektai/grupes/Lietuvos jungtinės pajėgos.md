@@ -58,9 +58,7 @@ Lietuvos jungtinės pajėgos Lietuviai, žemaičiai, LDK rusų žemių kunigaik�
 ### Susiję objektai
 - [[objektai/grupes/Auksinė Orda]]
 - [[objektai/asmenys/Edyga]]
-- [[objektai/vietos/Krymas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Tochtamišas]]
 - [[objektai/grupes/Totoriai]]

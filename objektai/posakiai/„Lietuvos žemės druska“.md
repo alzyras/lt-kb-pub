@@ -47,4 +47,3 @@ tags:
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
 - [[objektai/daiktai/Druska]]
-- [[objektai/vietos/Lietuva]]

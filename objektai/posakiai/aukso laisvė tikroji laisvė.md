@@ -91,9 +91,6 @@ Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vad
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Maskva]]
 - [[objektai/zodynas/bajorija]]
-- [[objektai/vietos/Lenkija]]
 - [[objektai/zodynas/Liberum veto]]
 - [[objektai/zodynas/aukso laisvė]]

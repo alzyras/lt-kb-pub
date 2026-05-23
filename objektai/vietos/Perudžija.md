@@ -49,11 +49,3 @@ Pasiuntiniai rado popiežių Perudžijoje (Š.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/brevė]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/asmenys/Dobrogostas]]
-- [[objektai/asmenys/Inocentas VI]]
-- [[objektai/ivykiai/Vilniaus vyskupystės įkūrimas]]

@@ -57,12 +57,11 @@ Jo krikštatėviu buvo Ragainės komtūras Vy­ gandas von Baldersheimas, dėl t
     - t-001
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/tikėjimas]]
+
 ### Susiję objektai
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/vietos/Malburgas]]
-- [[objektai/vietos/Ragainė]]
-- [[objektai/vietos/Smolenskas]]
-- [[objektai/vietos/Trakai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/komtūras]]
 - [[objektai/asmenys/Vygandas]]

@@ -57,11 +57,5 @@ Tuojau po Ciprijono mirties Vytautas Konstantinopolio pa­ triarchui Eufimėjui 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kijevas]]
-- [[objektai/vietos/Konstantinopolis]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Maskva]]
-- [[objektai/vietos/Polockas]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/vietos/Rusija]]
 - [[objektai/grupes/Stačiatikiai]]

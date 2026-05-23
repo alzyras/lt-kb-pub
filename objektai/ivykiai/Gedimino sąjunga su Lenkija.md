@@ -114,18 +114,11 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Aldona Gediminaitė]]
-- [[objektai/vietos/Brandenburgas]]
-- [[objektai/vietos/Dancigas]]
-- [[objektai/vietos/Gardinas]]
 - [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Liublinas]]
 - [[objektai/asmenys/Lokietka]]
-- [[objektai/vietos/Płockas]]
 - [[objektai/asmenys/Traidenis]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/seniūnas]]

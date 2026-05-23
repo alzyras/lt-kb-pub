@@ -73,11 +73,3 @@ Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo ch
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Krimas]]
-- [[objektai/vietos/Krymo pusiasalis]]
-- [[objektai/vietos/Perekopo sąsmauka]]
-- [[objektai/posakiai/gerai užrakinamus Krymo vartus]]
-- [[objektai/zodynas/lengvoji kavalerija]]

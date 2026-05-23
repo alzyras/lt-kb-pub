@@ -177,13 +177,3 @@ tags: []
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]
-- [[objektai/posakiai/karas po karo]]
-- [[objektai/vietos/Buktos (Žaliosios) miškas]]
-- [[objektai/grupes/Dzūkų būrys]]
-- [[objektai/grupes/Muškietininkų būrys]]
-- [[objektai/vietos/Žuvinto palios]]
-- [[objektai/daiktai/Šarvuočiai]]

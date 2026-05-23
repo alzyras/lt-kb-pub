@@ -59,5 +59,4 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Gintaras]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

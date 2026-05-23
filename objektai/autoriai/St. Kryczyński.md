@@ -51,7 +51,5 @@ Kryczyński, St.: Tatarzy litewscy.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Totoriai]]
-- [[objektai/vietos/Varšuva]]
 - [[objektai/zodynas/monografija]]

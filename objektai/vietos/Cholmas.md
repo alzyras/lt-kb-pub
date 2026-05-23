@@ -50,16 +50,3 @@ Susirinkusieji stačiatikių vyskupai: Polocko, Smolensko, Lucko, Černigovo, Vl
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Kijevas]]
-- [[objektai/vietos/Konstantinopolis]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Naugardukas]]
-- [[objektai/ivykiai/Naugarduko susirinkimas (1415 m.)]]
-- [[objektai/vietos/Rusija]]
-- [[objektai/grupes/Stačiatikiai]]
-- [[objektai/vietos/Turovas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/metropolija]]

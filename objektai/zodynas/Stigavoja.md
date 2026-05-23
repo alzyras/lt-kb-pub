@@ -79,5 +79,4 @@ Papildomos aiškios formos neišskirtos.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Viena]]
 - [[objektai/paprociai/Šventos ugnelės negesinimas trobesiui užsidegus]]

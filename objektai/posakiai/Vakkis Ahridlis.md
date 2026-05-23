@@ -51,7 +51,6 @@ Primindami savo ištikimybę Kęstutaičiui, jie jo maldavę, kad neatiduotų j�
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Konstanca]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/asmenys/Dlugošas]]

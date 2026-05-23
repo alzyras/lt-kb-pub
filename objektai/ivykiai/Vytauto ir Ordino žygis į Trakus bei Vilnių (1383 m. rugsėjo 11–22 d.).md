@@ -71,6 +71,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
 - [[objektai/asmenys/Skirgaila]]
-- [[objektai/vietos/Trakai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/magistras]]

@@ -46,7 +46,5 @@ Karas po karo – ginkluota rezistencija Nuo 1944 m. vasaros sovietų represijos
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Baltija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/posakiai/karas po karo]]

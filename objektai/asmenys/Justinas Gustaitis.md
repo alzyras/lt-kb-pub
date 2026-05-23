@@ -63,5 +63,4 @@ Tad, pasirodykime laisvės verti ir tą dieną, kada kovos pradžia atrodys SAVA
 - [[temos/laiškas]]
 
 ### Susiję objektai
-- [[objektai/vietos/Aukščiausiosios Tarybos rūmai|Aukščiausiosios Tarybos rūmai (institucija)]]
 - [[objektai/zodynas/Savanoris]]

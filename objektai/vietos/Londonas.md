@@ -100,21 +100,3 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Liepoja]]
-- [[objektai/vietos/Palanga]]
-- [[objektai/asmenys/Antanas Kazimeras Žemaitis]]
-- [[objektai/zodynas/Bendrinė sąvoka]]
-- [[objektai/asmenys/Bob Dylan]]
-- [[objektai/asmenys/Bruce Springsteen]]
-- [[objektai/asmenys/David Gilmour]]
-- [[objektai/asmenys/Eric Clapton]]
-- [[objektai/asmenys/George Harrison]]
-- [[objektai/daiktai/Gitara „Zemaitis“]]
-- [[objektai/asmenys/Jimi Hendrix]]
-- [[objektai/asmenys/Keith Richards]]
-- [[objektai/asmenys/Paul McCartney]]
-- [[objektai/asmenys/Ronnie Wood]]
-- [[objektai/autoriai/Bełch, St. J]]

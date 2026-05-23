@@ -53,7 +53,15 @@ type NodeRenderData = GraphicsInfo & {
 }
 
 const localStorageKey = "graph-visited"
-const isPeriodSlug = (slug: SimpleSlug | string) => String(slug).startsWith("laikotarpiai/")
+const publicNavigationSuppressedLinkPrefixes = [
+  "laikotarpiai/",
+  "objektai/saltiniai/",
+  "objektai/vietos/",
+]
+const isGraphSuppressedSlug = (slug: SimpleSlug | string) => {
+  const value = String(slug)
+  return publicNavigationSuppressedLinkPrefixes.some((prefix) => value.startsWith(prefix))
+}
 
 function getVisited(): Set<SimpleSlug> {
   return new Set(JSON.parse(localStorage.getItem(localStorageKey) ?? "[]"))
@@ -106,17 +114,17 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   )
   const links: SimpleLinkData[] = []
   const tags: SimpleSlug[] = []
-  const validLinks = new Set([...data.keys()].filter((key) => !isPeriodSlug(key)))
+  const validLinks = new Set([...data.keys()].filter((key) => !isGraphSuppressedSlug(key)))
 
   const tweens = new Map<string, TweenNode>()
   for (const [source, details] of data.entries()) {
-    if (isPeriodSlug(source)) {
+    if (isGraphSuppressedSlug(source)) {
       continue
     }
     const outgoing = details.links ?? []
 
     for (const dest of outgoing) {
-      if (!isPeriodSlug(dest) && validLinks.has(dest)) {
+      if (!isGraphSuppressedSlug(dest) && validLinks.has(dest)) {
         links.push({ source: source, target: dest })
       }
     }

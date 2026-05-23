@@ -88,10 +88,8 @@ m. Varšuvoje Mokslo bičiulių drau- 3 skyrius • R U S I J O S I M P E R I J 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/Ksaveras Bogušas]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Silvestras Valiūnas]]
-- [[objektai/vietos/Varšuva]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/paprociai/Lietuvių ir lenkų kultūrinių draugijų paralelizmas, tyrimai ir viešos parodos]]
 - [[objektai/ivykiai/Lietuvių mokslo draugijos ir Vilniaus mokslo bičiulių draugijos įkūrimas]]

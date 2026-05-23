@@ -53,8 +53,5 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Europa]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/SSRS]]
-- [[objektai/vietos/Vokietija]]
 - [[objektai/posakiai/„Galima spėlioti, kad... arijų kalbos lopšys turėjo būti lietuvių apgyventoje teritorijoje“]]

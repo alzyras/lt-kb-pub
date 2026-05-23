@@ -110,11 +110,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Dubysa]]
-- [[objektai/vietos/Klaipėda]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/grupes/Žemaičiai]]

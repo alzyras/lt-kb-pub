@@ -80,6 +80,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/autoriai/Liuteris]]
-- [[objektai/vietos/Viena]]
 - [[objektai/asmenys/Martynas Liuteris]]
 - [[objektai/zodynas/reformacija protestantizmas kalvinizmas]]

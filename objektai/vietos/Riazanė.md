@@ -180,17 +180,3 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Lengvenis]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Jurgis Sviatoslavaitis]]
-- [[objektai/vietos/Kaluga]]
-- [[objektai/asmenys/Olegas (Riazanės didysis kunigaikštis)]]
-- [[objektai/vietos/Pskovas]]
-- [[objektai/vietos/Riazanės kunigaikštystė]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Chudandachas]]
-- [[objektai/asmenys/Vladimiras (Pronsko kunigaikštis)]]

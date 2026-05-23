@@ -81,13 +81,3 @@ Vilniaus katedrai ir steigiamajai vyskupijai Jogaila užra­ šė (1387. 11. 17)
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/Giedraičių kautynės]]
-- [[objektai/ivykiai/Giedraičių kautynės (1920 m.)]]
-- [[objektai/vietos/Kiauneliškio geležinkelio stotis]]
-- [[objektai/vietos/Labanoro giria]]
-- [[objektai/vietos/Naručio apylinkės]]
-- [[objektai/vietos/Pagaigalė]]
-- [[objektai/grupes/Vytauto apygarda]]

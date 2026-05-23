@@ -161,9 +161,6 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/vietos/Europa]]
-- [[objektai/vietos/Kaunas]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Stasys Girėnas]]
 - [[objektai/asmenys/Steponas]]
 - [[objektai/posakiai/„Antanas nori būti ore“]]

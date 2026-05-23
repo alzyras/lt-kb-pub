@@ -40,10 +40,3 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Europa]]
-- [[objektai/vietos/Viena]]
-- [[objektai/zodynas/protestantizmas]]
-- [[objektai/vietos/Skandinavija]]

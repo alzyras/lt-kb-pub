@@ -86,8 +86,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Maskva]]
 - [[objektai/asmenys/Steponas]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/tribunolas]]

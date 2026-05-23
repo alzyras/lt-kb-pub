@@ -93,8 +93,8 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/tikėjimas]]
+
 ### Susiję objektai
-- [[objektai/vietos/Aukaimis]]
-- [[objektai/vietos/Ragainė]]
 - [[objektai/zodynas/komtūras]]
-- [[objektai/vietos/Aukaimio pilis|Aukaimio pilis (pilis)]]

@@ -82,10 +82,5 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Baltarusija]]
-- [[objektai/vietos/Grenoblis]]
-- [[objektai/vietos/Gudija]]
-- [[objektai/vietos/Gumbinė]]
 - [[objektai/grupes/Habsburgai]]
-- [[objektai/vietos/Žalgiris]]
 - [[objektai/paprociai/Aisčių ugnies kultas ir šventoji namų ugnelė]]

@@ -78,6 +78,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Rusija]]
 - [[objektai/paprociai/Rusijos imperijos vietinė luominė savivalda ir bajorų seimeliai]]

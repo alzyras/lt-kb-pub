@@ -59,9 +59,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Livonija]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/grupes/Švedai]]
-- [[objektai/vietos/Kaunas]]
-- [[objektai/vietos/Lenkija]]

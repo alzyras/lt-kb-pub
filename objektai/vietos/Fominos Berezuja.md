@@ -47,9 +47,3 @@ Nusigandę Fominos Berezujos kunigaikš­ čiai, patys geruoju prisidėjo prie V
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Maskva]]
-- [[objektai/vietos/Smolenskas]]
-- [[objektai/asmenys/Sviatoslavas]]

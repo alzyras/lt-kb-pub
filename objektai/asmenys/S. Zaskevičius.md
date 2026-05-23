@@ -104,7 +104,5 @@ Zaskevičius. Zaskevičiaus vadovaujama rinktinė artėjo prie Jiezno. Zaskevič
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Jieznas]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Rytas]]
-- [[objektai/vietos/Tverai]]

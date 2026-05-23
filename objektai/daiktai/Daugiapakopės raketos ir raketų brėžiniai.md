@@ -79,6 +79,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Europa]]
 - [[objektai/autoriai/Kazimieras Semenavičius]]
-- [[objektai/vietos/Lietuva]]

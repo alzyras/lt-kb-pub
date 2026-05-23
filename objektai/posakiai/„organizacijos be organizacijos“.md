@@ -68,5 +68,4 @@ hos įvykių Lietuvoje pradėjo kurtis „organizacijos be organizacijos“, į 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]

@@ -51,9 +51,3 @@ Staliorių, Rugienių X AŠMINTOS SUSISPROGDINIMAS 1947 m. liepos 17 d. Prienų 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Birutė]]
-- [[objektai/vietos/Prienai]]
-- [[objektai/vietos/Pagaršvio upelis]]

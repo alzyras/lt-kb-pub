@@ -77,6 +77,5 @@ Vilniuje 1907 m. buvo įkurta Lietuvių Mokslo Draugija, kuri pasiryžo tirti li
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/grupes/Rytas]]
 - [[objektai/grupes/Žiburys]]

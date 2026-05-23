@@ -59,8 +59,8 @@ Jau prieš I pa­ saulinį karą buvo teigiama (Sobolevskij, A.
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/ežeras]]
+- [[temos/upė]]
 
 ### Susiję objektai
 - [[objektai/grupes/Baltai]]
-- [[objektai/vietos/Dniepras]]
 - [[objektai/autoriai/Spycinas]]

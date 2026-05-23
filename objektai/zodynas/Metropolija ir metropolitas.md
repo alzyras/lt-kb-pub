@@ -58,10 +58,10 @@ Ir Algirdas, ir Maskvos kunigaikštis tuo pačiu laiku dėjo stiprių pastangų 
     - t-001
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/tikėjimas]]
+
 ### Susiję objektai
-- [[objektai/vietos/Kijevo Rusia]]
-- [[objektai/vietos/Maskva]]
-- [[objektai/vietos/Smolenskas]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/metropolitas]]

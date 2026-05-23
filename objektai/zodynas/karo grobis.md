@@ -58,7 +58,6 @@ Netrukus sąjungininkai užėmė priešo stovyklą ir užvaldė didelį karo gro
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Namas]]
 - [[objektai/asmenys/Aleksandras Kolčiakas]]

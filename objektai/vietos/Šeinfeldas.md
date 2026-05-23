@@ -56,12 +56,3 @@ Lietuvos pabėgėliai stovykloje Vokietijoje (Šeinfelde) renkasi dalijamus drab
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/drabužis]]
-
-### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Vokietija]]
-- [[objektai/daiktai/Drabužiai]]

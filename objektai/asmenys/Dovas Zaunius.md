@@ -60,6 +60,4 @@ Voldemaras, neturėdamas Lietuvos delegacija Tautų Sąjungoje Ženevoje 1926 m.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Augustinas Voldemaras]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Petras Klimas]]

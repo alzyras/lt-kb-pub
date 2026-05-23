@@ -42,12 +42,3 @@ Pirmiausia ji privertė savo valdžiai pasiduoti Lietuvos sąjungininkus Tverę 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Maskva]]
-- [[objektai/vietos/Naugardas]]
-- [[objektai/vietos/Tverė]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/vietos/Isteris]]

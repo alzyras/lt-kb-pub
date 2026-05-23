@@ -74,14 +74,11 @@ Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Maskva]]
 - [[objektai/asmenys/Steponas]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/kapitula]]
 - [[objektai/grupes/7-ojo fuzilierių regimento]]
 - [[objektai/autoriai/Aug. Janulaitis]]
-- [[objektai/vietos/Gardinas]]
 - [[objektai/grupes/LDK 4-ojo pėstininkų regimento]]
 - [[objektai/grupes/LDK tribunolo vengrų vėliavos dalinys]]
 - [[objektai/grupes/Lietuvos Karininkų Ramovė]]

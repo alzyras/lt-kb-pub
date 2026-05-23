@@ -91,10 +91,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas]]
 - [[objektai/grupes/JAV lietuviai]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Nemunas]]
-- [[objektai/vietos/Rusija]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/autoriai/Zauerveinas]]
 - [[objektai/paprociai/Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną]]

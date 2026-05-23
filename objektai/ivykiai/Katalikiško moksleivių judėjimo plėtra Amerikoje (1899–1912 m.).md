@@ -60,7 +60,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Europa]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/organas]]
-- [[objektai/vietos/Čikaga]]

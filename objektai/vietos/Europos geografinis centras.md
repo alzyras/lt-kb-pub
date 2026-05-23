@@ -112,25 +112,3 @@ Vieta apibrėžiama Lietuvos ir Vilniaus geografiniame kontekste.
 ## Šaltiniai ir įrodymai
 
 ## Pastabos
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/lietuva]]
-
-### Susiję objektai
-- [[objektai/vietos/Europa]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/autoriai/Alfredas Bumblauskas]]
-- [[objektai/autoriai/Alvydas Jokubaitis]]
-- [[objektai/autoriai/Antanas Kulakauskas]]
-- [[objektai/posakiai/Be abejonės, sanskrito giminingumas su lietuvių kalba]]
-- [[objektai/autoriai/Inga Vinogradnaitė]]
-- [[objektai/autoriai/Mindaugas Tamošaitis]]
-- [[objektai/autoriai/Raimundas Lopata]]
-- [[objektai/asmenys/Robert Gordon Latham]]
-- [[objektai/vietos/Rytų Europa]]
-- [[objektai/posakiai/„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“]]
-- [[objektai/posakiai/„Jei Šveicarijai būdinga aukšti kalnai, Italijai – meno kūriniai, Suomijai – ežerai, o Lietuvą reikėtų pavadinti kraštu, kuriame labai pavoj]]
-- [[objektai/vietos/Prancūzija]]
-- [[objektai/vietos/Vilnius]]

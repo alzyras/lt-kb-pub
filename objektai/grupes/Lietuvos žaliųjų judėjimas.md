@@ -41,6 +41,5 @@ Stiprėjo Lietuvos žaliųjų judėjimas.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Vytautas Radžvilas]]

@@ -88,15 +88,3 @@ Buvo planuojama stambaus masto ilgalaikė kampanija, gal net visai Lietuvos Did�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Lietuvos kariuomenė]]
-- [[objektai/vietos/Lukomlis]]
-- [[objektai/vietos/Polockas]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/zodynas/etmonas]]
-- [[objektai/zodynas/hetmonas]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

@@ -89,12 +89,6 @@ Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užė
 ### Susiję objektai
 - [[objektai/grupes/Chodkevičiai]]
 - [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
-- [[objektai/vietos/Kuoknesė]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Švedai]]
-- [[objektai/vietos/Švedija]]
 - [[objektai/daiktai/Eriko Dalbergo graviūra „Urbs et Castellum Brestzie Litewski a S.R.M. Suecix die“]]
-- [[objektai/vietos/Kuoknesės pilis|Kuoknesės pilis (pilis)]]
-- [[objektai/vietos/Paidė]]
-- [[objektai/vietos/Viljandis]]

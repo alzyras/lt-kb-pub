@@ -66,4 +66,3 @@ Snayerso paveikslo „Salaspilio mūšis“ fragmente švedai pradeda bėgti iš
 - [[objektai/grupes/Chodkevičiai]]
 - [[objektai/zodynas/rotmistras]]
 - [[objektai/grupes/Švedai]]
-- [[objektai/vietos/Švedija]]

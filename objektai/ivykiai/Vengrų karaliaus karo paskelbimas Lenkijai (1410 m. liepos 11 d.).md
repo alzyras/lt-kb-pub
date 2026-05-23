@@ -92,9 +92,5 @@ Nenurodyta
 - [[temos/pinigai]]
 
 ### Susiję objektai
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Soldau]]
 - [[objektai/grupes/Vengrai]]
-- [[objektai/vietos/Vengrija]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/vietos/Hohendorfas]]

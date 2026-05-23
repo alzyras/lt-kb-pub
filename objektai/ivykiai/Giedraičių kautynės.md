@@ -81,13 +81,8 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Giedraičiai]]
 - [[objektai/ivykiai/Giedraičių kautynės (1920 m.)]]
-- [[objektai/vietos/Labanoras]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Ukmergė]]
 - [[objektai/autoriai/Dalius Žygelis]]
-- [[objektai/vietos/Kiauneliškiai]]
 - [[objektai/autoriai/Ričardas Čekutis]]

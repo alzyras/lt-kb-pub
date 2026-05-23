@@ -100,8 +100,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Kristijonas|Kristijonas (vyskupas)]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Simonas Stanevičius]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/grupes/Vokiečiai]]

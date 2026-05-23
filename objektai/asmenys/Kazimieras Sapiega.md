@@ -80,4 +80,3 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Artilerija]]
-- [[objektai/vietos/Vilnius]]

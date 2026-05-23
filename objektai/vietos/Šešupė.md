@@ -162,28 +162,3 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Liepona]]
-- [[objektai/vietos/Narevas]]
-- [[objektai/vietos/Nemunas]]
-- [[objektai/vietos/Salynas]]
-- [[objektai/vietos/Sūduva]]
-- [[objektai/vietos/Užnemunė]]
-- [[objektai/zodynas/dykra]]
-- [[objektai/zodynas/ekonomija]]
-- [[objektai/vietos/Šešuoliai]]
-- [[objektai/vietos/Šiauliai]]
-- [[objektai/vietos/Šiaulių ekonomija]]
-- [[objektai/vietos/Širvintos]]
-- [[objektai/vietos/Šventoji]]
-- [[objektai/vietos/Grajevo]]
-- [[objektai/vietos/Kulautuva]]
-- [[objektai/vietos/Leipūnos upė]]
-- [[objektai/vietos/Ragordo ežerai]]
-- [[objektai/vietos/Salyne]]
-- [[objektai/vietos/Smalininkai]]
-- [[objektai/vietos/Širvinta]]
-- [[objektai/vietos/Širvintos upė]]

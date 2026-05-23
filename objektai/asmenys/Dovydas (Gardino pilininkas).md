@@ -154,14 +154,7 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Gardinas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Livonija]]
-- [[objektai/vietos/Mozūrija]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Dovydas Gardiniškis]]
-- [[objektai/vietos/Mozūrijos žemė]]
-- [[objektai/vietos/Revelis]]
-- [[objektai/vietos/Rezeknės regionas]]
-- [[objektai/vietos/Estija]]

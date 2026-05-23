@@ -54,6 +54,5 @@ Leontovičių ir M.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Rusų istorikai]]

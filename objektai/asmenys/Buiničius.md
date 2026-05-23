@@ -79,8 +79,6 @@ Jam vadovavo majoras Jacenka ir štabo viršininkas majoras Buiničius.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Dainava]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/NKVD]]
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

@@ -169,8 +169,6 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
 ### Susiję objektai
 - [[objektai/grupes/Chasidai]]
 - [[objektai/zodynas/Jidiš]]
-- [[objektai/vietos/Viena]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/akcijos]]
 - [[objektai/zodynas/ješiva]]
 - [[objektai/grupes/Žydai]]
@@ -180,4 +178,3 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
 - [[objektai/zodynas/bajoriškoji demokratija luominė monarchija]]
 - [[objektai/zodynas/chasidizmas rabinizmas]]
 - [[objektai/posakiai/„duona, tolerancija, demokratija, konstitucija, barokas“]]
-- [[objektai/vietos/Lietuva]]

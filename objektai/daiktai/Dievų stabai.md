@@ -97,7 +97,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/daiktai/Aukuras]]
 - [[objektai/daiktai/Taurės]]
-- [[objektai/vietos/Viena]]
 - [[objektai/zodynas/Kūrėjų kūrėjas|kūrėjų kūrėjas]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/Aukausenos|aukausenos]]

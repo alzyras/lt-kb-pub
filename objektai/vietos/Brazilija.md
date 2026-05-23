@@ -63,20 +63,3 @@ Lietuviai vyko daugiausia į Pietų Amerikos šalis (Argentiną, Braziliją, Ven
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuvos diplomatinė tarnyba]]
-- [[objektai/vietos/SSRS]]
-- [[objektai/vietos/Urugvajus]]
-- [[objektai/vietos/Vatikanas]]
-- [[objektai/vietos/Venesuela]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/vietos/Didžioji Britanija]]
-- [[objektai/vietos/JAV]]
-- [[objektai/vietos/Kanada]]
-- [[objektai/vietos/Kolumbija]]
-- [[objektai/vietos/Prancūzija]]
-- [[objektai/vietos/Pietų Amerika]]

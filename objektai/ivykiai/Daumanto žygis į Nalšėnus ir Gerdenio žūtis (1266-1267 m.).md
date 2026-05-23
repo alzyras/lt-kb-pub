@@ -66,6 +66,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Daumantas]]
-- [[objektai/vietos/Nalšėnai]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/zodynas/žygis]]

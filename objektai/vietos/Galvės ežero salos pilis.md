@@ -97,13 +97,3 @@ Tai pilis, minima kaip vienas reprezentacinių Vytauto statinių.
 ## Šaltiniai ir įrodymai
 
 ## Pastabos
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Galvės ežeras]]
-- [[objektai/vietos/Trakai]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Salos]]
-- [[objektai/autoriai/V. Trumpa]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

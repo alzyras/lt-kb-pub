@@ -43,7 +43,3 @@ Taip antai, Fridrikas Didysis savo dvare laikė Volterą, pats rašė poezijos i
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Europa]]

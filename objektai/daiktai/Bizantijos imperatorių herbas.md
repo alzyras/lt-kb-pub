@@ -99,6 +99,4 @@ Nenurodyta
 - [[temos/simbolis]]
 
 ### Susiję objektai
-- [[objektai/vietos/Bizantija]]
-- [[objektai/vietos/Maskva]]
 - [[objektai/grupes/Romai]]

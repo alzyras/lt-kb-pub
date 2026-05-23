@@ -144,17 +144,11 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/posakiai/Antemurale Christianitatis]]
-- [[objektai/vietos/Europa]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Maskva]]
 - [[objektai/grupes/Maskvėnai]]
 - [[objektai/asmenys/Mykolas]]
 - [[objektai/asmenys/Vasilijus (Maskvos didysis kunigaikštis)]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/grupes/Jogailaičiai]]
 - [[objektai/zodynas/artilerijos pasala]]
-- [[objektai/vietos/Dubrovna]]
 - [[objektai/asmenys/Vasilijus III]]

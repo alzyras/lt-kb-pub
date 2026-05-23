@@ -71,7 +71,6 @@ Vartojamos formos: `žiuponais`.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Viena]]
 - [[objektai/grupes/Sandara]]
 - [[objektai/zodynas/Šaldros|šaldros]]
 - [[objektai/grupes/Žemaičiai]]

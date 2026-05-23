@@ -104,10 +104,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kuršas]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Palanga]]
 - [[objektai/asmenys/Russdorfas]]
 - [[objektai/zodynas/didysis magistras]]
 - [[objektai/zodynas/magistras]]

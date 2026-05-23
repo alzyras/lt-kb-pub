@@ -72,5 +72,4 @@ Vartojama lyginamajame religinių-politinių institucijų aiškinime.
 - [[temos/religinis-terminas]]
 
 ### Susiję objektai
-- [[objektai/vietos/Nadruva]]
 - [[objektai/paprociai/Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas|Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas (institucija)]]

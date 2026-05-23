@@ -79,9 +79,9 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/dokumentas]]
+
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/vietos/Baltija]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/vietos/SSRS]]
-- [[objektai/vietos/Vokietija]]

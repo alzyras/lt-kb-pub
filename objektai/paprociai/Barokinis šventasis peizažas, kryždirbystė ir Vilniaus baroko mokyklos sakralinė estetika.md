@@ -93,7 +93,4 @@ Nenurodyta
 - [[temos/drabužis]]
 
 ### Susiję objektai
-- [[objektai/vietos/Europa]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/barokas]]

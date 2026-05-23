@@ -81,9 +81,6 @@ Apie 1968 m. atsirado pirmosios hipių judėjimo grupelės, o Prahos pavasaris s
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Baltija]]
-- [[objektai/vietos/SSRS]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/ivykiai/Nelegalus roko festivalis Vilniuje (1971 m.)]]
 - [[objektai/zodynas/disidentai disidentinis judėjimas kitaminčiai]]
 - [[objektai/zodynas/hipiai pankai rokeriai]]

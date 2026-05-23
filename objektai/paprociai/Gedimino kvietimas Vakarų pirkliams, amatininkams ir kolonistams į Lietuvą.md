@@ -132,7 +132,6 @@ Nenurodyta
 - [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
 - [[objektai/ivykiai/Gedimino krikšto akcija|Gedimino krikšto akcija (krikštas)]]
 - [[objektai/grupes/Karaimai]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

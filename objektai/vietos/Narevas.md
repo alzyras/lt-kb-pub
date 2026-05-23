@@ -95,14 +95,3 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Livonija]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/vietos/Duobelės pilis|Duobelės pilis (pilis)]]
-- [[objektai/vietos/Šešupė]]
-- [[objektai/vietos/Viznos apylinkės]]

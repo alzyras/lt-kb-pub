@@ -66,9 +66,7 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Europa]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Pilėnai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/ivykiai/Pilėnų pilies gynimas (1336 m.)]]

@@ -55,10 +55,6 @@ Vokietijos kancleris Teobaldas fon Betmanas Holvegas (Theobald von Bethmann Holl
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Baltija]]
 - [[objektai/grupes/Latviai]]
-- [[objektai/vietos/Rusija]]
-- [[objektai/vietos/Vokietija]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/vietos/Voluinė]]

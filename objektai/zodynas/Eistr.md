@@ -53,10 +53,7 @@ Vikingai naudojo visas didžiąsias upes rytų Pabaltijo, kuris kartą yra pavad
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Dniepras]]
 - [[objektai/autoriai/K. Būga]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Nemunas]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Vikingai]]
-- [[objektai/vietos/Viena]]

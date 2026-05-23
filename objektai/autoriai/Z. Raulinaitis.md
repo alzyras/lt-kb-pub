@@ -73,11 +73,6 @@ Raulinaitis, Z.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Europa]]
 - [[objektai/daiktai/Kalavijai]]
-- [[objektai/vietos/Kaunas]]
-- [[objektai/vietos/Kijevo Rusia]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Zarasai]]
 - [[objektai/zodynas/feodalizmas]]

@@ -134,13 +134,3 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Adolfas Ramanauskas-Vanagas]]
-- [[objektai/asmenys/Aleksandras Grybinas-Faustas]]
-- [[objektai/asmenys/Aleksandras Milaševičius-Ruonis]]
-- [[objektai/asmenys/Antanas Liesys-Idenas]]
-- [[objektai/grupes/Marcinkonių batalionas]]
-- [[objektai/asmenys/Robertas Gedvilas-Remigijus]]
-- [[objektai/asmenys/Vytautas Gužas-Kardas]]

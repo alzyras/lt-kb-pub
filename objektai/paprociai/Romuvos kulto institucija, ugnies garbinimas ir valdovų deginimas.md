@@ -96,8 +96,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Aukuras]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Nadruva]]
-- [[objektai/vietos/Romuva]]
 - [[objektai/zodynas/amfiktionija]]
 - [[objektai/zodynas/pagonybė]]

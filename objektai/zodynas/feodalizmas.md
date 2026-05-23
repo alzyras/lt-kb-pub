@@ -81,9 +81,6 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Europa]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Viena]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/suverenas]]

@@ -101,22 +101,3 @@ Lietuvos pasieny, o iš kitos pusės, nuo Lenkijos netolimoje Saksonijoje, jis b
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/didikas]]
-
-### Susiję objektai
-- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/vietos/Rusija]]
-- [[objektai/grupes/Sapiegos]]
-- [[objektai/ivykiai/Šiaurės karas]]
-- [[objektai/grupes/Švedai]]
-- [[objektai/asmenys/Augustas II]]
-- [[objektai/asmenys/Karolis XII]]
-- [[objektai/ivykiai/Kristijono įšventinimas Lietuvos vyskupu ir Lietuvos vyskupijos išskyrimas (1254 m.)]]
-- [[objektai/zodynas/konstitucinė monarchija]]
-- [[objektai/ivykiai/Šiaurės karas (1700–1721 m.)]]
-- [[objektai/grupes/Rusijos kariuomenė]]

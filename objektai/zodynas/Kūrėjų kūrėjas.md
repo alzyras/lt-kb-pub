@@ -127,4 +127,3 @@ Vartojamos formos: `kūrėjų kūrėjo`.
 - [[objektai/zodynas/Krivė krivaitis|krivė krivaitis]]
 - [[objektai/paprociai/Žynio gyvenimas šventoje girioje ir siuntinių priėmimas po lapine]]
 - [[objektai/zodynas/Žemlionis|žemlionis]]
-- [[objektai/vietos/Šventoji]]

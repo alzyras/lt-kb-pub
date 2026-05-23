@@ -291,23 +291,17 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
     - t-012
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/upė]]
+
 ### Susiję objektai
-- [[objektai/vietos/Dauguva]]
-- [[objektai/vietos/Latvija]]
-- [[objektai/vietos/Utena]]
-- [[objektai/vietos/Zarasai]]
 - [[objektai/ivykiai/Apuolės apgula (853 m.)]]
-- [[objektai/vietos/Ceklio sritis]]
 - [[objektai/grupes/Estai]]
-- [[objektai/vietos/Kuršas]]
-- [[objektai/vietos/Kuršių Neringa]]
-- [[objektai/vietos/Kuršių marios]]
 - [[objektai/paprociai/Kuršių plėšiamieji žygiai į Danijos ir Švedijos pakrantes]]
 - [[objektai/ivykiai/Kuršių sukilimas prieš danus (853 m.)]]
 - [[objektai/grupes/Lietgaliai]]
 - [[objektai/ivykiai/Pasiuntinybė į Niurnbergą dėl krikšto (1358 m.)]]
 - [[objektai/ivykiai/Pasiuntinybė į Nürnbergą dėl krikšto (1358 m.)]]
-- [[objektai/vietos/Prūsija]]
 - [[objektai/autoriai/Rimbertas]]
 - [[objektai/autoriai/Rimberto, Rimbertas]]
 - [[objektai/autoriai/Saxo Grammaticus]]

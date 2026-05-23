@@ -44,7 +44,4 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Mstislavlis]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/barokas]]

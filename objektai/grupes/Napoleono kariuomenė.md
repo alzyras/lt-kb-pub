@@ -112,12 +112,7 @@ Napoleonas su kariuomene persikėlė per Nemuną ties Kaunu ir greit nužygiavo 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kaunas]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Nemunas]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/vietos/Rusija]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/žygis]]

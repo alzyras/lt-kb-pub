@@ -55,7 +55,4 @@ Kamienieckį, kuris parašė iš Lietuvos XIV-XV amž. visuomeninių-socialinių
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kaunas]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Liublinas]]
 - [[objektai/zodynas/unija]]

@@ -118,5 +118,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/Adynos|adynos]]

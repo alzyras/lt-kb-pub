@@ -97,16 +97,3 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Liubartas]]
-- [[objektai/vietos/Prūsai]]
-- [[objektai/vietos/Angerburgas]]
-- [[objektai/vietos/Girdava]]
-- [[objektai/vietos/Johanisburgas]]
-- [[objektai/vietos/Lotzenburgas]]
-- [[objektai/vietos/Röselis]]

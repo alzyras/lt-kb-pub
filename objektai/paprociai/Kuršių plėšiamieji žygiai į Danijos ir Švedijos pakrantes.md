@@ -71,7 +71,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Baltai]]
 - [[objektai/grupes/Kuršiai]]
-- [[objektai/vietos/Prūsai]]
 - [[objektai/grupes/Vikingai]]
-- [[objektai/vietos/Švedija]]
 - [[objektai/grupes/Skandinavai]]

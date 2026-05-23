@@ -58,10 +58,11 @@ Jie susirėmė su Juodosios jūros pajūrio ir Krymo totorių teritorijos trijų
     - t-001
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/upė]]
+
 ### Susiję objektai
 - [[objektai/grupes/Karijotaičiai]]
-- [[objektai/vietos/Krymas]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/Adynos|adynos]]

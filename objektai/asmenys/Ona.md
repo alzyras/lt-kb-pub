@@ -52,4 +52,3 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Prūsai]]

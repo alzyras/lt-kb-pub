@@ -130,16 +130,9 @@ Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/ivykiai/Algirdo žygiai į Maskvą]]
-- [[objektai/vietos/Birutės kalnas]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Maskva]]
-- [[objektai/vietos/Palanga]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/daiktai/Aukuras]]
-- [[objektai/vietos/Ašminta]]
 - [[objektai/autoriai/Józef Wolff]]
 - [[objektai/ivykiai/Kęstučio žūtis Krėvos kalėjime (1382 m.)]]
-- [[objektai/vietos/Pagaršvio upelis]]
 - [[objektai/grupes/Tauro apygarda]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/vaidilutė]]

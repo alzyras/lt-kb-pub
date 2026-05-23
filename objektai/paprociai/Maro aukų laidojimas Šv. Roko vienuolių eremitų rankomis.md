@@ -82,6 +82,5 @@ Nenurodyta
 - [[temos/laidotuvės]]
 
 ### Susiję objektai
-- [[objektai/vietos/Viena]]
 - [[objektai/grupes/Švedai]]
 - [[objektai/zodynas/Aukausenos|aukausenos]]

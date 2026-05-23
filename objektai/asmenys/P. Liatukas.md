@@ -76,9 +76,3 @@ Liatukas įsakė 2-ojo pėstininkų pulko vadui karin. Liatukas vasario 8 d. įs
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Kaunas]]
-- [[objektai/vietos/Nemunas]]
-- [[objektai/vietos/Prienai]]

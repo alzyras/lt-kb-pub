@@ -61,5 +61,4 @@ Nenurodyta
 - [[temos/metraštis]]
 
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]

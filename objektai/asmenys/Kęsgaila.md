@@ -56,5 +56,4 @@ Jam į pagalbą bu­ vo paskirtas Žemaičių seniūnas Kęsgaila.
 
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/seniūnas]]

@@ -61,5 +61,4 @@ Lianskoronskij, V.
 
 ### Susiję objektai
 - [[objektai/grupes/Totoriai]]
-- [[objektai/vietos/Vorskla]]
 - [[objektai/zodynas/žygis]]

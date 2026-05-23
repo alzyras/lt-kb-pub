@@ -75,5 +75,3 @@ Nenurodyta
 - [[objektai/daiktai/Karūna]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/vietos/Lenčica]]
-- [[objektai/vietos/Lietuva]]

@@ -71,12 +71,8 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kijevas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Podolė]]
 - [[objektai/grupes/Totoriai]]
-- [[objektai/vietos/Vorskla]]
 - [[objektai/zodynas/unija]]
 - [[objektai/asmenys/Edyga]]
-- [[objektai/vietos/Luckas]]
 - [[objektai/asmenys/Gregorijus Cemblakas]]

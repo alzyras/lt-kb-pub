@@ -67,6 +67,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Livonija]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/zodynas/žygis]]

@@ -104,12 +104,8 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Isaakas ben Abrahamas iš Trakų]]
 - [[objektai/grupes/Karaimai]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Rusija]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/grupes/Totoriai]]
-- [[objektai/vietos/Trakai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/daugiakonfesiškumas]]
 - [[objektai/zodynas/statutas]]

@@ -52,11 +52,3 @@ Kad labiau popiežius patrauktų Vytautą į savo pusę, paskiria jį ir Rygos a
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Italija]]
-- [[objektai/vietos/Ryga]]
-- [[objektai/zodynas/apsikarūnavimas]]
-- [[objektai/zodynas/Arkivyskupija]]
-- [[objektai/zodynas/protektorium]]

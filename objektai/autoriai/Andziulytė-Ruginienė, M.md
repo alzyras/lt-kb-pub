@@ -55,5 +55,4 @@ Andziulytė-Ruginienė, M.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kaunas]]
 - [[objektai/zodynas/christianizacija]]

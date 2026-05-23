@@ -129,6 +129,3 @@ Osten-Sakenui. Osten-Sakenas dešiniajame gynybos sparne puolimui išrikiavo kav
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Orenburgo ulonų pulkas]]
-- [[objektai/vietos/Podolė]]
-- [[objektai/vietos/Trakai]]
-- [[objektai/vietos/Vilnius]]

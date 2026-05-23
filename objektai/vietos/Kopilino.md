@@ -62,17 +62,3 @@ Tais pačiais metais maskvėnai nusiaubė Oršos, Vitebsko, Kopilino, Šklovo, D
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/paliaubos]]
-
-### Susiję objektai
-- [[objektai/vietos/Dubrovna]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Livonija]]
-- [[objektai/vietos/Maskva]]
-- [[objektai/vietos/Viena]]
-- [[objektai/vietos/Vitebskas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Maskvėnai]]

@@ -105,15 +105,3 @@ Vyskupystės centru buvo padaryti Varniai. Be to, jėzuitai turėjo įsikūrę i
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Airiogala]]
-- [[objektai/vietos/Kaltinėnai]]
-- [[objektai/vietos/Kelmė]]
-- [[objektai/vietos/Luokė]]
-- [[objektai/vietos/Viduklė]]
-- [[objektai/zodynas/homiletika]]
-- [[objektai/zodynas/tautinė sąmonė]]
-- [[objektai/ivykiai/Žemaičių vyskupijos įkūrimas (1417 m. spalio 24 d.)]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

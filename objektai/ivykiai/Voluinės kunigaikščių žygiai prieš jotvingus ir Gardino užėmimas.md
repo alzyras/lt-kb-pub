@@ -64,11 +64,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Aisčiai]]
-- [[objektai/vietos/Gardinas]]
 - [[objektai/grupes/Jotvingai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Prūsai]]
-- [[objektai/vietos/Slanimas]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/vietos/Voluinė]]
 - [[objektai/zodynas/kunigaikščiai]]

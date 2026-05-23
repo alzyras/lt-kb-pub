@@ -75,11 +75,8 @@ tags: []
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kijevas]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/unija]]
-- [[objektai/vietos/Konstantinopolis]]
 - [[objektai/zodynas/metropolitas]]

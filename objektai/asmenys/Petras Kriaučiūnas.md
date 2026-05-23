@@ -60,7 +60,6 @@ Lietuvių mokslo draugijos iniciatorius ir Lietuvių mokslo draugijos suvažiavi
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Liudvika Didžiulienė-Žmona]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/daiktai/A. Jurašaičio nuotrauka „Lietuvių mokslo draugijos suvažiavimo dalyviai Vilniuje 1912 m.“]]
 - [[objektai/asmenys/Jonas Jablonskis]]
 - [[objektai/asmenys/Julija Žymantienė-Žemaitė]]

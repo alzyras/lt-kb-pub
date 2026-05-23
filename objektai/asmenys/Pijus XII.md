@@ -48,10 +48,10 @@ tags:
 
 ## Ryšiai
 ### Teminiai klasteriai
+- [[temos/dokumentas - laiškas]]
+- [[temos/dokumentas]]
 - [[temos/laiškas]]
 
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/SSRS]]
 - [[objektai/ivykiai/Partizanų dokumentų nugabenimas į laisvąjį pasaulį (1947 m. pabaiga)]]
 - [[objektai/zodynas/geležinė uždanga]]

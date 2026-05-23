@@ -68,8 +68,3 @@ Smolenske buvo įsigalėjęs Lengvenio Algirdaičio sūnus Jurgis.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Maskva]]
-- [[objektai/vietos/Smolenskas]]

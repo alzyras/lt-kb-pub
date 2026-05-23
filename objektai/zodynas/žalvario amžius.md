@@ -48,4 +48,3 @@ Tik apie vidurį antrojo tūkstantmečio prieš Kristų į Lietuvą patenka paty
 
 ### Susiję objektai
 - [[objektai/daiktai/Ietys]]
-- [[objektai/vietos/Lietuva]]

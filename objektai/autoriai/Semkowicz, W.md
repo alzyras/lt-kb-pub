@@ -58,5 +58,4 @@ Semkowicz, W.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/christianizacija]]

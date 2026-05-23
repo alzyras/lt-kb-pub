@@ -114,13 +114,7 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Gardinas]]
-- [[objektai/vietos/Kuršas]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Prancūzija]]
-- [[objektai/vietos/Suvalkai]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/grupes/Lietuvos Taryba|Lietuvos Taryba (institucija)]]
 - [[objektai/posakiai/„atkuria“ „atkūrimu“ „atstatymu“]]

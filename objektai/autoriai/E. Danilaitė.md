@@ -82,8 +82,6 @@ Danilaitė domėjosi brūkšniuotąja keramika Lietuvoje (AkMD, t. E. Danilaitė
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Brūkšniuotoji keramika]]
-- [[objektai/vietos/Kaunas]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/daiktai/Sidabro dirbiniai]]
 - [[objektai/daiktai/Geležiniai įrankiai]]
 - [[objektai/grupes/LTSR Mokslų Akademijos Istorijos Institutas]]

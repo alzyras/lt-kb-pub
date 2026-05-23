@@ -46,5 +46,4 @@ Tačiau jis leido Lietuvos bajorijai sudaryti laikinę savo valdžią.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/bajorija]]

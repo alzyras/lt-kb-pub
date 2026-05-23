@@ -46,7 +46,3 @@ Vilniaus universiteto profesorių veikalai pasiekė net protestantiškąją Angl
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Anglai]]
-- [[objektai/vietos/Anglija]]
-- [[objektai/vietos/Europa]]
-- [[objektai/vietos/Oksfordas]]
-- [[objektai/vietos/Vilnius]]

@@ -48,5 +48,4 @@ tags:
 ### Susiję objektai
 - [[objektai/grupes/Jutrzenka]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lenkija]]
 - [[objektai/grupes/Oswiata]]

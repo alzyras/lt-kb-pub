@@ -252,7 +252,6 @@ Terminas vartojamas tiek aiškinamajame pasakojime, tiek cituojamame politiniame
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/zodynas/Bajorų respublika liberum veto]]
-- [[objektai/vietos/Malburgas]]
 - [[objektai/paprociai/Aukso laisvės ideologija]]
 - [[objektai/posakiai/Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те liberum veto veto]]
 - [[objektai/posakiai/aukso laisvė tikroji laisvė]]

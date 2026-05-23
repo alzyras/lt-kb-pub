@@ -48,10 +48,3 @@ Kai narsus Kuldingos (Goldingen) komtūras Bernhardas von Haren su gausiu grobiu
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Kuldinga]]
-- [[objektai/zodynas/komtūras]]
-- [[objektai/zodynas/pagonybė]]
-- [[objektai/grupes/Žemaičiai]]

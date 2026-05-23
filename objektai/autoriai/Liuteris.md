@@ -88,7 +88,5 @@ Ypač didelis nepasitenkinimas ordinu ėjo iš to, kad krašte buvo smarkiai įs
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Krokuva]]
-- [[objektai/vietos/Prūsai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/ivykiai/Reformacijos pradžia Lietuvoje]]

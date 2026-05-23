@@ -57,6 +57,5 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Vytenis]]
 - [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]

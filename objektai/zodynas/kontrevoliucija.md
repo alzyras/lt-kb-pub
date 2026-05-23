@@ -78,6 +78,4 @@ tags: []
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/vietos/Ryga]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/grupes/Vokiečiai]]

@@ -256,11 +256,7 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Baltija]]
-- [[objektai/vietos/Didžioji Britanija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/ivykiai/Vilniaus perdavimo sutarties ir SSRS-Lietuvos savitarpio pagalbos sutarties pasirašymas (1939 m. spalio 10 d.)]]
-- [[objektai/vietos/SSRS]]
 - [[objektai/grupes/Lietuvos komunistų partija]]

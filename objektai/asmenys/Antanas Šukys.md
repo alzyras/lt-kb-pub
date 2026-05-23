@@ -70,8 +70,6 @@ Svoris be durtuvo - 4,20 kg SAVANORIAI VERŽIASI Į KOVĄ | | Savanoris Antanas 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Durtuvas]]
-- [[objektai/vietos/Jieznas]]
-- [[objektai/vietos/Kaunas]]
 - [[objektai/zodynas/Savanoris]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/11 brigada]]
@@ -79,6 +77,4 @@ Svoris be durtuvo - 4,20 kg SAVANORIAI VERŽIASI Į KOVĄ | | Savanoris Antanas 
 - [[objektai/posakiai/MIRTIES AKIVAIZDOJE]]
 - [[objektai/grupes/Marijampolės batalionas]]
 - [[objektai/grupes/Mokomoji kuopa]]
-- [[objektai/vietos/Pagiriai]]
-- [[objektai/vietos/Vidugiriai]]
 - [[objektai/zodynas/viršila]]

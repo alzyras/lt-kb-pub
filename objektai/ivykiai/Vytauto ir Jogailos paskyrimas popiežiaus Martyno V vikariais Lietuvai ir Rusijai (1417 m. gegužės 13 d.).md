@@ -70,11 +70,10 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/tikėjimas]]
+
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Naugardas]]
-- [[objektai/vietos/Pskovas]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Martynas V]]
-- [[objektai/vietos/Rusija]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

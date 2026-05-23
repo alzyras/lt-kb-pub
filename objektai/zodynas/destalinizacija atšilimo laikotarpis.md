@@ -66,7 +66,6 @@ Lietuvos visuomenėje konformizmas ypač išplito destalinizacijos metu. Padėti
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis|Mikalojus Konstantinas Čiurlionis (dailininkas)]]
 - [[objektai/zodynas/atšilimas]]

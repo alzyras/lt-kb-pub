@@ -169,10 +169,6 @@ Nenurodyta
 - [[temos/karūnacija]]
 
 ### Susiję objektai
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/asmenys/Zbignievas Olesnickis]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Vokietija]]
 - [[objektai/daiktai/Karūna]]

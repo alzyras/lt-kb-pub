@@ -91,24 +91,3 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Aleksandras]]
-- [[objektai/vietos/Galicija]]
-- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
-- [[objektai/asmenys/Kazimieras]]
-- [[objektai/vietos/Kernavė]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Vengrai]]
-- [[objektai/asmenys/Vladislovas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/kunigaikštija]]
-- [[objektai/asmenys/Kazimieras Didysis]]
-- [[objektai/vietos/Kernavos kunigaikštija]]
-- [[objektai/vietos/Kujavija]]
-- [[objektai/asmenys/Liudvikas]]
-- [[objektai/asmenys/Vladislovas iš Opolės]]
-- [[objektai/asmenys/Zigmantas Liuksemburgietis]]
-- [[objektai/zodynas/superarbitras]]
-- [[objektai/vietos/Lenkija]]

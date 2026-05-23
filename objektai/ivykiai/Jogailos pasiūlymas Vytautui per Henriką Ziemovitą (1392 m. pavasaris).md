@@ -70,8 +70,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Karūna]]
-- [[objektai/vietos/Mozūrija]]
-- [[objektai/vietos/Płockas]]
 - [[objektai/asmenys/Ziemovitas]]
 - [[objektai/zodynas/vasalas]]
 - [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]

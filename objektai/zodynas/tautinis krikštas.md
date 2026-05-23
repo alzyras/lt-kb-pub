@@ -75,7 +75,6 @@ Didžiulės reikšmės lietuvių tautinės savimonės plėtotei, plačiųjų lie
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/autoriai/Maironis]]
 - [[objektai/zodynas/kunigas]]

@@ -188,8 +188,6 @@ Vokiečių karinė administracija / vadovybė okupuotame krašte.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Liuteronai]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/vietos/Oberostas]]
 - [[objektai/zodynas/germanizacija]]

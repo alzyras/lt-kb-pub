@@ -42,6 +42,4 @@ Užmegzti ryšiai su Lenkijos užsienio reikalų ministru Juzefu Beku (Józef Be
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lenkija]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/vietos/Lietuva]]

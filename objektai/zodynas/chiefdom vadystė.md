@@ -82,6 +82,4 @@ Vartojama ankstyvosios Lietuvos politinės organizacijos aptarime.
 - [[temos/istorinė-sąvoka]]
 
 ### Susiję objektai
-- [[objektai/vietos/Europa]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Netimeras]]

@@ -75,6 +75,5 @@ Nenurodyta
 - [[objektai/asmenys/Jascha Heifetz]]
 - [[objektai/autoriai/Kassiodoras]]
 - [[objektai/autoriai/Tacitas (romėnų rašytojas, I amžiaus gale)]]
-- [[objektai/vietos/Turkija]]
 - [[objektai/daiktai/Gintaro ir stiklo karoliai]]
 - [[objektai/paprociai/Aukojimas ant auko kalnų ir didžiųjų akmenų]]

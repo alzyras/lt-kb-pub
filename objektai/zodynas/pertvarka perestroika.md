@@ -74,12 +74,8 @@ SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, kita
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Maskva]]
 - [[objektai/asmenys/Rimgaudas Songaila]]
-- [[objektai/vietos/Ukraina]]
 - [[objektai/posakiai/„Lietuvą padaryti internacionalinę“]]
 - [[objektai/asmenys/Petras Griškevičius]]
-- [[objektai/vietos/SSRS]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]

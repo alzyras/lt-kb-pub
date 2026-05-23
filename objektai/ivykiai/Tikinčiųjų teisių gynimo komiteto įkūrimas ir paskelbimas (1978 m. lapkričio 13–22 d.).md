@@ -89,11 +89,12 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/dokumentas]]
+
 ### Susiję objektai
 - [[objektai/asmenys/Jonas Kauneckas]]
 - [[objektai/asmenys/Juozas Zdebskis|Juozas Zdebskis (kunigas)]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Maskva]]
 - [[objektai/zodynas/kulto laisvė]]
 - [[objektai/asmenys/Sigitas Tamkevičius]]
 - [[objektai/asmenys/Alfonsas Svarinskas]]

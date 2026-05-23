@@ -47,22 +47,11 @@ tags:
     - t-001
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/upė]]
+
 ### Susiję objektai
-- [[objektai/vietos/Alūkšta]]
-- [[objektai/vietos/Bernas]]
-- [[objektai/vietos/Dauguva]]
-- [[objektai/vietos/Europa]]
-- [[objektai/vietos/Kaunas]]
-- [[objektai/vietos/Klaipėda]]
-- [[objektai/vietos/Kuršas]]
-- [[objektai/vietos/Liepoja]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Slanimas]]
-- [[objektai/vietos/Suvalkai]]
-- [[objektai/vietos/Valkaviskas]]
-- [[objektai/vietos/Vilniaus gubernija]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/gubernija]]
 - [[objektai/posakiai/„Lithuania Propria“]]
 - [[objektai/zodynas/etnografinės ribos etnografinis principas]]

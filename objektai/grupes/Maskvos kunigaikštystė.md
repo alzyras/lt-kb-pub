@@ -137,14 +137,10 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Maskva]]
-- [[objektai/vietos/Pskovas]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Sofija (Vytauto duktė)]]
 - [[objektai/grupes/Totoriai]]
-- [[objektai/vietos/Vorskla]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/saar]]
-- [[objektai/vietos/Rusija]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/grupes/Maskvos kunigaikštija]]

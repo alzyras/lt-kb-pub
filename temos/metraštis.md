@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 12.
+Objektų skaičius: 7.
 
 ## Kaip naudoti
 
@@ -31,13 +31,6 @@ Objektų skaičius: 12.
 
 ### Posakiai
 - [[objektai/posakiai/„Mėlynuosius Vandenis ir Baltąją pakrantę nukariavo“]]
-
-### Vietos
-- [[objektai/vietos/Deltuva]]
-- [[objektai/vietos/Mohilna]]
-- [[objektai/vietos/Naujapilis]]
-- [[objektai/vietos/Uturiai]]
-- [[objektai/vietos/Užpaliai]]
 
 ### Žodynas
 - [[objektai/zodynas/bibliografinis biuletenis sąsiuvinys]]

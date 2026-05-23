@@ -53,10 +53,5 @@ Tai buvo bulgaras Ciprijonas, kurį Algirdas per didelius vargus buvo išgavęs 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kijevas]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Maskva]]
-- [[objektai/vietos/Rusija]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/zodynas/metropolitas]]
-- [[objektai/vietos/Konstantinopolis]]

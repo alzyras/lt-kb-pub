@@ -75,14 +75,8 @@ Ilgainiui lietuvius Vokiečių ordino valstybėje (vėliau pasivadinusioje Prūs
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Dancigas]]
-- [[objektai/vietos/Gdanskas]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Nadruviai]]
-- [[objektai/vietos/Prūsai]]
-- [[objektai/vietos/Prūsija]]
-- [[objektai/vietos/Vokietija]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/dykra]]
 - [[objektai/ivykiai/Versalio taikos konferencijos sprendimas dėl Klaipėdos krašto (1919 m.)]]

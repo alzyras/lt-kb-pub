@@ -83,22 +83,3 @@ Per trumpa “| laiką Švedijos kariuomenė užėmė Paidę (Weisenstein), Kuok
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Chodkevičiai]]
-- [[objektai/vietos/Daugavgryva]]
-- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
-- [[objektai/vietos/Kuoknesė]]
-- [[objektai/daiktai/Laivai]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Livonija]]
-- [[objektai/vietos/Paidė]]
-- [[objektai/vietos/Ryga]]
-- [[objektai/zodynas/rokošas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Švedai]]
-- [[objektai/vietos/Švedija]]
-- [[objektai/grupes/Švedijos kariuomenė]]
-- [[objektai/asmenys/Jonas Karolis Chodkevičius]]

@@ -55,6 +55,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Europa]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/Bolonijos deklaracijos tikslas]]

@@ -170,7 +170,3 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/laiškas]]
-
-### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Viena]]

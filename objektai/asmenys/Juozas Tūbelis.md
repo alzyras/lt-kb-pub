@@ -163,10 +163,5 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Estija]]
-- [[objektai/vietos/Latvija]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Užnemunė]]
 - [[objektai/grupes/Valstybės gynimo taryba|Valstybės gynimo taryba (institucija)]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

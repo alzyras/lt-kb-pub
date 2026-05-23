@@ -190,9 +190,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/NKVD]]
-- [[objektai/vietos/SSRS]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/daiktai/Drabužiai]]

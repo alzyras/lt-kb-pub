@@ -71,6 +71,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kijevas]]
-- [[objektai/vietos/Luckas]]
 - [[objektai/zodynas/vietininkas]]

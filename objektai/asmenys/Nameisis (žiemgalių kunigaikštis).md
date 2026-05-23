@@ -87,10 +87,7 @@ Traidenio valdymo laikotarpiu vyko aktyvus lietuvių ir žiemgalių bendradarbia
 ### Susiję objektai
 - [[objektai/grupes/Baltai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Livonija]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/vietos/Tervetė]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/grupes/Žiemgaliai]]

@@ -39,12 +39,3 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Ispanija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Norvegija]]
-- [[objektai/vietos/Meksika]]
-- [[objektai/vietos/Jungtinė Karalystė]]
-- [[objektai/paprociai/Masinė Lietuvos gyventojų emigracija po privatizacijos dešimtmečio]]

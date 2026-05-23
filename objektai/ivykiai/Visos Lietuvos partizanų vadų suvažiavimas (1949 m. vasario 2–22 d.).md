@@ -57,11 +57,10 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/dokumentas]]
+
 ### Susiję objektai
 - [[objektai/daiktai/Artilerija]]
 - [[objektai/asmenys/Jonas Žemaitis-Vytautas]]
-- [[objektai/vietos/Kaunas]]
 - [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
-- [[objektai/vietos/Prancūzija]]
-- [[objektai/vietos/Baisogala]]
-- [[objektai/vietos/Radviliškis]]

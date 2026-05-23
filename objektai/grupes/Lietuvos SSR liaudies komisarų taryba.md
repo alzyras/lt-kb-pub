@@ -84,6 +84,4 @@ rugpjūčio 25 dieną Liaudies seimas buvo pervadintas Lietuvos SSR Aukščiausi
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/grupes/Liaudies seimas|Liaudies seimas (seimas)]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/SSRS]]
 - [[objektai/zodynas/konstitucijos]]

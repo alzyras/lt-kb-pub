@@ -56,6 +56,4 @@ Radvilos pajėgos.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Smolenskas]]
 - [[objektai/zodynas/etmonas]]
-- [[objektai/vietos/Šepelievičiai]]

@@ -81,5 +81,4 @@ Nenurodyta
 - [[temos/papuošalas]]
 
 ### Susiję objektai
-- [[objektai/vietos/Prūsai]]
 - [[objektai/zodynas/vaidilutė]]

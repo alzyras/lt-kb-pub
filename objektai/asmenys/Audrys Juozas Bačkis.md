@@ -49,8 +49,5 @@ Popiežių Joną Paulių II pirmojo vizito į Lietuvą metu lydi Lietuvos Respub
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Rusija]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/metropolitas]]
 - [[objektai/ivykiai/Rusijos kariuomenės išvedimas iš Lietuvos (1993 m. rugpjūčio 31 d.)]]

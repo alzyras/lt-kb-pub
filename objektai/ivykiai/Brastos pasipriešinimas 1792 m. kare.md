@@ -77,12 +77,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Brasta]]
-- [[objektai/vietos/Lenkija]]
 - [[objektai/grupes/Lenkijos kariuomenė]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
-- [[objektai/vietos/Targovica]]
-- [[objektai/vietos/Varšuva]]
 - [[objektai/zodynas/konfederacija]]
-- [[objektai/vietos/Myras]]
 - [[objektai/asmenys/Juzefas Poniatovskis]]

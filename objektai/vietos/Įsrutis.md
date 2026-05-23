@@ -173,18 +173,3 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Kaunas]]
-- [[objektai/vietos/Kauno pilis|Kauno pilis (pilis)]]
-- [[objektai/zodynas/kryžininkai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/vietos/Angerburgas]]
-- [[objektai/vietos/Girdava]]
-- [[objektai/vietos/Johanisburgas]]
-- [[objektai/vietos/Lotzenburgas]]
-- [[objektai/vietos/Mežuotnės pilis|Mežuotnės pilis (pilis)]]
-- [[objektai/vietos/Röselis]]
-- [[objektai/grupes/Lietuviai]]

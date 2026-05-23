@@ -69,6 +69,7 @@ Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą protes
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/didikas]]
+- [[temos/tikėjimas]]
 
 ### Susiję objektai
 - [[objektai/grupes/LDK didikai]]

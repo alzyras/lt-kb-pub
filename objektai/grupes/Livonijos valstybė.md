@@ -101,10 +101,6 @@ Livonijos valstybė nebuvo vienalytė; joje iš tikrųjų buvo net 6 atskiros ju
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Livonija]]
-- [[objektai/vietos/Maskva]]
 - [[objektai/grupes/Maskvos kariuomenė]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/asmenys/Zigmantas Augustas]]
 - [[objektai/zodynas/magistras]]

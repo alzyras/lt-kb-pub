@@ -110,13 +110,3 @@ Derybos prasidėjo Briuselyje 1921 metų balandžio 20 d.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/asmenys/Antanas Valionis]]
-- [[objektai/vietos/Atėnai]]

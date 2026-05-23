@@ -39,10 +39,3 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Šiauliai]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/vietos/Kauno getas]]
-- [[objektai/vietos/Vilniaus getas]]

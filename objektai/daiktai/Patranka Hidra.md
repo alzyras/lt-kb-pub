@@ -69,7 +69,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/daiktai/Patrankos]]
 - [[objektai/asmenys/Žygimantas]]

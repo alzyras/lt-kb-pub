@@ -149,10 +149,7 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
 ### Susiję objektai
 - [[objektai/grupes/Auksinė Orda]]
 - [[objektai/grupes/Karijotaičiai]]
-- [[objektai/vietos/Kijevas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Podolė]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/tėvonys]]
 - [[objektai/grupes/Aukso orda]]

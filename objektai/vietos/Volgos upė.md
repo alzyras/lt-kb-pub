@@ -79,15 +79,3 @@ Radvilos pajėgos nusiaubė Rževo apylinkes, tuomet perėję Volgos upę, sudeg
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Dauguva]]
-- [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Pskovas]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/vietos/Rusija]]
-- [[objektai/vietos/Rževas]]
-- [[objektai/vietos/Starica]]
-- [[objektai/vietos/Toropecas]]

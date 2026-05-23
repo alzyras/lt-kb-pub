@@ -54,19 +54,3 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/ežeras]]
-
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/vietos/Apaščia]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Nevėžis]]
-- [[objektai/vietos/Pskovas]]
-- [[objektai/vietos/Salynas]]
-- [[objektai/vietos/Smardonė]]
-- [[objektai/vietos/Sūduva]]
-- [[objektai/vietos/Mūša]]
-- [[objektai/vietos/Uturiai]]

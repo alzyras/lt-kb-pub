@@ -74,6 +74,4 @@ Nenurodyta
 - [[objektai/asmenys/Dlugošas]]
 - [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/vietos/Trakai]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/asmenys/Vydimantas]]

@@ -77,7 +77,6 @@ Lackio husarai ir ryžtingu puolimu nubloškia švedų raituosius gvardiečius. 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kuršas]]
 - [[objektai/zodynas/husarai]]
 - [[objektai/zodynas/rotmistras]]
 - [[objektai/grupes/Švedai]]

@@ -74,6 +74,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kalavijuočių ordinas]]
-- [[objektai/vietos/Palestina]]
-- [[objektai/vietos/Vokietija]]
 - [[objektai/zodynas/kryžininkai]]

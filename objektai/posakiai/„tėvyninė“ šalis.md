@@ -43,6 +43,5 @@ Pilsudskis pareiškė, kad jo politika yra iš esmės taiki ir kad jis nepuls Li
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/J. Pilsudskis]]
-- [[objektai/vietos/Lenkija]]
 - [[objektai/asmenys/Pilsudskis]]
 - [[objektai/asmenys/Juzefas Pilsudskis]]

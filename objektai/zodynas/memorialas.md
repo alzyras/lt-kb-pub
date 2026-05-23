@@ -69,8 +69,6 @@ Jis pats tuo tarpu pradėjo rūpintis, kad iš buvusių didžiosios Lietuvos kun
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Rusija]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/autoriai/Jan Fijałek]]

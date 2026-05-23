@@ -68,6 +68,4 @@ Vertikalios gotikinių bažnyčių linijos ir kylantys į dangų bokštai simbol
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Europa]]
 - [[objektai/zodynas/gotika]]
-- [[objektai/vietos/Lietuva]]

@@ -183,9 +183,5 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Prūsija]]
-- [[objektai/vietos/Semba]]
-- [[objektai/vietos/Strėva]]
-- [[objektai/vietos/Viena]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/stabmeldys]]

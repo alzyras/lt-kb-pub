@@ -61,8 +61,5 @@ Eidintas A., Senn A. E., Žalys V., edit. E. Tuskenis. Lithuania in European pol
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Rusija]]
 - [[objektai/zodynas/neutralitetas]]
 - [[objektai/grupes/Žydai]]
-- [[objektai/vietos/Niujorkas]]

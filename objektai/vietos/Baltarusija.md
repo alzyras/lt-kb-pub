@@ -85,24 +85,3 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Aleksandras Lukašenka]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/vietos/Baltoji Rusia]]
-- [[objektai/autoriai/E. Griškūnaitė]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
-- [[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis]]
-- [[objektai/autoriai/K. Jablonskis]]
-- [[objektai/autoriai/Konstantinas Jablonskis]]
-- [[objektai/autoriai/L. Mulevičius]]
-- [[objektai/grupes/Lenkų socialistų partija]]
-- [[objektai/autoriai/O. Maksimaitienė]]
-- [[objektai/autoriai/P. Girdzijauskienė]]
-- [[objektai/autoriai/S. Grunau]]
-- [[objektai/autoriai/Simono Grunau]]
-- [[objektai/autoriai/Snyder T]]
-- [[objektai/autoriai/V. Černeckis]]
-- [[objektai/vietos/Vakarų Ukraina]]
-- [[objektai/ivykiai/Lietuvos ir Baltarusijos geros kaimynystės deklaracijos ir sutarties pasirašymas|Lietuvos ir Baltarusijos geros kaimynystės deklaracijos ir sutarties pasirašymas (sutartis)]]

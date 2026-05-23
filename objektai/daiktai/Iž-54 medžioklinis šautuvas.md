@@ -72,6 +72,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Aukščiausiosios Tarybos rūmai|Aukščiausiosios Tarybos rūmai (institucija)]]
-- [[objektai/vietos/SSRS]]
 - [[objektai/zodynas/Savanoris]]

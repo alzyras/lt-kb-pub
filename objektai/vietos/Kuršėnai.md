@@ -95,12 +95,3 @@ Tada Kuršėnuose įvyko paskutinis vadų pasitarimas, kur pasirodė didžiausia
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Virgoličiaus rinktinė]]
-- [[objektai/asmenys/Virgoličius]]
-- [[objektai/vietos/Šiauliai]]
-- [[objektai/ivykiai/Bermontininkų įsiveržimas į Lietuvą (1919 m. liepos 26 d.)]]
-- [[objektai/vietos/Kuršo pasienis]]
-- [[objektai/grupes/Bermontininkai]]

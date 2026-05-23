@@ -112,13 +112,3 @@ Susikūrus nepriklausomai Latvijai, iš pradžių jos ir Lietuvos siena buvo lai
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Gardinas]]
-- [[objektai/vietos/Kuršas]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Palanga]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/zodynas/gubernija]]
-- [[objektai/vietos/Vilniaus gubernija]]

@@ -68,12 +68,7 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Artilerija]]
-- [[objektai/vietos/Chocimas]]
-- [[objektai/vietos/Chotinas]]
 - [[objektai/grupes/Janičarai]]
 - [[objektai/grupes/Kazokai]]
-- [[objektai/vietos/Krymas]]
-- [[objektai/vietos/Turkija]]
-- [[objektai/vietos/Ukraina]]
 - [[objektai/zodynas/petihorai]]
 - [[objektai/grupes/Valakai]]

@@ -59,10 +59,4 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Medvėgalis]]
-- [[objektai/vietos/Čekija]]
 - [[objektai/zodynas/žygis]]
-- [[objektai/vietos/Aukaimis]]
-- [[objektai/vietos/Gedimino pilis|Gedimino pilis (pilis)]]
-- [[objektai/vietos/Gegužkalnis]]
-- [[objektai/vietos/Kvėdarna]]

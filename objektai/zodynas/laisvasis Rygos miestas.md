@@ -46,9 +46,3 @@ Tam labai priešinosi arkivyskupas, kurs jautėsi esąs aukščiausias autoritet
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Livonija]]
-- [[objektai/vietos/Ryga]]
-- [[objektai/vietos/Marijenburgas]]

@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 10.
+Objektų skaičius: 9.
 
 ## Kaip naudoti
 
@@ -30,6 +30,3 @@ Objektų skaičius: 10.
 
 ### Daiktai
 - [[objektai/daiktai/Ringrafas]]
-
-### Vietos
-- [[objektai/vietos/Chotinas]]

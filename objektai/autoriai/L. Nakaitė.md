@@ -64,6 +64,4 @@ Nakaitė, L.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/daiktai/Sidabro dirbiniai]]

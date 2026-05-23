@@ -67,5 +67,4 @@ Damoklo kardas tikrai pakibo ant unijos, kurią taip smarkiai gynė lenkai ir, i
 ### Susiję objektai
 - [[objektai/daiktai/Kardas]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Viena]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

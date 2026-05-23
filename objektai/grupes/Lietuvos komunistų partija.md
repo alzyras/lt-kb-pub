@@ -466,25 +466,18 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
     - t-018
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/elekcija]]
+
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/vietos/Aukščiausiosios Tarybos rūmai|Aukščiausiosios Tarybos rūmai (institucija)]]
-- [[objektai/vietos/Kaunas]]
 - [[objektai/grupes/Komjaunimas]]
-- [[objektai/vietos/Latvija]]
 - [[objektai/grupes/Liaudies vyriausybė]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]
-- [[objektai/vietos/Maskva]]
 - [[objektai/asmenys/Rimgaudas Songaila]]
-- [[objektai/vietos/SSRS]]
 - [[objektai/grupes/SSRS kariuomenė]]
-- [[objektai/vietos/Sniečkus]]
-- [[objektai/vietos/Ukraina]]
-- [[objektai/vietos/Viena]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/aneksija]]
 - [[objektai/zodynas/getas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

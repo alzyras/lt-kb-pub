@@ -74,9 +74,7 @@ Lietuvos didysis etmonas Mykolas Kazimieras Oginskis į jų reikalavimus pasiai�
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Mykolas]]
-- [[objektai/vietos/Rusija]]
 - [[objektai/asmenys/Kazimieras]]
 - [[objektai/zodynas/etmonas]]
 - [[objektai/zodynas/hetmonas]]

@@ -63,7 +63,6 @@ Surinkdamas daug archyvinės medžiagos, Janulaitis parašė išsamų veikalą �
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/tribunolas]]
 - [[objektai/zodynas/monografija]]
 - [[objektai/autoriai/Aug. Janulaitis]]

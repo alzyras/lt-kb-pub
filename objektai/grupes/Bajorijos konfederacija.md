@@ -47,9 +47,6 @@ Kaip tik tuo metu Varšuvoje susidarė bajorijos konfederacija, kuri skelbėsi n
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Varšuva]]
-- [[objektai/vietos/Viena]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/unija]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]

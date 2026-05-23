@@ -71,6 +71,5 @@ Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo suformuotose vadinamosiose 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/agentas-smogikas]]
 - [[objektai/zodynas/specialioji grupė]]

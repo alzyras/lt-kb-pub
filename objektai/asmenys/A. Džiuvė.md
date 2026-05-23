@@ -52,8 +52,4 @@ Džiuvė su 3 kuopa žvalgė SudeikiųTalaikių-Kušneriūnų rajoną.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Antalieptė]]
-- [[objektai/vietos/Daugailiai]]
-- [[objektai/vietos/Sudeikiai]]
-- [[objektai/vietos/Utena]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

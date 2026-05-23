@@ -256,16 +256,11 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
 - [[temos/aktas]]
 
 ### Susiję objektai
-- [[objektai/vietos/Baltija]]
 - [[objektai/posakiai/Gorbis ar Lietuva]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/SSRS]]
-- [[objektai/vietos/Ukraina]]
 - [[objektai/zodynas/konstitucijos]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Jedinstvo]]
 - [[objektai/grupes/Nacionalinio gelbėjimo komitetas|Nacionalinio gelbėjimo komitetas (institucija)]]
-- [[objektai/vietos/Maskva]]
 - [[objektai/grupes/Lietuvos komunistų partija]]
 - [[objektai/ivykiai/Lietuvos nepriklausomybės tarptautinis pripažinimas (1991 m. vasario 11 d. – rugsėjo 6 d.)]]
 - [[objektai/posakiai/Šalin rankas nuo Lietuvos]]

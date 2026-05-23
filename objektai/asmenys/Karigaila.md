@@ -127,8 +127,6 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Dubysa]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]

@@ -122,11 +122,3 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Vilnius]]
-- [[objektai/ivykiai/Versalio taikos konferencijos sprendimas dėl Klaipėdos krašto (1919 m.)]]
-- [[objektai/zodynas/lietuvininkai]]
-- [[objektai/vietos/Amsterdamas]]
-- [[objektai/zodynas/bajoriškoji demokratija]]

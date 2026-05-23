@@ -64,6 +64,5 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/istorinė Lietuva]]
 - [[objektai/grupes/Žydai]]

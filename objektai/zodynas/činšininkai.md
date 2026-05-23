@@ -60,5 +60,4 @@ Lietuvos komitetų darbas ėjo ne be kliūčių, nes bajorijos tarpe atsirado ne
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
 - [[objektai/zodynas/Baudžiava]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/bajorija]]

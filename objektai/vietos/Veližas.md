@@ -78,16 +78,3 @@ Sutartyje caras atsisakė nuo Livonijos, Polocko ir Veližo; jam buvo grąžinti
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/paliaubos]]
-
-### Susiję objektai
-- [[objektai/vietos/Biala]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Rusija]]
-- [[objektai/vietos/Smolenskas]]
-- [[objektai/vietos/Toropecas]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/asmenys/Kristupas Radvila Perkūnas]]

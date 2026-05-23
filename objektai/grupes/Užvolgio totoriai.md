@@ -59,9 +59,6 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Auksinė Orda]]
-- [[objektai/vietos/Luckas]]
-- [[objektai/vietos/Pskovas]]
-- [[objektai/vietos/Smolenskas]]
 - [[objektai/zodynas/chanas]]
 - [[objektai/asmenys/Chudandachas]]
 - [[objektai/ivykiai/Užvolgio totorių sumušimas ir Machmeto iškėlimas į Aukso Ordos chanus (1424 m.)]]

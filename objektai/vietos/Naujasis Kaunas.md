@@ -84,18 +84,3 @@ Siekdamas atkurti gynybą NemunoNeries-Nevėžio žiočių ruože, Kęstutis sta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Kaunas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Nemunas]]
-- [[objektai/vietos/Nevėžis]]
-- [[objektai/vietos/Veliuona]]
-- [[objektai/vietos/Veliuonos pilis|Veliuonos pilis (pilis)]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/vietos/Nevėžio žiotys]]
-- [[objektai/vietos/Trapėnai]]

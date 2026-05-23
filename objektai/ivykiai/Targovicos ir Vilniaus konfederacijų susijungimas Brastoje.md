@@ -55,9 +55,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Brasta]]
-- [[objektai/vietos/Gardinas]]
-- [[objektai/vietos/Targovica]]
-- [[objektai/vietos/Viena]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/konfederacija]]

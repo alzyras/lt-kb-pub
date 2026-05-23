@@ -82,10 +82,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Baltai]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/autoriai/M. Michelbertas]]
-- [[objektai/vietos/Rudaičiai]]
-- [[objektai/vietos/Veliuona]]
 - [[objektai/autoriai/E. Danilaitė]]
 - [[objektai/autoriai/E. Radzvilovaitė]]
 - [[objektai/daiktai/Geležiniai įrankiai]]

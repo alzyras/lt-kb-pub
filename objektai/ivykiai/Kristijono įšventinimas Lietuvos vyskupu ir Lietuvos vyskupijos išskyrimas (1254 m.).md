@@ -91,9 +91,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Kristijonas|Kristijonas (vyskupas)]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Mindaugas]]
-- [[objektai/vietos/Ryga]]
-- [[objektai/vietos/Saksonija]]
 - [[objektai/zodynas/metropolitas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

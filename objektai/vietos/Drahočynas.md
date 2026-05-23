@@ -76,22 +76,3 @@ Brastoje (pirmos žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko Litev
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Dniepras]]
-- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Mozūrija]]
-- [[objektai/vietos/Pronskas]]
-- [[objektai/vietos/Trakai]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/paliaubos]]
-- [[objektai/paprociai/Vytauto bažnyčių statymas ir vienuolynų steigimas]]
-- [[objektai/vietos/Viena]]
-- [[objektai/zodynas/kunigaikštija]]
-- [[objektai/vietos/Belskas]]
-- [[objektai/vietos/Kamiencas]]
-- [[objektai/vietos/Kamienecas]]
-- [[objektai/vietos/Mielnikas]]

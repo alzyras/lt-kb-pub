@@ -52,8 +52,3 @@ Osten-Sacken, P. von : Livländisch-russische Beziehungen während der Regierung
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Kijevo Rusia]]
-- [[objektai/vietos/Livonija]]

@@ -121,10 +121,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Europa]]
-- [[objektai/vietos/Lenkija]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Rusija]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/zodynas/palivarkas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

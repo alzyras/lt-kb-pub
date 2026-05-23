@@ -68,10 +68,3 @@ gyvenama tik tikrojoj Lietuvoj, Palenkėj, Voluinėj ir Podolės Braclavo srityj
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Braclavas]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Podolė]]
-- [[objektai/vietos/Palenkė]]

@@ -71,8 +71,6 @@ Nenurodyta
 - [[temos/paliaubos]]
 
 ### Susiję objektai
-- [[objektai/vietos/Kėzmarkas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Vengrai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/vietos/Lenkija]]

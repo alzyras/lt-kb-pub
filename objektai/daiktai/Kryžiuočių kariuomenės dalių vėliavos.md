@@ -125,6 +125,4 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Tanenbergas]]
 - [[objektai/daiktai/Vėliavos]]
-- [[objektai/vietos/Krokuva]]

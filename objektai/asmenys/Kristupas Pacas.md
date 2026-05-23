@@ -55,13 +55,8 @@ Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu, buvo kancleris 
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Bajorų konfederacija]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Mykolas]]
-- [[objektai/vietos/Rusija]]
 - [[objektai/zodynas/konfederacija]]
 - [[objektai/grupes/Švedai]]
-- [[objektai/vietos/Švedija]]
-- [[objektai/vietos/Pažaislis]]
 - [[objektai/asmenys/Jonas Kazimieras Vaza]]
 - [[objektai/asmenys/Mykolas Pacas]]

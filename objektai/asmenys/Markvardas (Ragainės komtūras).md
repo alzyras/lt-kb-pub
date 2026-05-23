@@ -57,20 +57,14 @@ Buvo valakai, kryžiuočių dalinys (100 riterių), vadovaujamas Ragainės komt�
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Krokuva]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Podolė]]
-- [[objektai/vietos/Ragainė]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Tochtamišas]]
 - [[objektai/grupes/Tochtamišo totoriai]]
 - [[objektai/grupes/Totoriai]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/vaivada]]
-- [[objektai/vietos/Marienburgas]]
-- [[objektai/vietos/Kijevas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]

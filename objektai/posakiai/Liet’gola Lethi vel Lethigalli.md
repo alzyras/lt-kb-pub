@@ -53,10 +53,6 @@ Latvijos Henrikas juos vadino « Lethi vel Le t ­ th igalli», kartą paaiškin
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Dauguva]]
 - [[objektai/autoriai/Henrikas]]
-- [[objektai/vietos/Latgalija]]
 - [[objektai/grupes/Latviai]]
-- [[objektai/vietos/Latvija]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Vidžemė]]

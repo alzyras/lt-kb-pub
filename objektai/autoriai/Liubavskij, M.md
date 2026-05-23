@@ -62,9 +62,5 @@ Atskirų dalinių (^8) M. Ljubavskij : Litovsko-Russkij sejm, Maskva 1900, 355-3
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/J. Jakubovskis]]
-- [[objektai/vietos/Kaunas]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Liublinas]]
 - [[objektai/autoriai/M. Ljubavskij]]
-- [[objektai/vietos/Maskva]]
 - [[objektai/zodynas/unija]]

@@ -109,13 +109,9 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/grupes/Bajorai]]
-- [[objektai/vietos/Europa]]
 - [[objektai/asmenys/Jonas Kalita]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Maskva]]
-- [[objektai/vietos/Rusija]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/asmenys/Dmitrijus]]
 - [[objektai/asmenys/Fiodoras]]

@@ -55,7 +55,4 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Livonija]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/vietos/Lenkija]]

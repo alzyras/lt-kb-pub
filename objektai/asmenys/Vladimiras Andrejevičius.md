@@ -56,8 +56,5 @@ Didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje, jo pusbrolis kunigai
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Dmitrijus]]
-- [[objektai/vietos/Maskva]]
-- [[objektai/vietos/Pronskas]]
-- [[objektai/vietos/Vladimiras]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/asmenys/Vladimiras (Pronsko kunigaikštis)]]

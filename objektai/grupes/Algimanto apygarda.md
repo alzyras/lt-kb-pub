@@ -105,7 +105,6 @@ tags:
 - [[objektai/grupes/Agentai-smogikai]]
 - [[objektai/grupes/NKVD]]
 - [[objektai/daiktai/Partizanų bunkeriai]]
-- [[objektai/vietos/Viena]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/Šimonių girios apgultis]]
 - [[objektai/grupes/Kunigaikščio Margio rinktinė]]

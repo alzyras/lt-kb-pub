@@ -59,9 +59,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Bernas]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/ivykiai/Vilniaus konferencija (1917 m. rugsėjo 18–22 d.)]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/vietos/Šveicarija]]
 - [[objektai/paprociai/Pasaulinė bažnytinė rinkliava nukentėjusios Lietuvos naudai]]

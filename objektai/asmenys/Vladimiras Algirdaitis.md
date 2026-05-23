@@ -119,8 +119,3 @@ Vladimiro pinigas; 9 — Naugardo Sieversko kunig. Vladimirui ir Ratnos kunigaik
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/pinigai]]
-
-### Susiję objektai
-- [[objektai/vietos/Kijevas]]
-- [[objektai/vietos/Polockas]]
-- [[objektai/vietos/Žitomiras]]

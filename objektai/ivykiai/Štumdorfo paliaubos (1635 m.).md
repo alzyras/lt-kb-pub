@@ -64,7 +64,5 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lenkija]]
 - [[objektai/grupes/Lenkų bajorija]]
-- [[objektai/vietos/Prūsija]]
 - [[objektai/grupes/Švedai]]

@@ -93,5 +93,4 @@ Sovietinės represinės institucijos partizaninio judėjimo atramai slopinti nau
 - [[temos/socialinė-praktika]]
 
 ### Susiję objektai
-- [[objektai/vietos/Sibiras]]
 - [[objektai/ivykiai/Sovietinių represinių struktūrų kova su Lietuvos partizanais (1944–1954 m.)]]

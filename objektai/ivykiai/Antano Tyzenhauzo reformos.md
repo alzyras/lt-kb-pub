@@ -60,8 +60,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Antanas Tyzenhauzas|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]
-- [[objektai/vietos/Gardinas]]
 - [[objektai/zodynas/Lažas|lažas]]
 - [[objektai/zodynas/činšas]]
-- [[objektai/vietos/Paulava]]
 - [[objektai/asmenys/Povilas Ksaveras Bžostovskis|Povilas Ksaveras Bžostovskis (reformų veikėjas)]]

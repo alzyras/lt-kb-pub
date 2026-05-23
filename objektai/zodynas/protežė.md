@@ -52,11 +52,9 @@ Vytautas padėti neatsisakė, nes gerai suprato, kad, turėdamas chaną sa­ vo 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Maskva]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/chanas]]
 - [[objektai/zodynas/saar]]
-- [[objektai/vietos/Kijevo Rusia]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/posakiai/Aš tave pasodinsiu Auksinėj Ordoj...]]

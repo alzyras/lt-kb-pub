@@ -1,11 +1,11 @@
 ---
 tipas: tema
-pavadinimas: 'lietuva'
+pavadinimas: 'dokumentas - laiškas'
 sukurta: '2026-04-26'
 tags: []
 ---
 
-# lietuva
+# dokumentas - laiškas
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
@@ -18,9 +18,13 @@ Objektų skaičius: 5.
 
 ## Susiję objektai
 
-### Vietos
-- [[objektai/vietos/Europos geografinis centras]]
-- [[objektai/vietos/Kauno Lietuva]]
-- [[objektai/vietos/Lietauka]]
-- [[objektai/vietos/Minsko Lietuva]]
-- [[objektai/vietos/Vidurinė Lietuva]]
+### Asmenys
+- [[objektai/asmenys/Juozas Lukša-Skirmantas]]
+- [[objektai/asmenys/Kazimieras Pyplys-Mažytis]]
+- [[objektai/asmenys/Pijus XII]]
+
+### Įvykiai
+- [[objektai/ivykiai/Partizanų dokumentų nugabenimas į laisvąjį pasaulį (1947 m. pabaiga)]]
+
+### Žodynas
+- [[objektai/zodynas/geležinė uždanga]]

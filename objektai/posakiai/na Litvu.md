@@ -83,10 +83,7 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Jaroslavas]]
-- [[objektai/vietos/Kijevas]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Naugardukas]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/ivykiai/Kijevo Jaroslavo žygis į Lietuvą (1040 m.)]]
 - [[objektai/ivykiai/Kijevo Jaroslavo žygis į Lietuvą ir Naugarduko įkūrimas (1044 m.)]]

@@ -48,8 +48,6 @@ Lietuvos valstybės atsiradimą pagreitino vokiečių riterių agresija ir jų k
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/vietos/Baltija]]
 - [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]

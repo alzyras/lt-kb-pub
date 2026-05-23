@@ -48,12 +48,3 @@ Stepono bažnyčios ir Poguliankos rajonų.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kazokai]]
-- [[objektai/asmenys/Leontijus Bennigsenas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/A. Tučkovas]]
-- [[objektai/asmenys/M. Frankovskis]]
-- [[objektai/vietos/Naujininkai]]

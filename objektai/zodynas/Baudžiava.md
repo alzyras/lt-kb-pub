@@ -279,12 +279,8 @@ Terminas vartojamas ilgame istoriniame pjūvyje: nuo 1447 m. privilegijos, padė
 - [[temos/teisinis-terminas]]
 
 ### Susiję objektai
-- [[objektai/vietos/Krymas]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Rusija]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/ivykiai/1863 m. sukilimo paskelbimas Lenkijoje ir Lietuvoje (1863 m. pradžioje)]]
 - [[objektai/paprociai/Bajorijos seimelių rinkimosi ir atstovų rinkimo praktika]]
@@ -292,10 +288,8 @@ Terminas vartojamas ilgame istoriniame pjūvyje: nuo 1447 m. privilegijos, padė
 - [[objektai/ivykiai/Baudžiavos panaikinimas Rusijos imperijoje (1861 m.)]]
 - [[objektai/paprociai/Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m]]
 - [[objektai/grupes/Lietuvos gubernijų seimeliai]]
-- [[objektai/vietos/Merkinės dvaras]]
 - [[objektai/autoriai/Motiejus Valančius]]
 - [[objektai/grupes/Raudonieji]]
-- [[objektai/vietos/Turgeliai]]
 - [[objektai/zodynas/baudžiava baudžiavinė priklausomybė]]
 - [[objektai/zodynas/marksistinė periodizacija komunistinės istoriografijos nomenklatūra]]
 - [[objektai/zodynas/taikos suvažiavimai]]

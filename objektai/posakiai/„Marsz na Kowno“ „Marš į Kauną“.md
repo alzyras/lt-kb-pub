@@ -45,8 +45,4 @@ Nors tūkstančiai karštakošių Lenkijos miestų gatvėse ugningai skandavo �
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Varšuva]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

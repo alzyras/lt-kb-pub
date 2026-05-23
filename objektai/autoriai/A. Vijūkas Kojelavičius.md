@@ -126,9 +126,5 @@ A. Vijūkas Kojelavičius viešuose įrašuose jau minimas kaip lotyniškos Liet
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kazokai]]
-- [[objektai/vietos/Lenkija]]
 - [[objektai/grupes/Lenkijos kariuomenė]]
-- [[objektai/vietos/Lojevas]]
-- [[objektai/vietos/Mozyrius]]
-- [[objektai/vietos/Starodubas]]
 - [[objektai/zodynas/pikinierius pikinieriai]]

@@ -75,16 +75,3 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/laiškas]]
-
-### Susiję objektai
-- [[objektai/grupes/Hanza]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rygiečiai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/vietos/Polockas]]
-- [[objektai/vietos/Liubekas]]

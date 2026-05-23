@@ -257,11 +257,7 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Anglija]]
-- [[objektai/vietos/Paulava]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/ivykiai/Antano Tyzenhauzo reformos]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/Lažas|lažas]]
 - [[objektai/zodynas/činšas]]
-- [[objektai/vietos/Gardinas]]

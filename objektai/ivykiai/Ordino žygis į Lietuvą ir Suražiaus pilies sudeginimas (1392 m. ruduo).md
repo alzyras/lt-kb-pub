@@ -69,6 +69,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Prūsai]]
 - [[objektai/zodynas/maršalka]]
 - [[objektai/zodynas/žygis]]

@@ -79,8 +79,5 @@ Nenurodyta
 - [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
 - [[objektai/daiktai/Karūna]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Vaclovas]]
-- [[objektai/vietos/Viena]]
 - [[objektai/grupes/Čekai]]
-- [[objektai/vietos/Čekija]]

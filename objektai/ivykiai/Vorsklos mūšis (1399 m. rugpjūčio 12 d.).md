@@ -218,16 +218,16 @@ Nenurodyta
     - t-008
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/upė]]
+
 ### Susiję objektai
 - [[objektai/grupes/Auksinė Orda]]
 - [[objektai/autoriai/Detmaro Liubeko]]
 - [[objektai/asmenys/Edigėjus]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Liubekas]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/vietos/Vorskla]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/asmenys/Žygimantas]]

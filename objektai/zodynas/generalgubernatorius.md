@@ -97,20 +97,11 @@ Jį valdė Vilniaus generalgubernatorius.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Anglija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Prancūzija]]
-- [[objektai/vietos/Rusija]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/vietos/Baltvyžių girios]]
 - [[objektai/ivykiai/Blaivybės brolijų ir susibūrimų uždraudimas (1863 m.)]]
 - [[objektai/paprociai/Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m]]
-- [[objektai/vietos/Gardino gubernija]]
 - [[objektai/asmenys/Ivanas Kornilovas]]
 - [[objektai/asmenys/Konstantinas Kalinauskas]]
 - [[objektai/asmenys/Michailas Muravjovas]]
-- [[objektai/vietos/Skapiškis]]
 - [[objektai/asmenys/T. Dalevskis]]
-- [[objektai/vietos/Vilniaus gubernija]]
 - [[objektai/zodynas/gubernija]]
 - [[objektai/zodynas/gubernija apskritis (ujezd)]]

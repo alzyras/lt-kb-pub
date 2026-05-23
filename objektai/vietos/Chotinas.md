@@ -259,27 +259,3 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/karvedys]]
-
-### Susiję objektai
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/ivykiai/Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Lietuvos kariuomenė]]
-- [[objektai/vietos/Moldavija]]
-- [[objektai/vietos/Prūsija]]
-- [[objektai/daiktai/Vėliavos]]
-- [[objektai/zodynas/husarai]]
-- [[objektai/vietos/Dniestras]]
-- [[objektai/vietos/Dniestro upė]]
-- [[objektai/vietos/Podolės Kameneco tvirtovė]]
-- [[objektai/vietos/Salaspilis]]
-- [[objektai/asmenys/Stanislovas Liubomirskis]]
-- [[objektai/grupes/Turkijos kariuomenė]]
-- [[objektai/asmenys/Vladislovas]]
-- [[objektai/zodynas/petihorai]]
-- [[objektai/posakiai/vartais į Rusiją]]

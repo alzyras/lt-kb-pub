@@ -185,15 +185,3 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Stirė]]
-- [[objektai/asmenys/Švitrigaila]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/vietos/Ovručas]]
-- [[objektai/vietos/Ratne]]
-- [[objektai/asmenys/Vladimiras (Pronsko kunigaikštis)]]
-- [[objektai/asmenys/Vladimiras Andrejevičius]]
-- [[objektai/vietos/Žitomiras]]
-- [[objektai/vietos/Luckas]]

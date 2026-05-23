@@ -85,5 +85,4 @@ Pati žemės reformos strategija kuriama ir diegiama vadovaujantis iš viršaus 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/autoriai/Vaskela G]]

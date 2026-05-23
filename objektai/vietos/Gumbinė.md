@@ -92,12 +92,3 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Prūsija]]
-- [[objektai/zodynas/germanizacija]]
-- [[objektai/autoriai/S. Grunau]]
-- [[objektai/autoriai/Simono Grunau]]

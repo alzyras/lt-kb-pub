@@ -51,6 +51,5 @@ Algirdas priekaištauja Konstantinopolio patriarchui: »[...] pagal Tavo palaimi
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/vietos/Konstantinopolis]]
 - [[objektai/zodynas/metropolitas]]
 - [[objektai/grupes/Maskvėnai]]

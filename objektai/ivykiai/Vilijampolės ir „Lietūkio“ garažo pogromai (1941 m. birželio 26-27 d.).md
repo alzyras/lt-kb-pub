@@ -57,9 +57,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kaunas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/vietos/Vilijampolė]]
 - [[objektai/zodynas/einzatsgrupės Einzatsgruppen]]
-- [[objektai/vietos/„Lietūkio“ garažas]]

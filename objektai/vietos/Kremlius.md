@@ -108,15 +108,3 @@ Kremlius čia aprašomas kaip tvirtovė, susieta su Maskvos valdžios centru.
 ## Šaltiniai ir įrodymai
 
 ## Pastabos
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Maskva]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/vietos/Kijevo Rusia]]
-- [[objektai/vietos/Tverė]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/ivykiai/Jonas III pirmasis kardu užatakavo Lietuvą]]
-- [[objektai/posakiai/Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!]]
-- [[objektai/posakiai/„Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!“]]

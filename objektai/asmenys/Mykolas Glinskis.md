@@ -191,5 +191,4 @@ Jis vyriausiais kariuomenės vadais paskyrė LDK etmoną Stanislovą Kišką ir 
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/daiktai/Trimitai]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/flangas]]

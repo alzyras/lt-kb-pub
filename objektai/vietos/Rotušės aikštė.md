@@ -58,12 +58,3 @@ Balandžio 24 d. Vilniuje, Kovos Viln Rotušės aikštėje, buvo paskelbtas 2328
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/aktas]]
-
-### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/ivykiai/Sukilimo akto paskelbimas Rotušės aikštėje ir Lietuvos Tautinės aukščiausios tarybos sudarymas (1794 m. balandžio 24 d.)]]

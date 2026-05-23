@@ -54,5 +54,3 @@ Lėnas čia minimas kaip feodalinės priklausomybės forma: viename šaltinyje t
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/tėviškė]]
 - [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
-- [[objektai/vietos/Podolija]]
-- [[objektai/vietos/Podolė]]

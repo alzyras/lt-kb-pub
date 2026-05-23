@@ -57,9 +57,6 @@ tags:
 ### Susiję objektai
 - [[objektai/grupes/Didžiojo Naugardo respublika]]
 - [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
-- [[objektai/vietos/Maskva]]
-- [[objektai/vietos/Smolenskas]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/vietos/Pamaris]]

@@ -69,4 +69,3 @@ Mažvydas išleido 1547 m. pirmąjį lietuvišką katekizmą ir kai kurias giesm
 ### Susiję objektai
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/protestantizmas]]
-- [[objektai/vietos/Lietuva]]

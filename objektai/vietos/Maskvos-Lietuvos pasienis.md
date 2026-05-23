@@ -46,11 +46,3 @@ p. 88, Polocko praradimas ir Ulos mūšis, karo veiksmai persikelia į Maskvos-L
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
-- [[objektai/autoriai/Loreta Uzdraitė]]
-- [[objektai/vietos/Polockas]]
-- [[objektai/ivykiai/Polocko praradimas]]
-- [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]

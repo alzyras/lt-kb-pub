@@ -54,16 +54,3 @@ kryžiuočiai toliau tvirtinosi pačiame Nemuno žemupyje, statė naują pilį S
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Livonija]]
-- [[objektai/vietos/Nemunas]]
-- [[objektai/vietos/Papilė]]
-- [[objektai/vietos/Veliuona]]
-- [[objektai/vietos/Vokietija]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/maršalas]]
-- [[objektai/zodynas/žygis]]

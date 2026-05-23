@@ -66,5 +66,4 @@ Maskvoje tuomet prasidėjo perversmų periodas — užėjo vadinamoji didžioji 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Maskva]]
 - [[objektai/posakiai/didžioji suirutė]]

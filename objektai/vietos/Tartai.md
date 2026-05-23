@@ -46,20 +46,3 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Kuršas]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Livonija]]
-- [[objektai/vietos/Maskva]]
-- [[objektai/vietos/Ryga]]
-- [[objektai/vietos/Saremos]]
-- [[objektai/asmenys/Steponas]]
-- [[objektai/vietos/Talinas]]
-- [[objektai/zodynas/vyskupystė]]
-- [[objektai/grupes/Švedai]]
-- [[objektai/grupes/Lietuvių Draugija Estijoje]]
-- [[objektai/grupes/Lietuvių Suomių Draugija]]
-- [[objektai/ivykiai/Nesvyžiaus jėzuitų kolegijos įkūrimas (1582 m.)]]
-- [[objektai/vietos/Piltenė]]

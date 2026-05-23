@@ -97,27 +97,3 @@ Karolis pagaliau buvo priverstas išsidanginti iš Turkijos.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Europa]]
-- [[objektai/daiktai/Gintaras]]
-- [[objektai/vietos/Tryškiai]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/zodynas/Baudžiavinė santvarka]]
-- [[objektai/vietos/Cecora]]
-- [[objektai/ivykiai/Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)]]
-- [[objektai/asmenys/Davidas Suchetas]]
-- [[objektai/vietos/Dniestro upė]]
-- [[objektai/vietos/Jasai]]
-- [[objektai/grupes/Krymo chanatas]]
-- [[objektai/grupes/Lenkijos kariuomenė]]
-- [[objektai/asmenys/Motiejus Huniadis]]
-- [[objektai/vietos/Podolės Kameneco tvirtovė]]
-- [[objektai/grupes/Turkijos kariuomenė]]
-- [[objektai/vietos/Ukraina]]
-- [[objektai/vietos/Valakija]]
-- [[objektai/zodynas/komputas]]
-- [[objektai/zodynas/petihorai]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Osmanų Turkija]]

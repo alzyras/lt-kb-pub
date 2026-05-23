@@ -53,17 +53,10 @@ Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai, Podolėje
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Karijotas]]
-- [[objektai/vietos/Krokuva]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Podolė]]
 - [[objektai/ivykiai/1863 m. sukilimo pradžia|1863 m. sukilimo pradžia (sukilimas)]]
 - [[objektai/grupes/Laikinoji Vyriausybė Lietuvoje]]
-- [[objektai/vietos/Leipcigas]]
-- [[objektai/vietos/Smolenskas]]
 - [[objektai/zodynas/artilerijos pasala]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/paprociai/Carinės sukilimo slopinimo teroro ir viešų bausmių praktika|Carinės sukilimo slopinimo teroro ir viešų bausmių praktika (sukilimas)]]
 - [[objektai/grupes/Lenkijos laikinoji tautinė vyriausybė]]
-- [[objektai/vietos/Orša]]
 - [[objektai/asmenys/Borisas Karijotaitis]]

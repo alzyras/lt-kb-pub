@@ -42,8 +42,3 @@ Nors sovietų valdžia netoleravo ir kitų konfesijų tikinčiųjų, juos persek
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Maskva]]

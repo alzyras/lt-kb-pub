@@ -49,11 +49,3 @@ Tai parodo, be kitko, iki pat dabar gudiškai kalbančiųjų plote, arti Nemuno,
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Gardinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Merkinė]]
-- [[objektai/vietos/Nemunas]]
-- [[objektai/autoriai/H. Łowmiański]]

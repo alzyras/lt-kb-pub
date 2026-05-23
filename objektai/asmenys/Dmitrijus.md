@@ -67,8 +67,6 @@ pradžioje, kai mirus abiems Ivano IV (Rūsčiojo) palikuonims Fiodorui ir maža
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Riurikaičių dinastija]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/vietos/Rusija]]
-- [[objektai/vietos/Smolenskas]]
 - [[objektai/asmenys/Dmitrijus Ivanovičius]]
 - [[objektai/asmenys/Michailas Aleksandrovičius]]
 - [[objektai/asmenys/Vladimiras (Pronsko kunigaikštis)]]

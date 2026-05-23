@@ -76,16 +76,3 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Livonija]]
-- [[objektai/vietos/Maskva]]
-- [[objektai/vietos/Rusija]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/vietos/Fogelzango pilis|Fogelzango pilis (pilis)]]
-- [[objektai/ivykiai/Kryžiuočių ordino atsikraustymas į Prūsus]]
-- [[objektai/vietos/Niešavos kraštas|Niešavos kraštas (kraštas)]]
-- [[objektai/zodynas/tranzitas]]
-- [[objektai/ivykiai/Niešavo prekybos sutartis („über transitus“) (1424 m.)]]

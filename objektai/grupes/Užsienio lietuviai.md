@@ -68,11 +68,6 @@ Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija. Su stipriausi
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Afrika]]
-- [[objektai/vietos/Kaunas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/ivykiai/Pasaulio lietuvių kongresas Kaune (1935 m.)]]
-- [[objektai/vietos/Urugvajus]]
-- [[objektai/vietos/Venesuela]]
 - [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/vietos/Lietuva]]

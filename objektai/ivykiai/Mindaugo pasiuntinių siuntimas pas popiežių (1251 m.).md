@@ -69,8 +69,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Baltija]]
-- [[objektai/vietos/Europa]]
-- [[objektai/vietos/Nemunas]]
-- [[objektai/vietos/Rytų Europa]]
 - [[objektai/asmenys/Mindaugas]]

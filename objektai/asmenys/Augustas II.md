@@ -133,13 +133,6 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Lietuvos pinigai]]
-- [[objektai/vietos/Brandenburgas]]
 - [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Livonija]]
-- [[objektai/vietos/Prūsija]]
-- [[objektai/vietos/Rusija]]
-- [[objektai/vietos/Saksonija]]
 - [[objektai/grupes/Švedai]]
-- [[objektai/vietos/Švedija]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]

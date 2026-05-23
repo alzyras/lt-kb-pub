@@ -151,5 +151,4 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Suvalkai]]
 - [[objektai/grupes/Lietuvių aktyvistų frontas]]

@@ -65,7 +65,4 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
 - [[temos/didikas]]
 
 ### Susiję objektai
-- [[objektai/vietos/Brasta]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Mikalojus (Gniezno arkivyskupas)]]
-- [[objektai/vietos/Vilnius]]

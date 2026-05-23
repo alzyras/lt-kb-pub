@@ -66,8 +66,6 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Kahalai]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuvos žydų taryba (Vaad)]]
-- [[objektai/vietos/Rusija]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/ivykiai/Lietuvos žydų tarybos (Vaad) sudarymas (1920 m.)]]

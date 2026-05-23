@@ -91,12 +91,7 @@ tags: []
 - [[temos/socialinė-praktika]]
 
 ### Susiję objektai
-- [[objektai/vietos/Baltija]]
 - [[objektai/grupes/Estai]]
 - [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Hermanas]]
 - [[objektai/grupes/Latviai]]
-- [[objektai/vietos/Talinas]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/vietos/Gedimino bokštas]]
-- [[objektai/vietos/Hermano bokštas]]

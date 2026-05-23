@@ -55,7 +55,6 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Simonas Stanevičius]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/grupes/Etninių lietuvių tautinis kultūrinis sąjūdis]]
 - [[objektai/grupes/Vilniaus universitetas]]

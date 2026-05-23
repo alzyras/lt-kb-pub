@@ -148,7 +148,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Pagiriai]]

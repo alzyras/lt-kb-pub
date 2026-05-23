@@ -105,10 +105,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
 - [[objektai/grupes/Aukštaičiai]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Livonija]]
-- [[objektai/vietos/Nemunas]]
-- [[objektai/vietos/Polockas]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/vietos/Aukštaičių žemė]]

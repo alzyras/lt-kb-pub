@@ -49,8 +49,6 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
 - [[temos/teisinis-terminas]]
 
 ### Susiję objektai
-- [[objektai/vietos/Moldavija]]
-- [[objektai/vietos/Torno]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/magistras]]

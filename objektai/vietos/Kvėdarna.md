@@ -51,14 +51,3 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
-- [[objektai/asmenys/Guillaume de Machaut]]
-- [[objektai/vietos/Medvėgalis]]
-- [[objektai/grupes/Žemaičiai]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/vietos/Aukaimis]]
-- [[objektai/vietos/Gedimino pilis|Gedimino pilis (pilis)]]
-- [[objektai/vietos/Gegužkalnis]]

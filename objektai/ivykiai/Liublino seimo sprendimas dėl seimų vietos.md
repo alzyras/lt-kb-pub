@@ -60,8 +60,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Liublinas]]
 - [[objektai/grupes/Liublino seimas|Liublino seimas (seimas)]]
-- [[objektai/vietos/Varšuva]]

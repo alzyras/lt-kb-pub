@@ -71,8 +71,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Livonija]]
-- [[objektai/vietos/Polockas]]
-- [[objektai/vietos/Racionžas]]
-- [[objektai/vietos/Ryga]]
 - [[objektai/grupes/Vokiečiai]]

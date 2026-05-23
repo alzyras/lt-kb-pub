@@ -50,6 +50,4 @@ Hubatsch^158.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Prūsai]]
 - [[objektai/zodynas/monografija]]

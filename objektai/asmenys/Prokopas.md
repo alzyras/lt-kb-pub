@@ -54,7 +54,5 @@ Kaributas savo valia buvo dar kartą išvykęs į Čekiją ir, susidėjęs su č
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Husitai]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Čekai]]
-- [[objektai/vietos/Čekija]]

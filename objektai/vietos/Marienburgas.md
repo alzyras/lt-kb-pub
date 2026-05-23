@@ -262,17 +262,3 @@ rijenburgas.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-011
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Markvardas (Ragainės komtūras)]]
-- [[objektai/vietos/Nemunas]]
-- [[objektai/vietos/Augustavo girios]]
-- [[objektai/asmenys/Henrikas von Plauen]]
-- [[objektai/ivykiai/Vytauto paliaubos ir taikos derybos su Livonijos ordinu (1410 m. vasara)]]
-- [[objektai/zodynas/kapitula]]
-- [[objektai/zodynas/rūmininkas vyno pilstytojas]]
-- [[objektai/vietos/Alenšteinas]]
-- [[objektai/vietos/Drevenca]]
-- [[objektai/ivykiai/Vytauto persikėlimas pas Ordiną (1382 m. pabaiga)]]

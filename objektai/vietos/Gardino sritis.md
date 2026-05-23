@@ -46,11 +46,3 @@ Apie VIII-IX amž. jie jau buvo prie Polocko - Minsko, net pasiekė iš pietų G
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Gardinas]]
-- [[objektai/vietos/Pamaris]]
-- [[objektai/vietos/Polockas]]
-- [[objektai/grupes/Slavai]]
-- [[objektai/zodynas/Adynos|adynos]]

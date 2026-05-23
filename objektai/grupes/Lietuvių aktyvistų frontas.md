@@ -167,5 +167,4 @@ Politinė ir rezistencinė lietuvių emigrantų organizacija, veikusi Antrojo pa
 ### Susiję objektai
 - [[objektai/zodynas/Antisemitizmas]]
 - [[objektai/asmenys/K. Škirpa]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Žydai]]

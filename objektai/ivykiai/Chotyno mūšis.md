@@ -77,9 +77,5 @@ Nenurodyta
 - [[temos/laiškas]]
 
 ### Susiję objektai
-- [[objektai/vietos/Chotynas]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/autoriai/J. Bennetas]]

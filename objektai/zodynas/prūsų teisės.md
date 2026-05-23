@@ -47,5 +47,8 @@ Tačiau kai kuriems ir naujai kuriamuose dvaruose buvo duodamos „prūsų" teis
     - t-001
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/dokumentas]]
+
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]

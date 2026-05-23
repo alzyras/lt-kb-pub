@@ -89,15 +89,15 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/elekcija]]
+
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Mykolas]]
 - [[objektai/grupes/Pacai]]
 - [[objektai/grupes/Prancūziškoji partija]]
 - [[objektai/grupes/Sapiegos]]
-- [[objektai/vietos/Vysla]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/hetmonas]]

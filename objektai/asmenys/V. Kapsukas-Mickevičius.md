@@ -54,11 +54,7 @@ Kapsukas-Mickevičius.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Jieznas]]
-- [[objektai/vietos/Lentvaris]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Prienai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/husarai]]
 - [[objektai/grupes/Bolševikai]]
-- [[objektai/vietos/Lietuva]]

@@ -62,8 +62,4 @@ Fantazuokime toliau: su dirigentų Sauliaus Sondeckio, Gintaro Rinkevičiaus ir 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Europa]]
 - [[objektai/daiktai/Gintaras]]
-- [[objektai/vietos/Prancūzija]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/vietos/Šiauliai]]

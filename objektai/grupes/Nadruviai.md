@@ -56,16 +56,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Baltai]]
-- [[objektai/vietos/Dauguva]]
-- [[objektai/vietos/Latvija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Rytprūsiai]]
 - [[objektai/grupes/Skalviai]]
-- [[objektai/vietos/Upytė]]
-- [[objektai/vietos/Užnemunė]]
-- [[objektai/vietos/Viena]]
 - [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/vietos/Šiauliai]]
 - [[objektai/grupes/Galindai]]
 - [[objektai/paprociai/Lietuvininkų ir Mažosios Lietuvos vardų vartojimas Prūsijoje]]
 - [[objektai/zodynas/dykra]]

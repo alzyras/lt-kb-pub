@@ -117,10 +117,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Josifas Stalinas]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Maskva]]
-- [[objektai/vietos/SSRS]]
 - [[objektai/zodynas/Suverenitetas]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/vietos/Vokietija]]
 - [[objektai/asmenys/Juozas Urbšys]]

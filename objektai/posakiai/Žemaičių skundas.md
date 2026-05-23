@@ -56,5 +56,4 @@ Jau 1407 m. Žemaičiai vakarų krikščionims patiektame savo memoriale, kuris 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Konstanca]]
 - [[objektai/grupes/Žemaičiai]]

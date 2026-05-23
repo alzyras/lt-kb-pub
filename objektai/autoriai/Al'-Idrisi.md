@@ -58,7 +58,3 @@ Neaiškumų teikia ir Ispanijos arabų geografas-keliautoj as Al'- Idrisi (1100-
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Arabai]]
-- [[objektai/vietos/Ispanija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Viena]]
-- [[objektai/vietos/Kaunas]]

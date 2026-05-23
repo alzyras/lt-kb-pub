@@ -65,6 +65,5 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Chruščiov
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/SSRS]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/rusinimas]]

@@ -51,7 +51,9 @@ tags:
     - t-001
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/tikėjimas]]
+
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Viena]]
 - [[objektai/zodynas/kunigas]]

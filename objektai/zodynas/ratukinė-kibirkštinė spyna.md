@@ -56,8 +56,6 @@ pradžioje buvo sukurta ratukinė-kibirkštinė spyna.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Europa]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/etmonas]]
 - [[objektai/zodynas/hetmonas]]
 - [[objektai/grupes/Švedai]]

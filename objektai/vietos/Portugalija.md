@@ -98,13 +98,3 @@ Tik penkių valstybių atstovai (Kolumbijos, Italijos, Paragvajaus, Persijos ir 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Europa]]
-- [[objektai/vietos/Ispanija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Viena]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/vietos/Lotynų Amerika]]
-- [[objektai/vietos/Šveicarija]]

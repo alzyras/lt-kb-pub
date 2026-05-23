@@ -41,6 +41,4 @@ E., Žalys V., edit. Žalys V.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/diplomatija]]
-- [[objektai/vietos/Vilnius]]

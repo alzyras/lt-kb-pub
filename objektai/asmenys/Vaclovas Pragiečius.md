@@ -84,12 +84,8 @@ Bet įsikišus Čekų kara­ liui Vaclovui, buvo tarp kariaujančiu pusių padar
 - [[temos/paliaubos]]
 
 ### Susiję objektai
-- [[objektai/vietos/Europa]]
 - [[objektai/daiktai/Karūna]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Praga]]
-- [[objektai/vietos/Viena]]
 - [[objektai/grupes/Čekai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/paliaubos]]

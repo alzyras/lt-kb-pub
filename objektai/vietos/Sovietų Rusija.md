@@ -120,22 +120,3 @@ Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bolševikai]]
-- [[objektai/vietos/Dauguva]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Rusija]]
-- [[objektai/vietos/Zarasai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/Antrasis Panevėžio puolimas]]
-- [[objektai/asmenys/Dominykas Semaško]]
-- [[objektai/vietos/Ežeronis]]
-- [[objektai/zodynas/Kerzono linija]]
-- [[objektai/asmenys/Simonas Rozenbaumas]]
-- [[objektai/ivykiai/Taika su Sovietų Rusija (1920 m. liepos 12 d.)]]
-- [[objektai/vietos/Volia]]
-- [[objektai/zodynas/neutralitetas]]
-- [[objektai/posakiai/„niekuomet nebuvo karo padėtyje“ „nedraugiškas aktas“]]
-- [[objektai/zodynas/paliaubos]]

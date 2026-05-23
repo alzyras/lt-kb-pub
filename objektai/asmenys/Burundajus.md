@@ -56,8 +56,4 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Auksinė Orda]]
-- [[objektai/vietos/Kijevo Rusia]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Nemunas]]
 - [[objektai/grupes/Totoriai]]
-- [[objektai/vietos/Nalšėnų žemė]]

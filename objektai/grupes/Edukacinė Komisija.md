@@ -183,8 +183,6 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Europa]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/ivykiai/Edukacinės komisijos įkūrimas]]
 - [[objektai/grupes/Pijarų ordinas]]
 - [[objektai/grupes/Vyriausioji Lietuvos Mokykla]]

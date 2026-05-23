@@ -81,8 +81,3 @@ Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Varšuva]]
-- [[objektai/zodynas/delegacinis seimas|delegacinis seimas (seimas)]]

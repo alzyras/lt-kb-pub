@@ -69,7 +69,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/istorinė Lietuva]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/zodynas/litvakai Lite litviš]]

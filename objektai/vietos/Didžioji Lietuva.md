@@ -207,9 +207,3 @@ rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų lietuvių; d
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/J. Bretkūnas]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/zodynas/protestantizmas]]

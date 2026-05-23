@@ -87,9 +87,5 @@ Drauge atvykęs poetas Petras Suchenwirt davė to iškilmingo žygio, kuriam vad
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Ariogala]]
-- [[objektai/vietos/Austrija]]
-- [[objektai/vietos/Dubysa]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/žygis]]

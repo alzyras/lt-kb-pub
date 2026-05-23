@@ -125,8 +125,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Livonija]]
-- [[objektai/vietos/Saremos]]
-- [[objektai/vietos/Talinas]]
 - [[objektai/asmenys/Ottonas Luterbergas]]
 - [[objektai/zodynas/magistras]]

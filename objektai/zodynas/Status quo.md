@@ -65,8 +65,5 @@ Lietuvių diplomatijos sunkumai buvo užprogramuoti, nes du pagrindiniai Lietuvo
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/vietos/Vokietija]]
 - [[objektai/zodynas/diplomatija]]

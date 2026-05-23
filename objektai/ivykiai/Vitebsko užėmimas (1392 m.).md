@@ -69,11 +69,8 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Brianskas]]
 - [[objektai/asmenys/Dimitras Kaributas]]
 - [[objektai/asmenys/Kaributas]]
-- [[objektai/vietos/Naugardas]]
 - [[objektai/asmenys/Skirgaila]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Švitrigaila]]
-- [[objektai/vietos/Vitebskas]]

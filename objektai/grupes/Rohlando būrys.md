@@ -47,5 +47,4 @@ Bet po keleto dienų, padėjęs ginklus, į Prūsiją perėjo ir Rohlando būrys
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Prūsija]]
 - [[objektai/zodynas/žygis]]

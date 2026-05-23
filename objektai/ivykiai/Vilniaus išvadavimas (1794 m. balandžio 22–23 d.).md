@@ -75,7 +75,6 @@ Nenurodyta
 - [[objektai/asmenys/A. Nelepcos]]
 - [[objektai/grupes/Pacai]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/asmenys/Bogdanas Knorringas]]
 - [[objektai/grupes/LDK 1-oji Tautinė brigada]]
 - [[objektai/ivykiai/LDK 1-osios Tautinės brigados sukilimo pradžia Šiauliuose (1794 m. balandžio 16 d.)]]

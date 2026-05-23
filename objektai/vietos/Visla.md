@@ -54,17 +54,3 @@ Vi­ sas Prūsijos kraštas apie Vislos ir Dresvenco upes pateko ka­ ro sūkuri
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/ežeras]]
-
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Prūsija]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/grupes/Kalavijuočių ordinas]]
-- [[objektai/vietos/Kulmas]]
-- [[objektai/asmenys/Liudvikas]]
-- [[objektai/vietos/Zakračimas]]
-- [[objektai/vietos/Melno ežeras]]

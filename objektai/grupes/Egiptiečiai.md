@@ -56,7 +56,5 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Finikiečiai]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/Pažinės|pažinės]]
 - [[objektai/zodynas/Įšleitė|įšleitė]]
-- [[objektai/vietos/Viena]]

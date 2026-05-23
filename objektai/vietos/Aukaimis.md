@@ -51,24 +51,3 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
-- [[objektai/asmenys/Guillaume de Machaut]]
-- [[objektai/vietos/Medvėgalis]]
-- [[objektai/grupes/Žemaičiai]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/ivykiai/Aukaimio pilies srities teriojimas grįžtant nuo Junigėdos (1292 m.)]]
-- [[objektai/ivykiai/Aukaimio pilies sunaikinimas (1302 ir 1305 m.)]]
-- [[objektai/vietos/Aukaimio pilis|Aukaimio pilis (pilis)]]
-- [[objektai/autoriai/Dusburgas]]
-- [[objektai/asmenys/Jonas Liuksemburgietis]]
-- [[objektai/ivykiai/Junigėdos puolimas ir Mederabos sunaikinimas (1291 m.)]]
-- [[objektai/ivykiai/Junigėdos, Peštvės ir Pograudos kampanija (1293 m.)]]
-- [[objektai/vietos/Karšuva]]
-- [[objektai/vietos/Mederaba]]
-- [[objektai/vietos/Putvė]]
-- [[objektai/vietos/Gedimino pilis|Gedimino pilis (pilis)]]
-- [[objektai/vietos/Gegužkalnis]]
-- [[objektai/vietos/Kvėdarna]]

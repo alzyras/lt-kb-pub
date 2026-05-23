@@ -104,7 +104,6 @@ Sapiegos ir T. Sapiegos husarų ir petihorų vėliavos atlaikyti pagrindinį Šv
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Respublikonai]]
 - [[objektai/grupes/Sapiegos]]
@@ -113,7 +112,6 @@ Sapiegos ir T. Sapiegos husarų ir petihorų vėliavos atlaikyti pagrindinį Šv
 - [[objektai/zodynas/husarai]]
 - [[objektai/zodynas/rotmistras]]
 - [[objektai/grupes/Švedai]]
-- [[objektai/vietos/Švedija]]
 - [[objektai/grupes/Sapiegų kariuomenė]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/zodynas/petihorai]]

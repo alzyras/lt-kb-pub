@@ -88,13 +88,11 @@ tags:
     - t-002
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/dokumentas]]
+
 ### Susiję objektai
 - [[objektai/grupes/Arabai]]
-- [[objektai/vietos/Ispanija]]
-- [[objektai/vietos/Kaunas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Livonija]]
 - [[objektai/asmenys/Mindaugas]]
-- [[objektai/vietos/Viena]]

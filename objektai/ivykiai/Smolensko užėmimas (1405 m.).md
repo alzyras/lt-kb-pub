@@ -73,6 +73,5 @@ Nenurodyta
 - [[objektai/daiktai/Artilerija]]
 - [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Smolenskas]]
 - [[objektai/asmenys/Sviatoslavas]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

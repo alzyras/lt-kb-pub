@@ -126,12 +126,10 @@ Terminas vartojamas kalbant apie administracinį bandymą įvesti lietuviškai s
 ### Susiję objektai
 - [[objektai/zodynas/Graždanka]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Slavai]]
 - [[objektai/grupes/Slavofilai]]
-- [[objektai/vietos/Viena]]
 - [[objektai/zodynas/rusinimas]]
 - [[objektai/autoriai/Jonas Juškevičius]]
 - [[objektai/posakiai/Leidžiama spausdinti, tik rusiškomis raidėmis]]

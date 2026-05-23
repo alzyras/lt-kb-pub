@@ -181,13 +181,9 @@ Vėliau čia mokėsi visa eilė didžių veikėjų, kaip antai: Maironis, Jakšt
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Jidiš]]
-- [[objektai/vietos/Kaunas]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Žydai]]
-- [[objektai/vietos/Daugėliškių miškas]]
-- [[objektai/vietos/Lesčiai]]
 - [[objektai/ivykiai/Maironio knygų „Pavasario balsai“ ir „Jaunoji Lietuva“ išleidimas]]
 - [[objektai/grupes/Maironio rinktinė]]
 - [[objektai/grupes/P. Lukšio rinktinė]]
@@ -195,7 +191,6 @@ Vėliau čia mokėsi visa eilė didžių veikėjų, kaip antai: Maironis, Jakšt
 - [[objektai/paprociai/Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną]]
 - [[objektai/ivykiai/Užpelkių kautynės]]
 - [[objektai/ivykiai/Užpelkių kautynės (1949 m.)]]
-- [[objektai/vietos/Vilkija]]
 - [[objektai/zodynas/tautinis krikštas|tautinis krikštas (krikštas)]]
 - [[objektai/zodynas/destalinizacija atšilimo laikotarpis]]
 - [[objektai/zodynas/destalinizacija postalininis metas atšilimo laikotarpis]]

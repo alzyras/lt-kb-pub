@@ -52,14 +52,3 @@ Jesu P k vertė trauktis Kolupių kaime, prie vieškelio iš Kėdainių į Šėt
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bolševikai]]
-- [[objektai/vietos/Kėdainiai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]
-- [[objektai/daiktai/Lietuvos kario savadarbė diržo sagtis]]
-- [[objektai/zodynas/Savanoris]]
-- [[objektai/vietos/Šėta]]

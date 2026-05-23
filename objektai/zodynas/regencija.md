@@ -44,5 +44,4 @@ Kadangi jis tuomet buvo dar mažas, tai buvo sudaryta regencija.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Maskva]]
 - [[objektai/asmenys/Vosylius]]

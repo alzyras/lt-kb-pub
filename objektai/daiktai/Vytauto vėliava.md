@@ -79,10 +79,7 @@ Nenurodyta
 - [[temos/simbolis]]
 
 ### Susiję objektai
-- [[objektai/vietos/Brianskas]]
 - [[objektai/grupes/Karijotaičiai]]
-- [[objektai/vietos/Maskva]]
 - [[objektai/asmenys/Mykolas]]
-- [[objektai/vietos/Polockas]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/vėliava]]

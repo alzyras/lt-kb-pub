@@ -67,9 +67,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Ariogala]]
-- [[objektai/vietos/Dubysa]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Peštvė]]
-- [[objektai/vietos/Raseiniai]]
 - [[objektai/zodynas/kryžininkai]]

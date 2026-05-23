@@ -46,5 +46,3 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Rusai]]
-- [[objektai/vietos/Vatikanas]]
-- [[objektai/vietos/Kražiai]]

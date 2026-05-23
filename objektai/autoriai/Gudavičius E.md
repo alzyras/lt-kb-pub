@@ -60,6 +60,4 @@ Gudavičius E. Gudavičius.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/statutas]]

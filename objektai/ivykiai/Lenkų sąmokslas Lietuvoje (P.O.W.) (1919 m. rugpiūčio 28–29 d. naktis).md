@@ -110,9 +110,10 @@ Nenurodyta
     - t-003
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/dokumentas]]
+
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/paprociai/Konspiracinė P.O.W. organizacijos veikla]]

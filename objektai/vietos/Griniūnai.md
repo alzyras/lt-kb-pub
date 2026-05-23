@@ -49,10 +49,3 @@ Dešinioji kolona energingu puolimu užėmė plane numatytus Jotvainių, Griniū
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Barklainiai]]
-- [[objektai/vietos/Katinai]]
-- [[objektai/vietos/Užkalniai]]
-- [[objektai/zodynas/vora]]

@@ -58,17 +58,13 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Krokuva]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Podolė]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Timūr-Kutlukas]]
 - [[objektai/asmenys/Tochtamišas]]
 - [[objektai/grupes/Tochtamišo totoriai]]
 - [[objektai/grupes/Totoriai]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/vaivada]]
-- [[objektai/vietos/Kijevas]]

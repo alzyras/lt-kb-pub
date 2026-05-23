@@ -60,8 +60,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Chodkevičiai]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Vitebskas]]
 - [[objektai/zodynas/seniūnas]]
 - [[objektai/zodynas/unija]]
 - [[objektai/asmenys/Jonas Jeronimaitis Chodkevičius]]

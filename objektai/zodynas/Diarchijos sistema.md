@@ -52,5 +52,4 @@ Todėl netikslu yra kalbėti apie pilną diarchijos sistemą.
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/grupes/Ateitis]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/diarchija]]

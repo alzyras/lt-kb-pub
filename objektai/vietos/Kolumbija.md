@@ -78,13 +78,3 @@ Tik penkių valstybių atstovai (Kolumbijos, Italijos, Paragvajaus, Persijos ir 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Brazilija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/SSRS]]
-- [[objektai/vietos/Urugvajus]]
-- [[objektai/vietos/Vatikanas]]
-- [[objektai/vietos/Prancūzija]]
-- [[objektai/vietos/JAV]]

@@ -52,21 +52,3 @@ XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai, kurie jau nuo seniau
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/ežeras]]
-
-### Susiję objektai
-- [[objektai/vietos/Baltija]]
-- [[objektai/vietos/Dauguva]]
-- [[objektai/autoriai/Henrikas]]
-- [[objektai/vietos/Kuršas]]
-- [[objektai/vietos/Latgalija]]
-- [[objektai/grupes/Latviai]]
-- [[objektai/vietos/Latvija]]
-- [[objektai/vietos/Vidžemė]]
-- [[objektai/ivykiai/Aizkrauklės mūšis (1279 m. kovo 5 d.)]]
-- [[objektai/vietos/Irpenė]]
-- [[objektai/daiktai/Riterių vėliava]]
-- [[objektai/vietos/Burtnieko ežeras]]

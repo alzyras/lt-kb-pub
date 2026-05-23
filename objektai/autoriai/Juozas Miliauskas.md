@@ -56,5 +56,4 @@ Stokodami kariškų ginklų sukilėliai dažnai naudodavo medžioklinius KAUTYN�
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Prūsija]]
 - [[objektai/grupes/Rusai]]

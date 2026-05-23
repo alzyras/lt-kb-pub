@@ -157,9 +157,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Alytus]]
 - [[objektai/grupes/Baltai]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Vysla]]
 - [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/vietos/Rytprūsiai]]

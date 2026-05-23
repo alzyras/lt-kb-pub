@@ -97,8 +97,5 @@ Formulė priešpriešina juridinius aktus ir tikrąją politinio gyvenimo eigą.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Katra]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/unija]]

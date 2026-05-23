@@ -41,9 +41,3 @@ Iki mūsų eros pradžios teturime labai maža senosios kultūros liudininkų; t
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Nemuno-Dauguvos-Dniepro plotas]]
-- [[objektai/vietos/Pripetės pelkės]]

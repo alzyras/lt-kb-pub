@@ -84,13 +84,9 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/vietos/Krokuva]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/grupes/Vengrai]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/asmenys/Vosylius]]
 - [[objektai/asmenys/Kazimieras Jogailaitis]]
-- [[objektai/vietos/Vengrija]]

@@ -44,14 +44,3 @@ Pradžios mokyklų mokytojams paruošti tenai buvo įsteigta mokytojų seminarij
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Užnemunė]]
-- [[objektai/vietos/Viena]]
-- [[objektai/zodynas/mokytojų seminarija]]
-- [[objektai/zodynas/rusinimas]]
-- [[objektai/grupes/Kooperacinės bendrovės „Lietūkis“, „Pienocentras“ ir „Maistas“]]
-- [[objektai/ivykiai/Suvalkijos valstiečių streikas ir Veiverių susidūrimas (1935 m.)]]

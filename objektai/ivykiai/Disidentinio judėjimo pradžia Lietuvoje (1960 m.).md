@@ -66,9 +66,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Aleksandras]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Maskva]]
 - [[objektai/asmenys/Pranas Morkus]]
 - [[objektai/asmenys/Aleksandras Štromas]]
 - [[objektai/asmenys/Tomas Venclova]]

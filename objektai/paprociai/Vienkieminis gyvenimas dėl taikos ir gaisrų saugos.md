@@ -91,5 +91,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Kalnėnai]]
-- [[objektai/vietos/Prūsija]]
 - [[objektai/grupes/Žemaičiai]]

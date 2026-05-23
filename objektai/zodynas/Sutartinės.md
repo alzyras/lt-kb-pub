@@ -57,7 +57,6 @@ Vartojamos formos: `sutartiniais`, `sutartines`, `sutartinėmis`.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Trimitai]]
-- [[objektai/vietos/Viena]]
 - [[objektai/zodynas/Aukausenos|aukausenos]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

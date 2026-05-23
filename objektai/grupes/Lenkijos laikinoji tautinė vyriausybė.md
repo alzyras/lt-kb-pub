@@ -46,7 +46,5 @@ Pogrindyje susikūrusi Lenkijos laikinoji tautinė vyriausybė sausio 22 dieną 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Baltarusiai]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/tautinis atgimimas]]
 - [[objektai/asmenys/Konstantinas (Karijotaitis)]]

@@ -49,12 +49,3 @@ Galiausiai spalio 7 d. buvo nustatyta demarkacinė linija nuo Vokietijos sienos 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Nemunas]]
-- [[objektai/vietos/Varėna]]
-- [[objektai/vietos/Vokietija]]
-- [[objektai/zodynas/demarkacijos linija]]
-- [[objektai/ivykiai/Suvalkų derybos ir demarkacinės linijos nustatymas]]

@@ -149,8 +149,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Krėva]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/savarankiškumas]]
 - [[objektai/grupes/Vokiečiai]]

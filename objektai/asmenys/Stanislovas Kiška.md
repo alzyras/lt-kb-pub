@@ -62,7 +62,6 @@ Stanislovas Kiška nebuvo labai gabus karvedys, bet jau turėjo tam tikros patir
 - [[temos/transportas]]
 
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/zodynas/etmonas]]
 - [[objektai/zodynas/Miera|miera]]

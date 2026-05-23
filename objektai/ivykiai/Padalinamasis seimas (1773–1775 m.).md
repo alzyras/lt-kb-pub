@@ -102,6 +102,5 @@ Nenurodyta
 - [[temos/didikas]]
 
 ### Susiję objektai
-- [[objektai/vietos/Radomas]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/konfederacija]]

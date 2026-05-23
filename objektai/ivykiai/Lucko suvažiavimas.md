@@ -83,20 +83,10 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Bizantija]]
-- [[objektai/vietos/Europa]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Luckas]]
-- [[objektai/vietos/Maskva]]
-- [[objektai/vietos/Pskovas]]
-- [[objektai/vietos/Tverė]]
-- [[objektai/vietos/Vengrija]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/asmenys/Zigmantas I]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/daiktai/Vytauto ir Julijonos karūnos]]
 - [[objektai/ivykiai/Vytauto karūnacijos byla]]
-- [[objektai/vietos/Niurnbergas]]
 - [[objektai/grupes/Vokiečių ordinas]]

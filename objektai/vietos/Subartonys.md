@@ -49,9 +49,3 @@ Dar viena kovotojų grupė nuvyko Subartonių miško link.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Merkinė]]
-- [[objektai/vietos/Viena]]
-- [[objektai/vietos/Alytus]]

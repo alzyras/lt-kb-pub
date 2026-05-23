@@ -88,4 +88,3 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Mykolas]]
 - [[objektai/zodynas/metropolitas]]
-- [[objektai/vietos/Maskva]]

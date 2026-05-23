@@ -53,7 +53,8 @@ Tada karalius lenkų kariuomenės ve­ dimą atidavė Zyndramui iš Moškovicų,
     - t-001
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/upė]]
+
 ### Susiję objektai
-- [[objektai/vietos/Drevenca]]
-- [[objektai/vietos/Krokuva]]
 - [[objektai/grupes/Lenkai]]

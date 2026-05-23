@@ -75,14 +75,11 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/upė]]
+
 ### Susiję objektai
-- [[objektai/vietos/Dubysa]]
 - [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
-- [[objektai/vietos/Kaunas]]
-- [[objektai/vietos/Merkinė]]
-- [[objektai/vietos/Nemunas]]
-- [[objektai/vietos/Torno]]
 - [[objektai/ivykiai/Torno taika (1411 m.)]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/unija]]
-- [[objektai/vietos/Žalgiris]]

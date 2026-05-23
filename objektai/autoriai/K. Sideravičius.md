@@ -53,5 +53,4 @@ Sideravičius: Nuo Durbės iki Žal­ girio (1944).
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Durbė]]
 - [[objektai/grupes/Istorikų kolektyvas]]

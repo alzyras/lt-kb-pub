@@ -50,13 +50,3 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/ežeras]]
-
-### Susiję objektai
-- [[objektai/vietos/Brasta]]
-- [[objektai/vietos/Grajevo]]
-- [[objektai/vietos/Merūniškiai]]
-- [[objektai/zodynas/dykra]]

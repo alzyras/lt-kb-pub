@@ -77,8 +77,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Mozūrija]]
-- [[objektai/vietos/Sūduva]]
 - [[objektai/asmenys/Zemovitas (Mozūrijos kunigaikštis)]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

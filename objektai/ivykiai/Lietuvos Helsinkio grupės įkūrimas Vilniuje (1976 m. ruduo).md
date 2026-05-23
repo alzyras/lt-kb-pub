@@ -82,15 +82,13 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/aktas]]
+- [[temos/dokumentas]]
+- [[temos/aktas - dokumentas]]
 
 ### Susiję objektai
 - [[objektai/asmenys/Jonas Kauneckas]]
 - [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
-- [[objektai/vietos/Maskva]]
 - [[objektai/grupes/Maskvos Helsinkio grupė]]
-- [[objektai/vietos/SSRS]]
 - [[objektai/asmenys/Tomas Venclova]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Viktoras Petkus]]
-- [[objektai/vietos/Vilnius]]

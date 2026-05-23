@@ -74,5 +74,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Krymas]]
 - [[objektai/grupes/Rusai]]

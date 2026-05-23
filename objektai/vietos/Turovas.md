@@ -168,27 +168,3 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Brasta]]
-- [[objektai/vietos/Gardinas]]
-- [[objektai/grupes/Jotvingai]]
-- [[objektai/asmenys/Karijotas]]
-- [[objektai/vietos/Kernavė]]
-- [[objektai/vietos/Krėva]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/asmenys/Mindaugas]]
-- [[objektai/vietos/Naugardukas]]
-- [[objektai/vietos/Pinskas]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/vietos/Cholmas]]
-- [[objektai/asmenys/Glebas (Smolensko kunigaikštis)]]
-- [[objektai/asmenys/Jagurčinas]]
-- [[objektai/asmenys/Mengu Timūras]]
-- [[objektai/ivykiai/Naugarduko susirinkimas (1415 m.)]]
-- [[objektai/asmenys/Olegas (Romano sūnus)]]
-- [[objektai/vietos/Polesė]]
-- [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
-- [[objektai/vietos/Strėva]]

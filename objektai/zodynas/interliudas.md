@@ -50,6 +50,4 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Kristijonas|Kristijonas (vyskupas)]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Rusija]]

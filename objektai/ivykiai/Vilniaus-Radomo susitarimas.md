@@ -74,7 +74,8 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/dokumentas]]
+
 ### Susiję objektai
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/unija]]
-- [[objektai/vietos/Radomas]]

@@ -61,19 +61,3 @@ Ožasiai fo} Svyroneéliai 6 Šemetas oje, Kiauneliškio geležinkelio stoties i
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Giedraičiai]]
-- [[objektai/vietos/Kaunas]]
-- [[objektai/vietos/Labanoras]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Pagaigalė]]
-- [[objektai/grupes/Prisikėlimo apygarda]]
-- [[objektai/vietos/Smilgiai]]
-- [[objektai/grupes/Vytauto apygarda]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/vietos/Švenčionėliai]]
-- [[objektai/vietos/Žiežmariai]]
-- [[objektai/vietos/Labanoro giria]]
-- [[objektai/vietos/Naručio apylinkės]]

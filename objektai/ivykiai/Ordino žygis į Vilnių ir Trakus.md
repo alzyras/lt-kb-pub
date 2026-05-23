@@ -63,7 +63,3 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Viena]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/vietos/Trakai]]

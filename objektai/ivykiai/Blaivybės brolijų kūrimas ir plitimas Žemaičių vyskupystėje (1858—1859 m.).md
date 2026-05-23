@@ -86,13 +86,8 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kaunas]]
-- [[objektai/vietos/Kuršas]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/autoriai/Motiejus Valančius]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/gubernija]]
 - [[objektai/zodynas/rublis]]
 - [[objektai/zodynas/vyskupystė]]
-- [[objektai/vietos/Žemaičių vyskupystė]]
 - [[objektai/paprociai/Blaivybės brolijų ir blaivybės skelbimo praktika]]

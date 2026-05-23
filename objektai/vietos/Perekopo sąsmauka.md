@@ -53,13 +53,3 @@ Nuo sėsliai gyvenančių visuomenių atskirti plačių stepių ir turėdami „
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Krymas]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Maskva]]
-- [[objektai/vietos/Perekopas]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/zodynas/lengvoji kavalerija]]
-- [[objektai/posakiai/gerai užrakinamus Krymo vartus]]

@@ -45,5 +45,4 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Jidiš]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/litvakai Lite litviš]]

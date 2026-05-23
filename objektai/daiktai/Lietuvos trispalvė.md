@@ -163,10 +163,3 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/simbolis]]
-
-### Susiję objektai
-- [[objektai/vietos/Didžioji Britanija]]
-- [[objektai/vietos/Kaunas]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Prancūzija]]

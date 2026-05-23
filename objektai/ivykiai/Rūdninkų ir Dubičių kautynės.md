@@ -67,9 +67,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kaunas]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/gubernija]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/asmenys/Liudvikas Narbutas]]

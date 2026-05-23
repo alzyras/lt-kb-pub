@@ -77,20 +77,3 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/laiškas]]
-
-### Susiję objektai
-- [[objektai/vietos/Daugai]]
-- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Viena]]
-- [[objektai/posakiai/Viskas yra viena, viena žemė ir tie patys žmonės]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/grupes/Žemaičiai]]
-- [[objektai/ivykiai/Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.)]]
-- [[objektai/asmenys/Zbignievas Olesnickis]]
-- [[objektai/autoriai/Długopolski, Edm]]
-- [[objektai/autoriai/Edm. Długopolski]]

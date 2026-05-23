@@ -81,12 +81,6 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Krymas]]
-- [[objektai/vietos/Kuršas]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Liublinas]]
-- [[objektai/vietos/Livonija]]
 - [[objektai/grupes/Livonijos konfederacija]]
 - [[objektai/grupes/Maskvėnai]]
 - [[objektai/grupes/Totoriai]]

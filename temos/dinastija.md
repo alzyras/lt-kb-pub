@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 54.
+Objektų skaičius: 53.
 
 ## Kaip naudoti
 
@@ -69,9 +69,6 @@ Objektų skaičius: 54.
 - [„jogailaičių Europa“ „krikščionybės forpostas“](../objektai/posakiai/%E2%80%9Ejogailai%C4%8Di%C5%B3%20Europa%E2%80%9C%20%E2%80%9Ekrik%C5%A1%C4%8Dionyb%C4%97s%20forpostas%E2%80%9C)
 - [„narsią ir karingą tautą“](../objektai/posakiai/%E2%80%9Enarsi%C4%85%20ir%20karing%C4%85%20taut%C4%85%E2%80%9C)
 - [„tvanas“](../objektai/posakiai/%E2%80%9Etvanas%E2%80%9C)
-
-### Vietos
-- [Čekija](../objektai/vietos/%C4%8Cekija)
 
 ### Įvykiai
 - [ATR karai su Švedija XVII a](../objektai/ivykiai/ATR%20karai%20su%20%C5%A0vedija%20XVII%20a)

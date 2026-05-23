@@ -65,9 +65,4 @@ Kafos apylinkės buvo pavestos valdyti į Lietuvos pusę perėjusiam totorių ca
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kafa]]
-- [[objektai/vietos/Krymas]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Maskva]]
-- [[objektai/vietos/Smolenskas]]
 - [[objektai/grupes/Totoriai]]

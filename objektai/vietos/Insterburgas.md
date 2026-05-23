@@ -55,18 +55,3 @@ Pavestą uždavinį Vy­ tautas labai puikiai atliko, sunaikindamas visą vokie�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Nemunas]]
-- [[objektai/vietos/Tamova]]
-- [[objektai/vietos/Užnemunė]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Vygandas]]
-- [[objektai/zodynas/maršalka]]
-- [[objektai/ivykiai/Vytauto persikėlimas pas Ordiną (1382 m. pabaiga)]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/ivykiai/Vytauto žygis į Ordino žemes (1377 m.)]]

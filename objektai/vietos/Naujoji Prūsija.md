@@ -39,10 +39,3 @@ Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsij
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Prūsija]]
-- [[objektai/vietos/Užnemunė]]
-- [[objektai/vietos/Varšuva]]
-- [[objektai/asmenys/Napoleonas Bonapartas]]

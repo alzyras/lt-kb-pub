@@ -77,8 +77,6 @@ Terminas žymi nustatytą kariuomenės skaičių ar karo etatą, nuo kurio prikl
 
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/vietos/Turkija]]
-- [[objektai/vietos/Vengrija]]
 - [[objektai/zodynas/ekspansija]]
 - [[objektai/zodynas/karo taryba|karo taryba (institucija)]]
 - [[objektai/zodynas/žygis]]

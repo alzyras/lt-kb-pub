@@ -73,5 +73,3 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
-- [[objektai/vietos/Europa]]
-- [[objektai/vietos/Lietuva]]

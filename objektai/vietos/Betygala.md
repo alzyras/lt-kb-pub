@@ -195,15 +195,3 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-010
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Ariogala]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Mindaugas]]
-- [[objektai/vietos/Graužai-Lenčiai]]
-- [[objektai/vietos/Raseinių apskritis]]
-- [[objektai/vietos/Uturiai]]
-- [[objektai/vietos/Šilainiai]]
-- [[objektai/vietos/Dubysos upė]]
-- [[objektai/vietos/Raseiniai]]

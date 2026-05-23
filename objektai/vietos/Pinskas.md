@@ -207,27 +207,3 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Brasta]]
-- [[objektai/vietos/Gardinas]]
-- [[objektai/grupes/Jotvingai]]
-- [[objektai/asmenys/Karijotas]]
-- [[objektai/vietos/Kernavė]]
-- [[objektai/vietos/Krėva]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/asmenys/Mindaugas]]
-- [[objektai/vietos/Naugardukas]]
-- [[objektai/vietos/Turovas]]
-- [[objektai/vietos/Bobruiskas]]
-- [[objektai/grupes/Lietuvos kariuomenė]]
-- [[objektai/vietos/Pašiaušė]]
-- [[objektai/vietos/Polesė]]
-- [[objektai/vietos/Smolenskas]]
-- [[objektai/vietos/Strėva]]
-- [[objektai/vietos/Vitebskas]]
-- [[objektai/paprociai/Šventos ugnelės negesinimas trobesiui užsidegus]]
-- [[objektai/vietos/Žodiškiai]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

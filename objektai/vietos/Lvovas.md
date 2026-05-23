@@ -162,21 +162,3 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Gniezno]]
-- [[objektai/vietos/Konstancija]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/zodynas/metropolija]]
-- [[objektai/autoriai/D. Pochilevyč]]
-- [[objektai/asmenys/Jonas (Breslavo vyskupas)]]
-- [[objektai/asmenys/Jonas (Lvovo arkivyskupas)]]
-- [[objektai/ivykiai/Konstancijos susirinkimas (1414–1418 m.)]]
-- [[objektai/asmenys/Mikalojus (Gniezno arkivyskupas)]]
-- [[objektai/asmenys/Motiejus Huniadis]]
-- [[objektai/asmenys/Petras iš Kustynės]]
-- [[objektai/vietos/Raudonoji Rusia]]
-- [[objektai/posakiai/„Lietuvos Jeruzalė“ „Jerušalaim de Lite“]]
-- [[objektai/autoriai/Kochanowski, J]]
-- [[objektai/autoriai/Koneczny, P]]

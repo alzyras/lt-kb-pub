@@ -95,19 +95,3 @@ Tai pilis, minima tarp Vytauto laikų mūro statinių ir jų sustiprinimo darbų
 ## Šaltiniai ir įrodymai
 
 ## Pastabos
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Lydos pilis|Lydos pilis (pilis)]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/vietos/Gardinas]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
-- [[objektai/vietos/Kaunas]]
-- [[objektai/vietos/Kijevo Rusia]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/asmenys/Mindaugas]]
-- [[objektai/vietos/Polockas]]
-- [[objektai/vietos/Pskovas]]
-- [[objektai/vietos/Voluinė]]
-- [[objektai/vietos/Krėvos pilis|Krėvos pilis (pilis)]]

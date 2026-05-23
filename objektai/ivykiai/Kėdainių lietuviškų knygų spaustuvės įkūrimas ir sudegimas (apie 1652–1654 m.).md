@@ -83,8 +83,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kėdainiai]]
-- [[objektai/vietos/Maskva]]
 - [[objektai/grupes/Protestantai]]
 - [[objektai/zodynas/hetmonas]]
 - [[objektai/grupes/Švedai]]

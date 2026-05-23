@@ -94,6 +94,5 @@ Nenurodyta
 - [[temos/karo-reikmuo]]
 
 ### Susiję objektai
-- [[objektai/vietos/Vokietija]]
 - [[objektai/zodynas/kryžininkai]]
 - [[objektai/grupes/Kalavijuočių ordinas]]

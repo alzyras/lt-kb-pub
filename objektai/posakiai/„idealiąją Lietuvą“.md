@@ -45,5 +45,4 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Čikaga]]
 - [[objektai/asmenys/Robertas Zemeckis]]

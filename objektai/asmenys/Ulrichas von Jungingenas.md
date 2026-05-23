@@ -120,9 +120,6 @@ Ulrichas von Jungingenas šiame šaltinyje rodomas kaip ordino didysis magistras
 ### Susiję objektai
 - [[objektai/daiktai/Du pliki kardai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Drevenca]]
-- [[objektai/vietos/Loebau]]
-- [[objektai/vietos/Torno]]
 - [[objektai/zodynas/didysis magistras]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/paprociai/Jogailos meldimasis ir mišių klausymas prieš kautynes]]

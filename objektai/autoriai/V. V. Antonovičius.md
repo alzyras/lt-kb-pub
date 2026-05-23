@@ -52,7 +52,5 @@ Odesos universiteto istorikas V. V. Antono­ vičius iš šaltinių bandė tirti
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Odesa]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Slavai]]

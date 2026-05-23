@@ -61,8 +61,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
-- [[objektai/vietos/Maskva]]
-- [[objektai/vietos/Nesvyžius]]
-- [[objektai/vietos/Zabluduvas]]
 - [[objektai/grupes/Chodkevičiai]]
 - [[objektai/ivykiai/Radvilų ir Chodkevičių spaustuvių steigimai ir Brastos spaustuvės perkėlimas]]

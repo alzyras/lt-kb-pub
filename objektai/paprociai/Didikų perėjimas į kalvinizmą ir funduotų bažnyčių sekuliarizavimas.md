@@ -77,10 +77,8 @@ Nenurodyta
 - [[temos/didikas]]
 
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Mikalojus (Gniezno arkivyskupas)]]
 - [[objektai/asmenys/Mikalojus Radvila Juodasis]]
 - [[objektai/grupes/Protestantai]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/grupes/LDK didikai]]

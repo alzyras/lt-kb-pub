@@ -74,11 +74,8 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Auksinė Orda]]
-- [[objektai/vietos/Kijevas]]
 - [[objektai/asmenys/Kiprijonas]]
-- [[objektai/vietos/Konstantinopolis]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Maskva]]
 - [[objektai/asmenys/Timūr-Kutlukas]]
 - [[objektai/asmenys/Tochtamišas]]
 - [[objektai/asmenys/Vasilijus (Maskvos didysis kunigaikštis)]]

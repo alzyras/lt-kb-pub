@@ -47,16 +47,3 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Odojevas]]
-- [[objektai/vietos/Smolenskas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/kunigaikštija]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/vietos/Novosielskas]]
-- [[objektai/vietos/Liubutskas]]
-- [[objektai/vietos/Mcenskas]]
-- [[objektai/vietos/Peremišlis]]
-- [[objektai/vietos/Vorotinskas]]

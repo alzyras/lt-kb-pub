@@ -65,10 +65,11 @@ tags:
     - t-002
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/elekcija]]
+
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Silezija]]
 - [[objektai/zodynas/seimelis]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/klaipėdiečiai]]

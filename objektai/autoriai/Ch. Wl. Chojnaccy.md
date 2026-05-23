@@ -53,6 +53,3 @@ Chojnaccy : Materiały do bibliografii bitwy pod Grunwaldem, Rocznik Olsztyński
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/bibliografija]]
-
-### Susiję objektai
-- [[objektai/vietos/Lietuva]]

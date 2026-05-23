@@ -62,7 +62,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/Baltic Kindergarten]]
 - [[objektai/ivykiai/Lenino paminklo pašalinimas Vilniuje (1991 m. rugpjūčio 23 d.)]]
 - [[objektai/posakiai/„Baltic Kindergarten“]]

@@ -200,24 +200,3 @@ Vieta siejama su Lietuvos ir Lenkijos konfliktu dėl Vilniaus po Pirmojo pasauli
 ## Šaltiniai ir įrodymai
 
 ## Pastabos
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/lietuva]]
-
-### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuvos Respublika]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/posakiai/„nei karo, nei taikos“]]
-- [[objektai/asmenys/J. Pilsudskis]]
-- [[objektai/asmenys/Juzefas Pilsudskis]]
-- [[objektai/asmenys/L. Želigovskis]]
-- [[objektai/vietos/Suvalkai]]
-- [[objektai/zodynas/administracinė linija demarkacijos linija]]
-- [[objektai/zodynas/demarkacijos linija]]

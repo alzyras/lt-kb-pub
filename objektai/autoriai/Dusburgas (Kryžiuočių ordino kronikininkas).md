@@ -75,9 +75,3 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Durbė]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Semba]]

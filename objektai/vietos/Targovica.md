@@ -97,28 +97,3 @@ Peterburge subrendo ir buvo surašytas Targovicos (miestelis Ukrainoje, kuriame 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/aktas]]
-
-### Susiję objektai
-- [[objektai/vietos/Peterburgas]]
-- [[objektai/vietos/Rusija]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/1794 m. sukilimas Lietuvoje|1794 m. sukilimas Lietuvoje (sukilimas, XVIII a.)]]
-- [[objektai/ivykiai/1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas|1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas (sukilimas, XVIII a.)]]
-- [[objektai/grupes/Abiejų Tautų konfederacija]]
-- [[objektai/ivykiai/Antrasis Respublikos padalinimas (1793 m.)]]
-- [[objektai/ivykiai/Brastos pasipriešinimas 1792 m. kare]]
-- [[objektai/asmenys/Juozapas Kosakovskis|Juozapas Kosakovskis (vyskupas)]]
-- [[objektai/paprociai/Politinės manifestacijos kaip spaudimo valdžiai ir teismui praktika]]
-- [[objektai/asmenys/Simonas Kosakovskis]]
-- [[objektai/ivykiai/Targovicos ir Vilniaus konfederacijų susijungimas Brastoje]]
-- [[objektai/grupes/Targovicos konfederacija]]
-- [[objektai/ivykiai/Targovicos konfederacija (1792—1793 m.)]]
-- [[objektai/grupes/Vilniaus konfederacija]]
-- [[objektai/ivykiai/Vilniaus konfederacijos pritarimas Targovicos konfederacijai]]
-- [[objektai/vietos/Polockas]]
-- [[objektai/grupes/Rusijos kariuomenė]]
-- [[objektai/zodynas/konfederacija]]

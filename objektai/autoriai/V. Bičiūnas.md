@@ -78,5 +78,4 @@ Bičiūno tos misterijos pastabos ir komentarai. Bičiūno pastabos ir komentara
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/misterija]]

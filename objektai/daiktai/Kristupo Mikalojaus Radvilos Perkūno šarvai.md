@@ -67,11 +67,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Maskvėnai]]
 - [[objektai/asmenys/Mikalojus (Gniezno arkivyskupas)]]
-- [[objektai/vietos/Niurnbergas]]
-- [[objektai/vietos/Polockas]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/daiktai/Šarvai]]

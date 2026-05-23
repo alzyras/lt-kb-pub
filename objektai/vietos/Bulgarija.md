@@ -67,9 +67,3 @@ st.) ir lenkė Rumuniją, Bulgariją.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Vilnius]]
-- [[objektai/autoriai/Dr. J. Šliūpas]]
-- [[objektai/autoriai/Mikšas]]

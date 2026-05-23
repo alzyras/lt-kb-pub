@@ -64,10 +64,7 @@ Prieš mūšį Vytauto dukters Sofijos Vytautaitės, Maskvos didžiosios kunigai
 ### Susiję objektai
 - [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
 - [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
-- [[objektai/vietos/Maskva]]
-- [[objektai/vietos/Smolenskas]]
 - [[objektai/asmenys/Sofija (Vytauto duktė)]]
-- [[objektai/vietos/Tverė]]
 - [[objektai/asmenys/Švitrigaila]]
 - [[objektai/grupes/Maskvos kariuomenė]]
 - [[objektai/ivykiai/Oršos mūšis (1514 m.)]]

@@ -56,4 +56,5 @@ Desantininkams vadovavo iš Pasvalio kilęs leitenantas Vladas JazokasPetraitis.
 
 ## Ryšiai
 ### Teminiai klasteriai
+- [[temos/dokumentas]]
 - [[temos/drabužis]]

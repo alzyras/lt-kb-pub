@@ -121,10 +121,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
-- [[objektai/vietos/Kuršas]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/autoriai/Motiejus Valančius]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/vyskupystė]]
-- [[objektai/vietos/Žemaičių vyskupystė]]
 - [[objektai/ivykiai/Blaivybės brolijų kūrimas ir plitimas Žemaičių vyskupystėje (1858—1859 m.)]]

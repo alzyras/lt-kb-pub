@@ -101,14 +101,3 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Nemunas]]
-- [[objektai/zodynas/dykra]]
-- [[objektai/vietos/Šešupė]]
-- [[objektai/asmenys/Bonifacas IX]]
-- [[objektai/asmenys/Gregorijus (Vladimiro vyskupas)]]
-- [[objektai/zodynas/gabija]]
-- [[objektai/zodynas/Kūrėjų kūrėjas|kūrėjų kūrėjas]]

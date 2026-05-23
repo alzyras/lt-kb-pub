@@ -149,5 +149,3 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
 ### Susiję objektai
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/ivykiai/Daumanto žygis į Nalšėnus ir Gerdenio žūtis (1266-1267 m.)]]
-- [[objektai/vietos/Nalšėnai]]
-- [[objektai/vietos/Pskovo pilis|Pskovo pilis (pilis)]]

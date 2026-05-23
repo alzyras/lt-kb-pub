@@ -74,11 +74,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Bizantija]]
 - [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
 - [[objektai/daiktai/Kardas]]
-- [[objektai/vietos/Kremlius]]
-- [[objektai/vietos/Maskva]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]
-- [[objektai/vietos/Lietuva]]

@@ -53,6 +53,4 @@ Visa Sūduva buvo nukariauta.
 ### Susiję objektai
 - [[objektai/autoriai/Dusburgas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Sūduva]]
 - [[objektai/zodynas/kunigas]]
-- [[objektai/vietos/Dainava]]

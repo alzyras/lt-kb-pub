@@ -58,5 +58,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Antantė]]
-- [[objektai/vietos/Baltija]]
 - [[objektai/grupes/Baltijos antantė]]

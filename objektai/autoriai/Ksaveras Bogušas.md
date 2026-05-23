@@ -74,8 +74,6 @@ Ksaveras Bogušas pristatomas kaip iš Lietuvos kilęs kunigas ir teologas, kuri
 - [[temos/dvasininkas]]
 
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Varšuva]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/grupes/Mokslo bičiulių draugija]]

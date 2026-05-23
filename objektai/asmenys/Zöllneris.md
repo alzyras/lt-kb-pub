@@ -55,8 +55,10 @@ Ordino magistras Zöllneris, bet šis atsisakė ir dar du kartu su Polocko kunig
     - t-001
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/tikėjimas]]
+
 ### Susiję objektai
-- [[objektai/vietos/Polockas]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/žygis]]

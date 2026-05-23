@@ -53,6 +53,5 @@ Misterijos „LIKIMO KELIAIS” II da­ lis, su priedu — V.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/autoriai/V. Bičiūnas]]
 - [[objektai/autoriai/Vincas Krėvė]]

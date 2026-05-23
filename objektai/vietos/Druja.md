@@ -113,18 +113,3 @@ Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos up
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Bauskė]]
-- [[objektai/daiktai/Buzdyganas]]
-- [[objektai/grupes/Respublikonai]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/vietos/Bychovo tvirtovė]]
-- [[objektai/vietos/Drivietų ežerai]]
-- [[objektai/vietos/Miastros ežeras]]
-- [[objektai/vietos/Mintauja]]
-- [[objektai/vietos/Oziraičių ežerai]]
-- [[objektai/grupes/Sapiegų kariuomenė]]
-- [[objektai/vietos/Želvos ežerai]]
-- [[objektai/zodynas/maršalas]]

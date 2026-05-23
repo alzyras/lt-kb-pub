@@ -47,7 +47,4 @@ Zigmanto Augusto seseriai Onai paliktų privatinių dvarų. Zigmanto Augusto ses
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Liublinas]]

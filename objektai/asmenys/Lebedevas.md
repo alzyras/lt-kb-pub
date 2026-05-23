@@ -54,5 +54,4 @@ Pulko vadas Lebedevas, sužinojęs apie Jiezno apsupimą ir pamatęs artėjanči
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Jieznas]]
 - [[objektai/grupes/Lietuviai]]

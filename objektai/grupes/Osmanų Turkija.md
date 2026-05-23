@@ -57,15 +57,9 @@ Vis didesnę grėsmę ATR kelti ėmė į Europą besiveržianti Osmanų Turkija.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Europa]]
 - [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
-- [[objektai/vietos/Livonija]]
-- [[objektai/vietos/Maskva]]
-- [[objektai/vietos/Prancūzija]]
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/zodynas/petihorai]]
 - [[objektai/daiktai/Šarvuočiai]]
-- [[objektai/vietos/Turkija]]

@@ -181,12 +181,9 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Kristupas Radvila Perkūnas]]
-- [[objektai/vietos/Kuoknesė]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/zodynas/etmonas]]
 - [[objektai/zodynas/rotmistras]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Švedai]]
-- [[objektai/vietos/Salaspilis]]
 - [[objektai/zodynas/hetmonas]]

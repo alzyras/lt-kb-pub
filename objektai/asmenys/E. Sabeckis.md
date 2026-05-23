@@ -52,6 +52,5 @@ Sabeckio vadovaujama 300 karių grupė (dvi kuopos iš 7-ojo fusilierių regimen
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Narva]]
 - [[objektai/zodynas/muškietininkai]]
 - [[objektai/grupes/Narvos muškietininkų pulkas]]

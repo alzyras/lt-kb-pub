@@ -50,5 +50,4 @@ Toks jų susibūrimas vadinosi kariuomenės konfederacija.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Steponas Batoras]]
-- [[objektai/vietos/Viena]]
 - [[objektai/zodynas/konfederacija]]

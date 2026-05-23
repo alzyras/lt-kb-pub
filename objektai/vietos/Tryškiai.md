@@ -41,12 +41,3 @@ O kai pamatai po provincijos miestelį Tryškius vaikštantį Erkiulį Puaro –
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Turkija]]
-- [[objektai/asmenys/Davidas Suchetas]]
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/vietos/Afrika]]
-- [[objektai/zodynas/Adynos|adynos]]

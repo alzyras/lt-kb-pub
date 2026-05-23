@@ -83,7 +83,6 @@ Podolėje veikė jų paskirti atamanai, kurie nuo Podolės žemės duodavo duokl
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Karijotaičiai]]
-- [[objektai/vietos/Podolė]]
 - [[objektai/zodynas/baskakas]]
 - [[objektai/zodynas/tėvonys]]
 - [[objektai/paprociai/Podolės žemės duoklės davimas Ordos baskakams per paskirtus atamanus]]

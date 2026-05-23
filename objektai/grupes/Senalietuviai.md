@@ -68,8 +68,6 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Jaunalietuviai]]
 - [[objektai/zodynas/senalietuviai jaunalietuviai]]
 - [[objektai/grupes/Lietuvos Respublika]]

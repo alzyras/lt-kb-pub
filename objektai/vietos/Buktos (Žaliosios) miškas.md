@@ -102,25 +102,3 @@ Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/ežeras]]
-
-### Susiję objektai
-- [[objektai/vietos/Daukšiai]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/asmenys/Motiejus]]
-- [[objektai/vietos/Žuvinto ežeras]]
-- [[objektai/grupes/Edvardo Lajaus būrys]]
-- [[objektai/grupes/Gedimino būrys]]
-- [[objektai/grupes/Juozo Pandeikos būrys]]
-- [[objektai/grupes/Jurgio Lajaus būrys]]
-- [[objektai/grupes/Klarko būrys]]
-- [[objektai/grupes/Kosto Barkausko būrys]]
-- [[objektai/grupes/Muškietininkų būrys]]
-- [[objektai/grupes/Rėkaus būrys]]
-- [[objektai/vietos/Vartų kaimas]]
-- [[objektai/ivykiai/Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]
-- [[objektai/vietos/Žuvinto palios]]
-- [[objektai/grupes/Žuvinto-Palių junginys]]

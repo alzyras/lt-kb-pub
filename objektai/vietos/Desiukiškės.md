@@ -45,7 +45,3 @@ Kalavijas, rastas Desiukiškėse, yDKM, Artūro Užgalio nuotr.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/XIII a. kalavijas, rastas Desiukiškėse]]

@@ -70,10 +70,3 @@ Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Tr
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Minskas]]
-- [[objektai/vietos/Mstislavlis]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/zodynas/vietininkas]]

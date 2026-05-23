@@ -79,6 +79,4 @@ Kartą buvo kilęs ginčas tarp Vloc­ lavo Vyskupo Jono Kropidlos ir Jogailos, 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Breslavas]]
-- [[objektai/vietos/Europa]]
 - [[objektai/zodynas/kunigaikščiai]]

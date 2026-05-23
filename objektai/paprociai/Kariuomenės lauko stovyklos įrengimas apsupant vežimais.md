@@ -120,5 +120,4 @@ Nenurodyta
 - [[objektai/daiktai/Artilerija]]
 - [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]
 - [[objektai/daiktai/Vežimai]]
-- [[objektai/vietos/Viena]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

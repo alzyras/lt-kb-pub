@@ -57,4 +57,3 @@ tags:
 
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Čikaga]]

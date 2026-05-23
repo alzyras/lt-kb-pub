@@ -264,13 +264,9 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Karūna]]
-- [[objektai/vietos/Krokuva]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/vietos/Viena]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/ivykiai/Vytauto karūnacijos byla (1429–1430 m.)]]
@@ -280,6 +276,5 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
 - [[objektai/zodynas/pakancleris]]
 - [[objektai/zodynas/vėliava]]
 - [[objektai/grupes/Čekai]]
-- [[objektai/vietos/Vroclavas]]
 - [[objektai/grupes/Krokuvos profesoriai]]
 - [[objektai/zodynas/Romos karalius]]

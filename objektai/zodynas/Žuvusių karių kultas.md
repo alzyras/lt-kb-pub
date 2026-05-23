@@ -45,8 +45,5 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Kaunas]]
-- [[objektai/vietos/Karo muziejaus sodelis]]
 - [[objektai/ivykiai/Nežinomo kareivio palaidojimas Kaune (1934 m. lapkričio 23 d.)]]
 - [[objektai/daiktai/Paminklas Žuvusiems už Lietuvos laisvę]]

@@ -50,10 +50,4 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
 - [[temos/ežeras]]
 
 ### Susiję objektai
-- [[objektai/vietos/Europa]]
-- [[objektai/vietos/Europos geografinis centras]]
 - [[objektai/grupes/Hanza]]
-- [[objektai/vietos/Italija]]
-- [[objektai/vietos/Kaunas]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Šveicarija]]

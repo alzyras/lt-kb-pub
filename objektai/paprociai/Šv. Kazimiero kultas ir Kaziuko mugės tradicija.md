@@ -65,5 +65,3 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Kazimieras]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Vilnius]]

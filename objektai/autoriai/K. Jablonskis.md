@@ -86,7 +86,5 @@ Išskirtiną vietą Lietuvos istoriografijoje užima teisės ir kul­ tūros ist
 - [[temos/redaktorius]]
 
 ### Susiję objektai
-- [[objektai/vietos/Baltarusija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/inventoriai]]
 - [[objektai/zodynas/statutas]]

@@ -179,18 +179,3 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Paidė]]
-- [[objektai/vietos/Viljandis]]
-- [[objektai/vietos/Švedija]]
-- [[objektai/grupes/Švedijos kariuomenė]]
-- [[objektai/asmenys/Jonas Sicinskis]]
-- [[objektai/asmenys/Karina Nilsdotter]]
-- [[objektai/asmenys/Karolis Carlsonas Gyllenhielmas]]
-- [[objektai/asmenys/Karolis IX]]
-- [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.)]]
-- [[objektai/vietos/Kuoknesės pilis|Kuoknesės pilis (pilis)]]
-- [[objektai/vietos/Salaspilis]]
-- [[objektai/grupes/Švedijos karalystė]]

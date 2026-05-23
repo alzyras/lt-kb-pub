@@ -96,13 +96,10 @@ Bet pagaliau, kai Steponas Batoras, ruošdamasis į karą prieš Maskvą (1578 m
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Maskva]]
 - [[objektai/asmenys/Steponas]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/seimelis]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/zodynas/tribunolas]]
-- [[objektai/vietos/Lenkija]]
 - [[objektai/asmenys/Steponas Batoras]]
 - [[objektai/paprociai/Vyriausiojo Lietuvos tribunolo teisėjų rinkimas seimeliuose]]

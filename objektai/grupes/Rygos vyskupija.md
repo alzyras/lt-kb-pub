@@ -61,10 +61,5 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Fulvio Ruggieri]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Livonija]]
 - [[objektai/grupes/Livonijos ordinas]]
-- [[objektai/vietos/Maskva]]
-- [[objektai/vietos/Ryga]]
 - [[objektai/grupes/Livonijos konfederacija]]

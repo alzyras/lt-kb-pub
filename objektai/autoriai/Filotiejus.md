@@ -62,8 +62,6 @@ Jonas III-sis, rusų žemių rinkėjas («sobiratel’ russkich žemeli»), įsi
 - [[temos/laiškas]]
 
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Maskva]]
 - [[objektai/grupes/Romai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/paprociai/Imperatoriaus dvaro ceremonialo perėmimas]]

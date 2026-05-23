@@ -58,7 +58,6 @@ Su ja Maskvos kunigaikštystėje prasidėjo vidaus neramumai, kuriais Lietuva ti
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Krymas]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/grupes/Krimo orda]]
 - [[objektai/grupes/Krymo totoriai]]

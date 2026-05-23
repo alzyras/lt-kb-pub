@@ -45,5 +45,4 @@ O juk iš tokių emigrantų yra kilęs tas pats Bob Dylan (jo senelė buvo gimus
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Bob Dylan]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/daiktai/Gitara „Zemaitis“]]

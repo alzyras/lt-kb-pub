@@ -208,12 +208,10 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/asmenys/Adomas Mickevičius|Adomas Mickevičius (poetas)]]
-- [[objektai/vietos/Europa]]
 - [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
 - [[objektai/daiktai/Herbas]]
 - [[objektai/asmenys/Julius Slovackis]]
 - [[objektai/autoriai/Mickevičius]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/grupes/Lietuvių bajorija]]
 - [[objektai/zodynas/nobilitetas]]
 - [[objektai/daiktai/Gediminaičių stulpai]]

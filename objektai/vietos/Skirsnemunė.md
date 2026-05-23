@@ -182,13 +182,3 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Mozūrija]]
-- [[objektai/vietos/Nemunas]]
-- [[objektai/vietos/Odojevas]]
-- [[objektai/vietos/Ragainė]]
-- [[objektai/posakiai/„Romos karaliaus garbei“]]

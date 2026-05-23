@@ -143,9 +143,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Respublikonai]]
-- [[objektai/vietos/Valkininkai]]
-- [[objektai/vietos/Salaspilis]]
 - [[objektai/grupes/Valkininkų konfederacija]]
 - [[objektai/zodynas/kontribucija]]

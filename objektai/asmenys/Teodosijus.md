@@ -57,10 +57,6 @@ Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kijevas]]
-- [[objektai/vietos/Kijevo Rusia]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Polockas]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/metropolitas]]

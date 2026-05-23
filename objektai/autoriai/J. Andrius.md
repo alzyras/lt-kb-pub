@@ -57,7 +57,3 @@ Andrius : Kng.
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/žemėlapis]]
-
-### Susiję objektai
-- [[objektai/vietos/Juodoji jūra]]
-- [[objektai/vietos/Lietuva]]

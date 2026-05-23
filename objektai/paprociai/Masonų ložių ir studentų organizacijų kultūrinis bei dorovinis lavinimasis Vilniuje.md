@@ -97,6 +97,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/A. Mickevičius]]
-- [[objektai/vietos/Europa]]
 - [[objektai/autoriai/Mickevičius]]
-- [[objektai/vietos/Vilnius]]

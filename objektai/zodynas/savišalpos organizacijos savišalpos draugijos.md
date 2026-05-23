@@ -46,5 +46,4 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Argentina]]
 - [[objektai/grupes/Lietuviai]]

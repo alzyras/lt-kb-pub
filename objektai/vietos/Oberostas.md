@@ -62,14 +62,3 @@ Vokiečiai Lietuvą laikė Rusijos okupuota teritorija, tad, 1915 m. frontui sta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/žemėlapis]]
-
-### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Oberostas]]
-- [[objektai/vietos/Rusija]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/grupes/Lietuviai]]

@@ -100,13 +100,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Livonija]]
-- [[objektai/vietos/Prancūzija]]
-- [[objektai/vietos/Rusija]]
-- [[objektai/vietos/Targovica]]
-- [[objektai/vietos/Varšuva]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/egzekucija]]

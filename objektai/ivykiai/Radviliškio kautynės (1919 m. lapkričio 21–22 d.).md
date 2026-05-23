@@ -151,9 +151,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Bermontininkai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Pašiaušė]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/autoriai/Dalius Žygelis]]
-- [[objektai/vietos/Kiauneliškiai]]
 - [[objektai/autoriai/Ričardas Čekutis]]
-- [[objektai/vietos/Meškuičiai]]

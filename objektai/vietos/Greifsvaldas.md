@@ -51,15 +51,3 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/laiškas]]
-
-### Susiję objektai
-- [[objektai/vietos/Gotlandas]]
-- [[objektai/grupes/Hanza]]
-- [[objektai/grupes/Pranciškonų ordinas]]
-- [[objektai/grupes/Romai]]
-- [[objektai/vietos/Vokietija]]
-- [[objektai/vietos/Štetinas]]

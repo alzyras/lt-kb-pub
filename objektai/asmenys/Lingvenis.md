@@ -57,7 +57,5 @@ Pagal tas sutartis didysis kunigaikštis Jogaila, — pritariamas motinos Julijo
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Dubysa]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]

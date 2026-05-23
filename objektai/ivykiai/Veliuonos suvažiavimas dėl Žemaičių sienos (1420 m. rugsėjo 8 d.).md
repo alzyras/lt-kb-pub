@@ -96,4 +96,3 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Veliuona]]

@@ -51,9 +51,6 @@ Po kelių mėnesių Ramanauskas-Vanagas buvo pakeltas į Merkio rinktinės vado 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Dainava]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Merkinė]]
 - [[objektai/grupes/Pietų Lietuvos sritis]]
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

@@ -43,7 +43,6 @@ Su panašiomis problemomis susidūrė ir kitos pokomunistinės valstybės. Prezi
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/SSRS]]
 - [[objektai/posakiai/„valdomos demokratijos“]]
 - [[objektai/zodynas/Valdoma demokratija]]
 - [[objektai/asmenys/Vladimiras Putinas]]

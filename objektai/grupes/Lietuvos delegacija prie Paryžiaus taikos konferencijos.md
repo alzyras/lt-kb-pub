@@ -129,6 +129,5 @@ Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiau
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Oskaras Milašius|Oskaras Milašius (poetas)]]
 - [[objektai/grupes/Žydai]]

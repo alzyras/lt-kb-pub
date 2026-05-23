@@ -93,5 +93,4 @@ tags: []
 - [[temos/socialinė-praktika]]
 
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]

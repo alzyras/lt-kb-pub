@@ -57,17 +57,12 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Brianskas]]
 - [[objektai/asmenys/Glebas (Smolensko kunigaikštis)]]
-- [[objektai/vietos/Kijevo Rusia]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Mengu Timūras]]
 - [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
 - [[objektai/grupes/Rusėnai]]
-- [[objektai/vietos/Smolenskas]]
 - [[objektai/asmenys/Timūras (Tamerlanas)]]
 - [[objektai/grupes/Totoriai]]
-- [[objektai/vietos/Turovas]]
 - [[objektai/zodynas/chanas]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/žygis]]

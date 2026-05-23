@@ -76,8 +76,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bolševikai]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/NKVD]]
-- [[objektai/vietos/Sniečkus]]
-- [[objektai/vietos/Vokietija]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

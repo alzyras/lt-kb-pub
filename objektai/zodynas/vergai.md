@@ -43,7 +43,6 @@ Tai buvo vergai.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kaffa]]
 - [[objektai/paprociai/Karo belaisvių vertimas sunkiais darbais ir pardavimas į vergus]]
 - [[objektai/zodynas/nuomininkas]]
 - [[objektai/zodynas/Sūdas|sūdas]]

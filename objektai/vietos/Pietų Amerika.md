@@ -58,13 +58,3 @@ Neprasigyvenę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugia
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Urugvajus]]
-- [[objektai/vietos/Venesuela]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/grupes/Draugija Užsienio Lietuviams Remti (DULR)]]
-- [[objektai/zodynas/kolonijos]]
-- [[objektai/vietos/Brazilija]]

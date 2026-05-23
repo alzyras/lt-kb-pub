@@ -41,9 +41,3 @@ Viena priežasčių, dėl kurių Ispanija ir Portugalija neteko lyderių pozicij
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Ispanija]]
-- [[objektai/vietos/Portugalija]]
-- [[objektai/vietos/Viena]]

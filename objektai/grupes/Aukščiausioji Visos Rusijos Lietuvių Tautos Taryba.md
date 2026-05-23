@@ -51,7 +51,5 @@ Nepriklausomybės šūkį toliau skleidė naujai sukurtoji Voroneže Aukščiaus
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Rusija]]
-- [[objektai/vietos/Voronežas]]
 - [[objektai/grupes/Lietuvių Tautos Taryba|Lietuvių Tautos Taryba (institucija)]]
 - [[objektai/grupes/Tautos taryba|Tautos taryba (institucija)]]

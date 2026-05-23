@@ -46,12 +46,3 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Kazimieras]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Voluinė]]
-- [[objektai/asmenys/Švitrigaila]]
-- [[objektai/paprociai/Bendri Lietuvos ir Lenkijos seimai]]

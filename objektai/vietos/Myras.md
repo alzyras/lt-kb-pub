@@ -38,11 +38,3 @@ Rimtesnės kautynės vyko birželio 11 dieną prie Myro, tačiau birželio 14-ą
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Vilnius]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/Brastos pasipriešinimas 1792 m. kare]]
-- [[objektai/vietos/Myro pilis|Myro pilis (pilis)]]
-- [[objektai/ivykiai/Vilniaus atidavimas be kovos]]

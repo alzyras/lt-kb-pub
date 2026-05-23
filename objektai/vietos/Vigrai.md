@@ -46,13 +46,3 @@ Norėdama atskirti ją nuo Vilniaus ir Žemaičių vyskupų įtakos, Prūsijos v
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Lankai]]
-- [[objektai/vietos/Prienai]]
-- [[objektai/vietos/Prūsija]]
-- [[objektai/vietos/Užnemunė]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/zodynas/pralotas]]
-- [[objektai/vietos/Seinai]]

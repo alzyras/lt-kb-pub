@@ -94,7 +94,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Karijotaičiai]]
-- [[objektai/vietos/Podolė]]
 - [[objektai/zodynas/baskakas]]
 - [[objektai/zodynas/tėvonys]]
 - [[objektai/zodynas/atamanas]]

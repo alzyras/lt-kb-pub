@@ -81,9 +81,3 @@ Rusijos pajėgos Rusijos kariuomenei iš tikrųjų (oficialiai — pats caras Al
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Baltarusija]]
-- [[objektai/vietos/Rusija]]
-- [[objektai/vietos/Gardinas]]

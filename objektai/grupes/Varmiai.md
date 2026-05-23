@@ -63,14 +63,8 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Estai]]
-- [[objektai/vietos/Europa]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Livonija]]
-- [[objektai/vietos/Prūsija]]
-- [[objektai/vietos/Revelis]]
 - [[objektai/grupes/Totoriai]]
-- [[objektai/vietos/Vokietija]]
 - [[objektai/zodynas/kryžininkai]]
 - [[objektai/grupes/Švedai]]
 - [[objektai/grupes/Galindai]]

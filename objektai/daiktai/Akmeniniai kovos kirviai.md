@@ -60,11 +60,3 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Dniepras]]
-- [[objektai/vietos/Europa]]
-- [[objektai/vietos/Nemunas]]
-- [[objektai/vietos/Rusija]]
-- [[objektai/vietos/Baltija]]

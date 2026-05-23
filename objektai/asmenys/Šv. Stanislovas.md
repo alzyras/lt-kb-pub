@@ -64,9 +64,6 @@ Stanislovo garbei („kad abi lygiateisės tautos turėtų vieną globėją ir u
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Krokuva]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Viena]]
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/daiktai/Vilniaus katedros portalo kolonada ir frontono skulptūros]]
 - [[objektai/posakiai/„kad abi lygiateisės tautos turėtų vieną globėją ir užtarėją“]]

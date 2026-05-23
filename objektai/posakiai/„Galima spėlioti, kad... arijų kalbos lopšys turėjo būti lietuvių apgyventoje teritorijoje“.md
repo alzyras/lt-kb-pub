@@ -74,5 +74,3 @@ tags:
 - [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas]]
 - [[objektai/autoriai/Isaac Taylor]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/SSRS]]
-- [[objektai/vietos/Vokietija]]

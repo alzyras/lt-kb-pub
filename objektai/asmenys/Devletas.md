@@ -54,5 +54,4 @@ Devletas pabandė iš to protektorato išsivaduoti, neteko sosto ir vos gyvas pa
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Konstantinopolis]]
 - [[objektai/ivykiai/Devleto mėginimas išsivaduoti iš protektorato ir sosto netekimas]]

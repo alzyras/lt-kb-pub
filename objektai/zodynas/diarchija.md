@@ -146,7 +146,6 @@ tags: []
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/zodynas/Diarchijos sistema]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]

@@ -66,7 +66,8 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/elekcija]]
+
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Viena]]
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

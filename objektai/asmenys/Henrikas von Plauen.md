@@ -59,7 +59,4 @@ Kai Schwetzo komtūras Henrikas von Plauen į Marienburgą surinko apie 5000 vyr
 
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Livonija]]
-- [[objektai/vietos/Marienburgas]]
 - [[objektai/zodynas/komtūras]]
-- [[objektai/vietos/Žalgiris]]

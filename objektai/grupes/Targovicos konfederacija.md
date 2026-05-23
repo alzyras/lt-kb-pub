@@ -235,9 +235,5 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
 - [[temos/aktas]]
 
 ### Susiję objektai
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Targovica]]
-- [[objektai/vietos/Viena]]
 - [[objektai/zodynas/konfederacija]]
 - [[objektai/ivykiai/Targovicos konfederacija (1792—1793 m.)]]

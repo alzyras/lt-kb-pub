@@ -43,11 +43,6 @@ Chodkevičiaus vadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kai
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Ryga]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/grupes/Švedai]]
-- [[objektai/vietos/Piarnu]]
-- [[objektai/vietos/Salacgryva]]
 - [[objektai/grupes/Chodkevičiai]]
-- [[objektai/vietos/Viljandis]]

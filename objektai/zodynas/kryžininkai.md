@@ -57,13 +57,12 @@ tags:
     - t-001
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/upė]]
+
 ### Susiję objektai
-- [[objektai/vietos/Europa]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Livonija]]
-- [[objektai/vietos/Prūsija]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/asmenys/Bajazitas]]
@@ -73,16 +72,11 @@ tags:
 - [[objektai/asmenys/Henrikas (Meiseno markgrafas)]]
 - [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
 - [[objektai/autoriai/Loreta Uzdraitė]]
-- [[objektai/vietos/Mežuotnės pilis|Mežuotnės pilis (pilis)]]
 - [[objektai/grupes/Notangai]]
-- [[objektai/vietos/Pagudė]]
 - [[objektai/grupes/Pamedėnai]]
-- [[objektai/vietos/Prūsų žemė]]
 - [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)]]
 - [[objektai/grupes/Sembai]]
 - [[objektai/paprociai/Vakarų pagalbos kvietimas ir svečių iš Vokietijos šaukimas]]
 - [[objektai/grupes/Varmiai]]
 - [[objektai/ivykiai/Vėjukų srities nusiaubimas ir Raseinių bei Ariogalos sričių gaisrai (1322 m.)]]
 - [[objektai/posakiai/kein Soule sie karten wider]]
-- [[objektai/vietos/Įsrutis]]
-- [[objektai/vietos/Skalvos žemė]]

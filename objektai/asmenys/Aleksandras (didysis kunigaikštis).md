@@ -99,5 +99,8 @@ Aleksandro (1492—1506 m.) išrinkimas didžiuoju Lietu. Aleksandro asmuo ir jo
     - t-003
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/dokumentas]]
+
 ### Susiję objektai
 - [[objektai/ivykiai/Žygimanto Senojo ir Bonos Sforcos vedybos]]

@@ -78,7 +78,6 @@ Nenurodyta
 - [[objektai/autoriai/E. Danilaitė]]
 - [[objektai/autoriai/E. Radzvilovaitė]]
 - [[objektai/autoriai/J. Stankus]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Sidabro dirbiniai]]
 - [[objektai/daiktai/Skydas]]

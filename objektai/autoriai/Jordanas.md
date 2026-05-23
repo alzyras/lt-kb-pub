@@ -61,6 +61,4 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/vietos/Jotvingija]]
 - [[objektai/asmenys/Julijona]]
-- [[objektai/vietos/Mozūrija]]

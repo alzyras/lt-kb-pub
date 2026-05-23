@@ -56,5 +56,3 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Kardas]]
-- [[objektai/vietos/Kretinga]]
-- [[objektai/vietos/Lietuva]]

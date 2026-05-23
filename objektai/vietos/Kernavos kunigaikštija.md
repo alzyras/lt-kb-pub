@@ -47,10 +47,3 @@ Vyguntas, būdamas Vladislovo iš Opolės žentas, gavo Dobrynės žemes iki gyv
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Aleksandras]]
-- [[objektai/vietos/Dobrynė]]
-- [[objektai/vietos/Kernavė]]
-- [[objektai/zodynas/kunigaikštija]]

@@ -123,11 +123,8 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Michailas Gorbačiovas]]
 - [[objektai/asmenys/Mykolas]]
-- [[objektai/vietos/Pskovas]]
-- [[objektai/vietos/SSRS]]
 - [[objektai/grupes/Sovietų Sąjunga]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Juozas Jermalavičius]]

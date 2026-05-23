@@ -54,16 +54,11 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Brianskas]]
 - [[objektai/asmenys/Glebas (Smolensko kunigaikštis)]]
-- [[objektai/vietos/Kijevo Rusia]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Mengu Timūras]]
 - [[objektai/grupes/Rusėnai]]
-- [[objektai/vietos/Smolenskas]]
 - [[objektai/asmenys/Timūras (Tamerlanas)]]
 - [[objektai/grupes/Totoriai]]
-- [[objektai/vietos/Turovas]]
 - [[objektai/zodynas/chanas]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/žygis]]
@@ -74,10 +69,8 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
 - [[objektai/asmenys/Kristupas Radvila Perkūnas]]
 - [[objektai/ivykiai/Lietuvos kunigų sutartis su Volinijos kunigaikščio Romano našle (1219 m.)]]
 - [[objektai/grupes/Lietuvos stačiatikiai]]
-- [[objektai/vietos/Naugardukas]]
 - [[objektai/asmenys/Olegas (Romano sūnus)]]
 - [[objektai/asmenys/Romanas Sanguška]]
-- [[objektai/vietos/Volkoviskas]]
 - [[objektai/zodynas/etmonas]]
 - [[objektai/posakiai/filius specialis sanctae Romanas Ecclesiae]]
 - [[objektai/zodynas/hetmonas]]

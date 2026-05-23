@@ -54,17 +54,3 @@ Podolėje Karijotaičiai ėmė įvesti tvarką, statyti pilis (Kamieniecą, Smot
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
-- [[objektai/grupes/Karijotaičiai]]
-- [[objektai/asmenys/Karijotas]]
-- [[objektai/vietos/Kijevas]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Podolė]]
-- [[objektai/asmenys/Teodoras]]
-- [[objektai/vietos/Smotryč]]
-- [[objektai/vietos/Bakotos pilis|Bakotos pilis (pilis)]]
-- [[objektai/vietos/Kameneco pilis|Kameneco pilis (pilis)]]
-- [[objektai/vietos/Smotričo pilis|Smotričo pilis (pilis)]]

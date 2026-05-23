@@ -55,19 +55,3 @@ Nuo XIII amž. pabaigos ordino kronikininkai jau laikė Nevėžį Žemaičių ir
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/privilegija]]
-
-### Susiję objektai
-- [[objektai/grupes/Aukštaičiai]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/asmenys/Mindaugas]]
-- [[objektai/vietos/Nevėžis]]
-- [[objektai/vietos/Trakai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/grupes/Žemaičiai]]
-- [[objektai/zodynas/seniūnija]]
-- [[objektai/vietos/Trakų vaivadija]]

@@ -53,7 +53,9 @@ tags:
     - t-001
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/elekcija]]
+
 ### Susiję objektai
-- [[objektai/vietos/Viena]]
 - [[objektai/zodynas/ciesorius]]
 - [[objektai/zodynas/elektorius]]

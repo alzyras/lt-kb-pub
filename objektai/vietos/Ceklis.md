@@ -81,16 +81,3 @@ Gi Mindaugo karūnavimosi metais per Ceklio dalybas daug žemių, esančių Žem
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Livonija]]
-- [[objektai/vietos/Mažeikiai]]
-- [[objektai/asmenys/Mindaugas]]
-- [[objektai/vietos/Minija]]
-- [[objektai/vietos/Palanga]]
-- [[objektai/vietos/Venta]]
-- [[objektai/vietos/Šiauliai]]
-- [[objektai/vietos/Žiemgala]]
-- [[objektai/vietos/Ceklio sritis]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

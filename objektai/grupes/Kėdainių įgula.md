@@ -57,6 +57,5 @@ Bolševikai tą dieną į lietuvių pusę paleido užtvarą ir tęsė puolimą K
 ### Susiję objektai
 - [[objektai/daiktai/Artilerija]]
 - [[objektai/grupes/Bolševikai]]
-- [[objektai/vietos/Kėdainiai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]

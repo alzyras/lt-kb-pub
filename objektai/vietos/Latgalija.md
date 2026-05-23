@@ -52,20 +52,3 @@ XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai, kurie jau nuo seniau
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/ežeras]]
-
-### Susiję objektai
-- [[objektai/vietos/Baltija]]
-- [[objektai/vietos/Dauguva]]
-- [[objektai/autoriai/Henrikas]]
-- [[objektai/vietos/Kuršas]]
-- [[objektai/grupes/Latviai]]
-- [[objektai/vietos/Latvija]]
-- [[objektai/vietos/Vidžemė]]
-- [[objektai/vietos/Aizkrauklė]]
-- [[objektai/vietos/Burtnieko ežeras]]
-- [[objektai/posakiai/Liet’gola Lethi vel Lethigalli]]
-- [[objektai/grupes/Lybiai]]

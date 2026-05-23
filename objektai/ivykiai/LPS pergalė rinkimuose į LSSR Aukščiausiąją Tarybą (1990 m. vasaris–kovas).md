@@ -56,5 +56,5 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Lietuva]]
+### Teminiai klasteriai
+- [[temos/elekcija]]

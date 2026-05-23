@@ -99,7 +99,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
 - [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
-- [[objektai/vietos/Irpenė]]
-- [[objektai/vietos/Kijevas]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/vietos/Rusija]]

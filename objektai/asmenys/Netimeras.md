@@ -88,16 +88,10 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Islandija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Norvegija]]
-- [[objektai/vietos/Prūsai]]
-- [[objektai/vietos/Prūsija]]
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/zodynas/apsikarūnavimas]]
 - [[objektai/zodynas/christianizacija]]
-- [[objektai/vietos/Švedija]]
 - [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto|Lietuvos kunigaikščių derybos dėl krikšto (krikštas)]]
 - [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos|Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (krikštas)]]
 - [[objektai/zodynas/chiefdom vadystė|chiefdom / vadystė]]

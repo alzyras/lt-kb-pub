@@ -54,7 +54,6 @@ Radvila, kaip Brandenburgo elektoriaus ministeris, oficialiai rėmė imperatoria
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Pacai]]
 - [[objektai/asmenys/Henrikas von Plauenas]]
 - [[objektai/grupes/Karalaičio Jokūbo partija]]
@@ -63,4 +62,3 @@ Radvila, kaip Brandenburgo elektoriaus ministeris, oficialiai rėmė imperatoria
 - [[objektai/asmenys/Vaclovas Čekietis]]
 - [[objektai/zodynas/ciesorius]]
 - [[objektai/zodynas/investitūra]]
-- [[objektai/vietos/Brandenburgas]]

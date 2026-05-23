@@ -127,5 +127,3 @@ Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo
 
 ### Susiję objektai
 - [[objektai/asmenys/Birutė]]
-- [[objektai/vietos/Kaunas]]
-- [[objektai/vietos/Lietuva]]

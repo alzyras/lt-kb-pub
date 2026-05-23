@@ -53,4 +53,3 @@ Ochmańskio raštai, P. Ochmański, J.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lietuva]]

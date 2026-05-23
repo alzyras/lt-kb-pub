@@ -93,13 +93,3 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Antanas Šukys]]
-- [[objektai/vietos/Kėdainiai]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Nevėžis]]
-- [[objektai/zodynas/komendantūra]]
-- [[objektai/paprociai/Kariuomenės sutikimas papuoštu vieškeliu]]

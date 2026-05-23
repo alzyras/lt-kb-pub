@@ -95,11 +95,12 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/tikėjimas]]
+
 ### Susiję objektai
 - [[objektai/grupes/Chasidai]]
 - [[objektai/zodynas/Jidiš]]
 - [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/ješiva]]
 - [[objektai/grupes/Žydai]]
-- [[objektai/vietos/Lietuva]]

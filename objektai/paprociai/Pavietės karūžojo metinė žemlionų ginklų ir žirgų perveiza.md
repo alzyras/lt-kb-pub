@@ -84,7 +84,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/Perveiza|perveiza]]
 - [[objektai/zodynas/Tėvūnija|tėvūnija]]
 - [[objektai/zodynas/vėliava]]

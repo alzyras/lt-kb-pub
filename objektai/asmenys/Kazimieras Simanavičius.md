@@ -52,5 +52,4 @@ Simanavičius pirmasis aptarė daugiapakopės raketos idėją ir raketinės arti
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Artilerija]]
-- [[objektai/vietos/Europa]]
 - [[objektai/daiktai/Daugiapakopės raketos]]

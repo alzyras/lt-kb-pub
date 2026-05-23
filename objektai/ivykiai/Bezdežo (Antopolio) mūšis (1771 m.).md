@@ -83,6 +83,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Baro konfederacija]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/vietos/Stalovičiai]]
 - [[objektai/zodynas/konfederacija]]
-- [[objektai/vietos/Salaspilis]]

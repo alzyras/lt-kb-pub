@@ -86,10 +86,6 @@ Vytautas šioje srity padarė tiek, kad suteikė tautos prekybai ir bendrai ekon
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Bielskas]]
-- [[objektai/vietos/Brasta]]
-- [[objektai/vietos/Europa]]
-- [[objektai/vietos/Kaunas]]
 - [[objektai/zodynas/Magdeburgo teisės]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/luomas]]

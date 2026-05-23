@@ -50,13 +50,3 @@ Ir kai karalius ėjo mels­ tis (galėjo būti ryto kokia 10 valanda), jam buvo 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Alenšteinas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Rytas]]
-- [[objektai/vietos/Tannenbergas]]
-- [[objektai/vietos/Laubner ežeras]]
-- [[objektai/daiktai/Vėliavos]]
-- [[objektai/vietos/Löbau]]

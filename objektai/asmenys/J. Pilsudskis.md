@@ -169,16 +169,9 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bolševikai]]
-- [[objektai/vietos/Klaipėda]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Pilsudskis]]
-- [[objektai/vietos/Suvalkai]]
-- [[objektai/vietos/Vidurinė Lietuva]]
-- [[objektai/vietos/Vilnija]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/posakiai/„tėvyninė“ šalis]]

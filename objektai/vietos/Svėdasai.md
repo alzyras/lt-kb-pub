@@ -60,16 +60,3 @@ Sierakauskas išsiuntė Kasperą Maleckį su 150 karių ardyti geležinkelio kom
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]
-- [[objektai/vietos/Rusija]]
-- [[objektai/asmenys/Kasperas Maleckis]]
-- [[objektai/vietos/Kupiškio apskritis]]
-- [[objektai/vietos/Svėdasų valsčius]]
-- [[objektai/vietos/Šimonių giria]]
-- [[objektai/ivykiai/Šimonių girios apgultis]]
-- [[objektai/ivykiai/Šimonių girios apgultis (1949 m.)]]
-- [[objektai/vietos/Antalieptė]]
-- [[objektai/vietos/Užpaliai]]

@@ -75,8 +75,6 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
 - [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Baltarusiai]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/autoriai/Mickevičius]]
 - [[objektai/zodynas/istorinė Lietuva]]

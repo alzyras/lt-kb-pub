@@ -69,6 +69,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Volinijos-Haličo kunigaikštija]]
 - [[objektai/zodynas/kunigaikštija]]

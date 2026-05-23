@@ -43,21 +43,3 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Vokietija]]
-- [[objektai/grupes/Amerikos lietuvių taryba|Amerikos lietuvių taryba (institucija)]]
-- [[objektai/ivykiai/Lietuvių laisvinimo darbo konferencija Niujorke (1974 m. spalio 26–27 d.)]]
-- [[objektai/vietos/Pensilvanija]]
-- [[objektai/vietos/White Plains]]
-- [[objektai/daiktai/„Lituanica“ lėktuvas]]
-- [[objektai/ivykiai/Amerikos lietuvių seimas Niujorke (1918 m. kovo 13–14 d.)]]
-- [[objektai/autoriai/J. Balys]]
-- [[objektai/ivykiai/Lietuvos skyriaus parengimas 1939 m. pasaulinei parodai Niujorke]]
-- [[objektai/asmenys/Magdalena Avietėnaitė]]
-- [[objektai/daiktai/Monumentalios Lietuvos istorijos drobės]]
-- [[objektai/autoriai/Senn A. E]]
-- [[objektai/vietos/Čikaga]]

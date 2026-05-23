@@ -78,5 +78,3 @@ Nenurodyta
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/chanas]]
 - [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Smolenskas]]

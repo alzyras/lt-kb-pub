@@ -95,6 +95,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Dembinskio rinktinė]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/vietos/Varšuva]]

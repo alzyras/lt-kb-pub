@@ -70,5 +70,4 @@ Nenurodyta
 - [[objektai/paprociai/Lyčių pasiskirstymas ūkio ir namų darbuose]]
 - [[objektai/asmenys/V. Leninas]]
 - [[objektai/asmenys/Vladimiras Leninas]]
-- [[objektai/vietos/Šeinfeldas]]
 - [[objektai/zodynas/Šlapjurgis|šlapjurgis]]

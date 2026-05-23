@@ -53,6 +53,5 @@ Eiliuotinės kronikos autorius jam paskyrė kelioliką šiltų eilučių, tardam
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Aukštaičiai]]
-- [[objektai/vietos/Livonija]]
 - [[objektai/zodynas/neofitas]]
 - [[objektai/zodynas/žygis]]

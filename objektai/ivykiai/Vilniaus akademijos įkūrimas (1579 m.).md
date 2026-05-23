@@ -87,9 +87,7 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/daiktai/Antspaudas]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuvos didikai]]
 - [[objektai/asmenys/Sofija (Vytauto duktė)]]
 - [[objektai/grupes/Valavičiai]]
 - [[objektai/autoriai/Petras Skarga]]
-- [[objektai/vietos/Vilnius]]

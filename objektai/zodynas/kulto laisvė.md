@@ -47,6 +47,9 @@ tags:
     - t-001
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/dokumentas]]
+
 ### Susiję objektai
 - [[objektai/asmenys/Alfonsas Svarinskas]]
 - [[objektai/asmenys/Jonas Kauneckas]]

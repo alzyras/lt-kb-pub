@@ -48,10 +48,6 @@ Viena jo kuopa padaryta zonderkomanda ir liepos 4 ir 6 dieną nacių komanduojam
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kaunas]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/grupes/Ypatingasis SD būrys Vilniuje]]
 - [[objektai/grupes/Heinricho Hamano skrajojantis būrys]]
-- [[objektai/vietos/Kauno VII fortas]]
-- [[objektai/vietos/Paneriai]]

@@ -194,13 +194,3 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Kaunas]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Nesvyžius]]
-- [[objektai/vietos/Pažaislis]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/zodynas/barokas]]
-- [[objektai/daiktai/Vilniaus katedros portalo kolonada ir frontono skulptūros]]

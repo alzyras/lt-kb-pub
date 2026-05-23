@@ -78,6 +78,3 @@ O Ziemovito viltys laimėti Jadvygos ranką 1383 m. pavasarį buvo padidėjusios
 
 ### Susiję objektai
 - [[objektai/daiktai/Karūna]]
-- [[objektai/vietos/Krokuva]]
-- [[objektai/vietos/Mažlenkiai]]
-- [[objektai/vietos/Mozūrija]]

@@ -60,9 +60,6 @@ Mūšio padariniai Pabaisko (Šventosios) mūšyje žuvo Livonijos magistras Ker
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Livonija]]
 - [[objektai/grupes/Livonijos ordinas]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/maršalas]]

@@ -72,6 +72,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Viena]]
 - [[objektai/daiktai/Verpimo įrankiai]]
 - [[objektai/daiktai/Vylyčios]]

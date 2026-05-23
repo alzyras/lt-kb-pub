@@ -68,8 +68,6 @@ Dundulienė: Žemdirbystė Lietuvoje (nuo seniausia laiku iki 1917 metu) (1963)^
 - [[temos/įrankis]]
 
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/ekonomija]]
 - [[objektai/zodynas/inventoriai]]
 - [[objektai/zodynas/statutas]]

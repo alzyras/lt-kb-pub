@@ -60,4 +60,3 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
 - [[objektai/grupes/Pranciškonų ordinas]]
-- [[objektai/vietos/Vilnius]]

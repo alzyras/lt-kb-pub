@@ -75,12 +75,3 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Kujavija]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Liublinas]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/vietos/Dobryniaus]]
-- [[objektai/vietos/Kališo sritis]]

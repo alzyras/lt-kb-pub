@@ -64,19 +64,3 @@ Nesugriautos liko tik Karaliaučiaus, Baigos, Elbingo ir Kulmo, t. Lenkija atgav
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Aisčiai]]
-- [[objektai/vietos/Dancigas]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Marijenburgas]]
-- [[objektai/vietos/Torne]]
-- [[objektai/zodynas/vasalas]]
-- [[objektai/zodynas/vyskupystė]]
-- [[objektai/vietos/Karaliaučius]]
-- [[objektai/vietos/Torno]]
-- [[objektai/ivykiai/Torno taika (1411 m.)]]
-- [[objektai/autoriai/M. Oehler]]
-- [[objektai/autoriai/Oehler, M]]
-- [[objektai/vietos/Varmijos vyskupystė]]

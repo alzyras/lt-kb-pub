@@ -53,6 +53,4 @@ Eberhardtu.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Latvija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Vokiečiai]]

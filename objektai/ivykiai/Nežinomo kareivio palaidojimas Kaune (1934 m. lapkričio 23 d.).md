@@ -57,8 +57,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Kaunas]]
-- [[objektai/vietos/Karo muziejaus sodelis]]
 - [[objektai/daiktai/Paminklas Žuvusiems už Lietuvos laisvę]]
 - [[objektai/zodynas/Žuvusių karių kultas]]

@@ -58,9 +58,8 @@ Pilsudskio legionierių idėja reiškė Lenkijos, Lietuvos ir kitų buvusių Že
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
+- [[temos/upė]]
 
 ### Susiję objektai
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Pilsudskis]]
 - [[objektai/zodynas/unija]]

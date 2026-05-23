@@ -68,16 +68,3 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Alytus]]
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/vietos/Kaunas]]
-- [[objektai/vietos/Lazdijai]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Pilėnai]]
-- [[objektai/vietos/Smalėnai]]
-- [[objektai/vietos/Suvalkai]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/vietos/Varėna]]

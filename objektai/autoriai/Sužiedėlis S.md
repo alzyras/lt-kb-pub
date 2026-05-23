@@ -53,5 +53,4 @@ Dieckmann Ch., Sužiedėlis S.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Žydai]]

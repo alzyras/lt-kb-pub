@@ -91,16 +91,3 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Luckas]]
-- [[objektai/asmenys/Jonas (Čekijos karalius)]]
-- [[objektai/daiktai/Kristupo Mikalojaus Radvilos Perkūno šarvai]]
-- [[objektai/asmenys/Liudvikas (Vengrijos karalius)]]
-- [[objektai/ivykiai/Pasiuntinybė į Niurnbergą dėl krikšto (1358 m.)]]
-- [[objektai/asmenys/Russdorfas]]
-- [[objektai/daiktai/Vytauto ir Julijonos karūnos]]
-- [[objektai/ivykiai/Vytauto karūnacijos byla]]
-- [[objektai/ivykiai/Lucko suvažiavimas]]
-- [[objektai/daiktai/Žemėlapio fragmentas su „Tėve mūsų“ eilutėmis]]

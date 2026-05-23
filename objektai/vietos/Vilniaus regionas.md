@@ -54,11 +54,3 @@ Griebtasi šantažo – grasinta prijungti jau lietuvišką Klaipėdos kraštą 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/zodynas/autonomija autonominis statusas]]
-- [[objektai/zodynas/kantonas kantoninis principas]]
-- [[objektai/vietos/Kaliningrado sritis]]

@@ -44,4 +44,3 @@ Sovietinė valdžia represijas prieš disidentus derino su dalinių nuolaidų ki
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Viktoras Petkus]]
-- [[objektai/vietos/Viena]]

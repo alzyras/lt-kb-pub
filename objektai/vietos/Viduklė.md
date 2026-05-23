@@ -81,14 +81,3 @@ Viso Žemaičių krašto vardu pavardėmis surašyti 31 atstovas iš septynių �
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Konstancija]]
-- [[objektai/vietos/Varniai]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/vietos/Airiogala]]
-- [[objektai/vietos/Kaltinėnai]]
-- [[objektai/vietos/Kelmė]]
-- [[objektai/vietos/Luokė]]

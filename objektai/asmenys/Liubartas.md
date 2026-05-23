@@ -140,10 +140,7 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
 ### Susiję objektai
 - [[objektai/autoriai/J. Puzyna]]
 - [[objektai/grupes/Karijotaičiai]]
-- [[objektai/vietos/Ortelsburgas]]
-- [[objektai/vietos/Polesė]]
 - [[objektai/asmenys/Teodoras (Karijoto sūnus)]]
 - [[objektai/asmenys/Teodoras (Liubarto sūnus)]]
 - [[objektai/ivykiai/Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas]]
 - [[objektai/asmenys/Boleslovas Jurgis Traidenaitis]]
-- [[objektai/vietos/Volinija]]

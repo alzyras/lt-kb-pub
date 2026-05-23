@@ -129,12 +129,7 @@ Tą pavadinimą « Criwe-Kirwaito » pirmasis įvedė labai nepatikimas XVI amž
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Baltarusija]]
-- [[objektai/vietos/Grenoblis]]
-- [[objektai/vietos/Gudija]]
-- [[objektai/vietos/Gumbinė]]
 - [[objektai/grupes/Habsburgai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/pagonybė]]
-- [[objektai/vietos/Žalgiris]]
 - [[objektai/paprociai/Prūsų dievų kultas Rikojote ir kulto tarnų hierarchija]]

@@ -74,15 +74,3 @@ Gardine išleista privilegija nurodė statyti a i miesto gynybinę mūro sieną 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/privilegija]]
-
-### Susiję objektai
-- [[objektai/vietos/Gardinas]]
-- [[objektai/vietos/Palanga]]
-- [[objektai/vietos/Prūsija]]
-- [[objektai/vietos/Varmė]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/vietos/Lenkija]]

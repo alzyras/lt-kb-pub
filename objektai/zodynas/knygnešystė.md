@@ -44,8 +44,6 @@ Susiformavo tvirta kontrabandinės knygnešystės tradicija, ir į XIX a.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Rytprūsiai]]
 - [[objektai/ivykiai/Lietuvių raštijos tradiciniu raidynu draudimo pradžia]]
 - [[objektai/zodynas/knygnešystė knygnešiai]]
 - [[objektai/daiktai/Spaudos leidiniai kaip kontrabandiniai objektai]]

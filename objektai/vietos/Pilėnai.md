@@ -56,17 +56,3 @@ Apgultos Pilėnų (Pillenen) pilies^16 įgula, kunigaikščio Margirio vadovauja
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Austrija]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Prancūzija]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/grupes/6-asis pėstininkų Pilėnų Kunigaikščio Margio pulkas]]
-- [[objektai/daiktai/AKSU automatinis šautuvas]]
-- [[objektai/posakiai/Bemeilijo žūti ugny, negu pasiduoti vokiečiams]]
-- [[objektai/vietos/Eglainė]]
-- [[objektai/ivykiai/Pilėnų pilies gynimas (1336 m.)]]
-- [[objektai/vietos/Vidugiriai]]
-- [[objektai/vietos/Šeštokai]]

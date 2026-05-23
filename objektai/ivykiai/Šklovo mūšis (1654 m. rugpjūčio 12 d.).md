@@ -108,11 +108,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kopysė]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Smolenskas]]
 - [[objektai/zodynas/etmonas]]
 - [[objektai/zodynas/hetmonas]]
-- [[objektai/vietos/Šklovas]]
-- [[objektai/vietos/Salaspilis]]

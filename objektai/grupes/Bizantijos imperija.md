@@ -70,8 +70,9 @@ Tuo metu pasauly geriausiai klestėjo Bizantijos imperija: ji turėjo didžiuosi
     - t-002
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/upė]]
+
 ### Susiję objektai
 - [[objektai/grupes/Aisčiai]]
-- [[objektai/vietos/Bizantija]]
-- [[objektai/vietos/Europa]]
 - [[objektai/grupes/Skandinavai]]

@@ -51,11 +51,3 @@ iš Dniepro žemupio išjudėjo slavai, siekdami įsikurti pratuštėjusiuose ge
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Baltai]]
-- [[objektai/vietos/Dniepras]]
-- [[objektai/grupes/Germanai]]
-- [[objektai/zodynas/prokalbė]]
-- [[objektai/grupes/Slavai]]

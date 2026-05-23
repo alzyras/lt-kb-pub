@@ -57,4 +57,3 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bolševikai]]
-- [[objektai/vietos/Lietuva]]

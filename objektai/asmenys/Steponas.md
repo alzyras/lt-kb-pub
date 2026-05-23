@@ -47,21 +47,10 @@ Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo krikštas (100
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Islandija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Norvegija]]
-- [[objektai/vietos/Prūsija]]
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/zodynas/apsikarūnavimas]]
 - [[objektai/zodynas/christianizacija]]
-- [[objektai/vietos/Švedija]]
 - [[objektai/daiktai/ANBO lėktuvai]]
-- [[objektai/vietos/Alūkšta]]
-- [[objektai/vietos/Bernas]]
-- [[objektai/vietos/Jelgava]]
-- [[objektai/vietos/Piltenė]]
-- [[objektai/vietos/Saremos]]
-- [[objektai/vietos/Tartai]]
 - [[objektai/grupes/Vilniaus universitetas]]
 - [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.)]]
 - [[objektai/grupes/Vyriausiasis Lietuvos tribunolas]]
@@ -74,6 +63,3 @@ Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo krikštas (100
 - [[objektai/daiktai/„Pienocentro“ pastatas Kaune]]
 - [[objektai/posakiai/„aidint patrankoms, mūzos tyli“]]
 - [[objektai/posakiai/„švento valdovo“ įvaizdis]]
-- [[objektai/vietos/Vengrija]]
-- [[objektai/vietos/Transilvanija]]
-- [[objektai/vietos/Vilnius]]

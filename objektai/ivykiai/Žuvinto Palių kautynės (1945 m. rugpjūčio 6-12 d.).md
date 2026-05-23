@@ -233,12 +233,8 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Alytus]]
-- [[objektai/vietos/Buktos (Žaliosios) miškas]]
 - [[objektai/grupes/NKVD]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/vietos/Žuvinto ežeras]]
 - [[objektai/autoriai/Dalius Žygelis]]
-- [[objektai/vietos/Kiauneliškiai]]
 - [[objektai/autoriai/Ričardas Čekutis]]
 - [[objektai/grupes/Varniškių būrys]]

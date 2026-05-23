@@ -99,14 +99,9 @@ Lietuvos reformacijos ryškiausia ir įtakingiausia protestantų figūra – LDK
 - [[temos/didikas]]
 
 ### Susiję objektai
-- [[objektai/vietos/Europa]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Rusija]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/grupes/Švedai]]
-- [[objektai/vietos/Švedija]]
 - [[objektai/posakiai/„tvanas“]]
 - [[objektai/grupes/Liuteronai]]
 - [[objektai/grupes/Unitai]]

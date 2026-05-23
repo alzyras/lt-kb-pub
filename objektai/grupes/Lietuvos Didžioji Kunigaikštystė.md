@@ -218,13 +218,8 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
-- [[objektai/vietos/Gardinas]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Rusija]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/kultūrinė autonomija]]
 - [[objektai/zodynas/rusinimas]]

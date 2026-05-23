@@ -77,8 +77,6 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kleckas]]
-- [[objektai/vietos/Krymas]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/asmenys/Mahometas Aminas]]

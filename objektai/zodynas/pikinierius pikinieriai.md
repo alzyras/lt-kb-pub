@@ -55,4 +55,3 @@ Svetimšalių autoramento „vokiškojo“ tipo pėstininkas-ietininkas (pikinie
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/A. Vijūkas Kojelavičius]]
-- [[objektai/vietos/Lojevas]]

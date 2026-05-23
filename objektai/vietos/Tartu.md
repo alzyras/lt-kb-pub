@@ -118,18 +118,3 @@ Jis paėmė net Tartus (Dorpatą). Tuojau po laimingųjų Stepono Batoro karų s
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Livonija]]
-- [[objektai/vietos/Maskva]]
-- [[objektai/grupes/Maskvos kariuomenė]]
-- [[objektai/vietos/Narva]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/vietos/Saremos]]
-- [[objektai/zodynas/konfederacija]]
-- [[objektai/grupes/Švedai]]
-- [[objektai/vietos/Alūksnė]]
-- [[objektai/grupes/Rygos miesto taryba|Rygos miesto taryba (institucija)]]
-- [[objektai/vietos/Saremos sala]]
-- [[objektai/vietos/Vilijandis]]

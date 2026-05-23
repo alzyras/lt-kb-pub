@@ -59,5 +59,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Protestantai]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/paprociai/Procesijos ir iškilmingos laidotuvės]]

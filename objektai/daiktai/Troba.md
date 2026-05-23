@@ -123,7 +123,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Juostos]]
-- [[objektai/vietos/Viena]]
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/daiktai/Žibintojas]]

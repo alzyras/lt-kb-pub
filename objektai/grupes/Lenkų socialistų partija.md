@@ -66,9 +66,6 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Baltarusija]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Pilsudskis]]
-- [[objektai/vietos/Rusija]]
 - [[objektai/asmenys/Juzefas Pilsudskis]]

@@ -39,15 +39,3 @@ Pagalba atėjo iš Islandijos – 1991 m. vasario 11 d. Islandijos Altingas pirm
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/asmenys/Adalbertas]]
-- [[objektai/asmenys/Netimeras]]
-- [[objektai/asmenys/Olafas (Norvegijos valdovas)]]
-- [[objektai/asmenys/Olafas (pietų Švedijos kunigaikštis)]]
-- [[objektai/asmenys/Steponas]]
-- [[objektai/asmenys/Steponas (Vengrijos valdovas)]]
-- [[objektai/zodynas/christianizacija]]
-- [[objektai/zodynas/konversija christianizacija europeizacija]]

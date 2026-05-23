@@ -169,7 +169,6 @@ Nenurodyta
 - [[objektai/daiktai/Lankai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/daiktai/Skydas]]
-- [[objektai/vietos/Viena]]
 - [[objektai/zodynas/lengvoji kavalerija]]
 - [[objektai/paprociai/Husarų vėliavų „draugų“ ir palydos sistema]]
 - [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]

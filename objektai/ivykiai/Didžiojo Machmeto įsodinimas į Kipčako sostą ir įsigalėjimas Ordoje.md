@@ -68,5 +68,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kipčakas]]
 - [[objektai/asmenys/Didysis Machmetas]]

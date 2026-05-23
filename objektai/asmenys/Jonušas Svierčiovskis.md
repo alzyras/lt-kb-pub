@@ -63,4 +63,3 @@ Pastariesiems vadovavo patyręs karys Jonušas Svierčiovskis.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lenkija]]

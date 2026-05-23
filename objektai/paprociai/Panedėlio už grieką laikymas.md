@@ -73,5 +73,4 @@ Nenurodyta
 - [[objektai/grupes/Kalnėnai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/daiktai/Namas]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/grupes/Lietuviai]]

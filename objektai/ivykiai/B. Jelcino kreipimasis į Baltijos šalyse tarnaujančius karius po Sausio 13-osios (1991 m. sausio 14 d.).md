@@ -58,10 +58,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Ateitis]]
-- [[objektai/vietos/Baltija]]
 - [[objektai/asmenys/Borisas Jelcinas]]
-- [[objektai/vietos/Estija]]
-- [[objektai/vietos/Latvija]]
-- [[objektai/vietos/Rusija]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

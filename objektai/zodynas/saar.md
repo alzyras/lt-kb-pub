@@ -128,9 +128,6 @@ tags: []
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/vietos/Europa]]
-- [[objektai/vietos/Krymas]]
-- [[objektai/vietos/Maskva]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/Gaspadorius|gaspadorius]]
 - [[objektai/posakiai/Aš tave pasodinsiu Auksinėj Ordoj...]]

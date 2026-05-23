@@ -48,13 +48,3 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Alytus]]
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/vietos/Kaunas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Šeštokai]]
-- [[objektai/grupes/3-ioji divizija]]

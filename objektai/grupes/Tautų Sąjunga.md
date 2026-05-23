@@ -290,6 +290,3 @@ Tuo pat laiku, kai Tautų Sąjunga nusprendė (rugsėjo 20 d.) tarp Lietuvos ir 
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/neutralitetas]]
 - [[objektai/grupes/Želigovskininkai]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Rusija]]

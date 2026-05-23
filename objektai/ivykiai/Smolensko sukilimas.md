@@ -60,7 +60,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Smolenskas]]
-- [[objektai/vietos/Vorskla]]
 - [[objektai/zodynas/apostazija]]
 - [[objektai/zodynas/vietininkas]]

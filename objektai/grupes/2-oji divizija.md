@@ -50,6 +50,8 @@ tags:
     - t-001
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/upė]]
+
 ### Susiję objektai
-- [[objektai/vietos/Nemunas]]
 - [[objektai/grupes/3-ioji divizija]]

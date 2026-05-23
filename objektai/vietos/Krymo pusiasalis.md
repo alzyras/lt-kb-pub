@@ -56,12 +56,3 @@ Totorių kariuomenė Strateginį privalumą totoriams laidavo jų pagrindinės b
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Krymas]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Maskva]]
-- [[objektai/vietos/Perekopas]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/zodynas/lengvoji kavalerija]]

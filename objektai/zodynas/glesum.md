@@ -56,4 +56,3 @@ Anot Tacito, Svebų (Baltijos) jūros dešiniajame krante gyveną Aestii garbin�
 - [[objektai/posakiai/Jie « papročiais ir savo išore yra kaip svebai »]]
 - [[objektai/autoriai/K. Būga]]
 - [[objektai/daiktai/Šernų amuletai]]
-- [[objektai/vietos/Baltija]]

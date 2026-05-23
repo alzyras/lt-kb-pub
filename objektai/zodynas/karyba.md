@@ -92,9 +92,11 @@ Juose rasite papildomos informacijos apie to meto politinius, karinius įvykius,
     - t-002
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/dokumentas]]
+
 ### Susiję objektai
 - [[objektai/asmenys/Hermanas]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/autoriai/Algimantas Daugirdas]]
 - [[objektai/daiktai/Buzdyganas]]
 - [[objektai/autoriai/Darius Baronas]]

@@ -84,9 +84,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/grupes/Pacai]]
 - [[objektai/zodynas/hetmonas]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lenkija]]

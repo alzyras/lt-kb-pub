@@ -84,14 +84,9 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Rusija]]
-- [[objektai/vietos/Giedraičiai]]
-- [[objektai/vietos/Kauno Lietuva]]
 - [[objektai/zodynas/Lietuvos atsikūrimas]]
 - [[objektai/zodynas/Nepriklausomybės kovos]]
-- [[objektai/vietos/Vidurinė Lietuva]]
 - [[objektai/zodynas/šturmovcai]]
 - [[objektai/grupes/Jaunalietuviai]]
 - [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1918-1919 m.)]]

@@ -48,10 +48,3 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Aisčiai]]
-- [[objektai/vietos/Niešava]]
-- [[objektai/vietos/Prūsai]]
-- [[objektai/ivykiai/Kryžiuočių ordino atsikraustymas į Prūsus]]

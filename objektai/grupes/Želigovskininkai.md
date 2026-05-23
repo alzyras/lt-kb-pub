@@ -43,11 +43,6 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Tautų Sąjunga]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/vietos/Apylaukė]]
-- [[objektai/vietos/Giedraičiai]]
-- [[objektai/vietos/Gineičiai]]
 - [[objektai/daiktai/Šarvuotasis traukinys Gediminas]]
 - [[objektai/zodynas/akcijos]]

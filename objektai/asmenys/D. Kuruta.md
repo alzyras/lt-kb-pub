@@ -93,7 +93,4 @@ Kuruta, bet pastarasis vadovavimą (laikinai) perdavė gabiam generolui leitenan
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Podolė]]
 - [[objektai/grupes/Rytas]]
-- [[objektai/vietos/Ukmergė]]
-- [[objektai/vietos/Vilnius]]

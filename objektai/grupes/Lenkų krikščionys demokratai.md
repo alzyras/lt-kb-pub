@@ -48,4 +48,3 @@ Vyskupijoje dominavo lenkų krikščionys demokratai, veikę vadovaudamiesi lenk
 ### Susiję objektai
 - [[objektai/grupes/Krikščionys]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lenkija]]

@@ -57,5 +57,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Baltija]]
 - [[objektai/grupes/Lietuvos diplomatinė tarnyba]]

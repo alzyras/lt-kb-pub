@@ -96,8 +96,5 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bolševikai]]
-- [[objektai/vietos/Dainava]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/NKVD]]
 - [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/vietos/Alytus]]

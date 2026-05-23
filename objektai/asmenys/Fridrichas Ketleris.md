@@ -74,10 +74,10 @@ Kairiajame Dauguvos krante buvęs Kuršo kunigaikštis Fridrichas Ketleris, maty
     - t-002
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/upė]]
+
 ### Susiję objektai
-- [[objektai/vietos/Dauguva]]
-- [[objektai/vietos/Kuršas]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/etmonas]]
 - [[objektai/zodynas/hetmonas]]
 - [[objektai/grupes/Kuršiečiai]]

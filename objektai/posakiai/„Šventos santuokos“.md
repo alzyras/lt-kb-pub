@@ -46,9 +46,6 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Liublinas]]
 - [[objektai/zodynas/unija]]
 - [[objektai/asmenys/Jadvyga Jogailienė]]
 - [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]

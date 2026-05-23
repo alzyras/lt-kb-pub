@@ -46,6 +46,4 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Niujorkas]]
 - [[objektai/daiktai/Monumentalios Lietuvos istorijos drobės]]

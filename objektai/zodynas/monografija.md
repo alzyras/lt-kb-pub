@@ -52,7 +52,6 @@ Monografijoje yra 320 puslapiu.
 - [[temos/žemėlapis]]
 
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/autoriai/A. Alekna]]
 - [[objektai/autoriai/A. Lewickis]]
 - [[objektai/autoriai/Alfredas Bumblauskas]]

@@ -631,24 +631,3 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-031
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Klaipėda]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/posakiai/Iki gyvos Vytauto ir Jogailos galvos]]
-- [[objektai/asmenys/Jonas Domicini iš Rogūzos]]
-- [[objektai/vietos/Jotvingija]]
-- [[objektai/ivykiai/Konstancijos susirinkimas (1414–1418 m.)]]
-- [[objektai/vietos/Kulautuva]]
-- [[objektai/vietos/Salyne]]
-- [[objektai/vietos/Sūdavija]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/nuomininkas]]
-- [[objektai/zodynas/superarbitras]]
-- [[objektai/zodynas/unija]]
-- [[objektai/ivykiai/Žalgirio mūšis (1410 m.)]]
-- [[objektai/ivykiai/Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas|Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas (krikštas)]]
-- [[objektai/posakiai/„iki gyvos galvos“]]
-- [[objektai/vietos/Michalovos žemės]]

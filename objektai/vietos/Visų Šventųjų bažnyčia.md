@@ -40,13 +40,3 @@ Uždarytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai prit
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Kaunas]]
-- [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis|Mikalojus Konstantinas Čiurlionis (dailininkas)]]
-- [[objektai/vietos/Pažaislis]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/vietos/Kauno įgulos bažnyčia]]
-- [[objektai/vietos/Pažaislio vienuolynas]]
-- [[objektai/vietos/Šv. Jonų bažnyčia]]

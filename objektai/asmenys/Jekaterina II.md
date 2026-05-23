@@ -152,9 +152,6 @@ Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų iš
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
-- [[objektai/vietos/Prancūzija]]
-- [[objektai/vietos/Prūsija]]
-- [[objektai/vietos/Rusija]]
 - [[objektai/zodynas/jakobinizmas]]
 - [[objektai/ivykiai/Jekaterinos II sėslumo ribos nustatymas (1791 m.)]]
 - [[objektai/grupes/Žydai]]

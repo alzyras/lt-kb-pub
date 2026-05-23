@@ -58,12 +58,3 @@ Priėmusi nutarimą respublikonų kariuomenė nužygiavo į Vilnių, kur Šnipi�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuvos kariuomenė]]
-- [[objektai/grupes/Respublikonai]]
-- [[objektai/vietos/Valkininkai]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/zodynas/bajorija]]
-- [[objektai/zodynas/etatiniai vienetai]]

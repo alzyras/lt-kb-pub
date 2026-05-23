@@ -48,9 +48,3 @@ Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­ niku. Čia paste
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Drevenca]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/daiktai/Patrankos]]

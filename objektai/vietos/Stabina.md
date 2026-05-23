@@ -47,11 +47,3 @@ Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis su Maskva pali
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Gardinas]]
-- [[objektai/vietos/Grabova]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Maskva]]

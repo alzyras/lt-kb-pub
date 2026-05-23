@@ -100,9 +100,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Drezdenas]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/vietos/Saksonija]]
 - [[objektai/ivykiai/Šiaurės karas]]
 - [[objektai/grupes/Švedai]]

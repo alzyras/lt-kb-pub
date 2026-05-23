@@ -55,7 +55,6 @@ Formulė glaustai apibendrina Abiejų Tautų Respublikai priskiriamus XVII–XVI
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Europa]]
 - [[objektai/zodynas/barokas]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/posakiai/„duona, tolerancija, demokratija, konstitucija, barokas“]]

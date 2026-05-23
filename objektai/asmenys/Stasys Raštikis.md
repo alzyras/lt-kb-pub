@@ -217,5 +217,3 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Krikščionys]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Viena]]

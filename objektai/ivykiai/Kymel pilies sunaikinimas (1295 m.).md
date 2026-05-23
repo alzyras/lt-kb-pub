@@ -70,11 +70,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Dubysa]]
-- [[objektai/vietos/Gaižuva]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Kymel]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Nemunas]]
-- [[objektai/vietos/Pačtuva]]
-- [[objektai/vietos/Vilkija]]

@@ -56,7 +56,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Estija]]
-- [[objektai/vietos/Gudija]]
 - [[objektai/grupes/Nacių Vokietija]]
-- [[objektai/vietos/Rytų kraštas (Ostlandas)]]

@@ -131,7 +131,5 @@ Terminas pasitelkiamas Stryjkovskio epochos ribai parodyti ir Daukanto poveikiui
 - [[temos/istorinė-sąvoka]]
 
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Varniai]]
 - [[objektai/zodynas/kapitula]]
 - [[objektai/posakiai/vardan tos Lietuvos]]

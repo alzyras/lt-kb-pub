@@ -81,10 +81,6 @@ Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais 
 ### Susiję objektai
 - [[objektai/asmenys/Antanas Šukys]]
 - [[objektai/grupes/Bolševikai]]
-- [[objektai/vietos/Daugpilis]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Marijampolė]]
-- [[objektai/vietos/Zarasai]]
 - [[objektai/zodynas/viršila]]
 - [[objektai/grupes/I brigada]]
 - [[objektai/grupes/Marijampolės batalionas]]

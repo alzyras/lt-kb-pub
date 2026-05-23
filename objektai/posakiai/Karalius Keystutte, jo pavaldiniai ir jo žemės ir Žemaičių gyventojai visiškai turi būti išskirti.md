@@ -55,5 +55,4 @@ tags:
 - [[temos/paliaubos]]
 
 ### Susiję objektai
-- [[objektai/vietos/Livonija]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

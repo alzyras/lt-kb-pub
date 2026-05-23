@@ -56,8 +56,5 @@ Kuoknesės pilies išsaugojimas turėjo svarbią strateginę reikšmę Lietuvos 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kuoknesė]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Švedai]]
-- [[objektai/vietos/Švedija]]

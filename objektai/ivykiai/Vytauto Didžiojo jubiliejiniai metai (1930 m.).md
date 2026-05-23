@@ -95,7 +95,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/autoriai/A. Šapoka]]
 - [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
-- [[objektai/vietos/Kaunas]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/jaunųjų istorikų būrelis]]

@@ -59,4 +59,3 @@ Po mūšio Kitą dieną po kautynių Mykolas Radvila Rudasis laiške savo pusbro
 
 ### Susiję objektai
 - [[objektai/asmenys/Mykolas]]
-- [[objektai/vietos/Vilnius]]

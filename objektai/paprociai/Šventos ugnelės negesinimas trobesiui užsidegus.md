@@ -89,6 +89,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Pinskas]]
 - [[objektai/zodynas/Stigavoja|stigavoja]]
 - [[objektai/grupes/Lietuviai]]

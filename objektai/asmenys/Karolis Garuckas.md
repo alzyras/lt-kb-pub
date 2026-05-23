@@ -46,5 +46,4 @@ Grupei priklausė kun. Karolis Garuckas, fizikas Eitanas Finkelšteinas, poetė,
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/SSRS]]
 - [[objektai/zodynas/kunigas]]

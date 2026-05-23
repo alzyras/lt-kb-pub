@@ -58,8 +58,4 @@ Pradėjus Vaišvilkui ten vieną po kitos imti pilis, Nalšėnų Dauman­ tas, p
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
-- [[objektai/vietos/Deltuva]]
 - [[objektai/asmenys/Mindaugas]]
-- [[objektai/vietos/Nalšėnai]]
-- [[objektai/vietos/Pskovas]]
-- [[objektai/vietos/Viena]]

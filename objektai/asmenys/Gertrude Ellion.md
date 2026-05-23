@@ -49,9 +49,7 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Afrika]]
 - [[objektai/asmenys/Bernardas (abatas)]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Sydney Brenner]]
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/asmenys/Bernardas Berensonas]]

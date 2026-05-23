@@ -232,18 +232,3 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-010
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Kaunas]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/ivykiai/Pirmosios Užsienio reikalų ministerijos pradžia|Pirmosios Užsienio reikalų ministerijos pradžia (institucija)]]
-- [[objektai/vietos/Targovica]]
-- [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.)]]
-- [[objektai/vietos/Voronežas]]
-- [[objektai/ivykiai/1797 m. Peterburgo konvencija dėl trečiojo padalijimo patvirtinimo]]
-- [[objektai/autoriai/A. E. Presniakov]]
-- [[objektai/vietos/Austrija]]
-- [[objektai/ivykiai/Trečiojo Lenkijos ir Lietuvos valstybės padalijimo konvencijos pasirašymas]]
-- [[objektai/zodynas/delegacinis seimas|delegacinis seimas (seimas)]]

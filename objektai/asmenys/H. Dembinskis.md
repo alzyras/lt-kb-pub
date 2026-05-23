@@ -70,11 +70,6 @@ Dembinskio daliniai, kurie turėjo imituoti puolimą per Neries Žaliąjį tilt�
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Paneriai]]
-- [[objektai/vietos/Poznanė]]
 - [[objektai/grupes/Poznanės raitininkų eskadronai]]
-- [[objektai/vietos/Trakai]]
 - [[objektai/grupes/Trakų sukilėlių daliniai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

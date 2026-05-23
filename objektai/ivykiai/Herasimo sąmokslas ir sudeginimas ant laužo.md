@@ -62,7 +62,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Motiejus]]
-- [[objektai/vietos/Smolenskas]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/unija]]
 - [[objektai/asmenys/Švitrigaila]]

@@ -120,27 +120,3 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Europa]]
-- [[objektai/vietos/Kaunas]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Viena]]
-- [[objektai/zodynas/barokas]]
-- [[objektai/zodynas/protestantizmas]]
-- [[objektai/ivykiai/Didžiųjų santarvės valstybių Lietuvos de jure pripažinimas (1922 m. gruodžio 20 d.)]]
-- [[objektai/vietos/Ispanija]]
-- [[objektai/vietos/Japonija]]
-- [[objektai/paprociai/Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose]]
-- [[objektai/autoriai/Machiavellio]]
-- [[objektai/zodynas/Machiavellio mokslas]]
-- [[objektai/asmenys/Peteris Paulius Rubensas]]
-- [[objektai/vietos/Prancūzija]]
-- [[objektai/vietos/Rygos arkivyskupija]]
-- [[objektai/zodynas/krašto magistras|krašto magistras (kraštas)]]
-- [[objektai/zodynas/protektorium]]
-- [[objektai/zodynas/supremacija]]
-- [[objektai/posakiai/„Jei Šveicarijai būdinga aukšti kalnai, Italijai – meno kūriniai, Suomijai – ežerai, o Lietuvą reikėtų pavadinti kraštu, kuriame labai pavoj]]
-- [[objektai/posakiai/„civilizaciniam šuoliui“]]
-- [[objektai/asmenys/Benito Musolinis]]

@@ -63,8 +63,5 @@ Vartojamos formos: `įšleiti`, `įšleitėj`.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Isteris]]
-- [[objektai/vietos/Daugava]]
 - [[objektai/grupes/Egiptiečiai]]
 - [[objektai/grupes/Finikiečiai]]
-- [[objektai/vietos/Žalioji giria]]

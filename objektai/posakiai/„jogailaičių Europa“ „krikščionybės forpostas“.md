@@ -72,15 +72,9 @@ Lenkijos ir Lietuvos sostuose sėdėjo lietuviškos kilmės Jogailaičių dinast
 
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
-- [[objektai/vietos/Europa]]
 - [[objektai/grupes/Habsburgai]]
 - [[objektai/grupes/Jogailaičiai]]
 - [[objektai/grupes/Jogailaičių dinastija]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Vengrija]]
-- [[objektai/vietos/Čekija]]
-- [[objektai/vietos/Maskva]]
 - [[objektai/grupes/Habsburgų dinastija]]
 - [[objektai/zodynas/bajorų tauta politinė lietuvių tauta]]
 - [[objektai/zodynas/bajorų tauta politinė tauta lietuvių nacija]]

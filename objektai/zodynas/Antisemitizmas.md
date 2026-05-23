@@ -61,12 +61,10 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/posakiai/„mūsų žydeliai“]]
 - [[objektai/daiktai/Išsaugotos Toros]]
-- [[objektai/vietos/Kauno VII fortas]]
 - [[objektai/grupes/Lietuvių aktyvistų frontas]]
 - [[objektai/zodynas/Restitucija]]
 - [[objektai/ivykiai/Žydų atstovų įėjimas į Lietuvos vyriausybę (1918 m. gruodis)]]

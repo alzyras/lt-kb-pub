@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 13.
+Objektų skaičius: 12.
 
 ## Kaip naudoti
 
@@ -30,9 +30,6 @@ Objektų skaičius: 13.
 - [[objektai/daiktai/Kūlgrindos]]
 - [[objektai/daiktai/Laivai]]
 - [[objektai/daiktai/Sovietų tankai ir šarvuočiai]]
-
-### Vietos
-- [[objektai/vietos/Braginas]]
 
 ### Žodynas
 - [[objektai/zodynas/buožės darbo valstiečiai]]

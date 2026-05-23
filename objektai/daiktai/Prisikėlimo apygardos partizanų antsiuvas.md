@@ -83,6 +83,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
 - [[objektai/grupes/Rytas]]
-- [[objektai/vietos/Užpelkiai]]
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/zodynas/žygis]]

@@ -42,5 +42,4 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Viena]]
 - [[objektai/ivykiai/Reformacijos pradžia Lietuvoje]]

@@ -78,7 +78,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Voldemarininkai]]
 - [[objektai/grupes/Lietuvių nacionalistų partija]]

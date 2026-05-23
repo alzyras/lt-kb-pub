@@ -53,11 +53,7 @@ Vokietijos kunigaikščiai galėjo paremti ordiną.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Torno]]
 - [[objektai/ivykiai/Torno taika (1411 m.)]]
-- [[objektai/vietos/Transilvanija]]
-- [[objektai/vietos/Vokietija]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/grupes/Kryžiuočių ordinas]]

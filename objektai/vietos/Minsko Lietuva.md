@@ -136,10 +136,3 @@ Pavadinimas siejamas su senosiomis rusėniškosiomis LDK žemėmis ir modernios 
 ## Šaltiniai ir įrodymai
 
 ## Pastabos
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/lietuva]]
-
-### Susiję objektai
-- [[objektai/vietos/Lietuva]]

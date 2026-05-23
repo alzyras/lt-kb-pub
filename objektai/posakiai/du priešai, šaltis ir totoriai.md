@@ -65,7 +65,6 @@ Vytautui priskiriama lakoniška karo formulė pergalę ir galimą pralaimėjimą
 - [[temos/frazė]]
 
 ### Susiję objektai
-- [[objektai/vietos/Dniepras]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/posakiai/Todėl ir reikia kariauti, nes jeigu nugalėsim, gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės apie mus, kad mus nugalėjo du]]
 - [[objektai/grupes/Totoriai]]

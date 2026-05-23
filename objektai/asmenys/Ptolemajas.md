@@ -43,4 +43,3 @@ Jau Ptolemajas II a.
 ### Susiję objektai
 - [[objektai/grupes/Baltai]]
 - [[objektai/grupes/Galindai]]
-- [[objektai/vietos/Prūsai]]

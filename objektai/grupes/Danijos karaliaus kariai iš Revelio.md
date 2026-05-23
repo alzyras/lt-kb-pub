@@ -94,15 +94,9 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Estai]]
-- [[objektai/vietos/Europa]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Livonija]]
-- [[objektai/vietos/Prūsija]]
-- [[objektai/vietos/Revelis]]
 - [[objektai/grupes/Totoriai]]
-- [[objektai/vietos/Vokietija]]
 - [[objektai/zodynas/kryžininkai]]
 - [[objektai/grupes/Švedai]]
 - [[objektai/posakiai/Palikime savo žirgus toli užpakalyje]]

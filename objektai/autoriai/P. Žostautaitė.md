@@ -61,8 +61,4 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Merkys]]
-- [[objektai/vietos/Prūsija]]
-- [[objektai/vietos/Vilnius]]

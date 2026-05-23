@@ -94,8 +94,4 @@ Raimundas Lopata įvardytas leidinio redakcinės kolegijos pirmininku ir minimas
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/vietos/Europa]]
-- [[objektai/vietos/Europos geografinis centras]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Vilniaus universiteto leidykla]]
-- [[objektai/vietos/Vilnius]]

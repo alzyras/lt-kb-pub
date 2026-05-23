@@ -109,7 +109,6 @@ Nenurodyta
 - [[objektai/daiktai/Kūtė]]
 - [[objektai/paprociai/Panedėlio už grieką laikymas]]
 - [[objektai/asmenys/S. Kosakovskis]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/dausos]]
 - [[objektai/zodynas/karo grobis]]

@@ -60,11 +60,8 @@ Vainą ir „vengrų“ pėstininkų rotmistrą Kurovičių.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Breslauja]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuvos totoriai]]
 - [[objektai/grupes/Totoriai]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/rotmistras]]
 - [[objektai/zodynas/seniūnas]]
 - [[objektai/grupes/Bajorai]]

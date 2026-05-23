@@ -63,8 +63,5 @@ sušaukęs Naugardukan pravoslavų aukš­ tuosius dvasiškius ir didikus, Kijev
 - [[temos/didikas]]
 
 ### Susiję objektai
-- [[objektai/vietos/Kijevas]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/metropolija]]
 - [[objektai/zodynas/metropolitas]]
-- [[objektai/vietos/Naugardukas]]

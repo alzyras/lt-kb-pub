@@ -60,11 +60,5 @@ Iš kitų puolimų yra išskirtinas 1329 pradžioje pirmasis Čekijos karaliaus 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Aukaimis]]
-- [[objektai/vietos/Gardinas]]
-- [[objektai/vietos/Karšuva]]
-- [[objektai/vietos/Prūsai]]
-- [[objektai/vietos/Putvė]]
-- [[objektai/vietos/Čekija]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/daiktai/Ietis]]

@@ -107,7 +107,5 @@ Urbanavičius domėjosi degintiniais kapais ir laidosena Lietuvoje XIV a.^100. U
     - t-003
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Livonija]]
-- [[objektai/vietos/Vilnius]]
+### Teminiai klasteriai
+- [[temos/tikėjimas]]

@@ -43,6 +43,5 @@ Lietuvos krikščionėjimo simboliu tapo šv.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Kazimieras]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]

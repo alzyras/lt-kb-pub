@@ -66,9 +66,6 @@ Springmann, K.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/christianizacija]]
-- [[objektai/vietos/Konstanca]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Lenkija]]
 - [[objektai/grupes/Vokiečiai]]

@@ -54,8 +54,5 @@ Eduardas Brusokas (gimęs 1970 m.), Vilniaus universitete įgijo istorijos bakal
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/karyba]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/vietos/Salaspilis]]

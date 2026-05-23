@@ -232,10 +232,5 @@ Loreta Uzdraitė šiame leidinyje minima kaip kelių žemėlapių, schemų ir in
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kalavijuočių ordinas]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/Lietuvos atsikūrimas]]
 - [[objektai/zodynas/kryžininkai]]
-- [[objektai/vietos/Šiauliai]]
-- [[objektai/vietos/Kleckas]]
-- [[objektai/vietos/Maskvos-Lietuvos pasienis]]
-- [[objektai/vietos/Salaspilis]]

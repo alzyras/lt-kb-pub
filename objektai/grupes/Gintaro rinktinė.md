@@ -58,4 +58,3 @@ Stovykloje buvo 20 Gintaro rinktinės Alfonso Pakarklio ir Antano Antanaičio b�
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Gintaras]]
-- [[objektai/vietos/Raseiniai]]

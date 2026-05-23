@@ -84,5 +84,4 @@ Lietuva, įstojusi į ES, gali Briuselyje reikšti savo poziciją įvairiais kla
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/ES pilietis]]
-- [[objektai/vietos/Europa]]
 - [[objektai/zodynas/peticija]]

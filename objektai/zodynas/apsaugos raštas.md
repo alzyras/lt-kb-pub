@@ -80,7 +80,4 @@ tags: []
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Nemunas]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/vietos/Salos]]

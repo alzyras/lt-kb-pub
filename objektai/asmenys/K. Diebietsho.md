@@ -54,7 +54,4 @@ Diebietsho korpusas.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Latvija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Vokietija]]
 - [[objektai/grupes/Vokiečiai]]

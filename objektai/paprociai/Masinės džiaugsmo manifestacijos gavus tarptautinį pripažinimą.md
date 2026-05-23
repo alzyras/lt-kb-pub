@@ -86,8 +86,3 @@ tags: []
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/socialinė-praktika]]
-
-### Susiję objektai
-- [[objektai/vietos/Didžioji Britanija]]
-- [[objektai/vietos/Kaunas]]
-- [[objektai/vietos/Lietuva]]

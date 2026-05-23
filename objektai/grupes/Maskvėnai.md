@@ -42,7 +42,6 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Rusija]]
 - [[objektai/grupes/Slavai]]
 - [[objektai/asmenys/Aleksandras]]
 - [[objektai/posakiai/Antemurale Christianitatis]]
@@ -50,7 +49,6 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
 - [[objektai/daiktai/Kristupo Mikalojaus Radvilos Perkūno šarvai]]
 - [[objektai/paprociai/Kronikų rašymo ir lietuvių kilmės iš romėnų mito perėmimas]]
 - [[objektai/grupes/Livonijos kunigaikštystė]]
-- [[objektai/vietos/Lukomlys]]
 - [[objektai/grupes/Maskvos kariuomenė]]
 - [[objektai/asmenys/Mikalojus Radvila Rudasis]]
 - [[objektai/autoriai/Mykolas Lietuvis]]
@@ -58,7 +56,5 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
 - [[objektai/asmenys/Petras Šuiskis]]
 - [[objektai/grupes/Rusėnai]]
 - [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]
-- [[objektai/vietos/Dubrovna]]
-- [[objektai/vietos/Kopilino]]
 - [[objektai/asmenys/Zigmantas Vaza]]
 - [[objektai/posakiai/„pagal Tavo palaiminimą jy [promaskvietiškas] metropolitas juos [maskvénus] laimina kraujo praliejimui iki šiol“]]

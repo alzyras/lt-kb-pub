@@ -56,6 +56,5 @@ Janulaitis, nors dar labiau daugiadarbis. Surinkdamas daug archyvinės medžiago
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/tribunolas]]
 - [[objektai/grupes/Lietuvos Karininkų Ramovė]]

@@ -106,19 +106,3 @@ Livonijos ir Prūsų kryžiuočiai Pabaltijo žemių okupacijos eigoje pirmą ka
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Durbė]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Livonija]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/vietos/Dobė]]
-- [[objektai/ivykiai/Durbės mūšis (1260 m.)]]
-- [[objektai/vietos/Imsrė]]
-- [[objektai/vietos/Karšuvos sritis]]
-- [[objektai/vietos/Mituva]]
-- [[objektai/vietos/Tervetė]]
-- [[objektai/zodynas/donacija]]
-- [[objektai/vietos/Žiemgala]]
-- [[objektai/grupes/Žiemgaliai]]

@@ -60,8 +60,8 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/elekcija]]
+
 ### Susiję objektai
-- [[objektai/vietos/Baltija]]
 - [[objektai/asmenys/J. Stalinas]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/SSRS]]

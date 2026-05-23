@@ -49,9 +49,3 @@ Sapiegų pajėgos Kitą dieną iš Vilniaus, kurio apylinkėse ir buvo sutelktos
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Paneriai]]
-- [[objektai/vietos/Valkininkai]]
-- [[objektai/vietos/Vilnius]]

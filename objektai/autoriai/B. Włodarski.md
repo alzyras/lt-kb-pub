@@ -57,6 +57,5 @@ Włodarski, B.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Maskva]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Rusėnai]]

@@ -112,10 +112,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Tautos taryba|Tautos taryba (institucija)]]
-- [[objektai/vietos/Varšuva]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/hetmonas]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]

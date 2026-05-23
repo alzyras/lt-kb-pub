@@ -59,11 +59,9 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Auksinė Orda]]
-- [[objektai/vietos/Gardinas]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Rusėnai]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/asmenys/Traidenis]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/asmenys/Mamšėjus]]
-- [[objektai/vietos/Lietuva]]

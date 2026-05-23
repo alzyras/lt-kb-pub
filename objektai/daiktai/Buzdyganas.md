@@ -74,5 +74,3 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/karyba]]
-- [[objektai/vietos/Bychovo tvirtovė]]
-- [[objektai/vietos/Druja]]

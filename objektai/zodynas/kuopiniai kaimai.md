@@ -101,12 +101,12 @@ Rytprūsiuose, palei žemutinę Vyslą, jau yra žinomi upių krantų aukštumos
     - t-003
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/upė]]
+
 ### Susiję objektai
 - [[objektai/grupes/Baltai]]
 - [[objektai/grupes/Kuršiai]]
 - [[objektai/grupes/Lietgaliai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Prūsai]]
 - [[objektai/grupes/Žiemgaliai]]
-- [[objektai/vietos/Rytprūsiai]]
-- [[objektai/vietos/Vysla]]

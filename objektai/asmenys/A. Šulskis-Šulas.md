@@ -73,7 +73,5 @@ tags:
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Pušalotas]]
-- [[objektai/vietos/Subačius]]
-- [[objektai/vietos/Žalioji giria]]
+### Teminiai klasteriai
+- [[temos/upė]]

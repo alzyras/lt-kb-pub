@@ -57,4 +57,3 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Mykolas]]
-- [[objektai/vietos/Vilnius]]

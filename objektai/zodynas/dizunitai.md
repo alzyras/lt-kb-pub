@@ -54,6 +54,5 @@ Dolgorukij ir toliau, prisidengęs dizunitų (stačiatikių) gynimu, įkyriai ki
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/ivykiai/Nebylus seimas (1717 m.)]]
 - [[objektai/zodynas/dizunitai disunitus]]

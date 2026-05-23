@@ -63,10 +63,5 @@ Pačiam Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgi
 ### Susiję objektai
 - [[objektai/asmenys/Hlebas]]
 - [[objektai/asmenys/Jomantas]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Maskva]]
-- [[objektai/vietos/Riazanė]]
-- [[objektai/vietos/Smolenskas]]
-- [[objektai/vietos/Tverė]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/lenas]]

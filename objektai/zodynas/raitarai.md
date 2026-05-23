@@ -55,8 +55,6 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Austrija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/husarai]]
 - [[objektai/grupes/Švedai]]
 - [[objektai/asmenys/Frederikas Joachimas Mansfeldas]]

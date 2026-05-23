@@ -67,14 +67,10 @@ Liucijano Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje �
     - t-002
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/elekcija]]
+
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Suvalkai]]
-- [[objektai/vietos/Vidurinė Lietuva]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/vietos/Rykantai]]
-- [[objektai/vietos/Semeliškės]]
 - [[objektai/grupes/L. Želigovskio pajėgos]]
 - [[objektai/zodynas/administracinė linija demarkacijos linija]]

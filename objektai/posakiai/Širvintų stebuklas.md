@@ -88,7 +88,5 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Balnas]]
-- [[objektai/vietos/Gardinas]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]

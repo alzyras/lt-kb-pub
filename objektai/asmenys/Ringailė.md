@@ -53,5 +53,4 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Mozūrija]]
 - [[objektai/autoriai/Józef Wolff]]

@@ -57,5 +57,4 @@ Duoklėmis ir mezliavomis atsilygindavo daugiausia pa­ prastieji žmonės, kuni
 - [[temos/pinigai]]
 
 ### Susiję objektai
-- [[objektai/vietos/Horodlė]]
 - [[objektai/zodynas/sidabrinė duoklė]]

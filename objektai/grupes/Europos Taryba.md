@@ -50,8 +50,6 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Europa]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Jungtinių Tautų organizacija]]
 - [[objektai/grupes/Tarptautinė darbo organizacija]]
 - [[objektai/grupes/UNESCO]]

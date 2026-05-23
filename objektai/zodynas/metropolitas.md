@@ -151,8 +151,6 @@ Nenurodyta.
 - [[temos/religinis-terminas]]
 
 ### Susiję objektai
-- [[objektai/vietos/Kijevo Rusia]]
-- [[objektai/vietos/Maskva]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/asmenys/Audrys Juozas Bačkis|Audrys Juozas Bačkis (Vilniaus arkivyskupas metropolitas)]]
@@ -175,7 +173,6 @@ Nenurodyta.
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/asmenys/Teodosijus]]
 - [[objektai/asmenys/Teofilis (arkivyskupas)]]
-- [[objektai/vietos/Vladimiras (prie Kliazmos)]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/daugiakonfesiškumas]]
 - [[objektai/zodynas/daugiakonfesiškumas daugiakultūriškumas]]

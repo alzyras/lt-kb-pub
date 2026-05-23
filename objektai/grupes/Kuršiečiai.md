@@ -79,10 +79,10 @@ Kuršiečiai, kartu su kunigaikščiu, sėkmingai perplaukė upę ir prisistatė
     - t-002
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/upė]]
+
 ### Susiję objektai
-- [[objektai/vietos/Dauguva]]
-- [[objektai/vietos/Kuršas]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/arkebuzieriai]]
 - [[objektai/zodynas/husarai]]
 - [[objektai/zodynas/rotmistras]]

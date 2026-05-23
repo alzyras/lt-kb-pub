@@ -60,10 +60,6 @@ pradžioje pralaimėjimai įsiveržusio Timūro (Tamerlano) mongolų kariuomenei
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Afrika]]
-- [[objektai/vietos/Bizantija]]
-- [[objektai/vietos/Europa]]
-- [[objektai/vietos/Kosovas]]
 - [[objektai/zodynas/ekspansija]]
 - [[objektai/asmenys/Glebas (Smolensko kunigaikštis)]]
 - [[objektai/asmenys/Jagurčinas]]

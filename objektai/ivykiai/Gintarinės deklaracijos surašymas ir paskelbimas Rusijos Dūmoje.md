@@ -61,8 +61,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Donatas Malinauskas]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Nemunas]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/vietos/Rusija]]
 - [[objektai/asmenys/Stasys Šilingas]]
-- [[objektai/vietos/Vilnius]]

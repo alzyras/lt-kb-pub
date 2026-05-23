@@ -71,5 +71,4 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Suvalkai]]
 - [[objektai/grupes/Lenkai]]

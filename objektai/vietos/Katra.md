@@ -52,17 +52,3 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/įrankis]]
-
-### Susiję objektai
-- [[objektai/vietos/Alytus]]
-- [[objektai/vietos/Vysla]]
-- [[objektai/posakiai/Aktai sau, gyvenimas nuėjo sau]]
-- [[objektai/asmenys/Patrikas]]
-- [[objektai/zodynas/konsekracija]]
-- [[objektai/zodynas/Sūdas|sūdas]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Ūla]]

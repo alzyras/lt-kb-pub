@@ -60,6 +60,4 @@ Nenurodyta
 - [[objektai/asmenys/Christiaan Barnard]]
 - [[objektai/grupes/Litvakai]]
 - [[objektai/asmenys/Louis Washkansky]]
-- [[objektai/vietos/Afrika]]
 - [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/vietos/Pietų Afrikos Respublika]]

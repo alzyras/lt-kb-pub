@@ -99,9 +99,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Gediminaičiai]]
-- [[objektai/vietos/Kijevas]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Luckas]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/vietininkas]]

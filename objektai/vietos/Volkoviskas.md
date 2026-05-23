@@ -135,11 +135,3 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Mindaugas]]
-- [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
-- [[objektai/vietos/Gardinas]]
-- [[objektai/vietos/Naugardukas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

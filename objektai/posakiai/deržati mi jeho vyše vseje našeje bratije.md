@@ -56,12 +56,10 @@ Ta pačia proga Jogaila, savarankiškai be Jadvygos ir lenkų didikų žinios, i
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/didikas]]
+- [[temos/dokumentas]]
 
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/asmenys/Skirgaila]]
-- [[objektai/vietos/Trakai]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/vietos/Vitebskas]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]

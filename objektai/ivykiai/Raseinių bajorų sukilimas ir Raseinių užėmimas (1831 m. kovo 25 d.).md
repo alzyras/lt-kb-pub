@@ -105,10 +105,6 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
-- [[objektai/vietos/Kaunas]]
-- [[objektai/vietos/Raseiniai]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/vietos/Lietuva]]

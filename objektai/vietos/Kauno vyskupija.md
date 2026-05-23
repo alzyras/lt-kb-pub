@@ -53,9 +53,3 @@ Plačiai pasiremdamas Kauno vyskupijos kurijos archyvine medžiaga, jis išleido
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/A. Alekna]]
-- [[objektai/vietos/Kaunas]]
-- [[objektai/vietos/Lietuva]]

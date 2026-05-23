@@ -80,7 +80,6 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
 - [[temos/laiškas]]
 
 ### Susiję objektai
-- [[objektai/vietos/Pronskas]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/posakiai/lydimojo rašto]]

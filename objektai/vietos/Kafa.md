@@ -53,11 +53,3 @@ Yra duomenų, kad toliau žygiuojant buvo pasiektas pietinėje Krymo pakrantėje
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Krymas]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Musat-chanas]]
-- [[objektai/zodynas/žygis]]

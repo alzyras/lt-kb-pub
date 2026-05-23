@@ -55,11 +55,7 @@ Tiesa, pastarojoj sutarty nerandame jokio teoretinio santykių apibrėžimo, kok
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lenkija]]
 - [[objektai/grupes/Lenkų ponų taryba|Lenkų ponų taryba (institucija)]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]
-- [[objektai/vietos/Radomas]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/unija]]

@@ -94,5 +94,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Gardinas]]
 - [[objektai/grupes/Žydai]]

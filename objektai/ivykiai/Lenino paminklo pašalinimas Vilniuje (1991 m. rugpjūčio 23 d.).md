@@ -60,4 +60,3 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Lenino paminklas Vilniuje]]
-- [[objektai/vietos/Vilnius]]

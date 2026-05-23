@@ -55,8 +55,5 @@ Per 150 metų toliau patverusi su Tverės kunigaikš­ čiais sąjunga, kuri rei
 ### Susiję objektai
 - [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Marija]]
-- [[objektai/vietos/Maskva]]
-- [[objektai/vietos/Tverė]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/asmenys/Mykolas]]
 - [[objektai/asmenys/Marija (Gedimino duktė)]]

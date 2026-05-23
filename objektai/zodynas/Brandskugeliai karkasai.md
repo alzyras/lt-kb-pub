@@ -78,4 +78,3 @@ Be kartečės ir paprastų sviedinių, iš patrankų buvo šaudoma ir apšvieči
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Kartečė]]
-- [[objektai/vietos/Vilnius]]

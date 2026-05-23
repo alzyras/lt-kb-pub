@@ -70,7 +70,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/paprociai/Bičiulystė ir bitininkystė]]
 - [[objektai/autoriai/M. Liubavskij]]
 - [[objektai/daiktai/Mira]]

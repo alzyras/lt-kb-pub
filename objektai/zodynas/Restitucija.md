@@ -48,8 +48,11 @@ Narystės ir demokratijos įtvirtinimui Lietuva ėmė ryžtingai siekti demokrat
     - t-001
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/dokumentas]]
+- [[temos/elekcija]]
+
 ### Susiję objektai
 - [[objektai/zodynas/Antisemitizmas]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/daiktai/Išsaugotos Toros]]

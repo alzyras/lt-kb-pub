@@ -68,23 +68,3 @@ Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritar
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas]]
-- [[objektai/grupes/JAV lietuviai]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Rusija]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/grupes/Amerikos Lietuvių R. Katalikų Moksleivių Susivienijimas]]
-- [[objektai/ivykiai/Katalikiško moksleivių judėjimo plėtra Amerikoje (1899–1912 m.)]]
-- [[objektai/grupes/Lietuvos Vyčių Sąjunga]]
-- [[objektai/asmenys/Robertas Zemeckis]]
-- [[objektai/ivykiai/Susivienijimo Lietuvių Amerikoje skilimas ir trečiojo susivienijimo atsiradimas (1901–1930 m.)]]
-- [[objektai/posakiai/„idealiąją Lietuvą“]]
-- [[objektai/vietos/Niujorkas]]
-- [[objektai/autoriai/C. R. Jurgėla]]
-- [[objektai/autoriai/Jurgėla, C. R]]
-- [[objektai/autoriai/M. Jučas]]
-- [[objektai/zodynas/bibliografinis biuletenis sąsiuvinys]]

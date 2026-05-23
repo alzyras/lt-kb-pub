@@ -72,8 +72,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Ryga]]
-- [[objektai/vietos/Isteris]]
 - [[objektai/daiktai/Vąšas]]
 - [[objektai/posakiai/„Lietuvos žemės druska“]]

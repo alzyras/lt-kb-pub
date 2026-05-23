@@ -60,5 +60,3 @@ Būdamas pilnas nemalonės naujiems karūnos politikos vai­ rininkams, kancleri
 ### Susiję objektai
 - [[objektai/daiktai/Karūna]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Livonija]]

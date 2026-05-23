@@ -85,25 +85,3 @@ Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karoli
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Bobruiskas]]
-- [[objektai/vietos/Brastos apygarda]]
-- [[objektai/vietos/Dombrovica]]
-- [[objektai/vietos/Gardinas]]
-- [[objektai/vietos/Kalvarija]]
-- [[objektai/vietos/Kolainiai]]
-- [[objektai/vietos/Kražių apygarda]]
-- [[objektai/vietos/Kražių bažnyčia]]
-- [[objektai/autoriai/L. Vladimirovas]]
-- [[objektai/ivykiai/Lietuvos skriaudų viešinimo akcijos Amerikoje (1894–1900 m.)]]
-- [[objektai/vietos/Liubešavas]]
-- [[objektai/vietos/Padubysys]]
-- [[objektai/vietos/Pašiaušė]]
-- [[objektai/vietos/Smolenskas]]
-- [[objektai/vietos/Vitebskas]]
-- [[objektai/vietos/Žodiškiai]]
-- [[objektai/vietos/Airiogala]]
-- [[objektai/ivykiai/Kražių įvykiai]]
-- [[objektai/posakiai/„Kražių skerdynėmis“]]

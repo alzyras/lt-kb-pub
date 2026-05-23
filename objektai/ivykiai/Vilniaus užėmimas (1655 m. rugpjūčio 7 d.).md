@@ -98,23 +98,14 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Ašmena]]
-- [[objektai/vietos/Kaunas]]
 - [[objektai/grupes/Kazokai]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/vietos/Rusija]]
 - [[objektai/grupes/Rusijos kariuomenė]]
-- [[objektai/vietos/Trakai]]
 - [[objektai/ivykiai/Tvanas]]
-- [[objektai/vietos/Ukraina]]
 - [[objektai/zodynas/etmonas]]
 - [[objektai/zodynas/hetmonas]]
-- [[objektai/vietos/Šklovas]]
 - [[objektai/posakiai/„antilenkiškumas iš politikos pamažu virto kone religija“]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/ivykiai/Rusijos ir Lenkijos-Lietuvos karas (1654–1667 m.)]]

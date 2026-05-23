@@ -61,7 +61,5 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Ukraina]]
 - [[objektai/posakiai/„Lietuvą padaryti internacionalinę“]]
 - [[objektai/grupes/Lietuvos komunistų partija]]

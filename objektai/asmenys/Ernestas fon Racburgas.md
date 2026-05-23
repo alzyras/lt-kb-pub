@@ -62,8 +62,6 @@ Lietuviai „[...] brolis Ernestas buvo magistras.[...] Jis įvykdė didelį kar
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Livonija]]
 - [[objektai/grupes/Livonijos ordinas]]
-- [[objektai/vietos/Talinas]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/vietininkas]]

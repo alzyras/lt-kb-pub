@@ -65,7 +65,5 @@ Kitais metais sūduvių ir lietuvių vadas Skomantas (Didžiojo magistro kroniko
 - [[temos/ežeras]]
 
 ### Susiję objektai
-- [[objektai/vietos/Kulmas]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Vokiečiai]]

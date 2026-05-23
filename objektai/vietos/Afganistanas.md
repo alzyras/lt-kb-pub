@@ -60,14 +60,3 @@ Apskritai tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Herce
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Goras]]
-- [[objektai/vietos/Gruzija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Viena]]
-- [[objektai/ivykiai/Lietuvos pasiūlymas vadovauti Goro provincijos atkūrimo grupei Afganistane (2004 m. pabaiga)]]
-- [[objektai/vietos/Bosnija ir Hercegovina]]
-- [[objektai/vietos/Irakas]]
-- [[objektai/vietos/Kosovas]]

@@ -58,6 +58,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/V. Leninas]]
 - [[objektai/asmenys/Vladimiras Leninas]]

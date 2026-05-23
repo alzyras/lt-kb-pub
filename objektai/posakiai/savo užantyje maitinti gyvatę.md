@@ -93,5 +93,3 @@ Metafora nusako pavojingo sąjungininko laikymą arti savęs ir čia siejama su 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Mozūrija]]

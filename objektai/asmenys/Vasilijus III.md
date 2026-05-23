@@ -52,6 +52,4 @@ Išgirdęs apie pralaimėjimą, Vasilijus 111 palikęs įgulą pasitraukė iš S
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Smolenskas]]
 - [[objektai/ivykiai/Oršos mūšis (1514 m.)]]

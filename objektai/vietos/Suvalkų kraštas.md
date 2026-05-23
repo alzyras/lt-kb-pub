@@ -120,11 +120,3 @@ Jis greičiausiai nenorėjo leisti per daug laimėti lenkams, nes patsai, be Že
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Užnemunė]]
-- [[objektai/zodynas/supremus dux ir magnus dux]]
-- [[objektai/vietos/Prūsija]]
-- [[objektai/vietos/Volynija]]

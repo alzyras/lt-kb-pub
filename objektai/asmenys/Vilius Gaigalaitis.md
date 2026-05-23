@@ -49,8 +49,5 @@ Vokiečiai atsiliepė rugpjūčio 1-ąją – Prūsijos Landtage parlamentaras l
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Prūsija]]
-- [[objektai/vietos/Vokietija]]
 - [[objektai/ivykiai/Viliaus Gaigalaičio pareiškimas Prūsijos Landtage dėl Didžiosios Lietuvos prijungimo prie Vokietijos]]

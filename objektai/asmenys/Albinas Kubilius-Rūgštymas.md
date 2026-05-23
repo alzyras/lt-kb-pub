@@ -60,9 +60,3 @@ preparatus „Neptun-20“, buvo suimti Algimanto apygardos štabo pareigūnas A
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Anykščių valsčius]]
-- [[objektai/vietos/Butkiškio vienkiemis]]
-- [[objektai/vietos/Jovaišų sodyba]]

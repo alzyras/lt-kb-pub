@@ -48,10 +48,4 @@ Tuo tarpu Vokietija ir Austrija Vengrija 1916 metais lapkričio 5 dieną paskelb
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Austrija]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Rusija]]
-- [[objektai/vietos/Vengrija]]
-- [[objektai/vietos/Vokietija]]

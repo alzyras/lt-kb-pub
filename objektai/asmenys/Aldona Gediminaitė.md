@@ -118,7 +118,6 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
 - [[objektai/grupes/Lenkai]]
 - [[objektai/asmenys/Vladislovas]]
 - [[objektai/asmenys/Vladislovas Łokietka]]
-- [[objektai/vietos/Brandenburgo žemė]]
 - [[objektai/ivykiai/Gedimino sąjunga su Lenkija]]
 - [[objektai/asmenys/Kazimieras]]
 - [[objektai/asmenys/Kazimieras Didysis]]

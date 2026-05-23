@@ -44,12 +44,3 @@ Ukmergėje, Zarasuose, Kėdainiuose ir Jurbarke buvo pastatytos naujos cerkvės,
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Jurbarkas]]
-- [[objektai/vietos/Kaunas]]
-- [[objektai/vietos/Kėdainiai]]
-- [[objektai/vietos/Pažaislis]]
-- [[objektai/vietos/Raseiniai]]
-- [[objektai/vietos/Telšiai]]

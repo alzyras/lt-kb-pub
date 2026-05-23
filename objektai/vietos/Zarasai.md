@@ -88,21 +88,3 @@ Ukmergėje, Zarasuose, Kėdainiuose ir Jurbarke buvo pastatytos naujos cerkvės,
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/1-asis pėstininkų pulkas]]
-- [[objektai/grupes/11 brigada]]
-- [[objektai/asmenys/Augustinas Voldemaras]]
-- [[objektai/asmenys/K. Ladyga]]
-- [[objektai/grupes/Kuršiai]]
-- [[objektai/paprociai/Lietuvių ir lenkų dalinių bendros operacijos bei pasienio susirėmimai]]
-- [[objektai/asmenys/M. Sleževičius]]
-- [[objektai/grupes/Marijampolės batalionas]]
-- [[objektai/vietos/Rokiškis]]
-- [[objektai/vietos/Salaspilis]]
-- [[objektai/vietos/Sovietų Rusija]]
-- [[objektai/grupes/Sėliai]]
-- [[objektai/vietos/Utena]]
-- [[objektai/autoriai/Z. Raulinaitis]]

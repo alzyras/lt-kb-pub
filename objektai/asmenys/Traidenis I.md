@@ -57,7 +57,5 @@ Ji buvo ištekėjusi už Mozūrijos (Čersko-Socliačevo) kunigaikščio «Traid
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Mozūrija]]
 - [[objektai/asmenys/Traidenis]]
 - [[objektai/asmenys/Marija (Haličo-Volinijos giminės)]]

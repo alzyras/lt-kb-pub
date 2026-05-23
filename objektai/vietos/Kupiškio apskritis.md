@@ -52,11 +52,3 @@ Priešo pajėgos 1949 m. lapkričio 1-2 dienomis MGB vidaus kariuomenės 137-0jo
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Kupiškis]]
-- [[objektai/vietos/Svėdasai]]
-- [[objektai/vietos/Svėdasų valsčius]]
-- [[objektai/vietos/Šimonių giria]]
-- [[objektai/ivykiai/Šimonių girios apgultis]]

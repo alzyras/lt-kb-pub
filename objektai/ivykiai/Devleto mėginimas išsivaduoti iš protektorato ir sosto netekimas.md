@@ -67,4 +67,3 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Devletas]]
-- [[objektai/vietos/Konstantinopolis]]

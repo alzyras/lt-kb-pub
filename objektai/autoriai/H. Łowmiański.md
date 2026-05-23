@@ -52,8 +52,4 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Gardinas]]
-- [[objektai/vietos/Lazūnai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Merkinė]]
-- [[objektai/vietos/Nemunas]]

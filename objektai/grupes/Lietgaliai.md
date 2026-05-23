@@ -96,8 +96,6 @@ tags:
 ### Susiję objektai
 - [[objektai/grupes/Kuršiai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Livonija]]
-- [[objektai/vietos/Prūsai]]
 - [[objektai/grupes/Žiemgaliai]]
 - [[objektai/grupes/Jotvingiai]]
 - [[objektai/zodynas/kuopiniai kaimai]]

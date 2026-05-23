@@ -66,6 +66,5 @@ Bene rimčiausias krikščionių demokratų konkurentas etninių lietuvių tauti
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/ivykiai/Lietuvos demokratų partijos susikūrimas]]

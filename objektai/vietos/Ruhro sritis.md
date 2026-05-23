@@ -76,9 +76,3 @@ Didžiosios valstybės, kurios tuo metu buvo susidomėjusios vakarinės Vokietij
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Ambasadorių Konferencija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Vokietija]]

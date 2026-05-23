@@ -70,18 +70,3 @@ Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­ niku. Buvo nutar
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Alenšteinas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Kauernikas]]
-- [[objektai/vietos/Loebau]]
-- [[objektai/vietos/Löbau]]
-- [[objektai/daiktai/Patrankos]]
-- [[objektai/vietos/Sviečė]]
-- [[objektai/vietos/Tannenbergas]]
-- [[objektai/asmenys/Ulrichas von Jungingenas]]
-- [[objektai/daiktai/Vėliavos]]
-- [[objektai/asmenys/Zyndramas iš Moškovicų]]
-- [[objektai/vietos/Marienburgas]]

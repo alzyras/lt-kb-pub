@@ -64,6 +64,4 @@ Nenurodyta
 - [[temos/redaktorius]]
 
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/autoriai/V. Kudirka]]
-- [[objektai/vietos/Varšuva]]

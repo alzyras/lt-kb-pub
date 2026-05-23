@@ -57,5 +57,3 @@ Rusijos caras Aleksandras 11 1856 m. paskelbė politinę amnestiją 1831 m. suki
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Aleksandras]]
-- [[objektai/vietos/Rusija]]
-- [[objektai/vietos/Sibiras]]

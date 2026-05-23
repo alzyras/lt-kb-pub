@@ -141,20 +141,3 @@ Aleksandro mirties metais (1506) jie buvo pasiekę net Naugarduką ir Lydą; bet
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
-- [[objektai/vietos/Krymas]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/autoriai/Loreta Uzdraitė]]
-- [[objektai/vietos/Nesvyžius]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/zodynas/Tėvūnija|tėvūnija]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/autoriai/Aleksandro Gvanjinio]]
-- [[objektai/ivykiai/Krymo totorių įsiveržimas į Lietuvą (1506 m.)]]
-- [[objektai/grupes/Lietuvos kariuomenė]]
-- [[objektai/asmenys/Motiejus Huniadis]]
-- [[objektai/asmenys/Žygimantas Senasis]]

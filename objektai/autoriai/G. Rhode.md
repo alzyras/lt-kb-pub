@@ -81,4 +81,3 @@ Rhode : RhOP, 172-206 p.; A. Rhode, G.
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/žygis]]
-- [[objektai/vietos/Tanenbergas]]

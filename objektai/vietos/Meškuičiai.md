@@ -53,11 +53,3 @@ Užvirė jami bermontininkai ypač atkaklios kautynės, Tą pačią lapkričio 2
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bermontininkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Pašiaušė]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/ivykiai/Radviliškio kautynės (1919 m. lapkričio 21–22 d.)]]

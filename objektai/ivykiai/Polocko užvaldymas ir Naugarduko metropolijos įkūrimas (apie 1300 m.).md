@@ -65,7 +65,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/asmenys/Vytenis]]
-- [[objektai/vietos/Polockas]]

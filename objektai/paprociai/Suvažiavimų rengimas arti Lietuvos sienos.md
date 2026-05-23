@@ -71,4 +71,3 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/daiktai/Karūna]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lietuva]]

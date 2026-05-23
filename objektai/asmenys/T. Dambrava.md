@@ -103,9 +103,7 @@ Dambravos raiteliai susikauna su atakuojančia švedų kavalerija flanguose. Dam
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Dauguva]]
 - [[objektai/grupes/Sapiegos]]
-- [[objektai/vietos/Viena]]
 - [[objektai/daiktai/Vėliavos]]
 - [[objektai/zodynas/husarai]]
 - [[objektai/zodynas/rotmistras]]

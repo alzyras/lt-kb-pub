@@ -75,7 +75,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/daiktai/Dainavos apygardos kovotojų rankovės antsiuvas]]
 - [[objektai/daiktai/Sovietų automatinis šautuvas AK-74]]
 - [[objektai/daiktai/Sovietų automatinis šautuvas AVS-36]]

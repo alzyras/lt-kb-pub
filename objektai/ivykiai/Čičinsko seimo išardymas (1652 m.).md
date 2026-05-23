@@ -60,7 +60,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lenkija]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Liublinas]]
 - [[objektai/zodynas/unija]]

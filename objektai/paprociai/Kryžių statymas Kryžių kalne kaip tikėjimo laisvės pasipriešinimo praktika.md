@@ -85,9 +85,9 @@ Sovietmečiu Kryžių kalnas tapo tikėjimo laisvės simboliu: valdžiai draudž
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/religinė-praktika]]
+- [[temos/tikėjimas]]
 
 ### Susiję objektai
-- [[objektai/vietos/Kryžių kalnas]]
 - [[objektai/posakiai/lietuviška Golgota]]
 - [[objektai/asmenys/Jonas Paulius II]]
 - [[objektai/ivykiai/Kryžių kalno kryžių naikinimas ir atstatymas (1961 m. ir vėliau)]]

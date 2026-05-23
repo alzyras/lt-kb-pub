@@ -63,4 +63,3 @@ Nenurodyta
 - [[objektai/grupes/Estai]]
 - [[objektai/grupes/Latviai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Rusija]]

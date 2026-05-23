@@ -105,7 +105,5 @@ pavyzdžiui, 1570 m. iš 9 Vilniaus kapitulos kanauninkų vos vienas tebuvo su �
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Dobrogostas]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/kapitula]]
 - [[objektai/asmenys/Urbonas VI]]

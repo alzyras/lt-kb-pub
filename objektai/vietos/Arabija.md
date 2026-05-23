@@ -52,9 +52,3 @@ Labai vaizdžiai ir gyvai ap­ rašyta vieno keliautojo kelionės su įvairiausi
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Afrika]]
-- [[objektai/grupes/Arabai]]
-- [[objektai/zodynas/kelionių romanas]]

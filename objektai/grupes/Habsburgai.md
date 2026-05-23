@@ -237,5 +237,4 @@ Mat, imperatorius norėjo susilpninti Zigmantą, kurs ypatingai rūpinosi, kad H
 - [[objektai/autoriai/Simono Grunau]]
 - [[objektai/asmenys/Vilhelmas Habsburgas]]
 - [[objektai/posakiai/„jogailaičių Europa“ „krikščionybės forpostas“]]
-- [[objektai/vietos/Viena]]
 - [[objektai/grupes/Romanovų dinastija]]

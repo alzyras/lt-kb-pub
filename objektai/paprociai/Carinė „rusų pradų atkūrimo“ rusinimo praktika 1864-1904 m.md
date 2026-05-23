@@ -145,15 +145,16 @@ Nenurodyta
     - t-005
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/tikėjimas]]
+
 ### Susiję objektai
 - [[objektai/zodynas/Baudžiava]]
 - [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/vietos/Rusija]]
 - [[objektai/grupes/Stačiatikiai]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/generalgubernatorius]]
 - [[objektai/zodynas/pradai]]
 - [[objektai/zodynas/rusinimas]]

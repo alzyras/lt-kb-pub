@@ -54,11 +54,3 @@ Karijotaičiai Podolėje pastatė Smotričo, Bakotos, Kameneco pilis, užage —
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Karijotaičiai]]
-- [[objektai/vietos/Podolė]]
-- [[objektai/vietos/Bakota]]
-- [[objektai/vietos/Kameneco pilis|Kameneco pilis (pilis)]]
-- [[objektai/vietos/Bakotos pilis|Bakotos pilis (pilis)]]

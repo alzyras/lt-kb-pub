@@ -85,9 +85,3 @@ Navickaitė-Kuncienė, O. Navickaitė, O.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/vietos/Veršvai]]

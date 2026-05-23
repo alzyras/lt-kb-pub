@@ -70,7 +70,8 @@ tags:
     - t-002
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/elekcija]]
+
 ### Susiję objektai
-- [[objektai/vietos/Viena]]
 - [[objektai/paprociai/Bendri Lietuvos ir Lenkijos seimai]]
-- [[objektai/vietos/Melnikas]]

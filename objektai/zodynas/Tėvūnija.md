@@ -82,10 +82,8 @@ Vartojamos formos: `tėvūnijomis`, `pavietėmis`, `tėvūnu`, `paviete`, `tėv�
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/pavietas]]
 - [[objektai/paprociai/Bajorų pašauktinės kariuomenės mobilizacija]]
-- [[objektai/vietos/Kleckas]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/paprociai/Pavietės karūžojo metinė žemlionų ginklų ir žirgų perveiza]]
 - [[objektai/zodynas/Perveiza|perveiza]]

@@ -109,19 +109,3 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Bazilius (Vasilius) II]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Naugardukas]]
-- [[objektai/vietos/Polockas]]
-- [[objektai/vietos/Sluckas]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/vietos/Viena]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/vietos/Vitebskas]]
-- [[objektai/zodynas/Miera|miera]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
-- [[objektai/asmenys/Petras Šuiskis]]

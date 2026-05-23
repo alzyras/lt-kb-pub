@@ -71,15 +71,11 @@ Jofės prašymą – įrašyti, kad Lietuva ir Sovietų Rusija „niekuomet nebu
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/aktas]]
+- [[temos/tikėjimas]]
 
 ### Susiję objektai
 - [[objektai/grupes/Baltarusiai]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Rusija]]
-- [[objektai/vietos/Sovietų Rusija]]
-- [[objektai/vietos/Viena]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/asmenys/Dominykas Semaško]]
 - [[objektai/asmenys/Simonas Rozenbaumas]]

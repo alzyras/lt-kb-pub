@@ -100,9 +100,3 @@ Amsterdamas, 1650 m.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Vilnius]]
-- [[objektai/vietos/Gdanskas]]
-- [[objektai/zodynas/bajoriškoji demokratija]]

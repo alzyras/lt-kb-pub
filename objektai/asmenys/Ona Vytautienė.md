@@ -127,23 +127,14 @@ Ona Vytautienė šiame korpuse minima kaip antroji Vytauto žmona, iš pradžių
     - t-009
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/dokumentas]]
+
 ### Susiję objektai
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Livonija]]
-- [[objektai/vietos/Malburgas]]
-- [[objektai/vietos/Prūsai]]
-- [[objektai/vietos/Ragainė]]
-- [[objektai/vietos/Rusija]]
-- [[objektai/vietos/Salynas]]
-- [[objektai/vietos/Smolenskas]]
-- [[objektai/vietos/Trakai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/komtūras]]
-- [[objektai/vietos/Astravos dvaras]]
-- [[objektai/vietos/Brasta]]
-- [[objektai/vietos/Daugai]]
 - [[objektai/asmenys/Danuta]]
 - [[objektai/asmenys/Marija (pirmoji Vytauto žmona)]]
-- [[objektai/vietos/Salyno sala]]
 - [[objektai/asmenys/Vygandas von Baldersheimas]]

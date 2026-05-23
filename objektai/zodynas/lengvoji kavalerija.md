@@ -57,12 +57,8 @@ Taktinį pranašumą sąlygojo jų lengvoji kavalerija.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Krymas]]
-- [[objektai/vietos/Perekopas]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/asmenys/Antoine Gramont]]
-- [[objektai/vietos/Krymo pusiasalis]]
-- [[objektai/vietos/Perekopo sąsmauka]]
 - [[objektai/posakiai/gerai užrakinamus Krymo vartus]]
 - [[objektai/zodynas/sunkioji kavalerija]]
 - [[objektai/daiktai/Šarvai]]

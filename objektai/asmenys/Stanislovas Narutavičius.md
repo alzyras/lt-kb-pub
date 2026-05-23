@@ -55,6 +55,4 @@ Kairys, Stanislovas Narutavičius, Jonas Vileišis ir M.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Gabrielis Narutovičius]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]

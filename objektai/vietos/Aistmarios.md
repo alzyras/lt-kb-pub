@@ -101,14 +101,3 @@ Aistmarios šiame veikale minimos kaip vakarinių baltų ir gotų kontaktų erdv
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Baltija]]
-- [[objektai/vietos/Dauguva]]
-- [[objektai/asmenys/Hermanas]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Alnos upė]]
-- [[objektai/grupes/Gotai]]
-- [[objektai/vietos/Pagudė]]
-- [[objektai/vietos/Prūsai]]

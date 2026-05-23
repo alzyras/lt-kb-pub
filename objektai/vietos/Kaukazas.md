@@ -48,11 +48,3 @@ Jos nešėjai indoeuropiečiai nebuvo Europoje autochtonai, nes jie buvo atke­ 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Europa]]
-- [[objektai/vietos/Rusija]]
-- [[objektai/vietos/Ukraina]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/vietos/Pietų Rusija]]

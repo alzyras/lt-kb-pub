@@ -57,5 +57,3 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
-- [[objektai/vietos/Radviliškis]]
-- [[objektai/vietos/Užpelkiai]]

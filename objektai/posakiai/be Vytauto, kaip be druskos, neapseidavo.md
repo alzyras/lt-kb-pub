@@ -56,5 +56,4 @@ Bet keisčiausia tai, kad toji pati bajorija, kuri be Vytauto, kaip be druskos, 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lenkija]]
 - [[objektai/grupes/Lenkai]]

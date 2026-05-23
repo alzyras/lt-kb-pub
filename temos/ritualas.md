@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 8.
+Objektų skaičius: 7.
 
 ## Kaip naudoti
 
@@ -27,9 +27,6 @@ Objektų skaičius: 8.
 ### Papročiai
 - [[objektai/paprociai/Pagoniškosios Lietuvos tikybinės apeigos]]
 - [[objektai/paprociai/Prezidento A. Smetonos iškilmingos kelionės po miestelius ir sutikimo vartų ceremonijos]]
-
-### Vietos
-- [[objektai/vietos/Vytauto Didžiojo karo muziejus]]
 
 ### Įvykiai
 - [[objektai/ivykiai/Kėdainių-Šėtos kautynės]]

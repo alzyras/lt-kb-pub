@@ -110,11 +110,5 @@ Dusburgietis pažymi, kad „keturi tūkstančiai lietuvių“ niokojo Kuršo ž
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Kuršas]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Piltenė]]
-- [[objektai/vietos/Prūsija]]
-- [[objektai/vietos/Ryga]]
-- [[objektai/vietos/Semba]]
 - [[objektai/zodynas/Miera|miera]]

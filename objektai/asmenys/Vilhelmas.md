@@ -79,8 +79,5 @@ Vilhelmas iš Krokuvos pilies buvo išvytas; Jadvyga, norėjusi pas jį pabėgti
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Austrija]]
-- [[objektai/vietos/Lenkija]]
 - [[objektai/ivykiai/Lietuvos nepriklausomybės pripažinimo aktas (1918 m. kovo 23 d.)]]
-- [[objektai/vietos/Prūsų žemė]]
 - [[objektai/zodynas/bažnytinė valstybė]]

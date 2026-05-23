@@ -108,14 +108,3 @@ Isteris pateikiamas kaip viena iš didžiųjų upių, tekančių iš tos pačios
 
 ## Pastabos
 Sujungta, nes šaltinis aiškiai sako `Isteris, arba Dunojus`.
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Druska]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Možaiskas]]
-- [[objektai/grupes/Vengrai]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/zodynas/Įšleitė|įšleitė]]
-- [[objektai/vietos/Žalioji giria]]
-- [[objektai/vietos/Viena]]

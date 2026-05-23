@@ -56,7 +56,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Kahalai]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuvos žydų taryba (Vaad)]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/zodynas/kahalai sėslumo riba]]

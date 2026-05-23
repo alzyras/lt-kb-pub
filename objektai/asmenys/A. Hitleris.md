@@ -78,7 +78,6 @@ Hitleris, o 1934 m. po perversmų įsitvirtino autoritariniai režimai Estijoje 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lenkija]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/SA smogikai]]

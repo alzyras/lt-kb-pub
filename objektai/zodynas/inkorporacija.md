@@ -110,7 +110,6 @@ Terminas pasitelkiamas atpasakoti vieną akto aiškinimą ir tuoj pat jam polemi
 - [[temos/teisinis-terminas]]
 
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/lenas]]
 - [[objektai/zodynas/aneksija]]

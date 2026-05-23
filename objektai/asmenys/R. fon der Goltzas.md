@@ -77,8 +77,4 @@ fon der Goltzq. von der Goltzas buvo pakeistas gen.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Baltija]]
-- [[objektai/vietos/Latvija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Vokietija]]
 - [[objektai/grupes/Vokiečiai]]

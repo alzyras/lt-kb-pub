@@ -208,14 +208,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Europa]]
 - [[objektai/autoriai/Kazimieras Semenavičius]]
-- [[objektai/vietos/Krokuva]]
-- [[objektai/vietos/Maskva]]
-- [[objektai/vietos/Peterburgas]]
 - [[objektai/asmenys/Steponas]]
 - [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
 - [[objektai/grupes/Vilniaus universitetas]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/vietos/Čekija]]
-- [[objektai/vietos/Šv. Jonų bažnyčia]]

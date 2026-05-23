@@ -45,5 +45,4 @@ Sovietų valdžia noriai statė ir investavo Lietuvoje ir dėl to, kad į Maskv�
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/daiktai/Lagaminai rūkytų dešrų ir kumpių]]

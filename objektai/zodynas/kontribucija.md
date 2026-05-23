@@ -128,14 +128,9 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Respublikonai]]
-- [[objektai/vietos/Valkininkai]]
 - [[objektai/ivykiai/Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/hegemonija]]
-- [[objektai/vietos/Didysis Naugardas]]
 - [[objektai/asmenys/Martynas V]]
-- [[objektai/vietos/Naugardas]]
-- [[objektai/vietos/Porchovas]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/ivykiai/Vytauto žygis į Naugardą (1428 m. vasara)]]

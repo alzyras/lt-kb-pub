@@ -41,13 +41,3 @@ Atšilimo laikotarpiu Lietuvoje pagal sovietinį modelį vykstant sparčiai indu
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Ignalinos atominė elektrinė]]
-- [[objektai/vietos/Jonava]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Mažeikiai]]
-- [[objektai/zodynas/atšilimas]]
-- [[objektai/vietos/Kauno HES]]
-- [[objektai/vietos/Mažeikių naftos perdirbimo įmonė]]

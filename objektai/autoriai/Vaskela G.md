@@ -41,6 +41,4 @@ Vaskela G.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/Žemės reforma]]
-- [[objektai/vietos/Vilnius]]

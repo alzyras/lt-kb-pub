@@ -42,11 +42,3 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Kaunas]]
-- [[objektai/ivykiai/Nežinomo kareivio palaidojimas Kaune (1934 m. lapkričio 23 d.)]]
-- [[objektai/daiktai/Paminklas Žuvusiems už Lietuvos laisvę]]
-- [[objektai/zodynas/Žuvusių karių kultas]]

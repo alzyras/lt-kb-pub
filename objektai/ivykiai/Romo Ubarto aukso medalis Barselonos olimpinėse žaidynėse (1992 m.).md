@@ -54,6 +54,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Barselona]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Romas Ubartas]]

@@ -64,5 +64,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lenkija]]
 - [[objektai/grupes/Bermontininkai]]

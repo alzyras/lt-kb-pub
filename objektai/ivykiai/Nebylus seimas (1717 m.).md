@@ -96,9 +96,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Prūsija]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/vietos/Rusija]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/dizunitai]]

@@ -76,15 +76,3 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
 ## Laikotarpis ir datos
 - datos: 1320 m., 1561 m.
 - tipas: jūra / marių baseinas; jūra
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Isteris]]
-- [[objektai/vietos/Kimerija]]
-- [[objektai/vietos/Podolė]]
-- [[objektai/zodynas/Įšleitė|įšleitė]]
-- [[objektai/vietos/Dniepras]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/autoriai/J. Andrius]]
-- [[objektai/paprociai/Kailinių dėvėjimas žiemą ir vasarą, vasarą išvirkščius]]
-- [[objektai/grupes/Skandinavai]]

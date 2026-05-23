@@ -51,6 +51,4 @@ Kultūra plėtota pagal sovietų principą „tautinė pagal formą, socialistin
 ### Susiję objektai
 - [[objektai/asmenys/V. Leninas]]
 - [[objektai/asmenys/Vladimiras Leninas]]
-- [[objektai/vietos/SSRS]]
 - [[objektai/zodynas/Soclageris]]
-- [[objektai/vietos/Čekoslovakija]]

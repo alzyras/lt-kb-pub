@@ -256,5 +256,3 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/ivykiai/Ketverių metų seimas (1788–1792 m.)]]
-- [[objektai/vietos/Muchavecas]]
-- [[objektai/vietos/Salaspilis]]

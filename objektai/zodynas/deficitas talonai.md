@@ -45,7 +45,5 @@ Tačiau tai nereiškė gerovės Lietuvoje – kaip ir visoje SSRS parduotuvės b
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/SSRS]]
 - [[objektai/daiktai/Deficitinės vartojimo prekės]]
 - [[objektai/paprociai/Sovietinio deficito eilės ir talonų laukimas]]

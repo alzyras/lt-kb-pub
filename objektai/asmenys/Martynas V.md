@@ -248,19 +248,10 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Breslavas]]
-- [[objektai/vietos/Gniezno]]
 - [[objektai/grupes/Husitai]]
-- [[objektai/vietos/Kamiencas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Livonija]]
-- [[objektai/vietos/Rusija]]
-- [[objektai/vietos/Ryga]]
-- [[objektai/vietos/Sūdavija]]
 - [[objektai/zodynas/kontribucija]]
 - [[objektai/grupes/Čekai]]
-- [[objektai/vietos/Čekija]]
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/zodynas/indulgencija]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

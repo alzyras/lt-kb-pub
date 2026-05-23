@@ -74,7 +74,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/daiktai/Artilerija]]
 - [[objektai/daiktai/Ietys]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/daiktai/Akstys]]
 - [[objektai/daiktai/Balnakilpės]]
 - [[objektai/daiktai/Dviašmenis kalavijas]]

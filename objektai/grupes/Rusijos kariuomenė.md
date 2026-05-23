@@ -110,15 +110,10 @@ Netrukus į pagalbą konfederatams atėjo Rusijos kariuomenė: gegužės 22-ąj�
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Ašmena]]
 - [[objektai/grupes/Kazokai]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/vietos/Rusija]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/daiktai/Alebardos]]
 - [[objektai/asmenys/Juozapas Bielakas]]
 - [[objektai/asmenys/Karolis Moravskis]]
@@ -128,5 +123,3 @@ Netrukus į pagalbą konfederatams atėjo Rusijos kariuomenė: gegužės 22-ąj�
 - [[objektai/asmenys/Severinas Ževuckis]]
 - [[objektai/ivykiai/Vilniaus užėmimas (1655 m. rugpjūčio 7 d.)]]
 - [[objektai/daiktai/Vokiškojo tipo alebarda]]
-- [[objektai/vietos/Saksonija]]
-- [[objektai/vietos/Targovica]]

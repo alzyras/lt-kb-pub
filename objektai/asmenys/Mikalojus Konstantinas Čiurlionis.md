@@ -171,15 +171,6 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kaunas]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Pažaislis]]
-- [[objektai/vietos/Varšuva]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/vietos/Kauno įgulos bažnyčia]]
-- [[objektai/vietos/Leipcigas]]
-- [[objektai/vietos/Pažaislio vienuolynas]]
-- [[objektai/vietos/Visų Šventųjų bažnyčia]]
 - [[objektai/zodynas/destalinizacija atšilimo laikotarpis]]
 - [[objektai/zodynas/destalinizacija postalininis metas atšilimo laikotarpis]]
-- [[objektai/vietos/Šv. Jonų bažnyčia]]

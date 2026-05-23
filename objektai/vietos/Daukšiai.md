@@ -78,19 +78,3 @@ Prie Daukšių bazavosi „Muškietininkų“ būrys, vadovaujamas Vlado Gavėno
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Buktos (Žaliosios) miškas]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/asmenys/Motiejus]]
-- [[objektai/grupes/Daukšių būrys]]
-- [[objektai/grupes/Edvardo Lajaus būrys]]
-- [[objektai/grupes/Gedimino būrys]]
-- [[objektai/grupes/Juozo Pandeikos būrys]]
-- [[objektai/grupes/Jurgio Lajaus būrys]]
-- [[objektai/grupes/Klarko būrys]]
-- [[objektai/grupes/Kosto Barkausko būrys]]
-- [[objektai/grupes/Muškietininkų būrys]]
-- [[objektai/vietos/Žuvinto palios]]
-- [[objektai/grupes/Žuvinto-Palių junginys]]

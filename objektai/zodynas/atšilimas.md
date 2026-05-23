@@ -49,11 +49,6 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kalvarija]]
-- [[objektai/vietos/Šiluva]]
-- [[objektai/vietos/Jonavos azotinių trąšų gamykla]]
-- [[objektai/vietos/Kauno HES]]
-- [[objektai/vietos/Mažeikių naftos perdirbimo įmonė]]
 - [[objektai/daiktai/Varpai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Balys Sruoga]]
@@ -61,5 +56,4 @@ tags:
 - [[objektai/asmenys/Vincas Mykolaitis-Putinas]]
 - [[objektai/zodynas/destalinizacija atšilimo laikotarpis]]
 - [[objektai/zodynas/destalinizacija postalininis metas atšilimo laikotarpis]]
-- [[objektai/vietos/Žemaičių Kalvarija]]
 - [[objektai/posakiai/„kiaulių marą“]]

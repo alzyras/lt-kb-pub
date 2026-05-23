@@ -157,18 +157,3 @@ Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntiniu
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Dniepras]]
-- [[objektai/vietos/Kijevas]]
-- [[objektai/vietos/Krokuva]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Prūsija]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/vietos/Suvalkai]]
-- [[objektai/vietos/Suvalkų kraštas|Suvalkų kraštas (kraštas)]]
-- [[objektai/vietos/Trakai]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

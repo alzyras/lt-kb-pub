@@ -105,17 +105,10 @@ Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsil
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Sofija (Vytauto duktė)]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Maskva]]
-- [[objektai/vietos/Odojevas]]
-- [[objektai/vietos/Rusija]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/chanas]]
 - [[objektai/asmenys/Elžbieta]]
-- [[objektai/vietos/Pronskas]]
-- [[objektai/vietos/Smolenskas]]
 - [[objektai/asmenys/Vosylius I]]
-- [[objektai/vietos/Zna]]
 - [[objektai/zodynas/regencija]]
 - [[objektai/asmenys/Andrius Vosylius Jastrzębiecas]]
 - [[objektai/asmenys/Vosylius II]]

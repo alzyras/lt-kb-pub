@@ -62,8 +62,6 @@ vyko įveikti destrukcijos planus – 1919 m. rugpjūtį lietuvių žvalgyba are
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bermontininkai]]
-- [[objektai/vietos/Kaunas]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lenkija]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

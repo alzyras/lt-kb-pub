@@ -46,6 +46,5 @@ Tačiau sovietai, vadovaujami Adolfo Jofės (Adolf Joffe), traktavo Lietuvą kai
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Maskva]]
+### Teminiai klasteriai
+- [[temos/dokumentas]]

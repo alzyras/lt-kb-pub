@@ -56,7 +56,4 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Vilnius]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/vietos/Amsterdamas]]
-- [[objektai/vietos/Gdanskas]]

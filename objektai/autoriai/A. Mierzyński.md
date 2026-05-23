@@ -72,7 +72,3 @@ Mierzyński, Źródła do mitolog, lit., I, II (1892, 1896); H.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Lietuva]]

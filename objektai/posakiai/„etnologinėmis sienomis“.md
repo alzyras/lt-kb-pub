@@ -49,11 +49,12 @@ Vienbalsiai priimtas Lietuvos valstybės nepriklausomybės proklamavimo dokument
 
 ## Ryšiai
 ### Teminiai klasteriai
+- [[temos/aktas - dokumentas]]
 - [[temos/aktas]]
+- [[temos/dokumentas]]
 
 ### Susiję objektai
 - [[objektai/asmenys/Aleksandras]]
 - [[objektai/asmenys/Aleksandras Stulginskis|Aleksandras Stulginskis (Lietuvos prezidentas)]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Kazys Grinius]]

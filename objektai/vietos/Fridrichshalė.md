@@ -39,9 +39,3 @@ Naujo karo metu Karolis ir žuvo (1718 m.), imdamas Norvegijoje Fridrichshalės 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
-- [[objektai/vietos/Norvegija]]
-- [[objektai/vietos/Švedija]]

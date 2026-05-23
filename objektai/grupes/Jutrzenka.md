@@ -47,6 +47,5 @@ tags:
 
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lenkija]]
 - [[objektai/grupes/Oswiata]]
 - [[objektai/grupes/Pochodnia]]

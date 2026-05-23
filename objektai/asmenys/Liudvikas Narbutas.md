@@ -55,9 +55,7 @@ Vilniaus apskrityje veikę Liudviko Narbuto vadovaujami sukilėliai kovėsi su r
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kaunas]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/gubernija]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/ivykiai/Rūdninkų ir Dubičių kautynės]]

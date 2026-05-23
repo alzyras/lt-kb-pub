@@ -47,5 +47,4 @@ Naujoji tvarka daugiau teisių suteikė sąjunginėms respublikoms: jos tvirtino
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/ivykiai/Regioninių Liaudies ūkio tarybų įsteigimas (1957 m.)]]

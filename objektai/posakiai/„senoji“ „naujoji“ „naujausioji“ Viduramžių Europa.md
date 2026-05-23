@@ -42,6 +42,4 @@ Paprastai Viduramžių Europa tapatinama su Vakarų Europa.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Europa]]
-- [[objektai/vietos/Prūsai]]
 - [[objektai/grupes/Lietuviai]]

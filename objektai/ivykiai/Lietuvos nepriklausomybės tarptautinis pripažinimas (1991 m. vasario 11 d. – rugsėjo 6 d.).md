@@ -82,10 +82,6 @@ Nenurodyta
 - [[temos/laidotuvės]]
 
 ### Susiję objektai
-- [[objektai/vietos/Baltija]]
 - [[objektai/posakiai/Gorbis ar Lietuva]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Maskva]]
-- [[objektai/vietos/SSRS]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Michailas Gorbačiovas]]

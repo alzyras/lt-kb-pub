@@ -102,13 +102,7 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kaunas]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/vietos/Ispanija]]
 - [[objektai/autoriai/V. Pisani]]
 - [[objektai/autoriai/W. Schmidt]]
-- [[objektai/vietos/Žemaičių kraštas|Žemaičių kraštas (kraštas)]]
-- [[objektai/vietos/Marijampolė]]
-- [[objektai/vietos/Viena]]
 - [[objektai/daiktai/Šarvai]]

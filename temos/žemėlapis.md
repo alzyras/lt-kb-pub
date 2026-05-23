@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 18.
+Objektų skaičius: 15.
 
 ## Kaip naudoti
 
@@ -37,11 +37,6 @@ Objektų skaičius: 18.
 
 ### Posakiai
 - [[objektai/posakiai/„Lithuania Propria“]]
-
-### Vietos
-- [[objektai/vietos/Oberostas]]
-- [[objektai/vietos/Trakų pilis|Trakų pilis (pilis)]]
-- [[objektai/vietos/Varšuvos kunigaikštystė]]
 
 ### Įvykiai
 - [[objektai/ivykiai/Sarajevo atentatas ir Pirmojo pasaulinio karo pradžia]]

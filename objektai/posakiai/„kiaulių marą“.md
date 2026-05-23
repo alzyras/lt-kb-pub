@@ -49,7 +49,4 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kalvarija]]
-- [[objektai/vietos/Šiluva]]
 - [[objektai/zodynas/atšilimas]]
-- [[objektai/vietos/Žemaičių Kalvarija]]

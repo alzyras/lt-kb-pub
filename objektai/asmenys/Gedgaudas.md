@@ -59,7 +59,5 @@ Kai sužinojo, kad kryžiuočių pasiuntinys, Tomo komtūras, atvyko pas Jogail�
 
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Lenčica]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/maršalka]]
 - [[objektai/zodynas/vaivada]]

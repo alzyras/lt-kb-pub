@@ -78,5 +78,4 @@ Daugudis, V. Daugudis, V.: Mažulonių piliakalnis , ILKI, t.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis]]

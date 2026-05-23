@@ -49,5 +49,4 @@ Dalyva­ vimas valachų Vytauto būriuose leidžia tarti, jog jis Dniepro žemu�
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Dniepras]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

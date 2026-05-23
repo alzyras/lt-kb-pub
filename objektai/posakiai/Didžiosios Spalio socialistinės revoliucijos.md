@@ -60,5 +60,4 @@ To tomo uždavinys yra parodyti, kaip «Didžiosios Spalio socialistinės revoli
 - [[temos/aktas]]
 
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]

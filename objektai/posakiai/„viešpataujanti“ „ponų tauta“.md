@@ -48,9 +48,6 @@ Naciai SSRS ir jos okupuotų kraštų gyventojus laikė atsilikusiomis tautomis,
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Baltija]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/SSRS]]
-- [[objektai/vietos/Vokietija]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/savismauga]]

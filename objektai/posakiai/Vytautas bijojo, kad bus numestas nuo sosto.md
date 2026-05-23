@@ -54,9 +54,6 @@ Kronikininko žodžiais, «Vytautas ėmė smarkiai bijoti, kad karaliui (Jogaila
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Livonija]]
-- [[objektai/vietos/Prūsija]]
-- [[objektai/vietos/Sūduva]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]

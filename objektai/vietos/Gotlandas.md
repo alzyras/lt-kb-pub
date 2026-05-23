@@ -75,23 +75,3 @@ Archeolo­ giniai duomens parodo apie 650 m. prasidedančią didelę švedų eks
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/laiškas]]
-
-### Susiję objektai
-- [[objektai/vietos/Durbė]]
-- [[objektai/grupes/Hanza]]
-- [[objektai/grupes/Pranciškonų ordinas]]
-- [[objektai/grupes/Romai]]
-- [[objektai/vietos/Vokietija]]
-- [[objektai/zodynas/ekspansija]]
-- [[objektai/grupes/Švedai]]
-- [[objektai/vietos/Greifsvaldas]]
-- [[objektai/vietos/Grobinė]]
-- [[objektai/vietos/Sauslaukė]]
-- [[objektai/vietos/Seeburgas]]
-- [[objektai/vietos/Visbis]]
-- [[objektai/vietos/Štetinas]]
-- [[objektai/vietos/Švedija]]

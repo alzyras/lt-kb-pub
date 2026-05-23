@@ -46,8 +46,6 @@ Tačiau ir tomis sudėtingomis sąlygomis iškilo Vilniaus romantizmo mokykla, k
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Europa]]
 - [[objektai/daiktai/Herbas]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/daiktai/Herbai]]
 - [[objektai/grupes/Vilniaus romantizmo mokykla]]

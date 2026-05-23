@@ -47,8 +47,4 @@ bent jau Vilnius prilygo, o gal net pradėjo lenkti (Vilniaus kaip „Lietuvos J
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Armėnai]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Liublinas]]
-- [[objektai/vietos/Lvovas]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/grupes/Žydai]]

@@ -55,6 +55,4 @@ Tiergard’as reiškė tą pačią nuomonę.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Livonija]]
-- [[objektai/vietos/Prūsai]]
 - [[objektai/zodynas/magistras]]

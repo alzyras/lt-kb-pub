@@ -280,15 +280,10 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Dobrynė]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Kujavija]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Luckas]]
 - [[objektai/zodynas/Suverenitetas]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/grupes/Vengrai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/unija]]
 - [[objektai/zodynas/vasalas]]
-- [[objektai/vietos/Breslavas]]

@@ -51,6 +51,4 @@ tags:
 - [[temos/redaktorius]]
 
 ### Susiję objektai
-- [[objektai/vietos/Bulgarija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Vokiečiai]]

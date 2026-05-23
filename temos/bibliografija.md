@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 11.
+Objektų skaičius: 9.
 
 ## Kaip naudoti
 
@@ -25,10 +25,6 @@ Objektų skaičius: 11.
 - [[objektai/autoriai/M. Szameitat]]
 - [[objektai/autoriai/P. Rėklaitis]]
 - [[objektai/autoriai/S. Baltramaitis]]
-
-### Vietos
-- [[objektai/vietos/Danville]]
-- [[objektai/vietos/Memmingenas]]
 
 ### Žodynas
 - [[objektai/zodynas/bibliografiniai rinkiniai bibliografinis rinkinys]]

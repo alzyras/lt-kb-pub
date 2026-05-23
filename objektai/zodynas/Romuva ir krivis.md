@@ -43,5 +43,3 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Aukuras]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Romuva]]

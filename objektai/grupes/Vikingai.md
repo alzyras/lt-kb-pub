@@ -73,12 +73,7 @@ Ilgainiui paliai šitą kelią atsirado vikingų sodybų: tai buvo sodybos žmon
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Bizantija]]
-- [[objektai/vietos/Dauguva]]
-- [[objektai/vietos/Dniepras]]
-- [[objektai/vietos/Europa]]
 - [[objektai/zodynas/Eistr]]
-- [[objektai/vietos/Gudijos plotai]]
 - [[objektai/paprociai/Kuršių plėšiamieji žygiai į Danijos ir Švedijos pakrantes]]
 - [[objektai/grupes/Skandinavai]]
 - [[objektai/ivykiai/Vikingų įsigalėjimas aisčių kraštuose ir jų sodybų sunaikinimas]]

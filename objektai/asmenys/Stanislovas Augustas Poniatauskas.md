@@ -46,6 +46,5 @@ Stanislovo Augusto išrinkimas ir tarpuvaldžio kovos. Tuo metu Čartoriskiai pa
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Radomas]]
 - [[objektai/grupes/Čartoriskiai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

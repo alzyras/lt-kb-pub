@@ -219,5 +219,4 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
 - [[temos/privilegija]]
 
 ### Susiję objektai
-- [[objektai/vietos/Europa]]
 - [[objektai/zodynas/protestantizmas]]

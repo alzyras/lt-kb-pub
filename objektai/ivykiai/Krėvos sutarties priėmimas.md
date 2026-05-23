@@ -101,10 +101,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
-- [[objektai/vietos/Krėva]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/posakiai/„prišlieti“]]
 - [[objektai/grupes/Vokiečiai]]

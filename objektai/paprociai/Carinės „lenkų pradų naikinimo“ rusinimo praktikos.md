@@ -79,9 +79,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Liublinas]]
-- [[objektai/vietos/Rusija]]
 - [[objektai/zodynas/unija]]
 - [[objektai/zodynas/lenkų pradų naikinimo politika]]
 - [[objektai/zodynas/pradai]]

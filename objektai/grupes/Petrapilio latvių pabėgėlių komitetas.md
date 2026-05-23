@@ -49,9 +49,6 @@ Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri k
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Latviai]]
-- [[objektai/vietos/Latvija]]
-- [[objektai/vietos/Petrapilis]]
-- [[objektai/vietos/Rusija]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/grupes/Tautos taryba|Tautos taryba (institucija)]]
 - [[objektai/grupes/Latvių Tautos Taryba|Latvių Tautos Taryba (institucija)]]

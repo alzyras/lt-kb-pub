@@ -160,7 +160,6 @@ Taip pat buvo jam paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susit
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Krymas]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/asmenys/Mykolas Borisovičius Šeina]]
 - [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.)]]

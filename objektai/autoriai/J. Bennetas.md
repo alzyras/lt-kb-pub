@@ -62,9 +62,5 @@ Benneto veikalo „Viešpaties dešinės galybė“, 1674) 2 skyrius • L E N K
 - [[temos/laiškas]]
 
 ### Susiję objektai
-- [[objektai/vietos/Chotynas]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/ivykiai/Chotyno mūšis|Chotyno mūšis (mūšis)]]

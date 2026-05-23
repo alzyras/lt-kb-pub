@@ -120,9 +120,11 @@ Nenurodyta
     - t-003
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/dokumentas]]
+
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
 - [[objektai/grupes/NKVD]]
 - [[objektai/zodynas/karinė teritorinė pasipriešinimo judėjimo struktūra]]

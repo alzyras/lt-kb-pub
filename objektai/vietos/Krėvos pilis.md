@@ -112,20 +112,3 @@ Jogaila su savo broliais ją priėmė Krėvos pilyje. Tenai Jogaila patvirtino v
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/vietos/Gardinas]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
-- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
-- [[objektai/vietos/Kaunas]]
-- [[objektai/vietos/Kijevo Rusia]]
-- [[objektai/vietos/Krėva]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/asmenys/Mindaugas]]
-- [[objektai/vietos/Polockas]]
-- [[objektai/vietos/Pskovas]]
-- [[objektai/vietos/Voluinė]]
-- [[objektai/vietos/Medininkų pilis|Medininkų pilis (pilis)]]

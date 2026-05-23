@@ -99,16 +99,3 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Antanas Šukys]]
-- [[objektai/ivykiai/Augustavo-Suvalkų operacija]]
-- [[objektai/vietos/Eglainė]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Pilėnai]]
-- [[objektai/vietos/Radomas]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/zodynas/viršila]]
-- [[objektai/grupes/6-asis pėstininkų Pilėnų Kunigaikščio Margio pulkas]]
-- [[objektai/asmenys/Jonas Kuklieris]]

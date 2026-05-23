@@ -62,7 +62,6 @@ Vartojamos formos: `perveizėjo`, `perveizos`.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/Tėvūnija|tėvūnija]]
 - [[objektai/zodynas/vėliava]]
 - [[objektai/grupes/Žemlionys]]

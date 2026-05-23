@@ -81,9 +81,7 @@ Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose. Dlugošas, kuris 14
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Konstanca]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/posakiai/Vakkis Ahridlis]]
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/asmenys/Andrius Vosylius Jastrzębiecas]]
@@ -92,8 +90,6 @@ Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose. Dlugošas, kuris 14
 - [[objektai/ivykiai/Kęstučio žūtis Krėvos kalėjime (1382 m.)]]
 - [[objektai/daiktai/Patrankos]]
 - [[objektai/asmenys/Spytkas iš Melsztyno]]
-- [[objektai/vietos/Ukra]]
-- [[objektai/vietos/Upytė]]
 - [[objektai/daiktai/Vėliavos]]
 - [[objektai/asmenys/Zbignievo Olesnickio]]
 - [[objektai/posakiai/Kęstutis buvo vyras karingas ir tiesiakalbis]]

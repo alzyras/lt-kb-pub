@@ -87,7 +87,6 @@ Postalininiu metu atsisakius masinio fizinio teroro, ne taip atvirai ir masiška
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis|Mikalojus Konstantinas Čiurlionis (dailininkas)]]
 - [[objektai/zodynas/atšilimas]]

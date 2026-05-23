@@ -42,6 +42,5 @@ Todėl kartais Lietuvos didvalstybė vadinama „aksomine imperija“.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/didvalstybė]]
 - [[objektai/zodynas/hegemonija]]

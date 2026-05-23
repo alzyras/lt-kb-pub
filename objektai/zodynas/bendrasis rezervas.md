@@ -81,7 +81,5 @@ BECAS turėjo vykti Katinų | Bendrasis rezervas (vadas - karin. Rezervas parėm
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/J. Reikala]]
-- [[objektai/vietos/Katinai]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/rezervas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

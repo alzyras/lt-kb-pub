@@ -79,18 +79,9 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kalavijuočių ordinas]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Livonija]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/vietos/Aizkrauklė]]
-- [[objektai/vietos/Burtnieko ežeras]]
-- [[objektai/vietos/Latgalija]]
 - [[objektai/grupes/Latviai]]
 - [[objektai/posakiai/Liet’gola Lethi vel Lethigalli]]
-- [[objektai/vietos/Tornas]]
 - [[objektai/asmenys/Vaclovas Čekietis]]
-- [[objektai/vietos/Vidžemė]]
 - [[objektai/zodynas/apsiaustis]]
-- [[objektai/vietos/Dauguva]]
-- [[objektai/vietos/Rittersverderis]]

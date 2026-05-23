@@ -103,7 +103,6 @@ Nenurodyta
 - [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
 - [[objektai/daiktai/Karūna]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Płockas]]
 - [[objektai/asmenys/Stanislovas Ciołek]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Ziemovitas]]

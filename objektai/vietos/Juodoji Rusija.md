@@ -95,11 +95,3 @@ vadinamoji Juodoji Rusija su Naugarduku, Slanimu ir Volkovisku), kurį buvo už�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Nemunas]]
-- [[objektai/vietos/Rusija]]
-- [[objektai/vietos/Slanimas]]
-- [[objektai/vietos/Naugardukas]]

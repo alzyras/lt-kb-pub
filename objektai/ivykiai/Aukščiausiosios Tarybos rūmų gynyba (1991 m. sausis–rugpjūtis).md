@@ -407,5 +407,3 @@ Nenurodyta
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Vygantas Jocius]]
 - [[objektai/autoriai/Švedas V]]
-- [[objektai/vietos/Nacionalinė M. Mažvydo biblioteka]]
-- [[objektai/vietos/Žvėryno tiltas]]

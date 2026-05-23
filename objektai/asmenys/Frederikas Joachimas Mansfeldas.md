@@ -82,10 +82,5 @@ Mansfeldo kavaleristams iš flango ir suduoda stiprų smūgį. 1608 m. vasarą L
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Daugavgryva]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Livonija]]
-- [[objektai/vietos/Ryga]]
 - [[objektai/zodynas/flangas]]
 - [[objektai/zodynas/raitarai]]
-- [[objektai/vietos/Švedija]]

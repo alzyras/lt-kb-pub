@@ -51,10 +51,3 @@ Su Švedijos uostu Birka (= Bjaerko ») jie palaiką santykius, patys savo laiva
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Laivai]]
-- [[objektai/grupes/Sembai]]
-- [[objektai/posakiai/homines humanissimi]]
-- [[objektai/vietos/Švedija]]

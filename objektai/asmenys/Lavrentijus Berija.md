@@ -47,6 +47,4 @@ Berija ir apie ką jie kalbėjo, iki šiol nežinoma.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/SSRS]]
 - [[objektai/zodynas/maršalas]]
-- [[objektai/vietos/Lietuva]]

@@ -81,9 +81,6 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Liublinas]]
-- [[objektai/vietos/Viena]]
 - [[objektai/zodynas/unija]]
 - [[objektai/grupes/Didžioji Lietuvos kunigaikštystė]]

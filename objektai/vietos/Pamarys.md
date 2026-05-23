@@ -109,9 +109,3 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Dancigas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Pamaris]]

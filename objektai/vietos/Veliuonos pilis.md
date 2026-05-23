@@ -55,17 +55,3 @@ Kuchmeisteriui pareiškus, kad Lietuva nesilaikanti Torunės sutarties sąlygų,
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/laiškas]]
-
-### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Prūsai]]
-- [[objektai/vietos/Torunė]]
-- [[objektai/vietos/Veliuona]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/vietos/Naujasis Kaunas]]
-- [[objektai/vietos/Trapėnai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

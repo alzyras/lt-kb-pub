@@ -47,18 +47,3 @@ Pagrindinė priešo vora slinko iš Vilniaus pro Trakus, | | Aukštadvarį ir pa
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Kaunas]]
-- [[objektai/vietos/Panemunė]]
-- [[objektai/vietos/Viena]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/vora]]
-- [[objektai/grupes/6-asis pėstininkų Pilėnų Kunigaikščio Margio pulkas]]
-- [[objektai/autoriai/Archeologai ir priešistorės tyrėjai]]
-- [[objektai/vietos/Butrimonys]]
-- [[objektai/posakiai/traukiniais į Maskvą]]
-- [[objektai/vietos/Jieznas]]
-- [[objektai/vietos/Trakai]]

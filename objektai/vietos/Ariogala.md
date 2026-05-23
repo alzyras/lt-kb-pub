@@ -210,21 +210,3 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-012
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Betygala]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Mindaugas]]
-- [[objektai/vietos/Ariogalos kraštas|Ariogalos kraštas (kraštas)]]
-- [[objektai/vietos/Daugėliškių miškas]]
-- [[objektai/vietos/Kulių (Jurgaičių) pilys]]
-- [[objektai/vietos/Kuršių marios]]
-- [[objektai/vietos/Lesčiai]]
-- [[objektai/vietos/Medininkų žemė]]
-- [[objektai/autoriai/Petras Suchenwirt]]
-- [[objektai/vietos/Vilkija]]
-- [[objektai/ivykiai/Vėjukų srities nusiaubimas ir Raseinių bei Ariogalos sričių gaisrai (1322 m.)]]
-- [[objektai/zodynas/maršalas]]
-- [[objektai/vietos/Šiaurės Žemaitija]]
-- [[objektai/vietos/Raseiniai]]

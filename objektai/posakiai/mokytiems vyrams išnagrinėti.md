@@ -51,5 +51,4 @@ Daug painių klausimų Daukantas paliko, kaip jis pats sakosi, « mokytiems vyra
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/autoriai/S. Daukantas]]

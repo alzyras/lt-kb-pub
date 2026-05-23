@@ -162,18 +162,10 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
-- [[objektai/vietos/Nemunas]]
-- [[objektai/vietos/Birka (Švedijos uostas)]]
 - [[objektai/ivykiai/Junigėdos puolimas laivu ir Surmino kontrataka (1313 m.)]]
 - [[objektai/ivykiai/Kuršių sukilimas prieš danus (853 m.)]]
-- [[objektai/vietos/Paidė]]
 - [[objektai/autoriai/Rimbertas]]
 - [[objektai/autoriai/Rimberto, Rimbertas]]
-- [[objektai/vietos/Salacgryva]]
-- [[objektai/vietos/Semba]]
-- [[objektai/vietos/Viljandis]]
 - [[objektai/ivykiai/Vilniaus apgultis ir mūšiai prie Rudaminos (1394 m. vasara)]]
 - [[objektai/ivykiai/Vytauto paliaubos ir taikos derybos su Livonijos ordinu (1410 m. vasara)]]
 - [[objektai/ivykiai/Vytenio žygis į Sembą, Natangą ir Varmę bei pralaimėjimas Woplaukene (1311 m.)]]
-- [[objektai/vietos/Kauno pilis|Kauno pilis (pilis)]]
-- [[objektai/vietos/Trapėnai]]

@@ -104,6 +104,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/daiktai/Šarvai]]
 - [[objektai/daiktai/Karinė ginkluotė]]

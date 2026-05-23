@@ -42,14 +42,3 @@ Iškylanti Rusija Šiaurės karo metu (1700–1721) sutriuškino Švedijos karal
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Baltija]]
-- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
-- [[objektai/vietos/Livonija]]
-- [[objektai/vietos/Rusija]]
-- [[objektai/vietos/Ryga]]
-- [[objektai/vietos/Švedija]]
-- [[objektai/ivykiai/Kėdainių sutarties sudarymas su Švedija|Kėdainių sutarties sudarymas su Švedija (sutartis)]]
-- [[objektai/ivykiai/Šiaurės karas]]

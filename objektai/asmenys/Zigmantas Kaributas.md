@@ -153,7 +153,5 @@ Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytautą savo karalium, kuris
 ### Susiję objektai
 - [[objektai/daiktai/Karūna]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Praga]]
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/grupes/Čekai]]
-- [[objektai/vietos/Zakračimas]]

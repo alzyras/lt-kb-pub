@@ -42,17 +42,3 @@ Galicijoje.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Unitai]]
-- [[objektai/zodynas/unija]]
-- [[objektai/vietos/Dobrynė]]
-- [[objektai/asmenys/Kazimieras Didysis]]
-- [[objektai/grupes/Krimo orda]]
-- [[objektai/asmenys/Vladislovas iš Opolės]]
-- [[objektai/vietos/Austrija]]
-- [[objektai/asmenys/Liudvikas]]

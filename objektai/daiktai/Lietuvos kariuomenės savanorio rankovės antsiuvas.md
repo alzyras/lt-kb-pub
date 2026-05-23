@@ -78,11 +78,8 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/J. Mikoliūnas]]
 - [[objektai/daiktai/Karūna]]
-- [[objektai/vietos/Kėdainiai]]
 - [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/Miera|miera]]
-- [[objektai/vietos/Kruopiai]]
 - [[objektai/zodynas/Savanoris]]
 - [[objektai/daiktai/Geltonas lankelis ant kepurės]]

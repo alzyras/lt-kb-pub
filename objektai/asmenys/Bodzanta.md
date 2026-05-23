@@ -55,8 +55,4 @@ Bodzanta Vladislovo vardu.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Gardinas]]
-- [[objektai/vietos/Gniezno]]
-- [[objektai/vietos/Krokuva]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lenkija]]

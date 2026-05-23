@@ -42,8 +42,5 @@ Visų pirma Vytautas nustojo mokėti duoklę mongolams, panaikino senovinę dali
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kijevas]]
-- [[objektai/vietos/Luckas]]
-- [[objektai/vietos/Podolė]]
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

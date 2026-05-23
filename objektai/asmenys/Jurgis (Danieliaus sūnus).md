@@ -60,10 +60,5 @@ Kai dėl įtakos Naugarde varžėsi Tverės ir Maskvos kunigaikščiai, Gedimina
 ### Susiję objektai
 - [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Jonas Kalita]]
-- [[objektai/vietos/Livonija]]
-- [[objektai/vietos/Maskva]]
-- [[objektai/vietos/Naugardas]]
-- [[objektai/vietos/Pskovas]]
 - [[objektai/grupes/Totoriai]]
-- [[objektai/vietos/Tverė]]
 - [[objektai/zodynas/vietininkas]]

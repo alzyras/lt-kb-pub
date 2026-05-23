@@ -57,8 +57,6 @@ Kaip paaiškėjo iš antrojo Medininkų vyskupo Mikalojaus Romedanskio konsekrac
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Gniezno]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Livonija]]
 - [[objektai/zodynas/konsekracija]]
 - [[objektai/zodynas/metropolitas]]

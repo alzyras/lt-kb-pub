@@ -48,6 +48,7 @@ Tačiau Lietuvoje formavosi labai gausi Evangelikų reformatų bažnyčia, gerok
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/didikas]]
+- [[temos/tikėjimas]]
 
 ### Susiję objektai
 - [[objektai/grupes/LDK didikai]]

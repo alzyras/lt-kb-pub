@@ -52,6 +52,3 @@ absoliučia balsų dauguma (124 deputatams balsavus už, nė vienam nebalsavus p
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/aktas]]
-
-### Susiję objektai
-- [[objektai/vietos/Lietuva]]

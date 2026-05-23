@@ -54,8 +54,5 @@ To siekė ir Jogaila, tarpininkaujant abiejų seseriai, Mozūrijos kunigaikštie
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bazelio bažnytinis susirinkimas]]
-- [[objektai/vietos/Bazelis]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Mozūrija]]
 - [[objektai/grupes/Prisikėlimo apygarda]]
 - [[objektai/posakiai/ne tik tavo galvą, bet ir tavo tėvynę Lietuvą]]

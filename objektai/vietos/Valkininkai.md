@@ -174,19 +174,3 @@ Sapiegoms visus jėga tramdant, vis dėlto 1700 m. visam krašte atsirado daugyb
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/grupes/Rytas]]
-- [[objektai/vietos/Paneriai]]
-- [[objektai/grupes/Respublikonai]]
-- [[objektai/vietos/Salaspilis]]
-- [[objektai/vietos/Tabariškės]]
-- [[objektai/grupes/Valkininkų konfederacija]]
-- [[objektai/ivykiai/Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)]]
-- [[objektai/vietos/Vokė]]
-- [[objektai/zodynas/etatiniai vienetai]]
-- [[objektai/zodynas/kontribucija]]
-- [[objektai/zodynas/regimentorius]]
-- [[objektai/vietos/Šnipiškės]]

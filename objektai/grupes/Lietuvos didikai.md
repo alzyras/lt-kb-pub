@@ -59,9 +59,6 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
 - [[temos/didikas]]
 
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/poliublininis laikotarpis]]
-- [[objektai/vietos/Bistrica]]
 - [[objektai/ivykiai/Vilniaus akademijos įkūrimas (1579 m.)]]
-- [[objektai/vietos/Liublinas]]
 - [[objektai/zodynas/unija]]

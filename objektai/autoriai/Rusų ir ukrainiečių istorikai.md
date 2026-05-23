@@ -185,6 +185,4 @@ Odesos universiteto istorikas V. Savo pastabas yra tuo pat metu įdomiai išdės
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kijevas]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Rusai]]

@@ -55,11 +55,3 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
-- [[objektai/vietos/Tauragnai]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/vietos/Malėtai]]
-- [[objektai/vietos/Verkiai]]

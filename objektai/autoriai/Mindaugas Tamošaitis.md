@@ -108,8 +108,4 @@ Mindaugas Tamošaitis nurodytas kaip vienas knygos „Lietuvos istorija“ autor
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/vietos/Europa]]
-- [[objektai/vietos/Europos geografinis centras]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Vilniaus universiteto leidykla]]
-- [[objektai/vietos/Vilnius]]

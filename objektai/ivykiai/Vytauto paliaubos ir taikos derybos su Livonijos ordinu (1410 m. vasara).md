@@ -71,9 +71,6 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/daiktai/Laivai]]
-- [[objektai/vietos/Livonija]]
-- [[objektai/vietos/Marienburgas]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/maršalas]]
-- [[objektai/vietos/Semba]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

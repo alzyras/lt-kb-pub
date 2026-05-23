@@ -87,8 +87,8 @@ tags:
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/aktas]]
+- [[temos/dokumentas]]
+- [[temos/aktas - dokumentas]]
 
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/SSRS]]
 - [[objektai/zodynas/pogrindis pogrindiniai leidiniai nelegali spauda]]

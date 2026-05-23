@@ -67,5 +67,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Dainava]]
 - [[objektai/daiktai/Sovietų automatinis (pusiau automatinis) šautuvas SVT-40]]

@@ -66,12 +66,6 @@ LIETUVOS DIDŽIOJI KUNIGAIKŠTIJA KELYJE VAKARŲ LINK V ytautui valdant buvo pad
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Europa]]
-- [[objektai/vietos/Italija]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
-- [[objektai/vietos/Viena]]
-- [[objektai/vietos/Vokietija]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/posakiai/„Koks didelis Tu ir kokia didelė Tavo tėvynė.“]]

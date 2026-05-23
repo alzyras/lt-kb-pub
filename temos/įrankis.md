@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 11.
+Objektų skaičius: 8.
 
 ## Kaip naudoti
 
@@ -31,8 +31,3 @@ Objektų skaičius: 11.
 
 ### Posakiai
 - [[objektai/posakiai/nei žemės, nei žmonių]]
-
-### Vietos
-- [[objektai/vietos/Katra]]
-- [[objektai/vietos/Merkys]]
-- [[objektai/vietos/Ūla]]

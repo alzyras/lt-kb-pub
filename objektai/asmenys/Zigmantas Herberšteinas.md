@@ -87,13 +87,11 @@ Mūšio liudininkas Zigmantas Herberšteinas cituoja rusų kariuomenės vado Če
     - t-002
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/upė]]
+
 ### Susiję objektai
-- [[objektai/vietos/Brasta]]
-- [[objektai/vietos/Dniepras]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Maskva]]
 - [[objektai/grupes/Maskvos kariuomenė]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/vietos/Viena]]
 - [[objektai/posakiai/apsuptą nusivaryti iki pat Maskvos kaip galvijus]]

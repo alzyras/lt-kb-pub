@@ -50,8 +50,6 @@ Londone 1935) sukurta gitara „Zemaitis“, kuri roko pasaulyje tapo bendrine s
 - [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas]]
 - [[objektai/asmenys/George Harrison]]
 - [[objektai/asmenys/Keith Richards]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Londonas]]
 - [[objektai/asmenys/Antanas Kazimeras Žemaitis]]
 - [[objektai/asmenys/Bob Dylan]]
 - [[objektai/asmenys/Bruce Springsteen]]

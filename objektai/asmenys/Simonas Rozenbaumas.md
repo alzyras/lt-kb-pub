@@ -50,10 +50,6 @@ Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Baltarusiai]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Rusija]]
-- [[objektai/vietos/Sovietų Rusija]]
-- [[objektai/vietos/Viena]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/posakiai/„niekuomet nebuvo karo padėtyje“ „nedraugiškas aktas“]]

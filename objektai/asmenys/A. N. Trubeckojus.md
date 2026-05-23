@@ -70,10 +70,4 @@ Trubeckojaus kariuomenė (apie 15000 karių) užėmė Mstislavlį (liepos 22 d. 
 - [[temos/karvedys]]
 
 ### Susiję objektai
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Minskas]]
-- [[objektai/vietos/Mstislavlis]]
-- [[objektai/vietos/Polockas]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/vietos/Švedija]]

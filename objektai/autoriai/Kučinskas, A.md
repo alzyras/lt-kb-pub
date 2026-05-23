@@ -65,7 +65,4 @@ Kučinskas, A.
 - [[temos/dinastija]]
 
 ### Susiję objektai
-- [[objektai/vietos/Kaunas]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Livonija]]
 - [[objektai/zodynas/kunigaikščiai]]

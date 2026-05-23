@@ -53,10 +53,7 @@ Kelis kartus Vytautas išpažino savo nuodė­ mes Vilniaus vyskupui Motiejui; p
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Vilnius]]
 - [[objektai/grupes/Blaivybės brolijos]]
-- [[objektai/vietos/Buktos (Žaliosios) miškas]]
-- [[objektai/vietos/Daukšiai]]
 - [[objektai/ivykiai/Herasimo sąmokslas ir sudeginimas ant laužo]]
 - [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]
 - [[objektai/paprociai/Valančiaus blaivybės sąjūdis ir blaivybės brolijos]]

@@ -108,6 +108,3 @@ Nenurodyta
 ### Teminiai klasteriai
 - [[temos/įrankis]]
 - [[temos/ūkio-įrankis]]
-
-### Susiję objektai
-- [[objektai/vietos/Lietuva]]

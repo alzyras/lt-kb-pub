@@ -49,8 +49,4 @@ Mintis „Po kuo būti geriau – rusais ar vokiečiais“ nereiškė išankstin
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Baltija]]
-- [[objektai/vietos/Europa]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Rusai]]

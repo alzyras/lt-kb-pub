@@ -43,8 +43,4 @@ Konstitucinė monarchija taip pat liko darbotvarkėje, nes Taryba nervingai tąs
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Prūsija]]
-- [[objektai/vietos/Saksonija]]
 - [[objektai/zodynas/unija]]
-- [[objektai/vietos/Berlynas]]

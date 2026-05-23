@@ -84,7 +84,5 @@ Sovietmečio kasdienybėje deficitas reiškė apytuštes parduotuves, maisto ir 
 - [[temos/socialinė-praktika]]
 
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/SSRS]]
 - [[objektai/daiktai/Deficitinės vartojimo prekės]]
 - [[objektai/zodynas/deficitas talonai]]

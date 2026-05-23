@@ -56,7 +56,6 @@ Vaizdingais Eiliuotinės kronikos žodžiais, jis esą skundęsis : « Toji tvir
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Daugpilis]]
 - [[objektai/asmenys/Traidenis]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/žygis]]

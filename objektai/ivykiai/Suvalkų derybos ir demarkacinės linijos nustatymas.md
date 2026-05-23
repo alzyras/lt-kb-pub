@@ -117,10 +117,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Nemunas]]
-- [[objektai/vietos/Varėna]]
-- [[objektai/vietos/Vokietija]]
 - [[objektai/zodynas/demarkacijos linija]]
-- [[objektai/vietos/Juodoji Ančia]]

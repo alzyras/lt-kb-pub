@@ -76,7 +76,5 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/SSRS]]
-- [[objektai/vietos/Maskva]]
+### Teminiai klasteriai
+- [[temos/elekcija]]

@@ -69,11 +69,6 @@ Tačiau pirmaisiais saksų savanoriais ne visuomet buvo galima pasitikėti, riuo
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bolševikai]]
-- [[objektai/vietos/Gardinas]]
-- [[objektai/vietos/Kaunas]]
-- [[objektai/vietos/Kėdainiai]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/Savanoris]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/avantiūristas]]

@@ -45,7 +45,5 @@ LAF vadovybė pernelyg pasitikėjo nacių Vokietija – manyta, jog „Vokietijo
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Europa]]
 - [[objektai/grupes/Nacių Vokietija]]
-- [[objektai/vietos/Vokietija]]
 - [[objektai/grupes/Abveras]]

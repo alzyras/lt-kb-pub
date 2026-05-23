@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 38.
+Objektų skaičius: 34.
 
 ## Kaip naudoti
 
@@ -46,22 +46,16 @@ Objektų skaičius: 38.
 - [[objektai/posakiai/„senovės negriauname, naujovių neįvedame“]]
 - [[objektai/posakiai/„valstybė valstybėje“]]
 
-### Vietos
-- [[objektai/vietos/Rimini]]
-- [[objektai/vietos/Vakarų Prūsija]]
-- [[objektai/vietos/Voluinė]]
-- [[objektai/vietos/Žemaičių seniūnija]]
-
 ### Įvykiai
 - [[objektai/ivykiai/1422 m. Červinsko stovykla ir bajorų privilegijų suteikimas|1422 m. Červinsko stovykla ir bajorų privilegijų suteikimas (privilegija)]]
 - [[objektai/ivykiai/Algirdo žygiai į Maskvą]]
 - [[objektai/ivykiai/Pirmoji Lietuvos Bažnyčiai privilegija|Pirmoji Lietuvos Bažnyčiai privilegija (privilegija)]]
-- [Pirmoji visam kraštui privilegija (privilegija)](../objektai/ivykiai/Pirmoji%20visam%20kra%C5%A1tui%20privilegija)
-- [Žemaičių kunigaikštystės privilegija (privilegija)](../objektai/ivykiai/%C5%BDemai%C4%8Di%C5%B3%20kunigaik%C5%A1tyst%C4%97s%20privilegija)
-- [Žygimanto Augusto privilegija dėl krikščioniškų konfesijų teisių (privilegija)](../objektai/ivykiai/%C5%BDygimanto%20Augusto%20privilegija%20d%C4%97l%20krik%C5%A1%C4%8Dioni%C5%A1k%C5%B3%20konfesij%C5%B3%20teisi%C5%B3)
+- [[objektai/ivykiai/Pirmoji visam kraštui privilegija|Pirmoji visam kraštui privilegija (privilegija)]]
+- [[objektai/ivykiai/Žemaičių kunigaikštystės privilegija|Žemaičių kunigaikštystės privilegija (privilegija)]]
+- [[objektai/ivykiai/Žygimanto Augusto privilegija dėl krikščioniškų konfesijų teisių|Žygimanto Augusto privilegija dėl krikščioniškų konfesijų teisių (privilegija)]]
 
 ### Žodynas
-- [baudžiavinė epocha](../objektai/zodynas/baud%C5%BEiavin%C4%97%20epocha)
+- [[objektai/zodynas/baudžiavinė epocha]]
 - [daugiakonfesiškumas](../objektai/zodynas/daugiakonfesi%C5%A1kumas)
 - [daugiakonfesiškumas daugiakultūriškumas](../objektai/zodynas/daugiakonfesi%C5%A1kumas%20daugiakult%C5%ABri%C5%A1kumas)
 - [imunitetai](../objektai/zodynas/imunitetai)

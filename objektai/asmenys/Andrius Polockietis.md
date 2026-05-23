@@ -101,12 +101,6 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą. Andrius Polo
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Livonija]]
-- [[objektai/vietos/Mstislavlis]]
-- [[objektai/vietos/Polockas]]
 - [[objektai/asmenys/Sviatoslavas]]
 - [[objektai/grupes/Totoriai]]
-- [[objektai/vietos/Vechra]]
-- [[objektai/vietos/Vorskla]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/vietos/Lenkija]]

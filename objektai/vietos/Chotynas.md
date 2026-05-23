@@ -63,12 +63,3 @@ Chotyno mūšyje Lenkijos ir Lietuvos kariuomenė sumuša turkus 1673 m. (Iš Vi
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Lietuvos kariuomenė]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/ivykiai/Chotyno mūšis|Chotyno mūšis (mūšis)]]
-- [[objektai/autoriai/J. Bennetas]]

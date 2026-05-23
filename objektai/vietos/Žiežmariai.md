@@ -80,21 +80,3 @@ Kryžiuočiai su Kęstučio ir Algirdo kariuomene susitiko vasario 2 d. apie 30 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Alytus]]
-- [[objektai/grupes/Bolševikai]]
-- [[objektai/vietos/Kaunas]]
-- [[objektai/vietos/Kėdainiai]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/vietos/Kiauneliškio geležinkelio stotis]]
-- [[objektai/vietos/Labanoro giria]]
-- [[objektai/vietos/Naručio apylinkės]]
-- [[objektai/vietos/Pagaigalė]]
-- [[objektai/vietos/Prienai]]
-- [[objektai/ivykiai/Strėvos mūšis (1348 m.)]]
-- [[objektai/grupes/Vytauto apygarda]]
-- [[objektai/vietos/Strėva]]

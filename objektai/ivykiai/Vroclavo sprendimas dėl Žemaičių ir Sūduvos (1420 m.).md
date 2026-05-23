@@ -143,4 +143,3 @@ Nenurodyta
 - [[objektai/asmenys/imperatorius Zigmantas]]
 - [[objektai/grupes/Husitai]]
 - [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
-- [[objektai/vietos/Vroclavas]]

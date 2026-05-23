@@ -120,20 +120,3 @@ Radvilai pasisekė apginti tik Rygą ir Dauguvos žiotis saugančią Daugavgryv�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Chodkevičiai]]
-- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Livonija]]
-- [[objektai/vietos/Ryga]]
-- [[objektai/zodynas/rokošas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Švedai]]
-- [[objektai/vietos/Švedija]]
-- [[objektai/vietos/Daugavgryvos pilis|Daugavgryvos pilis (pilis)]]
-- [[objektai/asmenys/Frederikas Joachimas Mansfeldas]]
-- [[objektai/asmenys/Jonas Karolis Katkevičius]]
-- [[objektai/vietos/Viljandis]]

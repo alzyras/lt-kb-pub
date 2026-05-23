@@ -42,10 +42,3 @@ Negalėdami spaudos atšaukimo pasiekti per ministerius, — Vilniaus generalgub
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Kaunas]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/zodynas/generalgubernatorius]]

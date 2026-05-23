@@ -43,12 +43,3 @@ Tuo tarpu rusai atsiėmė Ukmergę, Jonavą ir Šiaulius.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]
-- [[objektai/vietos/Jonavos azotinių trąšų gamykla]]
-- [[objektai/vietos/Kauno HES]]
-- [[objektai/grupes/Lietuvių policijos savisaugos batalionai]]
-- [[objektai/vietos/Mažeikių naftos perdirbimo įmonė]]
-- [[objektai/vietos/Šiauliai]]

@@ -52,7 +52,4 @@ Taip pat buvo jam paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susit
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kijevas]]
-- [[objektai/vietos/Krymas]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/chanas]]

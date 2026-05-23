@@ -60,7 +60,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Karo muziejaus sodelis]]
 - [[objektai/ivykiai/Nežinomo kareivio palaidojimas Kaune (1934 m. lapkričio 23 d.)]]
 - [[objektai/zodynas/Žuvusių karių kultas]]

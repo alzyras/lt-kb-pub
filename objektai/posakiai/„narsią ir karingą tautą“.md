@@ -47,5 +47,4 @@ Bizantijos šaltiniai apie jokį lietuvių taikumą neužsimena – atvirkščia
 - [[temos/dinastija]]
 
 ### Susiję objektai
-- [[objektai/vietos/Bizantija]]
 - [[objektai/grupes/Lietuviai]]

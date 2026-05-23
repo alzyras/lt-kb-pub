@@ -61,6 +61,4 @@ tags:
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
 - [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/vietos/Lenkija]]

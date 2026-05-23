@@ -72,18 +72,3 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Maskva]]
-- [[objektai/vietos/Odojevas]]
-- [[objektai/vietos/Smolenskas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Hennė (Ordino agentas)]]
-- [[objektai/zodynas/kunigaikštija]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/vietos/Liubutskas]]
-- [[objektai/vietos/Mcenskas]]
-- [[objektai/vietos/Novosielskas]]
-- [[objektai/vietos/Novosielsko]]
-- [[objektai/vietos/Peremišlis]]

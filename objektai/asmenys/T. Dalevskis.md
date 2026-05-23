@@ -54,6 +54,5 @@ Dalevskiui, K.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/egzekucija]]
 - [[objektai/zodynas/generalgubernatorius]]

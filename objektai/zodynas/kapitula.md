@@ -82,10 +82,7 @@ XVII amžiuje kapitula ruošėsi atnaujinti paminklą, bet 1655 m. Vilnių užė
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Dubysa]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Marienburgas]]
-- [[objektai/vietos/Ragainė]]
 - [[objektai/ivykiai/Konstancijos susirinkimas (1414–1418 m.)]]
 - [[objektai/grupes/Vilniaus kapitula]]
 - [[objektai/paprociai/Vyriausiojo Lietuvos tribunolo teisėjų rinkimas seimeliuose]]

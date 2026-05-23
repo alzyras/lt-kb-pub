@@ -119,13 +119,5 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Edukacinė Komisija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Viena]]
 - [[objektai/zodynas/bajorija]]
-- [[objektai/vietos/Želviai]]
 - [[objektai/zodynas/dievobaimingosios mokyklos scholae piae]]
-- [[objektai/vietos/Vitebskas]]
-- [[objektai/vietos/Geranainys]]
-- [[objektai/vietos/Naujasis Dolskas]]
-- [[objektai/vietos/Verenava]]
-- [[objektai/vietos/Ščucinas]]

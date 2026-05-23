@@ -60,7 +60,5 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
-- [[objektai/vietos/Giedraičiai]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Estai]]
 - [[objektai/autoriai/J. Posilge]]

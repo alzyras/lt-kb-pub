@@ -61,9 +61,6 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Europa]]
-- [[objektai/vietos/Europos geografinis centras]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Robert Gordon Latham]]
 - [[objektai/posakiai/Be abejonės, sanskrito giminingumas su lietuvių kalba]]

@@ -80,7 +80,6 @@ Algimanto apygardą sudarė trys rinktinės: Šarūno, Kunigaikščio Margio ir 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Algimanto apygarda]]
-- [[objektai/vietos/Viena]]
 - [[objektai/grupes/Kunigaikščio Margio rinktinė]]
 - [[objektai/grupes/Tumo Vaižganto rinktinė]]
 - [[objektai/grupes/Vytauto apygarda]]

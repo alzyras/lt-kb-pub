@@ -84,14 +84,3 @@ toliau Drujos upe, per Drivietų, Želvos, Oziraičių ežerus, Medžiolos upe i
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/ežeras]]
-
-### Susiję objektai
-- [[objektai/vietos/Dauguva]]
-- [[objektai/vietos/Druja]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Drivietų ežerai]]
-- [[objektai/vietos/Želvos ežerai]]

@@ -55,8 +55,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Paduva]]
-- [[objektai/vietos/Polockas]]
 - [[objektai/autoriai/Pranciškus Skorina]]
 - [[objektai/grupes/Rusėnai]]

@@ -190,24 +190,3 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Daugpilis]]
-- [[objektai/grupes/Panevėžio rinktinė]]
-- [[objektai/vietos/Ukmergė]]
-- [[objektai/grupes/Ukmergės rinktinė]]
-- [[objektai/vietos/Zarasai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/A. Džiuvė]]
-- [[objektai/asmenys/Aaron Klug]]
-- [[objektai/asmenys/Bernard Lown]]
-- [[objektai/asmenys/K. Ladyga]]
-- [[objektai/vietos/Kaniūkai]]
-- [[objektai/grupes/Kuršiai]]
-- [[objektai/paprociai/Lietuvių ir lenkų dalinių bendros operacijos bei pasienio susirėmimai]]
-- [[objektai/vietos/Plungė]]
-- [[objektai/vietos/Salaspilis]]
-- [[objektai/grupes/Sėliai]]
-- [[objektai/vietos/Tauragnai]]
-- [[objektai/asmenys/V. Zechau]]

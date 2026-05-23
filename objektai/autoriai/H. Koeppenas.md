@@ -53,7 +53,8 @@ Koeppenas leidžia svarbius vokiečių ordino generalinių prokuratorių praneš
     - t-001
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/dokumentas]]
+
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Prūsai]]
 - [[objektai/grupes/Vokiečiai]]

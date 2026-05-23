@@ -68,7 +68,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Gardinas]]
 - [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/zodynas/žygis]]

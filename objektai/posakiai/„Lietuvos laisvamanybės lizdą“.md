@@ -50,6 +50,4 @@ tags:
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
 - [[objektai/zodynas/Laisvamanybė ir laisvamaniai]]
-- [[objektai/vietos/Rusija]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/grupes/Vilniaus universitetas]]

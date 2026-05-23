@@ -50,11 +50,3 @@ Atėjus žiniai, kad Jogaila įsiveržė Dobrino žemėn, kry­ žiuočiai grį�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/autoriai/Mickevičius]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/žygis]]

@@ -50,7 +50,9 @@ ne mano tikėjimo jie trokšta, kaip jie nuduoda, bet siekia žemių.
     - t-001
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/tikėjimas]]
+
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/pagonybė]]

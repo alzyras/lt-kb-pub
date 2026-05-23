@@ -58,6 +58,5 @@ Vis dėlto aukų nebuvo išvengta: sargyboje žuvo Dzūkų būrio partizanas Vac
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Daukšiai]]
 - [[objektai/asmenys/Vaclovas]]
 - [[objektai/zodynas/Adynos|adynos]]

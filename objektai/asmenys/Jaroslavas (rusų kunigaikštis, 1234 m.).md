@@ -65,14 +65,9 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Estija]]
 - [[objektai/asmenys/Jaroslavas]]
-- [[objektai/vietos/Kuršas]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Naugardas]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/vietos/Vokietija]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/grupes/Kalavijuočių ordinas]]

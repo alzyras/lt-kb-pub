@@ -55,7 +55,6 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Balnininkai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/asmenys/L. Želigovskis]]
 - [[objektai/grupes/Lietuviai]]

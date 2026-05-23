@@ -81,14 +81,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Baltija]]
 - [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
-- [[objektai/vietos/Kėdainiai]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Livonija]]
-- [[objektai/vietos/Rusija]]
-- [[objektai/vietos/Ryga]]
-- [[objektai/vietos/Vyborgas]]
 - [[objektai/grupes/Švedai]]
-- [[objektai/vietos/Švedija]]

@@ -50,6 +50,4 @@ Vėliau Vanagas subūrė Merkinės ir Alovės partizanus į 140 vyrų kuopą.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Alovė]]
-- [[objektai/vietos/Merkinė]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

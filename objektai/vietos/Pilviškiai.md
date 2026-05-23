@@ -72,12 +72,3 @@ Pilviškių vis. Pilviškių vls.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Gulbiniškiai]]
-- [[objektai/vietos/Vilkaviškis]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/MGB]]
-- [[objektai/ivykiai/Pilviškių apylinkės prie Čystos Būdos kautynės]]
-- [[objektai/vietos/Vilkaviškio apskritis]]

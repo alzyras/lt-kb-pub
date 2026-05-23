@@ -209,7 +209,6 @@ pabaigoje į Lietuvos istoriją įžengė garsiausia ir – tai svarbu – lietu
 - [[temos/dinastija]]
 
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/statutas]]
 - [[objektai/ivykiai/Liublino unija (1569 m.)]]

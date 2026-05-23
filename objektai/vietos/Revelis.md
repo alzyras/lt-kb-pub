@@ -49,20 +49,3 @@ Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos kara
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Dovydas (Gardino pilininkas)]]
-- [[objektai/vietos/Gardinas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Danijos karaliaus kariai iš Revelio]]
-- [[objektai/grupes/Estai]]
-- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
-- [[objektai/grupes/Notangai]]
-- [[objektai/posakiai/Palikime savo žirgus toli užpakalyje]]
-- [[objektai/grupes/Pamedėnai]]
-- [[objektai/grupes/Sembai]]
-- [[objektai/grupes/Varmiai]]
-- [[objektai/vietos/Estija]]

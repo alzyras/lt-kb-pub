@@ -91,5 +91,4 @@ Vartojamos formos: `ermyderių`.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Viena]]
 - [[objektai/grupes/Mozūrai (XV amžius)]]

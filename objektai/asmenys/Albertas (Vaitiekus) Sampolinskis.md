@@ -59,5 +59,4 @@ Juos papildė Lenkijos karalystės pinigais suverbuoti žmonės ir lenkų riteri
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lenkija]]
 - [[objektai/grupes/Lietuviai]]

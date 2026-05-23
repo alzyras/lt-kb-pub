@@ -157,8 +157,6 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
 - [[temos/didikas]]
 
 ### Susiję objektai
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/daiktai/Pistoletas]]
 - [[objektai/zodynas/maršalka]]
 - [[objektai/daiktai/Šarvai]]

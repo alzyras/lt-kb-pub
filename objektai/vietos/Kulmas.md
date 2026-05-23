@@ -115,21 +115,3 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Hermanas]]
-- [[objektai/vietos/Tornas]]
-- [[objektai/vietos/Visla]]
-- [[objektai/zodynas/pagonybė]]
-- [[objektai/asmenys/Albertas]]
-- [[objektai/vietos/Estija]]
-- [[objektai/asmenys/Herkus Mantas]]
-- [[objektai/asmenys/Konradas]]
-- [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)]]
-- [[objektai/vietos/Kulmo žemė]]
-- [[objektai/vietos/Osa]]
-- [[objektai/asmenys/Skomantas (lietuvių vadas)]]
-- [[objektai/vietos/Torunė]]
-- [[objektai/asmenys/Visvaldis]]
-- [[objektai/vietos/Vysla]]

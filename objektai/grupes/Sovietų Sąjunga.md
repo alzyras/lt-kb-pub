@@ -117,13 +117,8 @@ Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Liet
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Latvija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuvos komunistų partija]]
-- [[objektai/vietos/Maskva]]
-- [[objektai/vietos/SSRS]]
 - [[objektai/grupes/SSRS kariuomenė]]
-- [[objektai/vietos/Viena]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Artūras Sakalauskas]]
@@ -131,5 +126,4 @@ Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Liet
 - [[objektai/grupes/Lietuvos Taryba|Lietuvos Taryba (institucija)]]
 - [[objektai/ivykiai/Sovietų Sąjungos Lietuvos okupacija ir aneksija (1940 m.)]]
 - [[objektai/ivykiai/Baltijos valstybių okupavimas ir įjungimas į SSRS sudėtį (1940 m. vasara)]]
-- [[objektai/vietos/Sibiras]]
 - [[objektai/zodynas/liaudies demokratija]]

@@ -68,6 +68,5 @@ Nenurodyta
 - [[temos/paliaubos]]
 
 ### Susiję objektai
-- [[objektai/vietos/Kuldinga]]
 - [[objektai/zodynas/komtūras]]
 - [[objektai/grupes/Žemaičiai]]

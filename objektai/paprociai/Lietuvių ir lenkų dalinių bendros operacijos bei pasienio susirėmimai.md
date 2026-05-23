@@ -174,9 +174,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Utena]]
-- [[objektai/vietos/Zarasai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Nemunas]]
 - [[objektai/zodynas/Adynos|adynos]]

@@ -83,6 +83,4 @@ Mato patarimas yra pėsčio puolimo ir atsitraukimo vilčių atsisakymo formulė
 ### Susiję objektai
 - [[objektai/grupes/Danijos karaliaus kariai iš Revelio]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Prūsija]]
-- [[objektai/vietos/Revelis]]
 - [[objektai/zodynas/maršalas]]

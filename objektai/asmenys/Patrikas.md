@@ -58,7 +58,3 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
 ### Susiję objektai
 - [[objektai/grupes/Gediminaičių dinastija]]
 - [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
-- [[objektai/vietos/Katra]]
-- [[objektai/vietos/Maskva]]
-- [[objektai/vietos/Strėva]]
-- [[objektai/vietos/Skalvos žemė]]

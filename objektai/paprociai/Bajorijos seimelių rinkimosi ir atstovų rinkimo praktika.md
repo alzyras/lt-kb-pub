@@ -61,7 +61,9 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/elekcija]]
+
 ### Susiję objektai
 - [[objektai/zodynas/Baudžiava]]
-- [[objektai/vietos/Ukmergė]]
 - [[objektai/zodynas/seimelis]]

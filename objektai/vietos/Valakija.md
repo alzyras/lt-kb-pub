@@ -61,17 +61,3 @@ Turkija siekė užvaldyti visą vidinių kovų draskomą Moldaviją ir Valakiją
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kazokai]]
-- [[objektai/daiktai/Lankai]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Moldavija]]
-- [[objektai/vietos/Turkija]]
-- [[objektai/vietos/Ukraina]]
-- [[objektai/zodynas/ekspansija]]
-- [[objektai/vietos/Cecora]]
-- [[objektai/vietos/Jasai]]
-- [[objektai/asmenys/Jonas Karolis Katkevičius]]
-- [[objektai/grupes/Lenkijos kariuomenė]]

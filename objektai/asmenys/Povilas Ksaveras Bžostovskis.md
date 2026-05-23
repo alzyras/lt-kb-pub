@@ -93,5 +93,4 @@ Povilas Ksaveras Bžostovskis aprašomas kaip Paulavos respublikos kūrėjas; jo
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/ivykiai/Antano Tyzenhauzo reformos]]
-- [[objektai/vietos/Paulava]]
 - [[objektai/ivykiai/Ketverių metų seimas (1788–1792 m.)]]

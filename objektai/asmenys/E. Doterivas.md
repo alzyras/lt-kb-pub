@@ -55,5 +55,4 @@ Matydami stiprią rusų gynybą, sukilėlių kariuomenės štabo viršininkas pu
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Paneriai]]
 - [[objektai/grupes/Rusai]]

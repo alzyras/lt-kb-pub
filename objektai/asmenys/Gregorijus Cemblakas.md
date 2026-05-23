@@ -83,12 +83,8 @@ tags:
 ### Susiję objektai
 - [[objektai/asmenys/Focijus (Maskvos „visos Rusijos“ metropolitas)]]
 - [[objektai/asmenys/Gregorijus (Vladimiro vyskupas)]]
-- [[objektai/vietos/Kijevas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Podolė]]
 - [[objektai/grupes/Totoriai]]
-- [[objektai/vietos/Vorskla]]
 - [[objektai/zodynas/unija]]
 - [[objektai/grupes/Katalikų Bažnyčia]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/ivykiai/Edygos vadovaujami totorių antpuoliai Kijevo ir Podolės kraštuose (1414–1416 m.)]]

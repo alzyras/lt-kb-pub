@@ -65,5 +65,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
 - [[objektai/autoriai/Karolis Zikaras]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/husarai]]

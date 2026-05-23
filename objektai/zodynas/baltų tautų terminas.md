@@ -45,6 +45,5 @@ Lig šiol svetimšaliai, kai kalbėdavo apie lietuvių kilmės tautas, vartodavo
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Baltija]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Baltai]]

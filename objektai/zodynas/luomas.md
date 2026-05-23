@@ -134,7 +134,6 @@ Tačiau bajorai – dvarininkai sudarė tik ¼ dalį vietos bajorų luomo, daugu
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
 - [[objektai/ivykiai/1422 m. Červinsko stovykla ir bajorų privilegijų suteikimas|1422 m. Červinsko stovykla ir bajorų privilegijų suteikimas (privilegija)]]
-- [[objektai/vietos/Berlynas]]
 - [[objektai/daiktai/Herbas]]
 - [[objektai/autoriai/K. Avižonis]]
 - [[objektai/posakiai/Kad tik be arklio nebūtų]]

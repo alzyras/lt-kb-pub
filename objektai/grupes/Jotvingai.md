@@ -55,12 +55,7 @@ Ji buvo daug platesnė, negu Mindaugo laikais, nes Traidenio klausė ir žemaič
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Drohičinas]]
-- [[objektai/vietos/Žalioji giria]]
 - [[objektai/ivykiai/Brunono misija į aisčių kraštą ir žūtis (1009 m.)]]
-- [[objektai/vietos/Palenkė]]
-- [[objektai/vietos/Pinskas]]
-- [[objektai/vietos/Turovas]]
 - [[objektai/ivykiai/Voluinės kunigaikščių žygiai prieš jotvingus ir Gardino užėmimas]]
 - [[objektai/grupes/Jotvingiai]]
 - [[objektai/zodynas/pagonybė]]

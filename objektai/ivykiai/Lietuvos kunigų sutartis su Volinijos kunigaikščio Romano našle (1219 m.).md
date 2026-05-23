@@ -137,6 +137,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
-- [[objektai/vietos/Volinija]]

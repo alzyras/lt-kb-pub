@@ -40,9 +40,3 @@ Nebuvo aplenktos nė mokyklos: Kalvarijos, Padubysio ir Kolainių mokyklos buvo 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Kolainiai]]
-- [[objektai/vietos/Kražiai]]
-- [[objektai/vietos/Kalvarija]]

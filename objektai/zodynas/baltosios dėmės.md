@@ -46,6 +46,5 @@ Valdžios nedraudžiamų klubų veikla kultūros, gamtos apsaugos, ekologijos ir
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]

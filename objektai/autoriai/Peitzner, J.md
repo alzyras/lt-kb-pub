@@ -52,7 +52,3 @@ Hruševskoho, I, 1928, Kijiv, 165-168 p. — Peitzner, J.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Maskva]]

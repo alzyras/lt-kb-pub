@@ -59,11 +59,8 @@ Polocke įsigyveno Mindaugo sūnėnas Tautvilas, Drutske antras sūnėnas Edivi�
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Mindaugas]]
-- [[objektai/vietos/Polockas]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/vietos/Vitebskas]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/asmenys/Edividas]]

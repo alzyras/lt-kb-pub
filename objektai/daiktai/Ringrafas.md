@@ -75,5 +75,3 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/daiktai/Herbas]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Rusija]]

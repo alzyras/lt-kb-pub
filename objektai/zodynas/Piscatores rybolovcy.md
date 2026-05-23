@@ -58,6 +58,7 @@ tags:
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/ežeras]]
+- [[temos/upė]]
 
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]

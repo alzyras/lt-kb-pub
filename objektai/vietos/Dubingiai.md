@@ -118,15 +118,3 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Aukštaičiai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Ukmergė]]
-- [[objektai/vietos/Ukmergės apylinkė]]
-- [[objektai/vietos/Šešuoliai]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/grupes/1-oji pėstininkų divizija]]
-- [[objektai/vietos/Švenčionėliai]]

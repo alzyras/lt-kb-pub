@@ -150,12 +150,7 @@ Nenurodyta
 - [[temos/transportas]]
 
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/SSRS]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/konstitucijos]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/vietos/Lietuvos radijo ir televizijos komiteto pastatas|Lietuvos radijo ir televizijos komiteto pastatas (institucija)]]
 - [[objektai/ivykiai/Sausio 13-oji ir Vilniaus televizijos bokšto šturmas (1991 m. sausio 12–13 d.)]]
 - [[objektai/daiktai/Šarvuočiai]]
-- [[objektai/vietos/Vilniaus televizijos bokštas]]

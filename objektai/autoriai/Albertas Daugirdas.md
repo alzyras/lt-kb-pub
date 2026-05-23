@@ -113,7 +113,4 @@ Albertas Daugirdas šiame leidinyje minimas kaip straipsnio apie Aukščiausiosi
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/Lietuvos atsikūrimas]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/vietos/Kiauneliškiai]]

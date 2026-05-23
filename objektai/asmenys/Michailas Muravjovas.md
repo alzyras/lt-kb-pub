@@ -180,13 +180,7 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Anglija]]
-- [[objektai/vietos/Kaunas]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Prancūzija]]
-- [[objektai/vietos/Rusija]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/egzekucija]]
 - [[objektai/zodynas/generalgubernatorius]]
 - [[objektai/zodynas/kunigas]]

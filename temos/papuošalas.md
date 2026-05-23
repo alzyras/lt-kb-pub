@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 12.
+Objektų skaičius: 9.
 
 ## Kaip naudoti
 
@@ -31,11 +31,6 @@ Objektų skaičius: 12.
 
 ### Papročiai
 - [[objektai/paprociai/Prūsų dievų kultas Rikojote ir kulto tarnų hierarchija]]
-
-### Vietos
-- [[objektai/vietos/Avinjonas]]
-- [[objektai/vietos/Ramygala]]
-- [[objektai/vietos/Volinija]]
 
 ### Žodynas
 - [[objektai/zodynas/žalvario amžius]]

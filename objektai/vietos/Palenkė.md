@@ -251,22 +251,3 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-011
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Braclavas]]
-- [[objektai/vietos/Drohičinas]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
-- [[objektai/grupes/Jotvingai]]
-- [[objektai/vietos/Kijevas]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/asmenys/Mindaugas]]
-- [[objektai/vietos/Podolė]]
-- [[objektai/asmenys/Traidenis]]
-- [[objektai/vietos/Vitebskas]]
-- [[objektai/vietos/Voluinė]]
-- [[objektai/asmenys/Vytenis]]
-- [[objektai/asmenys/Liubartas Gediminaitis]]
-- [[objektai/ivykiai/Trakų paliaubos (1379 m. rugsėjo 29 d.)]]
-- [[objektai/vietos/Brasta]]
-- [[objektai/vietos/Braclavo sritis]]

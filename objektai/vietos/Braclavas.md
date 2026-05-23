@@ -77,17 +77,3 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Bajorai]]
-- [[objektai/vietos/Kijevas]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Podolė]]
-- [[objektai/zodynas/kunigaikštija]]
-- [[objektai/vietos/Braclavo sritis]]
-- [[objektai/vietos/Palenkė]]
-- [[objektai/zodynas/domenas]]
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/posakiai/Taip pat protestuoju prieš neteisybę, kuri mums būtų padaryta]]

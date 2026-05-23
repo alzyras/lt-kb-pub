@@ -58,6 +58,5 @@ Kada buvo bandoma į sąjungą (koaliciją) prieš Mindaugą ir Vykintą Įtrauk
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Mindaugas]]
-- [[objektai/vietos/Ryga]]
 - [[objektai/asmenys/Vykintas]]
 - [[objektai/autoriai/Zajączkowski, St]]

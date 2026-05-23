@@ -72,8 +72,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Viena]]
 - [[objektai/zodynas/akcijos]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/grupes/Žemaičiai]]

@@ -94,4 +94,3 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/zodynas/Aukausenos|aukausenos]]
-- [[objektai/vietos/Baltija]]

@@ -43,5 +43,4 @@ Pirmojo pasaulio lietuvių kongreso prezidiumas.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Kaunas]]
 - [[objektai/ivykiai/Pirmasis pasaulio lietuvių kongresas (1935 m.)]]

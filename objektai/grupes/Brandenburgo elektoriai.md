@@ -48,7 +48,4 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Albrechtas]]
-- [[objektai/vietos/Brandenburgas]]
-- [[objektai/vietos/Prūsai]]
-- [[objektai/vietos/Vokietija]]
 - [[objektai/zodynas/protestantizmas]]

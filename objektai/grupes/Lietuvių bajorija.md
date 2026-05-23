@@ -157,7 +157,6 @@ Lenkų ponų taryba Radome davė garantiją, kaip lietuv. Šiaip ar taip kalbant
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Herbai]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/luomas]]
 - [[objektai/zodynas/nobilitetas]]
 - [[objektai/zodynas/sankcija]]

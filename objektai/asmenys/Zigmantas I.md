@@ -71,15 +71,6 @@ Lietuvos ir Lenkijos valdovų – Vytauto ir Jogailos – susitikimui su Švento
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Bizantija]]
-- [[objektai/vietos/Europa]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Luckas]]
-- [[objektai/vietos/Maskva]]
-- [[objektai/vietos/Pskovas]]
-- [[objektai/vietos/Tverė]]
-- [[objektai/vietos/Vengrija]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/Lucko suvažiavimas]]

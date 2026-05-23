@@ -66,4 +66,3 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Vaškas]]
-- [[objektai/vietos/Viena]]

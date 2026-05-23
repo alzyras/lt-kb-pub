@@ -92,20 +92,3 @@ Tačiau Vatikanas 1925 metais sudarė konkordatą su Lenkija, visai neatsižvelg
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Seinai]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/asmenys/Augustinas Voldemaras]]
-- [[objektai/vietos/Brazilija]]
-- [[objektai/vietos/Didžioji Britanija]]
-- [[objektai/vietos/JAV]]
-- [[objektai/vietos/Kanada]]
-- [[objektai/vietos/Kolumbija]]
-- [[objektai/vietos/Prancūzija]]
-- [[objektai/vietos/Urugvajus]]
-- [[objektai/posakiai/„Kražių skerdynėmis“]]
-- [[objektai/ivykiai/Kražių įvykiai]]
-- [[objektai/ivykiai/Konkordato su Vatikanu pasirašymas (1927 m. rugsėjo 27 d.)]]

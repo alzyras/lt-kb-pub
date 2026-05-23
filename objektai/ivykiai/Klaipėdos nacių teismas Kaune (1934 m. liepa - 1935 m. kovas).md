@@ -73,8 +73,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kaunas]]
 - [[objektai/grupes/Nacių Vokietija]]
-- [[objektai/vietos/Vokietija]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
 - [[objektai/posakiai/Iki gyvos Vytauto ir Jogailos galvos]]

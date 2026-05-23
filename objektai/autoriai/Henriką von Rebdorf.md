@@ -56,5 +56,4 @@ Pagal kronikininką Henriką von Rebdorf 1358 m. liepos mėn.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Vokiečiai]]

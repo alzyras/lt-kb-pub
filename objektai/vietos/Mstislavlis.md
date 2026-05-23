@@ -130,18 +130,3 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/vietos/Kaluga]]
-- [[objektai/vietos/Maskva]]
-- [[objektai/asmenys/A. N. Trubeckojus]]
-- [[objektai/asmenys/Andrius Polockietis]]
-- [[objektai/asmenys/J. K. Glaubitzas]]
-- [[objektai/vietos/Juodoji Rusia]]
-- [[objektai/asmenys/Jurgis (Sviatoslavo sūnus)]]
-- [[objektai/asmenys/Sviatoslavas]]
-- [[objektai/asmenys/V. B. Seremetjevas]]
-- [[objektai/vietos/Vechra]]
-- [[objektai/vietos/Viazma]]

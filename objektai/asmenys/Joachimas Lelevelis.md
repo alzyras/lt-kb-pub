@@ -78,11 +78,9 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Andrius Sniadeckis]]
-- [[objektai/vietos/Austrija]]
 - [[objektai/asmenys/Johanas Pėteris Frankas]]
 - [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
 - [[objektai/autoriai/Lelevelis]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/asmenys/Eduardas Karolis Eichvaldas]]
 - [[objektai/asmenys/Jozefas Frankas]]

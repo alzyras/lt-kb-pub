@@ -55,5 +55,3 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/vietos/Austrija]]
-- [[objektai/vietos/Prūsija]]

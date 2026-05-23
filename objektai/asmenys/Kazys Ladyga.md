@@ -68,10 +68,5 @@ Paveiksle pavaizduoti Radviliškį atakuojantys 1-ojo pėstininkų pulko kariai,
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Radviliškis]]
-- [[objektai/vietos/Rusija]]
-- [[objektai/vietos/Ukmergė]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/demobilizacija]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

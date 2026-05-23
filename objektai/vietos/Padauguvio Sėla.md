@@ -49,14 +49,3 @@ Užėmę Padauguvio Sėlą (tarp Dauguvos intakų Dysnos ir Egluonos), lietuviai
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Aukštaičiai]]
-- [[objektai/vietos/Aukštaičių žemė]]
-- [[objektai/vietos/Daugpilis]]
-- [[objektai/vietos/Dauguva]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Padauguvis]]
-- [[objektai/grupes/Sėliai]]

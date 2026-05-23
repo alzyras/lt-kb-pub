@@ -65,6 +65,3 @@ Po mūšio Kadangi Ukmergės rinktinė buvo per daug išsiveržusi į priekį, k
 - [[objektai/grupes/Bolševikai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Panevėžio rinktinė]]
-- [[objektai/vietos/Ukmergė]]
-- [[objektai/vietos/Utena]]
-- [[objektai/vietos/Rokiškis]]

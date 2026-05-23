@@ -61,6 +61,3 @@ grESHIC astiicnnems Saro valdoms ir jo „Vilniuje karalius turi gan puikios art
 - [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Pskovas]]
-- [[objektai/vietos/Rusija]]
-- [[objektai/vietos/Vilnius]]

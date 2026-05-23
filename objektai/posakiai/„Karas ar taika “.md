@@ -63,7 +63,5 @@ Voldemarui klausimą „Karas ar taika?“ A.
 ### Susiję objektai
 - [[objektai/asmenys/Augustinas Voldemaras]]
 - [[objektai/asmenys/J. Pilsudskis]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Petras Klimas]]
 - [[objektai/asmenys/Pilsudskis]]

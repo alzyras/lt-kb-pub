@@ -109,12 +109,7 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
 - [[temos/teisinis-terminas]]
 
 ### Susiję objektai
-- [[objektai/vietos/Bielskas]]
-- [[objektai/vietos/Brasta]]
-- [[objektai/vietos/Kaunas]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/luomas]]
 - [[objektai/ivykiai/Magdeburgo teisių suteikimas Lietuvos miestams]]
 - [[objektai/grupes/Miestelėnų luomas]]
-- [[objektai/vietos/Drohičinas]]
-- [[objektai/vietos/Vilnius]]

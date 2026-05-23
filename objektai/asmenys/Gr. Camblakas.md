@@ -51,6 +51,4 @@ Camblakas.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Konstanca]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/metropolitas]]

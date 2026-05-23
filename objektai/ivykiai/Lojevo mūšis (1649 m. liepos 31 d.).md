@@ -186,7 +186,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Europa]]
 - [[objektai/grupes/Kazokai]]
-- [[objektai/vietos/Lojevas]]
-- [[objektai/vietos/Salaspilis]]

@@ -54,16 +54,3 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/metraštis]]
-
-### Susiję objektai
-- [[objektai/vietos/Antalieptė]]
-- [[objektai/asmenys/P. Genys]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/II brigada]]
-- [[objektai/vietos/Uturiai]]
-- [[objektai/grupes/Čekijos husitai]]
-- [[objektai/vietos/Svėdasai]]

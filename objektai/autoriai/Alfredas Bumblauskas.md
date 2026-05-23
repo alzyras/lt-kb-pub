@@ -204,11 +204,7 @@ Alfredas Bumblauskas minimas kaip recenzentas ir straipsnio autorius ankstesniam
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/vietos/Europa]]
-- [[objektai/vietos/Europos geografinis centras]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
 - [[objektai/grupes/Vilniaus universiteto leidykla]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/monografija]]

@@ -56,7 +56,3 @@ Essen, V.: Die länd­ lichen Siedlungen in Litauen, SBRiga, 1934.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Lietuva]]

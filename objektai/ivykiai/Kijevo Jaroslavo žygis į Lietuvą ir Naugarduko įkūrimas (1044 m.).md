@@ -105,18 +105,10 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Bizantija]]
-- [[objektai/vietos/Dauguva]]
 - [[objektai/grupes/Dregovičiai]]
-- [[objektai/vietos/Europa]]
 - [[objektai/asmenys/Jaroslavas]]
-- [[objektai/vietos/Kijevas]]
 - [[objektai/grupes/Kijevo Rusia]]
-- [[objektai/vietos/Kijevo Rusia]]
 - [[objektai/grupes/Krivičiai]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/vietos/Viena]]
 - [[objektai/posakiai/na Litvu]]
-- [[objektai/vietos/Naugardukas]]

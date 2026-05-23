@@ -50,6 +50,5 @@ Vienas iš kryžiuočių, Falkenbergas, stengėsi dar Vok.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Konstancija]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Vokiečiai]]

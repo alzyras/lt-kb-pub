@@ -54,6 +54,29 @@ const defaultOptions: Options = {
   includeEmptyFiles: true,
 }
 
+const publicNavigationSuppressedLinkPrefixes = [
+  "laikotarpiai/",
+  "objektai/saltiniai/",
+  "objektai/vietos/",
+]
+
+export function isPublicNavigationSuppressedSlug(slug: SimpleSlug | string): boolean {
+  const value = String(slug)
+  return publicNavigationSuppressedLinkPrefixes.some((prefix) => value.startsWith(prefix))
+}
+
+export function filterPublicNavigationLinks(
+  links: SimpleSlug[],
+  sourceSlug?: SimpleSlug | string,
+): SimpleSlug[] {
+  if (sourceSlug && isPublicNavigationSuppressedSlug(sourceSlug)) {
+    return []
+  }
+  return links.filter((link) => {
+    return !isPublicNavigationSuppressedSlug(link)
+  })
+}
+
 function extractClaims(markdown: string): string[] {
   if (!markdown) {
     return []
@@ -174,7 +197,7 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
             slug,
             filePath: relativePath,
             title: frontmatter?.title!,
-            links: file.data.links ?? [],
+            links: filterPublicNavigationLinks(file.data.links ?? [], slug),
             tags: frontmatter?.tags ?? [],
             content: file.data.text ?? "",
             richContent: opts?.rssFullHtml

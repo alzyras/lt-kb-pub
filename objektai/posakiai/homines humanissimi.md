@@ -59,10 +59,5 @@ Adomas, tiesa, kalbėjo apie «sembus arba prūsus» (« Sembi vėl Pruzzi »), 
 ### Susiję objektai
 - [[objektai/asmenys/Adalbertas]]
 - [[objektai/autoriai/Adomas Bremenietis]]
-- [[objektai/vietos/Baltija]]
-- [[objektai/vietos/Europa]]
-- [[objektai/vietos/Prūsai]]
-- [[objektai/vietos/Skandinavija]]
 - [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/vietos/Birka (Švedijos uostas)]]
 - [[objektai/grupes/Sembai]]

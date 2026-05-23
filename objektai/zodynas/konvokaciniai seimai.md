@@ -78,6 +78,5 @@ Seimų rūšys. Po konvokacinio seimo, jo nustatytu laiku, taip pat primas šauk
 - [[temos/karūnacija]]
 
 ### Susiję objektai
-- [[objektai/vietos/Gniezno]]
 - [[objektai/zodynas/apsikarūnavimas]]
 - [[objektai/grupes/Karūnacinis seimas|Karūnacinis seimas (seimas)]]

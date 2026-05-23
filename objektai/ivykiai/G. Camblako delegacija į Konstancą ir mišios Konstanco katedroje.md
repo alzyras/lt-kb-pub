@@ -59,6 +59,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Europa]]
 - [[objektai/autoriai/Grigorijus Camblakas]]
-- [[objektai/vietos/Lietuva]]

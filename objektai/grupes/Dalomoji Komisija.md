@@ -101,5 +101,3 @@ tags:
 
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]

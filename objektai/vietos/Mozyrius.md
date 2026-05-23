@@ -90,15 +90,3 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Dniepras]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Lojevas]]
-- [[objektai/vietos/Maskva]]
-- [[objektai/vietos/Sluckas]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/autoriai/A. Vijūkas Kojelavičius]]
-- [[objektai/ivykiai/Bogdano Chmelnickio vadovaujamas Ukrainos kazokų sukilimas (1648–1651 m.)]]
-- [[objektai/ivykiai/Krymo totorių įsiveržimas į Lietuvą (1506 m.)]]

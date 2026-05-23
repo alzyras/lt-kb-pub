@@ -54,8 +54,3 @@ Atkritus vilčiai, kad sovietai „gal neokupuos“, liko dar viena – „o gal
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/A. Merkys]]
-- [[objektai/vietos/Europa]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Merkys]]
-- [[objektai/vietos/Viena]]
-- [[objektai/vietos/Vokietija]]

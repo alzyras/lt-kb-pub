@@ -41,5 +41,4 @@ Elenos skulptūros ant katedros frontono.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lenkija]]
 - [[objektai/daiktai/Vilniaus katedros portalo kolonada ir frontono skulptūros]]

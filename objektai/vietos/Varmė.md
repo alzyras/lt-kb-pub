@@ -116,14 +116,3 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/aktas]]
-
-### Susiję objektai
-- [[objektai/vietos/Gardinas]]
-- [[objektai/vietos/Palanga]]
-- [[objektai/vietos/Prūsija]]
-- [[objektai/vietos/Vakarų Prūsija]]
-- [[objektai/vietos/Lenkija]]

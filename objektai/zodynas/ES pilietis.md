@@ -46,8 +46,10 @@ Kiek­ vienas ES pilietis turi: nevaržomo judėjimo ir apsigyvenimo ES šalių 
     - t-001
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/elekcija]]
+
 ### Susiję objektai
-- [[objektai/vietos/Europa]]
 - [[objektai/zodynas/peticija]]
 - [[objektai/grupes/Europos Parlamentas]]
 - [[objektai/grupes/Europos Sąjunga]]

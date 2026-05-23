@@ -43,10 +43,3 @@ Naugardu, 1262 m. nužygiavo į Livonijos ordino žemę net iki Cėsio (Vendeno)
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Livonija]]
-- [[objektai/asmenys/Mindaugas]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/vietos/Cēsis]]

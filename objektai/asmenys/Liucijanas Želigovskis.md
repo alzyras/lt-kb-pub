@@ -42,5 +42,5 @@ Liucijano Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje �
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Lenkija]]
+### Teminiai klasteriai
+- [[temos/elekcija]]

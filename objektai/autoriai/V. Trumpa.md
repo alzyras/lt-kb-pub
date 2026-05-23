@@ -75,6 +75,4 @@ Trumpa, V. Trumpa: Jonynas I ., LE 9 t., 478 p. (^83) A.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Galvės ežero salos pilis|Galvės ežero salos pilis (pilis)]]
 - [[objektai/grupes/Lietuviai]]

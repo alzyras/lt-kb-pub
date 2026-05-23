@@ -51,7 +51,6 @@ Vienas pulkas, Dolegos vedamas, antras kunigo Mackevičiaus, trečias kunigo Pe�
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/daiktai/Konfederatka]]
 - [[objektai/daiktai/Šobliai]]

@@ -95,7 +95,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/luomas]]
@@ -109,4 +108,3 @@ Nenurodyta
 - [[objektai/daiktai/Vienaragis (pabūklas)]]
 - [[objektai/grupes/Vilniaus romantizmo mokykla]]
 - [[objektai/daiktai/Zigmanto Augusto pinigai]]
-- [[objektai/vietos/Horodlė]]

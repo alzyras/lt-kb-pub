@@ -127,9 +127,3 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/aktas]]
-
-### Susiję objektai
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Liublinas]]
-- [[objektai/vietos/Maskva]]
-- [[objektai/vietos/Lietuva]]

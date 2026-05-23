@@ -62,14 +62,3 @@ Pati LV neplanavo žudynių, tačiau deklaruojamu antisemitizmu (Žydų padėtie
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/zodynas/Antisemitizmas]]
-- [[objektai/vietos/Kaunas]]
-- [[objektai/vietos/Viena]]
-- [[objektai/vietos/Vokietija]]
-- [[objektai/zodynas/zonderkomanda]]
-- [[objektai/grupes/Žydai]]
-- [[objektai/grupes/Laikinoji vyriausybė]]
-- [[objektai/vietos/Lietuva]]

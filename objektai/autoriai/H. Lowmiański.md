@@ -137,7 +137,4 @@ H. Lowmiański minimas kaip istorikas ir tyrėjas; šiame tome jo darbai pasitel
 ### Susiję objektai
 - [[objektai/grupes/Baltai]]
 - [[objektai/grupes/Latviai]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Petrapilis]]
-- [[objektai/vietos/Vilnius]]

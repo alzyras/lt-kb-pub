@@ -84,6 +84,5 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Perloja]]
 - [[objektai/ivykiai/Paskutinių partizanų vadų suėmimai ir sušaudymai (1953–1957 m.)]]
 - [[objektai/grupes/Marcinkonių batalionas]]

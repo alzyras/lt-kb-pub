@@ -82,9 +82,11 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/tikėjimas]]
+
 ### Susiję objektai
 - [[objektai/zodynas/Baudžiava]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/apsikarūnavimas]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/ukazai]]

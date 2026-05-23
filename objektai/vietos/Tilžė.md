@@ -94,20 +94,3 @@ Tuo tikslu pas Napoleoną į Tilžę buvo nuvykusi net slapta Lietuvos bajorų d
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Angerburgas]]
-- [[objektai/grupes/Birutės draugija]]
-- [[objektai/vietos/Girdava]]
-- [[objektai/vietos/Johanisburgas]]
-- [[objektai/ivykiai/Jono Smalakio išrinkimas į imperijos parlamentą Klaipėdos apygardoje (1898 m.)]]
-- [[objektai/vietos/Lotzenburgas]]
-- [[objektai/vietos/Röselis]]
-- [[objektai/grupes/Vokiečių literatų draugija]]
-- [[objektai/autoriai/Vydūnas]]
-- [[objektai/zodynas/tautiškas susipratimas tautiška sąmonė tautiškoji veikla]]
-- [[objektai/vietos/Šiauliai]]
-- [[objektai/vietos/Gargždai]]
-- [[objektai/autoriai/Mikšas]]
-- [[objektai/grupes/Tilžės gestapo būrys]]

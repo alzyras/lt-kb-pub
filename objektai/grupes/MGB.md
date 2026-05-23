@@ -95,11 +95,3 @@ MGB Valstybės saugumo ministerija (SSRS). Visuotinį šio karo mastą rodo okup
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Dainava]]
-- [[objektai/vietos/Gulbiniškiai]]
-- [[objektai/vietos/Pilviškiai]]
-- [[objektai/vietos/Vilkaviškis]]
-- [[objektai/vietos/Vilkaviškio apskritis]]

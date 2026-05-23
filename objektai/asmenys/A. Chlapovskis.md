@@ -78,6 +78,4 @@ Chlapovskis mėgino vyriausiąjį vadą generolą A. Chlapovskiui, kurio žinioj
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Artilerija]]
-- [[objektai/vietos/Paneriai]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/vietos/Viena]]

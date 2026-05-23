@@ -59,7 +59,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Kalvinai]]
 - [[objektai/asmenys/Mikalojus (Gniezno arkivyskupas)]]
-- [[objektai/vietos/Nesvyžius]]
-- [[objektai/vietos/Polockas]]
 - [[objektai/asmenys/Steponas Batoras]]
-- [[objektai/vietos/Tartai]]

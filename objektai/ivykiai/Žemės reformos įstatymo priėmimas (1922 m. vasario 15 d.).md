@@ -121,4 +121,3 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/grupes/Bermontininkai]]
-- [[objektai/vietos/Lietuva]]

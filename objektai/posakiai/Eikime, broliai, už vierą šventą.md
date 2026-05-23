@@ -65,6 +65,5 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/paprociai/Sukilėlių telkimas Salose per bažnyčios varpų skambinimą ir dvikalbį pamokslą]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/grupes/Lietuviai]]

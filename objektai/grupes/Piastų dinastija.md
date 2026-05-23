@@ -61,7 +61,5 @@ Bet Ho­ rodlės unija šį klausimą, kaip žinom, nutyli; buvo tik pripažinta
 
 ### Susiję objektai
 - [[objektai/asmenys/Jadvyga]]
-- [[objektai/vietos/Lenkija]]
 - [[objektai/zodynas/unija]]
-- [[objektai/vietos/Horodlė]]
 - [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]

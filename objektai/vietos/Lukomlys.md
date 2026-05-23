@@ -54,16 +54,3 @@ Apie tai Lietuvos didysis etmonas Mykolas Radvila Rudasis žvalgų buvo greitai 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/daiktai/Artilerija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Maskvėnai]]
-- [[objektai/vietos/Polockas]]
-- [[objektai/zodynas/etmonas]]
-- [[objektai/zodynas/hetmonas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/asmenys/Mykolas]]
-- [[objektai/asmenys/Petras Šuiskis]]

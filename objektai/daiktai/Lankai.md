@@ -69,10 +69,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Totoriai]]
-- [[objektai/vietos/Strėvos upė]]
-- [[objektai/vietos/Ukraina]]
-- [[objektai/vietos/Valakija]]
-- [[objektai/vietos/Vigrai]]
 - [[objektai/zodynas/stabmeldys]]
 - [[objektai/zodynas/vyskupo teisėjas]]
 - [[objektai/daiktai/Šarvai]]

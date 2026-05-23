@@ -52,28 +52,25 @@ tags:
     - t-001
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/dokumentas]]
+
 ### Susiję objektai
 - [[objektai/asmenys/Aldona Gediminaitė]]
-- [[objektai/vietos/Brandenburgas]]
 - [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lenkija]]
 - [[objektai/asmenys/Lokietka]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/vietos/Avinjonas]]
 - [[objektai/paprociai/Bajorijos stiprinimas valdovo privilegijomis|Bajorijos stiprinimas valdovo privilegijomis (privilegija)]]
 - [[objektai/paprociai/Bendri Lietuvos ir Lenkijos seimai]]
 - [[objektai/asmenys/Boleslovas Jurgis Traidenaitis]]
-- [[objektai/vietos/Dobrynė]]
 - [[objektai/grupes/Kardo rinktinė]]
 - [[objektai/asmenys/Kazimieras Didysis]]
 - [[objektai/asmenys/Kazimieras Jogailaitis]]
 - [[objektai/grupes/Krimo orda]]
 - [[objektai/grupes/Lietuvos partizanai]]
 - [[objektai/ivykiai/Partizanų dokumentų nugabenimas į laisvąjį pasaulį (1947 m. pabaiga)]]
-- [[objektai/vietos/Petrakava]]
-- [[objektai/vietos/Pskovas]]
 - [[objektai/grupes/Sapiegos]]
 - [[objektai/zodynas/baudžiavinė epocha]]
 - [[objektai/zodynas/domenas]]

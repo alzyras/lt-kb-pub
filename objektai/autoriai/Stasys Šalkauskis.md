@@ -58,6 +58,5 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Germanai]]
-- [[objektai/vietos/Lenkija]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Slavai]]

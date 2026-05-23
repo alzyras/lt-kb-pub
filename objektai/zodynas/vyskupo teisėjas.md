@@ -84,14 +84,14 @@ Daug ordino brolių žuvo, tarp jų Gdansko komtūras, Sembos vyskupo teisėjas.
     - t-002
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/upė]]
+
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/daiktai/Lankai]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/vietos/Semba]]
-- [[objektai/vietos/Strėva]]
 - [[objektai/asmenys/Vygandas]]
 - [[objektai/zodynas/komtūras]]
 - [[objektai/ivykiai/Strėvos mūšis (1348 m.)]]

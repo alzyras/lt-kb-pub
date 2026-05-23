@@ -456,17 +456,12 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Artilerija]]
-- [[objektai/vietos/Lesčiai]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/Lietuvos atsikūrimas]]
-- [[objektai/vietos/Maskva]]
 - [[objektai/zodynas/Nepriklausomybės kovos]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/posakiai/karas po karo]]
 - [[objektai/zodynas/karyba]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/daiktai/Būgnas-timpanas (būgnas-katilas)]]
-- [[objektai/vietos/Salaspilis]]
 - [[objektai/grupes/Sausio 13-osios dienos brolija]]
 - [[objektai/daiktai/Sausio 13-osios dienos brolijos ženklelis]]

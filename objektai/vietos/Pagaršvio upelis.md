@@ -51,9 +51,3 @@ Ašmintos km. Pagaršvio upelio šlaite MGB grupė apsupo partizanų bunkerį, k
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Ašminta]]
-- [[objektai/asmenys/Birutė]]
-- [[objektai/vietos/Prienai]]

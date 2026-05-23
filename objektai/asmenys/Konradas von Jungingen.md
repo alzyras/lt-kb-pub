@@ -54,7 +54,5 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/žygis]]
-- [[objektai/vietos/Lietuva]]

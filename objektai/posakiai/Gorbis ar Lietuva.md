@@ -45,7 +45,5 @@ Gorbačiovo reformoms, o jį patį nuvers „vanagai“.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Baltija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/ivykiai/Lietuvos nepriklausomybės tarptautinis pripažinimas (1991 m. vasario 11 d. – rugsėjo 6 d.)]]
 - [[objektai/asmenys/Michailas Gorbačiovas]]

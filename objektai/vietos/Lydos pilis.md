@@ -74,8 +74,3 @@ Tai pilis, minima tarp ankstyvųjų Vytauto mūro statybų.
 ## Šaltiniai ir įrodymai
 
 ## Pastabos
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Medininkų pilis|Medininkų pilis (pilis)]]
-- [[objektai/vietos/Vilnius]]

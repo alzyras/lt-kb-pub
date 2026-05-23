@@ -82,6 +82,4 @@ Kozakauskas, D. Kozakauskas ir dar keletas karininkų.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Rusija]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

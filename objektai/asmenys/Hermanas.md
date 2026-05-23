@@ -55,17 +55,10 @@ Po keturių savaičių apgulties, po daugelio susidūrimų meistras Hermanas vie
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Viena]]
 - [[objektai/zodynas/komtūras]]
-- [[objektai/vietos/Aistmarios]]
 - [[objektai/daiktai/Balnakilpės]]
 - [[objektai/paprociai/Baltijos kelias kaip gyvos žmonių grandinės komemoracinė protesto forma]]
-- [[objektai/vietos/Gedimino bokštas]]
-- [[objektai/vietos/Hermano bokštas]]
 - [[objektai/grupes/Kalavijuočių ordinas]]
-- [[objektai/vietos/Kulmas]]
-- [[objektai/vietos/Rimini]]
 - [[objektai/grupes/Rusijos kariuomenės korpusas]]
 - [[objektai/daiktai/Sidabruotos geležinės XI-XII a. balnakilpės]]
 - [[objektai/zodynas/karyba]]
-- [[objektai/vietos/Šiaulių žemė]]

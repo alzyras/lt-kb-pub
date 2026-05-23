@@ -166,25 +166,3 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Europa]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Maskva]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/vietos/Vorskla]]
-- [[objektai/vietos/Černigovas]]
-- [[objektai/asmenys/Glebas (Smolensko kunigaikštis)]]
-- [[objektai/asmenys/Jagurčinas]]
-- [[objektai/asmenys/Mengu Timūras]]
-- [[objektai/autoriai/M. Strijkovskis|Motiejus Strijkovskis (kronikininkas)]]
-- [[objektai/asmenys/Olegas (Romano sūnus)]]
-- [[objektai/vietos/Ratne]]
-- [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
-- [[objektai/asmenys/Spytkas iš Melsztyno]]
-- [[objektai/vietos/Starodubas]]
-- [[objektai/vietos/Trubčevskas]]
-- [[objektai/ivykiai/Vitebsko užėmimas (1392 m.)]]
-- [[objektai/daiktai/Vytauto vėliava]]

@@ -98,14 +98,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Aukaimis]]
-- [[objektai/vietos/Dubysa]]
-- [[objektai/vietos/Gaižuva]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Nemunas]]
-- [[objektai/vietos/Pačtuva]]
-- [[objektai/vietos/Peštvė]]
-- [[objektai/vietos/Viena]]
-- [[objektai/vietos/Vilkija]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/vietos/Pograuda]]

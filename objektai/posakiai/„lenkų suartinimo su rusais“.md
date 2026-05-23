@@ -59,5 +59,3 @@ Taip tikėtasi iš pačių lietuvių paruošti rusų aukštosios kultūros proce
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Rusija]]
-- [[objektai/vietos/Lenkijos karalystė]]

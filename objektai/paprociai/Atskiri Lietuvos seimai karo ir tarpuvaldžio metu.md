@@ -112,9 +112,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Atskiri Lietuvos seimai]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Liublinas]]
-- [[objektai/vietos/Maskva]]
 - [[objektai/zodynas/unija]]

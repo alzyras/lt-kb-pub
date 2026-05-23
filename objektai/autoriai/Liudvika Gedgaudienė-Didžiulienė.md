@@ -124,5 +124,3 @@ Liudvika Gedgaudienė-Didžiulienė šiame leidinyje minima kaip užrašų ir pr
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Varpai]]
-- [[objektai/vietos/Viena]]
-- [[objektai/vietos/Salos]]

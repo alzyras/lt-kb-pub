@@ -58,10 +58,6 @@ Kandidatu į jaunos ir gražios Jadvygos vyrus buvo be jau minėto Vilhelmo, dar
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Austrija]]
-- [[objektai/vietos/Gniezno]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Mažlenkiai]]
 - [[objektai/asmenys/Vladislovas]]
 - [[objektai/zodynas/kunigaikščiai]]

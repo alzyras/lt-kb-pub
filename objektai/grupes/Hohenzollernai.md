@@ -58,10 +58,8 @@ Kai vienu metu anos garsiosios trys dinastijos (Romanovai, Hohenzollernai, Habsb
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
+- [[temos/upė]]
 
 ### Susiję objektai
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/unija]]
-- [[objektai/vietos/Viena]]
 - [[objektai/grupes/Romanovų dinastija]]

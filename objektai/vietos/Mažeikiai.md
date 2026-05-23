@@ -50,15 +50,3 @@ Budrio traukinys per Mažeikius, per Latvijos teritoriją (Priekulę) atvyksta �
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Latvija]]
-- [[objektai/vietos/Šiauliai]]
-- [[objektai/vietos/Ceklis]]
-- [[objektai/vietos/Jonavos azotinių trąšų gamykla]]
-- [[objektai/vietos/Kauno HES]]
-- [[objektai/vietos/Mažeikių naftos perdirbimo įmonė]]
-- [[objektai/ivykiai/SSRS ekonominė blokada Lietuvai (1990 m. balandžio 18 d. – birželio 29 d.)]]
-- [[objektai/vietos/Kretinga]]
-- [[objektai/vietos/Priekulė]]

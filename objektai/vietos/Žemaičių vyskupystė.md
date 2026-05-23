@@ -47,14 +47,3 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Kuršas]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/autoriai/Motiejus Valančius]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/zodynas/vyskupystė]]
-- [[objektai/paprociai/Blaivybės brolijų ir blaivybės skelbimo praktika]]
-- [[objektai/ivykiai/Blaivybės brolijų kūrimas ir plitimas Žemaičių vyskupystėje (1858—1859 m.)]]
-- [[objektai/vietos/Vilniaus vyskupystė]]

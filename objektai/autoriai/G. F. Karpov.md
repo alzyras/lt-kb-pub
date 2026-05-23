@@ -51,7 +51,4 @@ Karpov, 1892) ir t.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Totoriai]]
-- [[objektai/vietos/Maskva]]

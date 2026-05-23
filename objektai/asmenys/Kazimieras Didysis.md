@@ -118,17 +118,12 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Aldona Gediminaitė]]
-- [[objektai/vietos/Dobrynė]]
-- [[objektai/vietos/Galicija]]
 - [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Kazimieras]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Pamaris]]
 - [[objektai/grupes/Vengrai]]
 - [[objektai/asmenys/Vladislovas]]
 - [[objektai/asmenys/Vladislovas Łokietka]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Lokietka]]
 - [[objektai/asmenys/Boleslovas Jurgis Traidenaitis]]

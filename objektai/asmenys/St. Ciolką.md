@@ -56,8 +56,4 @@ Ciolką.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Husitai]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Luckas]]
 - [[objektai/zodynas/ciesorius]]
-- [[objektai/vietos/Poznanė]]

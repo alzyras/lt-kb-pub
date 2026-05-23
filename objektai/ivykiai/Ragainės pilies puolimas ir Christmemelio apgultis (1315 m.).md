@@ -70,7 +70,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
-- [[objektai/vietos/Ragainė]]
 - [[objektai/asmenys/Traidenis]]
 - [[objektai/asmenys/Vytenis]]
 - [[objektai/zodynas/magistras]]

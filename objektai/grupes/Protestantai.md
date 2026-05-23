@@ -92,7 +92,6 @@ Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalika
 - [[temos/didikas]]
 
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/paprociai/Didikų perėjimas į kalvinizmą ir funduotų bažnyčių sekuliarizavimas]]
 - [[objektai/paprociai/Jėzuitų viešos religinės kovos praktikos]]
 - [[objektai/grupes/Kalvinai]]
@@ -105,13 +104,9 @@ Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalika
 - [[objektai/ivykiai/Protestanto nubaudimas per Dievo Kūno procesiją Vilniuje (1611 m.)]]
 - [[objektai/paprociai/Protestantų pamaldos lenkiškai]]
 - [[objektai/ivykiai/Rusijos ir Prūsijos sutartis remti Poniatausko kandidatūrą (1764 m.)]]
-- [[objektai/vietos/Semetyčiai]]
-- [[objektai/vietos/Sluckas]]
 - [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
 - [[objektai/ivykiai/Vilniaus universiteto įkūrimas]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/karakolė]]
 - [[objektai/zodynas/protestantizmas]]
 - [[objektai/posakiai/„aidint patrankoms, mūzos tyli“]]
-- [[objektai/vietos/Anglija]]
 - [[objektai/grupes/Nesvyžiaus Radvilos]]

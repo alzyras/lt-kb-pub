@@ -206,15 +206,8 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas]]
-- [[objektai/vietos/Krymas]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Prostkai]]
-- [[objektai/vietos/Prūsai]]
 - [[objektai/asmenys/Walenrodto]]
 - [[objektai/zodynas/raitarai]]
 - [[objektai/grupes/Švedai]]
-- [[objektai/vietos/Švedija]]
-- [[objektai/vietos/Salaspilis]]
 - [[objektai/ivykiai/Švedijos karo paskelbimas ATR (1655 m.)]]
-- [[objektai/vietos/Brandenburgas]]

@@ -52,6 +52,5 @@ Vytautas Žukas pasakoja apie AT gynybos principus. Vytautas Žukas buvo numatyt
     - t-001
 
 ## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Aukščiausiosios Tarybos rūmai|Aukščiausiosios Tarybos rūmai (institucija)]]
-- [[objektai/vietos/Lietuva]]
+### Teminiai klasteriai
+- [[temos/tikėjimas]]

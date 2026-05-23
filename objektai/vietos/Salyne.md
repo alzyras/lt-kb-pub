@@ -54,20 +54,3 @@ Nemuno saloje „Salyne“ (kiek žemiau Kulautuvos) Vytauto ir didžiojo magist
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Nemunas]]
-- [[objektai/vietos/Nevėžis]]
-- [[objektai/vietos/Sūduva]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/vietos/Šešupė]]
-- [[objektai/vietos/Žemaitija]]
-- [[objektai/daiktai/Karūna]]
-- [[objektai/vietos/Salynas]]
-- [[objektai/ivykiai/Salyno sutartis|Salyno sutartis (sutartis)]]
-- [[objektai/ivykiai/Derybos Salyne su Vokiečių ordinu]]
-- [[objektai/asmenys/Mykolas Kiuchmeisteris fon Štenbergas]]
-- [[objektai/vietos/Kulautuva]]

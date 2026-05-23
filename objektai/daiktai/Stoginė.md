@@ -102,8 +102,3 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Viena]]
-- [[objektai/vietos/Joniškio apskritis]]

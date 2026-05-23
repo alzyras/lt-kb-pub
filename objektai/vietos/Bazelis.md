@@ -118,13 +118,3 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Konstanca]]
-- [[objektai/zodynas/unija]]
-- [[objektai/asmenys/Švitrigaila]]
-- [[objektai/asmenys/Aleksandra (Mozūrijos kunigaikštienė)]]
-- [[objektai/grupes/Bazelio bažnytinis susirinkimas]]
-- [[objektai/vietos/Florencija]]
-- [[objektai/zodynas/konsiliumas]]

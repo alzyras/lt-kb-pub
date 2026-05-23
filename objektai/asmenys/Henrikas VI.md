@@ -56,7 +56,5 @@ Ir tikrai, kada Gilbert de Lannoy, Ang­ lijos karaliaus Henriko VI pasiuntinys 
 - [[temos/pinigai]]
 
 ### Susiję objektai
-- [[objektai/vietos/Krymas]]
 - [[objektai/grupes/Totoriai]]
-- [[objektai/vietos/Anglija]]
 - [[objektai/posakiai/lydimojo rašto]]

@@ -68,6 +68,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Krikščionys]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Ryga]]
 - [[objektai/grupes/Lietuviai]]

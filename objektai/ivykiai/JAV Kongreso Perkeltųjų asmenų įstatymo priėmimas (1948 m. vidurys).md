@@ -70,7 +70,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Australija]]
-- [[objektai/vietos/Baltija]]
-- [[objektai/vietos/Lenkija]]
 - [[objektai/grupes/Lietuviai]]

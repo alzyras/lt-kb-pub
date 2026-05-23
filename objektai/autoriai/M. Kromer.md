@@ -52,9 +52,5 @@ Kromerio kronikos.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Europa]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Livonija]]
-- [[objektai/vietos/Prūsai]]
 - [[objektai/grupes/Rusai]]

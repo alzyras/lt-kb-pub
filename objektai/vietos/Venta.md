@@ -48,15 +48,3 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Dubysa]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Livonija]]
-- [[objektai/vietos/Minija]]
-- [[objektai/vietos/Šušvė]]
-- [[objektai/vietos/Ceklio sritis]]
-- [[objektai/vietos/Ceklis]]
-- [[objektai/zodynas/Medė|medė]]

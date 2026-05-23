@@ -54,7 +54,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/litas]]
 - [[objektai/daiktai/Lietuvos pinigai litas]]
 - [[objektai/zodynas/Valiutų valdybos modelis]]

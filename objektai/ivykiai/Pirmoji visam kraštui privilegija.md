@@ -71,4 +71,3 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Krikščionys]]
-- [[objektai/vietos/Lietuva]]

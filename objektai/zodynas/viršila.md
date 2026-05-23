@@ -55,7 +55,6 @@ tags:
 ### Susiję objektai
 - [[objektai/asmenys/Antanas Šukys]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Vidugiriai]]
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/grupes/11 brigada]]
 - [[objektai/grupes/6-asis pėstininkų Pilėnų Kunigaikščio Margio pulkas]]
@@ -63,4 +62,3 @@ tags:
 - [[objektai/posakiai/MIRTIES AKIVAIZDOJE]]
 - [[objektai/grupes/Marijampolės batalionas]]
 - [[objektai/grupes/Mokomoji kuopa]]
-- [[objektai/vietos/Nedzingė]]

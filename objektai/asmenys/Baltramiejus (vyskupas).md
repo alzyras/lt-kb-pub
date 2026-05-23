@@ -58,10 +58,3 @@ Baltramiejus ir abatas Bernardas), Gediminas diplomatiškai išsisukinėjo, veng
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Naugardas]]
-- [[objektai/vietos/Gnievkove]]
-- [[objektai/vietos/Vakarų Europa]]
-- [[objektai/vietos/Avinjonas]]

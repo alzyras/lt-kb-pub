@@ -57,7 +57,6 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos Respublika]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
@@ -66,7 +65,6 @@ tags:
 - [[objektai/autoriai/Andžej Geglis]]
 - [[objektai/autoriai/Dalius Žygelis]]
 - [[objektai/autoriai/Karolis Zikaras]]
-- [[objektai/vietos/Kiauneliškiai]]
 - [[objektai/autoriai/Loreta Uzdraitė]]
 - [[objektai/autoriai/Ričardas Čekutis]]
 - [[objektai/autoriai/Skučas A]]

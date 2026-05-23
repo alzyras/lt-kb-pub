@@ -67,7 +67,3 @@ Nenurodyta
     - t-001
 
 ## Puslapis 151 Pėstininkų muškieta titnagine spyna (pėstininkų fuzėja).
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Prūsija]]

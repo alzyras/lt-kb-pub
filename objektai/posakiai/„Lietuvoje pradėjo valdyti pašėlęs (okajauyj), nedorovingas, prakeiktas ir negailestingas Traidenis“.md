@@ -60,8 +60,6 @@ ji pradžioje pažymi : « Lietuvoje pradėjo valdyti pašėlęs (okajauyj), ned
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Jeruzalė]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Traidenis]]
 - [[objektai/zodynas/lietopisis]]
 - [[objektai/zodynas/lietopisis lietopisiai]]

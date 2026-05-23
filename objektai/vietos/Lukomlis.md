@@ -76,12 +76,3 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Livonija]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/asmenys/Švitrigaila]]
-- [[objektai/vietos/Didžiųjų Lukų tvirtovė]]
-- [[objektai/vietos/Kijevas]]
-- [[objektai/asmenys/Mikalojus Radvila Rudasis]]

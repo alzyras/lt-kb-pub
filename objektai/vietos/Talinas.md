@@ -152,17 +152,3 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/paprociai/Baltijos kelias kaip gyvos žmonių grandinės komemoracinė protesto forma]]
-- [[objektai/asmenys/Eilartas fon Hobergas]]
-- [[objektai/asmenys/Ernestas fon Racburgas]]
-- [[objektai/vietos/Gedimino bokštas]]
-- [[objektai/vietos/Hermano bokštas]]
-- [[objektai/ivykiai/Karusės mūšis (1270 m. vasario 16 d.)]]
-- [[objektai/asmenys/Ottonas Luterbergas]]
-- [[objektai/vietos/Piltenė]]
-- [[objektai/grupes/Rygos miesto taryba|Rygos miesto taryba (institucija)]]
-- [[objektai/vietos/Saremos]]
-- [[objektai/vietos/Tartai]]

@@ -70,10 +70,7 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
 ### Susiję objektai
 - [[objektai/zodynas/seniūnas]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/paprociai/Lietuvos bajorijos seimai]]
-- [[objektai/vietos/Trakai]]
 - [[objektai/zodynas/pavietas]]
 - [[objektai/zodynas/pilies teismas|pilies teismas (pilis)]]
 - [[objektai/zodynas/seimelis]]

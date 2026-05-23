@@ -59,7 +59,6 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Ambasadorių Konferencija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos seimas|Lietuvos seimas (seimas)]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

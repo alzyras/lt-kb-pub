@@ -71,11 +71,3 @@ Su tam tikru pagrindu virvelinės kera­ mikos kultūros šaknų yra ieškoma pi
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Europa]]
-- [[objektai/vietos/Kaukazas]]
-- [[objektai/vietos/Rusija]]
-- [[objektai/vietos/Ukraina]]
-- [[objektai/zodynas/Adynos|adynos]]

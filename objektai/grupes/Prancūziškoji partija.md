@@ -85,5 +85,4 @@ Prancūziškoji partija pagaliau apie karaliaus pašalinimą jau nebegalvojo, ne
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Maskva]]
 - [[objektai/ivykiai/Jono Sobieskio elekcija (1674 m.)]]

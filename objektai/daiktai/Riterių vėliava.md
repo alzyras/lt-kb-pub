@@ -90,8 +90,6 @@ Nenurodyta
 - [[temos/simbolis]]
 
 ### Susiję objektai
-- [[objektai/vietos/Aizkrauklė]]
-- [[objektai/vietos/Livonija]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/vėliava]]
 - [[objektai/daiktai/Vėliavos]]

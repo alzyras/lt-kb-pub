@@ -59,12 +59,3 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/daiktai/Patrankos]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/asmenys/M. Dejevas]]
-- [[objektai/vietos/Paupys]]

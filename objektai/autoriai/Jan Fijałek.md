@@ -59,9 +59,7 @@ Jan Fijałek 1415 mt.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Konstancija]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Lenkija]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/zodynas/memorialas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

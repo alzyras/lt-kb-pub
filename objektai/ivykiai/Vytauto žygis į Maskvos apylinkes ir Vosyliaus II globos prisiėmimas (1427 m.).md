@@ -103,10 +103,6 @@ Nenurodyta
 - [[temos/laiškas]]
 
 ### Susiję objektai
-- [[objektai/vietos/Donas]]
-- [[objektai/vietos/Maskva]]
-- [[objektai/vietos/Minskas]]
-- [[objektai/vietos/Pronskas]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/kunigaikštija]]

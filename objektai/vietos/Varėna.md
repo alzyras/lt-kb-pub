@@ -219,24 +219,3 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-009
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Alytus]]
-- [[objektai/vietos/Kaunas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Nemunas]]
-- [[objektai/vietos/Suvalkai]]
-- [[objektai/vietos/Vokietija]]
-- [[objektai/zodynas/demarkacijos linija]]
-- [[objektai/vietos/Šeštokai]]
-- [[objektai/ivykiai/Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga)]]
-- [[objektai/grupes/Aukščiausioji Santarvininkių Taryba|Aukščiausioji Santarvininkių Taryba (institucija)]]
-- [[objektai/vietos/Juodoji Ančia]]
-- [[objektai/vietos/Lazdijai]]
-- [[objektai/vietos/Marcinkonys]]
-- [[objektai/vietos/Merkinė]]
-- [[objektai/ivykiai/Suvalkų derybos ir demarkacinės linijos nustatymas]]
-- [[objektai/ivykiai/Suvalkų derybos ir sutartis (1920 m. rugsėjo 20 d. – spalio 7 d.)]]
-- [[objektai/daiktai/Šarvuotasis traukinys Gediminas]]

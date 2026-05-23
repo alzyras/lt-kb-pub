@@ -42,11 +42,3 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Europa]]
-- [[objektai/grupes/Kazokai]]
-- [[objektai/vietos/Kražiai]]
-- [[objektai/ivykiai/Kražių įvykiai]]
-- [[objektai/grupes/Lietuviai]]

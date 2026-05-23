@@ -129,27 +129,3 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Breslavas]]
-- [[objektai/posakiai/Grünwaldo pergalės atsisakymas]]
-- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
-- [[objektai/vietos/Karaliaučius]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Loebau]]
-- [[objektai/vietos/Podolija]]
-- [[objektai/vietos/Podolė]]
-- [[objektai/daiktai/Sienodaužiai]]
-- [[objektai/vietos/Tanenbergas]]
-- [[objektai/vietos/Tannenbergas]]
-- [[objektai/vietos/Tornas]]
-- [[objektai/ivykiai/Torno taika (1411 m.)]]
-- [[objektai/asmenys/Ulrichas von Jungingenas]]
-- [[objektai/grupes/Vokietijos kunigaikščiai]]
-- [[objektai/ivykiai/Žemaičių krikštas|Žemaičių krikštas (krikštas)]]
-- [[objektai/zodynas/didysis magistras]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/vietos/Elbingas]]
-- [[objektai/vietos/Marijenburgas]]
-- [[objektai/vietos/Varmijos vyskupystė]]

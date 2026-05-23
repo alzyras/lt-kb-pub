@@ -94,7 +94,3 @@ Andrius Rudamina minimas kaip Vilniaus universiteto auklėtinis, Kinijoje mision
 
 ### Susiję objektai
 - [[objektai/grupes/Totoriai]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/vietos/Švedija]]
-- [[objektai/vietos/Kinija]]
-- [[objektai/vietos/Rudamina]]

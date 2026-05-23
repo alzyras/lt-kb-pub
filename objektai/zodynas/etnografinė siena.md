@@ -104,7 +104,5 @@ kadangi ji nesutapo su etnografine lietuvių siena, tai pradžioje čia pasitaik
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/ivykiai/Vilniaus konferencija (1917 m. rugsėjo 18–22 d.)]]
-- [[objektai/vietos/Vilnius]]

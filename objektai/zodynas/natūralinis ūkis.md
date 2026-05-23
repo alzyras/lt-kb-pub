@@ -47,6 +47,3 @@ Tais laikais Lietuvoje dar tebevyravo natūralinis ūkis.
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/pinigai]]
-
-### Susiję objektai
-- [[objektai/vietos/Lietuva]]

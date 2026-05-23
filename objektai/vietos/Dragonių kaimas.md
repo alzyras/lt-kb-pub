@@ -50,8 +50,3 @@ Pirmiausia buvo pulta viena vietinių vyrų, daugiausia iš Dragonių k.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Viena]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

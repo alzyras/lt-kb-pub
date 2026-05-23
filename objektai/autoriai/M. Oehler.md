@@ -51,5 +51,4 @@ Oehler : Der Krieg zwischen dem Deutschen Orden und PolenLitauen 1409-1411, Elbi
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Elbingas]]
 - [[objektai/grupes/Vokiečiai]]

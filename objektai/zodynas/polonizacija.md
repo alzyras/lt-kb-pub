@@ -44,10 +44,11 @@ tags:
     - t-001
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/elekcija]]
+
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/integracinė kalba polonizacija]]
 - [[objektai/zodynas/polonizacija integracinė kalba]]
 - [[objektai/zodynas/bolševizacija]]

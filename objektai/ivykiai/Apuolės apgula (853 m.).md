@@ -66,6 +66,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kuršiai]]
-- [[objektai/vietos/Seeburgas]]
 - [[objektai/grupes/Švedai]]
 - [[objektai/zodynas/įkaitai]]

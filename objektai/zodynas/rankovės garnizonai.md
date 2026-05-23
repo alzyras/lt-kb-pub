@@ -48,5 +48,4 @@ Kampuose buvo išdėstomi šaulių padaliniai - „rankovės, batalionu, kolona 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuvos kariuomenė]]

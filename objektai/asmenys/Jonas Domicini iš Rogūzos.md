@@ -53,7 +53,4 @@ At­ sirado ir savanoris važiuoti į Lietuvą — kardinolas Jonas Do­ micini 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Ryga]]
 - [[objektai/zodynas/Savanoris]]
-- [[objektai/vietos/Žemaitija]]

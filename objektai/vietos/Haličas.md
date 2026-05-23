@@ -40,17 +40,3 @@ Lietuva tapo politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo lai
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Kijevo Rusia]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/asmenys/Mindaugas]]
-- [[objektai/vietos/Polockas]]
-- [[objektai/vietos/Pskovas]]
-- [[objektai/vietos/Voluinė]]
-- [[objektai/asmenys/Benediktas]]
-- [[objektai/asmenys/Boleslovas Jurgis Traidenaitis]]
-- [[objektai/vietos/Haličo ir Volinijos žemės]]
-- [[objektai/asmenys/Levas (Haličo kunigaikštis)]]
-- [[objektai/ivykiai/Valkavisko perdavimas Haličo-Volinijos kunigaikščiams (1289 m.)]]

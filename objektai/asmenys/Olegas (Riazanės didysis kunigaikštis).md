@@ -54,7 +54,4 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Riazanė]]
-- [[objektai/vietos/Smolenskas]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]

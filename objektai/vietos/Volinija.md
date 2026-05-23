@@ -168,19 +168,3 @@ Taip yra, pvz., ir konflikte su lenkais dėl Podolės, dėl Volinijos. Taigi tur
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
-
-## Ryšiai
-### Teminiai klasteriai
-- [[temos/papuošalas]]
-
-### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/zodynas/kunigaikštija]]
-- [[objektai/ivykiai/1279 m. badmetis Lietuvoje ir Jotvingijoje]]
-- [[objektai/vietos/Haličo ir Volinijos žemės]]
-- [[objektai/grupes/Jotvingiai]]
-- [[objektai/ivykiai/Lietuvos kunigų sutartis su Volinijos kunigaikščio Romano našle (1219 m.)]]
-- [[objektai/vietos/Polesė]]
-- [[objektai/ivykiai/Valkavisko perdavimas Haličo-Volinijos kunigaikščiams (1289 m.)]]
-- [[objektai/asmenys/Liubartas]]

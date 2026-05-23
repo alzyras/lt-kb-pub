@@ -71,15 +71,10 @@ Jų tarpe buvo ir didysis poetas Mickevičius, kurio raštai jau tada susirenkan
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Rusija]]
 - [[objektai/daiktai/Adomo Mickevičiaus paminklas Vilniuje]]
-- [[objektai/vietos/Dobrino žemė]]
 - [[objektai/daiktai/Herbai]]
-- [[objektai/vietos/Jieznas]]
 - [[objektai/ivykiai/Konrado Wallenrodo žygis į Lietuvą ir Vytauto kontrpuolimas Nemuno ruože (1391 m.)]]
 - [[objektai/ivykiai/LLL mitingas prie Adomo Mickevičiaus paminklo Vilniuje (1987 m. rugpjūčio 23 d.)]]
 - [[objektai/paprociai/Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje]]
-- [[objektai/vietos/Stakliškės]]
 - [[objektai/grupes/Vilniaus romantizmo mokykla]]
 - [[objektai/zodynas/senalietuviai jaunalietuviai]]
-- [[objektai/vietos/Kaunas]]

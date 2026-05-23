@@ -117,10 +117,3 @@ gatai išvyko į Lozaną (Lausanne, Šveicarijoje), kur tų pavergtų tautų kon
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/ivykiai/Antroji Lozanos konferencija (1916 m. birželio 30 d. – liepos 4 d.)]]
-- [[objektai/asmenys/Juozas Gabrys-Paršaitis]]
-- [[objektai/grupes/Lietuvių informacijos biuras Lozanoje]]

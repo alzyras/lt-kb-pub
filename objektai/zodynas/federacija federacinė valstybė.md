@@ -108,16 +108,10 @@ Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira vyk
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kaunas]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Varšuva]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/etmonas]]
 - [[objektai/zodynas/statutas]]
-- [[objektai/vietos/Šveicarija]]
 - [[objektai/zodynas/unija]]
 - [[objektai/daiktai/Didysis Lietuvos antspaudas]]
 - [[objektai/zodynas/federacija konfederacinė valstybė unitarinė valstybė]]

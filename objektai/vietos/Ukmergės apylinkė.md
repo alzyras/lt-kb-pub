@@ -52,12 +52,3 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Aukštaičiai]]
-- [[objektai/vietos/Dubingiai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Ukmergė]]
-- [[objektai/vietos/Šešuoliai]]

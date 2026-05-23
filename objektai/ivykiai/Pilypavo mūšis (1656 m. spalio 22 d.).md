@@ -64,7 +64,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Pilypavas]]
-- [[objektai/vietos/Prostkai]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/grupes/Švedai]]

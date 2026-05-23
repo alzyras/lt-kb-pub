@@ -69,9 +69,6 @@ Ilgainiui lietuvius Vokiečių ordino valstybėje (vėliau pasivadinusioje Prūs
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Latviai]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Prūsai]]
-- [[objektai/vietos/Prūsija]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/grupes/Vokiečių ordinas]]

@@ -46,7 +46,6 @@ Akcijose prieš žydus Lietuvoje naciai panaudojo ir rusų Andrejaus Vlasovo arm
 - [[temos/drabužis]]
 
 ### Susiję objektai
-- [[objektai/vietos/Šiauliai]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/asmenys/Ernestas Galvanauskas]]
 - [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]

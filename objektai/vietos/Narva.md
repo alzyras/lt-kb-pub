@@ -139,20 +139,3 @@ Staiga vienu puolimu jis suvaldė Daniją, o padaręs čia taiką, ties Narva (E
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Neumarkas]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/vietos/Alūksnė]]
-- [[objektai/grupes/Dono kazokų pulkas]]
-- [[objektai/asmenys/E. Sabeckis]]
-- [[objektai/daiktai/Kovinis dalgis]]
-- [[objektai/grupes/Narvos muškietininkų pulkas]]
-- [[objektai/ivykiai/Naujaberžės kautynės]]
-- [[objektai/grupes/Pskovo muškietininkų pulkas]]
-- [[objektai/vietos/Saremos sala]]
-- [[objektai/vietos/Tartu]]
-- [[objektai/vietos/Vilijandis]]

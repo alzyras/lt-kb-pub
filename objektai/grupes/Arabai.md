@@ -59,10 +59,8 @@ trumpas geografiškas ir istoriškas pa­ aiškinimas apie arabus, turkus, kurdu
 - [[temos/žemėlapis]]
 
 ### Susiję objektai
-- [[objektai/vietos/Arabija]]
 - [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
 - [[objektai/autoriai/Al'-Idrisi|Al''-Idrisi]]
 - [[objektai/posakiai/Datum in Lettowia in curia nostra]]
 - [[objektai/paprociai/Didžiojo kunigaikščio raštinės dokumentų rengimo, kaupimo ir registravimo praktika]]
-- [[objektai/vietos/Magus]]
 - [[objektai/zodynas/kelionių romanas]]

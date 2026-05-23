@@ -61,8 +61,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Prūsija]]
-- [[objektai/vietos/Vokietija]]
 - [[objektai/asmenys/Vilius Gaigalaitis]]

@@ -81,7 +81,6 @@ Tokio tipo pilys, dažnai atskirų sričių vyresniųjų-kilmingųjų, ar «kuni
 ### Susiję objektai
 - [[objektai/grupes/Aisčiai]]
 - [[objektai/grupes/Baltai]]
-- [[objektai/vietos/Prūsai]]
 - [[objektai/autoriai/Wulfstanas]]
 - [[objektai/daiktai/1863-1864 m. sukilėlių vėliava]]
 - [[objektai/autoriai/A. Mickevičius]]
@@ -109,7 +108,6 @@ Tokio tipo pilys, dažnai atskirų sričių vyresniųjų-kilmingųjų, ar «kuni
 - [[objektai/asmenys/Michailas Muravjovas]]
 - [[objektai/ivykiai/Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia)]]
 - [[objektai/grupes/Mokslo bičiulių draugija]]
-- [[objektai/vietos/Nalšėnai]]
 - [[objektai/paprociai/Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui]]
 - [[objektai/grupes/Parusėnai]]
 - [[objektai/asmenys/Peža-Palionis]]

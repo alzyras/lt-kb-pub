@@ -86,11 +86,5 @@ Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsij
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Prūsija]]
-- [[objektai/vietos/Rusija]]
-- [[objektai/vietos/Užnemunė]]
-- [[objektai/vietos/Varšuva]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/kunigaikštija]]
-- [[objektai/vietos/Naujoji Prūsija]]

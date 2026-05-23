@@ -69,11 +69,4 @@ Nenurodyta
 - [[temos/paliaubos]]
 
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Polockas]]
-- [[objektai/vietos/Rusija]]
-- [[objektai/vietos/Smolenskas]]
-- [[objektai/vietos/Ukraina]]
-- [[objektai/vietos/Vitebskas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/vietos/Kijevas]]

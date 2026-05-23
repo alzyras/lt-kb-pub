@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 56.
+Objektų skaičius: 44.
 
 ## Kaip naudoti
 
@@ -62,20 +62,6 @@ Objektų skaičius: 56.
 - [Vyresniuosius jis laikąs tėvais, lygius — broliais, o jaunesniuosius — savo vaikais](../objektai/posakiai/Vyresniuosius%20jis%20laik%C4%85s%20t%C4%97vais%2C%20lygius%20%E2%80%94%20broliais%2C%20o%20jaunesniuosius%20%E2%80%94%20savo%20vaikais)
 - [„lietuvių imperatoriumi“ `vasilea Letvon`](../objektai/posakiai/%E2%80%9Elietuvi%C5%B3%20imperatoriumi%E2%80%9C%20%60vasilea%20Letvon%60)
 - [„paskirti save Tėvynės garbei“](../objektai/posakiai/%E2%80%9Epaskirti%20save%20T%C4%97vyn%C4%97s%20garbei%E2%80%9C)
-
-### Vietos
-- [Gotlandas](../objektai/vietos/Gotlandas)
-- [Greifsvaldas](../objektai/vietos/Greifsvaldas)
-- [Lenčica](../objektai/vietos/Len%C4%8Dica)
-- [Mozūrija](../objektai/vietos/Moz%C5%ABrija)
-- [Pronskas](../objektai/vietos/Pronskas)
-- [Płockas](../objektai/vietos/P%C5%82ockas)
-- [Rostokas](../objektai/vietos/Rostokas)
-- [Stralsundas](../objektai/vietos/Stralsundas)
-- [Veliuonos pilis (pilis)](../objektai/vietos/Veliuonos%20pilis)
-- [Vroclavas](../objektai/vietos/Vroclavas)
-- [Zna](../objektai/vietos/Zna)
-- [Štetinas](../objektai/vietos/%C5%A0tetinas)
 
 ### Įvykiai
 - [Algirdo žygiai į Maskvą](../objektai/ivykiai/Algirdo%20%C5%BEygiai%20%C4%AF%20Maskv%C4%85)

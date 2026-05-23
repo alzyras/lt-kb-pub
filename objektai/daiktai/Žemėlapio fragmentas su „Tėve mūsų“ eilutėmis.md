@@ -78,6 +78,4 @@ Nenurodyta
 - [[temos/žemėlapis]]
 
 ### Susiję objektai
-- [[objektai/vietos/Europa]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Niurnbergas]]

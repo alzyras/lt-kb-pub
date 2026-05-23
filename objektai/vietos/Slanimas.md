@@ -116,25 +116,3 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Nemunas]]
-- [[objektai/vietos/Rusija]]
-- [[objektai/vietos/Alūkšta]]
-- [[objektai/vietos/Bernas]]
-- [[objektai/vietos/Gardinas]]
-- [[objektai/vietos/Juodoji Rusija]]
-- [[objektai/asmenys/Jurgis Šaulys]]
-- [[objektai/vietos/Kauno gubernija]]
-- [[objektai/vietos/Pulavai]]
-- [[objektai/asmenys/Steponas Kairys]]
-- [[objektai/vietos/Tulčinas]]
-- [[objektai/vietos/Valkaviskas]]
-- [[objektai/ivykiai/Valkavisko perdavimas Haličo-Volinijos kunigaikščiams (1289 m.)]]
-- [[objektai/vietos/Vilniaus gubernija]]
-- [[objektai/ivykiai/Voluinės kunigaikščių žygiai prieš jotvingus ir Gardino užėmimas]]
-- [[objektai/zodynas/etnografinės ribos etnografinis principas]]
-- [[objektai/zodynas/generaliniai seimeliai]]
-- [[objektai/vietos/Naugardukas]]

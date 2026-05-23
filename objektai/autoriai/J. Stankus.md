@@ -59,7 +59,6 @@ Stankus, J. — Stankus, J.
 - [[temos/įrankis]]
 
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/daiktai/Skydas]]
 - [[objektai/daiktai/Geležiniai įrankiai]]
 - [[objektai/grupes/LTSR Mokslų Akademijos Istorijos Institutas]]

@@ -53,10 +53,3 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Baltija]]
-- [[objektai/vietos/Estija]]
-- [[objektai/vietos/Europa]]
-- [[objektai/vietos/Latvija]]

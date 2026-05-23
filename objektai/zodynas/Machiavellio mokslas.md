@@ -46,5 +46,4 @@ Bona atsinešė iš Italijos įsitikinimus, kad valdovas turįs siekti valdžios
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Italija]]
 - [[objektai/autoriai/Machiavellio]]

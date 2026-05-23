@@ -120,19 +120,3 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Bizantija]]
-- [[objektai/vietos/Kazanė]]
-- [[objektai/vietos/Maskva]]
-- [[objektai/vietos/Pskovas]]
-- [[objektai/asmenys/Aleksandras (Moldavijos valdovas)]]
-- [[objektai/vietos/Chotinas]]
-- [[objektai/asmenys/Jonas Paleologas]]
-- [[objektai/asmenys/Manuelis]]
-- [[objektai/asmenys/Muradas II]]
-- [[objektai/vietos/Ukraina]]
-- [[objektai/vietos/Valakija]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/vietos/Naugardas]]

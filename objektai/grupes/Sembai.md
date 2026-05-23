@@ -135,18 +135,10 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Estai]]
-- [[objektai/vietos/Europa]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Livonija]]
-- [[objektai/vietos/Prūsija]]
-- [[objektai/vietos/Revelis]]
 - [[objektai/grupes/Totoriai]]
-- [[objektai/vietos/Vokietija]]
 - [[objektai/zodynas/kryžininkai]]
 - [[objektai/grupes/Švedai]]
-- [[objektai/vietos/Birka (Švedijos uostas)]]
-- [[objektai/vietos/Ceklio sritis]]
 - [[objektai/grupes/Galindai]]
 - [[objektai/autoriai/Saxo Grammaticus]]
 - [[objektai/grupes/Notangai]]

@@ -55,6 +55,4 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Rusai]]
-- [[objektai/vietos/Rusija]]
-- [[objektai/vietos/Viena]]
 - [[objektai/zodynas/konfederacija]]

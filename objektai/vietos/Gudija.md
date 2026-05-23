@@ -75,21 +75,3 @@ Liepos 17-osios nutarimu iš „buvusių laisvų Lietuvos, Latvijos, Estijos val
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/asmenys/Mindaugas]]
-- [[objektai/vietos/Mohilna]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/autoriai/D. Pochilevyč]]
-- [[objektai/vietos/Gudijos plotai]]
-- [[objektai/grupes/Nacių Vokietija]]
-- [[objektai/vietos/Rytų kraštas (Ostlandas)]]
-- [[objektai/ivykiai/Rytų krašto (Ostlando) reicho komisariato sudarymas ir civilinio okupacinio valdymo įvedimas (1941 m. liepos pabaiga)]]
-- [[objektai/autoriai/S. Grunau]]
-- [[objektai/autoriai/Simono Grunau]]
-- [[objektai/grupes/Variagai (normanai)]]
-- [[objektai/zodynas/variagų (normanų) laikotarpis]]

@@ -51,10 +51,3 @@ Trečiasis buvo nuo Simno kilęs Ignas Jonynas, kuris 1905 m. porai metų istori
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Prancūzija]]
-- [[objektai/vietos/Simnas]]
-- [[objektai/autoriai/S. Grunau]]
-- [[objektai/autoriai/Simono Grunau]]

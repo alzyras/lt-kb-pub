@@ -67,9 +67,3 @@ Universiteto globėju iki 1824 m. buvo Lenkijos didikų atžala – Adomas Jurgi
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/didikas]]
-
-### Susiję objektai
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Rusija]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/vietos/Lietuva]]

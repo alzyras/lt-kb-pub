@@ -236,28 +236,3 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-010
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/daiktai/Laivai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Livonija]]
-- [[objektai/asmenys/Otokaras (Čekijos karalius)]]
-- [[objektai/vietos/Prūsai]]
-- [[objektai/vietos/Rudava]]
-- [[objektai/vietos/Čekija]]
-- [[objektai/autoriai/Dusburgas (Kryžiuočių ordino kronikininkas)]]
-- [[objektai/ivykiai/Junigėdos puolimas laivu ir Surmino kontrataka (1313 m.)]]
-- [[objektai/ivykiai/Klaipėdos puolimas ir Gedimino būrių Sembos teriojimas (1323 m.)]]
-- [[objektai/autoriai/Petras Dusburgietis]]
-- [[objektai/asmenys/Pršemyslas Otokaras II]]
-- [[objektai/ivykiai/Strėvos mūšis (1348 m.)]]
-- [[objektai/vietos/Strėvos upė]]
-- [[objektai/autoriai/Vygandas Marburgietis]]
-- [[objektai/ivykiai/Vytenio žygis į Sembą, Natangą ir Varmę bei pralaimėjimas Woplaukene (1311 m.)]]
-- [[objektai/asmenys/Vytenis (Lietuvos karalius)]]
-- [[objektai/zodynas/stabmeldys]]
-- [[objektai/zodynas/vyskupo teisėjas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/Vytauto paliaubos ir taikos derybos su Livonijos ordinu (1410 m. vasara)]]

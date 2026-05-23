@@ -67,7 +67,5 @@ Bet visos didžiosios Europos tautos jau seniai pradėjo tvarkyti savo emigracij
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Pietų Amerika]]
 - [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/vietos/Padauguvis]]
 - [[objektai/zodynas/vokiečių ateivių valstybė]]

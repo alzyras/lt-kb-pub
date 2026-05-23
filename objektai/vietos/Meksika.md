@@ -69,13 +69,3 @@ De jure Lietuva tebuvo pripažinta tik Vokietijos, Rusijos, Šveicarijos, Argent
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Kanada]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Japonija]]
-- [[objektai/vietos/Airija]]
-- [[objektai/vietos/Argentina]]
-- [[objektai/vietos/Lisabona]]
-- [[objektai/vietos/Madridas]]

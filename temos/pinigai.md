@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 48.
+Objektų skaičius: 43.
 
 ## Kaip naudoti
 
@@ -58,13 +58,6 @@ Objektų skaičius: 48.
 
 ### Posakiai
 - [lydimojo rašto](../objektai/posakiai/lydimojo%20ra%C5%A1to)
-
-### Vietos
-- [Drezdenas](../objektai/vietos/Drezdenas)
-- [Merkinės dvaras](../objektai/vietos/Merkin%C4%97s%20dvaras)
-- [Padnieprė](../objektai/vietos/Padniepr%C4%97)
-- [Turgeliai](../objektai/vietos/Turgeliai)
-- [Uždauguvis](../objektai/vietos/U%C5%BEdauguvis)
 
 ### Įvykiai
 - [Lietuvos skriaudų viešinimo akcijos Amerikoje (1894–1900 m.)](../objektai/ivykiai/Lietuvos%20skriaud%C5%B3%20vie%C5%A1inimo%20akcijos%20Amerikoje%20%281894%E2%80%931900%20m.%29)

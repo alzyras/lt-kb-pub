@@ -79,8 +79,6 @@ Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Rusija]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/asmenys/Zigmantas Augustas]]
 - [[objektai/zodynas/barokinė santvarka]]

@@ -51,8 +51,3 @@ Mūsiškiai į juos šaudė iš už medžių, iš už krūmų ir visą laiką st
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Smilgiai]]
-- [[objektai/vietos/Ažagų-Eimuliškio miškas]]

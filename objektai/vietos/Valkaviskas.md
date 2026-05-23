@@ -101,27 +101,3 @@ Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskrit
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Alūkšta]]
-- [[objektai/vietos/Dauguva]]
-- [[objektai/vietos/Kaunas]]
-- [[objektai/vietos/Klaipėda]]
-- [[objektai/vietos/Kuršas]]
-- [[objektai/vietos/Liepoja]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Slanimas]]
-- [[objektai/vietos/Suvalkai]]
-- [[objektai/vietos/Vilniaus gubernija]]
-- [[objektai/vietos/Vilnius]]
-- [[objektai/zodynas/gubernija]]
-- [[objektai/posakiai/„Lithuania Propria“]]
-- [[objektai/vietos/Bernas]]
-- [[objektai/ivykiai/Jogailos išrinkimas Lenkijos karaliumi]]
-- [[objektai/asmenys/Jurgis Šaulys]]
-- [[objektai/vietos/Kauno gubernija]]
-- [[objektai/asmenys/Steponas Kairys]]
-- [[objektai/zodynas/etnografinės ribos etnografinis principas]]
-- [[objektai/ivykiai/Valkavisko perdavimas Haličo-Volinijos kunigaikščiams (1289 m.)]]

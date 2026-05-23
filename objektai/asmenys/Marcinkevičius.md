@@ -50,4 +50,3 @@ Marcinkevičių ir dar vieną rusą karininką.
 ### Susiję objektai
 - [[objektai/grupes/Bolševikai]]
 - [[objektai/grupes/NKGB]]
-- [[objektai/vietos/Viena]]

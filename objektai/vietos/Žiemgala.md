@@ -81,21 +81,3 @@ Jam buvo pasisekę paimti į savo valdžią net Žiemgalos dalį; tačiau jam ne
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Georgenburgas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Mindaugas]]
-- [[objektai/grupes/Žiemgaliai]]
-- [[objektai/vietos/Ceklis]]
-- [[objektai/vietos/Dobė]]
-- [[objektai/vietos/Jelgava]]
-- [[objektai/grupes/Kuršo ir Žiemgalos kunigaikštystė]]
-- [[objektai/vietos/Pakuršė]]
-- [[objektai/vietos/Palangos pajūris]]
-- [[objektai/vietos/Piltenė]]
-- [[objektai/vietos/Saremos]]
-- [[objektai/zodynas/donacija]]
-- [[objektai/autoriai/prof. Simpsonas]]
-- [[objektai/vietos/Žiemgalos vyskupija]]

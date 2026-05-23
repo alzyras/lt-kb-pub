@@ -48,15 +48,3 @@ Senojoje Turovo — Pinsko kunigaikštijoje, arba Polesėje sėdėjo Algirdo bro
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/asmenys/Karijotas]]
-- [[objektai/asmenys/Liubartas]]
-- [[objektai/vietos/Pinskas]]
-- [[objektai/vietos/Podolė]]
-- [[objektai/vietos/Turovas]]
-- [[objektai/vietos/Volinija]]
-- [[objektai/vietos/Zaslavlis]]
-- [[objektai/vietos/Strėva]]

@@ -72,8 +72,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Arabai]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Maskva]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/metrika]]
 - [[objektai/grupes/Čekai]]

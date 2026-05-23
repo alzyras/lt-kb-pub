@@ -47,16 +47,3 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Drevenca]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Loebau]]
-- [[objektai/vietos/Torno]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/vietos/Grünvaldas]]
-- [[objektai/autoriai/W. Zakrzewski]]
-- [[objektai/autoriai/Werminghoef, A]]
-- [[objektai/autoriai/Zakrzewski, W]]
-- [[objektai/autoriai/Zaskevičius, St]]

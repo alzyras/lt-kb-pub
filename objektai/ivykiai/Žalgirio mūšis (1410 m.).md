@@ -166,12 +166,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Pamaris]]
-- [[objektai/vietos/Viena]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/vietos/Žalgiris]]
-- [[objektai/vietos/Žemaitija]]
 - [[objektai/grupes/Vokiečių ordinas]]

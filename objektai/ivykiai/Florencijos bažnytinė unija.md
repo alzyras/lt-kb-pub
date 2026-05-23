@@ -72,8 +72,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Florencija]]
-- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/zodynas/bažnytinė unija|bažnytinė unija (unija)]]
 - [[objektai/zodynas/metropolija]]

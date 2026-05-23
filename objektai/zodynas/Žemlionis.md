@@ -98,7 +98,6 @@ Vartojamos formos: `žemlioniu`, `žemlionys`, `žemlionų`.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Viena]]
 - [[objektai/zodynas/Kūrėjų kūrėjas|kūrėjų kūrėjas]]
 - [[objektai/zodynas/Rėda|rėda]]
 - [[objektai/zodynas/vėliava]]

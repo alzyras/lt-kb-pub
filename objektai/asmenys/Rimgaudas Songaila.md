@@ -85,7 +85,6 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kauno Laisvės alėja]]
 - [[objektai/ivykiai/Kauno protestai po Romo Kalantos susideginimo (1972 m. gegužės 18–19 d.)]]
 - [[objektai/grupes/Lietuvos komunistų partija]]
 - [[objektai/zodynas/pertvarka perestroika]]

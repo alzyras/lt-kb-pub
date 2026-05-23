@@ -82,14 +82,3 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Dlugošas]]
-- [[objektai/autoriai/J. Dlugošas]]
-- [[objektai/vietos/Livonija]]
-- [[objektai/grupes/Bartai]]
-- [[objektai/grupes/Nadruviai]]
-- [[objektai/grupes/Skalviai]]
-- [[objektai/vietos/Upytės žemė]]
-- [[objektai/vietos/Uturiai]]

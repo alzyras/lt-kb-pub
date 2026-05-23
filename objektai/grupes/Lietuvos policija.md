@@ -51,5 +51,4 @@ Lietuvos policijai pasiekus pergalių prieš didėjantį organizuotą nusikalsta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuva]]
 - [[objektai/posakiai/„Made in Lithuania“]]

@@ -152,10 +152,8 @@ Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju
 ### Susiję objektai
 - [[objektai/grupes/Chodkevičiai]]
 - [[objektai/asmenys/Jonas Chodkevičius]]
-- [[objektai/vietos/Livonija]]
 - [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
 - [[objektai/zodynas/etmonas]]
 - [[objektai/zodynas/hetmonas]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.)]]
-- [[objektai/vietos/Veližas]]

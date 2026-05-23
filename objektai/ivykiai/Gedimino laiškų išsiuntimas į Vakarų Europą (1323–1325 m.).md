@@ -121,14 +121,10 @@ Nenurodyta
 - [[temos/laiškas]]
 
 ### Susiję objektai
-- [[objektai/vietos/Europa]]
 - [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
 - [[objektai/daiktai/Kardas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Naugardukas]]
 - [[objektai/grupes/Pranciškonų ordinas]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/grupes/Domininkonų ordinas]]
 - [[objektai/asmenys/Bertoldas (pranciškonas)]]
 - [[objektai/asmenys/Henrikas (pranciškonas)]]

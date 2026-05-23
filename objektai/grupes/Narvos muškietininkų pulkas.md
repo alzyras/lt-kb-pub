@@ -83,13 +83,9 @@ Vilniuje buvusią rusų įgulą sudarė: Narvos muškietininkų pulko vienas bat
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Artilerija]]
-- [[objektai/vietos/Donas]]
 - [[objektai/grupes/Kazokai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Narva]]
-- [[objektai/vietos/Pskovas]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/muškietininkai]]
 - [[objektai/grupes/Dono kazokų pulkas]]
 - [[objektai/asmenys/E. Sabeckis]]

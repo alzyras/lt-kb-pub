@@ -57,6 +57,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kaunas]]
 - [[objektai/asmenys/Steponas]]
 - [[objektai/daiktai/„Lituanica“ lėktuvas]]

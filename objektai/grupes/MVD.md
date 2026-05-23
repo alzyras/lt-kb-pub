@@ -79,9 +79,3 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Daugai]]
-- [[objektai/vietos/Kaunas]]
-- [[objektai/vietos/Troškūnai]]

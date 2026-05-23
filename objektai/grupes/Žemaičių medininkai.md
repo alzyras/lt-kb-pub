@@ -107,4 +107,3 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/vietos/Palanga]]

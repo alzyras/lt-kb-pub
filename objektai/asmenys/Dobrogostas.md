@@ -82,14 +82,8 @@ Tad kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­ niai s
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Gniezno]]
 - [[objektai/grupes/Habsburgai]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Perudžija]]
-- [[objektai/vietos/Viena]]
-- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/brevė]]
 - [[objektai/grupes/Vilniaus kapitula]]
 - [[objektai/ivykiai/Vilniaus vyskupystės įkūrimas]]
-- [[objektai/vietos/Poznanė]]

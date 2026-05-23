@@ -59,8 +59,6 @@ Pašalinus Karijotaitį, ji buvo padalinta į 3 dalis: vakarinė dalis buvo pris
 - [[temos/didikas]]
 
 ### Susiję objektai
-- [[objektai/vietos/Lenkija]]
-- [[objektai/vietos/Viena]]
 - [[objektai/asmenys/Hlebas]]
 - [[objektai/asmenys/Jurgis Sviatoslavaitis]]
 - [[objektai/ivykiai/Smolensko užėmimas ir Viazmos paėmimas (1396 m. rudenį)]]
