@@ -100,4 +100,10 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Jaroslavas]]
+- [[objektai/vietos/Kijevas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Viena]]
 - [[objektai/posakiai/na Litvu]]
+- [[objektai/zodynas/žygis]]

@@ -80,3 +80,8 @@ Vartojama ankstyvosios Lietuvos politinės organizacijos aptarime.
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/istorinė-sąvoka]]
+
+### Susiję objektai
+- [[objektai/vietos/Europa]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Netimeras]]

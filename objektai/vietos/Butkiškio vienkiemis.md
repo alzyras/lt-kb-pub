@@ -58,5 +58,6 @@ Po intensyvių tardymų bei kankinimų abu sutiko bendradarbiauti ir spalio 28 d
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Albinas Kubilius-Rūgštymas]]
 - [[objektai/vietos/Anykščių valsčius]]
 - [[objektai/vietos/Jovaišų sodyba]]

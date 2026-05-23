@@ -40,3 +40,7 @@ Akcija pradėta laiku: Vakaruose vyko karšti disputai dėl nesumokėtų vokieč
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Vokietija]]

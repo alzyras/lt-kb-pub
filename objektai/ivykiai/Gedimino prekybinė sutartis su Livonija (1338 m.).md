@@ -69,3 +69,10 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/vietos/Veliuona]]

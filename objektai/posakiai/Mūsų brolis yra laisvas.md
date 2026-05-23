@@ -56,3 +56,11 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/zodynas/kunigaikščiai]]

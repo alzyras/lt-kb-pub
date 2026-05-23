@@ -71,3 +71,13 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Brandenburgas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Peštvė]]
+- [[objektai/zodynas/pagonybė]]
+- [[objektai/zodynas/komtūras]]

@@ -75,4 +75,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/unija]]
 - [[objektai/vietos/Radomas]]

@@ -51,3 +51,9 @@ Tiergard’as reiškė tą pačią nuomonę.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/zodynas/magistras]]

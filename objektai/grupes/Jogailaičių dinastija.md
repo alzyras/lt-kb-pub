@@ -9,6 +9,10 @@ saltiniai:
 datos:
   - '1370 m.'
   - '1386 m.'
+  - '1471 m.'
+  - '1490 m.'
+  - '1506 m.'
+  - '1526 m.'
   - '1572 m.'
   - '2013 m.'
   - '2026 m.'
@@ -18,6 +22,7 @@ periodo_grupes:
   - 'šiuolaikinė Lietuva'
 amziai:
   - 'XIV'
+  - 'XV'
   - 'XVI'
   - 'XXI'
 date_start: '1370'
@@ -61,6 +66,10 @@ Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam tapus Lenkijos karaliumi (13
   teiginys: '« Jogailaičių epocha» Lenkijos istorijoje yra laikoma pati šviesiau­ sioji.'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: 'Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos monarchijoms ir nuo to mes jaučiamės smagiau.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -138,7 +147,28 @@ Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam tapus Lenkijos karaliumi (13
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos monarchijoms ir nuo to mes jaučiamės smagiau.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Gediminaičių ir Jogailaičių
+    dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos
+    monarchijoms ir nuo to mes jaučiamės smagiau. Davėme ir daug garsių
+    šeimų, aristokratų, o Amerikai ir Europai – darbščių angliakasių, statybi-
+    ninkų, audėjų, auklių, inžinierių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
+
+### Susiję objektai
+- [[objektai/vietos/Europa]]
+- [[objektai/grupes/Habsburgų dinastija]]
+- [[objektai/posakiai/„jogailaičių Europa“ „krikščionybės forpostas“]]

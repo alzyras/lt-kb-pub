@@ -48,3 +48,9 @@ Pačią Pskovo pilį jis apjuosė akmens mūrais, kurie ligi šiol tebevadinami 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Daumantas]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/vietos/Pskovas]]

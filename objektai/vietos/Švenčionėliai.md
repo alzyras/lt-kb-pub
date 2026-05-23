@@ -77,4 +77,7 @@ Frontas nusistovėjo KernavėsMusninkų-ŠirvintųGiedraičių Dubingių-Švenč
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Artilerija]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Vilnius]]
 - [[objektai/vietos/Musninkai]]

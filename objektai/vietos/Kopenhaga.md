@@ -47,4 +47,7 @@ Kitais metais (1925 m.) Lenkija pasiūlė Lietuvai derybas dėl Nemuno atidarymo
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Nemunas]]
 - [[objektai/vietos/Luganas]]

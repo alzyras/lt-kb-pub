@@ -145,5 +145,14 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Artilerija]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Jonas Kraucevičius]]
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Kėdainiai]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Varėna]]
+- [[objektai/vietos/Viena]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

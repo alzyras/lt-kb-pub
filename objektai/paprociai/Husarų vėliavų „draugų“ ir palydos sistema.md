@@ -65,13 +65,17 @@ Nenurodyta
   pagrindžia:
     - c-003
 - t-008
-  teiginys: 'Husarai ir jų XVII a.'
+  teiginys: 'XVII a. pavyzdžio husarų organizacija ATR egzistavo iki XVIII a.'
   pagrindžia:
     - c-004
 - t-009
   teiginys: '„Draugų“ palydos buvo vieninteliai vieneLietuvos ir Lenkijos husarai - vienintelė xvii a.'
   pagrindžia:
     - c-005
+- t-010
+  teiginys: 'Didžiausia buvo didžiojo etmono husarų vėliava, kurią sudarė 200 raitelių.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -156,7 +160,7 @@ Nenurodyta
   pagrindžia:
     - t-007
 - c-004
-  santrauka: 'Husarai ir jų XVII a.'
+  santrauka: 'XVII a. pavyzdžio husarų organizacija ATR egzistavo iki XVIII a.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Husarai ir jų XVII a. pavyzdžio organizacija eg-
@@ -190,7 +194,38 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-009
+- c-006
+  santrauka: 'Didžiausia buvo didžiojo etmono husarų vėliava, kurią sudarė 200 raitelių.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Didžiausia buvo didžiojo etmono husarų vėliava, kurią sudarė
+    200 raitelių. Įprasta vėliava - 100-150 raitelių. Husarų vėliavos pa-
+    grindas buvo „draugai“ — turtingi bajorai. Kiekvienas „draugas“
+    atsivesdavo palydą ir tarnus. Palydos struktūra
+    greičiausiai susiformavo iš viduramžių laikų ri-
+    terių „ieties“, ją sudarė įvairių socialinių sluoksnių
+    atstovai, dažniausiai nelabai turtingi bajorai, kuriuos
+    samdydavosi „draugas“. Pabuvojęs husarų „draugo“
+    palydoje ir užsidirbęs, neturtingas bajoras pats ga-
+    lėdavo tapti, tarkime, kazokų vėliavos „draugu“
+    (lengvosios kavalerijos palydą būdavo pigiau iš-
+    laikyti). Tačiau husarų „draugo“ palydoje galėjo
+    būti ir miestiečiai ar net ir valstiečiai iš „draugo“
+    dvaro. Palydą ginklais, šarvais ir žirgais aprūpindavo
+    „draugas“, palydos ginkluotė būdavo mažiau puošni.
+    „Draugai“ sudarydavo vėliavos priekinę eilę, jo pa-
+    lyda stodavo už jo ir sudarydavo antrąją, trečiąją ir
+    ketvirtąją eiles.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublikos kariuomenė]]
+- [[objektai/daiktai/Vėliavos]]
+- [[objektai/zodynas/vėliava]]
+- [[objektai/grupes/Bajorai]]

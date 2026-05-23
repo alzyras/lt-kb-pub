@@ -45,3 +45,8 @@ Pilyje (Gedimino kalne), kur ji išbuvo iki XV amž.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]

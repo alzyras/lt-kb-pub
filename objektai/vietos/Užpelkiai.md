@@ -56,3 +56,10 @@ Užpelkių miške buvo numatytas Prisikėlimo apygardos štabo posėdis, susitik
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Laurynas Mingilas-Džiugas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/žygis]]

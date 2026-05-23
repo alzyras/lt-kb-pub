@@ -45,5 +45,8 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Heinricho Hamano skrajojantis būrys]]
+- [[objektai/vietos/Kaunas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/zonderkomanda]]
+- [[objektai/grupes/Heinricho Hamano skrajojantis būrys]]

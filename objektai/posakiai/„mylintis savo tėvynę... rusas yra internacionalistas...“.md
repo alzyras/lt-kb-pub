@@ -47,3 +47,6 @@ Populiarus to meto posakis, kad mylintis savo tėvynę, kalbą, kultūrą rusas 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/frazė]]
+
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]

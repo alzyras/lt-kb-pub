@@ -54,3 +54,7 @@ Persekiojimas, kurio metu įvyko keletas susidūrimų (didžiausias jau už Tere
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]

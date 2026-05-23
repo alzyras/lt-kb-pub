@@ -109,4 +109,8 @@ tags: []
 - [[temos/socialinė-praktika]]
 
 ### Susiję objektai
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Vytauto Didžiojo karo muziejus]]
 - [[objektai/ivykiai/Vytauto mirties 500 metų jubiliejaus minėjimas (1930 m.)]]
+- [[objektai/daiktai/Vytauto paminklai]]

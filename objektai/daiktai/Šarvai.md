@@ -163,3 +163,16 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Lankai]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/daiktai/Skydas]]
+- [[objektai/vietos/Viena]]
+- [[objektai/zodynas/lengvoji kavalerija]]
+- [[objektai/daiktai/Karinė ginkluotė]]
+- [[objektai/daiktai/Kristupo Mikalojaus Radvilos Perkūno šarvai]]
+- [[objektai/paprociai/Valstybinės ginkluotės sandėliavimas, išdavimas kariams prieš operacijas ir grąžinimas]]
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/grupes/Saulė]]

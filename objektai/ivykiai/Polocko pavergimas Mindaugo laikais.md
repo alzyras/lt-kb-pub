@@ -57,4 +57,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Padauguvis]]
 - [[objektai/vietos/Polockas]]

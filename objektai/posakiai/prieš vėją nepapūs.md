@@ -88,4 +88,7 @@ Patarlinė formulė čia vartojama kalbant apie jėgų nelygybę ir nenorą prie
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/autoriai/O. Halecki]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

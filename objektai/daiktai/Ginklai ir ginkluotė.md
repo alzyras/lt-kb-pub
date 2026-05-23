@@ -6,6 +6,17 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1918 m.'
+  - '1919 m.'
+  - '1920 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+date_start: '1918'
+date_end: '1920'
 patikimumas: 'vidutinis'
 tags:
   - daiktas
@@ -53,6 +64,10 @@ Nenurodyta
     - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: 'Sleževičius paskelbė Seime, jog „lenkai atakuoja, nes mūsų dvarininkai pakvietė jų legionus į Lietuvą padėti toliau išnaudoti mūsų žmones ir apginti savo dvarus, visi, kas sveiki, turi griebtis ginklo“.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -103,9 +118,40 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Sleževičius paskelbė Seime, jog „lenkai atakuoja, nes mūsų dvarininkai pakvietė jų legionus į Lietuvą padėti toliau išnaudoti mūsų žmones ir apginti savo dvarus, visi, kas sveiki, turi griebtis ginklo“.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Paskutinė federacijos su Lenkija galimybė
+    Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo
+    apjungti netgi visų etninių lietuvių žemių, kur lietuviai sudarė daugumą
+    gyventojų – karinių susidūrimų su Lenkija metu buvo prarasti lietuviš-
+    ki Seinai ir Punskas. Kovos su lenkais įgavo ne tik teritorinį, bet ir so-
+    cialinį atspalvį – 1920 m. rugsėjį ministras pirmininkas M. Sleževičius
+    paskelbė Seime, jog „lenkai atakuoja, nes mūsų dvarininkai pakvietė jų
+    legionus į Lietuvą padėti toliau išnaudoti mūsų žmones ir apginti savo
+    dvarus, visi, kas sveiki, turi griebtis ginklo“. M. Sleževičiaus vaidmuo
+
+    L I E T U V O S  I S T O R I J A
+    144
+    nepriklausomybės kovose išskirtinis, nes jis pasiekė politinį susitarimą,
+    konsolidavo centrinę administraciją ir pajungė vietos savivaldybes, pa-
+    kvietė priešintis įsiveržėliams ir tautines mažumas, dėl to Lietuvos ka-
+    riuomenėje kovėsi ir žydų bei baltarusių savanoriai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Aleksandras Kolčiakas]]
-- [[objektai/asmenys/Pavelas Bermontas-Avalovas]]
-- [[objektai/posakiai/„lenkai atakuoja...“]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/M. Sleževičius]]
+- [[objektai/vietos/Seinai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

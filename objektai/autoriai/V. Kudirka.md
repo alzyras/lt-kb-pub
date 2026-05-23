@@ -46,4 +46,9 @@ Kudirkos „Tautišką giesmę“ ir lietuvių nacionalinius simbolius – Vytį
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Aukščiausiosios Tarybos rūmai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/paprociai/Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui]]
+- [[objektai/ivykiai/„Varpo“ leidimo pradžia]]
 - [[objektai/ivykiai/Lietuvių kalbos ir Lietuvos simbolių legalizavimas (1988 m. spalio 6 d.)]]

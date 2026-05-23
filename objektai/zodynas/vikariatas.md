@@ -55,3 +55,13 @@ Livonijos Ordinas puolė dar Vytautą, pavy­ dėdamas jam popiežiaus suteikto 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Livonija]]
+- [[objektai/grupes/Livonijos ordinas]]
+- [[objektai/vietos/Naugardas]]
+- [[objektai/vietos/Pskovas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/ciesorius]]
+- [[objektai/zodynas/žygis]]

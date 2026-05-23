@@ -8,11 +8,13 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
   - '1936 m.'
+  - '1939 m.'
   - '2026 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
   - 'modernioji Lietuva'
 amziai:
+  - 'XVIII'
   - 'XX'
   - 'XXI'
 date_start: '1936'
@@ -41,6 +43,14 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   teiginys: 'Esą, istorijoje žinomas romėnų karvedys Publijas Libonas, savo priešų persekiojamas, iš Italijos atbėgęs į Lietuvą ir čia sukūręs valstybę.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Katalikybė buvo prielaida Italijos ir Ispanijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse – Prancūzijoje, Bavarijoje, Flandrijoje, ypač šių šalių monarchų ir aristokratų dvaruose (Flandrijoje subrendo bene žymiausias baroko dailininkas.'
+  pagrindžia:
+    - c-003
+- t-004
+  teiginys: '1939 m. Kaune Lietuva antrą kartą laimėjo Europos čempionatą, o netrukus merginų krepšinio rinktinė Italijoje iškovojo Europos čempionato sidabro medalius.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -76,3 +86,61 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Katalikybė buvo prielaida Italijos ir Ispanijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse – Prancūzijoje, Bavarijoje, Flandrijoje, ypač šių šalių monarchų ir aristokratų dvaruose (Flandrijoje subrendo bene žymiausias baroko dailininkas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Katalikybė buvo prielaida Italijos ir Is-
+    panijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse – Pran-
+    cūzijoje, Bavarijoje, Flandrijoje, ypač šių šalių monarchų ir aristokratų
+    dvaruose (Flandrijoje subrendo bene žymiausias baroko dailininkas Pe-
+    teris Paulius Rubensas).
+    Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Eu-
+    ropa (Skandinavija) pritapo prie šiaurinės – dinamiškosios Vakarų Euro-
+    pos dalies (Olandija, Anglija) ir per XVII–XVIII a.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: '1939 m. Kaune Lietuva antrą kartą laimėjo Europos čempionatą, o netrukus merginų krepšinio rinktinė Italijoje iškovojo Europos čempionato sidabro medalius.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1939 m. Kaune Lietuva antrą
+    kartą laimėjo Europos čempionatą, o netrukus merginų krepšinio rinktinė
+    Italijoje iškovojo Europos čempionato sidabro medalius. Krepšinis visam
+    laikui tapo sportu Nr.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Europa]]
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Viena]]
+- [[objektai/zodynas/barokas]]
+- [[objektai/zodynas/protestantizmas]]
+- [[objektai/ivykiai/Didžiųjų santarvės valstybių Lietuvos de jure pripažinimas (1922 m. gruodžio 20 d.)]]
+- [[objektai/vietos/Ispanija]]
+- [[objektai/vietos/Japonija]]
+- [[objektai/paprociai/Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose]]
+- [[objektai/autoriai/Machiavellio]]
+- [[objektai/zodynas/Machiavellio mokslas]]
+- [[objektai/asmenys/Peteris Paulius Rubensas]]
+- [[objektai/vietos/Prancūzija]]
+- [[objektai/vietos/Rygos arkivyskupija]]
+- [[objektai/zodynas/krašto magistras]]
+- [[objektai/zodynas/protektorium]]
+- [[objektai/zodynas/supremacija]]
+- [[objektai/posakiai/„Jei Šveicarijai būdinga aukšti kalnai, Italijai – meno kūriniai, Suomijai – ežerai, o Lietuvą reikėtų pavadinti kraštu, kuriame labai pavoj]]
+- [[objektai/posakiai/„civilizaciniam šuoliui“]]
+- [[objektai/asmenys/Benito Musolinis]]

@@ -10,11 +10,14 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
+datos:
+  - '1325 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+date_start: '1325'
 date_end: ''
 patikimumas: 'vidutinis'
 tags:
@@ -40,9 +43,13 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-008
-  teiginys: 'sudarydami taikos sutartį, sąjungininkai ją sutvirtino vedybomis tarp Lokietkos sūnaus Kazimiero ir Gedimino dukters Aldonos, kuri, kaip vėliau buvo pasakojama, Lenkijon atsivedusi 24.'
+  teiginys: 'Gedimino duktė Aldona ištekėjo už Lokietkos sūnaus Kazimiero, sutvirtinant sąjungininkų taikos sutartį.'
   pagrindžia:
     - c-003
+- t-009
+  teiginys: 'Jau tada bekovodamas su Ordinu Lenkų kara­ lius Vladislovas Łokietka sau tinkamu sąjungininku buvo nu­ žiūrėjęs Gedimino valdomą Lietuvą, ir tarp jų 1325 buvo pa­ daryta sutartis, kurią sutvirtino Gedimino dukters Aldonos ir Vladislovo sūnaus Kazimiero.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -72,7 +79,7 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
   pagrindžia:
     - t-007
 - c-003
-  santrauka: 'sudarydami taikos sutartį, sąjungininkai ją sutvirtino vedybomis tarp Lokietkos sūnaus Kazimiero ir Gedimino dukters Aldonos, kuri, kaip vėliau buvo pasakojama, Lenkijon atsivedusi 24.'
+  santrauka: 'Gedimino duktė Aldona ištekėjo už Lokietkos sūnaus Kazimiero, sutvirtinant sąjungininkų taikos sutartį.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     sudarydami taikos sutartį, sąjungininkai ją sutvirtino
@@ -86,3 +93,35 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-004
+  santrauka: 'Jau tada bekovodamas su Ordinu Lenkų kara­ lius Vladislovas Łokietka sau tinkamu sąjungininku buvo nu­ žiūrėjęs Gedimino valdomą Lietuvą, ir tarp jų 1325 buvo pa­ daryta sutartis, kurią sutvirtino Gedimino dukters Aldonos ir Vladislovo sūnaus Kazimiero.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Jau tada bekovodamas su Ordinu Lenkų kara­
+    lius Vladislovas Łokietka sau tinkamu sąjungininku buvo nu­
+    žiūrėjęs Gedimino valdomą Lietuvą, ir tarp jų 1325 buvo pa­
+    daryta sutartis, kurią sutvirtino Gedimino dukters Aldonos ir
+    Vladislovo sūnaus Kazimiero (busimojo Kazimiero didžiojo)
+    jungtuvės^2 ).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/asmenys/Vladislovas]]
+- [[objektai/asmenys/Vladislovas Łokietka]]
+- [[objektai/vietos/Brandenburgo žemė]]
+- [[objektai/ivykiai/Gedimino sąjunga su Lenkija]]
+- [[objektai/asmenys/Kazimieras]]
+- [[objektai/asmenys/Kazimieras Didysis]]
+- [[objektai/asmenys/Lokietka]]
+- [[objektai/asmenys/Kazimieras (Lokietkos sūnus)]]
+- [[objektai/asmenys/Vladislovas Lokietka]]

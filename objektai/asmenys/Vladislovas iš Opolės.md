@@ -71,3 +71,14 @@ Tas pats Vladislovas buvo paskirtas Lenkų ir Vengrų karaliaus Liudviko valdyti
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Dobrynė]]
+- [[objektai/vietos/Galicija]]
+- [[objektai/vietos/Kujavija]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/zodynas/Suverenitetas]]
+- [[objektai/asmenys/Vladislovas]]
+- [[objektai/zodynas/vasalas]]
+- [[objektai/vietos/Vengrija]]

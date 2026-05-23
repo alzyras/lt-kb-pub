@@ -44,3 +44,9 @@ Berija ir apie ką jie kalbėjo, iki šiol nežinoma.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/SSRS]]
+- [[objektai/zodynas/maršalas]]
+- [[objektai/vietos/Lietuva]]

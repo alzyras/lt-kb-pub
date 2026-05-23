@@ -53,3 +53,18 @@ O Vokiečiai apsiėmė tik su krikščioniškomis Trakų kunigaikštijos žemėm
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Gunlaukenas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Prūsija]]
+- [[objektai/vietos/Trakai]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/zodynas/Magdeburgo teisės]]
+- [[objektai/grupes/Miestelėnų luomas]]
+- [[objektai/vietos/Melnikas]]
+- [[objektai/vietos/Osterodė]]
+- [[objektai/vietos/Vartenburgas]]

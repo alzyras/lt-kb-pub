@@ -54,3 +54,10 @@ Neaiškumų teikia ir Ispanijos arabų geografas-keliautoj as Al'- Idrisi (1100-
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Ispanija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Viena]]
+- [[objektai/vietos/Kaunas]]

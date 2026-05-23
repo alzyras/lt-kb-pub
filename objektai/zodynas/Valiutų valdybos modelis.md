@@ -42,5 +42,7 @@ Nuo 1993 m. vidurio infliacijos lygis pradėjo mažėti, iš esmės dėl naciona
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/litas]]
 - [[objektai/daiktai/Lietuvos pinigai litas]]
 - [[objektai/ivykiai/Valiutų valdybos modelio pradėjimas ir lito susiejimas su JAV doleriu (1994 m. kovo 1 d.)]]

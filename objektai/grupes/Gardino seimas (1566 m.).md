@@ -44,3 +44,10 @@ Tuo būdu tais pat 1566 m. Gardino seime buvo sudaryta nauja sutartis, kuria Liv
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Gardinas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Livonija]]

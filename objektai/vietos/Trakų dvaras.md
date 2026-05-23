@@ -52,3 +52,7 @@ Tikrai lietuviškas Trakų dvaras, kuris daug santykiauda­ vo su kaimyninėmis 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Trakai]]

@@ -105,3 +105,7 @@ Išleista Lietuvos Respublikos užsienio reikalų ministerijos užsakymu. Rengia
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/ivykiai/Lietuvos skyriaus parengimas 1939 m. pasaulinei parodai Niujorke]]

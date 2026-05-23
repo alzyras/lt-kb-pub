@@ -54,3 +54,12 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/vietos/Nesvyžius]]
+- [[objektai/vietos/Zabluduvas]]
+- [[objektai/grupes/Chodkevičiai]]
+- [[objektai/daiktai/Spaustuvės]]

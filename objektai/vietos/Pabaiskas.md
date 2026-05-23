@@ -121,5 +121,15 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/grupes/Livonijos ordinas]]
+- [[objektai/vietos/Pašilė]]
+- [[objektai/vietos/Viena]]
+- [[objektai/asmenys/Švitrigaila]]
+- [[objektai/asmenys/Žygimantas]]
 - [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]
 - [[objektai/vietos/Vintara]]
+- [[objektai/asmenys/Žygimantas Kęstutaitis]]
+- [[objektai/vietos/Gelvonai]]
+- [[objektai/vietos/Žirnajų ežeras]]

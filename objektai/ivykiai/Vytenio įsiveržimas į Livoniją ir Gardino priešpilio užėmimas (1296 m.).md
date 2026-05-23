@@ -65,3 +65,10 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Gardinas]]
+- [[objektai/zodynas/komtūras]]
+- [[objektai/zodynas/pagonybė]]
+- [[objektai/zodynas/žygis]]

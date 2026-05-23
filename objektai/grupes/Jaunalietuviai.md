@@ -42,5 +42,8 @@ sandūroje pradėjo oponuoti „jaunalietuviai“, po poros dešimtmečių sukū
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Lietuvos Respublika]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/senalietuviai jaunalietuviai]]
 - [[objektai/grupes/Senalietuviai]]
+- [[objektai/grupes/Lietuvos Respublika]]

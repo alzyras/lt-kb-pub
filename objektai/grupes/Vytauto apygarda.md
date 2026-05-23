@@ -90,3 +90,23 @@ PASTOVIAIO) JONAVA) is [B Bagaslaviškis Giedraičiai "Maironio X, Už: é (ius 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Algimanto apygarda]]
+- [[objektai/vietos/Giedraičiai]]
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Labanoras]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Pagaigalė]]
+- [[objektai/grupes/Prisikėlimo apygarda]]
+- [[objektai/vietos/Viena]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/vietos/Žiežmariai]]
+- [[objektai/vietos/Kiauneliškio geležinkelio stotis]]
+- [[objektai/vietos/Labanoro giria]]
+- [[objektai/vietos/Naručio apylinkės]]
+- [[objektai/grupes/Kunigaikščio Margio rinktinė]]
+- [[objektai/grupes/Tumo Vaižganto rinktinė]]
+- [[objektai/grupes/Vyčio apygarda]]
+- [[objektai/grupes/Žalioji rinktinė]]

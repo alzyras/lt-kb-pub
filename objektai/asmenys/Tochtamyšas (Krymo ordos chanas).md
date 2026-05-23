@@ -54,3 +54,10 @@ Bet jau 1409 m. artimose totorių žemėse Vytautui pavyko įkurdinti paklusnų 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Vorskla]]
+- [[objektai/ivykiai/Vorsklos mūšis]]
+- [[objektai/vietos/Žalgiris]]
+- [[objektai/asmenys/Saladinas]]

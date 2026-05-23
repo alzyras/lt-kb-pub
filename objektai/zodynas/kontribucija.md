@@ -10,6 +10,7 @@ datos:
   - '1426 m.'
   - '1427 m.'
   - '1428 m.'
+  - '1700 m.'
   - '1978 m.'
   - '2026 m.'
 periodas: 'LDK laikotarpis'
@@ -17,6 +18,7 @@ periodo_grupes:
   - 'LDK'
 amziai:
   - 'XV'
+  - 'XVII'
   - 'XX'
   - 'XXI'
 date_start: '1426'
@@ -48,6 +50,10 @@ tags:
   teiginys: 'Pasuko Kijevo link, paėmė iš jo 3000 rublių kontribucijos.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Išsireikalavusi iš Vilniaus miesto kontribuciją, respublikonų kariuomenė iš sostinės pasitraukė į naujas dislokavimo vietas.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -98,3 +104,36 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Išsireikalavusi iš Vilniaus miesto kontribuciją, respublikonų kariuomenė iš sostinės pasitraukė į naujas dislokavimo vietas.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Išsireikalavusi iš
+    Vilniaus miesto kontribuciją, respublikonų
+    kariuomenė iš sostinės pasitraukė į naujas
+    dislokavimo vietas.
+
+    Valkininkų mūšis galutinai sugriovė
+    Sapiegų hegemoniją Lietuvoje, užbaigė nuo
+
+    1700 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/ivykiai/Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/hegemonija]]
+- [[objektai/vietos/Didysis Naugardas]]
+- [[objektai/vietos/Naugardas]]
+- [[objektai/vietos/Porchovas]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/ivykiai/Vytauto žygis į Naugardą (1428 m. vasara)]]
+- [[objektai/ivykiai/Vytauto žygis į Pskovą ir Pskovo taika (1426 m.)]]
+- [[objektai/zodynas/indulgencija]]

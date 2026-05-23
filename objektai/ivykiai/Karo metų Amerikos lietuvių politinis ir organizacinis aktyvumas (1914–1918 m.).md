@@ -127,3 +127,12 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Naujorkas]]
+- [[objektai/grupes/Tautos taryba]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

@@ -84,4 +84,10 @@ Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­ leisdami raštą, 
 - [[temos/aktas]]
 
 ### Susiję objektai
+- [[objektai/vietos/Krokuva]]
+- [[objektai/grupes/Krokuvos profesoriai]]
+- [[objektai/zodynas/apsikarūnavimas]]
+- [[objektai/zodynas/ciesorius]]
+- [[objektai/grupes/Vienos universiteto profesoriai]]
 - [[objektai/asmenys/Dr. Baptistas Cigala]]
+- [[objektai/asmenys/Zbignievas Olesnickis]]

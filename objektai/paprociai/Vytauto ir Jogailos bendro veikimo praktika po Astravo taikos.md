@@ -72,3 +72,12 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/vietos/Konstanca]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Luckas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

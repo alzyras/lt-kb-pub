@@ -59,4 +59,7 @@ Kai per Lietuvos jėzuitų kolegijas ir Vilniaus Akademiją lotynų kalba vis da
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Vilnius]]
 - [[objektai/grupes/Vilniaus Akademija]]

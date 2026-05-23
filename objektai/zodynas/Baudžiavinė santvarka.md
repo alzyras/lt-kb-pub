@@ -60,3 +60,9 @@ Jau karo su Turkija ir jos sąjungininkais (1853-1856 ) metu Rusijos carinė vyr
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/Baudžiava]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Turkija]]

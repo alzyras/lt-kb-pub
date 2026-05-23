@@ -16,6 +16,7 @@ datos:
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
+  - 'modernioji Lietuva'
 amziai:
   - 'XIII'
   - 'XIV'
@@ -61,6 +62,14 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
   teiginys: 'Kaip ten bebūtų, mes žinom, kad Vytautas, nežiūrint lenkų pasipriešinimo, sutiko čekų karūną priimti ir pasiuntė į Pragą savo vietininku Zigmantą Kaributą.'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: '1930 m. Prahoje išleistame veikale „Grossfürst Witold als Staatsmann“ J. Pfitzneris reikalavo į Vytautą žiūrėti lietuvių požiūriu.'
+  pagrindžia:
+    - c-006
+- t-007
+  teiginys: 'Ilgą laiką praleidęs imperatoriaus Karolio IV dvare, jis, kaip « Henri­ cus dux Lithuaniae », savo dienas baigė Pragoje (1380).'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -146,7 +155,52 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: '1930 m. Prahoje išleistame veikale „Grossfürst Witold als Staatsmann“ J. Pfitzneris reikalavo į Vytautą žiūrėti lietuvių požiūriu.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    J. Pfitzneris 1930 m. Pragoję išleistame įdomiame veikale
+    «Grossfürst Witold als Staatsmann» (lietuv. Jurgio Talmanto
+    vertimas, Kaunas 1930) reikalavo į šį didį valdovą žiūrėti lietuvių
+    požiūriu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: 'Ilgą laiką praleidęs imperatoriaus Karolio IV dvare, jis, kaip « Henri­ cus dux Lithuaniae », savo dienas baigė Pragoje (1380).'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Ilgą
+    laiką praleidęs imperatoriaus Karolio IV dvare, jis, kaip « Henri­
+    cus dux Lithuaniae », savo dienas baigė Pragoje (1380).
+    Kryžiuočiai turėjo toliau ginklu tęsti savo prieš Lietuvą 1283
+    pradėtą kovą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
+- [[objektai/asmenys/Karolis IV]]
+- [[objektai/vietos/Kaunas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Jokūbas Jasinskis]]
+- [[objektai/ivykiai/Karolio IV krikšto bandymas Lietuvoje (1358 m.)]]
+- [[objektai/daiktai/Pragos miesto raktai]]
+- [[objektai/asmenys/Vaclovas Pragiečius]]
+- [[objektai/asmenys/Zigmantas Kaributas]]
 - [[objektai/daiktai/Šv. Vaclovo karūna]]
+- [[objektai/ivykiai/Šv. Vaclovo karūnos pasiūlymas Jogailai ir Vytauto sutikimas priimti čekų karūną (1420–1421 m.)]]
+- [[objektai/autoriai/J. Pfitzner]]

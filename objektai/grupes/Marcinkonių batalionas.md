@@ -86,5 +86,5 @@ Marcinkonių bataliono vyrams buvo nesmagu dėl savo pavėlavimo į kautynes, to
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Adolfas Ramanauskas-Vanagas]]
 - [[objektai/vietos/Perloja]]
+- [[objektai/asmenys/Adolfas Ramanauskas-Vanagas]]

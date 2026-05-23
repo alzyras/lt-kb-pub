@@ -7,6 +7,12 @@ aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - paprotys
@@ -47,6 +53,10 @@ Nenurodyta
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-009
+  teiginys: 'Valstiečio santykis su valdomąja žeme tačiau pasunkėjo.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -84,6 +94,25 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-008
+- c-003
+  santrauka: 'Valstiečio santykis su valdomąja žeme tačiau pasunkėjo.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Tiesa, tas įstatymas reiškė didelę reformą ir žymią pažangą
+    žemės ūkio srityje. Juk ir pati žemė buvo išrūšiuota. Valstiečio
+    santykis su valdomąja žeme tačiau pasunkėjo. Tuo pačiu stiprėjo
+    bajorijos padėtis ir ūkiniu atžvilgiu. Javų kainų pakilimas bajorus
+    skatino didinti dirbamosios žemės arealą, steigti naujus dvarus
+    (palivarkus). Pačių valstiečių prievolės dvarui, suskaldant jų « va­
+    lakus », gausėjo. Vis daugiau darbo rankų iš valstiečio kiemo rei­
+    kėjo siųsti į dvaro laukus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -91,3 +120,5 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/zodynas/sidabrinė duoklė]]
+- [[objektai/zodynas/bajorija]]
+- [[objektai/ivykiai/Valakų reforma (1557 m.)]]

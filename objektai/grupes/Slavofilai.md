@@ -44,3 +44,11 @@ Toks universiteto klestėjimas nepatiko rusams, ypač slavofilams, kurie kaip ti
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Petrapilis]]
+- [[objektai/zodynas/Rusiškosios raidės]]

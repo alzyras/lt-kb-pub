@@ -20,7 +20,7 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: '„Mužikus nori padaryti bajorais, o mus — mužikais", — šaukė bajorija.'
+  teiginys: 'Bajorija šaukė posakį „Mužikus nori padaryti bajorais, o mus — mužikais“, priešindamasi valstiečiams duodamiems palengvinimams.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -28,7 +28,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '„Mužikus nori padaryti bajorais, o mus — mužikais", — šaukė bajorija.'
+  santrauka: 'Bajorija šaukė posakį „Mužikus nori padaryti bajorais, o mus — mužikais“, priešindamasi valstiečiams duodamiems palengvinimams.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Jame buvo nuostatų, palengvinančių valstiečių būklę

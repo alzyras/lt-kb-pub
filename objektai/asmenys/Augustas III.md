@@ -30,6 +30,10 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Karaliumi tapo Rusijos remiamas neveiklus Augusto 11 sūnus Augustas III.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -50,3 +54,24 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Karaliumi tapo Rusijos remiamas neveiklus Augusto 11 sūnus Augustas III.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Karaliumi
+    tapo Rusijos remiamas neveiklus Augusto 11 sūnus Augustas III.
+    Abiejų Tautų Respublikos silpnėjimas tragiškai sutapo su jos kai-
+    mynių sustiprėjimu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/asmenys/Stanislovas Leščinskis]]

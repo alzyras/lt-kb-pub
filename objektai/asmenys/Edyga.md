@@ -81,3 +81,16 @@ Unijos darbui nemažai sutrukdė ir totoriai, kurie, vadovau­ jant Vorsklos nug
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Auksinė Orda]]
+- [[objektai/vietos/Krymas]]
+- [[objektai/grupes/Totorių pajėgos]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/chanas]]
+- [[objektai/zodynas/emyras]]
+- [[objektai/grupes/Lietuvos jungtinės pajėgos]]
+- [[objektai/asmenys/Timūr-Kutlukas]]
+- [[objektai/grupes/Tochtamišo totoriai]]
+- [[objektai/ivykiai/Edygos vadovaujami totorių antpuoliai Kijevo ir Podolės kraštuose (1414–1416 m.)]]

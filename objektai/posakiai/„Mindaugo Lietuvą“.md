@@ -68,5 +68,7 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Mindaugas]]
 - [[objektai/ivykiai/Lietuvos valstybės susikūrimas apie 1240 m]]
 - [[objektai/posakiai/„aukščiausiuoju karaliumi“]]

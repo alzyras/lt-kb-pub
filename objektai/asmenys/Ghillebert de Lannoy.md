@@ -30,6 +30,10 @@ tags:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Galimas daiktas, kad Vytautas mokėjęs ir totorių kal­ bos, nes jo dvare totorių daug pasimaišydavo ir nuolat būdavo kun. tarnyboj; o iš kun. kanceliarijos, kaip užsimena Ghillebert de Lannoy, buvo siuntinėjami totorių kalba raštai.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -49,6 +53,21 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Galimas daiktas, kad Vytautas mokėjęs ir totorių kal­ bos, nes jo dvare totorių daug pasimaišydavo ir nuolat būdavo kun. tarnyboj; o iš kun. kanceliarijos, kaip užsimena Ghillebert de Lannoy, buvo siuntinėjami totorių kalba raštai.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Galimas daiktas, kad Vytautas mokėjęs ir totorių kal­
+    bos, nes jo dvare totorių daug pasimaišydavo ir nuolat būdavo
+    kun. tarnyboj; o iš kun. kanceliarijos, kaip užsimena Ghillebert
+    de Lannoy, buvo siuntinėjami totorių kalba raštai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai

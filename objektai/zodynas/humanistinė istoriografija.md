@@ -50,3 +50,9 @@ Nors Stryjkovskio istorija « neatitiko visiems moks­ liniams bei literatūrini
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Livonija]]

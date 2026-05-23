@@ -65,6 +65,10 @@ Nenurodyta
   teiginys: 'Šalia eilės vyresniųjų (« starešej ») Lietuvos kunigų, kurių tarpe, be kitko, yra minimas Živinbudas, Daujotas, Dausprungas ir šio brolis Mindaugas, yra išskaičiuoti keturi vėliau niekur nebesutinkami Deltuvos kunigai.'
   pagrindžia:
     - c-003
+- t-006
+  teiginys: 'Vistik vien Lietuvos (Aukštaičių ir Žemaičiu) plote tada atsitiktinai yra užrašyta bent keliasdešimt kunigų vardu.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -114,3 +118,25 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-004
+  santrauka: 'Vistik vien Lietuvos (Aukštaičių ir Žemaičiu) plote tada atsitiktinai yra užrašyta bent keliasdešimt kunigų vardu.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Vistik vien Lietuvos
+    (Aukštaičių ir Žemaičiu) plote tada atsitiktinai yra užrašyta bent
+    keliasdešimt kunigų vardu. Pvz., kai visa grupė Lietuvos kunigų
+    1219 m. darė sutartį su Volinijos kunigaikščio Romano našle, Ipa­
+    tijaus metraštyje buvo paminėtas 21 jų vardas (PSRL, II, 735).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
+- [[objektai/vietos/Volinija]]

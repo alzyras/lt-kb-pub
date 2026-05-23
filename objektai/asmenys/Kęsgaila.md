@@ -53,3 +53,8 @@ Jam į pagalbą bu­ vo paskirtas Žemaičių seniūnas Kęsgaila.
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/privilegija]]
+
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/seniūnas]]
+- [[objektai/grupes/Žemaičiai]]

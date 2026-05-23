@@ -78,3 +78,18 @@ Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­ gijos ir daug 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Dubysa]]
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Merkinė]]
+- [[objektai/vietos/Nemunas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/unija]]
+- [[objektai/vietos/Žalgiris]]
+- [[objektai/vietos/Aukokalnis]]
+- [[objektai/vietos/Betygala]]
+- [[objektai/vietos/Veliuona]]

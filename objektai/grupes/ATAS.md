@@ -110,3 +110,16 @@ Už parlamento apsaugą ir gynybą tai išdavystė, visi bėga, jūs per naktį 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Aukščiausiosios Tarybos rūmai]]
+- [[objektai/asmenys/Goštautas]]
+- [[objektai/vietos/Viena]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/vietos/Žvėryno tiltas]]
+- [[objektai/daiktai/AKSU automatinis šautuvas]]
+- [[objektai/daiktai/TT pistoletas]]
+- [[objektai/daiktai/Pistoletas]]

@@ -87,5 +87,8 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Rimaisiai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/daiktai/Balnakilpės]]
+- [[objektai/autoriai/Hermanas Vartbergė]]
+- [[objektai/daiktai/Sidabruotos geležinės XI-XII a. balnakilpės]]
 - [[objektai/vietos/Veršvai]]

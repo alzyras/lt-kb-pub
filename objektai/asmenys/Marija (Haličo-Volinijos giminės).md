@@ -53,3 +53,11 @@ Iš garsiosios Haličo-Volinijos Riurikaičių giminės, su kuria XIII amžiaus 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Mozūrija]]
+- [[objektai/asmenys/Marija]]
+- [[objektai/asmenys/Traidenis I]]

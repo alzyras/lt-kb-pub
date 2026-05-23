@@ -52,3 +52,12 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Didžiojo Naugardo respublika]]
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/vietos/Smolenskas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/vietos/Pamaris]]

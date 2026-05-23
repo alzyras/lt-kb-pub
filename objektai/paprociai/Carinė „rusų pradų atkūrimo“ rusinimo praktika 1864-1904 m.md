@@ -6,6 +6,17 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1864 m.'
+  - '1904 m.'
+periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
+periodo_grupes:
+  - 'naujieji laikai'
+amziai:
+  - 'XIX'
+  - 'XX'
+date_start: '1864'
+date_end: '1904'
 patikimumas: 'vidutinis'
 tags:
   - bajorija
@@ -59,6 +70,10 @@ Nenurodyta
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: 'Rusinimo politika 1864–1904 metais Šios politikos ėmėsi sukilimo slopintojas ir vienas jos sumanytojų Vilniaus generalgubernatorius M.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -98,3 +113,34 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Rusinimo politika 1864–1904 metais Šios politikos ėmėsi sukilimo slopintojas ir vienas jos sumanytojų Vilniaus generalgubernatorius M.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Rusinimo politika 1864–1904 metais
+    Šios politikos ėmėsi sukilimo slopintojas ir vienas jos su-
+    manytojų Vilniaus generalgubernatorius M. Muravjovas, pasikvietęs į
+    pagalbą seną savo pažįstamą Ivaną Kornilovą, kuris buvo paskirtas Vil-
+    niaus švietimo apygardos globėju. Programą sudarė kompleksas specialių
+    ekonominės ir kultūrinės politikos priemonių, turėjusių susilpninti vietos
+    dvarininkijos ekonomines pozicijas ir užtikrinti, kad Rusijos aneksuotose
+    LLV žemėse, dabar oficialiai traktuojamose „nuo seno rusiškomis žemė-
+    mis“, viešajame gyvenime vietoje lenkų įsivyrautų rusų kalba, dominuo-
+    jančias pozicijas įgytų Rusų stačiatikių bažnyčia, o valstiečių vaikai įsilie-
+    tų į rusų aukštąją kultūrą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/generalgubernatorius]]
+- [[objektai/zodynas/rusinimas]]

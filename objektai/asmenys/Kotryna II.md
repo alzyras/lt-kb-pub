@@ -69,3 +69,12 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/vietos/Austrija]]
+- [[objektai/vietos/Prūsija]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Sūduva]]
+- [[objektai/grupes/Žemaičiai]]

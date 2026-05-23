@@ -54,3 +54,7 @@ Vulfstanas šiame šaltinyje minimas kaip jūrininkas, pasakojimo autorius; jam 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Aisčiai]]

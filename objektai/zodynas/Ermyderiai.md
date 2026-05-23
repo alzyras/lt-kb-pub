@@ -88,3 +88,8 @@ Vartojamos formos: `ermyderių`.
 ## Pastabos
 
 - Reikšmė plati; vienoje vietoje apima gamtos pokyčius, kitoje socialinę ir politinę suirutę.
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Viena]]
+- [[objektai/grupes/Mozūrai (XV amžius)]]

@@ -51,3 +51,13 @@ Jei ir sutiktumėm su ta mintimi, kad Horodlės unija—didelė Vy­ tauto klaid
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Europa]]
+- [[objektai/vietos/Horodlė]]
+- [[objektai/autoriai/Kochanovskis]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/unija]]

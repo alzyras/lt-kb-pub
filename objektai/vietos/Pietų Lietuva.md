@@ -73,3 +73,17 @@ Pakeliui į suvažiavimą susitikę Vakarų Lietuvos (Jūros) ir Pietų Lietuvos
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Aleksandras]]
+- [[objektai/asmenys/Antanas Liesys-Idenas]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Minaičių kaimas]]
+- [[objektai/grupes/Pietų Lietuvos (Nemuno) sritis]]
+- [[objektai/vietos/Radviliškis]]
+- [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Pietų Lietuvos sritis]]
+- [[objektai/vietos/Vakarų Lietuva]]

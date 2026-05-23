@@ -57,3 +57,11 @@ Etmonas, iždininkas ir maršalas vakare pasiekė Vilnių, iš visų savo rūmų
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Bauskė]]
+- [[objektai/daiktai/Buzdyganas]]
+- [[objektai/vietos/Druja]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/maršalas]]

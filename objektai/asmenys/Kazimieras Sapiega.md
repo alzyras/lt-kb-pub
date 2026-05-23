@@ -29,6 +29,10 @@ tags:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Vakare Vilniaus įgula, dengiama artilerijos kapitono kunigaikščio Kazimiero Sapiegos, sumaniai vadovaujamos artilerijos baterijos, sėkmingai atsitraukė per Žaliąjį tiltą.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -55,7 +59,25 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Vakare Vilniaus įgula, dengiama artilerijos kapitono kunigaikščio Kazimiero Sapiegos, sumaniai vadovaujamos artilerijos baterijos, sėkmingai atsitraukė per Žaliąjį tiltą.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Vakare Vilniaus įgula, dengiama ar-
+    tilerijos kapitono kunigaikščio Kazi-
+    miero Sapiegos, sumaniai vadovaujamos
+    artilerijos baterijos, sėkmingai atsitraukė
+    per Žaliąjį tiltą. Rugpjūčio 12 d. Rusi-
+    jos kariuomenė užėmė Vilnių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Žaliasis tiltas]]
+- [[objektai/daiktai/Artilerija]]
+- [[objektai/vietos/Vilnius]]

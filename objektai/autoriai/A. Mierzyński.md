@@ -8,6 +8,7 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
   - '1351 m.'
+  - '1889 m.'
   - '1892 m.'
   - '1893 m.'
   - '1895 m.'
@@ -39,6 +40,10 @@ Mierzyński, Źródła do mitolog, lit., I, II (1892, 1896); H.
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'A. Mierzyński parašė veikalą „Źródła do mytol. lit.“.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -62,3 +67,23 @@ Mierzyński, Źródła do mitolog, lit., I, II (1892, 1896); H.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'A. Mierzyński parašė veikalą „Źródła do mytol. lit.“.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Vedant sieną tos upės krantu «tolyn į Ru­
+    siją »^10 , Lietuvos valstybėn buvo norima įjungti ne tik Kuršą,
+
+    (^7) **A. Mierzyński :** **_Źródła do mytol. lit._** **, II, 78 p.; KH, 1889, 208-209 p.**
+    (^8) **Laiško tekstą žr.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]

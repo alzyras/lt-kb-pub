@@ -66,3 +66,8 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/paliaubos]]
+
+### Susiję objektai
+- [[objektai/vietos/Kuldinga]]
+- [[objektai/zodynas/komtūras]]
+- [[objektai/grupes/Žemaičiai]]

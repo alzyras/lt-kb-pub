@@ -52,4 +52,7 @@ Prie Stirės įvyko Švitrigailos pajėgoms nesékmingas mūšis.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Švitrigaila]]
 - [[objektai/vietos/Vladimiras]]

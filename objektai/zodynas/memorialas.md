@@ -69,4 +69,12 @@ Jis pats tuo tarpu pradėjo rūpintis, kad iš buvusių didžiosios Lietuvos kun
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/autoriai/Jan Fijałek]]
+- [[objektai/autoriai/K. Kantrimas]]
 - [[objektai/ivykiai/Vilniaus bajorijos suvažiavimas ir Oginskio memorialas dėl didžiosios Lietuvos kunigaikštijos (1811 m.)]]
+- [[objektai/autoriai/prof. kunigas Dr. J. Fijalek]]
+- [[objektai/ivykiai/Žemaičių delegacijos ir memorialo įteikimas Konstancijos sinodui (1415 m. gruodžio 15 d.)]]

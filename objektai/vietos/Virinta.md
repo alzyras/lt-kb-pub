@@ -52,4 +52,7 @@ Giedraičius gynęs 2-asis pulkas buvo priverstas atsitraukti į ŠešuolėsViri
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Ukmergė]]
 - [[objektai/vietos/Šešuolė]]

@@ -58,4 +58,9 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/grupes/Lietuvių Mokslo Draugija]]
+- [[objektai/grupes/Mokslo bičiulių draugija]]
 - [[objektai/grupes/Vilniaus mokslo bičiulių draugija]]

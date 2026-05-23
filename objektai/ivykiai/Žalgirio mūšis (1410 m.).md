@@ -6,6 +6,17 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1410 m.'
+  - '1569 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XV'
+  - 'XVI'
+date_start: '1410'
+date_end: '1569'
 patikimumas: 'vidutinis'
 tags:
   - ivykis
@@ -56,6 +67,10 @@ Nenurodyta
     - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: 'Žalgirio pergalė pakeitė Lietuvos ir Lenkijos geopolitinę padėtį.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -116,8 +131,31 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Žalgirio pergalė pakeitė Lietuvos ir Lenkijos geopolitinę padėtį.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Žalgirio pergalė pakeitė Lietuvos ir Lenkijos geopolitinę padėtį. Nors
+    reikėjo dar dviejų karų, kad Žemaitija būtų iki galo pripažinta Lietuvai,
+    būtent Žalgirio mūšyje buvo pakirsta Ordino hegemonija, jis nebekėlė
+    egzistencinės grėsmės nei Lenkijai, nei Lietuvai. Žalgirio mūšis įėjo į isto-
+    riją kaip vienas didžiausių mūšių Viduramžiais, lenkai ir lietuviai pasida-
+    lijo grobį – belaisvius, Ordino komtūrų barzdas, vėliavas, taip pat Ordino
+    teritoriją – taigi Lietuva – lygiavertė su Lenkija Žalgirio mūšio laimėtoja.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/daiktai/Kryžiuočių kariuomenės vėliavos]]
-- [[objektai/daiktai/Ordino komtūrų barzdos]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/ivykiai/Žalgirio mūšis]]
+- [[objektai/vietos/Žalgiris]]
+- [[objektai/vietos/Žemaitija]]

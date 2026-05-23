@@ -105,3 +105,22 @@ Vokietija pateikė ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antant
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Aukščiausiosios Tarybos rūmai]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvos Taryba]]
+- [[objektai/vietos/Skandinavija]]
+- [[objektai/vietos/Vokietija]]
+- [[objektai/zodynas/de jure]]
+- [[objektai/asmenys/A. Smetona|A. Smetona (prezidentas, XX a.)]]
+- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
+- [[objektai/ivykiai/Baltijos antantės sudarymas Ženevoje (1934 m. rugsėjo 12 d.)]]
+- [[objektai/asmenys/Juzefas Pilsudskis]]
+- [[objektai/ivykiai/Paliaubų protokolo pasirašymas Kaune]]
+- [[objektai/asmenys/Pranciškus Ferdinandas]]
+- [[objektai/zodynas/administracinė linija demarkacijos linija]]
+- [[objektai/grupes/Baltijos antantė]]

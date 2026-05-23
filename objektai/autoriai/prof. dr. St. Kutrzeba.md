@@ -46,3 +46,8 @@ Kutrzeba1 2), nėra juridiškas ir nieko aiškaus nepasako.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]

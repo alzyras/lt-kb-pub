@@ -93,3 +93,15 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Alytus]]
+- [[objektai/vietos/Kaunas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lentvaris]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Vievis]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

@@ -44,4 +44,6 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Afganistanas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Viena]]
 - [[objektai/ivykiai/Lietuvos pasiūlymas vadovauti Goro provincijos atkūrimo grupei Afganistane (2004 m. pabaiga)]]

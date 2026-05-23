@@ -45,4 +45,9 @@ Lenkijoje tokiuos žymius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Slanimas]]
+- [[objektai/grupes/Čartoriskiai]]
+- [[objektai/vietos/Viena]]
 - [[objektai/vietos/Pulavai]]

@@ -55,3 +55,10 @@ Tada Vinco Mickevičiaus-Kapsuko vadovaujama Laikinoji revoliucinė darbininkų 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuvos Tarybų socialistinė respublika]]
+- [[objektai/zodynas/Suverenitetas]]
+- [[objektai/zodynas/suverenumas]]

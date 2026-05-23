@@ -93,3 +93,13 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Italija]]
+- [[objektai/vietos/Krokuva]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Mykolas]]
+- [[objektai/autoriai/Mykolas Lietuvis]]
+- [[objektai/vietos/Viena]]
+- [[objektai/vietos/Vokietija]]

@@ -47,3 +47,10 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/ivykiai/1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas]]

@@ -72,3 +72,8 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/karvedys]]
+
+### Susiję objektai
+- [[objektai/daiktai/Herbas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Rusija]]

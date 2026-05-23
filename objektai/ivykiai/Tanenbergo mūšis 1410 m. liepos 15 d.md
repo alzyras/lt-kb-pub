@@ -166,5 +166,19 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Vengrija]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/vietos/Štetinas]]
+- [[objektai/autoriai/A. Werminghoef]]
+- [[objektai/autoriai/O. Urbonas]]
+- [[objektai/autoriai/St. Zaskevičius]]
+- [[objektai/autoriai/Urbonas, O]]
+- [[objektai/autoriai/W. Zakrzewski]]
+- [[objektai/autoriai/Werminghoef, A]]
+- [[objektai/autoriai/Zakrzewski, W]]
+- [[objektai/autoriai/Zaskevičius, St]]
+- [[objektai/vietos/Tanenbergas]]
 - [[objektai/ivykiai/Tanenbergo mūšis (1410 m. liepos 15 d.)]]

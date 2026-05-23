@@ -65,6 +65,10 @@ Nenurodyta
   teiginys: 'Edigėjus skelbėsi amžiumi vyresniu, todėl reikalavo Vytauto klusnumo ir atsakydamas į ankstesnį Vytauto reikalavimą, pareikalavo Lietuvos pinigus žymėti Ordos ženklais.'
   pagrindžia:
     - c-003
+- t-006
+  teiginys: 'Esą Vytautas reikalavęs chaną jam paklusti ir savo piniguose mušti Vytauto ženklą^33.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -126,10 +130,28 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-004
+  santrauka: 'Esą Vytautas reikalavęs chaną jam paklusti ir savo piniguose mušti Vytauto ženklą^33.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Esą Vytautas reikalavęs chaną
+    jam paklusti ir savo piniguose mušti Vytauto ženklą^33. Timuras
+    tačiau derybomis norėjo tik laimėti laiko, nes laukė savo karo
+    vado Edigos dalinių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/simbolis]]
 
 ### Susiję objektai
-- [[objektai/paprociai/Pavaldumo demonstravimas derybose per pinigų ženklinimą ir dovanas]]
+- [[objektai/asmenys/Ediga]]
+- [[objektai/asmenys/Timuras]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/chanas]]

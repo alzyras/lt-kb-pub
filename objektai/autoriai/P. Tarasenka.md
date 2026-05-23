@@ -58,3 +58,9 @@ Tarasenka, Lietuvos archeologijos medžiaga (1929); B. Tarasenka, Apeiginiai L.
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/ritualas]]
+
+### Susiję objektai
+- [[objektai/vietos/Baltija]]
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Vilnius]]

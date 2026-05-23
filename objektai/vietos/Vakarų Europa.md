@@ -59,3 +59,14 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Baltramiejus (vyskupas)]]
+- [[objektai/vietos/Europa]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/vietos/Vokietija]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/grupes/Katalikiškoji ir protestantiškoji Europa]]
+- [[objektai/vietos/Rusija]]

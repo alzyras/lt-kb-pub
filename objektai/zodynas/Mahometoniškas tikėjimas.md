@@ -59,3 +59,13 @@ Gavę sau privilegijas iš Vytauto, kuris totorių atmintyje per šimtmečius bu
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/privilegija]]
+
+### Susiję objektai
+- [[objektai/vietos/Dniepras]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuvos totoriai]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/vietos/Trakai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/žygis]]

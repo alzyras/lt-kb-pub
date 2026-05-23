@@ -73,3 +73,4 @@ Vartojama lyginamajame religinių-politinių institucijų aiškinime.
 
 ### Susiję objektai
 - [[objektai/vietos/Nadruva]]
+- [[objektai/paprociai/Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas]]

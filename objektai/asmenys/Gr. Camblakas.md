@@ -48,3 +48,9 @@ Camblakas.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Konstanca]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/metropolitas]]

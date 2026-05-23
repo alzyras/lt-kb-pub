@@ -70,3 +70,9 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/karyba]]
+- [[objektai/vietos/Bychovo tvirtovė]]
+- [[objektai/vietos/Druja]]

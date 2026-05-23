@@ -56,4 +56,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Baltija]]
+- [[objektai/vietos/Estija]]
+- [[objektai/vietos/Latvija]]
 - [[objektai/grupes/Baltijos Valstybių Taryba]]

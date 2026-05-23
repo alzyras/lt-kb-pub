@@ -10,11 +10,13 @@ datos:
   - '1435 m.'
   - '1881 m.'
   - '1919 m.'
+  - '1935 m.'
   - '1936 m.'
   - '2026 m.'
 periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
 periodo_grupes:
   - 'LDK'
+  - 'modernioji Lietuva'
   - 'naujieji laikai'
 amziai:
   - 'XV'
@@ -75,6 +77,42 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   teiginys: 'Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — buvo įkurtos šiose vietose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajam Dolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Valeranavoj, Vitebske, Želviuose ir dar.'
   pagrindžia:
     - c-007
+- t-008
+  teiginys: 'Jos rėmė lenkų pradines mokyklas ir Lietuvos vyriausybės finansiškai remiamas lenkų gimnazijas Kaune, Panevėžyje ir Ukmergėje.'
+  pagrindžia:
+    - c-008
+- t-009
+  teiginys: 'Į jam paskirtą palyginti nedidelį žemių da­ linį, be Vilniaus, dar priklausė artimos sritys su pilimis : Ašmena, Ukmerge, Breslauja (Braslaw).'
+  pagrindžia:
+    - c-009
+- t-010
+  teiginys: 'Tada buvo įkurtos ir pirmosios septynios parapijos : Ukmergėje, Maišiagaloje, Nemenčinėje, Melni­ kuose, Kriave, Ainoje, Obolcuose^15.'
+  pagrindžia:
+    - c-010
+- t-011
+  teiginys: '21, 125, 159, 198, 213, 225, 239-242, 263-266, 313, 321 ; Tverės kautynės 184 ; Tverės metraščiai 168 (^408) VARDYNAS Tveriškė Julijona, Algirdo žmona 259 Tvirbutas, bajoras 368 Ugra, upė 321, 322 Ugros taika 371 Ukmergė, ir pilis 197, 233, 245, 289, 307, 340.'
+  pagrindžia:
+    - c-011
+- t-012
+  teiginys: 'Prie Ukmergės, prie Šventosios upės, Žygimantas Kęstutaitis ir jo sūnus Mykolas sumušė Švitrigailą bei jo pajėgas.'
+  pagrindžia:
+    - c-012
+- t-013
+  teiginys: 'Ukmergės rinktinė turėjo veržtis Ukmergės-UtenosZarasų kryptimi, Panevėžio rinktinė - Kėdainių-Panevėžio-Rokiškio kryptimi.'
+  pagrindžia:
+    - c-013
+- t-014
+  teiginys: 'Ladygos vadovaujamai Ukmergės rinktinei žygiuoti UkmergėsDaugpilio plentu ir užimti Uteną.'
+  pagrindžia:
+    - c-014
+- t-015
+  teiginys: 'Ji stai­ ga įsiveržė Lietuvon ir nuteriojo Ukmergės sritį.'
+  pagrindžia:
+    - c-015
+- t-016
+  teiginys: 'Vy­ tautas tuo tarpu veikė Bopartėnų (į šiaurės vakarus nuo Kau­ no), Ukmergės ir Kulvos srityse.'
+  pagrindžia:
+    - c-016
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -219,7 +257,226 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-008
+  santrauka: 'Jos rėmė lenkų pradines mokyklas ir Lietuvos vyriausybės finansiškai remiamas lenkų gimnazijas Kaune, Panevėžyje ir Ukmergėje.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Jos rėmė lenkų pradines mokyklas ir Lie-
+    tuvos vyriausybės finansiškai remiamas lenkų gimnazijas Kaune, Pane-
+    vėžyje ir Ukmergėje. 1935–1936 mokslo metais veikė apie 30 lenkiškų
+    mokyklų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: 'Į jam paskirtą palyginti nedidelį žemių da­ linį, be Vilniaus, dar priklausė artimos sritys su pilimis : Ašmena, Ukmerge, Breslauja (Braslaw).'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Į jam paskirtą palyginti nedidelį žemių da­
+    linį, be Vilniaus, dar priklausė artimos sritys su pilimis : Ašmena,
+    Ukmerge, Breslauja (Braslaw).
+    Kiti šeši Gedimino sūnus taip pat gavo savo dalis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: 'Tada buvo įkurtos ir pirmosios septynios parapijos : Ukmergėje, Maišiagaloje, Nemenčinėje, Melni­ kuose, Kriave, Ainoje, Obolcuose^15.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Tada buvo įkurtos ir pirmosios
+    septynios parapijos : Ukmergėje, Maišiagaloje, Nemenčinėje, Melni­
+    kuose, Kriave, Ainoje, Obolcuose^15. Jeigu tarp pirmųjų parapijų
+    neminimi Trakai ir Kaunas, yra ženklas, kad ten iš anksčiau tu­
+
+    ```
+    KRIAVO AKTAS IR LIETUVOS KRIKŠTAS 289
+    ```
+    (^11) **Plg.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+- c-011
+  santrauka: '21, 125, 159, 198, 213, 225, 239-242, 263-266, 313, 321 ; Tverės kautynės 184 ; Tverės metraščiai 168 (^408) VARDYNAS Tveriškė Julijona, Algirdo žmona 259 Tvirbutas, bajoras 368 Ugra, upė 321, 322 Ugros taika 371 Ukmergė, ir pilis 197, 233, 245, 289, 307, 340.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    21,
+    125, 159, 198, 213, 225, 239-242,
+    263-266, 313, 321 ; Tverės kautynės
+    184 ; Tverės metraščiai 168
+    ```
+
+    (^408) VARDYNAS
+    **Tveriškė Julijona, Algirdo žmona
+    259
+    Tvirbutas, bajoras 368
+    Ugra, upė 321, 322
+    Ugros taika 371
+    Ukmergė, ir pilis 197, 233, 245, 289,
+    307, 340
+    Ukraina 88, 89, 99, 150
+    Ula, upė 95
+    Upytė 108, 130
+    Upmale 183
+    Urachas-Mindaugas II 176
+    Uralas 96
+    Urbanavičius V.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+- c-012
+  santrauka: 'Prie Ukmergės, prie Šventosios upės, Žygimantas Kęstutaitis ir jo sūnus Mykolas sumušė Švitrigailą bei jo pajėgas.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    “
+
+    Ištrauka iš „Lietuvos metraščio“ apie Žygimanto Kęstutaičio pergalę prieš Švitrigailą
+
+    „Ir buvo mūšis rugsėjo pirmąją dieną, per šventą Simoną. Kovėsi už Ukmergės, prie
+    Šventosios upės. Ir dievas padėjo didžiajam kunigaikščiui Žygimantui ir jo sūnui, kuni- |
+    gaikščiui Mykolui; jie sumušė kunigaikštį Švitrigailą bei visas jo pajėgas ir paėmė nelais- |
+    vėn arba nukovė daugelį kunigaikščių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+- c-013
+  santrauka: 'Ukmergės rinktinė turėjo veržtis Ukmergės-UtenosZarasų kryptimi, Panevėžio rinktinė - Kėdainių-Panevėžio-Rokiškio kryptimi.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Ukmergės
+    rinktinė turėjo veržtis Ukmergės-Utenos-
+    Zarasų kryptimi, Panevėžio rinktinė -
+    Kėdainių-Panevėžio-Rokiškio kryptimi.
+
+    Atskirojo Joniškėlio partizanų, kitaip
+    vadinamojo mirties bataliono kariai
+
+    ## Puslapis 181
+
+    | 1881 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+- c-014
+  santrauka: 'Ladygos vadovaujamai Ukmergės rinktinei žygiuoti UkmergėsDaugpilio plentu ir užimti Uteną.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    1919 m. gegužės 24 d. vyriausiasis
+    kariuomenės vadas gen. S. Žukauskas įsakė
+    karin. K. Ladygos vadovaujamai Ukmergės
+    rinktinei žygiuoti Ukmergės- Daugpilio
+    plentu ir užimti Uteną.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
+- c-015
+  santrauka: 'Ji stai­ ga įsiveržė Lietuvon ir nuteriojo Ukmergės sritį.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Ji stai­
+    ga įsiveržė Lietuvon ir nuteriojo Ukmergės sritį. Sujungtos Jo­
+    gailos ir Skirgailos kariuomenės gavo smūgį. Nežiūrint nera­
+    mumų, po keturių savaičių nepaliaujamo darbo pilis buvo baigta
+    ir pavadinta Naujuoju Kvidzinu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
+- c-016
+  santrauka: 'Vy­ tautas tuo tarpu veikė Bopartėnų (į šiaurės vakarus nuo Kau­ no), Ukmergės ir Kulvos srityse.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Vy­
+    tautas tuo tarpu veikė Bopartėnų (į šiaurės vakarus nuo Kau­
+    no), Ukmergės ir Kulvos srityse. Po užgrobimo poros nežymių
+    pilaičių, didžiulei Vallenrodo kariuomenei, kuri taip smarkiai
+
+    (^1) ) Apie Konradą Vallenrodą, kuris Lietuvos istorijoje yra gana po­
+    puliarus ir minimas A.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Vitebskas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Skirgaila]]
+- [[objektai/grupes/13-asis ulonų pulkas]]
+- [[objektai/grupes/8-asis pėstininkų pulkas]]
+- [[objektai/paprociai/Bajorijos seimelių rinkimosi ir atstovų rinkimo praktika]]
+- [[objektai/vietos/Balnininkai]]
+- [[objektai/vietos/Brastos apygarda]]
+- [[objektai/asmenys/D. Kuruta]]
+- [[objektai/grupes/Didžiosios kovos apygarda (DKA)]]
+- [[objektai/vietos/Dombrovica]]
+- [[objektai/vietos/Dubingiai]]
+- [[objektai/paprociai/Fronto kasdienybė: naktinis budėjimas ir dienos miegas slėptuvėse]]
+- [[objektai/vietos/Giedraičiai]]
+- [[objektai/ivykiai/Giedraičių kautynės]]
+- [[objektai/ivykiai/Giedraičių kautynės (1920 m.)]]
+- [[objektai/vietos/Gursčiai]]
+- [[objektai/asmenys/Ivanas Ganeckis]]
+- [[objektai/asmenys/J. Kubilius]]
+- [[objektai/vietos/Kaišiadorys]]
+- [[objektai/asmenys/Kazys Ladyga]]
+- [[objektai/asmenys/Kinsgaila]]
+- [[objektai/vietos/Kražių apygarda]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Kurkliai]]
+- [[objektai/vietos/Kurklių valsčius]]
+- [[objektai/vietos/Liubešavas]]
+- [[objektai/grupes/Panevėžio rinktinė]]
+- [[objektai/vietos/Rokiškis]]
+- [[objektai/asmenys/Sprangeris]]
+- [[objektai/asmenys/Sungaila]]
+- [[objektai/vietos/Trakiniai]]
+- [[objektai/vietos/Trakų apskritis]]
+- [[objektai/vietos/Ukmergės apskritis]]
+- [[objektai/vietos/Ukmergės apylinkė]]
+- [[objektai/grupes/Ukmergės batalionas]]
+- [[objektai/grupes/Ukmergės rinktinė]]
+- [[objektai/vietos/Utena]]
+- [[objektai/asmenys/V. Nazimovas]]
+- [[objektai/vietos/Videniškis]]
+- [[objektai/vietos/Vidiškis]]
+- [[objektai/vietos/Virinta]]
+- [[objektai/zodynas/demobilizacija]]
+- [[objektai/asmenys/Čupurna]]
+- [[objektai/vietos/Šešuoliai]]
+- [[objektai/vietos/Šešuolė]]
+- [[objektai/vietos/Želva]]
+- [[objektai/vietos/Deltuva]]

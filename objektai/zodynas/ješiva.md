@@ -74,4 +74,7 @@ Vartojamas Vilniaus Gaono pasiūlymų ir žydų mokymo reformų kontekste.
 - [[temos/religinis-terminas]]
 
 ### Susiję objektai
+- [[objektai/zodynas/Jidiš]]
 - [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/paprociai/Litvakų rabininės tradicijos gynimas, Talmudo studijos ir savita gyvensena]]

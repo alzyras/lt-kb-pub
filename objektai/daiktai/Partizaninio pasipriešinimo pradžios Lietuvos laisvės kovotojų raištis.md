@@ -61,3 +61,8 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Dainava]]
+- [[objektai/vietos/Lietuva]]

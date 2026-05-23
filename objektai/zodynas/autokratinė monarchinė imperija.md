@@ -6,6 +6,12 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - sąvoka
@@ -29,6 +35,11 @@ tags:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: 'BUVUSIO VALSTYBINGUMO TRAUKOJE Kultūrinė autonomija Napoleono šešėlyje L DK teritorijų prijungimas prie Rusijos reiškė patekimą į autokratinės monarchinės imperijos valdžią, kuri realizuota pasitelkus monarchui pavaldų centralizuotą biurokratinį aparatą.'
+  pagrindžia:
+    - c-003
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Lietuva, išskyrus Užnemunę ir 1812 m. Napoleono interliudą, priklausė autokratinei Rusijos imperijai.'
@@ -66,7 +77,30 @@ tags:
   pagrindžia:
     - t-002
     - t-003
+- c-003
+  santrauka: 'BUVUSIO VALSTYBINGUMO TRAUKOJE Kultūrinė autonomija Napoleono šešėlyje L DK teritorijų prijungimas prie Rusijos reiškė patekimą į autokratinės monarchinės imperijos valdžią, kuri realizuota pasitelkus monarchui pavaldų centralizuotą biurokratinį aparatą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    BUVUSIO VALSTYBINGUMO TRAUKOJE
+    Kultūrinė autonomija Napoleono šešėlyje
+    L
+    DK teritorijų prijungimas prie Rusijos reiškė pateki-
+    mą į autokratinės monarchinės imperijos valdžią, kuri
+    realizuota pasitelkus monarchui pavaldų centralizuotą biurokratinį apa-
+    ratą. Vietinio valdymo grandyje buvo gubernija, kurios galva – caro ski-
+    riamas, bet vidaus reikalų žinybai pavaldus gubernatorius, atsiunčiamas
+    iš centro arba kitų gubernijų. Gubernijos skirstytos į apskritis (ujezd) su
+    gubernatoriaus skiriamu apskrities viršininku priešakyje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/interliudas]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/zodynas/gubernija]]
+- [[objektai/zodynas/kultūrinė autonomija]]

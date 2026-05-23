@@ -55,5 +55,7 @@ Padalinimo sutartys buvo pasirašytos 1772 m. Sankt Peterburge, 0 1773—1775 m.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Varšuva]]
 - [[objektai/ivykiai/Pirmasis Abiejų Tautų Respublikos padalijimas (1772 m.)]]
 - [[objektai/vietos/Sankt Peterburgas]]
+- [[objektai/vietos/Peterburgas]]

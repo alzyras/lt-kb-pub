@@ -66,3 +66,11 @@ Bauža. Bauža savo knygoje kaltina Lietuvos bajoriją, kad ji nesirūpinanti sa
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Krokuva]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/kunigas]]

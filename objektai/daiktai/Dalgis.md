@@ -71,3 +71,10 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Artilerija]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/ivykiai/Biržų (Medeikių) mūšis]]
+- [[objektai/daiktai/Kovinis dalgis]]

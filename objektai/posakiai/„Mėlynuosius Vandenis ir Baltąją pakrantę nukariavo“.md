@@ -61,4 +61,8 @@ sakoma, kad rudenį Algirdas „Mėlynuosius Vandenis ir Baltąją pakrantę nuk
 - [[temos/metraštis]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Tverė]]
+- [[objektai/vietos/Mėlynieji Vandenys]]
 - [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)]]

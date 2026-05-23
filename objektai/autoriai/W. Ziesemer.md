@@ -52,3 +52,7 @@ Ziesemer, Karaliau­ čiaus ir Dancigo archyvų žinovas, ypač atsidėjęs voki
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Dancigas]]

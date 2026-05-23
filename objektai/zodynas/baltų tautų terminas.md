@@ -42,3 +42,8 @@ Lig šiol svetimšaliai, kai kalbėdavo apie lietuvių kilmės tautas, vartodavo
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Baltija]]
+- [[objektai/grupes/Lietuviai]]

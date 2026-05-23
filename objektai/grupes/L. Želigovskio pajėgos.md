@@ -55,5 +55,7 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/asmenys/L. Želigovskis]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/1-oji pėstininkų divizija]]
-- [[objektai/vietos/Dubingiai]]

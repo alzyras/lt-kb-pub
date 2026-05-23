@@ -86,3 +86,7 @@ STRIBAI Juozas Daumantas pasakoja apie stribus - sovietiniams okupantams talkinu
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bolševikai]]

@@ -30,6 +30,7 @@ datos:
   - '1386 m.'
   - '1390 m.'
   - '1392 m.'
+  - '1414 m.'
   - '1430 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
@@ -96,7 +97,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-008
-  teiginys: 'Kęstutis šiame šaltinyje įvardijamas vienu iš paskutinių pagoniškų Lietuvos valdovų.'
+  teiginys: 'Kęstutis buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1382 m. palaidotas pagoniškais papročiais.'
   pagrindžia:
     - c-008
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -147,6 +148,26 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   teiginys: 'Jogaila turėjo pažadėti Žemaičius kryžiuočiams, kai jų remia­ mas nugalėjo Kęstutį.'
   pagrindžia:
     - c-017
+- t-017
+  teiginys: 'Kęstutis buvo Gedimino sūnus ir vienas iš Lietuvos kunigaikščių.'
+  pagrindžia:
+    - c-018
+- t-018
+  teiginys: 'Manoma, kad pilį pastatė LDK Kęstutis iki 1377 m. Pilis perstatyta ir baigta statyti valdant Lietuvos didžiajam kunigaikščiui Vytautui 1414-1430 m.'
+  pagrindžia:
+    - c-019
+- t-019
+  teiginys: 'Jo tėvas Kęstutis, nuolatinis Žemaičių krašto gynėjas, turėdamas per 40 metų vedė žinomo Žemaičių bajoro Vydimanto dukterį Birutę.'
+  pagrindžia:
+    - c-020
+- t-020
+  teiginys: 'Gediminas, Algirdas ir Kęstutis daug ja nepasi­ tikėjo, bet Jogaila, tapęs didž.'
+  pagrindžia:
+    - c-021
+- t-021
+  teiginys: 'Kęstutis vėliau taip pasižy­ mėjo.'
+  pagrindžia:
+    - c-022
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -262,7 +283,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   pagrindžia:
     - t-007
 - c-008
-  santrauka: Kęstutis įvardijamas vienu iš paskutinių pagoniškų Lietuvos valdovų.
+  santrauka: 'Kęstutis buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1382 m. palaidotas pagoniškais papročiais.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Matomai Lietuvos valdo­
@@ -437,3 +458,207 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-016
+- c-018
+  santrauka: 'Kęstutis buvo Gedimino sūnus ir vienas iš Lietuvos kunigaikščių.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    piešti
+    įsivaizduojami Lietuvos valdovų portretai
+
+    1 skyrius •  S E N O J I  L I E T U VA
+    35
+    kunigaikščiai – Gedimino sūnūs Algirdas ir Kęstutis, Algirdo sūnus Jo-
+    gaila ir iškiliausias dinastijos atstovas Kęstučio sūnus Vytautas Didysis
+    (valdė 1392–1430). Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam
+    tapus Lenkijos karaliumi (1386), atsirado Gediminaičių šakos Jogailai-
+    čių dinastija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
+- c-019
+  santrauka: 'Manoma, kad pilį pastatė LDK Kęstutis iki 1377 m. Pilis perstatyta ir baigta statyti valdant Lietuvos didžiajam kunigaikščiui Vytautui 1414-1430 m.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Manoma, kad pilį pastatė LDK Kęstutis iki 1377 m.
+    Pilis perstatyta ir baigta statyti valdant Lietuvos
+    didžiajam kunigaikščiui Vytautui 1414-1430 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018
+- c-020
+  santrauka: 'Jo tėvas Kęstutis, nuolatinis Žemaičių krašto gynėjas, turėdamas per 40 metų vedė žinomo Žemaičių bajoro Vydimanto dukterį Birutę.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    ```
+
+    ```
+    — 2 —
+    ```
+    Vytautas, apie kurį mes čia kalbėsime, buvo žymiausias
+    šios dinastijos atstovas, kaip galingas ir labai didelis ąžuolas,
+    išaugęs kitų miško medžių tarpe. Jo tėvas Kęstutis, nuolatinis
+    Žemaičių krašto gynėjas, turėdamas per 40 metų vedė žinomo
+    Žemaičių bajoro Vydimanto dukterį Birutę. Anuo laiku, tiesa,
+    buvo paprotys vesti svetimų kraštų kunigaikštytes, mat, galin­
+    giems valdovams buvę nepatogu susirišti giminystės ryšiais su
+    savo pavaldiniais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019
+- c-021
+  santrauka: 'Gediminas, Algirdas ir Kęstutis daug ja nepasi­ tikėjo, bet Jogaila, tapęs didž.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Pastarasis dalykas Lietuvai buvo labai svarbus, ir todėl
+    jai krikštas buvo reikalingas ne tik dėl jo kilnumo ir kultūri­
+    nės vertės, bet ir kaip priemonė atsiginti nuo įkyrėjusių Vok,
+    Ordino karų. Gediminas, Algirdas ir Kęstutis daug ja nepasi­
+    tikėjo, bet Jogaila, tapęs didž. kunigaikščiu ir, norėdamas nusi­
+    kratyti Kęstučiu ir Vytautu, nukreipė akis į šią priemonę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020
+- c-022
+  santrauka: 'Kęstutis vėliau taip pasižy­ mėjo.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Taigi Kęstučio dvaras buvo vie­
+    ta, kur daugiausia turėta žinių apie visus kaimynus. Netenka
+    abejoti, kad tokiose sąlygose beaugąs Vytautas galėjo anksti
+    susipažinti su valstybės reikalais. Nesibaigią karo žygiai iš
+    mažens auklėjo jame karingumą, kuriuo jis vėliau taip pasižy­
+    mėjo. Atkakli jo tėvo kova dėl gimtojo krašto turėjo žadinti ir
+    Vytauto sieloje didelę tėvynės meilę — nors apie patriotizmą
+    dabartine žodžio prasme kalbėti netenka.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-021
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Kęstučio dvaras]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Vydimantas]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/ivykiai/1379 m. Trakų 10 metų paliaubos su ordinu]]
+- [[objektai/ivykiai/1380 m. vasario paliaubos su Livonijos ordinu]]
+- [[objektai/ivykiai/1381 m. kryžiuočių puolimai Kęstučio valdose]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/daiktai/Aukuras]]
+- [[objektai/vietos/Aukščiausios Tarybos rūmai]]
+- [[objektai/vietos/Avinjonas]]
+- [[objektai/vietos/Birutės kalnas]]
+- [[objektai/vietos/Brasta]]
+- [[objektai/asmenys/Danuta]]
+- [[objektai/zodynas/Diarchijos sistema]]
+- [[objektai/ivykiai/Dovydiškių slapta sutartis (1380 m.)]]
+- [[objektai/ivykiai/Dovydiškių sutarties sudarymas]]
+- [[objektai/ivykiai/Dovydiškių sutarties sudarymas (1380 m. gegužės 31 d.)]]
+- [[objektai/vietos/Eigulių pilis]]
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/ivykiai/Jogailos pašalinimas iš Vilniaus]]
+- [[objektai/ivykiai/Jogailos sugrįžimas į Vilnių (1382 m. birželio 12 d.)]]
+- [[objektai/autoriai/Józef Wolff]]
+- [[objektai/grupes/Kalavijuočių ordinas]]
+- [[objektai/grupes/Karijotaičiai]]
+- [[objektai/asmenys/Karijotas]]
+- [[objektai/posakiai/Kinstutte herczoge czu Tracken und Wytould unsir son]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/posakiai/Kęstutis buvo vyras karingas ir tiesiakalbis]]
+- [[objektai/ivykiai/Kęstučio Vilniaus užėmimas ir Jogailos suėmimas (1381 m.)]]
+- [[objektai/grupes/Kęstučio apygarda]]
+- [[objektai/ivykiai/Kęstučio ir Algirdo derybos dėl krikšto]]
+- [[objektai/ivykiai/Kęstučio ir Jogailos kariuomenių derybos prie Trakų (1382 m. rugpjūčio 3 d.)]]
+- [[objektai/ivykiai/Kęstučio ir Vytauto suėmimas bei Kęstučio mirtis Kriave (1382 m. rugpjūčio 15 d.)]]
+- [[objektai/ivykiai/Kęstučio perversmas ir Vilniaus užėmimas (1344-1345 m. žiemą)]]
+- [[objektai/paprociai/Kęstučio riteriškų papročių laikymasis]]
+- [[objektai/ivykiai/Kęstučio taikos ir krikšto sutartis su Liudviku Anžu (1351 m.)]]
+- [[objektai/ivykiai/Kęstučio žūtis Krėvos kalėjime (1382 m.)]]
+- [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos]]
+- [[objektai/paprociai/Lietuvos valdovų laidojimas pagoniškais papročiais]]
+- [[objektai/grupes/Livonijos ordinas]]
+- [[objektai/grupes/Maironio rinktinė]]
+- [[objektai/vietos/Maskvos žemės]]
+- [[objektai/ivykiai/Michailo Gorbačiovo vizitas į Lietuvą (1990 m. sausio 11–13 d.)]]
+- [[objektai/vietos/Minaičių kaimas]]
+- [[objektai/asmenys/Mozūrijos kunigaikštis Jonušas]]
+- [[objektai/asmenys/Narimantas Gediminaitis]]
+- [[objektai/vietos/Naugardas Sieverskas]]
+- [[objektai/vietos/Naujapilis]]
+- [[objektai/vietos/Naujasis Kaunas]]
+- [[objektai/vietos/Neidenburgas]]
+- [[objektai/vietos/Neries sritis]]
+- [[objektai/vietos/Nevėžio žiotys]]
+- [[objektai/asmenys/Ona Vytautienė]]
+- [[objektai/vietos/Ortelsburgas]]
+- [[objektai/grupes/P. Lukšio rinktinė]]
+- [[objektai/ivykiai/Paskutinės Kęstučio kovos ir mirtis]]
+- [[objektai/vietos/Pietų Lietuva]]
+- [[objektai/grupes/Pietų Lietuvos (Nemuno) sritis]]
+- [[objektai/grupes/Pietų Lietuvos sritis]]
+- [[objektai/daiktai/Pilies raktai]]
+- [[objektai/vietos/Pinskas]]
+- [[objektai/daiktai/Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d]]
+- [[objektai/grupes/Prisikėlimo apygarda]]
+- [[objektai/ivykiai/Rūdavos mūšis]]
+- [[objektai/grupes/Savanorio rinktinė]]
+- [[objektai/daiktai/Sienodaužiai]]
+- [[objektai/vietos/Strėva]]
+- [[objektai/vietos/Strėvos upė]]
+- [[objektai/asmenys/Survila]]
+- [[objektai/paprociai/Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais]]
+- [[objektai/ivykiai/Trakų paliaubos (1379 m. rugsėjo 29 d.)]]
+- [[objektai/ivykiai/Trakų pilies pasidavimas Jogailai (1382 m. liepos 20 d.)]]
+- [[objektai/vietos/Turovas]]
+- [[objektai/vietos/Uturiai]]
+- [[objektai/vietos/Užpelkiai]]
+- [[objektai/asmenys/Vaidotas (Butauto sūnus)]]
+- [[objektai/ivykiai/Vaidoto pabėgimas į Prūsus]]
+- [[objektai/vietos/Vakarų Lietuva]]
+- [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis]]
+- [[objektai/ivykiai/Vilniaus užėmimas ir Vytauto bandymas jį atsiimti (1382 m. birželio 12 d.)]]
+- [[objektai/asmenys/Vygandas von Baldersheimas]]
+- [[objektai/asmenys/Vyguntas]]
+- [[objektai/vietos/Vyrgalės sala]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/ivykiai/Vytauto Didžiojo jubiliejiniai metai (1930 m.)]]
+- [[objektai/ivykiai/Vytauto žygis į Ordino žemes (1377 m.)]]
+- [[objektai/zodynas/domenas]]
+- [[objektai/zodynas/grašis]]
+- [[objektai/zodynas/kontrevoliucija]]
+- [[objektai/zodynas/partizaniškas karas]]
+- [[objektai/zodynas/Pilies ir rūmų pareigybės|pilies ir rūmų pareigybės]]
+- [[objektai/zodynas/rublis]]
+- [[objektai/zodynas/rūmininkas vyno pilstytojas]]
+- [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/zodynas/supremus dux magnus dux]]
+- [[objektai/posakiai/tikruoju Kęstučio įpėdiniu]]
+- [[objektai/posakiai/tvirta, net plieninė ranka, didelis protas]]
+- [[objektai/posakiai/vardan tos Lietuvos]]
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/asmenys/Birutė]]
+- [[objektai/ivykiai/Jogailos ir Vokiečių ordino puolimo sutartis (1382 m. liepos 6 d.)]]
+- [[objektai/paprociai/Karinės gynybos tvarka deginant namus ir slepiant šeimą giriose]]
+- [[objektai/vietos/Panemunė]]
+- [[objektai/ivykiai/Pasiuntinybė į Niurnbergą dėl krikšto (1358 m.)]]
+- [[objektai/ivykiai/Vilniečių sąmokslas ir Jogailos įsitvirtinimas Vilniuje bei Trakuose]]

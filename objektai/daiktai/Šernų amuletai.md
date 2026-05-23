@@ -50,6 +50,10 @@ Nenurodyta
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Anot Tacito, Svebų (Baltijos) jūros dešiniajame krante gyveną Aestii garbiną dievų motiną, nešioją šernų amuletus, javus ir kitus žemės vaisius rūpestingiau auginą, negu germanai: jūros pakraščiais ir krante jie renką gintarą, kurį vadiną « glesum ».'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -70,7 +74,30 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Anot Tacito, Svebų (Baltijos) jūros dešiniajame krante gyveną Aestii garbiną dievų motiną, nešioją šernų amuletus, javus ir kitus žemės vaisius rūpestingiau auginą, negu germanai: jūros pakraščiais ir krante jie renką gintarą, kurį vadiną « glesum ».'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Anot Tacito,
+    Svebų (Baltijos) jūros dešiniajame krante gyveną Aestii garbiną
+    dievų motiną, nešioją šernų amuletus, javus ir kitus žemės vaisius
+    rūpestingiau auginą, negu germanai: jūros pakraščiais ir krante jie
+    renką gintarą, kurį vadiną « glesum ». Jie « papročiais ir savo išore
+    yra kaip svebai ».
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/papuošalas]]
+
+### Susiję objektai
+- [[objektai/grupes/Aušrėnai]]
+- [[objektai/posakiai/Jie « papročiais ir savo išore yra kaip svebai »]]
+- [[objektai/grupes/Svebai]]
+- [[objektai/zodynas/glesum]]

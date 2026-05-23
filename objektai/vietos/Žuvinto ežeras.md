@@ -62,6 +62,10 @@ tags: []
   teiginys: 'Tų pačių metų liepos 13 d., grįždami iš žygio, Dzūkų būrio partizanai prie Žuvinto ežero susidūrė su pasaloje laukusiais NKVD kareiviais ir vietiniais stribais.'
   pagrindžia:
     - c-004
+- t-008
+  teiginys: 'Žuvinto ežeras ir Palios buvo apsupti šarvuočių.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -137,8 +141,48 @@ tags: []
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-005
+  santrauka: 'Žuvinto ežeras ir Palios buvo apsupti šarvuočių.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Žuvinto ežeras ir Palios buvo apsupti
+    šarvuočių. Lėktuvai raketų šūviais nuro-
+    dydavo įtartinas ežero vietas, o ginkluotų
+    kareivių pilnos valtys tuoj pat plaukdavo jų
+
+    Karas po karo
+
+    ## Puslapis 230
+
+    E
+    -
+    "a
+    a“
+    2
+    1
+    wy
+    st
+    a“
+    2
+
+    PUSIAU AUTOMATINIAI ŠAUTUVAI
+
+    Dar prieš Pirmąjį pasaulinį karą buvo sukurti šautuvai, kuriuose
+    šūvio metu išsiskirianti parako dujų energija ne tik išstumdavo
+    kulką iš vamzdžio, bet ir pertaisydavo spyną.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/ivykiai/Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]
-- [[objektai/vietos/Aleknonių kaimas]]
+- [[objektai/posakiai/karas po karo]]
+- [[objektai/vietos/Buktos (Žaliosios) miškas]]
+- [[objektai/grupes/Dzūkų būrys]]
+- [[objektai/grupes/Muškietininkų būrys]]
+- [[objektai/vietos/Žuvinto palios]]

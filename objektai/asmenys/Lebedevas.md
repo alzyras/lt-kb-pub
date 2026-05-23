@@ -51,3 +51,8 @@ Pulko vadas Lebedevas, sužinojęs apie Jiezno apsupimą ir pamatęs artėjanči
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Jieznas]]
+- [[objektai/grupes/Lietuviai]]

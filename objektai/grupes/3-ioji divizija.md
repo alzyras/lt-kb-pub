@@ -51,4 +51,6 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/I. Musteikis]]
+- [[objektai/vietos/Rykantai]]
 - [[objektai/grupes/2-oji divizija]]

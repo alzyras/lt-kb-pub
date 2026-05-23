@@ -6,6 +6,14 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai:
+  - 'XVII'
+  - 'XVIII'
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - bajorija
@@ -44,6 +52,10 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
     - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: 'Reiškinys neturėjo precedento Vidurio Europoje, tai buvo viena iš radikaliausių antrosios XVIII a.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -105,7 +117,26 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Reiškinys neturėjo precedento Vidurio Europoje, tai buvo viena iš radikaliausių antrosios XVIII a.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Reiškinys neturėjo precedento Vidurio Europoje, tai buvo
+    viena iš radikaliausių antrosios XVIII a. pusės valstiečių reformų Lenkijos
+    ir Lietuvos Valstybėje.
+    Klasicizmas Europoje buvo laikomas madas diktuojančios Prancūzi-
+    jos stiliumi.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Vilniaus universitetas]]
+- [[objektai/vietos/Europa]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Viena]]

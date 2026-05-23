@@ -88,3 +88,11 @@ Vartojamos formos: `raktininkas`, `parakčia`, `angininkas`, `karūžasis`, `ši
 ## Pastabos
 
 - Dalies pavadinimų tikslios šiuolaikinės atitikties neįmanoma nusakyti be papildomo tyrimo, bet pareiginis pobūdis tekste akivaizdus.
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/luomas]]
+- [[objektai/zodynas/Karinės vadovybės rangai|karinės vadovybės rangai]]
+- [[objektai/zodynas/rūmininkas vyno pilstytojas]]

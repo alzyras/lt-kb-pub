@@ -72,4 +72,5 @@ Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyve
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Žemaičiai]]
 - [[objektai/vietos/Žemaičių kraštas]]

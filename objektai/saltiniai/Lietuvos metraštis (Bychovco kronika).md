@@ -23,6 +23,7 @@ periodo_grupes:
   - 'šiuolaikinė Lietuva'
 amziai:
   - 'XIV'
+  - 'XVIII'
   - 'XXI'
 date_start: '1368'
 date_end: '2026'
@@ -52,25 +53,25 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-006
-  teiginys: '„Lietuvos metraštis“ ypač vaizdžiai aprašo Maskvos didžiojo kunigaikščio Dmitrijaus reakciją 1368 m. išvydus Algirdą su jo kariuomene prie Maskvos: „išvydęs tai [...] puolė į didžiausią išgąstį ir pasibaisėjimą, nes matė, kad [...] Algirdas su savo didžia.'
+  teiginys: '„Lietuvos metraštis“ aprašė, kad 1368 m. Algirdui su kariuomene priartėjus prie Maskvos Dmitrijus išsigando.'
   pagrindžia:
     - c-002
 - t-007
   teiginys: '72, „PABAISKO MŪŠIS“, Lietuvos metraštis, p. 122-123.'
   pagrindžia:
     - c-003
-- t-008
-  teiginys: '74, „DRĄSI ATAKA, Lietuvos metraštis, p. 173—175.'
-  pagrindžia:
-    - c-004
 - t-009
   teiginys: '79, „GROBIO UŽGROBIMAS“, Lietuvos metraštis, p. 173-175.'
   pagrindžia:
     - c-005
+- t-010
+  teiginys: 'Perimant Vakarų kultūros idėjas, visuomenėje susipažinta su kronikų rašymo tradicija, atsirado poreikis pažinti savo istoriją, perimtas ir Renesanso laikais Europoje paplitęs mitas apie valdovų kildinimą iš kito krašto.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-002
-  santrauka: '„Lietuvos metraštis“ ypač vaizdžiai aprašo Maskvos didžiojo kunigaikščio Dmitrijaus reakciją 1368 m. išvydus Algirdą su jo kariuomene prie Maskvos: „išvydęs tai [...] puolė į didžiausią išgąstį ir pasibaisėjimą, nes matė, kad [...] Algirdas su savo didžia.'
+  santrauka: '„Lietuvos metraštis“ aprašė, kad 1368 m. Algirdui su kariuomene priartėjus prie Maskvos Dmitrijus išsigando.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     „Lietuvos metraštis“ ypač vaizdžiai aprašo Maskvos didžiojo kunigaikščio Dmitrijaus
@@ -107,20 +108,6 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
-- c-004
-  santrauka: '74, „DRĄSI ATAKA, Lietuvos metraštis, p. 173—175.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    VAKARŲ KRIKŠČIONYBĖS TVIRTOVĖ RYTUOSE
-
-    P. 74, „DRĄSI ATAKA, Lietuvos metraštis, p. 173—175.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-008
 - c-005
   santrauka: '79, „GROBIO UŽGROBIMAS“, Lietuvos metraštis, p. 173-175.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -133,6 +120,37 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-009
+- c-006
+  santrauka: 'Perimant Vakarų kultūros idėjas, visuomenėje susipažinta su kronikų rašymo tradicija, atsirado poreikis pažinti savo istoriją, perimtas ir Renesanso laikais Europoje paplitęs mitas apie valdovų kildinimą iš kito krašto.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Perimant Vakarų kultūros idėjas, visuomenėje susipažinta su kroni-
+    kų rašymo tradicija, atsirado poreikis pažinti savo istoriją, perimtas ir
+    Renesanso laikais Europoje paplitęs mitas apie valdovų kildinimą iš kito
+    krašto. Sąlygos susidarė labai palankios: senesnės istorijos nežinota, lie-
+
+    1 skyrius •  S E N O J I  L I E T U VA
+    59
+    tuvių ir lotynų kalbos panašios, taigi sukurta lietuvių kilmės iš romėnų
+    teorija, patekusi ir į Lietuvos metraščius (Bychovco kroniką). Legendoje
+    kalbama apie kilmingų romėnų atvykimą į Lietuvos žemę, užsimenama,
+    kad krašte gyvena ir žmonės, nemokantys lotynų kalbos – tai yra vis-
+    kas, ką sužinome apie nekilmingus vietos gyventojus. Kronikos autoriui
+    tauta  – tik kilmingieji krašto gyventojai. Legendoje nekeliama ir kal-
+    bos problema: tuo metu kalba nebuvo svarbiausias tautos bruožas, nes
+    tada egzistavo ne etninė, bet politinė lietuvių tauta, kurios pagrindinis
+    požymis – priklausymas kilmingiesiems LDK gyventojams. Būtent šių
+    žmonių kilmė ir istorija pasakojama Lietuvos metraščiuose. Kilmės iš
+    romėnų teorija, susipynusi su lotynų – „romėnų“ kalbos vartojimu per
+    visą XVII–XVIII a., buvo tam tikras atsvaros savaiminiam lenkėjimui
+    Pirmoji lietuviška knyga – Martyno Mažvydo „Katekizmas“.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
 
 ## Bibliografiniai įrodymai
 - c-001

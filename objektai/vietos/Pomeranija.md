@@ -102,4 +102,11 @@ Tik Pomeranijoje, Vyslos žemupyje bei Sembos pusiasalyje pasimaišė vienas kit
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Baltija]]
+- [[objektai/vietos/Dorpatas]]
+- [[objektai/grupes/Hanza]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/vietos/Štetinas]]
 - [[objektai/vietos/Stralsundas]]

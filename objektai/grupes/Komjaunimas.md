@@ -43,4 +43,6 @@ Mokiniai buvo verčiami stoti į pionierių ir komjaunimo organizacijas, ideolog
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Lenino kampeliai ir sienlaikraščiai]]
+- [[objektai/grupes/Lietuvos komunistų partija]]
+- [[objektai/grupes/MOPR]]
 - [[objektai/grupes/Pionierių organizacijos]]

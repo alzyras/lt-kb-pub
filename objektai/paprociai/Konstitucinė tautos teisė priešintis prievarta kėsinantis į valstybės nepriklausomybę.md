@@ -113,3 +113,10 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/Suverenitetas]]
+- [[objektai/zodynas/konstitucijos]]

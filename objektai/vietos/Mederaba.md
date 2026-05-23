@@ -59,5 +59,7 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/autoriai/Dusburgas]]
+- [[objektai/vietos/Aukaimis]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/ivykiai/Junigėdos puolimas ir Mederabos sunaikinimas (1291 m.)]]
+- [[objektai/autoriai/Dusburgas]]

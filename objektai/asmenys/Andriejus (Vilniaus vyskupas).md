@@ -54,3 +54,8 @@ Rodos, kad Jogaila su Vytautu ir Vilniaus vysk.
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/paliaubos]]
+
+### Susiję objektai
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/paliaubos]]
+- [[objektai/grupes/Kryžiuočių ordinas]]

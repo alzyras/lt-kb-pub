@@ -150,4 +150,8 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Kupiškis]]
+- [[objektai/grupes/NKVD]]
+- [[objektai/daiktai/Partizanų bunkeriai]]
 - [[objektai/ivykiai/Šimonių girios apgultis]]
+- [[objektai/paprociai/Agentų-smogikų infiltravimo į partizanų gretas ir provokacijų praktika]]

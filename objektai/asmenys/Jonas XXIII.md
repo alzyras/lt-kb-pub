@@ -149,3 +149,10 @@ Ten pusbroliai tikėjosi pasisekimo, nes prieš tai Jonas XXIII buvo spėjęs pa
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/privilegija]]
+
+### Susiję objektai
+- [[objektai/daiktai/Kardas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Konstanca]]

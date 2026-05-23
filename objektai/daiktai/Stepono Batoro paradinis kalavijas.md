@@ -87,4 +87,11 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Liublinas]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/vietos/Maskva]]
 - [[objektai/asmenys/Steponas Batoras]]
+- [[objektai/zodynas/unija]]

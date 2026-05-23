@@ -49,6 +49,14 @@ Po ilgų ginčų buvo sutarta, kad Livonija ir Kuršo kunigaikštija bus laikomo
   teiginys: 'Po ilgų ginčų buvo sutarta, kad Livonija ir Kuršo kunigaikštija bus laikomos priklausančios lygiai abiem valstybėm. Pagaliau lenkams labai rūpėjo iškovoti sau teisę Lietuvoje įsigyti dvarų ir gauti urėdų.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Šiaurinė dalis atiteko Švedijai, likusi dalis buvo padalinta į 4 + P i dvi kunigaikštystes (Kuršo ir Livonijos), kurios atiteko Lietuvai.'
+  pagrindžia:
+    - c-004
+- t-005
+  teiginys: 'Tokie kardai kilo iš Vengrijos, kur jie formavosi turkų Po Liublino unijos Livonijos ir Kuršo kunigaikštystės pripažintos bendromis Lenkijos ir LDK valdomis.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -102,3 +110,49 @@ Po ilgų ginčų buvo sutarta, kad Livonija ir Kuršo kunigaikštija bus laikomo
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Šiaurinė dalis atiteko Švedijai, likusi dalis buvo padalinta į 4 + P i dvi kunigaikštystes (Kuršo ir Livonijos), kurios atiteko Lietuvai.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    1561 m. Livonijos konfederacija nustojo egzis-
+    cS <cremoss:® 2 tuoti. Šiaurinė dalis atiteko Švedijai, likusi dalis buvo padalinta į
+    4 + P i dvi kunigaikštystes (Kuršo ir Livonijos), kurios atiteko Lietuvai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: 'Tokie kardai kilo iš Vengrijos, kur jie formavosi turkų Po Liublino unijos Livonijos ir Kuršo kunigaikštystės pripažintos bendromis Lenkijos ir LDK valdomis.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Tokie
+    kardai kilo iš Vengrijos, kur jie formavosi turkų
+
+    Po Liublino unijos Livonijos ir Kuršo
+    kunigaikštystės pripažintos bend-
+    romis Lenkijos ir LDK valdomis.
+
+    1572 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Kuršas]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Liublinas]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/grupes/Livonijos konfederacija]]
+- [[objektai/zodynas/konfederacija]]
+- [[objektai/zodynas/unija]]
+- [[objektai/vietos/Viena]]
+- [[objektai/grupes/Livonijos kunigaikštystė]]

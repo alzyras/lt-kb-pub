@@ -44,3 +44,28 @@ Adalberto misija Prūsijoje (997), Norvegijos valdovo Olafo pradėta šalies chr
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Adalbertas]]
+- [[objektai/vietos/Islandija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Netimeras]]
+- [[objektai/vietos/Norvegija]]
+- [[objektai/vietos/Prūsija]]
+- [[objektai/zodynas/apsikarūnavimas]]
+- [[objektai/vietos/Švedija]]
+- [[objektai/autoriai/Andziulytė-Ruginienė, M]]
+- [[objektai/autoriai/K. Springmann]]
+- [[objektai/asmenys/Olafas (Norvegijos valdovas)]]
+- [[objektai/asmenys/Olafas (pietų Švedijos kunigaikštis)]]
+- [[objektai/autoriai/P. Šležas]]
+- [[objektai/autoriai/S. Sužiedėlis]]
+- [[objektai/autoriai/Semkowicz, W]]
+- [[objektai/autoriai/Springmann, K]]
+- [[objektai/asmenys/Steponas]]
+- [[objektai/asmenys/Steponas (Vengrijos valdovas)]]
+- [[objektai/autoriai/Sužiedėlis, S]]
+- [[objektai/autoriai/W. Semkowicz]]
+- [[objektai/zodynas/konversija christianizacija europeizacija]]
+- [[objektai/autoriai/Šležas, P]]

@@ -65,6 +65,10 @@ Nenurodyta
     - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: 'Vy­ tautas Didysis, užrašęs jį savo valdymo pradžioje Ordinui, da­ bar grąžino Lietuvai ir užbaigė daugiau negu šimto metų (1283—1422) trukusius dėl jo karus.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -122,3 +126,32 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Vy­ tautas Didysis, užrašęs jį savo valdymo pradžioje Ordinui, da­ bar grąžino Lietuvai ir užbaigė daugiau negu šimto metų (1283—1422) trukusius dėl jo karus.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Vy­
+    tautas Didysis, užrašęs jį savo valdymo pradžioje Ordinui, da­
+    bar grąžino Lietuvai ir užbaigė daugiau negu šimto metų
+    (1283—1422) trukusius dėl jo karus. Ilgam jie buvo sulaikę
+    žemaičius ir bendrai lietuvius nuo krikšto ir Vakarų kultūros;
+    Vytautas ir tą jiems suteikė.
+    Po to buvo susitaikinta ir su ciesorium Zigmantu, kuris
+    Kėzmarko suvažiavime (1423) panaikino Breslavo sprendimą,
+
+    (^1) ) C.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Breslavas]]
+- [[objektai/vietos/Kėzmarkas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Žemaičiai]]

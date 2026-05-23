@@ -42,3 +42,13 @@ Visos po trečiojo padalinimo Rusijai tekusios žemės iš pradžių buvo padali
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Gardinas]]
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Viena]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/gubernija]]

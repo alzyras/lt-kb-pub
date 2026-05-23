@@ -67,6 +67,10 @@ Nenurodyta
   teiginys: 'Tad norisi manyti, kad tokiam Vytauto atšalimui reikia ieškoti gilesnių priežasčių, kaip, pav., jo siekime karūnuotis Lenkijos karalium, ką sukliudė Jogailos įpėdiniai, kurių jis net dvejeto susilaukė.'
   pagrindžia:
     - c-004
+- t-009
+  teiginys: 'Kada jau tarp Lenkijos ir Lietuvos sklido karo gandas, lenkai, nebegalėdami Vytauto sulaikyti nuo vainiko — nes ir vainikavimo terminas 1430.IX.8 d. Vilniuje buvo numatytas — prie atitinkamų kelių valstybės pasieniuose išstatė kariuomenės būrius, saugančius.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -141,7 +145,34 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-005
+  santrauka: 'Kada jau tarp Lenkijos ir Lietuvos sklido karo gandas, lenkai, nebegalėdami Vytauto sulaikyti nuo vainiko — nes ir vainikavimo terminas 1430.IX.8 d. Vilniuje buvo numatytas — prie atitinkamų kelių valstybės pasieniuose išstatė kariuomenės būrius, saugančius.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Kada jau tarp Lenkijos ir Lietuvos sklido karo gandas, lenkai,
+    nebegalėdami Vytauto sulaikyti nuo vainiko — nes ir vainikavimo
+    terminas 1430.IX.8 d. Vilniuje buvo numatytas — prie atitinkamų
+    kelių valstybės pasieniuose išstatė kariuomenės būrius, saugančius
+    pravažiavimą. Vienas tų būrių, Jono Czarnkowskio vadovaujamas,
+    sugavo Cigalos delegaciją, atėmė diplomus ir vainikavimo reikšmę
+    aiškinančius laiškus, delegatus apmušė ir paleido ordino žemėse.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/karūnacija]]
+
+### Susiję objektai
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/asmenys/Zbignievas Olesnickis]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Vokietija]]
+- [[objektai/daiktai/Karūna]]

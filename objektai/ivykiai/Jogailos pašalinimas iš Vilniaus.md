@@ -81,3 +81,10 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/vietos/Polockas]]
+- [[objektai/vietos/Vitebskas]]

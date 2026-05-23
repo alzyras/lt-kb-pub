@@ -47,4 +47,8 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Jeruzalė]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/žygis]]
 - [[objektai/grupes/Joanitų ordinas]]

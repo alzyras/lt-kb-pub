@@ -52,3 +52,10 @@ Tikra yra, kad Lietuvos vardą («Litua») pirmieji paminėjo Annales Quedlinbur
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Rusija]]

@@ -62,3 +62,8 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/redaktorius]]
+
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/autoriai/V. Kudirka]]
+- [[objektai/vietos/Varšuva]]

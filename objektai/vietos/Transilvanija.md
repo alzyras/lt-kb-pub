@@ -59,3 +59,14 @@ Lenkijos ir Lietuvos valdovu tapus Transilvanijos kunigaikščiui L I E T U V O 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/ivykiai/Liublino unija]]
+- [[objektai/asmenys/Steponas Batoras]]
+- [[objektai/grupes/Vokietijos kunigaikščiai]]
+- [[objektai/asmenys/Steponas]]

@@ -121,4 +121,17 @@ Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskrit
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Palanga]]
+- [[objektai/vietos/Airiogala]]
+- [[objektai/vietos/Alūkšta]]
+- [[objektai/vietos/Bernas]]
+- [[objektai/asmenys/Jurgis Šaulys]]
+- [[objektai/vietos/Kauno gubernija]]
+- [[objektai/vietos/Londonas]]
+- [[objektai/grupes/Parusėnai]]
+- [[objektai/asmenys/Steponas Kairys]]
+- [[objektai/vietos/Sudeikiai]]
+- [[objektai/vietos/Valkaviskas]]
+- [[objektai/vietos/Vilniaus gubernija]]
+- [[objektai/zodynas/etnografinės ribos etnografinis principas]]

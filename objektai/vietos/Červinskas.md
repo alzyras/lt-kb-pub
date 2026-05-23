@@ -51,6 +51,14 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   teiginys: 'Vienais metais (1418) Vytautas ir Jo­ gaila buvo net išsirengę į karą ir savo kariuomenes sutraukę prie Červinsko, bet, įsikišus popiežiaus pasiuntiniams, paliaubos buvo dar metams prailgintos.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'Susijungusios Červinske prie Vyslos lietuvių ir lenkų jėgos turėjo žygiuoti į Marienburgą^5.'
+  pagrindžia:
+    - c-005
+- t-006
+  teiginys: 'Surinkę savo jėgas ir prisisamdę Vakaruose daug karių, ypač čekų, Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (prie Vyslos).'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -117,7 +125,43 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Susijungusios Červinske prie Vyslos lietuvių ir lenkų jėgos turėjo žygiuoti į Marienburgą^5.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Susijungusios Červinske prie Vyslos lietuvių ir lenkų
+    jėgos turėjo žygiuoti į Marienburgą^5. Pusbrolių kariuomenės buvo
+    surinktos iš savų žemių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: 'Surinkę savo jėgas ir prisisamdę Vakaruose daug karių, ypač čekų, Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (prie Vyslos).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    ** Surinkę savo jė-
+    gas ir prisisamdę Vakaruose daug karių, ypač čekų, Jogaila su
+    Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Čer-
+    vinsku (prie Vyslos). Viskas buvo daroma taip slaptai, kad
+    ordinas nieko nesuuodė ir laukė užpuolimų skyrium iš Lietuvos
+    ir iš Lenkijos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/ivykiai/1422 m. Červinsko stovykla ir bajorų privilegijų suteikimas]]
+- [[objektai/vietos/Sviečė]]
 - [[objektai/vietos/Vysla]]

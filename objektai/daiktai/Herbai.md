@@ -20,6 +20,7 @@ periodo_grupes:
 amziai:
   - 'XIV'
   - 'XV'
+  - 'XVI'
   - 'XX'
   - 'XXI'
 date_start: '1350'
@@ -59,7 +60,7 @@ Nenurodyta
   pagrindžia:
     - c-002
 - t-003
-  teiginys: 'Bet iš visų Horodlės unijos punktų lenkų labiausiai yra garbinamas tas, kuriuo 47 pirmaeilinės Lenkijos giminės „susi­ broliavo” su žymesniais Lietuvos bajorais sutiekdami jiems savo nobiliteto pažymius — herbus.'
+  teiginys: 'Per Horodlės uniją 47 Lenkijos giminės suteikė žymesniems Lietuvos bajorams savo nobiliteto ženklus – herbus.'
   pagrindžia:
     - c-003
 - t-004
@@ -70,6 +71,14 @@ Nenurodyta
   teiginys: 'Jinai Lietuvos „ponams, nobiliams ir ba­ jorams“ suteikia visas lenkų ponų šlėktos turimas teises, bet tik tiems, kurie yra katalikai ir turi herbus: „...duntaxat catho­ lici et romanae ecclesiae subjecti, et quibus clenodia sunt con­ cessa“^2 ).'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: 'Tačiau ir tomis sudėtingomis sąlygomis iškilo Vilniaus romantizmo mokykla, kurios didieji atstovai buvo Adomas Mickevičius ir Julius Slovackis (Juliusz Slowacki), o Vilniaus universitetas tuo metu išlaikė pozicijas Europos universitetų LDK herbas Vytis iš.'
+  pagrindžia:
+    - c-006
+- t-007
+  teiginys: 'XVI a. vidurio herbyne „Stemmata Polonica“ pavaizduoti Gediminaičių stulpai ir Jogailos kryžius.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -101,7 +110,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Bet iš visų Horodlės unijos punktų lenkų labiausiai yra garbinamas tas, kuriuo 47 pirmaeilinės Lenkijos giminės „susi­ broliavo” su žymesniais Lietuvos bajorais sutiekdami jiems savo nobiliteto pažymius — herbus.'
+  santrauka: 'Per Horodlės uniją 47 Lenkijos giminės suteikė žymesniems Lietuvos bajorams savo nobiliteto ženklus – herbus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Bet iš visų Horodlės unijos punktų lenkų labiausiai yra
@@ -153,7 +162,56 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Tačiau ir tomis sudėtingomis sąlygomis iškilo Vilniaus romantizmo mokykla, kurios didieji atstovai buvo Adomas Mickevičius ir Julius Slovackis (Juliusz Slowacki), o Vilniaus universitetas tuo metu išlaikė pozicijas Europos universitetų LDK herbas Vytis iš.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tačiau ir tomis su-
+    dėtingomis sąlygomis iškilo Vilniaus romantizmo mokykla, kurios didieji
+    atstovai buvo Adomas Mickevičius ir Julius Slovackis (Juliusz Slowacki),
+    o Vilniaus universitetas tuo metu išlaikė pozicijas Europos universitetų
+    LDK herbas Vytis iš herbyno
+    „Stemmata Polonica“ (saugomo
+    Paryžiuje), XVI a. vid.
+
+    L I E T U V O S  I S T O R I J A
+    18
+    Gedimino stulpai ir Jogailos kryžius iš herbyno
+    „Stemmata Polonica“ (saugomo Paryžiuje), XVI a.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: 'XVI a. vidurio herbyne „Stemmata Polonica“ pavaizduoti Gediminaičių stulpai ir Jogailos kryžius.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    L I E T U V O S  I S T O R I J A
+    18
+    Gedimino stulpai ir Jogailos kryžius iš herbyno
+    „Stemmata Polonica“ (saugomo Paryžiuje), XVI a. vid.
+    pirmajame šimtuke.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/simbolis]]
+
+### Susiję objektai
+- [[objektai/asmenys/Adomas Mickevičius|Adomas Mickevičius (poetas)]]
+- [[objektai/vietos/Europa]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/daiktai/Herbas]]
+- [[objektai/asmenys/Julius Slovackis]]
+- [[objektai/autoriai/Mickevičius]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/daiktai/Gediminaičių stulpai]]

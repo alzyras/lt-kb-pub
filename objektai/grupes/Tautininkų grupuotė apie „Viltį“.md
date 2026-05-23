@@ -42,3 +42,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Vilnius]]

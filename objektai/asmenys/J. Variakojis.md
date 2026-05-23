@@ -133,4 +133,5 @@ Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanor
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Kėdainiai]]
-- [[objektai/vietos/Panevėžys]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

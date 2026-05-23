@@ -54,6 +54,7 @@ datos:
   - '1427 m.'
   - '1428 m.'
   - '1429 m.'
+  - '1430 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
@@ -62,7 +63,7 @@ amziai:
   - 'XV'
   - 'XX'
 date_start: '1350'
-date_end: '1429'
+date_end: '1430'
 patikimumas: 'aukštas'
 tags:
   - asmuo
@@ -237,7 +238,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-024
-  teiginys: 'Vytautui priskiriamas didelis švaistymasis materialinėmis gėrybėmis, ypač norint pasirodyti užsieniečiams.'
+  teiginys: 'Vytautui buvo būdingas taupumas, bet jis dosniai švaistydavosi, kai reikėdavo pasirodyti užsieniečiams.'
   ankstesnes_formuluotes:
     - 'Vytautui priskiriamas didelis švaistymasis materialinėmis gėrybėmis, ypač norint pasirodyti užsieniečiams.'
   pagrindžia:
@@ -317,7 +318,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-039
-  teiginys: 'Vytautas apibūdinamas kaip darbštus, teisingas ir saikingas valdovas.'
+  teiginys: 'Vytautas stropiai valdė, vadovavosi teisybe ir net laisvalaikiu laikėsi saiko.'
   pagrindžia:
     - c-044
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -608,6 +609,130 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - c-095
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-091
+  teiginys: 'Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo) valstybės pakraščiuose, ne lietuvių, o senųjų rusų (arba rusėnų), taip pat žemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš Lietuvos.'
+  pagrindžia:
+    - c-096
+- t-092
+  teiginys: '1392–1430 žymiausio Lietuvos valdovo Vytauto valdymo metai.'
+  pagrindžia:
+    - c-097
+- t-093
+  teiginys: 'Vytautas siekė gauti karūną ir Vakarų pripažinimą.'
+  pagrindžia:
+    - c-098
+- t-094
+  teiginys: 'Vytautas Didysis buvo Kęstučio sūnus ir valdė 1392–1430 m.'
+  pagrindžia:
+    - c-099
+- t-095
+  teiginys: 'Mūsų kultūroje ypač garbingą vietą užima žymiausių jos atstovų – Gedimino, Algirdo, Kęstučio, Vytauto – vardai, o dinastijos ženklas – Gediminaičių stulpai – yra vienas iš svarbiausių lietuvių tautos ir Lietuvos valstybės simbolių.'
+  pagrindžia:
+    - c-100
+- t-096
+  teiginys: 'VYTAUTO IMPERIJA G edimino vaikaičio Vytauto valdymas 1392–1430 m. – epochinių permainų metas.'
+  pagrindžia:
+    - c-101
+- t-097
+  teiginys: 'Vytautas geriausiai pasinaudojo istorijos teikiamomis galimybėmis ir nutiesė kelius Europos kultūrai Lietuvoje.'
+  pagrindžia:
+    - c-102
+- t-098
+  teiginys: 'Todėl Vytautas per savo agentus Lenkijoje piršo nuostatą, kad kariauti su Vokiečių ordinu būtina.'
+  pagrindžia:
+    - c-103
+- t-099
+  teiginys: 'Vytautas apgavo Ordino vadus – davė žemaičiams įsakymą nuolat puldinėti jo pilis, taip dangstant jungtinės Lenkijos ir Lietuvos kariuomenės puolimo kryptį.'
+  pagrindžia:
+    - c-104
+- t-100
+  teiginys: 'Taigi Vytautas laukė Jogailos žodžio pradėti mūšį, o to žodžio nesigirdėjo.'
+  pagrindžia:
+    - c-105
+- t-101
+  teiginys: 'Šventasis valdovas Vytautas tikėjo, kad viename pralaimėtame mūšyje buvęs išgelbėtas Švč.'
+  pagrindžia:
+    - c-106
+- t-102
+  teiginys: 'Taip po Žalgirio mūšio atsirado Vytauto funduotos bažnyčios ir vienuolynai, buvo apkrikštyta Žemaitija (1413), įsteigta Žemaičių vyskupija (1417), o Vakaruose vykdyta plati žinių apie tai sklaidos kampanija, siekiant parodyti Lietuvą kaip katalikišką kraštą.'
+  pagrindžia:
+    - c-107
+- t-103
+  teiginys: 'Vytautas atmetė Ordino reikalavimą grąžinti Veliuonos pilį ir šią žemę Ordinui.'
+  pagrindžia:
+    - c-108
+- t-104
+  teiginys: 'Vytautas Ordino pretenzijas į Žemaitiją atrėmė istoriniais ir etniniais argumentais.'
+  pagrindžia:
+    - c-109
+- t-105
+  teiginys: 'Todėl 1413 m. Vytautas su Jogaila pradeda krikštyti žemaičius.'
+  pagrindžia:
+    - c-110
+- t-106
+  teiginys: 'Atrodo, kad visa Vytauto politika orientuota į „švento valdovo“ įvaizdį – kaip prieš kelis šimtmečius Vengrijos valdovas Steponas įgijo aukštesnį statusą nei Didysis – tapo šventuoju Steponu.'
+  pagrindžia:
+    - c-111
+- t-107
+  teiginys: 'Lucko suvažiavimas rodė LDK ir Vytauto vaidmens svarbą regione, o į Lietuvos istoriją įėjo pirmiausia dėl Vytauto vainikavimo plano, kurį rėmė Zigmantas I ir Vokiečių ordinas, siekdamas sukurti regione atsvarą Lenkijai.'
+  pagrindžia:
+    - c-112
+- t-108
+  teiginys: '1430 m. Vytautas Jogailos sutikimą vėl gavo, reikėjo sulaukti tik lenkų didikų pritarimo, deja, Vytautas jo nesulaukė – 1430 m. spalio 27 d. mirė.'
+  pagrindžia:
+    - c-113
+- t-109
+  teiginys: 'Taigi net jei žydų, o ypač armėnų, vaidmuo LDK buvo menkesnis nei Lenkijoje, pastarojoje nebuvo tokių ryškių musulmonų totorių ir karaimų bendruomenių, kurias Lietuvos didysis kunigaikštis Vytautas apgyvendino LDK.'
+  pagrindžia:
+    - c-114
+- t-110
+  teiginys: 'LDK tradicija, lietuvių ir jų kunigaikščių bei bajorijos, karvedžių Gedimino, Kęstučio, Vytauto Didžiojo vardai visuomet kėlė atgimstančios lietuvių tautos sąmonę.'
+  pagrindžia:
+    - c-115
+- t-111
+  teiginys: 'Valstybės ir tautos didvyriu pasirinktas senovės Lietuvos valdovas – Vytautas, Lietuvos didysis kunigaikštis, didis karo vadas, tautos genijus.'
+  pagrindžia:
+    - c-116
+- t-112
+  teiginys: 'Gerbti ir garbinti Vytautą Didįjį, suaktualinus jo istorinį vaidmenį, tiko visiems: karvedys, laimėjęs Žalgirio mūšį, išplėtęs Lietuvą nuo jūrų iki jūrų, siekęs Lietuvai karaliaus karūnos, kurią „nugvelbė“ klastingi lenkai...'
+  pagrindžia:
+    - c-117
+- t-113
+  teiginys: 'Vytauto tolerancija patiko tautinėms mažumoms – juk jis pasikvietė totorius į Lietuvą, o žydams suteikė tokių privilegijų, kokias Europoje jie gavo gerokai vėliau.'
+  pagrindžia:
+    - c-118
+- t-114
+  teiginys: 'Vytauto Didžiojo mirties 500-ųjų metinių komitetas nutarė pastatyti Kaune Vytauto Didžiojo karo muziejų, kaip atminimo panteoną, po visą Lietuvą nešiotas Vytauto paveikslas – šias apeigas lydėjo daugybė įvairiausių renginių visuose Lietuvos miestuose ir.'
+  pagrindžia:
+    - c-119
+- t-115
+  teiginys: 'Nuo 1930 m. rugsėjo 8 dieną švęsta ypatinga Tautos šventė (neįvykusio Vytauto karūnavimo ir Švenčiausiosios Mergelės Marijos gimimo diena): valstybines įstaigas papuošdavo dideli Vytauto Didžiojo ir A.'
+  pagrindžia:
+    - c-120
+- t-116
+  teiginys: 'Mūšio priešistorė 1430 m. spalio 27 d. mirė didis Lietuvos valdovas, valstybės galybės kūrėjas Vytautas Didysis Kęstutaitis.'
+  pagrindžia:
+    - c-121
+- t-117
+  teiginys: 'Lietuvius šalininkus subūręs dar Borisove, užėmęs Minską, Žemaičiai, nepatenkinti Vokiečių ordino valdžia, buvo ne kartą sukilę, dažnai jų veiksmus paremdavo Vytautas.'
+  pagrindžia:
+    - c-122
+- t-118
+  teiginys: 'Vytautas užsipelnė didelės apgarbos tiek savųjų, tiek svetimųjų tarpe.'
+  pagrindžia:
+    - c-123
+- t-119
+  teiginys: 'Galimas daiktas, kad Vytautas mokėjęs ir totorių kal­ bos, nes jo dvare totorių daug pasimaišydavo ir nuolat būdavo kun. tarnyboj; o iš kun. kanceliarijos, kaip užsimena Ghillebert de Lannoy, buvo siuntinėjami totorių kalba raštai.'
+  pagrindžia:
+    - c-124
+- t-120
+  teiginys: 'Istoriniai reikšmingas Vytauto veikimas prasideda Kęstu­ čio kovos metu su Jogaila.'
+  pagrindžia:
+    - c-125
+- t-121
+  teiginys: 'Vytautas, dukart iš Lietuvos pabėgęs, išbuvo apie ketve­ rius metus Prūsuose.'
+  pagrindžia:
+    - c-126
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -998,7 +1123,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   pagrindžia:
     - t-023
 - c-025
-  santrauka: Vytautui priskiriamas išlaidumas ir noras pasirodyti užsieniečiams.
+  santrauka: 'Vytautui buvo būdingas taupumas, bet jis dosniai švaistydavosi, kai reikėdavo pasirodyti užsieniečiams.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Šalia taupumo, Vytautui buvo
@@ -1277,7 +1402,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   pagrindžia:
     - t-037
 - c-044
-  santrauka: 'Vytautas apibūdinamas kaip darbštus, teisingas ir saikingas valdovas.'
+  santrauka: 'Vytautas stropiai valdė, vadovavosi teisybe ir net laisvalaikiu laikėsi saiko.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Didelis ir darbininkas. Mokėjo laiką taip suvartoti, jog nė
@@ -2239,6 +2364,579 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-090
+- c-096
+  santrauka: 'Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo) valstybės pakraščiuose, ne lietuvių, o senųjų rusų (arba rusėnų), taip pat žemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš Lietuvos.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Grindžiama
+    mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
+    valstybės pakraščiuose, ne lietuvių, o senųjų rusų (arba rusėnų), taip pat
+    žemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš
+    Lietuvos. Šie žmonės aplinkinių buvo vadinami „leičiais“ (latviai iki šiol
+    vadina lietuvius „leišiais“), o gal ir „liečiais“.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-091
+- c-097
+  santrauka: '1392–1430 žymiausio Lietuvos valdovo Vytauto valdymo metai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1392–1430
+    žymiausio Lietuvos valdovo Vytauto valdymo metai.
+    1410 
+    Žalgirio (Griunvaldo) mūšis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-092
+- c-098
+  santrauka: 'Vytautas siekė gauti karūną ir Vakarų pripažinimą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuva liks savarankiška civilizacinė monada, todėl
+    tiek Gediminas, tiek Algirdas, nelaukdami pripažinimo ir karūnos iš sve-
+    tur, nemandagiai (Vakarų žvilgsniu) vadinsis karaliais. Tik Vytautas taps
+    mandagesnis ir sieks įgyti karūną ir pripažinimą iš Vakarų.
+    Mindaugas sukuria Lietuvos valstybę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-093
+- c-099
+  santrauka: 'Vytautas Didysis buvo Kęstučio sūnus ir valdė 1392–1430 m.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    piešti
+    įsivaizduojami Lietuvos valdovų portretai
+
+    1 skyrius •  S E N O J I  L I E T U VA
+    35
+    kunigaikščiai – Gedimino sūnūs Algirdas ir Kęstutis, Algirdo sūnus Jo-
+    gaila ir iškiliausias dinastijos atstovas Kęstučio sūnus Vytautas Didysis
+    (valdė 1392–1430). Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam
+    tapus Lenkijos karaliumi (1386), atsirado Gediminaičių šakos Jogailai-
+    čių dinastija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-094
+- c-100
+  santrauka: 'Mūsų kultūroje ypač garbingą vietą užima žymiausių jos atstovų – Gedimino, Algirdo, Kęstučio, Vytauto – vardai, o dinastijos ženklas – Gediminaičių stulpai – yra vienas iš svarbiausių lietuvių tautos ir Lietuvos valstybės simbolių.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Mūsų kultūroje
+    ypač garbingą vietą užima žymiausių jos atstovų – Gedimino, Algirdo,
+    Kęstučio, Vytauto – vardai, o dinastijos ženklas – Gediminaičių stulpai –
+    yra vienas iš svarbiausių lietuvių tautos ir Lietuvos valstybės simbolių.
+    PAGONIŲ VALSTYBĖ.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-095
+- c-101
+  santrauka: 'VYTAUTO IMPERIJA G edimino vaikaičio Vytauto valdymas 1392–1430 m. – epochinių permainų metas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    VYTAUTO IMPERIJA
+    G
+    edimino vaikaičio Vytauto valdymas 1392–1430 m. –
+    epochinių permainų metas. Lietuvos Didžioji Kuni-
+    gaikštija 1392 m. buvo šalis be rašto ir mokyklų, be didelių miestų ir cechų
+    amatų industrijos, be sunkiosios raitijos – smogiamosios jėgos mūšio lau-
+    ke. Jos valdovas Jogaila tapo Lenkijos karaliumi ir buvo pripažintas tarp-
+    tautiniu mastu, bet už tai LDK prarado suverenios valstybės statusą. Kry-
+    žiuočių kumštis grėsmingai tebekybojo ties Nemunu. O jau 1430 m. LDK
+    buvo galinga kaip niekuomet – Vytauto galią jautė visas regionas, valdomas
+
+    L I E T U V O S  I S T O R I J A
+    44
+    imperiškai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-096
+- c-102
+  santrauka: 'Vytautas geriausiai pasinaudojo istorijos teikiamomis galimybėmis ir nutiesė kelius Europos kultūrai Lietuvoje.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    LDK
+    buvo galinga kaip niekuomet – Vytauto galią jautė visas regionas, valdomas
+
+    L I E T U V O S  I S T O R I J A
+    44
+    imperiškai. Lucko suvažiavime 1429 m. Lietuva buvo paskelbta suverenia
+    valstybe, ir tik atsitiktinumas sutrukdė jai pasidaryti karalyste. Kryžiuočių
+    pavojus pašalintas. Šalyje sparčiai kilo amatai ir prekyba, susikūrė turtin-
+    gų žemvaldžių, galinčių gerai apsiginkluoti, sluoksnis. Funkcionavo ištisas
+    raštinių tinklas, atsirado pirmosios mokyklos, pradėti rašyti metraščiai. Ne
+    vienas Vytautas, o visa Lietuvos visuomenė, ypač jos elitas, kūrė šį istorinį
+    procesą, bet būtent Vytautas geriausiai sugebėjo pasinaudoti istorijos tei-
+    kiamomis galimybėmis ir nutiesė kelius Europos kultūrai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-097
+- c-103
+  santrauka: 'Todėl Vytautas per savo agentus Lenkijoje piršo nuostatą, kad kariauti su Vokiečių ordinu būtina.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Todėl Vytautas
+    per savo agentus Lenkijoje piršo nuostatą, kad kariauti su Vokiečių or-
+    dinu būtina. Jogaila į karą su Ordinu nesiveržė, nes pralaimėjęs galėjo
+    prarasti Lenkijos sostą. Vytauto pastangos davė rezultatų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-098
+- c-104
+  santrauka: 'Vytautas apgavo Ordino vadus – davė žemaičiams įsakymą nuolat puldinėti jo pilis, taip dangstant jungtinės Lenkijos ir Lietuvos kariuomenės puolimo kryptį.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vytautas apgavo Ordino vadus – davė žemaičiams įsaky-
+    mą nuolat puldinėti jo pilis, taip dangstant jungtinės Lenkijos ir Lietu-
+    vos kariuomenės puolimo kryptį. Apskritai Vytauto planas buvo įžūlus
+    ir netikėtas – paprastai karuose su Lenkija ar su Lietuva Ordinas būdavo
+    puolančioji pusė. O dabar įsiveržiama į Vokiečių ordino teritoriją ir žy-
+    giuojama tiesiai link sostinės, siekiant strateginio tikslo – susidurti su vi-
+    somis Ordino pajėgomis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-099
+- c-105
+  santrauka: 'Taigi Vytautas laukė Jogailos žodžio pradėti mūšį, o to žodžio nesigirdėjo.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Taigi Vytautas laukė Jogailos žodžio pradėti mūšį, o to žodžio
+    nesigirdėjo. Jogailos atliekamos apeigos nervino Vytautą, murmėjo net
+    lenkų riteriai. Todėl Vytautas surizikavo – pirmasis metė į mūšį Lietuvos
+    kariuomenę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-100
+- c-106
+  santrauka: 'Šventasis valdovas Vytautas tikėjo, kad viename pralaimėtame mūšyje buvęs išgelbėtas Švč.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Šventasis valdovas
+    Vytautas tikėjo, kad viename pralaimėtame mūšyje buvęs
+    išgelbėtas Švč. Mergelės Marijos – iškart po šio mūšio funduota Vytauto
+    bažnyčia Kaune buvo pašvęsta Švč. Mergelei. Ir dauguma Vytauto funduo-
+    tų bažnyčių pavadintos Švč. Mergelės Marijos vardu. Galima sakyti, kad
+    Švč. Mergelės garbinimo tradiciją Lietuvoje pradėjo Vytautas, nors jo baž-
+    nytinę politiką Lietuvos krikšto akcijoje užgožė Jogaila, o pagrindinis Vy-
+    tauto tikslas buvo pastatyti Lietuvą Europos katalikiškųjų šalių greton.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-101
+- c-107
+  santrauka: 'Taip po Žalgirio mūšio atsirado Vytauto funduotos bažnyčios ir vienuolynai, buvo apkrikštyta Žemaitija (1413), įsteigta Žemaičių vyskupija (1417), o Vakaruose vykdyta plati žinių apie tai sklaidos kampanija, siekiant parodyti Lietuvą kaip katalikišką kraštą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Taip po Žalgirio mūšio atsirado Vytau-
+    to funduotos bažnyčios ir vienuolynai, buvo apkrikštyta Žemaitija (1413),
+    įsteigta Žemaičių vyskupija (1417), o Vakaruose vykdyta plati žinių apie tai
+    sklaidos kampanija, siekiant parodyti Lietuvą kaip katalikišką kraštą.
+    Be to, dar bandyta steigti atskirą Lietuvos katalikų bažnyčios provinci-
+    ją, sukurti Lietuvos stačiatikių metropoliją ar vyskupiją ir šią sujungti su
+    Katalikų bažnyčia.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-102
+- c-108
+  santrauka: 'Vytautas atmetė Ordino reikalavimą grąžinti Veliuonos pilį ir šią žemę Ordinui.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kuchmeis-
+    teriui pareiškus, kad Lietuva nesilaikanti Torunės sutarties sąlygų, kad
+    turėtų sugriauti Veliuonos pilį ir šią žemę grąžinti Ordinui, Vytautas at-
+    kirtęs: „Jūs norite man išplėšti tėvų palikimą ir Veliuonos pilį atimti; bet
+    kol aš jums atiduosiu, ne vienas turės paguldyti galvą.“ Kuchmeisteriui į
+    tai atsakius, kad Ordinas šiems savo reikalavimams turįs „gerų laiškų ir
+    įrodymų“, Vytautas supykęs ir pasakęs: „Ir Prūsai yra mano paveldėjimas,
+    ir aš reikalausiu jų iki Osos, nes visa tai yra mano tėvų palikimas.“ Vytau-
+    tas dar ironiškai paklausęs maršalo: „O kurgi yra Ordino tėvų palikimas?“
+    Vytautas, atremdamas Ordino pretenzijas į Žemaitiją, pasitelkė istori-
+
+    L I E T U V O S  I S T O R I J A
+    50
+    nius ir etninius argumentus – jo manymu, ankstesni Žemaičių užrašymų
+    dokumentai, Lietuvai tapus krikščioniška šalimi, prarado juridinę galią.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-103
+- c-109
+  santrauka: 'Vytautas Ordino pretenzijas į Žemaitiją atrėmė istoriniais ir etniniais argumentais.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    “
+    Vytautas, atremdamas Ordino pretenzijas į Žemaitiją, pasitelkė istori-
+
+    L I E T U V O S  I S T O R I J A
+    50
+    nius ir etninius argumentus – jo manymu, ankstesni Žemaičių užrašymų
+    dokumentai, Lietuvai tapus krikščioniška šalimi, prarado juridinę galią.
+    Savo tėvonija jis vadina beveik visas prūsų žemes iki dešiniojo Vyslos
+    intako Osos, už kurios piečiau jau buvo tik Kulmo žemė, mozūrų ku-
+    nigaikščių dovanota vokiečiams.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-104
+- c-110
+  santrauka: 'Todėl 1413 m. Vytautas su Jogaila pradeda krikštyti žemaičius.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Todėl 1413 m. Vy-
+    tautas su Jogaila pradeda krikštyti žemaičius. 1418 m. Vytautas siunčia į
+    Konstancą jau minėtą G. Camblako stačiatikių delegaciją, turėjusią pa-
+    grįsti siekį gyventi unijoje su Katalikų bažnyčia.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-105
+- c-111
+  santrauka: 'Atrodo, kad visa Vytauto politika orientuota į „švento valdovo“ įvaizdį – kaip prieš kelis šimtmečius Vengrijos valdovas Steponas įgijo aukštesnį statusą nei Didysis – tapo šventuoju Steponu.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Atrodo, kad visa Vytauto politika orientuota į „švento
+    valdovo“ įvaizdį – kaip prieš kelis šimtmečius Vengrijos valdovas Steponas
+    įgijo aukštesnį statusą nei Didysis – tapo šventuoju Steponu. Kadangi Vy-
+    tautui iš tikrųjų teko didžiulė užduotis įvykdyti konversiją – ne tik atvesti
+    į krikščionybę pagoniškas Lietuvos erdves, bet ir ieškoti sugyvenimo for-
+    mulių su stačiatikiškąja arba graikiškąja tradicija, jo karūnacijos projektą
+    reikėtų matyti Lietuvos christianizacijos ir europeizacijos kontekste.
+    Siekti karūnacijos Vytautas pradėjo išsprendęs savo politikos priori-
+    tetą – 1422 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-106
+- c-112
+  santrauka: 'Lucko suvažiavimas rodė LDK ir Vytauto vaidmens svarbą regione, o į Lietuvos istoriją įėjo pirmiausia dėl Vytauto vainikavimo plano, kurį rėmė Zigmantas I ir Vokiečių ordinas, siekdamas sukurti regione atsvarą Lenkijai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lucko suvažiavi-
+    mas rodė LDK ir Vytauto vaidmens svarbą regione, o į Lietuvos istoriją
+    įėjo pirmiausia dėl Vytauto vainikavimo plano, kurį rėmė Zigmantas I
+    ir Vokiečių ordinas, siekdamas sukurti regione atsvarą Lenkijai. Vytau-
+    to apsisprendimas priimti imperatoriaus siūlomą vainiką ir pareiškimas,
+    kad tai daro „niekieno neatsiklausdamas“, reiškė, kad jis tampa suvereniu
+    valdovu.
+    Lucko suvažiavimas logiškai užbaigė sudėtingą Vytauto politinį kelią,
+    numatytą XIV a.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-107
+- c-113
+  santrauka: '1430 m. Vytautas Jogailos sutikimą vėl gavo, reikėjo sulaukti tik lenkų didikų pritarimo, deja, Vytautas jo nesulaukė – 1430 m. spalio 27 d. mirė.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1430 m. Vytautas Jogailos sutikimą vėl gavo, reikėjo sulaukti
+    tik lenkų didikų pritarimo, deja, Vytautas jo nesulaukė – 1430 m. spalio
+    27 d. mirė. Nors maksimalus planas nebuvo įgyvendintas, svarbiausią
+    tikslą Vytauto politika pasiekė: atsilikusi ir izoliuota Lietuvos valstybė
+    pašalino didžiuosius pavojus, įteisino savo egzistenciją, įžengė į Europą,
+    pritapo prie jos ir joje išsilaikė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-108
+- c-114
+  santrauka: 'Taigi net jei žydų, o ypač armėnų, vaidmuo LDK buvo menkesnis nei Lenkijoje, pastarojoje nebuvo tokių ryškių musulmonų totorių ir karaimų bendruomenių, kurias Lietuvos didysis kunigaikštis Vytautas apgyvendino LDK.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tačiau XVII–XVIII a. bent jau Vilnius
+    prilygo, o gal net pradėjo lenkti (Vilniaus kaip „Lietuvos Jeruzalės“ idėja)
+    tokius žydų kultūros centrus kaip Krokuva, Liublinas ar Lvovas. Taigi net
+    jei žydų, o ypač armėnų, vaidmuo LDK buvo menkesnis nei Lenkijoje,
+    pastarojoje nebuvo tokių ryškių musulmonų totorių ir karaimų bendruo-
+    menių, kurias Lietuvos didysis kunigaikštis Vytautas apgyvendino LDK.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-109
+- c-115
+  santrauka: 'LDK tradicija, lietuvių ir jų kunigaikščių bei bajorijos, karvedžių Gedimino, Kęstučio, Vytauto Didžiojo vardai visuomet kėlė atgimstančios lietuvių tautos sąmonę.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Didvyriai surasti – tai visi Lietuvos didieji kuni-
+    gaikščiai kaip prakilni jungtis su moderniąja, XX a. Lietuva, kuri atsirado
+    iš anos Lietuvos ir atkūrė savo valstybę. LDK tradicija, lietuvių ir jų kuni-
+    gaikščių bei bajorijos, karvedžių Gedimino, Kęstučio, Vytauto Didžiojo
+    vardai visuomet kėlė atgimstančios lietuvių tautos sąmonę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-110
+- c-116
+  santrauka: 'Valstybės ir tautos didvyriu pasirinktas senovės Lietuvos valdovas – Vytautas, Lietuvos didysis kunigaikštis, didis karo vadas, tautos genijus.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Valstybės ir
+    tautos didvyriu pasirinktas senovės Lietuvos valdovas – Vytautas, Lietu-
+    vos didysis kunigaikštis, didis karo vadas, tautos genijus. 1930 m. iškil-
+    mingai pažymėtas Vytauto mirties 500 metų jubiliejus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-111
+- c-117
+  santrauka: 'Gerbti ir garbinti Vytautą Didįjį, suaktualinus jo istorinį vaidmenį, tiko visiems: karvedys, laimėjęs Žalgirio mūšį, išplėtęs Lietuvą nuo jūrų iki jūrų, siekęs Lietuvai karaliaus karūnos, kurią „nugvelbė“ klastingi lenkai...'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Gerbti ir garbinti
+    Vytautą Didįjį, suaktualinus jo istorinį vaidmenį, tiko visiems: karvedys,
+    laimėjęs Žalgirio mūšį, išplėtęs Lietuvą nuo jūrų iki jūrų, siekęs Lietuvai
+    karaliaus karūnos, kurią „nugvelbė“ klastingi lenkai... Patiko Vytautas ir
+    Katalikų bažnyčiai, nes jis – Lietuvos krikštytojas, pastatęs 33 bažnyčias;
+    tvirta ranka valdęs valstybę jis patiko tautininkams; sportininkai šlovi-
+    no Vytauto fizinę stiprybę, blaivininkai aiškino, kad Vytautas niekuomet
+
+    L I E T U V O S  I S T O R I J A
+    162
+    Vytauto Didžiojo kulto kūrimo momentas: 1930 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-112
+- c-118
+  santrauka: 'Vytauto tolerancija patiko tautinėms mažumoms – juk jis pasikvietė totorius į Lietuvą, o žydams suteikė tokių privilegijų, kokias Europoje jie gavo gerokai vėliau.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vytauto tolerancija patiko tautinėms mažumoms –
+    juk jis pasikvietė totorius į Lietuvą, o žydams suteikė tokių privilegijų, ko-
+    kias Europoje jie gavo gerokai vėliau. Be to, Vytautas įkūnijo kiekvienam
+    lietuviui priimtiną tautinį ir politinį idealą – vadavo Lietuvą iš priklau-
+    somybės nuo lenkų, jis ir palaidotas Vilniuje. Vytauto Didžiojo mirties
+    500-ųjų metinių komitetas nutarė pastatyti Kaune Vytauto Didžiojo karo
+    muziejų, kaip atminimo panteoną, po visą Lietuvą nešiotas Vytauto pa-
+    veikslas – šias apeigas lydėjo daugybė įvairiausių renginių visuose Lietu-
+    vos miestuose ir miesteliuose, jam pastatyti paminklai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-113
+- c-119
+  santrauka: 'Vytauto Didžiojo mirties 500-ųjų metinių komitetas nutarė pastatyti Kaune Vytauto Didžiojo karo muziejų, kaip atminimo panteoną, po visą Lietuvą nešiotas Vytauto paveikslas – šias apeigas lydėjo daugybė įvairiausių renginių visuose Lietuvos miestuose ir.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vytauto Didžiojo mirties
+    500-ųjų metinių komitetas nutarė pastatyti Kaune Vytauto Didžiojo karo
+    muziejų, kaip atminimo panteoną, po visą Lietuvą nešiotas Vytauto pa-
+    veikslas – šias apeigas lydėjo daugybė įvairiausių renginių visuose Lietu-
+    vos miestuose ir miesteliuose, jam pastatyti paminklai.
+    Taip formuotas Vytauto Didžiojo kultas, priminęs lietuviams šlovingą
+    jų senovės laikų didvyrio praeitį ir su juo susiejęs stipraus tautos vado –
+    A.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-114
+- c-120
+  santrauka: 'Nuo 1930 m. rugsėjo 8 dieną švęsta ypatinga Tautos šventė (neįvykusio Vytauto karūnavimo ir Švenčiausiosios Mergelės Marijos gimimo diena): valstybines įstaigas papuošdavo dideli Vytauto Didžiojo ir A.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Nuo 1930 m. rugsėjo 8 dieną švęsta ypatinga Tautos šventė (neįvykusio
+    Vytauto karūnavimo ir Švenčiausiosios Mergelės Marijos gimimo diena):
+    valstybines įstaigas papuošdavo dideli Vytauto Didžiojo ir A.  Smetonos
+    portretai, vykdavo kariuomenės paradai, inscenizuotos eitynės miestų ga-
+    tvėmis, vaidinami spektakliai, užsienio svečiams rengiami pokyliai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-115
+- c-121
+  santrauka: 'Mūšio priešistorė 1430 m. spalio 27 d. mirė didis Lietuvos valdovas, valstybės galybės kūrėjas Vytautas Didysis Kęstutaitis.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Mūšio priešistorė
+
+    1430 m. spalio 27 d. mirė didis Lietuvos
+    valdovas, valstybės galybės kūrėjas Vytau-
+    tas Didysis Kęstutaitis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-116
+- c-122
+  santrauka: 'Lietuvius šalininkus subūręs dar Borisove, užėmęs Minską, Žemaičiai, nepatenkinti Vokiečių ordino valdžia, buvo ne kartą sukilę, dažnai jų veiksmus paremdavo Vytautas.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Lietuvius
+    šalininkus subūręs dar
+    Borisove, užėmęs Minską,
+
+    Žemaičiai, nepatenkinti Vokiečių ordino valdžia, buvo ne
+    kartą sukilę, dažnai jų veiksmus paremdavo Vytautas. Po
+    Žalgirio pergalės 1410 m., 1411 m. buvo pasirašyta Torunės
+    taika ir Žemaitija Vytautui ir Jogailai atiteko „iki gyvos
+    galvos“, Vytautas siekė susigrąžinti ją visam laikui kartu su
+    Klaipėda ir visa Užnemune.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-117
+- c-123
+  santrauka: 'Vytautas užsipelnė didelės apgarbos tiek savųjų, tiek svetimųjų tarpe.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Didelis ir darbininkas. Mokėjo laiką taip suvartoti, jog nė
+    minutė nenueidavo niekais. Pasižymėjo stropiu valdymu: savo
+    pareigų neužmiršdavo nei namuose nei kelionėje. Ar klausy­
+    damas žmonių skundų ir prašymų, ar duodamas atsakymus ir
+    patarimus — visur vadavosi teisybe. Ta savybe jis užsipelnė
+    didelės apgarbos tiek savųjų, tiek svetimųjų tarpe. Laisvesnį
+    laiką, jei jo kiek atlikdavo, praleisdavo medžioklėje arba eida­
+    mas šachmatais. Bet visur kur matėsi saikas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-118
+- c-124
+  santrauka: 'Galimas daiktas, kad Vytautas mokėjęs ir totorių kal­ bos, nes jo dvare totorių daug pasimaišydavo ir nuolat būdavo kun. tarnyboj; o iš kun. kanceliarijos, kaip užsimena Ghillebert de Lannoy, buvo siuntinėjami totorių kalba raštai.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Mokėjo ne tik vokiečių, bet ir lotynų kalbą. Galėjo mokėt
+    ir rusų, nes su jų kunigaikščiais vedė daug reikalų ir giminia­
+    vosi. Galimas daiktas, kad Vytautas mokėjęs ir totorių kal­
+    bos, nes jo dvare totorių daug pasimaišydavo ir nuolat būdavo
+    kun. tarnyboj; o iš kun. kanceliarijos, kaip užsimena Ghillebert
+    de Lannoy, buvo siuntinėjami totorių kalba raštai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-119
+- c-125
+  santrauka: 'Istoriniai reikšmingas Vytauto veikimas prasideda Kęstu­ čio kovos metu su Jogaila.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Istoriniai reikšmingas Vytauto veikimas prasideda Kęstu­
+    čio kovos metu su Jogaila. Jis atsidūrė sunkioje būklėje: abu
+    buvo jam artimi — Kęstutis kaip tėvas, Jogaila kaip draugas
+    — pusbrolis. Jo veikime reiškėsi svyravimo: jis norėjo prie­
+    šus sutaikinti, tarpininkavo. Kovai paaštrėjus, jis palaiko dau­
+    giau tėvą. Bet jo veikime nežymu dar didelio veiklumo, savos
+    iniciatyvos jis nereiškė, pildė tik Kęstučio įsakymus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-120
+- c-126
+  santrauka: 'Vytautas, dukart iš Lietuvos pabėgęs, išbuvo apie ketve­ rius metus Prūsuose.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    ```
+    Vytautas, dukart iš Lietuvos pabėgęs, išbuvo apie ketve­
+    rius metus Prūsuose. Tenai, kryžiuočių tarpe, jis išėjo gerą ir
+    drausmingą gyvenimo mokyklą, kuri jam padėjo atsivaduoti
+    tėviškę. Ordino valstybė, gyvenusi keletą šimtų metų krikščio­
+    niškos Vakarų kultūros įtakoj, labai teigiamai galėjo atsiliepti
+    sumaniam Vytautui: jis čionai rado savo tikslams ne tik mate­
+    rialinės, bet ir dvasinės paramos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-121
 
 ## Ryšiai
 ### Susiję objektai
@@ -2247,3 +2945,355 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - [[objektai/vietos/Luckas]]
 - [[objektai/ivykiai/Tanenbergo mūšis 1410 m. liepos 15 d]]
 - [[objektai/ivykiai/Vytauto žygis į Ordino žemes (1377 m.)]]
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/ivykiai/1384 m. Žemaičių sąjunga su Ordinu ir Vytauto pasidavimas Ordinui]]
+- [[objektai/ivykiai/1387 m. vasaros žygis į Raudonąją Rusią]]
+- [[objektai/grupes/ATAS]]
+- [[objektai/vietos/Airiogala]]
+- [[objektai/vietos/Akmenų Brasta]]
+- [[objektai/asmenys/Aleksandras (Moldavijos valdovas)]]
+- [[objektai/asmenys/Andrius Vosylius Jastrzębiecas]]
+- [[objektai/daiktai/Apgulties mašinos]]
+- [[objektai/grupes/Auksinė Orda]]
+- [[objektai/vietos/Aukštutinė Dauguva]]
+- [[objektai/posakiai/Aš tave pasodinsiu Auksinėj Ordoj...]]
+- [[objektai/posakiai/Aš tave pasodinsiu saaro Kotlogo vietoj, o pats tada atsisėsiu Didžioj Maskvos kunigaikštijoje ir valdysiu visą Rusiją]]
+- [[objektai/asmenys/Barbora Cyleikaitė]]
+- [[objektai/paprociai/Bažnyčių ir dvasininkų atleidimas nuo mokesčių ir prievolių]]
+- [[objektai/ivykiai/Bendras karas su Vokiečių Ordinu, Melno taika ir Žemaičių sutvarkymas (1422 m.)]]
+- [[objektai/vietos/Bistrica]]
+- [[objektai/vietos/Brasta]]
+- [[objektai/vietos/Breslavas]]
+- [[objektai/vietos/Brodnica]]
+- [[objektai/vietos/Cholmas]]
+- [[objektai/asmenys/Danuta]]
+- [[objektai/vietos/Daugai]]
+- [[objektai/ivykiai/Derybos Salyne su Vokiečių ordinu]]
+- [[objektai/autoriai/Detmaro Liubeko]]
+- [[objektai/posakiai/Didelėj garbėj ir šlovėj gyveno garsus valdytojas Vytautas]]
+- [[objektai/posakiai/Didelėj garbėj ir šlovėj gyveno garsus valdytojas Vytautas ir jo tėvynė]]
+- [[objektai/vietos/Didysis Naugardas]]
+- [[objektai/grupes/Didžlenkiai]]
+- [[objektai/vietos/Dniepro žiotys]]
+- [[objektai/vietos/Dobrynė]]
+- [[objektai/vietos/Donas]]
+- [[objektai/vietos/Dorpatas]]
+- [[objektai/daiktai/Drabužiai]]
+- [[objektai/vietos/Dubysa]]
+- [[objektai/vietos/Dubysos sala]]
+- [[objektai/ivykiai/Dubysos salos derybos su Ordinu (1396 m.)]]
+- [[objektai/vietos/Dubysos upė]]
+- [[objektai/asmenys/Edyga]]
+- [[objektai/ivykiai/Gegužės trečiosios konstitucijos priėmimas]]
+- [[objektai/daiktai/Geležinėmis grandinėmis kaustyti vežimai]]
+- [[objektai/vietos/Grabova]]
+- [[objektai/vietos/Grabovė]]
+- [[objektai/vietos/Grajevas]]
+- [[objektai/daiktai/Halka]]
+- [[objektai/grupes/Husitai]]
+- [[objektai/ivykiai/Husitų karališko vainiko pasiūlymas Jogailai ir Vytautui bei Zigmanto Kaributo siuntimas į Čekiją]]
+- [[objektai/posakiai/Iki gyvos Vytauto ir Jogailos galvos]]
+- [[objektai/grupes/JAV lietuviai]]
+- [[objektai/vietos/Jedlno]]
+- [[objektai/ivykiai/Jogailos atvykimas į Krokuvą, krikštas, vestuvės ir karūnacija Lenkijos karalium (1386 m. vasaris–kovas)]]
+- [[objektai/ivykiai/Jogailos ir Vytauto susitaikinimas]]
+- [[objektai/asmenys/Jonas Paleologas]]
+- [[objektai/vietos/Jotvingija]]
+- [[objektai/asmenys/Julijona (Vytauto žmona)]]
+- [[objektai/vietos/Juodmarių pakraštys]]
+- [[objektai/asmenys/Jurgis Sviatoslavaitis]]
+- [[objektai/posakiai/Jūs abu esate mūsų viešpačiai]]
+- [[objektai/posakiai/Jūs abudu esate mūsų valdovai]]
+- [[objektai/posakiai/Kad tik be arklio nebūtų]]
+- [[objektai/vietos/Kaffa]]
+- [[objektai/grupes/Kalavijuočių ordinas]]
+- [[objektai/vietos/Kaltinėnai]]
+- [[objektai/vietos/Kaluga]]
+- [[objektai/grupes/Karaimai]]
+- [[objektai/grupes/Karo partija]]
+- [[objektai/daiktai/Karūna]]
+- [[objektai/vietos/Kauno sala]]
+- [[objektai/ivykiai/Kauno susitarimas su Vokiečių ordinu (1402 m.)]]
+- [[objektai/vietos/Kelmė]]
+- [[objektai/vietos/Kiauneliškiai]]
+- [[objektai/posakiai/Kiedy tak, užyję ja innych środków do dopięcia celu]]
+- [[objektai/autoriai/Kliausis, lg]]
+- [[objektai/vietos/Knituva]]
+- [[objektai/vietos/Kolomna]]
+- [[objektai/vietos/Konstancija]]
+- [[objektai/vietos/Konstantinopolis]]
+- [[objektai/paprociai/Kreipimasis į Vytautą svarbiausiais reikalais]]
+- [[objektai/vietos/Kremencas]]
+- [[objektai/vietos/Kremenecas]]
+- [[objektai/daiktai/Kristaus Kančios relikvija]]
+- [[objektai/vietos/Krokuva]]
+- [[objektai/vietos/Krymas]]
+- [[objektai/vietos/Kulautuva]]
+- [[objektai/vietos/Kėzmarkas]]
+- [[objektai/ivykiai/Kėzmarko pasitarimai su Zigmantu dėl karūnos]]
+- [[objektai/vietos/Kęstučio dvaras]]
+- [[objektai/ivykiai/Kęstučio ir Jogailos kariuomenių derybos prie Trakų (1382 m. rugpjūčio 3 d.)]]
+- [[objektai/ivykiai/Kęstučio ir Vytauto suėmimas bei Kęstučio mirtis Kriave (1382 m. rugpjūčio 15 d.)]]
+- [[objektai/paprociai/LDK daugiakonfesiškumo juridinis įforminimas ir religinė tolerancija]]
+- [[objektai/paprociai/LDK rusų žemių duoklės mokėjimas Aukso ordai]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lenkų bajorai]]
+- [[objektai/vietos/Lenčica]]
+- [[objektai/ivykiai/Lenčicos audiencija dėl Vytauto karūnacijos (1429 m. birželis 18–21 d.)]]
+- [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]
+- [[objektai/ivykiai/Lietuvos ir Baltarusijos geros kaimynystės deklaracijos ir sutarties pasirašymas]]
+- [[objektai/ivykiai/Lietuvos krikštas]]
+- [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos]]
+- [[objektai/grupes/Lietuvos žaliųjų judėjimas]]
+- [[objektai/vietos/Liubekas]]
+- [[objektai/vietos/Liubutskas]]
+- [[objektai/grupes/Livonijos ordinas]]
+- [[objektai/ivykiai/Livonijos ordino 10 metų sutarties su Pskovu sudarymas]]
+- [[objektai/ivykiai/Livonijos ordino amžinos taikos su Naugardu D. sudarymas (1421 m.)]]
+- [[objektai/vietos/Luokė]]
+- [[objektai/ivykiai/Magdeburgo teisių suteikimas Lietuvos miestams]]
+- [[objektai/zodynas/Magdeburgo teisės]]
+- [[objektai/zodynas/Mahometoniškas tikėjimas]]
+- [[objektai/vietos/Malburgas]]
+- [[objektai/asmenys/Maldžykas]]
+- [[objektai/daiktai/Malūnas]]
+- [[objektai/asmenys/Manuelis]]
+- [[objektai/asmenys/Marija (pirmoji Vytauto žmona)]]
+- [[objektai/asmenys/Markvardas (Ragainės komtūras)]]
+- [[objektai/ivykiai/Martyno V įsakymas atšaukti Kaributą (1422 m. lapkričio mėn.)]]
+- [[objektai/grupes/Maskvos kunigaikštija]]
+- [[objektai/grupes/Maskvos kunigaikštystė]]
+- [[objektai/vietos/Maskvos žemės]]
+- [[objektai/vietos/Mcenskas]]
+- [[objektai/vietos/Medingėnai]]
+- [[objektai/grupes/Miestelėnų luomas]]
+- [[objektai/vietos/Minaičių kaimas]]
+- [[objektai/asmenys/Muradas II]]
+- [[objektai/posakiai/Mūsų kraštą pavergti]]
+- [[objektai/ivykiai/Naugarduko susirinkimas (1415 m.)]]
+- [[objektai/vietos/Naujasis Gardinas]]
+- [[objektai/vietos/Naujasis Kvidzinas]]
+- [[objektai/posakiai/Ne bičiulystės, o teisybės]]
+- [[objektai/vietos/Neries sritis]]
+- [[objektai/vietos/Novosielskas]]
+- [[objektai/vietos/Novosielsko]]
+- [[objektai/grupes/Okos aukštupio kunigaikščiai]]
+- [[objektai/asmenys/Ona Vytautienė]]
+- [[objektai/vietos/Padnieprė]]
+- [[objektai/daiktai/Palapinės]]
+- [[objektai/grupes/Pamario kunigaikščių sąjunga]]
+- [[objektai/paprociai/Pavaldumo demonstravimas derybose per pinigų ženklinimą ir dovanas]]
+- [[objektai/vietos/Pavolgis]]
+- [[objektai/vietos/Peremišlis]]
+- [[objektai/vietos/Pietų Lietuva]]
+- [[objektai/grupes/Pietų Lietuvos (Nemuno) sritis]]
+- [[objektai/grupes/Pietų Lietuvos sritis]]
+- [[objektai/posakiai/Piktuoju iš manęs dar niekas nieko nelaimėjo]]
+- [[objektai/daiktai/Pirmosios katedros didysis altoriaus kryžius]]
+- [[objektai/grupes/Podoliečiai]]
+- [[objektai/vietos/Podolija]]
+- [[objektai/vietos/Podolė]]
+- [[objektai/vietos/Pomeranija]]
+- [[objektai/vietos/Porchovas]]
+- [[objektai/grupes/Prisikėlimo apygarda]]
+- [[objektai/vietos/Pronskas]]
+- [[objektai/grupes/Pskovo respublika]]
+- [[objektai/ivykiai/Racionžo taika (1404 m.)]]
+- [[objektai/vietos/Riazanė]]
+- [[objektai/vietos/Riazanės kunigaikštystė]]
+- [[objektai/vietos/Rittersverderis]]
+- [[objektai/vietos/Rostokas]]
+- [[objektai/vietos/Rudamina]]
+- [[objektai/vietos/Salaspilis]]
+- [[objektai/vietos/Salynas]]
+- [[objektai/vietos/Salyne]]
+- [[objektai/vietos/Salyno sala]]
+- [[objektai/ivykiai/Salyno sutartis]]
+- [[objektai/ivykiai/Smolensko užėmimas (1395 m. rugsėjo 28 d.)]]
+- [[objektai/ivykiai/Smolensko užėmimas (1405 m.)]]
+- [[objektai/ivykiai/Smolensko užėmimas ir Viazmos paėmimas (1396 m. rudenį)]]
+- [[objektai/asmenys/Spytekas iš Melštyno]]
+- [[objektai/vietos/Stožkas]]
+- [[objektai/vietos/Stralsundas]]
+- [[objektai/ivykiai/Sutartis su Fridriku Brandenburgiečiu ir Jadvygos sužieduotuvės (1420–1421 m.)]]
+- [[objektai/vietos/Sūdavija]]
+- [[objektai/vietos/Sūduva]]
+- [[objektai/grupes/Taikos partija]]
+- [[objektai/vietos/Tavanė]]
+- [[objektai/asmenys/Teodoras (Karijoto sūnus)]]
+- [[objektai/asmenys/Teodoras (Liubarto sūnus)]]
+- [[objektai/asmenys/Timūr-Kutlukas]]
+- [[objektai/asmenys/Tochtamišas]]
+- [[objektai/posakiai/Todėl ir reikia kariauti, nes jeigu nugalėsim, gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės apie mus, kad mus nugalėjo du]]
+- [[objektai/grupes/Totorių pajėgos]]
+- [[objektai/vietos/Točilovo ežerai]]
+- [[objektai/vietos/Točilovo ežeras]]
+- [[objektai/vietos/Trakų pilis]]
+- [[objektai/vietos/Trakų vaivadija]]
+- [[objektai/posakiai/Trojos gudrumu]]
+- [[objektai/vietos/Tyniec]]
+- [[objektai/vietos/Ukra]]
+- [[objektai/vietos/Uždauguvis]]
+- [[objektai/vietos/Užpelkiai]]
+- [[objektai/ivykiai/Užpelkių kautynės]]
+- [[objektai/ivykiai/Užpelkių kautynės (1949 m.)]]
+- [[objektai/asmenys/Vaclovas Čekietis]]
+- [[objektai/asmenys/Vaitiekus Jastrzembiec]]
+- [[objektai/vietos/Vakarų Lietuva]]
+- [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis]]
+- [[objektai/grupes/Valachai]]
+- [[objektai/vietos/Veliuonos pilis]]
+- [[objektai/grupes/Vengrai]]
+- [[objektai/vietos/Viazma]]
+- [[objektai/vietos/Viduklė]]
+- [[objektai/ivykiai/Vilniaus apgultis ir mūšiai prie Rudaminos (1394 m. vasara)]]
+- [[objektai/ivykiai/Vilniaus užėmimas ir Vytauto bandymas jį atsiimti (1382 m. birželio 12 d.)]]
+- [[objektai/ivykiai/Vilniečių sąmokslas ir Jogailos įsitvirtinimas Vilniuje bei Trakuose]]
+- [[objektai/posakiai/Viskas yra viena, viena žemė ir tie patys žmonės]]
+- [[objektai/ivykiai/Vitebsko užėmimas (1392 m.)]]
+- [[objektai/grupes/Vokiečių ordinas]]
+- [[objektai/vietos/Volynija]]
+- [[objektai/vietos/Vorotinskas]]
+- [[objektai/ivykiai/Vorsklos katastrofa]]
+- [[objektai/ivykiai/Vorsklos mūšis]]
+- [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]
+- [[objektai/vietos/Vorsklos upė]]
+- [[objektai/asmenys/Vosylius I]]
+- [[objektai/vietos/Vroclavas]]
+- [[objektai/asmenys/Vygandas von Baldersheimas]]
+- [[objektai/posakiai/Vytautas bijojo, kad bus numestas nuo sosto]]
+- [[objektai/posakiai/Vytautas negali sustoti, pasakyti — gana galybės]]
+- [[objektai/ivykiai/Vytauto Reivyčio įsakymas sulaikyti visus žydus ir getų sudarymas (1941 m. rugpjūčio 16 d.)]]
+- [[objektai/paprociai/Vytauto bažnyčių statymas ir vienuolynų steigimas]]
+- [[objektai/ivykiai/Vytauto dalinių kunigaikštijų sistemos naikinimas]]
+- [[objektai/paprociai/Vytauto donacijos Medininkų vyskupijai ir bažnyčioms]]
+- [[objektai/paprociai/Vytauto ir Jogailos bendro veikimo praktika po Astravo taikos]]
+- [[objektai/ivykiai/Vytauto mirtis (1430 m. spalio 27 d.)]]
+- [[objektai/ivykiai/Vytauto paliaubos ir taikos derybos su Livonijos ordinu (1410 m. vasara)]]
+- [[objektai/ivykiai/Vytauto persikėlimas pas Ordiną (1382 m. pabaiga)]]
+- [[objektai/posakiai/Vytauto politika lyg koks didelis tinklas jis jo akis tai suveda, tai paleidžia, tai naujai sumezga]]
+- [[objektai/ivykiai/Vytauto skundas Ordinui imperijos kunigaikščiams (1401 m.)]]
+- [[objektai/ivykiai/Vytauto sprendimas pripažinti Maskvos Focijų Kijevo metropolitu (1421 m.)]]
+- [[objektai/ivykiai/Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas]]
+- [[objektai/paprociai/Vytauto tarpininkavimas ginčuose laiškais ir dovanomis]]
+- [[objektai/daiktai/Vytauto ženklas]]
+- [[objektai/ivykiai/Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.)]]
+- [[objektai/ivykiai/Vytauto žygis į Maskvos apylinkes ir Vosyliaus II globos prisiėmimas (1427 m.)]]
+- [[objektai/ivykiai/Vytauto žygis į Medininkus (1392 m. gegužės 20 d.)]]
+- [[objektai/ivykiai/Vytauto žygis į Naugardą (1428 m. vasara)]]
+- [[objektai/ivykiai/Vytauto žygis į Pskovą ir Pskovo taika (1426 m.)]]
+- [[objektai/daiktai/Vėliavos]]
+- [[objektai/asmenys/Zbignievas Olesnickis]]
+- [[objektai/asmenys/Zigmantas Liuksemburgietis]]
+- [[objektai/vietos/Zna]]
+- [[objektai/asmenys/Zofija Algimantaitė]]
+- [[objektai/vietos/Zvenigorodas]]
+- [[objektai/zodynas/avantiūristas]]
+- [[objektai/posakiai/aš tave pasodinsiu Auksinėj Ordoj, o tu mane — Maskvos soste]]
+- [[objektai/zodynas/bažnytinė provincija]]
+- [[objektai/posakiai/caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats]]
+- [[objektai/zodynas/chanas]]
+- [[objektai/zodynas/diplomatija]]
+- [[objektai/zodynas/dominija]]
+- [[objektai/posakiai/du priešai, šaltis ir totoriai]]
+- [[objektai/posakiai/dux Russiae]]
+- [[objektai/zodynas/ekskomunika]]
+- [[objektai/zodynas/emyras]]
+- [[objektai/posakiai/galia parėjo ne nuo pergamento, kuriame buvo surašytas jos tekstas, bet nuo faktiškųjų jėgų santykiavimo ir nuo diplomatinių sugebėjimų]]
+- [[objektai/posakiai/galingi gyvenimo faktai toliau už jas nužengia arba jas padaro be vertės, tylinčiais popieriais]]
+- [[objektai/posakiai/gerumu galima ir laukinius žvėris sušvelninti|gerumu galima ir laukinius žvėris sušvelninti.]]
+- [[objektai/zodynas/grašis]]
+- [[objektai/zodynas/gurguolė]]
+- [[objektai/posakiai/in odium Sigismundi]]
+- [[objektai/zodynas/indulgencija]]
+- [[objektai/posakiai/jam patinkąs mažiau iškalbingas, bet užtatai tiesakalbis.]]
+- [[objektai/posakiai/jam patinkąs mažiau iškalbingas, bet užtatai tiesakalbis|jam patinkąs mažiau iškalbingas, bet užtatai tiesakalbis.]]
+- [[objektai/posakiai/juo didesnis žmogus, juo didesnes ir klaidas gali padaryti]]
+- [[objektai/zodynas/karo taryba]]
+- [[objektai/posakiai/karūna su karūna negali būti sujungta — inkorporuota]]
+- [[objektai/zodynas/kondominiumas]]
+- [[objektai/zodynas/kultūrinimas]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/zodynas/lenkinti]]
+- [[objektai/posakiai/lenkų ponus „užglostyti”]]
+- [[objektai/autoriai/lg. Kliausis]]
+- [[objektai/zodynas/lėnininkai]]
+- [[objektai/posakiai/mokslo laikas]]
+- [[objektai/posakiai/ne koks „Storasta“ ar Jogailos vietininkas, bet faktiškasis Lietuvos valdytojas]]
+- [[objektai/zodynas/nukirsdinti]]
+- [[objektai/zodynas/nuomininkas]]
+- [[objektai/zodynas/pravoslavai]]
+- [[objektai/zodynas/protežė]]
+- [[objektai/zodynas/rezervai]]
+- [[objektai/posakiai/savo „karaliaus Vytauto”]]
+- [[objektai/zodynas/superarbitras]]
+- [[objektai/zodynas/suverenas]]
+- [[objektai/posakiai/vardan tos Lietuvos]]
+- [[objektai/zodynas/vasalystė]]
+- [[objektai/posakiai/vienintelis kelias, kuriuo galima atvesti husitus atgal į katalikų Bažnyčią]]
+- [[objektai/zodynas/vietininkas]]
+- [[objektai/zodynas/vikariatas]]
+- [[objektai/posakiai/wieszczym duchem]]
+- [[objektai/vietos/Čekija]]
+- [[objektai/zodynas/činšas]]
+- [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija]]
+- [[objektai/zodynas/įkaitai]]
+- [[objektai/daiktai/Šv. Vaclovo karūna]]
+- [[objektai/ivykiai/Šv. Vaclovo karūnos pasiūlymas Jogailai ir Vytauto sutikimas priimti čekų karūną (1420–1421 m.)]]
+- [[objektai/ivykiai/Žemaičių delegacijos ir memorialo įteikimas Konstancijos sinodui (1415 m. gruodžio 15 d.)]]
+- [[objektai/ivykiai/Žemaičių krikštas]]
+- [[objektai/vietos/Žemaičių seniūnija]]
+- [[objektai/ivykiai/Žemaičių vyskupijos įkūrimas (1417 m. spalio 24 d.)]]
+- [[objektai/vietos/Žvėryno tiltas]]
+- [[objektai/posakiai/„Didžiuoju“]]
+- [[objektai/posakiai/„Jūs norite man išplėšti tėvų palikimą...“]]
+- [[objektai/posakiai/„Koks didelis Tu ir kokia didelė Tavo tėvynė.“]]
+- [[objektai/posakiai/„Todėl ir reikia kariauti... šaltis ir totoriai.“]]
+- [[objektai/posakiai/„Vytautas negali sustoti, pasakyti — gana galybės.“]]
+- [[objektai/posakiai/„caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats“]]
+- [[objektai/posakiai/„gerumu galima ir laukinius žvėris sušvelninti.“]]
+- [[objektai/posakiai/„iki gyvos galvos“]]
+- [[objektai/posakiai/„jam patinkąs mažiau iškalbingas, bet užtatai tiesakalbis.“]]
+- [[objektai/ivykiai/1401 m. Vytauto pasižadėjimai Lenkijai]]
+- [[objektai/ivykiai/Atskiros Lietuvos didžiojo kunigaikščio valdžios projektas ir jo žlugimas]]
+- [[objektai/ivykiai/Bandymas įsiveržti į parlamentą (1991 m. sausio 8 d.)]]
+- [[objektai/daiktai/Bombardos]]
+- [[objektai/ivykiai/Dovydiškių slapta sutartis (1380 m.)]]
+- [[objektai/ivykiai/Dovydiškių sutarties sudarymas]]
+- [[objektai/vietos/Insterburgas]]
+- [[objektai/vietos/Kezmarkas]]
+- [[objektai/zodynas/Machtmensch]]
+- [[objektai/posakiai/Mirė tikrai mūsų tautos garbė|Mirė tikrai mūsų tautos garbė.]]
+- [[objektai/vietos/Naugardėlis]]
+- [[objektai/posakiai/Ne ko nors klausyti, bet valdyti jis buvo gimęs|Ne ko nors klausyti, bet valdyti jis buvo gimęs.]]
+- [[objektai/vietos/Ovručas]]
+- [[objektai/ivykiai/Rittersverderio, Naujojo Gardino ir Metenos sunaikinimas (1392 m. liepa)]]
+- [[objektai/vietos/Ritterswerderis]]
+- [[objektai/ivykiai/Rūdavos mūšis]]
+- [[objektai/vietos/Senvarniai]]
+- [[objektai/posakiai/Taip pat protestuoju prieš neteisybę, kuri mums būtų padaryta]]
+- [[objektai/vietos/Tamova]]
+- [[objektai/posakiai/Tikslas pateisino priemones|Tikslas pateisino priemones.]]
+- [[objektai/vietos/Varniai]]
+- [[objektai/zodynas/apsikarūnavimas]]
+- [[objektai/zodynas/dalinių kunigaikštijų sistema vietininkai]]
+- [[objektai/zodynas/karūnacija karūnuotis]]
+- [[objektai/zodynas/kaštelionas]]
+- [[objektai/zodynas/komtūras]]
+- [[objektai/posakiai/ne tik tavo galvą, bet ir tavo tėvynę Lietuvą]]
+- [[objektai/posakiai/prieš vėją nepapūs]]
+- [[objektai/zodynas/saar]]
+- [[objektai/zodynas/savarankiškumas]]
+- [[objektai/zodynas/seniūnas]]
+- [[objektai/zodynas/seniūnas storasta]]
+- [[objektai/zodynas/separatizmas]]
+- [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/posakiai/tvirta, net plieninė ranka, didelis protas]]
+- [[objektai/zodynas/tėviškė]]
+- [[objektai/paprociai/Švč. Mergelės Marijos garbinimo tradicija Vytauto bažnytinėje politikoje]]
+- [[objektai/zodynas/šlėkta]]
+- [[objektai/posakiai/„Daina mums padėjo, padėjo šimtmečiais... Nekreipkime dėmesio į tuos šaudymus, dainuokime!“]]

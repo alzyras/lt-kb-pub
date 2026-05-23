@@ -47,8 +47,30 @@ tags: []
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-009
+  teiginys: 'Lietuvos siekis būti integralia Vidurio Europos dalimi lėmė solidžią ir originalią karinės inžinerijos mokyklą, kurios reikšmingiausiu darbu tapo Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“ („Didysis artilerijos menas“) (1650).'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Lietuvos siekis būti integralia Vidurio Europos dalimi lėmė solidžią ir originalią karinės inžinerijos mokyklą, kurios reikšmingiausiu darbu tapo Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“ („Didysis artilerijos menas“) (1650).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuvos siekis būti integralia Vidurio Europos dalimi lėmė
+    solidžią ir originalią karinės inžinerijos mokyklą, kurios reikšmingiausiu
+    darbu tapo Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“
+    („Didysis artilerijos menas“) (1650). Jame randame šiuolaikinės artilerijos
+    ir net kosmonautikos ištakas – veikale išdėstyta daugiapakopių raketų te-
+    orija.
+    XVII–XVIII a.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Bibliografiniai įrodymai
 - c-001

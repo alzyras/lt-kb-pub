@@ -67,4 +67,8 @@ Martyno Smigleckio „Logika“ datuojama 1618 m.; šaltinis ją pateikia kaip V
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Anglija]]
+- [[objektai/vietos/Europa]]
 - [[objektai/vietos/Oksfordas]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/paprociai/Jėzuitiškas mokymas ir katalikybės sklaida per Vilniaus universitetą]]

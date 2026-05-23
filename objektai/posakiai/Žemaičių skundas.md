@@ -53,3 +53,8 @@ Jau 1407 m. Žemaičiai vakarų krikščionims patiektame savo memoriale, kuris 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Konstanca]]
+- [[objektai/grupes/Žemaičiai]]

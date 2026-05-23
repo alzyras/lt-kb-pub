@@ -28,7 +28,7 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: '(”) Vilniaus pradžia, Karys, 1973, nr.'
+  teiginys: 'P. Būtėno „Vilniaus pradžia“ paskelbta žurnalo „Karys“ 1973 m. 10 numeryje, p. 342-344.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -38,7 +38,7 @@ tags:
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: '(”) Vilniaus pradžia, Karys, 1973, nr.'
+  santrauka: 'P. Būtėno „Vilniaus pradžia“ paskelbta žurnalo „Karys“ 1973 m. 10 numeryje, p. 342-344.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Adamus, J. : _O tytule panującego i paóstwa litewskiego,_ KH, t. 49,

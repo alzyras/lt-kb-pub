@@ -106,3 +106,10 @@ K. Duonelaitis šiame šaltinyje minimas kaip poetas, autorius; jam priskiriami 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Rašliava]]
+- [[objektai/zodynas/germanizacija]]

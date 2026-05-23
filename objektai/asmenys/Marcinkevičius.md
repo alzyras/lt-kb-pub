@@ -45,3 +45,9 @@ Marcinkevičių ir dar vieną rusą karininką.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bolševikai]]
+- [[objektai/grupes/NKGB]]
+- [[objektai/vietos/Viena]]

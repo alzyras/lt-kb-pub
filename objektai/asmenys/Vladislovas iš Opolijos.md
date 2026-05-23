@@ -55,3 +55,11 @@ Kandidatu į jaunos ir gražios Jadvygos vyrus buvo be jau minėto Vilhelmo, dar
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Austrija]]
+- [[objektai/vietos/Gniezno]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/asmenys/Vladislovas]]

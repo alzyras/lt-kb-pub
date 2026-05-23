@@ -7,15 +7,19 @@ variantai:
 aliases: []
 saltiniai:
   - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-laikotarpis: "apie 1750 m."
 datos:
-  - "apie 1750 m."
-periodas: ""
-periodo_grupes: []
+  - '1750 m.'
+  - '1818 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+  - 'naujieji laikai'
 amziai:
-  - "XVIII"
-date_start: "1750"
-date_end: "1750"
+  - 'XVIII'
+  - 'XIX'
+date_start: '1750'
+date_end: '1818'
+laikotarpis: "apie 1750 m."
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
@@ -59,8 +63,47 @@ tags: []
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-013
+  teiginys: 'Mažojoje Lietuvoje iškilo ir pirmasis reikšmingas lietuvių lietuviakalbės literatūros kūrinys – Kristijono Donelaičio poema „Metai“ (apie 1750).'
+  pagrindžia:
+    - c-003
+- t-014
+  teiginys: 'Įspūdį padarė 1818 m. Karaliaučiuje žymaus mokslininko Liudviko Rėzos išleista prieš kelis dešimtmečius mirusio Mažosios Lietuvos pastoriaus lietuvio Kristijono Donelaičio parašyta poe­ma „Metai“ (su vertimu į vokiečių kalbą).'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
+- c-003
+  santrauka: 'Mažojoje Lietuvoje iškilo ir pirmasis reikšmingas lietuvių lietuviakalbės literatūros kūrinys – Kristijono Donelaičio poema „Metai“ (apie 1750).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Paradoksas – svetima valstybė, o lietuviškos raštijos kur
+    kas daugiau nei pačioje Lietuvoje. Mažojoje Lietuvoje iškilo ir pirmasis
+    reikšmingas lietuvių lietuviakalbės literatūros kūrinys – Kristijono Done-
+    laičio poema „Metai“ (apie 1750). Nors XVIII a.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+- c-004
+  santrauka: 'Įspūdį padarė 1818 m. Karaliaučiuje žymaus mokslininko Liudviko Rėzos išleista prieš kelis dešimtmečius mirusio Mažosios Lietuvos pastoriaus lietuvio Kristijono Donelaičio parašyta poe­ma „Metai“ (su vertimu į vokiečių kalbą).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Įspūdį padarė 1818 m. Karaliaučiuje žymaus
+    mokslininko Liudviko Rėzos išleista prieš kelis dešimtmečius mirusio
+    Mažosios Lietuvos pastoriaus lietuvio Kristijono Donelaičio parašyta
+    poe­ma „Metai“ (su vertimu į vokiečių kalbą). Jau tuomet pripažinta, kad
+    tai yra aukštos meninės prabos, visuotinę vertę turintis kūrinys.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
 
 ## Bibliografiniai įrodymai
 - c-001

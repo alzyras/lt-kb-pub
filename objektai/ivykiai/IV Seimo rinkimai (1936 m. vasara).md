@@ -79,4 +79,3 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/IV Seimas]]
-- [[objektai/grupes/Lietuvių tautininkų sąjunga]]

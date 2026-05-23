@@ -61,3 +61,7 @@ Formulė pateikiama kaip Ordino propagandinis teiginys, menkinantis Lietuvos kri
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]

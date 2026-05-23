@@ -55,4 +55,11 @@ Nuo Mindaugo laiku iki XV amž. buvo išlikusi bendra rusų metraščių žymė:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/vietos/Jeruzalė]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/posakiai/Lietuvoje pradėjo valdyti pašėlęs (okajauyj), nedorovingas, prakeiktas ir negailestingas Traidenis]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Traidenis]]
 - [[objektai/zodynas/lietopisis]]

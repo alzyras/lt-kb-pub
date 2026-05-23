@@ -48,3 +48,10 @@ Padaręs sąjungą su Aleksandru Nevskiu (Didž. Naugarde)^183 , drauge su Treni
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/vietos/Naugardas]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/vietos/Livonija]]

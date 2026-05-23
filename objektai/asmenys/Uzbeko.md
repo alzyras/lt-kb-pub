@@ -57,3 +57,12 @@ Privengdamas totorių chano Uzbeko, Teodoras tačiau negalėjo palaikyti glaudes
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/pinigai]]
+
+### Susiję objektai
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/vietos/Kijevas]]
+- [[objektai/asmenys/Teodoras]]
+- [[objektai/zodynas/chanas]]
+- [[objektai/zodynas/ekspansija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Teodoras (Gedimino brolis)]]

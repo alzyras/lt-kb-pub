@@ -61,3 +61,8 @@ Plateris : Janulaitis mokslininkas , LE 9 t., 293 p. 62 ĮVADAS Bažnyčios isto
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]

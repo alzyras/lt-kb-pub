@@ -50,3 +50,9 @@ Kiolerio vadovaujama kolona turėjo pulti bolševikus palei plentą Leliūnai-Ut
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Artilerija]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Viena]]

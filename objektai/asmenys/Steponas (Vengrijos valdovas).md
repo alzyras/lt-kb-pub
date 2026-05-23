@@ -67,5 +67,13 @@ Paminėkime tokią grandinę: Lenkijos valdovo Mieško krikštas (966), Kijevo R
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Islandija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Norvegija]]
+- [[objektai/vietos/Prūsija]]
+- [[objektai/vietos/Vengrija]]
+- [[objektai/zodynas/apsikarūnavimas]]
+- [[objektai/zodynas/christianizacija]]
+- [[objektai/vietos/Švedija]]
 - [[objektai/zodynas/konversija christianizacija europeizacija]]
 - [[objektai/posakiai/„švento valdovo“ įvaizdis]]

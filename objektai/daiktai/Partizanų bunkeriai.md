@@ -103,3 +103,14 @@ Nenurodyta
     - t-006
 
 ## Šaltiniai ir įrodymai
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Algimanto apygarda]]
+- [[objektai/vietos/Denionių ežeras]]
+- [[objektai/vietos/Juodelių sodyba]]
+- [[objektai/vietos/Pamaleišio kaimas]]
+- [[objektai/grupes/Šarūno rinktinė]]
+- [[objektai/vietos/Šimonių giria]]
+- [[objektai/ivykiai/Šimonių girios apgultis]]
+- [[objektai/ivykiai/Šimonių girios apgultis (1949 m.)]]

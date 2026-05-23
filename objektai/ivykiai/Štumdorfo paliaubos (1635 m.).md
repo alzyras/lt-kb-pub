@@ -61,3 +61,10 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/paliaubos]]
+
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/grupes/Lenkų bajorija]]
+- [[objektai/vietos/Prūsija]]
+- [[objektai/grupes/Švedai]]

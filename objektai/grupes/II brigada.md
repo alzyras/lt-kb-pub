@@ -89,3 +89,12 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Artilerija]]
+- [[objektai/vietos/Daugpilis]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Užpaliai]]
+- [[objektai/vietos/Dauguva]]

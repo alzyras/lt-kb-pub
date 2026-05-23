@@ -47,3 +47,13 @@ Apygardos viršininku — kuratorium buvo paskirtas caro Aleksandro jaunystės d
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Kijevas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Podolė]]
+- [[objektai/vietos/Viena]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/autoriai/Jonas Juškevičius]]
+- [[objektai/autoriai/K. Kantrimas]]

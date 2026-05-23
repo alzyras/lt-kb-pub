@@ -80,4 +80,9 @@ Gardine išleista privilegija nurodė statyti a i miesto gynybinę mūro sieną 
 - [[temos/privilegija]]
 
 ### Susiję objektai
+- [[objektai/vietos/Gardinas]]
+- [[objektai/vietos/Palanga]]
+- [[objektai/vietos/Prūsija]]
 - [[objektai/vietos/Varmė]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/vietos/Lenkija]]

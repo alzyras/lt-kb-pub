@@ -85,3 +85,14 @@ Bet dar Minske jį sutiko duktė Sofija, Maskvos kunigaikštienė su nepilnameč
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/didikas]]
+
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/vietos/Odojevas]]
+- [[objektai/vietos/Pskovas]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/asmenys/Sofija (Vytauto duktė)]]
+- [[objektai/zodynas/chanas]]
+- [[objektai/asmenys/Vosylius]]
+- [[objektai/zodynas/kunigaikštija]]

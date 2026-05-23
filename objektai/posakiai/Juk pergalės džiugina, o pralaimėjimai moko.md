@@ -82,3 +82,7 @@ Jausdami pareigą pakelti tautiečių ūpą ir daugiausiai dėmesio skirdami per
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]

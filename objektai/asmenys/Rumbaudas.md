@@ -38,6 +38,10 @@ Lenkijos maršalkos Bartušo ir 6) Zavišos Juodojo (rašte minimas dar Lietuvos
   teiginys: 'Kai sužinojo, kad kryžiuočių pasiuntinys, Tomo komtūras, atvyko pas Jogailą į Lenčicą, pa­ siuntė ten ir Vytautas savo delegatus: Vilniaus vaivadą (palati­ num) Gedgaudą (Gedigoldum) ir maršalką Rumbaudą (Rum­ poldum).'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Jo pareigū­ nas Rumbaudas ir dar keli kiti bajorai (Galminas, Getautas, Klau­ sigaila, Vasibutas) persikėlė per Nevėžį ir nuo Surviliškio — Kreke­ navos pradėjo užimti sukilusį kraštą.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -75,3 +79,27 @@ Lenkijos maršalkos Bartušo ir 6) Zavišos Juodojo (rašte minimas dar Lietuvos
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Jo pareigū­ nas Rumbaudas ir dar keli kiti bajorai (Galminas, Getautas, Klau­ sigaila, Vasibutas) persikėlė per Nevėžį ir nuo Surviliškio — Kreke­ navos pradėjo užimti sukilusį kraštą.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Jo pareigū­
+    nas Rumbaudas ir dar keli kiti bajorai (Galminas, Getautas, Klau­
+    sigaila, Vasibutas) persikėlė per Nevėžį ir nuo Surviliškio — Kreke­
+    navos pradėjo užimti sukilusį kraštą. Įdomu tai, kad Raseinių
+    bajoras « Clawssegail » 1390 Karaliaučiuje su kitais Žemaičių kilmin­
+    gaisiais buvo pažadėjęs remti į ordiną pabėgusį Vytautą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Nevėžis]]
+- [[objektai/grupes/Žemaičiai]]

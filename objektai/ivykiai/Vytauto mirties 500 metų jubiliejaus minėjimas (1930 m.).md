@@ -80,4 +80,8 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Vytauto Didžiojo karo muziejus]]
 - [[objektai/paprociai/Vytauto Didžiojo kulto kūrimo ir jubiliejinių apeigų praktika]]
+- [[objektai/daiktai/Vytauto paminklai]]

@@ -45,6 +45,22 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   teiginys: 'Nors ir smarkiai kryžiuočiai buvo perse­ kiojami, vis dėlto jie nuėjo ligi Papartėnų (netoli Kernavės).'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Iki šiol labiausiai paplitusi versija buvo Lietuvos vardą kildinti iš nedidelio upelio Lietaukos, įtekančio į Nerį netoli Kernavės, vardo.'
+  pagrindžia:
+    - c-004
+- t-005
+  teiginys: 'Paszkiewicz tad Mindaugo sostine laikė, jeigu jis iš viso pastovią sostinę bus turėjęs, Kernavę (dešiniajame Neries krante)^17.'
+  pagrindžia:
+    - c-005
+- t-006
+  teiginys: 'XVI amž. plačioji Lietuvos metraščio redakcija mini įkūrimą išgarsėjusios Trakų pilies, 5 mylios atstu nuo Kernavės, toje girios vietoje, kur Gediminas primedžiojęs daug žvėrienos.'
+  pagrindžia:
+    - c-006
+- t-007
+  teiginys: 'Kai kurie mokslininkai spėjo, kad Mindaugo pilis galėjo būti Liškiavoje arba Kernavėje.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -96,3 +112,77 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Iki šiol labiausiai paplitusi versija buvo Lietuvos vardą kildinti iš nedidelio upelio Lietaukos, įtekančio į Nerį netoli Kernavės, vardo.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Iki šiol labiausiai paplitusi versija buvo
+    Lietuvos vardą kildinti iš nedidelio upelio Lietaukos, įtekančio į Nerį ne-
+    toli Kernavės, vardo. Tradiciškai manoma, kad Lietuvos valstybės bran-
+    duolys – Lietuvos žemė siaurąja prasme ankstyvaisiais istoriniais laikais
+    buvo tarp Nemuno ir Neries upių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: 'Paszkiewicz tad Mindaugo sostine laikė, jeigu jis iš viso pastovią sostinę bus turėjęs, Kernavę (dešiniajame Neries krante)^17.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Yra paaiškėję, kad pradinė
+    Mindaugo « Lietuva » ir jo valdomos tėviškės pilys tebus apėmusios
+    plotą tarp Nemuno, Neries ir Merkio, t.y. pietvakarių Aukštaičių
+    sritį. H. Paszkiewicz tad Mindaugo sostine laikė, jeigu jis iš viso
+    pastovią sostinę bus turėjęs, Kernavę (dešiniajame Neries krante)^17.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: 'XVI amž. plačioji Lietuvos metraščio redakcija mini įkūrimą išgarsėjusios Trakų pilies, 5 mylios atstu nuo Kernavės, toje girios vietoje, kur Gediminas primedžiojęs daug žvėrienos.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    XVI amž. plačioji Lietuvos metraščio
+    redakcija mini įkūrimą išgarsėjusios Trakų pilies, 5 mylios atstu nuo
+    Kernavės, toje girios vietoje, kur Gediminas primedžiojęs daug
+    žvėrienos. Gražia legenda yra apipintas Vilniuje valstybės sostinės
+    įkūrimas^14.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: 'Kai kurie mokslininkai spėjo, kad Mindaugo pilis galėjo būti Liškiavoje arba Kernavėje.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Greičiausiai ji bus buvusi kur nors Aukštaičiuose:
+    kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
+    Apsigindamas pilyje nuo priešo, Mindaugas dar neišsigel-
+    bėjo iš gresiančio pavojaus, nes priešų sąjunga greit neiširo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/vietos/Dobrynė]]
+- [[objektai/vietos/Kernavos kunigaikštija]]
+- [[objektai/vietos/Pinskas]]
+- [[objektai/vietos/Turovas]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/asmenys/Engelhardas Rabe]]
+- [[objektai/vietos/Papartėnai]]

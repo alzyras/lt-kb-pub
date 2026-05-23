@@ -58,4 +58,7 @@ Lietuvių pajėgos Veikiančioji Lietuvos kariuomenė buvo pertvarkyta į dvi br
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Naujasodė]]
+- [[objektai/grupes/11 brigada]]
+- [[objektai/grupes/Marijampolės batalionas]]

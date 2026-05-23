@@ -57,4 +57,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.)]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Vilnius]]

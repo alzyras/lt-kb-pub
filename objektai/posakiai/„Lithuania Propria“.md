@@ -92,3 +92,13 @@ Teritorija, apie kurią lietuvių svajota: „Lituania Propria“ (žemėlapis i
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/žemėlapis]]
+
+### Susiję objektai
+- [[objektai/vietos/Alūkšta]]
+- [[objektai/vietos/Bernas]]
+- [[objektai/asmenys/Jurgis Šaulys]]
+- [[objektai/vietos/Kauno gubernija]]
+- [[objektai/asmenys/Steponas Kairys]]
+- [[objektai/vietos/Valkaviskas]]
+- [[objektai/vietos/Vilniaus gubernija]]
+- [[objektai/zodynas/etnografinės ribos etnografinis principas]]

@@ -54,4 +54,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Baltija]]
+- [[objektai/vietos/SSRS]]
+- [[objektai/vietos/Vilnius]]
 - [[objektai/grupes/Hipių judėjimas sovietinėje Lietuvoje]]

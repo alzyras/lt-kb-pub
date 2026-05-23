@@ -105,3 +105,8 @@ Vyskupystės centru buvo padaryti Varniai. Be to, jėzuitai turėjo įsikūrę i
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

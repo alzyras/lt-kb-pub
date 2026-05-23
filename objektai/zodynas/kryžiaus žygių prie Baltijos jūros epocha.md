@@ -56,3 +56,12 @@ Nuo tada prasidėjo kruvina kryžiaus žygių prie Baltijos jūros epocha, kurio
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Baltija]]
+- [[objektai/vietos/Latvija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Kryžiuočių ordinas]]

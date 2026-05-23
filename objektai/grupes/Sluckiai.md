@@ -45,3 +45,5 @@ Vėliau iš šių periferinių sritinių žemių kunigaikščių kilo garsios v�
 ### Susiję objektai
 - [[objektai/grupes/Sanguškos]]
 - [[objektai/grupes/Vyšnioveckiai]]
+- [[objektai/vietos/Viena]]
+- [[objektai/grupes/Čartoriskiai]]

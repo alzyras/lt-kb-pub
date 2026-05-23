@@ -50,3 +50,16 @@ Gediminas suartėjo su Lenkija, 1325 m. sutuokęs savo dukrą Aldoną Oną su Lo
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Aldona Gediminaitė]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Brandenburgo žemė]]
+- [[objektai/ivykiai/Gedimino sąjunga su Lenkija]]
+- [[objektai/asmenys/Kazimieras]]
+- [[objektai/asmenys/Kazimieras (Lokietkos sūnus)]]
+- [[objektai/asmenys/Vladislovas Lokietka]]
+- [[objektai/asmenys/Kazimieras Didysis]]

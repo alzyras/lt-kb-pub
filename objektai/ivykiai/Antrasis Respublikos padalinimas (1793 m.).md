@@ -118,4 +118,9 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/vietos/Prūsija]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Targovica]]
+- [[objektai/zodynas/konfederacija]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

@@ -68,3 +68,11 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/paliaubos]]
+
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/grupes/Rygiečiai]]
+- [[objektai/daiktai/Vaškas]]
+- [[objektai/zodynas/paliaubos]]

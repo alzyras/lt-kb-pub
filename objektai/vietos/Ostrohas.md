@@ -44,3 +44,18 @@ pagaliau iš Voluinės, iš Ostroho buvo nepaprastai reikšmingą vaidmenį suva
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Chodkevičiai]]
+- [[objektai/vietos/Voluinė]]
+- [[objektai/grupes/Vyšnioveckiai]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/grupes/Čartoriskiai]]
+- [[objektai/vietos/Klevanė]]
+- [[objektai/vietos/Kovelis]]
+- [[objektai/vietos/Mlynivas]]
+- [[objektai/vietos/Slavuta]]
+- [[objektai/vietos/Vyšnivecis]]
+- [[objektai/zodynas/tėvonija]]
+- [[objektai/zodynas/tėvonija tėvų palikimas]]

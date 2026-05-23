@@ -42,3 +42,8 @@ Suvalkiečiai kun. Antanas Tatarė (1805—1889 m.) ir Mykolas Akelaitis (1828�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/zodynas/kunigas]]

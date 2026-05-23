@@ -44,3 +44,10 @@ Apšvietos žingsniais Lietuvos ūkyje reikia laikyti valstiečių paleidimo iš
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Viena]]
+- [[objektai/vietos/Paulava]]

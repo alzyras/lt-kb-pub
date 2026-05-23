@@ -104,3 +104,13 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Gardinas]]
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Minskas]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/generalgubernatorius]]
+- [[objektai/zodynas/gubernija]]

@@ -48,3 +48,8 @@ Norbutas parašė pirmąją didžiulę (9 tomų) Lietuvos istoriją.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Vilnius]]

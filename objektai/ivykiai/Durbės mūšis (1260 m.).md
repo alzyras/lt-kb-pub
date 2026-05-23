@@ -137,4 +137,18 @@ Ordinas ruošė didelį žygį į Žemaičius ir į pagalbą pasikvietė Prūsų
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Dainava]]
+- [[objektai/vietos/Durbė]]
 - [[objektai/vietos/Georgenburgas]]
+- [[objektai/vietos/Jurbarkas]]
+- [[objektai/vietos/Karšuva]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/vietos/Nemunas]]
+- [[objektai/vietos/Prūsija]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/apostazija]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

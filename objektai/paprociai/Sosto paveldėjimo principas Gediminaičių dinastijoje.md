@@ -71,3 +71,7 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
+
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Mindaugas]]

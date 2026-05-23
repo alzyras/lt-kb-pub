@@ -100,3 +100,12 @@ Dambravos raiteliai susikauna su atakuojančia švedų kavalerija flanguose. Dam
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Dauguva]]
+- [[objektai/grupes/Sapiegos]]
+- [[objektai/vietos/Viena]]
+- [[objektai/daiktai/Vėliavos]]
+- [[objektai/zodynas/rotmistras]]
+- [[objektai/zodynas/vėliava]]

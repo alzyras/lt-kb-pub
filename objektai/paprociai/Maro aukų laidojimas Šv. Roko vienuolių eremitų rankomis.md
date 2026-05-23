@@ -80,3 +80,7 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/laidotuvės]]
+
+### Susiję objektai
+- [[objektai/vietos/Viena]]
+- [[objektai/zodynas/Aukausenos|aukausenos]]

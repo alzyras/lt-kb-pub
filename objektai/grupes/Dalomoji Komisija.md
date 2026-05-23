@@ -100,4 +100,5 @@ tags:
 - [[temos/pinigai]]
 
 ### Susiję objektai
-- [[objektai/grupes/Edukacinė Komisija]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]

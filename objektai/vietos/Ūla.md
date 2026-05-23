@@ -58,4 +58,6 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
 - [[temos/įrankis]]
 
 ### Susiję objektai
+- [[objektai/vietos/Alytus]]
+- [[objektai/vietos/Vysla]]
 - [[objektai/vietos/Katra]]

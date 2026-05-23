@@ -53,6 +53,10 @@ Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto dukters Sofijo
     - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: 'Jadvyga (Jogailos duktė) buvo pašauktas būti karalaitės Jad­ vygos globėju, buvo tiek ryški, jog galima visur ją pastebėti.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -135,12 +139,33 @@ Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto dukters Sofijo
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Jadvyga (Jogailos duktė) buvo pašauktas būti karalaitės Jad­ vygos globėju, buvo tiek ryški, jog galima visur ją pastebėti.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Svarbiausiuose lenkų reikaluose, kokie tik Lenkijoj kil­
+    davo, pradedant nuo aukščiausių vietų užėmimo, net iki pa­
+    grindinių reikalų, kai ėjo klausimas apie karalijos santvarką,
+    apie vyriausią valdžios kryptį, — Vytauto įtaka, prasidėjusi
+    nuo tos valandos, kai jis buvo pašauktas būti karalaitės Jad­
+    vygos globėju, buvo tiek ryški, jog galima visur ją pastebėti.
+    Iš anų laikų lenkų karūnos kanceliarijos raštų matome, kad to
+    meto žymūs politikai: pakancleriai, vyskupai, senatoriai kreip­
+    davosi į Vytautą svarbiausiais karūnos reikalais, prašydami pa­
+    tarimo, dažniausiai jo paramos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
 
 ### Susiję objektai
-- [[objektai/paprociai/Kreipimasis į Vytautą svarbiausiais reikalais]]
-- [[objektai/grupes/Piastų dinastija]]
-- [[objektai/zodynas/pakancleris]]
+- [[objektai/daiktai/Karūna]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/asmenys/Jadvyga]]

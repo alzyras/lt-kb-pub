@@ -104,6 +104,19 @@ Mat viena klastinga stabmeldė pranešė magistrui, kad lietuvių karalius telk�
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Prūsija]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/vietos/Semba]]
-- [[objektai/vietos/Strėvos upė]]
+- [[objektai/vietos/Smolenskas]]
+- [[objektai/vietos/Strėva]]
+- [[objektai/vietos/Viena]]
+- [[objektai/asmenys/Vygandas]]
 - [[objektai/autoriai/Vygandas Marburgietis]]
+- [[objektai/zodynas/komtūras]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/maršalas]]
+- [[objektai/daiktai/Ietis]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/vietos/Strėvos upė]]

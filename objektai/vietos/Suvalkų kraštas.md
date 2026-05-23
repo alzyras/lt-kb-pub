@@ -47,6 +47,10 @@ Jis greičiausiai nenorėjo leisti per daug laimėti lenkams, nes patsai, be Že
   teiginys: 'Suvalkų kraštas tada buvo beveik negyvenamas, apaugęs tankiais miškais (Wildnis), pro kuriuos į Prūsiją ėjo tik du keliai^2 ), o Lietuvai priklausančios rusų žemės — retai gyvenamos; taigi ir Vytauto dvarų juose buvo mažiau.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Tik Užnemunėje (Suvalkų krašte) kaimai išsiskirstė vienkiemiais XIX amž.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -95,3 +99,30 @@ Jis greičiausiai nenorėjo leisti per daug laimėti lenkams, nes patsai, be Že
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Tik Užnemunėje (Suvalkų krašte) kaimai išsiskirstė vienkiemiais XIX amž.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Pati
+    reforma iš pradžių buvo padaryta tik vakarinėje valstybės da-
+    lyje, t. y. tikrojoje Lietuvoje, bet greit ji buvo atlikta ir rusiškose
+    srityse. Iš pradžių ją įvykdė tiktai didysis kunigaikštis vien
+    savo žemėse, bet greit juo pasekė ir bajorai. Tuo būdu XVI amž.
+    vidury pradėtas gyvenimas kaimais Lietuvoje kai kur išliko iki
+    mūsų laikų. Tik Užnemunėje (Suvalkų krašte) kaimai išsiskirstė
+    vienkiemiais XIX amž.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Užnemunė]]
+- [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/vietos/Prūsija]]
+- [[objektai/vietos/Volynija]]

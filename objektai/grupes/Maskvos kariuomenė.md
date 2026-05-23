@@ -84,3 +84,23 @@ Maskvos pajėgos Vasilijaus 111 sutelktą Maskvos kariuomenę sudarė (Lietuvos 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Artilerija]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/asmenys/Madykas]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/grupes/Maskvėnai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/vietos/Tverė]]
+- [[objektai/asmenys/Vasilijus (Maskvos didysis kunigaikštis)]]
+- [[objektai/zodynas/murza]]
+- [[objektai/vietos/Alūksnė]]
+- [[objektai/grupes/Livonijos valstybė]]
+- [[objektai/vietos/Saremos sala]]
+- [[objektai/vietos/Tartu]]
+- [[objektai/vietos/Vilijandis]]
+- [[objektai/vietos/Vitebskas]]
+- [[objektai/asmenys/Zigmantas Herberšteinas]]
+- [[objektai/vietos/Lietuva]]

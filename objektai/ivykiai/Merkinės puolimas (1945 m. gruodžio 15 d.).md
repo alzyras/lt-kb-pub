@@ -259,3 +259,11 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-011
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/autoriai/Dalius Žygelis]]
+- [[objektai/vietos/Dzūkija]]
+- [[objektai/vietos/Kiauneliškiai]]
+- [[objektai/autoriai/Ričardas Čekutis]]
+- [[objektai/daiktai/Tanketė]]

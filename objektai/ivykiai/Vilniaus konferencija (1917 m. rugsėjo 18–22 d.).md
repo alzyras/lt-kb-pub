@@ -82,3 +82,12 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/vietos/Vokietija]]
+- [[objektai/ivykiai/Berne naujoji konferencija (1917 m. lapkričio 2–10 d.)]]
+- [[objektai/paprociai/Pasaulinė bažnytinė rinkliava nukentėjusios Lietuvos naudai]]
+- [[objektai/zodynas/etnografinė siena]]

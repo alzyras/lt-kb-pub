@@ -122,3 +122,10 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/vietos/Pagėgiai]]

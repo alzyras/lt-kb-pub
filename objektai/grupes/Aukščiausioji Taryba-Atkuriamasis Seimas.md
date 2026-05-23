@@ -40,3 +40,10 @@ AT-AS Aukščiausioji Taryba-Atkuriamasis Seimas. 1990 III 11 Lietuvos Respublik
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/grupes/Aukščiausioji Taryba]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

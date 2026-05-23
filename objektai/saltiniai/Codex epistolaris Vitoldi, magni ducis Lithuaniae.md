@@ -44,7 +44,7 @@ tags: []
 
 ## Teiginiai
 - t-005
-  teiginys: 'Šiame veikale bibliografijoje santrumpa C. ep. V. išskleidžiama kaip 1376-1430 m. Vytauto laiškų rinkinys, kurį parengė A. Prochaska ir išleido Krokuvoje 1882 m.'
+  teiginys: '„Codex epistolaris Vitoldi Magni Ducis Lithvan.“ apima 1376–1430 m. laikotarpį ir buvo išleistas Krokuvoje 1882 m.'
   pagrindžia:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -56,7 +56,7 @@ tags: []
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Šiame veikale bibliografijoje santrumpa C. ep. V. išskleidžiama kaip 1376-1430 m. Vytauto laiškų rinkinys, kurį parengė A. Prochaska ir išleido Krokuvoje 1882 m.'
+  santrauka: '„Codex epistolaris Vitoldi Magni Ducis Lithvan.“ apima 1376–1430 m. laikotarpį ir buvo išleistas Krokuvoje 1882 m.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     C. ep. V. = Codex epistolaris Vitoldi Magni Ducis Lithvan.

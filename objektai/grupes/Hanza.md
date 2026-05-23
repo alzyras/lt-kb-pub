@@ -79,7 +79,7 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-007
-  teiginys: 'Hanza rodo organizuotą prekybinę veiklą per savo agentūras Kaune ir Polocke'
+  teiginys: 'Hanza Kaune ir Polocke įsteigė savo agentūras, vadintas pirklių kontoromis.'
   pagrindžia:
     - c-007
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -100,6 +100,30 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
   teiginys: 'Vieną kartą, kai Dorpatas uždraudė prekybą su Naugardu (1416), buvo įsikišusi į tą reikalą Hanzos vadovybė, kuri turėjo tačiau Dorpatui nusileisti ir su jo draudi­ mu sutikti.'
   pagrindžia:
     - c-014
+- t-012
+  teiginys: 'Kaunas buvo Hanzos miestas, nors Lietuva dažnai laikoma Rytų Europos dalimi.'
+  pagrindžia:
+    - c-015
+- t-013
+  teiginys: 'XIII amž-je visos šiaurinės Europos prekybą suėmė į savo rankas vokiečių miestų sąjunga, vadinamoji Hanza.'
+  pagrindžia:
+    - c-016
+- t-014
+  teiginys: 'Per rygiečius jis kreipėsi į Hanzos miestus, tikindamas, kad norįs gyventi taikoje su krikščionimis, ir kvietė amatininkus, pirklius, žemdirbius ir riterius vykti į Lietuvą; visiems žadėjo savo globos ir paramos įsikurti.'
+  pagrindžia:
+    - c-017
+- t-015
+  teiginys: 'Hanzos miestų atstovų suvažiavimas Liubeke Gedimino laiškus sutiko labai palankiai.'
+  pagrindžia:
+    - c-018
+- t-016
+  teiginys: 'Lietuvai buvo sunku prekiauti su Hanzos pirkliais, nes visą pajūrį ir abiejų didžiųjų upių žiotis buvo užėmę kryžiuočiai.'
+  pagrindžia:
+    - c-019
+- t-017
+  teiginys: 'Abiejuose tuose centruose Hanza veikiai įsteigė savo agentūras (vadinamąsias pirklių kontoras).'
+  pagrindžia:
+    - c-020
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -177,7 +201,7 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
   pagrindžia:
     - t-006
 - c-007
-  santrauka: Hanza rodo organizuotą prekybinę veiklą per savo agentūras Kaune ir Polocke
+  santrauka: 'Hanza Kaune ir Polocke įsteigė savo agentūras, vadintas pirklių kontoromis.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Abiejuose tuose centruose Hanza veikiai įsteigė
@@ -270,3 +294,134 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-011
+- c-015
+  santrauka: 'Kaunas buvo Hanzos miestas, nors Lietuva dažnai laikoma Rytų Europos dalimi.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    “ Nors
+    Lietuva yra geografinis Europos centras (o Kaunas buvo Hanzos miestas),
+    ji dažnai laikoma Rytų Europos dalimi. Tokiais atvejais turima galvoje ne
+    tiek geografinė, kiek geopolitinė krašto padėtis: XIX–XX a.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+- c-016
+  santrauka: 'XIII amž-je visos šiaurinės Europos prekybą suėmė į savo rankas vokiečių miestų sąjunga, vadinamoji Hanza.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    XIII amž-je visos šiaurinės Europos prekybą suėmė į sa-
+    vo rankas vokiečių miestų sąjunga, vadinamoji Hanza. Vi-
+    same Baltijos pajūry vokiečiai buvo įsikūrę savo miestų ar bent
+    prekyviečių, kur mainėsi prekėmis su vietos gyventojais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+- c-017
+  santrauka: 'Per rygiečius jis kreipėsi į Hanzos miestus, tikindamas, kad norįs gyventi taikoje su krikščionimis, ir kvietė amatininkus, pirklius, žemdirbius ir riterius vykti į Lietuvą; visiems žadėjo savo globos ir paramos įsikurti.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Per rygiečius jis kreipėsi į Hanzos mies-
+    tus, tikindamas, kad norįs gyventi taikoje su krikščionimis, ir
+    kvietė amatininkus, pirklius, žemdirbius ir riterius vykti į Lie-
+    tuvą; visiems žadėjo savo globos ir paramos įsikurti. Kad nelai-
+    kytų jo užsispyrėliu pagonim, jis, be to, pranešė, kad jo valstybėje
+    jau esą krikščionių, vienuolių, turinčių ir savo bažnyčių; jis pats
+    pastatydinęs porą bažnyčių Vilniuje ir vieną Naugarduke.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
+- c-018
+  santrauka: 'Hanzos miestų atstovų suvažiavimas Liubeke Gedimino laiškus sutiko labai palankiai.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Hanzos
+    miestų atstovų suvažiavimas Liubeke Gedimino laiškus sutiko la-
+    bai palankiai. Jei jis krikštytųsi, Hanzos miestai sutiko pa-
+    dengti net pusę krikšto išlaidų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
+- c-019
+  santrauka: 'Lietuvai buvo sunku prekiauti su Hanzos pirkliais, nes visą pajūrį ir abiejų didžiųjų upių žiotis buvo užėmę kryžiuočiai.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Lietuvai buvo sunku prekiauti su Hanzos pirkliais, nes visą
+    pajūrį ir abiejų didžiųjų upių žiotis buvo užėmę kryžiuočiai.
+    Bet vis dėlto XIII ir XIV amžiuje Lietuvai pats svarbusis pre-
+    kybos punktas buvo Rygos miestas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016
+- c-020
+  santrauka: 'Abiejuose tuose centruose Hanza veikiai įsteigė savo agentūras (vadinamąsias pirklių kontoras).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Abiejuose tuose centruose Hanza veikiai įsteigė
+    savo agentūras (vadinamąsias pirklių kontoras). Ypač svarbus
+    centras buvo Kaunas: mat, prekybai labai patogi jo vieta — dvie-
+    jų didelių upių santakas.
+    Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis,
+    didelė dalis pietų Lietuvos prekių ėmė plaukti per Lenkiją, — kai
+    su šia prasidėjo Lietuvos santykiai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Baltija]]
+- [[objektai/vietos/Europa]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Liubekas]]
+- [[objektai/vietos/Naugardukas]]
+- [[objektai/grupes/Pietų Lietuvos (Nemuno) sritis]]
+- [[objektai/vietos/Ryga]]
+- [[objektai/vietos/Viena]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/asmenys/Barbora Cyleikaitė]]
+- [[objektai/vietos/Bizantija]]
+- [[objektai/vietos/Dorpatas]]
+- [[objektai/vietos/Gotlandas]]
+- [[objektai/vietos/Greifsvaldas]]
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Kazanė]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Nemuno žiotys]]
+- [[objektai/vietos/Pomeranija]]
+- [[objektai/asmenys/Povilas Russdortas]]
+- [[objektai/vietos/Rostokas]]
+- [[objektai/vietos/Rytų Europa]]
+- [[objektai/vietos/Stralsundas]]
+- [[objektai/vietos/Visbis]]
+- [[objektai/vietos/Vokietija]]
+- [[objektai/zodynas/lėnininkai]]
+- [[objektai/zodynas/pirklių kontora]]
+- [[objektai/vietos/Štetinas]]
+- [[objektai/posakiai/„Jei Šveicarijai būdinga aukšti kalnai, Italijai – meno kūriniai, Suomijai – ežerai, o Lietuvą reikėtų pavadinti kraštu, kuriame labai pavoj]]
+- [[objektai/vietos/Šiaurės jūra]]

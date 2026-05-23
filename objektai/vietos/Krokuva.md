@@ -34,6 +34,8 @@ datos:
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
+  - 'modernioji Lietuva'
+  - 'naujieji laikai'
 amziai:
   - 'XIV'
   - 'XV'
@@ -80,7 +82,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   pagrindžia:
     - c-005
 - t-017
-  teiginys: 'Užsieny jau daug kas manė, kad jis miręs; pavyzdžiui, Turkų sultonas buvo atsiuntęs net užuojautą, o Maskvos kunigaikštis savo pasiuntiniams, siunčiamiems į Krokuvą, instrukcijose įrašydavo: „Jei karalius miręs, — pareikšti užuojautą".'
+  teiginys: 'Maskvos kunigaikštis į Krokuvą siunčiamų pasiuntinių instrukcijose nurodydavo pareikšti užuojautą, jei karalius būtų miręs.'
   pagrindžia:
     - c-006
 - t-018
@@ -111,6 +113,70 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   teiginys: 'Būdamas hetmonas, vadovaudamas Lenkijos kariuomenei, jis atvykstančio Maksimilijono neįleido į Krokuvą Tuo būdu buvo karūnuotas atvykęs Zigmantas.'
   pagrindžia:
     - c-013
+- t-025
+  teiginys: 'Vakarinė LDK dalis – tarp Vilniaus ir Lucko – tai ne tik LDK vizitinė kortelė, kurioje dėl reprezentacijos bei artumo Krokuvai kurs rezidencijas didikai.'
+  pagrindžia:
+    - c-014
+- t-026
+  teiginys: 'Pastatyta katedra, iškilmingai pašvęsta Krokuvos vyskupo šv.'
+  pagrindžia:
+    - c-015
+- t-027
+  teiginys: 'Svarbų vaidmenį šiame procese suvaidino Lietuvos jaunimo studijos Krokuvos, o vėliau ir Vokietijos bei Italijos universitetuose.'
+  pagrindžia:
+    - c-016
+- t-028
+  teiginys: 'Jos poveikis reiškėsi įvairiais pavidalais: bažnytinės sistemos organizavimu, studijomis Krokuvos universitete, administracinės sistemos perėmimu, ūkio reforma.'
+  pagrindžia:
+    - c-017
+- t-029
+  teiginys: 'Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provincijai (jos buvo dvi – Didžioji Lenkija su Poznane ir Mažoji Lenkija su Krokuva).'
+  pagrindžia:
+    - c-018
+- t-030
+  teiginys: 'Manoma, kad studijų lygis senajame universitete nebuvo menkesnis nei Prahos, Krokuvos, Vienos ar Romos universitetuose.'
+  pagrindžia:
+    - c-019
+- t-031
+  teiginys: 'Vasarą rusų ir prūsų kariuomenės perėmė iniciatyvą: birželį Prūsijos kariuomenė užėmė Krokuvą, o rugpjūtį Rusijos kariuomenė – Vilnių.'
+  pagrindžia:
+    - c-020
+- t-035
+  teiginys: 'Priimdamas lenkų sąlygas, Jogaila turėjo lotyniškai pasikrikštyti ir vesti Liudviko Anjou dukterį Jadvygą, kuri jau 1384.X.15 d. Krokuvoje buvo vainikuota Lenkijos « karaliumi ».'
+  pagrindžia:
+    - c-024
+- t-036
+  teiginys: 'Krokuvoje ir Budoje ji galutinai sutarė, kas vėliau Kriavo akte (1385.VIII.14) buvo pa­ žadėta.'
+  pagrindžia:
+    - c-025
+- t-037
+  teiginys: 'Pats Vytautas, Krokuvoje praleidęs 1399 pavasarį^28 , vykdė plačius pasiruošimus.'
+  pagrindžia:
+    - c-026
+- t-038
+  teiginys: 'Prie Vorsklos galvas paguldė Vytauto ištikimieji Smolensko vietininkai Boreikaičiai ir žymusis Krokuvos vaivada ir Podolės valdytojas Spytekas iš Melsztyno.'
+  pagrindžia:
+    - c-027
+- t-039
+  teiginys: 'Nors teoretiškai Lietuva ir priklausė lenkams, bet Krokuva nuo jos buvo per toli, kad galėtą krašto likimą diriguoti.'
+  pagrindžia:
+    - c-028
+- t-040
+  teiginys: 'Matyt, susirūpinęs tokia ga­ limybe, Vytautas tuojau po paskutinio savo pralaimėjimo nu­ vyko į Krokuvą ir, nežiūrint geriausių iš pažiūros santykių su karalium, greitai sugrįžo į Lietuvą^1 ).'
+  pagrindžia:
+    - c-029
+- t-041
+  teiginys: 'Bet šis atnaujinimas, jei atsiminsime antrąjį Vytauto pabėgimą į Prūsus ir visas vėlyvesnes unijas, pergyveno įvairius santy­ kius, atsižvelgiant į naująją aukščiausiąją kunigaikštiją, kurios sostinė buvo jau nebe Vilnius, bet Krokuva.'
+  pagrindžia:
+    - c-030
+- t-042
+  teiginys: 'Naugardas, Dorpatas, Psko­ vas, Ryga, Dancigas, Krokuva ir k.'
+  pagrindžia:
+    - c-031
+- t-043
+  teiginys: 'Rusiškuose kraštuose Vytautas stengėsi atgaivinti prekybą, remdamas Kijevo miestą, kuris Dniepro upe turėjo susisiekimą su Juodosiomis jūromis, o sausuma — su Volynijos ir Podoli­ jos miestais, kuriuos lankydavo Krokuvos ir vokiečių pirkliai.'
+  pagrindžia:
+    - c-032
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -190,7 +256,7 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   pagrindžia:
     - t-016
 - c-006
-  santrauka: 'Užsieny jau daug kas manė, kad jis miręs; pavyzdžiui, Turkų sultonas buvo atsiuntęs net užuojautą, o Maskvos kunigaikštis savo pasiuntiniams, siunčiamiems į Krokuvą, instrukcijose įrašydavo: „Jei karalius miręs, — pareikšti užuojautą".'
+  santrauka: 'Maskvos kunigaikštis į Krokuvą siunčiamų pasiuntinių instrukcijose nurodydavo pareikšti užuojautą, jei karalius būtų miręs.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Užsieny jau daug kas manė, kad
@@ -319,11 +385,338 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-024
+- c-014
+  santrauka: 'Vakarinė LDK dalis – tarp Vilniaus ir Lucko – tai ne tik LDK vizitinė kortelė, kurioje dėl reprezentacijos bei artumo Krokuvai kurs rezidencijas didikai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vakarinė LDK dalis –
+    tarp Vilniaus ir Lucko – tai ne tik LDK vizitinė kortelė, kurioje dėl re-
+    prezentacijos bei artumo Krokuvai kurs rezidencijas didikai. Būtent čia,
+    prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, aprūpinęs
+
+    L I E T U V O S  I S T O R I J A
+    40
+    grūdais pagrindinį Europos duonos uostą  – Gdanską.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-025
+- c-015
+  santrauka: 'Pastatyta katedra, iškilmingai pašvęsta Krokuvos vyskupo šv.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Pastatyta katedra, iškilmingai pa-
+    švęsta Krokuvos vyskupo šv. Stanislovo garbei („kad abi lygiateisės tautos
+    turėtų vieną globėją ir užtarėją“), o didysis jos altorius buvo toje vietoje,
+    kur anksčiau degė pagonių amžinoji ugnis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-026
+- c-016
+  santrauka: 'Svarbų vaidmenį šiame procese suvaidino Lietuvos jaunimo studijos Krokuvos, o vėliau ir Vokietijos bei Italijos universitetuose.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Svarbų vaidmenį šiame procese suvaidino
+    Lietuvos jaunimo studijos Krokuvos, o vėliau ir Vokietijos bei Italijos uni-
+    versitetuose. Šios studijos, o ir apskritai europinės kultūros įsisavinimas
+    davė konkrečių rezultatų XV a.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-027
+- c-017
+  santrauka: 'Jos poveikis reiškėsi įvairiais pavidalais: bažnytinės sistemos organizavimu, studijomis Krokuvos universitete, administracinės sistemos perėmimu, ūkio reforma.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Jos poveikis reiškėsi įvairiais pavidalais: bažnytinės sistemos
+    organizavimu, studijomis Krokuvos universitete, administracinės sistemos
+    perėmimu, ūkio reforma. Lenkija buvo LDK mokytoja.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-028
+- c-018
+  santrauka: 'Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provincijai (jos buvo dvi – Didžioji Lenkija su Poznane ir Mažoji Lenkija su Krokuva).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Seime Lietuva
+    turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provincijai (jos
+    buvo dvi – Didžioji Lenkija su Poznane ir Mažoji Lenkija su Krokuva).
+    Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira
+    vykdomoji valdžia – kancleris, iždininkas, etmonas ir kt.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-029
+- c-019
+  santrauka: 'Manoma, kad studijų lygis senajame universitete nebuvo menkesnis nei Prahos, Krokuvos, Vienos ar Romos universitetuose.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Manoma, kad studijų lygis senajame universitete nebuvo
+    menkesnis nei Prahos, Krokuvos, Vienos ar Romos universitetuose. Iš šių
+    ir kitų Vakarų bei Vidurio Europos katalikiškųjų universitetų atvykę pro-
+    Žymiausio LDK karo inžinieriaus, daugiapakopių raketų
+    teorijos  kūrėjo K.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-030
+- c-020
+  santrauka: 'Vasarą rusų ir prūsų kariuomenės perėmė iniciatyvą: birželį Prūsijos kariuomenė užėmė Krokuvą, o rugpjūtį Rusijos kariuomenė – Vilnių.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vasarą rusų ir prūsų kariuomenės per-
+    ėmė iniciatyvą: birželį Prūsijos kariuomenė užėmė Krokuvą, o rugpjūtį
+    Rusijos kariuomenė – Vilnių. Lapkričio 5 dieną pasidavė Varšuva, kurią
+    gynė ir pasitraukę Lietuvos sukilėliai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-031
+- c-024
+  santrauka: 'Priimdamas lenkų sąlygas, Jogaila turėjo lotyniškai pasikrikštyti ir vesti Liudviko Anjou dukterį Jadvygą, kuri jau 1384.X.15 d. Krokuvoje buvo vainikuota Lenkijos « karaliumi ».'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Priimdamas lenkų sąlygas, Jogaila turėjo lotyniškai pasikrikštyti
+    ir vesti Liudviko Anjou dukterį Jadvygą, kuri jau 1384.X.15 d.
+    Krokuvoje buvo vainikuota Lenkijos « karaliumi ».
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-035
+- c-025
+  santrauka: 'Krokuvoje ir Budoje ji galutinai sutarė, kas vėliau Kriavo akte (1385.VIII.14) buvo pa­ žadėta.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Nuo tada Jogaila
+    veikė skubiai, ir jau 1385 m. sausio mėn. iš Vilniaus nuvyko ofi­
+    ciali, Skirgailos vadovaujama, delegacija. Krokuvoje ir Budoje ji
+    galutinai sutarė, kas vėliau Kriavo akte (1385.VIII.14) buvo pa­
+    žadėta.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-036
+- c-026
+  santrauka: 'Pats Vytautas, Krokuvoje praleidęs 1399 pavasarį^28 , vykdė plačius pasiruošimus.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Pats Vytautas, Krokuvoje praleidęs 1399 pavasarį^28 , vykdė
+    plačius pasiruošimus. Kijeve jau birželio mėn.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-037
+- c-027
+  santrauka: 'Prie Vorsklos galvas paguldė Vytauto ištikimieji Smolensko vietininkai Boreikaičiai ir žymusis Krokuvos vaivada ir Podolės valdytojas Spytekas iš Melsztyno.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Prie Vorsklos galvas paguldė
+    Vytauto ištikimieji Smolensko vietininkai Boreikaičiai ir žymusis
+    Krokuvos vaivada ir Podolės valdytojas Spytekas iš Melsztyno.
+    Jo didelį narsumą iškeldamas, Dlugošas pastebi, jog jis esą įtiki­
+    nėjęs Vytautą nepradėti kautynių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-038
+- c-028
+  santrauka: 'Nors teoretiškai Lietuva ir priklausė lenkams, bet Krokuva nuo jos buvo per toli, kad galėtą krašto likimą diriguoti.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    ```
+    Nors teoretiškai Lietuva ir priklausė lenkams, bet Krokuva
+    nuo jos buvo per toli, kad galėtą krašto likimą diriguoti. Tuo
+    tarpu netvarkos šaly jau buvo perdaug.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-039
+- c-029
+  santrauka: 'Matyt, susirūpinęs tokia ga­ limybe, Vytautas tuojau po paskutinio savo pralaimėjimo nu­ vyko į Krokuvą ir, nežiūrint geriausių iš pažiūros santykių su karalium, greitai sugrįžo į Lietuvą^1 ).'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Matyt, susirūpinęs tokia ga­
+    limybe, Vytautas tuojau po paskutinio savo pralaimėjimo nu­
+    vyko į Krokuvą ir, nežiūrint geriausių iš pažiūros santykių su
+    karalium, greitai sugrįžo į Lietuvą^1 ). Šitas jo skubus sugrįži­
+    mas daug pasako: matyt, tikrai pajuto sau pavojų iš Jogailos
+    pusės.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-040
+- c-030
+  santrauka: 'Bet šis atnaujinimas, jei atsiminsime antrąjį Vytauto pabėgimą į Prūsus ir visas vėlyvesnes unijas, pergyveno įvairius santy­ kius, atsižvelgiant į naująją aukščiausiąją kunigaikštiją, kurios sostinė buvo jau nebe Vilnius, bet Krokuva.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Bet šis atnaujinimas, jei atsiminsime antrąjį Vytauto pabėgimą
+    į Prūsus ir visas vėlyvesnes unijas, pergyveno įvairius santy­
+    kius, atsižvelgiant į naująją aukščiausiąją kunigaikštiją, kurios
+    sostinė buvo jau nebe Vilnius, bet Krokuva. O tas Jogailos titu­
+    las, supremus dux, kaip žinom iš faktų, buvo daugiau garbės,
+
+    ```
+    — 203 —
+    ```
+    (^1) ) Kutrz.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-041
+- c-031
+  santrauka: 'Naugardas, Dorpatas, Psko­ vas, Ryga, Dancigas, Krokuva ir k.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Nuo Lietuvos buvo taip pat netoli tokie
+    anų laikų prekybos centrai, kaip D. Naugardas, Dorpatas, Psko­
+    vas, Ryga, Dancigas, Krokuva ir k. Taigi, Vytauto laikų Lie­
+    tuva, jungianti Rytų ir Vakarų Europos kraštus, iš visų pusių
+    buvo apsupta pirklių gyvenamų ir lankomų žemių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-042
+- c-032
+  santrauka: 'Rusiškuose kraštuose Vytautas stengėsi atgaivinti prekybą, remdamas Kijevo miestą, kuris Dniepro upe turėjo susisiekimą su Juodosiomis jūromis, o sausuma — su Volynijos ir Podoli­ jos miestais, kuriuos lankydavo Krokuvos ir vokiečių pirkliai.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Rusiškuose kraštuose Vytautas stengėsi atgaivinti prekybą,
+    remdamas Kijevo miestą, kuris Dniepro upe turėjo susisiekimą
+    su Juodosiomis jūromis, o sausuma — su Volynijos ir Podoli­
+    jos miestais, kuriuos lankydavo Krokuvos ir vokiečių pirkliai.
+    Į Kijevą atvykdavo totorių, armėnų, Maskvos, Genujos, Vene­
+    cijos pirkliai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-043
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Karūnacinis seimas]]
 - [[objektai/grupes/Lenkų ponų taryba]]
 - [[objektai/daiktai/Zigmanto II antkapis]]
-- [[objektai/posakiai/Jei karalius miręs, — pareikšti užuojautą]]
+- [[objektai/vietos/Dniepras]]
+- [[objektai/vietos/Europa]]
+- [[objektai/vietos/Kijevas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/autoriai/A. Brückner]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/asmenys/Bodzanta]]
+- [[objektai/asmenys/Borisas Karijotaitis]]
+- [[objektai/vietos/Buda]]
+- [[objektai/vietos/Byčina]]
+- [[objektai/vietos/Dancigas]]
+- [[objektai/grupes/Didžioji Lietuvos kunigaikštystė]]
+- [[objektai/vietos/Dorpatas]]
+- [[objektai/asmenys/Dr. Baptistas Cigala]]
+- [[objektai/autoriai/E. Radzvilovaitė]]
+- [[objektai/asmenys/Elžbieta]]
+- [[objektai/autoriai/H. Spliet]]
+- [[objektai/autoriai/J. Bardach]]
+- [[objektai/autoriai/J. Lebedys]]
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/autoriai/K. Korsakas]]
+- [[objektai/paprociai/Karaliaus vainikavimo ceremonialas be būtino vyskupo patepimo]]
+- [[objektai/ivykiai/Kauno susitarimas su Vokiečių ordinu (1402 m.)]]
+- [[objektai/asmenys/Konstantinas (Karijotaitis)]]
+- [[objektai/grupes/Krokuvos profesoriai]]
+- [[objektai/autoriai/Ks. Bauža]]
+- [[objektai/grupes/Lenkijos valstybės taryba]]
+- [[objektai/paprociai/Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose]]
+- [[objektai/grupes/Liublino seimas]]
+- [[objektai/ivykiai/Liublino unijos politinis įgyvendinimas Abiejų Tautų Respublikoje]]
+- [[objektai/autoriai/Liuteris]]
+- [[objektai/asmenys/Markvardas (Ragainės komtūras)]]
+- [[objektai/asmenys/Markvardas Zalzbachas]]
+- [[objektai/grupes/Mokslo mėgėjų draugija Krokuvoje]]
+- [[objektai/vietos/Podolija]]
+- [[objektai/vietos/Podolė]]
+- [[objektai/autoriai/Pr. Papée]]
+- [[objektai/zodynas/Romos karalius]]
+- [[objektai/asmenys/Russdorfas]]
+- [[objektai/vietos/Ryga]]
+- [[objektai/autoriai/S. F. Platonov]]
+- [[objektai/autoriai/Smolka, St]]
+- [[objektai/asmenys/Spytekas iš Melštyno]]
+- [[objektai/asmenys/Spytkas iš Melsztyno]]
+- [[objektai/autoriai/St. Smolka]]
+- [[objektai/vietos/Stralsundas]]
+- [[objektai/asmenys/Tochtamišas]]
+- [[objektai/grupes/Tochtamišo totoriai]]
+- [[objektai/autoriai/V. Jungfer]]
+- [[objektai/autoriai/V. T. Pašuto]]
+- [[objektai/asmenys/Vaitiekus Jastrzembiec]]
+- [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.)]]
+- [[objektai/vietos/Volynija]]
+- [[objektai/autoriai/W. Maciejewska]]
+- [[objektai/autoriai/Wagner, K]]
+- [[objektai/asmenys/Zbignievas Olesnickis]]
+- [[objektai/asmenys/Ziemovitas III]]
+- [[objektai/daiktai/Zigmanto Augusto antkapis]]
+- [[objektai/asmenys/Zyndramas iš Moškovicų]]
 - [[objektai/asmenys/imperatorius Zigmantas]]
+- [[objektai/posakiai/lenkų ponus „užglostyti”]]
+- [[objektai/zodynas/separatizmas]]
+- [[objektai/daiktai/Šarvinių pirštinių, žasto, dilbio, kelio ir blauzdos apsaugos]]
+- [[objektai/daiktai/Šarvinės pirštinės]]
+- [[objektai/asmenys/Šv. Stanislovas]]
+- [[objektai/posakiai/„Kristus prisikėlė“]]
+- [[objektai/posakiai/„kad abi lygiateisės tautos turėtų vieną globėją ir užtarėją“]]
+- [[objektai/posakiai/Jei karalius miręs, — pareikšti užuojautą]]
+- [[objektai/ivykiai/Jogailos atvykimas į Krokuvą, krikštas, vestuvės ir karūnacija Lenkijos karalium (1386 m. vasaris–kovas)]]
+- [[objektai/autoriai/Józef Wolff]]
+- [[objektai/daiktai/Kryžiuočių kariuomenės dalių vėliavos]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/ivykiai/Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas]]

@@ -56,4 +56,7 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]
+- [[objektai/zodynas/žygis]]
 - [[objektai/vietos/Ulos upė]]

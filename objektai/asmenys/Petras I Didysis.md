@@ -105,3 +105,8 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Petrapilis]]
+- [[objektai/vietos/Brandenburgas]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/vietos/Prūsija]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Švedija]]

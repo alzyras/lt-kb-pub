@@ -47,3 +47,10 @@ Lenkai pasuka dešiniau ir atkerta LL ALYTUS Daugai | I Šlėninkė jai Tabariš
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Alytus]]
+- [[objektai/vietos/Butrimonys]]
+- [[objektai/vietos/Daugai]]
+- [[objektai/grupes/Lenkai]]

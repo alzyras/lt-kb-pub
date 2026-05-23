@@ -84,3 +84,8 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
+
+### Susiję objektai
+- [[objektai/asmenys/Mykolas]]
+- [[objektai/zodynas/metropolitas]]
+- [[objektai/vietos/Maskva]]

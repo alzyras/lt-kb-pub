@@ -71,3 +71,9 @@ Priselkova, Maskva 1950. Priselkov, M.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/vietos/Kijevo Rusia]]

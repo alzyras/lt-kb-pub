@@ -41,6 +41,10 @@ tags: []
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Ir tiems bajorams, kurių luomą Vytautas taip rėmė dovanojimais, stojimas karan su savo arkliu ir ginklais buvo geležinis įstatymas ; o kurie neturėjo kuo joti ar apsišarvoti, paties Vytauto žodžiais, turėjo parduoti žmoną ir vaikus, « kad tik be arklio nebūtų.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -65,7 +69,31 @@ tags: []
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-002
+  santrauka: 'Ir tiems bajorams, kurių luomą Vytautas taip rėmė dovanojimais, stojimas karan su savo arkliu ir ginklais buvo geležinis įstatymas ; o kurie neturėjo kuo joti ar apsišarvoti, paties Vytauto žodžiais, turėjo parduoti žmoną ir vaikus, « kad tik be arklio nebūtų.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Ir tiems bajorams, kurių luomą Vytautas taip rėmė dovanojimais,
+    stojimas karan su savo arkliu ir ginklais buvo geležinis įstatymas ;
+    o kurie neturėjo kuo joti ar apsišarvoti, paties Vytauto žodžiais,
+    turėjo parduoti žmoną ir vaikus, « kad tik be arklio nebūtų »^4.
+    Kryžiuočių ir Maskvos rusų istoriografija, kaip ir nebuvo gali­
+    ma kitaip laukti iš Vytauto politinių priešų, yra jį piešusi gana
+    tamsiomis spalvomis, laikydama jį, be kitko, gana žiauriu valdovu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/frazė]]
+
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/luomas]]

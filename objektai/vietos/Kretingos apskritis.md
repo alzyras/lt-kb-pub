@@ -54,3 +54,9 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Kretinga]]
+- [[objektai/vietos/Latvija]]
+- [[objektai/grupes/Žemaičiai]]

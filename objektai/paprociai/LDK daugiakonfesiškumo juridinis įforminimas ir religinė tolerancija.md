@@ -96,3 +96,15 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/privilegija]]
+
+### Susiję objektai
+- [[objektai/asmenys/Isaakas ben Abrahamas iš Trakų]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Trakai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/daugiakonfesiškumas]]
+- [[objektai/zodynas/statutas]]
+- [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/grupes/Sentikiai]]

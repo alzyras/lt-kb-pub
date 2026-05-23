@@ -55,6 +55,10 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   teiginys: 'Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zaslavlis.'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: 'Šios pajėgos užėmė Borisovą, Minską, Zaslavlį, Krėvą, Lydą, Vilnių, Trakus ir priartėjo prie Kauno.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -137,8 +141,67 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Šios pajėgos užėmė Borisovą, Minską, Zaslavlį, Krėvą, Lydą, Vilnių, Trakus ir priartėjo prie Kauno.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Šios pajėgos užėmė
+    Borisovą, Minską, Zaslavlį, Krėvą, Lydą,
+    Vilnių, Trakus ir priartėjo prie Kauno.
+    Žygimantas su savo mažesne Lietuvos ka-
+    riuomene nestojo į mūšį, bet vesdamas
+    savo pajėgas ne keliais ir neprieinamomis
+    vietomis, puldinėjo Švitrigailos tiekimo da-
+    linius, padarydamas jiems daug nuostolių,
+
+    67
+
+    pi
+    6£
+    kr L
+    610
+    2 a
+    T
+    = 5
+    o 2
+    22
+    co
+    “+
+    p
+    23
+    iv
+
+    ## Puslapis 70
+
+    priversdamas priešą badauti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Druckas]]
-- [[objektai/grupes/Rusijos kariuomenė]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Trakai]]
+- [[objektai/asmenys/Švitrigaila]]
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/asmenys/A. N. Trubeckojus]]
+- [[objektai/vietos/Bobruiskas]]
+- [[objektai/vietos/Gardinas]]
+- [[objektai/vietos/Gardino gubernija]]
+- [[objektai/asmenys/I. Zolotarenko]]
+- [[objektai/vietos/Juodoji Rusia]]
+- [[objektai/vietos/Kauno gubernija]]
+- [[objektai/vietos/Pašiaušė]]
+- [[objektai/grupes/Pravoslavai]]
+- [[objektai/vietos/Smolenskas]]
+- [[objektai/asmenys/V. B. Seremetjevas]]
+- [[objektai/vietos/Vilniaus gubernija]]
+- [[objektai/vietos/Vitebskas]]
+- [[objektai/ivykiai/Vytauto žygis į Maskvos apylinkes ir Vosyliaus II globos prisiėmimas (1427 m.)]]
+- [[objektai/vietos/Žodiškiai]]
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Zaslavlis]]

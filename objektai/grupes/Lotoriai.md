@@ -55,3 +55,9 @@ Lotoriai šiame fragmente pateikiami kaip viena iš puolusių grupių, o jų vie
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Viena]]
+- [[objektai/grupes/Žemaičiai]]

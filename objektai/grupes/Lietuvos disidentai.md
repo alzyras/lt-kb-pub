@@ -6,6 +6,18 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1948 m.'
+  - '1960 m.'
+  - '1975 m.'
+  - '1978 m.'
+periodas: 'okupacijų ir sovietmečio laikotarpis'
+periodo_grupes:
+  - 'XX a.'
+amziai:
+  - 'XX'
+date_start: '1948'
+date_end: '1978'
 patikimumas: 'vidutinis'
 tags:
   - grupe
@@ -42,6 +54,10 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
     - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: 'Skirtingai nei katalikų opozicija, disidentai kėlė Lietuvos laisvės klausimus.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -101,3 +117,21 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Skirtingai nei katalikų opozicija, disidentai kėlė Lietuvos laisvės klausimus.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Skirtingai nei
+    katalikų opozicija, disidentai kėlė Lietuvos laisvės klausimus.
+    Savo aktyvumu išsiskyrė 1978 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]

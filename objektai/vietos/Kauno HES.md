@@ -44,5 +44,10 @@ Atšilimo laikotarpiu Lietuvoje pagal sovietinį modelį vykstant sparčiai indu
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Ignalinos atominė elektrinė]]
+- [[objektai/vietos/Jonava]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/atšilimas]]
+- [[objektai/vietos/Kaunas]]
 - [[objektai/vietos/Jonavos azotinių trąšų gamykla]]
 - [[objektai/vietos/Mažeikių naftos perdirbimo įmonė]]

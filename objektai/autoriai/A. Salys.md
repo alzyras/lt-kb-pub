@@ -107,3 +107,10 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-010
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Vysla]]
+- [[objektai/zodynas/prokalbė]]
+- [[objektai/vietos/Ceklio sritis]]
+- [[objektai/grupes/Žemaičiai]]

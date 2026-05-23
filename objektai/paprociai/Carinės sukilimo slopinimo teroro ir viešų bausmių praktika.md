@@ -119,3 +119,18 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Anglija]]
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Prancūzija]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/asmenys/Zigmantas Sierakauskas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/tautinis atgimimas]]
+- [[objektai/asmenys/Antanas Mackevičius]]
+- [[objektai/asmenys/Konstantinas (Karijotaitis)]]

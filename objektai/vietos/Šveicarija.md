@@ -8,9 +8,11 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
   - '1936 m.'
+  - '1940 m.'
   - '2026 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
+  - 'XX a.'
   - 'modernioji Lietuva'
 amziai:
   - 'XX'
@@ -47,10 +49,14 @@ Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Švei
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-004
-  teiginys: '123 Švarnas, Danieliaus sūnus 155, 157, 172, 179, 197, 199-201 Švedija 67, 72, 101, 107, 116, 184 Šveicarija 70 ; Šveicarijos Friburgas 57, 59, 153 Švėkšna 184 Švč.'
+- t-005
+  teiginys: 'Tačiau pasisavintas tik Švedijos ir Šveicarijos bankuose saugomas auksas.'
   pagrindžia:
-    - c-004
+    - c-005
+- t-006
+  teiginys: 'Smetona nebuvo pageidaujamas nė vienoje Europos šalyje, tad per Vokietiją, Šveicariją, Portugaliją išvyko į JAV.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -96,26 +102,52 @@ Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Švei
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
-- c-004
-  santrauka: '123 Švarnas, Danieliaus sūnus 155, 157, 172, 179, 197, 199-201 Švedija 67, 72, 101, 107, 116, 184 Šveicarija 70 ; Šveicarijos Friburgas 57, 59, 153 Švėkšna 184 Švč.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+- c-005
+  santrauka: 'Tačiau pasisavintas tik Švedijos ir Šveicarijos bankuose saugomas auksas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    123
-    Švarnas, Danieliaus sūnus 155, 157,
-    172, 179, 197, 199-201
-    Švedija 67, 72, 101, 107, 116, 184
-    Šveicarija 70 ; Šveicarijos Friburgas
-    57, 59, 153
-    Švėkšna 184
-    Švč.
+    Birželio 27-ąją Liaudies vyriausybė panaikino Lietuvos ir Vatika-
+    no konkordatą, o liepos 12-ąją, spaudžiant V. Dekanozovui, nutarta Sovietų
+    Sąjungos valstybiniam bankui perduoti užsienyje laikomą Lietuvos auksą.
+    Tačiau pasisavintas tik Švedijos ir Šveicarijos bankuose saugomas auksas.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-004
+    - t-005
+- c-006
+  santrauka: 'Smetona nebuvo pageidaujamas nė vienoje Europos šalyje, tad per Vokietiją, Šveicariją, Portugaliją išvyko į JAV.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1940 m. birželį išvykęs iš Lietuvos prezidentas A. Smetona nebuvo pa-
+    geidaujamas nė vienoje Europos šalyje, tad per Vokietiją, Šveicariją, Por-
+    tugaliją išvyko į JAV.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/A. Smetona|A. Smetona (prezidentas, XX a.)]]
+- [[objektai/vietos/Europa]]
+- [[objektai/grupes/Liaudies vyriausybė]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Viena]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/vietos/Švedija]]
 - [[objektai/ivykiai/Antroji Lozanos konferencija (1916 m. birželio 30 d. – liepos 4 d.)]]
+- [[objektai/ivykiai/Berne naujoji konferencija (1917 m. lapkričio 2–10 d.)]]
+- [[objektai/vietos/Friburgas]]
+- [[objektai/daiktai/Lietuvos auksas]]
+- [[objektai/paprociai/Pasaulinė bažnytinė rinkliava nukentėjusios Lietuvos naudai]]
+- [[objektai/zodynas/federacija federacinė valstybė]]
+- [[objektai/zodynas/kantonas kantoninis principas]]
+- [[objektai/posakiai/„Jei Šveicarijai būdinga aukšti kalnai, Italijai – meno kūriniai, Suomijai – ežerai, o Lietuvą reikėtų pavadinti kraštu, kuriame labai pavoj]]
+- [[objektai/vietos/Portugalija]]
+- [[objektai/vietos/Luganas]]

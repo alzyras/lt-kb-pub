@@ -53,3 +53,8 @@ Pasiruošimas operacijai Įvertinusi situaciją vyriausioji Lietuvos karinė vad
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/K. Ladyga]]
+- [[objektai/vietos/Lietuva]]

@@ -8,9 +8,12 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1991 m.'
+  - '1993 m.'
   - '1994 m.'
   - '1999 m.'
   - '2002 m.'
+  - '2003 m.'
+  - '2004 m.'
   - '2013 m.'
   - '2026 m.'
 periodas: 'atkurtos nepriklausomybės laikotarpis'
@@ -47,6 +50,10 @@ tags:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: '2003 m. kovą pasirašius pakviestųjų kandidačių prisijungimo prie Vašingtono sutarties protokolus, Lietuvos Respublikos Seimui ratifikavus Vašingtono sutartį, 2004 m. kovo 29 d. Lietuva tapo visateise NATO nare.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -86,7 +93,30 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: '2003 m. kovą pasirašius pakviestųjų kandidačių prisijungimo prie Vašingtono sutarties protokolus, Lietuvos Respublikos Seimui ratifikavus Vašingtono sutartį, 2004 m. kovo 29 d. Lietuva tapo visateise NATO nare.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    2003 m. kovą
+    pasirašius pakviestųjų kandidačių prisijungimo prie Vašingtono sutarties
+    protokolus, Lietuvos Respublikos Seimui ratifikavus Vašingtono sutartį,
+    2004 m. kovo 29 d. Lietuva tapo visateise NATO nare.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/NATO]]
+- [[objektai/vietos/Vašingtonas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/ivykiai/Lietuvos įstojimas į ES ir NATO (2004 m.)]]
+- [[objektai/grupes/Lietuvos Respublikos Seimas]]
 - [[objektai/grupes/Šiaurės Atlanto sutarties organizacija (NATO)]]
+- [[objektai/posakiai/„Mūsų sąjunga pasiryžusi ginti savo nares...“]]

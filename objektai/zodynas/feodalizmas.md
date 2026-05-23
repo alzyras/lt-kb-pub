@@ -78,3 +78,20 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Europa]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Viena]]
+- [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/suverenas]]
+- [[objektai/autoriai/Archeologai ir priešistorės tyrėjai]]
+- [[objektai/paprociai/Bajorų prievolės valstybei]]
+- [[objektai/autoriai/Z. Raulinaitis]]
+- [[objektai/zodynas/marksistinė periodizacija komunistinės istoriografijos nomenklatūra]]
+- [[objektai/zodynas/sritinė kunigaikštystė]]
+- [[objektai/zodynas/ankstyvasis feodalizmas kiemai]]
+- [[objektai/zodynas/ankstyvoji monarchija karinė monarchija]]
+- [[objektai/zodynas/diarchija]]

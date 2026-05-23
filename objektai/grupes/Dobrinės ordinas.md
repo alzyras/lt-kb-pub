@@ -50,4 +50,6 @@ Taigi buvo įkurtas (1228 m.) vyskupo priklausąs riterių ordinas, kurs pagal s
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Albertas]]
+- [[objektai/asmenys/Kristijonas|Kristijonas (vyskupas)]]
 - [[objektai/ivykiai/Dobrinės ordino įkūrimas]]

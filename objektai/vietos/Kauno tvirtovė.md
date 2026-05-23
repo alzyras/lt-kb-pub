@@ -48,4 +48,11 @@ Kitas valstybės modeliavimo etapas prasidėjo, kai, karo veiksmams nusiaubus Li
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Austrija]]
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/vietos/Vokietija]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/ivykiai/Vokietijos kariuomenės įžengimas į Lietuvą, Kauno tvirtovės paėmimas ir Vilniaus užėmimas]]

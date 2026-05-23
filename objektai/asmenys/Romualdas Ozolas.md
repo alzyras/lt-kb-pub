@@ -43,3 +43,4 @@ LPS tapo dar populiaresnis, kai nuo rugsėjo 16 dienos, be biuletenio „Sąjūd
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]
+- [[objektai/ivykiai/Laikraščio „Atgimimas“ leidimo pradžia (1988 m. rugsėjo 16 d.)]]

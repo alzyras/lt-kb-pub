@@ -50,3 +50,17 @@ Prie Vorsklos galvas paguldė Vytauto ištikimieji Smolensko vietininkai Boreika
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Brianskas]]
+- [[objektai/asmenys/Dlugošas]]
+- [[objektai/grupes/Karijotaičiai]]
+- [[objektai/vietos/Krokuva]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/asmenys/Mykolas]]
+- [[objektai/vietos/Podolė]]
+- [[objektai/vietos/Polockas]]
+- [[objektai/vietos/Smolenskas]]
+- [[objektai/vietos/Vorskla]]
+- [[objektai/zodynas/vaivada]]

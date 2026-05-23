@@ -67,4 +67,7 @@ Tada Šliūpo rūpesčiu buvo įsteigta Lietuvių Mokslo Draugystė, kuri leido 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/J. Basanavičius]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvių Mokslo Draugija]]
+- [[objektai/vietos/Vilnius]]

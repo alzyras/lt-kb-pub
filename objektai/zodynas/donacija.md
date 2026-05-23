@@ -49,3 +49,11 @@ Mindaugo pergamentai kryžiuočiams teteikė formalią teisę į jiems užrašyt
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Georgenburgas]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/vietos/Žiemgala]]
+- [[objektai/grupes/Žiemgaliai]]

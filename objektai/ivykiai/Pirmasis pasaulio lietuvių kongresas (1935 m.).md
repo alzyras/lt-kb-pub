@@ -54,4 +54,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Kaunas]]
 - [[objektai/grupes/Pasaulio Lietuvių Sąjunga]]

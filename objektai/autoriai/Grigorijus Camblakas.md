@@ -11,19 +11,20 @@ saltiniai:
   - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
 bukle: juodrastis
 laikotarpis: "1415 m.; 1439 m. kontekstas"
+vaidmenys:
+  - "stačiatikybės teologas"
+dalyviai: []
+susije_irasai: []
 datos:
+  - '1415 m.'
   - '1439 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
   - 'XV'
-date_start: '1439'
-date_end: ''
-vaidmenys:
-  - "stačiatikybės teologas"
-dalyviai: []
-susije_irasai: []
+date_start: '1415'
+date_end: '1439'
 patikimumas: "aukštas"
 tags:
   - autorius
@@ -61,6 +62,10 @@ Grigorijus Camblakas pristatomas kaip vienas žymiausių to meto stačiatikybės
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-013
+  teiginys: '1415 m. Naugarduke sušaukęs LDK stačiatikių vyskupų suvažiavimą, Vytautas įkūrė LDK stačiatikių metropoliją ir į ją paskyrė vieną žymiausių to meto stačiatikybės teologų Grigorijų Camblaką.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -86,7 +91,38 @@ Grigorijus Camblakas pristatomas kaip vienas žymiausių to meto stačiatikybės
     - t-010
     - t-011
     - t-012
+- c-002
+  santrauka: '1415 m. Naugarduke sušaukęs LDK stačiatikių vyskupų suvažiavimą, Vytautas įkūrė LDK stačiatikių metropoliją ir į ją paskyrė vieną žymiausių to meto stačiatikybės teologų Grigorijų Camblaką.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    radikalios – intensyviai kurdamas katalikiškų institucijų tinklą, valdovas
+    atsigręžė ir į stačiatikybę. 1415 m. Naugarduke sušaukęs LDK stačiatikių
+    vyskupų suvažiavimą, Vytautas įkūrė LDK stačiatikių metropoliją ir į ją
+    paskyrė vieną žymiausių to meto stačiatikybės teologų Grigorijų Cam-
+    blaką. Be to, „Kijevo ir visos Rusios“ metropolitas buvo tvirtai įkurdintas
+    Vilniuje: jam pastatyta katedra ir rezidencija, Vilniaus „rusėnų pusėje“
+    suformuota metropolito jurisdikcija, gyvavusi iki pat XVIII a. pabaigos, o
+    G. Camblako vadovaujama LDK stačiatikių delegacija nuvyko į Katalikų
+    bažnyčios susirinkimą Konstance, kur iškėlė visuotinės bažnyčių unijos
+    idėją (ji įgyvendinta vėliau – 1439 m. Florencijoje).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dvasininkas]]
+
+### Susiję objektai
+- [[objektai/vietos/Florencija]]
+- [[objektai/vietos/Naugardukas]]
+- [[objektai/vietos/Viena]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/metropolija]]
+- [[objektai/zodynas/metropolitas]]
+- [[objektai/zodynas/unija]]
+- [[objektai/ivykiai/G. Camblako delegacija į Konstancą ir mišios Konstanco katedroje]]

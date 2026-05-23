@@ -62,3 +62,10 @@ Keista, nes ja vykdoma ne tik ,,Lenkijos pertvarka“. Remiantis šiuo įžadu, 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/konstitucijos]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

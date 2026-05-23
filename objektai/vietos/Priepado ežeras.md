@@ -76,3 +76,8 @@ Jie žinojo apie slaptą išėjimą iš bunkerio, kuris buvo įrengtas prie eže
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/ežeras]]
+
+### Susiję objektai
+- [[objektai/asmenys/Albinas Pajarskas-Bebas]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/ivykiai/Šimonių girios apgultis]]

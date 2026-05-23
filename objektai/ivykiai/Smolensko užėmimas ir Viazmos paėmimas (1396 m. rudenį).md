@@ -65,3 +65,14 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Hlebas]]
+- [[objektai/asmenys/Jomantas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Smolenskas]]
+- [[objektai/asmenys/Sviatoslavas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/lenas]]
+- [[objektai/vietos/Viazma]]

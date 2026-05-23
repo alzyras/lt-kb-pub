@@ -45,4 +45,7 @@ Bolševikų diktatūra SSRS, Benito Musolinio (Benito Mussolini) atėjimas į va
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/vietos/Italija]]
+- [[objektai/vietos/Lietuva]]
 - [[objektai/posakiai/„seimokratija“]]

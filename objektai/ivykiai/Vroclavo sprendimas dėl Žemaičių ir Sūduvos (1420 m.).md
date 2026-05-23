@@ -11,17 +11,20 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 bukle: juodrastis
 laikotarpis: '1420 m.'
-datos:
-  - '1420 m.'
-periodas: ''
-periodo_grupes: []
-amziai:
-  - 'XV'
-date_start: '1420'
-date_end: '1420'
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1412 m.'
+  - '1420 m.'
+  - '1423 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XV'
+date_start: '1412'
+date_end: '1423'
 patikimumas: 'aukstas'
 tags: []
 ---
@@ -68,6 +71,10 @@ Nenurodyta
     - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-009
+  teiginys: 'Melno taikos sąlygų įžeistas jautėsi ir pats imperatorius, nes buvo anuliuoti jo sprendimai (Budoje 1412, Vroclave 1420).'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -115,10 +122,24 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-008
+- c-004
+  santrauka: 'Melno taikos sąlygų įžeistas jautėsi ir pats imperatorius, nes buvo anuliuoti jo sprendimai (Budoje 1412, Vroclave 1420).'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Melno taikos sąlygų įžeistas jautėsi ir pats imperatorius, nes
+    buvo anuliuoti jo sprendimai (Budoje 1412, Vroclave 1420). Zig­
+    mantas taikėsi tačiau su Jogaila (1423), kai šis pažadėjo jį remti
+    prieš sunkiai įveikiamus husitus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/politinis-sprendimas]]
-
 ### Susiję objektai
 - [[objektai/asmenys/imperatorius Zigmantas]]
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/vietos/Vroclavas]]

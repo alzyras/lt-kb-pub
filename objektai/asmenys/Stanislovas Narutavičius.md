@@ -51,3 +51,10 @@ Kairys, Stanislovas Narutavičius, Jonas Vileišis ir M.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Gabrielis Narutovičius]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]

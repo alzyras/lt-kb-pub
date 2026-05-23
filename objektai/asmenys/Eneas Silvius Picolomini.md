@@ -49,3 +49,7 @@ Nors Eneas Silvius Picolomini ir perdeda, pa­ sakodamas apie jo žiaurumą, bet
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Europa]]

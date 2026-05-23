@@ -38,6 +38,10 @@ tags:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Tik 1394 metais jis puolė Vladimiro že­ mes ir paėmė Ovručą ir Žitomirą.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -55,7 +59,23 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Tik 1394 metais jis puolė Vladimiro že­ mes ir paėmė Ovručą ir Žitomirą.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tik 1394 metais jis puolė Vladimiro že­
+    mes ir paėmė Ovručą ir Žitomirą. Nusigandęs Vladimiras at­
+    važiavo Vytautui nusilenkti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Ovručas]]
+- [[objektai/vietos/Vladimiras]]
+- [[objektai/asmenys/Vladimiras Algirdaitis]]

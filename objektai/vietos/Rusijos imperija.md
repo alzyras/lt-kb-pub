@@ -6,6 +6,15 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1897 m.'
+periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
+periodo_grupes:
+  - 'naujieji laikai'
+amziai:
+  - 'XIX'
+date_start: '1897'
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - miestas
@@ -31,6 +40,10 @@ Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse Rusi
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Tačiau pirmasis visuotinis Rusijos imperijos gyventojų surašymas 1897 m. parodė, kad tarp etninių lietuvių mokančių skaityti yra bemaž pusė – 48 proc., o rusiškai iš jų tepaskaitė tik kas penktas.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -61,7 +74,30 @@ Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse Rusi
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Tačiau pirmasis visuotinis Rusijos imperijos gyventojų surašymas 1897 m. parodė, kad tarp etninių lietuvių mokančių skaityti yra bemaž pusė – 48 proc., o rusiškai iš jų tepaskaitė tik kas penktas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Ta-
+    čiau pirmasis visuotinis Rusijos
+    imperijos gyventojų surašymas
+    1897 m. parodė, kad tarp etninių
+    lietuvių mokančių skaityti yra be-
+    maž pusė – 48 proc., o rusiškai iš
+    jų tepaskaitė tik kas penktas. Pa-
+    gal raštingumą etniniai lietuviai
+    bemaž du kartus lenkė Rusijos
+    vidurkį ir nusileido, neskaitant žydų, tik latviams ir estams, kurie legaliai
+    mokėsi gimtąja kalba.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/ivykiai/1905 m. revoliucija Lietuvoje]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Rusija]]

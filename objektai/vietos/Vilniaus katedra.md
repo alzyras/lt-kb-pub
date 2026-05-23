@@ -9,6 +9,9 @@ saltiniai:
 datos:
   - '1399 m.'
   - '1531 m.'
+  - '1586 m.'
+  - '1784 m.'
+  - '1787 m.'
   - '1936 m.'
   - '2026 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
@@ -18,6 +21,7 @@ periodo_grupes:
 amziai:
   - 'XIV'
   - 'XVI'
+  - 'XVIII'
   - 'XX'
   - 'XXI'
 date_start: '1399'
@@ -65,6 +69,14 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   teiginys: 'Bet ši katedra 1399 metais sudegė.'
   pagrindžia:
     - c-006
+- t-007
+  teiginys: 'Nuo 1586 m. Nesvyžiaus jėzuitų bažnyčios iki Vilniaus katedros fasado skulptūrų, sukurtų 1784–1787 m. du šimtus metų Lietuva gyveno baroko dvasia.'
+  pagrindžia:
+    - c-007
+- t-008
+  teiginys: 'Vilniaus katedros Šv. Kazimiero koplyčia priskiriama europinės reikšmės kūriniams.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -154,3 +166,41 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Nuo 1586 m. Nesvyžiaus jėzuitų bažnyčios iki Vilniaus katedros fasado skulptūrų, sukurtų 1784–1787 m. du šimtus metų Lietuva gyveno baroko dvasia.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Nuo 1586 m. Nesvyžiaus jėzuitų bažnyčios iki Vilniaus katedros fasado
+    skulptūrų, sukurtų 1784–1787 m. du šimtus metų Lietuva gyveno baroko
+    dvasia.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: 'Vilniaus katedros Šv. Kazimiero koplyčia priskiriama europinės reikšmės kūriniams.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Sukurti europinės reikšmės kūriniai: Vilniaus katedros Šv. Kazimie-
+    ro koplyčia, Vilniaus Šv. Petro ir Povilo bažnyčia ar Pažaislio vienuolyno
+    ansamblis prie Kauno.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Nesvyžius]]
+- [[objektai/vietos/Pažaislis]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/barokas]]
+- [[objektai/daiktai/Vilniaus katedros portalo kolonada ir frontono skulptūros]]

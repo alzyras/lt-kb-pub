@@ -94,3 +94,9 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-009
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/Vėlė|vėlė]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/grupes/Lietuviai]]

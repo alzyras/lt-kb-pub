@@ -89,3 +89,13 @@ Karaliaus lėšomis buvo iškastas kitas kanalas, kuris jungia Pripetės intaką
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Dniepras]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Muchavcas]]
+- [[objektai/vietos/Nemuno-Dauguvos-Dniepro plotas]]
+- [[objektai/vietos/Pripetės pelkės]]
+- [[objektai/vietos/Ratne]]

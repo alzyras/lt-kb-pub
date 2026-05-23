@@ -78,3 +78,10 @@ Jie rūpinosi visais dvaro ūkio reikalais, stengėsi padidinti jo pro­ dukting
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/Lažas|lažas]]
+- [[objektai/zodynas/vergai]]
+- [[objektai/vietos/Žemaitija]]

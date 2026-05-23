@@ -153,4 +153,9 @@ B. Dundulis minimas kaip istorikas, tyrinėjęs lietuvių santykius ir kovas su 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Durbė]]
 - [[objektai/grupes/Istorikų kolektyvas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

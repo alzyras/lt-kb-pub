@@ -50,3 +50,10 @@ Jo nevykusiai padaryta bažnytinė unija sukiršino rytų apeigų tikinčiuosius
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/ritualas]]
+
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/zodynas/unija]]
+- [[objektai/ivykiai/Florencijos bažnytinė unija]]
+- [[objektai/grupes/Katalikų Bažnyčia]]

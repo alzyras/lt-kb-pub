@@ -21,7 +21,7 @@ Vartojamos formos: `vėlės`.
 
 ## Teiginiai
 - t-003
-  teiginys: '`Vėlė` šiame tekste reiškia mirusio žmogaus sielą.'
+  teiginys: 'Vėlėmis Daukanto tekste vadintos mirusiųjų dūšios, kurios galėdavo apsireikšti gyviesiems.'
   pagrindžia:
     - c-002
     - c-001
@@ -36,7 +36,7 @@ Vartojamos formos: `vėlės`.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '`Vėlė` šiame tekste reiškia mirusio žmogaus sielą.'
+  santrauka: 'Vėlėmis Daukanto tekste vadintos mirusiųjų dūšios, kurios galėdavo apsireikšti gyviesiems.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     (^686) siela, vėlė
@@ -70,3 +70,8 @@ Vartojamos formos: `vėlės`.
 ## Pastabos
 
 - Reikšmė gana aiški, bet tekstas ją aiškina per visą pomirtinio pasaulio vaizdinį.
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/paprociai/Aisčių laidotuvių ir vėlinių apeigos]]
+- [[objektai/autoriai/S. Daukantas]]

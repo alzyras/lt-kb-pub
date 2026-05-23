@@ -39,6 +39,10 @@ vadinamoji Juodoji Rusija su Naugarduku, Slanimu ir Volkovisku), kurį buvo už�
   teiginys: 'Tiesiogiai Gediminui priklausė tik Aukštaičiai, visos pietinės jotvingų žemės (vadinamoji Juodoji Rusija) ir artimos gudų sritys — Minskas, Vitebskas, Polockas.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Iš Juodojoje Rusijoje užimtųjų sričių Min­ daugas pasilaikė Slanimą ir Valkaviską, o sūnui Vaišvilkui^62 atidavė Naugarduką.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -75,3 +79,27 @@ vadinamoji Juodoji Rusija su Naugarduku, Slanimu ir Volkovisku), kurį buvo už�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Iš Juodojoje Rusijoje užimtųjų sričių Min­ daugas pasilaikė Slanimą ir Valkaviską, o sūnui Vaišvilkui^62 atidavė Naugarduką.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Iš Juodojoje Rusijoje užimtųjų sričių Min­
+    daugas pasilaikė Slanimą ir Valkaviską, o sūnui Vaišvilkui^62 atidavė
+    Naugarduką. Esą dėl pralieto kraujo sąžinės kamuojamas, Vaišvil­
+    kas priėmė graikišką krikštą, prie Nemuno «tarp Lietuvos ir Nau­
+    garduko » pasistatė vienuolyną ir ten atgailavo^63.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Nemunas]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Slanimas]]
+- [[objektai/vietos/Naugardukas]]

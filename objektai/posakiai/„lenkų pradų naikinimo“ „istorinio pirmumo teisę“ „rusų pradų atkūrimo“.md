@@ -87,5 +87,12 @@ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK �
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/zodynas/separatizmas]]
+- [[objektai/zodynas/pradai]]
+- [[objektai/zodynas/„lenkų pradai“ „rusų pradai“]]
 - [[objektai/posakiai/„lenkų pradų naikinimo“ „istorinio pirmumo teisę“]]
 - [[objektai/posakiai/„lenkų pradų naikinimo“ „rusų pradų atkūrimo“]]

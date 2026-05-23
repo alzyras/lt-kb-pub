@@ -64,7 +64,7 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
   pagrindžia:
     - c-003
 - t-013
-  teiginys: 'Mūšis Eiliuotoji Livonijos kronika pasakoja: „Bet kariuomenė lietuvių susirinko galinga.'
+  teiginys: 'Eiliuotoji Livonijos kronika pasakoja, kad lietuvių kariuomenė susirinko galinga ir žygiuodama didėjo.'
   pagrindžia:
     - c-004
 - t-014
@@ -76,10 +76,13 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
   pagrindžia:
     - c-006
 - t-016
-  teiginys: '“ Ištrauka iš „Livonijos kronikų“, kaip Lietuvos karaliai užėmė ką tik Ordino pastatytą Gotesverderio pilį prie Nemuno.'
+  teiginys: 'Livonijos kronikų ištraukoje teigiama, kad 1369 m. Lietuvos karaliai užėmė ką tik Ordino pastatytą Gotesverderio pilį prie Nemuno.'
   pagrindžia:
     - c-007
-
+- t-017
+  teiginys: 'Beveik trečdalį savo kronikos paskyręs Livonijos ordino santykiams su Lietuva, Eiliuo­ tinės Livonijos kronikos autorius Žemaičius tapatino su lietuviais (« den Lettowen, die Sameiten sin genannt », eil.'
+  pagrindžia:
+    - c-008
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Lietuvių pajėgos Eiliuota Livonijos kronika, aprašydama Skuodo mūšį (1259 m.), mini žemaičius, bet vėliau, Durbės mūšio išvakarėse, prie Vartajų, Georgenburgo ir pačiame mūšyje — tik lietuvius arba „pagonis“.'
@@ -102,7 +105,7 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
   pagrindžia:
     - t-012
 - c-004
-  santrauka: 'Mūšis Eiliuotoji Livonijos kronika pasakoja: „Bet kariuomenė lietuvių susirinko galinga.'
+  santrauka: 'Eiliuotoji Livonijos kronika pasakoja, kad lietuvių kariuomenė susirinko galinga ir žygiuodama didėjo.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mūšis
@@ -188,7 +191,7 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
   pagrindžia:
     - t-015
 - c-007
-  santrauka: '“ Ištrauka iš „Livonijos kronikų“, kaip Lietuvos karaliai užėmė ką tik Ordino pastatytą Gotesverderio pilį prie Nemuno.'
+  santrauka: 'Livonijos kronikų ištraukoje teigiama, kad 1369 m. Lietuvos karaliai užėmė ką tik Ordino pastatytą Gotesverderio pilį prie Nemuno.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     “
@@ -209,7 +212,22 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-016
-
+- c-008
+  santrauka: 'Beveik trečdalį savo kronikos paskyręs Livonijos ordino santykiams su Lietuva, Eiliuo­ tinės Livonijos kronikos autorius Žemaičius tapatino su lietuviais (« den Lettowen, die Sameiten sin genannt », eil.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Beveik trečdalį savo
+    kronikos paskyręs Livonijos ordino santykiams su Lietuva, Eiliuo­
+    tinės Livonijos kronikos autorius Žemaičius tapatino su lietuviais
+    (« den Lettowen, die Sameiten sin genannt », eil. 4466).
+    Lietuva Žemaičiuose apėmė plotą į vakarus nuo Nevėžio, t.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
 ## Bibliografiniai įrodymai
 - c-001
   santrauka: 'Įdomu, kad apie jodinėjančias ir narsias moteris lietgalių žemėje kalba dar Eilėtoji Livonijos kronika (eil.'

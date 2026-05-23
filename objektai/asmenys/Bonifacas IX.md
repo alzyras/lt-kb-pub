@@ -88,6 +88,10 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Domininkonų ordinas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Malburgas]]
+- [[objektai/zodynas/Vakarų Bažnyčios schizma]]
+- [[objektai/vietos/Šventoji]]
 - [[objektai/zodynas/neofitas]]

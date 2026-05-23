@@ -47,3 +47,10 @@ Kaime buvo įsikūręs lenkų brigados ir Gardino pulko štabas, lauko artilerij
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Artilerija]]
+- [[objektai/vietos/Gardinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]

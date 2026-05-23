@@ -58,3 +58,11 @@ Jam vadovavo jaunesnieji Mengli-Girėjaus sūnūs Fatihas ir Burnašas. Mengli-G
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/laiškas]]
+
+### Susiję objektai
+- [[objektai/vietos/Kazanė]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/zodynas/chanas]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

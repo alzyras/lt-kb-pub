@@ -66,3 +66,14 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
+- [[objektai/vietos/Ragainė]]
+- [[objektai/asmenys/Traidenis]]
+- [[objektai/asmenys/Vytenis]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

@@ -55,3 +55,12 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Auksinė Orda]]
+- [[objektai/vietos/Gardinas]]
+- [[objektai/asmenys/Traidenis]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/asmenys/Mamšėjus]]
+- [[objektai/vietos/Lietuva]]

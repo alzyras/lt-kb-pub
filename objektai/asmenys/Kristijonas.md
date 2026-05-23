@@ -43,9 +43,13 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: 'Mozūrų kunigaikštis Konradas ir pirmasis prū­ sų vyskupas misionorius Kristijonas, negalėdami apsiginti nuo prūsų puolimų, atsikviečia pagalbon darbo nebeturintį vokie­ čių „Mergelės Marijos” Ordiną, kuris dėl ant apsiaustų nešio­ jamų kryžių paprastai.'
+  teiginys: '1230 m. Kristijonas, pirmasis prūsų vyskupas misionorius, su Mozūrų kunigaikščiu Konradu pasikvietė į pagalbą Mergelės Marijos ordiną.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Mindaugas įžvalgiai pasirinko pagalbininką – Livonijos ordino brolį kunigą Kristijoną, iš kurio gavo informaciją apie Katalikų bažnyčios organizaciją ir popiežiaus santykius su Europos valdovais, ypač imperatoriumi.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -85,7 +89,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Mozūrų kunigaikštis Konradas ir pirmasis prū­ sų vyskupas misionorius Kristijonas, negalėdami apsiginti nuo prūsų puolimų, atsikviečia pagalbon darbo nebeturintį vokie­ čių „Mergelės Marijos” Ordiną, kuris dėl ant apsiaustų nešio­ jamų kryžių paprastai.'
+  santrauka: '1230 m. Kristijonas, pirmasis prūsų vyskupas misionorius, su Mozūrų kunigaikščiu Konradu pasikvietė į pagalbą Mergelės Marijos ordiną.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     1230 met. Mozūrų kunigaikštis Konradas ir pirmasis prū­
@@ -102,3 +106,32 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Mindaugas įžvalgiai pasirinko pagalbininką – Livonijos ordino brolį kunigą Kristijoną, iš kurio gavo informaciją apie Katalikų bažnyčios organizaciją ir popiežiaus santykius su Europos valdovais, ypač imperatoriumi.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Mindaugas įžvalgiai pasirinko pagalbininką – Livonijos ordino bro-
+    lį kunigą Kristijoną, iš kurio gavo informaciją apie Katalikų bažnyčios
+    organizaciją ir popiežiaus santykius su Europos valdovais, ypač impera-
+    toriumi. Papirkęs magistrą Andrių Štirlandą, per savo pasiuntinį popie-
+    žiui išdėstė sąlygas, kurios buvo naudingesnės Lietuvai, o ne Livonijai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Europa]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/zodynas/kunigas]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/grupes/Dobrinės ordinas]]
+- [[objektai/ivykiai/Dobrinės ordino įkūrimas]]
+- [[objektai/ivykiai/Kristijono įšventinimas Lietuvos vyskupu ir Lietuvos vyskupijos išskyrimas (1254 m.)]]
+- [[objektai/paprociai/Lietuvos valdovų laidojimas pagoniškais papročiais]]
+- [[objektai/zodynas/interliudas]]
+- [[objektai/grupes/Katalikų Bažnyčia]]

@@ -41,6 +41,7 @@ periodo_grupes:
   - 'LDK'
 amziai:
   - 'XIV'
+  - 'XV'
   - 'XX'
   - 'XXI'
 date_start: '1362'
@@ -103,6 +104,14 @@ Nenurodyta
   teiginys: 'Sumušdamas totorius 1362 m. prie Būgo prieupio Mėlynųjų Vandenų — « Sine Wody » (arti Juodosios jūros), Algirdas laimėjo ne tik plačią Podoliją, turtingą žemę palei Dniestrą, bet ir patį Dniepro žemupį, kuris tada buvo tuščias^13.'
   pagrindžia:
     - c-006
+- t-015
+  teiginys: 'Rogožos metraštyje rašoma, kad 1363 m. rudenį Algirdas nukariavo Mėlynuosius Vandenis ir Baltąją pakrantę.'
+  pagrindžia:
+    - c-007
+- t-016
+  teiginys: 'Strijkovskis) teigia, kad Algirdas, sutelkęs savo lietuvių pajėgas, žygiuodamas Padniepre pro Kanevą, Čerkasus, ties Mėlynaisiais Vandenimis sumušęs totorius.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -241,10 +250,51 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-014
+- c-007
+  santrauka: 'Rogožos metraštyje rašoma, kad 1363 m. rudenį Algirdas nukariavo Mėlynuosius Vandenis ir Baltąją pakrantę.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Mėlynųjų Vandenų įvykių pagrindi-
+    niai šaltiniai: žinios xv a. pirmosios pusės
+    rusų Tverės sąvade - Rogožos metraštyje
+    prieš 6871 (1363) m. sakoma, kad rudenį
+    Algirdas „Mėlynuosius Vandenis ir Baltąją
+    pakrantę nukariavo“.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
+- c-008
+  santrauka: 'Strijkovskis) teigia, kad Algirdas, sutelkęs savo lietuvių pajėgas, žygiuodamas Padniepre pro Kanevą, Čerkasus, ties Mėlynaisiais Vandenimis sumušęs totorius.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Trumpojoje Lietuvos
+    metraščių redakcijoje (xv a. 4-5 de-
+    šimtmečiai) įrašytas „Pasakojimas apie
+    Podolę“ - plačiausiai kalbantis šaltinis
+    šia tema. Istorinė tradicija (jai atstovauja
+    M. Strijkovskis) teigia, kad Algirdas, su-
+    telkęs savo lietuvių pajėgas, žygiuoda-
+    mas Padniepre pro Kanevą, Čerkasus, ties
+    Mėlynaisiais Vandenimis sumušęs totorius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/vietos/Dniepras]]
-- [[objektai/autoriai/M. Strijkovskis]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Tverė]]
 - [[objektai/posakiai/„Mėlynuosius Vandenis ir Baltąją pakrantę nukariavo“]]
+- [[objektai/autoriai/M. Strijkovskis]]
+- [[objektai/vietos/Mėlynieji Vandenys]]

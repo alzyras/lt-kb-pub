@@ -52,3 +52,11 @@ Lietuvos istorijos klausimus nuo XIII a. vidurio iki Liublino unijos savo paskai
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Liublinas]]
+- [[objektai/zodynas/unija]]
+- [[objektai/vietos/Peterburgas]]

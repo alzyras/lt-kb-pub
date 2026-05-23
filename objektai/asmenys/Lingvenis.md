@@ -54,3 +54,10 @@ Pagal tas sutartis didysis kunigaikštis Jogaila, — pritariamas motinos Julijo
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Dubysa]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/supremus dux ir magnus dux]]

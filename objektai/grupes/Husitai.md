@@ -173,3 +173,20 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Kaributas]]
+- [[objektai/vietos/Konstancija]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Ryga]]
+- [[objektai/vietos/Vokietija]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/ciesorius]]
+- [[objektai/grupes/Čekai]]
+- [[objektai/vietos/Čekija]]
+- [[objektai/ivykiai/Husitų karališko vainiko pasiūlymas Jogailai ir Vytautui bei Zigmanto Kaributo siuntimas į Čekiją]]
+- [[objektai/daiktai/Šv. Vaclovo karūna]]
+- [[objektai/ivykiai/Šv. Vaclovo karūnos pasiūlymas Jogailai ir Vytauto sutikimas priimti čekų karūną (1420–1421 m.)]]

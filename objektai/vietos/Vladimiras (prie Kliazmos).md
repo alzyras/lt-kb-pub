@@ -55,3 +55,13 @@ Iš vis labiau silpnėjančio Kijevo metropolijos rezidencijos perkėlimas į Vl
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/vietos/Kijevas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/zodynas/metropolija]]
+- [[objektai/zodynas/metropolitas]]

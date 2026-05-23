@@ -44,3 +44,8 @@ Pagaliau baudžiamosios (kriminalinės) bylos buvo pavestos spręsti trečiam, v
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Viena]]
+- [[objektai/zodynas/urėdas]]

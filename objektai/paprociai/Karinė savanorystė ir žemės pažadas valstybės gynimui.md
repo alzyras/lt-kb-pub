@@ -109,3 +109,10 @@ Nepriklausomybės kovų metu karinė savanorystė siejama su entuziastingu stoji
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/socialinė-praktika]]
+
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/M. Sleževičius]]

@@ -86,3 +86,12 @@ VYČIO APYGARDOS vadas Alfonsas Smetona-Žygaudas (1915-1950), buvęs policinink
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Algimanto apygarda]]
+- [[objektai/vietos/Viena]]
+- [[objektai/grupes/Kunigaikščio Margio rinktinė]]
+- [[objektai/grupes/Tumo Vaižganto rinktinė]]
+- [[objektai/grupes/Vytauto apygarda]]
+- [[objektai/grupes/Žalioji rinktinė]]

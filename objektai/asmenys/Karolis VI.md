@@ -51,3 +51,15 @@ Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyk
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Dubysa]]
+- [[objektai/vietos/Europa]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Nemunas]]
+- [[objektai/vietos/Prancūzija]]
+- [[objektai/vietos/Vokietija]]
+- [[objektai/zodynas/elektorius]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/vietos/Čekija]]

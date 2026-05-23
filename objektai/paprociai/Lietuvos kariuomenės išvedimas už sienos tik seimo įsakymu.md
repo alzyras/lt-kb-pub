@@ -79,3 +79,12 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/grupes/Pacai]]
+- [[objektai/zodynas/hetmonas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]

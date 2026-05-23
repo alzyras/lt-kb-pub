@@ -76,3 +76,15 @@ Lemiamasis Vytauto žygis, vietoje Timuro ir jo emiro Edigos (Edigiu) pasodinti 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Auksinė Orda]]
+- [[objektai/vietos/Dniepras]]
+- [[objektai/vietos/Kijevo Rusia]]
+- [[objektai/vietos/Konstantinopolis]]
+- [[objektai/vietos/Vorskla]]
+- [[objektai/zodynas/chanas]]
+- [[objektai/ivykiai/Vorsklos mūšis]]
+- [[objektai/daiktai/Vytauto ženklas]]
+- [[objektai/zodynas/žygis]]

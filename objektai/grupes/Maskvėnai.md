@@ -38,3 +38,16 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Rusija]]
+- [[objektai/grupes/Slavai]]
+- [[objektai/ivykiai/B. Serebriano kariuomenės sutriuškinimas po Ulos mūšio]]
+- [[objektai/grupes/Livonijos kunigaikštystė]]
+- [[objektai/grupes/Maskvos kariuomenė]]
+- [[objektai/grupes/Rusėnai]]
+- [[objektai/vietos/Dubrovna]]
+- [[objektai/vietos/Kopilino]]
+- [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]
+- [[objektai/asmenys/Zigmantas Vaza]]

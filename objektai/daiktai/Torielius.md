@@ -72,5 +72,9 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Aukuras]]
+- [[objektai/daiktai/Taurės]]
+- [[objektai/vietos/Viena]]
+- [[objektai/zodynas/Miera|miera]]
 - [[objektai/daiktai/Dievų stabai]]
 - [[objektai/paprociai/Išeiginės aukos per metines viešes]]

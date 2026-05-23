@@ -39,6 +39,10 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Svarstant Valstybės Dūmoje Lenkijos politinės autonomijos klausimą lietuvių veikėjai išsakė mintį, kad tokiu atveju nuo karalystės reikėtų atskirti jos lietuviškąją dalį, t.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -57,3 +61,27 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Svarstant Valstybės Dūmoje Lenkijos politinės autonomijos klausimą lietuvių veikėjai išsakė mintį, kad tokiu atveju nuo karalystės reikėtų atskirti jos lietuviškąją dalį, t.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Svarstant
+    Valstybės Dūmoje Lenkijos politinės autonomijos klausimą lietuvių veikė-
+    jai išsakė mintį, kad tokiu atveju nuo karalystės reikėtų atskirti jos lietuviš-
+    kąją dalį, t. y. Lietuvos Užnemunę, kuri dabar dažniausiai buvo vadinama
+    Suvalkija (mat didžioji jos dalis priklausė Suvalkų gubernijai).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/gubernija]]
+- [[objektai/vietos/Suvalkų gubernija]]

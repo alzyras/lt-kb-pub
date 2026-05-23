@@ -17,6 +17,8 @@ datos:
   - '1350 m.'
   - '1430 m.'
   - '1918 m.'
+  - '1919 m.'
+  - '1920 m.'
   - '1930 m.'
   - '1936 m.'
   - '1945 m.'
@@ -60,7 +62,7 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-009
-  teiginys: 'Pasiūliau pulti Merkinę.'
+  teiginys: '1945 m. Merkinės puolimas buvo pasiūlytas kaip atsakas priešui po sprendimo atkeršyti.'
   pagrindžia:
     - c-003
 - t-010
@@ -71,6 +73,22 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   teiginys: 'Antrasis būrys be įsakymo MERKINĖS PUOLIMAS 1945 m. gruodžio 15 d. dalyvavę būriai ir pamažu atsitraukė iš miestelio.'
   pagrindžia:
     - c-005
+- t-012
+  teiginys: 'Dešinysis Nemuno aukštupio krantas, kurio plote nuo Gardino link Merkinės tęsėsi miškų masyvas, buvo ištisai lietuvių gyvena­ mas.'
+  pagrindžia:
+    - c-006
+- t-013
+  teiginys: 'Čia jis aplankė didesnius Lietuvos miestelius, kaip Ašmeną, Lydą, Krėvę, Eišiškius, Merkinę, Gardiną ir k., kur buvo sukviečiami vietiniai ir iš apylinkių žmonės ir, pamo­ kius juos tikėjimo tiesų, krikštijami.'
+  pagrindžia:
+    - c-007
+- t-014
+  teiginys: 'Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­ gijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir ja iki Aukokalnio, buvusio ties dabartine Betygala.'
+  pagrindžia:
+    - c-008
+- t-015
+  teiginys: '7 d. Ta sutartis, nespręsdama sienų klausimo, nustatė demarkacijos liniją Suvalkų krašte, kaip ją buvo nustačiusi 1919 metų gruodžio 8 d. Aukščiausioji Santarvės Taryba (Kerzono linija); bet toliau už Nemuno — visą Gardino apskritį ligi Merkinės, Varėnos ir.'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -110,7 +128,7 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   pagrindžia:
     - t-008
 - c-003
-  santrauka: 'Pasiūliau pulti Merkinę.'
+  santrauka: '1945 m. Merkinės puolimas buvo pasiūlytas kaip atsakas priešui po sprendimo atkeršyti.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Nutarėme priešui atkeršyti. Pasiūliau pulti Merkinę.
@@ -187,6 +205,74 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-011
+- c-006
+  santrauka: 'Dešinysis Nemuno aukštupio krantas, kurio plote nuo Gardino link Merkinės tęsėsi miškų masyvas, buvo ištisai lietuvių gyvena­ mas.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Dešinysis Nemuno aukštupio krantas, kurio plote nuo Gardino
+    link Merkinės tęsėsi miškų masyvas, buvo ištisai lietuvių gyvena­
+    mas. Tai parodo, be kitko, iki pat dabar gudiškai kalbančiųjų
+    plote, arti Nemuno, išlikusi lietuvių kalbos sala — Lazūnai (į rytus
+    nuo Lydos).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+- c-007
+  santrauka: 'Čia jis aplankė didesnius Lietuvos miestelius, kaip Ašmeną, Lydą, Krėvę, Eišiškius, Merkinę, Gardiną ir k., kur buvo sukviečiami vietiniai ir iš apylinkių žmonės ir, pamo­ kius juos tikėjimo tiesų, krikštijami.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Čia jis aplankė didesnius Lietuvos miestelius,
+    kaip Ašmeną, Lydą, Krėvę, Eišiškius, Merkinę, Gardiną ir k.,
+    kur buvo sukviečiami vietiniai ir iš apylinkių žmonės ir, pamo­
+    kius juos tikėjimo tiesų, krikštijami. Į kitas mažiau apgyven­
+    tas vietas, kur karalius neužvažiuodavo, buvo siunčiami žmonių
+    krikštyti kunigai ir vienuoliai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+- c-008
+  santrauka: 'Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­ gijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir ja iki Aukokalnio, buvusio ties dabartine Betygala.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­
+    gijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir
+    ja iki Aukokalnio, buvusio ties dabartine Betygala. Nuo šios
+    vietos ir buvo pradėtas apaštalavimo darbas Žemaitijoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
+- c-009
+  santrauka: '7 d. Ta sutartis, nespręsdama sienų klausimo, nustatė demarkacijos liniją Suvalkų krašte, kaip ją buvo nustačiusi 1919 metų gruodžio 8 d. Aukščiausioji Santarvės Taryba (Kerzono linija); bet toliau už Nemuno — visą Gardino apskritį ligi Merkinės, Varėnos ir.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Suvalkų derybos pasibaigė susitarimu, kurį abi ša-
+    lys pasirašė 1920 metų spalių mėn. 7 d. Ta sutartis, nespręs-
+    dama sienų klausimo, nustatė demarkacijos liniją Suvalkų kraš-
+    te, kaip ją buvo nustačiusi 1919 metų gruodžio 8 d. Aukščiau-
+    sioji Santarvės Taryba (Kerzono linija); bet toliau už Nemuno
+    — visą Gardino apskritį ligi Merkinės, Varėnos ir Bastūnų
+
+    (prie Lydos—Vilniaus geležinkelio) sutartis paliko Lenkų pu-
+    sėje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
 
 ## Ryšiai
 ### Susiję objektai
@@ -194,5 +280,23 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
 - [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.)]]
 - [[objektai/vietos/Ukmergė]]
 - [[objektai/vietos/Varėna]]
-- [[objektai/grupes/Aukščiausioji Santarvininkių Taryba]]
-- [[objektai/zodynas/demarkacijos linija]]
+- [[objektai/vietos/Gardinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Nemunas]]
+- [[objektai/vietos/Aukokalnis]]
+- [[objektai/autoriai/Dalius Žygelis]]
+- [[objektai/vietos/Dubysos upė]]
+- [[objektai/vietos/Dzūkija]]
+- [[objektai/autoriai/H. Łowmiański]]
+- [[objektai/vietos/Kiauneliškiai]]
+- [[objektai/vietos/Lazūnai]]
+- [[objektai/daiktai/Medinės pilys]]
+- [[objektai/grupes/Merkinės batalionas]]
+- [[objektai/vietos/Merkinės dvaras]]
+- [[objektai/vietos/Merkinės piliakalnis]]
+- [[objektai/grupes/Merkio rinktinė]]
+- [[objektai/autoriai/Ričardas Čekutis]]
+- [[objektai/vietos/Subartonys]]
+- [[objektai/daiktai/Tanketė]]
+- [[objektai/vietos/Turgeliai]]
+- [[objektai/ivykiai/Žemaičių krikštas]]

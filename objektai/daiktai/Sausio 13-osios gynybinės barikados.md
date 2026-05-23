@@ -116,3 +116,8 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/karo-reikmuo]]
+
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/ivykiai/Sausio 13-oji ir Vilniaus televizijos bokšto šturmas (1991 m. sausio 12–13 d.)]]

@@ -94,3 +94,11 @@ Formulė priešpriešina juridinius aktus ir tikrąją politinio gyvenimo eigą.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Katra]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/unija]]

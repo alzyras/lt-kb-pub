@@ -45,4 +45,5 @@ Visą reformą pagal manifestą ir papildomuosius įsakymus (ukazus) reikėjo at
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/Baudžiava]]
 - [[objektai/ivykiai/Baudžiavos panaikinimas Rusijos imperijoje (1861 m.)]]

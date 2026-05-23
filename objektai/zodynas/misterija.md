@@ -50,3 +50,9 @@ Misterijos „LIKIMO KELIAIS” II da­ lis, su priedu — V.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/autoriai/V. Bičiūnas]]
+- [[objektai/autoriai/Vincas Krėvė]]

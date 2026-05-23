@@ -47,3 +47,8 @@ Be to, stačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
+
+### Susiję objektai
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/paprociai/Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme]]
+- [[objektai/grupes/Čartoriskiai]]

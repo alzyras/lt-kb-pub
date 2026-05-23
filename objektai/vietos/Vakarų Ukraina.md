@@ -43,4 +43,11 @@ Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Baltarusija]]
 - [[objektai/vietos/Baltoji Rusia]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/vietos/Kijevo Rusia]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/vietos/Ukraina]]
+- [[objektai/vietos/Vitebskas]]

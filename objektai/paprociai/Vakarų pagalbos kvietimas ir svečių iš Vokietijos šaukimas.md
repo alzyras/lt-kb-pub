@@ -74,4 +74,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kalavijuočių ordinas]]
-- [[objektai/daiktai/Baltas apsiaustas su išsiuvinėtu kalaviju]]
+- [[objektai/vietos/Palestina]]
+- [[objektai/vietos/Vokietija]]
+- [[objektai/zodynas/kryžininkai]]

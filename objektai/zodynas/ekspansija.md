@@ -54,3 +54,27 @@ tags: []
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Vytenis]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/vietos/Dauguva]]
+- [[objektai/grupes/Galindai]]
+- [[objektai/vietos/Gotlandas]]
+- [[objektai/vietos/Grobinė]]
+- [[objektai/zodynas/Nepriklausomybės kovos]]
+- [[objektai/vietos/Protvos upė]]
+- [[objektai/paprociai/Reguliarūs lietuvių grobiamieji žygiai į kaimynų baltų ir slavų žemes]]
+- [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)]]
+- [[objektai/vietos/Sauslaukė]]
+- [[objektai/vietos/Seeburgas]]
+- [[objektai/asmenys/Teodoras (Gedimino brolis)]]
+- [[objektai/asmenys/Timūras (Tamerlanas)]]
+- [[objektai/vietos/Ukraina]]
+- [[objektai/asmenys/Uzbeko]]
+- [[objektai/vietos/Valakija]]
+- [[objektai/zodynas/komputas]]

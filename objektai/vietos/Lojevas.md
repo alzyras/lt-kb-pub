@@ -105,5 +105,18 @@ Ties Lojevu jie persikėlė į dešinįjį Dniepro krantą ir paspartinę žygio
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Artilerija]]
+- [[objektai/vietos/Dniepras]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Maskva]]
 - [[objektai/vietos/Mozyrius]]
+- [[objektai/vietos/Sluckas]]
+- [[objektai/asmenys/V. Gosievskis]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/autoriai/A. Vijūkas Kojelavičius]]
+- [[objektai/ivykiai/Bogdano Chmelnickio vadovaujamas Ukrainos kazokų sukilimas (1648–1651 m.)]]
+- [[objektai/ivykiai/Krymo totorių įsiveržimas į Lietuvą (1506 m.)]]
+- [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.)]]
+- [[objektai/vietos/Salaspilis]]
 - [[objektai/vietos/Sožos upė]]
+- [[objektai/zodynas/pikinierius pikinieriai]]

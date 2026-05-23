@@ -56,4 +56,8 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Dainava]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
+- [[objektai/grupes/Pietų Lietuvos (Nemuno) sritis]]
 - [[objektai/grupes/Lietuvos gynybos pajėgos]]

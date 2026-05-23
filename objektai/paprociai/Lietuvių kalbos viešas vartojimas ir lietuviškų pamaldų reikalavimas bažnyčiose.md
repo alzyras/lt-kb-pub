@@ -42,7 +42,7 @@ Nenurodyta
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Dėl lietuvių kalbos teisių Vilniaus vyskupijos bažnyčiose kovota kartu su būsimų tautininkų grupe apie „Viltį“.'
+  teiginys: 'Būsimų tautininkų grupuotė apie „Vilties“ žurnalą kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -79,7 +79,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Dėl lietuvių kalbos teisių Vilniaus vyskupijos bažnyčiose kovota kartu su būsimų tautininkų grupe apie „Viltį“.'
+  santrauka: 'Būsimų tautininkų grupuotė apie „Vilties“ žurnalą kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     timo organizacijas, gausią spaudą. Daugiausia dėmesio jie skyrė katalikišką
@@ -94,3 +94,10 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Viena]]
+- [[objektai/vietos/Vilnius]]

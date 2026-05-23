@@ -53,3 +53,7 @@ Kairioji vora puolimą pradėjo ## Puslapis 183 sėkmingai, tačiau ties Radikon
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/vora]]

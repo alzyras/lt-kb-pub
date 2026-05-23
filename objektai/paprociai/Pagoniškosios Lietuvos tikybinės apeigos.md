@@ -64,3 +64,7 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/ritualas]]
+
+### Susiję objektai
+- [[objektai/vietos/Europa]]
+- [[objektai/vietos/Lietuva]]

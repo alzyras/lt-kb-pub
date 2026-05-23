@@ -68,4 +68,8 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Latvija]]
+- [[objektai/vietos/Radviliškis]]
+- [[objektai/vietos/Smilgiai]]
+- [[objektai/vietos/Šiauliai]]
 - [[objektai/vietos/Kretinga]]

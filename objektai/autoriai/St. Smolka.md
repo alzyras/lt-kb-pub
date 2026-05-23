@@ -73,3 +73,8 @@ Smolka: Kiejstut i Jagiełło , 1889, 99p. (^8) SRP, II, 601; III, 115116 p. Smo
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Krokuva]]

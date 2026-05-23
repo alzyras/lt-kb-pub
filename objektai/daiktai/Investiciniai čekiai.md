@@ -174,4 +174,5 @@ Nenurodyta
 - [[temos/pinigai]]
 
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
 - [[objektai/paprociai/Valstybinio turto privatizavimas investiciniais čekiais]]

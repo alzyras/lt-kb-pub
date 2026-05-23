@@ -46,6 +46,18 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
   teiginys: 'Jos buvo pravestos nuo Mozūrijos sienos upe aukštyn į Grajevo ir Ragordo ežerus, iš čia pro Vištyčio ežerą į Leipūnos upę, toliau Leipūnos ir Šir­ vintos upėmis iki Šešupės ir nuo jos tiesiai į Nemuną prie Sma­ lininkų; iš čia — į Palangą, paliekant Ordinui.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Bet Užnemunė buvo padalinta, ir ordinui atiteko dalis didžiųjų girių, tiesia linija nuo Salyno į Šešupę.'
+  pagrindžia:
+    - c-004
+- t-005
+  teiginys: 'Sūduvos dykroje toliau siena buvo nužymėta upių krantais : visu Lieponos paupiu iki Širvintos upės ir šios krantu iki įtekėjimo Šešupėn.'
+  pagrindžia:
+    - c-005
+- t-006
+  teiginys: '89 Šešuoliai 233 Šešupė 326, 333, 359 Šiauliai 68, 108, 168, 180 ; Šiaulių ekonomija 79 ; žr.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -102,3 +114,76 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Bet Užnemunė buvo padalinta, ir ordinui atiteko dalis didžiųjų girių, tiesia linija nuo Salyno į Šešupę.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Bet Užnemunė
+    buvo padalinta, ir ordinui atiteko dalis didžiųjų girių, tiesia linija
+    nuo Salyno į Šešupę. Toliau siena apytikriai buvo nužymėta upė­
+    mis (Šešupė, Neta, Bebras, Narevas).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: 'Sūduvos dykroje toliau siena buvo nužymėta upių krantais : visu Lieponos paupiu iki Širvintos upės ir šios krantu iki įtekėjimo Šešupėn.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Sūduvos dykroje toliau siena buvo nužymėta upių krantais :
+    visu Lieponos paupiu iki Širvintos upės ir šios krantu iki įtekėjimo
+    Šešupėn. Šešupės krantu ji ėjo per girių masyvus. Jos žemupys
+    paliekamas ordinui, nes nuo į vakarus pasukančios Šešupės siena
+    tiesia linija į Nemuną buvo išvesta ten, kur priešais dešinėje Ne­
+    muno pusėje įteka Šventoji.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: '89 Šešuoliai 233 Šešupė 326, 333, 359 Šiauliai 68, 108, 168, 180 ; Šiaulių ekonomija 79 ; žr.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    89
+    Šešuoliai 233
+    Šešupė 326, 333, 359
+    Šiauliai 68, 108, 168, 180 ; Šiaulių
+    ekonomija 79 ; žr.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Liepona]]
+- [[objektai/vietos/Narevas]]
+- [[objektai/vietos/Nemunas]]
+- [[objektai/vietos/Salynas]]
+- [[objektai/vietos/Sūduva]]
+- [[objektai/vietos/Užnemunė]]
+- [[objektai/zodynas/dykra]]
+- [[objektai/zodynas/ekonomija]]
+- [[objektai/vietos/Šešuoliai]]
+- [[objektai/vietos/Šiauliai]]
+- [[objektai/vietos/Šiaulių ekonomija]]
+- [[objektai/vietos/Širvintos]]
+- [[objektai/vietos/Šventoji]]
+- [[objektai/vietos/Grajevo]]
+- [[objektai/vietos/Kulautuva]]
+- [[objektai/vietos/Leipūnos upė]]
+- [[objektai/vietos/Ragordo ežerai]]
+- [[objektai/vietos/Salyne]]
+- [[objektai/vietos/Smalininkai]]
+- [[objektai/vietos/Širvinta]]
+- [[objektai/vietos/Širvintos upė]]

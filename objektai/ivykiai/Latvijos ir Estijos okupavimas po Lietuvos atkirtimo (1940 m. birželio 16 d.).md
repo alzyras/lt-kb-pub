@@ -6,6 +6,15 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1940 m.'
+periodas: 'okupacijų ir sovietmečio laikotarpis'
+periodo_grupes:
+  - 'XX a.'
+amziai:
+  - 'XX'
+date_start: '1940'
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - ivykis
@@ -42,6 +51,10 @@ Nenurodyta
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Lietuvos sovietizacija 1940 m. birželio 16 d., sovietų divizijoms žygiu per Lietuvos teritoriją strategiškai atkirtus Latviją ir Estiją nuo Vokietijos, žaibu okupuotos ir dvi gretimos Baltijos valstybės.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -60,3 +73,29 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
+- c-002
+  santrauka: 'Lietuvos sovietizacija 1940 m. birželio 16 d., sovietų divizijoms žygiu per Lietuvos teritoriją strategiškai atkirtus Latviją ir Estiją nuo Vokietijos, žaibu okupuotos ir dvi gretimos Baltijos valstybės.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuvos sovietizacija
+    1940 m. birželio 16 d., sovietų divizijoms žygiu per Lietu-
+    vos teritoriją strategiškai atkirtus Latviją ir Estiją nuo Vokietijos, žaibu
+    okupuotos ir dvi gretimos Baltijos valstybės. Nuo šiol trijulės likimas
+    taps nepaprastai panašus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Baltija]]
+- [[objektai/vietos/Estija]]
+- [[objektai/vietos/Latvija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/grupes/Baltijos valstybės]]

@@ -87,3 +87,18 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/įrankis]]
+
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/asmenys/Antanas Merkys]]
+- [[objektai/autoriai/L. Truska]]
+- [[objektai/ivykiai/Liaudies vyriausybės sudarymas (1940 m. birželio 17 d.)]]
+- [[objektai/autoriai/P. Žostautaitė]]
+- [[objektai/autoriai/S. Samalavičius]]
+- [[objektai/autoriai/V. Merkys]]
+- [[objektai/autoriai/V. Milius]]
+- [[objektai/posakiai/„gal neokupuos“ „o gal nesovietizuos “]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/autoriai/A. Merkys]]

@@ -91,4 +91,9 @@ Pirmasis visuotinis Tautų S-gos susirinkimas (1920. S-gos susirinkimas, be to, 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Estija]]
+- [[objektai/vietos/Latvija]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Rusija]]
 - [[objektai/vietos/Čekoslovakija]]

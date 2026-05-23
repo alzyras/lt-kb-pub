@@ -47,5 +47,8 @@ Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira vyk
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/etmonas]]
+- [[objektai/zodynas/statutas]]
 - [[objektai/daiktai/Didysis Lietuvos antspaudas]]
 - [[objektai/zodynas/federacija federacinė valstybė]]

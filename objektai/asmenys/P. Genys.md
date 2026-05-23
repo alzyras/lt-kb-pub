@@ -52,4 +52,5 @@ Birželio 3 d. P. Genys užima Svėdasus. | O po to Užpalius ir birželio 5 d. 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Antalieptė]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/vietos/Užpaliai]]

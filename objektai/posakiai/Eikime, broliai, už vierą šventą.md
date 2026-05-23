@@ -65,4 +65,5 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/paprociai/Sukilėlių telkimas Salose per bažnyčios varpų skambinimą ir dvikalbį pamokslą]]
-- [[objektai/asmenys/Antanas Mackevičius]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/kunigas]]

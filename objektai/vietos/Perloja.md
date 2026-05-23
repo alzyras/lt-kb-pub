@@ -49,6 +49,14 @@ tags:
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Marcinkonių bataliono vyrams buvo nesmagu dėl savo pavėlavimo į kautynes, todėl jie kitą, gruodžio 16 d. puolė Perlojos stribų įgulą ir ją sunaikino.'
+  pagrindžia:
+    - c-003
+- t-004
+  teiginys: 'Dar 5 stribai nukauti kitą dieną Perlojoje Marcinkonių bataliono vyrų (partizanai nuostolių nepatyrė).'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -90,7 +98,49 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Marcinkonių bataliono vyrams buvo nesmagu dėl savo pavėlavimo į kautynes, todėl jie kitą, gruodžio 16 d. puolė Perlojos stribų įgulą ir ją sunaikino.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Marcinkonių bataliono vyrams buvo
+    nesmagu dėl savo pavėlavimo į kauty-
+    nes, todėl jie kitą, gruodžio 16 d. puolė
+    Perlojos stribų įgulą ir ją sunaikino.
+    Mūšio padariniai
+    Operacijos metu žuvo 4 partizanai ir 2 buvo
+    sužeisti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Dar 5 stribai nukauti kitą dieną Perlojoje Marcinkonių bataliono vyrų (partizanai nuostolių nepatyrė).'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Dar 5 stribai nukauti kitą dieną
+    Perlojoje Marcinkonių bataliono vyrų
+    (partizanai nuostolių nepatyrė). Paimtos 2
+    rašomosios mašinėlės, taip pat 4 nauji kul-
+    kosvaidžiai, keletas automatų bei šautuvų
+    ir nemažas kiekis šaudmenų, sunaikin-
+    tas valsčius, dalinai milicija ir paštas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Adolfas Ramanauskas-Vanagas]]
+- [[objektai/asmenys/Aleksandras Grybinas-Faustas]]
+- [[objektai/asmenys/Aleksandras Milaševičius-Ruonis]]
+- [[objektai/asmenys/Antanas Liesys-Idenas]]
 - [[objektai/grupes/Marcinkonių batalionas]]
+- [[objektai/asmenys/Robertas Gedvilas-Remigijus]]
+- [[objektai/asmenys/Vytautas Gužas-Kardas]]

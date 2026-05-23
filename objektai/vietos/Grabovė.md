@@ -91,5 +91,12 @@ Bet kada ir šios derybos Grabove nieko gero neda­ vė, o naujas magistras Myko
 - [[temos/paliaubos]]
 
 ### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Mykolas]]
+- [[objektai/asmenys/Mykolas Küchmeisteris]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/magistras]]
 - [[objektai/vietos/Brodnica]]
 - [[objektai/vietos/Grabova]]

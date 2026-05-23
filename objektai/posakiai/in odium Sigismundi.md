@@ -52,3 +52,13 @@ Vytautas tai darė ne iš simpatijos pačiam husitizmui, bet iš pykčio ant cie
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Breslavas]]
+- [[objektai/asmenys/Kaributas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/ciesorius]]
+- [[objektai/vietos/Čekija]]
+- [[objektai/grupes/Žemaičiai]]

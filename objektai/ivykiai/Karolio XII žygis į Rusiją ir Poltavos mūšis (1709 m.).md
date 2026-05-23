@@ -52,3 +52,9 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
+- [[objektai/asmenys/Karolis XII]]
+- [[objektai/vietos/Viena]]

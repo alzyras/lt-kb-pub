@@ -86,6 +86,10 @@ Loreta Uzdraitė šiame leidinyje minima kaip kelių žemėlapių, schemų ir in
   teiginys: 'Loreta Uzdraitė kartu su Albertu Daugirdu ir Karoliu Zikaru parengė kartoschemą apie AT rūmų gynybos ruožus 1991 m. sausio-rugpjūčio mėnesiais.'
   pagrindžia:
     - c-009
+- t-012
+  teiginys: '238-239, „Žymiausi Lietuvos partizanų mūšiai prieš sovietų pajėgas“, Arvydas Anušauskas, Karolis Zikaras, Loreta Uzdraitė.'
+  pagrindžia:
+    - c-011
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -218,3 +222,28 @@ Loreta Uzdraitė šiame leidinyje minima kaip kelių žemėlapių, schemų ir in
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-010
+- c-011
+  santrauka: '238-239, „Žymiausi Lietuvos partizanų mūšiai prieš sovietų pajėgas“, Arvydas Anušauskas, Karolis Zikaras, Loreta Uzdraitė.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    P. 238-239, „Žymiausi Lietuvos partizanų mūšiai prieš sovietų pajėgas“, Arvydas Anušauskas,
+    Karolis Zikaras, Loreta Uzdraitė.
+
+    LIETUVOS ATSIKŪRIMAS
+    P.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/Lietuvos atsikūrimas]]
+- [[objektai/vietos/Šiauliai]]
+- [[objektai/vietos/Kleckas]]
+- [[objektai/vietos/Maskvos-Lietuvos pasienis]]
+- [[objektai/vietos/Salaspilis]]

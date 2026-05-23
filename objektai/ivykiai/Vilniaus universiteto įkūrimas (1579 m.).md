@@ -6,6 +6,25 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1566 m.'
+  - '1569 m.'
+  - '1577 m.'
+  - '1579 m.'
+  - '1586 m.'
+  - '1650 m.'
+  - '1832 m.'
+  - '1850 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+  - 'XVI'
+  - 'XVII'
+  - 'XIX'
+date_start: '1566'
+date_end: '1850'
 patikimumas: 'vidutinis'
 tags:
   - ivykis
@@ -62,6 +81,14 @@ Nenurodyta
     - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-006
+  teiginys: '1579 m. balandžio 1 d. karalius Steponas Batoras, paremdamas vyskupo Valerijono Protasevičiaus sumanymą ir pastangas, išdavė Vilniaus universiteto Didysis kiemas ir Šv.'
+  pagrindžia:
+    - c-005
+- t-007
+  teiginys: 'Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Europoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -125,9 +152,70 @@ Nenurodyta
   pagrindžia:
     - t-004
     - t-005
+- c-005
+  santrauka: '1579 m. balandžio 1 d. karalius Steponas Batoras, paremdamas vyskupo Valerijono Protasevičiaus sumanymą ir pastangas, išdavė Vilniaus universiteto Didysis kiemas ir Šv.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S
+    79
+    Paversti kolegiją aukštąja mokykla reikėjo nemažų lėšų ir pakanka-
+    mai kvalifikuotų dėstytojų, būtinai – popiežiaus pritarimo (1577 m. Gri-
+    galiaus XIII pritarimas buvo gautas). Tačiau svarbiausia buvo valdovo
+    parama. 1579  m. balandžio 1 d. karalius Steponas Batoras, paremda-
+    mas vyskupo Valerijono Protasevičiaus sumanymą ir pastangas, išdavė
+    Vilniaus universiteto Didysis kiemas ir Šv. Jonų bažnyčia
+    iš J. K. Vilčinskio „Vilniaus albumo“. Dail.  Ph. Benoist, A. Bayot, 1850 m.
+
+    L I E T U V O S  I S T O R I J A
+    80
+    Vilniaus akademijos atidarymo privileginį raštą. 1579 m. spalio 29 d.
+    popiežius Grigalius XIII išleido bulę, patvirtinusią Vilniaus kolegiją uni-
+    versitetu. Naujoji mokykla vadinosi Academia et Universitas Vilnensis
+    Societatis Iesu – Vilniaus Jėzaus draugijos akademija ir universitetas.
+    Vilniaus universitetas iki pat uždarymo 1832 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-006
+  santrauka: 'Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Europoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Eu-
+    ropoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus
+    universitetai. Tačiau Vilniuje universitetas įkurtas praėjus vos dviem
+    šimtams metų po valstybės krikšto, o labiausiai pažengusioje Čekijoje –
+    praėjus 400 metų po krikšto. Yra ir kitas senojo Vilniaus universiteto
+    istorinės reikšmės aspektas. Nuo XIV a. ryčiausias Europoje du amžius
+    K. Semenavičiaus raketų brėžiniai. Amsterdamas, 1650 m.
+
+    L I E T U V O S  I S T O R I J A
+    82
+    buvo Krokuvos universitetas, o XVI a. dviem amžiams (iki Maskvos ir
+    Sankt Peterburgo universitetų įkūrimo) šį vaidmenį perėmė Vilniaus
+    universitetas. Kad toks universiteto vaidmuo nėra vien formalus, buvo
+    aišku jau akademiją steigusiems jėzuitams.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/ivykiai/Jėzuitų pasirodymas Lietuvoje ir Vilniaus universiteto įkūrimas]]
-- [[objektai/grupes/Katalikų bažnyčia katalikai]]
-- [[objektai/ivykiai/Vilniaus universiteto įkūrimas]]
+- [[objektai/vietos/Europa]]
+- [[objektai/autoriai/Kazimieras Semenavičius]]
+- [[objektai/vietos/Krokuva]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/vietos/Peterburgas]]
+- [[objektai/asmenys/Steponas]]
+- [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
+- [[objektai/grupes/Vilniaus universitetas]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/vietos/Čekija]]
+- [[objektai/vietos/Šv. Jonų bažnyčia]]

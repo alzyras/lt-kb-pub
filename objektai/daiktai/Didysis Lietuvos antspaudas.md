@@ -62,5 +62,10 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/etmonas]]
+- [[objektai/zodynas/statutas]]
+- [[objektai/vietos/Liublinas]]
+- [[objektai/zodynas/unija]]
 - [[objektai/zodynas/federacija federacinė valstybė]]
 - [[objektai/zodynas/federacija konfederacinė valstybė unitarinė valstybė]]

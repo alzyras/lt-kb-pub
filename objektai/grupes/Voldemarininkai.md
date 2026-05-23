@@ -8,17 +8,18 @@ variantai:
 aliases: []
 saltiniai:
   - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+datos:
+  - '1938 m.'
+  - '1939 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+date_start: '1938'
+date_end: '1939'
 bukle: juodrastis
 laikotarpis: "1938-1939 m."
-datos:
-  - "1938 m."
-  - "1939 m."
-periodas: ""
-periodo_grupes: []
-amziai:
-  - "XX"
-date_start: "1938"
-date_end: "1939"
 vaidmenys:
   - "politinė grupuotė"
 dalyviai: []
@@ -71,6 +72,14 @@ Politinė grupuotė.
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-007
+  teiginys: 'Smetonos valdymo opozicines jėgas – prasidėjo krikščionių demokratų ir valstiečių liaudininkų „ašies“ lyderių pasitarimai dėl bendros programos parengimo, prie jų dėjosi ir ultraradikalieji voldemarininkai.'
+  pagrindžia:
+    - c-003
+- t-008
+  teiginys: 'O voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai kaltino valdžią impotencija ir Vokietijos ir Lenkijos karo metu ragino vyriausybę jėga atsiimti Vilnių.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -111,3 +120,50 @@ Politinė grupuotė.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
+- c-003
+  santrauka: 'Smetonos valdymo opozicines jėgas – prasidėjo krikščionių demokratų ir valstiečių liaudininkų „ašies“ lyderių pasitarimai dėl bendros programos parengimo, prie jų dėjosi ir ultraradikalieji voldemarininkai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Besąlyginis ulti-
+    matumo priėmimas realiai konsolidavo A. Smetonos valdymo opozicines
+    jėgas – prasidėjo krikščionių demokratų ir valstiečių liaudininkų „ašies“
+    lyderių pasitarimai dėl bendros programos parengimo, prie jų dėjosi ir
+    ultraradikalieji voldemarininkai. Nuo 1938 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-004
+  santrauka: 'O voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai kaltino valdžią impotencija ir Vokietijos ir Lenkijos karo metu ragino vyriausybę jėga atsiimti Vilnių.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    O voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai
+    kaltino valdžią impotencija ir Vokietijos ir Lenkijos karo metu ragino vy-
+    riausybę jėga atsiimti Vilnių. Užpuolusi Lenkiją Vokietija spaudė Lietuvą
+    žygiuoti į Vilnių, žadėdama paramą aviacija, tankais ir artilerija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/A. Smetona|A. Smetona (prezidentas, XX a.)]]
+- [[objektai/daiktai/Artilerija]]
+- [[objektai/grupes/Jaunieji tautininkai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Vokietija]]
+- [[objektai/grupes/Šaulių sąjunga]]
+- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
+- [[objektai/grupes/Lietuvos krikščionių demokratų partija]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/asmenys/A. Voldemaras]]
+- [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga]]
+- [[objektai/ivykiai/Lietuvos atsisakymas žygiuoti į Vilnių Vokietijos ir Lenkijos karo metu (1939 m. rugsėjis)]]

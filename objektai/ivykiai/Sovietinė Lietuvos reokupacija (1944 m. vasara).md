@@ -77,4 +77,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Estija]]
+- [[objektai/vietos/Latvija]]
+- [[objektai/vietos/Lietuva]]
 - [[objektai/ivykiai/Sovietinė Lietuvos reokupacija (1944 m.)]]

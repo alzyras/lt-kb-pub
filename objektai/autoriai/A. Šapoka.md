@@ -65,10 +65,9 @@ A. Šapoka minimas kaip redaktorius, teksto suderintojas ir autorius; jam priski
   pagrindžia:
     - c-003
 - t-013
-  teiginys: 'Šapoka, 1936).'
+  teiginys: 'A. Šapoka 1936 m. redagavo stambią „Lietuvos istoriją“.'
   pagrindžia:
     - c-004
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'A. Šapoka buvo vienas iš leidinio autorių.'
@@ -133,7 +132,7 @@ A. Šapoka minimas kaip redaktorius, teksto suderintojas ir autorius; jam priski
   pagrindžia:
     - t-012
 - c-004
-  santrauka: 'Šapoka, 1936).'
+  santrauka: 'A. Šapoka 1936 m. redagavo stambią „Lietuvos istoriją“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Nuo Vytauto D. jubiliejinių metų (1930) Lietuvos istorijos
@@ -156,3 +155,14 @@ A. Šapoka minimas kaip redaktorius, teksto suderintojas ir autorius; jam priski
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-013
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuvos Respublikos švietimo ministerija]]
+- [[objektai/ivykiai/Lietuvos istorijos parašymas ir išleidimas Švietimo ministerijos iniciatyva (1936 m.)]]
+- [[objektai/paprociai/Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai]]
+- [[objektai/ivykiai/Vytauto Didžiojo jubiliejiniai metai (1930 m.)]]
+- [[objektai/grupes/jaunųjų istorikų būrelis]]
+- [[objektai/zodynas/poliublininiai laikai]]
+- [[objektai/zodynas/poliublininis laikotarpis poliublininiai laikai]]
+- [[objektai/posakiai/surasti lietuvius Lietuvos istorijoje]]

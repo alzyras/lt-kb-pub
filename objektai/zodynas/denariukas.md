@@ -59,4 +59,5 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/daiktai/Lietuvos pinigai]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/vietos/Viena]]

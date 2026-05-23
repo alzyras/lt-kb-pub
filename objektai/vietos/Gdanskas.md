@@ -6,6 +6,16 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1605 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVII'
+  - 'XVIII'
+date_start: '1605'
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - miestas
@@ -36,6 +46,10 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: 'Taigi Abiejų Tautų Respublika: • aprūpino Vakarus (per Gdanską į Amsterdamą) javais, • sukūrė Vakarams tuomet beveik nežinomą religinės tolerancijos ir bajoriškosios demokratijos tradiciją, • Vilnius XVI–XVIII a.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -92,7 +106,27 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-004
+  santrauka: 'Taigi Abiejų Tautų Respublika: • aprūpino Vakarus (per Gdanską į Amsterdamą) javais, • sukūrė Vakarams tuomet beveik nežinomą religinės tolerancijos ir bajoriškosios demokratijos tradiciją, • Vilnius XVI–XVIII a.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Taigi Abiejų Tautų Respublika:
+    •	 aprūpino Vakarus (per Gdanską į Amsterdamą) javais,
+    •	 sukūrė Vakarams tuomet beveik nežinomą religinės tolerancijos ir
+    bajoriškosios demokratijos tradiciją,
+    •	 Vilnius XVI–XVIII a.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Vilnius]]
 - [[objektai/ivykiai/Versalio taikos konferencijos sprendimas dėl Klaipėdos krašto (1919 m.)]]
+- [[objektai/zodynas/lietuvininkai]]
+- [[objektai/vietos/Amsterdamas]]
+- [[objektai/zodynas/bajoriškoji demokratija]]

@@ -59,3 +59,7 @@ Kočubinskij), jog prieš­ istoriniais laikais baltai yra gyvenę žymiai tolia
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/ežeras]]
+
+### Susiję objektai
+- [[objektai/grupes/Baltai]]
+- [[objektai/vietos/Dniepras]]

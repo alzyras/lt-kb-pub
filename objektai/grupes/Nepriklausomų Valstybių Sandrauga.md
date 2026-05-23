@@ -40,3 +40,8 @@ Kadangi iki krizės dauguma lietuviškų prekių keliavo į Nepriklausomų Valst
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Rusija]]

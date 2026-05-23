@@ -47,3 +47,6 @@ Režimui sąmoningai keliant žemės mokesčius valstiečiams, didinant pyliavų
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/transportas]]
+
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]

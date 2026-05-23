@@ -48,3 +48,7 @@ Jei Vytautas delsia, tai visada tas yra tikslinga: jis tuo arba priverčia prie�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

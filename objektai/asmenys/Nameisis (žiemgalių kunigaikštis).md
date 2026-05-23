@@ -83,3 +83,11 @@ Traidenio valdymo laikotarpiu vyko aktyvus lietuvių ir žiemgalių bendradarbia
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/karvedys]]
+
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/vietos/Tervetė]]
+- [[objektai/grupes/Žiemgaliai]]

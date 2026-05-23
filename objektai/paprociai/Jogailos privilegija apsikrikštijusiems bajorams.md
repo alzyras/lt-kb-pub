@@ -71,3 +71,6 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/privilegija]]
+
+### Susiję objektai
+- [[objektai/grupes/Stačiatikiai]]

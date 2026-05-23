@@ -60,4 +60,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Antano Smetonos lituanistikos institutas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Lituanistika]]

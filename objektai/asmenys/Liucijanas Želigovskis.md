@@ -43,4 +43,4 @@ Liucijano Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje �
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Vidurinė Lietuva]]
+- [[objektai/vietos/Lenkija]]

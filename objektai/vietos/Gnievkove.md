@@ -49,3 +49,8 @@ suvažiavimas Gnievkove, kur dalyvavo ir Martyno V legatas, Milano arkiv.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Baltramiejus (vyskupas)]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

@@ -42,7 +42,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-003
-  teiginys: 'Akstys buvo duriamieji ginklai su aštriais akmenimis vietoje iečių.'
+  teiginys: 'Akstys turėjo galuose įtaisytus aštrius akmenis, naudojamus iečių vietoje.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
@@ -56,7 +56,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Akstys buvo duriamieji ginklai su aštriais akmenimis vietoje iečių.'
+  santrauka: 'Akstys turėjo galuose įtaisytus aštrius akmenis, naudojamus iečių vietoje.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     It^1328 arti susirėmus, kibo į brūklius rendėtinius,

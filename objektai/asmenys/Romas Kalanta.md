@@ -6,6 +6,15 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1972 m.'
+periodas: 'okupacijų ir sovietmečio laikotarpis'
+periodo_grupes:
+  - 'XX a.'
+amziai:
+  - 'XX'
+date_start: '1972'
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -42,6 +51,10 @@ tags:
     - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: 'Kalantos auka sulaukė didžiulio atgarsio, kėlė Lietuvos nelaisvės klausimą.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -98,11 +111,27 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Kalantos auka sulaukė didžiulio atgarsio, kėlė Lietuvos nelaisvės klausimą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    R. Kalantos auka sulaukė didžiulio atgarsio, kėlė Lietuvos nelaisvės
+    klausimą. Kiekvienais metais kauniečiai paminėdavo gegužės 14-ąją.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/laidotuvės]]
 
 ### Susiję objektai
-- [[objektai/ivykiai/Kauno protestai po Romo Kalantos susideginimo (1972 m. gegužės 18–19 d.)]]
-- [[objektai/ivykiai/Romo Kalantos susideginimas Kaune (1972 m. gegužės 14 d.)]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/vietos/Kauno miesto sodas]]
+- [[objektai/posakiai/Laisvę Lietuvai!]]
+- [[objektai/daiktai/Romo Kalantos atminimo paminklai ir simboliai]]

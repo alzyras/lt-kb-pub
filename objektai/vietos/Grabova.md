@@ -79,5 +79,8 @@ Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis su Maskva pali
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/vietos/Stabina]]
 - [[objektai/vietos/Brodnica]]
 - [[objektai/vietos/Grabovė]]

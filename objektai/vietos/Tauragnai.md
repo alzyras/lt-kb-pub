@@ -75,5 +75,8 @@ Dalį raitininkų pasiuntęs Tauragnų kryptimi, su likusiais vyko į Uteną. Bi
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Daugailiai]]
+- [[objektai/asmenys/K. Ladyga]]
 - [[objektai/vietos/Paberžė]]
+- [[objektai/vietos/Utena]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/vietos/Daugailiai]]

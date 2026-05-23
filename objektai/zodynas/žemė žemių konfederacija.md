@@ -46,4 +46,6 @@ Taigi matyti, kad 1219 m. Lietuva buvo dar ne valstybė, o tik žemių konfedera
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/konfederacija]]
+- [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/žemių konfederacija]]

@@ -68,3 +68,12 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Borisas Jelcinas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Vytautas Landsbergis]]
+- [[objektai/vietos/Baltarusija]]

@@ -76,3 +76,8 @@ Praktika minima žemaičiams pasisukus į savo vakarykščius priešus ir mėgin
   pagrindžia:
     - t-003
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Žemaičiai]]

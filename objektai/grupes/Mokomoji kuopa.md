@@ -46,3 +46,11 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Antanas Šukys]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Viena]]
+- [[objektai/zodynas/viršila]]
+- [[objektai/grupes/Lietuvos kariuomenės 2-ojo pėstininkų Didžiojo Lietuvos kunigaikščio Algirdo pulko mokomoji kuopa]]

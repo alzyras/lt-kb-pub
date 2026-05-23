@@ -81,3 +81,10 @@ Jaroszewicz, Obraz Litwy pod względem jej cywilizacyi, I—III (1844) ;.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/tėvonija]]

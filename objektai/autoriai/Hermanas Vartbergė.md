@@ -67,3 +67,13 @@ balnakilpės = L se KRISTAUS KARIŲ BROLIJOS LIKIMAS Ištrauka iš Hermano Vartb
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Balnakilpės]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/daiktai/Sidabruotos geležinės balnakilpės]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)]]

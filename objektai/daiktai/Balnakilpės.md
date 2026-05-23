@@ -84,4 +84,9 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Europa]]
+- [[objektai/asmenys/Hermanas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/daiktai/Sidabruotos geležinės balnakilpės]]
+- [[objektai/autoriai/Hermanas Vartbergė]]
 - [[objektai/daiktai/Sidabruotos geležinės XI-XII a. balnakilpės]]

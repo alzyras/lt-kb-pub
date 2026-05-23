@@ -43,6 +43,10 @@ Mūsiškiai, pradėję kariauti su bolševikais, pirmą mūšį laimėjo prie K�
     - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: 'Lukšį (turėjusius Pirmojo pasaulinio karo kovų patirties) su 8 kareiviais, kurie nepastebėti užėjo besirengiantiems apėjimui bolševikams į užnugarį ir netikėtai juos apmėtę granatomis bei apšaudę privertė iš Eigulių kaimo skubiai trauktis į Juodikio mišką.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -109,7 +113,29 @@ Mūsiškiai, pradėję kariauti su bolševikais, pirmą mūšį laimėjo prie K�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Lukšį (turėjusius Pirmojo pasaulinio karo kovų patirties) su 8 kareiviais, kurie nepastebėti užėjo besirengiantiems apėjimui bolševikams į užnugarį ir netikėtai juos apmėtę granatomis bei apšaudę privertė iš Eigulių kaimo skubiai trauktis į Juodikio mišką.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Perpratęs rusų
+    sumanymą J. Šarauskas į Paobelių kaimą
+    pasiuntė patyrusius vyresniuosius ka-
+    rius V. Vainauską ir P. Lukšį (turėjusius
+    Pirmojo pasaulinio karo kovų patirties) su
+    8 kareiviais, kurie nepastebėti užėjo be-
+    sirengiantiems apėjimui bolševikams į
+    užnugarį ir netikėtai juos apmėtę granato-
+    mis bei apšaudę privertė iš Eigulių kaimo
+    skubiai trauktis į Juodikio mišką.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]
+- [[objektai/ivykiai/Kėdainių kautynės ir Povilo Lukšio žūtis (1919 m. vasario 7–9 d.)]]
+- [[objektai/ivykiai/Vilniaus užėmimas lenkų (1919 m. balandžio 19 d.)]]

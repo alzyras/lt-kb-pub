@@ -73,3 +73,6 @@ Valstiečiai, eidami baudžiavą, turėjo vadinamuosius servitutus, t. Sužinoj�
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/ežeras]]
+
+### Susiję objektai
+- [[objektai/zodynas/Baudžiava]]

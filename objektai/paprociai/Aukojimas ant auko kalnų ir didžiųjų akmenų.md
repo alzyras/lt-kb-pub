@@ -68,4 +68,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/Aukausenos|aukausenos]]
 - [[objektai/daiktai/Gintaras]]

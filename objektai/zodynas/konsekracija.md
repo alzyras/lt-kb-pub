@@ -57,3 +57,9 @@ tags:
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/aktas]]
+
+### Susiję objektai
+- [[objektai/vietos/Katra]]
+- [[objektai/zodynas/apsikarūnavimas]]
+- [[objektai/zodynas/ciesorius]]
+- [[objektai/asmenys/Mikalojus Romedanskis (Medininkų vyskupas)]]

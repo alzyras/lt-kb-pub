@@ -87,4 +87,16 @@ Postalininiu metu atsisakius masinio fizinio teroro, ne taip atvirai ir masiška
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis|Mikalojus Konstantinas Čiurlionis (dailininkas)]]
+- [[objektai/zodynas/atšilimas]]
+- [[objektai/asmenys/Balys Sruoga]]
+- [[objektai/asmenys/Jonas Mačiulis-Maironis]]
+- [[objektai/asmenys/Jurgis Baltrušaitis]]
+- [[objektai/asmenys/M. K. Čiurlionis]]
+- [[objektai/autoriai/Maironis]]
+- [[objektai/asmenys/V. Krėvė-Mickevičius]]
+- [[objektai/asmenys/Vincas Krėvė-Mickevičius]]
+- [[objektai/asmenys/Vincas Mykolaitis-Putinas]]
 - [[objektai/zodynas/destalinizacija atšilimo laikotarpis]]

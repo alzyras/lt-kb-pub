@@ -10,6 +10,15 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos:
+  - '1263 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIII'
+date_start: '1263'
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -45,6 +54,10 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
     - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-011
+  teiginys: 'Nalšios kunigaikštis Daumantas (iš kurio Mindaugas paveržė žmoną), veikęs išvien su stipriausiu Mindaugo varžovu Treniota, 1263 m. nužudė Mindaugą.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -116,3 +129,25 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-010
+- c-005
+  santrauka: 'Nalšios kunigaikštis Daumantas (iš kurio Mindaugas paveržė žmoną), veikęs išvien su stipriausiu Mindaugo varžovu Treniota, 1263 m. nužudė Mindaugą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Nalšios kunigaikštis Daumantas (iš kurio Mindaugas paveržė žmoną),
+    veikęs išvien su stipriausiu Mindaugo varžovu Treniota, 1263 m. nužudė
+    Mindaugą. Paprastai istorikai tai laiko pagonių reakcija prieš krikščio-
+    nį valdovą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/pagonybė]]
+- [[objektai/ivykiai/Daumanto žygis į Nalšėnus ir Gerdenio žūtis (1266-1267 m.)]]
+- [[objektai/vietos/Nalšėnai]]
+- [[objektai/vietos/Pskovo pilis]]

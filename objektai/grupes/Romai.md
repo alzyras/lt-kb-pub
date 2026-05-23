@@ -47,3 +47,13 @@ Dar prieš SSRS užpuolimą vokiečių vadovybė nusprendė užkariautuose L I E
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Bizantijos imperatorių herbas]]
+- [[objektai/autoriai/Filotiejus]]
+- [[objektai/paprociai/Gamtos reiškinių sudievinimas ir šventviečių telkimasis]]
+- [[objektai/vietos/Gotlandas]]
+- [[objektai/vietos/Greifsvaldas]]
+- [[objektai/paprociai/Imperatoriaus dvaro ceremonialo perėmimas]]
+- [[objektai/vietos/Štetinas]]

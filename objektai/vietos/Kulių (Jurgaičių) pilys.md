@@ -60,4 +60,13 @@ Livonijos ordinas vėl puolė Šiaurės Žemaitiją, sunaikino Kulių (Jurgaiči
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Ariogala]]
+- [[objektai/vietos/Dubysa]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/grupes/Livonijos ordinas]]
+- [[objektai/vietos/Prūsija]]
+- [[objektai/zodynas/maršalas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/vietos/Ariogalos kraštas]]
 - [[objektai/vietos/Šiaurės Žemaitija]]

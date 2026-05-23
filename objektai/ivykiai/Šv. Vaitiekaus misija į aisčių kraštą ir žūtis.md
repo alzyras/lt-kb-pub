@@ -126,4 +126,8 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Viena]]
+- [[objektai/vietos/Vysla]]
+- [[objektai/asmenys/Švitrigaila]]
 - [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (997 m.)]]

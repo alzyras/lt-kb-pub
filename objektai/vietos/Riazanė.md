@@ -62,6 +62,14 @@ tags:
   teiginys: 'Kai Vytautas ties Niekudavu (Ka­ lugos gubern.) sutriuškino Riazanės kunigaikščio eiles, Vosyliui tai įvarė baimės.'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: 'Šis įvykis, smarkiai sustiprinęs Lietuvos galybę, turėjo ir savo išdavų, nes Jurgis, bijodamas, kad ir jo nesulauktų Hle­ bo likimas, pabėgo į Riazanių pas savo uošvį kun. Olegą, kuris jį priėmė.'
+  pagrindžia:
+    - c-006
+- t-007
+  teiginys: 'Per metų metus rytų reikalai jam vyrauja; jis taikosi ir su vakarų kaimynais, kad tik turėtų laisvas rankas rytuose, kur jam ir priešų ir draugų buvo daug: Pskovas, Nau­ gardas, Maskva, Tveris, Riazanė, Okos aukštupio kunigaikš­ čiai, totoriai.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -140,3 +148,49 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Šis įvykis, smarkiai sustiprinęs Lietuvos galybę, turėjo ir savo išdavų, nes Jurgis, bijodamas, kad ir jo nesulauktų Hle­ bo likimas, pabėgo į Riazanių pas savo uošvį kun. Olegą, kuris jį priėmė.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Šis įvykis, smarkiai sustiprinęs Lietuvos galybę, turėjo ir
+    savo išdavų, nes Jurgis, bijodamas, kad ir jo nesulauktų Hle­
+    bo likimas, pabėgo į Riazanių pas savo uošvį kun. Olegą, kuris
+    jį priėmė. Už tai Vytautas pavedė Olegą Lengveniui nubausti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: 'Per metų metus rytų reikalai jam vyrauja; jis taikosi ir su vakarų kaimynais, kad tik turėtų laisvas rankas rytuose, kur jam ir priešų ir draugų buvo daug: Pskovas, Nau­ gardas, Maskva, Tveris, Riazanė, Okos aukštupio kunigaikš­ čiai, totoriai.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Per metų metus rytų reikalai jam vyrauja;
+    jis taikosi ir su vakarų kaimynais, kad tik turėtų laisvas rankas
+    rytuose, kur jam ir priešų ir draugų buvo daug: Pskovas, Nau­
+    gardas, Maskva, Tveris, Riazanė, Okos aukštupio kunigaikš­
+    čiai, totoriai. Vytautas nori visus juos paimti savo valdžion
+    ar bent turėti jiems didelę įtaką.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Lengvenis]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Jurgis Sviatoslavaitis]]
+- [[objektai/vietos/Kaluga]]
+- [[objektai/asmenys/Olegas (Riazanės didysis kunigaikštis)]]
+- [[objektai/vietos/Pskovas]]
+- [[objektai/vietos/Riazanės kunigaikštystė]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/asmenys/Chudandachas]]
+- [[objektai/asmenys/Vladimiras (Pronsko kunigaikštis)]]

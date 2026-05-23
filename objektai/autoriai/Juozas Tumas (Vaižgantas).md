@@ -75,5 +75,13 @@ Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus m
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/Jidiš]]
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/kunigas]]
+- [[objektai/zodynas/rusinimas]]
 - [[objektai/zodynas/spiritus movens]]
+- [[objektai/grupes/Žydai]]
+- [[objektai/paprociai/Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui]]
 - [[objektai/ivykiai/„Tėvynės sargo“ leidimo pradžia]]

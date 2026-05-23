@@ -34,7 +34,7 @@ Prochaska: Dzieje Witolda, 1914, 306-308 p. (^26) Žr.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Prochaska: Dzieje Witolda, 1914, 306-308 p. (^26) Žr.'
+  teiginys: 'A. Prochaskos „Dzieje Witolda“ cituojamas 1914 m. leidimo 306-308 puslapiais.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -44,7 +44,7 @@ Prochaska: Dzieje Witolda, 1914, 306-308 p. (^26) Žr.
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Prochaska: Dzieje Witolda, 1914, 306-308 p. (^26) Žr.'
+  santrauka: 'A. Prochaskos „Dzieje Witolda“ cituojamas 1914 m. leidimo 306-308 puslapiais.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     (^23) **PSRL, 17, 545 p.**

@@ -78,4 +78,17 @@ Naktį iš gegužės 22 d. į 23 d. bolševikai paliko Panevėžio apylinkes, pa
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Bolševikai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/vietos/Subačius]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/ivykiai/Antrasis Panevėžio puolimas]]
+- [[objektai/vietos/Kupiškio apskritis]]
+- [[objektai/asmenys/Sprangeris]]
+- [[objektai/vietos/Svėdasų valsčius]]
+- [[objektai/vietos/Troškūnai]]
+- [[objektai/vietos/Šimonių giria]]
+- [[objektai/ivykiai/Šimonių girios apgultis]]
+- [[objektai/ivykiai/Šimonių girios apgultis (1949 m.)]]

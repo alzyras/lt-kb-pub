@@ -71,4 +71,9 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Katalikų Bažnyčia]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Naugardas]]
+- [[objektai/vietos/Pskovas]]
+- [[objektai/asmenys/Martynas V]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

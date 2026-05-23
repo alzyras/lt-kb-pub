@@ -6,6 +6,12 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -61,6 +67,14 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
     - c-007
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-008
+  teiginys: 'Krikščionys demokratai ir liaudininkai reikalavo vietoje Antano Merkio ministru pirmininku paskirti Stasį Raštikį.'
+  pagrindžia:
+    - c-008
+- t-009
+  teiginys: 'Raštikis) motyvavo, kad viena Lietuva rimčiau pasipriešinti sovietų karinei mašinai negali, būtų daug aukų.'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -167,8 +181,41 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-007
+- c-008
+  santrauka: 'Krikščionys demokratai ir liaudininkai reikalavo vietoje Antano Merkio ministru pirmininku paskirti Stasį Raštikį.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Krikščionys demokratai ir liaudininkai, prieš tai su-
+    sitarę, pareikalavo ministru pirmininku vietoje A. Merkio paskirti artimą
+    krikščionims demokratams gen. S. Raštikį. Tai buvo dar vienas smūgis
+    A. Smetonai – ultimatumo akivaizdoje opozicija verčia jo paskirtą prem-
+    jerą, nors S. Raštikio kandidatūrai jis pritarė. Tačiau ministro pirmininko
+    Lietuvos prezidentas jau nebegalėjo pats paskirti – sovietai tuoj pat S. Raš-
+    tikio kandidatūrą atmetė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: 'Raštikis) motyvavo, kad viena Lietuva rimčiau pasipriešinti sovietų karinei mašinai negali, būtų daug aukų.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kariškiai (kariuomenės vadas gen. V. Vitkauskas, gen.
+    S.  Raštikis) motyvavo, kad viena Lietuva rimčiau pasipriešinti sovietų
+    karinei mašinai negali, būtų daug aukų. Vyriausybė priėmė ultimatumą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/ivykiai/SSRS ultimatumas Lietuvai ir jo priėmimas (1940 m. birželio 14-15 d.)]]
-- [[objektai/ivykiai/Stasio Raštikio atleidimas iš pareigų (1940 m. balandis)]]
+- [[objektai/grupes/Krikščionys]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Viena]]

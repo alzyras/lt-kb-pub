@@ -27,7 +27,7 @@ Lietuvos kariuomenė buvo sudaryta iš Lietuvos valdovo Algirdo ir jo brolio Kar
 
 ## Teiginiai
 - t-001
-  teiginys: 'Lietuvos kariuomenė buvo sudaryta iš Lietuvos valdovo Algirdo ir jo brolio Karijoto trijų sūnų - Karijotaičių vadovaujamų karių. Jie susirėmė su Juodosios jūros pajūrio ir Krymo totorių teritorijos trijų vadų-kunigaikščių Chadžibėjaus, Kutlugbugo, Dmitrijaus.'
+  teiginys: 'Kutlubuga buvo vienas iš trijų Juodosios jūros pajūrio ir Krymo totorių teritorijos vadų-kunigaikščių.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -35,7 +35,7 @@ Lietuvos kariuomenė buvo sudaryta iš Lietuvos valdovo Algirdo ir jo brolio Kar
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Lietuvos kariuomenė buvo sudaryta iš Lietuvos valdovo Algirdo ir jo brolio Karijoto trijų sūnų - Karijotaičių vadovaujamų karių. Jie susirėmė su Juodosios jūros pajūrio ir Krymo totorių teritorijos trijų vadų-kunigaikščių Chadžibėjaus, Kutlugbugo, Dmitrijaus.'
+  santrauka: 'Kutlubuga buvo vienas iš trijų Juodosios jūros pajūrio ir Krymo totorių teritorijos vadų-kunigaikščių.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvos kariuomenė buvo sudaryta
@@ -56,3 +56,9 @@ Lietuvos kariuomenė buvo sudaryta iš Lietuvos valdovo Algirdo ir jo brolio Kar
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Krymas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuvos kariuomenė]]

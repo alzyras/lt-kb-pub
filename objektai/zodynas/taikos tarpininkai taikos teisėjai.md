@@ -72,5 +72,6 @@ Baudžiavos panaikinimo vykdymas buvo pačių dvarininkų rankose, nes visi taik
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Aleksandras]]
+- [[objektai/zodynas/Baudžiava]]
 - [[objektai/paprociai/Valsčių savivaldybių priežiūra per taikos tarpininkus ir taikos teisėjus]]
-- [[objektai/zodynas/taikos suvažiavimai]]

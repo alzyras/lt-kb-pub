@@ -6,6 +6,15 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1808 m.'
+periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
+periodo_grupes:
+  - 'naujieji laikai'
+amziai:
+  - 'XIX'
+date_start: '1808'
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - grupe
@@ -32,6 +41,10 @@ m. Varšuvoje Mokslo bičiulių drau- 3 skyrius • R U S I J O S I M P E R I J 
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: '1808 m. Varšuvoje Mokslo bičiulių draugija išleido Ksavero Bogušo knygelę „Apie lietuvių tautos ir kalbos kilmę“.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -50,3 +63,36 @@ m. Varšuvoje Mokslo bičiulių drau- 3 skyrius • R U S I J O S I M P E R I J 
   pagrindžia:
     - t-001
     - t-002
+- c-002
+  santrauka: '1808 m. Varšuvoje Mokslo bičiulių draugija išleido Ksavero Bogušo knygelę „Apie lietuvių tautos ir kalbos kilmę“.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1808 m. Varšuvoje Mokslo bičiulių drau-
+
+    3 skyrius •  R U S I J O S  I M P E R I J O S  VA L D O M A  L I E T U VA  ( 1 7 9 5 – 1 9 1 5 )
+    111
+    gija išleido iš Lietuvos kilusio kunigo ir teologo Ksavero Bogušo knygelę
+    „Apie lietuvių tautos ir kalbos kilmę“, kurioje pirmą kartą nuskambėjo
+    mintis, kad lietuvių kalba yra visiškai tinkama būti atskiros aukštosios
+    kultūros kalba. Ši mintis paskatino kai kuriuos inteligentus, gyvenusius
+    Žemaitijoje, imti rašyti poeziją žemaitiškai, arba lietuviškai (Dionizas
+    Poška, Silvestras Valiūnas).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/autoriai/Ksaveras Bogušas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Silvestras Valiūnas]]
+- [[objektai/vietos/Varšuva]]
+- [[objektai/zodynas/kunigas]]
+- [[objektai/paprociai/Lietuvių ir lenkų kultūrinių draugijų paralelizmas, tyrimai ir viešos parodos]]
+- [[objektai/ivykiai/Lietuvių mokslo draugijos ir Vilniaus mokslo bičiulių draugijos įkūrimas]]
+- [[objektai/grupes/Vilniaus mokslo bičiulių draugija]]

@@ -50,6 +50,10 @@ Vytautui priskiriama moralinė formulė teigia, kad gerumas pajėgus sušvelnint
   teiginys: 'Vytautas atsakė, kad gerumu galima sušvelninti ir laukinius žvėris, kai jam priminė dosnumą totoriams dalijant žemes Lietuvoje ir Rusijoje.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Kai kartą jam kažkas priminė jo didelį duosnumą dalinant toto­ riams žemes Lietuvoje ir Rusijoj, Vytautas atsakęs, kad gerumu galima ir laukinius žvėris sušvelninti.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -85,7 +89,29 @@ Vytautui priskiriama moralinė formulė teigia, kad gerumas pajėgus sušvelnint
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Kai kartą jam kažkas priminė jo didelį duosnumą dalinant toto­ riams žemes Lietuvoje ir Rusijoj, Vytautas atsakęs, kad gerumu galima ir laukinius žvėris sušvelninti.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Kai
+    kartą jam kažkas priminė jo didelį duosnumą dalinant toto­
+    riams žemes Lietuvoje ir Rusijoj, Vytautas atsakęs, kad gerumu
+    galima ir laukinius žvėris sušvelninti. O kai vėl kartą jo akyse
+    kažkas gyrė vieną iškalbingą kunigaikštį, Vytautas trumpai ta­
+    rė, kad jam patinkąs mažiau iškalbingas, bet užtatai tiesa­
+    kalbis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Viena]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/vietos/Rusija]]
 - [[objektai/posakiai/„gerumu galima ir laukinius žvėris sušvelninti.“]]

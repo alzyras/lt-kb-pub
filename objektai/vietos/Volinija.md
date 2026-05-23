@@ -59,6 +59,10 @@ Taip yra, pvz., ir konflikte su lenkais dėl Podolės, dėl Volinijos. Taigi tur
     - c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-006
+  teiginys: 'Po kietų kovų su Lenkija, Volinijoje (Lucke) išsilaikė senas Gediminaitis Liubartas.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -149,10 +153,34 @@ Taip yra, pvz., ir konflikte su lenkais dėl Podolės, dėl Volinijos. Taigi tur
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Po kietų kovų su Lenkija, Volinijoje (Lucke) išsilaikė senas Gediminaitis Liubartas.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Po kietų kovų su
+    Lenkija, Volinijoje (Lucke) išsilaikė senas Gediminaitis Liubartas.
+    Rytinėse didžiosios Lietuvos kunigaikštijos žemėse Algirdas pa­
+    sodino iš pirmųjų vedybų savo sūnus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/papuošalas]]
 
 ### Susiję objektai
-- [[objektai/vietos/Avinjonas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/ivykiai/1279 m. badmetis Lietuvoje ir Jotvingijoje]]
+- [[objektai/vietos/Haličo ir Volinijos žemės]]
+- [[objektai/grupes/Jotvingiai]]
+- [[objektai/ivykiai/Lietuvos kunigų sutartis su Volinijos kunigaikščio Romano našle (1219 m.)]]
+- [[objektai/vietos/Polesė]]
+- [[objektai/ivykiai/Valkavisko perdavimas Haličo-Volinijos kunigaikščiams (1289 m.)]]
+- [[objektai/asmenys/Liubartas]]

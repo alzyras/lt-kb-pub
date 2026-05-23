@@ -86,3 +86,9 @@ Vainauską ir P. Vainauskas, vyresniojo padėjėju — P.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Kėdainiai]]
+- [[objektai/grupes/Rytas]]
+- [[objektai/vietos/Paobeliai]]

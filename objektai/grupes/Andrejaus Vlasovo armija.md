@@ -39,3 +39,7 @@ Akcijose prieš žydus Lietuvoje naciai panaudojo ir rusų Andrejaus Vlasovo arm
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]

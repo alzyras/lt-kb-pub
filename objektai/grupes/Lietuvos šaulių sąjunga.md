@@ -61,3 +61,10 @@ Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačia
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/NKVD]]
+- [[objektai/vietos/Sniečkus]]
+- [[objektai/vietos/Vokietija]]

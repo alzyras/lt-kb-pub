@@ -73,3 +73,9 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Artilerija]]
+- [[objektai/daiktai/Herbas]]
+- [[objektai/vietos/Rusija]]

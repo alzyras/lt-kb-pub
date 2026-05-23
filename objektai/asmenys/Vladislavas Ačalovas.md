@@ -60,3 +60,8 @@ Karinėms operacijoms ėmėsi vadovauti į Vilnių atvykęs sssR gynybos vicemin
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

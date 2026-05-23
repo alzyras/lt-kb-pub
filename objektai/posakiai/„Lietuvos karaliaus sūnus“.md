@@ -57,5 +57,10 @@ Kronikininkas Dusburgas, kuriam anksčiau Vytenis tebuvo « Lietuvos karaliaus s
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/autoriai/Dusburgas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Lietuva]]
 - [[objektai/posakiai/Lietuvos karaliaus sūnus]]
+- [[objektai/asmenys/Vytenis]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/autoriai/Dusburgas]]
+- [[objektai/vietos/Livonija]]

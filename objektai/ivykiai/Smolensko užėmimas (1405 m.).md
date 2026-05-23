@@ -67,3 +67,12 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Artilerija]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Smolenskas]]
+- [[objektai/asmenys/Sviatoslavas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

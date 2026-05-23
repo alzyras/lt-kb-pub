@@ -63,6 +63,10 @@ tags:
     - c-005
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-006
+  teiginys: 'Lietuvos kariuomenė, remiantis S.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -164,9 +168,23 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Lietuvos kariuomenė, remiantis S.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Mūšio padariniai
+
+    Mūšis truko apie 8 valandas. Lietuvos ka-
+    riuomenė, remiantis S. Zabielos raportais,
+    neteko apie 300 karių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/daiktai/Eriko Dalbergo graviūra „Urbs et Castellum Brestzie Litewski a S.R.M. Suecix die“]]
-- [[objektai/asmenys/Rusdorfas]]
-- [[objektai/asmenys/Vladislovas Jogailaitis]]
+- [[objektai/vietos/Lietuva]]

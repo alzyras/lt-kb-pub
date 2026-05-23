@@ -68,5 +68,10 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Aukuras]]
+- [[objektai/daiktai/Taurės]]
+- [[objektai/vietos/Viena]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/zodynas/Aukausenos|aukausenos]]
 - [[objektai/daiktai/Dievų stabai]]
 - [[objektai/daiktai/Torielius]]

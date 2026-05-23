@@ -66,5 +66,7 @@ Viešai grasinama, kad „asmenys, kurie nebalsuos, yra liaudies priešai“ –
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/ivykiai/Liaudies seimo rinkimai (1940 m. liepos 14-15 d.)]]
+- [[objektai/asmenys/A. Smetona|A. Smetona (prezidentas, XX a.)]]
+- [[objektai/vietos/Lietuva]]
 - [[objektai/posakiai/„asmenys, kurie nebalsuos, yra liaudies priešai“]]
+- [[objektai/ivykiai/Liaudies seimo rinkimai (1940 m. liepos 14-15 d.)]]

@@ -55,4 +55,6 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lenkija]]
+- [[objektai/asmenys/Stasys Lozoraitis]]
 - [[objektai/ivykiai/S. Lozoraičio slapto memorandumo įteikimas A. Smetonai (1935 m. balandis)]]

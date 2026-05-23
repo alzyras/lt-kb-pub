@@ -48,3 +48,6 @@ Iš pradžių penktame dešimtmetyje LDT stengėsi sudaryti Lietuvos tremties (e
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/žemėlapis]]
+
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]

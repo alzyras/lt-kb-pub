@@ -8,6 +8,7 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1874 m.'
+  - '1882 m.'
   - '1893 m.'
   - '1896 m.'
   - '1908 m.'
@@ -58,6 +59,14 @@ ProJa = Prochaska, A. ProW = Prochaska, A. Prochaska.
     - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: 'A. Prochaska parašė „Stosunki krzyżaków z Gediminem i Łokietkiem“ ir „Od Mendoga do Jagiełły“.'
+  pagrindžia:
+    - c-005
+- t-006
+  teiginys: 'A. Prochaska parašė „Zjazd monarchów w Lucku“ ir „Ostatnie lata Witołda“.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -142,7 +151,51 @@ ProJa = Prochaska, A. ProW = Prochaska, A. Prochaska.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'A. Prochaska parašė „Stosunki krzyżaków z Gediminem i Łokietkiem“ ir „Od Mendoga do Jagiełły“.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Paszki­
+    ewiczius, geras senosios Lietuvos istorijos šaltinių žinovas,
+
+    (^131) **A. Prochaska : Stosunki krzyżaków z Oedyminem i Łokietkiem (atsp.
+    iš KH), Lwów 1896 ;** **_Od Mendoga do Jagiełły_** **, Litwa i Ruś, IV, 1, 1912.**
+    (^132) **A.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: 'A. Prochaska parašė „Zjazd monarchów w Lucku“ ir „Ostatnie lata Witołda“.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    **
+    (^132) **A. Prochaska :** **_Zjazd monarchów w Lucku,_** **Przewodnik Nauk. i
+    Literacki, I, Lwów 1874, 58 p. ;** **_Ostatnie łata Witołda. Studyum z dziejów
+    intrygi dyplomatycznej_** **, Varšuva 1882, 346 p.**
+
+
+    ```
+    LIETUVOS ISTORIOGRAFIJA^85
+    ```
+    daug nauja apie Lietuvos valstybės pradžią pasako ir savo angliš­
+    koje studijoje apie Rusiją (PaOR).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/aktas]]
+
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Varšuva]]

@@ -81,4 +81,6 @@ Tai reiškė projektą naujos sienos, kuri už dvejų metų buvo priimta prie Me
 - [[temos/ežeras]]
 
 ### Susiję objektai
+- [[objektai/vietos/Prūsija]]
+- [[objektai/zodynas/magistras]]
 - [[objektai/vietos/Visla]]

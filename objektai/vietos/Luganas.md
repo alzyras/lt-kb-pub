@@ -47,4 +47,8 @@ Kopenhagos derybos vėliau dar buvo tęsiamos Luganoj (Šveicarijoje).
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Nemunas]]
 - [[objektai/vietos/Kopenhaga]]
+- [[objektai/vietos/Šveicarija]]

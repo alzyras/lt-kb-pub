@@ -74,5 +74,8 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Vidugiriai]]
+- [[objektai/asmenys/Antanas Šukys]]
+- [[objektai/vietos/Aukštadvaris]]
+- [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/viršila]]
+- [[objektai/vietos/Vidugiriai]]

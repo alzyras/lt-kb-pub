@@ -144,4 +144,9 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/ivykiai/Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/hegemonija]]
 - [[objektai/grupes/Respublikonai]]

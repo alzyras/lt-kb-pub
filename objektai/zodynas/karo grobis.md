@@ -55,3 +55,14 @@ Netrukus sąjungininkai užėmė priešo stovyklą ir užvaldė didelį karo gro
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/daiktai/Namas]]
+- [[objektai/asmenys/Aleksandras Kolčiakas]]
+- [[objektai/asmenys/Pavelas Bermontas-Avalovas]]
+- [[objektai/posakiai/Šitas Šautuvas yra 5 p. pulko pirmas karo grobis paimtas mūšyje ties Seinais iš lenkų]]
+- [[objektai/posakiai/„nuo jūros iki jūros“]]
+- [[objektai/paprociai/Karo grobio dalijimas į keturias dalis]]

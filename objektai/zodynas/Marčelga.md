@@ -47,3 +47,7 @@ Papildomos aiškios formos neišskirtos.
 ## Pastabos
 
 - Tiksli ceremoninė pareiga iš teksto matosi tik bendrais bruožais.
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Viena]]

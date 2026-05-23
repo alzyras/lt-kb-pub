@@ -101,3 +101,8 @@ Zaskevičius. Zaskevičiaus vadovaujama rinktinė artėjo prie Jiezno. Zaskevič
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Jieznas]]
+- [[objektai/grupes/Rytas]]

@@ -41,3 +41,36 @@ Visi seimo nutarimai, vadinęsi konstitucijomis, buvo įstatymai.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/ivykiai/1794 m. sukilimas Lietuvoje]]
+- [[objektai/ivykiai/1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas]]
+- [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje]]
+- [[objektai/asmenys/A. Voldemaras]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/asmenys/Augustinas Voldemaras]]
+- [[objektai/vietos/Aukščiausios Tarybos rūmai]]
+- [[objektai/paprociai/Elekcinių valdovų pacta conventa priesaikos bajorijai]]
+- [[objektai/ivykiai/Gegužės trečiosios konstitucijos priėmimas]]
+- [[objektai/grupes/Kariuomenės ir Iždo komisijos]]
+- [[objektai/ivykiai/LPS kandidatų pergalė SSRS Aukščiausiosios Tarybos rinkimuose ir LKP monopolio panaikinimas (1989 m.)]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]
+- [[objektai/ivykiai/Lietuvos Respublikos Konstitucijos priėmimas referendume (1992 m. spalio 25 d.)]]
+- [[objektai/grupes/Lietuvos Respublikos Seimas]]
+- [[objektai/grupes/Lietuvos SSR liaudies komisarų taryba]]
+- [[objektai/ivykiai/Lietuvos konstitucinio tęstinumo atkūrimo aktai (1990 m. kovo 11 d.)]]
+- [[objektai/asmenys/Michailas Gorbačiovas]]
+- [[objektai/grupes/Nacionalinio gelbėjimo komitetas]]
+- [[objektai/ivykiai/Pirmosios Užsienio reikalų ministerijos pradžia]]
+- [[objektai/daiktai/Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d]]
+- [[objektai/vietos/Prancūzija]]
+- [[objektai/vietos/SSRS]]
+- [[objektai/grupes/Sapiegos]]
+- [[objektai/daiktai/Sovietų tankai ir šarvuočiai]]
+- [[objektai/autoriai/Tadas Korsakas]]
+- [[objektai/posakiai/„Respublikos valstybės“ „bendrą Tėvynę – Lenkijos Respubliką“]]
+- [[objektai/asmenys/A. Smetona|A. Smetona (prezidentas, XX a.)]]
+- [[objektai/ivykiai/Abiejų Tautų tarpusavio įžado priėmimas]]
+- [[objektai/paprociai/Konstitucinė tautos teisė priešintis prievarta kėsinantis į valstybės nepriklausomybę]]

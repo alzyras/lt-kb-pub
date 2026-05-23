@@ -50,3 +50,9 @@ Kaributas savo valia buvo dar kartą išvykęs į Čekiją ir, susidėjęs su č
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Čekija]]

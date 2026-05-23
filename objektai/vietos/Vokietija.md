@@ -22,6 +22,8 @@ datos:
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
+  - 'XX a.'
+  - 'modernioji Lietuva'
 amziai:
   - 'XVI'
   - 'XVII'
@@ -69,6 +71,102 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   teiginys: 'Tais laikais būdavo labai paprastas reiškinys, kad jaunystėje buvę protestantai, patekę į jėzuitų mokyklas, pasidarydavo katalikais, išvykę į Vokietijos universitetus, vėl atvirsdavo į protestantizmą, o grįžę namo po kiek laiko vėl pereidavo į katalikybę.'
   pagrindžia:
     - c-006
+- t-007
+  teiginys: 'Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesiausias kelias iš Vokietijos į Rusiją, per Lietuvą vokiečiai veržėsi į rytus, o rusai į vakarus.'
+  pagrindžia:
+    - c-007
+- t-008
+  teiginys: 'Tiesa, Versalio taikos konferencija (1919) nuo Vokietijos atskyrė tik dalį Mažosios Lietuvos – Klaipėdos kraštą, tačiau jo neatidavė Lietuvai.'
+  pagrindžia:
+    - c-008
+- t-009
+  teiginys: 'Daliai lietuvių inteligentų pasitraukus į Peterburgą, likę Vilniuje ir Kaune suvokė, kad Vokietija planuoja aneksuoti okupuotas teritorijas, jas kolonizuoti ir germanizuoti.'
+  pagrindžia:
+    - c-009
+- t-010
+  teiginys: 'Jeigu Vokietija sutiktų pripažinti Lietuvos valstybę prieš Taikos konferenciją, nustatyti tam tikrus, dar tikslintinus santykius su Vokietija, jeigu tai nekenktų Lietuvos interesams, nes Lietuvos interesai „yra pasvirę ne tiek į rytus /Rusiją/ ir ne tiek į.'
+  pagrindžia:
+    - c-010
+- t-011
+  teiginys: 'Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui Georgui fon Hertlingui (Georg von Hertling), ir tą pačią dieną Vokietijos kaizeris Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomybę, bet pažymėjo, kad.'
+  pagrindžia:
+    - c-011
+- t-012
+  teiginys: 'Vokietija pateikė ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antantės šalių reikalavimu, leido panaudoti savo dalinius stabdant bolševizmą.'
+  pagrindžia:
+    - c-012
+- t-013
+  teiginys: 'Sureguliavus santykius su sąjungininkais, stengiantis išvengti dvejonių dėl naujo teritorijos statuso, su Vokietija pasirašytas kompleksas sutarčių, svarbi prekybos ir laivininkystės sutartis, o 1928 m. sausio 29 d. po ilgų ir sunkių derybų pasirašyta.'
+  pagrindžia:
+    - c-013
+- t-014
+  teiginys: 'Tapusi Tautų Sąjungos nare Vokietija nebegalėjo remti Lietuvos ambicijų Vilniuje, tačiau būtent su Vokietija 1928 m. pasirašytos net aštuonios sutartys ir pasiekta daugiausia.'
+  pagrindžia:
+    - c-014
+- t-015
+  teiginys: 'Negalime kautis dviejuose diplomatijos frontuose, todėl Lietuvai reikia susigrąžinti Lenkijos faktorių ir išnaudoti jį kovojant su Vokietija.'
+  pagrindžia:
+    - c-015
+- t-016
+  teiginys: 'Dauguma kaltinamųjų sakė, kad Klaipėdą laiko Vokietijos dalimi ir nurodymus gaudavo iš Vokietijos nacių.'
+  pagrindžia:
+    - c-016
+- t-017
+  teiginys: 'Kovo 20 dieną Vokietija ultimatyviai pareikalavo perduoti jai Klaipėdos kraštą ir grasino į tą teritoriją įvesti kariuomenę.'
+  pagrindžia:
+    - c-017
+- t-018
+  teiginys: 'Neutralumo įstatymu besiginantį Kauną sukrėtė naujiena apie nacių ir sovietų nepuolimo sutartį 1939 m. rugpjūčio 23 d., kad Vokietija ir SSRS pasirašė papildomą slaptąjį protokolą, – pasidalijo regioną įtakos sferomis: Suomija, Estija ir Latvija atiteko.'
+  pagrindžia:
+    - c-018
+- t-019
+  teiginys: 'Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (Joachim von Ribbentrop) pasirašius sienų ir draugystės sutartį tarp Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į SSRS įtakos sferą (už tai Vokietija gavo.'
+  pagrindžia:
+    - c-019
+- t-020
+  teiginys: 'Lietuvos sovietizacija 1940 m. birželio 16 d., sovietų divizijoms žygiu per Lietuvos teritoriją strategiškai atkirtus Latviją ir Estiją nuo Vokietijos, žaibu okupuotos ir dvi gretimos Baltijos valstybės.'
+  pagrindžia:
+    - c-020
+- t-021
+  teiginys: 'Aktyvistai per ryšininkus iš Vokietijos siuntė instrukcijas dėl Lietuvos valstybingumo atkūrimo ir būsimo sukilimo detalių.'
+  pagrindžia:
+    - c-021
+- t-022
+  teiginys: 'Nacių Vokietijos planuose Baltijos šalys laikytos vokiečių „gynybine erdve“, kuri palaipsniui turėjo susilieti su Trečiuoju Reichu.'
+  pagrindžia:
+    - c-022
+- t-023
+  teiginys: 'Vokietija Lietuvą laikė sudedamąja SSRS dalimi ir iš pradžių ją administravo karinė valdžia, o 1941 m. liepos pabaigoje įvestas civilinis okupacinis valdymas.'
+  pagrindžia:
+    - c-023
+- t-024
+  teiginys: 'Pabėgėlių gretas papildė nacių okupacijos metais prievarta išvežti į Vokietiją dirbti lietuviai.'
+  pagrindžia:
+    - c-024
+- t-025
+  teiginys: 'Smetona nebuvo pageidaujamas nė vienoje Europos šalyje, tad per Vokietiją, Šveicariją, Portugaliją išvyko į JAV.'
+  pagrindžia:
+    - c-025
+- t-026
+  teiginys: 'Lietuvos pagrindinėmis užsienio prekybos partnerėmis tapo Vokietija (pirmoje vietoje) ir Lenkija (antroje vietoje).'
+  pagrindžia:
+    - c-026
+- t-027
+  teiginys: 'Vokietija, po Antrojo pasaulinio karo prievarta išstumta iš Rytprūsių (dabartinės Kaliningrado srities), neturėdama sienos su Lietuva, nepretendavo į Klaipėdos kraštą, kurio daugumą gyventojų sudarė lietuviai.'
+  pagrindžia:
+    - c-027
+- t-028
+  teiginys: 'Išgirdę apie pasienio trukdymus, tie pasiuntiniai su vainikais grįžo Vokietijon.'
+  pagrindžia:
+    - c-028
+- t-029
+  teiginys: '214 Voinas, Vytenio brolis 224 Vokietija 27, 90, 91, 101, 153, 164, 165, 167, 168, 171, 184, 186-193, 226-228, 235, 237, 249, 250, 260, 306, 337, 343, 351, 355, 356, 374 Volchovas, upė 22, 114 410 VARDYNAS Voldemaras Aug.'
+  pagrindžia:
+    - c-029
+- t-030
+  teiginys: 'Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­ čiai ir Hanzos atstovai.'
+  pagrindžia:
+    - c-030
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -172,7 +270,561 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesiausias kelias iš Vokietijos į Rusiją, per Lietuvą vokiečiai veržėsi į rytus, o rusai į vakarus.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina
+    tiesiausias kelias iš Vokietijos į Rusiją, per Lietuvą vokiečiai veržėsi į ry-
+    tus, o rusai į vakarus. Todėl kai kas yra sakęs: „Jei Šveicarijai būdinga
+    aukšti kalnai, Italijai – meno kūriniai, Suomijai – ežerai, o Lietuvą reikė-
+    tų pavadinti kraštu, kuriame labai pavojinga gyventi mažai tautai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: 'Tiesa, Versalio taikos konferencija (1919) nuo Vokietijos atskyrė tik dalį Mažosios Lietuvos – Klaipėdos kraštą, tačiau jo neatidavė Lietuvai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tiesa, Versalio
+    taikos konferencija (1919) nuo Vokietijos atskyrė tik dalį Mažosios Lietu-
+    vos – Klaipėdos kraštą, tačiau jo neatidavė Lietuvai. Beje, ne visi klaipė-
+    diškiai lietuvininkai norėjo jungtis prie Lietuvos ir siekė „laisvojo miesto“
+    statuso (panašaus į Dancigo (dabar Gdanskas)).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: 'Daliai lietuvių inteligentų pasitraukus į Peterburgą, likę Vilniuje ir Kaune suvokė, kad Vokietija planuoja aneksuoti okupuotas teritorijas, jas kolonizuoti ir germanizuoti.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Daliai lietuvių inteligentų pasitraukus į Peterburgą, likę Vilniuje ir
+    Kaune suvokė, kad Vokietija planuoja aneksuoti okupuotas teritorijas, jas
+    kolonizuoti ir germanizuoti. Vėlesnėje karo stadijoje tie planai gravitavo į
+    gudresnius bandymus sudaryti formaliai nepriklausomos valstybės, kuri
+    iš tikrųjų būtų priklausoma nuo Vokietijos, vietos administraciją, tačiau
+    tada Oberostui prireiks ir lietuvių balso.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: 'Jeigu Vokietija sutiktų pripažinti Lietuvos valstybę prieš Taikos konferenciją, nustatyti tam tikrus, dar tikslintinus santykius su Vokietija, jeigu tai nekenktų Lietuvos interesams, nes Lietuvos interesai „yra pasvirę ne tiek į rytus /Rusiją/ ir ne tiek į.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Jeigu Vokietija sutiktų pripažinti Lietuvos valstybę prieš Taikos konfe-
+    renciją, nustatyti tam tikrus, dar tikslintinus santykius su Vokietija, jeigu
+    tai nekenktų Lietuvos interesams, nes Lietuvos interesai „yra pasvirę ne
+    tiek į rytus /Rusiją/ ir ne tiek į pietus /Lenkiją/, kiek į vakarus /Vokieti-
+    ją/“. Konferencijoje išrinkta 20 asmenų Lietuvos Taryba (ji pradėjo veikti
+    rugsėjo 24 dieną) kaip vykdomasis Lietuvos žmonių organas, o jos pirmi-
+    ninku – teisininkas, lietuviškų laikraščių redaktorius A.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+- c-011
+  santrauka: 'Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui Georgui fon Hertlingui (Georg von Hertling), ir tą pačią dieną Vokietijos kaizeris Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomybę, bet pažymėjo, kad.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kovo 23 dieną Berlyne A. Smetonos vadovau-
+    jama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui
+    Georgui fon Hertlingui (Georg von Hertling), ir tą pačią dieną Vokietijos
+    kaizeris Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomy-
+    bę, bet pažymėjo, kad nustatomi glaudūs Lietuvos ir Vokietijos ryšiai…
+    gruodžio 11-osios rezoliucijos pagrindu.
+    Konstitucinė monarchija taip pat liko darbotvarkėje, nes Taryba ner-
+    vingai tąsėsi su karine administracija ir Berlynu, kur dėlioti planai su-
+    jungti Lietuvą personaline unija su Saksonija arba Prūsija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+- c-012
+  santrauka: 'Vokietija pateikė ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antantės šalių reikalavimu, leido panaudoti savo dalinius stabdant bolševizmą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vokietija pateikė
+    ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antantės šalių
+    reikalavimu, leido panaudoti savo dalinius stabdant bolševizmą. Nau-
+    joji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,
+
+    L I E T U V O S  I S T O R I J A
+    138
+    greitosiomis kūrė Lietuvos karines pajėgas, pirmieji Lietuvos daliniai, pa-
+    dedami saksų savanorių dalinių, stojo į ginkluotą kovą prieš Raudonąją
+    armiją ir pagaliau ją sustabdė fronto linijoje Kaunas–Alytus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+- c-013
+  santrauka: 'Sureguliavus santykius su sąjungininkais, stengiantis išvengti dvejonių dėl naujo teritorijos statuso, su Vokietija pasirašytas kompleksas sutarčių, svarbi prekybos ir laivininkystės sutartis, o 1928 m. sausio 29 d. po ilgų ir sunkių derybų pasirašyta.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Sureguliavus santykius su sąjungininkais, stengiantis išvengti dvejonių
+    dėl naujo teritorijos statuso, su Vokietija pasirašytas kompleksas sutarčių,
+    svarbi prekybos ir laivininkystės sutartis, o 1928 m. sausio 29 d. po ilgų
+    ir sunkių derybų pasirašyta Lietuvos ir Vokietijos sienos sutartis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+- c-014
+  santrauka: 'Tapusi Tautų Sąjungos nare Vokietija nebegalėjo remti Lietuvos ambicijų Vilniuje, tačiau būtent su Vokietija 1928 m. pasirašytos net aštuonios sutartys ir pasiekta daugiausia.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tapusi Tautų Sąjungos nare Vokietija nebegalėjo remti Lietuvos
+    ambicijų Vilniuje, tačiau būtent su Vokietija 1928 m. pasirašytos net aš-
+    tuonios sutartys ir pasiekta daugiausia. A.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
+- c-015
+  santrauka: 'Negalime kautis dviejuose diplomatijos frontuose, todėl Lietuvai reikia susigrąžinti Lenkijos faktorių ir išnaudoti jį kovojant su Vokietija.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Nega-
+    lime kautis dviejuose diplomatijos frontuose, todėl Lietuvai reikia susigrą-
+    žinti Lenkijos faktorių ir išnaudoti jį kovojant su Vokietija. Karinėje srityje
+    S.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
+- c-016
+  santrauka: 'Dauguma kaltinamųjų sakė, kad Klaipėdą laiko Vokietijos dalimi ir nurodymus gaudavo iš Vokietijos nacių.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Dauguma kaltinamųjų sakė,
+    kad žavisi nacizmu, Klaipėdą laiko Vokietijos dalimi, nurodymus gauda-
+    vo iš Vokietijos nacių, o patys buvo tik jų skyrius, kad nurodymus jiems
+    davė nacių vadai Valteris R.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016
+- c-017
+  santrauka: 'Kovo 20 dieną Vokietija ultimatyviai pareikalavo perduoti jai Klaipėdos kraštą ir grasino į tą teritoriją įvesti kariuomenę.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kovo
+    20 dieną Vokietijai ultimatyviai pareikalavus perduoti jai Klaipėdos
+
+    L I E T U V O S  I S T O R I J A
+    182
+    kraštą, pagrasinus, kad vokiečių kariuomenė priešingu atveju įžygiuos į
+    tą teritoriją ir nežinia kur sustos, 5 valandas trukusiame Ministrų kabi-
+    neto posėdyje A.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
+- c-018
+  santrauka: 'Neutralumo įstatymu besiginantį Kauną sukrėtė naujiena apie nacių ir sovietų nepuolimo sutartį 1939 m. rugpjūčio 23 d., kad Vokietija ir SSRS pasirašė papildomą slaptąjį protokolą, – pasidalijo regioną įtakos sferomis: Suomija, Estija ir Latvija atiteko.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Neutralumo įstatymu besiginantį Kauną sukrėtė naujiena apie nacių ir
+    sovietų nepuolimo sutartį 1939 m. rugpjūčio 23 d., kad Vokietija ir SSRS
+    pasirašė papildomą slaptąjį protokolą, – pasidalijo regioną įtakos sfero-
+    mis: Suomija, Estija ir Latvija atiteko sovietams, o Lietuva – Vokietijai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018
+- c-019
+  santrauka: 'Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (Joachim von Ribbentrop) pasirašius sienų ir draugystės sutartį tarp Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į SSRS įtakos sferą (už tai Vokietija gavo.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentro-
+    pui (Joachim von Ribbentrop) pasirašius sienų ir draugystės sutartį tarp
+    Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į
+    SSRS įtakos sferą (už tai Vokietija gavo Liublino vaivadiją), Vokietijos
+    spaudimą Lietuvai kaip ranka nuėmė.
+    Užtat sukruto sujudo Maskva – V.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019
+- c-020
+  santrauka: 'Lietuvos sovietizacija 1940 m. birželio 16 d., sovietų divizijoms žygiu per Lietuvos teritoriją strategiškai atkirtus Latviją ir Estiją nuo Vokietijos, žaibu okupuotos ir dvi gretimos Baltijos valstybės.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuvos sovietizacija
+    1940 m. birželio 16 d., sovietų divizijoms žygiu per Lietu-
+    vos teritoriją strategiškai atkirtus Latviją ir Estiją nuo Vokietijos, žaibu
+    okupuotos ir dvi gretimos Baltijos valstybės.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020
+- c-021
+  santrauka: 'Aktyvistai per ryšininkus iš Vokietijos siuntė instrukcijas dėl Lietuvos valstybingumo atkūrimo ir būsimo sukilimo detalių.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Mičiūno reprodukcija)
+
+    L I E T U V O S  I S T O R I J A
+    196
+    Aktyvistai rinko žinias iš sovietų valdomos Lietuvos, per ryšininkus iš
+    Vokietijos siuntė įvairias instrukcijas, nurodymus, kuriuose išskirtinis
+    dėmesys buvo kreipiamas į galimybes atkurti Lietuvos valstybingumą,
+    būsimo sukilimo detales. Kadangi karinė LAF dalis bendradarbiavo su
+    Abveru, nurodyta pirmiausia užimti tiltus, svarbiausius geležinkelio maz-
+    gus, oro uostus, fabrikus ir kt.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-021
+- c-022
+  santrauka: 'Nacių Vokietijos planuose Baltijos šalys laikytos vokiečių „gynybine erdve“, kuri palaipsniui turėjo susilieti su Trečiuoju Reichu.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Nacių Vokietijos planuose Baltijos šalys laikytos vokiečių
+    „gynybine erdve“, kuri palaipsniui turėjo susilieti su Trečiuoju Reichu.
+    Dar prieš SSRS užpuolimą vokiečių vadovybė nusprendė užkariautuose
+
+    L I E T U V O S  I S T O R I J A
+    202
+    kraštuose likviduoti žydus, romus, nepagydomus ir psichinius ligonius,
+    sovietų valdžios ir komunistų partijos darbuotojus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-022
+- c-023
+  santrauka: 'Vokietija Lietuvą laikė sudedamąja SSRS dalimi ir iš pradžių ją administravo karinė valdžia, o 1941 m. liepos pabaigoje įvestas civilinis okupacinis valdymas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vokietija Lietuvą laikė sudedamąja SSRS dalimi ir iš pradžių ją ad-
+    ministravo karinė valdžia, o 1941 m. liepos pabaigoje įvestas civilinis
+    okupacinis valdymas. Liepos 17-osios nutarimu iš „buvusių laisvų
+    Lietuvos, Latvijos, Estijos valstybių“ ir Gudijos sudarytas Rytų krašto
+    (Ostlando) reicho komisariatas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-023
+- c-024
+  santrauka: 'Pabėgėlių gretas papildė nacių okupacijos metais prievarta išvežti į Vokietiją dirbti lietuviai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Pabėgėlių gretas pa-
+    pildė nacių okupacijos metais prievarta išvežti į Vokietiją dirbti lietuviai.
+    Vokietijai pralaimėjus karą, kai kurie jų pateko į vadinamąsias dipukų
+    (angl. displaced persons (DP) – perkeltieji asmenys) – karo pabėgėlių, dėl
+    įvairių priežasčių atsidūrusių už tėvynės ribų, stovyklas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-024
+- c-025
+  santrauka: 'Smetona nebuvo pageidaujamas nė vienoje Europos šalyje, tad per Vokietiją, Šveicariją, Portugaliją išvyko į JAV.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1940 m. birželį išvykęs iš Lietuvos prezidentas A. Smetona nebuvo pa-
+    geidaujamas nė vienoje Europos šalyje, tad per Vokietiją, Šveicariją, Por-
+    tugaliją išvyko į JAV.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-025
+- c-026
+  santrauka: 'Lietuvos pagrindinėmis užsienio prekybos partnerėmis tapo Vokietija (pirmoje vietoje) ir Lenkija (antroje vietoje).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuvos pagrindinėmis
+    užsienio prekybos partnerėmis tapo Vokietija (pirmoje vietoje) ir Lenkija
+    (antroje vietoje). Greitai persiorientavusi į Vakarus Lietuvos ekonomika
+    išvengė nuosmukio.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-026
+- c-027
+  santrauka: 'Vokietija, po Antrojo pasaulinio karo prievarta išstumta iš Rytprūsių (dabartinės Kaliningrado srities), neturėdama sienos su Lietuva, nepretendavo į Klaipėdos kraštą, kurio daugumą gyventojų sudarė lietuviai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vokie-
+    tija, po Antrojo pasaulinio karo prievarta išstumta iš Rytprūsių (dabar-
+    tinės Kaliningrado srities), neturėdama sienos su Lietuva, nepretendavo
+    į Klaipėdos kraštą, kurio daugumą gyventojų sudarė lietuviai. Geryn
+    klostėsi santykiai su kaimyne Lenkija, mat Vilniuje per pusę šimtme-
+
+    L I E T U V O S  I S T O R I J A
+    256
+    čio demografinė padėtis pasikeitė lietuvių naudai, lenkų Vilniuje liko
+    20  proc.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-027
+- c-028
+  santrauka: 'Išgirdę apie pasienio trukdymus, tie pasiuntiniai su vainikais grįžo Vokietijon.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Išgirdę apie pasienio trukdymus, tie pasiuntiniai su vainikais grįžo
+    Vokietijon. Vainikavimas susitrukdė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-028
+- c-029
+  santrauka: '214 Voinas, Vytenio brolis 224 Vokietija 27, 90, 91, 101, 153, 164, 165, 167, 168, 171, 184, 186-193, 226-228, 235, 237, 249, 250, 260, 306, 337, 343, 351, 355, 356, 374 Volchovas, upė 22, 114 410 VARDYNAS Voldemaras Aug.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    214
+    Voinas, Vytenio brolis 224
+    Vokietija 27, 90, 91, 101, 153, 164,
+    165, 167, 168, 171, 184, 186-193,
+    226-228, 235, 237, 249, 250, 260,
+    306, 337, 343, 351, 355, 356, 374
+    Volchovas, upė 22, 114
+    ```
+
+    ```
+    410 VARDYNAS
+    ```
+    **Voldemaras Aug.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-029
+- c-030
+  santrauka: 'Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­ čiai ir Hanzos atstovai.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­
+    čiai ir Hanzos atstovai. Atkeliavo ir Vytauto giminaičiai, Mo­
+    zūrijos kunigaikščiai, Maskvos d.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-030
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Hanza]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/vietos/Silezija]]
+- [[objektai/asmenys/A. Jakaitis]]
+- [[objektai/asmenys/A. Smetona|A. Smetona (prezidentas, XX a.)]]
+- [[objektai/ivykiai/A. Smetonos perrinkimas ypatingųjų tautos atstovų balsais (1931 m. ir 1938 m.)]]
+- [[objektai/grupes/Abveras]]
+- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
+- [[objektai/grupes/Antantė]]
+- [[objektai/asmenys/Augustinas Voldemaras]]
+- [[objektai/daiktai/Baltas apsiaustas su išsiuvinėtu kalaviju]]
+- [[objektai/ivykiai/Baltijos kelias ir Molotovo–Ribentropo pakto padarinių pasmerkimas (1989 m.)]]
+- [[objektai/asmenys/Barbora Cyleikaitė]]
+- [[objektai/ivykiai/Berno konferencija (1916 m. kovo 1–5 d.)]]
+- [[objektai/vietos/Bizantija]]
+- [[objektai/daiktai/Bomba]]
+- [[objektai/grupes/Brandenburgo elektoriai]]
+- [[objektai/ivykiai/Brastos taikos derybos ir pasirašymas]]
+- [[objektai/grupes/Danijos karaliaus kariai iš Revelio]]
+- [[objektai/vietos/Danville]]
+- [[objektai/vietos/Didžioji Britanija]]
+- [[objektai/vietos/Durbės pilis]]
+- [[objektai/grupes/Estai]]
+- [[objektai/vietos/Gargždai]]
+- [[objektai/asmenys/Georgas fon Hertlingas]]
+- [[objektai/ivykiai/Gestapo represijos už lietuvių mobilizacijos į SS boikotą (1943 m. kovas-birželis)]]
+- [[objektai/vietos/Gotlandas]]
+- [[objektai/vietos/Greifsvaldas]]
+- [[objektai/asmenys/Gustavas Adolfas]]
+- [[objektai/asmenys/Henrikas von Plauenas]]
+- [[objektai/grupes/Husitai]]
+- [[objektai/autoriai/Isaac Taylor]]
+- [[objektai/asmenys/J. Basanavičius]]
+- [[objektai/asmenys/J. Simpsonas]]
+- [[objektai/asmenys/Jaroslavas (rusų kunigaikštis, 1234 m.)]]
+- [[objektai/grupes/Jaunieji tautininkai]]
+- [[objektai/asmenys/Joachimas fon Ribentropas]]
+- [[objektai/vietos/Juodoji Ančia]]
+- [[objektai/asmenys/Juozas Urbšys]]
+- [[objektai/asmenys/K. Diebietsho]]
+- [[objektai/asmenys/K. Ramanauskas]]
+- [[objektai/ivykiai/Karolio IV krikšto bandymas Lietuvoje (1358 m.)]]
+- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
+- [[objektai/asmenys/Karolis VI]]
+- [[objektai/vietos/Kauno VII fortas]]
+- [[objektai/vietos/Kauno tvirtovė]]
+- [[objektai/vietos/Kazanė]]
+- [[objektai/ivykiai/Klaipėdos nacių teismas Kaune (1934 m. liepa - 1935 m. kovas)]]
+- [[objektai/ivykiai/Klaipėdos pilies perdavimas Prūsijos kryžiuočiams (1328 m.)]]
+- [[objektai/ivykiai/Kryžiuočių ordino nukariavimai Prūsuose]]
+- [[objektai/vietos/Kulmo žemė]]
+- [[objektai/asmenys/Kurtas Valdheimas]]
+- [[objektai/ivykiai/LLL kreipimasis į JT ir 45 pabaltijiečių memorandumas (1979 m. rugpjūčio 23 d.)]]
+- [[objektai/ivykiai/Lenkijos ultimatumas Lietuvai ir jo priėmimas (1938 m. kovo 17-19 d.)]]
+- [[objektai/ivykiai/Lietuvių konferencija Kaune (1943 m. balandžio 5 d.)]]
+- [[objektai/grupes/Lietuvos Taryba]]
+- [[objektai/ivykiai/Lietuvos Tarybos 1917 m. gruodžio 11 d. pareiškimas]]
+- [[objektai/ivykiai/Lietuvos atsisakymas žygiuoti į Vilnių Vokietijos ir Lenkijos karo metu (1939 m. rugsėjis)]]
+- [[objektai/ivykiai/Lietuvos dalinė mobilizacija SSRS įsiveržus į Lenkiją (1939 m. rugsėjo 17 d.)]]
+- [[objektai/ivykiai/Lietuvos gyventojų pasitraukimas į Vakarus baigiantis Antrajam pasauliniam karui]]
+- [[objektai/ivykiai/Lietuvos ir Vokietijos sienos sutarties pasirašymas (1928 m. sausio 29 d.)]]
+- [[objektai/paprociai/Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose]]
+- [[objektai/ivykiai/Lietuvos karo padėties paskelbimas ir sprendimas išvaryti bermontininkus iš Lietuvos (1919 m. spalio 9–16 d.)]]
+- [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1918-1919 m.)]]
+- [[objektai/ivykiai/Lietuvos nepriklausomybės paskelbimas (1918 m. vasario 16 d.)]]
+- [[objektai/ivykiai/Lietuvos nepriklausomybės pripažinimo aktas (1918 m. kovo 23 d.)]]
+- [[objektai/grupes/Lietuvos šaulių sąjunga]]
+- [[objektai/vietos/Liublino vaivadija]]
+- [[objektai/vietos/Memmingenas]]
+- [[objektai/ivykiai/Molotovo-Ribentropo pakto ir slaptojo protokolo pasirašymas (1939 m. rugpjūčio 23 d.)]]
+- [[objektai/grupes/NKVD]]
+- [[objektai/grupes/Nacių Vokietija]]
+- [[objektai/ivykiai/Nacių Vokietijos okupacija Lietuvoje (1941-1944 m.)]]
+- [[objektai/grupes/Naujoji Lenkų Valstybės Taryba]]
+- [[objektai/zodynas/Nepriklausomybės kovos]]
+- [[objektai/vietos/Niujorkas]]
+- [[objektai/grupes/Notangai]]
+- [[objektai/grupes/Pamedėnai]]
+- [[objektai/vietos/Pensilvanija]]
+- [[objektai/ivykiai/Pirmieji masiniai areštai Lietuvoje (1940 m. liepos 10-17 d.)]]
+- [[objektai/ivykiai/Pirmojo Lietuvos kabineto sudarymas]]
+- [[objektai/asmenys/Povilas Russdortas]]
+- [[objektai/asmenys/Pršemyslas Otokaras II]]
+- [[objektai/ivykiai/Prūsų sukilimai prieš kryžiuočius]]
+- [[objektai/asmenys/R. fon der Goltzas]]
+- [[objektai/vietos/Ruhro sritis]]
+- [[objektai/ivykiai/Rusijos finansų krizės poveikis Lietuvos ekonomikai (1998–1999 m.)]]
+- [[objektai/grupes/SD Einsatzgruppen]]
+- [[objektai/vietos/Saro kraštas]]
+- [[objektai/ivykiai/Saro krašto plebiscitas ir prijungimas prie Vokietijos]]
+- [[objektai/grupes/Sembai]]
+- [[objektai/vietos/Stalupėnai]]
+- [[objektai/zodynas/Status quo]]
+- [[objektai/ivykiai/Suvalkų derybos ir demarkacinės linijos nustatymas]]
+- [[objektai/asmenys/Teobaldas fon Betmanas Holvegas]]
+- [[objektai/grupes/Tilžės gestapo būrys]]
+- [[objektai/vietos/Torunė]]
+- [[objektai/asmenys/Vaclovas Čekietis]]
+- [[objektai/vietos/Vakarų Europa]]
+- [[objektai/paprociai/Vakarų pagalbos kvietimas ir svečių iš Vokietijos šaukimas]]
+- [[objektai/asmenys/Valteris R. Hesas]]
+- [[objektai/grupes/Varmiai]]
+- [[objektai/vietos/Varėna]]
+- [[objektai/vietos/Veliuona]]
+- [[objektai/vietos/Vengrija]]
+- [[objektai/vietos/Ventės ragas]]
+- [[objektai/ivykiai/Viliaus Gaigalaičio pareiškimas Prūsijos Landtage dėl Didžiosios Lietuvos prijungimo prie Vokietijos]]
+- [[objektai/asmenys/Vilius Gaigalaitis]]
+- [[objektai/ivykiai/Vilniaus konferencija (1917 m. rugsėjo 18–22 d.)]]
+- [[objektai/ivykiai/Vilniaus perdavimo sutarties ir SSRS-Lietuvos savitarpio pagalbos sutarties pasirašymas (1939 m. spalio 10 d.)]]
 - [[objektai/vietos/Vilnius]]
+- [[objektai/asmenys/Vladislovas (Kazimiero sūnus)]]
+- [[objektai/ivykiai/Vokietijos ir SSRS sienų ir draugystės sutarties pasirašymas (1939 m. rugsėjo 28 d.)]]
+- [[objektai/ivykiai/Vokietijos ir Sovietų Sąjungos karo pradžia ir Lietuvos užėmimas (1941 m. birželio 22-25 d.)]]
+- [[objektai/ivykiai/Vokietijos kariuomenės įžengimas į Lietuvą, Kauno tvirtovės paėmimas ir Vilniaus užėmimas]]
+- [[objektai/grupes/Vokietijos kunigaikščiai]]
+- [[objektai/daiktai/Vokiškas universalusis kulkosvaidis MG 34]]
+- [[objektai/grupes/Voldemarininkai]]
+- [[objektai/asmenys/Wilhelmas II]]
+- [[objektai/zodynas/autonomija autonominis statusas]]
+- [[objektai/zodynas/dipukai displaced persons (DP)]]
+- [[objektai/posakiai/kein Soule sie karten wider]]
+- [[objektai/zodynas/lietuvininkai]]
+- [[objektai/zodynas/lėnininkai]]
+- [[objektai/zodynas/rekvizicijos]]
+- [[objektai/zodynas/vasalas]]
+- [[objektai/asmenys/Ėrichas Kochas]]
+- [[objektai/grupes/Šaulių sąjunga]]
+- [[objektai/vietos/Šeinfeldas]]
+- [[objektai/vietos/Štetinas]]
+- [[objektai/posakiai/„Galima spėlioti, kad... arijų kalbos lopšys turėjo būti lietuvių apgyventoje teritorijoje“]]
+- [[objektai/posakiai/„Lietuva galėtų įsijungti į Rusijos federaciją...“]]
+- [[objektai/posakiai/„Vokietijos vadovaujamoje Naujoje Europoje...“]]
+- [[objektai/posakiai/„civilizaciniam šuoliui“]]
+- [[objektai/posakiai/„gal neokupuos“ „o gal nesovietizuos “]]
+- [[objektai/posakiai/„lenkų Trojos arklys“]]
+- [[objektai/posakiai/„mužikų kuriama valstybė jau esanti bolševikiška]]
+- [[objektai/posakiai/„nepriklausoma demokratiškai sutvarkyta valstybė etnografinėmis ribomis...“]]
+- [[objektai/posakiai/„nė trijų dienų“]]
+- [[objektai/posakiai/„už amžiną, tvirtą Lietuvos valstybės sąjungą su Vokietijos valstybe“]]
+- [[objektai/posakiai/„viešpataujanti“ „ponų tauta“]]
+- [[objektai/vietos/Breslavas]]
+- [[objektai/asmenys/Maksas fon Badenas]]
+- [[objektai/asmenys/Mykolas Tromba]]
+- [[objektai/grupes/Organizacinis Komitetas]]
+- [[objektai/ivykiai/Pirmojo kryžiaus žygio prieš lietuvius paskelbimas (1236.II.19)]]
+- [[objektai/vietos/Ruro kraštas]]
+- [[objektai/asmenys/Rusdorfas]]
+- [[objektai/ivykiai/Vytauto karūnacijos byla (1429–1430 m.)]]

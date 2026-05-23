@@ -27,7 +27,7 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: ': Laiškai Lietuviams, Chicaga, 1958, nr.'
+  teiginys: '„Laiškai Lietuviams“ 1958 m. Čikagoje buvo nurodyti kaip 5–9 numerių leidinys.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -37,7 +37,7 @@ tags:
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: ': Laiškai Lietuviams, Chicaga, 1958, nr.'
+  santrauka: '„Laiškai Lietuviams“ 1958 m. Čikagoje buvo nurodyti kaip 5–9 numerių leidinys.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     — (”) _From, the Union with Hungary to the Union with

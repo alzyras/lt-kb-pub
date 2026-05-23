@@ -42,6 +42,10 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis.
   teiginys: 'Pereinamasis laikotarpis siejamas su didžiųjų kunigaikščių monarchijos irimu ir ponų įsigalėjimu.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Didžiųjų kunigaikščių monarchijos irimo ir ponų įsigalėjimo laikotarpis I.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -71,3 +75,22 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Didžiųjų kunigaikščių monarchijos irimo ir ponų įsigalėjimo laikotarpis I.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Didžiųjų kunigaikščių monarchijos irimo ir ponų įsigalėjimo
+    laikotarpis
+    I. Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis
+    1.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Kazimieras Jogailaitis]]

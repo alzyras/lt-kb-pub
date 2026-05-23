@@ -75,3 +75,12 @@ Pirmasis jos redaktorius buvo tuomet Simne dirbęs kun. Sigitas Tamkevičius. 19
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/redaktorius]]
+
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/vietos/Simnas]]
+- [[objektai/zodynas/kulto laisvė]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/ivykiai/Tikinčiųjų teisių gynimo komiteto įkūrimas ir paskelbimas (1978 m. lapkričio 13–22 d.)]]
+- [[objektai/grupes/Tikinčiųjų teisių gynimo komitetas]]

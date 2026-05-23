@@ -43,3 +43,8 @@ Karaliaus lėšomis buvo iškastas kitas kanalas, kuris jungia Pripetės intaką
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Pripetė]]
+- [[objektai/zodynas/hetmonas]]

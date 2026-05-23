@@ -24,7 +24,7 @@ de Comitibus Aquae Vivae, laišką.
 
 ## Teiginiai
 - t-001
-  teiginys: 'de Comitibus Aquae Vivae, laišką.'
+  teiginys: 'Pr. de Comitibus Aquae Vivae laiškas gyrė Vytautą ir atkalbinėjo jį nuo sumanymo karūnuotis.'
   pagrindžia:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -34,7 +34,7 @@ de Comitibus Aquae Vivae, laišką.
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'de Comitibus Aquae Vivae, laišką.'
+  santrauka: 'Pr. de Comitibus Aquae Vivae laiškas gyrė Vytautą ir atkalbinėjo jį nuo sumanymo karūnuotis.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Panašų laišką popiežius parašė ir Vytautui^6 ).

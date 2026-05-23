@@ -48,3 +48,10 @@ Jadvyga savo „wiesz­ czym duchem“ (pranašingu nujautimu), kaip sako Procha
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Jadvyga]]
+- [[objektai/vietos/Kipčakas]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

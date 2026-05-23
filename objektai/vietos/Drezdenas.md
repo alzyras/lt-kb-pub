@@ -52,3 +52,9 @@ Kai per septynerių metų karą Prūsų kariuomenė užėmė Drezdeną, kur buvo
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/pinigai]]
+
+### Susiję objektai
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Prūsija]]
+- [[objektai/ivykiai/Šiaurės karas (1700–1721 m.)]]

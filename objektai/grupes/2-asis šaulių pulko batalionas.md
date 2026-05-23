@@ -55,3 +55,9 @@ Matusevičiaus Trakų sukilėlių daliniai, palaikomi 2-ojo šaulių pulko batal
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Rytas]]
+- [[objektai/vietos/Trakai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

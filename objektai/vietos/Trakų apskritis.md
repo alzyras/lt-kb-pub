@@ -77,5 +77,9 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Trakai]]
+- [[objektai/vietos/Ukmergė]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Didžiosios kovos apygarda (DKA)]]
 - [[objektai/vietos/Kaišiadorys]]
 - [[objektai/vietos/Ukmergės apskritis]]

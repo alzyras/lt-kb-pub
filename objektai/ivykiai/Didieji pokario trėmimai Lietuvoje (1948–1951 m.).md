@@ -60,4 +60,6 @@ Nenurodyta
 - [[temos/aktas]]
 
 ### Susiję objektai
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/deportacijos trėmimai]]

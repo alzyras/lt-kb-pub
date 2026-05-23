@@ -50,4 +50,9 @@ Senosios Lietuvos valstybės laikais, nuo pat krikšto, visa etnografinė Lietuv
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Gniezno]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Varšuva]]
+- [[objektai/zodynas/Arkivyskupija]]
 - [[objektai/vietos/Gniezno arkivyskupija]]

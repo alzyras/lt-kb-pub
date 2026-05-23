@@ -61,6 +61,14 @@ tags: []
   teiginys: 'Dragūnų vėliavą sudarė 100-150 žmonių.'
   pagrindžia:
     - c-005
+- t-008
+  teiginys: '25-80 lancų su­ darydavo būrį, kuris buvo vadinamas vėliava.'
+  pagrindžia:
+    - c-006
+- t-009
+  teiginys: 'Kiekvienas rite­ ris kaudavosi po savo vėliava ir neturėdavo teisės ją palikęs bėgti.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -143,3 +151,61 @@ tags: []
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-006
+  santrauka: '25-80 lancų su­ darydavo būrį, kuris buvo vadinamas vėliava.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Riteris su savo palydovais sudarydavo tam tikrą
+    vienetą, kuris vadinosi „lance“, arba „kopijo“. 25-80 lancų su­
+    darydavo būrį, kuris buvo vadinamas vėliava. Tokiu būdu vė­
+    liavoje būdavo apie 300-400 raitųjų. Tie būriai savo ženklu,
+    apie kurį spiesdavosi, turėjo vėliavą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-007
+  santrauka: 'Kiekvienas rite­ ris kaudavosi po savo vėliava ir neturėdavo teisės ją palikęs bėgti.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Kiekvienas rite­
+    ris kaudavosi po savo vėliava ir neturėdavo teisės ją palikęs
+    bėgti. Jei vėliava patekdavo į priešo rankas, tai riteriui valia
+    būdavo pasielgti savo nuožiūra — ar trauktis, ar kautis prisi­
+    dėjus prie kitos vėliavos.
+    Dabar pažiūrėkime, kaip atrodo abiejų pusių kariuomenės,
+    besiruošiančios į Žalgirio mūšį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Žalgiris]]
+- [[objektai/grupes/Abiejų Tautų Respublikos kariuomenė]]
+- [[objektai/autoriai/Aleksandro Gvanjinio]]
+- [[objektai/paprociai/Husarų vėliavų „draugų“ ir palydos sistema]]
+- [[objektai/asmenys/Karolis Jastržembskis]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1990 III 11)]]
+- [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas ir Kovo 11 Aktas (1990 m. kovo 11 d.)]]
+- [[objektai/vietos/Panevėžys]]
+- [[objektai/paprociai/Pavietės karūžojo metinė žemlionų ginklų ir žirgų perveiza]]
+- [[objektai/daiktai/Riterių vėliava]]
+- [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)]]
+- [[objektai/asmenys/Suchodolskis]]
+- [[objektai/asmenys/T. Dambrava]]
+- [[objektai/vietos/Vorsklos upė]]
+- [[objektai/daiktai/Vytauto vėliava]]
+- [[objektai/daiktai/Vėliavos]]
+- [[objektai/asmenys/Zbignievas Olesnickis]]
+- [[objektai/zodynas/pašauktinė kariuomenė]]
+- [[objektai/zodynas/Perveiza|perveiza]]
+- [[objektai/zodynas/Žemlionis|žemlionis]]

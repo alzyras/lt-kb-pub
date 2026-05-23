@@ -52,3 +52,18 @@ Vytautas rėmė prieš turkus Moldavijos Aleksandrą — savo švo­ gerį ir Ko
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Konstancija]]
+- [[objektai/ivykiai/Konstancijos susirinkimas (1414–1418 m.)]]
+- [[objektai/vietos/Konstantinopolis]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/vietos/Moldavija]]
+- [[objektai/asmenys/Muradas II]]
+- [[objektai/vietos/Smolenskas]]
+- [[objektai/vietos/Viena]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/ciesorius]]
+- [[objektai/asmenys/Manuelis]]
+- [[objektai/asmenys/Aleksandras (Moldavijos valdovas)]]

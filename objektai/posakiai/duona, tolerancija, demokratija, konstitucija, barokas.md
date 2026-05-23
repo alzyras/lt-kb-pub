@@ -52,3 +52,10 @@ Formulė glaustai apibendrina Abiejų Tautų Respublikai priskiriamus XVII–XVI
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Europa]]
+- [[objektai/zodynas/barokas]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/posakiai/„duona, tolerancija, demokratija, konstitucija, barokas“]]

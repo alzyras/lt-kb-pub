@@ -74,3 +74,8 @@ Gimbutienė (Gimbutas), M. Gimbutienė, M.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Baltija]]
+- [[objektai/grupes/Lietuviai]]

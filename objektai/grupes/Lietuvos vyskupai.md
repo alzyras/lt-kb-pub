@@ -54,4 +54,8 @@ Tada popiežius pasiskubino ir tam pavojui už­ kirsti kelią: jis uždraudė L
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Viena]]
+- [[objektai/ivykiai/Martyno V įsakymas atšaukti Kaributą (1422 m. lapkričio mėn.)]]
 - [[objektai/grupes/Vienos universiteto profesoriai]]

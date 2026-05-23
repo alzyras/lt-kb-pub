@@ -63,6 +63,14 @@ Nenurodyta
   teiginys: '[...] Nebesant maršalo stabmeldžiai džiaugiasi ir stato per Nemuną tiltą su dviem bokštais ir du sienodaužius, kuriais be paliovos puola pilį [...].'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Jos mūrams griauti čia pat buvo pastatyti sienodaužiai ir pilies mūrų aukščio bokštas.'
+  pagrindžia:
+    - c-004
+- t-005
+  teiginys: 'Torno analuose pažymėta, kad lietuviai, puldami Gotteswerderi, naudojo 15 mašinų ir 5 sienodaužius^19.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -122,3 +130,44 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Jos mūrams griauti čia pat buvo pastatyti sienodaužiai ir pilies mūrų aukščio bokštas.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Tris savaites už­
+    trukęs apgulimas buvo atliktas gerai pasiruošus, nes «pilis buvo
+    labai aukšta ir stipri ». Jos mūrams griauti čia pat buvo pastatyti
+    sienodaužiai ir pilies mūrų aukščio bokštas. Atskirus pilies puolimo
+    epizodus plačiai aprašęs, Wigandas pastebi, jog «pagonys buvo
+    puolami dieną ir naktį », « bet jie, krikščionių nelaimei, karžygiškai
+    gynėsi ».
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: 'Torno analuose pažymėta, kad lietuviai, puldami Gotteswerderi, naudojo 15 mašinų ir 5 sienodaužius^19.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Kęstutis ją, po 5 savaites trukusio apgulimo, naudodamas sienoms
+    griauti mašinas, paėmė. Torno analuose pažymėta, kad lietuviai,
+    puldami Gotteswerderi, naudojo 15 mašinų ir 5 sienodaužius^19.
+    Tačiau kryžiuočiai tuojau pat Gotteswerderi užpuolė ir, lietuviams
+    keršydami, pilį su jos 109 gynėjais sudegino.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Torno]]

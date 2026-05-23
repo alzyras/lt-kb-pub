@@ -52,3 +52,7 @@ Varakauskas, R. Varakauskas, R.: Lietuvos vals­ tybės susidarymo klausimu, Ist
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]

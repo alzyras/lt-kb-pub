@@ -66,3 +66,8 @@ Su tripartitio christiana (visuomenės skirstymas į karius, dvasininkus ir dirb
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/privilegija]]
+
+### Susiję objektai
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Vilnius]]

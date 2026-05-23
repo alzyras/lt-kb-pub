@@ -53,6 +53,10 @@ Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytautą savo karalium, kuris
     - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: 'Kaip ten bebūtų, mes žinom, kad Vytautas, nežiūrint lenkų pasipriešinimo, sutiko čekų karūną priimti ir pasiuntė į Pragą savo vietininku Zigmantą Kaributą.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -128,8 +132,27 @@ Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytautą savo karalium, kuris
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Kaip ten bebūtų, mes žinom, kad Vytautas, nežiūrint lenkų pasipriešinimo, sutiko čekų karūną priimti ir pasiuntė į Pragą savo vietininku Zigmantą Kaributą.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Kaip ten bebūtų, mes žinom, kad Vytautas, nežiūrint lenkų
+    pasipriešinimo, sutiko čekų karūną priimti ir pasiuntė į Pragą
+    savo vietininku Zigmantą Kaributą. Tik vėliau, pasikeitus ap­
+    linkybėms, Vytautas nuo to sumanymo atsisakė.
+    Jei tuo laiku, t.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Karūna]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Praga]]
+- [[objektai/zodynas/vietininkas]]
 - [[objektai/vietos/Zakračimas]]
-- [[objektai/ivykiai/Šv. Vaclovo karūnos pasiūlymas Jogailai ir Vytauto sutikimas priimti čekų karūną (1420–1421 m.)]]

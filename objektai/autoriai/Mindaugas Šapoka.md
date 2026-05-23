@@ -59,3 +59,7 @@ The Battle of Grünwald: in commemoration of the 600th anniversary of the Battle
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Vilnius]]

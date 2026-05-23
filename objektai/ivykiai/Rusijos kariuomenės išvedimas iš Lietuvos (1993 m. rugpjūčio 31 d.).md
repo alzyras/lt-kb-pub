@@ -57,5 +57,12 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Audrys Juozas Bačkis]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Algirdas Brazauskas]]
+- [[objektai/asmenys/Audrys Juozas Bačkis|Audrys Juozas Bačkis (Vilniaus arkivyskupas metropolitas)]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/metropolitas]]
 - [[objektai/asmenys/Jonas Paulius II]]

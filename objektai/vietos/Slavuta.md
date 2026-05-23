@@ -43,3 +43,20 @@ Vėliau Voluinė apskritai tapo šalutinių Gediminaičių šakų įsitvirtinimo
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Chodkevičiai]]
+- [[objektai/vietos/Ostrohas]]
+- [[objektai/vietos/Voluinė]]
+- [[objektai/grupes/Vyšnioveckiai]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/grupes/Čartoriskiai]]
+- [[objektai/grupes/Sanguškos]]
+- [[objektai/vietos/Viena]]
+- [[objektai/vietos/Klevanė]]
+- [[objektai/vietos/Kovelis]]
+- [[objektai/vietos/Mlynivas]]
+- [[objektai/vietos/Vyšnivecis]]
+- [[objektai/zodynas/tėvonija]]
+- [[objektai/zodynas/tėvonija tėvų palikimas]]

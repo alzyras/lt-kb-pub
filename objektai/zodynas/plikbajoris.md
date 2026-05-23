@@ -96,3 +96,6 @@ tags:
 ### Teminiai klasteriai
 - [[temos/didikas]]
 - [[temos/pinigai]]
+
+### Susiję objektai
+- [[objektai/zodynas/seimelis]]

@@ -41,3 +41,9 @@ Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Starodubas ir Okos paup
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Maskva]]
+- [[objektai/vietos/Naugardas]]
+- [[objektai/vietos/Starodubas]]

@@ -61,5 +61,8 @@ Etmonas, iždininkas ir maršalas vakare pasiekė Vilnių, iš visų savo rūmų
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kuršas]]
+- [[objektai/vietos/Druja]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/vietos/Bychovo tvirtovė]]
 - [[objektai/vietos/Mintauja]]
+- [[objektai/grupes/Sapiegų kariuomenė]]

@@ -49,3 +49,9 @@ Lietuvos policijai pasiekus pergalių prieš didėjantį organizuotą nusikalsta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Europa]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuvos policija]]

@@ -53,3 +53,6 @@ Tapes partizanu, buvo paskirtas Tauro apygardos Geležinio Vilko rinktinės spau
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/redaktorius]]
+
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]

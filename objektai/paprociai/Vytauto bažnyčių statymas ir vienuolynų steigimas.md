@@ -119,3 +119,14 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Drahočynas]]
+- [[objektai/vietos/Gardinas]]
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Trakai]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/vietos/Vorskla]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

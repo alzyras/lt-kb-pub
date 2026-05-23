@@ -96,4 +96,9 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Antanas Šukys]]
+- [[objektai/vietos/Kėdainiai]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Nevėžis]]
+- [[objektai/zodynas/komendantūra]]

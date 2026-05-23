@@ -26,7 +26,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių ordinų pajėgos, broliai riteriai ir i 4 jiems pavaldžių užgrobtų žemių “prievarta buriami kariai (prūsai - pamedėnai, notangai, varmiai, sembai, o taip pat kuršiai, estai ir kt.), iš.'
+  teiginys: '1260 m. Klaipėdoje prieš Lietuvą sutelktose Ordino pajėgose buvo ir prievarta buriami pamedėnai.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -34,7 +34,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių ordinų pajėgos, broliai riteriai ir i 4 jiems pavaldžių užgrobtų žemių “prievarta buriami kariai (prūsai - pamedėnai, notangai, varmiai, sembai, o taip pat kuršiai, estai ir kt.), iš.'
+  santrauka: '1260 m. Klaipėdoje prieš Lietuvą sutelktose Ordino pajėgose buvo ir prievarta buriami pamedėnai.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Ordino pajėgos
@@ -59,3 +59,20 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Estai]]
+- [[objektai/vietos/Europa]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/vietos/Prūsija]]
+- [[objektai/vietos/Revelis]]
+- [[objektai/vietos/Vokietija]]
+- [[objektai/zodynas/kryžininkai]]
+- [[objektai/grupes/Danijos karaliaus kariai iš Revelio]]
+- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
+- [[objektai/grupes/Notangai]]
+- [[objektai/grupes/Sembai]]
+- [[objektai/grupes/Varmiai]]

@@ -11,14 +11,17 @@ saltiniai:
 datos:
   - '1377 m.'
   - '1384 m.'
+  - '1385 m.'
   - '1386 m.'
+  - '1569 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
   - 'XIV'
+  - 'XVI'
 date_start: '1377'
-date_end: '1386'
+date_end: '1569'
 patikimumas: 'vidutinis'
 tags:
   - karalienė
@@ -79,9 +82,17 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   pagrindžia:
     - c-013
 - t-014
-  teiginys: 'Jadvyga Jogailienė pasa­ kė savo bajorams: „Jūsų tėvai buvo laisvi karžygiai ir Len­ kams duoklės nemokėjo niekad; taip pat ir jūs norite pavel- (^1) ) Žerb.'
+  teiginys: 'Karalienė Jadvyga Jogailienė pareikalavo duoklės už jai aprašytąsias žemes.'
   pagrindžia:
     - c-014
+- t-015
+  teiginys: 'Pagal Krėvos sutarties sąlygas Lenkijos karalaitė Jadvyga Jogailienė turėjo tapti Jogailos žmona.'
+  pagrindžia:
+    - c-015
+- t-016
+  teiginys: 'ABIEJŲ TAUTŲ RESPUBLIKA Liublino unija 1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas.'
+  pagrindžia:
+    - c-016
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -299,7 +310,7 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   pagrindžia:
     - t-013
 - c-014
-  santrauka: 'Jadvyga Jogailienė pasa­ kė savo bajorams: „Jūsų tėvai buvo laisvi karžygiai ir Len­ kams duoklės nemokėjo niekad; taip pat ir jūs norite pavel- (^1) ) Žerb.'
+  santrauka: 'Karalienė Jadvyga Jogailienė pareikalavo duoklės už jai aprašytąsias žemes.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     O kai karalienė Jad­
@@ -315,3 +326,53 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-014
+- c-015
+  santrauka: 'Pagal Krėvos sutarties sąlygas Lenkijos karalaitė Jadvyga Jogailienė turėjo tapti Jogailos žmona.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1385 m. rugpjūčio 14 d. į Krėvos pilį atvyko lenkų delegacija. Lenkai,
+    regis, jau turėjo parengtą sutarties dokumentą. Jogaila su šio dokumento
+    turiniu sutiko, jis buvo priimtas ir į istoriją įėjo Krėvos sutarties vardu. Su-
+    tarties sąlygos: Jogaila ima žmona Lenkijos karalaitę Jadvygą, pažada įvesti
+    Lietuvoje katalikų tikėjimą, atgauti prarastas Lenkijos žemes, paleisti lenkų
+    belaisvius ir „prišlieti“ Lietuvą prie Lenkijos. „Prišlieti“ būtina rašyti su ka-
+    butėmis: mat iki šiol ginčijamasi, kaip išversti lotynišką žodį applicare.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
+- c-016
+  santrauka: 'ABIEJŲ TAUTŲ RESPUBLIKA Liublino unija 1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    ABIEJŲ TAUTŲ RESPUBLIKA
+    Liublino unija
+    1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos
+    ir Lenkijos suartėjimas. „Šventos santuokos“ metafora dažnai taikoma
+    visam unijų procesui, kurio padarinys – 1569 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/vietos/Krėva]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Liublinas]]
+- [[objektai/ivykiai/Liublino unija]]
+- [[objektai/zodynas/applicare]]
+- [[objektai/zodynas/unija]]
+- [[objektai/posakiai/„prišlieti“]]
+- [[objektai/posakiai/„Šventos santuokos“]]
+- [[objektai/asmenys/Jadvyga]]

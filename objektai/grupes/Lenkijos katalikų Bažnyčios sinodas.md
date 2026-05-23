@@ -50,3 +50,9 @@ Kita vertus, jis vis dėlto pripažino tikėjimo laisvę ir protestantams ir uol
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/aktas]]
+
+### Susiję objektai
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Varšuva]]
+- [[objektai/zodynas/konfederacija]]
+- [[objektai/zodynas/protestantizmas]]

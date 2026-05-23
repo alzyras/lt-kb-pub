@@ -76,3 +76,8 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/laiškas]]
+
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/NATO]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

@@ -11,16 +11,20 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
+  - '1377 m.'
   - '1936 m.'
   - '1978 m.'
   - '2026 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
+  - 'LDK'
   - 'modernioji Lietuva'
 amziai:
+  - 'XIV'
+  - 'XVI'
   - 'XX'
   - 'XXI'
-date_start: '1936'
+date_start: '1377'
 date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
@@ -84,6 +88,14 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   teiginys: 'Tik iš Gedimino laikais nubaustų dviejų pranciškonų fakto rusų ir lenkų šaltiniuose XVI amž. buvo sukurtos nieko bendra su tikrove neturinčios legendos, būk, Algirdui valdant, Vilniuje buvę nukankinti 36 pranciškonai.'
   pagrindžia:
     - c-010
+- t-019
+  teiginys: 'Apie atvykėlius vienuolius jau Gedimino laikais byloja mįslingoji pranciškonų kankinių istorija, davusi pradžią vienai ilgaamžiškiausių Vilniaus legendų.'
+  pagrindžia:
+    - c-011
+- t-020
+  teiginys: 'Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo kurį laiką gyveno Vil­ niuje, paskui ėjo kapeliono ir sekretoriaus pareigas Vengrų ka­ ralienės Elžbietos, Jadvygos motinos.'
+  pagrindžia:
+    - c-012
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -234,7 +246,58 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-018
+- c-011
+  santrauka: 'Apie atvykėlius vienuolius jau Gedimino laikais byloja mįslingoji pranciškonų kankinių istorija, davusi pradžią vienai ilgaamžiškiausių Vilniaus legendų.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Apie atvykėlius vienuolius jau Gedimino laikais byloja mįslingo-
+    ji pranciškonų kankinių istorija, davusi pradžią vienai ilgaamžiškiausių
+    Vilniaus legendų. Nuo XIV a. žinoma istorija apie dviejų pranciškonų
+    nužudymą Vilniuje Gedimino valdymo pabaigoje, o XVI a. pradžioje jų
+    palaidojimo vietoje statoma koplyčia (prie kurios vėliau įsikurs Bonifra-
+    trų vienuolynas).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019
+- c-012
+  santrauka: 'Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo kurį laiką gyveno Vil­ niuje, paskui ėjo kapeliono ir sekretoriaus pareigas Vengrų ka­ ralienės Elžbietos, Jadvygos motinos.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Jis, būdamas dar pranciškonų ku­
+    nigas, kartu su savo broliu prie Algirdo kurį laiką gyveno Vil­
+    niuje, paskui ėjo kapeliono ir sekretoriaus pareigas Vengrų ka­
+    ralienės Elžbietos, Jadvygos motinos. 1377 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Domininkonų ordinas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Andrius Vosylius Jastrzębiecas]]
+- [[objektai/asmenys/Bertoldas (pranciškonas)]]
+- [[objektai/asmenys/Elžbieta]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]
+- [[objektai/vietos/Gotlandas]]
+- [[objektai/asmenys/Goštautas]]
+- [[objektai/vietos/Greifsvaldas]]
+- [[objektai/asmenys/Henrikas (pranciškonas)]]
+- [[objektai/asmenys/Jurgis Matulaitis]]
+- [[objektai/paprociai/Katalikiškos bažnytinės organizacijos plėtimas parapijomis, vienuolijomis ir bažnyčiomis]]
+- [[objektai/asmenys/Narimantas Gediminaitis]]
+- [[objektai/vietos/Naugardukas]]
+- [[objektai/daiktai/Pranciškonų kankinių palaidojimo vietos koplyčia]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/regimentorius]]
+- [[objektai/vietos/Štetinas]]
+- [[objektai/asmenys/Žygimantas]]

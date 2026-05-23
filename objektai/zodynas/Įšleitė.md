@@ -27,14 +27,6 @@ Vartojamos formos: `įšleiti`, `įšleitėj`.
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-- t-004
-  teiginys: 'Autorius įšleite skirsto kraštą į pietinę ir šiaurinę dalis.'
-  pagrindžia:
-    - c-003
-    - c-002
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  statusas: patvirtinta
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '`Įšleitė` šiame tekste reiškia geografinę sritį, panašią į pašlaitę, slėnį ar įdubą.'
@@ -50,21 +42,6 @@ Vartojamos formos: `įšleiti`, `įšleitėj`.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
-- c-002
-  santrauka: 'Autorius įšleite skirsto kraštą į pietinę ir šiaurinę dalis.'
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Nuo Uksinių pamarių į šiaurę einant, tame sluoksny krašto yra tyrai, beje, neapregimi laukai
-    per kelias dešimtis mylių, kuriuose auga aukšta žolė taip, jog raito žmogaus negal regėti, per
-    kuriuos teka į Uksine marę upė Tyrulė, nuo tų tyrų taip vadinama; už tų tyrų, juo į šiaurę einant,
-    buvo medės, arba girios.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-004
 - c-003
   santrauka: 'Autorius įšleite skirsto kraštą į pietinę ir šiaurinę dalis.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
@@ -83,3 +60,11 @@ Vartojamos formos: `įšleiti`, `įšleitėj`.
 ## Pastabos
 
 - Terminas pateikiamas be atskiro apibrėžimo, todėl reikšmė rekonstruojama iš vietos tekste ir išnašos.
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Isteris]]
+- [[objektai/vietos/Daugava]]
+- [[objektai/grupes/Egiptiečiai]]
+- [[objektai/grupes/Finikiečiai]]
+- [[objektai/vietos/Žalioji giria]]

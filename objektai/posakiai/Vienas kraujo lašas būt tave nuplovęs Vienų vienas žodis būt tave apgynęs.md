@@ -85,4 +85,9 @@ Iš tikrųjų dažnai kartojama poeto Jono Aisčio eilutė „Vienas kraujo laš
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Aleksandras]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Rytas]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/posakiai/Vienas kraujo lašas būt tave nuplovęs]]

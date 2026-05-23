@@ -64,4 +64,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/vietos/Sandomiras]]
 - [[objektai/daiktai/Karūna]]

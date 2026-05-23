@@ -40,3 +40,11 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Kijevo Rusia]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/zodynas/bajorija]]

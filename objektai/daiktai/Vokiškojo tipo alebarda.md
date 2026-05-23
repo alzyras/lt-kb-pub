@@ -69,4 +69,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Rusija]]
+- [[objektai/grupes/Rusijos kariuomenė]]
 - [[objektai/daiktai/Alebardos]]

@@ -62,4 +62,10 @@ Jau 1349 m., norėdamas laimėti Avignono palankumą ir drauge susidaryti patoge
 - [[temos/papuošalas]]
 
 ### Susiję objektai
-- [[objektai/vietos/Volinija]]
+- [[objektai/asmenys/Kazimieras]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Baltramiejus (vyskupas)]]
+- [[objektai/asmenys/Bernardas (abatas)]]
+- [[objektai/ivykiai/Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.)]]

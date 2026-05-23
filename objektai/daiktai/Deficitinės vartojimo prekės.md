@@ -92,5 +92,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/SSRS]]
 - [[objektai/paprociai/Sovietinio deficito eilės ir talonų laukimas]]
 - [[objektai/zodynas/deficitas talonai]]

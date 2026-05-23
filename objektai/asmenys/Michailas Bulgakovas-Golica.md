@@ -63,3 +63,7 @@ Kunigaikštis Michailas Bulgakovas-Golica, vienas iš vaivadų, pasiųstų Oršo
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/flangas]]

@@ -65,3 +65,12 @@ Tokia Vyriausiąja Lietuvos Mokykla buvo pavadinta buvusi jėzuitų Vilniaus aka
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Edukacinė Komisija]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Viena]]
+- [[objektai/grupes/Vilniaus Akademija]]
+- [[objektai/vietos/Vilnius]]

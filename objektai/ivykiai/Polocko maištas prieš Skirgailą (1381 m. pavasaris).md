@@ -65,4 +65,10 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/asmenys/Skirgaila]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/metropolitas]]
+- [[objektai/vietos/Polockas]]
 - [[objektai/ivykiai/Kulikovo kautynės (1380 m. rugsėjo 8 d.)]]

@@ -76,3 +76,7 @@ Nenurodyta
     - t-004
 
 ## Šaltiniai ir įrodymai
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Skandinavija]]

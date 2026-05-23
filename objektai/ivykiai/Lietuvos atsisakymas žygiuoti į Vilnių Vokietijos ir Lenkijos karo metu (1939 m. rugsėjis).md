@@ -74,3 +74,15 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Anglai]]
+- [[objektai/daiktai/Artilerija]]
+- [[objektai/grupes/Jaunieji tautininkai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/vietos/Vokietija]]
+- [[objektai/grupes/Šaulių sąjunga]]
+- [[objektai/grupes/Voldemarininkai]]

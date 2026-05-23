@@ -79,6 +79,10 @@ Nenurodyta.
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-009
+  teiginys: 'Ir Algirdas, ir Maskvos kunigaikštis tuo pačiu laiku dėjo stiprių pastangų atnaujinti arba išlaikyti savo valstybės ribose arkivyskupo-metropolito sostą graikų tikėjimo gyventojams.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -118,6 +122,24 @@ Nenurodyta.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-008
+- c-003
+  santrauka: 'Ir Algirdas, ir Maskvos kunigaikštis tuo pačiu laiku dėjo stiprių pastangų atnaujinti arba išlaikyti savo valstybės ribose arkivyskupo-metropolito sostą graikų tikėjimo gyventojams.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Ir Algirdas, ir Maskvos kunigaikštis tuo
+    pačiu laiku dėjo stiprių pastangų atnaujinti arba išlaikyti savo
+    valstybės ribose arkivyskupo-metropolito sostą graikų tikėjimo
+    gyventojams.
+    Maskvos kunigaikščių ateičiai buvo gana reikšminga, kad visos
+    Rusios metropolitas savo sostinę iš Kijevo, esančio nuolatinių totorių
+    puolimų pavojuose, 1300 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Pastabos
 
@@ -129,4 +151,32 @@ Nenurodyta.
 - [[temos/religinis-terminas]]
 
 ### Susiję objektai
+- [[objektai/vietos/Kijevo Rusia]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/asmenys/Audrys Juozas Bačkis|Audrys Juozas Bačkis (Vilniaus arkivyskupas metropolitas)]]
+- [[objektai/asmenys/Ciprijonas]]
+- [[objektai/ivykiai/Didžioji Maskvos suirutė (1597–1613 m.)]]
+- [[objektai/asmenys/Fotijus]]
+- [[objektai/asmenys/Gr. Camblakas]]
+- [[objektai/autoriai/Grigorijus Camblakas]]
+- [[objektai/autoriai/J. Adamus]]
+- [[objektai/asmenys/Jonas Paulius II]]
+- [[objektai/asmenys/Jurgis Cemblakas]]
+- [[objektai/grupes/Katalikų Bažnyčia]]
+- [[objektai/ivykiai/Kristijono įšventinimas Lietuvos vyskupu ir Lietuvos vyskupijos išskyrimas (1254 m.)]]
+- [[objektai/ivykiai/Kulikovo kautynės (1380 m. rugsėjo 8 d.)]]
+- [[objektai/grupes/Lietuvos stačiatikiai]]
 - [[objektai/zodynas/Metropolija ir metropolitas]]
+- [[objektai/asmenys/Mikalojus Romedanskis (Medininkų vyskupas)]]
+- [[objektai/ivykiai/Polocko maištas prieš Skirgailą (1381 m. pavasaris)]]
+- [[objektai/ivykiai/Rusijos kariuomenės išvedimas iš Lietuvos (1993 m. rugpjūčio 31 d.)]]
+- [[objektai/grupes/Stačiatikiai]]
+- [[objektai/asmenys/Teodosijus]]
+- [[objektai/asmenys/Teofilis (arkivyskupas)]]
+- [[objektai/vietos/Vladimiras (prie Kliazmos)]]
+- [[objektai/zodynas/daugiakonfesiškumas]]
+- [[objektai/zodynas/daugiakonfesiškumas daugiakultūriškumas]]
+- [[objektai/zodynas/metropolija]]
+- [[objektai/posakiai/„didžiausią Europoje tolerancijos uostą“ „Europos tolerancijos lopšys“]]
+- [[objektai/posakiai/„pagal Tavo palaiminimą jy [promaskvietiškas] metropolitas juos [maskvénus] laimina kraujo praliejimui iki šiol“]]
+- [[objektai/zodynas/pravoslavai]]

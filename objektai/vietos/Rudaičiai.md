@@ -56,4 +56,6 @@ Iš Rudaičių ir Veliuonos kapinynų duomenų pateikė M.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
 - [[objektai/autoriai/M. Michelbertas]]
+- [[objektai/vietos/Veliuona]]

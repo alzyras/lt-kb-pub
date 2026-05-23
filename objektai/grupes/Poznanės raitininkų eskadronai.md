@@ -55,3 +55,16 @@ Lenkijos - 7-asis pėstininkų pulkas, 1-asis, 2-asis ir 4-asis šaulių pulkai,
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Poznanė]]
+- [[objektai/vietos/Trakai]]
+- [[objektai/grupes/Trakų sukilėlių daliniai]]
+- [[objektai/grupes/12-asis ulonų pulkas]]
+- [[objektai/grupes/2-asis pėstininkų pulkas]]
+- [[objektai/grupes/7-asis pėstininkų pulkas]]
+- [[objektai/asmenys/H. Dembinskis]]
+- [[objektai/grupes/Kališo raitelių dalinys]]

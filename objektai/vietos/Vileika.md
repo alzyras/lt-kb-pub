@@ -61,4 +61,9 @@ Katilas, mobilizacijos vieta jai buvo paskirta Vileikos miestelio apylinkės Aš
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Ašmena]]
+- [[objektai/vietos/Kijevo Rusia]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Voluinė]]
+- [[objektai/zodynas/bajorija]]
 - [[objektai/vietos/Bresto vaivadija]]

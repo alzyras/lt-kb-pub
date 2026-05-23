@@ -54,3 +54,8 @@ Tuo tikslu maždaug 60 Žebenkšties rinktinės kovotojų, vadovaujamų LLA kari
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Kelmė]]
+- [[objektai/vietos/Kėdainiai]]

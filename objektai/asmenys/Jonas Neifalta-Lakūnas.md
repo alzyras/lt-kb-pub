@@ -92,3 +92,10 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Dainava]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/NKVD]]
+- [[objektai/vietos/Alytus]]

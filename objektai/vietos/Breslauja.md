@@ -40,10 +40,10 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
   teiginys: 'Jam į pagalbą atėjo Livonijos magistras ir jie Breslaujoje sujungė savo pajėgas.'
   pagrindžia:
     - c-002
-- t-003
-  teiginys: 'Sapiegą bei dar du žymesnius belaisvius - Breslaujos seniūną M.'
+- t-004
+  teiginys: 'Į jam paskirtą palyginti nedidelį žemių da­ linį, be Vilniaus, dar priklausė artimos sritys su pilimis : Ašmena, Ukmerge, Breslauja (Braslaw).'
   pagrindžia:
-    - c-003
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -80,17 +80,24 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Sapiegą bei dar du žymesnius belaisvius - Breslaujos seniūną M.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+- c-004
+  santrauka: 'Į jam paskirtą palyginti nedidelį žemių da­ linį, be Vilniaus, dar priklausė artimos sritys su pilimis : Ašmena, Ukmerge, Breslauja (Braslaw).'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Sapiegą bei dar du
-    žymesnius belaisvius - Breslaujos seniūną
-    M.
+    Į jam paskirtą palyginti nedidelį žemių da­
+    linį, be Vilniaus, dar priklausė artimos sritys su pilimis : Ašmena,
+    Ukmerge, Breslauja (Braslaw).
+    Kiti šeši Gedimino sūnus taip pat gavo savo dalis.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-003
+    - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Kurovičius]]
+- [[objektai/asmenys/M. Vaina]]

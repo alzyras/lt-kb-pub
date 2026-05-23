@@ -92,3 +92,11 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Prūsija]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/zodynas/bajorija]]

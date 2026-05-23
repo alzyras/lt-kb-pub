@@ -109,6 +109,12 @@ Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas siuntė Žema
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/ivykiai/Liublino unija]]
-- [[objektai/ivykiai/Liublino unija (1569 m.)]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Liublinas]]
+- [[objektai/vietos/Vitebskas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/seniūnas]]
+- [[objektai/zodynas/unija]]
+- [[objektai/grupes/Žemaičiai]]
 - [[objektai/ivykiai/Vitebsko karo lauko seimas]]

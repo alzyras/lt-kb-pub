@@ -92,4 +92,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/Liuosybė|liuosybė]]
 - [[objektai/daiktai/Vyženos]]

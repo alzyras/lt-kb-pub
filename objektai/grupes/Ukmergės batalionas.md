@@ -53,4 +53,6 @@ Kubiliaus vadovaujamas Ukmergės batalionas, nepaisydamas smarkios priešo ugnie
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Artilerija]]
+- [[objektai/vietos/Ukmergė]]
 - [[objektai/asmenys/J. Kubilius]]

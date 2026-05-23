@@ -42,3 +42,9 @@ Getuose atsirado pasipriešinimo grupių, kai kurie žydai bėgo į miškus, įs
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/SSRS]]
+- [[objektai/grupes/Žydai]]

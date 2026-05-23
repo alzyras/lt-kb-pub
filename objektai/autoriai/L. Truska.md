@@ -59,3 +59,11 @@ Truska: Emigracija iš Lietuvos 1868-1914 m. (AkMD, t.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Merkys]]
+- [[objektai/vietos/Prūsija]]
+- [[objektai/vietos/Vilnius]]

@@ -6,6 +6,16 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1385 m.'
+  - '1387 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+date_start: '1385'
+date_end: '1387'
 patikimumas: 'vidutinis'
 tags:
   - ivykis
@@ -56,6 +66,10 @@ Nenurodyta
     - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: 'Tokią Lietuvai nepalankią sutartį vertė sudaryti ypač įnirtingi vokiečių puolimai.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -114,7 +128,28 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Tokią Lietuvai nepalankią sutartį vertė sudaryti ypač įnirtingi vokiečių puolimai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tokią Lietuvai nepalankią sutartį vertė sudaryti ypač įnirtingi vokie-
+    čių puolimai. Krėvos sutarties sudarymo išvakarėse Lietuvos jėgos seko,
+    todėl lenkai tapo jos sąjungininkais. Nuo Krėvos sutarties Lietuvos
+
+    L I E T U V O S  I S T O R I J A
+    42
+    savarankiškumas mažėjo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/ivykiai/Krėvos sutarties priėmimas]]
+- [[objektai/vietos/Krėva]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/savarankiškumas]]

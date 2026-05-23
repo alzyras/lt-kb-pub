@@ -96,3 +96,13 @@ Kai atskirų asmenų ir delegacijų rūpesčiai nieko negelbėjo, jie 1879 m. pa
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Berlynas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Viena]]
+- [[objektai/zodynas/ES pilietis]]
+- [[objektai/grupes/Europos Parlamentas]]
+- [[objektai/grupes/Europos Sąjunga]]
+- [[objektai/ivykiai/Lietuvos įstojimas į ES ir NATO (2004 m.)]]

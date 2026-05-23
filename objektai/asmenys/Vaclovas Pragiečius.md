@@ -82,3 +82,13 @@ Bet įsikišus Čekų kara­ liui Vaclovui, buvo tarp kariaujančiu pusių padar
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/paliaubos]]
+
+### Susiję objektai
+- [[objektai/vietos/Europa]]
+- [[objektai/daiktai/Karūna]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Praga]]
+- [[objektai/vietos/Viena]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/zodynas/paliaubos]]

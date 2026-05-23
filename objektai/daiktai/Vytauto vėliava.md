@@ -77,3 +77,11 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/simbolis]]
+
+### Susiję objektai
+- [[objektai/vietos/Brianskas]]
+- [[objektai/grupes/Karijotaičiai]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/asmenys/Mykolas]]
+- [[objektai/vietos/Polockas]]
+- [[objektai/zodynas/vėliava]]

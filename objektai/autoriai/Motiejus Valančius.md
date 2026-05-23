@@ -18,10 +18,11 @@ vaidmenys:
   - 'Žemaičių vyskupas'
   - 'blaivybės veikėjas'
 datos:
+  - '1801 m.'
   - '1848 m.'
   - '1850 m.'
+  - '1858 m.'
   - '1875 m.'
-  - '1922 m.'
   - '1929 m.'
   - '1965 m.'
   - '1972 m.'
@@ -31,7 +32,7 @@ periodo_grupes:
 amziai:
   - 'XIX'
   - 'XX'
-date_start: '1848'
+date_start: '1801'
 date_end: '1972'
 patikimumas: 'aukštas'
 tags:
@@ -108,10 +109,18 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
   teiginys: 'Vilniuje 1972 : Motiejus Valančius, Raštai, II, 402 p., su paaiškinimais gale; tekstą paruošė B.'
   pagrindžia:
     - c-008
-- t-017
-  teiginys: 'Alekna : Žemaičių vyskupas Motiejus Valančius, Klaipėda (Šv.'
+- t-018
+  teiginys: 'Daukantas įkalbino savo kraštietį Motiejų Valančių (1801– 1875), tuomet dėstytojavusį Sankt Peterburge, ten perkeltoje iš Vilniaus Katalikų dvasinėje akademijoje, rašyti ir išleisti Žemaičių vyskupijos istoriją lietuviškai.'
   pagrindžia:
-    - c-009
+    - c-010
+- t-019
+  teiginys: 'Valančius pasirūpino, kad kunigai turėtų pagarbų požiūrį į lietuviškai kalbančią liaudį, gerai išmoktų lietuviškai ir sakytų pamokslus lietuviškai, davė nurodymą kunigams prie bažnyčių steigti lietuviškas mokyklas.'
+  pagrindžia:
+    - c-011
+- t-020
+  teiginys: 'Motiejus Valančius XIX a. politiniams procesams Lietuvoje padarė didelę įtaką, nors nebuvo politikas.'
+  pagrindžia:
+    - c-012
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -247,19 +256,97 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-016
-- c-009
-  santrauka: 'Alekna : Žemaičių vyskupas Motiejus Valančius, Klaipėda (Šv.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+- c-010
+  santrauka: 'Daukantas įkalbino savo kraštietį Motiejų Valančių (1801– 1875), tuomet dėstytojavusį Sankt Peterburge, ten perkeltoje iš Vilniaus Katalikų dvasinėje akademijoje, rašyti ir išleisti Žemaičių vyskupijos istoriją lietuviškai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    **
-    (^48) **A. Alekna :** **_Žemaičių vyskupas Motiejus Valančius,_** **Klaipėda (Šv.
-    Kazimiero Dr-jos leid.) 1922, 269 p.; M. Valančius:** **_Pastabos pačiam sau,_**
-    **paruošė J. Tumas, Klaipėda 1929.**
-    (^49) **V.
+    Būtent S. Daukantas įkalbino savo kraštietį Motiejų Valančių (1801–
+    1875), tuomet dėstytojavusį Sankt Peterburge, ten perkeltoje iš Vilniaus
+    Katalikų dvasinėje akademijoje, rašyti ir išleisti Žemaičių vyskupijos isto-
+    riją lietuviškai. 1848 m. Vilniuje ši knyga, kurios autorius tais pat metais
+    buvo paskirtas Telšių (Žemaičių) vyskupijos vyskupu (Vatikano patvir-
+    tintas po metų), išėjo lietuviškai-žemaitiškai nustebindama visus, kad
+    parašyta ne lenkiškai, kaip buvo įprasta. Romantikas S. Daukantas savo
+    veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi, o M. Valančius –
+    praktiško mąstymo ir politiškai išmintingas žmogus, neabejotinai buvo
+    europietiškos katalikiškos civilizacijos šalininkas. Savo pirmąjį inaugura-
+    cinį pamokslą vyskupas M. Valančius sakė ir lietuviškai, ir lenkiškai. Lie-
+    tuvių (žemaičių) kalba po katedros skliautais iš vyskupo lūpų skambėjo
+    bene pirmą kartą.
+    M.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-017
+    - t-018
+- c-011
+  santrauka: 'Valančius pasirūpino, kad kunigai turėtų pagarbų požiūrį į lietuviškai kalbančią liaudį, gerai išmoktų lietuviškai ir sakytų pamokslus lietuviškai, davė nurodymą kunigams prie bažnyčių steigti lietuviškas mokyklas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    M. Valančius pasirūpino, kad
+    kunigai turėtų pagarbų požiūrį į
+    lietuviškai kalbančią liaudį, gerai
+    išmoktų lietuviškai ir sakytų pa-
+    mokslus lietuviškai, davė nurody-
+    mą kunigams prie bažnyčių steigti
+    lietuviškas mokyklas. O vyskupija
+    tuomet apėmė didžiąją dalį etni-
+    nės Lietuvos, ne tik Žemaitiją. Tos
+    mokyklos visiškai nukonkuravo
+    valdiškas mokyklas rusų kalba.
+    Kai kuriose vietovėse mokančių
+    skaityti procentas padidėjo iki
+    60 – baudžiavinio kaimo sąlygo-
+    mis tai fantastiškas skaičius. Ne-
+    gana to, 1858 m. M.  Valančius,
+    remdamasis kituose katalikiškuo-
+    se kraštuose platinamomis blai-
+    vybės idėjomis, inicijavo blaivybės sąjūdį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019
+- c-012
+  santrauka: 'Motiejus Valančius XIX a. politiniams procesams Lietuvoje padarė didelę įtaką, nors nebuvo politikas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tad nebūdamas
+    politiku vyskupas M. Valančius XIX a. politiniams procesams Lietuvoje
+    padarė bene didesnę įtaką, nei kas nors kitas. Ugdydamas liaudies išti-
+    kimybę savo kalbai ir kultūrai, jis niekur nepasisakė ir prieš lenkiškai
+    kalbančiuosius, savo dienoraštį rašė lenkiškai, o pasirašydavo lenkiška
+    maniera – Wolonczewski.
+    Baudžiavos sąlygomis į lietuvių liaudį orientuotas tautinis kultūri-
+    nis sąjūdis negalėjo išeiti į krašto visuomeninio kultūrinio ir politinio
+    gyvenimo avansceną.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/Baudžiava]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/grupes/Blaivybės brolijos]]
+- [[objektai/paprociai/Blaivybės brolijų ir blaivybės skelbimo praktika]]
+- [[objektai/ivykiai/Blaivybės brolijų kūrimas ir plitimas Žemaičių vyskupystėje (1858—1859 m.)]]
+- [[objektai/paprociai/Lietuviškos mokyklos prie bažnyčių ir liaudies mokymas lietuviškai]]
+- [[objektai/vietos/Uturiai]]
+- [[objektai/paprociai/Valančiaus blaivybės sąjūdis ir blaivybės brolijos]]
+- [[objektai/vietos/Vilniaus vyskupystė]]
+- [[objektai/paprociai/Vyskupo M. Valančiaus lietuviški ir dvikalbiai pamokslai]]
+- [[objektai/vietos/Žemaičių vyskupystė]]
+- [[objektai/ivykiai/Lietuviškosios spaudos draudimas ir rusiškų raidžių įvedimas (1864—1865 m.)]]
+- [[objektai/ivykiai/Lietuvių raštijos tradiciniu raidynu draudimo pradžia]]

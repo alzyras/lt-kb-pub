@@ -62,3 +62,13 @@ Ivanas Fiodorovas pristatomas kaip pirmasis Maskvos spaustuvininkas, kurį Chodk
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Brasta]]
+- [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/asmenys/Mikalojus (Gniezno arkivyskupas)]]
+- [[objektai/vietos/Nesvyžius]]
+- [[objektai/vietos/Zabluduvas]]
+- [[objektai/grupes/Chodkevičiai]]

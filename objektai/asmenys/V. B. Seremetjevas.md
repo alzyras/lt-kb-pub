@@ -68,3 +68,11 @@ Seremetjevas (apie 15000 karių) užėmė Polocką ir Dysną, A.
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/karvedys]]
+
+### Susiję objektai
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Minskas]]
+- [[objektai/vietos/Mstislavlis]]
+- [[objektai/vietos/Polockas]]
+- [[objektai/vietos/Švedija]]

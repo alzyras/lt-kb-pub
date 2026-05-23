@@ -53,3 +53,16 @@ Lietuviai pasižadėjo nebeužpuldinėti pieti­ nės Prūsijos dalies, kurią s
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Gunlaukenas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Prūsija]]
+- [[objektai/vietos/Trakai]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/vietos/Bielskas]]
+- [[objektai/vietos/Melnikas]]
+- [[objektai/vietos/Vartenburgas]]

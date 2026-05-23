@@ -51,3 +51,13 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/zodynas/kulto laisvė]]
+- [[objektai/ivykiai/Lietuvos Helsinkio grupės įkūrimas Vilniuje (1976 m. ruduo)]]
+- [[objektai/grupes/Maskvos Helsinkio grupė]]
+- [[objektai/grupes/Tikinčiųjų teisių gynimo komitetas]]
+- [[objektai/ivykiai/Tikinčiųjų teisių gynimo komiteto įkūrimas ir paskelbimas (1978 m. lapkričio 13–22 d.)]]

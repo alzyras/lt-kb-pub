@@ -87,3 +87,12 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Kijevas]]
+- [[objektai/vietos/Kijevo Rusia]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Pskovas]]
+- [[objektai/zodynas/ekspansija]]

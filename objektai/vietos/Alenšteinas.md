@@ -36,6 +36,10 @@ tags:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Buvo nutarta pasitraukti kiek atgal, paskui ei­ ti į šiaurę, kad būtų galima pro Alenšteiną apeiti Drevencos upę ir, nors tolimesniu keliu, pasiekti Marienburgą.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -54,7 +58,29 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Buvo nutarta pasitraukti kiek atgal, paskui ei­ ti į šiaurę, kad būtų galima pro Alenšteiną apeiti Drevencos upę ir, nors tolimesniu keliu, pasiekti Marienburgą.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Buvo nutarta pasitraukti kiek atgal, paskui ei­
+    ti į šiaurę, kad būtų galima pro Alenšteiną apeiti Drevencos
+    upę ir, nors tolimesniu keliu, pasiekti Marienburgą. Buvo tuo­
+    jau surasti vadovai ir nustatytas kelias.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Drevenca]]
+- [[objektai/vietos/Angerburgas]]
+- [[objektai/vietos/Girdava]]
+- [[objektai/vietos/Grünvaldas]]
+- [[objektai/vietos/Johanisburgas]]
+- [[objektai/vietos/Lotzenburgas]]
+- [[objektai/vietos/Röselis]]
+- [[objektai/vietos/Marienburgas]]

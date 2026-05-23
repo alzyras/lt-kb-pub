@@ -69,3 +69,7 @@ Nenurodyta
 ## Pastabos
 
 - čia daiktas aprašytas kartu su žemdirbystės įpročiu, bet pats norago tipas aiškiai materiališkas.
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/autoriai/Guagnini]]

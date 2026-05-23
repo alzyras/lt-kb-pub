@@ -43,5 +43,11 @@ Chodkevičiaus vadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kai
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Ryga]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/vietos/Piarnu]]
+- [[objektai/vietos/Salacgryva]]
+- [[objektai/vietos/Viljandis]]
 - [[objektai/grupes/Chodkevičiai]]
 - [[objektai/ivykiai/Salaspilio (Kirchholmo) mūšis]]

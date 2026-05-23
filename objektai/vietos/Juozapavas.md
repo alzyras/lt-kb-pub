@@ -52,4 +52,8 @@ Tuo metu 3-iasis pulko batalionas užėmė Bekupės-Juozapavo ruožą.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Viena]]
+- [[objektai/zodynas/rezervas]]
 - [[objektai/vietos/Bekupė]]

@@ -89,3 +89,15 @@ CHOTINO MŪŠIS 117 ## Puslapis 120 E -KURSO KUNIGAIKŠTYSTĖ S res Livontios KU
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Chotinas]]
+- [[objektai/ivykiai/Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)]]
+- [[objektai/vietos/Dauguva]]
+- [[objektai/vietos/Dniepras]]
+- [[objektai/asmenys/Fiodoras]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Prūsija]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Smolenskas]]

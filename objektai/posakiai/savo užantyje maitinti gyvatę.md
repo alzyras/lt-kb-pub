@@ -89,3 +89,10 @@ Metafora nusako pavojingo sąjungininko laikymą arti savęs ir čia siejama su 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Mozūrija]]
+- [[objektai/grupes/Žemaičiai]]

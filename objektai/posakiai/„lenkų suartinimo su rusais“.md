@@ -55,3 +55,9 @@ Taip tikėtasi iš pačių lietuvių paruošti rusų aukštosios kultūros proce
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Lenkijos karalystė]]

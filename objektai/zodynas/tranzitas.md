@@ -112,3 +112,10 @@ Ambasadorių Konferencija jau po Klaipėdos konvencijos pasirašymo pareiškė n
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/paprociai/Klaipėdos krašto autonominis režimas]]
+- [[objektai/grupes/Lietuvos seimas]]
+- [[objektai/grupes/Lietuvos seimas (1924 m.)]]
+- [[objektai/vietos/Niešava]]

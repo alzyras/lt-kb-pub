@@ -27,7 +27,7 @@ Jaśkiewicz : A Study in Lithuanian Mythologie.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Jaśkiewicz : A Study in Lithuanian Mythologie.'
+  teiginys: 'V. K. Jaśkiewicz paskelbė studiją apie Jono Lasickio aprašytus žemaičių dievus.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -35,7 +35,7 @@ Jaśkiewicz : A Study in Lithuanian Mythologie.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Jaśkiewicz : A Study in Lithuanian Mythologie.'
+  santrauka: 'V. K. Jaśkiewicz paskelbė studiją apie Jono Lasickio aprašytus žemaičių dievus.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     (^40) **V. Maciūnas :** **_Stanevičius S. T.,_** **LE, t. 28, 430-434 p.**
@@ -51,3 +51,8 @@ Jaśkiewicz : A Study in Lithuanian Mythologie.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Vilnius]]
+- [[objektai/grupes/Žemaičiai]]

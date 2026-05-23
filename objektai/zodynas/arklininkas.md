@@ -41,3 +41,7 @@ Arkliams prižiūrėti ir šerti buvo specialūs valstiečiai, vadinami arklinin
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Kaunas]]

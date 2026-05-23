@@ -51,3 +51,12 @@ Lyginant įvairius laiko tekstus, kur vengrų kanceliarijoje buvo vartojamas ter
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Karūna]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/zodynas/lenas]]
+- [[objektai/asmenys/Jadvyga Jogailienė]]

@@ -58,3 +58,12 @@ Privilegijos buvo duotos čekų karaliaus Otokaro 1254 met.
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/privilegija]]
+
+### Susiję objektai
+- [[objektai/vietos/Brasta]]
+- [[objektai/vietos/Gardinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Žydai]]
+- [[objektai/vietos/Semba]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Čekija]]

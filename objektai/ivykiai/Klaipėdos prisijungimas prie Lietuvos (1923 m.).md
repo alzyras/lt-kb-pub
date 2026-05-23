@@ -9,6 +9,7 @@ saltiniai:
 datos:
   - '1922 m.'
   - '1923 m.'
+  - '1924 m.'
   - '2013 m.'
   - '2026 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
@@ -76,6 +77,18 @@ Nenurodyta
     - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-020
+  teiginys: 'Netekusi Vilniaus, Lietuva atsisuko į Mažąją Lietuvą.'
+  pagrindžia:
+    - c-005
+- t-021
+  teiginys: 'Galvanauskas, įsitikinęs, kad per Tautų Sąjungą ar Ambasadorių konferenciją Lietuva Klaipėdos negaus, nusistatė užimti kraštą jėga (anot A.'
+  pagrindžia:
+    - c-006
+- t-022
+  teiginys: '1923 m. sausio 24 d. Lietuvos Seimas patenkino Klaipėdos prašymą, o vasario 17 d. Ambasadorių konferencija perleido Klaipėdos suverenias teises Lietuvai.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -144,8 +157,67 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-019
+- c-005
+  santrauka: 'Netekusi Vilniaus, Lietuva atsisuko į Mažąją Lietuvą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Netekusi Vilniaus, Lietuva atsisuko į
+    Mažąją Lietuvą. Britai tuo tarpu iškėlė idėją, kad Lietuva už prarastą Vil-
+    nių turi gauti Klaipėdą, nors vėliau pasisakė už „laisvojo miesto“ statusą.
+    Lietuviams mainų principas netiko, nes Vilnius – senoji sostinė, tačiau
+    uostas labai rūpėjo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020
+- c-006
+  santrauka: 'Galvanauskas, įsitikinęs, kad per Tautų Sąjungą ar Ambasadorių konferenciją Lietuva Klaipėdos negaus, nusistatė užimti kraštą jėga (anot A.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Ministras pirminin-
+    kas E. Galvanauskas, įsitikinęs, kad per Tautų Sąjungą ar Ambasadorių
+    konferenciją Lietuva Klaipėdos negaus, nusistatė užimti kraštą jėga (anot
+    A. Smetonos, be faktinės kontrolės nebus juridinės), J. Pilsudskio pavyz-
+    džiu pastatyti visus į fait accompli padėtį ir tada derėtis. 1922 m. pradžioje
+    Lietuvos atstovas Klaipėdoje Jonas Žilius pranešė vyriausybei, kad tėra
+    viena galimybė pasiimti miestą – užimti jį karine jėga. Kariškiai laikė tai
+    24 valandų reikalu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-021
+- c-007
+  santrauka: '1923 m. sausio 24 d. Lietuvos Seimas patenkino Klaipėdos prašymą, o vasario 17 d. Ambasadorių konferencija perleido Klaipėdos suverenias teises Lietuvai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    153
+    Kilniaširdiškai nusiteikęs Lietuvos Seimas sausio 24-ąją mielai patenkino
+    šį prašymą, o vasario 17-ąją Ambasadorių konferencija perleido suvere-
+    nias Klaipėdos teises Lietuvai. Lietuviai tai laikė didžiausia savo diploma-
+    tine ir karine pergale, kokia ji iš tiesų ir buvo.
+    1924 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-022
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Ernestas Galvanauskas]]
-- [[objektai/asmenys/Jonas Budrys (Polovinskas)]]
+- [[objektai/grupes/Ambasadorių Konferencija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvos seimas]]
+- [[objektai/asmenys/Pilsudskis]]
+- [[objektai/vietos/Viena]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

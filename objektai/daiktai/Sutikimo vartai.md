@@ -96,5 +96,7 @@ Nenurodyta
 - [[temos/simbolis]]
 
 ### Susiję objektai
+- [[objektai/asmenys/A. Smetona|A. Smetona (prezidentas, XX a.)]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Kino kronikos kameros]]
 - [[objektai/paprociai/Prezidento A. Smetonos iškilmingos kelionės po miestelius ir sutikimo vartų ceremonijos]]

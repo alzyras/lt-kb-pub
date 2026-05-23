@@ -50,5 +50,9 @@ Sukilėliai užimtame Kaune pastatė vokiečius prieš įvykusį faktą – už�
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/ivykiai/1941 m. Birželio sukilimas]]
+- [[objektai/vietos/Europa]]
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Laikinoji vyriausybė]]

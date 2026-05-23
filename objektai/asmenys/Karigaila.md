@@ -124,3 +124,11 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Dubysa]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/supremus dux ir magnus dux]]

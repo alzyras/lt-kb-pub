@@ -9,6 +9,7 @@ saltiniai:
 datos:
   - '1249 m.'
   - '1307 m.'
+  - '1382 m.'
 periodas: 'viduramžiai'
 periodo_grupes:
   - 'viduramžiai'
@@ -16,7 +17,7 @@ amziai:
   - 'XIII'
   - 'XIV'
 date_start: '1249'
-date_end: '1307'
+date_end: '1382'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -40,6 +41,10 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
   teiginys: 'Stiprindamas centrinę valdžią Mindaugas 1249 m. iš žemaičių kunigaikščio Vykinto ir savo sūnėnų Tautvilo bei Gedvydo atėmė jų valdas.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono Algimantaičio — jo Alšėnai.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -75,3 +80,25 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono Algimantaičio — jo Alšėnai.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Iš Vytauto brolio Tautvilos buvo atimtas
+    Naugardukas, o iš kunigaikščio Jono Algimantaičio — jo Alšėnai.
+    Šis nuo 1382 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/ivykiai/Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia)]]
+- [[objektai/grupes/Rygos vokiečiai]]
+- [[objektai/ivykiai/Tautvilo nužudymas (apie 1263-1264 m.)]]
+- [[objektai/asmenys/Vikintas]]

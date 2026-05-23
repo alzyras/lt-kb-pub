@@ -47,4 +47,5 @@ Reikala.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/rezervas]]
 - [[objektai/zodynas/bendrasis rezervas]]

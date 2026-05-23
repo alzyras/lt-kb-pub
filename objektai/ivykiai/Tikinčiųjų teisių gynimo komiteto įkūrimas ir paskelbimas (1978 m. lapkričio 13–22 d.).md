@@ -90,5 +90,12 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Tikinčiųjų teisių gynimo komitetas]]
+- [[objektai/asmenys/Jonas Kauneckas]]
+- [[objektai/asmenys/Juozas Zdebskis|Juozas Zdebskis (kunigas)]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Maskva]]
 - [[objektai/zodynas/kulto laisvė]]
+- [[objektai/asmenys/Sigitas Tamkevičius]]
+- [[objektai/asmenys/Alfonsas Svarinskas]]
+- [[objektai/grupes/Tikinčiųjų teisių gynimo komitetas]]
+- [[objektai/asmenys/Vincentas Vėlavičius|Vincentas Vėlavičius (kunigas)]]

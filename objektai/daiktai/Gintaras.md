@@ -68,4 +68,13 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/Aukausenos|aukausenos]]
+- [[objektai/daiktai/Geležiniai ginklai ir įrankiai]]
+- [[objektai/asmenys/Gintaras Žagunis]]
+- [[objektai/grupes/Gintaro rinktinė]]
+- [[objektai/asmenys/Jascha Heifetz]]
+- [[objektai/autoriai/Kassiodoras]]
+- [[objektai/autoriai/Tacitas (romėnų rašytojas, I amžiaus gale)]]
+- [[objektai/vietos/Turkija]]
+- [[objektai/daiktai/Gintaro ir stiklo karoliai]]
 - [[objektai/paprociai/Aukojimas ant auko kalnų ir didžiųjų akmenų]]

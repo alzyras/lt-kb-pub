@@ -88,4 +88,8 @@ Nenurodyta
 - [[temos/pinigai]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Kaributas]]
+- [[objektai/vietos/Kijevas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Naugardas]]
 - [[objektai/daiktai/Aleksandro pinigai]]

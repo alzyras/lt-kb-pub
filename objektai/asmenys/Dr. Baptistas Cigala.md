@@ -84,4 +84,8 @@ Baptistą Cigala. Cigala antrame savo atsakyme gina, kad karūnacijai atlikti ne
 - [[temos/aktas]]
 
 ### Susiję objektai
+- [[objektai/vietos/Krokuva]]
+- [[objektai/grupes/Krokuvos profesoriai]]
+- [[objektai/zodynas/apsikarūnavimas]]
+- [[objektai/zodynas/ciesorius]]
 - [[objektai/zodynas/Romos karalius]]

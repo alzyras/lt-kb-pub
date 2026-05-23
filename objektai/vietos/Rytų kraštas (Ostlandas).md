@@ -44,5 +44,7 @@ Liepos 17-osios nutarimu iš „buvusių laisvų Lietuvos, Latvijos, Estijos val
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Nacių Vokietija]]
+- [[objektai/vietos/Estija]]
+- [[objektai/vietos/Gudija]]
 - [[objektai/ivykiai/Rytų krašto (Ostlando) reicho komisariato sudarymas ir civilinio okupacinio valdymo įvedimas (1941 m. liepos pabaiga)]]
+- [[objektai/grupes/Nacių Vokietija]]

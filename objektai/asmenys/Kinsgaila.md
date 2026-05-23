@@ -52,3 +52,14 @@ Kiti vadai buvo maršalas Čupurna, per Žemaičių sukilimą pagarsėjęs Rumba
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Kaunas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Ukmergė]]
+- [[objektai/zodynas/maršalas]]
+- [[objektai/zodynas/seniūnas]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/asmenys/Sungaila]]
+- [[objektai/asmenys/Čupurna]]

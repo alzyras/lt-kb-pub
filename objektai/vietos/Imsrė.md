@@ -57,5 +57,11 @@ Livonijos ir Prūsų kryžiuočiai Pabaltijo žemių okupacijos eigoje pirmą ka
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Karšuvos sritis]]
+- [[objektai/vietos/Georgenburgas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Livonija]]
 - [[objektai/vietos/Mituva]]
+- [[objektai/vietos/Nemunas]]
+- [[objektai/vietos/Viena]]
+- [[objektai/vietos/Karšuvos sritis]]
+- [[objektai/vietos/Jurbarkas]]

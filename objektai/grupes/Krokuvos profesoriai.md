@@ -76,3 +76,13 @@ Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­ leisdami raštą, 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Krokuva]]
+- [[objektai/zodynas/apsikarūnavimas]]
+- [[objektai/zodynas/ciesorius]]
+- [[objektai/asmenys/Dr. Baptistas Cigala]]
+- [[objektai/zodynas/Romos karalius]]
+- [[objektai/daiktai/Karūna]]
+- [[objektai/asmenys/Zbignievas Olesnickis]]

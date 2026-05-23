@@ -67,3 +67,10 @@ Vartojamos formos: `dešimtininkus`, `šimtininkus`, `pulkorius`, `ratmistrais`,
 ## Pastabos
 
 - Dalies formų tiksli šiuolaikinė atitiktis ne iki galo aiški, bet hierarchija ir pareiginis pobūdis akivaizdūs.
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kalnėnai]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/paprociai/Paimtų priešo vadų aukojimas dievams ir kaukolių naudojimas pokyliuose]]
+- [[objektai/zodynas/Pilies ir rūmų pareigybės|pilies ir rūmų pareigybės]]

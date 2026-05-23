@@ -78,4 +78,9 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Europa]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Luckas]]
+- [[objektai/ivykiai/Lucko suvažiavimas]]
+- [[objektai/vietos/Niurnbergas]]
 - [[objektai/daiktai/Vytauto ir Julijonos karūnos]]

@@ -62,4 +62,7 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuvos Brasta]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/vietos/Vokietija]]

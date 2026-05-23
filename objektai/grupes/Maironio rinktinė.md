@@ -83,7 +83,13 @@ Lukšio rinktinė (netrukus pervadinta į Maironio), joje J. Apygradoje prasidė
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Juozas Paliūnas-Rytas]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Kęstučio apygarda]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
+- [[objektai/autoriai/Maironis]]
 - [[objektai/grupes/P. Lukšio rinktinė]]
-- [[objektai/asmenys/Povilas Morkūnas-Rimantas]]
 - [[objektai/grupes/Prisikėlimo apygarda]]
+- [[objektai/ivykiai/Užpelkių kautynės]]
+- [[objektai/asmenys/Juozas Paliūnas-Rytas]]
+- [[objektai/asmenys/Povilas Morkūnas-Rimantas]]

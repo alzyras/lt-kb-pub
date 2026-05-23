@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
+  - '1932 m.'
   - '1936 m.'
   - '2026 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
@@ -15,7 +16,7 @@ periodo_grupes:
 amziai:
   - 'XX'
   - 'XXI'
-date_start: '1936'
+date_start: '1932'
 date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
@@ -71,6 +72,10 @@ Tam tikslui 1932 m. įsikūrė Draugija Užsienio Lietuviams Remti (DULR). Rūpi
   teiginys: 'Kadangi pagrindinė sąlyga suaugusiems nenutausti yra savos lietuviškos organizacijos ir spauda, tai DULR kiek galėdama stengiasi palaikyti visas tautiškas ir ekonomiškas užsienio lietuvių draugijas ir spaudą.'
   pagrindžia:
     - c-007
+- t-008
+  teiginys: 'Taigi dar reikia rasti tokią vietą, kur lietuviams kurtis būtų patogios klimato sąlygos, kuri dar nebūtų kitų tautų užimta ir kuri bent ateity turėtų didelių ekonominių perspektyvų.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -200,7 +205,46 @@ Tam tikslui 1932 m. įsikūrė Draugija Užsienio Lietuviams Remti (DULR). Rūpi
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-008
+  santrauka: 'Taigi dar reikia rasti tokią vietą, kur lietuviams kurtis būtų patogios klimato sąlygos, kuri dar nebūtų kitų tautų užimta ir kuri bent ateity turėtų didelių ekonominių perspektyvų.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Ten, kur lietuviai jau seniai įsikūrę ir jų gyvenimas jau nusi-
+
+    stojęs, — DULR rūpi tik palaikyti jų tautišką sąmonę ir ryšį su
+    Lietuva (pavyzdžiui, J. Amerikos Valstybėse ir kai kuriose kolonijose
+    Europoje — Anglijoje, Latvijoje ir kt.). Bet yra kraštų, kur lietuviai
+    dar neseniai nuvyko, kur jie dar nespėjo tinkamai įsikurti, kur dau-
+    gelis išvargusių išeivių prašo Lietuvos konsulatus grąžinti juos namo.
+    Ypatingai daug lietuvių vargsta Pietų Amerikoje; čia labiausiai ir
+    reikalinga jiems parama. Čia daug reikia lėšų ne tik organizacijoms,
+    mokykloms ir spaudai, bet taip pat ir ekonominiam gyvenimui pakelti.
+    Pietų Amerika dar tebėra didelių galimybių kraštas, dar dideli
+    žemės plotai tebėra neišnaudoti, ir daugely vietų būtų galima įkurti
+    grynai lietuviškų kolonijų, kokių kad turi kitos tautos. Tačiau ne
+    visos Pietų Amerikos sritys tinka europiečiams gyventi. Taigi dar
+    reikia rasti tokią vietą, kur lietuviams kurtis būtų patogios klimato
+    sąlygos, kuri dar nebūtų kitų tautų užimta ir kuri bent ateity turėtų
+    didelių ekonominių perspektyvų. Tam tikslui reikia nemažai tyrinėti,
+    gerai pažinti kraštą ir nemaža kapitalo lietuviškajai kolonijai kurti.
+    Jau prieš kelerius metus P. Amerikos lietuvių tarpe buvo kilusi ta
+    idėja, buvo net pradėtas darbas; bet įsimaišius įvairiems makleriams,
+    tas sumanymas davė išeiviams tik didelius nuostolius, nes užpirktos
+    žemės pasirodė netinkamos. Taigi DULR ėmėsi ir šito tiriamojo
+    darbo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Europa]]
+- [[objektai/vietos/Latvija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Pietų Amerika]]
 - [[objektai/ivykiai/Draugijos Užsienio Lietuviams Remti įsikūrimas ir veikla (1932 m.)]]

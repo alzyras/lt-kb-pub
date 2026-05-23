@@ -127,5 +127,18 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Baltija]]
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Latvija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Radviliškis]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Meškuičiai]]
+- [[objektai/ivykiai/Radviliškio kautynės (1919 m. lapkričio 21–22 d.)]]
+- [[objektai/zodynas/komendantūra]]
+- [[objektai/vietos/Šiaurės Lietuva]]
+- [[objektai/ivykiai/Bermontininkų įsiveržimas į Lietuvą (1919 m. liepos 26 d.)]]
+- [[objektai/vietos/Kuršėnai]]
+- [[objektai/asmenys/Virgoličius]]
 - [[objektai/ivykiai/Lietuvos karo padėties paskelbimas ir sprendimas išvaryti bermontininkus iš Lietuvos (1919 m. spalio 9–16 d.)]]
 - [[objektai/zodynas/karo padėtis]]

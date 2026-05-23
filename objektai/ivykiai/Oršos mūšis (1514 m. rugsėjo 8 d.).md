@@ -75,5 +75,7 @@ Nenurodyta
 - [[temos/karvedys]]
 
 ### Susiję objektai
-- [[objektai/autoriai/Mykolas Lietuvis]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/asmenys/Mykolas]]
+- [[objektai/vietos/Vilnius]]
 - [[objektai/ivykiai/Oršos mūšis (1514 m.)]]

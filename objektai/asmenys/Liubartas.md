@@ -45,9 +45,13 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-013
-  teiginys: 'pasimirus Haličo Boleslovui Jurgiui Traidenaičiui, dėl Haličo ir Volynijos susivaržė Boleslovo giminaitis Kazimieras did. ir Gedimino sūnus Liubartas, kuris su išmirusią Pomanaičiu gi­ mine buvo susigiminiavęs vesdamas paskutinio Volynijos ku­ nigaikščio.'
+  teiginys: 'Gedimino sūnus Liubartas dėl Haličo ir Volynijos varžėsi su Boleslovo giminaičiu Kazimieru Didžiuoju.'
   pagrindžia:
     - c-004
+- t-014
+  teiginys: 'Taip pat kaip Algirdui dar „gerą partiją“ jis surado Liubartui, ku­ ris vedė vienturtę Volynijos kunigaikščio įpėdinę.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -99,7 +103,7 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
     - t-011
     - t-012
 - c-004
-  santrauka: 'pasimirus Haličo Boleslovui Jurgiui Traidenaičiui, dėl Haličo ir Volynijos susivaržė Boleslovo giminaitis Kazimieras did. ir Gedimino sūnus Liubartas, kuris su išmirusią Pomanaičiu gi­ mine buvo susigiminiavęs vesdamas paskutinio Volynijos ku­ nigaikščio.'
+  santrauka: 'Gedimino sūnus Liubartas dėl Haličo ir Volynijos varžėsi su Boleslovo giminaičiu Kazimieru Didžiuoju.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     1340 met.
@@ -115,3 +119,31 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-013
+- c-005
+  santrauka: 'Taip pat kaip Algirdui dar „gerą partiją“ jis surado Liubartui, ku­ ris vedė vienturtę Volynijos kunigaikščio įpėdinę.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Apskritai reikia pasakyti, kad gausingų savo
+    sūnų ir dukterų vedybomis Gediminas laimėjo gana daug. Jo
+    politikos sistemoje tai buvo vienas pagrindinis ramstis. Taip
+    pat kaip Algirdui dar „gerą partiją“ jis surado Liubartui, ku­
+    ris vedė vienturtę Volynijos kunigaikščio įpėdinę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/autoriai/J. Puzyna]]
+- [[objektai/grupes/Karijotaičiai]]
+- [[objektai/vietos/Ortelsburgas]]
+- [[objektai/vietos/Polesė]]
+- [[objektai/asmenys/Teodoras (Karijoto sūnus)]]
+- [[objektai/asmenys/Teodoras (Liubarto sūnus)]]
+- [[objektai/ivykiai/Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas]]
+- [[objektai/asmenys/Boleslovas Jurgis Traidenaitis]]
+- [[objektai/vietos/Volinija]]

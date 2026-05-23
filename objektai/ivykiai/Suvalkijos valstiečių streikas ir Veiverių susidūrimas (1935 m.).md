@@ -56,4 +56,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Kaunas]]
 - [[objektai/grupes/Kooperacinės bendrovės „Lietūkis“, „Pienocentras“ ir „Maistas“]]

@@ -40,3 +40,11 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvos Respublikos švietimo ministerija]]
+- [[objektai/ivykiai/Lietuvos istorijos parašymas ir išleidimas Švietimo ministerijos iniciatyva (1936 m.)]]

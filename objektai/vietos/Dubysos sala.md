@@ -57,4 +57,9 @@ Taip 1396 m. Vytautas su magistru susivažiavo Dubysos saloj.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Dubysa]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/supremacija]]
 - [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija]]

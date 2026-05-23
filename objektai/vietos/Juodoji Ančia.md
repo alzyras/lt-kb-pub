@@ -52,5 +52,9 @@ Galiausiai spalio 7 d. buvo nustatyta demarkacinė linija nuo Vokietijos sienos 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/ivykiai/Suvalkų derybos ir demarkacinės linijos nustatymas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Nemunas]]
 - [[objektai/vietos/Varėna]]
+- [[objektai/vietos/Vokietija]]
+- [[objektai/zodynas/demarkacijos linija]]
+- [[objektai/ivykiai/Suvalkų derybos ir demarkacinės linijos nustatymas]]

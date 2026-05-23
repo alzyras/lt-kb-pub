@@ -96,4 +96,8 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)]]
+- [[objektai/grupes/Švedai]]

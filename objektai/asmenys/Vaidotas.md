@@ -75,3 +75,8 @@ Iš ordino žemių patekęs į Vakarus, po studijų Pragos universitete, nuo 140
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Vaidotas (Butauto sūnus)]]
+- [[objektai/ivykiai/Vaidoto pabėgimas į Prūsus]]

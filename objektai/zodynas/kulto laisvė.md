@@ -48,5 +48,10 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Alfonsas Svarinskas]]
+- [[objektai/asmenys/Jonas Kauneckas]]
+- [[objektai/asmenys/Juozas Zdebskis|Juozas Zdebskis (kunigas)]]
+- [[objektai/asmenys/Sigitas Tamkevičius]]
 - [[objektai/grupes/Tikinčiųjų teisių gynimo komitetas]]
 - [[objektai/ivykiai/Tikinčiųjų teisių gynimo komiteto įkūrimas ir paskelbimas (1978 m. lapkričio 13–22 d.)]]
+- [[objektai/asmenys/Vincentas Vėlavičius|Vincentas Vėlavičius (kunigas)]]

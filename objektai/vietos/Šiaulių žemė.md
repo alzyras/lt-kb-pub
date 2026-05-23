@@ -57,3 +57,11 @@ as Šia 1358 m. Livonijos ordinas įsiveržė į Šiaulių žemę, sugriovė „
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Dubysa]]
+- [[objektai/asmenys/Hermanas]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/grupes/Livonijos ordinas]]
+- [[objektai/vietos/Šiauliai]]

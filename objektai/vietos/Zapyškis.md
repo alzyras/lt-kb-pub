@@ -41,3 +41,9 @@ pirmame trečdalyje, kai buvo pastatyti reikšmingiausi paminklai Kaune ir ypač
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Kaunas]]
+- [[objektai/zodynas/gotika]]
+- [[objektai/vietos/Kėdainiai]]

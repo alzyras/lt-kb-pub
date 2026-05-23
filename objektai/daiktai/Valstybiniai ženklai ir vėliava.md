@@ -72,4 +72,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/daiktai/Vėliavos]]
 - [[objektai/ivykiai/Tautai ir valstybei saugoti įstatymo priėmimas ir nacių organizacijų uždraudimas (1934 m.)]]

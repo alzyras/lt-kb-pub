@@ -86,3 +86,12 @@ tags:
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
+
+### Susiję objektai
+- [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/grupes/Riurikaičių dinastija]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Smolenskas]]

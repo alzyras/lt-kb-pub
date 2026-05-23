@@ -57,4 +57,10 @@ Kai kartą jam kažkas priminė jo didelį duosnumą dalinant toto­ riams žeme
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/posakiai/gerumu galima ir laukinius žvėris sušvelninti]]
+- [[objektai/vietos/Dniepras]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/posakiai/Todėl ir reikia kariauti, nes jeigu nugalėsim, gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės apie mus, kad mus nugalėjo du]]
+- [[objektai/vietos/Viena]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/posakiai/gerumu galima ir laukinius žvėris sušvelninti|gerumu galima ir laukinius žvėris sušvelninti.]]

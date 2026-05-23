@@ -132,5 +132,16 @@ Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų opozicijos centra
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Dauguva]]
+- [[objektai/asmenys/Daumantas]]
 - [[objektai/vietos/Deltuva]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Mikalojus (Gniezno arkivyskupas)]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/vietos/Pskovas]]
+- [[objektai/vietos/Ryga]]
+- [[objektai/vietos/Viena]]
+- [[objektai/zodynas/kunigas]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/vietos/Livonija]]
 - [[objektai/zodynas/družina]]

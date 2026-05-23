@@ -78,5 +78,8 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Kujavija]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Liublinas]]
 - [[objektai/vietos/Dobryniaus]]
 - [[objektai/vietos/Kališo sritis]]

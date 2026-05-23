@@ -89,3 +89,7 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Kėdainiai]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Eiguliai]]
+- [[objektai/vietos/Juodikis miškas]]
+- [[objektai/vietos/Paobeliai]]

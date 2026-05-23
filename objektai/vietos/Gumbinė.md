@@ -13,6 +13,7 @@ periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
   - 'modernioji Lietuva'
 amziai:
+  - 'XVIII'
   - 'XX'
   - 'XXI'
 date_start: '1936'
@@ -38,6 +39,10 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
   teiginys: 'Rytų fronte Vokiečių jėgų menkumas leido Rusijos kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gumbinės, Stalupėnų.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Prūsijoje buvo net oficialiai vartojamas Lietuvos vardas – įsteigtas Lietuvos departamentas, kurio centras Gumbinė, – ilgainiui dėl germanizacijos ir savaiminio lietuvių vokietėjimo lietuvių kalbos vartojimas Prūsijoje siaurėjo, o po Antrojo pasaulinio karo.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -70,8 +75,29 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Prūsijoje buvo net oficialiai vartojamas Lietuvos vardas – įsteigtas Lietuvos departamentas, kurio centras Gumbinė, – ilgainiui dėl germanizacijos ir savaiminio lietuvių vokietėjimo lietuvių kalbos vartojimas Prūsijoje siaurėjo, o po Antrojo pasaulinio karo.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Nors XVIII a. Prūsijoje buvo net oficia-
+    liai vartojamas Lietuvos vardas – įsteigtas Lietuvos departamentas, kurio
+    centras Gumbinė, – ilgainiui dėl germanizacijos ir savaiminio lietuvių
+    vokietėjimo lietuvių kalbos vartojimas Prūsijoje siaurėjo, o po Antrojo
+    pasaulinio karo, iš Prūsijos pasitraukus seniesiems gyventojams, lietuviš-
+    kai kalbančiųjų nebeliko.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Stalupėnai]]
-- [[objektai/vietos/Įsrutis]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Prūsija]]
+- [[objektai/zodynas/germanizacija]]
+- [[objektai/autoriai/S. Grunau]]
+- [[objektai/autoriai/Simono Grunau]]

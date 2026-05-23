@@ -60,4 +60,8 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/posakiai/Kad būtų viena tauta, viena visuomenė, viena brolija (fraternitas) ir bendri seimai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Jogailaičiai]]
+- [[objektai/vietos/Viena]]
 - [[objektai/ivykiai/Salaspilio (Kirchholmo) mūšis]]

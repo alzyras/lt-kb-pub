@@ -26,7 +26,7 @@ Sierakausko nurodymu jie : SUKILĖLIŲ PULKAI Iš Liudvikos Gedgaudienės-Didži
 
 ## Teiginiai
 - t-001
-  teiginys: 'Sierakausko nurodymu jie : SUKILĖLIŲ PULKAI Iš Liudvikos Gedgaudienės-Didžiulienės užrašų. Sukilimo metu dar vaiku buvusios moters prisiminimai apie telkiamas sukilėlių pajėgas Salų miestelyje. „Štai vieną dieną bažnyčioje visais varpais skambina.'
+  teiginys: 'Liudvikos Gedgaudienės-Didžiulienės atsiminimuose minima, kad sukilėlių pajėgos buvo telkiamos Salų miestelyje.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -34,7 +34,7 @@ Sierakausko nurodymu jie : SUKILĖLIŲ PULKAI Iš Liudvikos Gedgaudienės-Didži
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Sierakausko nurodymu jie : SUKILĖLIŲ PULKAI Iš Liudvikos Gedgaudienės-Didžiulienės užrašų. Sukilimo metu dar vaiku buvusios moters prisiminimai apie telkiamas sukilėlių pajėgas Salų miestelyje. „Štai vieną dieną bažnyčioje visais varpais skambina.'
+  santrauka: 'Liudvikos Gedgaudienės-Didžiulienės atsiminimuose minima, kad sukilėlių pajėgos buvo telkiamos Salų miestelyje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Z. Sierakausko nurodymu jie
@@ -55,4 +55,9 @@ Sierakausko nurodymu jie : SUKILĖLIŲ PULKAI Iš Liudvikos Gedgaudienės-Didži
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Viena]]
+- [[objektai/vietos/Galvės ežero salos pilis]]
+- [[objektai/vietos/Malburgas]]
+- [[objektai/vietos/Trakų salos pilis]]
+- [[objektai/zodynas/apsaugos raštas]]
 - [[objektai/autoriai/Liudvika Gedgaudienė-Didžiulienė]]

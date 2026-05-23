@@ -6,6 +6,12 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - bajorija
@@ -38,6 +44,10 @@ Tiesa, pirmosios Čartoriskių reformos buvo tuojau apgriautos. Šitokioje būkl
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: 'Vėliau iš šių periferinių sritinių žemių kunigaikščių kilo garsios vėlesnių laikų LDK giminės – Sanguškos, Čartoriskiai, Vyšnioveckiai, Sluckiai.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -98,7 +108,37 @@ Tiesa, pirmosios Čartoriskių reformos buvo tuojau apgriautos. Šitokioje būkl
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-004
+  santrauka: 'Vėliau iš šių periferinių sritinių žemių kunigaikščių kilo garsios vėlesnių laikų LDK giminės – Sanguškos, Čartoriskiai, Vyšnioveckiai, Sluckiai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vėliau
+    iš šių periferinių sritinių žemių kunigaikščių kilo garsios vėlesnių laikų
+    LDK giminės – Sanguškos, Čartoriskiai, Vyšnioveckiai, Sluckiai. Be to,
+    stačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys kuni-
+    gaikščiai, kilę ne iš valdančiosios Gediminaičių dinastijos, pavyzdžiui,
+    Alšėnų kunigaikščiai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Alšėnų kunigaikščiai]]
+- [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/posakiai/Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те liberum veto veto]]
+- [[objektai/vietos/Klevanė]]
+- [[objektai/vietos/Kovelis]]
+- [[objektai/vietos/Mlynivas]]
+- [[objektai/vietos/Ostrohas]]
+- [[objektai/vietos/Pulavai]]
+- [[objektai/vietos/Slavuta]]
+- [[objektai/vietos/Tulčinas]]
+- [[objektai/vietos/Vyšnivecis]]
+- [[objektai/zodynas/tėvonija]]
+- [[objektai/zodynas/tėvonija tėvų palikimas]]
+- [[objektai/grupes/Sluckiai]]

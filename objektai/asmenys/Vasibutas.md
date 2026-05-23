@@ -55,3 +55,12 @@ Jo pareigū­ nas Rumbaudas ir dar keli kiti bajorai (Galminas, Getautas, Klau­
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Nemunas]]
+- [[objektai/vietos/Nevėžis]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/vietos/Krekenava]]

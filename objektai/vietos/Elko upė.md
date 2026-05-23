@@ -58,4 +58,5 @@ Mūšis Spalio 8 d. kariuomenės suartėjo ties Prostkais skiriamos Elko upės.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Prostkai]]

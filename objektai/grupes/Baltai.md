@@ -51,13 +51,17 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   pagrindžia:
     - c-003
 - t-005
-  teiginys: ') baltuose ir jų san­ tykiai su kaimynais Įsikūrę vietose, kur pati gamta iš dalies teikė kliūčių judėjimui (pvz., iš pietų pusės ilgus amžius baltus saugojo nepereinamos Pripetės pelkės), baltai nepadarė didelių šuolių, ir, kai Europoje vyko germanų tautų.'
+  teiginys: 'Baltai, nepaisant germanų tautų kraustymosi, liko gyventi Nemuno, Dauguvos ir Dniepro plote ir mažai judėjo.'
   pagrindžia:
     - c-004
 - t-006
   teiginys: 'Su slavais baltų protėviai, ypač iki geležies amžiaus pradžios, yra turėję artimų santykių.'
   pagrindžia:
     - c-005
+- t-007
+  teiginys: 'I s k y r i u s SENOJI LIETUVA SENOVĖS BALTAI IR LIETUVOS VALSTYBĖS ATSIRADIMAS M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, gyvenusių arba gyvenančių Baltijos jūros rytų pakraštyje ir kalbėjusių arba kalbančių giminiškomis.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -112,7 +116,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   pagrindžia:
     - t-004
 - c-004
-  santrauka: ') baltuose ir jų san­ tykiai su kaimynais Įsikūrę vietose, kur pati gamta iš dalies teikė kliūčių judėjimui (pvz., iš pietų pusės ilgus amžius baltus saugojo nepereinamos Pripetės pelkės), baltai nepadarė didelių šuolių, ir, kai Europoje vyko germanų tautų.'
+  santrauka: 'Baltai, nepaisant germanų tautų kraustymosi, liko gyventi Nemuno, Dauguvos ir Dniepro plote ir mažai judėjo.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     ) baltuose ir jų san­**
@@ -149,8 +153,39 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-006
+  santrauka: 'I s k y r i u s SENOJI LIETUVA SENOVĖS BALTAI IR LIETUVOS VALSTYBĖS ATSIRADIMAS M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, gyvenusių arba gyvenančių Baltijos jūros rytų pakraštyje ir kalbėjusių arba kalbančių giminiškomis.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    I s k y r i u s
+    SENOJI LIETUVA
+    SENOVĖS BALTAI IR
+    LIETUVOS VALSTYBĖS ATSIRADIMAS
+    M
+    oksle baltais paprastai vadinama grupė indoeuro-
+    piečių genčių ir tautų, gyvenusių arba gyvenančių
+    Baltijos jūros rytų pakraštyje ir kalbėjusių arba kalbančių giminiškomis
+    kalbomis, kurios sudaro atskirą indoeuropiečių kalbų šeimos šaką. Šian-
+    dien šiai šakai atstovauja likusios gyvuoti tik lietuvių ir latvių kalbos. Bal-
+    tai ir jų ainiai, lietuviai ir latviai, sėsliai prie Baltijos jūros gyvena mažiau-
+    siai 4 tūkstančius metų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Baltija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/autoriai/A. Kočubinskij]]
+- [[objektai/grupes/Bartai]]
+- [[objektai/grupes/Nadruviai]]
 - [[objektai/vietos/Nemuno-Dauguvos-Dniepro plotas]]
 - [[objektai/vietos/Pripetės pelkės]]
+- [[objektai/grupes/Skalviai]]
+- [[objektai/autoriai/Sobolevskij]]

@@ -41,3 +41,12 @@ Tarptautinis olimpinis komitetas 1991 m. rugpjūtį atkūrė Lietuvos tautinio o
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/ivykiai/Lietuvos tautinio olimpinio komiteto tarptautinių teisių atkūrimas (1991 m. rugpjūtis)]]
+- [[objektai/grupes/Lietuvos tautinis olimpinis komitetas]]
+- [[objektai/daiktai/Olimpiniai medaliai]]
+- [[objektai/paprociai/Lietuvos sportininkų atsisakymas dalyvauti SSRS rinktinėse ir atstovavimas Lietuvai]]

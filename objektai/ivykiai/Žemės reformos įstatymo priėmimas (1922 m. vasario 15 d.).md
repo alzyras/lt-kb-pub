@@ -118,3 +118,6 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/politinis-sprendimas]]
+
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]

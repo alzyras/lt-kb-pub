@@ -59,3 +59,14 @@ Demokratinė Rusija, kaip ir Lietuva siekusi atsiskirti nuo SSRS, atvirai rėmė
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Baltija]]
+- [[objektai/vietos/Estija]]
+- [[objektai/vietos/Latvija]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/SSRS]]
+- [[objektai/grupes/Baltijos valstybės]]
+- [[objektai/posakiai/geopolitine katastrofa]]
+- [[objektai/ivykiai/Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutarties pasirašymas (1991 m. liepos 29 d.)]]

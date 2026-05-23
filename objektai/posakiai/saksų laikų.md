@@ -50,3 +50,8 @@ Ir Rusijai ir lietuvių-lenkų respublikai Petro Didžiojo epocha, kuri sutapo s
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/vietos/Rusija]]

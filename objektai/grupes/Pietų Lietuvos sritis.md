@@ -71,3 +71,17 @@ Vėliau jis tapo Dainavos apygardos ir Pietų Lietuvos srities partizanų vadu. 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Aleksandras]]
+- [[objektai/asmenys/Antanas Liesys-Idenas]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Minaičių kaimas]]
+- [[objektai/grupes/Pietų Lietuvos (Nemuno) sritis]]
+- [[objektai/vietos/Radviliškis]]
+- [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/vietos/Pietų Lietuva]]
+- [[objektai/vietos/Vakarų Lietuva]]

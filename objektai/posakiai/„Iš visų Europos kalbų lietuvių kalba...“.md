@@ -6,6 +6,13 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai:
+  - 'X'
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - posakis
@@ -30,6 +37,10 @@ tags:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Benjaminas W. Dwightas teigė, kad lietuvių kalba turi daugiausia maloninių ir mažybinių žodžių tarp Europos kalbų.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -72,3 +83,34 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Benjaminas W. Dwightas teigė, kad lietuvių kalba turi daugiausia maloninių ir mažybinių žodžių tarp Europos kalbų.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    IV s k y r i u s
+    LIETUVOS VALSTYBĖS
+    ATKŪRIMAS
+    „Iš visų Europos kalbų lietuvių kalba turi didžiausią skaičių
+    maloninių ir mažybinių žodžių, daugiau, negu ispanų ar italų
+    kalbos, netgi rusų, ir jie gali būti dauginami be galo, pridedant
+    juos prie veiksmažodžių ir prieveiksmių, lygiai kaip prie
+    būdvardžių ir daiktavardžių. Jeigu tautos vertė, imant visą
+    žmoniją, būtų matuojama kalbos grožiu, tai lietuvių tauta turėtų
+    užimti pirmą vietą tarp Europos tautų“
+    Benjamin W. Dwight
+    Iš jo „Modern Philology“ („Modernioji filologija“)
+    X
+    X a.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Europa]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]

@@ -55,3 +55,9 @@ Marvelė pamaskvėje prie Protvos (Pratuvos), senojoje rytinių galindų žemėj
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Maskva]]

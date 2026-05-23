@@ -85,3 +85,9 @@ Ypač didelis nepasitenkinimas ordinu ėjo iš to, kad krašte buvo smarkiai įs
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Krokuva]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/ivykiai/Reformacijos pradžia Lietuvoje]]

@@ -8,6 +8,7 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1920 m.'
+  - '1926 m.'
   - '2013 m.'
   - '2026 m.'
 periodas: 'atkurtos nepriklausomybės laikotarpis'
@@ -39,6 +40,10 @@ Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos l
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Tačiau krikščionių demokratų blokas, Katalikų veikimo centras (KVC) nuolat kvėpavo į pakaušį – tautininkai taip ir nesugebėjo monopolizuoti ideologinės ir organizacinės erdvės.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -58,3 +63,24 @@ Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos l
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Tačiau krikščionių demokratų blokas, Katalikų veikimo centras (KVC) nuolat kvėpavo į pakaušį – tautininkai taip ir nesugebėjo monopolizuoti ideologinės ir organizacinės erdvės.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tačiau krikščionių demokratų blokas, Katalikų veikimo
+    centras (KVC) nuolat kvėpavo į pakaušį – tautininkai taip ir nesugebėjo
+    monopolizuoti ideologinės ir organizacinės erdvės. Katalikų organizaci-
+    jos, jaunimo grupės buvo gausesnės nei tautininkų, jų spauda – įtakinges-
+    nė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Katalikų veikimo centras]]
+- [[objektai/ivykiai/Steigiamojo Seimo rinkimai ir pirmasis posėdis (1920 m.)]]

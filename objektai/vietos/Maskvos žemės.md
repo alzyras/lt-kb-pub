@@ -62,3 +62,13 @@ Tokiu nuolatinių kovų laiku augo Vytautas savo tėvo dva­ re Trakuose, todėl
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Kaunas]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/vietos/Maskva]]

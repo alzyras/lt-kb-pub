@@ -45,5 +45,8 @@ Nuo 1387 m. LDK yra katalikiška, kaip ir Lenkija, tačiau Lenkijoje apie 1500 m
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Kijevas]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Vilnius]]
 - [[objektai/ivykiai/Brastos bažnytinė unija]]
 - [[objektai/grupes/Graikų katalikų bažnyčia]]

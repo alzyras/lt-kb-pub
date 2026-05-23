@@ -19,6 +19,7 @@ datos:
   - '2026 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
+  - 'XX a.'
   - 'modernioji Lietuva'
 amziai:
   - 'XX'
@@ -69,6 +70,18 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
   teiginys: 'Kovos ėjo prie Alytaus, ir kovo mėnesį iš rusų buvo atimtas Jėznas, Butrimonys ir toliau, šiaurėj, Krekenava.'
   pagrindžia:
     - c-006
+- t-013
+  teiginys: 'Decentralizuotai plėtojant pramonę, geriau panaudoti vietiniai darbo ištekliai, Alytaus, Plungės, Utenos gamyklose nuo 50 iki 70 proc.'
+  pagrindžia:
+    - c-007
+- t-014
+  teiginys: 'Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Katrą, paežerėse nuo Lydos iki Alytaus ir Užne­ munės durpynuose.'
+  pagrindžia:
+    - c-008
+- t-015
+  teiginys: '173 r ‘wv 2 m = o vi = = x rą a 7 sa kovos ## Puslapis 176 LIETUVOS, RESPUBLIKA Prieš mūšį Įgyvendindamos Kauno užėmimo planą bolševikų pajėgos ketino veržtis iki Nemuno, persikelti per jį Prienuose ir Alytuje ir pulti Kauną iš pietų.'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -217,3 +230,110 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-012
+- c-007
+  santrauka: 'Decentralizuotai plėtojant pramonę, geriau panaudoti vietiniai darbo ištekliai, Alytaus, Plungės, Utenos gamyklose nuo 50 iki 70 proc.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Decentralizuotai plėtojant pramonę, geriau
+    panaudoti vietiniai darbo ištekliai, Alytaus, Plungės, Utenos gamyklose
+    nuo 50 iki 70 proc. darbininkų buvo to paties miesto ar rajono gyventojai
+    ir tik 3–5 proc. – atvykėliai iš SSRS.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+- c-008
+  santrauka: 'Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Katrą, paežerėse nuo Lydos iki Alytaus ir Užne­ munės durpynuose.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Mezolito įrankių gausiai aptikta palei upes Nemuną,
+    Nerį, Merkį, Ūlą, Katrą, paežerėse nuo Lydos iki Alytaus ir Užne­
+    munės durpynuose.
+    Į mezolito laikotarpio galą jau buvo pažįstamas ir pirmas
+    prijaukintas gyvulys, būtent šuo, kuris tada vartotas ir mėsai (gy­
+    vos mėsos « konservavimas »)^3.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
+- c-009
+  santrauka: '173 r ‘wv 2 m = o vi = = x rą a 7 sa kovos ## Puslapis 176 LIETUVOS, RESPUBLIKA Prieš mūšį Įgyvendindamos Kauno užėmimo planą bolševikų pajėgos ketino veržtis iki Nemuno, persikelti per jį Prienuose ir Alytuje ir pulti Kauną iš pietų.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    173
+
+    r
+    ‘wv
+    2
+
+    m
+
+    =
+
+    o
+
+    vi
+
+    =
+    =
+    x
+    rą
+
+    a
+
+    7
+    sa
+
+    kovos
+
+    ## Puslapis 176
+
+    LIETUVOS,
+    RESPUBLIKA
+
+    Prieš mūšį
+    Įgyvendindamos Kauno užėmimo planą
+    bolševikų pajėgos ketino veržtis iki
+    Nemuno, persikelti per jį Prienuose ir
+    Alytuje ir pulti Kauną iš pietų. Tai buvo
+    svarbi kompleksinių Raudonosios armi-
+    jos veiksmų plano, nukreipto prieš at-
+    gimusį Lietuvos valstybingumą, dalis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Alovė]]
+- [[objektai/vietos/Katra]]
+- [[objektai/ivykiai/Kėdainių kautynės ir Povilo Lukšio žūtis (1919 m. vasario 7–9 d.)]]
+- [[objektai/daiktai/Lietuvos akmens amžiaus dirbiniai]]
+- [[objektai/daiktai/Mosin-Nagant šautuvas]]
+- [[objektai/grupes/Nemunaičio apylinkių partizanų būrys]]
+- [[objektai/ivykiai/Pirmasis Vilniaus krašto okupavimas (1919 m. balandžio 19 d.)]]
+- [[objektai/vietos/Prienai]]
+- [[objektai/daiktai/Rusiškas 1870 m. modelio šautuvas Berdan Nr. 2]]
+- [[objektai/vietos/Smalėnai]]
+- [[objektai/vietos/Tabariškės]]
+- [[objektai/vietos/Varčios miškas]]
+- [[objektai/vietos/Varėna]]
+- [[objektai/vietos/Šeštokai]]
+- [[objektai/vietos/Ūla]]
+- [[objektai/vietos/Žiežmariai]]
+- [[objektai/ivykiai/Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]
+- [[objektai/asmenys/Jonas Neifalta-Lakūnas]]
+- [[objektai/vietos/Subartonys]]

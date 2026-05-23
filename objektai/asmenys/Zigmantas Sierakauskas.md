@@ -163,3 +163,12 @@ Pavasarį paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu buvęs Rusijos a
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Daugpilis]]
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/gubernija]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/paprociai/Carinės sukilimo slopinimo teroro ir viešų bausmių praktika]]
+- [[objektai/paprociai/Sukilėlių partizaninio karo nedidelių antpuolių taktika]]
+- [[objektai/zodynas/palivarkas]]

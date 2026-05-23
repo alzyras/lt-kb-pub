@@ -52,3 +52,13 @@ Olesnickis be Vy­ tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/asmenys/Sofija (Vytauto duktė)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/ivykiai/Vengrų karaliaus karo paskelbimas Lenkijai (1410 m. liepos 11 d.)]]
+- [[objektai/daiktai/Karūna]]
+- [[objektai/vietos/Podolija]]

@@ -94,3 +94,10 @@ karių, kuriai vadovavo generolas Antanas Gelgaudas.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Artilerija]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Vilnius]]

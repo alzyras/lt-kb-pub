@@ -94,4 +94,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Aukaimis]]
+- [[objektai/vietos/Ragainė]]
+- [[objektai/zodynas/komtūras]]
 - [[objektai/vietos/Aukaimio pilis]]

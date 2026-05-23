@@ -56,3 +56,11 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Brandenburgas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Semba]]
+- [[objektai/vietos/Vokietija]]
+- [[objektai/vietos/Čekija]]

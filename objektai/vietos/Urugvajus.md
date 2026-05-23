@@ -63,3 +63,23 @@ Lietuviai vyko daugiausia į Pietų Amerikos šalis (Argentiną, Braziliją, Ven
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Brazilija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvos diplomatinė tarnyba]]
+- [[objektai/vietos/SSRS]]
+- [[objektai/vietos/Vatikanas]]
+- [[objektai/vietos/Venesuela]]
+- [[objektai/vietos/Didžioji Britanija]]
+- [[objektai/vietos/JAV]]
+- [[objektai/vietos/Kanada]]
+- [[objektai/vietos/Kolumbija]]
+- [[objektai/ivykiai/Lietuviškos spaudos ir organizacijų kūrimasis Pietų Amerikoje (1927–1936 m.)]]
+- [[objektai/vietos/Pietų Amerika]]
+- [[objektai/vietos/Prancūzija]]
+- [[objektai/grupes/Užsienio lietuviai]]
+- [[objektai/vietos/Viena]]
+- [[objektai/vietos/Argentina]]

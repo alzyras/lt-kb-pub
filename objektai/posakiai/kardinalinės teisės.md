@@ -45,3 +45,8 @@ Buvo patvirtintos 1768 m. vad. kardinalinės teisės, kurių garantu vėl tapo R
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Rusija]]
+- [[objektai/grupes/Varšuvos konfederacinis seimas]]

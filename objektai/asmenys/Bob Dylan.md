@@ -64,3 +64,11 @@ O dabar atspėkime, kas bendra tokiems pasaulinio garso muzikantams kaip Jimi He
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Londonas]]
+- [[objektai/daiktai/Gitara „Zemaitis“]]
+- [[objektai/asmenys/Leonard Cohen]]
+- [[objektai/zodynas/Bendrinė sąvoka]]

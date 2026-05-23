@@ -52,3 +52,8 @@ Biržiška iš jos pasitraukė.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Vilnius]]

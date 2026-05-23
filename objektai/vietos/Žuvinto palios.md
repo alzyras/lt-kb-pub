@@ -106,3 +106,18 @@ Dalis jų rado prieglobstį Žuvinto paliose. Partizanų pajėgos Tuo metu Žuvi
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/ežeras]]
+
+### Susiję objektai
+- [[objektai/vietos/Buktos (Žaliosios) miškas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/NKVD]]
+- [[objektai/posakiai/karas po karo]]
+- [[objektai/vietos/Žuvinto ežeras]]
+- [[objektai/vietos/Daukšiai]]
+- [[objektai/grupes/Edvardo Lajaus būrys]]
+- [[objektai/grupes/Gedimino būrys]]
+- [[objektai/grupes/Juozo Pandeikos būrys]]
+- [[objektai/grupes/Jurgio Lajaus būrys]]
+- [[objektai/grupes/Klarko būrys]]
+- [[objektai/grupes/Kosto Barkausko būrys]]
+- [[objektai/grupes/Žuvinto-Palių junginys]]

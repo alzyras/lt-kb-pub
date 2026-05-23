@@ -48,3 +48,7 @@ Yla, St. : Krikščionybės įvedimas Lietuvoje, Kaunas 1938. — Kolankowski, L
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Kaunas]]

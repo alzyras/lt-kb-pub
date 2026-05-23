@@ -59,3 +59,23 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Europa]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Algirdas Brazauskas]]
+- [[objektai/asmenys/Džordžas Bušas]]
+- [[objektai/asmenys/Džordžas Robertsonas]]
+- [[objektai/ivykiai/JAV prezidento Džordžo Bušo kalba Vilniuje dėl Lietuvos saugumo (2002 m. lapkričio 23 d.)]]
+- [[objektai/vietos/Jungtinės Amerikos Valstijos]]
+- [[objektai/grupes/Lietuvos Respublikos Seimas]]
+- [[objektai/ivykiai/Lietuvos tapimas visateise NATO nare (2004 m. kovo 29 d.)]]
+- [[objektai/ivykiai/Lietuvos įstojimas į ES ir NATO (2004 m.)]]
+- [[objektai/asmenys/Manfredas Verneris]]
+- [[objektai/paprociai/Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai]]
+- [[objektai/vietos/Vašingtonas]]
+- [[objektai/grupes/Šiaurės Atlanto sutarties organizacija]]
+- [[objektai/grupes/Šiaurės Atlanto sutarties organizacija (NATO)]]
+- [[objektai/posakiai/„Mūsų sąjunga pasiryžusi ginti savo nares...“]]

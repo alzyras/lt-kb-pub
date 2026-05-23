@@ -79,3 +79,10 @@ Keršydamas už valdžios Lietu­ voje atidavimą Švarnui, kitas Volinijos-Hali
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Levas (Haličo kunigaikštis)]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/ivykiai/Švarno išvarymas ir Traidenio įsiviešpatavimas (1269 m.)]]

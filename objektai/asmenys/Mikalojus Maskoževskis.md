@@ -52,3 +52,10 @@ Skirgailos valdymo metu Lietuvoj buvo „Vilniaus ir Lietuvos se­ niūnas“, k
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/seniūnas]]
+- [[objektai/vietos/Vilnius]]

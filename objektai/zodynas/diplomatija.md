@@ -55,3 +55,17 @@ Ar nagrinėti pavyzdinga krašto administracija, ar tvarkyti sku­ būs Malburgo
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Malburgas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/daiktai/Bomba]]
+- [[objektai/ivykiai/Liublino unija]]
+- [[objektai/ivykiai/Liublino unija (1569 m.)]]
+- [[objektai/asmenys/Stasys Lozoraitis]]
+- [[objektai/zodynas/Status quo]]
+- [[objektai/zodynas/primus inter pares]]
+- [[objektai/grupes/Šventoji Romos imperija]]
+- [[objektai/autoriai/Žalys V]]
+- [[objektai/asmenys/Stasys Antanas Bačkis]]

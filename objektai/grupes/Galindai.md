@@ -59,3 +59,10 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/autoriai/Dusburgas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/zodynas/ekspansija]]
+- [[objektai/asmenys/Ptolemajas]]

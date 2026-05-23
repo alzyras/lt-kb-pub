@@ -55,4 +55,6 @@ leisto Lietuvių Bibliografinės Tarnybos Biu­ letenio Knygų Lentyna (pradėta
 - [[temos/bibliografija]]
 
 ### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Vokietija]]
 - [[objektai/vietos/Danville]]

@@ -40,6 +40,10 @@ Be jų, dar turėjo savo paties pinigais surinktos kariuomenės Vitebsko vaivada
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Lietuvos didžiojo etmono Povilo Sapiegos vadovaujama Lietuvos kariuomenė su Lenkijos pajėgų pagalba 1661 m. išvadavo Vilnių, Kauną ir Gardiną, ilgainiui Rusijos kariuomenė buvo iš Lietuvos išstumta.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -78,7 +82,31 @@ Be jų, dar turėjo savo paties pinigais surinktos kariuomenės Vitebsko vaivada
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Lietuvos didžiojo etmono Povilo Sapiegos vadovaujama Lietuvos kariuomenė su Lenkijos pajėgų pagalba 1661 m. išvadavo Vilnių, Kauną ir Gardiną, ilgainiui Rusijos kariuomenė buvo iš Lietuvos išstumta.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Lietuvos didžiojo etmono Povilo Sapiegos
+    vadovaujama Lietuvos kariuomenė su Lenkijos pajėgų pagalba 1661
+    m. išvadavo Vilnių, Kauną ir Gardiną, ilgainiui Rusijos kariuomenė
+    buvo iš Lietuvos išstumta. 1667 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/pinigai]]
+
+### Susiję objektai
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/grupes/Rusijos kariuomenė]]
+- [[objektai/grupes/Sapiegos]]

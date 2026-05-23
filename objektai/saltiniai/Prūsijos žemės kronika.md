@@ -18,6 +18,7 @@ dalyviai: []
 susije_irasai: []
 datos:
   - '1248 m.'
+  - '1260 m.'
   - '1350 m.'
   - '1430 m.'
   - '1930 m.'
@@ -70,6 +71,10 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
   teiginys: 'Dusburgo amžininko, Mikalojaus iš Jarošino, kuris beversdamas kalbamą Dusburgo kroniką iš lo­ tynų į vokiečių kalbą, pridėjo nemaža papildymų ir paaiški­ nimų nuo savęs^1 ).'
   pagrindžia:
     - c-003
+- t-009
+  teiginys: 'Šilainiai, Raudonė, Kejėnai RŪSTUS DIEVO ŽMONIŲ LIKIMAS Ištrauka iš Petro Dusburgiečio „Prūsijos žemės kronikos“ apie Durbės mūšį.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-003
@@ -89,6 +94,31 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-004
+  santrauka: 'Šilainiai, Raudonė, Kejėnai RŪSTUS DIEVO ŽMONIŲ LIKIMAS Ištrauka iš Petro Dusburgiečio „Prūsijos žemės kronikos“ apie Durbės mūšį.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Šilainiai,
+    Raudonė,
+    Kejėnai
+
+    RŪSTUS DIEVO ŽMONIŲ LIKIMAS
+
+    Ištrauka iš Petro Dusburgiečio „Prūsijos žemės kronikos“ apie Durbės mūšį.
+
+    „1260 m. Livonijos ir Prūsijos broliai suėjo į vieną vietą su stipriomis kariuomenėmis, ke-
+    tindami nugabenti maisto švento Jurgio pilies broliams; kai artėjo prie šios pilies, atvyko
+    pasiuntinys, pranešdamas, kad keturi tūkstančiai lietuvių nuniokojo vieną Kuršo žemės
+    dalį, degindami, grobstydami ir liedami krikščionių kraują, o sugautas moteris bei vaikus
+    išsivarė su savimi, kartu gabendamiesi daug kitokio grobio. Šitai išgirdę, broliai ir visa ka-
+    riuomenė sukruto rengtis kovai [.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Bibliografiniai įrodymai
 - c-001

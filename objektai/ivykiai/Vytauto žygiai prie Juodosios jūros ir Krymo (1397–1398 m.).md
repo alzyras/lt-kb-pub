@@ -137,7 +137,18 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila]]
-- [[objektai/asmenys/Vytautas]]
-- [[objektai/vietos/Dniepro žiotys]]
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/vietos/Dniepras]]
 - [[objektai/grupes/Karaimai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuvos totoriai]]
+- [[objektai/vietos/Luckas]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/vietos/Trakai]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/vietos/Krymas]]
+- [[objektai/vietos/Tavanė]]
+- [[objektai/vietos/Dniepro žiotys]]

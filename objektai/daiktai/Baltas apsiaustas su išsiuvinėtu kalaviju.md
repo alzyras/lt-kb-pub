@@ -49,6 +49,10 @@ Nenurodyta
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Jojo nariai ( Schwertbrueder ) ant savo balto apsiausto, be raudono kryžiaus, nešiojo dar išsiuvinėtą kalaviją.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -69,10 +73,27 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Jojo nariai ( Schwertbrueder ) ant savo balto apsiausto, be raudono kryžiaus, nešiojo dar išsiuvinėtą kalaviją.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Jojo nariai ( _Schwertbrueder_ ) ant savo balto apsiausto, be
+    raudono kryžiaus, nešiojo dar išsiuvinėtą kalaviją. Popiežiaus privi­
+    legijų skatinami, iš Vokietijos atvykstantieji kryžininkai didino naujo
+    ordino prieauglių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/karo-reikmuo]]
 
 ### Susiję objektai
-- [[objektai/paprociai/Vakarų pagalbos kvietimas ir svečių iš Vokietijos šaukimas]]
+- [[objektai/vietos/Vokietija]]
+- [[objektai/zodynas/kryžininkai]]
+- [[objektai/grupes/Kalavijuočių ordinas]]

@@ -72,6 +72,10 @@ Nenurodyta
   teiginys: 'Bet (1410.VIII.) Livonijos kariuomenė laivais atvyko Sembon.'
   pagrindžia:
     - c-004
+- t-011
+  teiginys: 'Gavęs Jogai­ los apsaugos raštą, Ordino viršininkas, lydimas kunigų, lie­ pos 19 dieną laivu nuvyko iki Christmemelio (Skirsnemunės) sa­ los ir ten sustojo, prisidengdamas ta priežastimi, jog dėl Nemu­ no seklumo esą nebegalima toliau plaukti.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -133,10 +137,29 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-010
+- c-005
+  santrauka: 'Gavęs Jogai­ los apsaugos raštą, Ordino viršininkas, lydimas kunigų, lie­ pos 19 dieną laivu nuvyko iki Christmemelio (Skirsnemunės) sa­ los ir ten sustojo, prisidengdamas ta priežastimi, jog dėl Nemu­ no seklumo esą nebegalima toliau plaukti.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Gavęs Jogai­
+    los apsaugos raštą, Ordino viršininkas, lydimas kunigų, lie­
+    pos 19 dieną laivu nuvyko iki Christmemelio (Skirsnemunės) sa­
+    los ir ten sustojo, prisidengdamas ta priežastimi, jog dėl Nemu­
+    no seklumo esą nebegalima toliau plaukti. Jogaila tuo tarpu
+    apsistojo su savo motina ir broliais sutartoje vietoje prie Duby­
+    sos įtakos į Nemuną.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/transportas]]
 
 ### Susiję objektai
-- [[objektai/zodynas/apsaugos raštas]]
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/vietos/Nemunas]]

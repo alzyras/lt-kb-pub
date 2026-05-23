@@ -71,3 +71,7 @@ Jakubowski, J.: Opis księstwa trockiego w 1387 r ., PH, t.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]

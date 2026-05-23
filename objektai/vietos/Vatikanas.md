@@ -6,6 +6,15 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1927 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+date_start: '1927'
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - valstybė
@@ -25,6 +34,14 @@ Tačiau Vatikanas 1925 metais sudarė konkordatą su Lenkija, visai neatsižvelg
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Vyriausybei derantis su Vatikanu dėl diplomatinių santykių opozicija apkaltino krikščionis demokratus išsižadant Seinų ir Vilniaus vyskupijų.'
+  pagrindžia:
+    - c-002
+- t-003
+  teiginys: 'Voldemarui pavyko sutvarkyti tą reikalą vizito Romoje metu – 1927 m. rugsėjo 27 d. jis pasirašė konkordatą su Vatikanu, nustačiusį Lietuvos katalikų bažnyčios padėtį valstybėje.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -46,3 +63,48 @@ Tačiau Vatikanas 1925 metais sudarė konkordatą su Lenkija, visai neatsižvelg
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Vyriausybei derantis su Vatikanu dėl diplomatinių santykių opozicija apkaltino krikščionis demokratus išsižadant Seinų ir Vilniaus vyskupijų.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vyriausybei derantis su
+    Vatikanu dėl diplomatinių santykių opozicija apkaltino krikščionis de-
+    mokratus išsižadant Seinų ir Vilniaus vyskupijų. Tik A.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Voldemarui pavyko sutvarkyti tą reikalą vizito Romoje metu – 1927 m. rugsėjo 27 d. jis pasirašė konkordatą su Vatikanu, nustačiusį Lietuvos katalikų bažnyčios padėtį valstybėje.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tik A. Voldemarui pa-
+    vyko sutvarkyti tą reikalą vizito Romoje metu – 1927 m. rugsėjo 27 d. jis
+    pasirašė konkordatą su Vatikanu, nustačiusį Lietuvos katalikų bažnyčios
+    padėtį valstybėje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/vietos/Brazilija]]
+- [[objektai/vietos/Didžioji Britanija]]
+- [[objektai/vietos/JAV]]
+- [[objektai/vietos/Kanada]]
+- [[objektai/vietos/Kolumbija]]
+- [[objektai/vietos/Prancūzija]]
+- [[objektai/vietos/Urugvajus]]
+- [[objektai/posakiai/„Kražių skerdynėmis“]]
+- [[objektai/ivykiai/Kražių įvykiai]]
+- [[objektai/asmenys/A. Voldemaras]]
+- [[objektai/ivykiai/Konkordato su Vatikanu pasirašymas (1927 m. rugsėjo 27 d.)]]

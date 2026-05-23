@@ -69,3 +69,8 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/ivykiai/Amerikos lietuvių seimas Niujorke (1918 m. kovo 13–14 d.)]]
+- [[objektai/ivykiai/Karo metų Amerikos lietuvių politinis ir organizacinis aktyvumas (1914–1918 m.)]]

@@ -55,4 +55,5 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Rudava]]

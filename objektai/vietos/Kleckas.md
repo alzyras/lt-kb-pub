@@ -38,6 +38,18 @@ Aleksandro mirties metais (1506) jie buvo pasiekę net Naugarduką ir Lydą; bet
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'LDK politinės tautos prielaidas kūrė LDK karinės pergalės Žalgiryje, Klecke, Oršoje, Kirchholme (dab.'
+  pagrindžia:
+    - c-002
+- t-003
+  teiginys: 'Vietą savo stovyklavietei jie pasirinko prie Klecko miesto, kuris dar 1503 m. buvo jų sunaikintas ir nekėlė pavojaus, o stovėdamas ant kelių, vedančių į Pinską, Vilnių, Nesvyžių ir Slucką, buvo itin geras punktas išpuoliams, kuriuos totoriai vykdė pasiskirstę.'
+  pagrindžia:
+    - c-003
+- t-004
+  teiginys: 'Šaltinių sąrašas 271 ## Puslapis 274 VAKARŲ KRIKŠČIONYBĖS TVIRTOVĖ RYTUOSE p. 77 Krymo totorių isiveržimas į Lietuvą ir Lietuvos kariuomenės žygis link Klecko xv a., Karolis Zikaras, Loreta Uzdraitė.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -68,3 +80,81 @@ Aleksandro mirties metais (1506) jie buvo pasiekę net Naugarduką ir Lydą; bet
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'LDK politinės tautos prielaidas kūrė LDK karinės pergalės Žalgiryje, Klecke, Oršoje, Kirchholme (dab.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    LDK politinės tautos prielaidas kūrė LDK karinės
+    pergalės Žalgiryje, Klecke, Oršoje, Kirchholme (dab. Salaspilis), Chotyne,
+    kuriose lietuviai kovojo petys į petį su rusėnais.
+    Iš įtakingiausių XVI a.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Vietą savo stovyklavietei jie pasirinko prie Klecko miesto, kuris dar 1503 m. buvo jų sunaikintas ir nekėlė pavojaus, o stovėdamas ant kelių, vedančių į Pinską, Vilnių, Nesvyžių ir Slucką, buvo itin geras punktas išpuoliams, kuriuos totoriai vykdė pasiskirstę.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Vietą savo stovyklavietei jie pasirinko prie
+    Klecko miesto, kuris dar 1503 m. buvo jų
+    sunaikintas ir nekėlė pavojaus, o stovėda-
+    mas ant kelių, vedančių į Pinską, Vilnių,
+    Nesvyžių ir Slucką, buvo itin geras punktas
+    išpuoliams, kuriuos totoriai vykdė pasi-
+    skirstę mažesniais būriais.
+
+    Lietuvos kariuomenės mobilizacija, vadai
+    ir pirmieji susidūrimai
+
+    Staigus totorių įsiveržimas sutrukdė jų
+    veiksmus patyrusių paliestų pavietų ba-
+    jorijai mobilizuotis, o jų mažesnių būrių
+
+    Vilnius Aleksandro valdymo laikais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Šaltinių sąrašas 271 ## Puslapis 274 VAKARŲ KRIKŠČIONYBĖS TVIRTOVĖ RYTUOSE p. 77 Krymo totorių isiveržimas į Lietuvą ir Lietuvos kariuomenės žygis link Klecko xv a., Karolis Zikaras, Loreta Uzdraitė.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Šaltinių sąrašas 271
+
+    ## Puslapis 274
+
+    VAKARŲ KRIKŠČIONYBĖS TVIRTOVĖ RYTUOSE
+
+    p. 77 Krymo totorių isiveržimas į Lietuvą ir Lietuvos kariuomenės žygis link Klecko xv a.,
+    Karolis Zikaras, Loreta Uzdraitė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
+- [[objektai/vietos/Krymas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/autoriai/Loreta Uzdraitė]]
+- [[objektai/vietos/Nesvyžius]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/Tėvūnija|tėvūnija]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/autoriai/Aleksandro Gvanjinio]]
+- [[objektai/ivykiai/Krymo totorių įsiveržimas į Lietuvą (1506 m.)]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/asmenys/Motiejus Huniadis]]
+- [[objektai/asmenys/Žygimantas Senasis]]

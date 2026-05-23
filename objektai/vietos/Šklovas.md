@@ -67,3 +67,16 @@ Klaipėdos sukilimo vadui Jonui Budriui-Polovinskui įteiktos špagos geležtės
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Aleksejus Michailovičius]]
+- [[objektai/asmenys/Jurijus Boratinskis]]
+- [[objektai/vietos/Mogiliavas]]
+- [[objektai/ivykiai/Rusijos ir Lenkijos-Lietuvos karas (1654–1667 m.)]]
+- [[objektai/vietos/Salaspilis]]
+- [[objektai/ivykiai/Vilniaus užėmimas (1655 m. rugpjūčio 7 d.)]]
+- [[objektai/vietos/Šepelievičiai]]
+- [[objektai/ivykiai/Šklovo mūšis (1654 m. rugpjūčio 12 d.)]]
+- [[objektai/vietos/Dubrovna]]

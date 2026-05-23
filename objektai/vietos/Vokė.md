@@ -52,4 +52,5 @@ Sapiegų pajėgos Kitą dieną iš Vilniaus, kurio apylinkėse ir buvo sutelktos
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Vilnius]]
 - [[objektai/vietos/Paneriai]]

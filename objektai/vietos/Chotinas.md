@@ -76,6 +76,10 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-006
+  teiginys: '1673 m. Chotino mūšio iliustracijoje priešais Chotino pilį pavaizduoti M. K. Radvilos kariai.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -179,12 +183,102 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Chotino mūšis vyko 1621 m. rugsėjo 22-spalio 10 d.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    1621 m. rugsėjo 22-spalio 10 d. CHOTINO MŪŠIS 117
+
+    ## Puslapis 120
+
+    E _-KURSO KUNIGAIKŠTYSTĖ S
+    res Livontios KUNIGAIKŠTYSTĖ ||
+    PES
+    Sen
+
+    PRŪSIJOS
+    KUNIGAIKSTYSTE-
+
+    “yf
+
+    LIETUVOS
+
+    14 DIDŽIOJI
+    “KUNIGAIKŠTYSTĖ
+    >
+
+    PA |
+    7
+
+    a
+
+    LENKUOS | 3
+    | KARALYSTĖ | ) uae
+
+    Mūšio priešistorė
+    1514 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: '1673 m. Chotino mūšio iliustracijoje priešais Chotino pilį pavaizduoti M. K. Radvilos kariai.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    | pad
+
+    <= a
+
+    1
+
+    latio "Tureau -
+    noni ae aaa
+
+    Chotino mūšis 1673 m. 1674 m. išleistos Jokūbo Beneto poemos „Viešpaties dešinės galybė“
+    Iliustracija. Pavaizduotas jungtinės kariuomenės lemiamas turkų stovyklos puolimas. Kairiajame
+    apatiniame kampe Lietuvos kariuomenė (8. Miles Lithuanus). Priekyje stovi du pėstininkų batalionai, 4 - :
+    ,lenkisko" („lietuviško“) tipo tautiniai pėstininkai (be iečių) ir šalia jų svetimšalių autoramento „vokiški“ F š ~ Husaro
+    pėstininkai (ietininkai stovi viduryje, šauliai iš kraštų). Už jy išsirikiavusios husarų vėliavos (raiteliai ; © krūtinšarvis.
+    su ietimis, apsigobę kailiais). Aukščiau husarų stovi svetimšalių autoramento pėstininkai, išsirikiavę 4 Abiejų Tautų
+    etalonine olandiška rikiuote - ietininkai viduryje, šauliai kraštuose. Prieš juos išdėstyta LDK artilerija Respublika,
+    (11. Tormenta M:D: Lithuania). Arčiau upės, priešais Chotino (2.) pilį lauko etmono M. K. Radvilos kariai 4, XVII-XVIII a.
+    (6.). Dešinėje pavaizduotos lenkų pajėgos (19. Miles Polonus). Priešais jungtinę kariuomenę, iliustraci-
+    jos centre, pylimais ir grioviais įtvirtinta turkų stovykla (4. Circumvalatio Turcarum). Upėje matomi
+    kauburėliai - mūšio pabaigoje bėgę ir įkritę į vandenį skęstantys turkai (24. Merguntum Turca)
+
+    Jungtinės pajėgos Moldavijos valdovas
+
+    1673 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/karvedys]]
 
 ### Susiję objektai
+- [[objektai/daiktai/Artilerija]]
 - [[objektai/ivykiai/Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)]]
-- [[objektai/asmenys/Jonas Karolis Katkevičius]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/vietos/Moldavija]]
+- [[objektai/vietos/Prūsija]]
+- [[objektai/daiktai/Vėliavos]]
+- [[objektai/vietos/Dniestras]]
+- [[objektai/vietos/Dniestro upė]]
 - [[objektai/vietos/Podolės Kameneco tvirtovė]]
+- [[objektai/vietos/Salaspilis]]
+- [[objektai/asmenys/Stanislovas Liubomirskis]]
+- [[objektai/grupes/Turkijos kariuomenė]]
+- [[objektai/asmenys/Vladislovas]]
+- [[objektai/zodynas/petihorai]]
+- [[objektai/posakiai/vartais į Rusiją]]

@@ -54,6 +54,10 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
     - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: 'Rugsėjį į frontą atvyko ir naujasis Abiejų Tautų Respublikos valdovas Vladislovas Vaza su 15 tūkst.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -145,3 +149,41 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Rugsėjį į frontą atvyko ir naujasis Abiejų Tautų Respublikos valdovas Vladislovas Vaza su 15 tūkst.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Rugsėjį į frontą atvyko ir
+    naujasis Abiejų Tautų Respublikos val-
+    dovas Vladislovas Vaza su 15 tūkst. ka-
+    riuomene. Rusų pajėgų padėtis ėmė
+
+    Rusų kariuomenės vado,
+    Mykolo Borisovičiaus Šeinos štabas
+    prie Smolensko pasiduoda ATR
+
+    valdovui Vladislovui Vazai
+
+    komplikuotis - tuo metu į pietines Rusijos
+    žemes įsiveržė ir niokojo Krymo totoriai
+    (paskatinti užpulti Rusiją ATR diplomatų),
+    žinia apie tai demoralizavo rusus ir dau-
+    gelį paskatino dezertyruoti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/vietos/Krymas]]
+- [[objektai/grupes/Krymo totoriai]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Smolenskas]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.)]]

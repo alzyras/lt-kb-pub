@@ -51,3 +51,12 @@ Joje popiežius Urbonas VI išgyrė apsikrikštiju­ sius lietuvius, o vysk.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Gniezno]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/ivykiai/Vilniaus vyskupystės įkūrimas]]
+- [[objektai/zodynas/brevė]]
+- [[objektai/grupes/Vilniaus kapitula]]

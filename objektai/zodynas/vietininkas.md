@@ -67,6 +67,14 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   teiginys: 'Tačiau vietininkai nebuvo vien tik ūkių prievaizdai: jie valdė ne tik dvarus, bet jų žinioje buvo ir tose srityse esančios pilys, kurias jie turėjo taisyti ir laikyti paruoštas karui.'
   pagrindžia:
     - c-005
+- t-013
+  teiginys: 'Vy­ tauto vietininkas ir bajorai, palaikę lietuviškąją partiją, buvo išžudyti.'
+  pagrindžia:
+    - c-006
+- t-014
+  teiginys: 'Šis darbas beveik galutinai buvo baigtas Vytauto: jam pasisekė svarbesniąsias ir didesniąsias sričių kunigaikštijas panaikinti ir savarankiškų kuni­ gaikščių vietoj pasodinti savo vietininkus, visiškai nuo d. kun. priklausomus.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -158,6 +166,81 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-012
+- c-006
+  santrauka: 'Vy­ tauto vietininkas ir bajorai, palaikę lietuviškąją partiją, buvo išžudyti.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Vy­
+    tauto vietininkas ir bajorai, palaikę lietuviškąją partiją, buvo
+    išžudyti. Vytautas išsiskubino malšinti sukilėlių. Išstovėjęs
+    keturias savaites ir nieko nelaimėjęs, atsitraukė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+- c-007
+  santrauka: 'Šis darbas beveik galutinai buvo baigtas Vytauto: jam pasisekė svarbesniąsias ir didesniąsias sričių kunigaikštijas panaikinti ir savarankiškų kuni­ gaikščių vietoj pasodinti savo vietininkus, visiškai nuo d. kun. priklausomus.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Šis darbas beveik
+    galutinai buvo baigtas Vytauto: jam pasisekė svarbesniąsias ir
+    didesniąsias sričių kunigaikštijas panaikinti ir savarankiškų kuni­
+    gaikščių vietoj pasodinti savo vietininkus, visiškai nuo d. kun.
+    priklausomus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
 
 ## Pastabos
 - Šalia esantis viecinykas yra senesnė ar tarmiška forma, bet reikšmė iš konteksto aiški.
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Andrius Algirdaitis Polockietis]]
+- [[objektai/paprociai/Bajorų skyrimas į vietininkus ir žemvaldžių riterių sluoksnio kūrimas]]
+- [[objektai/asmenys/Dimitrijus (Voluinietis Karijotaitis)]]
+- [[objektai/asmenys/Dmitrijus Algirdaitis Brenskietis]]
+- [[objektai/asmenys/Eilartas fon Hobergas]]
+- [[objektai/asmenys/Ernestas fon Racburgas]]
+- [[objektai/asmenys/Jomantas]]
+- [[objektai/asmenys/Jonas Algimantaitis (Alšėniškis)]]
+- [[objektai/asmenys/Jonas Kalita]]
+- [[objektai/asmenys/Jonas Survila]]
+- [[objektai/vietos/Juodoji Rusia]]
+- [[objektai/asmenys/Jurgis (Danieliaus sūnus)]]
+- [[objektai/asmenys/Jurgis Vytautaitis]]
+- [[objektai/zodynas/Kamarninkas]]
+- [[objektai/asmenys/Klemensas Moskorzewskis]]
+- [[objektai/asmenys/Narimantas Gediminaitis]]
+- [[objektai/vietos/Padnieprė]]
+- [[objektai/daiktai/Pragos miesto raktai]]
+- [[objektai/grupes/Rygos miesto taryba]]
+- [[objektai/asmenys/Skirgaila]]
+- [[objektai/ivykiai/Smolensko sukilimas]]
+- [[objektai/asmenys/Teodoras]]
+- [[objektai/asmenys/Tomas Survila]]
+- [[objektai/vietos/Trakai]]
+- [[objektai/vietos/Uždauguvis]]
+- [[objektai/ivykiai/Vytauto dalinių kunigaikštijų sistemos naikinimas]]
+- [[objektai/ivykiai/Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas]]
+- [[objektai/asmenys/Zigmantas Kaributas]]
+- [[objektai/zodynas/dalinių kunigaikštijų sistema vietininkai]]
+- [[objektai/posakiai/dux Russiae]]
+- [[objektai/zodynas/seniūnas]]
+- [[objektai/zodynas/seniūnas storasta]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/daiktai/Šv. Vaclovo karūna]]
+- [[objektai/ivykiai/Šv. Vaclovo karūnos pasiūlymas Jogailai ir Vytauto sutikimas priimti čekų karūną (1420–1421 m.)]]
+- [[objektai/ivykiai/Žemaičių sukilimas 1409 m]]
+- [[objektai/posakiai/„Didžiuoju“]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/zodynas/baskakas]]
+- [[objektai/zodynas/ekonomija]]

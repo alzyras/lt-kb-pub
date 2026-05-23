@@ -15,13 +15,16 @@ dalyviai: []
 susije_irasai: []
 datos:
   - '1699 m.'
+  - '2000 m.'
   - '2013 m.'
   - '2026 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
+  - 'šiuolaikinė Lietuva'
 amziai:
   - 'XVII'
+  - 'XX'
   - 'XXI'
 date_start: '1699'
 date_end: '2026'
@@ -71,6 +74,10 @@ Terminas žymi savitą LDK kavalerijos rūšį tarp husarų ir lengvesniųjų ra
   teiginys: 'Sapiegos husarų ir petihorų vėliavos atlaikyti pagrindinį Švedijos kariuomenės smūgį ir sužlugdyti Karolio Ix planą apeiti Lietuvos kariuomenę.'
   pagrindžia:
     - c-004
+- t-008
+  teiginys: 'Petihorai LDK kariuomenėje buvo kavalerijos rūšis, atsisakiusi dzidų ir ginkluote prilyginta šarvuočiams.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -155,6 +162,37 @@ Terminas žymi savitą LDK kavalerijos rūšį tarp husarų ir lengvesniųjų ra
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-005
+  santrauka: 'Petihorai LDK kariuomenėje buvo kavalerijos rūšis, atsisakiusi dzidų ir ginkluote prilyginta šarvuočiams.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    »[...] Lietuvos Didžiosios Kunigaikštijos kariuomenėje yra dar trečioji [kavalerijos rūšis],
+    jie apginkluoti kaip šarvuočiai [pancernes], o jų ietys - kaip husarų, tiesa, kiek trumpes-
+    nės ir su mažesnėmis vėliavėlėmis. Dėl šio skirtumo jos ir vadinamos kitaip: husarų ietys
+    vadinamos kopijomis, o šios - dzidomis: pirmasis žodis, be abejonės, kilęs iš lotyniško
+    copia, reiškiančio pulkus, antrasis - iš krašto kilęs žodis, kurį turi turkai, naudojantys tokio
+    pat tipo ietis. Lietuvių armijoje temačiau keturias tokias vėliavas, o Karūnos armija jų
+    beveik neturi, tik niekas savo grožiu neprilygsta tiems, kuriuos regėjau toj kunigaikštijoj,
+    nes husarai vienodai šaunūs ir vienoje, ir kitoje kariuomenėje. Dabar jie atsisakė savo
+    dzidy ir tapo lygūs šarvuočiams; jie vadinami petihorais ir taip pat yra pagerbti draugų
+    [Touariche] vardu.“
+
+    Turkų pajėgos TE
+    Tuo metu Chotino link artėjančią Turkijos
+    kariuomenę sudarė 50000 spahių (leng-
+    voji kavalerija), 8000 gvardijos spahių (rai-
+    teliai), apie 12000 janičarų (pėstininkai),
+    10000 Krymo totorių, 5000 Dobružo ir
+    Budžako totorių, iki 2000 Sultono gvar-
+    dijos totorių, iki 6000 moldavų, 7000 va-
+    lakų; taigi iš viso apie 100000 karių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
 
 ## Pastabos
 
@@ -162,5 +200,14 @@ Terminas žymi savitą LDK kavalerijos rūšį tarp husarų ir lengvesniųjų ra
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/H. Brantas]]
-- [[objektai/asmenys/J. P. Sapiega]]
+- [[objektai/vietos/Chotinas]]
+- [[objektai/daiktai/Ietys]]
+- [[objektai/daiktai/Karūna]]
+- [[objektai/vietos/Krymas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Turkija]]
+- [[objektai/zodynas/husarai]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/daiktai/Šarvuočiai]]
+- [[objektai/zodynas/sunkioji kavalerija]]

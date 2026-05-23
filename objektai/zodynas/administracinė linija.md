@@ -6,6 +6,17 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1926 m.'
+  - '1937 m.'
+  - '1939 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+date_start: '1926'
+date_end: '1939'
 patikimumas: 'vidutinis'
 tags:
   - sąvoka
@@ -31,6 +42,10 @@ Apsidžiaugusi Sąjungos Taryba patvirtino tai rezoliucija ir ribą tarp abiejų
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Apie 1937 m. giminės iš Lietuvos ir Lenkijos pusių susitikdavo prie administracinės linijos.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -60,8 +75,26 @@ Apsidžiaugusi Sąjungos Taryba patvirtino tai rezoliucija ir ribą tarp abiejų
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Apie 1937 m. giminės iš Lietuvos ir Lenkijos pusių susitikdavo prie administracinės linijos.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Keliai tarp Lietuvos ir Lenkijos keliolika metų buvo uždaryti. Giminės
+    iš abiejų pusių susitinka prie administracinės linijos (apie 1937 m.)
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    171
+    Tarptautinių įvykių poveikis ir lietuviams, ir tautinėms mažumoms
+    po 1939 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/ivykiai/Incidentas prie Lietuvos ir Lenkijos administracinės linijos (1938 m. kovo 11 d.)]]
-- [[objektai/zodynas/administracinė linija demarkacijos linija]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]

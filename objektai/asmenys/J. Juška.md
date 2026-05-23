@@ -64,3 +64,6 @@ Juška: „Daug tą dieną žuvo mūsiškių, bet gal ne mažiau žuvo ir okupan
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/transportas]]
+
+### Susiję objektai
+- [[objektai/posakiai/karas po karo]]

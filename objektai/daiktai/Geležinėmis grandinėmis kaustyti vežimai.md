@@ -107,5 +107,13 @@ Nenurodyta
 - [[temos/transportas]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Edigėjus]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Timūr-Kutlukas]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/daiktai/Vežimai]]
+- [[objektai/vietos/Vorskla]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Žygimantas]]
 - [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]
 - [[objektai/zodynas/gurguolė]]

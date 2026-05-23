@@ -61,6 +61,10 @@ Nenurodyta
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Ryškiausios permainos po krikšto buvo išorinės.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -98,3 +102,30 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Ryškiausios permainos po krikšto buvo išorinės.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Ryškiausios permainos po krikšto buvo išorinės. Su krikštu Lietuvo-
+    je išplito pagonių visuomenei nežinomos institucijos – bažnyčios. Tai ne
+    tik naujos architektūros paminklai, paveikslų, kitų bažnytinės dailės kūri-
+    nių ir bažnytinių knygų „saugyklos“, bet ir rašto bei švietimo įstaigos. Per
+    šias institucijas į Lietuvą sklido naujos idėjos. Pasikeitė mirties samprata
+    ir laidojimo apeigos. XIV a. pabaigoje labai sumažėjo pagonybei būdingų
+    degintinių palaidojimų. Bažnyčios skleidžiamos vieno Dievo, prigimtinės
+    nuodėmės ir Kristaus atpirkimo idėjos, be abejonės, veikė žmogaus sąmo-
+    nę. Pagonybės išugdytam žmogui nauja turėjo būti ne tik atjautos ir labda-
+    ros, bet ir nuodėmės samprata, ypač tai, kad nusidėti galima ne tik veiks-
+    mais, bet ir mintimis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/pagonybė]]

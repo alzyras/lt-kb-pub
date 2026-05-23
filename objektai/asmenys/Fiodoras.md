@@ -62,3 +62,11 @@ pradžioje, kai mirus abiems Ivano IV (Rūsčiojo) palikuonims Fiodorui ir maža
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
+
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Riurikaičių dinastija]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Smolenskas]]
+- [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]
+- [[objektai/posakiai/vartais į Rusiją]]

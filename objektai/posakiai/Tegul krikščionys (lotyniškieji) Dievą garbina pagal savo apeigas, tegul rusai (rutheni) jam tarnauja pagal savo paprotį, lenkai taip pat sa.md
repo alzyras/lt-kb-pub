@@ -56,4 +56,10 @@ Popiežiaus legato pasiuntiniams apie savo ir Lietuvos valsty­ bės tikėjimo k
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/grupes/Krikščionys]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/vietos/Viena]]
 - [[objektai/posakiai/„Tegul krikščionys (lotyniškieji) Dievą garbina pagal savo apeigas, tegul rusai (rutheni) jam tarnauja pagal savo paprotį, lenkai taip pat s]]

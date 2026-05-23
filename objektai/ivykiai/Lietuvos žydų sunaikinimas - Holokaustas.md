@@ -6,6 +6,21 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1941 m.'
+  - '1943 m.'
+  - '1944 m.'
+  - '1945 m.'
+  - '1953 m.'
+  - '1988 m.'
+  - '1990 m.'
+periodas: 'okupacijų ir sovietmečio laikotarpis'
+periodo_grupes:
+  - 'XX a.'
+amziai:
+  - 'XX'
+date_start: '1941'
+date_end: '1990'
 patikimumas: 'vidutinis'
 tags:
   - ivykis
@@ -56,6 +71,10 @@ Nenurodyta
     - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: 'Karui baigiantis, 1943 m., naciai naikino miestų getus, iškasė ir degino nužudytųjų kūnus, 11 000 Lietuvos žydų buvo išvežti į Estijoje ir Latvijoje buvusius konclagerius, apie 3,5 tūkst.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -120,9 +139,27 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Karui baigiantis, 1943 m., naciai naikino miestų getus, iškasė ir degino nužudytųjų kūnus, 11 000 Lietuvos žydų buvo išvežti į Estijoje ir Latvijoje buvusius konclagerius, apie 3,5 tūkst.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Karui baigiantis, 1943 m., naciai naikino miestų getus, iškasė
+    ir degino nužudytųjų kūnus, 11 000 Lietuvos žydų buvo išvežti į Estijoje
+    ir Latvijoje buvusius konclagerius, apie 3,5 tūkst. – į stovyklas Lenkijoje,
+
+    5 skyrius •  L I E T U VA :  S O V I E T Ų  I R  N A C I Ų  O K U PA C I J O S
+    201
+    apie 8 tūkst.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Sibiras]]
-- [[objektai/zodynas/akcijos]]
-- [[objektai/zodynas/getas]]
+- [[objektai/vietos/Estija]]
+- [[objektai/vietos/Latvija]]
+- [[objektai/vietos/Lietuva]]

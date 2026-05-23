@@ -54,3 +54,10 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Radomas]]
+- [[objektai/zodynas/konfederacija]]
+- [[objektai/vietos/Varšuva]]
+- [[objektai/grupes/Varšuvos konfederacinis seimas]]

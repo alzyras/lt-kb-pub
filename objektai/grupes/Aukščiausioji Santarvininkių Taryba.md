@@ -108,8 +108,15 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
 - [[temos/paliaubos]]
 
 ### Susiję objektai
+- [[objektai/vietos/Gardinas]]
+- [[objektai/vietos/Kijevas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Nemunas]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Varėna]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/Kerzono linija]]
-- [[objektai/vietos/Merkinė]]
-- [[objektai/vietos/Spa]]
 - [[objektai/ivykiai/Suvalkų derybos ir sutartis (1920 m. rugsėjo 20 d. – spalio 7 d.)]]
-- [[objektai/zodynas/demarkacijos linija]]

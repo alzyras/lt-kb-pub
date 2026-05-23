@@ -28,7 +28,7 @@ Papildomos aiškios formos neišskirtos.
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 - t-004
-  teiginys: 'Terminas vartojamas kalbant apie javų supirkimą ir pardavimą.'
+  teiginys: 'Vartavodamos Daukanto tekste vartojamas kalbant apie javų pirkimą pigiai ir pardavimą brangiai.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
@@ -51,3 +51,9 @@ Papildomos aiškios formos neišskirtos.
   pagrindžia:
     - t-003
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/Pažinės|pažinės]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/autoriai/S. Daukantas]]

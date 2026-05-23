@@ -50,3 +50,8 @@ Jonyno, kuris 1932 m. tapo ekstraordinariniu profesoriumi.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/autoriai/I. Jonynas]]

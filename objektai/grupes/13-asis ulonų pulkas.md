@@ -45,3 +45,10 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Ukmergė]]
+- [[objektai/zodynas/flangas]]
+- [[objektai/grupes/Lietuviai]]

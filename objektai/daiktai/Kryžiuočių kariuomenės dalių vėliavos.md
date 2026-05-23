@@ -119,3 +119,12 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
 ### Teminiai klasteriai
 - [[temos/karo-reikmuo]]
 - [[temos/simbolis]]
+
+### Susiję objektai
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Tanenbergas]]
+- [[objektai/daiktai/Vėliavos]]
+- [[objektai/vietos/Krokuva]]

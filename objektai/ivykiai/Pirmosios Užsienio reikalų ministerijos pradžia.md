@@ -52,3 +52,10 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Berlynas]]
+- [[objektai/vietos/Europa]]
+- [[objektai/vietos/Peterburgas]]
+- [[objektai/zodynas/konstitucijos]]

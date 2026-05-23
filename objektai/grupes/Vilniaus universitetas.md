@@ -11,19 +11,23 @@ variantai:
 aliases: []
 saltiniai:
   - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+datos:
+  - '1579 m.'
+  - '1803 m.'
+  - '1832 m.'
+  - '1850 m.'
+  - '1864 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+  - 'naujieji laikai'
+amziai:
+  - 'XVI'
+  - 'XIX'
+date_start: '1579'
+date_end: '1864'
 bukle: juodrastis
 laikotarpis: "1579-1832 m."
-datos:
-  - "1579 m."
-  - "1803 m."
-  - "1832 m."
-periodas: ""
-periodo_grupes: []
-amziai:
-  - "XVI"
-  - "XIX"
-date_start: "1579"
-date_end: "1832"
 vaidmenys:
   - "švietimo institucija"
   - "kultūros centras"
@@ -99,6 +103,34 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
     - c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-017
+  teiginys: '1579 m. balandžio 1 d. karalius Steponas Batoras, paremdamas vyskupo Valerijono Protasevičiaus sumanymą ir pastangas, išdavė Vilniaus universiteto Didysis kiemas ir Šv.'
+  pagrindžia:
+    - c-006
+- t-018
+  teiginys: 'Vilniaus universitetas iki pat uždarymo 1832 m. buvo ne tik pagrindinė Lietuvos mokykla, bet ir svarbiausias kultūros centras.'
+  pagrindžia:
+    - c-007
+- t-019
+  teiginys: 'Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Europoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.'
+  pagrindžia:
+    - c-008
+- t-020
+  teiginys: 'Pirmąjį šio laikotarpio trečdalį veikė didžiausias Rusijos imperijoje europinį mokslo ir studijų lygį pasiekęs Vilniaus universitetas.'
+  pagrindžia:
+    - c-009
+- t-021
+  teiginys: 'Vykdant šią reformą, įkurta didžiulė Vilniaus švietimo apygarda, kurios valdžioje atsidūrė visos prie Rusijos prijungtos buvusios LLV žemės ir 9 mln.'
+  pagrindžia:
+    - c-010
+- t-022
+  teiginys: '1832 m. nutarta uždaryti Vilniaus universitetą, – anot uždarymo iniciatorių, „Lietuvos laisvamanybės lizdą“.'
+  pagrindžia:
+    - c-011
+- t-023
+  teiginys: 'Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos kilusių inteligentų (Simonas Daukantas, Simonas Stanevičius ir dar vienas kitas), kurie susitarė kryptingai plėtoti aukštosios kultūros kūrimo lietuvių (žemaičių) kalba darbą, o sykiu.'
+  pagrindžia:
+    - c-012
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -201,7 +233,148 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-016
+- c-006
+  santrauka: '1579 m. balandžio 1 d. karalius Steponas Batoras, paremdamas vyskupo Valerijono Protasevičiaus sumanymą ir pastangas, išdavė Vilniaus universiteto Didysis kiemas ir Šv.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1579  m. balandžio 1 d. karalius Steponas Batoras, paremda-
+    mas vyskupo Valerijono Protasevičiaus sumanymą ir pastangas, išdavė
+    Vilniaus universiteto Didysis kiemas ir Šv. Jonų bažnyčia
+    iš J. K. Vilčinskio „Vilniaus albumo“. Dail.  Ph. Benoist, A. Bayot, 1850 m.
+
+    L I E T U V O S  I S T O R I J A
+    80
+    Vilniaus akademijos atidarymo privileginį raštą. 1579 m. spalio 29 d.
+    popiežius Grigalius XIII išleido bulę, patvirtinusią Vilniaus kolegiją uni-
+    versitetu. Naujoji mokykla vadinosi Academia et Universitas Vilnensis
+    Societatis Iesu – Vilniaus Jėzaus draugijos akademija ir universitetas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
+- c-007
+  santrauka: 'Vilniaus universitetas iki pat uždarymo 1832 m. buvo ne tik pagrindinė Lietuvos mokykla, bet ir svarbiausias kultūros centras.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vilniaus universitetas iki pat uždarymo 1832 m. buvo ne tik pagrin-
+    dinė Lietuvos mokykla, bet ir svarbiausias kultūros centras. Baroko
+    epochos kultūros turinį nulėmę jėzuitai skleidė savo idėjas per Vilniaus
+    universitetą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018
+- c-008
+  santrauka: 'Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Europoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Eu-
+    ropoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus
+    universitetai. Tačiau Vilniuje universitetas įkurtas praėjus vos dviem
+    šimtams metų po valstybės krikšto, o labiausiai pažengusioje Čekijoje –
+    praėjus 400 metų po krikšto.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019
+- c-009
+  santrauka: 'Pirmąjį šio laikotarpio trečdalį veikė didžiausias Rusijos imperijoje europinį mokslo ir studijų lygį pasiekęs Vilniaus universitetas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Pirmąjį šio laikotarpio trečdalį veikė didžiausias Rusijos imperijoje
+    europinį mokslo ir studijų lygį pasiekęs Vilniaus universitetas. Tačiau
+    nuo 1864 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020
+- c-010
+  santrauka: 'Vykdant šią reformą, įkurta didžiulė Vilniaus švietimo apygarda, kurios valdžioje atsidūrė visos prie Rusijos prijungtos buvusios LLV žemės ir 9 mln.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vykdant šią reformą, įkurta didžiulė Vilniaus švietimo apygarda,
+    kurios valdžioje atsidūrė visos prie Rusijos prijungtos buvusios LLV že-
+    mės ir 9 mln. jų gyventojų. Šios apygardos centras – Vilniaus universitetas,
+    1803 m. reorganizuotas pagal populiariausią Europos universitetų mode-
+    lį ir gavęs Imperatoriškojo universiteto statusą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-021
+- c-011
+  santrauka: '1832 m. nutarta uždaryti Vilniaus universitetą, – anot uždarymo iniciatorių, „Lietuvos laisvamanybės lizdą“.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1832 m. nutarta uždaryti Vilniaus universitetą, – anot uždarymo ini-
+    ciatorių, „Lietuvos laisvamanybės lizdą“. Tiesa, tuomet dviejų šio univer-
+    siteto fakultetų bazėje buvo įsteigtos dvi atskiros, Rusijos vidaus reikalų
+    ministerijai pavaldžios aukštosios mokyklos: Vilniaus medicinos-chirur-
+    gijos akademija ir Vilniaus Romos katalikų dvasinė akademija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-022
+- c-012
+  santrauka: 'Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos kilusių inteligentų (Simonas Daukantas, Simonas Stanevičius ir dar vienas kitas), kurie susitarė kryptingai plėtoti aukštosios kultūros kūrimo lietuvių (žemaičių) kalba darbą, o sykiu.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemai-
+    tijos kilusių inteligentų (Simonas Daukantas, Simonas Stanevičius ir dar
+    vienas kitas), kurie susitarė kryp-
+    tingai plėtoti aukštosios kultūros
+    kūrimo lietuvių (žemaičių) kalba
+    darbą, o sykiu rūpintis lietuvių
+    ir žemaičių liaudies švietimu jų
+    gimtąja kalba (nors žemaičius
+    kai kas tuomet laikė atskiru,
+    etniniams lietuviams giminingu
+    etnosu, bet jie patys save laikė
+    vieno dvilypio lietuvių-žemaičių
+    etnoso dalimi).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-023
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Europa]]
+- [[objektai/zodynas/Laisvamanybė ir laisvamaniai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/asmenys/Simonas Stanevičius]]
+- [[objektai/asmenys/Steponas]]
+- [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/barokas]]
+- [[objektai/vietos/Čekija]]
+- [[objektai/vietos/Šv. Jonų bažnyčia]]
+- [[objektai/grupes/Žemaičiai]]
 - [[objektai/paprociai/Jėzuitiškas mokymas ir katalikybės sklaida per Vilniaus universitetą]]
+- [[objektai/ivykiai/Vilniaus universiteto įkūrimas]]
+- [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.)]]
+- [[objektai/posakiai/„Lietuvos laisvamanybės lizdą“]]
+- [[objektai/grupes/Etninių lietuvių tautinis kultūrinis sąjūdis]]
+- [[objektai/zodynas/dvilypis lietuvių-žemaičių etnosas]]

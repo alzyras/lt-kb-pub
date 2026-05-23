@@ -53,3 +53,16 @@ Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne tik nė vieno dėl 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Naugardukas]]
+- [[objektai/asmenys/Teofilis (arkivyskupas)]]
+- [[objektai/zodynas/Kanceliarinė rašto kalba]]
+- [[objektai/ivykiai/Gedimino krikšto akcija]]
+- [[objektai/vietos/Gniezno arkivyskupija]]
+- [[objektai/vietos/Mogilevo arkivyskupija]]
+- [[objektai/vietos/Rygos arkivyskupija]]
+- [[objektai/zodynas/protektorium]]

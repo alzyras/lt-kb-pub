@@ -48,3 +48,12 @@ Mat, per jų žemes pirkliai iš Lietuvos ir Rusijos vyk­ davo į Kaffos miest�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/vietos/Krymas]]
+- [[objektai/asmenys/Gilbert de Lannoy]]

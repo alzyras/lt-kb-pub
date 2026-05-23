@@ -6,6 +6,12 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - saltinis
@@ -24,8 +30,31 @@ Smetonos, redaguojamoji „Viltis".
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, redaguojamą Antano Smetonos, grupuote kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose, neretai ta kova virsdavo lenkų ir lietuvių muštynėmis.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, redaguojamą Antano Smetonos, grupuote kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose, neretai ta kova virsdavo lenkų ir lietuvių muštynėmis.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kartu su
+    būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, redaguojamą Anta-
+    no Smetonos, grupuote kovojo už lietuvių kalbos teises Vilniaus vyskupijos
+    bažnyčiose, neretai ta kova virsdavo lenkų ir lietuvių muštynėmis. Vyskupi-
+    joje dominavo lenkų krikščionys demokratai, veikę vadovaudamiesi lenkų
+    nacionalizmo doktrina, matę Lenkijos valstybę kuo platesnėje buvusios LLV
+    teritorijoje, rūpinęsi lenkiškojo patriotizmo ir lenkų kalbos pozicijų stipri-
+    nimu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Bibliografiniai įrodymai
 - c-001

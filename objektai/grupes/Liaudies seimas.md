@@ -66,4 +66,10 @@ Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priėmė žemės nacionali
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvos SSR liaudies komisarų taryba]]
+- [[objektai/ivykiai/Lietuvos SSR sovietinės valdžios institucijų įforminimas (1940 m. rugpjūčio 25-26 d.)]]
 - [[objektai/ivykiai/Lietuvos žemės nacionalizavimo deklaracijos priėmimas (1940 m. liepos 22 d.)]]
+- [[objektai/vietos/SSRS]]
+- [[objektai/zodynas/savanoriškumo kamufliažas]]

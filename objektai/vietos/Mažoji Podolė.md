@@ -94,3 +94,12 @@ Mūšio padariniai „Pasakojime apie Podolę“ teigiama, kad Lietuvos valdovo 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/grupes/Auksinė Orda]]
+- [[objektai/vietos/Europa]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/vietos/Podolė]]

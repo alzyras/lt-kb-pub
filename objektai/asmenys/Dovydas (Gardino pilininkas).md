@@ -11,14 +11,15 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
+  - '1323 m.'
   - '1324 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
   - 'XIV'
-date_start: '1324'
-date_end: ''
+date_start: '1323'
+date_end: '1324'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -54,6 +55,14 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   teiginys: '1324 m. kovo mėnesį kryžiuočiai sunaikino Gardino pilininko Dovydo dvarą, vėliau puolė Gardiną, o tais metais tęsėsi abipusiai puldinėjimai.'
   pagrindžia:
     - c-003
+- t-005
+  teiginys: 'Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos karaliaus žemę (šiaurinę Estiją).'
+  pagrindžia:
+    - c-004
+- t-006
+  teiginys: '1324 m. lapkritį Gardino pilininkas Dovydas vadovavo Gedimino kariuomenei, siaubusiai Mozūrijos žemę.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -109,3 +118,50 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-004
+  santrauka: 'Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos karaliaus žemę (šiaurinę Estiją).'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    1323 m. šaltiniai mini dar platesnes kovas. Gardino pilininkas
+    Dovydas su lietuvių kariuomene niokojo Revelį, Danijos kara-
+    liaus žemę (šiaurinę Estiją). Kovo viduryje „lietuviai iš Žemaitijos
+    užkariavo Klaipėdos miestą“ ir jį sudegino kartu su trimis gre-
+    timomis kryžiuočiams pavaldžiomis pilimis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-005
+  santrauka: '1324 m. lapkritį Gardino pilininkas Dovydas vadovavo Gedimino kariuomenei, siaubusiai Mozūrijos žemę.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    1324 m. kovo mėn. kryžiuočiai sunaikino Gardino pilinin-
+    ko Dovydo dvarą, kiek vėliau puolė ir Gardiną, visus metus tęsėsi
+    abipusiai puldinėjimai. Lapkritį Gedimino „galinga kariuomenė“,
+    vadovaujama Gardino pilininko Dovydo, siaubė Mozūrijos žemę,
+    o kita „didžiausia“ kariuomenė - Livonijos pietryčiuose Rezeknės
+    regioną.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Gardinas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/vietos/Mozūrija]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Dovydas Gardiniškis]]
+- [[objektai/vietos/Mozūrijos žemė]]
+- [[objektai/vietos/Revelis]]
+- [[objektai/vietos/Rezeknės regionas]]
+- [[objektai/vietos/Estija]]

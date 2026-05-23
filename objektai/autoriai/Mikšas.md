@@ -79,3 +79,8 @@ Lietuvos veikėjas Mikšas, paskui dr. J. „Aušra" iš pradžių buvo spausdin
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/redaktorius]]
+
+### Susiję objektai
+- [[objektai/vietos/Bulgarija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Tilžė]]

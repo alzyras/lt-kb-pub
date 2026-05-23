@@ -62,3 +62,11 @@ Bet toliau nei Riurikaičių dinastijos išsibaigimas (1598), nei garsieji «są
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
+
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/ivykiai/Sąmyšio metai (1604-1612 m.)]]

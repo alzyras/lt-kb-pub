@@ -60,3 +60,7 @@ Jankus ir lietuvių draugas vokietis S.
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/redaktorius]]
+
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Lietuva]]

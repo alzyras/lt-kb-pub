@@ -62,4 +62,7 @@ Dejevo, į Paupį.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/daiktai/Patrankos]]
+- [[objektai/vietos/Vilnius]]
 - [[objektai/vietos/Užupis]]

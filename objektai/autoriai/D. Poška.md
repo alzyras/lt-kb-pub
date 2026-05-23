@@ -98,4 +98,9 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/grupes/Žemaičiai]]
 - [[objektai/daiktai/D. Poškos Baublys]]

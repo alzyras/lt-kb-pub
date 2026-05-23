@@ -69,4 +69,13 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Netimeras]]
+- [[objektai/vietos/Viena]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/pagonybė]]
+- [[objektai/posakiai/„ir mes turime vieną Dievą…“]]
+- [[objektai/zodynas/kunigaikščiai]]

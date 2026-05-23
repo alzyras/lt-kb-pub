@@ -65,4 +65,11 @@ Priėmusi nutarimą respublikonų kariuomenė nužygiavo į Vilnių, kur Šnipi�
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/ivykiai/Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/hegemonija]]
+- [[objektai/asmenys/A. P. Sapiega]]
+- [[objektai/asmenys/B. P. Sapiega]]
+- [[objektai/asmenys/M. P. Sapiega]]
 - [[objektai/grupes/Valkininkų konfederacija]]

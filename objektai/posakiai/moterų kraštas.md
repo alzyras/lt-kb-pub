@@ -48,3 +48,8 @@ Apie tokią moterų «karalystę» kalbėjo ir Adomas Bremenietis, kuris šiaip 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Livonija]]
+- [[objektai/autoriai/Adomas Bremenietis]]

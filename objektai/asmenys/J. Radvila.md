@@ -53,3 +53,9 @@ Radvilos pajėgos.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Smolenskas]]
+- [[objektai/zodynas/etmonas]]
+- [[objektai/vietos/Šepelievičiai]]

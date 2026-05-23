@@ -6,6 +6,21 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1386 m.'
+  - '1562 m.'
+  - '1563 m.'
+  - '1569 m.'
+  - '1795 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+  - 'XVI'
+  - 'XVIII'
+date_start: '1386'
+date_end: '1795'
 patikimumas: 'vidutinis'
 tags:
   - bajorija
@@ -68,6 +83,22 @@ Nenurodyta
     - c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-007
+  teiginys: 'ABIEJŲ TAUTŲ RESPUBLIKA Liublino unija 1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas.'
+  pagrindžia:
+    - c-007
+- t-008
+  teiginys: 'Nesusitarus Lietuvos delegacija kovo 1 dieną išvyko iš Liublino.'
+  pagrindžia:
+    - c-008
+- t-009
+  teiginys: 'Chodkevičius Liublino seime 1569 m. birželio 28 d. priėmė unijos ir net vieno antspaudo, taigi – Lietuvos prijungimo prie Lenkijos – idėją.'
+  pagrindžia:
+    - c-009
+- t-010
+  teiginys: 'Derybų procese žaisdamas dviprasmybėmis, Žemaičių seniūnas sugebėjo susiaurinti unijos klausimą iki antspaudų klausimo: valdovo raštai antspauduojami vien Lenkijos (o tai reiškia, kad Lietuva prijungiama ir geriausiu atveju tampa Lenkijos autonomine.'
+  pagrindžia:
+    - c-010
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -155,8 +186,117 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'ABIEJŲ TAUTŲ RESPUBLIKA Liublino unija 1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    ABIEJŲ TAUTŲ RESPUBLIKA
+    Liublino unija
+    1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos
+    ir Lenkijos suartėjimas. „Šventos santuokos“ metafora dažnai taikoma
+    visam unijų procesui, kurio padarinys – 1569 m. sudaryta Liublino uni-
+    ja, sukūrusi jungtinę valstybę – Abiejų Tautų Respubliką. Tai buvo ori-
+    ginalus valstybių junginys, kuris šiandien kartais laikomas net Europos
+    Sąjungos pirmtaku. Be Lenkijos ir Lietuvos suartėjimo ir kariuomenių
+    sąjungos nebūtų buvo Žalgirio pergalės, o sėkmingos Livonijos karo baig-
+    ties XVI a. – būtent be Liublino unijos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: 'Nesusitarus Lietuvos delegacija kovo 1 dieną išvyko iš Liublino.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Nesusitarus Lietuvos delegacija kovo 1 dieną išvyko iš
+    Liublino. Tada Lietuvai buvo suduotas skaudus smūgis – karalius Žygi-
+    mantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė be-
+    veik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos (Palenkę ir Volui-
+    nės, Kijevo ir Podolės (Braclavo) vaivadijas). Prijungtų sričių bajorai turėjo
+    prisiekti Lenkijai, o jų atstovai dalyvauti Lenkijos Seime. Iš neprisiekusiųjų
+    buvo atimtos žemės – Lietuvai grėsė suvereniteto praradimas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: 'Chodkevičius Liublino seime 1569 m. birželio 28 d. priėmė unijos ir net vieno antspaudo, taigi – Lietuvos prijungimo prie Lenkijos – idėją.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    J. J. Chodkevičius suprato tragišką dilemą: arba Lietuva susisaisto su Len-
+    kija, arba Lietuvą užkariauja Rusija. Jis pasirinko pirmąjį kelią, tačiau sten-
+    gėsi išsiderėti kuo palankesnes sąlygas. J. J. Chodkevičius Liublino seime
+    1569 m. birželio 28 d. priėmė unijos ir net vieno antspaudo, taigi – Lietuvos
+    prijungimo prie Lenkijos – idėją. Tai buvo žiaurus kompromisas. Kreipda-
+    masis į Žygimantą Augustą jis teigė: „Jūsų Didybės įsakyti mes čia su didžiu
+    skausmu ir širdgėla buvome priversti nusileisti. Bet kaip mums skaudu, to
+    negalime išreikšti žodžiu. Nes mes, kaip ištikimi savo tėvynės sūnūs, esame
+    įpareigoti rūpintis jos labu, kiek pajėgdami. Jei dabar mes negalime jos ap-
+    ginti, tai todėl, kad esame priversti nusileisti prieš kliūtis, likimą ir laiką.“
+    Po šių žodžių lietuviai su ašaromis puolė ant kelių prieš karalių, tai
+    pravirkdė netgi lenkus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: 'Derybų procese žaisdamas dviprasmybėmis, Žemaičių seniūnas sugebėjo susiaurinti unijos klausimą iki antspaudų klausimo: valdovo raštai antspauduojami vien Lenkijos (o tai reiškia, kad Lietuva prijungiama ir geriausiu atveju tampa Lenkijos autonomine.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    “
+    Po šių žodžių lietuviai su ašaromis puolė ant kelių prieš karalių, tai
+    pravirkdė netgi lenkus. Atrodo, kad J. J. Chodkevičiaus ašaros taip pat
+    buvo diplomatijos išraiška. Derybų procese žaisdamas dviprasmybėmis,
+    Žemaičių seniūnas sugebėjo susiaurinti unijos klausimą iki antspaudų
+    klausimo: valdovo raštai antspauduojami vien Lenkijos (o tai reiškia, kad
+    Lietuva prijungiama ir geriausiu atveju tampa Lenkijos autonomine pro-
+    vincija), ar ir Lietuvos antspaudais. Lyg ir sutikdamas su lenkų nuomone,
+    pritardamas vienam bendram antspaudui, jis čia pat prašė nepanaikinti
+    ir Lietuvos antspaudų. Tai akivaizdus prieštaravimas. Apgindamas LDK
+    antspaudus, J. J. Chodkevičius pasiekė, kad konkretūs Lenkijos ir Lietu-
+    vos ryšių nustatymo ar net unijos sudarymo klausimai būtų sprendžiami
+    ne Liublino seime, bet vėliau, todėl liko galimybė išsaugoti Lietuvos vals-
+    tybingumą. Taip ir padaryta, pareikalavus iš vėlesnių Respublikos valdo-
+    vų pripažinti Lietuvos antspaudus. Taigi J. J. Chodkevičius surado išeities
+    kelius ten, kur, atrodė, jų nėra.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Jonas Jeronimaitis Chodkevičius]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/vietos/Europa]]
+- [[objektai/vietos/Kijevas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Liublinas]]
 - [[objektai/ivykiai/Liublino unija]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/vietos/Podolė]]
+- [[objektai/zodynas/Suverenitetas]]
+- [[objektai/zodynas/diplomatija]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/seniūnas]]
+- [[objektai/zodynas/unija]]
+- [[objektai/vietos/Žalgiris]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/posakiai/„Šventos santuokos“]]

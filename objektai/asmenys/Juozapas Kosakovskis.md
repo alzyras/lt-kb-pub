@@ -68,4 +68,18 @@ Lietuvos) konfederacija, kuriai vadovavo Lietuvos didysis etmonas Simonas Kosako
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/vietos/Targovica]]
+- [[objektai/vietos/Varšuva]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/egzekucija]]
+- [[objektai/zodynas/etmonas]]
+- [[objektai/zodynas/hetmonas]]
+- [[objektai/zodynas/konfederacija]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Abiejų Tautų konfederacija]]
+- [[objektai/asmenys/Simonas Kosakovskis]]
+- [[objektai/grupes/Vilniaus konfederacija]]
 - [[objektai/ivykiai/Vilniaus konfederacijos pritarimas Targovicos konfederacijai]]

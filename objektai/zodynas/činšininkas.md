@@ -43,3 +43,10 @@ Valstiečiai čia taip pat buvo geresnėje būklėje; daugelis jų iki pat rusų
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/zodynas/Baudžiava]]
+- [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/činšas]]

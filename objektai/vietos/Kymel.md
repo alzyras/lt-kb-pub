@@ -58,4 +58,12 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Dubysa]]
+- [[objektai/vietos/Gaižuva]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Nemunas]]
+- [[objektai/vietos/Pačtuva]]
+- [[objektai/vietos/Vilkija]]
+- [[objektai/ivykiai/Gaižuvos ir Pačtuvos sričių nusiaubimas (1292 ir 1294 m.)]]
 - [[objektai/ivykiai/Kymel pilies sunaikinimas (1295 m.)]]

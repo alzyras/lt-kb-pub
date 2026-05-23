@@ -47,4 +47,16 @@ Targovicos konfederacijai 1792 m. birželio 25 d. pritarė Vilniaus (t.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Brasta]]
+- [[objektai/vietos/Gardinas]]
+- [[objektai/asmenys/Juozapas Kosakovskis|Juozapas Kosakovskis (vyskupas)]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/vietos/Targovica]]
+- [[objektai/vietos/Viena]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/etmonas]]
+- [[objektai/zodynas/hetmonas]]
+- [[objektai/zodynas/konfederacija]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Vilniaus konfederacija]]

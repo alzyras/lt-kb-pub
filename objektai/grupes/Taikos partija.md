@@ -56,4 +56,5 @@ Iš to susidarė dvi partijos: karo ir taikos.
 - [[temos/paliaubos]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Karo partija]]

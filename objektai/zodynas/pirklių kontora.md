@@ -42,3 +42,9 @@ Abiejuose tuose centruose Hanza veikiai įsteigė savo agentūras (vadinamąsias
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Dauguva]]
+- [[objektai/grupes/Hanza]]
+- [[objektai/vietos/Nemunas]]

@@ -67,3 +67,8 @@ Vartojamos formos: `veldėme`.
 ## Pastabos
 
 - Tiksli teisinė forma kinta pagal tekstą, bet nuosavybės ir paveldėjimo reikšmė aiški.
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/daiktai/Namas]]

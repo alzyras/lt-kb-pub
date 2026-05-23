@@ -44,3 +44,10 @@ Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos valstyb�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Vokietija]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Rusija]]

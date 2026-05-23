@@ -55,3 +55,9 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/paprociai/Draudimų nepaisančios religinės manifestacijos ir draustos religinės literatūros įsigijimas]]
+- [[objektai/daiktai/Nelegaliai išspausdinta religinė literatūra]]
+- [[objektai/zodynas/pogrindis pogrindiniai leidiniai nelegali spauda]]

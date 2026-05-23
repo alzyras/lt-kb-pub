@@ -65,3 +65,9 @@ Vartojamos formos: `ašvienio`.
 ## Pastabos
 
 - Tikslus šiuolaikinis atitikmuo iš konteksto yra aiškus, bet socialinė gyvulio paskirtis gali būti platesnė už paprastą arklį.
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/autoriai/Guagnini]]
+- [[objektai/autoriai/Herberstein]]
+- [[objektai/daiktai/Žemdirbystės įrankiai]]

@@ -58,3 +58,10 @@ Podolėje Karijotaičiai ėmė įvesti tvarką, statyti pilis (Kamieniecą, Smot
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Bakota]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/grupes/Karijotaičiai]]
+- [[objektai/asmenys/Karijotas]]
+- [[objektai/vietos/Kijevas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Podolė]]
+- [[objektai/asmenys/Teodoras]]

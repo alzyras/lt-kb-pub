@@ -132,4 +132,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/Karmūšų]]
+- [[objektai/zodynas/Liuosybė|liuosybė]]
+- [[objektai/zodynas/Karmūšų|karmūšų]]

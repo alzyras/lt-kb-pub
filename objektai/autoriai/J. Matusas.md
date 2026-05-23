@@ -79,3 +79,9 @@ Matusas, laikydamas jį pirmutiniu ir iš esmės ini XIX amž. vieninteliu Lietu
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Maskva]]

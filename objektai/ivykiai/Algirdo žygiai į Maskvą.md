@@ -61,4 +61,11 @@ Nenurodyta
 - [[temos/privilegija]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/vietos/Kijevo Rusia]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/daiktai/Apgulties mašinos]]
+- [[objektai/asmenys/Birutė]]
+- [[objektai/vietos/Birutės kalnas]]
+- [[objektai/posakiai/„Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!“]]
 - [[objektai/posakiai/„savaime visa Rusia turi priklausyti lietuviams“]]

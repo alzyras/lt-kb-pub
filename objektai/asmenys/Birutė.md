@@ -40,7 +40,10 @@ Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo 
   teiginys: 'Birutė iš jų bus išmokęs skaityti ir rašyti.'
   pagrindžia:
     - c-003
-
+- t-007
+  teiginys: 'Šiandien pripažįstama, kad epinius pasakojimus atitinka keletas siužetų, užrašytų Lietuvos metraščiuose: Gedimino sapnas apie Vilniaus įkūrimą, Ldk Algirdo žygiai į Maskvą bei Birutės ir Ldk Kęstučio meilės istorija (Birutės istorija įdomi dar ir kitkuo –.'
+  pagrindžia:
+    - c-004
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.'
@@ -101,3 +104,40 @@ Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-004
+  santrauka: 'Šiandien pripažįstama, kad epinius pasakojimus atitinka keletas siužetų, užrašytų Lietuvos metraščiuose: Gedimino sapnas apie Vilniaus įkūrimą, Ldk Algirdo žygiai į Maskvą bei Birutės ir Ldk Kęstučio meilės istorija (Birutės istorija įdomi dar ir kitkuo –.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Šiandien pripažįstama, kad
+    epinius pasakojimus atitinka keletas siužetų, užrašytų Lietuvos metraš-
+    čiuose: Gedimino sapnas apie Vilniaus įkūrimą, Ldk Algirdo žygiai į
+    Maskvą bei Birutės ir Ldk Kęstučio meilės istorija (Birutės istorija įdomi
+    dar ir kitkuo – kunigaikštienė taip ir neįgijo krikščioniško vardo, palai-
+    dota kaip pagonė, bet jos legenda nenutrūko ir įsigalint krikščionybei,
+    o Birutės kalnas Palangoje buvo gerbiamas kaip šventosios). Visi minėti
+    pasakojimai užrašyti XV–XVI a.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/ivykiai/Algirdo žygiai į Maskvą]]
+- [[objektai/vietos/Birutės kalnas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/vietos/Palanga]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/daiktai/Aukuras]]
+- [[objektai/vietos/Ašminta]]
+- [[objektai/autoriai/Józef Wolff]]
+- [[objektai/ivykiai/Kęstučio žūtis Krėvos kalėjime (1382 m.)]]
+- [[objektai/vietos/Pagaršvio upelis]]
+- [[objektai/grupes/Tauro apygarda]]
+- [[objektai/zodynas/vaidilutė]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Vydimantas]]

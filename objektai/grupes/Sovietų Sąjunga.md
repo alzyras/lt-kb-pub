@@ -43,6 +43,14 @@ Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Liet
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Sovietų Sąjunga, pasinaudodama tarptautine padėtimi ir tuo, kad viso pasaulio dėmesys buvo skirtas vokiečių įsiveržimui į Paryžių, 1940 m. vasarą ne tik okupavo Lietuvą, Latviją ir Estiją, bet ir, prievarta įvedusi tariamai demokratinį valdymą (oficialiai.'
+  pagrindžia:
+    - c-002
+- t-003
+  teiginys: 'Reali aukščiausioji valdžia atiteko ne šalyje likusiems ministrams, o birželio 15 dienos pavakare į Lietuvą iš Maskvos atvykusiam sovietų vyriausybės emisarui Vladimirui Dekanozovui (kartu su juo atvyko ir vidaus reikalų komisaro Lavrentijaus Berijos pirmasis.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -66,3 +74,61 @@ Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Liet
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Sovietų Sąjunga, pasinaudodama tarptautine padėtimi ir tuo, kad viso pasaulio dėmesys buvo skirtas vokiečių įsiveržimui į Paryžių, 1940 m. vasarą ne tik okupavo Lietuvą, Latviją ir Estiją, bet ir, prievarta įvedusi tariamai demokratinį valdymą (oficialiai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Sovietų Sąjunga, pasinaudodama tarptautine padėtimi ir tuo, kad viso
+    pasaulio dėmesys buvo skirtas vokiečių įsiveržimui į Paryžių, 1940 m.
+    vasarą ne tik okupavo Lietuvą, Latviją ir Estiją, bet ir, prievarta įvedusi
+    tariamai demokratinį valdymą (oficialiai vadinamą „liaudies demokrati-
+    ja“), per keletą savaičių šias valstybes įjungė į SSRS sudėtį. Atėjo sunkūs
+    dviejų viena po kitos ėjusių totalitarinių režimų okupacijų laikai, kurie
+    naikins tuos, kurie priešinsis ar nepatiks dėl politinės, socialinės ar rasinės
+    priklausomybės.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Reali aukščiausioji valdžia atiteko ne šalyje likusiems ministrams, o birželio 15 dienos pavakare į Lietuvą iš Maskvos atvykusiam sovietų vyriausybės emisarui Vladimirui Dekanozovui (kartu su juo atvyko ir vidaus reikalų komisaro Lavrentijaus Berijos pirmasis.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Reali aukščiausioji valdžia atiteko ne šalyje li-
+    kusiems ministrams, o birželio 15 dienos pavakare į Lietuvą iš Maskvos
+    atvykusiam sovietų vyriausybės emisarui Vladimirui Dekanozovui (kar-
+    tu su juo atvyko ir vidaus reikalų komisaro Lavrentijaus Berijos pirmasis
+    pavaduotojas Vsevolodas Merkulovas, vadinęsis „drg. Petrovu“, bet jis,
+    kaip specialiųjų tarnybų atstovas, veikė slaptai), kuris diegė sprendimus
+    iš Maskvos. V. Dekanozovui talkino ir sovietų pasiuntinybė su įgaliotuoju
+    atstovu (polpredu) Nikolajumi Pozdniakovu priešakyje, ir iki tol pogrin-
+    dyje veikusi maža Lietuvos komunistų partija (LKP). Šalyje dislokuota
+    daugiatūkstantinė SSRS kariuomenė nulėmė prasidėjusius įvykius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Latvija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuvos komunistų partija]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/vietos/SSRS]]
+- [[objektai/grupes/SSRS kariuomenė]]
+- [[objektai/vietos/Viena]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Artūras Sakalauskas]]
+- [[objektai/grupes/Jedinstvo]]
+- [[objektai/grupes/Lietuvos Taryba]]
+- [[objektai/ivykiai/Sovietų Sąjungos Lietuvos okupacija ir aneksija (1940 m.)]]
+- [[objektai/ivykiai/Baltijos valstybių okupavimas ir įjungimas į SSRS sudėtį (1940 m. vasara)]]
+- [[objektai/vietos/Sibiras]]
+- [[objektai/zodynas/liaudies demokratija]]

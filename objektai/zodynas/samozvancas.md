@@ -53,3 +53,7 @@ netrukus kilo maištas, apsimetėlis (samozvancas) Dimitrijas žuvo, o Marina su
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]

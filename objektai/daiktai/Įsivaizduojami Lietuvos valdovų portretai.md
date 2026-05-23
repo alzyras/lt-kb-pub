@@ -84,3 +84,6 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
+
+### Susiję objektai
+- [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos]]

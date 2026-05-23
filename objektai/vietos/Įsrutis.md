@@ -48,6 +48,18 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
   teiginys: 'Rytų fronte Vokiečių jėgų menkumas leido Rusijos kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gumbinės, Stalupėnų.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Jis kiek sutrumpėjo, kai reikšmingais 1336 metais, prie Nemuno kryžiuočiams ėmus statytis naujas pilis, nadruvių plote, iš visų pusių supamame didelių miškų masyve, buvo pasta­ tyta didelė keturių bokštų pilis Įsrutis (Insterburg).'
+  pagrindžia:
+    - c-004
+- t-005
+  teiginys: 'Metų pabaigoje magistras ruošėsi įsiveržti su kryžininkais anglais, prancūzais - bet žygio neįvykdė, juos sutelkė Įsrutyje gynybai nuo lietuvių.'
+  pagrindžia:
+    - c-005
+- t-006
+  teiginys: 'Grįžęs namo, jis vėl organizavo žygį iš Įsruties į Kauną, „atnešė stabmeldžiams visokių nelaimių“, bet per Kauno mūrinės pilies statyba.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -108,8 +120,70 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Jis kiek sutrumpėjo, kai reikšmingais 1336 metais, prie Nemuno kryžiuočiams ėmus statytis naujas pilis, nadruvių plote, iš visų pusių supamame didelių miškų masyve, buvo pasta­ tyta didelė keturių bokštų pilis Įsrutis (Insterburg).'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Iš pagrindinės ordino žygių
+    bazės Karaliaučiaus kelias iki uždaro lietuvių sodybų ploto buvo
+    gana tolimas. Jis kiek sutrumpėjo, kai reikšmingais 1336 metais,
+    prie Nemuno kryžiuočiams ėmus statytis naujas pilis, nadruvių
+    plote, iš visų pusių supamame didelių miškų masyve, buvo pasta­
+    tyta didelė keturių bokštų pilis Įsrutis (Insterburg). Ši paskutinė
+    ordino pilis dykroje virto svarbiu sustojimo punktu į «reysus»
+    žygiuojantiems ir grįžtantiems.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: 'Metų pabaigoje magistras ruošėsi įsiveržti su kryžininkais anglais, prancūzais - bet žygio neįvykdė, juos sutelkė Įsrutyje gynybai nuo lietuvių.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Metų pabaigoje
+    magistras ruošėsi įsiveržti su kryžininkais
+    anglais, prancūzais - bet žygio neįvykdė,
+    juos sutelkė Įsrutyje gynybai nuo lietuvių.
+
+    1347 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: 'Grįžęs namo, jis vėl organizavo žygį iš Įsruties į Kauną, „atnešė stabmeldžiams visokių nelaimių“, bet per Kauno mūrinės pilies statyba.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Grįžęs namo, jis vėl
+    organizavo žygį iš Įsruties į Kauną, „atnešė
+    stabmeldžiams visokių nelaimių“, bet per
+
+    Kauno mūrinės pilies statyba. Pirmoji Kauno pilis
+    kronikose paminėta 1361 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Gumbinė]]
-- [[objektai/vietos/Stalupėnai]]
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Kauno pilis]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/vietos/Angerburgas]]
+- [[objektai/vietos/Girdava]]
+- [[objektai/vietos/Johanisburgas]]
+- [[objektai/vietos/Lotzenburgas]]
+- [[objektai/vietos/Mežuotnės pilis]]
+- [[objektai/vietos/Röselis]]
+- [[objektai/grupes/Lietuviai]]

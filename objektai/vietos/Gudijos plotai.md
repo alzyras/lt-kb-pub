@@ -48,3 +48,12 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Dniepras]]
+- [[objektai/vietos/Gudija]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Skandinavija]]
+- [[objektai/zodynas/variagų (normanų) laikotarpis]]
+- [[objektai/vietos/Lietuva]]

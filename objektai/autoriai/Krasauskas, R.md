@@ -53,3 +53,10 @@ Krasauskas, R.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/autoriai/R. Krasauskas]]
+- [[objektai/autoriai/Nieborowski, P]]
+- [[objektai/autoriai/P. Nieborowski]]

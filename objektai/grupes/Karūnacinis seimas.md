@@ -48,4 +48,5 @@ Pagaliau tarpuvaldį pabaigdavo karūnacinis seimas, kuris visada būdavo šauki
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/apsikarūnavimas]]
 - [[objektai/zodynas/konvokaciniai seimai]]

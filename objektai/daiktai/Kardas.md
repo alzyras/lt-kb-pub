@@ -60,9 +60,13 @@ Nenurodyta
   pagrindžia:
     - c-002
 - t-003
-  teiginys: '“ 1917 m. modelio lenkiškas kardas, skirtas ulonų, artilerijos ir gurguolės puskarininkiams 1920 m.'
+  teiginys: '1917 m. modelio lenkiškas kardas buvo skirtas ulonų, artilerijos ir gurguolės puskarininkiams.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Pirmiausia kautynės prasidėjo ietimis, o paskui į darbą ėjo kir­ viai, kardai ir kiti ginklai.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -101,7 +105,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 - c-003
-  santrauka: '“ 1917 m. modelio lenkiškas kardas, skirtas ulonų, artilerijos ir gurguolės puskarininkiams 1920 m.'
+  santrauka: '1917 m. modelio lenkiškas kardas buvo skirtas ulonų, artilerijos ir gurguolės puskarininkiams.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     “
@@ -117,7 +121,39 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Pirmiausia kautynės prasidėjo ietimis, o paskui į darbą ėjo kir­ viai, kardai ir kiti ginklai.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Pirmiausia kautynės prasidėjo ietimis, o paskui į darbą ėjo kir­
+    viai, kardai ir kiti ginklai. Tiesa, pačioje mūšio pradžioje kry­
+    žiuočiai iššovė porą kartų iš patrankų, bet jos sumišimo sąjun­
+    gininkų kariuomenėj nesukėlė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/didikas]]
+
+### Susiję objektai
+- [[objektai/posakiai/Damoklo kardas tikrai pakibo ant unijos]]
+- [[objektai/ivykiai/Dovydiškių sutarties sudarymas (1380 m. gegužės 31 d.)]]
+- [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]
+- [[objektai/ivykiai/Jonas III pirmasis kardu užatakavo Lietuvą]]
+- [[objektai/asmenys/Jonas XXIII]]
+- [[objektai/grupes/Kardo rinktinė]]
+- [[objektai/grupes/Klevo kuopa]]
+- [[objektai/grupes/Krikščionys]]
+- [[objektai/daiktai/Kryžius ant kardo galo]]
+- [[objektai/grupes/Lietuvos totoriai]]
+- [[objektai/asmenys/Paulius Vladimiri]]
+- [[objektai/zodynas/Meldžionys|meldžionys]]
+- [[objektai/zodynas/vachmistras]]
+- [[objektai/daiktai/Pistoletas]]
+- [[objektai/zodynas/regimentorius]]

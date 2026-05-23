@@ -74,3 +74,10 @@ fon der Goltzq. von der Goltzas buvo pakeistas gen.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Baltija]]
+- [[objektai/vietos/Latvija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Vokietija]]

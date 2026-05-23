@@ -39,7 +39,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'p. 219, Čekoslovakiškas lengvasis kulkosvaidis zB vz.'
+  teiginys: 'Čekoslovakiškas lengvasis kulkosvaidis zB vz. 26 šaltinyje nurodomas ir santrumpa LK vz. 26.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -47,7 +47,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'p. 219, Čekoslovakiškas lengvasis kulkosvaidis zB vz.'
+  santrauka: 'Čekoslovakiškas lengvasis kulkosvaidis zB vz. 26 šaltinyje nurodomas ir santrumpa LK vz. 26.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     p. 219, Čekoslovakiškas lengvasis kulkosvaidis zB vz. 26 (LK vz. 26), VDKM, Artūro Užgalio nuotr.
@@ -59,3 +59,7 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Pistoletas]]

@@ -30,7 +30,7 @@ lietuvių didikai jau turėjo prilygti Vakarų Europos riteriams, tai iliustruoj
 
 ## Teiginiai
 - t-001
-  teiginys: 'lietuvių didikai jau turėjo prilygti Vakarų Europos riteriams, tai iliustruoja užfiksuota 1329 m. Čekijos karaliaus Jono Liuksemburgiečio dvikova su lietuviu didiku Margaliu (Margiriu?).'
+  teiginys: '1329 m. lietuvių didikas Margalis dvikovoje susirėmė su Čekijos karaliumi Jonu Liuksemburgiečiu.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -38,7 +38,7 @@ lietuvių didikai jau turėjo prilygti Vakarų Europos riteriams, tai iliustruoj
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'lietuvių didikai jau turėjo prilygti Vakarų Europos riteriams, tai iliustruoja užfiksuota 1329 m. Čekijos karaliaus Jono Liuksemburgiečio dvikova su lietuviu didiku Margaliu (Margiriu?).'
+  santrauka: '1329 m. lietuvių didikas Margalis dvikovoje susirėmė su Čekijos karaliumi Jonu Liuksemburgiečiu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuviai labai greitai įsisavindavo karybos naujoves. XIV a.
@@ -59,4 +59,8 @@ lietuvių didikai jau turėjo prilygti Vakarų Europos riteriams, tai iliustruoj
 - [[temos/didikas]]
 
 ### Susiję objektai
+- [[objektai/vietos/Europa]]
 - [[objektai/daiktai/Ietis]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/karyba]]
+- [[objektai/vietos/Čekija]]

@@ -70,3 +70,16 @@ tags:
 ### Teminiai klasteriai
 - [[temos/dinastija]]
 - [[temos/paliaubos]]
+
+### Susiję objektai
+- [[objektai/vietos/Kijevas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/vietininkas]]
+- [[objektai/vietos/Bakota]]
+- [[objektai/vietos/Smotryč]]
+- [[objektai/asmenys/Teodoras (Gedimino brolis)]]
+- [[objektai/asmenys/Uzbeko]]
+- [[objektai/vietos/Ratne]]
+- [[objektai/asmenys/Teodoras (Karijoto sūnus)]]
+- [[objektai/asmenys/Teodoras (Liubarto sūnus)]]

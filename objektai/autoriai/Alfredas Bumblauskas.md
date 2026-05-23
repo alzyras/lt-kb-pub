@@ -20,14 +20,20 @@ vaidmenys:
 dalyviai: []
 susije_irasai: []
 datos:
+  - '1009 m.'
+  - '1795 m.'
+  - '2005 m.'
+  - '2010 m.'
   - '2013 m.'
-periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodas: 'viduramžiai'
 periodo_grupes:
-  - 'šiuolaikinė Lietuva'
+  - 'viduramžiai'
 amziai:
+  - 'XI'
+  - 'XVIII'
   - 'XXI'
-date_start: '2013'
-date_end: ''
+date_start: '1009'
+date_end: '2013'
 patikimumas: aukštas
 tags:
   - autorius
@@ -59,9 +65,17 @@ Alfredas Bumblauskas minimas kaip recenzentas ir straipsnio autorius ankstesniam
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-011
-  teiginys: '5)(091) ŽI51 Recenzentai: prof. dr. Alfredas Bumblauskas, prof.'
+  teiginys: 'Alfredas Bumblauskas buvo nurodytas kaip leidinio recenzentas.'
   pagrindžia:
     - c-003
+- t-013
+  teiginys: 'Inga Vinogradnaitė Išleista Lietuvos Respublikos užsienio reikalų ministerijos užsakymu Antras leidimas © Alfonsas Eidintas, 2013 © Alfredas Bumblauskas, 2013 © Antanas Kulakauskas, 2013 © Mindaugas Tamošaitis, 2013 © Lietuvos Respublikos užsienio reikalų.'
+  pagrindžia:
+    - c-005
+- t-014
+  teiginys: 'A. Bumblausko veikalai „Lietuvos Didžioji Kunigaikštija ir jos tradicija“ ir „Senosios Lietuvos istorija: 1009–1795“ nurodyti iliustracijų šaltiniuose.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -114,7 +128,7 @@ Alfredas Bumblauskas minimas kaip recenzentas ir straipsnio autorius ankstesniam
   pagrindžia:
     - t-010
 - c-003
-  santrauka: '5)(091) ŽI51 Recenzentai: prof. dr. Alfredas Bumblauskas, prof.'
+  santrauka: 'Alfredas Bumblauskas buvo nurodytas kaip leidinio recenzentas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     5)(091)
@@ -131,3 +145,79 @@ Alfredas Bumblauskas minimas kaip recenzentas ir straipsnio autorius ankstesniam
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-011
+- c-004
+  santrauka: 'Alfredas Bumblauskas buvo vienas 2013 m. Vilniaus universiteto leidyklos išleistos „Lietuvos istorijos“ autorių.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Alfonsas Eidintas, Alfredas Bumblauskas,
+    Antanas Kulakauskas, Mindaugas Tamošaitis
+    Vilniaus
+    universiteto
+    leidykla
+    2013
+    LIETUVOS
+    I S T O R I J A
+
+    Redakcinė kolegija:
+    Prof.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+- c-005
+  santrauka: 'Inga Vinogradnaitė Išleista Lietuvos Respublikos užsienio reikalų ministerijos užsakymu Antras leidimas © Alfonsas Eidintas, 2013 © Alfredas Bumblauskas, 2013 © Antanas Kulakauskas, 2013 © Mindaugas Tamošaitis, 2013 © Lietuvos Respublikos užsienio reikalų.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Inga Vinogradnaitė
+    Išleista Lietuvos Respublikos
+    užsienio reikalų ministerijos užsakymu
+    Antras leidimas
+    © Alfonsas Eidintas, 2013
+    © Alfredas Bumblauskas, 2013
+    © Antanas Kulakauskas, 2013
+    © Mindaugas Tamošaitis, 2013
+    © Lietuvos Respublikos užsienio reikalų ministerija, 2013
+
+    TURINYS
+    Santrumpos  8
+    Redaktoriaus žodis  9
+    Į v a d a s
+    LIETUVA – VIDURIO EUROPOS DALIS  12
+    Geografinis Europos centras?
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+- c-006
+  santrauka: 'A. Bumblausko veikalai „Lietuvos Didžioji Kunigaikštija ir jos tradicija“ ir „Senosios Lietuvos istorija: 1009–1795“ nurodyti iliustracijų šaltiniuose.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Iliustracijų šaltiniai
+    A. Bumblauskas. Lietuvos Didžioji Kunigaikštija ir jos tradicija. Vilnius, 2010;
+    A.  Bumblauskas. Senosios Lietuvos istorija: 1009–1795. Vilnius, 2005; Alma Mater
+    Vilnensis: Vilniaus universiteto istorijos bruožai: kolektyvinė monografija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/vietos/Europa]]
+- [[objektai/vietos/Europos geografinis centras]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
+- [[objektai/grupes/Vilniaus universiteto leidykla]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/zodynas/monografija]]

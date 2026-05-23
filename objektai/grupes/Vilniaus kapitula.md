@@ -41,6 +41,10 @@ pavyzdžiui, 1570 m. iš 9 Vilniaus kapitulos kanauninkų vos vienas tebuvo su �
   teiginys: '12) buvo įkurta ir Vilniaus vys­ kupijos kapitula, kurią sudarė 2 pralotai ir 10 kanauninkų: vi- (^1) ) Kurcz., 23 p. (^2) ) Kurcz., 153,163—169 p. (^3) ) Kurcz., 24 p. — 98 — si jie buvo Poznaniaus, Mozūrijos ir Čekijos dvasininkai.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Dobrogostui įkūrus Vilniaus kapitulą su dešimčia kanauninkų, 1389 m. balandžio 19 d. Urbonas VI Lietuvą oficialiai pripažino katalikišku kraštu.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -83,3 +87,25 @@ pavyzdžiui, 1570 m. iš 9 Vilniaus kapitulos kanauninkų vos vienas tebuvo su �
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Dobrogostui įkūrus Vilniaus kapitulą su dešimčia kanauninkų, 1389 m. balandžio 19 d. Urbonas VI Lietuvą oficialiai pripažino katalikišku kraštu.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Dobrogostui viską atlikus ir įkūrus
+    Vilniaus kapitulą (su dešimčia kanauninkų), 1389.IV. 19 d. Urbo­
+    nas VI Lietuvą jau oficialiai pripažino katalikišku kraštu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Dobrogostas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/kapitula]]
+- [[objektai/asmenys/Urbonas VI]]

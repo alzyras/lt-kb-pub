@@ -77,4 +77,9 @@ Dar vasarą tam reikalui magistras įsakė netoli Gardino pastatyti dvi pilis: N
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Gardinas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Metenburgas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/magistras]]

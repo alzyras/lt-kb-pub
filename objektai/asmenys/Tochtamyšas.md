@@ -33,6 +33,10 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Bet jau 1409 m. artimose totorių žemėse Vytautui pavyko įkurdinti paklusnų jam chaną, vyriausią Tochtamyšo sūnų Saladiną, kuris jo tėvui mirus, buvo pas Vytautą prisiglaudęs.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -52,3 +56,23 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Bet jau 1409 m. artimose totorių žemėse Vytautui pavyko įkurdinti paklusnų jam chaną, vyriausią Tochtamyšo sūnų Saladiną, kuris jo tėvui mirus, buvo pas Vytautą prisiglaudęs.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Bet jau 1409
+    m. artimose totorių žemėse Vytautui pavyko įkurdinti paklusnų
+    jam chaną, vyriausią Tochtamyšo sūnų Saladiną, kuris jo tėvui
+    mirus, buvo pas Vytautą prisiglaudęs. Žalgirio karo metu ir jisai
+    siuntė Vytautui pagalbos^1 ).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Žalgiris]]

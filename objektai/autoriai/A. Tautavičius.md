@@ -66,3 +66,9 @@ Tautavičius, tyrinėjęs pilkapius Rytų Lietuvoje (AkMD, t. Tautavičius, A. J
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/laiškas]]
+
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/grupes/LTSR Mokslų Akademijos Istorijos Institutas]]
+- [[objektai/vietos/Kapitoniškiai]]

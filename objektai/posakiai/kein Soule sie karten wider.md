@@ -52,3 +52,12 @@ Grįždami prie Saulės (« kein Soule sie karten wider »), t.y.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Vokietija]]
+- [[objektai/vietos/Šiauliai]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Vykintas]]

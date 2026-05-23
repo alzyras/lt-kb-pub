@@ -139,4 +139,11 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/posakiai/Kad būtų viena tauta, viena visuomenė, viena brolija (fraternitas) ir bendri seimai]]
-- [[objektai/zodynas/Personalinė unija]]
+- [[objektai/asmenys/Kazimieras]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Melnikas]]
+- [[objektai/vietos/Petrakava]]
+- [[objektai/vietos/Viena]]

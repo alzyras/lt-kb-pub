@@ -38,3 +38,8 @@ baltų genčių apgyvendintas arealas driekėsi nuo Vyslos iki Dniepro ir Okos b
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Dniepras]]
+- [[objektai/vietos/Vysla]]

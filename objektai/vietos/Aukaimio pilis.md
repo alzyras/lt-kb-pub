@@ -87,5 +87,10 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Aukaimis]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Viena]]
+- [[objektai/zodynas/komtūras]]
+- [[objektai/zodynas/magistras]]
 - [[objektai/ivykiai/Aukaimio pilies srities teriojimas grįžtant nuo Junigėdos (1292 m.)]]
 - [[objektai/ivykiai/Aukaimio pilies sunaikinimas (1302 ir 1305 m.)]]

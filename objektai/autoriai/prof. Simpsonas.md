@@ -50,5 +50,12 @@ Smetona), kurios savo konferencijose, tarpininkaujant škotui prof. Simpsonui, i
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Kuršas]]
+- [[objektai/vietos/Latvija]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Pakuršė]]
+- [[objektai/vietos/Palanga]]
 - [[objektai/vietos/Palangos pajūris]]
+- [[objektai/zodynas/gubernija]]
+- [[objektai/vietos/Žiemgala]]

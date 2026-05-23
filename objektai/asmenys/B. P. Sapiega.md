@@ -51,3 +51,10 @@ Sapiega ir maršalas A.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Respublikonai]]
+- [[objektai/daiktai/Vėliavos]]
+- [[objektai/grupes/Sapiegų kariuomenė]]
+- [[objektai/zodynas/maršalas]]

@@ -200,4 +200,14 @@ Nenurodyta
 - [[temos/ritualas]]
 
 ### Susiję objektai
+- [[objektai/daiktai/Artilerija]]
+- [[objektai/grupes/Bolševikai]]
+- [[objektai/asmenys/J. Mikoliūnas]]
+- [[objektai/daiktai/Karūna]]
+- [[objektai/vietos/Kėdainiai]]
 - [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rytas]]
+- [[objektai/vietos/Salaspilis]]
+- [[objektai/asmenys/K. Dragunevičius]]

@@ -70,4 +70,14 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Klaipėda]]
+- [[objektai/vietos/Torunė]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/vietos/Žalgiris]]
+- [[objektai/vietos/Žemaitija]]
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/daiktai/Karūna]]
 - [[objektai/posakiai/„iki gyvos galvos“]]
+- [[objektai/asmenys/A. Smetona|A. Smetona (prezidentas, XX a.)]]
+- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
+- [[objektai/ivykiai/Klaipėdos nacių teismas Kaune (1934 m. liepa - 1935 m. kovas)]]

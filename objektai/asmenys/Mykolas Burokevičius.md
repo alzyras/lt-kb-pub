@@ -50,3 +50,8 @@ Apie 400 „raudonraiščių“, vadovaujamų „Nacionalinio gelbėjimo komitet
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Jedinstvo]]

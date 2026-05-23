@@ -60,6 +60,22 @@ tags:
   teiginys: '42, 77, 123, 151, 186, 192, 202, 210, 224, 232 Varėna 98, 108, 356 Varmė (Varmija) 220 Varnėnai 177 Varniai 46, 171, 177, 226, 351 Varputis, dievaitis 143 Varšuva 39, 45, 47 ; Varšuvos archy­ vas 314 Vasario 16 aktas 34, 40 Vasibutas 335 Vasil’evskij V.'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: 'Spalio 3 d. lenkai užima Varėnos stotį.'
+  pagrindžia:
+    - c-006
+- t-007
+  teiginys: 'Varėnos ir Bastūnų stotys liko lenkams.'
+  pagrindžia:
+    - c-007
+- t-008
+  teiginys: 'Iš Kauno šarvuotas traukinys nuvyko į Varėną, iš ten per Alytų į Šeštokus.'
+  pagrindžia:
+    - c-008
+- t-009
+  teiginys: 'Rugsėjo 24 d. „Gediminas“ grižo į Varėną, kur kartu su 7-uoju pėstininkų pulku, jau prasidėjus Suvalkų deryboms, nuo besiveržiančių Lenkijos pajėgų gynė strategiškai svarbią Varėnos geležinkelio stotį.'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -144,10 +160,82 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Spalio 3 d. lenkai užima Varėnos stotį.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Spalio 3 d. lenkai užima Varėnos stotį.
+    Spalio 3 d.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: 'Varėnos ir Bastūnų stotys liko lenkams.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Galiausiai spalio 7 d. buvo nusta-
+    tyta demarkacinė linija nuo Vokietijos sienos
+    iki Juodosios Ančios ir Nemuno santakos,
+    toliau - palei Vilniaus-Lydos geležinkelį iki
+    Bastūnų stoties. Varėnos ir Bastūnų stotys
+    liko lenkams.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: 'Iš Kauno šarvuotas traukinys nuvyko į Varėną, iš ten per Alytų į Šeštokus.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Rugsėjo 10 d. „Gediminas“ buvo išsiųstas į Suvalkų frontą. Iš Kauno šarvuotas trauki-
+    nys nuvyko į Varėną, iš ten per Alytų į Šeštokus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: 'Rugsėjo 24 d. „Gediminas“ grižo į Varėną, kur kartu su 7-uoju pėstininkų pulku, jau prasidėjus Suvalkų deryboms, nuo besiveržiančių Lenkijos pajėgų gynė strategiškai svarbią Varėnos geležinkelio stotį.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Rugsėjo 24 d. „Gediminas“
+    grižo į Varėną, kur kartu su 7-uoju pėstininkų pulku, jau prasidėjus Suvalkų deryboms,
+    nuo besiveržiančių Lenkijos pajėgų gynė strategiškai svarbią Varėnos geležinkelio stotį.
+    „Gediminas“ sėkmingai kovėsi išsklaidydamas lenkų puolimus Varėnos prieigose, tačiau
+    pėstininkai nebegalėjo atlaikyti didesnių lenkų pajėgų spaudimo ir pradėjo trauktis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Alytus]]
+- [[objektai/vietos/Kaunas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Nemunas]]
+- [[objektai/vietos/Vokietija]]
+- [[objektai/zodynas/demarkacijos linija]]
+- [[objektai/ivykiai/Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga)]]
+- [[objektai/grupes/Aukščiausioji Santarvininkių Taryba]]
 - [[objektai/vietos/Juodoji Ančia]]
+- [[objektai/vietos/Lazdijai]]
+- [[objektai/vietos/Marcinkonys]]
+- [[objektai/vietos/Merkinė]]
 - [[objektai/ivykiai/Suvalkų derybos ir demarkacinės linijos nustatymas]]
+- [[objektai/ivykiai/Suvalkų derybos ir sutartis (1920 m. rugsėjo 20 d. – spalio 7 d.)]]
 - [[objektai/daiktai/Šarvuotasis traukinys Gediminas]]
 - [[objektai/vietos/Šeštokai]]

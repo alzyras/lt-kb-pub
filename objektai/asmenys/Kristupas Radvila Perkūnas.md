@@ -47,6 +47,10 @@ Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju
     - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: 'Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didžiuoju etmonu ir vadintas Perkūnu, lauko etmonas Grigalius Chodkevičius, būsimasis lauko etmonas Romanas Sanguška, būsimasis Livonijos etmonas Jonas Chodkevičius ir daugelis kitų.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -117,7 +121,41 @@ Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didžiuoju etmonu ir vadintas Perkūnu, lauko etmonas Grigalius Chodkevičius, būsimasis lauko etmonas Romanas Sanguška, būsimasis Livonijos etmonas Jonas Chodkevičius ir daugelis kitų.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Greta didžiojo
+    etmono M. Radvilos buvo jo šešio-
+    likmetis sūnus Kristupas Radvila,
+    vėliau tapęs didžiuoju etmonu ir
+    vadintas Perkūnu, lauko etmo-
+    nas Grigalius Chodkevičius,
+    būsimasis lauko etmonas
+    Romanas Sanguška, būsima-
+    sis Livonijos etmonas Jonas
+    Chodkevičius ir daugelis kitų.
+
+    Žygimanto Augusto
+    paradiniai šarvai, pa-
+
+    gaminti Niunberge meistro
+    Kunzo Lochnerio, XVI a.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kuoknesė]]
+- [[objektai/asmenys/Jonas Chodkevičius]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
+- [[objektai/zodynas/etmonas]]
+- [[objektai/zodynas/hetmonas]]
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.)]]
+- [[objektai/vietos/Veližas]]

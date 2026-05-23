@@ -52,6 +52,3 @@ Pritrūkus valčių, enkavėdistai nulupo Aleknonių ir Žuvinto kaimų ūkinink
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/ežeras]]
-
-### Susiję objektai
-- [[objektai/vietos/Žuvinto ežeras]]

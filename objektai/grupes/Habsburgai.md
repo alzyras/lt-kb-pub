@@ -7,15 +7,19 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
+  - '1514 m.'
+  - '1515 m.'
   - '1936 m.'
   - '2026 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
+  - 'LDK'
   - 'modernioji Lietuva'
 amziai:
+  - 'XVI'
   - 'XX'
   - 'XXI'
-date_start: '1936'
+date_start: '1514'
 date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
@@ -51,6 +55,26 @@ Mat, imperatorius norėjo susilpninti Zigmantą, kurs ypatingai rūpinosi, kad H
   teiginys: 'Kai vienu metu anos garsiosios trys dinastijos (Romanovai, Hohenzollernai, Habsburgai), kurių protėviai buvo dalinęsi Lietuvą-Lenkiją, buvo nutrenktos nuo sostų, atsirado sąlygos buvusiems unijos partneriams realizuoti savą tautinį idealą.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'Suardžius Maskvos ir imperatoriaus Maksimilijono I sąjungą, nukreiptą prieš Žygimantą Senąjį, buvo suartėta su Habsburgais.'
+  pagrindžia:
+    - c-005
+- t-006
+  teiginys: 'Nors Habsburgai dinastinėje kovoje su Jogailaičiais dėl įtakos Čekijoje ir Vengrijoje turėjo neabejotinai daugiau naudos, bet nustojo remti amžinus Lietuvos ir Lenkijos priešus - Vokiečių ordiną ir Maskvą.'
+  pagrindžia:
+    - c-006
+- t-007
+  teiginys: 'Tuo reikalu pas popiežių buvo siunčiamas kanauninkas Mykolas Trombas (Trąb), bet Vokieti­ joje Habsburgai jį sulaikė, keršydami Jogailai, kad buvo vedęs Vilhelmui Habsburgui pažadėtą lenkų karalaitę Jadvygą.'
+  pagrindžia:
+    - c-007
+- t-008
+  teiginys: 'Bet jo žmona Habsburgaitė netrukus mirė.'
+  pagrindžia:
+    - c-008
+- t-009
+  teiginys: 'Barborai mirus, jis vedė pirmosios žmonos seserį Habsburgaitę, tačiau su ja negyveno; ji išvažiavo į Vieną.'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -115,3 +139,100 @@ Mat, imperatorius norėjo susilpninti Zigmantą, kurs ypatingai rūpinosi, kad H
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Suardžius Maskvos ir imperatoriaus Maksimilijono I sąjungą, nukreiptą prieš Žygimantą Senąjį, buvo suartėta su Habsburgais.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Suardžius
+    Maskvos ir imperatoriaus Maksimilijono I
+    sąjungą, nukreiptą prieš Žygimantą Senąjį,
+    buvo suartėta su Habsburgais. To suartė-
+    jimo ryškiausia manifestacija buvo 1515 m.
+    suvažiavimas Vienoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: 'Nors Habsburgai dinastinėje kovoje su Jogailaičiais dėl įtakos Čekijoje ir Vengrijoje turėjo neabejotinai daugiau naudos, bet nustojo remti amžinus Lietuvos ir Lenkijos priešus - Vokiečių ordiną ir Maskvą.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Nors Habsburgai
+    dinastinėje kovoje su Jogailaičiais dėl įtakos
+    Čekijoje ir Vengrijoje turėjo neabejotinai
+    daugiau naudos, bet nustojo remti amžinus
+    Lietuvos ir Lenkijos priešus - Vokiečių or-
+    diną ir Maskvą.
+
+    1514 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: 'Tuo reikalu pas popiežių buvo siunčiamas kanauninkas Mykolas Trombas (Trąb), bet Vokieti­ joje Habsburgai jį sulaikė, keršydami Jogailai, kad buvo vedęs Vilhelmui Habsburgui pažadėtą lenkų karalaitę Jadvygą.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tuo reikalu pas popiežių buvo
+    siunčiamas kanauninkas Mykolas Trombas (Trąb), bet Vokieti­
+    joje Habsburgai jį sulaikė, keršydami Jogailai, kad buvo vedęs
+    Vilhelmui Habsburgui pažadėtą lenkų karalaitę Jadvygą. Tad
+    kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­
+    niai su Poznaniaus vyskupu Dobrogosta, vieną kartą jau tar­
+    pininkavusiu tarp popiežiaus Inocento VI ir didžiojo Lietuvos
+    kunigaikščio Algirdo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: 'Bet jo žmona Habsburgaitė netrukus mirė.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Bet
+    jo žmona Habsburgaitė netrukus mirė. Tuo metu, greta didžiojo
+    kunigaikščio rūmų, buvusiuose Radvilų rūmuose, gyveno jauna graži
+    našlė Barbora Radvilaitė Goš-
+    tautienė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: 'Barborai mirus, jis vedė pirmosios žmonos seserį Habsburgaitę, tačiau su ja negyveno; ji išvažiavo į Vieną.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Barborai mirus, jis vedė pirmosios žmonos seserį Habsburgaitę, ta-
+    čiau su ja negyveno; ji išvažiavo į Vieną. Negaudamas persisky-
+    rimo, jis nebegalėjo vesti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Dobrogostas]]
+- [[objektai/asmenys/Inocentas VI]]
+- [[objektai/grupes/Jogailaičiai]]
+- [[objektai/asmenys/Mykolas Tromba]]
+- [[objektai/autoriai/S. Grunau]]
+- [[objektai/autoriai/Simono Grunau]]
+- [[objektai/asmenys/Vilhelmas Habsburgas]]
+- [[objektai/vietos/Viena]]
+- [[objektai/grupes/Romanovų dinastija]]

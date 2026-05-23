@@ -140,3 +140,11 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Respublikonai]]
+- [[objektai/vietos/Salaspilis]]
+- [[objektai/grupes/Valkininkų konfederacija]]
+- [[objektai/zodynas/kontribucija]]

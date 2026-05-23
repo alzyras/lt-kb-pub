@@ -101,3 +101,15 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Kuršas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Palanga]]
+- [[objektai/asmenys/Russdorfas]]
+- [[objektai/zodynas/didysis magistras]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]

@@ -51,5 +51,12 @@ Vytautas pasižadėjo padėti Skirgailai pa­ imti Kijevą ir atiduoti jam Kreme
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Jadvyga]]
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/vietos/Kijevas]]
 - [[objektai/asmenys/Skirgaila]]
 - [[objektai/vietos/Stožkas]]
+- [[objektai/vietos/Trakai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Švitrigaila]]
+- [[objektai/zodynas/kunigaikštija]]

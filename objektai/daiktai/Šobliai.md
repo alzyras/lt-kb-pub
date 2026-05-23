@@ -66,5 +66,8 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Dolega]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/kunigas]]
 - [[objektai/daiktai/Konfederatka]]
 - [[objektai/asmenys/Peža-Palionis]]

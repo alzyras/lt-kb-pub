@@ -92,3 +92,10 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/privilegija]]
+
+### Susiję objektai
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/urėdas]]
+- [[objektai/grupes/Bajorai]]

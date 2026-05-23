@@ -27,7 +27,7 @@ Taube, M.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Taube, M.'
+  teiginys: 'M. Taube ir F. Klymenko darbas „Die Urkunden Mindowes für den livländischen Orden“ paskelbtas AF VI tome 1929 m., p. 201-255.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -37,7 +37,7 @@ Taube, M.
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Taube, M.'
+  santrauka: 'M. Taube ir F. Klymenko darbas „Die Urkunden Mindowes für den livländischen Orden“ paskelbtas AF VI tome 1929 m., p. 201-255.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Jhs.,_

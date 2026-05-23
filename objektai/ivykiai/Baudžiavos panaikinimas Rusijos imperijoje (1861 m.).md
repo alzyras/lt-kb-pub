@@ -83,4 +83,8 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/Baudžiava]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/apsikarūnavimas]]
+- [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/ukazai]]

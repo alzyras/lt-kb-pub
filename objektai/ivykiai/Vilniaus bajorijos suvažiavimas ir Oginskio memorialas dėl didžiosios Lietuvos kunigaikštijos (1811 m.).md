@@ -61,4 +61,8 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/memorialas]]

@@ -54,3 +54,8 @@ tags:
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/ežeras]]
+
+### Susiję objektai
+- [[objektai/vietos/Brasta]]
+- [[objektai/vietos/Grajevo]]
+- [[objektai/zodynas/dykra]]

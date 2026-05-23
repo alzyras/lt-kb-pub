@@ -93,3 +93,8 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Motiejūnai]]
+- [[objektai/posakiai/Širvintų stebuklas]]

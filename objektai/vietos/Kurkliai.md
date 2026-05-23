@@ -47,3 +47,11 @@ Užėmę Kurklius, lenkai veržėsi Vidiškių ir Ukmergės link.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Ukmergė]]
+- [[objektai/vietos/Balnininkai]]
+- [[objektai/vietos/Videniškis]]
+- [[objektai/vietos/Vidiškis]]

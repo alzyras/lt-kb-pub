@@ -49,6 +49,10 @@ tags:
   teiginys: 'Abu magistrai pasižadėjo nepulti krikščioniškų Trakų kunigaikšti­ jos sričių (Gardino, Volkovisko, Drahočyno, Mielniko, Bielsko, Brastos, Kamienco) Lietuvos gi kunigaikščiai — Jogaila su Kęstučiu, — pasižadėjo nepulti prie tų pat sričių prieinančių Ordino.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'Danieliaus sūnui Romanui Mindaugas davė valdyti Naugarduką, o Vaišvilkas gavo Slanimo, Volkovisko ir kitus atgautų sričių miestus.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -117,8 +121,24 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Danieliaus sūnui Romanui Mindaugas davė valdyti Naugarduką, o Vaišvilkas gavo Slanimo, Volkovisko ir kitus atgautų sričių miestus.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Danieliaus sūnui Romanui Mindaugas davė valdyti Nau-
+    garduką, o Vaišvilkas gavo Slanimo, Volkovisko ir kitus atgautų
+    sričių miestus. Tik jie turėjo pripažinti Mindaugo valdžią.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
+- [[objektai/vietos/Gardinas]]
 - [[objektai/vietos/Naugardukas]]
-- [[objektai/vietos/Slanimas]]

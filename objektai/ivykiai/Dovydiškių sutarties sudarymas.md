@@ -105,5 +105,7 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/ivykiai/Dovydiškių sutarties sudarymas (1380 m. gegužės 31 d.)]]

@@ -7,15 +7,18 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
+  - '1413 m.'
   - '1936 m.'
   - '2026 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
+  - 'LDK'
   - 'modernioji Lietuva'
 amziai:
+  - 'XV'
   - 'XX'
   - 'XXI'
-date_start: '1936'
+date_start: '1413'
 date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
@@ -60,6 +63,18 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   teiginys: 'Savo istoriją Kojalavičius rašė Vazų dinastijos paskutiniais dešimtmečiais, kai Lietuvos bajorijos sluoksniuose jau ryškiau buvo pastebimas savos valstybingumo sąmonės apsilpimas^29.'
   pagrindžia:
     - c-006
+- t-006
+  teiginys: 'Jau pirmą kartą pabėgęs pas Ordiną Vytautas susilaukė pri­ sidedant nemaža bajorų iš tikrosios Lietuvos ir ypač ir Žemai­ čių^2 ).'
+  pagrindžia:
+    - c-007
+- t-007
+  teiginys: 'Pagaliau dar pastebėtina, kad Vytauto laikais Lietuvos ba­ jorija ne tik išėjo į viešąjį gyvenimą, kaip nauja socialė jėga, ji dar įgijo naujų savybių.'
+  pagrindžia:
+    - c-008
+- t-008
+  teiginys: 'Tačiau jis leido Lietuvos bajorijai sudaryti laikinę savo valdžią.'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -153,3 +168,63 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-007
+  santrauka: 'Jau pirmą kartą pabėgęs pas Ordiną Vytautas susilaukė pri­ sidedant nemaža bajorų iš tikrosios Lietuvos ir ypač ir Žemai­ čių^2 ).'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Jau pirmą kartą pabėgęs pas Ordiną Vytautas susilaukė pri­
+    sidedant nemaža bajorų iš tikrosios Lietuvos ir ypač ir Žemai­
+    čių^2 ).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-008
+  santrauka: 'Pagaliau dar pastebėtina, kad Vytauto laikais Lietuvos ba­ jorija ne tik išėjo į viešąjį gyvenimą, kaip nauja socialė jėga, ji dar įgijo naujų savybių.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Pagaliau dar pastebėtina, kad Vytauto laikais Lietuvos ba­
+    jorija ne tik išėjo į viešąjį gyvenimą, kaip nauja socialė jėga, ji
+    dar įgijo naujų savybių. Ji gavo europeiško nobiliteto pažymius
+    — herbus ir nuo tų laikų palengva įgijo luomo savygarbos, at­
+    siskyrė nuo kitos visuomenės, iš visuomenės sluogsnio virto
+    luomu.
+    Žinoma mes negalime patikėti Dlugošu, kad iki 1413 met.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-009
+  santrauka: 'Tačiau jis leido Lietuvos bajorijai sudaryti laikinę savo valdžią.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tačiau jis leido Lietuvos bajorijai sudaryti lai-
+    kinę savo valdžią.
+    Laikinės Lietuvos vyriausybės priešaky
+    atsistojo grafas Soltanas. Toji vyriausybė turėjo tvarkyti
+    krašto reikalus ir parūpinti armijai maisto.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/bajorija]]
+- [[objektai/paprociai/LDK politinės tautos savivoka ir Palemono kilmės tradicija]]
+- [[objektai/autoriai/Laurynas Ivinskis]]
+- [[objektai/zodynas/dvarų milicija]]
+- [[objektai/ivykiai/Švitrigailos paskelbimas didžiuoju Lietuvos kunigaikščiu]]
+- [[objektai/ivykiai/Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)]]
+- [[objektai/zodynas/nobilitetas]]
+- [[objektai/zodynas/statutas]]

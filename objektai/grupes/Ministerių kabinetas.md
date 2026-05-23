@@ -67,6 +67,8 @@ Sleževičiaus vyriausybę ir naują Ministrų kabinetą pavedė sudaryti tautin
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/A. Smetona|A. Smetona (prezidentas, XX a.)]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/1928 m. Lietuvos Konstitucijos paskelbimas (1928 m. gegužės 15 d.)]]
 - [[objektai/asmenys/Kazys Grinius]]
-- [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga]]
+- [[objektai/asmenys/Mykolas Sleževičius]]

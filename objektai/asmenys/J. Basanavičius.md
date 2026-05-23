@@ -44,4 +44,9 @@ Basanavičius. Basanavičiaus vadovaujama Lietuvos Taryba paskelbia Nepriklausom
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Vokietija]]
+- [[objektai/grupes/Aušrininkai]]
+- [[objektai/grupes/Lietuvių Mokslo Draugija (Amerikoje)]]
+- [[objektai/grupes/Lietuvos Taryba]]
 - [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1918-1919 m.)]]

@@ -68,4 +68,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/Juozas Tumas (Vaižgantas)]]
+- [[objektai/zodynas/kunigas]]
+- [[objektai/zodynas/rusinimas]]
 - [[objektai/zodynas/spiritus movens]]

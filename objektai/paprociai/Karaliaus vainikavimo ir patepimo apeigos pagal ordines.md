@@ -68,6 +68,10 @@ Nenurodyta
     - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: 'Nurodydamas eilę pavyzdžių, kur krikščionių karaliai atlieką vainikavimąsi be vyskupiško pate­ pimo, Zigmantas, kaip ir jo delegacija, turėjo įrodyti, jog Vytautui vainiką galįs suteikti ir Romoje nevainikuotas imperatorius, t.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -143,8 +147,19 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Baptista Cigala]]
-- [[objektai/paprociai/Karaliaus vainikavimo ceremonialas be būtino vyskupo patepimo]]
+- c-005
+  santrauka: 'Nurodydamas eilę pavyzdžių, kur krikščionių karaliai atlieką vainikavimąsi be vyskupiško pate­ pimo, Zigmantas, kaip ir jo delegacija, turėjo įrodyti, jog Vytautui vainiką galįs suteikti ir Romoje nevainikuotas imperatorius, t.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Nurodydamas eilę pavyzdžių,
+    kur krikščionių karaliai atlieką vainikavimąsi be vyskupiško pate­
+    pimo, Zigmantas, kaip ir jo delegacija, turėjo įrodyti, jog Vytautui
+    vainiką galįs suteikti ir Romoje nevainikuotas imperatorius, t. y.
+    jis pats.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005

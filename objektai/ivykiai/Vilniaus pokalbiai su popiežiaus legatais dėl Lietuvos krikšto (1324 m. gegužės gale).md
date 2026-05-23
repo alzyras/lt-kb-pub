@@ -74,6 +74,10 @@ Nenurodyta
   teiginys: 'Išvykdami iš Livonijos, popiežiaus legatai įsakė su Gediminu nekariauti ketverius metus, nes buvo turima vilčių, kad per tą laiką Gediminas galįs pasikrikštyti.'
   pagrindžia:
     - c-003
+- t-008
+  teiginys: 'Popiežiaus delegato pasiuntiniai savo platų pranešimą apie pokalbius Vilniuje (1324 gegužės gale) baigė desperatišku prierašu : « ...'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -128,7 +132,34 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-004
+  santrauka: 'Popiežiaus delegato pasiuntiniai savo platų pranešimą apie pokalbius Vilniuje (1324 gegužės gale) baigė desperatišku prierašu : « ...'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Popiežiaus delegato pasiuntiniai savo
+    platų pranešimą apie pokalbius Vilniuje (1324 gegužės gale) baigė
+    desperatišku prierašu : « ... slaptai sužinojome ..., kad broliai Prū­
+    sijos kryžiuočiai padovanojo daug drabužių ir gėrybių Žemaičių
+    galingiesiems su ta sąlyga, kad jie sukiltų prieš karalių, sakydami,
+    jei jis priims tikėjimą, jie išnaikinsią jį, jo sūnus ir visus jo šali­
+    ninkus ir išvysią drauge su teutonų ordino broliais iš savo kara­
+    lystės ir iš savo pašaknų visus išrausią. Tų grasinimų žodžiai daug
+    kartų tais metais buvo sakomi karaliui tiesiog į akis. Panašius
+    grasinimus kalbėjo prieš jį ir rusai »^13.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/vietos/Prūsija]]

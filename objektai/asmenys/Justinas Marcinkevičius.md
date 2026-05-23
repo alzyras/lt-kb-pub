@@ -42,3 +42,8 @@ Kadangi iniciatyvinę grupę sudarė visoje šalyje žinomi inteligentai ir jų 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/tautinis atgimimas]]

@@ -65,3 +65,11 @@ Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi 1859 m. 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/kunigas]]

@@ -94,3 +94,17 @@ tags:
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/metraštis]]
+
+### Susiję objektai
+- [[objektai/vietos/Betygala]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/autoriai/Motiejus Valančius]]
+- [[objektai/vietos/Ukraina]]
+- [[objektai/vietos/Upytė]]
+- [[objektai/vietos/Užnemunė]]
+- [[objektai/vietos/Užpaliai]]
+- [[objektai/asmenys/Vaclovas]]
+- [[objektai/asmenys/Vaišelga|Vaišelga (kunigaikštis)]]
+- [[objektai/zodynas/chanas]]
+- [[objektai/vietos/Čekija]]

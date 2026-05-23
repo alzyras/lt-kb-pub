@@ -47,3 +47,6 @@ Vienbalsiai priimtas Lietuvos valstybės nepriklausomybės proklamavimo dokument
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/aktas]]
+
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]

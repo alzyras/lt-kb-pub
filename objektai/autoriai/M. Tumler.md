@@ -51,3 +51,8 @@ TuDO = Tumler, M.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Maskva]]
+- [[objektai/vietos/Viena]]

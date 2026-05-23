@@ -106,3 +106,19 @@ Jos kunigaikštis Michailas Aleksandrovičius pabėgo į Lietuvą ir Lietuvos va
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Dmitrijus]]
+- [[objektai/daiktai/Ietis]]
+- [[objektai/asmenys/Julijona]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/vietos/Nemunas]]
+- [[objektai/vietos/Tverė]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Dmitrijus Ivanovičius]]

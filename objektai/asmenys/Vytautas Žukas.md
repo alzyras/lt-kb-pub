@@ -50,3 +50,8 @@ Vytautas Žukas pasakoja apie AT gynybos principus. Vytautas Žukas buvo numatyt
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Aukščiausiosios Tarybos rūmai]]
+- [[objektai/vietos/Lietuva]]

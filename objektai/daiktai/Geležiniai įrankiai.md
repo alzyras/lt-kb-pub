@@ -74,4 +74,10 @@ Nenurodyta
 - [[temos/įrankis]]
 
 ### Susiję objektai
+- [[objektai/daiktai/Brūkšniuotoji keramika]]
+- [[objektai/autoriai/E. Danilaitė]]
 - [[objektai/autoriai/E. Radzvilovaitė]]
+- [[objektai/autoriai/J. Stankus]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/daiktai/Sidabro dirbiniai]]

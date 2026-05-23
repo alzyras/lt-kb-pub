@@ -88,3 +88,10 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Vilnius]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Karijotas]]
+- [[objektai/ivykiai/Kęstučio perversmas ir Vilniaus užėmimas (1344-1345 m. žiemą)]]

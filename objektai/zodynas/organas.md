@@ -76,3 +76,17 @@ Jo organas anksčiau buvo „Žvaigždė" ir „Draugas", nuo 1917 metų tapo �
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Susivienijimas Lietuvių Amerikoje]]
+- [[objektai/grupes/Amerikos Lietuvių R. Katalikų Moksleivių Susivienijimas]]
+- [[objektai/autoriai/J. Žilinskas]]
+- [[objektai/ivykiai/Katalikiško moksleivių judėjimo plėtra Amerikoje (1899–1912 m.)]]
+- [[objektai/grupes/Lietuvos Vyčių Sąjunga]]
+- [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
+- [[objektai/grupes/Susivienijimas Lietuvių Rymo Katalikų Amerikoje]]
+- [[objektai/zodynas/seniūnas]]
+- [[objektai/zodynas/seniūnas storasta]]
+- [[objektai/grupes/Nuolatinė Taryba]]

@@ -50,6 +50,10 @@ tags:
     - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: '1949 m. rudenį buvo sunaikinti Algimanto apygardos ir Šarūno rinktinės štabai, 1949 m.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -152,8 +156,30 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+- c-004
+  santrauka: '1949 m. rudenį buvo sunaikinti Algimanto apygardos ir Šarūno rinktinės štabai, 1949 m.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Mūšio padariniai
+    Didžiausias laisvės kovotojų ir NKVD susi-
+    rėmimas įvyko 1949 m. lapkričio 1-2 dieno-
+    mis, kai partizanų bunkeriai buvo išduoti.
+    Šimonių girioje sovietų kariai susprogdino
+    aštuonis partizanų bunkerius: žuvo 33 parti-
+    zanai, 10 laisvės kovotojų pateko į nelaisvę.
+    1949 m. rudenį buvo sunaikinti Algimanto
+    apygardos ir Šarūno rinktinės štabai,
+
+    1949 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Kunigaikščio Margio rinktinė]]
-- [[objektai/grupes/Žalioji rinktinė]]
+- [[objektai/grupes/NKVD]]
+- [[objektai/daiktai/Partizanų bunkeriai]]

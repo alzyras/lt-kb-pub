@@ -60,3 +60,7 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/drabužis]]
+
+### Susiję objektai
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/daiktai/Klėtis]]

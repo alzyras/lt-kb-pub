@@ -49,3 +49,10 @@ Papildomos aiškios formos neišskirtos.
 ## Pastabos
 
 - Tekste nėra tiesioginio apibrėžimo, bet šeimininko ir darbo vadovo vaidmuo aiškus.
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Dželad-Eddinas]]
+- [[objektai/paprociai/Kieminė auka Perūnui per audrą]]
+- [[objektai/paprociai/Raitas keliavimas į bažnyčią, mugę ir kitas vietas]]
+- [[objektai/zodynas/saar]]

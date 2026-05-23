@@ -90,3 +90,10 @@ Georgo Fridriko Valdeko vadovaujamą švedų, brandenburgiečių ir prūsų kari
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Brandenburgas]]
+- [[objektai/vietos/Krymas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/ivykiai/Prostkų mūšis (1656 m. spalio 8 d.)]]

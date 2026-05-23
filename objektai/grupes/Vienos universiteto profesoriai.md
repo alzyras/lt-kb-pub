@@ -78,4 +78,9 @@ Po jo atsiliepė ir Vienos universiteto profesoriai, pakviesti Zigmanto pareišk
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Viena]]
+- [[objektai/zodynas/ciesorius]]
+- [[objektai/zodynas/Romos karalius]]
 - [[objektai/grupes/Lietuvos vyskupai]]

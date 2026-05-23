@@ -91,3 +91,10 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Dembinskio rinktinė]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/vietos/Varšuva]]

@@ -62,3 +62,7 @@ Kleinas išleido net pirmąją lietuvių kalbos gramatiką, o 1666 m. — dvi gi
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]

@@ -122,5 +122,13 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/vietos/Chotinas]]
-- [[objektai/asmenys/Jonas Karolis Katkevičius]]
+- [[objektai/vietos/Dniestras]]
+- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Turkija]]
+- [[objektai/vietos/Dniestro upė]]
+- [[objektai/vietos/Salaspilis]]
+- [[objektai/posakiai/vartais į Rusiją]]

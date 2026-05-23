@@ -68,4 +68,10 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/asmenys/Skirgaila]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/metropolitas]]
+- [[objektai/vietos/Kijevo Rusia]]
 - [[objektai/ivykiai/Polocko maištas prieš Skirgailą (1381 m. pavasaris)]]

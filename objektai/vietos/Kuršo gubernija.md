@@ -8,6 +8,7 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
   - '1500 m.'
+  - '1819 m.'
   - '1921 m.'
   - '1936 m.'
   - '2026 m.'
@@ -15,8 +16,10 @@ periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
   - 'modernioji Lietuva'
+  - 'naujieji laikai'
 amziai:
   - 'XV'
+  - 'XIX'
   - 'XX'
   - 'XXI'
 date_start: '1500'
@@ -42,6 +45,10 @@ Susikūrus nepriklausomai Latvijai, iš pradžių jos ir Lietuvos siena buvo lai
   teiginys: 'Lietuvos Latvijos sienos nustatymas Susikūrus nepriklausomai Latvijai, iš pradžių jos ir Lietuvos siena buvo laikoma buvusios Kuršo gubernijos siena.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: '1819 m. nuo Vilniaus gubernijos atskirtas ir Kuršo (Kurliandijos) gubernijai perduotas siauras Lietuvos pajūrio ruožas – Palangos ir Šventosios apylinkės.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -88,3 +95,30 @@ Susikūrus nepriklausomai Latvijai, iš pradžių jos ir Lietuvos siena buvo lai
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: '1819 m. nuo Vilniaus gubernijos atskirtas ir Kuršo (Kurliandijos) gubernijai perduotas siauras Lietuvos pajūrio ruožas – Palangos ir Šventosios apylinkės.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1819 m. nuo Vilniaus
+    gubernijos atskirtas ir Kuršo (Kurliandijos) gubernijai perduotas siauras
+    Lietuvos pajūrio ruožas – Palangos ir Šventosios apylinkės.
+    Bemaž visa Vilniaus gubernijos teritorija, suskirstyta į 11 apskričių,
+    istoriniu etnografiniu požiūriu buvo lietuviška, taip pat ir Gardino gu-
+    bernijos šiaurinis pakraštys.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Gardinas]]
+- [[objektai/vietos/Kuršas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Palanga]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/gubernija]]
+- [[objektai/vietos/Vilniaus gubernija]]

@@ -62,3 +62,16 @@ Rusų pajėgų padėtis ėmė Rusų kariuomenės vado, Mykolo Borisovičiaus Še
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/vietos/Krymas]]
+- [[objektai/grupes/Krymo totoriai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Smolenskas]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/zodynas/etmonas]]
+- [[objektai/zodynas/hetmonas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

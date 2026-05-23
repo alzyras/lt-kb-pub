@@ -54,3 +54,10 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Kryžių kalnas]]
+- [[objektai/posakiai/lietuviška Golgota]]
+- [[objektai/asmenys/Jonas Paulius II]]
+- [[objektai/paprociai/Kryžių statymas Kryžių kalne kaip tikėjimo laisvės pasipriešinimo praktika]]

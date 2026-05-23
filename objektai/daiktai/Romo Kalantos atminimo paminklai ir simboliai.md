@@ -9,18 +9,18 @@ saltiniai:
   - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
 bukle: "juodrastis"
 laikotarpis: "Romo Kalantos atminimo užsienio lietuvių bendruomenėse kontekstas"
-datos: []
-periodas: "siuolaikine_istorija"
-periodo_grupes:
-  - "sovietmetis"
-  - "diaspora"
-amziai:
-  - "XX"
-date_start: ""
-date_end: ""
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos: []
+periodas: 'siuolaikine_istorija'
+periodo_grupes:
+  - 'diaspora'
+  - 'sovietmetis'
+amziai:
+  - 'XX'
+date_start: ''
+date_end: ''
 patikimumas: "vidutinis"
 tags:
   - simbolis
@@ -56,6 +56,10 @@ Nenurodyta
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-006
+  teiginys: 'Kalantos auka sulaukė didžiulio atgarsio, kėlė Lietuvos nelaisvės klausimą.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -71,7 +75,25 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
+- c-002
+  santrauka: 'Kalantos auka sulaukė didžiulio atgarsio, kėlė Lietuvos nelaisvės klausimą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    R. Kalantos auka sulaukė didžiulio atgarsio, kėlė Lietuvos nelaisvės
+    klausimą. Kiekvienais metais kauniečiai paminėdavo gegužės 14-ąją.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/simbolis]]
+
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Romas Kalanta]]

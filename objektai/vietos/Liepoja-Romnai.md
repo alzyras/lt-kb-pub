@@ -42,4 +42,5 @@ Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis Peterbur
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Peterburgas]]
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Lietuva]]

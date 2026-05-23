@@ -56,6 +56,10 @@ Nenurodyta
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Ano laiko apyrankių ir kitų papuošalų ornamentai yra tiesioginiai giminingi lietuvių kaimo audinių ir juostų raštams.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -92,7 +96,26 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Ano laiko apyrankių ir kitų papuošalų ornamentai yra tiesioginiai giminingi lietuvių kaimo audinių ir juostų raštams.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Šie yra masyvus ir gražiai ornamentuoti, mušti sidabro
+    plokštelėmis, ar net gryno sidabro. Ano laiko apyrankių ir kitų
+    papuošalų ornamentai yra tiesioginiai giminingi lietuvių kaimo
+    audinių ir juostų raštams.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/papuošalas]]
+
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/daiktai/Geležiniai ginklai ir įrankiai]]

@@ -45,4 +45,5 @@ Pirmuoju akademijos rektorium buvo paskirtas mozūras, ir tada jau žinomas, o v
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
 - [[objektai/ivykiai/Vilniaus akademijos įkūrimas (1579 m.)]]

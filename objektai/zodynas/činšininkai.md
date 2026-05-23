@@ -55,3 +55,9 @@ Lietuvos komitetų darbas ėjo ne be kliūčių, nes bajorijos tarpe atsirado ne
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/Baudžiava]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/bajorija]]

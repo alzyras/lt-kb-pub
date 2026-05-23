@@ -61,3 +61,20 @@ Buvo valakai, kryžiuočių dalinys (100 riterių), vadovaujamas Ragainės komt�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Auksinė Orda]]
+- [[objektai/vietos/Dniepras]]
+- [[objektai/vietos/Krokuva]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Podolė]]
+- [[objektai/vietos/Ragainė]]
+- [[objektai/grupes/Tochtamišo totoriai]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/zodynas/chanas]]
+- [[objektai/zodynas/komtūras]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/daiktai/Šarvinių pirštinių, žasto, dilbio, kelio ir blauzdos apsaugos]]
+- [[objektai/daiktai/Šarvinės pirštinės]]

@@ -48,3 +48,8 @@ Kas kita Vytautas, kurį ir patys lietuviai pripažino tikruoju Kęstučio įpė
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Lietuviai]]

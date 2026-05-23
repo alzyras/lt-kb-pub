@@ -41,3 +41,9 @@ Per jį 1251 m. pavasarį (ar vasaros pradžioje) Mindaugas išsirūpino sau ir 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Karūna]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/ivykiai/Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia)]]

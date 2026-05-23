@@ -68,4 +68,12 @@ Tais pačiais metais maskvėnai nusiaubė Oršos, Vitebsko, Kopilino, Šklovo, D
 - [[temos/paliaubos]]
 
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/vietos/Viena]]
+- [[objektai/vietos/Vitebskas]]
 - [[objektai/vietos/Kopilino]]
+- [[objektai/grupes/Maskvėnai]]
+- [[objektai/vietos/Šklovas]]
+- [[objektai/ivykiai/Oršos mūšis (1514 m.)]]

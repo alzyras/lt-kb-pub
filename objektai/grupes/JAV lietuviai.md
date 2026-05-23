@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1916 m.'
   - '1917 m.'
   - '1918 m.'
   - '2013 m.'
@@ -19,7 +20,7 @@ periodo_grupes:
 amziai:
   - 'XX'
   - 'XXI'
-date_start: '1917'
+date_start: '1916'
 date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
@@ -47,6 +48,10 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'JAV lietuvių siunčiami pinigai sudarė 1/10 Lietuvos valstybės biudžeto, išeivijos politinės srovės finansavo Lietuvos politines partijas, rinko aukas valstybės kūrimo darbams.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -90,7 +95,40 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'JAV lietuvių siunčiami pinigai sudarė 1/10 Lietuvos valstybės biudžeto, išeivijos politinės srovės finansavo Lietuvos politines partijas, rinko aukas valstybės kūrimo darbams.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    JAV lietuvių siun-
+    čiami pinigai sudarė 1/10 Lietuvos valstybės biudžeto, išeivijos politinės
+    srovės finansavo Lietuvos politines partijas, rinko aukas valstybės kūrimo
+    darbams.
+    TAUTOS TAPSMAS
+    Lietuva įgyja jūrų uostą –
+    Klaipėdos prisijungimas
+    T
+    autinės valstybės prioritetas – lietuvių tauta, todėl
+    nemažai dėmesio skirta Ryprūsiams, kur daug vietos
+    gyventojų vartojo lietuvių kalbą, ėjo lietuviški laikraščiai, į tą sritį kaž-
+    kada pretendavo Vytautas Didysis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/pinigai]]
+
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/Aukausenos|aukausenos]]
+- [[objektai/paprociai/JAV lietuvių spaudos, draugijų, chorų ir politinių akcijų praktika]]
+- [[objektai/asmenys/Juozas Gabrys-Paršaitis]]
+- [[objektai/grupes/Lietuvių informacijos biuras Lozanoje]]
+- [[objektai/vietos/Čikaga]]

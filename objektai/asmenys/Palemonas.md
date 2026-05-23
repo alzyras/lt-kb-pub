@@ -48,4 +48,8 @@ Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono ir jo ainių legend
 - [[temos/dinastija]]
 
 ### Susiję objektai
+- [[objektai/grupes/Gediminaičių dinastija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/bajorija]]
+- [[objektai/paprociai/LDK politinės tautos savivoka ir Palemono kilmės tradicija]]
 - [[objektai/zodynas/politinė tauta lietuvių nacija]]

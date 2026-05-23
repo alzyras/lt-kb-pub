@@ -57,3 +57,12 @@ Sprendžiant iš pagrindinių istorinių šaltinių, Švitrigailos ir Ordino paj
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/ežeras]]
+
+### Susiję objektai
+- [[objektai/vietos/Viena]]
+- [[objektai/asmenys/Švitrigaila]]
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/vietos/Gelvonai]]
+- [[objektai/asmenys/Mykolas]]
+- [[objektai/vietos/Pabaiskas]]
+- [[objektai/vietos/Žirnajų ežeras]]

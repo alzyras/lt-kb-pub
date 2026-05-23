@@ -6,6 +6,17 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1967 m.'
+  - '1975 m.'
+periodas: 'okupacijų ir sovietmečio laikotarpis'
+periodo_grupes:
+  - 'XX a.'
+amziai:
+  - 'XVIII'
+  - 'XX'
+date_start: '1967'
+date_end: '1975'
 patikimumas: 'vidutinis'
 tags:
   - grupe
@@ -44,6 +55,10 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
     - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: 'O juk reikėtų prisiminti, kad pirmąją pasaulyje žmogaus širdies persodinimo operaciją 1967 m. atliko litvakų palikuonis Christiaan Barnard (Kristianas Barnardas) Pie­tų Afrikos Respublikoje (net jei tai būtų klaida, jo garsiosios operacijos pacientas buvo.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -108,3 +123,30 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'O juk reikėtų prisiminti, kad pirmąją pasaulyje žmogaus širdies persodinimo operaciją 1967 m. atliko litvakų palikuonis Christiaan Barnard (Kristianas Barnardas) Pie­tų Afrikos Respublikoje (net jei tai būtų klaida, jo garsiosios operacijos pacientas buvo.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    O juk reikėtų prisiminti, kad
+    pirmąją pasaulyje žmogaus širdies persodinimo operaciją 1967 m. atliko
+    litvakų palikuonis Christiaan Barnard (Kristianas Barnardas) Pie­tų Afri-
+    kos Respublikoje (net jei tai būtų klaida, jo garsiosios operacijos pacientas
+    buvo tikrai iš litvakų kilęs Louis Washkansky (Luisas Vaškanskis)). O juk
+    reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, tiesiogiai
+    susijusius su Lietuva – David Baltimore (Deividą Boltimorą, 1975 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/asmenys/Christiaan Barnard]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Louis Washkansky]]
+- [[objektai/vietos/Afrika]]
+- [[objektai/grupes/Žydai]]

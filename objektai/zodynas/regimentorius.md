@@ -63,3 +63,10 @@ Konfederacijos maršalka buvo išrinktas Katilas, o regimentorium (karo vadu) �
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Mykolas]]
+- [[objektai/grupes/Pranciškonų ordinas]]
+- [[objektai/daiktai/Kardas]]
+- [[objektai/zodynas/bajorija]]

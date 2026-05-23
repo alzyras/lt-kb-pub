@@ -54,4 +54,7 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Artilerija]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/pavietas]]
 - [[objektai/asmenys/T. Korsakas]]

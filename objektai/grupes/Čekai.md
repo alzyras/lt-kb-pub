@@ -50,6 +50,10 @@ tags:
     - c-003
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: 'Pamatęs, kad jo jė­ gos nebesutinka su užsimojimais, jis atsisako nuo sumanymo: taip buvo su čekais, kai suprato, kad husitų siūlyta karūna ga­ lėtų jam per brangiai kaštuoti, taip buvo su bažnytinės unijos mėginimu, kai paaiškėjo, kad ją sunku įgyvendinti.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -105,7 +109,35 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Pamatęs, kad jo jė­ gos nebesutinka su užsimojimais, jis atsisako nuo sumanymo: taip buvo su čekais, kai suprato, kad husitų siūlyta karūna ga­ lėtų jam per brangiai kaštuoti, taip buvo su bažnytinės unijos mėginimu, kai paaiškėjo, kad ją sunku įgyvendinti.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Pamatęs, kad jo jė­
+    gos nebesutinka su užsimojimais, jis atsisako nuo sumanymo:
+    taip buvo su čekais, kai suprato, kad husitų siūlyta karūna ga­
+    lėtų jam per brangiai kaštuoti, taip buvo su bažnytinės unijos
+    mėginimu, kai paaiškėjo, kad ją sunku įgyvendinti. Pastebė­
+    jęs, kad kuris pasirinktas kelias netinka, jis keičia kryptį, neat­
+    sisakydamas tuo nuo savo vyriausiųjų uždavinių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Karūna]]
+- [[objektai/zodynas/unija]]
+- [[objektai/asmenys/Bajazitas]]
+- [[objektai/grupes/Husitai]]
+- [[objektai/ivykiai/Husitų karališko vainiko pasiūlymas Jogailai ir Vytautui bei Zigmanto Kaributo siuntimas į Čekiją]]
 - [[objektai/grupes/Moravai]]
+- [[objektai/daiktai/Pragos miesto raktai]]
+- [[objektai/zodynas/ekskomunika]]
+- [[objektai/posakiai/vienintelis kelias, kuriuo galima atvesti husitus atgal į katalikų Bažnyčią]]
+- [[objektai/asmenys/Hinka iš Valdšteino]]
+- [[objektai/daiktai/Šv. Vaclovo karūna]]

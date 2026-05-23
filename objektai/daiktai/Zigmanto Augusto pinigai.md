@@ -117,3 +117,12 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/pinigai]]
+
+### Susiję objektai
+- [[objektai/daiktai/Herbas]]
+- [[objektai/vietos/Ispanija]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/daiktai/Lietuvos pinigai]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/asmenys/Zigmantas Augustas]]

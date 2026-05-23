@@ -41,3 +41,7 @@ Jėzuitas Konstantinas Širvydas 1629 m. išleido pamokslų rinkinį.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]

@@ -39,3 +39,8 @@ Todėl nuo šeštojo dešimtmečio pabaigos prasidėjo Vilniaus universiteto Lie
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Vilnius]]

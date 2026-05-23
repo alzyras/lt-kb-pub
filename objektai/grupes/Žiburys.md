@@ -48,4 +48,9 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Kaunas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvių Dailės Draugija]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/vietos/Viena]]
 - [[objektai/grupes/Rytas]]

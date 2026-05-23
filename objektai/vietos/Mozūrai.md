@@ -40,6 +40,10 @@ Sūnui su Barbora atvykstant į Lenkiją, ji pasišalino su dukterimis į Mozūr
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Bet vos tik jie išvykdavo namo, prūsai, išlindę iš miškų, nusiaubdavo visą Kulmą, Mozūrus ir visus aplinkinius krikščioniškuosius kraštus.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -78,7 +82,17 @@ Sūnui su Barbora atvykstant į Lenkiją, ji pasišalino su dukterimis į Mozūr
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/vietos/Kulmas]]
+- c-003
+  santrauka: 'Bet vos tik jie išvykdavo namo, prūsai, išlindę iš miškų, nusiaubdavo visą Kulmą, Mozūrus ir visus aplinkinius krikščioniškuosius kraštus.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Bet vos tik jie išvykdavo namo, prūsai, išlindę iš
+    miškų, nusiaubdavo visą Kulmą, Mozūrus ir visus aplinkinius
+    krikščioniškuosius kraštus. Tada vysk.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003

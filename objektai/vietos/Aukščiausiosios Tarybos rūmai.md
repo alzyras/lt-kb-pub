@@ -11,16 +11,16 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 bukle: 'juodrastis'
 laikotarpis: ''
+vaidmenys: []
+dalyviai: []
+susije_irasai:
+  - '[[Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)]]'
 datos: []
 periodas: ''
 periodo_grupes: []
 amziai: []
 date_start: ''
 date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai:
-  - '[[Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)]]'
 patikimumas: 'vidutinis'
 tags: []
 ---
@@ -60,6 +60,10 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
     - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-009
+  teiginys: 'Ant Aukščiausiosios Tarybos stogo pritvirtinti metaliniai strypai turėjo apsunkinti šturmo grupių desantavimą sraigtasparniais UŽDUOTIS AT gynėjas Arvydas Pocius, vėliau tapęs generolu leitenantu, Lietuvos kariuomenės vadu, pasakoja apie AT gynybą.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -127,7 +131,59 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-008
+- c-005
+  santrauka: 'Ant Aukščiausiosios Tarybos stogo pritvirtinti metaliniai strypai turėjo apsunkinti šturmo grupių desantavimą sraigtasparniais UŽDUOTIS AT gynėjas Arvydas Pocius, vėliau tapęs generolu leitenantu, Lietuvos kariuomenės vadu, pasakoja apie AT gynybą.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Ant Aukščiausiosios Tarybos
+    stogo pritvirtinti metaliniai strypai turėjo apsunkinti
+    šturmo grupių desantavimą sraigtasparniais
+
+    UŽDUOTIS
+
+    AT gynėjas Arvydas Pocius, vėliau tapęs generolu leitenantu,
+    Lietuvos kariuomenės vadu, pasakoja apie AT gynybą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/paprociai/Aukščiausiosios Tarybos gynybos savitarpio aprūpinimo praktika]]
 - [[objektai/ivykiai/Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/ivykiai/1991 m. sausio 13 d]]
+- [[objektai/grupes/ATAS]]
+- [[objektai/ivykiai/Algirdo Brazausko tapimas LKP CK pirmuoju sekretoriumi ir Vilniaus arkikatedros grąžinimas tikintiesiems (1988 m. spalis)]]
+- [[objektai/asmenys/Aloyzas Sakalas]]
+- [[objektai/grupes/Antantė]]
+- [[objektai/asmenys/Arvydas Pocius]]
+- [[objektai/asmenys/Audrius Butkevičius]]
+- [[objektai/grupes/Aukščiausioji Taryba]]
+- [[objektai/grupes/Aukščiausiosios Tarybos gynybos štabas]]
+- [[objektai/asmenys/Bronislovas Kuzmickas]]
+- [[objektai/autoriai/Dalius Žygelis]]
+- [[objektai/daiktai/Iž-17 medžioklinis šautuvas]]
+- [[objektai/daiktai/Iž-54 medžioklinis šautuvas]]
+- [[objektai/asmenys/Jonas Gečas]]
+- [[objektai/asmenys/Justinas Gustaitis]]
+- [[objektai/asmenys/Kazimieras Motieka]]
+- [[objektai/vietos/Kiauneliškiai]]
+- [[objektai/ivykiai/Lietuvių kalbos ir Lietuvos simbolių legalizavimas (1988 m. spalio 6 d.)]]
+- [[objektai/grupes/Lietuvos SSR Aukščiausioji Taryba]]
+- [[objektai/grupes/Lietuvos komunistų partija]]
+- [[objektai/autoriai/Ričardas Čekutis]]
+- [[objektai/autoriai/V. Kudirka]]
+- [[objektai/asmenys/Virginijus Česnulevičius]]
+- [[objektai/asmenys/Vytautas Žukas]]
+- [[objektai/asmenys/Česlovas Jezerskas]]
+- [[objektai/asmenys/Česlovas Stankevičius]]
+- [[objektai/vietos/Šiaurės miestelis]]
+- [[objektai/vietos/Žvėryno tiltas]]
+- [[objektai/zodynas/žvalgybos rūšys pagal šaltinį]]
+- [[objektai/ivykiai/Baltijos kelias ir Molotovo–Ribentropo pakto padarinių pasmerkimas (1989 m.)]]
+- [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]

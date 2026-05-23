@@ -45,5 +45,9 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/bolševizacija]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/integracinė kalba polonizacija]]
 - [[objektai/zodynas/polonizacija integracinė kalba]]
+- [[objektai/zodynas/bolševizacija]]

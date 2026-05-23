@@ -64,3 +64,13 @@ Tarp visų suvažiavime iškeltų klausimų vienas iš svarbiausiųjų buvo suma
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/daiktai/Karūna]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/apsikarūnavimas]]
+- [[objektai/zodynas/savarankiškumas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

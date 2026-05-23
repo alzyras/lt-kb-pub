@@ -7,15 +7,20 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1009 m.'
+  - '1960 m.'
   - '1966 m.'
-periodas: 'okupacijų ir sovietmečio laikotarpis'
+  - '2009 m.'
+  - '2010 m.'
+periodas: 'viduramžiai'
 periodo_grupes:
-  - 'XX a.'
+  - 'viduramžiai'
 amziai:
+  - 'XI'
   - 'XX'
   - 'XXI'
-date_start: '1966'
-date_end: ''
+date_start: '1009'
+date_end: '2010'
 patikimumas: 'vidutinis'
 tags:
   - autorius
@@ -37,6 +42,10 @@ M. Jučas. Vytautas Didysis. Chicago, 2010;.
   teiginys: '(^18) Jų didelę dalį yra nurodęs M. Jučas, su kuriuo bendru požiūriu į Stryjkovskio kroniką reikia pilnai sutikti (JueM, 135-162 ; apie Stryjkovskio netikslumus 148-155 p.). — R. Batūra : Lietuvos metraščių legendinės dalies ir M. Stryjkovskio « Kronikos ».'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Warszawa, 1960; M. Jučas. Vytautas Didysis. Chicago, 2010; Lietuva 1009–2009.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -70,3 +79,21 @@ M. Jučas. Vytautas Didysis. Chicago, 2010;.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Warszawa, 1960; M. Jučas. Vytautas Didysis. Chicago, 2010; Lietuva 1009–2009.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Warszawa, 1960; M. Jučas. Vytautas Didysis. Chicago, 2010; Lietuva
+    1009–2009.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Čikaga]]

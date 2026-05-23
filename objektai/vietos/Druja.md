@@ -13,6 +13,7 @@ periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
   - 'modernioji Lietuva'
 amziai:
+  - 'XVII'
   - 'XX'
   - 'XXI'
 date_start: '1936'
@@ -38,6 +39,10 @@ Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos up
   teiginys: 'Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos upe, ji ėjo ties Šafranovo dvaru, toliau Drujos upe, per Drivietų, Želvos, Oziraičių ežerus, Medžiolos upe ir per to pat vardo ežerą, per Miastros ežerą, Bliados ežero rytų šonu.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Etmonas, iždininkas ir maršalas vakare pasiekė Vilnių, iš visų savo rūmų suvežė svarbiausias vertybes į dominikonų vienuolyną, kuriame ir pernakvojo, o ryte, paskleidę gandą, kad vyksta į Drują bei Bychovo tvirtovę, iš tikrųjų suskubo trauktis į Kuršą - į.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -84,3 +89,41 @@ Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos up
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Etmonas, iždininkas ir maršalas vakare pasiekė Vilnių, iš visų savo rūmų suvežė svarbiausias vertybes į dominikonų vienuolyną, kuriame ir pernakvojo, o ryte, paskleidę gandą, kad vyksta į Drują bei Bychovo tvirtovę, iš tikrųjų suskubo trauktis į Kuršą - į.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Etmonas, iždininkas ir marša-
+    las vakare pasiekė Vilnių, iš visų savo
+    rūmų suvežė svarbiausias vertybes į
+    dominikonų vienuolyną, kuriame ir
+    pernakvojo, o ryte, paskleidę gandą,
+    kad vyksta į Drują bei Bychovo tvir-
+    tovę, iš tikrųjų suskubo trauktis į
+    Kuršą - į Bauskę ir Mintaują. Juos
+    persekiojęs respublikonų kariuome-
+    nės dalinys įžengė į Vilnių Sapiegoms
+    jau išvykus iš miesto.
+
+    Buzdyganas XVII a.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Bauskė]]
+- [[objektai/daiktai/Buzdyganas]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/vietos/Bychovo tvirtovė]]
+- [[objektai/vietos/Drivietų ežerai]]
+- [[objektai/vietos/Miastros ežeras]]
+- [[objektai/vietos/Mintauja]]
+- [[objektai/vietos/Oziraičių ežerai]]
+- [[objektai/grupes/Sapiegų kariuomenė]]
+- [[objektai/vietos/Želvos ežerai]]
+- [[objektai/zodynas/maršalas]]

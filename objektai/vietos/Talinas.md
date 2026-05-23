@@ -15,6 +15,8 @@ datos:
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
+  - 'XX a.'
+  - 'šiuolaikinė Lietuva'
 amziai:
   - 'XIV'
   - 'XX'
@@ -45,6 +47,18 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
   teiginys: 'Sužinojęs, kad iš Talino švedams į pagalbą išsiųstas pastiprinimas jau 50 km nuo Piarnu, kovo 16 d.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Rusų tautybės gyventojams keltis į naujuosius LSSR pramonės miestus kliudė psichologinis barjeras: vienas dalykas keltis gyventi į Rygą, Taliną, Vilnių, kur vyravo sava, rusakalbė aplinka („svoji“), visai kas kita – važiuoti į niekada negirdėtus miestelius.'
+  pagrindžia:
+    - c-003
+- t-004
+  teiginys: '1989 m. rugpjūčio 23 d. Gyvasis Baltijos kelias sudarė rankomis susikibusių žmonių grandinę Vilnius-Ryga-Talinas.'
+  pagrindžia:
+    - c-004
+- t-005
+  teiginys: '113 Tacitas Cornelius 103, 111, 116, 134, 147 Tajo upė 20 Talinas 185, 227 Talmantas J.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -77,3 +91,78 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Rusų tautybės gyventojams keltis į naujuosius LSSR pramonės miestus kliudė psichologinis barjeras: vienas dalykas keltis gyventi į Rygą, Taliną, Vilnių, kur vyravo sava, rusakalbė aplinka („svoji“), visai kas kita – važiuoti į niekada negirdėtus miestelius.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Rusų tautybės gyventojams keltis į
+    naujuosius LSSR pramonės miestus kliudė psichologinis barjeras: vienas
+    dalykas keltis gyventi į Rygą, Taliną, Vilnių, kur vyravo sava, rusakalbė
+    aplinka („svoji“), visai kas kita – važiuoti į niekada negirdėtus miestelius,
+    kur vyresnieji net nekalba rusiškai. Nors sovietmečiu daug rusakalbių apsi-
+    gyveno Vilniuje, Klaipėdoje ir Sniečkuje (dabar Visaginas), suindustrintoje
+
+    L I E T U V O S  I S T O R I J A
+    218
+    Lietuvoje, kur buvo ypač išplėtotas pramoninis žemės ūkis, 1990 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: '1989 m. rugpjūčio 23 d. Gyvasis Baltijos kelias sudarė rankomis susikibusių žmonių grandinę Vilnius-Ryga-Talinas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    LPS staigus populiarumas ir masiškumas
+    (Lietuvoje nebuvo kampelio, kuriame nebūtų įsikūręs Sąjūdžio skyrius ar
+    Gyvasis Baltijos kelias – rankomis susikibusių žmonių
+    grandinė Vilnius–Ryga–Talinas.1989 m. rugpjūčio 23 d.
+    A. Petrovo nuotrauka
+
+    6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A
+    239
+    iniciatyvinė grupė), jo pasiekti rezultatai pirmiausia priverčiant LSSR AT
+    priimti Lietuvai palankius sprendimus, parodė didelį Lietuvos gyventojų
+    sąmoningumą ir apsisprendimą reikalauti dar didesnių nuolaidų iš Mas-
+    kvos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: '113 Tacitas Cornelius 103, 111, 116, 134, 147 Tajo upė 20 Talinas 185, 227 Talmantas J.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    113
+    Tacitas Cornelius 103, 111, 116,
+    134, 147
+    Tajo upė 20
+    Talinas 185, 227
+    Talmantas J.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/paprociai/Baltijos kelias kaip gyvos žmonių grandinės komemoracinė protesto forma]]
+- [[objektai/asmenys/Eilartas fon Hobergas]]
+- [[objektai/asmenys/Ernestas fon Racburgas]]
+- [[objektai/vietos/Gedimino bokštas]]
+- [[objektai/vietos/Hermano bokštas]]
+- [[objektai/ivykiai/Karusės mūšis (1270 m. vasario 16 d.)]]
+- [[objektai/asmenys/Ottonas Luterbergas]]
+- [[objektai/vietos/Piltenė]]
+- [[objektai/grupes/Rygos miesto taryba]]
+- [[objektai/vietos/Saremos]]
+- [[objektai/vietos/Tartai]]

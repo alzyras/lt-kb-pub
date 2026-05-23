@@ -35,6 +35,10 @@ Hitleris, o 1934 m. po perversmų įsitvirtino autoritariniai režimai Estijoje 
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Hitlerio 50-mečio šventime, gegužę – maršalo Edvardo Rydzo-Smiglo (Edward Rydz-Śmigły) kvietimu oficialiai lankėsi Lenkijoje.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -55,8 +59,23 @@ Hitleris, o 1934 m. po perversmų įsitvirtino autoritariniai režimai Estijoje 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Hitlerio 50-mečio šventime, gegužę – maršalo Edvardo Rydzo-Smiglo (Edward Rydz-Śmigły) kvietimu oficialiai lankėsi Lenkijoje.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kariuomenės vadas gen. S. Raštikis balandį dalyvavo A. Hitlerio
+    50-mečio šventime, gegužę – maršalo Edvardo Rydzo-Smiglo (Edward
+    Rydz-Śmigły) kvietimu oficialiai lankėsi Lenkijoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/SA smogikai]]
-- [[objektai/ivykiai/Vokietijos ultimatumas ir Klaipėdos krašto perdavimas Vokietijai (1939 m. kovo 20-23 d.)]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/zodynas/maršalas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

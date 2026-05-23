@@ -40,3 +40,8 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Namas]]
+- [[objektai/vietos/Rusija]]

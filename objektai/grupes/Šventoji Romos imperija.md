@@ -39,3 +39,9 @@ Mindaugas pasiekė pirmą tarptautinę Lietuvos diplomatijos pergalę – apsisa
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/zodynas/diplomatija]]

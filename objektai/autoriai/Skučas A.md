@@ -28,7 +28,7 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: '## Puslapis 269 LIETUVOS ATSIKŪRIMAS p. 250, „„JEDINSTVOS“ DEMONSTRACIJA“, Skučas A.'
+  teiginys: 'A. Skučas parašė dokumentinį romaną „Pėstininko užrašai“, išleistą Vilniuje 2012 m.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -36,7 +36,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '## Puslapis 269 LIETUVOS ATSIKŪRIMAS p. 250, „„JEDINSTVOS“ DEMONSTRACIJA“, Skučas A.'
+  santrauka: 'A. Skučas parašė dokumentinį romaną „Pėstininko užrašai“, išleistą Vilniuje 2012 m.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     ## Puslapis 269
@@ -52,3 +52,9 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/Lietuvos atsikūrimas]]
+- [[objektai/vietos/Vilnius]]

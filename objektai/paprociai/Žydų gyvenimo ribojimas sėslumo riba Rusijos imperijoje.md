@@ -72,3 +72,12 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/asmenys/Jekaterina II]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Ukraina]]
+- [[objektai/grupes/Žydai]]

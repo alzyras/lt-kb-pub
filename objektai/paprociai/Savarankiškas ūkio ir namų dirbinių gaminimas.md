@@ -90,5 +90,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/Strūnijo]]
+- [[objektai/grupes/Kalnėnai]]
+- [[objektai/zodynas/Strūnijo|strūnijo]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Ūkio įrankiai]]

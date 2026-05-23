@@ -52,3 +52,7 @@ Dalevskis, nurodydamas, kad rusai vakare iš kautynių vietos taip pat pasitrauk
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Rusai]]

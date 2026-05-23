@@ -62,4 +62,7 @@ Romo Kalantos sušukta frazė siejama su susideginimo protestu prieš okupacinę
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Kaunas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Romas Kalanta]]
 - [[objektai/vietos/Kauno miesto sodas]]

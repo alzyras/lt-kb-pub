@@ -70,6 +70,10 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   teiginys: 'Nespausdinta yra likusi Lietuvoje Šapokos habilitacija « 1655 metų Kėdainių sutartis, arba švedai Lietuvoje 1655-1656 m. »,kuri yra paremta svarbia archyvine medžiaga, labiausiai panaudojant švedų archyvus.'
   pagrindžia:
     - c-006
+- t-012
+  teiginys: 'Kėdainių srities apsaugos viršininkas J. Šarauskas Kėdainiuose suorganizavo savanorių būrį.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -184,10 +188,64 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-011
+- c-007
+  santrauka: 'Kėdainių srities apsaugos viršininkas J. Šarauskas Kėdainiuose suorganizavo savanorių būrį.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Tuo metu Kėdainių srities apsau-
+    gos viršininkas J. Šarauskas mieste jau
+    buvo suorganizavęs savąjį savanorių
+    būrį. Jame buvo daug gimnazijos moks-
+    leivių ir keletas tarnavusių Rusijos ka-
+    riuomenėje puskarininkių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]
-- [[objektai/asmenys/J. Variakojis]]
 - [[objektai/asmenys/J. Šarauskas]]
-- [[objektai/vietos/Panevėžys]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Apylaukė]]
+- [[objektai/vietos/Biržai]]
+- [[objektai/grupes/Bolševikų 2-asis šaulių pulkas]]
+- [[objektai/daiktai/Geltonas lankelis ant kepurės]]
+- [[objektai/vietos/Gineičiai]]
+- [[objektai/vietos/Graužai-Lenčiai]]
+- [[objektai/asmenys/J. Aukštuolaitis]]
+- [[objektai/asmenys/J. Mikoliūnas]]
+- [[objektai/asmenys/J. Variakojis]]
+- [[objektai/asmenys/K. Dragunevičius]]
+- [[objektai/vietos/Kolupiai]]
+- [[objektai/vietos/Krakių valsčius]]
+- [[objektai/vietos/Kruopiai]]
+- [[objektai/vietos/Kėdainių apskritis]]
+- [[objektai/ivykiai/Kėdainių lietuviškų knygų spaustuvės įkūrimas ir sudegimas (apie 1652–1654 m.)]]
+- [[objektai/ivykiai/Kėdainių sutarties sudarymas su Švedija]]
+- [[objektai/grupes/Kėdainių įgula]]
+- [[objektai/ivykiai/Kėdainių-Šėtos kautynės]]
+- [[objektai/vietos/Lenčių miškas]]
+- [[objektai/daiktai/Lietuvos kario savadarbė diržo sagtis]]
+- [[objektai/daiktai/Lietuvos kariuomenės savanorio rankovės antsiuvas]]
+- [[objektai/grupes/Nesvyžiaus Radvilos]]
+- [[objektai/vietos/Nevėžis]]
+- [[objektai/vietos/Pagiriai]]
+- [[objektai/vietos/Paobeliai]]
+- [[objektai/vietos/Raseinių apskritis]]
+- [[objektai/zodynas/Savanoris]]
+- [[objektai/vietos/Tauragė]]
+- [[objektai/asmenys/V. Vainauskas]]
+- [[objektai/zodynas/archieriejus]]
+- [[objektai/daiktai/Šarvuotasis traukinys Gediminas]]
+- [[objektai/ivykiai/Šiaurės karas]]
+- [[objektai/vietos/Šilainiai]]
+- [[objektai/vietos/Šėta]]
+- [[objektai/grupes/Žebenkšties rinktinė]]
+- [[objektai/vietos/Žiežmariai]]
+- [[objektai/zodynas/Nepriklausomybės kovos]]
+- [[objektai/vietos/Zapyškis]]

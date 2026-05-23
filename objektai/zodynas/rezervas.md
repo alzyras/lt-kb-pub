@@ -84,4 +84,19 @@ Matydamas, kad mūšio sėkmė krypsta ne jo naudai, didysis magistras į mūš�
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/didysis magistras]]
 - [[objektai/zodynas/flangas]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/vietos/Žalgiris]]
+- [[objektai/vietos/Bekupė]]
+- [[objektai/asmenys/J. Reikala]]
+- [[objektai/vietos/Juozapavas]]
+- [[objektai/vietos/Katinai]]
+- [[objektai/grupes/Kuršo ir Žiemgalos kunigaikštystė]]
+- [[objektai/vietos/Martiniškiai]]
+- [[objektai/vietos/Turmantas]]
+- [[objektai/zodynas/bendrasis rezervas]]
+- [[objektai/zodynas/kovinė-agentūrinė grupė]]

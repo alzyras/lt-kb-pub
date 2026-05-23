@@ -50,3 +50,11 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/vietos/Lietuva]]

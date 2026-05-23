@@ -88,3 +88,8 @@ Nenurodyta
 ## Pastabos
 
 - terminas tekste turi ir žaidybinį, ir karės įrankio vartojimą, todėl daiktinis kandidatas čia keliamas kartu su galimu žodyno kandidatu.
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kalnėnai]]
+- [[objektai/grupes/Lietuviai]]

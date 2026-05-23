@@ -59,3 +59,20 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Estai]]
+- [[objektai/vietos/Europa]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/vietos/Prūsija]]
+- [[objektai/vietos/Revelis]]
+- [[objektai/vietos/Vokietija]]
+- [[objektai/zodynas/kryžininkai]]
+- [[objektai/grupes/Notangai]]
+- [[objektai/grupes/Danijos karaliaus kariai iš Revelio]]
+- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
+- [[objektai/grupes/Pamedėnai]]
+- [[objektai/grupes/Sembai]]

@@ -83,5 +83,10 @@ Iš anų laikų lenkų karūnos kanceliarijos raštų matome, kad to meto žymū
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Jadvyga (Jogailos duktė)]]
+- [[objektai/daiktai/Karūna]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Płockas]]
+- [[objektai/asmenys/Stanislovas Ciołek]]
+- [[objektai/asmenys/Ziemovitas]]
 - [[objektai/paprociai/Kreipimasis į Vytautą svarbiausiais reikalais]]
+- [[objektai/asmenys/Zbignievas Olesnickis]]

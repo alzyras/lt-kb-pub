@@ -156,3 +156,16 @@ Terminas vartojamas kaip karinis vadovavimo ir karių telkimo pareigybės pavadi
 
 ### Susiję objektai
 - [[objektai/zodynas/hetmonas]]
+- [[objektai/asmenys/H. Brantas]]
+- [[objektai/asmenys/J. P. Sapiega]]
+- [[objektai/asmenys/Jonas Sicinskis]]
+- [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.)]]
+- [[objektai/asmenys/Kurovičius]]
+- [[objektai/grupes/Kuršiečiai]]
+- [[objektai/asmenys/M. Vaina]]
+- [[objektai/asmenys/P. Snayers]]
+- [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)]]
+- [[objektai/asmenys/T. Dambrava]]
+- [[objektai/asmenys/T. Lackis]]
+- [[objektai/asmenys/Vaina]]
+- [[objektai/zodynas/arkebuzieriai]]

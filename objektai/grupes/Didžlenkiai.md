@@ -84,3 +84,11 @@ Bet Vytautas ir dabar, kaip ir 1410 m., ėmė greit rodyti norą grįžti į Lie
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/didikas]]
+
+### Susiję objektai
+- [[objektai/vietos/Brodnica]]
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/žygis]]

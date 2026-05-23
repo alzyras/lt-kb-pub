@@ -63,4 +63,13 @@ Vienos tų žemių priklausė jiems tiesiog: jose jie turėjo didelius savo dvar
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Viena]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/autoriai/P. Dundulienė]]
+- [[objektai/vietos/Šešupė]]
+- [[objektai/ivykiai/Šiaulių ekonomijos valstiečių sukilimas (1769 m.)]]
+- [[objektai/zodynas/vietininkas]]
 - [[objektai/zodynas/otčici]]

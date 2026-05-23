@@ -53,3 +53,20 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvos Respublika]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/ivykiai/1991 m. sausio 13 d]]
+- [[objektai/autoriai/Albertas Daugirdas]]
+- [[objektai/autoriai/Andžej Geglis]]
+- [[objektai/autoriai/Dalius Žygelis]]
+- [[objektai/autoriai/Karolis Zikaras]]
+- [[objektai/vietos/Kiauneliškiai]]
+- [[objektai/autoriai/Loreta Uzdraitė]]
+- [[objektai/autoriai/Ričardas Čekutis]]
+- [[objektai/autoriai/Skučas A]]

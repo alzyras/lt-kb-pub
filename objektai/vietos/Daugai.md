@@ -53,9 +53,17 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
   pagrindžia:
     - c-004
 - t-005
-  teiginys: 'Varčios miške, tarp Alovės ir Daugų mstl.'
+  teiginys: '1945 m. birželio 14 d. Varčios mūšis vyko Varčios miške tarp Alovės ir Daugų.'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: 'Vytautas Dauguose pastatė vieną iš maždaug 35 jam priskiriamų bažnyčių Lietuvos valstybės vietose.'
+  pagrindžia:
+    - c-006
+- t-007
+  teiginys: 'Kai šį sprendimą sužinojo Vytautas ir Jogaila, kurie tada viešėjo Dauguose, abu taip balsiai pra­ virko, kad jų verksmas, kaip sako Dlugošas, iš tolo buvo girdėti.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -122,7 +130,7 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
   pagrindžia:
     - t-004
 - c-005
-  santrauka: 'Varčios miške, tarp Alovės ir Daugų mstl.'
+  santrauka: '1945 m. birželio 14 d. Varčios mūšis vyko Varčios miške tarp Alovės ir Daugų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     DAINAVOS APYGARDA DIDZIOSIOS KOVOS APYGARDA
@@ -138,9 +146,63 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Vytautas Dauguose pastatė vieną iš maždaug 35 jam priskiriamų bažnyčių Lietuvos valstybės vietose.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Taip, pavyzdžiui, yra išlikusių ži­
+    nių, kad Vytautas pastatė apie 35 bažnyčias įvairiose Lietuvos
+    valstybės vietose: Vilniuje katedrą (1399) ir šv. Onos bažnyčią,
+
+
+    ```
+    118
+    ```
+    Kaune parapinę bažnyčią ir pranciškoną (dabar Vytauto), Nau­
+    juose Trakuose (kur yra išlikęs Vytauto numylėtas Šv. Pane­
+    lės paveikslas, žmonių laikomas stebuklingu), Sen. Trakuose,
+    Darsūniškyje, Dauguose, Punioje, Perlojoje, Švenčionyse, Du­
+    bingiuose, Utenoje, Eišiškiuose, Gardine, Liet. Brastoje (pirmos
+    žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko
+    Litevske, Gniondze, Naugardėlyje, Vitebske, Drahočyne,
+    Pinske, Kamieńce (vyskupui katedrą); Žemaitijoje pastatė Var­
+    niuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje,
+    Kražiuose, Kaltinėnuose, Luokėje, Raseiniuose, Viduklėje, Sen­
+    varniuose, Veliuonoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: 'Kai šį sprendimą sužinojo Vytautas ir Jogaila, kurie tada viešėjo Dauguose, abu taip balsiai pra­ virko, kad jų verksmas, kaip sako Dlugošas, iš tolo buvo girdėti.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Kai šį sprendimą sužinojo Vytautas ir
+    Jogaila, kurie tada viešėjo Dauguose, abu taip balsiai pra­
+    virko, kad jų verksmas, kaip sako Dlugošas, iš tolo buvo
+    girdėti. Toks įžeidžiantis ir neteisingas klausimo išsprendimas
+    suglaudė abi valstybes į bendrą kovą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Alovė]]
-- [[objektai/vietos/Varčios miškas]]
-- [[objektai/vietos/Žąsliai]]
+- [[objektai/vietos/Brasta]]
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Ona Vytautienė]]
+- [[objektai/vietos/Trakai]]
+- [[objektai/vietos/Veliuona]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/vietos/Tabariškės]]
+- [[objektai/vietos/Viena]]

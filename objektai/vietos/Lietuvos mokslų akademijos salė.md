@@ -43,4 +43,8 @@ Lietuvių inteligentų būrys 1988 m. birželio 3 d. Vilniuje Lietuvos mokslų a
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]

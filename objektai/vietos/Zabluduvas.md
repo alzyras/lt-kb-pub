@@ -41,3 +41,13 @@ Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/vietos/Nesvyžius]]
+- [[objektai/grupes/Chodkevičiai]]
+- [[objektai/asmenys/Ivanas Fiodorovas|Ivanas Fiodorovas (spaustuvininkas, XVI a.)]]
+- [[objektai/ivykiai/Radvilų ir Chodkevičių spaustuvių steigimai ir Brastos spaustuvės perkėlimas]]
+- [[objektai/daiktai/Spaustuvės]]

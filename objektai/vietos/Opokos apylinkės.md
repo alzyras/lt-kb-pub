@@ -56,4 +56,6 @@ Galiausiai buvo nusiaubtos Opokos apylinkės.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/ivykiai/K. Radvilos Perkūno reidas (1581 m. liepa-spalis)]]
+- [[objektai/vietos/Pskovas]]
 - [[objektai/vietos/Staraja Rusa]]

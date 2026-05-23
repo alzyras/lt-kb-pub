@@ -48,3 +48,8 @@ Vadas (Mykolas Kiełbasa) atsakęs, kad dabar ne laikas esąs karalių gelbėti.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Vėliavos]]
+- [[objektai/asmenys/Mykolas]]

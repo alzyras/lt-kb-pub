@@ -55,3 +55,13 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Didžioji Lenkija]]
+- [[objektai/vietos/Krokuva]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Mažoji Lenkija]]
+- [[objektai/vietos/Viena]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]

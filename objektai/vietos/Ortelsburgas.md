@@ -40,6 +40,10 @@ tags:
   teiginys: 'Lietuviai pasižadėjo nebeužpuldinėti pieti­ nės Prūsijos dalies, kurią sudarė Osterodės, Ortelsburgo, Var­ tenburgo ir Gunlaukeno apskričiai.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Kad lietuvių nuosto­ liai nebuvo tokie dideli, reikšmingai patvirtina tai, jog tais pat metais Kęstutis talkino Liubarto ir Algirdo žygiuose ir Prūsuose puolė Ortelsburgą^22.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -77,3 +81,31 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Kad lietuvių nuosto­ liai nebuvo tokie dideli, reikšmingai patvirtina tai, jog tais pat metais Kęstutis talkino Liubarto ir Algirdo žygiuose ir Prūsuose puolė Ortelsburgą^22.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Kad lietuvių nuosto­
+    liai nebuvo tokie dideli, reikšmingai patvirtina tai, jog tais pat
+    metais Kęstutis talkino Liubarto ir Algirdo žygiuose ir Prūsuose
+    puolė Ortelsburgą^22. Jeigu lietuviai butų netekę didelio karių skai­
+    čiaus, jie nebūtų galėję tęsti savo tolimesnių žygių į Prūsus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Liubartas]]
+- [[objektai/vietos/Angerburgas]]
+- [[objektai/vietos/Girdava]]
+- [[objektai/vietos/Johanisburgas]]
+- [[objektai/vietos/Lotzenburgas]]
+- [[objektai/vietos/Röselis]]

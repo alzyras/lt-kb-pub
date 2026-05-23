@@ -60,3 +60,7 @@ Lietuvos pabėgėliai stovykloje Vokietijoje (Šeinfelde) renkasi dalijamus drab
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/drabužis]]
+
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Vokietija]]

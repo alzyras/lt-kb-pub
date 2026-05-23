@@ -61,4 +61,4 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/posakiai/„už amžiną, tvirtą Lietuvos valstybės sąjungą su Vokietijos valstybe“]]
+- [[objektai/vietos/Lietuva]]

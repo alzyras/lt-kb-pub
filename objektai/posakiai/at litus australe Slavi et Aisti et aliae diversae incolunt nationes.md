@@ -50,3 +50,8 @@ Apie 830 m. Ka­ roliaus Didžiojo biografas Einhardas (Vita Caroli Magni) minė
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Baltija]]
+- [[objektai/autoriai/Wulfstanas]]

@@ -81,4 +81,9 @@ Neprasigyvenę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugia
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/JAV]]
+- [[objektai/vietos/Baltija]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/NATO]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/asmenys/Džordžas Bušas]]

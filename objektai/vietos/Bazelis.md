@@ -7,17 +7,22 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
+  - '1431 m.'
+  - '1440 m.'
+  - '1449 m.'
   - '1926 m.'
   - '1930 m.'
   - '1936 m.'
   - '2026 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
+  - 'LDK'
   - 'modernioji Lietuva'
 amziai:
+  - 'XV'
   - 'XX'
   - 'XXI'
-date_start: '1926'
+date_start: '1431'
 date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
@@ -48,6 +53,10 @@ tags:
   teiginys: 'Tai buvo, šaltiniais paremta studijėlė, « Bazelio susirinkimas ir Lietuvos sosto reikalas Vytautui mirus » (atsp. iš TK 1926) ir platesnis darbas «Vytautas Didysis ir jo Čekijos politika Venceliui mirus » (atsp. iš Židinio 1930).'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Bažnyčios suvažiavimas Bazely ir bažnytinės unijos klausimas Švitrigailos ir Zigmanto kovos metu Bazely (Šveicarijoj) vyko visuotinis Bažnyčios suvažiavimas, arba konsiliumas.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -92,3 +101,30 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Bažnyčios suvažiavimas Bazely ir bažnytinės unijos klausimas Švitrigailos ir Zigmanto kovos metu Bazely (Šveicarijoj) vyko visuotinis Bažnyčios suvažiavimas, arba konsiliumas.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Bažnyčios suvažiavimas Bazely ir bažnytinės unijos**
+        **klausimas**
+    Švitrigailos ir Zigmanto kovos metu Bazely (Šveicarijoj)
+    vyko visuotinis Bažnyčios suvažiavimas, arba konsiliumas. Ja-
+    me, tarp kitko, buvo iškeltas ir bažnytinės unijos klausimas, ku-
+    ris jau buvo spręstas Konstancos suvažiavime.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Konstanca]]
+- [[objektai/zodynas/unija]]
+- [[objektai/asmenys/Švitrigaila]]
+- [[objektai/asmenys/Aleksandra (Mozūrijos kunigaikštienė)]]
+- [[objektai/grupes/Bazelio bažnytinis susirinkimas]]
+- [[objektai/vietos/Florencija]]
+- [[objektai/zodynas/konsiliumas]]

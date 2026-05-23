@@ -6,6 +6,12 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - ginklas
@@ -62,6 +68,10 @@ Nenurodyta
     - c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-006
+  teiginys: 'Raštikis) motyvavo, kad viena Lietuva rimčiau pasipriešinti sovietų karinei mašinai negali, būtų daug aukų.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -141,12 +151,27 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Raštikis) motyvavo, kad viena Lietuva rimčiau pasipriešinti sovietų karinei mašinai negali, būtų daug aukų.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    A. Smetonos siūlymą priešintis ginklu palaikė
+    vos du ministrai. Kariškiai (kariuomenės vadas gen. V. Vitkauskas, gen.
+    S.  Raštikis) motyvavo, kad viena Lietuva rimčiau pasipriešinti sovietų
+    karinei mašinai negali, būtų daug aukų. Vyriausybė priėmė ultimatumą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/laiškas]]
 
 ### Susiję objektai
-- [[objektai/vietos/SSRS]]
-- [[objektai/asmenys/Stasys Raštikis]]
-- [[objektai/asmenys/V. Vitkauskas]]
+- [[objektai/asmenys/A. Smetona|A. Smetona (prezidentas, XX a.)]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Viena]]

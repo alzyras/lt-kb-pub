@@ -63,3 +63,13 @@ Protesto eisena Kauno Laisvės alėjoje Kaune 1972 m. gegužės 18 d. KGB numeri
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Rimgaudas Songaila]]
+- [[objektai/vietos/Ukraina]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/posakiai/„Lietuvą padaryti internacionalinę“]]
+- [[objektai/ivykiai/Kauno protestai po Romo Kalantos susideginimo (1972 m. gegužės 18–19 d.)]]

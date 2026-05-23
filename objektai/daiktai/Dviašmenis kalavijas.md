@@ -75,6 +75,10 @@ Nenurodyta
   teiginys: 'X–XI a. dviašmenis kalavijas buvo paplitęs Vakarų Europoje.'
   pagrindžia:
     - c-003
+- t-006
+  teiginys: 'X–XI a. Vakarų Europoje paplitusių dviašmenių kalavijų randama ir to laikotarpio kapuose Lietuvoje.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -130,8 +134,30 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-004
+  santrauka: 'X–XI a. Vakarų Europoje paplitusių dviašmenių kalavijų randama ir to laikotarpio kapuose Lietuvoje.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    *  X-Xla. Vakarų Europoje paplitęs
+    E dviašmenis kalavijas. Tokio tipo
+
+    Ž | kalavijų randama ir to laikotarpio
+    1= kapuose Lietuvoje
+
+    Lietuvoje karių
+    kapuose rastos
+    sidabruotos
+    geležinės
+    XI-XIII a.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Baltų kovų brolija „Vilkatlakai“]]
-- [[objektai/daiktai/Tik Lietuvai būdingi dvinariai žąslai su skersinukais]]
+- [[objektai/vietos/Europa]]
+- [[objektai/vietos/Lietuva]]

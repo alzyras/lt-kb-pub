@@ -55,3 +55,9 @@ Popiežiaus pasiuntinys Zenonas norėjo dar Ordiną su Vytautu sutaikyti, bet ne
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/vietos/Žalgiris]]

@@ -104,4 +104,13 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
 - [[temos/laiškas]]
 
 ### Susiję objektai
+- [[objektai/vietos/Baltija]]
+- [[objektai/vietos/Dorpatas]]
+- [[objektai/grupes/Hanza]]
+- [[objektai/vietos/Krokuva]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/vietos/Štetinas]]
 - [[objektai/vietos/Pomeranija]]

@@ -74,6 +74,10 @@ Nenurodyta
   teiginys: 'Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užėmė Kuoknesės miestą ir apsupo pilį, bet joje esanti lietuvių įgula nepasidavė.'
   pagrindžia:
     - c-004
+- t-008
+  teiginys: 'Birželio 2-3 d. LDK didysis etmonas Kristupas Radvila Perkūnas pasiuntė rotmistrą Joną Sicinskį su daliniu, kuris sudavė antrą smūgį K.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -155,3 +159,33 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-005
+  santrauka: 'Birželio 2-3 d. LDK didysis etmonas Kristupas Radvila Perkūnas pasiuntė rotmistrą Joną Sicinskį su daliniu, kuris sudavė antrą smūgį K.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Birželio 2-3 d. LDK di-
+    dysis etmonas Kristupas Radvila Perkūnas
+    pasiuntė rotmistrą Joną Sicinskį su dali-
+    niu, kuris sudavė antrą smūgį K. Carlsono
+    Gyllenhielmo kariams. Pagaliau birželio
+    23 d. prie Kuoknesės pagrindinė Lietuvos
+    kariuomenė stojo prieš švedų pajėgas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Kristupas Radvila Perkūnas]]
+- [[objektai/vietos/Kuoknesė]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/zodynas/etmonas]]
+- [[objektai/zodynas/rotmistras]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/vietos/Salaspilis]]
+- [[objektai/zodynas/hetmonas]]

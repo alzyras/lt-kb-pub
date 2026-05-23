@@ -80,6 +80,10 @@ Kuršiečiai, kartu su kunigaikščiu, sėkmingai perplaukė upę ir prisistatė
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Fridrichas Ketleris]]
+- [[objektai/vietos/Dauguva]]
 - [[objektai/vietos/Kuršas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/arkebuzieriai]]
+- [[objektai/zodynas/rotmistras]]
+- [[objektai/asmenys/Fridrichas Ketleris]]
 - [[objektai/asmenys/Vaina]]

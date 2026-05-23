@@ -76,3 +76,12 @@ Bogdano Knorringo Rusijos kariuomenės korpusas kuriame buvo 8 tūkst. Trečiojo
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Artilerija]]
+- [[objektai/asmenys/Hermanas]]
+- [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/asmenys/Bogdanas Knorringas]]

@@ -68,3 +68,11 @@ Tie generaliniai seimeliai neišnyko nė įvedus bendrą su lietuviais seimą. T
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Slanimas]]
+- [[objektai/paprociai/Generaliniai seimeliai ir provincijų sesijos]]
+- [[objektai/grupes/Provincijų sesijos]]

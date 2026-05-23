@@ -67,3 +67,9 @@ Dundulienė: Žemdirbystė Lietuvoje (nuo seniausia laiku iki 1917 metu) (1963)^
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/įrankis]]
+
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/ekonomija]]
+- [[objektai/zodynas/statutas]]

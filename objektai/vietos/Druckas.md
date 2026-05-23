@@ -112,4 +112,15 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Minskas]]
+- [[objektai/asmenys/Bazilius (Vasilius) II]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Naugardukas]]
+- [[objektai/vietos/Polockas]]
+- [[objektai/vietos/Sluckas]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/vietos/Viena]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/vietos/Vitebskas]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Petras Šuiskis]]

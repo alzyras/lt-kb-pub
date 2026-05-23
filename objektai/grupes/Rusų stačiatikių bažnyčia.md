@@ -43,5 +43,6 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Unitai]]
 - [[objektai/grupes/Unitų bažnyčia]]
 - [[objektai/grupes/Unitų bažnyčia unitai]]

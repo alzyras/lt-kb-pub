@@ -40,6 +40,10 @@ Apuolės pilis šiame veikale minima kaip viena ankstyvųjų skandinavų ekspans
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-006
+  teiginys: 'Nė sausakimšoje Apuolės pilia­ kalnio aikštėje (ploto 3640 m.^2 ) jokiu būdu negalėjo tilpti tiek karių, kurie esą turėję nuo galvos išsipirkti, mokėdami po pusę svaro sidabro.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -78,3 +82,22 @@ Apuolės pilis šiame veikale minima kaip viena ankstyvųjų skandinavų ekspans
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
+- c-003
+  santrauka: 'Nė sausakimšoje Apuolės pilia­ kalnio aikštėje (ploto 3640 m.^2 ) jokiu būdu negalėjo tilpti tiek karių, kurie esą turėję nuo galvos išsipirkti, mokėdami po pusę svaro sidabro.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Nė sausakimšoje Apuolės pilia­
+    kalnio aikštėje (ploto 3640 m.^2 ) jokiu būdu negalėjo tilpti tiek
+    karių, kurie esą turėję nuo galvos išsipirkti, mokėdami po pusę
+    svaro sidabro. Iš XI-XII amž.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/Miera|miera]]

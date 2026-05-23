@@ -108,3 +108,11 @@ Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė ir Smolensko leną Viazm
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/paliaubos]]
+
+### Susiję objektai
+- [[objektai/vietos/Mstislavlis]]
+- [[objektai/vietos/Smolenskas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/asmenys/Hlebas]]
+- [[objektai/ivykiai/Smolensko užėmimas ir Viazmos paėmimas (1396 m. rudenį)]]

@@ -48,3 +48,8 @@ Lietuvos policijai pasiekus pergalių prieš didėjantį organizuotą nusikalsta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/posakiai/„Made in Lithuania“]]

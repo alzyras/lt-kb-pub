@@ -44,3 +44,9 @@ Antra vertus, visi Lietuvos valdovai vadinosi karaliais (pvz., Gediminas laišku
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/laiškas]]
+
+### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/vietos/Bizantija]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/vietos/Lietuva]]

@@ -79,3 +79,14 @@ VORSKLOS KATASTROFA 313 Sviatoslavo sūnūs — Jogailai paklusnumą žadėjęs 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Smolenskas]]
+- [[objektai/zodynas/lenas]]
+- [[objektai/asmenys/Jurgis Sviatoslavaitis]]
+- [[objektai/ivykiai/Smolensko užėmimas (1395 m. rugsėjo 28 d.)]]
+- [[objektai/ivykiai/Smolensko užėmimas ir Viazmos paėmimas (1396 m. rudenį)]]
+- [[objektai/vietos/Viazma]]
+- [[objektai/vietos/Vorskla]]

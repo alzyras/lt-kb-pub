@@ -47,4 +47,8 @@ Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus m
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/Juozas Tumas (Vaižgantas)]]
+- [[objektai/zodynas/kunigas]]
+- [[objektai/zodynas/rusinimas]]
+- [[objektai/asmenys/Juozas Tumas-Vaižgantas|Juozas Tumas-Vaižgantas (rašytojas)]]
+- [[objektai/paprociai/Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui]]
 - [[objektai/ivykiai/„Tėvynės sargo“ leidimo pradžia]]

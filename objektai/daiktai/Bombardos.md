@@ -60,6 +60,10 @@ Nenurodyta
   teiginys: 'Po keturių savaičių apgulties, po daugelio susidūrimų meistras Hermanas vienoje pilies angoje pastatė bombardą prieš lietuvius, tačiau lietuviai, priešpriešiais įtaisę tokį pat pabūklą, užmušė minėtą meistrą.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'O 1384 m. rudenį abu pusbroliai su bombardomis apgulė Kauno Marienwerderi.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -114,7 +118,24 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'O 1384 m. rudenį abu pusbroliai su bombardomis apgulė Kauno Marienwerderi.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    O 1384 m. rudenį abu
+    pusbroliai su bombardomis apgulė Kauno Marienwerderi. Viskuo
+    gerai aprūpinta pilis atlaikė keliolikos savaičių apgniimą ir tik
+    1384.XI.6 d. tekrito.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Hermanas]]
+- [[objektai/vietos/Kaunas]]
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

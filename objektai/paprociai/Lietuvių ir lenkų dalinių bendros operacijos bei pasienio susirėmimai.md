@@ -76,6 +76,10 @@ Nenurodyta
   teiginys: '[137 Ašmeną, | Tiek lietuvių, tiek ir lenkų pajėgos kovojo su bolševikais, kartais atskiri lietuvių ir lenkų daliniai net surengdavo bendras operacijas prieš rusus.'
   pagrindžia:
     - c-004
+- t-010
+  teiginys: '1919 m. rudenį pagrindinėms Lietuvos pajėgoms kovojant su bermontininkais, lenkai mėgino įvairiose vietose veržtis į Lietuvos teritorijos glumą.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -150,7 +154,27 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-009
+- c-005
+  santrauka: '1919 m. rudenį pagrindinėms Lietuvos pajėgoms kovojant su bermontininkais, lenkai mėgino įvairiose vietose veržtis į Lietuvos teritorijos glumą.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    1919 m. rudenį pagrindinėms Lietuvos pajėgoms kovojant su
+    bermontininkais, lenkai mėgino įvairiose vietose veržtis į Lietuvos
+    teritorijos glumą. Jų įvairaus dydžio daliniai sistemingai puldinėjo
+    Alytaus, Trakų, Širvintų, Ukmergės, Utenos ir Zarasų apskričių vieto-
+    ves, kurias gynė tik negausios vietinių karo komendantūrų kuopos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/ivykiai/Kauno bolševikų sukurstytas maištas (1920 m. vasario 22–23 d.)]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Utena]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Nemunas]]

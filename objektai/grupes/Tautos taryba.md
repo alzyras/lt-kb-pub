@@ -58,5 +58,14 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/ivykiai/Generalinių tarėjų ir Tautos tarybos SS dalinio plano atmetimas (1943 m. lapkričio 23-24 d.)]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/generaliniai tarėjai]]
+- [[objektai/grupes/Bolševikai]]
+- [[objektai/ivykiai/Karo metų Amerikos lietuvių politinis ir organizacinis aktyvumas (1914–1918 m.)]]
+- [[objektai/ivykiai/Kosciuškos sukilimas (1794 m.)]]
+- [[objektai/grupes/Latvių Tautos Taryba]]
+- [[objektai/ivykiai/1917 m. lietuvių seimas Petrapilyje]]
+- [[objektai/grupes/Aukščiausioji Visos Rusijos Lietuvių Tautos Taryba]]
+- [[objektai/ivykiai/Generalinių tarėjų ir Tautos tarybos SS dalinio plano atmetimas (1943 m. lapkričio 23-24 d.)]]
+- [[objektai/grupes/Petrapilio latvių pabėgėlių komitetas]]

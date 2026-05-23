@@ -37,7 +37,7 @@ Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai. Vėliau 
 
 ## Teiginiai
 - t-005
-  teiginys: 'Kaštelionas šiame tekste yra lenkiško modelio pareigybė.'
+  teiginys: 'Jogaila ir Vytautas unijos akte pažadėjo Vilniuje įsteigti kašteliono pareigybę pagal Lenkijos Karalystės pavyzdį.'
   pagrindžia:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -55,7 +55,7 @@ Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai. Vėliau 
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kaštelionas šiame tekste yra lenkiško modelio pareigybė.'
+  santrauka: 'Jogaila ir Vytautas unijos akte pažadėjo Vilniuje įsteigti kašteliono pareigybę pagal Lenkijos Karalystės pavyzdį.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     „dignitates, sedes et officia, prout in regno Poloniae instituta
@@ -109,3 +109,11 @@ Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai. Vėliau 
 
 ### Susiję objektai
 - [[objektai/zodynas/vaivada]]
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/unija]]
+- [[objektai/asmenys/Benediktas]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Trakai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

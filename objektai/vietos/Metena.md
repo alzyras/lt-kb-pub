@@ -52,3 +52,13 @@ Stai­ ga grįžęs, sudegino patį Ritterswerderi ir dar dvi ordino pili prie N
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Gardinas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Ritterswerderis]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/ivykiai/Rittersverderio, Naujojo Gardino ir Metenos sunaikinimas (1392 m. liepa)]]
+- [[objektai/vietos/Nemunas]]

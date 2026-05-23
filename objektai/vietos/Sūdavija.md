@@ -60,3 +60,8 @@ Po to parašė jam dar kitą raš­ tą, kuriame labai gražiai išdėstė, kad 
 ### Susiję objektai
 - [[objektai/vietos/Aukštaitija]]
 - [[objektai/vietos/Jotvingija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Mikalojus (Gniezno arkivyskupas)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/vietos/Žemaitija]]

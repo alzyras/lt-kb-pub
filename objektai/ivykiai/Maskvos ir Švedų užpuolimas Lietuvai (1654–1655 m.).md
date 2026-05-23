@@ -58,3 +58,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Atskiri Lietuvos seimai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/grupes/Švedai]]

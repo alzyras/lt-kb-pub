@@ -68,3 +68,9 @@ Kai kurių riterių įspėtas, įsakė jis savo kariuomenei iš Kanerniko eiti �
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Drevenca]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Grünvaldas]]

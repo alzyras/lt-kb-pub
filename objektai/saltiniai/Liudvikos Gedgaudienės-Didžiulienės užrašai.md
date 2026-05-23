@@ -7,15 +7,15 @@ aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 laikotarpis: ''
+vaidmenys: []
+dalyviai: []
+susije_irasai: []
 datos: []
 periodas: ''
 periodo_grupes: []
 amziai: []
 date_start: ''
 date_end: ''
-vaidmenys: []
-dalyviai: []
-susije_irasai: []
 patikimumas: 'aukštas'
 tags: []
 ---
@@ -41,14 +41,8 @@ Iš Liudvikos Gedgaudienės-Didžiulienės užrašų. Sukilimo metu dar vaiku bu
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-006
-  teiginys: '„Liudvikos Gedgaudienės-Didžiulienės užrašai“ šiame veikale cituojamas kaip atskiras šaltinis.'
-  pagrindžia:
-    - c-002
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 - t-007
-  teiginys: 'Buvusi ten atėjusi Lietuvos kariuomenė, trys didžiausi pulkai. Vienas pulkas, Dolegos vedamas, antras kunigo Mackevičiaus, trečias kunigo Pežos-Palionio. Pirmajame visi | kareiviai gražiai apsitaisę, prie šonų šoblios, ant pečių muškietai, ant galvų konfederatkos. Antrasai pulkas aptaisytas, kas ką turėjo; o trečiasai - sodiečių, beveik visų vyzoty, dalgėm apginkluotų.'
+  teiginys: 'Liudvikos Gedgaudienės-Didžiulienės užrašuose minima į Salas atėjusi Lietuvos kariuomenė, sudaryta iš trijų didelių pulkų.'
   pagrindžia:
     - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -59,8 +53,31 @@ Iš Liudvikos Gedgaudienės-Didžiulienės užrašų. Sukilimo metu dar vaiku bu
     - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-009
+  teiginys: 'Sierakausko nurodymu jie : SUKILĖLIŲ PULKAI Iš Liudvikos Gedgaudienės-Didžiulienės užrašų.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
+- c-005
+  santrauka: 'Sierakausko nurodymu jie : SUKILĖLIŲ PULKAI Iš Liudvikos Gedgaudienės-Didžiulienės užrašų.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Sierakausko nurodymu jie
+
+    : SUKILĖLIŲ PULKAI
+
+    Iš Liudvikos Gedgaudienės-Didžiulienės užrašų. Sukilimo metu dar vaiku buvusios
+    moters prisiminimai apie telkiamas sukilėlių pajėgas Salų miestelyje.
+
+    „Štai vieną dieną bažnyčioje visais varpais skambina.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Bibliografiniai įrodymai
 - c-001
@@ -76,22 +93,8 @@ Iš Liudvikos Gedgaudienės-Didžiulienės užrašų. Sukilimo metu dar vaiku bu
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
-- c-002
-  santrauka: '„Liudvikos Gedgaudienės-Didžiulienės užrašai“ šiame veikale cituojamas kaip atskiras šaltinis.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    „Štai vieną dieną bažnyčioje visais varpais skambina. Pulkai žmonių eina į Salas. Nuėjo
-    ir mūsų tėveliai ir visa šeimyna; tiktai mes vaikai su bobute namie belikome. Kaip gaila!
-    Sugrįžę apsakinėjo tokius gražius daiktus.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-006
 - c-003
-  santrauka: 'Buvusi ten atėjusi Lietuvos kariuomenė, trys didžiausi pulkai. Vienas pulkas, Dolegos vedamas, antras kunigo Mackevičiaus, trečias kunigo Pežos-Palionio. Pirmajame visi | kareiviai gražiai apsitaisę, prie šonų šoblios, ant pečių muškietai, ant galvų konfederatkos. Antrasai pulkas aptaisytas, kas ką turėjo; o trečiasai - sodiečių, beveik visų vyzoty, dalgėm apginkluotų.'
+  santrauka: 'Liudvikos Gedgaudienės-Didžiulienės užrašuose minima į Salas atėjusi Lietuvos kariuomenė, sudaryta iš trijų didelių pulkų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Buvusi ten atėjusi Lietuvos kariuomenė, trys didžiausi pulkai. Vienas pulkas, Dolegos

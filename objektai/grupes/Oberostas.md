@@ -10,18 +10,18 @@ variantai:
 aliases: []
 saltiniai:
   - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-bukle: juodrastis
-laikotarpis: "1915-1918 m."
 datos:
-  - "1915 m."
-  - "1916 m. birželis"
-  - "1918 m."
-periodas: ""
+  - '1915 m.'
+  - '1916 m.'
+  - '1918 m.'
+periodas: ''
 periodo_grupes: []
 amziai:
-  - "XX"
-date_start: "1915"
-date_end: "1918"
+  - 'XX'
+date_start: '1915'
+date_end: '1918'
+bukle: juodrastis
+laikotarpis: "1915-1918 m."
 vaidmenys:
   - "karinė administracija"
   - "vadovybė"
@@ -90,6 +90,10 @@ Vokiečių karinė administracija / vadovybė okupuotame krašte.
     - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-013
+  teiginys: 'O Oberosto karinis kolonijinis režimas plėšė valstiečius, – nusavindavo maistą, apkrovė dideliais mokesčiais ir prievolėmis, pramonės įmones išvežė į Vokietiją, o mokyklose pradėjo germanizaciją (lietuviai įsteigė apie tūkstantį mokyklų ir mokytojų kursų.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -159,3 +163,33 @@ Vokiečių karinė administracija / vadovybė okupuotame krašte.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-012
+- c-004
+  santrauka: 'O Oberosto karinis kolonijinis režimas plėšė valstiečius, – nusavindavo maistą, apkrovė dideliais mokesčiais ir prievolėmis, pramonės įmones išvežė į Vokietiją, o mokyklose pradėjo germanizaciją (lietuviai įsteigė apie tūkstantį mokyklų ir mokytojų kursų.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Ilga diskusija dėl Lietuvos ateities, politinių kompromisų su lenkais
+    paieška buvo bevaisė. O Oberosto karinis kolonijinis režimas plėšė vals-
+    tiečius, – nusavindavo maistą, apkrovė dideliais mokesčiais ir prievolė-
+    mis, pramonės įmones išvežė į Vokietiją, o mokyklose pradėjo germani-
+    zaciją (lietuviai įsteigė apie tūkstantį mokyklų ir mokytojų kursų, tačiau
+    kariškiai įvedė privalomą vokiečių kalbos mokymą, jų paskirti mokyto-
+    jais vokiečiai liuteronai soldafoniškai ir primityvokai mokė šlovinti kaize-
+    rį). Judėjimas tarp apskričių buvo suvaržytas, pašto korespondencija lie-
+    tuviškai uždrausta, lietuviškai leistas vienintelis cenzūruojamas laikraštis
+    „Dabartis“.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Liuteronai]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/vietos/Oberostas]]
+- [[objektai/zodynas/germanizacija]]

@@ -87,4 +87,10 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Trakai]]
+- [[objektai/vietos/Vilnelė]]
+- [[objektai/vietos/Vilnius]]
 - [[objektai/vietos/Taurakalnis (Pilies kalnas)]]

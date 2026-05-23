@@ -6,6 +6,16 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1940 m.'
+periodas: 'okupacijų ir sovietmečio laikotarpis'
+periodo_grupes:
+  - 'XX a.'
+amziai:
+  - 'XVI'
+  - 'XX'
+date_start: '1940'
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - valstybė
@@ -24,6 +34,14 @@ Tik penkių valstybių atstovai (Kolumbijos, Italijos, Paragvajaus, Persijos ir 
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispanijai?'
+  pagrindžia:
+    - c-002
+- t-003
+  teiginys: 'Smetona nebuvo pageidaujamas nė vienoje Europos šalyje, tad per Vokietiją, Šveicariją, Portugaliją išvyko į JAV.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -48,3 +66,46 @@ Tik penkių valstybių atstovai (Kolumbijos, Italijos, Paragvajaus, Persijos ir 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispanijai?'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    O kas nutiko didžiųjų ge-
+    ografinių atradimų pionierėms Portugalijai ir Ispanijai? Juk pastarajai ir
+    XVI a. geopolitiniu požiūriu Europoje neprilygo nė viena valstybė – Is-
+    panijos valdose nenusileisdavo saulė. Viena priežasčių, dėl kurių Ispanija
+    ir Portugalija neteko lyderių pozicijų, – per geras gyvenimas: iš Lotynų
+    Amerikos plukdomas auksas neskatino plėtoti savų miestų ir jų ekono-
+    mikos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Smetona nebuvo pageidaujamas nė vienoje Europos šalyje, tad per Vokietiją, Šveicariją, Portugaliją išvyko į JAV.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1940 m. birželį išvykęs iš Lietuvos prezidentas A. Smetona nebuvo pa-
+    geidaujamas nė vienoje Europos šalyje, tad per Vokietiją, Šveicariją, Por-
+    tugaliją išvyko į JAV.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/A. Smetona|A. Smetona (prezidentas, XX a.)]]
+- [[objektai/vietos/Europa]]
+- [[objektai/vietos/Ispanija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Viena]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/vietos/Lotynų Amerika]]
+- [[objektai/vietos/Šveicarija]]

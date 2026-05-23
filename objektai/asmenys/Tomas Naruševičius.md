@@ -51,3 +51,8 @@ Jos delegacija, vadovaujama Tomo Naruševičiaus, atvykusi į Maskvą pirmiausia
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Maskva]]

@@ -25,7 +25,7 @@ Pagrindinė Lietuvos metrikos, o ir apskritai LDK rašto kalba buvo rusėnų –
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Filologų manymu, LDK raštinėse vyravusią raštijos kalbą reikėtų vadinti rusėnų kalba.'
+  teiginys: 'Filologai LDK raštinėse vyravusią raštijos kalbą siūlo vadinti rusėnų kalba.'
   pagrindžia:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -48,7 +48,7 @@ Pagrindinė Lietuvos metrikos, o ir apskritai LDK rašto kalba buvo rusėnų –
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Filologų manymu, LDK raštinėse vyravusią raštijos kalbą reikėtų vadinti rusėnų kalba.'
+  santrauka: 'Filologai LDK raštinėse vyravusią raštijos kalbą siūlo vadinti rusėnų kalba.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šiandien ši Lietuvos Metrikos kalba pavadinama
@@ -65,4 +65,11 @@ Pagrindinė Lietuvos metrikos, o ir apskritai LDK rašto kalba buvo rusėnų –
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Kijevas]]
+- [[objektai/vietos/Kijevo Rusia]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Stačiatikiai]]
+- [[objektai/zodynas/metrika]]
 - [[objektai/zodynas/rusėnų kalba LDK raštų kalba]]

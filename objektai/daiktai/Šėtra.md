@@ -66,3 +66,8 @@ Nenurodyta
 ## Pastabos
 
 - tiksli šėtros forma iš šio pasakojimo nėra visiškai aiški; ji gali būti apeiginė pastogė arba šventvietės statinys.
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/daiktai/Dievų stabai]]

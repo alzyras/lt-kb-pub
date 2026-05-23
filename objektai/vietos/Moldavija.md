@@ -46,6 +46,10 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
   teiginys: 'Magistras dar balandį prašė Švitrigailos kartu su Livonija, Podole, Valakija-Moldavija ir totoriais pulti Lenkiją.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Atkeliavo ir Vytauto giminaičiai, Mo­ zūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­ niaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­ riaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­ niai^2 ).'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -99,3 +103,35 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Atkeliavo ir Vytauto giminaičiai, Mo­ zūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­ niaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­ riaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­ niai^2 ).'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Atkeliavo ir Vytauto giminaičiai, Mo­
+    zūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­
+    niaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­
+    riaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­
+    niai^2 ). Visi svečiai dosnaus ir vaišingo šeimininko buvo nuošir­
+    džiai priimti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Bizantija]]
+- [[objektai/vietos/Kazanė]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/vietos/Pskovas]]
+- [[objektai/asmenys/Aleksandras (Moldavijos valdovas)]]
+- [[objektai/vietos/Chotinas]]
+- [[objektai/asmenys/Jonas Paleologas]]
+- [[objektai/asmenys/Manuelis]]
+- [[objektai/asmenys/Muradas II]]
+- [[objektai/vietos/Ukraina]]
+- [[objektai/vietos/Valakija]]
+- [[objektai/vietos/Naugardas]]

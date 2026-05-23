@@ -83,3 +83,15 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Guillaume de Machaut]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/vietos/Aukaimis]]
+- [[objektai/vietos/Gedimino pilis]]
+- [[objektai/vietos/Gegužkalnis]]
+- [[objektai/vietos/Kvėdarna]]

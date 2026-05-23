@@ -12,15 +12,17 @@ vaidmenys: []
 dalyviai: []
 susije_irasai: []
 datos:
+  - '1582 m.'
   - '2013 m.'
   - '2026 m.'
 periodas: 'atkurtos nepriklausomybės laikotarpis'
 periodo_grupes:
+  - 'LDK'
   - 'šiuolaikinė Lietuva'
 amziai:
   - 'XVI'
   - 'XXI'
-date_start: '2013'
+date_start: '1582'
 date_end: '2026'
 patikimumas: 'aukštas'
 tags: []
@@ -52,6 +54,10 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   teiginys: 'M. Strijkovskio kronika minima kaip XVI a. istorinės tradicijos liudijimas, o vienalaikių šaltinių duomenų apie tą įvykį nėra.'
   pagrindžia:
     - c-002
+- t-005
+  teiginys: 'Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalba išspausdinta Motiejaus Strijkovskio „Lenkijos, Lietuvos, Žemaičių ir visos Rusios kronika“, tapusi parankine Lietuvos bajorijos knyga.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -70,6 +76,25 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-003
+  santrauka: 'Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalba išspausdinta Motiejaus Strijkovskio „Lenkijos, Lietuvos, Žemaičių ir visos Rusios kronika“, tapusi parankine Lietuvos bajorijos knyga.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Bene svarbiausias lenkiškojo modelio pradžios taškas buvo
+    1582 m. lenkų kalba išspausdinta Motiejaus Strijkovskio „Lenkijos, Lie-
+    tuvos, Žemaičių ir visos Rusios kronika“, tapusi parankine Lietuvos bajo-
+    rijos knyga. Lietuvos lenkėjimo procesas yra vienas svarbiausių Baroko
+
+    2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S
+    69
+    epochos reiškinių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Bibliografiniai įrodymai
 - c-001

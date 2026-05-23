@@ -103,3 +103,8 @@ Panegirinė formulių grupė rodo, kad skirtingi autoriai Vytautą vaizdavo kaip
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/formulė]]
+
+### Susiję objektai
+- [[objektai/vietos/Lenkija]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/vietos/Lietuva]]

@@ -64,6 +64,10 @@ Autorius sieja tautinį atgimimą su socialiniais pokyčiais ir vėlesniu intens
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-007
+  teiginys: 'Bet nuo jų Lie­ tuvoje prasidėjo naujas trumpas laikotarpis — nuostabus dešimt­ metis intensyvaus tautinio subruzdimo visokiose galimose srityse.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -86,6 +90,25 @@ Autorius sieja tautinį atgimimą su socialiniais pokyčiais ir vėlesniu intens
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
+- c-002
+  santrauka: 'Bet nuo jų Lie­ tuvoje prasidėjo naujas trumpas laikotarpis — nuostabus dešimt­ metis intensyvaus tautinio subruzdimo visokiose galimose srityse.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Jo naujam šuoliui datą sudaro 1883 m. («Aušros» pasirodymas).
+    Tą laikotarpį galima pratęsti gerą šimtmečio ketvirtį, kai lie­
+    tuvių tauta, atgavusi spaudos laisvę, 1905 metų rusų revoliucijos
+    metu pirmą kartą viešai suformulavo savo reikalavimus. Tiesa,
+    1905 metai Lietuvoje nesukėlė nė pusės tokių stiprių ir kruvinų
+    revoliucinių bangų kaip Estijoje ir Latvijoje^20. Bet nuo jų Lie­
+    tuvoje prasidėjo naujas trumpas laikotarpis — nuostabus dešimt­
+    metis intensyvaus tautinio subruzdimo visokiose galimose srityse.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
 
 ## Pastabos
 
@@ -96,4 +119,15 @@ Autorius sieja tautinį atgimimą su socialiniais pokyčiais ir vėlesniu intens
 - [[temos/istorinė-sąvoka]]
 
 ### Susiję objektai
-- [[objektai/zodynas/tautinė sąmonė]]
+- [[objektai/vietos/Estija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/ivykiai/1830-1831 m. ir 1863 m. sukilimai]]
+- [[objektai/ivykiai/1905 m. revoliucija Rusijoje]]
+- [[objektai/grupes/Aušrininkai]]
+- [[objektai/paprociai/Carinės sukilimo slopinimo teroro ir viešų bausmių praktika]]
+- [[objektai/autoriai/Ign. Kraszewskio]]
+- [[objektai/asmenys/Justinas Marcinkevičius]]
+- [[objektai/autoriai/L. Kondratowicziaus]]
+- [[objektai/autoriai/L. Kondratowicziaus (Wl. Syrokomlės)]]
+- [[objektai/grupes/Lenkijos laikinoji tautinė vyriausybė]]
+- [[objektai/asmenys/Vytautas Petkevičius]]

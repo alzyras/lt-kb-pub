@@ -71,3 +71,19 @@ Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Tr
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Gunlaukenas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Prūsija]]
+- [[objektai/vietos/Trakai]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/paprociai/Bendri Lietuvos ir Lenkijos seimai]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/posakiai/Kad būtų viena tauta, viena visuomenė, viena brolija (fraternitas) ir bendri seimai]]
+- [[objektai/vietos/Bielskas]]
+- [[objektai/vietos/Osterodė]]
+- [[objektai/vietos/Vartenburgas]]

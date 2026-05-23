@@ -49,3 +49,7 @@ tags:
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/redaktorius]]
+
+### Susiję objektai
+- [[objektai/vietos/Bulgarija]]
+- [[objektai/vietos/Lietuva]]

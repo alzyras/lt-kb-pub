@@ -178,4 +178,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/daiktai/Druska]]
 - [[objektai/daiktai/Vilnonės medžiagos]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/daiktai/Šarvai]]
 - [[objektai/paprociai/Valstybinės ginkluotės sandėliavimas, išdavimas kariams prieš operacijas ir grąžinimas]]

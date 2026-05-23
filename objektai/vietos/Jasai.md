@@ -56,4 +56,8 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lenkija]]
+- [[objektai/grupes/Lenkijos kariuomenė]]
+- [[objektai/vietos/Turkija]]
+- [[objektai/vietos/Valakija]]
 - [[objektai/vietos/Cecora]]

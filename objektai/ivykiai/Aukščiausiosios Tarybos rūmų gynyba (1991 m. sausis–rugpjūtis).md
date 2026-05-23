@@ -27,16 +27,18 @@ dalyviai:
   - 'OMON'
 susije_irasai: []
 datos:
+  - '1940 m.'
   - '1991 m.'
   - '2013 m.'
   - '2026 m.'
 periodas: 'atkurtos nepriklausomybės laikotarpis'
 periodo_grupes:
+  - 'XX a.'
   - 'šiuolaikinė Lietuva'
 amziai:
   - 'XX'
   - 'XXI'
-date_start: '1991'
+date_start: '1940'
 date_end: '2026'
 patikimumas: 'aukstas'
 tags:
@@ -125,6 +127,10 @@ Nenurodyta
   teiginys: 'Tačiau Aukščiausioji Taryba buvo paskutinė riba, kurią sovietams peržengus, būtų pereita prie atviros ginkluotos konfrontacijos.'
   pagrindžia:
     - c-012
+- t-021
+  teiginys: 'Pirmomis sausio įvykių dienomis tik mažesnioji gynėjų dalis turėjo aiškesnę uzduotį - pagal galimybes ginti AT rūmus ir jų išorinį perimetrą, siekiant užfiksuoti patį pasipriešinimo faktą, o daliai ginkluotų gynėjų AT šturmo metu atakuoti šturmuojančias.'
+  pagrindžia:
+    - c-013
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -367,7 +373,39 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-020
+- c-013
+  santrauka: 'Pirmomis sausio įvykių dienomis tik mažesnioji gynėjų dalis turėjo aiškesnę uzduotį - pagal galimybes ginti AT rūmus ir jų išorinį perimetrą, siekiant užfiksuoti patį pasipriešinimo faktą, o daliai ginkluotų gynėjų AT šturmo metu atakuoti šturmuojančias.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Pirmomis sausio įvykių dienomis tik
+    mažesnioji gynėjų dalis turėjo aiškesnę uz-
+    duotį - pagal galimybes ginti AT rūmus ir
+    jų išorinį perimetrą, siekiant užfiksuoti patį
+    pasipriešinimo faktą, o daliai ginkluotų gy-
+    nėjų AT šturmo metu atakuoti šturmuojan-
+    čias sovietų pajėgas iš nugaros. Tuo tikslu
+    dalis ginkluotų A. Pociaus vadovaujamų
+    vyrų buvo išdėstyti ties Žvėryno tiltu ki-
+    toje Neries pusėje, dalis kovotojų išsidėstė
+    ant Nacionalinės M. Mažvydo bibliotekos
+    stogo. Gynėjai išsikėlė nerašytą misiją - pa-
+    sipriešinti bet kokiu atveju ir nepakartoti
+    1940 m. klaidos!
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-021
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/paprociai/Aukščiausiosios Tarybos gynybos principai]]
+- [[objektai/autoriai/Martynas Mažvydas Vaitkūnas]]
+- [[objektai/posakiai/Nepakartoti 1940 m. klaidos!]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Vygantas Jocius]]
+- [[objektai/autoriai/Švedas V]]
+- [[objektai/vietos/Nacionalinė M. Mažvydo biblioteka]]
+- [[objektai/vietos/Žvėryno tiltas]]

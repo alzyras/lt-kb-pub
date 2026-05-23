@@ -102,3 +102,12 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Dmitrijus Ivanovičius]]
+- [[objektai/autoriai/Jordanas]]
+- [[objektai/asmenys/Michailas Aleksandrovičius]]
+- [[objektai/posakiai/nei žemės, nei žmonių]]
+- [[objektai/asmenys/Julijona (Algirdo žmona)]]
+- [[objektai/asmenys/Vyguntas]]

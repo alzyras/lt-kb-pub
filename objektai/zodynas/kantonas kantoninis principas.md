@@ -63,5 +63,12 @@ Himansas Šveicarijos pavyzdžiu paruošė Lietuvos federacinės valstybės, sud
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Vilniaus regionas]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/vietos/Šveicarija]]
 - [[objektai/zodynas/autonomija autonominis statusas]]
 - [[objektai/zodynas/federacija federacinė valstybė]]

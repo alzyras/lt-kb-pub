@@ -11,18 +11,19 @@ saltiniai:
   - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
 bukle: juodrastis
 laikotarpis: "LDK tradicijos ir XIX-XX a. modernios Lietuvos sampratos kontrasto kontekstas"
-datos: []
-periodas: "naujieji_laikai"
-periodo_grupes:
-  - "LDK"
-amziai:
-  - "XIX"
-  - "XX"
-date_start: ""
-date_end: ""
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos: []
+periodas: 'naujieji_laikai'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVIII'
+  - 'XIX'
+  - 'XX'
+date_start: ''
+date_end: ''
 patikimumas: "aukštas"
 tags: []
 ---
@@ -66,6 +67,10 @@ Vartojama atskiriant LDK tradiciją nuo moderniosios Lietuvos Respublikos sampra
     - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-010
+  teiginys: 'Tačiau lietuvių kalbos, o vėliau ir lietuviškos savimonės žmonių gyvenama teritorija rytuose ir pietuose siaurėjo, o Lietuvos vardas – priešingai: kartu su Lietuvos Didžiosios Kunigaikštijos ribomis išplito labai toli į rytus ir apėmė plačias rytų slavų žemes.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -121,9 +126,35 @@ Vartojama atskiriant LDK tradiciją nuo moderniosios Lietuvos Respublikos sampra
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-009
+- c-004
+  santrauka: 'Tačiau lietuvių kalbos, o vėliau ir lietuviškos savimonės žmonių gyvenama teritorija rytuose ir pietuose siaurėjo, o Lietuvos vardas – priešingai: kartu su Lietuvos Didžiosios Kunigaikštijos ribomis išplito labai toli į rytus ir apėmė plačias rytų slavų žemes.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tačiau lietuvių kalbos, o vėliau ir lietuviškos savimonės žmonių gyve-
+    nama teritorija rytuose ir pietuose siaurėjo, o Lietuvos vardas – priešin-
+    gai: kartu su Lietuvos Didžiosios Kunigaikštijos ribomis išplito labai toli į
+    rytus ir apėmė plačias rytų slavų žemes. Būtent visa šios valstybės terito-
+    rija (ne tik dabartinė Lietuva, bet ir Baltarusija) ilgainiui pradėta vadinti
+    Lietuva, o šiandien ją vadiname istorine Lietuva. XVI–XVIII a.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Baltarusija]]
 - [[objektai/paprociai/LDK bajorų lietuviška savivardystė ir raštų kalbos vadinimas lietuvių kalba]]
 - [[objektai/grupes/Slavai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/paprociai/Istorinės Lietuvos žydų savivardystė „Lite“ ir „litvakai“]]
+- [[objektai/zodynas/Lite litvakai]]
+- [[objektai/zodynas/litvakai Lite litviš]]
+- [[objektai/zodynas/senalietuviai jaunalietuviai]]
+- [[objektai/asmenys/Česlovas Milošas]]
+- [[objektai/grupes/Žydai]]

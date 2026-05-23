@@ -92,3 +92,12 @@ Iš Liubarto sūnaus Teodoro Vytautas atėmė Volinijos Vladimirą, bet jį pask
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Karijotas]]
+- [[objektai/vietos/Kijevas]]
+- [[objektai/asmenys/Liubartas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Teodoras]]

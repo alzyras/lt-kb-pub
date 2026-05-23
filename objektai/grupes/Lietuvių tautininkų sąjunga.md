@@ -6,6 +6,16 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1931 m.'
+  - '1938 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+date_start: '1931'
+date_end: '1938'
 patikimumas: 'vidutinis'
 tags:
   - grupe
@@ -44,6 +54,10 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
     - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: 'Kandidatus į Seimą siūlė apskričių tarybos (Kaune – miesto taryba), bet kandidatų į Seimą negalėjo kelti visuomeninės organizacijos ir piliečių grupės, o tik tautininkų kontroliuojamos savivaldybės.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -104,9 +118,18 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje]]
-- [[objektai/grupes/IV Seimas]]
-- [[objektai/ivykiai/IV Seimo rinkimai (1936 m. vasara)]]
+- c-005
+  santrauka: 'Kandidatus į Seimą siūlė apskričių tarybos (Kaune – miesto taryba), bet kandidatų į Seimą negalėjo kelti visuomeninės organizacijos ir piliečių grupės, o tik tautininkų kontroliuojamos savivaldybės.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kandidatus į Seimą siūlė apskričių tarybos (Kaune – miesto taryba), bet
+    kandidatų į Seimą negalėjo kelti visuomeninės organizacijos ir piliečių
+    grupės, o tik tautininkų kontroliuojamos savivaldybės. Taip opozicijos
+    atstovams neleista dalyvauti Seimo rinkimuose.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005

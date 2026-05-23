@@ -17,6 +17,7 @@ vaidmenys:
 dalyviai: []
 susije_irasai: []
 datos:
+  - '1945 m.'
   - '1948 m.'
   - '1949 m.'
   - '1953 m.'
@@ -28,7 +29,7 @@ periodo_grupes:
 amziai:
   - 'XX'
   - 'XXI'
-date_start: '1948'
+date_start: '1945'
 date_end: '2026'
 patikimumas: "vidutinis"
 tags: []
@@ -99,6 +100,10 @@ Centralizuota ginkluoto ir politinio antisovietinio pasipriešinimo organizacija
   teiginys: '1949 m. dalyvavo kuriant vieningą pasipriešinimo judėjimo vadovybę, tapo Lietuvos laisvės kovos sąjūdžio tarybos prezidiumo pirmininko J.'
   pagrindžia:
     - c-003
+- t-018
+  teiginys: 'Bunkeryje priimtoje LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės atkūrimas ir jos valdymo principai: santvarka – demokratinė respublika, suvereni Lietuvos valdžia priklauso tautai, Lietuva valdoma per laisvais, demokratiniais.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -153,5 +158,59 @@ Centralizuota ginkluoto ir politinio antisovietinio pasipriešinimo organizacija
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-017
+- c-004
+  santrauka: 'Bunkeryje priimtoje LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės atkūrimas ir jos valdymo principai: santvarka – demokratinė respublika, suvereni Lietuvos valdžia priklauso tautai, Lietuva valdoma per laisvais, demokratiniais.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Bunkeryje pri-
+    imtoje LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės
+    atkūrimas ir jos valdymo principai: santvarka – demokratinė respublika,
+    suvereni Lietuvos valdžia priklauso tautai, Lietuva valdoma per laisvais,
+    demokratiniais, visuotiniais, lygiais, slaptais rinkimais išrinktą Seimą ir jo
+    sudarytą vyriausybę. LLKS Tarybos prezidiumas tapo aukščiausiu valdžios
+    organu iki laisvų demokratinių Seimo rinkimų.
+    Kovai su partizanais Lietuvoje dislokuota gausi NKVD kariuomenė:
+    1945 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018
 
 ## Šaltiniai ir įrodymai
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/NKVD]]
+- [[objektai/zodynas/organas]]
+- [[objektai/vietos/Baisogala]]
+- [[objektai/asmenys/Bronius Liesis-Naktis]]
+- [[objektai/vietos/Daugėliškių miškas]]
+- [[objektai/ivykiai/Gestapo represijos už lietuvių mobilizacijos į SS boikotą (1943 m. kovas-birželis)]]
+- [[objektai/asmenys/Henrikas Danilevičius-Vidmantas]]
+- [[objektai/asmenys/Jonas Žemaitis-Vytautas]]
+- [[objektai/asmenys/Juozas Lapienis-Darius]]
+- [[objektai/ivykiai/LLKS Vasario 16-osios deklaracijos priėmimas (1949 m.)]]
+- [[objektai/grupes/LLKS gynybos pajėgos]]
+- [[objektai/vietos/Lesčiai]]
+- [[objektai/grupes/Lietuvos gynybos pajėgos]]
+- [[objektai/grupes/Lietuvos laisvės kovotojų sąjunga]]
+- [[objektai/ivykiai/Lietuvos partizanų apygardų atstovų suvažiavimas ir LLKS deklaracija (1949 m. vasaris)]]
+- [[objektai/grupes/Maironio rinktinė]]
+- [[objektai/grupes/P. Lukšio rinktinė]]
+- [[objektai/asmenys/Petras Bartkus-Žadgaila]]
+- [[objektai/vietos/Prancūzija]]
+- [[objektai/grupes/Prisikėlimo apygarda]]
+- [[objektai/daiktai/Prisikėlimo apygardos partizanų antsiuvas]]
+- [[objektai/vietos/Radviliškis]]
+- [[objektai/ivykiai/Užpelkių kautynės]]
+- [[objektai/ivykiai/Užpelkių kautynės (1949 m.)]]
+- [[objektai/vietos/Vilkija]]
+- [[objektai/ivykiai/Visos Lietuvos partizanų vadų suvažiavimas (1949 m. vasario 2–22 d.)]]
+- [[objektai/grupes/Vyriausiasis Lietuvos išlaisvinimo komitetas]]
+- [[objektai/asmenys/Vytautas Šniuolis-Svajūnas]]
+- [[objektai/zodynas/laisvės kovotojai banditai]]
+- [[objektai/vietos/Štuthofas]]

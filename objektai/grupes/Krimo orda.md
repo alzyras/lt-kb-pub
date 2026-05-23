@@ -56,3 +56,13 @@ Krimo ordos chanas Hadži-Girėjas buvo ištikimas Lietuvos sąjungininkas. Po t
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Galicija]]
+- [[objektai/asmenys/Kazimieras]]
+- [[objektai/vietos/Krimas]]
+- [[objektai/vietos/Podolė]]
+- [[objektai/zodynas/chanas]]
+- [[objektai/grupes/Krimo totoriai]]
+- [[objektai/grupes/Totoriai]]

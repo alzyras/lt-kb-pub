@@ -177,3 +177,29 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-014
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Drohičinas]]
+- [[objektai/grupes/Gediminaičiai]]
+- [[objektai/vietos/Kijevo Rusia]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Padauguvis]]
+- [[objektai/ivykiai/Gedimino sąjunga su Lenkija]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/posakiai/Lietuvoje pradėjo valdyti pašėlęs (okajauyj), nedorovingas, prakeiktas ir negailestingas Traidenis]]
+- [[objektai/grupes/Livonijos ordinas]]
+- [[objektai/asmenys/Mamšėjus]]
+- [[objektai/asmenys/Nogajus (Aukso ordos valdytojas)]]
+- [[objektai/vietos/Palenkė]]
+- [[objektai/vietos/Płockas]]
+- [[objektai/ivykiai/Ragainės pilies puolimas ir Christmemelio apgultis (1315 m.)]]
+- [[objektai/asmenys/Sirputis (Traidenio brolis)]]
+- [[objektai/posakiai/Toji tvirtovė yra pastatyta mano širdyje, ir aš kentėsiu dėl jos skausmą, kol gyvas busiu]]
+- [[objektai/zodynas/kunic]]
+- [[objektai/zodynas/lietopisis]]
+- [[objektai/zodynas/lietopisis lietopisiai]]
+- [[objektai/zodynas/tautiška politika]]
+- [[objektai/grupes/Žiemgaliai]]
+- [[objektai/posakiai/„Lietuvoje pradėjo valdyti pašėlęs (okajauyj), nedorovingas, prakeiktas ir negailestingas Traidenis“]]
+- [[objektai/asmenys/Traidenis I]]

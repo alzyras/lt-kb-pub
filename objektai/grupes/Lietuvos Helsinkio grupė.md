@@ -39,6 +39,10 @@ tags:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Iki atgimimo laikotarpio 1988 m. Lietuvos Helsinkio grupė parengė, nelegalioje spaudoje paskelbė ir Vakarų valstybėms išsiuntė per 50 dokumentų, išryškinančių sovietų valdžios politiką Lietuvoje.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -63,10 +67,28 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Iki atgimimo laikotarpio 1988 m. Lietuvos Helsinkio grupė parengė, nelegalioje spaudoje paskelbė ir Vakarų valstybėms išsiuntė per 50 dokumentų, išryškinančių sovietų valdžios politiką Lietuvoje.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Iki atgimimo laikotarpio 1988 m. Lietuvos Helsinkio
+    grupė parengė, nelegalioje spaudoje paskelbė ir Vakarų valstybėms išsiuntė
+    per 50 dokumentų, išryškinančių sovietų valdžios politiką Lietuvoje. Taip
+    demokratiniai Vakarai sužinojo apie tikrąją padėtį, žmogaus teisių pažei-
+    dimus SSRS.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/aktas]]
 
 ### Susiję objektai
-- [[objektai/grupes/Maskvos Helsinkio grupė]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/SSRS]]
+- [[objektai/zodynas/pogrindis pogrindiniai leidiniai nelegali spauda]]

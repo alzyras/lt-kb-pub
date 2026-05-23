@@ -50,3 +50,8 @@ Naujasis magistras Henrikas fon Plauenas spėjo pasirengti ir apsigynė.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/apsiaustis]]
+- [[objektai/zodynas/magistras]]

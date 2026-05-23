@@ -44,3 +44,11 @@ Kiek­ vienas ES pilietis turi: nevaržomo judėjimo ir apsigyvenimo ES šalių 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Europa]]
+- [[objektai/zodynas/peticija]]
+- [[objektai/grupes/Europos Parlamentas]]
+- [[objektai/grupes/Europos Sąjunga]]
+- [[objektai/ivykiai/Lietuvos įstojimas į ES ir NATO (2004 m.)]]

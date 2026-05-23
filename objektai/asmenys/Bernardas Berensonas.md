@@ -61,3 +61,11 @@ nuo kurių kilęs ir įžymus italų renesanso tapybos žinovas Bernardas Berens
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Afrika]]
+- [[objektai/asmenys/Bernardas (abatas)]]
+- [[objektai/asmenys/Gertrude Ellion]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Sydney Brenner]]

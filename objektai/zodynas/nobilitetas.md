@@ -56,3 +56,11 @@ Ji gavo europeiško nobiliteto pažymius — herbus ir nuo tų laikų palengva �
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/luomas]]
+- [[objektai/ivykiai/1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas]]
+- [[objektai/grupes/Lietuvių bajorija]]
+- [[objektai/grupes/Lietuvos bajorija]]

@@ -86,3 +86,11 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Drabužiai]]
+- [[objektai/vietos/Viena]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/ivykiai/1279 m. badmetis Lietuvoje ir Jotvingijoje]]
+- [[objektai/grupes/Jotvingiai]]

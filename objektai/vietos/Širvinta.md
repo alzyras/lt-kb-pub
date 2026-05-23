@@ -53,3 +53,7 @@ Sūduvos dykroje toliau siena buvo nužymėta upių krantais : visu Lieponos pau
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Liepona]]
+- [[objektai/vietos/Sūduva]]
+- [[objektai/zodynas/dykra]]
+- [[objektai/vietos/Šešupė]]
+- [[objektai/vietos/Širvintos]]

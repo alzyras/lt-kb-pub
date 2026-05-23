@@ -78,6 +78,10 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
   teiginys: 'Iš čia ji tęsėsi vėl per dykrą tiesiai į Preivosto (Prawdzisken) šilus, o iš ten tiesia linija į Merūniškius ir Vystyčio ežerą, kuris liko ordino pusėje.'
   pagrindžia:
     - c-005
+- t-009
+  teiginys: 'XV a. pradžioje į dykra paverstas jotvingių, skalvių ir nadruvių žemes pradėjo grįžti šių genčių palikuonys ir lietuviai.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -158,6 +162,23 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-006
+  santrauka: 'XV a. pradžioje į dykra paverstas jotvingių, skalvių ir nadruvių žemes pradėjo grįžti šių genčių palikuonys ir lietuviai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Būta ir kito Lietuvos vardo plitimo kelio. Į dykra paverstas jotvingių,
+    skalvių, nadruvių žemes iš Lietuvos XV a. pradėjo grįžti šių genčių pali-
+    kuonys, o dar gausiau – lietuviai. Jie apsigyveno ne tik Lietuvos pusėje
+    esančioje dykroje, bet ir anapus sienos (1422 m. tarp Lietuvos ir Vokiečių
+    ordino nustačius sieną, Lietuvai atiteko tik dalis senųjų jotvingių terito-
+    rijos – Užnemunė).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Pastabos
 
@@ -169,5 +190,20 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
 - [[temos/karinis-terminas]]
 
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Užnemunė]]
+- [[objektai/vietos/Jūros upė]]
+- [[objektai/vietos/Liepona]]
+- [[objektai/paprociai/Lietuvininkų ir Mažosios Lietuvos vardų vartojimas Prūsijoje]]
+- [[objektai/vietos/Merūniškiai]]
 - [[objektai/vietos/Niešavos kraštas]]
-- [[objektai/vietos/Sūduva]]
+- [[objektai/vietos/Preivosto šilai]]
+- [[objektai/vietos/Raigardo ežeras]]
+- [[objektai/vietos/Rusnė]]
+- [[objektai/vietos/Vystyčio ežeras]]
+- [[objektai/zodynas/lietuvininkai]]
+- [[objektai/vietos/Šešupė]]
+- [[objektai/vietos/Širvinta]]
+- [[objektai/vietos/Šventoji]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Karšuva]]

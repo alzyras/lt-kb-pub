@@ -50,3 +50,8 @@ Sideravičius: Nuo Durbės iki Žal­ girio (1944).
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Durbė]]
+- [[objektai/grupes/Istorikų kolektyvas]]

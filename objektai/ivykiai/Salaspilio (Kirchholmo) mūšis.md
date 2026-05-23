@@ -100,6 +100,13 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Baltija]]
+- [[objektai/posakiai/Kad būtų viena tauta, viena visuomenė, viena brolija (fraternitas) ir bendri seimai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/vietos/Ryga]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/vietos/Švedija]]
 - [[objektai/ivykiai/ATR karai su Švedija XVII a]]
 - [[objektai/grupes/Chodkevičiai]]
 - [[objektai/asmenys/Jonas Karolis Chodkevičius]]

@@ -52,3 +52,11 @@ Kai ordinui pa­ vyko Dauguvos žiotyse įsigyti Daugavgryvos (Dünamündės) pi
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Daugavgryva]]
+- [[objektai/vietos/Dauguva]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rygiečiai]]

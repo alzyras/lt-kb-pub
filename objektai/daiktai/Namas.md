@@ -97,4 +97,21 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/Nomadžiai]]
+- [[objektai/grupes/Kalnėnai]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/zodynas/Nomadžiai|nomadžiai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/Šaldros|šaldros]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/paprociai/Jėzuitų viešos religinės kovos praktikos]]
+- [[objektai/daiktai/Kūtė]]
+- [[objektai/paprociai/Panedėlio už grieką laikymas]]
+- [[objektai/asmenys/S. Kosakovskis]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/dausos]]
+- [[objektai/zodynas/karo grobis]]
+- [[objektai/zodynas/Veldėmė|veldėmė]]
+- [[objektai/paprociai/Žiemos kelionės upeliais šunis užkinkius]]
+- [[objektai/posakiai/„Mano adresas ne namas ir ne gatvė, mano adresas Tarybų Sąjunga“]]
+- [[objektai/posakiai/„dėl Estijos, Latvijos, Lietuvos, Baltarusijos, Ukrainos išlaisvinimo iš vokiečių okupacijos“]]
+- [[objektai/grupes/Vietinė rinktinė]]

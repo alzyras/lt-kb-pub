@@ -86,5 +86,10 @@ Pametė Jogailą ir lenkų būrius prie Brodnicos mūrų, o pats paskubom sugrį
 - [[temos/paliaubos]]
 
 ### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Didžlenkiai]]
+- [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Grabova]]
 - [[objektai/vietos/Grabovė]]

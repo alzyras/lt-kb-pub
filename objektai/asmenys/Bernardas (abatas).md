@@ -62,3 +62,10 @@ Baltramiejus ir abatas Bernardas), Gediminas diplomatiškai išsisukinėjo, veng
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/laiškas]]
+
+### Susiję objektai
+- [[objektai/vietos/Naugardas]]
+- [[objektai/asmenys/Bernardas Berensonas]]
+- [[objektai/asmenys/Gertrude Ellion]]
+- [[objektai/asmenys/Sydney Brenner]]
+- [[objektai/vietos/Avinjonas]]

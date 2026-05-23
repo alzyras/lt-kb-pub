@@ -101,3 +101,11 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Kijevas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/zodynas/koadjutorius]]

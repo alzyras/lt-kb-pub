@@ -87,3 +87,14 @@ LDK etmonas Jonas Karolis Chodkevičius su kariuomene nužygiavo Piarnu link. M�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Jonas Karolis Chodkevičius]]
+- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Ryga]]
+- [[objektai/vietos/Salacgryva]]
+- [[objektai/zodynas/etmonas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Lietuvos kariuomenė]]

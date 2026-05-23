@@ -85,5 +85,15 @@ Ypač jų reikėjo ieškoti bendroje respublikoje poliublininiais amžiais. Per�
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/poliublininis laikotarpis poliublininiai laikai]]
+- [[objektai/autoriai/A. Šapoka]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Liublinas]]
+- [[objektai/zodynas/poliublininis laikotarpis]]
 - [[objektai/posakiai/surasti lietuvius Lietuvos istorijoje]]
+- [[objektai/zodynas/unija]]
+- [[objektai/autoriai/T. Wierzbowski]]
+- [[objektai/zodynas/poliublininis laikotarpis poliublininiai laikai]]

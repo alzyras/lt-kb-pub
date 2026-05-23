@@ -42,4 +42,6 @@ Merkinės piliakalnis – vienas gražiausių Lietuvos piliakalnių, ant kurių 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
 - [[objektai/daiktai/Medinės pilys]]
+- [[objektai/vietos/Merkinė]]

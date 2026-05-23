@@ -65,3 +65,26 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Artilerija]]
+- [[objektai/vietos/Chotinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/zodynas/husarai]]
+- [[objektai/asmenys/Aldona Gediminaitė]]
+- [[objektai/vietos/Dobrynė]]
+- [[objektai/asmenys/Kazimieras Didysis]]
+- [[objektai/ivykiai/Kazimiero išrinkimas Lenkų karalium]]
+- [[objektai/vietos/Kujavija]]
+- [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.)]]
+- [[objektai/asmenys/Vladislovas (Kazimiero sūnus)]]
+- [[objektai/asmenys/Vladislovas iš Opolijos]]
+- [[objektai/asmenys/Vladislovas iš Opolės]]
+- [[objektai/asmenys/Vladislovas Łokietka]]
+- [[objektai/asmenys/Ziemovitas]]
+- [[objektai/asmenys/Zigmantas Vaza]]
+- [[objektai/grupes/Gediminaičių šeima]]
+- [[objektai/ivykiai/Vladislovo žygis į Maskvą (1617 m.)]]

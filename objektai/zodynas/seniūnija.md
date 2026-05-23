@@ -44,3 +44,8 @@ Aukštosios valstybinės vietos nebuvo atlyginamos iki pat XVIII amžiaus, bet k
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Trakų vaivadija]]
+- [[objektai/vietos/Žemaičių seniūnija]]

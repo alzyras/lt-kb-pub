@@ -82,3 +82,10 @@ Reikšmingiausias įvykis – Edukacinės komisijos (pirmininku tapo Vilniaus vy
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Europa]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Viena]]
+- [[objektai/vietos/Vilnius]]

@@ -53,5 +53,5 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/ivykiai/Antrasis Panevėžio puolimas]]
-- [[objektai/vietos/Panevėžys]]

@@ -85,4 +85,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/Šliuižiai]]
+- [[objektai/grupes/Kalnėnai]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/zodynas/Šliuižiai|šliuižiai]]

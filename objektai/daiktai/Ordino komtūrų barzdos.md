@@ -61,5 +61,10 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/ivykiai/Žalgirio mūšis]]
+- [[objektai/vietos/Žalgiris]]
 - [[objektai/daiktai/Kryžiuočių kariuomenės vėliavos]]
-- [[objektai/ivykiai/Žalgirio mūšis (1410 m.)]]

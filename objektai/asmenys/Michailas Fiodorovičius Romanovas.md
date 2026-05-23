@@ -55,4 +55,7 @@ Caru tapo 1613 m. Zemskinio susirinkimo išrinktas Michailas Fiodorovičius Roma
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Smolenskas]]
 - [[objektai/grupes/Zemskinis susirinkimas]]

@@ -59,4 +59,6 @@ trumpas geografiškas ir istoriškas pa­ aiškinimas apie arabus, turkus, kurdu
 - [[temos/žemėlapis]]
 
 ### Susiję objektai
+- [[objektai/vietos/Arabija]]
+- [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
 - [[objektai/zodynas/kelionių romanas]]

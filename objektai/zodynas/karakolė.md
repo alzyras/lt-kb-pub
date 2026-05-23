@@ -157,4 +157,7 @@ Terminas žymi kovinę seką, kurioje eilės šaudo pakaitomis, nuolat persiriki
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Austrija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/muškietininkai]]
 - [[objektai/zodynas/raitarai]]

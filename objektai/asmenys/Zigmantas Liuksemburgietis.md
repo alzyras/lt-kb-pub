@@ -68,6 +68,22 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
     - c-006
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-007
+  teiginys: '152 ir kilo dėl tų žemių suverenumo ginčas tarp Lenkijos ir Vengri­ jos karaliaus Zigmanto Liuksemburgiečio, kuris, būdamas Bran­ denburgo kurfiurstas, dalį savo žemių, esančių tarp Branden­ burgo ir Poznanės, būtent Naująją Marchiją, pardavė Ordinui.'
+  pagrindžia:
+    - c-007
+- t-008
+  teiginys: 'Pagalbos reikalas iš Lietu­ vos pusės Lenkijai dar labiau padidėjo, kai Zigmantas L.'
+  pagrindžia:
+    - c-008
+- t-009
+  teiginys: 'Dvi dienos prieš Jogailos išvažiavimą iš Lucko, Zigmantas už­ ėjo pas Jogailą ir pasiūlė jam karūnuoti Lucko suvažiavimo šei­ mininką, kuris nemažai vargo padėjo sušaukdamas čia valdo­ vus ir tiek daug nusipelnė ne tik Lietuvai, įvesdamas joje krikš­ čionybę.'
+  pagrindžia:
+    - c-009
+- t-010
+  teiginys: 'Opuść i ty, błagamy cię, jak najrychlej to 211 Po kelių dienų, išvyko iš Lucko ir Zigmantas, gavęs iš Vy­ tauto geležinį raštą, be kurio jau būtų buvę pavojinga važiuot per Lenkiją.'
+  pagrindžia:
+    - c-010
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -183,3 +199,96 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
+- c-007
+  santrauka: '152 ir kilo dėl tų žemių suverenumo ginčas tarp Lenkijos ir Vengri­ jos karaliaus Zigmanto Liuksemburgiečio, kuris, būdamas Bran­ denburgo kurfiurstas, dalį savo žemių, esančių tarp Branden­ burgo ir Poznanės, būtent Naująją Marchiją, pardavė Ordinui.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    ```
+    152
+    ```
+    ir kilo dėl tų žemių suverenumo ginčas tarp Lenkijos ir Vengri­
+    jos karaliaus Zigmanto Liuksemburgiečio, kuris, būdamas Bran­
+    denburgo kurfiurstas, dalį savo žemių, esančių tarp Branden­
+    burgo ir Poznanės, būtent Naująją Marchiją, pardavė Ordinui.
+    Dabar Vengrų karalius, laikydamas Kujaviją ir Dobrynę pri­
+    klausančias jo suverenitetui ir būdamas valdovas savo vasalo
+    Vladislovo, panoro ir Dobrynę, ir Kujaviją parduoti Ordinui.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: 'Pagalbos reikalas iš Lietu­ vos pusės Lenkijai dar labiau padidėjo, kai Zigmantas L.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Pagalbos reikalas iš Lietu­
+    vos pusės Lenkijai dar labiau padidėjo, kai Zigmantas L. tapo
+    Romos imperatorium, nes jis buvo sąjungoj su Ordinu. Šita
+    sunkia Lenkijos būkle Vytautas ir naudojos, kas kartą vis la­
+
+    (^1) ) Hal.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: 'Dvi dienos prieš Jogailos išvažiavimą iš Lucko, Zigmantas už­ ėjo pas Jogailą ir pasiūlė jam karūnuoti Lucko suvažiavimo šei­ mininką, kuris nemažai vargo padėjo sušaukdamas čia valdo­ vus ir tiek daug nusipelnė ne tik Lietuvai, įvesdamas joje krikš­ čionybę.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Dvi dienos prieš Jogailos išvažiavimą iš Lucko, Zigmantas už­
+    ėjo pas Jogailą ir pasiūlė jam karūnuoti Lucko suvažiavimo šei­
+    mininką, kuris nemažai vargo padėjo sušaukdamas čia valdo­
+    vus ir tiek daug nusipelnė ne tik Lietuvai, įvesdamas joje krikš­
+    čionybę, bet ir visai Europai, sulaikydamas totorių užplūdimą
+    ir iškeldamas bažnyčių unijos problemą. Jogaila, išgirdęs, kad
+    Vytautas apie tą sumanymą nieko nežino, pasiuntė į jį patį Zig­
+    mantą apie tai pasikalbėti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: 'Opuść i ty, błagamy cię, jak najrychlej to 211 Po kelių dienų, išvyko iš Lucko ir Zigmantas, gavęs iš Vy­ tauto geležinį raštą, be kurio jau būtų buvę pavojinga važiuot per Lenkiją.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Opuść i ty, błagamy cię, jak najrychlej to
+
+
+    ```
+    211
+    ```
+    Po kelių dienų, išvyko iš Lucko ir Zigmantas, gavęs iš Vy­
+    tauto geležinį raštą, be kurio jau būtų buvę pavojinga važiuot
+    per Lenkiją. Prieš išvažiuodamas Zigmantas apdovanojo vai­
+    šingą Lucko suvažiavimo šeimininką, o šis, nenorėdamas pa­
+    silikti skolingas, jį taip pat su dovanomis išlydėjo^1 ). Galų gale
+    iš Lucko išvažiavo ir pats Vytautas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Dobrynė]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Kujavija]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Luckas]]
+- [[objektai/zodynas/Suverenitetas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/unija]]
+- [[objektai/zodynas/vasalas]]
+- [[objektai/vietos/Breslavas]]

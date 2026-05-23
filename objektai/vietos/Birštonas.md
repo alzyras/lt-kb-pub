@@ -69,3 +69,8 @@ Netoli Birštono Zaskevičiaus kariai susitiko karin. „Rinktinė už Birštono
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Jieznas]]
+- [[objektai/asmenys/A. Žemaitis]]

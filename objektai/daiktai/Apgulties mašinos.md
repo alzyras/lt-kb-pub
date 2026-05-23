@@ -7,15 +7,22 @@ aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
+  - '1368 m.'
+  - '1369 m.'
+  - '1370 m.'
+  - '1372 m.'
+  - '1384 m.'
   - '1978 m.'
   - '2026 m.'
 periodas: 'okupacijų ir sovietmečio laikotarpis'
 periodo_grupes:
+  - 'LDK'
   - 'XX a.'
 amziai:
+  - 'XIV'
   - 'XX'
   - 'XXI'
-date_start: '1978'
+date_start: '1368'
 date_end: '2026'
 patikimumas: 'aukštas'
 tags:
@@ -60,6 +67,14 @@ Nenurodyta
   teiginys: 'Nors dieną ir naktį akmenims svaidyti mašinos (« bilden ») pilin svaidė didelius akmenis, Daugpilis nepasidavė.'
   pagrindžia:
     - c-004
+- t-004
+  teiginys: 'Jai užimti, be kitų karo pabūklų, turėjo pasidarę aštuoniolika svaidomųjų mašinų ir pilį apgulę laikė penkias savaites.'
+  pagrindžia:
+    - c-005
+- t-005
+  teiginys: '1384 m. apgulties metu Skirgailos kariuomenė naudojo dvi apgulties mašinas akmenims svaidyti į pilį.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -125,3 +140,57 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-005
+  santrauka: 'Jai užimti, be kitų karo pabūklų, turėjo pasidarę aštuoniolika svaidomųjų mašinų ir pilį apgulę laikė penkias savaites.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    „Tais pačiais metais (1369) po šv. Proto ir Jacinto dienos (rugsėjo 12) Lietuvos karaliai
+    užėmė ką tik pastatytą Gotesverderio pilį. Jai užimti, be kitų karo pabūklų, turėjo pasidarę
+    aštuoniolika svaidomųjų mašinų ir pilį apgulę laikė penkias savaites. Tačiau jos nesugriovė,
+    o greta pastatė kitą pilį toje pačioje saloje. Brolius ir kitus, ten buvusius, išvedė į nelaisvę.“
+
+    48 ALGIRDO ŽYGIAI Į MASKVĄ 1368, 1370, 1372 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-006
+  santrauka: '1384 m. apgulties metu Skirgailos kariuomenė naudojo dvi apgulties mašinas akmenims svaidyti į pilį.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    “
+
+    Rytojaus dieną atvyko karalius Skirgaila su didele kariuomene ir [su] dviem mašinomis
+    ir tankiai svaido [akmenis] į pilį. Kitą dieną Jogaila ir Vytautas pastato atsivežtą didesnę
+    mašiną [...]. Ir sparčiai stato tiltą per Nemuną su bokštais, ir pradėjo kastis prie pilies,
+    vienas kitą paremdami. [...] lekiantis iš mašinos akmuo nunešė komtūrui galvą. [...]
+    Nebesant maršalo stabmeldžiai džiaugiasi ir stato per Nemuną tiltą su dviem bokštais
+    ir du sienodaužius, kuriais be paliovos puola pilį [...]. Apgulė ją, daužydami sienodau-
+    žių akmenų smūgiais, ir Šventojo Tomo dieną (x11.21) 84 tokiais sviediniais kaip priešai
+    [verčia] drebėti [pilies] gyventojus.“
+
+    rugsėjis-lapkritis 1384 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/ivykiai/Algirdo žygiai į Maskvą]]
+- [[objektai/vietos/Gotesverderis]]
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/vietos/Nemunas]]
+- [[objektai/asmenys/Skirgaila]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/komtūras]]
+- [[objektai/zodynas/maršalas]]

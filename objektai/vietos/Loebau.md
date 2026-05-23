@@ -49,4 +49,9 @@ Nuo Torno Drevencos krantu iki Loebau (VII.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Drevenca]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/vietos/Tannenbergas]]
+- [[objektai/vietos/Torno]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/asmenys/Ulrichas von Jungingenas]]

@@ -119,3 +119,9 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/autoriai/S. Grunau]]

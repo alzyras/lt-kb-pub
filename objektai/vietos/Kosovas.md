@@ -39,3 +39,12 @@ Apskritai tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Herce
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Gruzija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Timūras (Tamerlanas)]]
+- [[objektai/vietos/Afganistanas]]
+- [[objektai/vietos/Bosnija ir Hercegovina]]
+- [[objektai/vietos/Irakas]]

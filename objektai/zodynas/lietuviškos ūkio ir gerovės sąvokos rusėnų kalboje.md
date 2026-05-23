@@ -44,4 +44,6 @@ Lietuvos Metrikos rusėnų kalbą pateko ir buvo vartojamos net Ukrainoje lietuv
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Rusėnai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Ukraina]]
+- [[objektai/zodynas/metrika]]

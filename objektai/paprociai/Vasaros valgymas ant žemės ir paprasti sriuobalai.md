@@ -88,4 +88,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/Sriuobalas]]
+- [[objektai/zodynas/Sriuobalas|sriuobalas]]

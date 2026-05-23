@@ -53,3 +53,23 @@ Dviejuose Mindaugo donaciniuose dokumentuose (1253, 1259), dėl kurių pirmojo a
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/grupes/Sūduviai-jotvingiai]]
+- [[objektai/vietos/Alovė]]
+- [[objektai/asmenys/Buiničius]]
+- [[objektai/daiktai/Dainavos apygardos kovotojų rankovės antsiuvas]]
+- [[objektai/ivykiai/Durbės mūšis (1260 m.)]]
+- [[objektai/asmenys/Jonas Neifalta-Lakūnas]]
+- [[objektai/vietos/Krakių valsčius]]
+- [[objektai/vietos/Kėdainių apskritis]]
+- [[objektai/grupes/LLKS gynybos pajėgos]]
+- [[objektai/vietos/Lenčių miškas]]
+- [[objektai/grupes/Lietuvos gynybos pajėgos]]
+- [[objektai/grupes/MGB]]
+- [[objektai/grupes/Merkio rinktinė]]
+- [[objektai/daiktai/Partizaninio pasipriešinimo pradžios Lietuvos laisvės kovotojų raištis]]
+- [[objektai/ivykiai/Paskutinių partizanų vadų suėmimai ir sušaudymai (1953–1957 m.)]]
+- [[objektai/vietos/Varčios miškas]]

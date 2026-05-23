@@ -92,3 +92,10 @@ Kai « barzdoti vyrai» iš užjūrio puldinėjo Baltijos pajūrį, į tuos kari
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Baltija]]
+- [[objektai/vietos/Kuršas]]
+- [[objektai/grupes/Kuršiai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

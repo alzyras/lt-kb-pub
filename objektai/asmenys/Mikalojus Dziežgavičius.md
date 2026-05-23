@@ -58,3 +58,11 @@ Mikalojus Dziežgavičius (1421—1453), — Visi buvo pa­ skirti vyskupais Vyt
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Konstancija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Trakai]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/grupes/Žemaičiai]]

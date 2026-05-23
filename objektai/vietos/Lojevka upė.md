@@ -54,3 +54,8 @@ Radvilos pajėgų sparnuose stovėjo pėstininkai ir dragūnai (jie gynė Lojevk
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/dragūnai]]

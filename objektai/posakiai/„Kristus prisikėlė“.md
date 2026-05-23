@@ -51,3 +51,9 @@ Kryžiuočiai, pamanę, jog mūšis laimėtas, užtraukė pergalės giesmę „K
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Krokuva]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/zodynas/flangas]]

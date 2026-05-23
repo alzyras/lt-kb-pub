@@ -38,6 +38,18 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Mykolas Sleževičius buvo ministras pirmininkas vyriausybėje, kurioje dominavo valstiečiai liaudininkai.'
+  pagrindžia:
+    - c-003
+- t-004
+  teiginys: 'Sleževičiaus vyriausybę ir naują Ministrų kabinetą pavedė sudaryti tautininkui A.'
+  pagrindžia:
+    - c-004
+- t-005
+  teiginys: 'Sleževičiaus šūkio „Kova eina, ji eis iki Seimas bus sušauktas“, artimieji įkalbėjo A.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -78,3 +90,56 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Mykolas Sleževičius buvo ministras pirmininkas vyriausybėje, kurioje dominavo valstiečiai liaudininkai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vyriausybėje dominavo valstiečiai liaudi-
+    ninkai su ministru pirmininku M. Sleževičiumi priešakyje.
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    155
+    III Seimo naujoji valdančioji dauguma skubėjo įdiegti šalyje visateisę
+    demokratinę santvarką.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Sleževičiaus vyriausybę ir naują Ministrų kabinetą pavedė sudaryti tautininkui A.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Spaudžiant perversmininkams prezidentas K. Grinius, gavęs valstiečių
+    liaudininkų vadovybės pritarimą, atstatydino M. Sleževičiaus vyriausybę
+    ir naują Ministrų kabinetą pavedė sudaryti tautininkui A. Voldemarui.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: 'Sleževičiaus šūkio „Kova eina, ji eis iki Seimas bus sušauktas“, artimieji įkalbėjo A.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tačiau opozicijai reikalaujant neatidėliojant sudaryti tautos pasi-
+    tikėjimą turinčią vyriausybę, atkurti Seimą, kairei laikantis liaudininko
+    M. Sleževičiaus šūkio „Kova eina, ji eis iki Seimas bus sušauktas“, ar-
+    timieji įkalbėjo A. Smetoną dalį nepasitenkinimo perleisti pavaldžiam
+    Seimui, iškirsti politinę „orlaidę“.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/posakiai/„lenkai atakuoja...“]]
+- [[objektai/grupes/Ministerių kabinetas]]

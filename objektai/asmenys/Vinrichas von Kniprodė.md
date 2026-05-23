@@ -34,6 +34,10 @@ Vinrichas von Kniprodė, kryžiuočių ordino magistras (1351 —1382 m.).
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Jo hochmeisterio^1 ) didžio­ jo Vinricho von Kniprodės laikais (1351—1382) Prūsų Ordino valstybė buvo visos Europos nusistebėjimo bei pasigėrėjimo objektas.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -53,7 +57,28 @@ Vinrichas von Kniprodė, kryžiuočių ordino magistras (1351 —1382 m.).
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Jo hochmeisterio^1 ) didžio­ jo Vinricho von Kniprodės laikais (1351—1382) Prūsų Ordino valstybė buvo visos Europos nusistebėjimo bei pasigėrėjimo objektas.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Keturioliktas amžius, ypač jo antroji pusė
+    —Ordino (labiausiai kryžiuočių, kuris iš tikrųjų ir buvo svar­
+    biausioji jėga) klestėjimo laikotarpis. Jo hochmeisterio^1 ) didžio­
+    jo Vinricho von Kniprodės laikais (1351—1382) Prūsų Ordino
+    valstybė buvo visos Europos nusistebėjimo bei pasigėrėjimo
+    objektas. Jei tais laikais norėjai pamatyti valstybę keliančią
+    savo piliečių švietimą, pavyzdingai savo pareigas einančią ad­
+    ministraciją, valstybės organų rankose klestinčią prekybą,
+    aukso kupiną iždą — turėjai važiuoti Ordino valstybėn.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/ivykiai/Kęstučio ir Algirdo derybos dėl krikšto]]
+- [[objektai/vietos/Europa]]
+- [[objektai/zodynas/magistras]]

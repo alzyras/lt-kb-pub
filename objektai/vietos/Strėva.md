@@ -102,3 +102,27 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Nemunas]]
+- [[objektai/vietos/Pinskas]]
+- [[objektai/vietos/Polesė]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Turovas]]
+- [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis]]
+- [[objektai/vietos/Vitebskas]]
+- [[objektai/zodynas/komtūras]]
+- [[objektai/zodynas/maršalas]]
+- [[objektai/asmenys/Patrikas]]
+- [[objektai/ivykiai/Strėvos mūšis (1348 m.)]]
+- [[objektai/vietos/Strėvos upė]]
+- [[objektai/autoriai/Vygandas Marburgietis]]
+- [[objektai/zodynas/stabmeldys]]
+- [[objektai/zodynas/vyskupo teisėjas]]

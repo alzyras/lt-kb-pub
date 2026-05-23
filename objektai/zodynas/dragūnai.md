@@ -74,3 +74,9 @@ Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstininkai, kurie m
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/vietos/Lojevka upė]]

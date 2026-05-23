@@ -80,6 +80,14 @@ Politinė ir rezistencinė lietuvių emigrantų organizacija, veikusi Antrojo pa
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-017
+  teiginys: 'Daugumą visose profesijose šalyje sudarė lietuviai, tačiau žydų verslininkai dominavo eksporte ir importe, be to, žydai sudarė 83 proc.'
+  pagrindžia:
+    - c-004
+- t-018
+  teiginys: 'LAF programoje ir kituose dokumentuose neišvengta nacionalistinės retorikos, antisemitizmo (16-asis LAF programos punktas atšaukė teisę žydams gyventi Lietuvoje).'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -123,5 +131,41 @@ Politinė ir rezistencinė lietuvių emigrantų organizacija, veikusi Antrojo pa
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-015
+- c-004
+  santrauka: 'Daugumą visose profesijose šalyje sudarė lietuviai, tačiau žydų verslininkai dominavo eksporte ir importe, be to, žydai sudarė 83 proc.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Dau-
+    gumą visose profesijose šalyje sudarė lietuviai, tačiau žydų verslininkai
+    dominavo eksporte ir importe, be to, žydai sudarė 83 proc.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
+- c-005
+  santrauka: 'LAF programoje ir kituose dokumentuose neišvengta nacionalistinės retorikos, antisemitizmo (16-asis LAF programos punktas atšaukė teisę žydams gyventi Lietuvoje).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    K. Škirpa manė, kad nauja organizacija turi palaikyti ypač glaudžius
+    ryšius su nacių Vokietija. LAF programoje ir kituose dokumentuose ne-
+    išvengta nacionalistinės retorikos, antisemitizmo (16-asis LAF progra-
+    mos punktas atšaukė teisę žydams gyventi Lietuvoje).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018
 
 ## Šaltiniai ir įrodymai
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/Antisemitizmas]]
+- [[objektai/asmenys/K. Škirpa]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Žydai]]

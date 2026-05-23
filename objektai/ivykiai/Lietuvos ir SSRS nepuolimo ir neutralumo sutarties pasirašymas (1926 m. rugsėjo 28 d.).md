@@ -6,15 +6,19 @@ variantai: ["1926 m. Lietuvos ir SSRS sutartis", "nepuolimo ir neutralumo sutart
 aliases: ["1926 m. Lietuvos ir SSRS sutartis", "nepuolimo ir neutralumo sutartis su SSRS"]
 saltiniai:
   - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-bukle: paskelbta
-laikotarpis: "1926 m. rugsėjo 28 d."
-datos: ["1926 m. rugsėjo 28 d."]
-periodas: siuolaikine_istorija
-periodo_grupes: [tarpukaris]
+datos:
+  - '1920 m.'
+  - '1926 m.'
+periodas: 'siuolaikine_istorija'
+periodo_grupes:
+  - '[tarpukaris]'
+  - 'modernioji Lietuva'
 amziai:
   - 'XX'
-date_start: '1926'
+date_start: '1920'
 date_end: '1926'
+bukle: paskelbta
+laikotarpis: "1926 m. rugsėjo 28 d."
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
@@ -58,6 +62,10 @@ Nenurodyta
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-009
+  teiginys: 'Likę vieniši lietuviai 1926 m. rugsėjo 28 d. Maskvoje pasirašė nepuolimo ir neutralumo sutartį su SSRS.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -76,7 +84,28 @@ Nenurodyta
   pagrindžia:
     - t-007
     - t-008
+- c-002
+  santrauka: 'Likę vieniši lietuviai 1926 m. rugsėjo 28 d. Maskvoje pasirašė nepuolimo ir neutralumo sutartį su SSRS.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Likę vieniši lietuviai
+    1926 m. rugsėjo 28 d. Maskvoje pasirašė nepuolimo ir neutralumo sutartį
+    su SSRS. Sutartyje SSRS patvirtino, kad išlieka visos 1920 m. sutarties są-
+    lygos. Georgijaus Čičerino nota prie šio pakto patvirtino Lietuvos intere-
+    sus Vilniuje; sovietai užtikrino lietuviams, kad de facto esantys Lietuvos
+    sienos pažeidimai nepakeitė Maskvos pozicijų dėl Lietuvos teritorinio
+    suverenumo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Georgijus Čičerinas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/vietos/SSRS]]

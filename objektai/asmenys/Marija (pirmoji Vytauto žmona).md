@@ -50,3 +50,10 @@ Jo pirmoji žmona Marija, Rusijos kunigaikštytė, berods, buvo stačiatikė. Ma
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Rusija]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Marija]]
+- [[objektai/asmenys/Ona Vytautienė]]

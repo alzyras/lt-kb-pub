@@ -41,3 +41,8 @@ Kiekvienas toksai šaukimas buvo vadinamas visuotiniu bajorijos stojimu.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/bajorija]]
+- [[objektai/grupes/Bajorai]]

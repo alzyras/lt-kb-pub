@@ -44,3 +44,10 @@ Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/asmenys/Augustinas Voldemaras]]
+- [[objektai/grupes/Lietuvos delegacija prie Paryžiaus taikos konferencijos]]

@@ -81,3 +81,14 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Krokuva]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lenkų karalystė]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Liublinas]]
+- [[objektai/vietos/Viena]]
+- [[objektai/zodynas/unija]]
+- [[objektai/zodynas/dominija]]

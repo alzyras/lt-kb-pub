@@ -67,4 +67,10 @@ Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios He
 - [[temos/aktas]]
 
 ### Susiję objektai
-- [[objektai/grupes/Lietuvos Helsinkio grupė]]
+- [[objektai/asmenys/Jonas Kauneckas]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/vietos/SSRS]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Jurijus Orlovas]]
+- [[objektai/ivykiai/Lietuvos Helsinkio grupės įkūrimas Vilniuje (1976 m. ruduo)]]

@@ -56,4 +56,11 @@ Lapkritį Gedimino „galinga kariuomenė“, vadovaujama Gardino pilininko Dovy
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Dovydas (Gardino pilininkas)]]
+- [[objektai/vietos/Gardinas]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/vietos/Mozūrija]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/vietos/Mozūrijos žemė]]

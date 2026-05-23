@@ -48,6 +48,10 @@ Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį tiltui per Nemuną
     - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: 'GrigaliūnoGlovackio vadovaujama kovinė grupė, kurią sudarė 2-asis ir 10-asis pėstininkų pulkai bei 6-ojo pulko batalionas, taip pat 5-oji ir 9-oji artilerijos baterijos bei 2-ojo husarų pulko eskadronas, rugpjūčio 23 d. grupę papildė 5-asis pulkas, kovų.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -127,3 +131,29 @@ Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį tiltui per Nemuną
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'GrigaliūnoGlovackio vadovaujama kovinė grupė, kurią sudarė 2-asis ir 10-asis pėstininkų pulkai bei 6-ojo pulko batalionas, taip pat 5-oji ir 9-oji artilerijos baterijos bei 2-ojo husarų pulko eskadronas, rugpjūčio 23 d. grupę papildė 5-asis pulkas, kovų.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    liepa-rugsėjis AUGUSTAVO-SUVALKŲ OPERACIJA
+
+    Buvo sudaryta plk. V. Grigaliūno-
+    Glovackio vadovaujama kovinė grupė,
+    kurią sudarė 2-asis ir 10-asis pėstininkų
+    pulkai bei 6-ojo pulko batalionas, taip
+    pat 5-oji ir 9-oji artilerijos baterijos bei
+    2-ojo husarų pulko eskadronas, rug-
+    pjūčio 23 d. grupę papildė 5-asis pulkas,
+    kovų išvakarėse - 8-asis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Artilerija]]
+- [[objektai/ivykiai/Augustavo-Suvalkų operacija]]

@@ -48,4 +48,5 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Krokuva]]
 - [[objektai/vietos/Lenkija]]

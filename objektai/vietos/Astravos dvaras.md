@@ -42,6 +42,10 @@ Atsimetęs nuo ordino, Vytautas susitaikino su Jogaila Astravos dvare, paliai Ly
   teiginys: ') Atsimetęs nuo ordino, Vytautas susitaikino su Jogaila Astravos dvare, paliai Lydą.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Vy­ tauto ir jo žmonos Onos Astrave (Ostrowe) Jogailai ir Jadvygai duoti dokumentai (1392.VIII.5) rodo, kad jis su Ona jau titulavosi Trakų ir Lucko kunigaikščiais2S.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -77,3 +81,25 @@ Atsimetęs nuo ordino, Vytautas susitaikino su Jogaila Astravos dvare, paliai Ly
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Vy­ tauto ir jo žmonos Onos Astrave (Ostrowe) Jogailai ir Jadvygai duoti dokumentai (1392.VIII.5) rodo, kad jis su Ona jau titulavosi Trakų ir Lucko kunigaikščiais2S.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Vy­
+    tauto ir jo žmonos Onos Astrave (Ostrowe) Jogailai ir Jadvygai
+    duoti dokumentai (1392.VIII.5) rodo, kad jis su Ona jau titulavosi
+    Trakų ir Lucko kunigaikščiais2S.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Luckas]]
+- [[objektai/asmenys/Ona Vytautienė]]
+- [[objektai/vietos/Trakai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

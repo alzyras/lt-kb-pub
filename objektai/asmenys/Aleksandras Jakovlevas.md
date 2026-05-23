@@ -43,3 +43,9 @@ LPS veiklai pravertė SSKP CK sekretoriaus Aleksandro Jakovlevo apsilankymas Lie
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/ivykiai/Aleksandro Jakovlevo apsilankymas Lietuvoje ir valdžios nuolaidos LPS (1988 m. rugpjūčio 11–12 d.)]]
+- [[objektai/vietos/Vingio parkas]]
+- [[objektai/posakiai/„inteligentija – liaudies savimonės išraiška“]]

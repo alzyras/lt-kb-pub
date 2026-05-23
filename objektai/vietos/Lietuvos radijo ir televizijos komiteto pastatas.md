@@ -43,4 +43,6 @@ nakties sovietų tankai ir šarvuočiai apsiautė televizijos bokštą bei Lietu
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
 - [[objektai/daiktai/Sovietų tankai ir šarvuočiai]]
+- [[objektai/daiktai/Šarvuočiai]]

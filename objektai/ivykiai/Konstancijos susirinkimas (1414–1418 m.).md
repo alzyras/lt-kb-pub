@@ -55,6 +55,10 @@ Nenurodyta
     - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Konstancijos susirinkimas nusprendė pasiųsti vyskupus Žemaičių vyskupijai įkurti.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -105,3 +109,45 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Konstancijos susirinkimas nusprendė pasiųsti vyskupus Žemaičių vyskupijai įkurti.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Žemaičių prašymas buvo patenkintas. Susirinkimas nuta­
+    rė pasiųsti prašomus vyskupus Žemaičių vyskupijai įkurti. At­
+    sirado ir savanoris važiuoti į Lietuvą — kardinolas Jonas Do­
+    micini iš Rogūzos; jam į pagalbą buvo paskirti dar du vysku­
+    pai. Tačiau Ordinas nesutiko delegacijos praleisti pro savo
+    žemes, įrodinėdamas, kad Žemaitija yra jo užkariauta ir todėl
+    religiniai jos reikalai turi būti pavesti Rygos arkivyskupui.
+    Susirinkimas, tai sužinojęs, patyrė dar vieną Ordino suktumą
+    ir griežčiausiai uždraudė jam trukdyti susirinkimo pasiuntinių
+    darbą. Bet pirmieji pasiuntiniai vis dėlto nebevažiavo ir jų vietoje
+    buvo paskirti Vilniaus vysk. Petras ir Lvovo arkivysk. Jonas,
+    kurie Konstancijon iš Lietuvos buvo atvykę su pirma delega­
+    cija. Jie gavo iš Konstancijos susirinkimo plačiausius įgalioji­
+    mus: įkurti Žemaičių vyskupiją, įšventinti vyskupą, pašvęsti
+    katedrą, paskirti kapitulą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Konstancija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Lvovas]]
+- [[objektai/vietos/Ryga]]
+- [[objektai/zodynas/Savanoris]]
+- [[objektai/vietos/Viena]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/kapitula]]
+- [[objektai/vietos/Žemaitija]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/asmenys/Aleksandras (Moldavijos valdovas)]]
+- [[objektai/asmenys/Jonas Paleologas]]
+- [[objektai/asmenys/Manuelis]]

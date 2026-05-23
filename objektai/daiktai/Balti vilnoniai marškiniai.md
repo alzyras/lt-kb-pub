@@ -106,4 +106,5 @@ Marškiniai buvo duodami kaip krikšto dovana ir simbolizavo nekaltąją sielą.
 - [[temos/drabužis]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/grupes/Lietuviai]]

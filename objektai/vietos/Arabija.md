@@ -56,3 +56,5 @@ Labai vaizdžiai ir gyvai ap­ rašyta vieno keliautojo kelionės su įvairiausi
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Afrika]]
+- [[objektai/grupes/Arabai]]
+- [[objektai/zodynas/kelionių romanas]]

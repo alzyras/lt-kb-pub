@@ -113,3 +113,13 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/autoriai/E. Radzvilovaitė]]
+- [[objektai/autoriai/J. Stankus]]
+- [[objektai/posakiai/Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!]]
+- [[objektai/autoriai/V. T. Pašuto]]
+- [[objektai/daiktai/Šarvai]]
+- [[objektai/posakiai/„Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!“]]
+- [[objektai/grupes/Lietuvos totoriai]]

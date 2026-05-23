@@ -48,3 +48,9 @@ Musteikis. Musteikio vadovaujama 3-ioji divizija (3-iasis, 6-asis ir 9-asis pulk
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Latvija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/3-ioji divizija]]

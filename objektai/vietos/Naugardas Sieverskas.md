@@ -60,6 +60,14 @@ tags:
   teiginys: 'Bet po Raciąžo taikos Švitrigaila grįžo pas Vytautą ir tuoj gavo valdyti Briansko ir Severijos (Naugardo Seversko ir Černigovo) kunigaikštijas, nes ten buvo ką tik miręs (1404) Kaributas (Dimitras) Algirdaitis.'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: 'Pirmas prieš Vytautą pakėlė ginklą Sieversko - Naugar­ do kunigaikštis Dimitras Kaributas, kuris buvo sukilęs prieš Vytauto tėvą Kęstutį ir atsisakęs mokėti jam duoklę.'
+  pagrindžia:
+    - c-006
+- t-007
+  teiginys: '237 įvyko panaikinant tokias didžiąsias kunigaikštijas, kaip Poloc­ ko, Vitebsko, Smolensko, Novgorodo-Sieversko, Kijevo, Voly­ nijos ir Podolijos.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -140,3 +148,43 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Pirmas prieš Vytautą pakėlė ginklą Sieversko - Naugar­ do kunigaikštis Dimitras Kaributas, kuris buvo sukilęs prieš Vytauto tėvą Kęstutį ir atsisakęs mokėti jam duoklę.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Pirmas prieš Vytautą pakėlė ginklą Sieversko - Naugar­
+    do kunigaikštis Dimitras Kaributas, kuris buvo sukilęs prieš
+    Vytauto tėvą Kęstutį ir atsisakęs mokėti jam duoklę. Jis įsi­
+    veržė Lietuvos gilumon ir buvo besirengiąs eiti į Vilnių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: '237 įvyko panaikinant tokias didžiąsias kunigaikštijas, kaip Poloc­ ko, Vitebsko, Smolensko, Novgorodo-Sieversko, Kijevo, Voly­ nijos ir Podolijos.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    ```
+    — 237
+    ```
+    įvyko panaikinant tokias didžiąsias kunigaikštijas, kaip Poloc­
+    ko, Vitebsko, Smolensko, Novgorodo-Sieversko, Kijevo, Voly­
+    nijos ir Podolijos. Visi šių kunigaikščių, daugiausia jau minėtų
+    tėvynainių, dvarai su visa dirbama ir nedirbama žeme, žmonė­
+    mis, gyvuliais ir padargais pateko į tiesioginę Vytauto valdžią.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Vilnius]]

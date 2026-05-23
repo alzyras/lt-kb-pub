@@ -57,3 +57,12 @@ Atsakydami į kryžiuočių bei kryžininkų Ariogalos, Paštuvos puolimą, 1365
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Aleksandras]]
+- [[objektai/vietos/Gardinas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Patrikas]]
+- [[objektai/vietos/Viena]]

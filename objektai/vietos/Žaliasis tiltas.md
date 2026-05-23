@@ -59,4 +59,5 @@ Vakare Vilniaus įgula, dengiama artilerijos kapitono kunigaikščio Kazimiero S
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Kazimieras Sapiega]]
+- [[objektai/daiktai/Artilerija]]
+- [[objektai/vietos/Vilnius]]

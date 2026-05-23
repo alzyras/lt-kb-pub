@@ -87,5 +87,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Antanas Mackevičius]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Viena]]
+- [[objektai/zodynas/kunigas]]
 - [[objektai/posakiai/Eikime, broliai, už vierą šventą]]

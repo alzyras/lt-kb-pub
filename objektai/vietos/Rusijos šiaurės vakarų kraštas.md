@@ -45,4 +45,9 @@ Tačiau, kai prasidėjo rusinimo pastangos, rusai jas ėmė vadinti Rusijos šia
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/generalgubernatorius]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/gubernija]]
+- [[objektai/zodynas/rusinimas]]

@@ -48,3 +48,7 @@ Norint suvokti kalbos dailumą ir grynumą, reikalinga pirmučiau­ siai kalbos 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]

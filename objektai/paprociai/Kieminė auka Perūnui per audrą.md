@@ -85,3 +85,9 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/Aukausenos|aukausenos]]
+- [[objektai/zodynas/Gaspadorius|gaspadorius]]
+- [[objektai/zodynas/Miera|miera]]

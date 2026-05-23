@@ -52,4 +52,6 @@ Sutartyje caras atsisakė nuo Livonijos, Polocko ir Veližo; jam buvo grąžinti
 - [[temos/paliaubos]]
 
 ### Susiję objektai
-- [[objektai/vietos/Livonija]]
+- [[objektai/vietos/Polockas]]
+- [[objektai/vietos/Pskovas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

@@ -74,3 +74,13 @@ Vartojamos formos: `lažu`.
 ## Pastabos
 
 - Šalia pateikiami ir kiti skoliniai, todėl terminas rodomas kaip platesnės prievolių leksikos dalis.
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Viena]]
+- [[objektai/asmenys/Antanas Tyzenhauzas|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]
+- [[objektai/ivykiai/Antano Tyzenhauzo reformos]]
+- [[objektai/zodynas/nuomininkas]]
+- [[objektai/autoriai/S. Daukantas]]

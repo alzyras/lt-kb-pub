@@ -43,6 +43,10 @@ Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Nuo 1947 m. vadovavo apie Kauną veikusiai partizanų Tauro apygardos Birutės rinktinei.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -101,7 +105,27 @@ Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Nuo 1947 m. vadovavo apie Kauną veikusiai partizanų Tauro apygardos Birutės rinktinei.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Nuo 1947 m. vadovavo apie Kauną veikusiai partizanų
+    Tauro apygardos Birutės rinktinei. Buvo vienas retų
+    Lietuvos partizanų, kuriems pavyko sėkmingai pras-
+    prūsti per „geležinę uždangą“ į Vakarus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/redaktorius]]
+
+### Susiję objektai
+- [[objektai/asmenys/Birutė]]
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Lietuva]]

@@ -40,3 +40,9 @@ Lietuvos krikščionėjimo simboliu tapo šv.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Kazimieras]]
+- [[objektai/zodynas/supremus dux ir magnus dux]]

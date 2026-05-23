@@ -43,3 +43,13 @@ Tuo tarpu Vokietija ir Austrija Vengrija 1916 metais lapkričio 5 dieną paskelb
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Austrija]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Vengrija]]
+- [[objektai/vietos/Vokietija]]

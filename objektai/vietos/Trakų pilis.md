@@ -39,6 +39,10 @@ Trakų pilis.
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Tuo pat laiku ir Jogaila gavo iš Ordino maršalkos Kuno von Hatten­ šteino dovanų keletą patrankų, kurios anksčiau buvo pačių vokie­ čių išmėgintos imant Trakų pilį, o Jogaila 1384 m. mūšyje prie Marienverderio nukreipė jas prieš patį Ordiną.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -59,7 +63,32 @@ Trakų pilis.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Tuo pat laiku ir Jogaila gavo iš Ordino maršalkos Kuno von Hatten­ šteino dovanų keletą patrankų, kurios anksčiau buvo pačių vokie­ čių išmėgintos imant Trakų pilį, o Jogaila 1384 m. mūšyje prie Marienverderio nukreipė jas prieš patį Ordiną.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tuo pat
+    laiku ir Jogaila gavo iš Ordino maršalkos Kuno von Hatten­
+    šteino dovanų keletą patrankų, kurios anksčiau buvo pačių vokie­
+    čių išmėgintos imant Trakų pilį, o Jogaila 1384 m. mūšyje prie
+    Marienverderio nukreipė jas prieš patį Ordiną. Vytautas savo
+    karuose taip pat naudojo parako ginklus ir patrankas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/žemėlapis]]
+
+### Susiję objektai
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/vietos/Trakai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/maršalka]]
+- [[objektai/vietos/Europa]]
+- [[objektai/grupes/Kryžiuočių ordinas]]

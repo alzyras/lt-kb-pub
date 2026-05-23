@@ -66,3 +66,9 @@ Kantrimas. Kantrimas savo memoriale kuratoriui Čartoriskiui rašo, esą, didesn
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/zodynas/kuratorius]]
+- [[objektai/zodynas/memorialas]]

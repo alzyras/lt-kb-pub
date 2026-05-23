@@ -44,5 +44,6 @@ Susiformavo tvirta kontrabandinės knygnešystės tradicija, ir į XIX a.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/daiktai/Spaudos leidiniai kaip kontrabandiniai objektai]]
+- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/knygnešystė]]
+- [[objektai/daiktai/Spaudos leidiniai kaip kontrabandiniai objektai]]

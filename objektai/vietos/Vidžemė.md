@@ -80,3 +80,16 @@ Tuomet, iš vienos pusės, turėdamas savo kariuomenę Vidžemėje, t.
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/didikas]]
+
+### Susiję objektai
+- [[objektai/vietos/Baltija]]
+- [[objektai/vietos/Dauguva]]
+- [[objektai/autoriai/Henrikas]]
+- [[objektai/vietos/Kuršas]]
+- [[objektai/vietos/Latgalija]]
+- [[objektai/grupes/Latviai]]
+- [[objektai/vietos/Latvija]]
+- [[objektai/vietos/Aizkrauklė]]
+- [[objektai/vietos/Burtnieko ežeras]]
+- [[objektai/posakiai/Liet’gola Lethi vel Lethigalli]]
+- [[objektai/grupes/Lybiai]]

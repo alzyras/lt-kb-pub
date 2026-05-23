@@ -71,3 +71,10 @@ Po demobilizacijos grįžo į Lietuvą, prisidėjo prie pirmųjų Lietuvos kariu
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Kazys Ladyga]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Radviliškis]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Ukmergė]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/ivykiai/Lietuvos kariuomenės dalinės demobilizacijos pradžia prieš J. Urbšio kelionę į Maskvą (1939 m. spalio 2 d. išvakarės)]]

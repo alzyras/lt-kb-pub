@@ -42,3 +42,9 @@ Antra tokia pat didžiulė giria buvo Livonijos pasienis (šiaurinė Lietuvos da
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Livonija]]

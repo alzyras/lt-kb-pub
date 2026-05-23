@@ -64,8 +64,47 @@ Molotovo–Ribentropo paktas šiame veikale aprašomas kaip 1939 m. rugpjūčio 
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-018
+  teiginys: '1940 VI 15 realizuodama Molotovo–Ribentropo paktą, Sovietų Sąjunga okupuoja ir aneksuoja Lietuvos Respubliką.'
+  pagrindžia:
+    - c-003
+- t-019
+  teiginys: 'LLL apie save ypač drąsiai pareiškė 1987 m. rugpjūčio 23 d., minint 50-ąsias Molotovo–Ribentropo pakto pasirašymo metines, jos iniciatyva prie Adomo Mickevičiaus paminklo Vilniuje surengtas protesto mitingas.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
+- c-003
+  santrauka: '1940 VI 15 realizuodama Molotovo–Ribentropo paktą, Sovietų Sąjunga okupuoja ir aneksuoja Lietuvos Respubliką.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1940 VI 15
+    realizuodama Molotovo–Ribentropo paktą, Sovietų Sąjunga okupuo-
+    ja ir aneksuoja Lietuvos Respubliką. Sudarius marionetinę vyriausybę
+    netrukus paskelbiama, kad sukuriama Lietuvos Tarybų Socialistinė Res-
+    publika. Sovietinio teroro ir trėmimų pradžia.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018
+- c-004
+  santrauka: 'LLL apie save ypač drąsiai pareiškė 1987 m. rugpjūčio 23 d., minint 50-ąsias Molotovo–Ribentropo pakto pasirašymo metines, jos iniciatyva prie Adomo Mickevičiaus paminklo Vilniuje surengtas protesto mitingas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    LLL apie save ypač drą-
+    siai pareiškė 1987 m. rugpjūčio 23 d., minint 50-ąsias Molotovo–Riben-
+    tropo pakto pasirašymo metines, jos iniciatyva prie Adomo Mickevičiaus
+    paminklo Vilniuje surengtas protesto mitingas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019
 
 ## Bibliografiniai įrodymai
 - c-001

@@ -55,3 +55,11 @@ Mickevičius.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Artilerija]]
+- [[objektai/vietos/Viena]]
+- [[objektai/zodynas/gurguolė]]
+- [[objektai/vietos/Jieznas]]
+- [[objektai/vietos/Stakliškės]]

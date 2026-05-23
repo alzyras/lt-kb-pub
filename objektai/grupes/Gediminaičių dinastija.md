@@ -11,6 +11,8 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
+  - '1316 m.'
+  - '1341 m.'
   - '1350 m.'
   - '1430 m.'
   - '1547 m.'
@@ -22,12 +24,13 @@ periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
+  - 'XIII'
   - 'XIV'
   - 'XV'
   - 'XVI'
   - 'XX'
   - 'XXI'
-date_start: '1350'
+date_start: '1316'
 date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
@@ -89,6 +92,34 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   teiginys: 'Gediminaičiai beliko nepajudinti tik Mstislavly ir Pinske.Visi gi kiti gavo valdyti palyginti smulkutes kunigaik­ štijas ir priklausė valsčių, o ne sričių kunigaikščių rūšiai^4 ).'
   pagrindžia:
     - c-009
+- t-016
+  teiginys: 'XIII a. pabaigoje į Lietuvos istoriją įžengė lietuvių kilmės valdovų Gediminaičių dinastija.'
+  pagrindžia:
+    - c-010
+- t-017
+  teiginys: 'Dinastijai vardą davė garsiausias jos atstovas – Vytenio brolis Gediminas (valdęs 1316–1341 m.).'
+  pagrindžia:
+    - c-011
+- t-018
+  teiginys: 'Gediminaičių dinastijos valdymas susijęs su Lietuvos istorijos laikotarpiu, istorinėje tautos sąmonėje laikomu šlovingiausiu.'
+  pagrindžia:
+    - c-012
+- t-019
+  teiginys: 'Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono ir jo ainių legenda tapo pagrindu ne tik lietuvių, bet ir rusėnų bajorijai vesti savo kilmę Palemono tradicija arba sieti save su realia Gediminaičių dinastija.'
+  pagrindžia:
+    - c-013
+- t-020
+  teiginys: 'Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos monarchijoms ir nuo to mes jaučiamės smagiau.'
+  pagrindžia:
+    - c-014
+- t-022
+  teiginys: 'Kai Gediminaičiai buvo išsi­ dalinę tarp pagonybės ir graikų krikšto, bereikėjo tik didžiojo kunigaikščio žingsnio, kuriuo butų turėję pasekti lietuvių kilmin­ gieji ir visa tauta.'
+  pagrindžia:
+    - c-016
+- t-023
+  teiginys: 'Tačiau, kai paskutinysis tos dinastijos valdovas, Zigmantas Augustas, baigė savo gyvenimą be jokio įpėdinio, abi valstybės savo sumetimais galėjo išsirinkti sau atskirus valdovus, kurie galėjo būti vienas kitam net priešingi — iš skirtingų kraštų galėjo.'
+  pagrindžia:
+    - c-017
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -252,7 +283,153 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-015
+- c-010
+  santrauka: 'XIII a. pabaigoje į Lietuvos istoriją įžengė lietuvių kilmės valdovų Gediminaičių dinastija.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Gediminaičių dinastijos iškilimas
+    XIII a. pabaigoje minimi dar šie Lietuvos didieji kunigaikš-
+    čiai: Butigeidis, po jo – šio brolis Butvydas, dar vėliau – Butvydo sūnus
+    Vytenis. Tai buvo naujas reiškinys Lietuvos istorijoje – sostą paveldi tos
+    pačios giminės žmonės  – broliai arba sūnūs. Taigi susiformavo sosto
+
+    L I E T U V O S  I S T O R I J A
+    32
+    paveldėjimo principas, o Viduramžiais tai buvo vienas iš svarbiausių
+    valstybės stabilumo požymių. Mat besigviešiantys sosto jau turės pagrįsti
+    savo teises, giminystę arba priklausomybę valdovų dinastijai. XIII a. pa-
+    baigoje į Lietuvos istoriją įžengė garsiausia lietuvių kilmės valdovų – Ge-
+    diminaičių dinastija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016
+- c-011
+  santrauka: 'Dinastijai vardą davė garsiausias jos atstovas – Vytenio brolis Gediminas (valdęs 1316–1341 m.).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Dinastijai vardą davė garsiausias jos atstovas – Vytenio brolis Gedimi-
+    nas (valdęs 1316–1341 m.). Gediminas nebuvo pirmas šios dinastijos atsto-
+    vas, tačiau būtent jis istoriniu vaidmeniu užgožė savo pirmtakus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
+- c-012
+  santrauka: 'Gediminaičių dinastijos valdymas susijęs su Lietuvos istorijos laikotarpiu, istorinėje tautos sąmonėje laikomu šlovingiausiu.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Gediminaičių dinastijos valdymas susijęs su Lietuvos istorijos laiko-
+    tarpiu, istorinėje tautos sąmonėje laikomu šlovingiausiu. Mūsų kultūroje
+    ypač garbingą vietą užima žymiausių jos atstovų – Gedimino, Algirdo,
+    Kęstučio, Vytauto – vardai, o dinastijos ženklas – Gediminaičių stulpai –
+    yra vienas iš svarbiausių lietuvių tautos ir Lietuvos valstybės simbolių.
+    PAGONIŲ VALSTYBĖ.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018
+- c-013
+  santrauka: 'Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono ir jo ainių legenda tapo pagrindu ne tik lietuvių, bet ir rusėnų bajorijai vesti savo kilmę Palemono tradicija arba sieti save su realia Gediminaičių dinastija.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono
+    ir jo ainių legenda tapo pagrindu ne tik lietuvių, bet ir rusėnų bajorijai
+    vesti savo kilmę Palemono tradicija arba sieti save su realia Gediminaičių
+    dinastija. Taip įvairiakilmė ponija formavo bendros savimonės „lietuvių
+    nacijos“ ponų sluoksnį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019
+- c-014
+  santrauka: 'Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos monarchijoms ir nuo to mes jaučiamės smagiau.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Gediminaičių ir Jogailaičių
+    dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos
+    monarchijoms ir nuo to mes jaučiamės smagiau. Davėme ir daug garsių
+    šeimų, aristokratų, o Amerikai ir Europai – darbščių angliakasių, statybi-
+    ninkų, audėjų, auklių, inžinierių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020
+- c-015
+  santrauka: 'Kiti Gediminaičiai savo žemėse priklausė nuo didžiojo kunigaikščio valios.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    **
+
+
+    (^248) n skyrius: valstybės iškilimas
+    kiti Gediminaičiai savo žemėse priklausė nuo didžiojo kunigaikščio
+    valios. Anot Lietuvos Metraščio, Algirdas ir Kęstutis susitarė, jog
+    ateityje bendromis jėgomis įsigytos žemės turės būti pasidalintos
+    pusiau^2.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-021
+- c-016
+  santrauka: 'Kai Gediminaičiai buvo išsi­ dalinę tarp pagonybės ir graikų krikšto, bereikėjo tik didžiojo kunigaikščio žingsnio, kuriuo butų turėję pasekti lietuvių kilmin­ gieji ir visa tauta.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Kai Gediminaičiai buvo išsi­
+    dalinę tarp pagonybės ir graikų krikšto, bereikėjo tik didžiojo
+    kunigaikščio žingsnio, kuriuo butų turėję pasekti lietuvių kilmin­
+    gieji ir visa tauta. Bet nuolat kabantis vokiečių ordino pavojus per
+    visą XIV amžių buvo buvęs akstinas vesti derybas ir kokiu nors
+    būdu priimti priešo išpažįstamą, t.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-022
+- c-017
+  santrauka: 'Tačiau, kai paskutinysis tos dinastijos valdovas, Zigmantas Augustas, baigė savo gyvenimą be jokio įpėdinio, abi valstybės savo sumetimais galėjo išsirinkti sau atskirus valdovus, kurie galėjo būti vienas kitam net priešingi — iš skirtingų kraštų galėjo.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tačiau, kai paskutinysis tos dinastijos valdovas,
+    Zigmantas Augustas, baigė savo gyvenimą be jokio įpėdinio,
+    abi valstybės savo sumetimais galėjo išsirinkti sau atskirus val-
+    dovus, kurie galėjo būti vienas kitam net priešingi — iš skir-
+    tingų kraštų galėjo atsinešti ir skirtingus politinius siekimus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-023
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
+
+### Susiję objektai
+- [[objektai/grupes/Gediminaičių šeima]]
+- [[objektai/paprociai/LDK politinės tautos savivoka ir Palemono kilmės tradicija]]
+- [[objektai/asmenys/Palemonas]]
+- [[objektai/asmenys/Patrikas]]
+- [[objektai/zodynas/politinė tauta lietuvių nacija]]

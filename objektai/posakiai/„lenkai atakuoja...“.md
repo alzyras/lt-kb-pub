@@ -46,4 +46,9 @@ Kovos su lenkais įgavo ne tik teritorinį, bet ir socialinį atspalvį – 1920
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/daiktai/Ginklai ir ginkluotė]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/M. Sleževičius]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Mykolas]]
+- [[objektai/asmenys/Mykolas Sleževičius]]

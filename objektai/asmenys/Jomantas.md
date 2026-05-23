@@ -78,3 +78,11 @@ Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė ir Smolensko leną Viazm
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/vietininkas]]
+- [[objektai/asmenys/Jurgis Sviatoslavaitis]]
+- [[objektai/ivykiai/Smolensko užėmimas ir Viazmos paėmimas (1396 m. rudenį)]]
+- [[objektai/vietos/Smolenskas]]

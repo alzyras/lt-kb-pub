@@ -71,6 +71,5 @@ Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą protes
 - [[temos/didikas]]
 
 ### Susiję objektai
-- [[objektai/grupes/Evangelikų reformatų bažnyčia]]
 - [[objektai/grupes/LDK didikai]]
-- [[objektai/grupes/Lietuvos evangelikai reformatai]]
+- [[objektai/grupes/Evangelikų reformatų bažnyčia]]

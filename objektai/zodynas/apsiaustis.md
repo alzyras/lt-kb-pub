@@ -49,3 +49,11 @@ Pavėluota šios Ordino tvirtovės apsiaustis nedavė rezultatų.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/autoriai/Henrikas]]
+- [[objektai/asmenys/Henrikas fon Plauenas]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/daiktai/Eriko Dalbergo graviūra „Urbs et Castellum Brestzie Litewski a S.R.M. Suecix die“]]
+- [[objektai/ivykiai/Polocko apsiaustis (1563 m. sausio 31 d.)]]

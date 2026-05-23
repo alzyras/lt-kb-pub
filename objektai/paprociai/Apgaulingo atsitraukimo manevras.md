@@ -70,6 +70,10 @@ Nenurodyta
   teiginys: 'Lietuvių karvedžiai nuo seno mėgo apgaulingo atsitraukimo manevrą, kurį su laiku vis įdomiau įgyvendindavo ir provokuodami suardyti priešo rikiuotę priversdavo jį pralaimėti.'
   pagrindžia:
     - c-003
+- t-007
+  teiginys: 'Švedijos kariuomenės vadovybė iškart sureagavo į šį manevrą ir buvo duotas įsakymas pulti „besitraukiančius“ lietuvius (šis manevras labai primena 1270 m. Karusės, 1279 m. Aizkraulės, 1410 m. Žalgirio, 1514 m. Oršos mūšius ir daug kitų).'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -130,3 +134,29 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-004
+  santrauka: 'Švedijos kariuomenės vadovybė iškart sureagavo į šį manevrą ir buvo duotas įsakymas pulti „besitraukiančius“ lietuvius (šis manevras labai primena 1270 m. Karusės, 1279 m. Aizkraulės, 1410 m. Žalgirio, 1514 m. Oršos mūšius ir daug kitų).'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Pagaliau Karolis Chodkevičius davė
+    komandą visam frontui pradėti imituoti
+    atsitraukimą. Atsukę priešui nugaras, lietu-
+    viai pradėjo trauktis. Švedijos kariuomenės
+    vadovybė iškart sureagavo į šį manevrą ir
+    buvo duotas įsakymas pulti „besitraukian-
+    čius“ lietuvius (šis manevras labai pri-
+    mena 1270 m. Karusės, 1279 m. Aizkraulės,
+    1410 m. Žalgirio, 1514 m. Oršos mūšius ir
+    daug kitų).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
+- [[objektai/vietos/Švedija]]

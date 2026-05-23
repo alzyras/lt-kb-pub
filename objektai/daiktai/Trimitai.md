@@ -94,3 +94,7 @@ Nenurodyta
 ## Pastabos
 
 - čia instrumentas turi ir bendrinį, ir apeiginį vartojimą, bet daiktiškai jis aprašytas aiškiai.
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]

@@ -101,3 +101,11 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/autoriai/Motiejus Valančius]]
+- [[objektai/autoriai/S. Daukantas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Motiejus]]

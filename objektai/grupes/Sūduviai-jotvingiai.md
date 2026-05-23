@@ -48,3 +48,10 @@ Visa Sūduva buvo nukariauta.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/autoriai/Dusburgas]]
+- [[objektai/vietos/Sūduva]]
+- [[objektai/zodynas/kunigas]]
+- [[objektai/vietos/Dainava]]

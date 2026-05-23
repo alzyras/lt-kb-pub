@@ -86,4 +86,6 @@ Merkinės dvaro (prie Turgelių, netoli Vilniaus) valstiečius atleido vien už 
 - [[temos/pinigai]]
 
 ### Susiję objektai
+- [[objektai/zodynas/Baudžiava]]
+- [[objektai/vietos/Merkinė]]
 - [[objektai/vietos/Turgeliai]]

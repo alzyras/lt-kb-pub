@@ -85,5 +85,15 @@ Kaip jau matėme, 1416 metais Vytautas Varniuose pastatė katedrą ir aštuonias
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Brasta]]
+- [[objektai/vietos/Konstancija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Žebenkšties rinktinė]]
+- [[objektai/vietos/Viena]]
 - [[objektai/vietos/Airiogala]]
+- [[objektai/vietos/Kaltinėnai]]
+- [[objektai/vietos/Luokė]]
 - [[objektai/vietos/Senvarniai]]
+- [[objektai/vietos/Viduklė]]

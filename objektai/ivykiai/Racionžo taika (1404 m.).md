@@ -75,3 +75,13 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Polockas]]
+- [[objektai/vietos/Racionžas]]
+- [[objektai/vietos/Ryga]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Žemaičiai]]

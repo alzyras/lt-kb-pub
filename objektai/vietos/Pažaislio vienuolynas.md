@@ -40,3 +40,12 @@ Jonų – Mokslo, Visų Šventųjų – Liaudies meno, Kauno Įgulos bažnyčioj
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Kaunas]]
+- [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis|Mikalojus Konstantinas Čiurlionis (dailininkas)]]
+- [[objektai/vietos/Pažaislis]]
+- [[objektai/vietos/Kauno įgulos bažnyčia]]
+- [[objektai/vietos/Visų Šventųjų bažnyčia]]
+- [[objektai/vietos/Šv. Jonų bažnyčia]]

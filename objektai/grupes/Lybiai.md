@@ -79,3 +79,15 @@ Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žioty
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Baltija]]
+- [[objektai/vietos/Dauguva]]
+- [[objektai/vietos/Kuršas]]
+- [[objektai/vietos/Latgalija]]
+- [[objektai/grupes/Latviai]]
+- [[objektai/vietos/Latvija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Vidžemė]]

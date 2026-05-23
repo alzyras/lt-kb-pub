@@ -97,4 +97,10 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/zodynas/magistras]]
 - [[objektai/vietos/Niešava]]

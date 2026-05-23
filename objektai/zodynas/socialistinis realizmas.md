@@ -43,3 +43,7 @@ Naujomis sąlygomis menininkai vis dažniau atsiribodavo nuo socialistinio reali
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/posakiai/„visi lygūs“]]

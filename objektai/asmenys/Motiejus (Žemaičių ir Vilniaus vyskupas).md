@@ -63,6 +63,14 @@ Motiejus, vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš Kauno^
     - c-005
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-006
+  teiginys: 'Motiejus (Žemaičių ir Vilniaus vyskupas) veikė sutartinai su Vytautu, gerbdama jį, kaip savo dosnų valdovą ir katalikų bažnyčios kū­ rėją Lietuvoj.'
+  pagrindžia:
+    - c-006
+- t-007
+  teiginys: 'Kelis kartus Vytautas išpažino savo nuodė­ mes Vilniaus vyskupui Motiejui; priėmė Švenčiausiąjį ir pa­ skutinį patepimą.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -156,3 +164,49 @@ Motiejus, vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš Kauno^
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Motiejus (Žemaičių ir Vilniaus vyskupas) veikė sutartinai su Vytautu, gerbdama jį, kaip savo dosnų valdovą ir katalikų bažnyčios kū­ rėją Lietuvoj.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tai buvo didelis Vytauto politikos rėmėjas ir Lietuvos patriotas,^1
+
+    (^1) ) Przgal., 47 p.
+
+
+    ```
+    120 —
+    ```
+    ```
+    kuris net kunigų, nemokančių lietuviškai, neleisdavo prie šventi­
+    mų. Taigi, matome, kad Vytauto santykiai su bažnytine Lietu­
+    vos vyresnybe buvo artimi ir ji veikė sutartinai su Vytautu,
+    gerbdama jį, kaip savo dosnų valdovą ir katalikų bažnyčios kū­
+    rėją Lietuvoj.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: 'Kelis kartus Vytautas išpažino savo nuodė­ mes Vilniaus vyskupui Motiejui; priėmė Švenčiausiąjį ir pa­ skutinį patepimą.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Kelis kartus Vytautas išpažino savo nuodė­
+    mes Vilniaus vyskupui Motiejui; priėmė Švenčiausiąjį ir pa­
+    skutinį patepimą. Paklaustas vyskupo apie tikybos tie­
+    sas, jis atsakė, kad tiki į jas, taip pat ir į iš numirusių
+    atsikėlimą, nors seniau dėl tos tiesos ir paabejodavęs.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Vilnius]]

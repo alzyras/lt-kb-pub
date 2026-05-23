@@ -44,3 +44,16 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Brazilija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvos diplomatinė tarnyba]]
+- [[objektai/vietos/SSRS]]
+- [[objektai/vietos/Urugvajus]]
+- [[objektai/vietos/Vatikanas]]
+- [[objektai/vietos/Meksika]]
+- [[objektai/vietos/Australija]]
+- [[objektai/vietos/Didžioji Britanija]]

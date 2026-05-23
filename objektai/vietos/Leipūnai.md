@@ -45,6 +45,10 @@ Kai Mykolas Sapiega pasidavė, bajorijos regimentorius, grąžinęs jam kardą, 
   teiginys: 'Sapiegų daliniai nužygiavo iki Lieponių (Leipūnų) smuklės ir čia - už vienos mylios (7 km) nuo respublikonų stovyklos Valkininkuose, sustojo.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: '" Kiti minėjo Leipūnų laukuose žuvusius sūnus, tėvus ir kitus gimines.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -91,3 +95,16 @@ Kai Mykolas Sapiega pasidavė, bajorijos regimentorius, grąžinęs jam kardą, 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: '" Kiti minėjo Leipūnų laukuose žuvusius sūnus, tėvus ir kitus gimines.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    " Kiti minėjo Leipūnų laukuose žuvusius sūnus,
+    tėvus ir kitus gimines. Nebebuvo jokios vilties.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004

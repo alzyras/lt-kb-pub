@@ -51,3 +51,11 @@ Lenkų artilerija trikdė lietuvių veiksmus, tačiau netrukus 6-oji lietuvių b
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Artilerija]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Viena]]
+- [[objektai/zodynas/rezervas]]

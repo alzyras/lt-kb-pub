@@ -73,5 +73,18 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Juozas Paliūnas-Rytas]]
+- [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
+- [[objektai/autoriai/Maironis]]
+- [[objektai/asmenys/Petras Bartkus-Žadgaila]]
+- [[objektai/vietos/Radviliškis]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Agentai-smogikai]]
+- [[objektai/autoriai/Dalius Žygelis]]
+- [[objektai/vietos/Kiauneliškiai]]
+- [[objektai/grupes/Maironio rinktinė]]
+- [[objektai/asmenys/Povilas Morkūnas-Rimantas]]
+- [[objektai/autoriai/Ričardas Čekutis]]
+- [[objektai/zodynas/agentas-smogikas]]
 - [[objektai/grupes/Prisikėlimo apygarda]]
 - [[objektai/ivykiai/Užpelkių kautynės (1949 m.)]]

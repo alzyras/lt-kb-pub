@@ -9,16 +9,19 @@ saltiniai:
   - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
 bukle: juodrastis
 laikotarpis: "1791 m.; 1794 m."
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
 vaidmenys:
   - "konstitucijos pataisos autorius"
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1791 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVIII'
+date_start: '1791'
+date_end: ''
 patikimumas: "aukštas"
 tags:
   - autorius
@@ -54,6 +57,10 @@ Tadas Korsakas siejamas su Abiejų Tautų tarpusavio įžado autoryste: šaltini
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-012
+  teiginys: 'Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius veikiausiai buvo Vilniaus žemės teisėjas Tadas Korsakas.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -72,8 +79,35 @@ Tadas Korsakas siejamas su Abiejų Tautų tarpusavio įžado autoryste: šaltini
     - t-009
     - t-010
     - t-011
+- c-002
+  santrauka: 'Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius veikiausiai buvo Vilniaus žemės teisėjas Tadas Korsakas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1791 m. spalio 20 d. Lietuvos delegacija Ketverių metų seime išsirei-
+    kalavo konstitucijos pataisą, kuri buvo pavadinta Abiejų Tautų tarpusavio
+    įžadu. Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius
+    veikiausiai buvo Vilniaus žemės teisėjas Tadas Korsakas. Remiantis šiuo
+    įžadu, Gegužės trečiosios konstitucijos įtvirtintose pagrindinėse bendro-
+    se vykdomosios valdžios institucijose – Kariuomenės ir Iždo komisijo-
+    se – Lenkija ir LDK turėjo turėti po lygiai narių, o komisijų pirmininkai
+    turėjo būti paeiliui lenkai ir lietuviai. Nors ir įžade kalbama apie „bendrą
+    Tėvynę – Lenkijos Respubliką“, visur minima ir „abi tautos“ bei LDK.
+    Taigi į konstituciją sugrąžintas valstybės dualizmo principas – federacija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/ivykiai/1794 m. sukilimas Lietuvoje]]
-- [[objektai/ivykiai/1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/konstitucijos]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Sapiegos]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]

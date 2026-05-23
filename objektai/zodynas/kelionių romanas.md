@@ -56,4 +56,6 @@ Sensacingiausias kelionių romanas. Prie romano pridėta: 1.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Arabija]]
+- [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
 - [[objektai/grupes/Arabai]]

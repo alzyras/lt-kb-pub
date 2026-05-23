@@ -59,4 +59,6 @@ Antroji to Metraščio redakcija aprašo, kaip Mindaugo tėvas (Bychovco kroniko
 - [[temos/metraštis]]
 
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Mindaugas]]
 - [[objektai/vietos/Gudija]]

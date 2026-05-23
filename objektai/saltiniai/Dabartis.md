@@ -6,6 +6,12 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - saltinis
@@ -23,8 +29,27 @@ Vien tik vokiečių štabas spausdino lietuvišką laikraštpalaikį „Dabartį
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Judėjimas tarp apskričių buvo suvaržytas, pašto korespondencija lietuviškai uždrausta, lietuviškai leistas vienintelis cenzūruojamas laikraštis „Dabartis“.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Judėjimas tarp apskričių buvo suvaržytas, pašto korespondencija lietuviškai uždrausta, lietuviškai leistas vienintelis cenzūruojamas laikraštis „Dabartis“.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Judėjimas tarp apskričių buvo suvaržytas, pašto korespondencija lie-
+    tuviškai uždrausta, lietuviškai leistas vienintelis cenzūruojamas laikraštis
+    „Dabartis“. Tokią politiką kritikuojančius atsišaukimų autorius vokiečiai
+    areštuodavo, mokytojus deportuodavo, dėl to lietuviai skundėsi Berlynui.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Bibliografiniai įrodymai
 - c-001

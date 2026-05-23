@@ -62,3 +62,9 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Smolenskas]]
+- [[objektai/asmenys/Sviatoslavas]]
+- [[objektai/vietos/Vorskla]]

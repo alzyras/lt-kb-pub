@@ -60,4 +60,9 @@ Oginskis telkė respublikonų pajėgas Žemaitijoje, Višnioveckiai organizavo b
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Ašmena]]
+- [[objektai/vietos/Kijevo Rusia]]
+- [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Vileika]]
+- [[objektai/vietos/Voluinė]]
+- [[objektai/zodynas/bajorija]]

@@ -56,3 +56,9 @@ Pagamintas parlamento gynėjo, kūrėjo savanorio Vyganto Jociaus 2010 m. Analog
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/ivykiai/Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)]]
+- [[objektai/zodynas/Savanoris]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

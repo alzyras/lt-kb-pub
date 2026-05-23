@@ -45,5 +45,8 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/polonizacija]]
 - [[objektai/zodynas/polonizacija integracinė kalba]]

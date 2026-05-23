@@ -54,3 +54,13 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/autoriai/A. Šapoka]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/asmenys/Adolfas Šapoka]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Kazimieras Masiliūnas]]
+- [[objektai/grupes/Lietuvos Respublikos švietimo ministerija]]

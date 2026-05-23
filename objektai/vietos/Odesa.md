@@ -69,3 +69,10 @@ Tūkstančiai lietuvių važiavo uždarbiauti į Rygą, Peterburgą, Odesą, bet
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/autoriai/V. V. Antonovičius]]

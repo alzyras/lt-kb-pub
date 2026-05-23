@@ -6,6 +6,16 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1895 m.'
+periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
+periodo_grupes:
+  - 'naujieji laikai'
+amziai:
+  - 'XIX'
+  - 'XX'
+date_start: '1895'
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - bajorija
@@ -59,6 +69,10 @@ Nenurodyta
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: 'Maironio lietuviškai rašyta poezija turėjo didelę reikšmę lietuvių tautinės savimonės plėtotei.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -105,7 +119,35 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Maironio lietuviškai rašyta poezija turėjo didelę reikšmę lietuvių tautinės savimonės plėtotei.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Jonas Basanavičius
+
+    L I E T U V O S  I S T O R I J A
+    120
+    Didžiulės reikšmės lietuvių tautinės savimonės plėtotei, plačiųjų lietu-
+    viškai kalbančio kaimo masių tautiniam krikštui, t. y. pasijutimui ne tik
+    liaudies, bet ir tautos nariais, turėjo lenkų romantikų (A. Mickevičiaus,
+    J.  Kraševskio) kūryba, o romantiškiausia, dainingiausia, lyriškiausia,
+    savotiškai kovinga buvo kunigo Jono Mačiulio-Maironio lietuvių kal-
+    ba rašyta poezija. 1895 m. išleistos Maironio knygos „Pavasario balsai“
+    ir „Jaunoji Lietuva“, jo eilėraščiai virto liaudies dainomis. Tautinę savi-
+    monę žadino V. Kudirkos poezija ir satyriniai, caro valdininkus taikliai
+    pašiepiantys apsakymai, iš smulkiųjų bajorų kilusios rašytojos Julijos
+    Žymantienės-Žemaitės sodri realistinė sociali proza.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/paprociai/JAV lietuvių spaudos, draugijų, chorų ir politinių akcijų praktika]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/autoriai/Maironis]]
+- [[objektai/zodynas/kunigas]]

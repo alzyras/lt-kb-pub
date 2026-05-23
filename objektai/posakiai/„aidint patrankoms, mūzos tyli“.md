@@ -46,3 +46,12 @@ Sakoma: aidint patrankoms, mūzos tyli.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/asmenys/Steponas]]
+- [[objektai/asmenys/Steponas Batoras]]
+- [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
+- [[objektai/vietos/Vilnius]]

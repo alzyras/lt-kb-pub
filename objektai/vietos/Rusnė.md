@@ -55,4 +55,13 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Baltija]]
+- [[objektai/vietos/Klaipėda]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/vietos/Nemunas]]
+- [[objektai/vietos/Viena]]
+- [[objektai/zodynas/dykra]]
+- [[objektai/grupes/Žemaičiai]]
 - [[objektai/vietos/Jūros upė]]
+- [[objektai/grupes/Parusėnai]]

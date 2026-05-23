@@ -51,3 +51,11 @@ Ilgai žygiavę miškais lietuviai pasiekė tankiai gyvenamas Tverės žemes.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Rževas]]
+- [[objektai/vietos/Tverė]]
+- [[objektai/zodynas/žygis]]

@@ -57,3 +57,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/vietos/Afganistanas]]
 - [[objektai/vietos/Goras]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Viena]]

@@ -59,3 +59,16 @@ Caro valdžia: „Čia nebus Lenkijos“ Po sukilimo Lenkijos karalystė neteko 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
+- [[objektai/vietos/Krėva]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lenkijos karalystė]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Viena]]
+- [[objektai/zodynas/unija]]
+- [[objektai/paprociai/Carinės „lenkų pradų naikinimo“ rusinimo praktikos]]
+- [[objektai/zodynas/lenkų pradų naikinimo politika]]

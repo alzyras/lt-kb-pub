@@ -88,3 +88,23 @@ Protestantizmas labai greitai pasiekė Lietuvą. XVI amžiuje užplūdusi protes
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/paprociai/Baudžiauninkų tikėjimo priklausomybė nuo pono paskirto kunigo]]
+- [[objektai/grupes/Biržų Radvilos]]
+- [[objektai/grupes/Brandenburgo elektoriai]]
+- [[objektai/vietos/Italija]]
+- [[objektai/autoriai/J. Bretkūnas]]
+- [[objektai/grupes/Katalikų Bažnyčia]]
+- [[objektai/grupes/Lenkijos katalikų Bažnyčios sinodas]]
+- [[objektai/autoriai/Martynas Mažvydas Vaitkūnas]]
+- [[objektai/vietos/Prancūzija]]
+- [[objektai/vietos/Skandinavija]]
+- [[objektai/autoriai/Stanislovas Rapagelionis]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/reformacija protestantizmas kalvinizmas]]
+- [[objektai/vietos/Šiaurės Europa]]
+- [[objektai/vietos/Didžioji Lietuva]]
+- [[objektai/grupes/Jėzuitų ordinas]]

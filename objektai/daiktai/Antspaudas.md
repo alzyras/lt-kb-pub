@@ -120,3 +120,12 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/simbolis]]
+
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/posakiai/Kinstutte herczoge czu Tracken und Wytould unsir son]]
+- [[objektai/ivykiai/Vilniaus akademijos įkūrimas (1579 m.)]]
+- [[objektai/vietos/Radomas]]
+- [[objektai/posakiai/Sigillum Vitowdi ducis in Tracken]]

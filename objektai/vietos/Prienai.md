@@ -175,4 +175,12 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/vietos/Alytus]]
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/NKGB]]
+- [[objektai/vietos/Nemunas]]
+- [[objektai/asmenys/Tigras]]
+- [[objektai/vietos/Vilkaviškis]]
 - [[objektai/asmenys/Arkadij Kruglov]]

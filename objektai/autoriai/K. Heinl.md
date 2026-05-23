@@ -31,6 +31,10 @@ tags:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Heinl: „Nei vienam jo pirmtakūnų tą pa­ daryti nebuvo taip sunku, bet nei vienas jų taip puikiai nepasie­ kė savo tikslo kaip jis“^2 ).'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -51,3 +55,20 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Heinl: „Nei vienam jo pirmtakūnų tą pa­ daryti nebuvo taip sunku, bet nei vienas jų taip puikiai nepasie­ kė savo tikslo kaip jis“^2 ).'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Ir teisingai pastebi K. Heinl: „Nei vienam jo pirmtakūnų tą pa­
+    daryti nebuvo taip sunku, bet nei vienas jų taip puikiai nepasie­
+    kė savo tikslo kaip jis“^2 ). Krašto viduje jis tapo absoliutišku
+    valdovu, kurio supykinti bijodami valdiniai net patys ėjo kartis,
+    kaip pasakoja Enejas Silvijus Picolomini, o užsieny jo įtaka
+    taip pat buvo didžiausia.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

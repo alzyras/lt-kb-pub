@@ -37,6 +37,10 @@ Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė.
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Tuo būdu Vytauto kariuomenę sudarė lietuviai, žemaičiai, vokie­ čiai, lenkai, totoriai, rusai, valakai, vadinas, Vytauto vedama kariuomenė buvo internacionalinė.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -56,3 +60,26 @@ Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-002
+  santrauka: 'Tuo būdu Vytauto kariuomenę sudarė lietuviai, žemaičiai, vokie­ čiai, lenkai, totoriai, rusai, valakai, vadinas, Vytauto vedama kariuomenė buvo internacionalinė.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tuo
+    būdu Vytauto kariuomenę sudarė lietuviai, žemaičiai, vokie­
+    čiai, lenkai, totoriai, rusai, valakai, vadinas, Vytauto vedama
+    kariuomenė buvo internacionalinė. Pačių Lietuvos ir Rusijos
+    kunigaikščių joje buvo per penkiasdešimt.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/zodynas/valakas]]
+- [[objektai/grupes/Rusai]]

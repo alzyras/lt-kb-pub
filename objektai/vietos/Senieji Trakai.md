@@ -62,6 +62,10 @@ Senieji Trakai čia aprašomi kaip vienuolių įkurdinimo vieta.
   teiginys: 'Vytautas įkurdino benediktinus Senuosiuose Trakuose, atkeldamas juos iš Mažosios Lenkijos Tynieco.'
   pagrindžia:
     - c-002
+- t-004
+  teiginys: 'Trakai- [10] Rugpjūčio 26 d.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -92,6 +96,37 @@ Senieji Trakai čia aprašomi kaip vienuolių įkurdinimo vieta.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Vytautas įkurdino benediktinus Senuosiuose Trakuose, atkeldamas juos iš Mažosios Lenkijos Tynieco.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Nors viduramžinis vienuolynų steigimo įkarštis jau buvo praė­
+    jęs ir Lietuvoje jis nebesuvaidino tada savo būdingo kultūrinio
+    vaidmens, Vytautas įkurdino benediktinus S. Trakuose, atkeldamas
+    juos iš Maž. Lenkijos (Tynieco).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Trakai- [10] Rugpjūčio 26 d.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    [9] Rugpjūčio 25 d. Gel. li-
+    nija Marcinkonys-Varėna-
+    Valkininkai-Sen. Trakai-
+
+    [10] Rugpjūčio 26 d.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Šaltiniai ir įrodymai
 
@@ -101,4 +136,4 @@ Senieji Trakai čia aprašomi kaip vienuolių įkurdinimo vieta.
 ### Susiję objektai
 - [[objektai/vietos/Mažoji Lenkija]]
 - [[objektai/vietos/Trakai]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

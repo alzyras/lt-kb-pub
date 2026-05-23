@@ -56,3 +56,13 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Medvėgalis]]
+- [[objektai/vietos/Čekija]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/vietos/Aukaimis]]
+- [[objektai/vietos/Gedimino pilis]]
+- [[objektai/vietos/Gegužkalnis]]
+- [[objektai/vietos/Kvėdarna]]

@@ -102,7 +102,11 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/6-asis pėstininkų Pilėnų Kunigaikščio Margio pulkas]]
+- [[objektai/asmenys/Antanas Šukys]]
+- [[objektai/ivykiai/Augustavo-Suvalkų operacija]]
 - [[objektai/vietos/Eglainė]]
-- [[objektai/asmenys/Jonas Kuklieris]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Radomas]]
 - [[objektai/zodynas/viršila]]
+- [[objektai/grupes/6-asis pėstininkų Pilėnų Kunigaikščio Margio pulkas]]
+- [[objektai/asmenys/Jonas Kuklieris]]

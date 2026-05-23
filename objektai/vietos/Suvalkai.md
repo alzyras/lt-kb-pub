@@ -8,6 +8,7 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
   - '1656 m.'
+  - '1920 m.'
   - '1936 m.'
   - '2026 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
@@ -41,10 +42,18 @@ Gimnazijų Užnemunėje buvo dvi — Marijampolėje ir Suvalkuose.
   teiginys: 'Pasinaudodami tuo švedai ir brandendburgiečiai, surinkę papildomas pajėgas, pasivijo lietuvius ties Pilypavu (netoli Suvalkų) ir juos sumušė.'
   pagrindžia:
     - c-002
-- t-003
-  teiginys: '[5] Liepos 23 d. Tverečius, Suvalkai.'
+- t-004
+  teiginys: 'Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybingumo istorinei tradicijai, o jų teritorinės aspiracijos panėšėjo kaip broliai dvyniai – istoriškai etninės lietuvių žemės Vilniaus, Kauno, Suvalkų ir Gardino gubernijose, dalis Kuršo.'
   pagrindžia:
-    - c-003
+    - c-004
+- t-005
+  teiginys: 'Delegacija įrodinėjo, kad Lietuva nenori priklausyti nei Lenkijai, nei Rusijai, kad yra istorinė valstybė, ieškojo draugų ir sąjungininkų, tarėsi su estais ir latviais, lenkais, bandė brėžti savo sienas įtraukdama ir Suvalkų trikampį, dirbo informacinį.'
+  pagrindžia:
+    - c-005
+- t-006
+  teiginys: 'Nors 1920 m. spalio 7 d. Lenkijos ir Lietuvos delegacijos Suvalkuose pasirašė karinį susitarimą dėl kariuomenių demarkacijos linijos, paliekant Vilnių Lietuvos pusėje, spalio 9-ąją, dar prieš įsigalint susitarimui, lenkų gen.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -74,16 +83,69 @@ Gimnazijų Užnemunėje buvo dvi — Marijampolėje ir Suvalkuose.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-- c-003
-  santrauka: '[5] Liepos 23 d. Tverečius, Suvalkai.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+- c-004
+  santrauka: 'Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybingumo istorinei tradicijai, o jų teritorinės aspiracijos panėšėjo kaip broliai dvyniai – istoriškai etninės lietuvių žemės Vilniaus, Kauno, Suvalkų ir Gardino gubernijose, dalis Kuršo.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    [5] Liepos 23 d. Tverečius, Suvalkai.
-    Rugpjūčio 1 d.
+    Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos
+    valstybingumo istorinei tradicijai, o jų teritorinės aspiracijos panėšėjo
+    kaip broliai dvyniai – istoriškai etninės lietuvių žemės Vilniaus, Kauno,
+    Suvalkų ir Gardino gubernijose, dalis Kuršo. Kadangi Lenkijos ir Lietu-
+    vos bendros valstybės pasekmės išliko, lenkiškai kalbantiems lietuviams
+    vis labiau linkstant į lenkų kultūrinę orbitą ir Lenkijos valstybingumo
+    idėją, nesiruošiant konvertuotis į lietuvybę, kristalizavosi Lietuvos ne-
+    priklausomybės siekis etnografiniu pagrindu.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-003
+    - t-004
+- c-005
+  santrauka: 'Delegacija įrodinėjo, kad Lietuva nenori priklausyti nei Lenkijai, nei Rusijai, kad yra istorinė valstybė, ieškojo draugų ir sąjungininkų, tarėsi su estais ir latviais, lenkais, bandė brėžti savo sienas įtraukdama ir Suvalkų trikampį, dirbo informacinį.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Delegacija įrodinėjo, kad Lietuva nenori priklausyti nei Lenkijai, nei
+    Rusijai, kad yra istorinė valstybė, ieškojo draugų ir sąjungininkų, tarėsi su
+    estais ir latviais, lenkais, bandė brėžti savo sienas įtraukdama ir Suvalkų
+    trikampį, dirbo informacinį propagandinį darbą. Gausūs R.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: 'Nors 1920 m. spalio 7 d. Lenkijos ir Lietuvos delegacijos Suvalkuose pasirašė karinį susitarimą dėl kariuomenių demarkacijos linijos, paliekant Vilnių Lietuvos pusėje, spalio 9-ąją, dar prieš įsigalint susitarimui, lenkų gen.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Nors 1920 m.
+    spalio 7 d. Lenkijos ir Lietuvos delegacijos Suvalkuose pasirašė karinį
+    susitarimą dėl kariuomenių demarkacijos linijos, paliekant Vilnių Lietu-
+    vos pusėje, spalio 9-ąją, dar prieš įsigalint susitarimui, lenkų gen. L. Že-
+    ligovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos
+    (Litwa środkowa) sudarymą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Gardinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Vidurinė Lietuva]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/vietos/Kuršas]]
+- [[objektai/asmenys/L. Želigovskis]]
+- [[objektai/vietos/Vilniaus gubernija]]
+- [[objektai/zodynas/administracinė linija demarkacijos linija]]

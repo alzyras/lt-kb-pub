@@ -74,3 +74,10 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Vokiečių saksų batalionas]]
+- [[objektai/asmenys/A. Stapulionis]]
+- [[objektai/grupes/Joniškėlio partizanų batalionas]]

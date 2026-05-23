@@ -93,3 +93,11 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/daiktai/Vėliavos]]
+- [[objektai/zodynas/Tėvūnija|tėvūnija]]
+- [[objektai/zodynas/pašauktinė kariuomenė]]

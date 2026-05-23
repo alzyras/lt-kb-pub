@@ -50,3 +50,16 @@ Vienas iš jų, Mykolas, buvo hetmonas ir Vilniaus vaivada, kitas, Kristupas, �
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bajorų konfederacija]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Mykolas]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/zodynas/konfederacija]]
+- [[objektai/vietos/Švedija]]
+- [[objektai/vietos/Antakalnis]]
+- [[objektai/asmenys/Jonas Kazimieras Vaza]]
+- [[objektai/asmenys/Kristupas Pacas]]

@@ -116,5 +116,10 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Dniepras]]
+- [[objektai/vietos/Luckas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/žygis]]
 - [[objektai/vietos/Dniepro žiotys]]
 - [[objektai/ivykiai/Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.)]]
+- [[objektai/vietos/Trakai]]

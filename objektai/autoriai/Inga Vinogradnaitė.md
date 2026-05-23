@@ -78,3 +78,11 @@ Inga Vinogradnaitė Išleista Lietuvos Respublikos užsienio reikalų ministerij
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/redaktorius]]
+
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/vietos/Europa]]
+- [[objektai/vietos/Europos geografinis centras]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Vilniaus universiteto leidykla]]
+- [[objektai/vietos/Vilnius]]

@@ -55,3 +55,14 @@ Kai dėl įtakos Naugarde varžėsi Tverės ir Maskvos kunigaikščiai, Gedimina
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Jonas Kalita]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/vietos/Naugardas]]
+- [[objektai/vietos/Pskovas]]
+- [[objektai/vietos/Tverė]]
+- [[objektai/zodynas/vietininkas]]

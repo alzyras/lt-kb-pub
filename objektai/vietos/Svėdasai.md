@@ -63,4 +63,5 @@ Sierakauskas išsiuntė Kasperą Maleckį su 150 karių ardyti geležinkelio kom
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Rusija]]
 - [[objektai/asmenys/Kasperas Maleckis]]

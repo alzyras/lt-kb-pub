@@ -86,3 +86,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Balnakilpės]]
+- [[objektai/vietos/Europa]]
+- [[objektai/asmenys/Hermanas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/daiktai/Sidabruotos geležinės balnakilpės]]

@@ -41,3 +41,10 @@ O juk planuota išrinkti ir apie 100 Seimo atstovų Vilnijoje, 9 vietos skirtos 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Armija Krajova]]
+- [[objektai/asmenys/J. Pilsudskis]]
+- [[objektai/asmenys/Juzefas Pilsudskis]]

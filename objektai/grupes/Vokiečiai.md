@@ -8,8 +8,11 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean'
 datos:
+  - '1323 m.'
+  - '1324 m.'
   - '1370 m.'
   - '1398 m.'
+  - '1561 m.'
   - '1936 m.'
   - '2026 m.'
 periodas: 'LDK laikotarpis'
@@ -17,9 +20,10 @@ periodo_grupes:
   - 'LDK'
 amziai:
   - 'XIV'
+  - 'XVI'
   - 'XX'
   - 'XXI'
-date_start: '1370'
+date_start: '1323'
 date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
@@ -78,7 +82,26 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
   teiginys: 'Dabar vokiečiai net stengiasi įrodyti, kad jie turį istorinių teisių visam Pabaltijy, o ypač Lietuvai grįžusiam Klaipėdos krašte.'
   pagrindžia:
     - c-008
-
+- t-014
+  teiginys: 'Jis kvietė į Lietuvą atvykti ir čia įsikurti vokiečių riterius, pirklius, amatininkus, valstiečius, žadėjo jiems tokias pačias veiklos sąlygas kaip Europoje.'
+  pagrindžia:
+    - c-009
+- t-015
+  teiginys: 'LDK įsikūrė vokiečių, žydų ir armėnų.'
+  pagrindžia:
+    - c-010
+- t-016
+  teiginys: 'Naugardiečiai atsakė, kad jie ir su Maskva, ir su Lietuva, pagaliau, ir su Vokiečiais yra padarę atskiras taikos sutartis, čia nieko nelaimėjęs, Vy­ tautas stengėsi prieš save atkreiptą ir Maskvos vadovaujamą koaliciją nuginkluoti rytų koalicijos planu.'
+  pagrindžia:
+    - c-011
+- t-017
+  teiginys: 'Nutraukęs gerus santykius su vokiečiais, turėjo gintis nuo jų puldinėjimų, kurie buvo daromi vis didesniu smarkumu.'
+  pagrindžia:
+    - c-012
+- t-018
+  teiginys: 'Nors vyriausieji jo padėjė­ jai ir buvo lietuviai, bet jam tarnavo daug ir nelietuvių: lenkų, vokiečių.'
+  pagrindžia:
+    - c-013
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Sužinoję apie didelį lietuvių įsiveržimą, vokiečiai iš savo pusės irgi rengėsi.'
@@ -221,3 +244,129 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-013
+- c-009
+  santrauka: 'Jis kvietė į Lietuvą atvykti ir čia įsikurti vokiečių riterius, pirklius, amatininkus, valstiečius, žadėjo jiems tokias pačias veiklos sąlygas kaip Europoje.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Jis kvietė į Lietuvą atvykti ir čia įsikurti vokiečių
+    riterius, pirklius, amatininkus, valstiečius, žadėjo jiems tokias pačias vei-
+    klos sąlygas kaip Europoje. Tačiau 1323–1324 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
+- c-010
+  santrauka: 'LDK įsikūrė vokiečių, žydų ir armėnų.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    LDK įsikūrė vokie-
+    čių, žydų ir armėnų. Beveik visos šios bendruomenės (išskyrus vokiečius)
+    tapo kunigaikščių kolektyviniais vasalais, turinčiais savo konfesiją ir raštą.
+    Lietuvos krikštas – Europos
+    formavimosi pabaiga?
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
+- c-011
+  santrauka: 'Naugardiečiai atsakė, kad jie ir su Maskva, ir su Lietuva, pagaliau, ir su Vokiečiais yra padarę atskiras taikos sutartis, čia nieko nelaimėjęs, Vy­ tautas stengėsi prieš save atkreiptą ir Maskvos vadovaujamą koaliciją nuginkluoti rytų koalicijos planu.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Naugardiečiai atsakė,
+    kad jie ir su Maskva, ir su Lietuva, pagaliau, ir su Vokiečiais
+    yra padarę atskiras taikos sutartis, čia nieko nelaimėjęs, Vy­
+    tautas stengėsi prieš save atkreiptą ir Maskvos vadovaujamą
+    koaliciją nuginkluoti rytų koalicijos planu, nukreiptu prieš kar­
+    dininkus ir kryžiuočius. Šitą koaliciją rėmė ir Jogaila su Pa­
+    mario kunigaikščių sąjunga.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016
+- c-012
+  santrauka: 'Nutraukęs gerus santykius su vokiečiais, turėjo gintis nuo jų puldinėjimų, kurie buvo daromi vis didesniu smarkumu.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Jis paėmė valdžią gana sunkiose aplinky­
+    bėse. Nutraukęs gerus santykius su vokiečiais, turėjo gintis
+    nuo jų puldinėjimų, kurie buvo daromi vis didesniu smarkumu.
+    Po Ostrovos sutarties santykiai su lenkais ir Jogaila taip pat buvo
+    įtempti, ypač kai Jadvygai duoklės pareikalauta (1398).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
+- c-013
+  santrauka: 'Nors vyriausieji jo padėjė­ jai ir buvo lietuviai, bet jam tarnavo daug ir nelietuvių: lenkų, vokiečių.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Nors vyriausieji jo padėjė­
+    jai ir buvo lietuviai, bet jam tarnavo daug ir nelietuvių: lenkų,
+    vokiečių. Visi jie, kaip ir pats kunigaikštis, buvo praktiškai nu­
+    siteikę žmonės: juristai, diplomatai, technikai, vertėjai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Bielskas]]
+- [[objektai/vietos/Duobelės pilis]]
+- [[objektai/vietos/Durbė]]
+- [[objektai/ivykiai/Durbės mūšis (1260 m.)]]
+- [[objektai/asmenys/Gabrielis Žanas Petisnė]]
+- [[objektai/vietos/Georgenburgas]]
+- [[objektai/vietos/Gunlaukenas]]
+- [[objektai/grupes/Hanza]]
+- [[objektai/autoriai/J. Jakštas]]
+- [[objektai/asmenys/J. Pilsudskis]]
+- [[objektai/grupes/Joanitų ordinas]]
+- [[objektai/ivykiai/Jogailos sugrįžimas į Vilnių (1382 m. birželio 12 d.)]]
+- [[objektai/asmenys/Juzefas Pilsudskis]]
+- [[objektai/autoriai/K. Chodynicki]]
+- [[objektai/paprociai/Karo belaisvių vertimas sunkiais darbais ir pardavimas į vergus]]
+- [[objektai/vietos/Kauno tvirtovė]]
+- [[objektai/ivykiai/Klaipėdos krašto prisijungimas prie Lietuvos (1923–1924 m.)]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/paprociai/Laidotuvių giesmė ir įkapės]]
+- [[objektai/paprociai/Lietuvių kariavimo būdas ir pilių įgulos]]
+- [[objektai/vietos/Maskvos žemės]]
+- [[objektai/vietos/Melnikas]]
+- [[objektai/asmenys/Narimantas Gediminaitis]]
+- [[objektai/vietos/Neries sritis]]
+- [[objektai/grupes/Oberostas]]
+- [[objektai/vietos/Oberostas]]
+- [[objektai/vietos/Osterodė]]
+- [[objektai/ivykiai/Pirmasis Lietuvos gyventojų surašymas (1923 m. rugsėjo 17 d.)]]
+- [[objektai/vietos/Stalupėnai]]
+- [[objektai/grupes/Templininkų ordinas]]
+- [[objektai/asmenys/Teobaldas fon Betmanas Holvegas]]
+- [[objektai/vietos/Vakarų Europa]]
+- [[objektai/vietos/Vartenburgas]]
+- [[objektai/ivykiai/Vilniečių sąmokslas ir Jogailos įsitvirtinimas Vilniuje bei Trakuose]]
+- [[objektai/vietos/Viznos apylinkės]]
+- [[objektai/ivykiai/Vokietijos ir Sovietų Sąjungos karo pradžia ir Lietuvos užėmimas (1941 m. birželio 22-25 d.)]]
+- [[objektai/ivykiai/Vokietijos kariuomenės įžengimas į Lietuvą, Kauno tvirtovės paėmimas ir Vilniaus užėmimas]]
+- [[objektai/ivykiai/Vokiečių ordino pasikvietimas pagalbon prieš prūsus]]
+- [[objektai/autoriai/Vydūnas]]
+- [[objektai/vietos/Vyžuonos]]
+- [[objektai/posakiai/savo „karaliaus Vytauto”]]
+- [[objektai/zodynas/tautiškas susipratimas tautiška sąmonė tautiškoji veikla]]
+- [[objektai/zodynas/vitingas]]
+- [[objektai/grupes/Žydai]]

@@ -63,3 +63,4 @@ tags:
 ### Susiję objektai
 - [[objektai/vietos/Romuva]]
 - [[objektai/zodynas/amfiktionija]]
+- [[objektai/paprociai/Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas]]

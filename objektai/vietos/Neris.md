@@ -70,3 +70,9 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Vilnius]]
+- [[objektai/vietos/Lietauka]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

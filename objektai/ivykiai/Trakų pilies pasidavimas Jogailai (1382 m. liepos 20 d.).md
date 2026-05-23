@@ -87,3 +87,10 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Skirgaila]]
+- [[objektai/vietos/Trakai]]
+- [[objektai/zodynas/maršalka]]

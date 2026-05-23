@@ -68,3 +68,10 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Geltonas lankelis ant kepurės]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/zodynas/Miera|miera]]

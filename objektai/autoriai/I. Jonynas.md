@@ -58,3 +58,6 @@ Jonynas, lg. : JakG, I, 127-135 ; II, 5-59 p. — (”) Naujausi Gedimino dinast
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
+
+### Susiję objektai
+- [[objektai/zodynas/ekstraordinarinis profesorius]]

@@ -121,4 +121,8 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
+- [[objektai/grupes/NKVD]]
 - [[objektai/zodynas/karinė teritorinė pasipriešinimo judėjimo struktūra]]

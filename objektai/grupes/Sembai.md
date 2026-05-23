@@ -131,3 +131,23 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Estai]]
+- [[objektai/vietos/Europa]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/vietos/Prūsija]]
+- [[objektai/vietos/Revelis]]
+- [[objektai/vietos/Vokietija]]
+- [[objektai/zodynas/kryžininkai]]
+- [[objektai/vietos/Birka (Švedijos uostas)]]
+- [[objektai/vietos/Ceklio sritis]]
+- [[objektai/autoriai/Saxo Grammaticus]]
+- [[objektai/grupes/Notangai]]
+- [[objektai/grupes/Danijos karaliaus kariai iš Revelio]]
+- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
+- [[objektai/grupes/Pamedėnai]]
+- [[objektai/grupes/Varmiai]]

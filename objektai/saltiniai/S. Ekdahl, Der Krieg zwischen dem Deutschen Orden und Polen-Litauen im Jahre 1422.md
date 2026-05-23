@@ -30,7 +30,7 @@ Ekdahl, S.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Ekdahl, S.'
+  teiginys: 'S. Ekdahlio „Der Krieg zwischen dem Deutschen Orden und Polen-Litauen im Jahre 1422“ paskelbta „ZfO“ 13 tome 1964 m., p. 614-651.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -40,7 +40,7 @@ Ekdahl, S.
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Ekdahl, S.'
+  santrauka: 'S. Ekdahlio „Der Krieg zwischen dem Deutschen Orden und Polen-Litauen im Jahre 1422“ paskelbta „ZfO“ 13 tome 1964 m., p. 614-651.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Peterburg 1891. —Dundulis, B. : _Lietuvos kova del valstybinio sava­

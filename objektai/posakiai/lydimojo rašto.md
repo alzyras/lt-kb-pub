@@ -56,5 +56,8 @@ Ir tikrai, kada Gilbert de Lannoy, Ang­ lijos karaliaus Henriko VI pasiuntinys 
 - [[temos/pinigai]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Henne]]
+- [[objektai/vietos/Krymas]]
+- [[objektai/zodynas/Miera|miera]]
 - [[objektai/asmenys/Gilbert de Lannoy]]
 - [[objektai/asmenys/Henrikas VI]]

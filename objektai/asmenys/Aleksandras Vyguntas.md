@@ -50,3 +50,7 @@ Pati re­ forma nepasisekė, nes Vygunto mirtis (1392 m. birželio 28 d.) suard�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

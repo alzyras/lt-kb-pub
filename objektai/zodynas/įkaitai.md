@@ -11,6 +11,7 @@ saltiniai:
 - Vytautas Didysis 1350-1430 (1930 m.)
 datos:
   - '1350 m.'
+  - '1383 m.'
   - '1409 m.'
   - '1430 m.'
   - '1930 m.'
@@ -45,6 +46,10 @@ tags:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: 'Šiame žygyje žemaičiai pakei­ tė savo nusistatymą su Vokiečių Ordinu: atsitraukdami nuo Vilniaus, jie davė vokiečiams savo įkaitus.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -65,3 +70,42 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+- c-002
+  santrauka: 'Šiame žygyje žemaičiai pakei­ tė savo nusistatymą su Vokiečių Ordinu: atsitraukdami nuo Vilniaus, jie davė vokiečiams savo įkaitus.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Zöllneris ir Vytautas 1383 metų rugsėjo 11 d. didele ka­
+    riuomene vedini, atvyko prie Skirgailos valdomų Trakų. Po
+    trumpos atakos pilis buvo paimta. Čia buvo palikta tik įgula iš 60
+    žmonių su kapitonu Jonu Rabe. Nemaža lietuvių dar čia pat pe­
+    rėjo į teisėto Trakų valdovo Vytauto pusę. Po to Ordino ir Vy­
+    tauto kariuomenės patraukė į Vilnių. Bet puolimui nepasisekus
+    ir Vilniaus nepaėmus, o bijodami, kad nepritrūktų maisto, rug­
+    sėjo 22 d. ėmė trauktis atgal. Šiame žygyje žemaičiai pakei­
+    tė savo nusistatymą su Vokiečių Ordinu: atsitraukdami nuo
+    Vilniaus, jie davė vokiečiams savo įkaitus. Tiesa, tie įkaitai
+    buvo duoti ne nuo visos Žemaitijos sričių. Bet ir tai, kas buvo
+    padaryta, reikia laikyti Vytauto nuopelnu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Skirgaila]]
+- [[objektai/vietos/Trakai]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Zöllneris]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/autoriai/J. Posilge]]
+- [[objektai/asmenys/Jonas von Posilge]]
+- [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija]]
+- [[objektai/ivykiai/Apuolės apgula (853 m.)]]
+- [[objektai/vietos/Pavyslys]]

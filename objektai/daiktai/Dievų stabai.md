@@ -48,7 +48,7 @@ Nenurodyta
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 - t-004
-  teiginys: 'Per metines viešas aukas prie aukuro ir stabo buvo meldžiamasi šėtroje.'
+  teiginys: 'Per metines viešąsias aukas buvo meldžiamasi prie aukuro ir šėtroje stovinčio stabo.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
@@ -56,7 +56,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Per metines viešas aukas prie aukuro ir stabo buvo meldžiamasi šėtroje.'
+  santrauka: 'Per metines viešąsias aukas buvo meldžiamasi prie aukuro ir šėtroje stovinčio stabo.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Išeiginėse aukose, beje, ant metinių viešių, arba švenčių, aukavo viršaitis ar viršininkas
@@ -95,5 +95,12 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Aukuras]]
+- [[objektai/daiktai/Taurės]]
+- [[objektai/vietos/Viena]]
+- [[objektai/zodynas/Kūrėjų kūrėjas|kūrėjų kūrėjas]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/zodynas/Aukausenos|aukausenos]]
+- [[objektai/daiktai/Šėtra]]
 - [[objektai/paprociai/Išeiginės aukos per metines viešes]]
 - [[objektai/daiktai/Torielius]]

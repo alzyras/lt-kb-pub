@@ -67,3 +67,17 @@ Jogaila tam pritarė, bet griežčiausiai pasipriešino Lenkų ponų taryba, kur
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/vietos/Krokuva]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Luckas]]
+- [[objektai/zodynas/apsikarūnavimas]]
+- [[objektai/zodynas/savarankiškumas]]
+- [[objektai/grupes/Lenkų bajorija]]
+- [[objektai/zodynas/perdėtinis]]
+- [[objektai/grupes/Ponų taryba]]

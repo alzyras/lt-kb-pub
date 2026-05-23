@@ -33,6 +33,10 @@ Bet po Raciąžo taikos Švitrigaila grįžo pas Vytautą ir tuoj gavo valdyti B
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Pritariamas Jogailos, jis pirmiausia atėmė valdomą Sievero žemę iš Dimitro Kaributo, vėliau suvaldė nepaklusnų Podolijos kunigaikštį Karijoto sūnų Teodorą, Volynijos kunigaik­ štį Liubarto sūnų Teodorą, Kijevo kunigaikštį Algirdo sūnų Vla­ dimirą ir pagaliau.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -55,3 +59,27 @@ Bet po Raciąžo taikos Švitrigaila grįžo pas Vytautą ir tuoj gavo valdyti B
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Pritariamas Jogailos, jis pirmiausia atėmė valdomą Sievero žemę iš Dimitro Kaributo, vėliau suvaldė nepaklusnų Podolijos kunigaikštį Karijoto sūnų Teodorą, Volynijos kunigaik­ štį Liubarto sūnų Teodorą, Kijevo kunigaikštį Algirdo sūnų Vla­ dimirą ir pagaliau.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Pritariamas Jogailos, jis pirmiausia atėmė valdomą
+    Sievero žemę iš Dimitro Kaributo, vėliau suvaldė nepaklusnų
+    Podolijos kunigaikštį Karijoto sūnų Teodorą, Volynijos kunigaik­
+    štį Liubarto sūnų Teodorą, Kijevo kunigaikštį Algirdo sūnų Vla­
+    dimirą ir pagaliau kelis kartus turėjo ramdyti (net laikyti kalė­
+    jime) neramųjį Jogailos brolį Švitrigailą^2 ). Apskritai Gedimi­
+    naičiais Vytautas nepasitikėjo, jais nesirėmė ir kiek leido apy­
+    stovos, jų valdžią silpnino.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Kijevas]]
+- [[objektai/ivykiai/Vitebsko užėmimas (1392 m.)]]

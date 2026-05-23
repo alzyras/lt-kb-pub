@@ -48,3 +48,15 @@ Bet jam pavyko dvi savo karalystes — Vengrų ir Len­ kijos — paskirti savo 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Austrija]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/asmenys/Dimitras (Tverės kunigaikštis)]]
+- [[objektai/asmenys/Marija (Gedimino duktė)]]
+- [[objektai/vietos/Brandenburgas]]
+- [[objektai/zodynas/ciesorius]]
+- [[objektai/asmenys/Marija (Haličo-Volinijos giminės)]]
+- [[objektai/asmenys/Marija (Liudviko duktė)]]
+- [[objektai/asmenys/Marija (pirmoji Vytauto žmona)]]

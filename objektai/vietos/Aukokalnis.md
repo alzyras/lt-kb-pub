@@ -51,3 +51,11 @@ Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­ gijos ir daug 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Dubysa]]
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Merkinė]]
+- [[objektai/vietos/Nemunas]]
+- [[objektai/vietos/Dubysos upė]]

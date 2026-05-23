@@ -46,4 +46,11 @@ Nors sovietmečiu daug rusakalbių apsigyveno Vilniuje, Klaipėdoje ir Sniečkuj
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Liaudies vyriausybė]]
+- [[objektai/grupes/Lietuvos komunistų partija]]
+- [[objektai/ivykiai/Lietuvos valstybingumo griovimo sprendimai 1940 m. birželį-liepą]]
+- [[objektai/grupes/Lietuvos šaulių sąjunga]]
+- [[objektai/grupes/NKVD]]
+- [[objektai/ivykiai/Pirmieji masiniai areštai Lietuvoje (1940 m. liepos 10-17 d.)]]
 - [[objektai/vietos/Visaginas]]
+- [[objektai/zodynas/sovietizacija sovietizavimas]]

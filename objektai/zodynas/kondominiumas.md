@@ -40,3 +40,10 @@ Panašu, kad LDK rusiškosios žemės buvo Lietuvos ir Aukso ordos kondominiumas
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]

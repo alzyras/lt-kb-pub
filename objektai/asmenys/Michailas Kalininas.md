@@ -48,3 +48,10 @@ Smetonos laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/laiškas]]
+
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Rytas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/vietos/SSRS]]
+- [[objektai/grupes/SSRS kariuomenė]]

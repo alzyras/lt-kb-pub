@@ -40,3 +40,8 @@ Sovietinė valdžia represijas prieš disidentus derino su dalinių nuolaidų ki
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Viktoras Petkus]]
+- [[objektai/vietos/Viena]]

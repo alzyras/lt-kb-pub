@@ -6,6 +6,16 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1950 m.'
+  - '1953 m.'
+periodas: 'okupacijų ir sovietmečio laikotarpis'
+periodo_grupes:
+  - 'XX a.'
+amziai:
+  - 'XX'
+date_start: '1950'
+date_end: '1953'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -56,6 +66,10 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
     - c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-007
+  teiginys: 'Stalino statulų, prikabinėta komunistinių šūkių.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -150,3 +164,25 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Stalino statulų, prikabinėta komunistinių šūkių.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Sovietai sunaikino nepriklausomos Lietuvos laikų paminklus, išnieki-
+    no savanorių kapus, uždraudė tautines ir religines šventes. 1950 m. už-
+    draustas ir Lietuvos himnas – Vinco Kudirkos „Tautiška giesmė“. Lietu-
+    vos valstybingumą liudijusių paminklų vietose miestuose ir miesteliuose
+    pristatyta sovietinio kario nugalėtojo, V. Lenino, J. Stalino statulų, pri-
+    kabinėta komunistinių šūkių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/ivykiai/Okupacinės valdžios rinkimai į aukščiausias institucijas po karo (1946-1947 m.)]]

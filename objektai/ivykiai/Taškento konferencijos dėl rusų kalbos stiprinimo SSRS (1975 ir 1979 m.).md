@@ -60,4 +60,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/SSRS]]
 - [[objektai/vietos/Taškentas]]

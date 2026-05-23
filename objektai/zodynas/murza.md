@@ -71,4 +71,12 @@ Neišlaikę spaudimo totoriai bėgo“ žuvo daug murzy ir ulonų.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Motiejus]]
+- [[objektai/vietos/Podolė]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/asmenys/Madykas]]
+- [[objektai/grupes/Maskvos kariuomenė]]
+- [[objektai/asmenys/Sivindukas]]
 - [[objektai/zodynas/ulonas]]

@@ -53,3 +53,17 @@ Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Buktos (Žaliosios) miškas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/vietos/Daukšiai]]
+- [[objektai/grupes/Edvardo Lajaus būrys]]
+- [[objektai/grupes/Juozo Pandeikos būrys]]
+- [[objektai/grupes/Jurgio Lajaus būrys]]
+- [[objektai/grupes/Klarko būrys]]
+- [[objektai/grupes/Kosto Barkausko būrys]]
+- [[objektai/vietos/Žuvinto palios]]
+- [[objektai/grupes/Žuvinto-Palių junginys]]

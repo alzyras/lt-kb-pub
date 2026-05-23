@@ -47,4 +47,6 @@ Tos „sesijos" atlikdavo tą patį darbą, kurį anksčiau atlikdavo generalini
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lenkija]]
+- [[objektai/zodynas/generaliniai seimeliai]]
 - [[objektai/paprociai/Generaliniai seimeliai ir provincijų sesijos]]

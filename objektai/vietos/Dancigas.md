@@ -69,6 +69,18 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
   teiginys: 'Kadangi netrukus mirė jo konkurentas imperatorius Maksimilijonas, tai jį bematant pripažino visa Lenkija; nepripažino jo tiktai vienintelis pirklių valdomas Dancigo miestas, kurs betgi buvo ginklu priverstas jam nusilenkti.'
   pagrindžia:
     - c-005
+- t-012
+  teiginys: 'Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir siekė „laisvojo miesto“ statuso (panašaus į Dancigo (dabar Gdanskas)).'
+  pagrindžia:
+    - c-006
+- t-013
+  teiginys: 'Šis ruošėsi kariauti su ordinu dėl užgrobto Dancigo ir Pamario.'
+  pagrindžia:
+    - c-007
+- t-014
+  teiginys: 'Naugardas, Dorpatas, Psko­ vas, Ryga, Dancigas, Krokuva ir k.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -155,6 +167,54 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-011
+- c-006
+  santrauka: 'Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir siekė „laisvojo miesto“ statuso (panašaus į Dancigo (dabar Gdanskas)).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Beje, ne visi klaipė-
+    diškiai lietuvininkai norėjo jungtis prie Lietuvos ir siekė „laisvojo miesto“
+    statuso (panašaus į Dancigo (dabar Gdanskas)).
+    Pagrindiniai Lietuvos
+    istorijos metmenys
+    Taigi, bendriausias Lietuvos istorijos modelis būtų toks:
+    tarp miškingosios Rytų Europos priešistorinių archeologinių kultūrų
+    3–2  tūkstančiai metų prieš Kristų atsirado baltų kultūra.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+- c-007
+  santrauka: 'Šis ruošėsi kariauti su ordinu dėl užgrobto Dancigo ir Pamario.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Šis ruošėsi kariauti su ordinu dėl užgrobto Dancigo ir Pamario.
+    1325 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+- c-008
+  santrauka: 'Naugardas, Dorpatas, Psko­ vas, Ryga, Dancigas, Krokuva ir k.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Nuo Lietuvos buvo taip pat netoli tokie
+    anų laikų prekybos centrai, kaip D. Naugardas, Dorpatas, Psko­
+    vas, Ryga, Dancigas, Krokuva ir k. Taigi, Vytauto laikų Lie­
+    tuva, jungianti Rytų ir Vakarų Europos kraštus, iš visų pusių
+    buvo apsupta pirklių gyvenamų ir lankomų žemių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
 
 ## Laikotarpis ir datos
 - tipas: miestas / pilis
@@ -164,3 +224,25 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
 - [[objektai/vietos/Karaliaučius]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Ryga]]
+- [[objektai/vietos/Europa]]
+- [[objektai/vietos/Krokuva]]
+- [[objektai/vietos/Deimena]]
+- [[objektai/autoriai/E. Thunert]]
+- [[objektai/vietos/Elbingas]]
+- [[objektai/ivykiai/Gedimino sąjunga su Lenkija]]
+- [[objektai/vietos/Gilija]]
+- [[objektai/asmenys/Kazimieras (Lokietkos sūnus)]]
+- [[objektai/vietos/Labguva]]
+- [[objektai/autoriai/Lenkų istorikai ir Lietuvos istoriografijos tyrėjai]]
+- [[objektai/vietos/Marijenburgas]]
+- [[objektai/vietos/Nogatas]]
+- [[objektai/autoriai/O. Urbonas]]
+- [[objektai/vietos/Pamarys]]
+- [[objektai/autoriai/Thunert, E]]
+- [[objektai/vietos/Torne]]
+- [[objektai/autoriai/Urbonas, O]]
+- [[objektai/vietos/Varmijos vyskupystė]]
+- [[objektai/ivykiai/Versalio taikos konferencijos sprendimas dėl Klaipėdos krašto (1919 m.)]]
+- [[objektai/asmenys/Vladislovas Lokietka]]
+- [[objektai/autoriai/W. Ziesemer]]
+- [[objektai/zodynas/lietuvininkai]]

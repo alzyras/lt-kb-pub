@@ -47,4 +47,9 @@ Pradžios mokyklų mokytojams paruošti tenai buvo įsteigta mokytojų seminarij
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Užnemunė]]
+- [[objektai/vietos/Viena]]
 - [[objektai/zodynas/mokytojų seminarija]]
+- [[objektai/zodynas/rusinimas]]

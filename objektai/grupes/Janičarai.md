@@ -78,3 +78,7 @@ Pirmiausiai janičarai (turkų pėstininkai), o po to ir turkų kavalerija ataka
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kazokai]]
+- [[objektai/vietos/Ukraina]]
+- [[objektai/zodynas/etmonas]]
+- [[objektai/zodynas/hetmonas]]
+- [[objektai/asmenys/Antoine Gramont]]

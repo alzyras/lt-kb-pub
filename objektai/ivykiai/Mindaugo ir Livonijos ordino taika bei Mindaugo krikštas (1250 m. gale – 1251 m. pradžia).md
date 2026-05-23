@@ -118,3 +118,16 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Morta]]
+- [[objektai/vietos/Ryga]]
+- [[objektai/asmenys/Tautvilas]]
+- [[objektai/zodynas/kunigas]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/pagonybė]]

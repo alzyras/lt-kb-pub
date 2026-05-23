@@ -57,4 +57,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Livonija]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/zodynas/magistras]]
 - [[objektai/asmenys/Andrius Štirlandas]]

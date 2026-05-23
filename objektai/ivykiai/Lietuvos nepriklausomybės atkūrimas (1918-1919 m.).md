@@ -75,5 +75,10 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Vokietija]]
+- [[objektai/grupes/Lietuvos Taryba]]
 - [[objektai/asmenys/J. Basanavičius]]
 - [[objektai/grupes/Lietuvos Respublika]]

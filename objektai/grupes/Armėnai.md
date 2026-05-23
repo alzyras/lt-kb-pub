@@ -40,3 +40,7 @@ LDK įsikūrė vokiečių, žydų ir armėnų. Visų pirma – tai „tarpininka
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/posakiai/„Lietuvos Jeruzalė“ „Jerušalaim de Lite“]]

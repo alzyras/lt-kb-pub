@@ -51,6 +51,14 @@ Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir
     - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: 'Naugardo kunigaikščius — « maitinimuisi » (« na kormlenije ») — nuskyrė savo brolį Lengvenį, kuris ir buvo ten pakviestas.'
+  pagrindžia:
+    - c-005
+- t-006
+  teiginys: 'Lengvenis grįžo atgal ir, kaip vienas veikliausių Vytauto karo vadų, jam kelioliką metų ištikimai tarnavo.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -126,7 +134,50 @@ Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Naugardo kunigaikščius — « maitinimuisi » (« na kormlenije ») — nuskyrė savo brolį Lengvenį, kuris ir buvo ten pakviestas.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Vėl sustiprėjęs Jogaila į D. Naugardo kunigaikščius —
+    « maitinimuisi » (« na kormlenije ») — nuskyrė savo brolį Lengvenį,
+    kuris ir buvo ten pakviestas.
+    Rūpestingai išruoštas Algirdaitis priėmė stačiatikių tikėjimą ir
+    toliau vadinosi « Semeon » arba « Lingwen ».
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: 'Lengvenis grįžo atgal ir, kaip vienas veikliausių Vytauto karo vadų, jam kelioliką metų ištikimai tarnavo.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Patyręs apie
+    savo dviejų brolių (Karigailos, Viganto — Aleksandro) mirtį, jis
+    grįžo atgal ir, kaip vienas veikliausių Vytauto karo vadų, jam
+    kelioliką metų ištikimai tarnavo.
+    Jogailos nepasisekimai kovoje su Vytautu Lenkijoje kėlė nepa­
+    sitenkinimo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/aktas]]
+
+### Susiję objektai
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Naugardas]]
+- [[objektai/asmenys/Jurgis (Lengvenio sūnus)]]
+- [[objektai/vietos/Kremenecas]]
+- [[objektai/vietos/Riazanė]]
+- [[objektai/vietos/Smolenskas]]
+- [[objektai/grupes/Smolensko pulkai]]
+- [[objektai/paprociai/Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais]]

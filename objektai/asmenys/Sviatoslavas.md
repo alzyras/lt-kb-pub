@@ -72,4 +72,14 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Mstislavlis]]
+- [[objektai/vietos/Polockas]]
+- [[objektai/vietos/Smolenskas]]
 - [[objektai/vietos/Vechra]]
+- [[objektai/asmenys/Andrius Polockietis]]
+- [[objektai/vietos/Fominos Berezuja]]
+- [[objektai/asmenys/Jurgis (Sviatoslavo sūnus)]]
+- [[objektai/ivykiai/Smolensko sukilimas po Vorsklos mūšio]]
+- [[objektai/ivykiai/Smolensko užėmimas (1405 m.)]]
+- [[objektai/ivykiai/Smolensko užėmimas ir Viazmos paėmimas (1396 m. rudenį)]]

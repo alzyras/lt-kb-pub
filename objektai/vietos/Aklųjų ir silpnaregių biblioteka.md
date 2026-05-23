@@ -56,3 +56,7 @@ Kai buvo užimti Lietuvos radijo ir televizijos pastatai, radijo laidų rengimas
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]

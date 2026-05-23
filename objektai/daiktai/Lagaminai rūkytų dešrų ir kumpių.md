@@ -75,4 +75,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Maskva]]
 - [[objektai/zodynas/dolgostrojai]]

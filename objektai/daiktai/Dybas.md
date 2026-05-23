@@ -70,4 +70,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/Vieža]]
+- [[objektai/zodynas/Vieža|vieža]]

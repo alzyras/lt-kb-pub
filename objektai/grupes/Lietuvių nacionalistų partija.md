@@ -43,4 +43,7 @@ Daugumai ministrų atsisakius tapti tarėjais rugsėjo 26-ąją naciai uždarė 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/Voldemarininkų pučas ir Laikinosios vyriausybės veiklos uždraudimas (1941 m. liepos 23 d. - rugpjūčio 5 d.)]]

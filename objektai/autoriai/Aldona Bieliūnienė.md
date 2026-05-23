@@ -44,3 +44,7 @@ Bieliūnienė ir kiti. Parengė Aldona Bieliūnienė ir kiti.
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/žemėlapis]]
+
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Viena]]

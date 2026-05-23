@@ -8,6 +8,7 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
+  - '1309 m.'
   - '1410 m.'
   - '1936 m.'
   - '2013 m.'
@@ -17,10 +18,11 @@ periodo_grupes:
   - 'LDK'
   - 'modernioji Lietuva'
 amziai:
+  - 'XIV'
   - 'XV'
   - 'XX'
   - 'XXI'
-date_start: '1410'
+date_start: '1309'
 date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
@@ -55,6 +57,14 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
   teiginys: 'Žuvo pats didysis magistras Ulrichas fon Jungingenas, beveik visa likusi Ordino vadovybė, apie 200 Ordino riterių (trečioji dalis prūsiškųjų kryžiuočių) ir tūkstančiai eilinių kryžeivių bei samdinių.'
   pagrindžia:
     - c-004
+- t-009
+  teiginys: 'Jo priešaky stovėjo didysis magistras (Hochmeister) su taryba.'
+  pagrindžia:
+    - c-005
+- t-010
+  teiginys: 'Todėl 1309 m. didysis magistras su visa taryba atsikėlė į Marijenburgą, ir nuo to laiko vad. Prūsijos krašto magistrai išnyko, nes vadovybę perėmė patsai didysis magistras.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -126,8 +136,52 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-005
+  santrauka: 'Jo priešaky stovėjo didysis magistras (Hochmeister) su taryba.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    ** Savo organizaciją ordinas at-
+    sinešė jau gatavą, susidariusią dar Palestinoje. Jo priešaky sto-
+    vėjo didysis magistras _(Hochmeister)_ su taryba. Tuo metu, kai
+    ordinas atsikėlė į Pabaltijį, jo magistras gyveno jau Italijoje,
+    nes beveik visas jo Palestinoje turėtąsias žemes ir pilis jau buvo
+    atėmę turkai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-006
+  santrauka: 'Todėl 1309 m. didysis magistras su visa taryba atsikėlė į Marijenburgą, ir nuo to laiko vad. Prūsijos krašto magistrai išnyko, nes vadovybę perėmė patsai didysis magistras.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Todėl 1309 m. didysis ma-
+    gistras su visa taryba atsikėlė į Marijenburgą, ir nuo to laiko vad.
+    Prūsijos krašto magistrai išnyko, nes vadovybę perėmė patsai
+    didysis magistras.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Ulrichas von Jungingenas]]
 - [[objektai/zodynas/krašto magistras]]
+- [[objektai/vietos/Palestina]]
+- [[objektai/vietos/Prūsija]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/ivykiai/Lietuvos ir ordino sienos galutinis patvirtinimas pagal Melno taiką (1422 m.)]]
+- [[objektai/vietos/Marijenburgas]]
+- [[objektai/ivykiai/Melno taikos ratifikavimas Veliuonoje (1423 m. gegužė)]]
+- [[objektai/vietos/Neumarkas]]
+- [[objektai/asmenys/Ulrichas fon Jungingenas]]
+- [[objektai/zodynas/rezervas]]
+- [[objektai/posakiai/supremus dux]]
+- [[objektai/ivykiai/Kryžiuočių ordino sostinės perkėlimas į Marijenburgą (1309 m.)]]
+- [[objektai/vietos/Torno]]

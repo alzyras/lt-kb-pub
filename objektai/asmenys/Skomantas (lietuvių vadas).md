@@ -63,3 +63,8 @@ Kitais metais sūduvių ir lietuvių vadas Skomantas (Didžiojo magistro kroniko
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/ežeras]]
+
+### Susiję objektai
+- [[objektai/vietos/Kulmas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]

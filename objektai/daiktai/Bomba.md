@@ -9,18 +9,18 @@ saltiniai:
   - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
 bukle: "juodrastis"
 laikotarpis: "Himanso plano krizės kontekstas"
-datos:
-  - "lapkričio 15 d."
-periodas: "siuolaikine_istorija"
-periodo_grupes:
-  - "tarpukaris"
-amziai:
-  - "XX"
-date_start: "1921"
-date_end: "1921"
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1921 m.'
+periodas: 'siuolaikine_istorija'
+periodo_grupes:
+  - 'tarpukaris'
+amziai:
+  - 'XX'
+date_start: '1921'
+date_end: ''
 patikimumas: "vidutinis"
 tags:
   - ginklas
@@ -68,6 +68,10 @@ Nenurodyta
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-010
+  teiginys: 'Galvanausko miegamojo palangės sprogo padėta bomba – daugelyje vietų sužeistas E.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -104,5 +108,35 @@ Nenurodyta
   pagrindžia:
     - t-007
     - t-008
+- c-003
+  santrauka: 'Galvanausko miegamojo palangės sprogo padėta bomba – daugelyje vietų sužeistas E.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplo-
+    matai, tačiau priešinosi visos politinės partijos, karinė vadovybė, Lietu-
+    vos šaulių sąjunga, grasinta net perversmu – planas vertintas kaip lenkų
+    Trojos arklys. Jį atmesti ragino Vokietijos ir Rusijos diplomatai. Lapkričio
+    15  dieną Kaune ant derybininko E. Galvanausko miegamojo palangės
+    sprogo padėta bomba – daugelyje vietų sužeistas E.  Galvanauskas liko
+    gyvas, tačiau atentatas niekuomet nebuvo tirtas, o kaltininkai nesurasti.
+    Lenkijos ir Lietuvos federacijos planas suiro, o triumfavo... Maskva, tai
+    įvertinusi kaip patį didžiausią savo diplomatijos laimėjimą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
 
 ## Šaltiniai ir įrodymai
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Kaunas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Vokietija]]
+- [[objektai/zodynas/diplomatija]]

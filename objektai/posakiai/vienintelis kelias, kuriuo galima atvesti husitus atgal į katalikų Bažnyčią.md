@@ -84,3 +84,12 @@ Vytautas tad stojo vidury tarp husitų ir popiežiaus. Tad Vytautas įsakė grį
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Kaributas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Ryga]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Čekai]]
+- [[objektai/grupes/Žemaičiai]]

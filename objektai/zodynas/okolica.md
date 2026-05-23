@@ -45,3 +45,7 @@ Ypač tas ryškiai matyti, palyginus lietuviškąjį kaimą su greta esančiomis
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]

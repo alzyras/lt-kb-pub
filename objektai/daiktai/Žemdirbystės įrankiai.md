@@ -157,3 +157,7 @@ Nenurodyta
 ### Teminiai klasteriai
 - [[temos/įrankis]]
 - [[temos/ūkio-įrankis]]
+
+### Susiję objektai
+- [[objektai/zodynas/Ašvienis|ašvienis]]
+- [[objektai/grupes/Žemaičiai]]

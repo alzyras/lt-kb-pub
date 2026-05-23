@@ -49,3 +49,8 @@ Esant poreikiui agentai-smogikai apjungiami į kovines-agentūrines grupes.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Agentai-smogikai]]
+- [[objektai/zodynas/rezervas]]

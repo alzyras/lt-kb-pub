@@ -6,6 +6,12 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - kraštas
@@ -32,8 +38,45 @@ Susikūrus Tautų Sąjungai (pagal Versalio sutartį, pasirašytą 1919 metų bi
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Versalio sutarties 28 straipsnis iš tiesų atribojo Klaipėdos kraštą nuo Vokietijos ir perdavė laikinai sąjungininkų kontrolei.'
+  pagrindžia:
+    - c-003
+- t-004
+  teiginys: 'Pagal Versalio sutartį Klaipėdą valdė prancūzų administracija, remiama bataliono prancūzų pėstininkų.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
+- c-003
+  santrauka: 'Versalio sutarties 28 straipsnis iš tiesų atribojo Klaipėdos kraštą nuo Vokietijos ir perdavė laikinai sąjungininkų kontrolei.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Versalio
+    sutarties 28 straipsnis iš tiesų atribojo Klaipėdos kraštą nuo Vokietijos ir
+    perdavė laikinai sąjungininkų kontrolei. Prancūzija Žoržo B.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Pagal Versalio sutartį Klaipėdą valdė prancūzų administracija, remiama bataliono prancūzų pėstininkų.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Pagal Versalio sutartį Klaipėdą valdė prancūzų admi-
+    nistracija, remiama bataliono prancūzų pėstininkų. Prancūzai skelbė, kad
+    Klaipėda gali tapti Lietuvos, bet tik susivienijusios su Lenkija, dalimi. Mat
+    ir Lenkija neslėpė savo planų įsitvirtinti Klaipėdoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Bibliografiniai įrodymai
 - c-001

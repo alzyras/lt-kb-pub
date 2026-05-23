@@ -53,3 +53,8 @@ Gustavo Adolfo duktė Kristina, kuriai buvo pripažintas sostas, susipykusi su s
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Vokietija]]
+- [[objektai/vietos/Švedija]]

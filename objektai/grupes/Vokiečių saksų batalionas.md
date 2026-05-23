@@ -54,3 +54,10 @@ Stapulionio vadovaujamas Joniškėlio partizanų batalionas, Šeduvos-Panevėži
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/vietos/Šeduva]]
+- [[objektai/asmenys/A. Stapulionis]]
+- [[objektai/grupes/Joniškėlio partizanų batalionas]]

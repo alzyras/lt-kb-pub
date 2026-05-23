@@ -69,3 +69,6 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/papuošalas]]
+
+### Susiję objektai
+- [[objektai/autoriai/Simono Grunau]]

@@ -50,3 +50,15 @@ Monografijoje yra 320 puslapiu.
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/žemėlapis]]
+
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/autoriai/A. Alekna]]
+- [[objektai/autoriai/A. Lewickis]]
+- [[objektai/autoriai/Alfredas Bumblauskas]]
+- [[objektai/grupes/Sakalo bendrovė]]
+- [[objektai/autoriai/W. Hubatsch]]
+- [[objektai/autoriai/Kryczyński, St]]
+- [[objektai/grupes/Lietuvos Karininkų Ramovė]]
+- [[objektai/autoriai/P. Šležas]]
+- [[objektai/autoriai/St. Kryczyński]]

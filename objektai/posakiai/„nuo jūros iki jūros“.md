@@ -45,3 +45,13 @@ Lietuvos pripažinimo reikalai nejudėjo į priekį, daugybė durų jai buvo už
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Baltija]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Prancūzija]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/zodynas/karo grobis]]
+- [[objektai/zodynas/didvalstybė]]

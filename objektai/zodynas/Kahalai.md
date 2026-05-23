@@ -40,3 +40,10 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuvos žydų taryba (Vaad)]]
+- [[objektai/ivykiai/Lietuvos žydų tarybos (Vaad) sudarymas (1920 m.)]]
+- [[objektai/zodynas/kahalai sėslumo riba]]

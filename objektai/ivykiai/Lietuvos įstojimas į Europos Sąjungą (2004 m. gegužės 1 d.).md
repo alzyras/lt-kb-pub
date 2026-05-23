@@ -71,3 +71,8 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/ivykiai/Lietuvos įstojimas į ES ir NATO (2004 m.)]]

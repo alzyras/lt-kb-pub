@@ -77,3 +77,13 @@ Vartojamos formos: `adynas`, `sambrėškis`, `brėkšta`, `santėmis`, `sutemo`,
 ## Pastabos
 
 - Dalis pavadinimų turi sinonimines poras, bet pats paros skirstymo modelis aiškus.
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Anglija]]
+- [[objektai/grupes/Daukšių būrys]]
+- [[objektai/vietos/Ispanija]]
+- [[objektai/daiktai/Kūtė]]
+- [[objektai/daiktai/Prisikėlimo apygardos partizanų antsiuvas]]
+- [[objektai/daiktai/Troba]]
+- [[objektai/grupes/Žuvinto-Palių junginys]]

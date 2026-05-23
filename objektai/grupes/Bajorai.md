@@ -6,6 +6,13 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai:
+  - 'XIX'
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - bajorija
@@ -68,6 +75,10 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
     - c-008
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-009
+  teiginys: 'Nušalinta nuo politinės valdžios bajorija viešpatavo socialiniame visuomenės gyvenime, o bajorų luomas Lenkijoje ir Lietuvoje buvo santykinai kur kas gausesnis nei bet kur kitur Europoje ir sudarė apie 6,5 proc.'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -195,3 +206,85 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-008
+- c-009
+  santrauka: 'Nušalinta nuo politinės valdžios bajorija viešpatavo socialiniame visuomenės gyvenime, o bajorų luomas Lenkijoje ir Lietuvoje buvo santykinai kur kas gausesnis nei bet kur kitur Europoje ir sudarė apie 6,5 proc.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Nušalinta nuo politinės valdžios bajorija vieš-
+    patavo socialiniame visuomenės gyvenime, o bajorų luomas Lenkijoje ir
+    Lietuvoje buvo santykinai kur kas gausesnis nei bet kur kitur Europoje
+    ir sudarė apie 6,5 proc. krašto gyventojų (Europos ir Rusijos vidurkis –
+
+    3 skyrius •  R U S I J O S  I M P E R I J O S  VA L D O M A  L I E T U VA  ( 1 7 9 5 – 1 9 1 5 )
+    99
+    apie 1 proc.). Tačiau bajorai – dvarininkai sudarė tik ¼ dalį vietos bajorų
+    luomo, dauguma jų – mažažemiai ir bežemiai bajorai, kalbėję daugiausia
+    lenkų kalba ir puoselėję buvusio valstybingumo atminimą ir tradicijas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Europa]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/zodynas/luomas]]
+- [[objektai/autoriai/Aug. Janulaitis]]
+- [[objektai/paprociai/Bajorų prievolės valstybei]]
+- [[objektai/vietos/Berlynas]]
+- [[objektai/vietos/Braclavas]]
+- [[objektai/paprociai/Carinės „lenkų pradų naikinimo“ rusinimo praktikos]]
+- [[objektai/paprociai/Ceremoninis valdovo sutikimas ir miesto vartų atvėrimas]]
+- [[objektai/autoriai/D. Poška]]
+- [[objektai/daiktai/D. Poškos Baublys]]
+- [[objektai/asmenys/Galminas]]
+- [[objektai/asmenys/Getautas]]
+- [[objektai/vietos/Irpenė]]
+- [[objektai/asmenys/Julijona (Vytauto žmona)]]
+- [[objektai/autoriai/K. Avižonis]]
+- [[objektai/daiktai/Karūna]]
+- [[objektai/grupes/Lenkų bajorai]]
+- [[objektai/grupes/Lenkų bajorija]]
+- [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė]]
+- [[objektai/grupes/Lietuvos Karininkų Ramovė]]
+- [[objektai/ivykiai/Lietuvos Valstybės Konstitucijos priėmimas (1922 m. rugpjūčio 1 d.)]]
+- [[objektai/ivykiai/Liublino unija (1569 m.)]]
+- [[objektai/vietos/Podolija]]
+- [[objektai/ivykiai/Raseinių bajorų sukilimas ir Raseinių užėmimas (1831 m. kovo 25 d.)]]
+- [[objektai/asmenys/Rumbaudas]]
+- [[objektai/vietos/Salynas]]
+- [[objektai/grupes/Senalietuviai]]
+- [[objektai/ivykiai/Smolensko užėmimas (1405 m.)]]
+- [[objektai/asmenys/Vasibutas]]
+- [[objektai/asmenys/Vilhelmas Habsburgas]]
+- [[objektai/vietos/Volos kaimas]]
+- [[objektai/vietos/Volos kaimo laukas]]
+- [[objektai/ivykiai/Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas]]
+- [[objektai/vietos/Zakračimas]]
+- [[objektai/zodynas/alodas alodinė nuosavybė|alodas / alodinė nuosavybė]]
+- [[objektai/zodynas/egzekucija]]
+- [[objektai/zodynas/luomas subluomas]]
+- [[objektai/zodynas/perdėtinis]]
+- [[objektai/zodynas/savarankiškumas]]
+- [[objektai/zodynas/senalietuviai jaunalietuviai]]
+- [[objektai/zodynas/činšininkas]]
+- [[objektai/grupes/Žydai]]
+- [[objektai/posakiai/„Lietuvos laisvamanybės lizdą“]]
+- [[objektai/posakiai/„Lietuvos žemės druska“]]
+- [[objektai/paprociai/Bajorų dalyvavimas svarbiausių aktų sudaryme]]
+- [[objektai/ivykiai/Baro konfederacija (1768–1772 m.)]]
+- [[objektai/daiktai/Herbas]]
+- [[objektai/paprociai/Husarų vėliavų „draugų“ ir palydos sistema]]
+- [[objektai/asmenys/Kurovičius]]
+- [[objektai/paprociai/Lietuvos bajorijos seimai]]
+- [[objektai/posakiai/Mūsų brolis yra laisvas]]
+- [[objektai/zodynas/pastočiai]]
+- [[objektai/zodynas/vietininkas]]
+- [[objektai/zodynas/visuotinis bajorijos stojimas]]

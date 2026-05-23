@@ -67,3 +67,9 @@ Tačiau bajorai – dvarininkai sudarė tik ¼ dalį vietos bajorų luomo, daugu
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]

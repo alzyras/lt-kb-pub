@@ -46,3 +46,17 @@ Gerai nemokėdami lietuviškai žydų atstovai Lietuvos Seime galėjo kalbėti j
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Europa]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/autoriai/Juozas Tumas (Vaižgantas)]]
+- [[objektai/paprociai/Litvakų rabininės tradicijos gynimas, Talmudo studijos ir savita gyvensena]]
+- [[objektai/autoriai/Maironis]]
+- [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]
+- [[objektai/zodynas/ješiva]]
+- [[objektai/zodynas/litvakai Lite litviš]]
+- [[objektai/zodynas/litvakas litviš]]
+- [[objektai/grupes/Žydai]]
+- [[objektai/grupes/Lietuviai]]

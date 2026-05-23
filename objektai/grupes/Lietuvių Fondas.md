@@ -131,3 +131,8 @@ Lietuvių Fondas šiame leidinyje rodomas kaip finansinis jo leidimo rėmėjas, 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]

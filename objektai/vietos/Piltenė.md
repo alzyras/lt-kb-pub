@@ -74,5 +74,19 @@ Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Piltenę, ir Saremos
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Jelgava]]
+- [[objektai/vietos/Kuršas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/vietos/Ryga]]
 - [[objektai/vietos/Saremos]]
+- [[objektai/asmenys/Steponas]]
+- [[objektai/vietos/Talinas]]
+- [[objektai/zodynas/vasalas]]
+- [[objektai/zodynas/vyskupystė]]
+- [[objektai/grupes/Švedai]]
+- [[objektai/vietos/Žiemgala]]
+- [[objektai/autoriai/Petras Dusburgietis]]
+- [[objektai/asmenys/Vytenis (Lietuvos karalius)]]
 - [[objektai/vietos/Tartai]]

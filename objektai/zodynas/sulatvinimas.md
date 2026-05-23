@@ -45,3 +45,9 @@ Apskritai stoka lietuviškų mokyklų ir savos inteligentijos, mišros vedybos i
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Latviai]]
+- [[objektai/vietos/Latvija]]
+- [[objektai/grupes/Lietuviai]]

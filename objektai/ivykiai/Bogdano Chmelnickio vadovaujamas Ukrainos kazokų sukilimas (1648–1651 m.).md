@@ -42,7 +42,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: '1648 m. vasarą kazokai ėmė veržtis į LDK pietrytinės sritis.'
+  teiginys: '1648 m. vasarą sukilę kazokai veržėsi į LDK pietrytines sritis ir siautėjo Pinsko, Starodubo bei Mozyriaus apylinkėse.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -56,7 +56,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1648 m. vasarą kazokai ėmė veržtis į LDK pietrytinės sritis.'
+  santrauka: '1648 m. vasarą sukilę kazokai veržėsi į LDK pietrytines sritis ir siautėjo Pinsko, Starodubo bei Mozyriaus apylinkėse.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1648 m. vasarą kazokai ėmė veržtis į
@@ -101,3 +101,14 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kazokai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Lojevas]]
+- [[objektai/vietos/Mozyrius]]
+- [[objektai/vietos/Ovručas]]
+- [[objektai/vietos/Starodubas]]
+- [[objektai/vietos/Ukraina]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

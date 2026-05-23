@@ -35,6 +35,14 @@ Derybos prasidėjo Briuselyje 1921 metų balandžio 20 d.
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Įstojusi į Europos Sąjungą, Lietuva gali Briuselyje reikšti savo poziciją įvairiais klausimais ir paveikti ES sprendimus.'
+  pagrindžia:
+    - c-002
+- t-003
+  teiginys: 'Derybos prasidėjo Briuselyje 1921 metų balandžio 20 d. Iš lietuvių ir lenkų delegacijų padarytų griežtai priešingų pareiškimų pirmininkas Hymansas norėjo sudaryti tokį kompromisą, kuriuo Lietuvai atiduodamas Vilnius ir jo sritis surištų Lietuvą tam tikrais.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -61,3 +69,54 @@ Derybos prasidėjo Briuselyje 1921 metų balandžio 20 d.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Įstojusi į Europos Sąjungą, Lietuva gali Briuselyje reikšti savo poziciją įvairiais klausimais ir paveikti ES sprendimus.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuvos prezidentas Algirdas Brazauskas ir
+    užsienio reikalų ministras Antanas Valionis pasirašo stojimo į
+    Europos Sąjungą sutartį
+
+    L I E T U V O S  I S T O R I J A
+    262
+    Lietuva, įstojusi į ES, gali Briuselyje reikšti savo poziciją įvairiais klau-
+    simais ir net paveikti ES sprendimus – ji turi savo komisarą, Europarla-
+    mente – 12 europarlamentarų. Taigi, nors pavienės šalies įtaka ES spren-
+    dimams nedidelė, Vidurio ir Rytų Europos šalių pozicijoms tam tikrais
+    atvejais sutapus, jų kolektyvinė galia gali gerokai padidėti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Derybos prasidėjo Briuselyje 1921 metų balandžio 20 d. Iš lietuvių ir lenkų delegacijų padarytų griežtai priešingų pareiškimų pirmininkas Hymansas norėjo sudaryti tokį kompromisą, kuriuo Lietuvai atiduodamas Vilnius ir jo sritis surištų Lietuvą tam tikrais.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Derybos prasidėjo Briuselyje 1921 metų balandžio 20 d.
+    Iš lietuvių ir lenkų delegacijų padarytų griežtai priešingų pa-
+    reiškimų pirmininkas Hymansas norėjo sudaryti tokį kompro-
+    misą, kuriuo Lietuvai atiduodamas Vilnius ir jo sritis surištų
+
+
+    Lietuvą tam tikrais politiniais, kariniais ir ekonominiais ryšiais
+    su Lenkija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/asmenys/Antanas Valionis]]
+- [[objektai/vietos/Atėnai]]

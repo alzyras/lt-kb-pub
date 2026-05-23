@@ -66,4 +66,5 @@ Socialiniu atžvilgiu ši epocha yra charakterizuojama išryškė­ jusią luomi
 - [[temos/didikas]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Kazimieras]]
 - [[objektai/paprociai/Bajorijos stiprinimas valdovo privilegijomis]]

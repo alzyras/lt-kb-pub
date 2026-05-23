@@ -56,3 +56,8 @@ Pačioje XIII amž. pabaigoje Lietuvos istorijos šaltiniai mini ma­ žai žino
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
+
+### Susiję objektai
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Mindaugas]]

@@ -103,3 +103,10 @@ Terminais žymimos senosios kulto vietos ir šventovės. Kartu pabrėžiama, kad
 ## Šaltiniai ir įrodymai
 
 ## Pastabos
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Viena]]
+- [[objektai/zodynas/kunigas]]
+- [[objektai/vietos/Romuva]]

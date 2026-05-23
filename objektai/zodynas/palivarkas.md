@@ -43,3 +43,11 @@ Išmatavus žemę, geriausiose vietose buvo steigiami dvarai ir palivarkai, o ap
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/ivykiai/Biržų (Medeikių) mūšis]]
+- [[objektai/ivykiai/Biržų (Medeikių) mūšis (1863 m.)]]
+- [[objektai/paprociai/Kunigo A. Mackevičiaus religinės apeigos sukilėlių stovykloje]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/asmenys/Zigmantas Sierakauskas]]

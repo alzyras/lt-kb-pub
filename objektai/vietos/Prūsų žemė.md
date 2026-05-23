@@ -59,3 +59,9 @@ Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų kraštas, būtent, P
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Livonija]]
+- [[objektai/vietos/Ryga]]
+- [[objektai/asmenys/Vilhelmas]]

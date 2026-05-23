@@ -76,4 +76,19 @@ Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumen
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/unija]]
+- [[objektai/grupes/Baro konfederacija]]
+- [[objektai/vietos/Eglainė]]
+- [[objektai/grupes/Lenkų bajorai]]
+- [[objektai/grupes/Lenkų bajorija]]
+- [[objektai/ivykiai/Padalinamasis seimas (1773–1775 m.)]]
+- [[objektai/grupes/Radomo konfederacija]]
+- [[objektai/asmenys/Stanislovas Augustas Poniatauskas]]
+- [[objektai/ivykiai/Varšuvos konfederacinis seimas (1768 m.)]]
+- [[objektai/vietos/Vidugiriai]]
+- [[objektai/zodynas/perdėtinis]]
+- [[objektai/zodynas/savarankiškumas]]
+- [[objektai/daiktai/Antspaudas]]
+- [[objektai/ivykiai/Radomo konfederacija (1767 m.)]]
 - [[objektai/ivykiai/Vilniaus-Radomo susitarimas]]

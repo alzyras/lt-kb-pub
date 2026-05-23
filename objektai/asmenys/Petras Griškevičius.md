@@ -82,3 +82,8 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/pertvarka perestroika]]
+- [[objektai/posakiai/„Lietuvą padaryti internacionalinę“]]

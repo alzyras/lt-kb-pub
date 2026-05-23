@@ -90,3 +90,10 @@ Kuruta, bet pastarasis vadovavimą (laikinai) perdavė gabiam generolui leitenan
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Podolė]]
+- [[objektai/grupes/Rytas]]
+- [[objektai/vietos/Ukmergė]]
+- [[objektai/vietos/Vilnius]]

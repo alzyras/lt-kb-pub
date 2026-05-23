@@ -56,4 +56,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Dancigas]]
 - [[objektai/vietos/Gdanskas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/lietuvininkai]]

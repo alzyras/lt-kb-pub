@@ -55,3 +55,14 @@ Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vil
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/didikas]]
+
+### Susiję objektai
+- [[objektai/grupes/Domininkonų ordinas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/ivykiai/Mindaugo krikštas]]
+- [[objektai/grupes/Pranciškonų ordinas]]
+- [[objektai/vietos/Viena]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/grupes/ATAS]]
+- [[objektai/vietos/Peštvė]]
+- [[objektai/vietos/Žvėryno tiltas]]

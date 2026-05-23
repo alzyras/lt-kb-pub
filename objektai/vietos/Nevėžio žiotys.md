@@ -55,5 +55,9 @@ Siekdamas atkurti gynybą NemunoNeries-Nevėžio žiočių ruože, Kęstutis sta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Kaunas]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Nemunas]]
+- [[objektai/vietos/Nevėžis]]
 - [[objektai/vietos/Naujasis Kaunas]]
-- [[objektai/vietos/Vyrgalės sala]]

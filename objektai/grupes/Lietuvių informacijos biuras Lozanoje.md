@@ -43,4 +43,8 @@ JAV lietuviai finansiškai rėmė Lietuvių informacijos biuro Lozanoje veiklą 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/JAV lietuviai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Lozana]]
 - [[objektai/asmenys/Juozas Gabrys-Paršaitis]]

@@ -72,5 +72,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/Strūnijo|strūnijo]]
 - [[objektai/paprociai/Savarankiškas ūkio ir namų dirbinių gaminimas]]
-- [[objektai/zodynas/Strūnijo]]

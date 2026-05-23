@@ -40,3 +40,10 @@ sandūros Vilnių priskiria pirmam žydų pasaulinių kultūros centrų dešimtu
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Tunisas]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/vietos/Salonikai]]
+- [[objektai/vietos/Stambulas]]

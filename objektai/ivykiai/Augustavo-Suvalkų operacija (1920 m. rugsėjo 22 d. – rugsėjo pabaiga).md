@@ -183,3 +183,12 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-010
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Nemunas]]
+- [[objektai/vietos/Varėna]]
+- [[objektai/vietos/Sviečė]]

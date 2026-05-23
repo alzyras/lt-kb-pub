@@ -63,3 +63,7 @@ Mat, lig šiol savų parapijinių mokyklų teturi vos pusė lietuviškųjų para
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]

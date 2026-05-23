@@ -68,4 +68,5 @@ Planinės ekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad, paėmus 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Fransua Miteranas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Prancūzija]]

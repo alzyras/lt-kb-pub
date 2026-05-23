@@ -66,3 +66,12 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Kaributas]]
+- [[objektai/vietos/Praga]]
+- [[objektai/zodynas/ciesorius]]
+- [[objektai/zodynas/vietininkas]]
+- [[objektai/grupes/Čekai]]
+- [[objektai/zodynas/žygis]]

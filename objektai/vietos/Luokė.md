@@ -52,3 +52,14 @@ Kaip jau matėme, 1416 metais Vytautas Varniuose pastatė katedrą ir aštuonias
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Konstancija]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/vietos/Viena]]
+- [[objektai/vietos/Airiogala]]
+- [[objektai/vietos/Kaltinėnai]]
+- [[objektai/vietos/Kelmė]]
+- [[objektai/vietos/Viduklė]]

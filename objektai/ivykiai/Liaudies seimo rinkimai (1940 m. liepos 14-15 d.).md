@@ -80,5 +80,11 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/liaudies priešai]]
+- [[objektai/asmenys/A. Smetona|A. Smetona (prezidentas, XX a.)]]
+- [[objektai/vietos/Latvija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Viena]]
+- [[objektai/zodynas/aneksija]]
 - [[objektai/posakiai/„asmenys, kurie nebalsuos, yra liaudies priešai“]]
+- [[objektai/vietos/Estija]]
+- [[objektai/zodynas/liaudies priešai]]

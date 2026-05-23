@@ -52,5 +52,5 @@ dr. Baptista Cigala^16.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Viena]]
 - [[objektai/paprociai/Karaliaus vainikavimo ceremonialas be būtino vyskupo patepimo]]
-- [[objektai/paprociai/Karaliaus vainikavimo ir patepimo apeigos pagal ordines]]

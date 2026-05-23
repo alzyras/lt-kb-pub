@@ -65,3 +65,16 @@ Vartojamos formos: `aukos`, `aukas`.
 ## Pastabos
 
 - Terminas gana platus, apima ir apeigų tvarką, ir patį aukojimo veiksmą.
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/paprociai/Aukojimas ant auko kalnų ir didžiųjų akmenų]]
+- [[objektai/daiktai/Baltijos kelio gedulo kaspinai ir žvakutės]]
+- [[objektai/daiktai/Gintaras]]
+- [[objektai/grupes/JAV lietuviai]]
+- [[objektai/paprociai/Kieminė auka Perūnui per audrą]]
+- [[objektai/paprociai/Sueiga į šventą girią baisios aukos atlikti]]
+- [[objektai/zodynas/Sutartinės|sutartinės]]
+- [[objektai/daiktai/Dievų stabai]]
+- [[objektai/paprociai/Išeiginės aukos per metines viešes]]
+- [[objektai/paprociai/Maro aukų laidojimas Šv. Roko vienuolių eremitų rankomis]]

@@ -55,4 +55,7 @@ Apygradoje prasidėjo reorganizacija: Prisikėlimo apygardos vadu tapo Povilas M
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/ivykiai/Užpelkių kautynės]]
+- [[objektai/grupes/Prisikėlimo apygarda]]
+- [[objektai/ivykiai/Užpelkių kautynės (1949 m.)]]
 - [[objektai/grupes/Maironio rinktinė]]

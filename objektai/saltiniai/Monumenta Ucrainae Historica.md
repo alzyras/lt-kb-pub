@@ -35,7 +35,7 @@ tags:
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Šeptyckyj : Monumenta Ucrainae Historica, t.'
+  teiginys: 'A. Šeptyckio „Monumenta Ucrainae Historica“ I–XII tomai išleisti Romoje 1964–1975 m., redaguojant V. Jatuliui.'
   pagrindžia:
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -64,7 +64,7 @@ tags:
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Šeptyckyj : Monumenta Ucrainae Historica, t.'
+  santrauka: 'A. Šeptyckio „Monumenta Ucrainae Historica“ I–XII tomai išleisti Romoje 1964–1975 m., redaguojant V. Jatuliui.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     (^149) **Bendroje Bazilijonų ordino « Analecta » II serijos 3 sekcijoje šalti­

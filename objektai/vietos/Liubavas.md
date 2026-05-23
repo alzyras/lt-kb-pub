@@ -46,3 +46,7 @@ Ih pradėjom sukti Liubavo link, kur kaip tik buvo pats bolševikų centras.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/žygis]]

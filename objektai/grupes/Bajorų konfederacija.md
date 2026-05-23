@@ -51,3 +51,17 @@ Prieš švedus ir jų sąjungininkus taip pat kovojo vadinamoji bajorų konfeder
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Mykolas]]
+- [[objektai/zodynas/konfederacija]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/vietos/Biržų pilis]]
+- [[objektai/asmenys/Jonas Kazimieras Vaza]]
+- [[objektai/asmenys/Kristupas Pacas]]
+- [[objektai/asmenys/Mykolas Pacas]]
+- [[objektai/ivykiai/Žemaičių sukilimas (1656 m.)]]
+- [[objektai/grupes/Pacai]]

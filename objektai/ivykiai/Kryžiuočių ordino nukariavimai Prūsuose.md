@@ -148,3 +148,9 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Prūsai]]
+- [[objektai/vietos/Vokietija]]

@@ -11,15 +11,19 @@ saltiniai:
   - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
 bukle: juodrastis
 laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1920 m.'
+  - '1922 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+date_start: '1920'
+date_end: '1922'
 patikimumas: "vidutinis"
 tags:
   - vieta
@@ -71,6 +75,18 @@ Vieta siejama su Lietuvos ir Lenkijos konfliktu dėl Vilniaus po Pirmojo pasauli
     - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-018
+  teiginys: 'Būtent ši samprata iškilo 1920 m. Lenkijos ir Lietuvos konflikto dėl Vilniaus metu, kai Vilniaus krašte buvo suformuota „Vidurinė Lietuva“.'
+  pagrindžia:
+    - c-005
+- t-019
+  teiginys: 'Iš tikrųjų tai buvo lenkiška Lietuvos samprata: 1922 m. Lenkijos valia vykusiuose rinkimuose gen.'
+  pagrindžia:
+    - c-006
+- t-020
+  teiginys: 'Lenkai, matydami Lietuvos vykdomą lenkų dvarininkų ekonominės jėgos silpninimą (nepriklausomybės kare daugiausia lenkų dvaruose vykdytos arklių, pašarų, maisto rekvizicijos) ir žemės valdų apkarpymą, nebelaukė.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -132,6 +148,54 @@ Vieta siejama su Lietuvos ir Lenkijos konfliktu dėl Vilniaus po Pirmojo pasauli
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-017
+- c-005
+  santrauka: 'Būtent ši samprata iškilo 1920 m. Lenkijos ir Lietuvos konflikto dėl Vilniaus metu, kai Vilniaus krašte buvo suformuota „Vidurinė Lietuva“.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Būtent ši samprata iškilo 1920 m.
+    Lenkijos ir Lietuvos konflikto dėl Vilniaus metu, kai Vilniaus krašte buvo
+    suformuota „Vidurinė Lietuva“. Remiantis tokia lenkiška Lietuvos sam-
+    prata, Lietuvos Respublika buvo vadinama „Kauno Lietuva“, o žemaičių
+    tarmė – lietuvių kalba.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018
+- c-006
+  santrauka: 'Iš tikrųjų tai buvo lenkiška Lietuvos samprata: 1922 m. Lenkijos valia vykusiuose rinkimuose gen.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Iš tikrųjų tai buvo lenkiška Lietuvos
+    samprata: 1922 m. Lenkijos valia vykusiuose rinkimuose gen. Liucijano
+    Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje „Vi-
+    durinė Lietuva“ su Vilniumi, balsuota taip, kad ji taptų Lenkijos dalimi.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019
+- c-007
+  santrauka: 'Lenkai, matydami Lietuvos vykdomą lenkų dvarininkų ekonominės jėgos silpninimą (nepriklausomybės kare daugiausia lenkų dvaruose vykdytos arklių, pašarų, maisto rekvizicijos) ir žemės valdų apkarpymą, nebelaukė.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lenkai, matydami Lietuvos vykdomą lenkų dvarininkų ekonominės
+    jėgos silpninimą (nepriklausomybės kare daugiausia lenkų dvaruose
+    vykdytos arklių, pašarų, maisto rekvizicijos) ir žemės valdų apkarpymą,
+    nebelaukė. 1922 m. sausį jie surengė rinkimus Vilniaus krašte – Viduri-
+    nėje Lietuvoje, kuri formaliai prisijungė prie Lenkijos, o Lietuva liko „nei
+    karo, nei taikos“ situacijoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020
 
 ## Šaltiniai ir įrodymai
 
@@ -142,8 +206,19 @@ Vieta siejama su Lietuvos ir Lenkijos konfliktu dėl Vilniaus po Pirmojo pasauli
 - [[temos/lietuva]]
 
 ### Susiję objektai
-- [[objektai/asmenys/L. Želigovskis]]
-- [[objektai/asmenys/Liucijanas Želigovskis]]
-- [[objektai/ivykiai/Vidurinės Lietuvos rinkimai ir prijungimo prie Lenkijos sprendimas (1922 m.)]]
-- [[objektai/zodynas/administracinė linija demarkacijos linija]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvos Respublika]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Žemaičiai]]
 - [[objektai/posakiai/„nei karo, nei taikos“]]
+- [[objektai/asmenys/J. Pilsudskis]]
+- [[objektai/asmenys/Juzefas Pilsudskis]]
+- [[objektai/asmenys/L. Želigovskis]]
+- [[objektai/vietos/Suvalkai]]
+- [[objektai/zodynas/administracinė linija demarkacijos linija]]
+- [[objektai/zodynas/demarkacijos linija]]

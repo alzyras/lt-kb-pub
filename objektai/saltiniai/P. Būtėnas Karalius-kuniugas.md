@@ -28,7 +28,7 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: '(”) Karalius-kuniugas, Karys, 1971, 193-197, 227-230, 263-265, 306- 311 p. — Chodynicki, K.'
+  teiginys: 'P. Būtėno „Karalius-kuniugas“ paskelbtas žurnale „Karys“ 1971 m., p. 193-197, 227-230, 263-265 ir 306-311.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -38,7 +38,7 @@ tags:
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: '(”) Karalius-kuniugas, Karys, 1971, 193-197, 227-230, 263-265, 306- 311 p. — Chodynicki, K.'
+  santrauka: 'P. Būtėno „Karalius-kuniugas“ paskelbtas žurnale „Karys“ 1971 m., p. 193-197, 227-230, 263-265 ir 306-311.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Adamus, J. : _O tytule panującego i paóstwa litewskiego,_ KH, t. 49,

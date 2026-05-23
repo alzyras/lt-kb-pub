@@ -84,3 +84,13 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/laiškas]]
+
+### Susiję objektai
+- [[objektai/asmenys/Juozas Lukša-Skirmantas]]
+- [[objektai/asmenys/Kazimieras]]
+- [[objektai/asmenys/Kazimieras Pyplys-Mažytis]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/SSRS]]
+- [[objektai/asmenys/Pijus XII]]
+- [[objektai/zodynas/geležinė uždanga]]

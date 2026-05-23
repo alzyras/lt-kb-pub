@@ -99,4 +99,13 @@ Sausio 12 d. Aukščiausioji Taryba - Atkuriamasis Seimas, vadovaujamas pirminin
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Vytautas Landsbergis]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/vietos/Aukščiausiosios Tarybos rūmai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Pskovas]]
+- [[objektai/vietos/SSRS]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/tautos atstovai]]
+- [[objektai/zodynas/vora]]
+- [[objektai/grupes/Aukščiausioji Taryba-Atkuriamasis Seimas]]

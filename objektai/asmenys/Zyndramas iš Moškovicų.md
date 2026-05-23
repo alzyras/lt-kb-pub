@@ -51,3 +51,9 @@ Tada karalius lenkų kariuomenės ve­ dimą atidavė Zyndramui iš Moškovicų,
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Drevenca]]
+- [[objektai/vietos/Krokuva]]
+- [[objektai/grupes/Lenkai]]

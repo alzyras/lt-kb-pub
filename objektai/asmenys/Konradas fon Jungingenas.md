@@ -65,3 +65,9 @@ Munkaviškės Didysis Ordino magistras, vyriausiasis Ordino kariuomenės vadas U
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Žalgiris]]

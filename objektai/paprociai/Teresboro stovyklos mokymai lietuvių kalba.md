@@ -103,5 +103,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Antanas Mackevičius]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/kunigas]]
 - [[objektai/paprociai/Kunigo A. Mackevičiaus religinės apeigos sukilėlių stovykloje]]

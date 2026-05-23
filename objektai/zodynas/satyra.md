@@ -93,3 +93,7 @@ Satyros ir juokai. Šioj, dailiai išleistoj knygelėj pateikta satyriška musų
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]

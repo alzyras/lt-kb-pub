@@ -35,6 +35,14 @@ Ypač tai jam buvo patogu dėl labai lengvos ir ne visai griežtos Torno taikos,
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Šitie pablogėję santykiai nepasitaisė ir po Torno sutarties (1411), nors joje ir buvo vėl susitarta dėl laisvos savitarpio prekybos.'
+  pagrindžia:
+    - c-002
+- t-003
+  teiginys: 'Torno taika Ordinui buvo nepaprastai lengva.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -55,7 +63,44 @@ Ypač tai jam buvo patogu dėl labai lengvos ir ne visai griežtos Torno taikos,
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Šitie pablogėję santykiai nepasitaisė ir po Torno sutarties (1411), nors joje ir buvo vėl susitarta dėl laisvos savitarpio prekybos.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Šitie pablogėję santykiai nepasitaisė ir po Torno sutarties
+    (1411), nors joje ir buvo vėl susitarta dėl laisvos savitarpio
+    prekybos. Kadangi Henrikas von Plauenas ruošėsi į naują karą,
+    aišku, kad nuoširdžių santykių su Vytautu negalėjo būti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Torno taika Ordinui buvo nepaprastai lengva.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    ```
+    273
+    ```
+    1411 mt. Torno taika Ordinui buvo nepaprastai lengva.
+    Net Žemaitijos jis atsižadėjo tik lig gyvos Vytauto ir Jogailos
+    galvos^1 ).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/autoriai/Henrikas]]
+- [[objektai/asmenys/Henrikas von Plauenas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/vietos/Torno]]
+- [[objektai/ivykiai/Torno taika (1411 m.)]]
+- [[objektai/vietos/Kulmas]]

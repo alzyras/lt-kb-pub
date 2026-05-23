@@ -71,3 +71,16 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Barbora Cyleikaitė]]
+- [[objektai/vietos/Bizantija]]
+- [[objektai/ivykiai/Karolio IV krikšto bandymas Lietuvoje (1358 m.)]]
+- [[objektai/vietos/Kazanė]]
+- [[objektai/zodynas/Klaipėdiškiai]]
+- [[objektai/vietos/Liegnitzas]]
+- [[objektai/vietos/Vokietija]]
+- [[objektai/zodynas/klaipėdiečiai klaipėdiškiai]]
+- [[objektai/zodynas/lėnininkai]]
+- [[objektai/zodynas/superarbitras]]

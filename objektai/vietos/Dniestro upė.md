@@ -62,3 +62,10 @@ Po nepasisekusių kovų Turkija netrukus pasirašė paliaubas, o pagal 1623 m. s
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/paliaubos]]
+
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/vietos/Chotinas]]
+- [[objektai/ivykiai/Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)]]
+- [[objektai/vietos/Dniestras]]
+- [[objektai/vietos/Turkija]]

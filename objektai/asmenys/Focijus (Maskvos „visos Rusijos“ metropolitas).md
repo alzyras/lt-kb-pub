@@ -61,6 +61,18 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
     - c-005
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-006
+  teiginys: 'Lietuvos stačiatikiams Focijus bu­ vo išsiuntinėjęs raštus, kuriuose kaltino Cemblaką, skelbė jį nuo Rytų Bažnyčios esant atskirtą, reikalavo jį iš Lietuvos visai iš­ tremti; pabėgusiems iš Lietuvos stačiatikiams žadėjo prieglaudą Maskvos kunigaikštijoje.'
+  pagrindžia:
+    - c-006
+- t-007
+  teiginys: 'Po Cem­ blako mirties Kijevo metropolitu Vytautas pripažino Maskvos Focijų (1421) ir prie unijos daugiau nebegrįžo, nors gyveno dar apie 9 metus.'
+  pagrindžia:
+    - c-007
+- t-008
+  teiginys: 'Jam mirus, Vytautas susitaikino su Maskvos „visos Rusijos“ metropolitu Focijumi^3 ) ir Kijevo me­ tropolija nebebuvo atnaujinta.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -158,7 +170,66 @@ Jo vieton Konstantinopolio patriarchas, iš tradicijos jau palaikąs rusus, metr
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Lietuvos stačiatikiams Focijus bu­ vo išsiuntinėjęs raštus, kuriuose kaltino Cemblaką, skelbė jį nuo Rytų Bažnyčios esant atskirtą, reikalavo jį iš Lietuvos visai iš­ tremti; pabėgusiems iš Lietuvos stačiatikiams žadėjo prieglaudą Maskvos kunigaikštijoje.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Lietuvos stačiatikiams Focijus bu­
+    vo išsiuntinėjęs raštus, kuriuose kaltino Cemblaką, skelbė jį nuo
+    Rytų Bažnyčios esant atskirtą, reikalavo jį iš Lietuvos visai iš­
+    tremti; pabėgusiems iš Lietuvos stačiatikiams žadėjo prieglaudą
+    Maskvos kunigaikštijoje. Tie raštai, suprantama, kėlė tarp sta­
+    čiatikių nesutikimų ir neramumų, nes vieni palaikė Gregorijų
+    Cemblaką, o kiti — Focijų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: 'Po Cem­ blako mirties Kijevo metropolitu Vytautas pripažino Maskvos Focijų (1421) ir prie unijos daugiau nebegrįžo, nors gyveno dar apie 9 metus.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Po Cem­
+    blako mirties Kijevo metropolitu Vytautas pripažino Maskvos
+    Focijų (1421) ir prie unijos daugiau nebegrįžo, nors gyveno dar
+
+    apie 9 metus.
+    Ir taip Vytautui nepasisekė sukurti religiniu atžvilgiu vie­
+    ningos Lietuvos valstybės ir katalikybės pastūmėti toliau į ry­
+    tus, sustiprinant kartu savo valdžią rusų kraštuose.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: 'Jam mirus, Vytautas susitaikino su Maskvos „visos Rusijos“ metropolitu Focijumi^3 ) ir Kijevo me­ tropolija nebebuvo atnaujinta.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Jam mirus, Vytautas susitaikino su
+    Maskvos „visos Rusijos“ metropolitu Focijumi^3 ) ir Kijevo me­
+    tropolija nebebuvo atnaujinta. Kaip daugely sričių, taip ir čia
+    titano planams užstojo kelią apystovos, amžiais augusios tra­
+    dicijos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Kijevas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/zodynas/unija]]
+- [[objektai/asmenys/Gregorijus Cemblakas]]
 - [[objektai/ivykiai/Vytauto sprendimas pripažinti Maskvos Focijų Kijevo metropolitu (1421 m.)]]
+- [[objektai/zodynas/kunigaikštija]]

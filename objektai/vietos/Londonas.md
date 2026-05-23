@@ -9,13 +9,17 @@ saltiniai:
 datos:
   - '1390 m.'
   - '1569 m.'
+  - '1919 m.'
+  - '1921 m.'
   - '1963 m.'
+  - '1964 m.'
   - '2013 m.'
   - '2026 m.'
 periodas: 'atkurtos nepriklausomybės laikotarpis'
 periodo_grupes:
   - 'LDK'
   - 'XX a.'
+  - 'modernioji Lietuva'
   - 'šiuolaikinė Lietuva'
 amziai:
   - 'XIV'
@@ -47,15 +51,10 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: ': The Balts, London 1963.'
+- t-005
+  teiginys: 'Zigmantą Sierakauską, ginklų ir savanorių iš Londono.'
   pagrindžia:
-    - c-003
-- t-004
-  teiginys: 'Londone.'
-  pagrindžia:
-    - c-004
-
+    - c-005
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Nuo 1990 m. dalis iš Lietuvos išvykusių daugiau kaip pusės milijono gyventojų emigravo į Jungtinę Karalystę, įskaitant Londoną.'
@@ -85,38 +84,37 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-- c-003
-  santrauka: ': The Balts, London 1963.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+- c-005
+  santrauka: 'Zigmantą Sierakauską, ginklų ir savanorių iš Londono.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
-    GiB = Gimbutas, M. : The Balts, London 1963.
-    GrL = Gramoty Velikich Kniazej Litovskich 1390-1569, išl.
+    Zigmantą Sierakauską,
+
+    ginklų ir savanorių iš Londono. Sukilėliai
+    planavo užimti Palangos ir Liepojos uos-
+    tus.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-003
-- c-004
-  santrauka: 'Londone.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    SEER = The Slavonic and East European Review, žurn. Londone.**
+    - t-005
 
-    ```
-    14
-    ```
-
-    ```
-    SANTRUMPOS 15
-    ```
-    **Senovė = Senovė, Humanitarinių Mokslų fakulteto Istorijos skyriaus
-    darbai, red.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Liepoja]]
+- [[objektai/vietos/Palanga]]
+- [[objektai/asmenys/Antanas Kazimeras Žemaitis]]
+- [[objektai/zodynas/Bendrinė sąvoka]]
+- [[objektai/asmenys/Bob Dylan]]
+- [[objektai/asmenys/Bruce Springsteen]]
+- [[objektai/asmenys/David Gilmour]]
+- [[objektai/asmenys/Eric Clapton]]
+- [[objektai/asmenys/George Harrison]]
+- [[objektai/daiktai/Gitara „Zemaitis“]]
+- [[objektai/asmenys/Jimi Hendrix]]
+- [[objektai/asmenys/Keith Richards]]
+- [[objektai/asmenys/Paul McCartney]]
+- [[objektai/asmenys/Ronnie Wood]]
+- [[objektai/autoriai/Bełch, St. J]]

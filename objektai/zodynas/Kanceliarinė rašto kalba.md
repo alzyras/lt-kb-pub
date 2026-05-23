@@ -51,3 +51,10 @@ Iš imtos vartoti slavų kalbos išsivystė Lietuvos didžiojo kuni­ gaikščio
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/Arkivyskupija]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Naugardukas]]

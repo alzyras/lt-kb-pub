@@ -50,4 +50,8 @@ Pakviesti į tarnybą savo krašto interesams ginti vaikinai ir merginos turėjo
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/daiktai/Lenino paminklas Vilniuje]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Vilnius]]
 - [[objektai/posakiai/„Baltic Kindergarten“]]

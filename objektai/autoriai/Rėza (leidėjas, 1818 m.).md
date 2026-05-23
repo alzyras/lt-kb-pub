@@ -116,3 +116,11 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Rašliava]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/kunigas]]

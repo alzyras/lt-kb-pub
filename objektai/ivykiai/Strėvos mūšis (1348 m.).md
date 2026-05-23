@@ -179,5 +179,19 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Kęstutis]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/vietos/Europa]]
+- [[objektai/autoriai/J. Jakštas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/grupes/Rusai]]
+- [[objektai/vietos/Semba]]
+- [[objektai/vietos/Smolenskas]]
+- [[objektai/vietos/Strėva]]
+- [[objektai/vietos/Trakai]]
+- [[objektai/zodynas/komtūras]]
+- [[objektai/zodynas/maršalas]]
+- [[objektai/zodynas/vyskupo teisėjas]]
+- [[objektai/asmenys/Vygandas]]

@@ -77,6 +77,10 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
   teiginys: '59 Vytenis 27, 28, 64, 65, 86, 212, 214- 224, 228, 235, 242, 264, 279, 296 Vladimiras, Volinijos miestas 158, 169, 200, 201, 239, 243, 244, 250, 263, 267-269, 283, 302, 312 Vladimiras Algirdaitis 259, 262, 297, 312 Vladimiras, Andriaus sūnus 280 Vladimiras.'
   pagrindžia:
     - c-005
+- t-008
+  teiginys: 'Jogailos kariuomenė pro Vladimirą liepos pabaigoje artėjo prie Lucko.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -166,7 +170,29 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-006
+  santrauka: 'Jogailos kariuomenė pro Vladimirą liepos pabaigoje artėjo prie Lucko.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Jogailos kariuomenė pro Vladimirą lie-
+    pos pabaigoje artėjo prie Lucko. Prie Stirės
+    įvyko Švitrigailos pajėgoms nesékmin-
+    gas mūšis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Stirė]]
+- [[objektai/asmenys/Švitrigaila]]
+- [[objektai/vietos/Ovručas]]
+- [[objektai/vietos/Ratne]]
+- [[objektai/asmenys/Vladimiras (Pronsko kunigaikštis)]]
+- [[objektai/asmenys/Vladimiras Andrejevičius]]
+- [[objektai/vietos/Žitomiras]]
+- [[objektai/vietos/Luckas]]

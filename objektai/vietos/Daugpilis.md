@@ -53,6 +53,10 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
   teiginys: 'ORiebiniai 1920 m. sausio pradžioje Latvijos ir LenkiJos kariuomenės išstūmė Raudonąją armiją iš Daugpilio.'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: 'Užėmę Padauguvio Sėlą (tarp Dauguvos intakų Dysnos ir Egluonos), lietuviai nesustojo kairiajame Dauguvos kran­ te, bet, įkandin sekdami sėlius, persikėlė ir į dešinįjį Dauguvos šoną — Latgalon, ir gyveno Daugpilio apylinkėje (K.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -143,12 +147,39 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Užėmę Padauguvio Sėlą (tarp Dauguvos intakų Dysnos ir Egluonos), lietuviai nesustojo kairiajame Dauguvos kran­ te, bet, įkandin sekdami sėlius, persikėlė ir į dešinįjį Dauguvos šoną — Latgalon, ir gyveno Daugpilio apylinkėje (K.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Užėmę Padauguvio Sėlą (tarp Dauguvos intakų
+    Dysnos ir Egluonos), lietuviai nesustojo kairiajame Dauguvos kran­
+    te, bet, įkandin sekdami sėlius, persikėlė ir į dešinįjį Dauguvos
+    šoną — Latgalon, ir gyveno Daugpilio apylinkėje (K. Būga).
+    Šiandien į kelias pagrindines tarmes suskilęs lietuvių gyvena­
+    mas plotas, istorinių laikų angoje buvo vienalytiškas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/paliaubos]]
 
 ### Susiję objektai
-- [[objektai/grupes/Latvijos kariuomenė]]
-- [[objektai/asmenys/Liudvikas Pliateris]]
+- [[objektai/vietos/Dauguva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Padauguvis]]
+- [[objektai/grupes/11 brigada]]
+- [[objektai/grupes/II brigada]]
+- [[objektai/asmenys/M. Sleževičius]]
+- [[objektai/vietos/Padauguvio Sėla]]
+- [[objektai/asmenys/S. Nastopka]]
+- [[objektai/posakiai/Toji tvirtovė yra pastatyta mano širdyje, ir aš kentėsiu dėl jos skausmą, kol gyvas busiu]]
+- [[objektai/vietos/Utena]]
 - [[objektai/asmenys/Zigmantas Sierakauskas]]
+- [[objektai/grupes/Latvijos kariuomenė]]
+- [[objektai/zodynas/Nepriklausomybės kovos]]

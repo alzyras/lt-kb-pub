@@ -43,3 +43,13 @@ Turėdami stiprią pajėgą, bermontininkai nuginklavę išvaikė ten buvusias L
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bermontininkai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Radviliškis]]
+- [[objektai/asmenys/J. Aukštuolaitis]]
+- [[objektai/vietos/Nevėžis]]
+- [[objektai/vietos/Pagiriai]]
+- [[objektai/grupes/Tautinės darbo apsaugos batalionas]]

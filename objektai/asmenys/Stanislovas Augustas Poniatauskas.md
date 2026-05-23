@@ -43,3 +43,8 @@ Stanislovo Augusto išrinkimas ir tarpuvaldžio kovos. Tuo metu Čartoriskiai pa
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Radomas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

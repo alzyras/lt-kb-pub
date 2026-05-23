@@ -50,3 +50,7 @@ pozicijų signatūras : J. Balys : Lithuania and Lithuanians. A selected bibliog
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Niujorkas]]

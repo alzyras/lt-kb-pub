@@ -7,14 +7,17 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1529 m.'
+  - '1563 m.'
   - '1564 m.'
+  - '1572 m.'
   - '1581 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
   - 'XVI'
-date_start: '1564'
+date_start: '1529'
 date_end: '1581'
 patikimumas: 'vidutinis'
 tags:
@@ -61,9 +64,13 @@ pabaigoje į Lietuvos istoriją įžengė garsiausia ir – tai svarbu – lietu
   pagrindžia:
     - c-006
 - t-007
-  teiginys: 'DVX LIT 1564“ (Žygimantas Augustas, Lenkijos karalius, Didysis Lietuvos Kunigaikštis, 1564).'
+  teiginys: 'Žygimanto Augusto įsteigta patrankų liejykla veikė Vilniuje.'
   pagrindžia:
     - c-007
+- t-008
+  teiginys: 'Lietuvoje tai padarė 1563 m. Žygimanto Augusto privilegija, sulyginusi visų krikščioniškų konfesijų teises, tai tapo ir Antrojo bei Trečiojo Lietuvos Statutų teisine norma.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -168,7 +175,7 @@ pabaigoje į Lietuvos istoriją įžengė garsiausia ir – tai svarbu – lietu
   pagrindžia:
     - t-006
 - c-007
-  santrauka: 'DVX LIT 1564“ (Žygimantas Augustas, Lenkijos karalius, Didysis Lietuvos Kunigaikštis, 1564).'
+  santrauka: 'Žygimanto Augusto įsteigta patrankų liejykla veikė Vilniuje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Patrankos laibgalis dekoruotas Hidra (drakonu), o drūtgalis - karūna, Vyčiu ir Gediminaičių stulpais bei užrašu
@@ -183,10 +190,30 @@ pabaigoje į Lietuvos istoriją įžengė garsiausia ir – tai svarbu – lietu
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-008
+  santrauka: 'Lietuvoje tai padarė 1563 m. Žygimanto Augusto privilegija, sulyginusi visų krikščioniškų konfesijų teises, tai tapo ir Antrojo bei Trečiojo Lietuvos Statutų teisine norma.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietu-
+    voje tai padarė 1563 m. Žygimanto Augusto privilegija, sulyginusi visų
+    krikščioniškų konfesijų teises, tai tapo ir Antrojo bei Trečiojo Lietuvos
+    Statutų teisine norma. Jau Pirmasis Lietuvos Statutas (1529), dar neži-
+    nant reformacijos, skiriamas ne tiktai katalikų, bet ir ortodoksų bajorijai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
 
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/statutas]]
+- [[objektai/ivykiai/Liublino unija]]
 - [[objektai/ivykiai/Polocko apsiaustis (1563 m. sausio 31 d.)]]

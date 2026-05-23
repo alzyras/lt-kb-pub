@@ -29,6 +29,10 @@ Smolenske buvo įsigalėjęs Lengvenio Algirdaičio sūnus Jurgis.
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Pasitelkęs pusbrolius Lengvenį, Švitrigailą ir Kaributą, po Raciąžo taikos Vytautas pirmiausia su didele jėga vasarop traukė prieš Smolenską.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -49,3 +53,23 @@ Smolenske buvo įsigalėjęs Lengvenio Algirdaičio sūnus Jurgis.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Pasitelkęs pusbrolius Lengvenį, Švitrigailą ir Kaributą, po Raciąžo taikos Vytautas pirmiausia su didele jėga vasarop traukė prieš Smolenską.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Pasitelkęs pusbrolius Lengvenį, Švitrigailą ir Kaributą, po
+    Raciąžo taikos Vytautas pirmiausia su didele jėga vasarop traukė
+    prieš Smolenską. Būdamas silpnas atsispirti, Jurgis pabėgo pas
+    Maskvos Vosylių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Maskva]]
+- [[objektai/vietos/Smolenskas]]

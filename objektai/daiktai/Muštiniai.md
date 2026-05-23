@@ -79,3 +79,6 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/pinigai]]
+
+### Susiję objektai
+- [[objektai/grupes/Aisčiai]]

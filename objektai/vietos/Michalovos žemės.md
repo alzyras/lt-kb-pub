@@ -75,3 +75,12 @@ Lenki­ jai labai rūpėjo atgauti Pamario, Kulmijos ir Michalovos že­ mės, o
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Breslavas]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Žemaitija]]

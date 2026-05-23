@@ -97,3 +97,20 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/12-asis ulonų pulkas]]
+- [[objektai/grupes/2-asis pėstininkų pulkas]]
+- [[objektai/grupes/7-asis pėstininkų pulkas]]
+- [[objektai/asmenys/H. Dembinskis]]
+- [[objektai/grupes/Kališo raitelių dalinys]]
+- [[objektai/grupes/Poznanės raitininkų eskadronai]]
+- [[objektai/ivykiai/Stanislovo Leščinskio išrinkimas karalium (1704 m.)]]
+- [[objektai/grupes/Trakų sukilėlių daliniai]]
+- [[objektai/zodynas/elekcinis seimas]]
+- [[objektai/asmenys/Dobrogostas]]
+- [[objektai/asmenys/Inocentas VI]]
+- [[objektai/asmenys/St. Ciolką]]
+- [[objektai/asmenys/Stanislovas Ciołek]]
+- [[objektai/autoriai/W. Szymański]]

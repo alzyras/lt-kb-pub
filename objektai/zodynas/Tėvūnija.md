@@ -79,3 +79,13 @@ Vartojamos formos: `tėvūnijomis`, `pavietėmis`, `tėvūnu`, `paviete`, `tėv�
 ## Pastabos
 
 - Tiksli kiekvieno vieneto funkcija skiriasi, bet hierarchinis administracinis pobūdis aiškus.
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/pavietas]]
+- [[objektai/paprociai/Bajorų pašauktinės kariuomenės mobilizacija]]
+- [[objektai/vietos/Kleckas]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/paprociai/Pavietės karūžojo metinė žemlionų ginklų ir žirgų perveiza]]
+- [[objektai/zodynas/Perveiza|perveiza]]

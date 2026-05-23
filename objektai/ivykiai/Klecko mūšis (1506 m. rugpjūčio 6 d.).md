@@ -12,14 +12,6 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 bukle: 'juodrastis'
 laikotarpis: '1506 m. rugpjūčio 6 d.; rugpjūčio 8 d. (paskutiniai totoriai išgaudyti)'
-datos:
-  - '1506 m. rugpjūčio 6 d.; rugpjūčio 8 d. (paskutiniai totoriai išgaudyti)'
-periodas: 'ankstyvieji_naujieji_laikai'
-periodo_grupes: []
-amziai:
-  - 'XVI'
-date_start: '1506'
-date_end: '1506'
 vaidmenys: []
 dalyviai:
   - 'Lietuvos kariuomenė'
@@ -28,6 +20,14 @@ dalyviai:
   - 'chanaičiai'
   - 'vietiniai gyventojai'
 susije_irasai: []
+datos:
+  - '1506 m.'
+periodas: 'ankstyvieji_naujieji_laikai'
+periodo_grupes: []
+amziai:
+  - 'XVI'
+date_start: '1506'
+date_end: ''
 patikimumas: 'aukstas'
 tags:
   - mūšis
@@ -81,6 +81,10 @@ Nenurodyta
     - c-005
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-011
+  teiginys: '[...] Ir kai prisiartino prie Klecko, prieidami iš pietų Raudonąjį tvenkinį ir Lanės upę, nuo kalno išvydo stovinčius už upės totorių pulkus, pasirengusius mūšiui.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -181,3 +185,18 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-010
+- c-006
+  santrauka: '[...] Ir kai prisiartino prie Klecko, prieidami iš pietų Raudonąjį tvenkinį ir Lanės upę, nuo kalno išvydo stovinčius už upės totorių pulkus, pasirengusius mūšiui.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    ] Tą pačią dieną, antradienį, didikai su savo kariuomene (Lietuvos) nakvojo kaime
+    prie Lipos, [...] anksti atsikėlę ir, kaip pridera prieš mūšį, sutvarkę būrius, nuėjo tiesiai
+    į Klecką. [...] Ir kai prisiartino prie Klecko, prieidami iš pietų Raudonąjį tvenkinį ir
+    Lanės upę, nuo kalno išvydo stovinčius už upės totorių pulkus, pasirengusius mūšiui.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011

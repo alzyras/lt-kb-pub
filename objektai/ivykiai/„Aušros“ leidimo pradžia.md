@@ -58,3 +58,9 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/redaktorius]]
+
+### Susiję objektai
+- [[objektai/grupes/Estai]]
+- [[objektai/grupes/Latviai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Rusija]]

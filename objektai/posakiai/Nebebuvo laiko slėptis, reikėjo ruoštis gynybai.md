@@ -49,3 +49,7 @@ Nebebuvo laiko slėptis, reikėjo ruoštis gynybai.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Rytas]]

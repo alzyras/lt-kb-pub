@@ -65,3 +65,7 @@ Nenurodyta
 ### Teminiai klasteriai
 - [[temos/privilegija]]
 - [[temos/ritualas]]
+
+### Susiję objektai
+- [[objektai/grupes/Krikščionys]]
+- [[objektai/vietos/Lietuva]]

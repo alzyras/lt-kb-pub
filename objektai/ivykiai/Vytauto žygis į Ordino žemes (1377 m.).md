@@ -138,8 +138,17 @@ Vytauto veiksmai sutrikdė ordino kariuomenės aprūpinimą.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas]]
-- [[objektai/asmenys/Kęstutis]]
-- [[objektai/asmenys/Vytautas]]
-- [[objektai/vietos/Insterburgas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Nemunas]]
 - [[objektai/vietos/Tamova]]
+- [[objektai/vietos/Užnemunė]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/asmenys/Vygandas]]
+- [[objektai/zodynas/maršalka]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/vietos/Insterburgas]]

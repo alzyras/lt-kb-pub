@@ -64,4 +64,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/Pusrytės]]
+- [[objektai/grupes/Krikščionys]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Žydai]]
+- [[objektai/zodynas/Pusrytės|pusrytės]]

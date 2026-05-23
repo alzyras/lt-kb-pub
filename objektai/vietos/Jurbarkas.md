@@ -95,3 +95,17 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Durbė]]
+- [[objektai/ivykiai/Durbės mūšis (1260 m.)]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/grupes/Livonijos ordinas]]
+- [[objektai/vietos/Nemunas]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/vietos/Naujasis Kvidzinas]]
+- [[objektai/zodynas/archieriejus]]
+- [[objektai/vietos/Imsrė]]
+- [[objektai/vietos/Karšuvos sritis]]
+- [[objektai/vietos/Mituva]]

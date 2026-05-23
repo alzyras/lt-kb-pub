@@ -68,3 +68,11 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas]]
+- [[objektai/autoriai/Isaac Taylor]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/SSRS]]
+- [[objektai/vietos/Vokietija]]

@@ -69,3 +69,7 @@ Kadangi kunigaikštis karo reikalui privalė arklių, tai krašte buvo daug žir
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Kaunas]]

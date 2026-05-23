@@ -55,4 +55,8 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Austrija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Frederikas Joachimas Mansfeldas]]
+- [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)]]
 - [[objektai/zodynas/karakolė]]

@@ -53,4 +53,7 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Konstancija]]
 - [[objektai/grupes/Čekai]]
+- [[objektai/vietos/Čekija]]
+- [[objektai/vietos/Žalgiris]]

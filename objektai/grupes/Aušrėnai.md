@@ -64,3 +64,11 @@ Aušrėnai šiame fragmente yra istorinis žemaičių vardas.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/posakiai/Jie « papročiais ir savo išore yra kaip svebai »]]
+- [[objektai/autoriai/K. Būga]]
+- [[objektai/grupes/Svebai]]
+- [[objektai/zodynas/glesum]]
+- [[objektai/daiktai/Šernų amuletai]]

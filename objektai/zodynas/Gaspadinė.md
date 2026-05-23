@@ -91,3 +91,10 @@ Vartojamos formos: `gaspadinę`, `viešne`, `viešnė`.
 ## Pastabos
 
 - `viešnė` čia yra aiškiai paaiškinta kaip tos pačios pareigos vardas.
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Rytas]]
+- [[objektai/zodynas/Vėdliai|vėdliai]]
+- [[objektai/daiktai/Vąšas]]
+- [[objektai/zodynas/Ūkės vilkėja|ūkės vilkėja]]

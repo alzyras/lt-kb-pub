@@ -42,3 +42,9 @@ Lietuvos atstovai pasirodė net garbingiau nei Lenkijos – iš penkių balsų, 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/maršalas]]

@@ -37,6 +37,10 @@ dabar jie, be to, buvo atleisti ir nuo pastočių, nuo pilių statymo ir remonta
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Bajorai buvo atleisti nuo pastočių, pilių statymo ir remontavimo, didžiojo kunigaikščio pievų pjovimo bei sidabrinės.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -60,10 +64,29 @@ dabar jie, be to, buvo atleisti ir nuo pastočių, nuo pilių statymo ir remonta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Bajorai buvo atleisti nuo pastočių, pilių statymo ir remontavimo, didžiojo kunigaikščio pievų pjovimo bei sidabrinės.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    ) nuo mokesčių javais; dabar jie, be to, buvo atleisti ir nuo
+    pastočių, nuo pilių statymo ir remontavimo, nuo pareigos piauti
+    didžiojo kunigaikščio dvarų pievas ir pagaliau nuo piniginio
+    mokesčio _(sidabrinės)._ Tačiau bajorų valstiečių būklė dėl to
+    nepalengvėjo, nes, vietoj buvusių pareigų ir mokesčių didžiajam
+    kunigaikščiui, jie buvo apkrauti didesnėmis pareigomis savo dva-
+    rų savininkams — bajorams.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/pinigai]]
 
 ### Susiję objektai
-- [[objektai/paprociai/Bajorų valstiečių baudžiavos įtvirtinimas]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/zodynas/sidabrinė duoklė]]

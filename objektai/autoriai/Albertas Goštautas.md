@@ -50,3 +50,6 @@ Statutas, paruoštas vadovaujant kancleriui Albertui Goštautui, buvo taisomas k
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/privilegija]]
+
+### Susiję objektai
+- [[objektai/zodynas/statutas]]

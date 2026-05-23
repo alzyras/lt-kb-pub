@@ -79,3 +79,11 @@ O juk reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, t
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Aukštadvaris]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Tabariškės]]
+- [[objektai/ivykiai/Vilniaus užėmimas lenkų (1919 m. balandžio 19 d.)]]

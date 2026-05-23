@@ -52,3 +52,9 @@ Jogaila buvo pastatęs bažnyčias Aš­ menoje, Lydoje, Medininkuose (Vil.), Kr
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/didikas]]
+
+### Susiję objektai
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuvos didikai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

@@ -48,3 +48,8 @@ ne mano tikėjimo jie trokšta, kaip jie nuduoda, bet siekia žemių.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/pagonybė]]

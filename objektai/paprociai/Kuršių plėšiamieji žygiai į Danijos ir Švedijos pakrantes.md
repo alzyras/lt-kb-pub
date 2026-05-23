@@ -69,4 +69,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Kuršiai]]
+- [[objektai/vietos/Švedija]]
 - [[objektai/grupes/Skandinavai]]

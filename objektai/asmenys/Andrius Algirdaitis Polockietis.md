@@ -94,3 +94,15 @@ Tverės kunigaikštis puolė Dmitrovą, o tuo metu Kęstutis ir Andrius Algirdai
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Auksinė Orda]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/vietos/Smolenskas]]
+- [[objektai/vietos/Tverė]]
+- [[objektai/zodynas/vietininkas]]
+- [[objektai/zodynas/žygis]]

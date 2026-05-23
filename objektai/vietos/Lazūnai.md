@@ -52,4 +52,8 @@ Tai parodo, be kitko, iki pat dabar gudiškai kalbančiųjų plote, arti Nemuno,
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Gardinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Merkinė]]
+- [[objektai/vietos/Nemunas]]
 - [[objektai/autoriai/H. Łowmiański]]

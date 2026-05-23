@@ -52,3 +52,11 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Kuršas]]
+- [[objektai/grupes/Kuršiai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)]]

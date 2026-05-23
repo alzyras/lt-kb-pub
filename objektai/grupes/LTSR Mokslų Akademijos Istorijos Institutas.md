@@ -57,3 +57,14 @@ LTSR Mokslų Akademijos Istorijos Institutas leidžia kas antri metai knygas : A
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/autoriai/A. Tautavičius]]
+- [[objektai/daiktai/Brūkšniuotoji keramika]]
+- [[objektai/autoriai/E. Danilaitė]]
+- [[objektai/autoriai/E. Radzvilovaitė]]
+- [[objektai/autoriai/J. Stankus]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/autoriai/R. Jasas]]

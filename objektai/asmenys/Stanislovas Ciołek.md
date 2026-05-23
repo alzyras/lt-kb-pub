@@ -54,3 +54,12 @@ Dėl jo energingos paramos Mozūrų kancleris Ziemovitas gavo Płocko vyskupo so
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Karūna]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Płockas]]
+- [[objektai/zodynas/pakancleris]]
+- [[objektai/paprociai/Kreipimasis į Vytautą svarbiausiais reikalais]]
+- [[objektai/vietos/Poznanė]]

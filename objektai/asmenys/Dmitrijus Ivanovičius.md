@@ -64,3 +64,14 @@ tags:
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/metraštis]]
+
+### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Dmitrijus]]
+- [[objektai/asmenys/Julijona]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/asmenys/Michailas Aleksandrovičius]]
+- [[objektai/vietos/Nemunas]]
+- [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/vietos/Tverė]]

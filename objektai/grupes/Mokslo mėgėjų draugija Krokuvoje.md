@@ -52,3 +52,11 @@ Iš Krokuvos atėjo į Vilnių prašymas, kad arčiau lietuvių stovįs universi
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Europa]]
+- [[objektai/vietos/Krokuva]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Vilnius]]

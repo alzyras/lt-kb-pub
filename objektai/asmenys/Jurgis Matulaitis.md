@@ -52,3 +52,9 @@ Tik jų įpėdiniai iki pat 1918 m. (Jurgio Matulaičio paskyrimas) jau nebesir�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Pranciškonų ordinas]]
+- [[objektai/vietos/Vilnius]]

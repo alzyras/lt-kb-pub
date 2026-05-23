@@ -40,3 +40,9 @@ Kovai su vietos lenkų pasipriešinimu civilinė administracija pasiuntė į Vil
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Vilnija]]

@@ -71,7 +71,18 @@ tags:
   teiginys: 'Tai sužinoję lietuviai persekiojo priešą, įsiveržė į Sembą, niokojo priešo teritoriją.'
   pagrindžia:
     - c-007
-
+- t-008
+  teiginys: 'Prūsuose ordinas sėkmingai tvirtinosi Semboje, kai iš Čekijos atvykusio žygin Otokaro II garbei 1255 m. buvo pasta­ tytas Karaliaučius, kuris vėliau kovose prieš lietuvius tapo svarbus atramos taškas.'
+  pagrindžia:
+    - c-008
+- t-009
+  teiginys: 'Nuterioję Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­ kaimiu (3 mylios į šiaurę nuo Karaliaučiaus).'
+  pagrindžia:
+    - c-009
+- t-010
+  teiginys: 'Bet (1410.VIII.) Livonijos kariuomenė laivais atvyko Sembon.'
+  pagrindžia:
+    - c-010
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Tik Pomeranijoje, Vyslos žemupyje bei Sembos pusiasalyje pasimaišė vienas kitas importuotas dirbinys.'
@@ -181,8 +192,70 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-008
+  santrauka: 'Prūsuose ordinas sėkmingai tvirtinosi Semboje, kai iš Čekijos atvykusio žygin Otokaro II garbei 1255 m. buvo pasta­ tytas Karaliaučius, kuris vėliau kovose prieš lietuvius tapo svarbus atramos taškas.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Prūsuose ordinas sėkmingai tvirtinosi Semboje, kai
+    iš Čekijos atvykusio žygin Otokaro II garbei 1255 m. buvo pasta­
+    tytas Karaliaučius, kuris vėliau kovose prieš lietuvius tapo svarbus
+    atramos taškas. Ordinui toliau rūpėjo per nadruvių, sūduvių ir skal­
+    vių plotus rasti kelią į šiaurę, t.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: 'Nuterioję Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­ kaimiu (3 mylios į šiaurę nuo Karaliaučiaus).'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Nuterioję
+    Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­
+    kaimiu (3 mylios į šiaurę nuo Karaliaučiaus). Čia juos pasitiko
+    kryžiuočių kariuomenė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: 'Bet (1410.VIII.) Livonijos kariuomenė laivais atvyko Sembon.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Bet (1410.VIII.)
+    Livonijos kariuomenė laivais atvyko Sembon.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/asmenys/Otokaras (Čekijos karalius)]]
+- [[objektai/vietos/Rudava]]
+- [[objektai/vietos/Čekija]]
+- [[objektai/autoriai/Dusburgas (Kryžiuočių ordino kronikininkas)]]
+- [[objektai/ivykiai/Junigėdos puolimas laivu ir Surmino kontrataka (1313 m.)]]
+- [[objektai/ivykiai/Klaipėdos puolimas ir Gedimino būrių Sembos teriojimas (1323 m.)]]
+- [[objektai/autoriai/Petras Dusburgietis]]
+- [[objektai/asmenys/Pršemyslas Otokaras II]]
+- [[objektai/ivykiai/Strėvos mūšis (1348 m.)]]
+- [[objektai/vietos/Strėvos upė]]
 - [[objektai/autoriai/Vygandas Marburgietis]]
+- [[objektai/ivykiai/Vytenio žygis į Sembą, Natangą ir Varmę bei pralaimėjimas Woplaukene (1311 m.)]]
+- [[objektai/asmenys/Vytenis (Lietuvos karalius)]]
 - [[objektai/zodynas/stabmeldys]]
+- [[objektai/zodynas/vyskupo teisėjas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/ivykiai/Vytauto paliaubos ir taikos derybos su Livonijos ordinu (1410 m. vasara)]]

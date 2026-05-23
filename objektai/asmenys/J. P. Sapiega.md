@@ -75,4 +75,9 @@ Sapiegos ir T. Sapiegos husarų ir petihorų vėliavos atlaikyti pagrindinį Šv
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/petihorai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Sapiegos]]
+- [[objektai/daiktai/Vėliavos]]
+- [[objektai/zodynas/rotmistras]]
+- [[objektai/vietos/Švedija]]

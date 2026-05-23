@@ -81,3 +81,10 @@ Vartojamos formos: `pažines`.
 ## Pastabos
 
 - Daugiskaitinė forma vartojama kaip bendras ryšių / kontaktų pavadinimas.
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kalnėnai]]
+- [[objektai/grupes/Egiptiečiai]]
+- [[objektai/grupes/Finikiečiai]]
+- [[objektai/zodynas/Vartavodamos|vartavodamos]]

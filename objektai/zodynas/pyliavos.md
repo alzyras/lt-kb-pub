@@ -6,6 +6,16 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1947 m.'
+  - '1949 m.'
+periodas: 'okupacijų ir sovietmečio laikotarpis'
+periodo_grupes:
+  - 'XX a.'
+amziai:
+  - 'XX'
+date_start: '1947'
+date_end: '1949'
 patikimumas: 'vidutinis'
 tags:
   - dokumentas
@@ -31,6 +41,11 @@ Lietuvos partizanų 1947 m. 5 skyrius • L I E T U VA : S O V I E T Ų I R N A 
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: 'Užimdami miestelius, Lietuvos partizanai naikino valsčiaus dokumentus, mobilizacijos sąrašus ir pyliavų žiniaraščius.'
+  pagrindžia:
+    - c-003
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Partizanams užėmus miestelius, buvo naikinami valsčiaus dokumentai, mobilizacijos sąrašai ir pyliavų žiniaraščiai.'
@@ -65,3 +80,31 @@ Lietuvos partizanų 1947 m. 5 skyrius • L I E T U VA : S O V I E T Ų I R N A 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Užimdami miestelius, Lietuvos partizanai naikino valsčiaus dokumentus, mobilizacijos sąrašus ir pyliavų žiniaraščius.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Užimant
+    Grupė Lietuvos partizanų 1947 m.
+
+    5 skyrius •  L I E T U VA :  S O V I E T Ų  I R  N A C I Ų  O K U PA C I J O S
+    211
+    miestelius naikintos vietos įgulos, valsčiaus dokumentai, mobilizacijos
+    sąrašai, pyliavų žiniaraščiai, išlaisvinami suimtieji, nušaunami uolūs oku-
+    pacinės valdžios statytiniai, kiti įspėjami netarnauti priešui. Partizanai
+    trukdė okupacinės valdžios rinkimus, apšaudydavo balsavimo būstines,
+    stabdė miško kirtimo ir išvežimo darbus, kovojo su prievartiniu kolūkių
+    kūrimu, partizanų karo lauko teismai teisė ir baudė mirties bausme trė-
+    mimų vykdytojus, sovietinius pareigūnus ir šnipus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuvos partizanai]]

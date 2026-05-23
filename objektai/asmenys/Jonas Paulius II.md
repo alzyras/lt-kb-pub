@@ -66,4 +66,13 @@ Taip Kryžių kalnas (jį 1993 m. aplankė popiežius Jonas Paulius II) tapo sim
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/vietos/Kryžių kalnas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/posakiai/lietuviška Golgota]]
+- [[objektai/zodynas/metropolitas]]
+- [[objektai/ivykiai/Kryžių kalno kryžių naikinimas ir atstatymas (1961 m. ir vėliau)]]
+- [[objektai/paprociai/Kryžių statymas Kryžių kalne kaip tikėjimo laisvės pasipriešinimo praktika]]
 - [[objektai/ivykiai/Rusijos kariuomenės išvedimas iš Lietuvos (1993 m. rugpjūčio 31 d.)]]

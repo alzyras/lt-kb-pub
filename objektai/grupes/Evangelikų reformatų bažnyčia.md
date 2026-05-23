@@ -50,5 +50,5 @@ Tačiau Lietuvoje formavosi labai gausi Evangelikų reformatų bažnyčia, gerok
 - [[temos/didikas]]
 
 ### Susiję objektai
-- [[objektai/grupes/Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai]]
 - [[objektai/grupes/LDK didikai]]
+- [[objektai/grupes/Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai]]

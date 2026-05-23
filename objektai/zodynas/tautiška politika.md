@@ -42,3 +42,8 @@ Varydamas tautišką politiką ir kovodamas su ordinu, jis rado sąjungininkų p
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Traidenis]]
+- [[objektai/asmenys/Vytenis]]

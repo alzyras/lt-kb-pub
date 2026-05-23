@@ -89,3 +89,11 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/Jidiš]]
+- [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/ješiva]]
+- [[objektai/vietos/Lietuva]]

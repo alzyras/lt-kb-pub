@@ -52,3 +52,13 @@ Birželio 18 d. Lenkijos kariuomenė prie Zelencų sumušė rusus, tačiau didel
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/vietos/Miro]]
+- [[objektai/ivykiai/Miro mūšis (1792 m. birželio 11 d.)]]
+- [[objektai/vietos/Zelencai]]

@@ -65,3 +65,10 @@ Iš bibliotekų pašalintos žymių lietuvių rašytojų Vinco Kudirkos, Maironi
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/atšilimas]]
+- [[objektai/zodynas/destalinizacija atšilimo laikotarpis]]
+- [[objektai/zodynas/destalinizacija postalininis metas atšilimo laikotarpis]]

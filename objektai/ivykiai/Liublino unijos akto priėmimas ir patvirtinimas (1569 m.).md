@@ -58,6 +58,10 @@ Nenurodyta
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Šios aplinkybės pastūmėjo LDK gana nepalankiomis sąlygomis 1569 m. sudaryti su Lenkija Liublino uniją, tikintis karinės pagalbos, kuri leistų pasiekti persilaužimą kare su Maskva ir likviduoti egezistencinį pavojų Lietuvai.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -99,7 +103,33 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Šios aplinkybės pastūmėjo LDK gana nepalankiomis sąlygomis 1569 m. sudaryti su Lenkija Liublino uniją, tikintis karinės pagalbos, kuri leistų pasiekti persilaužimą kare su Maskva ir likviduoti egezistencinį pavojų Lietuvai.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Šios aplinkybės pastūmėjo LDK gana
+    nepalankiomis sąlygomis 1569 m. sudaryti
+    su Lenkija Liublino uniją, tikintis karinės
+    pagalbos, kuri leistų pasiekti persilaužimą
+    kare su Maskva ir likviduoti egezistencinį
+    pavojų Lietuvai.
+
+    Sudarius Liublino uniją, aplinkybės kurį
+    laiką neleido imtis rimtų karo veiksmų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/aktas]]
+
+### Susiję objektai
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Liublinas]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/vietos/Lietuva]]

@@ -94,5 +94,10 @@ Jis juos vadina aisčiais (aestii, aestiorum gentes). Visi aisčiai, pagal kalbo
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Muštiniai]]
 - [[objektai/grupes/Romėnai]]
 - [[objektai/autoriai/Tacitas (romėnų rašytojas, I amžiaus gale)]]
+- [[objektai/autoriai/Vulfstanas (jūrininkas, IX amžius)]]
+- [[objektai/zodynas/indoeuropiečių, arba arijų, tautų grupė]]
+- [[objektai/zodynas/kunigas]]
+- [[objektai/paprociai/Šventųjų žalčių laikymas namuose]]

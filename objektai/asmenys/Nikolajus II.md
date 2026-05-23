@@ -45,4 +45,7 @@ Po to, kai 1905 m. spalio pabaigoje caras Nikolajus II, išsigandęs vis kylanč
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Vilnius]]
 - [[objektai/ivykiai/Nikolajaus II manifesto paskelbimas dėl demokratinių laisvių ir Valstybės Dūmos rinkimų]]

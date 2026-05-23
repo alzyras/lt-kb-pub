@@ -69,3 +69,9 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/paliaubos]]
+
+### Susiję objektai
+- [[objektai/vietos/Kėzmarkas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/vietos/Lenkija]]

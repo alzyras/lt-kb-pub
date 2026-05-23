@@ -60,6 +60,14 @@ Nenurodyta
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-006
+  teiginys: 'Šitaip atsirado ir «lydimoji žemdirbystė » (vokiškai vadinama Brandwirtschaft, Rodungswirtschaft, Feld­ graswirtschaft), kada, žemei įdirbti ėmus naudotis ugnimi, išskin­ tame ir nudegintame miško sklype buvo daromas dirbamas laukas.'
+  pagrindžia:
+    - c-003
+- t-007
+  teiginys: 'Pradėjus Lietuvoje « va­ lakų reformą» (1557), kuri atnešė visuotinę trilaukio ūkio sistemą su vieneriems metams paliktu pūdymu, lydimoji žemdirbystė ėmė nykti, nors XVI-XVII amžiaus aktuose vis dar dažnai užtinkamas žodis « lydimas » («lidim », «lidem ».'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -104,8 +112,48 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
+- c-003
+  santrauka: 'Šitaip atsirado ir «lydimoji žemdirbystė » (vokiškai vadinama Brandwirtschaft, Rodungswirtschaft, Feld­ graswirtschaft), kada, žemei įdirbti ėmus naudotis ugnimi, išskin­ tame ir nudegintame miško sklype buvo daromas dirbamas laukas.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Šitaip atsirado ir «lydimoji žemdirbystė »
+    (vokiškai vadinama Brandwirtschaft, Rodungswirtschaft, Feld­
+    graswirtschaft), kada, žemei įdirbti ėmus naudotis ugnimi, išskin­
+    tame ir nudegintame miško sklype buvo daromas dirbamas laukas.
+    Kaip ir kitur Europoje priešistoriniais laikais, miško gabalo
+    lydimas ruošiant jį dirvai, Lietuvoje buvo plačiai vartojamas iki
+    pat XVI amž.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-004
+  santrauka: 'Pradėjus Lietuvoje « va­ lakų reformą» (1557), kuri atnešė visuotinę trilaukio ūkio sistemą su vieneriems metams paliktu pūdymu, lydimoji žemdirbystė ėmė nykti, nors XVI-XVII amžiaus aktuose vis dar dažnai užtinkamas žodis « lydimas » («lidim », «lidem ».'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Pradėjus Lietuvoje « va­
+    lakų reformą» (1557), kuri atnešė visuotinę trilaukio ūkio sistemą
+    su vieneriems metams paliktu pūdymu, lydimoji žemdirbystė ėmė
+    nykti, nors XVI-XVII amžiaus aktuose vis dar dažnai užtinkamas
+    žodis « lydimas » («lidim », «lidem _»,_ «lidima », «lidyma », « lydym »
+    ir kt.). Kai žmogus kėlė koją į didžiuosius girių masyvus ir šitaip
+    naturlandšaftą vertė kulturlandšaftu, daug vietovardžių Didžiojoje
+    ir Mažojoje Lietuvoje yra surišta su lydimais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Europa]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/Dvilaukė sistema]]
 - [[objektai/paprociai/Trilaukio ūkio sistema]]
 - [[objektai/ivykiai/Valakų reforma (1557 m.)]]

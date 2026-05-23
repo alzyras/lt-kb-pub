@@ -47,3 +47,7 @@ Enėjas Silvijus Pikolominis (Enea Silvio Piccolomini) „Knygoje apie vyrus, ga
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/posakiai/„Koks didelis Tu ir kokia didelė Tavo tėvynė.“]]

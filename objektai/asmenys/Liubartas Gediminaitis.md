@@ -51,3 +51,12 @@ O mirus senam dėdei Liubartui Gediminaičiui (apie 1385), jis po poros metų ka
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Brasta]]
+- [[objektai/vietos/Drohičinas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Luckas]]
+- [[objektai/vietos/Palenkė]]
+- [[objektai/autoriai/J. Puzyna]]

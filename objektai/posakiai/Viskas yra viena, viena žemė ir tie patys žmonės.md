@@ -41,6 +41,10 @@ tags: []
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Ilgame savo laiške Vytautas išdėstė, jog žemaičiai yra ta pati lietuvių tautos dalis : « viskas yra viena, viena žemė ir tie patys žmonės »^14.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -61,7 +65,29 @@ tags: []
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-002
+  santrauka: 'Ilgame savo laiške Vytautas išdėstė, jog žemaičiai yra ta pati lietuvių tautos dalis : « viskas yra viena, viena žemė ir tie patys žmonės »^14.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Ilgame savo laiške Vytautas išdėstė, jog žemaičiai yra ta pati
+    lietuvių tautos dalis : « viskas yra viena, viena žemė ir tie patys
+    žmonės »^14. Jis pabrėžė, jog Žemaičiai nuo senovės didžiųjų kuni­
+    gaikščių esą valdomi paveldėjimo teise.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/formulė]]
+
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Viena]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/vietos/Vroclavas]]

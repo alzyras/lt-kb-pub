@@ -69,4 +69,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/vietos/Lenčica]]
+- [[objektai/vietos/Lietuva]]

@@ -54,3 +54,8 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/ivykiai/Mindaugo karūnacija (1253 m.)]]

@@ -115,3 +115,10 @@ Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą. Apie « aisčių
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Baltija]]
+- [[objektai/posakiai/at litus australe Slavi et Aisti et aliae diversae incolunt nationes]]
+- [[objektai/zodynas/kastuvo mokslas]]
+- [[objektai/zodynas/kunigas]]

@@ -78,4 +78,8 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Gardinas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Nemunas]]
+- [[objektai/vietos/Varėna]]
 - [[objektai/grupes/Aukščiausioji Santarvininkių Taryba]]

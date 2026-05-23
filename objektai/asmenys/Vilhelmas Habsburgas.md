@@ -96,3 +96,17 @@ Dar tėvui gyvam esant, penkerių metų Jadvyga 1378 m. buvo sužieduota su Aust
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Austrija]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Habsburgai]]
+- [[objektai/daiktai/Karūna]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/grupes/Lenkų bajorai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Vengrija]]
+- [[objektai/vietos/Viena]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

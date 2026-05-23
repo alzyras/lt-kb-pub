@@ -40,3 +40,10 @@ Visi tie veiksniai turėjo savo kainą, ryškiausias jos pavyzdys – nerašytas
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Jonavos azotinių trąšų gamykla]]
+- [[objektai/vietos/Kauno HES]]
+- [[objektai/vietos/Mažeikių naftos perdirbimo įmonė]]
+- [[objektai/vietos/Europa]]

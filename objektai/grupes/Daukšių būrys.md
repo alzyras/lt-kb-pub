@@ -55,3 +55,8 @@ Vis dėlto aukų nebuvo išvengta: sargyboje žuvo Dzūkų būrio partizanas Vac
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Vaclovas]]
+- [[objektai/zodynas/Adynos|adynos]]

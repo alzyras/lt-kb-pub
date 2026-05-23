@@ -45,3 +45,10 @@ Mickevičiaus, J.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/kunigas]]
+- [[objektai/paprociai/Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje]]

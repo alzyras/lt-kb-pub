@@ -45,6 +45,10 @@ Povilo Lukšio paminklas Taučiūnų kaimo lauke (netoli Kėdainių).
   teiginys: 'Visą karo metą jaunai Lietuvos kariuomenei daugeliu atžvilgiu teko patirti didelių sunPovilo Lukšio paminklas Taučiūnų kaimo lauke (netoli Kėdainių).'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Tačiau kitą akimirką į žvalgus pasipylė ugnis iš Taučiūnų dvaro.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -103,3 +107,17 @@ Povilo Lukšio paminklas Taučiūnų kaimo lauke (netoli Kėdainių).
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Tačiau kitą akimirką į žvalgus pasipylė ugnis iš Taučiūnų dvaro.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Tačiau kitą akimirką į žval-
+    gus pasipylė ugnis iš Taučiūnų dvaro. Žuvo
+    P.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004

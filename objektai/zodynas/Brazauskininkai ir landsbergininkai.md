@@ -45,4 +45,5 @@ Net buvo sakoma, kad Lietuvos visuomenė suskilo į „brazauskininkus“ ir „
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
 - [[objektai/ivykiai/1996 m. Seimo rinkimai ir konservatorių pergalė]]

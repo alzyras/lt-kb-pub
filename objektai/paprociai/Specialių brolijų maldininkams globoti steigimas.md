@@ -97,3 +97,6 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/religinė-praktika]]
+
+### Susiję objektai
+- [[objektai/vietos/Jeruzalė]]

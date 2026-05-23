@@ -58,3 +58,4 @@ Pagaliau valdovų kaitaliojimasis pa­ sibaigė 1424 met., kai Kipčako sostan V
 ### Susiję objektai
 - [[objektai/asmenys/Didysis Machmetas]]
 - [[objektai/ivykiai/Didžiojo Machmeto įsodinimas į Kipčako sostą ir įsigalėjimas Ordoje]]
+- [[objektai/posakiai/wieszczym duchem]]

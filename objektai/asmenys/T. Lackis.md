@@ -77,5 +77,8 @@ Lackio husarai ir ryžtingu puolimu nubloškia švedų raituosius gvardiečius. 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Kuršas]]
+- [[objektai/zodynas/husarai]]
+- [[objektai/zodynas/rotmistras]]
 - [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)]]
 - [[objektai/grupes/Švedų gvardijos kavalerija]]

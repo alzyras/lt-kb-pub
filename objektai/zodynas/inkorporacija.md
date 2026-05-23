@@ -64,6 +64,10 @@ Terminas pasitelkiamas atpasakoti vieną akto aiškinimą ir tuoj pat jam polemi
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: '1385 m. aktas todėl neparodo inkorporacijos, o greičiau busimą leno santykį didžiosios Lietuvos kunigaikštijos ir karūnos.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -84,8 +88,32 @@ Terminas pasitelkiamas atpasakoti vieną akto aiškinimą ir tuoj pat jam polemi
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+- c-002
+  santrauka: '1385 m. aktas todėl neparodo inkorporacijos, o greičiau busimą leno santykį didžiosios Lietuvos kunigaikštijos ir karūnos.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    1385 m. aktas todėl neparodo inkorporacijos, o greičiau busimą
+    leno santykį didžiosios Lietuvos kunigaikštijos ir karūnos. Lietu­
+    voje toliau išliko ne tik valstybinio gyvenimo skirtingumas, bet ir
+    pati didžiojo kunigaikščio institucija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/istorinė-sąvoka]]
 - [[temos/teisinis-terminas]]
+
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/zodynas/lenas]]
+- [[objektai/zodynas/aneksija]]
+- [[objektai/posakiai/didelis „remontas“ Krėvės unijoj]]
+- [[objektai/posakiai/karūna su karūna negali būti sujungta — inkorporuota]]
+- [[objektai/daiktai/Karūna]]

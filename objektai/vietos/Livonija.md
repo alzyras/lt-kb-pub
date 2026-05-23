@@ -24,13 +24,13 @@ datos:
   - '1571 m.'
   - '1582 m.'
   - '1583 m.'
+  - '1584 m.'
   - '1605 m.'
   - '1608 m.'
   - '1609 m.'
   - '1621 m.'
+  - '1629 m.'
   - '1700 m.'
-  - '1721 m.'
-  - '1936 m.'
 periodas: 'viduramžiai'
 periodo_grupes:
   - 'LDK'
@@ -46,7 +46,7 @@ amziai:
   - 'XX'
   - 'XXI'
 date_start: '1180'
-date_end: '1936'
+date_end: '1700'
 patikimumas: 'vidutinis'
 tags:
   - kunigaikštis
@@ -143,6 +143,94 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginys: 'Sutartyje caras atsisakė nuo Livonijos, Polocko ir Veližo; jam buvo grąžinti tik Didieji Lukai.'
   pagrindžia:
     - c-017
+- t-018
+  teiginys: 'Vėliau lietuvių žygiai padažnėjo – kasmet vyko po vieną–du žygius ir ne tik į rusų pusę, bet ir į Lenkiją bei Livoniją.'
+  pagrindžia:
+    - c-018
+- t-019
+  teiginys: 'Opoziciją pirmiausia sudarė artimiausi giminaičiai – brolvaikiai, pagalbon pasitelkę ir svetimuosius – Livonijos ordiną ir Voluinę.'
+  pagrindžia:
+    - c-019
+- t-020
+  teiginys: 'Vadinasi, Mindaugui reikėjo kovoti dėl pagoniškos Žemaitijos su krikščioniškąja Livonija, o kartu Vakarų jėgų ir popiežiaus akyse išlaikyti krikščionio valdovo statusą.'
+  pagrindžia:
+    - c-020
+- t-021
+  teiginys: 'Livonijos karuose 1558–1583 m. Lietuva ir Lenkija gavo didžiąją Livonijos dalį, kartu ir Rygą.'
+  pagrindžia:
+    - c-021
+- t-022
+  teiginys: 'Kova dėl Livonijos daugiausia buvo suinteresuota didesnio uosto neturėjusi Lietuva, nes Lenkija turėjo Gdansko uostą.'
+  pagrindžia:
+    - c-022
+- t-023
+  teiginys: 'Iškylanti Rusija Šiaurės karo metu (1700–1721) sutriuškino Švedijos karaliaus Karolio XII kariuomenę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki Rygos.'
+  pagrindžia:
+    - c-023
+- t-024
+  teiginys: 'Šitaip pagal Stryjkovskį buvo restauruoti Livonijos Ronneburgo analai ir necrologium14 15.'
+  pagrindžia:
+    - c-024
+- t-025
+  teiginys: 'Jau Livonijos (Ronneburgo) analai parodė, kad Stryjkovskis nebuvo tikslus šaltinių atžvilgiu.'
+  pagrindžia:
+    - c-025
+- t-026
+  teiginys: '1) su Livonija sudarė prekybinę sutartį.'
+  pagrindžia:
+    - c-026
+- t-027
+  teiginys: 'Kryžininkai grįžo atgal, o lietuviai, pasukę Livonijon, ją smarkiai nuteriojo.'
+  pagrindžia:
+    - c-027
+- t-028
+  teiginys: 'Jie dar padažnino savo « reizus » Lietuvon: 1370 jų padarė du, o 1372 puolė vienu metu iš Prūsų ir Livonijos.'
+  pagrindžia:
+    - c-028
+- t-029
+  teiginys: 'Ordino kronikose 1345-1382 m. yra suregistruota 66 žygiai iš Prūsų kryžiuočių ir 30—iš Livonijos.'
+  pagrindžia:
+    - c-029
+- t-030
+  teiginys: '1608 m. vasarą Livonijoje išsilaipino grafo Frederiko Joachimo Mansfeldo vadovaujamas 8000 Švedijos karių ekspedicinis korpusas, kuris 1608 m. rugpjūčio 1 d.'
+  pagrindžia:
+    - c-030
+- t-031
+  teiginys: 'Tuo metu pačiai Lietuvai grėsė pavojus iš Švedijos - švedai 1621 m. užėmė didelę dalį Livonijos, karu grasino ir Rusija, tačiau nepaisant to, lietuviai atskubėjo lenkams į pagalbą kovoje su turkais.'
+  pagrindžia:
+    - c-031
+- t-032
+  teiginys: 'Todėl Augustas 11 nusprendė išvyti iš Livonijos švedus ir ją užvaldyti.'
+  pagrindžia:
+    - c-032
+- t-033
+  teiginys: 'Augusto II siekius rėmė ir dalis Švedijos karaliaus Karolio x11 valdymu nepatenkintos Livonijos aristokratijos.'
+  pagrindžia:
+    - c-033
+- t-034
+  teiginys: 'Iš savo pusės, sutikdami apsi­ krikštyti, jiedu pirmiausia reikalavo, kad Vokiečių Ordinas Lie­ tuvai grąžintų žemes iki Deimės ir Alės upių Prūsijoje ir Žiemga­ lius bei Kuršius Livonijoje.'
+  pagrindžia:
+    - c-034
+- t-035
+  teiginys: 'Šitomis paliaubomis pasibaigė ilgai traukęsi karai su Maskva dėl Livonijos.'
+  pagrindžia:
+    - c-035
+- t-036
+  teiginys: 'Visa Livonija, anapus Dauguvos, su Ryga buvo palikta švedams.'
+  pagrindžia:
+    - c-036
+- t-037
+  teiginys: 'Lietuvos sienos Vazų laikais Ilgai trukę karai su Maskva dėl Livonijos pasibaigė Lietuvos ir Lenkijos laimėjimu: Stepono Batoro laikais buvo atgautas Polockas ir visa Livonija (žiūr.'
+  pagrindžia:
+    - c-037
+- t-038
+  teiginys: 'Zigmanto Vazos laikais, šiam pradėjus karą dėl Švedijos sosto, Livonija buvo prarasta: ji net iki Dauguvos upės atiteko Švedijai (žiūr.'
+  pagrindžia:
+    - c-038
+- t-039
+  teiginys: 'Tik labai sumažėjo Lietuvos ir Lenkijos bendrai valdomoji Livonija: didžioji jos dalis su Ryga liko Švedijai; Štumdorfo taika (žiūr.'
+  pagrindžia:
+    - c-039
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -469,9 +557,590 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-017
+- c-018
+  santrauka: 'Vėliau lietuvių žygiai padažnėjo – kasmet vyko po vieną–du žygius ir ne tik į rusų pusę, bet ir į Lenkiją bei Livoniją.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vėliau lietuvių žygiai
+    padažnėjo – kasmet vyko po vieną–du žygius ir ne tik į rusų pusę, bet ir
+    į Lenkiją bei Livoniją.
+    Plėšiamieji žygiai rodė didėjant lietuvių jėgą, jie tokių žygių skaičiumi
+    pralenkė turtingus prūsus ar karingus kuršius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018
+- c-019
+  santrauka: 'Opoziciją pirmiausia sudarė artimiausi giminaičiai – brolvaikiai, pagalbon pasitelkę ir svetimuosius – Livonijos ordiną ir Voluinę.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tačiau Mindaugui dar reikėjo įtvirtinti valdžią. 1248 m. padėtis jam
+    tapo labai grėsminga. Opoziciją pirmiausia sudarė artimiausi giminai-
+    čiai – brolvaikiai, pagalbon pasitelkę ir svetimuosius – Livonijos ordiną
+    ir Voluinę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019
+- c-020
+  santrauka: 'Vadinasi, Mindaugui reikėjo kovoti dėl pagoniškos Žemaitijos su krikščioniškąja Livonija, o kartu Vakarų jėgų ir popiežiaus akyse išlaikyti krikščionio valdovo statusą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vadinasi, Mindaugui reikėjo kovoti dėl pagoniškos Žemaitijos su
+    krikščioniškąja Livonija, o kartu Vakarų jėgų ir popiežiaus akyse išlaikyti
+    krikščionio valdovo statusą.
+    Po Mindaugo nužudymo būta didžiulės sumaišties: per kelerius metus
+    Lietuvoje nužudyti dar trys dėl valdžios kovoję kunigaikščiai, vienas išvytas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020
+- c-021
+  santrauka: 'Livonijos karuose 1558–1583 m. Lietuva ir Lenkija gavo didžiąją Livonijos dalį, kartu ir Rygą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Livonijos karuose 1558–1583 m. Lietuva
+    ir Lenkija gavo didžiąją Livonijos dalį, kartu ir Rygą. Tačiau Švedija ėmė
+    siekti viešpatauti Baltijos jūroje (dominium maris Baltici).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-021
+- c-022
+  santrauka: 'Kova dėl Livonijos daugiausia buvo suinteresuota didesnio uosto neturėjusi Lietuva, nes Lenkija turėjo Gdansko uostą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kova dėl Livonijos daugiausia buvo suin-
+    teresuota didesnio uosto neturėjusi Lietuva, nes Lenkija turėjo Gdansko
+    uostą. 1605 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-022
+- c-023
+  santrauka: 'Iškylanti Rusija Šiaurės karo metu (1700–1721) sutriuškino Švedijos karaliaus Karolio XII kariuomenę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki Rygos.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Iškylanti Rusija Šiaurės karo
+    metu (1700–1721) sutriuškino Švedijos karaliaus Karolio XII kariuome-
+    nę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki
+    Rygos. Lietuva ir Lenkija šiame kare ekonomiškai ir politiškai nusilpo, jų
+    teritoriją nuniokojo svetimos ir savos kariuomenės, atsirado anarchijos
+
+    L I E T U V O S  I S T O R I J A
+    88
+    apraiškų ir magnatų tarpusavio kovų, be to, švedai sugriovė nedidelius
+    Lietuvos uostus Palangoje ir Šventojoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-023
+- c-024
+  santrauka: 'Šitaip pagal Stryjkovskį buvo restauruoti Livonijos Ronneburgo analai ir necrologium14 15.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Šitaip pagal Stryjkovskį buvo restauruoti
+    Livonijos Ronneburgo analai ir necrologium14 15. Bet toji akyla
+    lotyniška restauracija parodė, kad analų originalo tekstu skubotas
+    Stryjko vskis nesinaudojo tiksliai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-024
+- c-025
+  santrauka: 'Jau Livonijos (Ronneburgo) analai parodė, kad Stryjkovskis nebuvo tikslus šaltinių atžvilgiu.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Jau Livonijos (Ronneburgo) analai parodė, kad Stryjkovskis
+    nebuvo tikslus šaltinių atžvilgiu. Jis neparodė ir žymesnio kritiš­
+    kumo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-025
+- c-026
+  santrauka: '1) su Livonija sudarė prekybinę sutartį.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Jis tada
+    žiemop (XI. 1) su Livonija sudarė prekybinę sutartį. Labiau teisus
+    tad yra Naugardo I metraštis, užrašęs žinią, jog Gediminas yra
+    miręs savo mirtimi 1340-1341 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-026
+- c-027
+  santrauka: 'Kryžininkai grįžo atgal, o lietuviai, pasukę Livonijon, ją smarkiai nuteriojo.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Kryžininkai grįžo atgal, o lietuviai, pasukę Livonijon, ją smarkiai
+    nuteriojo. Esą ten buvę užmušta apie 2000 žmonių10 11 12 13. Vyriausias
+    ordino magistras (Ludolfas König) to didelio išsiruošimo nelaimingą
+    pabaigą ir svečių bei riterių priekaištus taip esąs širdin paėmęs ir
+    dvasiniai pakrikęs, jog atsisakęs pareigų (1345.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-027
+- c-028
+  santrauka: 'Jie dar padažnino savo « reizus » Lietuvon: 1370 jų padarė du, o 1372 puolė vienu metu iš Prūsų ir Livonijos.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Jie dar padažnino savo « reizus » Lietuvon: 1370 jų padarė du, o
+    1372 puolė vienu metu iš Prūsų ir Livonijos.
+    Kad būtų galima kiek pailsėti nuo tolimesnių teriojimų, Algir­
+    das su Kęstučiu pradėjo su ordinu derybas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-028
+- c-029
+  santrauka: 'Ordino kronikose 1345-1382 m. yra suregistruota 66 žygiai iš Prūsų kryžiuočių ir 30—iš Livonijos.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Ordino kronikose 1345-1382 m. yra suregistruota 66 žygiai iš Prūsų
+    kryžiuočių ir 30—iš Livonijos. Į tą skaičių neįeina pasienyje
+    ordino riterių suorganizuoti savanorių — « plėšikėlių » (vad.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-029
+- c-030
+  santrauka: '1608 m. vasarą Livonijoje išsilaipino grafo Frederiko Joachimo Mansfeldo vadovaujamas 8000 Švedijos karių ekspedicinis korpusas, kuris 1608 m. rugpjūčio 1 d.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    1608 m. vasarą Livonijoje išsilaipino grafo
+    Frederiko Joachimo Mansfeldo vadovau-
+    jamas 8000 Švedijos karių ekspedicinis
+    korpusas, kuris 1608 m. rugpjūčio 1 d.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-030
+- c-031
+  santrauka: 'Tuo metu pačiai Lietuvai grėsė pavojus iš Švedijos - švedai 1621 m. užėmė didelę dalį Livonijos, karu grasino ir Rusija, tačiau nepaisant to, lietuviai atskubėjo lenkams į pagalbą kovoje su turkais.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Tuo metu pačiai Lietuvai grėsė pavojus
+    iš Švedijos - švedai 1621 m. užėmė didelę
+    dalį Livonijos, karu grasino ir Rusija, ta-
+    čiau nepaisant to, lietuviai atskubėjo len-
+    kams į pagalbą kovoje su turkais.
+
+    kavalerija
+
+    Jungtinė kariuomenė
+
+    1621 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-031
+- c-032
+  santrauka: 'Todėl Augustas 11 nusprendė išvyti iš Livonijos švedus ir ją užvaldyti.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Todėl Augustas 11 nusprendė
+    išvyti iš Livonijos švedus ir ją užvaldyti.
+    Augustas II susitarė su Rusijos valdovu
+    Petru I dél jo paramos prieš Švediją.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-032
+- c-033
+  santrauka: 'Augusto II siekius rėmė ir dalis Švedijos karaliaus Karolio x11 valdymu nepatenkintos Livonijos aristokratijos.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Augusto II siekius rėmė ir dalis Švedijos kara-
+    liaus Karolio x11 valdymu nepatenkintos
+    Livonijos aristokratijos. Augusto II
+    “planams nepritarė seimas, pareika-
+    lavęs iš Lietuvos teritorijos išvesti jo
+    „ Saksonijos kariuomenę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-033
+- c-034
+  santrauka: 'Iš savo pusės, sutikdami apsi­ krikštyti, jiedu pirmiausia reikalavo, kad Vokiečių Ordinas Lie­ tuvai grąžintų žemes iki Deimės ir Alės upių Prūsijoje ir Žiemga­ lius bei Kuršius Livonijoje.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Iš savo pusės, sutikdami apsi­
+    krikštyti, jiedu pirmiausia reikalavo, kad Vokiečių Ordinas Lie­
+    tuvai grąžintų žemes iki Deimės ir Alės upių Prūsijoje ir Žiemga­
+    lius bei Kuršius Livonijoje. Kadangi Lietuvai apsikrikštijus
+    Ordino egzistencijai Lietuvos pasieniuose nebūtų buvę pagrindo,
+    tai jiedu siūlė Ordinui išsikelti į Rusijos pietus, ginti krikščionis
+    nuo totorių užpuldinėjimo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-034
+- c-035
+  santrauka: 'Šitomis paliaubomis pasibaigė ilgai traukęsi karai su Maskva dėl Livonijos.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    ** Šitomis paliaubomis pasibaigė
+    ilgai traukęsi karai su Maskva dėl Livonijos. Livonija nuo
+    Maskvos buvo apginta, bet netrukus dėl jos prasidėjo net 60
+    metų trukę karai su Švedija. Caras Jonas IV, gal būt, dary-
+    damas šias paliaubas, ir galvojo vėl kada nors pradėti karą
+
+
+    su Lietuva, tačiau jam jau nebeteko kariauti, nes netrukus
+    (1584 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-035
+- c-036
+  santrauka: 'Visa Livonija, anapus Dauguvos, su Ryga buvo palikta švedams.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Pagaliau įsimaišė Pran-
+    cūziją, kuri norėjo Gustavą Adolfą įtraukti į einantį Vokie-
+    tijoje 30 metų karą, ir 1629 m. Altmarke buvo padarytos
+    6 metams paliaubos. Visa Livonija, anapus Dauguvos, su Ryga
+    buvo palikta švedams.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-036
+- c-037
+  santrauka: 'Lietuvos sienos Vazų laikais Ilgai trukę karai su Maskva dėl Livonijos pasibaigė Lietuvos ir Lenkijos laimėjimu: Stepono Batoro laikais buvo atgautas Polockas ir visa Livonija (žiūr.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Lietuvos sienos Vazų laikais
+
+    Ilgai trukę karai su Maskva dėl Livonijos pasibaigė Lie-
+    tuvos ir Lenkijos laimėjimu: Stepono Batoro laikais buvo
+    atgautas Polockas ir visa Livonija (žiūr. 285—289 psl.).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-037
+- c-038
+  santrauka: 'Zigmanto Vazos laikais, šiam pradėjus karą dėl Švedijos sosto, Livonija buvo prarasta: ji net iki Dauguvos upės atiteko Švedijai (žiūr.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Zigmanto
+    Vazos laikais, šiam pradėjus karą dėl Švedijos sosto, Livonija
+    buvo prarasta: ji net iki Dauguvos upės atiteko Švedijai (žiūr.
+    304, 328 psl.).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-038
+- c-039
+  santrauka: 'Tik labai sumažėjo Lietuvos ir Lenkijos bendrai valdomoji Livonija: didžioji jos dalis su Ryga liko Švedijai; Štumdorfo taika (žiūr.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tik labai suma-
+    žėjo Lietuvos ir Lenkijos bendrai valdomoji Livonija: didžioji
+    jos dalis su Ryga liko Švedijai; Štumdorfo taika (žiūr. 318 psl.)
+    tebuvo atgauta tik viena Latgala.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-039
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Didieji Lukai]]
-- [[objektai/vietos/Jelgava]]
+- [[objektai/vietos/Dauguva]]
+- [[objektai/vietos/Latgala]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Maskva]]
+- [[objektai/vietos/Polockas]]
+- [[objektai/vietos/Ryga]]
+- [[objektai/asmenys/Steponas Batoras]]
+- [[objektai/vietos/Viena]]
+- [[objektai/vietos/Švedija]]
+- [[objektai/ivykiai/1380 m. vasario paliaubos su Livonijos ordinu]]
+- [[objektai/ivykiai/1794 m. sukilimas Lietuvoje]]
+- [[objektai/ivykiai/1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas]]
+- [[objektai/grupes/Abiejų Tautų konfederacija]]
+- [[objektai/vietos/Alūksnė]]
+- [[objektai/ivykiai/Andriaus ir koalicijos sutriuškinimas]]
+- [[objektai/asmenys/Andrius Polockietis]]
+- [[objektai/asmenys/Andrius Štirlandas]]
+- [[objektai/vietos/Ariogalos kraštas]]
+- [[objektai/asmenys/Augustas II]]
+- [[objektai/vietos/Aukštaičių žemė]]
+- [[objektai/vietos/Baltija]]
+- [[objektai/vietos/Ceklis]]
+- [[objektai/vietos/Cėsis (Vendenas)]]
+- [[objektai/grupes/Danijos karaliaus kariai iš Revelio]]
+- [[objektai/posakiai/Datum in Lettowia in curia nostra]]
+- [[objektai/vietos/Daugavgryva]]
+- [[objektai/asmenys/Dovydas (Gardino pilininkas)]]
+- [[objektai/vietos/Dubrovna]]
+- [[objektai/vietos/Duobelės pilis]]
+- [[objektai/vietos/Durbė]]
+- [[objektai/ivykiai/Durbės mūšis (1260 m.)]]
+- [[objektai/vietos/Durbės pilis]]
+- [[objektai/asmenys/Eilartas fon Hobergas]]
+- [[objektai/asmenys/Engelhardas Rabe]]
+- [[objektai/asmenys/Ernestas fon Racburgas]]
+- [[objektai/grupes/Estai]]
+- [[objektai/asmenys/Frederikas Joachimas Mansfeldas]]
+- [[objektai/asmenys/Fulvio Ruggieri]]
+- [[objektai/grupes/Gardino seimas (1566 m.)]]
+- [[objektai/ivykiai/Gedimino prekybinė sutartis su Livonija (1338 m.)]]
+- [[objektai/ivykiai/Gedimino taikos sutartis su Livonija (1322 m.)]]
+- [[objektai/vietos/Georgenburgas]]
+- [[objektai/asmenys/Gotszalk Schutte]]
+- [[objektai/vietos/Grajevo]]
+- [[objektai/asmenys/Grigalius Chodkevičius]]
+- [[objektai/asmenys/Hanulis]]
+- [[objektai/autoriai/Henrikas]]
+- [[objektai/asmenys/Henrikas von Plauen]]
+- [[objektai/asmenys/I. Zolotarenko]]
+- [[objektai/vietos/Imsrė]]
+- [[objektai/asmenys/Ivanas IV Rūstusis]]
+- [[objektai/autoriai/J. Dlugošas]]
+- [[objektai/asmenys/J. Tiergard’as]]
+- [[objektai/vietos/Jelgava]]
+- [[objektai/asmenys/Jonas Chodkevičius]]
+- [[objektai/asmenys/Jonas Habundi]]
+- [[objektai/asmenys/Jonas Karolis Katkevičius]]
+- [[objektai/asmenys/Jonas Šafranas]]
+- [[objektai/vietos/Juodosios jūros sritis]]
+- [[objektai/asmenys/Juozapas Kosakovskis|Juozapas Kosakovskis (vyskupas)]]
+- [[objektai/vietos/Jurbarkas]]
+- [[objektai/asmenys/Jurgis (Danieliaus sūnus)]]
+- [[objektai/asmenys/Jurgis Vytautaitis]]
+- [[objektai/vietos/Jūros upė]]
+- [[objektai/autoriai/K. Chodynicki]]
+- [[objektai/grupes/Kalavijuočių ordinas]]
+- [[objektai/posakiai/Karalius Keystutte, jo pavaldiniai ir jo žemės ir Žemaičių gyventojai visiškai turi būti išskirti]]
+- [[objektai/ivykiai/Karas dėl Livonijos]]
+- [[objektai/ivykiai/Karolio XII įžengimas į Lietuvą ir Žemaitijos, Kauno, Vilniaus užėmimas (1702 m.)]]
+- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
+- [[objektai/asmenys/Karolis IX]]
+- [[objektai/asmenys/Karolis XII]]
+- [[objektai/ivykiai/Karusės mūšis (1270 m. vasario 16 d.)]]
+- [[objektai/vietos/Karšuvos sritis]]
+- [[objektai/grupes/Katalikų Bažnyčia]]
+- [[objektai/asmenys/Kerskorfas]]
+- [[objektai/vietos/Kijevo Rusia]]
+- [[objektai/vietos/Konstancija]]
+- [[objektai/vietos/Kopilino]]
+- [[objektai/asmenys/Kristijonas|Kristijonas (vyskupas)]]
+- [[objektai/asmenys/Kristupas Radvila Perkūnas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Kulių (Jurgaičių) pilys]]
+- [[objektai/vietos/Kuršių Neringa]]
+- [[objektai/grupes/Kuršo kunigaikštystė]]
+- [[objektai/autoriai/Kučinskas, A]]
+- [[objektai/ivykiai/Kėdainių sutarties sudarymas su Švedija]]
+- [[objektai/vietos/Leipūnos upė]]
+- [[objektai/grupes/Lietgaliai]]
+- [[objektai/ivykiai/Lietuvos įsiveržimas į Estiją ir kryžiuočių įsiveržimas į Žemaitiją (1322 m.)]]
+- [[objektai/ivykiai/Liublino unija]]
+- [[objektai/ivykiai/Liublino unija (1569 m.)]]
+- [[objektai/ivykiai/Livonijos karai]]
+- [[objektai/grupes/Livonijos konfederacija]]
+- [[objektai/grupes/Livonijos kunigaikštystė]]
+- [[objektai/grupes/Livonijos ordinas]]
+- [[objektai/ivykiai/Livonijos ordino 10 metų sutarties su Pskovu sudarymas]]
+- [[objektai/ivykiai/Livonijos ordino amžinos taikos su Naugardu D. sudarymas (1421 m.)]]
+- [[objektai/vietos/Livonijos pasienis]]
+- [[objektai/grupes/Livonijos valstybė]]
+- [[objektai/vietos/Lukomlis]]
+- [[objektai/autoriai/M. Bielski]]
+- [[objektai/autoriai/M. Kromer]]
+- [[objektai/vietos/Marijenburgas]]
+- [[objektai/grupes/Maskvos kunigaikštija]]
+- [[objektai/ivykiai/Melno taikos ratifikavimas Veliuonoje (1423 m. gegužė)]]
+- [[objektai/vietos/Mežuotnės pilis]]
+- [[objektai/autoriai/Miechowita]]
+- [[objektai/asmenys/Mikalojus Romedanskis (Medininkų vyskupas)]]
+- [[objektai/ivykiai/Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia)]]
+- [[objektai/ivykiai/Mindaugo karūnacija (1253 m.)]]
+- [[objektai/ivykiai/Mindaugo krikštas ir karūnos išsirūpinimas]]
+- [[objektai/ivykiai/Mindaugo žygis į Livonijos Ordino žemes]]
+- [[objektai/vietos/Minija]]
+- [[objektai/vietos/Mituva]]
+- [[objektai/vietos/Mozūrijos žemė]]
+- [[objektai/asmenys/Nameisis (žiemgalių kunigaikštis)]]
+- [[objektai/vietos/Narevas]]
+- [[objektai/asmenys/Narimantas Gediminaitis]]
+- [[objektai/asmenys/Nesselrodė]]
+- [[objektai/vietos/Niešava]]
+- [[objektai/ivykiai/Niešavo prekybos sutartis („über transitus“) (1424 m.)]]
+- [[objektai/grupes/Notangai]]
+- [[objektai/autoriai/O. Halecki]]
+- [[objektai/vietos/Olyka]]
+- [[objektai/asmenys/Ona Vytautienė]]
+- [[objektai/grupes/Osmanų Turkija]]
+- [[objektai/asmenys/Ottonas Luterbergas]]
+- [[objektai/vietos/Pabaiskas]]
+- [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]
+- [[objektai/vietos/Padauguvis]]
+- [[objektai/vietos/Paidė]]
+- [[objektai/grupes/Pamedėnai]]
+- [[objektai/vietos/Panemunė]]
+- [[objektai/vietos/Papilė]]
+- [[objektai/asmenys/Petras I Didysis]]
+- [[objektai/vietos/Piltenė]]
+- [[objektai/paprociai/Politinės manifestacijos kaip spaudimo valdžiai ir teismui praktika]]
+- [[objektai/vietos/Prūsų žemė]]
+- [[objektai/vietos/Pskovo pilis]]
+- [[objektai/grupes/Pskovo respublika]]
+- [[objektai/asmenys/Pukuveras (Lietuvos karalius)]]
+- [[objektai/vietos/Ragordo ežerai]]
+- [[objektai/vietos/Rezeknės regionas]]
+- [[objektai/daiktai/Riterių vėliava]]
+- [[objektai/asmenys/Romanas Sanguška]]
+- [[objektai/vietos/Ronneburgas]]
+- [[objektai/asmenys/Rusdorfas]]
+- [[objektai/vietos/Rusnė]]
+- [[objektai/grupes/Rygiečiai]]
+- [[objektai/ivykiai/Rygos ir Polocko pirklių laisvos prekybos sutartis (1405–1406 m.)]]
+- [[objektai/ivykiai/Rygos pirklių prekybos teisė Lietuvoje (1253 m.)]]
+- [[objektai/grupes/Rygos vokiečiai]]
+- [[objektai/grupes/Rygos vyskupija]]
+- [[objektai/vietos/Salyno sala]]
+- [[objektai/vietos/Saremos]]
+- [[objektai/vietos/Saremos sala]]
+- [[objektai/vietos/Semba]]
+- [[objektai/grupes/Sembai]]
+- [[objektai/asmenys/Simonas Kosakovskis]]
+- [[objektai/vietos/Smalininkai]]
+- [[objektai/vietos/Smolenskas]]
+- [[objektai/daiktai/Stepono Batoro paradinis kalavijas]]
+- [[objektai/vietos/Tartai]]
+- [[objektai/vietos/Tartu]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/vietos/Transilvanija]]
+- [[objektai/vietos/Tverės sritis]]
+- [[objektai/vietos/Upytė]]
+- [[objektai/vietos/Upytės žemė]]
+- [[objektai/autoriai/V. Urbanavičius]]
+- [[objektai/asmenys/Valdemaras IV]]
+- [[objektai/grupes/Varmiai]]
+- [[objektai/vietos/Veliuona]]
+- [[objektai/vietos/Venta]]
+- [[objektai/vietos/Ventės ragas]]
+- [[objektai/vietos/Vilijandis]]
+- [[objektai/vietos/Viljandis]]
+- [[objektai/grupes/Vilniaus konfederacija]]
+- [[objektai/ivykiai/Vilniaus konfederacijos pritarimas Targovicos konfederacijai]]
+- [[objektai/ivykiai/Vilniaus taika su Livonijos ordinu (1323 m. spalio 2 d.)]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/vietos/Viznos apylinkės]]
+- [[objektai/asmenys/Vladislovas Jogailaitis]]
+- [[objektai/asmenys/Vladislovas Oporovskis]]
+- [[objektai/vietos/Vyborgas]]
+- [[objektai/asmenys/Vygandas]]
+- [[objektai/posakiai/Vytautas bijojo, kad bus numestas nuo sosto]]
+- [[objektai/ivykiai/Vytauto paliaubos ir taikos derybos su Livonijos ordinu (1410 m. vasara)]]
+- [[objektai/asmenys/Vytenis (Lietuvos karalius)]]
+- [[objektai/asmenys/Zigmantas Vaza]]
+- [[objektai/zodynas/bažnytinė valstybė]]
+- [[objektai/zodynas/etmonas]]
+- [[objektai/zodynas/hetmonas]]
+- [[objektai/zodynas/humanistinė istoriografija]]
+- [[objektai/zodynas/indulgencija]]
+- [[objektai/zodynas/kryžininkai]]
+- [[objektai/zodynas/kunic]]
+- [[objektai/zodynas/laisvasis Rygos miestas]]
+- [[objektai/posakiai/moterų kraštas]]
+- [[objektai/zodynas/vasalas]]
+- [[objektai/zodynas/vikariatas]]
+- [[objektai/grupes/Čekijos husitai]]
+- [[objektai/vietos/Šiaulių žemė]]
+- [[objektai/ivykiai/Šiaurės karas]]
+- [[objektai/vietos/Šiaurės Žemaitija]]
+- [[objektai/vietos/Širvintos upė]]
+- [[objektai/vietos/Šušvė]]
+- [[objektai/grupes/Žiemgaliai]]
+- [[objektai/asmenys/Žygimantas Kęstutaitis]]
+- [[objektai/posakiai/„Lietuva pasodino didįjį kunigaikštį Žygimantą Kęstutaitį didžiojoje kunigaikštystėje Vilniuje ir Trakuose rugsėjo 1 d.“]]
+- [[objektai/posakiai/„Mindaugas – pirmas ir vienintelis vainikuotas Lietuvos karalius“]]
+- [[objektai/posakiai/„Romos karaliaus garbei“]]
+- [[objektai/posakiai/„aidint patrankoms, mūzos tyli“]]
+- [[objektai/posakiai/„krikščionys turi raudoti dėl jo mirties“]]
+- [[objektai/vietos/Cesys]]
+- [[objektai/autoriai/Dusburgas]]
+- [[objektai/vietos/Estija]]
+- [[objektai/asmenys/Karolis Carlsonas Gyllenhielmas]]
+- [[objektai/vietos/Kuršmarės]]
+- [[objektai/posakiai/Lietuvos karaliaus sūnus]]
+- [[objektai/vietos/Nalšėnai]]
+- [[objektai/autoriai/Osten-Sacken, P. von]]
+- [[objektai/autoriai/P. von]]
+- [[objektai/vietos/Prūsija]]
+- [[objektai/paprociai/Sezoniniai ordino žygiai į Lietuvą]]
+- [[objektai/posakiai/bedieviškąją Lietuvą]]
+- [[objektai/zodynas/vokiečių ateivių valstybė]]
+- [[objektai/posakiai/„Lietuvos karaliaus sūnus“]]

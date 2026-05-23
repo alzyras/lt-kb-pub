@@ -36,6 +36,10 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
     - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: 'Kartą buvo kilęs ginčas tarp Vloc­ lavo Vyskupo Jono Kropidlos ir Jogailos, taip pat tarp kara­ liaus bei Mozūrų Ziemovito.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -79,3 +83,52 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Mozūrų kunigaikštis Ziemovitas reiškė pretenzijas į Lenkijos sostą ir buvo dukart savo šalininkų išrinktas Lenkijos karaliumi.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Kandidatu į
+    jaunos ir gražios Jadvygos vyrus buvo be jau minėto Vilhelmo,
+    dar Vladislovas iš Opolijos, kadaise mylimas karaliaus Liudviko,
+    bet lenkams jis nepatiko todėl, kad paėjo iš jiems nemėgiamų Si­
+    lezijos kunigaikščių giminės; reiškė savo pretenzijas ir Mozūrų
+    kunigaikštis Ziemovitas, palaikomas Gniezno arkivyskupo ir bu­
+    vęs net dukart savo šalininkų išrinktas Lenkijos karalium. Vi­
+    sų tų kandidatų šalininkai kėlė krašte neramumų, ardė tvarką,
+    viena partija kilo prieš kitą ir kiekviena jų naudojosi įvairiomis
+    priemonėmis pakelti į sostą savo kandidatą, o iš oro pusės kraš­
+    tą naikino sileziečiai ir lietuviai^1 ).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Kartą buvo kilęs ginčas tarp Vloc­ lavo Vyskupo Jono Kropidlos ir Jogailos, taip pat tarp kara­ liaus bei Mozūrų Ziemovito.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Kartą buvo kilęs ginčas tarp Vloc­
+    lavo Vyskupo Jono Kropidlos ir Jogailos, taip pat tarp kara­
+    liaus bei Mozūrų Ziemovito. Ir šitas nesusipratimas buvo iš­
+    spręstas ne keno kito, kaip Vytauto^2 ).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Gniezno]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Viena]]
+- [[objektai/asmenys/Vladislovas]]
+- [[objektai/ivykiai/Jogailos pasiūlymas Vytautui per Henriką Ziemovitą (1392 m. pavasaris)]]
+- [[objektai/grupes/Karijotaičiai]]
+- [[objektai/paprociai/Kreipimasis į Vytautą svarbiausiais reikalais]]
+- [[objektai/zodynas/pakancleris]]

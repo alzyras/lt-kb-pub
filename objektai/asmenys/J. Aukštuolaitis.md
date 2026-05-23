@@ -68,4 +68,15 @@ Tačiau pirmaisiais saksų savanoriais ne visuomet buvo galima pasitikėti, riuo
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Tauragė]]
+- [[objektai/grupes/Bolševikai]]
+- [[objektai/vietos/Gardinas]]
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Kėdainiai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/Savanoris]]
+- [[objektai/zodynas/avantiūristas]]
+- [[objektai/zodynas/komendantūra]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Žemaičiai]]

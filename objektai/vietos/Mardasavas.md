@@ -59,3 +59,7 @@ Prieš mūšį 1945 m. gruodžio 5 d. prie Mardasavo km., ant Merkio kranto neti
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/NKVD]]

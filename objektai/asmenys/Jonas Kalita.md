@@ -79,3 +79,16 @@ Veiklus didysis Maskvos kunigaikštis Jonas Kalita (1325-41) greitai atstatė Na
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/vietos/Naugardas]]
+- [[objektai/vietos/Tverė]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/savarankiškumas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/vietininkas]]
+- [[objektai/asmenys/Jurgis (Danieliaus sūnus)]]
+- [[objektai/grupes/Riurikaičių dinastija]]

@@ -40,3 +40,7 @@ Dar smarkiau buvo pradėti persekioti unitai, kurie veikiai visai išnyko — bu
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Unitai]]

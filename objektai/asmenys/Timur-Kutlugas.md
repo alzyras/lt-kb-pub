@@ -54,3 +54,7 @@ Timuras tačiau derybomis norėjo tik laimėti laiko, nes laukė savo karo vado 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/pinigai]]
+
+### Susiję objektai
+- [[objektai/vietos/Vorskla]]
+- [[objektai/zodynas/chanas]]

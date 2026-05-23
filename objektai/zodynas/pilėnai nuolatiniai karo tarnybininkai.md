@@ -54,3 +54,8 @@ Gedimino laikais Lietuvoje buvo išplėtotas mūrinių pilių tinklas, susiforma
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/vietos/Lietuva]]

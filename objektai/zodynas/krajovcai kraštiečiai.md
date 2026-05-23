@@ -52,4 +52,7 @@ Tokia pozicija nesivadovavo tik krašte neįtakingos radikalių kairiųjų, į k
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lenkija]]
+- [[objektai/zodynas/konfederacija]]
+- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/krajovcai]]

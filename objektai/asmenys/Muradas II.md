@@ -55,3 +55,15 @@ Turkų sultonas Muradas II siuntė Vytautui į Smolenską dovanų.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Konstantinopolis]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/vietos/Moldavija]]
+- [[objektai/vietos/Smolenskas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/ciesorius]]
+- [[objektai/asmenys/Aleksandras (Moldavijos valdovas)]]
+- [[objektai/asmenys/Jonas Paleologas]]
+- [[objektai/asmenys/Manuelis]]

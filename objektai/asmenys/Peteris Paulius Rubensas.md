@@ -44,4 +44,7 @@ Katalikybė buvo prielaida Italijos ir Ispanijos baroko kultūrai plisti Vakarų
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Europa]]
+- [[objektai/vietos/Italija]]
+- [[objektai/zodynas/barokas]]
 - [[objektai/vietos/Ispanija]]

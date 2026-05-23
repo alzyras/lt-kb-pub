@@ -62,7 +62,22 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
     - c-005
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-
+- t-006
+  teiginys: 'Popiežius Martynas V, Konstan­ cijos susirinkime išrinktas, Vytautą ir Jogailą paskyrė (1417.'
+  pagrindžia:
+    - c-006
+- t-007
+  teiginys: 'Taip pat po­ piežius Martynas V galutinai patvirtino ir Žemaičių vyskupiją.'
+  pagrindžia:
+    - c-007
+- t-008
+  teiginys: 'Vytautas su Jogaila išvien kovodami prieš Breslavo sprendimą, pasistengė iškelt Ordinui bylą ir pas popiežių Martyną V.'
+  pagrindžia:
+    - c-008
+- t-009
+  teiginys: 'Popiežius Martynas V laiškais kelis kartus ragino Jogailą ir Vytautą susitarus paskelbti karą husitams.'
+  pagrindžia:
+    - c-009
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Popiežius Martynas V 1417 m. gegužės 13 d. paskyrė Vytautą ir Jogailą savo vikarais pasauliniuose dalykuose Lietuvai ir Rusijai.'
@@ -155,3 +170,80 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Popiežius Martynas V, Konstan­ cijos susirinkime išrinktas, Vytautą ir Jogailą paskyrė (1417.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Popiežius Martynas V, Konstan­
+    cijos susirinkime išrinktas, Vytautą ir Jogailą paskyrė
+    (1417. V. 13) savo vikarais pasauliniuose dalykuose Lietuvai
+    ir Rusijai, pavesdamas jiems kurti bažnyčias, lengvinti kuni­
+    gams žmonių krikštijimą, globoti kunigiją ir tikinčiuosius, ginti
+    tikėjimą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: 'Taip pat po­ piežius Martynas V galutinai patvirtino ir Žemaičių vyskupiją.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Taip pat po­
+    piežius Martynas V galutinai patvirtino ir Žemaičių vyskupiją.
+    Taigi šito Lietuvos krašto reikalai buvo visiškai sutvarkyti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: 'Vytautas su Jogaila išvien kovodami prieš Breslavo sprendimą, pasistengė iškelt Ordinui bylą ir pas popiežių Martyną V.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Vytautas su
+    Jogaila išvien kovodami prieš Breslavo sprendimą, pasistengė
+    iškelt Ordinui bylą ir pas popiežių Martyną V. Ordinas norėjo
+    tam užbėgti už akių, bet pasivėlavo. Galų gale prieita prie išva­
+    dos, kad teisingiausiai gali išspręsti ginčą tik ginklas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: 'Popiežius Martynas V laiškais kelis kartus ragino Jogailą ir Vytautą susitarus paskelbti karą husitams.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Popie­
+    žius Martynas V jau kelis kartus stengėsi laiškais palenkti Jo­
+    gailą ir Vytautą^2 ), kad jie susitarę paskelbtų karą husitams,
+    ardantiems Europos ramybę, nes pats Zigmantas L. su savo
+    kariuomene neįstengė jų numalšinti. Visi malšinimai taip hu-
+    ```
+    (^1) ) Nesusitarę dėl husitų, Zigmantas ėmė rūpintis gauti iš Jogailos
+    sutikimo — „aby się pozvolil królem Litewskim ogłosić“.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Breslavas]]
+- [[objektai/vietos/Europa]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/zodynas/indulgencija]]
+- [[objektai/ivykiai/Martyno V įsakymas atšaukti Kaributą (1422 m. lapkričio mėn.)]]
+- [[objektai/ivykiai/Vytauto ir Jogailos paskyrimas popiežiaus Martyno V vikariais Lietuvai ir Rusijai (1417 m. gegužės 13 d.)]]

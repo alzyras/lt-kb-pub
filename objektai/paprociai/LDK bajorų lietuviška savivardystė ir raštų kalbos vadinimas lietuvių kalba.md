@@ -66,4 +66,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/istorinė Lietuva]]
+- [[objektai/vietos/Lietuva]]

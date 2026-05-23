@@ -71,5 +71,13 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Konstancija]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/kunigas]]
+- [[objektai/zodynas/memorialas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Žemaičiai]]
 - [[objektai/autoriai/Jan Fijałek]]
 - [[objektai/autoriai/prof. kunigas Dr. J. Fijalek]]

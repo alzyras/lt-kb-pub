@@ -52,4 +52,8 @@ Postūmį įstoti į NATO ypač sustiprino lapkričio 23 dieną JAV prezidento D
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/NATO]]
+- [[objektai/vietos/Vilnius]]
 - [[objektai/ivykiai/JAV prezidento Džordžo Bušo kalba Vilniuje dėl Lietuvos saugumo (2002 m. lapkričio 23 d.)]]
+- [[objektai/vietos/Jungtinės Amerikos Valstijos]]

@@ -51,3 +51,13 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Naugardukas]]
+- [[objektai/zodynas/proistorė]]
+- [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/zodynas/tėviškė]]

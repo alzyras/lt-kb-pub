@@ -45,4 +45,7 @@ Tūkstančiai lietuvių slapstėsi arba bėgo iš sovietų kariuomenės, todėl 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/SSRS]]
 - [[objektai/ivykiai/Sovietinė Lietuvos vyrų mobilizacija į Raudonąją armiją (1944 m. ruduo–1945 m.)]]

@@ -9,6 +9,7 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1563 m.'
+  - '1569 m.'
   - '1936 m.'
   - '1978 m.'
   - '2026 m.'
@@ -52,6 +53,14 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   teiginys: 'Po ilgokų derybų, per kurias vienų kitiems buvo pasakyta daug karčių žodžių, lietuviai staiga nutraukė derybas ir išvažiavo iš Liublino (kovo 1 d.).'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: '1569 m. lietuvių ir lenkų delegacijos nuo vasario derėjosi Liubline susirinkusio Lenkijos seimo akivaizdoje.'
+  pagrindžia:
+    - c-005
+- t-006
+  teiginys: 'Jis džiaugėsi ir Liublino unijoje «įvykusia santaika»^30.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -126,8 +135,101 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: '1569 m. lietuvių ir lenkų delegacijos nuo vasario derėjosi Liubline susirinkusio Lenkijos seimo akivaizdoje.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1569 m. lietuvių ir lenkų delegacijos nuo
+    vasario derėjosi Liubline susirinkusio Lenkijos seimo akivaizdoje. Lietuviai
+    pateikė savo – dviejų lygiateisių valstybių sąjungos – projektą, o lenkai siekė
+
+    2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S
+    65
+    prijungti Lietuvą. Nesusitarus Lietuvos delegacija kovo 1 dieną išvyko iš
+    Liublino.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: 'Jis džiaugėsi ir Liublino unijoje «įvykusia santaika»^30.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Jis džiaugėsi ir Liublino
+    unijoje «įvykusia santaika»^30. Kojalavičiui, išleidusiam I-jį tomą
+    beveik 70 metų po Stryjkovskio, Lietuvos ir Lenkijos skirtumai
+    gerokai buvo niveliavęsi^31.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/ivykiai/Liublino unijos akto priėmimas ir patvirtinimas (1569 m.)]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/unija]]
+- [[objektai/autoriai/A. E. Presniakov]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/grupes/Atskiri Lietuvos seimai]]
+- [[objektai/paprociai/Atskiri Lietuvos seimai karo ir tarpuvaldžio metu]]
+- [[objektai/paprociai/Carinės „lenkų pradų naikinimo“ rusinimo praktikos]]
+- [[objektai/vietos/Didlenkiai]]
+- [[objektai/vietos/Didžioji Lenkija]]
+- [[objektai/grupes/Didžioji Lietuvos kunigaikštystė]]
+- [[objektai/vietos/Dobryniaus]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/ivykiai/Gedimino sąjunga su Lenkija]]
+- [[objektai/asmenys/Hinka iš Valdšteino]]
+- [[objektai/autoriai/J. Jakubovskis]]
+- [[objektai/asmenys/Jadvyga Jogailienė]]
+- [[objektai/asmenys/Joachimas fon Ribentropas]]
+- [[objektai/asmenys/Jonas Algimantaitis]]
+- [[objektai/asmenys/Jonas Jeronimaitis Chodkevičius]]
+- [[objektai/vietos/Kališo sritis]]
+- [[objektai/grupes/Kuršo kunigaikštystė]]
+- [[objektai/grupes/Lenkijos bajorija]]
+- [[objektai/grupes/Lenkų bajorija]]
+- [[objektai/autoriai/Lenkų istorikai ir Lietuvos istoriografijos tyrėjai]]
+- [[objektai/grupes/Lenkų karalystė]]
+- [[objektai/ivykiai/Lietuvos dalinė mobilizacija SSRS įsiveržus į Lenkiją (1939 m. rugsėjo 17 d.)]]
+- [[objektai/autoriai/Liubavskij, M]]
 - [[objektai/grupes/Liublino seimas]]
+- [[objektai/ivykiai/Liublino seimo sprendimas dėl seimų vietos]]
+- [[objektai/ivykiai/Liublino unija]]
+- [[objektai/ivykiai/Liublino unija (1569 m.)]]
+- [[objektai/vietos/Liublino vaivadija]]
+- [[objektai/grupes/Livonijos kunigaikštystė]]
+- [[objektai/autoriai/M. Hruševskis]]
+- [[objektai/autoriai/M. Ljubavskij]]
+- [[objektai/asmenys/Marquardas von Salzbachas]]
+- [[objektai/vietos/Mažlenkiai]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Ona (Zigmanto Augusto sesuo)]]
+- [[objektai/vietos/Płockas]]
+- [[objektai/vietos/Sandomierius]]
+- [[objektai/paprociai/Seimų vieta Lietuvoje ir Gardino kas trečio seimo taisyklė]]
+- [[objektai/autoriai/St. M. Kuczyński]]
+- [[objektai/asmenys/Steponas Batoras]]
+- [[objektai/daiktai/Stepono Batoro paradinis kalavijas]]
+- [[objektai/ivykiai/Vokietijos ir SSRS sienų ir draugystės sutarties pasirašymas (1939 m. rugsėjo 28 d.)]]
+- [[objektai/autoriai/W. Kamienieckis]]
+- [[objektai/zodynas/lenkų pradų naikinimo politika]]
+- [[objektai/zodynas/poliublininiai laikai]]
+- [[objektai/zodynas/poliublininis laikotarpis poliublininiai laikai]]
+- [[objektai/zodynas/statuto dėsniai]]
+- [[objektai/posakiai/surasti lietuvius Lietuvos istorijoje]]
+- [[objektai/zodynas/valstybingumo sąmonė]]
+- [[objektai/ivykiai/Čičinsko seimo išardymas (1652 m.)]]
+- [[objektai/posakiai/„Lietuvos Jeruzalė“ „Jerušalaim de Lite“]]
+- [[objektai/posakiai/„Šventos santuokos“]]
+- [[objektai/daiktai/Didysis Lietuvos antspaudas]]
+- [[objektai/ivykiai/Jogailos išrinkimas Lenkijos karaliumi]]
+- [[objektai/grupes/Lietuvos didikai]]

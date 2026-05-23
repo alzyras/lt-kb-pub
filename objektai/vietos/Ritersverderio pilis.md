@@ -42,3 +42,8 @@ Tačiau jam buvo leista gyventi prie pat Kauno, vietoj senojo Marijenverderio pa
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/vietos/Kaunas]]

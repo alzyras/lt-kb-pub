@@ -51,3 +51,9 @@ Po karūnacijos visi Lietuvos gubernijų seimeliai, — atsakydami į klausimą,
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/Baudžiava]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/apsikarūnavimas]]

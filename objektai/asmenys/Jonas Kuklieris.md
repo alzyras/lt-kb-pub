@@ -56,4 +56,5 @@ Jono Kuklierio kūno 1920 m.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/ivykiai/Augustavo-Suvalkų operacija]]
 - [[objektai/vietos/Vidugiriai]]

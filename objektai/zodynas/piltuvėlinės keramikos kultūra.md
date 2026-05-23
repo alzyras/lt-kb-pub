@@ -46,3 +46,7 @@ pietiniame Pabaltijyje, tarp Danijos ir Lietuvos plotų, išryškėjo gana savit
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]

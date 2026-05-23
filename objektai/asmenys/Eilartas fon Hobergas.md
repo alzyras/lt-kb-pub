@@ -55,3 +55,11 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Livonija]]
+- [[objektai/grupes/Livonijos ordinas]]
+- [[objektai/vietos/Talinas]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/vietininkas]]

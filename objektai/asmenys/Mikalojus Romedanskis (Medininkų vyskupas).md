@@ -54,3 +54,12 @@ Kaip paaiškėjo iš antrojo Medininkų vyskupo Mikalojaus Romedanskio konsekrac
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Gniezno]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/zodynas/konsekracija]]
+- [[objektai/zodynas/metropolitas]]
+- [[objektai/grupes/Žemaičiai]]

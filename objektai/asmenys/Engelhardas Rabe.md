@@ -51,3 +51,12 @@ Veiklus ordino maršalas Engelhardas Rabe paėmė Maišiagalą, sudegino Kernav�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/vietos/Viena]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/maršalas]]
+- [[objektai/vietos/Kernavė]]

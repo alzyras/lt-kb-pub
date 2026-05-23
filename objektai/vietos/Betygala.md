@@ -52,9 +52,25 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-006
-  teiginys: 'Betygalos vls.'
+  teiginys: '1945 m. vasario 15 d. Raseinių apskrities Betygalos valsčiuje NKVD Betygalos stribai pateko į Vlado Pabarčiaus partizanų pasalą.'
   pagrindžia:
     - c-003
+- t-007
+  teiginys: 'Karūnavimo metais jis užrašė Žemaičiuose po pusę žemių Raseinių, Betygalos, Ariogalos ir Laukuvos.'
+  pagrindžia:
+    - c-004
+- t-008
+  teiginys: 'Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­ gijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir ja iki Aukokalnio, buvusio ties dabartine Betygala.'
+  pagrindžia:
+    - c-005
+- t-009
+  teiginys: 'Brastoje (pirmos žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko Litevske, Gniondze, Naugardėlyje, Vitebske, Drahočyne, Pinske, Kamieńce (vyskupui katedrą); Žemaitijoje pastatė Var­ niuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje.'
+  pagrindžia:
+    - c-006
+- t-010
+  teiginys: 'Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupui gyvenamąja vieta paskyrė Žemaičius ir dovanojo jam čia kai kurias žemes: po pusę Raseinių, Ariogalos, Betygalos, Laukuvos ir kt.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -98,7 +114,7 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
   pagrindžia:
     - t-005
 - c-003
-  santrauka: 'Betygalos vls.'
+  santrauka: '1945 m. vasario 15 d. Raseinių apskrities Betygalos valsčiuje NKVD Betygalos stribai pateko į Vlado Pabarčiaus partizanų pasalą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     X ŠILAINIŲ PASALA
@@ -113,7 +129,82 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-004
+  santrauka: 'Karūnavimo metais jis užrašė Žemaičiuose po pusę žemių Raseinių, Betygalos, Ariogalos ir Laukuvos.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Karūnavimo metais jis užrašė Žemaičiuose
+    po pusę žemių Raseinių, Betygalos, Ariogalos ir Laukuvos. Kita
+    tų žemių pusė buvo užrašyta vyskupui Kristijonui (1254.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-005
+  santrauka: 'Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­ gijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir ja iki Aukokalnio, buvusio ties dabartine Betygala.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­
+    gijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir
+    ja iki Aukokalnio, buvusio ties dabartine Betygala. Nuo šios
+    vietos ir buvo pradėtas apaštalavimo darbas Žemaitijoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-006
+  santrauka: 'Brastoje (pirmos žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko Litevske, Gniondze, Naugardėlyje, Vitebske, Drahočyne, Pinske, Kamieńce (vyskupui katedrą); Žemaitijoje pastatė Var­ niuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Brastoje (pirmos
+    žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko
+    Litevske, Gniondze, Naugardėlyje, Vitebske, Drahočyne,
+    Pinske, Kamieńce (vyskupui katedrą); Žemaitijoje pastatė Var­
+    niuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje,
+    Kražiuose, Kaltinėnuose, Luokėje, Raseiniuose, Viduklėje, Sen­
+    varniuose, Veliuonoje. Iš čia matome, kaip platus buvo Vytauto
+    statytų bažnyčių tinklas apėmęs ne tik Lietuvą, bet ir kraštus,
+    esančius toliau nuo Lietuvos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-007
+  santrauka: 'Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupui gyvenamąja vieta paskyrė Žemaičius ir dovanojo jam čia kai kurias žemes: po pusę Raseinių, Ariogalos, Betygalos, Laukuvos ir kt.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Saugumo sumetimais, ordino, o gal ir paties vys-
+    kupo prašomas, Mindaugas vyskupui gyvenamąja vieta paskyrė
+    Žemaičius ir dovanojo jam čia kai kurias žemes: po pusę Rasei-
+    nių, Ariogalos, Betygalos, Laukuvos ir kt. sričių.Tose srityse vys-
+    kupas jautėsi labai nesaugiai, todėl prašė ordiną globos; už tai jis
+    perleido ordinui kai kurias Mindaugo jam dovanotas žemes.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Ariogala]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/vietos/Graužai-Lenčiai]]
+- [[objektai/vietos/Raseinių apskritis]]
+- [[objektai/vietos/Uturiai]]
+- [[objektai/vietos/Šilainiai]]
+- [[objektai/vietos/Dubysos upė]]
+- [[objektai/vietos/Raseiniai]]

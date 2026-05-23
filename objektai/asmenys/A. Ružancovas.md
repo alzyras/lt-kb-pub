@@ -56,3 +56,7 @@ Ružancovo vadovaujama „Jiezno ypatingoji rinktinė“, sudaryta iš 3 kuopų 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Jieznas]]

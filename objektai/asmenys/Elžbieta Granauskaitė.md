@@ -55,3 +55,7 @@ Ir kai Jogaila 1417 m. be jo ir jo didžiūnų ži­ nios bei valios vedė Elžb
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lenkija]]

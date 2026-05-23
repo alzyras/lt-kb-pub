@@ -53,3 +53,13 @@ Be Naugardo, Pskovo, Tverės bei kitų sričių išrengtų raitelių ir Maskvos 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Artilerija]]
+- [[objektai/asmenys/Madykas]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/vietos/Smolenskas]]
+- [[objektai/vietos/Tverė]]
+- [[objektai/zodynas/murza]]

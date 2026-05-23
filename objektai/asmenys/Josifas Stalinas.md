@@ -6,6 +6,16 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1950 m.'
+  - '1953 m.'
+periodas: 'okupacijų ir sovietmečio laikotarpis'
+periodo_grupes:
+  - 'XX a.'
+amziai:
+  - 'XX'
+date_start: '1950'
+date_end: '1953'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -62,6 +72,18 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
     - c-007
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-008
+  teiginys: 'J. Stalino SSRS buvo laikoma jėga, prieš kurią Baltijos šalių pasipriešinimo dalyviai tikėjosi Vakarų žygio.'
+  pagrindžia:
+    - c-008
+- t-009
+  teiginys: 'Stalino valdymo metais vyko tiesmukas lietuvių kultūros griovimas, siekiant su šaknimis išrauti bet kokį tautiškumą, nes visas kultūros sritis kontroliavo ir griežtai administravo, kiekvieną eilutę cenzūravo komunistų partija: primesta marksistinė-lenininė.'
+  pagrindžia:
+    - c-009
+- t-010
+  teiginys: 'Stalino statulų, prikabinėta komunistinių šūkių.'
+  pagrindžia:
+    - c-010
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -170,7 +192,75 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-007
+- c-008
+  santrauka: 'J. Stalino SSRS buvo laikoma jėga, prieš kurią Baltijos šalių pasipriešinimo dalyviai tikėjosi Vakarų žygio.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Iš visų trijų Baltijos valstybių
+
+    L I E T U V O S  I S T O R I J A
+    210
+    pasipriešinimas Lietuvoje buvo stipriausias – čia dar naiviai tikėta Vakarais,
+    kad komunistų valdymas ilgai netruks, o JAV ir Didžioji Britanija ilgainiui
+    įvykdys Atlanto chartijos pažadus sugrąžinti nepriklausomybę dėl karo jos
+    netekusioms šalims, kad Vakarai pakils į žygį prieš J. Stalino SSRS. Tam
+    ruoštasi kovojant, kad atėjus metui būtų galima paimti valdžią į savo ran-
+    kas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: 'Stalino valdymo metais vyko tiesmukas lietuvių kultūros griovimas, siekiant su šaknimis išrauti bet kokį tautiškumą, nes visas kultūros sritis kontroliavo ir griežtai administravo, kiekvieną eilutę cenzūravo komunistų partija: primesta marksistinė-lenininė.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Botyriaus nuotrauka
+
+    L I E T U V O S  I S T O R I J A
+    220
+    Kultūros suvienodinimas
+    J. Stalino valdymo metais vyko tiesmukas lietuvių kultūros
+    griovimas, siekiant su šaknimis išrauti bet kokį tautiškumą, nes visas kul-
+    tūros sritis kontroliavo ir griežtai administravo, kiekvieną eilutę cenzūravo
+    komunistų partija: primesta marksistinė-lenininė filosofija, skiepijama ko-
+    munistinė ideologija, kurią turėjo skleisti visos kultūros įstaigos. Šlovinant
+    komunistinės ideologijos autoritetus, susidorojama su nepriklausomos
+    Lietuvos kultūros palikimu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: 'Stalino statulų, prikabinėta komunistinių šūkių.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Sovietai sunaikino nepriklausomos Lietuvos laikų paminklus, išnieki-
+    no savanorių kapus, uždraudė tautines ir religines šventes. 1950 m. už-
+    draustas ir Lietuvos himnas – Vinco Kudirkos „Tautiška giesmė“. Lietu-
+    vos valstybingumą liudijusių paminklų vietose miestuose ir miesteliuose
+    pristatyta sovietinio kario nugalėtojo, V. Lenino, J. Stalino statulų, pri-
+    kabinėta komunistinių šūkių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Baltija]]
+- [[objektai/vietos/Didžioji Britanija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/žygis]]
 - [[objektai/ivykiai/Vilniaus perdavimo sutarties ir SSRS-Lietuvos savitarpio pagalbos sutarties pasirašymas (1939 m. spalio 10 d.)]]
+- [[objektai/vietos/SSRS]]
+- [[objektai/grupes/Lietuvos komunistų partija]]

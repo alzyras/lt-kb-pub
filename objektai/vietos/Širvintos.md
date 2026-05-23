@@ -89,3 +89,21 @@ Persigrupavusi Lietuvos kariuomenė tik lapkričio viduryje sustabdė lenkų dal
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Ašmena]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/grupes/Sapiegos]]
+- [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/vietos/Kertuša]]
+- [[objektai/vietos/Liepona]]
+- [[objektai/vietos/Merūniškiai]]
+- [[objektai/vietos/Paširvintis]]
+- [[objektai/vietos/Preivosto šilai]]
+- [[objektai/vietos/Vystyčio ežeras]]
+- [[objektai/vietos/Šešupė]]
+- [[objektai/vietos/Širvinta]]
+- [[objektai/vietos/Grajevo]]
+- [[objektai/vietos/Širvintos upė]]

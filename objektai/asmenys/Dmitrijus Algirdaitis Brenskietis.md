@@ -63,3 +63,11 @@ Mūšyje žuvo keliasdešimt (kartais nurodoma net 74) žymių Lietuvos kunigaik
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Auksinė Orda]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Smolenskas]]
+- [[objektai/zodynas/vietininkas]]

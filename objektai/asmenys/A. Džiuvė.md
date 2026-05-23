@@ -49,3 +49,9 @@ Džiuvė su 3 kuopa žvalgė SudeikiųTalaikių-Kušneriūnų rajoną.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Antalieptė]]
+- [[objektai/vietos/Utena]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

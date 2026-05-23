@@ -19,7 +19,7 @@ sandūros Vilnių priskiria pirmam žydų pasaulinių kultūros centrų dešimtu
 
 ## Teiginiai
 - t-001
-  teiginys: 'XVIII–XIX a. sandūroje Salonikai priskiriami pirmam žydų pasaulinių kultūros centrų dešimtukui.'
+  teiginys: 'XVIII–XIX a. sandūroje Salonikai minimi tarp pirmojo žydų pasaulinių kultūros centrų dešimtuko miestų.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -27,7 +27,7 @@ sandūros Vilnių priskiria pirmam žydų pasaulinių kultūros centrų dešimtu
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'XVIII–XIX a. sandūroje Salonikai priskiriami pirmam žydų pasaulinių kultūros centrų dešimtukui.'
+  santrauka: 'XVIII–XIX a. sandūroje Salonikai minimi tarp pirmojo žydų pasaulinių kultūros centrų dešimtuko miestų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šiandien mokslas XVIII–XIX a. sandūros Vilnių priskiria pirmam
@@ -40,3 +40,10 @@ sandūros Vilnių priskiria pirmam žydų pasaulinių kultūros centrų dešimtu
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Bagdadas]]
+- [[objektai/vietos/Tunisas]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/vietos/Stambulas]]

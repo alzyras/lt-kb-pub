@@ -92,3 +92,11 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/vietos/Irpenė]]
+- [[objektai/vietos/Kijevas]]
+- [[objektai/vietos/Rusija]]

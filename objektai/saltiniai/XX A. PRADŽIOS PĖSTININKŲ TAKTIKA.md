@@ -25,7 +25,7 @@ PRADŽIOS PĖSTININKŲ TAKTIKA“, Andžej Geglis, dail.
 
 ## Teiginiai
 - t-001
-  teiginys: 'PRADŽIOS PĖSTININKŲ TAKTIKA“, Andžej Geglis, dail.'
+  teiginys: '„XX a. pradžios pėstininkų taktika“ yra Andžejaus Geglio iliustracija.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -35,7 +35,7 @@ PRADŽIOS PĖSTININKŲ TAKTIKA“, Andžej Geglis, dail.
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'PRADŽIOS PĖSTININKŲ TAKTIKA“, Andžej Geglis, dail.'
+  santrauka: '„XX a. pradžios pėstininkų taktika“ yra Andžejaus Geglio iliustracija.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     NEPRIKLAUSOMYBĖS KOVOS

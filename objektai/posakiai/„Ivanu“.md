@@ -53,3 +53,7 @@ Taip baigėsi stipriai šalį nuniokojęs kelių metų laikotarpis, kurį amžin
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]

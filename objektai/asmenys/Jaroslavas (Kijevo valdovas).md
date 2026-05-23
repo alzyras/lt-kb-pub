@@ -57,4 +57,10 @@ Lietuva patyrė Kijevo Rusios agresiją.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Ateitis]]
+- [[objektai/vietos/Kijevas]]
+- [[objektai/vietos/Kijevo Rusia]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/žygis]]
 - [[objektai/grupes/Kijevo Rusia]]

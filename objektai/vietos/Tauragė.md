@@ -40,6 +40,10 @@ Sukilimas kuriam laikui pavyko tik Tauragėje, buvo perimtas vadovavimas miestui
   teiginys: '158, 169, 170, 208, 210 Tauragė 91 ; Tauragės pučas 40 VARDYNAS^407 Taurakalnis, Pilies kalnas 244 Tauta ir žodis 127, 128, 148, 180, 347 Tautavičius A.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Tačiau pirmaisiais saksų savanoriais ne visuomet buvo galima pasitikėti, riuomenė ir birželį baltgudžių pulkas buvo išformuotas); Tauragėje - besikuriantis Žemaičių batalionas, vadovaujamas avantiūristo J.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -79,7 +83,29 @@ Sukilimas kuriam laikui pavyko tik Tauragėje, buvo perimtas vadovavimas miestui
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Tačiau pirmaisiais saksų savanoriais ne visuomet buvo galima pasitikėti, riuomenė ir birželį baltgudžių pulkas buvo išformuotas); Tauragėje - besikuriantis Žemaičių batalionas, vadovaujamas avantiūristo J.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Tačiau pirmaisiais saksų savanoriais ne visuomet buvo galima pasitikėti,
+
+    riuomenė ir birželį baltgudžių
+    pulkas buvo išformuotas); Tauragėje - be-
+    sikuriantis Žemaičių batalionas, vadovau-
+    jamas avantiūristo J. Aukštuolaičio, kuris
+    netrukus buvo išformuotas; Kėdainiuose —
+    karininkų J.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/J. Aukštuolaitis]]
+- [[objektai/vietos/Kėdainiai]]
+- [[objektai/zodynas/avantiūristas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Žemaičiai]]

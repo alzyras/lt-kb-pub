@@ -120,4 +120,4 @@ Nenurodyta
 - [[temos/privilegija]]
 
 ### Susiję objektai
-- [[objektai/zodynas/pastočiai]]
+- [[objektai/zodynas/supremus dux ir magnus dux]]

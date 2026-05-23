@@ -69,4 +69,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/emyras]]
 - [[objektai/daiktai/Šarvinių pirštinių, žasto, dilbio, kelio ir blauzdos apsaugos]]

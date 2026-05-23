@@ -90,3 +90,18 @@ Totorių pajėgos Aukso ordos chano Timūr-Kutluko, Krymo emyro Edygos kariai. T
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/pinigai]]
+
+### Susiję objektai
+- [[objektai/grupes/Auksinė Orda]]
+- [[objektai/asmenys/Edigėjus]]
+- [[objektai/asmenys/Edyga]]
+- [[objektai/vietos/Krymas]]
+- [[objektai/grupes/Totorių pajėgos]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/chanas]]
+- [[objektai/grupes/Lietuvos jungtinės pajėgos]]
+- [[objektai/paprociai/Pavaldumo demonstravimas derybose per pinigų ženklinimą ir dovanas]]
+- [[objektai/asmenys/Timūr-Kutlukas]]
+- [[objektai/grupes/Tochtamišo totoriai]]
+- [[objektai/daiktai/Šarvinių pirštinių, žasto, dilbio, kelio ir blauzdos apsaugos]]
+- [[objektai/daiktai/Žasto, dilbio, kelio ir blauzdos apsaugos]]

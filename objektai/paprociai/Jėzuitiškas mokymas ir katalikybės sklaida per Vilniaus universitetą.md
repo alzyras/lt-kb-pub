@@ -97,4 +97,12 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Anglija]]
+- [[objektai/vietos/Europa]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/autoriai/Martynas Smigleckis]]
+- [[objektai/vietos/Oksfordas]]
 - [[objektai/grupes/Vilniaus universitetas]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/barokas]]
+- [[objektai/vietos/Čekija]]

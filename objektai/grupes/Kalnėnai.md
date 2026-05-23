@@ -134,3 +134,33 @@ Kalnėnai šiame tekste rodomi kaip su žemaičiais gretinama karinga bendruomen
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-009
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/autoriai/A. Brückner]]
+- [[objektai/grupes/Anglai]]
+- [[objektai/daiktai/Kalvė]]
+- [[objektai/daiktai/Namas]]
+- [[objektai/paprociai/Panedėlio už grieką laikymas]]
+- [[objektai/grupes/Parusėnai]]
+- [[objektai/paprociai/Pirmųjų šmotelių ir Ilgių dienos vaišinimas vėlėms]]
+- [[objektai/daiktai/Ratai ant dviejų tekinių]]
+- [[objektai/daiktai/Ritmuša]]
+- [[objektai/daiktai/Rogas]]
+- [[objektai/daiktai/Rogės]]
+- [[objektai/paprociai/Savarankiškas ūkio ir namų dirbinių gaminimas]]
+- [[objektai/autoriai/V. Jungfer]]
+- [[objektai/zodynas/Karinės vadovybės rangai|karinės vadovybės rangai]]
+- [[objektai/zodynas/Pažinės|pažinės]]
+- [[objektai/zodynas/Strūnijo|strūnijo]]
+- [[objektai/paprociai/Šventųjų paukščių laikymas namuose]]
+- [[objektai/zodynas/Šliuižiai|šliuižiai]]
+- [[objektai/daiktai/Ūkės lazda]]
+- [[objektai/paprociai/Aisčių medžių ir girių garbinimas]]
+- [[objektai/grupes/Giruliai]]
+- [[objektai/paprociai/Karo būrimas prieš žygį iš žynių, žvalgo kraujo ir žalčio ženklų]]
+- [[objektai/grupes/Krikščionys]]
+- [[objektai/paprociai/Raitas keliavimas į bažnyčią, mugę ir kitas vietas]]
+- [[objektai/paprociai/Vienkieminis gyvenimas dėl taikos ir gaisrų saugos]]

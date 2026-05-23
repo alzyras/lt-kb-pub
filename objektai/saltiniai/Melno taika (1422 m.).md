@@ -6,6 +6,15 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1429 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XV'
+date_start: '1429'
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - ežeras
@@ -38,8 +47,35 @@ Pagaliau magistras paprašė taikos; ji buvo padaryta netoli Melno ežero, kariu
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: 'Po Melno taikos santykiai su Lenkija tapo svarbiausia politine problema, todėl Vytauto vainikavimo projektas įgijo tarptautinę reikšmę.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
+- c-004
+  santrauka: 'Po Melno taikos santykiai su Lenkija tapo svarbiausia politine problema, todėl Vytauto vainikavimo projektas įgijo tarptautinę reikšmę.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kadangi ryškėjo Lenkijos, o ne Lie-
+
+    1 skyrius •  S E N O J I  L I E T U VA
+    51
+    tuvos hegemonija regione ir santykiai su Lenkija po Melno taikos tapo
+    svarbiausia politinė problema, pradėtas įgyvendinti Vytauto vainikavimo
+    projektas buvo aktualus ir tarptautiniu mastu, nes be Lietuvos nebuvo
+    galima išspręsti svarbesnių regiono klausimų.
+    Lietuvos ir Lenkijos valdovų  – Vytauto ir Jogailos – susitikimui su
+    Šventosios  Romos imperijos imperatoriumi ir Vengrijos karaliumi Zi-
+    gmantu I Vidurio ir Rytų Europos politikos problemoms aptarti ir buvo
+    skirtas Lucko suvažiavimas, vykęs 1429 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Bibliografiniai įrodymai
 - c-001

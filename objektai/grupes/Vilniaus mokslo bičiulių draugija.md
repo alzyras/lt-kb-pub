@@ -46,4 +46,9 @@ Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos 1905 m. d�
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/grupes/Mokslo bičiulių draugija]]
+- [[objektai/paprociai/Lietuvių ir lenkų kultūrinių draugijų paralelizmas, tyrimai ir viešos parodos]]
 - [[objektai/ivykiai/Lietuvių mokslo draugijos ir Vilniaus mokslo bičiulių draugijos įkūrimas]]

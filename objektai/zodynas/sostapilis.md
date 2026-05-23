@@ -46,3 +46,8 @@ Jo «sostapilio» jieškota net keliose Žemaičių vietose.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/grupes/Žemaičiai]]

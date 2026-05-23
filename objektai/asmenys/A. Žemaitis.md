@@ -47,3 +47,8 @@ Netoli Birštono Zaskevičiaus kariai susitiko karin. A. Žemaičio vadovaujamą
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Birštonas]]
+- [[objektai/vietos/Jieznas]]

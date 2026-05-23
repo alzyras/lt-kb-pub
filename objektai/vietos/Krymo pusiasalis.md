@@ -59,4 +59,9 @@ Totorių kariuomenė Strateginį privalumą totoriams laidavo jų pagrindinės b
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Krymas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/vietos/Perekopas]]
 - [[objektai/grupes/Totoriai]]
+- [[objektai/zodynas/lengvoji kavalerija]]

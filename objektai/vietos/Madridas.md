@@ -42,4 +42,6 @@ tai neatrodė bloga išeitis – Roma, Madridas ar Lisabona tebespinduliavo kata
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Paragvajus]]
 - [[objektai/vietos/Lisabona]]
+- [[objektai/vietos/Meksika]]

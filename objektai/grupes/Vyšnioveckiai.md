@@ -43,5 +43,14 @@ Vėliau iš šių periferinių sritinių žemių kunigaikščių kilo garsios v�
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Sanguškos]]
 - [[objektai/grupes/Sluckiai]]
+- [[objektai/vietos/Klevanė]]
+- [[objektai/vietos/Kovelis]]
+- [[objektai/vietos/Mlynivas]]
+- [[objektai/vietos/Ostrohas]]
+- [[objektai/vietos/Slavuta]]
+- [[objektai/vietos/Vyšnivecis]]
+- [[objektai/zodynas/tėvonija]]
+- [[objektai/zodynas/tėvonija tėvų palikimas]]
+- [[objektai/vietos/Viena]]
+- [[objektai/grupes/Sanguškos]]

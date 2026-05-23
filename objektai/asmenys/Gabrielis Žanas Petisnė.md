@@ -41,3 +41,10 @@ Prancūzams lietuviai aiškins, kad sukilimas įvyko prieš vokiečius, o ne pri
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Kaunas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/žygis]]

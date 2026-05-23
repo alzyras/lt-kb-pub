@@ -107,3 +107,8 @@ Nenurodyta
 ## Pastabos
 
 - žodis čia gali reikšti apeiginį laužą ar malkų sukrautą pakylą; kandidatas pateikiamas dėl aiškaus materialaus panaudojimo apeiginiame veiksme.
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/Kūrėjų kūrėjas|kūrėjų kūrėjas]]
+- [[objektai/paprociai/Paimtų priešo vadų aukojimas dievams ir kaukolių naudojimas pokyliuose]]

@@ -60,6 +60,18 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   teiginys: 'Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo tekusios Pinsko ir Turovo kunigaikštijos, t.'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: 'Brastoje (pirmos žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko Litevske, Gniondze, Naugardėlyje, Vitebske, Drahočyne, Pinske, Kamieńce (vyskupui katedrą); Žemaitijoje pastatė Var­ niuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje.'
+  pagrindžia:
+    - c-006
+- t-007
+  teiginys: 'Bet užtat jis prijungė prie Lietuvos Mindaugo dar nepasiektą Pagirį -Turovo ir Pinsko kunigaikštystes.'
+  pagrindžia:
+    - c-007
+- t-008
+  teiginys: 'Vyriausias sūnus, Manv y d a s, valdė Kernavę ir Slanimą, Narimantas — Turovą ir Pinską, Karijotas — Naugarduką ir Volkoviską, Algirdas — Krėvą ir Vitebską, Kęstutis buvo gavęs ilgą vakarų pasienio ruožą — Trakus, Palenkę, Gardiną ir Brastą.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -147,7 +159,74 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Brastoje (pirmos žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko Litevske, Gniondze, Naugardėlyje, Vitebske, Drahočyne, Pinske, Kamieńce (vyskupui katedrą); Žemaitijoje pastatė Var­ niuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Brastoje (pirmos
+    žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko
+    Litevske, Gniondze, Naugardėlyje, Vitebske, Drahočyne,
+    Pinske, Kamieńce (vyskupui katedrą); Žemaitijoje pastatė Var­
+    niuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje,
+    Kražiuose, Kaltinėnuose, Luokėje, Raseiniuose, Viduklėje, Sen­
+    varniuose, Veliuonoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: 'Bet užtat jis prijungė prie Lietuvos Mindaugo dar nepasiektą Pagirį -Turovo ir Pinsko kunigaikštystes.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Bet užtat jis prijungė prie Lietuvos Mindaugo dar
+    nepasiektą Pagirį -Turovo ir Pinsko kunigaikštystes. Senasis
+    jotvingų kraštas (t.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: 'Vyriausias sūnus, Manv y d a s, valdė Kernavę ir Slanimą, Narimantas — Turovą ir Pinską, Karijotas — Naugarduką ir Volkoviską, Algirdas — Krėvą ir Vitebską, Kęstutis buvo gavęs ilgą vakarų pasienio ruožą — Trakus, Palenkę, Gardiną ir Brastą.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Vyriausias sūnus, Man-
+    v y d a s, valdė Kernavę ir Slanimą, Narimantas — Turovą
+    ir Pinską, Karijotas — Naugarduką ir Volkoviską, Algir-
+    das — Krėvą ir Vitebską, Kęstutis buvo gavęs ilgą vakarų
+    pasienio ruožą — Trakus, Palenkę, Gardiną ir Brastą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Brasta]]
+- [[objektai/vietos/Gardinas]]
+- [[objektai/asmenys/Karijotas]]
+- [[objektai/vietos/Kernavė]]
+- [[objektai/vietos/Krėva]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/vietos/Naugardukas]]
 - [[objektai/vietos/Turovas]]
+- [[objektai/vietos/Bobruiskas]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/vietos/Pašiaušė]]
+- [[objektai/vietos/Polesė]]
+- [[objektai/vietos/Smolenskas]]
+- [[objektai/vietos/Strėva]]
+- [[objektai/vietos/Vitebskas]]
+- [[objektai/paprociai/Šventos ugnelės negesinimas trobesiui užsidegus]]
+- [[objektai/vietos/Žodiškiai]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

@@ -54,3 +54,16 @@ Senoje jotvingių žemėje siena ėjo pradedant nuo « Akmenų Brastos » (« Ka
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/ežeras]]
+
+### Susiję objektai
+- [[objektai/vietos/Brasta]]
+- [[objektai/vietos/Grajevo]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Salynas]]
+- [[objektai/ivykiai/Salyno sutartis]]
+- [[objektai/vietos/Sūduva]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/vietos/Akmenų Brasta]]
+- [[objektai/vietos/Grajevas]]
+- [[objektai/vietos/Točilovo ežeras]]

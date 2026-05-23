@@ -50,3 +50,8 @@ Porai mėnesių praslinkus, būtent spalių 1 d. įvyko antras susivažiavimas K
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Smolenskas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

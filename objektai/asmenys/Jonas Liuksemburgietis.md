@@ -57,3 +57,14 @@ Iš kitų puolimų yra išskirtinas 1329 pradžioje pirmasis Čekijos karaliaus 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Aukaimis]]
+- [[objektai/vietos/Gardinas]]
+- [[objektai/vietos/Karšuva]]
+- [[objektai/vietos/Putvė]]
+- [[objektai/vietos/Čekija]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/daiktai/Ietis]]

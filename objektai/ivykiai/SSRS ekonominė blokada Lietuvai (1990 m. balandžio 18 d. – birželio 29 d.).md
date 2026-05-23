@@ -6,6 +6,15 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1990 m.'
+periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodo_grupes:
+  - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XX'
+date_start: '1990'
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - diplomatas
@@ -42,6 +51,10 @@ Nenurodyta
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Belaukiant tarptautinio Lietuvos pripažinimo Apie Lietuvos nepriklausomybę nieko nenorėjo girdėti SSRS vadovybė su M.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -61,7 +74,35 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
+- c-002
+  santrauka: 'Belaukiant tarptautinio Lietuvos pripažinimo Apie Lietuvos nepriklausomybę nieko nenorėjo girdėti SSRS vadovybė su M.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Belaukiant tarptautinio
+    Lietuvos pripažinimo
+    Apie Lietuvos nepriklausomybę nieko nenorėjo girdėti
+    SSRS vadovybė su M. Gorbačiovu priešakyje ir primygtinai reikalavo
+    atšaukti Kovo 11 Aktą. V. Landsbergis atkakliai ir tvirtai paisė tik mora-
+    lios politikos principų – „kas buvo pavogta, turi būti grąžinta“. Lietuvai
+    laikantis tik savų įstatymų, 1990 m. balandžio 18 d. SSRS pradėjo Lie-
+    tuvos ekonominę blokadą, kuri truko iki birželio 29-osios. Nepaisant
+    didžiulio smūgio ekonomikai (trūko kuro, kurį laiką nedirbo Mažeikių
+    naftos perdirbimo įmonė, dėl žaliavų trūkumo užsidarė kai kurios ga-
+    myklos, atsirado pirmieji bedarbiai), Lietuva atsilaikė ir diplomatinėmis
+    priemonėmis pasiekė ekonominės blokados atšaukimo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/aktas]]
+
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/SSRS]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

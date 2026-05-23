@@ -58,4 +58,12 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
 
 ### Susiję objektai
 - [[objektai/vietos/Gotlandas]]
+- [[objektai/grupes/Hanza]]
+- [[objektai/grupes/Pranciškonų ordinas]]
+- [[objektai/grupes/Romai]]
+- [[objektai/vietos/Vokietija]]
+- [[objektai/vietos/Pomeranija]]
+- [[objektai/vietos/Stralsundas]]
+- [[objektai/ivykiai/Tanenbergo mūšis (1410 m. liepos 15 d.)]]
+- [[objektai/ivykiai/Tanenbergo mūšis 1410 m. liepos 15 d]]
 - [[objektai/vietos/Greifsvaldas]]

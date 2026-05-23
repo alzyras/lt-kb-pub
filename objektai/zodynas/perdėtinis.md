@@ -50,3 +50,16 @@ Tiesa, pastarojoj sutarty nerandame jokio teoretinio santykių apibrėžimo, kok
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/grupes/Lenkų ponų taryba]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Ponų taryba]]
+- [[objektai/vietos/Radomas]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/zodynas/unija]]

@@ -57,4 +57,7 @@ nijos ordinas ėmė statyti pilį toje vietoje, kur Kuršmarės jungiasi su Balt
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Klaipėda]]
+- [[objektai/vietos/Nemunas]]
+- [[objektai/vietos/Baltija]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/grupes/Livonijos ordinas]]

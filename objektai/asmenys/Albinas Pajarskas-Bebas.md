@@ -58,3 +58,7 @@ Algimanto apygardos vadovybė 1949 m. Iš kairės: organizacinio skyriaus virši
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Priepado ežeras]]

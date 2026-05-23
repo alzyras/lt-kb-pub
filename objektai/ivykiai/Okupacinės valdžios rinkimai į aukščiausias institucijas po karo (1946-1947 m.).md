@@ -58,3 +58,10 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Baltija]]
+- [[objektai/asmenys/J. Stalinas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/SSRS]]

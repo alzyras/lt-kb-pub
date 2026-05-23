@@ -96,3 +96,9 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/egzekucija]]
+- [[objektai/zodynas/generalgubernatorius]]

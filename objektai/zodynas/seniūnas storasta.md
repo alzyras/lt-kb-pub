@@ -79,5 +79,11 @@ Lietuvoje buvo jau­ čiamas aiškus susiskaldymas, kurio likviduoti neįstengė
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/organas]]
 - [[objektai/zodynas/seniūnas]]
 - [[objektai/zodynas/urėdas]]
+- [[objektai/zodynas/vietininkas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

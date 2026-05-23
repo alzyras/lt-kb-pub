@@ -64,3 +64,11 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Ariogala]]
+- [[objektai/vietos/Dubysa]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Peštvė]]
+- [[objektai/grupes/Žemaičiai]]

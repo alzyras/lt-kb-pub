@@ -50,3 +50,15 @@ Kalbos redaktorė Gražina Indrišiūnienė Viršelio dailininkė Audronė Uziel
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/redaktorius]]
+
+### Susiję objektai
+- [[objektai/autoriai/Gražina Indrišiūnienė]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/autoriai/Mindaugas Tamošaitis]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/autoriai/Alfredas Bumblauskas]]
+- [[objektai/autoriai/Alvydas Jokubaitis]]
+- [[objektai/autoriai/Antanas Kulakauskas]]
+- [[objektai/autoriai/Inga Vinogradnaitė]]
+- [[objektai/autoriai/Raimundas Lopata]]

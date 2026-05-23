@@ -78,3 +78,16 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Herbas]]
+- [[objektai/vietos/Kijevas]]
+- [[objektai/vietos/Kleckas]]
+- [[objektai/vietos/Krymas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/zodynas/vėliava]]
+- [[objektai/grupes/Totoriai]]

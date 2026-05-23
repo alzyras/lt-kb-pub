@@ -45,6 +45,14 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   teiginys: 'Slavų ekspansija artėjo prie Lietuvos žemių.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Tačiau lietuvių kalbos, o vėliau ir lietuviškos savimonės žmonių gyvenama teritorija rytuose ir pietuose siaurėjo, o Lietuvos vardas – priešingai: kartu su Lietuvos Didžiosios Kunigaikštijos ribomis išplito labai toli į rytus ir apėmė plačias rytų slavų žemes.'
+  pagrindžia:
+    - c-004
+- t-005
+  teiginys: 'Vėliau, I tūkstantmečio antroje pusėje, prasidėjo slavų ekspansija, nulėmusi rytinių baltų asimiliaciją.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -91,3 +99,48 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Tačiau lietuvių kalbos, o vėliau ir lietuviškos savimonės žmonių gyvenama teritorija rytuose ir pietuose siaurėjo, o Lietuvos vardas – priešingai: kartu su Lietuvos Didžiosios Kunigaikštijos ribomis išplito labai toli į rytus ir apėmė plačias rytų slavų žemes.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tačiau lietuvių kalbos, o vėliau ir lietuviškos savimonės žmonių gyve-
+    nama teritorija rytuose ir pietuose siaurėjo, o Lietuvos vardas – priešin-
+    gai: kartu su Lietuvos Didžiosios Kunigaikštijos ribomis išplito labai toli į
+    rytus ir apėmė plačias rytų slavų žemes. Būtent visa šios valstybės terito-
+    rija (ne tik dabartinė Lietuva, bet ir Baltarusija) ilgainiui pradėta vadinti
+    Lietuva, o šiandien ją vadiname istorine Lietuva.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: 'Vėliau, I tūkstantmečio antroje pusėje, prasidėjo slavų ekspansija, nulėmusi rytinių baltų asimiliaciją.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vėliau,
+    I tūkstantmečio antroje pusėje, prasidėjo slavų ekspansija, nulėmusi ryti-
+    nių baltų asimiliaciją. II tūkstantmečio pradžioje pradėjo formuotis prū-
+    sų, jotvingių, lietuvių ir latvių tautos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/istorinė Lietuva]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/grupes/Maskvėnai]]
+- [[objektai/grupes/Rusėnai]]
+- [[objektai/autoriai/V. O. Ključevskis]]
+- [[objektai/vietos/Dniepro žemupys]]
+- [[objektai/vietos/Gardino sritis]]
+- [[objektai/zodynas/Rusiškosios raidės]]

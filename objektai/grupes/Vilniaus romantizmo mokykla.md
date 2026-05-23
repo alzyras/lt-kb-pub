@@ -54,3 +54,12 @@ Tačiau ir tomis sudėtingomis sąlygomis iškilo Vilniaus romantizmo mokykla, k
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Adomas Mickevičius|Adomas Mickevičius (poetas)]]
+- [[objektai/vietos/Europa]]
+- [[objektai/daiktai/Herbas]]
+- [[objektai/asmenys/Julius Slovackis]]
+- [[objektai/autoriai/Mickevičius]]
+- [[objektai/vietos/Vilnius]]

@@ -7,15 +7,18 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
+  - '1791 m.'
   - '1936 m.'
   - '2026 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
+  - 'LDK'
   - 'modernioji Lietuva'
 amziai:
+  - 'XVIII'
   - 'XX'
   - 'XXI'
-date_start: '1936'
+date_start: '1791'
 date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
@@ -45,6 +48,10 @@ Po trejų metų Sapiegos buvo visiškai nugalėti. Gavę 100.000 talerių, Sapie
   teiginys: 'Augustui II priešiški Sapiegos parėmė švedus, M atsinaujino Lietuvos didikų tarpusavio kova.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius veikiausiai buvo Vilniaus žemės teisėjas Tadas Korsakas.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -91,3 +98,38 @@ Po trejų metų Sapiegos buvo visiškai nugalėti. Gavę 100.000 talerių, Sapie
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius veikiausiai buvo Vilniaus žemės teisėjas Tadas Korsakas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1791 m. spalio 20 d. Lietuvos delegacija Ketverių metų seime išsirei-
+    kalavo konstitucijos pataisą, kuri buvo pavadinta Abiejų Tautų tarpusavio
+    įžadu. Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius
+    veikiausiai buvo Vilniaus žemės teisėjas Tadas Korsakas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Kazimieras]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/autoriai/Tadas Korsakas]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/konstitucijos]]
+- [[objektai/asmenys/H. Brantas]]
+- [[objektai/asmenys/J. P. Sapiega]]
+- [[objektai/ivykiai/Jono Sobieskio elekcija (1674 m.)]]
+- [[objektai/asmenys/M. P. Sapiega]]
+- [[objektai/asmenys/Povilas Sapiega]]
+- [[objektai/vietos/Saksonija]]
+- [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)]]
+- [[objektai/asmenys/T. Dambrava]]
+- [[objektai/ivykiai/coaequatio iurium įstatymo priėmimas (1697 m.)]]
+- [[objektai/zodynas/konfederacija]]
+- [[objektai/vietos/Širvintos]]
+- [[objektai/grupes/Pacai]]

@@ -45,3 +45,23 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Alūkšta]]
+- [[objektai/vietos/Bernas]]
+- [[objektai/vietos/Dauguva]]
+- [[objektai/vietos/Europa]]
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Klaipėda]]
+- [[objektai/vietos/Kuršas]]
+- [[objektai/vietos/Liepoja]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Slanimas]]
+- [[objektai/vietos/Valkaviskas]]
+- [[objektai/vietos/Vilniaus gubernija]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/gubernija]]
+- [[objektai/posakiai/„Lithuania Propria“]]
+- [[objektai/zodynas/etnografinės ribos etnografinis principas]]

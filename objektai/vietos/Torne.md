@@ -43,3 +43,15 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Dancigas]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Marijenburgas]]
+- [[objektai/zodynas/vasalas]]
+- [[objektai/zodynas/vyskupystė]]
+- [[objektai/vietos/Elbingas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Prūsija]]
+- [[objektai/vietos/Varmijos vyskupystė]]

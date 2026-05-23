@@ -52,4 +52,7 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Ukmergė]]
 - [[objektai/vietos/Virinta]]

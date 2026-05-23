@@ -60,7 +60,7 @@ Nenurodyta
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-008
-  teiginys: 'Požeminės slėptuvės dažnai būdavo įrengiamos upelio kranto šlaite, kad būtų lengviau slėpti pėdsakus.'
+  teiginys: 'Partizanai dažnai įrengdavo požemines slėptuves upelio kranto šlaite, kur buvo lengviau gauti vandens ir slėpti pėdsakus.'
   pagrindžia:
     - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -123,7 +123,7 @@ Nenurodyta
   pagrindžia:
     - t-007
 - c-004
-  santrauka: 'Požeminės slėptuvės dažnai būdavo įrengiamos upelio kranto šlaite, kad būtų lengviau slėpti pėdsakus.'
+  santrauka: 'Partizanai dažnai įrengdavo požemines slėptuves upelio kranto šlaite, kur buvo lengviau gauti vandens ir slėpti pėdsakus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tipiškas partizanų bunkeris. Žaliukai dažnai stengdavosi įrengti savo požemines slėptuves upelio

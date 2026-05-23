@@ -55,3 +55,11 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Smolenskas]]
+- [[objektai/vietos/Vorskla]]
+- [[objektai/ivykiai/Vorsklos mūšis]]
+- [[objektai/zodynas/apostazija]]
+- [[objektai/zodynas/vietininkas]]

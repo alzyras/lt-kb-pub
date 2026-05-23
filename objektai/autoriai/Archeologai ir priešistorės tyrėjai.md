@@ -9,13 +9,17 @@ saltiniai:
 datos:
   - '1955 m.'
   - '1961 m.'
+  - '1962 m.'
+  - '1964 m.'
+  - '1965 m.'
+  - '1966 m.'
 periodas: 'okupacijų ir sovietmečio laikotarpis'
 periodo_grupes:
   - 'XX a.'
 amziai:
   - 'XX'
 date_start: '1955'
-date_end: '1961'
+date_end: '1966'
 patikimumas: 'vidutinis'
 tags:
   - autorius
@@ -40,6 +44,14 @@ tags:
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Archeologai ir priešistorės tyrėjai tyrinėjo ankstyvojo feodalizmo laikotarpio kovos kirvius (AkMD, t.'
+  pagrindžia:
+    - c-003
+- t-004
+  teiginys: 'Archeologai ir priešistorės tyrėjai domėjosi ir Aukštadvario pilia­ kalniu (AkMD, t.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -83,3 +95,40 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Archeologai ir priešistorės tyrėjai tyrinėjo ankstyvojo feodalizmo laikotarpio kovos kirvius (AkMD, t.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    **
+    (^96) **Ji tyrinėjo ankstyvojo feodalizmo laikotarpio kovos kirvius (AkMD,
+    t. 16, 1964, 101-112 p.), moterų galvos dangą (AkMD, t. 17, 1964, 71-86 p.),
+    ankstyviausius šalmus (AkMD, t. 19, 1965, 59-70 p.). —Žr. LE, t. 36, 527 p.**
+    (^97) **AkMD, t.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Archeologai ir priešistorės tyrėjai domėjosi ir Aukštadvario pilia­ kalniu (AkMD, t.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    **
+    (^103) **Tuo tarpu apie grublėtąją keramiką Lietuvoje rašė Y. Daugudis
+    (AkMD, t. 22, 1966, 55-65 p.) ; be to, jis domėjosi ir Aukštadvario pilia­
+    kalniu (AkMD, t. 12, 1962, 43-67 p.).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Aukštadvaris]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/feodalizmas]]

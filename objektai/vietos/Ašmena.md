@@ -63,6 +63,26 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   teiginys: 'Švitrigaila buvo sąmokslininkų užpultas tuo metu, kai, vykdamas į derybas su Jogaila, nakvojo sustojęs Ašmenoje.'
   pagrindžia:
     - c-004
+- t-009
+  teiginys: 'Į jam paskirtą palyginti nedidelį žemių da­ linį, be Vilniaus, dar priklausė artimos sritys su pilimis : Ašmena, Ukmerge, Breslauja (Braslaw).'
+  pagrindžia:
+    - c-005
+- t-010
+  teiginys: 'Dar 1385 m. vasarą Prūsų ordinas su didele kariuomene buvo nuėjęs iki Vilniaus ir Ašmenos.'
+  pagrindžia:
+    - c-006
+- t-011
+  teiginys: 'Nors Lietuvos kariuomenė 1654-1655 m. kiek galėdama stabdė rusų veržimąsi, 1655 m. pavasarį Rusijos kariuomenė užėmė Minską, o liepą lietuvius prie Ašmenos sumušę, rusai ir jų sąjungininkai kazokai priartėjo prie Vilniaus.'
+  pagrindžia:
+    - c-007
+- t-012
+  teiginys: 'Čia jis aplankė didesnius Lietuvos miestelius, kaip Ašmeną, Lydą, Krėvę, Eišiškius, Merkinę, Gardiną ir k., kur buvo sukviečiami vietiniai ir iš apylinkių žmonės ir, pamo­ kius juos tikėjimo tiesų, krikštijami.'
+  pagrindžia:
+    - c-008
+- t-013
+  teiginys: 'Kaune ir Ašmenoje, po nenusisekusio Vorsklos mūšio, įkūrė vienuolynus pranciškonams; Breste įsteigė vienuolyną augustinijonams; juos taip pat gausiai apdovanojo Medininkuose (Viln.'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -138,3 +158,95 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-005
+  santrauka: 'Į jam paskirtą palyginti nedidelį žemių da­ linį, be Vilniaus, dar priklausė artimos sritys su pilimis : Ašmena, Ukmerge, Breslauja (Braslaw).'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Į jam paskirtą palyginti nedidelį žemių da­
+    linį, be Vilniaus, dar priklausė artimos sritys su pilimis : Ašmena,
+    Ukmerge, Breslauja (Braslaw).
+    Kiti šeši Gedimino sūnus taip pat gavo savo dalis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-006
+  santrauka: 'Dar 1385 m. vasarą Prūsų ordinas su didele kariuomene buvo nuėjęs iki Vilniaus ir Ašmenos.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Dar 1385 m. vasarą
+    Prūsų ordinas su didele kariuomene buvo nuėjęs iki Vilniaus ir
+    Ašmenos. O žiemop, drauge su Polocko Andriumi, puolė Livonijos
+    kryžiuočiai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+- c-007
+  santrauka: 'Nors Lietuvos kariuomenė 1654-1655 m. kiek galėdama stabdė rusų veržimąsi, 1655 m. pavasarį Rusijos kariuomenė užėmė Minską, o liepą lietuvius prie Ašmenos sumušę, rusai ir jų sąjungininkai kazokai priartėjo prie Vilniaus.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Nors
+    Lietuvos kariuomenė 1654-1655 m. kiek galėdama stabdė rusų ver-
+    žimąsi, 1655 m. pavasarį Rusijos kariuomenė užėmė Minską, o liepą
+    lietuvius prie Ašmenos sumušę, rusai ir jų sąjungininkai kazokai
+    priartėjo prie Vilniaus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+- c-008
+  santrauka: 'Čia jis aplankė didesnius Lietuvos miestelius, kaip Ašmeną, Lydą, Krėvę, Eišiškius, Merkinę, Gardiną ir k., kur buvo sukviečiami vietiniai ir iš apylinkių žmonės ir, pamo­ kius juos tikėjimo tiesų, krikštijami.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Čia jis aplankė didesnius Lietuvos miestelius,
+    kaip Ašmeną, Lydą, Krėvę, Eišiškius, Merkinę, Gardiną ir k.,
+    kur buvo sukviečiami vietiniai ir iš apylinkių žmonės ir, pamo­
+    kius juos tikėjimo tiesų, krikštijami. Į kitas mažiau apgyven­
+    tas vietas, kur karalius neužvažiuodavo, buvo siunčiami žmonių
+    krikštyti kunigai ir vienuoliai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+- c-009
+  santrauka: 'Kaune ir Ašmenoje, po nenusisekusio Vorsklos mūšio, įkūrė vienuolynus pranciškonams; Breste įsteigė vienuolyną augustinijonams; juos taip pat gausiai apdovanojo Medininkuose (Viln.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Kaune ir
+    Ašmenoje, po nenusisekusio Vorsklos mūšio, įkūrė vienuolynus
+    pranciškonams; Breste įsteigė vienuolyną augustinijonams;
+    juos taip pat gausiai apdovanojo Medininkuose (Viln.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Gardinas]]
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Vorskla]]
+- [[objektai/paprociai/Bajorų dalyvavimas svarbiausių aktų sudaryme]]
+- [[objektai/vietos/Bresto vaivadija]]
+- [[objektai/ivykiai/Rusijos ir Lenkijos-Lietuvos karas (1654–1667 m.)]]
+- [[objektai/grupes/Rusijos kariuomenė]]
+- [[objektai/vietos/Vileika]]
+- [[objektai/ivykiai/Vilniaus užėmimas (1655 m. rugpjūčio 7 d.)]]
+- [[objektai/vietos/Širvintos]]

@@ -107,3 +107,14 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Angerburgas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/vietos/Girdava]]
+- [[objektai/asmenys/Herkus Mantas]]
+- [[objektai/vietos/Johanisburgas]]
+- [[objektai/vietos/Lotzenburgas]]
+- [[objektai/vietos/Röselis]]

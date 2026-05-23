@@ -6,6 +6,15 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai:
+  - 'XIV'
+  - 'XVI'
+  - 'XVII'
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - bajorija
@@ -56,6 +65,18 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
     - c-006
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-007
+  teiginys: 'Pastarųjų erdvėje toliau į rytus (Maskvos valstybėje, vėliau Rusijoje) ryškėjo bendruomeninė žemėvalda, tačiau rusėnų žemėse, priklausiusiose Lenkijai ir Lietuvai, išplito vakarietiška ūkininkavimo ir nuosavybės forma – alodas (individualus valstiečių ūkis).'
+  pagrindžia:
+    - c-007
+- t-008
+  teiginys: 'Pagrindinė Lietuvos metrikos, o ir apskritai LDK rašto kalba buvo rusėnų – LDK stačiatikių (baltarusių ir ukrainiečių protėvių) kalba.'
+  pagrindžia:
+    - c-008
+- t-009
+  teiginys: 'Filologų manymu, LDK raštinėse vyravusią raštijos kalbą reikėtų vadinti rusėnų kalba, o rusėnais – LDK ir Lenkijos valstybėse gyvenusius rytų slavus.'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -149,8 +170,79 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Pastarųjų erdvėje toliau į rytus (Maskvos valstybėje, vėliau Rusijoje) ryškėjo bendruomeninė žemėvalda, tačiau rusėnų žemėse, priklausiusiose Lenkijai ir Lietuvai, išplito vakarietiška ūkininkavimo ir nuosavybės forma – alodas (individualus valstiečių ūkis).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Pastarųjų erdvėje toliau į rytus
+    (Maskvos valstybėje, vėliau Rusijoje) ryškėjo bendruomeninė žemėvalda,
+    tačiau rusėnų žemėse, priklausiusiose Lenkijai ir Lietuvai, išplito vakarie-
+    tiška ūkininkavimo ir nuosavybės forma – alodas (individualus valstiečių
+    ūkis). Dėl šio pažangesnio ūkininkavimo ir nuosavybės santykių būdo
+    neatsitiktinai į XV–XVI a. Lietuvos Metrikos rusėnų kalbą pateko ir buvo
+    vartojamos net Ukrainoje lietuviškos tokios to meto ūkio sąvokos: dal-
+    gio tipas „litovka“, dailidė („doilida“) ar jauja („jevje“), svirnas („sviren“),
+    kluonas („klunia“), aruodas („orud“), priemenė („primen“). Pateko net
+    lietuviškos „gerovės“ žodžiai: kumpis („kompa“) ar skilandis („skilond“).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: 'Pagrindinė Lietuvos metrikos, o ir apskritai LDK rašto kalba buvo rusėnų – LDK stačiatikių (baltarusių ir ukrainiečių protėvių) kalba.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Pagrindinė Lietuvos metrikos, o ir apskritai LDK rašto kalba buvo ru-
+    sėnų – LDK stačiatikių (baltarusių ir ukrainiečių protėvių) kalba. Tai lėmė
+    spartus raštijos poreikių didėjimas Vytauto laikais. Lietuvių kalba raštijos
+    tradicijų nebuvo sukūrusi, o stačiatikiai valdiniai jau turėjo kelių šimtmečių
+    bažnytinę rašto tradiciją nuo Kijevo Rusios laikų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: 'Filologų manymu, LDK raštinėse vyravusią raštijos kalbą reikėtų vadinti rusėnų kalba, o rusėnais – LDK ir Lenkijos valstybėse gyvenusius rytų slavus.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Filologų manymu, LDK raštinėse
+    vyravusią raštijos kalbą reikėtų vadinti rusėnų kalba, o rusėnais – LDK ir
+    Lenkijos valstybėse gyvenusius rytų slavus. Juk pusė senosios Kijevo Ru-
+    sios valstybės pateko į Lietuvos ir Lenkijos sudėtį, ir nuo XIV a. senrusių
+    bajorijos, kunigaikščių savimonė buvo veikiama šiose valstybėse vykstan-
+    čių procesų. XVI a. rusėnai pasijuto visai atskira tauta, kitokia nei Mas-
+    kvos valstybės rusai. LDK rytų slavai Rusijos žmones vadino maskvėnais, o
+    maskvėnai savo ruožtu LDK rytų slavus – lietuviais. Patys LDK slavai save
+    vadino rusais, save suvokė kaip vieną etninę grupę, o Lietuvos valdovą laikė
+    savu valdovu. Taigi rusėnai atsiskyrė nuo Rusijos rusų. Tik XVII a. rusėnai
+    skilo į dvi tautas: ukrainiečius – pietuose ir baltarusius – šiaurėje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/lietuviškos ūkio ir gerovės sąvokos rusėnų kalboje]]
-- [[objektai/zodynas/rusėnų kalba LDK raštų kalba]]
+- [[objektai/vietos/Kijevas]]
+- [[objektai/vietos/Kijevo Rusia]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Maskvėnai]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/grupes/Slavai]]
+- [[objektai/grupes/Stačiatikiai]]
+- [[objektai/vietos/Ukraina]]
+- [[objektai/vietos/Viena]]
+- [[objektai/zodynas/alodas alodinė nuosavybė|alodas / alodinė nuosavybė]]
+- [[objektai/zodynas/metrika]]
+- [[objektai/paprociai/Rusėnų kalbos vartojimas LDK raštinėse ir raštijoje]]

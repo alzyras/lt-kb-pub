@@ -64,4 +64,15 @@ Savo laiške jis rašo, kad su vi­ sa kariuomene ir pulku dvariškių pasiekė 
 - [[temos/laiškas]]
 
 ### Susiję objektai
+- [[objektai/vietos/Maskva]]
+- [[objektai/asmenys/Vosylius]]
+- [[objektai/asmenys/Vosylius I]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/vietos/Drahočynas]]
+- [[objektai/asmenys/Henne]]
+- [[objektai/asmenys/Hennė (Ordino agentas)]]
+- [[objektai/asmenys/Vladimiras (Pronsko kunigaikštis)]]
+- [[objektai/asmenys/Vladimiras Andrejevičius]]
+- [[objektai/ivykiai/Vytauto žygis į Maskvos apylinkes ir Vosyliaus II globos prisiėmimas (1427 m.)]]
 - [[objektai/vietos/Zna]]

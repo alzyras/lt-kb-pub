@@ -33,6 +33,10 @@ Vilhelmas iš Krokuvos pilies buvo išvytas; Jadvyga, norėjusi pas jį pabėgti
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Abi jos, tėvui mirštant, jau buvo sužieduotos: pirmoji (11 metų) su Austrijos hercogu Vilhelmu ir antroji (12 metų) su Brandenbur­ go markagrafu, vėliau tapusiu ciesorium Zigmantu.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -56,3 +60,27 @@ Vilhelmas iš Krokuvos pilies buvo išvytas; Jadvyga, norėjusi pas jį pabėgti
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Abi jos, tėvui mirštant, jau buvo sužieduotos: pirmoji (11 metų) su Austrijos hercogu Vilhelmu ir antroji (12 metų) su Brandenbur­ go markagrafu, vėliau tapusiu ciesorium Zigmantu.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Abi
+    jos, tėvui mirštant, jau buvo sužieduotos: pirmoji (11 metų) su
+    Austrijos hercogu Vilhelmu ir antroji (12 metų) su Brandenbur­
+    go markagrafu, vėliau tapusiu ciesorium Zigmantu. Pirmiausia
+    Lenkijai buvo paskirta Marija, kuriai jau 1383 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Austrija]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/ivykiai/Lietuvos nepriklausomybės pripažinimo aktas (1918 m. kovo 23 d.)]]
+- [[objektai/vietos/Prūsų žemė]]
+- [[objektai/zodynas/bažnytinė valstybė]]

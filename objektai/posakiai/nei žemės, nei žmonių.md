@@ -53,3 +53,8 @@ Kryžiuočiams atrodė, kad bėglys Vytautas, kuris, jų žodžiais tariant, neb
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/įrankis]]
+
+### Susiję objektai
+- [[objektai/asmenys/Julijona]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]

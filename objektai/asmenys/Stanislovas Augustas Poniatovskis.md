@@ -13,6 +13,11 @@ datos:
   - '1733 m.'
   - '1763 m.'
   - '1764 m.'
+  - '1791 m.'
+  - '1792 m.'
+  - '1793 m.'
+  - '1795 m.'
+  - '1797 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
@@ -20,7 +25,7 @@ amziai:
   - 'XVII'
   - 'XVIII'
 date_start: '1697'
-date_end: '1764'
+date_end: '1797'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -91,6 +96,30 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
   teiginys: 'Nors Lietuvos ir Lenkijos kariuomenės dar turėjo jėgų ir ryžto priešintis, tačiau karalius Stanislovas Augustas Poniatovskis Rusijos spaudžiamas sušaukė Gardine seimą, kuris (apsuptas Rusijos kariuomenės) buvo priverstas sutikti su antruoju padalijimu ir.'
   pagrindžia:
     - c-010
+- t-011
+  teiginys: '1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas Stanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Lenkijos ir Lietuvos) dignitorių – ministrų.'
+  pagrindžia:
+    - c-011
+- t-012
+  teiginys: 'Istorija pasmerkė susitaikėlišką Stanislovo Augusto poziciją – LLV priešinimosi galimybės 1792 m. gegužės–liepos kare su Rusija toli gražu nebuvo išsemtos.'
+  pagrindžia:
+    - c-012
+- t-013
+  teiginys: 'O prie Varšuvos viskas atsirėmė į Stanislovo Augusto poziciją, kuris taip ir nepasirodė fronte ir neišnaudojo visuotinės mobilizacijos, nesuformavo miestiečių milicijos.'
+  pagrindžia:
+    - c-013
+- t-014
+  teiginys: 'Taigi 1795-ieji yra visų pirma Stanislovo Augusto fiasko, o į tai nuosekliai vedė jo visa ankstesnė biografija ir asmens savybės.'
+  pagrindžia:
+    - c-014
+- t-015
+  teiginys: 'Tuo metu Rusija privertė Stanislovą Augustą targovitėnų valdomame Gardine 1793 m. birželio 17 d. sušaukti Seimą, kuris turėjo pritarti naujai LLV ir Rusijos taikos sutarčiai ir taip patvirtinti antrąjį padalijimą.'
+  pagrindžia:
+    - c-015
+- t-016
+  teiginys: 'Prie konvencijos buvo pridėtas Stanislovo Augusto Poniatovskio abdikacijos (sosto atsisakymo) aktas.'
+  pagrindžia:
+    - c-016
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -262,7 +291,123 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-010
+- c-011
+  santrauka: '1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas Stanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Lenkijos ir Lietuvos) dignitorių – ministrų.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas
+    Stanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Len-
+    kijos ir Lietuvos) dignitorių – ministrų. Karalius laikėsi pozicijos, kad
+    Rusijos armijai, stovinčiai prie Varšuvos, nebesipriešinti, priimti liepos
+    21 dieną iš Jekaterinos II gautą notą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+- c-012
+  santrauka: 'Istorija pasmerkė susitaikėlišką Stanislovo Augusto poziciją – LLV priešinimosi galimybės 1792 m. gegužės–liepos kare su Rusija toli gražu nebuvo išsemtos.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Istorija pasmerkė susitaikėlišką Stanislovo
+    Augusto poziciją – LLV priešinimosi galimybės 1792 m. gegužės–liepos
+    kare su Rusija toli gražu nebuvo išsemtos. Tiesa, akivaizdi persvara buvo
+    Rusijos pusėje – Lietuvos ir Ukrainos frontuose ji turėjo 98 tūkst.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+- c-013
+  santrauka: 'O prie Varšuvos viskas atsirėmė į Stanislovo Augusto poziciją, kuris taip ir nepasirodė fronte ir neišnaudojo visuotinės mobilizacijos, nesuformavo miestiečių milicijos.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    O prie Varšuvos viskas atsirėmė į Stanislovo Augusto poziciją, kuris
+    taip ir nepasirodė fronte ir neišnaudojo visuotinės mobilizacijos, nesufor-
+    mavo miestiečių milicijos. Neabejotina, kad 1792 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+- c-014
+  santrauka: 'Taigi 1795-ieji yra visų pirma Stanislovo Augusto fiasko, o į tai nuosekliai vedė jo visa ankstesnė biografija ir asmens savybės.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Taigi 1795-ieji yra visų pirma Stanislovo Au-
+    gusto fiasko, o į tai nuosekliai vedė jo visa ankstesnė biografija ir asmens
+    savybės. Norėdamas įsitvirtinti valdžioje, jis žaidė su Rusija, bet ne per
+    LLV ambasadą Peterburge, o su Rusijos ambasada Varšuvoje. Dėl savo
+    ambicijų užsiėmė smulkiomis intrigėlėmis, susipyko su visa savo aplin-
+    ka, todėl lemtingais momentais stūksojo vienišas, o visuomenė, tiek daug
+    sudėjusi vilčių į šį valdovą ir Gegužės trečiosios konstitucija atsisakiusi
+    valdovų elekcijos, buvo nuvilta ir išduota.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
+- c-015
+  santrauka: 'Tuo metu Rusija privertė Stanislovą Augustą targovitėnų valdomame Gardine 1793 m. birželio 17 d. sušaukti Seimą, kuris turėjo pritarti naujai LLV ir Rusijos taikos sutarčiai ir taip patvirtinti antrąjį padalijimą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tuo metu Rusija privertė Stanislovą Augustą targovitėnų valdo-
+    mame Gardine 1793 m. birželio 17 d. sušaukti Seimą, kuris turėjo pritarti
+    naujai LLV ir Rusijos taikos sutarčiai ir taip patvirtinti antrąjį padalijimą.
+    Nors Seimas bandė priešintis, keletą deputatų suėmus, Seimą apsupus
+    rusų kariuomenei ir į salę įvedus rusų karininkus, rugpjūčio 19 dieną pa-
+    dalijimo rezultatai buvo patvirtinti – Gardino seimas ir Stanislovas Au-
+    gustas buvo priversti atšaukti Gegužės trečiosios konstituciją ir atkurti
+    ikikonstitucinę „auksinių laisvių“ santvarką.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
+- c-016
+  santrauka: 'Prie konvencijos buvo pridėtas Stanislovo Augusto Poniatovskio abdikacijos (sosto atsisakymo) aktas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1797 m. sausio 26 d. Rusija, Prūsija ir Austrija pasirašė naują Peter-
+    burgo konvenciją, kuri patvirtino trečiąjį LLV padalijimą, panaikino jos
+    valstybingumo likučius ir nubrėžė tikslias sienas. Prie konvencijos buvo
+    pridėtas Stanislovo Augusto Poniatovskio abdikacijos (sosto atsisaky-
+    mo) aktas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
+
+### Susiję objektai
+- [[objektai/vietos/Austrija]]
+- [[objektai/vietos/Gardinas]]
+- [[objektai/grupes/Gardino seimas]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Prūsija]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Ukraina]]
+- [[objektai/vietos/Varšuva]]
+- [[objektai/zodynas/abdikacija]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Prancūzijos steigiamasis susirinkimas]]
+- [[objektai/grupes/Saksų dinastija]]
+- [[objektai/ivykiai/Stanislovo Augusto Poniatovskio išrinkimas LLV valdovu]]
+- [[objektai/ivykiai/1797 m. Peterburgo konvencija dėl trečiojo padalijimo patvirtinimo]]

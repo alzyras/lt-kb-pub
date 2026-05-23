@@ -56,4 +56,8 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Dauguva]]
+- [[objektai/asmenys/Kazimieras]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Maskva]]
 - [[objektai/ivykiai/Šv. Kazimiero kanonizacija]]

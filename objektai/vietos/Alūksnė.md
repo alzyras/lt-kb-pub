@@ -55,3 +55,17 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Livonija]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/grupes/Maskvos kariuomenė]]
+- [[objektai/vietos/Narva]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/vietos/Saremos]]
+- [[objektai/vietos/Tartu]]
+- [[objektai/zodynas/konfederacija]]
+- [[objektai/grupes/Švedai]]
+- [[objektai/vietos/Vilijandis]]
+- [[objektai/vietos/Saremos sala]]

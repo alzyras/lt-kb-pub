@@ -47,3 +47,6 @@ Kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones per savo 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/istorinė-sąvoka]]
+
+### Susiję objektai
+- [[objektai/zodynas/Sūdas|sūdas]]

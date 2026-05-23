@@ -6,6 +6,16 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1650 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVII'
+  - 'XVIII'
+date_start: '1650'
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - vieta
@@ -29,6 +39,10 @@ Amsterdamas, 1650 m.
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Taigi Abiejų Tautų Respublika: • aprūpino Vakarus (per Gdanską į Amsterdamą) javais, • sukūrė Vakarams tuomet beveik nežinomą religinės tolerancijos ir bajoriškosios demokratijos tradiciją, • Vilnius XVI–XVIII a.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -70,8 +84,25 @@ Amsterdamas, 1650 m.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-003
+  santrauka: 'Taigi Abiejų Tautų Respublika: • aprūpino Vakarus (per Gdanską į Amsterdamą) javais, • sukūrė Vakarams tuomet beveik nežinomą religinės tolerancijos ir bajoriškosios demokratijos tradiciją, • Vilnius XVI–XVIII a.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Taigi Abiejų Tautų Respublika:
+    •	 aprūpino Vakarus (per Gdanską į Amsterdamą) javais,
+    •	 sukūrė Vakarams tuomet beveik nežinomą religinės tolerancijos ir
+    bajoriškosios demokratijos tradiciją,
+    •	 Vilnius XVI–XVIII a.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/daiktai/Daugiapakopės raketos]]
-- [[objektai/autoriai/Kazimieras Semenavičius]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/vietos/Gdanskas]]
+- [[objektai/zodynas/bajoriškoji demokratija]]

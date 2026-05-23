@@ -133,5 +133,17 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/paliaubos]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Salyne]]
+- [[objektai/zodynas/unija]]
+- [[objektai/vietos/Akmenų Brasta]]
+- [[objektai/vietos/Grajevas]]
+- [[objektai/vietos/Sūduva]]
+- [[objektai/vietos/Točilovo ežerai]]
+- [[objektai/vietos/Točilovo ežeras]]
+- [[objektai/daiktai/Karūna]]
+- [[objektai/vietos/Salynas]]

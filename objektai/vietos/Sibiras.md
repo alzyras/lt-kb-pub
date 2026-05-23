@@ -91,6 +91,13 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/ivykiai/Lietuvos žydų sunaikinimas - Holokaustas]]
+- [[objektai/vietos/Europa]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/SSRS]]
+- [[objektai/zodynas/Desovietizacija ir liustracija]]
+- [[objektai/zodynas/Politinė amnestija]]
 - [[objektai/ivykiai/Sovietinių represinių struktūrų kova su Lietuvos partizanais (1944–1954 m.)]]
 - [[objektai/paprociai/Žuvusių partizanų kūnų viešas išniekinimas ir slapti užkasimai]]
+- [[objektai/grupes/Sovietų Sąjunga]]
+- [[objektai/ivykiai/Sovietų Sąjungos masinės deportacijos į Sibirą]]

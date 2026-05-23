@@ -119,4 +119,12 @@ Vartojamos formos: `kūrėjų kūrėjo`.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/Krivė krivaitis]]
+- [[objektai/zodynas/Valdymieras|valdymieras]]
+- [[objektai/daiktai/Dievų stabai]]
+- [[objektai/paprociai/Kuopose renkami kunigai ir karo vadai]]
+- [[objektai/daiktai/Malkinė]]
+- [[objektai/paprociai/Vyresnybės įsakymų skelbimas krivūle]]
+- [[objektai/zodynas/Krivė krivaitis|krivė krivaitis]]
+- [[objektai/paprociai/Žynio gyvenimas šventoje girioje ir siuntinių priėmimas po lapine]]
+- [[objektai/zodynas/Žemlionis|žemlionis]]
+- [[objektai/vietos/Šventoji]]

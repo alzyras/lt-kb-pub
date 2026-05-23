@@ -41,3 +41,9 @@ Jie kiekvienas irgi atsivedė samdytos kariuomenės — savo dvarų milicijos.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuvos bajorija]]
+- [[objektai/grupes/Sapiegų kariuomenė]]

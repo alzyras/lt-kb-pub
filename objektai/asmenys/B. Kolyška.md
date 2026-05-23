@@ -134,3 +134,11 @@ Kolyškai. Kolyškos. Kolyška norėjo su savo kariais vytis priešą, tačiau t
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Rusai]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Viena]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

@@ -70,5 +70,10 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Auksinė Orda]]
+- [[objektai/vietos/Luckas]]
+- [[objektai/vietos/Pskovas]]
+- [[objektai/vietos/Smolenskas]]
+- [[objektai/zodynas/chanas]]
 - [[objektai/asmenys/Chudandachas]]
 - [[objektai/grupes/Užvolgio totoriai]]

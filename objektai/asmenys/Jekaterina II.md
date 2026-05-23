@@ -10,13 +10,15 @@ datos:
   - '1764 m.'
   - '1767 m.'
   - '1768 m.'
+  - '1791 m.'
+  - '1793 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
   - 'XVIII'
 date_start: '1764'
-date_end: '1768'
+date_end: '1793'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -45,6 +47,14 @@ Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų iš
   teiginys: 'Todėl Jekaterina 11 parėmė jų priešininkus Vilniaus-Radomo bajorų konfederaciją (1767-1768 m.).'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'LLV sąjungininkę Prūsiją išgąsdino galimas valstybės sustiprėjimas dėl reformų, o Rusijos imperatorė Jekaterina II nerimavo, kad Prancūzijos jakobinizmo šmėkla jau pasiekė Rusijos sienas.'
+  pagrindžia:
+    - c-004
+- t-005
+  teiginys: 'Nuo Jekaterinos II laikų į vietinio valdymo grandį buvo įtrauktos atskirų luomų savivaldos institucijos.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -107,3 +117,48 @@ Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų iš
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'LLV sąjungininkę Prūsiją išgąsdino galimas valstybės sustiprėjimas dėl reformų, o Rusijos imperatorė Jekaterina II nerimavo, kad Prancūzijos jakobinizmo šmėkla jau pasiekė Rusijos sienas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    LLV sąjungininkę Prūsiją išgąsdino gali-
+    mas valstybės sustiprėjimas dėl reformų, o Rusijos imperatorė Jekateri-
+    na II nerimavo, kad Prancūzijos jakobinizmo šmėkla jau pasiekė Rusijos
+    sienas.
+    1793 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: 'Nuo Jekaterinos II laikų į vietinio valdymo grandį buvo įtrauktos atskirų luomų savivaldos institucijos.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    L I E T U V O S  I S T O R I J A
+    100
+    Nuo Jekaterinos II laikų į vietinio valdymo grandį inkorporuotos ir
+    savivaldos atskirų luomų lygmens institucijos – bajorų dvarininkų susirin-
+    kimai gubernijose ir apskrityse, atskirų miestų miestiečių luomų, arba su-
+    bluomų, savivalda. Tai nesavarankiškos vietinės valdžios šakos, prižiūrimos
+    vietos administracijos, atlikusios iš esmės pagalbines funkcijas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Prancūzija]]
+- [[objektai/vietos/Prūsija]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/zodynas/jakobinizmas]]
+- [[objektai/ivykiai/Jekaterinos II sėslumo ribos nustatymas (1791 m.)]]
+- [[objektai/grupes/Žydai]]
+- [[objektai/paprociai/Žydų gyvenimo ribojimas sėslumo riba Rusijos imperijoje]]
+- [[objektai/zodynas/jakobinizmas jakobinų klubas]]

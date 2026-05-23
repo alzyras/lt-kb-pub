@@ -61,4 +61,7 @@ Priėmusi nutarimą respublikonų kariuomenė nužygiavo į Vilnių, kur Šnipi�
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/bajorija]]
 - [[objektai/vietos/Šnipiškės]]

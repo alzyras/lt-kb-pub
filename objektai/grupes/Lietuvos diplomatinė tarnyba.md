@@ -69,4 +69,13 @@ Tad lietuvių pabėgėlių ir Lietuvos laisvės klausimais Vakarų pasaulyje rū
 - [[temos/drabužis]]
 
 ### Susiję objektai
+- [[objektai/vietos/Baltija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Brazilija]]
+- [[objektai/vietos/Didžioji Britanija]]
+- [[objektai/vietos/Kanada]]
+- [[objektai/ivykiai/Lietuvos gyventojų pasitraukimas į Vakarus baigiantis Antrajam pasauliniam karui]]
+- [[objektai/grupes/Raudonoji armija]]
+- [[objektai/vietos/Urugvajus]]
 - [[objektai/ivykiai/Lietuvos diplomatinės tarnybos darbo pabaiga (1991 m. rugsėjo 6 d.)]]

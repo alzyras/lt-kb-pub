@@ -63,3 +63,12 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Baltarusija]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Pilsudskis]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/asmenys/Juzefas Pilsudskis]]

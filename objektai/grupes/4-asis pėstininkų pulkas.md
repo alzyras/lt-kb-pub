@@ -49,3 +49,5 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/A. Mokšeckio brigada]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]

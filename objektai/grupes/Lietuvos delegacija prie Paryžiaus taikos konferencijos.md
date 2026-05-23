@@ -6,6 +6,15 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1919 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+date_start: '1919'
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - grupe
@@ -43,6 +52,10 @@ Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiau
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: 'Versalio sistemoje Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai delegacija vadinosi Lietuvos delegacija prie Paryžiaus taikos konferencijos ir veikė kuluaruose.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -94,7 +107,28 @@ Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiau
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Versalio sistemoje Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai delegacija vadinosi Lietuvos delegacija prie Paryžiaus taikos konferencijos ir veikė kuluaruose.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Versalio sistemoje
+    Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje
+    prasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai
+    delegacija vadinosi Lietuvos delegacija prie Paryžiaus taikos konferenci-
+    jos ir veikė kuluaruose. Lietuvos delegacijai vadovavo A. Voldemaras, joje
+    dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis Domi-
+    nykas Semaško, daug JAV lietuvių, raštus dailino prancūzų poetas, kilęs
+    iš senos Lietuvos giminės, Oskaras Milašius (Oscar Milosz).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/etnografinės ribos etnografinis principas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Oskaras Milašius|Oskaras Milašius (poetas)]]
+- [[objektai/asmenys/Augustinas Voldemaras]]

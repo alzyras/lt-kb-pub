@@ -48,6 +48,14 @@ Karijotas čia minimas kaip Gedimino sūnus, gavęs Naugarduką; jo vardu siejam
   teiginys: 'Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai, Podolėje įsikūrę dėdės Karijoto Gediminaičio sūnūs, ypač Borisas ir Konstantinas.'
   pagrindžia:
     - c-004
+- t-009
+  teiginys: 'Mūšio padariniai „Pasakojime apie Podolę“ teigiama, kad Lietuvos valdovo Algirdo brolio Karijoto, valdančio Lietuvos Naugarduką, sūnūs - trys broliai Karijotaičiai, leidus Algirdui, su Lietuvos žemės pagalba, patraukė į Podolės žemę (Mažoji Podolė tarp.'
+  pagrindžia:
+    - c-005
+- t-010
+  teiginys: 'Algirdas buvo gavęs Krėvę (be to, kaip minėta, jis valdė savo žmonos tėviškę Vitebską), Monvy­ das — Kernavą ir Slonimą, Narimantas — Pinską, Kęstutis — Trakus, Karijotas — Naugarduką, o didžiausiąją Vilniaus sritį valdė jis pats.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -111,7 +119,79 @@ Karijotas čia minimas kaip Gedimino sūnus, gavęs Naugarduką; jo vardu siejam
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-005
+  santrauka: 'Mūšio padariniai „Pasakojime apie Podolę“ teigiama, kad Lietuvos valdovo Algirdo brolio Karijoto, valdančio Lietuvos Naugarduką, sūnūs - trys broliai Karijotaičiai, leidus Algirdui, su Lietuvos žemės pagalba, patraukė į Podolės žemę (Mažoji Podolė tarp.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Mūšio padariniai
+
+    „Pasakojime apie Podolę“ tei-
+    giama, kad Lietuvos valdovo
+    Algirdo brolio Karijoto, val-
+    dančio Lietuvos Naugarduką,
+    sūnūs - trys broliai Karijotaičiai,
+    leidus Algirdui, su Lietuvos
+    žemės pagalba, pa-
+    traukė į Podolės žemę
+    (Mažoji Podolė tarp Aukštutinių
+    Pietinio Bugo ir Dniestro, taigi
+
+    į vakarus nuo minėtos mūšio
+    vietos), kurioje nebuvo nė vie-
+    nos pilies. Jie susidraugavę su
+    vietiniais atamanais, ėmė ginti
+    Podolės žemę, neduoti duok-
+
+    lės jų baskakams.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-006
+  santrauka: 'Algirdas buvo gavęs Krėvę (be to, kaip minėta, jis valdė savo žmonos tėviškę Vitebską), Monvy­ das — Kernavą ir Slonimą, Narimantas — Pinską, Kęstutis — Trakus, Karijotas — Naugarduką, o didžiausiąją Vilniaus sritį valdė jis pats.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    (^4) ) Taip pat Gediminas pirmasis suprato reikalą Lietuvą civilizuoti,
+    pagerinti jos ekonomiškąjį vystymąsi ir tam reikalui kviesti žmonių iš
+
+
+    ```
+    — XXI —
+    ```
+    Dar gyvas Gediminas visą didžiulę savo valstybę buvo
+    padalinęs savo sūnums. Algirdas buvo gavęs Krėvę (be to,
+    kaip minėta, jis valdė savo žmonos tėviškę Vitebską), Monvy­
+    das — Kernavą ir Slonimą, Narimantas — Pinską, Kęstutis
+    — Trakus, Karijotas — Naugarduką, o didžiausiąją Vilniaus
+    sritį valdė jis pats. Jam mirus, Vilniuje, tur būt, be jokio pa­
+    skyrimo kunigaikščiu liko jauniausias sūnus Jaunutis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Karijotaičiai]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Jaunutis]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/tėviškė]]
+- [[objektai/vietos/Bakota]]
+- [[objektai/asmenys/Borisas Karijotaitis]]
+- [[objektai/asmenys/Konstantinas (Karijotaitis)]]
+- [[objektai/vietos/Pinskas]]
+- [[objektai/vietos/Polesė]]
+- [[objektai/vietos/Smotryč]]
+- [[objektai/asmenys/Teodoras (Karijoto sūnus)]]
+- [[objektai/asmenys/Teodoras (Liubarto sūnus)]]
+- [[objektai/vietos/Turovas]]
+- [[objektai/ivykiai/Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas]]

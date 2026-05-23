@@ -46,3 +46,7 @@ Gaidys ir Viesulas turėjo tik pistalietus. [...].Gaidys apsiginklavo automatu, 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Pistoletas]]

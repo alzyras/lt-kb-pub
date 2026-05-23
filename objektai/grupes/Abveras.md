@@ -44,4 +44,7 @@ Kadangi karinė LAF dalis bendradarbiavo su Abveru, nurodyta pirmiausia užimti 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Europa]]
+- [[objektai/grupes/Nacių Vokietija]]
+- [[objektai/vietos/Vokietija]]
 - [[objektai/posakiai/„Vokietijos vadovaujamoje Naujoje Europoje...“]]

@@ -25,7 +25,7 @@ Reikia tiesiog būti stipresniais.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Reikia tiesiog būti stipresniais.'
+  teiginys: 'Posakis „Reikia tiesiog būti stipresniais“ apibūdina karių pareigą mūšyje nepasiduoti baimei, panikai ir savisaugos instinktui.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -33,7 +33,7 @@ Reikia tiesiog būti stipresniais.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Reikia tiesiog būti stipresniais.'
+  santrauka: 'Posakis „Reikia tiesiog būti stipresniais“ apibūdina karių pareigą mūšyje nepasiduoti baimei, panikai ir savisaugos instinktui.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     ## Puslapis 17

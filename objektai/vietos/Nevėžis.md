@@ -77,6 +77,30 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
   teiginys: 'Salyno sutartimi jis pats užleido Ordinui visą Žemai­ tiją, net iki Nevėžio^5 ).'
   pagrindžia:
     - c-008
+- t-009
+  teiginys: 'Nuo XIII amž. pabaigos ordino kronikininkai jau laikė Nevėžį Žemaičių ir « Lietuvos » (Aukštaičių) skiriamąja siena, kuris vėliau tapo ilgiems laikams administracine upe tarp Trakų vaivadijos ir Žemaičių seniūnijos, ilgai išsaugojusios savo politines.'
+  pagrindžia:
+    - c-009
+- t-010
+  teiginys: 'Nebegalėdamas priversti Jogailos vykdyti Dubysos susitari­ mų, ordinas Žemaičių pareikalavo iš Vytauto, ir šis juos Karaliau­ čiuje 1384.I.30 turėjo užrašyti iki pat Nevėžio, t.'
+  pagrindžia:
+    - c-010
+- t-011
+  teiginys: 'Žemaičiuose jos ėjo Nevėžio tėkme, o jo aukštupyje nuo Vaišvilčių kaimo buvo pratęstos (Mūšos upe, Smardonės upeliu, Apaščios ežeru, netoli dabartinių Biržų), paskui tiesiai į šiaurę iki Pskovo respublikos valdų.'
+  pagrindžia:
+    - c-011
+- t-012
+  teiginys: 'Žemaičiai 1402 m. gegužės mėnesį sudegino Klaipėdą, o pats Vytautas Nevėžio žiotyse sugriovė Gotteswerderi^24.'
+  pagrindžia:
+    - c-012
+- t-013
+  teiginys: 'Naktį lenkai priartėja prie )— Lietuvių pajėgų išdėstymas ir puolimo kryptys Lenkų pajėgų išdėstyJ mas ir puolimo kryptys = = = =a Lietuvių atsitraukimo kryptys St | me me p> Lenkų atsitraukimo kryptys a || | Kėdainių ir ketina susprogdinti tiltą per Nevėžį.'
+  pagrindžia:
+    - c-013
+- t-014
+  teiginys: 'Dalis lenkų šiauriau Kėdainių pereina Nevėžį ir susprogdina geležinkelį.'
+  pagrindžia:
+    - c-014
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -217,7 +241,153 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-009
+  santrauka: 'Nuo XIII amž. pabaigos ordino kronikininkai jau laikė Nevėžį Žemaičių ir « Lietuvos » (Aukštaičių) skiriamąja siena, kuris vėliau tapo ilgiems laikams administracine upe tarp Trakų vaivadijos ir Žemaičių seniūnijos, ilgai išsaugojusios savo politines.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Nuo XIII amž. pabaigos ordino kronikininkai jau laikė Nevėžį
+    Žemaičių ir « Lietuvos » (Aukštaičių) skiriamąja siena, kuris vėliau
+    tapo ilgiems laikams administracine upe tarp Trakų vaivadijos ir
+    Žemaičių seniūnijos, ilgai išsaugojusios savo politines privilegijas.
+    Nors Žemaičių kunigaikščiai — dėl savo ypatingos geografinės pa­
+    dėties — jau Mindaugo laikais politiškai rodė savarankiškumo,
+    tačiau ir XIII amž.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: 'Nebegalėdamas priversti Jogailos vykdyti Dubysos susitari­ mų, ordinas Žemaičių pareikalavo iš Vytauto, ir šis juos Karaliau­ čiuje 1384.I.30 turėjo užrašyti iki pat Nevėžio, t.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Nebegalėdamas priversti Jogailos vykdyti Dubysos susitari­
+    mų, ordinas Žemaičių pareikalavo iš Vytauto, ir šis juos Karaliau­
+    čiuje 1384.I.30 turėjo užrašyti iki pat Nevėžio, t. y. dar pridėti
+    svarbų ruožą į rytus nuo Dubysos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+- c-011
+  santrauka: 'Žemaičiuose jos ėjo Nevėžio tėkme, o jo aukštupyje nuo Vaišvilčių kaimo buvo pratęstos (Mūšos upe, Smardonės upeliu, Apaščios ežeru, netoli dabartinių Biržų), paskui tiesiai į šiaurę iki Pskovo respublikos valdų.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Žemaičiuose jos
+    ėjo Nevėžio tėkme, o jo aukštupyje nuo Vaišvilčių kaimo buvo
+    pratęstos (Mūšos upe, Smardonės upeliu, Apaščios ežeru, netoli
+    dabartinių Biržų), paskui tiesiai į šiaurę iki Pskovo respublikos
+    valdų.
+    Gaudamas Žemaičius iki Nevėžio, ordinas pirmą kartą išreika­
+    lavo ir žymią dalį Sūduvos dykros, į kurią, kaip į jo paties XIII
+    amž.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+- c-012
+  santrauka: 'Žemaičiai 1402 m. gegužės mėnesį sudegino Klaipėdą, o pats Vytautas Nevėžio žiotyse sugriovė Gotteswerderi^24.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Žemaičiai 1402 m. gegužės
+    mėnesį sudegino Klaipėdą, o pats Vytautas Nevėžio žiotyse sugriovė
+    Gotteswerderi^24.
+    Ordinas vėl susirado talkininkų tarp pačių lietuvių kunigaikš­
+    čių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+- c-013
+  santrauka: 'Naktį lenkai priartėja prie )— Lietuvių pajėgų išdėstymas ir puolimo kryptys Lenkų pajėgų išdėstyJ mas ir puolimo kryptys = = = =a Lietuvių atsitraukimo kryptys St | me me p> Lenkų atsitraukimo kryptys a || | Kėdainių ir ketina susprogdinti tiltą per Nevėžį.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Naktį lenkai priartėja prie
+
+    )— Lietuvių pajėgų išdėsty-
+    mas ir puolimo kryptys
+    Lenkų pajėgų išdėsty-
+    J mas ir puolimo kryptys
+    = = = =a Lietuvių atsitraukimo
+
+    kryptys
+    St | me me p> Lenkų atsitraukimo
+
+    kryptys
+
+    a
+    ||
+
+    |
+
+    Kėdainių ir ketina susprogdinti tiltą per Nevėžį, tačiau 1-ojo pasienio pulko
+
+    Pao, ir Kėdainių komendantūros kariai sutrukdo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+- c-014
+  santrauka: 'Dalis lenkų šiauriau Kėdainių pereina Nevėžį ir susprogdina geležinkelį.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Dalis lenkų šiauriau Kėdainių
+    pereina Nevėžį ir susprogdina geležinkelį.
+    T @ Ryteiš Kauno atvyksta kelios kuopos pastiprinimo ir šarvuotas traukinys
+    „Gediminas“, prasideda lenkų pajėgų persekiojimas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Kėdainiai]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/komendantūra]]
+- [[objektai/vietos/Apaščia]]
+- [[objektai/asmenys/Galminas]]
+- [[objektai/asmenys/Getautas]]
+- [[objektai/vietos/Gotesverderis]]
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/ivykiai/Kauno susitarimas su Vokiečių ordinu (1402 m.)]]
+- [[objektai/vietos/Kulautuva]]
+- [[objektai/daiktai/Malūnas]]
+- [[objektai/asmenys/Mykolas Küchmeisteris]]
+- [[objektai/vietos/Mūša]]
+- [[objektai/vietos/Naujasis Kaunas]]
+- [[objektai/vietos/Nevėžio žiotys]]
 - [[objektai/vietos/Pagiriai]]
+- [[objektai/asmenys/Rumbaudas]]
+- [[objektai/vietos/Salyne]]
+- [[objektai/vietos/Smardonė]]
+- [[objektai/vietos/Trakų vaivadija]]
+- [[objektai/vietos/Trapėnai]]
+- [[objektai/vietos/Upytės žemė]]
+- [[objektai/vietos/Vaišvilčiai]]
+- [[objektai/asmenys/Vasibutas]]
+- [[objektai/vietos/Vyrgalės sala]]
+- [[objektai/zodynas/Medė|medė]]
+- [[objektai/vietos/Žemaičių seniūnija]]
+- [[objektai/ivykiai/Žemaičių vyskupijos įkūrimas (1417 m. spalio 24 d.)]]
+- [[objektai/vietos/Gaižuva]]
+- [[objektai/vietos/Šušvė]]

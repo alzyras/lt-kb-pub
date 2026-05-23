@@ -38,3 +38,9 @@ E., Žalys V., edit. Žalys V.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/diplomatija]]
+- [[objektai/vietos/Vilnius]]

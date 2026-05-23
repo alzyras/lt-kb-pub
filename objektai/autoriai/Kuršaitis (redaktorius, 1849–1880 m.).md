@@ -143,3 +143,6 @@ Kuršaitis šiame šaltinyje minimas kaip redaktorius, profesorius; jam priskiri
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/redaktorius]]
+
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]

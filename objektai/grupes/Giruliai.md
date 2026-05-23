@@ -50,3 +50,9 @@ Giruliai šiame fragmente aiškinami kaip istorinis žemaičių ir kalnėnų var
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/grupes/Kalnėnai]]

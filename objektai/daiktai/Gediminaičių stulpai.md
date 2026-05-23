@@ -8,14 +8,20 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1399 m.'
+  - '1939 m.'
+  - '1940 m.'
+  - '1988 m.'
   - '2013 m.'
   - '2026 m.'
 periodas: 'atkurtos nepriklausomybės laikotarpis'
 periodo_grupes:
   - 'LDK'
+  - 'XX a.'
+  - 'modernioji Lietuva'
   - 'šiuolaikinė Lietuva'
 amziai:
   - 'XIV'
+  - 'XX'
   - 'XXI'
 date_start: '1399'
 date_end: '2026'
@@ -64,6 +70,10 @@ Nenurodyta
   teiginys: 'Jo tunika puošia valdovo heraldinė simbolika - Gediminaičių stulpai ~ 52 VORSKLOS MUSIS 1399 m.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Sąjūdžio ženklas buvo sukurtas su Gediminaičių stulpais.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -118,10 +128,31 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Sąjūdžio ženklas buvo sukurtas su Gediminaičių stulpais.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A
+    235
+    Sąjūdžio ženklas su Gedimino stulpais
+    (dail. Giedrius Reimeris, Algimantas
+    Nasvytis)
+    Laisvėjant spaudai, klubų diskusijose didėjo susidomėjimas istorija, ypač
+    1939–1940 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
 
 ### Susiję objektai
-- [[objektai/daiktai/Vėliavos]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/daiktai/Sąjūdžio ženklas su Gedimino stulpais]]
+- [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos]]
+- [[objektai/daiktai/Herbai]]

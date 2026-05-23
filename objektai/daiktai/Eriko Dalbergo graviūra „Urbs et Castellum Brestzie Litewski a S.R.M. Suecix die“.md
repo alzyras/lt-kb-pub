@@ -52,7 +52,7 @@ Nenurodyta
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Graviūroje gerai matyti už apgulos įtvirtinimų išdėstytos švedų patrankos, jas dengia žemės pylimai ir žemių pripildytos pintinės (turai arba gabionai) Lietuvos teritoriją, todėl 1656 m.'
+  teiginys: 'Eriko Dalbergo graviūroje matyti už apgulos įtvirtinimų išdėstytos švedų patrankos, dengtos pylimais ir gabionais.'
   pagrindžia:
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -78,7 +78,7 @@ Nenurodyta
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Graviūroje gerai matyti už apgulos įtvirtinimų išdėstytos švedų patrankos, jas dengia žemės pylimai ir žemių pripildytos pintinės (turai arba gabionai) Lietuvos teritoriją, todėl 1656 m.'
+  santrauka: 'Eriko Dalbergo graviūroje matyti už apgulos įtvirtinimų išdėstytos švedų patrankos, dengtos pylimais ir gabionais.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Pirmą
@@ -99,4 +99,9 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuvos Brasta]]
+- [[objektai/vietos/Brasta]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/apsiaustis]]
+- [[objektai/vietos/Švedija]]
+- [[objektai/grupes/Švedijos kariuomenė]]
+- [[objektai/grupes/Žemaičiai]]

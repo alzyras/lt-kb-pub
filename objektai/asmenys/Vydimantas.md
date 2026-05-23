@@ -53,3 +53,10 @@ Jo tėvas Kęstutis, nuolatinis Žemaičių krašto gynėjas, turėdamas per 40 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/ivykiai/Kęstučio žūtis Krėvos kalėjime (1382 m.)]]
+- [[objektai/asmenys/Birutė]]

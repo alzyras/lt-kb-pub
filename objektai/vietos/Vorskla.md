@@ -69,6 +69,10 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
   teiginys: 'Rugpjūčio pradžioje kariuomenė, persikėlusi per Dnieprą, jo kairiuoju krantu patraukė į Šarvinių pirštinių rekonstrukcija stepes, kur laukė prie kairiojo Dniepro intako Vorsklos, prie Ordos valdų paribių, susitiko su Aukso ordos chano Timūr-Kutluko kariuomene.'
   pagrindžia:
     - c-006
+- t-007
+  teiginys: 'Vytauto pralaimėjimas ties Vorskla buvo baisus, sukrėtęs jo likimą iš pamatų: jo galybė sumažėjo ir Lietuvoj ir Rusijoj.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -184,3 +188,53 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Vytauto pralaimėjimas ties Vorskla buvo baisus, sukrėtęs jo likimą iš pamatų: jo galybė sumažėjo ir Lietuvoj ir Rusijoj.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    ```
+    Vytauto pralaimėjimas ties Vorskla buvo baisus, sukrėtęs jo
+    likimą iš pamatų: jo galybė sumažėjo ir Lietuvoj ir Rusijoj. Tą
+    Vytauto susilpnėjimą pajutęs neramusis Švitrigaila, tuojau pa­
+    reiškė savo pretenzijas į Lietuvą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/ivykiai/1401 m. Vytauto pasižadėjimai Lenkijai]]
+- [[objektai/asmenys/Andrius Polockietis]]
+- [[objektai/vietos/Ašmena]]
+- [[objektai/asmenys/Bajazitas]]
+- [[objektai/vietos/Brianskas]]
+- [[objektai/autoriai/Detmaro Liubeko]]
+- [[objektai/asmenys/Ediga]]
+- [[objektai/asmenys/Edigėjus]]
+- [[objektai/ivykiai/Edygos vadovaujami totorių antpuoliai Kijevo ir Podolės kraštuose (1414–1416 m.)]]
+- [[objektai/daiktai/Geležinėmis grandinėmis kaustyti vežimai]]
+- [[objektai/asmenys/Gregorijus Cemblakas]]
+- [[objektai/grupes/Maskvos kunigaikštija]]
+- [[objektai/grupes/Maskvos kunigaikštystė]]
+- [[objektai/asmenys/Saladinas]]
+- [[objektai/ivykiai/Smolensko sukilimas]]
+- [[objektai/ivykiai/Smolensko sukilimas po Vorsklos mūšio]]
+- [[objektai/asmenys/Spytkas iš Melsztyno]]
+- [[objektai/asmenys/Timur-Kutlugas]]
+- [[objektai/grupes/Tochtamišo totoriai]]
+- [[objektai/asmenys/Tochtamyšas (Krymo ordos chanas)]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/ivykiai/Vorsklos katastrofa]]
+- [[objektai/ivykiai/Vorsklos mūšis]]
+- [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]
+- [[objektai/vietos/Vorsklos upė]]
+- [[objektai/paprociai/Vytauto bažnyčių statymas ir vienuolynų steigimas]]
+- [[objektai/ivykiai/Vytauto skundas Ordinui imperijos kunigaikščiams (1401 m.)]]
+- [[objektai/asmenys/Hlebas]]
+- [[objektai/autoriai/J. Dlugošas]]
+- [[objektai/autoriai/Lianskoronskij, V]]

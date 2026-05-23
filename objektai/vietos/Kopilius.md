@@ -48,4 +48,6 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Maskva]]
 - [[objektai/vietos/Černigovas]]
+- [[objektai/vietos/Viena]]

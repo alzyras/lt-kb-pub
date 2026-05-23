@@ -188,5 +188,8 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/daiktai/Nuometai]]
+- [[objektai/grupes/Žemaičiai]]
 - [[objektai/daiktai/Kilimas]]
-- [[objektai/zodynas/Kilimas]]
+- [[objektai/zodynas/Kilimas|kilimas]]

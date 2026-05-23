@@ -61,4 +61,7 @@ Michelbertas (AkMD, t.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Veliuona]]
 - [[objektai/vietos/Rudaičiai]]
+- [[objektai/daiktai/Sidabro dirbiniai]]

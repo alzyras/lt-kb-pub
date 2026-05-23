@@ -46,4 +46,9 @@ Nepaisant nepriklausomybės pradžioje susovietintų Vilniaus krašto lenkų kom
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Varšuva]]
+- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/Teritorinė autonomija]]

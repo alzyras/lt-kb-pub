@@ -45,6 +45,10 @@ tags:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Vokiečių ir lenkų mažumos darė žygių gauti tautinę autonomiją žydų pavyzdžiu, tik rusų mažuma tokių reikalavimų nekėlė.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -65,10 +69,28 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Vokiečių ir lenkų mažumos darė žygių gauti tautinę autonomiją žydų pavyzdžiu, tik rusų mažuma tokių reikalavimų nekėlė.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vokiečių ir lenkų mažumos darė žygių gauti tautinę
+    autonomiją žydų pavyzdžiu, tik rusų mažuma tokių reikalavimų nekėlė.
+    Keliai tarp Lietuvos ir Lenkijos keliolika metų buvo uždaryti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/privilegija]]
 
 ### Susiję objektai
-- [[objektai/zodynas/Tautinės mažumos]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė]]
+- [[objektai/zodynas/autokratinė monarchinė imperija]]

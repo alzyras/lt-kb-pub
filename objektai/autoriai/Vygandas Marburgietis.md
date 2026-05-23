@@ -67,11 +67,6 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
   teiginys: 'PILIES ŠTURMAS Ištrauka iš Vygando Marburgiečio „Naujosios Prūsijos kronikos“.'
   pagrindžia:
     - c-006
-- t-008
-  teiginys: 'p. 50, „LIETUVOS KARIUOMENES DALIJIMAS Į TRIS DALIS“, Marburgietis V., p. 154.'
-  pagrindžia:
-    - c-007
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vygandas Marburgietis buvo „Naujosios Prūsijos žemės kronikos“ autorius.'
@@ -183,20 +178,14 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
-- c-007
-  santrauka: 'p. 50, „LIETUVOS KARIUOMENES DALIJIMAS Į TRIS DALIS“, Marburgietis V., p. 154.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    p. 50, „LIETUVOS KARIUOMENES DALIJIMAS Į TRIS DALIS“, Marburgietis V., p. 154.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-008
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Prūsija]]
 - [[objektai/vietos/Semba]]
+- [[objektai/vietos/Strėva]]
+- [[objektai/vietos/Viena]]
+- [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/stabmeldys]]

@@ -44,4 +44,5 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Čikaga]]
 - [[objektai/posakiai/„idealiąją Lietuvą“]]

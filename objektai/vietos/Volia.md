@@ -58,3 +58,9 @@ tags:
 ### Susiję objektai
 - [[objektai/vietos/Ežeronis]]
 - [[objektai/zodynas/Kerzono linija]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Nemunas]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Sovietų Rusija]]
+- [[objektai/vietos/Viena]]

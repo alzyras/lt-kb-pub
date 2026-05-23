@@ -72,5 +72,11 @@ Imperijos politikoje „lenkų klausimu“ viršų gavo tie, kurie manė, kad re
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Aleksandras III]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/vietos/Rusija]]
 - [[objektai/zodynas/polonofobija]]
+- [[objektai/asmenys/Aleksandras III]]
+- [[objektai/zodynas/pradai]]
+- [[objektai/posakiai/„lenkų pradų naikinimo“ „istorinio pirmumo teisę“ „rusų pradų atkūrimo“]]
+- [[objektai/posakiai/„lenkų pradų naikinimo“ „rusų pradų atkūrimo“]]

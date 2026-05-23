@@ -88,3 +88,8 @@ Vladimirskį-Budanovą 187. Vladimirskij-Budanov : Očerki iz istorii Litovsko-r
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Rusų istorikai]]

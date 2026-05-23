@@ -85,3 +85,10 @@ Po pirmojo privatizacijos dešimtmečio masinis nedarbas skatino masinę Lietuvo
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/socialinė-praktika]]
+
+### Susiję objektai
+- [[objektai/vietos/Ispanija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Norvegija]]
+- [[objektai/vietos/Airija]]
+- [[objektai/vietos/Jungtinė Karalystė]]

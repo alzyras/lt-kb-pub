@@ -44,3 +44,11 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Albrechtas]]
+- [[objektai/vietos/Brandenburgas]]
+- [[objektai/vietos/Prūsai]]
+- [[objektai/vietos/Vokietija]]
+- [[objektai/zodynas/protestantizmas]]

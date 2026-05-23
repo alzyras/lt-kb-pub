@@ -49,3 +49,11 @@ Taip didysis magistras jį jau titulavo Salyno taikoje, kai jis pats save vadino
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Salynas]]
+- [[objektai/zodynas/didysis magistras]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/zodynas/supremus dux magnus dux]]

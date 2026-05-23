@@ -15,13 +15,15 @@ datos:
   - '1402 m.'
   - '1404 m.'
   - '1408 m.'
+  - '1418 m.'
+  - '1430 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
   - 'XV'
 date_start: '1402'
-date_end: '1408'
+date_end: '1430'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -35,7 +37,7 @@ tags:
 
 ## Teiginiai
 - t-017
-  teiginys: 'Švitrigaila, būdamas Jogailos broliu, tikėjosi perimti Vitebską po kunigaikštienės mirties.'
+  teiginys: 'Švitrigaila manė, kad po kunigaikštienės mirties Jogaila jį paskirs Vitebsko valdytoju.'
   pagrindžia:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -80,10 +82,38 @@ tags:
   teiginys: 'Švitrigaila ir Žygimantas buvo Vytauto politikos tęsėjai.'
   pagrindžia:
     - c-009
+- t-026
+  teiginys: '1430 m. lapkričio 7 d. buvo sudarytos paliaubos tarp Lenkijos karaliaus Jogailos ir jo brolio, Lietuvos didžiojo kunigaikščio Švitrigailos.'
+  pagrindžia:
+    - c-010
+- t-027
+  teiginys: 'Kartu su Jogaila ir Vy­ tautu priėmė katalikų tikėjimą Jogailos broliai Karigaila, Vy­ gandas, Švitrigaila ir daug lietuvių didikų.'
+  pagrindžia:
+    - c-011
+- t-028
+  teiginys: 'Savo nepasiten­ kinimą Vytauto politika jie pareiškė 1418 metais, išleisdami iš Kremenco kalėjimo Jogailos brolį Švitrigailą tuo metu, kai Že­ maitijoje buvo sukilę baudžiauninkai, ir Vytautas turėjo juos malšinti.'
+  pagrindžia:
+    - c-012
+- t-029
+  teiginys: 'Švitrigaila mėgino įsigalėti rusų kraštuose, bet tas 114 jam nepavyko; tiktai po Vytauto mirties jisai buvo sukėlęs di­ delę audrą Lietuvos Rytuose.'
+  pagrindžia:
+    - c-013
+- t-030
+  teiginys: 'Tą Vytauto susilpnėjimą pajutęs neramusis Švitrigaila, tuojau pa­ reiškė savo pretenzijas į Lietuvą.'
+  pagrindžia:
+    - c-014
+- t-031
+  teiginys: 'Šita žemė ir buvo pavesta valdyti Švitrigailai, pavojingiau­ siam Vytauto priešininkui, kuris, būdamas tikrasis Algirdo sū­ nus, turėjo pirmenybę į Lietuvos d. kunigaikščio sostą: Vy­ tautas tos pirmenybės neturėjo, jis tik ją išsikovojo.'
+  pagrindžia:
+    - c-015
+- t-032
+  teiginys: 'Pagal tas sutartis didysis kunigaikštis Jogaila, — pritariamas motinos Julijonos ir brolių: Kaributo, Lingvenio, Karigailos, Vy­ gunto ir Švitrigailos — pasižadėjo 4 metus laikytis su Ordinais taikos, per tuos pat 4 metus „su visais saviškiais“ apsikrikš­.'
+  pagrindžia:
+    - c-016
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Švitrigaila, būdamas Jogailos broliu, tikėjosi perimti Vitebską po kunigaikštienės mirties.'
+  santrauka: 'Švitrigaila manė, kad po kunigaikštienės mirties Jogaila jį paskirs Vitebsko valdytoju.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Pas ją buvo apsigyvenęs ir
@@ -220,3 +250,172 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-025
+- c-010
+  santrauka: '1430 m. lapkričio 7 d. buvo sudarytos paliaubos tarp Lenkijos karaliaus Jogailos ir jo brolio, Lietuvos didžiojo kunigaikščio Švitrigailos.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    1430 m. lapkričio 7 d. buvo
+    sudarytos paliaubos tarp Lenkijos kara-
+    liaus Jogailos ir jo brolio, Lietuvos didžiojo
+    kunigaikščio Švitrigailos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-026
+- c-011
+  santrauka: 'Kartu su Jogaila ir Vy­ tautu priėmė katalikų tikėjimą Jogailos broliai Karigaila, Vy­ gandas, Švitrigaila ir daug lietuvių didikų.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Kartu su Jogaila ir Vy­
+    tautu priėmė katalikų tikėjimą Jogailos broliai Karigaila, Vy­
+    gandas, Švitrigaila ir daug lietuvių didikų. Tai buvo kaip ir
+    pirmas Lietuvos krikšto aktas, atliktas Krokuvoje.
+
+    (^1) ) Scr.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-027
+- c-012
+  santrauka: 'Savo nepasiten­ kinimą Vytauto politika jie pareiškė 1418 metais, išleisdami iš Kremenco kalėjimo Jogailos brolį Švitrigailą tuo metu, kai Že­ maitijoje buvo sukilę baudžiauninkai, ir Vytautas turėjo juos malšinti.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Savo nepasiten­
+    kinimą Vytauto politika jie pareiškė 1418 metais, išleisdami iš
+    Kremenco kalėjimo Jogailos brolį Švitrigailą tuo metu, kai Že­
+    maitijoje buvo sukilę baudžiauninkai, ir Vytautas turėjo juos
+    malšinti. Švitrigaila mėgino įsigalėti rusų kraštuose, bet tas
+    ```
+
+    ```
+    114
+    ```
+    jam nepavyko; tiktai po Vytauto mirties jisai buvo sukėlęs di­
+    delę audrą Lietuvos Rytuose.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-028
+- c-013
+  santrauka: 'Švitrigaila mėgino įsigalėti rusų kraštuose, bet tas 114 jam nepavyko; tiktai po Vytauto mirties jisai buvo sukėlęs di­ delę audrą Lietuvos Rytuose.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Švitrigaila mėgino įsigalėti rusų kraštuose, bet tas
+    ```
+
+    ```
+    114
+    ```
+    jam nepavyko; tiktai po Vytauto mirties jisai buvo sukėlęs di­
+    delę audrą Lietuvos Rytuose.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-029
+- c-014
+  santrauka: 'Tą Vytauto susilpnėjimą pajutęs neramusis Švitrigaila, tuojau pa­ reiškė savo pretenzijas į Lietuvą.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tą
+    Vytauto susilpnėjimą pajutęs neramusis Švitrigaila, tuojau pa­
+    reiškė savo pretenzijas į Lietuvą. Ramybės dėliai jam buvo pa­
+    vesta valdyti Podolija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-030
+- c-015
+  santrauka: 'Šita žemė ir buvo pavesta valdyti Švitrigailai, pavojingiau­ siam Vytauto priešininkui, kuris, būdamas tikrasis Algirdo sū­ nus, turėjo pirmenybę į Lietuvos d. kunigaikščio sostą: Vy­ tautas tos pirmenybės neturėjo, jis tik ją išsikovojo.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Šita žemė ir buvo pavesta valdyti Švitrigailai, pavojingiau­
+    siam Vytauto priešininkui, kuris, būdamas tikrasis Algirdo sū­
+    nus, turėjo pirmenybę į Lietuvos d. kunigaikščio sostą: Vy­
+    tautas tos pirmenybės neturėjo, jis tik ją išsikovojo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-031
+- c-016
+  santrauka: 'Pagal tas sutartis didysis kunigaikštis Jogaila, — pritariamas motinos Julijonos ir brolių: Kaributo, Lingvenio, Karigailos, Vy­ gunto ir Švitrigailos — pasižadėjo 4 metus laikytis su Ordinais taikos, per tuos pat 4 metus „su visais saviškiais“ apsikrikš­.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Pagal tas sutartis didysis kunigaikštis Jogaila, — pritariamas
+    motinos Julijonos ir brolių: Kaributo, Lingvenio, Karigailos, Vy­
+    gunto ir Švitrigailos — pasižadėjo 4 metus laikytis su Ordinais
+    taikos, per tuos pat 4 metus „su visais saviškiais“ apsikrikš­
+    tyti ir kas svarbiausia — užleidžia Ordinui pusę Žemaitijos:
+    visą dešinį Dubysos krantą, nuo pat ištakos iki įtakos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-032
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/vietos/Dubysa]]
+- [[objektai/vietos/Kremencas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Podolija]]
+- [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/ivykiai/1432 m. perversmas ir Zigmanto Kęstutaičio iškėlimas]]
+- [[objektai/vietos/Bazelis]]
+- [[objektai/asmenys/Boleslovas Jurgis Traidenaitis]]
+- [[objektai/vietos/Borisovas]]
+- [[objektai/grupes/Gediminaičių šeima]]
+- [[objektai/vietos/Gelvonai]]
+- [[objektai/ivykiai/Herasimo sąmokslas ir sudeginimas ant laužo]]
+- [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
+- [[objektai/grupes/Jogailos palikuonys]]
+- [[objektai/asmenys/Julijona (Algirdo žmona)]]
+- [[objektai/vietos/Kremenecas]]
+- [[objektai/vietos/Lukomlis]]
+- [[objektai/vietos/Minskas]]
+- [[objektai/vietos/Mozūrija]]
+- [[objektai/vietos/Odojevas]]
+- [[objektai/vietos/Pabaiskas]]
+- [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]
+- [[objektai/vietos/Pašilė]]
+- [[objektai/vietos/Petrakava]]
+- [[objektai/vietos/Priegliaus žiotys]]
+- [[objektai/asmenys/Sofija Vytautaitė]]
+- [[objektai/vietos/Stirė]]
+- [[objektai/vietos/Trakai]]
+- [[objektai/asmenys/Vasilijus (Maskvos didysis kunigaikštis)]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/vietos/Vintara]]
+- [[objektai/vietos/Vitebskas]]
+- [[objektai/ivykiai/Vitebsko užėmimas (1392 m.)]]
+- [[objektai/vietos/Vladimiras]]
+- [[objektai/asmenys/Vyguntas]]
+- [[objektai/ivykiai/Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas]]
+- [[objektai/vietos/Zaslavlis]]
+- [[objektai/grupes/Čekijos husitai]]
+- [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis]]
+- [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (997 m.)]]
+- [[objektai/vietos/Žirnajų ežeras]]
+- [[objektai/ivykiai/Švitrigailos paskelbimas didžiuoju Lietuvos kunigaikščiu]]

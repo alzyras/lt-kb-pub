@@ -80,3 +80,13 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
+
+### Susiję objektai
+- [[objektai/grupes/Habsburgai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/ivykiai/Oršos mūšis]]
+- [[objektai/vietos/Vengrija]]
+- [[objektai/vietos/Čekija]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Maskva]]

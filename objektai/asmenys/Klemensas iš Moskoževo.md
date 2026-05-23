@@ -60,3 +60,8 @@ Apie tai galima spręsti iš to, kad Jogaila, kartu su „brangiausia žmona“,
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/papuošalas]]
+
+### Susiję objektai
+- [[objektai/vietos/Salynas]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]

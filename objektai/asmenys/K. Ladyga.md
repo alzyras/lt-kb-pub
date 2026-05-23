@@ -101,3 +101,15 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rytas]]
+- [[objektai/vietos/Utena]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/1-asis pėstininkų pulkas]]
+- [[objektai/vietos/Daugailiai]]
+- [[objektai/vietos/Paberžė]]
+- [[objektai/vietos/Tauragnai]]
+- [[objektai/grupes/Vyriausioji Lietuvos karinė vadovybė]]

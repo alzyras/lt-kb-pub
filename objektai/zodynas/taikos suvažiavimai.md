@@ -34,6 +34,10 @@ didesniesiems nesusipratimams spręsti — visų tarpininkų suvažiavimai, vadi
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Reformai atlikti buvo sudarytos apskrityse valstiečių komisijos, apskritys padalintos į apylinkes, kurių priešaky buvo pastatyti taikos tarpininkai, o didesniesiems nesusipratimams spręsti — visų tarpininkų suvažiavimai, vadinami taikos suvažiavimais.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -56,7 +60,25 @@ didesniesiems nesusipratimams spręsti — visų tarpininkų suvažiavimai, vadi
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Reformai atlikti buvo sudarytos apskrityse valstiečių komisijos, apskritys padalintos į apylinkes, kurių priešaky buvo pastatyti taikos tarpininkai, o didesniesiems nesusipratimams spręsti — visų tarpininkų suvažiavimai, vadinami taikos suvažiavimais.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Reformai atlikti buvo sudarytos apskrityse valstiečių ko-
+    misijos, apskritys padalintos į apylinkes, kurių priešaky bu-
+    vo pastatyti taikos tarpininkai, o didesniesiems nesu-
+    sipratimams spręsti — visų tarpininkų suvažiavimai, vadinami
+    taikos suvažiavimais.
+    Baudžiavos panaikinimo vykdymas buvo pačių dvarininkų
+    rankose, nes visi taikos tarpininkai buvo renkami iš jų tarpo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/taikos tarpininkai taikos teisėjai]]
+- [[objektai/zodynas/Baudžiava]]

@@ -119,3 +119,9 @@ Išskirtiną vietą Lietuvos istoriografijoje užima teisės ir kul­ tūros ist
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/redaktorius]]
+
+### Susiję objektai
+- [[objektai/vietos/Baltarusija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/inventoriai]]
+- [[objektai/zodynas/statutas]]

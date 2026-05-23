@@ -50,3 +50,10 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Pskovas]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/vietos/Šklovas]]
+- [[objektai/asmenys/M. K. Pacas]]

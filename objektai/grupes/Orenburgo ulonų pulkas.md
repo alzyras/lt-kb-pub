@@ -52,3 +52,7 @@ Tuo pat metu pasigirdo ir sukilėlių (lenkų) 1-ojo ulonų pulko eskadronų vad
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/D. Osten-Sakenas]]

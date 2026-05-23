@@ -39,6 +39,10 @@ Ukmergėje, Zarasuose, Kėdainiuose ir Jurbarke buvo pastatytos naujos cerkvės,
   teiginys: '1 brigadai užėmus Zarasus, puolimas tęsėsi toliau.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Voldemaras šį kartą nubaustas ypač rimtai – iš Lietuvos provincijos miestelio Zarasų ištremtas į Paryžių...'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -71,3 +75,21 @@ Ukmergėje, Zarasuose, Kėdainiuose ir Jurbarke buvo pastatytos naujos cerkvės,
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Voldemaras šį kartą nubaustas ypač rimtai – iš Lietuvos provincijos miestelio Zarasų ištremtas į Paryžių...'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tik A. Voldemaras šį kartą nubaustas ypač rimtai – iš
+    Lietuvos provincijos miestelio Zarasų ištremtas į Paryžių...
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/A. Voldemaras]]
+- [[objektai/vietos/Lietuva]]

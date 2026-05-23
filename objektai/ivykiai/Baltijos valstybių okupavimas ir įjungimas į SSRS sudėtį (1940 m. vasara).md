@@ -57,5 +57,9 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Latvija]]
+- [[objektai/vietos/SSRS]]
+- [[objektai/vietos/Estija]]
+- [[objektai/grupes/Sovietų Sąjunga]]
 - [[objektai/ivykiai/Sovietų Sąjungos Lietuvos okupacija ir aneksija (1940 m.)]]
 - [[objektai/zodynas/liaudies demokratija]]

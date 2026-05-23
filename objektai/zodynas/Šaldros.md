@@ -83,3 +83,10 @@ Vartojamos formos: `šaldrų`, `prašaleičių`, `prašaleičiai`.
 ## Pastabos
 
 - `šaldrų` ir `prašaleičių` čia veikia kaip artimi tos pačios svetimybės vardai. `šaldros` tekste atrodo kaip sinonimas ar keista vartosena, bet priešstata su vietininku aiški.
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Namas]]
+- [[objektai/zodynas/Nomadžiai|nomadžiai]]
+- [[objektai/daiktai/Ūkės lazda]]
+- [[objektai/zodynas/Žiuponai|žiuponai]]

@@ -60,4 +60,9 @@ Pirmosios lietuvių kovos prie Nemuno su Prūsų ordinu ir naujos dinastijos kil
 - [[temos/dinastija]]
 
 ### Susiję objektai
+- [[objektai/autoriai/Dusburgas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Nemunas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/posakiai/„Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“]]

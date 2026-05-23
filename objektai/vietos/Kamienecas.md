@@ -53,3 +53,16 @@ Abu magistrai pasižadėjo nepulti krikščioniškų Trakų kunigaikšti­ jos s
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Trakai]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/paliaubos]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/vietos/Belskas]]
+- [[objektai/vietos/Drahočynas]]
+- [[objektai/vietos/Kamiencas]]
+- [[objektai/vietos/Mielnikas]]

@@ -49,6 +49,10 @@ Nenurodyta
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Įkūrus vyskupiją, pasibaigė vienas Žemaičių krikšto eta­ pas — bažnytinių reikalų tvarkymas, bet prasidėjo labai svar­ bus kitas— katalikų tikėjimo įsamoninimas žmonėse.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -69,3 +73,28 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Įkūrus vyskupiją, pasibaigė vienas Žemaičių krikšto eta­ pas — bažnytinių reikalų tvarkymas, bet prasidėjo labai svar­ bus kitas— katalikų tikėjimo įsamoninimas žmonėse.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Įkūrus vyskupiją, pasibaigė vienas Žemaičių krikšto eta­
+    pas — bažnytinių reikalų tvarkymas, bet prasidėjo labai svar­
+    bus kitas— katalikų tikėjimo įsamoninimas žmonėse. Tam rei­
+    kėjo ne tik laiko, bet ramybės ir laisvės, o žemaičiams bent iš
+    pradžių trūko ir vieno ir kito. Kitais metais po vyskupijos
+    įkūrimo Žemaitijoje sukėlė daug neramumų sukilimas. Mat,
+    kai kurių apskričių bajorai, įvedus katalikų tikėjimą, buvo ga­
+    vę daugiau teisių į savo nuosavybę: kaip ir aukštaičių bajorai,
+
+    (^1) ) C.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Žemaičiai]]

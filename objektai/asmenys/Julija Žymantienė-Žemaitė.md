@@ -57,3 +57,12 @@ Kudirkos poezija ir satyriniai, caro valdininkus taikliai pašiepiantys apsakyma
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Liudvika Didžiulienė-Žmona]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/daiktai/A. Jurašaičio nuotrauka „Lietuvių mokslo draugijos suvažiavimo dalyviai Vilniuje 1912 m.“]]
+- [[objektai/asmenys/Jonas Jablonskis]]
+- [[objektai/asmenys/Petras Kriaučiūnas]]

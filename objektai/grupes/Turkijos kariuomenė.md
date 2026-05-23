@@ -64,3 +64,12 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Artilerija]]
+- [[objektai/vietos/Chocimas]]
+- [[objektai/vietos/Chotinas]]
+- [[objektai/vietos/Krymas]]
+- [[objektai/vietos/Turkija]]
+- [[objektai/vietos/Ukraina]]

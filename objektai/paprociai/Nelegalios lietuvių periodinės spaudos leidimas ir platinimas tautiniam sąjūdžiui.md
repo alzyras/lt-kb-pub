@@ -161,3 +161,19 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/redaktorius]]
+
+### Susiję objektai
+- [[objektai/grupes/Estai]]
+- [[objektai/autoriai/Juozas Tumas (Vaižgantas)]]
+- [[objektai/grupes/Latviai]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Užnemunė]]
+- [[objektai/autoriai/V. Kudirka]]
+- [[objektai/zodynas/kunigas]]
+- [[objektai/zodynas/rusinimas]]
+- [[objektai/zodynas/spiritus movens]]
+- [[objektai/grupes/Lietuviškoji socialdemokratų partija]]

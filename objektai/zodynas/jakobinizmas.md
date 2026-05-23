@@ -45,4 +45,8 @@ LLV sąjungininkę Prūsiją išgąsdino galimas valstybės sustiprėjimas dėl 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Prancūzija]]
+- [[objektai/vietos/Prūsija]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/asmenys/Jekaterina II]]
 - [[objektai/zodynas/jakobinizmas jakobinų klubas]]

@@ -138,5 +138,22 @@ Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo respublikose, kurios daugi
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Baltija]]
+- [[objektai/vietos/Europa]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/vietos/Naugardas]]
+- [[objektai/vietos/Pskovas]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/asmenys/Sofija (Vytauto duktė)]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/vietos/Vorskla]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/zodynas/saar]]
+- [[objektai/vietos/Žalgiris]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/grupes/Maskvos kunigaikštystė]]
 - [[objektai/grupes/Pskovo respublika]]

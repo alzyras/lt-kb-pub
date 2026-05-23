@@ -56,5 +56,7 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/vietos/Vilnius]]
 - [[objektai/vietos/Malėtai]]
 - [[objektai/vietos/Verkiai]]

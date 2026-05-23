@@ -46,3 +46,9 @@ Butkievičiaus kavalerijos brigada ir iki dienos pabaigos ji pasiekia Videniški
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/J. Baranovskio brigada]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Videniškis]]

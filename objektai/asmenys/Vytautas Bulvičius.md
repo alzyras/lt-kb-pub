@@ -62,3 +62,7 @@ Padariniai Tarpukario Lietuvos generalinio štabo majoras Vytautas Bulvičius sa
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]

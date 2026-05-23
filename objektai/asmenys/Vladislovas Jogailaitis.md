@@ -129,4 +129,18 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lietuvos Brasta]]
+- [[objektai/vietos/Brasta]]
+- [[objektai/vietos/Kazanė]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/vietos/Starodubas]]
+- [[objektai/vietos/Vengrija]]
+- [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/vietos/Čekija]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/vietos/Prūsija]]
+- [[objektai/vietos/Trakai]]
+- [[objektai/zodynas/magistras]]

@@ -50,3 +50,7 @@ Polska i Litwa, Warsza­ wa 1914, 1-36 p. — Długopolski, Edm. : Władysław �
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Vroclavas]]

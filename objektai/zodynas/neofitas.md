@@ -126,5 +126,11 @@ tags: []
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Bonifacas IX]]
+- [[objektai/vietos/Europa]]
+- [[objektai/asmenys/Inocentas VII]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Malburgas]]
+- [[objektai/zodynas/Vakarų Bažnyčios schizma]]
 - [[objektai/zodynas/neofitai]]
+- [[objektai/posakiai/„krikščionys turi raudoti dėl jo mirties“]]

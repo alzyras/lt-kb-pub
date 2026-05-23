@@ -50,3 +50,8 @@ Yra įrodyta, jog « Goliad’ » buvo toliausiai į rytus įsiterpusi baltiš­
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Nemunas]]
+- [[objektai/zodynas/ekspansija]]

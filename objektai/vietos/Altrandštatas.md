@@ -46,4 +46,8 @@ Pabūgęs visko netekti, Augustas Altrandštate (Saksonijoje) padarė su Karoliu
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/vietos/Brasta]]
+- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
+- [[objektai/asmenys/Karolis XII]]
 - [[objektai/ivykiai/Karolio XII žygis į Saksoniją ir Altrandštato taika (1706 m.)]]

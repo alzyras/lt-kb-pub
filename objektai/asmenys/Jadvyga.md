@@ -50,6 +50,14 @@ tags:
   teiginys: '1393 m. tarp jo ir Skirgailos vėl kilo smarkus ginčas, kuriam išspręsti Jogaila ir Jadvyga nuvyko į Vilnių.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'ABIEJŲ TAUTŲ RESPUBLIKA Liublino unija 1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas.'
+  pagrindžia:
+    - c-005
+- t-006
+  teiginys: 'Karalienė Jadvyga pareikalavo duoklės už jai aprašytąsias žemes.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -111,3 +119,49 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'ABIEJŲ TAUTŲ RESPUBLIKA Liublino unija 1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    ABIEJŲ TAUTŲ RESPUBLIKA
+    Liublino unija
+    1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos
+    ir Lenkijos suartėjimas. „Šventos santuokos“ metafora dažnai taikoma
+    visam unijų procesui, kurio padarinys – 1569 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: 'Karalienė Jadvyga pareikalavo duoklės už jai aprašytąsias žemes.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    O kai karalienė Jad­
+    vyga pareikalavo už jai aprašytąsias žemes duoklės, jis pasa­
+    kė savo bajorams: „Jūsų tėvai buvo laisvi karžygiai ir Len­
+    kams duoklės nemokėjo niekad; taip pat ir jūs norite pavel-
+
+    (^1) ) Žerb.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/vietos/Kremencas]]
+- [[objektai/grupes/Piastų dinastija]]
+- [[objektai/vietos/Raudonoji Rusia]]
+- [[objektai/vietos/Stožkas]]
+- [[objektai/ivykiai/Vytauto ir Skirgailos ginčas Vilniuje (1393 m. spalio 3 d.)]]
+- [[objektai/posakiai/wieszczym duchem]]
+- [[objektai/asmenys/Jadvyga (Jogailos duktė)]]
+- [[objektai/asmenys/Jadvyga Jogailienė]]
+- [[objektai/ivykiai/Sutartis su Fridriku Brandenburgiečiu ir Jadvygos sužieduotuvės (1420–1421 m.)]]

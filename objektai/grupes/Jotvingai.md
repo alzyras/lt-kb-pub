@@ -52,3 +52,10 @@ Ji buvo daug platesnė, negu Mindaugo laikais, nes Traidenio klausė ir žemaič
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Drohičinas]]
+- [[objektai/vietos/Žalioji giria]]
+- [[objektai/grupes/Jotvingiai]]
+- [[objektai/zodynas/pagonybė]]

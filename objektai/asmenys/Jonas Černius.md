@@ -54,3 +54,7 @@ Jono Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]

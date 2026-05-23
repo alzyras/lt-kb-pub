@@ -52,6 +52,14 @@ Nenurodyta
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Pagal aptariamą punktą, Jogailai mirus be įpėdinių, Lenkija negalėjo rinktis karaliaus be Vytauto ir jo bajorų žinios.'
+  pagrindžia:
+    - c-002
+- t-003
+  teiginys: 'Lie­ tuvių bajorų aktas leidžia jiems daryti spaudimą į Vytautą, jei šis nesilaikytų unijos; taip pat lietuviai, mirus Vytautui, gauna teisę dalyvauti naujo kun. elekcijoj.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -72,3 +80,46 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Pagal aptariamą punktą, Jogailai mirus be įpėdinių, Lenkija negalėjo rinktis karaliaus be Vytauto ir jo bajorų žinios.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    : jei Jogaila numirtų nepalikęs įpėdinių, Lenkija nega­
+    li rinktis sau karaliaus be Vytauto ir jo bajorų žinios^2 ). Šis punk­
+    tas praplatino Lietuvos teises ir tartum paruošė dirvą tam, kad
+    Jogailai mirus anksčiau už Vytautą, Lenkijos sostas galėtų ati­
+    tekti Vytautui.
+    Lenkų bajorų dokumentas^3 ) yra beveik lietuvių bajorų ak­
+    to nuorašas, todėl apie jį atskirai ir nebekalbėsim.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Lie­ tuvių bajorų aktas leidžia jiems daryti spaudimą į Vytautą, jei šis nesilaikytų unijos; taip pat lietuviai, mirus Vytautui, gauna teisę dalyvauti naujo kun. elekcijoj.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Lie­
+    tuvių bajorų aktas leidžia jiems daryti spaudimą į Vytautą, jei
+    šis nesilaikytų unijos; taip pat lietuviai, mirus Vytautui, gauna
+    teisę dalyvauti naujo kun. elekcijoj. Lenkų bajorija turėjo tą
+    teisę seniau.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/grupes/Lenkų bajorija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]

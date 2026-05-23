@@ -48,3 +48,9 @@ Frankovskio vadovaujamus lietuvių įtvirtinimus tarp Naujininkų, šv.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Pogulianka]]
+- [[objektai/vietos/Naujininkai]]

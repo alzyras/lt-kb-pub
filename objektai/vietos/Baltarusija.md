@@ -7,18 +7,23 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1307 m.'
+  - '1320 m.'
+  - '1340 m.'
   - '1990 m.'
   - '1991 m.'
   - '2013 m.'
   - '2026 m.'
 periodas: 'atkurtos nepriklausomybės laikotarpis'
 periodo_grupes:
+  - 'LDK'
   - 'šiuolaikinė Lietuva'
 amziai:
+  - 'XIV'
   - 'XVIII'
   - 'XX'
   - 'XXI'
-date_start: '1990'
+date_start: '1307'
 date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
@@ -38,6 +43,10 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Gerai klostėsi ekonominiai santykiai, o politinius komplikavo Baltarusijos prezidento Aleksandro Lukašenkos diktatūrinis valdymas.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -62,3 +71,36 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Gerai klostėsi ekonominiai santykiai, o politinius komplikavo Baltarusijos prezidento Aleksandro Lukašenkos diktatūrinis valdymas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Gerai klostėsi ekonominiai san-
+    tykiai, o politinius komplikavo Baltarusijos prezidento Aleksandro Lu-
+    kašenkos diktatūrinis valdymas. 1990 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Aleksandras Lukašenka]]
+- [[objektai/vietos/Baltoji Rusia]]
+- [[objektai/autoriai/E. Griškūnaitė]]
+- [[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis]]
+- [[objektai/autoriai/K. Jablonskis]]
+- [[objektai/autoriai/Konstantinas Jablonskis]]
+- [[objektai/autoriai/L. Mulevičius]]
+- [[objektai/grupes/Lenkų socialistų partija]]
+- [[objektai/autoriai/O. Maksimaitienė]]
+- [[objektai/autoriai/P. Girdzijauskienė]]
+- [[objektai/autoriai/S. Grunau]]
+- [[objektai/autoriai/Simono Grunau]]
+- [[objektai/autoriai/Snyder T]]
+- [[objektai/autoriai/V. Černeckis]]
+- [[objektai/vietos/Vakarų Ukraina]]
+- [[objektai/ivykiai/Lietuvos ir Baltarusijos geros kaimynystės deklaracijos ir sutarties pasirašymas]]

@@ -80,4 +80,11 @@ Radzvilovaitė pateikė žinių apie lietuvių genčių skydus II-VIII a. Radzvi
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Brūkšniuotoji keramika]]
+- [[objektai/vietos/Krokuva]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/daiktai/Sidabro dirbiniai]]
+- [[objektai/daiktai/Skydas]]
 - [[objektai/daiktai/Geležiniai įrankiai]]
+- [[objektai/grupes/LTSR Mokslų Akademijos Istorijos Institutas]]

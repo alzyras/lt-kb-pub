@@ -43,3 +43,9 @@ LKP vadovybei Aleksandras Jakovlevas pabrėžė, kad „inteligentija – liaudi
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Aleksandras Jakovlevas]]
+- [[objektai/ivykiai/Aleksandro Jakovlevo apsilankymas Lietuvoje ir valdžios nuolaidos LPS (1988 m. rugpjūčio 11–12 d.)]]
+- [[objektai/vietos/Vingio parkas]]

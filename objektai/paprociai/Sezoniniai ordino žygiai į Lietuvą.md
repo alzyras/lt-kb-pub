@@ -65,6 +65,10 @@ Nenurodyta
   teiginys: 'Ordino kronikose 1345-1382 m. suregistruoti 66 Prūsų kryžiuočių žygiai ir 30 žygių iš Livonijos.'
   pagrindžia:
     - c-003
+- t-008
+  teiginys: 'Ordino kronikose 1345-1382 m. yra suregistruota 66 žygiai iš Prūsų kryžiuočių ir 30—iš Livonijos.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -110,3 +114,22 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-004
+  santrauka: 'Ordino kronikose 1345-1382 m. yra suregistruota 66 žygiai iš Prūsų kryžiuočių ir 30—iš Livonijos.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Ordino kronikose 1345-1382 m. yra suregistruota 66 žygiai iš Prūsų
+    kryžiuočių ir 30—iš Livonijos. Į tą skaičių neįeina pasienyje
+    ordino riterių suorganizuoti savanorių — « plėšikėlių » (vad.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Livonija]]

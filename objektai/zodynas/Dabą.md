@@ -65,3 +65,8 @@ Vartojamos formos: `dabos`.
 ## Pastabos
 
 - Šalia bendros reikšmės gali apimti ir gyvenimo būdo, ir papročių niuansus.
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Žalioji giria]]
+- [[objektai/grupes/Lietuviai]]

@@ -58,3 +58,6 @@ Kętrzyńskis atsidėjo Mindaugo donacinių dokumentų klausimui^127. Kętrzyńs
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
+
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]

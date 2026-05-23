@@ -62,3 +62,9 @@ Tik didieji mūsų kalbininkai Jaunius su Būga visas tas gimines vadino aisčia
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Baltija]]
+- [[objektai/grupes/Suomiai]]
+- [[objektai/zodynas/Aistuva]]

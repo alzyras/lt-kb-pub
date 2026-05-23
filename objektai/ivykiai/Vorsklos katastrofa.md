@@ -64,3 +64,12 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Totoriai]]
+- [[objektai/vietos/Vorskla]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Bajazitas]]
+- [[objektai/grupes/Tochtamišo totoriai]]
+- [[objektai/vietos/Kijevas]]

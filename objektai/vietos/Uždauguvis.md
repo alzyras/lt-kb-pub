@@ -57,3 +57,5 @@ Mokes­ čiams rinkti Vytautas turėjo vietininkų ir ten, kur ir nebuvo jo dvar
 
 ### Susiję objektai
 - [[objektai/vietos/Padnieprė]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/vietininkas]]

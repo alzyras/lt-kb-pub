@@ -67,6 +67,10 @@ Nenurodyta
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-007
+  teiginys: 'Valstybė lengvatinėmis sąlygomis aprūpindavo ūkininkus geresnėmis javų sėklomis, veisliniais gyvuliais, padėjo rengti žemės ūkio specialistus.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -85,6 +89,22 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
+- c-002
+  santrauka: 'Valstybė lengvatinėmis sąlygomis aprūpindavo ūkininkus geresnėmis javų sėklomis, veisliniais gyvuliais, padėjo rengti žemės ūkio specialistus.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Valstybė lengvatinėmis sąlygomis aprūpindavo ūkininkus
+    geresnėmis javų sėklomis, veisliniais gyvuliais, padėjo rengti žemės ūkio
+    specialistus. Žemės ūkyje pradėtos naudoti organinės ir mineralinės trą-
+    šos, pagerėjo javų derlingumas (nuo 9 cnt prieš karą iki 12 cnt ketvirta-
+    jame dešimtmetyje).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
 
 ## Šaltiniai ir įrodymai
 

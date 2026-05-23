@@ -45,3 +45,11 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/zodynas/Laisvamanybė ir laisvamaniai]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/grupes/Vilniaus universitetas]]

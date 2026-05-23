@@ -43,4 +43,6 @@ Sausio 11-ąją sovietų kariuomenė jėga užėmė Spaudos rūmus ir Krašto ap
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/vietos/Vilniaus geležinkelio mazgas]]

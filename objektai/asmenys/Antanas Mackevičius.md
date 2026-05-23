@@ -43,7 +43,7 @@ Mackevičius, vėliau K.
   pagrindžia:
     - c-003
 - t-004
-  teiginys: 'Gražų pamokslą lenkiškai, tą pat ir lietuviškai sakęs kunigas Mackevičius.'
+  teiginys: 'Kunigas Mackevičius sakė pamokslą lenkiškai ir lietuviškai, ragindamas eiti už tikėjimą, Lietuvą ir lietuvius.'
   pagrindžia:
     - c-004
 - t-005
@@ -58,6 +58,10 @@ Mackevičius, vėliau K.
   teiginys: 'Mackevičiui pavyko suburti išsklaidytus sukilėlius ir išvesti pro Rusijos kariuomenės apsupimą į Vidurio Lietuvą.'
   pagrindžia:
     - c-007
+- t-008
+  teiginys: 'Po Z. Sierakausko mirties Antanas Mackevičius paskirtas Kauno gubernijos sukilėlių karo vadu.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -116,7 +120,7 @@ Mackevičius, vėliau K.
   pagrindžia:
     - t-003
 - c-004
-  santrauka: 'Gražų pamokslą lenkiškai, tą pat ir lietuviškai sakęs kunigas Mackevičius.'
+  santrauka: 'Kunigas Mackevičius sakė pamokslą lenkiškai ir lietuviškai, ragindamas eiti už tikėjimą, Lietuvą ir lietuvius.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Gražų pamokslą lenkiškai, tą pat ir lietuviškai sakęs kunigas Mackevičius. Visa kariuo-
@@ -184,10 +188,27 @@ Mackevičius, vėliau K.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-008
+  santrauka: 'Po Z. Sierakausko mirties Antanas Mackevičius paskirtas Kauno gubernijos sukilėlių karo vadu.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Po Z. Sierakausko mirties Kauno gubernijos (sukilėliai vadino vaivadija)
+    sukilėlių karo vadu paskirtas jaunas kunigas, apsisprendęs lietuvis Anta-
+
+    3 skyrius •  R U S I J O S  I M P E R I J O S  VA L D O M A  L I E T U VA  ( 1 7 9 5 – 1 9 1 5 )
+    109
+    nas Mackevičius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/posakiai/Eikime, broliai, už vierą šventą]]
-- [[objektai/paprociai/Kunigo A. Mackevičiaus religinės apeigos sukilėlių stovykloje]]
-- [[objektai/paprociai/Sukilėlių telkimas Salose per bažnyčios varpų skambinimą ir dvikalbį pamokslą]]
-- [[objektai/paprociai/Teresboro stovyklos mokymai lietuvių kalba]]
+- [[objektai/vietos/Kaunas]]
+- [[objektai/zodynas/gubernija]]
+- [[objektai/paprociai/Carinės sukilimo slopinimo teroro ir viešų bausmių praktika]]
+- [[objektai/paprociai/Sukilėlių partizaninio karo nedidelių antpuolių taktika]]

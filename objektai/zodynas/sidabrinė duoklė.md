@@ -52,4 +52,6 @@ Bet, greta visų rinkliavų ūkio produktais ir amatininkų gaminiais, kai kuri�
 
 ### Susiję objektai
 - [[objektai/paprociai/Valstiečių duoklės ir prievolės]]
+- [[objektai/vietos/Horodlė]]
+- [[objektai/zodynas/pastočiai]]
 - [[objektai/zodynas/sidabrinė duoklė tributum serebsčina]]

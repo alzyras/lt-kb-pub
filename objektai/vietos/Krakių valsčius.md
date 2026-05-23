@@ -54,5 +54,8 @@ Krakių vlsč.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Dainava]]
+- [[objektai/vietos/Kėdainiai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/vietos/Kėdainių apskritis]]
 - [[objektai/vietos/Lenčių miškas]]

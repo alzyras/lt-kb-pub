@@ -47,3 +47,5 @@ Sumanymą iškėlė imperatorius Zigmantas. Atšaukimas buvo laišku praneštas 
 
 ### Susiję objektai
 - [[objektai/vietos/Krokuva]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/zodynas/apsikarūnavimas]]

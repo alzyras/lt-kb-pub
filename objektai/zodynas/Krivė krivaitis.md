@@ -65,4 +65,4 @@ Papildomos aiškios formos neišskirtos.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/Kūrėjų kūrėjas]]
+- [[objektai/zodynas/Kūrėjų kūrėjas|kūrėjų kūrėjas]]

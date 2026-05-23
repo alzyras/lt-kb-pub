@@ -55,3 +55,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/in corpore]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

@@ -111,3 +111,9 @@ tags: []
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Bonifacas IX]]
+- [[objektai/vietos/Malburgas]]
+- [[objektai/zodynas/neofitas]]

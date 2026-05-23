@@ -94,5 +94,8 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Jotvingiai]]
+- [[objektai/grupes/Kuršiai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Livonija]]
 - [[objektai/grupes/Žiemgaliai]]
+- [[objektai/grupes/Jotvingiai]]

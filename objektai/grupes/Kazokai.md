@@ -172,5 +172,21 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Dauguva]]
 - [[objektai/grupes/Janičarai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Ukraina]]
+- [[objektai/zodynas/etmonas]]
+- [[objektai/zodynas/hetmonas]]
+- [[objektai/autoriai/A. Vijūkas Kojelavičius]]
+- [[objektai/asmenys/Antoine Gramont]]
+- [[objektai/ivykiai/Bogdano Chmelnickio vadovaujamas Ukrainos kazokų sukilimas (1648–1651 m.)]]
+- [[objektai/vietos/Braginas]]
+- [[objektai/vietos/Kražių bažnyčia]]
 - [[objektai/grupes/Lietuvos totoriai]]
+- [[objektai/ivykiai/Rusijos ir Lenkijos-Lietuvos karas (1654–1667 m.)]]
+- [[objektai/grupes/Rusijos kariuomenė]]
+- [[objektai/vietos/Valakija]]
+- [[objektai/ivykiai/Vilniaus užėmimas (1655 m. rugpjūčio 7 d.)]]
+- [[objektai/daiktai/Artilerija]]
+- [[objektai/grupes/Totoriai]]

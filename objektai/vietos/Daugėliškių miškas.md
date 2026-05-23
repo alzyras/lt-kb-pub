@@ -55,5 +55,8 @@ Kazimieraicio : Li Ores / Wyinlavas DAUGĖLIŠKIŲ KAUTYNES ) Leipalingis Armoni
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lesčiai]]
+- [[objektai/vietos/Ariogala]]
+- [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
+- [[objektai/autoriai/Maironis]]
 - [[objektai/vietos/Vilkija]]
+- [[objektai/vietos/Lesčiai]]

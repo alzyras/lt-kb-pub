@@ -16,12 +16,17 @@ dalyviai: []
 susije_irasai: []
 datos:
   - '1447 m.'
+  - '1831 m.'
+  - '1853 m.'
+  - '1856 m.'
   - '1861 m.'
+  - '1864 m.'
   - '1936 m.'
   - '2026 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
+  - 'naujieji laikai'
 amziai:
   - 'XV'
   - 'XIX'
@@ -86,6 +91,18 @@ Terminas vartojamas ilgame istoriniame pjūvyje: nuo 1447 m. privilegijos, padė
   teiginys: 'Buvo tik nustatyta, kad nebegalima bus grąžinti į baudžiavą tų, kurie atleisti pačių dvarininkų.'
   pagrindžia:
     - c-007
+- t-013
+  teiginys: 'Tuo metu carizmas pradėjo jau anksčiau paskelbtą valstiečių paleidimo iš baudžiavinės priklausomybės procesą.'
+  pagrindžia:
+    - c-008
+- t-014
+  teiginys: 'Todėl sukilėlių būriuose, kuriems vadovavo vietiniai smulkiosios bajorijos atstovai, buvo daug valstiečių, kai kuriuose net dauguma, tad atsišaukimuose lenkų ir lietuvių (žemaičių) kalbomis keltas ir reikalavimas paleisti valstiečius iš baudžiavos.'
+  pagrindžia:
+    - c-009
+- t-015
+  teiginys: 'Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą Aleksandrą II rengtis baudžiavos panaikinimui, sušvelninta tautinė politika.'
+  pagrindžia:
+    - c-010
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -199,6 +216,59 @@ Terminas vartojamas ilgame istoriniame pjūvyje: nuo 1447 m. privilegijos, padė
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-012
+- c-008
+  santrauka: 'Tuo metu carizmas pradėjo jau anksčiau paskelbtą valstiečių paleidimo iš baudžiavinės priklausomybės procesą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1864 m. – sąlyginė skiriamoji riba, kai Rusijos caro valdžia nuslopi-
+    no paskutinį bajorijos vadovautą sukilimą, kuriuo siekta atkurti buvusią
+    Lenkijos ir Lietuvos valstybę. Tuo metu carizmas pradėjo jau anksčiau
+    paskelbtą valstiečių paleidimo iš baudžiavinės priklausomybės procesą.
+    Valstiečiai pavirto sąlyginai laisvais žmonėmis, nuosavybės teisę į dirba-
+    mą žemę įgijusiu žemiausiu, bet savarankišku valstiečių žemdirbių luo-
+    mu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+- c-009
+  santrauka: 'Todėl sukilėlių būriuose, kuriems vadovavo vietiniai smulkiosios bajorijos atstovai, buvo daug valstiečių, kai kuriuose net dauguma, tad atsišaukimuose lenkų ir lietuvių (žemaičių) kalbomis keltas ir reikalavimas paleisti valstiečius iš baudžiavos.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuvoje sukilimas
+    prasidėjo spontaniškai 1831 m. pavasariop Žemaitijoje dėl valdžios pa-
+    skelbto rekrutų ėmimo. Todėl sukilėlių būriuose, kuriems vadovavo vieti-
+    niai smulkiosios bajorijos atstovai, buvo daug valstiečių, kai kuriuose net
+    dauguma, tad atsišaukimuose lenkų ir lietuvių (žemaičių) kalbomis keltas
+    ir reikalavimas paleisti valstiečius iš baudžiavos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
+- c-010
+  santrauka: 'Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą Aleksandrą II rengtis baudžiavos panaikinimui, sušvelninta tautinė politika.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą
+    Aleksandrą II rengtis baudžiavos panaikinimui, sušvelninta tautinė poli-
+    tika. Naujasis imperatorius 1861 m. pavasarį pasirašė manifestą, paleidu-
+    sį privačių dvarų valstiečius iš baudžiavinės priklausomybės, pasirašyti
+    teisės aktai, reglamentavę valstiečių tapsmo žemės savininkais tvarką, nu-
+    matyta privaloma valstiečiams skiriamo žemės sklypo išpirka. Valstiečių
+    reformą numatyta pradėti po dvejų metų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
 
 ## Šaltiniai ir įrodymai
 
@@ -207,3 +277,32 @@ Terminas vartojamas ilgame istoriniame pjūvyje: nuo 1447 m. privilegijos, padė
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/teisinis-terminas]]
+
+### Susiję objektai
+- [[objektai/vietos/Krymas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/zodynas/bajorija]]
+- [[objektai/ivykiai/1863 m. sukilimo paskelbimas Lenkijoje ir Lietuvoje (1863 m. pradžioje)]]
+- [[objektai/paprociai/Bajorijos seimelių rinkimosi ir atstovų rinkimo praktika]]
+- [[objektai/zodynas/Baudžiavinė santvarka]]
+- [[objektai/ivykiai/Baudžiavos panaikinimas Rusijos imperijoje (1861 m.)]]
+- [[objektai/grupes/Lietuvos gubernijų seimeliai]]
+- [[objektai/vietos/Merkinės dvaras]]
+- [[objektai/autoriai/Motiejus Valančius]]
+- [[objektai/grupes/Raudonieji]]
+- [[objektai/vietos/Turgeliai]]
+- [[objektai/zodynas/baudžiava baudžiavinė priklausomybė]]
+- [[objektai/zodynas/marksistinė periodizacija komunistinės istoriografijos nomenklatūra]]
+- [[objektai/zodynas/taikos suvažiavimai]]
+- [[objektai/zodynas/taikos tarpininkai taikos teisėjai]]
+- [[objektai/zodynas/ukazai]]
+- [[objektai/zodynas/valsčių viršaičiai staršinos]]
+- [[objektai/zodynas/činšininkai]]
+- [[objektai/zodynas/činšininkas]]
+- [[objektai/posakiai/„Viso svieto mokslus lietuviam paduosiu...“]]
+- [[objektai/paprociai/Baudžiauninkų tikėjimo priklausomybė nuo pono paskirto kunigo]]
+- [[objektai/zodynas/servitutas]]

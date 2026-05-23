@@ -88,4 +88,17 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Islandija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Norvegija]]
+- [[objektai/vietos/Prūsija]]
+- [[objektai/zodynas/apsikarūnavimas]]
+- [[objektai/zodynas/christianizacija]]
+- [[objektai/vietos/Švedija]]
+- [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto]]
+- [[objektai/zodynas/chiefdom vadystė|chiefdom / vadystė]]
+- [[objektai/zodynas/konversija christianizacija europeizacija]]
+- [[objektai/posakiai/„ir mes turime vieną Dievą…“]]
 - [[objektai/ivykiai/Brunono Bonifacijaus misija ir Netimero krikštas (1009 m.)]]
+- [[objektai/paprociai/Milenaristinės krikščioniškos misijos ir valdovų krikštai]]

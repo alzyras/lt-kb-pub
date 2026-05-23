@@ -61,6 +61,10 @@ tags:
   teiginys: 'Dykra apėmė ne tik pietvakarių ir vakarų, bet ir šiaurinį Žemaičių ir Aukštaičių pasienio šoną, nusitęsdama iki Biržų ir Rokiškio aps.'
   pagrindžia:
     - c-006
+- t-007
+  teiginys: 'Tai buvo Lietuvos, vakarinių lietuvių-žemaičių, dalyvaujant aukštaičiams, padedant nuo priešų atsimetusiems kuršiams, pergalė.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -151,3 +155,37 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Tai buvo Lietuvos, vakarinių lietuvių-žemaičių, dalyvaujant aukštaičiams, padedant nuo priešų atsimetusiems kuršiams, pergalė.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Tai buvo Lietuvos, vakarinių lie-
+    tuvių-žemaičių, dalyvaujant aukš-
+    taičiams, padedant nuo priešų
+    atsimetusiems kuršiams, pergalė.
+    Įtikimiausia, kad lietuvių kariuome-
+    nei Durbės mūšyje bus vadovavęs
+    Treniota Vykintaitis, Mindaugo sesers
+
+    ## Puslapis 29
+
+    sūnus, žymus to laikotarpio Mindaugo
+
+    karo vadas (kronikininko P.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Durbė]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/vietos/Aukštaičių žemė]]
+- [[objektai/ivykiai/Gedimino taikos sutartis su Livonija (1322 m.)]]
+- [[objektai/vietos/Trakų vaivadija]]
+- [[objektai/vietos/Žemaičių seniūnija]]

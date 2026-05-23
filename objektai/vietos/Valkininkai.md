@@ -56,9 +56,13 @@ Sapiegoms visus jėga tramdant, vis dėlto 1700 m. visam krašte atsirado daugyb
   pagrindžia:
     - c-004
 - t-005
-  teiginys: '1700 m. lapkričio 19-24 d. Valkininkuose vyko respublikonų bajorijos „Toliau - totoriai, kuriuos nugalėjęs Lietuvos didysis kunigaikštis parsivedė daugybę šeimų ir vėliau jas įkurdino po visą Lietuvą kraštui apgyvendinti.'
+  teiginys: '1700 m. lapkričio 19-24 d. Valkininkuose vyko respublikonų bajorijos suvažiavimas, priėmęs Valkininkų nutarimą.'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: 'Višniaveckis jį nusivežė į Valkininkus, kur kitą rytą įsiutusi bajorų minia, nepaisydama Višniaveckio pasipriešinimo, jį kardais sukapojo (kartu buvo sukapoti dar du belaisviai).'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -130,7 +134,7 @@ Sapiegoms visus jėga tramdant, vis dėlto 1700 m. visam krašte atsirado daugyb
   pagrindžia:
     - t-004
 - c-005
-  santrauka: '1700 m. lapkričio 19-24 d. Valkininkuose vyko respublikonų bajorijos „Toliau - totoriai, kuriuos nugalėjęs Lietuvos didysis kunigaikštis parsivedė daugybę šeimų ir vėliau jas įkurdino po visą Lietuvą kraštui apgyvendinti.'
+  santrauka: '1700 m. lapkričio 19-24 d. Valkininkuose vyko respublikonų bajorijos suvažiavimas, priėmęs Valkininkų nutarimą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1700 m. lapkričio 19-24 d. Valki-
@@ -155,3 +159,22 @@ Sapiegoms visus jėga tramdant, vis dėlto 1700 m. visam krašte atsirado daugyb
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Višniaveckis jį nusivežė į Valkininkus, kur kitą rytą įsiutusi bajorų minia, nepaisydama Višniaveckio pasipriešinimo, jį kardais sukapojo (kartu buvo sukapoti dar du belaisviai).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Višniaveckis jį nu-
+    sivežė į Valkininkus, kur kitą rytą įsiutusi bajorų minia, nepai-
+    sydama Višniaveckio pasipriešinimo, jį kardais sukapojo (kartu
+    buvo sukapoti dar du belaisviai).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Rytas]]

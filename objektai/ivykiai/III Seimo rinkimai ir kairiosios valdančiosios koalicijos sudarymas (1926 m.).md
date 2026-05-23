@@ -6,15 +6,18 @@ variantai: ["1926 m. gegužės III Seimo rinkimai", "kairės valdžios suformavi
 aliases: ["1926 m. gegužės III Seimo rinkimai", "kairės valdžios suformavimas"]
 saltiniai:
   - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-bukle: paskelbta
-laikotarpis: "1926 m. gegužės 8–9 d.; 1926 m. birželis"
-datos: ["1926 m. gegužės 8–9 d.", "1926 m. birželis"]
-periodas: siuolaikine_istorija
-periodo_grupes: [tarpukaris]
+datos:
+  - '1926 m.'
+periodas: 'siuolaikine_istorija'
+periodo_grupes:
+  - '[tarpukaris]'
+  - 'modernioji Lietuva'
 amziai:
   - 'XX'
 date_start: '1926'
-date_end: '1926'
+date_end: ''
+bukle: paskelbta
+laikotarpis: "1926 m. gegužės 8–9 d.; 1926 m. birželis"
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
@@ -64,6 +67,10 @@ Nenurodyta
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-011
+  teiginys: 'O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 m. gegužės 8–9 d. rinkimai į 85 vietų III Seimą atnešė sensaciją – LKDP blokas pralaimėjo.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -85,3 +92,26 @@ Nenurodyta
     - t-008
     - t-009
     - t-010
+- c-002
+  santrauka: 'O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 m. gegužės 8–9 d. rinkimai į 85 vietų III Seimą atnešė sensaciją – LKDP blokas pralaimėjo.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    O čia dar po kie-
+    toko trejų metų krikščionių demokratų bloko valdymo 1926 m. gegužės
+    8–9 d. rinkimai į 85 vietų III Seimą atnešė sensaciją – LKDP blokas pra-
+    laimėjo. Naują valdančiąją koaliciją birželį pirmą kartą suformavo kairė –
+    valstiečiai liaudininkai ir socialdemokratai, prie jų prisidėjo septyni tau-
+    tinių mažumų atstovai Seime. Prezidentu išrinktas valstiečių liaudininkų
+    lyderis Kazys Grinius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Kazys Grinius]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

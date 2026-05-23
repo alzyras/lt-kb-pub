@@ -64,6 +64,18 @@ Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pa
   teiginys: 'Nuo pasirašymo vietos ir sutartis vadinama Salyno sutartim. Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be to, buvo palikta šiaurinė Suvalkų krašto dalis (anapus linijos, einančios nuo Salyno tiesiog į Šešupę, ir kairysis Šešupės.'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: 'Salynas, vokiškai vadintas Sallinwerder, turėjo būti viena iš Nemuno salų tarp Nevėžio žiočių ir Kulautuvos.'
+  pagrindžia:
+    - c-006
+- t-007
+  teiginys: '12 d. Salyne Vytauto ir kryžiuočių ma­ gistro suvažiavimas^1 ).'
+  pagrindžia:
+    - c-007
+- t-008
+  teiginys: 'Tų pačių metų pabaigoj Salyne Vytautą jo bajorai paskelbė Lietuvos ir Rusijos žemių karalium. Po dvylikos metų šis klausimas vėl iš­ kyla aikštėn ir, būtent tuo metu, kai Vytautas lankėsi Kėzmar­ ke, pas karalių Zigmantą.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -147,3 +159,75 @@ Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pa
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Salynas, vokiškai vadintas Sallinwerder, turėjo būti viena iš Nemuno salų tarp Nevėžio žiočių ir Kulautuvos.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    **
+    (^5) **« Salynas » (vok. « Sallinwerder ») turėjo būti viena iš Nemuno salų
+    tarp Nevėžio žiočių ir Kulautuvos. Plg. SRP, III, 223-224 p.; Z. Ivinskis :**
+    **_Salyno taika,_** **LE, t. 26, 351-353 p.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: '12 d. Salyne Vytauto ir kryžiuočių ma­ gistro suvažiavimas^1 ).'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tuo tikslu, t. y. gauti iš Ordino pagalbos ir įvyk­
+    sta 1398 m. spalių mėn. 12 d. Salyne Vytauto ir kryžiuočių ma­
+    gistro suvažiavimas^1 ).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: 'Tų pačių metų pabaigoj Salyne Vytautą jo bajorai paskelbė Lietuvos ir Rusijos žemių karalium. Po dvylikos metų šis klausimas vėl iš­ kyla aikštėn ir, būtent tuo metu, kai Vytautas lankėsi Kėzmar­ ke, pas karalių Zigmantą.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tų pačių
+    metų pabaigoj Salyne Vytautą jo bajorai paskelbė Lietuvos ir
+    Rusijos žemių karalium. Po dvylikos metų šis klausimas vėl iš­
+    kyla aikštėn ir, būtent tuo metu, kai Vytautas lankėsi Kėzmar­
+    ke, pas karalių Zigmantą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Salyne]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/vietos/Akmenų Brasta]]
+- [[objektai/vietos/Apaščia]]
+- [[objektai/vietos/Grajevas]]
+- [[objektai/vietos/Kaunas]]
+- [[objektai/asmenys/Klemensas iš Moskoževo]]
+- [[objektai/vietos/Mūša]]
+- [[objektai/vietos/Nemunas]]
+- [[objektai/asmenys/Ona Vytautienė]]
+- [[objektai/vietos/Salyno sala]]
+- [[objektai/vietos/Smardonė]]
+- [[objektai/vietos/Sūduva]]
+- [[objektai/vietos/Točilovo ežerai]]
+- [[objektai/vietos/Točilovo ežeras]]
+- [[objektai/vietos/Vaišvilčiai]]
+- [[objektai/posakiai/supremus dux]]
+- [[objektai/zodynas/unija]]
+- [[objektai/vietos/Šešupė]]
+- [[objektai/ivykiai/Salyno sutartis]]

@@ -123,3 +123,8 @@ Augustas Ludvikas Schlözeris minimas kaip vokiečių istorikas, 1785 m. paskelb
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Europa]]
+- [[objektai/vietos/Lietuva]]

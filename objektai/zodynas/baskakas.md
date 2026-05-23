@@ -147,5 +147,14 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
 - [[temos/istorinė-sąvoka]]
 
 ### Susiję objektai
+- [[objektai/grupes/Auksinė Orda]]
+- [[objektai/grupes/Karijotaičiai]]
+- [[objektai/vietos/Kijevas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Podolė]]
+- [[objektai/zodynas/tėvonys]]
 - [[objektai/grupes/Aukso orda]]
 - [[objektai/paprociai/Podolės žemės duoklės davimas Ordos baskakams per paskirtus atamanus]]
+- [[objektai/zodynas/atamanas]]
+- [[objektai/zodynas/vietininkas]]

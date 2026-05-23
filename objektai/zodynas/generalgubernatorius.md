@@ -6,6 +6,15 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1861 m.'
+periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
+periodo_grupes:
+  - 'naujieji laikai'
+amziai:
+  - 'XIX'
+date_start: '1861'
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - kraštas
@@ -24,6 +33,14 @@ Jį valdė Vilniaus generalgubernatorius.
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Imperijos sostinių ir pakraščių regionuose tarp centro valdžios ir gubernijų dar veikė tarpinė grandis – generalgubernatoriaus institucija.'
+  pagrindžia:
+    - c-002
+- t-003
+  teiginys: 'Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgaliojimus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -42,7 +59,58 @@ Jį valdė Vilniaus generalgubernatorius.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Imperijos sostinių ir pakraščių regionuose tarp centro valdžios ir gubernijų dar veikė tarpinė grandis – generalgubernatoriaus institucija.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Imperijos sos-
+    tinių ir pakraščių regionuose tarp centro valdžios ir gubernijų dar veikė
+    tarpinė grandis – generalgubernatoriaus institucija. Caro skiriamas gene-
+    ralgubernatorius kontroliavo kelių gubernijų administraciją. Jam pavaldi
+    buvo ir šiose gubernijose dislokuota kariuomenė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgaliojimus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Anglijai ir Prancūzijai apsiribojus tik diplomatinėmis notomis, ragi-
+    nančiomis Rusiją vengti didesnio kraujo praliejimo, jos vyriausybė veikė
+    ryžtingai. Vilniaus generalgubernatoriumi paskirtas Michailas Muravjo-
+    vas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgalioji-
+    mus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių. Jis gudriai
+    išmušė iš sukilimo vadovybės valstietišką kortą – pasiekė, kad valstiečių
+    reforma Lietuvoje būtų pakoreguota jiems palankesne kryptimi ir imta
+    vykdyti be jokio derinimo su dvarininkais, kaip buvo numatyta 1861 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Rusijos šiaurės vakarų kraštas]]
+- [[objektai/vietos/Anglija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Prancūzija]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/vietos/Baltvyžių girios]]
+- [[objektai/ivykiai/Blaivybės brolijų ir susibūrimų uždraudimas (1863 m.)]]
+- [[objektai/paprociai/Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m]]
+- [[objektai/vietos/Gardino gubernija]]
+- [[objektai/asmenys/Ivanas Kornilovas]]
+- [[objektai/asmenys/Konstantinas Kalinauskas]]
+- [[objektai/asmenys/Michailas Muravjovas]]
+- [[objektai/vietos/Skapiškis]]
+- [[objektai/asmenys/T. Dalevskis]]
+- [[objektai/vietos/Vilniaus gubernija]]
+- [[objektai/zodynas/gubernija]]
+- [[objektai/zodynas/gubernija apskritis (ujezd)]]

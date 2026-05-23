@@ -10,18 +10,25 @@ aliases: []
 saltiniai:
   - [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 laikotarpis: Lietuvos ir Lenkijos santykių istorija
-datos:
-  - 1499 m.
-  - 1501 m.
-  - 1569 m.
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1499 m.'
+  - '1501 m.'
+  - '1569 m.'
+  - '1572 m.'
+  - '1918 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+  - 'modernioji Lietuva'
+amziai:
+  - 'XV'
+  - 'XVI'
+  - 'XX'
+date_start: '1499'
+date_end: '1918'
 patikimumas: aukštas
 tags: []
 ---
@@ -63,6 +70,26 @@ Terminas vartojamas aptariant Lietuvos ir Lenkijos santykių formą nuo Melniko 
     - c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-008
+  teiginys: 'Lietuvių pareigūnus įtraukus į Lenkijos valstybės institucijas, Lietuva darėsi provincija, personalinės unijos nulemta valstybių sąveika naikino Lietuvos valstybingumą.'
+  pagrindžia:
+    - c-005
+- t-009
+  teiginys: 'Su nedidelėmis išimtimis Lietuva, valdyta tų pačių valdovų (personalinė unija) kaip ir Lenkija, nors valstybės buvo atskiros.'
+  pagrindžia:
+    - c-006
+- t-010
+  teiginys: 'Konstitucinė monarchija taip pat liko darbotvarkėje, nes Taryba nervingai tąsėsi su karine administracija ir Berlynu, kur dėlioti planai sujungti Lietuvą personaline unija su Saksonija arba Prūsija.'
+  pagrindžia:
+    - c-007
+- t-011
+  teiginys: 'Abidvi pusės sutiko turėti bendrą valdovą; jos skyrėsi tik dėl formalumų, iš kurių turėjo išeiti, ar jos liks tik personalinėje unijoje ar pereis į realinę.'
+  pagrindžia:
+    - c-008
+- t-012
+  teiginys: 'Savotiškos personalinės unijos reikalavo lietuviai.'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -137,6 +164,86 @@ Terminas vartojamas aptariant Lietuvos ir Lenkijos santykių formą nuo Melniko 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-007
+- c-005
+  santrauka: 'Lietuvių pareigūnus įtraukus į Lenkijos valstybės institucijas, Lietuva darėsi provincija, personalinės unijos nulemta valstybių sąveika naikino Lietuvos valstybingumą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuvių pareigūnus įtraukus į Lenkijos
+    valstybės institucijas, Lietuva darėsi provincija, personalinės unijos nu-
+    lemta valstybių sąveika naikino Lietuvos valstybingumą.
+    Tokią Lietuvai nepalankią sutartį vertė sudaryti ypač įnirtingi vokie-
+    čių puolimai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-006
+  santrauka: 'Su nedidelėmis išimtimis Lietuva, valdyta tų pačių valdovų (personalinė unija) kaip ir Lenkija, nors valstybės buvo atskiros.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Epochos pobūdį lėmė Lietuvos suartėjimas su Lenkija. Su nedidelėmis
+    išimtimis Lietuva, valdyta tų pačių valdovų (personalinė unija) kaip ir
+    Lenkija, nors valstybės buvo atskiros. Lenkijos ir Lietuvos sostuose sė-
+    dėjo lietuviškos kilmės Jogailaičių dinastija (iki 1572 m.), XV a. pabaigo-
+    je–XVI a. pradžioje užėmusi taip pat Čekijos ir Vengrijos sostus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-007
+  santrauka: 'Konstitucinė monarchija taip pat liko darbotvarkėje, nes Taryba nervingai tąsėsi su karine administracija ir Berlynu, kur dėlioti planai sujungti Lietuvą personaline unija su Saksonija arba Prūsija.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Konstitucinė monarchija taip pat liko darbotvarkėje, nes Taryba ner-
+    vingai tąsėsi su karine administracija ir Berlynu, kur dėlioti planai su-
+    jungti Lietuvą personaline unija su Saksonija arba Prūsija. Lietuvos Ta-
+    rybos konservatoriai ir monarchistai 1918 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+- c-008
+  santrauka: 'Abidvi pusės sutiko turėti bendrą valdovą; jos skyrėsi tik dėl formalumų, iš kurių turėjo išeiti, ar jos liks tik personalinėje unijoje ar pereis į realinę.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Abidvi
+    pusės sutiko turėti bendrą valdovą; jos skyrėsi tik dėl forma-
+    lumų, iš kurių turėjo išeiti, ar jos liks tik personalinėje unijoje
+    ar pereis į realinę. Savotiškos personalinės unijos reikalavo lie-
+    tuviai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+- c-009
+  santrauka: 'Savotiškos personalinės unijos reikalavo lietuviai.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Savotiškos personalinės unijos reikalavo lie-
+    tuviai. Būtent jie reikalavo, kad kartu renkant valdovą būtų
+    skaitomasi su dviem sostais, o lenkai reikalavo, kad būtų skai-
+    tomasi tik su vienu dviejų jungtinių valstybių sostu. Darant
+    uniją, laimėjo lenkai, tačiau gyvenime lietu-
+    viai laikėsi savo nusistatymo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
 
 ## Šaltiniai ir įrodymai
 
@@ -147,4 +254,10 @@ Terminas vartojamas aptariant Lietuvos ir Lenkijos santykių formą nuo Melniko 
 - [[temos/istorinė-sąvoka]]
 
 ### Susiję objektai
-- [[objektai/paprociai/Bendri Lietuvos ir Lenkijos seimai]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/zodynas/unija]]
+- [[objektai/grupes/Lenkijos valstybės taryba]]
+- [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
+- [[objektai/zodynas/aneksija]]
+- [[objektai/posakiai/didelis „remontas“ Krėvės unijoj]]
+- [[objektai/grupes/Lietuviai]]

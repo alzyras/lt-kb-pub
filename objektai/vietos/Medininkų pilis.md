@@ -6,15 +6,15 @@ variantai: []
 aliases: []
 saltiniai:
   - "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-bukle: juodrastis
-laikotarpis: "Vytauto laikai"
 datos: []
-periodas: "viduramziai"
+periodas: 'viduramziai'
 periodo_grupes: []
 amziai:
-  - "XV"
-date_start: ""
-date_end: ""
+  - 'XV'
+date_start: ''
+date_end: ''
+bukle: juodrastis
+laikotarpis: "Vytauto laikai"
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
@@ -51,6 +51,10 @@ Tai pilis, minima tarp Vytauto laikų mūro statinių ir jų sustiprinimo darbų
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Valdant Gediminui ar jo sūnui Algirdui buvo sukurta visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai, Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -68,6 +72,23 @@ Tai pilis, minima tarp Vytauto laikų mūro statinių ir jų sustiprinimo darbų
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Valdant Gediminui ar jo sūnui Algirdui buvo sukurta visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai, Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Valdant Gediminui ar jo sūnui Algirdui buvo sukurta
+    visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai,
+    Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys. Lietuva tapo
+    politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijung-
+    tos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje
+    buvę Voluinė ir Haličas, Kijevas, Pskovas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Šaltiniai ir įrodymai
 
@@ -76,4 +97,15 @@ Tai pilis, minima tarp Vytauto laikų mūro statinių ir jų sustiprinimo darbų
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Lydos pilis]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/vietos/Gardinas]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Kijevo Rusia]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/vietos/Polockas]]
+- [[objektai/vietos/Pskovas]]
+- [[objektai/vietos/Voluinė]]
+- [[objektai/vietos/Krėvos pilis]]

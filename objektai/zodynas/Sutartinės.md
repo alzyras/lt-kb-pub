@@ -53,3 +53,10 @@ Vartojamos formos: `sutartiniais`, `sutartines`, `sutartinėmis`.
 ## Pastabos
 
 - Šis vartojimas glaudžiai susijęs su socialine dainavimo praktika, todėl kandidatas yra ant ribos tarp žodyno ir papročių.
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Viena]]
+- [[objektai/zodynas/Aukausenos|aukausenos]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

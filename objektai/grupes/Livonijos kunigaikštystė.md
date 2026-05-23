@@ -78,3 +78,17 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Krymas]]
+- [[objektai/vietos/Kuršas]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Liublinas]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/grupes/Livonijos konfederacija]]
+- [[objektai/grupes/Maskvėnai]]
+- [[objektai/zodynas/konfederacija]]
+- [[objektai/zodynas/unija]]
+- [[objektai/grupes/Kuršo kunigaikštystė]]

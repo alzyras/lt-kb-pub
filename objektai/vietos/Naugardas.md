@@ -69,6 +69,14 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
     - c-006
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-007
+  teiginys: 'Atkeliavo ir Vytauto giminaičiai, Mo­ zūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­ niaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­ riaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­ niai^2 ).'
+  pagrindžia:
+    - c-007
+- t-008
+  teiginys: 'Naugardo ir Por­ chovo miestai, nebenorėdami kariauti, sumokėjo Vytautui 10.000 rublių kontribucijos (1428).'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -179,8 +187,81 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Atkeliavo ir Vytauto giminaičiai, Mo­ zūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­ niaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­ riaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­ niai^2 ).'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Atkeliavo ir Vytauto giminaičiai, Mo­
+    zūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­
+    niaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­
+    riaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­
+    niai^2 ). Visi svečiai dosnaus ir vaišingo šeimininko buvo nuošir­
+    džiai priimti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: 'Naugardo ir Por­ chovo miestai, nebenorėdami kariauti, sumokėjo Vytautui 10.000 rublių kontribucijos (1428).'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Naugardo ir Por­
+    chovo miestai, nebenorėdami kariauti, sumokėjo Vytautui
+    10.000 rublių kontribucijos (1428). Kontribucijos ir bausmės bu­
+    vo imamos ir nuo nepaklusnių bei atkritusių rusų kunigaikščių,
+    kurių žemės vėl būdavo užkariaujamos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Bizantija]]
 - [[objektai/vietos/Kazanė]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/vietos/Pskovas]]
+- [[objektai/zodynas/kontribucija]]
+- [[objektai/asmenys/Baltramiejus (vyskupas)]]
+- [[objektai/asmenys/Bernardas (abatas)]]
+- [[objektai/vietos/Cesys]]
+- [[objektai/vietos/D. Naugardas]]
+- [[objektai/vietos/Didysis Naugardas]]
+- [[objektai/grupes/Didžiojo Naugardo respublika]]
+- [[objektai/vietos/Dniepras]]
+- [[objektai/daiktai/Halka]]
+- [[objektai/asmenys/Jaroslavas (rusų kunigaikštis, 1234 m.)]]
+- [[objektai/asmenys/Jonas Kalita]]
+- [[objektai/asmenys/Jurgis (Danieliaus sūnus)]]
+- [[objektai/vietos/Konstancija]]
+- [[objektai/asmenys/Lengvenis]]
+- [[objektai/ivykiai/Livonijos ordino 10 metų sutarties su Pskovu sudarymas]]
+- [[objektai/ivykiai/Livonijos ordino amžinos taikos su Naugardu D. sudarymas (1421 m.)]]
+- [[objektai/grupes/Maskvos kunigaikštija]]
+- [[objektai/vietos/Možaiskas]]
+- [[objektai/asmenys/Narimantas Gediminaitis]]
+- [[objektai/grupes/Naugardo respublika]]
+- [[objektai/vietos/Okos paupiai]]
+- [[objektai/vietos/Porchovas]]
+- [[objektai/vietos/Prūsija]]
+- [[objektai/grupes/Pskovo respublika]]
+- [[objektai/ivykiai/Tautvilo nužudymas (apie 1263-1264 m.)]]
+- [[objektai/vietos/Veliuona]]
+- [[objektai/vietos/Visbis]]
+- [[objektai/vietos/Vitebskas]]
+- [[objektai/ivykiai/Vitebsko užėmimas (1392 m.)]]
+- [[objektai/ivykiai/Vytauto ir Jogailos paskyrimas popiežiaus Martyno V vikariais Lietuvai ir Rusijai (1417 m. gegužės 13 d.)]]
+- [[objektai/daiktai/Vytauto laikų pinigėliai]]
+- [[objektai/ivykiai/Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas]]
+- [[objektai/ivykiai/Vytauto žygis į Naugardą (1428 m. vasara)]]
+- [[objektai/ivykiai/Vytauto žygis į Pskovą ir Pskovo taika (1426 m.)]]
+- [[objektai/posakiai/bedieviškąją Lietuvą]]
+- [[objektai/zodynas/vikariatas]]
+- [[objektai/vietos/Desna]]
+- [[objektai/vietos/Moldavija]]

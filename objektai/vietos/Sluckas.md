@@ -7,15 +7,18 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
+  - '1507 m.'
   - '1936 m.'
   - '2026 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
+  - 'LDK'
   - 'modernioji Lietuva'
 amziai:
+  - 'XVI'
   - 'XX'
   - 'XXI'
-date_start: '1936'
+date_start: '1507'
 date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
@@ -63,6 +66,10 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
   teiginys: 'Ties Lojevu jie persikėlė į dešinįjį Dniepro krantą ir paspartinę žygio tempą pasileido tiesiai vakarų kryptimi Mozyriaus ir Slucko link.'
   pagrindžia:
     - c-007
+- t-008
+  teiginys: 'Protestantų mokyklos buvo įkurtos Vilniuje, Brastoje, Nesvyžiuje, Semetyčiuose, Šiluvoje, Biržuose, Kėdainiuose, Slucke, o pradžios mokyklų buvo beveik kiekvienoj jų parapijoj.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -179,3 +186,36 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-008
+  santrauka: 'Protestantų mokyklos buvo įkurtos Vilniuje, Brastoje, Nesvyžiuje, Semetyčiuose, Šiluvoje, Biržuose, Kėdainiuose, Slucke, o pradžios mokyklų buvo beveik kiekvienoj jų parapijoj.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Protestantų mokyklos buvo įkurtos Vilniuje, Brastoje, Nesvy-
+    žiuje, Semetyčiuose, Šiluvoje, Biržuose, Kėdainiuose, Slucke, o pra-
+    džios mokyklų buvo beveik kiekvienoj jų parapijoj. Iš visų
+    šių mokyklų iš pradžių žymiausioji buvo vilniškė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Bobruiskas]]
+- [[objektai/vietos/Druckas]]
+- [[objektai/vietos/Gardinas]]
+- [[objektai/vietos/Jelgava]]
+- [[objektai/ivykiai/Krymo totorių įsiveržimas į Lietuvą (1506 m.)]]
+- [[objektai/vietos/Lauksodis]]
+- [[objektai/vietos/Lojevas]]
+- [[objektai/vietos/Mozyrius]]
+- [[objektai/grupes/Nesvyžiaus Radvilos]]
+- [[objektai/vietos/Pašiaušė]]
+- [[objektai/grupes/Slucko kunigaikščiai]]
+- [[objektai/vietos/Smolenskas]]
+- [[objektai/vietos/Vitebskas]]
+- [[objektai/vietos/Žodiškiai]]
+- [[objektai/vietos/Biržai]]

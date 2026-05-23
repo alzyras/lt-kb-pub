@@ -151,5 +151,15 @@ Nenurodyta
 - [[temos/aktas]]
 
 ### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/vietos/Gardinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Liublinas]]
+- [[objektai/grupes/Liublino seimas]]
+- [[objektai/vietos/Varšuva]]
+- [[objektai/zodynas/maršalka]]
+- [[objektai/zodynas/unija]]
 - [[objektai/ivykiai/Seimų vietos įstatymo pakeitimas (1673 m.)]]

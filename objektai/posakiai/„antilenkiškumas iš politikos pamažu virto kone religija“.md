@@ -43,3 +43,11 @@ Tebetvyranti įjungimo į Lenkiją grėsmė Lietuvos valstybei sukūrė apsuptie
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/ivykiai/Vilniaus užėmimas (1655 m. rugpjūčio 7 d.)]]
+- [[objektai/vietos/Vilnius]]

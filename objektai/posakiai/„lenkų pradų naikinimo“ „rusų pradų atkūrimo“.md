@@ -67,4 +67,10 @@ Juk separatizmas tarpo pirmiausia vietos bajoriškoje visuomenėje, laikiusioje 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/zodynas/separatizmas]]
+- [[objektai/zodynas/pradai]]
+- [[objektai/zodynas/„lenkų pradai“ „rusų pradai“]]
 - [[objektai/posakiai/„lenkų pradų naikinimo“ „istorinio pirmumo teisę“ „rusų pradų atkūrimo“]]

@@ -61,3 +61,8 @@ Bretkūno postilė. Jas rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/protestantizmas]]
+- [[objektai/vietos/Didžioji Lietuva]]

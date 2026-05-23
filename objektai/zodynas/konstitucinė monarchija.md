@@ -40,3 +40,11 @@ Konstitucinė monarchija taip pat liko darbotvarkėje, nes Taryba nervingai tąs
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Prūsija]]
+- [[objektai/vietos/Saksonija]]
+- [[objektai/zodynas/unija]]
+- [[objektai/vietos/Berlynas]]

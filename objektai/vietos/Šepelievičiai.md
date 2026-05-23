@@ -55,3 +55,9 @@ Radvila, jausdamas, kad priešas didelėmis pajėgomis vis tiek tęs puolimą, �
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Šklovas]]
+- [[objektai/asmenys/J. Radvila]]

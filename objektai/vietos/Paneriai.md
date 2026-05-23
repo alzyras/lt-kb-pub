@@ -77,4 +77,5 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Vilnius]]
 - [[objektai/vietos/Vokė]]

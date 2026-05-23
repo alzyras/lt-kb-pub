@@ -14,6 +14,12 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -50,6 +56,10 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
     - c-005
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-010
+  teiginys: 'Štai, jis, ieškodamas Maskvos paramos, savo dukterį Sofiją išleidžia už Maskvos kunigaikščio sūnaus, stačiatikio, nors pats buvo kata­ likas; Jogailai atsisakius remti husitus dėl jų heretikiškumo, Vy­ 123 tautas, keršto ieškodamas, to nežiūri; savo dvare.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -116,3 +126,42 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-009
+- c-006
+  santrauka: 'Štai, jis, ieškodamas Maskvos paramos, savo dukterį Sofiją išleidžia už Maskvos kunigaikščio sūnaus, stačiatikio, nors pats buvo kata­ likas; Jogailai atsisakius remti husitus dėl jų heretikiškumo, Vy­ 123 tautas, keršto ieškodamas, to nežiūri; savo dvare.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Štai, jis,
+    ieškodamas Maskvos paramos, savo dukterį Sofiją išleidžia už
+    Maskvos kunigaikščio sūnaus, stačiatikio, nors pats buvo kata­
+    likas; Jogailai atsisakius remti husitus dėl jų heretikiškumo, Vy­
+
+
+    ```
+    123
+    ```
+    tautas, keršto ieškodamas, to nežiūri; savo dvare leidęs skelbti
+    husitizmą^1 ); katalikų tikėjimą, patekęs į rusų kraštus, kad ir
+    pagonio Jogailos verčiamas, keitęs į stačiatikių tikėjimą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Maskva]]
+- [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
+- [[objektai/daiktai/Kristaus Kančios relikvija]]
+- [[objektai/grupes/Maskvos kunigaikštija]]
+- [[objektai/grupes/Maskvos kunigaikštystė]]
+- [[objektai/asmenys/Sofija Vytautaitė]]
+- [[objektai/autoriai/Spycinas]]
+- [[objektai/asmenys/Vasilijus (Maskvos didysis kunigaikštis)]]
+- [[objektai/grupes/Vengrai]]
+- [[objektai/ivykiai/Vilniaus akademijos įkūrimas (1579 m.)]]
+- [[objektai/asmenys/Vosylius II]]
+- [[objektai/vietos/Luckas]]
+- [[objektai/asmenys/Zofija Algimantaitė]]

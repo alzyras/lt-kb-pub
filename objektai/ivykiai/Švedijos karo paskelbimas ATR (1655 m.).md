@@ -75,3 +75,12 @@ Nenurodyta
     - t-001
 
 ## Puslapis 129 PROSTKŲ MŪŠIS 1656 PRŪSIJOS KUNIGAIKŠTYSTĖ Mūšio išvakarėse 1655 m. Švedija paskelbė karą ATR ir per trumpą laiką užėmė Žemaitiją bei didelę dalį Lenkijos.
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/ivykiai/Prostkų mūšis (1656 m. spalio 8 d.)]]
+- [[objektai/vietos/Prūsija]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Švedija]]
+- [[objektai/vietos/Lenkija]]

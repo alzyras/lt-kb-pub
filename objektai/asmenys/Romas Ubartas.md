@@ -43,4 +43,5 @@ Paguodė pirmieji laimėjimai – disko metikas Romas Ubartas 1992 m. Barselonos
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Barselona]]
+- [[objektai/vietos/Lietuva]]
 - [[objektai/ivykiai/Romo Ubarto aukso medalis Barselonos olimpinėse žaidynėse (1992 m.)]]

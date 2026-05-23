@@ -67,3 +67,9 @@ Nenurodyta
 ## Pastabos
 
 - terminas šiame fragmente pavartotas tik frazėje „ant rogo“, todėl kandidatas pateikiamas kaip ritualinis laidotuvių laužas pagal kontekstą.
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kalnėnai]]
+- [[objektai/grupes/Krikščionys]]
+- [[objektai/grupes/Žemaičiai]]

@@ -174,3 +174,13 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Ryga]]
+- [[objektai/asmenys/Albertas]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/zodynas/kolonijos]]
+- [[objektai/vietos/Daugpilis]]
+- [[objektai/grupes/Livonijos ordinas]]
+- [[objektai/vietos/Padauguvio Sėla]]
+- [[objektai/vietos/Polockas]]
+- [[objektai/ivykiai/Polocko pavergimas Mindaugo laikais]]
+- [[objektai/asmenys/Traidenis]]
+- [[objektai/ivykiai/Vokiečių ordino pasikvietimas pagalbon prieš prūsus]]

@@ -81,3 +81,8 @@ Ivano Ganeckio rinktinėje buvo 5 kuopos pėstininkų, eskadronas ulonų, % eska
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Donas]]
+- [[objektai/vietos/Ukmergė]]

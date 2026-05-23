@@ -73,3 +73,15 @@ Spalio 26-27 d. lenkai apėjo kairįjį lietuvių sparną ir užėmė Giedraiči
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Ukmergė]]
+- [[objektai/vietos/Giedraičiai]]
+- [[objektai/vietos/Želva]]
+- [[objektai/vietos/Balnininkai]]
+- [[objektai/vietos/Kurkliai]]
+- [[objektai/vietos/Videniškis]]

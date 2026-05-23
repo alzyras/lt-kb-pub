@@ -73,3 +73,8 @@ Muravjovas, iš visur išstumdamas lenkų kalbą, uždraudė ją vartoti ir semi
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Žemaičiai]]

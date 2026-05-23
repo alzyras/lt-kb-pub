@@ -15,6 +15,7 @@ vaidmenys:
 dalyviai: []
 susije_irasai: []
 datos:
+  - '1523 m.'
   - '1530 m.'
   - '1550 m.'
 periodas: 'LDK laikotarpis'
@@ -22,7 +23,7 @@ periodo_grupes:
   - 'LDK'
 amziai:
   - 'XVI'
-date_start: '1530'
+date_start: '1523'
 date_end: '1550'
 patikimumas: "aukštas"
 tags:
@@ -55,6 +56,10 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
   teiginys: '(Kaip liudija Mykolas Lietuvis, jos su kitomis čia saugotomis sudegė per 1530 m. gaisrą).'
   pagrindžia:
     - c-002
+- t-009
+  teiginys: 'Mykolas Lietuvis siūlė atsisakyti rusėnų kalbos ir pereiti prie lotynų kalbos.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -92,8 +97,31 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-003
+  santrauka: 'Mykolas Lietuvis siūlė atsisakyti rusėnų kalbos ir pereiti prie lotynų kalbos.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kitas Lietuvos bajoriškosios visuomenės istorinės sąmonės siužetas for-
+    mavosi iškeliant Vytautą ir jo laikus. Jau pirmoji Lietuvos poema, tikras
+    renesansinis kūrinys, 1523 m. išleista Mikalojaus Husoviano poema „Gies-
+    mė apie stumbro išvaizdą, žiaurumą ir medžioklę“ būtent ir siekė Vytauto
+    laikus parodyti kaip idealą savo laikų visuomenei. Šias idėjas randame ir
+    Mykolo Lietuvio svarstymuose apie valstybės tvarką („Apie totorių, lietuvių
+    ir maskvėnų papročius“, apie 1550), kurioje Vytauto laikų papročių rigoriz-
+    mas ir asketizmas yra priešpriešinamas savo meto visuomenės išglebimui,
+    girtuoklystei ir netvarkai. Mykolas Lietuvis siūlo ir kalbos permainas – at-
+    sisakyti rusėnų kalbos ir pereiti prie romėnų, t. y. lotynų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/ivykiai/Oršos mūšis (1514 m. rugsėjo 8 d.)]]
-- [[objektai/ivykiai/Oršos mūšis (1514 m.)]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/paprociai/Kronikų rašymo ir lietuvių kilmės iš romėnų mito perėmimas]]
+- [[objektai/paprociai/Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose]]

@@ -70,3 +70,12 @@ Ilgainiui paliai šitą kelią atsirado vikingų sodybų: tai buvo sodybos žmon
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Bizantija]]
+- [[objektai/vietos/Dauguva]]
+- [[objektai/vietos/Dniepras]]
+- [[objektai/vietos/Europa]]
+- [[objektai/zodynas/Eistr]]
+- [[objektai/ivykiai/Vikingų įsigalėjimas aisčių kraštuose ir jų sodybų sunaikinimas]]

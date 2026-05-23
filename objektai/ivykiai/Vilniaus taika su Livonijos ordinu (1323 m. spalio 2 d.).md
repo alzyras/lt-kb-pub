@@ -10,16 +10,17 @@ variantai:
 aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-bukle: juodrastis
-laikotarpis: '1323 m. spalio 2 d.'
 datos:
-  - '1323 m. spalio 2 d.'
-periodas: ''
-periodo_grupes: []
+  - '1323 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
 amziai:
   - 'XIV'
 date_start: '1323'
-date_end: '1323'
+date_end: ''
+bukle: juodrastis
+laikotarpis: '1323 m. spalio 2 d.'
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
@@ -64,6 +65,10 @@ Nenurodyta
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-007
+  teiginys: 'Nedrįsdamas tačiau atvirai stoti prieš Gediminą, Livo­ nijos ordinas drauge su Livonijos vyskupais siuntė pasiuntinius Vilniun, kur 1323.X.2 buvo padaryta taika, kurioje buvo nustatyti ir Rygai svarbus prekybos reikalai^14.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -105,3 +110,23 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
+- c-003
+  santrauka: 'Nedrįsdamas tačiau atvirai stoti prieš Gediminą, Livo­ nijos ordinas drauge su Livonijos vyskupais siuntė pasiuntinius Vilniun, kur 1323.X.2 buvo padaryta taika, kurioje buvo nustatyti ir Rygai svarbus prekybos reikalai^14.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Nedrįsdamas tačiau atvirai stoti prieš Gediminą, Livo­
+    nijos ordinas drauge su Livonijos vyskupais siuntė pasiuntinius
+    Vilniun, kur 1323.X.2 buvo padaryta taika, kurioje buvo nustatyti
+    ir Rygai svarbus prekybos reikalai^14.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/vietos/Livonija]]

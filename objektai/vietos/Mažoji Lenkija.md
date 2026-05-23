@@ -75,3 +75,9 @@ Mažoji Lenkija šiame šaltinyje minima ir kaip pietinės Lenkijos ponų erdvė
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/ivykiai/Liublino unijos politinis įgyvendinimas Abiejų Tautų Respublikoje]]
+- [[objektai/vietos/Didžioji Lenkija]]

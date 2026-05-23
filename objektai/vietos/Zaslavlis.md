@@ -46,6 +46,10 @@ Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zasla
   teiginys: 'Vykstant Vytautui pro Polocką, Vitebską, Smolenską, Zaslavlių, Brianską, Černigovą iki Kijevo, jam lenkėsi visi tų kraštų kunigaikščiai, išreikšdami savo pa­ klusnumą.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Šios pajėgos užėmė Borisovą, Minską, Zaslavlį, Krėvą, Lydą, Vilnių, Trakus ir priartėjo prie Kauno.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -97,3 +101,54 @@ Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zasla
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Šios pajėgos užėmė Borisovą, Minską, Zaslavlį, Krėvą, Lydą, Vilnių, Trakus ir priartėjo prie Kauno.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Šios pajėgos užėmė
+    Borisovą, Minską, Zaslavlį, Krėvą, Lydą,
+    Vilnių, Trakus ir priartėjo prie Kauno.
+    Žygimantas su savo mažesne Lietuvos ka-
+    riuomene nestojo į mūšį, bet vesdamas
+    savo pajėgas ne keliais ir neprieinamomis
+    vietomis, puldinėjo Švitrigailos tiekimo da-
+    linius, padarydamas jiems daug nuostolių,
+
+    67
+
+    pi
+    6£
+    kr L
+    610
+    2 a
+    T
+    = 5
+    o 2
+    22
+    co
+    “+
+    p
+    23
+    iv
+
+    ## Puslapis 70
+
+    priversdamas priešą badauti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Trakai]]
+- [[objektai/asmenys/Švitrigaila]]
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/vietos/Polesė]]
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Lohajskas]]
+- [[objektai/vietos/Minskas]]

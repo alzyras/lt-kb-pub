@@ -59,3 +59,15 @@ Smetona stengėsi laikytis „vidurainės [A.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/A. Smetona|A. Smetona (prezidentas, XX a.)]]
+- [[objektai/asmenys/A. Voldemaras]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/vietos/SSRS]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/asmenys/Augustinas Voldemaras]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

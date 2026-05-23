@@ -8,17 +8,18 @@ aliases: []
 saltiniai:
   - [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 laikotarpis: spaudos draudimo laikotarpis
-datos:
-  - 1904 m. gegužės 7 d.
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
 vaidmenys: []
 dalyviai: []
 susije_irasai:
   - '[[Rusiškosios raidės]]'
+datos:
+  - '1904 m.'
+periodas: ''
+periodo_grupes: []
+amziai:
+  - 'XX'
+date_start: '1904'
+date_end: ''
 patikimumas: aukštas
 tags:
   - sąvoka
@@ -52,6 +53,10 @@ Graždanka minima kaip konkreti rusų raidžių vartojimo lietuviškoje spaudoje
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: 'Ji siūlė todėl panaikinti draudimą, kad jis nepasiekęs tikslo — lietuviai rusų raidžių (vad. graždankos) neprisiėmę.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -70,6 +75,21 @@ Graždanka minima kaip konkreti rusų raidžių vartojimo lietuviškoje spaudoje
   pagrindžia:
     - t-003
     - t-004
+- c-002
+  santrauka: 'Ji siūlė todėl panaikinti draudimą, kad jis nepasiekęs tikslo — lietuviai rusų raidžių (vad. graždankos) neprisiėmę.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Bet visų svarbiausias tuo reikalu palankus balsas
+    buvo Lietuvoje veikiančios Rusų administracijos. Ji siūlė todėl
+    panaikinti draudimą, kad jis nepasiekęs tikslo — lietuviai rusų
+    raidžių (vad. graždankos) neprisiėmę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Šaltiniai ir įrodymai
 
@@ -78,3 +98,5 @@ Graždanka minima kaip konkreti rusų raidžių vartojimo lietuviškoje spaudoje
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Rusiškosios raidės]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]

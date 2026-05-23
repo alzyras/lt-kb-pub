@@ -36,6 +36,10 @@ tags:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Siekdamas atkurti gynybą NemunoNeries-Nevėžio žiočių ruože, Kęstutis statydino pilį Nevėžio žiočių Vyrgalės saloje - Naująjį Kauną ir „tiltą per Nemuną“ (greičiausiai per Nemuno senvagę į salą).'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -58,8 +62,26 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Siekdamas atkurti gynybą NemunoNeries-Nevėžio žiočių ruože, Kęstutis statydino pilį Nevėžio žiočių Vyrgalės saloje - Naująjį Kauną ir „tiltą per Nemuną“ (greičiausiai per Nemuno senvagę į salą).'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Siekdamas atkurti gynybą Nemuno-
+    Neries-Nevėžio žiočių ruože, Kęstutis
+    statydino pilį Nevėžio žiočių Vyrgalės sa-
+    loje - Naująjį Kauną ir „tiltą per Nemuną“
+    (greičiausiai per Nemuno senvagę į salą).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Naujasis Kaunas]]
-- [[objektai/vietos/Nevėžio žiotys]]
+- [[objektai/vietos/Kaunas]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/vietos/Nemunas]]
+- [[objektai/vietos/Nevėžis]]

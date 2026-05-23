@@ -75,4 +75,8 @@ Pilviškių vis. Pilviškių vls.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Vilkaviškis]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/vietos/Gulbiniškiai]]
+- [[objektai/grupes/MGB]]
 - [[objektai/vietos/Vilkaviškio apskritis]]

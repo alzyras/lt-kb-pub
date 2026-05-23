@@ -109,4 +109,16 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Europa]]
+- [[objektai/asmenys/Jelena Boner]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Norvegija]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/daiktai/Sausio 13-osios gynybinės barikados]]
+- [[objektai/daiktai/Sovietų tankai ir šarvuočiai]]
+- [[objektai/daiktai/Varpai]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/daiktai/Šarvuočiai]]
 - [[objektai/ivykiai/Sausio 13-oji (1991 m.)]]

@@ -58,3 +58,11 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Motiejus]]
+- [[objektai/vietos/Smolenskas]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/unija]]
+- [[objektai/asmenys/Švitrigaila]]

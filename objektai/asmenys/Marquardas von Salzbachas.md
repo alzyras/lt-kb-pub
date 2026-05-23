@@ -95,3 +95,10 @@ Antrajam Vytauto išbėgimui pas kryžiuočius daug pasitarnavo ordino riteris M
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Gardinas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Liublinas]]
+- [[objektai/zodynas/magistras]]

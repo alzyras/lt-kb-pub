@@ -94,3 +94,7 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/religinė-praktika]]
+
+### Susiję objektai
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/grupes/Aisčiai]]

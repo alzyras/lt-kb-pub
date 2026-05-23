@@ -48,4 +48,5 @@ Slopinant ginkluotą pasipriešinimą griebtasi masinių deportacijų į Sibirą
 - [[temos/aktas]]
 
 ### Susiję objektai
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/Didieji pokario trėmimai Lietuvoje (1948–1951 m.)]]

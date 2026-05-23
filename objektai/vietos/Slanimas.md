@@ -39,6 +39,14 @@ tags:
   teiginys: 'Danieliaus sūnui Romanui Mindaugas davė valdyti Naugarduką, o Vaišvilkas gavo Slanimo, Volkovisko ir kitus atgautų sričių miestus.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Šaulys) bei užsienio lietuvių atstovai, pasisakyta už etnografinį teritorijos formavimo principą „Lithuania Propria“ ribose: Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskritys, kone visa Vilniaus gubernija (išskyrus.'
+  pagrindžia:
+    - c-003
+- t-004
+  teiginys: 'Iš Juodojoje Rusijoje užimtųjų sričių Min­ daugas pasilaikė Slanimą ir Valkaviską, o sūnui Vaišvilkui^62 atidavė Naugarduką.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -73,8 +81,60 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Šaulys) bei užsienio lietuvių atstovai, pasisakyta už etnografinį teritorijos formavimo principą „Lithuania Propria“ ribose: Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskritys, kone visa Vilniaus gubernija (išskyrus.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Šaulys) bei užsienio lietuvių atstovai, pasisakyta
+    už etnografinį teritorijos formavimo principą „Lithuania Propria“ ribose:
+    Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko
+    apskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis),
+    be to, Alūkštos apskritis Kurše iki Dauguvos upės, numatyta reikalauti
+    ir Liepojos uosto (vokiškoji Klaipėda neminėta taktiniais sumetimais).
+    Apskritai teritoriniai Lietuvos projektai keitėsi keičiantis tarptautinei si-
+    tuacijai – niekas negalėjo pasakyti, kokio dydžio valstybe ji galėtų tapti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Iš Juodojoje Rusijoje užimtųjų sričių Min­ daugas pasilaikė Slanimą ir Valkaviską, o sūnui Vaišvilkui^62 atidavė Naugarduką.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Iš Juodojoje Rusijoje užimtųjų sričių Min­
+    daugas pasilaikė Slanimą ir Valkaviską, o sūnui Vaišvilkui^62 atidavė
+    Naugarduką. Esą dėl pralieto kraujo sąžinės kamuojamas, Vaišvil­
+    kas priėmė graikišką krikštą, prie Nemuno «tarp Lietuvos ir Nau­
+    garduko » pasistatė vienuolyną ir ten atgailavo^63.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Nemunas]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Alūkšta]]
+- [[objektai/vietos/Bernas]]
+- [[objektai/vietos/Gardinas]]
+- [[objektai/vietos/Juodoji Rusija]]
+- [[objektai/asmenys/Jurgis Šaulys]]
+- [[objektai/vietos/Kauno gubernija]]
+- [[objektai/vietos/Pulavai]]
+- [[objektai/asmenys/Steponas Kairys]]
+- [[objektai/vietos/Tulčinas]]
+- [[objektai/vietos/Valkaviskas]]
+- [[objektai/ivykiai/Valkavisko perdavimas Haličo-Volinijos kunigaikščiams (1289 m.)]]
+- [[objektai/vietos/Vilniaus gubernija]]
+- [[objektai/ivykiai/Voluinės kunigaikščių žygiai prieš jotvingus ir Gardino užėmimas]]
+- [[objektai/zodynas/etnografinės ribos etnografinis principas]]
+- [[objektai/zodynas/generaliniai seimeliai]]
 - [[objektai/vietos/Naugardukas]]
-- [[objektai/vietos/Volkoviskas]]

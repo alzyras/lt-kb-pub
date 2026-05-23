@@ -84,3 +84,16 @@ Lenkų pajėgos priartėjo prie Videniškio, Gelogalių ir judėjo Balnininkų l
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Tautų Sąjungos kontrolės komisija]]
+- [[objektai/vietos/Ukmergė]]
+- [[objektai/vietos/Želva]]
+- [[objektai/grupes/J. Baranovskio brigada]]
+- [[objektai/grupes/M. Butkievičiaus kavalerijos brigada]]
+- [[objektai/vietos/Balnininkai]]
+- [[objektai/vietos/Kurkliai]]
+- [[objektai/vietos/Vidiškis]]

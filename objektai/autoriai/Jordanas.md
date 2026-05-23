@@ -24,7 +24,7 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: '275, 276 Jordanas, rašytojas 104 Josvainiai 332 Jotvinga, Jotvingija 117, 125, 137, 204, 210, 225 Jučas M.'
+  teiginys: 'Jordanas buvo rašytojas.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -32,7 +32,7 @@ tags:
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '275, 276 Jordanas, rašytojas 104 Josvainiai 332 Jotvinga, Jotvingija 117, 125, 137, 204, 210, 225 Jučas M.'
+  santrauka: 'Jordanas buvo rašytojas.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     349
@@ -57,3 +57,10 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/vietos/Jotvingija]]
+- [[objektai/asmenys/Julijona]]
+- [[objektai/vietos/Mozūrija]]

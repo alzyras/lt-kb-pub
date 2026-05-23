@@ -41,3 +41,15 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Kijevas]]
+- [[objektai/vietos/Kijevo Rusia]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Jaroslavas (rusų kunigaikštis, 1234 m.)]]
+- [[objektai/ivykiai/Kijevo Jaroslavo žygis į Lietuvą (1040 m.)]]
+- [[objektai/ivykiai/Kijevo Jaroslavo žygis į Lietuvą ir Naugarduko įkūrimas (1044 m.)]]
+- [[objektai/ivykiai/Kijevo Mstislavo žygiai į Lietuvą (1131–1132 m.)]]
+- [[objektai/grupes/Kijevo Rusia]]
+- [[objektai/posakiai/na Litvu]]

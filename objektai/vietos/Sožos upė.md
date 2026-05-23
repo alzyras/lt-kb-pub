@@ -54,4 +54,5 @@ S. Podobaila išsirinko vietą tarp Dniepro ir Sožos žiočių, apsuptą neprae
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Dniepras]]
 - [[objektai/vietos/Lojevas]]

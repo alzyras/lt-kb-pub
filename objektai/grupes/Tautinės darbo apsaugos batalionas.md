@@ -43,3 +43,9 @@ Ginkluoti partizanai nekėlė pasitikėjimo vokiečiams, todėl birželio 28-ąj
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Kaunas]]
+- [[objektai/zodynas/komendantūra]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

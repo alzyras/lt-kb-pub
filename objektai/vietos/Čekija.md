@@ -49,6 +49,10 @@ tags:
   teiginys: 'LENKAI TRUKDO VYTAUTUI VAINIKUOTIS 373 Romos kurija buvo įsitikinusi, kad tik abiejų pusbrolių sutarimas tegalės sutramdyti husitų plitimą Čekijoje^13.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'Iš pradžių Vytautas delsė, neduodamas tikro atsakymo, bet po kiek laiko sutiko rūpintis jų reikalais ir į Čekiją su kariuo­ mene nusiuntė Zigmantą Kaributą padėti husitams kovose su ciesorium Zigmantu.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -118,7 +122,71 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Iš pradžių Vytautas delsė, neduodamas tikro atsakymo, bet po kiek laiko sutiko rūpintis jų reikalais ir į Čekiją su kariuo­ mene nusiuntė Zigmantą Kaributą padėti husitams kovose su ciesorium Zigmantu.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Iš pradžių Vytautas delsė, neduodamas tikro atsakymo, bet
+    po kiek laiko sutiko rūpintis jų reikalais ir į Čekiją su kariuo­
+    mene nusiuntė Zigmantą Kaributą padėti husitams kovose su
+    ciesorium Zigmantu. Vytautas tai darė ne iš simpatijos pačiam
+    husitizmui, bet iš pykčio ant ciesoriaus (in odium Sigismundi),
+    kuris Breslavo sprendimu (142Ü) pripažino Ordinui Žemaičius ir
+    rėmė agresingus jo žygius prieš Vytautą; pats gi kovojo su če­
+    kais, kaip kandidatas į Čekijos sostą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
+
+### Susiję objektai
+- [[objektai/vietos/Breslavas]]
+- [[objektai/asmenys/Kaributas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/ciesorius]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/asmenys/Guillaume de Machaut]]
+- [[objektai/grupes/Habsburgų dinastija]]
+- [[objektai/asmenys/Henrikas von Plauenas]]
+- [[objektai/grupes/Husitai]]
+- [[objektai/ivykiai/Husitų karališko vainiko pasiūlymas Jogailai ir Vytautui bei Zigmanto Kaributo siuntimas į Čekiją]]
+- [[objektai/daiktai/Ietis]]
+- [[objektai/grupes/Jogailaičiai]]
+- [[objektai/asmenys/Jonas (Čekijos karalius)]]
+- [[objektai/asmenys/Jonas Liuksemburgietis]]
+- [[objektai/paprociai/Jėzuitiškas mokymas ir katalikybės sklaida per Vilniaus universitetą]]
+- [[objektai/asmenys/Karolis VI]]
+- [[objektai/ivykiai/Kėzmarko suvažiavimas ir santykių su husitais nutraukimas (1423 m.)]]
+- [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos]]
+- [[objektai/asmenys/Liudvikas (Vengrijos karalius)]]
+- [[objektai/asmenys/Margalis (Margirius )]]
+- [[objektai/asmenys/Martynas V (popiežius)]]
+- [[objektai/grupes/Moravai]]
+- [[objektai/autoriai/Pr. Penkauskas]]
+- [[objektai/asmenys/Prokopas]]
+- [[objektai/asmenys/Pršemyslas Otokaras II]]
+- [[objektai/vietos/Prūsija]]
+- [[objektai/asmenys/Russdorfas]]
+- [[objektai/vietos/Semba]]
+- [[objektai/vietos/Uturiai]]
+- [[objektai/asmenys/Vaclovas Čekietis]]
+- [[objektai/grupes/Vilniaus universitetas]]
+- [[objektai/ivykiai/Vilniaus universiteto įkūrimas]]
+- [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.)]]
+- [[objektai/asmenys/Vladislovas Jogailaitis]]
+- [[objektai/posakiai/in odium Sigismundi]]
+- [[objektai/grupes/Čekijos husitai]]
+- [[objektai/posakiai/„jogailaičių Europa“ „krikščionybės forpostas“]]
+- [[objektai/asmenys/Otokaras (Čekijos karalius)]]
+- [[objektai/ivykiai/Vaclovo Pragiečio sprendimas ir vienerių metų paliaubos su Ordinu (1409 m.)]]
+- [[objektai/asmenys/Vladislovas (Kazimiero sūnus)]]
+- [[objektai/zodynas/grašis]]
+- [[objektai/zodynas/rublis]]

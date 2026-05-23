@@ -50,4 +50,7 @@ Parengus abiem pusėms priimtiną tekstą, Vilniuje 1918 m. vasario 16 d. Taryba
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/grupes/Lietuvos Taryba]]
 - [[objektai/zodynas/tautų apsisprendimo teisė tautų apsisprendimo principas]]

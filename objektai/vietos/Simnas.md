@@ -9,6 +9,7 @@ saltiniai:
 datos:
   - '1936 m.'
   - '1945 m.'
+  - '1972 m.'
   - '2026 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
@@ -36,6 +37,14 @@ Seirijuose, Simne, Prienuose ir kt.
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Pirmasis jos redaktorius buvo tuomet Simne dirbęs kun. Sigitas Tamkevičius.'
+  pagrindžia:
+    - c-002
+- t-003
+  teiginys: 'Jų kūnai buvo niekinami Simne, gatvėje.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -57,7 +66,46 @@ Seirijuose, Simne, Prienuose ir kt.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Pirmasis jos redaktorius buvo tuomet Simne dirbęs kun. Sigitas Tamkevičius.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Grupė dvasininkų 1972 m. kovo 19 d. pradėjo leisti katalikišką leidinį „Lie-
+    tuvos katalikų bažnyčios kronika“. Pirmasis jos redaktorius buvo tuomet
+    Simne dirbęs kun. Sigitas Tamkevičius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Jų kūnai buvo niekinami Simne, gatvėje.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    ]“
+
+    ————— 550 i
+
+    Mūšio padariniai
+
+    Šiame mūšyje žuvo 44 partizanai. Jų kūnai
+    buvo niekinami Simne, gatvėje. Kiti parti-
+    zanai iš apsupties pasitraukė. Dalis jų rado
+    prieglobstį Žuvinto paliose.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Grenoblis]]
+- [[objektai/vietos/Kalniškės miškas]]
+- [[objektai/vietos/Krosna]]
 - [[objektai/vietos/Seminiškių miško rajonas]]
+- [[objektai/asmenys/Sigitas Tamkevičius]]

@@ -51,3 +51,9 @@ Daškevič : Političeskije zamyśli Vitovta, Kiivskije UniversitetsLIETUVOS IST
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/autoriai/E. I. Leontovičius]]
+- [[objektai/autoriai/M. F. Vladimirskij-Budanov]]

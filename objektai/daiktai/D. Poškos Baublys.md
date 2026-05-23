@@ -113,4 +113,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Bajorai]]
 - [[objektai/autoriai/D. Poška]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Žemaičiai]]

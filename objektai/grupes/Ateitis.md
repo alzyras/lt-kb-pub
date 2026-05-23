@@ -43,3 +43,17 @@ Pirmoji lietuvių moksleivių organizacija, įsteigta 1911 m., buvo „Ateitis".
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/ivykiai/B. Jelcino kreipimasis į Baltijos šalyse tarnaujančius karius po Sausio 13-osios (1991 m. sausio 14 d.)]]
+- [[objektai/zodynas/Diarchijos sistema]]
+- [[objektai/grupes/Europos Sąjunga]]
+- [[objektai/asmenys/Jaroslavas (Kijevo valdovas)]]
+- [[objektai/grupes/Kijevo Rusia]]
+- [[objektai/ivykiai/Lietuvių emigracijos tvarkymo reforma (1920–1929 m.)]]
+- [[objektai/ivykiai/Lietuvos įstojimas į ES ir NATO (2004 m.)]]
+- [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
+- [[objektai/zodynas/etnocidas]]
+- [[objektai/posakiai/„Viso svieto mokslus lietuviam paduosiu...“]]

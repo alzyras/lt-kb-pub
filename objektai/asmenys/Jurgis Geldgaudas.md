@@ -63,3 +63,9 @@ tags:
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/didikas]]
+
+### Susiję objektai
+- [[objektai/vietos/Konstancija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/grupes/Žemaičiai]]

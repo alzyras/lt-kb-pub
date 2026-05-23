@@ -55,3 +55,12 @@ Jis buvo tačiau priverstas pripažinti « Kijevo ir visos Rusios» metropolitu 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Kijevas]]
+- [[objektai/vietos/Kijevo Rusia]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Polockas]]
+- [[objektai/zodynas/metropolitas]]

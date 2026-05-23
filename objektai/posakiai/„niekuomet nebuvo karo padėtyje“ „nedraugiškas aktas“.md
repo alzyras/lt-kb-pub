@@ -73,5 +73,11 @@ Jofės prašymą – įrašyti, kad Lietuva ir Sovietų Rusija „niekuomet nebu
 - [[temos/aktas]]
 
 ### Susiję objektai
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Sovietų Rusija]]
+- [[objektai/vietos/Viena]]
 - [[objektai/asmenys/Dominykas Semaško]]
 - [[objektai/asmenys/Simonas Rozenbaumas]]

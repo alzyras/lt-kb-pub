@@ -43,4 +43,6 @@ Siekdama savo švietimo sistemą integruoti į Europą, Lietuva 1999 m. prisidė
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Europa]]
+- [[objektai/vietos/Lietuva]]
 - [[objektai/ivykiai/Lietuvos prisidėjimas prie Bolonijos deklaracijos (1999 m.)]]

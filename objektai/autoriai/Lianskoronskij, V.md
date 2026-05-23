@@ -64,3 +64,7 @@ Lianskoronskij, V.
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/žemėlapis]]
+
+### Susiję objektai
+- [[objektai/vietos/Vorskla]]
+- [[objektai/zodynas/žygis]]

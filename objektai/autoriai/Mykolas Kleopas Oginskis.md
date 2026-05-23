@@ -8,21 +8,24 @@ saltiniai:
   - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
 bukle: juodrastis
 laikotarpis: "1794 m.; 1805–1806 m. portreto kontekstas"
-datos:
-  - '1794 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVIII'
-date_start: '1794'
-date_end: ''
 vaidmenys:
   - "kompozitorius"
   - "polonezo autorius"
   - "projekto autorius"
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1794 m.'
+  - '1805 m.'
+  - '1806 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVIII'
+  - 'XIX'
+date_start: '1794'
+date_end: '1806'
 patikimumas: "aukštas"
 tags:
   - autorius
@@ -58,6 +61,10 @@ Mykolas Kleopas Oginskis vadinamas garsiojo polonezo „Atsisveikinimas su Tėvy
     - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-012
+  teiginys: 'Liko galioti Lietuvos Statutas, lenkų kalba leista savivaldos institucijose, aps- 1794 m. sukilėlis, paskutinio LDK atkūrimo projekto autorius Mykolas Kleopas Oginskis.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -115,3 +122,26 @@ Mykolas Kleopas Oginskis vadinamas garsiojo polonezo „Atsisveikinimas su Tėvy
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-011
+- c-004
+  santrauka: 'Liko galioti Lietuvos Statutas, lenkų kalba leista savivaldos institucijose, aps- 1794 m. sukilėlis, paskutinio LDK atkūrimo projekto autorius Mykolas Kleopas Oginskis.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Liko ga-
+    lioti Lietuvos Statutas, lenkų kalba
+    leista savivaldos institucijose, aps-
+    1794 m. sukilėlis, paskutinio
+    LDK atkūrimo projekto autorius
+    Mykolas Kleopas Oginskis.
+    Dail. F. X. Fabre, 1805–1806 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lietuva]]

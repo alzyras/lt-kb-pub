@@ -206,5 +206,18 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Jotvingija]]
+- [[objektai/daiktai/Klėtis]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Nemunas]]
+- [[objektai/vietos/Viena]]
+- [[objektai/vietos/Volinija]]
 - [[objektai/ivykiai/1279 m. badmetis Lietuvoje ir Jotvingijoje]]
+- [[objektai/asmenys/Albertas]]
+- [[objektai/asmenys/Albertas (Rygos vyskupas)]]
+- [[objektai/paprociai/Bičiulystė ir bitininkystė]]
+- [[objektai/asmenys/Visvaldis]]
+- [[objektai/vietos/Gardinas]]
+- [[objektai/grupes/Jotvingai]]
 - [[objektai/grupes/Lietgaliai]]

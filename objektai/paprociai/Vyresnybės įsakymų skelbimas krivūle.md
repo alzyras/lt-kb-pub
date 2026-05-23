@@ -85,3 +85,9 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/zodynas/Kūrėjų kūrėjas|kūrėjų kūrėjas]]
+- [[objektai/grupes/Žemaičiai]]

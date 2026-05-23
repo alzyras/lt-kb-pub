@@ -51,4 +51,5 @@ Jis suima savo valdžion visus Pavolgio, Juod­ marių pakraščio ir Krymo toto
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Krymas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/vietos/Pavolgis]]

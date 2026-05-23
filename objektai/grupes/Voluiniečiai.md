@@ -34,6 +34,10 @@ pietuose lenkai ir voluiniečiai, o rytuose gudai.
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Tuo būdu pirmosios tautos, su kuriomis aisčiams teko susidurti ankstyvaisiais istoriniais laikais, buvo ateiviai skandinavai ir slavai: pietuose lenkai ir voluiniečiai, o rytuose gudai.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -53,3 +57,23 @@ pietuose lenkai ir voluiniečiai, o rytuose gudai.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Tuo būdu pirmosios tautos, su kuriomis aisčiams teko susidurti ankstyvaisiais istoriniais laikais, buvo ateiviai skandinavai ir slavai: pietuose lenkai ir voluiniečiai, o rytuose gudai.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tuo būdu pirmosios tautos, su kuriomis aisčiams teko su-
+    sidurti ankstyvaisiais istoriniais laikais, buvo ateiviai skandi-
+    navai ir slavai: pietuose lenkai ir voluiniečiai, o rytuose gudai.
+    XIII amž.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Skandinavai]]

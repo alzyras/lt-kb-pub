@@ -46,4 +46,5 @@ O Sąjūdis – tautos frontas, suvienijęs plačiausius jos sluoksnius, labai �
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]

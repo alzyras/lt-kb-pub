@@ -38,7 +38,7 @@ tags:
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-004
-  teiginys: 'Filologų manymu, LDK raštinėse vyravusią raštijos kalbą reikėtų vadinti rusėnų kalba.'
+  teiginys: 'Filologai LDK raštinėse vyravusią raštijos kalbą siūlo vadinti rusėnų kalba.'
   pagrindžia:
     - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -93,7 +93,7 @@ tags:
   pagrindžia:
     - t-003
 - c-004
-  santrauka: 'Filologų manymu, LDK raštinėse vyravusią raštijos kalbą reikėtų vadinti rusėnų kalba.'
+  santrauka: 'Filologai LDK raštinėse vyravusią raštijos kalbą siūlo vadinti rusėnų kalba.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šiandien ši Lietuvos Metrikos kalba pavadinama
@@ -110,5 +110,12 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Rusėnai]]
+- [[objektai/vietos/Kijevas]]
+- [[objektai/vietos/Kijevo Rusia]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Stačiatikiai]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/metrika]]
 - [[objektai/zodynas/rusėnų kalba LDK slavų kanceliarinė kalba]]

@@ -100,3 +100,7 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/didikas]]
+
+### Susiję objektai
+- [[objektai/vietos/Radomas]]
+- [[objektai/zodynas/konfederacija]]

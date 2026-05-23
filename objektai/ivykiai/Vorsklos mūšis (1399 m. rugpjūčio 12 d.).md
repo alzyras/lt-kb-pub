@@ -151,6 +151,14 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Auksinė Orda]]
 - [[objektai/autoriai/Detmaro Liubeko]]
+- [[objektai/asmenys/Edigėjus]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Liubekas]]
+- [[objektai/vietos/Vorskla]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/ivykiai/Vorsklos mūšis]]
 - [[objektai/daiktai/Geležinėmis grandinėmis kaustyti vežimai]]
 - [[objektai/autoriai/J. Dlugošas]]

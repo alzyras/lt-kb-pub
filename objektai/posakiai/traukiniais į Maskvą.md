@@ -51,3 +51,9 @@ Raudonarmiečiai bėgo plūsdami savo vadovybę ir reikalaudami tuoj pat juos ve
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Aukštadvaris]]
+- [[objektai/vietos/Jieznas]]
+- [[objektai/grupes/Lietuviai]]

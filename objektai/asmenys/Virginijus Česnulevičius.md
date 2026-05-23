@@ -49,3 +49,8 @@ Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius, Česlov
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Aukščiausiosios Tarybos gynybos štabas]]
+- [[objektai/vietos/Aukščiausiosios Tarybos rūmai]]

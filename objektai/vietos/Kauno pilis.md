@@ -115,3 +115,13 @@ Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Kaunas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Nemunas]]
+- [[objektai/vietos/Veliuona]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/vietos/Įsrutis]]

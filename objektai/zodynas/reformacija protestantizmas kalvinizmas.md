@@ -90,4 +90,8 @@ tags:
 - [[temos/didikas]]
 
 ### Susiję objektai
+- [[objektai/vietos/Europa]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/protestantizmas]]
 - [[objektai/ivykiai/Reformacijos pradžia Lietuvoje]]

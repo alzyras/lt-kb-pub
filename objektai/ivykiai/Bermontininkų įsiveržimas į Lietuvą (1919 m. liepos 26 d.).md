@@ -133,5 +133,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kuršėnai]]
+- [[objektai/grupes/Bermontininkai]]
 - [[objektai/asmenys/Virgoličius]]
+- [[objektai/vietos/Kuršėnai]]

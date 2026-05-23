@@ -80,3 +80,9 @@ Skučas su savo vyrais ir AT gynybos štabo viršininku paskirtas Jonas Gečas s
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Aukščiausiosios Tarybos gynybos štabas]]
+- [[objektai/vietos/Aukščiausiosios Tarybos rūmai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

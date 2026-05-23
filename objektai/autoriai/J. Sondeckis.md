@@ -51,3 +51,7 @@ Sondeckis išvertė lietuviškai^141.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]

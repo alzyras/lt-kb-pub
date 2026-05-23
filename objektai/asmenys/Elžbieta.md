@@ -81,3 +81,16 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/vietos/Krokuva]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Pranciškonų ordinas]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/asmenys/Vosylius]]
+- [[objektai/asmenys/Kazimieras Jogailaitis]]
+- [[objektai/vietos/Vengrija]]

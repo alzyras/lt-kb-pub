@@ -89,5 +89,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/Kilimas]]
+- [[objektai/grupes/Žemaičiai]]
 - [[objektai/paprociai/Mergaičių, nuotakų, žmonų ir našlių galvos puošyba]]
+- [[objektai/zodynas/Kilimas|kilimas]]

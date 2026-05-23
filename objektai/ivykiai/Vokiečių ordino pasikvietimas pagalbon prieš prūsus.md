@@ -81,4 +81,9 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Padauguvis]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Kalavijuočių ordinas]]
+- [[objektai/zodynas/kunigaikščiai]]

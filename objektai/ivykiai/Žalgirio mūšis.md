@@ -134,3 +134,12 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Kryžiuočių kariuomenės vėliavos]]
+- [[objektai/daiktai/Ordino komtūrų barzdos]]
+- [[objektai/autoriai/S. Grunau]]
+- [[objektai/autoriai/Simono Grunau]]
+- [[objektai/ivykiai/Žalgirio mūšis (1410 m.)]]
+- [[objektai/ivykiai/Žemaičių krikštas]]

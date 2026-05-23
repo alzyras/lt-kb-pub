@@ -70,4 +70,10 @@ Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/tranzitas]]
+- [[objektai/grupes/Ambasadorių Konferencija]]
+- [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]
 - [[objektai/grupes/Lietuvos seimas (1924 m.)]]
+- [[objektai/grupes/Vyriausias Mažosios Lietuvos gelbėjimo komitetas]]
+- [[objektai/zodynas/etnografinės ribos etnografinis principas]]

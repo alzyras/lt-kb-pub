@@ -8,16 +8,21 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
+  - '1357 m.'
+  - '1362 m.'
+  - '1924 m.'
   - '1936 m.'
   - '1978 m.'
   - '2026 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
+  - 'LDK'
   - 'modernioji Lietuva'
 amziai:
+  - 'XIV'
   - 'XX'
   - 'XXI'
-date_start: '1936'
+date_start: '1357'
 date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
@@ -59,6 +64,38 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   teiginys: 'Kai ant Dniepro saviškiai jį atkalbinėjo dėl didelių šalčių mesti kovą su totoriais, Vytautas atrėmė: todėl ir reikia kariauti, nes jeigu nugalėsim, gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės apie mus, kad mus nugalėjo du priešai: šaltis.'
   pagrindžia:
     - c-006
+- t-007
+  teiginys: 'Jis du kartu paminėjo ir « neurus, pas kuriuos Dniepras (Borysthenes) prasideda ».'
+  pagrindžia:
+    - c-007
+- t-008
+  teiginys: 'Jau nuo 1357 m. jis ėmė įsiviešpatauti Dniepro kairėje, užimdamas ten didelius plotus Desnos baseine.'
+  pagrindžia:
+    - c-008
+- t-009
+  teiginys: 'Sumušdamas totorius 1362 m. prie Būgo prieupio Mėlynųjų Vandenų — « Sine Wody » (arti Juodosios jūros), Algirdas laimėjo ne tik plačią Podoliją, turtingą žemę palei Dniestrą, bet ir patį Dniepro žemupį, kuris tada buvo tuščias^13.'
+  pagrindžia:
+    - c-009
+- t-010
+  teiginys: 'Jo vadai pasiekė Dnieprą.'
+  pagrindžia:
+    - c-010
+- t-011
+  teiginys: 'Rugpjūčio pradžioje kariuomenė, persikėlusi per Dnieprą, jo kairiuoju krantu patraukė į Šarvinių pirštinių rekonstrukcija stepes, kur laukė prie kairiojo Dniepro intako Vorsklos, prie Ordos valdų paribių, susitiko su Aukso ordos chano Timūr-Kutluko kariuomene.'
+  pagrindžia:
+    - c-011
+- t-012
+  teiginys: 'Ties Lojevu jie persikėlė į dešinįjį Dniepro krantą ir paspartinę žygio tempą pasileido tiesiai vakarų kryptimi Mozyriaus ir Slucko link.'
+  pagrindžia:
+    - c-012
+- t-013
+  teiginys: 'Čia jis užėmė visas Dniepro ir Desnos upyno kunigaikštystes — Brianską, Trubčevską, Naugardą Sieverską, ir kt.'
+  pagrindžia:
+    - c-013
+- t-014
+  teiginys: 'Taigi Maskvos sienos jau siekė Dnieprą.'
+  pagrindžia:
+    - c-014
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -166,9 +203,204 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Jis du kartu paminėjo ir « neurus, pas kuriuos Dniepras (Borysthenes) prasideda ».'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Jis
+    du kartu paminėjo ir « neurus, pas kuriuos Dniepras (Borysthenes)
+    prasideda ».
+    Nuo rytų Pabaltijo krantų į Romos imperiją didėjanti prekyba
+    gintaro, kuris ten buvo aukštai vertinamas, atnešė vieną kitą pro­
+    švaistę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: 'Jau nuo 1357 m. jis ėmė įsiviešpatauti Dniepro kairėje, užimdamas ten didelius plotus Desnos baseine.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Jau nuo 1357
+    m. jis ėmė įsiviešpatauti Dniepro kairėje, užimdamas ten didelius
+    plotus Desnos baseine. Briansko kunigaikštiją jis pavedė sūnui
+
+    (^11) **MGH SS, 1924 (Baetgen).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: 'Sumušdamas totorius 1362 m. prie Būgo prieupio Mėlynųjų Vandenų — « Sine Wody » (arti Juodosios jūros), Algirdas laimėjo ne tik plačią Podoliją, turtingą žemę palei Dniestrą, bet ir patį Dniepro žemupį, kuris tada buvo tuščias^13.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Sumušdamas totorius 1362 m. prie Būgo prieupio Mėlynųjų
+    Vandenų — « Sine Wody » (arti Juodosios jūros), Algirdas laimėjo
+    ne tik plačią Podoliją, turtingą žemę palei Dniestrą, bet ir patį
+    Dniepro žemupį, kuris tada buvo tuščias^13. Menkai gyvenamoje
+    Podolėje rado sau gerų žemių gausi Algirdo brolio Karijoto šeima.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: 'Jo vadai pasiekė Dnieprą.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Jo vadai pasiekė Dnieprą.
+    Lietuvos valdovas Vytautas,
+    surinkęs didelę kariuomenę, pa-
+    skelbęs su ja einąs prieš Timūr-
+    Aksaką.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+- c-011
+  santrauka: 'Rugpjūčio pradžioje kariuomenė, persikėlusi per Dnieprą, jo kairiuoju krantu patraukė į Šarvinių pirštinių rekonstrukcija stepes, kur laukė prie kairiojo Dniepro intako Vorsklos, prie Ordos valdų paribių, susitiko su Aukso ordos chano Timūr-Kutluko kariuomene.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Rugpjūčio
+    pradžioje kariuomenė, persikėlusi per
+    Dnieprą, jo kairiuoju krantu patraukė į
+
+    Šarvinių
+    pirštinių
+    rekonstrukcija
+
+    stepes, kur laukė prie
+    kairiojo Dniepro intako
+    Vorsklos, prie Ordos valdų pari-
+    bių, susitiko su Aukso ordos chano
+    Timūr-Kutluko kariuomene.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+- c-012
+  santrauka: 'Ties Lojevu jie persikėlė į dešinįjį Dniepro krantą ir paspartinę žygio tempą pasileido tiesiai vakarų kryptimi Mozyriaus ir Slucko link.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Jodami stepėmis tarp
+    Lietuvos ir Maskvos valdų jie kasdien su-
+    kardavo maždaug po 25 km ir per 50 dienų
+    įveikė apie 900 km atstumą. Ties Lojevu jie
+    persikėlė į dešinįjį Dniepro krantą ir pa-
+    spartinę žygio tempą pasileido tiesiai va-
+    karų kryptimi Mozyriaus ir Slucko link.
+    Galiausiai apie liepos 20-22 d.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+- c-013
+  santrauka: 'Čia jis užėmė visas Dniepro ir Desnos upyno kunigaikštystes — Brianską, Trubčevską, Naugardą Sieverską, ir kt.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Čia jis užėmė visas Dniepro ir Desnos
+    upyno kunigaikštystes — Brianską, Trubčevską, Nau-
+    gardą Sieverską, ir kt. Visos tos kunigaikštystės buvo
+    atiduotos valdyti Algirdo sūnums ar brolėnams.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+- c-014
+  santrauka: 'Taigi Maskvos sienos jau siekė Dnieprą.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Sta-
+    rodubas ir Okos paupiai. Taigi Maskvos sienos jau siekė Dniep-
+    rą. Abi pusės pasižadėjo neliesti viena antrai pripažintų že-
+    mių ir laisvai praleisti per savo žemes kitos valstybės pasiun-
+    tinius ir pirklius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Desna]]
 - [[objektai/vietos/Naugardas Sieverskas]]
-- [[objektai/vietos/Černigovas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/vietos/Naugardas]]
+- [[objektai/vietos/Viena]]
+- [[objektai/autoriai/A. Kočubinskij]]
+- [[objektai/daiktai/Akmeniniai kovos kirviai]]
+- [[objektai/vietos/Aukštutinė Dauguva]]
+- [[objektai/vietos/Baltoji pakrantė]]
+- [[objektai/vietos/Braginas]]
+- [[objektai/vietos/Cerkasai]]
+- [[objektai/vietos/Dniepro žemupys]]
+- [[objektai/vietos/Dniepro žiotys]]
+- [[objektai/vietos/Dorpatas]]
+- [[objektai/vietos/Drahočynas]]
+- [[objektai/asmenys/Ediga]]
+- [[objektai/zodynas/Eistr]]
+- [[objektai/vietos/Gudijos plotai]]
+- [[objektai/vietos/Juodoji jūra]]
+- [[objektai/vietos/Kanevas]]
+- [[objektai/grupes/Karaimai]]
+- [[objektai/vietos/Krokuva]]
+- [[objektai/grupes/Krymo chanatas]]
+- [[objektai/ivykiai/Krymo totorių įsiveržimas į Lietuvą (1506 m.)]]
+- [[objektai/grupes/Liuksemburgiečių dinastija]]
+- [[objektai/vietos/Lojevas]]
+- [[objektai/autoriai/M. Strijkovskis]]
+- [[objektai/autoriai/M. Vasmeris]]
+- [[objektai/zodynas/Mahometoniškas tikėjimas]]
+- [[objektai/asmenys/Markvardas Zalzbachas]]
+- [[objektai/vietos/Mozyrius]]
+- [[objektai/vietos/Okos baseinai]]
+- [[objektai/vietos/Pripetė]]
+- [[objektai/vietos/Smolenskas]]
+- [[objektai/autoriai/Sobolevskij]]
+- [[objektai/vietos/Sožos upė]]
+- [[objektai/vietos/Tavanė]]
+- [[objektai/grupes/Tochtamišo totoriai]]
+- [[objektai/posakiai/Todėl ir reikia kariauti, nes jeigu nugalėsim, gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės apie mus, kad mus nugalėjo du]]
+- [[objektai/grupes/Valachai]]
+- [[objektai/grupes/Variagai (normanai)]]
+- [[objektai/grupes/Vikingai]]
+- [[objektai/grupes/Vokiečių imperija]]
+- [[objektai/vietos/Volynija]]
+- [[objektai/ivykiai/Vorsklos mūšis]]
+- [[objektai/ivykiai/Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.)]]
+- [[objektai/asmenys/Zigmantas Herberšteinas]]
+- [[objektai/posakiai/apsuptą nusivaryti iki pat Maskvos kaip galvijus]]
+- [[objektai/posakiai/du priešai, šaltis ir totoriai]]
+- [[objektai/posakiai/jam patinkąs mažiau iškalbingas, bet užtatai tiesakalbis.]]
+- [[objektai/posakiai/jam patinkąs mažiau iškalbingas, bet užtatai tiesakalbis|jam patinkąs mažiau iškalbingas, bet užtatai tiesakalbis.]]
+- [[objektai/zodynas/variagų (normanų) laikotarpis]]
+- [[objektai/posakiai/vartais į Rusiją]]
+- [[objektai/daiktai/Šarvinių pirštinių, žasto, dilbio, kelio ir blauzdos apsaugos]]
+- [[objektai/daiktai/Šarvinės pirštinės]]
+- [[objektai/posakiai/„Todėl ir reikia kariauti... šaltis ir totoriai.“]]
+- [[objektai/posakiai/„gerumu galima ir laukinius žvėris sušvelninti.“]]
+- [[objektai/grupes/Krivičiai]]

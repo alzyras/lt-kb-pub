@@ -99,3 +99,10 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/aktas]]
+
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Viena]]
+- [[objektai/zodynas/konfederacija]]
+- [[objektai/vietos/Radomas]]

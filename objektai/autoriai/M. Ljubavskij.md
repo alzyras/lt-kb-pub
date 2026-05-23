@@ -58,3 +58,12 @@ Ljubavskij : Litovsko-Russkij sejm, Maskva 1900, 355-360 p. Plg.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/autoriai/J. Jakubovskis]]
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Liublinas]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/autoriai/Liubavskij, M]]

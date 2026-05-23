@@ -66,3 +66,14 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas]]
+- [[objektai/asmenys/A. Smetona|A. Smetona (prezidentas, XX a.)]]
+- [[objektai/asmenys/A. Voldemaras]]
+- [[objektai/asmenys/Augustinas Voldemaras]]
+- [[objektai/vietos/Lietuvos radijo ir televizijos komiteto pastatas]]
+- [[objektai/ivykiai/Sausio 13-oji ir Vilniaus televizijos bokšto šturmas (1991 m. sausio 12–13 d.)]]
+- [[objektai/zodynas/petihorai]]
+- [[objektai/daiktai/Sovietų tankai ir šarvuočiai]]

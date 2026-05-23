@@ -44,3 +44,8 @@ Bet po keleto dienų, padėjęs ginklus, į Prūsiją perėjo ir Rohlando būrys
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Prūsija]]
+- [[objektai/zodynas/žygis]]

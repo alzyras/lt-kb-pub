@@ -85,3 +85,9 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/privilegija]]
+
+### Susiję objektai
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/zodynas/seniūnas]]
+- [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/grupes/Žemaičiai]]

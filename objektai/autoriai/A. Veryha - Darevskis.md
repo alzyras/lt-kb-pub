@@ -50,3 +50,8 @@ Veryha - Darevskis, Lietuvos mokesčiai, 19 p., (Cit.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Viena]]

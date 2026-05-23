@@ -76,4 +76,5 @@ Abi formos pateikiamos kaip senasis prekybos žodynas, susietas su pirklių veik
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/vaisba vaisbūnas]]

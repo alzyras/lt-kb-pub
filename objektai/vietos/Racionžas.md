@@ -78,3 +78,9 @@ Todėl 1404 m. Racionže (Lenkijoje) buvo padaryta nauja taika su ordinu.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/ivykiai/Magdeburgo teisių suteikimas Lietuvos miestams]]
+- [[objektai/ivykiai/Racionžo taika (1404 m.)]]
+- [[objektai/ivykiai/Rygos ir Polocko pirklių laisvos prekybos sutartis (1405–1406 m.)]]

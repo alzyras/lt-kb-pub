@@ -62,4 +62,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Liaudies vyriausybė]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Sniečkus]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/sovietizacija sovietizavimas]]

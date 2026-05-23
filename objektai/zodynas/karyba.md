@@ -90,3 +90,22 @@ Juose rasite papildomos informacijos apie to meto politinius, karinius įvykius,
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Hermanas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/autoriai/Algimantas Daugirdas]]
+- [[objektai/daiktai/Buzdyganas]]
+- [[objektai/autoriai/Darius Baronas]]
+- [[objektai/autoriai/Eduardas Brusokas]]
+- [[objektai/autoriai/Gintautas Jakštys]]
+- [[objektai/daiktai/Ietis]]
+- [[objektai/autoriai/Karolis Zikaras]]
+- [[objektai/asmenys/Margalis (Margirius )]]
+- [[objektai/posakiai/`Rex Lethowye`]]
+- [[objektai/zodynas/artilerijos pasala]]
+- [[objektai/grupes/šarvuotų traukinių pulkas]]
+- [[objektai/daiktai/Husaro krūtinšarvis ir antpetis]]
+- [[objektai/paprociai/Linijinė taktika karyboje]]
+- [[objektai/zodynas/ankstyvoji monarchija karinė monarchija]]

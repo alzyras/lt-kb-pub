@@ -47,6 +47,10 @@ Tačiau bajorai – dvarininkai sudarė tik ¼ dalį vietos bajorų luomo, daugu
   teiginys: 'Vytautas šioje srity padarė tiek, kad suteikė tautos prekybai ir bendrai ekonomiškam inten­ syvesniam gyvenimui potencijos sudarydamas tam tikrą, iš tos visuomenės produktų cirkuliacijos gyvenantį, visuomenės luomą.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Nuo Jekaterinos II laikų vietiniame valdyme veikė atskirų luomų savivaldos institucijos, prižiūrimos vietos administracijos.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -105,7 +109,40 @@ Tačiau bajorai – dvarininkai sudarė tik ¼ dalį vietos bajorų luomo, daugu
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Nuo Jekaterinos II laikų vietiniame valdyme veikė atskirų luomų savivaldos institucijos, prižiūrimos vietos administracijos.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    L I E T U V O S  I S T O R I J A
+    100
+    Nuo Jekaterinos II laikų į vietinio valdymo grandį inkorporuotos ir
+    savivaldos atskirų luomų lygmens institucijos – bajorų dvarininkų susirin-
+    kimai gubernijose ir apskrityse, atskirų miestų miestiečių luomų, arba su-
+    bluomų, savivalda. Tai nesavarankiškos vietinės valdžios šakos, prižiūrimos
+    vietos administracijos, atlikusios iš esmės pagalbines funkcijas. Apskrities
+    bajorų susirinkimas rinko kai kuriuos už viešąją tvarką atsakingus parei-
+    gūnus, žemutinės teismų grandies teisėjus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/ivykiai/1422 m. Červinsko stovykla ir bajorų privilegijų suteikimas]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/vietos/Berlynas]]
+- [[objektai/daiktai/Herbas]]
+- [[objektai/autoriai/K. Avižonis]]
+- [[objektai/posakiai/Kad tik be arklio nebūtų]]
+- [[objektai/paprociai/Kreipimasis į Vytautą svarbiausiais reikalais]]
+- [[objektai/grupes/Lietuvių bajorija]]
+- [[objektai/zodynas/Magdeburgo teisės]]
 - [[objektai/grupes/Miestelėnų luomas]]
+- [[objektai/zodynas/nobilitetas]]
+- [[objektai/zodynas/Pilies ir rūmų pareigybės|pilies ir rūmų pareigybės]]
+- [[objektai/zodynas/privilegija lex privata]]
+- [[objektai/zodynas/rūmininkas vyno pilstytojas]]

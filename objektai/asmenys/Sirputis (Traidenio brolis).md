@@ -84,3 +84,12 @@ Rytų krikščionybę taip pat perėmęs ketvirtasis Traidenio brolis Sirputis L
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Naugardukas]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/asmenys/Traidenis]]
+- [[objektai/vietos/Lenkija]]

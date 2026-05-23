@@ -48,4 +48,5 @@ Užsieny jau daug kas manė, kad jis miręs; pavyzdžiui, Turkų sultonas buvo a
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Maskva]]
 - [[objektai/vietos/Krokuva]]

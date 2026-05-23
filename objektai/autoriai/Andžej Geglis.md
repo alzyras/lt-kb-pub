@@ -69,6 +69,11 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
   teiginys: 'Andžej Geglis kartu su Karoliu Zikaru buvo teksto „Automatiniai šautuvai“ bendraautoris.'
   pagrindžia:
     - c-007
+- t-011
+  teiginys: 'LIETUVOS ATSIKŪRIMAS p. 256, „KALAŠNIKOVO SISTEMOS AUTOMATINIAI ŠAUTUVAI“, Karolis Zikaras, Andžej Geglis.'
+  pagrindžia:
+    - c-009
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Andžej Geglis kartu su Karoliu Zikaru buvo teksto „Kalašnikovo sistemos automatiniai šautuvai“ bendraautoris.'
@@ -177,3 +182,25 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-010
+- c-009
+  santrauka: 'LIETUVOS ATSIKŪRIMAS p. 256, „KALAŠNIKOVO SISTEMOS AUTOMATINIAI ŠAUTUVAI“, Karolis Zikaras, Andžej Geglis.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    LIETUVOS ATSIKŪRIMAS
+
+    p. 256, „KALAŠNIKOVO SISTEMOS AUTOMATINIAI ŠAUTUVAI“, Karolis Zikaras,
+    Andžej Geglis.
+
+    P.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/Lietuvos atsikūrimas]]

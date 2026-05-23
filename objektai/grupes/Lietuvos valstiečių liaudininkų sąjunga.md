@@ -6,6 +6,15 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1938 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+date_start: '1938'
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - grupe
@@ -62,6 +71,10 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
     - c-007
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-008
+  teiginys: 'Smetonos valdymo opozicines jėgas – prasidėjo krikščionių demokratų ir valstiečių liaudininkų „ašies“ lyderių pasitarimai dėl bendros programos parengimo, prie jų dėjosi ir ultraradikalieji voldemarininkai.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -168,9 +181,24 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-007
+- c-008
+  santrauka: 'Smetonos valdymo opozicines jėgas – prasidėjo krikščionių demokratų ir valstiečių liaudininkų „ašies“ lyderių pasitarimai dėl bendros programos parengimo, prie jų dėjosi ir ultraradikalieji voldemarininkai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Besąlyginis ulti-
+    matumo priėmimas realiai konsolidavo A. Smetonos valdymo opozicines
+    jėgas – prasidėjo krikščionių demokratų ir valstiečių liaudininkų „ašies“
+    lyderių pasitarimai dėl bendros programos parengimo, prie jų dėjosi ir
+    ultraradikalieji voldemarininkai. Nuo 1938 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Kazys Grinius]]
-- [[objektai/grupes/Lietuvos krikščionių demokratų partija]]
-- [[objektai/grupes/Ministerių kabinetas]]
+- [[objektai/asmenys/A. Smetona|A. Smetona (prezidentas, XX a.)]]
+- [[objektai/grupes/Voldemarininkai]]

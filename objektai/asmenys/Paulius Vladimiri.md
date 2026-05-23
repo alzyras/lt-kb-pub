@@ -72,3 +72,9 @@ Kartu su jais vyko taip pat žymus lenkas Paulius Vladimiri, būrys dvariškių 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Breslavas]]
+- [[objektai/daiktai/Kardas]]
+- [[objektai/vietos/Lietuva]]

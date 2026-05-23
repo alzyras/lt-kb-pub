@@ -64,3 +64,13 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Mikalojus (Gniezno arkivyskupas)]]
+- [[objektai/vietos/Niurnbergas]]
+- [[objektai/vietos/Polockas]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/daiktai/Šarvai]]

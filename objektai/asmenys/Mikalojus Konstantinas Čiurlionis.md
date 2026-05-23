@@ -12,6 +12,11 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 bukle: juodrastis
 laikotarpis: ''
+vaidmenys:
+  - 'dailininkas'
+  - 'kompozitorius'
+dalyviai: []
+susije_irasai: []
 datos:
   - '1875 m.'
   - '1911 m.'
@@ -23,11 +28,6 @@ amziai:
   - 'XX'
 date_start: '1875'
 date_end: '1911'
-vaidmenys:
-  - 'dailininkas'
-  - 'kompozitorius'
-dalyviai: []
-susije_irasai: []
 patikimumas: aukštas
 tags: []
 ---
@@ -62,6 +62,14 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
     - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-015
+  teiginys: 'Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje, plačiausiai šiuo metu pasaulyje žinomas lietuvių dailininkas ir kompozitorius, muziką ir dailę studijavęs Varšuvoje ir Leipcige.'
+  pagrindžia:
+    - c-005
+- t-016
+  teiginys: 'Čiurlionio muziejaus senojo meno ekspozicija.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -127,7 +135,51 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-013
+- c-005
+  santrauka: 'Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje, plačiausiai šiuo metu pasaulyje žinomas lietuvių dailininkas ir kompozitorius, muziką ir dailę studijavęs Varšuvoje ir Leipcige.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kurį laiką taip elgėsi Mikalojus
+    Konstantinas Čiurlionis (1875–1911), beje, plačiausiai šiuo metu pasaulyje
+    žinomas lietuvių dailininkas ir kompozitorius, muziką ir dailę studijavęs
+    Varšuvoje ir Leipcige. Iš etniškai lietuviškos aplinkos kilęs, bet iki to lai-
+    kotarpio lietuviškai gerai nemokėjęs, M. K. Čiurlionis pasirinko lietuvius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
+- c-006
+  santrauka: 'Čiurlionio muziejaus senojo meno ekspozicija.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Už-
+    darytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai pri-
+    taikytos uždarytos bažnyčios: Šv. Kazimiero bažnyčioje atidarytas Ateiz-
+    mo muziejus, Šv. Jonų – Mokslo, Visų Šventųjų – Liaudies meno, Kauno
+    Įgulos bažnyčioje – Skulptūros ir vitražo muziejai, Pažaislio vienuolyne –
+    M. K. Čiurlionio muziejaus senojo meno ekspozicija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Kaunas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Pažaislis]]
+- [[objektai/vietos/Varšuva]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/vietos/Kauno įgulos bažnyčia]]
 - [[objektai/vietos/Leipcigas]]
+- [[objektai/vietos/Pažaislio vienuolynas]]
+- [[objektai/vietos/Visų Šventųjų bažnyčia]]
+- [[objektai/zodynas/destalinizacija atšilimo laikotarpis]]
+- [[objektai/zodynas/destalinizacija postalininis metas atšilimo laikotarpis]]
+- [[objektai/vietos/Šv. Jonų bažnyčia]]

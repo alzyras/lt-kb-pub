@@ -58,3 +58,7 @@ Didžiojo kunigaikščio dvaro pajėgoms vadovavo Ratajus Širiajevas.
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/pinigai]]
+
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Maskva]]

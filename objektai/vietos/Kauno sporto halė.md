@@ -57,5 +57,9 @@ Kauno sporto halėje 1939 m. Lietuvos vyrų krepšinio rinktinė antrą kartą t
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Europa]]
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuvos vyrų krepšinio rinktinė]]
+- [[objektai/vietos/Vilnius]]
 - [[objektai/ivykiai/Lietuvos vyrų krepšinio rinktinės antroji pergalė Europos čempionate Kaune (1939 m.)]]

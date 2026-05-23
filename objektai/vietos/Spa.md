@@ -6,6 +6,15 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1920 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+date_start: '1920'
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - paliaubos
@@ -24,6 +33,10 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Kai lenkų daliniai, spaudžiami bolševikų, ėmė trauktis, konferencijoje Spa 1920 m. liepos 5–16 d. didžiosios valstybės nurodė Lenkijai grąžinti Vilnių Lietuvai ir Varšuva sutiko.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -46,11 +59,28 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Kai lenkų daliniai, spaudžiami bolševikų, ėmė trauktis, konferencijoje Spa 1920 m. liepos 5–16 d. didžiosios valstybės nurodė Lenkijai grąžinti Vilnių Lietuvai ir Varšuva sutiko.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kai lenkų daliniai, spaudžiami
+    bolševikų, ėmė trauktis, konferencijoje Spa 1920 m. liepos 5–16 d. didžio-
+    sios valstybės nurodė Lenkijai grąžinti Vilnių Lietuvai ir Varšuva sutiko.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/paliaubos]]
 
 ### Susiję objektai
-- [[objektai/grupes/Aukščiausioji Santarvininkių Taryba]]
-- [[objektai/zodynas/Kerzono linija]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Varšuva]]
+- [[objektai/vietos/Vilnius]]

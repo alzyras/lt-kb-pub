@@ -66,4 +66,11 @@ Pirmą nacių okupacijos savaitę daug gyventojų, tarp jų ir žydai persekioti
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Kaunas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Žydai]]
+- [[objektai/vietos/Vilijampolė]]
+- [[objektai/ivykiai/Vilijampolės ir „Lietūkio“ garažo pogromai (1941 m. birželio 26-27 d.)]]
 - [[objektai/zodynas/valymo operacijos]]
+- [[objektai/vietos/„Lietūkio“ garažas]]

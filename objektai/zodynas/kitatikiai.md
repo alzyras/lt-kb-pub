@@ -47,6 +47,10 @@ Kitatikius varžančių įstatymų atsirado tik XVII amž. pabaigoje ir XVIII am
   teiginys: 'Be katalikų, švietimu rūpinosi ir kitatikiai, kurių mokyklos daugiausia buvo pritaikytos bažnytiniams reikalams.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Kitatikių mokyklos Be katalikų, švietimu dar rūpinosi ir kitatikiai.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -116,3 +120,36 @@ Kitatikius varžančių įstatymų atsirado tik XVII amž. pabaigoje ir XVIII am
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Kitatikių mokyklos Be katalikų, švietimu dar rūpinosi ir kitatikiai.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Kitatikių mokyklos
+
+    Be katalikų, švietimu dar rūpinosi ir kitatikiai. Jie dau-
+    giausia rūpinosi tikybos reikalais, ir jų mokyklos taip pat dau-
+    giausia buvo pritaikytos bažnytiniams reikalams. Keletą
+    mokyklų turėjo pravoslavai (Vilniuje, Polocke, Minske).
+    Jie irgi mokė vienuolynuose. Daug geriau buvo sutvarkytas
+    unitų švietimas. Vilniuje šie turėjo net savą, popiežiaus iš-
+    laikomą, kunigų seminariją; mokymu daugiausia užsiėmė jų ba-
+    zi1ijonų ordinas, kurs turėjo Lietuvoje net keletą dešimčių
+    savo vienuolynų. Jų vienuolynų buvo net Žemaičiuose (Padu-
+    bysy), nors ten nei pravoslavų nei unitų nebuvo iš viso. Visur
+    prie jų vienuolynų buvo bent pradžios mokyklų, o kai kur net
+    ir aukštesniųjų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/pravoslavai]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/grupes/Varšuvos konfederacinis seimas]]

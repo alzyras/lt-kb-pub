@@ -48,4 +48,6 @@ Tuo tarpu Mažojoje Lietuvoje ilgą laiką svetimieji buvo tik ponai, o kolonist
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/germanizacija]]

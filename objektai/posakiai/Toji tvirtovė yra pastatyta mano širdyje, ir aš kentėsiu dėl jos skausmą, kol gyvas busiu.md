@@ -53,3 +53,10 @@ Vaizdingais Eiliuotinės kronikos žodžiais, jis esą skundęsis : « Toji tvir
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Daugpilis]]
+- [[objektai/asmenys/Traidenis]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/žygis]]

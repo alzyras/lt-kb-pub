@@ -28,7 +28,7 @@ Antrame plane matyti Trakų salos pilis.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Antrame plane matyti Trakų salos pilis.'
+  teiginys: 'Trakų salos pilis buvo baigta statyti 1409 m.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -36,7 +36,7 @@ Antrame plane matyti Trakų salos pilis.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Antrame plane matyti Trakų salos pilis.'
+  santrauka: 'Trakų salos pilis buvo baigta statyti 1409 m.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Antrame plane matyti Trakų salos pilis. Baigta
@@ -49,3 +49,8 @@ Antrame plane matyti Trakų salos pilis.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Salos]]
+- [[objektai/vietos/Trakai]]

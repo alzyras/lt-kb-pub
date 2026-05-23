@@ -51,3 +51,10 @@ Tuo tarpu Bazelio bažnytinis susirinkimas dar 1431 m. pabaigoje siekė sutaikyt
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Aleksandra (Mozūrijos kunigaikštienė)]]
+- [[objektai/vietos/Bazelis]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Mozūrija]]

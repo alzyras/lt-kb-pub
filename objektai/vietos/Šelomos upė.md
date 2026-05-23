@@ -59,4 +59,6 @@ Rugpjūčio 21 d. prie Šelomos upės lietuviai sumušė apie 3000 rusų dalinį
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/ivykiai/K. Radvilos Perkūno reidas (1581 m. liepa-spalis)]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Rževas]]

@@ -63,4 +63,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
+- [[objektai/vietos/Poznanė]]
+- [[objektai/zodynas/vaivada]]
 - [[objektai/zodynas/elekcinis seimas]]

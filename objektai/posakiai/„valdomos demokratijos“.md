@@ -47,3 +47,14 @@ Prezidento Vladimiro Putino „valdomos demokratijos“ režimas siekia susigrą
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/aktas]]
+
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/vietos/Estija]]
+- [[objektai/vietos/Latvija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/SSRS]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/Pokomunistinė erdvė]]
+- [[objektai/zodynas/Valdoma demokratija]]
+- [[objektai/asmenys/Vladimiras Putinas]]

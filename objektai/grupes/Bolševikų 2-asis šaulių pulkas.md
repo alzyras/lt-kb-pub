@@ -62,3 +62,9 @@ Tuo tarpu Kėdainių kryptimi pamažu artėjo bolševikų 2-asis šaulių pulkas
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Kėdainiai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

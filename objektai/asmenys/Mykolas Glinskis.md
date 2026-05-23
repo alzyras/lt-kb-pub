@@ -48,6 +48,14 @@ Jis vyriausiais kariuomenės vadais paskyrė LDK etmoną Stanislovą Kišką ir 
     - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: 'Tada Glinskis davė komandą puolimui ir nuaidėjus trimitų garsams LDK kariuomenė pakilo į ataką.'
+  pagrindžia:
+    - c-004
+- t-005
+  teiginys: 'Mūšio nugalėtojas Mykolas Glinskis triumfuodamas grįžo į Vilnių YD rugpjūčio 12 d.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -129,7 +137,57 @@ Jis vyriausiais kariuomenės vadais paskyrė LDK etmoną Stanislovą Kišką ir 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Tada Glinskis davė komandą puolimui ir nuaidėjus trimitų garsams LDK kariuomenė pakilo į ataką.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Tada Glinskis davė komandą
+    puolimui ir nuaidėjus trimitų garsams LDK
+    kariuomenė pakilo į ataką.
+
+    Pirmoji upę forsavo dešinioji kolona,
+    kuri turėjo užkirsti pagrindinį totorių at-
+    sitraukimo kelią. Įkalnėn judančią lietu-
+    vių koloną totorių pagrindinėms pajėgoms
+    pavyko sustabdyti. Apsupti lietuviai iš visų
+    jėgų gynėsi nuo juos apspitusių totorių. Tuo
+    metu Glinskis metė atakon kairiąją koloną,
+    kuri pralaužė nestiprią priešais ją stovėju-
+    sių totorių užtvarą. Su šia kolona Glinskis,
+    padarydamas 700 m lankstą, apėjo lietu-
+    vių dešiniąją koloną spaudusius totorius iš
+    kairės ir visu ypu įsirėžė į jų dešinįjį flangą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: 'Mūšio nugalėtojas Mykolas Glinskis triumfuodamas grįžo į Vilnių YD rugpjūčio 12 d.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Mūšio
+    nugalėtojas Mykolas
+    Glinskis triumfuo-
+    damas grįžo į Vilnių
+
+    YD rugpjūčio 12 d.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/karvedys]]
+
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/flangas]]

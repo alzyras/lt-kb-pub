@@ -73,4 +73,7 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Kuršiai]]
+- [[objektai/vietos/Švedija]]
+- [[objektai/grupes/Voluiniečiai]]
 - [[objektai/paprociai/Kuršių plėšiamieji žygiai į Danijos ir Švedijos pakrantes]]

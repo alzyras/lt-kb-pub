@@ -40,3 +40,11 @@ Jis pastojo turkams kelią Dniestro paupy, ties Chocimu.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Dniestras]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/grupes/Turkijos kariuomenė]]
+- [[objektai/grupes/Lietuviai]]

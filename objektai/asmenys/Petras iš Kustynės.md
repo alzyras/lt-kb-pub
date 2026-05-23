@@ -86,3 +86,14 @@ Tais reikalais 1415 m. į Konstanciją buvo išsiųsta Lietuvos ir Lenkijos vysk
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/didikas]]
+
+### Susiję objektai
+- [[objektai/vietos/Breslavas]]
+- [[objektai/vietos/Gniezno]]
+- [[objektai/vietos/Konstancija]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Lvovas]]
+- [[objektai/vietos/Trakai]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/grupes/Žemaičiai]]

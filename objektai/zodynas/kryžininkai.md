@@ -55,3 +55,22 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Europa]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/vietos/Prūsija]]
+- [[objektai/asmenys/Bajazitas]]
+- [[objektai/daiktai/Baltas apsiaustas su išsiuvinėtu kalaviju]]
+- [[objektai/grupes/Danijos karaliaus kariai iš Revelio]]
+- [[objektai/grupes/Estai]]
+- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
+- [[objektai/grupes/Notangai]]
+- [[objektai/grupes/Pamedėnai]]
+- [[objektai/grupes/Sembai]]
+- [[objektai/paprociai/Vakarų pagalbos kvietimas ir svečių iš Vokietijos šaukimas]]
+- [[objektai/grupes/Varmiai]]

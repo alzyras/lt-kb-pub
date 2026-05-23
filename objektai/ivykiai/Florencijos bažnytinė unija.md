@@ -67,3 +67,12 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Florencija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/bažnytinė unija]]
+- [[objektai/zodynas/metropolija]]
+- [[objektai/zodynas/unija]]
+- [[objektai/grupes/Katalikų Bažnyčia]]

@@ -100,5 +100,14 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Jadvyga (Jogailos duktė)]]
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/daiktai/Karūna]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Płockas]]
+- [[objektai/asmenys/Stanislovas Ciołek]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Ziemovitas]]
+- [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/luomas]]
 - [[objektai/zodynas/pakancleris]]
+- [[objektai/zodynas/šlėkta]]

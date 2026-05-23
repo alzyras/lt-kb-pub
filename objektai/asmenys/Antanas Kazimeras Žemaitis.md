@@ -42,3 +42,9 @@ Ogi visi jie grojo iš Lietuvos emigrantų kilusio Tony’o Zemaicio (Antanas Ka
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Londonas]]
+- [[objektai/zodynas/Bendrinė sąvoka]]

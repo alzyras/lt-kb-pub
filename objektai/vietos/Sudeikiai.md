@@ -54,4 +54,7 @@ Sukilimas prasidėjo Raseinių apskrityje, kur buvo sudegintas Sudeikių dvaras,
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Liepoja]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Žemaičiai]]
 - [[objektai/vietos/Airiogala]]

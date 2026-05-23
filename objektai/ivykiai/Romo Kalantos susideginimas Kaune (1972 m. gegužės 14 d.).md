@@ -54,4 +54,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Romas Kalanta]]
+- [[objektai/vietos/Lietuva]]

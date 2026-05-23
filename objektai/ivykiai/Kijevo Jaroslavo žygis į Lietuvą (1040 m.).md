@@ -62,6 +62,10 @@ Nenurodyta
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: 'Štai, XII amž. pradžioje surašyta «Povest vremennych let» mini, jog Kijevo Jaroslavas 1040 m. darė į Lietuvą (« na Litvu ») žygį; tik apie jo eigą nieko nepasa­ kyta.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -101,3 +105,25 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+- c-003
+  santrauka: 'Štai, XII amž. pradžioje surašyta «Povest vremennych let» mini, jog Kijevo Jaroslavas 1040 m. darė į Lietuvą (« na Litvu ») žygį; tik apie jo eigą nieko nepasa­ kyta.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Štai, XII amž. pradžioje surašyta
+    «Povest vremennych let» mini, jog Kijevo Jaroslavas 1040 m.
+    darė į Lietuvą (« na Litvu ») žygį; tik apie jo eigą nieko nepasa­
+    kyta.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Jaroslavas]]
+- [[objektai/vietos/Kijevas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/posakiai/na Litvu]]

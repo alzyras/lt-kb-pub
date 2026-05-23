@@ -72,3 +72,8 @@ Visos teisės, kurias turėjo iždininkai, buvo pavestos iždo komisijai, o hetm
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Nuolatinė Taryba]]
+- [[objektai/grupes/Gardino seimas]]

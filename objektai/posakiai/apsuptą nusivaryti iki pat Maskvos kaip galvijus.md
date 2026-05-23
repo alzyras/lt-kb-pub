@@ -56,3 +56,11 @@ Mūšio liudininkas Zigmantas Herberšteinas cituoja rusų kariuomenės vado Če
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Dniepras]]
+- [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/asmenys/Zigmantas Herberšteinas]]

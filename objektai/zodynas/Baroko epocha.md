@@ -44,4 +44,9 @@ buvo sukurta originali, vadinamoji Vilniaus baroko mokykla, kurios pagrindinis a
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Europa]]
+- [[objektai/asmenys/Jonas Kristupas Glaubicas|Jonas Kristupas Glaubicas (architektas)]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/barokas]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/zodynas/Baroko epocha Vilniaus baroko mokykla]]

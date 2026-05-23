@@ -49,3 +49,12 @@ Seimas buvo priverstas įvykdyti visus jo reikalavimus.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/posakiai/kardinalinės teisės]]
+- [[objektai/zodynas/kitatikiai]]
+- [[objektai/vietos/Varšuva]]
+- [[objektai/ivykiai/Varšuvos konfederacinis seimas (1768 m.)]]

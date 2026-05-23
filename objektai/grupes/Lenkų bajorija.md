@@ -107,4 +107,19 @@ Lenkų bajorų dokumentas^3 ) yra beveik lietuvių bajorų ak­ to nuorašas, to
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/grupes/Lenkų ponų taryba]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Liublinas]]
+- [[objektai/grupes/Ponų taryba]]
+- [[objektai/vietos/Radomas]]
+- [[objektai/vietos/Viena]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/unija]]
+- [[objektai/paprociai/Bendras Lietuvos ir Lenkijos valdovo rinkimas]]
+- [[objektai/ivykiai/Štumdorfo paliaubos (1635 m.)]]
 - [[objektai/grupes/Lenkijos bajorija]]

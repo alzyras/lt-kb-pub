@@ -43,4 +43,6 @@ Pirmą nacių okupacijos savaitę daug gyventojų, tarp jų ir žydai persekioti
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Žydai]]
+- [[objektai/grupes/SD Einsatzgruppen]]
 - [[objektai/zodynas/einzatsgrupės Einzatsgruppen]]

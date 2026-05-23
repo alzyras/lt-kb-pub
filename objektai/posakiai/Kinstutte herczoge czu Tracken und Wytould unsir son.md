@@ -52,3 +52,9 @@ Pačiame tekste yra pažymėta, kad be ma­ gistro ir Jogailos savo antspaudas p
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Antspaudas]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/vietos/Trakai]]

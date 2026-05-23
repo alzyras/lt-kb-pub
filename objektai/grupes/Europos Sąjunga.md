@@ -7,6 +7,9 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1990 m.'
+  - '1991 m.'
+  - '1993 m.'
   - '2004 m.'
   - '2013 m.'
   - '2026 m.'
@@ -14,8 +17,9 @@ periodas: 'atkurtos nepriklausomybės laikotarpis'
 periodo_grupes:
   - 'šiuolaikinė Lietuva'
 amziai:
+  - 'XX'
   - 'XXI'
-date_start: '2004'
+date_start: '1990'
 date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
@@ -43,6 +47,18 @@ tags:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Integracija į Europos Sąjungą – antras svarbiausias strateginis atsikūrusios Lietuvos užsienio politikos tikslas.'
+  pagrindžia:
+    - c-003
+- t-004
+  teiginys: 'Po trejų metų Lietuva, Latvija ir Estija pasirašė Europos (asociacijos) sutartis su ES, kuriose ši pripažino Baltijos valstybių tikslą tapti ES narėmis.'
+  pagrindžia:
+    - c-004
+- t-005
+  teiginys: 'Lietuvai tapus ES nare, joje įsigalėjo Sąjungos nuostatos šalių narių gyventojų atžvilgiu.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -83,7 +99,68 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Integracija į Europos Sąjungą – antras svarbiausias strateginis atsikūrusios Lietuvos užsienio politikos tikslas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Integracija į Europos Sąjungą – antras svarbiausias strateginis atsikū-
+    rusios Lietuvos užsienio politikos tikslas. 1990 m. gruodžio 14 d. Baltijos
+    šalių vyriausybių vadovai pirmą kartą kreipėsi į tuometinę Europos eko-
+    nominę bendriją (EEB), prašydami Baltijos šalims politinę, ekonominę
+    ir kultūrinę paramą teikti ne per Sovietų Sąjungą, o tiesiogiai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Po trejų metų Lietuva, Latvija ir Estija pasirašė Europos (asociacijos) sutartis su ES, kuriose ši pripažino Baltijos valstybių tikslą tapti ES narėmis.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Nuo oficialių diplomatinių
+    santykių su Lietuva užsimezgimo ES per PHARE programą pradėjo teikti
+    pagalbą Lietuvai. Po trejų metų Lietuva, Latvija ir Estija pasirašė Europos
+    (asociacijos) sutartis su ES, kuriose ši pripažino Baltijos valstybių tikslą
+    tapti ES narėmis. 2004 m. gegužės 1 d. Lietuva įstojo į ES ir įgijo teisę
+    kurti savo ir žemyno ateitį kartu su kitomis demokratinėmis valstybėmis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: 'Lietuvai tapus ES nare, joje įsigalėjo Sąjungos nuostatos šalių narių gyventojų atžvilgiu.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuvai tapus ES nare, joje įsigalėjo Sąjungos nuostatos šalių narių gy-
+    ventojų atžvilgiu. Visų šalių narių piliečiai kartu yra ir ES piliečiai. Kiek­
+    vienas ES pilietis turi: nevaržomo judėjimo ir apsigyvenimo ES šalių na-
+    rių teritorijoje teisę; teisę balsuoti ir kandidatuoti vietiniuose ir Europos
+    rinkimuose toje šalyje, kurioje gyvena; teisę būti ginamas diplomatinių ir
+    konsulinių kiekvienos šalies narės įstaigų; peticijos (kolektyvinio prašy-
+    mo) Europos parlamentui teisę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Europos Parlamentas]]
+- [[objektai/grupes/Ateitis]]
+- [[objektai/vietos/Baltija]]
+- [[objektai/zodynas/ES pilietis]]
+- [[objektai/vietos/Estija]]
+- [[objektai/vietos/Europa]]
+- [[objektai/vietos/Kijevo Rusia]]
+- [[objektai/vietos/Latvija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/peticija]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/ivykiai/Lietuvos įstojimas į ES ir NATO (2004 m.)]]

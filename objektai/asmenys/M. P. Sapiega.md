@@ -83,4 +83,6 @@ Sapiegos. Sapiega, gavęs iš Višnioveckių saugumo garantijas, pasidavė kartu
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Respublikonai]]
+- [[objektai/grupes/Sapiegos]]
 - [[objektai/grupes/Sapiegų kariuomenė]]

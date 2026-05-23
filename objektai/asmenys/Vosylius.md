@@ -39,6 +39,10 @@ Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsil
     - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Į iškilmes buvo pa­ kviesti visi Lietuvos vasalai, rytų Rusijos kunigaikščiai, Vytau­ to anūkas, d. Maskvos kunigaikštis Vosylius, Tveriaus, Riaza­ nės, Odojevo didikai ir totorių chanas Machmetas^2 ) ir daug mažesnių chanų.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -79,3 +83,38 @@ Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsil
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Į iškilmes buvo pa­ kviesti visi Lietuvos vasalai, rytų Rusijos kunigaikščiai, Vytau­ to anūkas, d. Maskvos kunigaikštis Vosylius, Tveriaus, Riaza­ nės, Odojevo didikai ir totorių chanas Machmetas^2 ) ir daug mažesnių chanų.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Į iškilmes buvo pa­
+    kviesti visi Lietuvos vasalai, rytų Rusijos kunigaikščiai, Vytau­
+    to anūkas, d. Maskvos kunigaikštis Vosylius, Tveriaus, Riaza­
+    nės, Odojevo didikai ir totorių chanas Machmetas^2 ) ir daug
+    mažesnių chanų.
+    Tačiau veltui Vytautas ir jo svečiai laukė pasiuntinių, at­
+    gabenančių karūnas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Sofija (Vytauto duktė)]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/vietos/Odojevas]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/zodynas/chanas]]
+- [[objektai/asmenys/Elžbieta]]
+- [[objektai/vietos/Pronskas]]
+- [[objektai/vietos/Smolenskas]]
+- [[objektai/asmenys/Vosylius I]]
+- [[objektai/vietos/Zna]]
+- [[objektai/zodynas/regencija]]
+- [[objektai/asmenys/Andrius Vosylius Jastrzębiecas]]
+- [[objektai/asmenys/Vosylius II]]

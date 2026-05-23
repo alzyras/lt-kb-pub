@@ -59,3 +59,12 @@ Vartojamos formos: `perveizėjo`, `perveizos`.
 ## Pastabos
 
 - Šiuolaikinis atitikmuo tekste nepasakytas tiesiai, bet tikrinimo funkcija aiški.
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/Tėvūnija|tėvūnija]]
+- [[objektai/zodynas/vėliava]]
+- [[objektai/grupes/Žemlionys]]
+- [[objektai/paprociai/Pavietės karūžojo metinė žemlionų ginklų ir žirgų perveiza]]
+- [[objektai/zodynas/Žemlionis|žemlionis]]

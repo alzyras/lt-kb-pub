@@ -72,6 +72,14 @@ Nenurodyta
   teiginys: '1945 m. rugpjūčio 18 d. Alytaus NKVD slaptame pranešime J. Bartašiūnui rašyta, kad operacijos metu nukauta 17 partizanų.'
   pagrindžia:
     - c-003
+- t-007
+  teiginys: 'Pritrūkus valčių, enkavėdistai nulupo Aleknonių ir Žuvinto kaimų ūkininkų kluonų duris ir jomis kaip plaustais plaukė ežeru.'
+  pagrindžia:
+    - c-004
+- t-008
+  teiginys: '1945 m. rugpjūčio 18 d. Alytaus NKVD slaptame pranešime LTSR Vidaus reikalų liaudies komisarui J.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -158,3 +166,79 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-004
+  santrauka: 'Pritrūkus valčių, enkavėdistai nulupo Aleknonių ir Žuvinto kaimų ūkininkų kluonų duris ir jomis kaip plaustais plaukė ežeru.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Pritrūkus valčių, enkavėdistai
+    nulupo Aleknonių ir Žuvinto kaimų ūki-
+    ninkų kluonų duris ir jomis kaip plaustais
+    plaukė ežeru. Partizanai be paliovos juos
+    apšaudė ir granatomis skandino. Mūšis
+    tęsėsi visą savaitę. Matydamas tokią priešo
+    gausą S. Staniškis-Litas įsakė Dzūkų bū-
+    riui trauktis į Buktos (Žaliosios) miško —
+    Palių pakraštį. Kitas būrys užsimaskavo
+    Žuvinto ežero salose. Jų nepastebėjo ne
+    tik iš lėktuvų, bet ir iš valčių. Užsimaskavę
+    vyrai atlaikė sunkiausią išbandymą. Jau
+    temstant NKVD kareiviai, apžiūrėję ke-
+
+    lias salas ir ten nieko neradę, įsidrąsinę
+    yrėsi prie kitų. Būrio vadas Juozas Kaspa-
+    ravičius-Strausas, matydamas, kad rusų
+    valtys suka jų link ir mūšis neišvengiamas,
+    rusiškai šūktelėjo: „Plaukite čia, banditų
+
+    nėra“. Suklaidinti priešai ėmė drąsiai ar-
+    tintis. Partizanai pradėjo šaudyti. Supratę
+    apgaulę, rusai ėmė trauktis, nuo kranto juos
+    parėmė kulkosvaidžiai ir minosvaidžiai.
+    Galiausiai viskas nutilo. Po ilgos tylos, jau
+    naktį, manydami, kad visi partizanai žuvo,
+    enkavėdistai valtimis ir plaustais pasileido
+
+    į salą. Laisvės kovotojai, iki tol tyliai tūnoję
+    saloje, prisileido juos iki 30-40 metry ir, iš-
+    šovę signalinę raketą, atidengė ugnį. Priešo
+    pusėje kilo panika - valtys grimzdo du-
+    gnan. Tai buvo partizanų pergalė. Junginio
+    vadui įsakius, partizanai išsiskirstė mažo-
+    mis grupelėmis ir ėmė trauktis iš apsupimo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-005
+  santrauka: '1945 m. rugpjūčio 18 d. Alytaus NKVD slaptame pranešime LTSR Vidaus reikalų liaudies komisarui J.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    1945 m. rugpjūčio
+    18 d. Alytaus NKVD slaptame pranešime
+    LTSR Vidaus reikalų liaudies komisa-
+    rui J. Bartašiūnui rašoma, kad opera-
+    cijos metu buvo nukauta 17 partizanų.
+    Čekistai mėgdavo padidinti žuvusių
+    partizanų skaičių, o savų - sumažinti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Alytus]]
+- [[objektai/vietos/Buktos (Žaliosios) miškas]]
+- [[objektai/grupes/NKVD]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/vietos/Žuvinto ežeras]]
+- [[objektai/autoriai/Dalius Žygelis]]
+- [[objektai/vietos/Kiauneliškiai]]
+- [[objektai/autoriai/Ričardas Čekutis]]
+- [[objektai/grupes/Varniškių būrys]]

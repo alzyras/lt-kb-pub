@@ -48,3 +48,19 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Alenšteinas]]
+- [[objektai/vietos/Angerburgas]]
+- [[objektai/vietos/Johanisburgas]]
+- [[objektai/vietos/Klaipėda]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Lotzenburgas]]
+- [[objektai/vietos/Ortelsburgas]]
+- [[objektai/vietos/Ragainė]]
+- [[objektai/vietos/Rastenburgas]]
+- [[objektai/vietos/Röselis]]
+- [[objektai/vietos/Tilžė]]
+- [[objektai/vietos/Vėluva]]
+- [[objektai/vietos/Įsrutis]]

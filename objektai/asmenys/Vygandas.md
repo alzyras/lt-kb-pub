@@ -56,3 +56,16 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Dubysa]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/vietos/Insterburgas]]
+- [[objektai/vietos/Tamova]]
+- [[objektai/ivykiai/Vytauto žygis į Ordino žemes (1377 m.)]]
+- [[objektai/zodynas/stabmeldys]]
+- [[objektai/zodynas/vyskupo teisėjas]]
+- [[objektai/ivykiai/Strėvos mūšis (1348 m.)]]
+- [[objektai/asmenys/Vygandas von Baldersheimas]]

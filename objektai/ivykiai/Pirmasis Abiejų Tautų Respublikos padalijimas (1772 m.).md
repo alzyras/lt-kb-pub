@@ -68,5 +68,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Sankt Peterburgas]]
+- [[objektai/vietos/Varšuva]]
 - [[objektai/zodynas/delegacinis seimas]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]

@@ -50,3 +50,9 @@ Dalis maršalkos Zaberezinskio karių išsiveržė į priekį, bet totoriai juos
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Kablinis šautuvas]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/zodynas/maršalka]]

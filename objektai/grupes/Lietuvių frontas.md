@@ -44,5 +44,7 @@ Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė �
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvių vienybės sąjūdis]]
 - [[objektai/grupes/Lietuvos laisvės kovotojų sąjunga]]

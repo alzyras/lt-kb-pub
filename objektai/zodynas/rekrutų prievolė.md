@@ -65,4 +65,6 @@ Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/rekrutų prievolė rekrutai]]

@@ -56,3 +56,17 @@ Istorinė rusų tradicija keliuose variantuose mini, kad Gediminas paėmė Rusij
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Aizkrauklė]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/vietos/Kijevas]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/paprociai/Ceremoninis valdovo sutikimas ir miesto vartų atvėrimas]]
+- [[objektai/vietos/Cerkasai]]
+- [[objektai/vietos/Kanevas]]
+- [[objektai/autoriai/M. Strijkovskis]]
+- [[objektai/vietos/Lietuva]]

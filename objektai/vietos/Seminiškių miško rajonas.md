@@ -56,4 +56,6 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/NKVD]]
 - [[objektai/vietos/Simnas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

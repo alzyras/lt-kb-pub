@@ -156,7 +156,16 @@ Derybos neįvyko valdovų sąlygomis, todėl buvo grįžta prie karo.
 - [[temos/politinis-sprendimas]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Karolis IV]]
-- [[objektai/asmenys/Kęstutis]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Niurnbergas]]
+- [[objektai/vietos/Prūsija]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Viena]]
+- [[objektai/grupes/Vokiečių ordinas]]
+- [[objektai/zodynas/ciesorius]]
+- [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/ivykiai/Pasiuntinybė į Nürnbergą dėl krikšto (1358 m.)]]

@@ -51,6 +51,10 @@ Nenurodyta
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Iš žymiai pigesnės geležies tada buvo galima pasigaminti ginklų (iečių, kirvių) bei įrankių (dalgių, piautuvų, peilių, ylų ir kt.).'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -68,7 +72,26 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Iš žymiai pigesnės geležies tada buvo galima pasigaminti ginklų (iečių, kirvių) bei įrankių (dalgių, piautuvų, peilių, ylų ir kt.).'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Iš žymiai pigesnės geležies tada
+    buvo galima pasigaminti ginklų (iečių, kirvių) bei įrankių (dalgių,
+    piautuvų, peilių, ylų ir kt.). O iš žalvario, aukso, sidabro, stiklo
+    ir gintaro buvo dirbami papuošalai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/įrankis]]
+
+### Susiję objektai
+- [[objektai/daiktai/Gintaras]]
+- [[objektai/daiktai/Papuošalai]]

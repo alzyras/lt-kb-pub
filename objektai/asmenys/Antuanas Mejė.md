@@ -45,4 +45,6 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/pagonybė]]
 - [[objektai/posakiai/„Tas, kuris nori žinoti, kaip kalbėjo mūsų proseneliai, turi atvažiuoti pasiklausyti, kaip kalba lietuvis valstietis.“]]

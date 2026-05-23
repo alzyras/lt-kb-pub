@@ -52,3 +52,7 @@ Isaakas ben Abrahamas iš Trakų pristatomas kaip iš LDK karaimų bendruomenės
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/paprociai/LDK daugiakonfesiškumo juridinis įforminimas ir religinė tolerancija]]

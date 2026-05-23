@@ -48,6 +48,10 @@ Ulrichas von Jungingenas šiame šaltinyje rodomas kaip ordino didysis magistras
   teiginys: 'Ulrichas von Jungingenas nukrito nuo arklio ir mirė.'
   pagrindžia:
     - c-003
+- t-009
+  teiginys: 'Gana vėlai tepatyręs Jogailos ir Vytauto planus, ordino didysis magistras Ulricbas von Jungingenas skubėjo priešui pastoti kelią.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -97,8 +101,28 @@ Ulrichas von Jungingenas šiame šaltinyje rodomas kaip ordino didysis magistras
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-004
+  santrauka: 'Gana vėlai tepatyręs Jogailos ir Vytauto planus, ordino didysis magistras Ulricbas von Jungingenas skubėjo priešui pastoti kelią.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Gana vėlai tepatyręs Jogailos ir Vytauto planus, ordino didysis
+    magistras Ulricbas von Jungingenas skubėjo priešui pastoti kelią.
+    Nuo Torno Drevencos krantu iki Loebau (VII.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Du pliki kardai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Drevenca]]
+- [[objektai/vietos/Loebau]]
+- [[objektai/vietos/Torno]]
+- [[objektai/zodynas/didysis magistras]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/paprociai/Jogailos meldimasis ir mišių klausymas prieš kautynes]]

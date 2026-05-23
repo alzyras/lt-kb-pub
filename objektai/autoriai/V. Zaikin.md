@@ -48,3 +48,9 @@ Kitas ukrainietis istorikas V. Zai­ kinas rašė iš teisės filosofijos ir rel
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Kijevas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/ivykiai/Mongolų (totorių) invazija (1237-1240 m.)]]

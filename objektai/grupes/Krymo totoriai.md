@@ -59,6 +59,10 @@ Taip pat buvo jam paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susit
   teiginys: 'Po pergalės ties Prostkais tarp lietuvių ir jų samdinių totorių kilo konfliktas dėl belaisvių, ypač B.'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: 'Jis suima savo valdžion visus Pavolgio, Juod­ marių pakraščio ir Krymo totorius.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -137,3 +141,28 @@ Taip pat buvo jam paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susit
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Jis suima savo valdžion visus Pavolgio, Juod­ marių pakraščio ir Krymo totorius.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Buvo laikai, kad jo būklė būdavo labai kritiška. Iš karto atsi­
+    rasdavo net keli „saarai“ (pav. 1427 mt. pradžioje jų buvo dar
+    5), bet 1427 met. gale Vytauto palaikomasis Machmetas įsiga­
+    lėjo galutinai. Jis suima savo valdžion visus Pavolgio, Juod­
+    marių pakraščio ir Krymo totorius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Krymas]]
+- [[objektai/asmenys/Mykolas Borisovičius Šeina]]
+- [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.)]]
+- [[objektai/asmenys/Vladislovas Vaza]]
+- [[objektai/grupes/Krimo totoriai]]
+- [[objektai/zodynas/saar]]

@@ -33,6 +33,10 @@ Vokiečiams modernizuojant aneksijos ir prisijungimo planus, prireikus tam ir ok
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Petras Klimas buvo 1917 m. Vilniuje leistos surengti lietuvių konferencijos organizacinio komiteto narys.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -55,3 +59,29 @@ Vokiečiams modernizuojant aneksijos ir prisijungimo planus, prireikus tam ir ok
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Petras Klimas buvo 1917 m. Vilniuje leistos surengti lietuvių konferencijos organizacinio komiteto narys.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vokiečiams modernizuojant anek-
+    sijos ir prisijungimo planus, prireikus tam ir okupuotų lietuvių balso,
+    1917 m. vasarą lietuviams leista surengti konferenciją Vilniuje. Jos orga-
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    133
+    nizacinis komitetas (Mykolas Biržiška, Petras Klimas, A.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/A. Voldemaras]]
+- [[objektai/asmenys/Dovas Zaunius]]
+- [[objektai/posakiai/„Karas ar taika “]]
+- [[objektai/vietos/Vilnius]]

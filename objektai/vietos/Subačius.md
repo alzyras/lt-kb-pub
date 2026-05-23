@@ -85,5 +85,13 @@ Naktį iš gegužės 22 d. į 23 d. bolševikai paliko Panevėžio apylinkes, pa
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Bolševikai]]
 - [[objektai/vietos/Kupiškis]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/A. Šulskis-Šulas]]
+- [[objektai/ivykiai/Antrasis Panevėžio puolimas]]
+- [[objektai/grupes/Panevėžio rinktinė]]
 - [[objektai/vietos/Troškūnai]]

@@ -99,3 +99,11 @@ Rytprūsiuose, palei žemutinę Vyslą, jau yra žinomi upių krantų aukštumos
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kuršiai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Žiemgaliai]]
+- [[objektai/vietos/Rytprūsiai]]
+- [[objektai/vietos/Vysla]]

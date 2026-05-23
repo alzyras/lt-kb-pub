@@ -10,15 +10,15 @@ saltiniai:
   - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
 bukle: juodrastis
 laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: "vidutinis"
 tags:
   - vieta
@@ -57,6 +57,10 @@ Lietauka siejama su Neries upe, Kernave ir Lietuvos žemės siaurąja prasme sam
     - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-011
+  teiginys: 'Iki šiol labiausiai paplitusi versija buvo Lietuvos vardą kildinti iš nedidelio upelio Lietaukos, įtekančio į Nerį netoli Kernavės, vardo.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -102,6 +106,22 @@ Lietauka siejama su Neries upe, Kernave ir Lietuvos žemės siaurąja prasme sam
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-010
+- c-004
+  santrauka: 'Iki šiol labiausiai paplitusi versija buvo Lietuvos vardą kildinti iš nedidelio upelio Lietaukos, įtekančio į Nerį netoli Kernavės, vardo.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Iki šiol labiausiai paplitusi versija buvo
+    Lietuvos vardą kildinti iš nedidelio upelio Lietaukos, įtekančio į Nerį ne-
+    toli Kernavės, vardo. Tradiciškai manoma, kad Lietuvos valstybės bran-
+    duolys – Lietuvos žemė siaurąja prasme ankstyvaisiais istoriniais laikais
+    buvo tarp Nemuno ir Neries upių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
 
 ## Šaltiniai ir įrodymai
 
@@ -110,3 +130,8 @@ Lietauka siejama su Neries upe, Kernave ir Lietuvos žemės siaurąja prasme sam
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/lietuva]]
+
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Nemunas]]
+- [[objektai/vietos/Neris]]

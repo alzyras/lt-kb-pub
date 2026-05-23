@@ -66,3 +66,7 @@ Kai šitoje periodizacijoje neatsižvelgiama į dinastinius bei tarpvalstybinius
 ### Teminiai klasteriai
 - [[temos/didikas]]
 - [[temos/dinastija]]
+
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/bajorija]]

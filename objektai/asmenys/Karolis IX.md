@@ -54,6 +54,14 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
     - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: 'Karolis IX buvo Švedijos karalius ir Karolio Karlsono Gyllenhielmo tėvas.'
+  pagrindžia:
+    - c-005
+- t-006
+  teiginys: 'SALASPILIO (KIRKCHOLMO) MUSIS riuomenės karališkosios gvardijos pėstininkų batalionas, už jo ant žirgo Švedijos karalius Karolis Ix.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -135,3 +143,56 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Karolis IX buvo Švedijos karalius ir Karolio Karlsono Gyllenhielmo tėvas.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    ee Kuoknesės pilis
+
+    Baronas Karolis Karl-
+    sonas Gyllenhielmas
+    (Carl Carlson Gyllen-
+    hielm, 1574-1650 m.)
+    Švedijos karaliaus
+    Karolio 1x ir Karinos
+    Nilsdotter nesantuo-
+    kinis sūnus. Vadovavo
+    švedų kariuomenei,
+    veikusiai prieš lietu-
+    vius Livonijoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: 'SALASPILIO (KIRKCHOLMO) MUSIS riuomenės karališkosios gvardijos pėstininkų batalionas, už jo ant žirgo Švedijos karalius Karolis Ix.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    SALASPILIO (KIRKCHOLMO) MUSIS
+
+    riuomenės karališkosios gvardijos pėstininkų batalionas, už jo
+    ant žirgo Švedijos karalius Karolis Ix. Jį apsupę ginkluoti alebardo-
+    mis kariai — pėstininkų karininkai. Netrukus karalius duos nurodymą
+    siųsti gvardijos kavaleriją į lemiamą ataką
+
+    puolimo kryptimi (į dešinįjį lietuvių
+    sparną) gvardijos kavaleriją.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
+- [[objektai/vietos/Kuoknesė]]
+- [[objektai/vietos/Kuoknesės pilis]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/vietos/Švedija]]

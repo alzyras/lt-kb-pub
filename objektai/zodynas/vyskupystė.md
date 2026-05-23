@@ -49,3 +49,22 @@ Todėl tuojau po krikšto Jogaila įkūrė Vilniaus vyskupystę, pastatė katedr
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/paprociai/Blaivybės brolijų ir blaivybės skelbimo praktika]]
+- [[objektai/ivykiai/Blaivybės brolijų kūrimas ir plitimas Žemaičių vyskupystėje (1858—1859 m.)]]
+- [[objektai/vietos/Elbingas]]
+- [[objektai/vietos/Marijenburgas]]
+- [[objektai/vietos/Piltenė]]
+- [[objektai/vietos/Saremos]]
+- [[objektai/vietos/Tartai]]
+- [[objektai/vietos/Torne]]
+- [[objektai/vietos/Varmijos vyskupystė]]
+- [[objektai/vietos/Vilniaus vyskupystė]]
+- [[objektai/vietos/Žemaičių vyskupystė]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/vietos/Braunsbergas]]
+- [[objektai/zodynas/grašis]]

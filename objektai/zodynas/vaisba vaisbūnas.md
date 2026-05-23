@@ -49,4 +49,5 @@ Todėl net iki mūsų laikų yra išlikęs žodis vaisba, kurs reiškia prekybą
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Vaisba ir vaisbūnas]]

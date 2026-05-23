@@ -45,3 +45,11 @@ Naciai SSRS ir jos okupuotų kraštų gyventojus laikė atsilikusiomis tautomis,
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Baltija]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/SSRS]]
+- [[objektai/vietos/Vokietija]]
+- [[objektai/zodynas/savismauga]]

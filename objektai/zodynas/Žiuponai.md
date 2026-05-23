@@ -67,3 +67,11 @@ Vartojamos formos: `žiuponais`.
 ## Pastabos
 
 - Autorius jį pateikia kaip svetimųjų vartotą vardą, bet iš konteksto aišku, kad tai vietinių valdžios žmonių pavadinimas.
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Viena]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/grupes/Sandara]]
+- [[objektai/zodynas/Šaldros|šaldros]]

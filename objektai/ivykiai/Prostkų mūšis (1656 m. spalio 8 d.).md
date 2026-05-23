@@ -10,14 +10,6 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 bukle: 'juodrastis'
 laikotarpis: '1656 m. spalio 8 d.'
-datos:
-  - '1656 m. spalio 8 d.'
-periodas: 'ankstyvieji_naujieji_laikai'
-periodo_grupes: []
-amziai:
-  - 'XVII'
-date_start: '1656'
-date_end: '1656'
 vaidmenys: []
 dalyviai:
   - 'Lietuva'
@@ -26,6 +18,19 @@ dalyviai:
   - 'Prūsija'
   - 'Krymo totoriai'
 susije_irasai: []
+datos:
+  - '1000 m.'
+  - '1656 m.'
+  - '2000 m.'
+periodas: 'ankstyvieji_naujieji_laikai'
+periodo_grupes:
+  - 'viduramžiai'
+amziai:
+  - 'X'
+  - 'XVII'
+  - 'XX'
+date_start: '1000'
+date_end: '2000'
 patikimumas: 'aukstas'
 tags:
   - mūšis
@@ -73,6 +78,10 @@ Nenurodyta
     - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-009
+  teiginys: 'Švedijos ir jos sąjungininko Brandenburgo besitraukiančias pajėgas ties Prostkais pasitiko Lietuvos lauko etmono Vincento Gosievskio vadovaujamos pajėgos.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -166,3 +175,42 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-008
+- c-005
+  santrauka: 'Švedijos ir jos sąjungininko Brandenburgo besitraukiančias pajėgas ties Prostkais pasitiko Lietuvos lauko etmono Vincento Gosievskio vadovaujamos pajėgos.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Švedijos ir jos sąjungininko Branden-
+    burgo besitraukiančias pajėgas ties
+    Prostkais pasitiko Lietuvos lauko etmono
+    Vincento Gosievskio vadovaujamos pajė-
+    gos. Lietuvių tikslas buvo priversti atsi-
+    sakyti Burgundijos kiurfiurstą sąjungos
+    su Švedija. Lietuvos pajėgas sudarė apie
+    10 tūkst. lietuvių ir 2 tūkst. Krymo to-
+    torių - samdinių. Jungtinę olando gen.
+    Georgo Fridriko Valdeko vadovaujamą
+    švedų, brandenburgiečių ir prūsų ka-
+    riuomenę sudarė 3500 raitarų ir dra-
+    gūnų, 800 už švedus kariavusio Boguslavo
+    Radvilos raitelių, 1000 pėstininkų ir 2000
+    Walenrodto vedamų pėstininkų. Iš viso
+    apie 7000 karių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas]]
+- [[objektai/vietos/Krymas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Walenrodto]]
+- [[objektai/vietos/Švedija]]
+- [[objektai/vietos/Salaspilis]]
+- [[objektai/ivykiai/Švedijos karo paskelbimas ATR (1655 m.)]]
+- [[objektai/vietos/Brandenburgas]]

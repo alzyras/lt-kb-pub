@@ -51,3 +51,8 @@ Nors vietovardžių lokalizavimas yra sunkus, tačiau tekste ir žemė­ lapyje 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Ispanija]]
+- [[objektai/grupes/Lietuviai]]

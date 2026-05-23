@@ -72,3 +72,16 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Torno]]
+- [[objektai/vietos/Žalgiris]]
+- [[objektai/posakiai/Grünwaldo pergalės atsisakymas]]
+- [[objektai/vietos/Karaliaučius]]
+- [[objektai/vietos/Tornas]]
+- [[objektai/grupes/Vokietijos kunigaikščiai]]
+- [[objektai/ivykiai/Žemaičių krikštas]]
+- [[objektai/vietos/Elbingas]]
+- [[objektai/vietos/Varmijos vyskupystė]]

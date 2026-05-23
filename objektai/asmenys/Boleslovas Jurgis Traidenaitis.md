@@ -55,3 +55,14 @@ pasimirus Haličo Boleslovui Jurgiui Traidenaičiui, dėl Haličo ir Volynijos s
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/vietos/Haličas]]
+- [[objektai/asmenys/Kazimieras]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Švitrigaila]]
+- [[objektai/asmenys/Kazimieras Didysis]]
+- [[objektai/asmenys/Liubartas]]

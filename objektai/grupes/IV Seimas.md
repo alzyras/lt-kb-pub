@@ -46,4 +46,3 @@ Dėl to atgaivinta Seimo institucija.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/ivykiai/IV Seimo rinkimai (1936 m. vasara)]]
-- [[objektai/grupes/Lietuvių tautininkų sąjunga]]

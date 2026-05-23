@@ -77,4 +77,7 @@ Pilėnų gynėjai pasirinko žūtį ugnyje vietoj pasidavimo vokiečiams.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Europa]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/posakiai/Bemeilijo žūti ugny, negu pasiduoti vokiečiams]]

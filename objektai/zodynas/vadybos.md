@@ -50,3 +50,9 @@ Vietoje LV ministrų vokiečių valdžia lietuvių administracijos vadovais pask
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Petras Kubiliūnas]]
+- [[objektai/vietos/Lietuva]]

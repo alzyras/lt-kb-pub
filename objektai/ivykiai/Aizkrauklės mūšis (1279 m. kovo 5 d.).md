@@ -96,3 +96,10 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Aizkrauklė]]
+- [[objektai/vietos/Durbė]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Miera|miera]]

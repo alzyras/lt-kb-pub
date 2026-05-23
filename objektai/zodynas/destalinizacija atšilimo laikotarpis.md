@@ -66,4 +66,16 @@ Lietuvos visuomenėje konformizmas ypač išplito destalinizacijos metu. Padėti
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis|Mikalojus Konstantinas Čiurlionis (dailininkas)]]
+- [[objektai/zodynas/atšilimas]]
+- [[objektai/asmenys/Balys Sruoga]]
+- [[objektai/asmenys/Jonas Mačiulis-Maironis]]
+- [[objektai/asmenys/Jurgis Baltrušaitis]]
+- [[objektai/asmenys/M. K. Čiurlionis]]
+- [[objektai/autoriai/Maironis]]
+- [[objektai/asmenys/V. Krėvė-Mickevičius]]
+- [[objektai/asmenys/Vincas Krėvė-Mickevičius]]
+- [[objektai/asmenys/Vincas Mykolaitis-Putinas]]
 - [[objektai/zodynas/destalinizacija postalininis metas atšilimo laikotarpis]]

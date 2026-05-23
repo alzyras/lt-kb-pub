@@ -49,4 +49,5 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Niešava]]
 - [[objektai/ivykiai/Kryžiuočių ordino atsikraustymas į Prūsus]]

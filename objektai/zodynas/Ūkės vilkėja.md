@@ -64,3 +64,7 @@ Vartojamos formos: `ūkės vilkėjomis`.
 ## Pastabos
 
 - Terminas čia labiau socialinis vaidmuo nei grynas profesinis pavadinimas.
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/Gaspadinė|gaspadinė]]

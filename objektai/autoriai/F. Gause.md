@@ -55,3 +55,10 @@ R h o d e veikalas apie lenkų rytinę sieną (RhOP)^159 , Fr. Benninghoven dav�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Europa]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lietuva]]

@@ -42,7 +42,7 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Iš Podolės Karijotaičių paminėtini Jurgis († 1374), Aleksandras († 1388), Konstantinas († 1388), Teodoras.'
+  teiginys: 'Podolės Karijotaičiams priklausė Jurgis, Aleksandras, Konstantinas ir Teodoras.'
   pagrindžia:
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -71,6 +71,10 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
   teiginys: 'Algirdo remiami Karijotaičiai, įsitvirtinę Mažojoje Podolėje, vietiniams gyventojams pritariant, organizavo šio krašto gynybą nuo totorių puolimų bei grobimų, statė minėtas Smotričo, Bakotos, Kameneco pilis.'
   pagrindžia:
     - c-007
+- t-008
+  teiginys: '1366 vasarą Kazimieras, remiamas Mozūrijos Ziemovito ir Karijotaičių Jurgio ir Aleksandro, su kuriais Liubartas buvo suėjęs į konfliktą, padarė žygį.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -89,7 +93,7 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Iš Podolės Karijotaičių paminėtini Jurgis († 1374), Aleksandras († 1388), Konstantinas († 1388), Teodoras.'
+  santrauka: 'Podolės Karijotaičiams priklausė Jurgis, Aleksandras, Konstantinas ir Teodoras.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Iš Podolės Karijotaičių paminėtini Jurgis († 1374),
@@ -215,7 +219,38 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-008
+  santrauka: '1366 vasarą Kazimieras, remiamas Mozūrijos Ziemovito ir Karijotaičių Jurgio ir Aleksandro, su kuriais Liubartas buvo suėjęs į konfliktą, padarė žygį.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    1366 vasarą Kazimieras, remiamas Mozūrijos Ziemovito ir
+    Karijotaičių Jurgio ir Aleksandro, su kuriais Liubartas buvo suėjęs
+    į konfliktą, padarė žygį. Tada Kęstutis buvo užimtas kovomis
+    su ordinu, o Algirdas ruošėsi žygiui į Maskvą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Karijotas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Liubartas]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/vietos/Mozūrija]]
+- [[objektai/asmenys/Ziemovitas]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/vietos/Bakota]]
+- [[objektai/vietos/Bakotos pilis]]
+- [[objektai/vietos/Kameneco pilis]]
+- [[objektai/paprociai/Podolės žemės duoklės davimas Ordos baskakams per paskirtus atamanus]]
+- [[objektai/vietos/Smotričo pilis]]
+- [[objektai/vietos/Smotryč]]
+- [[objektai/asmenys/Spytkas iš Melsztyno]]
+- [[objektai/daiktai/Vytauto vėliava]]
+- [[objektai/zodynas/atamanas]]
+- [[objektai/zodynas/baskakas]]

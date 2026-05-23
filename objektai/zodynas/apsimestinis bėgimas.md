@@ -70,3 +70,7 @@ Pagal Dlugošo kroniką, lietuvių pasitraukimas, esą, reiškęs bėgimą^25. �
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]

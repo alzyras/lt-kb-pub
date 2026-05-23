@@ -41,3 +41,7 @@ Jonas XXII sugebėjo sudominti popiežių Joną XXII, kuris jau tais laikais kė
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/unija]]

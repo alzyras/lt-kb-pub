@@ -70,5 +70,7 @@ Vakarų Europos dviašmenis kalavijas, Baltų kovų brolijos „Vilkatlakai“ r
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/daiktai/Dviašmenis kalavijas]]
+- [[objektai/vietos/Europa]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Tik Lietuvai būdingi dvinariai žąslai su skersinukais]]

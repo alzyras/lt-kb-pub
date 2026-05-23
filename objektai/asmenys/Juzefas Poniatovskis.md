@@ -44,4 +44,10 @@ LDK kariuomenė turėjo daug sunkumų su karo vadais (kitaip nei Lenkijos kariuo
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Brasta]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/grupes/Lenkijos kariuomenė]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/vietos/Varšuva]]
+- [[objektai/vietos/Ukraina]]
 - [[objektai/ivykiai/Brastos pasipriešinimas 1792 m. kare]]

@@ -40,3 +40,16 @@ Uždarytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai prit
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Kaunas]]
+- [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis|Mikalojus Konstantinas Čiurlionis (dailininkas)]]
+- [[objektai/vietos/Pažaislis]]
+- [[objektai/asmenys/Steponas Batoras]]
+- [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
+- [[objektai/grupes/Vilniaus universitetas]]
+- [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.)]]
+- [[objektai/vietos/Kauno įgulos bažnyčia]]
+- [[objektai/vietos/Pažaislio vienuolynas]]
+- [[objektai/vietos/Visų Šventųjų bažnyčia]]

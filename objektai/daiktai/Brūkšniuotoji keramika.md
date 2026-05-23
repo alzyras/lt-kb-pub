@@ -54,6 +54,10 @@ Nenurodyta
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Danilaitė domėjosi brūkšniuotąja keramika Lietuvoje (AkMD, t.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -74,7 +78,25 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-002
+  santrauka: 'Danilaitė domėjosi brūkšniuotąja keramika Lietuvoje (AkMD, t.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    E. Danilaitė domėjosi brūkšniuotąja keramika
+    Lietuvoje (AkMD, t. 17, 1964, 23-38 p. ; t. 21, 1966, 111-124 p.;
+    t. 23, 1967, 35-48 p.; t. 26, 1968, 41-56 p.)^103.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/E. Danilaitė]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/autoriai/E. Radzvilovaitė]]
+- [[objektai/daiktai/Geležiniai įrankiai]]
+- [[objektai/grupes/LTSR Mokslų Akademijos Istorijos Institutas]]

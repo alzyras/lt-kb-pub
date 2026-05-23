@@ -109,3 +109,13 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/simbolis]]
+
+### Susiję objektai
+- [[objektai/vietos/Barselona]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Lietuvos vyrų krepšinio rinktinė]]
+- [[objektai/grupes/Tarptautinis olimpinis komitetas]]
+- [[objektai/paprociai/Lietuvos sportininkų atsisakymas dalyvauti SSRS rinktinėse ir atstovavimas Lietuvai]]
+- [[objektai/ivykiai/Lietuvos tautinio olimpinio komiteto tarptautinių teisių atkūrimas (1991 m. rugpjūtis)]]
+- [[objektai/grupes/Lietuvos tautinis olimpinis komitetas]]

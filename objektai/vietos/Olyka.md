@@ -47,4 +47,12 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Biržai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Livonija]]
 - [[objektai/vietos/Nesvyžius]]
+- [[objektai/vietos/Viena]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/seniūnas]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/vietos/Voluinė]]

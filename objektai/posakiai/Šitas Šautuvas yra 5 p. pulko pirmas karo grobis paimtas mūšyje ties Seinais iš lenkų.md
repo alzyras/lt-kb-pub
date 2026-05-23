@@ -58,3 +58,10 @@ Užrašas ant pritvirtintos prie buožės lentelės: „Šitas Šautuvas yra 5 p
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Artilerija]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Marijampolė]]
+- [[objektai/zodynas/karo grobis]]

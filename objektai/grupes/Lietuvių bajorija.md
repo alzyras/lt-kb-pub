@@ -53,6 +53,10 @@ Lenkų ponų taryba Radome davė garantiją, kaip lietuv. Šiaip ar taip kalbant
     - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: 'Pagaliau dar pastebėtina, kad Vytauto laikais Lietuvos ba­ jorija ne tik išėjo į viešąjį gyvenimą, kaip nauja socialė jėga, ji dar įgijo naujų savybių.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -131,8 +135,28 @@ Lenkų ponų taryba Radome davė garantiją, kaip lietuv. Šiaip ar taip kalbant
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Pagaliau dar pastebėtina, kad Vytauto laikais Lietuvos ba­ jorija ne tik išėjo į viešąjį gyvenimą, kaip nauja socialė jėga, ji dar įgijo naujų savybių.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Pagaliau dar pastebėtina, kad Vytauto laikais Lietuvos ba­
+    jorija ne tik išėjo į viešąjį gyvenimą, kaip nauja socialė jėga, ji
+    dar įgijo naujų savybių. Ji gavo europeiško nobiliteto pažymius
+    — herbus ir nuo tų laikų palengva įgijo luomo savygarbos, at­
+    siskyrė nuo kitos visuomenės, iš visuomenės sluogsnio virto
+    luomu.
+    Žinoma mes negalime patikėti Dlugošu, kad iki 1413 met.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/paprociai/Bajorų dalyvavimas svarbiausių aktų sudaryme]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/luomas]]
+- [[objektai/zodynas/nobilitetas]]
 - [[objektai/zodynas/sankcija]]

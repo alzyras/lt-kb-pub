@@ -169,3 +169,27 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-008
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/asmenys/Aleksandras]]
+- [[objektai/asmenys/Aleksandras Gonsevskis]]
+- [[objektai/vietos/Krymas]]
+- [[objektai/grupes/Krymo totoriai]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Mykolas]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Smolenskas]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/asmenys/Vladislovas]]
+- [[objektai/asmenys/Vladislovas Vaza]]
+- [[objektai/zodynas/etmonas]]
+- [[objektai/zodynas/hetmonas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/vietos/Salaspilis]]

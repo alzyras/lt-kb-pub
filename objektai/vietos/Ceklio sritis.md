@@ -48,3 +48,12 @@ Vadinamoji Ceklio sritis, kuri priskiriama Kuršiams, siekė ir dešinįjį Vent
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/autoriai/A. Salys]]
+- [[objektai/vietos/Ceklis]]
+- [[objektai/grupes/Kuršiai]]
+- [[objektai/grupes/Sembai]]
+- [[objektai/vietos/Venta]]
+- [[objektai/grupes/Žemaičiai]]

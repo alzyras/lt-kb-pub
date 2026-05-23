@@ -73,3 +73,19 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/vietos/Prūsija]]
+- [[objektai/vietos/Sūduva]]
+- [[objektai/daiktai/Varpai]]
+- [[objektai/daiktai/Monetos]]
+- [[objektai/paprociai/Monetų kalimas ir pabūklų, varpų liejimas]]
+- [[objektai/paprociai/Vidaus kolonizacija Sūduvos giriose]]
+- [[objektai/zodynas/misijų teorija]]
+- [[objektai/zodynas/vidaus kolonizacija]]

@@ -7,15 +7,17 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
+  - '1917 m.'
   - '1936 m.'
   - '2026 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
   - 'modernioji Lietuva'
+  - 'naujieji laikai'
 amziai:
   - 'XX'
   - 'XXI'
-date_start: '1936'
+date_start: '1917'
 date_end: '2026'
 patikimumas: 'žemas'
 tags:
@@ -42,6 +44,10 @@ menės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimnazijose).
   teiginys: 'Nepriklausomybės šūkį toliau skleidė naujai sukurtoji Voroneže Aukščiausioji Visos Rusijos Lietuvių Tautos Taryba, kurią sudarė įvairių partijų atstovai, sušaukti į suvažiavimą trijų pasižymėjusių vyrų — Pr.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Maždaug 300 000 karo pabėgėlių ir darbo migrantų lietuvių buvo išsisklaidę didelėje Rusijos teritorijoje, tačiau Peterburge ir Voroneže susiformavo lietuvių centrai, kuriuose buvo lietuviškų laikraščių redakcijos, gimnazijos, jaunimas ruoštas sugrįžimui į.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -93,7 +99,27 @@ menės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimnazijose).
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Maždaug 300 000 karo pabėgėlių ir darbo migrantų lietuvių buvo išsisklaidę didelėje Rusijos teritorijoje, tačiau Peterburge ir Voroneže susiformavo lietuvių centrai, kuriuose buvo lietuviškų laikraščių redakcijos, gimnazijos, jaunimas ruoštas sugrįžimui į.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Maždaug 300 000 karo pabėgėlių ir darbo migrantų lietuvių buvo išsi-
+    sklaidę didelėje Rusijos teritorijoje, tačiau Peterburge ir Voroneže susi-
+    formavo lietuvių centrai, kuriuose buvo lietuviškų laikraščių redakcijos,
+    gimnazijos, jaunimas ruoštas sugrįžimui į Lietuvą. Rusijos revoliucija,
+    caro nuvertimas sudarė geresnes galimybes lietuvių veiklai, tačiau poli-
+    tiškai jie skilo: kai 1917 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Peterburgas]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/grupes/Aukščiausioji Visos Rusijos Lietuvių Tautos Taryba]]

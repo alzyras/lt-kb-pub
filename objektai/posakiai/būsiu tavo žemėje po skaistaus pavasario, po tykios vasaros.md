@@ -60,3 +60,10 @@ Formulė perteikia Maskvos didžiojo kunigaikščio grasinimą Algirdui, perduot
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/zodynas/supremus dux ir magnus dux]]

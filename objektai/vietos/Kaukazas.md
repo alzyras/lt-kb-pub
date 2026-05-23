@@ -51,4 +51,7 @@ Jos nešėjai indoeuropiečiai nebuvo Europoje autochtonai, nes jie buvo atke­ 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Europa]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Ukraina]]
 - [[objektai/vietos/Pietų Rusija]]

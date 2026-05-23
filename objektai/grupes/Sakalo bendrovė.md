@@ -53,3 +53,5 @@ Sležas ##### KAUNAS, 1930 — VYTAUTO DIDŽIOJO — METAI ###### „SAKALO“ B
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/A. Alekna]]
+- [[objektai/autoriai/S. Daukantas]]
+- [[objektai/zodynas/monografija]]

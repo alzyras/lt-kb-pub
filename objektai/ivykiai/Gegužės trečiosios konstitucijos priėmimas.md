@@ -54,6 +54,10 @@ Nenurodyta
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Kartais abejojama, ar Gegužės trečioji yra ir Lietuvos valdymo įstatymas.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -81,3 +85,29 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Kartais abejojama, ar Gegužės trečioji yra ir Lietuvos valdymo įstatymas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kartais abejojama, ar Gegužės trečioji yra ir Lietuvos valdymo įstaty-
+    mas. Keista, nes ja vykdoma ne tik ,,Lenkijos pertvarka“. Konstitucijoje
+    yra rašoma daugiskaita apie „Respublikos valstybes“, t. y. turima omenyje
+    ir Lietuva. Nepaisant visų unitarinių tendencijų, konstitucijos teksto III ir
+    IV skyriuose juodu ant balto parašyta ,,Respublikos valstybės“ – Lenkija
+    ir Lietuva. Minimi ne tik bendri valdovai, bet ir Lietuvos didysis kuni-
+    gaikštis Vytautas ir jo privilegijos Lietuvos bajorams.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/konstitucijos]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

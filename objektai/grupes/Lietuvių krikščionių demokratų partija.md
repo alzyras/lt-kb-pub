@@ -79,3 +79,7 @@ Lietuvos visuomenė dar nebuvo politiškai susipratusi.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/ivykiai/Steigiamojo Seimo rinkimai ir pirmasis posėdis (1920 m.)]]

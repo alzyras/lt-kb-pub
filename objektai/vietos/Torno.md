@@ -49,6 +49,10 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
   teiginys: 'Torno taika Ordinui buvo nepaprastai lengva.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'Atvykę prie Torno pilies, kur buvo užsidaręs pats didysis magistras, jiedu 1411.II.1 d. padarė taiką.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -112,7 +116,40 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Atvykę prie Torno pilies, kur buvo užsidaręs pats didysis magistras, jiedu 1411.II.1 d. padarė taiką.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Atvykę prie Torno pilies, kur buvo užsidaręs
+    pats didysis magistras, jiedu 1411.II.1 d. padarė taiką.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Breslavas]]
+- [[objektai/posakiai/Grünwaldo pergalės atsisakymas]]
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/vietos/Karaliaučius]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Loebau]]
+- [[objektai/vietos/Podolija]]
+- [[objektai/vietos/Podolė]]
+- [[objektai/daiktai/Sienodaužiai]]
+- [[objektai/vietos/Tanenbergas]]
+- [[objektai/vietos/Tannenbergas]]
 - [[objektai/vietos/Tornas]]
+- [[objektai/ivykiai/Torno taika (1411 m.)]]
+- [[objektai/asmenys/Ulrichas von Jungingenas]]
+- [[objektai/grupes/Vokietijos kunigaikščiai]]
+- [[objektai/ivykiai/Žemaičių krikštas]]
+- [[objektai/zodynas/didysis magistras]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/vietos/Elbingas]]
+- [[objektai/vietos/Marijenburgas]]
+- [[objektai/vietos/Varmijos vyskupystė]]

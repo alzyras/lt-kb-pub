@@ -53,3 +53,8 @@ Vienas iš jų pasakė: „Jūsų Karališkoji Didenybe, greičiau išvysite Dau
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Dauguva]]
+- [[objektai/vietos/Ryga]]

@@ -94,5 +94,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Krokuva]]
+- [[objektai/vietos/Viena]]
 - [[objektai/asmenys/Baptista Cigala]]
-- [[objektai/paprociai/Karaliaus vainikavimo ir patepimo apeigos pagal ordines]]

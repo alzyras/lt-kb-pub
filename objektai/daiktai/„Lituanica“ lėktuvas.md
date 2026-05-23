@@ -73,3 +73,12 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Niujorkas]]
+- [[objektai/asmenys/Steponas]]
+- [[objektai/daiktai/„Pienocentro“ pastatas Kaune]]
+- [[objektai/asmenys/Stasys Girėnas]]

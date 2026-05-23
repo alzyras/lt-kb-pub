@@ -57,4 +57,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Mikalojus (Gniezno arkivyskupas)]]
 - [[objektai/vietos/Nesvyžius]]
+- [[objektai/vietos/Polockas]]
+- [[objektai/asmenys/Steponas Batoras]]

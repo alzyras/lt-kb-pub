@@ -58,5 +58,13 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Auksinė Orda]]
+- [[objektai/vietos/Luckas]]
+- [[objektai/vietos/Pskovas]]
+- [[objektai/vietos/Smolenskas]]
+- [[objektai/zodynas/chanas]]
+- [[objektai/vietos/Odojevas]]
+- [[objektai/vietos/Riazanė]]
+- [[objektai/grupes/Totoriai]]
 - [[objektai/grupes/Užvolgio totoriai]]
 - [[objektai/ivykiai/Užvolgio totorių sumušimas ir Machmeto iškėlimas į Aukso Ordos chanus (1424 m.)]]

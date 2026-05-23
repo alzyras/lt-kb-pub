@@ -37,6 +37,10 @@ tags:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Gardine išleista privilegija nurodė statyti a i miesto gynybinę mūro sieną ## Puslapis 79 Nuo 1466 m. ry Vakarų Prūsija ir Varmė buvo prijungtos tiesiogiai prie Lenkijos.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -77,10 +81,49 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Gardine išleista privilegija nurodė statyti a i miesto gynybinę mūro sieną ## Puslapis 79 Nuo 1466 m. ry Vakarų Prūsija ir Varmė buvo prijungtos tiesiogiai prie Lenkijos.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Gardine išleista privilegija nurodė statyti
+
+    a i miesto gynybinę mūro sieną
+
+    ## Puslapis 79
+
+    Nuo 1466 m. ry
+    Vakarų Prūsija ir
+    Varmė buvo pri-
+    jungtos tiesiogiai
+    prie Lenkijos.
+
+    —
+    -
+    — Ū
+    pes
+
+    6 Palanga
+
+    Klaipe
+
+    KARALIAU C /
+
+    D.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/aktas]]
 
 ### Susiję objektai
+- [[objektai/vietos/Gardinas]]
+- [[objektai/vietos/Palanga]]
+- [[objektai/vietos/Prūsija]]
 - [[objektai/vietos/Vakarų Prūsija]]
+- [[objektai/vietos/Lenkija]]

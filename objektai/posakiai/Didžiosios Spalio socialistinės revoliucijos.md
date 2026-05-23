@@ -58,3 +58,7 @@ To tomo uždavinys yra parodyti, kaip «Didžiosios Spalio socialistinės revoli
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/aktas]]
+
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]

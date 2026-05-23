@@ -61,5 +61,7 @@ Nenurodyta
 - [[temos/pinigai]]
 
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/litas]]
 - [[objektai/ivykiai/Valiutų valdybos modelio pradėjimas ir lito susiejimas su JAV doleriu (1994 m. kovo 1 d.)]]
 - [[objektai/zodynas/Valiutų valdybos modelis]]

@@ -100,4 +100,8 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kuršas]]
+- [[objektai/vietos/Drezdenas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Saksonija]]
+- [[objektai/ivykiai/Šiaurės karas]]
+- [[objektai/grupes/Švedai]]

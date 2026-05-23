@@ -115,3 +115,13 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Jotvingiai]]
+- [[objektai/vietos/Jotvingija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/daiktai/Vaškas]]
+- [[objektai/vietos/Viena]]
+- [[objektai/zodynas/statutas]]

@@ -10,13 +10,18 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1917 m.'
+  - '1918 m.'
   - '1919 m.'
   - '1920 m.'
   - '1923 m.'
   - '1926 m.'
   - '1927 m.'
   - '1928 m.'
+  - '1930 m.'
   - '1931 m.'
+  - '1934 m.'
+  - '1936 m.'
+  - '1937 m.'
   - '1938 m.'
   - '1939 m.'
   - '1940 m.'
@@ -148,6 +153,42 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-018
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-019
+  teiginys: 'Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui Georgui fon Hertlingui (Georg von Hertling), ir tą pačią dieną Vokietijos kaizeris Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomybę, bet pažymėjo, kad.'
+  pagrindžia:
+    - c-019
+- t-020
+  teiginys: '1918 m. lapkričio 2 d. Antanas Smetona buvo Tarybos prezidiumo pirmininkas, o prezidiumas su ministrų kabinetu sudarė vykdomąją valdžią.'
+  pagrindžia:
+    - c-020
+- t-021
+  teiginys: 'Smetona skubiai išvyko į Berlyną, kur pasirašė 100 mln.'
+  pagrindžia:
+    - c-021
+- t-022
+  teiginys: 'Smetona iš balkono sveikino minias.'
+  pagrindžia:
+    - c-022
+- t-023
+  teiginys: 'Smetonos portretai, vykdavo kariuomenės paradai, inscenizuotos eitynės miestų gatvėmis, vaidinami spektakliai, užsienio svečiams rengiami pokyliai.'
+  pagrindžia:
+    - c-023
+- t-024
+  teiginys: 'Smetona užvėrė duris kompromisui.'
+  pagrindžia:
+    - c-024
+- t-025
+  teiginys: 'Smetonai artimas asmuo – kun. Vladas Mironas.'
+  pagrindžia:
+    - c-025
+- t-026
+  teiginys: 'Prezidentas Antanas Smetona Klaipėdos nacių teismo mirties bausmę netrukus pakeitė kalėjimu iki gyvos galvos.'
+  pagrindžia:
+    - c-026
+- t-027
+  teiginys: 'Smetona leido jam pasirašyti bet kokias sutartis, kad tik jos nepažeistų 1939 m. spalio 10 d. sutarties.'
+  pagrindžia:
+    - c-027
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -475,13 +516,183 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-018
+- c-019
+  santrauka: 'Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui Georgui fon Hertlingui (Georg von Hertling), ir tą pačią dieną Vokietijos kaizeris Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomybę, bet pažymėjo, kad.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo na-
+    cijos laisvės ir suverenumo simboliu, Lietuvos Nepriklausomybės diena,
+    davė pradžią tikrai Lietuvos nepriklausomybei, pagaliau aiškiai pasakant,
+    kur Taryba veda Lietuvą. Kovo 23 dieną Berlyne A. Smetonos vadovau-
+    jama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui
+    Georgui fon Hertlingui (Georg von Hertling), ir tą pačią dieną Vokietijos
+    kaizeris Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomy-
+    bę, bet pažymėjo, kad nustatomi glaudūs Lietuvos ir Vokietijos ryšiai…
+    gruodžio 11-osios rezoliucijos pagrindu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019
+- c-020
+  santrauka: '1918 m. lapkričio 2 d. Antanas Smetona buvo Tarybos prezidiumo pirmininkas, o prezidiumas su ministrų kabinetu sudarė vykdomąją valdžią.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1918 m. lapkričio 2 d. Taryba priėmė Laikinąją konstituciją, pati pagal
+    ją tapdama įstatymų leidimo organu, o Tarybos prezidiumas (pirminin-
+    kas A. Smetona ir du vicepirmininkai Justinas Staugaitis ir S. Šilingas)
+    drauge su ministrų kabinetu sudarė vykdomąją valdžią.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020
+- c-021
+  santrauka: 'Smetona skubiai išvyko į Berlyną, kur pasirašė 100 mln.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuvių problema buvo ta, kad 1918 m. gruodžio pabaigoje artėjant prie
+    Vilniaus Rau­donajai armijai, A. Voldemaro vyriausybė neturėjo ginkluo-
+    tųjų pajėgų. 1918 m. gruo­džio 21 d. A. Smetona skubiai išvyko į Berlyną,
+    kur pasirašė 100 mln. markių paskolą ginklams įsigyti. Vokietija pateikė
+    ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antantės šalių
+    reikalavimu, leido panaudoti savo dalinius stabdant bolševizmą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-021
+- c-022
+  santrauka: 'Smetona iš balkono sveikino minias.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Britams rodant iniciatyvą palaikyti Lietuvą, jų dėka įvyko pirmos ma-
+    sinės džiaugsmo manifestacijos – 1919 m. rugsėjo 26 d. gavus žinią, kad
+    Didžioji Britanija oficialiai pripažino de facto Lietuvą, tūkstančiai žmonių
+    susirinko prie laikinosios sostinės Kauno rotušės. Laikraščiai rašė, kad to-
+    kių minių Kaunas neregėjo penkis šimtmečius, danguje skraidė lėktuvai,
+    tempdami Lietuvos trispalvę, žmonės džiūgavo, prezidentas A. Smetona
+    iš balkono sveikino minias.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-022
+- c-023
+  santrauka: 'Smetonos portretai, vykdavo kariuomenės paradai, inscenizuotos eitynės miestų gatvėmis, vaidinami spektakliai, užsienio svečiams rengiami pokyliai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Nuo 1930 m. rugsėjo 8 dieną švęsta ypatinga Tautos šventė (neįvykusio
+    Vytauto karūnavimo ir Švenčiausiosios Mergelės Marijos gimimo diena):
+    valstybines įstaigas papuošdavo dideli Vytauto Didžiojo ir A.  Smetonos
+    portretai, vykdavo kariuomenės paradai, inscenizuotos eitynės miestų ga-
+    tvėmis, vaidinami spektakliai, užsienio svečiams rengiami pokyliai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-023
+- c-024
+  santrauka: 'Smetona užvėrė duris kompromisui.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Užmegzti ryšiai su Lenkijos užsienio reikalų ministru Juzefu Beku (Józef
+    Beck) nieko gero nedavė: 1936 m. sausį J. Bekas savo kalboje išplūdo Lie-
+    tuvą, o kovo mėn. Kaune atsakomąja kalba A. Smetona užvėrė duris kom-
+    promisui.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-024
+- c-025
+  santrauka: 'Smetonai artimas asmuo – kun. Vladas Mironas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Priėmus Lenkijos ultimatumą atsistatydino J. Tūbelio ministrų kabi-
+    netas, premjerą pakeitė kitas A. Smetonai artimas asmuo – kun. Vladas
+    Mironas. Jis atleido S. Lozoraitį, kurio linija pralaimėjo, nors Lietuvos
+    valdžia stengėsi parodyti, kad iš esmės nieko neįvyko. Besąlyginis ulti-
+    matumo priėmimas realiai konsolidavo A. Smetonos valdymo opozicines
+    jėgas – prasidėjo krikščionių demokratų ir valstiečių liaudininkų „ašies“
+    lyderių pasitarimai dėl bendros programos parengimo, prie jų dėjosi ir
+    ultraradikalieji voldemarininkai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-025
+- c-026
+  santrauka: 'Prezidentas Antanas Smetona Klaipėdos nacių teismo mirties bausmę netrukus pakeitė kalėjimu iki gyvos galvos.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Nacių Vokietija dėl proceso darė didžiulį politinį ir ekonominį spaudi-
+    mą mažai kaimynei, todėl prezidentas A. Smetona mirties bausmę netru-
+    Klaipėdos nacių teismas Kaune (1934 m. gruodis)
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    181
+    kus pakeitė kalėjimu iki gyvos galvos, o 1937 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-026
+- c-027
+  santrauka: 'Smetona leido jam pasirašyti bet kokias sutartis, kad tik jos nepažeistų 1939 m. spalio 10 d. sutarties.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tai rodė,
+    jog Maskva kaltinimais siekia toli einančių tikslų, be to, pakvietė atvykti
+    Lietuvos ministrą pirmininką A. Merkį. Grėsmės akivaizdoje prezidentas
+    A. Smetona leido jam pasirašyti bet kokias sutartis, kad tik jos nepažeistų
+    1939 m. spalio 10 d. sutarties.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-027
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/redaktorius]]
 
 ### Susiję objektai
-- [[objektai/ivykiai/1938 m. Lietuvos Konstitucijos paskelbimas (1938 m. gegužės 12 d.)]]
-- [[objektai/ivykiai/Žydų ministro be portfelio posto panaikinimas (1923 m.)]]
-- [[objektai/posakiai/„Demokratija Lietuvoje ... tai nupirkti per dideli batai vaikams“]]
-- [[objektai/posakiai/„teritoriniai patriotai“]]
+- [[objektai/grupes/Antantė]]
+- [[objektai/vietos/Berlynas]]
+- [[objektai/vietos/Didžioji Britanija]]
+- [[objektai/vietos/Kaunas]]
+- [[objektai/ivykiai/Klaipėdos nacių teismas Kaune (1934 m. liepa - 1935 m. kovas)]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/grupes/Nacių Vokietija]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/vietos/Vokietija]]
+- [[objektai/grupes/Voldemarininkai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/posakiai/Iki gyvos Vytauto ir Jogailos galvos]]
+- [[objektai/ivykiai/III Seimo paleidimas (1927 m. balandžio 12 d.)]]
+- [[objektai/daiktai/Kino kronikos kameros]]
+- [[objektai/vietos/Klivlandas]]
+- [[objektai/grupes/Lietuvos Taryba]]
+- [[objektai/daiktai/Vytauto Didžiojo ir A. Smetonos portretai Tautos šventės metu]]

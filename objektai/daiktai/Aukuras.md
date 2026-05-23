@@ -101,3 +101,15 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/simbolis]]
+
+### Susiję objektai
+- [[objektai/asmenys/Birutė]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/daiktai/Dievų stabai]]
+- [[objektai/paprociai/Išeiginės aukos per metines viešes]]
+- [[objektai/autoriai/Józef Wolff]]
+- [[objektai/zodynas/Romuva ir krivis]]
+- [[objektai/paprociai/Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas]]
+- [[objektai/daiktai/Torielius]]

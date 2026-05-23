@@ -47,3 +47,5 @@ Lietuvių kalba geriausiai iš visų gyvųjų indoeuropiečių kalbų išlaikė 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Antuanas Mejė]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/pagonybė]]

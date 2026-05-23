@@ -72,3 +72,13 @@ Radomo konfederacijos ir 1768 m. seimo metu Repninas jau perdaug aiškiai išėj
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Radomas]]
+- [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/konfederacija]]
+- [[objektai/ivykiai/Baro konfederacija (1768–1772 m.)]]
+- [[objektai/ivykiai/Bezdežo (Antopolio) mūšis (1771 m.)]]
+- [[objektai/vietos/Rusija]]

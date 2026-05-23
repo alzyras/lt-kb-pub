@@ -41,3 +41,10 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Berlynas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Laikinoji vyriausybė]]
+- [[objektai/ivykiai/Laikinosios vyriausybės sudarymas (1941 m. birželio 23 d.)]]

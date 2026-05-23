@@ -62,4 +62,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Albertas]]
+- [[objektai/asmenys/Kristijonas|Kristijonas (vyskupas)]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Dobrinės ordinas]]

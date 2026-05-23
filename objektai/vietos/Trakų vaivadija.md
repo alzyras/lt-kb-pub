@@ -84,4 +84,13 @@ Krašto padalinimas į pavietus ir vaivadijas.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Aukštaičiai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/vietos/Nevėžis]]
+- [[objektai/vietos/Trakai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/zodynas/seniūnija]]
 - [[objektai/vietos/Žemaičių seniūnija]]

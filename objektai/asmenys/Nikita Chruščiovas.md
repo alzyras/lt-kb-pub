@@ -62,3 +62,8 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Chruščiov
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/SSRS]]
+- [[objektai/zodynas/rusinimas]]

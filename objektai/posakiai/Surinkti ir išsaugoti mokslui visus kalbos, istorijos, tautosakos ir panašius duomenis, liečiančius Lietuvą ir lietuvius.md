@@ -70,3 +70,9 @@ Draugija savo statuto . 1 įsirašė šitokį darbo tikslą: „Surinkti ir išs
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/statutas]]

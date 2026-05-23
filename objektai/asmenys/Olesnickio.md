@@ -50,3 +50,10 @@ Savo mokytojo Olesnickio įtakoje Dlugošas yra neteisingai suvedęs Vytauto vai
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/asmenys/Zbignievo Olesnickio]]

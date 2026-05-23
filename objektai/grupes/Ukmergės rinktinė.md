@@ -59,3 +59,11 @@ Po mūšio Kadangi Ukmergės rinktinė buvo per daug išsiveržusi į priekį, k
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Panevėžio rinktinė]]
+- [[objektai/vietos/Ukmergė]]
+- [[objektai/vietos/Utena]]
+- [[objektai/vietos/Rokiškis]]

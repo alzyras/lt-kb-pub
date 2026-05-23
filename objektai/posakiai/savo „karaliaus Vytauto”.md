@@ -50,3 +50,10 @@ Kryžiuočių akyse Vytauto prestižas turėjo taip pat pakilti, nes jiems buvo 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Žemaičiai]]

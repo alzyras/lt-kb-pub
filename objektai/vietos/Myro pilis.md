@@ -41,3 +41,9 @@ Gotikinių LDK cerkvių stilius turi analogų ir rezidencijų architektūroje (M
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/gotika]]
+- [[objektai/vietos/Myras]]
+- [[objektai/vietos/Nesvyžius]]

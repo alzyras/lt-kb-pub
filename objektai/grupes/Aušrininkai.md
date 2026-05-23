@@ -52,3 +52,10 @@ Aušrininkai šiame šaltinyje apibūdinami kaip romantiškai nusiteikusi lietuv
   pagrindžia:
     - t-003
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/J. Basanavičius]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/tautinis atgimimas]]
+- [[objektai/autoriai/S. Daukantas]]

@@ -63,6 +63,14 @@ Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo toto
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: 'Jomis įsakoma dar intensyviau skelbti kryžiaus karus prieš pagonis.'
+  pagrindžia:
+    - c-002
+- t-006
+  teiginys: 'Tokiu atveju būtų buvę liautasi prieš lietuvius skelbti kryžiaus karus.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -80,8 +88,40 @@ Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo toto
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+- c-002
+  santrauka: 'Jomis įsakoma dar intensyviau skelbti kryžiaus karus prieš pagonis.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Jomis įsakoma dar intensyviau skelbti
+    kryžiaus karus prieš pagonis. Vienoje bulėje sakoma, jog netikėliai
+    esą nužudę beveik 500 kryžiuočių^155.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-003
+  santrauka: 'Tokiu atveju būtų buvę liautasi prieš lietuvius skelbti kryžiaus karus.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Tokiu atveju būtų
+    buvę liautasi prieš lietuvius skelbti kryžiaus karus. Santykiai su
+    ordinu, o vėliau ir kaimynine karalyste Lenkija, butų kitaip susi­
+    dėstę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/karinis-terminas]]
 - [[temos/religinis-terminas]]
+
+### Susiję objektai
+- [[objektai/vietos/Viena]]

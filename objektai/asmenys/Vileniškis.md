@@ -46,3 +46,7 @@ Priedangai buvo paliktas jaunesnysis leitenantas Vileniškis su keliais kulkosva
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]

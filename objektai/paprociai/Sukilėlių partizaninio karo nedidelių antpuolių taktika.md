@@ -78,3 +78,13 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/asmenys/Zigmantas Sierakauskas]]
+- [[objektai/zodynas/gubernija]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Antanas Mackevičius]]
+- [[objektai/zodynas/kunigas]]

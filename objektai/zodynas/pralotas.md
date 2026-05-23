@@ -51,3 +51,8 @@ Užsitęsusio karo metu mirė vyskupas ir daugy bė pralotų; drauge su jais žu
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Rusai]]
+- [[objektai/vietos/Vigrai]]

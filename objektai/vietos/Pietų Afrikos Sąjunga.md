@@ -39,3 +39,8 @@ sudarė žydai, vykę į Palestiną, Pietų Afrikos Sąjungą ir JAV.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Afrika]]
+- [[objektai/vietos/Lietuva]]

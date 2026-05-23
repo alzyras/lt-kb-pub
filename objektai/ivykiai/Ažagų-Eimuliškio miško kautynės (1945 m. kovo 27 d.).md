@@ -154,5 +154,13 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/NKVD]]
+- [[objektai/grupes/Rytas]]
+- [[objektai/vietos/Viena]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/vietos/Žalioji giria]]
+- [[objektai/autoriai/Dalius Žygelis]]
+- [[objektai/vietos/Kiauneliškiai]]
+- [[objektai/autoriai/Ričardas Čekutis]]
 - [[objektai/vietos/Jokubavo miškas]]
 - [[objektai/vietos/Pakruojis]]

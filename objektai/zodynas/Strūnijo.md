@@ -75,5 +75,6 @@ Vartojamos formos: `strūnijo ar dailidavo`.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Kalnėnai]]
 - [[objektai/paprociai/Savarankiškas ūkio ir namų dirbinių gaminimas]]
 - [[objektai/daiktai/Ūkio įrankiai]]

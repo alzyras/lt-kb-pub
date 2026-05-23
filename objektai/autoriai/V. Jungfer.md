@@ -54,3 +54,10 @@ Jungfer : Alt-Litauen , 1926).
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kalnėnai]]
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Krokuva]]
+- [[objektai/grupes/Lietuviai]]

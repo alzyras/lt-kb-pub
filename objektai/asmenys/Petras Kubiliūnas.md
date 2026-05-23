@@ -40,3 +40,8 @@ Petro Kubiliūno vadovaujamas dalinių išvedimas į Kauno gatves buvo pavojingi
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Kaunas]]
+- [[objektai/zodynas/vadybos]]

@@ -72,6 +72,10 @@ Nenurodyta
   teiginys: 'Neifalta-Lakūnas per Kalniškės mūšį nežuvo ir žuvo apie 1946 m.'
   pagrindžia:
     - c-003
+- t-008
+  teiginys: '„Lakūną“ po Kalniškės mūšio mačiau ne kartą savo akimis.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -127,3 +131,30 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-004
+  santrauka: '„Lakūną“ po Kalniškės mūšio mačiau ne kartą savo akimis.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Kautynių metu žuvo Neifalto-Lakūno žmona, partizanė slapyvardžiu „Pušelė“. Bet pats
+    Neifalta-Lakūnas tikrai nežuvo, kaip kad daug kur rašoma. „Lakūną“ po Kalniškės mūšio
+    mačiau ne kartą savo akimis. Žuvo jis apie 1946 m., kūnas buvo numestas ant grindinio
+    Krosnoje. Tuo metu aš jau buvau suimtas...“
+
+    Mūšis
+
+    220-ojo pasienio pulko kariai apsupo
+    Kalniškės mišką, kuriame buvo įrengta
+    partizanų stovykla.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/autoriai/Dalius Žygelis]]
+- [[objektai/vietos/Kiauneliškiai]]
+- [[objektai/autoriai/Ričardas Čekutis]]

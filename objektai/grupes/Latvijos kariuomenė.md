@@ -53,4 +53,7 @@ ORiebiniai 1920 m. sausio pradžioje Latvijos ir LenkiJos kariuomenės išstūm�
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Latvija]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/vietos/Daugpilis]]
+- [[objektai/vietos/Lenkija]]

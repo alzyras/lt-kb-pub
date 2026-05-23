@@ -41,3 +41,7 @@ Prasidėjus mūšiui, lietuvius užgriuvo stipresniojo, Ordino svečių ir samdi
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/komtūras]]

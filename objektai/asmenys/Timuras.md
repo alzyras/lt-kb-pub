@@ -72,3 +72,9 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/chanas]]
+- [[objektai/ivykiai/Vorsklos mūšis]]
+- [[objektai/daiktai/Vytauto ženklas]]

@@ -54,3 +54,9 @@ Ant Volokolamsko tilto buvo mirtinai (lietuvio ietimi) sužeistas kunigaikštis 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/vietos/Maskva]]

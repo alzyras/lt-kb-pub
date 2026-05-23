@@ -48,4 +48,10 @@ Lenkijos ir Lietuvos sostuose sėdėjo lietuviškos kilmės Jogailaičių dinast
 - [[temos/dinastija]]
 
 ### Susiję objektai
+- [[objektai/vietos/Europa]]
+- [[objektai/grupes/Jogailaičių dinastija]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Vengrija]]
+- [[objektai/vietos/Čekija]]
 - [[objektai/posakiai/„jogailaičių Europa“ „krikščionybės forpostas“]]

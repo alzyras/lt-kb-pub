@@ -13,16 +13,17 @@ saltiniai:
   - "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean"
 bukle: "juodrastis"
 laikotarpis: ""
-datos:
-  - "1561 m."
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1561 m.'
+periodas: ''
+periodo_grupes: []
+amziai:
+  - 'XVI'
+date_start: '1561'
+date_end: ''
 patikimumas: "aukstas"
 tags: []
 ---
@@ -77,12 +78,11 @@ tags: []
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
 - t-012
-  teiginys: 'Žemaičių jūra susiejama su lietuvių prekyba ir laivynu.'
+  teiginys: 'Per Žemaičių jūrą lietuvių prekyba padidėjo, o Lietuvos ūkės rėda ketino joje įkurti laivyną.'
   pagrindžia:
     - c-006
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   statusas: patvirtinta
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Žemaičių jūra per 1000 metų nuseko kelias uolektis.'
@@ -151,7 +151,7 @@ tags: []
   pagrindžia:
     - t-011
 - c-006
-  santrauka: 'Žemaičių jūra susiejama su lietuvių prekyba ir laivynu.'
+  santrauka: 'Per Žemaičių jūrą lietuvių prekyba padidėjo, o Lietuvos ūkės rėda ketino joje įkurti laivyną.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     pasidavus Padaugavio vokiečiams į lietuvių globą, jų prekyba per jūrą dar didinos taip, jog Lietuvos
@@ -165,7 +165,6 @@ tags: []
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-012
-
 ## Pastabos
 galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta kaip atskiras jūros vardas.
 

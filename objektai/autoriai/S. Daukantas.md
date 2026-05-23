@@ -11,6 +11,12 @@ vaidmenys:
   - 'istorikas'
   - 'rašytojas'
   - 'autorius'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'aukštas'
 tags:
   - autorius
@@ -48,6 +54,10 @@ S. Daukantas šiame šaltinyje minimas kaip istorikas, rašytojas; jam priskiria
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-007
+  teiginys: 'Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi, o M.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -100,3 +110,37 @@ S. Daukantas šiame šaltinyje minimas kaip istorikas, rašytojas; jam priskiria
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
+- c-004
+  santrauka: 'Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi, o M.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vilniuje ši knyga, kurios autorius tais pat metais
+    buvo paskirtas Telšių (Žemaičių) vyskupijos vyskupu (Vatikano patvir-
+    tintas po metų), išėjo lietuviškai-žemaitiškai nustebindama visus, kad
+    parašyta ne lenkiškai, kaip buvo įprasta. Romantikas S. Daukantas savo
+    veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi, o M. Valančius –
+    praktiško mąstymo ir politiškai išmintingas žmogus, neabejotinai buvo
+    europietiškos katalikiškos civilizacijos šalininkas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/paprociai/Lietuvių aukštosios kultūros kūrimas ir liaudies švietimas gimtąja kalba]]
+- [[objektai/grupes/Sakalo bendrovė]]
+- [[objektai/paprociai/Vyskupo M. Valančiaus lietuviški ir dvikalbiai pamokslai]]
+- [[objektai/posakiai/mokytiems vyrams išnagrinėti]]
+- [[objektai/grupes/Aušrininkai]]
+- [[objektai/zodynas/Lažas|lažas]]
+- [[objektai/zodynas/Meldžionys|meldžionys]]
+- [[objektai/zodynas/Rėda|rėda]]
+- [[objektai/zodynas/Vartavodamos|vartavodamos]]
+- [[objektai/zodynas/Vieža|vieža]]
+- [[objektai/zodynas/Vėlė|vėlė]]

@@ -39,6 +39,10 @@ Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo apjungti netgi visų 
   teiginys: 'Rugsėjo 22 d. „Gediminas“ susirėmė su lenkų artilerija už Punsko, prie Smalėnų miestelio.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Paskutinė federacijos su Lenkija galimybė Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo apjungti netgi visų etninių lietuvių žemių, kur lietuviai sudarė daugumą gyventojų – karinių susidūrimų su Lenkija metu buvo prarasti lietuviški Seinai ir Punskas.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -72,7 +76,28 @@ Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo apjungti netgi visų 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Paskutinė federacijos su Lenkija galimybė Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo apjungti netgi visų etninių lietuvių žemių, kur lietuviai sudarė daugumą gyventojų – karinių susidūrimų su Lenkija metu buvo prarasti lietuviški Seinai ir Punskas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Paskutinė federacijos su Lenkija galimybė
+    Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo
+    apjungti netgi visų etninių lietuvių žemių, kur lietuviai sudarė daugumą
+    gyventojų – karinių susidūrimų su Lenkija metu buvo prarasti lietuviš-
+    ki Seinai ir Punskas. Kovos su lenkais įgavo ne tik teritorinį, bet ir so-
+    cialinį atspalvį – 1920 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Smalėnai]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Seinai]]

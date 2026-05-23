@@ -183,6 +183,17 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Lietuvių aviacijos eskadrilė]]
+- [[objektai/grupes/Bolševikai]]
+- [[objektai/vietos/Kupiškis]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/asmenys/M. Katche]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Sovietų Rusija]]
+- [[objektai/vietos/Subačius]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Panevėžio rinktinė]]
-- [[objektai/vietos/Panevėžys]]
+- [[objektai/grupes/Lietuvių aviacijos eskadrilė]]

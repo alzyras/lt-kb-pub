@@ -58,7 +58,7 @@ Autorius aiškiai skiria proistorę nuo tikrosios istorijos ir laiko ją atskiru
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-007
-  teiginys: 'Lietuvos proistorei geriau pažinti padeda ten daromi gausus archeologiniai kasinėjimai bei tyrinėjimai.'
+  teiginys: 'Lietuvos proistorei geriau pažinti padėjo gausūs archeologiniai kasinėjimai ir tyrinėjimai.'
   pagrindžia:
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -82,7 +82,7 @@ Autorius aiškiai skiria proistorę nuo tikrosios istorijos ir laiko ją atskiru
   pagrindžia:
     - t-006
 - c-002
-  santrauka: 'Lietuvos proistorei geriau pažinti padeda ten daromi gausus archeologiniai kasinėjimai bei tyrinėjimai.'
+  santrauka: 'Lietuvos proistorei geriau pažinti padėjo gausūs archeologiniai kasinėjimai ir tyrinėjimai.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Apie jų darbų atranką ir metodą buvo rašyta aukščiau,
@@ -102,3 +102,7 @@ Autorius aiškiai skiria proistorę nuo tikrosios istorijos ir laiko ją atskiru
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/istorinė-sąvoka]]
+
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Zietela]]

@@ -76,4 +76,8 @@ Rugsėjo 24 d. lenkai užima Marcinkonis ir atkerta atsitraukimo kelią į šiau
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Druskininkai]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Nemunas]]
+- [[objektai/vietos/Varėna]]

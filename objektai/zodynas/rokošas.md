@@ -64,3 +64,12 @@ Lietuvoje tada tik ką buvo aprimęs karas su švedais, o Lenkijoje ėjo vidaus 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Dimitrijus (Voluinietis Karijotaitis)]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Daugavgryva]]
+- [[objektai/asmenys/Jonas Karolis Katkevičius]]
+- [[objektai/vietos/Paidė]]
+- [[objektai/vietos/Viljandis]]

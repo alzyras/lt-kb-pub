@@ -71,4 +71,9 @@ Lietuvos didysis etmonas Mykolas Kazimieras Oginskis į jų reikalavimus pasiai�
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Mykolas]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/asmenys/Kazimieras]]
 - [[objektai/posakiai/„įžen-gus į šalį svetimai kariuomenei į kraštą Respublikos kariuomenę rinkti“]]

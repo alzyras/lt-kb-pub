@@ -49,3 +49,7 @@ The history of Lithuania before 1795 / [translated by Irena Zujienė ...
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Viena]]

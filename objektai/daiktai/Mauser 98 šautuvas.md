@@ -40,7 +40,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Ginkluoti šautuvais Mauser 98 su užmautais durtuvais.'
+  teiginys: 'Atskirojo Marijampolės bataliono kariai ties Arnenhofu buvo ginkluoti šautuvais Mauser 98 su užmautais durtuvais.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -48,7 +48,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Ginkluoti šautuvais Mauser 98 su užmautais durtuvais.'
+  santrauka: 'Atskirojo Marijampolės bataliono kariai ties Arnenhofu buvo ginkluoti šautuvais Mauser 98 su užmautais durtuvais.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Atskirojo Marijampolės bataliono
@@ -66,3 +66,8 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Latvija]]
+- [[objektai/vietos/Marijampolė]]

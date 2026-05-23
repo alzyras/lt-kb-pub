@@ -55,6 +55,14 @@ tags:
   teiginys: 'Bet po Raciąžo taikos Švitrigaila grįžo pas Vytautą ir tuoj gavo valdyti Briansko ir Severijos (Naugardo Seversko ir Černigovo) kunigaikštijas, nes ten buvo ką tik miręs (1404) Kaributas (Dimitras) Algirdaitis.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: '63 — Dėl Vorsklos pralaimėjimo nukentėjo nuo totorių tik Kije­ vo ir Volynijos pasienio žemės, o viduje Vytauto padėtis susti­ prėjo, nes žuvusiu kunigaikščiu sritys atiteko betarpiškai į jo valdžią, kaip, pav., Dimitro Algirdaičio, Brianskas ir daug kt.'
+  pagrindžia:
+    - c-005
+- t-006
+  teiginys: 'Vykstant Vytautui pro Polocką, Vitebską, Smolenską, Zaslavlių, Brianską, Černigovą iki Kijevo, jam lenkėsi visi tų kraštų kunigaikščiai, išreikšdami savo pa­ klusnumą.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -119,3 +127,63 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: '63 — Dėl Vorsklos pralaimėjimo nukentėjo nuo totorių tik Kije­ vo ir Volynijos pasienio žemės, o viduje Vytauto padėtis susti­ prėjo, nes žuvusiu kunigaikščiu sritys atiteko betarpiškai į jo valdžią, kaip, pav., Dimitro Algirdaičio, Brianskas ir daug kt.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    ```
+    — 63 —
+    ```
+    Dėl Vorsklos pralaimėjimo nukentėjo nuo totorių tik Kije­
+    vo ir Volynijos pasienio žemės, o viduje Vytauto padėtis susti­
+    prėjo, nes žuvusiu kunigaikščiu sritys atiteko betarpiškai į jo
+    valdžią, kaip, pav., Dimitro Algirdaičio, Brianskas ir daug kt.
+    Kaip ten bebūtu, reikia sutikti su tuo, kad Vorsklos mūšio
+    išdavos tuo tarpu suardė Vytauto planus: jis turėjo lai­
+    kinai atsisakyti nuo sumanymo užvaldyti Maskvos kunigaikš­
+    tijas ir visus Europos Rytus, paskelbti Lietuvos nepriklausomy­
+    bę, suduoti mirtiną smūgį Ordinui ir apskritai visus savo pla­
+    nus turėjo atidėti ateičiai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: 'Vykstant Vytautui pro Polocką, Vitebską, Smolenską, Zaslavlių, Brianską, Černigovą iki Kijevo, jam lenkėsi visi tų kraštų kunigaikščiai, išreikšdami savo pa­ klusnumą.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Vykstant Vytautui pro Polocką,
+    Vitebską, Smolenską, Zaslavlių, Brianską, Černigovą iki Kijevo,
+    jam lenkėsi visi tų kraštų kunigaikščiai, išreikšdami savo pa­
+    klusnumą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Europa]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/vietos/Vorskla]]
+- [[objektai/vietos/Černigovas]]
+- [[objektai/asmenys/Glebas (Smolensko kunigaikštis)]]
+- [[objektai/asmenys/Jagurčinas]]
+- [[objektai/autoriai/M. Strijkovskis]]
+- [[objektai/asmenys/Mengu Timūras]]
+- [[objektai/asmenys/Olegas (Romano sūnus)]]
+- [[objektai/vietos/Ratne]]
+- [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
+- [[objektai/asmenys/Spytkas iš Melsztyno]]
+- [[objektai/vietos/Starodubas]]
+- [[objektai/vietos/Trubčevskas]]
+- [[objektai/ivykiai/Vitebsko užėmimas (1392 m.)]]
+- [[objektai/daiktai/Vytauto vėliava]]

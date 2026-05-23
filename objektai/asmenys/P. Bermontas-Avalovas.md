@@ -82,3 +82,11 @@ Bermonto-Avalovo, siekusio nuversti bolševikus Rusijoje ir atkurti Rusijos impe
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Baltija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/asmenys/Virgoličius]]
+- [[objektai/vietos/Mintauja]]

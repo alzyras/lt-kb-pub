@@ -45,3 +45,8 @@ Pav., lieka dar labai ginčytinas klausimas, ar Vytauto motina Birutė buvo vaid
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Birutė]]
+- [[objektai/daiktai/Rikojoto prūsų dievų šventykla ir stabai]]

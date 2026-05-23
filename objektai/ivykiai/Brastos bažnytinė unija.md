@@ -56,5 +56,10 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Kijevas]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Brasta]]
+- [[objektai/grupes/Stačiatikiai]]
+- [[objektai/zodynas/unija]]
 - [[objektai/grupes/Graikų katalikų bažnyčia]]
 - [[objektai/zodynas/metropolija bažnytinė unija]]

@@ -75,3 +75,7 @@ Abiem kariuomenėm susitikus prie Durbės ežero, kovą laimėjo žemaičiai.
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/ežeras]]
+
+### Susiję objektai
+- [[objektai/vietos/Durbė]]
+- [[objektai/zodynas/pagonybė]]

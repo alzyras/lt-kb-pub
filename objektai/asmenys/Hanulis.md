@@ -56,3 +56,10 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Dubysa]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/ivykiai/Jogailos sugrįžimas į Vilnių (1382 m. birželio 12 d.)]]

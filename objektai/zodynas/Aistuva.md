@@ -45,3 +45,10 @@ tags: []
   pagrindžia:
     - t-003
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/autoriai/K. Būga]]
+- [[objektai/autoriai/K. Jaunius]]
+- [[objektai/asmenys/Kazimieras]]
+- [[objektai/asmenys/Kazimieras Būga]]

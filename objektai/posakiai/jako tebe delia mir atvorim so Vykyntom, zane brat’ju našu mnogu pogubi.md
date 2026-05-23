@@ -54,3 +54,10 @@ Kada buvo bandoma į sąjungą (koaliciją) prieš Mindaugą ir Vykintą Įtrauk
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/vietos/Ryga]]
+- [[objektai/autoriai/St. Zajączkowski]]
+- [[objektai/asmenys/Vykintas]]

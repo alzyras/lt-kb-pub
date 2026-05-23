@@ -70,3 +70,15 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Cholmas]]
+- [[objektai/vietos/Kijevas]]
+- [[objektai/vietos/Konstantinopolis]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Naugardukas]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Turovas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/metropolija]]

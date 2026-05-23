@@ -53,6 +53,10 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
     - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: 'Bet Melno sutartimi iš Sūduvos girių Lietuva laimėjo nepalyginamai daugiau negu Vytautas buvo ordinui užleidęs Salyno taika (1398).'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -126,11 +130,61 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Bet Melno sutartimi iš Sūduvos girių Lietuva laimėjo nepalyginamai daugiau negu Vytautas buvo ordinui užleidęs Salyno taika (1398).'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Bet Melno sutartimi
+    iš Sūduvos girių Lietuva laimėjo nepalyginamai daugiau negu
+    Vytautas buvo ordinui užleidęs Salyno taika (1398).
+    Senoje jotvingių žemėje siena ėjo pradedant nuo « Akmenų
+    Brastos » (« Kamienny Brod ») Luko (Lycko) aukštupyje, aukščiau
+    Grajevo ir Točilovo ežerų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/ežeras]]
 
 ### Susiję objektai
+- [[objektai/vietos/Brasta]]
+- [[objektai/vietos/Grajevo]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Salynas]]
+- [[objektai/ivykiai/Salyno sutartis]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/vietos/Akmenų Brasta]]
+- [[objektai/vietos/Apaščia]]
+- [[objektai/vietos/Grajevas]]
+- [[objektai/asmenys/Kotryna II]]
+- [[objektai/vietos/Kulautuva]]
+- [[objektai/vietos/Liepona]]
+- [[objektai/vietos/Merūniškiai]]
+- [[objektai/daiktai/Monetos]]
+- [[objektai/paprociai/Monetų kalimas ir pabūklų, varpų liejimas]]
+- [[objektai/vietos/Mūša]]
 - [[objektai/vietos/Niešavos kraštas]]
-- [[objektai/zodynas/dykra]]
+- [[objektai/vietos/Preivosto šilai]]
+- [[objektai/paprociai/Prekyba su Prūsais (Dancigu ir Karaliaučiumi)]]
+- [[objektai/vietos/Salyne]]
+- [[objektai/vietos/Smardonė]]
+- [[objektai/grupes/Sūduviai-jotvingiai]]
+- [[objektai/paprociai/Sūduvos pasidalijimo sutartys ir sąjungų stiprinimas]]
+- [[objektai/vietos/Točilovo ežerai]]
+- [[objektai/vietos/Točilovo ežeras]]
+- [[objektai/vietos/Vaišvilčiai]]
+- [[objektai/paprociai/Vidaus kolonizacija Sūduvos giriose]]
+- [[objektai/vietos/Vystyčio ežeras]]
+- [[objektai/posakiai/Vytautas bijojo, kad bus numestas nuo sosto]]
+- [[objektai/asmenys/Zemovitas (Mozūrijos kunigaikštis)]]
+- [[objektai/zodynas/misijų teorija]]
+- [[objektai/zodynas/vidaus kolonizacija]]
+- [[objektai/vietos/Šešupė]]
+- [[objektai/vietos/Širvinta]]

@@ -53,3 +53,14 @@ Po Romano mirties (1361), Maskvai ir Aleksiui rūpinantis, Lietuvos stačiatiki�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/vietos/Konstantinopolis]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/zodynas/metropolija]]
+- [[objektai/zodynas/metropolitas]]

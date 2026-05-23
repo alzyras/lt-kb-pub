@@ -97,3 +97,13 @@ Gorbačiovą, manydami, kad tokiu būdu vėl atkurs stabilumą Sovietų Sąjungo
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/SSRS]]
+- [[objektai/zodynas/Savanoris]]
+- [[objektai/grupes/Sovietų Sąjunga]]
+- [[objektai/ivykiai/Susirėmimas prie pagrindinio įvažiavimo į AT rūmus ir Artūro Sakalausko žūtis (1991 m. rugpjūčio 21 d.)]]

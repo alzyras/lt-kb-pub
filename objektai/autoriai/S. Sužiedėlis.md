@@ -150,3 +150,8 @@ S. Sužiedėlis 1930 m. kolektyvinėje monografijoje „Vytautas Didysis“ įra
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/christianizacija]]

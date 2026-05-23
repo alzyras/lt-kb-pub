@@ -71,3 +71,20 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/unija]]
+- [[objektai/ivykiai/1794 m. sukilimas Lietuvoje]]
+- [[objektai/ivykiai/1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas]]
+- [[objektai/grupes/Jakobinų klubas]]
+- [[objektai/asmenys/Juozapas Kosakovskis|Juozapas Kosakovskis (vyskupas)]]
+- [[objektai/asmenys/Konstantinas Kalinauskas]]
+- [[objektai/asmenys/Michailas Muravjovas]]
+- [[objektai/paprociai/Politinės manifestacijos kaip spaudimo valdžiai ir teismui praktika]]
+- [[objektai/asmenys/T. Dalevskis]]

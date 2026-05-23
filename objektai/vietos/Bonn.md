@@ -52,3 +52,8 @@ Didelę dalį knygų teko vis pasiskolinti paštu (« Fernleihe ») per Rytų Eu
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Europa]]
+- [[objektai/autoriai/H. Useser]]

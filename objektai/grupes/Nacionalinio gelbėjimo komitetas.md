@@ -51,4 +51,9 @@ Lietuvos komunistų partija (ant TSKP platformos) įkūrė slaptą Nacionalinio 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuvos komunistų partija]]
+- [[objektai/asmenys/Michailas Gorbačiovas]]
+- [[objektai/vietos/SSRS]]
+- [[objektai/zodynas/konstitucijos]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

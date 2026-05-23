@@ -15,6 +15,7 @@ datos:
   - '1346 m.'
   - '1348 m.'
   - '1350 m.'
+  - '1383 m.'
   - '1430 m.'
   - '1930 m.'
   - '1936 m.'
@@ -55,9 +56,13 @@ Komtūras šiame įraše žymi Ordino pareigūną ir srities ar pilies vadą. An
   pagrindžia:
     - c-003
 - t-009
-  teiginys: '„[1348 m. Ordino] maršalas brolis Zygfridas iš Da[he]nfeldo ir didysis komtūras brolis Vinrichas iš Kniprodės dalyvavo mūšyje prie Strėvos, narsiai kaudamiesi.'
+  teiginys: '1348 m. Vokiečių ordino didysis komtūras Vinrichas iš Kniprodės dalyvavo mūšyje prie Strėvos.'
   pagrindžia:
     - c-004
+- t-010
+  teiginys: 'Tuo pat vardu buvo ir jo krikš­ tatėvis, Ragainės komtūras.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -113,7 +118,7 @@ Komtūras šiame įraše žymi Ordino pareigūną ir srities ar pilies vadą. An
   pagrindžia:
     - t-008
 - c-004
-  santrauka: '„[1348 m. Ordino] maršalas brolis Zygfridas iš Da[he]nfeldo ir didysis komtūras brolis Vinrichas iš Kniprodės dalyvavo mūšyje prie Strėvos, narsiai kaudamiesi.'
+  santrauka: '1348 m. Vokiečių ordino didysis komtūras Vinrichas iš Kniprodės dalyvavo mūšyje prie Strėvos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     „[1348 m. Ordino] maršalas brolis Zygfridas iš Da[he]nfeldo ir didysis komtūras brolis
@@ -126,6 +131,23 @@ Komtūras šiame įraše žymi Ordino pareigūną ir srities ar pilies vadą. An
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-009
+- c-005
+  santrauka: 'Tuo pat vardu buvo ir jo krikš­ tatėvis, Ragainės komtūras.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Grįždamas iš šito žygio, Kryžiuočių Ordinas 1383 metų
+    spalių mėn. 21 d. Tapiau miestelyje Vytautą be jokių iškilmių
+    pakrikštijo. Tai įvyko tuo pačiu laiku, kai Trakuose palikusi
+    jų įgula be vilties kovojo su gausiu priešu. Krikšte Vytautui
+    buvo duotas Vigando vardas. Tuo pat vardu buvo ir jo krikš­
+    tatėvis, Ragainės komtūras.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -133,6 +155,42 @@ Komtūras šiame įraše žymi Ordino pareigūną ir srities ar pilies vadą. An
 
 ### Susiję objektai
 - [[objektai/zodynas/maršalka]]
-- [[objektai/vietos/Mežuotnės pilis]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Ragainė]]
+- [[objektai/vietos/Trakai]]
+- [[objektai/daiktai/Apgulties mašinos]]
+- [[objektai/ivykiai/Aukaimio pilies sunaikinimas (1302 ir 1305 m.)]]
+- [[objektai/vietos/Aukaimio pilis]]
+- [[objektai/asmenys/Danuta]]
+- [[objektai/asmenys/Frydrichas fon Valenrodas]]
+- [[objektai/asmenys/Henrikas von Plauen]]
+- [[objektai/asmenys/Hermanas]]
+- [[objektai/vietos/Karšuva]]
+- [[objektai/ivykiai/Karšuvos nuniokojimas ir Skronaičių bei Bebirvaičių pilių sudeginimas (1307 m.)]]
+- [[objektai/vietos/Kuldinga]]
+- [[objektai/asmenys/Kunas fon Lichtenšteinas]]
+- [[objektai/asmenys/Kuno Lichtenšteinas]]
+- [[objektai/asmenys/Markvardas (Ragainės komtūras)]]
+- [[objektai/asmenys/Markvardas Zalzbachas]]
+- [[objektai/vietos/Naujapilis]]
+- [[objektai/ivykiai/Neuermühleno, Karkhauso ir Toreidos kampanija (1298 m.)]]
+- [[objektai/asmenys/Ona Vytautienė]]
+- [[objektai/ivykiai/Ordino žygiai į Pograudą ir Šalčininkus (1311 m.)]]
+- [[objektai/vietos/Pograuda]]
+- [[objektai/ivykiai/Skuodo kautynės (1259 m.)]]
+- [[objektai/vietos/Skuodo laukai]]
+- [[objektai/vietos/Strėva]]
+- [[objektai/ivykiai/Strėvos mūšis (1348 m.)]]
+- [[objektai/vietos/Strėvos upė]]
+- [[objektai/grupes/Tochtamišo totoriai]]
+- [[objektai/asmenys/Vygandas von Baldersheimas]]
+- [[objektai/ivykiai/Vytauto krikštas Tapiau (1383 m. spalio 21 d.)]]
+- [[objektai/ivykiai/Vytenio įsiveržimas į Livoniją ir Gardino priešpilio užėmimas (1296 m.)]]
 - [[objektai/zodynas/maršalas]]
+- [[objektai/zodynas/stabmeldys]]
 - [[objektai/zodynas/vyskupo teisėjas]]
+- [[objektai/daiktai/Šarvinių pirštinių, žasto, dilbio, kelio ir blauzdos apsaugos]]
+- [[objektai/daiktai/Šarvinės pirštinės]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/ivykiai/Junigėdos ir Peštvės priešpilių sudeginimas (1298 m.)]]
+- [[objektai/vietos/Mežuotnės pilis]]

@@ -74,3 +74,11 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Kleckas]]
+- [[objektai/vietos/Krymas]]
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/asmenys/Mahometas Aminas]]
+- [[objektai/ivykiai/Žygimanto Senojo ir Bonos Sforcos vedybos]]

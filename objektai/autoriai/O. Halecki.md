@@ -109,6 +109,22 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   teiginys: 'Halecki : From Florence to Brest , Sacrum Poloniae Millennium, V, 1958, 25-37 p. (išsamiai įvertintas Vytauto vaidmuo).'
   pagrindžia:
     - c-008
+- t-008
+  teiginys: 'Haleckis, kuris ir emigracijoje vis daug dėmesio skyrė Lietuvai, nors į ją vis žvelgė savu lenkiškuoju po­ žiūriu.'
+  pagrindžia:
+    - c-009
+- t-009
+  teiginys: 'O. Halecki manė, kad Hohencolerno kandidatūra Lenkijoje Vytautui buvo neparanki.'
+  pagrindžia:
+    - c-010
+- t-010
+  teiginys: 'Šis užsimojimas, kaip mano Haleckis, pavojingas buvo dviem at­ žvilgiais: Lietuva, kuriai Vytautas neseniai troško atgauti Klai­ pėdą, būtų buvus visiškai atkirsta nuo jūros ir būtų buvęs suteik­ tas kryžiuočiams taip seniai trokštamas galimumas susijungti su.'
+  pagrindžia:
+    - c-011
+- t-011
+  teiginys: 'Len­ kai žinojo, kaip sako Haleckis, kad Kamienieco Padolija, atiduo­ ta iki Vytauto gyvos galvos, todėl ir taip kantriai laukta^2 ).'
+  pagrindžia:
+    - c-012
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -241,7 +257,75 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-009
+  santrauka: 'Haleckis, kuris ir emigracijoje vis daug dėmesio skyrė Lietuvai, nors į ją vis žvelgė savu lenkiškuoju po­ žiūriu.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Gana plačius pėdsakus Lietuvos istorijos srityje savo gausiais
+    raštais yra palikęs O. Haleckis, kuris ir emigracijoje vis daug
+    dėmesio skyrė Lietuvai, nors į ją vis žvelgė savu lenkiškuoju po­
+    žiūriu. Tai jaučiama labiausiai veikale apie uniją (HaU).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-010
+  santrauka: 'O. Halecki manė, kad Hohencolerno kandidatūra Lenkijoje Vytautui buvo neparanki.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Galingam Vytautui, kaip mano Ha­
+    leckis, Hohencolerno kandidatūra Lenkijoj buvo neparanki, ne­
+    žiūrint ir to pavojaus, kuris turėjo iš ten kilti Liuksemburgiečiui.
+    Taip galvoja Haleckis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-011
+  santrauka: 'Šis užsimojimas, kaip mano Haleckis, pavojingas buvo dviem at­ žvilgiais: Lietuva, kuriai Vytautas neseniai troško atgauti Klai­ pėdą, būtų buvus visiškai atkirsta nuo jūros ir būtų buvęs suteik­ tas kryžiuočiams taip seniai trokštamas galimumas susijungti su.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Šis
+    užsimojimas, kaip mano Haleckis, pavojingas buvo dviem at­
+    žvilgiais: Lietuva, kuriai Vytautas neseniai troško atgauti Klai­
+    pėdą, būtų buvus visiškai atkirsta nuo jūros ir būtų buvęs suteik­
+    tas kryžiuočiams taip seniai trokštamas galimumas susijungti
+    su Livonijos Ordinu. Jogailos ir lenkų pažiūros buvo tokios,
+    kad Vytautas neturi teisės atiduoti kam nors Lietuvos dalies.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+- c-012
+  santrauka: 'Len­ kai žinojo, kaip sako Haleckis, kad Kamienieco Padolija, atiduo­ ta iki Vytauto gyvos galvos, todėl ir taip kantriai laukta^2 ).'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Len­
+    kai žinojo, kaip sako Haleckis, kad Kamienieco Padolija, atiduo­
+    ta iki Vytauto gyvos galvos, todėl ir taip kantriai laukta^2 ). Len­
+    kų „kantrybė“ visiškai aiški: jie gerai suprato, kad prieš vėją
+    nepapūs, ir nedrįso Vytautui pasipriešinti, nes jis buvo per galin­
+    gas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/posakiai/prieš vėją nepapūs]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/vietos/Lenkija]]

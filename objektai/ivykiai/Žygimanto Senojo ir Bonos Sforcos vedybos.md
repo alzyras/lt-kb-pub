@@ -55,3 +55,9 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/asmenys/Žygimantas Senasis]]
+- [[objektai/asmenys/Aleksandras (didysis kunigaikštis)]]

@@ -40,3 +40,9 @@ Glaubicas suformavo baroko architektūrinio stiliaus atmainą, neturinčią anal
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/barokas]]
+- [[objektai/asmenys/Jonas Kristupas Glaubicas|Jonas Kristupas Glaubicas (architektas)]]

@@ -39,3 +39,10 @@ giminių lietuviškos kilmės yra tik Goštautai ir Radvilos, o visos kitos – 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Goštautai]]
+- [[objektai/grupes/Tiškevičiai]]
+- [[objektai/grupes/Valavičiai]]
+- [[objektai/vietos/Viena]]

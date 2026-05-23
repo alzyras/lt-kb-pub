@@ -57,4 +57,7 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Baltai]]
+- [[objektai/vietos/Europa]]
+- [[objektai/vietos/Pripetė]]
+- [[objektai/zodynas/geležies amžius]]
 - [[objektai/vietos/Pripetės pelkės]]

@@ -58,3 +58,9 @@ Kričevskio vadovaujami kariai priversti atsitraukti į mišką, iš ten nusilei
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/transportas]]
+
+### Susiję objektai
+- [[objektai/vietos/Dniepras]]
+- [[objektai/grupes/Kazokai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/daiktai/Vežimai]]

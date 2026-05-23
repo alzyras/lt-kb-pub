@@ -34,6 +34,10 @@ tags:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: '1859 m. Mikalojus Akelaitis Juzefui Ignacui Kraševskiui rašė, kad tautos istorija turi būti kiekvieno piliečio lūpose.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -55,3 +59,29 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+- c-002
+  santrauka: '1859 m. Mikalojus Akelaitis Juzefui Ignacui Kraševskiui rašė, kad tautos istorija turi būti kiekvieno piliečio lūpose.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi
+    1859 m. lietuvių švietėjo Mikalojaus Akelaičio žodžiuose lenkų literatui
+    Juzefui Ignacui Kraševskiui (Józef Ignacy Kraszewski): „Tautos istorija
+    turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“
+    Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Joną
+    Mačiulį-Maironį ir kt.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/posakiai/„Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“]]
+- [[objektai/posakiai/Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga|Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.]]
+- [[objektai/paprociai/Tautos istorijos atminties saugojimas piliečių lūpose]]

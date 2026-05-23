@@ -55,3 +55,10 @@ Karpov, 1892) ir t.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/vietos/Maskva]]

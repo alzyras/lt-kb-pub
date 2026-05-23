@@ -66,3 +66,11 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Baltija]]
+- [[objektai/vietos/Europa]]
+- [[objektai/vietos/Nemunas]]
+- [[objektai/vietos/Rytų Europa]]
+- [[objektai/asmenys/Mindaugas]]

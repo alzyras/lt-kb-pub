@@ -98,4 +98,11 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Kulmas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Prūsija]]
 - [[objektai/vietos/Torunė]]
+- [[objektai/vietos/Vokietija]]
+- [[objektai/vietos/Vysla]]
+- [[objektai/zodynas/magistras]]

@@ -49,3 +49,9 @@ Vasmeris baltiškos kilmės žemės vardų rado žymiai toliau už Smolensko.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Desna]]
+- [[objektai/vietos/Dniepras]]
+- [[objektai/vietos/Smolenskas]]

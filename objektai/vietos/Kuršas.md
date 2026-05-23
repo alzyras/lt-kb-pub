@@ -100,6 +100,18 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
   teiginys: 'Šiaurės karas 1700 m. Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą.'
   pagrindžia:
     - c-011
+- t-016
+  teiginys: 'Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybingumo istorinei tradicijai, o jų teritorinės aspiracijos panėšėjo kaip broliai dvyniai – istoriškai etninės lietuvių žemės Vilniaus, Kauno, Suvalkų ir Gardino gubernijose, dalis Kuršo.'
+  pagrindžia:
+    - c-012
+- t-017
+  teiginys: 'Apie danų nesėkmę išgirdęs, švedų karalius Olafas panorėjo iš naujo švedams užvaldyti Kuršą.'
+  pagrindžia:
+    - c-013
+- t-018
+  teiginys: 'Akivaizdžia Mindaugo karinės jėgos demonstracija yra laikoma tai, kad jis 1244 m. savo žygyje į Kuršą prie Ambotės buvo atvedęs didelę kariuomenę^58.'
+  pagrindžia:
+    - c-014
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -296,6 +308,59 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-015
+- c-012
+  santrauka: 'Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybingumo istorinei tradicijai, o jų teritorinės aspiracijos panėšėjo kaip broliai dvyniai – istoriškai etninės lietuvių žemės Vilniaus, Kauno, Suvalkų ir Gardino gubernijose, dalis Kuršo.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos
+    valstybingumo istorinei tradicijai, o jų teritorinės aspiracijos panėšėjo
+    kaip broliai dvyniai – istoriškai etninės lietuvių žemės Vilniaus, Kauno,
+    Suvalkų ir Gardino gubernijose, dalis Kuršo. Kadangi Lenkijos ir Lietu-
+    vos bendros valstybės pasekmės išliko, lenkiškai kalbantiems lietuviams
+    vis labiau linkstant į lenkų kultūrinę orbitą ir Lenkijos valstybingumo
+    idėją, nesiruošiant konvertuotis į lietuvybę, kristalizavosi Lietuvos ne-
+    priklausomybės siekis etnografiniu pagrindu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016
+- c-013
+  santrauka: 'Apie danų nesėkmę išgirdęs, švedų karalius Olafas panorėjo iš naujo švedams užvaldyti Kuršą.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Apie danų nesėkmę išgirdęs, švedų karalius Olafas panorėjo iš
+    naujo švedams užvaldyti Kuršą. Jis nusiaubė ir sudegino Kuršių
+    Seeįurgą ir, po aštuonių dienų Apuolės apgulimo, privertė Kuršius
+    jam atiduoti danų grobį, padaryti taiką, mokėti ankstyvesnę duoklę,
+    be to, išreikalavo 30 įkaitų. Pagal vidurinių amžių kronikininkų
+    didelių skaičių « ligą », yra perdėti skaičiai kuršių kovotojų Seeburgo
+    (7000) ir Apuolės (15.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
+- c-014
+  santrauka: 'Akivaizdžia Mindaugo karinės jėgos demonstracija yra laikoma tai, kad jis 1244 m. savo žygyje į Kuršą prie Ambotės buvo atvedęs didelę kariuomenę^58.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Akivaizdžia Mindaugo karinės jėgos demonstracija yra laikoma tai,
+    kad jis 1244 m. savo žygyje į Kuršą prie Ambotės buvo atvedęs
+    didelę kariuomenę^58. Poezijos rimams suderinti vis didelius skaičius
+    vartodamas, Eiliuotinės kronikos autorius rašė, kad Mindaugas ten
+    atvedęs 30.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018
 
 ## Pavadinimai šaltiniuose
 
@@ -312,9 +377,57 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
 ### Susiję objektai
 - [[objektai/vietos/Prūsija]]
 - [[objektai/paprociai/Vienkieminis gyvenimas dėl taikos ir gaisrų saugos]]
-- [[objektai/vietos/Bauskė]]
+- [[objektai/vietos/Ambotė]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/vietos/Seeburgas]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/vietos/Aizkrauklė]]
+- [[objektai/vietos/Alūkšta]]
+- [[objektai/vietos/Bernas]]
+- [[objektai/paprociai/Blaivybės brolijų ir blaivybės skelbimo praktika]]
+- [[objektai/ivykiai/Blaivybės brolijų kūrimas ir plitimas Žemaičių vyskupystėje (1858—1859 m.)]]
+- [[objektai/vietos/Burtnieko ežeras]]
+- [[objektai/grupes/Chlapovskio kariuomenė]]
+- [[objektai/vietos/Durbė]]
 - [[objektai/vietos/Durbės pilis]]
+- [[objektai/vietos/Embutė]]
 - [[objektai/asmenys/Fridrichas Ketleris]]
+- [[objektai/asmenys/Jaroslavas (rusų kunigaikštis, 1234 m.)]]
+- [[objektai/vietos/Jelgava]]
+- [[objektai/asmenys/Jurgis Šaulys]]
+- [[objektai/vietos/Kauno gubernija]]
 - [[objektai/grupes/Kuršiečiai]]
-- [[objektai/vietos/Mintauja]]
-- [[objektai/ivykiai/Šiaurės karas (1700–1721 m.)]]
+- [[objektai/vietos/Kuršių Neringa]]
+- [[objektai/vietos/Kuršo gubernija]]
+- [[objektai/grupes/Kuršo ir Žiemgalos kunigaikštystė]]
+- [[objektai/grupes/Kuršo kunigaikštystė]]
+- [[objektai/vietos/Kuršo pasienis]]
+- [[objektai/vietos/Kuršo Šventoji]]
+- [[objektai/vietos/Latgalija]]
+- [[objektai/ivykiai/Lietuvos ir Latvijos sienos išvedimas (1921 m.)]]
+- [[objektai/ivykiai/Lietuvos ir ordino sienos galutinis patvirtinimas pagal Melno taiką (1422 m.)]]
+- [[objektai/grupes/Livonijos kunigaikštystė]]
+- [[objektai/grupes/Lybiai]]
+- [[objektai/vietos/Pakuršė]]
+- [[objektai/vietos/Palangos pajūris]]
+- [[objektai/autoriai/Petras Dusburgietis]]
+- [[objektai/vietos/Piltenė]]
+- [[objektai/autoriai/Rimbertas]]
+- [[objektai/autoriai/Rimberto, Rimbertas]]
+- [[objektai/vietos/Saremos]]
+- [[objektai/asmenys/Steponas Kairys]]
+- [[objektai/asmenys/T. Lackis]]
+- [[objektai/vietos/Tartai]]
+- [[objektai/vietos/Valkaviskas]]
+- [[objektai/vietos/Vidžemė]]
+- [[objektai/vietos/Vilniaus gubernija]]
+- [[objektai/vietos/Vilniaus vyskupystė]]
+- [[objektai/asmenys/Volkvinas]]
+- [[objektai/zodynas/etnografinės ribos etnografinis principas]]
+- [[objektai/autoriai/prof. Simpsonas]]
+- [[objektai/zodynas/tautų apsisprendimo teisė tautų apsisprendimo principas]]
+- [[objektai/ivykiai/Žemaičių vyskupijos įkūrimas (1417 m. spalio 24 d.)]]
+- [[objektai/vietos/Žemaičių vyskupystė]]
+- [[objektai/grupes/Žiemgaliai]]
+- [[objektai/vietos/Suvalkai]]
+- [[objektai/autoriai/W. Eckert]]

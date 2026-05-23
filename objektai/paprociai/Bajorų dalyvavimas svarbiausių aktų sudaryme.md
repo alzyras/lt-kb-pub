@@ -8,16 +8,19 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
+  - '1401 m.'
   - '1936 m.'
   - '1978 m.'
   - '2026 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
+  - 'LDK'
   - 'modernioji Lietuva'
 amziai:
+  - 'XV'
   - 'XX'
   - 'XXI'
-date_start: '1936'
+date_start: '1401'
 date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
@@ -66,6 +69,10 @@ Nenurodyta
   teiginys: 'Lietuvių bajorija valstybės rei­ kaluose gavo balsą, kuris lig šiol išimtinai tepriklausė valdovui, t.'
   pagrindžia:
     - c-004
+- t-009
+  teiginys: 'Vilniaus susitarimuose (1401) pirmą kartą Lietuvos ir Lenkijos unijų istorijoje buvo surašytas Lietuvos bajorų aktas.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -135,8 +142,31 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-005
+  santrauka: 'Vilniaus susitarimuose (1401) pirmą kartą Lietuvos ir Lenkijos unijų istorijoje buvo surašytas Lietuvos bajorų aktas.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Vilniaus susitarimuose (1401) pirmą kartą Lietuvos ir Lenkijos
+    unijų istorijoje buvo surašytas Lietuvos bajorų aktas. Ten mini­
+    mas Vilniaus vysk. Jokūbas Plichta, Vilniaus dvaro maršalas Sta­
+    nislovas Čupurna ir trys žymieji Vytauto seniūnai: Vilniaus — Alb.
+    Manivydas, Kriavo —- J. Goštautas, Ašmenos — Astikas. Jie turėjo
+    būti ne tik liudininkai, bet ir garantai, kad visa tai, kas aktuose
+    surašyta, bus vykdoma.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Lietuvių bajorija]]
-- [[objektai/zodynas/sankcija]]
+- [[objektai/vietos/Ašmena]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/maršalas]]
+- [[objektai/asmenys/Čupurna]]
+- [[objektai/grupes/Bajorai]]

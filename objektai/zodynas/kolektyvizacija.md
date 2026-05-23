@@ -85,3 +85,7 @@ Tačiau kolektyvizacija Lietuvoje strigo dėl partizaninio karo. Kolektyvizacija
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/ivykiai/Sovietų Sąjungos masinės deportacijos į Sibirą]]

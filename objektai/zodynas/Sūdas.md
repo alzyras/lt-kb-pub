@@ -68,3 +68,9 @@ Vartojamos formos: `sūdąs`, `sūdą`.
 ## Pastabos
 
 - Formos vartosena labai sena ir semantiškai plati, todėl modernus atitikmuo yra apytikris.
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Katra]]
+- [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/zodynas/tėvūnas]]

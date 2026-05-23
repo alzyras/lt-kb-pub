@@ -43,3 +43,11 @@ bent jau Vilnius prilygo, o gal net pradėjo lenkti (Vilniaus kaip „Lietuvos J
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Armėnai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Liublinas]]
+- [[objektai/vietos/Lvovas]]
+- [[objektai/vietos/Vilnius]]

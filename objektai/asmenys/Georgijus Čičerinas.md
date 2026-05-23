@@ -44,4 +44,6 @@ Georgijaus Čičerino nota prie šio pakto patvirtino Lietuvos interesus Vilniuj
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/ivykiai/Lietuvos ir SSRS nepuolimo ir neutralumo sutarties pasirašymas (1926 m. rugsėjo 28 d.)]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/vietos/Vilnius]]

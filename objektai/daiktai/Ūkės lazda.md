@@ -102,3 +102,10 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-007
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kalnėnai]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/zodynas/Šaldros|šaldros]]
+- [[objektai/grupes/Žemaičiai]]

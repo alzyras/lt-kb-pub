@@ -41,3 +41,7 @@ Taip pat nepaprastai valstiečius vargino rekrūtų pareiga (vyrus paimdavo į k
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Rusai]]

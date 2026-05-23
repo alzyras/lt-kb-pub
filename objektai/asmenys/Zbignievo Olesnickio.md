@@ -47,3 +47,8 @@ Dlugošas turėjo žinių ir iš kitų dalyvių, pasižymėjusių riterių, kaip
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Dlugošas]]
+- [[objektai/asmenys/Olesnickio]]

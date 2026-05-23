@@ -41,7 +41,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'p. 136, Karacenos šarvų komplektas.'
+  teiginys: 'Karacenos šarvų komplektas priskiriamas Abiejų Tautų Respublikai ir datuojamas XVIII a.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -49,7 +49,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'p. 136, Karacenos šarvų komplektas.'
+  santrauka: 'Karacenos šarvų komplektas priskiriamas Abiejų Tautų Respublikai ir datuojamas XVIII a.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     p. 136, XVII a. pabaigos -xvIII a. pradžios kavalerijos palašas. vDKM, Artūro Užgalio nuotr.
@@ -62,3 +62,7 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]

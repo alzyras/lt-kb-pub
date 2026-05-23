@@ -47,3 +47,13 @@ Tiek Aleksandras I, tiek Mikalojus I (1825— 1855 m.) visada atsakydavo, kad Li
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Aleksandras]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Mikalojus (Gniezno arkivyskupas)]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/asmenys/Aleksandras I]]

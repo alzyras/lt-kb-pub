@@ -72,3 +72,8 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
+
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/posakiai/„senovės negriauname, naujovių neįvedame“]]
+- [[objektai/zodynas/kunigaikščiai]]

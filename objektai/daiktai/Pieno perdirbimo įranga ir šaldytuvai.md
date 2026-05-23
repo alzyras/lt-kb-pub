@@ -9,17 +9,17 @@ saltiniai:
   - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
 bukle: "juodrastis"
 laikotarpis: "nepriklausomos Lietuvos žemės ūkio modernizacijos kontekstas"
-datos: []
-periodas: "siuolaikine_istorija"
-periodo_grupes:
-  - "tarpukaris"
-amziai:
-  - "XX"
-date_start: ""
-date_end: ""
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos: []
+periodas: 'siuolaikine_istorija'
+periodo_grupes:
+  - 'tarpukaris'
+amziai:
+  - 'XX'
+date_start: ''
+date_end: ''
 patikimumas: "vidutinis"
 tags:
   - įrankis
@@ -64,6 +64,10 @@ Nenurodyta
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-007
+  teiginys: 'Ūkininkai pradėjo kooperuotis, kūrėsi pieno perdirbimo bendrovės, įsigijus modernią įrangą, šaldytuvus, didėjo pieno ir mėsos produktų eksportas į užsienį.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -81,6 +85,22 @@ Nenurodyta
   pagrindžia:
     - t-005
     - t-006
+- c-002
+  santrauka: 'Ūkininkai pradėjo kooperuotis, kūrėsi pieno perdirbimo bendrovės, įsigijus modernią įrangą, šaldytuvus, didėjo pieno ir mėsos produktų eksportas į užsienį.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Ūkininkai pradėjo kooperuotis, kūrėsi pieno per-
+    dirbimo bendrovės, įsigijus modernią įrangą, šaldytuvus, didėjo pieno ir
+    mėsos produktų eksportas į užsienį.
+    Šalyje tebekursavo ostmarkės, kurias Lietuvos valdžia pavadino auksi-
+    nais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
 
 ## Šaltiniai ir įrodymai
 
@@ -88,3 +108,6 @@ Nenurodyta
 ### Teminiai klasteriai
 - [[temos/įrankis]]
 - [[temos/ūkio-įrankis]]
+
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]

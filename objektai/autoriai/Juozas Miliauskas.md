@@ -53,3 +53,7 @@ Stokodami kariškų ginklų sukilėliai dažnai naudodavo medžioklinius KAUTYN�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Prūsija]]

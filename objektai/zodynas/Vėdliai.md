@@ -58,3 +58,7 @@ Vartojamos formos: `vėdliais`, `vėdlių`.
 ## Pastabos
 
 - Terminas čia yra labai konkretus apeiginis vaidmuo, bet ne visai kasdienis žodis.
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/Gaspadinė|gaspadinė]]

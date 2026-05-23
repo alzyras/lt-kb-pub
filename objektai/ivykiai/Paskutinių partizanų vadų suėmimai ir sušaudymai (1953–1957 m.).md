@@ -88,3 +88,12 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Adolfas Ramanauskas-Vanagas]]
+- [[objektai/vietos/Dainava]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/vietos/SSRS]]
+- [[objektai/zodynas/maršalas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

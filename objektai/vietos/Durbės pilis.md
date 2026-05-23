@@ -63,4 +63,11 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Durbė]]
 - [[objektai/vietos/Kuršas]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/vietos/Vokietija]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/asmenys/Žygimantas]]

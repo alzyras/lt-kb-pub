@@ -52,3 +52,11 @@ Naugardo ir Porchovo miestai sumokėjo Vytautui 10.000 rublių kontribucijos ir 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Luckas]]
+- [[objektai/vietos/Naugardas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/kontribucija]]
+- [[objektai/ivykiai/Vytauto žygis į Naugardą (1428 m. vasara)]]

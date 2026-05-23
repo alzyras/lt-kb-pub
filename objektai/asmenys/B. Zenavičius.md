@@ -75,3 +75,8 @@ Zenavičiaus LDK husarai atakavo puolančius turkus “8 iš dešinės, o Kuchov
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Artilerija]]
+- [[objektai/zodynas/husarai]]

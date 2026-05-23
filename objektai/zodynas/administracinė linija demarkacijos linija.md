@@ -127,7 +127,15 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/ivykiai/Incidentas prie Lietuvos ir Lenkijos administracinės linijos (1938 m. kovo 11 d.)]]
-- [[objektai/asmenys/L. Želigovskis]]
+- [[objektai/grupes/Ambasadorių Konferencija]]
+- [[objektai/grupes/Antantė]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Rusija]]
 - [[objektai/vietos/Vidurinė Lietuva]]
-- [[objektai/zodynas/administracinė linija]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/L. Želigovskis]]
+- [[objektai/ivykiai/Incidentas prie Lietuvos ir Lenkijos administracinės linijos (1938 m. kovo 11 d.)]]
+- [[objektai/vietos/Suvalkai]]

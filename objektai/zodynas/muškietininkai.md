@@ -55,3 +55,6 @@ g“ sel Flanguose Tercijos priekyje būdavo išrikiuojami išrikiuota muškieti
 ### Susiję objektai
 - [[objektai/zodynas/arkebuzieriai]]
 - [[objektai/zodynas/tercija]]
+- [[objektai/asmenys/A. Nelepcos]]
+- [[objektai/asmenys/Nikolajus Arsenjevas]]
+- [[objektai/zodynas/karakolė]]

@@ -140,3 +140,8 @@ Arvydas Pociūnas šiame leidinyje minimas kaip kelių skirtingų laikotarpių k
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Vilnius]]
+- [[objektai/vietos/Salaspilis]]

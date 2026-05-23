@@ -70,3 +70,8 @@ Pasiuntė tada į Lietuvą delegaciją iš didžiausių Vytauto ka­ rūnacijos 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]

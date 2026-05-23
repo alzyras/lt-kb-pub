@@ -66,3 +66,11 @@ Kosakovskis.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/daiktai/Namas]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/etmonas]]
+- [[objektai/zodynas/hetmonas]]

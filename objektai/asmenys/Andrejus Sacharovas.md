@@ -59,3 +59,6 @@ Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios He
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/aktas]]
+
+### Susiję objektai
+- [[objektai/vietos/SSRS]]

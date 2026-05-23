@@ -19,6 +19,8 @@ datos:
   - '1320 m.'
   - '1362 m.'
   - '1393 m.'
+  - '1394 m.'
+  - '1395 m.'
   - '1398 m.'
   - '1403 m.'
   - '1447 m.'
@@ -72,9 +74,49 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   pagrindžia:
     - c-005
 - t-016
-  teiginys: '), taip ir Kazimiero laikais tankiau buvo gyvenama tik tikrojoj Lietuvoj, Palenkėj, Voluinėj ir Podolės Braclavo srityje (visa kita Podolė priklausė Lenkijai).'
+  teiginys: 'Kazimiero laikais tankiau gyventa Podolės Braclavo srityje, o visa kita Podolė priklausė Lenkijai.'
   pagrindžia:
     - c-006
+- t-017
+  teiginys: '1393 m. Luckas perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikštiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.'
+  pagrindžia:
+    - c-007
+- t-018
+  teiginys: 'Tada Lietuvai buvo suduotas skaudus smūgis – karalius Žygimantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė beveik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos (Palenkę ir Voluinės, Kijevo ir Podolės (Braclavo) vaivadijas).'
+  pagrindžia:
+    - c-008
+- t-019
+  teiginys: 'Taip yra, pvz., ir konflikte su lenkais dėl Podolės, dėl Volinijos.'
+  pagrindžia:
+    - c-009
+- t-020
+  teiginys: 'Sumušdamas totorius 1362 m. prie Būgo prieupio Mėlynųjų Vandenų — « Sine Wody » (arti Juodosios jūros), Algirdas laimėjo ne tik plačią Podoliją, turtingą žemę palei Dniestrą, bet ir patį Dniepro žemupį, kuris tada buvo tuščias^13.'
+  pagrindžia:
+    - c-010
+- t-021
+  teiginys: 'Menkai gyvenamoje Podolėje rado sau gerų žemių gausi Algirdo brolio Karijoto šeima.'
+  pagrindžia:
+    - c-011
+- t-022
+  teiginys: 'Drauge su Podole Lietuvos valstybėn buvo įjungta ir Kijevo kunigaikštystė, kuri jau nuo Gedimino laikų buvo didžiojo Lietuvos kunigaikščio priklausomybėje, kai Kijevą valdė jaunesnis Gedimino brolis Teodoras.'
+  pagrindžia:
+    - c-012
+- t-023
+  teiginys: 'Kazokai Podolei ir Rusiai buvo svarbi jėga ginantis nuo totorių, todėl valdovas jiems mokėjo nedidelį atlygį.'
+  pagrindžia:
+    - c-013
+- t-024
+  teiginys: 'Tą balsą, kaip ir pirma dėl Podolijos, pakėlė Jadvyga, kuri rūpinosi, kad jos padaryta au­ ka nenueitų niekais, ir ponų taryba, kuri sumanė visos unijos reikalą^1 ).'
+  pagrindžia:
+    - c-014
+- t-025
+  teiginys: 'Kaip tik tuo laiku Vytautas paima ir Podoliją ir įgyja įtakos aukščiausiai Lenkijos valdžiai, kurios kancleris, Poznaniaus vyskupas Vaitiekus Jas­ trzembiec, buvo aiškiai jo reikalams atsidavęs^3 ).'
+  pagrindžia:
+    - c-015
+- t-026
+  teiginys: 'Todėl nenuostabu, kad po Torno taikos įvyko dar labai įdomus faktas: kitą dieną, taikos susivažiavimui pasibaigus, Jogaila išsprendė lietuvių-lenką dėl Podolijos gin­ čą, kuris vargais buvo likviduotas 1403 m. Jogaila, neatsižvelg­ damas gyvo lenkų.'
+  pagrindžia:
+    - c-016
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -169,7 +211,7 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   pagrindžia:
     - t-015
 - c-006
-  santrauka: '), taip ir Kazimiero laikais tankiau buvo gyvenama tik tikrojoj Lietuvoj, Palenkėj, Voluinėj ir Podolės Braclavo srityje (visa kita Podolė priklausė Lenkijai).'
+  santrauka: 'Kazimiero laikais tankiau gyventa Podolės Braclavo srityje, o visa kita Podolė priklausė Lenkijai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     ), taip ir Kazimiero laikais tankiau buvo
@@ -184,6 +226,165 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-016
+- c-007
+  santrauka: '1393 m. Luckas perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikštiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1393 m. Luckas
+    perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikš-
+    tiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
+- c-008
+  santrauka: 'Tada Lietuvai buvo suduotas skaudus smūgis – karalius Žygimantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė beveik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos (Palenkę ir Voluinės, Kijevo ir Podolės (Braclavo) vaivadijas).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tada Lietuvai buvo suduotas skaudus smūgis – karalius Žygi-
+    mantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė be-
+    veik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos (Palenkę ir Volui-
+    nės, Kijevo ir Podolės (Braclavo) vaivadijas). Prijungtų sričių bajorai turėjo
+    prisiekti Lenkijai, o jų atstovai dalyvauti Lenkijos Seime.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018
+- c-009
+  santrauka: 'Taip yra, pvz., ir konflikte su lenkais dėl Podolės, dėl Volinijos.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Taip yra, pvz., ir konflikte
+    su lenkais dėl Podolės, dėl Volinijos. Bet pasitaiko, kad kartais
+    kronistas perduoda ir lenkų tezes, pvz.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019
+- c-010
+  santrauka: 'Sumušdamas totorius 1362 m. prie Būgo prieupio Mėlynųjų Vandenų — « Sine Wody » (arti Juodosios jūros), Algirdas laimėjo ne tik plačią Podoliją, turtingą žemę palei Dniestrą, bet ir patį Dniepro žemupį, kuris tada buvo tuščias^13.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Sumušdamas totorius 1362 m. prie Būgo prieupio Mėlynųjų
+    Vandenų — « Sine Wody » (arti Juodosios jūros), Algirdas laimėjo
+    ne tik plačią Podoliją, turtingą žemę palei Dniestrą, bet ir patį
+    Dniepro žemupį, kuris tada buvo tuščias^13. Menkai gyvenamoje
+    Podolėje rado sau gerų žemių gausi Algirdo brolio Karijoto šeima.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020
+- c-011
+  santrauka: 'Menkai gyvenamoje Podolėje rado sau gerų žemių gausi Algirdo brolio Karijoto šeima.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Menkai gyvenamoje
+    Podolėje rado sau gerų žemių gausi Algirdo brolio Karijoto šeima.
+    Šie galėjo ten įsikurti ir be Algirdo paramos. Dar nėra galutinai
+    išaiškintas klausimas, kada Karijotaičiai yra pasirodę Podolėje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-021
+- c-012
+  santrauka: 'Drauge su Podole Lietuvos valstybėn buvo įjungta ir Kijevo kunigaikštystė, kuri jau nuo Gedimino laikų buvo didžiojo Lietuvos kunigaikščio priklausomybėje, kai Kijevą valdė jaunesnis Gedimino brolis Teodoras.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Drauge su Podole Lietuvos valstybėn buvo įjungta ir Kijevo
+    kunigaikštystė, kuri jau nuo Gedimino laikų buvo didžiojo Lietuvos
+    kunigaikščio priklausomybėje, kai Kijevą valdė jaunesnis Gedimino
+    brolis Teodoras. Galutinai senosios Rusios sostinę atėmęs iš totorių
+    įtakos, ten Algirdas pasodino savo sūnų Vladimirą († 1398).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-022
+- c-013
+  santrauka: 'Kazokai Podolei ir Rusiai buvo svarbi jėga ginantis nuo totorių, todėl valdovas jiems mokėjo nedidelį atlygį.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Podolei ir Rusiai jie svarbi
+    Jėga ginantis nuo totorių, kurie, kazokų bijodami, per Dniestrą persikelti išdrįsta tik su-
+    rinkę dideles pajėgas; todėl Jo Didenybė kazokams moka atlygį, nors ir labai nedidelį.“
+
+    CHOTINO MŪŠIS 1621 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-023
+- c-014
+  santrauka: 'Tą balsą, kaip ir pirma dėl Podolijos, pakėlė Jadvyga, kuri rūpinosi, kad jos padaryta au­ ka nenueitų niekais, ir ponų taryba, kuri sumanė visos unijos reikalą^1 ).'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    1398 m.
+    pirmą kartą pasigirdo iš Lenkijos protesto balsas prieš tokią
+    Lietuvos su Lenkija santykių eigą. Tą balsą, kaip ir pirma dėl
+    Podolijos, pakėlė Jadvyga, kuri rūpinosi, kad jos padaryta au­
+    ka nenueitų niekais, ir ponų taryba, kuri sumanė visos unijos
+    reikalą^1 ).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-024
+- c-015
+  santrauka: 'Kaip tik tuo laiku Vytautas paima ir Podoliją ir įgyja įtakos aukščiausiai Lenkijos valdžiai, kurios kancleris, Poznaniaus vyskupas Vaitiekus Jas­ trzembiec, buvo aiškiai jo reikalams atsidavęs^3 ).'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Kaip tik tuo laiku
+    Vytautas paima ir Podoliją ir įgyja įtakos aukščiausiai Lenkijos
+    valdžiai, kurios kancleris, Poznaniaus vyskupas Vaitiekus Jas­
+    trzembiec, buvo aiškiai jo reikalams atsidavęs^3 ). Pašauktas jis
+    buvo į tą aukštą vietą ir apdovanotas Krokuvos katedra, sulau­
+    žant lenkų papročius ir tradicijas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-025
+- c-016
+  santrauka: 'Todėl nenuostabu, kad po Torno taikos įvyko dar labai įdomus faktas: kitą dieną, taikos susivažiavimui pasibaigus, Jogaila išsprendė lietuvių-lenką dėl Podolijos gin­ čą, kuris vargais buvo likviduotas 1403 m. Jogaila, neatsižvelg­ damas gyvo lenkų.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Todėl nenuostabu, kad po Torno taikos
+    įvyko dar labai įdomus faktas: kitą dieną, taikos susivažiavimui
+    pasibaigus, Jogaila išsprendė lietuvių-lenką dėl Podolijos gin­
+    čą, kuris vargais buvo likviduotas 1403 m. Jogaila, neatsižvelg­
+    damas gyvo lenkų nepasitenkinimo^1 ), davė Vytautui lėno teisė­
+    mis taip pat tos žemės vakarinę dalį su Kamieniecu, išstumdamas
+    iš čia karūnos seniūną.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-026
 
 ## Pavadinimai šaltiniuose
 
@@ -201,3 +402,60 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 ### Susiję objektai
 - [[objektai/vietos/Juodoji jūra]]
 - [[objektai/vietos/Voluinė]]
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/daiktai/Karūna]]
+- [[objektai/vietos/Krokuva]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Torno]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/lėnas]]
+- [[objektai/zodynas/seniūnas]]
+- [[objektai/zodynas/unija]]
+- [[objektai/vietos/Bakota]]
+- [[objektai/vietos/Bakotos pilis]]
+- [[objektai/asmenys/Borisas Karijotaitis]]
+- [[objektai/vietos/Braclavas]]
+- [[objektai/vietos/Braclavo sritis]]
+- [[objektai/asmenys/D. Kuruta]]
+- [[objektai/asmenys/D. Osten-Sakenas]]
+- [[objektai/vietos/Dniestras]]
+- [[objektai/ivykiai/Edygos vadovaujami totorių antpuoliai Kijevo ir Podolės kraštuose (1414–1416 m.)]]
+- [[objektai/asmenys/Gregorijus Cemblakas]]
+- [[objektai/vietos/Kameneco pilis]]
+- [[objektai/asmenys/Konstantinas (Karijotaitis)]]
+- [[objektai/grupes/Krimo orda]]
+- [[objektai/grupes/Leibgvardijos Voluinės pėstininkų pulkas]]
+- [[objektai/grupes/Leibgvardijos kazokų pulkas]]
+- [[objektai/grupes/Leibgvardijos lietuviškasis pėstininkų pulkas]]
+- [[objektai/grupes/Lenkijos kariuomenė]]
+- [[objektai/ivykiai/Liublino unija (1569 m.)]]
+- [[objektai/asmenys/Markvardas (Ragainės komtūras)]]
+- [[objektai/asmenys/Markvardas Zalzbachas]]
+- [[objektai/vietos/Mažoji Podolė]]
+- [[objektai/vietos/Orininas]]
+- [[objektai/vietos/Palenkė]]
+- [[objektai/vietos/Podolės Kameneco tvirtovė]]
+- [[objektai/paprociai/Podolės žemės duoklės davimas Ordos baskakams per paskirtus atamanus]]
+- [[objektai/vietos/Polesė]]
+- [[objektai/vietos/Smotričo pilis]]
+- [[objektai/vietos/Smotryč]]
+- [[objektai/asmenys/Spytekas iš Melštyno]]
+- [[objektai/asmenys/Spytkas iš Melsztyno]]
+- [[objektai/posakiai/Taip pat protestuoju prieš neteisybę, kuri mums būtų padaryta]]
+- [[objektai/asmenys/Tochtamišas]]
+- [[objektai/grupes/Tochtamišo totoriai]]
+- [[objektai/ivykiai/Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas]]
+- [[objektai/zodynas/atamanas]]
+- [[objektai/zodynas/baskakas]]
+- [[objektai/zodynas/dalinių kunigaikštijų sistema vietininkai]]
+- [[objektai/zodynas/domenas]]
+- [[objektai/zodynas/kuratorius]]
+- [[objektai/zodynas/murza]]
+- [[objektai/zodynas/tėvonys]]
+- [[objektai/zodynas/ulonas]]
+- [[objektai/daiktai/Šarvinių pirštinių, žasto, dilbio, kelio ir blauzdos apsaugos]]
+- [[objektai/daiktai/Šarvinės pirštinės]]
+- [[objektai/zodynas/švietimo apygarda]]
+- [[objektai/autoriai/St. Krakowski]]

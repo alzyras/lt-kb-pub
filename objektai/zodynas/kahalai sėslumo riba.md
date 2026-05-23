@@ -62,3 +62,11 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuvos žydų taryba (Vaad)]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/zodynas/Kahalai]]
+- [[objektai/ivykiai/Lietuvos žydų tarybos (Vaad) sudarymas (1920 m.)]]

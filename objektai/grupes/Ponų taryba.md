@@ -8,6 +8,7 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
   - '1398 m.'
+  - '1492 m.'
   - '1936 m.'
   - '2026 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
@@ -16,6 +17,7 @@ periodo_grupes:
   - 'modernioji Lietuva'
 amziai:
   - 'XIV'
+  - 'XV'
   - 'XX'
   - 'XXI'
 date_start: '1398'
@@ -66,6 +68,14 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
   teiginys: 'Lenkų ponų taryba Radome davė garantiją, kaip lietuv.'
   pagrindžia:
     - c-006
+- t-007
+  teiginys: 'Taryboje buvo suteikta laisvė kiekvienam visiškai laisvai kalbėti; didysis kunigaikštis pasižadėjo nebausti net tų, kurių patarimas būtų ir nemalonus jam. Vis dėlto šia privilegija taryba tebebuvo tik patariamasis organas: jos sprendimai negalėjo varžyti.'
+  pagrindžia:
+    - c-007
+- t-008
+  teiginys: 'Visa tai jis galėjo daryti laisvai; tačiau valstybės politikoje jį varžė įsigalėjusi ponų taryba ir seimai (žiūr.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -163,3 +173,42 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Taryboje buvo suteikta laisvė kiekvienam visiškai laisvai kalbėti; didysis kunigaikštis pasižadėjo nebausti net tų, kurių patarimas būtų ir nemalonus jam. Vis dėlto šia privilegija taryba tebebuvo tik patariamasis organas: jos sprendimai negalėjo varžyti.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Taryboje
+    buvo suteikta laisvė kiekvienam visiškai laisvai kal-
+    bėti; didysis kunigaikštis pasižadėjo nebausti net tų, kurių
+    patarimas būtų ir nemalonus jam. Vis dėlto šia privilegija ta-
+    ryba tebebuvo tik patariamasis organas: jos sprendimai nega-
+    lėjo varžyti didžiojo kunigaikščio; išklausęs tarybos nuomonės,
+    jis galėjo ir visiškai priešingai pasielgti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: 'Visa tai jis galėjo daryti laisvai; tačiau valstybės politikoje jį varžė įsigalėjusi ponų taryba ir seimai (žiūr.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Visa tai jis galėjo daryti laisvai; tačiau
+    valstybės politikoje jį varžė įsigalėjusi ponų taryba ir
+    seimai (žiūr. 198—201 psl.).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/grupes/Lenkų bajorija]]
+- [[objektai/zodynas/perdėtinis]]
+- [[objektai/grupes/Lenkų ponų taryba]]

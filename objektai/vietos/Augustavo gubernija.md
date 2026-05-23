@@ -41,6 +41,10 @@ Lietuvos Užnemunė pri- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O 
   teiginys: 'Per 1863 metus atkakliausiai sukilėliai kovėsi su caro kariuomene Kauno gubernijoje, kurioje įvyko 168 mūšiai ir susidūrimai su caro kariuomene.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Maksimaitienė pateikė duomenų apie sukilėlių kovinius veiksmus 1863 m. Augustavo gubernijoje (AkMD, t.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -88,7 +92,21 @@ Lietuvos Užnemunė pri- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Maksimaitienė pateikė duomenų apie sukilėlių kovinius veiksmus 1863 m. Augustavo gubernijoje (AkMD, t.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Maksimaitienė pateikė duomenų apie sukilėlių kovinius
+    veiksmus 1863 m. Augustavo gubernijoje (AkMD, t. 19, 1965, 143-
+    166 p.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Vilniaus gubernija]]
+- [[objektai/zodynas/gubernija]]

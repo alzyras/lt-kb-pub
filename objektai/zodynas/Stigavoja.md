@@ -76,3 +76,8 @@ Papildomos aiškios formos neišskirtos.
 ## Pastabos
 
 - Forma labai archajiška; reikšmė rekonstruojama iš keleto sakinių ir išnašų.
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Viena]]
+- [[objektai/paprociai/Šventos ugnelės negesinimas trobesiui užsidegus]]

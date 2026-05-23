@@ -43,4 +43,9 @@ Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis]]
+- [[objektai/asmenys/Konstantinas (Karijotaitis)]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Mikalojus (Gniezno arkivyskupas)]]
+- [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis|Mikalojus Konstantinas Čiurlionis (dailininkas)]]
+- [[objektai/vietos/Varšuva]]
+- [[objektai/autoriai/S. F. Platonov]]

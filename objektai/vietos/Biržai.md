@@ -7,15 +7,18 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
+  - '1625 m.'
   - '1936 m.'
   - '2026 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
+  - 'LDK'
   - 'modernioji Lietuva'
 amziai:
+  - 'XVII'
   - 'XX'
   - 'XXI'
-date_start: '1936'
+date_start: '1625'
 date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
@@ -44,6 +47,18 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   teiginys: 'Biržus jau 26 d. buvo išvadavęs Šiaurės Lietuvoje veikęs partizanų batalionas.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Apie Biržus gyvenantys evangelikai reformatai yra tiesioginiai kalvinistinės reformacijos, kuriai po Radvilos Juodojo mirties vadovavo jo pusbrolis Mikalojus Radvila Rudasis, palikuonys.'
+  pagrindžia:
+    - c-004
+- t-005
+  teiginys: 'Švedai išvežė ją iš Biržų 1625 m. niją, turėdamas daug reikalų namie, nebenorėjo kariauti.'
+  pagrindžia:
+    - c-005
+- t-006
+  teiginys: 'Tokios pat mokyklėlės liko Biržuose ir Slucke.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -87,3 +102,55 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Apie Biržus gyvenantys evangelikai reformatai yra tiesioginiai kalvinistinės reformacijos, kuriai po Radvilos Juodojo mirties vadovavo jo pusbrolis Mikalojus Radvila Rudasis, palikuonys.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kalvinizmas vėliau pradėjo nykti, tačiau išliko
+    iki šių dienų. Apie Biržus gyvenantys evangelikai reformatai yra tiesiogi-
+    niai kalvinistinės reformacijos, kuriai po Radvilos Juodojo mirties vado-
+    vavo jo pusbrolis Mikalojus Radvila Rudasis, palikuonys.
+    Reformacija tapo nauju lenkėjimo postūmiu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: 'Švedai išvežė ją iš Biržų 1625 m. niją, turėdamas daug reikalų namie, nebenorėjo kariauti.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Švedai išvežė ją iš Biržų 1625 m.
+    niją, turėdamas daug reikalų namie, nebenorėjo kariauti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: 'Tokios pat mokyklėlės liko Biržuose ir Slucke.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Kėdainiuose teliko tik
+    magistrato išlaikoma silpna mokyklėlė. Tokios pat mokyklėlės
+    liko Biržuose ir Slucke.
+
+    #### 7.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Kėdainiai]]
+- [[objektai/grupes/Švedai]]
+- [[objektai/vietos/Olyka]]
+- [[objektai/vietos/Sluckas]]

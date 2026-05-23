@@ -43,3 +43,9 @@ Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybė
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Motiejus]]
+- [[objektai/autoriai/Motiejus Valančius]]

@@ -30,7 +30,7 @@ Alseikos: „Vytauto D.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Alseikos: „Vytauto D.'
+  teiginys: 'Dr. A. Alseikos „Vytauto D. sumanymas vainikuotis Lietuvos karaliaus vainiku“ išleistas Vilniuje 1924 m.'
   pagrindžia:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -40,7 +40,7 @@ Alseikos: „Vytauto D.
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Alseikos: „Vytauto D.'
+  santrauka: 'Dr. A. Alseikos „Vytauto D. sumanymas vainikuotis Lietuvos karaliaus vainiku“ išleistas Vilniuje 1924 m.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kad Jogaila buvo pasidavęs savo patarėjų įta­

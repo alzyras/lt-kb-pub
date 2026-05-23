@@ -11,6 +11,7 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1399 m.'
+  - '1709 m.'
   - '1936 m.'
   - '1978 m.'
   - '2026 m.'
@@ -19,6 +20,7 @@ periodo_grupes:
   - 'LDK'
 amziai:
   - 'XIV'
+  - 'XVIII'
   - 'XX'
   - 'XXI'
 date_start: '1399'
@@ -70,6 +72,10 @@ Nenurodyta
   teiginys: 'Vorsklos kautynės, apie kurias iš ano laiko yra daug šaltinių^35 , reiškė galą Vytauto didiesiems planams.'
   pagrindžia:
     - c-004
+- t-017
+  teiginys: 'Kairiuoju Dniepro krantu Vytautas nužygiavo palei jo prieupį Vorsklą truputį šiauriau Poltavos, kur po 410 metų Petras Didysis sutriuškino švedų galybę (1709).'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -136,3 +142,39 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-016
+- c-005
+  santrauka: 'Kairiuoju Dniepro krantu Vytautas nužygiavo palei jo prieupį Vorsklą truputį šiauriau Poltavos, kur po 410 metų Petras Didysis sutriuškino švedų galybę (1709).'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Lemiamasis Vytauto žygis, vietoje Timuro ir jo emiro Edigos
+    (Edigiu) pasodinti Aukso ordoje Tochtamišą, nelaimingai pasibaigė.
+    Kairiuoju Dniepro krantu Vytautas nužygiavo palei jo prieupį
+    Vorsklą truputį šiauriau Poltavos, kur po 410 metų Petras Didysis
+    sutriuškino švedų galybę (1709). Sustojęs rugpiučio 5 Vorsklos
+    krante, Vytautas laukė kelias dienas ir su chanu Timuru — Kut­
+    lugu vedė nesėkmingas derybas. Esą Vytautas reikalavęs chaną
+    jam paklusti ir savo piniguose mušti Vytauto ženklą^33. Timuras
+    tačiau derybomis norėjo tik laimėti laiko, nes laukė savo karo
+    vado Edigos dalinių. Šitaip rugpiučio 12 popietėje totorių kariuo­
+    menės į kautynes stojo žymiai daugiau už Vytauto jėgas^34.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Auksinė Orda]]
+- [[objektai/vietos/Dniepras]]
+- [[objektai/asmenys/Ediga]]
+- [[objektai/asmenys/Timuras]]
+- [[objektai/vietos/Vorskla]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/chanas]]
+- [[objektai/asmenys/Saladinas]]
+- [[objektai/ivykiai/Smolensko sukilimas]]
+- [[objektai/asmenys/Tochtamyšas (Krymo ordos chanas)]]
+- [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]

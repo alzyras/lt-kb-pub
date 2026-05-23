@@ -6,6 +6,17 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1999 m.'
+  - '2011 m.'
+periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodo_grupes:
+  - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1999'
+date_end: '2011'
 patikimumas: 'vidutinis'
 tags:
   - saltinis
@@ -30,8 +41,22 @@ Lietuva žemėlapiuose: = Lithuania on the map: paroda, Vilnius, 1999 09 26–19
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-
 ## Reikšmingi paminėjimai
+- c-003
+  santrauka: '„Lietuva žemėlapiuose = Lithuania on the map“ buvo 1999 m. Vilniuje vykusios parodos katalogas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vilnius, 2011; Lietuva žemėlapiuose:
+    = Lithuania on the map: paroda, Vilnius, 1999 09 26–1999 12 11: katalogas. Parengė
+    Aldona Bieliūnienė ir kiti. Vilnius, 1999; Lietuvos bažnyčių menas = The Art of
+    Lithuanian Churches.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Bibliografiniai įrodymai
 - c-001

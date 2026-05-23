@@ -124,3 +124,15 @@ Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovait
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/vietos/Palanga]]
+- [[objektai/asmenys/Vosylius]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/vietos/Pronskas]]
+- [[objektai/vietos/Zna]]

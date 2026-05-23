@@ -54,3 +54,10 @@ Paskutinis Gedimino laiškas (1325.VI.2) yra rašytas Talino ir Tartu vyskupams,
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/laiškas]]
+
+### Susiję objektai
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/vietos/Ryga]]
+- [[objektai/vietos/Talinas]]
+- [[objektai/vietos/Tartu]]
+- [[objektai/zodynas/vietininkas]]

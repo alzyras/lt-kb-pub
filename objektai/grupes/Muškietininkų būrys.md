@@ -82,3 +82,11 @@ Prie Daukšių bazavosi „Muškietininkų“ būrys, vadovaujamas Vlado Gavėno
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Buktos (Žaliosios) miškas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/NKVD]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/vietos/Žuvinto ežeras]]

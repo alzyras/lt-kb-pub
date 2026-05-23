@@ -51,4 +51,8 @@ Kai narsus Kuldingos (Goldingen) komtūras Bernhardas von Haren su gausiu grobiu
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/komtūras]]
+- [[objektai/zodynas/pagonybė]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/ivykiai/Skuodo kautynės (1259 m.)]]
 - [[objektai/vietos/Skuodo laukai]]

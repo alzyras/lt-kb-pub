@@ -87,5 +87,11 @@ Lukšio rinktinė (netrukus pervadinta į Maironio), joje J. Lukšio rinktinės 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Maironio rinktinė]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Kęstučio apygarda]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
+- [[objektai/autoriai/Maironis]]
 - [[objektai/grupes/Prisikėlimo apygarda]]
+- [[objektai/grupes/Rytas]]
+- [[objektai/grupes/Maironio rinktinė]]

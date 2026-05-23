@@ -66,3 +66,25 @@ Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanor
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/transportas]]
+
+### Susiję objektai
+- [[objektai/daiktai/Geltonas lankelis ant kepurės]]
+- [[objektai/vietos/Kėdainiai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/daiktai/Lietuvos kario savadarbė diržo sagtis]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/asmenys/Antanas Šukys]]
+- [[objektai/asmenys/Artūras Sakalauskas]]
+- [[objektai/asmenys/I. Drakša]]
+- [[objektai/daiktai/Iž-54 medžioklinis šautuvas]]
+- [[objektai/asmenys/J. Aukštuolaitis]]
+- [[objektai/asmenys/Jonas Domicini iš Rogūzos]]
+- [[objektai/asmenys/Justinas Gustaitis]]
+- [[objektai/ivykiai/Konstancijos susirinkimas (1414–1418 m.)]]
+- [[objektai/vietos/Kruopiai]]
+- [[objektai/daiktai/Savadarbis lygiavamzdis šautuvas]]
+- [[objektai/ivykiai/Susirėmimas prie pagrindinio įvažiavimo į AT rūmus ir Artūro Sakalausko žūtis (1991 m. rugpjūčio 21 d.)]]
+- [[objektai/asmenys/Vygantas Jocius]]
+- [[objektai/daiktai/Lietuvos kariuomenės savanorio rankovės antsiuvas]]
+- [[objektai/grupes/Savanorio rinktinė]]

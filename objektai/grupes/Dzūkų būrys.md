@@ -56,3 +56,7 @@ Tų pačių metų liepos 13 d., grįždami iš žygio, Dzūkų būrio partizanai
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/ežeras]]
+
+### Susiję objektai
+- [[objektai/grupes/NKVD]]
+- [[objektai/vietos/Žuvinto ežeras]]

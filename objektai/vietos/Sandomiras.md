@@ -49,6 +49,10 @@ Bet Jogaila nebepabūgo ir pakeliui į Krokuvą iš Sandomiro rašė vyriausiam 
   teiginys: 'Panašiu metu Lenkijoje lietuviai puolė Sandomiro ir Krokuvos žemes.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Paskutiniame Sandomiro suvažiavime, matyt, buvo priimtas minimas sumanymas, tačiau abejojama, ar tam pritarė Jogaila.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -101,3 +105,23 @@ Bet Jogaila nebepabūgo ir pakeliui į Krokuvą iš Sandomiro rašė vyriausiam 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Paskutiniame Sandomiro suvažiavime, matyt, buvo priimtas minimas sumanymas, tačiau abejojama, ar tam pritarė Jogaila.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Toks sumanymas, matyt, bu­
+    vo priimtas paskutiniame Sandomiriaus suvažiavime. Ar tas
+    sumanymas buvo priimtas pritariant Jogailai, kyla abejonių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/ivykiai/Jogailos išrinkimas Lenkijos karaliumi]]
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/ivykiai/Sandomiro pasitarimas dėl Vytauto karūnacijos (1429 m. rugsėjo 8 d.)]]

@@ -6,6 +6,18 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1864 m.'
+  - '1904 m.'
+  - '1906 m.'
+periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
+periodo_grupes:
+  - 'naujieji laikai'
+amziai:
+  - 'XIX'
+  - 'XX'
+date_start: '1864'
+date_end: '1906'
 patikimumas: 'vidutinis'
 tags:
   - karalius
@@ -31,6 +43,10 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Lenkijos karalystės teritorijoje apie visišką lenkų kalbos ir kultūros išstūmimą iš viešojo gyvenimo ir švietimo įstaigų nekalbėta.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -63,3 +79,38 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Lenkijos karalystės teritorijoje apie visišką lenkų kalbos ir kultūros išstūmimą iš viešojo gyvenimo ir švietimo įstaigų nekalbėta.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lenkijos karalystės teritorijoje apie visišką lenkų kalbos ir kultūros iš-
+    stūmimą iš viešojo gyvenimo ir švietimo įstaigų nekalbėta. Rusų kalba
+    Rusijos imperijos priespaudos laikų švietimą
+    lietuvių kalba vaizduojanti alegorinė skulptūra
+     „Lietuvos mokykla 1864–1904“. Dail. P. Rimša, 1906 m.
+
+    L I E T U V O S  I S T O R I J A
+    116
+    čia privalomai diegta kaip „lenkų suartinimo su rusais“ priemonė. Atseit,
+    lenkai galų gale turėtų nustoti svajoję apie buvusios valstybės atkūrimą ir
+    suprasti, kad gyventi jiems, kaip slavams, Rusijos imperijos globoje yra
+    geriau, nei tiems jų tautiečiams, kurie pakliuvo į vokiškų valstybių val-
+    džią.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/posakiai/„lenkų suartinimo su rusais“]]
+- [[objektai/paprociai/Carinės „lenkų pradų naikinimo“ rusinimo praktikos]]
+- [[objektai/zodynas/lenkų pradų naikinimo politika]]
+- [[objektai/posakiai/„Čia nebus Lenkijos“]]

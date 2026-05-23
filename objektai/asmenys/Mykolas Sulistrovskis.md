@@ -51,3 +51,10 @@ Prieš priemiesčius stovėjo 2-asis regimentas, vadovaujamas Karolio Moravskio 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Brasta]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/grupes/Rusijos kariuomenė]]

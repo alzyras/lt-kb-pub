@@ -50,3 +50,13 @@ Ją Dlugošas vėl kritikavo, kad « visai klaidingu būdu ir beveik pajuokai bu
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Dlugošas]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Torno]]
+- [[objektai/ivykiai/Torno taika (1411 m.)]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/vietos/Žalgiris]]

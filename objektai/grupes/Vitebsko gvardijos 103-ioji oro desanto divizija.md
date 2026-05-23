@@ -63,4 +63,10 @@ Yra duomenų, kad šios ir Vitebsko gvardijos 103-iosios oro desanto divizijos, 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Pskovas]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/vietos/Vitebskas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/vietos/Šiauliai]]
 - [[objektai/grupes/76-osios oro desanto divizijos 234-asis pulkas]]

@@ -286,6 +286,23 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/A. Liuneburgietis]]
+- [[objektai/vietos/Dauguva]]
+- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Sapiegos]]
+- [[objektai/asmenys/Vaina]]
+- [[objektai/vietos/Viena]]
+- [[objektai/daiktai/Vėliavos]]
+- [[objektai/zodynas/flangas]]
+- [[objektai/zodynas/husarai]]
+- [[objektai/zodynas/raitarai]]
+- [[objektai/zodynas/rotmistras]]
+- [[objektai/zodynas/vėliava]]
+- [[objektai/grupes/Švedai]]
+- [[objektai/asmenys/Laurencijus Bojeris]]
 - [[objektai/ivykiai/Salaspilio (Kirkcholmo) mūšis]]
+- [[objektai/vietos/Salaspilis]]
 - [[objektai/asmenys/T. Lackis]]
 - [[objektai/grupes/Švedų gvardijos kavalerija]]

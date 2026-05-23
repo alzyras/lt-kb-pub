@@ -50,3 +50,11 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Polockas]]
+- [[objektai/vietos/Maskvos-Lietuvos pasienis]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/ivykiai/Polocko apsiaustis (1563 m. sausio 31 d.)]]

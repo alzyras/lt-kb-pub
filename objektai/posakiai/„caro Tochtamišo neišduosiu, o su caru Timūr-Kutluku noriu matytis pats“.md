@@ -58,5 +58,14 @@ Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė s
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Auksinė Orda]]
+- [[objektai/vietos/Kijevas]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Timūr-Kutlukas]]
 - [[objektai/asmenys/Tochtamišas]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/chanas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/posakiai/caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats]]

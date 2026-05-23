@@ -82,3 +82,11 @@ Chodynicki 1926, sulaukdamas kitų tyrinėtojų pritarimo. Chodynicki, K. Chodyn
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/grupes/Vokiečiai]]

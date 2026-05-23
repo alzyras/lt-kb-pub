@@ -39,3 +39,7 @@ Blažytė-Baužienė D., Tamošaitis M., Truska L.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]

@@ -76,4 +76,12 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/J. Mikoliūnas]]
+- [[objektai/daiktai/Karūna]]
+- [[objektai/vietos/Kėdainiai]]
+- [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/paprociai/Lietuvos kariuomenės skiriamųjų ženklų įvedimas ir Vyties tvirtinimas prie sagčių]]
+- [[objektai/zodynas/Savanoris]]
 - [[objektai/daiktai/Lietuvos kariuomenės savanorio rankovės antsiuvas]]

@@ -56,4 +56,6 @@ Drakšos 1991 m. Vienas iš LR seimo rūmuose budėjusių savanorių šaunamųj�
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/SSRS]]
+- [[objektai/zodynas/Savanoris]]
 - [[objektai/daiktai/Savadarbis lygiavamzdis šautuvas]]

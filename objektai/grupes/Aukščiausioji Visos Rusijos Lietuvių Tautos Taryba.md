@@ -45,3 +45,11 @@ Nepriklausomybės šūkį toliau skleidė naujai sukurtoji Voroneže Aukščiaus
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Voronežas]]
+- [[objektai/grupes/Lietuvių Tautos Taryba]]
+- [[objektai/grupes/Tautos taryba]]

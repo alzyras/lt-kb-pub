@@ -53,3 +53,8 @@ Birželio 2-3 d. LDK didysis etmonas Kristupas Radvila Perkūnas pasiuntė rotmi
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Kuoknesė]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/zodynas/etmonas]]
+- [[objektai/zodynas/rotmistras]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

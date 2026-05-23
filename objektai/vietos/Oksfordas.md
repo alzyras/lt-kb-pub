@@ -45,5 +45,10 @@ Vilniaus universiteto profesorių veikalai pasiekė net protestantiškąją Angl
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Anglija]]
+- [[objektai/vietos/Europa]]
+- [[objektai/asmenys/Horacijus]]
 - [[objektai/autoriai/Martynas Smigleckis]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/paprociai/Jėzuitiškas mokymas ir katalikybės sklaida per Vilniaus universitetą]]
 - [[objektai/asmenys/Motiejus Kazimieras Sarbievijus]]

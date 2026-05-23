@@ -61,4 +61,10 @@ Po to Kauno saloje buvo sušauktas Žemaitijos sienų reikalu suvažiavimas, (14
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Kaunas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Mykolas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Žemaičiai]]
 - [[objektai/asmenys/Benediktas Makras]]

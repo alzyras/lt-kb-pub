@@ -19,6 +19,7 @@ datos:
   - '1920 m.'
   - '1921 m.'
   - '1923 m.'
+  - '1928 m.'
   - '1939 m.'
 periodas: 'viduramžiai'
 periodo_grupes:
@@ -63,13 +64,17 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-009
-  teiginys: 'Klimas, P.: Lietuvių senobės bruožai, Vilnius 1919 (gausi medžiaga, ir išvados dar gera dalimi nėra pa­ senusios).'
+  teiginys: 'P. Klimas 1939 m. paruošė numatytos daugiatomės „Lietuvių tautos istorijos“ I tomą iki 1200 m.'
   pagrindžia:
     - c-003
 - t-010
-  teiginys: 'Klimas, P.'
+  teiginys: 'P. Klimas 1917 m. Kaune išleido veikalą „Lietuva, jos gyventojai ir sienos“.'
   pagrindžia:
     - c-004
+- t-011
+  teiginys: 'Klimo, LIETUVIŲ KALBOS SINTAKSĖ.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -106,7 +111,7 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
   pagrindžia:
     - t-008
 - c-003
-  santrauka: 'Klimas, P.: Lietuvių senobės bruožai, Vilnius 1919 (gausi medžiaga, ir išvados dar gera dalimi nėra pa­ senusios).'
+  santrauka: 'P. Klimas 1939 m. paruošė numatytos daugiatomės „Lietuvių tautos istorijos“ I tomą iki 1200 m.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     — Klimas, P.: _Lietuvių senobės
@@ -122,7 +127,7 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
   pagrindžia:
     - t-009
 - c-004
-  santrauka: 'Klimas, P.'
+  santrauka: 'P. Klimas 1917 m. Kaune išleido veikalą „Lietuva, jos gyventojai ir sienos“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     — Klimas, P. : _Lietuva,
@@ -137,3 +142,20 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-010
+- c-005
+  santrauka: 'Klimo, LIETUVIŲ KALBOS SINTAKSĖ.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    15. P. Klimo, LIETUVIŲ KALBOS SINTAKSĖ. Septintasis leidimas.
+    1928 m. Kaina Lt. 1,50.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]

@@ -45,3 +45,8 @@ Apskritai tautiška S.S.S.R-os lietuvių būklė gana liūdna: ten sparčiai ein
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]

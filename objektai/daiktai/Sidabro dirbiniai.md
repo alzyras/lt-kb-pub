@@ -78,3 +78,13 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/autoriai/M. Michelbertas]]
+- [[objektai/vietos/Veliuona]]
+- [[objektai/autoriai/E. Danilaitė]]
+- [[objektai/autoriai/E. Radzvilovaitė]]
+- [[objektai/daiktai/Geležiniai įrankiai]]
+- [[objektai/autoriai/L. Nakaitė]]

@@ -8,6 +8,7 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
   - '1338 m.'
+  - '1360 m.'
   - '1412 m.'
   - '1416 m.'
   - '1418 m.'
@@ -18,7 +19,9 @@ datos:
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
+  - 'XX a.'
 amziai:
+  - 'V'
   - 'XIV'
   - 'XV'
   - 'XX'
@@ -76,6 +79,34 @@ saugoti Dubysos upyną.
   teiginys: 'Tai buvo po nenusisekusių Veliuonos (1418) derybų nu­ statyti Žemaitijos sienas.'
   pagrindžia:
     - c-008
+- t-009
+  teiginys: 'Iš Rudaičių ir Veliuonos kapinynų duomenų pateikė M.'
+  pagrindžia:
+    - c-009
+- t-010
+  teiginys: 'Yra tikra tiek, jog ilgai buvo klaidingai aiškinta, kad Gediminas esąs žuvęs per Veliuonos apgulimą 1338 m., į pečius kryžiuočių pašautas.'
+  pagrindžia:
+    - c-010
+- t-011
+  teiginys: 'Tuo pat metu, kai kryžiuočiai įrodinėjo, kad dešinysis Nemuno krantas nuo seno tik jiems priklausęs, Vytautas pasistatė tvirtą Veliuonos pilį, o Dubysos žiotyse (Seredžiuje) atstatė Peštvę, nuo XIX amž. žinomą « Palemono kalno » vardu^2.'
+  pagrindžia:
+    - c-011
+- t-012
+  teiginys: 'Šitas vengriškos kilmės teisių žinovas, nuvykęs į Žemaitijos pasienius, vietoje turėjo išspręsti, ar Veliuonos ir Klaipėdos pilys yra Žemaičių žemės ribose, kadangi jau Budoje pasiuntiniai Lietuvos vardu pareiškė, jog kryžiuočiai Klaipėdos pilį valdą.'
+  pagrindžia:
+    - c-012
+- t-013
+  teiginys: '81 Vechra, upė 287, 312 Vedrošos kautynės 39 Veiviržo upė 180 Vėjukų pilis 227, 235 Velikaja, upė 158 Veliuona 77, 100, 105, 216, 236, 237, 244, 251, 256, 345-347, 352, 353, 357, 358, 360 Vėluva, Prūsuose 250, 252 Vencelis, Čekijos karalius 62, 373, žr.'
+  pagrindžia:
+    - c-013
+- t-014
+  teiginys: 'Atvykus naujai pagalbai Ordinui, „daug vokiečių, anglų“, kryžiuočiai vėl veikė prie Nemuno, rugpjūtį magistrui pavyko sunaikinti svarbią lietuvių Veliuonos pilį.'
+  pagrindžia:
+    - c-014
+- t-015
+  teiginys: 'Tais metais maršalo vadovaujama Ordino kariuomenė, su talkininkais iš Vokietijos atplaukusi laivais, puolė Veliuonos pilį, padarė jai daug žalos.'
+  pagrindžia:
+    - c-015
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -217,3 +248,171 @@ saugoti Dubysos upyną.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-009
+  santrauka: 'Iš Rudaičių ir Veliuonos kapinynų duomenų pateikė M.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Iš Rudaičių ir Veliuonos
+    kapinynų duomenų pateikė M. Michelbertas (AkMD, t. 15,
+    1963, 55-70 p. ; t. 24, 1967, 47-58 p.), taip pat rašė apie Romos
+    monetų radinius Lietuvoje I-V a.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: 'Yra tikra tiek, jog ilgai buvo klaidingai aiškinta, kad Gediminas esąs žuvęs per Veliuonos apgulimą 1338 m., į pečius kryžiuočių pašautas.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Yra tikra tiek,
+    jog ilgai buvo klaidingai aiškinta, kad Gediminas esąs žuvęs per
+    Veliuonos apgulimą 1338 m., į pečius kryžiuočių pašautas. Jis tada
+    žiemop (XI.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+- c-011
+  santrauka: 'Tuo pat metu, kai kryžiuočiai įrodinėjo, kad dešinysis Nemuno krantas nuo seno tik jiems priklausęs, Vytautas pasistatė tvirtą Veliuonos pilį, o Dubysos žiotyse (Seredžiuje) atstatė Peštvę, nuo XIX amž. žinomą « Palemono kalno » vardu^2.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Tuo pat metu, kai kryžiuočiai įrodinėjo, kad
+    dešinysis Nemuno krantas nuo seno tik jiems priklausęs, Vytautas
+    pasistatė tvirtą Veliuonos pilį, o Dubysos žiotyse (Seredžiuje)
+    atstatė Peštvę, nuo XIX amž. žinomą « Palemono kalno » vardu^2.
+    Ordinas buvo gąsdinamas girdais, kad kunigaikštis « tas pilis pasta­
+    tęs prieš vokiečius ».
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+- c-012
+  santrauka: 'Šitas vengriškos kilmės teisių žinovas, nuvykęs į Žemaitijos pasienius, vietoje turėjo išspręsti, ar Veliuonos ir Klaipėdos pilys yra Žemaičių žemės ribose, kadangi jau Budoje pasiuntiniai Lietuvos vardu pareiškė, jog kryžiuočiai Klaipėdos pilį valdą.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Šitas vengriškos kilmės teisių žinovas, nuvykęs
+    į Žemaitijos pasienius, vietoje turėjo išspręsti, ar Veliuonos ir
+    Klaipėdos pilys yra Žemaičių žemės ribose, kadangi jau Budoje
+    pasiuntiniai Lietuvos vardu pareiškė, jog kryžiuočiai Klaipėdos pilį
+    valdą neteisėtai, nes ji esanti Žemaičių žemėje^8.
+    Su nepasitikėjimu priimtas Marienburge (1412.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+- c-013
+  santrauka: '81 Vechra, upė 287, 312 Vedrošos kautynės 39 Veiviržo upė 180 Vėjukų pilis 227, 235 Velikaja, upė 158 Veliuona 77, 100, 105, 216, 236, 237, 244, 251, 256, 345-347, 352, 353, 357, 358, 360 Vėluva, Prūsuose 250, 252 Vencelis, Čekijos karalius 62, 373, žr.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    81
+    Vechra, upė 287, 312
+    Vedrošos kautynės 39
+    Veiviržo upė 180
+    Vėjukų pilis 227, 235
+    Velikaja, upė 158
+    Veliuona 77, 100, 105, 216, 236, 237,
+    244, 251, 256, 345-347, 352, 353,
+    357, 358, 360
+    Vėluva, Prūsuose 250, 252
+    Vencelis, Čekijos karalius 62, 373,
+    žr.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+- c-014
+  santrauka: 'Atvykus naujai pagalbai Ordinui, „daug vokiečių, anglų“, kryžiuočiai vėl veikė prie Nemuno, rugpjūtį magistrui pavyko sunaikinti svarbią lietuvių Veliuonos pilį.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Atvykus naujai pagalbai Ordinui, „daug
+    vokiečių, anglų“, kryžiuočiai vėl veikė
+    prie Nemuno, rugpjūtį magistrui pavyko
+    sunaikinti svarbią lietuvių Veliuonos
+    pilį. Tais pačiais metais Švedijos karalius,
+    palaikomas popiežiaus, pradėjo puo-
+    limą prieš Naugardo valdas, kurios buvo
+    svarbios Lietuvai blokuojant Livoniją iš
+    rytų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
+- c-015
+  santrauka: 'Tais metais maršalo vadovaujama Ordino kariuomenė, su talkininkais iš Vokietijos atplaukusi laivais, puolė Veliuonos pilį, padarė jai daug žalos.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    1360 m.
+    kryžiuočiai toliau tvirtinosi pačiame Ne-
+    muno žemupyje, statė naują pilį Skalvos
+    žemėje (netoli Tilžės), o kitą prie Nemuno
+    žiočių — Ventės rage (Vindenburgą). Tais
+    metais maršalo vadovaujama Ordino ka-
+    riuomenė, su talkininkais iš Vokietijos
+    atplaukusi laivais, puolė Veliuonos pilį,
+    padarė jai daug žalos. Rudenį Veliuona
+    vėl pulta.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/vietos/Naugardas]]
+- [[objektai/vietos/Nemunas]]
+- [[objektai/vietos/Vokietija]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/maršalas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/vietos/Švedija]]
+- [[objektai/vietos/Ariogalos kraštas]]
+- [[objektai/vietos/Brasta]]
+- [[objektai/vietos/Daugai]]
+- [[objektai/ivykiai/Derybos Salyne su Vokiečių ordinu]]
+- [[objektai/ivykiai/Gedimino prekybinė sutartis su Livonija (1338 m.)]]
+- [[objektai/autoriai/J. Lebedys]]
+- [[objektai/asmenys/Jonas (Čekijos karalius)]]
+- [[objektai/asmenys/Jurgis Vytautaitis]]
+- [[objektai/autoriai/K. Korsakas]]
+- [[objektai/vietos/Kauno pilis]]
+- [[objektai/asmenys/Liudvikas (Vengrijos karalius)]]
+- [[objektai/autoriai/M. Michelbertas]]
+- [[objektai/ivykiai/Melno taikos ratifikavimas Veliuonoje (1423 m. gegužė)]]
+- [[objektai/asmenys/Narimantas Gediminaitis]]
+- [[objektai/vietos/Naugardėlis]]
+- [[objektai/vietos/Naujasis Kaunas]]
+- [[objektai/vietos/Neumarkas]]
+- [[objektai/vietos/Peštvė]]
+- [[objektai/vietos/Rudaičiai]]
+- [[objektai/daiktai/Sidabro dirbiniai]]
+- [[objektai/vietos/Trapėnai]]
+- [[objektai/vietos/Veliuonos pilis]]
+- [[objektai/ivykiai/Veliuonos suvažiavimas dėl Žemaičių sienos (1420 m. rugsėjo 8 d.)]]
+- [[objektai/vietos/Ventės ragas]]
+- [[objektai/posakiai/„Jūs norite man išplėšti tėvų palikimą...“]]
+- [[objektai/vietos/Dubysos upė]]

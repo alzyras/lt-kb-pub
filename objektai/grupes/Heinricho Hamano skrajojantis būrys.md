@@ -45,5 +45,8 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Kaunas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Vilnius]]
 - [[objektai/grupes/Ypatingasis SD būrys Vilniuje]]
 - [[objektai/zodynas/zonderkomanda]]

@@ -46,3 +46,12 @@ Albertas buvo Rygos vyskupas ir vienas Livonijos vokiečių valdžios kūrėjų.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Europa]]
+- [[objektai/grupes/Jotvingiai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Ryga]]
+- [[objektai/ivykiai/Kalavijuočių ordino įkūrimas]]
+- [[objektai/vietos/Palestina]]

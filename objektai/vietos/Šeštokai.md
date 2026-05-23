@@ -71,4 +71,9 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Alytus]]
+- [[objektai/daiktai/Artilerija]]
+- [[objektai/vietos/Kaunas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/zodynas/žygis]]
 - [[objektai/vietos/Varėna]]

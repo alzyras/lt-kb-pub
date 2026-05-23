@@ -6,6 +6,20 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1909 m.'
+  - '1968 m.'
+  - '1988 m.'
+  - '1990 m.'
+  - '1991 m.'
+periodas: 'okupacijų ir sovietmečio laikotarpis'
+periodo_grupes:
+  - 'XX a.'
+  - 'naujieji laikai'
+amziai:
+  - 'XX'
+date_start: '1909'
+date_end: '1991'
 patikimumas: 'vidutinis'
 tags:
   - ivykis
@@ -44,6 +58,10 @@ Nenurodyta
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Ją sudarė 35 visoje Lietuvoje žinomi inteligentai.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -73,7 +91,24 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Ją sudarė 35 visoje Lietuvoje žinomi inteligentai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Ją sudarė 35 visoje Lietuvoje žinomi inte-
+    ligentai. Tarp jų nebuvo nei disidentų, nei valdžios atstovų, nei darbininkų,
+    studentų – savo sudėtimi LPS užuomazgos skiriasi nuo 1968 m. Čekoslo-
+    vakijoje vykusio „Prahos pavasario“, kur iniciatyvą rodė valdančioji partija,
+    ir Lenkijos „Solidarumo“ judėjimo, kur iniciatyva priklausė darbininkams.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]

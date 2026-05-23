@@ -57,3 +57,10 @@ Be to, į Žemaičių vyskupiją pareiškė pretenzijų Rygos arkivyskupai (Gots
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/vietos/Ryga]]
+- [[objektai/grupes/Žemaičiai]]

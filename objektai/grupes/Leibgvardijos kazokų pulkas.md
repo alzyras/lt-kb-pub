@@ -73,5 +73,10 @@ Kautynėms paruoštą Rusijos kariuomenės pagrindą sudarė: Leibgvardijos liet
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Artilerija]]
+- [[objektai/vietos/Podolė]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/vietos/Voluinė]]
 - [[objektai/grupes/Leibgvardijos Voluinės pėstininkų pulkas]]
 - [[objektai/grupes/Leibgvardijos lietuviškasis pėstininkų pulkas]]

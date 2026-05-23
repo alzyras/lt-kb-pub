@@ -114,3 +114,21 @@ Rusų metraščiai taip pat mini, kad „sumušė vokiečiai Lietuvą, nukovė L
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/vietos/Naugardas]]
+- [[objektai/grupes/Pranciškonų ordinas]]
+- [[objektai/vietos/Prūsija]]
+- [[objektai/vietos/Veliuona]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/vietininkas]]
+- [[objektai/grupes/Švedai]]
+- [[objektai/vietos/Švedija]]

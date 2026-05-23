@@ -16,17 +16,23 @@ datos:
   - '1772 m.'
   - '1773 m.'
   - '1775 m.'
+  - '1792 m.'
   - '1830 m.'
   - '1858 m.'
+  - '1875 m.'
   - '1889 m.'
   - '1896 m.'
   - '1899 m.'
+  - '1911 m.'
+  - '1920 m.'
   - '1930 m.'
   - '1936 m.'
   - '2026 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
+  - 'modernioji Lietuva'
+  - 'naujieji laikai'
 amziai:
   - 'XIV'
   - 'XV'
@@ -75,6 +81,66 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
   teiginys: 'Lietuviai irgi atvažiavo į Varšuvą, tačiau į elekciją nėjo: jie reikalavo, kad pirma lenkai savitarpyje susitaikintų ir pašalintų kariuomenę.'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: 'Lenkijoje tai įvyko tik po Liublino unijos – būtent 1573 m. vadinamojoje Varšuvos konfederacijoje.'
+  pagrindžia:
+    - c-006
+- t-007
+  teiginys: 'Jėgos buvo nelygios, todėl numatyta, kad besipriešinanti kariuomenė turi trauktis Varšuvos link.'
+  pagrindžia:
+    - c-007
+- t-008
+  teiginys: '1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas Stanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Lenkijos ir Lietuvos) dignitorių – ministrų.'
+  pagrindžia:
+    - c-008
+- t-009
+  teiginys: 'Kosakovskis, egzekucija – jie buvo pakarti Varšuvoje birželio 28 dieną.'
+  pagrindžia:
+    - c-009
+- t-010
+  teiginys: 'Lapkričio 5 dieną pasidavė Varšuva, kurią gynė ir pasitraukę Lietuvos sukilėliai.'
+  pagrindžia:
+    - c-010
+- t-011
+  teiginys: '1830 m. lapkričio pabaigoje Varšuvoje pasikėsinus prieš caro brolį, kuris buvo ir Lenkijos kariuomenės vadas, Varšuvą apėmė miestiečių sukilimas.'
+  pagrindžia:
+    - c-011
+- t-012
+  teiginys: '„Aušros“ idėjas toliau plėtojo 1889 m. pradėtas leisti žurnalas „Varpas“, įsteigtas Varšuvos lietuvių studentų draugijos „Lietuva“.'
+  pagrindžia:
+    - c-012
+- t-013
+  teiginys: 'Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis Peterburgas–Varšuva (vėliau nutiesiama atšaka per Kauną į Karaliaučių (Kenigsbergą), linija Liepoja–Romnai.'
+  pagrindžia:
+    - c-013
+- t-014
+  teiginys: 'Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje, plačiausiai šiuo metu pasaulyje žinomas lietuvių dailininkas ir kompozitorius, muziką ir dailę studijavęs Varšuvoje ir Leipcige.'
+  pagrindžia:
+    - c-014
+- t-015
+  teiginys: 'Kai lenkų daliniai, spaudžiami bolševikų, ėmė trauktis, konferencijoje Spa 1920 m. liepos 5–16 d. didžiosios valstybės nurodė Lenkijai grąžinti Vilnių Lietuvai ir Varšuva sutiko.'
+  pagrindžia:
+    - c-015
+- t-016
+  teiginys: 'Tik Raudonajai armijai pralaimėjus prie Varšuvos, bolševikai „sukilimą“ atšaukė.'
+  pagrindžia:
+    - c-016
+- t-017
+  teiginys: 'Lietuviai federacijos principo vengė logiškai manydami, kaip čia 2 milijonams lietuvių nepaskendus 28 milijonų lenkų jūroje, tačiau derėtis sutiko, jeigu tik Varšuva pripažins Lietuvą su sostine Vilniumi.'
+  pagrindžia:
+    - c-017
+- t-020
+  teiginys: '1766 m. Fr. Bohomolecas Varšuvoje parengė antrąjį leidimą.'
+  pagrindžia:
+    - c-020
+- t-021
+  teiginys: '42, 77, 123, 151, 186, 192, 202, 210, 224, 232 Varėna 98, 108, 356 Varmė (Varmija) 220 Varnėnai 177 Varniai 46, 171, 177, 226, 351 Varputis, dievaitis 143 Varšuva 39, 45, 47 ; Varšuvos archy­ vas 314 Vasario 16 aktas 34, 40 Vasibutas 335 Vasil’evskij V.'
+  pagrindžia:
+    - c-021
+- t-022
+  teiginys: 'Padalinimo sutartys buvo pasirašytos 1772 m. Sankt Peterburge, 0 1773—1775 m. jas patvirtino delegacinis seimas Varšuvoje.'
+  pagrindžia:
+    - c-022
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -172,3 +238,312 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Lenkijoje tai įvyko tik po Liublino unijos – būtent 1573 m. vadinamojoje Varšuvos konfederacijoje.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lenkijoje tai įvyko tik po Liublino
+    unijos – būtent 1573 m. vadinamojoje Varšuvos konfederacijoje. Lietu-
+    voje tai padarė 1563 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: 'Jėgos buvo nelygios, todėl numatyta, kad besipriešinanti kariuomenė turi trauktis Varšuvos link.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Jėgos buvo
+    nelygios, todėl numatyta, kad besipriešinanti kariuomenė turi trauktis
+    Varšuvos link. Rimtesnės kautynės vyko birželio 11 dieną prie Myro,
+    tačiau birželio 14-ąją Vilnius buvo atiduotas be kovos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: '1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas Stanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Lenkijos ir Lietuvos) dignitorių – ministrų.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas
+    Stanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Len-
+    kijos ir Lietuvos) dignitorių – ministrų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: 'Kosakovskis, egzekucija – jie buvo pakarti Varšuvoje birželio 28 dieną.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Sukilimo kulminacija Lenkijai ir Lietuvai tapo kai kurių Targovicos
+    konfederatų, tarp kurių buvo Vilniaus vyskupas I. Masalskis ir Livonijos
+    vyskupas J. Kosakovskis, egzekucija – jie buvo pakarti Varšuvoje birže-
+    lio 28 dieną.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: 'Lapkričio 5 dieną pasidavė Varšuva, kurią gynė ir pasitraukę Lietuvos sukilėliai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lapkričio 5 dieną pasidavė Varšuva, kurią
+    gynė ir pasitraukę Lietuvos sukilėliai. Ginant Varšuvą žuvo Lietuvos suki-
+    lėlių vadas J.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+- c-011
+  santrauka: '1830 m. lapkričio pabaigoje Varšuvoje pasikėsinus prieš caro brolį, kuris buvo ir Lenkijos kariuomenės vadas, Varšuvą apėmė miestiečių sukilimas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1830 m. lapkričio pabaigoje Varšuvoje pasikėsinus prieš caro brolį, ku-
+    ris buvo ir Lenkijos kariuomenės vadas, Varšuvą apėmė miestiečių sukili-
+    mas. Karalystės Seimas paskelbė pašalinąs Nikolajų I iš Lenkijos karaliaus
+    sosto ir perduodąs suverenitetą tautai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+- c-012
+  santrauka: '„Aušros“ idėjas toliau plėtojo 1889 m. pradėtas leisti žurnalas „Varpas“, įsteigtas Varšuvos lietuvių studentų draugijos „Lietuva“.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    „Aušros“ idėjas toliau plėto-
+    jo 1889 m. pradėtas leisti žurnalas
+    „Varpas“, įsteigtas Varšuvos lie-
+    tuvių studentų draugijos „Lietu-
+    va“. Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka
+    (1858–1899), kuris vos netapo lenku, ir tik „Aušros“ numeris, patekęs jam į
+    rankas, veikiai ištaisė galvoseną ir paskatino „pasijusti lietuviu“.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+- c-013
+  santrauka: 'Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis Peterburgas–Varšuva (vėliau nutiesiama atšaka per Kauną į Karaliaučių (Kenigsbergą), linija Liepoja–Romnai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis
+    Peterburgas–Varšuva (vėliau nutiesiama atšaka per Kauną į Karaliaučių
+    (Kenigsbergą), linija Liepoja–Romnai. Devintajame dešimtmetyje nu-
+    tiesiamos pirmosios telefono linijos, XX a.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+- c-014
+  santrauka: 'Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje, plačiausiai šiuo metu pasaulyje žinomas lietuvių dailininkas ir kompozitorius, muziką ir dailę studijavęs Varšuvoje ir Leipcige.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kurį laiką taip elgėsi Mikalojus
+    Konstantinas Čiurlionis (1875–1911), beje, plačiausiai šiuo metu pasaulyje
+    žinomas lietuvių dailininkas ir kompozitorius, muziką ir dailę studijavęs
+    Varšuvoje ir Leipcige. Iš etniškai lietuviškos aplinkos kilęs, bet iki to lai-
+    kotarpio lietuviškai gerai nemokėjęs, M.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
+- c-015
+  santrauka: 'Kai lenkų daliniai, spaudžiami bolševikų, ėmė trauktis, konferencijoje Spa 1920 m. liepos 5–16 d. didžiosios valstybės nurodė Lenkijai grąžinti Vilnių Lietuvai ir Varšuva sutiko.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kai lenkų daliniai, spaudžiami
+    bolševikų, ėmė trauktis, konferencijoje Spa 1920 m. liepos 5–16 d. didžio-
+    sios valstybės nurodė Lenkijai grąžinti Vilnių Lietuvai ir Varšuva sutiko.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
+- c-016
+  santrauka: 'Tik Raudonajai armijai pralaimėjus prie Varšuvos, bolševikai „sukilimą“ atšaukė.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tik
+    Raudonajai armijai pralaimėjus prie Varšuvos, bolševikai „sukilimą“ at-
+    šaukė. Taigi atsitiko stebuklas – Lietuva išliko, suformavo 30 000 vyrų ka-
+    riuomenę, apsigynė ir pradėjo tvarkyti vidaus ekonominius reikalus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016
+- c-017
+  santrauka: 'Lietuviai federacijos principo vengė logiškai manydami, kaip čia 2 milijonams lietuvių nepaskendus 28 milijonų lenkų jūroje, tačiau derėtis sutiko, jeigu tik Varšuva pripažins Lietuvą su sostine Vilniumi.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuviai federacijos
+    principo vengė logiškai manydami, kaip čia 2 milijonams lietuvių nepa-
+    skendus 28 milijonų lenkų jūroje, tačiau derėtis sutiko, jeigu tik Varšuva
+    pripažins Lietuvą su sostine Vilniumi.
+
+    L I E T U V O S  I S T O R I J A
+    146
+    Per tris savaites P.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
+- c-020
+  santrauka: '1766 m. Fr. Bohomolecas Varšuvoje parengė antrąjį leidimą.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Pats autorius įvade sakėsi
+    ne tik norįs duoti lotynų kalba vertą skaityti knygą, bet ir suteikti
+
+    (^22) **Antrąjį leidimą parūpino 1766 m. Fr. Bohomolecas Varšuvoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020
+- c-021
+  santrauka: '42, 77, 123, 151, 186, 192, 202, 210, 224, 232 Varėna 98, 108, 356 Varmė (Varmija) 220 Varnėnai 177 Varniai 46, 171, 177, 226, 351 Varputis, dievaitis 143 Varšuva 39, 45, 47 ; Varšuvos archy­ vas 314 Vasario 16 aktas 34, 40 Vasibutas 335 Vasil’evskij V.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    42, 77, 123, 151,
+    186, 192, 202, 210, 224, 232
+    Varėna 98, 108, 356
+    Varmė (Varmija) 220
+    Varnėnai 177
+    Varniai 46, 171, 177, 226, 351
+    Varputis, dievaitis 143
+    Varšuva 39, 45, 47 ; Varšuvos archy­
+    vas 314
+    Vasario 16 aktas 34, 40
+    Vasibutas 335
+    Vasil’evskij V.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-021
+- c-022
+  santrauka: 'Padalinimo sutartys buvo pasirašytos 1772 m. Sankt Peterburge, 0 1773—1775 m. jas patvirtino delegacinis seimas Varšuvoje.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Padalinimo sutartys buvo pasirašytos 1772 m.
+    Sankt Peterburge, 0 1773—1775 m. jas patvirtino delegacinis
+    seimas Varšuvoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-022
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/delegacinis seimas]]
+- [[objektai/ivykiai/1794 m. sukilimas Lietuvoje]]
+- [[objektai/ivykiai/1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas]]
+- [[objektai/ivykiai/1863 m. sukilimo pradžia]]
+- [[objektai/autoriai/A. J. Jakubovskij]]
+- [[objektai/autoriai/A. Prochaska]]
+- [[objektai/asmenys/Augustinas Voldemaras]]
+- [[objektai/autoriai/B. D. Grekov]]
+- [[objektai/grupes/Bajorijos konfederacija]]
+- [[objektai/vietos/Berezina]]
+- [[objektai/ivykiai/Brastos pasipriešinimas 1792 m. kare]]
+- [[objektai/ivykiai/Gelgaudo vadovaujami kariuomenės žygiai į Vilnių ir Šiaulius (1831 m.)]]
+- [[objektai/vietos/Gniezno arkivyskupija]]
+- [[objektai/autoriai/Grekov, B. D]]
+- [[objektai/autoriai/J. Pochodowicz]]
+- [[objektai/autoriai/Jakubovskij, A. J]]
+- [[objektai/asmenys/Jokūbas Jasinskis]]
+- [[objektai/asmenys/Juozapas Kosakovskis|Juozapas Kosakovskis (vyskupas)]]
+- [[objektai/asmenys/Juzefas Poniatovskis]]
+- [[objektai/asmenys/Konstantinas Kalinauskas]]
+- [[objektai/ivykiai/Kosciuškos sukilimas (1794 m.)]]
+- [[objektai/autoriai/Ksaveras Bogušas]]
+- [[objektai/grupes/Laikinoji LDK vyriausybė]]
+- [[objektai/grupes/Laikinoji Nacionalinė Vyriausybė]]
+- [[objektai/grupes/Laikinoji Vyriausybė Lietuvoje]]
+- [[objektai/vietos/Leipcigas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lenkijos katalikų Bažnyčios sinodas]]
+- [[objektai/grupes/Lietuvos dailės muziejus]]
+- [[objektai/ivykiai/Lietuvos ir Lenkijos draugiškų santykių ir gero kaimyninio bendradarbiavimo sutarties pasirašymas (1994 m. balandžio 26 d.)]]
+- [[objektai/grupes/Lietuvos seimas (XVI a.)]]
+- [[objektai/grupes/Liublino seimas]]
+- [[objektai/ivykiai/Liublino seimo sprendimas dėl seimų vietos]]
+- [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis|Mikalojus Konstantinas Čiurlionis (dailininkas)]]
+- [[objektai/vietos/Mogilevo arkivyskupija]]
+- [[objektai/grupes/Mokslo bičiulių draugija]]
+- [[objektai/ivykiai/Myro kautynės]]
+- [[objektai/asmenys/Napoleonas Bonapartas]]
+- [[objektai/vietos/Naujoji Prūsija]]
+- [[objektai/ivykiai/Pirmasis Abiejų Tautų Respublikos padalijimas (1772 m.)]]
+- [[objektai/paprociai/Politinės manifestacijos kaip spaudimo valdžiai ir teismui praktika]]
+- [[objektai/vietos/Sankt Peterburgas]]
+- [[objektai/paprociai/Seimų vieta Lietuvoje ir Gardino kas trečio seimo taisyklė]]
+- [[objektai/vietos/Spa]]
+- [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis (valdovas)]]
+- [[objektai/zodynas/Teritorinė autonomija]]
+- [[objektai/zodynas/Tiesioginis valdymas]]
+- [[objektai/autoriai/U. Lewicka]]
+- [[objektai/vietos/Varšuvos kunigaikštystė]]
+- [[objektai/grupes/Varšuvos lietuvių studentų draugija „Lietuva“]]
+- [[objektai/grupes/Varšuvos nacionalinis muziejus]]
+- [[objektai/grupes/Varšuvos seimas]]
+- [[objektai/ivykiai/Vilniaus atidavimas be kovos]]
+- [[objektai/ivykiai/Vilniaus katedros unijos atnaujinimo pasižadėjimas (1812 m. liepos 14 d.)]]
+- [[objektai/vietos/Volos kaimas]]
+- [[objektai/zodynas/bibliografinė apžvalga bibliografinis veikalas]]
+- [[objektai/zodynas/federacija federacinė valstybė]]
+- [[objektai/posakiai/„Marsz na Kowno“ „Marš į Kauną“]]
+- [[objektai/ivykiai/„Varpo“ leidimo pradžia]]
+- [[objektai/autoriai/Kryczyński, St]]
+- [[objektai/autoriai/Kuczyński, S. M]]
+- [[objektai/autoriai/Laskowski, O]]
+- [[objektai/ivykiai/Lenkijos ultimatumas Lietuvai ir jo priėmimas (1938 m. kovo 17-19 d.)]]
+- [[objektai/autoriai/O. Laskowski]]
+- [[objektai/autoriai/St. Kryczyński]]
+- [[objektai/autoriai/St. M. Kuczyński]]
+- [[objektai/autoriai/T. Lehr-Splawiński]]
+- [[objektai/grupes/Varšuvos konfederacinis seimas]]
+- [[objektai/ivykiai/Varšuvos konfederacinis seimas (1768 m.)]]
+- [[objektai/vietos/Vilnius]]

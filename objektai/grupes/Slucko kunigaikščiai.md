@@ -46,3 +46,8 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Sluckas]]
+- [[objektai/zodynas/kunigaikščiai]]

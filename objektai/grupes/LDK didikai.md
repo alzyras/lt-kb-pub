@@ -52,3 +52,4 @@ Tai nulėmė, kad LDK didikai (aukščiausias visuomenės sluoksnis) parėmė b�
 ### Susiję objektai
 - [[objektai/grupes/Evangelikų reformatų bažnyčia]]
 - [[objektai/grupes/Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai]]
+- [[objektai/paprociai/Didikų perėjimas į kalvinizmą ir funduotų bažnyčių sekuliarizavimas]]

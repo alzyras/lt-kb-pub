@@ -47,4 +47,7 @@ Naciai SSRS ir jos okupuotų kraštų gyventojus laikė atsilikusiomis tautomis,
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/SSRS]]
+- [[objektai/zodynas/savismauga]]
 - [[objektai/zodynas/rasės atžvilgiu svetimi elementai]]

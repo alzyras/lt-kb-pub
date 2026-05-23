@@ -65,3 +65,7 @@ Vartojamos formos: `karšinčium`, `karšinčių`.
 ## Pastabos
 
 - Tiksli teisinė formuluotė gali skirtis, bet globos, paveldėjimo ir sūnaus vietos reikšmė aiški. tiksli teisinė forma iš teksto ne iki galo apibrėžta, bet paveldėjimo ir globos funkcija aiški.
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/tėviškė]]

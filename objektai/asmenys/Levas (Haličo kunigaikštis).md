@@ -54,3 +54,12 @@ Priešakiniai daliniai įsiveržė į Naugarduko papilį, o kitą dieną atžygi
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Haličas]]
+- [[objektai/vietos/Luckas]]
+- [[objektai/vietos/Naugardukas]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/vietos/Volinijos-Haličo kunigaikštija]]

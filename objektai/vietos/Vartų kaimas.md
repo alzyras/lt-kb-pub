@@ -59,4 +59,6 @@ Pavasarinės kovos Žuvinte ir Paliose 1945 m. balandžio 18 d. Buktos pamiškė
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Buktos (Žaliosios) miškas]]
+- [[objektai/grupes/NKVD]]
 - [[objektai/grupes/Rėkaus būrys]]

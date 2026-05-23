@@ -48,3 +48,10 @@ Vytauto Didžiojo mirties 500-ųjų metinių komitetas nutarė pastatyti Kaune V
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/ritualas]]
+
+### Susiję objektai
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/paprociai/Vytauto Didžiojo kulto kūrimo ir jubiliejinių apeigų praktika]]
+- [[objektai/ivykiai/Vytauto mirties 500 metų jubiliejaus minėjimas (1930 m.)]]
+- [[objektai/daiktai/Vytauto paminklai]]

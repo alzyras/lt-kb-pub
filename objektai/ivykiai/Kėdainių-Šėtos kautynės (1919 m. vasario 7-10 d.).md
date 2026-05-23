@@ -254,6 +254,16 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Kėdainių įgula]]
+- [[objektai/daiktai/Artilerija]]
+- [[objektai/grupes/Bolševikai]]
+- [[objektai/asmenys/J. Mikoliūnas]]
+- [[objektai/vietos/Kėdainiai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rytas]]
+- [[objektai/daiktai/Geltonas lankelis ant kepurės]]
+- [[objektai/asmenys/K. Dragunevičius]]
 - [[objektai/ivykiai/Kėdainių-Šėtos kautynės]]
-- [[objektai/asmenys/Povilas Lukšys]]
+- [[objektai/daiktai/Lietuvos kario savadarbė diržo sagtis]]
+- [[objektai/daiktai/Lietuvos kariuomenės savanorio rankovės antsiuvas]]
+- [[objektai/grupes/Kėdainių įgula]]

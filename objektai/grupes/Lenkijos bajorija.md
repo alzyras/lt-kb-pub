@@ -59,4 +59,9 @@ Jogailos ir Vytauto duotas uniją tvirtinąs aktas pašaukė Lietuvos bajoriją 
 - [[temos/aktas]]
 
 ### Susiję objektai
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Liublinas]]
+- [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/unija]]
 - [[objektai/grupes/Lenkų bajorija]]

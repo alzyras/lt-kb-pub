@@ -46,5 +46,9 @@ Jurgis) Zauerveinas (Georg Sauerwein), kovojęs už lietuvių kalbą Rytų Prūs
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Nemunas]]
+- [[objektai/autoriai/Zauerveinas]]
 - [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas]]
 - [[objektai/asmenys/Georgas Zauerveinas]]

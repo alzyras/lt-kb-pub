@@ -31,7 +31,7 @@ Urbanavičius domėjosi degintiniais kapais ir laidosena Lietuvoje XIV a.^100. U
 
 ## Teiginiai
 - t-001
-  teiginys: 'Urbanavičius domėjosi degintiniais kapais ir laidosena Lietuvoje XIV a.^100.'
+  teiginys: 'V. Urbanavičius tyrinėjo degintinius kapus ir XIV a. laidoseną Lietuvoje.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -51,7 +51,7 @@ Urbanavičius domėjosi degintiniais kapais ir laidosena Lietuvoje XIV a.^100. U
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Urbanavičius domėjosi degintiniais kapais ir laidosena Lietuvoje XIV a.^100.'
+  santrauka: 'V. Urbanavičius tyrinėjo degintinius kapus ir XIV a. laidoseną Lietuvoje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     P. Kulikauskas, R. Kulikauskienė ir A. Tautavi­
@@ -107,3 +107,9 @@ Urbanavičius domėjosi degintiniais kapais ir laidosena Lietuvoje XIV a.^100. U
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/vietos/Vilnius]]

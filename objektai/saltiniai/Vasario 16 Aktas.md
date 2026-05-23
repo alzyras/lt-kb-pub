@@ -76,6 +76,18 @@ Vasario 16 Aktas šiame veikale aiškinamas kaip 1918 m. vasario 16 d. Lietuvos 
   teiginys: '42, 77, 123, 151, 186, 192, 202, 210, 224, 232 Varėna 98, 108, 356 Varmė (Varmija) 220 Varnėnai 177 Varniai 46, 171, 177, 226, 351 Varputis, dievaitis 143 Varšuva 39, 45, 47 ; Varšuvos archy­ vas 314 Vasario 16 aktas 34, 40 Vasibutas 335 Vasil’evskij V.'
   pagrindžia:
     - c-005
+- t-019
+  teiginys: 'Parengus abiem pusėms priimtiną tekstą, Vilniuje 1918 m. vasario 16 d. Taryba priėmė naują rezoliuciją, kurioje, remdamasi pripažintąja tautų apsisprendimo teise, paskelbė atkurianti nepriklausomą, demokratiniais pamatais sutvarkytą Lietuvos valstybę su.'
+  pagrindžia:
+    - c-006
+- t-020
+  teiginys: 'Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo nacijos laisvės ir suverenumo simboliu, Lietuvos Nepriklausomybės diena, davė pradžią tikrai Lietuvos nepriklausomybei, pagaliau aiškiai pasakant, kur Taryba veda Lietuvą.'
+  pagrindžia:
+    - c-007
+- t-021
+  teiginys: 'Kovo 11 Aktas savo dvasia artimas Lietuvos Tarybos 1918 m. paskelbtam Vasario 16 Aktui, tačiau nebesirėmė visuotinai pripažinta tautų apsisprendimo teise (politiniu požiūriu tautų apsisprendimo teisės deklaravimas buvo pavojingas dėl Maskvos užmačių.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-005
@@ -101,6 +113,71 @@ Vasario 16 Aktas šiame veikale aiškinamas kaip 1918 m. vasario 16 d. Lietuvos 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-018
+- c-006
+  santrauka: 'Parengus abiem pusėms priimtiną tekstą, Vilniuje 1918 m. vasario 16 d. Taryba priėmė naują rezoliuciją, kurioje, remdamasi pripažintąja tautų apsisprendimo teise, paskelbė atkurianti nepriklausomą, demokratiniais pamatais sutvarkytą Lietuvos valstybę su.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Parengus abiem pu-
+    sėms priimtiną tekstą, Vilniuje 1918 m. vasario 16 d. Taryba priėmė nau-
+    ją rezoliuciją, kurioje, remdamasi pripažintąja tautų apsisprendimo teise,
+    paskelbė atkurianti nepriklausomą, demokratiniais pamatais sutvarkytą
+    Lietuvos valstybę su sostine Vilniumi ir tą valstybę atskirianti nuo visų
+    valstybinių ryšių, kurie yra buvę su kitomis tautomis, kad Lietuvos vals-
+    tybės pamatus ir jos santykius su kitomis valstybėmis galutinai nustatys
+    Steigiamasis Seimas, demokratiškai visų jos gyventojų išrinktas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019
+- c-007
+  santrauka: 'Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo nacijos laisvės ir suverenumo simboliu, Lietuvos Nepriklausomybės diena, davė pradžią tikrai Lietuvos nepriklausomybei, pagaliau aiškiai pasakant, kur Taryba veda Lietuvą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Akte pavartotas pasakymas, kad Lietuva „atkuria“ nepriklausomy-
+    bę – aiški sąsaja su LDK, lietuviai valstybės „atkūrimu“, „atstatymu“
+
+    L I E T U V O S  I S T O R I J A
+    136
+    pabrėžė Lietuvos valstybingumo be Lenkijos savitumą, be to, atkurti buvo
+    galima ne tik LDK laikų, bet ir Mindaugo Lietuvos karalystės laikų valsty-
+    bę – tai priklausė nuo tarptautinių sąlygų. Nauja Lietuvos valstybė turėjo
+    būti demokratinė, parlamentinė.
+    Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo na-
+    cijos laisvės ir suverenumo simboliu, Lietuvos Nepriklausomybės diena,
+    davė pradžią tikrai Lietuvos nepriklausomybei, pagaliau aiškiai pasakant,
+    kur Taryba veda Lietuvą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020
+- c-008
+  santrauka: 'Kovo 11 Aktas savo dvasia artimas Lietuvos Tarybos 1918 m. paskelbtam Vasario 16 Aktui, tačiau nebesirėmė visuotinai pripažinta tautų apsisprendimo teise (politiniu požiūriu tautų apsisprendimo teisės deklaravimas buvo pavojingas dėl Maskvos užmačių.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kovo 11 Aktas savo dvasia arti-
+    mas Lietuvos Tarybos 1918 m. pa-
+    skelbtam Vasario 16 Aktui, tačiau
+    nebesirėmė visuotinai pripažinta
+    tautų apsisprendimo teise (politiniu požiūriu tautų apsisprendimo tei-
+    sės deklaravimas buvo pavojingas dėl Maskvos užmačių pritaikyti Lie-
+    tuvai išstojimo iš SSRS mechanizmus, visaliaudinius „apsisprendimo“
+    referendumus, primesti dalį SSRS valstybės skolų bei tarptautinių įsipa-
+    reigojimų). Kovo 11 Aktu Lietuvos valstybė atkurta savo teritorijoje, su
+    savo gyventojais ir realizavo suverenitetą, o ne administravo okupuotą
+    teritoriją.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-021
 
 ## Bibliografiniai įrodymai
 - c-001

@@ -115,3 +115,16 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/bajorija]]
+- [[objektai/vietos/Šiauliai]]
+- [[objektai/grupes/11 brigada]]
+- [[objektai/vietos/Berezina]]
+- [[objektai/asmenys/E. Adamkavičius]]
+- [[objektai/grupes/Marijampolės batalionas]]
+- [[objektai/daiktai/Mauser 98 šautuvas]]
+- [[objektai/posakiai/Šitas Šautuvas yra 5 p. pulko pirmas karo grobis paimtas mūšyje ties Seinais iš lenkų]]
+- [[objektai/grupes/Saulė]]

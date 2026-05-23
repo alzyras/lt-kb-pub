@@ -56,5 +56,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Lietuvos karo aviacija]]
+- [[objektai/vietos/Lietuva]]
 - [[objektai/posakiai/„Antanas nori būti ore“]]
+- [[objektai/asmenys/Antanas Gustaitis]]
+- [[objektai/grupes/Lietuvos karo aviacija]]

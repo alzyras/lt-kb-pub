@@ -66,3 +66,12 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/urėdas]]
+- [[objektai/paprociai/Pavietų ir vaivadijų bajorų seimeliai]]
+- [[objektai/asmenys/T. Korsakas]]
+- [[objektai/grupes/Vilniaus pavieto milicijos batalionas]]
+- [[objektai/zodynas/seimelis]]
+- [[objektai/zodynas/Tėvūnija|tėvūnija]]

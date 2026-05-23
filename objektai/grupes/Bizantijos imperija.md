@@ -68,3 +68,8 @@ Tuo metu pasauly geriausiai klestėjo Bizantijos imperija: ji turėjo didžiuosi
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Bizantija]]
+- [[objektai/vietos/Europa]]

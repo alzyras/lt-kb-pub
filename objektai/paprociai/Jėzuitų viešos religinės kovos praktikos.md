@@ -114,4 +114,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Namas]]
+- [[objektai/grupes/Protestantai]]
 - [[objektai/vietos/Vilnius]]

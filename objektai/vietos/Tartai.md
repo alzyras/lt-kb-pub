@@ -49,5 +49,14 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Piltenė]]
+- [[objektai/vietos/Kuršas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/vietos/Ryga]]
 - [[objektai/vietos/Saremos]]
+- [[objektai/asmenys/Steponas]]
+- [[objektai/vietos/Talinas]]
+- [[objektai/zodynas/vyskupystė]]
+- [[objektai/grupes/Švedai]]
+- [[objektai/vietos/Piltenė]]

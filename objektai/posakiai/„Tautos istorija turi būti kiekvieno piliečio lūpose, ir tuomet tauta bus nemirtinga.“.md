@@ -58,4 +58,11 @@ Akimis vydamiesi knygos tekstą, Jūs tiesiogiai išgyvensite įspūdingas, nesu
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/autoriai/Kraševskis]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Mikalojus (Gniezno arkivyskupas)]]
+- [[objektai/asmenys/Mikalojus Akelaitis]]
+- [[objektai/posakiai/Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga|Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.]]
 - [[objektai/paprociai/Tautos istorijos atminties saugojimas piliečių lūpose]]

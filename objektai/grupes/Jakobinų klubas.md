@@ -41,3 +41,9 @@ Sukilėliai tarsi kartojo Prancūzijos didžiosios revoliucijos eigą – sumany
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Prancūzija]]
+- [[objektai/zodynas/egzekucija]]
+- [[objektai/zodynas/jakobinizmas jakobinų klubas]]

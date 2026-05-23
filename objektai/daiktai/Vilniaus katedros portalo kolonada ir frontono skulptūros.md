@@ -76,5 +76,11 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Nesvyžius]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/barokas]]
+- [[objektai/vietos/Vilniaus katedra]]
 - [[objektai/asmenys/Šv. Elena]]
 - [[objektai/asmenys/Šv. Stanislovas]]

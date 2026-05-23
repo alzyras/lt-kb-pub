@@ -44,6 +44,14 @@ Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į ta
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Taigi vos tik Mindaugas susitaikė su Livonijos ordinu, rygiečiai išsirūpino sau (1253 m.) prekybos teisę Lietuvoje^160.'
+  pagrindžia:
+    - c-003
+- t-004
+  teiginys: 'Savo «atgailos rašte», vad. «Sühnenbrief», išpažindami kaltes, rygiečiai be kitko pažymėjo, kad, jiems bendradarbiaujant su pagonimis, ordinui teko patirti « nepakeliamų nuostolių, daug bėdų (muitas tribulationes) ir sunkių persekiojimų»^2.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -78,3 +86,51 @@ Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į ta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Taigi vos tik Mindaugas susitaikė su Livonijos ordinu, rygiečiai išsirūpino sau (1253 m.) prekybos teisę Lietuvoje^160.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Rygai
+    rūpėjo Lietuvoje neišsenkami kiekiai žaliavos, ypač vaško ir kailių.
+    Taigi vos tik Mindaugas susitaikė su Livonijos ordinu, rygiečiai
+    išsirūpino sau (1253 m.) prekybos teisę Lietuvoje^160.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Savo «atgailos rašte», vad. «Sühnenbrief», išpažindami kaltes, rygiečiai be kitko pažymėjo, kad, jiems bendradarbiaujant su pagonimis, ordinui teko patirti « nepakeliamų nuostolių, daug bėdų (muitas tribulationes) ir sunkių persekiojimų»^2.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Savo «atgailos rašte», vad.
+    «Sühnenbrief», išpažindami kaltes, rygiečiai be kitko pažymėjo,
+    kad, jiems bendradarbiaujant su pagonimis, ordinui teko patirti
+    « nepakeliamų nuostolių, daug bėdų (muitas tribulationes) ir sunkių
+    persekiojimų»^2. Rygai kritus, Gediminas neteko paramos prieš
+    ordiną, kuris, vidaus priešą įveikęs ir pačią Rygą užvaldęs, beveik
+    iki pat Gedimino valdymo galo darė Lietuvon puolimus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/daiktai/Vaškas]]
+- [[objektai/vietos/Daugavgryvos pilis]]
+- [[objektai/vietos/Liubekas]]
+- [[objektai/ivykiai/Neuermühleno, Karkhauso ir Toreidos kampanija (1298 m.)]]
+- [[objektai/vietos/Rostokas]]
+- [[objektai/ivykiai/Rygos pirklių prekybos teisė Lietuvoje (1253 m.)]]
+- [[objektai/ivykiai/Rygos sąjungininkų įsiveržimas į Livoniją ir pralaimėjimas prie Dobės (1305 m.)]]

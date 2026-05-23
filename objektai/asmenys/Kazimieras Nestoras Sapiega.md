@@ -43,3 +43,9 @@ Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius veikiausia
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/maršalas]]

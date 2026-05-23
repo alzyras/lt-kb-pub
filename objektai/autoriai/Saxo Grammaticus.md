@@ -50,3 +50,10 @@ Iš XI-XII amž. danų šaltinių (Genealogia regum Danorum; Saxo Grammaticus) y
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kuršiai]]
+- [[objektai/grupes/Sembai]]
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/grupes/Žemaičiai]]

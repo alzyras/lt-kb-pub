@@ -36,6 +36,8 @@ datos:
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
+  - 'XX a.'
+  - 'naujieji laikai'
   - 'viduramžiai'
 amziai:
   - 'XIII'
@@ -88,9 +90,69 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   pagrindžia:
     - c-006
 - t-015
-  teiginys: 'Kalibras — 18 mm, Prūsija, XVIII a.'
+  teiginys: 'XVIII a. pabaigoje didesnė dalis LDK kariuomenei skirtų muškietų buvo nupirkta stiprią karinę pramonę turėjusioje Prūsijoje.'
   pagrindžia:
     - c-007
+- t-016
+  teiginys: 'Ilgainiui lietuvius Vokiečių ordino valstybėje (vėliau pasivadinusioje Prūsijos hercogija, o dar vėliau – Prūsijos karalija) pradėta vadinti lietuvininkais, o jų žemes – Prūsų Lietuva arba Mažąja Lietuva (visa kita Lietuva vėliau – atrodo, XIX a.'
+  pagrindžia:
+    - c-008
+- t-017
+  teiginys: 'Prūsijoje buvo net oficialiai vartojamas Lietuvos vardas – įsteigtas Lietuvos departamentas, kurio centras Gumbinė, – ilgainiui dėl germanizacijos ir savaiminio lietuvių vokietėjimo lietuvių kalbos vartojimas Prūsijoje siaurėjo, o po Antrojo pasaulinio karo.'
+  pagrindžia:
+    - c-009
+- t-018
+  teiginys: 'Visų pirma – tai Abraomo Kulviečio ir Martyno Mažvydo kultūrinė programa, pateikusi pirmą lietuvišką knygą, o ir pradėjusi lietuviakalbės raštijos tradiciją, tačiau ji buvo kuriama emigracijoje – Prūsijoje, ir jos neprireikė LDK elitui.'
+  pagrindžia:
+    - c-010
+- t-019
+  teiginys: 'Lenkijai ir Lietuvai grasino ne tik stiprėjanti Petro I Rusija, bet ir 1701 m. karalyste tapusi Prūsija – šios centralizuotos valstybės ilgainiui nulems tolesnį ATR likimą.'
+  pagrindžia:
+    - c-011
+- t-020
+  teiginys: '1793 m. sausio 21 d. Prancūzijoje nukirsdinus Liudviką XVI, sausio 23-iąją Rusija kartu su Prūsija įvykdė antrąjį LLV padalijimą.'
+  pagrindžia:
+    - c-012
+- t-021
+  teiginys: 'Sukilimo pralaimėjimas pagreitino finalą – 1795 m. spalio 24 d. Peterburge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos ir Lietuvos valstybės padalijimo.'
+  pagrindžia:
+    - c-013
+- t-022
+  teiginys: 'Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsijai ji priklausė iki 1806 m., kai Napoleonas įkūrė Varšuvos kunigaikštiją; 1815 m. Užnemunė atiteko Rusijai).'
+  pagrindžia:
+    - c-014
+- t-023
+  teiginys: 'Kai kuriems lenkų daliniams pavyko prasiveržti atgal į Karalystės teritoriją, kitų dalinių likučiai perėjo sieną su Prūsija.'
+  pagrindžia:
+    - c-015
+- t-024
+  teiginys: 'Nuo «nebylių seimo » (1717) į tolimą perspektyvą užmestos Petro politikos vaisius ir buvo carienės Kotrynos II-sios pravesti padalinimai respublikos, kurios trečdalį ji turėjo užleisti Prūsijai ir Austrijai.'
+  pagrindžia:
+    - c-016
+- t-025
+  teiginys: 'Suredagavo jis taip pat «Prūsijos valdžios gromatos, pagraudenimai ir apsakymai lietu­ viams valstiečiams » (1960) ir ten parašė pratarmę.'
+  pagrindžia:
+    - c-017
+- t-026
+  teiginys: 'Iš savo pusės, sutikdami apsi­ krikštyti, jiedu pirmiausia reikalavo, kad Vokiečių Ordinas Lie­ tuvai grąžintų žemes iki Deimės ir Alės upių Prūsijoje ir Žiemga­ lius bei Kuršius Livonijoje.'
+  pagrindžia:
+    - c-018
+- t-027
+  teiginys: 'Jis griežtai pareiškė, ne tiktai niekada neišsižadėsiąs savo tėviškės, Veliuonos, bet galįs siek­ ti ir Prūsijos, nes ir tas kraštas seniau priklausė jo protėviams.'
+  pagrindžia:
+    - c-019
+- t-028
+  teiginys: 'Tuo pačiu laiku Zigmantas pasiuntė lenkų laiško nuorašus ir Vytautui, taip pat ir Ordinui, kurį nuo to laiko Romos ciesorius informuodavo apie kiekvieną žingsnį, liečiantį karūnacijos reikalą, siekdamas su kryžiuočių pagalba sudaryti iš Lietuvos, Prūsijos.'
+  pagrindžia:
+    - c-020
+- t-029
+  teiginys: 'Suvalkų kraštas tada buvo beveik negyvenamas, apaugęs tankiais miškais (Wildnis), pro kuriuos į Prūsiją ėjo tik du keliai^2 ), o Lietuvai priklausančios rusų žemės — retai gyvenamos; taigi ir Vytauto dvarų juose buvo mažiau.'
+  pagrindžia:
+    - c-021
+- t-030
+  teiginys: 'Joje buvo nu­ tarta, kad lietuvių pirkliai Ordino žemėse — Prūsijoje ir Livo­ nijoje, o šio pirkliai Lietuvoje, nevaržomi naujų muitų, išsky­ rus senuosius, galės laisvai prekiauti.'
+  pagrindžia:
+    - c-022
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -206,7 +268,7 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   pagrindžia:
     - t-014
 - c-007
-  santrauka: 'Kalibras — 18 mm, Prūsija, XVIII a.'
+  santrauka: 'XVIII a. pabaigoje didesnė dalis LDK kariuomenei skirtų muškietų buvo nupirkta stiprią karinę pramonę turėjusioje Prūsijoje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     ## Puslapis 151
@@ -224,6 +286,249 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-015
+- c-008
+  santrauka: 'Ilgainiui lietuvius Vokiečių ordino valstybėje (vėliau pasivadinusioje Prūsijos hercogija, o dar vėliau – Prūsijos karalija) pradėta vadinti lietuvininkais, o jų žemes – Prūsų Lietuva arba Mažąja Lietuva (visa kita Lietuva vėliau – atrodo, XIX a.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Ilgainiui lietuvius Vokiečių ordino valstybėje (vėliau
+    pasivadinusioje Prūsijos hercogija, o dar vėliau – Prūsijos karalija) pradė-
+    ta vadinti lietuvininkais, o jų žemes – Prūsų Lietuva arba Mažąja Lietu-
+    va (visa kita Lietuva vėliau – atrodo, XIX a. – pradėta vadinti Didžiosios
+    Lietuvos vardu). Paradoksas – svetima valstybė, o lietuviškos raštijos kur
+    kas daugiau nei pačioje Lietuvoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016
+- c-009
+  santrauka: 'Prūsijoje buvo net oficialiai vartojamas Lietuvos vardas – įsteigtas Lietuvos departamentas, kurio centras Gumbinė, – ilgainiui dėl germanizacijos ir savaiminio lietuvių vokietėjimo lietuvių kalbos vartojimas Prūsijoje siaurėjo, o po Antrojo pasaulinio karo.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Nors XVIII a. Prūsijoje buvo net oficia-
+    liai vartojamas Lietuvos vardas – įsteigtas Lietuvos departamentas, kurio
+    centras Gumbinė, – ilgainiui dėl germanizacijos ir savaiminio lietuvių
+    vokietėjimo lietuvių kalbos vartojimas Prūsijoje siaurėjo, o po Antrojo
+    pasaulinio karo, iš Prūsijos pasitraukus seniesiems gyventojams, lietuviš-
+    kai kalbančiųjų nebeliko. Neliko ten ir Lietuvos vardo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
+- c-010
+  santrauka: 'Visų pirma – tai Abraomo Kulviečio ir Martyno Mažvydo kultūrinė programa, pateikusi pirmą lietuvišką knygą, o ir pradėjusi lietuviakalbės raštijos tradiciją, tačiau ji buvo kuriama emigracijoje – Prūsijoje, ir jos neprireikė LDK elitui.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Visų pirma – tai
+    Abraomo Kulviečio ir Martyno Mažvydo kultūrinė programa, pateikusi
+    pirmą lietuvišką knygą, o ir pradėjusi lietuviakalbės raštijos tradiciją, tačiau
+    ji buvo kuriama emigracijoje – Prūsijoje, ir jos neprireikė LDK elitui.
+    1595 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018
+- c-011
+  santrauka: 'Lenkijai ir Lietuvai grasino ne tik stiprėjanti Petro I Rusija, bet ir 1701 m. karalyste tapusi Prūsija – šios centralizuotos valstybės ilgainiui nulems tolesnį ATR likimą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lenkijai ir Lietuvai grasino ne tik stiprėjanti Petro I Rusija, bet ir
+    1701 m. karalyste tapusi Prūsija – šios centralizuotos valstybės ilgainiui
+    nulems tolesnį ATR likimą.
+    Žlugus Saksų dinastijai, 1764 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019
+- c-012
+  santrauka: '1793 m. sausio 21 d. Prancūzijoje nukirsdinus Liudviką XVI, sausio 23-iąją Rusija kartu su Prūsija įvykdė antrąjį LLV padalijimą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    1793 m. sausio 21 d. Prancūzijoje nukirsdinus Liudviką XVI, sausio
+    23-iąją Rusija kartu su Prūsija įvykdė antrąjį LLV padalijimą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020
+- c-013
+  santrauka: 'Sukilimo pralaimėjimas pagreitino finalą – 1795 m. spalio 24 d. Peterburge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos ir Lietuvos valstybės padalijimo.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Sukilimo pralaimėjimas pagreitino finalą – 1795 m. spalio 24 d. Peter-
+    burge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos
+    ir Lietuvos valstybės padalijimo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-021
+- c-014
+  santrauka: 'Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsijai ji priklausė iki 1806 m., kai Napoleonas įkūrė Varšuvos kunigaikštiją; 1815 m. Užnemunė atiteko Rusijai).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsijai
+    ji priklausė iki 1806  m., kai Napoleonas įkūrė Varšuvos kunigaikštiją;
+    1815 m. Užnemunė atiteko Rusijai).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-022
+- c-015
+  santrauka: 'Kai kuriems lenkų daliniams pavyko prasiveržti atgal į Karalystės teritoriją, kitų dalinių likučiai perėjo sieną su Prūsija.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kai kuriems lenkų daliniams pavy-
+    ko prasiveržti atgal į Karalystės teritoriją, kitų dalinių likučiai perėjo sieną
+    su Prūsija. Rudenį Rusija susigrąžino ir Lenkijos karalystę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-023
+- c-016
+  santrauka: 'Nuo «nebylių seimo » (1717) į tolimą perspektyvą užmestos Petro politikos vaisius ir buvo carienės Kotrynos II-sios pravesti padalinimai respublikos, kurios trečdalį ji turėjo užleisti Prūsijai ir Austrijai.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Nuo «nebylių
+    seimo » (1717) į tolimą perspektyvą užmestos Petro politikos vaisius
+    ir buvo carienės Kotrynos II-sios pravesti padalinimai respublikos,
+    kurios trečdalį ji turėjo užleisti Prūsijai ir Austrijai. Tai sudarė
+    visai naują epochą Lietuvos istorijoje.
+    Buvo aišku, kad jungtinės lietuvių ir lenkų respublikos pateki­
+    mas į Rusijos orbitą turėjo vieną dieną sąmoningai pribrandinti
+    jos galą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-024
+- c-017
+  santrauka: 'Suredagavo jis taip pat «Prūsijos valdžios gromatos, pagraudenimai ir apsakymai lietu­ viams valstiečiams » (1960) ir ten parašė pratarmę.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Suredagavo jis taip pat
+    «Prūsijos valdžios gromatos, pagraudenimai ir apsakymai lietu­
+    viams valstiečiams » (1960) ir ten parašė pratarmę. Jablonskis
+    buvo ir vienas iš redaktorių « Lietuvos archeologijos bruožų » (1961).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-025
+- c-018
+  santrauka: 'Iš savo pusės, sutikdami apsi­ krikštyti, jiedu pirmiausia reikalavo, kad Vokiečių Ordinas Lie­ tuvai grąžintų žemes iki Deimės ir Alės upių Prūsijoje ir Žiemga­ lius bei Kuršius Livonijoje.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Iš savo pusės, sutikdami apsi­
+    krikštyti, jiedu pirmiausia reikalavo, kad Vokiečių Ordinas Lie­
+    tuvai grąžintų žemes iki Deimės ir Alės upių Prūsijoje ir Žiemga­
+    lius bei Kuršius Livonijoje. Kadangi Lietuvai apsikrikštijus
+    Ordino egzistencijai Lietuvos pasieniuose nebūtų buvę pagrindo,
+    tai jiedu siūlė Ordinui išsikelti į Rusijos pietus, ginti krikščionis
+    nuo totorių užpuldinėjimo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-026
+- c-019
+  santrauka: 'Jis griežtai pareiškė, ne tiktai niekada neišsižadėsiąs savo tėviškės, Veliuonos, bet galįs siek­ ti ir Prūsijos, nes ir tas kraštas seniau priklausė jo protėviams.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Jis griežtai pareiškė, ne tiktai
+    niekada neišsižadėsiąs savo tėviškės, Veliuonos, bet galįs siek­
+    ti ir Prūsijos, nes ir tas kraštas seniau priklausė jo protėviams.
+    Ordino gi pasiuntiniui, kuris dar kaltino Vytautą, kad jis nebeiš­
+    duoda Torne žadėto rašto apie Žemaitijos grąžinimą po savo ir
+    Jogailos mirties, dabar jis tokį raštą kartu su Jogaila parašė, bet
+    labai neformalų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-027
+- c-020
+  santrauka: 'Tuo pačiu laiku Zigmantas pasiuntė lenkų laiško nuorašus ir Vytautui, taip pat ir Ordinui, kurį nuo to laiko Romos ciesorius informuodavo apie kiekvieną žingsnį, liečiantį karūnacijos reikalą, siekdamas su kryžiuočių pagalba sudaryti iš Lietuvos, Prūsijos.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Jis tą reikalą gerai apsvarstęs, pasiūlė su­
+    šaukt kur nors Prūsų pasieny suvažiavimą, žadėdamas dėl jo
+    vietos ir laiko pasitarti kartu su Vytautu^1 ). Tuo pačiu laiku
+    Zigmantas pasiuntė lenkų laiško nuorašus ir Vytautui, taip pat
+    ir Ordinui, kurį nuo to laiko Romos ciesorius informuodavo apie
+    kiekvieną žingsnį, liečiantį karūnacijos reikalą, siekdamas su
+    kryžiuočių pagalba sudaryti iš Lietuvos, Prūsijos, Vengrijos ir
+    Čekijos sąjungą prieš Lenkiją.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-028
+- c-021
+  santrauka: 'Suvalkų kraštas tada buvo beveik negyvenamas, apaugęs tankiais miškais (Wildnis), pro kuriuos į Prūsiją ėjo tik du keliai^2 ), o Lietuvai priklausančios rusų žemės — retai gyvenamos; taigi ir Vytauto dvarų juose buvo mažiau.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Suvalkų kraštas
+    tada buvo beveik negyvenamas, apaugęs tankiais miškais
+    (Wildnis), pro kuriuos į Prūsiją ėjo tik du keliai^2 ), o Lietuvai
+    priklausančios rusų žemės — retai gyvenamos; taigi ir Vytauto
+    dvarų juose buvo mažiau.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-029
+- c-022
+  santrauka: 'Joje buvo nu­ tarta, kad lietuvių pirkliai Ordino žemėse — Prūsijoje ir Livo­ nijoje, o šio pirkliai Lietuvoje, nevaržomi naujų muitų, išsky­ rus senuosius, galės laisvai prekiauti.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Joje buvo nu­
+    tarta, kad lietuvių pirkliai Ordino žemėse — Prūsijoje ir Livo­
+    nijoje, o šio pirkliai Lietuvoje, nevaržomi naujų muitų, išsky­
+    rus senuosius, galės laisvai prekiauti. Taip pat buvo susitarta
+    užkariauti savarankiškus, turtingus ir prekybai patogius Psko­
+    vo bei Naugardo miestus ir pasidalyti juos taip, kad pirmasis
+    tektų Ordinui, o antrasis — Vytautui^1 ).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-030
 
 ## Pavadinimai šaltiniuose
 
@@ -245,4 +550,143 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - [[objektai/vietos/Kuršas]]
 - [[objektai/paprociai/Vienkieminis gyvenimas dėl taikos ir gaisrų saugos]]
 - [[objektai/zodynas/paliaubos]]
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Naugardas]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Suvalkų kraštas]]
+- [[objektai/vietos/Torne]]
+- [[objektai/vietos/Vengrija]]
+- [[objektai/grupes/Vokiečių ordinas]]
+- [[objektai/zodynas/apsikarūnavimas]]
+- [[objektai/zodynas/ciesorius]]
+- [[objektai/vietos/Čekija]]
+- [[objektai/ivykiai/1797 m. Peterburgo konvencija dėl trečiojo padalijimo patvirtinimo]]
+- [[objektai/daiktai/1900 m. Paryžiaus parodos lietuvių ekspozicijos daiktai]]
+- [[objektai/ivykiai/Abiejų Tautų Respublikos padalijimai ir sunaikinimas (XVIII a. pabaiga-1795 m.)]]
+- [[objektai/asmenys/Adalbertas]]
+- [[objektai/asmenys/Albertas]]
 - [[objektai/ivykiai/Antrasis Respublikos padalinimas (1793 m.)]]
+- [[objektai/vietos/Ariogalos kraštas]]
+- [[objektai/autoriai/Aug. Janulaitis]]
+- [[objektai/asmenys/Augustas II]]
+- [[objektai/vietos/Austrija]]
+- [[objektai/vietos/Bielskas]]
+- [[objektai/grupes/Chlapovskio kariuomenė]]
+- [[objektai/vietos/Chotinas]]
+- [[objektai/grupes/Danijos karaliaus kariai iš Revelio]]
+- [[objektai/daiktai/Daugiavamzdė Gatlingo sistema]]
+- [[objektai/grupes/Dembinskio rinktinė]]
+- [[objektai/vietos/Drezdenas]]
+- [[objektai/ivykiai/Durbės mūšis (1260 m.)]]
+- [[objektai/grupes/Estai]]
+- [[objektai/vietos/Gumbinė]]
+- [[objektai/vietos/Gunlaukenas]]
+- [[objektai/autoriai/J. Dlugošas]]
+- [[objektai/asmenys/Jekaterina II]]
+- [[objektai/asmenys/Jonas (Čekijos karalius)]]
+- [[objektai/autoriai/Juozas Miliauskas]]
+- [[objektai/ivykiai/Karaliaus Uracho rinkimas]]
+- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
+- [[objektai/ivykiai/Klaipėdos pilies perdavimas Prūsijos kryžiuočiams (1328 m.)]]
+- [[objektai/asmenys/Konradas]]
+- [[objektai/asmenys/Kotryna II]]
+- [[objektai/ivykiai/Kryžiuočių ordino sostinės perkėlimas į Marijenburgą (1309 m.)]]
+- [[objektai/vietos/Kulių (Jurgaičių) pilys]]
+- [[objektai/vietos/Kulmo žemė]]
+- [[objektai/autoriai/L. Truska]]
+- [[objektai/grupes/Lenkijos karalystės kariuomenė]]
+- [[objektai/paprociai/Lietuvininkų ir Mažosios Lietuvos vardų vartojimas Prūsijoje]]
+- [[objektai/ivykiai/Lietuvių prisistatymas 1900 m. Paryžiaus pasaulinėje parodoje]]
+- [[objektai/grupes/Lietuvos Karininkų Ramovė]]
+- [[objektai/asmenys/Liudvikas (Vengrijos karalius)]]
+- [[objektai/asmenys/Liudvikas XVI]]
+- [[objektai/vietos/Lunenburgas]]
+- [[objektai/vietos/Melnikas]]
+- [[objektai/vietos/Melno ežeras]]
+- [[objektai/daiktai/Monetos]]
+- [[objektai/paprociai/Monetų kalimas ir pabūklų, varpų liejimas]]
+- [[objektai/asmenys/Mykolas Velhorskis]]
+- [[objektai/asmenys/Napoleonas Bonapartas]]
+- [[objektai/asmenys/Narimantas Gediminaitis]]
+- [[objektai/vietos/Naujieji Rytprūsiai]]
+- [[objektai/vietos/Naujoji Prūsija]]
+- [[objektai/ivykiai/Nebylus seimas (1717 m.)]]
+- [[objektai/asmenys/Netimeras]]
+- [[objektai/grupes/Notangai]]
+- [[objektai/asmenys/Olafas (Norvegijos valdovas)]]
+- [[objektai/asmenys/Olafas (pietų Švedijos kunigaikštis)]]
+- [[objektai/ivykiai/Olyvos taikos sutarties pasirašymas (1660 m. gegužės 3 d.)]]
+- [[objektai/vietos/Osterodė]]
+- [[objektai/autoriai/P. Žostautaitė]]
+- [[objektai/posakiai/Palikime savo žirgus toli užpakalyje]]
+- [[objektai/grupes/Pamedėnai]]
+- [[objektai/ivykiai/Pasiuntinybė į Niurnbergą dėl krikšto (1358 m.)]]
+- [[objektai/ivykiai/Pasiuntinybė į Nürnbergą dėl krikšto (1358 m.)]]
+- [[objektai/autoriai/Petras Dusburgietis]]
+- [[objektai/asmenys/Petras I]]
+- [[objektai/asmenys/Petras I Didysis]]
+- [[objektai/vietos/Potsdamas]]
+- [[objektai/paprociai/Prekyba su Prūsais (Dancigu ir Karaliaučiumi)]]
+- [[objektai/grupes/Prūsijos valstybė]]
+- [[objektai/vietos/Rastenburgas]]
+- [[objektai/grupes/Rohlando būrys]]
+- [[objektai/ivykiai/Rusijos ir Prūsijos sutartis remti Poniatausko kandidatūrą (1764 m.)]]
+- [[objektai/grupes/Sembai]]
+- [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis (valdovas)]]
+- [[objektai/asmenys/Stanislovas Leščinskis]]
+- [[objektai/asmenys/Steponas]]
+- [[objektai/asmenys/Steponas (Vengrijos valdovas)]]
+- [[objektai/vietos/Torunė]]
+- [[objektai/ivykiai/Trečiojo Lenkijos ir Lietuvos valstybės padalijimo konvencijos pasirašymas]]
+- [[objektai/vietos/Upytės žemė]]
+- [[objektai/vietos/Užnemunė]]
+- [[objektai/vietos/Vakarų Prūsija]]
+- [[objektai/ivykiai/Valstiečių sukilimas Gintiliškių ir Salantų parapijose (1831 m.)]]
+- [[objektai/asmenys/Valteris R. Hesas]]
+- [[objektai/grupes/Varmiai]]
+- [[objektai/vietos/Varmė]]
+- [[objektai/vietos/Vartenburgas]]
+- [[objektai/vietos/Varšuvos kunigaikštystė]]
+- [[objektai/paprociai/Vidaus kolonizacija Sūduvos giriose]]
+- [[objektai/daiktai/Vienvamzdis medžioklinis šautuvas kapsuline spyna]]
+- [[objektai/vietos/Vigrai]]
+- [[objektai/ivykiai/Viliaus Gaigalaičio pareiškimas Prūsijos Landtage dėl Didžiosios Lietuvos prijungimo prie Vokietijos]]
+- [[objektai/asmenys/Vilius Gaigalaitis]]
+- [[objektai/vietos/Visla]]
+- [[objektai/asmenys/Visvaldis]]
+- [[objektai/vietos/Volynija]]
+- [[objektai/autoriai/Vygandas Marburgietis]]
+- [[objektai/posakiai/Vytautas bijojo, kad bus numestas nuo sosto]]
+- [[objektai/zodynas/abdikacija]]
+- [[objektai/zodynas/christianizacija]]
+- [[objektai/zodynas/didysis magistras]]
+- [[objektai/zodynas/jakobinizmas]]
+- [[objektai/zodynas/jakobinizmas jakobinų klubas]]
+- [[objektai/zodynas/knechtas]]
+- [[objektai/zodynas/konstitucinė monarchija]]
+- [[objektai/zodynas/konversija christianizacija europeizacija]]
+- [[objektai/zodynas/krašto magistras]]
+- [[objektai/zodynas/kryžininkai]]
+- [[objektai/zodynas/lietuvininkai]]
+- [[objektai/zodynas/misijų teorija]]
+- [[objektai/zodynas/stabmeldys]]
+- [[objektai/posakiai/vartais į Rusiją]]
+- [[objektai/zodynas/vidaus kolonizacija]]
+- [[objektai/asmenys/Ėrichas Kochas]]
+- [[objektai/vietos/Šiaurės Žemaitija]]
+- [[objektai/ivykiai/Štumdorfo paliaubos (1635 m.)]]
+- [[objektai/ivykiai/Švedijos karo paskelbimas ATR (1655 m.)]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/asmenys/Albrechtas]]
+- [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas]]
+- [[objektai/asmenys/Georgas Zauerveinas]]
+- [[objektai/vietos/Kuršių Neringa]]
+- [[objektai/daiktai/Pėstininkų muškieta titnagine spyna]]
+- [[objektai/ivykiai/Vilniaus pokalbiai su popiežiaus legatais dėl Lietuvos krikšto (1324 m. gegužės gale)]]
+- [[objektai/asmenys/Vladislovas Jogailaitis]]
+- [[objektai/zodynas/prūsų teisės]]

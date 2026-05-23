@@ -46,3 +46,8 @@ Kai Jogaila jį perdavė pusbroliui, tuoj pat Vytautas jį atidavė nukirsdinti.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

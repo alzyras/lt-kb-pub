@@ -42,3 +42,9 @@ Lietuva, apsikrikštijusi ir nugalėjusi Ordiną, pašalino 200 metų grėsmę s
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Krėva]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Tanenbergas]]

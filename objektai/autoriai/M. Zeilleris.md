@@ -54,3 +54,7 @@ Zeilleris 151 ; ta istorija anuomet buvo labai vertinama ir susilaukė keletos l
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]

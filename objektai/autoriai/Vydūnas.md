@@ -43,3 +43,10 @@ Ypač daug tenka nukentėti Tilžėje gyvenančiam rašytojui filosofui Vydūnui
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Nemunas]]
+- [[objektai/vietos/Tilžė]]
+- [[objektai/grupes/Vokiečiai]]

@@ -53,3 +53,11 @@ Darius Baronas (gimęs 1973 m.), baigė Vilniaus universitetą, humanitarinių m
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/karyba]]
+- [[objektai/vietos/Žalgiris]]

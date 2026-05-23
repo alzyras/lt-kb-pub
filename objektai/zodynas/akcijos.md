@@ -46,4 +46,10 @@ Akcijose prieš žydus Lietuvoje naciai panaudojo ir rusų Andrejaus Vlasovo arm
 - [[temos/drabužis]]
 
 ### Susiję objektai
-- [[objektai/ivykiai/Lietuvos žydų sunaikinimas - Holokaustas]]
+- [[objektai/vietos/Šiauliai]]
+- [[objektai/grupes/Žydai]]
+- [[objektai/asmenys/Ernestas Galvanauskas]]
+- [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]
+- [[objektai/ivykiai/Žemaičių skundo išsiuntimas ir Bonifaco IX bulės paskelbimas (1402–1403 m.)]]
+- [[objektai/grupes/Katalikų Bažnyčia]]
+- [[objektai/grupes/Želigovskininkai]]

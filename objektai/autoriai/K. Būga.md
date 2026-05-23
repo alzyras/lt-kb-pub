@@ -105,3 +105,12 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Aušrėnai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/glesum]]
+- [[objektai/zodynas/Aistuva]]
+- [[objektai/zodynas/Eistr]]
+- [[objektai/grupes/Suomiai]]

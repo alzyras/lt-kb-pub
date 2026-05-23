@@ -44,3 +44,8 @@ Apskritai per vadinamąjį prancūzmetį Lietuva labai nukentėjo: apiplėšė j
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Rusai]]

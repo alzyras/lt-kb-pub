@@ -55,4 +55,4 @@ Po nepavykusio grafo Liudviko Pliaterio antpuolio prieš Rusijos kariuomenės ka
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Daugpilis]]
+- [[objektai/vietos/Rusija]]

@@ -60,3 +60,7 @@ Netgi Suomijos, laisvosios rinkos šalies, ekonomika patyrė didesnį negu deši
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/SSRS]]

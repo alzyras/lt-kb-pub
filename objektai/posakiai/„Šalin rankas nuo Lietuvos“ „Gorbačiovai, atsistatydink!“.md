@@ -44,3 +44,6 @@ Sacharovo žmona ir bendražygė Jelena Boner (Jelena Bonner) mitinge kalbėjo, 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Jelena Boner]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Vilnius]]

@@ -50,3 +50,10 @@ Prasidėjęs kon­ fliktas dėl Haličo ir Volinijos žemių paveldėjimo nusit�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Haličas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Volinija]]
+- [[objektai/zodynas/Miera|miera]]

@@ -54,3 +54,12 @@ Margio rinktinės žvalgybos sk. Likę Šarūno ir Kunigaikščio Margio rinktin
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Algimanto apygarda]]
+- [[objektai/vietos/Viena]]
+- [[objektai/grupes/Kunigaikščio Margio rinktinė]]
+- [[objektai/grupes/Vytauto apygarda]]
+- [[objektai/grupes/Vyčio apygarda]]
+- [[objektai/grupes/Žalioji rinktinė]]

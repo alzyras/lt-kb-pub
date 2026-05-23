@@ -43,4 +43,6 @@ Nors žydai nenulėmė nei okupacijos, nei sovietizacijos, jų matomumas leido j
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Žydai]]
 - [[objektai/zodynas/judobolševizmas]]

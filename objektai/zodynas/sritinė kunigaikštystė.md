@@ -45,3 +45,9 @@ Tik Lietuvos feodalizmas buvo kiek kitoks: jis skyrėsi nuo vakarų Europos feod
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Europa]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/feodalizmas]]

@@ -47,4 +47,9 @@ Basanavičius, Stasys Šilingas ir Donatas Malinauskas surašė vadinamąją Gin
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Nemunas]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Vilnius]]
 - [[objektai/ivykiai/Gintarinės deklaracijos surašymas ir paskelbimas Rusijos Dūmoje]]

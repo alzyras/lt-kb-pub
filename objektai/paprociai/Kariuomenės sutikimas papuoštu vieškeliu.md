@@ -69,6 +69,10 @@ Nenurodyta
   teiginys: 'Papuoštu vieškeliu pražygiuojanti kariuomenė buvo organizuotai sutinkama apie penkis kilometrus.'
   pagrindžia:
     - c-004
+- t-008
+  teiginys: 'Kai tik išėjome iš Pagirių bažnytkaimio, mus nustebino papuoštas vieškelis.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -129,3 +133,18 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-005
+  santrauka: 'Kai tik išėjome iš Pagirių bažnytkaimio, mus nustebino papuoštas vieškelis.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Kai tik išėjome iš Pagirių bažnytkaimio, mus
+    nustebino papuoštas vieškelis. [...]. Jis abiejose pusėse lygiais protarpiais buvo nusmaigs-
+    tytas kartelėmis, ant kurių pakabinta vainikai ar gėlių puokštės. Daug kur skersai kelio
+    pastatyti vartai, prie kurių stovėjo būriai žmonių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008

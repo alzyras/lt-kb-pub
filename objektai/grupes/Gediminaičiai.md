@@ -44,3 +44,10 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
+
+### Susiję objektai
+- [[objektai/vietos/Europa]]
+- [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
+- [[objektai/asmenys/Traidenis]]
+- [[objektai/ivykiai/Vytauto dalinių kunigaikštijų sistemos naikinimas]]
+- [[objektai/zodynas/aksominė imperija siuzerenitetas hegemonija]]

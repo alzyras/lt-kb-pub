@@ -78,3 +78,13 @@ O Vilnių Jogaila sau pasiliko, atsiųsdamas ten lenkų įgulą, kuriai vadovavo
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/metraštis]]
+
+### Susiję objektai
+- [[objektai/asmenys/Feodoras (Ostrogo kunigaikštis)]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/zodynas/vietininkas]]
+- [[objektai/zodynas/žygis]]

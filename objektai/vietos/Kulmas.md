@@ -46,6 +46,10 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   teiginys: 'Bet vos tik jie išvykdavo namo, prūsai, išlindę iš miškų, nusiaubdavo visą Kulmą, Mozūrus ir visus aplinkinius krikščioniškuosius kraštus.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Jiems pirmąją bazę sudarė Tornas (1232 m.) ir Kulmas (1235 m.).'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -95,7 +99,37 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Jiems pirmąją bazę sudarė Tornas (1232 m.) ir Kulmas (1235 m.).'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Krikščionims
+    ginti ir naujakrikštams apsaugoti nuo fanatiškų pagonių puolimų,
+    1231 m. pavasarį atvyko prie Vislos Hermano Balke's vadovaujamas
+    būrelis riterių. Jiems pirmąją bazę sudarė Tornas (1232 m.) ir Kul-
+    mas (1235 m.).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Mozūrai]]
+- [[objektai/asmenys/Hermanas]]
+- [[objektai/vietos/Tornas]]
+- [[objektai/vietos/Visla]]
+- [[objektai/zodynas/pagonybė]]
+- [[objektai/asmenys/Albertas]]
+- [[objektai/vietos/Estija]]
+- [[objektai/asmenys/Herkus Mantas]]
+- [[objektai/asmenys/Konradas]]
+- [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)]]
+- [[objektai/vietos/Kulmo žemė]]
+- [[objektai/vietos/Osa]]
+- [[objektai/asmenys/Skomantas (lietuvių vadas)]]
+- [[objektai/vietos/Torunė]]
+- [[objektai/asmenys/Visvaldis]]
+- [[objektai/vietos/Vysla]]

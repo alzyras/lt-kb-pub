@@ -6,15 +6,18 @@ variantai: ["1922 m. Lietuvos Valstybės Konstitucijos priėmimas", "Konstitucij
 aliases: ["1922 m. Lietuvos Valstybės Konstitucijos priėmimas", "Konstitucijos priėmimas"]
 saltiniai:
   - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-bukle: paskelbta
-laikotarpis: "1922 m. rugpjūčio 1 d."
-datos: ["1922 m. rugpjūčio 1 d."]
-periodas: siuolaikine_istorija
-periodo_grupes: [tarpukaris]
+datos:
+  - '1922 m.'
+periodas: 'siuolaikine_istorija'
+periodo_grupes:
+  - '[tarpukaris]'
+  - 'modernioji Lietuva'
 amziai:
   - 'XX'
 date_start: '1922'
-date_end: '1922'
+date_end: ''
+bukle: paskelbta
+laikotarpis: "1922 m. rugpjūčio 1 d."
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
@@ -70,6 +73,14 @@ Nenurodyta
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-014
+  teiginys: 'Seimas 1922 m. rugpjūčio 1 d. priimtoje Lietuvos Valstybės Konstitucijoje įtvirtino Prancūzijos III respublikos pavyzdžio demokratijos principus.'
+  pagrindžia:
+    - c-003
+- t-015
+  teiginys: 'Konstitucija ypač didelių galių suteikė Seimui, kurį sudarė vadinamieji tautos atstovai.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -103,3 +114,46 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-012
+- c-003
+  santrauka: 'Seimas 1922 m. rugpjūčio 1 d. priimtoje Lietuvos Valstybės Konstitucijoje įtvirtino Prancūzijos III respublikos pavyzdžio demokratijos principus.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Seimas 1922 m. rugpjūčio 1 d. priimtoje Lietuvos Valstybės Konsti-
+    tucijoje įtvirtino Prancūzijos III respublikos pavyzdžio demokratijos
+    principus. Lietuvos valstybė – nepriklausoma demokratinė respublika,
+    aukščiausioji valdžia priklauso tautai (LDK laikais tik bajorai turėjo aukš-
+    čiausiąją valdžią ir užėmė išskirtinę padėtį šalyje). Lietuvių kalba pirmą
+    kartą įteisinta kaip valstybinė. Nežiūrint lyties, kilmės, tikėjimo ir tau-
+    tybės, visiems Lietuvos piliečiams garantuota lygybė prieš įstatymus ir
+    kitos demokratinės teisės.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
+- c-004
+  santrauka: 'Konstitucija ypač didelių galių suteikė Seimui, kurį sudarė vadinamieji tautos atstovai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Konstitucija ypač didelių galių suteikė Seimui, kurį sudarė
+    vadinamieji tautos atstovai. Seimas ir prezidentas (renkamas Seimo) ren-
+    kami trejiems metams. Konstitucija suteikė plačią autonomiją Lietuvoje
+    gyvenusioms tautinėms mažumoms, įteisino privalomą pradžios mokslą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Prancūzija]]
+- [[objektai/zodynas/tautos atstovai]]

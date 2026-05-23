@@ -43,3 +43,8 @@ Tačiau jis leido Lietuvos bajorijai sudaryti laikinę savo valdžią.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/bajorija]]

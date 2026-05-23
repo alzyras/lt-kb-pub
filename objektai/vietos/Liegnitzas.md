@@ -53,3 +53,12 @@ Ir iš menkų šaltinių nuotrupų yra įmanoma šiek tiek įžvelgti, jog Minda
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Baltija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/vietos/Silezija]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/vietos/Europa]]

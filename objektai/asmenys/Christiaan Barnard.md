@@ -41,3 +41,11 @@ O juk reikėtų prisiminti, kad pirmąją pasaulyje žmogaus širdies persodinim
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/grupes/Litvakai]]
+- [[objektai/vietos/Pietų Afrikos Respublika]]
+- [[objektai/ivykiai/Pirmoji pasaulyje žmogaus širdies persodinimo operacija (1967 m.)]]
+- [[objektai/vietos/Afrika]]

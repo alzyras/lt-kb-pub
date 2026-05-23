@@ -85,4 +85,9 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Albertas]]
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Vilnius]]
 - [[objektai/grupes/Lietuvos jėzuitų kolegijos]]
+- [[objektai/grupes/Vyriausioji Lietuvos Mokykla]]

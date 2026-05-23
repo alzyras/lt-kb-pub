@@ -89,4 +89,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/pavietas]]
 - [[objektai/zodynas/seimelis]]

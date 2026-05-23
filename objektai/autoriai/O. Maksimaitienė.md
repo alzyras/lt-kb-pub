@@ -59,3 +59,10 @@ Maksimaitienė pateikė duomenų apie sukilėlių kovinius veiksmus 1863 m. Augu
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Baltarusija]]
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/gubernija]]

@@ -35,6 +35,14 @@ LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Merkys palūžo psichologiškai.'
+  pagrindžia:
+    - c-002
+- t-003
+  teiginys: 'Merkio paskirti artimą krikščionims demokratams gen.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -56,3 +64,41 @@ LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Merkys palūžo psichologiškai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Nuo V. Molotovo rėksmingų kaltinimų
+    absurdiškumo A. Merkys palūžo psichologiškai. Birželio 10 dieną Kaune
+    sužinojus, kad A. Merkiui nesiseka normalizuoti situaciją, nutarta pasiųsti
+    į Maskvą ministrą J. Urbšį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Merkio paskirti artimą krikščionims demokratams gen.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Krikščionys demokratai ir liaudininkai, prieš tai su-
+    sitarę, pareikalavo ministru pirmininku vietoje A. Merkio paskirti artimą
+    krikščionims demokratams gen. S. Raštikį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Kaunas]]
+- [[objektai/grupes/Krikščionys]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/vietos/Merkys]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Lietuvos krikščionių demokratų partija]]

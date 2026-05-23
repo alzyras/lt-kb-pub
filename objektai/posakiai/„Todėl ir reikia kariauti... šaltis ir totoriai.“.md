@@ -53,5 +53,10 @@ Kai ant Dniepro saviškiai jį atkalbinėjo dėl didelių šalčių mesti kovą 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Dniepras]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/posakiai/Todėl ir reikia kariauti, nes jeigu nugalėsim, gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės apie mus, kad mus nugalėjo du]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/posakiai/du priešai, šaltis ir totoriai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

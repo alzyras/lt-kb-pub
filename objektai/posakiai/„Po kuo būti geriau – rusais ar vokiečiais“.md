@@ -46,3 +46,10 @@ Mintis „Po kuo būti geriau – rusais ar vokiečiais“ nereiškė išankstin
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Baltija]]
+- [[objektai/vietos/Europa]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]

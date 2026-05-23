@@ -64,4 +64,10 @@ Brutaliu, diskriminaciniu rusinimu valdžia siekė aneksuotas Lenkijos ir Lietuv
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Gardinas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/rusinimas]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė]]

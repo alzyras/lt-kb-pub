@@ -60,3 +60,14 @@ Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didži
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Livonija]]
+- [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
+- [[objektai/zodynas/etmonas]]
+- [[objektai/zodynas/hetmonas]]
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/asmenys/Grigalius Chodkevičius]]
+- [[objektai/asmenys/Kristupas Radvila Perkūnas]]
+- [[objektai/asmenys/Romanas Sanguška]]

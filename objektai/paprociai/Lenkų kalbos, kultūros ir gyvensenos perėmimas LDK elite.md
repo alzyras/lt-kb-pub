@@ -84,3 +84,13 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Kijevo Rusia]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/barokas]]
+- [[objektai/grupes/Žemaičiai]]

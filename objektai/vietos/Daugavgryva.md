@@ -47,6 +47,10 @@ Radvilai pasisekė apginti tik Rygą ir Dauguvos žiotis saugančią Daugavgryv�
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: '1609 m. kovo mėnesį jis pabandė pulti Daugavgryvą ir taip pralaužti Rygos blokadą, bet papildomais įtvirtinimais sustiprinę senąją tvirtovę, Nilsomo Sternskioldomo vadodinamasis Zebžidovskio rokošas privertė vaujama 250 švedų karių įgula su 29 patranJoną.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -91,3 +95,43 @@ Radvilai pasisekė apginti tik Rygą ir Dauguvos žiotis saugančią Daugavgryv�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: '1609 m. kovo mėnesį jis pabandė pulti Daugavgryvą ir taip pralaužti Rygos blokadą, bet papildomais įtvirtinimais sustiprinę senąją tvirtovę, Nilsomo Sternskioldomo vadodinamasis Zebžidovskio rokošas privertė vaujama 250 švedų karių įgula su 29 patranJoną.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    1609 m.
+    kovo mėnesį jis pabandė pulti Daugavgryvą
+    ir taip pralaužti Rygos blokadą, bet pa-
+    pildomais įtvirtinimais sustiprinę senąją
+    tvirtovę, Nilsomo Sternskioldomo vado-
+    dinamasis Zebžidovskio rokošas privertė vaujama 250 švedų karių įgula su 29 patran-
+    Joną Karolį Chodkevičių nutraukti karo komis sugebėjo atsilaikyti prieš netikėtą
+    veiksmus Livonijoje ir vykti į Lenkiją padėti lietuvių puolimą. Po nepavykusio puolimo
+
+    Mūšio priešistorė
+
+    1600-1611 metų karas su Švedijos karalyste
+    dėl Livonijos vyko sudėtingomis vidaus po-
+    litinėmis sąlygomis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/vietos/Ryga]]
+- [[objektai/zodynas/rokošas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/vietos/Švedija]]
+- [[objektai/vietos/Daugavgryvos pilis]]
+- [[objektai/asmenys/Frederikas Joachimas Mansfeldas]]
+- [[objektai/asmenys/Jonas Karolis Katkevičius]]
+- [[objektai/vietos/Viljandis]]

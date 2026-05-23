@@ -52,7 +52,6 @@ LSDP Lietuvos socialdemokratų partija. Kairysis valstiečių liaudininkų bloka
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1927 m. rugsėjo 8–9 d. ginkluotos socialdemokratų grupės surengė pučus keliose apskrityse.'

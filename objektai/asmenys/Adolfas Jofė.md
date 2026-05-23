@@ -44,3 +44,8 @@ Tačiau sovietai, vadovaujami Adolfo Jofės (Adolf Joffe), traktavo Lietuvą kai
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Maskva]]

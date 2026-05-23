@@ -46,4 +46,8 @@ Amžiaus pabaigoje sorbų kilmės vokiečių politikas, mokslininkas, poliglotas
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Nemunas]]
+- [[objektai/vietos/Prūsija]]
 - [[objektai/posakiai/„Lietuviais esame mes gimę...“]]

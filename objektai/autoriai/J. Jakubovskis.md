@@ -58,3 +58,11 @@ Jakubovskis : Tautiniai santykiai , Kaunas 1921. Jakubovskis : Tautybių santyki
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Liublinas]]
+- [[objektai/autoriai/Liubavskij, M]]
+- [[objektai/autoriai/M. Ljubavskij]]

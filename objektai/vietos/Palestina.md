@@ -44,6 +44,18 @@ karai prieš turkus Palestinoje ir vyravo nuomonė, kad su netikėliais pagonimi
   teiginys: 'KARALIUS MINDAUGAS IR JO PALIKIMAS 167 ordinas , kuris savo pradžią buvo gavęs 1190 m. Palestinoje prie Akonos apgulimo^74.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Apskritai žydai gyveno atskirą bendruomeninį gyvenimą ir menkai integravosi į lietuvių visuomenę, o sionistinis judėjimas kėlė Lietuvos žydus gyventi į Palestiną.'
+  pagrindžia:
+    - c-003
+- t-004
+  teiginys: 'Kadangi tuo metu Europoje buvo skelbiami kryžiaus karai prieš turkus Palestinoje ir vyravo nuomonė, kad su netikėliais pagonimis reikią kariauti, todėl savanorių karių atsirasdavo nemaža.'
+  pagrindžia:
+    - c-004
+- t-005
+  teiginys: 'Palestinoje, einant kryžiaus karams su turkais, krikščionims apsaugoti ir kariauti buvo įsteigti net keli riterių vienuolių ordinai (templininkų, joanitų ir vokiečių, arba kryžiuočių, ordinas).'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -85,3 +97,64 @@ karai prieš turkus Palestinoje ir vyravo nuomonė, kad su netikėliais pagonimi
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Apskritai žydai gyveno atskirą bendruomeninį gyvenimą ir menkai integravosi į lietuvių visuomenę, o sionistinis judėjimas kėlė Lietuvos žydus gyventi į Palestiną.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Apskritai žydai gyveno atskirą bendruo-
+    meninį gyvenimą ir menkai integravosi į lietuvių visuomenę, o sionistinis
+    judėjimas kėlė Lietuvos žydus gyventi į Palestiną.
+    Lenkai, sudarę apie 3,2 proc.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Kadangi tuo metu Europoje buvo skelbiami kryžiaus karai prieš turkus Palestinoje ir vyravo nuomonė, kad su netikėliais pagonimis reikią kariauti, todėl savanorių karių atsirasdavo nemaža.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Kadangi tuo metu Europoje buvo skelbiami kryžiaus
+    karai prieš turkus Palestinoje ir vyravo nuomonė, kad su neti-
+    kėliais pagonimis reikią kariauti, todėl savanorių karių atsiras-
+    davo nemaža. Bet atvykstančių karių pagalba buvo laikinė, nes,
+    pabuvę kiek laiko (dažniausiai metus), jie grįždavo atgal, ir vėl
+    reikėdavo ieškoti naujų karių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: 'Palestinoje, einant kryžiaus karams su turkais, krikščionims apsaugoti ir kariauti buvo įsteigti net keli riterių vienuolių ordinai (templininkų, joanitų ir vokiečių, arba kryžiuočių, ordinas).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Palestinoje,
+    einant kryžiaus karams su turkais, krikščionims apsaugoti
+    ir kariauti buvo įsteigti net keli riterių vienuolių ordinai
+    (templininkų, joanitų ir vokiečių, arba kryžiuočių, ordinas).
+    Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vysku-
+    pijoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Albertas]]
+- [[objektai/asmenys/Albertas (Rygos vyskupas)]]
+- [[objektai/vietos/Europa]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Rimini]]
+- [[objektai/paprociai/Vakarų pagalbos kvietimas ir svečių iš Vokietijos šaukimas]]
+- [[objektai/ivykiai/Veronos auksinė bulė ir Kuršo, Lietuvos bei Žiemgalių padovanojimas (1245 m.)]]
+- [[objektai/zodynas/didysis magistras]]
+- [[objektai/grupes/Joanitų ordinas]]

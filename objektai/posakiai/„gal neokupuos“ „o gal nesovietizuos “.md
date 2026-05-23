@@ -50,3 +50,13 @@ Atkritus vilčiai, kad sovietai „gal neokupuos“, liko dar viena – „o gal
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/autoriai/A. Merkys]]
+- [[objektai/asmenys/A. Smetona|A. Smetona (prezidentas, XX a.)]]
+- [[objektai/vietos/Europa]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Merkys]]
+- [[objektai/vietos/Viena]]
+- [[objektai/vietos/Vokietija]]

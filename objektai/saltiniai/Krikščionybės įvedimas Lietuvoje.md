@@ -30,7 +30,7 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: ': Krikščionybės įvedimas Lietuvoje, Kaunas 1938.'
+  teiginys: 'Stasio Ylos „Krikščionybės įvedimas Lietuvoje“ išleistas Kaune 1938 m.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -40,7 +40,7 @@ tags:
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: ': Krikščionybės įvedimas Lietuvoje, Kaunas 1938.'
+  santrauka: 'Stasio Ylos „Krikščionybės įvedimas Lietuvoje“ išleistas Kaune 1938 m.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     — _(”)Jadwyga d’Anjou,_

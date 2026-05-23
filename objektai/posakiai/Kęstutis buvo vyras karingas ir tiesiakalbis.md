@@ -50,3 +50,12 @@ Net Dlugošas, kuris savo plačioje kronikoje gana šykščiai apie Lietuvos kun
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/paprociai/Kęstučio riteriškų papročių laikymasis]]
+- [[objektai/asmenys/Dlugošas]]

@@ -69,3 +69,13 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Anglija]]
+- [[objektai/grupes/Kalnėnai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/ivykiai/Lietuvos atsisakymas žygiuoti į Vilnių Vokietijos ir Lenkijos karo metu (1939 m. rugsėjis)]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Sandara]]

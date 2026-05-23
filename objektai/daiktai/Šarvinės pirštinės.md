@@ -76,3 +76,21 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Auksinė Orda]]
+- [[objektai/vietos/Dniepras]]
+- [[objektai/vietos/Krokuva]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Podolė]]
+- [[objektai/vietos/Ragainė]]
+- [[objektai/asmenys/Timūr-Kutlukas]]
+- [[objektai/asmenys/Tochtamišas]]
+- [[objektai/grupes/Tochtamišo totoriai]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/zodynas/chanas]]
+- [[objektai/zodynas/komtūras]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/asmenys/Markvardas Zalzbachas]]
+- [[objektai/daiktai/Šarvinių pirštinių, žasto, dilbio, kelio ir blauzdos apsaugos]]

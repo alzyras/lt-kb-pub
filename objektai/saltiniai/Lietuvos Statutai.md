@@ -6,6 +6,23 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1529 m.'
+  - '1563 m.'
+  - '1566 m.'
+  - '1588 m.'
+  - '1794 m.'
+  - '1805 m.'
+  - '1806 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVI'
+  - 'XVIII'
+  - 'XIX'
+date_start: '1529'
+date_end: '1806'
 patikimumas: 'vidutinis'
 tags:
   - bajorija
@@ -50,8 +67,105 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
     - c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-006
+  teiginys: 'Lietuvoje tai padarė 1563 m. Žygimanto Augusto privilegija, sulyginusi visų krikščioniškų konfesijų teises, tai tapo ir Antrojo bei Trečiojo Lietuvos Statutų teisine norma.'
+  pagrindžia:
+    - c-006
+- t-007
+  teiginys: 'Bendras vidaus politinis gyvenimas, bendri seimai ir seimeliai, susiformavusi LDK teisė Lietuvos Statutuose (tai trys teisynai – 1529, 1566, 1588) ugdė sampratą, kad lietuvis yra ne tas, kuris kalba lietuviškai, o tas, kuris gina laisvę ir vadovaujasi.'
+  pagrindžia:
+    - c-007
+- t-008
+  teiginys: 'Liko galioti Lietuvos Statutas, lenkų kalba leista savivaldos institucijose, aps- 1794 m. sukilėlis, paskutinio LDK atkūrimo projekto autorius Mykolas Kleopas Oginskis.'
+  pagrindžia:
+    - c-008
+- t-009
+  teiginys: 'Preambulėje nustatytas tam tikrų teisių tradicijų, valstybingumo ir jo įtvirtinimo teisėje tęstinumas – lietuvių tauta Lietuvos valstybės teisės pamatus grindė LDK laikotarpiu priimtais Lietuvos Statutais ir Lietuvos Respublikos konstitucijomis.'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
+- c-006
+  santrauka: 'Lietuvoje tai padarė 1563 m. Žygimanto Augusto privilegija, sulyginusi visų krikščioniškų konfesijų teises, tai tapo ir Antrojo bei Trečiojo Lietuvos Statutų teisine norma.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietu-
+    voje tai padarė 1563 m. Žygimanto Augusto privilegija, sulyginusi visų
+    krikščioniškų konfesijų teises, tai tapo ir Antrojo bei Trečiojo Lietuvos
+    Statutų teisine norma. Jau Pirmasis Lietuvos Statutas (1529), dar neži-
+    nant reformacijos, skiriamas ne tiktai katalikų, bet ir ortodoksų bajorijai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: 'Bendras vidaus politinis gyvenimas, bendri seimai ir seimeliai, susiformavusi LDK teisė Lietuvos Statutuose (tai trys teisynai – 1529, 1566, 1588) ugdė sampratą, kad lietuvis yra ne tas, kuris kalba lietuviškai, o tas, kuris gina laisvę ir vadovaujasi.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Bendras vidaus politinis
+    gyvenimas, bendri seimai ir seimeliai, susiformavusi LDK teisė Lietuvos
+    Statutuose (tai trys teisynai – 1529, 1566, 1588) ugdė sampratą, kad lie-
+    tuvis yra ne tas, kuris kalba lietuviškai, o tas, kuris gina laisvę ir vadovau-
+    jasi Lietuvos Statutais. LDK politinės tautos prielaidas kūrė LDK karinės
+    pergalės Žalgiryje, Klecke, Oršoje, Kirchholme (dab.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: 'Liko galioti Lietuvos Statutas, lenkų kalba leista savivaldos institucijose, aps- 1794 m. sukilėlis, paskutinio LDK atkūrimo projekto autorius Mykolas Kleopas Oginskis.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Bajorai turėjo
+    savivaldą gubernijos ir apskrities
+    lygmeniu, vadinamuosius seime-
+    lius, kurie vykdė pagalbines val-
+    džios aparato funkcijas. Liko ga-
+    lioti Lietuvos Statutas, lenkų kalba
+    leista savivaldos institucijose, aps-
+    1794 m. sukilėlis, paskutinio
+    LDK atkūrimo projekto autorius
+    Mykolas Kleopas Oginskis.
+    Dail. F. X. Fabre, 1805–1806 m.
+
+    L I E T U V O S  I S T O R I J A
+    102
+    krities administracijoje, žemutinėje teismų grandyje, švietimo sistemoje, o
+    Vilniaus universitete tik tuo metu pereita nuo dėstymo lotynų kalba prie
+    dėstymo lenkų kalba. Žodžiu, kraštas įgijo kultūrinę autonomiją.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: 'Preambulėje nustatytas tam tikrų teisių tradicijų, valstybingumo ir jo įtvirtinimo teisėje tęstinumas – lietuvių tauta Lietuvos valstybės teisės pamatus grindė LDK laikotarpiu priimtais Lietuvos Statutais ir Lietuvos Respublikos konstitucijomis.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Preambulėje nustatytas tam tikrų teisių tradicijų, valstybingumo ir
+    jo įtvirtinimo teisėje tęstinumas – lietuvių tauta Lietuvos valstybės teisės
+    pamatus grindė LDK laikotarpiu priimtais Lietuvos Statutais ir Lietuvos
+    Respublikos konstitucijomis. Pagrindinės Konstitucijos nuostatos skelbė,
+    kad Lietuva yra demokratinė respublika, Lietuvos valstybę kuria tauta,
+    suverenitetas priklauso tautai, aukščiausią suverenią galią tauta vykdo
+    tiesiogiai ar per demokratiškai išrinktus savo atstovus, valstybės valdžią
+    Lietuvoje vykdo Seimas, Respublikos prezidentas ir vyriausybė, teismas,
+    valdžios galias riboja konstitucija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Bibliografiniai įrodymai
 - c-001

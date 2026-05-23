@@ -54,3 +54,13 @@ Krymo chanatas šiame šaltinyje rodomas kaip Maskvos sąjungininkas prieš Liet
   pagrindžia:
     - t-003
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Dniepras]]
+- [[objektai/vietos/Krymas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/vietos/Turkija]]
+- [[objektai/vietos/Viena]]
+- [[objektai/grupes/Totoriai]]

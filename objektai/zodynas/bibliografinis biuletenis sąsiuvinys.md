@@ -54,3 +54,7 @@ tags:
 ### Teminiai klasteriai
 - [[temos/bibliografija]]
 - [[temos/metraštis]]
+
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Čikaga]]

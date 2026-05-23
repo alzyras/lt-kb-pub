@@ -105,6 +105,22 @@ Nenurodyta
   teiginys: 'Lenkai patyrė didelį spaudimą tiek centre, tiek dešinėje, neatlaikiusi spaudimo net krito didžioji Krokuvos vėliava.'
   pagrindžia:
     - c-009
+- t-024
+  teiginys: 'Vytauto vadovaujami Lietuvos pulkai, kurie paskui save buvo patraukę eilę priešo vėliavų, sugrįžo į kovos lauką.'
+  pagrindžia:
+    - c-010
+- t-025
+  teiginys: 'Zyndramas vedimui mažai turėjo reikšmės; jis kovojo tik prie vyriausios vėliavos, tuo tarpu visos sąjunginės kariuomenės vadovybė atiteko Vytautui.'
+  pagrindžia:
+    - c-011
+- t-026
+  teiginys: 'Se­ nesnieji istorijos šaltiniai paduoda tokį vėliavų skaičių: Vy­ tauto 40 vėliavų^2 ) (neskaitant totorių), Jogailos 51 vėliava (jų (^1) ) Taip Kotzebue, Voigt priskaito sąj.'
+  pagrindžia:
+    - c-012
+- t-027
+  teiginys: 'Jį saugojo kunigaikščio Kaributo vėliava, kurią dar prieš karą Vytautas buvo Jogailai nusiuntęs.'
+  pagrindžia:
+    - c-013
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -270,6 +286,94 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-023
+- c-010
+  santrauka: 'Vytauto vadovaujami Lietuvos pulkai, kurie paskui save buvo patraukę eilę priešo vėliavų, sugrįžo į kovos lauką.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Vytauto vadovaujami
+    Lietuvos pulkai, kurie paskui save buvo patraukę eilę priešo vėliavų,
+    sugrįžo į kovos lauką. Nauji Lenkijos pulkai ėmė pulti ilstančią
+    kryžiuočių kariuomenę, ir jų eilės nebeatlaikė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-024
+- c-011
+  santrauka: 'Zyndramas vedimui mažai turėjo reikšmės; jis kovojo tik prie vyriausios vėliavos, tuo tarpu visos sąjunginės kariuomenės vadovybė atiteko Vytautui.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Zyndramas vedimui mažai turėjo reikšmės; jis kovojo tik prie
+    vyriausios vėliavos, tuo tarpu visos sąjunginės kariuomenės
+    vadovybė atiteko Vytautui.
+    Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­
+    niku.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-025
+- c-012
+  santrauka: 'Se­ nesnieji istorijos šaltiniai paduoda tokį vėliavų skaičių: Vy­ tauto 40 vėliavų^2 ) (neskaitant totorių), Jogailos 51 vėliava (jų (^1) ) Taip Kotzebue, Voigt priskaito sąj.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Se­
+    nesnieji istorijos šaltiniai paduoda tokį vėliavų skaičių: Vy­
+    tauto 40 vėliavų^2 ) (neskaitant totorių), Jogailos 51 vėliava (jų
+
+    (^1) ) Taip Kotzebue, Voigt priskaito sąj. 163.000,
+    Szainocha
+    Górski
+    Prochaska
+    kiti
+    80-90.000
+    23.600
+    23.900
+    27.000
+    Ordino 83.000.
+    „ 80.000
+    „ 16.000
+    „ 16.320
+    „ 15.000
+    (^2) ) Iš tų Lietuvos kariuomneės vėliavų, kovojančių po Vyties ženklu,
+    Dlugošas (IV, 41 p.) išvardina šias: Trakų, Vilniaus, Gardino, Kauno, Ly­
+    dos, Medininkų, Smolensko, Polocko, Vitebsko, Kijevo, Pinsko, Naugardu­
+    ko, Bresto, Volkovisko, Drohicko, Mielniko, Kremenieco, Starodubo.
+
+
+    ```
+    — 82 —
+    ```
+    tarpe 5 vėl. samdytos už Vytauto pinigus, 7 vėl. Raudonosios
+    Rusijos, 1 vėl. Podolijos ir 1 vėl. kunig. Kaributo) ir Ordino 52
+    vėl. Vėliavų skaičius ginčų nesukelia.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-026
+- c-013
+  santrauka: 'Jį saugojo kunigaikščio Kaributo vėliava, kurią dar prieš karą Vytautas buvo Jogailai nusiuntęs.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Jį saugojo kunigaikščio Kaributo
+    vėliava, kurią dar prieš karą Vytautas buvo Jogailai nusiuntęs.
+    Nuo karaliaus stovyklos Lenkijos pusėn buvo sustatyta visa ei­
+    lė greičiausių ir visiškai paruoštų arklių, kuriais Jogaila galė­
+    tų pabėgti, jei kiltų pavojus iš kryžiuočių pusės.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-027
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -280,4 +384,36 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/daiktai/Skydas]]
-- [[objektai/daiktai/Gediminaičių stulpai]]
+- [[objektai/asmenys/Dlugošas]]
+- [[objektai/vietos/Drevenca]]
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/asmenys/Kaributas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/autoriai/Prochaska]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/vėliava]]
+- [[objektai/grupes/7-ojo fuzilierių regimento]]
+- [[objektai/asmenys/A. P. Sapiega]]
+- [[objektai/asmenys/B. P. Sapiega]]
+- [[objektai/paprociai/Bajorų pašauktinės kariuomenės mobilizacija]]
+- [[objektai/vietos/Chotinas]]
+- [[objektai/asmenys/H. Brantas]]
+- [[objektai/paprociai/Husarų vėliavų „draugų“ ir palydos sistema]]
+- [[objektai/asmenys/J. P. Sapiega]]
+- [[objektai/daiktai/Kryžiuočių kariuomenės dalių vėliavos]]
+- [[objektai/grupes/Kuršo ir Žiemgalos kunigaikštystė]]
+- [[objektai/grupes/LDK 4-ojo pėstininkų regimento]]
+- [[objektai/grupes/LDK tribunolo vengrų vėliavos dalinys]]
+- [[objektai/grupes/Lietuvos totoriai]]
+- [[objektai/asmenys/Mykolas Kiełbasa]]
+- [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)]]
+- [[objektai/asmenys/T. Dambrava]]
+- [[objektai/asmenys/Zbignievas Olesnickis]]
+- [[objektai/vietos/Grünvaldas]]
+- [[objektai/ivykiai/Oršos mūšis (1514 m.)]]
+- [[objektai/daiktai/Riterių vėliava]]
+- [[objektai/grupes/Smolenskiečiai]]
+- [[objektai/daiktai/Valstybiniai ženklai ir vėliava]]
+- [[objektai/zodynas/vyskupo teisėjas]]

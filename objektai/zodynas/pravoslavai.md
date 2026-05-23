@@ -72,3 +72,17 @@ tags: []
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Kijevas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/zodynas/unija]]
+- [[objektai/asmenys/Jurgis Cemblakas]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/archieriejus]]
+- [[objektai/zodynas/kitatikiai]]
+- [[objektai/vietos/Konstantinopolis]]
+- [[objektai/zodynas/metropolitas]]

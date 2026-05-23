@@ -54,3 +54,7 @@ Rėklaitis : Einführung in die Kunstgeschichtsforschung des Groß- iürstentums
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/bibliografija]]
+
+### Susiję objektai
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Lietuva]]

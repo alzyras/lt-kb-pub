@@ -52,6 +52,10 @@ Piešinyje pavaizduoti lietuvių lengvieji raiteliai — husarai su būdingais t
     - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: 'Ilgomis ietimis ginkluoti raitininkai - husarai (ietimis ginkluota sunkioji kavalerija Vakarų Europoje buvo visiškai išnykusi iki xvii a.).'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -158,3 +162,33 @@ Piešinyje pavaizduoti lietuvių lengvieji raiteliai — husarai su būdingais t
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Ilgomis ietimis ginkluoti raitininkai - husarai (ietimis ginkluota sunkioji kavalerija Vakarų Europoje buvo visiškai išnykusi iki xvii a.).'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Ilgomis ietimis ginkluoti raitininkai - husarai (ieti-
+    mis ginkluota sunkioji kavalerija Vakarų Europoje buvo visiškai
+    išnykusi iki xvii a.). Nepaisant to, kad husarai buvo brangesnė
+    kavalerija nei to meto pistoletais atakuojanti vakarietiška, husarų
+    ataka buvo efektyvesnis kovos būdas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Europa]]
+- [[objektai/zodynas/sunkioji kavalerija]]
+- [[objektai/grupes/Abiejų Tautų Respublikos kariuomenė]]
+- [[objektai/asmenys/B. Zenavičius]]
+- [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)]]
+- [[objektai/asmenys/Stanislovas Liubomirskis]]
+- [[objektai/asmenys/T. Lackis]]
+- [[objektai/asmenys/Vladislovas]]
+- [[objektai/zodynas/arkebuzieriai]]
+- [[objektai/zodynas/petihorai]]
+- [[objektai/grupes/Švedų gvardijos kavalerija]]

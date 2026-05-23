@@ -53,3 +53,14 @@ Italijoje), kur jie buvo maloniai priimti ir gavo jo brevę (1388.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Dobrogostas]]
+- [[objektai/vietos/Gniezno]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Perudžija]]
+- [[objektai/asmenys/Urbonas VI]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/asmenys/Inocentas VI]]
+- [[objektai/ivykiai/Vilniaus vyskupystės įkūrimas]]

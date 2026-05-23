@@ -69,4 +69,6 @@ Tam tikslui buvo įsakyta paruošti vadinamuosius inventorius, kuriuose nuo seno
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/autoriai/K. Jablonskis]]
+- [[objektai/autoriai/Konstantinas Jablonskis]]
 - [[objektai/paprociai/Valstiečių prievolių inventorizavimas ir suvienodinimas]]

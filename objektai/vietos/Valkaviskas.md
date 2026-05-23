@@ -41,6 +41,10 @@ Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskrit
   teiginys: 'Taikai palaikyti, « Budikidas » ir jo brolis « Budivydas » jiems 1289 per­ leido Valkaviską^19.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Šaulys) bei užsienio lietuvių atstovai, pasisakyta už etnografinį teritorijos formavimo principą „Lithuania Propria“ ribose: Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskritys, kone visa Vilniaus gubernija (išskyrus.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -78,7 +82,45 @@ Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskrit
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Šaulys) bei užsienio lietuvių atstovai, pasisakyta už etnografinį teritorijos formavimo principą „Lithuania Propria“ ribose: Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskritys, kone visa Vilniaus gubernija (išskyrus.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Šaulys) bei užsienio lietuvių atstovai, pasisakyta
+    už etnografinį teritorijos formavimo principą „Lithuania Propria“ ribose:
+    Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko
+    apskritys, kone visa Vilniaus gubernija (išskyrus stačiatikiškas apskritis),
+    be to, Alūkštos apskritis Kurše iki Dauguvos upės, numatyta reikalauti
+    ir Liepojos uosto (vokiškoji Klaipėda neminėta taktiniais sumetimais).
+    Apskritai teritoriniai Lietuvos projektai keitėsi keičiantis tarptautinei si-
+    tuacijai – niekas negalėjo pasakyti, kokio dydžio valstybe ji galėtų tapti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Alūkšta]]
+- [[objektai/vietos/Dauguva]]
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Klaipėda]]
+- [[objektai/vietos/Kuršas]]
+- [[objektai/vietos/Liepoja]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Slanimas]]
+- [[objektai/vietos/Vilniaus gubernija]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/gubernija]]
+- [[objektai/posakiai/„Lithuania Propria“]]
+- [[objektai/vietos/Bernas]]
+- [[objektai/ivykiai/Jogailos išrinkimas Lenkijos karaliumi]]
+- [[objektai/asmenys/Jurgis Šaulys]]
+- [[objektai/vietos/Kauno gubernija]]
+- [[objektai/asmenys/Steponas Kairys]]
+- [[objektai/zodynas/etnografinės ribos etnografinis principas]]
 - [[objektai/ivykiai/Valkavisko perdavimas Haličo-Volinijos kunigaikščiams (1289 m.)]]

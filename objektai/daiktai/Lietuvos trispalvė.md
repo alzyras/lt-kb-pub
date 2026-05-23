@@ -74,6 +74,14 @@ Nenurodyta
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-011
+  teiginys: 'Britams rodant iniciatyvą palaikyti Lietuvą, jų dėka įvyko pirmos masinės džiaugsmo manifestacijos – 1919 m. rugsėjo 26 d. gavus žinią, kad Didžioji Britanija oficialiai pripažino de facto Lietuvą, tūkstančiai žmonių susirinko prie laikinosios sostinės Kauno.'
+  pagrindžia:
+    - c-003
+- t-012
+  teiginys: 'LPS veiklai pravertė SSKP CK sekretoriaus Aleksandro Jakovlevo apsilankymas Lietuvoje rugpjūčio 11–12 dienomis.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -109,6 +117,46 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-010
+- c-003
+  santrauka: 'Britams rodant iniciatyvą palaikyti Lietuvą, jų dėka įvyko pirmos masinės džiaugsmo manifestacijos – 1919 m. rugsėjo 26 d. gavus žinią, kad Didžioji Britanija oficialiai pripažino de facto Lietuvą, tūkstančiai žmonių susirinko prie laikinosios sostinės Kauno.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Britams rodant iniciatyvą palaikyti Lietuvą, jų dėka įvyko pirmos ma-
+    sinės džiaugsmo manifestacijos – 1919 m. rugsėjo 26 d. gavus žinią, kad
+    Didžioji Britanija oficialiai pripažino de facto Lietuvą, tūkstančiai žmonių
+    susirinko prie laikinosios sostinės Kauno rotušės. Laikraščiai rašė, kad to-
+    kių minių Kaunas neregėjo penkis šimtmečius, danguje skraidė lėktuvai,
+    tempdami Lietuvos trispalvę, žmonės džiūgavo, prezidentas A. Smetona
+    iš balkono sveikino minias. Tais metais de facto Lietuvą pripažino Nor-
+    vegija, Latvija, Suomija, 1920 m. – Prancūzija (gegužės 11 d.) ir Lenkija
+    (liepos 4 d.).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+- c-004
+  santrauka: 'LPS veiklai pravertė SSKP CK sekretoriaus Aleksandro Jakovlevo apsilankymas Lietuvoje rugpjūčio 11–12 dienomis.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    LPS veiklai pravertė SSKP CK sekretoriaus Aleksandro Jakovlevo apsi-
+    lankymas Lietuvoje rugpjūčio 11–12 dienomis. LKP vadovybei Aleksan-
+    dras Jakovlevas pabrėžė, kad „inteligentija – liaudies savimonės išraiška“, –
+    partija nebedraudė komunistams dalyvauti LPS rėmimo grupėse, ofici-
+    aliai pripažino trispalvę ir „Tautišką giesmę“, pirmą kartą viešai Vingio
+    parke leido paminėti Molotovo–Ribentropo paktą, pažadėjo LPS teisę
+    leisti laikraštį ir nuolatinę televizijos laidą. LPS tapo dar populiaresnis,
+    kai nuo rugsėjo 16 dienos, be biuletenio „Sąjūdžio žinios“, pradėtas leisti
+    laikraštis „Atgimimas“ (red.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
 
 ## Šaltiniai ir įrodymai
 
@@ -117,4 +165,9 @@ Nenurodyta
 - [[temos/simbolis]]
 
 ### Susiję objektai
-- [[objektai/vietos/Katedros aikštė]]
+- [[objektai/asmenys/A. Smetona|A. Smetona (prezidentas, XX a.)]]
+- [[objektai/vietos/Didžioji Britanija]]
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Prancūzija]]

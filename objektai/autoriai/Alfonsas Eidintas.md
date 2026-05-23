@@ -18,14 +18,17 @@ vaidmenys:
 dalyviai: []
 susije_irasai: []
 datos:
+  - '1991 m.'
+  - '2012 m.'
   - '2013 m.'
 periodas: 'atkurtos nepriklausomybės laikotarpis'
 periodo_grupes:
   - 'šiuolaikinė Lietuva'
 amziai:
+  - 'XX'
   - 'XXI'
-date_start: '2013'
-date_end: ''
+date_start: '1991'
+date_end: '2013'
 patikimumas: aukštas
 tags:
   - autorius
@@ -61,6 +64,10 @@ Alfonsas Eidintas nurodytas kaip vienas knygos „Lietuvos istorija“ autorių;
     - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-013
+  teiginys: 'Eidinto knygos „Antanas Smetona ir jo aplinka“ (Vilnius, 2012) ir A.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -137,6 +144,20 @@ Alfonsas Eidintas nurodytas kaip vienas knygos „Lietuvos istorija“ autorių;
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-012
+- c-004
+  santrauka: 'Eidinto knygos „Antanas Smetona ir jo aplinka“ (Vilnius, 2012) ir A.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vilnius: Spaudos
+    departamentas, 1991; A. Eidinto knygos „Antanas Smetona ir jo aplinka“ (Vilnius, 2012)
+    ir A. Eidinto, A. Bumblausko asmeninių archyvų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
 
 ## Ryšiai
 ### Teminiai klasteriai

@@ -49,6 +49,10 @@ Terminas vartojamas argumentuojant, kad vainikavimas galėjo būti pasaulietinis
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: 'Karaliaus vainikavimas laikytas civiliniu aktu, kuriam vyskupo patepimas kaip bažnytinė ceremonija nebuvo būtinas.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -76,6 +80,26 @@ Terminas vartojamas argumentuojant, kad vainikavimas galėjo būti pasaulietinis
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+- c-002
+  santrauka: 'Karaliaus vainikavimas laikytas civiliniu aktu, kuriam vyskupo patepimas kaip bažnytinė ceremonija nebuvo būtinas.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    **
+
+
+    (^374) III skyrius: valstybės suklestėjimas
+    buvo rašęs — esąs civilinis aktas, kur vyskupo patepimas, kaip
+    bažnytinė ceremonija, nesąs būtinas. Nurodydamas eilę pavyzdžių,
+    kur krikščionių karaliai atlieką vainikavimąsi be vyskupiško pate­
+    pimo, Zigmantas, kaip ir jo delegacija, turėjo įrodyti, jog Vytautui
+    vainiką galįs suteikti ir Romoje nevainikuotas imperatorius, t.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Teminiai klasteriai

@@ -42,3 +42,8 @@ Kitas didelis lietuvių kalbos garbintojas buvo net ne lietuvis, o tikras vokiet
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/posakiai/„Lietuviais esame mes gimę...“]]

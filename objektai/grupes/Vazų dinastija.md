@@ -122,3 +122,9 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
+
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Viena]]

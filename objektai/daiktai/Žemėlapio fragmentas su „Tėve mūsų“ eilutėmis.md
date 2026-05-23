@@ -76,3 +76,8 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/žemėlapis]]
+
+### Susiję objektai
+- [[objektai/vietos/Europa]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Niurnbergas]]

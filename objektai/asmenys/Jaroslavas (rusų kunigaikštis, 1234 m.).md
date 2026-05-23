@@ -62,3 +62,14 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Estija]]
+- [[objektai/asmenys/Jaroslavas]]
+- [[objektai/vietos/Kuršas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Naugardas]]
+- [[objektai/vietos/Vokietija]]
+- [[objektai/zodynas/žygis]]

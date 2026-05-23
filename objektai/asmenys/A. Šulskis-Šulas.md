@@ -71,3 +71,9 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Pušalotas]]
+- [[objektai/vietos/Subačius]]
+- [[objektai/vietos/Žalioji giria]]

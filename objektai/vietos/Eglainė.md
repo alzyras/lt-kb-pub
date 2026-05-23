@@ -49,4 +49,5 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Radomas]]
 - [[objektai/vietos/Vidugiriai]]

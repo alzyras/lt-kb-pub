@@ -96,5 +96,9 @@ Kad po didžiojo karo dar buvo išgelbėtas ir sujungtas su nepriklausomąja Lie
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Birutės draugija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Tilžė]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/grupes/Vokiečių literatų draugija]]
+- [[objektai/grupes/Birutės draugija]]

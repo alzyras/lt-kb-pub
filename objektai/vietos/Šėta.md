@@ -54,3 +54,9 @@ Bolševikai tos pačios dienos vakare buvo priversi palikti Kėdainių apylinkes
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bolševikai]]
+- [[objektai/vietos/Kėdainiai]]
+- [[objektai/grupes/Lietuviai]]

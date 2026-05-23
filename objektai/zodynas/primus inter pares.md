@@ -41,3 +41,8 @@ Lozoraitis diplomatijos šefo pareigas interpretavo kaip primus inter pares (pir
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/diplomatija]]
+- [[objektai/asmenys/Stasys Lozoraitis]]

@@ -87,3 +87,10 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/Gaspadorius|gaspadorius]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/grupes/Kalnėnai]]
+- [[objektai/zodynas/Miera|miera]]

@@ -80,3 +80,17 @@ Danuta 1380 m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydam
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/vietos/Malburgas]]
+- [[objektai/vietos/Mozūrija]]
+- [[objektai/vietos/Ragainė]]
+- [[objektai/vietos/Smolenskas]]
+- [[objektai/vietos/Trakai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/komtūras]]
+- [[objektai/asmenys/Mozūrijos kunigaikštis Jonušas]]
+- [[objektai/asmenys/Ona Vytautienė]]
+- [[objektai/asmenys/Vygandas von Baldersheimas]]

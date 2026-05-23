@@ -48,3 +48,9 @@ Simanavičius pirmasis aptarė daugiapakopės raketos idėją ir raketinės arti
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Artilerija]]
+- [[objektai/vietos/Europa]]
+- [[objektai/daiktai/Daugiapakopės raketos]]

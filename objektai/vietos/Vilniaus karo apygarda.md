@@ -52,3 +52,7 @@ Prieš pat sukilimo pradžią Vilniaus karo apygardoje buvo dislokuoti 66 482 ka
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Vilnius]]

@@ -50,6 +50,10 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
   teiginys: 'Pačiam Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo Jogailai paklusnumą.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'Algirdui ro D E Vandenų, Maskva ėmė sparčiai ko atiteko Mstislavlis.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -112,3 +116,32 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Algirdui ro D E Vandenų, Maskva ėmė sparčiai ko atiteko Mstislavlis.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Algirdui ro D E Vandenų, Maskva ėmė sparčiai ko
+
+    atiteko Mstislavlis. 2 Kalugą 2.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/vietos/Kaluga]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/asmenys/A. N. Trubeckojus]]
+- [[objektai/asmenys/Andrius Polockietis]]
+- [[objektai/asmenys/J. K. Glaubitzas]]
+- [[objektai/vietos/Juodoji Rusia]]
+- [[objektai/asmenys/Jurgis (Sviatoslavo sūnus)]]
+- [[objektai/asmenys/Sviatoslavas]]
+- [[objektai/asmenys/V. B. Seremetjevas]]
+- [[objektai/vietos/Vechra]]
+- [[objektai/vietos/Viazma]]

@@ -43,6 +43,10 @@ tags: []
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Tai rodo jo laiškai imperatoriui Zigmantui ir ordino magistrui: neleidimas vainikuotis Vytautui reiškė ne tik jo asmeninės laisvės suvaržymą, bet ir pastangas « mūsų kraštą pavergti »^15.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -64,7 +68,30 @@ tags: []
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-002
+  santrauka: 'Tai rodo jo laiškai imperatoriui Zigmantui ir ordino magistrui: neleidimas vainikuotis Vytautui reiškė ne tik jo asmeninės laisvės suvaržymą, bet ir pastangas « mūsų kraštą pavergti »^15.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Tai rodo jo
+    laiškai imperatoriui Zigmantui ir ordino magistrui: neleidimas
+    vainikuotis Vytautui reiškė ne tik jo asmeninės laisvės suvaržymą,
+    bet ir pastangas « mūsų kraštą pavergti »^15.
+    Visą 1430 vasarą Vytautas šiam nepaprastam aktui ruošėsi,
+    kai imperatorius jį gynė Romoje: Vytauto vainikavimasis visai
+    nekenkiąs Lietuvos ir Lenkijos sąjungai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/frazė]]
+
+### Susiję objektai
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

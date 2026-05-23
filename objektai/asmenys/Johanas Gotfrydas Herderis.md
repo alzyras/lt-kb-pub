@@ -41,3 +41,7 @@ Tačiau Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Herderio (Joha
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Europa]]

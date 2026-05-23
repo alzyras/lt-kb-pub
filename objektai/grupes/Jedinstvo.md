@@ -120,3 +120,16 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Michailas Gorbačiovas]]
+- [[objektai/asmenys/Mykolas]]
+- [[objektai/vietos/Pskovas]]
+- [[objektai/vietos/SSRS]]
+- [[objektai/grupes/Sovietų Sąjunga]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Juozas Jermalavičius]]
+- [[objektai/asmenys/Mykolas Burokevičius]]
+- [[objektai/asmenys/Valerijus Ivanovas]]

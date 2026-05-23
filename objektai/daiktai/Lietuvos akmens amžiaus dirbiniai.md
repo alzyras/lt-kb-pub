@@ -154,3 +154,9 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Alytus]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Vysla]]

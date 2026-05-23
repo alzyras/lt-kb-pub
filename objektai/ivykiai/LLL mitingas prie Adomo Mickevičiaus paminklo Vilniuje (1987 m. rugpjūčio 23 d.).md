@@ -78,4 +78,9 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/autoriai/Mickevičius]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/grupes/Lietuvos laisvės lyga]]
 - [[objektai/daiktai/Adomo Mickevičiaus paminklas Vilniuje]]

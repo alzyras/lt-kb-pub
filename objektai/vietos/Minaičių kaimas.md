@@ -73,5 +73,15 @@ Minaičių kaimas (tarp Radviliškio ir Baisogalos), 1949 m. vasario 11 d. Pakel
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Baisogala]]
+- [[objektai/asmenys/Aleksandras]]
+- [[objektai/asmenys/Antanas Liesys-Idenas]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Pietų Lietuvos (Nemuno) sritis]]
 - [[objektai/vietos/Radviliškis]]
+- [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/vietos/Pietų Lietuva]]
+- [[objektai/grupes/Pietų Lietuvos sritis]]
+- [[objektai/vietos/Vakarų Lietuva]]

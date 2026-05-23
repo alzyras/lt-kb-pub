@@ -79,3 +79,14 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Baltarusija]]
+- [[objektai/vietos/Grenoblis]]
+- [[objektai/vietos/Gudija]]
+- [[objektai/vietos/Gumbinė]]
+- [[objektai/grupes/Habsburgai]]
+- [[objektai/ivykiai/Žalgirio mūšis]]
+- [[objektai/vietos/Žalgiris]]
+- [[objektai/paprociai/Aisčių ugnies kultas ir šventoji namų ugnelė]]

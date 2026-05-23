@@ -51,3 +51,7 @@ Lapkričio 2 d. rytą čekistų pajėgos apsupo Jurgio Trečioko-Ryto bunkerį �
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Rytas]]

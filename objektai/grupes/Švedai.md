@@ -45,6 +45,10 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Kovos su švedais paliko gilų pėdsaką lietuvių liaudies atmintyje, tai rodo įvairūs padavimai ir pasakojimai apie švedus, „švedkapius“ ir švedų buvimą Lietuvoje.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -63,7 +67,54 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Kovos su švedais paliko gilų pėdsaką lietuvių liaudies atmintyje, tai rodo įvairūs padavimai ir pasakojimai apie švedus, „švedkapius“ ir švedų buvimą Lietuvoje.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kovos su švedais paliko gilų pėd-
+    saką lietuvių liaudies atmintyje, tai rodo įvairūs padavimai ir pasakojimai
+    apie švedus, „švedkapius“ ir švedų buvimą Lietuvoje.
+    Lenkijai ir Lietuvai grasino ne tik stiprėjanti Petro I Rusija, bet ir
+    1701 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
+
+### Susiję objektai
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Alūksnė]]
+- [[objektai/vietos/Biržai]]
+- [[objektai/ivykiai/Kėdainių sutarties sudarymas su Švedija]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/asmenys/Narimantas Gediminaitis]]
+- [[objektai/asmenys/P. Snayers]]
+- [[objektai/vietos/Piltenė]]
+- [[objektai/vietos/Pilypavas]]
+- [[objektai/ivykiai/Pilypavo mūšis (1656 m. spalio 22 d.)]]
+- [[objektai/vietos/Saksonija]]
+- [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)]]
+- [[objektai/ivykiai/Salaspilio (Kirkcholmo) mūšis]]
+- [[objektai/vietos/Saremos]]
+- [[objektai/vietos/Saremos sala]]
+- [[objektai/vietos/Tartai]]
+- [[objektai/vietos/Tartu]]
+- [[objektai/vietos/Vilijandis]]
+- [[objektai/ivykiai/Vilniaus užėmimas rusų ir 17 dienų gaisras (1655 m.)]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/ivykiai/Šiaurės karas]]
+- [[objektai/ivykiai/Šiaurės karas (1700–1721 m.)]]
+- [[objektai/ivykiai/Štumdorfo paliaubos (1635 m.)]]
+- [[objektai/vietos/Švedija]]
+- [[objektai/vietos/Grobinė]]
+- [[objektai/ivykiai/Maskvos ir Švedų užpuolimas Lietuvai (1654–1655 m.)]]
+- [[objektai/vietos/Seeburgas]]

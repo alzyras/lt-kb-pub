@@ -50,3 +50,12 @@ Tai buvo bulgaras Ciprijonas, kurį Algirdas per didelius vargus buvo išgavęs 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Kijevas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/zodynas/metropolitas]]
+- [[objektai/vietos/Konstantinopolis]]

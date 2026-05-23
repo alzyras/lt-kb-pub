@@ -86,6 +86,22 @@ Sovietinė saugumo, vidaus reikalų ir represinė institucija bei kariuomenės s
   teiginys: 'Liepos 22 d. apie 1500 NKVD karių ir stribų apsupo partizanų stovyklą.'
   pagrindžia:
     - c-002
+- t-014
+  teiginys: 'Sovietizavimą teroru grindė slaptoji tarnyba NKVD: pylėsi naktiniai areštai, žmones imta kalinti ir tremti į SSRS gilumą.'
+  pagrindžia:
+    - c-003
+- t-015
+  teiginys: 'Sniečkus išleido įsakymą, leidžiantį suimti agituojančiuosius prieš Liaudies vyriausybę, patvirtintas Lietuvos politinių partijų, šaulių vadovybės „operatyvinės likvidacijos planas“, parengti numatytų suimti asmenų sąrašai, o sovietų NKVD kariuomenės daliniai.'
+  pagrindžia:
+    - c-004
+- t-016
+  teiginys: 'Tai pražūtingai atsiliepė žydams – daugybė jų, besitraukiančių į Rytus, grąžinti atgal lietuvių sukilėlių arba sugrįžo patys, nes kelyje į Maskvą juos aplenkė vermachtas, o iš kitos pusės, sovietų kariai ir NKVD prie vidinės sienos stabdė žmonių traukimąsi į.'
+  pagrindžia:
+    - c-005
+- t-017
+  teiginys: 'Kovai su partizanais Lietuvoje dislokuota gausi NKVD kariuomenė: 1945 m. vasarą joje buvo iki 20 tūkst., 1946 m. – apie 14 tūkst.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -121,5 +137,137 @@ Sovietinė saugumo, vidaus reikalų ir represinė institucija bei kariuomenės s
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-013
+- c-003
+  santrauka: 'Sovietizavimą teroru grindė slaptoji tarnyba NKVD: pylėsi naktiniai areštai, žmones imta kalinti ir tremti į SSRS gilumą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    So-
+    vietizavimą teroru grindė slaptoji tarnyba NKVD: pylėsi naktiniai areštai,
+    žmones imta kalinti ir tremti į SSRS gilumą. Net didžiausi SSRS simpatikai
+    prikando liežuvius – bolševizmą galima pažinti tik jame pagyvenus.
+    Represijos ir 1941 metų
+    Birželio sukilimas
+    Represijos, areštai, deportacijos, jų baimė – sudedamoji
+    bolševikų vykdytos politikos dalis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
+- c-004
+  santrauka: 'Sniečkus išleido įsakymą, leidžiantį suimti agituojančiuosius prieš Liaudies vyriausybę, patvirtintas Lietuvos politinių partijų, šaulių vadovybės „operatyvinės likvidacijos planas“, parengti numatytų suimti asmenų sąrašai, o sovietų NKVD kariuomenės daliniai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Sniečkus išleido įsakymą, leidžiantį suimti
+    agituojančiuosius prieš Liaudies vyriausybę, patvirtintas Lietuvos politi-
+    nių partijų, šaulių vadovybės „operatyvinės likvidacijos planas“, parengti
+    numatytų suimti asmenų sąrašai, o sovietų NKVD kariuomenės daliniai
+
+    L I E T U V O S  I S T O R I J A
+    194
+    turėjo neleisti tokiems pabėgti į Vokietiją.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
+- c-005
+  santrauka: 'Tai pražūtingai atsiliepė žydams – daugybė jų, besitraukiančių į Rytus, grąžinti atgal lietuvių sukilėlių arba sugrįžo patys, nes kelyje į Maskvą juos aplenkė vermachtas, o iš kitos pusės, sovietų kariai ir NKVD prie vidinės sienos stabdė žmonių traukimąsi į.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tai pražūtingai atsiliepė žydams – daugybė jų, besitraukiančių į Rytus,
+    grąžinti atgal lietuvių sukilėlių arba sugrįžo patys, nes kelyje į Maskvą
+    juos aplenkė vermachtas, o iš kitos pusės, sovietų kariai ir NKVD prie
+    vidinės sienos stabdė žmonių traukimąsi į Rusiją, laikydami juos dezerty-
+    rais, panikos skleidėjais, vos tik pamatę dokumentus lietuvių kalba įtari-
+    nėjo šnipinėjimu. Nuo pirmų nacių okupacijos dienų žydai pajuto dalies
+    gyventojų neapykantą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016
+- c-006
+  santrauka: 'Kovai su partizanais Lietuvoje dislokuota gausi NKVD kariuomenė: 1945 m. vasarą joje buvo iki 20 tūkst., 1946 m. – apie 14 tūkst.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kovai su partizanais Lietuvoje dislokuota gausi NKVD kariuomenė:
+    1945 m. vasarą joje buvo iki 20 tūkst., 1946 m. – apie 14 tūkst. karių. NKVD
+    ir NKGB skyriai, įsikūrę visose apskrityse, koordinavo baudžiamąsias ope-
+    racijas, vadovavo joms ir žmonių gaudynėms, tardė suimtuosius, verbavo
+    agentus. Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė
+    „naikintojų batalionus“, lietuvių vadintus stribais (santrumpa nuo rus. pa-
+    vadinimo istrebitelnyje bataliony), į kuriuos agitavo stoti vietinius gyvento-
+    jus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
 
 ## Šaltiniai ir įrodymai
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/grupes/NKGB]]
+- [[objektai/vietos/SSRS]]
+- [[objektai/vietos/Sniečkus]]
+- [[objektai/vietos/Vokietija]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Žydai]]
+- [[objektai/grupes/Agentai-smogikai]]
+- [[objektai/grupes/Algimanto apygarda]]
+- [[objektai/vietos/Alovė]]
+- [[objektai/ivykiai/Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)]]
+- [[objektai/asmenys/Buiničius]]
+- [[objektai/vietos/Denionių ežeras]]
+- [[objektai/grupes/Dzūkų būrys]]
+- [[objektai/vietos/Graužai-Lenčiai]]
+- [[objektai/vietos/Gursčiai]]
+- [[objektai/asmenys/Jonas Neifalta-Lakūnas]]
+- [[objektai/vietos/Joniškio apskritis]]
+- [[objektai/vietos/Juodelių sodyba]]
+- [[objektai/vietos/Kalniškės miškas]]
+- [[objektai/vietos/Krosna]]
+- [[objektai/vietos/Kurklių valsčius]]
+- [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
+- [[objektai/ivykiai/Lietuvos partizanų apygardų atstovų suvažiavimas ir LLKS deklaracija (1949 m. vasaris)]]
+- [[objektai/ivykiai/Lietuvos partizanų pasipriešinimas SSRS (1945-1953 m.)]]
+- [[objektai/grupes/Lietuvos šaulių sąjunga]]
+- [[objektai/vietos/Mardasavas]]
+- [[objektai/grupes/Muškietininkų būrys]]
+- [[objektai/grupes/NKVD vidaus kariuomenės 4-osios gen. maj. Vetrovo divizijos 261-asis šaulių pulkas]]
+- [[objektai/grupes/Naikintojų batalionai]]
+- [[objektai/vietos/Pamaleišio kaimas]]
+- [[objektai/ivykiai/Pirmieji masiniai areštai Lietuvoje (1940 m. liepos 10-17 d.)]]
+- [[objektai/vietos/Raseinių apskritis]]
+- [[objektai/grupes/Rėkaus būrys]]
+- [[objektai/vietos/Seminiškių miško rajonas]]
+- [[objektai/ivykiai/Sovietinių represinių struktūrų kova su Lietuvos partizanais (1944–1954 m.)]]
+- [[objektai/vietos/Trakiniai]]
+- [[objektai/grupes/Varniškių būrys]]
+- [[objektai/vietos/Vartų kaimas]]
+- [[objektai/vietos/Varčios miškas]]
+- [[objektai/daiktai/Vokiškas universalusis kulkosvaidis MG 34]]
+- [[objektai/zodynas/agentas-smogikas]]
+- [[objektai/posakiai/pif paf]]
+- [[objektai/zodynas/stribai naikintojų batalionai liaudies gynėjai]]
+- [[objektai/grupes/Šarūno rinktinė]]
+- [[objektai/vietos/Šilainiai]]
+- [[objektai/vietos/Šimonių giria]]
+- [[objektai/ivykiai/Šimonių girios apgultis]]
+- [[objektai/ivykiai/Šimonių girios apgultis (1949 m.)]]
+- [[objektai/vietos/Želva]]
+- [[objektai/ivykiai/Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]
+- [[objektai/vietos/Žuvinto palios]]

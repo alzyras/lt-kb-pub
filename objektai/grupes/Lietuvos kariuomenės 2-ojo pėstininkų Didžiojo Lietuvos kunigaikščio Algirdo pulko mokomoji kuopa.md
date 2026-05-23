@@ -51,3 +51,11 @@ p. 208, Lietuvos kariuomenės 2-ojo pėstininkų Didžiojo Lietuvos kunigaikšč
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/daiktai/Artilerija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/gurguolė]]
+- [[objektai/grupes/Mokomoji kuopa]]

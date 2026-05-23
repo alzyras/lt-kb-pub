@@ -69,4 +69,6 @@ Rusinimo politika 1864–1904 metais Šios politikos ėmėsi sukilimo slopintoja
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Rusija]]
 - [[objektai/zodynas/rusinimas]]

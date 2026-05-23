@@ -93,6 +93,42 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
     - c-009
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-010
+  teiginys: 'Ankstyvaisiais Viduramžiais Vakarų metraštininkai pradeda minėti prūsus, kuršius, žiemgalius.'
+  pagrindžia:
+    - c-010
+- t-011
+  teiginys: 'Latvių ten atliktas asimiliacijos faktas yra aiškus, kaip aišku ir tai, kad pietines žiemgalių ir sėlių sritis yra asimiliavę lietuviai.'
+  pagrindžia:
+    - c-011
+- t-012
+  teiginys: 'Tarp kitų duokli­ ninkių tautų yra minimos — vis savo atskiras kalbas turinčios — «Lietuva, Žiemgala, Kuršas, Neroma, Lybiai».'
+  pagrindžia:
+    - c-012
+- t-013
+  teiginys: 'Spindinčius metalo ginklus kronikininkai randa ir pas kuršius bei žiemgalius.'
+  pagrindžia:
+    - c-013
+- t-014
+  teiginys: 'Betarpiškame ryšyje su Georgenburgo įkūrimu reikia sieti 1259-1260 m. žiemą Žiemgaloje pastatymą stiprios pilies Dobės (Doblen)^151 , kurios sukilę žiemgaliai negalėjo įveikti.'
+  pagrindžia:
+    - c-014
+- t-015
+  teiginys: 'Kai kryžiuočiams nepasisekė paimti žiemgalių pilies Tervetės (į šiaurę nuo Žagarės)^164 , jie pasistatė minėtą Dobę, kurią tuoj, sukilėliams talkininkaudami, puolė žemaičiai^165.'
+  pagrindžia:
+    - c-015
+- t-016
+  teiginys: 'Tuo metu, kai prūsai iš paskutiniųjų kovojo savo didžiąją kovą prieš kryžiuočius, vidaus nesutikimai Lietuvoje (1263-1270 m.) nesudarė šaliai išorinio pavojaus, juo labiau, kad ir Livonijoje buvo sukilusios tautos : estai, kuršiai, žiemgaliai.'
+  pagrindžia:
+    - c-016
+- t-017
+  teiginys: 'Traidenis varžėsi su Livonijos ordinu dėl žiemgaliu žemės, kurią buvo pasidalinę kryžiuočiai ir Rygos arkivyskupas.'
+  pagrindžia:
+    - c-017
+- t-018
+  teiginys: 'Tuomet žiemgaliai vėl sukilo, nepakęsdami kryžiuočių kietos valdžios.'
+  pagrindžia:
+    - c-018
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -256,10 +292,168 @@ Gediminas negalėjo apginti tiktai savo pretenzijų į Žiemgalą. Po Durbės m�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-009
+- c-010
+  santrauka: 'Ankstyvaisiais Viduramžiais Vakarų metraštininkai pradeda minėti prūsus, kuršius, žiemgalius.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Anks-
+    tyvaisiais Viduramžiais Vakarų metraštininkai pradeda minėti prūsus,
+    kuršius, žiemgalius. Lietuviai, gyvenę į rytus nuo šių genčių, natūralu, į
+    metraščius nepateko, o ir rytų baltų diferenciacijos procesas vyko vėliau.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+- c-011
+  santrauka: 'Latvių ten atliktas asimiliacijos faktas yra aiškus, kaip aišku ir tai, kad pietines žiemgalių ir sėlių sritis yra asimiliavę lietuviai.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Latvių ten atliktas asimiliacijos
+    faktas yra aiškus, kaip aišku ir tai, kad pietines žiemgalių ir sėlių
+    sritis yra asimiliavę lietuviai.
+    Tikrieji latviai, tik naujojo geležies amžiaus pradžioje kalbiškai
+    ryškiau nuo lietuvių pradėję išsiskirti, Nestoro kronikai buvo žino­
+    mi kaip Liet’gola.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+- c-012
+  santrauka: 'Tarp kitų duokli­ ninkių tautų yra minimos — vis savo atskiras kalbas turinčios — «Lietuva, Žiemgala, Kuršas, Neroma, Lybiai».'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Tarp kitų duokli­
+    ninkių tautų yra minimos — vis savo atskiras kalbas turinčios —
+    «Lietuva, Žiemgala, Kuršas, Neroma, Lybiai». Dauguva norma­
+    nams buvo svarbus vandens kelias į rytus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+- c-013
+  santrauka: 'Spindinčius metalo ginklus kronikininkai randa ir pas kuršius bei žiemgalius.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Spindinčius metalo ginklus kronikininkai randa ir pas
+    kuršius bei žiemgalius.
+    Puikų lietuvių apginklavimą paliudija ir faktas, kad po per­
+    galės Livonijoje vokiečių kariuomenė dalinosi lietuvių ginklais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+- c-014
+  santrauka: 'Betarpiškame ryšyje su Georgenburgo įkūrimu reikia sieti 1259-1260 m. žiemą Žiemgaloje pastatymą stiprios pilies Dobės (Doblen)^151 , kurios sukilę žiemgaliai negalėjo įveikti.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Betarpiškame ryšyje su Georgenburgo įkūrimu
+    reikia sieti 1259-1260 m. žiemą Žiemgaloje pastatymą stiprios pilies
+    Dobės (Doblen)^151 , kurios sukilę žiemgaliai negalėjo įveikti.
+    Mindaugo pergamentai kryžiuočiams teteikė formalią teisę į
+    jiems užrašytas sritis, bet praktiškai jiems iš Žemaičių žemės tik tiek
+    tegalėjo priklausyti, kiek jie patys savo jėga įstengs užvaldyti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
+- c-015
+  santrauka: 'Kai kryžiuočiams nepasisekė paimti žiemgalių pilies Tervetės (į šiaurę nuo Žagarės)^164 , jie pasistatė minėtą Dobę, kurią tuoj, sukilėliams talkininkaudami, puolė žemaičiai^165.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Kai kryžiuočiams
+    nepasisekė paimti žiemgalių pilies Tervetės (į šiaurę nuo Žagarės)^164 ,
+    jie pasistatė minėtą Dobę, kurią tuoj, sukilėliams talkininkaudami,
+    puolė žemaičiai^165. Nepasisekus pilies paimti, jie persimetė į pietus
+    prie Georgenburgo ir, pasistatę sau pilį kaimynystėje, iš jos puldi­
+    nėjo nykstančią ir maisto trūkstančią vokiečių įgulą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
+- c-016
+  santrauka: 'Tuo metu, kai prūsai iš paskutiniųjų kovojo savo didžiąją kovą prieš kryžiuočius, vidaus nesutikimai Lietuvoje (1263-1270 m.) nesudarė šaliai išorinio pavojaus, juo labiau, kad ir Livonijoje buvo sukilusios tautos : estai, kuršiai, žiemgaliai.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Tuo metu, kai prūsai iš paskutiniųjų kovojo savo didžiąją kovą
+    prieš kryžiuočius, vidaus nesutikimai Lietuvoje (1263-1270 m.)
+    nesudarė šaliai išorinio pavojaus, juo labiau, kad ir Livonijoje buvo
+    sukilusios tautos : estai, kuršiai, žiemgaliai. Kuršas buvo pajungtas
+    tik po 7 metų kovos (1267 m.), o kol žiemgaliai buvo nugalėti, praėjo
+    30 metų (1290).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016
+- c-017
+  santrauka: 'Traidenis varžėsi su Livonijos ordinu dėl žiemgaliu žemės, kurią buvo pasidalinę kryžiuočiai ir Rygos arkivyskupas.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Traidenis varžėsi su Livonijos ordinu dėl žiemgaliu žemės, kurią
+    buvo pasidalinę kryžiuočiai ir Rygos arkivyskupas. Kaip reikalingą
+    bazę savo žygiams ordinas 1265 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
+- c-018
+  santrauka: 'Tuomet žiemgaliai vėl sukilo, nepakęsdami kryžiuočių kietos valdžios.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Tuomet žiemgaliai vėl sukilo, nepakęsdami kryžiuočių kietos
+    valdžios. Panašiai kaip prūsų sukilimo vadas Herkus Mantas, žiem­
+    galių sukilėlių vadas Nameisė taip pat iki tol buvo tarnavęs ordi-
+    nui^242.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Dauguva]]
+- [[objektai/vietos/Georgenburgas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Kuršas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/vietos/Prūsai]]
+- [[objektai/vietos/Ryga]]
+- [[objektai/vietos/Tervetė]]
+- [[objektai/asmenys/Traidenis]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/vietos/Žiemgala]]
 - [[objektai/vietos/Dobė]]
 - [[objektai/grupes/Lietgaliai]]
-- [[objektai/vietos/Tervetė]]
-- [[objektai/vietos/Žiemgala]]
+- [[objektai/asmenys/Nameisis (žiemgalių kunigaikštis)]]
+- [[objektai/zodynas/donacija]]
+- [[objektai/zodynas/kuopiniai kaimai]]

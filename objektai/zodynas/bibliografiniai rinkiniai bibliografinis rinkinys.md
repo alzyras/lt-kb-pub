@@ -51,3 +51,7 @@ BIBLIOGRAFINIAI RINKINIAI, LIEČlĄ LIETUVOS ISTORIJĄ Pilna Lietuvos istorijos 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/bibliografija]]
+
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]

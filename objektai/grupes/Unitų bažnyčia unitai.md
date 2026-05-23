@@ -41,5 +41,6 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Unitai]]
 - [[objektai/grupes/Rusų stačiatikių bažnyčia]]
 - [[objektai/grupes/Unitų bažnyčia]]

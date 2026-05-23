@@ -64,6 +64,10 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-007
+  teiginys: 'Nors daug Mindaugo apostazijos klausimu ra­ šyta, bet čia galima tarti kun. J.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -89,6 +93,25 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
+- c-002
+  santrauka: 'Nors daug Mindaugo apostazijos klausimu ra­ šyta, bet čia galima tarti kun. J.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Didelės svarbos yra penktoji problema, dėl kurios daug kas sau
+    yra laužęs galvą, būtent, ar Mindaugas iš tiesų iki mirties išliko krikš­
+    čionimi, tapdamas pagonių reakcijos kankiniu (toniu jį laiko J. Lat­
+    kowski), ar jis po didžiojo Žemaičių laimėjimo prie Durbės atsimetė
+    nuo krikščionyįės. Nors daug Mindaugo apostazijos klausimu ra­
+    šyta, bet čia galima tarti kun. J. Stakausko (Mindaugo krikščioniu
+    išlikimo šalininko) žodžiais, kad «turi tam tikro pagrindo ir priešin­
+    goji nuomonė »^21.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
 
 ## Pastabos
 
@@ -98,3 +121,11 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
 ### Teminiai klasteriai
 - [[temos/istorinė-sąvoka]]
 - [[temos/religinis-terminas]]
+
+### Susiję objektai
+- [[objektai/vietos/Durbė]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/zodynas/pagonybė]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/ivykiai/Durbės mūšis (1260 m.)]]
+- [[objektai/ivykiai/Smolensko sukilimas]]

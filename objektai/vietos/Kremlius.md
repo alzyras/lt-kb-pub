@@ -8,15 +8,19 @@ variantai:
 aliases: []
 saltiniai:
   - "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+datos:
+  - '1368 m.'
+  - '1370 m.'
+  - '1372 m.'
+periodas: 'viduramziai'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+date_start: '1368'
+date_end: '1372'
 bukle: juodrastis
 laikotarpis: "XIV amžiaus pirmoji pusė"
-datos: []
-periodas: "viduramziai"
-periodo_grupes: []
-amziai:
-  - "XIV"
-date_start: ""
-date_end: ""
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
@@ -54,6 +58,10 @@ Kremlius čia aprašomas kaip tvirtovė, susieta su Maskvos valdžios centru.
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Remdamas paskutinį Tverės bandymą atsiimti iš Maskvos prarastą pirmenybę, Algirdas net triskart – 1368, 1370 ir 1372 m. – surengė žygį į Maskvą, tačiau Kremliaus užimti nepajėgė.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -79,6 +87,23 @@ Kremlius čia aprašomas kaip tvirtovė, susieta su Maskvos valdžios centru.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Remdamas paskutinį Tverės bandymą atsiimti iš Maskvos prarastą pirmenybę, Algirdas net triskart – 1368, 1370 ir 1372 m. – surengė žygį į Maskvą, tačiau Kremliaus užimti nepajėgė.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Rem-
+    damas paskutinį Tverės bandymą atsiimti iš Maskvos prarastą pirmeny-
+    bę, Algirdas net triskart – 1368, 1370 ir 1372 m. – surengė žygį į Maskvą,
+    tačiau Kremliaus užimti nepajėgė. Taip liko neįgyvendintos Algirdo išsa-
+    kytos pretenzijos, kad „savaime visa Rusia turi priklausyti lietuviams“, o
+    Vilnius nevirto „antruoju Kijevu“.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Šaltiniai ir įrodymai
 
@@ -88,3 +113,10 @@ Kremlius čia aprašomas kaip tvirtovė, susieta su Maskvos valdžios centru.
 ### Susiję objektai
 - [[objektai/vietos/Maskva]]
 - [[objektai/vietos/Vilnius]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/vietos/Kijevo Rusia]]
+- [[objektai/vietos/Tverė]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/ivykiai/Jonas III pirmasis kardu užatakavo Lietuvą]]
+- [[objektai/posakiai/Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!]]
+- [[objektai/posakiai/„Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!“]]

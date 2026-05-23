@@ -57,3 +57,11 @@ Po mūšio Prie Polianovkos upės Lietuva ir Lenkija su Rusija sudarė „amžin
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Smolenskas]]

@@ -50,6 +50,10 @@ tags:
     - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: 'Rugsėjo 5 d., dar nežinant apie viduriniosios kolonos sunaikinimą, Škirpos ir Jakaičio vadovaujamoms pajėgos tęsia nevaisingą Suvalkų puolimą.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -128,3 +132,23 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Rugsėjo 5 d., dar nežinant apie viduriniosios kolonos sunaikinimą, Škirpos ir Jakaičio vadovaujamoms pajėgos tęsia nevaisingą Suvalkų puolimą.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Rugsėjo 5 d., dar nežinant apie viduriniosios kolonos su-
+    naikinimą, Škirpos ir Jakaičio vadovaujamoms pajėgos
+    tęsia nevaisingą Suvalkų puolimą.
+
+    kariuomenės vadas plk.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuvių aktyvistų frontas]]

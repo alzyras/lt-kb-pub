@@ -56,3 +56,9 @@ Vartojamos formos: `meldžionis`.
 ## Pastabos
 
 - Autorius terminu vadina konkrečią krikščionišką grupę, bet jo vartosena yra polemiška.
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Kardas]]
+- [[objektai/grupes/Parusėnai]]
+- [[objektai/autoriai/S. Daukantas]]

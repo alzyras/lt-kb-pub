@@ -6,6 +6,17 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1993 m.'
+  - '2008 m.'
+periodas: 'atkurtos nepriklausomybės laikotarpis'
+periodo_grupes:
+  - 'šiuolaikinė Lietuva'
+amziai:
+  - 'XX'
+  - 'XXI'
+date_start: '1993'
+date_end: '2008'
 patikimumas: 'vidutinis'
 tags:
   - mokslininkas
@@ -25,6 +36,21 @@ Lietuvos Didžiosios Kunigaikštystės Knyga: bendrų Europos tradicijų link: b
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 ## Reikšmingi paminėjimai
+- c-002
+  santrauka: '„Lietuvos Didžiosios Kunigaikštystės Knyga“ buvo bendras baltarusių, lietuvių ir lenkų mokslininkų bei rašytojų darbas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Vilnius, 1993; Lietuvos Didžiosios Kunigaikštystės Knyga: bendrų
+    Europos tradicijų link: bendras baltarusių, lietuvių ir lenkų mokslininkų ir rašytojų
+    darbas. Sejny, 2008; Lietuvos fotografija: vakar ir šiandien ’09: Lietuvos Tūkstantmečio
+    veidas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Bibliografiniai įrodymai
 - c-001

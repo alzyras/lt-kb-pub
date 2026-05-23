@@ -55,3 +55,15 @@ Mongolų imperija XIII a. Rusų kunigaikštijos buvo patekusios Aukso ordos (sus
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/vietos/Baltoji Rusia]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/vietos/Kijevas]]
+- [[objektai/vietos/Kijevo Rusia]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/ivykiai/Mongolų (totorių) invazija (1237-1240 m.)]]
+- [[objektai/zodynas/didvalstybė]]

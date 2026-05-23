@@ -6,6 +6,17 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1918 m.'
+  - '1938 m.'
+  - '1940 m.'
+periodas: 'Pirmoji Lietuvos Respublika'
+periodo_grupes:
+  - 'modernioji Lietuva'
+amziai:
+  - 'XX'
+date_start: '1918'
+date_end: '1940'
 patikimumas: 'vidutinis'
 tags:
   - diplomatas
@@ -44,8 +55,34 @@ Autoritarinį prezidento režimą 1938 m. gegužės 12 d. sustiprino paskelbta n
     - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: 'Tam reikėjo nutraukti svetimos valstybės konstitucinių aktų galiojimą Lietuvoje ir, vadovaujantis valstybės tęstinumu bei tapatumu, atkurti paskutinės nepriklausomos Lietuvos (1918–1940 m.) konstitucijos galiojimą.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
+- c-005
+  santrauka: 'Tam reikėjo nutraukti svetimos valstybės konstitucinių aktų galiojimą Lietuvoje ir, vadovaujantis valstybės tęstinumu bei tapatumu, atkurti paskutinės nepriklausomos Lietuvos (1918–1940 m.) konstitucijos galiojimą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tam reikė-
+    jo nutraukti svetimos valstybės konstitucinių aktų galiojimą Lietuvoje
+    ir, vadovaujantis valstybės tęstinumu bei tapatumu, atkurti paskutinės
+    nepriklausomos Lietuvos (1918–1940 m.) konstitucijos galiojimą. Todėl
+    priimtas įstatymas „Dėl 1938 metų gegužės 12 dienos Lietuvos Konstitu-
+    cijos galiojimo atstatymo“. Tačiau šios konstitucijos veikimas visa apim-
+    timi nebuvo atnaujintas, o už pusvalandžio sustabdytas ir patvirtinta lai-
+    kinoji valstybės konstitucija – Laikinasis Pagrindinis Įstatymas, atitikęs
+    susiklosčiusius visuomeninius santykius ir valstybės valdymo struktūrą,
+    bet panaikinęs visas buvusias Lietuvos ir jos piliečių prievoles, kurias ne-
+    teisėtai nustatė Lietuvoje galiojusi sovietų konstitucija ir įstatymai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Bibliografiniai įrodymai
 - c-001

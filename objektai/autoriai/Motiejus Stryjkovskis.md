@@ -54,3 +54,6 @@ Stryjkovskio — laikydami juos pirmykščia pagonybe. Brasta Lietuvos Herodotas
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/metraštis]]
+
+### Susiję objektai
+- [[objektai/zodynas/pagonybė]]

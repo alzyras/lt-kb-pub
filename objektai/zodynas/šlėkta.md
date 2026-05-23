@@ -61,3 +61,13 @@ Juk jau 1425 m. viename suvažiavime šlėkta pasirinko karalai­ tį Vladislov�
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/privilegija]]
+
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/ivykiai/1422 m. Červinsko stovykla ir bajorų privilegijų suteikimas]]
+- [[objektai/paprociai/Kreipimasis į Vytautą svarbiausiais reikalais]]
+- [[objektai/asmenys/Maldžykas]]
+- [[objektai/asmenys/Vladislovas (Jogailos sūnus)]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

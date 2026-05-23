@@ -53,3 +53,10 @@ Padarydamas santrauką vėliau dingusios Kassiodoro rašytos gotų istorijos, ra
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/autoriai/Jordanes]]
+- [[objektai/autoriai/Kassiodoras]]
+- [[objektai/vietos/Vysla]]
+- [[objektai/posakiai/pacatum hominum genus omnino]]

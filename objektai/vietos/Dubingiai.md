@@ -14,6 +14,7 @@ datos:
   - '2026 m.'
 periodas: 'viduramžiai'
 periodo_grupes:
+  - 'LDK'
   - 'viduramžiai'
 amziai:
   - 'XII'
@@ -47,6 +48,10 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
   teiginys: 'Želigovskis lapkričio 17 d. auštant pradėjo savo didžiąją ofenzyvą, puldamas lietuvių 1-osios pėstininkų divizijos užimamą barą nuo Nėries iki Dubingių.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: '1333 m. Aukštaičiuose kryžiuočiai pasiekė Ukmergės apylinkę, o 1334, nusiaubę Dubingius ir Šešuolius, jie buvo 4 mylios nuo Vil­ niaus.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -99,8 +104,26 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: '1333 m. Aukštaičiuose kryžiuočiai pasiekė Ukmergės apylinkę, o 1334, nusiaubę Dubingius ir Šešuolius, jie buvo 4 mylios nuo Vil­ niaus.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    1333 m. Aukštaičiuose kryžiuočiai pasiekė Ukmergės apylinkę, o
+    1334, nusiaubę Dubingius ir Šešuolius, jie buvo 4 mylios nuo Vil­
+    niaus. Tada abiejų lyčių lietuvių buvę nužudyta 1200^4.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/1-oji pėstininkų divizija]]
-- [[objektai/grupes/L. Želigovskio pajėgos]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Ukmergė]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/vietos/Ukmergės apylinkė]]
+- [[objektai/vietos/Šešuoliai]]

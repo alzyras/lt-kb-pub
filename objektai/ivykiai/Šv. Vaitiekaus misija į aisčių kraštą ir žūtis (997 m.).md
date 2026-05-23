@@ -144,4 +144,9 @@ Vaitiekaus lavoną išpirko Boleslovas Narsusis. Pats Vaitiekus buvo paskelbtas 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Viena]]
+- [[objektai/vietos/Vysla]]
+- [[objektai/asmenys/Švitrigaila]]
+- [[objektai/vietos/Lenkija]]
 - [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis]]

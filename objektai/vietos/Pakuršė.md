@@ -50,5 +50,13 @@ Tik Palangos pajūris (nuo Šventosios) ir kai kurios Pakuršės lietuviškos so
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Kuršas]]
+- [[objektai/vietos/Latvija]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Palanga]]
 - [[objektai/vietos/Palangos pajūris]]
+- [[objektai/zodynas/gubernija]]
+- [[objektai/vietos/Žiemgala]]
 - [[objektai/autoriai/prof. Simpsonas]]
+- [[objektai/vietos/Lietuva]]

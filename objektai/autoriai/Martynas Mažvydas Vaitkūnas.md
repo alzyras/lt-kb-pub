@@ -100,3 +100,17 @@ Martynas Mažvydas Vaitkūnas šiame šaltinyje minimas kaip autorius, raštinin
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/Miera|miera]]
+- [[objektai/zodynas/protestantizmas]]
+- [[objektai/paprociai/Aukščiausiosios Tarybos gynybos principai]]
+- [[objektai/paprociai/Aukščiausiosios Tarybos gynybos savitarpio aprūpinimo praktika]]
+- [[objektai/ivykiai/Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)]]
+- [[objektai/vietos/Nacionalinė M. Mažvydo biblioteka]]
+- [[objektai/posakiai/Nepakartoti 1940 m. klaidos!]]
+- [[objektai/ivykiai/Pirmosios lietuviškos knygos išspausdinimas]]
+- [[objektai/grupes/Raudonasis Kryžius]]
+- [[objektai/vietos/Žvėryno tiltas]]
+- [[objektai/posakiai/„Palemono universitetu“ „Lietuvos palemoniškųjų miestų sostine“]]

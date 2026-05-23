@@ -71,3 +71,8 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Merkinė]]
+- [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.)]]

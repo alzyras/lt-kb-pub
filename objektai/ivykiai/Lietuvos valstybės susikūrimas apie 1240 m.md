@@ -79,5 +79,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Mindaugas]]
 - [[objektai/posakiai/„Mindaugo Lietuvą“]]
 - [[objektai/posakiai/„aukščiausiuoju karaliumi“]]

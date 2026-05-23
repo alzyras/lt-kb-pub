@@ -105,4 +105,18 @@ pradžioje Karolis Zikaras, Vytautas Lesčius 190 Šiaulių-Radviliškio operaci
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/ivykiai/Augustavo-Suvalkų operacija]]
+- [[objektai/vietos/Aukščiausiosios Tarybos rūmai]]
+- [[objektai/ivykiai/Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)]]
+- [[objektai/ivykiai/Giedraičių kautynės]]
+- [[objektai/ivykiai/Kalniškės mūšis (1945 m. gegužės 16-17 d.)]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/Lietuvos atsikūrimas]]
+- [[objektai/vietos/Merkinė]]
+- [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.)]]
+- [[objektai/ivykiai/Radviliškio kautynės (1919 m. lapkričio 21–22 d.)]]
+- [[objektai/ivykiai/Užpelkių kautynės]]
+- [[objektai/posakiai/karas po karo]]
+- [[objektai/ivykiai/Šimonių girios apgultis]]
+- [[objektai/ivykiai/Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]
 - [[objektai/vietos/Kiauneliškiai]]

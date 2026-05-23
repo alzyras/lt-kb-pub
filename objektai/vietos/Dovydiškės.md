@@ -49,3 +49,8 @@ Jis buvo surašytas slapta, medžioklės metu Dovydiškėse, tur būt, arti Gard
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Gardinas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

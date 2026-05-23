@@ -74,3 +74,10 @@ Nenurodyta
   pagrindžia:
     - t-003
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Ukmergė]]
+- [[objektai/zodynas/viršila]]

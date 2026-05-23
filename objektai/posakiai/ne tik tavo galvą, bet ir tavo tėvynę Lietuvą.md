@@ -55,3 +55,9 @@ Išėjus jo tarnams, Zigmantas taip prabilo į Jogailą: „Uwaž, najmilszy bra
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Aleksandra (Mozūrijos kunigaikštienė)]]
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

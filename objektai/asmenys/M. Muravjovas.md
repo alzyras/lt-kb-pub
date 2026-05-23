@@ -6,6 +6,17 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1864 m.'
+  - '1904 m.'
+periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
+periodo_grupes:
+  - 'naujieji laikai'
+amziai:
+  - 'XIX'
+  - 'XX'
+date_start: '1864'
+date_end: '1904'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -44,6 +55,10 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
     - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: 'Muravjovo Koriko laikais XIX a.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -109,7 +124,23 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Muravjovo Koriko laikais XIX a.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Paradoksalu, tačiau stalinizmo
+    metais kunigų Lietuvoje nukentėjo du kartus daugiau nei M. Muravjovo
+    Koriko laikais XIX a. Visi kunigai sekami, registruojama, kas pas kunigą
+    užeina, pamokslai aprašomi.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/kirilika rusiškas raidynas lotyniškasis raidynas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/kunigas]]

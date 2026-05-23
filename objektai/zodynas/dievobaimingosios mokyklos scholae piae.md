@@ -71,4 +71,5 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Pijarų ordinas]]

@@ -48,3 +48,12 @@ Tačiau būtent šių žygių į Maskvą metu 1371 m. laiške Konstantinopolio p
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/laiškas]]
+
+### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/vietos/Bizantija]]
+- [[objektai/vietos/Europa]]
+- [[objektai/vietos/Konstantinopolis]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/vietos/Tverė]]

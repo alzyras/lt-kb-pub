@@ -41,3 +41,12 @@ Hanzos pirklių prekybos centras Baltijos jūroje buvo Visby miestas Gotlando sa
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Baltija]]
+- [[objektai/vietos/D. Naugardas]]
+- [[objektai/vietos/Gotlandas]]
+- [[objektai/grupes/Hanza]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Naugardas]]

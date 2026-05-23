@@ -49,3 +49,8 @@ Or­ dino kariuomenė užtraukė pergalės giesmę „Christ ist erstan­ den“
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]

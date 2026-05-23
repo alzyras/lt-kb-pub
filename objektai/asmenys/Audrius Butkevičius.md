@@ -33,7 +33,7 @@ Iki šio nutarimo pagrindinį organizacinį ir vadovavimo darbą vykdė KAD dire
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'p. 254, Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius, Česlovas Jezerskas, Virginijus Česnulevičius, Jonas Gečas, KAM.'
+  teiginys: '1991 m. Audrius Butkevičius buvo nurodytas tarp Aukščiausiosios Tarybos gynybos štabo narių.'
   pagrindžia:
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -67,7 +67,7 @@ Iki šio nutarimo pagrindinį organizacinį ir vadovavimo darbą vykdė KAD dire
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'p. 254, Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius, Česlovas Jezerskas, Virginijus Česnulevičius, Jonas Gečas, KAM.'
+  santrauka: '1991 m. Audrius Butkevičius buvo nurodytas tarp Aukščiausiosios Tarybos gynybos štabo narių.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     p. 254, Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius,
@@ -80,3 +80,9 @@ Iki šio nutarimo pagrindinį organizacinį ir vadovavimo darbą vykdė KAD dire
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Aukščiausiosios Tarybos gynybos štabas]]
+- [[objektai/vietos/Aukščiausiosios Tarybos rūmai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

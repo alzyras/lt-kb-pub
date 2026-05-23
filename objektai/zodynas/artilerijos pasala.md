@@ -70,3 +70,13 @@ Pergalė prie Oršos buvo didžiausias Konstantino Ostrogiškio karinis triumfas
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Artilerija]]
+- [[objektai/asmenys/Konstantinas (Karijotaitis)]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/ivykiai/Oršos mūšis (1514 m.)]]
+- [[objektai/zodynas/karyba]]
+- [[objektai/asmenys/Žygimantas]]

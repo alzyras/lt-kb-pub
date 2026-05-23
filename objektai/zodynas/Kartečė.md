@@ -61,6 +61,14 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
     - c-005
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-006
+  teiginys: 'Tačiau apskritai kartečė buvo skirta žeisti priešo karius gan nedideliu atstumu, nemaža kartečės kulkų sklaida neleido jos efektyviai naudoti tolimesniais atstumais.'
+  pagrindžia:
+    - c-006
+- t-007
+  teiginys: 'Ankstyvesnių laikų kartečės užtaisai buvo maišeliuose, aprišamuose virvėmis, vėliau atsirado kartečė cilindro formos metalinėse dėžutėse.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -160,3 +168,49 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Tačiau apskritai kartečė buvo skirta žeisti priešo karius gan nedideliu atstumu, nemaža kartečės kulkų sklaida neleido jos efektyviai naudoti tolimesniais atstumais.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Tačiau apskritai kartečė buvo skirta žeisti priešo karius
+    gan nedideliu atstumu, nemaža kartečės kulkų sklaida neleido jos
+    efektyviai naudoti tolimesniais atstumais. Kartečės naudojimo
+    pradžioje jos trūkumas buvo ilgas pabūklų užtaisymas pavienėmis
+    kulkomis, vėliau ši problema buvo išspręsta panaudojant kulkų
+    ryšulius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: 'Ankstyvesnių laikų kartečės užtaisai buvo maišeliuose, aprišamuose virvėmis, vėliau atsirado kartečė cilindro formos metalinėse dėžutėse.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Ankstyvesnių laikų kartečės užtaisai buvo maišeliuose,
+
+    aprišamuose virvėmis, vėliau atsirado kartečė cilindro formos
+    metalinėse dėžutėse.
+
+    Be kartečės ir paprastų sviedinių, iš patrankų buvo šaudoma ir
+    apšviečiamaisiais bei skirtingų konstrukcijų padegamaisiais svie-
+    diniais (iki raudonumo įkaitinti metali-
+    niai sviediniai arba iš ketaus pagaminti
+    tuščiaviduriai sviediniai, užpildyti pade-
+    gamuoju mišiniu - vadinamieji brandsku-
+    geliai, taip pat ir karkasai - ovalo formos
+    sviediniai su padegamuoju mišiniu, su-
+    daryti iš geležinių žiedų).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/Brandskugeliai karkasai]]

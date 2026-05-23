@@ -61,3 +61,11 @@ Tačiau antros šio sąjūdžio kartos atstovas, aukštaitis, kunigas ir poetas,
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Ateitis]]
+- [[objektai/zodynas/Baudžiava]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/kunigas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

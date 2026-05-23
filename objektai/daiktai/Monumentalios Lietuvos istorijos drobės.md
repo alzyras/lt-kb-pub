@@ -61,5 +61,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Niujorkas]]
 - [[objektai/asmenys/Magdalena Avietėnaitė]]
-- [[objektai/asmenys/Stasys Lozoraitis]]

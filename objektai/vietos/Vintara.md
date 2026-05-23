@@ -59,4 +59,5 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Švitrigaila]]
 - [[objektai/vietos/Pabaiskas]]

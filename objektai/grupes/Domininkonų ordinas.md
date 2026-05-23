@@ -59,6 +59,10 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   teiginys: 'Bonifacas IX parėmė Vytauto pastangas plėsti katalikybę ir stačiatikių tarpe, patvirtindamas Vytauto įkurtąją Vladimiro vyskupiją (Volynijoje) ir vyskupu paskirdamas domininkoną Gregorijų; tik dėl to kilo su lenkais nesusipratimų, nes ir jie no­ rėjo tame.'
   pagrindžia:
     - c-005
+- t-011
+  teiginys: 'Iš naujo skelbdami kryžiaus karą Vokietijoje, Čekijoje, Danijoje, Švedijoje, Norvegijoje, Gotlande, domininkonai turėjo atvesti naujus pilgrimų būrius.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -143,9 +147,25 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-010
+- c-006
+  santrauka: 'Iš naujo skelbdami kryžiaus karą Vokietijoje, Čekijoje, Danijoje, Švedijoje, Norvegijoje, Gotlande, domininkonai turėjo atvesti naujus pilgrimų būrius.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Iš naujo skelbdami kryžiaus
+    karą Vokietijoje, Čekijoje, Danijoje, Švedijoje, Norvegijoje, Gotlande,
+    domininkonai turėjo atvesti naujus pilgrimų būrius. Tuo tarpu
+    žemaičiai, prašydami taikos, siuntė Rygon savo pasiuntinius, kurie
+    ten šaltai buvo priimti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Pranciškonų ordinas]]
-- [[objektai/asmenys/Bonifacas IX]]
-- [[objektai/asmenys/Gregorijus (Vladimiro vyskupas)]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Goštautas]]

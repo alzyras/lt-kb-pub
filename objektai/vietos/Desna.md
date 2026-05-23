@@ -45,4 +45,9 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/vietos/Dniepras]]
+- [[objektai/vietos/Smolenskas]]
+- [[objektai/autoriai/M. Vasmeris]]
+- [[objektai/vietos/Naugardas]]
+- [[objektai/vietos/Trubčevskas]]

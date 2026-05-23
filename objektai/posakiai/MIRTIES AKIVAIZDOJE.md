@@ -48,3 +48,10 @@ MIRTIES AKIVAIZDOJE Viršila Antanas Šukys aprašo vieną nutikimą žvalgyboje
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Antanas Šukys]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Viena]]
+- [[objektai/zodynas/viršila]]

@@ -98,4 +98,11 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/ivykiai/Krėvos sutartis (1385 m.)]]
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/vietos/Krėva]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/posakiai/„prišlieti“]]
+- [[objektai/zodynas/applicare prišlieti]]

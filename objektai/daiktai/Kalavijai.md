@@ -72,4 +72,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Artilerija]]
 - [[objektai/daiktai/Ietys]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/autoriai/Z. Raulinaitis]]

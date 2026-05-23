@@ -40,3 +40,13 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/autoriai/A. Šapoka]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/asmenys/Adolfas Šapoka]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Kazimieras Masiliūnas]]
+- [[objektai/ivykiai/Lietuvos istorijos parašymas ir išleidimas Švietimo ministerijos iniciatyva (1936 m.)]]

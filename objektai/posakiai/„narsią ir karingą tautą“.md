@@ -45,3 +45,7 @@ Bizantijos šaltiniai apie jokį lietuvių taikumą neužsimena – atvirkščia
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
+
+### Susiję objektai
+- [[objektai/vietos/Bizantija]]
+- [[objektai/grupes/Lietuviai]]

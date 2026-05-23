@@ -75,3 +75,8 @@ Rado čia ir Vytauto sekretorių ar kanclerį Mikalojų Sapienskį^1 ). Sapiensk
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/didikas]]
+
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/zodynas/apsikarūnavimas]]
+- [[objektai/zodynas/ciesorius]]

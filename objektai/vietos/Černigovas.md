@@ -62,6 +62,18 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   teiginys: 'Apie 1255 m. Mindaugas vėl atgavo valdžią Polocke, užėmė naujų žemių prie Dniepro — Černigovo ir Briansko kunigaikštijose.'
   pagrindžia:
     - c-006
+- t-007
+  teiginys: 'Susirinkusieji stačiatikių vyskupai: Polocko, Smolensko, Lucko, Černigovo, Vladimiro, Cholmo ir Turovo išleido aplinkraštį, pažymėdami, kad nuo Konstantinopolio patriarcho nesiskiria, tik gina nuo Rusijos me­ tropolitų savo teises.'
+  pagrindžia:
+    - c-007
+- t-008
+  teiginys: 'Vykstant Vytautui pro Polocką, Vitebską, Smolenską, Zaslavlių, Brianską, Černigovą iki Kijevo, jam lenkėsi visi tų kraštų kunigaikščiai, išreikšdami savo pa­ klusnumą.'
+  pagrindžia:
+    - c-008
+- t-009
+  teiginys: 'Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, Slucke, Pinske, keletas jų liko Černigovo krašte ir Maskvos pasieny.'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -151,8 +163,58 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Susirinkusieji stačiatikių vyskupai: Polocko, Smolensko, Lucko, Černigovo, Vladimiro, Cholmo ir Turovo išleido aplinkraštį, pažymėdami, kad nuo Konstantinopolio patriarcho nesiskiria, tik gina nuo Rusijos me­ tropolitų savo teises.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Susirinkusieji stačiatikių
+    vyskupai: Polocko, Smolensko, Lucko, Černigovo, Vladimiro,
+    Cholmo ir Turovo išleido aplinkraštį, pažymėdami, kad nuo
+    Konstantinopolio patriarcho nesiskiria, tik gina nuo Rusijos me­
+    tropolitų savo teises. Taip Vytautas vėl atgaivino Kijeve at­
+    skirą Lietuvai stačiatikių metropoliją.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: 'Vykstant Vytautui pro Polocką, Vitebską, Smolenską, Zaslavlių, Brianską, Černigovą iki Kijevo, jam lenkėsi visi tų kraštų kunigaikščiai, išreikšdami savo pa­ klusnumą.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Vykstant Vytautui pro Polocką,
+    Vitebską, Smolenską, Zaslavlių, Brianską, Černigovą iki Kijevo,
+    jam lenkėsi visi tų kraštų kunigaikščiai, išreikšdami savo pa­
+    klusnumą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: 'Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, Slucke, Pinske, keletas jų liko Černigovo krašte ir Maskvos pasieny.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko
+    tik Kopiliuje, Slucke, Pinske, keletas jų liko Černigovo krašte
+    ir Maskvos pasieny. Tačiau jose esančias pilis valdė didžiojo
+    kunigaikščio vietininkai, todėl jos nebegalėjo būti pavojingos
+    valstybės vieningumui.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Dniepras]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/vietos/Brianskas]]
 - [[objektai/vietos/Kopilius]]
+- [[objektai/vietos/Vitebskas]]

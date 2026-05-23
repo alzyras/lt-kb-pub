@@ -84,4 +84,6 @@ Nenurodyta
 - [[temos/pinigai]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Kaributas]]
+- [[objektai/vietos/Lietuva]]
 - [[objektai/daiktai/Vytauto laikų pinigėliai]]

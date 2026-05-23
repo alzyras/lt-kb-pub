@@ -65,3 +65,12 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Artilerija]]
+- [[objektai/vietos/Chotinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/zodynas/husarai]]

@@ -109,3 +109,12 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Tautos taryba]]
+- [[objektai/vietos/Varšuva]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/hetmonas]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]

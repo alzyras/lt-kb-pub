@@ -80,4 +80,9 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Dainava]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
+- [[objektai/grupes/Pietų Lietuvos (Nemuno) sritis]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/LLKS gynybos pajėgos]]

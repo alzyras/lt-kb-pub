@@ -6,6 +6,21 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1792 m.'
+  - '1840 m.'
+  - '1868 m.'
+  - '1910 m.'
+periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
+periodo_grupes:
+  - 'LDK'
+  - 'naujieji laikai'
+amziai:
+  - 'XVIII'
+  - 'XIX'
+  - 'XX'
+date_start: '1792'
+date_end: '1910'
 patikimumas: 'vidutinis'
 tags:
   - miestas
@@ -68,6 +83,14 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
     - c-008
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-009
+  teiginys: 'Po dešimt metų jų Vilniuje neliks – Dvasinė akademija bus perkelta į Sankt Peterburgą, o Medicinos-chirurgijos akademija uždaryta.'
+  pagrindžia:
+    - c-009
+- t-010
+  teiginys: 'Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis Peterburgas–Varšuva (vėliau nutiesiama atšaka per Kauną į Karaliaučių (Kenigsbergą), linija Liepoja–Romnai.'
+  pagrindžia:
+    - c-010
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -180,8 +203,47 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-008
+- c-009
+  santrauka: 'Po dešimt metų jų Vilniuje neliks – Dvasinė akademija bus perkelta į Sankt Peterburgą, o Medicinos-chirurgijos akademija uždaryta.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Po dešimt
+    metų jų Vilniuje neliks – Dvasinė akademija bus perkelta į Sankt Peter-
+    burgą, o Medicinos-chirurgijos akademija uždaryta. 1840 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: 'Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis Peterburgas–Varšuva (vėliau nutiesiama atšaka per Kauną į Karaliaučių (Kenigsbergą), linija Liepoja–Romnai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Septintąjį–aštuntąjį dešimtmeti Lietuvą perkerta geležinkelis
+    Peterburgas–Varšuva (vėliau nutiesiama atšaka per Kauną į Karaliaučių
+    (Kenigsbergą), linija Liepoja–Romnai. Devintajame dešimtmetyje nu-
+    tiesiamos pirmosios telefono linijos, XX a.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Liepoja-Romnai]]
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/ivykiai/Pirmosios Užsienio reikalų ministerijos pradžia]]
+- [[objektai/vietos/Targovica]]
+- [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.)]]
+- [[objektai/vietos/Voronežas]]
+- [[objektai/ivykiai/1797 m. Peterburgo konvencija dėl trečiojo padalijimo patvirtinimo]]
+- [[objektai/autoriai/A. E. Presniakov]]
+- [[objektai/vietos/Austrija]]
 - [[objektai/ivykiai/Trečiojo Lenkijos ir Lietuvos valstybės padalijimo konvencijos pasirašymas]]
+- [[objektai/zodynas/delegacinis seimas]]

@@ -57,3 +57,8 @@ Jai vadovauti buvo pakviestas iš šalies 1764 m. išvarytas buvęs respublikona
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
+- [[objektai/zodynas/konfederacija]]

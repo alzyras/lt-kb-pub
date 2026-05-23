@@ -53,3 +53,7 @@ Sąjungininkai sustojo ties Laubner ežeru. Sąjungininku kariuomenė sustojo ar
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/ežeras]]
+
+### Susiję objektai
+- [[objektai/vietos/Grünvaldas]]
+- [[objektai/grupes/Rytas]]

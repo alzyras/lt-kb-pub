@@ -41,3 +41,11 @@ Konstitucija ypač didelių galių suteikė Seimui, kurį sudarė vadinamieji ta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/A. Smetona|A. Smetona (prezidentas, XX a.)]]
+- [[objektai/ivykiai/A. Smetonos perrinkimas ypatingųjų tautos atstovų balsais (1931 m. ir 1938 m.)]]
+- [[objektai/grupes/Aukščiausioji Taryba]]
+- [[objektai/ivykiai/Lietuvos Valstybės Konstitucijos priėmimas (1922 m. rugpjūčio 1 d.)]]
+- [[objektai/paprociai/Steigiamojo seimo rinkimų tvarka]]

@@ -77,3 +77,9 @@ Tizenhauzas buvo užsimojęs padaryti Gardiną didžiuliu pramonės centru ir bu
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Brasta]]
+- [[objektai/vietos/Šiauliai]]
+- [[objektai/vietos/Gardinas]]

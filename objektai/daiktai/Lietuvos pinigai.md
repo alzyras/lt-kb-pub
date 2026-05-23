@@ -18,12 +18,15 @@ datos:
   - '1430 m.'
   - '1706 m.'
   - '1707 m.'
+  - '1922 m.'
+  - '1923 m.'
   - '1930 m.'
   - '1936 m.'
   - '2026 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
+  - 'modernioji Lietuva'
 amziai:
   - 'XIV'
   - 'XV'
@@ -103,6 +106,18 @@ Nenurodyta
   teiginys: 'Vytau­ tas, teikdamas per pirmus keturis metus Žemaičių vyskupys­ tei pašalpą, mokėjo jai lietuviškais grašiais (latorum grossorum^1 ).'
   pagrindžia:
     - c-017
+- t-028
+  teiginys: 'Šalyje tebekursavo ostmarkės, kurias Lietuvos valdžia pavadino auksinais.'
+  pagrindžia:
+    - c-018
+- t-029
+  teiginys: 'Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra auksu paremtas litas, kurį sudaro 100 centų.'
+  pagrindžia:
+    - c-019
+- t-030
+  teiginys: 'Per visą nepriklausomos Lietuvos laikotarpį litas išlaikė stabilų kursą, valiuta buvo pagrįsta vertybiniais popieriais ir sukauptomis 12 tonų aukso, todėl ji gerai vertinta ir kitose užsienio valstybėse.'
+  pagrindžia:
+    - c-020
 
 ## Reikšmingi paminėjimai
 - c-010
@@ -239,6 +254,51 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-027
+- c-018
+  santrauka: 'Šalyje tebekursavo ostmarkės, kurias Lietuvos valdžia pavadino auksinais.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Šalyje tebekursavo ostmarkės, kurias Lietuvos valdžia pavadino auksi-
+    nais. Sunkmečiu labai nukritęs vokiškų pinigų kursas neigiamai veikė Lie-
+    tuvos ekonomiką, katastrofiški infliacijos padariniai vertė Lietuvos valdžią
+    ieškoti sprendimo. Steigiamasis Seimas 1922 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-028
+- c-019
+  santrauka: 'Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra auksu paremtas litas, kurį sudaro 100 centų.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Pi-
+    niginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra
+    auksu paremtas litas, kurį sudaro 100 centų. 1922 m. spalio 1 d. Lietuvoje
+    įvestas litas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-029
+- c-020
+  santrauka: 'Per visą nepriklausomos Lietuvos laikotarpį litas išlaikė stabilų kursą, valiuta buvo pagrįsta vertybiniais popieriais ir sukauptomis 12 tonų aukso, todėl ji gerai vertinta ir kitose užsienio valstybėse.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Per visą nepriklausomos Lie-
+    tuvos laikotarpį litas išlaikė stabilų kursą, valiuta buvo pagrįsta vertybiniais
+    popieriais ir sukauptomis 12 tonų aukso, todėl ji gerai vertinta ir kitose už-
+    sienio valstybėse. 1923 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-030
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -249,5 +309,5 @@ Nenurodyta
 - [[objektai/asmenys/Augustas II]]
 - [[objektai/daiktai/Vytauto laikų pinigėliai]]
 - [[objektai/daiktai/Zigmanto Augusto pinigai]]
-- [[objektai/zodynas/denariukas]]
-- [[objektai/zodynas/grašis]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/litas]]

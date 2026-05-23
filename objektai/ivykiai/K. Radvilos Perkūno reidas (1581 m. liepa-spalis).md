@@ -11,14 +11,6 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 bukle: 'juodrastis'
 laikotarpis: '1581 m. liepa-spalis'
-datos:
-  - '1581 m. liepa-spalis'
-periodas: 'ankstyvieji_naujieji_laikai'
-periodo_grupes: []
-amziai:
-  - 'XVI'
-date_start: '1581'
-date_end: '1581'
 vaidmenys: []
 dalyviai:
   - 'Kristupas Radvila Perkūnas'
@@ -29,6 +21,14 @@ dalyviai:
   - 'lietuviai'
   - 'Rusijos valdovas'
 susije_irasai: []
+datos:
+  - '1581 m.'
+periodas: 'ankstyvieji_naujieji_laikai'
+periodo_grupes: []
+amziai:
+  - 'XVI'
+date_start: '1581'
+date_end: ''
 patikimumas: 'aukstas'
 tags:
   - karas
@@ -76,6 +76,10 @@ Nenurodyta
     - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-009
+  teiginys: 'Radvila nusprendė imtis iniciatyvos ir pasuko Rževo link, į Rusijos teritorijos gilumą.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -183,8 +187,31 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-008
+- c-005
+  santrauka: 'Radvila nusprendė imtis iniciatyvos ir pasuko Rževo link, į Rusijos teritorijos gilumą.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Rugpjūčio 21 d. prie
+    Šelomos upės lietuviai
+    sumušė apie 3000 rusų
+    dalinį. K. Radvila nu-
+    sprendė imtis iniciaty-
+    vos ir pasuko Rževo link, į
+    Rusijos teritorijos gilumą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Volgos upė]]
-- [[objektai/vietos/Šelomos upė]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Rževas]]
+- [[objektai/vietos/Opokos apylinkės]]
+- [[objektai/vietos/Salaspilis]]
+- [[objektai/vietos/Staraja Rusa]]
+- [[objektai/vietos/Toropecas]]

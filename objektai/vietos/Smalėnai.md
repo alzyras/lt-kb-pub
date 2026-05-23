@@ -51,4 +51,8 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Punskas]]
+- [[objektai/vietos/Alytus]]
+- [[objektai/daiktai/Artilerija]]
+- [[objektai/vietos/Kaunas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lietuva]]

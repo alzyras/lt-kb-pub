@@ -52,3 +52,8 @@ Pagal kronikininką Henriką von Rebdorf 1358 m. liepos mėn.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Lietuva]]

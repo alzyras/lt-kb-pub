@@ -6,6 +6,12 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - valstybė
@@ -24,6 +30,10 @@ De jure Lietuva tebuvo pripažinta tik Vokietijos, Rusijos, Šveicarijos, Argent
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Lietuviai vyko daugiausia į Pietų Amerikos šalis (Argentiną, Braziliją, Venesuelą ir Urugvajų).'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -43,7 +53,26 @@ De jure Lietuva tebuvo pripažinta tik Vokietijos, Rusijos, Šveicarijos, Argent
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Lietuviai vyko daugiausia į Pietų Amerikos šalis (Argentiną, Braziliją, Venesuelą ir Urugvajų).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuviai vyko daugiausia į
+    Pietų Amerikos šalis (Argentiną, Braziliją, Venesuelą ir Urugvajų). Jiems
+    padėti ir palaikyti ryšius su tėvyne sukurta Draugija užsienio lietuviams
+    Gen.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Venesuela]]
+- [[objektai/zodynas/savišalpos organizacijos savišalpos draugijos]]
+- [[objektai/vietos/Urugvajus]]
 - [[objektai/vietos/Meksika]]

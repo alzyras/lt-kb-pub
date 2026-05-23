@@ -75,6 +75,10 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     - c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: '1608 m. Švedijos kariuomenė per trumpą laiką užėmė Paidę, Kuoknesę ir Viljandį.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -158,11 +162,35 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+- c-005
+  santrauka: '1608 m. Švedijos kariuomenė per trumpą laiką užėmė Paidę, Kuoknesę ir Viljandį.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Per trumpa
+    “| laiką Švedijos kariuomenė užėmė Paidę
+    (Weisenstein), Kuoknesę (Kokenhausen) ir
+    Viljandį (Fellin).
+
+    1608 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Jonas Karolis Katkevičius]]
-- [[objektai/asmenys/Jonas Sicinskis]]
-- [[objektai/asmenys/Kristupas Radvila Perkūnas]]
 - [[objektai/vietos/Paidė]]
 - [[objektai/vietos/Viljandis]]
+- [[objektai/vietos/Švedija]]
+- [[objektai/grupes/Švedijos kariuomenė]]
+- [[objektai/asmenys/Jonas Sicinskis]]
+- [[objektai/asmenys/Karina Nilsdotter]]
+- [[objektai/asmenys/Karolis Carlsonas Gyllenhielmas]]
+- [[objektai/asmenys/Karolis IX]]
+- [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.)]]
+- [[objektai/vietos/Kuoknesės pilis]]
+- [[objektai/vietos/Salaspilis]]
+- [[objektai/grupes/Švedijos karalystė]]

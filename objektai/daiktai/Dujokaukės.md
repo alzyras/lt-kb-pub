@@ -80,4 +80,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
 - [[objektai/daiktai/Statybininkų šalmai]]
+- [[objektai/vietos/Vilnius]]

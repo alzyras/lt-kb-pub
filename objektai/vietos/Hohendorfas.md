@@ -53,5 +53,8 @@ Po to, sąjun­ gininkai ėmė trauktis atgal (liepos 11 d.) Lautenburgo Soldau 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Soldau]]
+- [[objektai/vietos/Vengrija]]
+- [[objektai/zodynas/magistras]]
 - [[objektai/ivykiai/Vengrų karaliaus karo paskelbimas Lenkijai (1410 m. liepos 11 d.)]]

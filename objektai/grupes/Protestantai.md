@@ -90,3 +90,14 @@ Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalika
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/didikas]]
+
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/paprociai/Jėzuitų viešos religinės kovos praktikos]]
+- [[objektai/grupes/Kalvinai]]
+- [[objektai/ivykiai/Kėdainių lietuviškų knygų spaustuvės įkūrimas ir sudegimas (apie 1652–1654 m.)]]
+- [[objektai/grupes/Liuterionys]]
+- [[objektai/paprociai/Procesijos ir iškilmingos laidotuvės]]
+- [[objektai/ivykiai/Protestanto nubaudimas per Dievo Kūno procesiją Vilniuje (1611 m.)]]
+- [[objektai/vietos/Anglija]]
+- [[objektai/paprociai/Protestantų pamaldos lenkiškai]]

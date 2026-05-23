@@ -61,4 +61,12 @@ Sužinoję apie Naujojo Kauno statybą, Ordino magistras su kariuomene 1363 m. b
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Kaunas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Nevėžis]]
+- [[objektai/vietos/Veliuona]]
+- [[objektai/vietos/Veliuonos pilis]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/vietos/Nemunas]]
 - [[objektai/vietos/Naujasis Kaunas]]

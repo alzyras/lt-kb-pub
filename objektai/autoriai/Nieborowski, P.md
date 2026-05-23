@@ -55,3 +55,9 @@ Nieborowski, P.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/autoriai/P. Nieborowski]]
+- [[objektai/autoriai/Krasauskas, R]]
+- [[objektai/autoriai/R. Krasauskas]]

@@ -73,3 +73,8 @@ Nenurodyta
   pagrindžia:
     - t-003
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/grupes/Lietuviai]]

@@ -60,4 +60,5 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
 - [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas]]

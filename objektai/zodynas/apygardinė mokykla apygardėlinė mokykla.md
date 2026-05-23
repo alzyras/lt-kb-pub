@@ -46,3 +46,8 @@ Apygardinėse mokyklose mokslas buvo išeinamas per 7 m. (V kl.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Viena]]

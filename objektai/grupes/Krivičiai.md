@@ -54,4 +54,11 @@ Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (D
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Bizantija]]
+- [[objektai/vietos/Dauguva]]
 - [[objektai/grupes/Dregovičiai]]
+- [[objektai/vietos/Europa]]
+- [[objektai/vietos/Kijevas]]
+- [[objektai/vietos/Kijevo Rusia]]
+- [[objektai/ivykiai/Kijevo Jaroslavo žygis į Lietuvą ir Naugarduko įkūrimas (1044 m.)]]
+- [[objektai/vietos/Dniepras]]

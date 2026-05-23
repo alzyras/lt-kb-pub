@@ -46,5 +46,7 @@ tags:
 - [[temos/pinigai]]
 
 ### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]
 - [[objektai/grupes/Oswiata]]
 - [[objektai/grupes/Pochodnia]]

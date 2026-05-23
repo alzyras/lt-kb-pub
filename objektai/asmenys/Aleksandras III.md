@@ -48,5 +48,6 @@ N ors Rusijos imperijos vidaus politika nerusiškų imperijos regionų ir „pak
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Rusija]]
 - [[objektai/zodynas/polonofobija]]
 - [[objektai/zodynas/„lenkų pradai“ „rusų pradai“]]

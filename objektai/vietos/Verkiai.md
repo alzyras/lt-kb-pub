@@ -89,5 +89,7 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/vietos/Vilnius]]
 - [[objektai/vietos/Malėtai]]
 - [[objektai/vietos/Tauragnų pilis]]

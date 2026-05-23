@@ -47,3 +47,10 @@ Pats Traidenis, kaip in Mindaugas, Eiliuotinėje Livonijos kronikoje yra vadinam
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Traidenis]]

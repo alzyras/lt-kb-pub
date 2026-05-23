@@ -41,3 +41,8 @@ Suvorovo vadovaujamai Rusijos kariuomenei imtis veiksmų.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/bajorija]]
+- [[objektai/vietos/Rusija]]

@@ -43,3 +43,7 @@ Tik vėliau iš jaunimo, susispietusio apie moksleivių žurnalą „Aušrinę",
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]

@@ -68,3 +68,7 @@ Tik Rytprūsių lietuvių aktyvistai pasisakė už susijungimą su Lietuva tauti
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/kuopiniai kaimai]]

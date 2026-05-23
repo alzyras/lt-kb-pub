@@ -39,3 +39,8 @@ LDK išsiskiria iš Vidurio Rytų Europos regiono daugiakonfesiškumo legitimavi
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Europa]]
+- [[objektai/zodynas/daugiakonfesiškumas]]

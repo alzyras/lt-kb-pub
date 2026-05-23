@@ -65,3 +65,9 @@ Krėvė-Mickevičius dar vaikščiojo Kauno gatvėmis) nebuvo labai patraukli ž
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/destalinizacija atšilimo laikotarpis]]
+- [[objektai/zodynas/destalinizacija postalininis metas atšilimo laikotarpis]]

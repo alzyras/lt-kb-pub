@@ -41,3 +41,8 @@ Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymi�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Namas]]
+- [[objektai/zodynas/homo sovieticus]]

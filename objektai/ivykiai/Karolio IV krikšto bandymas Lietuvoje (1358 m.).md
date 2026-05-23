@@ -71,3 +71,15 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Dauguva]]
+- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Praga]]
+- [[objektai/vietos/Silezija]]
+- [[objektai/vietos/Vokietija]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/grupes/Kryžiuočių ordinas]]

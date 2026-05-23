@@ -53,6 +53,10 @@ Nenurodyta
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Jausdamasis žlugusios Bizantijos imperijos paveldėtoju (1453), pa­ sisavinęs jos dvigalvį erelį ir jos imperatoriaus dvaro ceremonialą, Jonas III-sis jau savinosi ir caro titulą.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -73,7 +77,28 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Jausdamasis žlugusios Bizantijos imperijos paveldėtoju (1453), pa­ sisavinęs jos dvigalvį erelį ir jos imperatoriaus dvaro ceremonialą, Jonas III-sis jau savinosi ir caro titulą.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Jausdamasis žlugusios Bizantijos imperijos paveldėtoju (1453), pa­
+    sisavinęs jos dvigalvį erelį ir jos imperatoriaus dvaro ceremonialą,
+    Jonas III-sis jau savinosi ir caro titulą. O «antrajai Romai »
+    (Konstantinopoliui) kritus, Maskva turėjo įkūnyti «trečiąją Ro­
+    mą», «o ketvirtosios Romos (iš viso) nebegalėjo būti»^11.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/simbolis]]
+
+### Susiję objektai
+- [[objektai/vietos/Bizantija]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/grupes/Romai]]

@@ -59,4 +59,8 @@ Ir Algirdas, ir Maskvos kunigaikštis tuo pačiu laiku dėjo stiprių pastangų 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Kijevo Rusia]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/vietos/Smolenskas]]
 - [[objektai/zodynas/metropolitas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

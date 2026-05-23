@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
+  - '1923 m.'
   - '1936 m.'
   - '2026 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
@@ -15,7 +16,7 @@ periodo_grupes:
 amziai:
   - 'XX'
   - 'XXI'
-date_start: '1936'
+date_start: '1923'
 date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
@@ -45,7 +46,6 @@ Tuo tikslu pas Napoleoną į Tilžę buvo nuvykusi net slapta Lietuvos bajorų d
   teiginys: '48 Tilžė 127, 212, 377 Timofėjus (Daumantas) 197 Timur-Kutluga, chanas 311, 314, 317-319 Tiškevičius Jurgis, vysk.'
   pagrindžia:
     - c-003
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Tuo tikslu pas Napoleoną į Tilžę buvo nuvykusi net slapta Lietuvos bajorų delegacija.'
@@ -94,3 +94,20 @@ Tuo tikslu pas Napoleoną į Tilžę buvo nuvykusi net slapta Lietuvos bajorų d
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Angerburgas]]
+- [[objektai/grupes/Birutės draugija]]
+- [[objektai/vietos/Girdava]]
+- [[objektai/vietos/Johanisburgas]]
+- [[objektai/ivykiai/Jono Smalakio išrinkimas į imperijos parlamentą Klaipėdos apygardoje (1898 m.)]]
+- [[objektai/vietos/Lotzenburgas]]
+- [[objektai/vietos/Röselis]]
+- [[objektai/grupes/Vokiečių literatų draugija]]
+- [[objektai/autoriai/Vydūnas]]
+- [[objektai/zodynas/tautiškas susipratimas tautiška sąmonė tautiškoji veikla]]
+- [[objektai/vietos/Šiauliai]]
+- [[objektai/vietos/Gargždai]]
+- [[objektai/autoriai/Mikšas]]
+- [[objektai/grupes/Tilžės gestapo būrys]]

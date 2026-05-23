@@ -82,3 +82,8 @@ Dar po ketvirčio amžiaus, 1547-aisiais Lietuva pribrendo pirmai knygai lietuvi
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]

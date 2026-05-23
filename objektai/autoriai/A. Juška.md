@@ -56,3 +56,7 @@ Juška : Mindaugo krikštas, Lux Christi 1951, 1 nr., 3-8 p. ; Mindaugas ir Liet
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/laiškas]]
+
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]

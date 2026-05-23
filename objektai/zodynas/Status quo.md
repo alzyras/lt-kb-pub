@@ -62,3 +62,11 @@ Lietuvių diplomatijos sunkumai buvo užprogramuoti, nes du pagrindiniai Lietuvo
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/vietos/Vokietija]]
+- [[objektai/zodynas/diplomatija]]

@@ -42,4 +42,4 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/daiktai/ANBO lėktuvai]]
+- [[objektai/vietos/Kaunas]]

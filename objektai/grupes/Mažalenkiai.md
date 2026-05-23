@@ -52,3 +52,9 @@ Bet iš kitos pusės, susitikimas su mažalenkiais galėjo jį įtikinti, kad Le
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]

@@ -74,3 +74,11 @@ Terminas žymi nustatytą kariuomenės skaičių ar karo etatą, nuo kurio prikl
 ### Teminiai klasteriai
 - [[temos/istorinė-sąvoka]]
 - [[temos/karinis-terminas]]
+
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/vietos/Turkija]]
+- [[objektai/vietos/Vengrija]]
+- [[objektai/zodynas/ekspansija]]
+- [[objektai/zodynas/karo taryba]]
+- [[objektai/zodynas/žygis]]

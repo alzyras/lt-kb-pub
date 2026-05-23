@@ -51,4 +51,5 @@ Katedros) aikštėje dalyvavo apie 30 tūkst., liepos 9 Vingio parke (LPS vadovy
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/daiktai/Lietuvos trispalvė]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

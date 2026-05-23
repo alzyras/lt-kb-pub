@@ -58,3 +58,13 @@ Voldemarui klausimą „Karas ar taika?“ A.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Augustinas Voldemaras]]
+- [[objektai/asmenys/J. Pilsudskis]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Petras Klimas]]
+- [[objektai/asmenys/Pilsudskis]]
+- [[objektai/asmenys/A. Voldemaras]]

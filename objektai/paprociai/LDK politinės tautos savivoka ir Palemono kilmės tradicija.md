@@ -72,3 +72,11 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
+
+### Susiję objektai
+- [[objektai/grupes/Gediminaičių dinastija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuvos bajorija]]
+- [[objektai/asmenys/Palemonas]]
+- [[objektai/zodynas/bajorija]]
+- [[objektai/grupes/Lietuviai]]

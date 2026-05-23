@@ -54,3 +54,13 @@ Dobrynės ir Žemaičių kraštų sienos buvo paliktos nustatyti abiejų pusių 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Dobrynė]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Silezija]]
+- [[objektai/vietos/Vengrija]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/vietos/Žemaitija]]
+- [[objektai/grupes/Žemaičiai]]

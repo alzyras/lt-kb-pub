@@ -106,4 +106,15 @@ Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas 
 - [[temos/laiškas]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/daiktai/Karūna]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/ivykiai/1428 m. Lenčicos suvažiavimas]]
+- [[objektai/asmenys/Gedgaudas]]
 - [[objektai/ivykiai/Lenčicos suvažiavimas (1409 m.)]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/ivykiai/Lenčicos audiencija dėl Vytauto karūnacijos (1429 m. birželis 18–21 d.)]]

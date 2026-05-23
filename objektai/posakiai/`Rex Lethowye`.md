@@ -60,3 +60,8 @@ Lietuvos valdovas Gediminas, titulavęsis Rex Lethowye ir vedęs intensyvias der
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/laiškas]]
+
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/karyba]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]

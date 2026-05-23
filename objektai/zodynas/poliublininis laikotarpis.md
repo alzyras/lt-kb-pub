@@ -69,6 +69,10 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-008
+  teiginys: 'Narbuto laikų Kojalavičius paliko tradiciją po­ liublininiame laikotarpyje nebetęsti atskiros Lietuvos istorijos.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -109,6 +113,23 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-007
+- c-003
+  santrauka: 'Narbuto laikų Kojalavičius paliko tradiciją po­ liublininiame laikotarpyje nebetęsti atskiros Lietuvos istorijos.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Baigdamas jį Žygimanto Augusto mirtimi
+    (1572), iki pat T. Narbuto laikų Kojalavičius paliko tradiciją po­
+    liublininiame laikotarpyje nebetęsti atskiros Lietuvos istorijos.
+    Savo istoriją Kojalavičius rašė Vazų dinastijos paskutiniais
+    dešimtmečiais, kai Lietuvos bajorijos sluoksniuose jau ryškiau buvo
+    pastebimas savos valstybingumo sąmonės apsilpimas^29.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
 
 ## Pastabos
 
@@ -120,5 +141,13 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
 - [[temos/teisinis-terminas]]
 
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/bajorija]]
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/vietos/Berlynas]]
+- [[objektai/autoriai/K. Avižonis]]
+- [[objektai/grupes/Lietuvos didikai]]
+- [[objektai/zodynas/poliublininiai laikai]]
 - [[objektai/zodynas/poliublininis laikotarpis poliublininiai laikai]]
+- [[objektai/posakiai/surasti lietuvius Lietuvos istorijoje]]
 - [[objektai/zodynas/valstybingumo sąmonė]]

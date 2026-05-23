@@ -67,3 +67,11 @@ Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatym
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/pinigai]]
+
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuvos bankas]]
+- [[objektai/daiktai/Lietuvos pinigai]]
+- [[objektai/daiktai/Lietuvos pinigai litas]]
+- [[objektai/ivykiai/Valiutų valdybos modelio pradėjimas ir lito susiejimas su JAV doleriu (1994 m. kovo 1 d.)]]
+- [[objektai/zodynas/Valiutų valdybos modelis]]

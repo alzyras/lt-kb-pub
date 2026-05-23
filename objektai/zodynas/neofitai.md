@@ -55,4 +55,6 @@ Lie­ tuvoje bažnyčia vos tik prigijusi, žmonės katalikiškumu dar nepersiė
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Europa]]
+- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/neofitas]]

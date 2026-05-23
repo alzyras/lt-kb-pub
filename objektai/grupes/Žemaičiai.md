@@ -22,11 +22,18 @@ saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 laikotarpis: '1407 m.; 1409 m.; 1411 m.; 1588 m'
 datos:
+  - '1236 m.'
+  - '1237 m.'
+  - '1259 m.'
+  - '1260 m.'
+  - '1323 m.'
+  - '1324 m.'
   - '1350 m.'
   - '1407 m.'
   - '1409 m.'
   - '1411 m.'
   - '1430 m.'
+  - '1531 m.'
   - '1588 m.'
   - '1930 m.'
   - '1936 m.'
@@ -35,13 +42,16 @@ datos:
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
+  - 'viduramžiai'
 amziai:
+  - 'XIII'
   - 'XIV'
   - 'XV'
   - 'XVI'
+  - 'XIX'
   - 'XX'
   - 'XXI'
-date_start: '1350'
+date_start: '1236'
 date_end: '2026'
 patikimumas: 'aukštas'
 tags:
@@ -110,7 +120,90 @@ tags:
   teiginys: 'Jų centre stovėjo Žemaičiai ir pasidalinimas didžiosios Sūduvos girios.'
   pagrindžia:
     - c-033
-
+- t-037
+  teiginys: 'Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo) valstybės pakraščiuose, ne lietuvių, o senųjų rusų (arba rusėnų), taip pat žemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš Lietuvos.'
+  pagrindžia:
+    - c-034
+- t-038
+  teiginys: 'Tačiau dalis etninės Lietuvos yra už šiandieninės Lietuvos ribų, antra vertus, Lietuvos vardu vadinamos į vakarus nuo etninių žemių esančios senųjų žemaičių, dalies jotvingių, sėlių, žiemgalių ir prūsų teritorijos.'
+  pagrindžia:
+    - c-035
+- t-039
+  teiginys: 'Nors žemaičiai Saulės mūšyje 1236 m. šį žygį Vokiečių ordino riteris pagrobia vaiką.'
+  pagrindžia:
+    - c-036
+- t-040
+  teiginys: 'Žemaičiai, sutriuškinę jungtinę Vokiečių ir Livonijos ordinų kariuomenę prie Durbės 1260 m. liepos 13 d., tarpininkaujant Treniotai, iš tikrųjų siūlė Mindaugui atsimesti nuo krikščionybės ir pradėti karą su Livonija.'
+  pagrindžia:
+    - c-037
+- t-041
+  teiginys: 'Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir stačiatikių dvariškių pasipriešinimo.'
+  pagrindžia:
+    - c-038
+- t-042
+  teiginys: 'Lietuvių pajėgos Eiliuota Livonijos kronika, aprašydama Skuodo mūšį (1259 m.), mini žemaičius, bet vėliau, Durbės mūšio išvakarėse, prie Vartajų, Georgenburgo ir pačiame mūšyje — tik lietuvius arba „pagonis“.'
+  pagrindžia:
+    - c-039
+- t-043
+  teiginys: 'Ivinskio, kadangi tai ne lokaliniai, o plataus masto veiksmai, vykę Lietuvos vakaruose, tai 4000 lietuvių pajėgas reikia suprasti kaip jungtines žemaičių ir paties Lietuvos valdovo karaliaus Mindaugo karines pajėgas, nukreiptas prieš Ordiną.'
+  pagrindžia:
+    - c-040
+- t-044
+  teiginys: 'Ir tik jis, būdamas Kęstučio sūnus ir turė­ damas dideles simpatijas Žemaičiuose ir Lietuvoj, galėjo įvesti krašte tvarką ir ramybę, ko jau taip seniai buvo išsiilgę jo gy­ ventojai.'
+  pagrindžia:
+    - c-041
+- t-045
+  teiginys: 'Atidavė Ordinui Žemaičius iki Nevėžio ir pasižadėjo jam pa­ dėti pastatyti dvi ar tris pilis.'
+  pagrindžia:
+    - c-042
+- t-046
+  teiginys: 'Tuo būdu Vytauto kariuomenę sudarė lietuviai, žemaičiai, vokie­ čiai, lenkai, totoriai, rusai, valakai, vadinas, Vytauto vedama kariuomenė buvo internacionalinė.'
+  pagrindžia:
+    - c-043
+- t-047
+  teiginys: 'Taip, žemaičiai vieną kartą pardavė Dancigui 50 laukinių stumbrų odų.'
+  pagrindžia:
+    - c-044
+- t-048
+  teiginys: 'Bet šį kartą nukentėjo Žemaičiai, nes Vytautas dėl pageidaujamos su Ordinu patvaresnės taikos sąryšyje su Rytų politika pasižadėjo metus neleisti savo pirkliams prekiauti su Žemaičių kraštu ir įvežti druskos, javų, geležies, kad Žemaičiai vėl nesukiltų prieš.'
+  pagrindžia:
+    - c-045
+- t-049
+  teiginys: 'Žemaičiai, kurie pirmaisiais metais neturėjo teisių pre­ kiauti su Aukštaičiais, jas dabar vėl atgavo.'
+  pagrindžia:
+    - c-046
+- t-050
+  teiginys: 'Čia dabartinėje savo vietoje, Klaipėdos krašte ir Kuršmarių pakrantėmis, gyveno žemaičiai.'
+  pagrindžia:
+    - c-047
+- t-051
+  teiginys: 'Svarbiausias dabar ordino tikslas buvo nukariauti Žemaičius ir tuo būdu sujungti abi savo šakas.'
+  pagrindžia:
+    - c-048
+- t-052
+  teiginys: 'Bet ir Žemaičiuose prieš ordiną buvo pastatyta daugybė ginamųjų pilių: Veliuona, Kolainiai, Bisėnai ir t.t.'
+  pagrindžia:
+    - c-049
+- t-053
+  teiginys: 'Žemaičiai turėjo keletą savo kunigaikščių.'
+  pagrindžia:
+    - c-050
+- t-054
+  teiginys: 'Pagaliau santykiai tarp ordino ir Vytauto tiek paaštrėjo, kad jis parėmė žemaičius, ir tie visus kryžiuočius išvarė iš savo krašto.'
+  pagrindžia:
+    - c-051
+- t-055
+  teiginys: 'Žemaičių sukilimas 1409 m. Po Racionžo taikos Vytautas dėjosi norįs laikytis taikos sąlygų ir net pats padėjo ordinui pavergti nepasiduodančius Žemaičius.'
+  pagrindžia:
+    - c-052
+- t-056
+  teiginys: 'Lig šiol laisvi buvusieji žemaičiai buvo varomi prie darbų ir buvo apdėti dideliais mokesčiais; keliai į Aukštaičius buvo budriai saugomi.'
+  pagrindžia:
+    - c-053
+- t-057
+  teiginys: 'Bijodamas sukilimo, ordinas pareikalavo iš žemaičių naujų įkaitų; vietoj įkaitų jis sulaukė visuotinio sukilimo.'
+  pagrindžia:
+    - c-054
 ## Reikšmingi paminėjimai
 - c-020
   santrauka: '1382 m. pagonys žemaičiai dėl tikėjimo bendrumo davė Kęstučiui 9000 vyrų.'
@@ -333,9 +426,628 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-036
+- c-034
+  santrauka: 'Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo) valstybės pakraščiuose, ne lietuvių, o senųjų rusų (arba rusėnų), taip pat žemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš Lietuvos.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Grindžiama
+    mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
+    valstybės pakraščiuose, ne lietuvių, o senųjų rusų (arba rusėnų), taip pat
+    žemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš
+    Lietuvos. Šie žmonės aplinkinių buvo vadinami „leičiais“ (latviai iki šiol
+    vadina lietuvius „leišiais“), o gal ir „liečiais“.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-037
+- c-035
+  santrauka: 'Tačiau dalis etninės Lietuvos yra už šiandieninės Lietuvos ribų, antra vertus, Lietuvos vardu vadinamos į vakarus nuo etninių žemių esančios senųjų žemaičių, dalies jotvingių, sėlių, žiemgalių ir prūsų teritorijos.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tačiau dalis etninės Lietuvos yra už šian-
+    dieninės Lietuvos ribų, antra vertus, Lietuvos vardu vadinamos į vakarus
+    nuo etninių žemių esančios senųjų žemaičių, dalies jotvingių, sėlių, žiem-
+    galių ir prūsų teritorijos. Ir tai dėsninga: Lietuvos valstybės formavimo-
+    si branduolys buvo „Lietuvos žemė“ (teritorija tarp Nemuno ir Neries),
+
+    L I E T U V O S  I S T O R I J A
+    14
+    Vytis iš I Lietuvos Statuto Lauryno nuorašo (1531 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-038
+- c-036
+  santrauka: 'Nors žemaičiai Saulės mūšyje 1236 m. šį žygį Vokiečių ordino riteris pagrobia vaiką.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Nors žemaičiai Saulės mūšyje 1236 m. šį žygį
+    Vokiečių ordino riteris pagrobia vaiką.
+    Dail. J. Kossak, XIX a.
+
+    1 skyrius •  S E N O J I  L I E T U VA
+    29
+    atlaikė, replės Lietuvą jau spaudė – 1237 m. Kalavijuočių ordinas tapo
+    Kryžiuočių ordino vasalu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-039
+- c-037
+  santrauka: 'Žemaičiai, sutriuškinę jungtinę Vokiečių ir Livonijos ordinų kariuomenę prie Durbės 1260 m. liepos 13 d., tarpininkaujant Treniotai, iš tikrųjų siūlė Mindaugui atsimesti nuo krikščionybės ir pradėti karą su Livonija.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Žemaičiai, sutriuškinę jungtinę Vokiečių ir Livonijos ordinų
+    kariuomenę prie Durbės 1260 m. liepos 13 d., tarpininkaujant Treniotai,
+    iš tikrųjų siūlė Mindaugui atsimesti nuo krikščionybės ir pradėti karą su
+    Livonija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-040
+- c-038
+  santrauka: 'Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir stačiatikių dvariškių pasipriešinimo.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tačiau 1323–1324 m. Gedimino krikšto akcija
+    nepavyko dėl žemaičių ir stačiatikių dvariškių pasipriešinimo.
+    Krikšto atsisakymas nereiškė, kad Gediminas atsisakė ir kito tikslo –
+    priartinti Lietuvą prie Vakarų Europos, kviesdamas atvykti vokiečių ko-
+
+    1 skyrius •  S E N O J I  L I E T U VA
+    33
+    lonistus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-041
+- c-039
+  santrauka: 'Lietuvių pajėgos Eiliuota Livonijos kronika, aprašydama Skuodo mūšį (1259 m.), mini žemaičius, bet vėliau, Durbės mūšio išvakarėse, prie Vartajų, Georgenburgo ir pačiame mūšyje — tik lietuvius arba „pagonis“.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Lietuvių pajėgos
+
+    Eiliuota Livonijos kronika, aprašydama
+    Skuodo mūšį (1259 m.), mini žemaičius,
+    bet vėliau, Durbės mūšio išvakarėse, prie
+    Vartajų, Georgenburgo ir pačiame mū-
+    šyje — tik lietuvius arba „pagonis“.
+
+    P.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-042
+- c-040
+  santrauka: 'Ivinskio, kadangi tai ne lokaliniai, o plataus masto veiksmai, vykę Lietuvos vakaruose, tai 4000 lietuvių pajėgas reikia suprasti kaip jungtines žemaičių ir paties Lietuvos valdovo karaliaus Mindaugo karines pajėgas, nukreiptas prieš Ordiną.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Ivinskio,
+    kadangi tai ne lokaliniai, o plataus masto
+    veiksmai, vykę Lietuvos vakaruose, tai
+    4000 lietuvių pajėgas reikia suprasti kaip
+    jungtines žemaičių ir paties Lietuvos val-
+    dovo karaliaus Mindaugo karines pajėgas,
+    nukreiptas prieš Ordiną.
+
+    26 DURBĖS MŪŠIS 1260 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-043
+- c-041
+  santrauka: 'Ir tik jis, būdamas Kęstučio sūnus ir turė­ damas dideles simpatijas Žemaičiuose ir Lietuvoj, galėjo įvesti krašte tvarką ir ramybę, ko jau taip seniai buvo išsiilgę jo gy­ ventojai.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Ir tik jis, būdamas Kęstučio sūnus ir turė­
+    damas dideles simpatijas Žemaičiuose ir Lietuvoj, galėjo įvesti
+    krašte tvarką ir ramybę, ko jau taip seniai buvo išsiilgę jo gy­
+    ventojai. Todėl Jogaila turėjo galutinai pasiryžti su Vytautu su­
+    sitaikinti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-044
+- c-042
+  santrauka: 'Atidavė Ordinui Žemaičius iki Nevėžio ir pasižadėjo jam pa­ dėti pastatyti dvi ar tris pilis.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Gardine
+    padarė preliminarinę (prirengiamąją) sutartį, kuria Vytautas:
+
+    1. Atidavė Ordinui Žemaičius iki Nevėžio ir pasižadėjo jam pa­
+    dėti pastatyti dvi ar tris pilis. 2.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-045
+- c-043
+  santrauka: 'Tuo būdu Vytauto kariuomenę sudarė lietuviai, žemaičiai, vokie­ čiai, lenkai, totoriai, rusai, valakai, vadinas, Vytauto vedama kariuomenė buvo internacionalinė.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Tuo
+    būdu Vytauto kariuomenę sudarė lietuviai, žemaičiai, vokie­
+    čiai, lenkai, totoriai, rusai, valakai, vadinas, Vytauto vedama
+    kariuomenė buvo internacionalinė. Pačių Lietuvos ir Rusijos
+    kunigaikščių joje buvo per penkiasdešimt.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-046
+- c-044
+  santrauka: 'Taip, žemaičiai vieną kartą pardavė Dancigui 50 laukinių stumbrų odų.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Taip, žemaičiai vieną kartą pardavė Dancigui
+    50 laukinių stumbrų odų. Ypač buvo brangūs sabalų kailiukai,
+    ką žinome iš to, kad jais lyg pinigais buvo mokama už prekes.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-047
+- c-045
+  santrauka: 'Bet šį kartą nukentėjo Žemaičiai, nes Vytautas dėl pageidaujamos su Ordinu patvaresnės taikos sąryšyje su Rytų politika pasižadėjo metus neleisti savo pirkliams prekiauti su Žemaičių kraštu ir įvežti druskos, javų, geležies, kad Žemaičiai vėl nesukiltų prieš.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Bet šį kartą nukentėjo Žemaičiai, nes Vytautas dėl
+    pageidaujamos su Ordinu patvaresnės taikos sąryšyje su Rytų
+    politika pasižadėjo metus neleisti savo pirkliams prekiauti su
+    Žemaičių kraštu ir įvežti druskos, javų, geležies, kad Žemaičiai
+    vėl nesukiltų prieš Ordiną.
+    Šituo pat laiku, kai buvo vedamos Racionžo taikos dery­
+    bos, tarėsi tarp savęs ir Rygos bei Polocko pirkliai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-048
+- c-046
+  santrauka: 'Žemaičiai, kurie pirmaisiais metais neturėjo teisių pre­ kiauti su Aukštaičiais, jas dabar vėl atgavo.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Žemaičiai, kurie pirmaisiais metais neturėjo teisių pre­
+    kiauti su Aukštaičiais, jas dabar vėl atgavo.
+    Tačiau šie geri prekybos santykiai neilgai truko.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-049
+- c-047
+  santrauka: 'Čia dabartinėje savo vietoje, Klaipėdos krašte ir Kuršmarių pakrantėmis, gyveno žemaičiai.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Čia dabartinėje savo vietoje, Klaipėdos krašte ir Kurš-
+    marių pakrantėmis, gyveno žemaičiai. Toliau nuo jų, į pietus,
+    kairiajam Nemuno krante, t.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-050
+- c-048
+  santrauka: 'Svarbiausias dabar ordino tikslas buvo nukariauti Žemaičius ir tuo būdu sujungti abi savo šakas.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Svarbiausias dabar ordino tikslas buvo
+    nukariauti Žemaičius ir tuo būdu sujungti abi savo šakas. Anks-
+    čiau Nemuną buvo pasiekęs iš Kuršo ir Livonijos ordinas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-051
+- c-049
+  santrauka: 'Bet ir Žemaičiuose prieš ordiną buvo pastatyta daugybė ginamųjų pilių: Veliuona, Kolainiai, Bisėnai ir t.t.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Bet ir Že-
+    maičiuose prieš ordiną buvo pastatyta daugybė ginamųjų pilių:
+    Veliuona, Kolainiai, Bisėnai ir t.t. Tos Panemunės pilys turėjo
+    saugoti Dubysos upyną.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-052
+- c-050
+  santrauka: 'Žemaičiai turėjo keletą savo kunigaikščių.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Žemaičiai turėjo keletą savo kunigaikščių. Ka-
+    dangi jie nuolat kovojo su vokiečių ordinu, tai mielai pripažino
+    galingojo Gedimino valdžią ir naudojosi jo parama.
+    **9.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-053
+- c-051
+  santrauka: 'Pagaliau santykiai tarp ordino ir Vytauto tiek paaštrėjo, kad jis parėmė žemaičius, ir tie visus kryžiuočius išvarė iš savo krašto.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Pagaliau santykiai tarp ordino ir
+    Vytauto tiek paaštrėjo, kad jis parėmė žemaičius, ir tie visus
+    kryžiuočius išvarė iš savo krašto. Jie sugriovė net Klaipėdą ir
+    įsiveržė į ordino žemes už Nemuno. Tada ordinas nusprendė pa-
+    remti iš Lietuvos pabėgusį ir vis dar nenurimstantį Švitrigailą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-054
+- c-052
+  santrauka: 'Žemaičių sukilimas 1409 m. Po Racionžo taikos Vytautas dėjosi norįs laikytis taikos sąlygų ir net pats padėjo ordinui pavergti nepasiduodančius Žemaičius.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    **Žemaičių sukilimas 1409 m.** Po Racionžo taikos Vytautas
+    dėjosi norįs laikytis taikos sąlygų ir net pats padėjo ordinui pa-
+    vergti nepasiduodančius Žemaičius. Bet po sėkmingo žygio į
+    Smolenską jis vėl ėmė ieškoti progos Žemaičiams atsiimti. Ordi-
+    nas tuo tarpu Žemaičiuose statėsi pilis ir ėmėsi visokių priemonių
+    prieš galimą sukilimą. Žymesniųjų bajorų vaikai buvo net iš-
+    vežti į Pavyslį, kaip įkaitai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-055
+- c-053
+  santrauka: 'Lig šiol laisvi buvusieji žemaičiai buvo varomi prie darbų ir buvo apdėti dideliais mokesčiais; keliai į Aukštaičius buvo budriai saugomi.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Ordino valdžia buvo labai žiauri.
+    Lig šiol laisvi buvusieji žemaičiai buvo varomi prie darbų ir buvo
+    apdėti dideliais mokesčiais; keliai į Aukštaičius buvo budriai
+    saugomi. Dėl viso to žemaičiai tuojau pradėjo nerimauti. Jau
+    1407 m. jie išsiuntinėjo raštus Europos valdovams, skųsdamiesi
+    dėl ordino žiaurumų ir priespaudos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-056
+- c-054
+  santrauka: 'Bijodamas sukilimo, ordinas pareikalavo iš žemaičių naujų įkaitų; vietoj įkaitų jis sulaukė visuotinio sukilimo.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Kitais metais krašte jau
+    buvo pilna Vytauto atsiųstų žmonių, ir bruzdėjimas ėjo atviryn.
+    Tada ordinas ėmė reikalauti, kad Vytautas atsiimtų tuos savo
+    250 žmonių, kuriuos turėjo gauti pagal Racionžo sutartį. Bet
+    Vytautas nesiskubino ir vis tęsė derybas. Bijodamas sukilimo,
+    ordinas pareikalavo iš žemaičių naujų įkaitų; vietoj įkaitų jis
+    sulaukė visuotinio sukilimo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-057
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Rygiečiai]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/vietos/Žemaičių kraštas]]
+- [[objektai/ivykiai/1380 m. vasario paliaubos su Livonijos ordinu]]
+- [[objektai/ivykiai/1863 m. sukilimo paskelbimas Lenkijoje ir Lietuvoje (1863 m. pradžioje)]]
+- [[objektai/vietos/Airiogala]]
+- [[objektai/grupes/Anglai]]
+- [[objektai/autoriai/Antanas Tatarė]]
+- [[objektai/autoriai/Antoni Prochaska]]
+- [[objektai/vietos/Apaščia]]
+- [[objektai/vietos/Ariogala]]
+- [[objektai/vietos/Aukaimis]]
+- [[objektai/grupes/Bajorų konfederacija]]
+- [[objektai/ivykiai/Bendras karas su Vokiečių Ordinu, Melno taika ir Žemaičių sutvarkymas (1422 m.)]]
+- [[objektai/asmenys/Benediktas Makra]]
+- [[objektai/asmenys/Benediktas Makras]]
+- [[objektai/vietos/Betygala]]
+- [[objektai/vietos/Biržų pilis]]
+- [[objektai/ivykiai/Bisenos sunaikinimas (1316 m.)]]
+- [[objektai/paprociai/Blaivybės brolijų ir blaivybės skelbimo praktika]]
+- [[objektai/ivykiai/Blaivybės brolijų kūrimas ir plitimas Žemaičių vyskupystėje (1858—1859 m.)]]
+- [[objektai/vietos/Breslavas]]
+- [[objektai/vietos/Ceklio sritis]]
+- [[objektai/vietos/Ceklis]]
+- [[objektai/autoriai/Chr. Kroilmann]]
+- [[objektai/autoriai/D. Poška]]
+- [[objektai/daiktai/D. Poškos Baublys]]
+- [[objektai/vietos/Daugava]]
+- [[objektai/ivykiai/Derybos Salyne su Vokiečių ordinu]]
+- [[objektai/asmenys/Dlugošas]]
+- [[objektai/vietos/Dobrynė]]
+- [[objektai/vietos/Dobė]]
+- [[objektai/vietos/Dubysa]]
+- [[objektai/vietos/Durbė]]
+- [[objektai/vietos/Durbės pilis]]
+- [[objektai/daiktai/Eriko Dalbergo graviūra „Urbs et Castellum Brestzie Litewski a S.R.M. Suecix die“]]
+- [[objektai/grupes/Etninių lietuvių tautinis kultūrinis sąjūdis]]
+- [[objektai/vietos/Gaižuva]]
+- [[objektai/ivykiai/Gaižuvos ir Pačtuvos sričių nusiaubimas (1292 ir 1294 m.)]]
+- [[objektai/asmenys/Galminas]]
+- [[objektai/vietos/Gedimino pilis]]
+- [[objektai/asmenys/Gedvydas]]
+- [[objektai/vietos/Gegužkalnis]]
+- [[objektai/asmenys/Getautas]]
+- [[objektai/grupes/Giruliai]]
+- [[objektai/asmenys/Gotszalk Schutte]]
+- [[objektai/autoriai/Goyski, W]]
+- [[objektai/autoriai/Guagnini]]
+- [[objektai/autoriai/Gókski, K]]
+- [[objektai/asmenys/Hanulis]]
+- [[objektai/autoriai/Herberstein]]
+- [[objektai/autoriai/Hevekeb, K]]
+- [[objektai/daiktai/Ietis]]
+- [[objektai/vietos/Isteris]]
+- [[objektai/asmenys/J. Aukštuolaitis]]
+- [[objektai/autoriai/J. Lasickis]]
+- [[objektai/autoriai/J. Posilge]]
+- [[objektai/autoriai/Jan Fijałek]]
+- [[objektai/ivykiai/Jogailos sutartis su kryžiuočiais dėl Žemaičių iki Dubysos]]
+- [[objektai/asmenys/Jonas Domicini iš Rogūzos]]
+- [[objektai/asmenys/Jonas Habundi]]
+- [[objektai/asmenys/Jonas Jeronimaitis Chodkevičius]]
+- [[objektai/asmenys/Jonas von Posilge]]
+- [[objektai/ivykiai/Junigėdos, Peštvės ir Pograudos kampanija (1293 m.)]]
+- [[objektai/autoriai/Juozas Arnulfas Giedraitis]]
+- [[objektai/vietos/Jurbarkas]]
+- [[objektai/asmenys/Jurgis Boliminas]]
+- [[objektai/asmenys/Jurgis Galminas]]
+- [[objektai/asmenys/Jurgis Gedgaudas]]
+- [[objektai/asmenys/Jurgis Geldgaudas]]
+- [[objektai/vietos/Jūros upė]]
+- [[objektai/autoriai/K. Gókski]]
+- [[objektai/autoriai/K. Hevekeb]]
+- [[objektai/autoriai/K. Zabitis Nezabitauskas]]
+- [[objektai/grupes/Kalnėnai]]
+- [[objektai/daiktai/Kalvė]]
+- [[objektai/zodynas/Kamarninkas]]
+- [[objektai/grupes/Kardo rinktinė]]
+- [[objektai/vietos/Karšuva]]
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Kauno Lietuva]]
+- [[objektai/vietos/Kauno sala]]
+- [[objektai/daiktai/Kilimas]]
+- [[objektai/asmenys/Kinsgaila]]
+- [[objektai/ivykiai/Klaipėdos puolimas ir Gedimino būrių Sembos teriojimas (1323 m.)]]
+- [[objektai/asmenys/Klausigaila]]
+- [[objektai/vietos/Knituva]]
+- [[objektai/vietos/Konstanca]]
+- [[objektai/ivykiai/Konstancijos susirinkimas (1414–1418 m.)]]
+- [[objektai/asmenys/Kotryna II]]
+- [[objektai/vietos/Kretingos apskritis]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/ivykiai/Kryžiuočių ordino karo pradžia su Lietuvos valstybe (1283 m.)]]
+- [[objektai/vietos/Kuldinga]]
+- [[objektai/vietos/Kuršių Neringa]]
+- [[objektai/vietos/Kuršo Šventoji]]
+- [[objektai/autoriai/Kučinskas, A]]
+- [[objektai/vietos/Kvėdarna]]
+- [[objektai/asmenys/Kęsgaila]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/daiktai/Kūlgrindos]]
+- [[objektai/vietos/Latvija]]
+- [[objektai/autoriai/Laurynas Ivinskis]]
+- [[objektai/paprociai/Lenkų kalbos, kultūros ir gyvensenos perėmimas LDK elite]]
+- [[objektai/paprociai/Lietuvių aukštosios kultūros kūrimas ir liaudies švietimas gimtąja kalba]]
+- [[objektai/grupes/Lietuvos Respublika]]
+- [[objektai/ivykiai/Lietuvos ir ordino sienos galutinis patvirtinimas pagal Melno taiką (1422 m.)]]
+- [[objektai/ivykiai/Lietuvos įsiveržimas į Estiją ir kryžiuočių įsiveržimas į Žemaitiją (1322 m.)]]
+- [[objektai/ivykiai/Liublino unija]]
+- [[objektai/ivykiai/Liublino unija (1569 m.)]]
+- [[objektai/grupes/Livonijos ordinas]]
+- [[objektai/grupes/Lotoriai]]
+- [[objektai/vietos/Lvovas]]
+- [[objektai/vietos/Malburgas]]
+- [[objektai/asmenys/Martynas V]]
+- [[objektai/vietos/Medingėnai]]
+- [[objektai/vietos/Medvėgalis]]
+- [[objektai/paprociai/Mergaičių, nuotakų, žmonų ir našlių galvos puošyba]]
+- [[objektai/asmenys/Michailas Aleksandrovičius]]
+- [[objektai/asmenys/Mikalojus Dziežgavičius]]
+- [[objektai/asmenys/Mikalojus Romedanskis (Medininkų vyskupas)]]
+- [[objektai/asmenys/Mikalojus Sepienskis]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/vietos/Minija]]
+- [[objektai/asmenys/Motiejus Strijkovskis]]
+- [[objektai/autoriai/Motiejus Valančius]]
+- [[objektai/grupes/Mozūrai (XV amžius)]]
+- [[objektai/autoriai/Mykolas Akelaitis]]
+- [[objektai/asmenys/Mykolas Sapienskis]]
+- [[objektai/vietos/Mūša]]
+- [[objektai/asmenys/N. Küchmeisteris]]
+- [[objektai/daiktai/Namas]]
+- [[objektai/vietos/Narva]]
+- [[objektai/vietos/Naujasis Kvidzinas]]
+- [[objektai/vietos/Neumarkas]]
+- [[objektai/vietos/Niešavos kraštas]]
+- [[objektai/daiktai/Nuometai]]
+- [[objektai/vietos/Olyka]]
+- [[objektai/grupes/Parusėnai]]
+- [[objektai/vietos/Pavyslys]]
+- [[objektai/vietos/Pačtuva]]
+- [[objektai/autoriai/Petras Dusburgietis]]
+- [[objektai/asmenys/Petras iš Kustynės]]
+- [[objektai/vietos/Peštvė]]
+- [[objektai/paprociai/Pirmųjų šmotelių ir Ilgių dienos vaišinimas vėlėms]]
+- [[objektai/autoriai/Prochaska]]
+- [[objektai/vietos/Putvė]]
+- [[objektai/ivykiai/Racionžo taika (1404 m.)]]
+- [[objektai/ivykiai/Ragainės pilies puolimas ir Christmemelio apgultis (1315 m.)]]
+- [[objektai/paprociai/Raitas keliavimas į bažnyčią, mugę ir kitas vietas]]
+- [[objektai/vietos/Raseiniai]]
+- [[objektai/daiktai/Ratai ant dviejų tekinių]]
+- [[objektai/daiktai/Rogas]]
+- [[objektai/asmenys/Rumbaudas]]
+- [[objektai/vietos/Rusnė]]
+- [[objektai/autoriai/S. Stanevičius]]
+- [[objektai/autoriai/Saxo Grammaticus]]
+- [[objektai/asmenys/Simonas Daukantas]]
+- [[objektai/asmenys/Simonas Stanevičius]]
+- [[objektai/ivykiai/Skuodo kautynės (1259 m.)]]
+- [[objektai/vietos/Skuodo laukai]]
+- [[objektai/vietos/Smardonė]]
+- [[objektai/vietos/Sudeikiai]]
+- [[objektai/asmenys/Sungaila]]
+- [[objektai/vietos/Tauragė]]
+- [[objektai/vietos/Trakų vaivadija]]
+- [[objektai/asmenys/Vaclovas Pragiečius]]
+- [[objektai/ivykiai/Vaclovo Pragiečio sprendimas ir vienerių metų paliaubos su Ordinu (1409 m.)]]
+- [[objektai/vietos/Vaišvilčiai]]
+- [[objektai/posakiai/Vakkis Ahridlis]]
+- [[objektai/asmenys/Valdemaras IV]]
+- [[objektai/vietos/Varniai]]
+- [[objektai/daiktai/Varpai]]
+- [[objektai/asmenys/Vasibutas]]
+- [[objektai/ivykiai/Veliuonos suvažiavimas dėl Žemaičių sienos (1420 m. rugsėjo 8 d.)]]
+- [[objektai/vietos/Venta]]
+- [[objektai/vietos/Vidurinė Lietuva]]
+- [[objektai/vietos/Vigrai]]
+- [[objektai/ivykiai/Vilniaus pokalbiai su popiežiaus legatais dėl Lietuvos krikšto (1324 m. gegužės gale)]]
+- [[objektai/grupes/Vilniaus universitetas]]
+- [[objektai/vietos/Vilniaus vyskupystė]]
+- [[objektai/posakiai/Viskas yra viena, viena žemė ir tie patys žmonės]]
+- [[objektai/ivykiai/Vitebsko karo lauko seimas]]
+- [[objektai/vietos/Vroclavas]]
+- [[objektai/asmenys/Vydimantas]]
+- [[objektai/asmenys/Vygandas]]
+- [[objektai/asmenys/Vykintas]]
+- [[objektai/posakiai/Vyresniuosius jis laikąs tėvais, lygius — broliais, o jaunesniuosius — savo vaikais]]
+- [[objektai/paprociai/Vyresnybės įsakymų skelbimas krivūle]]
+- [[objektai/paprociai/Vyriausiojo Lietuvos tribunolo teisėjų rinkimas seimeliuose]]
+- [[objektai/posakiai/Vytautas bijojo, kad bus numestas nuo sosto]]
+- [[objektai/ivykiai/Vytauto persikėlimas pas Ordiną (1382 m. pabaiga)]]
+- [[objektai/ivykiai/Vytauto skundas Ordinui imperijos kunigaikščiams (1401 m.)]]
+- [[objektai/ivykiai/Vėjukų srities nusiaubimas ir Raseinių bei Ariogalos sričių gaisrai (1322 m.)]]
+- [[objektai/zodynas/apostazija]]
+- [[objektai/zodynas/atšilimas]]
+- [[objektai/zodynas/donacija]]
+- [[objektai/zodynas/dvilypis lietuvių-žemaičių etnosas]]
+- [[objektai/zodynas/grašis]]
+- [[objektai/zodynas/homiletika]]
+- [[objektai/posakiai/in odium Sigismundi]]
+- [[objektai/zodynas/indulgencija]]
+- [[objektai/zodynas/Karinės vadovybės rangai|karinės vadovybės rangai]]
+- [[objektai/posakiai/kein Soule sie karten wider]]
+- [[objektai/zodynas/Kilimas|kilimas]]
+- [[objektai/zodynas/kitatikiai]]
+- [[objektai/zodynas/leičiai liečiai leišiai|leičiai / liečiai / leišiai]]
+- [[objektai/zodynas/Medė|medė]]
+- [[objektai/posakiai/nei žemės, nei žmonių]]
+- [[objektai/autoriai/prof. kunigas Dr. J. Fijalek]]
+- [[objektai/posakiai/savo užantyje maitinti gyvatę]]
+- [[objektai/posakiai/savo „karaliaus Vytauto”]]
+- [[objektai/posakiai/sicut anguillam per caudam]]
+- [[objektai/zodynas/sostapilis]]
+- [[objektai/zodynas/superarbitras]]
+- [[objektai/zodynas/Valdymieras|valdymieras]]
+- [[objektai/zodynas/Vartavodamos|vartavodamos]]
+- [[objektai/posakiai/vienintelis kelias, kuriuo galima atvesti husitus atgal į katalikų Bažnyčią]]
+- [[objektai/vietos/Čekija]]
+- [[objektai/grupes/Čekijos husitai]]
+- [[objektai/asmenys/Čupurna]]
+- [[objektai/zodynas/činšas]]
+- [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija]]
+- [[objektai/zodynas/įkaitai]]
+- [[objektai/vietos/Šiluva]]
+- [[objektai/vietos/Šušvė]]
+- [[objektai/vietos/Šventoji]]
+- [[objektai/paprociai/Šventųjų šaltinių ir lieknų neprileidimas]]
+- [[objektai/zodynas/Šliuižiai|šliuižiai]]
+- [[objektai/daiktai/Ūkės lazda]]
+- [[objektai/vietos/Žalioji giria]]
+- [[objektai/vietos/Žemaičių Kalvarija]]
+- [[objektai/vietos/Žemaičių aukštuma]]
+- [[objektai/ivykiai/Žemaičių delegacijos ir memorialo įteikimas Konstancijos sinodui (1415 m. gruodžio 15 d.)]]
+- [[objektai/ivykiai/Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas]]
+- [[objektai/ivykiai/Žemaičių kunigaikštystės privilegija]]
+- [[objektai/grupes/Žemaičių medininkai]]
+- [[objektai/paprociai/Žemaičių paklusnumas ir ištikimybės priesaikos Ordinui]]
+- [[objektai/paprociai/Žemaičių savivalda ir seniūno rinkimasis]]
+- [[objektai/vietos/Žemaičių seniūnija]]
+- [[objektai/posakiai/Žemaičių skundas]]
+- [[objektai/ivykiai/Žemaičių skundo išsiuntimas ir Bonifaco IX bulės paskelbimas (1402–1403 m.)]]
+- [[objektai/ivykiai/Žemaičių sukilimas (1656 m.)]]
+- [[objektai/ivykiai/Žemaičių sukilimas 1409 m]]
+- [[objektai/ivykiai/Žemaičių sukilimas 1418 m]]
+- [[objektai/paprociai/Žemaičių sėtinių kepimas namuose]]
+- [[objektai/ivykiai/Žemaičių vyskupijos įkūrimas (1417 m. spalio 24 d.)]]
+- [[objektai/vietos/Žemaičių vyskupystė]]
+- [[objektai/daiktai/Žemdirbystės įrankiai]]
+- [[objektai/grupes/Žemlionys]]
+- [[objektai/vietos/Žiemgala]]
+- [[objektai/grupes/Žiemgaliai]]
+- [[objektai/vietos/Žiemgalos vyskupija]]
+- [[objektai/grupes/Žuvėdai]]
+- [[objektai/zodynas/Žiuponai|žiuponai]]
+- [[objektai/posakiai/„Jūs norite man išplėšti tėvų palikimą...“]]
+- [[objektai/posakiai/„Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!“]]
+- [[objektai/posakiai/„kiaulių marą“]]
+- [[objektai/ivykiai/1401 m. Vytauto pasižadėjimai Lenkijai]]
+- [[objektai/autoriai/A. Salys]]
+- [[objektai/paprociai/Aisčių medžių ir girių garbinimas]]
+- [[objektai/vietos/Gardinas]]
+- [[objektai/asmenys/Jonas Liuksemburgietis]]
+- [[objektai/paprociai/Karo būrimas prieš žygį iš žynių, žvalgo kraujo ir žalčio ženklų]]
+- [[objektai/grupes/Krikščionys]]
+- [[objektai/paprociai/Sueiga į šventą girią baisios aukos atlikti]]
+- [[objektai/vietos/Sviečė]]
+- [[objektai/autoriai/V. K. Jaśkiewicz]]
+- [[objektai/paprociai/Vienkieminis gyvenimas dėl taikos ir gaisrų saugos]]
+- [[objektai/paprociai/Šventųjų paukščių laikymas namuose]]
+- [[objektai/ivykiai/Žemaičių krikštas]]

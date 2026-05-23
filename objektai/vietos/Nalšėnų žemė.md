@@ -50,3 +50,8 @@ Jie buvo pasiekę Nalšėnų žemę^144.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/chanas]]
+- [[objektai/asmenys/Burundajus]]

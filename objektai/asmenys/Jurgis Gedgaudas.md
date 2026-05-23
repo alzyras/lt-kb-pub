@@ -55,3 +55,7 @@ Jiems vadovavo du Vytauto didikai (Jurgis Gedgaudas, Jurgis Galminas) ir jo sekr
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/didikas]]
+
+### Susiję objektai
+- [[objektai/vietos/Konstanca]]
+- [[objektai/grupes/Žemaičiai]]

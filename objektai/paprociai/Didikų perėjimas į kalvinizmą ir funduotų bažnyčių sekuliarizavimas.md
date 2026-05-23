@@ -71,3 +71,11 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/didikas]]
+
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Mikalojus (Gniezno arkivyskupas)]]
+- [[objektai/asmenys/Mikalojus Radvila Juodasis]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/grupes/LDK didikai]]

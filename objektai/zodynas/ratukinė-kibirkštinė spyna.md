@@ -53,3 +53,10 @@ pradžioje buvo sukurta ratukinė-kibirkštinė spyna.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Europa]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/etmonas]]
+- [[objektai/zodynas/hetmonas]]

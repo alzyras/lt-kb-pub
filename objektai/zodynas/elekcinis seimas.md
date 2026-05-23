@@ -51,4 +51,7 @@ Pagaliau 1704 m. Karolis privertė sušaukti elekcinį seimą, kuris, apstatytas
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
+- [[objektai/vietos/Poznanė]]
+- [[objektai/zodynas/vaivada]]
 - [[objektai/ivykiai/Stanislovo Leščinskio išrinkimas karalium (1704 m.)]]

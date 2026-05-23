@@ -63,3 +63,15 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Viena]]
+- [[objektai/asmenys/Mikalojus Radvila Juodasis]]
+- [[objektai/daiktai/Pistoletas Browning HP (Hi-Power)]]
+- [[objektai/daiktai/Pistoletas-kulkosvaidis MP 18]]
+- [[objektai/daiktai/Pistoletas-kulkosvaidis MP 40]]
+- [[objektai/daiktai/Čekoslovakiškas lengvasis kulkosvaidis zB vz. 26]]
+- [[objektai/daiktai/Kardas]]
+- [[objektai/grupes/ATAS]]
+- [[objektai/asmenys/Gaidys]]

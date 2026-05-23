@@ -74,3 +74,10 @@ Eidintas A., Senn A. E., Žalys V., edit. E. Tuskenis. Lithuania in European pol
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/zodynas/neutralitetas]]
+- [[objektai/vietos/Niujorkas]]

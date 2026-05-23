@@ -103,7 +103,8 @@ Lietuviai patyrė didelį pralaimėjimą.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas]]
-- [[objektai/asmenys/Jogaila]]
-- [[objektai/asmenys/Kęstutis]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/ivykiai/Rūdavos mūšis (1370 m. vasario 17 d.)]]

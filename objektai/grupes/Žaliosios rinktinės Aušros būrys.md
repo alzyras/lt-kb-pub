@@ -50,3 +50,7 @@ Tuojau pat į kautynes įsitraukė ir Žaliosios rinktinės Aušros (vadas Ignas
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Viena]]

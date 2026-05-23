@@ -70,6 +70,10 @@ Nenurodyta
   teiginys: 'Katalikams buvo uždraustos mišrios su stačiatikiais vedybos ir, kad jas išlygintų, įsakyta nekatalikiškai pusei pri­ imti katalikybę.'
   pagrindžia:
     - c-003
+- t-008
+  teiginys: 'Lotynišką krikštą pa­ darant lietuviams privalomu ir draudžiant mišrias moterystes, etno­ (^18) CDV, I, 29-30 (nr.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -126,3 +130,27 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-004
+  santrauka: 'Lotynišką krikštą pa­ darant lietuviams privalomu ir draudžiant mišrias moterystes, etno­ (^18) CDV, I, 29-30 (nr.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Savo dokumente Jogaila pareiškė, jog, jo broliams ir visiems
+    Lietuvos didikams sutinkant, jis įsipareigojo visus lietuvių tautos
+    gyventojus, kokioje jie bebūtų sektoje, «patraukti, pašaukti, net
+    jėga priversti » paklusti Romos Bažnyčiai. Lotynišką krikštą pa­
+    darant lietuviams privalomu ir draudžiant mišrias moterystes, etno­
+
+    (^18) **CDV, I, 29-30 (nr.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]

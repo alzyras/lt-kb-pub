@@ -6,6 +6,18 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1741 m.'
+  - '1934 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+  - 'modernioji Lietuva'
+amziai:
+  - 'XVIII'
+  - 'XX'
+date_start: '1741'
+date_end: '1934'
 patikimumas: 'vidutinis'
 tags:
   - krikštas
@@ -24,6 +36,14 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Nors Niurnbergo auksakaliai jau buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai, Lucko suvažiavimas.'
+  pagrindžia:
+    - c-002
+- t-003
+  teiginys: 'Niurnbergas, 1741 m. vadinta „šauksmu tyruose“, nes vėlesni jo darbo tęsėjai nebekėlė tokių tikslų.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -42,3 +62,45 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Nors Niurnbergo auksakaliai jau buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai, Lucko suvažiavimas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Nors Niurnbergo
+    auksakaliai jau buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai,
+    Lucko suvažiavimas.
+    Dail. J. Mackevičius, 1934 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Niurnbergas, 1741 m. vadinta „šauksmu tyruose“, nes vėlesni jo darbo tęsėjai nebekėlė tokių tikslų.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Niurnbergas, 1741 m.
+    vadinta „šauksmu tyruose“, nes vėlesni jo darbo tęsėjai nebekėlė tokių
+    tikslų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Luckas]]
+- [[objektai/asmenys/Jonas (Čekijos karalius)]]
+- [[objektai/daiktai/Kristupo Mikalojaus Radvilos Perkūno šarvai]]
+- [[objektai/asmenys/Liudvikas (Vengrijos karalius)]]
+- [[objektai/ivykiai/Pasiuntinybė į Niurnbergą dėl krikšto (1358 m.)]]
+- [[objektai/asmenys/Russdorfas]]
+- [[objektai/daiktai/Vytauto ir Julijonos karūnos]]
+- [[objektai/ivykiai/Vytauto karūnacijos byla]]
+- [[objektai/ivykiai/Lucko suvažiavimas]]
+- [[objektai/daiktai/Žemėlapio fragmentas su „Tėve mūsų“ eilutėmis]]

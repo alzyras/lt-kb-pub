@@ -58,4 +58,15 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
 - [[temos/laiškas]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Liublinas]]
+- [[objektai/asmenys/Traidenis]]
+- [[objektai/zodynas/unija]]
 - [[objektai/ivykiai/Gedimino sąjunga su Lenkija]]
+- [[objektai/ivykiai/Jogailos pasiūlymas Vytautui per Henriką Ziemovitą (1392 m. pavasaris)]]
+- [[objektai/paprociai/Kreipimasis į Vytautą svarbiausiais reikalais]]
+- [[objektai/asmenys/Stanislovas Ciołek]]
+- [[objektai/zodynas/pakancleris]]
+- [[objektai/vietos/Mozūrija]]

@@ -79,3 +79,13 @@ XVII amžiuje kapitula ruošėsi atnaujinti paminklą, bet 1655 m. Vilnių užė
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Dubysa]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Marienburgas]]
+- [[objektai/vietos/Ragainė]]
+- [[objektai/ivykiai/Konstancijos susirinkimas (1414–1418 m.)]]
+- [[objektai/grupes/Vilniaus kapitula]]
+- [[objektai/zodynas/tautinė sąmonė]]

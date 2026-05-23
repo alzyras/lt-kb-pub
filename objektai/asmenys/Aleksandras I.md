@@ -6,6 +6,21 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1770 m.'
+  - '1815 m.'
+  - '1824 m.'
+  - '1830 m.'
+  - '1831 m.'
+  - '1861 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVIII'
+  - 'XIX'
+date_start: '1770'
+date_end: '1861'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -32,6 +47,10 @@ Universiteto globėju iki 1824 m. buvo Lenkijos didikų atžala – Adomas Jurgi
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Aleksandras I nutarė nekeršyti Lietuvos bajorijai, sulaužiusiai jam duotą ištikimybės priesaiką.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -65,7 +84,31 @@ Universiteto globėju iki 1824 m. buvo Lenkijos didikų atžala – Adomas Jurgi
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Aleksandras I nutarė nekeršyti Lietuvos bajorijai, sulaužiusiai jam duotą ištikimybės priesaiką.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    L I E T U V O S  I S T O R I J A
+    104
+    1830–1831 metų sukilimas
+    Aleksandras I nutarė nekeršyti ištikimybės priesaiką jam
+    sulaužiusiai Lietuvos bajorijai ir viskas liko kaip buvę išskyrus tai, kad
+    milžiniškų kariuomenių žygiavimas per kraštą du kartus per pusę metų
+    turėjo skaudžių pasekmių ekonomikai. Kai 1815 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/didikas]]
+
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/švietimo apygarda]]
+- [[objektai/posakiai/Lietuva tesanti Rusijos provincija ir todėl jos negalima prijungti prie Lenkijos]]

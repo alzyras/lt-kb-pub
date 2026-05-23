@@ -53,3 +53,9 @@ Byševskis jau buvo Janove, jis gavo Karo tarybos prie karaliaus nurodymą vykti
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Brasta]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Rusija]]

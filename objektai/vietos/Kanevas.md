@@ -68,3 +68,7 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Cerkasai]]
+- [[objektai/vietos/Dniepras]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/vietos/Irpenė]]
+- [[objektai/vietos/Kijevas]]

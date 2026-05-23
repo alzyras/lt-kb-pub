@@ -45,4 +45,6 @@ LLL įkūrėjas ir vadovas Antanas Terleckas save vadino rezistentu, jo supratim
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuvos laisvės lyga]]
 - [[objektai/ivykiai/Lietuvos laisvės lygos įkūrimas (1978 m.)]]

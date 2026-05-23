@@ -63,4 +63,8 @@ Tačiau Lietuva tik iš dalies tapo buferine valstybe, nes jos siekiai atgauti V
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/buferinė valstybė saugumo kordonas cordon sanitaire]]

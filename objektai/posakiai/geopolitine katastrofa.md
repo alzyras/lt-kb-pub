@@ -52,3 +52,15 @@ Rusijos valdžia SSRS griūtį vadina geopolitine katastrofa, nors yra pasmerkus
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Baltija]]
+- [[objektai/vietos/Estija]]
+- [[objektai/vietos/Latvija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/SSRS]]
+- [[objektai/grupes/Baltijos valstybės]]
+- [[objektai/grupes/Rusijos Federacija]]

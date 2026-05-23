@@ -56,4 +56,7 @@ Viso Žemaičių krašto vardu pavardėmis surašyti 31 atstovas iš septynių �
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Žemaičiai]]
 - [[objektai/vietos/Knituva]]

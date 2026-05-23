@@ -65,3 +65,14 @@ Tik to meto Vilniaus universiteto garsenybė, istorikas profesorius Lelevelis, �
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/asmenys/Andrius Sniadeckis]]
+- [[objektai/asmenys/Eduardas Karolis Eichvaldas]]
+- [[objektai/asmenys/Joachimas Lelevelis|Joachimas Lelevelis (istorikas)]]
+- [[objektai/asmenys/Johanas Pėteris Frankas]]
+- [[objektai/asmenys/Jozefas Frankas]]

@@ -58,3 +58,9 @@ Bet šis bandymas atplėšti Vo­ lynijos dalį nuo Vytautui priklausančios Luc
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/privilegija]]
+
+### Susiję objektai
+- [[objektai/vietos/Luckas]]
+- [[objektai/asmenys/Julijona (Algirdo žmona)]]
+- [[objektai/asmenys/Klemensas Moskorzewskis]]
+- [[objektai/posakiai/dux Russiae]]

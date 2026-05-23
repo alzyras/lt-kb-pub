@@ -57,4 +57,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Merkinė]]
 - [[objektai/vietos/Merkinės piliakalnis]]

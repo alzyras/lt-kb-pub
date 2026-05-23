@@ -50,3 +50,8 @@ Povilas Plechavičius pasiskelbė vyriausiuoju perversmo vadu ir laikinu L I E T
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje]]

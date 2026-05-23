@@ -187,3 +187,21 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/daiktai/Karūna]]
+- [[objektai/vietos/Krokuva]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Torno]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/lėnas]]
+- [[objektai/zodynas/seniūnas]]
+- [[objektai/asmenys/Švitrigaila]]
+- [[objektai/grupes/Vengrai]]

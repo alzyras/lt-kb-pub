@@ -60,3 +60,11 @@ Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos. Pacai, bijodami jo kandi
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/paprociai/Lietuvos kariuomenės išvedimas už sienos tik seimo įsakymu]]
+- [[objektai/zodynas/elektorius]]
+- [[objektai/grupes/Sapiegos]]
+- [[objektai/grupes/Bajorų konfederacija]]

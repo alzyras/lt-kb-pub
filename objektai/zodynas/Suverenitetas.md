@@ -133,3 +133,31 @@ Suverenitetas pateikiamas kaip teisinė valstybės teisė valdyti teritoriją ir
 
 ## Pastabos
 - registras turi artimą viešą įrašą `Suverenitetas`; čia pateikiama šaltinio vartosena ir variantas `suverenumas`; šaltinis terminą vartoja istoriškai, o ne teoriškai, todėl aiškinant reikės saugoti kontekstą.
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Laikinoji revoliucinė darbininkų ir valstiečių Vyriausybė]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/suverenumas]]
+- [[objektai/vietos/Kujavija]]
+- [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]
+- [[objektai/ivykiai/Lietuvos Respublikos Konstitucijos priėmimas referendume (1992 m. spalio 25 d.)]]
+- [[objektai/grupes/Lietuvos Respublikos Seimas]]
+- [[objektai/grupes/Lietuvos SSR Aukščiausioji Taryba]]
+- [[objektai/ivykiai/Lietuvos konstitucinės pataisos ir suvereniteto deklaracija (1989 m. gegužės 18 d.)]]
+- [[objektai/ivykiai/Liublino unija (1569 m.)]]
+- [[objektai/asmenys/Nikolajus I]]
+- [[objektai/ivykiai/Vilniaus perdavimo sutarties ir SSRS-Lietuvos savitarpio pagalbos sutarties pasirašymas (1939 m. spalio 10 d.)]]
+- [[objektai/asmenys/Vladislovas iš Opolės]]
+- [[objektai/ivykiai/Vytauto žygis į Naugardą (1428 m. vasara)]]
+- [[objektai/asmenys/Zigmantas Liuksemburgietis]]
+- [[objektai/zodynas/suverenitetas suverenumas]]
+- [[objektai/zodynas/suverenumas suverenitetas]]
+- [[objektai/posakiai/„Lietuva be suvereniteto – Lietuva be ateities.“]]
+- [[objektai/paprociai/Konstitucinė tautos teisė priešintis prievarta kėsinantis į valstybės nepriklausomybę]]
+- [[objektai/posakiai/„suverenitetų parado“]]

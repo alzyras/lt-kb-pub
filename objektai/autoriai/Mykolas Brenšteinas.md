@@ -52,3 +52,9 @@ Mykolas Brenšteinas^1 ), remdamasis įvairiomis kroniko­ mis, mano, kad Vytaut
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Artilerija]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Vilnius]]

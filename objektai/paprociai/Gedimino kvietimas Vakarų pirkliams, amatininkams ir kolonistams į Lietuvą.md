@@ -6,6 +6,16 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1323 m.'
+  - '1324 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+date_start: '1323'
+date_end: '1324'
 patikimumas: 'vidutinis'
 tags:
   - kunigaikštis
@@ -42,7 +52,7 @@ Nenurodyta
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Gediminas kūrė stačiatikių metropoliją, ryžosi krikštytis ir įkurti katalikų arkivyskupiją.'
+  teiginys: 'Nepasitikėdami savųjų įgūdžiais, valdovai kvietė pirklius ir amatininkus iš svetur.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -53,6 +63,10 @@ Nenurodyta
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: 'Atsisakęs krikšto, Gediminas neatsisakė tikslo artinti Lietuvą prie Vakarų Europos, kviesdamas vokiečių kolonistus.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -88,3 +102,25 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+- c-003
+  santrauka: 'Atsisakęs krikšto, Gediminas neatsisakė tikslo artinti Lietuvą prie Vakarų Europos, kviesdamas vokiečių kolonistus.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Krikšto atsisakymas nereiškė, kad Gediminas atsisakė ir kito tikslo –
+    priartinti Lietuvą prie Vakarų Europos, kviesdamas atvykti vokiečių ko-
+
+    1 skyrius •  S E N O J I  L I E T U VA
+    33
+    lonistus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/vietos/Lietuva]]

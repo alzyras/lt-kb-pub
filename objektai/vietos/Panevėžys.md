@@ -9,6 +9,7 @@ saltiniai:
 datos:
   - '1918 m.'
   - '1919 m.'
+  - '1935 m.'
   - '1936 m.'
   - '2026 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
@@ -60,6 +61,26 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
     - c-005
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-006
+  teiginys: 'Jos rėmė lenkų pradines mokyklas ir Lietuvos vyriausybės finansiškai remiamas lenkų gimnazijas Kaune, Panevėžyje ir Ukmergėje.'
+  pagrindžia:
+    - c-006
+- t-007
+  teiginys: '1919 m. kovo 19-24 d. jie pasitraukė ir iš Panevėžio.'
+  pagrindžia:
+    - c-007
+- t-008
+  teiginys: 'Tuo tarpu bolševikai reorganizavosi, ir sutelkę didesnes pajėgas, užpuolė Panevėžį.'
+  pagrindžia:
+    - c-008
+- t-009
+  teiginys: '18-19 d. lietuvių lėktuvai bombardavo ir kulkosvaidžiais apšaudė bolševikų pozicijas Panevėžyje ir geležinkelio ruože Panevėžys-Kupiškis, taip sukeldami paniką raudonarmiečių gretose.'
+  pagrindžia:
+    - c-009
+- t-010
+  teiginys: 'BE Bolševikų gynybinės pozicijos iesteliai Panevėžio batalionui 1919 m. kovo 25 d. Panevėžio ir jo apylinkių gyventojų įteikta vėliava.'
+  pagrindžia:
+    - c-010
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -165,10 +186,86 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Jos rėmė lenkų pradines mokyklas ir Lietuvos vyriausybės finansiškai remiamas lenkų gimnazijas Kaune, Panevėžyje ir Ukmergėje.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Jos rėmė lenkų pradines mokyklas ir Lie-
+    tuvos vyriausybės finansiškai remiamas lenkų gimnazijas Kaune, Pane-
+    vėžyje ir Ukmergėje. 1935–1936 mokslo metais veikė apie 30 lenkiškų
+    mokyklų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: '1919 m. kovo 19-24 d. jie pasitraukė ir iš Panevėžio.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    1919 m. kovo 19-24 d. jie pasitraukė ir iš
+    Panevėžio. Mieste 2-3 dienas nebuvo jokios
+    ginkluotos jėgos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: 'Tuo tarpu bolševikai reorganizavosi, ir sutelkę didesnes pajėgas, užpuolė Panevėžį.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Tuo tarpu bolševikai reorganizavosi, ir
+    sutelkę didesnes pajėgas, užpuolė Panevėžį.
+    Mūšis prasidėjo balandžio 3 d.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: '18-19 d. lietuvių lėktuvai bombardavo ir kulkosvaidžiais apšaudė bolševikų pozicijas Panevėžyje ir geležinkelio ruože Panevėžys-Kupiškis, taip sukeldami paniką raudonarmiečių gretose.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    18-19 d. lietuvių lėktuvai bombardavo
+    ir kulkosvaidžiais apšaudė bolševikų po-
+    zicijas Panevėžyje ir geležinkelio ruože
+    Panevėžys-Kupiškis, taip sukeldami paniką
+    raudonarmiečių gretose. Taip pat lėktuvais
+    buvo iš oro žvalgomos priešo pozicijos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: 'BE Bolševikų gynybinės pozicijos iesteliai Panevėžio batalionui 1919 m. kovo 25 d. Panevėžio ir jo apylinkių gyventojų įteikta vėliava.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    BE Bolševikų gynybinės pozicijos
+    iesteliai
+
+    Panevėžio batalionui 1919 m. kovo 25 d. Panevėžio
+    ir jo apylinkių gyventojų įteikta vėliava.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/ivykiai/Antrasis Panevėžio puolimas]]
-- [[objektai/asmenys/J. Variakojis]]
-- [[objektai/vietos/Kėdainiai]]
-- [[objektai/grupes/Lietuvių aviacijos eskadrilė]]
+- [[objektai/grupes/Bolševikai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/vėliava]]

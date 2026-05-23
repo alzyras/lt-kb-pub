@@ -90,3 +90,8 @@ Nenurodyta
 ## Pastabos
 
 - terminas tekste yra ir veiksmo/įrankio vardas, ir bendras žodyninis vienetas, bet čia aiškiai aprašo konkretų pakabinimo daiktą.
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Druska]]
+- [[objektai/zodynas/Gaspadinė|gaspadinė]]

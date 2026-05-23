@@ -43,3 +43,14 @@ Neturėdamos jokio pasirinkimo, trys Baltijos valstybės paruošė neutralumo į
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Baltija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/ivykiai/Lietuvos neutralumo įstatymo ratifikavimas (1939 m. sausio 10 d.)]]
+- [[objektai/ivykiai/Latvijos ir Estijos okupavimas po Lietuvos atkirtimo (1940 m. birželio 16 d.)]]
+- [[objektai/grupes/Rusijos Federacija]]
+- [[objektai/posakiai/geopolitine katastrofa]]

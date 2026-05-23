@@ -44,3 +44,10 @@ Mums nėra reikalo vartoti baltų termino dar ir dėl to, kad juo dažnai pažym
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Estai]]
+- [[objektai/autoriai/K. Būga]]
+- [[objektai/autoriai/K. Jaunius]]
+- [[objektai/grupes/Lietuviai]]

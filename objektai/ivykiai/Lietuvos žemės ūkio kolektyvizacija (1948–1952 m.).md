@@ -50,6 +50,10 @@ Nenurodyta
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Ekonomikos susovietinimas Unifikuodami visų sovietinių respublikų gyvenimą, sovietai atkakliai naikino privatinę nuosavybę visose ekonomikos šakose, tad žemės ūkyje turėjo būti steigiami kolektyviniai ūkiai.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -73,3 +77,27 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Ekonomikos susovietinimas Unifikuodami visų sovietinių respublikų gyvenimą, sovietai atkakliai naikino privatinę nuosavybę visose ekonomikos šakose, tad žemės ūkyje turėjo būti steigiami kolektyviniai ūkiai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Ekonomikos susovietinimas
+    Unifikuodami visų sovietinių respublikų gyvenimą, sovie-
+    tai atkakliai naikino privatinę nuosavybę visose ekonomikos šakose, tad
+    žemės ūkyje turėjo būti steigiami kolektyviniai ūkiai. Tačiau kolektyviza-
+    cija Lietuvoje strigo dėl partizaninio karo. Pagal naują tvarką į valstybinį
+    žemės fondą buvo paimta likusi be šeimininkų, taip pat pasitraukusiųjų
+    į Vakarus ar repatrijavusiųjų į Lenkiją žemė, į žemės fondą taip pat per-
+    duota konfiskuota partizanų ir tremtinių žemė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]

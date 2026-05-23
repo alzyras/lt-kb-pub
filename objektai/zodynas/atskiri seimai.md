@@ -71,3 +71,12 @@ Ypač dažnai būdavo šaukiami atskiri Lietuvos seimai, einant karui su Maskva 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Atskiri Lietuvos seimai]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/zodynas/unija]]

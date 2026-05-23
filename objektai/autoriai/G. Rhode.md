@@ -83,3 +83,10 @@ Rhode : RhOP, 172-206 p.; A. Rhode, G.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/vietos/Tanenbergas]]

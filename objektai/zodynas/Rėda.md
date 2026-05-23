@@ -24,7 +24,7 @@ Vartojamos formos: `ūkės rėdą`, `rėdą`.
 
 ## Teiginiai
 - t-005
-  teiginys: '`Ūkės rėda` šiame tekste reiškia valstybės ar viešojo gyvenimo tvarką.'
+  teiginys: 'Rėda Daukanto tekste žymi tautos ar ūkės tvarką, apie kurią, pasak autoriaus, sunku aiškiai parašyti.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
@@ -51,7 +51,7 @@ Vartojamos formos: `ūkės rėdą`, `rėdą`.
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '`Ūkės rėda` šiame tekste reiškia valstybės ar viešojo gyvenimo tvarką.'
+  santrauka: 'Rėda Daukanto tekste žymi tautos ar ūkės tvarką, apie kurią, pasak autoriaus, sunku aiškiai parašyti.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Tas dar taip pat yra žinomu, jog ne vieni tokie žemės, oro ar jūrų ermyderiai blaškė ir naikino
@@ -111,3 +111,10 @@ Vartojamos formos: `ūkės rėdą`, `rėdą`.
 ## Pastabos
 
 - Formuluotė yra sudėtinė, todėl reikia skaityti kaip konceptą, o ne kaip atskirą daiktavardį be aplinkos. terminas platesnis už vieną modernų atitikmenį; tekste jis apima ir santvarką, ir valdymo būdą, ir visuomenės tvarką.
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/paprociai/Kuopose renkami kunigai ir karo vadai]]
+- [[objektai/zodynas/Žemlionis|žemlionis]]
+- [[objektai/autoriai/S. Daukantas]]

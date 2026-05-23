@@ -54,4 +54,11 @@ S-gą suvaržyti pasižadėjimais saugoti mažumų teises, kaip tat buvo padaryt
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Estija]]
+- [[objektai/vietos/Latvija]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Kauno IX fortas]]
+- [[objektai/ivykiai/Lietuvos priėmimas į Tautų Sąjungą (1921 m. rugsėjo 22 d.)]]
 - [[objektai/grupes/Tautų Sąjungos susirinkimas]]
+- [[objektai/posakiai/„tautinė pagal formą, socialistinė pagal turinį“]]

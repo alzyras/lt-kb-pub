@@ -46,3 +46,8 @@ Dalyva­ vimas valachų Vytauto būriuose leidžia tarti, jog jis Dniepro žemu�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Dniepras]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

@@ -98,4 +98,16 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Kupiškis]]
+- [[objektai/grupes/NKVD]]
+- [[objektai/daiktai/Partizanų bunkeriai]]
+- [[objektai/grupes/Algimanto apygarda]]
+- [[objektai/autoriai/Dalius Žygelis]]
+- [[objektai/vietos/Kiauneliškiai]]
+- [[objektai/vietos/Priepado ežeras]]
+- [[objektai/autoriai/Ričardas Čekutis]]
+- [[objektai/grupes/Rytų Lietuvos sritis]]
 - [[objektai/ivykiai/Šimonių girios apgultis (1949 m.)]]
+- [[objektai/vietos/Kupiškio apskritis]]
+- [[objektai/vietos/Svėdasų valsčius]]
+- [[objektai/vietos/Šimonių giria]]

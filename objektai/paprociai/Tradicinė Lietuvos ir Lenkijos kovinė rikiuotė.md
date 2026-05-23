@@ -48,7 +48,7 @@ Nenurodyta
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-005
-  teiginys: 'XVI a. antrojoje pusėje tarp sunkiosios ir lengvosios kavalerijos pradėti rikiuoti pėstininkai bei artilerija.'
+  teiginys: 'XVI a. antrojoje pusėje pėstininkai ir artilerija pradėti rikiuoti tarp sunkiosios kavalerijos centro ir lengvosios kavalerijos sparnų.'
   pagrindžia:
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -74,7 +74,7 @@ Nenurodyta
   pagrindžia:
     - t-004
 - c-002
-  santrauka: 'XVI a. antrojoje pusėje tarp sunkiosios ir lengvosios kavalerijos pradėti rikiuoti pėstininkai bei artilerija.'
+  santrauka: 'XVI a. antrojoje pusėje pėstininkai ir artilerija pradėti rikiuoti tarp sunkiosios kavalerijos centro ir lengvosios kavalerijos sparnų.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tuo metu pėstininkų ir artilerijos vaidmuo mūšio lauke dar ne-
@@ -91,3 +91,10 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Artilerija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Viena]]
+- [[objektai/vietos/Lenkija]]

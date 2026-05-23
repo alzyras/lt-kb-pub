@@ -48,3 +48,8 @@ Daug painių klausimų Daukantas paliko, kaip jis pats sakosi, « mokytiems vyra
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/autoriai/S. Daukantas]]

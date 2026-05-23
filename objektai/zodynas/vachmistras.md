@@ -46,3 +46,8 @@ Kai jis buvo jau gana toli, lenkų vachmistras išsiskyrė iš žiedo ir ėmė v
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Kardas]]
+- [[objektai/grupes/Lenkai]]

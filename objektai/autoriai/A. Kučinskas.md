@@ -48,10 +48,9 @@ A. Kučinskas 1930 m. kolektyvinėje monografijoje „Vytautas Didysis“ įraš
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-005
-  teiginys: 'Kučinskas, A.'
+  teiginys: 'A. Kučinskas paskelbė straipsnį „Gedimino dinastijos kilmė“ leidinyje „Mūsų Žinymas“.'
   pagrindžia:
     - c-004
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'A. Kučinskas šiame leidinyje įrašytas tarp knygos autorių.'
@@ -94,7 +93,7 @@ A. Kučinskas 1930 m. kolektyvinėje monografijoje „Vytautas Didysis“ įraš
   pagrindžia:
     - t-004
 - c-004
-  santrauka: 'Kučinskas, A.'
+  santrauka: 'A. Kučinskas paskelbė straipsnį „Gedimino dinastijos kilmė“ leidinyje „Mūsų Žinymas“.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     — Kučinskas, A. :

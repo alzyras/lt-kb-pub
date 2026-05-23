@@ -65,5 +65,7 @@ tags:
 - [[temos/ežeras]]
 
 ### Susiję objektai
+- [[objektai/grupes/NKVD]]
+- [[objektai/daiktai/Partizanų bunkeriai]]
 - [[objektai/vietos/Juodelių sodyba]]
 - [[objektai/vietos/Pamaleišio kaimas]]

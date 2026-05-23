@@ -32,6 +32,10 @@ Paszkiewicz, Jagiellonowie a Moskwa, I — Litwa a Moskwa w XIII i XIV wieku (19
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'H. Paszkiewicz parašė veikalą „O genezie i wartości Krewa“.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -57,3 +61,20 @@ Paszkiewicz, Jagiellonowie a Moskwa, I — Litwa a Moskwa w XIII i XIV wieku (19
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'H. Paszkiewicz parašė veikalą „O genezie i wartości Krewa“.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    **
+    (^4) **Plg. H. Paszkiewicz :** **_O genezie i wartości Krewa_** **, 1938, 206 p.**
+
+
+    (^282) ii skyrius: valstybės iškilimas
+    m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

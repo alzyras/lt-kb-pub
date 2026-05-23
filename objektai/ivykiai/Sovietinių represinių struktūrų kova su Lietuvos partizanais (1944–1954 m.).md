@@ -84,6 +84,10 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/NKGB]]
+- [[objektai/grupes/NKVD]]
 - [[objektai/vietos/Sibiras]]
+- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/stribai naikintojų batalionai liaudies gynėjai]]
 - [[objektai/paprociai/Žuvusių partizanų kūnų viešas išniekinimas ir slapti užkasimai]]

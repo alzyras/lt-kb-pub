@@ -77,4 +77,12 @@ Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Starodubas ir Okos paup
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Brianskas]]
+- [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Trubčevskas]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/autoriai/A. Vijūkas Kojelavičius]]
+- [[objektai/ivykiai/Bogdano Chmelnickio vadovaujamas Ukrainos kazokų sukilimas (1648–1651 m.)]]
+- [[objektai/asmenys/Vladislovas Jogailaitis]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/vietos/Okos paupiai]]

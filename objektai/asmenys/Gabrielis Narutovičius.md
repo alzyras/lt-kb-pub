@@ -51,3 +51,10 @@ Pilsudskis, pokario L I E T U V O S I S T O R I J A 132 Lenkijos vadovas, buvo k
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Stanislovas Narutavičius]]

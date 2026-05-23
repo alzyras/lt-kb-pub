@@ -47,3 +47,16 @@ Ten jis žygiavo, norėdamas suvaldyti ne­ paklusnius jam Okos ir Dono aukštup
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/ivykiai/Baro konfederacija (1768–1772 m.)]]
+- [[objektai/grupes/Dono kazokų pulkas]]
+- [[objektai/asmenys/Ivanas Ganeckis]]
+- [[objektai/vietos/Korševas]]
+- [[objektai/grupes/Narvos muškietininkų pulkas]]
+- [[objektai/grupes/Pskovo muškietininkų pulkas]]
+- [[objektai/vietos/Sosnos upė]]
+- [[objektai/ivykiai/Vytauto žygis į Maskvos apylinkes ir Vosyliaus II globos prisiėmimas (1427 m.)]]
+- [[objektai/vietos/Žemutinis Padnieprys]]

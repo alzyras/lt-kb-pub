@@ -62,4 +62,8 @@ Etmonas, iždininkas ir maršalas vakare pasiekė Vilnių, iš visų savo rūmų
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Bauskė]]
-- [[objektai/vietos/Kuršas]]
+- [[objektai/vietos/Druja]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/grupes/Sapiegų kariuomenė]]
+- [[objektai/vietos/Jelgava]]
+- [[objektai/asmenys/P. Bermontas-Avalovas]]

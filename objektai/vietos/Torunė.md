@@ -56,4 +56,17 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Kulmas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Prūsija]]
+- [[objektai/vietos/Vokietija]]
+- [[objektai/vietos/Vysla]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/ivykiai/Derybos Salyne su Vokiečių ordinu]]
+- [[objektai/posakiai/Iki gyvos Vytauto ir Jogailos galvos]]
+- [[objektai/asmenys/Konradas]]
 - [[objektai/vietos/Kulmo žemė]]
+- [[objektai/vietos/Veliuonos pilis]]
+- [[objektai/posakiai/„Jūs norite man išplėšti tėvų palikimą...“]]
+- [[objektai/posakiai/„iki gyvos galvos“]]

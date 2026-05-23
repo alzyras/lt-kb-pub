@@ -12,13 +12,14 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1230 m.'
+  - '1236 m.'
 periodas: 'viduramžiai'
 periodo_grupes:
   - 'viduramžiai'
 amziai:
   - 'XIII'
 date_start: '1230'
-date_end: ''
+date_end: '1236'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -38,9 +39,13 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Mozūrų kunigaikštis Konradas ir pirmasis prū­ sų vyskupas misionorius Kristijonas, negalėdami apsiginti nuo prūsų puolimų, atsikviečia pagalbon darbo nebeturintį vokie­ čių „Mergelės Marijos” Ordiną, kuris dėl ant apsiaustų nešio­ jamų kryžių paprastai.'
+  teiginys: '1230 m. Mozūrų kunigaikštis Konradas ir vyskupas Kristijonas pasikvietė į pagalbą vokiečių Mergelės Marijos ordiną.'
   pagrindžia:
     - c-006
+- t-003
+  teiginys: 'Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kunigaikštis Konradas 1230 m. pakvietė kurtis Kulmo žemėje prie Vyslos Vokiečių ordino riterius (kryžiuočius).'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 - c-005
@@ -62,7 +67,7 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
   pagrindžia:
     - t-001
 - c-006
-  santrauka: 'Mozūrų kunigaikštis Konradas ir pirmasis prū­ sų vyskupas misionorius Kristijonas, negalėdami apsiginti nuo prūsų puolimų, atsikviečia pagalbon darbo nebeturintį vokie­ čių „Mergelės Marijos” Ordiną, kuris dėl ant apsiaustų nešio­ jamų kryžių paprastai.'
+  santrauka: '1230 m. Mozūrų kunigaikštis Konradas ir vyskupas Kristijonas pasikvietė į pagalbą vokiečių Mergelės Marijos ordiną.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     1230 met. Mozūrų kunigaikštis Konradas ir pirmasis prū­
@@ -79,3 +84,28 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-007
+  santrauka: 'Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kunigaikštis Konradas 1230 m. pakvietė kurtis Kulmo žemėje prie Vyslos Vokiečių ordino riterius (kryžiuočius).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kovodamas
+    prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kunigaikštis
+    Konradas 1230 m. pakvietė kurtis Kulmo žemėje prie Vyslos Vokiečių
+    ordino riterius (kryžiuočius). Ši fatališka klaida daug kainuos lenkams
+    ir lietuviams – Ordinas pajungė prūsus, o 1236 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Kulmas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Mozūrija]]
+- [[objektai/vietos/Vysla]]
+- [[objektai/zodynas/pagonybė]]

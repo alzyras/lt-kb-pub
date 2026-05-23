@@ -62,6 +62,10 @@ Terminas pasitelkiamas Stryjkovskio epochos ribai parodyti ir Daukanto poveikiui
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: 'Stryjkovskis ne­ galėjo savo veikale nė iš tolo apreikšti tautinės sąmonės, kuri teišsivystė XIX amžiuje.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -104,10 +108,29 @@ Terminas pasitelkiamas Stryjkovskio epochos ribai parodyti ir Daukanto poveikiui
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+- c-003
+  santrauka: 'Stryjkovskis ne­ galėjo savo veikale nė iš tolo apreikšti tautinės sąmonės, kuri teišsivystė XIX amžiuje.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Stryjkovskis ne­
+    galėjo savo veikale nė iš tolo apreikšti tautinės sąmonės, kuri
+    teišsivystė XIX amžiuje. Nuo 1578 metų gyvendamas Varniuose
+    pas didelį patriotą, Medininkų vyskupą Merkelį Giedraitį, kuris
+    Stryjkovskį padarė savo kapitulos kanauninku, šis « Lietuvos Hero­
+    dotas »^20 nuoširdžiai persiėmė Lietuvos reikalais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/istorinė-sąvoka]]
 
 ### Susiję objektai
-- [[objektai/zodynas/tautinis atgimimas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/kapitula]]
+- [[objektai/posakiai/vardan tos Lietuvos]]

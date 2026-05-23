@@ -116,5 +116,14 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/ivykiai/Karšuvos nuniokojimas ir Skronaičių bei Bebirvaičių pilių sudeginimas (1307 m.)]]
+- [[objektai/vietos/Aukaimis]]
+- [[objektai/vietos/Karšuvos sritis]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Putvė]]
+- [[objektai/vietos/Ragainė]]
+- [[objektai/zodynas/komtūras]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/ivykiai/Durbės mūšis (1260 m.)]]
+- [[objektai/asmenys/Jonas Liuksemburgietis]]
+- [[objektai/ivykiai/Karšuvos nuniokojimas ir Skronaičių bei Bebirvaičių pilių sudeginimas (1307 m.)]]
+- [[objektai/zodynas/dykra]]

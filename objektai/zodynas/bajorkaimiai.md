@@ -26,7 +26,7 @@ Normanų įtakos pėdsakų reikią ieškoti Lietuvos bajorkaimiuose — okolicos
 
 ## Teiginiai
 - t-001
-  teiginys: 'Normanų įtakos pėdsakų reikią ieškoti Lietuvos bajorkaimiuose — okolicose (Essen), net vietovardžiuose ir asmenvardžiuose.'
+  teiginys: 'Normanų įtakos pėdsakų Lietuvos bajorkaimiuose, okolicose, dar reikėjo gilesnio mokslinio pagrindimo.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -34,7 +34,7 @@ Normanų įtakos pėdsakų reikią ieškoti Lietuvos bajorkaimiuose — okolicos
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Normanų įtakos pėdsakų reikią ieškoti Lietuvos bajorkaimiuose — okolicose (Essen), net vietovardžiuose ir asmenvardžiuose.'
+  santrauka: 'Normanų įtakos pėdsakų Lietuvos bajorkaimiuose, okolicose, dar reikėjo gilesnio mokslinio pagrindimo.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Normanų įtakos pėdsakų reikią ieškoti
@@ -50,3 +50,9 @@ Normanų įtakos pėdsakų reikią ieškoti Lietuvos bajorkaimiuose — okolicos
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Skandinavija]]

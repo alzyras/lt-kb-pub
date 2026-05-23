@@ -49,3 +49,8 @@ p. dalys, turinčios apsaugoti divizijos vadovybe ir sustiprinti kitus pulkus.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Ukmergė]]
+- [[objektai/zodynas/flangas]]

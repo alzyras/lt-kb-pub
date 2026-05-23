@@ -60,5 +60,15 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Ariogala]]
+- [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
+- [[objektai/autoriai/Maironis]]
 - [[objektai/vietos/Daugėliškių miškas]]
+- [[objektai/vietos/Gaižuva]]
+- [[objektai/ivykiai/Gaižuvos ir Pačtuvos sričių nusiaubimas (1292 ir 1294 m.)]]
+- [[objektai/ivykiai/Junigėdos, Peštvės ir Pograudos kampanija (1293 m.)]]
+- [[objektai/vietos/Kymel]]
+- [[objektai/ivykiai/Kymel pilies sunaikinimas (1295 m.)]]
 - [[objektai/vietos/Lesčiai]]
+- [[objektai/vietos/Pačtuva]]
+- [[objektai/vietos/Peštvė]]

@@ -85,3 +85,15 @@ LDK didysis etmonas pasiuntė keletą lengvosios kavalerijos - „lisovčikų“
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Janičarai]]
+- [[objektai/grupes/Kazokai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Prancūzija]]
+- [[objektai/vietos/Ukraina]]
+- [[objektai/zodynas/etmonas]]
+- [[objektai/zodynas/flangas]]
+- [[objektai/zodynas/hetmonas]]
+- [[objektai/zodynas/lengvoji kavalerija]]

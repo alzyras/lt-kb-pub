@@ -53,4 +53,7 @@ Drauge su rusais tada lietuviai vėl puolė Sandomieriaus ir Liublino žemes, o 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Kujavija]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Liublinas]]
 - [[objektai/vietos/Sandomierius]]

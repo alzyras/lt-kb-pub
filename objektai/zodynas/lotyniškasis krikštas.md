@@ -68,6 +68,10 @@ Terminas vartojamas aiškinant Lietuvos posūkį į Vakarų Europą ir oficialų
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: 'Į kai­ myninę Lenkiją užkuriom nueinant Lietuvos valdovui, vėl valsty­ binėje plotmėje buvo atnaujintas lotyniškasis krikštas, nuošaliapaliekant oficialųjį krikštytoją kryžiuočių ordiną, atstovavusį gin­ kluotai « misijų teorijai ».'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -111,7 +115,29 @@ Terminas vartojamas aiškinant Lietuvos posūkį į Vakarų Europą ir oficialų
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
+- c-003
+  santrauka: 'Į kai­ myninę Lenkiją užkuriom nueinant Lietuvos valdovui, vėl valsty­ binėje plotmėje buvo atnaujintas lotyniškasis krikštas, nuošaliapaliekant oficialųjį krikštytoją kryžiuočių ordiną, atstovavusį gin­ kluotai « misijų teorijai ».'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Į kai­
+    myninę Lenkiją užkuriom nueinant Lietuvos valdovui, vėl valsty­
+    binėje plotmėje buvo atnaujintas lotyniškasis krikštas, nuošalia-
+    paliekant oficialųjį krikštytoją kryžiuočių ordiną, atstovavusį gin­
+    kluotai « misijų teorijai ». Pagaliau pasibaigus karams su kryžiuo­
+    čiais (1422 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/religinis-terminas]]
+
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]

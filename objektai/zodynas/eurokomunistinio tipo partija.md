@@ -41,3 +41,9 @@ Taip atsirado nacionalinė eurokomunistinio tipo partija, turinti reformuotą pr
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/statutas]]
+- [[objektai/grupes/Sovietų Sąjungos komunistų partija]]

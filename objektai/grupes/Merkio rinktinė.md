@@ -48,3 +48,11 @@ Po kelių mėnesių Ramanauskas-Vanagas buvo pakeltas į Merkio rinktinės vado 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Dainava]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Merkinė]]
+- [[objektai/grupes/Pietų Lietuvos (Nemuno) sritis]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

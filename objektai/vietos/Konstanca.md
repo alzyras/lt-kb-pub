@@ -96,3 +96,20 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Jonas XXIII]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/vietos/Bazelis]]
+- [[objektai/asmenys/Dlugošas]]
+- [[objektai/asmenys/Gr. Camblakas]]
+- [[objektai/asmenys/Jurgis Galminas]]
+- [[objektai/asmenys/Jurgis Gedgaudas]]
+- [[objektai/asmenys/Mikalojus Sepienskis]]
+- [[objektai/posakiai/Vakkis Ahridlis]]
+- [[objektai/paprociai/Vytauto ir Jogailos bendro veikimo praktika po Astravo taikos]]
+- [[objektai/posakiai/sicut anguillam per caudam]]
+- [[objektai/posakiai/Žemaičių skundas]]
+- [[objektai/autoriai/K. Springmann]]
+- [[objektai/autoriai/Springmann, K]]

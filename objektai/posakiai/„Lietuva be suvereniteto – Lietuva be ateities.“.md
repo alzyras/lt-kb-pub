@@ -50,4 +50,6 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/Suverenitetas]]
 - [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]

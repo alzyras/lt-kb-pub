@@ -86,3 +86,8 @@ Tik vienas Šernas savo „Lietuviškoje Ceitungoje" buvo pradėjęs spausdinti 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/redaktorius]]
+
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Šerno rinktinė]]

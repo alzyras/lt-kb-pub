@@ -66,3 +66,7 @@ Vartojamos formos: `viežlybumą`, `viežlybai`, `viežlybos`.
 ## Pastabos
 
 - Žodis turi ir moralės, ir buities tvarkos niuansą.
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/paprociai/Lyčių pasiskirstymas ūkio ir namų darbuose]]

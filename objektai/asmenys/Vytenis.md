@@ -45,6 +45,10 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   teiginys: 'Liutavėro sūnus karingas Vytenis, pirmasis jau gana ge­ rai žinomas naujos ilgai Lietuvą valdžiusios dinastijos atsto­ vas.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Dinastijai vardą davė garsiausias jos atstovas – Vytenio brolis Gediminas (valdęs 1316–1341 m.).'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -101,3 +105,34 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Dinastijai vardą davė garsiausias jos atstovas – Vytenio brolis Gediminas (valdęs 1316–1341 m.).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Dinastijai vardą davė garsiausias jos atstovas – Vytenio brolis Gedimi-
+    nas (valdęs 1316–1341 m.). Gediminas nebuvo pirmas šios dinastijos atsto-
+    vas, tačiau būtent jis istoriniu vaidmeniu užgožė savo pirmtakus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/vietos/Drohičinas]]
+- [[objektai/autoriai/Dusburgas]]
+- [[objektai/ivykiai/Junigėdos puolimas laivu ir Surmino kontrataka (1313 m.)]]
+- [[objektai/posakiai/Lietuva, sako Gediminas, nekariaujanti su krikščionybe ji teginanti savo laisvę|Lietuva, sako Gediminas, nekariaujanti su krikščionybe: ji teginanti savo laisvę]]
+- [[objektai/posakiai/Lietuvos karaliaus sūnus]]
+- [[objektai/vietos/Palenkė]]
+- [[objektai/vietos/Polockas]]
+- [[objektai/ivykiai/Polocko užvaldymas ir Naugarduko metropolijos įkūrimas (apie 1300 m.)]]
+- [[objektai/ivykiai/Ragainės pilies puolimas ir Christmemelio apgultis (1315 m.)]]
+- [[objektai/ivykiai/Vytenio žygis į Sembą, Natangą ir Varmę bei pralaimėjimas Woplaukene (1311 m.)]]
+- [[objektai/zodynas/ekspansija]]
+- [[objektai/zodynas/tautiška politika]]
+- [[objektai/posakiai/„Lietuvos karaliaus sūnus“]]

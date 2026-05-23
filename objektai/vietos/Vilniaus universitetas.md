@@ -6,6 +6,12 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - kraštas
@@ -37,6 +43,10 @@ Kuriamam Vilniaus universitetui jėzuitai kėlė didelius tikslus – skleisti m
     - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: 'Šiauriausias katalikiškas ir ryčiausias Europos universitetas – tai svarbiausia senojo jėzuitų universiteto reikšmė.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -80,7 +90,26 @@ Kuriamam Vilniaus universitetui jėzuitai kėlė didelius tikslus – skleisti m
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Šiauriausias katalikiškas ir ryčiausias Europos universitetas – tai svarbiausia senojo jėzuitų universiteto reikšmė.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Šiauriausias katali-
+    kiškas ir ryčiausias Europos universitetas – tai svarbiausia senojo jėzuitų
+    universiteto reikšmė.
+    Ryčiausia ir šiauriausia Europoje
+    baroko architektūra
+    Baroko sąvoka, kaip minėjome, atėjusi iš meno, ypač iš ar-
+    chitektūros, istorijos, o pats žodis „barokas“ siejamas su isp.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Vidurio Europa]]
+- [[objektai/vietos/Europa]]
+- [[objektai/zodynas/barokas]]

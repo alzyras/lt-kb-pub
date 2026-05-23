@@ -51,3 +51,16 @@ Radvila, kaip Brandenburgo elektoriaus ministeris, oficialiai rėmė imperatoria
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Pacai]]
+- [[objektai/asmenys/Henrikas von Plauenas]]
+- [[objektai/grupes/Karalaičio Jokūbo partija]]
+- [[objektai/asmenys/Karolis VI]]
+- [[objektai/ivykiai/Sutartis su Fridriku Brandenburgiečiu ir Jadvygos sužieduotuvės (1420–1421 m.)]]
+- [[objektai/asmenys/Vaclovas Čekietis]]
+- [[objektai/zodynas/ciesorius]]
+- [[objektai/zodynas/investitūra]]
+- [[objektai/vietos/Brandenburgas]]

@@ -95,3 +95,8 @@ Nenurodyta
 ## Pastabos
 
 - terminas sutampa su žodyno vartosena, bet šiame gabale aiškiai kalbama apie konkretų gyvulių pastatą.
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Namas]]
+- [[objektai/zodynas/Adynos|adynos]]

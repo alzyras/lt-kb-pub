@@ -72,3 +72,14 @@ Ilgainiui lietuvius Vokiečių ordino valstybėje (vėliau pasivadinusioje Prūs
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Dancigas]]
+- [[objektai/vietos/Gdanskas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Prūsija]]
+- [[objektai/vietos/Vokietija]]
+- [[objektai/zodynas/dykra]]
+- [[objektai/ivykiai/Versalio taikos konferencijos sprendimas dėl Klaipėdos krašto (1919 m.)]]
+- [[objektai/zodynas/Klaipėdiškiai]]

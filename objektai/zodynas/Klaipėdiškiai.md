@@ -45,4 +45,9 @@ Svarbiausia, kad Lietuva dėl sudėtingų socialinių, politinių tradicijų ir 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Silezija]]
+- [[objektai/zodynas/seimelis]]
+- [[objektai/zodynas/lietuvininkai]]
 - [[objektai/zodynas/klaipėdiečiai klaipėdiškiai]]

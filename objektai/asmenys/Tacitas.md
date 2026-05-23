@@ -38,3 +38,7 @@ Taigi nuo Tacito aisčių paminėjimo beveik tūkstantį metų reikės laukti Li
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]

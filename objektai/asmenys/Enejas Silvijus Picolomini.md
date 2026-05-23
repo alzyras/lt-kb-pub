@@ -53,3 +53,8 @@ Krašto viduje jis tapo absoliutišku valdovu, kurio supykinti bijodami valdinia
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Europa]]
+- [[objektai/vietos/Maskva]]

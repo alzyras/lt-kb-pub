@@ -56,3 +56,8 @@ kad net popiežiaus atstovas (nuncijas) buvo išprašytas iš Lietuvos (1931 m. 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/vietos/Lietuva]]

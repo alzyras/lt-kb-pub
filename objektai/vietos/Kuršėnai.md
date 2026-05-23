@@ -98,5 +98,8 @@ Tada Kuršėnuose įvyko paskutinis vadų pasitarimas, kur pasirodė didžiausia
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/ivykiai/Bermontininkų įsiveržimas į Lietuvą (1919 m. liepos 26 d.)]]
+- [[objektai/grupes/Virgoličiaus rinktinė]]
 - [[objektai/asmenys/Virgoličius]]
+- [[objektai/vietos/Šiauliai]]
+- [[objektai/grupes/Bermontininkai]]
+- [[objektai/ivykiai/Bermontininkų įsiveržimas į Lietuvą (1919 m. liepos 26 d.)]]

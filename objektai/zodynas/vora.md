@@ -58,3 +58,13 @@ Viduriniajai vorai po atkaklių kautynių pavyko užimti Užkalnius, Ėriškėli
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Aukštadvaris]]
+- [[objektai/grupes/Aukščiausioji Taryba]]
+- [[objektai/vietos/Barklainiai]]
+- [[objektai/asmenys/J. Mikoliūnas]]
+- [[objektai/asmenys/K. Dragunevičius]]
+- [[objektai/vietos/Radikoniai]]
+- [[objektai/vietos/Užkalniai]]

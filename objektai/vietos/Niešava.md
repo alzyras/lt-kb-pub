@@ -79,4 +79,12 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Livonija]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/vietos/Fogelzango pilis]]
+- [[objektai/ivykiai/Kryžiuočių ordino atsikraustymas į Prūsus]]
+- [[objektai/vietos/Niešavos kraštas]]
+- [[objektai/zodynas/tranzitas]]
 - [[objektai/ivykiai/Niešavo prekybos sutartis („über transitus“) (1424 m.)]]

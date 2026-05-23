@@ -6,6 +6,12 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - grupe
@@ -25,6 +31,10 @@ Vilniuje 1907 m. buvo įkurta Lietuvių Mokslo Draugija, kuri pasiryžo tirti li
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Lietuviai pirmieji Vilniuje įkūrė Lietuvių dailės draugiją, pradėjo rengti viešas dailės parodas, bet netrukus tie vietiniai dailininkai, kurie nenorėjo tapatintis su etninių lietuvių tautinio sąjūdžio tikslais, įkūrė atskirą Vilniaus dailės draugiją.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -45,3 +55,28 @@ Vilniuje 1907 m. buvo įkurta Lietuvių Mokslo Draugija, kuri pasiryžo tirti li
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Lietuviai pirmieji Vilniuje įkūrė Lietuvių dailės draugiją, pradėjo rengti viešas dailės parodas, bet netrukus tie vietiniai dailininkai, kurie nenorėjo tapatintis su etninių lietuvių tautinio sąjūdžio tikslais, įkūrė atskirą Vilniaus dailės draugiją.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuviai pirmieji Vilniuje
+    įkūrė Lietuvių dailės draugiją, pra-
+    dėjo rengti viešas dailės parodas,
+    bet netrukus tie vietiniai dailininkai, kurie nenorėjo tapatintis su etninių
+    lietuvių tautinio sąjūdžio tikslais, įkūrė atskirą Vilniaus dailės draugiją. Kai
+    kas nelengvai apsispręsdavo, kuriai draugijai priklausyti, nors nebuvo drau-
+    džiama priklausyti ir abiem tuo pat metu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/grupes/Rytas]]
+- [[objektai/grupes/Žiburys]]

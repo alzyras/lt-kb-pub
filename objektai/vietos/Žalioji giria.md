@@ -41,7 +41,7 @@ tags: []
 
 ## Teiginiai
 - t-004
-  teiginys: 'Žalioji giria yra viena iš dviejų didžiųjų girijų šiame geografiniame aprašyme.'
+  teiginys: 'Žalioji giria dengė vakarinę daugiau kaip šimtą mylių į rytus ir vakarus nusidriekusios kalvos pusę.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
@@ -61,7 +61,7 @@ tags: []
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Žalioji giria yra viena iš dviejų didžiųjų girijų šiame geografiniame aprašyme.'
+  santrauka: 'Žalioji giria dengė vakarinę daugiau kaip šimtą mylių į rytus ir vakarus nusidriekusios kalvos pusę.'
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
   citata_originali: |
     Reikia žinoti, jog tame pasaulio sluoksny, einančiame nuo šiaurės Uksinių pamarių iki Žemaičių pajūrių, it^74 vidury yra kalva, daugiau nei per šimtą mylių tęsiantis į
@@ -110,4 +110,15 @@ tags: []
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/vietos/Isteris]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Palanga]]
+- [[objektai/zodynas/Dabą|dabą]]
+- [[objektai/zodynas/Įšleitė|įšleitė]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/asmenys/A. Šulskis-Šulas]]
+- [[objektai/ivykiai/Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)]]
+- [[objektai/grupes/Jotvingai]]
+- [[objektai/paprociai/Karinės gynybos tvarka deginant namus ir slepiant šeimą giriose]]
+- [[objektai/grupes/NKVD vidaus kariuomenės 4-osios gen. maj. Vetrovo divizijos 261-asis šaulių pulkas]]

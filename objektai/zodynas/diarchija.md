@@ -53,6 +53,10 @@ tags: []
   teiginys: 'Lietuvos žemių dviejų kunigaikščių valdymas istorikų vadintas dualizmu arba diarchija ir nežuvo po Algirdo mirties 1377 m.'
   pagrindžia:
     - c-004
+- t-007
+  teiginys: 'Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti visus jai būdingus požymius, kaip antai: diarchija, ankstyvasis feodalizmas – ankstyvieji dvarai, Lietuvoje vadinti „kiemais“.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -121,8 +125,30 @@ tags: []
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-005
+  santrauka: 'Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti visus jai būdingus požymius, kaip antai: diarchija, ankstyvasis feodalizmas – ankstyvieji dvarai, Lietuvoje vadinti „kiemais“.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Valdant
+    Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti
+    visus jai būdingus požymius, kaip antai: diarchija, ankstyvasis feodaliz-
+    mas – ankstyvieji dvarai, Lietuvoje vadinti „kiemais“. Lietuva tuo metu jau
+    turėjo sostinę, nuo Gedimino prasidėjo sosto paveldėjimo tradicija, mūro
+    civilizacijos ištakos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/Diarchijos sistema]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/zodynas/supremus dux magnus dux]]
+- [[objektai/zodynas/feodalizmas]]
+- [[objektai/zodynas/ankstyvoji monarchija karinė monarchija]]

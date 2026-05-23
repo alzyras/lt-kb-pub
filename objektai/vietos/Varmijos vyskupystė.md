@@ -76,4 +76,15 @@ Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbin
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Dancigas]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Marijenburgas]]
+- [[objektai/vietos/Torne]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/vasalas]]
+- [[objektai/zodynas/vyskupystė]]
 - [[objektai/vietos/Braunsbergas]]
+- [[objektai/vietos/Torno]]
+- [[objektai/ivykiai/Torno taika (1411 m.)]]
+- [[objektai/vietos/Elbingas]]

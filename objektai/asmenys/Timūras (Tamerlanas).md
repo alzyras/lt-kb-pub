@@ -57,3 +57,17 @@ pradžioje pralaimėjimai įsiveržusio Timūro (Tamerlano) mongolų kariuomenei
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Afrika]]
+- [[objektai/vietos/Bizantija]]
+- [[objektai/vietos/Europa]]
+- [[objektai/vietos/Kosovas]]
+- [[objektai/ivykiai/Mongolų (totorių) invazija (1237-1240 m.)]]
+- [[objektai/zodynas/ekspansija]]
+- [[objektai/asmenys/Glebas (Smolensko kunigaikštis)]]
+- [[objektai/asmenys/Jagurčinas]]
+- [[objektai/asmenys/Mengu Timūras]]
+- [[objektai/asmenys/Olegas (Romano sūnus)]]
+- [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]

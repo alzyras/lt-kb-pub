@@ -91,6 +91,14 @@ Nenurodyta.
   teiginys: 'Vytautas tą savos metropolijos svarbą suprato labai gerai ir po visokių pertraktacijų su Maskva, nepajėgęs kaip reikiant išrišti klausimo susitarimu, pasekė Algirdu, ir nebodamas patriarcho priešinimosi 1415 met.'
   pagrindžia:
     - c-003
+- t-012
+  teiginys: 'Lietuvos metropolijos Gediminui nepasisekė išlai­ kyti dėl priešiško nusistatymo Maskvos žemėse gyvenančio Kijevo metropolito Teognosto.'
+  pagrindžia:
+    - c-004
+- t-013
+  teiginys: 'Iš vis labiau silpnėjančio Kijevo metropolijos rezidencijos perkėlimas į Vladimirą (prie Kliazmos) Maskvos žemėse (tai atliko 1300 m. metropolitas Maksimas), Lietuvos valstybingumui stačia­ tikių plotuose augino rimtą pavojų.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -148,6 +156,40 @@ Nenurodyta.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-011
+- c-004
+  santrauka: 'Lietuvos metropolijos Gediminui nepasisekė išlai­ kyti dėl priešiško nusistatymo Maskvos žemėse gyvenančio Kijevo metropolito Teognosto.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Lietuvos metropolijos Gediminui nepasisekė išlai­
+    kyti dėl priešiško nusistatymo Maskvos žemėse gyvenančio Kijevo
+    metropolito Teognosto. Šio intrygų ir sudarytų kliūčių siūlai vedė
+    į Maskvą.
+    Tinkamai nesutvarkytas Lietuvos rytinių žemių bažnytinis
+    priklausomumas prie Gedimino įpėdinių sudarė valstybei įvairių
+    rūpesčių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+- c-005
+  santrauka: 'Iš vis labiau silpnėjančio Kijevo metropolijos rezidencijos perkėlimas į Vladimirą (prie Kliazmos) Maskvos žemėse (tai atliko 1300 m. metropolitas Maksimas), Lietuvos valstybingumui stačia­ tikių plotuose augino rimtą pavojų.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Iš vis labiau silpnėjančio Kijevo metropolijos rezidencijos
+    perkėlimas į Vladimirą (prie Kliazmos) Maskvos žemėse (tai atliko
+    1300 m. metropolitas Maksimas), Lietuvos valstybingumui stačia­
+    tikių plotuose augino rimtą pavojų. Tik Algirdui vėl pasisekė (1353)
+    šimtui metų laimėti atskirus metropolitus Lietuvai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
 
 ## Pastabos
 
@@ -156,3 +198,26 @@ Nenurodyta.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/metropolitas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/vietos/Kijevas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/asmenys/Bžostovskis (Vilniaus vyskupas)]]
+- [[objektai/vietos/Cholmas]]
+- [[objektai/ivykiai/Florencijos bažnytinė unija]]
+- [[objektai/autoriai/Grigorijus Camblakas]]
+- [[objektai/asmenys/Jurgis Cemblakas]]
+- [[objektai/grupes/Katalikų Bažnyčia]]
+- [[objektai/grupes/Lietuvos stačiatikiai]]
+- [[objektai/vietos/Lvovas]]
+- [[objektai/ivykiai/Naugarduko susirinkimas (1415 m.)]]
+- [[objektai/grupes/Stačiatikiai]]
+- [[objektai/asmenys/Teofilis (arkivyskupas)]]
+- [[objektai/vietos/Vladimiras (prie Kliazmos)]]
+- [[objektai/zodynas/bažnytinė provincija]]
+- [[objektai/zodynas/daugiakonfesiškumas]]
+- [[objektai/zodynas/daugiakonfesiškumas daugiakultūriškumas]]
+- [[objektai/zodynas/metropolija bažnytinė provincija]]
+- [[objektai/zodynas/metropolija bažnytinė provincija bažnytinė unija]]
+- [[objektai/posakiai/„didžiausią Europoje tolerancijos uostą“ „Europos tolerancijos lopšys“]]

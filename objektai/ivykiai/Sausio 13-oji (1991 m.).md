@@ -57,6 +57,14 @@ Nenurodyta
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Sausio 13-ąją Lietuvos AT-AS kreipėsi į visus SSRS žmones primindamas, kad Lietuvos įvykiai yra ir jų tragedija, raginta daryti viską, kad ši sovietų kariuomenės agresija būtų sustabdyta.'
+  pagrindžia:
+    - c-002
+- t-003
+  teiginys: 'Laidojant sausio 13-osios aukas, solidarumo su Lietuva varpai skambėjo Latvijoje, Estijoje, Suomijoje, Švedijoje, Norvegijoje ir kitose Europos šalyse.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -79,7 +87,67 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Sausio 13-ąją Lietuvos AT-AS kreipėsi į visus SSRS žmones primindamas, kad Lietuvos įvykiai yra ir jų tragedija, raginta daryti viską, kad ši sovietų kariuomenės agresija būtų sustabdyta.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Sausio 13-ąją Lietuvos AT-AS kreipėsi į visus SSRS žmones primin-
+    damas, kad Lietuvos įvykiai yra ir jų tragedija, raginta daryti viską, kad
+    ši sovietų kariuomenės agresija būtų sustabdyta. Kitaip nei 1940 m.,
+    kai tauta nieko nežinojo apie kylančią grėsmę nepriklausomybei, žmo-
+    nės buvo informuojami, kviečiami ginti savo valstybę. 1991 m. sausio
+    13 d. valstybės vadovas V. Landsbergis, kreipdamasis į susirinkusius prie
+    parlamento, ragino užslopinti pyktį, nepasiduoti provokacijoms ir...
+    Vilniaus televizijos bokšto šturmas – sovietų tankų
+    vikšrai traiško taikius gynėjus
+
+    L I E T U V O S  I S T O R I J A
+    246
+    dainuoti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+- c-003
+  santrauka: 'Laidojant sausio 13-osios aukas, solidarumo su Lietuva varpai skambėjo Latvijoje, Estijoje, Suomijoje, Švedijoje, Norvegijoje ir kitose Europos šalyse.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    “
+    Įvykiai prie televizijos bokšto sukrėtė visą Lietuvą ir nuskambėjo po
+    visą pasaulį. Laidojant sausio 13-osios aukas, solidarumo su Lietuva
+    varpai skambėjo Latvijoje, Estijoje, Suomijoje, Švedijoje, Norvegijoje ir
+    kitose Europos šalyse. Šv. Mišios už Lietuvą buvo aukojamos Paryžiaus
+    Dievo Motinos katedroje ir daugelyje pasaulio bažnyčių. Po 1991 m. sau-
+    sio 13-osios įvykių į Vilnių atvykusi akademiko A. Sacharovo žmona ir
+    bendražygė Jelena Boner (Jelena Bonner) mitinge kalbėjo, jog iš lietuvių
+    mokosi Rusijos ir kitų respublikų demokratai. 1991 m. kovą daugiau nei
+    200 tūkst. demonstracijoje dalyvavusių maskviečių skandavo šūkius „Ša-
+    lin rankas nuo Lietuvos“, „Gorbačiovai, atsistatydink!“
+    Lietuvos gyventojai, tragiškomis dienomis ištisas paras budėję prie
+    tautos širdies – Lietuvos parlamento, – sugebėjo atsilaikyti prieš ginkluo-
+    tą jėgą, taikiomis priemonėmis sustabdė beįsibėgėjančią sovietų agresiją.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Europa]]
+- [[objektai/asmenys/Jelena Boner]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Norvegija]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/SSRS]]
+- [[objektai/daiktai/Varpai]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/autoriai/Švedas V]]
 - [[objektai/ivykiai/Sausio 13-oji ir Vilniaus televizijos bokšto šturmas (1991 m. sausio 12–13 d.)]]

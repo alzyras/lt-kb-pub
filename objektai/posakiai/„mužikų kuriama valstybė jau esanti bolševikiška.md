@@ -47,3 +47,11 @@ O iš Lietuvos pabėgę dvarininkai šaukte šaukė, kad „mužikų" kuriama va
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Europa]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Prancūzija]]
+- [[objektai/vietos/Vokietija]]

@@ -81,4 +81,5 @@ Nenurodyta
 - [[temos/didikas]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Kazimieras]]
 - [[objektai/zodynas/luominė diferenciacija]]

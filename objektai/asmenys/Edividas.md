@@ -55,3 +55,14 @@ Tuo pat metu Lietuvos valdžia plito ir Baltojoj Rusijoj. Polocke įsigyveno Min
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/vietos/Polockas]]
+- [[objektai/vietos/Vitebskas]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/asmenys/Vikintas]]

@@ -61,3 +61,17 @@ GariavaO p 2 KAISADORYS Riešė pyp AL Naručio apylinkėse puolė dvi partizan�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Giedraičiai]]
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Labanoras]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Pagaigalė]]
+- [[objektai/grupes/Prisikėlimo apygarda]]
+- [[objektai/grupes/Vytauto apygarda]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/vietos/Žiežmariai]]
+- [[objektai/vietos/Kiauneliškio geležinkelio stotis]]
+- [[objektai/vietos/Labanoro giria]]

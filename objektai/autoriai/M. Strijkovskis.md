@@ -158,4 +158,14 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Brianskas]]
+- [[objektai/vietos/Dniepras]]
+- [[objektai/vietos/Irpenė]]
+- [[objektai/vietos/Kijevas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/vietos/Tverė]]
+- [[objektai/zodynas/žygis]]

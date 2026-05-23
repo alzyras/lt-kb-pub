@@ -67,3 +67,12 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/paprociai/Bičiulystė ir bitininkystė]]
+- [[objektai/autoriai/M. Liubavskij]]
+- [[objektai/daiktai/Mira]]
+- [[objektai/grupes/Rygiečiai]]
+- [[objektai/ivykiai/Rygos pirklių prekybos teisė Lietuvoje (1253 m.)]]

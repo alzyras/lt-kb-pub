@@ -34,6 +34,10 @@ kairiajame Dauguvos vidurupio krante, siekdami dabartines Utenos ir Zarasų apsk
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir žemaičių, gyveno kuršiai, kairiajame Dauguvos žemupio krante — žiemgaliai, kairiajame Dauguvos vidurupio krante, siekdami dabartines Utenos ir Zarasų apskritis, gyveno sėliai, o į šiaurę.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -59,7 +63,25 @@ kairiajame Dauguvos vidurupio krante, siekdami dabartines Utenos ir Zarasų apsk
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir žemaičių, gyveno kuršiai, kairiajame Dauguvos žemupio krante — žiemgaliai, kairiajame Dauguvos vidurupio krante, siekdami dabartines Utenos ir Zarasų apskritis, gyveno sėliai, o į šiaurę.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    ** Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo
+    Šventosios upės ir žemaičių, gyveno kuršiai, kairiajame Dau-
+    guvos žemupio krante — žiemgaliai, kairiajame Dauguvos
+    vidurupio krante, siekdami dabartines Utenos ir Zarasų apskri-
+    tis, gyveno sėliai, o į šiaurę nuo jų, t.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Kuršiai]]
+- [[objektai/vietos/Dauguva]]
+- [[objektai/vietos/Latvija]]
+- [[objektai/vietos/Utena]]

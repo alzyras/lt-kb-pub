@@ -85,4 +85,13 @@ Tuo tarpu per didelį bad­ metį Lietuvoje ir Jotvingijoje (1279), anksčiau ja
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Aukštaitija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Mikalojus (Gniezno arkivyskupas)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/vietos/Žemaitija]]
+- [[objektai/ivykiai/1279 m. badmetis Lietuvoje ir Jotvingijoje]]
+- [[objektai/paprociai/Bičiulystė ir bitininkystė]]
+- [[objektai/autoriai/Jordanas]]
+- [[objektai/grupes/Jotvingiai]]
 - [[objektai/vietos/Sūdavija]]

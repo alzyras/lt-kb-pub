@@ -46,5 +46,10 @@ trijų Baltijos valstybių gyventojai paminėjo 50-ąsias Molotovo–Ribentropo 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Baltija]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Hermanas]]
+- [[objektai/vietos/Talinas]]
+- [[objektai/vietos/Vilnius]]
 - [[objektai/paprociai/Baltijos kelias kaip gyvos žmonių grandinės komemoracinė protesto forma]]
 - [[objektai/vietos/Gedimino bokštas]]

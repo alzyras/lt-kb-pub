@@ -65,3 +65,7 @@ Amerikoje visų tautinių bažnyčių turtas yra užrašomas vyskupų vardu. Tai
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]

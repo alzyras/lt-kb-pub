@@ -57,3 +57,12 @@ Zolotarenkos (apie br 20000 karių) laikė apsiautę Gomelį "bei kitus miestus 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Baltija]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/vietos/Minskas]]
+- [[objektai/vietos/Švedija]]

@@ -55,3 +55,11 @@ Ji ne tik gynė svarbų kelią tarp Prūsų ir Livonijos per patogią Kuršių N
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Kuršas]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/vietos/Nemunas]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/vietos/Prūsija]]

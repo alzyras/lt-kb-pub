@@ -40,3 +40,11 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Tautų Sąjunga]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/vietos/Giedraičiai]]
+- [[objektai/zodynas/akcijos]]

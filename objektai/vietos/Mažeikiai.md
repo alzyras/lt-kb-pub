@@ -53,5 +53,7 @@ Budrio traukinys per Mažeikius, per Latvijos teritoriją (Priekulę) atvyksta �
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Latvija]]
+- [[objektai/vietos/Šiauliai]]
 - [[objektai/vietos/Kretinga]]
 - [[objektai/vietos/Priekulė]]

@@ -74,3 +74,30 @@ Juo buvo patvirtintas Vytauto savarankiškumas: jis buvo paskelbtas tikruoju val
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lenkų bajorai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Radomas]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/asmenys/Antanas Buračas]]
+- [[objektai/ivykiai/Berno konferencija (1916 m. kovo 1–5 d.)]]
+- [[objektai/asmenys/Eduardas Vilkas]]
+- [[objektai/paprociai/Generaliniai seimeliai ir provincijų sesijos]]
+- [[objektai/asmenys/Jokūbas Jasinskis]]
+- [[objektai/ivykiai/Jokūbo Jasinskio pašalinimas iš Lietuvos sukilėlių vado pareigų (1794 m. gegužės 4 d.)]]
+- [[objektai/asmenys/Jonas Kalita]]
+- [[objektai/asmenys/Kazimiera Prunskienė]]
+- [[objektai/asmenys/Kazimieras Antanavičius]]
+- [[objektai/ivykiai/Krėvos sutartis (1385 m.)]]
+- [[objektai/grupes/Lenkų ponų taryba]]
+- [[objektai/vietos/Smolenskas]]
+- [[objektai/zodynas/bažnytinė provincija]]
+- [[objektai/zodynas/karūnacija karūnuotis]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Liublino seimas]]

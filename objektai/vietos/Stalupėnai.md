@@ -57,5 +57,7 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Gumbinė]]
-- [[objektai/vietos/Įsrutis]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Vokietija]]
+- [[objektai/grupes/Vokiečiai]]

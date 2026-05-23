@@ -78,3 +78,9 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kalvinai]]
+- [[objektai/grupes/Liuterionys]]
+- [[objektai/vietos/Vilnius]]

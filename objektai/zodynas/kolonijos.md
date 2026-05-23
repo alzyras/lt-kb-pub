@@ -63,3 +63,10 @@ Bet visos didžiosios Europos tautos jau seniai pradėjo tvarkyti savo emigracij
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Pietų Amerika]]
+- [[objektai/vietos/Padauguvis]]
+- [[objektai/zodynas/vokiečių ateivių valstybė]]

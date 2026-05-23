@@ -60,3 +60,11 @@ Fantazuokime toliau: su dirigentų Sauliaus Sondeckio, Gintaro Rinkevičiaus ir 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Europa]]
+- [[objektai/daiktai/Gintaras]]
+- [[objektai/vietos/Prancūzija]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/vietos/Šiauliai]]

@@ -78,3 +78,10 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
+- [[objektai/grupes/Rytas]]
+- [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/zodynas/žygis]]

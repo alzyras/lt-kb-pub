@@ -55,3 +55,13 @@ Taip pat neužmiršo jo papra­ šyt, kad popiežius uždraustų Vytauto karūna
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Krokuva]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Niurnbergas]]
+- [[objektai/vietos/Viena]]
+- [[objektai/vietos/Čekija]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/ivykiai/Lietuvos ir ordino sienos galutinis patvirtinimas pagal Melno taiką (1422 m.)]]

@@ -65,5 +65,7 @@ Kautynių metu iš bunkerio pavyko išsiveržti Juozui Kemekliui-Rokui, kuris pr
 - [[temos/ežeras]]
 
 ### Susiję objektai
+- [[objektai/grupes/NKVD]]
+- [[objektai/daiktai/Partizanų bunkeriai]]
 - [[objektai/vietos/Denionių ežeras]]
 - [[objektai/vietos/Pamaleišio kaimas]]

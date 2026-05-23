@@ -42,6 +42,14 @@ Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgali
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Galvanauskas, įsitikinęs, kad per Tautų Sąjungą ar Ambasadorių konferenciją Lietuva Klaipėdos negaus, nusistatė užimti kraštą jėga (anot A.'
+  pagrindžia:
+    - c-003
+- t-004
+  teiginys: 'Galvanausko planą paruošti akcijos Klaipėdoje politinę apsaugą ir diplomatinę gynybą.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -81,7 +89,49 @@ Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgali
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Galvanauskas, įsitikinęs, kad per Tautų Sąjungą ar Ambasadorių konferenciją Lietuva Klaipėdos negaus, nusistatė užimti kraštą jėga (anot A.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Pagal Versalio sutartį Klaipėdą valdė prancūzų admi-
+    nistracija, remiama bataliono prancūzų pėstininkų. Prancūzai skelbė, kad
+    Klaipėda gali tapti Lietuvos, bet tik susivienijusios su Lenkija, dalimi. Mat
+    ir Lenkija neslėpė savo planų įsitvirtinti Klaipėdoje. Ministras pirminin-
+    kas E. Galvanauskas, įsitikinęs, kad per Tautų Sąjungą ar Ambasadorių
+    konferenciją Lietuva Klaipėdos negaus, nusistatė užimti kraštą jėga (anot
+    A. Smetonos, be faktinės kontrolės nebus juridinės), J. Pilsudskio pavyz-
+    džiu pastatyti visus į fait accompli padėtį ir tada derėtis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Galvanausko planą paruošti akcijos Klaipėdoje politinę apsaugą ir diplomatinę gynybą.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tik keli žmonės iš vyriausybės žinojo apie E. Galvanausko planą pa-
+    ruošti akcijos Klaipėdoje politinę apsaugą ir diplomatinę gynybą. Siekda-
+    ma vietos gyventojų palaikymo, prolietuviškų nuotaikų pačioje Klaipėdo-
+    je, Lietuva pinigais parėmė prolietuviškas organizacijas, nupirko palankių
+    sau straipsnių, laikraščių, įsigijo nuosavybės.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]
+- [[objektai/vietos/Klaipėda]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Pilsudskis]]
+- [[objektai/zodynas/akcijos]]
+- [[objektai/asmenys/A. Smetona|A. Smetona (prezidentas, XX a.)]]
+- [[objektai/asmenys/J. Pilsudskis]]
+- [[objektai/asmenys/Juzefas Pilsudskis]]

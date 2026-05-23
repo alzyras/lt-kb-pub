@@ -158,3 +158,20 @@ J. Jakštas minimas kaip istorikas ir autorius; šiame tome jis siejamas su Voki
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Berlynas]]
+- [[objektai/vietos/Kaunas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Viena]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/grupes/Vokiečių ordinas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/vietos/Žalgiris]]
+- [[objektai/ivykiai/Strėvos mūšis (1348 m.)]]
+- [[objektai/vietos/Clevelandas]]

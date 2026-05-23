@@ -60,4 +60,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti]]
+- [[objektai/vietos/Rusija]]

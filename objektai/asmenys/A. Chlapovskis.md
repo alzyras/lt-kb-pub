@@ -74,3 +74,8 @@ Chlapovskis mėgino vyriausiąjį vadą generolą A. Chlapovskiui, kurio žinioj
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Artilerija]]
+- [[objektai/vietos/Viena]]

@@ -93,3 +93,7 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/ežeras]]
+
+### Susiję objektai
+- [[objektai/vietos/Veliuona]]
+- [[objektai/grupes/Žemaičiai]]

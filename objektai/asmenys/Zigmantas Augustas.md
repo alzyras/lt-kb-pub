@@ -32,6 +32,10 @@ Zigmantas II (1506—1548 m.) ir jo karai su Maskva. Zigmanto II valdymo pabaiga
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Kai kas mano, kad naujose žemėse žmonės buvo įkurdinami sodžiais, tiksliai suskirsčius jų žemes, kas padėjo su­ sidaryti vėlesnei Zigmanto Augusto valakų sistemai^3 ).'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -51,3 +55,25 @@ Zigmantas II (1506—1548 m.) ir jo karai su Maskva. Zigmanto II valdymo pabaiga
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Kai kas mano, kad naujose žemėse žmonės buvo įkurdinami sodžiais, tiksliai suskirsčius jų žemes, kas padėjo su­ sidaryti vėlesnei Zigmanto Augusto valakų sistemai^3 ).'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Kai kas mano, kad naujose žemėse žmonės buvo
+    įkurdinami sodžiais, tiksliai suskirsčius jų žemes, kas padėjo su­
+    sidaryti vėlesnei Zigmanto Augusto valakų sistemai^3 ).
+    Kita reali nauda, kuri tekdavo Vytautui — tai mokesčiai,
+    renkami iš žmonių už valdomas žemes, miškus, vandenis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Livonijos valstybė]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/daiktai/Zigmanto Augusto pinigai]]

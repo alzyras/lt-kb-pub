@@ -52,3 +52,7 @@ Bendrą tų kovų istoriją paruošė istorikų kolektyvas : Lietuviu karas su k
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/B. Dundulis]]
+- [[objektai/vietos/Durbė]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/autoriai/K. Sideravičius]]

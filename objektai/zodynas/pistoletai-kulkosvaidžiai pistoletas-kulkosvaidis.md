@@ -77,3 +77,7 @@ Jis pradėtas kurti siekiant apginkluoti Raudonąją armiją dar paprastesniu, p
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/PPS 41 (Pistolet-Pulemiot Špagina)]]

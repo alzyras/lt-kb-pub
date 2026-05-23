@@ -64,3 +64,11 @@ ežerą, per Miastros ežerą, Bliados ežero rytų šonu, Naračios upe,.
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/ežeras]]
+
+### Susiję objektai
+- [[objektai/vietos/Dauguva]]
+- [[objektai/vietos/Druja]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Vilnius]]

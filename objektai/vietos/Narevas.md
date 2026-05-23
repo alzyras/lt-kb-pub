@@ -37,6 +37,10 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
   teiginys: 'Žygiavo tarp Narevo ir Bugo upių.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Kai Livonijos magistras buvo prie Vilniaus, lietuviai puolė jo valdose Duobelės pilį, sudegino papilį, sunaikino apylinkes, o pietvakariuose - atakavo kryžiuočių tuo metu kontroliuojamos Viznos apylinkes prie Narevo.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -73,7 +77,32 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Kai Livonijos magistras buvo prie Vilniaus, lietuviai puolė jo valdose Duobelės pilį, sudegino papilį, sunaikino apylinkes, o pietvakariuose - atakavo kryžiuočių tuo metu kontroliuojamos Viznos apylinkes prie Narevo.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Kai Livonijos magistras buvo
+    prie Vilniaus, lietuviai puolė jo valdose Duobelės pilį, sudegino
+    papilį, sunaikino apylinkes, o pietvakariuose - atakavo kryžiuočių
+    tuo metu kontroliuojamos Viznos apylinkes prie Narevo.
+
+    Podolėje, Valakijoje, ragino dalyvauti ko-
+    voje su totoriais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/vietos/Duobelės pilis]]
+- [[objektai/vietos/Šešupė]]
 - [[objektai/vietos/Viznos apylinkės]]

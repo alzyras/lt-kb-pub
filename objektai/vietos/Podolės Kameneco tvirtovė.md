@@ -59,4 +59,9 @@ Turkai, nujausdami lenkų ir lietuvių ir privertė ją Atėjo žinia, kad Turki
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/vietos/Chotinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Podolė]]
+- [[objektai/vietos/Turkija]]

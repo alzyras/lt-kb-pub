@@ -57,3 +57,14 @@ GEDIMINO TAIKA SU LENKIJA IR KOVOS SU ORDINU^235 Savo žygius vėl pradėję 132
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Guillaume de Machaut]]
+- [[objektai/vietos/Medvėgalis]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/vietos/Aukaimis]]
+- [[objektai/vietos/Gegužkalnis]]
+- [[objektai/vietos/Kvėdarna]]

@@ -49,6 +49,10 @@ Nenurodyta
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Per Rygą Lietuva traukėsi sau iš Vakarų būtiniausius dalykus, būtent, druską, vilnones medžiagas, geležį (ginklus).'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -68,7 +72,22 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Per Rygą Lietuva traukėsi sau iš Vakarų būtiniausius dalykus, būtent, druską, vilnones medžiagas, geležį (ginklus).'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Per Rygą Lietuva traukėsi sau iš Vakarų būtiniausius
+    dalykus, būtent, druską, vilnones medžiagas, geležį (ginklus). O ji
+    galėjo pasiūlyti Vakaruose gerą paklausą turinčių ir lengvai trans­
+    portuojamų prekių (vaško ir kailių) neišsenkančius kiekius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/daiktai/Druska]]
+- [[objektai/vietos/Lietuva]]

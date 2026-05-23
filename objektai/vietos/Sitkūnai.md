@@ -42,4 +42,6 @@ Sausio 13 dieną nutrūkus radijo transliacijai, pradėjo dirbti Sitkūnų (neto
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/Informacijos perdavimas po Sausio 13-osios ir Lietuvos kreipimasis į JT (1991 m. sausio 13 d.)]]

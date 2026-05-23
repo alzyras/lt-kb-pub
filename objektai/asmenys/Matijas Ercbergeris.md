@@ -57,3 +57,8 @@ Lietuvos Tarybos konservatoriai ir monarchistai 1918 m. liepos 13 d., blokuodami
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuvos Taryba]]

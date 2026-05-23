@@ -90,3 +90,15 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Insterburgas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/maršalka]]
+- [[objektai/zodynas/tėviškė]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/vietos/Marienburgas]]

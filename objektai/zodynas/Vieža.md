@@ -22,7 +22,7 @@ Vartojamos formos: `viežą`, `viežos`.
 
 ## Teiginiai
 - t-003
-  teiginys: '`Vieža` šiame tekste reiškia kalinimo duobę ar kalėjimo tipo vietą.'
+  teiginys: 'Vieža Daukanto tekste buvo žemėje iškasta, kartais išmūryta duobė kaltininkams nustatytą laiką kalinti.'
   pagrindžia:
     - c-001
   šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
@@ -62,3 +62,4 @@ Vartojamos formos: `viežą`, `viežos`.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Dybas]]
+- [[objektai/autoriai/S. Daukantas]]

@@ -130,3 +130,11 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/religinis-terminas]]
+
+### Susiję objektai
+- [[objektai/vietos/Konstancija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/metropolija]]
+- [[objektai/zodynas/savarankiškumas]]
+- [[objektai/posakiai/Gens Lithuanorum]]

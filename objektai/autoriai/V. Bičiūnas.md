@@ -75,3 +75,8 @@ Bičiūno tos misterijos pastabos ir komentarai. Bičiūno pastabos ir komentara
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/misterija]]

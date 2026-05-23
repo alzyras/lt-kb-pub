@@ -60,3 +60,15 @@ Martynas V pa­ skyrė Vytautą vikaru Rusijos kraštuose ir Livonijos vyskupij�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Kamiencas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/asmenys/Martynas V]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Ryga]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/kontribucija]]
+- [[objektai/grupes/Žemaičiai]]

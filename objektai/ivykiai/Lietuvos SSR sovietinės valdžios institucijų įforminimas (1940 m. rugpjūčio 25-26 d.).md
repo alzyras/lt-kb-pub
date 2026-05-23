@@ -76,3 +76,11 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/grupes/Liaudies seimas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/SSRS]]
+- [[objektai/zodynas/savanoriškumo kamufliažas]]

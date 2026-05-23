@@ -69,3 +69,11 @@ Vartojamos formos: `liuosais`, `liuosybę`.
 ## Pastabos
 
 - Forma archajiška; reikšmė išvedama iš priešpriešos su vergija ir iš laisvo gyvenimo motyvo.
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/paprociai/Karo grobio dalijimas į keturias dalis]]
+- [[objektai/paprociai/Kovų vietų neliečiamumas]]
+- [[objektai/paprociai/Vaikų grūdinimas ir motinų auklėjimas]]
+- [[objektai/daiktai/Vyženos]]
+- [[objektai/zodynas/Karmūšų|karmūšų]]

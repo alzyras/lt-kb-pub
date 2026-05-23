@@ -43,14 +43,14 @@ O kai, besivydami bolševikus, lenkai ties Druskininkais persikėlė per Nemuną
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: 'Tuo metu Lietuvos [1] Liepos 17 d. Druskininkai, Ratnyčia.'
-  pagrindžia:
-    - c-003
 - t-004
   teiginys: 'Rugsėjo 23 d. lenkų divizijos perėjo tiltą per Nemuną Druskininkuose ir žygiavo Marcinkonių link.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'Lietuviai atkakliai siekė išvengti karinių bazių, išsaugoti savo etnines žemes, atgauti kelis lietuviškus Vilniaus krašto rajonus (Švenčionis ir Druskininkus).'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -86,21 +86,6 @@ O kai, besivydami bolševikus, lenkai ties Druskininkais persikėlė per Nemuną
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Tuo metu Lietuvos [1] Liepos 17 d. Druskininkai, Ratnyčia.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Tuo metu Lietuvos
-
-    [1] Liepos 17 d. Druskininkai, Ratnyčia.
-    Liepos 19 d.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
 - c-004
   santrauka: 'Rugsėjo 23 d. lenkų divizijos perėjo tiltą per Nemuną Druskininkuose ir žygiavo Marcinkonių link.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -115,10 +100,27 @@ O kai, besivydami bolševikus, lenkai ties Druskininkais persikėlė per Nemuną
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Lietuviai atkakliai siekė išvengti karinių bazių, išsaugoti savo etnines žemes, atgauti kelis lietuviškus Vilniaus krašto rajonus (Švenčionis ir Druskininkus).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuviai at-
+    kakliai siekė išvengti karinių bazių, išsaugoti savo etnines žemes, atgauti
+    kelis lietuviškus Vilniaus krašto rajonus (Švenčionis ir Druskininkus).
+    Sovietai, pradžioje reikalavę įsileisti 50 000 karių, tą skaičių sumažino
+    iki 20 000.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/ežeras]]
 
 ### Susiję objektai
-- [[objektai/vietos/Marcinkonys]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Vilnius]]

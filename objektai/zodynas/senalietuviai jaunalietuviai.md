@@ -67,3 +67,18 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/asmenys/Adomas Mickevičius|Adomas Mickevičius (poetas)]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/autoriai/Mickevičius]]
+- [[objektai/zodynas/istorinė Lietuva]]
+- [[objektai/asmenys/Česlovas Milošas]]
+- [[objektai/grupes/Jaunalietuviai]]
+- [[objektai/grupes/Senalietuviai]]

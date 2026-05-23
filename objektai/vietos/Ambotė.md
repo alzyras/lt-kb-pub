@@ -52,3 +52,11 @@ Akivaizdžia Mindaugo karinės jėgos demonstracija yra laikoma tai, kad jis 124
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Europa]]
+- [[objektai/asmenys/Mindaugas]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/vietos/Kuršas]]

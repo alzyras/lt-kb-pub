@@ -46,3 +46,7 @@ Kaip ten bebūtų, žinome viena, kad jis buvo pilna to žodžio prasme „Macht
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

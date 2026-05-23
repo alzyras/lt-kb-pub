@@ -74,3 +74,8 @@ Be kartečės ir paprastų sviedinių, iš patrankų buvo šaudoma ir apšvieči
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/Kartečė]]
+- [[objektai/vietos/Vilnius]]

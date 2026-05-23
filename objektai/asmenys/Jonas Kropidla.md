@@ -76,3 +76,8 @@ Kartą buvo kilęs ginčas tarp Vloc­ lavo Vyskupo Jono Kropidlos ir Jogailos, 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Breslavas]]
+- [[objektai/vietos/Europa]]

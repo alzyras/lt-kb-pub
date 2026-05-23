@@ -63,3 +63,7 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Sovietų automatinis (pusiau automatinis) šautuvas SVT-40]]

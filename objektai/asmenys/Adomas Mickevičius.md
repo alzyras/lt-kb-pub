@@ -8,6 +8,12 @@ aliases:
   - 'Adomas Mickevičius'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -52,6 +58,10 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
     - c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-006
+  teiginys: 'A. Mickevičiaus kūryba turėjo didelės reikšmės lietuvių tautinės savimonės plėtotei.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -130,3 +140,33 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'A. Mickevičiaus kūryba turėjo didelės reikšmės lietuvių tautinės savimonės plėtotei.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Jonas Basanavičius
+
+    L I E T U V O S  I S T O R I J A
+    120
+    Didžiulės reikšmės lietuvių tautinės savimonės plėtotei, plačiųjų lietu-
+    viškai kalbančio kaimo masių tautiniam krikštui, t. y. pasijutimui ne tik
+    liaudies, bet ir tautos nariais, turėjo lenkų romantikų (A. Mickevičiaus,
+    J.  Kraševskio) kūryba, o romantiškiausia, dainingiausia, lyriškiausia,
+    savotiškai kovinga buvo kunigo Jono Mačiulio-Maironio lietuvių kal-
+    ba rašyta poezija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/kunigas]]
+- [[objektai/daiktai/Herbai]]
+- [[objektai/grupes/Vilniaus romantizmo mokykla]]
+- [[objektai/zodynas/senalietuviai jaunalietuviai]]

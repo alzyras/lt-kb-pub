@@ -57,6 +57,10 @@ Nenurodyta
   teiginys: 'Karūnos armija priklausė Lenkijos karalystei, o Lietuvos kariuomenė priklausė Lietuvos Didžiajai Kunigaikštystei.'
   pagrindžia:
     - c-002
+- t-006
+  teiginys: 'Pirmoji iš šių dviejų kariuomenių yra Karūnos armija ir priklauso Lenkijos karalysi atl tei.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -88,3 +92,24 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-003
+  santrauka: 'Pirmoji iš šių dviejų kariuomenių yra Karūnos armija ir priklauso Lenkijos karalysi atl tei.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Pirmoji iš šių dviejų kariuomenių yra Karūnos armija ir priklauso Lenkijos karalys-
+    i atl tei. Antroji priklauso Lietuvos Didžiajai Kunigaikštystei, pirmosios pagalbininkei ir sq-
+    jungininkei, o ne pavaldžiai provincijai, kaip kad kitos karalystę sudarančios provincijos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Karūna]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuvos kariuomenė]]

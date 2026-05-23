@@ -33,6 +33,10 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Molotovo rankų ultimatumą – pareikalauta, kad Lietuva įsileistų papildomus, jokia sutartimi neribotus sovietų karinius dalinius, pakeistų vyriausybę į prosovietinę, nubaustų „kaltus“ pareigūnus ir duotų atsakymą iki birželio 15 dienos 10 val.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -54,7 +58,34 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Molotovo rankų ultimatumą – pareikalauta, kad Lietuva įsileistų papildomus, jokia sutartimi neribotus sovietų karinius dalinius, pakeistų vyriausybę į prosovietinę, nubaustų „kaltus“ pareigūnus ir duotų atsakymą iki birželio 15 dienos 10 val.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Tačiau nei J. Urbšys, nei taikingas A. Smetonos
+    laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų Lietuvos
+    pareigūnų atleidimas nepadėjo – birželio 14-osios rytą vermachtui įžengus
+    į Paryžių, tos pat dienos vakare 11:45 J. Urbšys gavo iš V. Molotovo rankų
+    ultimatumą – pareikalauta, kad Lietuva įsileistų papildomus, jokia sutar-
+    timi neribotus sovietų karinius dalinius, pakeistų vyriausybę į prosovieti-
+    nę, nubaustų „kaltus“ pareigūnus ir duotų atsakymą iki birželio 15 dienos
+    10 val. ryto. Žodžiu V. Molotovas J. Urbšiui pridėjo, kad nesvarbu, koks bus
+    atsakymas, SSRS kariuomenė vis tiek įžygiuos į Lietuvą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/laiškas]]
+
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Rytas]]
+- [[objektai/vietos/SSRS]]
+- [[objektai/grupes/SSRS kariuomenė]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

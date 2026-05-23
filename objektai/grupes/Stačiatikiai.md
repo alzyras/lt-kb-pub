@@ -7,8 +7,20 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1323 m.'
+  - '1324 m.'
   - '1387 m.'
   - '1413 m.'
+  - '1418 m.'
+  - '1500 m.'
+  - '1587 m.'
+  - '1654 m.'
+  - '1667 m.'
+  - '1668 m.'
+  - '1697 m.'
+  - '1700 m.'
+  - '1721 m.'
+  - '1763 m.'
   - '2013 m.'
   - '2026 m.'
 periodas: 'atkurtos nepriklausomybės laikotarpis'
@@ -18,8 +30,11 @@ periodo_grupes:
 amziai:
   - 'XIV'
   - 'XV'
+  - 'XVI'
+  - 'XVII'
+  - 'XVIII'
   - 'XXI'
-date_start: '1387'
+date_start: '1323'
 date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
@@ -77,6 +92,14 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
   teiginys: 'Kai kurie stačiatikiai, ypač jų di­ duomenė, buvo nepatenkinti ir tuo, kad nei 1387 m. privilegija nei 1413 m. Horodlės unija nesuteikia jiems jokių privilegijų, kai tuo tarpu bajorai katalikai buvo gavę plačių laisvių į nuosavybę ir buvo atleisti nuo.'
   pagrindžia:
     - c-008
+- t-009
+  teiginys: 'Antra vertus, tokia, moderniuoju žvilgsniu atrodanti anachronistiška, santvarka leido visuomenėje šalia katalikų egzistuoti įvairioms etnokonfesinėms bendrijoms: kalvinistams, liuteronams, stačiatikiams ir unitams, dar vėliau – iš Rusijos atsikeliantiems.'
+  pagrindžia:
+    - c-009
+- t-010
+  teiginys: 'Apie 1500 m. LDK veikė šešios stačiatikių vyskupijos, pavaldžios tai pačiai Kijevo metropolijai.'
+  pagrindžia:
+    - c-010
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -203,3 +226,73 @@ Tačiau 1323–1324 m. Gedimino krikšto akcija nepavyko dėl žemaičių ir sta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-009
+  santrauka: 'Antra vertus, tokia, moderniuoju žvilgsniu atrodanti anachronistiška, santvarka leido visuomenėje šalia katalikų egzistuoti įvairioms etnokonfesinėms bendrijoms: kalvinistams, liuteronams, stačiatikiams ir unitams, dar vėliau – iš Rusijos atsikeliantiems.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Antra vertus,
+    tokia, moderniuoju žvilgsniu atrodanti anachronistiška, santvarka leido
+    visuomenėje šalia katalikų egzistuoti įvairioms etnokonfesinėms bendri-
+    joms: kalvinistams, liuteronams, stačiatikiams ir unitams, dar vėliau – iš
+    Rusijos atsikeliantiems sentikiams, be to, nuo Vytauto laikų gyvuojan-
+
+    L I E T U V O S  I S T O R I J A
+    64
+    tiems karaimams, totoriams ir žydams.
+    Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ truk-
+    dė milžiniški kaimynų smūgiai: valdant švedų kilmės Vazų dinastijai
+    (1587–1668), Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos in-
+    vazija (1654–1667), o valdant Saksų dinastijai (1697–1763) Lietuva tapo
+    Šiaurės karo (1700–1721) tarp Rusijos ir Švedijos kovų arena.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: 'Apie 1500 m. LDK veikė šešios stačiatikių vyskupijos, pavaldžios tai pačiai Kijevo metropolijai.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Nuo 1387 m.
+    LDK yra katalikiška, kaip ir Lenkija, tačiau Lenkijoje apie 1500 m. buvo tik
+
+    2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S
+    71
+    trys stačiatikių vyskupijos, o LDK – šešios, ir visos jos buvo pavaldžios tai
+    pačiai metropolijai Kijeve, o metropolitas reziduodavo ne tik Kijeve, bet ir
+    Naugarduke bei Vilniuje. Taigi Lenkijos stačiatikiai buvo valdomi iš LDK,
+    kurios stačiatikių svoris nulėmė, kad bent jau bažnytinės unijos įgyvendini-
+    mo klausimu LDK, o ne Lenkija buvo aktualiausia erdvė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Europa]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Naugardukas]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/zodynas/metropolija]]
+- [[objektai/zodynas/metropolitas]]
+- [[objektai/zodynas/unija]]
+- [[objektai/vietos/Švedija]]
+- [[objektai/posakiai/„tvanas“]]
+- [[objektai/paprociai/Jogailos privilegija apsikrikštijusiems bajorams]]
+- [[objektai/grupes/Rusėnai]]
+- [[objektai/paprociai/Rusėnų kalbos vartojimas LDK raštinėse ir raštijoje]]
+- [[objektai/zodynas/konfesinis dualizmas]]
+- [[objektai/zodynas/rusėnų kalba LDK raštų kalba]]
+- [[objektai/zodynas/rusėnų kalba LDK slavų kanceliarinė kalba]]
+- [[objektai/vietos/Kijevas]]
+- [[objektai/ivykiai/Brastos bažnytinė unija]]
+- [[objektai/grupes/Lietuvos evangelikai reformatai]]
+- [[objektai/grupes/Liuteronai]]
+- [[objektai/grupes/Unitai]]

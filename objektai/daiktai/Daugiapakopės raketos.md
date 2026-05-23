@@ -9,17 +9,19 @@ saltiniai:
   - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
 bukle: "juodrastis"
 laikotarpis: "1650 m. K. Semenavičiaus veikalo kontekstas"
-datos:
-  - "1650 m."
-periodas: "ankstyvieji_naujieji_laikai"
-periodo_grupes: []
-amziai:
-  - "XVII"
-date_start: "1650"
-date_end: "1650"
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos:
+  - '1650 m.'
+periodas: 'ankstyvieji_naujieji_laikai'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVII'
+  - 'XVIII'
+date_start: '1650'
+date_end: ''
 patikimumas: "vidutinis"
 tags:
   - ginklas
@@ -73,6 +75,10 @@ Nenurodyta
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-010
+  teiginys: 'Kazimiero Semenavičiaus veikale „Artis magnae artilleriae“ išdėstyta daugiapakopių raketų teorija.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -119,10 +125,32 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-008
+- c-004
+  santrauka: 'Kazimiero Semenavičiaus veikale „Artis magnae artilleriae“ išdėstyta daugiapakopių raketų teorija.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuvos siekis būti integralia Vidurio Europos dalimi lėmė
+    solidžią ir originalią karinės inžinerijos mokyklą, kurios reikšmingiausiu
+    darbu tapo Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“
+    („Didysis artilerijos menas“) (1650). Jame randame šiuolaikinės artilerijos
+    ir net kosmonautikos ištakas – veikale išdėstyta daugiapakopių raketų te-
+    orija.
+    XVII–XVIII a.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
 
 ## Šaltiniai ir įrodymai
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Amsterdamas]]
+- [[objektai/daiktai/Artilerija]]
+- [[objektai/vietos/Europa]]
 - [[objektai/autoriai/Kazimieras Semenavičius]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Kazimieras Simanavičius]]

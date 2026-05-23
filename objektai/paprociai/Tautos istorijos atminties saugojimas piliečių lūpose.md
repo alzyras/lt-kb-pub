@@ -73,4 +73,10 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/autoriai/Kraševskis]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Mikalojus (Gniezno arkivyskupas)]]
+- [[objektai/asmenys/Mikalojus Akelaitis]]
 - [[objektai/posakiai/„Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“]]

@@ -6,6 +6,15 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1519 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVI'
+date_start: '1519'
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -32,6 +41,10 @@ Aleksandro (1492—1506 m.) išrinkimas didžiuoju Lietu. Aleksandro asmuo ir jo
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'XV–XVI a. sandūroje didžiojo kunigaikščio Aleksandro dvare buvo humanistinio išsilavinimo žmonių.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -68,3 +81,23 @@ Aleksandro (1492—1506 m.) išrinkimas didžiuoju Lietu. Aleksandro asmuo ir jo
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'XV–XVI a. sandūroje didžiojo kunigaikščio Aleksandro dvare buvo humanistinio išsilavinimo žmonių.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Renesansas ir reformacija
+    Humanistinio išsilavinimo žmonių būta jau XV–XVI a.
+    sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko
+    Žygimantui Senajam 1519 m. vedus Milano kunigaikštytę Boną Sforcą
+    (Bona Sforza).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/ivykiai/Žygimanto Senojo ir Bonos Sforcos vedybos]]

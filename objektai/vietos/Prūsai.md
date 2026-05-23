@@ -59,6 +59,18 @@ prūsais buvo vadinamos tik tos vakarinės aisčių giminės, kurios anksčiau p
   teiginys: 'Prūsai ne lengvai pasidavė vokiečiams: jie nuolat kovodavo, užpuldavo ir degindavo ordino pilis ir vokiečių kolonistų sodybas.'
   pagrindžia:
     - c-005
+- t-006
+  teiginys: 'Vytautas, dukart iš Lietuvos pabėgęs, išbuvo apie ketve­ rius metus Prūsuose.'
+  pagrindžia:
+    - c-006
+- t-007
+  teiginys: 'Kryžiuočiai, kuriuos daugybė svečių lankydavo pastu­ dijuoti jų valdymą, kariuomenės organizaciją ar šiaip pasivie­ šėti, drąsiai galėjo pasakyti, kad tokio pasiryžusio, supratingo ir gabaus mokinio, kaip Vytautas, Prūsuose nebuvo ligtol buvę.'
+  pagrindžia:
+    - c-007
+- t-008
+  teiginys: 'Žodžiu, jis Prūsuose mito Vakarų kultūros vai­ siais, ypač materialine kultūra, kurią paskui kėlė savo krašte, statydamas bažnyčias, pilis ir t.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -146,3 +158,67 @@ prūsais buvo vadinamos tik tos vakarinės aisčių giminės, kurios anksčiau p
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Vytautas, dukart iš Lietuvos pabėgęs, išbuvo apie ketve­ rius metus Prūsuose.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    ```
+    Vytautas, dukart iš Lietuvos pabėgęs, išbuvo apie ketve­
+    rius metus Prūsuose. Tenai, kryžiuočių tarpe, jis išėjo gerą ir
+    drausmingą gyvenimo mokyklą, kuri jam padėjo atsivaduoti
+    tėviškę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: 'Kryžiuočiai, kuriuos daugybė svečių lankydavo pastu­ dijuoti jų valdymą, kariuomenės organizaciją ar šiaip pasivie­ šėti, drąsiai galėjo pasakyti, kad tokio pasiryžusio, supratingo ir gabaus mokinio, kaip Vytautas, Prūsuose nebuvo ligtol buvę.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Per tiek metų jis išmoko gerai vokiečių kalbos, kry­
+    žiuočių disciplinos, jų administracijos, karo mokslų ir daug kitų
+    dalykų. Kryžiuočiai, kuriuos daugybė svečių lankydavo pastu­
+    dijuoti jų valdymą, kariuomenės organizaciją ar šiaip pasivie­
+    šėti, drąsiai galėjo pasakyti, kad tokio pasiryžusio, supratingo
+    ir gabaus mokinio, kaip Vytautas, Prūsuose nebuvo ligtol buvę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: 'Žodžiu, jis Prūsuose mito Vakarų kultūros vai­ siais, ypač materialine kultūra, kurią paskui kėlė savo krašte, statydamas bažnyčias, pilis ir t.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Žodžiu, jis Prūsuose mito Vakarų kultūros vai­
+    siais, ypač materialine kultūra, kurią paskui kėlė savo krašte,
+    statydamas bažnyčias, pilis ir t. t.
+    Išmoko čia ir tos suktos, bet realios Ordino politikos, ku­
+    rios vėliau pats griebdavos santykiaudamas su kaimynais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/tėviškė]]
+- [[objektai/grupes/Brandenburgo elektoriai]]
+- [[objektai/ivykiai/Derybos Salyne su Vokiečių ordinu]]
+- [[objektai/grupes/Estai]]
+- [[objektai/ivykiai/Kryžiuočių ordino nukariavimai Prūsuose]]
+- [[objektai/ivykiai/Prūsų sukilimai prieš kryžiuočius]]
+- [[objektai/vietos/Veliuonos pilis]]
+- [[objektai/grupes/Žiemgaliai]]
+- [[objektai/posakiai/„Jūs norite man išplėšti tėvų palikimą...“]]
+- [[objektai/posakiai/„senoji“ „naujoji“ „naujausioji“ Viduramžių Europa]]

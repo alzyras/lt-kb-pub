@@ -127,4 +127,8 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/zodynas/Žemlionis]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Viena]]
+- [[objektai/zodynas/Kūrėjų kūrėjas|kūrėjų kūrėjas]]
+- [[objektai/zodynas/Rėda|rėda]]
+- [[objektai/zodynas/Žemlionis|žemlionis]]

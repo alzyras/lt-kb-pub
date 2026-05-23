@@ -50,3 +50,8 @@ Tai buvo vadinamosios privilegijos (lex privata). Lietuvoje, įvedus krikščion
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/privilegija]]
+
+### Susiję objektai
+- [[objektai/vietos/Europa]]
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/zodynas/luomas]]

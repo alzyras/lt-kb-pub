@@ -102,5 +102,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Vokietija]]
 - [[objektai/grupes/Bermontininkai]]
 - [[objektai/zodynas/karo padėtis]]

@@ -47,4 +47,7 @@ p. 251, Sausio 13-osios dienos brolijos (organizacijos, vienijančios Sausio įv
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
+- [[objektai/autoriai/Karolis Zikaras]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/daiktai/Sausio 13-osios dienos brolijos ženklelis]]

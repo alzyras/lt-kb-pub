@@ -64,3 +64,11 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/simbolis]]
+
+### Susiję objektai
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/daiktai/Kardas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Vokiečių ordinas]]
+- [[objektai/zodynas/pagonybė]]
+- [[objektai/grupes/Kryžiuočių ordinas]]

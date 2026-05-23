@@ -45,6 +45,10 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
   teiginys: 'Pirmasis misijonierius, kuriam Prūsuose ėmė sektis, buvo iš gretimosios Pamarės, Olivos cistersų ordino vienuolis Kristijonas.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Šis ruošėsi kariauti su ordinu dėl užgrobto Dancigo ir Pamario.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -92,7 +96,22 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Šis ruošėsi kariauti su ordinu dėl užgrobto Dancigo ir Pamario.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Šis ruošėsi kariauti su ordinu dėl užgrobto Dancigo ir Pamario.
+    1325 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Dancigas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Pamaris]]

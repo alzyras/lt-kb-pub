@@ -53,5 +53,13 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Antanas Šukys]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/11 brigada]]
 - [[objektai/grupes/6-asis pėstininkų Pilėnų Kunigaikščio Margio pulkas]]
+- [[objektai/paprociai/Fronto kasdienybė: naktinis budėjimas ir dienos miegas slėptuvėse]]
+- [[objektai/posakiai/MIRTIES AKIVAIZDOJE]]
+- [[objektai/grupes/Marijampolės batalionas]]
+- [[objektai/grupes/Mokomoji kuopa]]
+- [[objektai/vietos/Nedzingė]]
 - [[objektai/vietos/Vidugiriai]]

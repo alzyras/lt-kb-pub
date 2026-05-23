@@ -47,3 +47,8 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/paprociai/„Raudonųjų“ daugiakalbė sukilimo propaganda valstiečiams]]
+- [[objektai/vietos/Lietuva]]

@@ -69,4 +69,6 @@ Aplinkinėse valstybėse ir LDK pietrytinėje dalyje iki Vilniaus išplitusio ch
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/chasidizmas rabinizmas]]

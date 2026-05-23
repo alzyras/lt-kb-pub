@@ -56,3 +56,10 @@ Apgultos Pilėnų (Pillenen) pilies^16 įgula, kunigaikščio Margirio vadovauja
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Austrija]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Prancūzija]]
+- [[objektai/zodynas/žygis]]

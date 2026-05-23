@@ -101,4 +101,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/statutas]]
+- [[objektai/grupes/Lietuvos bajorija]]

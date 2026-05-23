@@ -53,4 +53,6 @@ Kubiliaus vadovaujama kolona (Ukmergės atskirasis batalionas, pusė husarų esk
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Artilerija]]
+- [[objektai/vietos/Ukmergė]]
 - [[objektai/grupes/Ukmergės batalionas]]

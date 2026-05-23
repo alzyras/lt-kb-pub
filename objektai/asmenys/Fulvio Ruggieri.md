@@ -90,3 +90,15 @@ sutartimi su LDK panaikinta Livonijos konfederacija, didesnė dalis Livonijos ta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Gardinas]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Livonija]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/grupes/Livonijos konfederacija]]
+- [[objektai/grupes/Rygos vyskupija]]
+- [[objektai/posakiai/Vilniuje karalius turi gan puikios artilerijos]]

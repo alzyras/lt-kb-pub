@@ -57,4 +57,7 @@ Nuo XIX amž. Vilniaus įkūrimo legenda taip įaugo į savo praeitį pamilusios
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Vilnius]]
 - [[objektai/posakiai/Gedimino « Geležinio vilko » sapnas]]

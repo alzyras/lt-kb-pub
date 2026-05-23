@@ -44,3 +44,11 @@ Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamufliažo atsisakyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/grupes/Liaudies seimas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/SSRS]]
+- [[objektai/ivykiai/Lietuvos SSR sovietinės valdžios institucijų įforminimas (1940 m. rugpjūčio 25-26 d.)]]

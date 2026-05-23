@@ -53,4 +53,7 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Kaunas]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Romas Kalanta]]
 - [[objektai/posakiai/Laisvę Lietuvai!]]

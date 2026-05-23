@@ -60,3 +60,13 @@ Lenkijos religinę toleranciją yra apibūdinę kaip neturinčią analogo Europo
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Europa]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Naugardukas]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/daugiakonfesiškumas]]
+- [[objektai/zodynas/metropolija]]
+- [[objektai/zodynas/metropolitas]]

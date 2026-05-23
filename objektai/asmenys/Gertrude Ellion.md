@@ -46,3 +46,11 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Afrika]]
+- [[objektai/asmenys/Bernardas (abatas)]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Sydney Brenner]]
+- [[objektai/asmenys/Bernardas Berensonas]]

@@ -47,3 +47,9 @@ p. 254, „TELEVIZIJOS LAIDA“, [nepublikuota]; Švedas V., Sausio 13-oji ir Au
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/ivykiai/Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)]]
+- [[objektai/ivykiai/Sausio 13-oji (1991 m.)]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

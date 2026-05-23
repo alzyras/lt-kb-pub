@@ -13,19 +13,21 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 bukle: juodrastis
 laikotarpis: ''
+vaidmenys:
+  - 'ūkio reformų veikėjas'
+dalyviai: []
+susije_irasai: []
 datos:
   - '1767 m.'
+  - '1769 m.'
+  - '1773 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
   - 'XVIII'
 date_start: '1767'
-date_end: ''
-vaidmenys:
-  - 'ūkio reformų veikėjas'
-dalyviai: []
-susije_irasai: []
+date_end: '1773'
 patikimumas: aukštas
 tags: []
 ---
@@ -78,6 +80,22 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
     - c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-022
+  teiginys: 'Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulavos respublika (1769 m.), jėzuitų ordino panaikinimas ir Edukacinės komisijos sukūrimas (1773 m.) – šie įvykiai kartais laikomi Apšvietos epochos pradžia.'
+  pagrindžia:
+    - c-006
+- t-023
+  teiginys: 'Su politinėmis permainomis ir pirmaisiais Apšvietos žingsniais sutapo Antano Tyzenhauzo veiklos, atnešusios didelių permainų į Lietuvos ūkį, pradžia.'
+  pagrindžia:
+    - c-007
+- t-024
+  teiginys: 'Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją, įkūrė matininkų, buhalterių, statybininkų, veterinarų mokyklas Gardine.'
+  pagrindžia:
+    - c-008
+- t-025
+  teiginys: 'Tyzenhauzo reformos buvo vienas iš svarbiausių XVIII a.'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -174,8 +192,77 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-021
+- c-006
+  santrauka: 'Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulavos respublika (1769 m.), jėzuitų ordino panaikinimas ir Edukacinės komisijos sukūrimas (1773 m.) – šie įvykiai kartais laikomi Apšvietos epochos pradžia.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Antano Tyzenhauzo reformos (1767 m.), Povilo Ksa-
+    vero Bžostovskio įkurta Paulavos respublika (1769 m.), jėzuitų ordino
+    panaikinimas ir Edukacinės komisijos sukūrimas (1773 m.) – šie įvykiai
+    kartais laikomi Apšvietos epochos pradžia.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-022
+- c-007
+  santrauka: 'Su politinėmis permainomis ir pirmaisiais Apšvietos žingsniais sutapo Antano Tyzenhauzo veiklos, atnešusios didelių permainų į Lietuvos ūkį, pradžia.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Su politinėmis permainomis ir pirmaisiais Apšvietos žingsniais suta-
+    po Antano Tyzenhauzo veiklos, atnešusios didelių permainų į Lietuvos
+    ūkį, pradžia. Karališkosiose ekonomijose jis ėmėsi radikalių reformų:
+    steigė palivarkus, vietoje činšo reikalavo dviejų dienų lažo per savaitę,
+    buvo pradėta naujai rūšiuoti žemę, įvertinant jos kokybę, pradėti me-
+    lioruoti laukai, tiesiami keliai, auginamos naujos (olandų) gyvulių veis-
+    lės. A.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-023
+- c-008
+  santrauka: 'Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją, įkūrė matininkų, buhalterių, statybininkų, veterinarų mokyklas Gardine.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    A. Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją, įkūrė
+    matininkų, buhalterių, statybininkų, veterinarų mokyklas Gardine. Jis
+
+    2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S
+    89
+    Lietuvos valstiečiai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-024
+- c-009
+  santrauka: 'Tyzenhauzo reformos buvo vienas iš svarbiausių XVIII a.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    A. Tyzenhauzo reformos buvo vienas iš svarbiau-
+    sių XVIII a. pabaigos Lietuvos gyvenimo reiškinių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-025
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Anglija]]
 - [[objektai/vietos/Paulava]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/ivykiai/Antano Tyzenhauzo reformos]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/Lažas|lažas]]
+- [[objektai/zodynas/činšas]]
+- [[objektai/vietos/Gardinas]]

@@ -42,3 +42,7 @@ Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymi�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/posakiai/„Mano adresas ne namas ir ne gatvė, mano adresas Tarybų Sąjunga“]]

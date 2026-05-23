@@ -10,6 +10,8 @@ datos:
   - '1398 m.'
   - '1407 m.'
   - '1409 m.'
+  - '1426 m.'
+  - '1428 m.'
   - '1936 m.'
   - '2026 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
@@ -75,7 +77,7 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   pagrindžia:
     - c-007
 - t-008
-  teiginys: 'Naugarde, Smolenske ir Tvėrėje.'
+  teiginys: 'Algirdas ir Maskvos kunigaikštis siekė išplėsti savo įtaką Didžiajame Naugarde, Pskove, Smolenske ir Tvėrėje.'
   pagrindžia:
     - c-008
 - t-009
@@ -86,6 +88,30 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   teiginys: 'Dar tebevykstant Maskvos žygiams, Vytautas 1407 m. susi­ taikė su Didžiuoju Naugardu, kur, pačios respublikos prašymu, Vytautas grąžino sau ištikimą Lengvenį Algirdaitį^60.'
   pagrindžia:
     - c-010
+- t-011
+  teiginys: 'Grįžimas namo buvo ne karo žygis, o tik rytinių valstybės pakraščių patikrinimas – pajungiami Pskovas (1426 m.) ir Didysis Naugardas (1428 m.).'
+  pagrindžia:
+    - c-011
+- t-012
+  teiginys: 'Suvažiavime taip pat dalyvavo Maskvos didžiojo kunigaikščio ir Tverės kunigaikščio pasiuntiniai, Riazanės, Odojevo, Didžiojo Naugardo, Pskovo kunigaikščiai, popiežiaus legatas, Vokiečių ordino, Aukso ordos, Moldavijos, Danijos karaliaus ir Bizantijos.'
+  pagrindžia:
+    - c-012
+- t-013
+  teiginys: 'Skirsnemunėje Švitrigaila ir Ordinas patvirtino prieš metus pasirašytą sutartį, taip pat Švitrigaila sustiprino ryšius su Naugardu, Pskovu, Mozūrija, Odojevo ir Tverės kunigaikščiais.'
+  pagrindžia:
+    - c-013
+- t-014
+  teiginys: 'Vytautas sutvarkė reikalus su Didžiuoju Naugardu ir Maskva, kaip anksčiau buvo padaręs Smolenske.'
+  pagrindžia:
+    - c-014
+- t-015
+  teiginys: 'Naugardo ir Por­ chovo miestai, nebenorėdami kariauti, sumokėjo Vytautui 10.000 rublių kontribucijos (1428).'
+  pagrindžia:
+    - c-015
+- t-016
+  teiginys: 'Vytautas turėjo patrankų ir savo žygiuose į Pskovą (1426) bei Naugardą (1428).'
+  pagrindžia:
+    - c-016
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -192,7 +218,7 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   pagrindžia:
     - t-007
 - c-008
-  santrauka: 'Naugarde, Smolenske ir Tvėrėje.'
+  santrauka: 'Algirdas ir Maskvos kunigaikštis siekė išplėsti savo įtaką Didžiajame Naugarde, Pskove, Smolenske ir Tvėrėje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kiekvienas iš veiklių varžovų, norėdamas nurungti
@@ -240,8 +266,114 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-010
+- c-011
+  santrauka: 'Grįžimas namo buvo ne karo žygis, o tik rytinių valstybės pakraščių patikrinimas – pajungiami Pskovas (1426 m.) ir Didysis Naugardas (1428 m.).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Grįžimas
+    namo buvo ne karo žygis, o tik rytinių valstybės pakraščių patikrinimas –
+    pajungiami Pskovas (1426 m.) ir Didysis Naugardas (1428 m.).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+- c-012
+  santrauka: 'Suvažiavime taip pat dalyvavo Maskvos didžiojo kunigaikščio ir Tverės kunigaikščio pasiuntiniai, Riazanės, Odojevo, Didžiojo Naugardo, Pskovo kunigaikščiai, popiežiaus legatas, Vokiečių ordino, Aukso ordos, Moldavijos, Danijos karaliaus ir Bizantijos.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Suvažiavime
+    taip pat dalyvavo Maskvos didžiojo kunigaikščio ir Tverės kunigaikščio
+    pasiuntiniai, Riazanės, Odojevo, Didžiojo Naugardo, Pskovo kunigaikš-
+    čiai, popiežiaus legatas, Vokiečių ordino, Aukso ordos, Moldavijos, Da-
+    nijos karaliaus ir Bizantijos imperatoriaus pasiuntiniai. Lucko suvažiavi-
+    mas rodė LDK ir Vytauto vaidmens svarbą regione, o į Lietuvos istoriją
+    įėjo pirmiausia dėl Vytauto vainikavimo plano, kurį rėmė Zigmantas I
+    ir Vokiečių ordinas, siekdamas sukurti regione atsvarą Lenkijai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+- c-013
+  santrauka: 'Skirsnemunėje Švitrigaila ir Ordinas patvirtino prieš metus pasirašytą sutartį, taip pat Švitrigaila sustiprino ryšius su Naugardu, Pskovu, Mozūrija, Odojevo ir Tverės kunigaikščiais.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Skirsnemunėje Švitrigaila ir Ordinas
+    patvirtino prieš metus pasirašytą sutartį,
+    taip pat Švitrigaila sustiprino ryšius su
+    Naugardu, Pskovu, Mozūrija, Odojevo ir
+    Tverės kunigaikščiais. Tuo tarpu Jogailos
+    Lenkijos santykiai su Ordinu aštrėjo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+- c-014
+  santrauka: 'Vytautas sutvarkė reikalus su Didžiuoju Naugardu ir Maskva, kaip anksčiau buvo padaręs Smolenske.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Sutvarkė reikalus su Smo­
+    lensku, kuriame irgi paliko savo vietininkus. Tą padarė ir su
+    Didž. Naugardu ir Maskva. Teko dabar jam ir naujų Rusijos
+    žemių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
+- c-015
+  santrauka: 'Naugardo ir Por­ chovo miestai, nebenorėdami kariauti, sumokėjo Vytautui 10.000 rublių kontribucijos (1428).'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Naugardo ir Por­
+    chovo miestai, nebenorėdami kariauti, sumokėjo Vytautui
+    10.000 rublių kontribucijos (1428). Kontribucijos ir bausmės bu­
+    vo imamos ir nuo nepaklusnių bei atkritusių rusų kunigaikščių,
+    kurių žemės vėl būdavo užkariaujamos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
+- c-016
+  santrauka: 'Vytautas turėjo patrankų ir savo žygiuose į Pskovą (1426) bei Naugardą (1428).'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Vytautas turėjo patrankų ir savo žygiuose į Pskovą
+    (1426) bei Naugardą (1428). Žymiausia jų buvo Halka, kurią
+    veždavo 20 porų arklių prieš piet ir tiek pat po piet.
+    Mykolas Brenšteinas^1 ), remdamasis įvairiomis kroniko­
+    mis, mano, kad Vytauto amžiaus gale lietuvių artilerija buvo jau
+    nemenka ir kad to amato lietuviai išmokę iš kryžiuočiu; iš jų
+    retais atsitikimais gaudavę ir patranką.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Artilerija]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Mykolas]]
+- [[objektai/vietos/Naugardas]]
 - [[objektai/vietos/Pskovas]]
-- [[objektai/vietos/Tverė]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/kontribucija]]
+- [[objektai/vietos/Smolenskas]]

@@ -56,4 +56,8 @@ Vyslos žemupio gotai buvo pasistumėję toliau į rytus, įsikurdami Rytprū­ 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Aistmarios]]
 - [[objektai/grupes/Gotai]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Vysla]]

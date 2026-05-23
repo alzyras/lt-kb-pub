@@ -174,3 +174,14 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Dobrogostas]]
+- [[objektai/vietos/Gniezno]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Perudžija]]
+- [[objektai/asmenys/Urbonas VI]]
+- [[objektai/vietos/Viena]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/brevė]]

@@ -71,4 +71,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/SSRS]]
+- [[objektai/zodynas/Savanoris]]
 - [[objektai/asmenys/I. Drakša]]

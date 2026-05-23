@@ -50,4 +50,8 @@ Todėl 1309 m. didysis magistras su visa taryba atsikėlė į Marijenburgą, ir 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Italija]]
+- [[objektai/vietos/Prūsija]]
+- [[objektai/vietos/Vengrija]]
 - [[objektai/zodynas/didysis magistras]]
+- [[objektai/zodynas/magistras]]

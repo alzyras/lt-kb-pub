@@ -88,7 +88,12 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/polonizacija]]
 - [[objektai/zodynas/bolševizacija]]
 - [[objektai/zodynas/integracinė kalba polonizacija]]
 - [[objektai/zodynas/oficialusis kultūros modelis]]
-- [[objektai/zodynas/polonizacija]]

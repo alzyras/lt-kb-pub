@@ -56,3 +56,17 @@ Labai vaizdžiai ir gyvai ap­ rašyta vieno keliautojo kelionės su įvairiausi
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Arabija]]
+- [[objektai/asmenys/Bernardas Berensonas]]
+- [[objektai/asmenys/Czesław Miłosz]]
+- [[objektai/asmenys/Gertrude Ellion]]
+- [[objektai/asmenys/Nadine Gordimer]]
+- [[objektai/vietos/Pietų Afrikos Sąjunga]]
+- [[objektai/asmenys/Sydney Brenner]]
+- [[objektai/asmenys/Timūras (Tamerlanas)]]
+- [[objektai/grupes/Užsienio lietuviai]]
+- [[objektai/asmenys/Christiaan Barnard]]
+- [[objektai/asmenys/Davidas Suchetas]]
+- [[objektai/grupes/Litvakai]]
+- [[objektai/vietos/Pietų Afrikos Respublika]]
+- [[objektai/ivykiai/Pirmoji pasaulyje žmogaus širdies persodinimo operacija (1967 m.)]]
+- [[objektai/vietos/Tryškiai]]

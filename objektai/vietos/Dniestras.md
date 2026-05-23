@@ -55,3 +55,16 @@ Podolei ir Rusiai jie svarbi Jėga ginantis nuo totorių, kurie, kazokų bijodam
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Chotinas]]
+- [[objektai/ivykiai/Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)]]
+- [[objektai/vietos/Kijevo Rusia]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Podolė]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/vietos/Baltoji pakrantė]]
+- [[objektai/vietos/Chocimas]]
+- [[objektai/vietos/Dniestro upė]]
+- [[objektai/vietos/Dorpatas]]

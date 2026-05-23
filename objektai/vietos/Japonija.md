@@ -47,3 +47,15 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Estija]]
+- [[objektai/vietos/Italija]]
+- [[objektai/vietos/Latvija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Meksika]]
+- [[objektai/vietos/Nemunas]]
+- [[objektai/zodynas/de jure]]
+- [[objektai/vietos/Šiaurės Amerika]]
+- [[objektai/ivykiai/Didžiųjų santarvės valstybių Lietuvos de jure pripažinimas (1922 m. gruodžio 20 d.)]]

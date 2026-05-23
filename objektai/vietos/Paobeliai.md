@@ -58,3 +58,9 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/J. Šarauskas]]
+- [[objektai/vietos/Kėdainiai]]
+- [[objektai/asmenys/V. Vainauskas]]

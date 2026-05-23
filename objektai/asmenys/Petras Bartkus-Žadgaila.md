@@ -53,3 +53,11 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
+- [[objektai/vietos/Radviliškis]]
+- [[objektai/grupes/Prisikėlimo apygarda]]
+- [[objektai/ivykiai/Užpelkių kautynės]]
+- [[objektai/ivykiai/Užpelkių kautynės (1949 m.)]]

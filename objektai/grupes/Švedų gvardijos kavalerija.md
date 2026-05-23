@@ -79,5 +79,7 @@ Netrukus karalius duos nurodymą siųsti gvardijos kavaleriją į lemiamą atak�
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/husarai]]
 - [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)]]
 - [[objektai/asmenys/T. Lackis]]

@@ -49,3 +49,12 @@ tags:
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/laiškas]]
+
+### Susiję objektai
+- [[objektai/asmenys/Juozas Lukša-Skirmantas]]
+- [[objektai/asmenys/Kazimieras]]
+- [[objektai/asmenys/Kazimieras Pyplys-Mažytis]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/SSRS]]
+- [[objektai/ivykiai/Partizanų dokumentų nugabenimas į laisvąjį pasaulį (1947 m. pabaiga)]]
+- [[objektai/asmenys/Pijus XII]]

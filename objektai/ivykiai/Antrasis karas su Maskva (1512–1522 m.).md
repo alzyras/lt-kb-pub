@@ -55,4 +55,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Maskva]]
 - [[objektai/vietos/Smolenskas]]

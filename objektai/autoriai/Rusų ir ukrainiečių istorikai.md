@@ -44,7 +44,7 @@ Odesos universiteto istorikas V. Savo pastabas yra tuo pat metu įdomiai išdės
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-004
-  teiginys: 'Kitas ukrainietis istorikas V.'
+  teiginys: 'Ukrainiečių istorikai M. Hruševskis ir V. Zaikinas rašė Lietuvos Didžiosios Kunigaikštystės istorijos temomis.'
   pagrindžia:
     - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -55,6 +55,14 @@ Odesos universiteto istorikas V. Savo pastabas yra tuo pat metu įdomiai išdės
     - c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-006
+  teiginys: 'Rusų ir ukrainiečių istorikai atskira kny­ ga140a, kurios žymią dalį J.'
+  pagrindžia:
+    - c-006
+- t-007
+  teiginys: 'Rusų ir ukrainiečių kalbomis rašė ir žinomas ukrainie­ čių istorikas M.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -113,7 +121,7 @@ Odesos universiteto istorikas V. Savo pastabas yra tuo pat metu įdomiai išdės
   pagrindžia:
     - t-003
 - c-004
-  santrauka: 'Kitas ukrainietis istorikas V.'
+  santrauka: 'Ukrainiečių istorikai M. Hruševskis ir V. Zaikinas rašė Lietuvos Didžiosios Kunigaikštystės istorijos temomis.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Rusų ir ukrainiečių kalbomis rašė ir žinomas ukrainie­
@@ -144,3 +152,39 @@ Odesos universiteto istorikas V. Savo pastabas yra tuo pat metu įdomiai išdės
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Rusų ir ukrainiečių istorikai atskira kny­ ga140a, kurios žymią dalį J.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Savo paskaitas Lietuvos istorijos temomis išleido jis atskira kny­
+    ga140a, kurios žymią dalį J. Sondeckis išvertė lietuviškai^141. Lie­
+    tuvos valstybės ekonomikos klausimus nagrinėdamas, daug isto­
+    rinių duomenų surinko M.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: 'Rusų ir ukrainiečių kalbomis rašė ir žinomas ukrainie­ čių istorikas M.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Rusų ir ukrainiečių kalbomis rašė ir žinomas ukrainie­
+    čių istorikas M. Hruševskis. Jis tyrinėjo senovės Kijevo
+    žemės istoriją iki mongolų laikų ir toliau kaip tą žemę užval­
+    dė Lietuvos kunigaikščiai^146.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Kijevas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/ivykiai/Mongolų (totorių) invazija (1237-1240 m.)]]

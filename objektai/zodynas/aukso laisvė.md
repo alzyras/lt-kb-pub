@@ -46,4 +46,6 @@ Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vad
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Maskva]]
 - [[objektai/posakiai/aukso laisvė tikroji laisvė]]

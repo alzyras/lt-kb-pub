@@ -83,4 +83,9 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/2-asis pėstininkų pulkas]]
+- [[objektai/vietos/Alytus]]
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Rusija]]
 - [[objektai/daiktai/Mosin-Nagant šautuvas]]

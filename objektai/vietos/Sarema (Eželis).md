@@ -41,3 +41,7 @@ Jie pasiekdavo tolimus pajūrius, o žiemos metu, ledu perėję įlanką, nusiga
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Lietuviai]]

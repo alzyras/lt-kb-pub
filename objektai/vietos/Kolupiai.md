@@ -52,3 +52,9 @@ Jesu P k vertė trauktis Kolupių kaime, prie vieškelio iš Kėdainių į Šėt
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Bolševikai]]
+- [[objektai/vietos/Kėdainiai]]
+- [[objektai/grupes/Lietuviai]]

@@ -45,4 +45,18 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Europa]]
+- [[objektai/vietos/Viena]]
+- [[objektai/zodynas/protestantizmas]]
+- [[objektai/autoriai/Adomas Bremenietis]]
+- [[objektai/grupes/Antantė]]
+- [[objektai/asmenys/Bona Sforca]]
+- [[objektai/vietos/Gudijos plotai]]
+- [[objektai/grupes/Variagai (normanai)]]
+- [[objektai/zodynas/bajorkaimiai]]
+- [[objektai/zodynas/de jure]]
+- [[objektai/posakiai/homines humanissimi]]
+- [[objektai/zodynas/variagų (normanų) laikotarpis]]
+- [[objektai/daiktai/Šakutė]]
+- [[objektai/autoriai/B. Nerman]]
 - [[objektai/vietos/Šiaurės Europa]]

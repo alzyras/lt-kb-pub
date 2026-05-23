@@ -55,4 +55,10 @@ Ilgą laiką panašiai buvo ir su Naugardo respublika, nors Algirdas siekė ją 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/vietos/D. Naugardas]]
+- [[objektai/vietos/Maskva]]
+- [[objektai/vietos/Naugardas]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/grupes/Didžiojo Naugardo respublika]]

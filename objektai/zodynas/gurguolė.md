@@ -64,4 +64,12 @@ Bėgdami Timūr-Kutluko totoriai paėmė gurguolę, vežimus su geležinėmis gr
 - [[temos/transportas]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Timūr-Kutlukas]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/daiktai/Vežimai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/daiktai/Kablinis šautuvas]]
+- [[objektai/grupes/Lietuvos kariuomenės 2-ojo pėstininkų Didžiojo Lietuvos kunigaikščio Algirdo pulko mokomoji kuopa]]
+- [[objektai/asmenys/S. Mickevičius]]
 - [[objektai/daiktai/Geležinėmis grandinėmis kaustyti vežimai]]

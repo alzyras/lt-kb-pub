@@ -11,15 +11,15 @@ saltiniai:
   - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
 bukle: juodrastis
 laikotarpis: ""
-datos: []
-periodas: ""
-periodo_grupes: []
-amziai: []
-date_start: ""
-date_end: ""
 vaidmenys: []
 dalyviai: []
 susije_irasai: []
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: "vidutinis"
 tags:
   - vieta
@@ -65,6 +65,10 @@ Pavadinimas siejamas su senosiomis rusėniškosiomis LDK žemėmis ir modernios 
     - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-013
+  teiginys: '„Vidurinės Lietuvos“ prasmę galima suvokti tik turint omenyje, jog į rytus nuo jos senosios rusėniškosios LDK žemės vadinamos „Minsko“, arba „rusėnų“, Lietuva.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -112,6 +116,22 @@ Pavadinimas siejamas su senosiomis rusėniškosiomis LDK žemėmis ir modernios 
   pagrindžia:
     - t-010
     - t-012
+- c-004
+  santrauka: '„Vidurinės Lietuvos“ prasmę galima suvokti tik turint omenyje, jog į rytus nuo jos senosios rusėniškosios LDK žemės vadinamos „Minsko“, arba „rusėnų“, Lietuva.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    „Vidurinės Lietuvos“ prasmę galima suvokti tik
+    turint omenyje, jog į rytus nuo jos senosios rusėniškosios LDK žemės va-
+    dinamos „Minsko“, arba „rusėnų“, Lietuva. Ši trijų dalių Lietuvos sampra-
+    ta, pasitelkiama neva siekiant atkurti LDK tradiciją, buvo tik deklaracija,
+    nebeatitinkanti istorinės tikrovės.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
 
 ## Šaltiniai ir įrodymai
 
@@ -120,3 +140,6 @@ Pavadinimas siejamas su senosiomis rusėniškosiomis LDK žemėmis ir modernios 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/lietuva]]
+
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]

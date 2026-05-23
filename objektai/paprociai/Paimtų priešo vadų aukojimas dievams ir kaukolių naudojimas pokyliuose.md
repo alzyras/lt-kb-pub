@@ -65,3 +65,9 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Malkinė]]
+- [[objektai/zodynas/Karinės vadovybės rangai|karinės vadovybės rangai]]
+- [[objektai/grupes/Lietuviai]]

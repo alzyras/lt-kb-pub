@@ -109,7 +109,16 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
 - [[temos/paliaubos]]
 
 ### Susiję objektai
-- [[objektai/grupes/Aukščiausioji Santarvininkių Taryba]]
 - [[objektai/vietos/Ežeronis]]
-- [[objektai/vietos/Spa]]
+- [[objektai/vietos/Kijevas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Nemunas]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Sovietų Rusija]]
+- [[objektai/vietos/Viena]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/vietos/Volia]]
+- [[objektai/grupes/Aukščiausioji Santarvininkių Taryba]]

@@ -54,3 +54,19 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Brianskas]]
+- [[objektai/asmenys/Glebas (Smolensko kunigaikštis)]]
+- [[objektai/vietos/Kijevo Rusia]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
+- [[objektai/vietos/Smolenskas]]
+- [[objektai/asmenys/Timūras (Tamerlanas)]]
+- [[objektai/vietos/Turovas]]
+- [[objektai/zodynas/chanas]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Jagurčinas]]
+- [[objektai/asmenys/Olegas (Romano sūnus)]]

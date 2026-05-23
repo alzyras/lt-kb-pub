@@ -75,4 +75,6 @@ BECAS turėjo vykti Katinų | Bendrasis rezervas (vadas - karin. Dešinioji kolo
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/bendrasis rezervas]]
+- [[objektai/zodynas/rezervas]]
 - [[objektai/vietos/Griniūnai]]

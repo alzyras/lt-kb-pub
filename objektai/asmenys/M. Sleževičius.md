@@ -54,3 +54,13 @@ Sleževičius.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Daugpilis]]
+- [[objektai/vietos/Dauguva]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/daiktai/Ginklai ir ginkluotė]]
+- [[objektai/paprociai/Karinė savanorystė ir žemės pažadas valstybės gynimui]]
+- [[objektai/posakiai/„lenkai atakuoja...“]]

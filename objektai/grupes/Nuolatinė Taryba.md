@@ -144,4 +144,12 @@ Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba n
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/grupes/Karo ir iždo komisijos]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Rusija]]
 - [[objektai/grupes/Gardino seimas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/organas]]

@@ -41,7 +41,7 @@ Nenurodyta
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kalavijas.'
+  teiginys: 'XIII a. kalavijas, saugomas VDKM, rastas Raudonėje.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -49,7 +49,7 @@ Nenurodyta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kalavijas.'
+  santrauka: 'XIII a. kalavijas, saugomas VDKM, rastas Raudonėje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     P. 30, XIII a. Kalavijas. Rastas Raudonėje, VDKM, Artūro Užgalio nuotr.

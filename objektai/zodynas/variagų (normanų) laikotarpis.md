@@ -51,4 +51,9 @@ Kai Dniepro baseine prasidėjo variagų (normanų) laikotarpis, —atvykus iš S
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Dniepras]]
+- [[objektai/vietos/Gudija]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Skandinavija]]
+- [[objektai/vietos/Gudijos plotai]]
 - [[objektai/grupes/Variagai (normanai)]]

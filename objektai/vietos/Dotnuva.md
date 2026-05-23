@@ -42,3 +42,8 @@ Kauno Vytauto Didžiojo universiteto veiklą papildė Žemės ūkio akademija Do
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Kaunas]]
+- [[objektai/grupes/Lietuviai]]

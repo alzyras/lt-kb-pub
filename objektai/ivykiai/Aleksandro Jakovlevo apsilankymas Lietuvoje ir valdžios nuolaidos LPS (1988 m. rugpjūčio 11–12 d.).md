@@ -55,3 +55,9 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Aleksandras Jakovlevas]]
+- [[objektai/vietos/Vingio parkas]]
+- [[objektai/posakiai/„inteligentija – liaudies savimonės išraiška“]]

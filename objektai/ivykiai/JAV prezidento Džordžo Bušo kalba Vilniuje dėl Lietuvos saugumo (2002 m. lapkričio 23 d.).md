@@ -67,4 +67,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/NATO]]
+- [[objektai/vietos/Vilnius]]
 - [[objektai/asmenys/Džordžas Bušas]]

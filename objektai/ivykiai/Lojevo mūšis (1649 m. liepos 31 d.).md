@@ -10,14 +10,6 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 bukle: 'juodrastis'
 laikotarpis: '1649 m. liepos 31 d.'
-datos:
-  - '1649 m. liepos 31 d.'
-periodas: 'ankstyvieji_naujieji_laikai'
-periodo_grupes: []
-amziai:
-  - 'XVII'
-date_start: '1649'
-date_end: '1649'
 vaidmenys: []
 dalyviai:
   - 'Jonušas Radvila'
@@ -25,6 +17,15 @@ dalyviai:
   - 'Simonas Podobaila'
   - 'Vincentas Gosievskis'
 susije_irasai: []
+datos:
+  - '1649 m.'
+periodas: 'ankstyvieji_naujieji_laikai'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVII'
+date_start: '1649'
+date_end: ''
 patikimumas: 'aukstas'
 tags:
   - mūšis
@@ -66,6 +67,10 @@ Nenurodyta
     - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-008
+  teiginys: 'Padariniai Lojevo mūšis - pirmoji kunigaikščio J.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -152,3 +157,35 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-007
+- c-004
+  santrauka: 'Padariniai Lojevo mūšis - pirmoji kunigaikščio J.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Padariniai
+
+    Lojevo mūšis - pirmoji kunigaikščio J. Rad-
+    vilos svari pergalė. Kartu tai ir Vakarų Eu-
+    ropos karo meno pergalė prieš rytietišką
+    karybą. Galutinėje mūšio fazėje, turėdamas
+    tik apie 5500 karių, Radvila prieš save tu-
+    rėjo triskart didesnes priešo pajėgas. Kazokų
+    žuvo keli tūkstančiai (Radvilos tvirtinimu
+    apie 7000). Pergalė plačiai aptarinėta, garsas
+
+    letininkai
+    (pikinieriai)
+
+    apie ją pasklido ir visoje Europoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Europa]]
+- [[objektai/vietos/Lojevas]]
+- [[objektai/vietos/Salaspilis]]

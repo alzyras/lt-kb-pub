@@ -53,5 +53,5 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Rimaisiai]]
+- [[objektai/vietos/Lietuva]]
 - [[objektai/daiktai/Sidabruotos geležinės balnakilpės]]

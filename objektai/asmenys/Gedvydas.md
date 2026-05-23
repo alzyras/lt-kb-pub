@@ -52,3 +52,11 @@ Stiprindamas centrinę valdžią Mindaugas 1249 m. iš žemaičių kunigaikšči
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Voluinė]]
+- [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/grupes/Žemaičiai]]
+- [[objektai/asmenys/Mindaugas]]

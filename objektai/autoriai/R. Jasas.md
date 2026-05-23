@@ -59,3 +59,10 @@ Lietuvių kovas su kryžiuočiais ir kalavijuočiais aprašė ir visa eilė isto
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/LTSR Mokslų Akademijos Istorijos Institutas]]
+- [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

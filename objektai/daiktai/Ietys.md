@@ -72,4 +72,9 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Artilerija]]
+- [[objektai/vietos/Lietuva]]
 - [[objektai/daiktai/Kalavijai]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/zodynas/petihorai]]
+- [[objektai/zodynas/žalvario amžius]]

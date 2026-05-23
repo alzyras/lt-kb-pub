@@ -75,3 +75,8 @@ Divizija turėjo 6 pabūklus, kurių dauguma buvo išdėstyta įtvirtinimuose Li
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Artilerija]]
+- [[objektai/vietos/Vilnius]]
