@@ -9,6 +9,7 @@ export interface D3Config {
   drag: boolean
   zoom: boolean
   depth: number
+  directLinksOnly?: boolean
   scale: number
   repelForce: number
   centerForce: number
@@ -38,6 +39,7 @@ const defaultOptions: GraphOptions = {
     drag: true,
     zoom: true,
     depth: 1,
+    directLinksOnly: true,
     scale: 1.1,
     repelForce: 0.5,
     centerForce: 0.3,
@@ -59,7 +61,8 @@ const defaultOptions: GraphOptions = {
   globalGraph: {
     drag: true,
     zoom: true,
-    depth: -1,
+    depth: 1,
+    directLinksOnly: true,
     scale: 0.9,
     repelForce: 0.5,
     centerForce: 0.2,

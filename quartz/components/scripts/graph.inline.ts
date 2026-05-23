@@ -97,6 +97,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     showTags,
     focusOnHover,
     enableRadial,
+    directLinksOnly = depth >= 0,
     labelMinZoom = 0.9,
     labelMaxVisible = 60,
     labelDegreeThreshold = 2,
@@ -174,7 +175,15 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   const graphData: { nodes: NodeData[]; links: LinkData[] } = {
     nodes,
     links: links
-      .filter((l) => neighbourhood.has(l.source) && neighbourhood.has(l.target))
+      .filter((l) => {
+        if (!neighbourhood.has(l.source) || !neighbourhood.has(l.target)) {
+          return false
+        }
+        if (directLinksOnly) {
+          return l.source === slug || l.target === slug
+        }
+        return true
+      })
       .map((l) => ({
         source: nodes.find((n) => n.id === l.source)!,
         target: nodes.find((n) => n.id === l.target)!,
