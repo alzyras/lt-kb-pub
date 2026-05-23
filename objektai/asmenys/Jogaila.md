@@ -347,11 +347,6 @@ Jogaila šiame šaltinyje rodomas kaip Lietuvos valdovas, tapęs Lenkijos karali
   teiginys: 'Stačiai keistai atrodo Vytauto pasitikėjimas Jogaila, nors jau ne kartą buvo paaiškėję, kad Jogaila neteisingai elgėsi.'
   pagrindžia:
     - c-083
-- t-078
-  teiginys: 'Jogaila galutinai atsisakė nuo sąjungos su Ordinu, susitaikė su Jogai­ la ir lenkais ir gavo valdyti ne tik tėviškę, bet ir visą Lietuvą.'
-  pagrindžia:
-    - c-084
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Jogaila 1382 m. susaistė save sutartimi su kryžiuočiais.
@@ -1573,25 +1568,6 @@ Jogaila šiame šaltinyje rodomas kaip Lietuvos valdovas, tapęs Lenkijos karali
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-077
-- c-084
-  santrauka: 'Jogaila galutinai atsisakė nuo sąjungos su Ordinu, susitaikė su Jogai­ la ir lenkais ir gavo valdyti ne tik tėviškę, bet ir visą Lietuvą.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Smulk­
-    menos niekad nenustelbė jame didesniųjų uždavinių, o kartais
-    tolimi tikslai nesumažino jo sugebėjimo naudotis momentu ir
-    taikintis prie esamų aplinkybių.
-    1392 metai Vytauto gyvenime yra persilaužimo metai —
-    jis galutinai atsisakė nuo sąjungos su Ordinu, susitaikė su Jogai­
-    la ir lenkais ir gavo valdyti ne tik tėviškę, bet ir visą Lietuvą.
-    Jo santykiai su tauta pasikeitė.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-078
 
 ## Ryšiai
 ### Susiję objektai
