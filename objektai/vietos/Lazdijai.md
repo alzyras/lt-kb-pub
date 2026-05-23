@@ -46,8 +46,12 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Druskininkai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Nemunas]]
 - [[objektai/vietos/Varėna]]
+- [[objektai/vietos/Kalniškės miškas]]
+- [[objektai/vietos/Krosna]]
+- [[objektai/vietos/Šeštokai]]
 - [[objektai/vietos/Lietuva]]

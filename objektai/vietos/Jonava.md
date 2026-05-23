@@ -51,3 +51,4 @@ Tuo tarpu rusai atsiėmė Ukmergę, Jonavą ir Šiaulius.
 - [[objektai/vietos/Kauno HES]]
 - [[objektai/grupes/Lietuvių policijos savisaugos batalionai]]
 - [[objektai/vietos/Mažeikių naftos perdirbimo įmonė]]
+- [[objektai/vietos/Šiauliai]]

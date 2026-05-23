@@ -100,5 +100,4 @@ Nenurodyta
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/maršalka]]
 - [[objektai/zodynas/tėviškė]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/vietos/Marienburgas]]

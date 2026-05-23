@@ -83,5 +83,7 @@ Rinktinės pajėgos gegužės 13 d. susitelkė Krekenavos-Ramygalos rajonuose. -
 - [[temos/papuošalas]]
 
 ### Susiję objektai
+- [[objektai/grupes/Bolševikai]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/vietos/Krekenava]]

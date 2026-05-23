@@ -53,6 +53,7 @@ Vartojamos formos: `nomadžiais`.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Namas]]
+- [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/Šaldros|šaldros]]

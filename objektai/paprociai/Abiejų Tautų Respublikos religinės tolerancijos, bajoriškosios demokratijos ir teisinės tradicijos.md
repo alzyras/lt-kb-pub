@@ -86,4 +86,5 @@ Nenurodyta
 - [[objektai/zodynas/barokas]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/unija]]
+- [[objektai/grupes/Žydai]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]

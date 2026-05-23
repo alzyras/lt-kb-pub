@@ -108,6 +108,7 @@ Nenurodyta
 - [[objektai/vietos/Europa]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Maskvėnai]]
 - [[objektai/asmenys/Mikalojus (Gniezno arkivyskupas)]]
 - [[objektai/asmenys/Mykolas]]
 - [[objektai/autoriai/Mykolas Lietuvis]]

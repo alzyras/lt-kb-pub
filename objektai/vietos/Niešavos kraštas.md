@@ -58,4 +58,3 @@ Lietuvai atiteko žymi dalis Žemaičių ir Sūduvos dykros, o Lenkija gavo Nie�
 - [[objektai/vietos/Niešava]]
 - [[objektai/vietos/Sūduva]]
 - [[objektai/zodynas/dykra]]
-- [[objektai/grupes/Žemaičiai]]

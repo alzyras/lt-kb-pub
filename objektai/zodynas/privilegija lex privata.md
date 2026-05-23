@@ -52,6 +52,7 @@ Tai buvo vadinamosios privilegijos (lex privata). Lietuvoje, įvedus krikščion
 - [[temos/privilegija]]
 
 ### Susiję objektai
+- [[objektai/grupes/Bajorai]]
 - [[objektai/vietos/Europa]]
 - [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
 - [[objektai/zodynas/luomas]]

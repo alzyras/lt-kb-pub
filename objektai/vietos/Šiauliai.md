@@ -260,4 +260,5 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
 - [[objektai/ivykiai/Šiaulių ekonomijos valstiečių sukilimas (1769 m.)]]
 - [[objektai/vietos/Šiaulių getas]]
 - [[objektai/vietos/Šiaulių žemė]]
+- [[objektai/vietos/Jonava]]
 - [[objektai/asmenys/Virgoličius]]

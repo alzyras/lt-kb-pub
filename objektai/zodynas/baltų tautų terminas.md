@@ -47,3 +47,4 @@ Lig šiol svetimšaliai, kai kalbėdavo apie lietuvių kilmės tautas, vartodavo
 ### Susiję objektai
 - [[objektai/vietos/Baltija]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Baltai]]

@@ -45,3 +45,4 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
 ### Susiję objektai
 - [[objektai/daiktai/Namas]]
 - [[objektai/vietos/Rusija]]
+- [[objektai/grupes/Vokiečiai]]

@@ -56,3 +56,4 @@ Butkaus vadovaujamą 200 karių rinktinę. Butkaus vadovaujamas Marijampolės ba
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Prienai]]

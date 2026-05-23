@@ -194,5 +194,7 @@ Nenurodyta
 - [[objektai/grupes/NKVD]]
 - [[objektai/vietos/SSRS]]
 - [[objektai/zodynas/Miera|miera]]
+- [[objektai/grupes/Žydai]]
+- [[objektai/daiktai/Drabužiai]]
 - [[objektai/grupes/Lietuvos partizanai]]
 - [[objektai/ivykiai/Lietuvos partizaninis karas dėl nepriklausomybės atkūrimo (1944–1953 m.)]]

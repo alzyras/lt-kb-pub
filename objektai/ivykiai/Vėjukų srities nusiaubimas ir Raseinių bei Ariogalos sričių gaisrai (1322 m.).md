@@ -71,4 +71,5 @@ Nenurodyta
 - [[objektai/vietos/Dubysa]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/vietos/Peštvė]]
-- [[objektai/grupes/Žemaičiai]]
+- [[objektai/vietos/Raseiniai]]
+- [[objektai/zodynas/kryžininkai]]

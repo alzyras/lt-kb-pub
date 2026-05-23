@@ -99,6 +99,7 @@ Nenurodyta
 - [[objektai/vietos/Europa]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/SSRS]]
+- [[objektai/grupes/Žydai]]
 - [[objektai/vietos/Sibiras]]
 - [[objektai/vietos/Viena]]
 - [[objektai/zodynas/kolektyvizacija]]

@@ -108,4 +108,5 @@ Sausio 12 d. Aukščiausioji Taryba - Atkuriamasis Seimas, vadovaujamas pirminin
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/tautos atstovai]]
 - [[objektai/zodynas/vora]]
+- [[objektai/daiktai/Šarvuočiai]]
 - [[objektai/grupes/Aukščiausioji Taryba-Atkuriamasis Seimas]]

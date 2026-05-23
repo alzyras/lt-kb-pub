@@ -104,5 +104,7 @@ Tverės kunigaikštis puolė Dmitrovą, o tuo metu Kęstutis ir Andrius Algirdai
 - [[objektai/vietos/Maskva]]
 - [[objektai/vietos/Smolenskas]]
 - [[objektai/vietos/Tverė]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/zodynas/kunigaikščiai]]

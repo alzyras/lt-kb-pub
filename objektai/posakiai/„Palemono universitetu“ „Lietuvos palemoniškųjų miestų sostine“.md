@@ -45,3 +45,4 @@ Kilmės iš romėnų teorija, susipynusi su lotynų – „romėnų“ kalbos va
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/Martynas Mažvydas Vaitkūnas]]
+- [[objektai/grupes/Romėnai]]

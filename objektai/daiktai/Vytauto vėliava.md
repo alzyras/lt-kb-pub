@@ -84,4 +84,5 @@ Nenurodyta
 - [[objektai/vietos/Maskva]]
 - [[objektai/asmenys/Mykolas]]
 - [[objektai/vietos/Polockas]]
+- [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/vėliava]]

@@ -115,6 +115,7 @@ Kovai prieš Ordiną Lenkija suartėjo su Čekijos husitais. Ordinas, pirmiausia
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Husitai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/vietos/Lenkija]]
 - [[objektai/grupes/Lenkijos kariuomenė]]
@@ -123,8 +124,11 @@ Kovai prieš Ordiną Lenkija suartėjo su Čekijos husitais. Ordinas, pirmiausia
 - [[objektai/vietos/Livonija]]
 - [[objektai/grupes/Livonijos ordinas]]
 - [[objektai/grupes/Totoriai]]
+- [[objektai/vietos/Užpaliai]]
+- [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Čekai]]
 - [[objektai/vietos/Čekija]]
 - [[objektai/asmenys/Švitrigaila]]
 - [[objektai/grupes/Žemaičiai]]

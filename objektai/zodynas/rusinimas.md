@@ -88,7 +88,10 @@ Brutaliu, diskriminaciniu rusinimu valdžia siekė aneksuotas Lenkijos ir Lietuv
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/vietos/Rusija]]
+- [[objektai/grupes/Stačiatikiai]]
 - [[objektai/ivykiai/1830-1831 m. ir 1863 m. sukilimai]]
 - [[objektai/paprociai/Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m]]
 - [[objektai/asmenys/Ivanas Kornilovas]]

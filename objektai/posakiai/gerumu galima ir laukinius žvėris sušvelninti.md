@@ -114,4 +114,5 @@ Vytautui priskiriama moralinė formulė teigia, kad gerumas pajėgus sušvelnint
 - [[objektai/vietos/Viena]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/vietos/Rusija]]
+- [[objektai/grupes/Totoriai]]
 - [[objektai/posakiai/„gerumu galima ir laukinius žvėris sušvelninti.“]]

@@ -65,5 +65,6 @@ tags:
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Livonija]]
 - [[objektai/vietos/Nemunas]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/vietos/Padauguvio Sėla]]
 - [[objektai/ivykiai/Gedimino taikos sutartis su Livonija (1322 m.)]]

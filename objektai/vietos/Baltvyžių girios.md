@@ -46,5 +46,6 @@ Negalėdami spaudos atšaukimo pasiekti per ministerius, — Vilniaus generalgub
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Kaunas]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/generalgubernatorius]]

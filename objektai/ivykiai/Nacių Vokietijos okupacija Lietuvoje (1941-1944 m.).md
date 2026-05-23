@@ -55,3 +55,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Vokietija]]
+- [[objektai/grupes/Žydai]]

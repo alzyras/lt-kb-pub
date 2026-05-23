@@ -61,4 +61,5 @@ Mūšio išvakarėse Parengiamieji žygiai buvo organizuoti dviem kryptims: nuo 
 ### Susiję objektai
 - [[objektai/vietos/Donas]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Totoriai]]
 - [[objektai/vietos/Krymas]]

@@ -52,4 +52,5 @@ Statutas, paruoštas vadovaujant kancleriui Albertui Goštautui, buvo taisomas k
 - [[temos/privilegija]]
 
 ### Susiję objektai
+- [[objektai/grupes/Bajorai]]
 - [[objektai/zodynas/statutas]]

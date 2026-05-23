@@ -61,5 +61,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/vietos/Alytus]]
 - [[objektai/asmenys/Povilas Lukšys]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/vietos/Telšiai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Lietuviai]]

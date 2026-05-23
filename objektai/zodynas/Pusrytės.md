@@ -58,4 +58,5 @@ Papildomos aiškios formos neišskirtos.
 - [[objektai/grupes/Krikščionys]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Žydai]]
+- [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/paprociai/Žydų prekybos ribojimas pilyse iki pusrytės]]

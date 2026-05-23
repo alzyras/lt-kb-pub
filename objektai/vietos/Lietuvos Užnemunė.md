@@ -83,5 +83,6 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Suvalkai]]
 - [[objektai/zodynas/gubernija]]
 - [[objektai/vietos/Suvalkų gubernija]]

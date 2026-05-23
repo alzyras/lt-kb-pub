@@ -79,6 +79,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Prostkai]]
 - [[objektai/ivykiai/Prostkų mūšis (1656 m. spalio 8 d.)]]
 - [[objektai/vietos/Prūsija]]
 - [[objektai/vietos/Rusija]]

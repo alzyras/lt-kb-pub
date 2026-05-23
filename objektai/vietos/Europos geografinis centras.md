@@ -120,6 +120,7 @@ Vieta apibrėžiama Lietuvos ir Vilniaus geografiniame kontekste.
 ### Susiję objektai
 - [[objektai/vietos/Europa]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/autoriai/Alfredas Bumblauskas]]
 - [[objektai/autoriai/Alvydas Jokubaitis]]
 - [[objektai/autoriai/Antanas Kulakauskas]]

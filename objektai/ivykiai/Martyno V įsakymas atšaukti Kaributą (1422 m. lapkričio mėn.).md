@@ -70,6 +70,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Husitai]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuvos vyskupai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

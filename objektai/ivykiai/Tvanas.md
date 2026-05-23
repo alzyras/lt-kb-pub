@@ -65,6 +65,7 @@ Nenurodyta
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Rusija]]
+- [[objektai/grupes/Švedai]]
 - [[objektai/vietos/Švedija]]
 - [[objektai/posakiai/„tvanas“]]
 - [[objektai/ivykiai/Rusijos ir Lenkijos-Lietuvos karas (1654–1667 m.)]]

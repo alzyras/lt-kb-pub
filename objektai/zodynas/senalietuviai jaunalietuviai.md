@@ -73,6 +73,7 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/asmenys/Adomas Mickevičius|Adomas Mickevičius (poetas)]]
 - [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Baltarusiai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Lietuva]]
@@ -80,5 +81,4 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
 - [[objektai/autoriai/Mickevičius]]
 - [[objektai/zodynas/istorinė Lietuva]]
 - [[objektai/asmenys/Česlovas Milošas]]
-- [[objektai/grupes/Jaunalietuviai]]
 - [[objektai/grupes/Senalietuviai]]

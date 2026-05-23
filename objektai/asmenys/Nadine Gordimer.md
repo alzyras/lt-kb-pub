@@ -60,3 +60,4 @@ tags:
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/vietos/Afrika]]
 - [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/Adynos|adynos]]

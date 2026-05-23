@@ -61,5 +61,4 @@ Kiti vadai buvo maršalas Čupurna, per Žemaičių sukilimą pagarsėjęs Rumba
 - [[objektai/vietos/Ukmergė]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/zodynas/seniūnas]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/asmenys/Čupurna]]

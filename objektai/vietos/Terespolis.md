@@ -58,3 +58,4 @@ Persekiojimas, kurio metu įvyko keletas susidūrimų (didžiausias jau už Tere
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]

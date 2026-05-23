@@ -58,6 +58,6 @@ Volkaitė - Kulikauskienė, parašiusi Lietuviai IX-XII amžiais (VoKL), Klasin�
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Kapitoniškiai]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Vilnius]]
-- [[objektai/vietos/Kapitoniškiai]]

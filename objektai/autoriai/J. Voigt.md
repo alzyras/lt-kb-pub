@@ -83,3 +83,4 @@ Voigt, Geschichte Preussens (iki 1525 m.), I-IX (1827-1839);.
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Vokiečiai]]

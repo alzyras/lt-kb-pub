@@ -54,6 +54,9 @@ Kai kryžiuočiams nepasisekė paimti žiemgalių pilies Tervetės (į šiaurę 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Georgenburgas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/vietos/Ryga]]
-- [[objektai/asmenys/Nameisis (žiemgalių kunigaikštis)]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/grupes/Žiemgaliai]]
+- [[objektai/asmenys/Nameisis (žiemgalių kunigaikštis)]]

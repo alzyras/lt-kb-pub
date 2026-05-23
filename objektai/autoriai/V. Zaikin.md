@@ -53,4 +53,4 @@ Kitas ukrainietis istorikas V. Zai­ kinas rašė iš teisės filosofijos ir rel
 ### Susiję objektai
 - [[objektai/vietos/Kijevas]]
 - [[objektai/vietos/Lietuva]]
-- [[objektai/ivykiai/Mongolų (totorių) invazija (1237-1240 m.)]]
+- [[objektai/grupes/Rusai]]

@@ -58,5 +58,4 @@ Stiprindamas centrinę valdžią Mindaugas 1249 m. iš žemaičių kunigaikšči
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Voluinė]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/asmenys/Mindaugas]]

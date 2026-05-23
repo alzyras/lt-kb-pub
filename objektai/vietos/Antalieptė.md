@@ -52,6 +52,7 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/P. Genys]]
+- [[objektai/vietos/Užpaliai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/A. Džiuvė]]
-- [[objektai/vietos/Užpaliai]]
+- [[objektai/vietos/Svėdasai]]

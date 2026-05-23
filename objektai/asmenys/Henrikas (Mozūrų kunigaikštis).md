@@ -90,5 +90,6 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Prūsai]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Rittersverderis]]

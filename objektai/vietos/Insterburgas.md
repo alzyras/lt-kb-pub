@@ -64,6 +64,7 @@ Pavestą uždavinį Vy­ tautas labai puikiai atliko, sunaikindamas visą vokie�
 - [[objektai/vietos/Tamova]]
 - [[objektai/vietos/Užnemunė]]
 - [[objektai/vietos/Vilnius]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/asmenys/Vygandas]]
 - [[objektai/zodynas/maršalka]]
 - [[objektai/ivykiai/Vytauto persikėlimas pas Ordiną (1382 m. pabaiga)]]

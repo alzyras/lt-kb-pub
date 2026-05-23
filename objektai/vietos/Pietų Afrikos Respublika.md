@@ -46,6 +46,8 @@ O juk reikėtų prisiminti, kad pirmąją pasaulyje žmogaus širdies persodinim
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/asmenys/Christiaan Barnard]]
+- [[objektai/grupes/Litvakai]]
 - [[objektai/asmenys/Louis Washkansky]]
 - [[objektai/vietos/Afrika]]
+- [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/ivykiai/Pirmoji pasaulyje žmogaus širdies persodinimo operacija (1967 m.)]]

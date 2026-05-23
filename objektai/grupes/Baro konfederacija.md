@@ -77,6 +77,7 @@ Radomo konfederacijos ir 1768 m. seimo metu Repninas jau perdaug aiškiai išėj
 ### Susiję objektai
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Radomas]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/konfederacija]]
 - [[objektai/ivykiai/Baro konfederacija (1768–1772 m.)]]

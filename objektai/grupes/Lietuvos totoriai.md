@@ -115,6 +115,8 @@ tags:
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/daiktai/Vėliavos]]
+- [[objektai/zodynas/husarai]]
+- [[objektai/grupes/Švedai]]
 - [[objektai/asmenys/Kurovičius]]
 - [[objektai/asmenys/M. Vaina]]
 - [[objektai/zodynas/Mahometoniškas tikėjimas]]

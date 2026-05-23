@@ -63,5 +63,6 @@ Nenurodyta
 - [[objektai/vietos/Baltija]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/grupes/Švedai]]
 - [[objektai/vietos/Švedija]]
 - [[objektai/ivykiai/Salaspilio (Kirchholmo) mūšis]]

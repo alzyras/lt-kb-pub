@@ -146,13 +146,18 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Artilerija]]
+- [[objektai/grupes/Bermontininkai]]
+- [[objektai/grupes/Bolševikai]]
 - [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/vietos/Gineičiai]]
 - [[objektai/asmenys/Jonas Kraucevičius]]
 - [[objektai/vietos/Kaunas]]
 - [[objektai/vietos/Kėdainiai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Suvalkai]]
 - [[objektai/vietos/Varėna]]
 - [[objektai/vietos/Viena]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Želigovskininkai]]

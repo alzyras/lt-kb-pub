@@ -60,5 +60,6 @@ Jai vadovavo lietuvis karininkas Auglys.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Bolševikai]]
 - [[objektai/vietos/Jieznas]]
 - [[objektai/vietos/Viena]]

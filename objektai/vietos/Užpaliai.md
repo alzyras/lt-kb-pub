@@ -65,3 +65,5 @@ tags:
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/II brigada]]
 - [[objektai/vietos/Uturiai]]
+- [[objektai/grupes/Čekijos husitai]]
+- [[objektai/vietos/Svėdasai]]

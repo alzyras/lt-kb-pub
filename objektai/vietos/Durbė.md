@@ -145,7 +145,6 @@ tags:
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/vietos/Žalgiris]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/ivykiai/Aizkrauklės mūšis (1279 m. kovo 5 d.)]]
 - [[objektai/grupes/Aukštaičiai]]
 - [[objektai/autoriai/B. Dundulis]]

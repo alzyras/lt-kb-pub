@@ -688,6 +688,7 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Aisčiai]]
 - [[objektai/vietos/Bobruiskas]]
 - [[objektai/vietos/Brasta]]
 - [[objektai/vietos/Gardinas]]
@@ -695,6 +696,7 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
 - [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
 - [[objektai/vietos/Kaunas]]
 - [[objektai/vietos/Kijevas]]
+- [[objektai/vietos/Kražiai]]
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Luckas]]
 - [[objektai/vietos/Maskva]]
@@ -707,12 +709,14 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
 - [[objektai/vietos/Pskovas]]
 - [[objektai/vietos/Sluckas]]
 - [[objektai/vietos/Smolenskas]]
+- [[objektai/grupes/Unitai]]
 - [[objektai/vietos/Voluinė]]
 - [[objektai/zodynas/hetmonas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/vietos/Černigovas]]
 - [[objektai/asmenys/Švitrigaila]]
+- [[objektai/vietos/Želviai]]
 - [[objektai/grupes/76-osios oro desanto divizijos 234-asis pulkas]]
 - [[objektai/ivykiai/Andrusavo paliaubų pasirašymas (1667 m. sausio 30 d.)]]
 - [[objektai/vietos/Baltoji Rusia]]

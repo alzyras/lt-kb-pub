@@ -140,5 +140,6 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
 - [[objektai/vietos/Prūsija]]
 - [[objektai/vietos/Rusija]]
 - [[objektai/vietos/Saksonija]]
+- [[objektai/grupes/Švedai]]
 - [[objektai/vietos/Švedija]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]

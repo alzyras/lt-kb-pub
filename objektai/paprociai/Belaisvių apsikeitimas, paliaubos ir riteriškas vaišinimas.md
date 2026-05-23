@@ -165,3 +165,7 @@ Praktika aprašoma kaip Vinricho von Kniprodės taikyta lankstesnė politika, no
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Vokiečiai]]

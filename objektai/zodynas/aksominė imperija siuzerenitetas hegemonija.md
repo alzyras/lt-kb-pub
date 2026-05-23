@@ -47,5 +47,6 @@ Todėl kartais Lietuvos didvalstybė vadinama „aksomine imperija“.
 ### Susiję objektai
 - [[objektai/grupes/Gediminaičiai]]
 - [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/hegemonija]]
 - [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]

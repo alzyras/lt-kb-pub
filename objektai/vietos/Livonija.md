@@ -923,6 +923,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - [[objektai/vietos/Ryga]]
 - [[objektai/asmenys/Steponas Batoras]]
 - [[objektai/vietos/Viena]]
+- [[objektai/grupes/Švedai]]
 - [[objektai/vietos/Švedija]]
 - [[objektai/ivykiai/1380 m. vasario paliaubos su Livonijos ordinu]]
 - [[objektai/ivykiai/1794 m. sukilimas Lietuvoje]]

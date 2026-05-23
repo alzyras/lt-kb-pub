@@ -52,4 +52,5 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
 - [[objektai/vietos/Naujasis Dolskas]]
 - [[objektai/grupes/Pijarų ordinas]]
 - [[objektai/vietos/Verenava]]
+- [[objektai/vietos/Vitebskas]]
 - [[objektai/vietos/Ščucinas]]

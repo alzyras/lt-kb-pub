@@ -67,7 +67,6 @@ Pagaliau pasibaigus karams su kryžiuo­ čiais (1422 m.—su Prūsų, 1435 m.�
 - [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/paprociai/Prekyba su Prūsais (Dancigu ir Karaliaučiumi)]]
-- [[objektai/vietos/Prūsija]]
 - [[objektai/vietos/Sūduva]]
 - [[objektai/daiktai/Varpai]]
 - [[objektai/daiktai/Monetos]]

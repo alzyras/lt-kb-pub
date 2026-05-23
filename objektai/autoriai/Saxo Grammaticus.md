@@ -56,4 +56,3 @@ Iš XI-XII amž. danų šaltinių (Genealogia regum Danorum; Saxo Grammaticus) y
 - [[objektai/grupes/Kuršiai]]
 - [[objektai/grupes/Sembai]]
 - [[objektai/zodynas/Miera|miera]]
-- [[objektai/grupes/Žemaičiai]]

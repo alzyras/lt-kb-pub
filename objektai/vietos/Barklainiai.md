@@ -57,5 +57,9 @@ Juos Užkalnių kaimą ir pietinius Barklainius. Viduriniajai vorai po atkaklių
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Bolševikai]]
+- [[objektai/vietos/Griniūnai]]
+- [[objektai/vietos/Katinai]]
+- [[objektai/vietos/Radikoniai]]
 - [[objektai/zodynas/vora]]
 - [[objektai/vietos/Užkalniai]]

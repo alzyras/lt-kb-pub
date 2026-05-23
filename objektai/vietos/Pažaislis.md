@@ -50,6 +50,7 @@ Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu, buvo kancleris 
 ### Susiję objektai
 - [[objektai/vietos/Kaunas]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Pacai]]
 - [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/hetmonas]]
 - [[objektai/vietos/Antakalnis]]

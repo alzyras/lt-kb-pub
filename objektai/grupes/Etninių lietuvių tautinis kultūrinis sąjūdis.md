@@ -58,6 +58,5 @@ Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės praradimu
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Simonas Stanevičius]]
 - [[objektai/vietos/Vilnius]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/grupes/Vilniaus universitetas]]
 - [[objektai/zodynas/dvilypis lietuvių-žemaičių etnosas]]

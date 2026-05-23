@@ -89,5 +89,6 @@ Tuo laikotarpiu okupacinė valdžia kovai su partizanais vis dažniau naudojo ag
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/MGB-KGB agentai smogikai]]
+- [[objektai/grupes/Žydai]]
 - [[objektai/grupes/Agentai-smogikai]]
 - [[objektai/zodynas/agentas-smogikas]]

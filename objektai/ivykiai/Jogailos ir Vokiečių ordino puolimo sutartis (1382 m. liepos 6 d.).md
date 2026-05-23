@@ -111,6 +111,7 @@ Nenurodyta
 - [[objektai/vietos/Ragainė]]
 - [[objektai/asmenys/Skirgaila]]
 - [[objektai/vietos/Trakai]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/maršalka]]
 - [[objektai/zodynas/paliaubos]]

@@ -53,8 +53,8 @@ tags:
 ### Susiję objektai
 - [[objektai/vietos/Dubysa]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Livonija]]
 - [[objektai/vietos/Minija]]
 - [[objektai/vietos/Venta]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/vietos/Nevėžis]]

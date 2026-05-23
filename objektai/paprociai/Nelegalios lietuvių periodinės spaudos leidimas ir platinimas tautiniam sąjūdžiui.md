@@ -163,6 +163,7 @@ Nenurodyta
 - [[temos/redaktorius]]
 
 ### Susiję objektai
+- [[objektai/grupes/Baltai]]
 - [[objektai/grupes/Estai]]
 - [[objektai/autoriai/Juozas Tumas (Vaižgantas)]]
 - [[objektai/grupes/Latviai]]
@@ -171,6 +172,7 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Maskva]]
 - [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Rytprūsiai]]
 - [[objektai/vietos/Užnemunė]]
 - [[objektai/autoriai/V. Kudirka]]
 - [[objektai/zodynas/kunigas]]

@@ -70,5 +70,6 @@ Aplinkinėse valstybėse ir LDK pietrytinėje dalyje iki Vilniaus išplitusio ch
 ### Susiję objektai
 - [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]
 - [[objektai/vietos/Vilnius]]
-- [[objektai/vietos/Lietuva]]
+- [[objektai/paprociai/Litvakų rabininės tradicijos gynimas, Talmudo studijos ir savita gyvensena]]
 - [[objektai/zodynas/chasidizmas rabinizmas]]
+- [[objektai/vietos/Lietuva]]

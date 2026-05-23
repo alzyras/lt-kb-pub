@@ -75,4 +75,7 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Aisčiai]]
+- [[objektai/autoriai/Cornelius Tacitas]]
 - [[objektai/autoriai/Tacitas (romėnų rašytojas, I amžiaus gale)]]
+- [[objektai/posakiai/„Palemono universitetu“ „Lietuvos palemoniškųjų miestų sostine“]]
+- [[objektai/zodynas/Rykys|rykys]]

@@ -141,6 +141,7 @@ Nenurodyta
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Maskva]]
+- [[objektai/grupes/Maskvėnai]]
 - [[objektai/asmenys/Mykolas]]
 - [[objektai/asmenys/Vasilijus (Maskvos didysis kunigaikštis)]]
 - [[objektai/vietos/Vilnius]]

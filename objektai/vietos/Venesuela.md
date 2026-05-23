@@ -43,6 +43,7 @@ Lietuviai vyko daugiausia į Pietų Amerikos šalis (Argentiną, Braziliją, Ven
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Urugvajus]]
+- [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/vietos/Argentina]]
 - [[objektai/vietos/Brazilija]]
 - [[objektai/vietos/Pietų Amerika]]

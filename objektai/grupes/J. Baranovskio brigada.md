@@ -56,6 +56,7 @@ Baranovskio brigada atakuoja 2-ojo pėst.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Giedraičiai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/M. Butkievičiaus kavalerijos brigada]]
 - [[objektai/vietos/Videniškis]]

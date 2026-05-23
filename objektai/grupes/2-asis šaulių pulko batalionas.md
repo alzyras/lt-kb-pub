@@ -58,6 +58,7 @@ Matusevičiaus Trakų sukilėlių daliniai, palaikomi 2-ojo šaulių pulko batal
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Rytas]]
 - [[objektai/vietos/Trakai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

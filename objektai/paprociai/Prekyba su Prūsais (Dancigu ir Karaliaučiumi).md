@@ -81,7 +81,6 @@ Nenurodyta
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Mindaugas]]
-- [[objektai/vietos/Prūsija]]
 - [[objektai/vietos/Sūduva]]
 - [[objektai/daiktai/Varpai]]
 - [[objektai/daiktai/Monetos]]

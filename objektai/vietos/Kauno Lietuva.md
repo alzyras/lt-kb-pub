@@ -73,4 +73,3 @@ Pavadinimas aiškinamas kartu su Vidurinės Lietuvos ir Minsko Lietuvos samprato
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos Respublika]]
-- [[objektai/grupes/Žemaičiai]]

@@ -48,7 +48,9 @@ III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje, Dombrovicoje, Liub
 ### Susiję objektai
 - [[objektai/vietos/Brasta]]
 - [[objektai/vietos/Gardinas]]
+- [[objektai/vietos/Kražiai]]
 - [[objektai/vietos/Naugardukas]]
+- [[objektai/vietos/Raseiniai]]
 - [[objektai/vietos/Ukmergė]]
 - [[objektai/vietos/Brastos apygarda]]
 - [[objektai/vietos/Dombrovica]]

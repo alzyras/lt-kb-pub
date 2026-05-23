@@ -60,4 +60,5 @@ Vakare Vilniaus įgula, dengiama artilerijos kapitono kunigaikščio Kazimiero S
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Artilerija]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/vietos/Vilnius]]

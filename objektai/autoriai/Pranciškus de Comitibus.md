@@ -54,5 +54,6 @@ Gi Pranciškus de Comitibus yra užrašęs, kad Vytauto bijojo ir jį gerbė ne 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/ciesorius]]
 - [[objektai/zodynas/chanas]]

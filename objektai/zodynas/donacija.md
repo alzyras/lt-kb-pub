@@ -53,7 +53,7 @@ Mindaugo pergamentai kryžiuočiams teteikė formalią teisę į jiems užrašyt
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Georgenburgas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Mindaugas]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/vietos/Žiemgala]]
 - [[objektai/grupes/Žiemgaliai]]

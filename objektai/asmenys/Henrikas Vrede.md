@@ -52,4 +52,5 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Švedai]]
 - [[objektai/vietos/Švedija]]

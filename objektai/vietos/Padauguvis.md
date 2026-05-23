@@ -174,8 +174,12 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Ryga]]
+- [[objektai/grupes/Aisčiai]]
 - [[objektai/asmenys/Albertas]]
 - [[objektai/vietos/Livonija]]
+- [[objektai/grupes/Lybiai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/kolonijos]]
 - [[objektai/vietos/Daugpilis]]
 - [[objektai/grupes/Livonijos ordinas]]

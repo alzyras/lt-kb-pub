@@ -47,6 +47,7 @@ is, 1943 m., naciai naikino miestų getus, iškasė ir degino nužudytųjų kūn
 - [[objektai/vietos/Latvija]]
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Žydai]]
 - [[objektai/grupes/Lietuvos komunistų partija]]
 - [[objektai/grupes/MOPR]]
 - [[objektai/vietos/Kauno getas]]

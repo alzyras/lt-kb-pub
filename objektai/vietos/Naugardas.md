@@ -227,6 +227,7 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
 - [[objektai/vietos/Kazanė]]
 - [[objektai/vietos/Maskva]]
 - [[objektai/vietos/Pskovas]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/kontribucija]]
 - [[objektai/asmenys/Baltramiejus (vyskupas)]]
 - [[objektai/asmenys/Bernardas (abatas)]]

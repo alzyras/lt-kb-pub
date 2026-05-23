@@ -52,7 +52,8 @@ Kurklių vlsč.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Kurkliai]]
 - [[objektai/grupes/NKVD]]
+- [[objektai/vietos/Trakiniai]]
 - [[objektai/vietos/Ukmergė]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/vietos/Trakiniai]]

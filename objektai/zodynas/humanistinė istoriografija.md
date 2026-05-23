@@ -56,3 +56,4 @@ Nors Stryjkovskio istorija « neatitiko visiems moks­ liniams bei literatūrini
 - [[objektai/grupes/Lenkai]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Livonija]]
+- [[objektai/grupes/Rusai]]

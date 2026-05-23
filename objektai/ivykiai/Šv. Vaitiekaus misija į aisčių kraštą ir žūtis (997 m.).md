@@ -144,6 +144,7 @@ Vaitiekaus lavoną išpirko Boleslovas Narsusis. Pats Vaitiekus buvo paskelbtas 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Aisčiai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/vietos/Viena]]
 - [[objektai/vietos/Vysla]]

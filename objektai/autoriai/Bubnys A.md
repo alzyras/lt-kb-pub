@@ -41,4 +41,5 @@ Bubnys A.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/vietos/Vilnius]]

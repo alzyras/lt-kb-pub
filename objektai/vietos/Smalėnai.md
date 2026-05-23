@@ -56,3 +56,5 @@ tags:
 - [[objektai/vietos/Kaunas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Šeštokai]]
+- [[objektai/grupes/3-ioji divizija]]

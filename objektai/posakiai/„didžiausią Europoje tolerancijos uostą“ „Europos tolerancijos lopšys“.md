@@ -66,6 +66,7 @@ Lenkijos religinę toleranciją yra apibūdinę kaip neturinčią analogo Europo
 - [[objektai/vietos/Europa]]
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Naugardukas]]
+- [[objektai/grupes/Stačiatikiai]]
 - [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/daugiakonfesiškumas]]
 - [[objektai/zodynas/metropolija]]

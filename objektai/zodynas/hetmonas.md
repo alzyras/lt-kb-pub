@@ -58,6 +58,7 @@ Hetmonai buvo kariuomenės vadai. Ankstesniame šaltinyje jie apibrėžti kaip k
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Chodkevičiai]]
 - [[objektai/asmenys/Jonas Chodkevičius]]
 - [[objektai/vietos/Livonija]]
 - [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]

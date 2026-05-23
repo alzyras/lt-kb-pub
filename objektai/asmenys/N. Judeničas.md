@@ -50,5 +50,7 @@ Judeničas spalį pradėjo Petrogrado puolimą ir pareikalavo, kad Bermontas par
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Bolševikai]]
 - [[objektai/vietos/Latvija]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Rusai]]

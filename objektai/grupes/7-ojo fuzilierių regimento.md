@@ -61,6 +61,7 @@ Lietuvos pajėgos Vilniaus puolime balandžio 23 d. dalyvavo LDK 4-ojo pėstinin
 - [[objektai/daiktai/Artilerija]]
 - [[objektai/grupes/LDK 4-ojo pėstininkų regimento]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Vengrai]]
 - [[objektai/vietos/Vilnius]]
 - [[objektai/daiktai/Vėliavos]]
 - [[objektai/zodynas/tribunolas]]

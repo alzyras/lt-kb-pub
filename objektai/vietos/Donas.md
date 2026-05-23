@@ -60,3 +60,4 @@ Ten jis žygiavo, norėdamas suvaldyti ne­ paklusnius jam Okos ir Dono aukštup
 - [[objektai/vietos/Sosnos upė]]
 - [[objektai/ivykiai/Vytauto žygis į Maskvos apylinkes ir Vosyliaus II globos prisiėmimas (1427 m.)]]
 - [[objektai/vietos/Žemutinis Padnieprys]]
+- [[objektai/zodynas/kunigaikščiai]]

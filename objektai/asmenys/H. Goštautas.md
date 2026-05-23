@@ -48,3 +48,8 @@ Goštauto vadovaujamas husarų eskadrono būrys, kiek vėliau dvi vokiečių pė
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/husarai]]

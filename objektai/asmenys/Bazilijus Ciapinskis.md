@@ -42,4 +42,6 @@ Rusėnų / baltarusių spaustuvininkas Bazilijus Ciapinskis antrojoje XVI a.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Baltarusiai]]
+- [[objektai/grupes/Rusėnai]]
 - [[objektai/vietos/Viena]]

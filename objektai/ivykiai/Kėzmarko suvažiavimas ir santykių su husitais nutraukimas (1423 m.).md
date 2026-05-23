@@ -71,6 +71,9 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Husitai]]
 - [[objektai/asmenys/Kaributas]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/grupes/Čekai]]
 - [[objektai/vietos/Čekija]]

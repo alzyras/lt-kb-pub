@@ -106,6 +106,7 @@ Terminais žymimos senosios kulto vietos ir šventovės. Kartu pabrėžiama, kad
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Aisčiai]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Viena]]
 - [[objektai/zodynas/kunigas]]

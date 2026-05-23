@@ -731,6 +731,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 - [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
 - [[objektai/vietos/Kaunas]]
 - [[objektai/asmenys/Konstantinas (Karijotaitis)]]
+- [[objektai/vietos/Kražiai]]
 - [[objektai/asmenys/Lengvenis]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Livonija]]

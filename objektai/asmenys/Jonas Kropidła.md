@@ -59,3 +59,4 @@ Dėl to savo laikų Europos visuomenės viršūnes gerai pažįstąs Kujavų vys
 ### Susiję objektai
 - [[objektai/vietos/Breslavas]]
 - [[objektai/vietos/Europa]]
+- [[objektai/zodynas/kunigaikščiai]]

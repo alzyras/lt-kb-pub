@@ -71,4 +71,5 @@ Nenurodyta
 - [[objektai/vietos/Drohičinas]]
 - [[objektai/vietos/Gardinas]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Prūsai]]
 - [[objektai/zodynas/žygis]]

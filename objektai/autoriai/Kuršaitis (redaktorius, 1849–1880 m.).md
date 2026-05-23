@@ -146,3 +146,5 @@ Kuršaitis šiame šaltinyje minimas kaip redaktorius, profesorius; jam priskiri
 
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Prūsai]]
+- [[objektai/grupes/Žydai]]

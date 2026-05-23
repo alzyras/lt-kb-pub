@@ -58,4 +58,5 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/magistras]]

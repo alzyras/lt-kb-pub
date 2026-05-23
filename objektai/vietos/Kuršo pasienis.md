@@ -50,4 +50,5 @@ Pagaliau generolai sutarė savo jėgas perskirti: Chlapovskis ir Gelgaudas turė
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Kuršas]]
+- [[objektai/vietos/Kuršėnai]]
 - [[objektai/vietos/Palanga]]

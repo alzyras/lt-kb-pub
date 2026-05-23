@@ -95,6 +95,7 @@ Karaliaus lėšomis buvo iškastas kitas kanalas, kuris jungia Pripetės intaką
 - [[objektai/vietos/Dniepras]]
 - [[objektai/vietos/Lenkija]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/vietos/Muchavcas]]
 - [[objektai/vietos/Nemuno-Dauguvos-Dniepro plotas]]
 - [[objektai/vietos/Pripetės pelkės]]

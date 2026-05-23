@@ -55,6 +55,8 @@ Padarydamas santrauką vėliau dingusios Kassiodoro rašytos gotų istorijos, ra
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Aisčiai]]
+- [[objektai/grupes/Gotai]]
 - [[objektai/autoriai/Jordanes]]
 - [[objektai/autoriai/Kassiodoras]]
 - [[objektai/vietos/Vysla]]

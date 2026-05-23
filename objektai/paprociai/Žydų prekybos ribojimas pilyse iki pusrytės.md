@@ -67,4 +67,5 @@ Nenurodyta
 - [[objektai/grupes/Krikščionys]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Žydai]]
+- [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/zodynas/Pusrytės|pusrytės]]

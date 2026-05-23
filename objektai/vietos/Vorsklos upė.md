@@ -51,4 +51,5 @@ Vytautas susitiko su totoriais prie Vorsklos upės ir skaudžiai pralaimėjo mū
 - [[objektai/grupes/Totoriai]]
 - [[objektai/vietos/Vorskla]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/vėliava]]

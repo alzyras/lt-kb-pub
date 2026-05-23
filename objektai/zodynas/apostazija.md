@@ -126,6 +126,5 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
 - [[objektai/vietos/Durbė]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/zodynas/pagonybė]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/ivykiai/Durbės mūšis (1260 m.)]]
 - [[objektai/ivykiai/Smolensko sukilimas]]

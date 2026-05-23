@@ -92,5 +92,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Balti vilnoniai marškiniai]]
 - [[objektai/zodynas/Liuosybė|liuosybė]]
 - [[objektai/daiktai/Vyženos]]

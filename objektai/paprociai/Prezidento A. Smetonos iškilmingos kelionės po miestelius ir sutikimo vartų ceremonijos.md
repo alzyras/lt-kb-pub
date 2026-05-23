@@ -94,5 +94,6 @@ tags:
 ### Susiję objektai
 - [[objektai/asmenys/A. Smetona|A. Smetona (prezidentas, XX a.)]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Žydai]]
 - [[objektai/daiktai/Kino kronikos kameros]]
 - [[objektai/daiktai/Sutikimo vartai]]

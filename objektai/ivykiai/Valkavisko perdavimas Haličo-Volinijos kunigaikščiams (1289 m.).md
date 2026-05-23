@@ -71,6 +71,7 @@ Nenurodyta
 - [[objektai/vietos/Haličas]]
 - [[objektai/vietos/Lenkija]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Prūsai]]
 - [[objektai/vietos/Slanimas]]
 - [[objektai/vietos/Volinija]]
 - [[objektai/zodynas/kunigaikščiai]]

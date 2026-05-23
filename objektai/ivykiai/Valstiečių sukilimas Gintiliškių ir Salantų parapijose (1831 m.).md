@@ -57,3 +57,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Prūsija]]
+- [[objektai/grupes/Rusai]]

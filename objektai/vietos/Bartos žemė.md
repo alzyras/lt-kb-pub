@@ -64,5 +64,7 @@ Taigi, Lietuva siekė atgauti Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą, Lat
 - [[objektai/vietos/Baltija]]
 - [[objektai/vietos/Dauguva]]
 - [[objektai/vietos/Europa]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Rusija]]
+- [[objektai/grupes/Totoriai]]

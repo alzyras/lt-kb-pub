@@ -70,3 +70,6 @@ Dabar Suomijoje yra Lietuvių Suomių Draugija, o Estijoje — Lietuvių Draugij
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvių Draugija Estijoje]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Suomiai]]
+- [[objektai/vietos/Tartai]]

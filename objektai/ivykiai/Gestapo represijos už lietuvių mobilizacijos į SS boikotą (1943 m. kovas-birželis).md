@@ -86,6 +86,7 @@ Nenurodyta
 - [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
 - [[objektai/vietos/Vilnius]]
 - [[objektai/vietos/Vokietija]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/vietos/Štuthofas]]
 - [[objektai/grupes/Lietuvos laisvės kovotojų sąjunga]]

@@ -94,6 +94,5 @@ Nenurodyta
 - [[objektai/zodynas/gubernija]]
 - [[objektai/zodynas/rublis]]
 - [[objektai/zodynas/vyskupystė]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/vietos/Žemaičių vyskupystė]]
 - [[objektai/paprociai/Blaivybės brolijų ir blaivybės skelbimo praktika]]

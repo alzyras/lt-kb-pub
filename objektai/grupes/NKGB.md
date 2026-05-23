@@ -163,11 +163,11 @@ Sovietinė valstybės saugumo ir represinė struktūra.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Prienai]]
 - [[objektai/asmenys/Tigras]]
 - [[objektai/vietos/Viena]]
 - [[objektai/asmenys/Arkadij Kruglov]]
 - [[objektai/asmenys/Marcinkevičius]]
 - [[objektai/grupes/NKVD]]
-- [[objektai/vietos/Prienai]]
 - [[objektai/ivykiai/Sovietinių represinių struktūrų kova su Lietuvos partizanais (1944–1954 m.)]]
 - [[objektai/zodynas/stribai naikintojų batalionai liaudies gynėjai]]

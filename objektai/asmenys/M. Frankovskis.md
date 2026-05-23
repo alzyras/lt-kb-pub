@@ -51,6 +51,7 @@ Frankovskio vadovaujamus lietuvių įtvirtinimus tarp Naujininkų, šv.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Kazokai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Pogulianka]]
 - [[objektai/vietos/Naujininkai]]

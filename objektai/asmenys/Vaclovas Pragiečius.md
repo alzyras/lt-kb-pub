@@ -90,5 +90,6 @@ Bet įsikišus Čekų kara­ liui Vaclovui, buvo tarp kariaujančiu pusių padar
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Praga]]
 - [[objektai/vietos/Viena]]
-- [[objektai/grupes/Žemaičiai]]
+- [[objektai/grupes/Čekai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/paliaubos]]

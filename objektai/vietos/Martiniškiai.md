@@ -55,6 +55,7 @@ Lenkų artilerija trikdė lietuvių veiksmus, tačiau netrukus 6-oji lietuvių b
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Artilerija]]
+- [[objektai/vietos/Giedraičiai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Viena]]

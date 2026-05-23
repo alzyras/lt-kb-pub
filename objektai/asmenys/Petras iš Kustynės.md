@@ -96,4 +96,3 @@ Tais reikalais 1415 m. į Konstanciją buvo išsiųsta Lietuvos ir Lenkijos vysk
 - [[objektai/vietos/Lvovas]]
 - [[objektai/vietos/Trakai]]
 - [[objektai/vietos/Vilnius]]
-- [[objektai/grupes/Žemaičiai]]

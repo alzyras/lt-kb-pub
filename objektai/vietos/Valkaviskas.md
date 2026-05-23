@@ -113,6 +113,7 @@ Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskrit
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Slanimas]]
+- [[objektai/vietos/Suvalkai]]
 - [[objektai/vietos/Vilniaus gubernija]]
 - [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/gubernija]]

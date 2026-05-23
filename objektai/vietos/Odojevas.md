@@ -94,4 +94,5 @@ Ten jis žygiavo, norėdamas suvaldyti ne­ paklusnius jam Okos ir Dono aukštup
 - [[objektai/vietos/Vorotinskas]]
 - [[objektai/asmenys/Vosylius]]
 - [[objektai/asmenys/Vosylius II]]
+- [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/asmenys/Chudandachas]]

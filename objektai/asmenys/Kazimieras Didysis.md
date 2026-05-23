@@ -126,6 +126,7 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
 - [[objektai/grupes/Lenkai]]
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Pamaris]]
+- [[objektai/grupes/Vengrai]]
 - [[objektai/asmenys/Vladislovas]]
 - [[objektai/asmenys/Vladislovas Łokietka]]
 - [[objektai/vietos/Lietuva]]

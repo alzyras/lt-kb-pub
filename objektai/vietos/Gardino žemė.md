@@ -53,7 +53,9 @@ Gardino žemė su artimiausiomis pilimis buvo pradinis laimikis.
 ### Susiję objektai
 - [[objektai/vietos/Gardinas]]
 - [[objektai/vietos/Kijevo Rusia]]
+- [[objektai/grupes/Krivičiai]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/vietos/Nemunas]]
+- [[objektai/grupes/Totoriai]]

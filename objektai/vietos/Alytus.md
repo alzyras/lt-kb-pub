@@ -316,8 +316,10 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/grupes/Bolševikai]]
 - [[objektai/vietos/Kaunas]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Prienai]]
 - [[objektai/vietos/Alovė]]
 - [[objektai/vietos/Katra]]
 - [[objektai/ivykiai/Kėdainių kautynės ir Povilo Lukšio žūtis (1919 m. vasario 7–9 d.)]]
@@ -325,7 +327,6 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
 - [[objektai/daiktai/Mosin-Nagant šautuvas]]
 - [[objektai/grupes/Nemunaičio apylinkių partizanų būrys]]
 - [[objektai/ivykiai/Pirmasis Vilniaus krašto okupavimas (1919 m. balandžio 19 d.)]]
-- [[objektai/vietos/Prienai]]
 - [[objektai/daiktai/Rusiškas 1870 m. modelio šautuvas Berdan Nr. 2]]
 - [[objektai/vietos/Smalėnai]]
 - [[objektai/vietos/Tabariškės]]
@@ -335,5 +336,6 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
 - [[objektai/vietos/Ūla]]
 - [[objektai/vietos/Žiežmariai]]
 - [[objektai/ivykiai/Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]
+- [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/asmenys/Jonas Neifalta-Lakūnas]]
 - [[objektai/vietos/Subartonys]]

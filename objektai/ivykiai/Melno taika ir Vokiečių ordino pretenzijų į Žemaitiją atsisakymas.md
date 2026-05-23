@@ -59,4 +59,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/grupes/Vokiečių ordinas]]

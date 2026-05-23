@@ -87,6 +87,7 @@ Mūšis Pokalbyje su chanu prieš mūšį Vytautas tarsi reikalavęs pavaldumo -
 - [[objektai/grupes/Auksinė Orda]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Timūr-Kutlukas]]
+- [[objektai/grupes/Totoriai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/emyras]]
 - [[objektai/asmenys/Aleksandras]]

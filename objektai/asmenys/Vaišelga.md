@@ -52,6 +52,8 @@ tags:
 - [[objektai/vietos/Kijevo Rusia]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Stačiatikiai]]
 - [[objektai/zodynas/kunigaikštija]]
+- [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/paprociai/Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme]]
 - [[objektai/vietos/Uturiai]]

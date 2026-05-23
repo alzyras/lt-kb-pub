@@ -56,5 +56,5 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Liublinas]]
-- [[objektai/vietos/Mažlenkiai]]
 - [[objektai/vietos/Didžioji Lenkija]]
+- [[objektai/vietos/Mažlenkiai]]

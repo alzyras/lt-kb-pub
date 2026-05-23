@@ -82,6 +82,7 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/grupes/Bajorai]]
 - [[objektai/vietos/Europa]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/vietos/Lietuva]]

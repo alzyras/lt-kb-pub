@@ -69,4 +69,3 @@ Nenurodyta
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Nemunas]]
-- [[objektai/grupes/Žemaičiai]]

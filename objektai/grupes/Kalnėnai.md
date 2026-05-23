@@ -139,6 +139,7 @@ Kalnėnai šiame tekste rodomi kaip su žemaičiais gretinama karinga bendruomen
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Žemaičiai]]
+- [[objektai/grupes/Žuvėdai]]
 - [[objektai/autoriai/A. Brückner]]
 - [[objektai/grupes/Anglai]]
 - [[objektai/daiktai/Kalvė]]

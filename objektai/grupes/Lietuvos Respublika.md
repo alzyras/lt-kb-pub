@@ -87,7 +87,6 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Rusija]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/vietos/Giedraičiai]]
 - [[objektai/vietos/Kauno Lietuva]]
 - [[objektai/zodynas/Lietuvos atsikūrimas]]

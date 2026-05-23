@@ -68,4 +68,4 @@ Kučinskas, A.
 - [[objektai/vietos/Kaunas]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Livonija]]
-- [[objektai/grupes/Žemaičiai]]
+- [[objektai/zodynas/kunigaikščiai]]

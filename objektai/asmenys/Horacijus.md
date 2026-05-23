@@ -55,6 +55,7 @@ Motiejaus Kazimiero Sarbievijaus poezija 1646 m. buvo išversta iš lotynų į a
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Anglai]]
 - [[objektai/vietos/Europa]]
 - [[objektai/vietos/Oksfordas]]
 - [[objektai/vietos/Vilnius]]

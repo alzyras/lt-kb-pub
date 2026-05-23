@@ -105,4 +105,5 @@ Nenurodyta
 - [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/posakiai/„prišlieti“]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/applicare prišlieti]]

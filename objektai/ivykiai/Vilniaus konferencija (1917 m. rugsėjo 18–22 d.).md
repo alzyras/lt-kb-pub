@@ -86,8 +86,10 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Vilnius]]
 - [[objektai/vietos/Vokietija]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/ivykiai/Berne naujoji konferencija (1917 m. lapkričio 2–10 d.)]]
 - [[objektai/paprociai/Pasaulinė bažnytinė rinkliava nukentėjusios Lietuvos naudai]]
 - [[objektai/zodynas/etnografinė siena]]

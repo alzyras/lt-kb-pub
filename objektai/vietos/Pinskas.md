@@ -212,6 +212,7 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
 ### Susiję objektai
 - [[objektai/vietos/Brasta]]
 - [[objektai/vietos/Gardinas]]
+- [[objektai/grupes/Jotvingai]]
 - [[objektai/asmenys/Karijotas]]
 - [[objektai/vietos/Kernavė]]
 - [[objektai/vietos/Krėva]]

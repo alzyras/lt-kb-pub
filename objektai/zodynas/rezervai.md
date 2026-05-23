@@ -46,5 +46,6 @@ Kryžiuočiai buvo jau beapsupą lenkus ir būtų juos sumušę, bet tuo momentu
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

@@ -96,6 +96,7 @@ Tačiau Vatikanas 1925 metais sudarė konkordatą su Lenkija, visai neatsižvelg
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Seinai]]
 - [[objektai/vietos/Vilnius]]
 - [[objektai/vietos/Brazilija]]
 - [[objektai/vietos/Didžioji Britanija]]

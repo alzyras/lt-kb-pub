@@ -90,7 +90,6 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
 - [[objektai/vietos/Salos]]
 - [[objektai/zodynas/Vakarų Bažnyčios schizma]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/asmenys/Danuta]]
 - [[objektai/asmenys/Ona Vytautienė]]
 - [[objektai/asmenys/Vygandas von Baldersheimas]]

@@ -77,4 +77,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Aisčiai]]
+- [[objektai/grupes/Skandinavai]]
 - [[objektai/grupes/Vikingai]]

@@ -83,6 +83,8 @@ Todėl ir nenuostabu, kad jis nuoširdžiai priėmė atbėgusį pas save Tochtam
 ### Susiję objektai
 - [[objektai/posakiai/Aš tave pasodinsiu Auksinėj Ordoj...]]
 - [[objektai/vietos/Maskva]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Totoriai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/chanas]]
 - [[objektai/zodynas/saar]]

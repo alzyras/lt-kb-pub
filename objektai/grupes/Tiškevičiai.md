@@ -44,4 +44,5 @@ giminių lietuviškos kilmės yra tik Goštautai ir Radvilos, o visos kitos – 
 ### Susiję objektai
 - [[objektai/grupes/Goštautai]]
 - [[objektai/grupes/Oginskiai]]
+- [[objektai/grupes/Rusėnai]]
 - [[objektai/grupes/Valavičiai]]

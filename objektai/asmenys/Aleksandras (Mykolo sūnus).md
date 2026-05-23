@@ -79,5 +79,6 @@ Dėl Kalitos įkalbinėjimų 1338 m. Volgos totorių chanas Uzbekas išsikvietė
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Totoriai]]
 - [[objektai/vietos/Tverė]]
 - [[objektai/zodynas/chanas]]

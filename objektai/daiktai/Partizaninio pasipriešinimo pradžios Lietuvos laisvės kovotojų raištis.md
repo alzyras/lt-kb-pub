@@ -66,3 +66,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/vietos/Dainava]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/Adynos|adynos]]

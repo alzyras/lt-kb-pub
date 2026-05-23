@@ -78,5 +78,6 @@ Be to, tas susitarimas nepatiko nė valdančiajai Gediminaičių šeimai; Aleksa
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/unija]]
+- [[objektai/grupes/Čekai]]
 - [[objektai/asmenys/Švitrigaila]]
 - [[objektai/asmenys/Vladislovas]]

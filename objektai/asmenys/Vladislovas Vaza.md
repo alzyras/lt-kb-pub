@@ -182,6 +182,7 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/vietos/Krymas]]
 - [[objektai/grupes/Krymo totoriai]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/vietos/Rusija]]
 - [[objektai/vietos/Smolenskas]]
 - [[objektai/grupes/Totoriai]]

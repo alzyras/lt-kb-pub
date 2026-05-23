@@ -55,10 +55,10 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Didlenkiai]]
 - [[objektai/vietos/Liublinas]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/ivykiai/Liublino unijos politinis įgyvendinimas Abiejų Tautų Respublikoje]]
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Mažoji Lenkija]]
-- [[objektai/vietos/Didlenkiai]]
 - [[objektai/vietos/Mažlenkiai]]

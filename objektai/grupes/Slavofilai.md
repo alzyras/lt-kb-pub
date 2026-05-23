@@ -50,5 +50,6 @@ Toks universiteto klestėjimas nepatiko rusams, ypač slavofilams, kurie kaip ti
 - [[objektai/grupes/Lenkai]]
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Rusija]]
-- [[objektai/vietos/Petrapilis]]
+- [[objektai/autoriai/Jonas Juškevičius]]
 - [[objektai/zodynas/Rusiškosios raidės]]
+- [[objektai/vietos/Petrapilis]]

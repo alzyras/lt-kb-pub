@@ -85,6 +85,8 @@ Veiklus didysis Maskvos kunigaikštis Jonas Kalita (1325-41) greitai atstatė Na
 - [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
 - [[objektai/vietos/Maskva]]
 - [[objektai/vietos/Naugardas]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Totoriai]]
 - [[objektai/vietos/Tverė]]
 - [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/savarankiškumas]]

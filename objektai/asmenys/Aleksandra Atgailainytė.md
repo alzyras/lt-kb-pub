@@ -53,4 +53,5 @@ Apie KGB-MGB provokaciją pasakoja Prisikėlimo apygardos partizanė Aleksandra 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Raseiniai]]
 - [[objektai/grupes/Prisikėlimo apygarda]]

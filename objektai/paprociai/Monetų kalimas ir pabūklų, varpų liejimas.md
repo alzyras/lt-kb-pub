@@ -82,7 +82,6 @@ Nenurodyta
 - [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/paprociai/Prekyba su Prūsais (Dancigu ir Karaliaučiumi)]]
-- [[objektai/vietos/Prūsija]]
 - [[objektai/vietos/Sūduva]]
 - [[objektai/daiktai/Varpai]]
 - [[objektai/daiktai/Monetos]]

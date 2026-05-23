@@ -97,4 +97,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Žemaičiai]]
+- [[objektai/grupes/Aukštaičiai]]

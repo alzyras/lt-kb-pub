@@ -49,6 +49,8 @@ Lenkijos ir Lietuvos sostuose sėdėjo lietuviškos kilmės Jogailaičių dinast
 
 ### Susiję objektai
 - [[objektai/vietos/Europa]]
+- [[objektai/grupes/Habsburgai]]
+- [[objektai/grupes/Jogailaičiai]]
 - [[objektai/grupes/Jogailaičių dinastija]]
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Lietuva]]

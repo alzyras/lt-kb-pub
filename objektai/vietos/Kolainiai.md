@@ -43,5 +43,8 @@ Nebuvo aplenktos nė mokyklos: Kalvarijos, Padubysio ir Kolainių mokyklos buvo 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Kražiai]]
 - [[objektai/vietos/Kalvarija]]
+- [[objektai/ivykiai/Kolainių pilies puolimas (1290 m.)]]
+- [[objektai/vietos/Kolainių pilis]]
 - [[objektai/vietos/Padubysys]]

@@ -186,6 +186,7 @@ Demarkacijos linija šiame įraše reiškia laikiną militarinę ir politinę ri
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Rusija]]
 - [[objektai/vietos/Ryga]]
+- [[objektai/vietos/Suvalkai]]
 - [[objektai/vietos/Vidurinė Lietuva]]
 - [[objektai/vietos/Vilnius]]
 - [[objektai/vietos/Juodoji Ančia]]

@@ -183,6 +183,7 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/vietos/Rusija]]
 - [[objektai/vietos/Vilnius]]
 - [[objektai/asmenys/Andriejus (Vilniaus vyskupas)]]

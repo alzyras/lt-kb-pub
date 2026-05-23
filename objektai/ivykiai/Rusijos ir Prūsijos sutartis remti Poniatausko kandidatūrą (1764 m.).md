@@ -61,5 +61,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/grupes/Protestantai]]
 - [[objektai/vietos/Prūsija]]
 - [[objektai/vietos/Rusija]]

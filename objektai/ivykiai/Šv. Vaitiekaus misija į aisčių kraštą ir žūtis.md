@@ -126,6 +126,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Aisčiai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/vietos/Viena]]
 - [[objektai/vietos/Vysla]]

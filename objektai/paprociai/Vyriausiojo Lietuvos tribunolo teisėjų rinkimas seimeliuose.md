@@ -141,6 +141,7 @@ Nenurodyta
 - [[objektai/vietos/Maskva]]
 - [[objektai/asmenys/Steponas]]
 - [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/kapitula]]
 - [[objektai/zodynas/seimelis]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/zodynas/tribunolas]]

@@ -53,5 +53,6 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Bolševikai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/ivykiai/Antrasis Panevėžio puolimas]]

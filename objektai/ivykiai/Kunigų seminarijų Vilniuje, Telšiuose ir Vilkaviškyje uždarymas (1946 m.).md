@@ -55,5 +55,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Telšiai]]
 - [[objektai/vietos/Viena]]
 - [[objektai/vietos/Vilkaviškis]]

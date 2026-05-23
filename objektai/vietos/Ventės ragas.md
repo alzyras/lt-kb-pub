@@ -58,6 +58,7 @@ kryžiuočiai toliau tvirtinosi pačiame Nemuno žemupyje, statė naują pilį S
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Livonija]]
 - [[objektai/vietos/Nemunas]]
 - [[objektai/vietos/Papilė]]

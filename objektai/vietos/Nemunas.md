@@ -665,6 +665,8 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
 - [[objektai/vietos/Salynas]]
 - [[objektai/vietos/Salyne]]
 - [[objektai/vietos/Skirsnemunė]]
+- [[objektai/vietos/Suvalkai]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/grupes/Vokiečių ordinas]]
 - [[objektai/vietos/Vysla]]
 - [[objektai/daiktai/Akmeniniai kovos kirviai]]

@@ -102,6 +102,7 @@ Karolis pagaliau buvo priverstas išsidanginti iš Turkijos.
 ### Susiję objektai
 - [[objektai/vietos/Europa]]
 - [[objektai/daiktai/Gintaras]]
+- [[objektai/vietos/Tryškiai]]
 - [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/Baudžiavinė santvarka]]
 - [[objektai/vietos/Cecora]]
@@ -113,7 +114,6 @@ Karolis pagaliau buvo priverstas išsidanginti iš Turkijos.
 - [[objektai/grupes/Lenkijos kariuomenė]]
 - [[objektai/asmenys/Motiejus Huniadis]]
 - [[objektai/vietos/Podolės Kameneco tvirtovė]]
-- [[objektai/vietos/Tryškiai]]
 - [[objektai/grupes/Turkijos kariuomenė]]
 - [[objektai/vietos/Ukraina]]
 - [[objektai/vietos/Valakija]]

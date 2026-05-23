@@ -75,8 +75,8 @@ X GULBINIŠKIŲ KAUTYNĖS 1948 m. vasario 1 d. Vilkaviškio aps. ŽIŪRŲ-GUDELI
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Gulbiniškiai]]
+- [[objektai/vietos/Pilviškiai]]
 - [[objektai/vietos/Vilkaviškis]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/vietos/Gulbiniškiai]]
 - [[objektai/grupes/MGB]]
-- [[objektai/vietos/Pilviškiai]]

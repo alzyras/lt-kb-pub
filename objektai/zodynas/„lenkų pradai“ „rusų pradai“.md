@@ -75,6 +75,7 @@ Imperijos politikoje „lenkų klausimu“ viršų gavo tie, kurie manė, kad re
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/vietos/Rusija]]
+- [[objektai/grupes/Stačiatikiai]]
 - [[objektai/zodynas/polonofobija]]
 - [[objektai/asmenys/Aleksandras III]]
 - [[objektai/zodynas/pradai]]

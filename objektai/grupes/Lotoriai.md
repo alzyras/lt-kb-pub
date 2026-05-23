@@ -60,4 +60,4 @@ Lotoriai šiame fragmente pateikiami kaip viena iš puolusių grupių, o jų vie
 ### Susiję objektai
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Viena]]
-- [[objektai/grupes/Žemaičiai]]
+- [[objektai/grupes/Vokiečiai]]

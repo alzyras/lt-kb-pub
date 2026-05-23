@@ -62,5 +62,6 @@ Nenurodyta
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Livonija]]
 - [[objektai/vietos/Vilnius]]
+- [[objektai/grupes/Švedai]]
 - [[objektai/vietos/Kaunas]]
 - [[objektai/vietos/Lenkija]]

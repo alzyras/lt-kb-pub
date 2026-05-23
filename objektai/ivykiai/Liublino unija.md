@@ -263,6 +263,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/grupes/Chodkevičiai]]
 - [[objektai/vietos/Europa]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/vietos/Lenkija]]
@@ -276,7 +277,6 @@ Nenurodyta
 - [[objektai/zodynas/seniūnas]]
 - [[objektai/zodynas/unija]]
 - [[objektai/vietos/Žalgiris]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/asmenys/Žygimantas Augustas]]
 - [[objektai/posakiai/„Šventos santuokos“]]

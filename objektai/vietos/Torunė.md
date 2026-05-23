@@ -62,6 +62,7 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
 - [[objektai/vietos/Prūsija]]
 - [[objektai/vietos/Vokietija]]
 - [[objektai/vietos/Vysla]]
+- [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/ivykiai/Derybos Salyne su Vokiečių ordinu]]
 - [[objektai/posakiai/Iki gyvos Vytauto ir Jogailos galvos]]
@@ -70,3 +71,4 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
 - [[objektai/vietos/Veliuonos pilis]]
 - [[objektai/posakiai/„Jūs norite man išplėšti tėvų palikimą...“]]
 - [[objektai/posakiai/„iki gyvos galvos“]]
+- [[objektai/vietos/Prūsai]]

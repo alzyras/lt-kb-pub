@@ -94,6 +94,7 @@ sutartimi su LDK panaikinta Livonijos konfederacija, didesnė dalis Livonijos ta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Gardinas]]
+- [[objektai/grupes/Kazokai]]
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Livonija]]

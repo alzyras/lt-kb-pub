@@ -180,11 +180,13 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Baltai]]
 - [[objektai/vietos/Drohičinas]]
 - [[objektai/grupes/Gediminaičiai]]
 - [[objektai/vietos/Kijevo Rusia]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Padauguvis]]
+- [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/ivykiai/Gedimino sąjunga su Lenkija]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/posakiai/Lietuvoje pradėjo valdyti pašėlęs (okajauyj), nedorovingas, prakeiktas ir negailestingas Traidenis]]

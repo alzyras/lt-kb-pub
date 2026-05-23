@@ -94,6 +94,7 @@ UŽPELKIŲ KAUTYNĖS 241 fo} j= o a o Qa nn co ia co ae ## Puslapis 244 NKVD SMO
 ### Susiję objektai
 - [[objektai/grupes/MGB-KGB agentai smogikai]]
 - [[objektai/grupes/NKVD]]
+- [[objektai/vietos/Užpelkiai]]
 - [[objektai/ivykiai/Užpelkių kautynės]]
 - [[objektai/zodynas/agentai smogikai]]
 - [[objektai/vietos/Lietuva]]

@@ -423,5 +423,6 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Prūsija]]
 - [[objektai/vietos/Lenkija]]
+- [[objektai/vietos/Prūsai]]
 - [[objektai/vietos/Torno]]
 - [[objektai/ivykiai/Torno taika (1411 m.)]]

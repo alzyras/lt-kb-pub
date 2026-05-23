@@ -104,3 +104,4 @@ Nenurodyta
 - [[objektai/zodynas/elektorius]]
 - [[objektai/vietos/Brandenburgas]]
 - [[objektai/asmenys/Jadvyga]]
+- [[objektai/grupes/Kryžiuočių ordinas]]

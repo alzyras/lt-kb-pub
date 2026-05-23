@@ -200,3 +200,8 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-011
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Totoriai]]
+- [[objektai/zodynas/Adynos|adynos]]

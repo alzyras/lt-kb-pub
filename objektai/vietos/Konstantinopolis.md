@@ -165,6 +165,7 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
 - [[objektai/vietos/Polockas]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/vietos/Rusija]]
+- [[objektai/grupes/Stačiatikiai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Aleksandras (Moldavijos valdovas)]]
 - [[objektai/vietos/Cholmas]]

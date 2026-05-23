@@ -65,6 +65,7 @@ tags:
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Lokietka]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/asmenys/Aldona Gediminaitė]]
 - [[objektai/asmenys/Kazimieras]]
 - [[objektai/asmenys/Vladislovas Lokietka]]

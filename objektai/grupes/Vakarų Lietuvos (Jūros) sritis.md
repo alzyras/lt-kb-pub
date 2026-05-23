@@ -79,6 +79,7 @@ Pakeliui į suvažiavimą susitikę Vakarų Lietuvos (Jūros) ir Pietų Lietuvos
 - [[objektai/grupes/Pietų Lietuvos (Nemuno) sritis]]
 - [[objektai/vietos/Radviliškis]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/asmenys/Aleksandras Grybinas-Faustas]]
 - [[objektai/asmenys/Aleksandras Milaševičius-Ruonis]]
 - [[objektai/vietos/Pietų Lietuva]]

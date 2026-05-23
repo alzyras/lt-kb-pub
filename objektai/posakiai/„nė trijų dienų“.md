@@ -66,4 +66,5 @@ Kovo 20 dieną Vokietijai ultimatyviai pareikalavus perduoti jai Klaipėdos.
 ### Susiję objektai
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Vokietija]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

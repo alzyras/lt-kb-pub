@@ -59,6 +59,7 @@ Per trumpa “| laiką Švedijos kariuomenė užėmė Paidę (Weisenstein), Kuok
 ### Susiję objektai
 - [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
 - [[objektai/vietos/Kuoknesė]]
+- [[objektai/daiktai/Laivai]]
 - [[objektai/vietos/Livonija]]
 - [[objektai/vietos/Ryga]]
 - [[objektai/vietos/Viljandis]]

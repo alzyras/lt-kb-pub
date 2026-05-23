@@ -78,3 +78,4 @@ Kartu su jais vyko taip pat žymus lenkas Paulius Vladimiri, būrys dvariškių 
 - [[objektai/vietos/Breslavas]]
 - [[objektai/daiktai/Kardas]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]

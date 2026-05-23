@@ -54,6 +54,7 @@ tags:
 - [[objektai/vietos/Smolenskas]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/kunigaikštija]]
+- [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/vietos/Novosielskas]]
 - [[objektai/vietos/Liubutskas]]
 - [[objektai/vietos/Mcenskas]]

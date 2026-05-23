@@ -52,3 +52,4 @@ Netoli Birštono Zaskevičiaus kariai susitiko karin. A. Žemaičio vadovaujamą
 ### Susiję objektai
 - [[objektai/vietos/Birštonas]]
 - [[objektai/vietos/Jieznas]]
+- [[objektai/vietos/Prienai]]

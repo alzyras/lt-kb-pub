@@ -56,8 +56,9 @@ Grįždami prie Saulės (« kein Soule sie karten wider »), t.y.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Vokietija]]
+- [[objektai/zodynas/kryžininkai]]
 - [[objektai/vietos/Šiauliai]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Vykintas]]
+- [[objektai/grupes/Žemaičiai]]

@@ -132,6 +132,7 @@ Ona Vytautienė šiame korpuse minima kaip antroji Vytauto žmona, iš pradžių
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Livonija]]
 - [[objektai/vietos/Malburgas]]
+- [[objektai/vietos/Prūsai]]
 - [[objektai/vietos/Ragainė]]
 - [[objektai/vietos/Rusija]]
 - [[objektai/vietos/Salynas]]

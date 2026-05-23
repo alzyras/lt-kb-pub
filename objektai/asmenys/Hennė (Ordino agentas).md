@@ -110,6 +110,7 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
 ### Susiję objektai
 - [[objektai/vietos/Maskva]]
 - [[objektai/vietos/Pronskas]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/vietos/Vorotinskas]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/magistras]]

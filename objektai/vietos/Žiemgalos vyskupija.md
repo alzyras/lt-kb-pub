@@ -55,5 +55,4 @@ Ordinas buvo dar gavęs žemių iš Žiemgalos vysku­ pijos dalybų (1254 m.)^1
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Mindaugas]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/vietos/Žiemgala]]

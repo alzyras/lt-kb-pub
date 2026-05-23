@@ -60,8 +60,9 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Dubysa]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/vietos/Livonija]]
-- [[objektai/grupes/Žemaičiai]]
+- [[objektai/vietos/Prūsai]]
 - [[objektai/vietos/Insterburgas]]
 - [[objektai/vietos/Tamova]]
 - [[objektai/ivykiai/Vytauto žygis į Ordino žemes (1377 m.)]]

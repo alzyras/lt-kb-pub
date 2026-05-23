@@ -108,6 +108,7 @@ Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos valstyb�
 - [[objektai/grupes/Lietuvos seimas]]
 - [[objektai/vietos/Slanimas]]
 - [[objektai/asmenys/Steponas]]
+- [[objektai/vietos/Suvalkai]]
 - [[objektai/vietos/Valkaviskas]]
 - [[objektai/vietos/Vilniaus gubernija]]
 - [[objektai/vietos/Vilnius]]

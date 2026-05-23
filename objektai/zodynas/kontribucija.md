@@ -127,6 +127,8 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Respublikonai]]
+- [[objektai/vietos/Valkininkai]]
 - [[objektai/ivykiai/Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)]]
 - [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/hegemonija]]

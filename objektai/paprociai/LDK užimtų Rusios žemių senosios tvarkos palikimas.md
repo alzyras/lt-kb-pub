@@ -75,5 +75,5 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/posakiai/„senovės negriauname, naujovių neįvedame“]]
 - [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/posakiai/„senovės negriauname, naujovių neįvedame“]]

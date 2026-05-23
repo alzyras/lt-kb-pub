@@ -46,4 +46,5 @@ Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustuvinin
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Polockas]]
 - [[objektai/autoriai/Pranciškus Skorina]]
+- [[objektai/grupes/Rusėnai]]
 - [[objektai/ivykiai/Pranciškaus Skorinos spaustuvės įkūrimas Vilniuje]]

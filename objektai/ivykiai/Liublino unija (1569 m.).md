@@ -280,6 +280,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Chodkevičiai]]
 - [[objektai/vietos/Europa]]
 - [[objektai/vietos/Kijevas]]
 - [[objektai/grupes/Lenkai]]
@@ -297,6 +298,5 @@ Nenurodyta
 - [[objektai/zodynas/seniūnas]]
 - [[objektai/zodynas/unija]]
 - [[objektai/vietos/Žalgiris]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/posakiai/„Šventos santuokos“]]

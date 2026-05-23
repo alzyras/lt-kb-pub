@@ -89,6 +89,7 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Arabai]]
 - [[objektai/vietos/Ispanija]]
 - [[objektai/vietos/Kaunas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]

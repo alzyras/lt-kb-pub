@@ -57,9 +57,12 @@ Mūšio pasekmės Išvadavusi Panevėžį, Panevėžio rinktinė toliau parsekio
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Biržai]]
 - [[objektai/grupes/Bolševikai]]
 - [[objektai/vietos/Kupiškis]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/ivykiai/Antrasis Panevėžio puolimas]]
+- [[objektai/grupes/MVD]]
 - [[objektai/grupes/Panevėžio rinktinė]]
 - [[objektai/vietos/Subačius]]

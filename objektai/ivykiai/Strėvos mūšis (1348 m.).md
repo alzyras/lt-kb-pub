@@ -194,4 +194,6 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
 - [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/zodynas/vyskupo teisėjas]]
+- [[objektai/vietos/Žiežmariai]]
+- [[objektai/daiktai/Lankai]]
 - [[objektai/asmenys/Vygandas]]

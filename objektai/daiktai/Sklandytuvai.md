@@ -61,3 +61,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/vietos/Kaunas]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Vokiečiai]]

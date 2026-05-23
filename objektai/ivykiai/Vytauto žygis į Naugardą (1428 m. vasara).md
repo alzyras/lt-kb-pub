@@ -106,5 +106,6 @@ Nenurodyta
 - [[objektai/vietos/Viena]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/kontribucija]]
+- [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/vietos/Rusija]]
 - [[objektai/zodynas/žygis]]

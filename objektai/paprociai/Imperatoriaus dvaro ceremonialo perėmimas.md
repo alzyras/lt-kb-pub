@@ -84,3 +84,4 @@ Nenurodyta
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Maskva]]
 - [[objektai/grupes/Romai]]
+- [[objektai/grupes/Rusai]]

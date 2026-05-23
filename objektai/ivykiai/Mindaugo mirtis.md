@@ -67,3 +67,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Mindaugas]]
+- [[objektai/grupes/Vokiečiai]]

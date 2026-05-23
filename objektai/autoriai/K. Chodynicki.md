@@ -89,4 +89,6 @@ Chodynicki 1926, sulaukdamas kitų tyrinėtojų pritarimo. Chodynicki, K. Chodyn
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Livonija]]
+- [[objektai/grupes/Rygiečiai]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/kunigaikščiai]]

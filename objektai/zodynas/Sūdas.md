@@ -74,3 +74,4 @@ Vartojamos formos: `sūdąs`, `sūdą`.
 - [[objektai/vietos/Katra]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/zodynas/tėvūnas]]
+- [[objektai/zodynas/vergai]]

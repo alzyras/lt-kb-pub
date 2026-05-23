@@ -94,6 +94,7 @@ Jam mirus Vilniaus d. kun. tapo Jogaila, kuris, spren­ džiant iš 1379 m. suta
 - [[objektai/vietos/Trakai]]
 - [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/diarchija]]
+- [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/posakiai/supremus dux]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/zodynas/unija]]

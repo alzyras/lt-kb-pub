@@ -95,6 +95,7 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/SSRS]]
+- [[objektai/grupes/Žydai]]
 - [[objektai/zodynas/Desovietizacija ir liustracija]]
 - [[objektai/zodynas/Politinė amnestija]]
 - [[objektai/ivykiai/Sovietinių represinių struktūrų kova su Lietuvos partizanais (1944–1954 m.)]]

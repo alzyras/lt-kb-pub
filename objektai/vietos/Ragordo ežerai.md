@@ -72,6 +72,7 @@ Jos buvo pravestos nuo Mozūrijos sienos upe aukštyn į Grajevo ir Ragordo eže
 - [[objektai/vietos/Nemunas]]
 - [[objektai/vietos/Palanga]]
 - [[objektai/vietos/Viena]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/vietos/Šešupė]]
 - [[objektai/vietos/Leipūnos upė]]
 - [[objektai/vietos/Smalininkai]]

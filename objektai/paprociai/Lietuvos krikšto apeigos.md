@@ -143,4 +143,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/ivykiai/Lietuvos krikštas]]
+- [[objektai/grupes/Baltai]]
 - [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]

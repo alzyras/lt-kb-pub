@@ -73,5 +73,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Rudava]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/maršalka]]
 - [[objektai/ivykiai/Rūdavos mūšis]]

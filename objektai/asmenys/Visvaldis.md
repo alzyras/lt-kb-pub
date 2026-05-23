@@ -71,6 +71,6 @@ Nes Lietuviai Vilnius 0 Jotvingiai aw MI Visvaldis buvo nugalėtas NY Rygos vysk
 - [[objektai/vietos/Kulmas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Mozūrija]]
-- [[objektai/vietos/Prūsija]]
 - [[objektai/vietos/Ryga]]
+- [[objektai/grupes/Teutonai]]
 - [[objektai/vietos/Vilnius]]

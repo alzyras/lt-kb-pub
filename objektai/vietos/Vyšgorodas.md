@@ -62,3 +62,4 @@ Gedimino valdžią tuo metu pripažino ir Kijevo priemiesčiai Vyšgorodas įvyk
 - [[objektai/vietos/Kijevas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Totoriai]]

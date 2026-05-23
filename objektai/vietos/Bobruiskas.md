@@ -59,6 +59,7 @@ Bžostausko fundacija), Naugarduke (sudėtinė fundacija), Bobruiske (Triznos fu
 - [[objektai/vietos/Gardinas]]
 - [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
 - [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Kražiai]]
 - [[objektai/vietos/Minskas]]
 - [[objektai/vietos/Pinskas]]
 - [[objektai/vietos/Sluckas]]

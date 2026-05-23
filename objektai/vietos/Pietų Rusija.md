@@ -78,3 +78,4 @@ Su tam tikru pagrindu virvelinės kera­ mikos kultūros šaknų yra ieškoma pi
 - [[objektai/vietos/Kaukazas]]
 - [[objektai/vietos/Rusija]]
 - [[objektai/vietos/Ukraina]]
+- [[objektai/zodynas/Adynos|adynos]]

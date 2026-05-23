@@ -91,6 +91,6 @@ Nenurodyta
 - [[objektai/grupes/Lenkai]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusėnai]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/barokas]]
-- [[objektai/grupes/Žemaičiai]]

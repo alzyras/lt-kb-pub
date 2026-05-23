@@ -688,6 +688,7 @@ Nenurodyta
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/karūnacija karūnuotis]]
 - [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Husitai]]
 - [[objektai/posakiai/Iki gyvos Vytauto ir Jogailos galvos]]
 - [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
 - [[objektai/vietos/Lenkija]]

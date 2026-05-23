@@ -68,6 +68,8 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Baltarusiai]]
 - [[objektai/zodynas/Baudžiava]]
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Lietuva]]

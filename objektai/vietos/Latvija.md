@@ -477,9 +477,11 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Baltija]]
+- [[objektai/grupes/Bolševikai]]
 - [[objektai/vietos/Kretinga]]
 - [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Žemaičiai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/autoriai/A. Merkys]]
 - [[objektai/vietos/Aizkrauklė]]
 - [[objektai/autoriai/Algimantas Daugirdas]]
@@ -488,7 +490,6 @@ tags:
 - [[objektai/ivykiai/Baltijos valstybių okupavimas ir įjungimas į SSRS sudėtį (1940 m. vasara)]]
 - [[objektai/grupes/Bartai]]
 - [[objektai/grupes/Bermontininkai]]
-- [[objektai/grupes/Bolševikai]]
 - [[objektai/vietos/Burtnieko ežeras]]
 - [[objektai/grupes/Draugija Užsienio Lietuviams Remti (DULR)]]
 - [[objektai/zodynas/Euroatlantinė ir transatlantinė integracija]]

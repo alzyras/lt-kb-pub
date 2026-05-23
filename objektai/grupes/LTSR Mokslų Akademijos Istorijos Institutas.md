@@ -67,4 +67,5 @@ LTSR Mokslų Akademijos Istorijos Institutas leidžia kas antri metai knygas : A
 - [[objektai/autoriai/J. Stankus]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/daiktai/Skydas]]
 - [[objektai/autoriai/R. Jasas]]

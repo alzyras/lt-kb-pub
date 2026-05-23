@@ -68,5 +68,6 @@ Konfederacijos maršalka buvo išrinktas Katilas, o regimentorium (karo vadu) �
 ### Susiję objektai
 - [[objektai/asmenys/Mykolas]]
 - [[objektai/grupes/Pranciškonų ordinas]]
+- [[objektai/vietos/Valkininkai]]
 - [[objektai/daiktai/Kardas]]
 - [[objektai/zodynas/bajorija]]

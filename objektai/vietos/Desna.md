@@ -48,6 +48,7 @@ tags:
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/vietos/Dniepras]]
 - [[objektai/vietos/Smolenskas]]
+- [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/autoriai/M. Vasmeris]]
 - [[objektai/vietos/Naugardas]]
 - [[objektai/vietos/Trubčevskas]]

@@ -51,3 +51,8 @@ Oginskio pajėgos netrukus buvo sumuštos prie Stalovičių ir išblaškytos tuo
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Rusai]]
+- [[objektai/ivykiai/Bezdežo (Antopolio) mūšis (1771 m.)]]

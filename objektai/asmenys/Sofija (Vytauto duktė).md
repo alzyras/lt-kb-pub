@@ -152,7 +152,10 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Husitai]]
 - [[objektai/vietos/Maskva]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Stačiatikiai]]
 - [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
 - [[objektai/daiktai/Kristaus Kančios relikvija]]
 - [[objektai/grupes/Maskvos kunigaikštija]]

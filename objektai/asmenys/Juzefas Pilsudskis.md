@@ -232,6 +232,7 @@ Kitokio požiūrio į Lietuvos perspektyvas laikėsi iš etninės Lietuvos kilus
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Antantė]]
+- [[objektai/grupes/Bolševikai]]
 - [[objektai/asmenys/J. Pilsudskis]]
 - [[objektai/vietos/Klaipėda]]
 - [[objektai/grupes/Lenkai]]
@@ -239,6 +240,7 @@ Kitokio požiūrio į Lietuvos perspektyvas laikėsi iš etninės Lietuvos kilus
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Pilsudskis]]
+- [[objektai/vietos/Suvalkai]]
 - [[objektai/vietos/Vidurinė Lietuva]]
 - [[objektai/vietos/Vilnija]]
 - [[objektai/vietos/Vilnius]]

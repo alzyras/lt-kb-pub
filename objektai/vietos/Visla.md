@@ -60,6 +60,7 @@ Vi­ sas Prūsijos kraštas apie Vislos ir Dresvenco upes pateko ka­ ro sūkuri
 - [[temos/ežeras]]
 
 ### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/vietos/Prūsija]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/grupes/Kalavijuočių ordinas]]

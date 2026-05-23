@@ -62,6 +62,8 @@ Nenurodyta
 - [[objektai/vietos/Butrimonys]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/asmenys/Povilas Lukšys]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Lietuviai]]

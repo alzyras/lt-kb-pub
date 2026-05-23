@@ -90,9 +90,11 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Baltai]]
 - [[objektai/vietos/Kijevas]]
 - [[objektai/vietos/Kijevo Rusia]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Pskovas]]
+- [[objektai/grupes/Slavai]]
 - [[objektai/zodynas/ekspansija]]

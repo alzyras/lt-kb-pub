@@ -90,7 +90,10 @@ Vytautas sutiko ir pasiuntė įkaitais savo brolį Zigmantą su šio sūnum Myko
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Gelvonai]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Pašilė]]
+- [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/grupes/Bajorų konfederacija]]
 - [[objektai/vietos/Biržų pilis]]
 - [[objektai/vietos/Didysis Naugardas]]

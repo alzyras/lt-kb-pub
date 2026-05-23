@@ -93,6 +93,7 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Artilerija]]
+- [[objektai/grupes/Bolševikai]]
 - [[objektai/vietos/Daugpilis]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]

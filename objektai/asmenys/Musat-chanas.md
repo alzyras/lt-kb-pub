@@ -70,3 +70,4 @@ Kafos apylinkės buvo pavestos valdyti į Lietuvos pusę perėjusiam totorių ca
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Maskva]]
 - [[objektai/vietos/Smolenskas]]
+- [[objektai/grupes/Totoriai]]

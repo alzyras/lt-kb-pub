@@ -120,4 +120,5 @@ Nenurodyta
 - [[temos/privilegija]]
 
 ### Susiję objektai
+- [[objektai/grupes/Bajorai]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]

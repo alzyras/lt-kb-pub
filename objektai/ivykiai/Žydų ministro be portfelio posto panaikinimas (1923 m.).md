@@ -60,4 +60,5 @@ Nenurodyta
 - [[objektai/asmenys/A. Smetona|A. Smetona (prezidentas, XX a.)]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Žydai]]
 - [[objektai/posakiai/„teritoriniai patriotai“]]

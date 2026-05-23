@@ -56,3 +56,5 @@ Ziesemer, Karaliau­ čiaus ir Dancigo archyvų žinovas, ypač atsidėjęs voki
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Dancigas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Vokiečiai]]

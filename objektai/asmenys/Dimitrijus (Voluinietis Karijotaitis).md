@@ -70,5 +70,7 @@ Mūšyje žuvo keliasdešimt (kartais nurodoma net 74) žymių Lietuvos kunigaik
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Smolenskas]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/zodynas/rokošas]]
+- [[objektai/zodynas/kunigaikščiai]]

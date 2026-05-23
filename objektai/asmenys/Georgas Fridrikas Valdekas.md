@@ -96,3 +96,8 @@ Georgo Fridriko Valdeko vadovaujamą švedų, brandenburgiečių ir prūsų kari
 - [[objektai/vietos/Brandenburgas]]
 - [[objektai/vietos/Krymas]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Prostkai]]
+- [[objektai/vietos/Prūsai]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/zodynas/raitarai]]
+- [[objektai/grupes/Švedai]]

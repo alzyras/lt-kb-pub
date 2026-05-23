@@ -78,6 +78,7 @@ Naktį iš gegužės 22 d. į 23 d. bolševikai paliko Panevėžio apylinkes, pa
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Biržai]]
 - [[objektai/grupes/Bolševikai]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]

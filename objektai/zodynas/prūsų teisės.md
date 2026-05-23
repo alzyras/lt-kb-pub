@@ -49,4 +49,3 @@ Tačiau kai kuriems ir naujai kuriamuose dvaruose buvo duodamos „prūsų" teis
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/vietos/Prūsija]]

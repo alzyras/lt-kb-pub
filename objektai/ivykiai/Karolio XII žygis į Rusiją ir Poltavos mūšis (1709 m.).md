@@ -58,3 +58,4 @@ Nenurodyta
 - [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
 - [[objektai/asmenys/Karolis XII]]
 - [[objektai/vietos/Viena]]
+- [[objektai/grupes/Švedai]]

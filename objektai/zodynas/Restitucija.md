@@ -51,4 +51,5 @@ Narystės ir demokratijos įtvirtinimui Lietuva ėmė ryžtingai siekti demokrat
 ### Susiję objektai
 - [[objektai/zodynas/Antisemitizmas]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Žydai]]
 - [[objektai/daiktai/Išsaugotos Toros]]

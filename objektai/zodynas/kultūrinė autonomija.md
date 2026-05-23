@@ -92,5 +92,8 @@ tags:
 - [[objektai/grupes/Lenkai]]
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/grupes/Žydai]]
 - [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė]]
 - [[objektai/zodynas/autokratinė monarchinė imperija]]

@@ -69,5 +69,5 @@ Ją paleido prie durų stovėjęs Prienų NKGB tardytojas Kruglov Arkadij. Krugl
 ### Susiję objektai
 - [[objektai/grupes/Bolševikai]]
 - [[objektai/grupes/NKGB]]
-- [[objektai/vietos/Viena]]
 - [[objektai/vietos/Prienai]]
+- [[objektai/vietos/Viena]]

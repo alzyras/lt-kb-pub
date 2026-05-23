@@ -371,7 +371,6 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
 - [[objektai/zodynas/barokas]]
 - [[objektai/vietos/Čekija]]
 - [[objektai/vietos/Šv. Jonų bažnyčia]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/paprociai/Jėzuitiškas mokymas ir katalikybės sklaida per Vilniaus universitetą]]
 - [[objektai/ivykiai/Vilniaus universiteto įkūrimas]]
 - [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.)]]

@@ -95,6 +95,7 @@ Nenurodyta
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Mykolas]]
+- [[objektai/grupes/Pacai]]
 - [[objektai/grupes/Prancūziškoji partija]]
 - [[objektai/grupes/Sapiegos]]
 - [[objektai/vietos/Vysla]]

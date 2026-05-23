@@ -111,6 +111,7 @@ Nepriklausomybės kovų metu karinė savanorystė siejama su entuziastingu stoji
 - [[temos/socialinė-praktika]]
 
 ### Susiję objektai
+- [[objektai/grupes/Bolševikai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Lietuva]]

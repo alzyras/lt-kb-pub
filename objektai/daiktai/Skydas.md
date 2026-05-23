@@ -117,7 +117,9 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/E. Radzvilovaitė]]
+- [[objektai/daiktai/Geležiniai įrankiai]]
 - [[objektai/autoriai/J. Stankus]]
+- [[objektai/grupes/LTSR Mokslų Akademijos Istorijos Institutas]]
 - [[objektai/posakiai/Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!]]
 - [[objektai/autoriai/V. T. Pašuto]]
 - [[objektai/daiktai/Šarvai]]

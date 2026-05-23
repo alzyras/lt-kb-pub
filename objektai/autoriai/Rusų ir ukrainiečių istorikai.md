@@ -187,4 +187,4 @@ Odesos universiteto istorikas V. Savo pastabas yra tuo pat metu įdomiai išdės
 ### Susiję objektai
 - [[objektai/vietos/Kijevas]]
 - [[objektai/vietos/Lietuva]]
-- [[objektai/ivykiai/Mongolų (totorių) invazija (1237-1240 m.)]]
+- [[objektai/grupes/Rusai]]

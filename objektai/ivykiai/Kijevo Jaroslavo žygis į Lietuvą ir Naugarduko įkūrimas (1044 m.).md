@@ -116,6 +116,7 @@ Nenurodyta
 - [[objektai/grupes/Krivičiai]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/vietos/Viena]]
 - [[objektai/posakiai/na Litvu]]
 - [[objektai/vietos/Naugardukas]]

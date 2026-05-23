@@ -207,3 +207,4 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos diplomatinė tarnyba]]
+- [[objektai/grupes/Žydai]]

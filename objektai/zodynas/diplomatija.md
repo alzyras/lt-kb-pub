@@ -59,6 +59,7 @@ Ar nagrinėti pavyzdinga krašto administracija, ar tvarkyti sku­ būs Malburgo
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Malburgas]]
+- [[objektai/vietos/Prūsai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/daiktai/Bomba]]
 - [[objektai/ivykiai/Liublino unija]]

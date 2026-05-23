@@ -60,5 +60,7 @@ Jai vadovauti buvo pakviestas iš šalies 1764 m. išvarytas buvęs respublikona
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Bajorai]]
 - [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
 - [[objektai/zodynas/konfederacija]]
+- [[objektai/grupes/Čartoriskiai]]

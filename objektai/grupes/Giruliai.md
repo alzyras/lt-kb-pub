@@ -54,5 +54,5 @@ Giruliai šiame fragmente aiškinami kaip istorinis žemaičių ir kalnėnų var
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/grupes/Kalnėnai]]
+- [[objektai/grupes/Žemaičiai]]

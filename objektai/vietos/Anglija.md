@@ -171,6 +171,7 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Anglai]]
 - [[objektai/asmenys/Antanas Tyzenhauzas|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]
 - [[objektai/vietos/Europa]]
 - [[objektai/asmenys/Horacijus]]
@@ -184,7 +185,6 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
 - [[objektai/zodynas/žygis]]
 - [[objektai/asmenys/A. Smetona|A. Smetona (prezidentas, XX a.)]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/grupes/Anglai]]
 - [[objektai/vietos/Breslavas]]
 - [[objektai/paprociai/Carinės sukilimo slopinimo teroro ir viešų bausmių praktika]]
 - [[objektai/asmenys/Henrikas IV]]

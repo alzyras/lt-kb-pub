@@ -125,6 +125,8 @@ tags:
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Luckas]]
+- [[objektai/grupes/Maskvėnai]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/vietos/Žalgiris]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/ivykiai/Oršos mūšis (1514 m.)]]

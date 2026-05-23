@@ -53,3 +53,4 @@ Apie VIII-IX amž. jie jau buvo prie Polocko - Minsko, net pasiekė iš pietų G
 - [[objektai/vietos/Pamaris]]
 - [[objektai/vietos/Polockas]]
 - [[objektai/grupes/Slavai]]
+- [[objektai/zodynas/Adynos|adynos]]

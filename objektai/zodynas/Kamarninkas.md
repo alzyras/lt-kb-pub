@@ -76,4 +76,3 @@ tags:
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/vietininkas]]
-- [[objektai/grupes/Žemaičiai]]

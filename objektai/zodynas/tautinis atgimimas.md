@@ -121,6 +121,7 @@ Autorius sieja tautinį atgimimą su socialiniais pokyčiais ir vėlesniu intens
 ### Susiję objektai
 - [[objektai/vietos/Estija]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/ivykiai/1830-1831 m. ir 1863 m. sukilimai]]
 - [[objektai/ivykiai/1905 m. revoliucija Rusijoje]]
 - [[objektai/grupes/Aušrininkai]]

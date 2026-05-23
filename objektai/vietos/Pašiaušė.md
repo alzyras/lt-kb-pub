@@ -60,6 +60,7 @@ Radvilos fundacija), Pašiaušėje (bajoro Beinarto f-ja), Slucke (sudėtinė f-
 - [[objektai/vietos/Gardinas]]
 - [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
 - [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Kražiai]]
 - [[objektai/vietos/Minskas]]
 - [[objektai/vietos/Pinskas]]
 - [[objektai/vietos/Sluckas]]

@@ -50,4 +50,3 @@ tags:
 ### Susiję objektai
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuvos bajorija]]
-- [[objektai/grupes/Žemaičiai]]

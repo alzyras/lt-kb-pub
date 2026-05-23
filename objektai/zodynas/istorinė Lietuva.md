@@ -151,6 +151,7 @@ Vartojama atskiriant LDK tradiciją nuo moderniosios Lietuvos Respublikos sampra
 - [[objektai/grupes/Slavai]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/paprociai/Istorinės Lietuvos žydų savivardystė „Lite“ ir „litvakai“]]
 - [[objektai/zodynas/Lite litvakai]]

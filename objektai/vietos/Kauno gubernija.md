@@ -178,6 +178,7 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
 - [[objektai/vietos/Minskas]]
 - [[objektai/vietos/Rusija]]
 - [[objektai/vietos/Slanimas]]
+- [[objektai/vietos/Suvalkai]]
 - [[objektai/vietos/Valkaviskas]]
 - [[objektai/vietos/Vilniaus gubernija]]
 - [[objektai/vietos/Vilnius]]

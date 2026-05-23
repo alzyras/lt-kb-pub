@@ -93,4 +93,5 @@ Visuomeninė veikla, domėjimasis karo eiga ir pokario sutvarkymo reikalais Viln
 - [[objektai/vietos/Vilnius]]
 - [[objektai/vietos/Vokietija]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Žydai]]
 - [[objektai/zodynas/kantonas kantoninis principas]]

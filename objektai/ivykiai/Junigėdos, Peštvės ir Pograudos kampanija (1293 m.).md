@@ -108,5 +108,4 @@ Nenurodyta
 - [[objektai/vietos/Viena]]
 - [[objektai/vietos/Vilkija]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/vietos/Pograuda]]

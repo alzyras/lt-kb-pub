@@ -76,10 +76,12 @@ Lenkų ir rusų bolševikų kare Lietuva paskelbė neutralitetą ir rūpinosi ap
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Bolševikai]]
 - [[objektai/vietos/Kaunas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Maskva]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/vietos/Rusija]]
 - [[objektai/vietos/Sovietų Rusija]]
 - [[objektai/vietos/Vilnius]]

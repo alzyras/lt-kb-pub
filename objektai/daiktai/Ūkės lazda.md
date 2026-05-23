@@ -107,5 +107,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Kalnėnai]]
 - [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Šaldros|šaldros]]
 - [[objektai/grupes/Žemaičiai]]

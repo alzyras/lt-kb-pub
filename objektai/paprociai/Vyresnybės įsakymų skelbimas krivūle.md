@@ -90,4 +90,3 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/Kūrėjų kūrėjas|kūrėjų kūrėjas]]
-- [[objektai/grupes/Žemaičiai]]

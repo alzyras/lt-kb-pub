@@ -122,10 +122,12 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Domininkonų ordinas]]
 - [[objektai/vietos/Drahočynas]]
 - [[objektai/vietos/Gardinas]]
 - [[objektai/vietos/Kaunas]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/vietos/Trakai]]
 - [[objektai/vietos/Vilnius]]
 - [[objektai/vietos/Vorskla]]

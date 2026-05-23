@@ -50,4 +50,3 @@ Jo «sostapilio» jieškota net keliose Žemaičių vietose.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Mindaugas]]
-- [[objektai/grupes/Žemaičiai]]

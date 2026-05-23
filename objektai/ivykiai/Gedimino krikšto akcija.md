@@ -59,5 +59,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/grupes/Stačiatikiai]]
 - [[objektai/zodynas/unija]]
 - [[objektai/zodynas/Arkivyskupija]]

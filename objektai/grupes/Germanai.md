@@ -46,4 +46,9 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Aisčiai]]
 - [[objektai/vietos/Europa]]
+- [[objektai/vietos/Dniepro žemupys]]
+- [[objektai/vietos/Nemuno-Dauguvos-Dniepro plotas]]
+- [[objektai/vietos/Pripetės pelkės]]
+- [[objektai/autoriai/Stasys Šalkauskis]]

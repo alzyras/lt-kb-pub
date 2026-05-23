@@ -78,5 +78,6 @@ Nenurodyta
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuvos bajorija]]
 - [[objektai/asmenys/Palemonas]]
+- [[objektai/grupes/Rusėnai]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/grupes/Lietuviai]]

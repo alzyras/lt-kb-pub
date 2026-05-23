@@ -53,6 +53,7 @@ Senosios Lietuvos valstybės laikais, nuo pat krikšto, visa etnografinė Lietuv
 - [[objektai/vietos/Gniezno]]
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/vietos/Varšuva]]
 - [[objektai/zodynas/Arkivyskupija]]
 - [[objektai/vietos/Mogilevo arkivyskupija]]

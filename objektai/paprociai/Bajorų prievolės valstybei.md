@@ -119,3 +119,4 @@ Nenurodyta
 - [[objektai/vietos/Viena]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/feodalizmas]]
+- [[objektai/zodynas/kunigaikščiai]]

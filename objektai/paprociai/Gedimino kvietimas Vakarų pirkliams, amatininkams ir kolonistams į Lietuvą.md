@@ -124,3 +124,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Vokiečiai]]

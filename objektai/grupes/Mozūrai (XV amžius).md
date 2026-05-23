@@ -56,6 +56,6 @@ Mozūrai šiame fragmente įvardijami kaip Lietuvos sandarų partneriai.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/Ermyderiai|ermyderiai]]
-- [[objektai/grupes/Žemaičiai]]

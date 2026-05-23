@@ -56,6 +56,7 @@ Svėdasų valsčiuje, Šimonių girioje.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Kupiškis]]
+- [[objektai/vietos/Svėdasai]]
 - [[objektai/vietos/Kupiškio apskritis]]
 - [[objektai/vietos/Šimonių giria]]
 - [[objektai/ivykiai/Šimonių girios apgultis]]

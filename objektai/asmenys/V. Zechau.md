@@ -54,3 +54,4 @@ Zechau. Zechau ir lietuvių 1-ojo pėst.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Utena]]
+- [[objektai/grupes/Vokiečiai]]

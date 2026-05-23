@@ -88,6 +88,7 @@ Kazimieras mirė bevaikis, ir po jo sostas atiteko jo sesers sūnui, Vengrijos k
 ### Susiję objektai
 - [[objektai/vietos/Dobrynė]]
 - [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Vengrai]]
 - [[objektai/vietos/Visla]]
 - [[objektai/ivykiai/Kęstučio taikos ir krikšto sutartis su Liudviku Anžu (1351 m.)]]
 - [[objektai/vietos/Naugardukas]]

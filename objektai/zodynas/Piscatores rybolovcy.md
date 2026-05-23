@@ -61,3 +61,4 @@ tags:
 
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/kunigaikščiai]]

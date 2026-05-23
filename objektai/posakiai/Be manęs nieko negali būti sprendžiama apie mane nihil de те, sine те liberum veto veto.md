@@ -96,7 +96,10 @@ Jie svajojo net panaikinti liberum veto, bet kadangi tam pasipriešino Rusų ir 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Prūsai]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/kitatikiai]]
 - [[objektai/zodynas/statutas]]
 - [[objektai/grupes/Čartoriskiai]]
 - [[objektai/zodynas/Liberum veto]]

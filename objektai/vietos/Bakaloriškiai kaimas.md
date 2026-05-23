@@ -53,3 +53,4 @@ Vokiečių okupacijos metu Vaclovas Voveris su kaimynais įkūrė savisaugos bū
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Vaclovas]]
+- [[objektai/grupes/Vokiečiai]]

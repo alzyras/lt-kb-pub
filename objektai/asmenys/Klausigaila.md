@@ -60,4 +60,5 @@ Klausigaila buvo vienas iš penkių vadovų, kurie turėjo Kęstutaičio vardu p
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Žemaičiai]]
+- [[objektai/vietos/Raseiniai]]
+- [[objektai/grupes/Vokiečiai]]

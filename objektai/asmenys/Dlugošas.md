@@ -82,6 +82,7 @@ Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose. Dlugošas, kuris 14
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Konstanca]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/posakiai/Vakkis Ahridlis]]
 - [[objektai/grupes/Žemaičiai]]

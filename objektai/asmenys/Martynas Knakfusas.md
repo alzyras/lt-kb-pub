@@ -65,3 +65,4 @@ tags:
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Viena]]
 - [[objektai/vietos/Vilnius]]
+- [[objektai/vietos/Verkiai]]

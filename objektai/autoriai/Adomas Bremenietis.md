@@ -59,6 +59,8 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
 ### Susiję objektai
 - [[objektai/vietos/Baltija]]
 - [[objektai/vietos/Europa]]
+- [[objektai/vietos/Prūsai]]
 - [[objektai/vietos/Skandinavija]]
+- [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/posakiai/homines humanissimi]]
 - [[objektai/posakiai/moterų kraštas]]

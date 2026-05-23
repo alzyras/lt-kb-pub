@@ -81,6 +81,7 @@ Vokiečiams modernizuojant aneksijos ir prisijungimo planus, prireikus tam ir ok
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/asmenys/A. Voldemaras]]
 - [[objektai/asmenys/Dovas Zaunius]]
 - [[objektai/posakiai/„Karas ar taika “]]

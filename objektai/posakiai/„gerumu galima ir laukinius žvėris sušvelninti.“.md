@@ -63,4 +63,5 @@ Kai kartą jam kažkas priminė jo didelį duosnumą dalinant toto­ riams žeme
 - [[objektai/vietos/Viena]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Totoriai]]
 - [[objektai/posakiai/gerumu galima ir laukinius žvėris sušvelninti|gerumu galima ir laukinius žvėris sušvelninti.]]

@@ -68,5 +68,4 @@ tags:
 - [[objektai/vietos/Salynas]]
 - [[objektai/vietos/Smardonė]]
 - [[objektai/vietos/Sūduva]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/vietos/Vaišvilčiai]]

@@ -74,6 +74,5 @@ Nenurodyta
 - [[objektai/asmenys/Traidenis]]
 - [[objektai/asmenys/Vytenis]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

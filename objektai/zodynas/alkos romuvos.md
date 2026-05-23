@@ -55,6 +55,7 @@ Taigi pasakojimas, kad buvęs kažkoks vienas vyriausiasis kunigas ir viena vyri
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Aisčiai]]
 - [[objektai/vietos/Viena]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/vietos/Romuva]]

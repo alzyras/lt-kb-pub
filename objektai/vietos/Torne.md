@@ -46,6 +46,7 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Aisčiai]]
 - [[objektai/vietos/Dancigas]]
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Marijenburgas]]

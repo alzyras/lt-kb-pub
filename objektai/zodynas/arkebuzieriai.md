@@ -77,10 +77,11 @@ Lietuvos arkebuzieriai rėmė ugnimi husarų ataką, o švedų arkibuzieriai sav
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Kuršiečiai]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/husarai]]
 - [[objektai/zodynas/rotmistras]]
 - [[objektai/zodynas/tercija]]
-- [[objektai/grupes/Kuršiečiai]]
+- [[objektai/grupes/Švedai]]
 - [[objektai/asmenys/Vaina]]
 - [[objektai/zodynas/muškietininkai]]

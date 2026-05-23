@@ -97,6 +97,7 @@ Radomo konfederacija. Tada konfederacija iš Radomo buvo perkelta į Varšuvą, 
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/vietos/Radomas]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/vietos/Rusija]]
 - [[objektai/vietos/Viena]]
 - [[objektai/zodynas/konfederacija]]

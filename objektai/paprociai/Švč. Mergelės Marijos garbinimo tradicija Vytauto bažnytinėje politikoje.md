@@ -70,5 +70,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/vietos/Europa]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/grupes/Vokiečių ordinas]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

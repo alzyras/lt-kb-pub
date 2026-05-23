@@ -124,3 +124,7 @@ O kai, besivydami bolševikus, lenkai ties Druskininkais persikėlė per Nemuną
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Vilnius]]
+- [[objektai/ivykiai/Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga)]]
+- [[objektai/vietos/Lazdijai]]
+- [[objektai/vietos/Marcinkonys]]
+- [[objektai/vietos/Volia]]

@@ -137,5 +137,9 @@ Mūsiškiai, pradėję kariauti su bolševikais, pirmą mūšį laimėjo prie K�
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Bolševikai]]
+- [[objektai/vietos/Eiguliai]]
+- [[objektai/vietos/Paobeliai]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/ivykiai/Kėdainių kautynės ir Povilo Lukšio žūtis (1919 m. vasario 7–9 d.)]]
 - [[objektai/ivykiai/Vilniaus užėmimas lenkų (1919 m. balandžio 19 d.)]]

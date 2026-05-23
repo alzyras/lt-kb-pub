@@ -70,6 +70,7 @@ Daugiakultūriškumas ir daugiakonfesiškumas kartais laikomi didžiausiu Lenkij
 ### Susiję objektai
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Naugardukas]]
+- [[objektai/grupes/Stačiatikiai]]
 - [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/metropolija]]
 - [[objektai/zodynas/metropolitas]]

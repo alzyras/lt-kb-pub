@@ -58,3 +58,4 @@ Oehler, M.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Elbingas]]
+- [[objektai/grupes/Vokiečiai]]

@@ -42,4 +42,6 @@ Prūsija per trečiąjį padalinimą gautąsias žemes pavadino Naujaisiais Rytp
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Prūsai]]
 - [[objektai/vietos/Prūsija]]
+- [[objektai/vietos/Rytprūsiai]]

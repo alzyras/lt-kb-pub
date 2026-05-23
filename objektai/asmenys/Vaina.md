@@ -74,8 +74,10 @@ Vainos kavalerija atakuoja priešo pėstininkus centre. Rotmistro A.Vainos husar
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Kuršiečiai]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/arkebuzieriai]]
+- [[objektai/zodynas/husarai]]
 - [[objektai/zodynas/rotmistras]]
+- [[objektai/grupes/Švedai]]
 - [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)]]
-- [[objektai/grupes/Kuršiečiai]]

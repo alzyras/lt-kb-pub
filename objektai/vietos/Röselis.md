@@ -63,4 +63,5 @@ tags:
 - [[objektai/vietos/Rastenburgas]]
 - [[objektai/vietos/Tilžė]]
 - [[objektai/vietos/Vėluva]]
+- [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/vietos/Įsrutis]]

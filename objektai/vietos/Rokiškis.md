@@ -66,4 +66,5 @@ Ukmergės rinktinė turėjo veržtis Ukmergės-UtenosZarasų kryptimi, Panevėž
 - [[objektai/vietos/Rusija]]
 - [[objektai/vietos/Ukmergė]]
 - [[objektai/grupes/Ukmergės rinktinė]]
+- [[objektai/vietos/Zarasai]]
 - [[objektai/asmenys/Bronislovas Komorovskis]]

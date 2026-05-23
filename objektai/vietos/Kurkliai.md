@@ -50,8 +50,10 @@ Užėmę Kurklius, lenkai veržėsi Vidiškių ir Ukmergės link.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Balnininkai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/vietos/Ukmergė]]
-- [[objektai/vietos/Balnininkai]]
+- [[objektai/vietos/Kurklių valsčius]]
+- [[objektai/vietos/Trakiniai]]
 - [[objektai/vietos/Videniškis]]
 - [[objektai/vietos/Vidiškis]]

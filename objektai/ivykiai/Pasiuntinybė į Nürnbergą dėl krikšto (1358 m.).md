@@ -72,10 +72,14 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Kuršiai]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Prūsija]]
 - [[objektai/vietos/Rusija]]
+- [[objektai/grupes/Totoriai]]
 - [[objektai/vietos/Viena]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/grupes/Vokiečių ordinas]]
 - [[objektai/zodynas/ciesorius]]
+- [[objektai/grupes/Žiemgaliai]]
 - [[objektai/ivykiai/Pasiuntinybė į Niurnbergą dėl krikšto (1358 m.)]]

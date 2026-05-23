@@ -88,3 +88,4 @@ Liubavskij). Liubavskij, M.
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/vietos/Bizantija]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Slavai]]

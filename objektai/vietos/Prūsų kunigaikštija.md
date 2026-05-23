@@ -48,4 +48,5 @@ Pasienio stulpas, Lietuvos Lenkijos ir Prūsų kunigaikštijos sienų susiėjimo
 ### Susiję objektai
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Prūsai]]
 - [[objektai/zodynas/kunigaikštija]]

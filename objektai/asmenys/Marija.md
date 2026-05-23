@@ -53,6 +53,7 @@ Bet jam pavyko dvi savo karalystes — Vengrų ir Len­ kijos — paskirti savo 
 ### Susiję objektai
 - [[objektai/vietos/Austrija]]
 - [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Vengrai]]
 - [[objektai/asmenys/Dimitras (Tverės kunigaikštis)]]
 - [[objektai/asmenys/Marija (Gedimino duktė)]]
 - [[objektai/vietos/Brandenburgas]]

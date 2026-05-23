@@ -124,6 +124,7 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Baltai]]
 - [[objektai/grupes/Kalnėnai]]
 - [[objektai/vietos/Kaunas]]
 - [[objektai/vietos/Krokuva]]

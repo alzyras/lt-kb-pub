@@ -78,4 +78,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/daiktai/Artilerija]]
 - [[objektai/daiktai/Herbas]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/vietos/Rusija]]

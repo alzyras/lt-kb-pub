@@ -167,6 +167,7 @@ J. Jakštas minimas kaip istorikas ir autorius; šiame tome jis siejamas su Voki
 - [[objektai/grupes/Lenkai]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rygiečiai]]
 - [[objektai/vietos/Viena]]
 - [[objektai/vietos/Vilnius]]
 - [[objektai/grupes/Vokiečiai]]

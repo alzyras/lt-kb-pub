@@ -57,6 +57,7 @@ Spalio 30 d. trys lietuvių batalionai iš 2-ojo, 7-ojo ir 9-ojo pėstininkų pu
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Giedraičiai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]

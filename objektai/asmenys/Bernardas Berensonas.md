@@ -69,3 +69,4 @@ nuo kurių kilęs ir įžymus italų renesanso tapybos žinovas Bernardas Berens
 - [[objektai/asmenys/Gertrude Ellion]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Sydney Brenner]]
+- [[objektai/zodynas/Adynos|adynos]]

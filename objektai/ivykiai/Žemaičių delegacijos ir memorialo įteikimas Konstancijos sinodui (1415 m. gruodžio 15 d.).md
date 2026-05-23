@@ -78,6 +78,5 @@ Nenurodyta
 - [[objektai/zodynas/kunigas]]
 - [[objektai/zodynas/memorialas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/autoriai/Jan Fijałek]]
 - [[objektai/autoriai/prof. kunigas Dr. J. Fijalek]]

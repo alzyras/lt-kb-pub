@@ -108,6 +108,7 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
 
 ### Susiję objektai
 - [[objektai/zodynas/urėdas]]
+- [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Vilnius]]

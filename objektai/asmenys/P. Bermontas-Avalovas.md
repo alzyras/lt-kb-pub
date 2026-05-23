@@ -86,7 +86,10 @@ Bermonto-Avalovo, siekusio nuversti bolševikus Rusijoje ir atkurti Rusijos impe
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Baltija]]
+- [[objektai/grupes/Bolševikai]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/vietos/Rusija]]
 - [[objektai/asmenys/Virgoličius]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/vietos/Mintauja]]

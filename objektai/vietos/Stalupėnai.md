@@ -59,5 +59,6 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
 ### Susiję objektai
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Suvalkai]]
 - [[objektai/vietos/Vokietija]]
 - [[objektai/grupes/Vokiečiai]]

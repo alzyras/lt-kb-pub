@@ -56,3 +56,5 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
 ### Susiję objektai
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Livonija]]
+- [[objektai/vietos/Prūsai]]
+- [[objektai/zodynas/Adynos|adynos]]

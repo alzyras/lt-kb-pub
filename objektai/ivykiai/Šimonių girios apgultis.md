@@ -101,6 +101,7 @@ Nenurodyta
 - [[objektai/vietos/Kupiškis]]
 - [[objektai/grupes/NKVD]]
 - [[objektai/daiktai/Partizanų bunkeriai]]
+- [[objektai/vietos/Svėdasai]]
 - [[objektai/grupes/Algimanto apygarda]]
 - [[objektai/autoriai/Dalius Žygelis]]
 - [[objektai/vietos/Kiauneliškiai]]

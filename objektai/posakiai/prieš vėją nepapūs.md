@@ -91,4 +91,5 @@ Patarlinė formulė čia vartojama kalbant apie jėgų nelygybę ir nenorą prie
 - [[objektai/grupes/Lenkai]]
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

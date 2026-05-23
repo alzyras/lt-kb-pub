@@ -157,9 +157,11 @@ Jos nebeišgelbėjo nė karaliaus atsiųstas Katkevičius. Katkevičius (Mūsų 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Chodkevičiai]]
 - [[objektai/vietos/Daugavgryva]]
 - [[objektai/vietos/Estija]]
 - [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
+- [[objektai/grupes/Kazokai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Lietuva]]
@@ -170,4 +172,5 @@ Jos nebeišgelbėjo nė karaliaus atsiųstas Katkevičius. Katkevičius (Mūsų 
 - [[objektai/vietos/Valakija]]
 - [[objektai/zodynas/rokošas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Švedai]]
 - [[objektai/vietos/Švedija]]

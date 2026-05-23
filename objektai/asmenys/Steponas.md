@@ -51,6 +51,7 @@ Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo krikštas (100
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Norvegija]]
 - [[objektai/vietos/Prūsija]]
+- [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/zodynas/apsikarūnavimas]]
 - [[objektai/zodynas/christianizacija]]
 - [[objektai/vietos/Švedija]]

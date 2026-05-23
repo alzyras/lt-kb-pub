@@ -49,4 +49,6 @@ Ih pradėjom sukti Liubavo link, kur kaip tik buvo pats bolševikų centras.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Bolševikai]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/žygis]]

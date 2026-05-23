@@ -70,5 +70,6 @@ Kantrimas. Kantrimas savo memoriale kuratoriui Čartoriskiui rašo, esą, didesn
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/kuratorius]]
 - [[objektai/zodynas/memorialas]]

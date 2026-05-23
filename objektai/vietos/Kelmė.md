@@ -88,6 +88,7 @@ Kaip jau matėme, 1416 metais Vytautas Varniuose pastatė katedrą ir aštuonias
 - [[objektai/vietos/Brasta]]
 - [[objektai/vietos/Konstancija]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Varniai]]
 - [[objektai/vietos/Vilnius]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Žebenkšties rinktinė]]

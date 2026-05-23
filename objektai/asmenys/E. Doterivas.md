@@ -52,3 +52,8 @@ Matydami stiprią rusų gynybą, sukilėlių kariuomenės štabo viršininkas pu
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Paneriai]]
+- [[objektai/grupes/Rusai]]

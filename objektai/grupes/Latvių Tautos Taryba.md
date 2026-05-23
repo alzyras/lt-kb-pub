@@ -71,9 +71,11 @@ Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri k
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Brasta]]
+- [[objektai/grupes/Latviai]]
 - [[objektai/vietos/Latvija]]
 - [[objektai/vietos/Petrapilis]]
 - [[objektai/vietos/Rusija]]
 - [[objektai/grupes/Tautos taryba]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/grupes/Bolševikai]]
 - [[objektai/grupes/Petrapilio latvių pabėgėlių komitetas]]

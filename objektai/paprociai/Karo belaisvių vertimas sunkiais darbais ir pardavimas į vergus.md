@@ -77,4 +77,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/vergai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Totoriai]]

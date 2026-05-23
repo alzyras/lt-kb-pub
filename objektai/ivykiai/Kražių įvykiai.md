@@ -58,5 +58,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Rusai]]
 - [[objektai/vietos/Kražių bažnyčia]]
+- [[objektai/vietos/Kražiai]]
 - [[objektai/vietos/Vatikanas]]

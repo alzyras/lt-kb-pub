@@ -44,6 +44,7 @@ Išplaukęs Vysla į jūrą, jis priplaukė krantą Priegliaus žiotyse.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Aisčiai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/vietos/Vysla]]
 - [[objektai/asmenys/Švitrigaila]]

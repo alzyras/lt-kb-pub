@@ -62,4 +62,3 @@ Kaip paaiškėjo iš antrojo Medininkų vyskupo Mikalojaus Romedanskio konsekrac
 - [[objektai/vietos/Livonija]]
 - [[objektai/zodynas/konsekracija]]
 - [[objektai/zodynas/metropolitas]]
-- [[objektai/grupes/Žemaičiai]]

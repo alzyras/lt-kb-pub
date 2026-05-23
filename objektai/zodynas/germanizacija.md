@@ -100,6 +100,7 @@ Tuo tarpu Mažojoje Lietuvoje ilgą laiką svetimieji buvo tik ponai, o kolonist
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Rašliava]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/vietos/Gumbinė]]
 - [[objektai/zodynas/germanizacija vokietinimas vokietėjimas]]
 - [[objektai/grupes/Oberostas]]

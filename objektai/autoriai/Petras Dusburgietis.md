@@ -123,4 +123,3 @@ Dusburgietis pažymi, kad „keturi tūkstančiai lietuvių“ niokojo Kuršo ž
 - [[objektai/vietos/Ryga]]
 - [[objektai/vietos/Semba]]
 - [[objektai/zodynas/Miera|miera]]
-- [[objektai/grupes/Žemaičiai]]

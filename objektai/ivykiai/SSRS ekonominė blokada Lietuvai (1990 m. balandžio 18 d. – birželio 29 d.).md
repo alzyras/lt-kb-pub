@@ -104,5 +104,6 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Mažeikiai]]
 - [[objektai/vietos/SSRS]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

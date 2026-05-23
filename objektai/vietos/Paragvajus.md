@@ -51,6 +51,7 @@ Tik penkių valstybių atstovai (Kolumbijos, Italijos, Paragvajaus, Persijos ir 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Latviai]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Persija]]
 - [[objektai/vietos/Rusija]]

@@ -49,3 +49,7 @@ Vėliau sutinkama gausi valstiečių grupė, vad. «judrioji » (« pochožije �
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/kunigaikščiai]]

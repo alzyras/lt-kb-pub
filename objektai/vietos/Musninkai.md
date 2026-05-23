@@ -57,4 +57,5 @@ Frontas nusistovėjo KernavėsMusninkų-ŠirvintųGiedraičių Dubingių-Švenč
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Artilerija]]
+- [[objektai/vietos/Giedraičiai]]
 - [[objektai/vietos/Švenčionėliai]]

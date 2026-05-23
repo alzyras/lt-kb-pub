@@ -45,7 +45,8 @@ O kai pamatai po provincijos miestelį Tryškius vaikštantį Erkiulį Puaro –
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Tryškiai]]
 - [[objektai/vietos/Turkija]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/vietos/Afrika]]
-- [[objektai/vietos/Tryškiai]]
+- [[objektai/zodynas/Adynos|adynos]]

@@ -45,3 +45,7 @@ Tik graikų matematikas-geografas Klaudios Ptolemaios (a.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Baltai]]

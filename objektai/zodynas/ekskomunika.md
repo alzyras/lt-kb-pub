@@ -56,6 +56,7 @@ Vėliau Vytautas popiežiui dar rašė, kad jis nenu­ traukia ryšių su Bažny
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Husitai]]
 - [[objektai/asmenys/Kaributas]]
 - [[objektai/vietos/Ryga]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

@@ -70,6 +70,7 @@ Nenurodyta
 - [[temos/paliaubos]]
 
 ### Susiję objektai
+- [[objektai/daiktai/Laivai]]
 - [[objektai/vietos/Livonija]]
 - [[objektai/vietos/Marienburgas]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

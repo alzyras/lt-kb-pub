@@ -187,5 +187,6 @@ Nenurodyta
 - [[objektai/zodynas/etmonas]]
 - [[objektai/zodynas/rotmistras]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Švedai]]
 - [[objektai/vietos/Salaspilis]]
 - [[objektai/zodynas/hetmonas]]

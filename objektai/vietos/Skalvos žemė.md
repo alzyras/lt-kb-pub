@@ -66,3 +66,4 @@ Atsakydami į kryžiuočių bei kryžininkų Ariogalos, Paštuvos puolimą, 1365
 - [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Patrikas]]
 - [[objektai/vietos/Viena]]
+- [[objektai/zodynas/kryžininkai]]

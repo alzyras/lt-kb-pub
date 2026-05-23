@@ -90,6 +90,7 @@ Kunigaikštis Čerkaskis, turėdamas apie 40000 karių, tuo metu nuo Smolensko �
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Rusai]]
 - [[objektai/vietos/Smolenskas]]
 - [[objektai/zodynas/etmonas]]
 - [[objektai/ivykiai/Šklovo mūšis (1654 m. rugpjūčio 12 d.)]]

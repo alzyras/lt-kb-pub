@@ -59,5 +59,5 @@ Hruševskis. Hruševskyj : HrlU, IV, 1905, 181 p. KULTŪRINIS LYGIS PAGONIŠKOJE
 - [[objektai/vietos/Kijevas]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Liublinas]]
-- [[objektai/ivykiai/Mongolų (totorių) invazija (1237-1240 m.)]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/unija]]

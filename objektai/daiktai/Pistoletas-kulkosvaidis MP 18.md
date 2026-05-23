@@ -72,3 +72,4 @@ Nenurodyta
 - [[objektai/vietos/Lietuva]]
 - [[objektai/daiktai/Pistoletas]]
 - [[objektai/daiktai/Pistoletas-kulkosvaidis MP 40]]
+- [[objektai/grupes/Vokiečiai]]

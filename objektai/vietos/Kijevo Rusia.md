@@ -149,6 +149,7 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
 - [[objektai/vietos/Lenkija]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Livonija]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/ivykiai/1387 m. vasaros žygis į Raudonąją Rusią]]
 - [[objektai/ivykiai/Algirdo žygiai į Maskvą]]

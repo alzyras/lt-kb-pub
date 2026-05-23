@@ -294,6 +294,8 @@ Nenurodyta
 - [[objektai/vietos/Dniepras]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Totoriai]]
 - [[objektai/vietos/Tverė]]
 - [[objektai/posakiai/„Mėlynuosius Vandenis ir Baltąją pakrantę nukariavo“]]
 - [[objektai/autoriai/M. Strijkovskis]]

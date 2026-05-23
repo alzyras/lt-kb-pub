@@ -127,4 +127,5 @@ Nenurodyta
 - [[objektai/vietos/Nemunas]]
 - [[objektai/vietos/Racionžas]]
 - [[objektai/vietos/Vilnius]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

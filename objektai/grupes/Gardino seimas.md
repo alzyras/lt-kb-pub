@@ -98,5 +98,6 @@ Tam tikslui Gardine buvo sušauktas seimas. Taigi minėtame Gardino seime (1793 
 - [[objektai/vietos/Gardinas]]
 - [[objektai/grupes/Karo ir iždo komisijos]]
 - [[objektai/grupes/Nuolatinė Taryba]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/vietos/Rusija]]
 - [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis (valdovas)]]

@@ -54,6 +54,7 @@ Po to, sąjun­ gininkai ėmė trauktis atgal (liepos 11 d.) Lautenburgo Soldau 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Lenkija]]
+- [[objektai/grupes/Vengrai]]
 - [[objektai/vietos/Vengrija]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/vietos/Hohendorfas]]

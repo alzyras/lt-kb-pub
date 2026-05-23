@@ -102,4 +102,5 @@ Nenurodyta
 - [[objektai/asmenys/Vaclovas]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/vietininkas]]
+- [[objektai/grupes/Čekai]]
 - [[objektai/asmenys/Kaributas]]

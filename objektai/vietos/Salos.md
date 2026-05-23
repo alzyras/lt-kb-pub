@@ -55,6 +55,7 @@ Sierakausko nurodymu jie : SUKILĖLIŲ PULKAI Iš Liudvikos Gedgaudienės-Didži
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Varpai]]
 - [[objektai/vietos/Viena]]
 - [[objektai/vietos/Galvės ežero salos pilis]]
 - [[objektai/vietos/Malburgas]]

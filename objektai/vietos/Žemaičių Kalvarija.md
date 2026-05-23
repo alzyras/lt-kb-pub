@@ -51,6 +51,5 @@ tags:
 ### Susiję objektai
 - [[objektai/vietos/Kalvarija]]
 - [[objektai/vietos/Šiluva]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/zodynas/atšilimas]]
 - [[objektai/posakiai/„kiaulių marą“]]

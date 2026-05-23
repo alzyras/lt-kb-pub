@@ -86,6 +86,7 @@ tags:
 - [[objektai/vietos/Kijevas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/vietos/Podolė]]
+- [[objektai/grupes/Totoriai]]
 - [[objektai/vietos/Vorskla]]
 - [[objektai/zodynas/unija]]
 - [[objektai/grupes/Katalikų Bažnyčia]]

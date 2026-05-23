@@ -89,5 +89,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Bajorai]]
 - [[objektai/zodynas/pavietas]]
+- [[objektai/zodynas/urėdas]]
 - [[objektai/zodynas/seimelis]]

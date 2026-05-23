@@ -71,5 +71,5 @@ tags:
 - [[objektai/vietos/Silezija]]
 - [[objektai/zodynas/seimelis]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Klaipėdiškiai]]
 - [[objektai/zodynas/klaipėdiečiai]]
+- [[objektai/zodynas/Klaipėdiškiai]]

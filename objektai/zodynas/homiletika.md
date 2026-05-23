@@ -77,4 +77,5 @@ Muravjovas, iš visur išstumdamas lenkų kalbą, uždraudė ją vartoti ir semi
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Žemaičiai]]
+- [[objektai/vietos/Seinai]]
+- [[objektai/vietos/Varniai]]

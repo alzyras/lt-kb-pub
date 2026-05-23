@@ -95,4 +95,3 @@ Metafora nusako pavojingo sąjungininko laikymą arti savęs ir čia siejama su 
 - [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Mozūrija]]
-- [[objektai/grupes/Žemaičiai]]

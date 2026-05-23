@@ -60,5 +60,6 @@ Branto kavaleriją, kuri pradėjo trauktis. Raiteliai bėga pirmi, pavadžiais s
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Sapiegos]]
 - [[objektai/daiktai/Vėliavos]]
+- [[objektai/zodynas/husarai]]
 - [[objektai/zodynas/rotmistras]]
 - [[objektai/vietos/Švedija]]

@@ -127,6 +127,7 @@ Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 
 - [[objektai/vietos/Dauguva]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Zarasai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/Antrasis Panevėžio puolimas]]
 - [[objektai/asmenys/Dominykas Semaško]]

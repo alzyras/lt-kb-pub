@@ -57,6 +57,7 @@ Jedlnos nutarimai buvo priešingi ir Horodlės unijos ak­ tams, nes juose pasak
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Bajorai]]
 - [[objektai/vietos/Horodlė]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/vietos/Lenkija]]

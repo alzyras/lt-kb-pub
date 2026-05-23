@@ -51,4 +51,3 @@ Küchmeisteris.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/seniūnas]]
-- [[objektai/grupes/Žemaičiai]]

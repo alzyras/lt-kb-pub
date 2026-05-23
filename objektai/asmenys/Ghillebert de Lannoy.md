@@ -72,3 +72,6 @@ tags:
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/ežeras]]
+
+### Susiję objektai
+- [[objektai/grupes/Totoriai]]

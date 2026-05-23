@@ -129,5 +129,6 @@ Nenurodyta
 - [[objektai/vietos/Naugardukas]]
 - [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/vietos/Vilnius]]
+- [[objektai/grupes/Domininkonų ordinas]]
 - [[objektai/asmenys/Bertoldas (pranciškonas)]]
 - [[objektai/asmenys/Henrikas (pranciškonas)]]

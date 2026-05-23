@@ -84,5 +84,6 @@ Merliną su pusantros kuopos pėstininkų ir 70 kazokų per Viešintas Šimonių
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Kazokai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

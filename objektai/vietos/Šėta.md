@@ -58,5 +58,6 @@ Bolševikai tos pačios dienos vakare buvo priversi palikti Kėdainių apylinkes
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bolševikai]]
+- [[objektai/vietos/Kolupiai]]
 - [[objektai/vietos/Kėdainiai]]
 - [[objektai/grupes/Lietuviai]]

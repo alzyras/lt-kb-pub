@@ -83,6 +83,7 @@ tags:
 - [[temos/laiškas]]
 
 ### Susiję objektai
+- [[objektai/vietos/Daugai]]
 - [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Viena]]

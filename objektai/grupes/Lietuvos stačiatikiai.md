@@ -62,5 +62,6 @@ Po Romano mirties (1361), Maskvai ir Aleksiui rūpinantis, Lietuvos stačiatiki�
 - [[objektai/vietos/Maskva]]
 - [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
 - [[objektai/vietos/Rusija]]
+- [[objektai/grupes/Stačiatikiai]]
 - [[objektai/zodynas/metropolija]]
 - [[objektai/zodynas/metropolitas]]

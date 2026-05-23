@@ -48,5 +48,6 @@ Valstiečiai čia taip pat buvo geresnėje būklėje; daugelis jų iki pat rusų
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
 - [[objektai/zodynas/Baudžiava]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/činšas]]

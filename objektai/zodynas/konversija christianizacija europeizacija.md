@@ -75,6 +75,7 @@ Adalberto misija Prūsijoje (997), Norvegijos valdovo Olafo pradėta šalies chr
 - [[objektai/vietos/Prūsija]]
 - [[objektai/asmenys/Steponas]]
 - [[objektai/vietos/Vengrija]]
+- [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/zodynas/apsikarūnavimas]]
 - [[objektai/zodynas/christianizacija]]
 - [[objektai/vietos/Švedija]]

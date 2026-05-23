@@ -102,5 +102,6 @@ Nenurodyta
 - [[objektai/vietos/Livonija]]
 - [[objektai/vietos/Maskva]]
 - [[objektai/vietos/Rusija]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/vietos/Niešava]]

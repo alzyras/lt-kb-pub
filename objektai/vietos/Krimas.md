@@ -50,5 +50,6 @@ Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo ch
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Maskva]]
 - [[objektai/vietos/Perekopas]]
+- [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/chanas]]
 - [[objektai/grupes/Krimo orda]]

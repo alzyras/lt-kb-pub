@@ -49,4 +49,5 @@ Pakvipo planingu, lėtiniu etnocidu.
 ### Susiję objektai
 - [[objektai/grupes/Ateitis]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

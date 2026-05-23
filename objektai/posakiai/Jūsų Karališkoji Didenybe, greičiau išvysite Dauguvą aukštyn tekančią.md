@@ -57,4 +57,6 @@ Vienas iš jų pasakė: „Jūsų Karališkoji Didenybe, greičiau išvysite Dau
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Dauguva]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Ryga]]
+- [[objektai/grupes/Švedai]]

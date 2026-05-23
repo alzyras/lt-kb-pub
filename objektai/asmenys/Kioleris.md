@@ -56,3 +56,4 @@ Kiolerio vadovaujama kolona turėjo pulti bolševikus palei plentą Leliūnai-Ut
 - [[objektai/daiktai/Artilerija]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Viena]]
+- [[objektai/grupes/Bolševikai]]

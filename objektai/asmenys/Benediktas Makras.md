@@ -65,5 +65,5 @@ patvirtino Torno taiką, o tų pačių metų pabaigoje pasiuntė į Lietuvą sav
 - [[objektai/vietos/Kaunas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Žemaičiai]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/vietos/Kauno sala]]

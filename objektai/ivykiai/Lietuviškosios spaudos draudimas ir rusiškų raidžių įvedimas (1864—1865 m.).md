@@ -84,5 +84,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/rusinimas]]
 - [[objektai/autoriai/Motiejus Valančius]]

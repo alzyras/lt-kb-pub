@@ -68,6 +68,7 @@ Krikščioniškasis mentalitetas įsigali bent jau tarp visuomenės elito (antem
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Bajorai]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/bajorų tauta politinė tauta lietuvių nacija]]

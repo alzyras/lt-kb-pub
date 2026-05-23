@@ -56,5 +56,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Latvija]]
 - [[objektai/grupes/Bolševikai]]
+- [[objektai/vietos/Latvija]]
+- [[objektai/grupes/Vokiečiai]]

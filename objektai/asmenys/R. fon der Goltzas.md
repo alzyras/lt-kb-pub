@@ -81,3 +81,4 @@ fon der Goltzq. von der Goltzas buvo pakeistas gen.
 - [[objektai/vietos/Latvija]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Vokietija]]
+- [[objektai/grupes/Vokiečiai]]

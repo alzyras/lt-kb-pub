@@ -88,6 +88,7 @@ tags:
 - [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/barokas]]
 - [[objektai/zodynas/Miera|miera]]
+- [[objektai/grupes/Žydai]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/zodynas/Bajorų respublika liberum veto]]
 - [[objektai/grupes/Vilniaus baroko architektūros mokykla]]

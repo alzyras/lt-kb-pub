@@ -75,4 +75,5 @@ Nenurodyta
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Viena]]
 - [[objektai/zodynas/akcijos]]
+- [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/grupes/Žemaičiai]]

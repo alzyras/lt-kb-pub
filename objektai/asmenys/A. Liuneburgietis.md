@@ -48,4 +48,5 @@ Liuneburgietis.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Švedai]]
 - [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)]]

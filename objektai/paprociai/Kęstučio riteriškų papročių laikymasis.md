@@ -97,4 +97,5 @@ Nenurodyta
 - [[objektai/posakiai/Kęstutis buvo vyras karingas ir tiesiakalbis]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/magistras]]

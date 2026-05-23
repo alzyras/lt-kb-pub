@@ -64,5 +64,6 @@ Vladimirovo straipsniai: Caro vyriausybės politika kultūros-švietimo srityje 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Kražiai]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]

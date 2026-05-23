@@ -81,4 +81,3 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Aukausenos|aukausenos]]
-- [[objektai/grupes/Žemaičiai]]

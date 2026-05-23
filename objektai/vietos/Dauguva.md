@@ -425,12 +425,16 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Baltai]]
+- [[objektai/grupes/Bolševikai]]
 - [[objektai/grupes/Kalavijuočių ordinas]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/vietos/Vysla]]
 - [[objektai/zodynas/ekspansija]]
 - [[objektai/zodynas/etmonas]]
 - [[objektai/zodynas/hetmonas]]
+- [[objektai/grupes/Švedai]]
 - [[objektai/vietos/Aistmarios]]
 - [[objektai/vietos/Aizkrauklė]]
 - [[objektai/vietos/Alūkšta]]

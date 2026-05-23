@@ -58,3 +58,6 @@ Iš imtos vartoti slavų kalbos išsivystė Lietuvos didžiojo kuni­ gaikščio
 - [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Naugardukas]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Slavai]]
+- [[objektai/grupes/Stačiatikiai]]

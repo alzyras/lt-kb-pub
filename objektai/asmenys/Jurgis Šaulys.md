@@ -59,6 +59,7 @@ tags:
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Slanimas]]
+- [[objektai/vietos/Suvalkai]]
 - [[objektai/vietos/Valkaviskas]]
 - [[objektai/vietos/Vilniaus gubernija]]
 - [[objektai/vietos/Vilnius]]

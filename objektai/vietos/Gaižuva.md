@@ -67,7 +67,6 @@ Taip pat du kartu (1292, 1294) ordino kariuomenė pasiekė Nemuno dešiniojo kra
 - [[objektai/vietos/Pačtuva]]
 - [[objektai/vietos/Peštvė]]
 - [[objektai/vietos/Vilkija]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/ivykiai/Gaižuvos ir Pačtuvos sričių nusiaubimas (1292 ir 1294 m.)]]
 - [[objektai/ivykiai/Junigėdos, Peštvės ir Pograudos kampanija (1293 m.)]]
 - [[objektai/ivykiai/Kymel pilies sunaikinimas (1295 m.)]]

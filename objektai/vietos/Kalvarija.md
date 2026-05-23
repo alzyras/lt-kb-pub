@@ -43,10 +43,11 @@ Nebuvo aplenktos nė mokyklos: Kalvarijos, Padubysio ir Kolainių mokyklos buvo 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Kolainiai]]
+- [[objektai/vietos/Kražiai]]
 - [[objektai/daiktai/Varpai]]
 - [[objektai/zodynas/atšilimas]]
 - [[objektai/vietos/Šiluva]]
 - [[objektai/vietos/Žemaičių Kalvarija]]
 - [[objektai/posakiai/„kiaulių marą“]]
-- [[objektai/vietos/Kolainiai]]
 - [[objektai/vietos/Padubysys]]

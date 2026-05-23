@@ -53,6 +53,7 @@ Kita vertus, jis vis dėlto pripažino tikėjimo laisvę ir protestantams ir uol
 
 ### Susiję objektai
 - [[objektai/vietos/Lenkija]]
+- [[objektai/grupes/Protestantai]]
 - [[objektai/vietos/Varšuva]]
 - [[objektai/zodynas/konfederacija]]
 - [[objektai/zodynas/protestantizmas]]

@@ -59,4 +59,3 @@ tags:
 ### Susiję objektai
 - [[objektai/vietos/Kretinga]]
 - [[objektai/vietos/Latvija]]
-- [[objektai/grupes/Žemaičiai]]

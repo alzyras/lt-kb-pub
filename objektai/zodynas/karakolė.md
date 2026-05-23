@@ -159,5 +159,8 @@ Terminas žymi kovinę seką, kurioje eilės šaudo pakaitomis, nuolat persiriki
 ### Susiję objektai
 - [[objektai/vietos/Austrija]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Protestantai]]
+- [[objektai/zodynas/husarai]]
 - [[objektai/zodynas/muškietininkai]]
+- [[objektai/grupes/Švedai]]
 - [[objektai/zodynas/raitarai]]

@@ -81,3 +81,4 @@ Jis pradėtas kurti siekiant apginkluoti Raudonąją armiją dar paprastesniu, p
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/PPS 41 (Pistolet-Pulemiot Špagina)]]
+- [[objektai/grupes/Rusai]]

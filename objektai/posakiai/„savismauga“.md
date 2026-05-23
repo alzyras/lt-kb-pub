@@ -46,4 +46,5 @@ Dėl šios ir kitų priežasčių lietuvių pogrindžio spauda nacių leistą sa
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/savismauga]]

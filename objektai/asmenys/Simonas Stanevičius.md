@@ -62,7 +62,6 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/grupes/Etninių lietuvių tautinis kultūrinis sąjūdis]]
 - [[objektai/paprociai/Lietuvių aukštosios kultūros kūrimas ir liaudies švietimas gimtąja kalba]]
 - [[objektai/grupes/Vilniaus universitetas]]

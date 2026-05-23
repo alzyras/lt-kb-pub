@@ -81,5 +81,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Mindaugas]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/posakiai/„Mindaugo Lietuvą“]]
 - [[objektai/posakiai/„aukščiausiuoju karaliumi“]]

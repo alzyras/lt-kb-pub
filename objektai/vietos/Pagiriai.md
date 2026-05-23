@@ -102,3 +102,4 @@ tags:
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Nevėžis]]
 - [[objektai/zodynas/komendantūra]]
+- [[objektai/paprociai/Kariuomenės sutikimas papuoštu vieškeliu]]

@@ -228,11 +228,13 @@ Mat, imperatorius norėjo susilpninti Zigmantą, kurs ypatingai rūpinosi, kad H
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Dobrogostas]]
+- [[objektai/grupes/Habsburgų dinastija]]
 - [[objektai/asmenys/Inocentas VI]]
 - [[objektai/grupes/Jogailaičiai]]
 - [[objektai/asmenys/Mykolas Tromba]]
 - [[objektai/autoriai/S. Grunau]]
 - [[objektai/autoriai/Simono Grunau]]
 - [[objektai/asmenys/Vilhelmas Habsburgas]]
+- [[objektai/posakiai/„jogailaičių Europa“ „krikščionybės forpostas“]]
 - [[objektai/vietos/Viena]]
 - [[objektai/grupes/Romanovų dinastija]]

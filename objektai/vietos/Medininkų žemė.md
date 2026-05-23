@@ -88,4 +88,5 @@ BAU = S 8 S m e-+ > os 2% ## Puslapis 40 SUS os : i Paha “| KARALYS' Mūšio p
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Vengrija]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/maršalas]]

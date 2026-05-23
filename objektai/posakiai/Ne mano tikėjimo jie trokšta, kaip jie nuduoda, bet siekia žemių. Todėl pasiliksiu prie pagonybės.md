@@ -51,5 +51,6 @@ ne mano tikėjimo jie trokšta, kaip jie nuduoda, bet siekia žemių.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/pagonybė]]

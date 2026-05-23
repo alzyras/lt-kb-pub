@@ -62,4 +62,4 @@ Jo pareigū­ nas Rumbaudas ir dar keli kiti bajorai (Galminas, Getautas, Klau­
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/vietos/Nemunas]]
 - [[objektai/vietos/Nevėžis]]
-- [[objektai/grupes/Žemaičiai]]
+- [[objektai/vietos/Raseiniai]]

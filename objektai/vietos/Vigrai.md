@@ -49,8 +49,10 @@ Norėdama atskirti ją nuo Vilniaus ir Žemaičių vyskupų įtakos, Prūsijos v
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Lankai]]
+- [[objektai/vietos/Prienai]]
 - [[objektai/vietos/Prūsija]]
 - [[objektai/vietos/Užnemunė]]
 - [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/pralotas]]
-- [[objektai/grupes/Žemaičiai]]
+- [[objektai/vietos/Seinai]]

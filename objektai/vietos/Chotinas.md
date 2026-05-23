@@ -273,6 +273,7 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 - [[objektai/vietos/Moldavija]]
 - [[objektai/vietos/Prūsija]]
 - [[objektai/daiktai/Vėliavos]]
+- [[objektai/zodynas/husarai]]
 - [[objektai/vietos/Dniestras]]
 - [[objektai/vietos/Dniestro upė]]
 - [[objektai/vietos/Podolės Kameneco tvirtovė]]

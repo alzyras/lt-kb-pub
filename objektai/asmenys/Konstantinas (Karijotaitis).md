@@ -62,6 +62,7 @@ Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai, Podolėje
 - [[objektai/vietos/Leipcigas]]
 - [[objektai/vietos/Smolenskas]]
 - [[objektai/zodynas/artilerijos pasala]]
+- [[objektai/grupes/Totoriai]]
 - [[objektai/paprociai/Carinės sukilimo slopinimo teroro ir viešų bausmių praktika]]
 - [[objektai/grupes/Lenkijos laikinoji tautinė vyriausybė]]
 - [[objektai/vietos/Orša]]

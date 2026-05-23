@@ -76,4 +76,6 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
 - [[objektai/vietos/Trakai]]
 - [[objektai/zodynas/pavietas]]
 - [[objektai/zodynas/pilies teismas]]
+- [[objektai/zodynas/seimelis]]
 - [[objektai/zodynas/seniūnas storasta]]
+- [[objektai/paprociai/Pavietų ir vaivadijų bajorų seimeliai]]

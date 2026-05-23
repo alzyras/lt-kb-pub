@@ -65,4 +65,3 @@ Mikalojus Dziežgavičius (1421—1453), — Visi buvo pa­ skirti vyskupais Vyt
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Trakai]]
 - [[objektai/vietos/Vilnius]]
-- [[objektai/grupes/Žemaičiai]]

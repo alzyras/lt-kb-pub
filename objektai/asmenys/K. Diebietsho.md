@@ -57,3 +57,4 @@ Diebietsho korpusas.
 - [[objektai/vietos/Latvija]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Vokietija]]
+- [[objektai/grupes/Vokiečiai]]

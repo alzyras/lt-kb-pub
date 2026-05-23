@@ -125,3 +125,4 @@ Iš Kęstučio laikotarpio jis rašė dar apie Kauno pilies išgriovimą 1362 m.
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/vietos/Įsrutis]]
+- [[objektai/daiktai/Laivai]]

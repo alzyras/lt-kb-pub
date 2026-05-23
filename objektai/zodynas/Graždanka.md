@@ -100,3 +100,4 @@ Graždanka minima kaip konkreti rusų raidžių vartojimo lietuviškoje spaudoje
 - [[objektai/zodynas/Rusiškosios raidės]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]

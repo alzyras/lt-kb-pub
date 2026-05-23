@@ -120,6 +120,8 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Kazokai]]
+- [[objektai/daiktai/Lankai]]
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Moldavija]]
 - [[objektai/vietos/Turkija]]
@@ -134,7 +136,6 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
 - [[objektai/vietos/Kaukazas]]
 - [[objektai/vietos/Kauno Laisvės alėja]]
 - [[objektai/ivykiai/Kauno protestai po Romo Kalantos susideginimo (1972 m. gegužės 18–19 d.)]]
-- [[objektai/grupes/Kazokai]]
 - [[objektai/grupes/Lietuvių policijos savisaugos batalionai]]
 - [[objektai/grupes/Lietuvos komunistų partija]]
 - [[objektai/asmenys/Michailas Gorbačiovas]]

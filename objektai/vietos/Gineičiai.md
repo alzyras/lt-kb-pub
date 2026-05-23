@@ -57,4 +57,6 @@ atnaujintas „Gediminas“ vėl stojo į mūšį ir netoli Kėdainių ties Gine
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Kėdainiai]]
+- [[objektai/grupes/Želigovskininkai]]
 - [[objektai/vietos/Apylaukė]]
+- [[objektai/daiktai/Šarvuotasis traukinys Gediminas]]

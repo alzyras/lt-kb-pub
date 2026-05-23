@@ -62,4 +62,5 @@ Lietuvių kunigaikščių posakis apibūdina užimtų žemių tvarkos išlaikymo
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/posakiai/„senovės negriauname, naujovių neįvedame“]]

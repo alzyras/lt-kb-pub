@@ -240,9 +240,11 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/daiktai/Laivai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Livonija]]
 - [[objektai/asmenys/Otokaras (Čekijos karalius)]]
+- [[objektai/vietos/Prūsai]]
 - [[objektai/vietos/Rudava]]
 - [[objektai/vietos/Čekija]]
 - [[objektai/autoriai/Dusburgas (Kryžiuočių ordino kronikininkas)]]

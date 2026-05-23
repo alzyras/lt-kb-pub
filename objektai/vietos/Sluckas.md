@@ -204,6 +204,7 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Protestantai]]
 - [[objektai/vietos/Bobruiskas]]
 - [[objektai/vietos/Druckas]]
 - [[objektai/vietos/Gardinas]]

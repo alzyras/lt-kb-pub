@@ -123,6 +123,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Anglija]]
+- [[objektai/grupes/Baltarusiai]]
 - [[objektai/vietos/Kaunas]]
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Lietuva]]

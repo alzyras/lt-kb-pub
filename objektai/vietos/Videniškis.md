@@ -87,6 +87,8 @@ Lenkų pajėgos priartėjo prie Videniškio, Gelogalių ir judėjo Balnininkų l
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Balnininkai]]
+- [[objektai/vietos/Giedraičiai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Tautų Sąjungos kontrolės komisija]]
@@ -94,6 +96,5 @@ Lenkų pajėgos priartėjo prie Videniškio, Gelogalių ir judėjo Balnininkų l
 - [[objektai/vietos/Želva]]
 - [[objektai/grupes/J. Baranovskio brigada]]
 - [[objektai/grupes/M. Butkievičiaus kavalerijos brigada]]
-- [[objektai/vietos/Balnininkai]]
 - [[objektai/vietos/Kurkliai]]
 - [[objektai/vietos/Vidiškis]]

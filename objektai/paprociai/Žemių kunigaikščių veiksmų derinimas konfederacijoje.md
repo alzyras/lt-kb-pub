@@ -72,3 +72,4 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/vietos/Voluinė]]
+- [[objektai/zodynas/kunigaikščiai]]

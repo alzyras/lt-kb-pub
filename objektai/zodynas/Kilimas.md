@@ -74,6 +74,6 @@ Vartojamos formos: `sage`, `sagše`, `vilnonę`.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Žemaičiai]]
+- [[objektai/daiktai/Balti vilnoniai marškiniai]]
 - [[objektai/daiktai/Kilimas]]
 - [[objektai/paprociai/Mergaičių, nuotakų, žmonų ir našlių galvos puošyba]]

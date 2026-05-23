@@ -68,5 +68,6 @@ davė labai reikšmingus fenomenus, kurių trumpa formulė būtų tokia – duon
 - [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/barokas]]
 - [[objektai/zodynas/Miera|miera]]
+- [[objektai/grupes/Žydai]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/posakiai/duona, tolerancija, demokratija, konstitucija, barokas]]

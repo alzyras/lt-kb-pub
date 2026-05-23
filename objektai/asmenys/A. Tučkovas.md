@@ -57,3 +57,4 @@ Tučkovui, vadovavusiam rusų artilerijos parkui Poguliankoje (dabartinės J.
 - [[objektai/daiktai/Artilerija]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Pogulianka]]
+- [[objektai/grupes/Rusai]]

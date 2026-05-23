@@ -45,5 +45,6 @@ pirmame trečdalyje, kai buvo pastatyti reikšmingiausi paminklai Kaune ir ypač
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Kaunas]]
+- [[objektai/grupes/Stačiatikiai]]
 - [[objektai/zodynas/gotika]]
 - [[objektai/vietos/Kėdainiai]]

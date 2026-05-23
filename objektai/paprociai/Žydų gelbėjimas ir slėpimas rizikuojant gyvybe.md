@@ -99,3 +99,4 @@ Nacių okupacijos metu dalis lietuvių visuomenės rizikuodama gyvybe padėjo ž
 
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Žydai]]

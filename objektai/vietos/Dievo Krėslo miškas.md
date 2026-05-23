@@ -54,5 +54,6 @@ Dievo Krėslo miške aptiko Edmundo Rekašiaus-Lakūno vadovaujamų Žarėnų ku
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Telšiai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/vietos/Žarėnai]]

@@ -109,3 +109,4 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/zodynas/koadjutorius]]
+- [[objektai/grupes/Bajorai]]

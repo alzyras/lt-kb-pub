@@ -73,9 +73,10 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Bajorų konfederacija]]
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Mykolas]]
 - [[objektai/zodynas/konfederacija]]
-- [[objektai/grupes/Žemaičiai]]
+- [[objektai/grupes/Švedai]]

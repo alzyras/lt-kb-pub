@@ -111,3 +111,4 @@ Aistmarios šiame veikale minimos kaip vakarinių baltų ir gotų kontaktų erdv
 - [[objektai/vietos/Alnos upė]]
 - [[objektai/grupes/Gotai]]
 - [[objektai/vietos/Pagudė]]
+- [[objektai/vietos/Prūsai]]

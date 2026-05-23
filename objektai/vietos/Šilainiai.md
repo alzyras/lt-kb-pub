@@ -56,5 +56,6 @@ X ŠILAINIŲ PASALA 1945 m. vasario 15 d. Raseinių aps.
 - [[objektai/vietos/Betygala]]
 - [[objektai/vietos/Kėdainiai]]
 - [[objektai/grupes/NKVD]]
+- [[objektai/vietos/Raseiniai]]
 - [[objektai/vietos/Graužai-Lenčiai]]
 - [[objektai/vietos/Raseinių apskritis]]

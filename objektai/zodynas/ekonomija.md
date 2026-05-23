@@ -66,6 +66,7 @@ Vienos tų žemių priklausė jiems tiesiog: jose jie turėjo didelius savo dvar
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/vietos/Viena]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/autoriai/P. Dundulienė]]

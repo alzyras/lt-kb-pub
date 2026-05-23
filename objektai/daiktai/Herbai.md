@@ -214,4 +214,8 @@ Nenurodyta
 - [[objektai/asmenys/Julius Slovackis]]
 - [[objektai/autoriai/Mickevičius]]
 - [[objektai/vietos/Vilnius]]
+- [[objektai/grupes/Lietuvių bajorija]]
+- [[objektai/zodynas/nobilitetas]]
 - [[objektai/daiktai/Gediminaičių stulpai]]
+- [[objektai/ivykiai/1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas]]
+- [[objektai/daiktai/Žygimanto Senojo kalavijas su Lietuvos ir Lenkijos herbais]]

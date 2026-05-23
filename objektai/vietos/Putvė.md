@@ -80,6 +80,7 @@ Po du — tris kartus buvo teriota Pograuda, Karšuva, atakuotos pilys Bisena, J
 ### Susiję objektai
 - [[objektai/vietos/Aukaimis]]
 - [[objektai/vietos/Karšuva]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/asmenys/Jonas Liuksemburgietis]]

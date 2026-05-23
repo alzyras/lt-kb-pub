@@ -88,5 +88,6 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
 - [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Lokietka]]
 - [[objektai/vietos/Pamaris]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/asmenys/Aldona Gediminaitė]]
 - [[objektai/asmenys/Kazimieras (Lokietkos sūnus)]]

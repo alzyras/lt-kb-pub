@@ -56,3 +56,5 @@ Kromerio kronikos.
 - [[objektai/grupes/Lenkai]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Livonija]]
+- [[objektai/vietos/Prūsai]]
+- [[objektai/grupes/Rusai]]

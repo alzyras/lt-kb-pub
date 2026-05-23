@@ -169,7 +169,6 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
 - [[objektai/vietos/Konstancija]]
 - [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/metropolija]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/autoriai/D. Pochilevyč]]
 - [[objektai/asmenys/Jonas (Breslavo vyskupas)]]
 - [[objektai/asmenys/Jonas (Lvovo arkivyskupas)]]

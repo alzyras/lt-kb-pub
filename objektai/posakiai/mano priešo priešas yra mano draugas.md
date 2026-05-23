@@ -57,4 +57,5 @@ Ji buvo pagrįsta gyvenimo dėsniu : mano priešo priešas yra mano draugas.
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Mindaugas]]
+- [[objektai/grupes/Rygiečiai]]
 - [[objektai/posakiai/„mano priešo priešas yra mano draugas“]]

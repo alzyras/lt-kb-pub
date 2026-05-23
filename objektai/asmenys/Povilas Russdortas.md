@@ -63,4 +63,5 @@ Lengviausia, žinoma, buvo įtraukti į karą Vokiečių Or­ diną, kurio magis
 - [[objektai/grupes/Hanza]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/vietos/Vokietija]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/magistras]]

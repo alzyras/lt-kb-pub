@@ -102,9 +102,9 @@ Nežiūrint nera­ mumų, po keturių savaičių nepaliaujamo darbo pilis buvo b
 ### Susiję objektai
 - [[objektai/vietos/Jurbarkas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Skirgaila]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/vietos/Kaunas]]
 - [[objektai/vietos/Viena]]

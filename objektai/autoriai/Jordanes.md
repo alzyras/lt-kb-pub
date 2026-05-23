@@ -55,6 +55,8 @@ Padarydamas santrauką vėliau dingusios Kassiodoro rašytos gotų istorijos, ra
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Aisčiai]]
+- [[objektai/grupes/Gotai]]
 - [[objektai/vietos/Vysla]]
 - [[objektai/grupes/Vidivarii]]
 - [[objektai/posakiai/pacatum hominum genus omnino]]

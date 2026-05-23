@@ -60,6 +60,7 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
 ### Susiję objektai
 - [[objektai/vietos/Kuršmarės]]
 - [[objektai/vietos/Livonija]]
+- [[objektai/vietos/Prūsai]]
 - [[objektai/ivykiai/ATR karai su Švedija XVII a]]
 - [[objektai/autoriai/Adomas Bremenietis]]
 - [[objektai/vietos/Aistmarios]]

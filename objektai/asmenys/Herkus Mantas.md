@@ -58,4 +58,6 @@ Tuo metu notangų, prūsų vyriausiasis vadas Herkus Mantas niokojo Kulmo žemę
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/vietos/Kulmas]]
+- [[objektai/vietos/Prūsai]]
 - [[objektai/vietos/Vėluva]]
+- [[objektai/grupes/Notangai]]

@@ -73,4 +73,6 @@ Netoli Birštono Zaskevičiaus kariai susitiko karin. „Rinktinė už Birštono
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Jieznas]]
+- [[objektai/vietos/Prienai]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/asmenys/A. Žemaitis]]

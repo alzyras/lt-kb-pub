@@ -92,6 +92,7 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/asmenys/Antanas Merkys]]
 - [[objektai/autoriai/L. Truska]]
 - [[objektai/ivykiai/Liaudies vyriausybės sudarymas (1940 m. birželio 17 d.)]]

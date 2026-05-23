@@ -43,5 +43,6 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Šiauliai]]
+- [[objektai/grupes/Žydai]]
 - [[objektai/vietos/Kauno getas]]
 - [[objektai/vietos/Vilniaus getas]]

@@ -64,7 +64,6 @@ pradžioje pralaimėjimai įsiveržusio Timūro (Tamerlano) mongolų kariuomenei
 - [[objektai/vietos/Bizantija]]
 - [[objektai/vietos/Europa]]
 - [[objektai/vietos/Kosovas]]
-- [[objektai/ivykiai/Mongolų (totorių) invazija (1237-1240 m.)]]
 - [[objektai/zodynas/ekspansija]]
 - [[objektai/asmenys/Glebas (Smolensko kunigaikštis)]]
 - [[objektai/asmenys/Jagurčinas]]

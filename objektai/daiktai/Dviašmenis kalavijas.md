@@ -160,4 +160,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Europa]]
+- [[objektai/daiktai/Kalavijai]]
 - [[objektai/vietos/Lietuva]]

@@ -108,10 +108,10 @@ Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau 
 - [[temos/ežeras]]
 
 ### Susiję objektai
+- [[objektai/vietos/Daukšiai]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Motiejus]]
 - [[objektai/vietos/Žuvinto ežeras]]
-- [[objektai/vietos/Daukšiai]]
 - [[objektai/grupes/Edvardo Lajaus būrys]]
 - [[objektai/grupes/Gedimino būrys]]
 - [[objektai/grupes/Juozo Pandeikos būrys]]

@@ -108,6 +108,7 @@ Apygardos teritorijoje, Šimonių girioje, bazavosi srities vadovybė, būdavo r
 - [[objektai/vietos/Kupiškis]]
 - [[objektai/grupes/NKVD]]
 - [[objektai/daiktai/Partizanų bunkeriai]]
+- [[objektai/vietos/Svėdasai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/vietos/Kupiškio apskritis]]
 - [[objektai/paprociai/Srities vadų sąskrydžių rengimas Šimonių girioje]]

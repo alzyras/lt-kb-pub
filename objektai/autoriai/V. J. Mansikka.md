@@ -54,3 +54,4 @@ Mansikka, V.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Slavai]]

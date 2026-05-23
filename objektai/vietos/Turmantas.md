@@ -82,4 +82,6 @@ Delsiklis granatą detonuoja po 4 sekundžių 4-osios baterijos būrys), laikė 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bolševikai]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/husarai]]
 - [[objektai/zodynas/rezervas]]

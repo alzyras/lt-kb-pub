@@ -56,4 +56,5 @@ Biržiška iš jos pasitraukė.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/vietos/Vilnius]]

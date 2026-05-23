@@ -103,6 +103,7 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
 - [[objektai/vietos/Livonija]]
 - [[objektai/grupes/Livonijos ordinas]]
 - [[objektai/vietos/Nemunas]]
+- [[objektai/vietos/Prūsai]]
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/vietos/Naujasis Kvidzinas]]
 - [[objektai/zodynas/archieriejus]]

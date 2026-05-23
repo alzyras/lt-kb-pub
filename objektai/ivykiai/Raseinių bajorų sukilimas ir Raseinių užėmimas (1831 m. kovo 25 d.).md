@@ -106,6 +106,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
 - [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Raseiniai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/bajorija]]

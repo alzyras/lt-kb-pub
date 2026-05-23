@@ -1107,6 +1107,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 ### Susiję objektai
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/apsikarūnavimas]]
 - [[objektai/zodynas/unija]]
 - [[objektai/vietos/Žalgiris]]

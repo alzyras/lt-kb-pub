@@ -164,9 +164,9 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Ašmena]]
+- [[objektai/grupes/Bajorai]]
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/asmenys/Čupurna]]
-- [[objektai/grupes/Bajorai]]

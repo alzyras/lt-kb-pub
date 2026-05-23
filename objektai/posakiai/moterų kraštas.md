@@ -51,5 +51,7 @@ Apie tokią moterų «karalystę» kalbėjo ir Adomas Bremenietis, kuris šiaip 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Baltai]]
+- [[objektai/grupes/Lietgaliai]]
 - [[objektai/vietos/Livonija]]
 - [[objektai/autoriai/Adomas Bremenietis]]

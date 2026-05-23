@@ -119,3 +119,4 @@ Nenurodyta
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Rusija]]
+- [[objektai/grupes/Vokiečiai]]

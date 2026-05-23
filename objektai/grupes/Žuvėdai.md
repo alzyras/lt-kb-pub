@@ -113,3 +113,4 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Žemaičiai]]
+- [[objektai/grupes/Kalnėnai]]

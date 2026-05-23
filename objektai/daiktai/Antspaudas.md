@@ -122,8 +122,10 @@ Nenurodyta
 - [[temos/simbolis]]
 
 ### Susiję objektai
+- [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Prūsai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/posakiai/Kinstutte herczoge czu Tracken und Wytould unsir son]]
 - [[objektai/ivykiai/Vilniaus akademijos įkūrimas (1579 m.)]]

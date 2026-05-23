@@ -57,6 +57,7 @@ Lyginant įvairius laiko tekstus, kur vengrų kanceliarijoje buvo vartojamas ter
 - [[objektai/daiktai/Karūna]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Vengrai]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/lenas]]
 - [[objektai/asmenys/Jadvyga Jogailienė]]

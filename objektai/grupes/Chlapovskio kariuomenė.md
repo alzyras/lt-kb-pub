@@ -48,3 +48,4 @@ Bet Chlapovskis, kurio vadovybėje buvo ir Gelgaudas, užuot kovojęs su rusais,
 ### Susiję objektai
 - [[objektai/vietos/Kuršas]]
 - [[objektai/vietos/Prūsija]]
+- [[objektai/grupes/Rusai]]

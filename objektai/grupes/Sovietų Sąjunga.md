@@ -124,6 +124,7 @@ Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Liet
 - [[objektai/vietos/SSRS]]
 - [[objektai/grupes/SSRS kariuomenė]]
 - [[objektai/vietos/Viena]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Artūras Sakalauskas]]
 - [[objektai/grupes/Jedinstvo]]

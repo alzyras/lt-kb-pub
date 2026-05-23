@@ -96,5 +96,5 @@ Nenurodyta
 - [[temos/religinė-praktika]]
 
 ### Susiję objektai
-- [[objektai/zodynas/Miera|miera]]
 - [[objektai/grupes/Aisčiai]]
+- [[objektai/zodynas/Miera|miera]]

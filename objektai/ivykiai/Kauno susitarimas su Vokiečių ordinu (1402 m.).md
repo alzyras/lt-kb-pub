@@ -104,5 +104,6 @@ Nenurodyta
 - [[objektai/vietos/Nevėžis]]
 - [[objektai/vietos/Vilnius]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/grupes/Vokiečių ordinas]]
 - [[objektai/daiktai/Malūnas]]

@@ -120,4 +120,5 @@ Nenurodyta
 - [[temos/politinis-sprendimas]]
 
 ### Susiję objektai
+- [[objektai/grupes/Bermontininkai]]
 - [[objektai/vietos/Lietuva]]

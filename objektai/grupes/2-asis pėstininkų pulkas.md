@@ -60,6 +60,7 @@ Lietuvos - 2-asis pėstininkų pulkas, 6-asis raitųjų šaulių pulkas, 12-asis
 ### Susiję objektai
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Paneriai]]
 - [[objektai/vietos/Poznanė]]
 - [[objektai/grupes/Poznanės raitininkų eskadronai]]
 - [[objektai/vietos/Trakai]]

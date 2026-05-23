@@ -59,5 +59,4 @@ Hevekeb, K.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/vietos/Berlynas]]

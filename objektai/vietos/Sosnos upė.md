@@ -57,4 +57,5 @@ Vakaruose miestą prie Sosnos upės, dešiniojo Dono tęsėsi diplomatinė kova,
 - [[objektai/vietos/Donas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Totoriai]]
 - [[objektai/vietos/Korševas]]

@@ -217,6 +217,7 @@ Sovietinė saugumo, vidaus reikalų ir represinė institucija bei kariuomenės s
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Bolševikai]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Maskva]]

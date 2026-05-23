@@ -202,6 +202,7 @@ Terminas žymi savitą LDK kavalerijos rūšį tarp husarų ir lengvesniųjų ra
 ### Susiję objektai
 - [[objektai/vietos/Chotinas]]
 - [[objektai/daiktai/Ietys]]
+- [[objektai/grupes/Janičarai]]
 - [[objektai/daiktai/Karūna]]
 - [[objektai/vietos/Krymas]]
 - [[objektai/vietos/Lietuva]]
@@ -210,4 +211,7 @@ Terminas žymi savitą LDK kavalerijos rūšį tarp husarų ir lengvesniųjų ra
 - [[objektai/zodynas/husarai]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/daiktai/Šarvuočiai]]
+- [[objektai/grupes/Osmanų Turkija]]
+- [[objektai/grupes/Turkijos kariuomenė]]
 - [[objektai/zodynas/sunkioji kavalerija]]
+- [[objektai/asmenys/J. P. Sapiega]]

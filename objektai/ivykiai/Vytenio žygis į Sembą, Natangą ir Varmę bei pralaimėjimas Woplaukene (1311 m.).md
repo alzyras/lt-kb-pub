@@ -68,6 +68,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Laivai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Semba]]
 - [[objektai/asmenys/Vytenis]]

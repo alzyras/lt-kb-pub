@@ -178,6 +178,7 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
 ### Susiję objektai
 - [[objektai/vietos/Kaunas]]
 - [[objektai/vietos/Kauno pilis]]
+- [[objektai/zodynas/kryžininkai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/vietos/Angerburgas]]

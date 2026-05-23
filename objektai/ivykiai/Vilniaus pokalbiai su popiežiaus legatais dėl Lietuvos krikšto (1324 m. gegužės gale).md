@@ -157,9 +157,10 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/daiktai/Drabužiai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Teutonai]]
 - [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/vietos/Prūsija]]

@@ -106,6 +106,7 @@ Nenurodyta
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/vietos/Ryga]]
 - [[objektai/zodynas/kunigaikštija]]
+- [[objektai/grupes/Švedai]]
 - [[objektai/vietos/Švedija]]
 - [[objektai/ivykiai/ATR karai su Švedija XVII a]]
 - [[objektai/grupes/Chodkevičiai]]

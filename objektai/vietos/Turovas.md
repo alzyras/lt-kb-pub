@@ -173,6 +173,7 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
 ### Susiję objektai
 - [[objektai/vietos/Brasta]]
 - [[objektai/vietos/Gardinas]]
+- [[objektai/grupes/Jotvingai]]
 - [[objektai/asmenys/Karijotas]]
 - [[objektai/vietos/Kernavė]]
 - [[objektai/vietos/Krėva]]

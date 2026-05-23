@@ -59,6 +59,7 @@ Conze 161 , ir paskutiniu metu išsp. F.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Europa]]
+- [[objektai/grupes/Kalavijuočių ordinas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/vietos/Lietuva]]

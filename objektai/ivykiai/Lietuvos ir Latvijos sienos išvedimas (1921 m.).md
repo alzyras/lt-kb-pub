@@ -139,6 +139,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/vietos/Kaunas]]
 - [[objektai/vietos/Kuršas]]
+- [[objektai/grupes/Latviai]]
 - [[objektai/vietos/Latvija]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]

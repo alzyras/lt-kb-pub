@@ -90,6 +90,8 @@ Rytų krikščionybę taip pat perėmęs ketvirtasis Traidenio brolis Sirputis L
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Naugardukas]]
+- [[objektai/vietos/Prūsai]]
+- [[objektai/grupes/Stačiatikiai]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/asmenys/Traidenis]]
 - [[objektai/vietos/Lenkija]]

@@ -104,6 +104,7 @@ tags:
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Liubartas]]
+- [[objektai/vietos/Prūsai]]
 - [[objektai/vietos/Angerburgas]]
 - [[objektai/vietos/Girdava]]
 - [[objektai/vietos/Johanisburgas]]

@@ -53,5 +53,6 @@ Pilypavo mūšis 1656 m. spalio 22 d. Po pergalės ties Prostkais tarp lietuvių
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/ivykiai/Pilypavo mūšis (1656 m. spalio 22 d.)]]
+- [[objektai/vietos/Prostkai]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/grupes/Švedai]]

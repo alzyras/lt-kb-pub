@@ -52,6 +52,7 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Giedraičiai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Ukmergė]]

@@ -89,14 +89,17 @@ Nesutikdamas pasipriešinimo, vasario 8 d. pulkas pasiekė Stakliškes, o kitą 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Bolševikai]]
 - [[objektai/vietos/Kaunas]]
 - [[objektai/vietos/Lentvaris]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/autoriai/Mickevičius]]
 - [[objektai/vietos/Nemunas]]
+- [[objektai/vietos/Prienai]]
 - [[objektai/asmenys/S. Mickevičius]]
 - [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/husarai]]
 - [[objektai/asmenys/A. Ružancovas]]
 - [[objektai/asmenys/A. Žemaitis]]
 - [[objektai/asmenys/Antanas Šukys]]

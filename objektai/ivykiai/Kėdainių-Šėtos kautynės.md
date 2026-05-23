@@ -209,5 +209,7 @@ Nenurodyta
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rytas]]
+- [[objektai/vietos/Taučiūnai]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/vietos/Salaspilis]]
 - [[objektai/asmenys/K. Dragunevičius]]

@@ -72,3 +72,4 @@ Nenurodyta
 - [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
 - [[objektai/asmenys/Karolis IV]]
 - [[objektai/asmenys/Survila]]
+- [[objektai/grupes/Vokiečiai]]

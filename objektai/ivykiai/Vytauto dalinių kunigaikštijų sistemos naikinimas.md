@@ -97,6 +97,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Gediminaičiai]]
 - [[objektai/vietos/Kijevas]]
 - [[objektai/grupes/Lietuviai]]

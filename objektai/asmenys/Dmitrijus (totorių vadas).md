@@ -59,6 +59,9 @@ Jie susirėmė su Juodosios jūros pajūrio ir Krymo totorių teritorijos trijų
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Karijotaičiai]]
 - [[objektai/vietos/Krymas]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/zodynas/Adynos|adynos]]

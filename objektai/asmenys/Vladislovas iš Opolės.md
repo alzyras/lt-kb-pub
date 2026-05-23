@@ -79,6 +79,8 @@ Tas pats Vladislovas buvo paskirtas Lenkų ir Vengrų karaliaus Liudviko valdyti
 - [[objektai/vietos/Kujavija]]
 - [[objektai/vietos/Lenkija]]
 - [[objektai/zodynas/Suverenitetas]]
+- [[objektai/grupes/Vengrai]]
 - [[objektai/asmenys/Vladislovas]]
+- [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/vasalas]]
 - [[objektai/vietos/Vengrija]]

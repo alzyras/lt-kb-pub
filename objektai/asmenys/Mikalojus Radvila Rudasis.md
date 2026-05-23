@@ -141,6 +141,7 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
 
 ### Susiję objektai
 - [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Maskvėnai]]
 - [[objektai/vietos/Polockas]]
 - [[objektai/zodynas/etmonas]]
 - [[objektai/zodynas/hetmonas]]

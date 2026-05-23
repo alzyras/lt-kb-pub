@@ -90,6 +90,7 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Pranciškonų ordinas]]
+- [[objektai/grupes/Vengrai]]
 - [[objektai/vietos/Vilnius]]
 - [[objektai/asmenys/Vosylius]]
 - [[objektai/asmenys/Kazimieras Jogailaitis]]

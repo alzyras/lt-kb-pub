@@ -90,6 +90,8 @@ Lukšio rinktinė (netrukus pervadinta į Maironio), joje J. Apygradoje prasidė
 - [[objektai/autoriai/Maironis]]
 - [[objektai/grupes/P. Lukšio rinktinė]]
 - [[objektai/grupes/Prisikėlimo apygarda]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/vietos/Užpelkiai]]
 - [[objektai/ivykiai/Užpelkių kautynės]]
 - [[objektai/asmenys/Juozas Paliūnas-Rytas]]
 - [[objektai/asmenys/Povilas Morkūnas-Rimantas]]

@@ -57,6 +57,7 @@ Kai Livonijos magistras buvo prie Vilniaus, lietuviai puolė jo valdose Duobelė
 - [[objektai/vietos/Livonija]]
 - [[objektai/vietos/Maskva]]
 - [[objektai/vietos/Narevas]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/vietos/Vilnius]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/magistras]]

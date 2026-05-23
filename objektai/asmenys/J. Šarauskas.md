@@ -88,8 +88,10 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kėdainiai]]
-- [[objektai/vietos/Rusija]]
+- [[objektai/grupes/Bolševikai]]
 - [[objektai/vietos/Eiguliai]]
-- [[objektai/vietos/Juodikis miškas]]
+- [[objektai/vietos/Kėdainiai]]
 - [[objektai/vietos/Paobeliai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/vietos/Juodikis miškas]]

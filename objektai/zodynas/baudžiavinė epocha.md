@@ -66,3 +66,5 @@ Uždrausdamas bajoro valstiečiams išsikelti, perduo­ damas juos ir teismo at�
 
 ### Susiję objektai
 - [[objektai/asmenys/Kazimieras]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Bajorai]]

@@ -47,5 +47,6 @@ Be to, dar bandyta steigti atskirą Lietuvos katalikų bažnyčios provinciją, 
 ### Susiję objektai
 - [[objektai/grupes/Katalikų Bažnyčia]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Stačiatikiai]]
 - [[objektai/zodynas/metropolija]]
 - [[objektai/zodynas/metropolija bažnytinė provincija bažnytinė unija]]

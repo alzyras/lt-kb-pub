@@ -89,4 +89,3 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Žemaičiai]]

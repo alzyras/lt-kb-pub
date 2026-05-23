@@ -132,6 +132,7 @@ S. Daukantas šiame šaltinyje minimas kaip istorikas, rašytojas; jam priskiria
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Telšiai]]
 - [[objektai/vietos/Vilnius]]
 - [[objektai/paprociai/Lietuvių aukštosios kultūros kūrimas ir liaudies švietimas gimtąja kalba]]
 - [[objektai/grupes/Sakalo bendrovė]]

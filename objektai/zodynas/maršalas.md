@@ -112,6 +112,7 @@ tags:
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Vengrija]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/komtūras]]
 - [[objektai/asmenys/A. Hitleris]]
 - [[objektai/daiktai/Apgulties mašinos]]

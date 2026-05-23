@@ -51,5 +51,6 @@ Vadas (Mykolas Kiełbasa) atsakęs, kad dabar ne laikas esąs karalių gelbėti.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/daiktai/Vėliavos]]
 - [[objektai/asmenys/Mykolas]]

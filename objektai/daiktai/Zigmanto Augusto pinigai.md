@@ -125,4 +125,5 @@ Nenurodyta
 - [[objektai/vietos/Lietuva]]
 - [[objektai/daiktai/Lietuvos pinigai]]
 - [[objektai/vietos/Vilnius]]
+- [[objektai/grupes/Žydai]]
 - [[objektai/asmenys/Zigmantas Augustas]]

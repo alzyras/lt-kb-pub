@@ -71,6 +71,7 @@ balnakilpės = L se KRISTAUS KARIŲ BROLIJOS LIKIMAS Ištrauka iš Hermano Vartb
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Balnakilpės]]
+- [[objektai/grupes/Kalavijuočių ordinas]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Sidabruotos geležinės balnakilpės]]

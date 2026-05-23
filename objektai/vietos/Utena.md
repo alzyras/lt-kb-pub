@@ -197,6 +197,7 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
 - [[objektai/grupes/Panevėžio rinktinė]]
 - [[objektai/vietos/Ukmergė]]
 - [[objektai/grupes/Ukmergės rinktinė]]
+- [[objektai/vietos/Zarasai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/A. Džiuvė]]
 - [[objektai/asmenys/Aaron Klug]]

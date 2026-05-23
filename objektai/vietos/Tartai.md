@@ -59,4 +59,7 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
 - [[objektai/vietos/Talinas]]
 - [[objektai/zodynas/vyskupystė]]
 - [[objektai/grupes/Švedai]]
+- [[objektai/grupes/Lietuvių Draugija Estijoje]]
+- [[objektai/grupes/Lietuvių Suomių Draugija]]
+- [[objektai/ivykiai/Nesvyžiaus jėzuitų kolegijos įkūrimas (1582 m.)]]
 - [[objektai/vietos/Piltenė]]

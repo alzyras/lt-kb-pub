@@ -56,5 +56,6 @@ atnaujintas „Gediminas“ vėl stojo į mūšį ir netoli Kėdainių ties Gine
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kėdainiai]]
 - [[objektai/vietos/Gineičiai]]
+- [[objektai/vietos/Kėdainiai]]
+- [[objektai/grupes/Želigovskininkai]]

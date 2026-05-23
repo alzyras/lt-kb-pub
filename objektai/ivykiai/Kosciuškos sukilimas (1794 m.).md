@@ -113,6 +113,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Tautos taryba]]
 - [[objektai/vietos/Varšuva]]
 - [[objektai/vietos/Vilnius]]

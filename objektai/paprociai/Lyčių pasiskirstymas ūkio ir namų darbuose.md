@@ -70,4 +70,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Viena]]
+- [[objektai/daiktai/Drabužiai]]
 - [[objektai/zodynas/Viežlybumas|viežlybumas]]

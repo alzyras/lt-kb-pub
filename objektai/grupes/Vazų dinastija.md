@@ -128,3 +128,4 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Viena]]
+- [[objektai/zodynas/kunigaikščiai]]

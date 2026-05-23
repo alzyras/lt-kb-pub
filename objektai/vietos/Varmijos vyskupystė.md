@@ -76,6 +76,7 @@ Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbin
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Aisčiai]]
 - [[objektai/vietos/Dancigas]]
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Lietuva]]

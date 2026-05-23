@@ -99,5 +99,6 @@ Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse Rusi
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Latviai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Rusija]]

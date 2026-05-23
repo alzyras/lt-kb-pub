@@ -114,6 +114,6 @@ Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai. Vėliau 
 - [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/unija]]
 - [[objektai/asmenys/Benediktas]]
-- [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Trakai]]
+- [[objektai/vietos/Lenkija]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

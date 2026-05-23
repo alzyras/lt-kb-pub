@@ -51,3 +51,4 @@ bent jau Vilnius prilygo, o gal net pradėjo lenkti (Vilniaus kaip „Lietuvos J
 - [[objektai/vietos/Liublinas]]
 - [[objektai/vietos/Lvovas]]
 - [[objektai/vietos/Vilnius]]
+- [[objektai/grupes/Žydai]]

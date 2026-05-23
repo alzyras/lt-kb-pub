@@ -63,6 +63,7 @@ Pavestą uždavinį Vy­ tautas labai puikiai atliko, sunaikindamas visą vokie�
 - [[objektai/vietos/Nemunas]]
 - [[objektai/vietos/Užnemunė]]
 - [[objektai/vietos/Vilnius]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/asmenys/Vygandas]]
 - [[objektai/zodynas/maršalka]]
 - [[objektai/vietos/Insterburgas]]

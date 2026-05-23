@@ -80,4 +80,3 @@ Nenurodyta
 - [[objektai/vietos/Pačtuva]]
 - [[objektai/vietos/Peštvė]]
 - [[objektai/vietos/Vilkija]]
-- [[objektai/grupes/Žemaičiai]]

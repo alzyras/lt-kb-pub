@@ -70,10 +70,15 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas]]
+- [[objektai/grupes/107-oji motošaulių divizija]]
 - [[objektai/asmenys/A. Smetona|A. Smetona (prezidentas, XX a.)]]
 - [[objektai/asmenys/A. Voldemaras]]
 - [[objektai/asmenys/Augustinas Voldemaras]]
+- [[objektai/grupes/Aukščiausioji Taryba]]
 - [[objektai/vietos/Lietuvos radijo ir televizijos komiteto pastatas]]
+- [[objektai/grupes/Osmanų Turkija]]
 - [[objektai/ivykiai/Sausio 13-oji ir Vilniaus televizijos bokšto šturmas (1991 m. sausio 12–13 d.)]]
 - [[objektai/zodynas/petihorai]]
 - [[objektai/daiktai/Sovietų tankai ir šarvuočiai]]
+- [[objektai/vietos/Žuvinto ežeras]]
+- [[objektai/vietos/Žuvinto palios]]

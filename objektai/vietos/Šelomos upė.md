@@ -60,5 +60,6 @@ Rugpjūčio 21 d. prie Šelomos upės lietuviai sumušė apie 3000 rusų dalinį
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/vietos/Rusija]]
 - [[objektai/vietos/Rževas]]

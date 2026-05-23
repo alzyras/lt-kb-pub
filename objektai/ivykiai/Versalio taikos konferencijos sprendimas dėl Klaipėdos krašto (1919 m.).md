@@ -60,3 +60,4 @@ Nenurodyta
 - [[objektai/vietos/Gdanskas]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/lietuvininkai]]
+- [[objektai/zodynas/Klaipėdiškiai]]

@@ -109,6 +109,7 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
 - [[objektai/grupes/Lenkai]]
 - [[objektai/vietos/Lenkija]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/vietos/Rusija]]
 - [[objektai/posakiai/„lenkų suartinimo su rusais“]]
 - [[objektai/paprociai/Carinės „lenkų pradų naikinimo“ rusinimo praktikos]]

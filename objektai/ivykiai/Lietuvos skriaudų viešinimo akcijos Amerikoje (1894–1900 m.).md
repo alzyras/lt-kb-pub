@@ -108,6 +108,8 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/vietos/Europa]]
+- [[objektai/vietos/Kražiai]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/vietos/Rusija]]

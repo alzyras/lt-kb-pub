@@ -69,5 +69,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Kolainiai]]
 - [[objektai/vietos/Nemunas]]
 - [[objektai/zodynas/magistras]]

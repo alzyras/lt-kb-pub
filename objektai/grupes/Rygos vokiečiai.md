@@ -59,4 +59,6 @@ Mindaugui pavyko su Andrium von Stirland užmegzti kalbą, nes ir magistrui Dani
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/vietos/Ryga]]
 - [[objektai/asmenys/Tautvilas]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/magistras]]

@@ -56,4 +56,5 @@ sukilėlių vėliava 200 sukilėlių būrys, vadovaujamas dimisijos karininko Ka
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/1863-1864 m. sukilėlių vėliava]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/vėliava]]

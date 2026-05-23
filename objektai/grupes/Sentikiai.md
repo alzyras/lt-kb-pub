@@ -43,4 +43,5 @@ Lenkijoje nebuvo ir sentikių, atsiskyrusių nuo stačiatikių dėl liturgijos i
 ### Susiję objektai
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Rusija]]
+- [[objektai/grupes/Stačiatikiai]]
 - [[objektai/paprociai/LDK daugiakonfesiškumo juridinis įforminimas ir religinė tolerancija]]

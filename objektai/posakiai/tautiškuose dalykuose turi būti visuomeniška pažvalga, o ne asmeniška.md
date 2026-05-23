@@ -52,5 +52,6 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Viena]]
 - [[objektai/zodynas/kunigas]]

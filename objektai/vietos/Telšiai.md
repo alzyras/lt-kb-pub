@@ -42,3 +42,18 @@ Buvo uždaryta daugybė vienuolynų (Kaune, Pažaisly, Panevėžy, Ukmergėje, R
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/vietos/Dievo Krėslo miškas]]
+- [[objektai/grupes/Katalikų Bažnyčia]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/ivykiai/Kunigų seminarijų Vilniuje, Telšiuose ir Vilkaviškyje uždarymas (1946 m.)]]
+- [[objektai/ivykiai/Kėdainių kautynės ir Povilo Lukšio žūtis (1919 m. vasario 7–9 d.)]]
+- [[objektai/paprociai/Lietuviškos mokyklos prie bažnyčių ir liaudies mokymas lietuviškai]]
+- [[objektai/vietos/Livonijos pasienis]]
+- [[objektai/autoriai/Motiejus Valančius]]
+- [[objektai/autoriai/S. Daukantas]]
+- [[objektai/zodynas/archieriejus]]
+- [[objektai/vietos/Žarėnai]]
+- [[objektai/grupes/Žarėnų kuopa]]

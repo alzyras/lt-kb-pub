@@ -79,7 +79,6 @@ Protestantų mokyklos buvo įkurtos Vilniuje, Brastoje, Nesvyžiuje, Semetyčiuo
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Kalvarija]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/daiktai/Varpai]]
 - [[objektai/zodynas/atšilimas]]
 - [[objektai/vietos/Žemaičių Kalvarija]]

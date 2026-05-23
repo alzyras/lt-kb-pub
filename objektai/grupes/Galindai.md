@@ -62,7 +62,17 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Bartai]]
 - [[objektai/autoriai/Dusburgas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Nadruviai]]
+- [[objektai/grupes/Pamedėnai]]
+- [[objektai/vietos/Prūsai]]
+- [[objektai/grupes/Sembai]]
+- [[objektai/grupes/Skalviai]]
+- [[objektai/grupes/Slavai]]
+- [[objektai/grupes/Varmiai]]
 - [[objektai/zodynas/ekspansija]]
+- [[objektai/asmenys/Michailas Jaroslavičius]]
+- [[objektai/vietos/Protvos upė]]
 - [[objektai/asmenys/Ptolemajas]]

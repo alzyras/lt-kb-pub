@@ -55,5 +55,4 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
 - [[objektai/autoriai/Motiejus Valančius]]
 - [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/vyskupystė]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/vietos/Žemaičių vyskupystė]]

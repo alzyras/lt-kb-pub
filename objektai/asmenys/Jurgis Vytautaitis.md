@@ -69,4 +69,5 @@ Kare su švedais Naugardui padėjo Pskovas, kur buvo lietuvių vietininkas Jurgi
 - [[objektai/vietos/Pskovas]]
 - [[objektai/vietos/Veliuona]]
 - [[objektai/zodynas/vietininkas]]
+- [[objektai/grupes/Švedai]]
 - [[objektai/vietos/Švedija]]

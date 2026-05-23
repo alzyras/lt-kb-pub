@@ -81,5 +81,6 @@ Nenurodyta
 - [[objektai/vietos/Gardinas]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Nemunas]]
+- [[objektai/vietos/Suvalkai]]
 - [[objektai/vietos/Varėna]]
 - [[objektai/grupes/Aukščiausioji Santarvininkių Taryba]]

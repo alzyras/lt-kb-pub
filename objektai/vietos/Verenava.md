@@ -48,8 +48,8 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/bajorija]]
+- [[objektai/vietos/Želviai]]
 - [[objektai/vietos/Geranainys]]
 - [[objektai/vietos/Naujasis Dolskas]]
 - [[objektai/grupes/Pijarų ordinas]]
 - [[objektai/vietos/Ščucinas]]
-- [[objektai/vietos/Želviai]]

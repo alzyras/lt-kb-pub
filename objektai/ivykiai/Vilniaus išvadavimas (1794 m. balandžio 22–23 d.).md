@@ -73,6 +73,8 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/A. Nelepcos]]
+- [[objektai/grupes/Pacai]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/vietos/Vilnius]]
 - [[objektai/asmenys/Bogdanas Knorringas]]
 - [[objektai/grupes/LDK 1-oji Tautinė brigada]]

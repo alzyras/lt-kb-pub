@@ -88,4 +88,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/ATAS]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Pilėnai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

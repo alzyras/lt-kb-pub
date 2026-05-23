@@ -45,3 +45,4 @@ Petro Kubiliūno vadovaujamas dalinių išvedimas į Kauno gatves buvo pavojingi
 ### Susiję objektai
 - [[objektai/vietos/Kaunas]]
 - [[objektai/zodynas/vadybos]]
+- [[objektai/grupes/Voldemarininkai]]

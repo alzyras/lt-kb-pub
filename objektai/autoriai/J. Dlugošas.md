@@ -203,6 +203,7 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
 - [[objektai/vietos/Prūsija]]
 - [[objektai/vietos/Upytė]]
 - [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/vietos/Vorskla]]

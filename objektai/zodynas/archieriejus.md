@@ -51,4 +51,5 @@ Ukmergėje, Zarasuose, Kėdainiuose ir Jurbarke buvo pastatytos naujos cerkvės,
 - [[objektai/vietos/Kaunas]]
 - [[objektai/vietos/Kėdainiai]]
 - [[objektai/vietos/Pažaislis]]
-- [[objektai/zodynas/pravoslavai]]
+- [[objektai/vietos/Raseiniai]]
+- [[objektai/vietos/Telšiai]]

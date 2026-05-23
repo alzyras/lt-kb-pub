@@ -108,6 +108,7 @@ tags:
 - [[objektai/vietos/Dobrynė]]
 - [[objektai/vietos/Lenkija]]
 - [[objektai/zodynas/Suverenitetas]]
+- [[objektai/grupes/Vengrai]]
 - [[objektai/asmenys/Vladislovas]]
 - [[objektai/zodynas/vasalas]]
 - [[objektai/vietos/Dobryniaus]]

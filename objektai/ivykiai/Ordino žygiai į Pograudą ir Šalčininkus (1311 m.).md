@@ -102,4 +102,5 @@ Nenurodyta
 - [[objektai/vietos/Brandenburgas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/vietos/Pograuda]]
+- [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/zodynas/komtūras]]

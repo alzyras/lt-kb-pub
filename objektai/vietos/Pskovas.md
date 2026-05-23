@@ -815,3 +815,4 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
 - [[objektai/posakiai/bedieviškąją Lietuvą]]
 - [[objektai/zodynas/družina]]
 - [[objektai/zodynas/vikariatas]]
+- [[objektai/grupes/Rusai]]

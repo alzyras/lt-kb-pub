@@ -61,6 +61,5 @@ Betarpiškame ryšyje su Georgenburgo įkūrimu reikia sieti 1259-1260 m. žiem�
 - [[objektai/vietos/Georgenburgas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Mindaugas]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/vietos/Žiemgala]]
 - [[objektai/grupes/Žiemgaliai]]

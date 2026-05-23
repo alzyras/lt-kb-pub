@@ -70,4 +70,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/vietos/Kaunas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

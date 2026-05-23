@@ -96,6 +96,7 @@ Bet kada ir šios derybos Grabove nieko gero neda­ vė, o naujas magistras Myko
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Mykolas]]
 - [[objektai/asmenys/Mykolas Küchmeisteris]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/vietos/Brodnica]]

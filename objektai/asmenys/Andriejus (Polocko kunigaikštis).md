@@ -57,6 +57,7 @@ Ordino magistras Zöllneris, bet šis atsisakė ir dar du kartu su Polocko kunig
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Polockas]]
+- [[objektai/grupes/Stačiatikiai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/vietos/Lietuva]]

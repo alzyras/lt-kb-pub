@@ -74,3 +74,4 @@ Nenurodyta
 - [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Vilnius]]
+- [[objektai/grupes/Bajorai]]

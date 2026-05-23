@@ -58,6 +58,8 @@ tags:
 ### Susiję objektai
 - [[objektai/grupes/Baltai]]
 - [[objektai/vietos/Europa]]
+- [[objektai/grupes/Germanai]]
 - [[objektai/vietos/Pripetė]]
+- [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/zodynas/geležies amžius]]
 - [[objektai/vietos/Pripetės pelkės]]

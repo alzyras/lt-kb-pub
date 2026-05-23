@@ -50,6 +50,7 @@ Petro ir Povilo -bažnyčią Antakalny).
 ### Susiję objektai
 - [[objektai/vietos/Kaunas]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Pacai]]
 - [[objektai/vietos/Pažaislis]]
 - [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/hetmonas]]

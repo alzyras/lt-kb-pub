@@ -71,4 +71,5 @@ Nenurodyta
 - [[temos/papuošalas]]
 
 ### Susiję objektai
+- [[objektai/vietos/Prūsai]]
 - [[objektai/autoriai/Simono Grunau]]

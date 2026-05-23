@@ -43,6 +43,8 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Stačiatikiai]]
 - [[objektai/grupes/Unitai]]
 - [[objektai/grupes/Unitų bažnyčia]]
 - [[objektai/grupes/Unitų bažnyčia unitai]]

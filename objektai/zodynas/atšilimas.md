@@ -51,10 +51,10 @@ tags:
 ### Susiję objektai
 - [[objektai/vietos/Kalvarija]]
 - [[objektai/vietos/Šiluva]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/vietos/Jonavos azotinių trąšų gamykla]]
 - [[objektai/vietos/Kauno HES]]
 - [[objektai/vietos/Mažeikių naftos perdirbimo įmonė]]
+- [[objektai/daiktai/Varpai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Balys Sruoga]]
 - [[objektai/asmenys/Vincas Krėvė-Mickevičius]]

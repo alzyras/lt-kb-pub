@@ -66,4 +66,5 @@ Nenurodyta
 - [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
 - [[objektai/vietos/Poznanė]]
 - [[objektai/zodynas/vaivada]]
+- [[objektai/grupes/Švedai]]
 - [[objektai/zodynas/elekcinis seimas]]

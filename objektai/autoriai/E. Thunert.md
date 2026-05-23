@@ -65,5 +65,7 @@ Thunert, E.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Dancigas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/vietos/Žalgiris]]
 - [[objektai/vietos/Lenkija]]
+- [[objektai/grupes/Vokiečiai]]

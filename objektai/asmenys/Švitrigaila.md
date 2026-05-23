@@ -381,6 +381,7 @@ tags:
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Podolija]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/ivykiai/1432 m. perversmas ir Zigmanto Kęstutaičio iškėlimas]]
 - [[objektai/vietos/Bazelis]]

@@ -94,5 +94,7 @@ Sapiegos. Šios Sapiegų kariuomenės dalies gynyba neleido respublikonams organ
 - [[objektai/vietos/Bauskė]]
 - [[objektai/vietos/Druja]]
 - [[objektai/vietos/Mintauja]]
+- [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/dvarų milicija]]
 - [[objektai/asmenys/M. P. Sapiega]]
+- [[objektai/grupes/Respublikonai]]

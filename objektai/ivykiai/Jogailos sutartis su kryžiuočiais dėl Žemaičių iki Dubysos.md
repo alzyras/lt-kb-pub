@@ -81,5 +81,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/vietos/Dubysa]]

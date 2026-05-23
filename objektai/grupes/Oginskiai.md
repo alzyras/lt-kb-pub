@@ -43,6 +43,9 @@ giminių lietuviškos kilmės yra tik Goštautai ir Radvilos, o visos kitos – 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Goštautai]]
+- [[objektai/vietos/Pulavai]]
 - [[objektai/grupes/Tiškevičiai]]
+- [[objektai/vietos/Tulčinas]]
 - [[objektai/grupes/Valavičiai]]
+- [[objektai/grupes/Rusėnai]]
 - [[objektai/vietos/Viena]]

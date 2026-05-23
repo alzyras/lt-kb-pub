@@ -55,5 +55,6 @@ Mat, per jų žemes pirkliai iš Lietuvos ir Rusijos vyk­ davo į Kaffos miest�
 - [[objektai/vietos/Rusija]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/vergai]]
 - [[objektai/vietos/Krymas]]
 - [[objektai/asmenys/Gilbert de Lannoy]]

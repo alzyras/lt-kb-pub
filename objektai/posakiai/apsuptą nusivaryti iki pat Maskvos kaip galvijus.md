@@ -63,4 +63,5 @@ Mūšio liudininkas Zigmantas Herberšteinas cituoja rusų kariuomenės vado Če
 - [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Maskva]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Zigmantas Herberšteinas]]

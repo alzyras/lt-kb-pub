@@ -43,4 +43,5 @@ Akcija pradėta laiku: Vakaruose vyko karšti disputai dėl nesumokėtų vokieč
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/vietos/Vokietija]]

@@ -173,6 +173,7 @@ tags:
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Maskva]]
+- [[objektai/grupes/Totoriai]]
 - [[objektai/vietos/Vorskla]]
 - [[objektai/vietos/Černigovas]]
 - [[objektai/asmenys/Glebas (Smolensko kunigaikštis)]]

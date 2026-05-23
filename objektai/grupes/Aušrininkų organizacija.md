@@ -46,4 +46,5 @@ Tik vėliau iš jaunimo, susispietusio apie moksleivių žurnalą „Aušrinę",
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Aušrininkai]]
 - [[objektai/grupes/Lietuviai]]

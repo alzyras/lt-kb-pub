@@ -58,4 +58,5 @@ tags:
 ### Susiję objektai
 - [[objektai/vietos/Brasta]]
 - [[objektai/vietos/Grajevo]]
+- [[objektai/vietos/Merūniškiai]]
 - [[objektai/zodynas/dykra]]

@@ -141,5 +141,6 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
 - [[objektai/asmenys/Zemovitas (Mozūrijos kunigaikštis)]]
 - [[objektai/posakiai/savo užantyje maitinti gyvatę]]
 - [[objektai/vietos/Širvintos upė]]
+- [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/vietos/Płockas]]
 - [[objektai/asmenys/Ziemovitas III]]

@@ -53,5 +53,7 @@ Yra įrodyta, jog « Goliad’ » buvo toliausiai į rytus įsiterpusi baltiš­
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Galindai]]
 - [[objektai/vietos/Nemunas]]
+- [[objektai/grupes/Slavai]]
 - [[objektai/zodynas/ekspansija]]

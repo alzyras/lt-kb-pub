@@ -87,4 +87,3 @@ Vartojamos formos: `medės`, `medėse`, `mėžė`.
 ### Susiję objektai
 - [[objektai/vietos/Nevėžis]]
 - [[objektai/vietos/Venta]]
-- [[objektai/grupes/Žemaičiai]]

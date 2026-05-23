@@ -64,6 +64,6 @@ Militariškai gana stipri, pavyzdingai sutvarkiusi savo adminis­ traciją ir ek
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Narva]]
 - [[objektai/vietos/Veliuona]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/didysis magistras]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/grupes/Žemaičiai]]

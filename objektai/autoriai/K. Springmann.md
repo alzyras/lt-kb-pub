@@ -64,3 +64,4 @@ Springmann, K.
 - [[objektai/vietos/Konstanca]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/vietos/Lenkija]]
+- [[objektai/grupes/Vokiečiai]]

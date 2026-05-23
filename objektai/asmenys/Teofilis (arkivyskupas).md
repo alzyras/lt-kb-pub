@@ -59,6 +59,7 @@ Ji apie 1330 m. žlugo, nes po arkivyskupo Teofilio mirties nebebuvo paskirtas n
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Maskva]]
 - [[objektai/vietos/Naugardukas]]
+- [[objektai/grupes/Stačiatikiai]]
 - [[objektai/zodynas/metropolija]]
 - [[objektai/zodynas/metropolitas]]
 - [[objektai/zodynas/Arkivyskupija]]

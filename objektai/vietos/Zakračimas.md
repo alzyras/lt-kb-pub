@@ -55,5 +55,7 @@ Susijungusios lietuvių, rusų, totorių jėgos su lenkų kariuomene prie Zakra�
 - [[objektai/grupes/Bajorai]]
 - [[objektai/asmenys/Kaributas]]
 - [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Totoriai]]
 - [[objektai/asmenys/Zigmantas Kaributas]]
+- [[objektai/vietos/Prūsai]]
 - [[objektai/vietos/Visla]]

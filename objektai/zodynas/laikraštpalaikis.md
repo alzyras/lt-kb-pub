@@ -40,3 +40,7 @@ Vien tik vokiečių štabas spausdino lietuvišką laikraštpalaikį „Dabartį
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Vokiečiai]]

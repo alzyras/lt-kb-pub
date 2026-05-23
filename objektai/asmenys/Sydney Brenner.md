@@ -53,4 +53,5 @@ tags:
 - [[objektai/asmenys/Bernardas (abatas)]]
 - [[objektai/asmenys/Gertrude Ellion]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/asmenys/Bernardas Berensonas]]

@@ -83,5 +83,6 @@ Vėliau jis tapo Dainavos apygardos ir Pietų Lietuvos srities partizanų vadu. 
 - [[objektai/vietos/Radviliškis]]
 - [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/vietos/Pietų Lietuva]]
 - [[objektai/vietos/Vakarų Lietuva]]

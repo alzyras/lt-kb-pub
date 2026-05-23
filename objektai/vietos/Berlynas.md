@@ -395,6 +395,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Viena]]
 - [[objektai/vietos/Vilnius]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/luomas]]
 - [[objektai/zodynas/poliublininis laikotarpis]]
 - [[objektai/asmenys/A. Smetona|A. Smetona (prezidentas, XX a.)]]

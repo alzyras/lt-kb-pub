@@ -45,3 +45,7 @@ Vartojamos formos: `šlapjurgiui`.
 ## Pastabos
 
 - Tiksli meteorologinė apimtis iš teksto aiškėja tik apytikriai.
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Drabužiai]]

@@ -54,5 +54,7 @@ Nors vietovardžių lokalizavimas yra sunkus, tačiau tekste ir žemė­ lapyje 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Arabai]]
 - [[objektai/vietos/Ispanija]]
+- [[objektai/grupes/Latviai]]
 - [[objektai/grupes/Lietuviai]]

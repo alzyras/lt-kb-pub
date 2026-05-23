@@ -107,6 +107,7 @@ Dar tėvui gyvam esant, penkerių metų Jadvyga 1378 m. buvo sužieduota su Aust
 - [[objektai/vietos/Lenkija]]
 - [[objektai/grupes/Lenkų bajorai]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Vengrai]]
 - [[objektai/vietos/Vengrija]]
 - [[objektai/vietos/Viena]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

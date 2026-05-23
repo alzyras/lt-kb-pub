@@ -61,5 +61,6 @@ Nuo Mindaugo laiku iki XV amž. buvo išlikusi bendra rusų metraščių žymė:
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/posakiai/Lietuvoje pradėjo valdyti pašėlęs (okajauyj), nedorovingas, prakeiktas ir negailestingas Traidenis]]
 - [[objektai/asmenys/Mindaugas]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Traidenis]]
 - [[objektai/zodynas/lietopisis lietopisiai]]

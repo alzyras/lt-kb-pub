@@ -57,5 +57,5 @@ Mūsiškiai į juos šaudė iš už medžių, iš už krūmų ir visą laiką st
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Ažagų kaimas]]
 - [[objektai/vietos/Smilgiai]]
+- [[objektai/vietos/Ažagų kaimas]]

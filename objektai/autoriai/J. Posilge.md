@@ -56,5 +56,4 @@ Daug įdomių žinių iš to laikotarpio yra patiekęs kronikininkas Jonas von P
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/įkaitai]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/zodynas/Kilmingieji]]

@@ -75,4 +75,5 @@ Terminas siejamas su J. Šliūpo veikla ir aplink jį susibūrusia tautininkų b
 ### Susiję objektai
 - [[objektai/grupes/Vilniaus universitetas]]
 - [[objektai/zodynas/laisvamanybė laisvamaniai]]
+- [[objektai/zodynas/tautinės bažnyčios]]
 - [[objektai/posakiai/„Lietuvos laisvamanybės lizdą“]]

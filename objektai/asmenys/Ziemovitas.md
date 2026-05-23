@@ -128,6 +128,7 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Viena]]
 - [[objektai/asmenys/Vladislovas]]
+- [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/ivykiai/Jogailos pasiūlymas Vytautui per Henriką Ziemovitą (1392 m. pavasaris)]]
 - [[objektai/grupes/Karijotaičiai]]
 - [[objektai/paprociai/Kreipimasis į Vytautą svarbiausiais reikalais]]

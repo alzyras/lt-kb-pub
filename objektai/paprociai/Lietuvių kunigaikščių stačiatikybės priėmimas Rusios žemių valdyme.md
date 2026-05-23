@@ -128,11 +128,16 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/grupes/Alšėnų kunigaikščiai]]
+- [[objektai/grupes/Baltarusiai]]
 - [[objektai/vietos/Kijevo Rusia]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Maskva]]
 - [[objektai/asmenys/Mindaugas]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Rusėnai]]
+- [[objektai/grupes/Slavai]]
+- [[objektai/grupes/Stačiatikiai]]
 - [[objektai/asmenys/Vaišelga|Vaišelga (kunigaikštis)]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/kunigaikščiai]]

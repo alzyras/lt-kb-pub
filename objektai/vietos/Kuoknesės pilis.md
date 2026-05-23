@@ -64,6 +64,7 @@ Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užė
 - [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
 - [[objektai/vietos/Kuoknesė]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Švedai]]
 - [[objektai/vietos/Švedija]]
 - [[objektai/grupes/Švedijos kariuomenė]]
 - [[objektai/asmenys/Karina Nilsdotter]]

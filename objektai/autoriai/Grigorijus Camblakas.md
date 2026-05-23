@@ -120,6 +120,7 @@ Grigorijus Camblakas pristatomas kaip vienas žymiausių to meto stačiatikybės
 ### Susiję objektai
 - [[objektai/vietos/Florencija]]
 - [[objektai/vietos/Naugardukas]]
+- [[objektai/grupes/Stačiatikiai]]
 - [[objektai/vietos/Viena]]
 - [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/metropolija]]

@@ -124,4 +124,5 @@ Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo toto
 - [[temos/religinis-terminas]]
 
 ### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Viena]]

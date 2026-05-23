@@ -76,4 +76,5 @@ Tačiau lenkai ne tik kad nesustabdė kovos, bet dar ėmė veržtis į Lietuvą 
 - [[objektai/vietos/Trakai]]
 - [[objektai/vietos/Trakų apskritis]]
 - [[objektai/vietos/Ukmergė]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/vietos/Ukmergės apskritis]]

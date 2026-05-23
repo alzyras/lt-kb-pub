@@ -102,7 +102,10 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/vietos/Rusija]]
 - [[objektai/vietos/Viena]]
 - [[objektai/zodynas/konfederacija]]
+- [[objektai/grupes/Čartoriskiai]]
 - [[objektai/vietos/Radomas]]
+- [[objektai/zodynas/kitatikiai]]

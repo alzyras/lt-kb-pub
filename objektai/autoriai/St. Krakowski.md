@@ -51,5 +51,6 @@ Krakowski : Korjatowicze i sprawa Podolska w XIV w.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Karijotaičiai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/vietos/Podolė]]

@@ -118,9 +118,11 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Bajorai]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/pavietas]]
 - [[objektai/zodynas/tribunolas]]
+- [[objektai/zodynas/urėdas]]
 - [[objektai/paprociai/Bajorijos seimelių rinkimosi ir atstovų rinkimo praktika]]
 - [[objektai/zodynas/Klaipėdiškiai]]
 - [[objektai/paprociai/Klaipėdos krašto autonominis režimas]]

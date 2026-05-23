@@ -59,6 +59,9 @@ Lietuvos kariuomenė buvo sudaryta iš Lietuvos valdovo Algirdo ir jo brolio Kar
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Karijotaičiai]]
 - [[objektai/vietos/Krymas]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/zodynas/Adynos|adynos]]

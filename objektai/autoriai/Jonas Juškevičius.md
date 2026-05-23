@@ -47,5 +47,8 @@ Kai Jonas Juškevičius 1864 m. pasiūlė kuratoriui Kornilovui išspausdinti sa
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Slavai]]
+- [[objektai/grupes/Slavofilai]]
 - [[objektai/zodynas/kuratorius]]
 - [[objektai/zodynas/Rusiškosios raidės]]

@@ -40,3 +40,7 @@ Lietuviams plūstelėjus į miestus ir veržiantis į pramonę bei prekybą, pra
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Žydai]]

@@ -59,3 +59,4 @@ Włodarski, B.
 ### Susiję objektai
 - [[objektai/vietos/Maskva]]
 - [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Rusėnai]]

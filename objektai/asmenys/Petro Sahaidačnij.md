@@ -52,6 +52,7 @@ etmono Petro Sahaidačnij vadovaujamų Ukrainos kazokų.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Kazokai]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Ukraina]]
 - [[objektai/zodynas/etmonas]]

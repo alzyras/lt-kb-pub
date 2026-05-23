@@ -147,7 +147,6 @@ Nenurodyta
 - [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/kapitula]]
 - [[objektai/vietos/Žemaitija]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/asmenys/Aleksandras (Moldavijos valdovas)]]
 - [[objektai/asmenys/Jonas Paleologas]]
 - [[objektai/asmenys/Manuelis]]

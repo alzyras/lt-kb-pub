@@ -111,5 +111,4 @@ Nenurodyta
 - [[objektai/asmenys/Russdorfas]]
 - [[objektai/zodynas/didysis magistras]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]

@@ -60,9 +60,11 @@ Bolševikams priartėjus prie Kėdainių, savanorių būriai, nesulaukdami iš K
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Bolševikai]]
 - [[objektai/vietos/Kaunas]]
 - [[objektai/vietos/Kėdainiai]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/daiktai/Lietuvos kariuomenės savanorio rankovės antsiuvas]]
 - [[objektai/zodynas/Savanoris]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Bolševikų 2-asis šaulių pulkas]]

@@ -112,11 +112,15 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Aisčiai]]
 - [[objektai/vietos/Europa]]
 - [[objektai/asmenys/Konradas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/vietos/Niešava]]
+- [[objektai/vietos/Prūsai]]
+- [[objektai/grupes/Vengrai]]
 - [[objektai/vietos/Vengrija]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/grupes/Vokiečių ordinas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/vietos/Fogelzango pilis]]

@@ -55,6 +55,7 @@ Rusų kronikos aiškina, kad su Tochtamyšu jis sutaręs šitaip: „Aš tave pa
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Maskva]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/chanas]]
 - [[objektai/zodynas/saar]]

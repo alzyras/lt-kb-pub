@@ -121,6 +121,7 @@ Tuo būdu ordino centras pasidarė Marijenburgas. Lenkija atgavo savo Pamarį, D
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Aisčiai]]
 - [[objektai/vietos/Dancigas]]
 - [[objektai/vietos/Dubysa]]
 - [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
@@ -131,6 +132,7 @@ Tuo būdu ordino centras pasidarė Marijenburgas. Lenkija atgavo savo Pamarį, D
 - [[objektai/vietos/Livonija]]
 - [[objektai/vietos/Nemunas]]
 - [[objektai/vietos/Ryga]]
+- [[objektai/vietos/Suvalkai]]
 - [[objektai/vietos/Torne]]
 - [[objektai/zodynas/didysis magistras]]
 - [[objektai/zodynas/laisvasis Rygos miestas]]

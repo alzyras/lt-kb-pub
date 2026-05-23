@@ -64,3 +64,4 @@ Tuojau po Ciprijono mirties Vytautas Konstantinopolio pa­ triarchui Eufimėjui 
 - [[objektai/vietos/Polockas]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/vietos/Rusija]]
+- [[objektai/grupes/Stačiatikiai]]

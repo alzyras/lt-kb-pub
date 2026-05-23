@@ -54,5 +54,7 @@ Kadangi anie tolimi nuo rytų Europos autoriai beveik visai nieko nepasako apie 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Aisčiai]]
+- [[objektai/grupes/Baltai]]
 - [[objektai/vietos/Europa]]
 - [[objektai/autoriai/Wulfstanas]]

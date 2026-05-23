@@ -82,5 +82,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Rytprūsiai]]
 - [[objektai/zodynas/knygnešystė]]
 - [[objektai/zodynas/knygnešystė knygnešiai]]

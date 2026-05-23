@@ -55,3 +55,5 @@ Koeppenas leidžia svarbius vokiečių ordino generalinių prokuratorių praneš
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Prūsai]]
+- [[objektai/grupes/Vokiečiai]]

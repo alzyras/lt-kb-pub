@@ -55,5 +55,6 @@ Daškevič : Političeskije zamyśli Vitovta, Kiivskije UniversitetsLIETUVOS IST
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/autoriai/E. I. Leontovičius]]
 - [[objektai/autoriai/M. F. Vladimirskij-Budanov]]

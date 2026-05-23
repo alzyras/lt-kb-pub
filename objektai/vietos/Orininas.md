@@ -55,6 +55,7 @@ Liepos 14 d. lietuviai atžygiavo į bendrą stovyklą prie Orinino, netoli Podo
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Kazokai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Podolė]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

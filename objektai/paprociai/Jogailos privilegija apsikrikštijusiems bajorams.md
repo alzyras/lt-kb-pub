@@ -73,4 +73,5 @@ Nenurodyta
 - [[temos/privilegija]]
 
 ### Susiję objektai
+- [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Stačiatikiai]]

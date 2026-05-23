@@ -44,6 +44,7 @@ Vėliau iš šių periferinių sritinių žemių kunigaikščių kilo garsios v�
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Sluckiai]]
+- [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/vietos/Klevanė]]
 - [[objektai/vietos/Kovelis]]
 - [[objektai/vietos/Mlynivas]]

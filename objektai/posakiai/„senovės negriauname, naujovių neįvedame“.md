@@ -52,5 +52,6 @@ Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis: „senovės 
 
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/paprociai/LDK užimtų Rusios žemių senosios tvarkos palikimas]]
 - [[objektai/posakiai/senovės negriauname, naujovių neįvedame]]

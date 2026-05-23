@@ -47,4 +47,5 @@ Tūbelio veikla stiprino kapitalistinius santykius Lietuvoje, o kooperacijos, dr
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Veiveriai]]
 - [[objektai/ivykiai/Suvalkijos valstiečių streikas ir Veiverių susidūrimas (1935 m.)]]

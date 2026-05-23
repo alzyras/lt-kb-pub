@@ -287,11 +287,13 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/A. Liuneburgietis]]
+- [[objektai/grupes/Chodkevičiai]]
 - [[objektai/vietos/Dauguva]]
 - [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Sapiegos]]
+- [[objektai/grupes/Totoriai]]
 - [[objektai/asmenys/Vaina]]
 - [[objektai/vietos/Viena]]
 - [[objektai/daiktai/Vėliavos]]

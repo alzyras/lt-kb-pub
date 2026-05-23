@@ -93,6 +93,7 @@ Bet dar Minske jį sutiko duktė Sofija, Maskvos kunigaikštienė su nepilnameč
 - [[objektai/vietos/Pskovas]]
 - [[objektai/vietos/Rusija]]
 - [[objektai/asmenys/Sofija (Vytauto duktė)]]
+- [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/chanas]]
 - [[objektai/asmenys/Vosylius]]
 - [[objektai/zodynas/kunigaikštija]]

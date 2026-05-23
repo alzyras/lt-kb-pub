@@ -76,4 +76,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/vietos/Lietuva]]
 - [[objektai/paprociai/Lydimoji žemdirbystė]]
+- [[objektai/grupes/Valakai]]
 - [[objektai/ivykiai/Valakų reforma (1557 m.)]]

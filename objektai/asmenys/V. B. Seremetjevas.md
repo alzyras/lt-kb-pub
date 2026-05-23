@@ -75,4 +75,5 @@ Seremetjevas (apie 15000 karių) užėmė Polocką ir Dysną, A.
 - [[objektai/vietos/Minskas]]
 - [[objektai/vietos/Mstislavlis]]
 - [[objektai/vietos/Polockas]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/vietos/Švedija]]

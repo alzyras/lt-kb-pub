@@ -55,4 +55,5 @@ Toliau jis pasakė: „Taip pat protestuoju prieš neteisybę, kuri mums būtų 
 - [[objektai/grupes/Totoriai]]
 - [[objektai/vietos/Voluinė]]
 - [[objektai/vietos/Braclavas]]
+- [[objektai/grupes/Lenkai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

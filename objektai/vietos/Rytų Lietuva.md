@@ -163,8 +163,9 @@ Rugsėjį Himansas dar pataisė planą lietuvių naudai – Vilniaus regionas ja
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Bolševikai]]
 - [[objektai/vietos/Lenkija]]
 - [[objektai/grupes/Lenkijos kariuomenė]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/vietos/Ukraina]]
-- [[objektai/grupes/Bolševikai]]

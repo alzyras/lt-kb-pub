@@ -93,4 +93,5 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/asmenys/Kazimieras Jogailaitis]]

@@ -71,3 +71,4 @@ Su tripartitio christiana (visuomenės skirstymas į karius, dvasininkus ir dirb
 - [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Vilnius]]
+- [[objektai/grupes/Bajorai]]

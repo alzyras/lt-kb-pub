@@ -66,6 +66,9 @@ Ordinui į pagalbą atvyko Meiseno markgrafas Henrikas su 500 riterių ir su „
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Europa]]
+- [[objektai/grupes/Kalavijuočių ordinas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Prūsai]]
+- [[objektai/zodynas/kryžininkai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

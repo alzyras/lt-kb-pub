@@ -53,7 +53,7 @@ X GULBINIŠKIŲ KAUTYNĖS 1948 m. vasario 1 d. Vilkaviškio aps.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Pilviškiai]]
 - [[objektai/vietos/Vilkaviškis]]
 - [[objektai/grupes/MGB]]
-- [[objektai/vietos/Pilviškiai]]
 - [[objektai/vietos/Vilkaviškio apskritis]]

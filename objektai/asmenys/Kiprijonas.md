@@ -93,3 +93,4 @@ Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
 - [[objektai/zodynas/chanas]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/posakiai/caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats]]
+- [[objektai/grupes/Totoriai]]

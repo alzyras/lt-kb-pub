@@ -119,6 +119,8 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Prancūzija]]
+- [[objektai/vietos/Suvalkai]]
 - [[objektai/vietos/Vilnius]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/grupes/Lietuvos Taryba]]
 - [[objektai/posakiai/„atkuria“ „atkūrimu“ „atstatymu“]]

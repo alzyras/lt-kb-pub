@@ -50,5 +50,6 @@ Volteris).
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Aukštaičiai]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]

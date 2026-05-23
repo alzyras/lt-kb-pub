@@ -93,6 +93,6 @@ Taip pat jau nuo Algirdo ir Kęstučio laikų Lietuvoje kursavo ir Čeki­ jos g
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/rublis]]
-- [[objektai/grupes/Žemaičiai]]
+- [[objektai/grupes/Čekai]]
 - [[objektai/zodynas/vyskupystė]]
 - [[objektai/vietos/Čekija]]

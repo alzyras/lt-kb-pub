@@ -66,4 +66,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Baltarusiai]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]

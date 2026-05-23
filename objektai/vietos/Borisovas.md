@@ -77,6 +77,7 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Totoriai]]
 - [[objektai/vietos/Trakai]]
 - [[objektai/asmenys/Švitrigaila]]
 - [[objektai/asmenys/Žygimantas]]

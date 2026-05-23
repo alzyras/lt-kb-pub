@@ -54,3 +54,4 @@ Lenkai pasuka dešiniau ir atkerta LL ALYTUS Daugai | I Šlėninkė jai Tabariš
 - [[objektai/vietos/Butrimonys]]
 - [[objektai/vietos/Daugai]]
 - [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Valkininkai]]

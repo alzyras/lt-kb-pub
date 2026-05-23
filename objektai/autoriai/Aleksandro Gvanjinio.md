@@ -89,5 +89,5 @@ tags:
 - [[objektai/vietos/Lenkija]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Maskva]]
-- [[objektai/zodynas/vėliava]]
 - [[objektai/grupes/Totoriai]]
+- [[objektai/zodynas/vėliava]]

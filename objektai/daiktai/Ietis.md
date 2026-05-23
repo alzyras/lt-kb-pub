@@ -108,12 +108,12 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/vietos/Europa]]
+- [[objektai/daiktai/Kalavijai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Margalis (Margirius )]]
 - [[objektai/vietos/Maskva]]
 - [[objektai/zodynas/karyba]]
 - [[objektai/vietos/Čekija]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/posakiai/„Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!“]]
 - [[objektai/grupes/Lietuvos totoriai]]
 - [[objektai/posakiai/Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!]]

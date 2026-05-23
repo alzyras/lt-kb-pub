@@ -74,6 +74,7 @@ Zigmantas II (1506—1548 m.) ir jo karai su Maskva. Zigmanto II valdymo pabaiga
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Valakai]]
 - [[objektai/grupes/Livonijos valstybė]]
 - [[objektai/vietos/Vilnius]]
 - [[objektai/daiktai/Zigmanto Augusto pinigai]]

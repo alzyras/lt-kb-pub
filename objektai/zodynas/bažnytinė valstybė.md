@@ -66,3 +66,4 @@ Kai popiežiaus Honorijaus III atsiustasis legatas Vilhelmas de Mo­ dena sėkmi
 - [[objektai/vietos/Livonija]]
 - [[objektai/vietos/Ryga]]
 - [[objektai/asmenys/Vilhelmas]]
+- [[objektai/grupes/Kalavijuočių ordinas]]

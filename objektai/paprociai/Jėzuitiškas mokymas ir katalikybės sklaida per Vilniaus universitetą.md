@@ -97,6 +97,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Anglai]]
 - [[objektai/vietos/Anglija]]
 - [[objektai/vietos/Europa]]
 - [[objektai/vietos/Lietuva]]

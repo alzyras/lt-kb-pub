@@ -55,5 +55,6 @@ VIII amž. pusėje jie randami Sauslauke (prie Durbės).
 - [[objektai/vietos/Durbė]]
 - [[objektai/vietos/Gotlandas]]
 - [[objektai/zodynas/ekspansija]]
+- [[objektai/grupes/Švedai]]
 - [[objektai/vietos/Grobinė]]
 - [[objektai/vietos/Seeburgas]]

@@ -82,5 +82,5 @@ Tacitas šiame šaltinyje minimas kaip romėnų rašytojas, istorikas; jam prisk
 ### Susiję objektai
 - [[objektai/grupes/Aisčiai]]
 - [[objektai/daiktai/Gintaras]]
-- [[objektai/vietos/Viena]]
 - [[objektai/grupes/Romėnai]]
+- [[objektai/vietos/Viena]]

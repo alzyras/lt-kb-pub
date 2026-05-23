@@ -98,6 +98,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kalnėnai]]
+- [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/Nomadžiai|nomadžiai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

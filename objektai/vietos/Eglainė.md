@@ -49,5 +49,6 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Pilėnai]]
 - [[objektai/vietos/Radomas]]
 - [[objektai/vietos/Vidugiriai]]

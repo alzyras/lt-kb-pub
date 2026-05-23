@@ -60,6 +60,7 @@ Priešakiniai daliniai įsiveržė į Naugarduko papilį, o kitą dieną atžygi
 - [[objektai/vietos/Haličas]]
 - [[objektai/vietos/Luckas]]
 - [[objektai/vietos/Naugardukas]]
+- [[objektai/grupes/Rusėnai]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/vietos/Volinijos-Haličo kunigaikštija]]

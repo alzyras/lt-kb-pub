@@ -71,4 +71,5 @@ Tam tikslui buvo įsakyta paruošti vadinamuosius inventorius, kuriuose nuo seno
 ### Susiję objektai
 - [[objektai/autoriai/K. Jablonskis]]
 - [[objektai/autoriai/Konstantinas Jablonskis]]
+- [[objektai/autoriai/P. Dundulienė]]
 - [[objektai/paprociai/Valstiečių prievolių inventorizavimas ir suvienodinimas]]

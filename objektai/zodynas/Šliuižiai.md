@@ -46,5 +46,4 @@ Vartojamos formos: `šliuižiu`.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kalnėnai]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/daiktai/Ratai ant dviejų tekinių]]

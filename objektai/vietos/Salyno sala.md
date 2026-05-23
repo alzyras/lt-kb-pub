@@ -56,6 +56,7 @@ Iškilmingas tos sutarties ratifikavimas (patvir­ tinimas) įvyko tų pačių m
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Livonija]]
+- [[objektai/vietos/Prūsai]]
 - [[objektai/vietos/Salynas]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/vietos/Nemunas]]

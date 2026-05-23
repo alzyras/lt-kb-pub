@@ -53,4 +53,5 @@ Radziševskio.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Lietuviai]]

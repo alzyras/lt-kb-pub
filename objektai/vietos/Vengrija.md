@@ -161,6 +161,7 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Vengrai]]
 - [[objektai/vietos/Vilnius]]
 - [[objektai/vietos/Vokietija]]
 - [[objektai/asmenys/Benediktas]]

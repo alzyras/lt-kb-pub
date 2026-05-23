@@ -91,6 +91,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Gaspadorius|gaspadorius]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/grupes/Kalnėnai]]
 - [[objektai/zodynas/Miera|miera]]

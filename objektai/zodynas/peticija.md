@@ -102,6 +102,7 @@ Kai atskirų asmenų ir delegacijų rūpesčiai nieko negelbėjo, jie 1879 m. pa
 - [[objektai/vietos/Berlynas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Viena]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/ES pilietis]]
 - [[objektai/grupes/Europos Parlamentas]]
 - [[objektai/grupes/Europos Sąjunga]]

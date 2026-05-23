@@ -83,4 +83,5 @@ Nenurodyta
 - [[objektai/vietos/Europa]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Prūsai]]
 - [[objektai/asmenys/Netimeras]]

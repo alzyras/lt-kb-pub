@@ -55,3 +55,4 @@ Cetuchinas savo vadovaujamą grupę nuvedė pas bolševikus, liepęs nešaudyti,
 ### Susiję objektai
 - [[objektai/vietos/Jieznas]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Rusai]]

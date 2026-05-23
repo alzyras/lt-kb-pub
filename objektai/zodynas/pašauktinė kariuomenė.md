@@ -123,6 +123,7 @@ Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinė
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Artilerija]]
+- [[objektai/grupes/Bajorai]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/grupes/Totoriai]]

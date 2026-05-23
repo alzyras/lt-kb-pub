@@ -89,6 +89,7 @@ tags:
 - [[objektai/vietos/Livonija]]
 - [[objektai/grupes/Livonijos konfederacija]]
 - [[objektai/grupes/Maskvėnai]]
+- [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/konfederacija]]
 - [[objektai/zodynas/unija]]
 - [[objektai/grupes/Kuršo kunigaikštystė]]

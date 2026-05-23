@@ -69,5 +69,5 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Žemaičiai]]
+- [[objektai/grupes/Bajorai]]
 - [[objektai/zodynas/įkaitai]]

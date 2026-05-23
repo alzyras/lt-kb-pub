@@ -60,3 +60,4 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/vietos/Afrika]]
 - [[objektai/vietos/Vilnius]]
+- [[objektai/zodynas/Adynos|adynos]]

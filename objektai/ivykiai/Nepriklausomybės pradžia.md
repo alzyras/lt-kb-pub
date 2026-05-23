@@ -92,5 +92,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Viena]]
 - [[objektai/ivykiai/Lietuvos ir Lenkijos paskutinis padalinimas]]

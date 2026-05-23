@@ -99,6 +99,7 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/grupes/Antantė]]
+- [[objektai/vietos/Giedraičiai]]
 - [[objektai/vietos/Kaunas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/vietos/Lenkija]]

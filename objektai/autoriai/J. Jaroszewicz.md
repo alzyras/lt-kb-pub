@@ -86,5 +86,7 @@ Jaroszewicz, Obraz Litwy pod względem jej cywilizacyi, I—III (1844) ;.
 ### Susiję objektai
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Prūsai]]
+- [[objektai/grupes/Slavai]]
 - [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/tėvonija]]

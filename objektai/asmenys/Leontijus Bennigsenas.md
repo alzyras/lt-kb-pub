@@ -51,6 +51,7 @@ Leontijus Benningsenas. Leontijus Bennigsenas trimis kavalerijos pulkais, remiam
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Kazokai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Pogulianka]]
 - [[objektai/vietos/Naujininkai]]

@@ -60,3 +60,4 @@ Nenurodyta
 - [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/vietos/Voluinė]]
+- [[objektai/zodynas/kunigaikščiai]]

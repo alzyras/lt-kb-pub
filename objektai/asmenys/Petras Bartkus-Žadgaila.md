@@ -58,6 +58,7 @@ tags:
 ### Susiję objektai
 - [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
 - [[objektai/vietos/Radviliškis]]
+- [[objektai/vietos/Užpelkiai]]
 - [[objektai/grupes/Prisikėlimo apygarda]]
 - [[objektai/ivykiai/Užpelkių kautynės]]
 - [[objektai/ivykiai/Užpelkių kautynės (1949 m.)]]

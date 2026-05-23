@@ -85,5 +85,6 @@ O juk reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, t
 - [[objektai/vietos/Aukštadvaris]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Tauragnai]]
 - [[objektai/vietos/Tabariškės]]
 - [[objektai/ivykiai/Vilniaus užėmimas lenkų (1919 m. balandžio 19 d.)]]

@@ -70,4 +70,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Kalavijuočių ordinas]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Vokietija]]

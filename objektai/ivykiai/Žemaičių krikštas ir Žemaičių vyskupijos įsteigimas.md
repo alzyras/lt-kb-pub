@@ -61,4 +61,3 @@ Nenurodyta
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Žalgiris]]
 - [[objektai/vietos/Žemaitija]]
-- [[objektai/grupes/Žemaičiai]]

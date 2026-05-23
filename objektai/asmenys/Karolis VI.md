@@ -59,6 +59,7 @@ Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyk
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/vietos/Nemunas]]
 - [[objektai/vietos/Prancūzija]]
+- [[objektai/grupes/Slavai]]
 - [[objektai/vietos/Vokietija]]
 - [[objektai/zodynas/elektorius]]
 - [[objektai/zodynas/magistras]]

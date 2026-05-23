@@ -139,6 +139,7 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Rusija]]
 - [[objektai/vietos/Salyne]]
+- [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/unija]]
 - [[objektai/vietos/Akmenų Brasta]]
 - [[objektai/vietos/Grajevas]]

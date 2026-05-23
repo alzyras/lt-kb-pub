@@ -60,6 +60,7 @@ Lenkijos - 7-asis pėstininkų pulkas, 1-asis, 2-asis ir 4-asis šaulių pulkai,
 ### Susiję objektai
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Paneriai]]
 - [[objektai/vietos/Poznanė]]
 - [[objektai/vietos/Trakai]]
 - [[objektai/grupes/Trakų sukilėlių daliniai]]

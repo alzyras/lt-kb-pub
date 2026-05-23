@@ -46,4 +46,5 @@ tags:
 ### Susiję objektai
 - [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Mindaugas]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/posakiai/„aukščiausiuoju karaliumi“]]

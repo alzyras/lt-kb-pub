@@ -62,6 +62,7 @@ Livonijos Ordinas puolė dar Vytautą, pavy­ dėdamas jam popiežiaus suteikto 
 - [[objektai/grupes/Livonijos ordinas]]
 - [[objektai/vietos/Naugardas]]
 - [[objektai/vietos/Pskovas]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/ciesorius]]
 - [[objektai/zodynas/žygis]]

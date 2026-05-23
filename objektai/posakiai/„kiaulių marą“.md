@@ -51,6 +51,5 @@ tags:
 ### Susiję objektai
 - [[objektai/vietos/Kalvarija]]
 - [[objektai/vietos/Šiluva]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/zodynas/atšilimas]]
 - [[objektai/vietos/Žemaičių Kalvarija]]

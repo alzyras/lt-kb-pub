@@ -85,5 +85,6 @@ Pakeliui į suvažiavimą susitikę Vakarų Lietuvos (Jūros) ir Pietų Lietuvos
 - [[objektai/vietos/Radviliškis]]
 - [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/grupes/Pietų Lietuvos sritis]]
 - [[objektai/vietos/Vakarų Lietuva]]

@@ -76,6 +76,8 @@ Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų �
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Bolševikai]]
 - [[objektai/asmenys/K. Ladyga]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Zarasai]]
 - [[objektai/asmenys/M. Pečiulionis]]

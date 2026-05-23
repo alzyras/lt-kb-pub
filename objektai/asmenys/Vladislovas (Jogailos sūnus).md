@@ -86,6 +86,7 @@ Juk jau 1425 m. viename suvažiavime šlėkta pasirinko karalai­ tį Vladislov�
 
 ### Susiję objektai
 - [[objektai/ivykiai/1425 m. Bresto (Kujavijoj) seimas]]
+- [[objektai/grupes/Bajorai]]
 - [[objektai/vietos/Jedlno]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/vietos/Lietuva]]

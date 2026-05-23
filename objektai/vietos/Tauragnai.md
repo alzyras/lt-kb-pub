@@ -79,4 +79,8 @@ Dalį raitininkų pasiuntęs Tauragnų kryptimi, su likusiais vyko į Uteną. Bi
 - [[objektai/vietos/Paberžė]]
 - [[objektai/vietos/Utena]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/vietos/Butrimonys]]
+- [[objektai/vietos/Malėtai]]
+- [[objektai/vietos/Tauragnų pilis]]
+- [[objektai/vietos/Verkiai]]
 - [[objektai/vietos/Daugailiai]]

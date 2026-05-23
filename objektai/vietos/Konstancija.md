@@ -116,6 +116,8 @@ Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet d
 - [[objektai/vietos/Naugardas]]
 - [[objektai/autoriai/Prochaska]]
 - [[objektai/vietos/Pskovas]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/vietos/Airiogala]]
 - [[objektai/asmenys/Aleksandras (Moldavijos valdovas)]]

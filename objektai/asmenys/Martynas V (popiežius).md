@@ -56,5 +56,7 @@ Martynas V keliais atvejais ragino Vytautą pasitraukti nuo husitų.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Gniezno]]
+- [[objektai/grupes/Husitai]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Čekai]]
 - [[objektai/vietos/Čekija]]

@@ -81,3 +81,4 @@ Nenurodyta
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Sidabro dirbiniai]]
+- [[objektai/daiktai/Skydas]]

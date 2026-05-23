@@ -90,6 +90,7 @@ Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyk
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Nemunas]]
 - [[objektai/vietos/Prancūzija]]
+- [[objektai/grupes/Slavai]]
 - [[objektai/asmenys/Vaclovas]]
 - [[objektai/vietos/Vokietija]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

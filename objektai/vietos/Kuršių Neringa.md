@@ -59,7 +59,9 @@ Ji ne tik gynė svarbų kelią tarp Prūsų ir Livonijos per patogią Kuršių N
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Kuršas]]
+- [[objektai/grupes/Kuršiai]]
 - [[objektai/vietos/Livonija]]
 - [[objektai/vietos/Nemunas]]
-- [[objektai/grupes/Žemaičiai]]
+- [[objektai/vietos/Prūsai]]
+- [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/vietos/Prūsija]]

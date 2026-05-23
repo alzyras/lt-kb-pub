@@ -97,6 +97,9 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Alytus]]
+- [[objektai/grupes/Bolševikai]]
+- [[objektai/vietos/Daugai]]
+- [[objektai/vietos/Giedraičiai]]
 - [[objektai/vietos/Kaunas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/vietos/Lentvaris]]
@@ -104,4 +107,5 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Vievis]]
 - [[objektai/vietos/Vilnius]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

@@ -61,6 +61,13 @@ Lukšį (turėjusius Pirmojo pasaulinio karo kovų patirties) su 8 kareiviais, k
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Artilerija]]
+- [[objektai/grupes/Bolševikai]]
 - [[objektai/asmenys/J. Šarauskas]]
-- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Paobeliai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/vietos/Eigulių pilis]]
 - [[objektai/vietos/Juodikis miškas]]
+- [[objektai/asmenys/Povilas Lukšys]]
+- [[objektai/asmenys/V. Vainauskas]]
+- [[objektai/grupes/Lietuviai]]

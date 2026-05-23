@@ -110,4 +110,5 @@ Nenurodyta
 - [[objektai/vietos/Livonija]]
 - [[objektai/vietos/Nemunas]]
 - [[objektai/vietos/Polockas]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/vietos/Aukštaičių žemė]]

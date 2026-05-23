@@ -869,6 +869,7 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Maskva]]
+- [[objektai/zodynas/kaštelionas]]
 - [[objektai/zodynas/urėdas]]
 - [[objektai/zodynas/vietininkas]]
 - [[objektai/asmenys/Švitrigaila]]
@@ -954,4 +955,3 @@ Trakai šiame šaltinyje minimi kaip derybų ir valdžios centras, Kęstučio va
 - [[objektai/posakiai/Sigillum Vitowdi ducis in Tracken]]
 - [[objektai/asmenys/Vladislovas Jogailaitis]]
 - [[objektai/ivykiai/Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas]]
-- [[objektai/zodynas/kaštelionas]]

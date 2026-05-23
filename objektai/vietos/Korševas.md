@@ -60,4 +60,5 @@ nežinomi didesni Lietuvos puolituose 1363 m. „Lietuva paėmė Korševą“ - 
 - [[objektai/vietos/Donas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Totoriai]]
 - [[objektai/vietos/Sosnos upė]]

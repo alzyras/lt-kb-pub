@@ -45,5 +45,6 @@ Lietuviai tų knygpalaikių neėmė nė į rankas, o slaptųjų knygų skaičius
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Rusiškosios raidės]]

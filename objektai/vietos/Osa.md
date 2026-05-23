@@ -43,5 +43,7 @@ Savo tėvonija jis vadina beveik visas prūsų žemes iki dešiniojo Vyslos inta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Kulmas]]
+- [[objektai/vietos/Prūsai]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/vietos/Vysla]]
 - [[objektai/zodynas/tėvonija]]

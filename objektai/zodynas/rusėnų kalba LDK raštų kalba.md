@@ -115,6 +115,8 @@ tags:
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusėnai]]
+- [[objektai/grupes/Slavai]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/metrika]]

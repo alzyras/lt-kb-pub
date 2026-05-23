@@ -63,4 +63,5 @@ Jis buvo tačiau priverstas pripažinti « Kijevo ir visos Rusios» metropolitu 
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Polockas]]
+- [[objektai/grupes/Stačiatikiai]]
 - [[objektai/zodynas/metropolitas]]

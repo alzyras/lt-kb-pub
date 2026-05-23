@@ -65,4 +65,7 @@ Vis didesnę grėsmę ATR kelti ėmė į Europą besiveržianti Osmanų Turkija.
 - [[objektai/vietos/Livonija]]
 - [[objektai/vietos/Maskva]]
 - [[objektai/vietos/Prancūzija]]
+- [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/zodynas/petihorai]]
+- [[objektai/daiktai/Šarvuočiai]]
 - [[objektai/vietos/Turkija]]

@@ -55,6 +55,7 @@ tags:
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/vietos/Novosielsko]]
 - [[objektai/zodynas/kunigaikštija]]
+- [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/vietos/Liubutskas]]
 - [[objektai/vietos/Mcenskas]]
 - [[objektai/vietos/Peremišlis]]

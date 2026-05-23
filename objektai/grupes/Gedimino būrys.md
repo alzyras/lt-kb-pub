@@ -57,9 +57,9 @@ Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Buktos (Žaliosios) miškas]]
+- [[objektai/vietos/Daukšiai]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
-- [[objektai/vietos/Daukšiai]]
 - [[objektai/grupes/Edvardo Lajaus būrys]]
 - [[objektai/grupes/Juozo Pandeikos būrys]]
 - [[objektai/grupes/Jurgio Lajaus būrys]]

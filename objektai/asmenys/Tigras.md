@@ -73,3 +73,4 @@ Gi atsargusis Tigras buvo ginkluotas vokišku MG 36 [turėtų būti MG 34] kulko
 - [[objektai/grupes/NKGB]]
 - [[objektai/vietos/Viena]]
 - [[objektai/vietos/Prienai]]
+- [[objektai/grupes/Rusai]]

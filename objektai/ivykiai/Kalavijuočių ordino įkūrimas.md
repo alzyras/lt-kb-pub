@@ -63,3 +63,4 @@ Nenurodyta
 - [[objektai/asmenys/Albertas]]
 - [[objektai/asmenys/Albertas (Rygos vyskupas)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Kalavijuočių ordinas]]

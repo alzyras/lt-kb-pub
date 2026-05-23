@@ -189,6 +189,7 @@ Vėliau čia mokėsi visa eilė didžių veikėjų, kaip antai: Maironis, Jakšt
 - [[objektai/vietos/Kaunas]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/vietos/Daugėliškių miškas]]
 - [[objektai/vietos/Lesčiai]]

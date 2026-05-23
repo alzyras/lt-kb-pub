@@ -63,5 +63,6 @@ ir lenkų karaliaus Boleslovo Maldingojo 1264 m. privilegijų pavyz­ džiu.
 - [[objektai/vietos/Brasta]]
 - [[objektai/vietos/Gardinas]]
 - [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Čekai]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/vietos/Lietuva]]

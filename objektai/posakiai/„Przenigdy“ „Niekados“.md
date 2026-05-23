@@ -44,6 +44,7 @@ Czarkowski) brošiūra „Przenigdy“ („Niekados“), kuri lenkų ir lietuvi�
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Vilnius]]

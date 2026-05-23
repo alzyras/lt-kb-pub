@@ -910,6 +910,7 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
 - [[objektai/ivykiai/Mindaugo krikštas]]
 - [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/vietos/Viena]]
+- [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/unija]]
 - [[objektai/asmenys/Aldona Gediminaitė]]
 - [[objektai/zodynas/Arkivyskupija]]

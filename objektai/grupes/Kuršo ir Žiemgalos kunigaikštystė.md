@@ -71,5 +71,6 @@ Be lietuvių, mūšyje dalyvavo į pagalbą prieš mėnesį karaliaus atsiųsti 
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Viena]]
 - [[objektai/daiktai/Vėliavos]]
+- [[objektai/zodynas/raitarai]]
 - [[objektai/zodynas/rezervas]]
 - [[objektai/vietos/Žiemgala]]

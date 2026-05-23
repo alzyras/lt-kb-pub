@@ -53,9 +53,9 @@ tags:
 ### Susiję objektai
 - [[objektai/vietos/Dubysa]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Livonija]]
 - [[objektai/vietos/Venta]]
 - [[objektai/vietos/Šušvė]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/vietos/Ceklis]]
 - [[objektai/vietos/Kuršo Šventoji]]

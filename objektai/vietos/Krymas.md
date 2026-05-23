@@ -95,6 +95,7 @@ Pereskopo (Krymo) ordos chanui Tochtamyšui buvo pasisekę sujungti Ordą vėl, 
 - [[objektai/zodynas/petihorai]]
 - [[objektai/zodynas/saar]]
 - [[objektai/asmenys/Žygimantas Senasis]]
+- [[objektai/grupes/Totoriai]]
 - [[objektai/vietos/Kaffa]]
 - [[objektai/ivykiai/Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.)]]
 - [[objektai/vietos/Žemutinis Padnieprys]]

@@ -106,5 +106,6 @@ tags:
 - [[objektai/vietos/Užpaliai]]
 - [[objektai/asmenys/Vaclovas]]
 - [[objektai/asmenys/Vaišelga|Vaišelga (kunigaikštis)]]
+- [[objektai/vietos/Vaišvilčiai]]
 - [[objektai/zodynas/chanas]]
 - [[objektai/vietos/Čekija]]

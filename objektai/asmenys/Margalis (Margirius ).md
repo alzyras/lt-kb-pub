@@ -61,6 +61,7 @@ lietuvių didikai jau turėjo prilygti Vakarų Europos riteriams, tai iliustruoj
 ### Susiję objektai
 - [[objektai/vietos/Europa]]
 - [[objektai/daiktai/Ietis]]
+- [[objektai/daiktai/Kalavijai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/karyba]]
 - [[objektai/vietos/Čekija]]

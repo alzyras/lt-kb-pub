@@ -98,5 +98,7 @@ Kai « barzdoti vyrai» iš užjūrio puldinėjo Baltijos pajūrį, į tuos kari
 - [[objektai/vietos/Baltija]]
 - [[objektai/vietos/Kuršas]]
 - [[objektai/grupes/Kuršiai]]
+- [[objektai/daiktai/Laivai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Švedai]]
 - [[objektai/ivykiai/Kuršių sukilimas prieš danus (853 m.)]]

@@ -60,6 +60,7 @@ Sukilėlių pajėgos Sukilėlių kariuomenės pagrindą Panerių mūšyje sudar�
 ### Susiję objektai
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Paneriai]]
 - [[objektai/vietos/Poznanė]]
 - [[objektai/grupes/Poznanės raitininkų eskadronai]]
 - [[objektai/vietos/Trakai]]

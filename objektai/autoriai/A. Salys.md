@@ -110,7 +110,8 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Baltai]]
+- [[objektai/grupes/Slavai]]
 - [[objektai/vietos/Vysla]]
 - [[objektai/zodynas/prokalbė]]
 - [[objektai/vietos/Ceklio sritis]]
-- [[objektai/grupes/Žemaičiai]]

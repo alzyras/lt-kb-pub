@@ -50,6 +50,7 @@ N ors Rusijos imperijos vidaus politika nerusiškų imperijos regionų ir „pak
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Rusai]]
 - [[objektai/vietos/Rusija]]
 - [[objektai/asmenys/Aleksandras III]]
 - [[objektai/zodynas/„lenkų pradai“ „rusų pradai“]]

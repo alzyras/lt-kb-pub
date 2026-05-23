@@ -67,6 +67,5 @@ tags:
 - [[objektai/vietos/Pskovas]]
 - [[objektai/vietos/Salynas]]
 - [[objektai/vietos/Sūduva]]
-- [[objektai/grupes/Žemaičiai]]
-- [[objektai/vietos/Mūša]]
 - [[objektai/vietos/Vaišvilčiai]]
+- [[objektai/vietos/Mūša]]

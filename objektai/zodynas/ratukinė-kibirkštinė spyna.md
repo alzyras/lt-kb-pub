@@ -60,3 +60,4 @@ pradžioje buvo sukurta ratukinė-kibirkštinė spyna.
 - [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/etmonas]]
 - [[objektai/zodynas/hetmonas]]
+- [[objektai/grupes/Švedai]]

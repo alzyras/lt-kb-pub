@@ -43,5 +43,6 @@ Nebuvo aplenktos nė mokyklos: Kalvarijos, Padubysio ir Kolainių mokyklos buvo 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Kalvarija]]
 - [[objektai/vietos/Kolainiai]]
+- [[objektai/vietos/Kražiai]]
+- [[objektai/vietos/Kalvarija]]

@@ -153,3 +153,4 @@ Nenurodyta
 - [[objektai/grupes/Lenkai]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/savarankiškumas]]
+- [[objektai/grupes/Vokiečiai]]

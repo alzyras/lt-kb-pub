@@ -66,3 +66,4 @@ Nenurodyta
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Žygimantas]]
+- [[objektai/daiktai/Herbai]]

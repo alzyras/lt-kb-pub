@@ -126,3 +126,4 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
 - [[objektai/autoriai/Vygandas Marburgietis]]
 - [[objektai/zodynas/stabmeldys]]
 - [[objektai/zodynas/vyskupo teisėjas]]
+- [[objektai/vietos/Žiežmariai]]

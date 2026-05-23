@@ -183,6 +183,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Biržai]]
 - [[objektai/grupes/Bolševikai]]
 - [[objektai/vietos/Kupiškis]]
 - [[objektai/vietos/Lietuva]]
@@ -193,6 +194,8 @@ Nenurodyta
 - [[objektai/vietos/Rusija]]
 - [[objektai/vietos/Sovietų Rusija]]
 - [[objektai/vietos/Subačius]]
+- [[objektai/vietos/Troškūnai]]
+- [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Panevėžio rinktinė]]

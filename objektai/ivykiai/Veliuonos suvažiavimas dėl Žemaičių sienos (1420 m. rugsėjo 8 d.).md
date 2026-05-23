@@ -95,5 +95,5 @@ Nenurodyta
 - [[temos/ežeras]]
 
 ### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/vietos/Veliuona]]
-- [[objektai/grupes/Žemaičiai]]

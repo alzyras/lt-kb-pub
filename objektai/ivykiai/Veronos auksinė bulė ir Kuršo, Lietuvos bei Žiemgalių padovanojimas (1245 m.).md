@@ -71,3 +71,6 @@ Nenurodyta
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Palestina]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/grupes/Žiemgaliai]]

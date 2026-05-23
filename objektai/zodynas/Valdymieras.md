@@ -98,5 +98,4 @@ Vartojamos formos: `valdymierais`, `valdymierai`.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/zodynas/Kūrėjų kūrėjas|kūrėjų kūrėjas]]

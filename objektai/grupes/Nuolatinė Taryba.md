@@ -150,6 +150,7 @@ Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba n
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Rusija]]
+- [[objektai/grupes/Čartoriskiai]]
 - [[objektai/grupes/Gardino seimas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/organas]]

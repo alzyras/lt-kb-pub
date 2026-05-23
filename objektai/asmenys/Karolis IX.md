@@ -195,4 +195,5 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
 - [[objektai/vietos/Kuoknesės pilis]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Livonija]]
+- [[objektai/grupes/Švedai]]
 - [[objektai/vietos/Švedija]]

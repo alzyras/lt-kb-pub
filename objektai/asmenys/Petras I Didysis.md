@@ -109,4 +109,5 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
 - [[objektai/vietos/Livonija]]
 - [[objektai/vietos/Prūsija]]
 - [[objektai/vietos/Rusija]]
+- [[objektai/grupes/Švedai]]
 - [[objektai/vietos/Švedija]]

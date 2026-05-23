@@ -58,3 +58,4 @@ Krašto viduje jis tapo absoliutišku valdovu, kurio supykinti bijodami valdinia
 ### Susiję objektai
 - [[objektai/vietos/Europa]]
 - [[objektai/vietos/Maskva]]
+- [[objektai/grupes/Čekai]]

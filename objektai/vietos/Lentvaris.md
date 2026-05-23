@@ -56,6 +56,9 @@ Grojant „Internacionalą“, pulkas išžygiavo Lentvario kryptimi. Šiaurinė
 ### Susiję objektai
 - [[objektai/vietos/Jieznas]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Prienai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/zodynas/husarai]]
 - [[objektai/ivykiai/Pirmasis Vilniaus krašto okupavimas (1919 m. balandžio 19 d.)]]
 - [[objektai/vietos/Stakliškės]]
 - [[objektai/asmenys/V. Kapsukas-Mickevičius]]

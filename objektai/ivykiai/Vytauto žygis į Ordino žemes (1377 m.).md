@@ -147,6 +147,7 @@ Vytauto veiksmai sutrikdė ordino kariuomenės aprūpinimą.
 - [[objektai/vietos/Tamova]]
 - [[objektai/vietos/Užnemunė]]
 - [[objektai/vietos/Vilnius]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/asmenys/Vygandas]]
 - [[objektai/zodynas/maršalka]]
 - [[objektai/grupes/Lietuviai]]

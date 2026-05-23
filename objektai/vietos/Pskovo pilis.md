@@ -54,3 +54,4 @@ Pačią Pskovo pilį jis apjuosė akmens mūrais, kurie ligi šiol tebevadinami 
 - [[objektai/asmenys/Daumantas]]
 - [[objektai/vietos/Livonija]]
 - [[objektai/vietos/Pskovas]]
+- [[objektai/grupes/Stačiatikiai]]

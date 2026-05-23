@@ -59,6 +59,7 @@ Apie tai Lietuvos didysis etmonas Mykolas Radvila Rudasis žvalgų buvo greitai 
 ### Susiję objektai
 - [[objektai/daiktai/Artilerija]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Maskvėnai]]
 - [[objektai/vietos/Polockas]]
 - [[objektai/zodynas/etmonas]]
 - [[objektai/zodynas/hetmonas]]

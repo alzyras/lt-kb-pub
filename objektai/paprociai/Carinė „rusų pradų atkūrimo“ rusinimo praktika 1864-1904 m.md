@@ -140,7 +140,9 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
 - [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/vietos/Rusija]]
+- [[objektai/grupes/Stačiatikiai]]
 - [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/generalgubernatorius]]
 - [[objektai/zodynas/rusinimas]]

@@ -111,3 +111,4 @@ Nenurodyta
 - [[objektai/vietos/Naugardas]]
 - [[objektai/vietos/Viena]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/kunigaikščiai]]

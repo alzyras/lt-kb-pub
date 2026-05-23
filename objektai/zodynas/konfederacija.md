@@ -142,6 +142,7 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
 - [[objektai/grupes/Sapiegos]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/hetmonas]]
+- [[objektai/grupes/Švedai]]
 - [[objektai/grupes/Abiejų Tautų konfederacija]]
 - [[objektai/vietos/Alūksnė]]
 - [[objektai/ivykiai/Antrasis Respublikos padalinimas (1793 m.)]]

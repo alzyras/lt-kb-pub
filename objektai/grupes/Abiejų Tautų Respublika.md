@@ -484,6 +484,7 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Anglija]]
+- [[objektai/grupes/Bajorai]]
 - [[objektai/zodynas/Baroko epocha]]
 - [[objektai/vietos/Didžioji Lenkija]]
 - [[objektai/vietos/Europa]]

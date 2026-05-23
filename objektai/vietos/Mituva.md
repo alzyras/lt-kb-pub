@@ -62,6 +62,8 @@ Livonijos ir Prūsų kryžiuočiai Pabaltijo žemių okupacijos eigoje pirmą ka
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/vietos/Livonija]]
 - [[objektai/vietos/Nemunas]]
+- [[objektai/vietos/Prūsai]]
 - [[objektai/vietos/Viena]]
+- [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/vietos/Karšuvos sritis]]
 - [[objektai/vietos/Jurbarkas]]

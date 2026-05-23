@@ -58,4 +58,5 @@ Tokiai didelei Vytauto valstybei anais laikais galėjo prilygti tik Vokiečiu im
 - [[objektai/vietos/Dniepras]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Mozūrija]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/grupes/Liuksemburgiečių dinastija]]

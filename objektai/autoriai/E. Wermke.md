@@ -69,3 +69,4 @@ Wermke : Bibliographie der Geschichte von Ostund Westpreußen (bis 1929). Wermke
 ### Susiję objektai
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Vokiečiai]]

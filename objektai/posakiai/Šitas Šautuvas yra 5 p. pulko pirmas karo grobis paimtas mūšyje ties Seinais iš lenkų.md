@@ -64,4 +64,5 @@ Užrašas ant pritvirtintos prie buožės lentelės: „Šitas Šautuvas yra 5 p
 - [[objektai/daiktai/Artilerija]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Marijampolė]]
+- [[objektai/vietos/Seinai]]
 - [[objektai/zodynas/karo grobis]]

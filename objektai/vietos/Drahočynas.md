@@ -85,6 +85,7 @@ Brastoje (pirmos žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko Litev
 - [[objektai/vietos/Mozūrija]]
 - [[objektai/vietos/Pronskas]]
 - [[objektai/vietos/Trakai]]
+- [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/paliaubos]]
 - [[objektai/paprociai/Vytauto bažnyčių statymas ir vienuolynų steigimas]]

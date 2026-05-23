@@ -389,6 +389,7 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Prūsai]]
 - [[objektai/vietos/Prūsija]]
 - [[objektai/grupes/Bartai]]
 - [[objektai/vietos/Insterburgas]]

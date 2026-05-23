@@ -152,5 +152,11 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
 ### Susiję objektai
 - [[objektai/vietos/Kėdainiai]]
 - [[objektai/grupes/Švedai]]
+- [[objektai/ivykiai/Antrasis Panevėžio puolimas]]
+- [[objektai/vietos/Kupiškis]]
 - [[objektai/vietos/Olyka]]
+- [[objektai/grupes/Panevėžio rinktinė]]
+- [[objektai/vietos/Subačius]]
+- [[objektai/vietos/Troškūnai]]
 - [[objektai/vietos/Sluckas]]
+- [[objektai/vietos/Apaščia]]

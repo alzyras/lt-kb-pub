@@ -95,5 +95,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/maršalka]]
 - [[objektai/zodynas/statutas]]

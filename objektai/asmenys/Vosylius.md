@@ -109,6 +109,7 @@ Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsil
 - [[objektai/vietos/Maskva]]
 - [[objektai/vietos/Odojevas]]
 - [[objektai/vietos/Rusija]]
+- [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/chanas]]
 - [[objektai/asmenys/Elžbieta]]
 - [[objektai/vietos/Pronskas]]

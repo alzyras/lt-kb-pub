@@ -82,4 +82,6 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Daugai]]
 - [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Troškūnai]]

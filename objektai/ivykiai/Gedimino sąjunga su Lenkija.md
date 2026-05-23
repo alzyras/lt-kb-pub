@@ -127,6 +127,7 @@ Nenurodyta
 - [[objektai/asmenys/Lokietka]]
 - [[objektai/vietos/Płockas]]
 - [[objektai/asmenys/Traidenis]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/seniūnas]]
 - [[objektai/zodynas/unija]]
 - [[objektai/asmenys/Kazimieras (Lokietkos sūnus)]]

@@ -75,6 +75,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Bolševikai]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/NKVD]]
 - [[objektai/vietos/Sniečkus]]

@@ -68,10 +68,12 @@ mirė Jogailaičiams priešiškas (A oN Vengrijos karalius Motiejus Huniadis oo 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Jogailaičiai]]
 - [[objektai/vietos/Kijevas]]
 - [[objektai/vietos/Kleckas]]
 - [[objektai/vietos/Krymas]]
 - [[objektai/vietos/Lvovas]]
+- [[objektai/grupes/Totoriai]]
 - [[objektai/vietos/Turkija]]
 - [[objektai/vietos/Vengrija]]
 - [[objektai/vietos/Vilnius]]

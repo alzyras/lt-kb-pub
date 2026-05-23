@@ -76,4 +76,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/vietos/Lietuva]]
 - [[objektai/daiktai/Pistoletas]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/daiktai/Pistoletas-kulkosvaidis MP 18]]

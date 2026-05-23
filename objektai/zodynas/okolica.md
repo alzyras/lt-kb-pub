@@ -48,4 +48,5 @@ Ypač tas ryškiai matyti, palyginus lietuviškąjį kaimą su greta esančiomis
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Lietuviai]]

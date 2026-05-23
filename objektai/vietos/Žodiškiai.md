@@ -60,6 +60,7 @@ Gansiausko f-ja), Žodiškiuose (Minkevičių f-ja), Brastoje (vicekanclerio L.
 - [[objektai/vietos/Gardinas]]
 - [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
 - [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Kražiai]]
 - [[objektai/vietos/Minskas]]
 - [[objektai/vietos/Pinskas]]
 - [[objektai/vietos/Sluckas]]

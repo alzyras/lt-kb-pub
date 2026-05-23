@@ -53,5 +53,7 @@ Jie buvo pasiekę Nalšėnų žemę^144.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Nalšėnai]]
+- [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/chanas]]
 - [[objektai/asmenys/Burundajus]]

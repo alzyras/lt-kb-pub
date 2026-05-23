@@ -67,6 +67,7 @@ Nesugriautos liko tik Karaliaučiaus, Baigos, Elbingo ir Kulmo, t. Lenkija atgav
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Aisčiai]]
 - [[objektai/vietos/Dancigas]]
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Marijenburgas]]

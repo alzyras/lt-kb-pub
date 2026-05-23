@@ -115,7 +115,9 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
 ### Susiję objektai
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Livonija]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Vladislovas]]
+- [[objektai/grupes/Švedai]]
 - [[objektai/grupes/Lenkijos kariuomenė]]
 - [[objektai/grupes/Maskvėnai]]
 - [[objektai/vietos/Smolenskas]]

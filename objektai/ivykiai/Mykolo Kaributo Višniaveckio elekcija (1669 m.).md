@@ -64,5 +64,6 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Pacai]]
 - [[objektai/asmenys/Kaributas]]
 - [[objektai/asmenys/Mykolas]]

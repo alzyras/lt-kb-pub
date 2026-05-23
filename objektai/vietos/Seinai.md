@@ -124,5 +124,12 @@ Norėdama atskirti ją nuo Vilniaus ir Žemaičių vyskupų įtakos, Prūsijos v
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/A. Jakaitis]]
 - [[objektai/daiktai/Ginklai ir ginkluotė]]
+- [[objektai/asmenys/K. Ramanauskas]]
 - [[objektai/vietos/Punskas]]
+- [[objektai/vietos/Vatikanas]]
+- [[objektai/vietos/Veisėjai]]
+- [[objektai/zodynas/homiletika]]
+- [[objektai/posakiai/Šitas Šautuvas yra 5 p. pulko pirmas karo grobis paimtas mūšyje ties Seinais iš lenkų]]
+- [[objektai/vietos/Vigrai]]

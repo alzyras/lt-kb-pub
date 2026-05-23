@@ -74,6 +74,7 @@ Nors lietuviai jau nuo Švitrigailos laikų rinkosi sau kunigaikščius, tačiau
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/unija]]
+- [[objektai/grupes/Čekai]]
 - [[objektai/asmenys/Švitrigaila]]
 - [[objektai/grupes/Gediminaičių šeima]]
 - [[objektai/asmenys/Kazimieras Jogailaitis]]

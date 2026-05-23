@@ -66,6 +66,8 @@ Ketvirtasis vokiečių ordino magistras Hermanas Salza, gavęs Mozūrijos kuniga
 - [[objektai/asmenys/Hermanas]]
 - [[objektai/vietos/Mozūrija]]
 - [[objektai/vietos/Palestina]]
+- [[objektai/vietos/Prūsai]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Kryžiuočių ordinas]]

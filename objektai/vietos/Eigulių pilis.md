@@ -55,6 +55,7 @@ Tuo pat laiku (1382 birželio gale) kryžiuočiai įsiveržę Lietuvon ir sunaik
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Eiguliai]]
 - [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
 - [[objektai/vietos/Kaunas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]

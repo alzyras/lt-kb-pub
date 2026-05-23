@@ -64,5 +64,6 @@ Kai dėl įtakos Naugarde varžėsi Tverės ir Maskvos kunigaikščiai, Gedimina
 - [[objektai/vietos/Maskva]]
 - [[objektai/vietos/Naugardas]]
 - [[objektai/vietos/Pskovas]]
+- [[objektai/grupes/Totoriai]]
 - [[objektai/vietos/Tverė]]
 - [[objektai/zodynas/vietininkas]]

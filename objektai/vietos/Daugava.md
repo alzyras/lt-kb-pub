@@ -83,7 +83,9 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Latviai]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/zodynas/Įšleitė|įšleitė]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/vietos/Latvija]]

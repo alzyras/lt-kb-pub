@@ -92,6 +92,7 @@ Protestantizmas labai greitai pasiekė Lietuvą. XVI amžiuje užplūdusi protes
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Protestantai]]
 - [[objektai/paprociai/Baudžiauninkų tikėjimo priklausomybė nuo pono paskirto kunigo]]
 - [[objektai/grupes/Biržų Radvilos]]
 - [[objektai/grupes/Brandenburgo elektoriai]]

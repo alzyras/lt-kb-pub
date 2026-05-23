@@ -65,3 +65,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Baltija]]
+- [[objektai/grupes/Bermontininkai]]
+- [[objektai/grupes/Vokiečiai]]

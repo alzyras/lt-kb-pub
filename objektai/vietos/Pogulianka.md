@@ -51,6 +51,7 @@ Stepono bažnyčios ir Poguliankos rajonų.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Kazokai]]
 - [[objektai/asmenys/Leontijus Bennigsenas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/A. Tučkovas]]

@@ -57,4 +57,3 @@ Lietuvai atiteko tuomet dar menkai naudingas pajūris nuo Palangos iki Kuršo Š
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Minija]]
 - [[objektai/vietos/Palanga]]
-- [[objektai/grupes/Žemaičiai]]

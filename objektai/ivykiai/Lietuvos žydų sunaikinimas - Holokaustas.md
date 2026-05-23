@@ -163,3 +163,4 @@ Nenurodyta
 - [[objektai/vietos/Estija]]
 - [[objektai/vietos/Latvija]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Žydai]]

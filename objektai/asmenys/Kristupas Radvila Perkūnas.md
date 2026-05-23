@@ -151,6 +151,7 @@ Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Chodkevičiai]]
 - [[objektai/asmenys/Jonas Chodkevičius]]
 - [[objektai/vietos/Livonija]]
 - [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]

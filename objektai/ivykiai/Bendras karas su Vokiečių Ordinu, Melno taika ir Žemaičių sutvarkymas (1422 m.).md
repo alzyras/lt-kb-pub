@@ -153,5 +153,5 @@ Nenurodyta
 - [[objektai/vietos/Breslavas]]
 - [[objektai/vietos/Kėzmarkas]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/grupes/Žemaičiai]]

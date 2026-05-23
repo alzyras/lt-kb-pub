@@ -100,7 +100,6 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Jonas XXIII]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/vietos/Bazelis]]
 - [[objektai/asmenys/Dlugošas]]
 - [[objektai/asmenys/Gr. Camblakas]]

@@ -47,5 +47,6 @@ tags:
 ### Susiję objektai
 - [[objektai/vietos/Europa]]
 - [[objektai/grupes/Kazokai]]
+- [[objektai/vietos/Kražiai]]
 - [[objektai/ivykiai/Kražių įvykiai]]
 - [[objektai/grupes/Lietuviai]]

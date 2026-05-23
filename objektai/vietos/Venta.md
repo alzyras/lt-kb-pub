@@ -53,10 +53,10 @@ tags:
 ### Susiję objektai
 - [[objektai/vietos/Dubysa]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Livonija]]
 - [[objektai/vietos/Minija]]
 - [[objektai/vietos/Šušvė]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/vietos/Ceklio sritis]]
 - [[objektai/vietos/Ceklis]]
 - [[objektai/zodynas/Medė|medė]]

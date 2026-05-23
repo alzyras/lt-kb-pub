@@ -103,6 +103,7 @@ Nastopka. Nastopkos vadovaujamos 11 brigados dalys veikė šiaurinėje Lietuvos 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/1-oji pėstininkų divizija]]
+- [[objektai/grupes/Bolševikai]]
 - [[objektai/vietos/Daugpilis]]
 - [[objektai/vietos/Kaunas]]
 - [[objektai/vietos/Lietuva]]

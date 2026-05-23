@@ -78,4 +78,3 @@ Nenurodyta
 - [[objektai/vietos/Vorskla]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/suverenas]]
-- [[objektai/grupes/Žemaičiai]]

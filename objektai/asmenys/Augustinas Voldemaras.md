@@ -274,6 +274,7 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
 - [[objektai/zodynas/konstitucijos]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/daiktai/Šarvuočiai]]
+- [[objektai/grupes/Žydai]]
 - [[objektai/posakiai/„vidurainės [A. Smetonos terminas – Red.] linijos“]]
 - [[objektai/asmenys/A. Voldemaras]]
 - [[objektai/asmenys/Dovas Zaunius]]

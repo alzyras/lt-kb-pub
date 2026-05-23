@@ -75,3 +75,4 @@ Nenurodyta
 - [[objektai/vietos/Polockas]]
 - [[objektai/vietos/Racionžas]]
 - [[objektai/vietos/Ryga]]
+- [[objektai/grupes/Vokiečiai]]

@@ -59,5 +59,6 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Gelvonai]]
 - [[objektai/asmenys/Švitrigaila]]
 - [[objektai/vietos/Pabaiskas]]

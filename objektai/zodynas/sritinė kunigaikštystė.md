@@ -51,3 +51,4 @@ Tik Lietuvos feodalizmas buvo kiek kitoks: jis skyrėsi nuo vakarų Europos feod
 - [[objektai/vietos/Europa]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/feodalizmas]]
+- [[objektai/zodynas/kunigaikščiai]]

@@ -65,7 +65,7 @@ tags:
 - [[temos/didikas]]
 
 ### Susiję objektai
+- [[objektai/grupes/Bajorai]]
 - [[objektai/vietos/Konstancija]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/vaivada]]
-- [[objektai/grupes/Žemaičiai]]

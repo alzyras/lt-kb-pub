@@ -88,9 +88,11 @@ Atgal grįžtantį priešą prie Strėvos upės pavijo Lietuvos kariuomenė. J, 
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/daiktai/Lankai]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Polockas]]
 - [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Rusėnai]]
 - [[objektai/vietos/Semba]]
 - [[objektai/vietos/Smolenskas]]
 - [[objektai/vietos/Strėva]]

@@ -69,5 +69,6 @@ Lenino, J. Leniną, tačiau ilgainiui, ypač Dainų šventėse, tai liko apvalka
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/posakiai/„tautinė pagal formą, socialistinė pagal turinį“]]
+- [[objektai/daiktai/Drabužiai]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/ivykiai/Lietuvos himno „Tautiška giesmė“ uždraudimas (1950 m.)]]

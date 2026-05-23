@@ -104,6 +104,7 @@ Nenurodyta
 - [[objektai/grupes/Lenkai]]
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/vietos/Rusija]]

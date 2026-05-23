@@ -50,4 +50,5 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Prūsija]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Vokiečiai]]

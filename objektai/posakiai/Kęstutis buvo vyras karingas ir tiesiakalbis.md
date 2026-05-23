@@ -57,5 +57,6 @@ Net Dlugošas, kuris savo plačioje kronikoje gana šykščiai apie Lietuvos kun
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/paprociai/Kęstučio riteriškų papročių laikymasis]]
 - [[objektai/asmenys/Dlugošas]]

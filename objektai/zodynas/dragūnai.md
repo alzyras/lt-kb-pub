@@ -80,3 +80,4 @@ Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstininkai, kurie m
 - [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/vietos/Lojevka upė]]
+- [[objektai/asmenys/M. P. Sapiega]]

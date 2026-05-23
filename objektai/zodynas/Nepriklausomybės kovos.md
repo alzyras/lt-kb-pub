@@ -63,7 +63,9 @@ Gimstanti Pirmoji Lietuvos Respublika 1919-1920 m. turėjo kariauti Nepriklausom
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/grupes/Bermontininkai]]
 - [[objektai/vietos/Jieznas]]
+- [[objektai/grupes/Lenkai]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuvos Respublika]]
 - [[objektai/vietos/Radviliškis]]

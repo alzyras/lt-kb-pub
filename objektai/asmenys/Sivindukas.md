@@ -63,3 +63,4 @@ Be Naugardo, Pskovo, Tverės bei kitų sričių išrengtų raitelių ir Maskvos 
 - [[objektai/vietos/Smolenskas]]
 - [[objektai/vietos/Tverė]]
 - [[objektai/zodynas/murza]]
+- [[objektai/grupes/Totoriai]]

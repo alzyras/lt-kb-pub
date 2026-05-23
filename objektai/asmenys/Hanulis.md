@@ -60,6 +60,7 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Dubysa]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/vietos/Livonija]]
-- [[objektai/grupes/Žemaičiai]]
+- [[objektai/vietos/Prūsai]]
 - [[objektai/ivykiai/Jogailos sugrįžimas į Vilnių (1382 m. birželio 12 d.)]]

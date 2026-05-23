@@ -87,6 +87,7 @@ Archeolo­ giniai duomens parodo apie 650 m. prasidedančią didelę švedų eks
 - [[objektai/grupes/Romai]]
 - [[objektai/vietos/Vokietija]]
 - [[objektai/zodynas/ekspansija]]
+- [[objektai/grupes/Švedai]]
 - [[objektai/vietos/Greifsvaldas]]
 - [[objektai/vietos/Grobinė]]
 - [[objektai/vietos/Sauslaukė]]

@@ -85,4 +85,3 @@ Nenurodyta
 - [[objektai/zodynas/unija]]
 - [[objektai/ivykiai/Žalgirio mūšis]]
 - [[objektai/vietos/Žalgiris]]
-- [[objektai/grupes/Žemaičiai]]

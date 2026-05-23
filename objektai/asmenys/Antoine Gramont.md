@@ -92,6 +92,7 @@ LDK didysis etmonas pasiuntė keletą lengvosios kavalerijos - „lisovčikų“
 - [[objektai/grupes/Kazokai]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Prancūzija]]
+- [[objektai/grupes/Totoriai]]
 - [[objektai/vietos/Ukraina]]
 - [[objektai/zodynas/etmonas]]
 - [[objektai/zodynas/flangas]]

@@ -85,3 +85,6 @@ kairiajame Dauguvos vidurupio krante, siekdami dabartines Utenos ir Zarasų apsk
 - [[objektai/vietos/Dauguva]]
 - [[objektai/vietos/Latvija]]
 - [[objektai/vietos/Utena]]
+- [[objektai/vietos/Zarasai]]
+- [[objektai/vietos/Padauguvio Sėla]]
+- [[objektai/grupes/Žiemgaliai]]

@@ -90,6 +90,10 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/vietos/Tauragnai]]
 - [[objektai/vietos/Vilnius]]
+- [[objektai/daiktai/Vilniaus Verkių rūmų interjeras]]
+- [[objektai/asmenys/Ignotas Masalskis|Ignotas Masalskis (vyskupas, XVIII–XIX a.)]]
+- [[objektai/asmenys/Martynas Knakfusas|Martynas Knakfusas (vyskupas, XVIII–XIX a.)]]
 - [[objektai/vietos/Malėtai]]
 - [[objektai/vietos/Tauragnų pilis]]

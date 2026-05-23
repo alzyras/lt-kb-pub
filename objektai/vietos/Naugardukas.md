@@ -390,6 +390,7 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Domininkonų ordinas]]
 - [[objektai/asmenys/Liudvikas]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/grupes/Pranciškonų ordinas]]

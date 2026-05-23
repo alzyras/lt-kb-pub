@@ -63,4 +63,6 @@ tags:
 - [[objektai/vietos/Nemunas]]
 - [[objektai/vietos/Rusija]]
 - [[objektai/vietos/Sovietų Rusija]]
+- [[objektai/vietos/Suvalkai]]
 - [[objektai/vietos/Viena]]
+- [[objektai/vietos/Druskininkai]]

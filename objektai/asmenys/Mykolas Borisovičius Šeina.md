@@ -69,6 +69,7 @@ Rusų pajėgų padėtis ėmė Rusų kariuomenės vado, Mykolo Borisovičiaus Še
 - [[objektai/vietos/Krymas]]
 - [[objektai/grupes/Krymo totoriai]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/vietos/Rusija]]
 - [[objektai/vietos/Smolenskas]]
 - [[objektai/grupes/Totoriai]]

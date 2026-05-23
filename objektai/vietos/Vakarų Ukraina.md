@@ -51,3 +51,4 @@ Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/vietos/Ukraina]]
 - [[objektai/vietos/Vitebskas]]
+- [[objektai/grupes/Rusėnai]]

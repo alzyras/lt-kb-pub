@@ -45,3 +45,4 @@ Tačiau Vidurio ir Rytų Europoje išpopuliarėjo Johano Gotfrydo Herderio (Joha
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Europa]]
+- [[objektai/grupes/Vokiečiai]]

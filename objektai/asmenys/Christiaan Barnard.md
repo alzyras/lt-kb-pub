@@ -49,3 +49,4 @@ O juk reikėtų prisiminti, kad pirmąją pasaulyje žmogaus širdies persodinim
 - [[objektai/vietos/Pietų Afrikos Respublika]]
 - [[objektai/ivykiai/Pirmoji pasaulyje žmogaus širdies persodinimo operacija (1967 m.)]]
 - [[objektai/vietos/Afrika]]
+- [[objektai/zodynas/Adynos|adynos]]

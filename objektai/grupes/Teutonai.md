@@ -72,5 +72,10 @@ Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyve
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Žemaičiai]]
+- [[objektai/asmenys/Albertas]]
+- [[objektai/asmenys/Albertas (Rygos vyskupas)]]
+- [[objektai/asmenys/Konradas fon Jungingenas]]
+- [[objektai/autoriai/R. Jasas]]
+- [[objektai/ivykiai/Vilniaus pokalbiai su popiežiaus legatais dėl Lietuvos krikšto (1324 m. gegužės gale)]]
+- [[objektai/asmenys/Visvaldis]]
 - [[objektai/vietos/Žemaičių kraštas]]

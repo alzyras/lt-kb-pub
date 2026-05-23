@@ -91,6 +91,7 @@ Kartu su jais atvyko keli Jogailos broliai, Cereteno^1 ) vyskupas Andrius Vosyli
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/vietos/Rusija]]
+- [[objektai/grupes/Vengrai]]
 - [[objektai/vietos/Vilnius]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Vosylius]]

@@ -60,4 +60,5 @@ tags:
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
 - [[objektai/grupes/Pietų Lietuvos (Nemuno) sritis]]
+- [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/grupes/Lietuvos gynybos pajėgos]]

@@ -65,4 +65,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Šarvai]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]

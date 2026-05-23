@@ -145,7 +145,7 @@ Staiga vienu puolimu jis suvaldė Daniją, o padaręs čia taiką, ties Narva (E
 - [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Neumarkas]]
-- [[objektai/grupes/Žemaičiai]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/vietos/Alūksnė]]
 - [[objektai/grupes/Dono kazokų pulkas]]
 - [[objektai/asmenys/E. Sabeckis]]

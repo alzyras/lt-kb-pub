@@ -61,4 +61,5 @@ Ramanausko grupė (2-ojo pulko batalionas) iš Beržininko žygiuoti per Gibus i
 - [[temos/ežeras]]
 
 ### Susiję objektai
+- [[objektai/vietos/Seinai]]
 - [[objektai/vietos/Vokietija]]

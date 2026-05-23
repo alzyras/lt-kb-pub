@@ -131,4 +131,5 @@ Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiau
 ### Susiję objektai
 - [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Oskaras Milašius|Oskaras Milašius (poetas)]]
+- [[objektai/grupes/Žydai]]
 - [[objektai/asmenys/Augustinas Voldemaras]]

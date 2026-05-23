@@ -169,6 +169,7 @@ tags:
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Marijenburgas]]
 - [[objektai/vietos/Nemunas]]
+- [[objektai/vietos/Suvalkai]]
 - [[objektai/vietos/Panemunė]]
 - [[objektai/ivykiai/Jogailos ir Vytauto susitaikinimas]]
 - [[objektai/grupes/Livonijos ordinas]]

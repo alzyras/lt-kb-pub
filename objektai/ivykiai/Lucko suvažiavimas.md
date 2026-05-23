@@ -92,6 +92,7 @@ Nenurodyta
 - [[objektai/vietos/Pskovas]]
 - [[objektai/vietos/Tverė]]
 - [[objektai/vietos/Vengrija]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/asmenys/Zigmantas I]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/daiktai/Vytauto ir Julijonos karūnos]]

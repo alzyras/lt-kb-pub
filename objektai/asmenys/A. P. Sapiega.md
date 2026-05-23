@@ -54,7 +54,9 @@ Sapiega ir maršalas A.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Respublikonai]]
+- [[objektai/grupes/Totoriai]]
 - [[objektai/daiktai/Vėliavos]]
 - [[objektai/grupes/Sapiegų kariuomenė]]
 - [[objektai/zodynas/maršalas]]

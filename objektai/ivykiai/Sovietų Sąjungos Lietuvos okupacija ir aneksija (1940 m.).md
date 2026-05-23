@@ -83,6 +83,7 @@ Nenurodyta
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/SSRS]]
 - [[objektai/grupes/Sovietų Sąjunga]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/vietos/Estija]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

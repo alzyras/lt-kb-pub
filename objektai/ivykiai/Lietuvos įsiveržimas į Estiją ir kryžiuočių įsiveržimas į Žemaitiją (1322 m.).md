@@ -68,4 +68,4 @@ Nenurodyta
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Livonija]]
-- [[objektai/grupes/Žemaičiai]]
+- [[objektai/vietos/Prūsai]]

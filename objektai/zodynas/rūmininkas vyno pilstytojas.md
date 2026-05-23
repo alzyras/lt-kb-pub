@@ -59,6 +59,7 @@ tags:
 ### Susiję objektai
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/vietos/Marienburgas]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/luomas]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/Pilies ir rūmų pareigybės|pilies ir rūmų pareigybės]]

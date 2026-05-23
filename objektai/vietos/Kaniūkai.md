@@ -58,3 +58,4 @@ Kolona pro Kaniūkų bei Pakalnių kaimus turėjo veržtis Utenos kryptimi.
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Utena]]
 - [[objektai/vietos/Viena]]
+- [[objektai/asmenys/M. Pečiulionis]]

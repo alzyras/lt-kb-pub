@@ -283,6 +283,7 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
 - [[objektai/vietos/Gardinas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/vietos/Nemunas]]
+- [[objektai/vietos/Suvalkai]]
 - [[objektai/vietos/Aukokalnis]]
 - [[objektai/autoriai/Dalius Žygelis]]
 - [[objektai/vietos/Dubysos upė]]

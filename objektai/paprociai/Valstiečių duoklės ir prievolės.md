@@ -120,5 +120,7 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/zodynas/sidabrinė duoklė]]
+- [[objektai/grupes/Bajorai]]
 - [[objektai/zodynas/bajorija]]
+- [[objektai/grupes/Valakai]]
 - [[objektai/ivykiai/Valakų reforma (1557 m.)]]

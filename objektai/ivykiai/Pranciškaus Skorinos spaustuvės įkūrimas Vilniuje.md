@@ -59,3 +59,4 @@ Nenurodyta
 - [[objektai/vietos/Paduva]]
 - [[objektai/vietos/Polockas]]
 - [[objektai/autoriai/Pranciškus Skorina]]
+- [[objektai/grupes/Rusėnai]]

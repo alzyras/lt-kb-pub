@@ -55,4 +55,3 @@ Jaśkiewicz : A Study in Lithuanian Mythologie.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Vilnius]]
-- [[objektai/grupes/Žemaičiai]]

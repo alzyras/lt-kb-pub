@@ -95,6 +95,7 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
 
 ### Susiję objektai
 - [[objektai/vietos/Kazanė]]
+- [[objektai/grupes/Maskvėnai]]
 - [[objektai/vietos/Smolenskas]]
 - [[objektai/zodynas/chanas]]
 - [[objektai/ivykiai/Disidentinio judėjimo pradžia Lietuvoje (1960 m.)]]
@@ -117,4 +118,5 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
 - [[objektai/zodynas/taikos tarpininkai taikos teisėjai]]
 - [[objektai/zodynas/švietimo apygarda]]
 - [[objektai/posakiai/„etnologinėmis sienomis“]]
+- [[objektai/grupes/Totoriai]]
 - [[objektai/asmenys/Aleksandras (Moldavijos valdovas)]]

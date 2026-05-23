@@ -71,4 +71,3 @@ Martynas V pa­ skyrė Vytautą vikaru Rusijos kraštuose ir Livonijos vyskupij�
 - [[objektai/vietos/Ryga]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/kontribucija]]
-- [[objektai/grupes/Žemaičiai]]

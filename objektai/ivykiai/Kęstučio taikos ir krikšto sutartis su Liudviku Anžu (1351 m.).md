@@ -75,4 +75,5 @@ Nenurodyta
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Liudvikas]]
+- [[objektai/grupes/Totoriai]]
 - [[objektai/vietos/Vengrija]]

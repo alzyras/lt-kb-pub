@@ -116,6 +116,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
 ### Susiję objektai
 - [[objektai/grupes/Ateitis]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Protestantai]]
 - [[objektai/vietos/Vilnius]]
 - [[objektai/vietos/Šv. Jonų bažnyčia]]
 - [[objektai/grupes/Katalikų Bažnyčia]]

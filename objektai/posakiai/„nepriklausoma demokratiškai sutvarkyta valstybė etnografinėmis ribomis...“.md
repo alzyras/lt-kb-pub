@@ -49,5 +49,6 @@ Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos valstyb�
 ### Susiję objektai
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Vokietija]]
+- [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Rusija]]

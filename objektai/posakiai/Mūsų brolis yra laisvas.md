@@ -59,8 +59,8 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Bajorai]]
 - [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
 - [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Bajorai]]
-- [[objektai/vietos/Lenkija]]
 - [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/vietos/Lenkija]]

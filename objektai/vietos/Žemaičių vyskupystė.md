@@ -55,7 +55,6 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
 - [[objektai/autoriai/Motiejus Valančius]]
 - [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/vyskupystė]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/paprociai/Blaivybės brolijų ir blaivybės skelbimo praktika]]
 - [[objektai/ivykiai/Blaivybės brolijų kūrimas ir plitimas Žemaičių vyskupystėje (1858—1859 m.)]]
 - [[objektai/vietos/Vilniaus vyskupystė]]

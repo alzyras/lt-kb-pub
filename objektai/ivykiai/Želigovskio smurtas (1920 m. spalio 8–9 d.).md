@@ -117,10 +117,13 @@ Nenurodyta
 - [[temos/paliaubos]]
 
 ### Susiję objektai
+- [[objektai/grupes/Bolševikai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/vietos/Suvalkai]]
 - [[objektai/vietos/Viena]]
 - [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/žygis]]

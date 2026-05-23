@@ -105,4 +105,6 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
 - [[objektai/vietos/Torunė]]
 - [[objektai/vietos/Vokietija]]
 - [[objektai/vietos/Vysla]]
+- [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/magistras]]
+- [[objektai/vietos/Prūsai]]

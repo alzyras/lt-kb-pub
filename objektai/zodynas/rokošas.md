@@ -73,3 +73,4 @@ Lietuvoje tada tik ką buvo aprimęs karas su švedais, o Lenkijoje ėjo vidaus 
 - [[objektai/asmenys/Jonas Karolis Katkevičius]]
 - [[objektai/vietos/Paidė]]
 - [[objektai/vietos/Viljandis]]
+- [[objektai/grupes/Švedai]]

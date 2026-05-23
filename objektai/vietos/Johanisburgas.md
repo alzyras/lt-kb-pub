@@ -63,5 +63,6 @@ tags:
 - [[objektai/vietos/Röselis]]
 - [[objektai/vietos/Tilžė]]
 - [[objektai/vietos/Vėluva]]
+- [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/vietos/Įsrutis]]
 - [[objektai/vietos/Viena]]

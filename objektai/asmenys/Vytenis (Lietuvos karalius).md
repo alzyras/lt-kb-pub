@@ -96,5 +96,6 @@ tags:
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Livonija]]
 - [[objektai/vietos/Piltenė]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/vietos/Ryga]]
 - [[objektai/vietos/Semba]]

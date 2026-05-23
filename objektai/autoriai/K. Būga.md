@@ -108,8 +108,11 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Aisčiai]]
 - [[objektai/grupes/Aušrėnai]]
+- [[objektai/grupes/Baltai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Svebai]]
 - [[objektai/zodynas/glesum]]
 - [[objektai/zodynas/Aistuva]]
 - [[objektai/zodynas/Eistr]]

@@ -151,6 +151,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Aisčiai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/vietos/Prūsai]]
 - [[objektai/vietos/Vokietija]]

@@ -78,6 +78,7 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Kalavijuočių ordinas]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Livonija]]

@@ -60,6 +60,7 @@ Sleževičius.
 - [[objektai/vietos/Daugpilis]]
 - [[objektai/vietos/Dauguva]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Zarasai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/daiktai/Ginklai ir ginkluotė]]
 - [[objektai/paprociai/Karinė savanorystė ir žemės pažadas valstybės gynimui]]

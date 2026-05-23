@@ -56,5 +56,6 @@ Seimas buvo priverstas įvykdyti visus jo reikalavimus.
 - [[objektai/vietos/Rusija]]
 - [[objektai/posakiai/kardinalinės teisės]]
 - [[objektai/zodynas/kitatikiai]]
+- [[objektai/grupes/Čartoriskiai]]
 - [[objektai/vietos/Varšuva]]
 - [[objektai/ivykiai/Varšuvos konfederacinis seimas (1768 m.)]]

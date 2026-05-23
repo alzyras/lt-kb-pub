@@ -69,6 +69,7 @@ Kiekviename dabar naujai sudarytame paviete buvo vienas didžiojo kunigaikščio
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Bajorai]]
 - [[objektai/zodynas/urėdas]]
 - [[objektai/paprociai/Pavietų ir vaivadijų bajorų seimeliai]]
 - [[objektai/asmenys/T. Korsakas]]

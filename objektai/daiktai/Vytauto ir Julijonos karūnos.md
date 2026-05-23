@@ -109,6 +109,7 @@ Nenurodyta
 - [[objektai/vietos/Luckas]]
 - [[objektai/ivykiai/Lucko suvažiavimas]]
 - [[objektai/vietos/Niurnbergas]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/asmenys/Zigmantas I]]
 - [[objektai/daiktai/Karūna]]
 - [[objektai/grupes/Vokiečių ordinas]]

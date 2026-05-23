@@ -73,6 +73,7 @@ De jure Lietuva tebuvo pripažinta tik Vokietijos, Rusijos, Šveicarijos, Argent
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Venesuela]]
+- [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/zodynas/savišalpos organizacijos savišalpos draugijos]]
 - [[objektai/vietos/Urugvajus]]
 - [[objektai/vietos/Meksika]]

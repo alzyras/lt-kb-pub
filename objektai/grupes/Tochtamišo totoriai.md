@@ -136,6 +136,7 @@ tags:
 - [[objektai/grupes/Lietuvos jungtinės pajėgos]]
 - [[objektai/vietos/Podolė]]
 - [[objektai/vietos/Ragainė]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Timūr-Kutlukas]]
 - [[objektai/asmenys/Tochtamišas]]
 - [[objektai/grupes/Totoriai]]

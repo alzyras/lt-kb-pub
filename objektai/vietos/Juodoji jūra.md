@@ -87,3 +87,4 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/autoriai/J. Andrius]]
 - [[objektai/paprociai/Kailinių dėvėjimas žiemą ir vasarą, vasarą išvirkščius]]
+- [[objektai/grupes/Skandinavai]]

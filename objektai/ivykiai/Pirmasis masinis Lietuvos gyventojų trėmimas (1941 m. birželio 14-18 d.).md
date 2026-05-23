@@ -60,4 +60,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Žydai]]
 - [[objektai/vietos/Lietuva]]

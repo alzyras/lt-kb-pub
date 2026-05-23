@@ -92,4 +92,5 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/daiktai/Papuošalai]]
 - [[objektai/daiktai/Troba]]

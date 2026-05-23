@@ -63,6 +63,7 @@ Etmonas, iždininkas ir maršalas vakare pasiekė Vilnių, iš visų savo rūmų
 ### Susiję objektai
 - [[objektai/vietos/Bauskė]]
 - [[objektai/vietos/Druja]]
+- [[objektai/grupes/Respublikonai]]
 - [[objektai/vietos/Vilnius]]
 - [[objektai/grupes/Sapiegų kariuomenė]]
 - [[objektai/vietos/Jelgava]]

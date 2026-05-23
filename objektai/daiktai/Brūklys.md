@@ -106,3 +106,7 @@ Nenurodyta
 ## Pastabos
 
 - šalia brūklių toje pačioje vietoje minimi ir strypai, bet kandidato ašį palieku pagal senovinį ginklą brūklius.
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Akstys]]

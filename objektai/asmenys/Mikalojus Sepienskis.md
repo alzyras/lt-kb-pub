@@ -58,4 +58,4 @@ Jiems vadovavo du Vytauto didikai (Jurgis Gedgaudas, Jurgis Galminas) ir jo sekr
 
 ### Susiję objektai
 - [[objektai/vietos/Konstanca]]
-- [[objektai/grupes/Žemaičiai]]
+- [[objektai/grupes/Bajorai]]

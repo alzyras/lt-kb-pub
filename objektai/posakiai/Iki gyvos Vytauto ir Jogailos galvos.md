@@ -72,6 +72,7 @@ tags:
 ### Susiję objektai
 - [[objektai/vietos/Klaipėda]]
 - [[objektai/vietos/Torunė]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/vietos/Žalgiris]]
 - [[objektai/vietos/Žemaitija]]

@@ -158,5 +158,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Chodkevičiai]]
 - [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Švedija]]

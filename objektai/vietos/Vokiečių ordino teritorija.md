@@ -40,3 +40,7 @@ O dabar įsiveržiama į Vokiečių ordino teritoriją ir žygiuojama tiesiai li
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Vokiečiai]]

@@ -69,6 +69,7 @@ Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanor
 
 ### Susiję objektai
 - [[objektai/daiktai/Geltonas lankelis ant kepurės]]
+- [[objektai/vietos/Kolupiai]]
 - [[objektai/vietos/Kėdainiai]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/daiktai/Lietuvos kario savadarbė diržo sagtis]]

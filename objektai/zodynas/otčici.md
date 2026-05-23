@@ -65,6 +65,7 @@ Be senesnių­ jų lietuvių ir rusų kunigaikščių — tėvynainių (otčici)
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/vietos/Viena]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/ekonomija]]

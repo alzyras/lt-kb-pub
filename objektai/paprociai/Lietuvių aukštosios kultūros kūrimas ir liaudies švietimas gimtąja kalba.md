@@ -137,4 +137,3 @@ Nenurodyta
 - [[objektai/autoriai/S. Daukantas]]
 - [[objektai/asmenys/Simonas Daukantas]]
 - [[objektai/asmenys/Simonas Stanevičius]]
-- [[objektai/grupes/Žemaičiai]]

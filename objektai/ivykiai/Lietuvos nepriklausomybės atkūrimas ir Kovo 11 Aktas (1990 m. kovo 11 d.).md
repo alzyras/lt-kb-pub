@@ -83,6 +83,7 @@ Nenurodyta
 - [[objektai/daiktai/Herbas]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/vietos/SSRS]]
 - [[objektai/zodynas/vėliava]]
 - [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1990 III 11)]]

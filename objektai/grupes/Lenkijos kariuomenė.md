@@ -141,6 +141,8 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Chodkevičiai]]
+- [[objektai/vietos/Jasai]]
 - [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Lietuva]]
@@ -152,7 +154,6 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
 - [[objektai/asmenys/Albertas Manvydas]]
 - [[objektai/ivykiai/Brastos pasipriešinimas 1792 m. kare]]
 - [[objektai/vietos/Cecora]]
-- [[objektai/vietos/Jasai]]
 - [[objektai/asmenys/Juzefas Poniatovskis]]
 - [[objektai/vietos/Rytų Lietuva]]
 - [[objektai/asmenys/Simonas Lengvenis]]

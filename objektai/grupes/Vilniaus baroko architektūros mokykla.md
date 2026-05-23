@@ -62,5 +62,6 @@ tags:
 - [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/barokas]]
 - [[objektai/zodynas/Miera|miera]]
+- [[objektai/grupes/Žydai]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/zodynas/bajoriškoji demokratija luominė monarchija]]

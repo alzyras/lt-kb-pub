@@ -48,4 +48,5 @@ Jų tarpe buvo vienas kitas senųjų prūsų bajoras, pasidavęs ordinui ir jam 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Prūsai]]
 - [[objektai/grupes/Vokiečiai]]

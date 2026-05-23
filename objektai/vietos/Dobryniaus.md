@@ -58,5 +58,6 @@ tags:
 - [[objektai/vietos/Kujavija]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Liublinas]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/vietos/Sandomierius]]
 - [[objektai/grupes/Kryžiuočių ordinas]]

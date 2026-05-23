@@ -57,6 +57,7 @@ Po Žalgirio pergalės 1410 m., 1411 m. buvo pasirašyta Torunės taika ir Žema
 ### Susiję objektai
 - [[objektai/vietos/Klaipėda]]
 - [[objektai/vietos/Torunė]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/vietos/Žalgiris]]
 - [[objektai/vietos/Žemaitija]]

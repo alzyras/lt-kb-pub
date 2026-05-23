@@ -51,4 +51,5 @@ džios likvidavimo didelėje ČernigovoOrdoje kilo badas ir maras, kuris plito �
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Auksinė Orda]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/chanas]]

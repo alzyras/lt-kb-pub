@@ -48,3 +48,5 @@ Antra tokia pat didžiulė giria buvo Livonijos pasienis (šiaurinė Lietuvos da
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Livonija]]
+- [[objektai/vietos/Suvalkai]]
+- [[objektai/vietos/Telšiai]]

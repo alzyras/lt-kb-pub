@@ -86,4 +86,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/zodynas/Antisemitizmas]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Žydai]]
 - [[objektai/zodynas/Restitucija]]

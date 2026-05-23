@@ -650,6 +650,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - [[objektai/vietos/Europa]]
 - [[objektai/vietos/Kijevas]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/vietos/Prūsai]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/autoriai/A. Brückner]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]

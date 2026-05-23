@@ -175,6 +175,8 @@ Aukštaitija šiame veikale rodoma kaip ankstyvasis Lietuvos branduolio regionas
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Kernavė]]
+- [[objektai/vietos/Nalšėnai]]
+- [[objektai/grupes/Totoriai]]
 - [[objektai/zodynas/chanas]]
 - [[objektai/vietos/Jotvingija]]
 - [[objektai/vietos/Sūdavija]]

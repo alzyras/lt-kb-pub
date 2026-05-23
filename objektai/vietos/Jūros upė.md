@@ -63,4 +63,3 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
 - [[objektai/vietos/Rusnė]]
 - [[objektai/vietos/Viena]]
 - [[objektai/zodynas/dykra]]
-- [[objektai/grupes/Žemaičiai]]

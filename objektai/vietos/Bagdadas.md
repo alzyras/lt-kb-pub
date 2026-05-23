@@ -45,5 +45,6 @@ sandūros Vilnių priskiria pirmam žydų pasaulinių kultūros centrų dešimtu
 ### Susiję objektai
 - [[objektai/vietos/Tunisas]]
 - [[objektai/vietos/Vilnius]]
+- [[objektai/grupes/Žydai]]
 - [[objektai/vietos/Salonikai]]
 - [[objektai/vietos/Stambulas]]

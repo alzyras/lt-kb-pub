@@ -170,5 +170,6 @@ Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam tapus Lenkijos karaliumi (13
 
 ### Susiję objektai
 - [[objektai/vietos/Europa]]
+- [[objektai/grupes/Jogailaičiai]]
 - [[objektai/grupes/Habsburgų dinastija]]
 - [[objektai/posakiai/„jogailaičių Europa“ „krikščionybės forpostas“]]

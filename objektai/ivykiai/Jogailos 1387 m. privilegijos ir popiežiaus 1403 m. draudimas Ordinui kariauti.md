@@ -59,4 +59,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]

@@ -70,4 +70,5 @@ Talkininkų kryžiuočių liko tik keletas, tarp jų žuvo tarnaudami senajai T�
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Smolenskas]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/vietininkas]]

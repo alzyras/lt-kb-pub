@@ -214,7 +214,6 @@ Vieta siejama su Lietuvos ir Lenkijos konfliktu dėl Vilniaus po Pirmojo pasauli
 - [[objektai/grupes/Lietuvos Respublika]]
 - [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/posakiai/„nei karo, nei taikos“]]
 - [[objektai/asmenys/J. Pilsudskis]]
 - [[objektai/asmenys/Juzefas Pilsudskis]]

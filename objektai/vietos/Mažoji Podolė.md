@@ -103,3 +103,4 @@ Mūšio padariniai „Pasakojime apie Podolę“ teigiama, kad Lietuvos valdovo 
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Maskva]]
 - [[objektai/vietos/Podolė]]
+- [[objektai/grupes/Totoriai]]

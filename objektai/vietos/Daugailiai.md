@@ -52,4 +52,5 @@ Birželio 3 d. buvo užimti Daugailiai, Tauragnai, birželio 4 d. Paberžė.
 - [[objektai/asmenys/K. Ladyga]]
 - [[objektai/vietos/Paberžė]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/A. Džiuvė]]
 - [[objektai/vietos/Tauragnai]]

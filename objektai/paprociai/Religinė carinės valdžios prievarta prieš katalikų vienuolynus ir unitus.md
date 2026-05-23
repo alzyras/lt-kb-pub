@@ -63,4 +63,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Stačiatikiai]]
 - [[objektai/grupes/Unitai]]

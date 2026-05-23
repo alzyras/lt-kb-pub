@@ -272,6 +272,7 @@ tags:
 - [[objektai/vietos/Palanga]]
 - [[objektai/vietos/Rusija]]
 - [[objektai/vietos/Slanimas]]
+- [[objektai/vietos/Suvalkai]]
 - [[objektai/vietos/Valkaviskas]]
 - [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/generalgubernatorius]]
@@ -284,4 +285,3 @@ tags:
 - [[objektai/asmenys/Steponas Kairys]]
 - [[objektai/zodynas/etnografinės ribos etnografinis principas]]
 - [[objektai/vietos/Kuršo gubernija]]
-- [[objektai/vietos/Suvalkai]]

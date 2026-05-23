@@ -287,6 +287,7 @@ Tuo pat laiku, kai Tautų Sąjunga nusprendė (rugsėjo 20 d.) tarp Lietuvos ir 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/neutralitetas]]
 - [[objektai/grupes/Želigovskininkai]]
 - [[objektai/vietos/Lenkija]]

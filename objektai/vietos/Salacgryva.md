@@ -139,11 +139,14 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Chodkevičiai]]
 - [[objektai/asmenys/Jonas Karolis Chodkevičius]]
 - [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
+- [[objektai/daiktai/Laivai]]
 - [[objektai/vietos/Piarnu]]
 - [[objektai/zodynas/etmonas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Švedai]]
 - [[objektai/vietos/Švedija]]
 - [[objektai/vietos/Salaspilis]]
 - [[objektai/grupes/Lietuviai]]

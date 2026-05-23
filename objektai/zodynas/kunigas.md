@@ -80,6 +80,8 @@ Tokio tipo pilys, dažnai atskirų sričių vyresniųjų-kilmingųjų, ar «kuni
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Aisčiai]]
+- [[objektai/grupes/Baltai]]
+- [[objektai/vietos/Prūsai]]
 - [[objektai/autoriai/Wulfstanas]]
 - [[objektai/daiktai/1863-1864 m. sukilėlių vėliava]]
 - [[objektai/autoriai/A. Mickevičius]]

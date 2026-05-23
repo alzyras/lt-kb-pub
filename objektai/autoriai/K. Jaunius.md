@@ -66,5 +66,7 @@ Tik didieji mūsų kalbininkai Jaunius su Būga visas tas gimines vadino aisčia
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Baltija]]
+- [[objektai/vietos/Prūsai]]
 - [[objektai/grupes/Suomiai]]
+- [[objektai/grupes/Baltai]]
 - [[objektai/zodynas/Aistuva]]

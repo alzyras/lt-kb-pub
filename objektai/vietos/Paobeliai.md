@@ -61,6 +61,11 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Bolševikai]]
+- [[objektai/vietos/Eiguliai]]
 - [[objektai/asmenys/J. Šarauskas]]
 - [[objektai/vietos/Kėdainiai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/vietos/Juodikis miškas]]
+- [[objektai/asmenys/Povilas Lukšys]]
 - [[objektai/asmenys/V. Vainauskas]]

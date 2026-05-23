@@ -43,4 +43,5 @@ Prasidėjo oficialios kalbos apie „tarybinės liaudies formavimasį“, „vie
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/rusinimas dvikalbystė]]

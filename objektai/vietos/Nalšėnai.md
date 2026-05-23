@@ -132,6 +132,7 @@ Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų opozicijos centra
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Bajorai]]
 - [[objektai/vietos/Dauguva]]
 - [[objektai/asmenys/Daumantas]]
 - [[objektai/vietos/Deltuva]]
@@ -141,7 +142,11 @@ Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų opozicijos centra
 - [[objektai/vietos/Pskovas]]
 - [[objektai/vietos/Ryga]]
 - [[objektai/vietos/Viena]]
+- [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/zodynas/žygis]]
-- [[objektai/vietos/Livonija]]
+- [[objektai/vietos/Aukštaitija]]
+- [[objektai/ivykiai/Daumanto žygis į Nalšėnus ir Gerdenio žūtis (1266-1267 m.)]]
+- [[objektai/vietos/Nalšėnų žemė]]
 - [[objektai/zodynas/družina]]
+- [[objektai/vietos/Livonija]]

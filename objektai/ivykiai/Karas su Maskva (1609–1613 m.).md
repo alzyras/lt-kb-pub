@@ -102,3 +102,4 @@ Nenurodyta
 - [[objektai/vietos/Maskva]]
 - [[objektai/vietos/Smolenskas]]
 - [[objektai/paprociai/Bajorijos karo prievolės vengimas ir samdytinė kariuomenė]]
+- [[objektai/grupes/Švedai]]

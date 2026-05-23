@@ -62,6 +62,7 @@ Po mūšio Kadangi Ukmergės rinktinė buvo per daug išsiveržusi į priekį, k
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Bolševikai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Panevėžio rinktinė]]
 - [[objektai/vietos/Ukmergė]]

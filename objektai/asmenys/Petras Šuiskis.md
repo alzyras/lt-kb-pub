@@ -96,6 +96,7 @@ Viena jų, vadovaujama kunigaikščio Baziliaus Serebriano, pajudėjo iš Smolen
 - [[objektai/daiktai/Artilerija]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Maskva]]
+- [[objektai/grupes/Maskvėnai]]
 - [[objektai/vietos/Polockas]]
 - [[objektai/vietos/Viena]]
 - [[objektai/vietos/Vilnius]]

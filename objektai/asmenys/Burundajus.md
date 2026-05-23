@@ -59,4 +59,5 @@ tags:
 - [[objektai/vietos/Kijevo Rusia]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Nemunas]]
+- [[objektai/grupes/Totoriai]]
 - [[objektai/vietos/Nalšėnų žemė]]

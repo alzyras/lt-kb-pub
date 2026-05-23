@@ -47,4 +47,5 @@ Blaivybės paminklas Skapišky.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/generalgubernatorius]]

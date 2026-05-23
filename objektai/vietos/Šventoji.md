@@ -108,7 +108,6 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
 - [[objektai/vietos/Nemunas]]
 - [[objektai/zodynas/dykra]]
 - [[objektai/vietos/Šešupė]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/asmenys/Bonifacas IX]]
 - [[objektai/asmenys/Gregorijus (Vladimiro vyskupas)]]
 - [[objektai/zodynas/gabija]]

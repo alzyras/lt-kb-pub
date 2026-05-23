@@ -55,3 +55,4 @@ Kadangi jis buvo Lenkijos karaliaus lenininkas, tai negalėjo labai varžyti Lie
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Nemunas]]
 - [[objektai/vietos/Nemuno žiotys]]
+- [[objektai/vietos/Prūsai]]

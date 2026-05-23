@@ -119,5 +119,6 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
 - [[objektai/grupes/Lenkai]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Tanenbergas]]
+- [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/grupes/Jogailos palikuonys]]
 - [[objektai/vietos/Lenkija]]

@@ -85,8 +85,8 @@ Jam buvo pasisekę paimti į savo valdžią net Žiemgalos dalį; tačiau jam ne
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Georgenburgas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Mindaugas]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/grupes/Žiemgaliai]]
 - [[objektai/vietos/Ceklis]]
 - [[objektai/vietos/Dobė]]

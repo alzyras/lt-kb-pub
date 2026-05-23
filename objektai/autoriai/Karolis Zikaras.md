@@ -489,6 +489,7 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Artilerija]]
+- [[objektai/vietos/Lesčiai]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/Lietuvos atsikūrimas]]
 - [[objektai/vietos/Maskva]]

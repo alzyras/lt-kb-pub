@@ -76,7 +76,9 @@ Nastopką su beveik visu I divizijos štabu. Želigovskis lapkričio 17 d. aušt
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Balnininkai]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/S. Nastopka]]
+- [[objektai/vietos/Dubingiai]]
 - [[objektai/grupes/L. Želigovskio pajėgos]]

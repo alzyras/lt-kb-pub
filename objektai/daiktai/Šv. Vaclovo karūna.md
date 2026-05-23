@@ -153,5 +153,5 @@ Nenurodyta
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/unija]]
 - [[objektai/zodynas/vietininkas]]
-- [[objektai/asmenys/Kaributas]]
 - [[objektai/grupes/Čekai]]
+- [[objektai/asmenys/Kaributas]]

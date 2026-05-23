@@ -81,4 +81,3 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
 - [[objektai/paprociai/Žydų prekybos ribojimas pilyse iki pusrytės]]
 - [[objektai/posakiai/„Tegul krikščionys (lotyniškieji) Dievą garbina pagal savo apeigas, tegul rusai (rutheni) jam tarnauja pagal savo paprotį, lenkai taip pat s]]
 - [[objektai/grupes/Kalnėnai]]
-- [[objektai/grupes/Žemaičiai]]

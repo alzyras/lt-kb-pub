@@ -59,3 +59,4 @@ Jų žemes ordinas priiminėjo vasaliniais feodais, vis rūpestingai aktuose pa�
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Mindaugas]]
+- [[objektai/vietos/Prūsai]]

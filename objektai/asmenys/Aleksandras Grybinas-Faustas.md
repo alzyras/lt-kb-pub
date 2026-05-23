@@ -74,3 +74,4 @@ Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo
 - [[objektai/vietos/Perloja]]
 - [[objektai/grupes/Pietų Lietuvos (Nemuno) sritis]]
 - [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis]]
+- [[objektai/zodynas/Adynos|adynos]]

@@ -88,6 +88,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Lietuva]]
+- [[objektai/daiktai/Varpai]]
 - [[objektai/vietos/Viena]]
 - [[objektai/zodynas/kunigas]]
 - [[objektai/posakiai/Eikime, broliai, už vierą šventą]]

@@ -63,6 +63,7 @@ Istorinė rusų tradicija keliuose variantuose mini, kad Gediminas paėmė Rusij
 - [[objektai/grupes/Bajorai]]
 - [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
 - [[objektai/vietos/Kijevas]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/vietos/Rusija]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/paprociai/Ceremoninis valdovo sutikimas ir miesto vartų atvėrimas]]

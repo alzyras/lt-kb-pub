@@ -157,3 +157,4 @@ Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį tiltui per Nemuną
 ### Susiję objektai
 - [[objektai/daiktai/Artilerija]]
 - [[objektai/ivykiai/Augustavo-Suvalkų operacija]]
+- [[objektai/zodynas/husarai]]

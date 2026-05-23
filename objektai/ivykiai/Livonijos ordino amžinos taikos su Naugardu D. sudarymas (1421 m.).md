@@ -77,4 +77,5 @@ Nenurodyta
 - [[objektai/grupes/Livonijos ordinas]]
 - [[objektai/vietos/Naugardas]]
 - [[objektai/vietos/Pskovas]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

@@ -66,6 +66,7 @@ Savo laiške jis rašo, kad su vi­ sa kariuomene ir pulku dvariškių pasiekė 
 ### Susiję objektai
 - [[objektai/vietos/Maskva]]
 - [[objektai/vietos/Pronskas]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Vosylius]]
 - [[objektai/asmenys/Vosylius I]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

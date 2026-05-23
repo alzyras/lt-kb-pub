@@ -101,5 +101,6 @@ Nenurodyta
 - [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Mykolas]]
 - [[objektai/autoriai/Mykolas Lietuvis]]
+- [[objektai/grupes/Rusėnai]]
 - [[objektai/vietos/Viena]]
 - [[objektai/vietos/Vokietija]]

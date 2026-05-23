@@ -55,5 +55,5 @@ tags:
 - [[objektai/vietos/Gudija]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Skandinavija]]
-- [[objektai/zodynas/variagų (normanų) laikotarpis]]
+- [[objektai/grupes/Vikingai]]
 - [[objektai/vietos/Lietuva]]

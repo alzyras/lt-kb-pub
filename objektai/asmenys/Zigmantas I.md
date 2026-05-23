@@ -80,6 +80,7 @@ Lietuvos ir Lenkijos valdovų – Vytauto ir Jogailos – susitikimui su Švento
 - [[objektai/vietos/Pskovas]]
 - [[objektai/vietos/Tverė]]
 - [[objektai/vietos/Vengrija]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/Lucko suvažiavimas]]
 - [[objektai/grupes/Vokiečių ordinas]]

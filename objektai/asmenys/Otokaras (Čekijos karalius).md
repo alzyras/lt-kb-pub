@@ -63,6 +63,7 @@ Privilegijos buvo duotos čekų karaliaus Otokaro 1254 met.
 - [[objektai/vietos/Brasta]]
 - [[objektai/vietos/Gardinas]]
 - [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Čekai]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/vietos/Semba]]
 - [[objektai/vietos/Lietuva]]

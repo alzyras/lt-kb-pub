@@ -61,6 +61,9 @@ Lukšį (turėjusius Pirmojo pasaulinio karo kovų patirties) su 8 kareiviais, k
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Artilerija]]
-- [[objektai/asmenys/J. Šarauskas]]
 - [[objektai/grupes/Bolševikai]]
 - [[objektai/vietos/Eiguliai]]
+- [[objektai/asmenys/J. Šarauskas]]
+- [[objektai/vietos/Paobeliai]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Vokiečiai]]

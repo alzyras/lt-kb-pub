@@ -59,6 +59,7 @@ Mickevičius.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Artilerija]]
+- [[objektai/grupes/Bolševikai]]
 - [[objektai/vietos/Viena]]
 - [[objektai/zodynas/gurguolė]]
 - [[objektai/vietos/Jieznas]]

@@ -59,8 +59,11 @@ Nesutikdamas pasipriešinimo, vasario 8 d. pulkas pasiekė Stakliškes, o kitą 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Bolševikai]]
 - [[objektai/vietos/Lentvaris]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/autoriai/Mickevičius]]
+- [[objektai/vietos/Prienai]]
 - [[objektai/asmenys/S. Mickevičius]]
+- [[objektai/zodynas/husarai]]
 - [[objektai/vietos/Jieznas]]

@@ -96,3 +96,8 @@ Vartojama kalbant apie etninės Lietuvos pietryčių dalies kalbines ir savimon�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Baltarusiai]]
+- [[objektai/grupes/Rusai]]

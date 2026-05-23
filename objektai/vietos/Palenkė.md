@@ -257,6 +257,7 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
 - [[objektai/vietos/Braclavas]]
 - [[objektai/vietos/Drohičinas]]
 - [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/grupes/Jotvingai]]
 - [[objektai/vietos/Kijevas]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Mindaugas]]

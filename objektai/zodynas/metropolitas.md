@@ -153,6 +153,8 @@ Nenurodyta.
 ### Susiję objektai
 - [[objektai/vietos/Kijevo Rusia]]
 - [[objektai/vietos/Maskva]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/asmenys/Audrys Juozas Bačkis|Audrys Juozas Bačkis (Vilniaus arkivyskupas metropolitas)]]
 - [[objektai/asmenys/Ciprijonas]]
 - [[objektai/ivykiai/Didžioji Maskvos suirutė (1597–1613 m.)]]

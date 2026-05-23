@@ -57,6 +57,7 @@ Iš Pskovo buvo atvykę Livonijon 200 karių kaip kalavijuočių ordino sąjungi
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Kalavijuočių ordinas]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Naugardas]]
 - [[objektai/vietos/Pskovas]]

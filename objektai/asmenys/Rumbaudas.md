@@ -102,4 +102,4 @@ Lenkijos maršalkos Bartušo ir 6) Zavišos Juodojo (rašte minimas dar Lietuvos
 - [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/vietos/Nevėžis]]
-- [[objektai/grupes/Žemaičiai]]
+- [[objektai/vietos/Raseiniai]]

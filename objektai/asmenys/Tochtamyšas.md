@@ -75,4 +75,5 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Totoriai]]
 - [[objektai/vietos/Žalgiris]]

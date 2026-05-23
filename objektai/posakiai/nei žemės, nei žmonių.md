@@ -56,5 +56,4 @@ Kryžiuočiams atrodė, kad bėglys Vytautas, kuris, jų žodžiais tariant, neb
 
 ### Susiję objektai
 - [[objektai/asmenys/Julijona]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/grupes/Kryžiuočių ordinas]]

@@ -73,5 +73,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/vietos/Lietuva]]
 - [[objektai/paprociai/Lydimoji žemdirbystė]]
+- [[objektai/grupes/Valakai]]
 - [[objektai/paprociai/Trilaukio ūkio sistema]]
 - [[objektai/paprociai/Valstiečių duoklės ir prievolės]]

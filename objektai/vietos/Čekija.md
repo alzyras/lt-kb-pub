@@ -148,15 +148,14 @@ tags:
 
 ### Susiję objektai
 - [[objektai/vietos/Breslavas]]
+- [[objektai/grupes/Husitai]]
 - [[objektai/asmenys/Kaributas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/ciesorius]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/asmenys/Guillaume de Machaut]]
 - [[objektai/grupes/Habsburgų dinastija]]
 - [[objektai/asmenys/Henrikas von Plauenas]]
-- [[objektai/grupes/Husitai]]
 - [[objektai/ivykiai/Husitų karališko vainiko pasiūlymas Jogailai ir Vytautui bei Zigmanto Kaributo siuntimas į Čekiją]]
 - [[objektai/daiktai/Ietis]]
 - [[objektai/grupes/Jogailaičiai]]

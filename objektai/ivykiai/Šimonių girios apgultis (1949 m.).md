@@ -153,5 +153,6 @@ Nenurodyta
 - [[objektai/vietos/Kupiškis]]
 - [[objektai/grupes/NKVD]]
 - [[objektai/daiktai/Partizanų bunkeriai]]
+- [[objektai/vietos/Svėdasai]]
 - [[objektai/ivykiai/Šimonių girios apgultis]]
 - [[objektai/paprociai/Agentų-smogikų infiltravimo į partizanų gretas ir provokacijų praktika]]

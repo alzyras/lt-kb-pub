@@ -55,5 +55,5 @@ Iš danų karaliaus Valdemaro IV-jo nupirkus Estiją, Livonijoje ordinas rubeži
 ### Susiję objektai
 - [[objektai/vietos/Brandenburgas]]
 - [[objektai/vietos/Livonija]]
-- [[objektai/grupes/Žemaičiai]]
+- [[objektai/grupes/Suomiai]]
 - [[objektai/vietos/Estija]]

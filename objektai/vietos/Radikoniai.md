@@ -56,4 +56,7 @@ Kairioji vora puolimą pradėjo ## Puslapis 183 sėkmingai, tačiau ties Radikon
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Bolševikai]]
 - [[objektai/zodynas/vora]]
+- [[objektai/vietos/Barklainiai]]
+- [[objektai/vietos/Užkalniai]]

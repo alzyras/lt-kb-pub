@@ -64,6 +64,7 @@ Neprasigyvenę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugia
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Urugvajus]]
 - [[objektai/vietos/Venesuela]]
+- [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/grupes/Draugija Užsienio Lietuviams Remti (DULR)]]
 - [[objektai/zodynas/kolonijos]]
 - [[objektai/vietos/Brazilija]]

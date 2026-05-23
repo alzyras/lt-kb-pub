@@ -105,6 +105,7 @@ Mat viena klastinga stabmeldė pranešė magistrui, kad lietuvių karalius telk�
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/daiktai/Lankai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Prūsija]]
 - [[objektai/grupes/Rusai]]

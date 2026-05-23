@@ -56,6 +56,8 @@ Iš Rudaičių ir Veliuonos kapinynų duomenų pateikė M.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Baltai]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/autoriai/M. Michelbertas]]
 - [[objektai/vietos/Veliuona]]
+- [[objektai/daiktai/Sidabro dirbiniai]]

@@ -56,5 +56,6 @@ Graužų-Lenčių (Zembiškio) miške NKVD Betygalos stribai, grįždami iš už
 - [[objektai/vietos/Betygala]]
 - [[objektai/vietos/Kėdainiai]]
 - [[objektai/grupes/NKVD]]
-- [[objektai/vietos/Raseinių apskritis]]
+- [[objektai/vietos/Raseiniai]]
 - [[objektai/vietos/Šilainiai]]
+- [[objektai/vietos/Raseinių apskritis]]

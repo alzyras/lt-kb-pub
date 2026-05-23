@@ -54,4 +54,5 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Lietuva]]
+- [[objektai/autoriai/O. Navickaitė-Kuncienė]]
 - [[objektai/daiktai/Sidabruotos geležinės balnakilpės]]

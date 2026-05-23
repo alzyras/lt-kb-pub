@@ -95,3 +95,4 @@ Navickaitė-Kuncienė, O. Navickaitė, O.
 ### Susiję objektai
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Vilnius]]
+- [[objektai/vietos/Veršvai]]

@@ -61,7 +61,10 @@ Sprendžiant iš pagrindinių istorinių šaltinių, Švitrigailos ir Ordino paj
 ### Susiję objektai
 - [[objektai/vietos/Pašilė]]
 - [[objektai/vietos/Viena]]
+- [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/asmenys/Švitrigaila]]
 - [[objektai/asmenys/Žygimantas]]
+- [[objektai/asmenys/Mykolas]]
 - [[objektai/vietos/Pabaiskas]]
+- [[objektai/vietos/Vintara]]
 - [[objektai/vietos/Žirnajų ežeras]]

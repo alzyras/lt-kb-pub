@@ -173,6 +173,7 @@ Algirdas 1362 m. suruošė į tas sritis žygį, sumušė totorius ties Mėlynai
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/grupes/Rusai]]
 - [[objektai/vietos/Tverė]]
 - [[objektai/posakiai/„Mėlynuosius Vandenis ir Baltąją pakrantę nukariavo“]]
 - [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)]]

@@ -93,7 +93,9 @@ Persigrupavusi Lietuvos kariuomenė tik lapkričio viduryje sustabdė lenkų dal
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Ašmena]]
+- [[objektai/grupes/Bajorai]]
 - [[objektai/vietos/Lenkija]]
+- [[objektai/grupes/Respublikonai]]
 - [[objektai/grupes/Sapiegos]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/žygis]]

@@ -283,6 +283,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 ### Susiję objektai
 - [[objektai/grupes/Domininkonų ordinas]]
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/grupes/Vengrai]]
 - [[objektai/asmenys/Andrius Vosylius Jastrzębiecas]]
 - [[objektai/asmenys/Bertoldas (pranciškonas)]]
 - [[objektai/asmenys/Elžbieta]]
@@ -298,6 +299,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 - [[objektai/vietos/Naugardukas]]
 - [[objektai/daiktai/Pranciškonų kankinių palaidojimo vietos koplyčia]]
 - [[objektai/vietos/Vilnius]]
+- [[objektai/paprociai/Vytauto bažnyčių statymas ir vienuolynų steigimas]]
 - [[objektai/zodynas/regimentorius]]
 - [[objektai/vietos/Štetinas]]
 - [[objektai/asmenys/Žygimantas]]

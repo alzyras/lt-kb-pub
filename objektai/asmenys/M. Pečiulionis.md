@@ -80,5 +80,6 @@ Pečiulionio vadovaujama nepilnos sudėties 4-oji baterija (3 patrankos). Pečiu
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bolševikai]]
+- [[objektai/vietos/Kaniūkai]]
 - [[objektai/daiktai/Artilerija]]
 - [[objektai/grupes/1-asis pėstininkų pulkas]]

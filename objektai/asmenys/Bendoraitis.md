@@ -50,3 +50,7 @@ Bendoraitis apsisuko kelis kartus ore ir nukrito.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Vokiečiai]]

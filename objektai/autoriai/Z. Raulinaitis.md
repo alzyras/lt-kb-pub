@@ -79,4 +79,5 @@ Raulinaitis, Z.
 - [[objektai/vietos/Kijevo Rusia]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Zarasai]]
 - [[objektai/zodynas/feodalizmas]]

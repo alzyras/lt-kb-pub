@@ -175,6 +175,8 @@ Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir
 ### Susiję objektai
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Naugardas]]
+- [[objektai/grupes/Stačiatikiai]]
+- [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/asmenys/Jurgis (Lengvenio sūnus)]]
 - [[objektai/vietos/Kremenecas]]
 - [[objektai/vietos/Riazanė]]

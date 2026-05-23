@@ -118,6 +118,7 @@ Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos up
 ### Susiję objektai
 - [[objektai/vietos/Bauskė]]
 - [[objektai/daiktai/Buzdyganas]]
+- [[objektai/grupes/Respublikonai]]
 - [[objektai/vietos/Vilnius]]
 - [[objektai/vietos/Bychovo tvirtovė]]
 - [[objektai/vietos/Drivietų ežerai]]

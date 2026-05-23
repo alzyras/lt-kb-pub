@@ -68,5 +68,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kuršiai]]
+- [[objektai/daiktai/Laivai]]
 - [[objektai/autoriai/Rimbertas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Švedai]]
