@@ -53,6 +53,8 @@ type NodeRenderData = GraphicsInfo & {
 }
 
 const localStorageKey = "graph-visited"
+const isPeriodSlug = (slug: SimpleSlug | string) => String(slug).startsWith("laikotarpiai/")
+
 function getVisited(): Set<SimpleSlug> {
   return new Set(JSON.parse(localStorage.getItem(localStorageKey) ?? "[]"))
 }
@@ -104,14 +106,17 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   )
   const links: SimpleLinkData[] = []
   const tags: SimpleSlug[] = []
-  const validLinks = new Set(data.keys())
+  const validLinks = new Set([...data.keys()].filter((key) => !isPeriodSlug(key)))
 
   const tweens = new Map<string, TweenNode>()
   for (const [source, details] of data.entries()) {
+    if (isPeriodSlug(source)) {
+      continue
+    }
     const outgoing = details.links ?? []
 
     for (const dest of outgoing) {
-      if (validLinks.has(dest)) {
+      if (!isPeriodSlug(dest) && validLinks.has(dest)) {
         links.push({ source: source, target: dest })
       }
     }
@@ -205,8 +210,6 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     const isCurrent = d.id === slug
     if (isCurrent) {
       return computedStyleMap["--secondary"]
-    } else if (d.id.startsWith("laikotarpiai/")) {
-      return computedStyleMap["--secondary"]
     } else if (d.id.startsWith("temos/")) {
       return computedStyleMap["--tertiary"]
     } else if (visited.has(d.id) || d.id.startsWith("tags/")) {
@@ -219,7 +222,6 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   function nodeKind(id: SimpleSlug): "tag" | "topic" | "period" | "object" {
     if (id.startsWith("tags/")) return "tag"
     if (id.startsWith("temos/")) return "topic"
-    if (id.startsWith("laikotarpiai/")) return "period"
     return "object"
   }
 

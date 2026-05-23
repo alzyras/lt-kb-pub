@@ -78,7 +78,7 @@ function deriveSourcesFromDom(): CitationSourceRegistryEntry[] {
     }
   })
 
-  document.querySelectorAll<HTMLElement>('[data-citation-sources]').forEach((entry) => {
+  document.querySelectorAll<HTMLElement>("[data-citation-sources]").forEach((entry) => {
     const ids = parseSourceIds(entry.dataset.citationSources)
     ids.forEach((id) => {
       const existing = byId.get(id)
@@ -157,7 +157,9 @@ function readState(): OptionsState {
   }
   try {
     const parsed = JSON.parse(stored) as Partial<OptionsState>
-    const minQuoteCount = Number.isFinite(parsed.minQuoteCount) ? Math.max(0, Number(parsed.minQuoteCount)) : 0
+    const minQuoteCount = Number.isFinite(parsed.minQuoteCount)
+      ? Math.max(0, Number(parsed.minQuoteCount))
+      : 0
     const selectedSourceIds = Array.isArray(parsed.selectedSourceIds)
       ? parsed.selectedSourceIds.filter((value): value is string => typeof value === "string")
       : []
@@ -292,7 +294,9 @@ function applyExplorerFilters() {
 
   const evaluateFolder = (item: HTMLLIElement): boolean => {
     const children = [
-      ...(item.querySelectorAll(":scope > .folder-outer > ul.content > li") as NodeListOf<HTMLLIElement>),
+      ...(item.querySelectorAll(
+        ":scope > .folder-outer > ul.content > li",
+      ) as NodeListOf<HTMLLIElement>),
     ]
     const hasVisibleChildren = children.some((child) => evaluateNode(child))
     item.dataset.optionsMatch = hasVisibleChildren ? "true" : "false"
@@ -408,12 +412,11 @@ function applyCitationFilters() {
     row.hidden = !supportingIds.some((id) => visibleCitationIds.has(id))
   })
 
-  document
-    .querySelectorAll<HTMLElement>('[data-claims-table="true"]')
-    .forEach((table) => {
-      const hasVisibleRows = table.querySelectorAll('[data-claim-row="true"]:not([hidden])').length > 0
-      table.hidden = !hasVisibleRows
-    })
+  document.querySelectorAll<HTMLElement>('[data-claims-table="true"]').forEach((table) => {
+    const hasVisibleRows =
+      table.querySelectorAll('[data-claim-row="true"]:not([hidden])').length > 0
+    table.hidden = !hasVisibleRows
+  })
 
   document.querySelectorAll<HTMLElement>('[data-citation-section="true"]').forEach((wrapper) =>
     syncEmptyState(wrapper, {
@@ -442,7 +445,10 @@ function applyFilters() {
   applyCitationFilters()
   syncCurrentPageFilter()
   syncPanelState()
-  document.dispatchEvent(new CustomEvent("quartz-options-change"))
+  const event: CustomEventMap["quartz-options-change"] = new CustomEvent("quartz-options-change", {
+    detail: {},
+  })
+  document.dispatchEvent(event)
 }
 
 function syncPanelState() {
@@ -460,16 +466,19 @@ function syncPanelState() {
       number.value = `${state.minQuoteCount}`
     }
     if (selectedSummary) {
-      const selectedCount = state.sourceSelectionMode === "all" ? cachedSources.length : state.selectedSourceIds.length
+      const selectedCount =
+        state.sourceSelectionMode === "all" ? cachedSources.length : state.selectedSourceIds.length
       selectedSummary.textContent =
         state.sourceSelectionMode === "all" && cachedSources.length > 0
           ? `Pasirinkta: visos (${selectedCount})`
           : `Pasirinkta: ${selectedCount}`
     }
 
-    root.querySelectorAll<HTMLInputElement>("[data-options-source-checkbox]").forEach((checkbox) => {
-      checkbox.checked = isSourceSelected(checkbox.value)
-    })
+    root
+      .querySelectorAll<HTMLInputElement>("[data-options-source-checkbox]")
+      .forEach((checkbox) => {
+        checkbox.checked = isSourceSelected(checkbox.value)
+      })
   })
 }
 
@@ -527,7 +536,7 @@ function renderSourceList(root: HTMLElement, sources: CitationSourceRegistryEntr
       applyFilters()
     }
     checkbox.addEventListener("change", onChange)
-      optionsWindow.addCleanup?.(() => checkbox.removeEventListener("change", onChange))
+    optionsWindow.addCleanup?.(() => checkbox.removeEventListener("change", onChange))
   })
 }
 

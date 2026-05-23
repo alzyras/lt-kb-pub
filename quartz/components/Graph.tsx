@@ -90,7 +90,6 @@ export default ((opts?: Partial<GraphOptions>) => {
         <div class="graph-legend" aria-label="Graph legend">
           <span class="graph-legend-item graph-legend-object">Objektai</span>
           <span class="graph-legend-item graph-legend-topic">Temos</span>
-          <span class="graph-legend-item graph-legend-period">Laikotarpiai</span>
         </div>
         <div class="graph-outer">
           <div class="graph-container" data-cfg={JSON.stringify(localGraph)}></div>
