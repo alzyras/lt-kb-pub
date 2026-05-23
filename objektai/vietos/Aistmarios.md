@@ -101,8 +101,3 @@ Aistmarios šiame veikale minimos kaip vakarinių baltų ir gotų kontaktų erdv
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

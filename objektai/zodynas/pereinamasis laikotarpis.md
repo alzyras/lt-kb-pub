@@ -71,9 +71,3 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

@@ -111,10 +111,5 @@ Lenkijos sukilėlių vyriausybė į Lietuvos sukilimo vadovybę grąžino „rau
     - t-004
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIX amžius]]
-
 ### Susiję objektai
 - [[objektai/grupes/Laikinoji Vyriausybė Lietuvoje]]
-- [[objektai/asmenys/Michailas Muravjovas]]
-- [[objektai/asmenys/T. Dalevskis]]

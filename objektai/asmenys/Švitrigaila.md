@@ -220,11 +220,3 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-025
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/Kaributas]]
-- [[objektai/asmenys/Lengvenis]]

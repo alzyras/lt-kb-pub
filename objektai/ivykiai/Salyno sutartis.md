@@ -132,9 +132,6 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
     - t-011
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Vytautas]]
 - [[objektai/zodynas/paliaubos]]

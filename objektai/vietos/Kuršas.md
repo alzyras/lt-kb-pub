@@ -309,12 +309,6 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
 - tipas: kraštas / pajūrio regionas; regionas
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIII amžius]]
-- [[laikotarpiai/XV amžius]]
-- [[laikotarpiai/XVII amžius]]
-- [[laikotarpiai/XVIII amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Prūsija]]
 - [[objektai/paprociai/Vienkieminis gyvenimas dėl taikos ir gaisrų saugos]]

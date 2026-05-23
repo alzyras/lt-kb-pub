@@ -96,11 +96,6 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
     - t-003
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-- [[laikotarpiai/XV amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Brasta]]
 - [[objektai/vietos/Palenkė]]

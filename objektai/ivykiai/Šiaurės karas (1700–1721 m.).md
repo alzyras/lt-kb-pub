@@ -99,9 +99,5 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVII amžius]]
-- [[laikotarpiai/XVIII amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Kuršas]]

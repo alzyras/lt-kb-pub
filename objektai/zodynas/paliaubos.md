@@ -177,8 +177,3 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/paliaubos]]
-
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-- [[laikotarpiai/XV amžius]]

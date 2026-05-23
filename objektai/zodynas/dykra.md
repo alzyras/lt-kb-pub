@@ -168,11 +168,6 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
 - [[temos/istorinė-sąvoka]]
 - [[temos/karinis-terminas]]
 
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Niešavos kraštas]]
 - [[objektai/vietos/Sūduva]]

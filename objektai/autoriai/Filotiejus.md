@@ -60,6 +60,3 @@ Jonas III-sis, rusų žemių rinkėjas («sobiratel’ russkich žemeli»), įsi
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/laiškas]]
-
-### Laikotarpiai
-- [[laikotarpiai/XVI amžius]]

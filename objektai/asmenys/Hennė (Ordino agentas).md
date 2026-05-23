@@ -106,9 +106,3 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/laiškas]]
-
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/Henne]]

@@ -496,12 +496,6 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     - t-023
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/X amžius]]
-- [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XV amžius]]
-- [[laikotarpiai/XVI amžius]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Gediminas]]
 - [[objektai/vietos/Kremlius]]

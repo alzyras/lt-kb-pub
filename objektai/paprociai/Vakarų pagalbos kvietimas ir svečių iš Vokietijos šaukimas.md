@@ -72,9 +72,6 @@ Nenurodyta
     - t-005
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIII amžius]]
-
 ### Susiję objektai
 - [[objektai/grupes/Kalavijuočių ordinas]]
 - [[objektai/daiktai/Baltas apsiaustas su išsiuvinėtu kalaviju]]

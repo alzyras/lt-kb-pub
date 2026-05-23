@@ -85,8 +85,5 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIX amžius]]
-
 ### Susiję objektai
 - [[objektai/paprociai/Blaivybės brolijų ir blaivybės skelbimo praktika]]

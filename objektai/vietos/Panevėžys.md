@@ -167,10 +167,6 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
     - t-005
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/ivykiai/Antrasis Panevėžio puolimas]]
 - [[objektai/asmenys/J. Variakojis]]

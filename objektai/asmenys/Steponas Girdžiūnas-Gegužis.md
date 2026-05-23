@@ -50,10 +50,3 @@ GirdžiūnuiGegužiui ir kitiems LLA organizatoriams pavyko sukurti Žaliosios g
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/Vladas Jazokas-Petraitis]]

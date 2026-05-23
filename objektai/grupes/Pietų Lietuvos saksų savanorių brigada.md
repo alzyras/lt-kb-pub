@@ -53,7 +53,3 @@ Pradžioje atvykę saksų savanoriai sudarė 46-ąją saksų savanorių divizij�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]

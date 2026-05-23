@@ -90,11 +90,3 @@ Georgo Fridriko Valdeko vadovaujamą švedų, brandenburgiečių ir prūsų kari
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/X amžius]]
-- [[laikotarpiai/XX amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/Walenrodto]]

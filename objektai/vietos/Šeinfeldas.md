@@ -60,7 +60,3 @@ Lietuvos pabėgėliai stovykloje Vokietijoje (Šeinfelde) renkasi dalijamus drab
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/drabužis]]
-
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

@@ -48,7 +48,3 @@ Krakowski : Korjatowicze i sprawa Podolska w XIV w.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]

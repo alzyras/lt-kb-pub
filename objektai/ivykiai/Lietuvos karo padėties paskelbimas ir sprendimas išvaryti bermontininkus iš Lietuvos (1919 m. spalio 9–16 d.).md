@@ -101,9 +101,6 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
 ### Susiję objektai
 - [[objektai/grupes/Bermontininkai]]
 - [[objektai/zodynas/karo padėtis]]

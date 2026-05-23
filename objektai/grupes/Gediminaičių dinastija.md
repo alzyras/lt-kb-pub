@@ -256,9 +256,3 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
-
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XV amžius]]
-- [[laikotarpiai/XVI amžius]]
-- [[laikotarpiai/XX amžius]]

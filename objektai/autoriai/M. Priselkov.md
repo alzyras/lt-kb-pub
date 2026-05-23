@@ -71,10 +71,3 @@ Priselkova, Maskva 1950. Priselkov, M.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
-### Susiję objektai
-- [[objektai/autoriai/M. Fasmer]]

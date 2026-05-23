@@ -106,12 +106,3 @@ K. Duonelaitis šiame šaltinyje minimas kaip poetas, autorius; jam priskiriami 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIX amžius]]
-- [[laikotarpiai/XVIII amžius]]
-
-### Susiję objektai
-- [[objektai/autoriai/Rėza (leidėjas, 1818 m.)]]
-- [[objektai/autoriai/S. Daukantas]]

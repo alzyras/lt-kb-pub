@@ -82,11 +82,3 @@ Chodynicki 1926, sulaukdamas kitų tyrinėtojų pritarimo. Chodynicki, K. Chodyn
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
-### Susiję objektai
-- [[objektai/autoriai/A. Prochaska]]
-- [[objektai/autoriai/J. Jakštas]]

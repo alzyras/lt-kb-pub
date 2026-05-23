@@ -90,12 +90,3 @@ Navickaitė-Kuncienė, O. Navickaitė, O.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XX amžius]]
-
-### Susiję objektai
-- [[objektai/autoriai/K. Navickas]]
-- [[objektai/autoriai/L. Nakaitė]]

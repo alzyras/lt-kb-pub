@@ -134,9 +134,6 @@ Nenurodyta
     - t-007
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVI amžius]]
-
 ### Susiję objektai
 - [[objektai/posakiai/Antemurale Christianitatis]]
 - [[objektai/autoriai/Mykolas Lietuvis]]

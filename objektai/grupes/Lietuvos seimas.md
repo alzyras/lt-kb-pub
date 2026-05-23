@@ -69,9 +69,5 @@ Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.
     - t-002
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/grupes/Lietuvos seimas (1924 m.)]]

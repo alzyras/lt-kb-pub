@@ -67,6 +67,3 @@ Dundulienė: Žemdirbystė Lietuvoje (nuo seniausia laiku iki 1917 metu) (1963)^
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/įrankis]]
-
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]

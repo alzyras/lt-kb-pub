@@ -55,9 +55,6 @@ tags:
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Malėtai]]
 - [[objektai/vietos/Verkiai]]

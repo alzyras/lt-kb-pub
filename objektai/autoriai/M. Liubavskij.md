@@ -76,10 +76,3 @@ Liubavskij). Liubavskij, M.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
-### Susiję objektai
-- [[objektai/autoriai/H. Lowmiański]]

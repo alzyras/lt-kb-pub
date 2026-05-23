@@ -170,7 +170,5 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Edvardas Rydzas-Smiglas]]
 - [[objektai/ivykiai/SSRS ultimatumas Lietuvai ir jo priėmimas (1940 m. birželio 14-15 d.)]]
 - [[objektai/ivykiai/Stasio Raštikio atleidimas iš pareigų (1940 m. balandis)]]
-- [[objektai/asmenys/V. Vitkauskas]]

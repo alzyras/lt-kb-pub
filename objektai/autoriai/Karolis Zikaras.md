@@ -485,10 +485,3 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-016
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIII amžius]]
-- [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XV amžius]]
-- [[laikotarpiai/XVI amžius]]

@@ -104,6 +104,3 @@ Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų tautinio sąjūd
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/redaktorius]]
-
-### Laikotarpiai
-- [[laikotarpiai/XXI amžius]]

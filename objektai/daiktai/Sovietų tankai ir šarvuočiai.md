@@ -107,8 +107,5 @@ Nenurodyta
 ### Teminiai klasteriai
 - [[temos/transportas]]
 
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Lietuvos radijo ir televizijos komiteto pastatas]]

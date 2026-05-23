@@ -80,10 +80,6 @@ Nenurodyta
 ### Teminiai klasteriai
 - [[temos/dinastija]]
 
-### Laikotarpiai
-- [[laikotarpiai/XVI amžius]]
-- [[laikotarpiai/XVII amžius]]
-
 ### Susiję objektai
 - [[objektai/grupes/Riurikaičių dinastija]]
 - [[objektai/grupes/Romanovų dinastija]]

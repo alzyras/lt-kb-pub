@@ -73,10 +73,6 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
     - t-002
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/grupes/Aisčiai]]
 - [[objektai/autoriai/Tacitas (romėnų rašytojas, I amžiaus gale)]]

@@ -154,8 +154,5 @@ Taip yra, pvz., ir konflikte su lenkais dėl Podolės, dėl Volinijos. Taigi tur
 ### Teminiai klasteriai
 - [[temos/papuošalas]]
 
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Avinjonas]]

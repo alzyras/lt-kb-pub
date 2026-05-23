@@ -85,9 +85,5 @@ Vytautas šioje srity padarė tiek, kad suteikė tautos prekybai ir bendrai ekon
     - t-002
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XV amžius]]
-
 ### Susiję objektai
 - [[objektai/zodynas/luomas]]

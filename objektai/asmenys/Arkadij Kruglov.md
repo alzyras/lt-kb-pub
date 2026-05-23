@@ -67,6 +67,4 @@ Ją paleido prie durų stovėjęs Prienų NKGB tardytojas Kruglov Arkadij. Krugl
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Marcinkevičius]]
 - [[objektai/vietos/Prienai]]
-- [[objektai/asmenys/Tigras]]

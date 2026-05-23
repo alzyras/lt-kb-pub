@@ -76,9 +76,5 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/autoriai/E. Danilaitė]]

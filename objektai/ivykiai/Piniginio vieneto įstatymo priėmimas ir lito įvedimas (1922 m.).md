@@ -73,6 +73,3 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/politinis-sprendimas]]
-
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]

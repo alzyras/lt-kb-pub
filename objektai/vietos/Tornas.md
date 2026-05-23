@@ -57,8 +57,5 @@ Ypač tai jam buvo patogu dėl labai lengvos ir ne visai griežtos Torno taikos,
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Torno]]

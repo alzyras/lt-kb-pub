@@ -108,10 +108,5 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     - t-003
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/ivykiai/Strėvos mūšis (1348 m.)]]

@@ -72,8 +72,5 @@ Vytautas negali sustoti, pasakyti — gana galybės. Bendras jo galybės didėji
     - t-002
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]
-
 ### Susiję objektai
 - [[objektai/posakiai/Vytautas negali sustoti, pasakyti — gana galybės]]

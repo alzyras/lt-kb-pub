@@ -76,7 +76,3 @@ Praktika minima žemaičiams pasisukus į savo vakarykščius priešus ir mėgin
   pagrindžia:
     - t-003
     - t-004
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]

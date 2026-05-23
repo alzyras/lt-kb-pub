@@ -191,11 +191,5 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
     - t-007
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XI amžius]]
-- [[laikotarpiai/XIII amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/grupes/Sėliai]]

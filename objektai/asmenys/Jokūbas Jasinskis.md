@@ -142,7 +142,3 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVIII amžius]]

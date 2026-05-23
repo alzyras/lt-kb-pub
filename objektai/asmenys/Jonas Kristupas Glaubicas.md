@@ -97,9 +97,6 @@ Jonas Kristupas Glaubicas pristatomas kaip pagrindinis Vilniaus baroko mokyklos 
     - t-013
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVIII amžius]]
-
 ### Susiję objektai
 - [[objektai/zodynas/Baroko epocha]]
 - [[objektai/zodynas/Baroko epocha Vilniaus baroko mokykla]]

@@ -52,5 +52,4 @@ Galvanauskas ir ruošiamo žygio vadas, žvalgybos karininkas Jonas Budrys (Polo
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Ernestas Galvanauskas]]
 - [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]

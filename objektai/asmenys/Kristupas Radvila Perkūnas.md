@@ -119,9 +119,5 @@ Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju
     - t-003
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVI amžius]]
-
 ### Susiję objektai
-- [[objektai/asmenys/Jonas Sicinskis]]
 - [[objektai/vietos/Kuoknesė]]

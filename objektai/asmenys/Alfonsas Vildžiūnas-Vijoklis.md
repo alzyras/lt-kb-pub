@@ -60,11 +60,3 @@ preparatus „Neptun-20“, buvo suimti Algimanto apygardos štabo pareigūnas A
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/Albinas Kubilius-Rūgštymas]]
-- [[objektai/asmenys/V. Kučius]]

@@ -65,11 +65,6 @@ Chotyno mūšyje Lenkijos ir Lietuvos kariuomenė sumuša turkus 1673 m. (Iš Vi
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVI amžius]]
-- [[laikotarpiai/XVII amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/ivykiai/Chotyno mūšis]]
 - [[objektai/autoriai/J. Bennetas]]

@@ -52,11 +52,3 @@ Jonynas, Pirmasis Lietuvos statutas (Vairas, 1930, Nr. 2);.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
-### Susiję objektai
-- [[objektai/autoriai/I. Jonynas]]
-- [[objektai/autoriai/J. Kantrimas]]

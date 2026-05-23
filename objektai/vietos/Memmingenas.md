@@ -54,8 +54,5 @@ leisto Lietuvių Bibliografinės Tarnybos Biu­ letenio Knygų Lentyna (pradėta
 ### Teminiai klasteriai
 - [[temos/bibliografija]]
 
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Danville]]

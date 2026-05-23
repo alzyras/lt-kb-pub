@@ -101,12 +101,6 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
     - t-003
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XII amžius]]
-- [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/grupes/1-oji pėstininkų divizija]]
 - [[objektai/grupes/L. Želigovskio pajėgos]]

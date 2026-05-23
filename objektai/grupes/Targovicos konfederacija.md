@@ -124,10 +124,5 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
 ### Teminiai klasteriai
 - [[temos/aktas]]
 
-### Laikotarpiai
-- [[laikotarpiai/XVIII amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/grupes/Edukacinė Komisija]]

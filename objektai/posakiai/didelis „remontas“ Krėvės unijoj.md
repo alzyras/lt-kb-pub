@@ -57,8 +57,5 @@ Turime atvirai pasisa­ kyti, kad 1401 m. aktas yra didelis žingsnis pirmyn Lie
 ### Teminiai klasteriai
 - [[temos/aktas]]
 
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]
-
 ### Susiję objektai
 - [[objektai/zodynas/aneksija]]

@@ -66,9 +66,6 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIX amžius]]
-
 ### Susiję objektai
 - [[objektai/autoriai/Juozas Tumas (Vaižgantas)]]
 - [[objektai/zodynas/spiritus movens]]

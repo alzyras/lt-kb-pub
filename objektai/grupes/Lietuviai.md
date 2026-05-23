@@ -505,12 +505,6 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-017
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XI amžius]]
-- [[laikotarpiai/XIII amžius]]
-- [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XVI amžius]]
-
 ### Susiję objektai
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/daiktai/Vėliavos]]

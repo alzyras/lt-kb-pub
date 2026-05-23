@@ -149,8 +149,5 @@ Nenurodyta
     - t-006
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
 ### Susiję objektai
 - [[objektai/ivykiai/Šimonių girios apgultis]]

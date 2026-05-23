@@ -131,10 +131,5 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
     - t-004
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVII amžius]]
-
 ### Susiję objektai
 - [[objektai/daiktai/Lietuvos pinigai]]
-- [[objektai/asmenys/Petras I Didysis]]
-- [[objektai/asmenys/Stanislovas Leščinskis]]

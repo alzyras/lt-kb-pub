@@ -237,8 +237,5 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
     - t-009
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/grupes/Nacionalinio gelbėjimo komitetas]]

@@ -58,7 +58,3 @@ Be to, šios kautynės sunkiomis žiemos sąlygomis suteikė nejkainojamos patir
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]

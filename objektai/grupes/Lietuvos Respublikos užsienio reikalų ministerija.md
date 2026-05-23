@@ -105,8 +105,3 @@ Išleista Lietuvos Respublikos užsienio reikalų ministerijos užsakymu. Rengia
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XI amžius]]
-- [[laikotarpiai/XXI amžius]]

@@ -59,9 +59,5 @@ Seirijuose, Simne, Prienuose ir kt.
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Seminiškių miško rajonas]]

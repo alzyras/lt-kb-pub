@@ -61,9 +61,3 @@ nuo kurių kilęs ir įžymus italų renesanso tapybos žinovas Bernardas Berens
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIX amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

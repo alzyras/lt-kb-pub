@@ -51,5 +51,4 @@ Steigiamojo Seimo pirmininku išrinktas LŪS lyderis agronomas Aleksandras Stulg
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Kazys Grinius]]
 - [[objektai/posakiai/„etnologinėmis sienomis“]]

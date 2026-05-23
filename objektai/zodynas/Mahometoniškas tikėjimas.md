@@ -59,6 +59,3 @@ Gavę sau privilegijas iš Vytauto, kuris totorių atmintyje per šimtmečius bu
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/privilegija]]
-
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]

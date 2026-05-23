@@ -70,9 +70,6 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVI amžius]]
-
 ### Susiję objektai
 - [[objektai/paprociai/Lydimoji žemdirbystė]]
 - [[objektai/paprociai/Trilaukio ūkio sistema]]

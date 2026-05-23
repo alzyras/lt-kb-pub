@@ -54,8 +54,5 @@ tags:
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/ivykiai/S. Lozoraičio slapto memorandumo įteikimas A. Smetonai (1935 m. balandis)]]

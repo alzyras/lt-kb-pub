@@ -117,9 +117,5 @@ Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Švei
     - t-004
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/ivykiai/Antroji Lozanos konferencija (1916 m. birželio 30 d. – liepos 4 d.)]]

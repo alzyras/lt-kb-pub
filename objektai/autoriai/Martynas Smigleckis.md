@@ -66,9 +66,5 @@ Martyno Smigleckio „Logika“ datuojama 1618 m.; šaltinis ją pateikia kaip V
     - t-005
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVII amžius]]
-
 ### Susiję objektai
-- [[objektai/asmenys/Motiejus Kazimieras Sarbievijus]]
 - [[objektai/vietos/Oksfordas]]

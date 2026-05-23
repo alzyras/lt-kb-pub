@@ -62,9 +62,6 @@ Benneto veikalo „Viešpaties dešinės galybė“, 1674) 2 skyrius • L E N K
 ### Teminiai klasteriai
 - [[temos/laiškas]]
 
-### Laikotarpiai
-- [[laikotarpiai/XVII amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Chotynas]]
 - [[objektai/ivykiai/Chotyno mūšis]]

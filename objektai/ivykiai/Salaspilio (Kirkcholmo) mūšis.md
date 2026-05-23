@@ -95,8 +95,5 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVII amžius]]
-
 ### Susiję objektai
 - [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)]]

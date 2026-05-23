@@ -56,9 +56,5 @@ nijos ordinas ėmė statyti pilį toje vietoje, kur Kuršmarės jungiasi su Balt
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Klaipėda]]

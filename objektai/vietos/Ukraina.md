@@ -68,11 +68,6 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
     - t-002
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-- [[laikotarpiai/XVI amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Lvovas]]
 - [[objektai/vietos/Rytų Lietuva]]

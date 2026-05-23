@@ -55,8 +55,5 @@ Jono Kuklierio kūno 1920 m.
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Vidugiriai]]

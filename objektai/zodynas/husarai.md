@@ -158,8 +158,3 @@ Piešinyje pavaizduoti lietuvių lengvieji raiteliai — husarai su būdingais t
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVI amžius]]
-- [[laikotarpiai/XVII amžius]]

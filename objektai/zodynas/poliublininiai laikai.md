@@ -84,10 +84,6 @@ Ypač jų reikėjo ieškoti bendroje respublikoje poliublininiais amžiais. Per�
     - t-002
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVI amžius]]
-- [[laikotarpiai/XX amžius]]
-
 ### Susiję objektai
 - [[objektai/zodynas/poliublininis laikotarpis poliublininiai laikai]]
 - [[objektai/posakiai/surasti lietuvius Lietuvos istorijoje]]

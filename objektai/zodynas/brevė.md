@@ -53,7 +53,3 @@ Italijoje), kur jie buvo maloniai priimti ir gavo jo brevę (1388.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]

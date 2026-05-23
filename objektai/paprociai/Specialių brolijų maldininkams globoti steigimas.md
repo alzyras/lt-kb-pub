@@ -97,6 +97,3 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/religinė-praktika]]
-
-### Laikotarpiai
-- [[laikotarpiai/XI amžius]]

@@ -110,8 +110,5 @@ Isteris pateikiamas kaip viena iš didžiųjų upių, tekančių iš tos pačios
 Sujungta, nes šaltinis aiškiai sako `Isteris, arba Dunojus`.
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Žalioji giria]]

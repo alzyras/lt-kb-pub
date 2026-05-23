@@ -93,10 +93,6 @@ Jis juos vadina aisčiais (aestii, aestiorum gentes). Visi aisčiai, pagal kalbo
     - t-003
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/grupes/Romėnai]]
 - [[objektai/autoriai/Tacitas (romėnų rašytojas, I amžiaus gale)]]

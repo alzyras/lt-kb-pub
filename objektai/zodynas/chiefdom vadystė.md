@@ -80,7 +80,3 @@ Vartojama ankstyvosios Lietuvos politinės organizacijos aptarime.
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/istorinė-sąvoka]]
-
-### Laikotarpiai
-- [[laikotarpiai/XI amžius]]
-- [[laikotarpiai/XXI amžius]]

@@ -56,7 +56,3 @@ Ji gavo europeiško nobiliteto pažymius — herbus ir nuo tų laikų palengva �
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]

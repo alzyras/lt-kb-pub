@@ -84,6 +84,3 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/pinigai]]
-
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]

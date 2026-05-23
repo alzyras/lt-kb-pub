@@ -68,6 +68,5 @@ Liucijano Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje �
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Liucijanas Želigovskis]]
 - [[objektai/vietos/Vidurinė Lietuva]]
 - [[objektai/zodynas/administracinė linija demarkacijos linija]]

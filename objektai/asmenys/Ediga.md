@@ -76,10 +76,3 @@ Lemiamasis Vytauto žygis, vietoje Timuro ir jo emiro Edigos (Edigiu) pasodinti 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVIII amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/Timuras]]

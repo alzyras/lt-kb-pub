@@ -64,9 +64,5 @@ Tačiau Vilniaus praradimas susilpnino lietuvių pažadus, o svarstant 1922 m. k
 ### Teminiai klasteriai
 - [[temos/privilegija]]
 
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/zodynas/kultūrinė autonomija]]

@@ -52,7 +52,3 @@ Svėdasų valsčiuje, Šimonių girioje.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]

@@ -115,7 +115,3 @@ Mykolas Kleopas Oginskis vadinamas garsiojo polonezo „Atsisveikinimas su Tėvy
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-011
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVIII amžius]]

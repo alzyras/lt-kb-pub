@@ -57,6 +57,3 @@ Andrius : Kng.
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/žemėlapis]]
-
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]

@@ -58,10 +58,6 @@ tags:
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIII amžius]]
-- [[laikotarpiai/XIV amžius]]
-
 ### Susiję objektai
 - [[objektai/autoriai/Dusburgas]]
 - [[objektai/ivykiai/Junigėdos puolimas ir Mederabos sunaikinimas (1291 m.)]]

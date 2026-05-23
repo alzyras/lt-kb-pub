@@ -128,8 +128,3 @@ Rašliava apibūdinama kaip istorinė, o jos publicistinis pobūdis išryškėja
 ## Šaltiniai ir įrodymai
 
 ## Pastabos
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

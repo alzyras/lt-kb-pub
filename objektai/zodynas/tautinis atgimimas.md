@@ -95,10 +95,5 @@ Autorius sieja tautinį atgimimą su socialiniais pokyčiais ir vėlesniu intens
 ### Teminiai klasteriai
 - [[temos/istorinė-sąvoka]]
 
-### Laikotarpiai
-- [[laikotarpiai/XIX amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/zodynas/tautinė sąmonė]]

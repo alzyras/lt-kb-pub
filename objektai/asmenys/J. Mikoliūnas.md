@@ -83,5 +83,4 @@ Mikoliūnas ir K. Mikoliūno vora aplenkdama Žemųjų Kaplių kaimą iš šiaur
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/K. Dragunevičius]]
 - [[objektai/daiktai/Lietuvos kario savadarbė diržo sagtis]]

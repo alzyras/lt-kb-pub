@@ -72,8 +72,3 @@ Sostas pripažino Lietuvos valstybę de jure (1922.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

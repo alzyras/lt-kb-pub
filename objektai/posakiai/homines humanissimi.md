@@ -56,8 +56,5 @@ Adomas, tiesa, kalbėjo apie «sembus arba prūsus» (« Sembi vėl Pruzzi »), 
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XI amžius]]
-
 ### Susiję objektai
 - [[objektai/autoriai/Adomas Bremenietis]]

@@ -124,12 +124,6 @@ tags: []
     - t-009
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XV amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Bonifacas IX]]
 - [[objektai/vietos/Malburgas]]

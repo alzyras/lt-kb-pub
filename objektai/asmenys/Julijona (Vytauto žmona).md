@@ -116,7 +116,3 @@ Julijona šiame įraše atskirta kaip Vytauto žmona, minima jo šeimos, karūna
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Vytautas]]

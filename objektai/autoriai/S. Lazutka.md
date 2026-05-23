@@ -38,8 +38,3 @@ Lazutka, E.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/E. Gudavičius]]
-- [[objektai/autoriai/Gudavičius E]]

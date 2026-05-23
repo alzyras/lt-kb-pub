@@ -53,9 +53,6 @@ Krakių vlsč.
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Kėdainių apskritis]]
 - [[objektai/vietos/Lenčių miškas]]

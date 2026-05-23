@@ -62,6 +62,3 @@ Puzyna, autorius disertacijos apie Švitrigailą, davė eilę studijų genealogi
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
-
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]

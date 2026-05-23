@@ -55,6 +55,3 @@ Lehr-Splawiński, T.
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/žemėlapis]]
-
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]

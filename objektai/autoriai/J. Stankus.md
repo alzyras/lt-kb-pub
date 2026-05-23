@@ -57,6 +57,3 @@ Stankus, J. — Stankus, J.
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/įrankis]]
-
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]

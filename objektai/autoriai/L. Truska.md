@@ -59,11 +59,3 @@ Truska: Emigracija iš Lietuvos 1868-1914 m. (AkMD, t.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIX amžius]]
-- [[laikotarpiai/XX amžius]]
-
-### Susiję objektai
-- [[objektai/autoriai/P. Žostautaitė]]

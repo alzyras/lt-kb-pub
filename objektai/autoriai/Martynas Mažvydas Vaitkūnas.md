@@ -100,11 +100,3 @@ Martynas Mažvydas Vaitkūnas šiame šaltinyje minimas kaip autorius, raštinin
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVI amžius]]
-
-### Susiję objektai
-- [[objektai/autoriai/J. Bretkūnas]]
-- [[objektai/autoriai/Stanislovas Rapagelionis]]

@@ -58,7 +58,3 @@ Lietuvių kunigaikščių posakis apibūdina užimtų žemių tvarkos išlaikymo
   pagrindžia:
     - t-005
     - t-006
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]

@@ -66,6 +66,3 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/paliaubos]]
-
-### Laikotarpiai
-- [[laikotarpiai/XIII amžius]]

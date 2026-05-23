@@ -75,8 +75,3 @@ Iš ordino žemių patekęs į Vakarus, po studijų Pragos universitete, nuo 140
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XV amžius]]

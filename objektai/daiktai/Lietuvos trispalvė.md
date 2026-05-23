@@ -116,9 +116,5 @@ Nenurodyta
 ### Teminiai klasteriai
 - [[temos/simbolis]]
 
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Katedros aikštė]]

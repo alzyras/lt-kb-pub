@@ -58,12 +58,3 @@ Atskirų dalinių (^8) M. Ljubavskij : Litovsko-Russkij sejm, Maskva 1900, 355-3
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIX amžius]]
-- [[laikotarpiai/XX amžius]]
-
-### Susiję objektai
-- [[objektai/autoriai/J. Jakubovskis]]
-- [[objektai/autoriai/M. Ljubavskij]]

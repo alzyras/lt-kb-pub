@@ -86,7 +86,3 @@ Vainauską ir P. Vainauskas, vyresniojo padėjėju — P.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Povilas Lukšys]]

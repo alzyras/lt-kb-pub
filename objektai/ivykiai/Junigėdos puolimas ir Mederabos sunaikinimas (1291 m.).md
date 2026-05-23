@@ -69,10 +69,6 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIII amžius]]
-- [[laikotarpiai/XIV amžius]]
-
 ### Susiję objektai
 - [[objektai/autoriai/Dusburgas]]
 - [[objektai/vietos/Mederaba]]

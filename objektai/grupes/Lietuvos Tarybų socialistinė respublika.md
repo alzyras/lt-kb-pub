@@ -58,8 +58,5 @@ tags:
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
 ### Susiję objektai
 - [[objektai/zodynas/suverenumas]]

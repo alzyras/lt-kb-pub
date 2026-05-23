@@ -68,5 +68,4 @@ Lietuvos) konfederacija, kuriai vadovavo Lietuvos didysis etmonas Simonas Kosako
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Simonas Kosakovskis]]
 - [[objektai/ivykiai/Vilniaus konfederacijos pritarimas Targovicos konfederacijai]]

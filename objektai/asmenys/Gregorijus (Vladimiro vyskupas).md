@@ -58,5 +58,4 @@ Bonifacas IX parėmė Vytauto pastangas plėsti katalikybę ir stačiatikių tar
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Bonifacas IX]]
 - [[objektai/grupes/Domininkonų ordinas]]

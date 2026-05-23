@@ -91,8 +91,5 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIX amžius]]
-
 ### Susiję objektai
 - [[objektai/ivykiai/Naujaberžės kautynės]]

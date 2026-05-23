@@ -123,9 +123,5 @@ Nenurodyta
 ### Teminiai klasteriai
 - [[temos/dinastija]]
 
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/daiktai/Vėliavos]]

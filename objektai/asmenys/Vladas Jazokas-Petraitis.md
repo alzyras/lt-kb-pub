@@ -57,9 +57,3 @@ Desantininkams vadovavo iš Pasvalio kilęs leitenantas Vladas JazokasPetraitis.
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/drabužis]]
-
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/Steponas Girdžiūnas-Gegužis]]

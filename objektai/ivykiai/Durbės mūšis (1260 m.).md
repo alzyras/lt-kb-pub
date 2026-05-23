@@ -136,8 +136,5 @@ Ordinas ruošė didelį žygį į Žemaičius ir į pagalbą pasikvietė Prūsų
     - t-007
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIII amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Georgenburgas]]

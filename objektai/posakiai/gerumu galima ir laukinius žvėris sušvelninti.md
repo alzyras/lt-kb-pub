@@ -87,11 +87,5 @@ Vytautui priskiriama moralinė formulė teigia, kad gerumas pajėgus sušvelnint
     - t-002
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XV amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/posakiai/„gerumu galima ir laukinius žvėris sušvelninti.“]]

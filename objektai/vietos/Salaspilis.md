@@ -106,10 +106,3 @@ Užmuštų buvo 9.000 švedų. Ryga buvo išgelbėta, Livonija atvaduota.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIX amžius]]
-- [[laikotarpiai/XVI amžius]]
-- [[laikotarpiai/XVII amžius]]
-- [[laikotarpiai/XVIII amžius]]

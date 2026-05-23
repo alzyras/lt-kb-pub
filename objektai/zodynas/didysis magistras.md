@@ -128,12 +128,6 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
     - t-008
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-- [[laikotarpiai/XIV amžius]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Ulrichas von Jungingenas]]
 - [[objektai/zodynas/krašto magistras]]

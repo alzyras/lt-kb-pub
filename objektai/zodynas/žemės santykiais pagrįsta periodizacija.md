@@ -66,7 +66,3 @@ Kai šitoje periodizacijoje neatsižvelgiama į dinastinius bei tarpvalstybinius
 ### Teminiai klasteriai
 - [[temos/didikas]]
 - [[temos/dinastija]]
-
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XV amžius]]

@@ -59,12 +59,3 @@ Osten-Sacken, P. von : Livländisch-russische Beziehungen während der Regierung
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XV amžius]]
-- [[laikotarpiai/XX amžius]]
-
-### Susiję objektai
-- [[objektai/autoriai/Osten-Sacken, P. von]]

@@ -150,8 +150,3 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-006
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Josifas Stalinas]]
-- [[objektai/asmenys/Nikita Chruščiovas]]

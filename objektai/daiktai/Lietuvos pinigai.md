@@ -244,12 +244,6 @@ Nenurodyta
 ### Teminiai klasteriai
 - [[temos/pinigai]]
 
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XV amžius]]
-- [[laikotarpiai/XVIII amžius]]
-- [[laikotarpiai/XX amžius]]
-
 ### Susiję objektai
 - [[objektai/daiktai/Aleksandro pinigai]]
 - [[objektai/asmenys/Augustas II]]

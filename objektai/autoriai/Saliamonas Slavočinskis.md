@@ -67,7 +67,3 @@ Saliamono Slavočinskio „Giesmės“ datuojamos 1646 m. ir siejamos su lietuvi
   pagrindžia:
     - t-005
     - t-006
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVII amžius]]

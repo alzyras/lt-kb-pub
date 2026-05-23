@@ -99,6 +99,3 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/aktas]]
-
-### Laikotarpiai
-- [[laikotarpiai/XVIII amžius]]

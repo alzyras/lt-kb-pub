@@ -63,7 +63,3 @@ Trakų pilis.
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/žemėlapis]]
-
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XXI amžius]]

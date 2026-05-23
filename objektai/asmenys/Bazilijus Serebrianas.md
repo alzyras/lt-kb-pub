@@ -62,6 +62,3 @@ Viena jų, vadovaujama kunigaikščio Baziliaus Serebriano, pajudėjo iš Smolen
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/karvedys]]
-
-### Susiję objektai
-- [[objektai/asmenys/Petras Šuiskis]]

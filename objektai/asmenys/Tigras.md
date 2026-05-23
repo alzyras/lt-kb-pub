@@ -66,10 +66,3 @@ Gi atsargusis Tigras buvo ginkluotas vokišku MG 36 [turėtų būti MG 34] kulko
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Arkadij Kruglov]]
-- [[objektai/asmenys/Gaidys]]
-- [[objektai/asmenys/Marcinkevičius]]
-- [[objektai/asmenys/Viesulas]]

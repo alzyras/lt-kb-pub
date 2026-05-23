@@ -109,6 +109,3 @@ Nepriklausomybės kovų metu karinė savanorystė siejama su entuziastingu stoji
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/socialinė-praktika]]
-
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]

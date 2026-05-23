@@ -58,8 +58,5 @@ Kai per Lietuvos jėzuitų kolegijas ir Vilniaus Akademiją lotynų kalba vis da
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVIII amžius]]
-
 ### Susiję objektai
 - [[objektai/grupes/Vilniaus Akademija]]

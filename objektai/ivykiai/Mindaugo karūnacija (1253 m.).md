@@ -126,8 +126,5 @@ Karūna šaltinyje įvardijama kaip svarbiausias Mindaugo krikšto politinis tik
 ### Teminiai klasteriai
 - [[temos/karūnacija]]
 
-### Laikotarpiai
-- [[laikotarpiai/XIII amžius]]
-
 ### Susiję objektai
 - [[objektai/ivykiai/Mindaugo karūnacija]]

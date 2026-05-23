@@ -188,8 +188,5 @@ pabaigoje į Lietuvos istoriją įžengė garsiausia ir – tai svarbu – lietu
 ### Teminiai klasteriai
 - [[temos/dinastija]]
 
-### Laikotarpiai
-- [[laikotarpiai/XVI amžius]]
-
 ### Susiję objektai
 - [[objektai/ivykiai/Polocko apsiaustis (1563 m. sausio 31 d.)]]

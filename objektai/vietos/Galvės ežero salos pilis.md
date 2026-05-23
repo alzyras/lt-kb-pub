@@ -97,9 +97,6 @@ Tai pilis, minima kaip vienas reprezentacinių Vytauto statinių.
 ## Pastabos
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Galvės ežeras]]
 - [[objektai/vietos/Trakai]]

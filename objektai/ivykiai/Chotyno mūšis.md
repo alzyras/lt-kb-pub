@@ -74,9 +74,6 @@ Nenurodyta
 ### Teminiai klasteriai
 - [[temos/laiškas]]
 
-### Laikotarpiai
-- [[laikotarpiai/XVII amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Chotynas]]
 - [[objektai/autoriai/J. Bennetas]]

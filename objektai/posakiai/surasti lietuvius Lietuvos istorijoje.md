@@ -61,10 +61,6 @@ Perėjęs pagrindinai į poliublininius laikus ir juose «ieškodamas lietuvių 
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVI amžius]]
-- [[laikotarpiai/XX amžius]]
-
 ### Susiję objektai
 - [[objektai/zodynas/poliublininiai laikai]]
 - [[objektai/zodynas/poliublininis laikotarpis poliublininiai laikai]]

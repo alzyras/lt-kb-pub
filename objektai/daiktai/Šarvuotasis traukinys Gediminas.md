@@ -144,9 +144,6 @@ Nenurodyta
     - t-004
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Jonas Kraucevičius]]
 - [[objektai/vietos/Varėna]]

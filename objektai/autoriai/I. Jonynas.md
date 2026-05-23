@@ -58,10 +58,3 @@ Jonynas, lg. : JakG, I, 127-135 ; II, 5-59 p. — (”) Naujausi Gedimino dinast
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
-
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
-### Susiję objektai
-- [[objektai/autoriai/Ig. Jonynas]]
-- [[objektai/autoriai/J. Kantrimas]]

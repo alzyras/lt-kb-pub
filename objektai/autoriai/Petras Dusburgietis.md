@@ -111,11 +111,3 @@ Dusburgietis pažymi, kad „keturi tūkstančiai lietuvių“ niokojo Kuršo ž
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XXI amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/Vytenis (Lietuvos karalius)]]

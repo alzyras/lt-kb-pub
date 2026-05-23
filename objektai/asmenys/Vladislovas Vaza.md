@@ -145,10 +145,3 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVII amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/Mykolas Borisovičius Šeina]]

@@ -118,6 +118,3 @@ tags:
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/laiškas]]
-
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]

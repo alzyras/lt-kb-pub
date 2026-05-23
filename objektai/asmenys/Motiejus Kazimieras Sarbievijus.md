@@ -45,5 +45,4 @@ Vilniaus universiteto profesorių veikalai pasiekė net protestantiškąją Angl
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/autoriai/Martynas Smigleckis]]
 - [[objektai/vietos/Oksfordas]]

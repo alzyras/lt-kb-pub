@@ -91,9 +91,6 @@ Nenurodyta
 ## Šaltiniai ir įrodymai
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
 ### Susiję objektai
 - [[objektai/paprociai/Sovietinio deficito eilės ir talonų laukimas]]
 - [[objektai/zodynas/deficitas talonai]]

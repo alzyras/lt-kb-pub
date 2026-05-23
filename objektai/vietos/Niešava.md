@@ -78,10 +78,5 @@ tags:
     - t-002
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/ivykiai/Niešavo prekybos sutartis („über transitus“) (1424 m.)]]

@@ -68,8 +68,3 @@ Mūšis įvyko ordino žemėje, tarp Tanenbergo ir Griunvaldo.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

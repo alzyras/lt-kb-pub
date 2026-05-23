@@ -58,11 +58,3 @@ Mikalojus Dziežgavičius (1421—1453), — Visi buvo pa­ skirti vyskupais Vyt
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/Motiejus (Žemaičių ir Vilniaus vyskupas)]]
-- [[objektai/asmenys/Petras iš Kustynės]]

@@ -1161,12 +1161,6 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
     - t-061
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XII amžius]]
-- [[laikotarpiai/XIII amžius]]
-- [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XV amžius]]
-
 ### Susiję objektai
 - [[objektai/grupes/Joanitų ordinas]]
 - [[objektai/vietos/Karaliaučius]]

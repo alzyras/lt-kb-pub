@@ -73,8 +73,5 @@ Vartojamas Vilniaus Gaono pasiūlymų ir žydų mokymo reformų kontekste.
 ### Teminiai klasteriai
 - [[temos/religinis-terminas]]
 
-### Laikotarpiai
-- [[laikotarpiai/XVIII amžius]]
-
 ### Susiję objektai
 - [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]

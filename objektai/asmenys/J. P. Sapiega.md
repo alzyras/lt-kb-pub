@@ -75,6 +75,4 @@ Sapiegos ir T. Sapiegos husarų ir petihorų vėliavos atlaikyti pagrindinį Šv
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/H. Brantas]]
-- [[objektai/asmenys/T. Dambrava]]
 - [[objektai/zodynas/petihorai]]

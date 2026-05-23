@@ -54,7 +54,3 @@ Matulaitytė rašo apie astro­ nomijos mokslo įvedimą Vilniaus universitete X
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]

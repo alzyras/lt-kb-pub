@@ -107,10 +107,6 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
 ### Teminiai klasteriai
 - [[temos/paliaubos]]
 
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/zodynas/Kerzono linija]]
 - [[objektai/vietos/Merkinė]]

@@ -53,11 +53,3 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/Bronius Liesis-Naktis]]
-- [[objektai/asmenys/Petras Bartkus-Žadgaila]]

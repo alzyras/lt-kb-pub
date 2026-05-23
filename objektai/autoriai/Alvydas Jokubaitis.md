@@ -75,11 +75,3 @@ Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio reikalų minist
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XXI amžius]]
-
-### Susiję objektai
-- [[objektai/autoriai/Inga Vinogradnaitė]]
-- [[objektai/autoriai/Raimundas Lopata]]

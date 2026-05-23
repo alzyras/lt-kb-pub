@@ -146,9 +146,3 @@ prūsais buvo vadinamos tik tos vakarinės aisčių giminės, kurios anksčiau p
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIII amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

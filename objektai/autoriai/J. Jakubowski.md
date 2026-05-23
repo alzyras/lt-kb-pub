@@ -71,8 +71,3 @@ Jakubowski, J.: Opis księstwa trockiego w 1387 r ., PH, t.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XX amžius]]

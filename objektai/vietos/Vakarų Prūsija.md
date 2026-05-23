@@ -79,8 +79,5 @@ Gardine išleista privilegija nurodė statyti a i miesto gynybinę mūro sieną 
 ### Teminiai klasteriai
 - [[temos/privilegija]]
 
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Varmė]]

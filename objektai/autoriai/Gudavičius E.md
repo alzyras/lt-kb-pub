@@ -57,8 +57,3 @@ Gudavičius E. Gudavičius.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/E. Gudavičius]]
-- [[objektai/autoriai/S. Lazutka]]

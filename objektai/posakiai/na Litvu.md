@@ -81,9 +81,5 @@ tags:
     - t-002
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XI amžius]]
-- [[laikotarpiai/XII amžius]]
-
 ### Susiję objektai
 - [[objektai/ivykiai/Kijevo Mstislavo žygiai į Lietuvą (1131–1132 m.)]]

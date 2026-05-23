@@ -74,9 +74,5 @@ Nenurodyta
 ### Teminiai klasteriai
 - [[temos/karo-reikmuo]]
 
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/paprociai/Vakarų pagalbos kvietimas ir svečių iš Vokietijos šaukimas]]

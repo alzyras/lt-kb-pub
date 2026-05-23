@@ -83,9 +83,5 @@ Nenurodyta
 ## Šaltiniai ir įrodymai
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/zodynas/Restitucija]]

@@ -137,9 +137,6 @@ Ypač jo įtaka buvo susilpnėjusi Pskovo ir Naugardo respublikose, kurios daugi
     - t-004
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]
-
 ### Susiję objektai
 - [[objektai/grupes/Maskvos kunigaikštystė]]
 - [[objektai/grupes/Pskovo respublika]]

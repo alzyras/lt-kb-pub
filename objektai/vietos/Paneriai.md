@@ -76,8 +76,5 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
     - t-002
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Vokė]]

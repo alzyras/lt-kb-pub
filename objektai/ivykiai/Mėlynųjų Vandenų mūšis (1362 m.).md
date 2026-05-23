@@ -243,11 +243,6 @@ Nenurodyta
     - t-014
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas]]
 - [[objektai/vietos/Dniepras]]

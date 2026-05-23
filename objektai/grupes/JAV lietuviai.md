@@ -94,7 +94,3 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/pinigai]]
-
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

@@ -61,6 +61,3 @@ Po to buvo susitaikinta ir su ciesorium Zigmantu, kuris Kėzmarko suvažiavime (
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/paliaubos]]
-
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]

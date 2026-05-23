@@ -56,9 +56,6 @@ Kronikininkas Dusburgas, kuriam anksčiau Vytenis tebuvo « Lietuvos karaliaus s
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIII amžius]]
-
 ### Susiję objektai
 - [[objektai/autoriai/Dusburgas]]
 - [[objektai/posakiai/Lietuvos karaliaus sūnus]]

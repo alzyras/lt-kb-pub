@@ -75,7 +75,3 @@ Daugudis, V. Daugudis, V.: Mažulonių piliakalnis , ILKI, t.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]

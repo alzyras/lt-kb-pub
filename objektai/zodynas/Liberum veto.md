@@ -147,10 +147,3 @@ Terminas vartojamas tiek aiškinamajame pasakojime, tiek cituojamame politiniame
 ## Šaltiniai ir įrodymai
 
 ## Pastabos
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVII amžius]]
-- [[laikotarpiai/XVIII amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

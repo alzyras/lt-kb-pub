@@ -68,9 +68,5 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVI amžius]]
-- [[laikotarpiai/XVII amžius]]
-
 ### Susiję objektai
 - [[objektai/daiktai/Alebardos]]

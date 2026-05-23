@@ -108,10 +108,6 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
 - [[temos/ežeras]]
 - [[temos/paliaubos]]
 
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/grupes/Aukščiausioji Santarvininkių Taryba]]
 - [[objektai/vietos/Ežeronis]]

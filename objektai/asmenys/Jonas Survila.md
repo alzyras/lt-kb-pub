@@ -63,7 +63,3 @@ Talkinink킬 kry탑iuo훾i킬 liko tik keletas, tarp j킬 탑uvo tarnaudami senajai T�
   patikimumo_pagrindimas: ""
   pagrind탑ia:
     - t-001
-
-## Ry큄iai
-### Laikotarpiai
-- [[laikotarpiai/XIV am탑ius]]

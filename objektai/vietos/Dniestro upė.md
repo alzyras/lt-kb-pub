@@ -62,6 +62,3 @@ Po nepasisekusių kovų Turkija netrukus pasirašė paliaubas, o pagal 1623 m. s
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/paliaubos]]
-
-### Laikotarpiai
-- [[laikotarpiai/XVII amžius]]

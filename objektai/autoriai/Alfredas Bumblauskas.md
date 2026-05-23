@@ -131,7 +131,3 @@ Alfredas Bumblauskas minimas kaip recenzentas ir straipsnio autorius ankstesniam
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-011
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XXI amžius]]

@@ -65,6 +65,3 @@ Wermke : Bibliographie der Geschichte von Ostund Westpreußen (bis 1929). Wermke
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/bibliografija]]
-
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]

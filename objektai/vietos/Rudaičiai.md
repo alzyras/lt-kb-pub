@@ -55,8 +55,5 @@ Iš Rudaičių ir Veliuonos kapinynų duomenų pateikė M.
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
 ### Susiję objektai
 - [[objektai/autoriai/M. Michelbertas]]

@@ -60,9 +60,3 @@ Lenkijos religinę toleranciją yra apibūdinę kaip neturinčią analogo Europo
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XV amžius]]
-- [[laikotarpiai/XVII amžius]]

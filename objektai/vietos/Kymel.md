@@ -57,8 +57,5 @@ tags:
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIII amžius]]
-
 ### Susiję objektai
 - [[objektai/ivykiai/Kymel pilies sunaikinimas (1295 m.)]]

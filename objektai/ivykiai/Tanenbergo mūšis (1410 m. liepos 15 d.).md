@@ -69,8 +69,5 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]
-
 ### Susiję objektai
 - [[objektai/ivykiai/Tanenbergo mūšis 1410 m. liepos 15 d]]

@@ -99,9 +99,5 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/X amžius]]
-- [[laikotarpiai/XIV amžius]]
-
 ### Susiję objektai
 - [[objektai/daiktai/Pilies raktai]]

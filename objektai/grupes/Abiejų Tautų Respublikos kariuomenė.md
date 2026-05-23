@@ -56,8 +56,5 @@ ATR kariuomenės pratęsė Europos riterių atakos tradiciją, o Vakarų Europoj
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVII amžius]]
-
 ### Susiję objektai
 - [[objektai/paprociai/Husarų vėliavų „draugų“ ir palydos sistema]]

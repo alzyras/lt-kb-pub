@@ -46,8 +46,3 @@ Gaidys ir Viesulas turėjo tik pistalietus.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Gaidys]]
-- [[objektai/asmenys/Tigras]]

@@ -260,10 +260,3 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-010
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/Mikalojus Cebulka]]

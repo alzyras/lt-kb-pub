@@ -296,7 +296,3 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-033
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIII amžius]]

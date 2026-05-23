@@ -107,9 +107,6 @@ Atkūrus nepriklausomybę privatizacijos praktika rėmėsi investiciniais čekia
 ### Teminiai klasteriai
 - [[temos/socialinė-praktika]]
 
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
 ### Susiję objektai
 - [[objektai/daiktai/Investiciniai čekiai]]
 - [[objektai/zodynas/Privatizacija ir išvalstybinimas]]

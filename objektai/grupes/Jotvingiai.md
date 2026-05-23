@@ -205,10 +205,6 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
     - t-008
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIII amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/ivykiai/1279 m. badmetis Lietuvoje ir Jotvingijoje]]
 - [[objektai/grupes/Lietgaliai]]

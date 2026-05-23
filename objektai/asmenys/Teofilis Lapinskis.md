@@ -56,7 +56,3 @@ Lapinskio jūrų ekspedicija dėl audros ties Juodkrante sužlugo.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIX amžius]]

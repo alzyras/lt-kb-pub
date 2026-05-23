@@ -104,9 +104,6 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
     - t-008
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Jogaila]]
 - [[objektai/asmenys/Vytautas]]

@@ -58,9 +58,3 @@ ir lenkų karaliaus Boleslovo Maldingojo 1264 m. privilegijų pavyz­ džiu.
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/privilegija]]
-
-### Laikotarpiai
-- [[laikotarpiai/XIII amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/Otokaras (Čekijos karalius)]]

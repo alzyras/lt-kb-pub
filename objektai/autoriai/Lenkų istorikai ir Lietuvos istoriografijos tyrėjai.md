@@ -314,22 +314,3 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-011
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIX amžius]]
-- [[laikotarpiai/XVI amžius]]
-- [[laikotarpiai/XVII amžius]]
-- [[laikotarpiai/XX amžius]]
-
-### Susiję objektai
-- [[objektai/autoriai/A. Prochaska]]
-- [[objektai/autoriai/J. Latkowski]]
-- [[objektai/autoriai/J. Ochmański]]
-- [[objektai/autoriai/J. Voigt]]
-- [[objektai/autoriai/K. Chodynickis]]
-- [[objektai/autoriai/M. Zeilleris]]
-- [[objektai/autoriai/O. Balzeris]]
-- [[objektai/autoriai/W. Kamienieckis]]
-- [[objektai/autoriai/W. Ziesemer]]
-- [[objektai/autoriai/Wł. Semkowiczius]]

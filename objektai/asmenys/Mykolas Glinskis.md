@@ -133,9 +133,3 @@ Jis vyriausiais kariuomenės vadais paskyrė LDK etmoną Stanislovą Kišką ir 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/karvedys]]
-
-### Laikotarpiai
-- [[laikotarpiai/XVI amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/Aleksandras]]

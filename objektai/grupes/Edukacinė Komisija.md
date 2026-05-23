@@ -142,11 +142,6 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
     - t-005
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVIII amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/grupes/Dalomoji Komisija]]
 - [[objektai/grupes/Targovicos konfederacija]]

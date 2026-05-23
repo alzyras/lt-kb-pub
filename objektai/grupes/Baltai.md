@@ -151,9 +151,6 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
     - t-006
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Nemuno-Dauguvos-Dniepro plotas]]
 - [[objektai/vietos/Pripetės pelkės]]

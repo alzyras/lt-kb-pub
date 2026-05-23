@@ -78,10 +78,6 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
 - tipas: jūra / marių baseinas; jūra
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XVI amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Isteris]]
 - [[objektai/vietos/Kimerija]]

@@ -89,11 +89,3 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-
-### Susiję objektai
-- [[objektai/autoriai/Petras Dusburgietis]]
-- [[objektai/asmenys/Pukuveras (Lietuvos karalius)]]

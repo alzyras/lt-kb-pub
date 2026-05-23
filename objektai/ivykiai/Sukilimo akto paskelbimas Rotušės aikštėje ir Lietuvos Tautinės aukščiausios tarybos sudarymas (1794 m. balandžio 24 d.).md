@@ -78,8 +78,5 @@ Nenurodyta
 ### Teminiai klasteriai
 - [[temos/aktas]]
 
-### Laikotarpiai
-- [[laikotarpiai/XVIII amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Rotušės aikštė]]

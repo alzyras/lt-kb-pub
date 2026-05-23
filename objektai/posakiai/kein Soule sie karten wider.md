@@ -52,7 +52,3 @@ Grįždami prie Saulės (« kein Soule sie karten wider »), t.y.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIII amžius]]

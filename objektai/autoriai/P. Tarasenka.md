@@ -58,6 +58,3 @@ Tarasenka, Lietuvos archeologijos medžiaga (1929); B. Tarasenka, Apeiginiai L.
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/ritualas]]
-
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]

@@ -82,7 +82,3 @@ O Ziemovito viltys laimėti Jadvygos ranką 1383 m. pavasarį buvo padidėjusios
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/aktas]]
-
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XX amžius]]

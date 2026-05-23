@@ -75,8 +75,3 @@ Pranciškus Skorina vadinamas pirmuoju Lietuvos spaustuvininku; jis Prahoje pare
   pagrindžia:
     - t-007
     - t-008
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]
-- [[laikotarpiai/XVI amžius]]

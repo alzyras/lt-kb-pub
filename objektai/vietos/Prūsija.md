@@ -240,12 +240,6 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 - tipas: pajūrio kraštas / regionas; kraštas / regionas; kraštas / istorinis regionas
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIII amžius]]
-- [[laikotarpiai/XIX amžius]]
-- [[laikotarpiai/XVI amžius]]
-- [[laikotarpiai/XVIII amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Karaliaučius]]
 - [[objektai/vietos/Kuršas]]

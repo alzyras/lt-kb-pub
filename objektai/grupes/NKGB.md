@@ -160,8 +160,3 @@ Sovietinė valstybės saugumo ir represinė struktūra.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-009
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

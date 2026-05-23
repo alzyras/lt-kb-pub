@@ -128,11 +128,5 @@ Nenurodyta.
 - [[temos/istorinė-sąvoka]]
 - [[temos/religinis-terminas]]
 
-### Laikotarpiai
-- [[laikotarpiai/XIII amžius]]
-- [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XV amžius]]
-- [[laikotarpiai/XX amžius]]
-
 ### Susiję objektai
 - [[objektai/zodynas/Metropolija ir metropolitas]]

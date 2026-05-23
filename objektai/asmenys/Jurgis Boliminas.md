@@ -63,10 +63,3 @@ tags:
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/didikas]]
-
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/Jurgis Geldgaudas]]
-- [[objektai/asmenys/Mykolas Sapienskis]]

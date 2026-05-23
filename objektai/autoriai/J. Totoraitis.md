@@ -83,7 +83,3 @@ Totoraitis, Die Litauer unter d. K. Totoraitis, Lietuvos atgijimas;.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]

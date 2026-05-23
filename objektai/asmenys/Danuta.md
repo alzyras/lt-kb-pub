@@ -80,12 +80,3 @@ Danuta 1380 m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydam
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/Mozūrijos kunigaikštis Jonušas]]
-- [[objektai/asmenys/Ona Vytautienė]]
-- [[objektai/asmenys/Vygandas von Baldersheimas]]

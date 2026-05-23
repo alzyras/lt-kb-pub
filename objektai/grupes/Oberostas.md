@@ -159,7 +159,3 @@ Vokiečių karinė administracija / vadovybė okupuotame krašte.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-012
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]

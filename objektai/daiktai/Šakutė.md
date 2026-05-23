@@ -76,7 +76,3 @@ Nenurodyta
     - t-004
 
 ## Šaltiniai ir įrodymai
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVI amžius]]

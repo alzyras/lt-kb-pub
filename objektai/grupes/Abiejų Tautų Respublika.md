@@ -325,9 +325,3 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-029
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVI amžius]]
-- [[laikotarpiai/XVIII amžius]]
-- [[laikotarpiai/XXI amžius]]

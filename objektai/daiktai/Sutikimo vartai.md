@@ -95,9 +95,6 @@ Nenurodyta
 ### Teminiai klasteriai
 - [[temos/simbolis]]
 
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
 ### Susiję objektai
 - [[objektai/daiktai/Kino kronikos kameros]]
 - [[objektai/paprociai/Prezidento A. Smetonos iškilmingos kelionės po miestelius ir sutikimo vartų ceremonijos]]

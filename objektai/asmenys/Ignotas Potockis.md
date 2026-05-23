@@ -42,8 +42,3 @@ Lietuvos atstovai pasirodė net garbingiau nei Lenkijos – iš penkių balsų, 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Kazimieras Nestoras Sapiega]]
-- [[objektai/asmenys/Stanislovas Soltanas]]

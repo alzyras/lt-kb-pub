@@ -93,6 +93,4 @@ Viena jų, vadovaujama kunigaikščio Baziliaus Serebriano, pajudėjo iš Smolen
 - [[temos/karvedys]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Bazilijus Serebrianas]]
 - [[objektai/vietos/Lukomlys]]
-- [[objektai/asmenys/Mikalojus Radvila Rudasis]]

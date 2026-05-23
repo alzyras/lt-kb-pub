@@ -93,11 +93,5 @@ tags:
 ### Teminiai klasteriai
 - [[temos/dinastija]]
 
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XV amžius]]
-- [[laikotarpiai/XVI amžius]]
-- [[laikotarpiai/XVIII amžius]]
-
 ### Susiję objektai
 - [[objektai/zodynas/valstybingumo idėja valstybingumo idealas valstybingumu grįsta periodizacija]]

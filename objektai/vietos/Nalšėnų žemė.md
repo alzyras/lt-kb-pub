@@ -50,7 +50,3 @@ Jie buvo pasiekę Nalšėnų žemę^144.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIII amžius]]

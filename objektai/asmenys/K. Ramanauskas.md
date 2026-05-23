@@ -59,6 +59,3 @@ Ramanausko grupė (2-ojo pulko batalionas) iš Beržininko žygiuoti per Gibus i
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/ežeras]]
-
-### Susiję objektai
-- [[objektai/asmenys/A. Jakaitis]]

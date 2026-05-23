@@ -89,8 +89,5 @@ Nenurodyta
     - t-003
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
 ### Susiję objektai
 - [[objektai/ivykiai/Giedraičių kautynės]]

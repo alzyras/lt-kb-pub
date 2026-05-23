@@ -123,9 +123,6 @@ Nenurodyta
 ## Šaltiniai ir įrodymai
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVII amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Amsterdamas]]
 - [[objektai/autoriai/Kazimieras Semenavičius]]

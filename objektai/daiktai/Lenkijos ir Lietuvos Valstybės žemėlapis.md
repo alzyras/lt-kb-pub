@@ -69,6 +69,3 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/žemėlapis]]
-
-### Laikotarpiai
-- [[laikotarpiai/XVIII amžius]]

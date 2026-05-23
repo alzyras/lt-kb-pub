@@ -101,9 +101,6 @@ tags:
     - t-003
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
 ### Susiję objektai
 - [[objektai/grupes/6-asis pėstininkų Pilėnų Kunigaikščio Margio pulkas]]
 - [[objektai/vietos/Eglainė]]

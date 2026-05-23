@@ -58,8 +58,5 @@ lietuvių didikai jau turėjo prilygti Vakarų Europos riteriams, tai iliustruoj
 ### Teminiai klasteriai
 - [[temos/didikas]]
 
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-
 ### Susiję objektai
 - [[objektai/daiktai/Ietis]]

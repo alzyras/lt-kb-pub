@@ -59,8 +59,5 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
 ### Susiję objektai
 - [[objektai/grupes/Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti]]

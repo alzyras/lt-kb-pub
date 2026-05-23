@@ -103,8 +103,3 @@ Nenurodyta
     - t-006
 
 ## Šaltiniai ir įrodymai
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XX amžius pr. Kr|XX amžius pr. Kr.]]

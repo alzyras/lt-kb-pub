@@ -68,6 +68,3 @@ Trubeckojaus kariuomenė (apie 15000 karių) užėmė Mstislavlį (liepos 22 d. 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/karvedys]]
-
-### Susiję objektai
-- [[objektai/asmenys/V. B. Seremetjevas]]

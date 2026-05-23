@@ -252,8 +252,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-012
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVIII amžius]]
-- [[laikotarpiai/XXI amžius]]

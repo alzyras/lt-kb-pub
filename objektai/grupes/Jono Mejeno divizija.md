@@ -60,9 +60,6 @@ Jono Mejeno divizija, kurią sudarė 2-0ji ir 3-ioji Tautinės kavalerijos briga
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/grupes/2-oji ir 3-ioji Tautinės kavalerijos brigados]]
 - [[objektai/grupes/Jozefo Grabinskio Jėgerių batalionas]]

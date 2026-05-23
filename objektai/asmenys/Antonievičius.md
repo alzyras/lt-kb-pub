@@ -107,8 +107,3 @@ Mackevičius, Antonievičius, E. Stanišausko batalionai, centre pozicijas užsi
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/B. Žarskis]]
-- [[objektai/asmenys/P. Vivulskis]]

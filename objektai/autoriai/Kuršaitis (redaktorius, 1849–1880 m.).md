@@ -143,6 +143,3 @@ Kuršaitis šiame šaltinyje minimas kaip redaktorius, profesorius; jam priskiri
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/redaktorius]]
-
-### Laikotarpiai
-- [[laikotarpiai/XIX amžius]]

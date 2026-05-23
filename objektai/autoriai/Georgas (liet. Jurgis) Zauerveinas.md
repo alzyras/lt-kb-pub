@@ -46,5 +46,4 @@ Amžiaus pabaigoje sorbų kilmės vokiečių politikas, mokslininkas, poliglotas
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Georgas Zauerveinas]]
 - [[objektai/posakiai/„Lietuviais esame mes gimę...“]]

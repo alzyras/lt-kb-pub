@@ -56,7 +56,3 @@ Istorinė rusų tradicija keliuose variantuose mini, kad Gediminas paėmė Rusij
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIII amžius]]

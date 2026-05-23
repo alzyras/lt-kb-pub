@@ -187,9 +187,6 @@ Nenurodyta
     - t-005
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/daiktai/Kilimas]]
 - [[objektai/zodynas/Kilimas]]

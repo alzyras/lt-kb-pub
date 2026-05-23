@@ -58,8 +58,5 @@ Lietuvos Tarybų respublikos suverenumas, «plačiųjų lietuvių tautos masių 
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
 ### Susiję objektai
 - [[objektai/grupes/Lietuvos Tarybų socialistinė respublika]]

@@ -62,8 +62,5 @@ Vienos tų žemių priklausė jiems tiesiog: jose jie turėjo didelius savo dvar
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]
-
 ### Susiję objektai
 - [[objektai/zodynas/otčici]]

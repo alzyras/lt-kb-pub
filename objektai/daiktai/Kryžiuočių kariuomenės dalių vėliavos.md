@@ -119,6 +119,3 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
 ### Teminiai klasteriai
 - [[temos/karo-reikmuo]]
 - [[temos/simbolis]]
-
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]

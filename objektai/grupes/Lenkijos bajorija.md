@@ -58,8 +58,5 @@ Jogailos ir Vytauto duotas uniją tvirtinąs aktas pašaukė Lietuvos bajoriją 
 ### Teminiai klasteriai
 - [[temos/aktas]]
 
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]
-
 ### Susiję objektai
 - [[objektai/grupes/Lenkų bajorija]]

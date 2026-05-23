@@ -55,10 +55,3 @@ Jiems vadovavo du Vytauto didikai (Jurgis Gedgaudas, Jurgis Galminas) ir jo sekr
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/didikas]]
-
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/Jurgis Galminas]]
-- [[objektai/asmenys/Jurgis Gedgaudas]]

@@ -60,9 +60,6 @@ Jozefo Grabinskio Jėgerių batalionas, LDK kariuomenės artileristai prasidėju
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/grupes/2-oji ir 3-ioji Tautinės kavalerijos brigados]]
 - [[objektai/grupes/Jono Mejeno divizija]]

@@ -125,8 +125,3 @@ Politinė ir rezistencinė lietuvių emigrantų organizacija, veikusi Antrojo pa
     - t-015
 
 ## Šaltiniai ir įrodymai
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

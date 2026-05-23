@@ -70,9 +70,6 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]
-
 ### Susiję objektai
 - [[objektai/autoriai/Jan Fijałek]]
 - [[objektai/autoriai/prof. kunigas Dr. J. Fijalek]]

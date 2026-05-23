@@ -81,8 +81,5 @@ Sukilimas kuriam laikui pavyko tik Tauragėje, buvo perimtas vadovavimas miestui
     - t-002
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/asmenys/J. Aukštuolaitis]]

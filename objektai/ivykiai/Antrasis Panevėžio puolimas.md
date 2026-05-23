@@ -182,9 +182,6 @@ Nenurodyta
     - t-005
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
 ### Susiję objektai
 - [[objektai/grupes/Lietuvių aviacijos eskadrilė]]
 - [[objektai/grupes/Panevėžio rinktinė]]

@@ -125,6 +125,3 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/aktas]]
-
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]

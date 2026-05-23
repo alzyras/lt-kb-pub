@@ -68,10 +68,6 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/grupes/Tautos taryba]]
 - [[objektai/zodynas/generaliniai tarėjai]]

@@ -67,7 +67,3 @@ Universiteto globėju iki 1824 m. buvo Lenkijos didikų atžala – Adomas Jurgi
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/didikas]]
-
-### Susiję objektai
-- [[objektai/asmenys/Joachimas Lelevelis]]
-- [[objektai/asmenys/Nikolajus I]]

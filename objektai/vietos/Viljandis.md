@@ -85,9 +85,6 @@ Per trumpa “| laiką Švedijos kariuomenė užėmė Paidę (Weisenstein), Kuok
     - t-002
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVII amžius]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Jonas Karolis Katkevičius]]
 - [[objektai/vietos/Kuoknesė]]

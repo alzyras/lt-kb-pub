@@ -471,12 +471,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - t-017
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XII amžius]]
-- [[laikotarpiai/XIII amžius]]
-- [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XV amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Didieji Lukai]]
 - [[objektai/vietos/Jelgava]]

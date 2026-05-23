@@ -146,11 +146,6 @@ tags:
     - t-005
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Juodoji Ančia]]
 - [[objektai/ivykiai/Suvalkų derybos ir demarkacinės linijos nustatymas]]

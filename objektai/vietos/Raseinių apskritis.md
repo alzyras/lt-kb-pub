@@ -52,9 +52,6 @@ X ŠILAINIŲ PASALA 1945 m. vasario 15 d. Raseinių aps.
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Graužai-Lenčiai]]
 - [[objektai/vietos/Šilainiai]]

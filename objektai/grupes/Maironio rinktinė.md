@@ -82,9 +82,6 @@ Lukšio rinktinė (netrukus pervadinta į Maironio), joje J. Apygradoje prasidė
     - t-002
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Juozas Paliūnas-Rytas]]
 - [[objektai/grupes/P. Lukšio rinktinė]]

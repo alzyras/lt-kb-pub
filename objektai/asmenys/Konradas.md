@@ -54,7 +54,3 @@ pakvietė Mozūrijos kunigaikštis Konradas ir padovanojo jiems Kulmo žemę.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIII amžius]]

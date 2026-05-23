@@ -176,8 +176,5 @@ Nenurodyta
     - t-008
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIX amžius]]
-
 ### Susiję objektai
 - [[objektai/ivykiai/Biržų (Medeikių) mūšis]]

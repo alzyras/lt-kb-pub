@@ -61,6 +61,3 @@ sušaukęs Naugardukan pravoslavų aukš­ tuosius dvasiškius ir didikus, Kijev
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/didikas]]
-
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]

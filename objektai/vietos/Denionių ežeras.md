@@ -64,9 +64,6 @@ tags:
 ### Teminiai klasteriai
 - [[temos/ežeras]]
 
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Juodelių sodyba]]
 - [[objektai/vietos/Pamaleišio kaimas]]

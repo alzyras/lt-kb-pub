@@ -389,14 +389,7 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-015
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XV amžius]]
-- [[laikotarpiai/XVI amžius]]
-
 ### Susiję objektai
-- [[objektai/asmenys/Jaunutis]]
-- [[objektai/asmenys/Kęstutis]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/vietos/Tverė]]
 - [[objektai/grupes/Mongolai]]

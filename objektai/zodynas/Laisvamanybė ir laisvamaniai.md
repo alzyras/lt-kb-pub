@@ -70,7 +70,3 @@ Terminas siejamas su J. Šliūpo veikla ir aplink jį susibūrusia tautininkų b
 ## Šaltiniai ir įrodymai
 
 ## Pastabos
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIX amžius]]

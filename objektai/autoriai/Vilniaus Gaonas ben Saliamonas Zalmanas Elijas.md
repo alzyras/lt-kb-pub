@@ -166,9 +166,6 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
     - t-017
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVIII amžius]]
-
 ### Susiję objektai
 - [[objektai/grupes/Chasidai]]
 - [[objektai/zodynas/chasidizmas rabinizmas]]

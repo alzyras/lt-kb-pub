@@ -76,7 +76,3 @@ Nenurodyta
   pagrindžia:
     - t-006
     - t-007
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]

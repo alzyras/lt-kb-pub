@@ -83,5 +83,4 @@ Dragunevičius, surinkę apie 80 kareivinėse buvusių savanorių ir išskleidę
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/J. Mikoliūnas]]
 - [[objektai/daiktai/Lietuvos kario savadarbė diržo sagtis]]

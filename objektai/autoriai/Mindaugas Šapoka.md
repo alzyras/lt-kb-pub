@@ -59,9 +59,3 @@ The Battle of Grünwald: in commemoration of the 600th anniversary of the Battle
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Albina Strunga]]
-- [[objektai/autoriai/Joseph Everatt]]
-- [[objektai/autoriai/M. Šapoka]]

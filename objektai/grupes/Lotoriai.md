@@ -55,7 +55,3 @@ Lotoriai šiame fragmente pateikiami kaip viena iš puolusių grupių, o jų vie
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIII amžius]]

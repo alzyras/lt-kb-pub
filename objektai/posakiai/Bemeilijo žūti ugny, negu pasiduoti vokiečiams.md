@@ -65,8 +65,5 @@ tags:
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-
 ### Susiję objektai
 - [[objektai/ivykiai/Pilėnų pilies gynimas (1336 m.)]]

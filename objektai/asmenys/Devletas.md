@@ -53,8 +53,5 @@ Devletas pabandė iš to protektorato išsivaduoti, neteko sosto ir vos gyvas pa
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]
-
 ### Susiję objektai
 - [[objektai/ivykiai/Devleto mėginimas išsivaduoti iš protektorato ir sosto netekimas]]

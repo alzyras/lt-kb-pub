@@ -137,8 +137,3 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-010
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XII amžius]]
-- [[laikotarpiai/XX amžius]]

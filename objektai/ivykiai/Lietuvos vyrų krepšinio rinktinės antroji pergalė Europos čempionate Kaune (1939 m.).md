@@ -71,10 +71,6 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Kauno sporto halė]]
 - [[objektai/grupes/Lietuvos vyrų krepšinio rinktinė]]

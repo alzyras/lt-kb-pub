@@ -48,9 +48,5 @@ tags:
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIII amžius]]
-- [[laikotarpiai/XM amžius]]
-
 ### Susiję objektai
 - [[objektai/daiktai/XIII a. kalavijas, rastas Raudonėje]]

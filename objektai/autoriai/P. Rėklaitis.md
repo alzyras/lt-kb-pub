@@ -54,6 +54,3 @@ Rėklaitis : Einführung in die Kunstgeschichtsforschung des Groß- iürstentums
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/bibliografija]]
-
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]

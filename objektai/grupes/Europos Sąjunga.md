@@ -85,8 +85,5 @@ tags:
     - t-002
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/grupes/Europos Parlamentas]]

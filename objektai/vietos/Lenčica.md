@@ -105,8 +105,5 @@ Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas 
 ### Teminiai klasteriai
 - [[temos/laiškas]]
 
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]
-
 ### Susiję objektai
 - [[objektai/ivykiai/Lenčicos suvažiavimas (1409 m.)]]

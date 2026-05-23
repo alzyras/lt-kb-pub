@@ -96,6 +96,3 @@ Nacių okupacijos metu dalis lietuvių visuomenės rizikuodama gyvybe padėjo ž
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/socialinė-praktika]]
-
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]

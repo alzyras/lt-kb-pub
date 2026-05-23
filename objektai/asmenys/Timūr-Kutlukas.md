@@ -92,5 +92,4 @@ Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė s
 - [[temos/pinigai]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Tochtamišas]]
 - [[objektai/posakiai/„caro Tochtamišo neišduosiu, o su caru Timūr-Kutluku noriu matytis pats“]]

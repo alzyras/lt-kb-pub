@@ -74,10 +74,3 @@ fon der Goltzq. von der Goltzas buvo pakeistas gen.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/W. Eberhardtas]]

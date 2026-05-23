@@ -104,8 +104,5 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVI amžius]]
-
 ### Susiję objektai
 - [[objektai/grupes/Totoriai]]

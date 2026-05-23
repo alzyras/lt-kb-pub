@@ -57,7 +57,3 @@ kelio iki AT) 107-oji motošaulių divizija.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]

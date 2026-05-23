@@ -52,11 +52,3 @@ Kunigaikštis Vykintas netrukus ties Tverais buvo nugalėtas; jis pats žuvo mū
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIII amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/Gedvydas]]
-- [[objektai/asmenys/Tautvilas]]

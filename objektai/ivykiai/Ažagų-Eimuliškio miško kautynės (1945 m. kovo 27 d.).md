@@ -153,9 +153,6 @@ Nenurodyta
     - t-008
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Jokubavo miškas]]
 - [[objektai/vietos/Pakruojis]]

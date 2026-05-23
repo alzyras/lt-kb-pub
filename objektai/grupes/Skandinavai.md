@@ -72,10 +72,5 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
     - t-002
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XI amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/paprociai/Kuršių plėšiamieji žygiai į Danijos ir Švedijos pakrantes]]

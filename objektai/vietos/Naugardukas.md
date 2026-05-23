@@ -152,12 +152,6 @@ tags:
     - t-005
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XI amžius]]
-- [[laikotarpiai/XII amžius]]
-- [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XX amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Slanimas]]
 - [[objektai/vietos/Volkoviskas]]

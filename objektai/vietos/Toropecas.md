@@ -121,8 +121,5 @@ Jis turėjo žygiuoti Veližo link, iš ten pulti Toropeco ir Bialos pilių apyl
 ### Teminiai klasteriai
 - [[temos/ežeras]]
 
-### Laikotarpiai
-- [[laikotarpiai/X amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Veližas]]

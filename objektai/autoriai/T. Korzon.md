@@ -74,8 +74,3 @@ Korzon, Dzieje wojen i wojskowości w Polsce, I—III (1923);. Korzon, Dola i ni
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]
-- [[laikotarpiai/XX amžius]]

@@ -196,8 +196,5 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
     - t-010
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/X amžius]]
-
 ### Susiję objektai
 - [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]

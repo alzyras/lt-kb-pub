@@ -63,8 +63,3 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Adomas Jurgis Čartoriskis]]
-- [[objektai/asmenys/Joachimas Lelevelis]]

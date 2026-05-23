@@ -156,12 +156,3 @@ Motiejus, vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš Kauno^
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/Mikalojus Dziežgavičius]]
-- [[objektai/asmenys/Motiejus]]
-- [[objektai/asmenys/Petras iš Kustynės]]

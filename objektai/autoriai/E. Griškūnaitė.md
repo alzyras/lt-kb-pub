@@ -60,11 +60,3 @@ Griškūnaitė 121 , P.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
-### Susiję objektai
-- [[objektai/autoriai/L. Mulevičius]]
-- [[objektai/autoriai/P. Girdzijauskienė]]

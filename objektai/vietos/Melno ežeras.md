@@ -80,10 +80,5 @@ Tai reiškė projektą naujos sienos, kuri už dvejų metų buvo priimta prie Me
 ### Teminiai klasteriai
 - [[temos/ežeras]]
 
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Visla]]

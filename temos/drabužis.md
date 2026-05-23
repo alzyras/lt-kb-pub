@@ -13,7 +13,7 @@ Objektų skaičius: 9.
 
 ## Kaip naudoti
 
-- Eik per šį hub'ą, kai nori naršyti susijusius objektus pagal bendrą temą arba laiką.
+- Eik per šį hub'ą, kai nori naršyti susijusius objektus pagal bendrą temą.
 - Tolimesni ryšiai matomi pačiuose objektų puslapiuose, kur išlieka tikslesni šaltinių ir citatų kontekstai.
 
 ## Susiję objektai

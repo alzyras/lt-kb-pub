@@ -49,8 +49,3 @@ The history of Lithuania before 1795 / [translated by Irena Zujienė ...
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVIII amžius]]
-- [[laikotarpiai/XX amžius]]

@@ -82,10 +82,5 @@ tags:
 ### Teminiai klasteriai
 - [[temos/aktas]]
 
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Vakarų Prūsija]]

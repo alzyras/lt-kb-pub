@@ -126,12 +126,6 @@ tags: []
     - t-007
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XV amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Dimitras (Maskvos kunigaikštis)]]
 - [[objektai/grupes/Krimo totoriai]]

@@ -58,10 +58,3 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/laiškas]]
-
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
-### Susiję objektai
-- [[objektai/autoriai/A. Merkys]]
-- [[objektai/asmenys/Antanas Merkys]]

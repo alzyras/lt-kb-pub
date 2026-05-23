@@ -79,8 +79,3 @@ Lietuvos visuomenė dar nebuvo politiškai susipratusi.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

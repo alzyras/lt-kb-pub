@@ -130,10 +130,3 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/A. Mickevičius]]
-- [[objektai/asmenys/J. Kraševskis]]
-- [[objektai/asmenys/Julius Slovackis]]
-- [[objektai/asmenys/Česlovas Milošas]]

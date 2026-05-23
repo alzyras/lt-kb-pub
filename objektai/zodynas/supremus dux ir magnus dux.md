@@ -73,10 +73,6 @@ tags: []
     - t-004
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XV amžius]]
-
 ### Susiję objektai
 - [[objektai/zodynas/diarchija]]
 - [[objektai/zodynas/supremus dux magnus dux]]

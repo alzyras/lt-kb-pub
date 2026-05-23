@@ -52,7 +52,3 @@ Mager veikalas^16 °, o apie I pasaulinį karą W.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Fr. Benninghoven]]

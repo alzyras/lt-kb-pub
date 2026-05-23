@@ -119,10 +119,6 @@ tags:
     - t-004
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Naugardukas]]
 - [[objektai/vietos/Slanimas]]

@@ -107,7 +107,3 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-010
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]

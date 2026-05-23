@@ -155,8 +155,3 @@ Centralizuota ginkluoto ir politinio antisovietinio pasipriešinimo organizacija
     - t-017
 
 ## Šaltiniai ir įrodymai
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

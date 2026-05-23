@@ -58,9 +58,5 @@ Jan Fijałek 1415 mt.
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]
-
 ### Susiję objektai
-- [[objektai/autoriai/prof. kunigas Dr. J. Fijalek]]
 - [[objektai/ivykiai/Žemaičių delegacijos ir memorialo įteikimas Konstancijos sinodui (1415 m. gruodžio 15 d.)]]

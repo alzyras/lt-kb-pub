@@ -58,9 +58,3 @@ Privilegijos buvo duotos čekų karaliaus Otokaro 1254 met.
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/privilegija]]
-
-### Laikotarpiai
-- [[laikotarpiai/XIII amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/Boleslovas Maldingasis]]

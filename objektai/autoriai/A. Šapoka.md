@@ -156,8 +156,3 @@ A. Šapoka minimas kaip redaktorius, teksto suderintojas ir autorius; jam priski
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-013
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XX amžius]]

@@ -106,7 +106,3 @@ Nenurodyta
     - t-008
 
 ## Šaltiniai ir įrodymai
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]

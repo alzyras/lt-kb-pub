@@ -64,11 +64,3 @@ Jurgėla: History of the Lithuanian Nation, New York 1948. Jurgėla, C.
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/aktas]]
-
-### Laikotarpiai
-- [[laikotarpiai/XIX amžius]]
-- [[laikotarpiai/XV amžius]]
-- [[laikotarpiai/XX amžius]]
-
-### Susiję objektai
-- [[objektai/autoriai/Jurgėla, C. R]]

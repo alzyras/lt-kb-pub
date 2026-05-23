@@ -95,8 +95,3 @@ Jis greičiausiai nenorėjo leisti per daug laimėti lenkams, nes patsai, be Že
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

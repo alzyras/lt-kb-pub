@@ -57,8 +57,5 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
 ### Teminiai klasteriai
 - [[temos/laiškas]]
 
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-
 ### Susiję objektai
 - [[objektai/ivykiai/Gedimino sąjunga su Lenkija]]

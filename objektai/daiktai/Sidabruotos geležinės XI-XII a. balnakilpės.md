@@ -84,9 +84,5 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XII amžius]]
-- [[laikotarpiai/XIII amžius]]
-
 ### Susiję objektai
 - [[objektai/daiktai/Balnakilpės]]

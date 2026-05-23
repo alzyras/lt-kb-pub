@@ -72,5 +72,4 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Jurgis (Sviatoslavo sūnus)]]
 - [[objektai/vietos/Vechra]]

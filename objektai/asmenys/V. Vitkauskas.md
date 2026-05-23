@@ -43,4 +43,3 @@ Vitkauskas, gen.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/ivykiai/SSRS ultimatumas Lietuvai ir jo priėmimas (1940 m. birželio 14-15 d.)]]
-- [[objektai/asmenys/Stasys Raštikis]]

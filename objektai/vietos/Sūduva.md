@@ -131,9 +131,6 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
 ### Teminiai klasteriai
 - [[temos/ežeras]]
 
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Niešavos kraštas]]
 - [[objektai/zodynas/dykra]]

@@ -58,9 +58,3 @@ Kętrzyńskis atsidėjo Mindaugo donacinių dokumentų klausimui^127. Kętrzyńs
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
-
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
-### Susiję objektai
-- [[objektai/autoriai/H. Lowmiański]]

@@ -112,8 +112,5 @@ Nenurodyta
     - t-006
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIX amžius]]
-
 ### Susiję objektai
 - [[objektai/autoriai/D. Poška]]

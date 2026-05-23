@@ -47,8 +47,5 @@ Kalavijas, rastas Desiukiškėse, yDKM, Artūro Užgalio nuotr.
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIII amžius]]
-
 ### Susiję objektai
 - [[objektai/daiktai/XIII a. kalavijas, rastas Desiukiškėse]]

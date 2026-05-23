@@ -58,9 +58,5 @@ didesniesiems nesusipratimams spręsti — visų tarpininkų suvažiavimai, vadi
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/zodynas/taikos tarpininkai taikos teisėjai]]

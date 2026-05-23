@@ -50,7 +50,3 @@ pozicijų signatūras : J. Balys : Lithuania and Lithuanians. A selected bibliog
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]

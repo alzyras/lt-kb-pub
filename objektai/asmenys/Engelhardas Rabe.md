@@ -51,7 +51,3 @@ Veiklus ordino maršalas Engelhardas Rabe paėmė Maišiagalą, sudegino Kernav�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]

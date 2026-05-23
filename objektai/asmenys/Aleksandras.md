@@ -92,9 +92,3 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/karvedys]]
-
-### Laikotarpiai
-- [[laikotarpiai/XVI amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/Mykolas Glinskis]]

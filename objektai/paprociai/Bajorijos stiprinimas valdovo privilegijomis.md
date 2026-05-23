@@ -80,9 +80,5 @@ Nenurodyta
 ### Teminiai klasteriai
 - [[temos/didikas]]
 
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XV amžius]]
-
 ### Susiję objektai
 - [[objektai/zodynas/luominė diferenciacija]]

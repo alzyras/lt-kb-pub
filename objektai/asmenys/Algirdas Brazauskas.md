@@ -59,9 +59,5 @@ Spalio 21 dieną LKP CK pirmuoju sekretoriumi tapo Algirdas Brazauskas, įgijęs
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
-- [[objektai/asmenys/Antanas Valionis]]
 - [[objektai/vietos/Atėnai]]

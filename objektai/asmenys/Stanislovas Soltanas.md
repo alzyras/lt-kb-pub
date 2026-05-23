@@ -42,8 +42,3 @@ Lietuvos atstovai pasirodė net garbingiau nei Lenkijos – iš penkių balsų, 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Ignotas Potockis]]
-- [[objektai/asmenys/Kazimieras Nestoras Sapiega]]

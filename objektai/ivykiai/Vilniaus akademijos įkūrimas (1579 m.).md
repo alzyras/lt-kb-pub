@@ -85,8 +85,5 @@ Nenurodyta
 ### Teminiai klasteriai
 - [[temos/didikas]]
 
-### Laikotarpiai
-- [[laikotarpiai/XVI amžius]]
-
 ### Susiję objektai
 - [[objektai/autoriai/Petras Skarga]]

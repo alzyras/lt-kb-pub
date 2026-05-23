@@ -85,9 +85,6 @@ Taip pat jau nuo Algirdo ir Kęstučio laikų Lietuvoje kursavo ir Čeki­ jos g
 ### Teminiai klasteriai
 - [[temos/pinigai]]
 
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-
 ### Susiję objektai
 - [[objektai/daiktai/Lietuvos pinigai]]
 - [[objektai/zodynas/rublis]]

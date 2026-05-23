@@ -110,6 +110,4 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Magdalena Avietėnaitė]]
 - [[objektai/daiktai/Monumentalios Lietuvos istorijos drobės]]
-- [[objektai/asmenys/Stasys Antanas Bačkis]]

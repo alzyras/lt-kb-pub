@@ -154,11 +154,5 @@ Nenurodyta.
 - šiame gabale terminas vartojamas kaip bažnytinės teritorijos ir rezidencijos sąvoka, ne kaip politinis vienetas; šiame gabale terminas vartojamas kaip istorinė bažnytinė sąvoka, ne kaip šiuolaikinė institucija.
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIII amžius]]
-- [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XV amžius]]
-- [[laikotarpiai/XX amžius]]
-
 ### Susiję objektai
 - [[objektai/zodynas/metropolitas]]

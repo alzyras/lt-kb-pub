@@ -56,9 +56,6 @@ Mūsiškiai į juos šaudė iš už medžių, iš už krūmų ir visą laiką st
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Ažagų kaimas]]
 - [[objektai/vietos/Smilgiai]]

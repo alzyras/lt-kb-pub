@@ -70,6 +70,3 @@ tags:
 ### Teminiai klasteriai
 - [[temos/dinastija]]
 - [[temos/paliaubos]]
-
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]

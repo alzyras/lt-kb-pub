@@ -107,8 +107,5 @@ tags:
     - t-003
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]
-
 ### Susiję objektai
 - [[objektai/grupes/Moravai]]

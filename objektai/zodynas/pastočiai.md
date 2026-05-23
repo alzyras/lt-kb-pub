@@ -65,9 +65,5 @@ dabar jie, be to, buvo atleisti ir nuo pastočių, nuo pilių statymo ir remonta
 ### Teminiai klasteriai
 - [[temos/pinigai]]
 
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/paprociai/Bajorų valstiečių baudžiavos įtvirtinimas]]

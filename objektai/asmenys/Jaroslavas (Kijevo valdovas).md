@@ -56,8 +56,5 @@ Lietuva patyrė Kijevo Rusios agresiją.
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XI amžius]]
-
 ### Susiję objektai
 - [[objektai/grupes/Kijevo Rusia]]

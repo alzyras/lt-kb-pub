@@ -88,7 +88,3 @@ Netoli Vilniaus, sunkiai prieinamame Galvės ežero pusiasaly, Gediminas pastat�
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/ežeras]]
-
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

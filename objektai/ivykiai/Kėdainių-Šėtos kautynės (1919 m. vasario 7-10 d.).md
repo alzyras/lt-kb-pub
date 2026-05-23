@@ -253,9 +253,6 @@ Nenurodyta
     - t-014
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
 ### Susiję objektai
 - [[objektai/grupes/Kėdainių įgula]]
 - [[objektai/ivykiai/Kėdainių-Šėtos kautynės]]

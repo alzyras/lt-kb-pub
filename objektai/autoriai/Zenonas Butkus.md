@@ -47,6 +47,3 @@ Nuoširdžiai dėkojame leidinio iniciatoriams, redakcinės kolegijos nariams, s
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/žemėlapis]]
-
-### Susiję objektai
-- [[objektai/autoriai/Saulius Kaubrys]]

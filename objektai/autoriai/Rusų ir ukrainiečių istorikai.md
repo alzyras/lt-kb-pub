@@ -144,10 +144,3 @@ Odesos universiteto istorikas V. Savo pastabas yra tuo pat metu įdomiai išdės
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/D. Pochilevyč]]
-- [[objektai/autoriai/M. Hruševskis]]
-- [[objektai/autoriai/V. V. Antonovičius]]
-- [[objektai/autoriai/V. Zaikin]]

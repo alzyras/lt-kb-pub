@@ -131,12 +131,6 @@ Komtūras šiame įraše žymi Ordino pareigūną ir srities ar pilies vadą. An
 ### Teminiai klasteriai
 - [[temos/istorinė-sąvoka]]
 
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XV amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/zodynas/maršalka]]
 - [[objektai/vietos/Mežuotnės pilis]]

@@ -51,7 +51,3 @@ Sapiega ir maršalas A.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/B. P. Sapiega]]

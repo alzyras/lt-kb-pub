@@ -76,7 +76,3 @@ Jam vadovavo majoras Jacenka ir štabo viršininkas majoras Buiničius.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]

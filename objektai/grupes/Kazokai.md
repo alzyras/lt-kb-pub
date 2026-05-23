@@ -171,10 +171,6 @@ tags:
     - t-006
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVII amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/grupes/Janičarai]]
 - [[objektai/grupes/Lietuvos totoriai]]

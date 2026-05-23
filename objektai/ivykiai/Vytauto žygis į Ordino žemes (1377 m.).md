@@ -137,9 +137,6 @@ Vytauto veiksmai sutrikdė ordino kariuomenės aprūpinimą.
     - t-006
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas]]
 - [[objektai/asmenys/Kęstutis]]

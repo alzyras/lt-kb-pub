@@ -84,4 +84,3 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
 
 ### Susiję objektai
 - [[objektai/vietos/Lukomlys]]
-- [[objektai/asmenys/Petras Šuiskis]]

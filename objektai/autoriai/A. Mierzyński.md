@@ -62,9 +62,3 @@ Mierzyński, Źródła do mitolog, lit., I, II (1892, 1896); H.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XIX amžius]]
-- [[laikotarpiai/XX amžius]]

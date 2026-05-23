@@ -79,8 +79,3 @@ O juk reikėtų kalbėti ir apie medicinos ir fiziologijos srities nobelistus, t
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

@@ -61,7 +61,3 @@ Frazė istorijos atmintį sieja su piliečių kalbėjimu ir tautos gyvybingumu; 
   pagrindžia:
     - t-005
     - t-006
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIX amžius]]

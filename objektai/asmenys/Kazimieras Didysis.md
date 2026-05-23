@@ -116,10 +116,5 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
     - t-004
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-
 ### Susiję objektai
-- [[objektai/asmenys/Aldona Gediminaitė]]
-- [[objektai/asmenys/Karolis IV]]
 - [[objektai/vietos/Dobrynė]]

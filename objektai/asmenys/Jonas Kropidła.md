@@ -54,7 +54,3 @@ Dėl to savo laikų Europos visuomenės viršūnes gerai pažįstąs Kujavų vys
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jonas Kropidla]]

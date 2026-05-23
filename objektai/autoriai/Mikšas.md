@@ -79,6 +79,3 @@ Lietuvos veikėjas Mikšas, paskui dr. J. „Aušra" iš pradžių buvo spausdin
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/redaktorius]]
-
-### Susiję objektai
-- [[objektai/autoriai/Dr. J. Šliūpas]]

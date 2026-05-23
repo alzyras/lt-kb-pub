@@ -51,8 +51,3 @@ Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyk
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Henrikas von Plauenas]]
-- [[objektai/asmenys/Vaclovas Čekietis]]

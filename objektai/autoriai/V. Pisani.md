@@ -54,7 +54,3 @@ Pisani, V.: II paganesimo balto-slavo, Storia delle religioni, red. G.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]

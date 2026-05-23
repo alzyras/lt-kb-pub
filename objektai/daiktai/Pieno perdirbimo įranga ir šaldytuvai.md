@@ -88,6 +88,3 @@ Nenurodyta
 ### Teminiai klasteriai
 - [[temos/įrankis]]
 - [[temos/ūkio-įrankis]]
-
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]

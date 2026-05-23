@@ -50,10 +50,3 @@ Veryha - Darevskis, Lietuvos mokesčiai, 19 p., (Cit.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIX amžius]]
-
-### Susiję objektai
-- [[objektai/autoriai/A. Veryha-Darevskis]]

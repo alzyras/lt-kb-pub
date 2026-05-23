@@ -92,8 +92,5 @@ tags: []
 ### Teminiai klasteriai
 - [[temos/socialinė-praktika]]
 
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
 ### Susiję objektai
 - [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]

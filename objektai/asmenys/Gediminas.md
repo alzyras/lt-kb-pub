@@ -625,12 +625,7 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
     - t-035
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XVI amžius]]
-
 ### Susiję objektai
 - [[objektai/ivykiai/Gedimino sąjunga su Lenkija]]
-- [[objektai/asmenys/Kęstutis]]
 - [[objektai/vietos/Vilnius]]
 - [[objektai/paprociai/Lietuvių kariavimo būdas ir pilių įgulos]]

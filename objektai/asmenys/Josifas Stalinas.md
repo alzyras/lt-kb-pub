@@ -173,7 +173,4 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/J. Stalinas]]
-- [[objektai/asmenys/Juozas Urbšys]]
-- [[objektai/asmenys/Nikita Chruščiovas]]
 - [[objektai/ivykiai/Vilniaus perdavimo sutarties ir SSRS-Lietuvos savitarpio pagalbos sutarties pasirašymas (1939 m. spalio 10 d.)]]

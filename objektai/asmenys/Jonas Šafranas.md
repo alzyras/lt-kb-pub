@@ -55,7 +55,3 @@ Būdamas pilnas nemalonės naujiems karūnos politikos vai­ rininkams, kancleri
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Vladislovas Oporovskis]]

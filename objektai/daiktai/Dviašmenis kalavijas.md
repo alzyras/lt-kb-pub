@@ -132,12 +132,6 @@ Nenurodyta
     - t-005
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XI amžius]]
-- [[laikotarpiai/XIII amžius]]
-- [[laikotarpiai/XL amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/grupes/Baltų kovų brolija „Vilkatlakai“]]
 - [[objektai/daiktai/Tik Lietuvai būdingi dvinariai žąslai su skersinukais]]

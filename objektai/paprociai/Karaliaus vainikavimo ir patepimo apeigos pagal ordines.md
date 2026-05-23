@@ -145,9 +145,6 @@ Nenurodyta
     - t-004
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIII amžius]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Baptista Cigala]]
 - [[objektai/paprociai/Karaliaus vainikavimo ceremonialas be būtino vyskupo patepimo]]

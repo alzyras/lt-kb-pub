@@ -74,8 +74,5 @@ Pilviškių vis. Pilviškių vls.
     - t-002
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Vilkaviškio apskritis]]

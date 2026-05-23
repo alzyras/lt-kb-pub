@@ -137,10 +137,6 @@ Nenurodyta
     - t-008
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/grupes/Lietuvių bajorija]]
 - [[objektai/zodynas/sankcija]]

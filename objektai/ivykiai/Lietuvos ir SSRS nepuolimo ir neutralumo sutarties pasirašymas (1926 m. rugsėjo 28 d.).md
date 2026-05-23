@@ -78,8 +78,5 @@ Nenurodyta
     - t-008
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Georgijus Čičerinas]]

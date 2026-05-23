@@ -56,8 +56,5 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XI amžius]]
-
 ### Susiję objektai
 - [[objektai/posakiai/homines humanissimi]]

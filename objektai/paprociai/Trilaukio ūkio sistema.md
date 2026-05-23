@@ -73,9 +73,6 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVI amžius]]
-
 ### Susiję objektai
 - [[objektai/paprociai/Lydimoji žemdirbystė]]
 - [[objektai/ivykiai/Valakų reforma (1557 m.)]]

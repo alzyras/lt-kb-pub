@@ -47,5 +47,4 @@ Kovos veiksmai su raudonaisiais baigėsi jų išstūmimu iš Lietuvos 1919 m. va
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Aleksandras Kolčiakas]]
 - [[objektai/daiktai/Ginklai ir ginkluotė]]

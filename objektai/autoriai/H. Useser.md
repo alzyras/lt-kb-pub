@@ -50,7 +50,3 @@ Useser, H.: Götternamen, (cap. 7 : Solmseh, F.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIX amžius]]

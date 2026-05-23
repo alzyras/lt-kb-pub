@@ -86,11 +86,6 @@ Nenurodyta
     - t-004
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XI amžius]]
-- [[laikotarpiai/XII amžius]]
-- [[laikotarpiai/XIII amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Rimaisiai]]
 - [[objektai/vietos/Veršvai]]

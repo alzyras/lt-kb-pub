@@ -60,11 +60,3 @@ Kučiui panaudojus spec.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/Albinas Kubilius-Rūgštymas]]
-- [[objektai/asmenys/Alfonsas Vildžiūnas-Vijoklis]]

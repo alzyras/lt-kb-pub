@@ -170,8 +170,5 @@ tags: []
 galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta kaip atskiras jūros vardas.
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVI amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Daugava]]

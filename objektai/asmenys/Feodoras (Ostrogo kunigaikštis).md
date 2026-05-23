@@ -58,6 +58,3 @@ Bet šis bandymas atplėšti Vo­ lynijos dalį nuo Vytautui priklausančios Luc
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/privilegija]]
-
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]

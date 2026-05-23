@@ -57,8 +57,3 @@ Blažytė-Baužienė D., Tamošaitis M., Truska L. Truska L.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Blažytė-Baužienė D]]
-- [[objektai/autoriai/Tamošaitis M]]

@@ -54,6 +54,3 @@ Dambrauskas-Jakštas, Užgesę Žiburiai, XVI-502 psl., Roma^2 1975.
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/metraštis]]
-
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]

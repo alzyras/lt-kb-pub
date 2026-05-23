@@ -101,8 +101,5 @@ Vladimiro pinigas; 9 — Naugardo Sieversko kunig. Vladimirui ir Ratnos kunigaik
 ### Teminiai klasteriai
 - [[temos/pinigai]]
 
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-
 ### Susiję objektai
 - [[objektai/zodynas/kunigaikštija]]

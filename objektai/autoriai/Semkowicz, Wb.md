@@ -49,7 +49,3 @@ Semkowicz, Wb.: Hanul, namiestnik wileński i jego ród , AW, t.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]

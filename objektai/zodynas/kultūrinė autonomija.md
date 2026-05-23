@@ -70,11 +70,5 @@ tags:
 ### Teminiai klasteriai
 - [[temos/privilegija]]
 
-### Laikotarpiai
-- [[laikotarpiai/XIX amžius]]
-- [[laikotarpiai/XVIII amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/zodynas/Tautinės mažumos]]

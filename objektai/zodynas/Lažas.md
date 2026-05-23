@@ -74,7 +74,3 @@ Vartojamos formos: `lažu`.
 ## Pastabos
 
 - Šalia pateikiami ir kiti skoliniai, todėl terminas rodomas kaip platesnės prievolių leksikos dalis.
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVI amžius]]

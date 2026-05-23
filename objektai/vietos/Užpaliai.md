@@ -59,10 +59,6 @@ tags:
 ### Teminiai klasteriai
 - [[temos/metraštis]]
 
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Antalieptė]]
 - [[objektai/asmenys/P. Genys]]

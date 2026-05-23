@@ -96,11 +96,3 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIX amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/Konstantinas Kalinauskas]]
-- [[objektai/asmenys/T. Dalevskis]]

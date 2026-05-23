@@ -80,7 +80,3 @@ Terminas vartojamas argumentuojant, kad vainikavimas galėjo būti pasaulietinis
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/teisinis-terminas]]
-
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

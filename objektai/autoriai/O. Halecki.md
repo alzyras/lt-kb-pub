@@ -243,11 +243,5 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
     - t-007
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XV amžius]]
-- [[laikotarpiai/XVI amžius]]
-- [[laikotarpiai/XVII amžius]]
-
 ### Susiję objektai
 - [[objektai/posakiai/prieš vėją nepapūs]]

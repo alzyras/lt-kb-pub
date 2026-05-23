@@ -66,6 +66,3 @@ Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanor
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/transportas]]
-
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]

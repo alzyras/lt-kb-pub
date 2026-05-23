@@ -185,9 +185,6 @@ Nenurodyta
     - t-008
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVI amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Volgos upė]]
 - [[objektai/vietos/Šelomos upė]]

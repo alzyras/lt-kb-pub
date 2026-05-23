@@ -136,9 +136,3 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-016
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

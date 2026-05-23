@@ -90,9 +90,5 @@ Povilas Ksaveras Bžostovskis aprašomas kaip Paulavos respublikos kūrėjas; jo
     - t-008
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVIII amžius]]
-
 ### Susiję objektai
-- [[objektai/asmenys/Antanas Tyzenhauzas]]
 - [[objektai/vietos/Paulava]]

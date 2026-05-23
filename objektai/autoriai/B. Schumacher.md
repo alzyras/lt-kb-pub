@@ -48,7 +48,3 @@ SchOW = Schumacher, B., Geschichte Ostund Westpreußens, 4-tas leid., Würzburg 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]

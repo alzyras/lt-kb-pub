@@ -62,7 +62,3 @@ Bet toliau nei Riurikaičių dinastijos išsibaigimas (1598), nei garsieji «są
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
-
-### Laikotarpiai
-- [[laikotarpiai/XVI amžius]]
-- [[laikotarpiai/XVII amžius]]

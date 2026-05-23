@@ -115,10 +115,6 @@ Demarkacijos linija šiame įraše reiškia laikiną militarinę ir politinę ri
     - t-006
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/grupes/Livonijos ordinas]]
 - [[objektai/zodynas/paliaubos]]

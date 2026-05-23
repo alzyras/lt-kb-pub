@@ -86,7 +86,3 @@ Tik vienas Šernas savo „Lietuviškoje Ceitungoje" buvo pradėjęs spausdinti 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/redaktorius]]
-
-### Susiję objektai
-- [[objektai/autoriai/M. Jankus]]
-- [[objektai/autoriai/S. Zauerveinas]]

@@ -100,8 +100,5 @@ Nenurodyta
     - t-003
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVIII amžius]]
-
 ### Susiję objektai
 - [[objektai/zodynas/statutas]]

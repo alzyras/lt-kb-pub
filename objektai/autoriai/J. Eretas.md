@@ -68,7 +68,3 @@ Eretas, Kazys Pakštas. Eretas, Valančiaus šviesa už marių.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]

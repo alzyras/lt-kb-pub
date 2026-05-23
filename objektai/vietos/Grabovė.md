@@ -90,9 +90,6 @@ Bet kada ir šios derybos Grabove nieko gero neda­ vė, o naujas magistras Myko
 ### Teminiai klasteriai
 - [[temos/paliaubos]]
 
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Brodnica]]
 - [[objektai/vietos/Grabova]]

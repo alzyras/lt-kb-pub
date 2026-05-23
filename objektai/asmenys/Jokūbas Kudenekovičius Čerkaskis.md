@@ -81,11 +81,3 @@ Rusijos pajėgos Rusijos kariuomenei iš tikrųjų (oficialiai — pats caras Al
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVII amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/M. K. Pacas]]
-- [[objektai/asmenys/V. Gosievskis]]

@@ -53,6 +53,3 @@ tags:
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/bibliografija]]
-
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]

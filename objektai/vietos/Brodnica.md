@@ -85,9 +85,6 @@ Pametė Jogailą ir lenkų būrius prie Brodnicos mūrų, o pats paskubom sugrį
 ### Teminiai klasteriai
 - [[temos/paliaubos]]
 
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Grabova]]
 - [[objektai/vietos/Grabovė]]

@@ -82,10 +82,5 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIII amžius]]
-- [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XIX amžius]]
-
 ### Susiję objektai
 - [[objektai/daiktai/Mosin-Nagant šautuvas]]

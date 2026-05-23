@@ -83,9 +83,5 @@ Nenurodyta
 ### Teminiai klasteriai
 - [[temos/politinis-sprendimas]]
 
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/grupes/III Seimas]]

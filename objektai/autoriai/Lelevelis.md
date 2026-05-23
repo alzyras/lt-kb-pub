@@ -65,7 +65,3 @@ Tik to meto Vilniaus universiteto garsenybė, istorikas profesorius Lelevelis, �
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/D. Poška]]

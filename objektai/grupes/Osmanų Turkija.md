@@ -54,7 +54,3 @@ Vis didesnę grėsmę ATR kelti ėmė į Europą besiveržianti Osmanų Turkija.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVII amžius]]

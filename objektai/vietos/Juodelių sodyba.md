@@ -64,9 +64,6 @@ Kautynių metu iš bunkerio pavyko išsiveržti Juozui Kemekliui-Rokui, kuris pr
 ### Teminiai klasteriai
 - [[temos/ežeras]]
 
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Denionių ežeras]]
 - [[objektai/vietos/Pamaleišio kaimas]]

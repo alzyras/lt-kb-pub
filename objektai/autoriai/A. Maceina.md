@@ -47,7 +47,3 @@ Maceina, Filosofijos kilmė ir prasmė, XII-328 psl. Roma 1978.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]

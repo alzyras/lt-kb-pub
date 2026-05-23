@@ -104,11 +104,3 @@ Antanas Kulakauskas nurodytas kaip vienas knygos „Lietuvos istorija“ autori�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-007
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XXI amžius]]
-
-### Susiję objektai
-- [[objektai/autoriai/Alfonsas Eidintas]]
-- [[objektai/autoriai/Mindaugas Tamošaitis]]

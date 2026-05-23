@@ -128,8 +128,4 @@ Ona Vytautienė šiame korpuse minima kaip antroji Vytauto žmona, iš pradžių
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Jadvyga Jogailienė]]
-- [[objektai/asmenys/Danuta]]
-- [[objektai/asmenys/Marija (pirmoji Vytauto žmona)]]
 - [[objektai/vietos/Salyno sala]]
-- [[objektai/asmenys/Vygandas von Baldersheimas]]

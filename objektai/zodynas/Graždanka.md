@@ -76,8 +76,5 @@ Graždanka minima kaip konkreti rusų raidžių vartojimo lietuviškoje spaudoje
 ## Pastabos
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
 ### Susiję objektai
 - [[objektai/zodynas/Rusiškosios raidės]]

@@ -67,9 +67,6 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVIII amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Sankt Peterburgas]]
 - [[objektai/zodynas/delegacinis seimas]]

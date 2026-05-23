@@ -152,9 +152,5 @@ B. Dundulis minimas kaip istorikas, tyrinėjęs lietuvių santykius ir kovas su 
     - t-004
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
 ### Susiję objektai
 - [[objektai/grupes/Istorikų kolektyvas]]
-- [[objektai/autoriai/V. Bagdanavičius]]

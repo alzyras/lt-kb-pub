@@ -39,7 +39,3 @@ Kazį Skučą ir Saugumo departamento direktorių Augustiną Povilaitį.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Kazys Skučas]]

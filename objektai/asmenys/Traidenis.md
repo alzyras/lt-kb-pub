@@ -177,7 +177,3 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-014
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIII amžius]]

@@ -59,8 +59,3 @@ kadangi ji nesutapo su etnografine lietuvių siena, tai pradžioje čia pasitaik
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

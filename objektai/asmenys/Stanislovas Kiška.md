@@ -60,6 +60,3 @@ Stanislovas Kiška nebuvo labai gabus karvedys, bet jau turėjo tam tikros patir
 ### Teminiai klasteriai
 - [[temos/karvedys]]
 - [[temos/transportas]]
-
-### Laikotarpiai
-- [[laikotarpiai/XVI amžius]]

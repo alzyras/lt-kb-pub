@@ -49,7 +49,3 @@ Antrame plane matyti Trakų salos pilis.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]

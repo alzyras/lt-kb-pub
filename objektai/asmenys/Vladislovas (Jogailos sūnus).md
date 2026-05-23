@@ -84,8 +84,5 @@ Juk jau 1425 m. viename suvažiavime šlėkta pasirinko karalai­ tį Vladislov�
 ### Teminiai klasteriai
 - [[temos/didikas]]
 
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]
-
 ### Susiję objektai
 - [[objektai/ivykiai/1425 m. Bresto (Kujavijoj) seimas]]

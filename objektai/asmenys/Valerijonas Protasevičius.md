@@ -70,6 +70,3 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dvasininkas]]
-
-### Laikotarpiai
-- [[laikotarpiai/XVI amžius]]

@@ -103,7 +103,3 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-012
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]

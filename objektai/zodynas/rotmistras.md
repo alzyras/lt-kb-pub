@@ -154,10 +154,5 @@ Terminas vartojamas kaip karinis vadovavimo ir karių telkimo pareigybės pavadi
 ### Teminiai klasteriai
 - [[temos/karinis-terminas]]
 
-### Laikotarpiai
-- [[laikotarpiai/XVI amžius]]
-- [[laikotarpiai/XVII amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/zodynas/hetmonas]]

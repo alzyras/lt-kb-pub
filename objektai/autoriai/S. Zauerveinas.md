@@ -83,8 +83,3 @@ Zauerveinas (autorius giesmės „Lietuviai esame mes gimę"). Kitas didelis lie
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/redaktorius]]
-
-### Susiję objektai
-- [[objektai/autoriai/M. Jankus]]
-- [[objektai/autoriai/Zauerveinas]]
-- [[objektai/autoriai/Šernas]]

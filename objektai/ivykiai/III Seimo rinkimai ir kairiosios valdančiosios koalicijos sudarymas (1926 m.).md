@@ -85,7 +85,3 @@ Nenurodyta
     - t-008
     - t-009
     - t-010
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]

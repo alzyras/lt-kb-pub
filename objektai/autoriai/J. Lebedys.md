@@ -59,10 +59,3 @@ Lebedžio, Vilnius 1957, 31-35 p.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
-### Susiję objektai
-- [[objektai/autoriai/K. Korsakas]]

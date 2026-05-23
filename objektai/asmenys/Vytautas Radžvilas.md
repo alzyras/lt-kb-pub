@@ -56,11 +56,3 @@ Roko maršams vadovavo LPS iniciatyvinės grupės narys, populiarios muzikos gru
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/Algirdas Kaušpėdas]]
-- [[objektai/asmenys/Arvydas Juozaitis]]

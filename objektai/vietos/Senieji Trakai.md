@@ -98,10 +98,6 @@ Senieji Trakai čia aprašomi kaip vienuolių įkurdinimo vieta.
 ## Pastabos
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Mažoji Lenkija]]
 - [[objektai/vietos/Trakai]]

@@ -57,7 +57,3 @@ Jai vadovavo lietuvis karininkas Auglys.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]

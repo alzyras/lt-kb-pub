@@ -54,6 +54,3 @@ tags:
 ### Teminiai klasteriai
 - [[temos/bibliografija]]
 - [[temos/metraštis]]
-
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]

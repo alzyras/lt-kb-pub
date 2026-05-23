@@ -86,11 +86,3 @@ tags:
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
-
-### Laikotarpiai
-- [[laikotarpiai/XVI amžius]]
-- [[laikotarpiai/XVII amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/Dmitrijus]]
-- [[objektai/asmenys/Fiodoras]]

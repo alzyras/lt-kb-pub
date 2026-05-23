@@ -366,12 +366,6 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - t-012
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/X amžius]]
-- [[laikotarpiai/XII amžius]]
-- [[laikotarpiai/XV amžius]]
-- [[laikotarpiai/XVI amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Didysis Naugardas]]
 - [[objektai/vietos/Možaiskas]]

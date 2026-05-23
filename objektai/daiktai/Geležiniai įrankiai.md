@@ -73,8 +73,5 @@ Nenurodyta
 ### Teminiai klasteriai
 - [[temos/įrankis]]
 
-### Laikotarpiai
-- [[laikotarpiai/XIII amžius]]
-
 ### Susiję objektai
 - [[objektai/autoriai/E. Radzvilovaitė]]

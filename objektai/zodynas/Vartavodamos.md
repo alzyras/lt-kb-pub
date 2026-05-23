@@ -51,7 +51,3 @@ Papildomos aiškios formos neišskirtos.
   pagrindžia:
     - t-003
     - t-004
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVI amžius]]

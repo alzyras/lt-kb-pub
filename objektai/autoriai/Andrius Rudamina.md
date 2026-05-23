@@ -68,6 +68,3 @@ Andrius Rudamina minimas kaip Vilniaus universiteto auklėtinis, Kinijoje mision
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dvasininkas]]
-
-### Laikotarpiai
-- [[laikotarpiai/XVII amžius]]

@@ -86,8 +86,5 @@ Nenurodyta
 - Šiame šaltinyje kalavijas aprašomas kaip atminties ir reprezentacijos objektas.
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVI amžius]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Steponas Batoras]]

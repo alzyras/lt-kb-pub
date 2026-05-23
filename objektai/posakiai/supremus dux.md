@@ -49,7 +49,3 @@ Taip didysis magistras jį jau titulavo Salyno taikoje, kai jis pats save vadino
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]

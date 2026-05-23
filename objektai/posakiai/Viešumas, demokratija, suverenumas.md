@@ -48,7 +48,3 @@ Pradiniame Sąjūdžio etape ši formulė įvardyta kaip pagrindinis šūkis.
   pagrindžia:
     - t-005
     - t-006
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]

@@ -120,8 +120,5 @@ Nenurodyta
     - t-003
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
 ### Susiję objektai
 - [[objektai/zodynas/karinė teritorinė pasipriešinimo judėjimo struktūra]]

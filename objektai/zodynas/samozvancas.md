@@ -53,8 +53,3 @@ netrukus kilo maištas, apsimetėlis (samozvancas) Dimitrijas žuvo, o Marina su
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

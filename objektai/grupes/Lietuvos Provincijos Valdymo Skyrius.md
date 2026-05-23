@@ -80,9 +80,3 @@ Prasidėjus sukilimui Lenkijoje, po poros mėnesių ir Lietuvoje susidarė revol
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIX amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

@@ -98,11 +98,3 @@ Papée). Papée, Pr. i Papée, Fr.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
-### Susiję objektai
-- [[objektai/autoriai/A. Brückner]]
-- [[objektai/autoriai/Fr. Papée]]

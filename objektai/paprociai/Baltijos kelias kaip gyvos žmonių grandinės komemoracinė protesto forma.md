@@ -90,9 +90,6 @@ tags: []
 ### Teminiai klasteriai
 - [[temos/socialinė-praktika]]
 
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Gedimino bokštas]]
 - [[objektai/vietos/Hermano bokštas]]

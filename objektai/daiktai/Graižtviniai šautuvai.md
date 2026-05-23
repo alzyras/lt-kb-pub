@@ -66,7 +66,3 @@ Nenurodyta
     - t-001
 
 ## Puslapis 165 Pagrindinis periodo veiksnys kovos lauke - didelis graižtvinių šautuvų kiekis.
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIX amžius]]

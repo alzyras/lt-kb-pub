@@ -135,12 +135,3 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVI amžius]]
-- [[laikotarpiai/XVII amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/Henrikas Vrede]]
-- [[objektai/asmenys/Karina Nilsdotter]]

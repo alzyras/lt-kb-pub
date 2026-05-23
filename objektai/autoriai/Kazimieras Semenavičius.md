@@ -94,9 +94,6 @@ Kazimiero Semenavičiaus „Artis magnae artilleriae“ pristatomas kaip reikšm
     - t-012
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVII amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Amsterdamas]]
 - [[objektai/daiktai/Daugiapakopės raketos]]

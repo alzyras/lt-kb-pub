@@ -83,9 +83,5 @@ Krašto padalinimas į pavietus ir vaivadijas.
     - t-002
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Žemaičių seniūnija]]

@@ -56,11 +56,3 @@ Merkys 125 , S. Jurginis, J., Merkys, V., Tautavičius, A.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
-### Susiję objektai
-- [[objektai/autoriai/S. Samalavičius]]
-- [[objektai/autoriai/V. Milius]]

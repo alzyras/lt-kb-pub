@@ -49,5 +49,4 @@ Pačiam Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgi
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Sviatoslavas]]
 - [[objektai/vietos/Vechra]]

@@ -57,8 +57,3 @@ LTSR Mokslų Akademijos Istorijos Institutas leidžia kas antri metai knygas : A
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/VIII amžius]]
-- [[laikotarpiai/XX amžius]]

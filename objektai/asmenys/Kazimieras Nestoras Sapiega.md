@@ -43,8 +43,3 @@ Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius veikiausia
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Ignotas Potockis]]
-- [[objektai/asmenys/Stanislovas Soltanas]]

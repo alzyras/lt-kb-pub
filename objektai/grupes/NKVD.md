@@ -123,9 +123,3 @@ Sovietinė saugumo, vidaus reikalų ir represinė institucija bei kariuomenės s
     - t-013
 
 ## Šaltiniai ir įrodymai
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

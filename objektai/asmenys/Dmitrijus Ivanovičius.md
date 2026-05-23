@@ -64,9 +64,3 @@ tags:
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/metraštis]]
-
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/Michailas Aleksandrovičius]]

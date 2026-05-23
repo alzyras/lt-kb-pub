@@ -80,7 +80,3 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
-
-### Laikotarpiai
-- [[laikotarpiai/XVI amžius]]
-- [[laikotarpiai/XXI amžius]]

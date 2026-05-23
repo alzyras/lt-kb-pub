@@ -67,8 +67,5 @@ Tais pačiais metais maskvėnai nusiaubė Oršos, Vitebsko, Kopilino, Šklovo, D
 ### Teminiai klasteriai
 - [[temos/paliaubos]]
 
-### Laikotarpiai
-- [[laikotarpiai/XVI amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Dubrovna]]

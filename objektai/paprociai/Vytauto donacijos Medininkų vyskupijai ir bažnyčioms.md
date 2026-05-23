@@ -72,6 +72,3 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/ežeras]]
-
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]

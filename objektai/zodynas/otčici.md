@@ -61,8 +61,5 @@ Be senesnių­ jų lietuvių ir rusų kunigaikščių — tėvynainių (otčici)
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]
-
 ### Susiję objektai
 - [[objektai/zodynas/ekonomija]]

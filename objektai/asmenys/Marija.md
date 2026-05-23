@@ -48,8 +48,3 @@ Bet jam pavyko dvi savo karalystes — Vengrų ir Len­ kijos — paskirti savo 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jadvyga Jogailienė]]
-- [[objektai/asmenys/Marija (Liudviko duktė)]]

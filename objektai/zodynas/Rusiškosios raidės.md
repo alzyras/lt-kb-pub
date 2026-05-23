@@ -123,8 +123,5 @@ Terminas vartojamas kalbant apie administracinį bandymą įvesti lietuviškai s
 ### Teminiai klasteriai
 - [[temos/istorinė-sąvoka]]
 
-### Laikotarpiai
-- [[laikotarpiai/XIX amžius]]
-
 ### Susiję objektai
 - [[objektai/zodynas/Graždanka]]

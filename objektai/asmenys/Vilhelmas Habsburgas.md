@@ -96,12 +96,3 @@ Dar tėvui gyvam esant, penkerių metų Jadvyga 1378 m. buvo sužieduota su Aust
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/Jadvyga Jogailienė]]
-- [[objektai/asmenys/Mykolas Tromba]]
-- [[objektai/asmenys/Vilhelmas]]

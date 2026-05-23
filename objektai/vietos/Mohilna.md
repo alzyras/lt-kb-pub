@@ -58,8 +58,5 @@ Antroji to Metraščio redakcija aprašo, kaip Mindaugo tėvas (Bychovco kroniko
 ### Teminiai klasteriai
 - [[temos/metraštis]]
 
-### Laikotarpiai
-- [[laikotarpiai/XIII amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Gudija]]

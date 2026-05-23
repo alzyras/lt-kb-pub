@@ -90,6 +90,3 @@ Grigorijus Camblakas pristatomas kaip vienas žymiausių to meto stačiatikybės
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dvasininkas]]
-
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]

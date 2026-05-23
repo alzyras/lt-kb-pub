@@ -104,11 +104,3 @@ Mindaugas Tamošaitis nurodytas kaip vienas knygos „Lietuvos istorija“ autor
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-007
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XXI amžius]]
-
-### Susiję objektai
-- [[objektai/autoriai/Alfonsas Eidintas]]
-- [[objektai/autoriai/Antanas Kulakauskas]]

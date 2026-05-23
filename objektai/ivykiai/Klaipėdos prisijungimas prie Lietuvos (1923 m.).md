@@ -146,10 +146,6 @@ Nenurodyta
     - t-019
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Ernestas Galvanauskas]]
 - [[objektai/asmenys/Jonas Budrys (Polovinskas)]]

@@ -61,6 +61,3 @@ Ketvirtasis vokiečių ordino magistras Hermanas Salza, gavęs Mozūrijos kuniga
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/privilegija]]
-
-### Laikotarpiai
-- [[laikotarpiai/XIII amžius]]

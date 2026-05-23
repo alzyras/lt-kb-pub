@@ -62,10 +62,3 @@ pradžioje, kai mirus abiems Ivano IV (Rūsčiojo) palikuonims Fiodorui ir maža
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
-
-### Laikotarpiai
-- [[laikotarpiai/XVII amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/Fiodoras]]
-- [[objektai/asmenys/Ivanas IV Rūstusis]]

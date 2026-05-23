@@ -111,9 +111,3 @@ Daugiausia ginčytinų teiginių ir vertinimų yra pasakyta Lietuvos pagonybės 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-008
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XI amžius]]
-- [[laikotarpiai/XIX amžius]]
-- [[laikotarpiai/XXI amžius]]

@@ -53,8 +53,3 @@ pietuose lenkai ir voluiniečiai, o rytuose gudai.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

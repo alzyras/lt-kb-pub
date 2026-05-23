@@ -62,7 +62,3 @@ tags: []
   pagrindžia:
     - t-005
     - t-006
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]

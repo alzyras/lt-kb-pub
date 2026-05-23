@@ -78,11 +78,6 @@ Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis su Maskva pali
     - t-002
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Brodnica]]
 - [[objektai/vietos/Grabovė]]

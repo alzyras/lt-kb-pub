@@ -61,9 +61,5 @@ tags:
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Lietuvos Brasta]]
-- [[objektai/asmenys/Vladislovas Jogailaitis]]

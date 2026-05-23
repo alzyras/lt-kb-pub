@@ -49,7 +49,3 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]

@@ -55,8 +55,5 @@ Nors Pograudos apylinkių gyventojai iš anksto buvo įspėti apie kryžiuočių
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-
 ### Susiję objektai
 - [[objektai/ivykiai/Ordino žygiai į Pograudą ir Šalčininkus (1311 m.)]]

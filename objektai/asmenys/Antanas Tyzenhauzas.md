@@ -176,10 +176,6 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
     - t-021
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVIII amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Anglija]]
 - [[objektai/vietos/Paulava]]
-- [[objektai/asmenys/Povilas Ksaveras Bžostovskis]]

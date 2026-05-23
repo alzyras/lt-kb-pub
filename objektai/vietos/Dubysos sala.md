@@ -56,8 +56,5 @@ Taip 1396 m. Vytautas su magistru susivažiavo Dubysos saloj.
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-
 ### Susiję objektai
 - [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija]]

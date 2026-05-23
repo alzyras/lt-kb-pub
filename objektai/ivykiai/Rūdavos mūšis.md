@@ -102,9 +102,6 @@ Lietuviai patyrė didelį pralaimėjimą.
     - t-007
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas]]
 - [[objektai/asmenys/Jogaila]]

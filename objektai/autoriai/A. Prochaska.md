@@ -146,13 +146,3 @@ ProJa = Prochaska, A. ProW = Prochaska, A. Prochaska.
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/aktas]]
-
-### Laikotarpiai
-- [[laikotarpiai/XIX amžius]]
-- [[laikotarpiai/XX amžius]]
-
-### Susiję objektai
-- [[objektai/autoriai/J. Jakštas]]
-- [[objektai/autoriai/K. Chodynicki]]
-- [[objektai/autoriai/Lenkų istorikai ir Lietuvos istoriografijos tyrėjai]]
-- [[objektai/autoriai/S. F. Platonov]]

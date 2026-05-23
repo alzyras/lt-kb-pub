@@ -49,5 +49,4 @@ Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Dominykas Semaško]]
 - [[objektai/posakiai/„niekuomet nebuvo karo padėtyje“ „nedraugiškas aktas“]]

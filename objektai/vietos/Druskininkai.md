@@ -120,9 +120,5 @@ O kai, besivydami bolševikus, lenkai ties Druskininkais persikėlė per Nemuną
 ### Teminiai klasteriai
 - [[temos/ežeras]]
 
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Marcinkonys]]

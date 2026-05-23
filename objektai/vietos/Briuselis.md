@@ -61,8 +61,3 @@ Derybos prasidėjo Briuselyje 1921 metų balandžio 20 d.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

@@ -57,11 +57,3 @@ Mulevičius 120.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
-### Susiję objektai
-- [[objektai/autoriai/E. Griškūnaitė]]
-- [[objektai/autoriai/P. Girdzijauskienė]]

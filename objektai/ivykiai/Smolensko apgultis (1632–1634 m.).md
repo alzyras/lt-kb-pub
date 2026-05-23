@@ -169,7 +169,3 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-008
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVII amžius]]

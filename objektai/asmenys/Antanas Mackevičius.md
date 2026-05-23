@@ -186,11 +186,7 @@ Mackevičius, vėliau K.
     - t-007
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIX amžius]]
-
 ### Susiję objektai
-- [[objektai/asmenys/B. Kolyška]]
 - [[objektai/posakiai/Eikime, broliai, už vierą šventą]]
 - [[objektai/paprociai/Kunigo A. Mackevičiaus religinės apeigos sukilėlių stovykloje]]
 - [[objektai/paprociai/Sukilėlių telkimas Salose per bažnyčios varpų skambinimą ir dvikalbį pamokslą]]

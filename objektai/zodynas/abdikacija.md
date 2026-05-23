@@ -78,8 +78,5 @@ Vartojama politinės teisės ir valdovo statuso kontekste.
 - [[temos/istorinė-sąvoka]]
 - [[temos/teisinis-terminas]]
 
-### Laikotarpiai
-- [[laikotarpiai/XVIII amžius]]
-
 ### Susiję objektai
 - [[objektai/ivykiai/1797 m. Peterburgo konvencija dėl trečiojo padalijimo patvirtinimo]]

@@ -50,7 +50,3 @@ Senn, A. : On the Kinship between Slavic and Baltic , Slavonic and East European
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]

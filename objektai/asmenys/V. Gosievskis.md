@@ -53,11 +53,3 @@ Gosievskio pajėgas.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVII amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis]]
-- [[objektai/asmenys/M. K. Pacas]]

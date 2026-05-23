@@ -56,5 +56,4 @@ Branto kavaleriją, kuri pradėjo trauktis. Raiteliai bėga pirmi, pavadžiais s
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/J. P. Sapiega]]
 - [[objektai/zodynas/petihorai]]

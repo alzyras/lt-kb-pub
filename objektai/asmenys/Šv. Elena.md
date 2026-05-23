@@ -42,4 +42,3 @@ Elenos skulptūros ant katedros frontono.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Vilniaus katedros portalo kolonada ir frontono skulptūros]]
-- [[objektai/asmenys/Šv. Stanislovas]]

@@ -91,9 +91,6 @@ tags:
 - [[temos/ritualas]]
 - [[temos/socialinė-praktika]]
 
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
 ### Susiję objektai
 - [[objektai/daiktai/Kino kronikos kameros]]
 - [[objektai/daiktai/Sutikimo vartai]]

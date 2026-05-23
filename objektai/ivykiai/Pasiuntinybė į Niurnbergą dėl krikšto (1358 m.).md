@@ -155,9 +155,6 @@ Derybos neįvyko valdovų sąlygomis, todėl buvo grįžta prie karo.
 ### Teminiai klasteriai
 - [[temos/politinis-sprendimas]]
 
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Algirdas]]
 - [[objektai/asmenys/Karolis IV]]

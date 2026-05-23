@@ -66,5 +66,4 @@ Taip Kryžių kalnas (jį 1993 m. aplankė popiežius Jonas Paulius II) tapo sim
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Audrys Juozas Bačkis]]
 - [[objektai/ivykiai/Rusijos kariuomenės išvedimas iš Lietuvos (1993 m. rugpjūčio 31 d.)]]

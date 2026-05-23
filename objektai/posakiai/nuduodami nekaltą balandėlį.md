@@ -113,10 +113,3 @@ Formulė pateikiama kaip Vytauto poleminis kaltinimas kryžiuočiams, vaidinanti
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XV amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

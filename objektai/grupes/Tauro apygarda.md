@@ -105,6 +105,3 @@ Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/redaktorius]]
-
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]

@@ -99,4 +99,3 @@ Poška, pats globojęs lietuviškosios kultūros palaikus savo Baubly ir rašęs
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/D. Poškos Baublys]]
-- [[objektai/autoriai/Lelevelis]]

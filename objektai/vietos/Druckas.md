@@ -111,11 +111,5 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
     - t-003
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XV amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Minskas]]

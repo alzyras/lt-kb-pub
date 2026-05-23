@@ -74,8 +74,3 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Adomas Jurgis Čartoriskis]]
-- [[objektai/asmenys/Nikolajus I]]

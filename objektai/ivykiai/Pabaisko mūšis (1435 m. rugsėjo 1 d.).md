@@ -229,8 +229,5 @@ Nenurodyta
     - t-013
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Pabaiskas]]

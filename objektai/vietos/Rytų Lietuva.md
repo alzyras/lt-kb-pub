@@ -111,10 +111,6 @@ Rugsėjį Himansas dar pataisė planą lietuvių naudai – Vilniaus regionas ja
     - t-004
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XXI amžius]]
-- [[laikotarpiai/XX amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Lvovas]]
 - [[objektai/vietos/Ukraina]]

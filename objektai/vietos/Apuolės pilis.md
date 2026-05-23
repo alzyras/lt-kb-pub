@@ -78,8 +78,3 @@ Apuolės pilis šiame veikale minima kaip viena ankstyvųjų skandinavų ekspans
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-005
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

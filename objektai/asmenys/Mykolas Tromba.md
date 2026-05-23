@@ -53,8 +53,3 @@ Tuo reikalu pas popiežių buvo siunčiamas kanauninkas Mykolas Trombas (Trąb),
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jadvyga Jogailienė]]
-- [[objektai/asmenys/Vilhelmas Habsburgas]]

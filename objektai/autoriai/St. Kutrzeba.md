@@ -66,7 +66,3 @@ Kutrzebos Historja ustroju Polski w zarysie, II — Litwa). Kutrzeba i Wl.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]

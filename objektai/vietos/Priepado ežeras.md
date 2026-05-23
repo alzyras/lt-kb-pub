@@ -76,6 +76,3 @@ Jie žinojo apie slaptą išėjimą iš bunkerio, kuris buvo įrengtas prie eže
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/ežeras]]
-
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]

@@ -49,6 +49,3 @@ tags:
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/redaktorius]]
-
-### Susiję objektai
-- [[objektai/autoriai/Mikšas]]

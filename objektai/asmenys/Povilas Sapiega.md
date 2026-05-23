@@ -82,6 +82,3 @@ Be jų, dar turėjo savo paties pinigais surinktos kariuomenės Vitebsko vaivada
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/pinigai]]
-
-### Laikotarpiai
-- [[laikotarpiai/XVII amžius]]

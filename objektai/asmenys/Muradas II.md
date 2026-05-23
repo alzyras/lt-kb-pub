@@ -55,7 +55,3 @@ Turkų sultonas Muradas II siuntė Vytautui į Smolenską dovanų.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]

@@ -54,9 +54,5 @@ Apygradoje prasidėjo reorganizacija: Prisikėlimo apygardos vadu tapo Povilas M
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
 ### Susiję objektai
 - [[objektai/grupes/Maironio rinktinė]]
-- [[objektai/asmenys/Povilas Morkūnas-Rimantas]]

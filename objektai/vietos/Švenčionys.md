@@ -117,8 +117,3 @@ Lietuviai atkakliai siekė išvengti karinių bazių, išsaugoti savo etnines ž
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XXI amžius]]

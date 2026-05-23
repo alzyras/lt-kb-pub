@@ -74,9 +74,6 @@ Nenurodyta
 ### Teminiai klasteriai
 - [[temos/karvedys]]
 
-### Laikotarpiai
-- [[laikotarpiai/XVI amžius]]
-
 ### Susiję objektai
 - [[objektai/autoriai/Mykolas Lietuvis]]
 - [[objektai/ivykiai/Oršos mūšis (1514 m.)]]

@@ -60,6 +60,3 @@ Apie tai galima spręsti iš to, kad Jogaila, kartu su „brangiausia žmona“,
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/papuošalas]]
-
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]

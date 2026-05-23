@@ -109,6 +109,3 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/simbolis]]
-
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]

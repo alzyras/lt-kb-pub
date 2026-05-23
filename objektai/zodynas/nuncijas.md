@@ -56,8 +56,3 @@ kad net popiežiaus atstovas (nuncijas) buvo išprašytas iš Lietuvos (1931 m. 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

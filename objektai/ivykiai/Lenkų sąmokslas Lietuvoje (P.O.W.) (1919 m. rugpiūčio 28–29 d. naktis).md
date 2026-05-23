@@ -110,8 +110,5 @@ Nenurodyta
     - t-003
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
 ### Susiję objektai
 - [[objektai/paprociai/Konspiracinė P.O.W. organizacijos veikla]]

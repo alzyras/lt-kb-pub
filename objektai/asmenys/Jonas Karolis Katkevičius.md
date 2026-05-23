@@ -86,10 +86,6 @@ Jos nebeišgelbėjo nė karaliaus atsiųstas Katkevičius. Katkevičius (Mūsų 
     - t-002
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVI amžius]]
-- [[laikotarpiai/XVII amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Chotinas]]
 - [[objektai/ivykiai/Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)]]

@@ -64,7 +64,3 @@ ežerą, per Miastros ežerą, Bliados ežero rytų šonu, Naračios upe,.
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/ežeras]]
-
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

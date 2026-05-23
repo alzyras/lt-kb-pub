@@ -95,9 +95,5 @@ menės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimnazijose).
     - t-003
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/grupes/Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti]]

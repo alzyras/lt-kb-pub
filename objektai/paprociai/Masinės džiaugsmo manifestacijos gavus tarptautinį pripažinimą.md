@@ -86,6 +86,3 @@ tags: []
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/socialinė-praktika]]
-
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]

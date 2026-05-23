@@ -173,8 +173,5 @@ Nenurodyta
 ### Teminiai klasteriai
 - [[temos/pinigai]]
 
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
 ### Susiję objektai
 - [[objektai/paprociai/Valstybinio turto privatizavimas investiciniais čekiais]]

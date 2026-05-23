@@ -52,5 +52,4 @@ Simpsono klausimą dėl požiūrio į federaciją su Rusija atsakė, kad „Liet
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Augustinas Voldemaras]]
 - [[objektai/posakiai/„Lietuva galėtų įsijungti į Rusijos federaciją...“]]

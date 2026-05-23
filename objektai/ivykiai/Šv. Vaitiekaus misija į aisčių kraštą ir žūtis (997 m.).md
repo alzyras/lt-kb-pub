@@ -143,8 +143,5 @@ Vaitiekaus lavoną išpirko Boleslovas Narsusis. Pats Vaitiekus buvo paskelbtas 
     - t-008
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/X amžius]]
-
 ### Susiję objektai
 - [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis]]

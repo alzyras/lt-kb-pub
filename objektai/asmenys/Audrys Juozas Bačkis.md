@@ -48,5 +48,4 @@ Popiežių Joną Paulių II pirmojo vizito į Lietuvą metu lydi Lietuvos Respub
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Jonas Paulius II]]
 - [[objektai/ivykiai/Rusijos kariuomenės išvedimas iš Lietuvos (1993 m. rugpjūčio 31 d.)]]

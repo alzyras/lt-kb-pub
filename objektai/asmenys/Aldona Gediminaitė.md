@@ -86,8 +86,3 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Kazimieras Didysis]]
-- [[objektai/asmenys/Vladislovas Łokietka]]

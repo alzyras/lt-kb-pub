@@ -81,9 +81,6 @@ Nenurodyta
 ### Teminiai klasteriai
 - [[temos/simbolis]]
 
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
 ### Susiję objektai
 - [[objektai/grupes/Komjaunimas]]
 - [[objektai/grupes/Pionierių organizacijos]]

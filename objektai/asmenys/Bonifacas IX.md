@@ -87,12 +87,7 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
     - t-002
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XV amžius]]
-
 ### Susiję objektai
 - [[objektai/grupes/Domininkonų ordinas]]
-- [[objektai/asmenys/Gregorijus (Vladimiro vyskupas)]]
 - [[objektai/vietos/Malburgas]]
 - [[objektai/zodynas/neofitas]]

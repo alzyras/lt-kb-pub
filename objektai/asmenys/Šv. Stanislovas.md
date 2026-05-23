@@ -65,5 +65,4 @@ Stanislovo garbei („kad abi lygiateisės tautos turėtų vieną globėją ir u
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/daiktai/Vilniaus katedros portalo kolonada ir frontono skulptūros]]
-- [[objektai/asmenys/Šv. Elena]]
 - [[objektai/posakiai/„kad abi lygiateisės tautos turėtų vieną globėją ir užtarėją“]]

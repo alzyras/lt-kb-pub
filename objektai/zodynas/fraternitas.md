@@ -75,8 +75,3 @@ Akte yra sakoma: Kad būtų viena tauta, viena visuomenė, viena brolija (frater
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

@@ -55,8 +55,5 @@ tags:
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIII amžius]]
-
 ### Susiję objektai
 - [[objektai/paprociai/Sūduvos pasidalijimo sutartys ir sąjungų stiprinimas]]

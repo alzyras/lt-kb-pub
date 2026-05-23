@@ -44,7 +44,3 @@ Stanevičius — lietuviškų dainų rinkinį.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/K. Zabitis Nezabitauskas]]

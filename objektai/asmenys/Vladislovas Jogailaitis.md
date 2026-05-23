@@ -128,10 +128,5 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
     - t-003
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Lietuvos Brasta]]
-- [[objektai/asmenys/Rusdorfas]]
-- [[objektai/asmenys/Žygimantas Kęstutaitis]]

@@ -72,6 +72,3 @@ Ksaveras Bogušas pristatomas kaip iš Lietuvos kilęs kunigas ir teologas, kuri
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dvasininkas]]
-
-### Laikotarpiai
-- [[laikotarpiai/XIX amžius]]

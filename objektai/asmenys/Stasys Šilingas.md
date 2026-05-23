@@ -47,5 +47,4 @@ Basanavičius, Stasys Šilingas ir Donatas Malinauskas surašė vadinamąją Gin
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Donatas Malinauskas]]
 - [[objektai/ivykiai/Gintarinės deklaracijos surašymas ir paskelbimas Rusijos Dūmoje]]

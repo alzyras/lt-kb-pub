@@ -57,8 +57,5 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVII amžius]]
-
 ### Susiję objektai
 - [[objektai/paprociai/Procesijos ir iškilmingos laidotuvės]]

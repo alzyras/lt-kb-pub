@@ -87,4 +87,3 @@ Mironas. Smetonai artimas asmuo – kun. Vladas Mironas. Mironą premjero poste 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/ivykiai/1938 m. Lietuvos Konstitucijos paskelbimas (1938 m. gegužės 12 d.)]]
-- [[objektai/asmenys/Antanas Smetona]]

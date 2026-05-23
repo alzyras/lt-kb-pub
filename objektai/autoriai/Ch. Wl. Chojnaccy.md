@@ -53,6 +53,3 @@ Chojnaccy : Materiały do bibliografii bitwy pod Grunwaldem, Rocznik Olsztyński
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/bibliografija]]
-
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]

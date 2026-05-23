@@ -53,11 +53,3 @@ Merkį brutaliu elgesiu, absurdiškai kaltino Lietuvą antisovieti- 4 skyrius �
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/Antanas Merkys]]
-- [[objektai/asmenys/Viačeslavas Molotovas]]

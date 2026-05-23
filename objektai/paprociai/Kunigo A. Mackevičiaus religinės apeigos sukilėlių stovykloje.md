@@ -120,10 +120,6 @@ Nenurodyta
     - t-005
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIX amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/daiktai/1863-1864 m. sukilėlių vėliava]]
 - [[objektai/asmenys/Antanas Mackevičius]]

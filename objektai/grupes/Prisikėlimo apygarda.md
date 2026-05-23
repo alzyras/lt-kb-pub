@@ -136,9 +136,6 @@ tags:
     - t-004
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Aleksandra Atgailainytė]]
 - [[objektai/grupes/Kęstučio apygarda]]

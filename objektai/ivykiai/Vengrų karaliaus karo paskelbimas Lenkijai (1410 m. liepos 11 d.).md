@@ -91,9 +91,6 @@ Nenurodyta
 ### Teminiai klasteriai
 - [[temos/pinigai]]
 
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Hohendorfas]]
 - [[objektai/vietos/Soldau]]

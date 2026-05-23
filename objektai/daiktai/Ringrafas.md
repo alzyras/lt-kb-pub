@@ -72,6 +72,3 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/karvedys]]
-
-### Laikotarpiai
-- [[laikotarpiai/XVIII amžius]]

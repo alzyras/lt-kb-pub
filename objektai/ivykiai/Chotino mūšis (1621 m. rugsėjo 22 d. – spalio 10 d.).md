@@ -121,10 +121,6 @@ Nenurodyta
     - t-005
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVII amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Chotinas]]
 - [[objektai/asmenys/Jonas Karolis Katkevičius]]

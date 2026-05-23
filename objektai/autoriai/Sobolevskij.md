@@ -59,6 +59,3 @@ Jau prieš I pa­ saulinį karą buvo teigiama (Sobolevskij, A.
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/ežeras]]
-
-### Susiję objektai
-- [[objektai/autoriai/A. Kočubinskij]]

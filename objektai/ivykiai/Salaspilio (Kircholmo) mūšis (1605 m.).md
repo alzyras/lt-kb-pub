@@ -285,9 +285,6 @@ Nenurodyta
     - t-016
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVII amžius]]
-
 ### Susiję objektai
 - [[objektai/ivykiai/Salaspilio (Kirkcholmo) mūšis]]
 - [[objektai/asmenys/T. Lackis]]

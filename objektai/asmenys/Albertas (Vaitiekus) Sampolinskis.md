@@ -55,7 +55,3 @@ Juos papildė Lenkijos karalystės pinigais suverbuoti žmonės ir lenkų riteri
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Jonas Tarnovskis]]

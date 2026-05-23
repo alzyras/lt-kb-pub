@@ -52,7 +52,3 @@ Vytauto permainų reikšmę suvokė jau amžininkai, jų komplimentai ar sureik�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XXI amžius]]

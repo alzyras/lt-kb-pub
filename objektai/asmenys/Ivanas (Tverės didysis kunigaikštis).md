@@ -59,8 +59,3 @@ Prieš mūšį Vytauto dukters Sofijos Vytautaitės, Maskvos didžiosios kunigai
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Sofija Vytautaitė]]
-- [[objektai/asmenys/Vasilijus (Maskvos didysis kunigaikštis)]]

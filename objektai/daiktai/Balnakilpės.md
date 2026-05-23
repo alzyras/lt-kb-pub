@@ -83,8 +83,5 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIII amžius]]
-
 ### Susiję objektai
 - [[objektai/daiktai/Sidabruotos geležinės XI-XII a. balnakilpės]]

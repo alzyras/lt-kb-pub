@@ -74,6 +74,3 @@ Terminas žymi nustatytą kariuomenės skaičių ar karo etatą, nuo kurio prikl
 ### Teminiai klasteriai
 - [[temos/istorinė-sąvoka]]
 - [[temos/karinis-terminas]]
-
-### Laikotarpiai
-- [[laikotarpiai/XVII amžius]]

@@ -161,10 +161,6 @@ Terminas žymi savitą LDK kavalerijos rūšį tarp husarų ir lengvesniųjų ra
 - Šaltinyje terminas aiškinamas per ginkluotę ir mūšio funkciją, o ne per vieną trumpą žodyno definiciją.
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVII amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/asmenys/H. Brantas]]
 - [[objektai/asmenys/J. P. Sapiega]]

@@ -49,7 +49,3 @@ Odesos universiteto istorikas V. V. Antono­ vičius iš šaltinių bandė tirti
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Rusų ir ukrainiečių istorikai]]

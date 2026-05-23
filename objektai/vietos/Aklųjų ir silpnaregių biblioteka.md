@@ -56,7 +56,3 @@ Kai buvo užimti Lietuvos radijo ir televizijos pastatai, radijo laidų rengimas
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]

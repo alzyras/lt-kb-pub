@@ -48,8 +48,3 @@ Kondratowicziaus (Wl.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/Ign. Kraszewskio]]
-- [[objektai/autoriai/L. Kondratowicziaus]]

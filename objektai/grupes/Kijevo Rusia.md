@@ -93,10 +93,5 @@ Kijevo Rusia šiame šaltinyje minima kaip 988 m. Bizantijos krikštą priėmęs
     - t-005
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-- [[laikotarpiai/XI amžius]]
-
 ### Susiję objektai
 - [[objektai/asmenys/Jaroslavas (Kijevo valdovas)]]

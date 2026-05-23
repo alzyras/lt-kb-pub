@@ -106,11 +106,6 @@ Nenurodyta
     - t-005
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVI amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/paprociai/Trilaukio ūkio sistema]]
 - [[objektai/ivykiai/Valakų reforma (1557 m.)]]

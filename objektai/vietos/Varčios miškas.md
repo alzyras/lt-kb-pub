@@ -54,9 +54,6 @@ Varčios miške, tarp Alovės ir Daugų mstl.
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
 ### Susiję objektai
 - [[objektai/vietos/Alovė]]
 - [[objektai/vietos/Daugai]]

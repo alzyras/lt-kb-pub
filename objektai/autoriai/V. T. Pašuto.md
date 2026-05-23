@@ -88,9 +88,3 @@ Pašuto : Obrazovanie litovskogo gosudarstva (išl. Pašuto, V.
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/laiškas]]
-
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
-### Susiję objektai
-- [[objektai/autoriai/E. Radzvilovaitė]]

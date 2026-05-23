@@ -99,9 +99,5 @@ Nenurodyta
     - t-002
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XII amžius]]
-- [[laikotarpiai/XIII amžius]]
-
 ### Susiję objektai
 - [[objektai/posakiai/na Litvu]]

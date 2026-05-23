@@ -67,8 +67,3 @@ Nenurodyta
     - t-001
 
 ## Puslapis 151 Pėstininkų muškieta titnagine spyna (pėstininkų fuzėja).
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIX amžius]]
-- [[laikotarpiai/XVIII amžius]]

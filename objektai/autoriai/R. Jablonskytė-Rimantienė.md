@@ -49,7 +49,3 @@ Jablonskytė - Rimantienė pateikė duomenų apie seniausias akmens amžiaus sto
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/autoriai/V. Urbanavičius]]

@@ -315,15 +315,3 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-014
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/Ona Vytautienė]]
-- [[objektai/asmenys/Elžbieta]]
-- [[objektai/asmenys/Marija]]
-- [[objektai/asmenys/Marija (Liudviko duktė)]]
-- [[objektai/asmenys/Mykolas Tromba]]
-- [[objektai/asmenys/Vilhelmas Habsburgas]]

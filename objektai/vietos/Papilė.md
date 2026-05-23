@@ -55,7 +55,3 @@ Mūšio išvakarėse 1359 m. Livonijos magistras surengė didelį žygį prieš 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]

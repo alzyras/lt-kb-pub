@@ -90,7 +90,6 @@ Steigiamojo Seimo pirmininku išrinktas LŪS lyderis agronomas Aleksandras Stulg
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Aleksandras Stulginskis]]
 - [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga]]
 - [[objektai/grupes/Ministerių kabinetas]]
 - [[objektai/posakiai/„etnologinėmis sienomis“]]

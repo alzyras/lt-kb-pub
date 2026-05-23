@@ -86,10 +86,3 @@ Tais reikalais 1415 m. į Konstanciją buvo išsiųsta Lietuvos ir Lenkijos vysk
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/didikas]]
-
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]
-
-### Susiję objektai
-- [[objektai/asmenys/Mikalojus Dziežgavičius]]
-- [[objektai/asmenys/Motiejus (Žemaičių ir Vilniaus vyskupas)]]

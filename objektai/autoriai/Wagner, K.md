@@ -51,11 +51,3 @@ Wagner, K.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]
-
-### Susiję objektai
-- [[objektai/autoriai/Smolka, St]]
-- [[objektai/autoriai/St. Smolka]]

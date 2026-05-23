@@ -94,9 +94,6 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
     - t-008
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVI amžius]]
-
 ### Susiję objektai
 - [[objektai/ivykiai/Oršos mūšis (1514 m. rugsėjo 8 d.)]]
 - [[objektai/ivykiai/Oršos mūšis (1514 m.)]]

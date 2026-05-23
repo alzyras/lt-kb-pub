@@ -52,7 +52,3 @@ Vokiečių ŽEMAITIŠKA DAINELĖ Antanas Klementas.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XVIII amžius]]

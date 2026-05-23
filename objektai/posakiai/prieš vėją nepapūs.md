@@ -87,11 +87,5 @@ Patarlinė formulė čia vartojama kalbant apie jėgų nelygybę ir nenorą prie
     - t-002
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XV amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/autoriai/O. Halecki]]

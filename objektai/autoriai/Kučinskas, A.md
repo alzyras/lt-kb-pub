@@ -63,6 +63,3 @@ Kučinskas, A.
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
-
-### Laikotarpiai
-- [[laikotarpiai/XX amžius]]

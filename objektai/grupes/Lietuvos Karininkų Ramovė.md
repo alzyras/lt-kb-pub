@@ -61,10 +61,5 @@ Surinkdamas daug archyvinės medžiagos, Janulaitis parašė išsamų veikalą �
     - t-001
 
 ## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIX amžius]]
-- [[laikotarpiai/XVIII amžius]]
-- [[laikotarpiai/XX amžius]]
-
 ### Susiję objektai
 - [[objektai/autoriai/Aug. Janulaitis]]

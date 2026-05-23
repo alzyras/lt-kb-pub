@@ -61,8 +61,3 @@ Vladimirovo straipsniai: Caro vyriausybės politika kultūros-švietimo srityje 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Laikotarpiai
-- [[laikotarpiai/XIX amžius]]
-- [[laikotarpiai/XX amžius]]

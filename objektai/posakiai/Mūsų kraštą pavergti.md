@@ -68,8 +68,3 @@ tags: []
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/frazė]]
-
-### Laikotarpiai
-- [[laikotarpiai/XV amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

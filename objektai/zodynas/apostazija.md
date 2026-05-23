@@ -98,9 +98,3 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
 ### Teminiai klasteriai
 - [[temos/istorinė-sąvoka]]
 - [[temos/religinis-terminas]]
-
-### Laikotarpiai
-- [[laikotarpiai/XIII amžius]]
-- [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]

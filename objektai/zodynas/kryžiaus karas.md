@@ -85,8 +85,3 @@ Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo toto
 ### Teminiai klasteriai
 - [[temos/karinis-terminas]]
 - [[temos/religinis-terminas]]
-
-### Laikotarpiai
-- [[laikotarpiai/XIII amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
