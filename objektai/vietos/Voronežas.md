@@ -122,4 +122,4 @@ menės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimnazijose).
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Peterburgas]]
 - [[objektai/vietos/Rusija]]
-- [[objektai/grupes/Aukščiausioji Visos Rusijos Lietuvių Tautos Taryba]]
+- [[objektai/grupes/Aukščiausioji Visos Rusijos Lietuvių Tautos Taryba|Aukščiausioji Visos Rusijos Lietuvių Tautos Taryba (institucija)]]

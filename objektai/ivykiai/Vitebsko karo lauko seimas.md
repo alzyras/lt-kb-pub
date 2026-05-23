@@ -1,9 +1,11 @@
 ---
 tipas: ivykis
-pavadinimas: 'Vitebsko karo lauko seimas'
+pavadinimas: 'Vitebsko karo lauko seimas (seimas)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Vitebsko karo lauko seimas'
+aliases:
+  - 'Vitebsko karo lauko seimas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
@@ -13,7 +15,7 @@ tags:
   - seimas
   - unija
 ---
-# Vitebsko karo lauko seimas
+# Vitebsko karo lauko seimas (seimas)
 
 ## Santrauka
 

@@ -1,9 +1,11 @@
 ---
 tipas: paprotys
-pavadinimas: 'Įkaitų davimas kaip sutarties garantija'
+pavadinimas: 'Įkaitų davimas kaip sutarties garantija (sutartis)'
 sukurta: '2026-05-05'
-variantai: []
-aliases: []
+variantai:
+  - 'Įkaitų davimas kaip sutarties garantija'
+aliases:
+  - 'Įkaitų davimas kaip sutarties garantija'
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 laikotarpis: 'Lietuvos santykiai su Ordinu ir Lenkija; XIV a. pabaiga'
@@ -23,7 +25,7 @@ susije_irasai: []
 patikimumas: 'aukštas'
 tags: []
 ---
-# Įkaitų davimas kaip sutarties garantija
+# Įkaitų davimas kaip sutarties garantija (sutartis)
 
 ## Santrauka
 

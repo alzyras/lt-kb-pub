@@ -1,9 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Trakų pilis'
+pavadinimas: 'Trakų pilis (pilis)'
 sukurta: '2026-05-18'
-variantai: []
-aliases: []
+variantai:
+  - 'Trakų pilis'
+aliases:
+  - 'Trakų pilis'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
@@ -26,7 +28,7 @@ tags:
   - valstybė
   - vieta
 ---
-# Trakų pilis
+# Trakų pilis (pilis)
 
 ## Santrauka
 

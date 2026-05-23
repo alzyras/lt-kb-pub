@@ -55,6 +55,7 @@ Tačiau prezidentas galėjo diktuoti vyriausybės darbus, tad opozicijos Adolfas
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/A. Hitleris|Adolfas Hitleris (XX a.)]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/Vokietijos ultimatumas ir Klaipėdos krašto perdavimas Vokietijai (1939 m. kovo 20-23 d.)]]

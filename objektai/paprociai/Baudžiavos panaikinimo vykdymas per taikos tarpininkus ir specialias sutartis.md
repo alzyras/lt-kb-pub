@@ -1,9 +1,11 @@
 ---
 tipas: paprotys
-pavadinimas: 'Baudžiavos panaikinimo vykdymas per taikos tarpininkus ir specialias sutartis'
+pavadinimas: 'Baudžiavos panaikinimo vykdymas per taikos tarpininkus ir specialias sutartis (sutartis)'
 sukurta: '2026-04-25'
-variantai: []
-aliases: []
+variantai:
+  - 'Baudžiavos panaikinimo vykdymas per taikos tarpininkus ir specialias sutartis'
+aliases:
+  - 'Baudžiavos panaikinimo vykdymas per taikos tarpininkus ir specialias sutartis'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
@@ -11,7 +13,7 @@ tags:
   - paprotys
   - sutartis
 ---
-# Baudžiavos panaikinimo vykdymas per taikos tarpininkus ir specialias sutartis
+# Baudžiavos panaikinimo vykdymas per taikos tarpininkus ir specialias sutartis (sutartis)
 
 ## Santrauka
 

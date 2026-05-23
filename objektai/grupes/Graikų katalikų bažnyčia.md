@@ -45,5 +45,5 @@ Tačiau Graikų katalikų bažnyčios metropolitai vėlgi buvo Kijevo metropolit
 - [[objektai/vietos/Kijevas]]
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Vilnius]]
-- [[objektai/ivykiai/Brastos bažnytinė unija]]
-- [[objektai/zodynas/metropolija bažnytinė unija]]
+- [[objektai/ivykiai/Brastos bažnytinė unija|Brastos bažnytinė unija (unija)]]
+- [[objektai/zodynas/metropolija bažnytinė unija|metropolija bažnytinė unija (unija)]]

@@ -19,21 +19,12 @@ vaidmenys:
   - istorikas
 dalyviai: []
 susije_irasai: []
-datos:
-  - '1009 m.'
-  - '1795 m.'
-  - '2005 m.'
-  - '2010 m.'
-  - '2013 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XI'
-  - 'XVIII'
-  - 'XXI'
-date_start: '1009'
-date_end: '2013'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: aukštas
 tags:
   - autorius

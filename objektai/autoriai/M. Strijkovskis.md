@@ -1,11 +1,13 @@
 ---
 tipas: autorius
-pavadinimas: 'M. Strijkovskis'
+pavadinimas: 'Motiejus Strijkovskis (kronikininkas)'
 variantai:
   - 'M. Strijkovskio'
   - 'M. Strijkovskis (XVI a. antrojoje pusėje)'
   - 'Motiejus Strijkovskis'
-aliases: []
+  - 'M. Strijkovskis'
+aliases:
+  - 'M. Strijkovskis'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos: []
@@ -24,7 +26,7 @@ patikimumas: 'aukštas'
 tags:
   - autorius
 ---
-# M. Strijkovskis
+# Motiejus Strijkovskis (kronikininkas)
 
 ## Santrauka
 

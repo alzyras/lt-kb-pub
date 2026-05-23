@@ -1,9 +1,11 @@
 ---
 tipas: paprotys
-pavadinimas: 'Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais'
+pavadinimas: 'Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais (sutartis)'
 sukurta: '2026-05-05'
-variantai: []
-aliases: []
+variantai:
+  - 'Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais'
+aliases:
+  - 'Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais'
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 laikotarpis: 'Lietuvos ir Ordino bei Lenkijos politiniai susitarimai; XIV a. pabaiga'
@@ -22,7 +24,7 @@ susije_irasai: []
 patikimumas: 'aukštas'
 tags: []
 ---
-# Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais
+# Sutarties ir vasaliteto tvirtinimas raštu bei antspaudais (sutartis)
 
 ## Santrauka
 

@@ -1,9 +1,11 @@
 ---
 tipas: paprotys
-pavadinimas: 'Aukščiausiosios Tarybos gynybos principai'
+pavadinimas: 'Aukščiausiosios Tarybos gynybos principai (institucija)'
 sukurta: '2026-05-02'
-variantai: []
-aliases: []
+variantai:
+  - 'Aukščiausiosios Tarybos gynybos principai'
+aliases:
+  - 'Aukščiausiosios Tarybos gynybos principai'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 laikotarpis: '1991 m.'
@@ -19,7 +21,7 @@ susije_irasai: []
 patikimumas: 'aukštas'
 tags: []
 ---
-# Aukščiausiosios Tarybos gynybos principai
+# Aukščiausiosios Tarybos gynybos principai (institucija)
 
 ## Santrauka
 

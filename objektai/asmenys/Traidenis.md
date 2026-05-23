@@ -14,8 +14,6 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1272 m.'
-  - '1289 m.'
-  - '1290 m.'
   - '1292 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
@@ -189,7 +187,6 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
 - [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/ivykiai/Gedimino sąjunga su Lenkija]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/posakiai/Lietuvoje pradėjo valdyti pašėlęs (okajauyj), nedorovingas, prakeiktas ir negailestingas Traidenis]]
 - [[objektai/grupes/Livonijos ordinas]]
 - [[objektai/asmenys/Mamšėjus]]
 - [[objektai/asmenys/Nogajus (Aukso ordos valdytojas)]]

@@ -12,7 +12,6 @@ periodas: 'okupacijų ir sovietmečio laikotarpis'
 periodo_grupes:
   - 'XX a.'
 amziai:
-  - 'XIX'
   - 'XX'
 date_start: '1959'
 date_end: ''

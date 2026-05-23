@@ -1,13 +1,16 @@
 ---
 tipas: 'ivykis'
-pavadinimas: 'Salaspilio (Kircholmo) mūšis (1605 m.)'
+pavadinimas: "Salaspilio (Kircholmo) mūšis (1605 m.)"
 sukurta: '2026-05-02'
 variantai:
   - 'Salaspilio mūšis'
   - 'Kirkcholmo mūšis'
   - 'Salaspilio (Kircholmo) mūšis'
   - 'Salaspilio (Kirkcholmo) mūšis'
-aliases: []
+  - 'Salaspilio (Kirchholmo) mūšis'
+aliases:
+  - 'Salaspilio (Kirchholmo) mūšis'
+  - 'Salaspilio (Kirkcholmo) mūšis'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 bukle: 'juodrastis'
@@ -63,12 +66,6 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-009
-  teiginys: '1605 m. rugsėjo 27 d. ties Salaspiliu (Kirkholmu) Karolis IX išrikiavo savo kariuomenę, o J. K. Chodkevičius liepė Lietuvos kariuomenei pasiruošti mūšiui; prie didžiojo etmono prisijungė ir Kuršo kunigaikštis Fridrichas Ketleris.'
-  pagrindžia:
-    - c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  statusas: patvirtinta
 - t-010
   teiginys: 'Švedų ir Lietuvos kariuomenės nepajudėjusios išstovėjo iki vidudienio, nes švedai buvo išsirikiavę ant aukšto upelio kranto, o lietuviai mėgino juos išprovokuoti pulti pirmuosius.'
   pagrindžia:
@@ -109,6 +106,18 @@ Nenurodyta
   teiginys: 'Salaspilio mūšyje žuvo Fridrichas Liuneburgietis ir Andrius Lennartssonas, o lietuvių kairiojo sparno sėkmė padėjo V. Vainos kariams centre.'
   pagrindžia:
     - c-008
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-020
+  teiginys: 'Iki Salaspilio mūšio vidudienio abi kariuomenės stovėjo nepajudėjusios.'
+  pagrindžia:
+    - c-004
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-021
+  teiginys: 'Besitraukiantys švedų pėstininkai bandė slėptis Salaspilio (Kircholmo) bažnyčioje.'
+  pagrindžia:
+    - c-012
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
@@ -154,32 +163,6 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-013
-- c-003
-  santrauka: '1605 m. rugsėjo 27 d. ties Salaspiliu (Kirkholmu) Karolis IX išrikiavo savo kariuomenę, o J. K. Chodkevičius liepė Lietuvos kariuomenei pasiruošti mūšiui; prie didžiojo etmono prisijungė ir Kuršo kunigaikštis Fridrichas Ketleris.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Rugsėjo 27 d. apie 10 val. Švedijos kara-
-    lius Karolis 1x išrikiavo savo kariuomenę.
-    LDK didysis etmonas J. K. Chodkevičius,
-    pamatęs lauke besirikiuojančius švedus,
-    įsakė Lietuvos kariuomenei išsirikiuoti ir
-    pasiruošti mūšiui.
-
-    Kairiajame Dauguvos krante buvęs
-    Kuršo kunigaikštis Fridrichas Ketleris, ma-
-    tydamas besirikiuojančius lietuvius, savo
-    300 raitelių įsakė persikelti į dešinįjį krantą.
-    Kuršiečiai, kartu su kunigaikščiu, sėkmin-
-    gai perplaukė upę ir prisistatė didžiajam
-    etmonui. Ši akimirka labai pakėlė Lietuvos
-    karių nuotaiką.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-009
 - c-004
   santrauka: 'Švedų ir Lietuvos kariuomenės nepajudėjusios išstovėjo iki vidudienio, nes švedai buvo išsirikiavę ant aukšto upelio kranto, o lietuviai mėgino juos išprovokuoti pulti pirmuosius.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -283,6 +266,22 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-016
+- c-012
+  santrauka: 'Besitraukiantys švedų pėstininkai bandė slėptis Salaspilio (Kircholmo) bažnyčioje.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Besitraukiantys švedų pėstininkai bandė
+    slėptis Salaspilio (Kircholmo) bažnyčioje.
+    Tačiau jų pasipriešinimas buvo palaužtas.
+    Eiliniai kariai buvo išžudyti, o karininkai
+    paimti į nelaisvę.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-021
 
 ## Ryšiai
 ### Susiję objektai
@@ -304,7 +303,6 @@ Nenurodyta
 - [[objektai/zodynas/vėliava]]
 - [[objektai/grupes/Švedai]]
 - [[objektai/asmenys/Laurencijus Bojeris]]
-- [[objektai/ivykiai/Salaspilio (Kirkcholmo) mūšis]]
 - [[objektai/vietos/Salaspilis]]
 - [[objektai/asmenys/T. Lackis]]
 - [[objektai/grupes/Švedų gvardijos kavalerija]]

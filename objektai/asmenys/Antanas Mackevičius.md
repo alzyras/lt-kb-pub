@@ -210,5 +210,5 @@ Mackevičius, vėliau K.
 ### Susiję objektai
 - [[objektai/vietos/Kaunas]]
 - [[objektai/zodynas/gubernija]]
-- [[objektai/paprociai/Carinės sukilimo slopinimo teroro ir viešų bausmių praktika]]
+- [[objektai/paprociai/Carinės sukilimo slopinimo teroro ir viešų bausmių praktika|Carinės sukilimo slopinimo teroro ir viešų bausmių praktika (sukilimas)]]
 - [[objektai/paprociai/Sukilėlių partizaninio karo nedidelių antpuolių taktika]]

@@ -79,6 +79,5 @@ tags:
 - [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
 - [[objektai/daiktai/Karūna]]
 - [[objektai/posakiai/„iki gyvos galvos“]]
-- [[objektai/asmenys/A. Smetona|A. Smetona (prezidentas, XX a.)]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
 - [[objektai/ivykiai/Klaipėdos nacių teismas Kaune (1934 m. liepa - 1935 m. kovas)]]

@@ -75,4 +75,4 @@ Nenurodyta
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/vietos/Viena]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/vietos/Aukaimio pilis]]
+- [[objektai/vietos/Aukaimio pilis|Aukaimio pilis (pilis)]]

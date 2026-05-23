@@ -46,5 +46,5 @@ Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Lietuvos seimas]]
+- [[objektai/grupes/Lietuvos seimas|Lietuvos seimas (seimas)]]
 - [[objektai/zodynas/tranzitas]]

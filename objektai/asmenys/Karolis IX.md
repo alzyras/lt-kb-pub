@@ -192,7 +192,7 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
 ### Susiję objektai
 - [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
 - [[objektai/vietos/Kuoknesė]]
-- [[objektai/vietos/Kuoknesės pilis]]
+- [[objektai/vietos/Kuoknesės pilis|Kuoknesės pilis (pilis)]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Livonija]]
 - [[objektai/grupes/Švedai]]

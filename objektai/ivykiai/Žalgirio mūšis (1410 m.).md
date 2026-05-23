@@ -1,9 +1,11 @@
 ---
 tipas: ivykis
-pavadinimas: 'Žalgirio mūšis (1410 m.)'
+pavadinimas: "Žalgirio mūšis (1410 m.)"
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Žalgirio mūšis'
+aliases:
+  - 'Žalgirio mūšis'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
@@ -91,7 +93,9 @@ Nenurodyta
   santrauka: 'Prieš Žalgirio mūšį Vokiečių ordinas tebebuvo galinga jėga, kėlusi egzistencinį pavojų Lietuvos valstybei.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Ordinas tebebuvo
+    Žalgirio mūšis
+    Nors popiežius uždraudė Vokiečių ordinui kariauti su ap-
+    sikrikštijusia Lietuva, Žemaitija vis dar priklausė jam. Ordinas tebebuvo
     galinga jėga, kėlusi egzistencinį pavojų Lietuvos valstybei. Grėsmingas jis
     buvo ir Lenkijai, nes tebevaldė Pamarį – vienintelį Lenkijos išėjimą prie
     jūros.
@@ -106,6 +110,11 @@ Nenurodyta
   santrauka: '1410 m. liepos 15 d. jungtinė Lenkijos (50 vėliavų) bei Lietuvos (40 vėliavų) ir Vokiečių ordino kariuomenės (51 vėliava) sustojo viena priešais kitą laukuose šalia Žalgirio (Griunfeldo, dar Griunvaldas) kaimo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Apskritai Vytauto planas buvo įžūlus
+    ir netikėtas – paprastai karuose su Lenkija ar su Lietuva Ordinas būdavo
+    puolančioji pusė. O dabar įsiveržiama į Vokiečių ordino teritoriją ir žy-
+    giuojama tiesiai link sostinės, siekiant strateginio tikslo – susidurti su vi-
+    somis Ordino pajėgomis.
     1410 m. liepos 15 d. jungtinė Lenkijos (50 vėliavų) bei Lietuvos (40
     vėliavų) ir Vokiečių ordino kariuomenės (51 vėliava) sustojo viena prie-
     šais kitą laukuose šalia Žalgirio (Griunfeldo, dar Griunvaldas) kaimo.
@@ -120,7 +129,10 @@ Nenurodyta
   santrauka: 'Žalgirio mūšyje Lietuva buvo lygiavertė su Lenkija pergalės prieš Vokiečių ordiną laimėtoja.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Žalgirio mūšis įėjo į isto-
+    Žalgirio pergalė pakeitė Lietuvos ir Lenkijos geopolitinę padėtį. Nors
+    reikėjo dar dviejų karų, kad Žemaitija būtų iki galo pripažinta Lietuvai,
+    būtent Žalgirio mūšyje buvo pakirsta Ordino hegemonija, jis nebekėlė
+    egzistencinės grėsmės nei Lenkijai, nei Lietuvai. Žalgirio mūšis įėjo į isto-
     riją kaip vienas didžiausių mūšių Viduramžiais, lenkai ir lietuviai pasida-
     lijo grobį – belaisvius, Ordino komtūrų barzdas, vėliavas, taip pat Ordino
     teritoriją – taigi Lietuva – lygiavertė su Lenkija Žalgirio mūšio laimėtoja.
@@ -152,10 +164,14 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/ivykiai/Žalgirio mūšis]]
+- [[objektai/vietos/Pamaris]]
+- [[objektai/vietos/Viena]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/vietos/Žalgiris]]
 - [[objektai/vietos/Žemaitija]]
+- [[objektai/grupes/Vokiečių ordinas]]

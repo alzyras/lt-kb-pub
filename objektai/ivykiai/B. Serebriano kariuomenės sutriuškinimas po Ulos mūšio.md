@@ -1,9 +1,13 @@
 ---
 tipas: ivykis
-pavadinimas: 'B. Serebriano kariuomenės sutriuškinimas po Ulos mūšio'
+pavadinimas: 'B. Serebriano kariuomenės sutriuškinimas po Ulos mūšio (mūšis, XVI a.)'
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'B. Serebriano kariuomenės sutriuškinimas po Ulos mūšio'
+  - 'B. Serebriano kariuomenės sutriuškinimas po Ulos mūšio (mūšis)'
+aliases:
+  - 'B. Serebriano kariuomenės sutriuškinimas po Ulos mūšio'
+  - 'B. Serebriano kariuomenės sutriuškinimas po Ulos mūšio (mūšis)'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
@@ -22,7 +26,7 @@ tags:
   - karas
   - mūšis
 ---
-# B. Serebriano kariuomenės sutriuškinimas po Ulos mūšio
+# B. Serebriano kariuomenės sutriuškinimas po Ulos mūšio (mūšis, XVI a.)
 
 ## Santrauka
 

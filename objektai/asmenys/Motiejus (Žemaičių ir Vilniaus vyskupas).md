@@ -8,9 +8,6 @@ saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1414 m.'
-  - '1417 m.'
-  - '1421 m.'
-  - '1430 m.'
   - '1453 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:

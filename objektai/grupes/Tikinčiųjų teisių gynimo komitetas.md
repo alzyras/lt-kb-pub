@@ -1,9 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'Tikinčiųjų teisių gynimo komitetas'
+pavadinimas: 'Tikinčiųjų teisių gynimo komitetas (institucija)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Tikinčiųjų teisių gynimo komitetas'
+aliases:
+  - 'Tikinčiųjų teisių gynimo komitetas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
@@ -13,7 +15,7 @@ tags:
   - kunigas
   - valstybė
 ---
-# Tikinčiųjų teisių gynimo komitetas
+# Tikinčiųjų teisių gynimo komitetas (institucija)
 
 ## Santrauka
 

@@ -1,9 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Pskovo pilis'
+pavadinimas: 'Pskovo pilis (pilis)'
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'Pskovo pilis'
+aliases:
+  - 'Pskovo pilis'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos: []
@@ -17,7 +19,7 @@ tags:
   - pilis
   - vieta
 ---
-# Pskovo pilis
+# Pskovo pilis (pilis)
 
 ## Santrauka
 

@@ -1,9 +1,11 @@
 ---
 tipas: posakis
-pavadinimas: '„Lietuvos karaliaus sūnus“'
+pavadinimas: "„Lietuvos karaliaus sūnus“"
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'Lietuvos karaliaus sūnus'
+aliases:
+  - 'Lietuvos karaliaus sūnus'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -29,6 +31,12 @@ Kronikininkas Dusburgas, kuriam anksčiau Vytenis tebuvo « Lietuvos karaliaus s
 ## Teiginiai
 - t-001
   teiginys: 'Dusburgas anksčiau Vytenį vadino Lietuvos karaliaus sūnumi, o 1296 m. rašė apie jo žygį į Livoniją.'
+  pagrindžia:
+    - c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: 'Dusburgas anksčiau Vytenį vadino Lietuvos karaliaus sūnumi, o 1296 m. jau rašė apie karaliaus Vytenio žygį į Livoniją.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -59,7 +67,6 @@ Kronikininkas Dusburgas, kuriam anksčiau Vytenis tebuvo « Lietuvos karaliaus s
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/vietos/Lietuva]]
-- [[objektai/posakiai/Lietuvos karaliaus sūnus]]
 - [[objektai/asmenys/Vytenis]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/autoriai/Dusburgas]]

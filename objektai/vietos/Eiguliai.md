@@ -66,7 +66,7 @@ Lukšį (turėjusius Pirmojo pasaulinio karo kovų patirties) su 8 kareiviais, k
 - [[objektai/vietos/Paobeliai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/vietos/Eigulių pilis]]
+- [[objektai/vietos/Eigulių pilis|Eigulių pilis (pilis)]]
 - [[objektai/vietos/Juodikis miškas]]
 - [[objektai/asmenys/Povilas Lukšys]]
 - [[objektai/asmenys/V. Vainauskas]]

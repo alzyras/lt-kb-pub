@@ -104,5 +104,4 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Lietuva]]
-- [[objektai/ivykiai/Lietuvos krikštas]]
 - [[objektai/vietos/Trakai]]

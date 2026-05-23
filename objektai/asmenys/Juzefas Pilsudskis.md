@@ -8,7 +8,6 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1919 m.'
-  - '1920 m.'
   - '1926 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
@@ -249,6 +248,6 @@ Kitokio požiūrio į Lietuvos perspektyvas laikėsi iš etninės Lietuvos kilus
 - [[objektai/zodynas/unija]]
 - [[objektai/posakiai/„tėvyninė“ šalis]]
 - [[objektai/grupes/Lenkų socialistų partija]]
-- [[objektai/asmenys/A. Smetona|A. Smetona (prezidentas, XX a.)]]
+- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
 - [[objektai/asmenys/Ernestas Galvanauskas]]
 - [[objektai/posakiai/„seimokratija“]]

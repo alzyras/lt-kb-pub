@@ -1,9 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'Aukščiausioji Santarvininkių Taryba'
+pavadinimas: 'Aukščiausioji Santarvininkių Taryba (institucija)'
 sukurta: '2026-04-25'
-variantai: []
-aliases: []
+variantai:
+  - 'Aukščiausioji Santarvininkių Taryba'
+aliases:
+  - 'Aukščiausioji Santarvininkių Taryba'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
@@ -24,7 +26,7 @@ tags:
   - paliaubos
   - sutartis
 ---
-# Aukščiausioji Santarvininkių Taryba
+# Aukščiausioji Santarvininkių Taryba (institucija)
 
 ## Santrauka
 

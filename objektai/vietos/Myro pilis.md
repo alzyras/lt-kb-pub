@@ -1,9 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Myro pilis'
+pavadinimas: 'Myro pilis (pilis)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Myro pilis'
+aliases:
+  - 'Myro pilis'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
@@ -11,7 +13,7 @@ tags:
   - pilis
   - vieta
 ---
-# Myro pilis
+# Myro pilis (pilis)
 
 ## Santrauka
 

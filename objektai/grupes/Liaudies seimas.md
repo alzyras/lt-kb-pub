@@ -1,9 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'Liaudies seimas'
+pavadinimas: 'Liaudies seimas (seimas)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Liaudies seimas'
+aliases:
+  - 'Liaudies seimas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
@@ -13,7 +15,7 @@ tags:
   - tauta
   - valstybė
 ---
-# Liaudies seimas
+# Liaudies seimas (seimas)
 
 ## Santrauka
 
@@ -68,7 +70,7 @@ Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priėmė žemės nacionali
 ### Susiję objektai
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuvos SSR liaudies komisarų taryba]]
+- [[objektai/grupes/Lietuvos SSR liaudies komisarų taryba|Lietuvos SSR liaudies komisarų taryba (institucija)]]
 - [[objektai/ivykiai/Lietuvos SSR sovietinės valdžios institucijų įforminimas (1940 m. rugpjūčio 25-26 d.)]]
 - [[objektai/ivykiai/Lietuvos žemės nacionalizavimo deklaracijos priėmimas (1940 m. liepos 22 d.)]]
 - [[objektai/vietos/SSRS]]

@@ -73,7 +73,7 @@ Tik Rytprūsių lietuvių aktyvistai pasisakė už susijungimą su Lietuva tauti
 ### Susiję objektai
 - [[objektai/zodynas/kuopiniai kaimai]]
 - [[objektai/grupes/Bartai]]
-- [[objektai/grupes/Klaipėdos krašto lietuviai]]
+- [[objektai/grupes/Klaipėdos krašto lietuviai|Klaipėdos krašto lietuviai (kraštas)]]
 - [[objektai/paprociai/Kontrabandinė knygnešystė ir nelegalus lietuviškos spaudos platinimas]]
 - [[objektai/ivykiai/Lietuvių raštijos tradiciniu raidynu draudimo pradžia]]
 - [[objektai/grupes/Nadruviai]]

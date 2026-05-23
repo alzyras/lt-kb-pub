@@ -64,4 +64,4 @@ Taip 1396 m. Vytautas su magistru susivažiavo Dubysos saloj.
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/supremacija]]
 - [[objektai/zodynas/įkaitai]]
-- [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija]]
+- [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija|Įkaitų davimas kaip sutarties garantija (sutartis)]]

@@ -1,9 +1,11 @@
 ---
 tipas: ivykis
-pavadinimas: 'Chotyno mūšis'
+pavadinimas: 'Chotyno mūšis (mūšis)'
 sukurta: '2026-05-18'
-variantai: []
-aliases: []
+variantai:
+  - 'Chotyno mūšis'
+aliases:
+  - 'Chotyno mūšis'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
@@ -22,7 +24,7 @@ tags:
   - ivykis
   - mūšis
 ---
-# Chotyno mūšis
+# Chotyno mūšis (mūšis)
 
 ## Santrauka
 

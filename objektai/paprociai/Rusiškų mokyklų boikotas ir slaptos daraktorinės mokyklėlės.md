@@ -2,8 +2,12 @@
 tipas: paprotys
 pavadinimas: "Rusiškų mokyklų boikotas ir slaptos daraktorinės mokyklėlės"
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Kandidatas 60 Rusiškų mokyklų boikotas ir slaptos daraktorinės mokyklėlės'
+  - 'Kandidatas Rusiškų mokyklų boikotas ir slaptos daraktorinės mokyklėlės'
+aliases:
+  - 'Kandidatas 60 Rusiškų mokyklų boikotas ir slaptos daraktorinės mokyklėlės'
+  - 'Kandidatas Rusiškų mokyklų boikotas ir slaptos daraktorinės mokyklėlės'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'

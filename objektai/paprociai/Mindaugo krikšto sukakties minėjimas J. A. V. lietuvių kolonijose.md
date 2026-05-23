@@ -1,9 +1,11 @@
 ---
 tipas: paprotys
-pavadinimas: 'Mindaugo krikšto sukakties minėjimas J. A. V. lietuvių kolonijose'
+pavadinimas: 'Mindaugo krikšto sukakties minėjimas J. A. V. lietuvių kolonijose (krikštas)'
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'Mindaugo krikšto sukakties minėjimas J. A. V. lietuvių kolonijose'
+aliases:
+  - 'Mindaugo krikšto sukakties minėjimas J. A. V. lietuvių kolonijose'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -21,7 +23,7 @@ tags:
   - krikštas
   - paprotys
 ---
-# Mindaugo krikšto sukakties minėjimas J. A. V. lietuvių kolonijose
+# Mindaugo krikšto sukakties minėjimas J. A. V. lietuvių kolonijose (krikštas)
 
 ## Santrauka
 

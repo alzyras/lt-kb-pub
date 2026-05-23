@@ -2,8 +2,12 @@
 tipas: paprotys
 pavadinimas: "Šv. Kazimiero kultas ir Kaziuko mugės tradicija"
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Kandidatas 25 Šv. Kazimiero kultas ir Kaziuko mugės tradicija'
+  - 'Kandidatas Šv. Kazimiero kultas ir Kaziuko mugės tradicija'
+aliases:
+  - 'Kandidatas 25 Šv. Kazimiero kultas ir Kaziuko mugės tradicija'
+  - 'Kandidatas Šv. Kazimiero kultas ir Kaziuko mugės tradicija'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'

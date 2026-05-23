@@ -2,8 +2,10 @@
 tipas: paprotys
 pavadinimas: "Žydų gyvenimo ribojimas sėslumo riba Rusijos imperijoje"
 sukurta: '2026-05-18'
-variantai: []
-aliases: []
+variantai:
+  - 'Kandidatas Žydų gyvenimo ribojimas sėslumo riba Rusijos imperijoje'
+aliases:
+  - 'Kandidatas Žydų gyvenimo ribojimas sėslumo riba Rusijos imperijoje'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:

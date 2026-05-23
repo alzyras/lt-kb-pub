@@ -181,7 +181,7 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Mindaugas]]
-- [[objektai/zodynas/Personalinė unija]]
+- [[objektai/zodynas/Personalinė unija|Personalinė unija (unija)]]
 - [[objektai/vietos/Vilnius]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/kunigaikštija]]

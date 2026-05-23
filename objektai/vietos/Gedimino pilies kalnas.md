@@ -1,9 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Gedimino pilies kalnas'
+pavadinimas: 'Gedimino pilies kalnas (pilis)'
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'Gedimino pilies kalnas'
+aliases:
+  - 'Gedimino pilies kalnas'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos: []
@@ -18,7 +20,7 @@ tags:
   - pilis
   - vieta
 ---
-# Gedimino pilies kalnas
+# Gedimino pilies kalnas (pilis)
 
 ## Santrauka
 

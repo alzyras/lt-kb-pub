@@ -1,9 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'Bajorų seimas'
+pavadinimas: 'Bajorų seimas (seimas)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Bajorų seimas'
+aliases:
+  - 'Bajorų seimas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
@@ -13,7 +15,7 @@ tags:
   - kunigaikštis
   - valstybė
 ---
-# Bajorų seimas
+# Bajorų seimas (seimas)
 
 ## Santrauka
 

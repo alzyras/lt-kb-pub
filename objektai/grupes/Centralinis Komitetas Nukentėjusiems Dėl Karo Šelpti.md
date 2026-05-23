@@ -1,6 +1,6 @@
 ---
 tipas: grupe
-pavadinimas: 'Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti'
+pavadinimas: 'Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija)'
 sukurta: '2026-04-24'
 variantai:
   - 'Komitetas Nukentėjusiems Dėl Karo Šelpti'
@@ -9,7 +9,9 @@ variantai:
   - 'Lietuvių Komitetas'
   - 'Rusijos lietuvių Komitetas'
   - 'Vilniaus Komitetas'
-aliases: []
+  - 'Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti'
+aliases:
+  - 'Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 laikotarpis: '1915 m. lapkritis'
@@ -31,7 +33,7 @@ tags:
   - grupe
   - karas
 ---
-# Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti
+# Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija)
 
 ## Santrauka
 Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti, kurs greitai išplėtė pagalbos ir pašalpos teikiamąjį darbą, tam tikslui gaudamas iš Rusijos vyriausybės lėšų ir rinkdamas aukas. Komiteto pirmininkas buvo Rusijos Dūmos atstovas M. Yčas, vicepirmininkas A. Smetona, sekretorius St. Šilingas, iždininkas J. Kymantas; jo nariai buvo E. Vileišienė, kun. Olšauskas, kun. Kukta, kun. Dogelis, dr. A. Vilei.
@@ -309,7 +311,3 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-019
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/A. Smetona|A. Smetona (prezidentas, XX a.)]]

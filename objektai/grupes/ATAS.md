@@ -113,7 +113,7 @@ Už parlamento apsaugą ir gynybą tai išdavystė, visi bėga, jūs per naktį 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Aukščiausiosios Tarybos rūmai]]
+- [[objektai/vietos/Aukščiausiosios Tarybos rūmai|Aukščiausiosios Tarybos rūmai (institucija)]]
 - [[objektai/asmenys/Goštautas]]
 - [[objektai/vietos/Viena]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

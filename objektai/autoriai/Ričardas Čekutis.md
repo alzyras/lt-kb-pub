@@ -8,10 +8,6 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1919 m.'
-  - '1920 m.'
-  - '1923 m.'
-  - '1945 m.'
-  - '1949 m.'
   - '1991 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
@@ -106,7 +102,7 @@ pradžioje Karolis Zikaras, Vytautas Lesčius 190 Šiaulių-Radviliškio operaci
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/ivykiai/Augustavo-Suvalkų operacija]]
-- [[objektai/vietos/Aukščiausiosios Tarybos rūmai]]
+- [[objektai/vietos/Aukščiausiosios Tarybos rūmai|Aukščiausiosios Tarybos rūmai (institucija)]]
 - [[objektai/ivykiai/Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)]]
 - [[objektai/vietos/Giedraičiai]]
 - [[objektai/ivykiai/Giedraičių kautynės]]

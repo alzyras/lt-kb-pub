@@ -130,6 +130,6 @@ Jis paėmė net Tartus (Dorpatą). Tuojau po laimingųjų Stepono Batoro karų s
 - [[objektai/zodynas/konfederacija]]
 - [[objektai/grupes/Švedai]]
 - [[objektai/vietos/Alūksnė]]
-- [[objektai/grupes/Rygos miesto taryba]]
+- [[objektai/grupes/Rygos miesto taryba|Rygos miesto taryba (institucija)]]
 - [[objektai/vietos/Saremos sala]]
 - [[objektai/vietos/Vilijandis]]

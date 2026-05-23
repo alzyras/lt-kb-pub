@@ -2,8 +2,12 @@
 tipas: paprotys
 pavadinimas: "Privatus lietuviškų mokyklų steigimas ir lietuviškas mokymas po 1905 m"
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Kandidatas 69 Privatus lietuviškų mokyklų steigimas ir lietuviškas mokymas po 1905 m'
+  - 'Kandidatas Privatus lietuviškų mokyklų steigimas ir lietuviškas mokymas po 1905 m'
+aliases:
+  - 'Kandidatas 69 Privatus lietuviškų mokyklų steigimas ir lietuviškas mokymas po 1905 m'
+  - 'Kandidatas Privatus lietuviškų mokyklų steigimas ir lietuviškas mokymas po 1905 m'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'

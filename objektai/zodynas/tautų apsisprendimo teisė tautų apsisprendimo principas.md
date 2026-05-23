@@ -122,5 +122,5 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
 - [[objektai/vietos/Suvalkai]]
 - [[objektai/vietos/Vilnius]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/grupes/Lietuvos Taryba]]
+- [[objektai/grupes/Lietuvos Taryba|Lietuvos Taryba (institucija)]]
 - [[objektai/posakiai/„atkuria“ „atkūrimu“ „atstatymu“]]

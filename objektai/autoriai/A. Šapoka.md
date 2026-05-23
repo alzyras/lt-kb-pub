@@ -16,19 +16,12 @@ vaidmenys:
   - 'redaktorius'
   - 'teksto suderintojas'
   - 'autorius'
-datos:
-  - '1930 m.'
-  - '1932 m.'
-  - '1935 m.'
-  - '1936 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XIV'
-  - 'XX'
-date_start: '1930'
-date_end: '1936'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'aukštas'
 tags:
   - autorius
@@ -158,9 +151,9 @@ A. Šapoka minimas kaip redaktorius, teksto suderintojas ir autorius; jam priski
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Lietuvos Respublikos švietimo ministerija]]
+- [[objektai/grupes/Lietuvos Respublikos švietimo ministerija|Lietuvos Respublikos švietimo ministerija (institucija)]]
 - [[objektai/ivykiai/Lietuvos istorijos parašymas ir išleidimas Švietimo ministerijos iniciatyva (1936 m.)]]
-- [[objektai/paprociai/Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai]]
+- [[objektai/paprociai/Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai|Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai (institucija)]]
 - [[objektai/ivykiai/Vytauto Didžiojo jubiliejiniai metai (1930 m.)]]
 - [[objektai/grupes/jaunųjų istorikų būrelis]]
 - [[objektai/zodynas/poliublininiai laikai]]

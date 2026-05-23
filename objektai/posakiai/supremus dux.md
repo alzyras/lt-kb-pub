@@ -55,5 +55,6 @@ Taip didysis magistras jį jau titulavo Salyno taikoje, kai jis pats save vadino
 - [[objektai/vietos/Salynas]]
 - [[objektai/zodynas/didysis magistras]]
 - [[objektai/zodynas/magistras]]
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/zodynas/supremus dux magnus dux]]

@@ -1,9 +1,11 @@
 ---
 tipas: daiktas
-pavadinimas: 'Pragos miesto raktai'
+pavadinimas: 'Pragos miesto raktai (miestas)'
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'Pragos miesto raktai'
+aliases:
+  - 'Pragos miesto raktai'
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos: []
@@ -18,7 +20,7 @@ tags:
   - karas
   - miestas
 ---
-# Pragos miesto raktai
+# Pragos miesto raktai (miestas)
 
 ## Santrauka
 

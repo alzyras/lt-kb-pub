@@ -1,9 +1,11 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'pilies teismas'
+pavadinimas: 'pilies teismas (pilis)'
 sukurta: '2026-04-25'
-variantai: []
-aliases: []
+variantai:
+  - 'pilies teismas'
+aliases:
+  - 'pilies teismas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
@@ -11,7 +13,7 @@ tags:
   - pilis
   - sąvoka
 ---
-# pilies teismas
+# pilies teismas (pilis)
 
 ## Santrauka
 

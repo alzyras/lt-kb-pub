@@ -47,7 +47,7 @@ Objektų skaičius: 56.
 - [[objektai/autoriai/V. T. Pašuto]]
 
 ### Grupės
-- [[objektai/grupes/Rygos miesto taryba]]
+- [[objektai/grupes/Rygos miesto taryba|Rygos miesto taryba (institucija)]]
 - [SSRS kariuomenė](../objektai/grupes/SSRS%20kariuomen%C4%97)
 
 ### Papročiai
@@ -72,14 +72,14 @@ Objektų skaičius: 56.
 - [Płockas](../objektai/vietos/P%C5%82ockas)
 - [Rostokas](../objektai/vietos/Rostokas)
 - [Stralsundas](../objektai/vietos/Stralsundas)
-- [Veliuonos pilis](../objektai/vietos/Veliuonos%20pilis)
+- [Veliuonos pilis (pilis)](../objektai/vietos/Veliuonos%20pilis)
 - [Vroclavas](../objektai/vietos/Vroclavas)
 - [Zna](../objektai/vietos/Zna)
 - [Štetinas](../objektai/vietos/%C5%A0tetinas)
 
 ### Įvykiai
 - [Algirdo žygiai į Maskvą](../objektai/ivykiai/Algirdo%20%C5%BEygiai%20%C4%AF%20Maskv%C4%85)
-- [Chotyno mūšis](../objektai/ivykiai/Chotyno%20m%C5%AB%C5%A1is)
+- [Chotyno mūšis (mūšis)](../objektai/ivykiai/Chotyno%20m%C5%AB%C5%A1is)
 - [Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)](../objektai/ivykiai/Gedimino%20lai%C5%A1k%C5%B3%20i%C5%A1siuntimas%20%C4%AF%20Vakar%C5%B3%20Europ%C4%85%20%281323%E2%80%931325%20m.%29)
 - [Lietuvos tapimas visateise NATO nare (2004 m. kovo 29 d.)](../objektai/ivykiai/Lietuvos%20tapimas%20visateise%20NATO%20nare%20%282004%20m.%20kovo%2029%20d.%29)
 - [Partizanų dokumentų nugabenimas į laisvąjį pasaulį (1947 m. pabaiga)](../objektai/ivykiai/Partizan%C5%B3%20dokument%C5%B3%20nugabenimas%20%C4%AF%20laisv%C4%85j%C4%AF%20pasaul%C4%AF%20%281947%20m.%20pabaiga%29)

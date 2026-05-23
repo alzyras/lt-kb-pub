@@ -227,6 +227,7 @@ Mat, imperatorius norėjo susilpninti Zigmantą, kurs ypatingai rūpinosi, kad H
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Dobrogostas]]
 - [[objektai/grupes/Habsburgų dinastija]]
 - [[objektai/asmenys/Inocentas VI]]

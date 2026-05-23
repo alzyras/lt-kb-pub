@@ -96,4 +96,4 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
 - [[objektai/asmenys/Ignotas Masalskis|Ignotas Masalskis (vyskupas, XVIII–XIX a.)]]
 - [[objektai/asmenys/Martynas Knakfusas|Martynas Knakfusas (vyskupas, XVIII–XIX a.)]]
 - [[objektai/vietos/Malėtai]]
-- [[objektai/vietos/Tauragnų pilis]]
+- [[objektai/vietos/Tauragnų pilis|Tauragnų pilis (pilis)]]

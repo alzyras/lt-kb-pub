@@ -198,7 +198,7 @@ Terminas kartojamas kalbant apie Žemaičių, Sūduvos ir Melno taikos sienas.
 - [[objektai/vietos/Liepona]]
 - [[objektai/paprociai/Lietuvininkų ir Mažosios Lietuvos vardų vartojimas Prūsijoje]]
 - [[objektai/vietos/Merūniškiai]]
-- [[objektai/vietos/Niešavos kraštas]]
+- [[objektai/vietos/Niešavos kraštas|Niešavos kraštas (kraštas)]]
 - [[objektai/vietos/Preivosto šilai]]
 - [[objektai/vietos/Raigardo ežeras]]
 - [[objektai/vietos/Rusnė]]

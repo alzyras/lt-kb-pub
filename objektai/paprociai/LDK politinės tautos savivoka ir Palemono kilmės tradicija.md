@@ -2,8 +2,12 @@
 tipas: paprotys
 pavadinimas: "LDK politinės tautos savivoka ir Palemono kilmės tradicija"
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Kandidatas 40 LDK politinės tautos savivoka ir Palemono kilmės tradicija'
+  - 'Kandidatas LDK politinės tautos savivoka ir Palemono kilmės tradicija'
+aliases:
+  - 'Kandidatas 40 LDK politinės tautos savivoka ir Palemono kilmės tradicija'
+  - 'Kandidatas LDK politinės tautos savivoka ir Palemono kilmės tradicija'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'

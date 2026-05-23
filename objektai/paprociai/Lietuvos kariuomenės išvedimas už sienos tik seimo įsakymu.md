@@ -1,9 +1,11 @@
 ---
 tipas: paprotys
-pavadinimas: 'Lietuvos kariuomenės išvedimas už sienos tik seimo įsakymu'
+pavadinimas: 'Lietuvos kariuomenės išvedimas už sienos tik seimo įsakymu (seimas)'
 sukurta: '2026-04-25'
-variantai: []
-aliases: []
+variantai:
+  - 'Lietuvos kariuomenės išvedimas už sienos tik seimo įsakymu'
+aliases:
+  - 'Lietuvos kariuomenės išvedimas už sienos tik seimo įsakymu'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
@@ -12,7 +14,7 @@ tags:
   - seimas
   - valstybė
 ---
-# Lietuvos kariuomenės išvedimas už sienos tik seimo įsakymu
+# Lietuvos kariuomenės išvedimas už sienos tik seimo įsakymu (seimas)
 
 ## Santrauka
 

@@ -8,7 +8,6 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1987 m.'
-  - '1988 m.'
   - '1989 m.'
 periodas: 'okupacijų ir sovietmečio laikotarpis'
 periodo_grupes:

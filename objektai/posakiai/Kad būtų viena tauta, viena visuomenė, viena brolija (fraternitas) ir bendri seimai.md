@@ -73,6 +73,4 @@ tags:
 ### Susiję objektai
 - [[objektai/vietos/Viena]]
 - [[objektai/paprociai/Bendri Lietuvos ir Lenkijos seimai]]
-- [[objektai/ivykiai/Oršos mūšis]]
-- [[objektai/ivykiai/Salaspilio (Kirchholmo) mūšis]]
 - [[objektai/vietos/Melnikas]]

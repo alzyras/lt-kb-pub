@@ -1,15 +1,15 @@
 ---
 tipas: autorius
-pavadinimas: 'Gókski, K'
+pavadinimas: "Gókski, K"
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'K. Gókski'
+aliases:
+  - 'K. Gókski'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1885 m.'
-  - '1886 m.'
-  - '1888 m.'
   - '1906 m.'
 periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
 periodo_grupes:
@@ -32,6 +32,12 @@ Gókski, K.
 ## Teiginiai
 - t-001
   teiginys: 'K. Gókski 1888 m. „Biblioteka Warszawska“ paskelbė darbą „Bitwa pod Grunwaldem“ apie Žalgirio mūšį.'
+  pagrindžia:
+    - c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: 'K. Gókski 1888 m. paskelbė darbą „Bitwa pod Grunwaldem“ leidinyje „Biblioteka Warszawska“.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)

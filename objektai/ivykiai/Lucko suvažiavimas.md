@@ -95,6 +95,7 @@ Nenurodyta
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/asmenys/Zigmantas I]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/daiktai/Vytauto ir Julijonos karūnos]]
 - [[objektai/ivykiai/Vytauto karūnacijos byla]]
 - [[objektai/vietos/Niurnbergas]]

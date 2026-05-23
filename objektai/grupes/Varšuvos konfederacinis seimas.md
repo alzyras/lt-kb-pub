@@ -1,9 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'Varšuvos konfederacinis seimas'
+pavadinimas: 'Varšuvos konfederacinis seimas (seimas)'
 sukurta: '2026-04-25'
-variantai: []
-aliases: []
+variantai:
+  - 'Varšuvos konfederacinis seimas'
+aliases:
+  - 'Varšuvos konfederacinis seimas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
@@ -13,7 +15,7 @@ tags:
   - reforma
   - seimas
 ---
-# Varšuvos konfederacinis seimas
+# Varšuvos konfederacinis seimas (seimas)
 
 ## Santrauka
 

@@ -218,3 +218,4 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 - [[objektai/vietos/Brianskas]]
 - [[objektai/vietos/Kopilius]]
 - [[objektai/vietos/Vitebskas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

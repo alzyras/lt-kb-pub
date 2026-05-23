@@ -8,7 +8,6 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
   - '1328 m.'
-  - '1330 m.'
   - '1331 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:

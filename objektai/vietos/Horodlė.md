@@ -56,9 +56,10 @@ tags:
 ### Susiję objektai
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Lietuva]]
-- [[objektai/ivykiai/1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas]]
+- [[objektai/ivykiai/1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas|1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas (unija)]]
 - [[objektai/vietos/Jedlno]]
 - [[objektai/ivykiai/Sutartis su Fridriku Brandenburgiečiu ir Jadvygos sužieduotuvės (1420–1421 m.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/imunitetai]]
 - [[objektai/posakiai/juo didesnis žmogus, juo didesnes ir klaidas gali padaryti]]
 - [[objektai/zodynas/lenkinti]]

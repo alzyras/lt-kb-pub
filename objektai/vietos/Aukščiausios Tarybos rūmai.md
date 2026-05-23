@@ -1,9 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Aukščiausios Tarybos rūmai'
+pavadinimas: 'Aukščiausios Tarybos rūmai (institucija)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Aukščiausios Tarybos rūmai'
+aliases:
+  - 'Aukščiausios Tarybos rūmai'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
@@ -19,7 +21,7 @@ patikimumas: 'vidutinis'
 tags:
   - vieta
 ---
-# Aukščiausios Tarybos rūmai
+# Aukščiausios Tarybos rūmai (institucija)
 
 ## Santrauka
 
@@ -83,4 +85,4 @@ Prie Aukščiausios Tarybos rūmų Vilniuje 1990 m. kovo 11 d. Mergaitė su plak
 - [[objektai/zodynas/konstitucijos]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/daiktai/Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d]]
+- [[objektai/daiktai/Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d|Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d (institucija, XX a.)]]

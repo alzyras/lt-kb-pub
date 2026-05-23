@@ -1,9 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'Gardino seimas'
+pavadinimas: 'Gardino seimas (seimas)'
 sukurta: '2026-04-25'
-variantai: []
-aliases: []
+variantai:
+  - 'Gardino seimas'
+aliases:
+  - 'Gardino seimas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
@@ -26,7 +28,7 @@ tags:
   - seimas
   - sutartis
 ---
-# Gardino seimas
+# Gardino seimas (seimas)
 
 ## Santrauka
 
@@ -97,7 +99,7 @@ Tam tikslui Gardine buvo sušauktas seimas. Taigi minėtame Gardino seime (1793 
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/vietos/Gardinas]]
 - [[objektai/grupes/Karo ir iždo komisijos]]
-- [[objektai/grupes/Nuolatinė Taryba]]
+- [[objektai/grupes/Nuolatinė Taryba|Nuolatinė Taryba (institucija)]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/vietos/Rusija]]
 - [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis (valdovas)]]

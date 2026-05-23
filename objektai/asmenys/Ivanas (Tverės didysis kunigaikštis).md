@@ -70,7 +70,6 @@ Prieš mūšį Vytauto dukters Sofijos Vytautaitės, Maskvos didžiosios kunigai
 - [[objektai/asmenys/Vasilijus (Maskvos didysis kunigaikštis)]]
 - [[objektai/asmenys/Švitrigaila]]
 - [[objektai/paprociai/Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m]]
-- [[objektai/paprociai/Carinės „lenkų pradų naikinimo“ rusinimo praktikos]]
 - [[objektai/grupes/Chodkevičiai]]
 - [[objektai/asmenys/Ivanas Fiodorovas|Ivanas Fiodorovas (spaustuvininkas, XVI a.)]]
 - [[objektai/asmenys/Ivanas IV Rūstusis]]

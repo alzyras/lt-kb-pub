@@ -51,6 +51,6 @@ Paskelbus Lietuvos nepriklausomybę 1990 m. kovo 11 d. Lietuvos Respublikos AT-A
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/vietos/Aukščiausiosios Tarybos rūmai]]
+- [[objektai/vietos/Aukščiausiosios Tarybos rūmai|Aukščiausiosios Tarybos rūmai (institucija)]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

@@ -1,9 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'Baltijos Valstybių Taryba'
+pavadinimas: 'Baltijos Valstybių Taryba (institucija)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Baltijos Valstybių Taryba'
+aliases:
+  - 'Baltijos Valstybių Taryba'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
@@ -12,7 +14,7 @@ tags:
   - sutartis
   - valstybė
 ---
-# Baltijos Valstybių Taryba
+# Baltijos Valstybių Taryba (institucija)
 
 ## Santrauka
 

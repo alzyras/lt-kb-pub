@@ -8,12 +8,6 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1874 m.'
-  - '1882 m.'
-  - '1893 m.'
-  - '1896 m.'
-  - '1908 m.'
-  - '1912 m.'
-  - '1953 m.'
   - '1965 m.'
 periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
 periodo_grupes:

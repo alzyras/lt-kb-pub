@@ -153,7 +153,7 @@ Nenurodyta
 - [[objektai/zodynas/pašauktinė kariuomenė]]
 - [[objektai/daiktai/Šarvuotasis traukinys Gediminas]]
 - [[objektai/vietos/Šeštokai]]
-- [[objektai/posakiai/Šitas Šautuvas yra 5 p. pulko pirmas karo grobis paimtas mūšyje ties Seinais iš lenkų]]
+- [[objektai/posakiai/Šitas Šautuvas yra 5 p. pulko pirmas karo grobis paimtas mūšyje ties Seinais iš lenkų|Šitas Šautuvas yra 5 p. pulko pirmas karo grobis paimtas mūšyje ties Seinais iš lenkų (mūšis)]]
 - [[objektai/paprociai/Šturmovųjų grupių fronto pralaužimo taktika]]
 - [[objektai/vietos/Švenčionėliai]]
 - [[objektai/vietos/Žaliasis tiltas]]

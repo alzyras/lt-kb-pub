@@ -276,7 +276,7 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Medininkų pilis]]
+- [[objektai/vietos/Medininkų pilis|Medininkų pilis (pilis)]]
 - [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.)]]
 - [[objektai/vietos/Ukmergė]]
 - [[objektai/vietos/Varėna]]
@@ -300,4 +300,4 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
 - [[objektai/vietos/Subartonys]]
 - [[objektai/daiktai/Tanketė]]
 - [[objektai/vietos/Turgeliai]]
-- [[objektai/ivykiai/Žemaičių krikštas]]
+- [[objektai/ivykiai/Žemaičių krikštas|Žemaičių krikštas (krikštas)]]

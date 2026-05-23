@@ -2,8 +2,12 @@
 tipas: paprotys
 pavadinimas: "LDK užimtų Rusios žemių senosios tvarkos palikimas"
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Kandidatas 21 LDK užimtų Rusios žemių senosios tvarkos palikimas'
+  - 'Kandidatas LDK užimtų Rusios žemių senosios tvarkos palikimas'
+aliases:
+  - 'Kandidatas 21 LDK užimtų Rusios žemių senosios tvarkos palikimas'
+  - 'Kandidatas LDK užimtų Rusios žemių senosios tvarkos palikimas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'

@@ -1,9 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'Lenkų ponų taryba'
+pavadinimas: 'Lenkų ponų taryba (institucija)'
 sukurta: '2026-04-25'
-variantai: []
-aliases: []
+variantai:
+  - 'Lenkų ponų taryba'
+aliases:
+  - 'Lenkų ponų taryba'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
@@ -12,7 +14,7 @@ tags:
   - karalius
   - sutartis
 ---
-# Lenkų ponų taryba
+# Lenkų ponų taryba (institucija)
 
 ## Santrauka
 
@@ -80,4 +82,4 @@ Jogaila tam pritarė, bet griežčiausiai pasipriešino Lenkų ponų taryba, kur
 - [[objektai/zodynas/savarankiškumas]]
 - [[objektai/grupes/Lenkų bajorija]]
 - [[objektai/zodynas/perdėtinis]]
-- [[objektai/grupes/Ponų taryba]]
+- [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]

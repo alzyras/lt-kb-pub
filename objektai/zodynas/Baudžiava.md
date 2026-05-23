@@ -290,6 +290,7 @@ Terminas vartojamas ilgame istoriniame pjūvyje: nuo 1447 m. privilegijos, padė
 - [[objektai/paprociai/Bajorijos seimelių rinkimosi ir atstovų rinkimo praktika]]
 - [[objektai/zodynas/Baudžiavinė santvarka]]
 - [[objektai/ivykiai/Baudžiavos panaikinimas Rusijos imperijoje (1861 m.)]]
+- [[objektai/paprociai/Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m]]
 - [[objektai/grupes/Lietuvos gubernijų seimeliai]]
 - [[objektai/vietos/Merkinės dvaras]]
 - [[objektai/autoriai/Motiejus Valančius]]

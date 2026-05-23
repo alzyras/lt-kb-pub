@@ -51,4 +51,4 @@ Trečioji grupė, prasidėjus Aukščiausiosios Tarybos šturmui, turėjo pulti 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Aukščiausiosios Tarybos rūmai]]
+- [[objektai/vietos/Aukščiausiosios Tarybos rūmai|Aukščiausiosios Tarybos rūmai (institucija)]]

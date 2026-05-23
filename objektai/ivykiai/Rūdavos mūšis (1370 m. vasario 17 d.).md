@@ -1,9 +1,11 @@
 ---
 tipas: ivykis
-pavadinimas: 'Rūdavos mūšis (1370 m. vasario 17 d.)'
+pavadinimas: "Rūdavos mūšis (1370 m. vasario 17 d.)"
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'Rūdavos mūšis'
+aliases:
+  - 'Rūdavos mūšis'
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
@@ -47,6 +49,24 @@ Nenurodyta
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: '1370 m. vasario 17 d. prie Rudavos lietuviai patyrė didelį pralaimėjimą.'
+  pagrindžia:
+    - c-003
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-003
+  teiginys: 'Rūdavos mūšyje žuvo apie 5000 lietuvių ir mažiausiai 300 vokiečių pusės kariuomenės žmonių.'
+  pagrindžia:
+    - c-003
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-004
+  teiginys: 'Vytautas dalyvavo Rūdavos mūšyje kaip Kęstučio prie karo pratintas jaunuolis.'
+  pagrindžia:
+    - c-003
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -68,11 +88,28 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-003
+  santrauka: 'Vytautas dalyvavo Rūdavos mūšyje kaip Kęstučio prie karo pratintas jaunuolis.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Vytautas, vos dvidešimties metų jaunuolis, žinoma, čia da­
+    lyvaudamas, vadovaujamos reikšmės dar neturėjo, bet buvo tik
+    Kęstučio pratinamas prie karo. Tuo pat tikslu, matyt, ir Algir­
+    das buvo pasiėmęs su savim Jogailą, dviem metais vyresnį už
+    Vytautą.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Rudava]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/maršalka]]
-- [[objektai/ivykiai/Rūdavos mūšis]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

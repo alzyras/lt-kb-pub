@@ -1,10 +1,11 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: apsigynimo ir puolimo sutartis
+pavadinimas: 'apsigynimo ir puolimo sutartis (sutartis)'
 sukurta: '2026-05-05'
 variantai:
-- apsigynimo ir puolimo sutartis
-aliases: []
+  - 'apsigynimo ir puolimo sutartis'
+aliases:
+  - 'apsigynimo ir puolimo sutartis'
 saltiniai:
 - Vytautas Didysis 1350-1430 (1930 m.)
 datos:
@@ -25,7 +26,7 @@ date_end: '2026'
 patikimumas: aukštas
 tags: []
 ---
-# apsigynimo ir puolimo sutartis
+# apsigynimo ir puolimo sutartis (sutartis)
 
 ## Teiginiai
 - t-003

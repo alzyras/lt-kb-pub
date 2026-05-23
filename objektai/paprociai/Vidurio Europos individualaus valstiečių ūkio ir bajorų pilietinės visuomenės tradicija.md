@@ -2,8 +2,12 @@
 tipas: paprotys
 pavadinimas: "Vidurio Europos individualaus valstiečių ūkio ir bajorų pilietinės visuomenės tradicija"
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Kandidatas 2 Vidurio Europos individualaus valstiečių ūkio ir bajorų pilietinės visuomenės tradicija'
+  - 'Kandidatas Vidurio Europos individualaus valstiečių ūkio ir bajorų pilietinės visuomenės tradicija'
+aliases:
+  - 'Kandidatas 2 Vidurio Europos individualaus valstiečių ūkio ir bajorų pilietinės visuomenės tradicija'
+  - 'Kandidatas Vidurio Europos individualaus valstiečių ūkio ir bajorų pilietinės visuomenės tradicija'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'

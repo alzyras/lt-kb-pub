@@ -60,4 +60,4 @@ Nenurodyta
 - [[objektai/vietos/Radomas]]
 - [[objektai/zodynas/konfederacija]]
 - [[objektai/vietos/Varšuva]]
-- [[objektai/grupes/Varšuvos konfederacinis seimas]]
+- [[objektai/grupes/Varšuvos konfederacinis seimas|Varšuvos konfederacinis seimas (seimas)]]

@@ -1,9 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'Nacionalinio gelbėjimo komitetas'
+pavadinimas: 'Nacionalinio gelbėjimo komitetas (institucija)'
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'Nacionalinio gelbėjimo komitetas'
+aliases:
+  - 'Nacionalinio gelbėjimo komitetas'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos: []
@@ -16,7 +18,7 @@ patikimumas: 'vidutinis'
 tags:
   - grupe
 ---
-# Nacionalinio gelbėjimo komitetas
+# Nacionalinio gelbėjimo komitetas (institucija)
 
 ## Santrauka
 

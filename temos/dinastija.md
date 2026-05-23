@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 55.
+Objektų skaičius: 54.
 
 ## Kaip naudoti
 
@@ -64,7 +64,6 @@ Objektų skaičius: 55.
 - [Sosto paveldėjimo principas Gediminaičių dinastijoje](../objektai/paprociai/Sosto%20paveld%C4%97jimo%20principas%20Gediminai%C4%8Di%C5%B3%20dinastijoje)
 
 ### Posakiai
-- [Baigėsi karas su prūsais. Prasidėjo karas su lietuviais](../objektai/posakiai/Baig%C4%97si%20karas%20su%20pr%C5%ABsais.%20Prasid%C4%97jo%20karas%20su%20lietuviais)
 - [sąmyšio metai](../objektai/posakiai/s%C4%85my%C5%A1io%20metai)
 - [„Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“](../objektai/posakiai/%E2%80%9EBaig%C4%97si%20karas%20su%20pr%C5%ABsais.%20Prasid%C4%97jo%20karas%20su%20lietuviais%E2%80%9C)
 - [„jogailaičių Europa“ „krikščionybės forpostas“](../objektai/posakiai/%E2%80%9Ejogailai%C4%8Di%C5%B3%20Europa%E2%80%9C%20%E2%80%9Ekrik%C5%A1%C4%8Dionyb%C4%97s%20forpostas%E2%80%9C)

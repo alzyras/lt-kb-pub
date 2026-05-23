@@ -12,7 +12,6 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1648 m.'
-  - '1649 m.'
   - '1651 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:

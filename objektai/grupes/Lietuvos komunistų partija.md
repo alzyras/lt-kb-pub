@@ -469,7 +469,7 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/vietos/Aukščiausiosios Tarybos rūmai]]
+- [[objektai/vietos/Aukščiausiosios Tarybos rūmai|Aukščiausiosios Tarybos rūmai (institucija)]]
 - [[objektai/vietos/Kaunas]]
 - [[objektai/grupes/Komjaunimas]]
 - [[objektai/vietos/Latvija]]
@@ -489,7 +489,7 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
 - [[objektai/zodynas/getas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Žydai]]
-- [[objektai/grupes/Nacionalinio gelbėjimo komitetas]]
+- [[objektai/grupes/Nacionalinio gelbėjimo komitetas|Nacionalinio gelbėjimo komitetas (institucija)]]
 - [[objektai/grupes/Sovietų Sąjunga]]
 - [[objektai/ivykiai/Vladimiro Dekanozovo atvykimas į Lietuvą ir realios valdžios perėmimas (1940 m. birželio 15 d.)]]
 - [[objektai/zodynas/polpredas]]

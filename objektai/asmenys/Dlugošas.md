@@ -88,6 +88,7 @@ Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose. Dlugošas, kuris 14
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/asmenys/Andrius Vosylius Jastrzębiecas]]
 - [[objektai/posakiai/Grünwaldo pergalės atsisakymas]]
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
 - [[objektai/ivykiai/Kęstučio žūtis Krėvos kalėjime (1382 m.)]]
 - [[objektai/daiktai/Patrankos]]
 - [[objektai/asmenys/Spytkas iš Melsztyno]]

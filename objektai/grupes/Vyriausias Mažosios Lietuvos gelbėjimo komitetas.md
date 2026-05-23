@@ -1,9 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'Vyriausias Mažosios Lietuvos gelbėjimo komitetas'
+pavadinimas: 'Vyriausias Mažosios Lietuvos gelbėjimo komitetas (institucija)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Vyriausias Mažosios Lietuvos gelbėjimo komitetas'
+aliases:
+  - 'Vyriausias Mažosios Lietuvos gelbėjimo komitetas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
@@ -21,7 +23,7 @@ tags:
   - grupe
   - seimas
 ---
-# Vyriausias Mažosios Lietuvos gelbėjimo komitetas
+# Vyriausias Mažosios Lietuvos gelbėjimo komitetas (institucija)
 
 ## Santrauka
 
@@ -59,5 +61,5 @@ tags:
 - [[objektai/grupes/Ambasadorių Konferencija]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuvos seimas]]
+- [[objektai/grupes/Lietuvos seimas|Lietuvos seimas (seimas)]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

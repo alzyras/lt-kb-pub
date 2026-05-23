@@ -57,8 +57,9 @@ Sierakausko nurodymu jie : SUKILĖLIŲ PULKAI Iš Liudvikos Gedgaudienės-Didži
 ### Susiję objektai
 - [[objektai/daiktai/Varpai]]
 - [[objektai/vietos/Viena]]
-- [[objektai/vietos/Galvės ežero salos pilis]]
+- [[objektai/vietos/Galvės ežero salos pilis|Galvės ežero salos pilis (pilis)]]
 - [[objektai/vietos/Malburgas]]
-- [[objektai/vietos/Trakų salos pilis]]
+- [[objektai/vietos/Trakų salos pilis|Trakų salos pilis (pilis)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/apsaugos raštas]]
 - [[objektai/autoriai/Liudvika Gedgaudienė-Didžiulienė]]

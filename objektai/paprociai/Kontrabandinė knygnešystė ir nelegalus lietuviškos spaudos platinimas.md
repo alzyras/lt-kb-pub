@@ -2,8 +2,12 @@
 tipas: paprotys
 pavadinimas: "Kontrabandinė knygnešystė ir nelegalus lietuviškos spaudos platinimas"
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Kandidatas 62 Kontrabandinė knygnešystė ir nelegalus lietuviškos spaudos platinimas'
+  - 'Kandidatas Kontrabandinė knygnešystė ir nelegalus lietuviškos spaudos platinimas'
+aliases:
+  - 'Kandidatas 62 Kontrabandinė knygnešystė ir nelegalus lietuviškos spaudos platinimas'
+  - 'Kandidatas Kontrabandinė knygnešystė ir nelegalus lietuviškos spaudos platinimas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'

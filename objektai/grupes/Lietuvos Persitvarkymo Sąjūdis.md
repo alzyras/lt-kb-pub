@@ -415,7 +415,7 @@ Tautinis politinis judėjimas, kurį šaltinis apibūdina kaip tautos frontą ir
 - [[objektai/ivykiai/LPS iniciatyvinių grupių įsteigimas Kaune ir Klaipėdoje ir pirmieji mitingai (1988 m. birželis–liepa)]]
 - [[objektai/grupes/Lietuvos komunistų partija]]
 - [[objektai/zodynas/baltosios dėmės]]
-- [[objektai/vietos/Aukščiausiosios Tarybos rūmai]]
+- [[objektai/vietos/Aukščiausiosios Tarybos rūmai|Aukščiausiosios Tarybos rūmai (institucija)]]
 - [[objektai/vietos/Viena]]
 - [[objektai/asmenys/Vytautas Landsbergis]]
 - [[objektai/ivykiai/LPS kandidatų pergalė SSRS Aukščiausiosios Tarybos rinkimuose ir LKP monopolio panaikinimas (1989 m.)]]

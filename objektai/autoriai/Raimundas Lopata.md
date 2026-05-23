@@ -23,7 +23,6 @@ periodas: 'atkurtos nepriklausomybės laikotarpis'
 periodo_grupes:
   - 'šiuolaikinė Lietuva'
 amziai:
-  - 'XX'
   - 'XXI'
 date_start: '2013'
 date_end: ''

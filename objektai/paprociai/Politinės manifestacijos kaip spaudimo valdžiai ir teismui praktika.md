@@ -2,8 +2,12 @@
 tipas: paprotys
 pavadinimas: "Politinės manifestacijos kaip spaudimo valdžiai ir teismui praktika"
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Kandidatas 53 Politinės manifestacijos kaip spaudimo valdžiai ir teismui praktika'
+  - 'Kandidatas Politinės manifestacijos kaip spaudimo valdžiai ir teismui praktika'
+aliases:
+  - 'Kandidatas 53 Politinės manifestacijos kaip spaudimo valdžiai ir teismui praktika'
+  - 'Kandidatas Politinės manifestacijos kaip spaudimo valdžiai ir teismui praktika'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'

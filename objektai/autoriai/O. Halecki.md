@@ -9,37 +9,12 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos:
-  - '1374 m.'
-  - '1386 m.'
-  - '1398 m.'
-  - '1439 m.'
-  - '1596 m.'
-  - '1696 m.'
-  - '1914 m.'
-  - '1915 m.'
-  - '1916 m.'
-  - '1919 m.'
-  - '1920 m.'
-  - '1925 m.'
-  - '1930 m.'
-  - '1932 m.'
-  - '1933 m.'
-  - '1939 m.'
-  - '1945 m.'
-  - '1950 m.'
-  - '1958 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-  - 'XV'
-  - 'XVI'
-  - 'XVII'
-  - 'XX'
-date_start: '1374'
-date_end: '1958'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 laikotarpis: '1915 m.; 1916 m.; 1919 m.; 1920 m.; 1930 m.; 1939 m.; 1950 m.; 1958 m.'
 vaidmenys:
   - 'istorikas'

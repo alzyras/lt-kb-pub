@@ -1,9 +1,11 @@
 ---
 tipas: paprotys
-pavadinimas: 'Husarų lydėjimas į seimo rinkimus'
+pavadinimas: 'Husarų lydėjimas į seimo rinkimus (seimas)'
 sukurta: '2026-05-02'
-variantai: []
-aliases: []
+variantai:
+  - 'Husarų lydėjimas į seimo rinkimus'
+aliases:
+  - 'Husarų lydėjimas į seimo rinkimus'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 laikotarpis: 'XVII a. pabaiga; 1699 m. šaltinio liudijimas'
@@ -25,7 +27,7 @@ date_end: '2026'
 patikimumas: 'aukštas'
 tags: []
 ---
-# Husarų lydėjimas į seimo rinkimus
+# Husarų lydėjimas į seimo rinkimus (seimas)
 
 ## Santrauka
 

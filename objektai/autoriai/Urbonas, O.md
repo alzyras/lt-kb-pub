@@ -6,20 +6,12 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos:
-  - '1410 m.'
-  - '1890 m.'
-  - '1910 m.'
-  - '1960 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
-  - 'XIX'
-  - 'XX'
-date_start: '1410'
-date_end: '1960'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - autorius
@@ -65,5 +57,5 @@ Urbonas, O.
 ### Susiję objektai
 - [[objektai/vietos/Dancigas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/ivykiai/Tanenbergo mūšis 1410 m. liepos 15 d]]
+- [[objektai/ivykiai/Tanenbergo mūšis 1410 m. liepos 15 d|Tanenbergo mūšis 1410 m. liepos 15 d (mūšis, XV a.)]]
 - [[objektai/vietos/Žalgiris]]

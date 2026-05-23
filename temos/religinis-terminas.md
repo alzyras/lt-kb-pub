@@ -24,5 +24,5 @@ Objektų skaičius: 7.
 - [[objektai/zodynas/bažnytinė provincija]]
 - [[objektai/zodynas/ješiva]]
 - [[objektai/zodynas/kryžiaus karas]]
-- [[objektai/zodynas/lotyniškasis krikštas]]
+- [[objektai/zodynas/lotyniškasis krikštas|lotyniškasis krikštas (krikštas)]]
 - [[objektai/zodynas/metropolitas]]

@@ -57,3 +57,4 @@ tags:
 - [[objektai/grupes/Čekai]]
 - [[objektai/vietos/Čekija]]
 - [[objektai/vietos/Žalgiris]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

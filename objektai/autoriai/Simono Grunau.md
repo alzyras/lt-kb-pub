@@ -136,6 +136,5 @@ Tą pavadinimą « Criwe-Kirwaito » pirmasis įvedė labai nepatikimas XVI amž
 - [[objektai/grupes/Habsburgai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/pagonybė]]
-- [[objektai/ivykiai/Žalgirio mūšis]]
 - [[objektai/vietos/Žalgiris]]
 - [[objektai/paprociai/Prūsų dievų kultas Rikojote ir kulto tarnų hierarchija]]

@@ -1,9 +1,11 @@
 ---
 tipas: daiktas
-pavadinimas: 'Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d'
+pavadinimas: 'Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d (institucija, XX a.)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d'
+aliases:
+  - 'Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
@@ -19,7 +21,7 @@ patikimumas: 'vidutinis'
 tags:
   - daiktas
 ---
-# Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d
+# Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d (institucija, XX a.)
 
 ## Santrauka
 
@@ -98,4 +100,4 @@ Nenurodyta
 - [[objektai/zodynas/konstitucijos]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/vietos/Aukščiausios Tarybos rūmai]]
+- [[objektai/vietos/Aukščiausios Tarybos rūmai|Aukščiausios Tarybos rūmai (institucija)]]

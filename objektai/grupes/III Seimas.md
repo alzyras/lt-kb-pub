@@ -1,9 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'III Seimas'
+pavadinimas: 'III Seimas (seimas)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'III Seimas'
+aliases:
+  - 'III Seimas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
@@ -23,7 +25,7 @@ tags:
   - karas
   - seimas
 ---
-# III Seimas
+# III Seimas (seimas)
 
 ## Santrauka
 
@@ -63,6 +65,6 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
 
 ### Susiję objektai
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/asmenys/A. Smetona|A. Smetona (prezidentas, XX a.)]]
+- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/ivykiai/III Seimo daugumos demokratinės reformos (1926 m. birželio 17 d.)]]

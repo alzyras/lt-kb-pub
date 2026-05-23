@@ -2,8 +2,12 @@
 tipas: paprotys
 pavadinimas: "Prūsų dievų kultas Rikojote ir kulto tarnų hierarchija"
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Kandidatas 8 Prūsų dievų kultas Rikojote ir kulto tarnų hierarchija'
+  - 'Kandidatas Prūsų dievų kultas Rikojote ir kulto tarnų hierarchija'
+aliases:
+  - 'Kandidatas 8 Prūsų dievų kultas Rikojote ir kulto tarnų hierarchija'
+  - 'Kandidatas Prūsų dievų kultas Rikojote ir kulto tarnų hierarchija'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'

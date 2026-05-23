@@ -1,9 +1,11 @@
 ---
 tipas: ivykis
-pavadinimas: 'Jogailos 1387 m. privilegijos ir popiežiaus 1403 m. draudimas Ordinui kariauti'
+pavadinimas: 'Jogailos 1387 m. privilegijos ir popiežiaus 1403 m. draudimas Ordinui kariauti (privilegija, XIV a.)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Jogailos 1387 m. privilegijos ir popiežiaus 1403 m. draudimas Ordinui kariauti'
+aliases:
+  - 'Jogailos 1387 m. privilegijos ir popiežiaus 1403 m. draudimas Ordinui kariauti'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
@@ -13,7 +15,7 @@ tags:
   - ordinas
   - popiežius
 ---
-# Jogailos 1387 m. privilegijos ir popiežiaus 1403 m. draudimas Ordinui kariauti
+# Jogailos 1387 m. privilegijos ir popiežiaus 1403 m. draudimas Ordinui kariauti (privilegija, XIV a.)
 
 ## Santrauka
 

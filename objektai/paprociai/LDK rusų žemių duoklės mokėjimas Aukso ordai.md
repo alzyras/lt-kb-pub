@@ -2,8 +2,12 @@
 tipas: paprotys
 pavadinimas: "LDK rusų žemių duoklės mokėjimas Aukso ordai"
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Kandidatas 22 LDK rusų žemių duoklės mokėjimas Aukso ordai'
+  - 'Kandidatas LDK rusų žemių duoklės mokėjimas Aukso ordai'
+aliases:
+  - 'Kandidatas 22 LDK rusų žemių duoklės mokėjimas Aukso ordai'
+  - 'Kandidatas LDK rusų žemių duoklės mokėjimas Aukso ordai'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'

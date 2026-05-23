@@ -2,8 +2,12 @@
 tipas: paprotys
 pavadinimas: "Lietuvių kalbos viešas vartojimas ir lietuviškų pamaldų reikalavimas bažnyčiose"
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Kandidatas 66 Lietuvių kalbos viešas vartojimas ir lietuviškų pamaldų reikalavimas bažnyčiose'
+  - 'Kandidatas Lietuvių kalbos viešas vartojimas ir lietuviškų pamaldų reikalavimas bažnyčiose'
+aliases:
+  - 'Kandidatas 66 Lietuvių kalbos viešas vartojimas ir lietuviškų pamaldų reikalavimas bažnyčiose'
+  - 'Kandidatas Lietuvių kalbos viešas vartojimas ir lietuviškų pamaldų reikalavimas bažnyčiose'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'

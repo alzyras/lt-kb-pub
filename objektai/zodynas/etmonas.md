@@ -109,4 +109,4 @@ Greta didžiojo etmono M.
 - [[objektai/grupes/Lenkijos kariuomenė]]
 - [[objektai/asmenys/S. Kosakovskis]]
 - [[objektai/asmenys/Stanislovas Kiška]]
-- [[objektai/posakiai/„įžen-gus į šalį svetimai kariuomenei į kraštą Respublikos kariuomenę rinkti“]]
+- [[objektai/posakiai/„įžen-gus į šalį svetimai kariuomenei į kraštą Respublikos kariuomenę rinkti“|„įžen-gus į šalį svetimai kariuomenei į kraštą Respublikos kariuomenę rinkti“ (kraštas)]]

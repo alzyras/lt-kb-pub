@@ -92,6 +92,6 @@ tags:
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/vietos/Aukaimis]]
-- [[objektai/vietos/Gedimino pilis]]
+- [[objektai/vietos/Gedimino pilis|Gedimino pilis (pilis)]]
 - [[objektai/vietos/Gegužkalnis]]
 - [[objektai/vietos/Kvėdarna]]

@@ -6,28 +6,12 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
-datos:
-  - '1410 m.'
-  - '1918 m.'
-  - '1938 m.'
-  - '1939 m.'
-  - '1940 m.'
-  - '1941 m.'
-  - '1996 m.'
-  - '1997 m.'
-  - '2000 m.'
-  - '2006 m.'
-  - '2009 m.'
-  - '2010 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
-  - 'XX'
-  - 'XXI'
-date_start: '1410'
-date_end: '2010'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - autorius

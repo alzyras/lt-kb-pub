@@ -117,5 +117,5 @@ Lenkijos sukilėlių vyriausybė į Lietuvos sukilimo vadovybę grąžino „rau
 - [[objektai/vietos/Varšuva]]
 - [[objektai/zodynas/egzekucija]]
 - [[objektai/zodynas/generalgubernatorius]]
-- [[objektai/ivykiai/1863 m. sukilimo pradžia]]
+- [[objektai/ivykiai/1863 m. sukilimo pradžia|1863 m. sukilimo pradžia (sukilimas)]]
 - [[objektai/grupes/Laikinoji Vyriausybė Lietuvoje]]

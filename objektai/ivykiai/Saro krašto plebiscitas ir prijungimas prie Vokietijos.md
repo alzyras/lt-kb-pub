@@ -1,9 +1,11 @@
 ---
 tipas: ivykis
-pavadinimas: 'Saro krašto plebiscitas ir prijungimas prie Vokietijos'
+pavadinimas: 'Saro krašto plebiscitas ir prijungimas prie Vokietijos (kraštas)'
 sukurta: '2026-05-18'
-variantai: []
-aliases: []
+variantai:
+  - 'Saro krašto plebiscitas ir prijungimas prie Vokietijos'
+aliases:
+  - 'Saro krašto plebiscitas ir prijungimas prie Vokietijos'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos: []
@@ -17,7 +19,7 @@ tags:
   - ivykis
   - kraštas
 ---
-# Saro krašto plebiscitas ir prijungimas prie Vokietijos
+# Saro krašto plebiscitas ir prijungimas prie Vokietijos (kraštas)
 
 ## Santrauka
 

@@ -142,8 +142,9 @@ Nenurodyta
 - [[temos/didikas]]
 
 ### Susiję objektai
-- [[objektai/posakiai/Damoklo kardas tikrai pakibo ant unijos]]
+- [[objektai/posakiai/Damoklo kardas tikrai pakibo ant unijos|Damoklo kardas tikrai pakibo ant unijos (unija)]]
 - [[objektai/ivykiai/Dovydiškių sutarties sudarymas (1380 m. gegužės 31 d.)]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
 - [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]
 - [[objektai/ivykiai/Jonas III pirmasis kardu užatakavo Lietuvą]]
 - [[objektai/asmenys/Jonas XXIII]]

@@ -1,9 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Niešavos kraštas'
+pavadinimas: 'Niešavos kraštas (kraštas)'
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'Niešavos kraštas'
+aliases:
+  - 'Niešavos kraštas'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos: []
@@ -18,7 +20,7 @@ tags:
   - kraštas
   - vieta
 ---
-# Niešavos kraštas
+# Niešavos kraštas (kraštas)
 
 ## Santrauka
 

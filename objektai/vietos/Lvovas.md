@@ -178,6 +178,5 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
 - [[objektai/asmenys/Petras iš Kustynės]]
 - [[objektai/vietos/Raudonoji Rusia]]
 - [[objektai/posakiai/„Lietuvos Jeruzalė“ „Jerušalaim de Lite“]]
-- [[objektai/autoriai/J. Kochanowski]]
 - [[objektai/autoriai/Kochanowski, J]]
 - [[objektai/autoriai/Koneczny, P]]

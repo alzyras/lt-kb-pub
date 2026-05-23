@@ -1,9 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'Lietuvos SSR liaudies komisarų taryba'
+pavadinimas: 'Lietuvos SSR liaudies komisarų taryba (institucija)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Lietuvos SSR liaudies komisarų taryba'
+aliases:
+  - 'Lietuvos SSR liaudies komisarų taryba'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
@@ -20,7 +22,7 @@ tags:
   - grupe
   - seimas
 ---
-# Lietuvos SSR liaudies komisarų taryba
+# Lietuvos SSR liaudies komisarų taryba (institucija)
 
 ## Santrauka
 
@@ -81,7 +83,7 @@ rugpjūčio 25 dieną Liaudies seimas buvo pervadintas Lietuvos SSR Aukščiausi
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/grupes/Liaudies seimas]]
+- [[objektai/grupes/Liaudies seimas|Liaudies seimas (seimas)]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/SSRS]]
 - [[objektai/zodynas/konstitucijos]]

@@ -8,9 +8,6 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
   - '1700 m.'
-  - '1706 m.'
-  - '1708 m.'
-  - '1709 m.'
   - '1721 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:

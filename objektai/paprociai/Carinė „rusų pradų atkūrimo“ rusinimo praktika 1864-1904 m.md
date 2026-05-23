@@ -2,8 +2,12 @@
 tipas: paprotys
 pavadinimas: "Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m"
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Kandidatas 58 Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m'
+  - 'Kandidatas Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m'
+aliases:
+  - 'Kandidatas 58 Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m'
+  - 'Kandidatas Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
@@ -117,6 +121,10 @@ Nenurodyta
   santrauka: 'Rusinimo politika 1864–1904 metais Šios politikos ėmėsi sukilimo slopintojas ir vienas jos sumanytojų Vilniaus generalgubernatorius M.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Juk separatizmas tarpo pirmiausia vietos bajoriškoje
+    visuomenėje, laikiusioje save atskira politine tauta, o valstiečiai, jų masė,
+    nebuvo tos tautos nariai, tad rusintojai manė laimėti „lenkų pradų naiki-
+    nimo“ politiką papildę „rusų pradų atkūrimo“ politika.
     Rusinimo politika 1864–1904 metais
     Šios politikos ėmėsi sukilimo slopintojas ir vienas jos su-
     manytojų Vilniaus generalgubernatorius M. Muravjovas, pasikvietęs į
@@ -138,11 +146,15 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/Baudžiava]]
 - [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]]
 - [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/vietos/Rusija]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/generalgubernatorius]]
+- [[objektai/zodynas/pradai]]
 - [[objektai/zodynas/rusinimas]]
+- [[objektai/zodynas/separatizmas]]

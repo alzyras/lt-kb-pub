@@ -2,8 +2,12 @@
 tipas: paprotys
 pavadinimas: "Lenkų kalbos pasirinkimas LDK protestantiškoje ir politinio elito raštijoje"
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Kandidatas 34 Lenkų kalbos pasirinkimas LDK protestantiškoje ir politinio elito raštijoje'
+  - 'Kandidatas Lenkų kalbos pasirinkimas LDK protestantiškoje ir politinio elito raštijoje'
+aliases:
+  - 'Kandidatas 34 Lenkų kalbos pasirinkimas LDK protestantiškoje ir politinio elito raštijoje'
+  - 'Kandidatas Lenkų kalbos pasirinkimas LDK protestantiškoje ir politinio elito raštijoje'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'

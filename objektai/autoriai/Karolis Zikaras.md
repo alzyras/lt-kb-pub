@@ -8,45 +8,12 @@ variantai:
 aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos:
-  - '1236 m.'
-  - '1260 m.'
-  - '1270 m.'
-  - '1279 m.'
-  - '1325 m.'
-  - '1348 m.'
-  - '1362 m.'
-  - '1363 m.'
-  - '1368 m.'
-  - '1370 m.'
-  - '1372 m.'
-  - '1384 m.'
-  - '1399 m.'
-  - '1410 m.'
-  - '1435 m.'
-  - '1500 m.'
-  - '1506 m.'
-  - '1514 m.'
-  - '1564 m.'
-  - '1581 m.'
-  - '1601 m.'
-  - '1605 m.'
-  - '1609 m.'
-  - '1621 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
-  - 'XIV'
-  - 'XV'
-  - 'XVI'
-  - 'XVII'
-  - 'XVIII'
-  - 'XIX'
-  - 'XX'
-date_start: '1236'
-date_end: '1621'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 laikotarpis: ''
 vaidmenys:
   - 'atsakingasis redaktorius'

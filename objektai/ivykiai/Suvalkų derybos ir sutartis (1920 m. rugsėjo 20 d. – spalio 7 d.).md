@@ -83,4 +83,4 @@ Nenurodyta
 - [[objektai/vietos/Nemunas]]
 - [[objektai/vietos/Suvalkai]]
 - [[objektai/vietos/Varėna]]
-- [[objektai/grupes/Aukščiausioji Santarvininkių Taryba]]
+- [[objektai/grupes/Aukščiausioji Santarvininkių Taryba|Aukščiausioji Santarvininkių Taryba (institucija)]]

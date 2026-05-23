@@ -2,8 +2,12 @@
 tipas: paprotys
 pavadinimas: "Valančiaus blaivybės sąjūdis ir blaivybės brolijos"
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Kandidatas 57 Valančiaus blaivybės sąjūdis ir blaivybės brolijos'
+  - 'Kandidatas Valančiaus blaivybės sąjūdis ir blaivybės brolijos'
+aliases:
+  - 'Kandidatas 57 Valančiaus blaivybės sąjūdis ir blaivybės brolijos'
+  - 'Kandidatas Valančiaus blaivybės sąjūdis ir blaivybės brolijos'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'

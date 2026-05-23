@@ -135,7 +135,7 @@ Tuo būdu ordino centras pasidarė Marijenburgas. Lenkija atgavo savo Pamarį, D
 - [[objektai/vietos/Suvalkai]]
 - [[objektai/vietos/Torne]]
 - [[objektai/zodynas/didysis magistras]]
-- [[objektai/zodynas/laisvasis Rygos miestas]]
+- [[objektai/zodynas/laisvasis Rygos miestas|laisvasis Rygos miestas (miestas)]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/vasalas]]
 - [[objektai/zodynas/vyskupystė]]

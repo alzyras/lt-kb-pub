@@ -8,11 +8,6 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
   - '1515 m.'
-  - '1553 m.'
-  - '1555 m.'
-  - '1562 m.'
-  - '1563 m.'
-  - '1565 m.'
   - '1569 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:

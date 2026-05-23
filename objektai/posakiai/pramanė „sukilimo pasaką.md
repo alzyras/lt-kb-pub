@@ -1,9 +1,11 @@
 ---
 tipas: posakis
-pavadinimas: 'pramanė „sukilimo pasaką'
+pavadinimas: 'pramanė „sukilimo pasaką (sukilimas)'
 sukurta: '2026-04-25'
-variantai: []
-aliases: []
+variantai:
+  - 'pramanė „sukilimo pasaką'
+aliases:
+  - 'pramanė „sukilimo pasaką'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
@@ -11,7 +13,7 @@ tags:
   - posakis
   - sukilimas
 ---
-# pramanė „sukilimo pasaką
+# pramanė „sukilimo pasaką (sukilimas)
 
 ## Santrauka
 

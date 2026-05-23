@@ -1,9 +1,11 @@
 ---
 tipas: ivykis
-pavadinimas: 'Žygimanto Augusto privilegija dėl krikščioniškų konfesijų teisių'
+pavadinimas: 'Žygimanto Augusto privilegija dėl krikščioniškų konfesijų teisių (privilegija)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Žygimanto Augusto privilegija dėl krikščioniškų konfesijų teisių'
+aliases:
+  - 'Žygimanto Augusto privilegija dėl krikščioniškų konfesijų teisių'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
@@ -13,7 +15,7 @@ tags:
   - privilegija
   - reforma
 ---
-# Žygimanto Augusto privilegija dėl krikščioniškų konfesijų teisių
+# Žygimanto Augusto privilegija dėl krikščioniškų konfesijų teisių (privilegija)
 
 ## Santrauka
 

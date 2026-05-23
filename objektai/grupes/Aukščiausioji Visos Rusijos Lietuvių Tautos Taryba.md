@@ -1,9 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'Aukščiausioji Visos Rusijos Lietuvių Tautos Taryba'
+pavadinimas: 'Aukščiausioji Visos Rusijos Lietuvių Tautos Taryba (institucija)'
 sukurta: '2026-04-25'
-variantai: []
-aliases: []
+variantai:
+  - 'Aukščiausioji Visos Rusijos Lietuvių Tautos Taryba'
+aliases:
+  - 'Aukščiausioji Visos Rusijos Lietuvių Tautos Taryba'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
@@ -11,7 +13,7 @@ tags:
   - grupe
   - tauta
 ---
-# Aukščiausioji Visos Rusijos Lietuvių Tautos Taryba
+# Aukščiausioji Visos Rusijos Lietuvių Tautos Taryba (institucija)
 
 ## Santrauka
 
@@ -51,5 +53,5 @@ Nepriklausomybės šūkį toliau skleidė naujai sukurtoji Voroneže Aukščiaus
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Rusija]]
 - [[objektai/vietos/Voronežas]]
-- [[objektai/grupes/Lietuvių Tautos Taryba]]
-- [[objektai/grupes/Tautos taryba]]
+- [[objektai/grupes/Lietuvių Tautos Taryba|Lietuvių Tautos Taryba (institucija)]]
+- [[objektai/grupes/Tautos taryba|Tautos taryba (institucija)]]

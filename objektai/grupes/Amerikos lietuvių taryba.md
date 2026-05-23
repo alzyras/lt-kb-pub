@@ -1,9 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'Amerikos lietuvių taryba'
+pavadinimas: 'Amerikos lietuvių taryba (institucija)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Amerikos lietuvių taryba'
+aliases:
+  - 'Amerikos lietuvių taryba'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
@@ -11,7 +13,7 @@ tags:
   - grupe
   - tauta
 ---
-# Amerikos lietuvių taryba
+# Amerikos lietuvių taryba (institucija)
 
 ## Santrauka
 
@@ -55,5 +57,5 @@ JAV veikė didžiausia lietuvių išeivijos dalis, svarbiausios ir stipriausios 
 - [[objektai/vietos/JAV]]
 - [[objektai/ivykiai/Lietuvių laisvinimo darbo konferencija Niujorke (1974 m. spalio 26–27 d.)]]
 - [[objektai/grupes/Pasaulio lietuvių bendruomenė]]
-- [[objektai/grupes/Vyriausiasis Lietuvos išlaisvinimo komitetas]]
+- [[objektai/grupes/Vyriausiasis Lietuvos išlaisvinimo komitetas|Vyriausiasis Lietuvos išlaisvinimo komitetas (institucija)]]
 - [[objektai/vietos/Viena]]

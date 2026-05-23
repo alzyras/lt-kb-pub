@@ -1,9 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Duobelės pilis'
+pavadinimas: 'Duobelės pilis (pilis)'
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'Duobelės pilis'
+aliases:
+  - 'Duobelės pilis'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos: []
@@ -17,7 +19,7 @@ tags:
   - pilis
   - vieta
 ---
-# Duobelės pilis
+# Duobelės pilis (pilis)
 
 ## Santrauka
 

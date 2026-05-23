@@ -50,6 +50,7 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
 - [[objektai/vietos/Bazelis]]
 - [[objektai/vietos/Konstantinopolis]]
 - [[objektai/zodynas/unija]]
-- [[objektai/ivykiai/Florencijos bažnytinė unija]]
+- [[objektai/ivykiai/Florencijos bažnytinė unija|Florencijos bažnytinė unija (unija)]]
 - [[objektai/autoriai/Grigorijus Camblakas]]
 - [[objektai/grupes/Katalikų Bažnyčia]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

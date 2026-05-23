@@ -70,7 +70,7 @@ Vertikalios gotikinių bažnyčių linijos ir kylantys į dangų bokštai simbol
 ### Susiję objektai
 - [[objektai/vietos/Europa]]
 - [[objektai/ivykiai/Lietuvos ir Žemaitijos krikštai kaip krikščionėjimo pradžia]]
-- [[objektai/vietos/Myro pilis]]
+- [[objektai/vietos/Myro pilis|Myro pilis (pilis)]]
 - [[objektai/vietos/Nesvyžius]]
 - [[objektai/paprociai/Pagoniškų elementų ir pagoniškųjų tikėjimų integravimas į krikščioniškas praktikas]]
 - [[objektai/paprociai/Pagoniškųjų tikėjimų integravimas į krikščionišką praktiką]]

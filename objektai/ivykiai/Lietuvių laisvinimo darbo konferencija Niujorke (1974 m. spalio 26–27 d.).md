@@ -60,7 +60,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Amerikos lietuvių taryba]]
+- [[objektai/grupes/Amerikos lietuvių taryba|Amerikos lietuvių taryba (institucija)]]
 - [[objektai/vietos/Europa]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]

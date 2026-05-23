@@ -147,7 +147,7 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
 - [[objektai/ivykiai/Torno taika (1411 m.)]]
 - [[objektai/asmenys/Ulrichas von Jungingenas]]
 - [[objektai/grupes/Vokietijos kunigaikščiai]]
-- [[objektai/ivykiai/Žemaičių krikštas]]
+- [[objektai/ivykiai/Žemaičių krikštas|Žemaičių krikštas (krikštas)]]
 - [[objektai/zodynas/didysis magistras]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/vietos/Elbingas]]

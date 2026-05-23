@@ -54,5 +54,5 @@ Zakrzewski, W.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/ivykiai/Tanenbergo mūšis 1410 m. liepos 15 d]]
+- [[objektai/ivykiai/Tanenbergo mūšis 1410 m. liepos 15 d|Tanenbergo mūšis 1410 m. liepos 15 d (mūšis, XV a.)]]
 - [[objektai/vietos/Tannenbergas]]

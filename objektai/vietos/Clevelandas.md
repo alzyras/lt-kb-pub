@@ -56,4 +56,3 @@ tags:
 - [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/autoriai/J. Jakštas]]

@@ -2,8 +2,10 @@
 tipas: paprotys
 pavadinimas: "Elekcinių valdovų pacta conventa priesaikos bajorijai"
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Kandidatas Elekcinių valdovų pacta conventa priesaikos bajorijai'
+aliases:
+  - 'Kandidatas Elekcinių valdovų pacta conventa priesaikos bajorijai'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'

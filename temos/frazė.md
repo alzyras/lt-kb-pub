@@ -24,6 +24,6 @@ Objektų skaičius: 8.
 - [[objektai/posakiai/jam patinkąs mažiau iškalbingas, bet užtatai tiesakalbis|jam patinkąs mažiau iškalbingas, bet užtatai tiesakalbis.]]
 - [[objektai/posakiai/Jūs abudu esate mūsų valdovai]]
 - [[objektai/posakiai/Kad tik be arklio nebūtų]]
-- [[objektai/posakiai/Mūsų kraštą pavergti]]
+- [[objektai/posakiai/Mūsų kraštą pavergti|Mūsų kraštą pavergti (kraštas)]]
 - [[objektai/posakiai/Respublika laikosi netvarka]]
 - [[objektai/posakiai/„mylintis savo tėvynę... rusas yra internacionalistas...“]]

@@ -1,16 +1,18 @@
 ---
 tipas: grupe
-pavadinimas: 'Lietuvos Respublikos švietimo ministerija'
+pavadinimas: 'Lietuvos Respublikos švietimo ministerija (institucija)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Lietuvos Respublikos švietimo ministerija'
+aliases:
+  - 'Lietuvos Respublikos švietimo ministerija'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
 tags:
   - grupe
 ---
-# Lietuvos Respublikos švietimo ministerija
+# Lietuvos Respublikos švietimo ministerija (institucija)
 
 ## Santrauka
 

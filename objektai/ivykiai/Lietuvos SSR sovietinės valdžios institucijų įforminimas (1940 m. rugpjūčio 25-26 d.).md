@@ -80,7 +80,7 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/grupes/Liaudies seimas]]
+- [[objektai/grupes/Liaudies seimas|Liaudies seimas (seimas)]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/SSRS]]
 - [[objektai/zodynas/savanoriškumo kamufliažas]]

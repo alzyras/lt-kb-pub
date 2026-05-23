@@ -1,9 +1,11 @@
 ---
 tipas: posakis
-pavadinimas: '„tarybinės liaudies formavimasį“ „tarybinių tautų suartėjimą ir susiliejimą“'
+pavadinimas: '„tarybinės liaudies formavimasį“ „tarybinių tautų suartėjimą ir susiliejimą“ (institucija)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - '„tarybinės liaudies formavimasį“ „tarybinių tautų suartėjimą ir susiliejimą“'
+aliases:
+  - '„tarybinės liaudies formavimasį“ „tarybinių tautų suartėjimą ir susiliejimą“'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
@@ -11,7 +13,7 @@ tags:
   - posakis
   - tauta
 ---
-# „tarybinės liaudies formavimasį“ „tarybinių tautų suartėjimą ir susiliejimą“
+# „tarybinės liaudies formavimasį“ „tarybinių tautų suartėjimą ir susiliejimą“ (institucija)
 
 ## Santrauka
 

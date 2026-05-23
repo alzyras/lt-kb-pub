@@ -150,7 +150,7 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
 - [[objektai/grupes/Baro konfederacija]]
 - [[objektai/ivykiai/Baro konfederacija (1768–1772 m.)]]
 - [[objektai/ivykiai/Bezdežo (Antopolio) mūšis (1771 m.)]]
-- [[objektai/vietos/Biržų pilis]]
+- [[objektai/vietos/Biržų pilis|Biržų pilis (pilis)]]
 - [[objektai/ivykiai/Brastos pasipriešinimas 1792 m. kare]]
 - [[objektai/asmenys/Jonas Kazimieras Vaza]]
 - [[objektai/asmenys/Juozapas Kosakovskis|Juozapas Kosakovskis (vyskupas)]]

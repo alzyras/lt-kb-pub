@@ -79,3 +79,4 @@ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK �
 - [[objektai/zodynas/pradai]]
 - [[objektai/zodynas/unija]]
 - [[objektai/posakiai/„Čia nebus Lenkijos“]]
+- [[objektai/paprociai/Carinės „lenkų pradų naikinimo“ rusinimo praktikos]]

@@ -17,23 +17,13 @@ vaidmenys:
   - 'autorius'
   - 'Žemaičių vyskupas'
   - 'blaivybės veikėjas'
-datos:
-  - '1801 m.'
-  - '1848 m.'
-  - '1850 m.'
-  - '1858 m.'
-  - '1875 m.'
-  - '1929 m.'
-  - '1965 m.'
-  - '1972 m.'
-periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
-periodo_grupes:
-  - 'naujieji laikai'
+datos: []
+periodas: ''
+periodo_grupes: []
 amziai:
-  - 'XIX'
-  - 'XX'
-date_start: '1801'
-date_end: '1972'
+  - 'V'
+date_start: ''
+date_end: ''
 patikimumas: 'aukštas'
 tags:
   - autorius

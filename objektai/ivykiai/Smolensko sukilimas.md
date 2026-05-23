@@ -1,9 +1,11 @@
 ---
 tipas: ivykis
-pavadinimas: 'Smolensko sukilimas'
+pavadinimas: 'Smolensko sukilimas (sukilimas)'
 sukurta: '2026-04-25'
-variantai: []
-aliases: []
+variantai:
+  - 'Smolensko sukilimas'
+aliases:
+  - 'Smolensko sukilimas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
@@ -13,7 +15,7 @@ tags:
   - kunigaikštis
   - mūšis
 ---
-# Smolensko sukilimas
+# Smolensko sukilimas (sukilimas)
 
 ## Santrauka
 
@@ -60,6 +62,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/vietos/Smolenskas]]
 - [[objektai/vietos/Vorskla]]
-- [[objektai/ivykiai/Vorsklos mūšis]]
 - [[objektai/zodynas/apostazija]]
 - [[objektai/zodynas/vietininkas]]

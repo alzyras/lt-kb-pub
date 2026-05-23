@@ -1,9 +1,11 @@
 ---
 tipas: ivykis
-pavadinimas: 'Gedimino krikšto akcija'
+pavadinimas: 'Gedimino krikšto akcija (krikštas)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Gedimino krikšto akcija'
+aliases:
+  - 'Gedimino krikšto akcija'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
@@ -13,7 +15,7 @@ tags:
   - popiežius
   - valdovas
 ---
-# Gedimino krikšto akcija
+# Gedimino krikšto akcija (krikštas)
 
 ## Santrauka
 
@@ -61,4 +63,5 @@ Nenurodyta
 - [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/zodynas/unija]]
+- [[objektai/paprociai/Gedimino kvietimas Vakarų pirkliams, amatininkams ir kolonistams į Lietuvą]]
 - [[objektai/zodynas/Arkivyskupija]]

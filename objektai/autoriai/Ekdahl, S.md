@@ -1,9 +1,11 @@
 ---
 tipas: autorius
-pavadinimas: 'Ekdahl, S'
+pavadinimas: "Ekdahl, S"
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'S. Ekdahl'
+aliases:
+  - 'S. Ekdahl'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -30,6 +32,12 @@ Ekdahl, S.: Die Flucht der Litauer in der Schlacht bei Tannenberg, ZfO, 12, 1, 1
 ## Teiginiai
 - t-001
   teiginys: 'S. Ekdahl 1963 m. paskelbė straipsnį apie lietuvių pasitraukimą Tanenbergo mūšyje.'
+  pagrindžia:
+    - c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: 'S. Ekdahlas 1963 m. paskelbė straipsnį apie lietuvių pasitraukimą Tanenbergo mūšyje.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)

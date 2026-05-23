@@ -1,9 +1,11 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: "lotyniškasis krikštas"
+pavadinimas: 'lotyniškasis krikštas (krikštas)'
 sukurta: "2026-04-28"
-variantai: []
-aliases: []
+variantai:
+  - 'lotyniškasis krikštas'
+aliases:
+  - 'lotyniškasis krikštas'
 saltiniai:
   - "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
 laikotarpis: "XIV a. pabaiga"
@@ -28,7 +30,7 @@ date_end: '2026'
 patikimumas: "aukštas"
 tags: []
 ---
-# lotyniškasis krikštas
+# lotyniškasis krikštas (krikštas)
 
 ## Santrauka
 

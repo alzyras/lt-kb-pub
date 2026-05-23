@@ -1,9 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Bakotos pilis'
+pavadinimas: 'Bakotos pilis (pilis)'
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'Bakotos pilis'
+aliases:
+  - 'Bakotos pilis'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos: []
@@ -17,7 +19,7 @@ tags:
   - pilis
   - vieta
 ---
-# Bakotos pilis
+# Bakotos pilis (pilis)
 
 ## Santrauka
 
@@ -58,5 +60,5 @@ Karijotaičiai Podolėje pastatė Smotričo, Bakotos, Kameneco pilis, užage —
 - [[objektai/grupes/Karijotaičiai]]
 - [[objektai/vietos/Podolė]]
 - [[objektai/vietos/Bakota]]
-- [[objektai/vietos/Kameneco pilis]]
-- [[objektai/vietos/Smotričo pilis]]
+- [[objektai/vietos/Kameneco pilis|Kameneco pilis (pilis)]]
+- [[objektai/vietos/Smotričo pilis|Smotričo pilis (pilis)]]

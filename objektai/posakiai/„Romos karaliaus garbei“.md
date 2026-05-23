@@ -67,3 +67,4 @@ tags:
 - [[objektai/vietos/Livonija]]
 - [[objektai/vietos/Skirsnemunė]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]

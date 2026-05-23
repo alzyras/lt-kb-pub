@@ -1,9 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Durbės pilis'
+pavadinimas: 'Durbės pilis (pilis)'
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'Durbės pilis'
+aliases:
+  - 'Durbės pilis'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
@@ -20,7 +22,7 @@ tags:
   - pilis
   - vieta
 ---
-# Durbės pilis
+# Durbės pilis (pilis)
 
 ## Santrauka
 

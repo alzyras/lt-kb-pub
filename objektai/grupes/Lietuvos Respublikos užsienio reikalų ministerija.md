@@ -1,9 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'Lietuvos Respublikos užsienio reikalų ministerija'
+pavadinimas: 'Lietuvos Respublikos užsienio reikalų ministerija (institucija)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Lietuvos Respublikos užsienio reikalų ministerija'
+aliases:
+  - 'Lietuvos Respublikos užsienio reikalų ministerija'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
@@ -26,7 +28,7 @@ tags:
   - grupe
   - mokslininkas
 ---
-# Lietuvos Respublikos užsienio reikalų ministerija
+# Lietuvos Respublikos užsienio reikalų ministerija (institucija)
 
 ## Santrauka
 

@@ -125,7 +125,7 @@ Jis turėjo žygiuoti Veližo link, iš ten pulti Toropeco ir Bialos pilių apyl
 - [[objektai/vietos/Biala]]
 - [[objektai/vietos/Dauguva]]
 - [[objektai/grupes/Didžiojo Naugardo respublika]]
-- [[objektai/ivykiai/K. Radvilos Perkūno reidas (1581 m. liepa-spalis)]]
+- [[objektai/ivykiai/K. Radvilos Perkūno reidas (1581 m. liepa-spalis)|Kristupo Radvilos Perkūno reidas (1581 m. liepa-spalis)]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Pskovas]]

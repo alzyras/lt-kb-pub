@@ -80,5 +80,5 @@ Terminas žymi nustatytą kariuomenės skaičių ar karo etatą, nuo kurio prikl
 - [[objektai/vietos/Turkija]]
 - [[objektai/vietos/Vengrija]]
 - [[objektai/zodynas/ekspansija]]
-- [[objektai/zodynas/karo taryba]]
+- [[objektai/zodynas/karo taryba|karo taryba (institucija)]]
 - [[objektai/zodynas/žygis]]

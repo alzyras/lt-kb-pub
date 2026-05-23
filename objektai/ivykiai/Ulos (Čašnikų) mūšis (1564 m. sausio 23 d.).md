@@ -210,7 +210,7 @@ Nenurodyta
 - [[objektai/zodynas/etmonas]]
 - [[objektai/zodynas/hetmonas]]
 - [[objektai/zodynas/žygis]]
-- [[objektai/ivykiai/B. Serebriano kariuomenės sutriuškinimas po Ulos mūšio]]
+- [[objektai/ivykiai/B. Serebriano kariuomenės sutriuškinimas po Ulos mūšio|B. Serebriano kariuomenės sutriuškinimas po Ulos mūšio (mūšis, XVI a.)]]
 - [[objektai/paprociai/Kariuomenės lauko stovyklos įrengimas apsupant vežimais]]
 - [[objektai/vietos/Maskvos-Lietuvos pasienis]]
 - [[objektai/asmenys/Mathias Ziindt]]

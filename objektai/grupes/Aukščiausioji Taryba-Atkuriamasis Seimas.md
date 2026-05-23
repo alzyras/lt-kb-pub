@@ -1,9 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'Aukščiausioji Taryba-Atkuriamasis Seimas'
+pavadinimas: 'Aukščiausioji Taryba-Atkuriamasis Seimas (seimas)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Aukščiausioji Taryba-Atkuriamasis Seimas'
+aliases:
+  - 'Aukščiausioji Taryba-Atkuriamasis Seimas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
@@ -11,7 +13,7 @@ tags:
   - grupe
   - seimas
 ---
-# Aukščiausioji Taryba-Atkuriamasis Seimas
+# Aukščiausioji Taryba-Atkuriamasis Seimas (seimas)
 
 ## Santrauka
 
@@ -44,6 +46,6 @@ AT-AS Aukščiausioji Taryba-Atkuriamasis Seimas. 1990 III 11 Lietuvos Respublik
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/grupes/Aukščiausioji Taryba]]
+- [[objektai/grupes/Aukščiausioji Taryba|Aukščiausioji Taryba (institucija)]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

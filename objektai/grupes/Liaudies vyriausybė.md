@@ -74,7 +74,6 @@ Taip birželio 17-ąją atsirado gudriai sumanyta savotiška pereinamojo laikota
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/A. Smetona|A. Smetona (prezidentas, XX a.)]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Sniečkus]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

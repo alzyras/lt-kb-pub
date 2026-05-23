@@ -132,7 +132,7 @@ Daug geriau buvo sutvarkytas unitų švietimas. Jų vienuolynų buvo net Žemai�
 - [[objektai/grupes/Unitų bažnyčia unitai]]
 - [[objektai/vietos/Vitebskas]]
 - [[objektai/zodynas/kitatikiai]]
-- [[objektai/zodynas/bažnytinė unija]]
+- [[objektai/zodynas/bažnytinė unija|bažnytinė unija (unija)]]
 - [[objektai/zodynas/pravoslavija]]
 - [[objektai/grupes/Lietuvos evangelikai reformatai]]
 - [[objektai/grupes/Liuteronai]]

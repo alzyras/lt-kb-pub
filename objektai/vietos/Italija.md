@@ -138,7 +138,7 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
 - [[objektai/asmenys/Peteris Paulius Rubensas]]
 - [[objektai/vietos/Prancūzija]]
 - [[objektai/vietos/Rygos arkivyskupija]]
-- [[objektai/zodynas/krašto magistras]]
+- [[objektai/zodynas/krašto magistras|krašto magistras (kraštas)]]
 - [[objektai/zodynas/protektorium]]
 - [[objektai/zodynas/supremacija]]
 - [[objektai/posakiai/„Jei Šveicarijai būdinga aukšti kalnai, Italijai – meno kūriniai, Suomijai – ežerai, o Lietuvą reikėtų pavadinti kraštu, kuriame labai pavoj]]

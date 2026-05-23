@@ -401,7 +401,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/paprociai/Aukščiausiosios Tarybos gynybos principai]]
+- [[objektai/paprociai/Aukščiausiosios Tarybos gynybos principai|Aukščiausiosios Tarybos gynybos principai (institucija)]]
 - [[objektai/autoriai/Martynas Mažvydas Vaitkūnas]]
 - [[objektai/posakiai/Nepakartoti 1940 m. klaidos!]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

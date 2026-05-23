@@ -14,7 +14,6 @@ periodo_grupes:
   - 'LDK'
 amziai:
   - 'XVI'
-  - 'XVII'
 date_start: '1558'
 date_end: '1559'
 patikimumas: 'vidutinis'

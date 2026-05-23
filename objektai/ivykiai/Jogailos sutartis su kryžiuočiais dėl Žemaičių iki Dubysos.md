@@ -1,9 +1,11 @@
 ---
 tipas: ivykis
-pavadinimas: 'Jogailos sutartis su kryžiuočiais dėl Žemaičių iki Dubysos'
+pavadinimas: 'Jogailos sutartis su kryžiuočiais dėl Žemaičių iki Dubysos (sutartis)'
 sukurta: '2026-04-25'
-variantai: []
-aliases: []
+variantai:
+  - 'Jogailos sutartis su kryžiuočiais dėl Žemaičių iki Dubysos'
+aliases:
+  - 'Jogailos sutartis su kryžiuočiais dėl Žemaičių iki Dubysos'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
@@ -12,7 +14,7 @@ tags:
   - krikštas
   - sutartis
 ---
-# Jogailos sutartis su kryžiuočiais dėl Žemaičių iki Dubysos
+# Jogailos sutartis su kryžiuočiais dėl Žemaičių iki Dubysos (sutartis)
 
 ## Santrauka
 

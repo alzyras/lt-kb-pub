@@ -1,9 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'Pietų Lietuvos sritis'
+pavadinimas: "Pietų Lietuvos sritis"
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'Pietų Lietuvos (Nemuno) sritis'
+aliases:
+  - 'Pietų Lietuvos (Nemuno) sritis'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
@@ -79,10 +81,18 @@ Vėliau jis tapo Dainavos apygardos ir Pietų Lietuvos srities partizanų vadu. 
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Minaičių kaimas]]
-- [[objektai/grupes/Pietų Lietuvos (Nemuno) sritis]]
 - [[objektai/vietos/Radviliškis]]
 - [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/Adynos|adynos]]
+- [[objektai/asmenys/Aleksandras Grybinas-Faustas]]
+- [[objektai/asmenys/Aleksandras Milaševičius-Ruonis]]
+- [[objektai/grupes/Hanza]]
+- [[objektai/grupes/LLKS gynybos pajėgos]]
+- [[objektai/grupes/Lietuvos gynybos pajėgos]]
+- [[objektai/grupes/Merkio rinktinė]]
 - [[objektai/vietos/Pietų Lietuva]]
+- [[objektai/grupes/Pietų Lietuvos saksų savanorių brigada]]
+- [[objektai/asmenys/Robertas Gedvilas-Remigijus]]
 - [[objektai/vietos/Vakarų Lietuva]]
+- [[objektai/asmenys/Vytautas Gužas-Kardas]]

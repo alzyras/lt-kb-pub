@@ -73,7 +73,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/A. Smetona|A. Smetona (prezidentas, XX a.)]]
 - [[objektai/vietos/Kaunas]]
 - [[objektai/grupes/Nacių Vokietija]]
 - [[objektai/vietos/Vokietija]]

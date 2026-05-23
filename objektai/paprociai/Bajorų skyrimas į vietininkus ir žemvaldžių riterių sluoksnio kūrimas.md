@@ -2,8 +2,12 @@
 tipas: paprotys
 pavadinimas: "Bajorų skyrimas į vietininkus ir žemvaldžių riterių sluoksnio kūrimas"
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Kandidatas 23 Bajorų skyrimas į vietininkus ir žemvaldžių riterių sluoksnio kūrimas'
+  - 'Kandidatas Bajorų skyrimas į vietininkus ir žemvaldžių riterių sluoksnio kūrimas'
+aliases:
+  - 'Kandidatas 23 Bajorų skyrimas į vietininkus ir žemvaldžių riterių sluoksnio kūrimas'
+  - 'Kandidatas Bajorų skyrimas į vietininkus ir žemvaldžių riterių sluoksnio kūrimas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'

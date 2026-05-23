@@ -58,7 +58,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Aukščiausiosios Tarybos rūmai]]
+- [[objektai/vietos/Aukščiausiosios Tarybos rūmai|Aukščiausiosios Tarybos rūmai (institucija)]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/autoriai/V. Kudirka]]

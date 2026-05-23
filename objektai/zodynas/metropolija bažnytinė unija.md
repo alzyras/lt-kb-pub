@@ -1,9 +1,11 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'metropolija bažnytinė unija'
+pavadinimas: 'metropolija bažnytinė unija (unija)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'metropolija bažnytinė unija'
+aliases:
+  - 'metropolija bažnytinė unija'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
@@ -13,7 +15,7 @@ tags:
   - valstybė
   - vyskupas
 ---
-# metropolija bažnytinė unija
+# metropolija bažnytinė unija (unija)
 
 ## Santrauka
 
@@ -48,5 +50,5 @@ Nuo 1387 m. LDK yra katalikiška, kaip ir Lenkija, tačiau Lenkijoje apie 1500 m
 - [[objektai/vietos/Kijevas]]
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Vilnius]]
-- [[objektai/ivykiai/Brastos bažnytinė unija]]
+- [[objektai/ivykiai/Brastos bažnytinė unija|Brastos bažnytinė unija (unija)]]
 - [[objektai/grupes/Graikų katalikų bažnyčia]]

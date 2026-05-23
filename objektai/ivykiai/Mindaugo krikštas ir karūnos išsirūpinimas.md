@@ -1,9 +1,11 @@
 ---
 tipas: ivykis
-pavadinimas: 'Mindaugo krikštas ir karūnos išsirūpinimas'
+pavadinimas: 'Mindaugo krikštas ir karūnos išsirūpinimas (krikštas)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Mindaugo krikštas ir karūnos išsirūpinimas'
+aliases:
+  - 'Mindaugo krikštas ir karūnos išsirūpinimas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
@@ -13,7 +15,7 @@ tags:
   - karas
   - ordinas
 ---
-# Mindaugo krikštas ir karūnos išsirūpinimas
+# Mindaugo krikštas ir karūnos išsirūpinimas (krikštas)
 
 ## Santrauka
 

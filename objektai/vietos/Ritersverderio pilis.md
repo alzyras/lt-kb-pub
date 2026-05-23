@@ -1,9 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Ritersverderio pilis'
+pavadinimas: 'Ritersverderio pilis (pilis)'
 sukurta: '2026-04-25'
-variantai: []
-aliases: []
+variantai:
+  - 'Ritersverderio pilis'
+aliases:
+  - 'Ritersverderio pilis'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
@@ -12,7 +14,7 @@ tags:
   - pilis
   - vieta
 ---
-# Ritersverderio pilis
+# Ritersverderio pilis (pilis)
 
 ## Santrauka
 

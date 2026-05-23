@@ -1,9 +1,11 @@
 ---
 tipas: autorius
-pavadinimas: 'Lewicki, A'
+pavadinimas: "Lewicki, A"
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'A. Lewicki'
+aliases:
+  - 'A. Lewicki'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -29,6 +31,12 @@ Lewicki, A.: Kiedy Witold został wielkiem księciem Litwy, KH, t.
 ## Teiginiai
 - t-001
   teiginys: 'A. Lewicki parašė straipsnį „Kiedy Witold został wielkiem księciem Litwy“, paskelbtą KH 1894 m.'
+  pagrindžia:
+    - c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: 'A. Lewicki 1894 m. paskelbė darbą „Kiedy Witold został wielkiem księciem Litwy“.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)

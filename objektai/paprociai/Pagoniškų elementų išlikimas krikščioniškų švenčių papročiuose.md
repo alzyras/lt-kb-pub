@@ -2,8 +2,10 @@
 tipas: paprotys
 pavadinimas: "Pagoniškų elementų išlikimas krikščioniškų švenčių papročiuose"
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Kandidatas Pagoniškų elementų išlikimas krikščioniškų švenčių papročiuose'
+aliases:
+  - 'Kandidatas Pagoniškų elementų išlikimas krikščioniškų švenčių papročiuose'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos: []
@@ -45,10 +47,6 @@ Nenurodyta
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Krikščioniškų švenčių, pavyzdžiui, Kalėdų ir Velykų, papročiuose išliko archajiškų pagoniškų elementų.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -66,26 +64,9 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Krikščioniškų švenčių, pavyzdžiui, Kalėdų ir Velykų, papročiuose išliko archajiškų pagoniškų elementų.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    “ Kadangi lietuviai krikščionybę priėmė palyginti vėlai,
-    mūsų liaudies kultūroje ir tradicijose yra gausu archajiškų, iš pagonybės
-    laikų išlikusių elementų. Jų yra ir krikščioniškų švenčių, pavyzdžiui, Kalė-
-    dų, Velykų ir kt., papročiuose. Galėtume sakyti, kad pagoniškos šventės yra
-    tik „užsiklojusios“ krikščioniškuoju švenčių sluoksniu. Išlikę žilos senovės
-    elementai lemia lietuvių tautosakos, folkloro ir tautodailės savitumą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/pagonybė]]
+- [[objektai/vietos/Lietuva]]
 - [[objektai/paprociai/Pagoniškų elementų ir pagoniškųjų tikėjimų integravimas į krikščioniškas praktikas]]

@@ -1,9 +1,11 @@
 ---
 tipas: ivykis
-pavadinimas: 'Pirmoji visam kraštui privilegija'
+pavadinimas: 'Pirmoji visam kraštui privilegija (privilegija)'
 sukurta: '2026-04-25'
-variantai: []
-aliases: []
+variantai:
+  - 'Pirmoji visam kraštui privilegija'
+aliases:
+  - 'Pirmoji visam kraštui privilegija'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
@@ -13,7 +15,7 @@ tags:
   - kraštas
   - privilegija
 ---
-# Pirmoji visam kraštui privilegija
+# Pirmoji visam kraštui privilegija (privilegija)
 
 ## Santrauka
 

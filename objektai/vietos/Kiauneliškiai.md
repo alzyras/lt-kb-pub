@@ -109,7 +109,7 @@ pradžioje Karolis Zikaras, Vytautas Lesčius 190 Šiaulių-Radviliškio operaci
 - [[objektai/autoriai/Albertas Daugirdas]]
 - [[objektai/autoriai/Arvydas Anušauskas]]
 - [[objektai/ivykiai/Augustavo-Suvalkų operacija]]
-- [[objektai/vietos/Aukščiausiosios Tarybos rūmai]]
+- [[objektai/vietos/Aukščiausiosios Tarybos rūmai|Aukščiausiosios Tarybos rūmai (institucija)]]
 - [[objektai/ivykiai/Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)]]
 - [[objektai/autoriai/Dalius Žygelis]]
 - [[objektai/vietos/Giedraičiai]]

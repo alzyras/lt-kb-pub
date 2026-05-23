@@ -198,7 +198,7 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Jokūbas Jasinskis]]
 - [[objektai/ivykiai/Karolio IV krikšto bandymas Lietuvoje (1358 m.)]]
-- [[objektai/daiktai/Pragos miesto raktai]]
+- [[objektai/daiktai/Pragos miesto raktai|Pragos miesto raktai (miestas)]]
 - [[objektai/asmenys/Vaclovas Pragiečius]]
 - [[objektai/asmenys/Zigmantas Kaributas]]
 - [[objektai/daiktai/Šv. Vaclovo karūna]]

@@ -1,15 +1,15 @@
 ---
 tipas: autorius
-pavadinimas: 'Hevekeb, K'
+pavadinimas: "Hevekeb, K"
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'K. Hevekeb'
+aliases:
+  - 'K. Hevekeb'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1885 m.'
-  - '1886 m.'
-  - '1906 m.'
   - '1935 m.'
 periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
 periodo_grupes:

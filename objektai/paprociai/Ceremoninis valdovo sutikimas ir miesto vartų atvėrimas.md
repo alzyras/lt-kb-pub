@@ -1,9 +1,11 @@
 ---
 tipas: paprotys
-pavadinimas: 'Ceremoninis valdovo sutikimas ir miesto vartų atvėrimas'
+pavadinimas: 'Ceremoninis valdovo sutikimas ir miesto vartų atvėrimas (miestas)'
 sukurta: '2026-05-02'
-variantai: []
-aliases: []
+variantai:
+  - 'Ceremoninis valdovo sutikimas ir miesto vartų atvėrimas'
+aliases:
+  - 'Ceremoninis valdovo sutikimas ir miesto vartų atvėrimas'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 laikotarpis: '1345 m. (antrasis paminėjimas); pirmasis paminėjimas šiame fragmente be aiškios datos'
@@ -19,7 +21,7 @@ susije_irasai: []
 patikimumas: 'aukštas'
 tags: []
 ---
-# Ceremoninis valdovo sutikimas ir miesto vartų atvėrimas
+# Ceremoninis valdovo sutikimas ir miesto vartų atvėrimas (miestas)
 
 ## Santrauka
 

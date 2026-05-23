@@ -6,18 +6,13 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-datos:
-  - '1569 m.'
-  - '1944 m.'
-  - '1951 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
+datos: []
+periodas: ''
+periodo_grupes: []
 amziai:
-  - 'XVI'
-  - 'XX'
-date_start: '1569'
-date_end: '1951'
+  - 'M'
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - autorius
@@ -201,6 +196,6 @@ Vėliau čia mokėsi visa eilė didžių veikėjų, kaip antai: Maironis, Jakšt
 - [[objektai/ivykiai/Užpelkių kautynės]]
 - [[objektai/ivykiai/Užpelkių kautynės (1949 m.)]]
 - [[objektai/vietos/Vilkija]]
-- [[objektai/zodynas/tautinis krikštas]]
+- [[objektai/zodynas/tautinis krikštas|tautinis krikštas (krikštas)]]
 - [[objektai/zodynas/destalinizacija atšilimo laikotarpis]]
 - [[objektai/zodynas/destalinizacija postalininis metas atšilimo laikotarpis]]

@@ -2,8 +2,12 @@
 tipas: paprotys
 pavadinimas: "Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme"
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Kandidatas 15 Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme'
+  - 'Kandidatas Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme'
+aliases:
+  - 'Kandidatas 15 Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme'
+  - 'Kandidatas Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'

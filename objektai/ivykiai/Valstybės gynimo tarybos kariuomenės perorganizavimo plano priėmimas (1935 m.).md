@@ -55,4 +55,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Valstybės gynimo taryba]]
+- [[objektai/grupes/Valstybės gynimo taryba|Valstybės gynimo taryba (institucija)]]

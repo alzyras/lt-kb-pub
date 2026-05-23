@@ -47,5 +47,4 @@ Demokratija Lietuvoje, pasak A.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/A. Smetona|A. Smetona (prezidentas, XX a.)]]
 - [[objektai/vietos/Lietuva]]

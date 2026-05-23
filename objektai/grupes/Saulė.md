@@ -108,7 +108,7 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
 - [[objektai/vietos/Ispanija]]
 - [[objektai/autoriai/V. Pisani]]
 - [[objektai/autoriai/W. Schmidt]]
-- [[objektai/vietos/Žemaičių kraštas]]
+- [[objektai/vietos/Žemaičių kraštas|Žemaičių kraštas (kraštas)]]
 - [[objektai/vietos/Marijampolė]]
 - [[objektai/vietos/Viena]]
 - [[objektai/daiktai/Šarvai]]

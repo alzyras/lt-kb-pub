@@ -94,7 +94,7 @@ Nenurodyta
 - [[temos/privilegija]]
 
 ### Susiję objektai
-- [[objektai/ivykiai/Žemaičių kunigaikštystės privilegija]]
+- [[objektai/ivykiai/Žemaičių kunigaikštystės privilegija|Žemaičių kunigaikštystės privilegija (privilegija)]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Viena]]
 - [[objektai/zodynas/kunigaikštija]]

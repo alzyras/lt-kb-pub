@@ -83,4 +83,4 @@ Nenurodyta
 - [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/Suverenitetas]]
 - [[objektai/zodynas/konstitucijos]]
-- [[objektai/grupes/Lietuvos Respublikos Seimas]]
+- [[objektai/grupes/Lietuvos Respublikos Seimas|Lietuvos Respublikos Seimas (seimas)]]

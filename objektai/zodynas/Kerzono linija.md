@@ -123,4 +123,4 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
 - [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/vietos/Volia]]
-- [[objektai/grupes/Aukščiausioji Santarvininkių Taryba]]
+- [[objektai/grupes/Aukščiausioji Santarvininkių Taryba|Aukščiausioji Santarvininkių Taryba (institucija)]]

@@ -1,9 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'IV Seimas'
+pavadinimas: 'IV Seimas (seimas)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'IV Seimas'
+aliases:
+  - 'IV Seimas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
@@ -13,7 +15,7 @@ tags:
   - seimas
   - tauta
 ---
-# IV Seimas
+# IV Seimas (seimas)
 
 ## Santrauka
 
@@ -45,4 +47,6 @@ Dėl to atgaivinta Seimo institucija.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
 - [[objektai/ivykiai/IV Seimo rinkimai (1936 m. vasara)]]
+- [[objektai/asmenys/Vladas Mironas]]

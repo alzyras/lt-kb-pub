@@ -72,5 +72,4 @@ Caro valdžia: „Čia nebus Lenkijos“ Po sukilimo Lenkijos karalystė neteko 
 - [[objektai/vietos/Viena]]
 - [[objektai/zodynas/pradai]]
 - [[objektai/zodynas/unija]]
-- [[objektai/paprociai/Carinės „lenkų pradų naikinimo“ rusinimo praktikos]]
 - [[objektai/zodynas/lenkų pradų naikinimo politika]]

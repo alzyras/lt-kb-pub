@@ -112,5 +112,5 @@ Nenurodyta
 - [[objektai/paprociai/Išeiginės aukos per metines viešes]]
 - [[objektai/autoriai/Józef Wolff]]
 - [[objektai/zodynas/Romuva ir krivis]]
-- [[objektai/paprociai/Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas]]
+- [[objektai/paprociai/Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas|Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas (institucija)]]
 - [[objektai/daiktai/Torielius]]

@@ -1,9 +1,11 @@
 ---
 tipas: posakis
-pavadinimas: '„Lietuvoje pradėjo valdyti pašėlęs (okajauyj), nedorovingas, prakeiktas ir negailestingas Traidenis“'
+pavadinimas: "„Lietuvoje pradėjo valdyti pašėlęs (okajauyj), nedorovingas, prakeiktas ir negailestingas Traidenis“"
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'Lietuvoje pradėjo valdyti pašėlęs (okajauyj), nedorovingas, prakeiktas ir negailestingas Traidenis'
+aliases:
+  - 'Lietuvoje pradėjo valdyti pašėlęs (okajauyj), nedorovingas, prakeiktas ir negailestingas Traidenis'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos: []
@@ -25,6 +27,12 @@ ji pradžioje pažymi : « Lietuvoje pradėjo valdyti pašėlęs (okajauyj), ned
 ## Teiginiai
 - t-001
   teiginys: 'Traidenis apibūdintas kaip pašėlęs, nedorovingas, prakeiktas ir negailestingas Lietuvos valdovas.'
+  pagrindžia:
+    - c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: 'Cituojama kronika Traidenį vadino pašėlusiu, nedorovingu, prakeiktu ir negailestingu Lietuvos valdovu.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -54,5 +62,6 @@ ji pradžioje pažymi : « Lietuvoje pradėjo valdyti pašėlęs (okajauyj), ned
 ### Susiję objektai
 - [[objektai/vietos/Jeruzalė]]
 - [[objektai/vietos/Lietuva]]
-- [[objektai/posakiai/Lietuvoje pradėjo valdyti pašėlęs (okajauyj), nedorovingas, prakeiktas ir negailestingas Traidenis]]
 - [[objektai/asmenys/Traidenis]]
+- [[objektai/zodynas/lietopisis]]
+- [[objektai/zodynas/lietopisis lietopisiai]]

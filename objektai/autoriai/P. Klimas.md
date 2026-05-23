@@ -11,24 +11,12 @@ vaidmenys:
   - 'autorius'
   - 'Vykdomojo Komiteto biuro narys'
   - 'Lietuvos Tarybos narys'
-datos:
-  - '1200 m.'
-  - '1917 m.'
-  - '1918 m.'
-  - '1919 m.'
-  - '1920 m.'
-  - '1921 m.'
-  - '1923 m.'
-  - '1928 m.'
-  - '1939 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XII'
-  - 'XX'
-date_start: '1200'
-date_end: '1939'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'aukštas'
 tags:
   - autorius

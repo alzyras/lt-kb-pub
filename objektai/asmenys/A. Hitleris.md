@@ -1,9 +1,11 @@
 ---
 tipas: asmuo
-pavadinimas: 'A. Hitleris'
+pavadinimas: 'Adolfas Hitleris (XX a.)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'A. Hitleris'
+aliases:
+  - 'A. Hitleris'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
@@ -22,7 +24,7 @@ tags:
   - karas
   - sutartis
 ---
-# A. Hitleris
+# Adolfas Hitleris (XX a.)
 
 ## Santrauka
 
@@ -79,3 +81,5 @@ Hitleris, o 1934 m. po perversmų įsitvirtino autoritariniai režimai Estijoje 
 - [[objektai/vietos/Lenkija]]
 - [[objektai/zodynas/maršalas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/SA smogikai]]
+- [[objektai/ivykiai/Vokietijos ultimatumas ir Klaipėdos krašto perdavimas Vokietijai (1939 m. kovo 20-23 d.)]]

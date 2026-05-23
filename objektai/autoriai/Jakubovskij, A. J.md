@@ -1,9 +1,11 @@
 ---
 tipas: autorius
-pavadinimas: 'Jakubovskij, A. J'
+pavadinimas: "Jakubovskij, A. J"
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'A. J. Jakubovskij'
+aliases:
+  - 'A. J. Jakubovskij'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -33,6 +35,12 @@ Grekov, B. D. i Jakubov ­ skij, A. J. : Zolotaja Orda i ee padenije, Moskva-Len
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'A. J. Jakubovskij su B. D. Grekovu parašė veikalą „Zolotaja Orda i ee padenije“, išleistą Maskvoje ir Leningrade 1950 m.'
+  pagrindžia:
+    - c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -54,3 +62,4 @@ Grekov, B. D. i Jakubov ­ skij, A. J. : Zolotaja Orda i ee padenije, Moskva-Len
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Varšuva]]
+- [[objektai/vietos/Maskva]]

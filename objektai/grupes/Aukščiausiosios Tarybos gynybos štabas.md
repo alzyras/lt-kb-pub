@@ -1,9 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'Aukščiausiosios Tarybos gynybos štabas'
+pavadinimas: 'Aukščiausiosios Tarybos gynybos štabas (institucija)'
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'Aukščiausiosios Tarybos gynybos štabas'
+aliases:
+  - 'Aukščiausiosios Tarybos gynybos štabas'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
@@ -19,7 +21,7 @@ patikimumas: 'vidutinis'
 tags:
   - grupe
 ---
-# Aukščiausiosios Tarybos gynybos štabas
+# Aukščiausiosios Tarybos gynybos štabas (institucija)
 
 ## Santrauka
 
@@ -51,7 +53,7 @@ p. 254, Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius,
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Aukščiausiosios Tarybos rūmai]]
+- [[objektai/vietos/Aukščiausiosios Tarybos rūmai|Aukščiausiosios Tarybos rūmai (institucija)]]
 - [[objektai/asmenys/Audrius Butkevičius]]
 - [[objektai/asmenys/Jonas Gečas]]
 - [[objektai/asmenys/Virginijus Česnulevičius]]

@@ -1,9 +1,11 @@
 ---
 tipas: ivykis
-pavadinimas: 'Žemaičių kunigaikštystės privilegija'
+pavadinimas: 'Žemaičių kunigaikštystės privilegija (privilegija)'
 sukurta: '2026-04-25'
-variantai: []
-aliases: []
+variantai:
+  - 'Žemaičių kunigaikštystės privilegija'
+aliases:
+  - 'Žemaičių kunigaikštystės privilegija'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
@@ -13,7 +15,7 @@ tags:
   - kunigaikštis
   - privilegija
 ---
-# Žemaičių kunigaikštystės privilegija
+# Žemaičių kunigaikštystės privilegija (privilegija)
 
 ## Santrauka
 

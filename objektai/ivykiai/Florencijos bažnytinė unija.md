@@ -1,9 +1,11 @@
 ---
 tipas: ivykis
-pavadinimas: 'Florencijos bažnytinė unija'
+pavadinimas: 'Florencijos bažnytinė unija (unija)'
 sukurta: '2026-05-18'
-variantai: []
-aliases: []
+variantai:
+  - 'Florencijos bažnytinė unija'
+aliases:
+  - 'Florencijos bažnytinė unija'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
@@ -22,7 +24,7 @@ tags:
   - unija
   - vyskupas
 ---
-# Florencijos bažnytinė unija
+# Florencijos bažnytinė unija (unija)
 
 ## Santrauka
 
@@ -73,7 +75,7 @@ Nenurodyta
 - [[objektai/vietos/Florencija]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Stačiatikiai]]
-- [[objektai/zodynas/bažnytinė unija]]
+- [[objektai/zodynas/bažnytinė unija|bažnytinė unija (unija)]]
 - [[objektai/zodynas/metropolija]]
 - [[objektai/zodynas/unija]]
 - [[objektai/grupes/Katalikų Bažnyčia]]

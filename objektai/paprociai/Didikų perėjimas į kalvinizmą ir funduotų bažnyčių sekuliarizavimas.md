@@ -2,8 +2,12 @@
 tipas: paprotys
 pavadinimas: "Didikų perėjimas į kalvinizmą ir funduotų bažnyčių sekuliarizavimas"
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Kandidatas 33 Didikų perėjimas į kalvinizmą ir funduotų bažnyčių sekuliarizavimas'
+  - 'Kandidatas Didikų perėjimas į kalvinizmą ir funduotų bažnyčių sekuliarizavimas'
+aliases:
+  - 'Kandidatas 33 Didikų perėjimas į kalvinizmą ir funduotų bažnyčių sekuliarizavimas'
+  - 'Kandidatas Didikų perėjimas į kalvinizmą ir funduotų bažnyčių sekuliarizavimas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'

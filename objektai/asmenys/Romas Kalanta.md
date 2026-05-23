@@ -132,6 +132,6 @@ tags:
 ### Susiję objektai
 - [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/vietos/Kauno miesto sodas]]
+- [[objektai/vietos/Kauno miesto sodas|Kauno miesto sodas (miestas)]]
 - [[objektai/posakiai/Laisvę Lietuvai!]]
 - [[objektai/daiktai/Romo Kalantos atminimo paminklai ir simboliai]]

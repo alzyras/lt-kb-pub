@@ -134,7 +134,6 @@ Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Švei
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/A. Smetona|A. Smetona (prezidentas, XX a.)]]
 - [[objektai/vietos/Europa]]
 - [[objektai/grupes/Liaudies vyriausybė]]
 - [[objektai/vietos/Lietuva]]

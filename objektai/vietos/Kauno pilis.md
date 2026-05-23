@@ -1,9 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Kauno pilis'
+pavadinimas: 'Kauno pilis (pilis)'
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'Kauno pilis'
+aliases:
+  - 'Kauno pilis'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -34,7 +36,7 @@ tags:
   - pilis
   - vieta
 ---
-# Kauno pilis
+# Kauno pilis (pilis)
 
 ## Santrauka
 

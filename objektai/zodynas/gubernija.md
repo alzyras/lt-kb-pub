@@ -89,7 +89,7 @@ Vietinio valdymo grandyje buvo gubernija, kurios galva – caro skiriamas, bet v
 - [[objektai/autoriai/P. Girdzijauskienė]]
 - [[objektai/vietos/Pakuršė]]
 - [[objektai/vietos/Palangos pajūris]]
-- [[objektai/vietos/Rusijos šiaurės vakarų kraštas]]
+- [[objektai/vietos/Rusijos šiaurės vakarų kraštas|Rusijos šiaurės vakarų kraštas (kraštas)]]
 - [[objektai/paprociai/Rusiškų mokyklų boikotas ir slaptos daraktorinės mokyklėlės]]
 - [[objektai/ivykiai/Rūdninkų ir Dubičių kautynės]]
 - [[objektai/asmenys/Steponas Kairys]]

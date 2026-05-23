@@ -45,4 +45,4 @@ Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymi�
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/posakiai/„Mano adresas ne namas ir ne gatvė, mano adresas Tarybų Sąjunga“]]
+- [[objektai/posakiai/„Mano adresas ne namas ir ne gatvė, mano adresas Tarybų Sąjunga“|„Mano adresas ne namas ir ne gatvė, mano adresas Tarybų Sąjunga“ (institucija)]]

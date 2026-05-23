@@ -2,8 +2,12 @@
 tipas: paprotys
 pavadinimas: "Gamtos reiškinių sudievinimas ir šventviečių telkimasis"
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Kandidatas 7 Gamtos reiškinių sudievinimas ir šventviečių telkimasis'
+  - 'Kandidatas Gamtos reiškinių sudievinimas ir šventviečių telkimasis'
+aliases:
+  - 'Kandidatas 7 Gamtos reiškinių sudievinimas ir šventviečių telkimasis'
+  - 'Kandidatas Gamtos reiškinių sudievinimas ir šventviečių telkimasis'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'

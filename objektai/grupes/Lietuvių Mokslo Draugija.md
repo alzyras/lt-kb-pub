@@ -1,9 +1,13 @@
 ---
 tipas: grupe
-pavadinimas: 'Lietuvių Mokslo Draugija'
+pavadinimas: "Lietuvių Mokslo Draugija"
 sukurta: '2026-04-25'
-variantai: []
-aliases: []
+variantai:
+  - 'Lietuvių Mokslo Draugija (Amerikoje)'
+  - 'Lietuvių Mokslo Draugija'
+aliases:
+  - 'Lietuvių Mokslo Draugija (Amerikoje)'
+  - 'Lietuvių Mokslo Draugija'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
@@ -87,7 +91,8 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
   santrauka: 'Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos 1905 m. dėtos, beje, solidariai lietuvių ir lenkų intelektualų, susitarus, kad jame būtų dėstoma bent trimis kalbomis), įkurtos Lietuvių mokslo draugija, plėtojusi etninių lietuvių tautinį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos
+    Lygia greta Lietuvoje veikė ir lenkų bei lietuvių kultūrinės organizaci-
+    jos. Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos
     1905 m. dėtos, beje, solidariai lietuvių ir lenkų intelektualų, susitarus, kad
     jame būtų dėstoma bent trimis kalbomis), įkurtos Lietuvių mokslo draugija,
     plėtojusi etninių lietuvių tautinį sąjūdį, ir Vilniaus mokslo bičiulių draugija,
@@ -123,10 +128,11 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/J. Basanavičius]]
 - [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Viena]]
 - [[objektai/vietos/Vilnius]]
-- [[objektai/grupes/Lietuvių Mokslo Draugija (Amerikoje)]]
 - [[objektai/paprociai/Lietuvių ir lenkų kultūrinių draugijų paralelizmas, tyrimai ir viešos parodos]]
 - [[objektai/ivykiai/Lietuvių mokslo draugijos ir Vilniaus mokslo bičiulių draugijos įkūrimas]]

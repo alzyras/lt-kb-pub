@@ -58,4 +58,3 @@ Nenurodyta
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Vladas Mironas]]
-- [[objektai/asmenys/V. Mironas|V. Mironas (kunigas)]]

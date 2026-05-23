@@ -95,6 +95,6 @@ Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užė
 - [[objektai/grupes/Švedai]]
 - [[objektai/vietos/Švedija]]
 - [[objektai/daiktai/Eriko Dalbergo graviūra „Urbs et Castellum Brestzie Litewski a S.R.M. Suecix die“]]
-- [[objektai/vietos/Kuoknesės pilis]]
+- [[objektai/vietos/Kuoknesės pilis|Kuoknesės pilis (pilis)]]
 - [[objektai/vietos/Paidė]]
 - [[objektai/vietos/Viljandis]]

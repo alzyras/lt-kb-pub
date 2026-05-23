@@ -181,7 +181,6 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
 ### Susiję objektai
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/vietos/Europa]]
-- [[objektai/autoriai/J. Jakštas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]

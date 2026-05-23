@@ -101,4 +101,4 @@ tags:
 - [[objektai/grupes/Žiemgaliai]]
 - [[objektai/grupes/Jotvingiai]]
 - [[objektai/zodynas/kuopiniai kaimai]]
-- [[objektai/posakiai/moterų kraštas]]
+- [[objektai/posakiai/moterų kraštas|moterų kraštas (kraštas)]]

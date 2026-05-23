@@ -1,9 +1,11 @@
 ---
 tipas: ivykis
-pavadinimas: 'Mindaugo krikštas'
+pavadinimas: 'Mindaugo krikštas (krikštas)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Mindaugo krikštas'
+aliases:
+  - 'Mindaugo krikštas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
@@ -26,7 +28,7 @@ tags:
   - karas
   - ordinas
 ---
-# Mindaugo krikštas
+# Mindaugo krikštas (krikštas)
 
 ## Santrauka
 

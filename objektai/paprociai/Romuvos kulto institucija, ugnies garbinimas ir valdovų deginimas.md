@@ -1,9 +1,15 @@
 ---
 tipas: paprotys
-pavadinimas: "Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas"
+pavadinimas: 'Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas (institucija)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas'
+  - 'Kandidatas 9 Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas'
+  - 'Kandidatas Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas'
+aliases:
+  - 'Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas'
+  - 'Kandidatas 9 Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas'
+  - 'Kandidatas Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
@@ -12,7 +18,7 @@ tags:
   - valdovas
   - valstybė
 ---
-# Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas
+# Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas (institucija)
 
 ## Santrauka
 

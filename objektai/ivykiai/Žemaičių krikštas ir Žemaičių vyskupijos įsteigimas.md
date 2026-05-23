@@ -1,9 +1,11 @@
 ---
 tipas: ivykis
-pavadinimas: 'Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas'
+pavadinimas: 'Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas (krikštas)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas'
+aliases:
+  - 'Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
@@ -13,7 +15,7 @@ tags:
   - ordinas
   - tauta
 ---
-# Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas
+# Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas (krikštas)
 
 ## Santrauka
 

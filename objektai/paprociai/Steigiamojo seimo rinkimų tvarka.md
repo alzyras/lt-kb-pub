@@ -1,9 +1,11 @@
 ---
 tipas: paprotys
-pavadinimas: 'Steigiamojo seimo rinkimų tvarka'
+pavadinimas: 'Steigiamojo seimo rinkimų tvarka (seimas)'
 sukurta: '2026-04-25'
-variantai: []
-aliases: []
+variantai:
+  - 'Steigiamojo seimo rinkimų tvarka'
+aliases:
+  - 'Steigiamojo seimo rinkimų tvarka'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
@@ -13,7 +15,7 @@ tags:
   - seimas
   - sutartis
 ---
-# Steigiamojo seimo rinkimų tvarka
+# Steigiamojo seimo rinkimų tvarka (seimas)
 
 ## Santrauka
 

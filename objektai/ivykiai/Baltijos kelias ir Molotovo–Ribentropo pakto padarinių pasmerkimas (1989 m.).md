@@ -113,4 +113,4 @@ Nenurodyta
 - [[objektai/vietos/SSRS]]
 - [[objektai/vietos/Vilnius]]
 - [[objektai/vietos/Vokietija]]
-- [[objektai/vietos/Aukščiausiosios Tarybos rūmai]]
+- [[objektai/vietos/Aukščiausiosios Tarybos rūmai|Aukščiausiosios Tarybos rūmai (institucija)]]

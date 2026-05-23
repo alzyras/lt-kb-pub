@@ -80,7 +80,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/A. Smetona|A. Smetona (prezidentas, XX a.)]]
 - [[objektai/vietos/Latvija]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Viena]]

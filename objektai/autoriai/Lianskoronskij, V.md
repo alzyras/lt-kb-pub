@@ -6,19 +6,13 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos:
-  - '1399 m.'
-  - '1907 m.'
-  - '1908 m.'
-  - '1910 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
+datos: []
+periodas: ''
+periodo_grupes: []
 amziai:
-  - 'XIV'
-  - 'XX'
-date_start: '1399'
-date_end: '1910'
+  - 'LI'
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - autorius

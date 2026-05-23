@@ -77,7 +77,7 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
 - [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Horacijus]]
 - [[objektai/paprociai/Jėzuitiškas mokymas ir katalikybės sklaida per Vilniaus universitetą]]
-- [[objektai/paprociai/Klaipėdos krašto autonominis režimas]]
+- [[objektai/paprociai/Klaipėdos krašto autonominis režimas|Klaipėdos krašto autonominis režimas (kraštas)]]
 - [[objektai/ivykiai/Lietuvos atsisakymas žygiuoti į Vilnių Vokietijos ir Lenkijos karo metu (1939 m. rugsėjis)]]
 - [[objektai/autoriai/Martynas Smigleckis]]
 - [[objektai/asmenys/Motiejus Kazimieras Sarbievijus]]

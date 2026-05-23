@@ -128,7 +128,7 @@ Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Liet
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/asmenys/Artūras Sakalauskas]]
 - [[objektai/grupes/Jedinstvo]]
-- [[objektai/grupes/Lietuvos Taryba]]
+- [[objektai/grupes/Lietuvos Taryba|Lietuvos Taryba (institucija)]]
 - [[objektai/ivykiai/Sovietų Sąjungos Lietuvos okupacija ir aneksija (1940 m.)]]
 - [[objektai/ivykiai/Baltijos valstybių okupavimas ir įjungimas į SSRS sudėtį (1940 m. vasara)]]
 - [[objektai/vietos/Sibiras]]

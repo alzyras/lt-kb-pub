@@ -117,4 +117,4 @@ tags:
 - [[objektai/asmenys/Vladislovas iš Opolės]]
 - [[objektai/asmenys/Zigmantas Liuksemburgietis]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/ivykiai/1425 m. Bresto (Kujavijoj) seimas]]
+- [[objektai/ivykiai/1425 m. Bresto (Kujavijoj) seimas|1425 m. Bresto (Kujavijoj) seimas (seimas, XV a.)]]

@@ -60,7 +60,7 @@ Prieš švedus ir jų sąjungininkus taip pat kovojo vadinamoji bajorų konfeder
 - [[objektai/asmenys/Mykolas]]
 - [[objektai/zodynas/konfederacija]]
 - [[objektai/grupes/Švedai]]
-- [[objektai/vietos/Biržų pilis]]
+- [[objektai/vietos/Biržų pilis|Biržų pilis (pilis)]]
 - [[objektai/asmenys/Jonas Kazimieras Vaza]]
 - [[objektai/asmenys/Kristupas Pacas]]
 - [[objektai/asmenys/Mykolas Pacas]]

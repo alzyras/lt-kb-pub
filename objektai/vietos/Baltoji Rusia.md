@@ -50,6 +50,7 @@ Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/vietos/Ukraina]]
 - [[objektai/vietos/Vitebskas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/grupes/Mongolų imperija]]
 - [[objektai/vietos/Vakarų Ukraina]]
 - [[objektai/vietos/Polockas]]

@@ -1,9 +1,13 @@
 ---
 tipas: ivykis
-pavadinimas: 'Dovydiškių sutarties sudarymas (1380 m. gegužės 31 d.)'
+pavadinimas: "Dovydiškių sutarties sudarymas (1380 m. gegužės 31 d.)"
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'Dovydiškių sutarties sudarymas (sutartis)'
+  - 'Dovydiškių sutarties sudarymas'
+aliases:
+  - 'Dovydiškių sutarties sudarymas (sutartis)'
+  - 'Dovydiškių sutarties sudarymas'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -68,7 +72,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/ivykiai/Dovydiškių sutarties sudarymas]]
 - [[objektai/daiktai/Kardas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

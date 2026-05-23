@@ -1,9 +1,11 @@
 ---
 tipas: ivykis
-pavadinimas: 'Gardino seimas ir antrojo LLV padalijimo patvirtinimas'
+pavadinimas: 'Gardino seimas ir antrojo LLV padalijimo patvirtinimas (seimas)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Gardino seimas ir antrojo LLV padalijimo patvirtinimas'
+aliases:
+  - 'Gardino seimas ir antrojo LLV padalijimo patvirtinimas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
@@ -11,7 +13,7 @@ tags:
   - ivykis
   - seimas
 ---
-# Gardino seimas ir antrojo LLV padalijimo patvirtinimas
+# Gardino seimas ir antrojo LLV padalijimo patvirtinimas (seimas)
 
 ## Santrauka
 

@@ -123,4 +123,4 @@ Nenurodyta
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/grupes/Vokiečių ordinas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/vietos/Fogelzango pilis]]
+- [[objektai/vietos/Fogelzango pilis|Fogelzango pilis (pilis)]]

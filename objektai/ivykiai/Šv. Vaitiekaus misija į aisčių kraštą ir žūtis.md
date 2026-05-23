@@ -1,9 +1,11 @@
 ---
 tipas: ivykis
-pavadinimas: 'Šv. Vaitiekaus misija į aisčių kraštą ir žūtis'
+pavadinimas: 'Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (kraštas)'
 sukurta: '2026-04-25'
-variantai: []
-aliases: []
+variantai:
+  - 'Šv. Vaitiekaus misija į aisčių kraštą ir žūtis'
+aliases:
+  - 'Šv. Vaitiekaus misija į aisčių kraštą ir žūtis'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
@@ -13,7 +15,7 @@ tags:
   - kunigas
   - vyskupas
 ---
-# Šv. Vaitiekaus misija į aisčių kraštą ir žūtis
+# Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (kraštas)
 
 ## Santrauka
 

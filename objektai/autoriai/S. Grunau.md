@@ -87,6 +87,5 @@ tags:
 - [[objektai/vietos/Gudija]]
 - [[objektai/vietos/Gumbinė]]
 - [[objektai/grupes/Habsburgai]]
-- [[objektai/ivykiai/Žalgirio mūšis]]
 - [[objektai/vietos/Žalgiris]]
 - [[objektai/paprociai/Aisčių ugnies kultas ir šventoji namų ugnelė]]

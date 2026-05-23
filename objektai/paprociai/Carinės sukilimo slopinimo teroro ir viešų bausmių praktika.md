@@ -1,9 +1,15 @@
 ---
 tipas: paprotys
-pavadinimas: "Carinės sukilimo slopinimo teroro ir viešų bausmių praktika"
+pavadinimas: 'Carinės sukilimo slopinimo teroro ir viešų bausmių praktika (sukilimas)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Carinės sukilimo slopinimo teroro ir viešų bausmių praktika'
+  - 'Kandidatas 54 Carinės sukilimo slopinimo teroro ir viešų bausmių praktika'
+  - 'Kandidatas Carinės sukilimo slopinimo teroro ir viešų bausmių praktika'
+aliases:
+  - 'Carinės sukilimo slopinimo teroro ir viešų bausmių praktika'
+  - 'Kandidatas 54 Carinės sukilimo slopinimo teroro ir viešų bausmių praktika'
+  - 'Kandidatas Carinės sukilimo slopinimo teroro ir viešų bausmių praktika'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
@@ -13,7 +19,7 @@ tags:
   - reforma
   - sukilimas
 ---
-# Carinės sukilimo slopinimo teroro ir viešų bausmių praktika
+# Carinės sukilimo slopinimo teroro ir viešų bausmių praktika (sukilimas)
 
 ## Santrauka
 

@@ -109,6 +109,6 @@ tags:
 - [[objektai/ivykiai/Dubysos salos derybos su Ordinu (1396 m.)]]
 - [[objektai/autoriai/J. Posilge]]
 - [[objektai/asmenys/Jonas von Posilge]]
-- [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija]]
+- [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija|Įkaitų davimas kaip sutarties garantija (sutartis)]]
 - [[objektai/ivykiai/Apuolės apgula (853 m.)]]
 - [[objektai/vietos/Pavyslys]]

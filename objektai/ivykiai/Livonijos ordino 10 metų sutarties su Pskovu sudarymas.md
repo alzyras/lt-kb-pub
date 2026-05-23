@@ -1,9 +1,11 @@
 ---
 tipas: ivykis
-pavadinimas: 'Livonijos ordino 10 metų sutarties su Pskovu sudarymas'
+pavadinimas: 'Livonijos ordino 10 metų sutarties su Pskovu sudarymas (sutartis)'
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'Livonijos ordino 10 metų sutarties su Pskovu sudarymas'
+aliases:
+  - 'Livonijos ordino 10 metų sutarties su Pskovu sudarymas'
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos: []
@@ -19,7 +21,7 @@ tags:
   - sutartis
   - tauta
 ---
-# Livonijos ordino 10 metų sutarties su Pskovu sudarymas
+# Livonijos ordino 10 metų sutarties su Pskovu sudarymas (sutartis)
 
 ## Santrauka
 

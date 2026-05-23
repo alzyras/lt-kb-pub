@@ -1,9 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'Lenkijos valstybės taryba'
+pavadinimas: 'Lenkijos valstybės taryba (institucija)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Lenkijos valstybės taryba'
+aliases:
+  - 'Lenkijos valstybės taryba'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos: []
@@ -19,7 +21,7 @@ tags:
   - kunigaikštis
   - valstybė
 ---
-# Lenkijos valstybės taryba
+# Lenkijos valstybės taryba (institucija)
 
 ## Santrauka
 
@@ -108,6 +110,6 @@ Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės tar
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Personalinė unija]]
+- [[objektai/zodynas/Personalinė unija|Personalinė unija (unija)]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/unija]]

@@ -1,12 +1,14 @@
 ---
 tipas: 'vieta'
-pavadinimas: 'Aukščiausiosios Tarybos rūmai'
+pavadinimas: 'Aukščiausiosios Tarybos rūmai (institucija)'
 sukurta: '2026-05-02'
 variantai:
   - 'AT rūmai'
   - 'Parlamento rūmai'
   - 'Aukščiausiosios Tarybos'
-aliases: []
+  - 'Aukščiausiosios Tarybos rūmai'
+aliases:
+  - 'Aukščiausiosios Tarybos rūmai'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 bukle: 'juodrastis'
@@ -24,7 +26,7 @@ date_end: ''
 patikimumas: 'vidutinis'
 tags: []
 ---
-# Aukščiausiosios Tarybos rūmai
+# Aukščiausiosios Tarybos rūmai (institucija)
 
 ## Santrauka
 
@@ -153,18 +155,19 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/paprociai/Aukščiausiosios Tarybos gynybos savitarpio aprūpinimo praktika]]
+- [[objektai/paprociai/Aukščiausiosios Tarybos gynybos savitarpio aprūpinimo praktika|Aukščiausiosios Tarybos gynybos savitarpio aprūpinimo praktika (institucija)]]
 - [[objektai/ivykiai/Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/ivykiai/1991 m. sausio 13 d]]
 - [[objektai/grupes/ATAS]]
 - [[objektai/ivykiai/Algirdo Brazausko tapimas LKP CK pirmuoju sekretoriumi ir Vilniaus arkikatedros grąžinimas tikintiesiems (1988 m. spalis)]]
 - [[objektai/asmenys/Aloyzas Sakalas]]
+- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
 - [[objektai/grupes/Antantė]]
 - [[objektai/asmenys/Arvydas Pocius]]
 - [[objektai/asmenys/Audrius Butkevičius]]
-- [[objektai/grupes/Aukščiausioji Taryba]]
-- [[objektai/grupes/Aukščiausiosios Tarybos gynybos štabas]]
+- [[objektai/grupes/Aukščiausioji Taryba|Aukščiausioji Taryba (institucija)]]
+- [[objektai/grupes/Aukščiausiosios Tarybos gynybos štabas|Aukščiausiosios Tarybos gynybos štabas (institucija)]]
 - [[objektai/asmenys/Bronislovas Kuzmickas]]
 - [[objektai/autoriai/Dalius Žygelis]]
 - [[objektai/daiktai/Iž-17 medžioklinis šautuvas]]
@@ -174,7 +177,7 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
 - [[objektai/asmenys/Kazimieras Motieka]]
 - [[objektai/vietos/Kiauneliškiai]]
 - [[objektai/ivykiai/Lietuvių kalbos ir Lietuvos simbolių legalizavimas (1988 m. spalio 6 d.)]]
-- [[objektai/grupes/Lietuvos SSR Aukščiausioji Taryba]]
+- [[objektai/grupes/Lietuvos SSR Aukščiausioji Taryba|Lietuvos SSR Aukščiausioji Taryba (institucija)]]
 - [[objektai/grupes/Lietuvos komunistų partija]]
 - [[objektai/autoriai/Ričardas Čekutis]]
 - [[objektai/autoriai/V. Kudirka]]

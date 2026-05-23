@@ -163,6 +163,6 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
 - [[objektai/ivykiai/Karusės mūšis (1270 m. vasario 16 d.)]]
 - [[objektai/asmenys/Ottonas Luterbergas]]
 - [[objektai/vietos/Piltenė]]
-- [[objektai/grupes/Rygos miesto taryba]]
+- [[objektai/grupes/Rygos miesto taryba|Rygos miesto taryba (institucija)]]
 - [[objektai/vietos/Saremos]]
 - [[objektai/vietos/Tartai]]

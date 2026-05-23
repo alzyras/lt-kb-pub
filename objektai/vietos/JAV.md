@@ -127,7 +127,7 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Amerikos lietuvių taryba]]
+- [[objektai/grupes/Amerikos lietuvių taryba|Amerikos lietuvių taryba (institucija)]]
 - [[objektai/vietos/Brazilija]]
 - [[objektai/vietos/Europa]]
 - [[objektai/vietos/Lietuva]]
@@ -137,5 +137,5 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
 - [[objektai/vietos/Vatikanas]]
 - [[objektai/grupes/Pasaulio lietuvių bendruomenė]]
 - [[objektai/vietos/Prancūzija]]
-- [[objektai/grupes/Vyriausiasis Lietuvos išlaisvinimo komitetas]]
+- [[objektai/grupes/Vyriausiasis Lietuvos išlaisvinimo komitetas|Vyriausiasis Lietuvos išlaisvinimo komitetas (institucija)]]
 - [[objektai/vietos/Kolumbija]]

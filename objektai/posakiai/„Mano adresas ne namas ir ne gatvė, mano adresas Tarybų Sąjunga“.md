@@ -1,9 +1,11 @@
 ---
 tipas: posakis
-pavadinimas: '„Mano adresas ne namas ir ne gatvė, mano adresas Tarybų Sąjunga“'
+pavadinimas: '„Mano adresas ne namas ir ne gatvė, mano adresas Tarybų Sąjunga“ (institucija)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - '„Mano adresas ne namas ir ne gatvė, mano adresas Tarybų Sąjunga“'
+aliases:
+  - '„Mano adresas ne namas ir ne gatvė, mano adresas Tarybų Sąjunga“'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
@@ -11,7 +13,7 @@ tags:
   - posakis
   - tauta
 ---
-# „Mano adresas ne namas ir ne gatvė, mano adresas Tarybų Sąjunga“
+# „Mano adresas ne namas ir ne gatvė, mano adresas Tarybų Sąjunga“ (institucija)
 
 ## Santrauka
 

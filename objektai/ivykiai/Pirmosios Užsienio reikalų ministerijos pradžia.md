@@ -1,9 +1,11 @@
 ---
 tipas: ivykis
-pavadinimas: 'Pirmosios Užsienio reikalų ministerijos pradžia'
+pavadinimas: 'Pirmosios Užsienio reikalų ministerijos pradžia (institucija)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Pirmosios Užsienio reikalų ministerijos pradžia'
+aliases:
+  - 'Pirmosios Užsienio reikalų ministerijos pradžia'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
@@ -11,7 +13,7 @@ tags:
   - ivykis
   - valstybė
 ---
-# Pirmosios Užsienio reikalų ministerijos pradžia
+# Pirmosios Užsienio reikalų ministerijos pradžia (institucija)
 
 ## Santrauka
 

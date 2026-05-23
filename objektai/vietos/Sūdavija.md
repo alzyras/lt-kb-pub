@@ -65,3 +65,4 @@ Po to parašė jam dar kitą raš­ tą, kuriame labai gražiai išdėstė, kad 
 - [[objektai/asmenys/Mikalojus (Gniezno arkivyskupas)]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/vietos/Žemaitija]]
+- [[objektai/asmenys/Martynas V]]

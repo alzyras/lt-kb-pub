@@ -46,5 +46,5 @@ tags:
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuvos Respublikos švietimo ministerija]]
+- [[objektai/grupes/Lietuvos Respublikos švietimo ministerija|Lietuvos Respublikos švietimo ministerija (institucija)]]
 - [[objektai/ivykiai/Lietuvos istorijos parašymas ir išleidimas Švietimo ministerijos iniciatyva (1936 m.)]]

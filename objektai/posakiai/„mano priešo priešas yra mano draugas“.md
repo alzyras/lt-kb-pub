@@ -1,9 +1,11 @@
 ---
 tipas: posakis
-pavadinimas: '„mano priešo priešas yra mano draugas“'
+pavadinimas: "„mano priešo priešas yra mano draugas“"
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'mano priešo priešas yra mano draugas'
+aliases:
+  - 'mano priešo priešas yra mano draugas'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -33,6 +35,12 @@ Ji buvo pagrįsta gyvenimo dėsniu : mano priešo priešas yra mano draugas.
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Lietuvių ir rygiečių sąjunga buvo grindžiama dėsniu „mano priešo priešas yra mano draugas“ ir iš viso truko tris dešimtmečius.'
+  pagrindžia:
+    - c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -58,4 +66,3 @@ Ji buvo pagrįsta gyvenimo dėsniu : mano priešo priešas yra mano draugas.
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/grupes/Rygiečiai]]
-- [[objektai/posakiai/mano priešo priešas yra mano draugas]]

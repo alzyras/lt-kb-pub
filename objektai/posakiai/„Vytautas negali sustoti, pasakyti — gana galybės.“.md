@@ -1,9 +1,11 @@
 ---
 tipas: posakis
-pavadinimas: '„Vytautas negali sustoti, pasakyti — gana galybės.“'
+pavadinimas: "„Vytautas negali sustoti, pasakyti — gana galybės.“"
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'Vytautas negali sustoti, pasakyti — gana galybės'
+aliases:
+  - 'Vytautas negali sustoti, pasakyti — gana galybės'
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
@@ -36,6 +38,18 @@ Vytautas negali sustoti, pasakyti — gana galybės. Bendras jo galybės didėji
   statusas: patvirtinta
 - t-002
   teiginys: 'Vytauto galybės didėjimas santykiuose su lenkais vertė jį laisvintis iš naujų suvaržymų.'
+  pagrindžia:
+    - c-002
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-003
+  teiginys: 'Vytauto turima valdžia stūmė jį tolyn ir vertė vis didinti savo galybę.'
+  pagrindžia:
+    - c-001
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
+- t-004
+  teiginys: 'Vytauto galybės didėjimas santykiuose su lenkais vertė jį laisvintis iš naujai uždedamų suvaržymų.'
   pagrindžia:
     - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -75,4 +89,3 @@ Vytautas negali sustoti, pasakyti — gana galybės. Bendras jo galybės didėji
 ### Susiję objektai
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Lenkai]]
-- [[objektai/posakiai/Vytautas negali sustoti, pasakyti — gana galybės]]

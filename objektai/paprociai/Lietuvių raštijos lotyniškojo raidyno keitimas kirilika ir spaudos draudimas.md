@@ -2,8 +2,12 @@
 tipas: paprotys
 pavadinimas: "Lietuvių raštijos lotyniškojo raidyno keitimas kirilika ir spaudos draudimas"
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Kandidatas 59 Lietuvių raštijos lotyniškojo raidyno keitimas kirilika ir spaudos draudimas'
+  - 'Kandidatas Lietuvių raštijos lotyniškojo raidyno keitimas kirilika ir spaudos draudimas'
+aliases:
+  - 'Kandidatas 59 Lietuvių raštijos lotyniškojo raidyno keitimas kirilika ir spaudos draudimas'
+  - 'Kandidatas Lietuvių raštijos lotyniškojo raidyno keitimas kirilika ir spaudos draudimas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
@@ -95,3 +99,4 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/vietos/Rusija]]
+- [[objektai/asmenys/Michailas Muravjovas]]

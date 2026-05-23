@@ -98,7 +98,7 @@ tags:
 ### Susiję objektai
 - [[objektai/autoriai/Martynas Mažvydas Vaitkūnas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/paprociai/Aukščiausiosios Tarybos gynybos principai]]
+- [[objektai/paprociai/Aukščiausiosios Tarybos gynybos principai|Aukščiausiosios Tarybos gynybos principai (institucija)]]
 - [[objektai/ivykiai/Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)]]
 - [[objektai/vietos/Nacionalinė M. Mažvydo biblioteka]]
 - [[objektai/vietos/Žvėryno tiltas]]

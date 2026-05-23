@@ -179,8 +179,11 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Mindaugas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/vietos/Dobrynė]]
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
 - [[objektai/vietos/Kernavos kunigaikštija]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/vietos/Pinskas]]
 - [[objektai/vietos/Turovas]]
 - [[objektai/zodynas/kunigaikštija]]

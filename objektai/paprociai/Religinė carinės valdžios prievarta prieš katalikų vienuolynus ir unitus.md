@@ -2,8 +2,12 @@
 tipas: paprotys
 pavadinimas: "Religinė carinės valdžios prievarta prieš katalikų vienuolynus ir unitus"
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Kandidatas 49 Religinė carinės valdžios prievarta prieš katalikų vienuolynus ir unitus'
+  - 'Kandidatas Religinė carinės valdžios prievarta prieš katalikų vienuolynus ir unitus'
+aliases:
+  - 'Kandidatas 49 Religinė carinės valdžios prievarta prieš katalikų vienuolynus ir unitus'
+  - 'Kandidatas Religinė carinės valdžios prievarta prieš katalikų vienuolynus ir unitus'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'

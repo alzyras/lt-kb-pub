@@ -81,3 +81,4 @@ Nuterioję Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­ ka
 - [[objektai/ivykiai/Rūdavos mūšis (1370 m. vasario 17 d.)]]
 - [[objektai/vietos/Sambija]]
 - [[objektai/vietos/Semba]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

@@ -85,4 +85,4 @@ Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Varšuva]]
-- [[objektai/zodynas/delegacinis seimas]]
+- [[objektai/zodynas/delegacinis seimas|delegacinis seimas (seimas)]]

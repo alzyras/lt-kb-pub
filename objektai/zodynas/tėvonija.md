@@ -83,6 +83,7 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
 - [[objektai/grupes/Čartoriskiai]]
 - [[objektai/autoriai/J. Jaroszewicz]]
 - [[objektai/vietos/Osa]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/tėvonija tėvų palikimas]]
 - [[objektai/vietos/Klevanė]]
 - [[objektai/vietos/Kovelis]]

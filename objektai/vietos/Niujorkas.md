@@ -49,7 +49,7 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Vokietija]]
-- [[objektai/grupes/Amerikos lietuvių taryba]]
+- [[objektai/grupes/Amerikos lietuvių taryba|Amerikos lietuvių taryba (institucija)]]
 - [[objektai/ivykiai/Lietuvių laisvinimo darbo konferencija Niujorke (1974 m. spalio 26–27 d.)]]
 - [[objektai/vietos/Pensilvanija]]
 - [[objektai/vietos/White Plains]]

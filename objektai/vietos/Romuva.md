@@ -61,7 +61,7 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Nadruva]]
-- [[objektai/paprociai/Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas]]
+- [[objektai/paprociai/Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas|Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas (institucija)]]
 - [[objektai/zodynas/Alkos ir romuvos]]
 - [[objektai/zodynas/Romuva ir krivis]]
 - [[objektai/zodynas/alkos romuvos]]

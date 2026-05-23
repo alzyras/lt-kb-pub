@@ -1,9 +1,11 @@
 ---
 tipas: ivykis
-pavadinimas: 'Vytauto privilegijos žydams'
+pavadinimas: 'Vytauto privilegijos žydams (privilegija)'
 sukurta: '2026-04-25'
-variantai: []
-aliases: []
+variantai:
+  - 'Vytauto privilegijos žydams'
+aliases:
+  - 'Vytauto privilegijos žydams'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
@@ -13,7 +15,7 @@ tags:
   - kraštas
   - kunigaikštis
 ---
-# Vytauto privilegijos žydams
+# Vytauto privilegijos žydams (privilegija)
 
 ## Santrauka
 

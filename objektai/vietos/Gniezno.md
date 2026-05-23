@@ -68,7 +68,7 @@ Jis tai atliko per lenkų Gniezno arkivyskupą.
 - [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
 - [[objektai/asmenys/Jonas (Breslavo vyskupas)]]
 - [[objektai/asmenys/Jonas (Lvovo arkivyskupas)]]
-- [[objektai/asmenys/Martynas V (popiežius)]]
+- [[objektai/asmenys/Martynas V]]
 - [[objektai/asmenys/Mikalojus Romedanskis (Medininkų vyskupas)]]
 - [[objektai/vietos/Mogilevo arkivyskupija]]
 - [[objektai/asmenys/Petras iš Kustynės]]

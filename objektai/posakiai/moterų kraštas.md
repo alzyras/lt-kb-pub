@@ -1,9 +1,11 @@
 ---
 tipas: posakis
-pavadinimas: 'moterų kraštas'
+pavadinimas: 'moterų kraštas (kraštas)'
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'moterų kraštas'
+aliases:
+  - 'moterų kraštas'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos: []
@@ -17,7 +19,7 @@ tags:
   - kraštas
   - posakis
 ---
-# moterų kraštas
+# moterų kraštas (kraštas)
 
 ## Santrauka
 

@@ -8,8 +8,6 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1574 m.'
-  - '1616 m.'
-  - '1620 m.'
   - '1650 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
@@ -97,7 +95,7 @@ Carlsonas Gyllienhelmas. ee Kuoknesės pilis Baronas Karolis Karlsonas Gyllenhie
 ### Susiję objektai
 - [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
 - [[objektai/vietos/Kuoknesė]]
-- [[objektai/vietos/Kuoknesės pilis]]
+- [[objektai/vietos/Kuoknesės pilis|Kuoknesės pilis (pilis)]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/grupes/Švedai]]

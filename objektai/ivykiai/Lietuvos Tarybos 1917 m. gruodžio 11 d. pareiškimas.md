@@ -1,9 +1,11 @@
 ---
 tipas: ivykis
-pavadinimas: 'Lietuvos Tarybos 1917 m. gruodžio 11 d. pareiškimas'
+pavadinimas: 'Lietuvos Tarybos 1917 m. gruodžio 11 d. pareiškimas (institucija, XX a.)'
 sukurta: '2026-04-25'
-variantai: []
-aliases: []
+variantai:
+  - 'Lietuvos Tarybos 1917 m. gruodžio 11 d. pareiškimas'
+aliases:
+  - 'Lietuvos Tarybos 1917 m. gruodžio 11 d. pareiškimas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
@@ -11,7 +13,7 @@ tags:
   - ivykis
   - karas
 ---
-# Lietuvos Tarybos 1917 m. gruodžio 11 d. pareiškimas
+# Lietuvos Tarybos 1917 m. gruodžio 11 d. pareiškimas (institucija, XX a.)
 
 ## Santrauka
 

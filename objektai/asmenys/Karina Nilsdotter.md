@@ -68,6 +68,6 @@ ee Kuoknesės pilis Baronas Karolis Karlsonas Gyllenhielmas (Carl Carlson Gyllen
 ### Susiję objektai
 - [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
 - [[objektai/vietos/Kuoknesė]]
-- [[objektai/vietos/Kuoknesės pilis]]
+- [[objektai/vietos/Kuoknesės pilis|Kuoknesės pilis (pilis)]]
 - [[objektai/grupes/Švedai]]
 - [[objektai/vietos/Švedija]]

@@ -1,9 +1,11 @@
 ---
 tipas: posakis
-pavadinimas: 'Damoklo kardas tikrai pakibo ant unijos'
+pavadinimas: 'Damoklo kardas tikrai pakibo ant unijos (unija)'
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'Damoklo kardas tikrai pakibo ant unijos'
+aliases:
+  - 'Damoklo kardas tikrai pakibo ant unijos'
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
@@ -23,7 +25,7 @@ tags:
   - posakis
   - privilegija
 ---
-# Damoklo kardas tikrai pakibo ant unijos
+# Damoklo kardas tikrai pakibo ant unijos (unija)
 
 ## Santrauka
 

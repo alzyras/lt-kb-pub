@@ -66,7 +66,7 @@ Lenkijos ir Lietuvos valdovu tapus Transilvanijos kunigaikščiui L I E T U V O 
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Livonija]]
 - [[objektai/vietos/Maskva]]
-- [[objektai/ivykiai/Liublino unija]]
+- [[objektai/ivykiai/Liublino unija (1569 m.)]]
 - [[objektai/asmenys/Steponas Batoras]]
 - [[objektai/grupes/Vokietijos kunigaikščiai]]
 - [[objektai/asmenys/Steponas]]

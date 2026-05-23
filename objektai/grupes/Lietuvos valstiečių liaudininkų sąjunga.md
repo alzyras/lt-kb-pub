@@ -200,5 +200,4 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/A. Smetona|A. Smetona (prezidentas, XX a.)]]
 - [[objektai/grupes/Voldemarininkai]]

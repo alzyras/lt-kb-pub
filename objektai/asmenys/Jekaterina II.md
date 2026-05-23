@@ -8,9 +8,6 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1764 m.'
-  - '1767 m.'
-  - '1768 m.'
-  - '1791 m.'
   - '1793 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:

@@ -1,9 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Aukaimio pilis'
+pavadinimas: 'Aukaimio pilis (pilis)'
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'Aukaimio pilis'
+aliases:
+  - 'Aukaimio pilis'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -25,7 +27,7 @@ tags:
   - tikėjimas
   - vieta
 ---
-# Aukaimio pilis
+# Aukaimio pilis (pilis)
 
 ## Santrauka
 

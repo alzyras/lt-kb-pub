@@ -1,9 +1,11 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'metropolija bažnytinė provincija bažnytinė unija'
+pavadinimas: 'metropolija bažnytinė provincija bažnytinė unija (unija)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'metropolija bažnytinė provincija bažnytinė unija'
+aliases:
+  - 'metropolija bažnytinė provincija bažnytinė unija'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
@@ -13,7 +15,7 @@ tags:
   - unija
   - vyskupas
 ---
-# metropolija bažnytinė provincija bažnytinė unija
+# metropolija bažnytinė provincija bažnytinė unija (unija)
 
 ## Santrauka
 

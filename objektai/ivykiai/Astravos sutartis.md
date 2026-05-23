@@ -1,11 +1,13 @@
 ---
 tipas: ivykis
-pavadinimas: 'Astravos sutartis'
+pavadinimas: 'Astravos sutartis (sutartis)'
 sukurta: '2026-04-25'
 variantai:
   - 'Ostrovos taika'
   - 'Ostrovos sutartis'
-aliases: []
+  - 'Astravos sutartis'
+aliases:
+  - 'Astravos sutartis'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
@@ -22,7 +24,7 @@ laikotarpis: '1392 m. rugpjūčio 5 d.'
 tags:
   - sutartis
 ---
-# Astravos sutartis
+# Astravos sutartis (sutartis)
 
 ## Santrauka
 

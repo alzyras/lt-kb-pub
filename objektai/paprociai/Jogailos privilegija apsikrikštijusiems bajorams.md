@@ -1,9 +1,11 @@
 ---
 tipas: paprotys
-pavadinimas: 'Jogailos privilegija apsikrikštijusiems bajorams'
+pavadinimas: 'Jogailos privilegija apsikrikštijusiems bajorams (privilegija)'
 sukurta: '2026-04-25'
-variantai: []
-aliases: []
+variantai:
+  - 'Jogailos privilegija apsikrikštijusiems bajorams'
+aliases:
+  - 'Jogailos privilegija apsikrikštijusiems bajorams'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
@@ -12,7 +14,7 @@ tags:
   - paprotys
   - privilegija
 ---
-# Jogailos privilegija apsikrikštijusiems bajorams
+# Jogailos privilegija apsikrikštijusiems bajorams (privilegija)
 
 ## Santrauka
 

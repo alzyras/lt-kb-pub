@@ -1,16 +1,18 @@
 ---
 tipas: grupe
-pavadinimas: 'Organizacinis Komitetas'
+pavadinimas: 'Organizacinis Komitetas (institucija)'
 sukurta: '2026-04-25'
-variantai: []
-aliases: []
+variantai:
+  - 'Organizacinis Komitetas'
+aliases:
+  - 'Organizacinis Komitetas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
 tags:
   - grupe
 ---
-# Organizacinis Komitetas
+# Organizacinis Komitetas (institucija)
 
 ## Santrauka
 

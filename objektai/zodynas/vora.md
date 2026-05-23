@@ -66,7 +66,7 @@ Viduriniajai vorai po atkaklių kautynių pavyko užimti Užkalnius, Ėriškėli
 - [[objektai/vietos/Katinai]]
 - [[objektai/vietos/Radikoniai]]
 - [[objektai/vietos/Aukštadvaris]]
-- [[objektai/grupes/Aukščiausioji Taryba]]
+- [[objektai/grupes/Aukščiausioji Taryba|Aukščiausioji Taryba (institucija)]]
 - [[objektai/vietos/Barklainiai]]
 - [[objektai/asmenys/J. Mikoliūnas]]
 - [[objektai/asmenys/K. Dragunevičius]]

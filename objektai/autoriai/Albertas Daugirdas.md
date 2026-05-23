@@ -8,8 +8,6 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1944 m.'
-  - '1953 m.'
-  - '1971 m.'
   - '1991 m.'
 periodas: 'okupacijų ir sovietmečio laikotarpis'
 periodo_grupes:

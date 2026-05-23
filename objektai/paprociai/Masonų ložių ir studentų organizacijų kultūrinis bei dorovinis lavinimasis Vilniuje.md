@@ -2,8 +2,12 @@
 tipas: paprotys
 pavadinimas: "Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje"
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Kandidatas 47 Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje'
+  - 'Kandidatas Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje'
+aliases:
+  - 'Kandidatas 47 Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje'
+  - 'Kandidatas Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'

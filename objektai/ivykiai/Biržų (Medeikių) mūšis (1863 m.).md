@@ -1,13 +1,14 @@
 ---
 tipas: 'ivykis'
-pavadinimas: 'Biržų (Medeikių) mūšis (1863 m.)'
+pavadinimas: "Biržų (Medeikių) mūšis (1863 m.)"
 sukurta: '2026-05-02'
 variantai:
   - 'Biržų kautynės'
   - 'Biržų girios kautynės'
   - 'Medeikių mūšis'
   - 'Biržų (Medeikių) mūšis'
-aliases: []
+aliases:
+  - 'Biržų (Medeikių) mūšis'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 bukle: 'juodrastis'
@@ -76,6 +77,18 @@ Nenurodyta
   teiginys: 'Biržų girios kautynės buvo didžiausios per 1863–1864 m. sukilimą, jose dalyvavo apie 1500 sukilėlių.'
   pagrindžia:
     - c-004
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-009
+  teiginys: 'Gegužės 7 d. prie Medeikių rusų pėstininkai tris valandas atakavo lietuvių gynybines pozicijas.'
+  pagrindžia:
+    - c-005
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-010
+  teiginys: 'Gen. mjr. I. Ganeckio rinktinė ties Šniurkiškių palivarku užklupo sukilėlių stovyklą.'
+  pagrindžia:
+    - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
@@ -174,12 +187,39 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-008
+- c-005
+  santrauka: 'Gegužės 7 d. prie Medeikių rusų pėstininkai tris valandas atakavo lietuvių gynybines pozicijas.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Lietuvos
+    sukilėlių kovinio
+    dalgio kopija
+
+    @ Gegužės 7 d. atvykę į Medeikius rusų
+    pėstininkai tris valandas atakavo lietu-
+    vių gynybines pozicijas.
+
+    © Sukilėliams pamėginus apeiti rusus iš
+    flangų, šie vengdami apsupimo buvo
+    priversti atsitraukti.
+
+    © Lietuvių pajėgos persikėlė į Biržų gi-
+    rios pakraštį.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Dalgis]]
+- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Rytas]]
 - [[objektai/zodynas/palivarkas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/Biržų (Medeikių) mūšis]]
+- [[objektai/vietos/Salaspilis]]

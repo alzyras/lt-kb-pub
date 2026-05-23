@@ -1,23 +1,19 @@
 ---
 tipas: autorius
-pavadinimas: 'Zajączkowski, St'
+pavadinimas: "Zajączkowski, St"
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'St. Zajączkowski'
+aliases:
+  - 'St. Zajączkowski'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos:
-  - '1325 m.'
-  - '1926 m.'
-  - '1929 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-  - 'XX'
-date_start: '1325'
-date_end: '1929'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - autorius
@@ -36,7 +32,6 @@ Zajączkowski, St.
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'St. Zajączkowski 1926 m. paskelbė darbą „Przymierze polsko-litewskie 1325 r.“'
@@ -53,3 +48,7 @@ Zajączkowski, St.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/posakiai/jako tebe delia mir atvorim so Vykyntom, zane brat’ju našu mnogu pogubi]]

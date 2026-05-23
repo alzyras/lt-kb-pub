@@ -62,4 +62,4 @@ tags:
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/luomas]]
 - [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/Pilies ir rūmų pareigybės|pilies ir rūmų pareigybės]]
+- [[objektai/zodynas/Pilies ir rūmų pareigybės|pilies ir rūmų pareigybės (pilis)]]

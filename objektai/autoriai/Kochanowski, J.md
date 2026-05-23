@@ -1,9 +1,11 @@
 ---
 tipas: autorius
-pavadinimas: 'Kochanowski, J'
+pavadinimas: "Kochanowski, J"
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'J. Kochanowski'
+aliases:
+  - 'J. Kochanowski'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -28,6 +30,12 @@ Kochanowski, J.
 ## Teiginiai
 - t-001
   teiginys: 'J. Kochanowski 1900 m. Lvove paskelbė darbą „Witold, w. książę litewski“.'
+  pagrindžia:
+    - c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: 'J. Kochanowskis parašė veikalą „Witold, w. książę litewski“, išleistą Lvove 1900 m.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)

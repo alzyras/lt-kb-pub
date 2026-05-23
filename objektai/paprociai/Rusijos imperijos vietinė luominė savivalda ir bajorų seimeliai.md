@@ -2,8 +2,12 @@
 tipas: paprotys
 pavadinimas: "Rusijos imperijos vietinė luominė savivalda ir bajorų seimeliai"
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Kandidatas 45 Rusijos imperijos vietinė luominė savivalda ir bajorų seimeliai'
+  - 'Kandidatas Rusijos imperijos vietinė luominė savivalda ir bajorų seimeliai'
+aliases:
+  - 'Kandidatas 45 Rusijos imperijos vietinė luominė savivalda ir bajorų seimeliai'
+  - 'Kandidatas Rusijos imperijos vietinė luominė savivalda ir bajorų seimeliai'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:

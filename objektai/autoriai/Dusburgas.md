@@ -14,8 +14,6 @@ vaidmenys:
   - 'Kryžiuočių ordino kronikininkas'
 datos:
   - '1291 m.'
-  - '1292 m.'
-  - '1296 m.'
   - '1315 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
@@ -131,14 +129,12 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
 - [[objektai/vietos/Aukaimis]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/vietos/Lietuva]]
-- [[objektai/posakiai/Lietuvos karaliaus sūnus]]
 - [[objektai/asmenys/Vytenis]]
 - [[objektai/zodynas/žygis]]
-- [[objektai/posakiai/Baigėsi karas su prūsais. Prasidėjo karas su lietuviais]]
+- [[objektai/posakiai/„Lietuvos karaliaus sūnus“]]
 - [[objektai/grupes/Galindai]]
 - [[objektai/grupes/Sūduviai-jotvingiai]]
 - [[objektai/posakiai/„Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“]]
 - [[objektai/vietos/Livonija]]
-- [[objektai/posakiai/„Lietuvos karaliaus sūnus“]]
 - [[objektai/ivykiai/Junigėdos puolimas ir Mederabos sunaikinimas (1291 m.)]]
 - [[objektai/vietos/Mederaba]]

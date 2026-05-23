@@ -58,4 +58,4 @@ Is­ torikai Danilavičius ir Koneczny tą dokumentą laiko falsifikatu; tačiau
 - [[objektai/paprociai/Ištikimybės priesaikos Jogailai]]
 - [[objektai/vietos/Konstancija]]
 - [[objektai/daiktai/Vėliavos]]
-- [[objektai/zodynas/apsigynimo ir puolimo sutartis]]
+- [[objektai/zodynas/apsigynimo ir puolimo sutartis|apsigynimo ir puolimo sutartis (sutartis)]]

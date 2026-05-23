@@ -1,9 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Kuoknesės pilis'
+pavadinimas: 'Kuoknesės pilis (pilis)'
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'Kuoknesės pilis'
+aliases:
+  - 'Kuoknesės pilis'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
@@ -22,7 +24,7 @@ tags:
   - pilis
   - vieta
 ---
-# Kuoknesės pilis
+# Kuoknesės pilis (pilis)
 
 ## Santrauka
 

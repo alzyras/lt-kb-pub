@@ -1,9 +1,11 @@
 ---
 tipas: ivykis
-pavadinimas: 'Brastos bažnytinė unija'
+pavadinimas: 'Brastos bažnytinė unija (unija)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Brastos bažnytinė unija'
+aliases:
+  - 'Brastos bažnytinė unija'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
@@ -12,7 +14,7 @@ tags:
   - unija
   - valstybė
 ---
-# Brastos bažnytinė unija
+# Brastos bažnytinė unija (unija)
 
 ## Santrauka
 
@@ -62,4 +64,4 @@ Nenurodyta
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/zodynas/unija]]
 - [[objektai/grupes/Graikų katalikų bažnyčia]]
-- [[objektai/zodynas/metropolija bažnytinė unija]]
+- [[objektai/zodynas/metropolija bažnytinė unija|metropolija bažnytinė unija (unija)]]

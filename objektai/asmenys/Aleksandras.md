@@ -105,7 +105,6 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
 - [[objektai/grupes/Livonijos ordinas]]
 - [[objektai/vietos/Minaičių kaimas]]
 - [[objektai/vietos/Pietų Lietuva]]
-- [[objektai/grupes/Pietų Lietuvos (Nemuno) sritis]]
 - [[objektai/grupes/Pietų Lietuvos sritis]]
 - [[objektai/zodynas/Politinė amnestija]]
 - [[objektai/vietos/Skalvos žemė]]

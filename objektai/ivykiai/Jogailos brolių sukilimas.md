@@ -1,9 +1,11 @@
 ---
 tipas: ivykis
-pavadinimas: 'Jogailos brolių sukilimas'
+pavadinimas: 'Jogailos brolių sukilimas (sukilimas)'
 sukurta: '2026-04-25'
-variantai: []
-aliases: []
+variantai:
+  - 'Jogailos brolių sukilimas'
+aliases:
+  - 'Jogailos brolių sukilimas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
@@ -11,7 +13,7 @@ tags:
   - ivykis
   - sukilimas
 ---
-# Jogailos brolių sukilimas
+# Jogailos brolių sukilimas (sukilimas)
 
 ## Santrauka
 

@@ -6,18 +6,12 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-datos:
-  - '1200 m.'
-  - '1325 m.'
-  - '1326 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XII'
-  - 'XIV'
-date_start: '1200'
-date_end: '1326'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -68,7 +62,7 @@ tags:
 - [[objektai/asmenys/Lokietka]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/vietos/Avinjonas]]
-- [[objektai/paprociai/Bajorijos stiprinimas valdovo privilegijomis]]
+- [[objektai/paprociai/Bajorijos stiprinimas valdovo privilegijomis|Bajorijos stiprinimas valdovo privilegijomis (privilegija)]]
 - [[objektai/paprociai/Bendri Lietuvos ir Lenkijos seimai]]
 - [[objektai/asmenys/Boleslovas Jurgis Traidenaitis]]
 - [[objektai/vietos/Dobrynė]]
@@ -93,4 +87,4 @@ tags:
 - [[objektai/asmenys/Kazimieras (Lietuvos didysis kunigaikštis)]]
 - [[objektai/asmenys/Kazimieras (Lokietkos sūnus)]]
 - [[objektai/zodynas/etmonų teisė]]
-- [[objektai/posakiai/„įžen-gus į šalį svetimai kariuomenei į kraštą Respublikos kariuomenę rinkti“]]
+- [[objektai/posakiai/„įžen-gus į šalį svetimai kariuomenei į kraštą Respublikos kariuomenę rinkti“|„įžen-gus į šalį svetimai kariuomenei į kraštą Respublikos kariuomenę rinkti“ (kraštas)]]

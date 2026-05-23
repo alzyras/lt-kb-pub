@@ -133,7 +133,7 @@ Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet d
 - [[objektai/vietos/Kaltinėnai]]
 - [[objektai/vietos/Kelmė]]
 - [[objektai/ivykiai/Konstancijos susirinkimas (1414–1418 m.)]]
-- [[objektai/ivykiai/Livonijos ordino 10 metų sutarties su Pskovu sudarymas]]
+- [[objektai/ivykiai/Livonijos ordino 10 metų sutarties su Pskovu sudarymas|Livonijos ordino 10 metų sutarties su Pskovu sudarymas (sutartis)]]
 - [[objektai/ivykiai/Livonijos ordino amžinos taikos su Naugardu D. sudarymas (1421 m.)]]
 - [[objektai/vietos/Luokė]]
 - [[objektai/vietos/Lvovas]]

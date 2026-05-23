@@ -155,5 +155,5 @@ Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose, sukilėlių
 - [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/savarankiškumas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/1794 m. sukilimas Lietuvoje]]
-- [[objektai/ivykiai/1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas]]
+- [[objektai/ivykiai/1794 m. sukilimas Lietuvoje|1794 m. sukilimas Lietuvoje (sukilimas, XVIII a.)]]
+- [[objektai/ivykiai/1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas|1794 m. sukilimas Lietuvoje T. Kosciuškos sukilimas (sukilimas, XVIII a.)]]

@@ -1,9 +1,13 @@
 ---
 tipas: autorius
-pavadinimas: 'prof. dr. St. Kutrzeba'
+pavadinimas: "prof. dr. St. Kutrzeba"
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'Kutrzeba'
+  - 'St. Kutrzeba'
+aliases:
+  - 'Kutrzeba'
+  - 'St. Kutrzeba'
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos: []
@@ -29,7 +33,12 @@ Kutrzeba1 2), nėra juridiškas ir nieko aiškaus nepasako.
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-
+- t-002
+  teiginys: 'St. Kutrzeba teigė, kad terminas „prijungti“ nėra juridiškas ir nieko aiškaus nepasako.'
+  pagrindžia:
+    - c-001
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  statusas: patvirtinta
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Prof. dr. St. Kutrzeba pastebėjo, kad terminas „prijungti“ nėra juridiškas ir nieko aiškaus nepasako.'

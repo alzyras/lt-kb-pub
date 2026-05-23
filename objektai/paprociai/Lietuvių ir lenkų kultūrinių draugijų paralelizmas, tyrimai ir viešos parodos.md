@@ -2,8 +2,12 @@
 tipas: paprotys
 pavadinimas: "Lietuvių ir lenkų kultūrinių draugijų paralelizmas, tyrimai ir viešos parodos"
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Kandidatas 70 Lietuvių ir lenkų kultūrinių draugijų paralelizmas, tyrimai ir viešos parodos'
+  - 'Kandidatas Lietuvių ir lenkų kultūrinių draugijų paralelizmas, tyrimai ir viešos parodos'
+aliases:
+  - 'Kandidatas 70 Lietuvių ir lenkų kultūrinių draugijų paralelizmas, tyrimai ir viešos parodos'
+  - 'Kandidatas Lietuvių ir lenkų kultūrinių draugijų paralelizmas, tyrimai ir viešos parodos'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'

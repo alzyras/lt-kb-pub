@@ -25,7 +25,7 @@ Objektų skaičius: 35.
 - [[objektai/asmenys/Vaclovas Pragiečius]]
 
 ### Grupės
-- [[objektai/grupes/Aukščiausioji Santarvininkių Taryba]]
+- [[objektai/grupes/Aukščiausioji Santarvininkių Taryba|Aukščiausioji Santarvininkių Taryba (institucija)]]
 - [[objektai/grupes/Karo partija]]
 - [[objektai/grupes/Taikos partija]]
 

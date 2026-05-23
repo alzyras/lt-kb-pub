@@ -2,8 +2,12 @@
 tipas: paprotys
 pavadinimas: "LDK bajorų lietuviška savivardystė ir raštų kalbos vadinimas lietuvių kalba"
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Kandidatas 3 LDK bajorų lietuviška savivardystė ir raštų kalbos vadinimas lietuvių kalba'
+  - 'Kandidatas LDK bajorų lietuviška savivardystė ir raštų kalbos vadinimas lietuvių kalba'
+aliases:
+  - 'Kandidatas 3 LDK bajorų lietuviška savivardystė ir raštų kalbos vadinimas lietuvių kalba'
+  - 'Kandidatas LDK bajorų lietuviška savivardystė ir raštų kalbos vadinimas lietuvių kalba'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'

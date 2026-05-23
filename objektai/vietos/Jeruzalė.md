@@ -76,7 +76,6 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Joanitų ordinas]]
-- [[objektai/posakiai/Lietuvoje pradėjo valdyti pašėlęs (okajauyj), nedorovingas, prakeiktas ir negailestingas Traidenis]]
 - [[objektai/paprociai/Specialių brolijų maldininkams globoti steigimas]]
 - [[objektai/grupes/Templininkų ordinas]]
 - [[objektai/zodynas/lietopisis]]

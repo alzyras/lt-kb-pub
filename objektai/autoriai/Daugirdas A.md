@@ -8,7 +8,6 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1991 m.'
-  - '1996 m.'
   - '2011 m.'
 periodas: 'atkurtos nepriklausomybės laikotarpis'
 periodo_grupes:

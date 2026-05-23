@@ -8,7 +8,6 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1389 m.'
-  - '1396 m.'
   - '1425 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:

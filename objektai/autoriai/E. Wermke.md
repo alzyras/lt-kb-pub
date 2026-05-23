@@ -8,10 +8,6 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1929 m.'
-  - '1930 m.'
-  - '1933 m.'
-  - '1938 m.'
-  - '1962 m.'
   - '1964 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:

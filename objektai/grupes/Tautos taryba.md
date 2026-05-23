@@ -1,9 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'Tautos taryba'
+pavadinimas: 'Tautos taryba (institucija)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Tautos taryba'
+aliases:
+  - 'Tautos taryba'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
@@ -24,7 +26,7 @@ tags:
   - grupe
   - tauta
 ---
-# Tautos taryba
+# Tautos taryba (institucija)
 
 ## Santrauka
 
@@ -64,8 +66,8 @@ tags:
 - [[objektai/grupes/Bolševikai]]
 - [[objektai/ivykiai/Karo metų Amerikos lietuvių politinis ir organizacinis aktyvumas (1914–1918 m.)]]
 - [[objektai/ivykiai/Kosciuškos sukilimas (1794 m.)]]
-- [[objektai/grupes/Latvių Tautos Taryba]]
-- [[objektai/ivykiai/1917 m. lietuvių seimas Petrapilyje]]
-- [[objektai/grupes/Aukščiausioji Visos Rusijos Lietuvių Tautos Taryba]]
+- [[objektai/grupes/Latvių Tautos Taryba|Latvių Tautos Taryba (institucija)]]
+- [[objektai/ivykiai/1917 m. lietuvių seimas Petrapilyje|1917 m. lietuvių seimas Petrapilyje (seimas, XX a.)]]
+- [[objektai/grupes/Aukščiausioji Visos Rusijos Lietuvių Tautos Taryba|Aukščiausioji Visos Rusijos Lietuvių Tautos Taryba (institucija)]]
 - [[objektai/ivykiai/Generalinių tarėjų ir Tautos tarybos SS dalinio plano atmetimas (1943 m. lapkričio 23-24 d.)]]
-- [[objektai/grupes/Petrapilio latvių pabėgėlių komitetas]]
+- [[objektai/grupes/Petrapilio latvių pabėgėlių komitetas|Petrapilio latvių pabėgėlių komitetas (institucija)]]

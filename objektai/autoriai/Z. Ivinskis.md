@@ -16,22 +16,12 @@ laikotarpis: '1936 m. (veikalo sudarymo kontekstas); 1970 m. spalių mėn. 15 d.
 vaidmenys:
   - 'autorius'
   - 'istorikas'
-datos:
-  - '1260 m.'
-  - '1350 m.'
-  - '1930 m.'
-  - '1961 m.'
-  - '1970 m.'
-  - '1978 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIII'
-  - 'XIV'
-  - 'XX'
-date_start: '1260'
-date_end: '1978'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'aukštas'
 tags:
   - autorius

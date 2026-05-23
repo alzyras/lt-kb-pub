@@ -182,6 +182,7 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/vietos/Naugardukas]]
 - [[objektai/vietos/Pinskas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/vietos/Cholmas]]
 - [[objektai/asmenys/Glebas (Smolensko kunigaikštis)]]
 - [[objektai/asmenys/Jagurčinas]]
@@ -191,4 +192,3 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
 - [[objektai/vietos/Polesė]]
 - [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
 - [[objektai/vietos/Strėva]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

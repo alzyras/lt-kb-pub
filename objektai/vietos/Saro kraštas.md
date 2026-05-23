@@ -1,9 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Saro kraštas'
+pavadinimas: 'Saro kraštas (kraštas)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Saro kraštas'
+aliases:
+  - 'Saro kraštas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
@@ -11,7 +13,7 @@ tags:
   - kraštas
   - vieta
 ---
-# Saro kraštas
+# Saro kraštas (kraštas)
 
 ## Santrauka
 

@@ -1,9 +1,11 @@
 ---
 tipas: posakis
-pavadinimas: '„įžen-gus į šalį svetimai kariuomenei į kraštą Respublikos kariuomenę rinkti“'
+pavadinimas: '„įžen-gus į šalį svetimai kariuomenei į kraštą Respublikos kariuomenę rinkti“ (kraštas)'
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - '„įžen-gus į šalį svetimai kariuomenei į kraštą Respublikos kariuomenę rinkti“'
+aliases:
+  - '„įžen-gus į šalį svetimai kariuomenei į kraštą Respublikos kariuomenę rinkti“'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos: []
@@ -17,7 +19,7 @@ tags:
   - kraštas
   - posakis
 ---
-# „įžen-gus į šalį svetimai kariuomenei į kraštą Respublikos kariuomenę rinkti“
+# „įžen-gus į šalį svetimai kariuomenei į kraštą Respublikos kariuomenę rinkti“ (kraštas)
 
 ## Santrauka
 

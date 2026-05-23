@@ -193,7 +193,6 @@ sėkmingų L I E T U V O S I S T O R I J A 212 bandymų 1949 m. vasario 2–22 d
 - [[objektai/zodynas/Nepriklausomybės kovos]]
 - [[objektai/asmenys/Petras Bartkus-Žadgaila]]
 - [[objektai/vietos/Pietų Lietuva]]
-- [[objektai/grupes/Pietų Lietuvos (Nemuno) sritis]]
 - [[objektai/grupes/Pietų Lietuvos sritis]]
 - [[objektai/grupes/Prisikėlimo apygarda]]
 - [[objektai/ivykiai/Užpelkių kautynės]]

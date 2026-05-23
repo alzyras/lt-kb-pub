@@ -2,8 +2,12 @@
 tipas: paprotys
 pavadinimas: "Milenaristinės krikščioniškos misijos ir valdovų krikštai"
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Kandidatas 10 Milenaristinės krikščioniškos misijos ir valdovų krikštai'
+  - 'Kandidatas Milenaristinės krikščioniškos misijos ir valdovų krikštai'
+aliases:
+  - 'Kandidatas 10 Milenaristinės krikščioniškos misijos ir valdovų krikštai'
+  - 'Kandidatas Milenaristinės krikščioniškos misijos ir valdovų krikštai'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'

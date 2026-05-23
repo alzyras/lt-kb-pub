@@ -46,5 +46,3 @@ Jono Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos 
 - [[objektai/grupes/Krikščionys]]
 - [[objektai/ivykiai/Jono Černiaus „vieningo darbo“ vyriausybės sudarymas po Klaipėdos praradimo (1939 m.)]]
 - [[objektai/grupes/Lietuvos krikščionių demokratų partija]]
-- [[objektai/asmenys/V. Mironas|V. Mironas (kunigas)]]
-- [[objektai/asmenys/Vladas Mironas]]

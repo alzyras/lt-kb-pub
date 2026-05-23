@@ -105,7 +105,7 @@ Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos valstyb�
 - [[objektai/vietos/Liepoja]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuvos seimas]]
+- [[objektai/grupes/Lietuvos seimas|Lietuvos seimas (seimas)]]
 - [[objektai/vietos/Slanimas]]
 - [[objektai/asmenys/Steponas]]
 - [[objektai/vietos/Suvalkai]]

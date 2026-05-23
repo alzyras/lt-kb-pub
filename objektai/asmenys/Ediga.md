@@ -87,6 +87,5 @@ Lemiamasis Vytauto žygis, vietoje Timuro ir jo emiro Edigos (Edigiu) pasodinti 
 - [[objektai/vietos/Vorskla]]
 - [[objektai/zodynas/chanas]]
 - [[objektai/grupes/Švedai]]
-- [[objektai/ivykiai/Vorsklos mūšis]]
 - [[objektai/daiktai/Vytauto ženklas]]
 - [[objektai/zodynas/žygis]]

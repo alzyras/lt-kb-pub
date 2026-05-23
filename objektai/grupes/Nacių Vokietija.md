@@ -113,7 +113,6 @@ Tačiau Vokietijos vyriausybė uždraudė lietuviams kilus karui sudaryti bet ko
 - [[objektai/ivykiai/Rytų krašto (Ostlando) reicho komisariato sudarymas ir civilinio okupacinio valdymo įvedimas (1941 m. liepos pabaiga)]]
 - [[objektai/vietos/Vokietija]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/A. Smetona|A. Smetona (prezidentas, XX a.)]]
 - [[objektai/grupes/Abveras]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
 - [[objektai/ivykiai/Klaipėdos nacių teismas Kaune (1934 m. liepa - 1935 m. kovas)]]

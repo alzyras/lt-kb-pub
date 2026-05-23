@@ -93,6 +93,6 @@ Pociaus vadovaujamų vyrų buvo išdėstyti ties Žvėryno tiltu kitoje Neries p
 - [[objektai/autoriai/Martynas Mažvydas Vaitkūnas]]
 - [[objektai/posakiai/Nepakartoti 1940 m. klaidos!]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/paprociai/Aukščiausiosios Tarybos gynybos principai]]
+- [[objektai/paprociai/Aukščiausiosios Tarybos gynybos principai|Aukščiausiosios Tarybos gynybos principai (institucija)]]
 - [[objektai/ivykiai/Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)]]
 - [[objektai/vietos/Žvėryno tiltas]]

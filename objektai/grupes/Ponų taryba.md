@@ -1,9 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'Ponų taryba'
+pavadinimas: 'Ponų taryba (institucija)'
 sukurta: '2026-04-25'
-variantai: []
-aliases: []
+variantai:
+  - 'Ponų taryba'
+aliases:
+  - 'Ponų taryba'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
@@ -29,7 +31,7 @@ tags:
   - kunigaikštis
   - valstybė
 ---
-# Ponų taryba
+# Ponų taryba (institucija)
 
 ## Santrauka
 
@@ -211,4 +213,4 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
 - [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/grupes/Lenkų bajorija]]
 - [[objektai/zodynas/perdėtinis]]
-- [[objektai/grupes/Lenkų ponų taryba]]
+- [[objektai/grupes/Lenkų ponų taryba|Lenkų ponų taryba (institucija)]]

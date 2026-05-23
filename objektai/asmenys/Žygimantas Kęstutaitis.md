@@ -8,7 +8,6 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1435 m.'
-  - '1436 m.'
   - '1440 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:

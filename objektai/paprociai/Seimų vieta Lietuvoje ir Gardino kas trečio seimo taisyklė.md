@@ -1,9 +1,11 @@
 ---
 tipas: paprotys
-pavadinimas: 'Seimų vieta Lietuvoje ir Gardino kas trečio seimo taisyklė'
+pavadinimas: 'Seimų vieta Lietuvoje ir Gardino kas trečio seimo taisyklė (seimas)'
 sukurta: '2026-04-25'
-variantai: []
-aliases: []
+variantai:
+  - 'Seimų vieta Lietuvoje ir Gardino kas trečio seimo taisyklė'
+aliases:
+  - 'Seimų vieta Lietuvoje ir Gardino kas trečio seimo taisyklė'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
@@ -13,7 +15,7 @@ tags:
   - seimas
   - unija
 ---
-# Seimų vieta Lietuvoje ir Gardino kas trečio seimo taisyklė
+# Seimų vieta Lietuvoje ir Gardino kas trečio seimo taisyklė (seimas)
 
 ## Santrauka
 
@@ -158,7 +160,7 @@ Nenurodyta
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Liublinas]]
-- [[objektai/grupes/Liublino seimas]]
+- [[objektai/grupes/Liublino seimas|Liublino seimas (seimas)]]
 - [[objektai/vietos/Varšuva]]
 - [[objektai/zodynas/maršalka]]
 - [[objektai/zodynas/unija]]

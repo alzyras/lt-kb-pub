@@ -147,7 +147,7 @@ Gimnazijų Užnemunėje buvo dvi — Marijampolėje ir Suvalkuose.
 - [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/vietos/Alūkšta]]
-- [[objektai/grupes/Aukščiausioji Santarvininkių Taryba]]
+- [[objektai/grupes/Aukščiausioji Santarvininkių Taryba|Aukščiausioji Santarvininkių Taryba (institucija)]]
 - [[objektai/vietos/Bajerburgas]]
 - [[objektai/vietos/Bernas]]
 - [[objektai/vietos/Ežeronis]]

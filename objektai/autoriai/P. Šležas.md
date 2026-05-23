@@ -14,9 +14,6 @@ vaidmenys:
   - 'redaktorius'
 datos:
   - '1928 m.'
-  - '1930 m.'
-  - '1935 m.'
-  - '1936 m.'
   - '1937 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:

@@ -90,4 +90,4 @@ Nenurodyta
 - [[objektai/vietos/Rusija]]
 - [[objektai/vietos/Vokietija]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/grupes/Lietuvos Taryba]]
+- [[objektai/grupes/Lietuvos Taryba|Lietuvos Taryba (institucija)]]

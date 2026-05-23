@@ -1,9 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'Naujoji Lenkų Valstybės Taryba'
+pavadinimas: 'Naujoji Lenkų Valstybės Taryba (institucija)'
 sukurta: '2026-04-25'
-variantai: []
-aliases: []
+variantai:
+  - 'Naujoji Lenkų Valstybės Taryba'
+aliases:
+  - 'Naujoji Lenkų Valstybės Taryba'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
@@ -11,7 +13,7 @@ tags:
   - grupe
   - valstybė
 ---
-# Naujoji Lenkų Valstybės Taryba
+# Naujoji Lenkų Valstybės Taryba (institucija)
 
 ## Santrauka
 

@@ -123,4 +123,5 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
 - [[objektai/vietos/Vitebskas]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Petras Šuiskis]]

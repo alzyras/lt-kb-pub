@@ -1,9 +1,11 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'tautinis krikštas'
+pavadinimas: 'tautinis krikštas (krikštas)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'tautinis krikštas'
+aliases:
+  - 'tautinis krikštas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
@@ -26,7 +28,7 @@ tags:
   - kunigas
   - sąvoka
 ---
-# tautinis krikštas
+# tautinis krikštas (krikštas)
 
 ## Santrauka
 

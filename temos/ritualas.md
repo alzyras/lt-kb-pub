@@ -33,7 +33,7 @@ Objektų skaičius: 8.
 
 ### Įvykiai
 - [[objektai/ivykiai/Kėdainių-Šėtos kautynės]]
-- [[objektai/ivykiai/Pirmoji visam kraštui privilegija]]
+- [[objektai/ivykiai/Pirmoji visam kraštui privilegija|Pirmoji visam kraštui privilegija (privilegija)]]
 
 ### Žodynas
-- [[objektai/zodynas/bažnytinė unija]]
+- [[objektai/zodynas/bažnytinė unija|bažnytinė unija (unija)]]

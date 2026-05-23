@@ -1,16 +1,18 @@
 ---
 tipas: grupe
-pavadinimas: 'Vyriausiasis Lietuvos išlaisvinimo komitetas'
+pavadinimas: 'Vyriausiasis Lietuvos išlaisvinimo komitetas (institucija)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Vyriausiasis Lietuvos išlaisvinimo komitetas'
+aliases:
+  - 'Vyriausiasis Lietuvos išlaisvinimo komitetas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
 tags:
   - grupe
 ---
-# Vyriausiasis Lietuvos išlaisvinimo komitetas
+# Vyriausiasis Lietuvos išlaisvinimo komitetas (institucija)
 
 ## Santrauka
 
@@ -86,7 +88,7 @@ VLIK Vyriausiasis Lietuvos išlaisvinimo komitetas. 1943–1944 m. pogrindyje ve
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Amerikos lietuvių taryba]]
+- [[objektai/grupes/Amerikos lietuvių taryba|Amerikos lietuvių taryba (institucija)]]
 - [[objektai/vietos/Europa]]
 - [[objektai/vietos/Kaunas]]
 - [[objektai/vietos/Lietuva]]

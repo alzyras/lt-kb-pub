@@ -1,9 +1,15 @@
 ---
 tipas: paprotys
-pavadinimas: "Didžiojo Vilniaus Seimo paskatintas mokesčių, kariuomenės ir vietos valdžios boikotas"
+pavadinimas: 'Didžiojo Vilniaus Seimo paskatintas mokesčių, kariuomenės ir vietos valdžios boikotas (seimas)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Didžiojo Vilniaus Seimo paskatintas mokesčių, kariuomenės ir vietos valdžios boikotas'
+  - 'Kandidatas 68 Didžiojo Vilniaus Seimo paskatintas mokesčių, kariuomenės ir vietos valdžios boikotas'
+  - 'Kandidatas Didžiojo Vilniaus Seimo paskatintas mokesčių, kariuomenės ir vietos valdžios boikotas'
+aliases:
+  - 'Didžiojo Vilniaus Seimo paskatintas mokesčių, kariuomenės ir vietos valdžios boikotas'
+  - 'Kandidatas 68 Didžiojo Vilniaus Seimo paskatintas mokesčių, kariuomenės ir vietos valdžios boikotas'
+  - 'Kandidatas Didžiojo Vilniaus Seimo paskatintas mokesčių, kariuomenės ir vietos valdžios boikotas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
@@ -12,7 +18,7 @@ tags:
   - paprotys
   - seimas
 ---
-# Didžiojo Vilniaus Seimo paskatintas mokesčių, kariuomenės ir vietos valdžios boikotas
+# Didžiojo Vilniaus Seimo paskatintas mokesčių, kariuomenės ir vietos valdžios boikotas (seimas)
 
 ## Santrauka
 

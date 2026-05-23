@@ -63,4 +63,4 @@ Nenurodyta
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Kazimieras Masiliūnas]]
-- [[objektai/grupes/Lietuvos Respublikos švietimo ministerija]]
+- [[objektai/grupes/Lietuvos Respublikos švietimo ministerija|Lietuvos Respublikos švietimo ministerija (institucija)]]

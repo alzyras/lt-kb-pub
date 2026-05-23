@@ -1,9 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'Lietuvos Tarybų socialistinė respublika'
+pavadinimas: 'Lietuvos Tarybų socialistinė respublika (institucija)'
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'Lietuvos Tarybų socialistinė respublika'
+aliases:
+  - 'Lietuvos Tarybų socialistinė respublika'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -20,7 +22,7 @@ tags:
   - grupe
   - tauta
 ---
-# Lietuvos Tarybų socialistinė respublika
+# Lietuvos Tarybų socialistinė respublika (institucija)
 
 ## Santrauka
 

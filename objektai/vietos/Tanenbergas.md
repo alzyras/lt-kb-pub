@@ -57,6 +57,6 @@ Ordino siena su Lietuva nusistojo tik po Tanenbergo mūšio ir Torno taikos (ži
 - [[objektai/autoriai/Ekdahl, S]]
 - [[objektai/autoriai/G. Rhode]]
 - [[objektai/autoriai/Rhode, G]]
-- [[objektai/autoriai/S. Ekdahl]]
 - [[objektai/ivykiai/Tanenbergo mūšis (1410 m. liepos 15 d.)]]
-- [[objektai/ivykiai/Tanenbergo mūšis 1410 m. liepos 15 d]]
+- [[objektai/ivykiai/Tanenbergo mūšis 1410 m. liepos 15 d|Tanenbergo mūšis 1410 m. liepos 15 d (mūšis, XV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

@@ -11,23 +11,12 @@ saltiniai:
 laikotarpis: '1930 m. (veikalo sudarymo kontekstas)'
 vaidmenys:
   - 'autorius'
-datos:
-  - '1223 m.'
-  - '1502 m.'
-  - '1930 m.'
-  - '1936 m.'
-  - '1937 m.'
-  - '1941 m.'
-  - '1943 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
-  - 'XVI'
-  - 'XX'
-date_start: '1223'
-date_end: '1943'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'aukštas'
 tags:
   - autorius

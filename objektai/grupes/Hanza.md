@@ -399,7 +399,7 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Liubekas]]
 - [[objektai/vietos/Naugardukas]]
-- [[objektai/grupes/Pietų Lietuvos (Nemuno) sritis]]
+- [[objektai/grupes/Pietų Lietuvos sritis]]
 - [[objektai/vietos/Ryga]]
 - [[objektai/grupes/Rygiečiai]]
 - [[objektai/vietos/Viena]]

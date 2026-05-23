@@ -1,9 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'Tautų Sąjungos Taryba'
+pavadinimas: 'Tautų Sąjungos Taryba (institucija)'
 sukurta: '2026-04-25'
-variantai: []
-aliases: []
+variantai:
+  - 'Tautų Sąjungos Taryba'
+aliases:
+  - 'Tautų Sąjungos Taryba'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
@@ -11,7 +13,7 @@ tags:
   - grupe
   - tauta
 ---
-# Tautų Sąjungos Taryba
+# Tautų Sąjungos Taryba (institucija)
 
 ## Santrauka
 

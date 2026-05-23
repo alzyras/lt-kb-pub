@@ -1,14 +1,15 @@
 ---
 tipas: autorius
-pavadinimas: 'Werminghoef, A'
+pavadinimas: "Werminghoef, A"
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'A. Werminghoef'
+aliases:
+  - 'A. Werminghoef'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1890 m.'
-  - '1910 m.'
   - '1930 m.'
 periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
 periodo_grupes:
@@ -35,6 +36,12 @@ Werminghoef, A.
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'A. Werminghoef 1910 m. Berlyne išleido veikalą apie Tannenbergo mūšį ir jo reikšmę vokietybei Rytuose.'
+  pagrindžia:
+    - c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -55,6 +62,6 @@ Werminghoef, A.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/ivykiai/Tanenbergo mūšis 1410 m. liepos 15 d]]
+- [[objektai/ivykiai/Tanenbergo mūšis 1410 m. liepos 15 d|Tanenbergo mūšis 1410 m. liepos 15 d (mūšis, XV a.)]]
 - [[objektai/vietos/Tannenbergas]]
 - [[objektai/vietos/Berlynas]]

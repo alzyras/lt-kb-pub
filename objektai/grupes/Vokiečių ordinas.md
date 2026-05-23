@@ -193,7 +193,7 @@ Tai padaryti trukdė Vokiečių ordinas. Pagrindinis konfliktas su Vokiečių or
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Zigmantas I]]
 - [[objektai/zodynas/apsikarūnavimas]]
-- [[objektai/autoriai/J. Jakštas]]
+- [[objektai/autoriai/Jakštas, J]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/daiktai/Kryžius ant kardo galo]]
 - [[objektai/ivykiai/Melno taika ir Vokiečių ordino pretenzijų į Žemaitiją atsisakymas]]
@@ -207,3 +207,4 @@ Tai padaryti trukdė Vokiečių ordinas. Pagrindinis konfliktas su Vokiečių or
 - [[objektai/ivykiai/Kauno susitarimas su Vokiečių ordinu (1402 m.)]]
 - [[objektai/ivykiai/Kryžiuočių ordino atsikraustymas į Prūsus]]
 - [[objektai/daiktai/Vytauto ir Julijonos karūnos]]
+- [[objektai/ivykiai/Žalgirio mūšis (1410 m.)]]

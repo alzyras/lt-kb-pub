@@ -13,7 +13,6 @@ periodo_grupes:
   - 'naujieji laikai'
 amziai:
   - 'XIX'
-  - 'XX'
 date_start: '1846'
 date_end: ''
 patikimumas: 'vidutinis'

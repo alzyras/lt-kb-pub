@@ -382,6 +382,8 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
 - [[objektai/grupes/Švedai]]
 - [[objektai/ivykiai/1905 m. revoliucija Rusijoje]]
 - [[objektai/ivykiai/A. Smetonos perrinkimas ypatingųjų tautos atstovų balsais (1931 m. ir 1938 m.)]]
+- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
+- [[objektai/asmenys/Augustinas Voldemaras]]
 - [[objektai/ivykiai/B. Jelcino kreipimasis į Baltijos šalyse tarnaujančius karius po Sausio 13-osios (1991 m. sausio 14 d.)]]
 - [[objektai/grupes/Baltijos antantė]]
 - [[objektai/grupes/Estijos liaudies frontas]]

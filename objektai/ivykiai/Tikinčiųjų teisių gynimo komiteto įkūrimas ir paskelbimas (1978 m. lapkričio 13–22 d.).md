@@ -97,5 +97,5 @@ Nenurodyta
 - [[objektai/zodynas/kulto laisvė]]
 - [[objektai/asmenys/Sigitas Tamkevičius]]
 - [[objektai/asmenys/Alfonsas Svarinskas]]
-- [[objektai/grupes/Tikinčiųjų teisių gynimo komitetas]]
+- [[objektai/grupes/Tikinčiųjų teisių gynimo komitetas|Tikinčiųjų teisių gynimo komitetas (institucija)]]
 - [[objektai/asmenys/Vincentas Vėlavičius|Vincentas Vėlavičius (kunigas)]]

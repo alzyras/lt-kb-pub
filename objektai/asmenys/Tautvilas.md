@@ -6,18 +6,12 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-datos:
-  - '1249 m.'
-  - '1307 m.'
-  - '1382 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
-amziai:
-  - 'XIII'
-  - 'XIV'
-date_start: '1249'
-date_end: '1382'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -97,7 +91,6 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Mindaugas]]
 - [[objektai/ivykiai/Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia)]]
 - [[objektai/grupes/Rygos vokiečiai]]
 - [[objektai/ivykiai/Tautvilo nužudymas (apie 1263-1264 m.)]]

@@ -6,22 +6,12 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-datos:
-  - '1409 m.'
-  - '1411 m.'
-  - '1910 m.'
-  - '1923 m.'
-  - '1955 m.'
-  - '1960 m.'
-  - '1965 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
-  - 'XX'
-date_start: '1409'
-date_end: '1965'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - autorius

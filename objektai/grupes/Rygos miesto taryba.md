@@ -1,9 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'Rygos miesto taryba'
+pavadinimas: 'Rygos miesto taryba (institucija)'
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'Rygos miesto taryba'
+aliases:
+  - 'Rygos miesto taryba'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -21,7 +23,7 @@ tags:
   - miestas
   - vyskupas
 ---
-# Rygos miesto taryba
+# Rygos miesto taryba (institucija)
 
 ## Santrauka
 

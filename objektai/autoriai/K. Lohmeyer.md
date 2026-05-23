@@ -1,13 +1,15 @@
 ---
 tipas: autorius
-pavadinimas: 'K. Lohmeyer'
+pavadinimas: 'Karl Lohmeyer (istorikas)'
 sukurta: '2026-04-25'
 variantai:
   - 'Karl Lohmeyer'
   - 'Lohmeyer'
   - 'Lohmeyeris'
   - 'Lohm.'
-aliases: []
+  - 'K. Lohmeyer'
+aliases:
+  - 'K. Lohmeyer'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
@@ -30,7 +32,7 @@ patikimumas: 'vidutinis'
 tags:
   - autorius
 ---
-# K. Lohmeyer
+# Karl Lohmeyer (istorikas)
 
 ## Santrauka
 

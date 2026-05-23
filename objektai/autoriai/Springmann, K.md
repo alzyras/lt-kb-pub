@@ -1,14 +1,15 @@
 ---
 tipas: autorius
-pavadinimas: 'Springmann, K'
+pavadinimas: "Springmann, K"
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'K. Springmann'
+aliases:
+  - 'K. Springmann'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1923 m.'
-  - '1930 m.'
   - '1937 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
@@ -30,6 +31,12 @@ Springmann, K.
 ## Teiginiai
 - t-001
   teiginys: 'K. Springmannas 1923 m. Freiburge parengė disertaciją apie Lenkiją ir Vokiečių ordiną Konstancos susirinkimo laikais.'
+  pagrindžia:
+    - c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: 'K. Springmann 1923 m. Freiburge parengė disertaciją apie Lenkiją ir Vokiečių ordiną Konstancos susirinkimo metu.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)

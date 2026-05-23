@@ -40,7 +40,7 @@ Objektų skaičius: 18.
 
 ### Vietos
 - [[objektai/vietos/Oberostas]]
-- [[objektai/vietos/Trakų pilis]]
+- [[objektai/vietos/Trakų pilis|Trakų pilis (pilis)]]
 - [[objektai/vietos/Varšuvos kunigaikštystė]]
 
 ### Įvykiai

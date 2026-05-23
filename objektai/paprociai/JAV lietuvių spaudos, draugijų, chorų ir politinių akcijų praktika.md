@@ -2,8 +2,12 @@
 tipas: paprotys
 pavadinimas: "JAV lietuvių spaudos, draugijų, chorų ir politinių akcijų praktika"
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Kandidatas 65 JAV lietuvių spaudos, draugijų, chorų ir politinių akcijų praktika'
+  - 'Kandidatas JAV lietuvių spaudos, draugijų, chorų ir politinių akcijų praktika'
+aliases:
+  - 'Kandidatas 65 JAV lietuvių spaudos, draugijų, chorų ir politinių akcijų praktika'
+  - 'Kandidatas JAV lietuvių spaudos, draugijų, chorų ir politinių akcijų praktika'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
@@ -57,10 +61,6 @@ Nenurodyta
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: 'Tūkstančiai lietuvių važiavo uždarbiauti į Rygą, Peterburgą, Odesą, bet masiškiausia ekonominė emigracija nuo 1868 m. vyko į JAV.'
-  pagrindžia:
-    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -86,31 +86,6 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Tūkstančiai lietuvių važiavo uždarbiauti į Rygą, Peterburgą, Odesą, bet masiškiausia ekonominė emigracija nuo 1868 m. vyko į JAV.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tūkstančiai lietuvių važiavo uždarbiauti į Rygą, Peterburgą,
-    Odesą, bet masiškiausia ekonominė emigracija nuo 1868 m. vyko į JAV.
-    1910 m. JAV (Pensilvanijoje, Čikagoje, Niujorke) gyveno 207 tūkst. lietu-
-    vių, kurie laisvi ir nevaržomi kūrė savo spaudą, draugijas ir organizaci-
-
-    3 skyrius •  R U S I J O S  I M P E R I J O S  VA L D O M A  L I E T U VA  ( 1 7 9 5 – 1 9 1 5 )
-    121
-    jas, atspindėjusias socialistines ir krikščionių demokratų idėjas (pirmasis
-    vietos lietuviškas laikraštis JAV išėjo 1879 m.), plėtojosi meno saviveikla,
-    buvo kuriami chorai, JAV lietuviai finansiškai rėmė Lietuvos kultūrinį
-    gyvenimą, rengė politines akcijas, atkreipdami dėmesį į tautinius suvar-
-    žymus Rusijos imperijoje.
-    Amžiaus pabaigoje sorbų kilmės vokiečių politikas, mokslininkas, po-
-    liglotas Georgas (liet.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
 
 ## Ryšiai
 ### Susiję objektai
@@ -118,5 +93,8 @@ Nenurodyta
 - [[objektai/grupes/JAV lietuviai]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Nemunas]]
 - [[objektai/vietos/Rusija]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/autoriai/Zauerveinas]]
+- [[objektai/paprociai/Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną]]

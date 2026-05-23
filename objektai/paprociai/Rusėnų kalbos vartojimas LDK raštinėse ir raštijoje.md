@@ -2,8 +2,12 @@
 tipas: paprotys
 pavadinimas: "Rusėnų kalbos vartojimas LDK raštinėse ir raštijoje"
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Kandidatas 29 Rusėnų kalbos vartojimas LDK raštinėse ir raštijoje'
+  - 'Kandidatas Rusėnų kalbos vartojimas LDK raštinėse ir raštijoje'
+aliases:
+  - 'Kandidatas 29 Rusėnų kalbos vartojimas LDK raštinėse ir raštijoje'
+  - 'Kandidatas Rusėnų kalbos vartojimas LDK raštinėse ir raštijoje'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'

@@ -1,9 +1,11 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'laisvojo miesto statusas'
+pavadinimas: 'laisvojo miesto statusas (miestas)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'laisvojo miesto statusas'
+aliases:
+  - 'laisvojo miesto statusas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
@@ -11,7 +13,7 @@ tags:
   - miestas
   - sąvoka
 ---
-# laisvojo miesto statusas
+# laisvojo miesto statusas (miestas)
 
 ## Santrauka
 

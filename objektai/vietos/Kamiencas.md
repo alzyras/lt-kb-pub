@@ -61,6 +61,7 @@ Abu magistrai pasižadėjo nepulti krikščioniškų Trakų kunigaikšti­ jos s
 - [[objektai/vietos/Trakai]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/paliaubos]]
+- [[objektai/asmenys/Martynas V]]
 - [[objektai/zodynas/indulgencija]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/vietos/Belskas]]

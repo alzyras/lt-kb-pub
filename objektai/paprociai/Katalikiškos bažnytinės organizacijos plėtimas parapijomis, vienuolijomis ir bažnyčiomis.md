@@ -2,8 +2,12 @@
 tipas: paprotys
 pavadinimas: "Katalikiškos bažnytinės organizacijos plėtimas parapijomis, vienuolijomis ir bažnyčiomis"
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Kandidatas 26 Katalikiškos bažnytinės organizacijos plėtimas parapijomis, vienuolijomis ir bažnyčiomis'
+  - 'Kandidatas Katalikiškos bažnytinės organizacijos plėtimas parapijomis, vienuolijomis ir bažnyčiomis'
+aliases:
+  - 'Kandidatas 26 Katalikiškos bažnytinės organizacijos plėtimas parapijomis, vienuolijomis ir bažnyčiomis'
+  - 'Kandidatas Katalikiškos bažnytinės organizacijos plėtimas parapijomis, vienuolijomis ir bažnyčiomis'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'

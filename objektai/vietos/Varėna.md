@@ -232,7 +232,7 @@ tags:
 - [[objektai/zodynas/demarkacijos linija]]
 - [[objektai/vietos/Šeštokai]]
 - [[objektai/ivykiai/Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga)]]
-- [[objektai/grupes/Aukščiausioji Santarvininkių Taryba]]
+- [[objektai/grupes/Aukščiausioji Santarvininkių Taryba|Aukščiausioji Santarvininkių Taryba (institucija)]]
 - [[objektai/vietos/Juodoji Ančia]]
 - [[objektai/vietos/Lazdijai]]
 - [[objektai/vietos/Marcinkonys]]

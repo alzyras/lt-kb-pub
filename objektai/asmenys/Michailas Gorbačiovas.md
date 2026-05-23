@@ -264,7 +264,7 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
 - [[objektai/zodynas/konstitucijos]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Jedinstvo]]
-- [[objektai/grupes/Nacionalinio gelbėjimo komitetas]]
+- [[objektai/grupes/Nacionalinio gelbėjimo komitetas|Nacionalinio gelbėjimo komitetas (institucija)]]
 - [[objektai/vietos/Maskva]]
 - [[objektai/grupes/Lietuvos komunistų partija]]
 - [[objektai/ivykiai/Lietuvos nepriklausomybės tarptautinis pripažinimas (1991 m. vasario 11 d. – rugsėjo 6 d.)]]

@@ -8,7 +8,6 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1919 m.'
-  - '1920 m.'
   - '1926 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
@@ -183,9 +182,9 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/posakiai/„tėvyninė“ šalis]]
-- [[objektai/asmenys/A. Voldemaras]]
+- [[objektai/asmenys/Augustinas Voldemaras]]
 - [[objektai/asmenys/Juzefas Pilsudskis]]
 - [[objektai/posakiai/„Karas ar taika “]]
-- [[objektai/asmenys/A. Smetona|A. Smetona (prezidentas, XX a.)]]
+- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
 - [[objektai/asmenys/Ernestas Galvanauskas]]
 - [[objektai/posakiai/„seimokratija“]]

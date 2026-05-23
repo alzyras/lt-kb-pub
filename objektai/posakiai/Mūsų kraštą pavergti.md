@@ -1,9 +1,11 @@
 ---
 tipas: posakis
-pavadinimas: 'Mūsų kraštą pavergti'
+pavadinimas: 'Mūsų kraštą pavergti (kraštas)'
 sukurta: '2026-04-28'
-variantai: []
-aliases: []
+variantai:
+  - 'Mūsų kraštą pavergti'
+aliases:
+  - 'Mūsų kraštą pavergti'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -26,7 +28,7 @@ susije_irasai: []
 patikimumas: 'aukštas'
 tags: []
 ---
-# Mūsų kraštą pavergti
+# Mūsų kraštą pavergti (kraštas)
 
 ## Santrauka
 

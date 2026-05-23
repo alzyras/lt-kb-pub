@@ -56,7 +56,7 @@ Objektų skaičius: 59.
 
 ### Papročiai
 - [Bajorijos ir didikų pasipelnymo įprotis viešuosiuose reikaluose](../objektai/paprociai/Bajorijos%20ir%20didik%C5%B3%20pasipelnymo%20%C4%AFprotis%20vie%C5%A1uosiuose%20reikaluose)
-- [Bajorijos stiprinimas valdovo privilegijomis](../objektai/paprociai/Bajorijos%20stiprinimas%20valdovo%20privilegijomis)
+- [Bajorijos stiprinimas valdovo privilegijomis (privilegija)](../objektai/paprociai/Bajorijos%20stiprinimas%20valdovo%20privilegijomis)
 - [Baudžiauninkų tikėjimo priklausomybė nuo pono paskirto kunigo](../objektai/paprociai/Baud%C5%BEiaunink%C5%B3%20tik%C4%97jimo%20priklausomyb%C4%97%20nuo%20pono%20paskirto%20kunigo)
 - [Didikų perėjimas į kalvinizmą ir funduotų bažnyčių sekuliarizavimas](../objektai/paprociai/Didik%C5%B3%20per%C4%97jimas%20%C4%AF%20kalvinizm%C4%85%20ir%20funduot%C5%B3%20ba%C5%BEny%C4%8Di%C5%B3%20sekuliarizavimas)
 - [Procesijos ir iškilmingos laidotuvės](../objektai/paprociai/Procesijos%20ir%20i%C5%A1kilmingos%20laidotuv%C4%97s)
@@ -72,8 +72,8 @@ Objektų skaičius: 59.
 - [Vidžemė](../objektai/vietos/Vid%C5%BEem%C4%97)
 
 ### Įvykiai
-- [1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas](../objektai/ivykiai/1413%20m.%20Horodl%C4%97s%20unijos%20per%C5%BEi%C5%ABra%20ir%20naujas%20i%C5%A1tikimyb%C4%97s%20pa%C5%BEadas)
-- [1425 m. Bresto (Kujavijoj) seimas](../objektai/ivykiai/1425%20m.%20Bresto%20%28Kujavijoj%29%20seimas)
+- [1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas (unija)](../objektai/ivykiai/1413%20m.%20Horodl%C4%97s%20unijos%20per%C5%BEi%C5%ABra%20ir%20naujas%20i%C5%A1tikimyb%C4%97s%20pa%C5%BEadas)
+- [1425 m. Bresto (Kujavijoj) seimas (seimas, XV a.)](../objektai/ivykiai/1425%20m.%20Bresto%20%28Kujavijoj%29%20seimas)
 - [1426 m. Lietuvos Brastos suvažiavimas](../objektai/ivykiai/1426%20m.%20Lietuvos%20Brastos%20suva%C5%BEiavimas)
 - [Baro konfederacija (1768–1772 m.)](../objektai/ivykiai/Baro%20konfederacija%20%281768%E2%80%931772%20m.%29)
 - [Mykolo Kaributo Višniaveckio elekcija (1669 m.)](../objektai/ivykiai/Mykolo%20Kaributo%20Vi%C5%A1niaveckio%20elekcija%20%281669%20m.%29)

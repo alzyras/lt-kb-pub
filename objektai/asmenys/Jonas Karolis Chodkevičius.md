@@ -51,4 +51,3 @@ Chodkevičiaus vadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kai
 - [[objektai/vietos/Salacgryva]]
 - [[objektai/grupes/Chodkevičiai]]
 - [[objektai/vietos/Viljandis]]
-- [[objektai/ivykiai/Salaspilio (Kirchholmo) mūšis]]

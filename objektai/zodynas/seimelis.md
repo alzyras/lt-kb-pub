@@ -125,7 +125,7 @@ tags:
 - [[objektai/zodynas/urėdas]]
 - [[objektai/paprociai/Bajorijos seimelių rinkimosi ir atstovų rinkimo praktika]]
 - [[objektai/zodynas/Klaipėdiškiai]]
-- [[objektai/paprociai/Klaipėdos krašto autonominis režimas]]
+- [[objektai/paprociai/Klaipėdos krašto autonominis režimas|Klaipėdos krašto autonominis režimas (kraštas)]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Vyriausiasis Lietuvos tribunolas]]
 - [[objektai/paprociai/Vyriausiojo Lietuvos tribunolo teisėjų rinkimas seimeliuose]]

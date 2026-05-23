@@ -8,7 +8,6 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1990 m.'
-  - '1991 m.'
   - '1992 m.'
 periodas: 'atkurtos nepriklausomybės laikotarpis'
 periodo_grupes:
@@ -251,7 +250,7 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
 - [[objektai/vietos/SSRS]]
 - [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/ivykiai/Lietuvos ir Baltarusijos geros kaimynystės deklaracijos ir sutarties pasirašymas]]
+- [[objektai/ivykiai/Lietuvos ir Baltarusijos geros kaimynystės deklaracijos ir sutarties pasirašymas|Lietuvos ir Baltarusijos geros kaimynystės deklaracijos ir sutarties pasirašymas (sutartis)]]
 - [[objektai/ivykiai/Bandymas įsiveržti į parlamentą (1991 m. sausio 8 d.)]]
 - [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]
 - [[objektai/posakiai/„Daina mums padėjo, padėjo šimtmečiais... Nekreipkime dėmesio į tuos šaudymus, dainuokime!“]]

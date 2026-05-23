@@ -51,4 +51,4 @@ Buvo patvirtintos 1768 m. vad. kardinalinės teisės, kurių garantu vėl tapo R
 - [[objektai/vietos/Rusija]]
 - [[objektai/daiktai/Varpai]]
 - [[objektai/zodynas/kitatikiai]]
-- [[objektai/grupes/Varšuvos konfederacinis seimas]]
+- [[objektai/grupes/Varšuvos konfederacinis seimas|Varšuvos konfederacinis seimas (seimas)]]

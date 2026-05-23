@@ -165,7 +165,6 @@ Nenurodyta
 - [[temos/simbolis]]
 
 ### Susiję objektai
-- [[objektai/asmenys/A. Smetona|A. Smetona (prezidentas, XX a.)]]
 - [[objektai/vietos/Didžioji Britanija]]
 - [[objektai/vietos/Kaunas]]
 - [[objektai/vietos/Lenkija]]

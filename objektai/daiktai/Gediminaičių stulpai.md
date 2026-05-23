@@ -154,5 +154,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
 - [[objektai/daiktai/Sąjūdžio ženklas su Gedimino stulpais]]
-- [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/daiktai/Herbai]]

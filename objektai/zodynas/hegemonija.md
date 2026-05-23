@@ -56,6 +56,7 @@ Ir Vy­ tautas, matyt, nepasitikėdamas gerais santykiais su Lenkija, ta­ rytum
 ### Susiję objektai
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
 - [[objektai/grupes/Respublikonai]]
 - [[objektai/grupes/Valkininkų konfederacija]]
 - [[objektai/zodynas/kontribucija]]

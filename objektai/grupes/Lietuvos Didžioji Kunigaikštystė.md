@@ -228,4 +228,4 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/kultūrinė autonomija]]
 - [[objektai/zodynas/rusinimas]]
-- [[objektai/zodynas/rusinimas Vakarų Rusija Šiaurės Vakarų kraštas]]
+- [[objektai/zodynas/rusinimas Vakarų Rusija Šiaurės Vakarų kraštas|rusinimas Vakarų Rusija Šiaurės Vakarų kraštas (kraštas)]]

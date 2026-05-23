@@ -1,9 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Eigulių pilis'
+pavadinimas: 'Eigulių pilis (pilis)'
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'Eigulių pilis'
+aliases:
+  - 'Eigulių pilis'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -20,7 +22,7 @@ tags:
   - pilis
   - vieta
 ---
-# Eigulių pilis
+# Eigulių pilis (pilis)
 
 ## Santrauka
 

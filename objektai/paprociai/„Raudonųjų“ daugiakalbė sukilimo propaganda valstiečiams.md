@@ -1,9 +1,15 @@
 ---
 tipas: paprotys
-pavadinimas: "„Raudonųjų“ daugiakalbė sukilimo propaganda valstiečiams"
+pavadinimas: '„Raudonųjų“ daugiakalbė sukilimo propaganda valstiečiams (sukilimas)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - '„Raudonųjų“ daugiakalbė sukilimo propaganda valstiečiams'
+  - 'Kandidatas 51 „Raudonųjų“ daugiakalbė sukilimo propaganda valstiečiams'
+  - 'Kandidatas „Raudonųjų“ daugiakalbė sukilimo propaganda valstiečiams'
+aliases:
+  - '„Raudonųjų“ daugiakalbė sukilimo propaganda valstiečiams'
+  - 'Kandidatas 51 „Raudonųjų“ daugiakalbė sukilimo propaganda valstiečiams'
+  - 'Kandidatas „Raudonųjų“ daugiakalbė sukilimo propaganda valstiečiams'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
@@ -13,7 +19,7 @@ tags:
   - sukilimas
   - tikėjimas
 ---
-# „Raudonųjų“ daugiakalbė sukilimo propaganda valstiečiams
+# „Raudonųjų“ daugiakalbė sukilimo propaganda valstiečiams (sukilimas)
 
 ## Santrauka
 

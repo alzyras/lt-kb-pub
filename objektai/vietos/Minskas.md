@@ -192,6 +192,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 - [[objektai/vietos/Bobruiskas]]
 - [[objektai/vietos/Gardinas]]
 - [[objektai/vietos/Gardino gubernija]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
 - [[objektai/asmenys/I. Zolotarenko]]
 - [[objektai/vietos/Juodoji Rusia]]
 - [[objektai/vietos/Kauno gubernija]]

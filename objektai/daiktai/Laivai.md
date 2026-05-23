@@ -175,5 +175,5 @@ Nenurodyta
 - [[objektai/ivykiai/Vilniaus apgultis ir mūšiai prie Rudaminos (1394 m. vasara)]]
 - [[objektai/ivykiai/Vytauto paliaubos ir taikos derybos su Livonijos ordinu (1410 m. vasara)]]
 - [[objektai/ivykiai/Vytenio žygis į Sembą, Natangą ir Varmę bei pralaimėjimas Woplaukene (1311 m.)]]
-- [[objektai/vietos/Kauno pilis]]
+- [[objektai/vietos/Kauno pilis|Kauno pilis (pilis)]]
 - [[objektai/vietos/Trapėnai]]

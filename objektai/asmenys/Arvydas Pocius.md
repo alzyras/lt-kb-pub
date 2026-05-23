@@ -101,5 +101,5 @@ Ant Aukščiausiosios Tarybos stogo pritvirtinti metaliniai strypai turėjo apsu
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Aukščiausiosios Tarybos rūmai]]
+- [[objektai/vietos/Aukščiausiosios Tarybos rūmai|Aukščiausiosios Tarybos rūmai (institucija)]]
 - [[objektai/vietos/Lietuva]]

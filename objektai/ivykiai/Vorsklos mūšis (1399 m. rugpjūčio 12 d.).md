@@ -1,9 +1,11 @@
 ---
 tipas: ivykis
-pavadinimas: 'Vorsklos mūšis (1399 m. rugpjūčio 12 d.)'
+pavadinimas: "Vorsklos mūšis (1399 m. rugpjūčio 12 d.)"
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'Vorsklos mūšis'
+aliases:
+  - 'Vorsklos mūšis'
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
@@ -66,6 +68,22 @@ Nenurodyta
   teiginys: 'Mūšio padariniai Visų trijų Vytauto žygių, Vorsklos kautynių įvykiai apibendrinti Detmaro Liubeko kronikos tęsinyje: tuo metu lietuviai prieš totorius kariavę tris kartus, dvejas kautynes laimėję, o prie Vorsklos patyrę nesėkmę; to meto žiniomis, tuose.'
   pagrindžia:
     - c-004
+- t-006
+  teiginys: 'Vorsklos kautynės reiškė galą Vytauto didiesiems planams, o didelė jo kariuomenės dalis buvo išžudyta.'
+  pagrindžia:
+    - c-006
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-007
+  teiginys: 'Vytautui nakties tamsoje pavyko pabėgti kartu su jaunu broliu Žygimantu ir Švitrigaila.'
+  pagrindžia:
+    - c-007
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-008
+  teiginys: 'Vorsklos kautynės, apie kurias iš ano laiko yra daug šaltinių^35 , reiškė galą Vytauto didiesiems planams.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -148,6 +166,56 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-006
+  santrauka: 'Vorsklos kautynės reiškė galą Vytauto didiesiems planams, o didelė jo kariuomenės dalis buvo išžudyta.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Šitaip rugpiučio 12 popietėje totorių kariuo­
+    menės į kautynes stojo žymiai daugiau už Vytauto jėgas^34.
+    Vorsklos kautynės, apie kurias iš ano laiko yra daug šaltinių^35 ,
+    reiškė galą Vytauto didiesiems planams. Didelė dalis apsuptos jo
+    kariuomenės (skaičiuojama trys ketvirčiai) buvo išžudyta.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: 'Vytautui nakties tamsoje pavyko pabėgti kartu su jaunu broliu Žygimantu ir Švitrigaila.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Iš vokiečių ordino kariuomenės teišsigelbėjo pora riterių (jų
+    tarpe Salzbacbas) ir dešimtis vyrų^38. Savo galvas tolimose stepėse
+    paliko ir vieninteliai du lietuviai-kryžiuočiai Jonas ir Tomas Sur­
+    vilos.
+    Pačiam Vytautui nakties tamsoje, drauge su jaunu broliu
+    Žygimantu ir Švitrigaila, pasisekė pabėgti.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: 'Vorsklos kautynės, apie kurias iš ano laiko yra daug šaltinių^35 , reiškė galą Vytauto didiesiems planams.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Vorsklos kautynės, apie kurias iš ano laiko yra daug šaltinių^35 ,
+    reiškė galą Vytauto didiesiems planams. Didelė dalis apsuptos jo
+    kariuomenės (skaičiuojama trys ketvirčiai) buvo išžudyta. Už­
+    muštųjų skaičius tačiau labai perdedamas, kai minima 100.000
+    kritusių, nes iš viso Vytauto pusėje kovojančių krikščionių tebuvo
+    bent dešimtį kartų mažiau.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
 
 ## Ryšiai
 ### Susiję objektai
@@ -158,9 +226,11 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/vietos/Liubekas]]
 - [[objektai/grupes/Totoriai]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/vietos/Vorskla]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/ivykiai/Vorsklos mūšis]]
+- [[objektai/asmenys/Žygimantas]]
+- [[objektai/asmenys/Švitrigaila]]
 - [[objektai/daiktai/Geležinėmis grandinėmis kaustyti vežimai]]
 - [[objektai/autoriai/J. Dlugošas]]

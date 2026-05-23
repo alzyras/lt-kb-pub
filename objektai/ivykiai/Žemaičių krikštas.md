@@ -1,9 +1,11 @@
 ---
 tipas: ivykis
-pavadinimas: 'Žemaičių krikštas'
+pavadinimas: 'Žemaičių krikštas (krikštas)'
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'Žemaičių krikštas'
+aliases:
+  - 'Žemaičių krikštas'
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
@@ -23,7 +25,7 @@ tags:
   - mūšis
   - tauta
 ---
-# Žemaičių krikštas
+# Žemaičių krikštas (krikštas)
 
 ## Santrauka
 
@@ -83,5 +85,4 @@ Nenurodyta
 - [[objektai/ivykiai/Torno taika (1411 m.)]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/unija]]
-- [[objektai/ivykiai/Žalgirio mūšis]]
 - [[objektai/vietos/Žalgiris]]

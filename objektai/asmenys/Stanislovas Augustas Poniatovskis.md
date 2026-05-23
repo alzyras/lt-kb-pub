@@ -10,13 +10,6 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1697 m.'
-  - '1733 m.'
-  - '1763 m.'
-  - '1764 m.'
-  - '1791 m.'
-  - '1792 m.'
-  - '1793 m.'
-  - '1795 m.'
   - '1797 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
@@ -398,7 +391,7 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
 ### Susiję objektai
 - [[objektai/vietos/Austrija]]
 - [[objektai/vietos/Gardinas]]
-- [[objektai/grupes/Gardino seimas]]
+- [[objektai/grupes/Gardino seimas|Gardino seimas (seimas)]]
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Prūsija]]

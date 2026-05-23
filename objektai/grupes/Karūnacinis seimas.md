@@ -1,9 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'Karūnacinis seimas'
+pavadinimas: 'Karūnacinis seimas (seimas)'
 sukurta: '2026-04-25'
-variantai: []
-aliases: []
+variantai:
+  - 'Karūnacinis seimas'
+aliases:
+  - 'Karūnacinis seimas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
@@ -11,7 +13,7 @@ tags:
   - grupe
   - seimas
 ---
-# Karūnacinis seimas
+# Karūnacinis seimas (seimas)
 
 ## Santrauka
 

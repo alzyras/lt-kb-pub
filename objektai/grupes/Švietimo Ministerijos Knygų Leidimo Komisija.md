@@ -1,9 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'Švietimo Ministerijos Knygų Leidimo Komisija'
+pavadinimas: 'Švietimo Ministerijos Knygų Leidimo Komisija (institucija)'
 sukurta: '2026-04-25'
-variantai: []
-aliases: []
+variantai:
+  - 'Švietimo Ministerijos Knygų Leidimo Komisija'
+aliases:
+  - 'Švietimo Ministerijos Knygų Leidimo Komisija'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
@@ -22,7 +24,7 @@ patikimumas: 'vidutinis'
 tags:
   - grupe
 ---
-# Švietimo Ministerijos Knygų Leidimo Komisija
+# Švietimo Ministerijos Knygų Leidimo Komisija (institucija)
 
 ## Santrauka
 

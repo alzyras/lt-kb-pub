@@ -2,8 +2,12 @@
 tipas: paprotys
 pavadinimas: "Gedimino kvietimas Vakarų pirkliams, amatininkams ir kolonistams į Lietuvą"
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Kandidatas 14 Gedimino kvietimas Vakarų pirkliams, amatininkams ir kolonistams į Lietuvą'
+  - 'Kandidatas Gedimino kvietimas Vakarų pirkliams, amatininkams ir kolonistams į Lietuvą'
+aliases:
+  - 'Kandidatas 14 Gedimino kvietimas Vakarų pirkliams, amatininkams ir kolonistams į Lietuvą'
+  - 'Kandidatas Gedimino kvietimas Vakarų pirkliams, amatininkams ir kolonistams į Lietuvą'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
@@ -106,6 +110,8 @@ Nenurodyta
   santrauka: 'Atsisakęs krikšto, Gediminas neatsisakė tikslo artinti Lietuvą prie Vakarų Europos, kviesdamas vokiečių kolonistus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Tačiau 1323–1324 m. Gedimino krikšto akcija
+    nepavyko dėl žemaičių ir stačiatikių dvariškių pasipriešinimo.
     Krikšto atsisakymas nereiškė, kad Gediminas atsisakė ir kito tikslo –
     priartinti Lietuvą prie Vakarų Europos, kviesdamas atvykti vokiečių ko-
 
@@ -122,6 +128,12 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Baltai]]
 - [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/ivykiai/Gedimino krikšto akcija|Gedimino krikšto akcija (krikštas)]]
+- [[objektai/grupes/Karaimai]]
 - [[objektai/vietos/Lietuva]]
+- [[objektai/grupes/Stačiatikiai]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/unija]]

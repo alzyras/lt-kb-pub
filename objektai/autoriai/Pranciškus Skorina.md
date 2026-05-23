@@ -16,9 +16,6 @@ dalyviai: []
 susije_irasai: []
 datos:
   - '1490 m.'
-  - '1517 m.'
-  - '1519 m.'
-  - '1522 m.'
   - '1541 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:

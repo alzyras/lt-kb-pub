@@ -10,26 +10,12 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos:
-  - '1558 m.'
-  - '1569 m.'
-  - '1576 m.'
-  - '1579 m.'
-  - '1581 m.'
-  - '1582 m.'
-  - '1586 m.'
-  - '1609 m.'
-  - '1611 m.'
-  - '1850 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
-  - 'XVII'
-  - 'XIX'
-date_start: '1558'
-date_end: '1850'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - asmuo

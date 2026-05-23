@@ -1,9 +1,11 @@
 ---
 tipas: ivykis
-pavadinimas: 'Kėdainių sutarties sudarymas su Švedija'
+pavadinimas: 'Kėdainių sutarties sudarymas su Švedija (sutartis)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Kėdainių sutarties sudarymas su Švedija'
+aliases:
+  - 'Kėdainių sutarties sudarymas su Švedija'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
@@ -30,7 +32,7 @@ tags:
   - karas
   - sutartis
 ---
-# Kėdainių sutarties sudarymas su Švedija
+# Kėdainių sutarties sudarymas su Švedija (sutartis)
 
 ## Santrauka
 

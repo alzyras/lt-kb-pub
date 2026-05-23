@@ -249,4 +249,5 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
 - [[objektai/grupes/Rusijos kariuomenė]]
 - [[objektai/vietos/Vileika]]
 - [[objektai/ivykiai/Vilniaus užėmimas (1655 m. rugpjūčio 7 d.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/vietos/Širvintos]]

@@ -1,9 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: "Lydos pilis"
+pavadinimas: 'Lydos pilis (pilis)'
 sukurta: "2026-04-28"
-variantai: []
-aliases: []
+variantai:
+  - 'Lydos pilis'
+aliases:
+  - 'Lydos pilis'
 saltiniai:
   - "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
 bukle: juodrastis
@@ -21,7 +23,7 @@ susije_irasai: []
 patikimumas: "vidutinis"
 tags: []
 ---
-# Lydos pilis
+# Lydos pilis (pilis)
 
 ## Santrauka
 Lydos pilis šiame šaltinyje minima kaip mūrinė pilis, kuri turėjo būti pastatyta Vytauto valdymo pradžioje.
@@ -75,5 +77,5 @@ Tai pilis, minima tarp ankstyvųjų Vytauto mūro statybų.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Medininkų pilis]]
+- [[objektai/vietos/Medininkų pilis|Medininkų pilis (pilis)]]
 - [[objektai/vietos/Vilnius]]

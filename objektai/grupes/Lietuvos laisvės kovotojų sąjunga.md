@@ -76,4 +76,4 @@ Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė �
 - [[objektai/ivykiai/Gestapo represijos už lietuvių mobilizacijos į SS boikotą (1943 m. kovas-birželis)]]
 - [[objektai/grupes/Lietuvių frontas]]
 - [[objektai/grupes/Lietuvių vienybės sąjūdis]]
-- [[objektai/grupes/Vyriausiasis Lietuvos išlaisvinimo komitetas]]
+- [[objektai/grupes/Vyriausiasis Lietuvos išlaisvinimo komitetas|Vyriausiasis Lietuvos išlaisvinimo komitetas (institucija)]]

@@ -74,7 +74,6 @@ Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė monopolizuoti Lie
 - [[objektai/vietos/Urugvajus]]
 - [[objektai/vietos/Vatikanas]]
 - [[objektai/vietos/Vokietija]]
-- [[objektai/asmenys/A. Smetona|A. Smetona (prezidentas, XX a.)]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
 - [[objektai/asmenys/Josifas Stalinas]]
 - [[objektai/daiktai/Lietuvos trispalvė]]

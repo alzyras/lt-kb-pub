@@ -65,5 +65,5 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
 - [[objektai/vietos/Pomeranija]]
 - [[objektai/vietos/Stralsundas]]
 - [[objektai/ivykiai/Tanenbergo mūšis (1410 m. liepos 15 d.)]]
-- [[objektai/ivykiai/Tanenbergo mūšis 1410 m. liepos 15 d]]
+- [[objektai/ivykiai/Tanenbergo mūšis 1410 m. liepos 15 d|Tanenbergo mūšis 1410 m. liepos 15 d (mūšis, XV a.)]]
 - [[objektai/vietos/Greifsvaldas]]

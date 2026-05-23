@@ -1,9 +1,11 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'krašto magistras'
+pavadinimas: 'krašto magistras (kraštas)'
 sukurta: '2026-04-25'
-variantai: []
-aliases: []
+variantai:
+  - 'krašto magistras'
+aliases:
+  - 'krašto magistras'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
@@ -12,7 +14,7 @@ tags:
   - ordinas
   - sąvoka
 ---
-# krašto magistras
+# krašto magistras (kraštas)
 
 ## Santrauka
 

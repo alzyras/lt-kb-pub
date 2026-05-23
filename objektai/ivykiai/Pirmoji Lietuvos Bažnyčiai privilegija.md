@@ -1,9 +1,11 @@
 ---
 tipas: ivykis
-pavadinimas: 'Pirmoji Lietuvos Bažnyčiai privilegija'
+pavadinimas: 'Pirmoji Lietuvos Bažnyčiai privilegija (privilegija)'
 sukurta: '2026-04-25'
-variantai: []
-aliases: []
+variantai:
+  - 'Pirmoji Lietuvos Bažnyčiai privilegija'
+aliases:
+  - 'Pirmoji Lietuvos Bažnyčiai privilegija'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
@@ -11,7 +13,7 @@ tags:
   - ivykis
   - privilegija
 ---
-# Pirmoji Lietuvos Bažnyčiai privilegija
+# Pirmoji Lietuvos Bažnyčiai privilegija (privilegija)
 
 ## Santrauka
 

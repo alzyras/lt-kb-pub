@@ -1,9 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Suvalkų kraštas'
+pavadinimas: 'Suvalkų kraštas (kraštas)'
 sukurta: '2026-04-25'
-variantai: []
-aliases: []
+variantai:
+  - 'Suvalkų kraštas'
+aliases:
+  - 'Suvalkų kraštas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
@@ -24,7 +26,7 @@ tags:
   - kunigaikštis
   - vieta
 ---
-# Suvalkų kraštas
+# Suvalkų kraštas (kraštas)
 
 ## Santrauka
 

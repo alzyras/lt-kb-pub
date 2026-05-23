@@ -46,7 +46,7 @@ Iškilus didesnių sričių valdovams —kunigaikščiams, senieji apylinkių va
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/ivykiai/1422 m. Červinsko stovykla ir bajorų privilegijų suteikimas]]
+- [[objektai/ivykiai/1422 m. Červinsko stovykla ir bajorų privilegijų suteikimas|1422 m. Červinsko stovykla ir bajorų privilegijų suteikimas (privilegija)]]
 - [[objektai/asmenys/A. Suvorovas]]
 - [[objektai/asmenys/Aleksandras I]]
 - [[objektai/grupes/Bajorijos konfederacija]]
@@ -78,8 +78,6 @@ Iškilus didesnių sričių valdovams —kunigaikščiams, senieji apylinkių va
 - [[objektai/vietos/Naujasis Dolskas]]
 - [[objektai/ivykiai/Nebylus seimas (1717 m.)]]
 - [[objektai/posakiai/Niekad, niekados]]
-- [[objektai/paprociai/Pagoniškų elementų ir pagoniškųjų tikėjimų integravimas į krikščioniškas praktikas]]
-- [[objektai/paprociai/Pagoniškųjų tikėjimų integravimas į krikščionišką praktiką]]
 - [[objektai/asmenys/Palemonas]]
 - [[objektai/grupes/Pijarų ordinas]]
 - [[objektai/ivykiai/Raseinių bajorų sukilimas ir Raseinių užėmimas (1831 m. kovo 25 d.)]]

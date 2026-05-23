@@ -92,12 +92,12 @@ Pociaus vadovaujamų vyrų buvo išdėstyti ties Žvėryno tiltu kitoje Neries p
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/ATAS]]
-- [[objektai/vietos/Aukščiausiosios Tarybos rūmai]]
+- [[objektai/vietos/Aukščiausiosios Tarybos rūmai|Aukščiausiosios Tarybos rūmai (institucija)]]
 - [[objektai/asmenys/Goštautas]]
 - [[objektai/autoriai/Martynas Mažvydas Vaitkūnas]]
 - [[objektai/posakiai/Nepakartoti 1940 m. klaidos!]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/paprociai/Aukščiausiosios Tarybos gynybos principai]]
+- [[objektai/paprociai/Aukščiausiosios Tarybos gynybos principai|Aukščiausiosios Tarybos gynybos principai (institucija)]]
 - [[objektai/ivykiai/Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)]]
 - [[objektai/vietos/Nacionalinė M. Mažvydo biblioteka]]

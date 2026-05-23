@@ -176,6 +176,7 @@ Nenurodyta.
 - [[objektai/asmenys/Teodosijus]]
 - [[objektai/asmenys/Teofilis (arkivyskupas)]]
 - [[objektai/vietos/Vladimiras (prie Kliazmos)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/daugiakonfesiškumas]]
 - [[objektai/zodynas/daugiakonfesiškumas daugiakultūriškumas]]
 - [[objektai/zodynas/metropolija]]

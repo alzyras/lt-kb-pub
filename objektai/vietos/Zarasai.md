@@ -91,10 +91,10 @@ Ukmergėje, Zarasuose, Kėdainiuose ir Jurbarke buvo pastatytos naujos cerkvės,
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/A. Voldemaras]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/1-asis pėstininkų pulkas]]
 - [[objektai/grupes/11 brigada]]
+- [[objektai/asmenys/Augustinas Voldemaras]]
 - [[objektai/asmenys/K. Ladyga]]
 - [[objektai/grupes/Kuršiai]]
 - [[objektai/paprociai/Lietuvių ir lenkų dalinių bendros operacijos bei pasienio susirėmimai]]

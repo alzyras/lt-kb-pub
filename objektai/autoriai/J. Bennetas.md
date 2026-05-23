@@ -8,7 +8,6 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1615 m.'
-  - '1673 m.'
   - '1674 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
@@ -68,4 +67,4 @@ Benneto veikalo „Viešpaties dešinės galybė“, 1674) 2 skyrius • L E N K
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/vietos/Vilnius]]
-- [[objektai/ivykiai/Chotyno mūšis]]
+- [[objektai/ivykiai/Chotyno mūšis|Chotyno mūšis (mūšis)]]

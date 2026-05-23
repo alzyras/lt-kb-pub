@@ -2,8 +2,12 @@
 tipas: paprotys
 pavadinimas: "Jėzuitiškas mokymas ir katalikybės sklaida per Vilniaus universitetą"
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Kandidatas 41 Jėzuitiškas mokymas ir katalikybės sklaida per Vilniaus universitetą'
+  - 'Kandidatas Jėzuitiškas mokymas ir katalikybės sklaida per Vilniaus universitetą'
+aliases:
+  - 'Kandidatas 41 Jėzuitiškas mokymas ir katalikybės sklaida per Vilniaus universitetą'
+  - 'Kandidatas Jėzuitiškas mokymas ir katalikybės sklaida per Vilniaus universitetą'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'

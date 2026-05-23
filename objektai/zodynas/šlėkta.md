@@ -64,7 +64,7 @@ Juk jau 1425 m. viename suvažiavime šlėkta pasirinko karalai­ tį Vladislov�
 
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
-- [[objektai/ivykiai/1422 m. Červinsko stovykla ir bajorų privilegijų suteikimas]]
+- [[objektai/ivykiai/1422 m. Červinsko stovykla ir bajorų privilegijų suteikimas|1422 m. Červinsko stovykla ir bajorų privilegijų suteikimas (privilegija)]]
 - [[objektai/paprociai/Kreipimasis į Vytautą svarbiausiais reikalais]]
 - [[objektai/asmenys/Maldžykas]]
 - [[objektai/asmenys/Vladislovas (Jogailos sūnus)]]

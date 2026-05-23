@@ -1,11 +1,13 @@
 ---
 tipas: asmuo
-pavadinimas: 'J. Tonkūnas'
+pavadinimas: 'J. Tonkūnas (švietimo ministeris)'
 sukurta: '2026-04-24'
 variantai:
   - 'J. Tonkūnui'
   - 'prof. J. Tonkūnas'
-aliases: []
+  - 'J. Tonkūnas'
+aliases:
+  - 'J. Tonkūnas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 laikotarpis: '1936 m.'
@@ -23,7 +25,7 @@ patikimumas: 'aukštas'
 tags:
   - asmuo
 ---
-# J. Tonkūnas
+# J. Tonkūnas (švietimo ministeris)
 
 ## Santrauka
 

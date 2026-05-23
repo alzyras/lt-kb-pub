@@ -127,7 +127,6 @@ Mūšis Pokalbyje su chanu prieš mūšį Vytautas tarsi reikalavęs pavaldumo -
 - [[objektai/asmenys/Uzbeko]]
 - [[objektai/grupes/Užvolgio totoriai]]
 - [[objektai/ivykiai/Užvolgio totorių sumušimas ir Machmeto iškėlimas į Aukso Ordos chanus (1424 m.)]]
-- [[objektai/ivykiai/Vorsklos mūšis]]
 - [[objektai/asmenys/Vosylius]]
 - [[objektai/asmenys/Vosylius II]]
 - [[objektai/daiktai/Vytauto ženklas]]

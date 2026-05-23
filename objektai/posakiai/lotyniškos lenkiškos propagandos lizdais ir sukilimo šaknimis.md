@@ -1,9 +1,11 @@
 ---
 tipas: posakis
-pavadinimas: 'lotyniškos lenkiškos propagandos lizdais ir sukilimo šaknimis'
+pavadinimas: 'lotyniškos lenkiškos propagandos lizdais ir sukilimo šaknimis (sukilimas)'
 sukurta: '2026-04-25'
-variantai: []
-aliases: []
+variantai:
+  - 'lotyniškos lenkiškos propagandos lizdais ir sukilimo šaknimis'
+aliases:
+  - 'lotyniškos lenkiškos propagandos lizdais ir sukilimo šaknimis'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
@@ -11,7 +13,7 @@ tags:
   - posakis
   - sukilimas
 ---
-# lotyniškos lenkiškos propagandos lizdais ir sukilimo šaknimis
+# lotyniškos lenkiškos propagandos lizdais ir sukilimo šaknimis (sukilimas)
 
 ## Santrauka
 

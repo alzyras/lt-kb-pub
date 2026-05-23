@@ -1,9 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'Valstybės gynimo taryba'
+pavadinimas: 'Valstybės gynimo taryba (institucija)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Valstybės gynimo taryba'
+aliases:
+  - 'Valstybės gynimo taryba'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
@@ -12,7 +14,7 @@ tags:
   - kraštas
   - valstybė
 ---
-# Valstybės gynimo taryba
+# Valstybės gynimo taryba (institucija)
 
 ## Santrauka
 

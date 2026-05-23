@@ -62,6 +62,7 @@ Italijoje), kur jie buvo maloniai priimti ir gavo jo brevę (1388.
 - [[objektai/vietos/Perudžija]]
 - [[objektai/asmenys/Urbonas VI]]
 - [[objektai/vietos/Vilnius]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Inocentas VI]]
 - [[objektai/ivykiai/Vilniaus vyskupystės įkūrimas]]
 - [[objektai/grupes/Lietuviai]]

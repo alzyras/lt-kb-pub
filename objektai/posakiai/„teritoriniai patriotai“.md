@@ -45,7 +45,6 @@ Smetonos nuostatos – kadangi leidžiame tautinėms mažumoms gimtosios kalbos 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/A. Smetona|A. Smetona (prezidentas, XX a.)]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Žydai]]

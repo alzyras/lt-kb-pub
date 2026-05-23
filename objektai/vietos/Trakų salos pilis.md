@@ -1,9 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Trakų salos pilis'
+pavadinimas: 'Trakų salos pilis (pilis)'
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'Trakų salos pilis'
+aliases:
+  - 'Trakų salos pilis'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
@@ -20,7 +22,7 @@ tags:
   - pilis
   - vieta
 ---
-# Trakų salos pilis
+# Trakų salos pilis (pilis)
 
 ## Santrauka
 

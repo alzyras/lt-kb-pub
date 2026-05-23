@@ -1,9 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Rusijos šiaurės vakarų kraštas'
+pavadinimas: 'Rusijos šiaurės vakarų kraštas (kraštas)'
 sukurta: '2026-04-25'
-variantai: []
-aliases: []
+variantai:
+  - 'Rusijos šiaurės vakarų kraštas'
+aliases:
+  - 'Rusijos šiaurės vakarų kraštas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
@@ -11,7 +13,7 @@ tags:
   - kraštas
   - vieta
 ---
-# Rusijos šiaurės vakarų kraštas
+# Rusijos šiaurės vakarų kraštas (kraštas)
 
 ## Santrauka
 

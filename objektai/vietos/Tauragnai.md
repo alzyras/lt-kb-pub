@@ -81,6 +81,6 @@ Dalį raitininkų pasiuntęs Tauragnų kryptimi, su likusiais vyko į Uteną. Bi
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/vietos/Butrimonys]]
 - [[objektai/vietos/Malėtai]]
-- [[objektai/vietos/Tauragnų pilis]]
+- [[objektai/vietos/Tauragnų pilis|Tauragnų pilis (pilis)]]
 - [[objektai/vietos/Verkiai]]
 - [[objektai/vietos/Daugailiai]]

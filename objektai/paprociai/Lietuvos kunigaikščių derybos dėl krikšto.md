@@ -1,9 +1,13 @@
 ---
 tipas: paprotys
-pavadinimas: "Lietuvos kunigaikščių derybos dėl krikšto"
+pavadinimas: 'Lietuvos kunigaikščių derybos dėl krikšto (krikštas)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Lietuvos kunigaikščių derybos dėl krikšto'
+  - 'Kandidatas Lietuvos kunigaikščių derybos dėl krikšto'
+aliases:
+  - 'Lietuvos kunigaikščių derybos dėl krikšto'
+  - 'Kandidatas Lietuvos kunigaikščių derybos dėl krikšto'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
@@ -13,7 +17,7 @@ tags:
   - kunigaikštis
   - paprotys
 ---
-# Lietuvos kunigaikščių derybos dėl krikšto
+# Lietuvos kunigaikščių derybos dėl krikšto (krikštas)
 
 ## Santrauka
 
@@ -79,3 +83,4 @@ Nenurodyta
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/posakiai/„ir mes turime vieną Dievą…“]]
 - [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos|Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (krikštas)]]

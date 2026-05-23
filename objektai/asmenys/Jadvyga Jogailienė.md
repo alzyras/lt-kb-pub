@@ -8,20 +8,12 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-datos:
-  - '1377 m.'
-  - '1384 m.'
-  - '1385 m.'
-  - '1386 m.'
-  - '1569 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-  - 'XVI'
-date_start: '1377'
-date_end: '1569'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - karalienė
@@ -370,7 +362,7 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Liublinas]]
-- [[objektai/ivykiai/Liublino unija]]
+- [[objektai/ivykiai/Liublino unija (1569 m.)]]
 - [[objektai/zodynas/applicare]]
 - [[objektai/zodynas/unija]]
 - [[objektai/posakiai/„prišlieti“]]

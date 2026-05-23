@@ -60,5 +60,5 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/vietos/Aukaimis]]
-- [[objektai/vietos/Gedimino pilis]]
+- [[objektai/vietos/Gedimino pilis|Gedimino pilis (pilis)]]
 - [[objektai/vietos/Kvėdarna]]

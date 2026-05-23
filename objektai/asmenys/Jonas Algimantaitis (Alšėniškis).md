@@ -1,9 +1,11 @@
 ---
 tipas: asmuo
-pavadinimas: 'Jonas Algimantaitis (Alšėniškis)'
+pavadinimas: "Jonas Algimantaitis (Alšėniškis)"
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'Jonas Algimantaitis'
+aliases:
+  - 'Jonas Algimantaitis'
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos: []
@@ -29,7 +31,6 @@ Joną Algimantaitį (Alšėniškį)^3 ).
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Mirus Skirgailai, Jonas Algimantaitis Alšėniškis buvo paskirtas Vytauto vietininku Kijeve.'

@@ -97,4 +97,4 @@ Nenurodyta
 - [[objektai/vietos/Aukaimis]]
 - [[objektai/vietos/Ragainė]]
 - [[objektai/zodynas/komtūras]]
-- [[objektai/vietos/Aukaimio pilis]]
+- [[objektai/vietos/Aukaimio pilis|Aukaimio pilis (pilis)]]

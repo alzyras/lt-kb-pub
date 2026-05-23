@@ -1,9 +1,11 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'privilegija lex privata'
+pavadinimas: 'privilegija lex privata (privilegija)'
 sukurta: '2026-04-25'
-variantai: []
-aliases: []
+variantai:
+  - 'privilegija lex privata'
+aliases:
+  - 'privilegija lex privata'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
@@ -13,7 +15,7 @@ tags:
   - privilegija
   - sąvoka
 ---
-# privilegija lex privata
+# privilegija lex privata (privilegija)
 
 ## Santrauka
 

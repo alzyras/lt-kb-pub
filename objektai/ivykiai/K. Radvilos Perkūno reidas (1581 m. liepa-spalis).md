@@ -1,12 +1,16 @@
 ---
 tipas: 'ivykis'
-pavadinimas: 'K. Radvilos Perkūno reidas (1581 m. liepa-spalis)'
+pavadinimas: 'Kristupo Radvilos Perkūno reidas (1581 m. liepa-spalis)'
 sukurta: '2026-05-02'
 variantai:
   - 'Kristupo Radvilos Perkūno reidas'
   - 'Perkūno reidas'
   - '1581 m. Pskovo kampanijos reidas'
-aliases: []
+  - 'K. Radvilos Perkūno reidas (1581 m. liepa-spalis)'
+  - 'K. Radvilos Perkūno reidas'
+aliases:
+  - 'K. Radvilos Perkūno reidas (1581 m. liepa-spalis)'
+  - 'K. Radvilos Perkūno reidas'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 bukle: 'juodrastis'
@@ -33,7 +37,7 @@ patikimumas: 'aukstas'
 tags:
   - karas
 ---
-# K. Radvilos Perkūno reidas (1581 m. liepa-spalis)
+# Kristupo Radvilos Perkūno reidas (1581 m. liepa-spalis)
 
 ## Santrauka
 

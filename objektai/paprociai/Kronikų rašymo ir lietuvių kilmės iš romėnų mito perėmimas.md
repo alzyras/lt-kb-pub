@@ -2,8 +2,12 @@
 tipas: paprotys
 pavadinimas: "Kronikų rašymo ir lietuvių kilmės iš romėnų mito perėmimas"
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Kandidatas 30 Kronikų rašymo ir lietuvių kilmės iš romėnų mito perėmimas'
+  - 'Kandidatas Kronikų rašymo ir lietuvių kilmės iš romėnų mito perėmimas'
+aliases:
+  - 'Kandidatas 30 Kronikų rašymo ir lietuvių kilmės iš romėnų mito perėmimas'
+  - 'Kandidatas Kronikų rašymo ir lietuvių kilmės iš romėnų mito perėmimas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'

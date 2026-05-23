@@ -1,12 +1,14 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: Personalinė unija
+pavadinimas: 'Personalinė unija (unija)'
 sukurta: 2026-04-24
 variantai:
-  - personalinė unija
-  - personalinėje unijoje
-  - personalinės unijos
-aliases: []
+  - 'personalinė unija'
+  - 'personalinėje unijoje'
+  - 'personalinės unijos'
+  - 'Personalinė unija'
+aliases:
+  - 'Personalinė unija'
 saltiniai:
   - [[A. Šapoka (red.), Lietuvos istorija (1936 m.)]]
 laikotarpis: Lietuvos ir Lenkijos santykių istorija
@@ -32,7 +34,7 @@ date_end: '1918'
 patikimumas: aukštas
 tags: []
 ---
-# Personalinė unija
+# Personalinė unija (unija)
 
 ## Žodis ir formos
 Personalinė unija šiame veikale aiškinama kaip dviejų atskirų valstybių ryšys, kai jos turi bendrą valdovą.
@@ -256,7 +258,7 @@ Terminas vartojamas aptariant Lietuvos ir Lenkijos santykių formą nuo Melniko 
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/unija]]
-- [[objektai/grupes/Lenkijos valstybės taryba]]
+- [[objektai/grupes/Lenkijos valstybės taryba|Lenkijos valstybės taryba (institucija)]]
 - [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
 - [[objektai/zodynas/aneksija]]
 - [[objektai/posakiai/didelis „remontas“ Krėvės unijoj]]

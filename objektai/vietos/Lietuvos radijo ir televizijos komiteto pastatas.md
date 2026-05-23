@@ -1,16 +1,18 @@
 ---
 tipas: vieta
-pavadinimas: 'Lietuvos radijo ir televizijos komiteto pastatas'
+pavadinimas: 'Lietuvos radijo ir televizijos komiteto pastatas (institucija)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Lietuvos radijo ir televizijos komiteto pastatas'
+aliases:
+  - 'Lietuvos radijo ir televizijos komiteto pastatas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
 tags:
   - vieta
 ---
-# Lietuvos radijo ir televizijos komiteto pastatas
+# Lietuvos radijo ir televizijos komiteto pastatas (institucija)
 
 ## Santrauka
 

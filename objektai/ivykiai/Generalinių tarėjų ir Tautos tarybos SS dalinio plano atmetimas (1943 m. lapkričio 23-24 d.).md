@@ -72,4 +72,4 @@ Nenurodyta
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/generaliniai tarėjai]]
-- [[objektai/grupes/Tautos taryba]]
+- [[objektai/grupes/Tautos taryba|Tautos taryba (institucija)]]

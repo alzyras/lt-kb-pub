@@ -1,9 +1,11 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'rusinimas Vakarų Rusija Šiaurės Vakarų kraštas'
+pavadinimas: 'rusinimas Vakarų Rusija Šiaurės Vakarų kraštas (kraštas)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'rusinimas Vakarų Rusija Šiaurės Vakarų kraštas'
+aliases:
+  - 'rusinimas Vakarų Rusija Šiaurės Vakarų kraštas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
@@ -11,7 +13,7 @@ tags:
   - kraštas
   - sąvoka
 ---
-# rusinimas Vakarų Rusija Šiaurės Vakarų kraštas
+# rusinimas Vakarų Rusija Šiaurės Vakarų kraštas (kraštas)
 
 ## Santrauka
 

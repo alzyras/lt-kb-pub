@@ -1,9 +1,11 @@
 ---
 tipas: posakis
-pavadinimas: 'Tie bevardžiai kapai - paminklas amžinas mūšio'
+pavadinimas: 'Tie bevardžiai kapai - paminklas amžinas mūšio (mūšis)'
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'Tie bevardžiai kapai - paminklas amžinas mūšio'
+aliases:
+  - 'Tie bevardžiai kapai - paminklas amžinas mūšio'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos: []
@@ -17,7 +19,7 @@ tags:
   - mūšis
   - posakis
 ---
-# Tie bevardžiai kapai - paminklas amžinas mūšio
+# Tie bevardžiai kapai - paminklas amžinas mūšio (mūšis)
 
 ## Santrauka
 

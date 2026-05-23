@@ -1,9 +1,11 @@
 ---
 tipas: paprotys
-pavadinimas: 'Klaipėdos krašto autonominis režimas'
+pavadinimas: 'Klaipėdos krašto autonominis režimas (kraštas)'
 sukurta: '2026-04-25'
-variantai: []
-aliases: []
+variantai:
+  - 'Klaipėdos krašto autonominis režimas'
+aliases:
+  - 'Klaipėdos krašto autonominis režimas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
@@ -13,7 +15,7 @@ tags:
   - seimas
   - valstybė
 ---
-# Klaipėdos krašto autonominis režimas
+# Klaipėdos krašto autonominis režimas (kraštas)
 
 ## Santrauka
 

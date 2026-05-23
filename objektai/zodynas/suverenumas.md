@@ -64,4 +64,4 @@ Lietuvos Tarybų respublikos suverenumas, «plačiųjų lietuvių tautos masių 
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Suverenitetas]]
-- [[objektai/grupes/Lietuvos Tarybų socialistinė respublika]]
+- [[objektai/grupes/Lietuvos Tarybų socialistinė respublika|Lietuvos Tarybų socialistinė respublika (institucija)]]

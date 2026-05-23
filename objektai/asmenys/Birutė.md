@@ -8,11 +8,14 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
+datos:
+  - '1838 m.'
+periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
+periodo_grupes:
+  - 'naujieji laikai'
+amziai:
+  - 'XIX'
+date_start: '1838'
 date_end: ''
 patikimumas: 'vidutinis'
 tags:
@@ -138,6 +141,6 @@ Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo 
 - [[objektai/ivykiai/Kęstučio žūtis Krėvos kalėjime (1382 m.)]]
 - [[objektai/vietos/Pagaršvio upelis]]
 - [[objektai/grupes/Tauro apygarda]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/vaidilutė]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Vydimantas]]

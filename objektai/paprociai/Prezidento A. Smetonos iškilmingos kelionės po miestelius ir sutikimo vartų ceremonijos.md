@@ -92,7 +92,6 @@ tags:
 - [[temos/socialinė-praktika]]
 
 ### Susiję objektai
-- [[objektai/asmenys/A. Smetona|A. Smetona (prezidentas, XX a.)]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Žydai]]
 - [[objektai/daiktai/Kino kronikos kameros]]

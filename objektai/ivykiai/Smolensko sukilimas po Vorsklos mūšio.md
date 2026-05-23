@@ -1,9 +1,11 @@
 ---
 tipas: ivykis
-pavadinimas: 'Smolensko sukilimas po Vorsklos mūšio'
+pavadinimas: 'Smolensko sukilimas po Vorsklos mūšio (mūšis)'
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'Smolensko sukilimas po Vorsklos mūšio'
+aliases:
+  - 'Smolensko sukilimas po Vorsklos mūšio'
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos: []
@@ -19,7 +21,7 @@ tags:
   - mūšis
   - sukilimas
 ---
-# Smolensko sukilimas po Vorsklos mūšio
+# Smolensko sukilimas po Vorsklos mūšio (mūšis)
 
 ## Santrauka
 

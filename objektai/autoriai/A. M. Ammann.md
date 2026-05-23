@@ -8,7 +8,6 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1947 m.'
-  - '1948 m.'
   - '1950 m.'
 periodas: 'okupacijų ir sovietmečio laikotarpis'
 periodo_grupes:

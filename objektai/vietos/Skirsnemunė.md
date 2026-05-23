@@ -185,6 +185,7 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/vietos/Mozūrija]]
 - [[objektai/vietos/Nemunas]]

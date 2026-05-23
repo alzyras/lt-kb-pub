@@ -1,9 +1,11 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'bažnytinė unija'
+pavadinimas: 'bažnytinė unija (unija)'
 sukurta: '2026-04-25'
-variantai: []
-aliases: []
+variantai:
+  - 'bažnytinė unija'
+aliases:
+  - 'bažnytinė unija'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
@@ -12,7 +14,7 @@ tags:
   - sąvoka
   - unija
 ---
-# bažnytinė unija
+# bažnytinė unija (unija)
 
 ## Santrauka
 
@@ -55,6 +57,6 @@ Jo nevykusiai padaryta bažnytinė unija sukiršino rytų apeigų tikinčiuosius
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Maskva]]
 - [[objektai/zodynas/unija]]
-- [[objektai/ivykiai/Florencijos bažnytinė unija]]
+- [[objektai/ivykiai/Florencijos bažnytinė unija|Florencijos bažnytinė unija (unija)]]
 - [[objektai/grupes/Katalikų Bažnyčia]]
 - [[objektai/grupes/Unitai]]

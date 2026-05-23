@@ -216,7 +216,7 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
 - [[objektai/vietos/Betygala]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Mindaugas]]
-- [[objektai/vietos/Ariogalos kraštas]]
+- [[objektai/vietos/Ariogalos kraštas|Ariogalos kraštas (kraštas)]]
 - [[objektai/vietos/Daugėliškių miškas]]
 - [[objektai/vietos/Kulių (Jurgaičių) pilys]]
 - [[objektai/vietos/Kuršių marios]]

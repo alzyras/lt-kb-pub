@@ -133,7 +133,7 @@ Tačiau bajorai – dvarininkai sudarė tik ¼ dalį vietos bajorų luomo, daugu
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
-- [[objektai/ivykiai/1422 m. Červinsko stovykla ir bajorų privilegijų suteikimas]]
+- [[objektai/ivykiai/1422 m. Červinsko stovykla ir bajorų privilegijų suteikimas|1422 m. Červinsko stovykla ir bajorų privilegijų suteikimas (privilegija)]]
 - [[objektai/vietos/Berlynas]]
 - [[objektai/daiktai/Herbas]]
 - [[objektai/autoriai/K. Avižonis]]
@@ -143,6 +143,6 @@ Tačiau bajorai – dvarininkai sudarė tik ¼ dalį vietos bajorų luomo, daugu
 - [[objektai/zodynas/Magdeburgo teisės]]
 - [[objektai/grupes/Miestelėnų luomas]]
 - [[objektai/zodynas/nobilitetas]]
-- [[objektai/zodynas/Pilies ir rūmų pareigybės|pilies ir rūmų pareigybės]]
-- [[objektai/zodynas/privilegija lex privata]]
+- [[objektai/zodynas/Pilies ir rūmų pareigybės|pilies ir rūmų pareigybės (pilis)]]
+- [[objektai/zodynas/privilegija lex privata|privilegija lex privata (privilegija)]]
 - [[objektai/zodynas/rūmininkas vyno pilstytojas]]

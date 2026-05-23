@@ -172,6 +172,7 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
 - [[objektai/vietos/Torne]]
 - [[objektai/vietos/Varmijos vyskupystė]]
 - [[objektai/asmenys/Vladislovas iš Opolės]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Zigmantas Liuksemburgietis]]
 - [[objektai/zodynas/tėvonija tėvų palikimas]]
 - [[objektai/grupes/Livonijos ordinas]]

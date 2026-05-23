@@ -1,10 +1,12 @@
 ---
 tipas: 'vieta'
-pavadinimas: 'Apuolės pilis'
+pavadinimas: 'Apuolės pilis (pilis)'
 sukurta: '2026-04-28'
 variantai:
   - 'Apuolės piliakalnis'
-aliases: []
+  - 'Apuolės pilis'
+aliases:
+  - 'Apuolės pilis'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -21,7 +23,7 @@ date_end: '2026'
 patikimumas: 'aukštas'
 tags: []
 ---
-# Apuolės pilis
+# Apuolės pilis (pilis)
 
 ## Santrauka
 

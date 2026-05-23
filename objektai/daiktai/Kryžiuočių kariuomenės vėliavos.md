@@ -65,6 +65,5 @@ Nenurodyta
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/ivykiai/Žalgirio mūšis]]
 - [[objektai/vietos/Žalgiris]]
 - [[objektai/daiktai/Ordino komtūrų barzdos]]

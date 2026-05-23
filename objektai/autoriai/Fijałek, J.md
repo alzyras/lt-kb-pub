@@ -1,22 +1,19 @@
 ---
 tipas: autorius
-pavadinimas: 'Fijałek, J'
+pavadinimas: "Fijałek, J"
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'J. Fijałek'
+aliases:
+  - 'J. Fijałek'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos:
-  - '1401 m.'
-  - '1914 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XV'
-  - 'XX'
-date_start: '1401'
-date_end: '1914'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - autorius
@@ -32,6 +29,12 @@ Iš ordino žemių patekęs į Vakarus, po studijų Pragos universitete, nuo 140
 ## Teiginiai
 - t-001
   teiginys: 'J. Fijałek parašė darbą „Wnuk Kiejstuta, Jan książę drohiczyński“, paskelbtą 1914 m. „KH“ 28 tome.'
+  pagrindžia:
+    - c-001
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: 'J. Fijałek parašė darbą „Wnuk Kiejstuta, Jan książę drohiczyński“, publikuotą 1914 m. „KH“ 28 tome.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)

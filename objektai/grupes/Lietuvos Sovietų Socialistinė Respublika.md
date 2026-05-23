@@ -44,4 +44,4 @@ LSSR Lietuvos Sovietų Socialistinė Respublika. Sudarius marionetinę vyriausyb
 ### Susiję objektai
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/grupes/Lietuvos Tarybų socialistinė respublika]]
+- [[objektai/grupes/Lietuvos Tarybų socialistinė respublika|Lietuvos Tarybų socialistinė respublika (institucija)]]

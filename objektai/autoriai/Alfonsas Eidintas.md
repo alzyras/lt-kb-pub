@@ -19,7 +19,6 @@ dalyviai: []
 susije_irasai: []
 datos:
   - '1991 m.'
-  - '2012 m.'
   - '2013 m.'
 periodas: 'atkurtos nepriklausomybės laikotarpis'
 periodo_grupes:

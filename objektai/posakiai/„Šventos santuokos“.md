@@ -51,5 +51,5 @@ tags:
 - [[objektai/vietos/Liublinas]]
 - [[objektai/zodynas/unija]]
 - [[objektai/asmenys/Jadvyga Jogailienė]]
-- [[objektai/ivykiai/Liublino unija]]
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
 - [[objektai/ivykiai/Liublino unija (1569 m.)]]

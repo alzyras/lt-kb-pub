@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 22.
+Objektų skaičius: 21.
 
 ## Kaip naudoti
 
@@ -33,7 +33,6 @@ Objektų skaičius: 22.
 - [[objektai/autoriai/Kuršaitis (redaktorius, 1849–1880 m.)]]
 - [[objektai/autoriai/M. Jankus]]
 - [[objektai/autoriai/Mikšas]]
-- [[objektai/autoriai/S. Zauerveinas]]
 - [[objektai/autoriai/Šernas]]
 
 ### Grupės

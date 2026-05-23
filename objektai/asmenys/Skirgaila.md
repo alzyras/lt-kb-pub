@@ -9,25 +9,12 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-datos:
-  - '1350 m.'
-  - '1389 m.'
-  - '1392 m.'
-  - '1393 m.'
-  - '1394 m.'
-  - '1395 m.'
-  - '1399 m.'
-  - '1430 m.'
-  - '1930 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-  - 'XV'
-  - 'XX'
-date_start: '1350'
-date_end: '1930'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -435,12 +422,13 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
 - [[objektai/vietos/Ukmergė]]
 - [[objektai/ivykiai/Vilniečių sąmokslas ir Jogailos įsitvirtinimas Vilniuje bei Trakuose]]
 - [[objektai/ivykiai/Vitebsko užėmimas (1392 m.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/ivykiai/Vytauto ir Ordino žygis į Trakus bei Vilnių (1383 m. rugsėjo 11–22 d.)]]
 - [[objektai/ivykiai/Vytauto ir Skirgailos ginčas Vilniuje (1393 m. spalio 3 d.)]]
 - [[objektai/posakiai/deržati mi jeho vyše vseje našeje bratije]]
 - [[objektai/posakiai/dux Russiae]]
 - [[objektai/zodynas/kunigaikštija]]
-- [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija]]
+- [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija|Įkaitų davimas kaip sutarties garantija (sutartis)]]
 - [[objektai/zodynas/įkaitai]]
 - [[objektai/posakiai/Saugokis manęs, kaip ir aš tavęs saugaus]]
 - [[objektai/ivykiai/Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas]]

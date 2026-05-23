@@ -64,7 +64,7 @@ Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne tik nė vieno dėl 
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/asmenys/Teofilis (arkivyskupas)]]
 - [[objektai/zodynas/Kanceliarinė rašto kalba]]
-- [[objektai/ivykiai/Gedimino krikšto akcija]]
+- [[objektai/ivykiai/Gedimino krikšto akcija|Gedimino krikšto akcija (krikštas)]]
 - [[objektai/vietos/Gniezno arkivyskupija]]
 - [[objektai/vietos/Mogilevo arkivyskupija]]
 - [[objektai/vietos/Rygos arkivyskupija]]

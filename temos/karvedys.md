@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 11.
+Objektų skaičius: 10.
 
 ## Kaip naudoti
 
@@ -33,6 +33,3 @@ Objektų skaičius: 11.
 
 ### Vietos
 - [[objektai/vietos/Chotinas]]
-
-### Įvykiai
-- [[objektai/ivykiai/Oršos mūšis (1514 m. rugsėjo 8 d.)]]

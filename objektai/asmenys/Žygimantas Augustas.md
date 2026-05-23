@@ -8,9 +8,6 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1529 m.'
-  - '1563 m.'
-  - '1564 m.'
-  - '1572 m.'
   - '1581 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
@@ -215,5 +212,5 @@ pabaigoje į Lietuvos istoriją įžengė garsiausia ir – tai svarbu – lietu
 - [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/bajorija]]
 - [[objektai/zodynas/statutas]]
-- [[objektai/ivykiai/Liublino unija]]
+- [[objektai/ivykiai/Liublino unija (1569 m.)]]
 - [[objektai/ivykiai/Polocko apsiaustis (1563 m. sausio 31 d.)]]

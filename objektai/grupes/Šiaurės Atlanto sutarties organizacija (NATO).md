@@ -1,9 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'Šiaurės Atlanto sutarties organizacija (NATO)'
+pavadinimas: "Šiaurės Atlanto sutarties organizacija (NATO)"
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Šiaurės Atlanto sutarties organizacija'
+aliases:
+  - 'Šiaurės Atlanto sutarties organizacija'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
@@ -50,11 +52,6 @@ tags:
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: '2003 m. kovą pasirašius pakviestųjų kandidačių prisijungimo prie Vašingtono sutarties protokolus, Lietuvos Respublikos Seimui ratifikavus Vašingtono sutartį, 2004 m. kovo 29 d. Lietuva tapo visateise NATO nare.'
-  pagrindžia:
-    - c-003
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Lietuva kelią į NATO pradėjo 1991 m. gruodį, prisijungusi prie Šiaurės Atlanto bendradarbiavimo tarybos.'
@@ -93,30 +90,13 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-- c-003
-  santrauka: '2003 m. kovą pasirašius pakviestųjų kandidačių prisijungimo prie Vašingtono sutarties protokolus, Lietuvos Respublikos Seimui ratifikavus Vašingtono sutartį, 2004 m. kovo 29 d. Lietuva tapo visateise NATO nare.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    2003 m. kovą
-    pasirašius pakviestųjų kandidačių prisijungimo prie Vašingtono sutarties
-    protokolus, Lietuvos Respublikos Seimui ratifikavus Vašingtono sutartį,
-    2004 m. kovo 29 d. Lietuva tapo visateise NATO nare.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/NATO]]
 - [[objektai/vietos/Vašingtonas]]
+- [[objektai/vietos/Viena]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Lietuvos Respublikos Seimas]]
 - [[objektai/ivykiai/Lietuvos įstojimas į ES ir NATO (2004 m.)]]
-- [[objektai/grupes/Šiaurės Atlanto sutarties organizacija]]
-- [[objektai/posakiai/„Mūsų sąjunga pasiryžusi ginti savo nares...“]]
+- [[objektai/ivykiai/Lietuvos tapimas visateise NATO nare (2004 m. kovo 29 d.)]]

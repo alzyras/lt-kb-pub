@@ -230,4 +230,4 @@ Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pa
 - [[objektai/posakiai/supremus dux]]
 - [[objektai/zodynas/unija]]
 - [[objektai/vietos/Šešupė]]
-- [[objektai/ivykiai/Salyno sutartis]]
+- [[objektai/ivykiai/Salyno sutartis|Salyno sutartis (sutartis)]]

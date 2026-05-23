@@ -127,4 +127,4 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/zodynas/pagonybė]]
 - [[objektai/ivykiai/Durbės mūšis (1260 m.)]]
-- [[objektai/ivykiai/Smolensko sukilimas]]
+- [[objektai/ivykiai/Smolensko sukilimas|Smolensko sukilimas (sukilimas)]]

@@ -1,9 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'Liublino seimas'
+pavadinimas: 'Liublino seimas (seimas)'
 sukurta: '2026-04-25'
-variantai: []
-aliases: []
+variantai:
+  - 'Liublino seimas'
+aliases:
+  - 'Liublino seimas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
@@ -13,7 +15,7 @@ tags:
   - seimas
   - unija
 ---
-# Liublino seimas
+# Liublino seimas (seimas)
 
 ## Santrauka
 
@@ -94,7 +96,7 @@ Kaip Varšuvos seime (1563—4 m.), taip ir Liubline lenkai reikalavo visiško a
 - [[objektai/vietos/Vilnius]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/zodynas/unija]]
-- [[objektai/ivykiai/Liublino seimo sprendimas dėl seimų vietos]]
-- [[objektai/paprociai/Seimų vieta Lietuvoje ir Gardino kas trečio seimo taisyklė]]
+- [[objektai/ivykiai/Liublino seimo sprendimas dėl seimų vietos|Liublino seimo sprendimas dėl seimų vietos (seimas)]]
+- [[objektai/paprociai/Seimų vieta Lietuvoje ir Gardino kas trečio seimo taisyklė|Seimų vieta Lietuvoje ir Gardino kas trečio seimo taisyklė (seimas)]]
 - [[objektai/zodynas/statuto dėsniai]]
 - [[objektai/zodynas/savarankiškumas]]

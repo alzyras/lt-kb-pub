@@ -16,7 +16,6 @@ dalyviai: []
 susije_irasai: []
 datos:
   - '1794 m.'
-  - '1805 m.'
   - '1806 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:

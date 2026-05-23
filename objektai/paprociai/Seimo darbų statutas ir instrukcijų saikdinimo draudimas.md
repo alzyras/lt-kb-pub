@@ -1,9 +1,11 @@
 ---
 tipas: paprotys
-pavadinimas: 'Seimo darbų statutas ir instrukcijų saikdinimo draudimas'
+pavadinimas: 'Seimo darbų statutas ir instrukcijų saikdinimo draudimas (seimas)'
 sukurta: '2026-04-25'
-variantai: []
-aliases: []
+variantai:
+  - 'Seimo darbų statutas ir instrukcijų saikdinimo draudimas'
+aliases:
+  - 'Seimo darbų statutas ir instrukcijų saikdinimo draudimas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
@@ -11,7 +13,7 @@ tags:
   - paprotys
   - seimas
 ---
-# Seimo darbų statutas ir instrukcijų saikdinimo draudimas
+# Seimo darbų statutas ir instrukcijų saikdinimo draudimas (seimas)
 
 ## Santrauka
 

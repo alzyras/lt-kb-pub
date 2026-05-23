@@ -1,9 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Biržų pilis'
+pavadinimas: 'Biržų pilis (pilis)'
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'Biržų pilis'
+aliases:
+  - 'Biržų pilis'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
@@ -23,7 +25,7 @@ tags:
   - pilis
   - sukilimas
 ---
-# Biržų pilis
+# Biržų pilis (pilis)
 
 ## Santrauka
 

@@ -210,7 +210,7 @@ Centralizuota ginkluoto ir politinio antisovietinio pasipriešinimo organizacija
 - [[objektai/ivykiai/Užpelkių kautynės (1949 m.)]]
 - [[objektai/vietos/Vilkija]]
 - [[objektai/ivykiai/Visos Lietuvos partizanų vadų suvažiavimas (1949 m. vasario 2–22 d.)]]
-- [[objektai/grupes/Vyriausiasis Lietuvos išlaisvinimo komitetas]]
+- [[objektai/grupes/Vyriausiasis Lietuvos išlaisvinimo komitetas|Vyriausiasis Lietuvos išlaisvinimo komitetas (institucija)]]
 - [[objektai/asmenys/Vytautas Šniuolis-Svajūnas]]
 - [[objektai/zodynas/laisvės kovotojai banditai]]
 - [[objektai/vietos/Štuthofas]]

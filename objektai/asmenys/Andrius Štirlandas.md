@@ -67,4 +67,4 @@ Mindaugas įveikė šią kliūtį ne tik karo žygiais, bet ir diplomatija – p
 - [[objektai/vietos/Livonija]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/vietos/Lietuva]]
-- [[objektai/ivykiai/Mindaugo krikštas ir karūnos išsirūpinimas]]
+- [[objektai/ivykiai/Mindaugo krikštas ir karūnos išsirūpinimas|Mindaugo krikštas ir karūnos išsirūpinimas (krikštas)]]

@@ -1,9 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'Nuolatinė Taryba'
+pavadinimas: 'Nuolatinė Taryba (institucija)'
 sukurta: '2026-04-25'
-variantai: []
-aliases: []
+variantai:
+  - 'Nuolatinė Taryba'
+aliases:
+  - 'Nuolatinė Taryba'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
@@ -13,7 +15,7 @@ tags:
   - karas
   - valstybė
 ---
-# Nuolatinė Taryba
+# Nuolatinė Taryba (institucija)
 
 ## Santrauka
 
@@ -151,6 +153,6 @@ Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba n
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Rusija]]
 - [[objektai/grupes/Čartoriskiai]]
-- [[objektai/grupes/Gardino seimas]]
+- [[objektai/grupes/Gardino seimas|Gardino seimas (seimas)]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/organas]]

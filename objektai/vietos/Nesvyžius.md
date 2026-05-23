@@ -205,4 +205,4 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
 - [[objektai/vietos/Vilniaus katedra]]
 - [[objektai/daiktai/Vilniaus katedros portalo kolonada ir frontono skulptūros]]
 - [[objektai/vietos/Europa]]
-- [[objektai/vietos/Myro pilis]]
+- [[objektai/vietos/Myro pilis|Myro pilis (pilis)]]

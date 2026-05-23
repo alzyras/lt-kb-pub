@@ -191,6 +191,6 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 - [[objektai/asmenys/Karolis Carlsonas Gyllenhielmas]]
 - [[objektai/asmenys/Karolis IX]]
 - [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.)]]
-- [[objektai/vietos/Kuoknesės pilis]]
+- [[objektai/vietos/Kuoknesės pilis|Kuoknesės pilis (pilis)]]
 - [[objektai/vietos/Salaspilis]]
 - [[objektai/grupes/Švedijos karalystė]]

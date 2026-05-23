@@ -94,7 +94,7 @@ Siekdamas atkurti gynybą NemunoNeries-Nevėžio žiočių ruože, Kęstutis sta
 - [[objektai/vietos/Nemunas]]
 - [[objektai/vietos/Nevėžis]]
 - [[objektai/vietos/Veliuona]]
-- [[objektai/vietos/Veliuonos pilis]]
+- [[objektai/vietos/Veliuonos pilis|Veliuonos pilis (pilis)]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/vietos/Nevėžio žiotys]]

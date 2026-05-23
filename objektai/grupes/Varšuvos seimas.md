@@ -1,9 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'Varšuvos seimas'
+pavadinimas: 'Varšuvos seimas (seimas)'
 sukurta: '2026-04-25'
-variantai: []
-aliases: []
+variantai:
+  - 'Varšuvos seimas'
+aliases:
+  - 'Varšuvos seimas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
@@ -11,7 +13,7 @@ tags:
   - grupe
   - seimas
 ---
-# Varšuvos seimas
+# Varšuvos seimas (seimas)
 
 ## Santrauka
 

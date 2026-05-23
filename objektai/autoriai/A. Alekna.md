@@ -22,9 +22,6 @@ dalyviai: []
 susije_irasai: []
 datos:
   - '1911 m.'
-  - '1922 m.'
-  - '1923 m.'
-  - '1930 m.'
   - '1936 m.'
 periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
 periodo_grupes:

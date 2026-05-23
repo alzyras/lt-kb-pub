@@ -1,9 +1,11 @@
 ---
 tipas: asmuo
-pavadinimas: 'Jonas XXII (popiežius)'
+pavadinimas: "Jonas XXII (popiežius)"
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'Jonas XXII'
+aliases:
+  - 'Jonas XXII'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -35,7 +37,6 @@ Jau 1317 m. Gediminas iš popiežiaus Jono XXII buvo gavęs raginimą krikštyti
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1317 m. popiežius Jonas XXII paragino Gediminą krikštytis.'

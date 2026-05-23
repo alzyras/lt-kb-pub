@@ -36,7 +36,7 @@ Objektų skaičius: 58.
 - [[objektai/daiktai/Malūnas]]
 
 ### Grupės
-- [[objektai/grupes/III Seimas]]
+- [[objektai/grupes/III Seimas|III Seimas (seimas)]]
 - [[objektai/grupes/Konfederaciniai seimai]]
 - [[objektai/grupes/Lenkijos bajorija]]
 - [[objektai/grupes/Lenkijos katalikų Bažnyčios sinodas]]
@@ -44,11 +44,11 @@ Objektų skaičius: 58.
 - [[objektai/grupes/Maskvos Helsinkio grupė]]
 - [[objektai/grupes/Radomo konfederacija]]
 - [[objektai/grupes/Targovicos konfederacija]]
-- [[objektai/grupes/Varšuvos seimas]]
+- [[objektai/grupes/Varšuvos seimas|Varšuvos seimas (seimas)]]
 
 ### Papročiai
 - [[objektai/paprociai/Konfederaciniai seimai kaip balsų daugumos tvarka]]
-- [[objektai/paprociai/Seimų vieta Lietuvoje ir Gardino kas trečio seimo taisyklė]]
+- [[objektai/paprociai/Seimų vieta Lietuvoje ir Gardino kas trečio seimo taisyklė|Seimų vieta Lietuvoje ir Gardino kas trečio seimo taisyklė (seimas)]]
 
 ### Posakiai
 - [[objektai/posakiai/didelis „remontas“ Krėvės unijoj]]

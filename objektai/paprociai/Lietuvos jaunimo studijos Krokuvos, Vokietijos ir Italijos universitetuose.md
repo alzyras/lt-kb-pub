@@ -2,8 +2,12 @@
 tipas: paprotys
 pavadinimas: "Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose"
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Kandidatas 27 Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose'
+  - 'Kandidatas Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose'
+aliases:
+  - 'Kandidatas 27 Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose'
+  - 'Kandidatas Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'

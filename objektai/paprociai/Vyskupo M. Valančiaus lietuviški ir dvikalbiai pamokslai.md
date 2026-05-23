@@ -2,8 +2,12 @@
 tipas: paprotys
 pavadinimas: "Vyskupo M. Valančiaus lietuviški ir dvikalbiai pamokslai"
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Kandidatas 56 Vyskupo M. Valančiaus lietuviški ir dvikalbiai pamokslai'
+  - 'Kandidatas Vyskupo M. Valančiaus lietuviški ir dvikalbiai pamokslai'
+aliases:
+  - 'Kandidatas 56 Vyskupo M. Valančiaus lietuviški ir dvikalbiai pamokslai'
+  - 'Kandidatas Vyskupo M. Valančiaus lietuviški ir dvikalbiai pamokslai'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'

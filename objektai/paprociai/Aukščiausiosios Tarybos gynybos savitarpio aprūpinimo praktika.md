@@ -1,9 +1,11 @@
 ---
 tipas: paprotys
-pavadinimas: 'Aukščiausiosios Tarybos gynybos savitarpio aprūpinimo praktika'
+pavadinimas: 'Aukščiausiosios Tarybos gynybos savitarpio aprūpinimo praktika (institucija)'
 sukurta: '2026-05-02'
-variantai: []
-aliases: []
+variantai:
+  - 'Aukščiausiosios Tarybos gynybos savitarpio aprūpinimo praktika'
+aliases:
+  - 'Aukščiausiosios Tarybos gynybos savitarpio aprūpinimo praktika'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 laikotarpis: '1991 m.'
@@ -19,7 +21,7 @@ susije_irasai: []
 patikimumas: 'aukštas'
 tags: []
 ---
-# Aukščiausiosios Tarybos gynybos savitarpio aprūpinimo praktika
+# Aukščiausiosios Tarybos gynybos savitarpio aprūpinimo praktika (institucija)
 
 ## Santrauka
 

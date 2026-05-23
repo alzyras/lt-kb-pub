@@ -61,4 +61,4 @@ Vietoje LV ministrų vokiečių valdžia lietuvių administracijos vadovais pask
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/ivykiai/Generalinių tarėjų ir Tautos tarybos SS dalinio plano atmetimas (1943 m. lapkričio 23-24 d.)]]
-- [[objektai/grupes/Tautos taryba]]
+- [[objektai/grupes/Tautos taryba|Tautos taryba (institucija)]]

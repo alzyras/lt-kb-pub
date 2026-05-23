@@ -80,4 +80,4 @@ Nenurodyta
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Tautų Sąjungos Taryba]]
+- [[objektai/grupes/Tautų Sąjungos Taryba|Tautų Sąjungos Taryba (institucija)]]

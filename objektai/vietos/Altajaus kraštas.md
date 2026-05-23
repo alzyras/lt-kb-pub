@@ -1,9 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Altajaus kraštas'
+pavadinimas: 'Altajaus kraštas (kraštas)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Altajaus kraštas'
+aliases:
+  - 'Altajaus kraštas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
@@ -11,7 +13,7 @@ tags:
   - kraštas
   - vieta
 ---
-# Altajaus kraštas
+# Altajaus kraštas (kraštas)
 
 ## Santrauka
 

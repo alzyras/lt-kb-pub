@@ -134,4 +134,5 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
 - [[objektai/asmenys/Muradas II]]
 - [[objektai/vietos/Ukraina]]
 - [[objektai/vietos/Valakija]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/vietos/Naugardas]]

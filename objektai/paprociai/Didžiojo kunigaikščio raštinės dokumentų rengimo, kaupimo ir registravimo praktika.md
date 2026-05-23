@@ -2,8 +2,12 @@
 tipas: paprotys
 pavadinimas: "Didžiojo kunigaikščio raštinės dokumentų rengimo, kaupimo ir registravimo praktika"
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Kandidatas 28 Didžiojo kunigaikščio raštinės dokumentų rengimo, kaupimo ir registravimo praktika'
+  - 'Kandidatas Didžiojo kunigaikščio raštinės dokumentų rengimo, kaupimo ir registravimo praktika'
+aliases:
+  - 'Kandidatas 28 Didžiojo kunigaikščio raštinės dokumentų rengimo, kaupimo ir registravimo praktika'
+  - 'Kandidatas Didžiojo kunigaikščio raštinės dokumentų rengimo, kaupimo ir registravimo praktika'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'

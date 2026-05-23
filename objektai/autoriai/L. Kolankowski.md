@@ -25,8 +25,6 @@ periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
   - 'modernioji Lietuva'
 amziai:
-  - 'XIV'
-  - 'XV'
   - 'XX'
 date_start: '1930'
 date_end: '1935'

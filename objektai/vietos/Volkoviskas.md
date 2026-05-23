@@ -142,3 +142,4 @@ tags:
 - [[objektai/asmenys/Romanas (Briansko kunigaikštis)]]
 - [[objektai/vietos/Gardinas]]
 - [[objektai/vietos/Naugardukas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

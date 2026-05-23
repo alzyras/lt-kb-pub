@@ -79,6 +79,5 @@ Per nepilnus du dešimtmečius Lietuva galutinai tapo lietuviška, jos nebegalė
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/A. Smetona|A. Smetona (prezidentas, XX a.)]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Rusija]]

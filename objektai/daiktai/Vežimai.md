@@ -133,4 +133,5 @@ Nenurodyta
 - [[objektai/daiktai/Geležinėmis grandinėmis kaustyti vežimai]]
 - [[objektai/paprociai/Karaliaus priešmūšinis ceremonialas riterių šventinimas ir pasiuntinių priėmimas]]
 - [[objektai/paprociai/Kariuomenės lauko stovyklos įrengimas apsupant vežimais]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/gurguolė]]

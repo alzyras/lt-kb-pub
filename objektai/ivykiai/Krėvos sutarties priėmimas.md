@@ -1,9 +1,11 @@
 ---
 tipas: ivykis
-pavadinimas: 'Krėvos sutarties priėmimas'
+pavadinimas: 'Krėvos sutarties priėmimas (sutartis)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Krėvos sutarties priėmimas'
+aliases:
+  - 'Krėvos sutarties priėmimas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
@@ -13,7 +15,7 @@ tags:
   - kunigaikštis
   - ordinas
 ---
-# Krėvos sutarties priėmimas
+# Krėvos sutarties priėmimas (sutartis)
 
 ## Santrauka
 

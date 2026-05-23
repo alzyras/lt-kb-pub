@@ -5,36 +5,12 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos:
-  - '1581 m.'
-  - '1601 m.'
-  - '1605 m.'
-  - '1609 m.'
-  - '1621 m.'
-  - '1632 m.'
-  - '1634 m.'
-  - '1649 m.'
-  - '1654 m.'
-  - '1656 m.'
-  - '1673 m.'
-  - '1700 m.'
-  - '1771 m.'
-  - '1792 m.'
-  - '1794 m.'
-  - '1831 m.'
-  - '1863 m.'
-  - '1919 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
-  - 'XVII'
-  - 'XVIII'
-  - 'XIX'
-  - 'XX'
-date_start: '1581'
-date_end: '1919'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 laikotarpis: ''
 vaidmenys:
   - 'autorius'

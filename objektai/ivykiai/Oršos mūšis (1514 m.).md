@@ -1,6 +1,6 @@
 ---
 tipas: 'ivykis'
-pavadinimas: 'Oršos mūšis (1514 m.)'
+pavadinimas: "Oršos mūšis (1514 m.)"
 sukurta: '2026-04-25'
 variantai:
   - '[]'
@@ -9,6 +9,8 @@ variantai:
   - 'Oršos mūšis (1514 m. rugsėjo 8 d.)'
 aliases:
   - '[]'
+  - 'Oršos mūšis (1514 m. rugsėjo 8 d.)'
+  - 'Oršos mūšis'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
@@ -72,6 +74,12 @@ Nenurodyta
   teiginys: 'Po Oršos mūšio propagandos kampanija padėjo Žygimantui spręsti tarptautinius klausimus, o žymesni belaisviai buvo siunčiami į Europos valdovų dvarus.'
   pagrindžia:
     - c-003
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  statusas: patvirtinta
+- t-008
+  teiginys: 'Po Oršos mūšio kilmingi žuvusieji buvo palaidoti Vilniuje, o per triumfo iškilmes eisenoje vesti belaisviai Maskvos karvedžiai ir kariai.'
+  pagrindžia:
+    - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 
@@ -146,8 +154,7 @@ Nenurodyta
 - [[objektai/asmenys/Vasilijus (Maskvos didysis kunigaikštis)]]
 - [[objektai/vietos/Vilnius]]
 - [[objektai/asmenys/Žygimantas]]
+- [[objektai/grupes/Jogailaičiai]]
 - [[objektai/zodynas/artilerijos pasala]]
 - [[objektai/vietos/Dubrovna]]
 - [[objektai/asmenys/Vasilijus III]]
-- [[objektai/daiktai/Vėliavos]]
-- [[objektai/ivykiai/Oršos mūšis (1514 m. rugsėjo 8 d.)]]

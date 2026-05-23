@@ -1,9 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Ruro kraštas'
+pavadinimas: 'Ruro kraštas (kraštas)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Ruro kraštas'
+aliases:
+  - 'Ruro kraštas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
@@ -11,7 +13,7 @@ tags:
   - kraštas
   - vieta
 ---
-# Ruro kraštas
+# Ruro kraštas (kraštas)
 
 ## Santrauka
 

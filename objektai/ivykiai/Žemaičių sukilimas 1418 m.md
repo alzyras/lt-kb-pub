@@ -1,9 +1,11 @@
 ---
 tipas: ivykis
-pavadinimas: 'Žemaičių sukilimas 1418 m'
+pavadinimas: 'Žemaičių sukilimas 1418 m (sukilimas)'
 sukurta: '2026-04-25'
-variantai: []
-aliases: []
+variantai:
+  - 'Žemaičių sukilimas 1418 m'
+aliases:
+  - 'Žemaičių sukilimas 1418 m'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
@@ -24,7 +26,7 @@ tags:
   - ivykis
   - sukilimas
 ---
-# Žemaičių sukilimas 1418 m
+# Žemaičių sukilimas 1418 m (sukilimas)
 
 ## Santrauka
 

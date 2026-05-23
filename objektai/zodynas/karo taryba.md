@@ -1,9 +1,11 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'karo taryba'
+pavadinimas: 'karo taryba (institucija)'
 sukurta: '2026-04-25'
-variantai: []
-aliases: []
+variantai:
+  - 'karo taryba'
+aliases:
+  - 'karo taryba'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
@@ -13,7 +15,7 @@ tags:
   - sąvoka
   - tauta
 ---
-# karo taryba
+# karo taryba (institucija)
 
 ## Santrauka
 

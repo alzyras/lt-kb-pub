@@ -1,9 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Kolainių pilis'
+pavadinimas: 'Kolainių pilis (pilis)'
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'Kolainių pilis'
+aliases:
+  - 'Kolainių pilis'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -21,7 +23,7 @@ tags:
   - pilis
   - vieta
 ---
-# Kolainių pilis
+# Kolainių pilis (pilis)
 
 ## Santrauka
 

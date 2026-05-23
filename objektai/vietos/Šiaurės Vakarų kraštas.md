@@ -1,9 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Šiaurės Vakarų kraštas'
+pavadinimas: 'Šiaurės Vakarų kraštas (kraštas)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Šiaurės Vakarų kraštas'
+aliases:
+  - 'Šiaurės Vakarų kraštas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
@@ -26,7 +28,7 @@ tags:
   - valstybė
   - vieta
 ---
-# Šiaurės Vakarų kraštas
+# Šiaurės Vakarų kraštas (kraštas)
 
 ## Santrauka
 

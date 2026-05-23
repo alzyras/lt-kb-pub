@@ -13,9 +13,6 @@ saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1402 m.'
-  - '1404 m.'
-  - '1408 m.'
-  - '1418 m.'
   - '1430 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
@@ -413,10 +410,12 @@ tags:
 - [[objektai/ivykiai/Vitebsko užėmimas (1392 m.)]]
 - [[objektai/vietos/Vladimiras]]
 - [[objektai/asmenys/Vyguntas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/ivykiai/Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas]]
 - [[objektai/vietos/Zaslavlis]]
 - [[objektai/grupes/Čekijos husitai]]
-- [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis]]
 - [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (997 m.)]]
+- [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis|Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (kraštas)]]
 - [[objektai/vietos/Žirnajų ežeras]]
+- [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]
 - [[objektai/ivykiai/Švitrigailos paskelbimas didžiuoju Lietuvos kunigaikščiu]]

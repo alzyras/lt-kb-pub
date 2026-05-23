@@ -52,7 +52,7 @@ Mums nėra reikalo vartoti baltų termino dar ir dėl to, kad juo dažnai pažym
 - [[objektai/autoriai/K. Jaunius]]
 - [[objektai/grupes/Lietuvių Draugija Estijoje]]
 - [[objektai/grupes/Lietuvių Suomių Draugija]]
-- [[objektai/posakiai/Tie bevardžiai kapai - paminklas amžinas mūšio]]
+- [[objektai/posakiai/Tie bevardžiai kapai - paminklas amžinas mūšio|Tie bevardžiai kapai - paminklas amžinas mūšio (mūšis)]]
 - [[objektai/asmenys/Valdemaras IV]]
 - [[objektai/grupes/Baltai]]
 - [[objektai/grupes/Lietuviai]]

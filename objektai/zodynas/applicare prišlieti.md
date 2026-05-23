@@ -49,4 +49,4 @@ Sutarties sąlygos: Jogaila ima žmona Lenkijos karalaitę Jadvygą, pažada įv
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/posakiai/„prišlieti“]]
-- [[objektai/ivykiai/Krėvos sutarties priėmimas]]
+- [[objektai/ivykiai/Krėvos sutarties priėmimas|Krėvos sutarties priėmimas (sutartis)]]

@@ -2,8 +2,12 @@
 tipas: paprotys
 pavadinimas: "Istorinės Lietuvos žydų savivardystė „Lite“ ir „litvakai“"
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Kandidatas 4 Istorinės Lietuvos žydų savivardystė „Lite“ ir „litvakai“'
+  - 'Kandidatas Istorinės Lietuvos žydų savivardystė „Lite“ ir „litvakai“'
+aliases:
+  - 'Kandidatas 4 Istorinės Lietuvos žydų savivardystė „Lite“ ir „litvakai“'
+  - 'Kandidatas Istorinės Lietuvos žydų savivardystė „Lite“ ir „litvakai“'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'

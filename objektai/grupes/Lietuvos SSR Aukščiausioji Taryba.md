@@ -1,9 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'Lietuvos SSR Aukščiausioji Taryba'
+pavadinimas: 'Lietuvos SSR Aukščiausioji Taryba (institucija)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Lietuvos SSR Aukščiausioji Taryba'
+aliases:
+  - 'Lietuvos SSR Aukščiausioji Taryba'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
@@ -32,7 +34,7 @@ tags:
   - tauta
   - valstybė
 ---
-# Lietuvos SSR Aukščiausioji Taryba
+# Lietuvos SSR Aukščiausioji Taryba (institucija)
 
 ## Santrauka
 
@@ -108,7 +110,7 @@ Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamufliažo atsisakyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Aukščiausiosios Tarybos rūmai]]
+- [[objektai/vietos/Aukščiausiosios Tarybos rūmai|Aukščiausiosios Tarybos rūmai (institucija)]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/SSRS]]
 - [[objektai/zodynas/Suverenitetas]]

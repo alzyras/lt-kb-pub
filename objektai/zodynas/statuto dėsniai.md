@@ -81,6 +81,6 @@ Pagaliau įvedamas dar vienas — lenkams pats svarbusis — nuostatas, reikalau
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Liublinas]]
-- [[objektai/grupes/Liublino seimas]]
+- [[objektai/grupes/Liublino seimas|Liublino seimas (seimas)]]
 - [[objektai/zodynas/unija]]
 - [[objektai/zodynas/statutas]]

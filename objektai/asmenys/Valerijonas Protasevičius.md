@@ -16,18 +16,13 @@ vaidmenys:
   - 'vyskupas'
 dalyviai: []
 susije_irasai: []
-datos:
-  - '1569 m.'
-  - '1579 m.'
-  - '1850 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
+datos: []
+periodas: ''
+periodo_grupes: []
 amziai:
-  - 'XVI'
-  - 'XIX'
-date_start: '1569'
-date_end: '1850'
+  - 'V'
+date_start: ''
+date_end: ''
 patikimumas: aukštas
 tags:
   - dvasininkas

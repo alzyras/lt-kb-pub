@@ -168,6 +168,7 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Aleksandras (Moldavijos valdovas)]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/vietos/Cholmas]]
 - [[objektai/asmenys/Devletas]]
 - [[objektai/ivykiai/Devleto mėginimas išsivaduoti iš protektorato ir sosto netekimas]]

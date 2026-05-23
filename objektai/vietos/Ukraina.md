@@ -156,4 +156,5 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
 - [[objektai/ivykiai/Šiaulių ekonomijos valstiečių sukilimas (1769 m.)]]
 - [[objektai/paprociai/Žydų gyvenimo ribojimas sėslumo riba Rusijos imperijoje]]
 - [[objektai/posakiai/„Lietuvą padaryti internacionalinę“]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Juzefas Poniatovskis]]

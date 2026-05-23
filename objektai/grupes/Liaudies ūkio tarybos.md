@@ -1,16 +1,18 @@
 ---
 tipas: grupe
-pavadinimas: 'Liaudies ūkio tarybos'
+pavadinimas: 'Liaudies ūkio tarybos (institucija)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Liaudies ūkio tarybos'
+aliases:
+  - 'Liaudies ūkio tarybos'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
 tags:
   - grupe
 ---
-# Liaudies ūkio tarybos
+# Liaudies ūkio tarybos (institucija)
 
 ## Santrauka
 

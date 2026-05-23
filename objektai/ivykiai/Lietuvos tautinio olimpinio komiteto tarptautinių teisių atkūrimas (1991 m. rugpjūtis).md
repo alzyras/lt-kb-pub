@@ -58,7 +58,7 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Tarptautinis olimpinis komitetas]]
+- [[objektai/grupes/Tarptautinis olimpinis komitetas|Tarptautinis olimpinis komitetas (institucija)]]
 - [[objektai/paprociai/Lietuvos sportininkų atsisakymas dalyvauti SSRS rinktinėse ir atstovavimas Lietuvai]]
-- [[objektai/grupes/Lietuvos tautinis olimpinis komitetas]]
+- [[objektai/grupes/Lietuvos tautinis olimpinis komitetas|Lietuvos tautinis olimpinis komitetas (institucija)]]
 - [[objektai/daiktai/Olimpiniai medaliai]]

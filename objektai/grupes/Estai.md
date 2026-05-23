@@ -125,6 +125,7 @@ Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų tautinio sąjūd
 - [[objektai/vietos/Hermano bokštas]]
 - [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
 - [[objektai/ivykiai/Lietuvos gyventojų pasitraukimas į Vakarus baigiantis Antrajam pasauliniam karui]]
+- [[objektai/asmenys/Mindaugas]]
 - [[objektai/paprociai/Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui]]
 - [[objektai/grupes/Notangai]]
 - [[objektai/grupes/Pamedėnai]]

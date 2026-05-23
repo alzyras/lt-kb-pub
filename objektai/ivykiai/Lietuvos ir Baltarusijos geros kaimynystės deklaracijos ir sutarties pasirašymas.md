@@ -1,9 +1,11 @@
 ---
 tipas: ivykis
-pavadinimas: 'Lietuvos ir Baltarusijos geros kaimynystės deklaracijos ir sutarties pasirašymas'
+pavadinimas: 'Lietuvos ir Baltarusijos geros kaimynystės deklaracijos ir sutarties pasirašymas (sutartis)'
 sukurta: '2026-05-18'
-variantai: []
-aliases: []
+variantai:
+  - 'Lietuvos ir Baltarusijos geros kaimynystės deklaracijos ir sutarties pasirašymas'
+aliases:
+  - 'Lietuvos ir Baltarusijos geros kaimynystės deklaracijos ir sutarties pasirašymas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
@@ -21,7 +23,7 @@ tags:
   - sutartis
   - valstybė
 ---
-# Lietuvos ir Baltarusijos geros kaimynystės deklaracijos ir sutarties pasirašymas
+# Lietuvos ir Baltarusijos geros kaimynystės deklaracijos ir sutarties pasirašymas (sutartis)
 
 ## Santrauka
 

@@ -229,6 +229,7 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
 - [[objektai/vietos/Deimena]]
 - [[objektai/autoriai/E. Thunert]]
 - [[objektai/vietos/Elbingas]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
 - [[objektai/ivykiai/Gedimino sąjunga su Lenkija]]
 - [[objektai/vietos/Gilija]]
 - [[objektai/asmenys/Kazimieras (Lokietkos sūnus)]]

@@ -11,7 +11,6 @@ saltiniai:
 laikotarpis: '1938 m.; 1948 m.; 1950 m.'
 datos:
   - '1938 m.'
-  - '1948 m.'
   - '1950 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:

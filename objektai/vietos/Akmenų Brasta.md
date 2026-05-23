@@ -61,7 +61,7 @@ Senoje jotvingių žemėje siena ėjo pradedant nuo « Akmenų Brastos » (« Ka
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Salynas]]
-- [[objektai/ivykiai/Salyno sutartis]]
+- [[objektai/ivykiai/Salyno sutartis|Salyno sutartis (sutartis)]]
 - [[objektai/vietos/Sūduva]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/vietos/Grajevas]]

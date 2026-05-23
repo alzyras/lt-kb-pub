@@ -1,10 +1,12 @@
 ---
 tipas: asmuo
-pavadinimas: 'K. Masiliūnas'
+pavadinimas: 'K. Masiliūnas (viceministeris)'
 sukurta: '2026-04-24'
 variantai:
   - 'K. Masiliūno'
-aliases: []
+  - 'K. Masiliūnas'
+aliases:
+  - 'K. Masiliūnas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 laikotarpis: '1936 m.'
@@ -24,7 +26,7 @@ tags:
   - asmuo
   - tauta
 ---
-# K. Masiliūnas
+# K. Masiliūnas (viceministeris)
 
 ## Santrauka
 

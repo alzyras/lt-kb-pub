@@ -57,6 +57,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Krikščionys]]
 - [[objektai/grupes/Lietuvos krikščionių demokratų partija]]
-- [[objektai/asmenys/V. Mironas|V. Mironas (kunigas)]]
 - [[objektai/zodynas/Vieningo darbo vyriausybė]]
-- [[objektai/asmenys/Vladas Mironas]]

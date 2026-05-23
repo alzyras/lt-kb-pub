@@ -8,7 +8,6 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1933 m.'
-  - '1934 m.'
   - '1938 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:

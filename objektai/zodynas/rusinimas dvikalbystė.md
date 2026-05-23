@@ -65,4 +65,4 @@ Stalino kultą – susilpnėjo rusinimas, valdžia pradėjo labiau pasitikėti v
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/zodynas/rusinimas]]
-- [[objektai/posakiai/„tarybinės liaudies formavimasį“ „tarybinių tautų suartėjimą ir susiliejimą“]]
+- [[objektai/posakiai/„tarybinės liaudies formavimasį“ „tarybinių tautų suartėjimą ir susiliejimą“|„tarybinės liaudies formavimasį“ „tarybinių tautų suartėjimą ir susiliejimą“ (institucija)]]

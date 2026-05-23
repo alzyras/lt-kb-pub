@@ -78,4 +78,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/IV Seimas]]
+- [[objektai/grupes/IV Seimas|IV Seimas (seimas)]]

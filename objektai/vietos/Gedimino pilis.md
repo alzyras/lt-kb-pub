@@ -1,9 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Gedimino pilis'
+pavadinimas: 'Gedimino pilis (pilis)'
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'Gedimino pilis'
+aliases:
+  - 'Gedimino pilis'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -23,7 +25,7 @@ tags:
   - pilis
   - vieta
 ---
-# Gedimino pilis
+# Gedimino pilis (pilis)
 
 ## Santrauka
 

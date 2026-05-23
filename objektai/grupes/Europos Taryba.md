@@ -1,9 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'Europos Taryba'
+pavadinimas: 'Europos Taryba (institucija)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Europos Taryba'
+aliases:
+  - 'Europos Taryba'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
@@ -13,7 +15,7 @@ tags:
   - sutartis
   - tauta
 ---
-# Europos Taryba
+# Europos Taryba (institucija)
 
 ## Santrauka
 

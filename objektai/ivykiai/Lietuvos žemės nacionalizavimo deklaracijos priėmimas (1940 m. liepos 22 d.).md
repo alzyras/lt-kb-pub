@@ -56,5 +56,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Liaudies seimas]]
+- [[objektai/grupes/Liaudies seimas|Liaudies seimas (seimas)]]
 - [[objektai/vietos/Lietuva]]

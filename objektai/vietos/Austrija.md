@@ -161,7 +161,7 @@ Prie jų dar prisidėjo Austrijos Juozapas II. Čartoriskius, darančius reforma
 - [[objektai/asmenys/Kotryna II]]
 - [[objektai/asmenys/Marija]]
 - [[objektai/asmenys/Marija (Liudviko duktė)]]
-- [[objektai/grupes/Naujoji Lenkų Valstybės Taryba]]
+- [[objektai/grupes/Naujoji Lenkų Valstybės Taryba|Naujoji Lenkų Valstybės Taryba (institucija)]]
 - [[objektai/autoriai/Petras Suchenwirt]]
 - [[objektai/vietos/Pilėnai]]
 - [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis (valdovas)]]

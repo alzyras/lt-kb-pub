@@ -2,8 +2,12 @@
 tipas: paprotys
 pavadinimas: "Senjoro atsakomybė už pavaldinio tikėjimą"
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Kandidatas 19 Senjoro atsakomybė už pavaldinio tikėjimą'
+  - 'Kandidatas Senjoro atsakomybė už pavaldinio tikėjimą'
+aliases:
+  - 'Kandidatas 19 Senjoro atsakomybė už pavaldinio tikėjimą'
+  - 'Kandidatas Senjoro atsakomybė už pavaldinio tikėjimą'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'

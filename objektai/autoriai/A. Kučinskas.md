@@ -10,16 +10,12 @@ saltiniai:
 laikotarpis: '1930 m. (veikalo sudarymo kontekstas)'
 vaidmenys:
   - 'autorius'
-datos:
-  - '1930 m.'
-  - '1934 m.'
-periodas: 'Pirmoji Lietuvos Respublika'
-periodo_grupes:
-  - 'modernioji Lietuva'
-amziai:
-  - 'XX'
-date_start: '1930'
-date_end: '1934'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'aukštas'
 tags:
   - autorius

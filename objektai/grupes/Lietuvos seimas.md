@@ -1,9 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'Lietuvos seimas'
+pavadinimas: 'Lietuvos seimas (seimas)'
 sukurta: '2026-04-25'
-variantai: []
-aliases: []
+variantai:
+  - 'Lietuvos seimas'
+aliases:
+  - 'Lietuvos seimas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
@@ -22,7 +24,7 @@ tags:
   - grupe
   - seimas
 ---
-# Lietuvos seimas
+# Lietuvos seimas (seimas)
 
 ## Santrauka
 
@@ -73,7 +75,8 @@ Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.
 - [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/tranzitas]]
 - [[objektai/grupes/Ambasadorių Konferencija]]
+- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
 - [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]
 - [[objektai/grupes/Lietuvos seimas (1924 m.)]]
-- [[objektai/grupes/Vyriausias Mažosios Lietuvos gelbėjimo komitetas]]
+- [[objektai/grupes/Vyriausias Mažosios Lietuvos gelbėjimo komitetas|Vyriausias Mažosios Lietuvos gelbėjimo komitetas (institucija)]]
 - [[objektai/zodynas/etnografinės ribos etnografinis principas]]

@@ -150,7 +150,7 @@ tags:
 - [[objektai/autoriai/B. Dundulis]]
 - [[objektai/vietos/Durbės ežeras]]
 - [[objektai/ivykiai/Durbės mūšis (1260 m.)]]
-- [[objektai/vietos/Durbės pilis]]
+- [[objektai/vietos/Durbės pilis|Durbės pilis (pilis)]]
 - [[objektai/autoriai/Dusburgas (Kryžiuočių ordino kronikininkas)]]
 - [[objektai/vietos/Gotlandas]]
 - [[objektai/vietos/Grobinė]]

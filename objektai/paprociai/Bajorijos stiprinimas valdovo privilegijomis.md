@@ -1,9 +1,11 @@
 ---
 tipas: paprotys
-pavadinimas: 'Bajorijos stiprinimas valdovo privilegijomis'
+pavadinimas: 'Bajorijos stiprinimas valdovo privilegijomis (privilegija)'
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'Bajorijos stiprinimas valdovo privilegijomis'
+aliases:
+  - 'Bajorijos stiprinimas valdovo privilegijomis'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -26,7 +28,7 @@ tags:
   - paprotys
   - valdovas
 ---
-# Bajorijos stiprinimas valdovo privilegijomis
+# Bajorijos stiprinimas valdovo privilegijomis (privilegija)
 
 ## Santrauka
 

@@ -298,5 +298,6 @@ Nenurodyta
 - [[objektai/grupes/Totoriai]]
 - [[objektai/vietos/Tverė]]
 - [[objektai/posakiai/„Mėlynuosius Vandenis ir Baltąją pakrantę nukariavo“]]
-- [[objektai/autoriai/M. Strijkovskis]]
+- [[objektai/autoriai/M. Strijkovskis|Motiejus Strijkovskis (kronikininkas)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/vietos/Mėlynieji Vandenys]]

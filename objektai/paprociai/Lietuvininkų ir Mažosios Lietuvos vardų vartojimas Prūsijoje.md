@@ -2,8 +2,10 @@
 tipas: paprotys
 pavadinimas: "Lietuvininkų ir Mažosios Lietuvos vardų vartojimas Prūsijoje"
 sukurta: '2026-05-18'
-variantai: []
-aliases: []
+variantai:
+  - 'Kandidatas Lietuvininkų ir Mažosios Lietuvos vardų vartojimas Prūsijoje'
+aliases:
+  - 'Kandidatas Lietuvininkų ir Mažosios Lietuvos vardų vartojimas Prūsijoje'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:

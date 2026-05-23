@@ -2,8 +2,10 @@
 tipas: paprotys
 pavadinimas: "Reguliarūs lietuvių plėšiamieji žygiai į Rusios, Lenkijos ir Livonijos žemes"
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Kandidatas Reguliarūs lietuvių plėšiamieji žygiai į Rusios, Lenkijos ir Livonijos žemes'
+aliases:
+  - 'Kandidatas Reguliarūs lietuvių plėšiamieji žygiai į Rusios, Lenkijos ir Livonijos žemes'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'

@@ -67,7 +67,7 @@ Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos. Pacai, bijodami jo kandi
 - [[objektai/asmenys/A. Nelepcos]]
 - [[objektai/vietos/Antakalnis]]
 - [[objektai/ivykiai/Jono Sobieskio elekcija (1674 m.)]]
-- [[objektai/paprociai/Lietuvos kariuomenės išvedimas už sienos tik seimo įsakymu]]
+- [[objektai/paprociai/Lietuvos kariuomenės išvedimas už sienos tik seimo įsakymu|Lietuvos kariuomenės išvedimas už sienos tik seimo įsakymu (seimas)]]
 - [[objektai/ivykiai/Mykolo Kaributo Višniaveckio elekcija (1669 m.)]]
 - [[objektai/asmenys/Nikolajus Arsenjevas]]
 - [[objektai/vietos/Pažaislis]]

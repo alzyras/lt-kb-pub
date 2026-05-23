@@ -391,7 +391,7 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
 - [[objektai/vietos/Burtnieko ežeras]]
 - [[objektai/grupes/Chlapovskio kariuomenė]]
 - [[objektai/vietos/Durbė]]
-- [[objektai/vietos/Durbės pilis]]
+- [[objektai/vietos/Durbės pilis|Durbės pilis (pilis)]]
 - [[objektai/vietos/Embutė]]
 - [[objektai/asmenys/Fridrichas Ketleris]]
 - [[objektai/asmenys/Jaroslavas (rusų kunigaikštis, 1234 m.)]]

@@ -79,6 +79,6 @@ Nenurodyta
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Rusija]]
 - [[objektai/vietos/Vokietija]]
-- [[objektai/grupes/Lietuvos Taryba]]
+- [[objektai/grupes/Lietuvos Taryba|Lietuvos Taryba (institucija)]]
 - [[objektai/asmenys/J. Basanavičius]]
 - [[objektai/grupes/Lietuvos Respublika]]

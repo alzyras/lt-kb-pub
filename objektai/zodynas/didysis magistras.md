@@ -172,7 +172,7 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Ulrichas von Jungingenas]]
-- [[objektai/zodynas/krašto magistras]]
+- [[objektai/zodynas/krašto magistras|krašto magistras (kraštas)]]
 - [[objektai/vietos/Palestina]]
 - [[objektai/vietos/Prūsija]]
 - [[objektai/zodynas/magistras]]

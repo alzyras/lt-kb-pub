@@ -1,9 +1,15 @@
 ---
 tipas: paprotys
-pavadinimas: "Jogailos krikšto privilegijos vyskupui, bajorams ir Vilniaus miestiečiams"
+pavadinimas: 'Jogailos krikšto privilegijos vyskupui, bajorams ir Vilniaus miestiečiams (krikštas)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Jogailos krikšto privilegijos vyskupui, bajorams ir Vilniaus miestiečiams'
+  - 'Kandidatas 20 Jogailos krikšto privilegijos vyskupui, bajorams ir Vilniaus miestiečiams'
+  - 'Kandidatas Jogailos krikšto privilegijos vyskupui, bajorams ir Vilniaus miestiečiams'
+aliases:
+  - 'Jogailos krikšto privilegijos vyskupui, bajorams ir Vilniaus miestiečiams'
+  - 'Kandidatas 20 Jogailos krikšto privilegijos vyskupui, bajorams ir Vilniaus miestiečiams'
+  - 'Kandidatas Jogailos krikšto privilegijos vyskupui, bajorams ir Vilniaus miestiečiams'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
@@ -13,7 +19,7 @@ tags:
   - paprotys
   - valdovas
 ---
-# Jogailos krikšto privilegijos vyskupui, bajorams ir Vilniaus miestiečiams
+# Jogailos krikšto privilegijos vyskupui, bajorams ir Vilniaus miestiečiams (krikštas)
 
 ## Santrauka
 

@@ -154,7 +154,6 @@ Politinė grupuotė.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/A. Smetona|A. Smetona (prezidentas, XX a.)]]
 - [[objektai/daiktai/Artilerija]]
 - [[objektai/grupes/Jaunieji tautininkai]]
 - [[objektai/vietos/Lenkija]]
@@ -168,7 +167,7 @@ Politinė grupuotė.
 - [[objektai/ivykiai/Voldemarininkų pučas ir Laikinosios vyriausybės veiklos uždraudimas (1941 m. liepos 23 d. - rugpjūčio 5 d.)]]
 - [[objektai/zodynas/autoritatyvinis režimas]]
 - [[objektai/vietos/Vilnius]]
-- [[objektai/asmenys/A. Voldemaras]]
+- [[objektai/asmenys/Augustinas Voldemaras]]
 - [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga]]
 - [[objektai/asmenys/Petras Kubiliūnas]]
 - [[objektai/ivykiai/Lietuvos atsisakymas žygiuoti į Vilnių Vokietijos ir Lenkijos karo metu (1939 m. rugsėjis)]]

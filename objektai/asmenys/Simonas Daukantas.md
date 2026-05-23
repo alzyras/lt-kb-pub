@@ -8,10 +8,6 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1793 m.'
-  - '1801 m.'
-  - '1822 m.'
-  - '1848 m.'
-  - '1864 m.'
   - '1875 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
@@ -102,4 +98,3 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
 ### Susiję objektai
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Vilnius]]
-- [[objektai/paprociai/Lietuvių aukštosios kultūros kūrimas ir liaudies švietimas gimtąja kalba]]

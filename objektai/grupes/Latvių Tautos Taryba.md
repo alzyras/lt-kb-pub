@@ -1,9 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'Latvių Tautos Taryba'
+pavadinimas: 'Latvių Tautos Taryba (institucija)'
 sukurta: '2026-04-25'
-variantai: []
-aliases: []
+variantai:
+  - 'Latvių Tautos Taryba'
+aliases:
+  - 'Latvių Tautos Taryba'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
@@ -11,7 +13,7 @@ tags:
   - grupe
   - tauta
 ---
-# Latvių Tautos Taryba
+# Latvių Tautos Taryba (institucija)
 
 ## Santrauka
 
@@ -75,7 +77,7 @@ Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri k
 - [[objektai/vietos/Latvija]]
 - [[objektai/vietos/Petrapilis]]
 - [[objektai/vietos/Rusija]]
-- [[objektai/grupes/Tautos taryba]]
+- [[objektai/grupes/Tautos taryba|Tautos taryba (institucija)]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/grupes/Bolševikai]]
-- [[objektai/grupes/Petrapilio latvių pabėgėlių komitetas]]
+- [[objektai/grupes/Petrapilio latvių pabėgėlių komitetas|Petrapilio latvių pabėgėlių komitetas (institucija)]]

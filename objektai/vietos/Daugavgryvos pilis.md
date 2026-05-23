@@ -1,9 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Daugavgryvos pilis'
+pavadinimas: 'Daugavgryvos pilis (pilis)'
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'Daugavgryvos pilis'
+aliases:
+  - 'Daugavgryvos pilis'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -22,7 +24,7 @@ tags:
   - pilis
   - vieta
 ---
-# Daugavgryvos pilis
+# Daugavgryvos pilis (pilis)
 
 ## Santrauka
 

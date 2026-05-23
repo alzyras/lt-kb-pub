@@ -1,9 +1,11 @@
 ---
 tipas: autorius
-pavadinimas: 'St. Smolka'
+pavadinimas: "St. Smolka"
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'Smolka, St'
+aliases:
+  - 'Smolka, St'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -34,6 +36,12 @@ Smolka: Kiejstut i Jagiełło , 1889, 99p. (^8) SRP, II, 601; III, 115116 p. Smo
   statusas: patvirtinta
 - t-002
   teiginys: 'St. Smolka 1889 m. Krokuvoje paskelbė darbą „Kiejstut i Jagiełło“ „Pamiętnik AU“ 7 tome.'
+  pagrindžia:
+    - c-002
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  statusas: patvirtinta
+- t-003
+  teiginys: 'St. Smolka 1889 m. Krokuvoje paskelbė darbą „Kiejstut i Jagiełło“.'
   pagrindžia:
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)

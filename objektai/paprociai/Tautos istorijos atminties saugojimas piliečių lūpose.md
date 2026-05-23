@@ -2,8 +2,10 @@
 tipas: paprotys
 pavadinimas: "Tautos istorijos atminties saugojimas piliečių lūpose"
 sukurta: '2026-05-18'
-variantai: []
-aliases: []
+variantai:
+  - 'Kandidatas Tautos istorijos atminties saugojimas piliečių lūpose'
+aliases:
+  - 'Kandidatas Tautos istorijos atminties saugojimas piliečių lūpose'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:

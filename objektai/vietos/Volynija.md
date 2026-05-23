@@ -167,7 +167,7 @@ Todėl dar 1384 metų pavasarį jis pradėjo siunti­ nėti Vytautui pasiuntiniu
 - [[objektai/vietos/Prūsija]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/vietos/Suvalkai]]
-- [[objektai/vietos/Suvalkų kraštas]]
+- [[objektai/vietos/Suvalkų kraštas|Suvalkų kraštas (kraštas)]]
 - [[objektai/vietos/Trakai]]
 - [[objektai/vietos/Vilnius]]
 - [[objektai/grupes/Vokiečiai]]

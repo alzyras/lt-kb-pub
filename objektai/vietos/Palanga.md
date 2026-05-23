@@ -190,6 +190,7 @@ tags:
 ### Susiję objektai
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Liepoja]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Birutė]]
 - [[objektai/vietos/Birutės kalnas]]
 - [[objektai/vietos/Ceklis]]

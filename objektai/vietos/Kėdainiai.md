@@ -226,7 +226,7 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
 - [[objektai/vietos/Kruopiai]]
 - [[objektai/vietos/Kėdainių apskritis]]
 - [[objektai/ivykiai/Kėdainių lietuviškų knygų spaustuvės įkūrimas ir sudegimas (apie 1652–1654 m.)]]
-- [[objektai/ivykiai/Kėdainių sutarties sudarymas su Švedija]]
+- [[objektai/ivykiai/Kėdainių sutarties sudarymas su Švedija|Kėdainių sutarties sudarymas su Švedija (sutartis)]]
 - [[objektai/grupes/Kėdainių įgula]]
 - [[objektai/ivykiai/Kėdainių-Šėtos kautynės]]
 - [[objektai/vietos/Lenčių miškas]]

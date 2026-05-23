@@ -73,7 +73,7 @@ tags:
 - [[objektai/asmenys/Henrikas (Meiseno markgrafas)]]
 - [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
 - [[objektai/autoriai/Loreta Uzdraitė]]
-- [[objektai/vietos/Mežuotnės pilis]]
+- [[objektai/vietos/Mežuotnės pilis|Mežuotnės pilis (pilis)]]
 - [[objektai/grupes/Notangai]]
 - [[objektai/vietos/Pagudė]]
 - [[objektai/grupes/Pamedėnai]]

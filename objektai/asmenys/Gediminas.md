@@ -8,6 +8,7 @@ variantai:
   - 'Gedyminą'
   - 'Gedimins'
   - 'Gediminas'
+  - 'Gediminas (Lietuvos valdovas, 1323 m.)'
 aliases:
   - 'Gediminas (Lietuvos valdovas, 1323 m.)'
   - 'Gediminas'
@@ -20,29 +21,12 @@ vaidmenys:
   - 'Lietuvos valdovas'
 dalyviai: []
 susije_irasai: []
-datos:
-  - '1307 m.'
-  - '1316 m.'
-  - '1317 m.'
-  - '1320 m.'
-  - '1322 m.'
-  - '1323 m.'
-  - '1324 m.'
-  - '1330 m.'
-  - '1340 m.'
-  - '1341 m.'
-  - '1362 m.'
-  - '1363 m.'
-  - '1385 m.'
-  - '1572 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XIV'
-  - 'XVI'
-date_start: '1307'
-date_end: '1572'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'aukštas'
 tags:
   - diplomatas
@@ -57,18 +41,6 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
 - Lietuvos valdovas
 
 ## Teiginiai
-- t-001
-  teiginys: 'Gediminas buvo Vytenio brolis.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-- t-002
-  teiginys: 'Gedimino politikos pagrindinė priemonė buvo diplomatija, o ne ginklas.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 - t-003
   teiginys: 'Gediminas sudarė sąjungą su Lenkija ir plėtė valstybę gudria politika bei dinastinėmis vedybomis.'
   pagrindžia:
@@ -147,12 +119,6 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
     - c-025
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-026
-  teiginys: 'Gediminas laiškuose pareiškė norą krikštytis, bet teigė turįs gintis nuo kryžiuočių, siekiančių užkariauti valstybę.'
-  pagrindžia:
-    - c-026
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  statusas: patvirtinta
 - t-027
   teiginys: 'Valdant Gediminui pagoniškos Lietuvos visuomenės ūkinė, socialinė, politinė ir dvasinė struktūra įgijo brandžiausią pavidalą.'
   pagrindžia:
@@ -209,10 +175,6 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
   teiginys: 'Lietuva liks savarankiška civilizacinė monada, todėl tiek Gediminas, tiek Algirdas, nelaukdami pripažinimo ir karūnos iš svetur, nemandagiai (Vakarų žvilgsniu) vadinsis karaliais.'
   pagrindžia:
     - c-038
-- t-039
-  teiginys: 'Jam Gediminas ir siuntė laiškus, kuriuose pareiškė pageidavimą krikštytis: Lietuvos valdovai norį priimti katalikų tikėjimą, bet priversti gintis nuo kryžiuočių, kuriems rūpįs ne krikštas, o valstybės užkariavimas.'
-  pagrindžia:
-    - c-039
 - t-040
   teiginys: 'Taigi pagoniška Lietuvos visuomenė ir jos ūkinė, socialinė, politinė ir dvasinė struktūra įgijo brandžiausią pavidalą valdant Gediminui.'
   pagrindžia:
@@ -233,37 +195,12 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
   teiginys: 'Politikoje su Ordinais Gediminas paėmė visai naują kryp­ tį.'
   pagrindžia:
     - c-045
-- t-046
-  teiginys: 'Jo sūnus Gediminas dar labiau sutvirti­ no Mindaugo įkurtą valstybę ir davė pradžią naujai galingai dinastijai.'
-  pagrindžia:
-    - c-046
 - t-047
   teiginys: 'Mindaugo krikštas ir kitų didžiųjų Lietuvos kunigaikščių, kaip Gedimino, Algirdo ir Kęstučio mėginimai įvesti Lietuvoje katalikų tikėjimą, rodė, kad Lietuva linksta i Vakarus, į Ro­ mos Bažnyčios prieglobstį.'
   pagrindžia:
     - c-047
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: Gediminas apibūdinamas kaip Vytenio brolis ir diplomatiškas valdovas.
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Gediminas buvo Vytenio brolis. Kitas jo brolis, Vainys, val-
-    dė Polocką. Gediminas nebuvo toks karingas, kaip Vytenis.
-    Jis pats labai retai vadovavo kariuomenei: kai tekdavo kariauti,
-    karo vadu dažniausiai skirdavo Gardino srities kunigaikštį
-    Dovydą (spėjama, kad jis buvęs Mindaugo nužudyme dalyvavu-
-    sio, o vėliau Pskovą valdžiusio, Daumanto sūnus). Gediminas iš
-    viso nemėgo kariauti. Jo politikos pagrindinė priemonė buvo ne
-    ginklas, bet diplomatija.
-  citata_rodoma: ""
-  teiginio_tipas: vertinimas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  priskyrimo_pagrindas: explicit_name
-  pagrindžia:
-    - t-001
-    - t-002
 - c-002
   santrauka: Gediminas sudarė sąjungą su Lenkija ir plėtė valstybę ne vien ginklu.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -285,7 +222,10 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
   santrauka: Gediminas 1323 m. popiežiui aiškino Lietuvos krikšto kliūtis.
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
-    Atsakydamas Gediminas (1323 m.) nu-
+    Norėdamas pakenkti savo priešui, arki-
+    vyskupas pasiūlė popiežiui pasirūpinti Lietuvos krikštu betar-
+    piškai, aplenkiant ordiną. Popiežius parašė Gediminui laišką,
+    siūlydamas krikštytis. Atsakydamas Gediminas (1323 m.) nu-
     siuntė popiežiui ilgą laišką, kuriame aiškinosi, kad jei ne gro-
     buoniška ordino politika, tai Lietuva jau būtų krikštijusis.
   citata_rodoma: ""
@@ -336,6 +276,7 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Gediminas mirė apie 1341 m. Mirdamas jis paliko 7 sūnus.
+    Jau anksčiau visi jie buvo gavę po sritį.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -348,7 +289,10 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
   santrauka: Gediminas papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Laiškų pagrindinė
+    Greičiausiai jie yra artimo Rygos ir Vilniaus dvaro
+    bendradarbiavimo vaisius. Jie negalėjo būti pagaminti visai be
+    Gedimino žinios, nes eilei dalykų arba turėjo būti Lietuvos valdovo
+    pritarimas, arba jie tik Gediminą tedomino. Laiškų pagrindinė
     mintis buvo ta, jog Gediminas, pripažindamas popiežiaus autori­
     tetą, žadėjo krikštytis.
   citata_rodoma: ""
@@ -362,6 +306,13 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
   santrauka: Gediminas papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
+    Popiežiaus legato pasiuntiniams apie savo ir Lietuvos valsty­
+    bės tikėjimo klausimą jis pareiškė : « Tegul krikščionys (lotyniškieji)
+    Dievą garbina pagal savo apeigas, tegul rusai (rutheni) jam tar­
+    nauja pagal savo paprotį, lenkai taip pat savuoju būdu, o mes
+    Dievą garbiname savuoju papročiu, — ir visi turime vieną Dievą ».^11
+    Iš tų autentiškų Gedimino žodžių matyti platus žvilgsnis toleranto
+    valdovo, kurio valstybėje buvo daug tautų ir religijų^12.
     Gedimino palaikomi ryšiai su Ryga ir arkivyskupu galėjo Lie­
     tuvai būti posūkiu, priimant krikštą iš Rygos, juo labiau, kad
     plėsdami su Lietuva naudingus prekybinius santykius, rygiečiai
@@ -378,7 +329,8 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
   santrauka: Gediminas papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Gediminas ir jo sūnus Algirdas rytuose daugiausia turėjo
+    tis prie Gedimino pirmtakų, nesustojo dar visą šimtmetį ir po jo
+    mirties. Gediminas ir jo sūnus Algirdas rytuose daugiausia turėjo
     pasisekimo. Tvirtindamasis vis tolyn plotuose į rytus nuo Aukš­
     taičiu, Gediminas užėmė sritis apie Drucką ir Minsko kunigaikš­
     tiją.
@@ -393,6 +345,10 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
   santrauka: Gediminas papildomas patvirtintas šaltinio paminėjimas.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
+    Galimas daly­
+    kas, jog Rygos arkivyskupo pritarimą turėjo ir aniedu vienuoliai
+    pranciškonai, kuriedu popiežiui apie Gedimino krikštą buvo įrašę
+    daugiau, negu šis buvo ketinęs.
     Jau 1317 m. Gediminas iš popiežiaus Jono XXII buvo gavęs
     raginimą krikštytis10 11.
   citata_rodoma: ""
@@ -499,26 +455,6 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-025
-- c-026
-  santrauka: 'Gediminas laiškuose pareiškė norą krikštytis, bet teigė turįs gintis nuo kryžiuočių, siekiančių užkariauti valstybę.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Jam Gediminas ir siuntė laiškus, kuriuose
-    pareiškė pageidavimą krikštytis: Lietuvos valdovai norį priimti katalikų
-    tikėjimą, bet priversti gintis nuo kryžiuočių, kuriems rūpįs ne krikštas,
-    o valstybės užkariavimas. Gediminas taip pat išsiuntė laiškus Vokietijos
-    miestams bei vienuolijoms, pranešdamas, kad laukia popiežiaus pasiun-
-    tinių tartis dėl krikšto. Jis kvietė į Lietuvą atvykti ir čia įsikurti vokiečių
-    riterius, pirklius, amatininkus, valstiečius, žadėjo jiems tokias pačias vei-
-    klos sąlygas kaip Europoje. Tačiau 1323–1324 m. Gedimino krikšto akcija
-    nepavyko dėl žemaičių ir stačiatikių dvariškių pasipriešinimo.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-026
 - c-027
   santrauka: 'Valdant Gediminui pagoniškos Lietuvos visuomenės ūkinė, socialinė, politinė ir dvasinė struktūra įgijo brandžiausią pavidalą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -547,7 +483,8 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
     syvias derybas dėl krikšto, savo laiškais Vakarų šalims ir miestams šalia
     krikšto kvietė į Lietuvą Vakarų pirklius ir amatininkus. Lietuvos antiizo-
     liacinės pastangos ilgai nedavė rezultatų, o ordinų karinė agresija ver-
-    tė Lietuvą visą energiją skirti karybai.
+    tė Lietuvą visą energiją skirti karybai. Todėl kartais Lietuvos santvarka
+    XIV a. apibūdinama kaip karinė monarchija.
   citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: aukstas
@@ -559,7 +496,9 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
   santrauka: 'Vytenio ir Gedimino laikais prie Lietuvos prijungta Baltoji Rusia ir Voluinė, apėmusios dabartinę Baltarusiją ir dalį Vakarų Ukrainos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Mindaugo laikais
+    Algirdo didvalstybė
+    Mongolų imperija XIII a. sudaužė Kijevo Rusią, o Lietuva
+    pasinaudojo pergale ir pajungė kai kurias rusų žemes. Mindaugo laikais
     prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino lai-
     kais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Volui-
     nė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos.
@@ -577,7 +516,8 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
   santrauka: 'Gediminas ir Algirdas už teisę valdyti prijungtas rusų žemes nuolat mokėjo duoklę Aukso ordai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Nors
+    Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mon-
+    golų imperijos dalies) valdžion ir turėjo jai nuolat mokėti duoklę. Nors
     Lietuva prisijungė nemažą dalį rusų žemių, bet ir Gediminas, ir Algir-
     das už teisę jas valdyti turėjo nuolat mokėti duoklę Aukso ordai (Ldk
     Vytautas nustojo mokėti mongolams duoklę). Panašu, kad LDK rusiš-
@@ -626,7 +566,7 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
   santrauka: 'Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su kryžiuočiais užtruks, Gediminas tuo tarpu surado talkininką Lenkijos Vladislovo Lokietkos asmenyje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Gedimino taika su Lenkija ir kovos su vokiečių ordinu**
+    **4. Gedimino taika su Lenkija ir kovos su vokiečių ordinu**
     Matydamas, kad kova su kryžiuočiais užtruks, Gediminas tuo
     tarpu surado talkininką Lenkijos Vladislovo Lokietkos asmenyje.
     Šis ruošėsi kariauti su ordinu dėl užgrobto Dancigo ir Pamario.
@@ -641,7 +581,8 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
   santrauka: 'Gediminas titulavosi lietuvių ir daugelio rusėnų karaliumi.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
-    Gediminas tad skaitėsi « Letwinorum et multo-
+    Vis labiau plečiant Lietuvos valstybę į rytus, joje augo ir ryti­
+    nių slavų skaičius. Gediminas tad skaitėsi « Letwinorum et multo-
     rum Ruthenorum rex»^12. Lietuvos valstybėn patekusios rusų
     žemės, kurios graikų krikščionybę buvo priėmusios po Kijevo Ru­
     sios krikšto (988), turėjo savą—iš dalies bizantiniško stiliaus-—
@@ -657,10 +598,14 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
   santrauka: 'Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne tik nė vieno dėl religinių priežasčių nepersekiojo, bet Naugarduke Lietuvos stačiatikiams palaikė atskirą arkivyskupiją.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
+    Iš imtos vartoti slavų kalbos išsivystė Lietuvos didžiojo kuni­
+    gaikščio kanceliarinė rašto kalba, kuri buvo skirtinga nuo mask­
+    vinės rusų kalbos.
     Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne
     tik nė vieno dėl religinių priežasčių nepersekiojo, bet Naugarduke
     Lietuvos stačiatikiams palaikė atskirą arkivyskupiją. Ji apie 1330
-    m.
+    m. žlugo, nes po arkivyskupo Teofilio mirties nebebuvo paskirtas
+    naujas įpėdinis.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -689,7 +634,8 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
   santrauka: 'Su pagonišku veidu Lietuva dar gyvens 400 metų ir po Netimero – minėtus dievus matome ir Mindaugo laikais (Mindaugo krikštas ir karalystė taip pat liks epizodas), jie atėjo ir iki Ldk Gedimino, kuris bylos gal ne tiek apie pagonišką monoteizmą, kiek apie.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Lietuva
+    kišką etnosą, o Netimero vadovaujamiems pajudėti toliau nuo gentinės
+    santvarkos į valstybę, į kurią būtų verta traukti misionieriams. Lietuva
     liko su lietuvių kalba, mistiškai skambančiomis sutartinėmis, sakmėmis
     ir pasakomis, su savo pagoniškais dievais. Su pagonišku veidu Lietuva dar
     gyvens 400 metų ir po Netimero – minėtus dievus matome ir Mindaugo
@@ -709,7 +655,10 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
   santrauka: 'Lietuva liks savarankiška civilizacinė monada, todėl tiek Gediminas, tiek Algirdas, nelaukdami pripažinimo ir karūnos iš svetur, nemandagiai (Vakarų žvilgsniu) vadinsis karaliais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Lietuva liks savarankiška civilizacinė monada, todėl
+    Nors nebus nė vieno kunigaikščio,
+    kuris nevestų derybų dėl krikšto, kryžiaus karų epochos Europa, nebe-
+    leisdama valstybėms savarankiškai krikštytis, pati tarsi atstums Lietuvą
+    nuo krikščionybės. Lietuva liks savarankiška civilizacinė monada, todėl
     tiek Gediminas, tiek Algirdas, nelaukdami pripažinimo ir karūnos iš sve-
     tur, nemandagiai (Vakarų žvilgsniu) vadinsis karaliais. Tik Vytautas taps
     mandagesnis ir sieks įgyti karūną ir pripažinimą iš Vakarų.
@@ -720,26 +669,6 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-038
-- c-039
-  santrauka: 'Jam Gediminas ir siuntė laiškus, kuriuose pareiškė pageidavimą krikštytis: Lietuvos valdovai norį priimti katalikų tikėjimą, bet priversti gintis nuo kryžiuočių, kuriems rūpįs ne krikštas, o valstybės užkariavimas.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Jam Gediminas ir siuntė laiškus, kuriuose
-    pareiškė pageidavimą krikštytis: Lietuvos valdovai norį priimti katalikų
-    tikėjimą, bet priversti gintis nuo kryžiuočių, kuriems rūpįs ne krikštas,
-    o valstybės užkariavimas. Gediminas taip pat išsiuntė laiškus Vokietijos
-    miestams bei vienuolijoms, pranešdamas, kad laukia popiežiaus pasiun-
-    tinių tartis dėl krikšto. Jis kvietė į Lietuvą atvykti ir čia įsikurti vokiečių
-    riterius, pirklius, amatininkus, valstiečius, žadėjo jiems tokias pačias vei-
-    klos sąlygas kaip Europoje. Tačiau 1323–1324 m. Gedimino krikšto akcija
-    nepavyko dėl žemaičių ir stačiatikių dvariškių pasipriešinimo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-039
 - c-040
   santrauka: 'Taigi pagoniška Lietuvos visuomenė ir jos ūkinė, socialinė, politinė ir dvasinė struktūra įgijo brandžiausią pavidalą valdant Gediminui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -768,7 +697,8 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
     syvias derybas dėl krikšto, savo laiškais Vakarų šalims ir miestams šalia
     krikšto kvietė į Lietuvą Vakarų pirklius ir amatininkus. Lietuvos antiizo-
     liacinės pastangos ilgai nedavė rezultatų, o ordinų karinė agresija ver-
-    tė Lietuvą visą energiją skirti karybai.
+    tė Lietuvą visą energiją skirti karybai. Todėl kartais Lietuvos santvarka
+    XIV a. apibūdinama kaip karinė monarchija.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -780,7 +710,9 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
   santrauka: 'Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino laikais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Voluinė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Mindaugo laikais
+    Algirdo didvalstybė
+    Mongolų imperija XIII a. sudaužė Kijevo Rusią, o Lietuva
+    pasinaudojo pergale ir pajungė kai kurias rusų žemes. Mindaugo laikais
     prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino lai-
     kais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Volui-
     nė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos.
@@ -798,7 +730,8 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
   santrauka: 'Nors Lietuva prisijungė nemažą dalį rusų žemių, bet ir Gediminas, ir Algirdas už teisę jas valdyti turėjo nuolat mokėti duoklę Aukso ordai (Ldk Vytautas nustojo mokėti mongolams duoklę).'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Nors
+    Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mon-
+    golų imperijos dalies) valdžion ir turėjo jai nuolat mokėti duoklę. Nors
     Lietuva prisijungė nemažą dalį rusų žemių, bet ir Gediminas, ir Algir-
     das už teisę jas valdyti turėjo nuolat mokėti duoklę Aukso ordai (Ldk
     Vytautas nustojo mokėti mongolams duoklę). Panašu, kad LDK rusiš-
@@ -860,27 +793,13 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-045
-- c-046
-  santrauka: 'Jo sūnus Gediminas dar labiau sutvirti­ no Mindaugo įkurtą valstybę ir davė pradžią naujai galingai dinastijai.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Jo sūnus Gediminas dar labiau sutvirti­
-    no Mindaugo įkurtą valstybę ir davė pradžią naujai galingai
-    dinastijai. Jis mirdamas paliko Lietuvai veiklius ir energingus
-    kunigaikščius Algirdą ir Kęstutį. Jiedu davė vėl valstybei vi­
-    są eilę kunigaikščių, kurie Lietuvą valdė daugiau kaip pustrečio
-    šimto metų, iki pat Liublino unijos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-046
 - c-047
   santrauka: 'Mindaugo krikštas ir kitų didžiųjų Lietuvos kunigaikščių, kaip Gedimino, Algirdo ir Kęstučio mėginimai įvesti Lietuvoje katalikų tikėjimą, rodė, kad Lietuva linksta i Vakarus, į Ro­ mos Bažnyčios prieglobstį.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
+    Lietuviai turėjo pasirinkti vieną iš dviejų: arba
+    Rytų Bažnyčią, kuriai priklausė stačiatikiai, arba Vakarų Baž­
+    nyčią, kurią sudarė katalikai.
     Mindaugo krikštas ir kitų didžiųjų Lietuvos kunigaikščių,
     kaip Gedimino, Algirdo ir Kęstučio mėginimai įvesti Lietuvoje
     katalikų tikėjimą, rodė, kad Lietuva linksta i Vakarus, į Ro­
@@ -903,15 +822,52 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/vietos/Vilnius]]
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/grupes/Auksinė Orda]]
+- [[objektai/vietos/Baltarusija]]
+- [[objektai/vietos/Baltoji Rusia]]
+- [[objektai/vietos/Dancigas]]
 - [[objektai/grupes/Domininkonų ordinas]]
+- [[objektai/vietos/Druckas]]
+- [[objektai/vietos/Europa]]
+- [[objektai/vietos/Gardinas]]
+- [[objektai/grupes/Hanza]]
+- [[objektai/daiktai/Kardas]]
+- [[objektai/daiktai/Karūna]]
+- [[objektai/vietos/Kaunas]]
+- [[objektai/vietos/Kijevas]]
+- [[objektai/vietos/Kijevo Rusia]]
+- [[objektai/grupes/Krikščionys]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/vietos/Krėva]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Liublinas]]
-- [[objektai/asmenys/Mindaugas]]
-- [[objektai/ivykiai/Mindaugo krikštas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/ivykiai/Mindaugo krikštas|Mindaugo krikštas (krikštas)]]
+- [[objektai/vietos/Minskas]]
+- [[objektai/grupes/Mongolai]]
+- [[objektai/grupes/Mongolų imperija]]
+- [[objektai/vietos/Naugardukas]]
+- [[objektai/vietos/Pamaris]]
+- [[objektai/vietos/Polockas]]
 - [[objektai/grupes/Pranciškonų ordinas]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/vietos/Ryga]]
+- [[objektai/grupes/Rygiečiai]]
+- [[objektai/grupes/Slavai]]
+- [[objektai/grupes/Stačiatikiai]]
+- [[objektai/posakiai/Tegul krikščionys (lotyniškieji) Dievą garbina pagal savo apeigas, tegul rusai (rutheni) jam tarnauja pagal savo paprotį, lenkai taip pat sa]]
+- [[objektai/vietos/Trakai]]
 - [[objektai/vietos/Viena]]
-- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/vietos/Vitebskas]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/vietos/Voluinė]]
+- [[objektai/zodynas/didvalstybė]]
+- [[objektai/zodynas/kondominiumas]]
+- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/zodynas/pagonybė]]
 - [[objektai/zodynas/unija]]
+- [[objektai/posakiai/„ir mes turime vieną Dievą…“]]
 - [[objektai/asmenys/Aldona Gediminaitė]]
 - [[objektai/zodynas/Arkivyskupija]]
 - [[objektai/vietos/Aukaimis]]
@@ -921,14 +877,13 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
 - [[objektai/vietos/Bajerburgas]]
 - [[objektai/vietos/Bakota]]
 - [[objektai/paprociai/Baltijos kelias kaip gyvos žmonių grandinės komemoracinė protesto forma]]
-- [[objektai/vietos/Baltoji Rusia]]
 - [[objektai/vietos/Berlynas]]
 - [[objektai/vietos/Birutės kalnas]]
 - [[objektai/asmenys/Boleslovas Jurgis Traidenaitis]]
 - [[objektai/vietos/Brandenburgas]]
 - [[objektai/vietos/Brandenburgo žemė]]
 - [[objektai/vietos/Breslauja]]
-- [[objektai/paprociai/Ceremoninis valdovo sutikimas ir miesto vartų atvėrimas]]
+- [[objektai/paprociai/Ceremoninis valdovo sutikimas ir miesto vartų atvėrimas|Ceremoninis valdovo sutikimas ir miesto vartų atvėrimas (miestas)]]
 - [[objektai/vietos/Cerkasai]]
 - [[objektai/vietos/Clevelandas]]
 - [[objektai/asmenys/Dimitras (Tverės kunigaikštis)]]
@@ -938,18 +893,17 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
 - [[objektai/daiktai/Gediminaičių stulpai]]
 - [[objektai/grupes/Gediminaičių šeima]]
 - [[objektai/vietos/Gedimino bokštas]]
-- [[objektai/ivykiai/Gedimino krikšto akcija]]
+- [[objektai/ivykiai/Gedimino krikšto akcija|Gedimino krikšto akcija (krikštas)]]
 - [[objektai/paprociai/Gedimino kvietimas Vakarų pirkliams, amatininkams ir kolonistams į Lietuvą]]
 - [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]
-- [[objektai/vietos/Gedimino pilies kalnas]]
-- [[objektai/vietos/Gedimino pilis]]
+- [[objektai/vietos/Gedimino pilies kalnas|Gedimino pilies kalnas (pilis)]]
+- [[objektai/vietos/Gedimino pilis|Gedimino pilis (pilis)]]
 - [[objektai/ivykiai/Gedimino prekybinė sutartis su Livonija (1338 m.)]]
 - [[objektai/ivykiai/Gedimino sostinės perkėlimas į Vilnių (iki 1322 m.)]]
 - [[objektai/ivykiai/Gedimino taikos sutartis su Livonija (1322 m.)]]
 - [[objektai/posakiai/Gedimino « Geležinio vilko » sapnas]]
 - [[objektai/vietos/Gegužkalnis]]
 - [[objektai/vietos/Haličas-Voluinė]]
-- [[objektai/grupes/Hanza]]
 - [[objektai/daiktai/Herbai]]
 - [[objektai/vietos/Hermano bokštas]]
 - [[objektai/vietos/Irpenė]]
@@ -967,27 +921,24 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
 - [[objektai/grupes/Kijevo kunigaikštystė]]
 - [[objektai/ivykiai/Klaipėdos pilies perdavimas Prūsijos kryžiuočiams (1328 m.)]]
 - [[objektai/ivykiai/Klaipėdos puolimas ir Gedimino būrių Sembos teriojimas (1323 m.)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/daiktai/Kryžius ant kardo galo]]
-- [[objektai/vietos/Krėvos pilis]]
+- [[objektai/vietos/Krėvos pilis|Krėvos pilis (pilis)]]
 - [[objektai/vietos/Kvėdarna]]
 - [[objektai/posakiai/Kęstutis buvo vyras karingas ir tiesiakalbis]]
 - [[objektai/ivykiai/LPS iniciatyvinių grupių įsteigimas Kaune ir Klaipėdoje ir pirmieji mitingai (1988 m. birželis–liepa)]]
-- [[objektai/grupes/Lenkai]]
 - [[objektai/paprociai/Lietuvių kariavimo būdas ir pilių įgulos]]
 - [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
 - [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]
 - [[objektai/posakiai/Lietuvos ir daugelio rusų karalium]]
-- [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto]]
-- [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos]]
+- [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto|Lietuvos kunigaikščių derybos dėl krikšto (krikštas)]]
+- [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos|Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (krikštas)]]
 - [[objektai/asmenys/Liutaveras (Pukaveras)]]
 - [[objektai/asmenys/Lokietka]]
 - [[objektai/asmenys/Marija (Gedimino duktė)]]
 - [[objektai/asmenys/Marija (Haličo-Volinijos giminės)]]
 - [[objektai/vietos/Marijenburgas]]
-- [[objektai/vietos/Medininkų pilis]]
+- [[objektai/vietos/Medininkų pilis|Medininkų pilis (pilis)]]
 - [[objektai/vietos/Medvėgalis]]
-- [[objektai/grupes/Mongolų imperija]]
 - [[objektai/vietos/Mozūrijos žemė]]
 - [[objektai/daiktai/Mūro pilys]]
 - [[objektai/vietos/Narva]]
@@ -996,31 +947,27 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
 - [[objektai/vietos/Palenkė]]
 - [[objektai/asmenys/Patrikas]]
 - [[objektai/vietos/Podolija]]
-- [[objektai/vietos/Polockas]]
 - [[objektai/daiktai/Pranciškonų kankinių palaidojimo vietos koplyčia]]
 - [[objektai/vietos/Płockas]]
 - [[objektai/vietos/Rezeknės regionas]]
 - [[objektai/ivykiai/Rusios žemių prijungimai prie Lietuvos]]
-- [[objektai/grupes/Rygiečiai]]
 - [[objektai/ivykiai/Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.)]]
-- [[objektai/grupes/Rygos miesto taryba]]
+- [[objektai/grupes/Rygos miesto taryba|Rygos miesto taryba (institucija)]]
 - [[objektai/vietos/Smotryč]]
 - [[objektai/vietos/Strėva]]
 - [[objektai/daiktai/Sąjūdžio ženklas su Gedimino stulpais]]
 - [[objektai/vietos/Taurakalnis (Pilies kalnas)]]
-- [[objektai/posakiai/Tegul krikščionys (lotyniškieji) Dievą garbina pagal savo apeigas, tegul rusai (rutheni) jam tarnauja pagal savo paprotį, lenkai taip pat sa]]
 - [[objektai/asmenys/Teodoras (Gedimino brolis)]]
 - [[objektai/asmenys/Traidenis I]]
-- [[objektai/vietos/Trakai]]
 - [[objektai/asmenys/Uzbeko]]
 - [[objektai/vietos/Vakarų Ukraina]]
 - [[objektai/asmenys/Vikintas]]
 - [[objektai/vietos/Vilnelė]]
-- [[objektai/vietos/Vitebskas]]
 - [[objektai/vietos/Vladimiras (prie Kliazmos)]]
 - [[objektai/asmenys/Vladislovas Lokietka]]
 - [[objektai/asmenys/Vladislovas Łokietka]]
 - [[objektai/posakiai/Vyresniuosius jis laikąs tėvais, lygius — broliais, o jaunesniuosius — savo vaikais]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/ivykiai/Vytauto Didžiojo jubiliejiniai metai (1930 m.)]]
 - [[objektai/ivykiai/Vytauto skundas Ordinui imperijos kunigaikščiams (1401 m.)]]
 - [[objektai/asmenys/Vytenis]]
@@ -1035,10 +982,10 @@ Gediminas vaizduojamas kaip diplomatiškai ir kariškai veikęs Lietuvos valdova
 - [[objektai/zodynas/pilėnai nuolatiniai karo tarnybininkai]]
 - [[objektai/daiktai/Šarvuotasis traukinys Gediminas]]
 - [[objektai/posakiai/„Tegul krikščionys (lotyniškieji) Dievą garbina pagal savo apeigas, tegul rusai (rutheni) jam tarnauja pagal savo paprotį, lenkai taip pat s]]
-- [[objektai/posakiai/„ir mes turime vieną Dievą…“]]
+- [[objektai/grupes/Rusėnai]]
+- [[objektai/vietos/Ukraina]]
 - [[objektai/grupes/Gedimino būrys]]
 - [[objektai/vietos/Gedimino kalnas]]
 - [[objektai/paprociai/LDK rusų žemių duoklės mokėjimas Aukso ordai]]
 - [[objektai/posakiai/Lietuva, sako Gediminas, nekariaujanti su krikščionybe ji teginanti savo laisvę|Lietuva, sako Gediminas, nekariaujanti su krikščionybe: ji teginanti savo laisvę]]
 - [[objektai/posakiai/`Rex Lethowye`]]
-- [[objektai/zodynas/kondominiumas]]

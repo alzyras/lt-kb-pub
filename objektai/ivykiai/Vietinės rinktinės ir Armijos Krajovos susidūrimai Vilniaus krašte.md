@@ -1,9 +1,11 @@
 ---
 tipas: ivykis
-pavadinimas: 'Vietinės rinktinės ir Armijos Krajovos susidūrimai Vilniaus krašte'
+pavadinimas: 'Vietinės rinktinės ir Armijos Krajovos susidūrimai Vilniaus krašte (kraštas)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Vietinės rinktinės ir Armijos Krajovos susidūrimai Vilniaus krašte'
+aliases:
+  - 'Vietinės rinktinės ir Armijos Krajovos susidūrimai Vilniaus krašte'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
@@ -12,7 +14,7 @@ tags:
   - ivykis
   - kraštas
 ---
-# Vietinės rinktinės ir Armijos Krajovos susidūrimai Vilniaus krašte
+# Vietinės rinktinės ir Armijos Krajovos susidūrimai Vilniaus krašte (kraštas)
 
 ## Santrauka
 

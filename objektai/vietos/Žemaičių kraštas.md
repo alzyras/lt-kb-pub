@@ -1,17 +1,18 @@
 ---
 tipas: "vieta"
-pavadinimas: "Žemaičių kraštas"
+pavadinimas: 'Žemaičių kraštas (kraštas)'
 sukurta: "2026-04-30"
 variantai:
-  - "Žemaičių kraštas"
-  - "Žemaičių pajūris"
-  - "Sambija"
-  - "Samland"
-  - "Samländer"
-  - "Ritland"
-  - "Austurland"
-  - "Oestland"
-aliases: []
+  - 'Žemaičių kraštas'
+  - 'Žemaičių pajūris'
+  - 'Sambija'
+  - 'Samland'
+  - 'Samländer'
+  - 'Ritland'
+  - 'Austurland'
+  - 'Oestland'
+aliases:
+  - 'Žemaičių kraštas'
 saltiniai:
   - "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean"
 bukle: "juodrastis"
@@ -28,7 +29,7 @@ susije_irasai: []
 patikimumas: "aukstas"
 tags: []
 ---
-# Žemaičių kraštas
+# Žemaičių kraštas (kraštas)
 
 ## Santrauka
 Žemaičių kraštas ir jo pajūris buvo vadinami Sambija ir Samland. Žemaičių kraštui buvo taikomi ir Ritland, Austurland bei Oestland vardai.

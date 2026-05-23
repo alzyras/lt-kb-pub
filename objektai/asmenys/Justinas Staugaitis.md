@@ -43,4 +43,4 @@ Smetona ir du vicepirmininkai Justinas Staugaitis ir S.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Lietuvos Taryba]]
+- [[objektai/grupes/Lietuvos Taryba|Lietuvos Taryba (institucija)]]

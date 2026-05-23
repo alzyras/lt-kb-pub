@@ -150,3 +150,4 @@ Nenurodyta
 - [[objektai/asmenys/Aleksandras (Moldavijos valdovas)]]
 - [[objektai/asmenys/Jonas Paleologas]]
 - [[objektai/asmenys/Manuelis]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

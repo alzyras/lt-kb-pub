@@ -1,11 +1,13 @@
 ---
 tipas: ivykis
-pavadinimas: 'Žemaičių sukilimas 1409 m'
+pavadinimas: 'Žemaičių sukilimas 1409 m (sukilimas)'
 sukurta: '2026-04-25'
 variantai:
   - 'Žemaičių sukilimai'
   - 'sukilimas Žemaičiuose'
-aliases: []
+  - 'Žemaičių sukilimas 1409 m'
+aliases:
+  - 'Žemaičių sukilimas 1409 m'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
@@ -16,7 +18,7 @@ tags:
   - valdovas
   - sukilimas
 ---
-# Žemaičių sukilimas 1409 m
+# Žemaičių sukilimas 1409 m (sukilimas)
 
 ## Santrauka
 

@@ -1,9 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'Aukščiausioji Taryba'
+pavadinimas: 'Aukščiausioji Taryba (institucija)'
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'Aukščiausioji Taryba'
+aliases:
+  - 'Aukščiausioji Taryba'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
@@ -22,7 +24,7 @@ tags:
   - tauta
   - valstybė
 ---
-# Aukščiausioji Taryba
+# Aukščiausioji Taryba (institucija)
 
 ## Santrauka
 
@@ -100,7 +102,7 @@ Sausio 12 d. Aukščiausioji Taryba - Atkuriamasis Seimas, vadovaujamas pirminin
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/vietos/Aukščiausiosios Tarybos rūmai]]
+- [[objektai/vietos/Aukščiausiosios Tarybos rūmai|Aukščiausiosios Tarybos rūmai (institucija)]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Pskovas]]
 - [[objektai/vietos/SSRS]]
@@ -109,4 +111,4 @@ Sausio 12 d. Aukščiausioji Taryba - Atkuriamasis Seimas, vadovaujamas pirminin
 - [[objektai/zodynas/tautos atstovai]]
 - [[objektai/zodynas/vora]]
 - [[objektai/daiktai/Šarvuočiai]]
-- [[objektai/grupes/Aukščiausioji Taryba-Atkuriamasis Seimas]]
+- [[objektai/grupes/Aukščiausioji Taryba-Atkuriamasis Seimas|Aukščiausioji Taryba-Atkuriamasis Seimas (seimas)]]

@@ -1,9 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Kauno miesto sodas'
+pavadinimas: 'Kauno miesto sodas (miestas)'
 sukurta: '2026-05-18'
-variantai: []
-aliases: []
+variantai:
+  - 'Kauno miesto sodas'
+aliases:
+  - 'Kauno miesto sodas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
@@ -20,7 +22,7 @@ tags:
   - miestas
   - vieta
 ---
-# Kauno miesto sodas
+# Kauno miesto sodas (miestas)
 
 ## Santrauka
 

@@ -62,8 +62,6 @@ Smetona stengėsi laikytis „vidurainės [A.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/A. Smetona|A. Smetona (prezidentas, XX a.)]]
-- [[objektai/asmenys/A. Voldemaras]]
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Maskva]]

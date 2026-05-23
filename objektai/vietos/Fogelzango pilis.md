@@ -1,9 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Fogelzango pilis'
+pavadinimas: 'Fogelzango pilis (pilis)'
 sukurta: '2026-04-25'
-variantai: []
-aliases: []
+variantai:
+  - 'Fogelzango pilis'
+aliases:
+  - 'Fogelzango pilis'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
@@ -11,7 +13,7 @@ tags:
   - pilis
   - vieta
 ---
-# Fogelzango pilis
+# Fogelzango pilis (pilis)
 
 ## Santrauka
 

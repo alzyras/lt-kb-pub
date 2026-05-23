@@ -67,4 +67,4 @@ Nenurodyta
 - [[objektai/vietos/Poznanė]]
 - [[objektai/zodynas/vaivada]]
 - [[objektai/grupes/Švedai]]
-- [[objektai/zodynas/elekcinis seimas]]
+- [[objektai/zodynas/elekcinis seimas|elekcinis seimas (seimas)]]

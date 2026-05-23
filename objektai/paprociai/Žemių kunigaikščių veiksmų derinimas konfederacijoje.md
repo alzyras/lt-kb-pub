@@ -2,8 +2,12 @@
 tipas: paprotys
 pavadinimas: "Žemių kunigaikščių veiksmų derinimas konfederacijoje"
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Kandidatas 13 Žemių kunigaikščių veiksmų derinimas konfederacijoje'
+  - 'Kandidatas Žemių kunigaikščių veiksmų derinimas konfederacijoje'
+aliases:
+  - 'Kandidatas 13 Žemių kunigaikščių veiksmų derinimas konfederacijoje'
+  - 'Kandidatas Žemių kunigaikščių veiksmų derinimas konfederacijoje'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'

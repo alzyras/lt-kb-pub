@@ -2,8 +2,12 @@
 tipas: paprotys
 pavadinimas: "Kirilikinių lietuviškų knygų boikotas kaip katalikiška norma"
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Kandidatas 61 Kirilikinių lietuviškų knygų boikotas kaip katalikiška norma'
+  - 'Kandidatas Kirilikinių lietuviškų knygų boikotas kaip katalikiška norma'
+aliases:
+  - 'Kandidatas 61 Kirilikinių lietuviškų knygų boikotas kaip katalikiška norma'
+  - 'Kandidatas Kirilikinių lietuviškų knygų boikotas kaip katalikiška norma'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'

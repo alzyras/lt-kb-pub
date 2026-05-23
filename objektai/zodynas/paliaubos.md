@@ -189,6 +189,7 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
 - [[objektai/asmenys/Andriejus (Vilniaus vyskupas)]]
 - [[objektai/vietos/Belskas]]
 - [[objektai/vietos/Drahočynas]]
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
 - [[objektai/ivykiai/Jogailos ir Vokiečių ordino puolimo sutartis (1382 m. liepos 6 d.)]]
 - [[objektai/vietos/Kamiencas]]
 - [[objektai/vietos/Kamienecas]]

@@ -85,7 +85,7 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
 - [[objektai/grupes/Habsburgai]]
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Lietuva]]
-- [[objektai/ivykiai/Oršos mūšis]]
+- [[objektai/ivykiai/Oršos mūšis (1514 m.)]]
 - [[objektai/vietos/Vengrija]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/vietos/Čekija]]

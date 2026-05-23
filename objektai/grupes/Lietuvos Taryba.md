@@ -1,9 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'Lietuvos Taryba'
+pavadinimas: 'Lietuvos Taryba (institucija)'
 sukurta: '2026-04-25'
-variantai: []
-aliases: []
+variantai:
+  - 'Lietuvos Taryba'
+aliases:
+  - 'Lietuvos Taryba'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
@@ -29,7 +31,7 @@ tags:
   - tauta
   - valstybė
 ---
-# Lietuvos Taryba
+# Lietuvos Taryba (institucija)
 
 ## Santrauka
 
@@ -199,7 +201,6 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/A. Smetona|A. Smetona (prezidentas, XX a.)]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/grupes/Antantė]]
 - [[objektai/asmenys/Justinas Staugaitis]]
@@ -211,6 +212,8 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
 - [[objektai/vietos/Vilnius]]
 - [[objektai/vietos/Vokietija]]
 - [[objektai/zodynas/aneksija]]
+- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
+- [[objektai/asmenys/Augustinas Voldemaras]]
 - [[objektai/asmenys/Matijas Ercbergeris]]
 - [[objektai/asmenys/Vilhelmas fon Urachas]]
 - [[objektai/asmenys/J. Basanavičius]]
@@ -219,6 +222,5 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
 - [[objektai/ivykiai/Lietuvos nepriklausomybės paskelbimas (1918 m. vasario 16 d.)]]
 - [[objektai/posakiai/Skelbia nepriklausomos Lietuvos valstybės atstatymą su sostine Vilnium]]
 - [[objektai/posakiai/„atkuria“ „atkūrimu“ „atstatymu“]]
-- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
 - [[objektai/asmenys/S. Šilingas]]
 - [[objektai/zodynas/tautų apsisprendimo teisė tautų apsisprendimo principas]]

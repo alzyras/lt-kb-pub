@@ -109,4 +109,4 @@ Nenurodyta
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/vietos/Ryga]]
-- [[objektai/daiktai/Pilies raktai]]
+- [[objektai/daiktai/Pilies raktai|Pilies raktai (pilis)]]

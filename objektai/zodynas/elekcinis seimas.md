@@ -1,9 +1,11 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'elekcinis seimas'
+pavadinimas: 'elekcinis seimas (seimas)'
 sukurta: '2026-04-25'
-variantai: []
-aliases: []
+variantai:
+  - 'elekcinis seimas'
+aliases:
+  - 'elekcinis seimas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
@@ -12,7 +14,7 @@ tags:
   - seimas
   - sąvoka
 ---
-# elekcinis seimas
+# elekcinis seimas (seimas)
 
 ## Santrauka
 

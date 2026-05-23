@@ -1,9 +1,11 @@
 ---
 tipas: paprotys
-pavadinimas: 'Lotyniško krikšto privalomumas ir mišrių moterystių draudimas'
+pavadinimas: 'Lotyniško krikšto privalomumas ir mišrių moterystių draudimas (krikštas)'
 sukurta: '2026-04-28'
-variantai: []
-aliases: []
+variantai:
+  - 'Lotyniško krikšto privalomumas ir mišrių moterystių draudimas'
+aliases:
+  - 'Lotyniško krikšto privalomumas ir mišrių moterystių draudimas'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -26,7 +28,7 @@ dalyviai: []
 susije_irasai: []
 tags: []
 ---
-# Lotyniško krikšto privalomumas ir mišrių moterystių draudimas
+# Lotyniško krikšto privalomumas ir mišrių moterystių draudimas (krikštas)
 
 ## Santrauka
 

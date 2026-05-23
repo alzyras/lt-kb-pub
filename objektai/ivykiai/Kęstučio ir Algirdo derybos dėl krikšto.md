@@ -1,9 +1,11 @@
 ---
 tipas: ivykis
-pavadinimas: 'Kęstučio ir Algirdo derybos dėl krikšto'
+pavadinimas: 'Kęstučio ir Algirdo derybos dėl krikšto (krikštas)'
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'Kęstučio ir Algirdo derybos dėl krikšto'
+aliases:
+  - 'Kęstučio ir Algirdo derybos dėl krikšto'
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos: []
@@ -18,7 +20,7 @@ tags:
   - krikštas
   - ordinas
 ---
-# Kęstučio ir Algirdo derybos dėl krikšto
+# Kęstučio ir Algirdo derybos dėl krikšto (krikštas)
 
 ## Santrauka
 

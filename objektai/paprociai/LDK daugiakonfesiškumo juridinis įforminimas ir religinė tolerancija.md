@@ -2,8 +2,12 @@
 tipas: paprotys
 pavadinimas: "LDK daugiakonfesiškumo juridinis įforminimas ir religinė tolerancija"
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Kandidatas 36 LDK daugiakonfesiškumo juridinis įforminimas ir religinė tolerancija'
+  - 'Kandidatas LDK daugiakonfesiškumo juridinis įforminimas ir religinė tolerancija'
+aliases:
+  - 'Kandidatas 36 LDK daugiakonfesiškumo juridinis įforminimas ir religinė tolerancija'
+  - 'Kandidatas LDK daugiakonfesiškumo juridinis įforminimas ir religinė tolerancija'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'

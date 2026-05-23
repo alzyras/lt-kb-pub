@@ -1,9 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'Lietuvių Tautos Taryba'
+pavadinimas: 'Lietuvių Tautos Taryba (institucija)'
 sukurta: '2026-04-25'
-variantai: []
-aliases: []
+variantai:
+  - 'Lietuvių Tautos Taryba'
+aliases:
+  - 'Lietuvių Tautos Taryba'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
@@ -12,7 +14,7 @@ tags:
   - seimas
   - tauta
 ---
-# Lietuvių Tautos Taryba
+# Lietuvių Tautos Taryba (institucija)
 
 ## Santrauka
 
@@ -50,5 +52,5 @@ Rusijoje 1917 metų kovo mėnesį iš visokių srovių buvo sudaryta Lietuvių T
 - [[objektai/vietos/Rusija]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/vietos/Petrapilis]]
-- [[objektai/ivykiai/1917 m. lietuvių seimas Petrapilyje]]
-- [[objektai/grupes/Aukščiausioji Visos Rusijos Lietuvių Tautos Taryba]]
+- [[objektai/ivykiai/1917 m. lietuvių seimas Petrapilyje|1917 m. lietuvių seimas Petrapilyje (seimas, XX a.)]]
+- [[objektai/grupes/Aukščiausioji Visos Rusijos Lietuvių Tautos Taryba|Aukščiausioji Visos Rusijos Lietuvių Tautos Taryba (institucija)]]

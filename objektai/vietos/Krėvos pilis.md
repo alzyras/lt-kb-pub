@@ -1,9 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Krėvos pilis'
+pavadinimas: 'Krėvos pilis (pilis)'
 sukurta: '2026-04-25'
-variantai: []
-aliases: []
+variantai:
+  - 'Krėvos pilis'
+aliases:
+  - 'Krėvos pilis'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
@@ -21,7 +23,7 @@ tags:
   - pilis
   - vieta
 ---
-# Krėvos pilis
+# Krėvos pilis (pilis)
 
 ## Santrauka
 
@@ -126,4 +128,4 @@ Jogaila su savo broliais ją priėmė Krėvos pilyje. Tenai Jogaila patvirtino v
 - [[objektai/vietos/Polockas]]
 - [[objektai/vietos/Pskovas]]
 - [[objektai/vietos/Voluinė]]
-- [[objektai/vietos/Medininkų pilis]]
+- [[objektai/vietos/Medininkų pilis|Medininkų pilis (pilis)]]

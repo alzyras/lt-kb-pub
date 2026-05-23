@@ -82,6 +82,6 @@ Nenurodyta
 - [[objektai/vietos/Karaliaučius]]
 - [[objektai/vietos/Tornas]]
 - [[objektai/grupes/Vokietijos kunigaikščiai]]
-- [[objektai/ivykiai/Žemaičių krikštas]]
+- [[objektai/ivykiai/Žemaičių krikštas|Žemaičių krikštas (krikštas)]]
 - [[objektai/vietos/Elbingas]]
 - [[objektai/vietos/Varmijos vyskupystė]]

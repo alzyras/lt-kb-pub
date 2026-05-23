@@ -90,5 +90,5 @@ Bet teisiškai Lietuva buvo su Lenkija surišta ir buvo visiškoje jos supremaci
 - [[objektai/zodynas/unija]]
 - [[objektai/vietos/Dubysos sala]]
 - [[objektai/ivykiai/Dubysos salos derybos su Ordinu (1396 m.)]]
-- [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija]]
+- [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija|Įkaitų davimas kaip sutarties garantija (sutartis)]]
 - [[objektai/grupes/Lenkai]]

@@ -31,7 +31,7 @@ Objektų skaičius: 22.
 - [[objektai/zodynas/komputas]]
 - [[objektai/zodynas/komtūras]]
 - [[objektai/zodynas/metropolitas]]
-- [[objektai/zodynas/Personalinė unija]]
+- [[objektai/zodynas/Personalinė unija|Personalinė unija (unija)]]
 - [[objektai/zodynas/poliublininis laikotarpis]]
 - [[objektai/zodynas/proistorė]]
 - [[objektai/zodynas/Rusiškosios raidės]]

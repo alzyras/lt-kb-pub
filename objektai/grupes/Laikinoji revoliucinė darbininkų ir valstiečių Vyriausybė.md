@@ -59,6 +59,6 @@ Tada Vinco Mickevičiaus-Kapsuko vadovaujama Laikinoji revoliucinė darbininkų 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/vietos/Lietuva]]
-- [[objektai/grupes/Lietuvos Tarybų socialistinė respublika]]
+- [[objektai/grupes/Lietuvos Tarybų socialistinė respublika|Lietuvos Tarybų socialistinė respublika (institucija)]]
 - [[objektai/zodynas/Suverenitetas]]
 - [[objektai/zodynas/suverenumas]]

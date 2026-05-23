@@ -44,11 +44,11 @@ JAV veikė didžiausia lietuvių išeivijos dalis, svarbiausios ir stipriausios 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Amerikos lietuvių taryba]]
+- [[objektai/grupes/Amerikos lietuvių taryba|Amerikos lietuvių taryba (institucija)]]
 - [[objektai/vietos/Europa]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/vietos/Viena]]
 - [[objektai/vietos/JAV]]
-- [[objektai/grupes/Vyriausiasis Lietuvos išlaisvinimo komitetas]]
+- [[objektai/grupes/Vyriausiasis Lietuvos išlaisvinimo komitetas|Vyriausiasis Lietuvos išlaisvinimo komitetas (institucija)]]

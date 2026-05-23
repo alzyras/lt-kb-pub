@@ -8,7 +8,6 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
   - '1929 m.'
-  - '1935 m.'
   - '1938 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
@@ -164,11 +163,10 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/A. Smetona|A. Smetona (prezidentas, XX a.)]]
 - [[objektai/vietos/Estija]]
 - [[objektai/vietos/Latvija]]
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Užnemunė]]
-- [[objektai/grupes/Valstybės gynimo taryba]]
+- [[objektai/grupes/Valstybės gynimo taryba|Valstybės gynimo taryba (institucija)]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

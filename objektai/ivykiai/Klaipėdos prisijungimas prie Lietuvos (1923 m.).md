@@ -216,7 +216,7 @@ Nenurodyta
 - [[objektai/grupes/Ambasadorių Konferencija]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Lietuvos seimas]]
+- [[objektai/grupes/Lietuvos seimas|Lietuvos seimas (seimas)]]
 - [[objektai/asmenys/Pilsudskis]]
 - [[objektai/vietos/Viena]]
 - [[objektai/vietos/Vilnius]]

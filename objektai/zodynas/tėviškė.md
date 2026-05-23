@@ -59,8 +59,6 @@ Jo priešas — Jogaila: jis jam keršija už Kęstučio mirtį ir tėviškės p
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
 - [[objektai/asmenys/Karijotas]]
 - [[objektai/vietos/Prūsai]]
 - [[objektai/posakiai/Tikslas pateisino priemones|Tikslas pateisino priemones.]]
@@ -68,5 +66,6 @@ Jo priešas — Jogaila: jis jam keršija už Kęstučio mirtį ir tėviškės p
 - [[objektai/vietos/Zietela]]
 - [[objektai/zodynas/Karšinčius|karšinčius]]
 - [[objektai/zodynas/lėnas]]
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

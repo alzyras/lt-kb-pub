@@ -38,7 +38,3 @@ Lenkų įtaka ribota, nes valdžia siekė juos lituanizuoti, laikydama esant nut
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/A. Smetona|A. Smetona (prezidentas, XX a.)]]

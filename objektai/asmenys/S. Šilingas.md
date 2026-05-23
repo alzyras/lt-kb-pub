@@ -43,4 +43,4 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Lietuvos Taryba]]
+- [[objektai/grupes/Lietuvos Taryba|Lietuvos Taryba (institucija)]]

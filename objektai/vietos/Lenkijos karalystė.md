@@ -112,6 +112,6 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
 - [[objektai/grupes/Rusai]]
 - [[objektai/vietos/Rusija]]
 - [[objektai/posakiai/„lenkų suartinimo su rusais“]]
-- [[objektai/paprociai/Carinės „lenkų pradų naikinimo“ rusinimo praktikos]]
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
 - [[objektai/zodynas/lenkų pradų naikinimo politika]]
 - [[objektai/posakiai/„Čia nebus Lenkijos“]]

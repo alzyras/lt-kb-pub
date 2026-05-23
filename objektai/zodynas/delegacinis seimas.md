@@ -1,9 +1,11 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'delegacinis seimas'
+pavadinimas: 'delegacinis seimas (seimas)'
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'delegacinis seimas'
+aliases:
+  - 'delegacinis seimas'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
@@ -23,7 +25,7 @@ tags:
   - sutartis
   - sąvoka
 ---
-# delegacinis seimas
+# delegacinis seimas (seimas)
 
 ## Santrauka
 

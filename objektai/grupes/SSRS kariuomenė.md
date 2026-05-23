@@ -50,7 +50,6 @@ Urbšiui pridėjo, kad nesvarbu, koks bus atsakymas, SSRS kariuomenė vis tiek �
 - [[temos/laiškas]]
 
 ### Susiję objektai
-- [[objektai/asmenys/A. Smetona|A. Smetona (prezidentas, XX a.)]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Rytas]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

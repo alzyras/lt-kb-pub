@@ -49,5 +49,5 @@ tags:
 - [[objektai/grupes/Antano Smetonos lituanistikos institutas]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/A. Smetona|A. Smetona (prezidentas, XX a.)]]
+- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
 - [[objektai/ivykiai/Antano Smetonos lituanistikos instituto įkūrimas (1938 m. lapkričio 1 d.)]]

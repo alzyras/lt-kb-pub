@@ -1,9 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: "Medininkų pilis"
+pavadinimas: 'Medininkų pilis (pilis)'
 sukurta: "2026-04-28"
-variantai: []
-aliases: []
+variantai:
+  - 'Medininkų pilis'
+aliases:
+  - 'Medininkų pilis'
 saltiniai:
   - "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
 datos: []
@@ -21,7 +23,7 @@ susije_irasai: []
 patikimumas: "aukstas"
 tags: []
 ---
-# Medininkų pilis
+# Medininkų pilis (pilis)
 
 ## Santrauka
 Medininkų pilis šiame šaltinyje minima kaip mūrais sustiprinta Vytauto laikais.
@@ -96,7 +98,7 @@ Tai pilis, minima tarp Vytauto laikų mūro statinių ir jų sustiprinimo darbų
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/vietos/Lydos pilis]]
+- [[objektai/vietos/Lydos pilis|Lydos pilis (pilis)]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/vietos/Gardinas]]
@@ -108,4 +110,4 @@ Tai pilis, minima tarp Vytauto laikų mūro statinių ir jų sustiprinimo darbų
 - [[objektai/vietos/Polockas]]
 - [[objektai/vietos/Pskovas]]
 - [[objektai/vietos/Voluinė]]
-- [[objektai/vietos/Krėvos pilis]]
+- [[objektai/vietos/Krėvos pilis|Krėvos pilis (pilis)]]

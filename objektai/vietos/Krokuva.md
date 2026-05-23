@@ -643,8 +643,8 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Karūnacinis seimas]]
-- [[objektai/grupes/Lenkų ponų taryba]]
+- [[objektai/grupes/Karūnacinis seimas|Karūnacinis seimas (seimas)]]
+- [[objektai/grupes/Lenkų ponų taryba|Lenkų ponų taryba (institucija)]]
 - [[objektai/daiktai/Zigmanto II antkapis]]
 - [[objektai/vietos/Dniepras]]
 - [[objektai/vietos/Europa]]
@@ -675,10 +675,10 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - [[objektai/asmenys/Konstantinas (Karijotaitis)]]
 - [[objektai/grupes/Krokuvos profesoriai]]
 - [[objektai/autoriai/Ks. Bauža]]
-- [[objektai/grupes/Lenkijos valstybės taryba]]
+- [[objektai/grupes/Lenkijos valstybės taryba|Lenkijos valstybės taryba (institucija)]]
 - [[objektai/paprociai/Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose]]
-- [[objektai/grupes/Liublino seimas]]
-- [[objektai/ivykiai/Liublino unijos politinis įgyvendinimas Abiejų Tautų Respublikoje]]
+- [[objektai/grupes/Liublino seimas|Liublino seimas (seimas)]]
+- [[objektai/ivykiai/Liublino unijos politinis įgyvendinimas Abiejų Tautų Respublikoje|Liublino unijos politinis įgyvendinimas Abiejų Tautų Respublikoje (unija)]]
 - [[objektai/autoriai/Liuteris]]
 - [[objektai/asmenys/Markvardas (Ragainės komtūras)]]
 - [[objektai/asmenys/Markvardas Zalzbachas]]
@@ -690,7 +690,6 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
 - [[objektai/asmenys/Russdorfas]]
 - [[objektai/vietos/Ryga]]
 - [[objektai/autoriai/S. F. Platonov]]
-- [[objektai/autoriai/Smolka, St]]
 - [[objektai/asmenys/Spytekas iš Melštyno]]
 - [[objektai/asmenys/Spytkas iš Melsztyno]]
 - [[objektai/autoriai/St. Smolka]]

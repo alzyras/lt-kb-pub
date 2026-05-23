@@ -1,9 +1,11 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: 'laisvasis Rygos miestas'
+pavadinimas: 'laisvasis Rygos miestas (miestas)'
 sukurta: '2026-04-25'
-variantai: []
-aliases: []
+variantai:
+  - 'laisvasis Rygos miestas'
+aliases:
+  - 'laisvasis Rygos miestas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
@@ -11,7 +13,7 @@ tags:
   - miestas
   - sąvoka
 ---
-# laisvasis Rygos miestas
+# laisvasis Rygos miestas (miestas)
 
 ## Santrauka
 

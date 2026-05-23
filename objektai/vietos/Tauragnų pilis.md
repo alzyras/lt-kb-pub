@@ -1,9 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Tauragnų pilis'
+pavadinimas: 'Tauragnų pilis (pilis)'
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'Tauragnų pilis'
+aliases:
+  - 'Tauragnų pilis'
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
@@ -22,7 +24,7 @@ tags:
   - pilis
   - vieta
 ---
-# Tauragnų pilis
+# Tauragnų pilis (pilis)
 
 ## Santrauka
 

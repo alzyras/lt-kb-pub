@@ -2,8 +2,12 @@
 tipas: paprotys
 pavadinimas: "Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną"
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Kandidatas 64 Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną'
+  - 'Kandidatas Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną'
+aliases:
+  - 'Kandidatas 64 Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną'
+  - 'Kandidatas Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
@@ -123,7 +127,7 @@ Nenurodyta
   santrauka: 'Maironio lietuviškai rašyta poezija turėjo didelę reikšmę lietuvių tautinės savimonės plėtotei.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Jonas Basanavičius
+    Tautos patriarchas dr. Jonas Basanavičius
 
     L I E T U V O S  I S T O R I J A
     120
@@ -148,7 +152,15 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
+- [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas]]
+- [[objektai/grupes/JAV lietuviai]]
 - [[objektai/grupes/Lenkai]]
+- [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/autoriai/Maironis]]
+- [[objektai/vietos/Nemunas]]
+- [[objektai/vietos/Rusija]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/autoriai/Zauerveinas]]
 - [[objektai/zodynas/kunigas]]
+- [[objektai/paprociai/JAV lietuvių spaudos, draugijų, chorų ir politinių akcijų praktika]]

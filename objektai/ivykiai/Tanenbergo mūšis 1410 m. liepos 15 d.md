@@ -1,6 +1,6 @@
 ---
 tipas: 'ivykis'
-pavadinimas: 'Tanenbergo mūšis 1410 m. liepos 15 d'
+pavadinimas: 'Tanenbergo mūšis 1410 m. liepos 15 d (mūšis, XV a.)'
 sukurta: '2026-04-25'
 variantai:
   - 'Žalgirio mūšis'
@@ -10,8 +10,10 @@ variantai:
   - 'Tannenbergo kautynės'
   - 'Grunwaldo mūšis'
   - 'Griunvaldo mūšis'
+  - 'Tanenbergo mūšis 1410 m. liepos 15 d'
 aliases:
   - '[]'
+  - 'Tanenbergo mūšis 1410 m. liepos 15 d'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
@@ -48,7 +50,7 @@ tags:
   - ordinas
   - pilis
 ---
-# Tanenbergo mūšis 1410 m. liepos 15 d
+# Tanenbergo mūšis 1410 m. liepos 15 d (mūšis, XV a.)
 
 ## Santrauka
 
@@ -172,9 +174,7 @@ Nenurodyta
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/vietos/Štetinas]]
-- [[objektai/autoriai/A. Werminghoef]]
 - [[objektai/autoriai/O. Urbonas]]
-- [[objektai/autoriai/St. Zaskevičius]]
 - [[objektai/autoriai/Urbonas, O]]
 - [[objektai/autoriai/W. Zakrzewski]]
 - [[objektai/autoriai/Werminghoef, A]]

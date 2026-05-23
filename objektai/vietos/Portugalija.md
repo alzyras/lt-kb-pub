@@ -101,7 +101,6 @@ Tik penkių valstybių atstovai (Kolumbijos, Italijos, Paragvajaus, Persijos ir 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/A. Smetona|A. Smetona (prezidentas, XX a.)]]
 - [[objektai/vietos/Europa]]
 - [[objektai/vietos/Ispanija]]
 - [[objektai/vietos/Lietuva]]

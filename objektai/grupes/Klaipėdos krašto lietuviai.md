@@ -1,9 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'Klaipėdos krašto lietuviai'
+pavadinimas: 'Klaipėdos krašto lietuviai (kraštas)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Klaipėdos krašto lietuviai'
+aliases:
+  - 'Klaipėdos krašto lietuviai'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
@@ -12,7 +14,7 @@ tags:
   - kraštas
   - tauta
 ---
-# Klaipėdos krašto lietuviai
+# Klaipėdos krašto lietuviai (kraštas)
 
 ## Santrauka
 

@@ -2,8 +2,12 @@
 tipas: paprotys
 pavadinimas: "Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui"
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Kandidatas 63 Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui'
+  - 'Kandidatas Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui'
+aliases:
+  - 'Kandidatas 63 Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui'
+  - 'Kandidatas Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'

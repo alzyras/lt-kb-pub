@@ -1,9 +1,11 @@
 ---
 tipas: paprotys
-pavadinimas: 'Seimo ceremonialas su rugomis ir karaliaus rankos bučiavimu'
+pavadinimas: 'Seimo ceremonialas su rugomis ir karaliaus rankos bučiavimu (seimas)'
 sukurta: '2026-04-25'
-variantai: []
-aliases: []
+variantai:
+  - 'Seimo ceremonialas su rugomis ir karaliaus rankos bučiavimu'
+aliases:
+  - 'Seimo ceremonialas su rugomis ir karaliaus rankos bučiavimu'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
@@ -12,7 +14,7 @@ tags:
   - paprotys
   - seimas
 ---
-# Seimo ceremonialas su rugomis ir karaliaus rankos bučiavimu
+# Seimo ceremonialas su rugomis ir karaliaus rankos bučiavimu (seimas)
 
 ## Santrauka
 

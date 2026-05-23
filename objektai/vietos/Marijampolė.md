@@ -126,5 +126,5 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
 - [[objektai/asmenys/E. Adamkavičius]]
 - [[objektai/grupes/Marijampolės batalionas]]
 - [[objektai/daiktai/Mauser 98 šautuvas]]
-- [[objektai/posakiai/Šitas Šautuvas yra 5 p. pulko pirmas karo grobis paimtas mūšyje ties Seinais iš lenkų]]
+- [[objektai/posakiai/Šitas Šautuvas yra 5 p. pulko pirmas karo grobis paimtas mūšyje ties Seinais iš lenkų|Šitas Šautuvas yra 5 p. pulko pirmas karo grobis paimtas mūšyje ties Seinais iš lenkų (mūšis)]]
 - [[objektai/grupes/Saulė]]

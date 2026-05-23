@@ -1,9 +1,15 @@
 ---
 tipas: paprotys
-pavadinimas: "Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai"
+pavadinimas: 'Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai (institucija)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai'
+  - 'Kandidatas 1 Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai'
+  - 'Kandidatas Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai'
+aliases:
+  - 'Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai'
+  - 'Kandidatas 1 Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai'
+  - 'Kandidatas Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
@@ -12,7 +18,7 @@ tags:
   - paprotys
   - tauta
 ---
-# Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai
+# Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai (institucija)
 
 ## Santrauka
 

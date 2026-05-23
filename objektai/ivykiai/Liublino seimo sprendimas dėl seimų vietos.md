@@ -1,9 +1,11 @@
 ---
 tipas: ivykis
-pavadinimas: 'Liublino seimo sprendimas dėl seimų vietos'
+pavadinimas: 'Liublino seimo sprendimas dėl seimų vietos (seimas)'
 sukurta: '2026-04-25'
-variantai: []
-aliases: []
+variantai:
+  - 'Liublino seimo sprendimas dėl seimų vietos'
+aliases:
+  - 'Liublino seimo sprendimas dėl seimų vietos'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 patikimumas: 'vidutinis'
@@ -12,7 +14,7 @@ tags:
   - miestas
   - seimas
 ---
-# Liublino seimo sprendimas dėl seimų vietos
+# Liublino seimo sprendimas dėl seimų vietos (seimas)
 
 ## Santrauka
 
@@ -61,5 +63,5 @@ Nenurodyta
 - [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Lietuva]]
 - [[objektai/vietos/Liublinas]]
-- [[objektai/grupes/Liublino seimas]]
+- [[objektai/grupes/Liublino seimas|Liublino seimas (seimas)]]
 - [[objektai/vietos/Varšuva]]

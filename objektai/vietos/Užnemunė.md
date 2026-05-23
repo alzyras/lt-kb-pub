@@ -401,7 +401,7 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
 - [[objektai/paprociai/Privatus lietuviškų mokyklų steigimas ir lietuviškas mokymas po 1905 m]]
 - [[objektai/grupes/Skalviai]]
 - [[objektai/vietos/Suvalkų gubernija]]
-- [[objektai/vietos/Suvalkų kraštas]]
+- [[objektai/vietos/Suvalkų kraštas|Suvalkų kraštas (kraštas)]]
 - [[objektai/vietos/Tamova]]
 - [[objektai/vietos/Uturiai]]
 - [[objektai/vietos/Veiveriai]]

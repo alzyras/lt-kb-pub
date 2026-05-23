@@ -2,8 +2,12 @@
 tipas: paprotys
 pavadinimas: "Sukilėlių partizaninio karo nedidelių antpuolių taktika"
 sukurta: '2026-05-18'
-variantai: []
-aliases: []
+variantai:
+  - 'Kandidatas 52 Sukilėlių partizaninio karo nedidelių antpuolių taktika'
+  - 'Kandidatas Sukilėlių partizaninio karo nedidelių antpuolių taktika'
+aliases:
+  - 'Kandidatas 52 Sukilėlių partizaninio karo nedidelių antpuolių taktika'
+  - 'Kandidatas Sukilėlių partizaninio karo nedidelių antpuolių taktika'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos: []

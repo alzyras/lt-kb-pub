@@ -2,8 +2,12 @@
 tipas: paprotys
 pavadinimas: "Švč. Mergelės Marijos garbinimo tradicija Vytauto bažnytinėje politikoje"
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Kandidatas 24 Švč. Mergelės Marijos garbinimo tradicija Vytauto bažnytinėje politikoje'
+  - 'Kandidatas Švč. Mergelės Marijos garbinimo tradicija Vytauto bažnytinėje politikoje'
+aliases:
+  - 'Kandidatas 24 Švč. Mergelės Marijos garbinimo tradicija Vytauto bažnytinėje politikoje'
+  - 'Kandidatas Švč. Mergelės Marijos garbinimo tradicija Vytauto bažnytinėje politikoje'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'

@@ -81,3 +81,4 @@ Nenurodyta
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/NATO]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/grupes/Šiaurės Atlanto sutarties organizacija (NATO)]]

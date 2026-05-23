@@ -1,9 +1,11 @@
 ---
 tipas: ivykis
-pavadinimas: 'Liublino unijos politinis įgyvendinimas Abiejų Tautų Respublikoje'
+pavadinimas: 'Liublino unijos politinis įgyvendinimas Abiejų Tautų Respublikoje (unija)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Liublino unijos politinis įgyvendinimas Abiejų Tautų Respublikoje'
+aliases:
+  - 'Liublino unijos politinis įgyvendinimas Abiejų Tautų Respublikoje'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
@@ -13,7 +15,7 @@ tags:
   - tauta
   - valdovas
 ---
-# Liublino unijos politinis įgyvendinimas Abiejų Tautų Respublikoje
+# Liublino unijos politinis įgyvendinimas Abiejų Tautų Respublikoje (unija)
 
 ## Santrauka
 

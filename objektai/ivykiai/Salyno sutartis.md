@@ -1,13 +1,15 @@
 ---
 tipas: ivykis
-pavadinimas: 'Salyno sutartis'
+pavadinimas: 'Salyno sutartis (sutartis)'
 sukurta: '2026-04-25'
 variantai:
   - 'Salyno suvažiavimas'
   - 'Salyno taika'
   - 'Salyno suvažiavimas ir jo reikšmė'
   - 'Sallinwerder'
-aliases: []
+  - 'Salyno sutartis'
+aliases:
+  - 'Salyno sutartis'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
@@ -25,7 +27,7 @@ date_end: '1398'
 tags:
   - sutartis
 ---
-# Salyno sutartis
+# Salyno sutartis (sutartis)
 
 ## Santrauka
 

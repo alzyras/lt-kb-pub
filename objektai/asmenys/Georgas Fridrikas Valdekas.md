@@ -6,17 +6,13 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos:
-  - '1000 m.'
-  - '2000 m.'
-periodas: 'viduramžiai'
-periodo_grupes:
-  - 'viduramžiai'
+datos: []
+periodas: ''
+periodo_grupes: []
 amziai:
-  - 'X'
-  - 'XX'
-date_start: '1000'
-date_end: '2000'
+  - 'V'
+date_start: ''
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - asmuo

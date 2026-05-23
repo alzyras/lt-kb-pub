@@ -1,35 +1,38 @@
 ---
 tipas: zodyno_irasas
-pavadinimas: pilies ir rūmų pareigybės
+pavadinimas: 'pilies ir rūmų pareigybės (pilis)'
 sukurta: 2026-04-30
 variantai:
-- raktininkas
-- parakčia
-- angininkas
-- karūžasis
-- šimtininkas
-- dešimtininkas
-- tekūnas
-- vizius
-- vaišintojas
-- riekėjas
-- ragintojas
-- medinčius
-- žirgūnas
-- lobenas
-- žyminas
-- paišoriai
-- antveizas
-- pristovas
-- rūmininku
-- vyno pilstytoju
+  - 'raktininkas'
+  - 'parakčia'
+  - 'angininkas'
+  - 'karūžasis'
+  - 'šimtininkas'
+  - 'dešimtininkas'
+  - 'tekūnas'
+  - 'vizius'
+  - 'vaišintojas'
+  - 'riekėjas'
+  - 'ragintojas'
+  - 'medinčius'
+  - 'žirgūnas'
+  - 'lobenas'
+  - 'žyminas'
+  - 'paišoriai'
+  - 'antveizas'
+  - 'pristovas'
+  - 'rūmininku'
+  - 'vyno pilstytoju'
+  - 'pilies ir rūmų pareigybės'
 saltiniai:
 - Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
 - Vytautas Didysis 1350-1430 (1930 m.)
 patikimumas: aukštas
+aliases:
+  - 'pilies ir rūmų pareigybės'
 tags: []
 ---
-# pilies ir rūmų pareigybės
+# pilies ir rūmų pareigybės (pilis)
 
 ## Santrauka
 

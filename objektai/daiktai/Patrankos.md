@@ -243,7 +243,7 @@ Nenurodyta
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/vietos/Žalgiris]]
 - [[objektai/daiktai/1916 m. modelio 77 mm vokiška patranka]]
-- [[objektai/vietos/Gedimino pilies kalnas]]
+- [[objektai/vietos/Gedimino pilies kalnas|Gedimino pilies kalnas (pilis)]]
 - [[objektai/asmenys/M. Dejevas]]
 - [[objektai/daiktai/Patranka Hidra]]
 - [[objektai/vietos/Paupys]]

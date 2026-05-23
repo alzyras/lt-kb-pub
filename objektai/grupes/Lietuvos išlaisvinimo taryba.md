@@ -1,9 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'Lietuvos išlaisvinimo taryba'
+pavadinimas: 'Lietuvos išlaisvinimo taryba (institucija)'
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'Lietuvos išlaisvinimo taryba'
+aliases:
+  - 'Lietuvos išlaisvinimo taryba'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos: []
@@ -16,7 +18,7 @@ patikimumas: 'vidutinis'
 tags:
   - grupe
 ---
-# Lietuvos išlaisvinimo taryba
+# Lietuvos išlaisvinimo taryba (institucija)
 
 ## Santrauka
 

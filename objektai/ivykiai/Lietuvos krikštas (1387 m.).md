@@ -1,9 +1,11 @@
 ---
 tipas: ivykis
-pavadinimas: 'Lietuvos krikštas (1387 m.)'
+pavadinimas: "Lietuvos krikštas (1387 m.)"
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Lietuvos krikštas'
+aliases:
+  - 'Lietuvos krikštas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
@@ -61,16 +63,30 @@ Nenurodyta
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: 'Ryškiausios permainos po krikšto buvo išorinės.'
+- t-004
+  teiginys: 'Krikšto apeigos pirmiausia buvo atliktos Vilniuje, o paskui Jogaila važinėdamas krikštijo visas kitas žymesnes Lietuvos vietas.'
   pagrindžia:
-    - c-003
+    - c-007
+    - c-006
+- t-006
+  teiginys: 'Gana ilgai, iki pat nepriklausomybės dešimtmečių Lietuvoją ir jos kaimynuose, paprastai buvo laikomasi šių kertinių politiškai Svarbių Lietuvos istorijos datų : 1) 1219-1236 (lietuvių gyvenamų plotų susivienijimas į valstybę), 2) 1385-1387 m. (Kriavo aktas.'
+  pagrindžia:
+    - c-008
+- t-009
+  teiginys: 'Po Lietuvos krikšto pavaldiniui buvo nurodoma, kokį tikėjimą jis turi išpažinti.'
+  pagrindžia:
+    - c-002
+- t-010
+  teiginys: 'Vytautas nuo pat pirmos krikšto dienos aktyviai daly­ vavo krikštijimo darbe, aiškindamas žmonėms tikėjimą, ragin­ damas juos krikštytis.'
+  pagrindžia:
+    - c-011
 
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1387 m. įvyko Lietuvos krikštas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
+    Prasideda Lietuvos ir Lenkijos suartėjimas.
     1387
     Lietuvos krikštas.
     1392–1430
@@ -102,30 +118,97 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Ryškiausios permainos po krikšto buvo išorinės.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+- c-006
+  santrauka: Lietuvos krikštas papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
-    Ryškiausios permainos po krikšto buvo išorinės. Su krikštu Lietuvo-
-    je išplito pagonių visuomenei nežinomos institucijos – bažnyčios. Tai ne
-    tik naujos architektūros paminklai, paveikslų, kitų bažnytinės dailės kūri-
-    nių ir bažnytinių knygų „saugyklos“, bet ir rašto bei švietimo įstaigos. Per
-    šias institucijas į Lietuvą sklido naujos idėjos. Pasikeitė mirties samprata
-    ir laidojimo apeigos. XIV a. pabaigoje labai sumažėjo pagonybei būdingų
-    degintinių palaidojimų. Bažnyčios skleidžiamos vieno Dievo, prigimtinės
-    nuodėmės ir Kristaus atpirkimo idėjos, be abejonės, veikė žmogaus sąmo-
-    nę. Pagonybės išugdytam žmogui nauja turėjo būti ne tik atjautos ir labda-
-    ros, bet ir nuodėmės samprata, ypač tai, kad nusidėti galima ne tik veiks-
-    mais, bet ir mintimis.
+    Per menkos buvo dovanos, kad būtų vertusios veidmai­
+    niauti kad ir pagoniško tikėjimo lietuvį. Lietuviai krikštijosi
+    Vytauto D. ir Jogailos paraginti ir pasiduodami jų įsakymams,
+    nes buvo išleistas raštas, skelbiąs katalikybę Lietuvoje viešpa­
+    taujančiu tikėjimu ir įsakąs visiems jį priimti^1 ). Laisvi liko tik
+    stačiatikiai, kaipo krikščionys.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-010
+- c-007
+  santrauka: Lietuvos krikštas papildomas patvirtintas šaltinio paminėjimas.
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Motiejus,
+    vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš
+    Kauno^1 ).
+    Dar prieš vyskupijos įkūrimą Jogaila iš Vilniaus išvyko į
+    rytų Lietuvą. Čia jis aplankė didesnius Lietuvos miestelius,
+    kaip Ašmeną, Lydą, Krėvę, Eišiškius, Merkinę, Gardiną ir k.,
+    kur buvo sukviečiami vietiniai ir iš apylinkių žmonės ir, pamo­
+    kius juos tikėjimo tiesų, krikštijami.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: "Citata automatiškai pririšta prie exact source offsetų."
+  pagrindžia:
+    - t-010
+- c-008
+  santrauka: 'Gana ilgai, iki pat nepriklausomybės dešimtmečių Lietuvoją ir jos kaimynuose, paprastai buvo laikomasi šių kertinių politiškai Svarbių Lietuvos istorijos datų : 1) 1219-1236 (lietuvių gyvenamų plotų susivienijimas į valstybę), 2) 1385-1387 m. (Kriavo aktas.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Lietuvos istorijos periodizacija ir jos reikšmingieji etapai**
+        Į klausimą, kokiais svarbiausiais etapais reikėtų išskirstyti visą
+    Lietuvos istoriją, nėra dar galutinai nustatytų ribų. Į visą eilę svar­
+    bių Lietuvos praeities klausimų, ypač iš jos valstybinio gyvenimo
+    pirmųjų šimtmečių, pažiūros ir pačiuose lietuviuose nėra nusisto­
+    vėjusios.
+    Gana ilgai, iki pat nepriklausomybės dešimtmečių Lietuvoją
+    ir jos kaimynuose, paprastai buvo laikomasi šių kertinių politiškai
+    Svarbių Lietuvos istorijos datų : 1) 1219-1236 (lietuvių gyvenamų
+    plotų susivienijimas į valstybę), 2) 1385-1387 m. (Kriavo aktas,
+    Lietuvos krikštas), 3) 1569-1572 m. (Liublino unija, Gediminaičių
+    [Jogailaičių ] dinastijos pabaiga), 4) 1795 m. (Lietuvos ir Lenkijos
+    paskutinis padalinimas) ir 5) 1918 m. (nepriklausomybės pradžia).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-003
+    - t-010
+- c-011
+  santrauka: 'Vytautas nuo pat pirmos krikšto dienos aktyviai daly­ vavo krikštijimo darbe, aiškindamas žmonėms tikėjimą, ragin­ damas juos krikštytis.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Vytautas nuo pat pirmos krikšto dienos aktyviai daly­
+    vavo krikštijimo darbe, aiškindamas žmonėms tikėjimą, ragin­
+    damas juos krikštytis. Jo, kaipo Gardino kunigaikščio, ant­
+    spaudos pridėtos privilegijų raštuose; taigi jis prisidėjo ir prie
+    naujos visuomeninės tvarkos įvedimo. Tačiau viso šio darbo
+    vadovu buvo Jogaila, kuris stengėsi Vytautą nustumti į šalį
+    nuo rūpinimosi Lietuva ir krikšto reikalais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/vietos/Europa]]
+- [[objektai/vietos/Gardinas]]
+- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/grupes/Krikščionys]]
+- [[objektai/vietos/Lenkija]]
 - [[objektai/vietos/Lietuva]]
-- [[objektai/zodynas/pagonybė]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/vietos/Vilnius]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/kunigas]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/ivykiai/Lietuvos ir Lenkijos paskutinis padalinimas]]
+- [[objektai/ivykiai/Nepriklausomybės pradžia]]

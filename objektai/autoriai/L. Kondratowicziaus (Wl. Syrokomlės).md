@@ -1,9 +1,11 @@
 ---
 tipas: autorius
-pavadinimas: 'L. Kondratowicziaus (Wl. Syrokomlės)'
+pavadinimas: "L. Kondratowicziaus (Wl. Syrokomlės)"
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'L. Kondratowicziaus'
+aliases:
+  - 'L. Kondratowicziaus'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos: []

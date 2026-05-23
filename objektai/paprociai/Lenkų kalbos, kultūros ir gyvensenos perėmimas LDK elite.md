@@ -2,8 +2,12 @@
 tipas: paprotys
 pavadinimas: "Lenkų kalbos, kultūros ir gyvensenos perėmimas LDK elite"
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Kandidatas 38 Lenkų kalbos, kultūros ir gyvensenos perėmimas LDK elite'
+  - 'Kandidatas Lenkų kalbos, kultūros ir gyvensenos perėmimas LDK elite'
+aliases:
+  - 'Kandidatas 38 Lenkų kalbos, kultūros ir gyvensenos perėmimas LDK elite'
+  - 'Kandidatas Lenkų kalbos, kultūros ir gyvensenos perėmimas LDK elite'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'

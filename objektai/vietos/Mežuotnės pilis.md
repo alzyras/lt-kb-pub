@@ -1,9 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Mežuotnės pilis'
+pavadinimas: 'Mežuotnės pilis (pilis)'
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'Mežuotnės pilis'
+aliases:
+  - 'Mežuotnės pilis'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
@@ -20,7 +22,7 @@ tags:
   - pilis
   - vieta
 ---
-# Mežuotnės pilis
+# Mežuotnės pilis (pilis)
 
 ## Santrauka
 

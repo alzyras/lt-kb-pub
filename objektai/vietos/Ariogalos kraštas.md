@@ -1,9 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Ariogalos kraštas'
+pavadinimas: 'Ariogalos kraštas (kraštas)'
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'Ariogalos kraštas'
+aliases:
+  - 'Ariogalos kraštas'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos: []
@@ -19,7 +21,7 @@ tags:
   - pilis
   - vieta
 ---
-# Ariogalos kraštas
+# Ariogalos kraštas (kraštas)
 
 ## Santrauka
 

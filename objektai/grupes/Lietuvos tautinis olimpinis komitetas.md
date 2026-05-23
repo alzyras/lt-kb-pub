@@ -1,9 +1,11 @@
 ---
 tipas: grupe
-pavadinimas: 'Lietuvos tautinis olimpinis komitetas'
+pavadinimas: 'Lietuvos tautinis olimpinis komitetas (institucija)'
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Lietuvos tautinis olimpinis komitetas'
+aliases:
+  - 'Lietuvos tautinis olimpinis komitetas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
@@ -11,7 +13,7 @@ tags:
   - grupe
   - tauta
 ---
-# Lietuvos tautinis olimpinis komitetas
+# Lietuvos tautinis olimpinis komitetas (institucija)
 
 ## Santrauka
 
@@ -46,7 +48,7 @@ Tarptautinis olimpinis komitetas 1991 m. rugpjūtį atkūrė Lietuvos tautinio o
 ### Susiję objektai
 - [[objektai/vietos/Lietuva]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/grupes/Tarptautinis olimpinis komitetas]]
+- [[objektai/grupes/Tarptautinis olimpinis komitetas|Tarptautinis olimpinis komitetas (institucija)]]
 - [[objektai/paprociai/Lietuvos sportininkų atsisakymas dalyvauti SSRS rinktinėse ir atstovavimas Lietuvai]]
 - [[objektai/ivykiai/Lietuvos tautinio olimpinio komiteto tarptautinių teisių atkūrimas (1991 m. rugpjūtis)]]
 - [[objektai/daiktai/Olimpiniai medaliai]]

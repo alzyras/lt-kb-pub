@@ -1,9 +1,11 @@
 ---
 tipas: daiktas
-pavadinimas: 'Pilies raktai'
+pavadinimas: 'Pilies raktai (pilis)'
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'Pilies raktai'
+aliases:
+  - 'Pilies raktai'
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
@@ -20,7 +22,7 @@ tags:
   - daiktas
   - pilis
 ---
-# Pilies raktai
+# Pilies raktai (pilis)
 
 ## Santrauka
 

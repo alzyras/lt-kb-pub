@@ -65,5 +65,5 @@ Jedlnos nutarimai buvo priešingi ir Horodlės unijos ak­ tams, nes juose pasak
 - [[objektai/vietos/Viena]]
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/unija]]
-- [[objektai/ivykiai/1425 m. Bresto (Kujavijoj) seimas]]
+- [[objektai/ivykiai/1425 m. Bresto (Kujavijoj) seimas|1425 m. Bresto (Kujavijoj) seimas (seimas, XV a.)]]
 - [[objektai/asmenys/Vladislovas (Jogailos sūnus)]]

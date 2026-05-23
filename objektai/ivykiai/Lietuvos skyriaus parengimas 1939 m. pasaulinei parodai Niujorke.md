@@ -62,5 +62,5 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/vietos/Lietuva]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/grupes/Lietuvos Respublikos užsienio reikalų ministerija]]
+- [[objektai/grupes/Lietuvos Respublikos užsienio reikalų ministerija|Lietuvos Respublikos užsienio reikalų ministerija (institucija)]]
 - [[objektai/vietos/Niujorkas]]

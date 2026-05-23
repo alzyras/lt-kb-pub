@@ -132,6 +132,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
 - [[objektai/grupes/Dobrinės ordinas]]
 - [[objektai/ivykiai/Dobrinės ordino įkūrimas]]
 - [[objektai/ivykiai/Kristijono įšventinimas Lietuvos vyskupu ir Lietuvos vyskupijos išskyrimas (1254 m.)]]
+- [[objektai/paprociai/Lietuvių aukštosios kultūros kūrimas ir liaudies švietimas gimtąja kalba]]
 - [[objektai/paprociai/Lietuvos valdovų laidojimas pagoniškais papročiais]]
 - [[objektai/zodynas/interliudas]]
 - [[objektai/grupes/Katalikų Bažnyčia]]

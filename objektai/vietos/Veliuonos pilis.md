@@ -1,9 +1,11 @@
 ---
 tipas: vieta
-pavadinimas: 'Veliuonos pilis'
+pavadinimas: 'Veliuonos pilis (pilis)'
 sukurta: '2026-05-18'
-variantai: []
-aliases: []
+variantai:
+  - 'Veliuonos pilis'
+aliases:
+  - 'Veliuonos pilis'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos: []
@@ -19,7 +21,7 @@ tags:
   - sutartis
   - vieta
 ---
-# Veliuonos pilis
+# Veliuonos pilis (pilis)
 
 ## Santrauka
 

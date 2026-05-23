@@ -2,8 +2,12 @@
 tipas: paprotys
 pavadinimas: "Litvakų rabininės tradicijos gynimas, Talmudo studijos ir savita gyvensena"
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Kandidatas 43 Litvakų rabininės tradicijos gynimas, Talmudo studijos ir savita gyvensena'
+  - 'Kandidatas Litvakų rabininės tradicijos gynimas, Talmudo studijos ir savita gyvensena'
+aliases:
+  - 'Kandidatas 43 Litvakų rabininės tradicijos gynimas, Talmudo studijos ir savita gyvensena'
+  - 'Kandidatas Litvakų rabininės tradicijos gynimas, Talmudo studijos ir savita gyvensena'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'

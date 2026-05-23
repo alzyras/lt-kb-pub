@@ -217,5 +217,5 @@ Nenurodyta
 - [[objektai/grupes/Lietuvių bajorija]]
 - [[objektai/zodynas/nobilitetas]]
 - [[objektai/daiktai/Gediminaičių stulpai]]
-- [[objektai/ivykiai/1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas]]
+- [[objektai/ivykiai/1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas|1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas (unija)]]
 - [[objektai/daiktai/Žygimanto Senojo kalavijas su Lietuvos ir Lenkijos herbais]]

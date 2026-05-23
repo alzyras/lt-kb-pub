@@ -2,8 +2,12 @@
 tipas: paprotys
 pavadinimas: "Sosto paveldėjimo principas Gediminaičių dinastijoje"
 sukurta: '2026-05-14'
-variantai: []
-aliases: []
+variantai:
+  - 'Kandidatas 16 Sosto paveldėjimo principas Gediminaičių dinastijoje'
+  - 'Kandidatas Sosto paveldėjimo principas Gediminaičių dinastijoje'
+aliases:
+  - 'Kandidatas 16 Sosto paveldėjimo principas Gediminaičių dinastijoje'
+  - 'Kandidatas Sosto paveldėjimo principas Gediminaičių dinastijoje'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 patikimumas: 'vidutinis'
