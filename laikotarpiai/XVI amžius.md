@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 199.
+Objektų skaičius: 194.
 
 ## Kaip naudoti
 
@@ -117,11 +117,6 @@ Objektų skaičius: 199.
 - [Bičiulystė ir bitininkystė](../objektai/paprociai/Bi%C4%8Diulyst%C4%97%20ir%20bitininkyst%C4%97)
 - [Husarų vėliavų „draugų“ ir palydos sistema](../objektai/paprociai/Husar%C5%B3%20v%C4%97liav%C5%B3%20%E2%80%9Edraug%C5%B3%E2%80%9C%20ir%20palydos%20sistema)
 - [Imperatoriaus dvaro ceremonialo perėmimas](../objektai/paprociai/Imperatoriaus%20dvaro%20ceremonialo%20per%C4%97mimas)
-- [Kandidatas 31 Itališkos mados perėmimas Lietuvos diduomenėje](../objektai/paprociai/Kandidatas%2031%20Itali%C5%A1kos%20mados%20per%C4%97mimas%20Lietuvos%20diduomen%C4%97je)
-- [Kandidatas 39 Lietuvių kalbos oficialaus kultūros modelio kėlimas ir kasdienis Bažnyčios bei mokyklos vartojimas](../objektai/paprociai/Kandidatas%2039%20Lietuvi%C5%B3%20kalbos%20oficialaus%20kult%C5%ABros%20modelio%20k%C4%97limas%20ir%20kasdienis%20Ba%C5%BEny%C4%8Dios%20bei%20mokyklos%20vartojimas)
-- [Kandidatas Birutės legendos tęstinumas ir Birutės kalno gerbimas](../objektai/paprociai/Kandidatas%20Birut%C4%97s%20legendos%20t%C4%99stinumas%20ir%20Birut%C4%97s%20kalno%20gerbimas)
-- [Kandidatas Itališkos mados perėmimas Lietuvos diduomenėje](../objektai/paprociai/Kandidatas%20Itali%C5%A1kos%20mados%20per%C4%97mimas%20Lietuvos%20diduomen%C4%97je)
-- [Kandidatas Lietuvių kalbos oficialaus kultūros modelio kėlimas ir kasdienis Bažnyčios bei mokyklos vartojimas](../objektai/paprociai/Kandidatas%20Lietuvi%C5%B3%20kalbos%20oficialaus%20kult%C5%ABros%20modelio%20k%C4%97limas%20ir%20kasdienis%20Ba%C5%BEny%C4%8Dios%20bei%20mokyklos%20vartojimas)
 - [Kariuomenės lauko stovyklos įrengimas apsupant vežimais](../objektai/paprociai/Kariuomen%C4%97s%20lauko%20stovyklos%20%C4%AFrengimas%20apsupant%20ve%C5%BEimais)
 - [Lydimoji žemdirbystė](../objektai/paprociai/Lydimoji%20%C5%BEemdirbyst%C4%97)
 - [Trilaukio ūkio sistema](../objektai/paprociai/Trilaukio%20%C5%ABkio%20sistema)

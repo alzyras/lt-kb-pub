@@ -57,8 +57,3 @@ davė labai reikšmingus fenomenus, kurių trumpa formulė būtų tokia – duon
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/paprociai/Kandidatas 5 Abiejų Tautų Respublikos religinės tolerancijos, bajoriškosios demokratijos ir teisinės tradicijos]]
-- [[objektai/paprociai/Kandidatas Abiejų Tautų Respublikos religinės tolerancijos, bajoriškosios demokratijos ir teisinės tradicijos]]

@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 39.
+Objektų skaičius: 38.
 
 ## Kaip naudoti
 
@@ -36,8 +36,7 @@ Objektų skaičius: 39.
 ### Papročiai
 - [[objektai/paprociai/Bajorų valstiečių baudžiavos įtvirtinimas]]
 - [[objektai/paprociai/Jogailos privilegija apsikrikštijusiems bajorams]]
-- [[objektai/paprociai/Kandidatas 36 LDK daugiakonfesiškumo juridinis įforminimas ir religinė tolerancija]]
-- [[objektai/paprociai/Kandidatas LDK daugiakonfesiškumo juridinis įforminimas ir religinė tolerancija]]
+- [[objektai/paprociai/LDK daugiakonfesiškumo juridinis įforminimas ir religinė tolerancija]]
 - [[objektai/paprociai/Lietuvos bajorijos seimai]]
 - [[objektai/paprociai/Naujai krikštytų lietuvių bajorų privilegijavimas]]
 - [[objektai/paprociai/Žemaičių savivalda ir seniūno rinkimasis]]
@@ -56,7 +55,7 @@ Objektų skaičius: 39.
 ### Įvykiai
 - [[objektai/ivykiai/1422 m. Červinsko stovykla ir bajorų privilegijų suteikimas]]
 - [[objektai/ivykiai/Algirdo žygiai į Maskvą]]
-- [Pirmoji Lietuvos Bažnyčiai privilegija](../objektai/ivykiai/Pirmoji%20Lietuvos%20Ba%C5%BEny%C4%8Diai%20privilegija)
+- [[objektai/ivykiai/Pirmoji Lietuvos Bažnyčiai privilegija]]
 - [Pirmoji visam kraštui privilegija](../objektai/ivykiai/Pirmoji%20visam%20kra%C5%A1tui%20privilegija)
 - [Žemaičių kunigaikštystės privilegija](../objektai/ivykiai/%C5%BDemai%C4%8Di%C5%B3%20kunigaik%C5%A1tyst%C4%97s%20privilegija)
 - [Žygimanto Augusto privilegija dėl krikščioniškų konfesijų teisių](../objektai/ivykiai/%C5%BDygimanto%20Augusto%20privilegija%20d%C4%97l%20krik%C5%A1%C4%8Dioni%C5%A1k%C5%B3%20konfesij%C5%B3%20teisi%C5%B3)

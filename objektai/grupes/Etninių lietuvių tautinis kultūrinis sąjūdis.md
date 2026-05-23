@@ -52,3 +52,7 @@ Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės praradimu
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/dvilypis lietuvių-žemaičių etnosas]]

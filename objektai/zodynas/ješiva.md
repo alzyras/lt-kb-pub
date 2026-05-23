@@ -75,3 +75,6 @@ Vartojamas Vilniaus Gaono pasiūlymų ir žydų mokymo reformų kontekste.
 
 ### Laikotarpiai
 - [[laikotarpiai/XVIII amžius]]
+
+### Susiję objektai
+- [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]

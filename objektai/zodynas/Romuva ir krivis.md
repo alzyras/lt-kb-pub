@@ -39,8 +39,3 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/paprociai/Kandidatas 9 Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas]]
-- [[objektai/paprociai/Kandidatas Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas]]

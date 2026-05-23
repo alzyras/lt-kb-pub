@@ -129,6 +129,5 @@ Vartojama atskiriant LDK tradiciją nuo moderniosios Lietuvos Respublikos sampra
 
 ### Susiję objektai
 - [[objektai/vietos/Baltarusija]]
-- [[objektai/paprociai/Kandidatas 3 LDK bajorų lietuviška savivardystė ir raštų kalbos vadinimas lietuvių kalba]]
-- [[objektai/paprociai/Kandidatas LDK bajorų lietuviška savivardystė ir raštų kalbos vadinimas lietuvių kalba]]
+- [[objektai/paprociai/LDK bajorų lietuviška savivardystė ir raštų kalbos vadinimas lietuvių kalba]]
 - [[objektai/grupes/Slavai]]

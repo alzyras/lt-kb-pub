@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 533.
+Objektų skaičius: 530.
 
 ## Kaip naudoti
 
@@ -235,10 +235,7 @@ Objektų skaičius: 533.
 - [Bajorijos stiprinimas valdovo privilegijomis](../objektai/paprociai/Bajorijos%20stiprinimas%20valdovo%20privilegijomis)
 - [Belaisvių apsikeitimas, paliaubos ir riteriškas vaišinimas](../objektai/paprociai/Belaisvi%C5%B3%20apsikeitimas%2C%20paliaubos%20ir%20riteri%C5%A1kas%20vai%C5%A1inimas)
 - [Gedimino informacinė diplomatija ir karo veiksmų derinimas su Lenkija](../objektai/paprociai/Gedimino%20informacin%C4%97%20diplomatija%20ir%20karo%20veiksm%C5%B3%20derinimas%20su%20Lenkija)
-- [Kandidatas 37 LDK bažnytinės unijos bandymai ir graikų katalikų įsitvirtinimas](../objektai/paprociai/Kandidatas%2037%20LDK%20ba%C5%BEnytin%C4%97s%20unijos%20bandymai%20ir%20graik%C5%B3%20katalik%C5%B3%20%C4%AFsitvirtinimas)
-- [Kandidatas LDK bažnytinės unijos bandymai ir graikų katalikų įsitvirtinimas](../objektai/paprociai/Kandidatas%20LDK%20ba%C5%BEnytin%C4%97s%20unijos%20bandymai%20ir%20graik%C5%B3%20katalik%C5%B3%20%C4%AFsitvirtinimas)
 - [Kryžiaus žygių prieš totorius organizavimas](../objektai/paprociai/Kry%C5%BEiaus%20%C5%BEygi%C5%B3%20prie%C5%A1%20totorius%20organizavimas)
-- [Lietuvos krikšto apeigos](../objektai/paprociai/Lietuvos%20krik%C5%A1to%20apeigos)
 - [Lietuvos valdovų laidojimas pagoniškais papročiais](../objektai/paprociai/Lietuvos%20valdov%C5%B3%20laidojimas%20pagoni%C5%A1kais%20papro%C4%8Diais)
 - [Lotyniško krikšto privalomumas ir mišrių moterystių draudimas](../objektai/paprociai/Lotyni%C5%A1ko%20krik%C5%A1to%20privalomumas%20ir%20mi%C5%A1ri%C5%B3%20moterysti%C5%B3%20draudimas)
 - [Sezoniniai ordino žygiai į Lietuvą](../objektai/paprociai/Sezoniniai%20ordino%20%C5%BEygiai%20%C4%AF%20Lietuv%C4%85)

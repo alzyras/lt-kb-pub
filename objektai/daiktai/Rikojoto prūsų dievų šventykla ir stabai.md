@@ -79,7 +79,3 @@ Nenurodyta
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/papuošalas]]
-
-### Susiję objektai
-- [[objektai/paprociai/Kandidatas 8 Prūsų dievų kultas Rikojote ir kulto tarnų hierarchija]]
-- [[objektai/paprociai/Kandidatas Prūsų dievų kultas Rikojote ir kulto tarnų hierarchija]]

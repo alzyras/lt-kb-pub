@@ -93,3 +93,4 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
 - [[objektai/zodynas/Lite litvakai]]
 - [[objektai/zodynas/litvakas litviš]]
 - [[objektai/grupes/Žydai]]
+- [[objektai/paprociai/Istorinės Lietuvos žydų savivardystė „Lite“ ir „litvakai“]]

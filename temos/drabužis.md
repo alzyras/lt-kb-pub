@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 10.
+Objektų skaičius: 9.
 
 ## Kaip naudoti
 
@@ -30,8 +30,7 @@ Objektų skaičius: 10.
 - [[objektai/grupes/Lietuvos diplomatinė tarnyba]]
 
 ### Papročiai
-- [[objektai/paprociai/Kandidatas 42 Barokinis šventasis peizažas, kryždirbystė ir Vilniaus baroko mokyklos sakralinė estetika]]
-- [[objektai/paprociai/Kandidatas Barokinis šventasis peizažas, kryždirbystė ir Vilniaus baroko mokyklos sakralinė estetika]]
+- [[objektai/paprociai/Barokinis šventasis peizažas, kryždirbystė ir Vilniaus baroko mokyklos sakralinė estetika]]
 
 ### Vietos
 - [[objektai/vietos/Šeinfeldas]]

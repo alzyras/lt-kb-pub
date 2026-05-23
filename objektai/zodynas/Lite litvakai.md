@@ -61,8 +61,3 @@ Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį �
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/paprociai/Kandidatas 4 Istorinės Lietuvos žydų savivardystė „Lite“ ir „litvakai“]]
-- [[objektai/paprociai/Kandidatas Istorinės Lietuvos žydų savivardystė „Lite“ ir „litvakai“]]

@@ -92,3 +92,6 @@ Nenurodyta
 ## Ryšiai
 ### Laikotarpiai
 - [[laikotarpiai/XIII amžius]]
+
+### Susiję objektai
+- [[objektai/paprociai/Reguliarūs lietuvių plėšiamieji žygiai į Rusios, Lenkijos ir Livonijos žemes]]

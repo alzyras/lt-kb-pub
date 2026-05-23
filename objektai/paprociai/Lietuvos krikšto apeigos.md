@@ -1,6 +1,5 @@
----
 tipas: paprotys
-pavadinimas: 'Lietuvos krikšto apeigos'
+pavadinimas: "Lietuvos krikšto apeigos"
 sukurta: '2026-04-25'
 variantai: []
 aliases: []
@@ -24,9 +23,8 @@ date_start: '1387'
 date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
-  - ritualas
----
-# Lietuvos krikšto apeigos
+  - 'ritualas'
+  - 'religinė-praktika'# Lietuvos krikšto apeigos
 
 ## Santrauka
 
@@ -48,55 +46,12 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
-- t-008
-  teiginys: 'Jogailos įsakymu buvo naikinami pagoniški aukų židiniai, šventi medžiai, giraitės ir namuose gerbiami žalčiai.'
-  pagrindžia:
-    - c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  statusas: patvirtinta
-- t-009
-  teiginys: 'Jogaila besi­ krikštijantiems duodavo dar baltų vilnonių rūbų, bet ne tik kaipo dovaną, o ir tam, kad būtų išpildytas liturgikos reikalavimas — prie krikšto turėti baltą rūbą, nekaltybės simbolį.'
-  pagrindžia:
-    - c-002
 - t-010
   teiginys: 'Taip pat tuojau buvo pradėtos statyti bažnyčios ir provincijoje: Uk­ mergėje, Maišiogaloje, Medininkuose (Viln.), Nemenčine, o kiek vėliau ir kitose rytinės Lietuvos vietose.'
   pagrindžia:
     - c-003
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Jogailos įsakymu buvo naikinami pagoniški aukų židiniai, šventi medžiai, giraitės ir namuose gerbiami žalčiai.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Paties Jogailos įsakymu Vilniaus pilies papėdėje esančioje
-    alkvietėje ir kitur aplink buvo sunaikinti aukų židiniai. Buvo
-    liepta iškirsti šventais laikomus medžius ir giraites, išmušti namuose
-    gerbiamus žalčius. Nesant užtenkamai kunigų, mokančių lietuviš­
-    kai, esą pats Jogaila išvertęs lietuvių kalbon «Tėve mūsų» ir
-    « Tikiu į Dievą Tėvą ».
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-008
-- c-002
-  santrauka: 'Jogaila besi­ krikštijantiems duodavo dar baltų vilnonių rūbų, bet ne tik kaipo dovaną, o ir tam, kad būtų išpildytas liturgikos reikalavimas — prie krikšto turėti baltą rūbą, nekaltybės simbolį.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Žmonės buvo krikštijami būriais, atskirai vyrai ir atskirai
-    moterys, kiekvienam būriui suteikiant vardą. Jogaila besi­
-    krikštijantiems duodavo dar baltų vilnonių rūbų, bet ne tik kaipo
-    dovaną, o ir tam, kad būtų išpildytas liturgikos reikalavimas —
-    prie krikšto turėti baltą rūbą, nekaltybės simbolį.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-009
 - c-003
   santrauka: 'Taip pat tuojau buvo pradėtos statyti bažnyčios ir provincijoje: Uk­ mergėje, Maišiogaloje, Medininkuose (Viln.), Nemenčine, o kiek vėliau ir kitose rytinės Lietuvos vietose.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -116,14 +71,5 @@ Nenurodyta
     - t-010
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/religinė-praktika]]
-- [[temos/ritualas]]
-
-### Laikotarpiai
-- [[laikotarpiai/XIV amžius]]
-- [[laikotarpiai/XX amžius]]
-- [[laikotarpiai/XXI amžius]]
-
 ### Susiję objektai
 - [[objektai/ivykiai/Lietuvos krikštas]]

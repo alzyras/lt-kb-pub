@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 60.
+Objektų skaičius: 59.
 
 ## Kaip naudoti
 
@@ -58,8 +58,7 @@ Objektų skaičius: 60.
 - [Bajorijos ir didikų pasipelnymo įprotis viešuosiuose reikaluose](../objektai/paprociai/Bajorijos%20ir%20didik%C5%B3%20pasipelnymo%20%C4%AFprotis%20vie%C5%A1uosiuose%20reikaluose)
 - [Bajorijos stiprinimas valdovo privilegijomis](../objektai/paprociai/Bajorijos%20stiprinimas%20valdovo%20privilegijomis)
 - [Baudžiauninkų tikėjimo priklausomybė nuo pono paskirto kunigo](../objektai/paprociai/Baud%C5%BEiaunink%C5%B3%20tik%C4%97jimo%20priklausomyb%C4%97%20nuo%20pono%20paskirto%20kunigo)
-- [Kandidatas 33 Didikų perėjimas į kalvinizmą ir funduotų bažnyčių sekuliarizavimas](../objektai/paprociai/Kandidatas%2033%20Didik%C5%B3%20per%C4%97jimas%20%C4%AF%20kalvinizm%C4%85%20ir%20funduot%C5%B3%20ba%C5%BEny%C4%8Di%C5%B3%20sekuliarizavimas)
-- [Kandidatas Didikų perėjimas į kalvinizmą ir funduotų bažnyčių sekuliarizavimas](../objektai/paprociai/Kandidatas%20Didik%C5%B3%20per%C4%97jimas%20%C4%AF%20kalvinizm%C4%85%20ir%20funduot%C5%B3%20ba%C5%BEny%C4%8Di%C5%B3%20sekuliarizavimas)
+- [Didikų perėjimas į kalvinizmą ir funduotų bažnyčių sekuliarizavimas](../objektai/paprociai/Didik%C5%B3%20per%C4%97jimas%20%C4%AF%20kalvinizm%C4%85%20ir%20funduot%C5%B3%20ba%C5%BEny%C4%8Di%C5%B3%20sekuliarizavimas)
 - [Procesijos ir iškilmingos laidotuvės](../objektai/paprociai/Procesijos%20ir%20i%C5%A1kilmingos%20laidotuv%C4%97s)
 
 ### Posakiai

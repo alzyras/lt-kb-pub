@@ -138,9 +138,9 @@ Objektų skaičius: 189.
 - [Žydai](../objektai/grupes/%C5%BDydai)
 
 ### Papročiai
-- [Kandidatas Lietuvininkų ir Mažosios Lietuvos vardų vartojimas Prūsijoje](../objektai/paprociai/Kandidatas%20Lietuvinink%C5%B3%20ir%20Ma%C5%BEosios%20Lietuvos%20vard%C5%B3%20vartojimas%20Pr%C5%ABsijoje)
-- [Kandidatas Tautos istorijos atminties saugojimas piliečių lūpose](../objektai/paprociai/Kandidatas%20Tautos%20istorijos%20atminties%20saugojimas%20pilie%C4%8Di%C5%B3%20l%C5%ABpose)
 - [Kunigo A. Mackevičiaus religinės apeigos sukilėlių stovykloje](../objektai/paprociai/Kunigo%20A.%20Mackevi%C4%8Diaus%20religin%C4%97s%20apeigos%20sukil%C4%97li%C5%B3%20stovykloje)
+- [Lietuvininkų ir Mažosios Lietuvos vardų vartojimas Prūsijoje](../objektai/paprociai/Lietuvinink%C5%B3%20ir%20Ma%C5%BEosios%20Lietuvos%20vard%C5%B3%20vartojimas%20Pr%C5%ABsijoje)
+- [Tautos istorijos atminties saugojimas piliečių lūpose](../objektai/paprociai/Tautos%20istorijos%20atminties%20saugojimas%20pilie%C4%8Di%C5%B3%20l%C5%ABpose)
 - [Teresboro stovyklos mokymai lietuvių kalba](../objektai/paprociai/Teresboro%20stovyklos%20mokymai%20lietuvi%C5%B3%20kalba)
 
 ### Posakiai

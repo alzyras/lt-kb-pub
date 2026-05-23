@@ -87,4 +87,5 @@ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK �
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/posakiai/„lenkų pradų naikinimo“ „istorinio pirmumo teisę“]]
 - [[objektai/posakiai/„lenkų pradų naikinimo“ „rusų pradų atkūrimo“]]

@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 436.
+Objektų skaičius: 434.
 
 ## Kaip naudoti
 
@@ -207,10 +207,8 @@ Objektų skaičius: 436.
 - [Belaisvių apsikeitimas, paliaubos ir riteriškas vaišinimas](../objektai/paprociai/Belaisvi%C5%B3%20apsikeitimas%2C%20paliaubos%20ir%20riteri%C5%A1kas%20vai%C5%A1inimas)
 - [Imperatoriaus dvaro ceremonialo perėmimas](../objektai/paprociai/Imperatoriaus%20dvaro%20ceremonialo%20per%C4%97mimas)
 - [Ištikimybės priesaikos Jogailai](../objektai/paprociai/I%C5%A1tikimyb%C4%97s%20priesaikos%20Jogailai)
-- [Kandidatas 37 LDK bažnytinės unijos bandymai ir graikų katalikų įsitvirtinimas](../objektai/paprociai/Kandidatas%2037%20LDK%20ba%C5%BEnytin%C4%97s%20unijos%20bandymai%20ir%20graik%C5%B3%20katalik%C5%B3%20%C4%AFsitvirtinimas)
-- [Kandidatas LDK bažnytinės unijos bandymai ir graikų katalikų įsitvirtinimas](../objektai/paprociai/Kandidatas%20LDK%20ba%C5%BEnytin%C4%97s%20unijos%20bandymai%20ir%20graik%C5%B3%20katalik%C5%B3%20%C4%AFsitvirtinimas)
-- [Kandidatas Lietuvininkų ir Mažosios Lietuvos vardų vartojimas Prūsijoje](../objektai/paprociai/Kandidatas%20Lietuvinink%C5%B3%20ir%20Ma%C5%BEosios%20Lietuvos%20vard%C5%B3%20vartojimas%20Pr%C5%ABsijoje)
 - [Kryžiaus žygių prieš totorius organizavimas](../objektai/paprociai/Kry%C5%BEiaus%20%C5%BEygi%C5%B3%20prie%C5%A1%20totorius%20organizavimas)
+- [Lietuvininkų ir Mažosios Lietuvos vardų vartojimas Prūsijoje](../objektai/paprociai/Lietuvinink%C5%B3%20ir%20Ma%C5%BEosios%20Lietuvos%20vard%C5%B3%20vartojimas%20Pr%C5%ABsijoje)
 - [Monetų kalimas ir pabūklų, varpų liejimas](../objektai/paprociai/Monet%C5%B3%20kalimas%20ir%20pab%C5%ABkl%C5%B3%2C%20varp%C5%B3%20liejimas)
 - [Prekyba su Prūsais (Dancigu ir Karaliaučiumi)](../objektai/paprociai/Prekyba%20su%20Pr%C5%ABsais%20%28Dancigu%20ir%20Karaliau%C4%8Diumi%29)
 - [Vidaus kolonizacija Sūduvos giriose](../objektai/paprociai/Vidaus%20kolonizacija%20S%C5%ABduvos%20giriose)

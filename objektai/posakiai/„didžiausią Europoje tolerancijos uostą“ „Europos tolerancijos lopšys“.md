@@ -66,7 +66,3 @@ Lenkijos religinę toleranciją yra apibūdinę kaip neturinčią analogo Europo
 - [[laikotarpiai/XIV amžius]]
 - [[laikotarpiai/XV amžius]]
 - [[laikotarpiai/XVII amžius]]
-
-### Susiję objektai
-- [[objektai/paprociai/Kandidatas 37 LDK bažnytinės unijos bandymai ir graikų katalikų įsitvirtinimas]]
-- [[objektai/paprociai/Kandidatas LDK bažnytinės unijos bandymai ir graikų katalikų įsitvirtinimas]]

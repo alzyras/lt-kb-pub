@@ -47,3 +47,6 @@ Lietuvos reformacijos ryškiausia ir įtakingiausia protestantų figūra – LDK
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/didikas]]
+
+### Susiję objektai
+- [[objektai/grupes/Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai]]

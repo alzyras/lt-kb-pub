@@ -39,8 +39,3 @@ Nors Lietuva ir toliau bandė rašyti ir lotyniškai, ir net lietuviškai, lenk�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/paprociai/Kandidatas 38 Lenkų kalbos, kultūros ir gyvensenos perėmimas LDK elite]]
-- [[objektai/paprociai/Kandidatas Lenkų kalbos, kultūros ir gyvensenos perėmimas LDK elite]]

@@ -71,8 +71,3 @@ Baroko sąvoka, kaip minėjome, atėjusi iš meno, ypač iš architektūros, ist
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/paprociai/Kandidatas 42 Barokinis šventasis peizažas, kryždirbystė ir Vilniaus baroko mokyklos sakralinė estetika]]
-- [[objektai/paprociai/Kandidatas Barokinis šventasis peizažas, kryždirbystė ir Vilniaus baroko mokyklos sakralinė estetika]]

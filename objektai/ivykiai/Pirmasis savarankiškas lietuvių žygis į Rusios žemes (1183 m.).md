@@ -53,7 +53,3 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/paprociai/Kandidatas Reguliarūs lietuvių plėšiamieji žygiai į Rusios, Lenkijos ir Livonijos žemes]]

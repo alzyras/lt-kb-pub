@@ -108,6 +108,4 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/paprociai/Kandidatas 2 Vidurio Europos individualaus valstiečių ūkio ir bajorų pilietinės visuomenės tradicija]]
-- [[objektai/paprociai/Kandidatas Vidurio Europos individualaus valstiečių ūkio ir bajorų pilietinės visuomenės tradicija]]
 - [[objektai/vietos/Vilniaus universitetas]]

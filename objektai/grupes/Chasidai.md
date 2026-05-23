@@ -65,3 +65,8 @@ Aplinkinėse valstybėse ir LDK pietrytinėje dalyje iki Vilniaus išplitusio ch
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]
+- [[objektai/zodynas/chasidizmas rabinizmas]]

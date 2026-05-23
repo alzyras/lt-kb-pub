@@ -46,8 +46,3 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/paprociai/Kandidatas 15 Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme]]
-- [[objektai/paprociai/Kandidatas Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme]]

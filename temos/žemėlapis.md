@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 20.
+Objektų skaičius: 18.
 
 ## Kaip naudoti
 
@@ -34,10 +34,6 @@ Objektų skaičius: 20.
 
 ### Grupės
 - [[objektai/grupes/Arabai]]
-
-### Papročiai
-- [[objektai/paprociai/Kandidatas 39 Lietuvių kalbos oficialaus kultūros modelio kėlimas ir kasdienis Bažnyčios bei mokyklos vartojimas]]
-- [[objektai/paprociai/Kandidatas Lietuvių kalbos oficialaus kultūros modelio kėlimas ir kasdienis Bažnyčios bei mokyklos vartojimas]]
 
 ### Posakiai
 - [[objektai/posakiai/„Lithuania Propria“]]

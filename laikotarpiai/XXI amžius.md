@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 703.
+Objektų skaičius: 702.
 
 ## Kaip naudoti
 
@@ -241,7 +241,6 @@ Objektų skaičius: 703.
 - [Kryžiaus žygių prieš totorius organizavimas](../objektai/paprociai/Kry%C5%BEiaus%20%C5%BEygi%C5%B3%20prie%C5%A1%20totorius%20organizavimas)
 - [Kunigo A. Mackevičiaus religinės apeigos sukilėlių stovykloje](../objektai/paprociai/Kunigo%20A.%20Mackevi%C4%8Diaus%20religin%C4%97s%20apeigos%20sukil%C4%97li%C5%B3%20stovykloje)
 - [Lietuvių ir lenkų dalinių bendros operacijos bei pasienio susirėmimai](../objektai/paprociai/Lietuvi%C5%B3%20ir%20lenk%C5%B3%20dalini%C5%B3%20bendros%20operacijos%20bei%20pasienio%20susir%C4%97mimai)
-- [Lietuvos krikšto apeigos](../objektai/paprociai/Lietuvos%20krik%C5%A1to%20apeigos)
 - [Lotyniško krikšto privalomumas ir mišrių moterystių draudimas](../objektai/paprociai/Lotyni%C5%A1ko%20krik%C5%A1to%20privalomumas%20ir%20mi%C5%A1ri%C5%B3%20moterysti%C5%B3%20draudimas)
 - [Lydimoji žemdirbystė](../objektai/paprociai/Lydimoji%20%C5%BEemdirbyst%C4%97)
 - [Masinė Lietuvos gyventojų emigracija po privatizacijos dešimtmečio](../objektai/paprociai/Masin%C4%97%20Lietuvos%20gyventoj%C5%B3%20emigracija%20po%20privatizacijos%20de%C5%A1imtme%C4%8Dio)

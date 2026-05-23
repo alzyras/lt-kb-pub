@@ -55,8 +55,3 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/paprociai/Kandidatas 17 Lietuvos krikšto apeigos]]
-- [[objektai/paprociai/Kandidatas Lietuvos krikšto apeigos]]

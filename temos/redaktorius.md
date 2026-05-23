@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 23.
+Objektų skaičius: 22.
 
 ## Kaip naudoti
 
@@ -43,8 +43,7 @@ Objektų skaičius: 23.
 - [[objektai/grupes/Vilniaus universiteto leidykla]]
 
 ### Papročiai
-- [[objektai/paprociai/Kandidatas 63 Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui]]
-- [[objektai/paprociai/Kandidatas Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui]]
+- [[objektai/paprociai/Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui]]
 
 ### Įvykiai
 - [[objektai/ivykiai/„Aušros“ leidimo pradžia]]

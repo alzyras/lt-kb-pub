@@ -67,5 +67,4 @@ Savo spaudą lietuvių ir lenkų kalbomis leido ir pirmoji su lietuvių tautiniu
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/paprociai/Kandidatas 63 Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui]]
 - [[objektai/ivykiai/Lietuviškosios socialdemokratų partijos susikūrimas]]

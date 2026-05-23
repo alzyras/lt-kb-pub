@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 160.
+Objektų skaičius: 158.
 
 ## Kaip naudoti
 
@@ -87,8 +87,6 @@ Objektų skaičius: 160.
 - [Apgaulingo atsitraukimo manevras](../objektai/paprociai/Apgaulingo%20atsitraukimo%20manevras)
 - [Husarų lydėjimas į seimo rinkimus](../objektai/paprociai/Husar%C5%B3%20lyd%C4%97jimas%20%C4%AF%20seimo%20rinkimus)
 - [Husarų vėliavų „draugų“ ir palydos sistema](../objektai/paprociai/Husar%C5%B3%20v%C4%97liav%C5%B3%20%E2%80%9Edraug%C5%B3%E2%80%9C%20ir%20palydos%20sistema)
-- [Kandidatas 37 LDK bažnytinės unijos bandymai ir graikų katalikų įsitvirtinimas](../objektai/paprociai/Kandidatas%2037%20LDK%20ba%C5%BEnytin%C4%97s%20unijos%20bandymai%20ir%20graik%C5%B3%20katalik%C5%B3%20%C4%AFsitvirtinimas)
-- [Kandidatas LDK bažnytinės unijos bandymai ir graikų katalikų įsitvirtinimas](../objektai/paprociai/Kandidatas%20LDK%20ba%C5%BEnytin%C4%97s%20unijos%20bandymai%20ir%20graik%C5%B3%20katalik%C5%B3%20%C4%AFsitvirtinimas)
 
 ### Posakiai
 - [duona, tolerancija, demokratija, konstitucija, barokas](../objektai/posakiai/duona%2C%20tolerancija%2C%20demokratija%2C%20konstitucija%2C%20barokas)

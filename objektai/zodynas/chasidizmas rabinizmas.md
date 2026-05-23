@@ -44,3 +44,8 @@ Jo istorinis vaidmuo neatsiejamas nuo didžiulį poveikį visiems žydams turėj
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Chasidai]]
+- [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]

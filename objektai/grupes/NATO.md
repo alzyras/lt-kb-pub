@@ -59,7 +59,3 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/paprociai/Kandidatas Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai]]

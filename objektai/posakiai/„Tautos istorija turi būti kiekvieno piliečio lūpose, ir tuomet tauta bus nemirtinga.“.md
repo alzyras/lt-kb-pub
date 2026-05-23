@@ -61,4 +61,4 @@ Akimis vydamiesi knygos tekstą, Jūs tiesiogiai išgyvensite įspūdingas, nesu
 - [[laikotarpiai/XIX amžius]]
 
 ### Susiję objektai
-- [[objektai/paprociai/Kandidatas Tautos istorijos atminties saugojimas piliečių lūpose]]
+- [[objektai/paprociai/Tautos istorijos atminties saugojimas piliečių lūpose]]

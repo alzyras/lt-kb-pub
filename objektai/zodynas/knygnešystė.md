@@ -41,3 +41,8 @@ Susiformavo tvirta kontrabandinės knygnešystės tradicija, ir į XIX a.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Spaudos leidiniai kaip kontrabandiniai objektai]]
+- [[objektai/zodynas/knygnešystė knygnešiai]]

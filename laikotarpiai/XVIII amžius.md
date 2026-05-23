@@ -79,8 +79,8 @@ Objektų skaičius: 126.
 
 ### Papročiai
 - [Husarų vėliavų „draugų“ ir palydos sistema](../objektai/paprociai/Husar%C5%B3%20v%C4%97liav%C5%B3%20%E2%80%9Edraug%C5%B3%E2%80%9C%20ir%20palydos%20sistema)
-- [Kandidatas Žydų gyvenimo ribojimas sėslumo riba Rusijos imperijoje](../objektai/paprociai/Kandidatas%20%C5%BDyd%C5%B3%20gyvenimo%20ribojimas%20s%C4%97slumo%20riba%20Rusijos%20imperijoje)
 - [Trijų Lietuvos valstybingumo datų minėjimas per nacionalines šventes](../objektai/paprociai/Trij%C5%B3%20Lietuvos%20valstybingumo%20dat%C5%B3%20min%C4%97jimas%20per%20nacionalines%20%C5%A1ventes)
+- [Žydų gyvenimo ribojimas sėslumo riba Rusijos imperijoje](../objektai/paprociai/%C5%BDyd%C5%B3%20gyvenimo%20ribojimas%20s%C4%97slumo%20riba%20Rusijos%20imperijoje)
 
 ### Posakiai
 - [duona, tolerancija, demokratija, konstitucija, barokas](../objektai/posakiai/duona%2C%20tolerancija%2C%20demokratija%2C%20konstitucija%2C%20barokas)

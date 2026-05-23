@@ -80,6 +80,4 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Brunonas Bonifacijus]]
-- [[objektai/paprociai/Kandidatas 10 Milenaristinės krikščioniškos misijos ir valdovų krikštai]]
-- [[objektai/paprociai/Kandidatas Milenaristinės krikščioniškos misijos ir valdovų krikštai]]
 - [[objektai/asmenys/Netimeras]]

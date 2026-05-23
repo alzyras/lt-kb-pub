@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 13.
+Objektų skaičius: 12.
 
 ## Kaip naudoti
 
@@ -30,8 +30,7 @@ Objektų skaičius: 13.
 - [[objektai/daiktai/Šernų amuletai]]
 
 ### Papročiai
-- [[objektai/paprociai/Kandidatas 8 Prūsų dievų kultas Rikojote ir kulto tarnų hierarchija]]
-- [[objektai/paprociai/Kandidatas Prūsų dievų kultas Rikojote ir kulto tarnų hierarchija]]
+- [[objektai/paprociai/Prūsų dievų kultas Rikojote ir kulto tarnų hierarchija]]
 
 ### Vietos
 - [[objektai/vietos/Avinjonas]]

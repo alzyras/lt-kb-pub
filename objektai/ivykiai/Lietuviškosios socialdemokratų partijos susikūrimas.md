@@ -56,5 +56,4 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/paprociai/Kandidatas 63 Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui]]
 - [[objektai/grupes/Lietuviškoji socialdemokratų partija]]

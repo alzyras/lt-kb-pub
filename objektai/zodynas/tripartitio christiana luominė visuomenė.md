@@ -66,7 +66,3 @@ Su tripartitio christiana (visuomenės skirstymas į karius, dvasininkus ir dirb
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/privilegija]]
-
-### Susiję objektai
-- [[objektai/paprociai/Kandidatas 20 Jogailos krikšto privilegijos vyskupui, bajorams ir Vilniaus miestiečiams]]
-- [[objektai/paprociai/Kandidatas Jogailos krikšto privilegijos vyskupui, bajorams ir Vilniaus miestiečiams]]

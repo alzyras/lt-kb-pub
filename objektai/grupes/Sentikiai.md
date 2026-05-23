@@ -38,7 +38,3 @@ Lenkijoje nebuvo ir sentikių, atsiskyrusių nuo stačiatikių dėl liturgijos i
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/paprociai/Kandidatas LDK daugiakonfesiškumo juridinis įforminimas ir religinė tolerancija]]

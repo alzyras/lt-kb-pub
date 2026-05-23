@@ -46,3 +46,6 @@ Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono ir jo ainių legend
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
+
+### Susiję objektai
+- [[objektai/zodynas/politinė tauta lietuvių nacija]]

@@ -43,3 +43,8 @@ Jurgis) Zauerveinas (Georg Sauerwein), kovojęs už lietuvių kalbą Rytų Prūs
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas]]
+- [[objektai/asmenys/Georgas Zauerveinas]]

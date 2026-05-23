@@ -113,3 +113,4 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Ivanas Kornilovas]]
+- [[objektai/zodynas/kirilika rusiškas raidynas lotyniškasis raidynas]]

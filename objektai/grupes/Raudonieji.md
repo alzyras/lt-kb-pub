@@ -65,8 +65,3 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/paprociai/Kandidatas 51 „Raudonųjų“ daugiakalbė sukilimo propaganda valstiečiams]]
-- [[objektai/paprociai/Kandidatas „Raudonųjų“ daugiakalbė sukilimo propaganda valstiečiams]]

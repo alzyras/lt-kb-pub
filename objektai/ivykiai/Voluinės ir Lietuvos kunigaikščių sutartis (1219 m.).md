@@ -54,8 +54,3 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/paprociai/Kandidatas 13 Žemių kunigaikščių veiksmų derinimas konfederacijoje]]
-- [[objektai/paprociai/Kandidatas Žemių kunigaikščių veiksmų derinimas konfederacijoje]]

@@ -9,7 +9,7 @@ tags: []
 
 Šis laikotarpio puslapis jungia objektus pagal struktūrinius datos laukus ir patikimus laiko įrodymus.
 
-Objektų skaičius: 1223.
+Objektų skaičius: 1222.
 
 ## Kaip naudoti
 
@@ -623,7 +623,6 @@ Objektų skaičius: 1223.
 - [Kariuomenės sutikimas papuoštu vieškeliu](../objektai/paprociai/Kariuomen%C4%97s%20sutikimas%20papuo%C5%A1tu%20vie%C5%A1keliu)
 - [Kryžių statymas Kryžių kalne kaip tikėjimo laisvės pasipriešinimo praktika](../objektai/paprociai/Kry%C5%BEi%C5%B3%20statymas%20Kry%C5%BEi%C5%B3%20kalne%20kaip%20tik%C4%97jimo%20laisv%C4%97s%20pasiprie%C5%A1inimo%20praktika)
 - [Lietuvių ir lenkų dalinių bendros operacijos bei pasienio susirėmimai](../objektai/paprociai/Lietuvi%C5%B3%20ir%20lenk%C5%B3%20dalini%C5%B3%20bendros%20operacijos%20bei%20pasienio%20susir%C4%97mimai)
-- [Lietuvos krikšto apeigos](../objektai/paprociai/Lietuvos%20krik%C5%A1to%20apeigos)
 - [Lietuvos sportininkų atsisakymas dalyvauti SSRS rinktinėse ir atstovavimas Lietuvai](../objektai/paprociai/Lietuvos%20sportinink%C5%B3%20atsisakymas%20dalyvauti%20SSRS%20rinktin%C4%97se%20ir%20atstovavimas%20Lietuvai)
 - [Lotyniško krikšto privalomumas ir mišrių moterystių draudimas](../objektai/paprociai/Lotyni%C5%A1ko%20krik%C5%A1to%20privalomumas%20ir%20mi%C5%A1ri%C5%B3%20moterysti%C5%B3%20draudimas)
 - [Lydimoji žemdirbystė](../objektai/paprociai/Lydimoji%20%C5%BEemdirbyst%C4%97)

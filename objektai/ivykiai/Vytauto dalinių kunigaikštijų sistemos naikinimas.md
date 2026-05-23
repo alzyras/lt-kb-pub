@@ -54,8 +54,3 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/paprociai/Kandidatas 23 Bajorų skyrimas į vietininkus ir žemvaldžių riterių sluoksnio kūrimas]]
-- [[objektai/paprociai/Kandidatas Bajorų skyrimas į vietininkus ir žemvaldžių riterių sluoksnio kūrimas]]

@@ -80,5 +80,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/paprociai/Kandidatas 62 Kontrabandinė knygnešystė ir nelegalus lietuviškos spaudos platinimas]]
-- [[objektai/paprociai/Kandidatas Kontrabandinė knygnešystė ir nelegalus lietuviškos spaudos platinimas]]
+- [[objektai/zodynas/knygnešystė]]
+- [[objektai/zodynas/knygnešystė knygnešiai]]

@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 59.
+Objektų skaičius: 55.
 
 ## Kaip naudoti
 
@@ -58,14 +58,10 @@ Objektų skaičius: 59.
 - [Žečpospolita](../objektai/grupes/%C5%BDe%C4%8Dpospolita)
 
 ### Papročiai
-- [Kandidatas 15 Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme](../objektai/paprociai/Kandidatas%2015%20Lietuvi%C5%B3%20kunigaik%C5%A1%C4%8Di%C5%B3%20sta%C4%8Diatikyb%C4%97s%20pri%C4%97mimas%20Rusios%20%C5%BEemi%C5%B3%20valdyme)
-- [Kandidatas 16 Sosto paveldėjimo principas Gediminaičių dinastijoje](../objektai/paprociai/Kandidatas%2016%20Sosto%20paveld%C4%97jimo%20principas%20Gediminai%C4%8Di%C5%B3%20dinastijoje)
-- [Kandidatas 21 LDK užimtų Rusios žemių senosios tvarkos palikimas](../objektai/paprociai/Kandidatas%2021%20LDK%20u%C5%BEimt%C5%B3%20Rusios%20%C5%BEemi%C5%B3%20senosios%20tvarkos%20palikimas)
-- [Kandidatas 40 LDK politinės tautos savivoka ir Palemono kilmės tradicija](../objektai/paprociai/Kandidatas%2040%20LDK%20politin%C4%97s%20tautos%20savivoka%20ir%20Palemono%20kilm%C4%97s%20tradicija)
-- [Kandidatas LDK politinės tautos savivoka ir Palemono kilmės tradicija](../objektai/paprociai/Kandidatas%20LDK%20politin%C4%97s%20tautos%20savivoka%20ir%20Palemono%20kilm%C4%97s%20tradicija)
-- [Kandidatas LDK užimtų Rusios žemių senosios tvarkos palikimas](../objektai/paprociai/Kandidatas%20LDK%20u%C5%BEimt%C5%B3%20Rusios%20%C5%BEemi%C5%B3%20senosios%20tvarkos%20palikimas)
-- [Kandidatas Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme](../objektai/paprociai/Kandidatas%20Lietuvi%C5%B3%20kunigaik%C5%A1%C4%8Di%C5%B3%20sta%C4%8Diatikyb%C4%97s%20pri%C4%97mimas%20Rusios%20%C5%BEemi%C5%B3%20valdyme)
-- [Kandidatas Sosto paveldėjimo principas Gediminaičių dinastijoje](../objektai/paprociai/Kandidatas%20Sosto%20paveld%C4%97jimo%20principas%20Gediminai%C4%8Di%C5%B3%20dinastijoje)
+- [LDK politinės tautos savivoka ir Palemono kilmės tradicija](../objektai/paprociai/LDK%20politin%C4%97s%20tautos%20savivoka%20ir%20Palemono%20kilm%C4%97s%20tradicija)
+- [LDK užimtų Rusios žemių senosios tvarkos palikimas](../objektai/paprociai/LDK%20u%C5%BEimt%C5%B3%20Rusios%20%C5%BEemi%C5%B3%20senosios%20tvarkos%20palikimas)
+- [Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme](../objektai/paprociai/Lietuvi%C5%B3%20kunigaik%C5%A1%C4%8Di%C5%B3%20sta%C4%8Diatikyb%C4%97s%20pri%C4%97mimas%20Rusios%20%C5%BEemi%C5%B3%20valdyme)
+- [Sosto paveldėjimo principas Gediminaičių dinastijoje](../objektai/paprociai/Sosto%20paveld%C4%97jimo%20principas%20Gediminai%C4%8Di%C5%B3%20dinastijoje)
 
 ### Posakiai
 - [Baigėsi karas su prūsais. Prasidėjo karas su lietuviais](../objektai/posakiai/Baig%C4%97si%20karas%20su%20pr%C5%ABsais.%20Prasid%C4%97jo%20karas%20su%20lietuviais)

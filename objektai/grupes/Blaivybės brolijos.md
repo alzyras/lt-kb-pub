@@ -43,8 +43,3 @@ Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybė
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/paprociai/Kandidatas 57 Valančiaus blaivybės sąjūdis ir blaivybės brolijos]]
-- [[objektai/paprociai/Kandidatas Valančiaus blaivybės sąjūdis ir blaivybės brolijos]]

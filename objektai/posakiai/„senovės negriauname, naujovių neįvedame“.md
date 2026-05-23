@@ -49,7 +49,3 @@ Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis: „senovės 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/privilegija]]
-
-### Susiję objektai
-- [[objektai/paprociai/Kandidatas 21 LDK užimtų Rusios žemių senosios tvarkos palikimas]]
-- [[objektai/paprociai/Kandidatas LDK užimtų Rusios žemių senosios tvarkos palikimas]]
