@@ -10,6 +10,8 @@ export interface D3Config {
   zoom: boolean
   depth: number
   directLinksOnly?: boolean
+  fullGraphOnIndex?: boolean
+  pageLocalOutsideIndex?: boolean
   scale: number
   repelForce: number
   centerForce: number
@@ -40,6 +42,7 @@ const defaultOptions: GraphOptions = {
     zoom: true,
     depth: 1,
     directLinksOnly: true,
+    fullGraphOnIndex: true,
     scale: 1.1,
     repelForce: 0.5,
     centerForce: 0.3,
@@ -61,8 +64,10 @@ const defaultOptions: GraphOptions = {
   globalGraph: {
     drag: true,
     zoom: true,
-    depth: 1,
-    directLinksOnly: true,
+    depth: -1,
+    directLinksOnly: false,
+    fullGraphOnIndex: true,
+    pageLocalOutsideIndex: true,
     scale: 0.9,
     repelForce: 0.5,
     centerForce: 0.2,

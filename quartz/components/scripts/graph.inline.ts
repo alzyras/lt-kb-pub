@@ -98,6 +98,8 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     focusOnHover,
     enableRadial,
     directLinksOnly = depth >= 0,
+    fullGraphOnIndex = false,
+    pageLocalOutsideIndex = false,
     labelMinZoom = 0.9,
     labelMaxVisible = 60,
     labelDegreeThreshold = 2,
@@ -106,6 +108,14 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     labelShowAllZoom = 2,
     labelMaxHoverVisible = 24,
   } = JSON.parse(graph.dataset["cfg"]!) as D3Config
+  const isIndexGraph = slug === "/"
+  if (fullGraphOnIndex && isIndexGraph) {
+    depth = -1
+    directLinksOnly = false
+  } else if (pageLocalOutsideIndex && !isIndexGraph) {
+    depth = 1
+    directLinksOnly = true
+  }
 
   const data: Map<SimpleSlug, ContentDetails> = new Map(
     Object.entries<ContentDetails>(await fetchData).map(([k, v]) => [
