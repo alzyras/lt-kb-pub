@@ -114,3 +114,12 @@ Formulė pateikiama kaip politinis Gedimino pareiškimas, atskiriantis kovą su 
   patikimumo_pagrindimas: "Šaltinyje pati laiško autorystė aptariama kritiškai, todėl ši citata patikima kaip Balińskio pateikta formulė, bet atsargiai vartotina kaip Gedimino tiesioginė pozicija."
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Krikščionys]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Vokiečiai]]
