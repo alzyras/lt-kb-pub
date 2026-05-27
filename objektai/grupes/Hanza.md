@@ -14,6 +14,7 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 laikotarpis: 'XIII amž.; XIII amžius; XIII ir XIV amžiai; Vytauto laikai'
 datos:
   - '1416 m.'
@@ -124,7 +125,12 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
   teiginys: 'Abiejuose tuose centruose Hanza veikiai įsteigė savo agentūras (vadinamąsias pirklių kontoras).'
   pagrindžia:
     - c-020
-
+- t-018
+  teiginys: 'XIII amžiuje vokiečių miestai sudarė prisiekusiųjų sąjungas, žinomas Hanzos vardu.'
+  pagrindžia:
+    - c-021
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  statusas: patvirtinta
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'XIII amžiuje šiaurinės Europos prekybą į savo rankas perėmė vokiečių miestų sąjunga, vadinama Hanza.'
@@ -390,7 +396,30 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-017
+- c-021
+  santrauka: 'XIII amžiuje vokiečių miestai sudarė prisiekusiųjų sąjungas, žinomas Hanzos vardu.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    XIII
+    amžiuje, nesiliaujant vaidams su baronais pasauliečiais dėl pre­
+    kybos saugumo, vokiečių miestai užmezgė glaudesnius ryšius
+    vieni su kitais, sudarė prisiekusiųjų sąjungas, žinomas Hanzos
+    vardu. Jų veikla vis labiau plėtėsi, net toli į šiaurę nutolę mies­
+    tai, net slaviškieji, ėmė prie jų šlietis. Prie karinės sąjungos, 1241 m.
+    Hamburgo sudarytos su Liubeku, tam tikru požiūriu priklausė
+    D
 
+    ## Puslapis 22
+
+    ĮVADAS
+    Krokuva, Kališas ir Naugardas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]

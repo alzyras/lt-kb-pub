@@ -18,6 +18,7 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 laikotarpis: 'XIV a.; 1382 m.; 1384 m.; 1385 m.; 1386 m.; 1387 m.; 1401 m.'
 vaidmenys:
   - 'Lenkijos karalius'
@@ -347,6 +348,72 @@ Jogaila šiame šaltinyje rodomas kaip Lietuvos valdovas, tapęs Lenkijos karali
   teiginys: 'Stačiai keistai atrodo Vytauto pasitikėjimas Jogaila, nors jau ne kartą buvo paaiškėję, kad Jogaila neteisingai elgėsi.'
   pagrindžia:
     - c-083
+- t-078
+  teiginys: 'Per Jogailą atėjusi Lietuvos krikšto ir sąjungos su Lenkija politinė permaina Vilniaus miestiečiams nesuteikė daugiau laisvių.'
+  pagrindžia:
+    - c-084
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  statusas: patvirtinta
+- t-079
+  teiginys: 'Algirdui užleidus sostą, Jogaila dar tėvui gyvam esant perėmė aukščiausiąją Lietuvos valdžią.'
+  pagrindžia:
+    - c-085
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  statusas: patvirtinta
+- t-080
+  teiginys: 'Jogaila lietuviškai buvo vadinamas Jagajłło, o lotyniškuose dokumentuose rašytas kaip Jagail arba Jagal.'
+  pagrindžia:
+    - c-086
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  statusas: patvirtinta
+- t-081
+  teiginys: 'Bajoras Vaidila patarimais ir įtaka rėmė Jogailos siekius.'
+  pagrindžia:
+    - c-087
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  statusas: patvirtinta
+- t-082
+  teiginys: 'Staiga užkluptas Jogaila nepajėgė apsiginti, o Kęstutis užėmė miestą ir pilis bei įkalino Jogailą su motina.'
+  pagrindžia:
+    - c-088
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  statusas: patvirtinta
+- t-083
+  teiginys: 'Jogaila sutelkė nemažas pajėgas ir, turėdamas ryšių su Vilniaus miestiečiais, nusprendė užimti Vilnių ir Trakus.'
+  pagrindžia:
+    - c-089
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  statusas: patvirtinta
+- t-084
+  teiginys: 'Jogaila pasišovė siekti Lenkijos sosto ir sukurti naują galingą valstybę Šiaurės Europoje.'
+  pagrindžia:
+    - c-090
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  statusas: patvirtinta
+- t-085
+  teiginys: 'Vytautas, skaitydamasis su Jogailos siekiais, kūrė įstatymus ir įsipareigojimus Lietuvos interesams ginti.'
+  pagrindžia:
+    - c-091
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  statusas: patvirtinta
+- t-086
+  teiginys: 'Vladislovo Jogailos lėšomis pradėta statyti Šv. Jono bažnyčia 1386 m. buvo Vytauto užbaigta ir pašventinta.'
+  pagrindžia:
+    - c-092
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  statusas: patvirtinta
+- t-087
+  teiginys: 'Beginklis Jogaila su visa savo palyda buvo įkalintas pilyje ir daugybės kareivių saugojamas.'
+  pagrindžia:
+    - c-093
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  statusas: patvirtinta
+- t-088
+  teiginys: 'Vladislovas Jogaila nusprendė didžiuoju kunigaikščiu pakelti Starodubo kunigaikštį Žygimantą Kęstutaitį.'
+  pagrindžia:
+    - c-094
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  statusas: patvirtinta
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: Jogaila 1382 m. susaistė save sutartimi su kryžiuočiais.
@@ -1568,7 +1635,242 @@ Jogaila šiame šaltinyje rodomas kaip Lietuvos valdovas, tapęs Lenkijos karali
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-077
+- c-084
+  santrauka: 'Per Jogailą atėjusi Lietuvos krikšto ir sąjungos su Lenkija politinė permaina Vilniaus miestiečiams nesuteikė daugiau laisvių.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Didžiulė politinė permaina, atėjusi per Jogailą
+    su Lietuvos krikštu ir sąjunga su Lenkija, vėliau greitas Lietuvos
+    vasalų virtimas turtingiausia aristokratija - visa tai Vilniaus mies­
+    tiečiams nesuteikė nei progos, nei palankaus meto įgyti daugiau
+    laisvių. Be to, Rusios miestai, būtent Pskovas ir Didysis Naugar-
+    das, atsidūrė kitokiose aplinkybėse.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
+- c-085
+  santrauka: 'Algirdui užleidus sostą, Jogaila dar tėvui gyvam esant perėmė aukščiausiąją Lietuvos valdžią.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Algirdui užleidus sostą, jo sūnus jaunasis Jogaila (Ja-
+    gaytto)27, dar tėvui gyvam esant, paėmė į savo rankas aukš­
+    čiausiąją Lietuvos valdžią. Ėmė krašte krikti feodalinės
+    visuomenės pamatai, kurią tinkamai išlaikyti gebėjo Gedi­
+    minas. Galingesni vasalai grasino suvaržyti didžiojo ku­
+    nigaikščio valdžią, tad Jogailai kilo mintis visus tiesio­
+    giai valdomus lenus sujungti į vieną valstybę ir, tuo vėlei
+    susilpninus feodalizmą, ateičiai pakloti vienvaldystės pa­
+    grindus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
+- c-086
+  santrauka: 'Jogaila lietuviškai buvo vadinamas Jagajłło, o lotyniškuose dokumentuose rašytas kaip Jagail arba Jagal.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Nuo tos akimirkos užvi­
+    rė dvejus metus trukusi kova, ir Vilniui šio vidaus karo
+    27
+    Jogaila (Jagiełło) lietuviškai iš tiesų
+    buvo vadinamas Jagajłło, ir doku­
+    mentuose lotyniškai būdavo rašoma:
+    Jagail, arba Jagal, Dei gratia rex in Let-
+    tovia [Jogaila, arba Jagėla, Dievo ma­
+    lone lietuvių karalius]. Lenkai jį va­
+    dindavo trumpumo dėlei -Jagiełło, o
+    lotyniškai - jagelo. Panašiai lietuviš­
+    kai vadinami buvo ir Skirgaila, Švit­
+    rigaila, Karigaila, Šumigaila, Punigai-
+    la, užuot sakius: Skirgėla, Karigėla ir
+    1.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016
+- c-087
+  santrauka: 'Bajoras Vaidila patarimais ir įtaka rėmė Jogailos siekius.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Jogailos siekius pata­
+    rimais rėmė ir, naudodamasis savo įtaka, dar skatino bajo­
+    ras Vaidila. Tai buvo žmogus, kurį dar Algirdas dėl didelių
+    gabumų iš kepėjo sūnaus iki rūmų pataurininkio iškėlė. O
+    Jogaila, labai jį pamilęs, ne tik Lydos vietininku padarė, bet,
+    nepaisydamas Kęstučio prieštaravimų, dargi atidavė jam į
+    žmonas savo seserį. Kaip pasiuntinys nuvykęs į Prūsiją, Vai­
+    dila 1380 metais paruošė dirvą Jogailai sudaryti slaptą san­
+    dėrį su arkikomtūru, siekiant užsitikrinti saugumą nuo kry­
+    žiuočių ir palengvinti jiems Kęstučio valdų puolimą28.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
+- c-088
+  santrauka: 'Staiga užkluptas Jogaila nepajėgė apsiginti, o Kęstutis užėmė miestą ir pilis bei įkalino Jogailą su motina.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Jogailai pristigo pajėgų gintis taip staiga užkluptam,
+    tad miestas ir pilys bemat buvo Kęstučio užimtos, turtai ir
+    žirgai paimti, o pats Jogaila su motina uždaryti į kalėjimą31.
+    locke.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018
+- c-089
+  santrauka: 'Jogaila sutelkė nemažas pajėgas ir, turėdamas ryšių su Vilniaus miestiečiais, nusprendė užimti Vilnių ir Trakus.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Kai visa tai vyko, Jogaila, seniai laukęs tinkamo meto at­
+    gauti savo paveldą ir atkeršyti už Vaidilos mirtį, sutelkė ne­
+    mažas pajėgas ir, turėdamas ryšių su Vilniaus miestiečiais,
+    nusprendė užimti Vilnių ir Trakus. Hanulas, arba Hanka32,
+    užmuš, o mūsų kraštą užvaldys.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019
+- c-090
+  santrauka: 'Jogaila pasišovė siekti Lenkijos sosto ir sukurti naują galingą valstybę Šiaurės Europoje.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Jogaila, nuvargintas giminaičių, kunigaikščių
+    tarpusavio vaidų ir nematydamas galimybės įveikti žiau­
+    riausių Lietuvos priešų kryžiuočių neįstojus į stiprių krikš­
+    čioniškųjų valstybių gretas, pasišovė didžiam sumanymui -
+    siekti Lenkijos sosto ir sukurti naują galingą valstybę Šiau­
+    rės Europoje. Tai pastūmėjo jį aukoti susitarimą ir turtingą
+    leną prieštaringo likimo dar nepalaužtam Vytautui, kuris
+    irgi negaišdamas griebėsi netikėtai pasitaikiusios progos; ap­
+    simetęs, jog suruošė žygį prieš Skirgailą, gebėjo išsprukti iš
+    40
+    To mūšio miglotus aprašymus Vy­
+    gando ir Komerio kronikose minty­
+    se perkratydamas, manau, kad til­
+    tas, kur kautasi, turėjęs būti per
+    Vingrių upokšnį Trakų kelyje, gal
+    netoli pranciškonų, juk sunku pati­
+    kėti, kad būtų kalbama apie tiltą per
+    Viliją.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020
+- c-091
+  santrauka: 'Vytautas, skaitydamasis su Jogailos siekiais, kūrė įstatymus ir įsipareigojimus Lietuvos interesams ginti.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Įžvalgia savo politika Vytautas, nors skaityda-
+    masis ir su Jogailos siekiais, ir neišvengęs jungimosi su Lenki­
+    ja pasekmių, vis dėlto sugebėjo atsilaikyti kurdamas savus
+    įstatymus ar įsipareigojimus, kurie buvo reikalingi išimtinai
+    Lietuvos interesams ginti. Didesnioji Vilniaus miestiečių da­
+    lis juk buvo gerokai didesnį gyventojų skaičių Lietuvoje su­
+    darę rusinai, išpažįstantys graikų apeigų tikėjimą, todėl Vy­
+    tautas neskubėjo imtis vykdyti tokių privilegijų, kurios būtų
+    80
+    Miesto archyve tų privilegijų nėra li­
+    kę pėdsakų, bet jas mini K o j a ł o-
+    w i c z Miscellanea, p.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-021
+- c-092
+  santrauka: 'Vladislovo Jogailos lėšomis pradėta statyti Šv. Jono bažnyčia 1386 m. buvo Vytauto užbaigta ir pašventinta.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tais
+    81
+    Karamzin  Histor. Ross., vert. į apie tą pskoviečių pasiuntinybę, vy-
+    lenk. k. V, 143, įdėjo šiuos Pskovo kusią pas Vytautą: Pskowicy poslasza
+    metraštininko žodžius, kalbėdamas k Welikomu Kniaziu Jurta posadnika
+    155
 
+    ## Puslapis 172
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    pačiais 1386 metais Šv. Jono bažnyčią, Vladislovo Jogailos
+    lėšomis statyti pradėtą, Vytauto užbaigtą, per dideles iškil­
+    mes pašventino vyskupai: Kijevo - Mykolas ir Plocko -
+    Stanislovas82.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-022
+- c-093
+  santrauka: 'Beginklis Jogaila su visa savo palyda buvo įkalintas pilyje ir daugybės kareivių saugojamas.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Beginklis
+    Jogaila su visa savo palyda buvo įkalintas pilyje ir daugybės
+    kareivių saugojamas. Tačiau kai ši jo nelaisvė gana ilgai užsi­
+    tęsė, apie tai pasklido žinia ne tik Lenkijoje, bet ir tolesnėse
+    šalyse. Lenkijos bajorai, pasipiktinę tokiu akiplėšišku Švitri­
+    gailos elgesiu, susirinkę Varkoje, nusprendė pirmiausia ofi­
+    cialiai nusiųsti pas jį pasiuntinius, kurie pareikalautų išlais­
+    vinti karalių, o jeigu tai nieko neduotų, - surengti žygį į
+    Lietuvą susirinkus ties Kijanų kaimu prie Viepšo4.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-023
+- c-094
+  santrauka: 'Vladislovas Jogaila nusprendė didžiuoju kunigaikščiu pakelti Starodubo kunigaikštį Žygimantą Kęstutaitį.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tuomet, kai protai jau buvo
+    nuteikti prieš didįjį kunigaikštį, karalius Vladislovas Jogaila,
+    gerai žinodamas, kas Lietuvoje dedasi, ir suprasdamas, jog
+    namų karui nebus galo, kol nepavyks brolio nuo šio krašto
+    valdžios nušalinti, nusprendė didžiuoju kunigaikščiu pakel­
+    ti Starodubo kunigaikštį Žygimantą Kęstutaitė Vytauto bro­
+    lį. Tačiau šį sumanymą ir slaptus pasitarimus su Žygiman­
+    tu sugebėta išlaikyti gilioje paslaptyje. Jogaila, kad greičiau
+    įgyvendintų savo ketinimus, netgi sugebėjo sumaniai nu­
+    raminti jau nujautusį savo nesaugumą Švitrigailą, kai pa­
+    imtus į nelaisvę paskutiniame kare Voluinėje du lietuvių
+    didikus - Rumbautą ir Goštautą - išlaisvino ir atsiuntė jam
+    į Vilnių13.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-024
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/paprociai/Lotyniško krikšto privalomumas ir mišrių moterystių draudimas|Lotyniško krikšto privalomumas ir mišrių moterystių draudimas (krikštas)]]
