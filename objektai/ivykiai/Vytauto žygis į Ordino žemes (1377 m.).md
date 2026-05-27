@@ -43,28 +43,29 @@ Kryžiuočių Ordino maršalkai įsiveržus į Lietuvos gilumą, Kęstutis pasiu
 Vytauto veiksmai sutrikdė ordino kariuomenės aprūpinimą.
 
 ## Teiginiai
-- t-001
+- t-004
   teiginys: '1377 m. Vytautas, tėvo pavedamas, surengė žygį į Ordino žemes ir pasirodė kaip savarankiškas lietuvių kariuomenės vadas.'
   pagrindžia:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-002
+- t-005
   teiginys: 'Kęstučio lieptas Vytautas sunaikino ordino maisto atsargas nuo Nemuno iki Tamovos, todėl kryžiuočiai šešias dienas neturėjo duonos ir pašaro.'
   pagrindžia:
+    - c-003
     - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: 'Vėlesniame apibendrinime autorius šį žygį vadina pirmu žinomu Vytauto savarankišku pasirodymu karo lauke.'
+- t-006
+  teiginys: '1377 m. žygis buvo pirmas žinomas Vytauto savarankiškas pasirodymas karo lauke.'
   pagrindžia:
-    - c-003
+    - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Ši citata pateikia 1377 m. žygį kaip pirmą aiškų Vytauto savarankišką vadovavimą.'
+  santrauka: '1377 m. Vytautas, tėvo pavedamas, surengė žygį į Ordino žemes ir pasirodė kaip savarankiškas lietuvių kariuomenės vadas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Po kiek laiko kronikos vėl mini 1377 metų Vytauto žygį.
@@ -73,13 +74,13 @@ Vytauto veiksmai sutrikdė ordino kariuomenės aprūpinimą.
     tuvių kariuomenės vadas.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-001
+    - t-004
 - c-002
-  santrauka: 'Žygio rezultatas čia siejamas su ordino aprūpinimo sužlugdymu.'
+  santrauka: 'Kęstučio lieptas Vytautas sunaikino ordino maisto atsargas nuo Nemuno iki Tamovos, todėl kryžiuočiai šešias dienas neturėjo duonos ir pašaro.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kada Kryžiuočių Ordino maršalka
@@ -96,13 +97,29 @@ Vytauto veiksmai sutrikdė ordino kariuomenės aprūpinimą.
     dienas turėjo išbūti nematę duonos, o arkliai — pašaro^1 ).
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-002
+    - t-005
 - c-003
-  santrauka: 'Vėlesnis veikalo apibendrinimas šį žygį išskiria kaip pirmą savarankišką Vytauto karinį pasirodymą.'
+  santrauka: 'Kęstučio lieptas Vytautas sunaikino ordino maisto atsargas nuo Nemuno iki Tamovos, todėl kryžiuočiai šešias dienas neturėjo duonos ir pašaro.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Pavestą uždavinį Vy­
+    tautas labai puikiai atliko, sunaikindamas visą vokiečių maisto
+    atsargą nuo Nemuno iki Tamovos (aukščiau Insterburgo). Kry­
+    žiuočiai, kaip rašo kronikininkas Vygandas Marburgietis, šešias
+    dienas turėjo išbūti nematę duonos, o arkliai — pašaro
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-005
+- c-004
+  santrauka: '1377 m. žygis buvo pirmas žinomas Vytauto savarankiškas pasirodymas karo lauke.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     1377 met. čia atėjusius riterius matome puolant ir patį Vytautą.
@@ -113,17 +130,17 @@ Vytauto veiksmai sutrikdė ordino kariuomenės aprūpinimą.
     sako, nematę duonos bent po šešias dienas.^4 ).
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-003
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas]]
-- [[objektai/asmenys/Kęstutis]]
-- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/asmenys/Vygandas]]

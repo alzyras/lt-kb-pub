@@ -39,7 +39,7 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Iki 1362 m. Algirdas užėmė Smolensko kunigaikštijai priklausiusį Mstislavlį.'
+  teiginys: 'Iki 1362 jis užėmė Smolensko kunigaikštijai priklausantį Mogiliavą, Toropiecą, Mstislavlį ir kt.'
   pagrindžia:
     - c-002
 - t-003
@@ -50,6 +50,11 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
   teiginys: 'Pačiam Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo Jogailai paklusnumą.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'Algirdui ro D E Vandenų, Maskva ėmė sparčiai ko atiteko Mstislavlis.'
+  pagrindžia:
+    - c-005
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Mstislavlyje esanti Basųjų karmelitų bažnyčia laikoma ryčiausiu Vilniaus baroko mokyklos ir J. K. Glaubitzo kūriniu.'
@@ -68,7 +73,7 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Iki 1362 m. Algirdas užėmė Smolensko kunigaikštijai priklausiusį Mstislavlį.'
+  santrauka: 'Iki 1362 jis užėmė Smolensko kunigaikštijai priklausantį Mogiliavą, Toropiecą, Mstislavlį ir kt.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Iki 1362 jis užėmė Smolensko
@@ -111,3 +116,17 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Algirdui ro D E Vandenų, Maskva ėmė sparčiai ko atiteko Mstislavlis.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Algirdui ro D E Vandenų, Maskva ėmė sparčiai ko
+
+    atiteko Mstislavlis. 2 Kalugą 2.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005

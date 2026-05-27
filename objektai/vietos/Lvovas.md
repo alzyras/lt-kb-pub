@@ -7,8 +7,6 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
-  - '1251 m.'
-  - '1280 m.'
   - '1392 m.'
   - '1919 m.'
   - '1936 m.'
@@ -18,11 +16,10 @@ periodo_grupes:
   - 'LDK'
   - 'modernioji Lietuva'
 amziai:
-  - 'XIII'
   - 'XIV'
   - 'XX'
   - 'XXI'
-date_start: '1251'
+date_start: '1392'
 date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
@@ -56,10 +53,14 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   teiginys: 'Tuo metu, kai Jogaila Vilniuje vykdė savo tautos krikštą, Jadvyga iškilmingai įvažiavo į Lvovą ir suteikė tam miestui privilegiją.'
   pagrindžia:
     - c-004
-- t-007
-  teiginys: 'Lvovas buvo pastatydintas 1280 m. Leono, Danilos iš Haličo sūnaus.'
+- t-005
+  teiginys: 'Jų Gniezno metropolijai priklausė Vilniaus vyskupija, o Lvovo ar­ kivyskupas, kuris jau turėjo savo valdžioj Vladimiro vyskupiją, galėjo dar tikėtis gauti ir Žemaičius, nes jis, kaip Konstancijos susirinkimo įgaliotinis, prisidėjo prie Žemaičių vyskupijos.'
   pagrindžia:
-    - c-007
+    - c-005
+- t-006
+  teiginys: '16 d. išdavė Lvove pri­ vilegiją, kuri taip pat, kaip ir N.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -128,7 +129,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   pagrindžia:
     - t-004
 - c-005
-  santrauka: 'Lvovo arkivyskupas valdė Vladimiro vyskupiją ir galėjo tikėtis gauti Žemaičius.'
+  santrauka: 'Jų Gniezno metropolijai priklausė Vilniaus vyskupija, o Lvovo ar­ kivyskupas, kuris jau turėjo savo valdžioj Vladimiro vyskupiją, galėjo dar tikėtis gauti ir Žemaičius, nes jis, kaip Konstancijos susirinkimo įgaliotinis, prisidėjo prie Žemaičių vyskupijos.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tokiems Vytauto planams stojo skersai kelio lenkai. Jų
@@ -145,7 +146,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   pagrindžia:
     - t-005
 - c-006
-  santrauka: '1392 m. balandžio 16 d. Jogaila Lvove išdavė privilegiją, nukreiptą prieš Vytauto siekimus Lietuvoje.'
+  santrauka: '16 d. išdavė Lvove pri­ vilegiją, kuri taip pat, kaip ir N.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Dar
@@ -161,21 +162,3 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
-- c-007
-  santrauka: 'Lvovas buvo pastatydintas 1280 m. Leono, Danilos iš Haličo sūnaus.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Panašiai ir Varšuva, įkurta 1251 metais, o Lvovas po jos -
-    1280 metais, pastatydintas Leono, Darnios iš Haličo sūnaus. Išsi­
-    laisvinę nuo nepakeliamos kašteliono valdžios, Lenkijos mies­
-    tai, sykiu su teutonų teise suvieniję atleidimą nuo įvairių duok­
-    lių ir krašto teisės prievolių, savo pačių teisėtvarką ir atskirą
-    miesto valdymą, jau buvo galingi ir reikšmingi vietinės civili­
-    zacijos požiūriu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-007

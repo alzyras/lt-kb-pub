@@ -50,9 +50,14 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
   pagrindžia:
     - c-003
 - t-004
-  teiginys: 'Po Ciprijono mirties Vytautas Konstantinopolio patriarchui Eufimėjui pristatė Polocko vyskupą Teodozijų.'
+  teiginys: 'Tuojau po Ciprijono mirties Vytautas Konstantinopolio pa­ triarchui Eufimėjui pristatė Polocko vysk.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'Bet Konstantinopolio stačiatikių sinodas ne tik kad nepaskyrė Cem­ blako metropolitu, bet atėmė iš įo žemutinius šventimus ir ji iš­ keikė.'
+  pagrindžia:
+    - c-005
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Po Ciprijono mirties Vytautas pristatė Konstantinopolio patriarchui Eufimėjui Polocko vyskupą Teodozijų kaip kandidatą į Kijevo metropolitus.'
@@ -114,7 +119,7 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
   pagrindžia:
     - t-003
 - c-004
-  santrauka: 'Po Ciprijono mirties Vytautas Konstantinopolio patriarchui Eufimėjui pristatė Polocko vyskupą Teodozijų.'
+  santrauka: 'Tuojau po Ciprijono mirties Vytautas Konstantinopolio pa­ triarchui Eufimėjui pristatė Polocko vysk.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tuojau po Ciprijono mirties Vytautas Konstantinopolio pa­
@@ -132,7 +137,7 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
   pagrindžia:
     - t-004
 - c-005
-  santrauka: 'Konstantinopolio stačiatikių sinodas nepaskyrė Cemblako metropolitu, atėmė iš jo žemutinius šventimus ir jį iškeikė.'
+  santrauka: 'Bet Konstantinopolio stačiatikių sinodas ne tik kad nepaskyrė Cem­ blako metropolitu, bet atėmė iš įo žemutinius šventimus ir ji iš­ keikė.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Bet
