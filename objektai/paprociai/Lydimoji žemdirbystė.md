@@ -151,6 +151,9 @@ Nenurodyta
     - t-007
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/kasdienybė]]
+
 ### Susiję objektai
 - [[objektai/zodynas/Dvilaukė sistema]]
 - [[objektai/paprociai/Trilaukio ūkio sistema]]

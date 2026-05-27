@@ -6,11 +6,14 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
+datos:
+  - '1392 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+date_start: '1392'
 date_end: ''
 patikimumas: 'vidutinis'
 tags:
@@ -32,6 +35,10 @@ tags:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Konrado Valenrodo šlovė ir riterystės siekis subūrė iš Europos šalių gausius kryžininkų pulkus žygiui į Lietuvą.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -55,16 +62,52 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Konrado Valenrodo šlovė ir riterystės siekis subūrė iš Europos šalių gausius kryžininkų pulkus žygiui į Lietuvą.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Be to, dar leidžia kapitulai
+    imti kas dešimtą sugautą žuvį ka­
+    raliaus tvenkiniuose Vilijos upėje ir
+    įsako, kad jai kasmet iš pilies būtų
+    129
+
+    ## Puslapis 146
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    pasirūpinęs ateičiai savo senosios sostinės gynyba ir ilgų ne­
+    gandos dienų iškamuotų tėvynainių karšto pritarimo sulau­
+    kęs, tvirtybės įgavęs, Jogaila žiemą išvažiavo atgalios į Len­
+    kiją; vis dėlto, kad abi Vilniaus pilys priešams būtų
+    grėsmingesnės, vos tik grįžęs, Olesnickiui atsiuntė naujos pa­
+    spirties - maisto išteklių ir žmonių. Vilniui bemat jos prirei­
+    kė, nes kitais, 1392, metais Europos riteriai taisėsi užplūsti
+    Lietuvą, rengdami dar didesnį žygį į šalį, kuri dar negalėjo
+    naudotis išpažįstamo tikėjimo geradarystėmis, bet jau krikš­
+    čioniška būdama, iš naujų savo tikėjimo brolių ne gynybos
+    sulaukė, o dar žiauresnių smūgių nei totorių antpuoliai. Po
+    visą pasaulį plačiai pasklidęs garsas apie Konrado Valenro­
+    do šlovę, kurį Ordinas iškėlė į didžiuosius magistrus39, jo pa­
+    ties narsa, o pirmiausia nesulaikomas potraukis į riterystę
+    vėl subūrė iš visų Europos šalių gausius ir pajėgius kryži-
+    ninkų pulkus, pasišovusius traukti į vargų prispaustą
+    Lietuvą. Anglija, Škotija ir Prancūzija gerokai papildė sa-
+    duodama 12 pūdų vaško: duodecem
+    talenta cerae Pud dieta, de curia castri
+    nostri Viln.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/upė]]
 
 ### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/asmenys/Bajazitas]]
 - [[objektai/daiktai/Baltas apsiaustas su išsiuvinėtu kalaviju]]
 - [[objektai/grupes/Danijos karaliaus kariai iš Revelio]]

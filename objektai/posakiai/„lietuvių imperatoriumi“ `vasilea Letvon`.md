@@ -50,5 +50,5 @@ Tačiau būtent šių žygių į Maskvą metu 1371 m. laiške Konstantinopolio p
 - [[temos/laiškas]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Algirdas]]
 - [[objektai/zodynas/kunigaikščiai]]

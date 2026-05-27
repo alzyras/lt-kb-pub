@@ -1,0 +1,81 @@
+---
+tipas: grupe
+pavadinimas: "Bremeno pirkliai"
+sukurta: "2026-05-27"
+variantai:
+  - "kolonija iš Bremeno"
+aliases: []
+saltiniai:
+  - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+bukle: juodrastis
+laikotarpis: "1158 m.; apie 1192 m."
+datos:
+  - "1158 m."
+  - "apie 1192 m."
+periodas: "viduramziai"
+periodo_grupes: []
+amziai:
+  - "XII"
+date_start: "1158"
+date_end: "1192"
+vaidmenys:
+  - "pirkliai"
+  - "kolonistai"
+dalyviai: []
+susije_irasai: []
+patikimumas: "vidutinis"
+tags: []
+---
+# Bremeno pirkliai
+
+## Santrauka
+
+Bremeno pirkliai siejami su vokiečių prekybos ryšių prie Dauguvos žiočių pradžia ir Rygos įkūrimo pasakojimu.
+
+## Pavadinimai šaltiniuose
+
+- Bremeno pirkliai
+- kolonija iš Bremeno
+
+## Kas tai
+
+Bremeno kilmės pirklių ir kolonistų grupė Baltijos prekybos kontekste.
+
+## Teiginiai
+- t-001
+  teiginys: "Bremeno pirkliai 1158 m. atrado vakarinės Dvinos, arba Dauguvos, žiotis ir užmezgė vokiečių prekybinius ryšius su pamariu."
+  pagrindžia:
+    - c-001
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: 'Apie 1192 m. kolonija iš Bremeno, regis, įkūrė Rygą.'
+  pagrindžia:
+    - c-001
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  statusas: patvirtinta
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: Bremeno pirklių ryšys su Dauguvos žiotimis ir Ryga.
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tokios gynybos sistemos globoje atsivėrė ke­
+    liai naudotis gausių manufaktūrų, paplitusių Flandrijoje ir
+    Anglijoje, darbo vaisiais. XII amžiuje geriau susipažinta su toli­
+    mesnėmis Baltijos jūros pakrantėmis. Bremeno pirkliai 1158 m.
+    atrado vakarinės Dvinos [Dauguvos] žiotis ir užmezgė preky­
+    binius vokiečių ryšius su tenykščiu pamariu; o apie 1192 metus,
+    regis, kolonija iš Bremeno įkūrė Rygą.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+    - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Vokiečiai]]

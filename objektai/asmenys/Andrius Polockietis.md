@@ -100,6 +100,7 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą. Andrius Polo
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Andrius Algirdaitis]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Sviatoslavas]]
 - [[objektai/grupes/Totoriai]]

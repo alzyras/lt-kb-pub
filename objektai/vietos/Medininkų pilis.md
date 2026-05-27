@@ -57,6 +57,14 @@ Tai pilis, minima tarp Vytauto laikų mūro statinių ir jų sustiprinimo darbų
   teiginys: 'Valdant Gediminui ar jo sūnui Algirdui buvo sukurta visa mūro pilių sistema aplink valstybės branduolį – sostinę: Medininkai, Krėva, Lyda, Trakai, atokiau esančios Gardino ir Kauno pilys.'
   pagrindžia:
     - c-002
+- t-004
+  teiginys: 'Šventasis Kazimieras dažnai viešėdavęs Medininkų pilyje, buvusioje per keturias mylias nuo Vilniaus prie Ašmenos kelio.'
+  pagrindžia:
+    - c-004
+- t-005
+  teiginys: 'Medininkų pilį sudarė keli mediniai pastatai, apjuosti aukšta siena ir grioviu.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -91,6 +99,49 @@ Tai pilis, minima tarp Vytauto laikų mūro statinių ir jų sustiprinimo darbų
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-004
+  santrauka: 'Šventasis Kazimieras dažnai viešėdavęs Medininkų pilyje, buvusioje per keturias mylias nuo Vilniaus prie Ašmenos kelio.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    39
+    Šventasis Kazimieras, kurio mirtis,
+    tapytojo Dankerso pavaizduota
+    al fresco ant kairės Šv. Kazimiero
+    koplyčioje sienos nuo įėjimo, dažnai
+    viešėdavęs per keturias mylias nuo
+    Vilniaus nutolusioje Medininkų pi­
+    lyje, esančioje prie Ašmenos kelio.
+    Medininkų pilį, šiandien priklausan­
+    čią ponui Apolinarui Grabovskiui,
+    sudarė keletas medinių pastatų, ap­
+    juostų aukšta siena ir grioviu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: 'Medininkų pilį sudarė keli mediniai pastatai, apjuosti aukšta siena ir grioviu.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Medininkų pilį, šiandien priklausan­
+    čią ponui Apolinarui Grabovskiui,
+    sudarė keletas medinių pastatų, ap­
+    juostų aukšta siena ir grioviu. Sie­
+    na, sulaukusi mūsų laikų, vra stačia­
+    kampė, 249 uolekčių ilgio, 195 uo­
+    lekčių pločio, aukščio dabar 16 uo­
+    lekčių, bet buvusi daug aukštesnė.
+    Jos storis viršija dvi uolektis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Šaltiniai ir įrodymai
 

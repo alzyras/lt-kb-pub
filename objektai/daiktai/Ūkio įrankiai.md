@@ -73,4 +73,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/Strūnijo|strūnijo]]
+- [[objektai/daiktai/Vilniaus gaisro gesinimo įrankiai]]
 - [[objektai/paprociai/Savarankiškas ūkio ir namų dirbinių gaminimas]]

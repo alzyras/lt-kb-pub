@@ -58,6 +58,6 @@ ją Algimantaitę, Vytauto dvare išauklėtą ir, be to, giminaitę, bet jos kar
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Vytautas]]
 - [[objektai/asmenys/Sofija (Vytauto duktė)]]

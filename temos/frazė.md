@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 8.
+Objektų skaičius: 10.
 
 ## Kaip naudoti
 
@@ -26,4 +26,6 @@ Objektų skaičius: 8.
 - [[objektai/posakiai/Kad tik be arklio nebūtų]]
 - [[objektai/posakiai/Mūsų kraštą pavergti|Mūsų kraštą pavergti (kraštas)]]
 - [[objektai/posakiai/Respublika laikosi netvarka]]
+- [[objektai/posakiai/Vilnius - tai gyva senosios Lietuvos kronika]]
+- [[objektai/posakiai/Vilnius tapo žodžio ir rašto rungtynių lauku]]
 - [[objektai/posakiai/„mylintis savo tėvynę... rusas yra internacionalistas...“]]

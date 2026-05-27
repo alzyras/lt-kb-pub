@@ -43,9 +43,18 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
   pagrindžia:
     - c-003
 - t-004
-  teiginys: 'Šuiskis pajudėjo sausio 23 d. Apie tai Lietuvos didysis etmonas Mykolas Radvila Rudasis žvalgų buvo greitai informuotas, pats jis tuo metu buvo tik apie 100 km nuo Polocko, Lukomlyje.'
+  teiginys: 'Mikalojus Radvila Rudasis buvo greitai informuotas apie P. Šuiskio žygį iš Polocko ir tuo metu buvo Lukomlyje.'
   pagrindžia:
     - c-004
+- t-006
+  teiginys: 'Mikalojus Radvila Rudasis užstojo Vilniaus pirklius ir gyventojus, prašydamas karaliaus atidėti muitus iki būsimo seimo.'
+  pagrindžia:
+    - c-006
+- t-007
+  teiginys: 'Mikalojus Radvila Rudasis laiško užraše vadintas Dubingių ir Biržų kunigaikščiu, Vilniaus vaivada ir LDK vyriausiuoju kancleriu.'
+  pagrindžia:
+    - c-007
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Mikalojus Radvila Rudasis, žvalgų informuotas apie P. Šuiskio žygį, nurodė nedelsiant pradėti žygį jam užkirsti kelią.'
@@ -100,7 +109,7 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
   pagrindžia:
     - t-003
 - c-004
-  santrauka: 'Šuiskis pajudėjo sausio 23 d. Apie tai Lietuvos didysis etmonas Mykolas Radvila Rudasis žvalgų buvo greitai informuotas, pats jis tuo metu buvo tik apie 100 km nuo Polocko, Lukomlyje.'
+  santrauka: 'Mikalojus Radvila Rudasis buvo greitai informuotas apie P. Šuiskio žygį iš Polocko ir tuo metu buvo Lukomlyje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Iš Polocko su savo kariuomene kuni-
@@ -134,14 +143,60 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+- c-006
+  santrauka: 'Mikalojus Radvila Rudasis užstojo Vilniaus pirklius ir gyventojus, prašydamas karaliaus atidėti muitus iki būsimo seimo.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tuomet Vilniaus pirkliai ir gyventojai, prisidengdami pri­
+    vilegijomis, ir spyrėsi nemokėti muito. Radvila užsistojo juos,
+    prašydamas karaliaus šiuos muitus atidėti iki būsimo sei­
+    mo, ir karalius sutiko. Tačiau Torunės seime, kilus ginčams
+    su Gdansku ir kitiems nesutarimams, jokių rinkliavų nusta­
+    tyti nė nemanyta, ir karalius, ne dėl to, kad būtų engęs jam
+    pavaldžius žmones ar norėjęs suvaržyti kurio nors luomo
+    teises bei privilegijas, bet iškilus netikėtiems krašto reika­
+    lams, visų pirma dėl Livonijos ir Lietuvos sienų gynybos,
+    norėdamas, kad pirkliai iš nemažų savo prekybos pajamų
+    ką nors kraštui paskirtų, kas jiems su kaupu sugrįš iš užsie­
+    nio prekybos, bet nebūtų rizikuojama sienų saugumu, įsakė
+    tuojau pat rinkti muitus. Dėl Vilniaus Batoras pareikalavo
+    iš vaivados Radvilos, kad šis neprieštaraudamas savo auto­
+    ritetu paakintų visus mokėti nustatytus muitus, o iš Vilniaus
+    miestiečių, be to, dar išreikalautų Czopowe i Szosowe mokes­
+    čius*.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: 'Mikalojus Radvila Rudasis laiško užraše vadintas Dubingių ir Biržų kunigaikščiu, Vilniaus vaivada ir LDK vyriausiuoju kancleriu.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Užrašas ant laiško: Illustri ac Magnifico Domino
+    Nicolao Radivilo Duci in Dubingi et Berze Palatino Vilnensi ac
+    Magni Ducatus Lit. Suppremo Cancellario, Moziriensi, Lidens.
+    Capitaneo etc. etc. syncere nobis dilecto [Šviesiajam ir prakil­
+    niajam ponui Mikalojui Radvilai, Dubingių ir Biržų kuni­
+    gaikščiui, Vilniaus vaivadai ir vyriausiajam Lietuvos Didžio­
+    sios Kunigaikštystės kancleriui, Mozyriaus, Lydos seniūnui
+    ir 1.1, ir 1.1., mūsų nuoširdžiai mylimam].
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/didikas]]
 
 ### Susiję objektai
-- [[objektai/grupes/Maskvėnai]]
-- [[objektai/zodynas/etmonas]]
-- [[objektai/zodynas/hetmonas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/žygis]]
+- [[objektai/zodynas/luomas]]
+- [[objektai/zodynas/seniūnas]]
+- [[objektai/zodynas/vaivada]]
+- [[objektai/asmenys/Mikalojus (Gniezno arkivyskupas)]]

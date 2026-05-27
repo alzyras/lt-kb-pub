@@ -243,3 +243,4 @@ Nenurodyta
 - [[objektai/daiktai/1916 m. modelio 77 mm vokiška patranka]]
 - [[objektai/asmenys/M. Dejevas]]
 - [[objektai/daiktai/Patranka Hidra]]
+- [[objektai/grupes/Vilniaus miestiečių luomas]]

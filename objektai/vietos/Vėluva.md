@@ -40,13 +40,13 @@ tags:
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: '(^252) ii skyrius: valstybės iškilimas Jis ordinui atsilygino panašiais teriojimais jo paties žemėse, pasiek­ damas Įsručio ir Vėluvos apylinkes.'
+  teiginys: 'Žygis Ordino žemėse pasiekė Įsručio ir Vėluvos apylinkes.'
   pagrindžia:
     - c-002
-- t-003
-  teiginys: '81 Vechra, upė 287, 312 Vedrošos kautynės 39 Veiviržo upė 180 Vėjukų pilis 227, 235 Velikaja, upė 158 Veliuona 77, 100, 105, 216, 236, 237, 244, 251, 256, 345-347, 352, 353, 357, 358, 360 Vėluva, Prūsuose 250, 252 Vencelis, Čekijos karalius 62, 373, žr.'
+- t-004
+  teiginys: 'Rugpjūtį lietuviai prasigavo iki Vėluvos apylinkių, sudegino šešis kaimus ir nužudė Fridrichą fon Quitzą su 36 kariais.'
   pagrindžia:
-    - c-003
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -67,7 +67,7 @@ tags:
   pagrindžia:
     - t-001
 - c-002
-  santrauka: '(^252) ii skyrius: valstybės iškilimas Jis ordinui atsilygino panašiais teriojimais jo paties žemėse, pasiek­ damas Įsručio ir Vėluvos apylinkes.'
+  santrauka: 'Žygis Ordino žemėse pasiekė Įsručio ir Vėluvos apylinkes.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     **
@@ -84,26 +84,23 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-- c-003
-  santrauka: '81 Vechra, upė 287, 312 Vedrošos kautynės 39 Veiviržo upė 180 Vėjukų pilis 227, 235 Velikaja, upė 158 Veliuona 77, 100, 105, 216, 236, 237, 244, 251, 256, 345-347, 352, 353, 357, 358, 360 Vėluva, Prūsuose 250, 252 Vencelis, Čekijos karalius 62, 373, žr.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+- c-004
+  santrauka: 'Rugpjūtį lietuviai prasigavo iki Vėluvos apylinkių, sudegino šešis kaimus ir nužudė Fridrichą fon Quitzą su 36 kariais.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    81
-    Vechra, upė 287, 312
-    Vedrošos kautynės 39
-    Veiviržo upė 180
-    Vėjukų pilis 227, 235
-    Velikaja, upė 158
-    Veliuona 77, 100, 105, 216, 236, 237,
-    244, 251, 256, 345-347, 352, 353,
-    357, 358, 360
-    Vėluva, Prūsuose 250, 252
-    Vencelis, Čekijos karalius 62, 373,
-    žr.
+    Tokios
+    didelės sėkmės padrąsinti, lietuviai vėliau, rugpjūtį, prasi-
+    gavo net iki Wehlau [Vėluva] apylinkių, kur sudegino šešis
+    kaimus ir įtakingą kryžiuotį Fridrichą fon Quitzą kartu su
+    trisdešimt šešiais kariais nužudė8.
+    Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­
+    nės kunigaikštystė, kurią maždaug tuo metu valdė kuni­
+    gaikštienė Anastazija, kaimyninė Mazovija bei artimos apy­
+    linkės1 1 .
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-003
+    - t-004

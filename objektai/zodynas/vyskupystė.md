@@ -52,7 +52,7 @@ Todėl tuojau po krikšto Jogaila įkūrė Vilniaus vyskupystę, pastatė katedr
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/asmenys/Jogaila]]
 - [[objektai/paprociai/Blaivybės brolijų ir blaivybės skelbimo praktika]]
 - [[objektai/ivykiai/Blaivybės brolijų kūrimas ir plitimas Žemaičių vyskupystėje (1858—1859 m.)]]
 - [[objektai/zodynas/grašis]]

@@ -75,6 +75,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/asmenys/Hlebas]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Vytautas]]
 - [[objektai/zodynas/chanas]]
 - [[objektai/zodynas/kunigaikščiai]]

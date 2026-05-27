@@ -471,7 +471,7 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
 
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Algirdas]]
 - [[objektai/grupes/Komjaunimas]]
 - [[objektai/grupes/Liaudies vyriausybė]]
 - [[objektai/grupes/Lietuviai]]

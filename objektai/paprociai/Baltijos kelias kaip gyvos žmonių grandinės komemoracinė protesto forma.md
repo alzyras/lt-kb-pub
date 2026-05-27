@@ -92,6 +92,6 @@ tags: []
 
 ### Susiję objektai
 - [[objektai/grupes/Estai]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/asmenys/Hermanas]]
 - [[objektai/grupes/Latviai]]

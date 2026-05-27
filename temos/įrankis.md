@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 8.
+Objektų skaičius: 11.
 
 ## Kaip naudoti
 
@@ -23,10 +23,13 @@ Objektų skaičius: 8.
 - [[objektai/autoriai/P. Dundulienė]]
 
 ### Daiktai
+- [[objektai/daiktai/Akademijos observatorijos prietaisai]]
+- [[objektai/daiktai/Akademijos teatro įranga]]
 - [[objektai/daiktai/Geležiniai ginklai ir įrankiai]]
 - [[objektai/daiktai/Geležiniai įrankiai]]
 - [[objektai/daiktai/Gitara „Zemaitis“]]
 - [[objektai/daiktai/Pieno perdirbimo įranga ir šaldytuvai]]
+- [[objektai/daiktai/Vilniaus gaisro gesinimo įrankiai]]
 - [[objektai/daiktai/Žemdirbystės įrankiai]]
 
 ### Posakiai

@@ -74,6 +74,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/daiktai/Kardas]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]

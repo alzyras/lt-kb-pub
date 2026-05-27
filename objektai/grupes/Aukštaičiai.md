@@ -184,8 +184,9 @@ tags:
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Mindaugas]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Algirdas]]
 - [[objektai/autoriai/Edv. Volteris]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/ivykiai/Gedimino taikos sutartis su Livonija (1322 m.)]]
 - [[objektai/ivykiai/Žemaičių sukilimas 1418 m|Žemaičių sukilimas 1418 m (sukilimas)]]
 - [[objektai/posakiai/„krikščionys turi raudoti dėl jo mirties“]]

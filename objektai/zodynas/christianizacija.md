@@ -61,7 +61,6 @@ Adalberto misija Prūsijoje (997), Norvegijos valdovo Olafo pradėta šalies chr
 - [[objektai/asmenys/Steponas]]
 - [[objektai/asmenys/Steponas (Vengrijos valdovas)]]
 - [[objektai/autoriai/Sužiedėlis, S]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/autoriai/W. Semkowicz]]
 - [[objektai/zodynas/konversija christianizacija europeizacija]]
 - [[objektai/autoriai/Šležas, P]]

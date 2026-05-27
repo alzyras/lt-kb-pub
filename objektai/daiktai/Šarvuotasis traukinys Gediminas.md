@@ -148,7 +148,7 @@ Nenurodyta
 - [[objektai/daiktai/Artilerija]]
 - [[objektai/grupes/Bermontininkai]]
 - [[objektai/grupes/Bolševikai]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/asmenys/Jonas Kraucevičius]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

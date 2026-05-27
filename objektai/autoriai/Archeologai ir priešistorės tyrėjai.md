@@ -125,4 +125,5 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Vilniaus gaisro gesinimo įrankiai]]
 - [[objektai/zodynas/feodalizmas]]

@@ -125,3 +125,4 @@ Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų tautinio sąjūd
 - [[objektai/grupes/Varmiai]]
 - [[objektai/ivykiai/„Aušros“ leidimo pradžia]]
 - [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)]]
+- [[objektai/zodynas/Vidivarijai]]

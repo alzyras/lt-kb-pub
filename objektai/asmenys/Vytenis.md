@@ -8,14 +8,15 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
-  - '1316 m.'
+  - '1283 m.'
   - '1341 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
+  - 'XIII'
   - 'XIV'
-date_start: '1316'
+date_start: '1283'
 date_end: '1341'
 patikimumas: 'vidutinis'
 tags:
@@ -42,13 +43,29 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: 'Liutavėro sūnus karingas Vytenis, pirmasis jau gana ge­ rai žinomas naujos ilgai Lietuvą valdžiusios dinastijos atsto­ vas.'
+  teiginys: 'Vytenis buvo karingas Liutavėro sūnus ir pirmasis gerai žinomas ilgai Lietuvą valdžiusios dinastijos atstovas.'
   pagrindžia:
     - c-003
 - t-004
-  teiginys: 'Dinastijai vardą davė garsiausias jos atstovas – Vytenio brolis Gediminas (valdęs 1316–1341 m.).'
+  teiginys: 'Vytenio brolis Gediminas, valdęs 1316–1341 m., davė vardą Gediminaičių dinastijai.'
   pagrindžia:
     - c-004
+- t-006
+  teiginys: 'Vytenis nurodomas kaip Traidenio sūnus, didysis Lietuvos kunigaikštis, nužudytas 1315 m.'
+  pagrindžia:
+    - c-006
+- t-008
+  teiginys: 'Vytenis viešpatavo Lietuvoje ir mirė apie 1315 m.'
+  pagrindžia:
+    - c-008
+- t-009
+  teiginys: 'Vytenis laišku prašė popiežiaus legatą Pranciškų ir Rygos arkivyskupą Fridrichą atsiųsti minoritų.'
+  pagrindžia:
+    - c-009
+- t-010
+  teiginys: 'Vytenis prašė atsiųsti du pranciškonų ordino brolius ir paskyrė jiems vietą bei jau pastatytą bažnyčią.'
+  pagrindžia:
+    - c-010
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -86,7 +103,7 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Liutavėro sūnus karingas Vytenis, pirmasis jau gana ge­ rai žinomas naujos ilgai Lietuvą valdžiusios dinastijos atsto­ vas.'
+  santrauka: 'Vytenis buvo karingas Liutavėro sūnus ir pirmasis gerai žinomas ilgai Lietuvą valdžiusios dinastijos atstovas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     ```
@@ -106,7 +123,7 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   pagrindžia:
     - t-003
 - c-004
-  santrauka: 'Dinastijai vardą davė garsiausias jos atstovas – Vytenio brolis Gediminas (valdęs 1316–1341 m.).'
+  santrauka: 'Vytenio brolis Gediminas, valdęs 1316–1341 m., davė vardą Gediminaičių dinastijai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Dinastijai vardą davė garsiausias jos atstovas – Vytenio brolis Gedimi-
@@ -119,11 +136,94 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-006
+  santrauka: 'Vytenis nurodomas kaip Traidenio sūnus, didysis Lietuvos kunigaikštis, nužudytas 1315 m.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    -1
+    '
+    - --- - -■  N
+    VYTENIS, Traidenio sūnus,
+    did. Lietuvos kunigaikštis
+    1283 m., nužudytas 1315 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-008
+  santrauka: 'Vytenis viešpatavo Lietuvoje ir mirė apie 1315 m.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Šitai vyko viešpataujant Lie­
+    tuvoje Vyteniui, kuris mirė apie 1315 metus. Kita užuomina
+    Dusburgo kronikoje apie Castrum Gedemini [Gedimino pilį]
+    yra prie 1317 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: 'Vytenis laišku prašė popiežiaus legatą Pranciškų ir Rygos arkivyskupą Fridrichą atsiųsti minoritų.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Juk val­
+    dovas Vytenis laišku popiežiaus legatą Pranciškų ir Rygos
+    arkivyskupą Fridrichą irgi prašė atsiųsti jam tam tikrą skai­
+    čių minoritų, kuriems jau pastatytą bažnyčią norėjo' skirti;
+    tik greitai Ordinas, tai sužinojęs, ginkluotą būrį jai sudegin­
+    ti pasiuntė. Juk taip pat nedorai Ordinas elgiasi ir su garbin­
+    gąja dvasininkijos diduomene, kaip antai arkivyskupais Jo­
+    nu ir Fridrichu, juk tokius kraštus kaip Žiemgalą bei kitus
+    verčia dykynėmis, visada sakydami, jog visa tai daroma
+    krikščionybei ginti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: 'Vytenis prašė atsiųsti du pranciškonų ordino brolius ir paskyrė jiems vietą bei jau pastatytą bažnyčią.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Taip pat mūsų pirmtakas karalius Vytenis buvo pasiun­
+    tęs savo laišką ponui legatui Pranciškui ir ponui arkivysku­
+    pui Fridrichui, prašydamas, kad jie atsiųstų jam du brolius
+    iš pranciškonų ordino, [drauge] paskirdamas jiems vietą ir
+    jau pastatytą bažnyčią. Apie tai sužinoję, Prūsijos iš teutonų
+    namo broliai pasiuntė aplinkiniais keliais savo kariuomenę
+    ir minėtą bažnyčią sudegino.
+    Taip pat jie smurtu ima ponus arkivyskupus ir vyskupus,
+    ir dvasininkus, kaip matyti pono Jono atveju, kuris buvo
+    numarintas kurijoje viešpaties Bonifacijaus metu, ir pono
+    85
+
+    ## Puslapis 102
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    sancte et Reverende, nos christianos non impugnamus, ut fi­
+    dem catholicam destruamus, sed ut iniuriis nostris resista­
+    mus, sicut faciunt Reges et principes christiani, quod patet
+    quia hahemus nohiscum fratres de ordine fratrum minorum
+    et de ordine fratrum predicatorum, quihus dedimus plenam
+    libertatem baptizandi, predicandi et alia sacra ministrandi.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
-- [[objektai/autoriai/Dusburgas]]
 - [[objektai/ivykiai/Junigėdos puolimas laivu ir Surmino kontrataka (1313 m.)]]
 - [[objektai/posakiai/Lietuva, sako Gediminas, nekariaujanti su krikščionybe ji teginanti savo laisvę|Lietuva, sako Gediminas, nekariaujanti su krikščionybe: ji teginanti savo laisvę]]
 - [[objektai/ivykiai/Polocko užvaldymas ir Naugarduko metropolijos įkūrimas (apie 1300 m.)]]

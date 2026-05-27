@@ -1,0 +1,124 @@
+---
+tipas: ivykis
+pavadinimas: "Jogailos grįžimas į nuniokotą Vilnių ir miesto atkūrimo pradžia (1390 m. lapkritis)"
+sukurta: "2026-05-27"
+variantai: []
+aliases: []
+saltiniai:
+  - "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+bukle: juodrastis
+laikotarpis: "1390 m. lapkritis"
+datos:
+  - "1390 m. lapkritis"
+periodas: "viduramziai"
+periodo_grupes: []
+amziai:
+  - "XIV"
+date_start: "1390"
+date_end: "1390"
+vaidmenys: []
+dalyviai: []
+susije_irasai: []
+patikimumas: "vidutinis"
+tags: []
+---
+# Jogailos grįžimas į nuniokotą Vilnių ir miesto atkūrimo pradžia (1390 m. lapkritis)
+
+## Santrauka
+
+1390 m. lapkritį Jogaila su kariuomene grįžo iš Lenkijos į nuniokotą Vilnių, atgabeno maisto ir drabužių atsargų bei jas dalijo gyventojams. Po jo grįžimo išsisklaidę gyventojai pamažu telkėsi ir pradėjo statytis namus ant degėsių, o Vilniaus seniūno pareigos buvo perduotos Jonui Olesnickiui.
+
+## Laikotarpis ir datos
+- laikotarpis: 1390 m. lapkritis
+- datos:
+  - 1390 m. lapkritis
+- periodas: viduramziai
+- amziai: XIV
+- date_start: 1390
+- date_end: 1390
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
+## Teiginiai
+- t-001
+  teiginys: "1390 m. lapkritį Jogaila su kariuomene grįžo iš Lenkijos į griuvėsiais virtusį Vilnių ir dalijo gyventojams atgabentas atsargas."
+  pagrindžia:
+    - c-001
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  statusas: patvirtinta
+- t-002
+  teiginys: "Po Jogailos grįžimo išsisklaidę gyventojai pradėjo telktis ir statytis namus ant degėsių."
+  pagrindžia:
+    - c-001
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  statusas: patvirtinta
+- t-003
+  teiginys: 'Moskoževskiui grąžinus Vilniaus seniūno pareigas, Jogaila jas pavedė Jonui Olesnickiui.'
+  pagrindžia:
+    - c-002
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  statusas: patvirtinta
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: Jogailos grįžimas į nuniokotą Vilnių ir pagalba gyventojams.
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Liūdnas buvo Vilniaus miesto ir jo apylinkių vaizdas 1390
+    metų pabaigoje, kai karalius Vladislovas Jogaila, nors jau
+    pavėluotai, pagaliau susiruošė gelbėti sielvarto prislėgtos
+    tėvynės ir su gausia kariuomene lapkričio mėnesį iš Lenki­
+    jos parvyko į griuvėsiais virtusį gimtąjį miestą. Nemažos
+    maisto ir drabužių atsargos, karaliaus atsigabentos iš Len­
+    kijos ir dosniai dalijamos liaudžiai, pravertė visą turtą pra-
+    radusiems gyventojams, o karaliaus buvimas stiprino tie­
+    kos negandų nualintą jų dvasią. Pamažu ėmė telktis išsisklaidę
+    gyventojai ir statytis namus ant degėsių.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-001
+    - t-002
+- c-002
+  santrauka: 'Moskoževskiui grąžinus Vilniaus seniūno pareigas, Jogaila jas pavedė Jonui Olesnickiui.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Nemažos
+    maisto ir drabužių atsargos, karaliaus atsigabentos iš Len­
+    kijos ir dosniai dalijamos liaudžiai, pravertė visą turtą pra-
+    radusiems gyventojams, o karaliaus buvimas stiprino tie­
+    kos negandų nualintą jų dvasią. Pamažu ėmė telktis išsisklaidę
+    gyventojai ir statytis namus ant degėsių. Tačiau Moskožev-
+    skis, iškamuotas nesibaigiančių karo rūpesčių ir nebenorėda­
+    mas taikstytis su Skirgailos paikais įnoriais, grąžino karaliui
+    Vilniaus seniūno pareigas, kurias Jogaila tuojau pat pavedė
+    Jonui Olesnickiui, gerokai sustiprinusiam abiejų pilių įgu­
+    las37.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-003
+
+## Ryšiai
+### Teminiai klasteriai
+- [[temos/politinis-sprendimas]]
+
+### Susiję objektai
+- [[objektai/daiktai/Drabužiai]]
+- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Skirgaila]]
+- [[objektai/asmenys/Vladislovas]]
+- [[objektai/zodynas/seniūnas]]

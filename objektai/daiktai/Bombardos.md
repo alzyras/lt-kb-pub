@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
+  - '1383 m.'
   - '1384 m.'
   - '1978 m.'
   - '2026 m.'
@@ -17,7 +18,7 @@ amziai:
   - 'XIV'
   - 'XX'
   - 'XXI'
-date_start: '1384'
+date_start: '1383'
 date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
@@ -57,13 +58,13 @@ Nenurodyta
   pagrindžia:
     - c-002
 - t-003
-  teiginys: 'Po keturių savaičių apgulties, po daugelio susidūrimų meistras Hermanas vienoje pilies angoje pastatė bombardą prieš lietuvius, tačiau lietuviai, priešpriešiais įtaisę tokį pat pabūklą, užmušė minėtą meistrą.'
+  teiginys: 'Per apgultį meistras Hermanas pilies angoje pastatė bombardą prieš lietuvius, bet lietuviai tokiu pat pabūklu jį užmušė.'
   pagrindžia:
     - c-003
-- t-004
-  teiginys: 'O 1384 m. rudenį abu pusbroliai su bombardomis apgulė Kauno Marienwerderi.'
+- t-005
+  teiginys: '1383 m. kryžiuočiams puolant Trakų pilį, jos mūrai buvo sugriauti bombardomis, o įgula priversta pasiduoti.'
   pagrindžia:
-    - c-004
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -100,7 +101,7 @@ Nenurodyta
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Po keturių savaičių apgulties, po daugelio susidūrimų meistras Hermanas vienoje pilies angoje pastatė bombardą prieš lietuvius, tačiau lietuviai, priešpriešiais įtaisę tokį pat pabūklą, užmušė minėtą meistrą.'
+  santrauka: 'Per apgultį meistras Hermanas pilies angoje pastatė bombardą prieš lietuvius, bet lietuviai tokiu pat pabūklu jį užmušė.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Po keturių savaičių apgulties, po dauge-
@@ -119,7 +120,7 @@ Nenurodyta
   pagrindžia:
     - t-003
 - c-004
-  santrauka: 'O 1384 m. rudenį abu pusbroliai su bombardomis apgulė Kauno Marienwerderi.'
+  santrauka: '1384 m. rudenį Jogaila ir Vytautas su bombardomis apgulė Kauno Marienwerderį.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     O 1384 m. rudenį abu
@@ -133,8 +134,30 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: '1383 m. kryžiuočiams puolant Trakų pilį, jos mūrai buvo sugriauti bombardomis, o įgula priversta pasiduoti.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tačiau kiti, 1383 metai, atnešė Vilniui dar
+    didesnę nelaimę. Didelė kryžiuočių kariauna, vadovauja­
+    ma Ordino didžiojo magistro ir maršalo Konrado Valen­
+    rodo, išvien su Vytautu ir jo šalininkais atžygiavę atsiimti
+    Skirgailos užvaldyto šio paveldo, rugsėjo 11-ą apsupo Tra­
+    kų pilį. Nepaisant įnirtingos gynybos, kelias dienas užsi­
+    tęsus atakai, mūrai buvo bombardų sugriauti, įgula pri­
+    versta pasiduoti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Skirgaila]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/maršalas]]
+- [[objektai/zodynas/Miera|miera]]

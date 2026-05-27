@@ -93,4 +93,5 @@ Kuruta, bet pastarasis vadovavimą (laikinai) perdavė gabiam generolui leitenan
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Parakas]]
 - [[objektai/grupes/Rytas]]

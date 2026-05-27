@@ -8,13 +8,15 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1919 m.'
+  - '2007 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
   - 'modernioji Lietuva'
 amziai:
   - 'XX'
+  - 'XXI'
 date_start: '1919'
-date_end: ''
+date_end: '2007'
 patikimumas: 'vidutinis'
 tags:
   - autorius
@@ -33,7 +35,10 @@ tags:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-
+- t-002
+  teiginys: 'Stasio Šalkauskio „Raštų“ I–VIII tomai buvo išleisti 1990–2005 m.'
+  pagrindžia:
+    - c-002
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Stasys Šalkauskis lietuvių tautos pašaukimą aiškino lietuvių gyvenimu tarp slavų ir germanų pasaulių.'
@@ -54,9 +59,32 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Stasio Šalkauskio „Raštų“ I–VIII tomai buvo išleisti 1990–2005 m.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Kaina sutartinė
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Germanai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Slavai]]
+    ## Puslapis 495
+
+    Išleista:
+    Jozefas Frankas
+    Atsiminimai apie Vilnių, 2001
+    Žygimantas Liauksminas
+    Rinktiniai raštai, 2004
+    Teodoras Narbutas
+    Lietuvių tautos istorija, I-V tomai, 1995-2001
+    Stasys Šalkauskis
+    Raštai, I-VIII tomai, 1990-2005
+    Vincas Vyčinas
+    Raštai, I-II tomai, 2002-2007
+    Rengiama spaudai:
+    Sudarytojas Antanas Katalynas
+    Estetika - XX a.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

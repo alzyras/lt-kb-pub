@@ -127,7 +127,7 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
 ### Susiję objektai
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Vytautas]]
 - [[objektai/asmenys/Andrius Algirdaitis Polockietis]]
 - [[objektai/asmenys/Burundajus]]
 - [[objektai/asmenys/Chudandachas]]
@@ -136,7 +136,6 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
 - [[objektai/asmenys/Dmitrijus Algirdaitis Brenskietis]]
 - [[objektai/asmenys/Ediga]]
 - [[objektai/asmenys/Edyga]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
 - [[objektai/asmenys/Jonas Survila]]
 - [[objektai/asmenys/Kiprijonas]]
 - [[objektai/paprociai/LDK rusų žemių duoklės mokėjimas Aukso ordai]]

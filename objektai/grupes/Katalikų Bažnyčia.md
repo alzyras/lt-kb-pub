@@ -51,11 +51,11 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Mindaugas įžvalgiai pasirinko pagalbininką – Livonijos ordino brolį kunigą Kristijoną, iš kurio gavo informaciją apie Katalikų bažnyčios organizaciją ir popiežiaus santykius su Europos valdovais, ypač imperatoriumi.'
+  teiginys: 'Mindaugas iš kunigo Kristijono sužinojo apie Katalikų Bažnyčios organizaciją ir popiežiaus santykius su Europos valdovais.'
   pagrindžia:
     - c-002
 - t-003
-  teiginys: 'Vytauto bažnytinės politikos metu bandyta steigti atskirą Lietuvos katalikų bažnyčios provinciją.'
+  teiginys: 'Vytauto bažnytinėje politikoje bandyta steigti atskirą Lietuvos katalikų bažnyčios provinciją.'
   pagrindžia:
     - c-003
 - t-004
@@ -67,7 +67,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   pagrindžia:
     - c-005
 - t-006
-  teiginys: 'Lietuvos katalikai – ir pats Vilniaus vyskupas Valerijonas Protasevičius – stengėsi užbėgti už akių protestantų ketinimui įkurti kolegiją.'
+  teiginys: 'Lietuvos katalikai ir Vilniaus vyskupas Valerijonas Protasevičius siekė užbėgti už akių protestantų ketinimui įkurti kolegiją.'
   pagrindžia:
     - c-006
 - t-007
@@ -83,7 +83,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   pagrindžia:
     - c-009
 - t-010
-  teiginys: 'Nesitaikstanti visuomenė Lietuva buvo vienintelė prie Sovietų Sąjungos prijungta katalikiška šalis.'
+  teiginys: 'Lietuva buvo vienintelė prie Sovietų Sąjungos prijungta katalikiška šalis.'
   pagrindžia:
     - c-010
 - t-011
@@ -98,7 +98,14 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   teiginys: 'Nors „Kronika“ skirta tikinčiajai visuomenei ir kėlė tik tikėjimo reikalus, ji virto Katalikų bažnyčios pasipriešinimo sovietų valdžiai simboliu, mokė tvirtybės.'
   pagrindžia:
     - c-013
-
+- t-014
+  teiginys: 'Vilniaus vyskupas Povilas tyrė Abraomo Kulviečio mokymą, kurį laikė Romos katalikų Bažnyčios pasmerktu.'
+  pagrindžia:
+    - c-014
+- t-015
+  teiginys: 'Valerijonas atsisakė priesaika įsipareigoti sąlygoms, kurios prieštaravo katalikų tikėjimui.'
+  pagrindžia:
+    - c-015
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1417 m. gegužės 13 d. popiežius Martynas V pavedė Vytautui ir Jogailai kurti bažnyčias, globoti kunigiją ir ginti tikėjimą.'
@@ -120,7 +127,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Mindaugas įžvalgiai pasirinko pagalbininką – Livonijos ordino brolį kunigą Kristijoną, iš kurio gavo informaciją apie Katalikų bažnyčios organizaciją ir popiežiaus santykius su Europos valdovais, ypač imperatoriumi.'
+  santrauka: 'Mindaugas iš kunigo Kristijono sužinojo apie Katalikų Bažnyčios organizaciją ir popiežiaus santykius su Europos valdovais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Mindaugas įžvalgiai pasirinko pagalbininką – Livonijos ordino bro-
@@ -136,7 +143,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Vytauto bažnytinės politikos metu bandyta steigti atskirą Lietuvos katalikų bažnyčios provinciją.'
+  santrauka: 'Vytauto bažnytinėje politikoje bandyta steigti atskirą Lietuvos katalikų bažnyčios provinciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Be to, dar bandyta steigti atskirą Lietuvos katalikų bažnyčios provinci-
@@ -190,7 +197,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   pagrindžia:
     - t-005
 - c-006
-  santrauka: 'Lietuvos katalikai – ir pats Vilniaus vyskupas Valerijonas Protasevičius – stengėsi užbėgti už akių protestantų ketinimui įkurti kolegiją.'
+  santrauka: 'Lietuvos katalikai ir Vilniaus vyskupas Valerijonas Protasevičius siekė užbėgti už akių protestantų ketinimui įkurti kolegiją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Aišku, aukštosios mokyklos poreikis brendo visuo-
@@ -251,7 +258,7 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   pagrindžia:
     - t-009
 - c-010
-  santrauka: 'Nesitaikstanti visuomenė Lietuva buvo vienintelė prie Sovietų Sąjungos prijungta katalikiška šalis.'
+  santrauka: 'Lietuva buvo vienintelė prie Sovietų Sąjungos prijungta katalikiška šalis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nesitaikstanti visuomenė
@@ -318,30 +325,61 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-013
+- c-014
+  santrauka: 'Vilniaus vyskupas Povilas tyrė Abraomo Kulviečio mokymą, kurį laikė Romos katalikų Bažnyčios pasmerktu.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Šiuo raštu skelbiame visiems, kam dera žinoti,
+    kad didžiai gerbiamas Kristuje tėvas ponas Povilas, Vilniaus
+    vyskupas, sužinojo, kad kažkoks lietuvis Abraomas iš Kul­
+    vos, mūsų valdinys, ne tik pats nesilaiko vienybės su šven­
+    tąja Romos katalikų Bažnyčia, bet ir daugelį kitų naujais
+    mokslais suklaidina. Suvokdamas, kad jo ganytojiškoms
+    pareigoms priklauso rūpintis, kad jam patikėta kaimenė
+    dogmomis apnuodytu pašaru nebūtų pavojingai nuodija­
+    ma, nutarė kuo rūpestingiausiai ir kruopščiausiai išsiaiš­
+    kinti viską apie Abraomo gyvenimą, papročius, mokslą ir
+    išsiaiškino bei iš patikimų ir pasitikėjimo vertų, priesaiką
+    davusių žmonių liudijimų patyrė, kad anas tiek žodžiais,
+    tiek darbais sąmoningai išpažįsta svetimą, Romos katalikų
+    Bažnyčios pasmerktą mokslą, taip pat stengiasi, kad kartu
+    su juo ir visi kiti Didžiosios Kunigaikštystės žmonės tiems
+    bedieviškiems jo įtikinėjimams paklustų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
+- c-015
+  santrauka: 'Valerijonas atsisakė priesaika įsipareigoti sąlygoms, kurios prieštaravo katalikų tikėjimui.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Bet negalime karštai negirti to
+    paties didžiai gerbiamo Kristuje tėvo pono Valerijono už są­
+    žinės atvirumą, pareigingumą, pamaldumą ir tikėjimą, kai
+    šios rūšies sąlygas atmetė ir taip pat mus ragino ir įspėjo,
+    kad su ja nesutiktume, ir šio dalyko paliudijimą jam norėjo­
+    me suteikti ir suteikiame šiuo mūsų raštu, visiems išaiški­
+    nančiu, kad jo Prakilnybė nieko, kas išmintingam senato­
+    riui ir pamaldžiam bei mūsų išganymu besirūpinančiam
+    ganytojui ir vyskupui pagal tikėjimą galėjo priklausyti, šiuo
+    reikalu nepraleido. Jo Prakilnybė nenorėjo priesaika įsipa­
+    reigoti [sutikdamas su] šiomis sąlygomis, kurios prieštarauja
+    katalikų tikėjimui. Šio dalyko patikimumui dabartinį raštą
+    savo ranka pasirašėme ir liepėme mūsų antspaudą prika­
+    binti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/ivykiai/Florencijos bažnytinė unija|Florencijos bažnytinė unija (unija)]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Mikalojus (Gniezno arkivyskupas)]]
-- [[objektai/asmenys/Mikalojus Radvila Juodasis]]
-- [[objektai/asmenys/Mindaugas]]
-- [[objektai/grupes/Protestantai]]
-- [[objektai/grupes/Stačiatikiai]]
-- [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
-- [[objektai/zodynas/bažnytinė unija|bažnytinė unija (unija)]]
-- [[objektai/zodynas/kunigas]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/metropolija]]
-- [[objektai/zodynas/metropolitas]]
-- [[objektai/zodynas/pradai]]
-- [[objektai/zodynas/protestantizmas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/zodynas/unija]]
-- [[objektai/zodynas/vaivada]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/metropolija bažnytinė provincija]]
 - [[objektai/zodynas/metropolija bažnytinė provincija bažnytinė unija|metropolija bažnytinė provincija bažnytinė unija (unija)]]
-- [[objektai/zodynas/akcijos]]
 - [[objektai/asmenys/Gregorijus Cemblakas]]
-- [[objektai/asmenys/Kristijonas|Kristijonas (vyskupas)]]

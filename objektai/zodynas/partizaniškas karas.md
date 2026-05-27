@@ -50,7 +50,7 @@ Tada Kęstutis su sūnum Vytautu pradėjo su jais partizanišką karą.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Algirdas]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Kęstutis]]
 - [[objektai/zodynas/maršalka]]

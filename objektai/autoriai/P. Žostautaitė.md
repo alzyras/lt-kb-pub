@@ -61,4 +61,5 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/Cechas]]
 - [[objektai/grupes/Lietuviai]]

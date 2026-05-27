@@ -58,7 +58,7 @@ pasimirus Haličo Boleslovui Jurgiui Traidenaičiui, dėl Haličo ir Volynijos s
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/asmenys/Kazimieras]]
 - [[objektai/asmenys/Švitrigaila]]
 - [[objektai/asmenys/Kazimieras Didysis]]

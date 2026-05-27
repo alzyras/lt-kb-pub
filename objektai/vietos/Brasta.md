@@ -8,7 +8,12 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
   - '1399 m.'
+  - '1505 m.'
+  - '1544 m.'
+  - '1545 m.'
   - '1553 m.'
+  - '1570 m.'
+  - '1571 m.'
   - '1575 m.'
   - '1596 m.'
   - '1792 m.'
@@ -52,19 +57,19 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: 'Vytenis taip pat atgavo didžiąją dalį Palenkės (irgi jotvingų žemes, kurias buvo užėmę tie patys Voluinės ir Mozūrų kunigaikščiai), prijungė prie Lietuvos jau Traidenio laikinai užimtą Drohičiną ir Brastą.'
+  teiginys: 'Vytenis prijungė prie Lietuvos Traidenio anksčiau laikinai užimtą Drohičiną ir Brastą.'
   pagrindžia:
     - c-003
 - t-004
-  teiginys: 'Vyriausias sūnus, Manv y d a s, valdė Kernavę ir Slanimą, Narimantas — Turovą ir Pinską, Karijotas — Naugarduką ir Volkoviską, Algirdas — Krėvą ir Vitebską, Kęstutis buvo gavęs ilgą vakarų pasienio ruožą — Trakus, Palenkę, Gardiną ir Brastą.'
+  teiginys: 'Kęstutis buvo gavęs ilgą vakarų pasienio ruožą, kuriam priklausė Trakai, Palenkė, Gardinas ir Brasta.'
   pagrindžia:
     - c-004
 - t-005
-  teiginys: 'Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė Vytautą laikinai pasitenkinti pietinėmis Kęstučio srities žemėmis — Gardino ir Brastos sritimis — ir pridedama Voluinės sritimi su Lucku.'
+  teiginys: 'Jogaila prašė Vytautą laikinai pasitenkinti Gardino ir Brastos sritimis bei Voluine su Lucku.'
   pagrindžia:
     - c-005
 - t-006
-  teiginys: 'Gansiausko f-ja), Žodiškiuose (Minkevičių f-ja), Brastoje (vicekanclerio L.'
+  teiginys: 'Brastoje jėzuitų kolegija atsirado vicekanclerio Leono Kazimiero Sapiegos fundacijos pagrindu.'
   pagrindžia:
     - c-006
 - t-007
@@ -72,7 +77,7 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   pagrindžia:
     - c-007
 - t-008
-  teiginys: 'Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Trakai ir Kaunas, pilis imta statyti ir toli nuo etninės Lietuvos, rusėniškose LDK žemėse: Juodojoje Rusioje (Gardinas, Naugardukas), Palenkėje (Melnikas, gal Brasta) ir net Voluinėje.'
+  teiginys: 'Vytauto laikais Palenkėje pilys imtos statyti Melnike ir galbūt Brastoje.'
   pagrindžia:
     - c-008
 - t-009
@@ -95,18 +100,38 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   teiginys: 'Rugsėjo 11 dieną Targovicos ir Vilniaus konfederacijos Brastoje susijungė į vieną Abiejų Tautų konfederaciją ir savo centru paskelbė Gardiną.'
   pagrindžia:
     - c-013
-- t-014
-  teiginys: 'Negavęs pagalbos Mozūrijoje ir palikęs sa­ vo žmoną Brastoje, Kęstutis slaptai išvyko į Žemaičius, iš ku­ rių ir begalėjo laukti paramos.'
-  pagrindžia:
-    - c-014
 - t-015
-  teiginys: 'Brastoje (pirmos žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko Litevske, Gniondze, Naugardėlyje, Vitebske, Drahočyne, Pinske, Kamieńce (vyskupui katedrą); Žemaitijoje pastatė Var­ niuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje.'
+  teiginys: 'Vytautas Lietuvių Brastoje pastatė bažnyčią pirmosios žmonos Marijos Praksėdos atminimui.'
   pagrindžia:
     - c-015
 - t-016
-  teiginys: 'Abu magistrai pasižadėjo nepulti krikščioniškų Trakų kunigaikšti­ jos sričių (Gardino, Volkovisko, Drahočyno, Mielniko, Bielsko, Brastos, Kamienco) Lietuvos gi kunigaikščiai — Jogaila su Kęstučiu, — pasižadėjo nepulti prie tų pat sričių prieinančių Ordino.'
+  teiginys: '1379 m. paliaubose abu magistrai pasižadėjo nepulti Brastos ir kitų krikščioniškų Trakų kunigaikštijos sričių.'
   pagrindžia:
     - c-016
+- t-017
+  teiginys: 'Vilniaus katedrai buvo dovanoti dideli valsčiai Drohičino, Brastos ir Dubno pavietuose.'
+  pagrindžia:
+    - c-017
+- t-018
+  teiginys: 'Jogaila užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis.'
+  pagrindžia:
+    - c-018
+- t-020
+  teiginys: '1544 m. Brastos seime Žygimantas perdavė sūnui Lietuvos valdžią.'
+  pagrindžia:
+    - c-020
+- t-021
+  teiginys: 'Žygimantas Augustas, į Vilnių atvykęs tiesiai iš Brastos seimo kartu su karaliene Elžbieta ir didele dvariškių svita, tais pačiais metais ir su geriausiomis pranašystėmis perėmė valdžios vadžias.'
+  pagrindžia:
+    - c-021
+- t-022
+  teiginys: 'Brastoje iš žydo buvo paimti 96 raudonieji auksinai po 56 lenkiškus grašius už užstatą sidabrui.'
+  pagrindžia:
+    - c-022
+- t-023
+  teiginys: 'Slupskis Brastoje davė 38 lietuviškus grašius palūkanų nuo filipkų.'
+  pagrindžia:
+    - c-023
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -148,7 +173,7 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Vytenis taip pat atgavo didžiąją dalį Palenkės (irgi jotvingų žemes, kurias buvo užėmę tie patys Voluinės ir Mozūrų kunigaikščiai), prijungė prie Lietuvos jau Traidenio laikinai užimtą Drohičiną ir Brastą.'
+  santrauka: 'Vytenis prijungė prie Lietuvos Traidenio anksčiau laikinai užimtą Drohičiną ir Brastą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vytenis taip
@@ -165,7 +190,7 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   pagrindžia:
     - t-003
 - c-004
-  santrauka: 'Vyriausias sūnus, Manv y d a s, valdė Kernavę ir Slanimą, Narimantas — Turovą ir Pinską, Karijotas — Naugarduką ir Volkoviską, Algirdas — Krėvą ir Vitebską, Kęstutis buvo gavęs ilgą vakarų pasienio ruožą — Trakus, Palenkę, Gardiną ir Brastą.'
+  santrauka: 'Kęstutis buvo gavęs ilgą vakarų pasienio ruožą, kuriam priklausė Trakai, Palenkė, Gardinas ir Brasta.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vyriausias sūnus, Man-
@@ -182,7 +207,7 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   pagrindžia:
     - t-004
 - c-005
-  santrauka: 'Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė Vytautą laikinai pasitenkinti pietinėmis Kęstučio srities žemėmis — Gardino ir Brastos sritimis — ir pridedama Voluinės sritimi su Lucku.'
+  santrauka: 'Jogaila prašė Vytautą laikinai pasitenkinti Gardino ir Brastos sritimis bei Voluine su Lucku.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Todėl, nenorėdamas skriausti savo artimiausiojo
@@ -197,7 +222,7 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   pagrindžia:
     - t-005
 - c-006
-  santrauka: 'Gansiausko f-ja), Žodiškiuose (Minkevičių f-ja), Brastoje (vicekanclerio L.'
+  santrauka: 'Brastoje jėzuitų kolegija atsirado vicekanclerio Leono Kazimiero Sapiegos fundacijos pagrindu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo
@@ -236,7 +261,7 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   pagrindžia:
     - t-007
 - c-008
-  santrauka: 'Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Trakai ir Kaunas, pilis imta statyti ir toli nuo etninės Lietuvos, rusėniškose LDK žemėse: Juodojoje Rusioje (Gardinas, Naugardukas), Palenkėje (Melnikas, gal Brasta) ir net Voluinėje.'
+  santrauka: 'Vytauto laikais Palenkėje pilys imtos statyti Melnike ir galbūt Brastoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius,
@@ -331,7 +356,7 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   pagrindžia:
     - t-013
 - c-014
-  santrauka: 'Negavęs pagalbos Mozūrijoje ir palikęs sa­ vo žmoną Brastoje, Kęstutis slaptai išvyko į Žemaičius, iš ku­ rių ir begalėjo laukti paramos.'
+  santrauka: 'Kęstutis paliko žmoną Brastoje ir slaptai išvyko į Žemaičius, iš kurių tikėjosi paramos.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Negavęs pagalbos Mozūrijoje ir palikęs sa­
@@ -345,7 +370,7 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   pagrindžia:
     - t-014
 - c-015
-  santrauka: 'Brastoje (pirmos žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko Litevske, Gniondze, Naugardėlyje, Vitebske, Drahočyne, Pinske, Kamieńce (vyskupui katedrą); Žemaitijoje pastatė Var­ niuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje.'
+  santrauka: 'Vytautas Lietuvių Brastoje pastatė bažnyčią pirmosios žmonos Marijos Praksėdos atminimui.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Taip, pavyzdžiui, yra išlikusių ži­
@@ -375,7 +400,7 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   pagrindžia:
     - t-015
 - c-016
-  santrauka: 'Abu magistrai pasižadėjo nepulti krikščioniškų Trakų kunigaikšti­ jos sričių (Gardino, Volkovisko, Drahočyno, Mielniko, Bielsko, Brastos, Kamienco) Lietuvos gi kunigaikščiai — Jogaila su Kęstučiu, — pasižadėjo nepulti prie tų pat sričių prieinančių Ordino.'
+  santrauka: '1379 m. paliaubose abu magistrai pasižadėjo nepulti Brastos ir kitų krikščioniškų Trakų kunigaikštijos sričių.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Abu
@@ -392,3 +417,131 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-016
+- c-017
+  santrauka: 'Vilniaus katedrai buvo dovanoti dideli valsčiai Drohičino, Brastos ir Dubno pavietuose.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    I1l
+
+    ## Puslapis 128
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    vyskupui, iškilmingu aktu dovanodamas kunigaikštišką
+    Tauragnų pilį su visu pavietu, Labanoro, Molėtų, Dambra-
+    vos, Verkių kaimus prie Vilniaus, Bokštus, didelius valsčius
+    Drohičino, Brastos ir Dubno pavietuose, su įvairiais ten ren­
+    kamais mokesčiais, dosniai aprūpino Vilniaus katedrą10. Ati­
+    teko jai ir Dubrovno pavietas, kadaise buvusi iš Lietuvos
+    istorijos žinomo Jogailos patikėtinio Vaidilos nuosavybė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
+- c-018
+  santrauka: 'Jogaila užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Pats tuo metu už­
+    ėmęs Vytauto valdžioje buvusias pilis: Lucką, Brastą ir Su­
+    ražą, pagaliau kovo mėnesį, Skirgailos padedamas, štur­
+    mu užėmė ano valdos sostinę Gardiną ir šiaip taip
+    patvarkęs tolesnę Lietuvos gynybą, pargrįžo į Lenkiją. Tačiau
+    Vilniaus diecezijos senųjų turto do- Vilnensis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018
+- c-020
+  santrauka: '1544 m. Brastos seime Žygimantas perdavė sūnui Lietuvos valdžią.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Bet Žygimantas, metų naštos prislėg­
+    tas, dar prieš mirtį atidavė sūnui Lietuvos valdžią (1544 m.)
+    Brastos seime, ir šis įvykis, vėl darydamas Vilnių pagrindi­
+    niu valdžios židiniu ir prašmatnaus dvaro bei turtingų ba­
+    jorų buveine, iškėlė Lietuvos sostinę iki aukščiausio sukles­
+    tėjimo viršūnės.
+    Žygimantas Augustas, į Vilnių atvykęs tiesiai iš Brastos
+    seimo kartu su karaliene Elžbieta ir didele dvariškių svita,
+    tais pačiais metais ir su geriausiomis pranašystėmis perėmė
+    valdžios vadžias.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020
+- c-021
+  santrauka: 'Žygimantas Augustas, į Vilnių atvykęs tiesiai iš Brastos seimo kartu su karaliene Elžbieta ir didele dvariškių svita, tais pačiais metais ir su geriausiomis pranašystėmis perėmė valdžios vadžias.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Žygimantas Augustas, į Vilnių atvykęs tiesiai iš Brastos
+    seimo kartu su karaliene Elžbieta ir didele dvariškių svita,
+    tais pačiais metais ir su geriausiomis pranašystėmis perėmė
+    valdžios vadžias. Tiktai jaunos ir dorovingos karalienės
+    mirtis 1545 metų liepos 17 dieną paskandino liūdesyje rū­
+    mus ir miesto gyventojus29.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-021
+- c-022
+  santrauka: 'Brastoje iš žydo buvo paimti 96 raudonieji auksinai po 56 lenkiškus grašius už užstatą sidabrui.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Man buvo ati­
+    duota iš pono Pekarskio 96 raudonieji auksinai, kuriuos už
+    užstatą sidabrui Jo Karališkosios Didenybės reikalams nuo
+    žydo Brastoje ėmė po 56 lenkiškus grašius. Jiems Lukove
+    L. Mogilnickis išleido 5 flor. 7 gr.
+    Be to, ten pat, Lukove, ponas Mogilnickis, supirkdamas
+    Karališkosios Didenybės reikalams, lietuviškoms mone­
+    toms išleido 2 flor. Žydui Brastoje palūkanų nuo aštuonių
+    šimtų zlotų, paskolintų ponui Pekarskiui sidabrui, užsta­
+    tytam Karališkosios Didenybės reikalams už dvi savaites,
+    tai yra, a die 23 Augusti ad diem 6 7bris [nuo rugpjūčio 23
+    dienos iki rugsėjo 6 dienos] nuo šimto ir aštuoniasdešimt
+    kapų, už kiekvieną kapą po 5 grašius, išleido 7 zlotus, 15
+    2 ą1g.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-022
+- c-023
+  santrauka: 'Slupskis Brastoje davė 38 lietuviškus grašius palūkanų nuo filipkų.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Slups-
+    kis Brastoje davė palūkanų nuo filipkų 38 lietuviškus gra­
+    šius. Per poną Turčiną pasiunčiau į Vilnių 80 filipkų, kuriuos
+    priėmė į iždą karališk. did. paliepimu po 1 floriną. Išdavė
+    juos karai. did. reikmėms po 16 liet. grašių. Jiems išleista 26
+    flor., 20 grašių.
+    Šių, 1570 metų išlaidų lietuviškoms monetoms su palū­
+    kanomis suma 84 lenkiški flor., 21 gr., 6 liet. grašiai.
+    In Anno  1571 [1571 metais]
+    Pirmiausia priėmiau į iždą, karališk. did. paliepimu, 66
+    filipkas auksu, išleistus po 20 lenkiškų grašių, jiems išleista
+    22 flor.
+    Brastoje nuo 17 paskolintų liet. grašių palūkanos už dvi
+    savaites - 16 liet. grašių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-023

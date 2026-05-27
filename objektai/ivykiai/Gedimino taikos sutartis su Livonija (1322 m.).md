@@ -103,7 +103,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/grupes/Aukštaičiai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusai]]

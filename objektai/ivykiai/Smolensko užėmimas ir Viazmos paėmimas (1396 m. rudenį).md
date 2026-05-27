@@ -71,5 +71,5 @@ Nenurodyta
 - [[objektai/asmenys/Hlebas]]
 - [[objektai/asmenys/Jomantas]]
 - [[objektai/asmenys/Sviatoslavas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Vytautas]]
 - [[objektai/zodynas/lenas]]

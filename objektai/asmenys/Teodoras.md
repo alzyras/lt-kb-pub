@@ -74,7 +74,9 @@ tags:
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/zodynas/vietininkas]]
+- [[objektai/paprociai/Istorikų darbų aptarinėjimas bajorų pobūviuose ir privačių kolekcijų kaupimas]]
 - [[objektai/asmenys/Teodoras (Gedimino brolis)]]
 - [[objektai/asmenys/Uzbeko]]
+- [[objektai/grupes/Vilniaus miestiečių luomas]]
 - [[objektai/asmenys/Teodoras (Karijoto sūnus)]]
 - [[objektai/asmenys/Teodoras (Liubarto sūnus)]]

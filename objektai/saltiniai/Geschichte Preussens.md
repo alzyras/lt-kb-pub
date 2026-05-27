@@ -38,8 +38,58 @@ Voigt 9 tomų veikale Geschichte Preusseus (1827-1838) nagrinėja kryžiuočių 
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: '„Geschichte Preussens“ IV tome Voigtas ginčijo Gedimino laiškų autentiškumą ir jų parengimą priskyrė Rygos arkivyskupui.'
+  pagrindžia:
+    - c-003
+- t-004
+  teiginys: 'Geschichte Preussens buvo naudota kaip šaltinis žvilgsniui į Gedimino veiklą laiškų paskelbimo laikais.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
+- c-003
+  santrauka: '„Geschichte Preussens“ IV tome Voigtas ginčijo Gedimino laiškų autentiškumą ir jų parengimą priskyrė Rygos arkivyskupui.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tačiau Foigtas
+    naujausios Prūsijos istorijos (Ge­
+    schichte Preussens. T. IV, p. 627 sq.)
+    autorius, kuris nenorėjo, kaip kad jo
+    pirmtakai, Prūsijos kronikininkai,
+    būti visada nešališkas lietuvių gen­
+    ties istorijos įvykių teisėjas, ginčija
+    tų laiškų autentiškumą, tvirtinda­
+    mas esą buvo parengti ir išsiuntinė­
+    ti Rygos arkivyskupo, kryžiuočių
+    priešininko.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Geschichte Preussens buvo naudota kaip šaltinis žvilgsniui į Gedimino veiklą laiškų paskelbimo laikais.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    65
+
+    ## Puslapis 82
+
+    B.
+    Žvilgsnis į Gedimino veiklą
+    šių laiškų paskelkimo laikais .
+    (Versta iš F o i g t o Geschichte Preussens etc. IV Band,
+    p. 358-376).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Bibliografiniai įrodymai
 - c-001

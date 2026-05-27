@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 4.
+Objektų skaičius: 6.
 
 ## Kaip naudoti
 
@@ -19,7 +19,9 @@ Objektų skaičius: 4.
 ## Susiję objektai
 
 ### Papročiai
+- [[objektai/paprociai/Amžinosios ugnies saugojimas ir Perkūno garbinimas Šventaragio slėnyje]]
 - [[objektai/paprociai/Draudimų nepaisančios religinės manifestacijos ir draustos religinės literatūros įsigijimas]]
 - [[objektai/paprociai/Kryžių statymas Kryžių kalne kaip tikėjimo laisvės pasipriešinimo praktika]]
 - [[objektai/paprociai/Specialių brolijų maldininkams globoti steigimas]]
+- [[objektai/paprociai/Vaško žvakių statymas ir deginimas ketvirtadienio vakarais Antakalnio šventovėje]]
 - [[objektai/paprociai/Šventųjų žalčių laikymas namuose]]

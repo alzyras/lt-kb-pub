@@ -187,7 +187,7 @@ Tai padaryti trukdė Vokiečių ordinas. Pagrindinis konfliktas su Vokiečių or
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Vytautas]]
 - [[objektai/asmenys/Zigmantas I]]
 - [[objektai/zodynas/apsikarūnavimas]]
 - [[objektai/autoriai/Jakštas, J]]

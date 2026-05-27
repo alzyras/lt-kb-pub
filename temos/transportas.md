@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 12.
+Objektų skaičius: 14.
 
 ## Kaip naudoti
 
@@ -24,12 +24,14 @@ Objektų skaičius: 12.
 - [[objektai/asmenys/Stanislovas Kiška]]
 
 ### Daiktai
+- [[objektai/daiktai/Aleksandro lektika]]
 - [[objektai/daiktai/ANBO lėktuvai]]
 - [[objektai/daiktai/Geležinėmis grandinėmis kaustyti vežimai]]
 - [[objektai/daiktai/Kablinis šautuvas]]
 - [[objektai/daiktai/Kūlgrindos]]
 - [[objektai/daiktai/Laivai]]
 - [[objektai/daiktai/Sovietų tankai ir šarvuočiai]]
+- [[objektai/daiktai/Tiltai, jazai ir vandens infrastruktūra]]
 
 ### Žodynas
 - [[objektai/zodynas/buožės darbo valstiečiai]]

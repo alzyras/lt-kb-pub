@@ -7,15 +7,16 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
-  - '1598 m.'
-  - '1600 m.'
+  - '1597 m.'
+  - '1610 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
   - 'XVI'
-date_start: '1598'
-date_end: '1600'
+  - 'XVII'
+date_start: '1597'
+date_end: '1610'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -31,7 +32,7 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
 
 ## Teiginiai
 - t-001
-  teiginys: 'Zigmantas mirė 1632 m., iškaraliavęs net 44 m.'
+  teiginys: 'Zigmantas Vaza mirė 1632 m., valdęs 44 metus.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -43,17 +44,21 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: '1598 m. Zigmantas Vaza 111 su nedidele kariuomene nuvyko į Švediją, bet buvo išstumtas ir priverstas pasitraukti.'
+  teiginys: '1598 m. Zigmantas Vaza su nedidele kariuomene nuvyko į Švediją, bet buvo išstumtas ir priverstas pasitraukti.'
   pagrindžia:
     - c-003
 - t-004
-  teiginys: 'maskvėnai, pasinaudodami tuo, kad po Zigmanto Vazos mirties jo sūnus Vladislovas dar nebuvo įsitvirtinęs Lenkijos-Lietuvos soste, įsiveržė į Lietuvos teritoriją siekdami atgauti Smolenską.'
+  teiginys: 'Po Zigmanto Vazos mirties maskvėnai įsiveržė į Lietuvos teritoriją, siekdami atgauti Smolenską.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'Zigmantas Vaza spalio 30 d. iš Varšuvos rašytu raštu paskyrė bajorą Motiejų Božiminskį.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Zigmantas mirė 1632 m., iškaraliavęs net 44 m.'
+  santrauka: 'Zigmantas Vaza mirė 1632 m., valdęs 44 metus.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Zigmantas mirė 1632 m., iškaraliavęs net 44 m.
@@ -77,7 +82,7 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
   pagrindžia:
     - t-002
 - c-003
-  santrauka: '1598 m. Zigmantas Vaza 111 su nedidele kariuomene nuvyko į Švediją, bet buvo išstumtas ir priverstas pasitraukti.'
+  santrauka: '1598 m. Zigmantas Vaza su nedidele kariuomene nuvyko į Švediją, bet buvo išstumtas ir priverstas pasitraukti.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1598 m. Zigmantas Vaza 111 su nedidele
@@ -92,7 +97,7 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
   pagrindžia:
     - t-003
 - c-004
-  santrauka: 'maskvėnai, pasinaudodami tuo, kad po Zigmanto Vazos mirties jo sūnus Vladislovas dar nebuvo įsitvirtinęs Lenkijos-Lietuvos soste, įsiveržė į Lietuvos teritoriją siekdami atgauti Smolenską.'
+  santrauka: 'Po Zigmanto Vazos mirties maskvėnai įsiveržė į Lietuvos teritoriją, siekdami atgauti Smolenską.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     maskvėnai, pasinaudodami
@@ -110,14 +115,31 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Zigmantas Vaza spalio 30 d. iš Varšuvos rašytu raštu paskyrė bajorą Motiejų Božiminskį.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    9. Motiejus (arba Matas) Božiminskis, iš bajorų,
+    paskirtas karaliaus Zigmanto Vazos raštu,
+    rašytu spalio 30 d. iš Varšuvos -
+    Burmistras Kuzma Mamoničius -
+    10. Aleksandras Chaleckis, karaliaus dvariškis,
+    iš bajorų, Zigmanto Vazos lapkričio 10 d.
+    privilegija -
+    1597 m.
+    1600 m.
+    1610 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/upė]]
 
 ### Susiję objektai
-- [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Vladislovas]]
-- [[objektai/grupes/Švedai]]
 - [[objektai/grupes/Lenkijos kariuomenė]]
-- [[objektai/grupes/Maskvėnai]]

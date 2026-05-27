@@ -32,6 +32,8 @@ datos:
   - '1350 m.'
   - '1378 m.'
   - '1430 m.'
+  - '1552 m.'
+  - '1557 m.'
   - '1930 m.'
   - '1936 m.'
   - '1978 m.'
@@ -45,6 +47,7 @@ amziai:
   - 'XIII'
   - 'XIV'
   - 'XV'
+  - 'XVI'
   - 'XIX'
   - 'XX'
   - 'XXI'
@@ -80,11 +83,11 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-016
-  teiginys: 'Vieni jų atsikraustė į Padauguvį (kalavijuočiai), o kiti į Pavyslį (kryžiuočiai).'
+  teiginys: 'Kalavijuočiai atsikraustė į Padauguvį, o kryžiuočiai į Pavyslį.'
   pagrindžia:
     - c-004
 - t-017
-  teiginys: 'Ordinas buvo pavadintas Kristaus Karių Brolija (Fratres Militiae Christi), bet dėl išsiūto ant balto jų apsiausto raudono kalavijo paprastai vadinamas kalavijuočių ordinu.'
+  teiginys: 'Ordinas vadintas Kristaus karių brolija, bet dėl raudono kalavijo ant balto apsiausto paprastai vadintas Kalavijuočių ordinu.'
   pagrindžia:
     - c-005
 - t-018
@@ -92,7 +95,7 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   pagrindžia:
     - c-006
 - t-019
-  teiginys: 'Pabūgęs, kad vienas neatsilaikys, kalavijuočių ordinas susidėjo su kariaujančiu tuo metu Prūsuose kryžiuočių ordinu.'
+  teiginys: 'Kalavijuočių ordinas, bijodamas vienas neatsilaikyti, susidėjo su Prūsuose kariavusiu Kryžiuočių ordinu.'
   pagrindžia:
     - c-007
 - t-020
@@ -100,37 +103,37 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   pagrindžia:
     - c-008
 - t-021
-  teiginys: 'Vienydamas Lietuvą, Mindaugas negalėjo nekreipti dėmesio į tokią faktų grandinę: 1202 m. Dauguvos žiotyse susikūręs Kalavijuočių ordinas pamažu pradeda užkariauti lybius, latvius, estus, kuršius.'
+  teiginys: '1202 m. Dauguvos žiotyse susikūręs Kalavijuočių ordinas pamažu pradėjo užkariauti lybius, latvius, estus ir kuršius.'
   pagrindžia:
     - c-009
 - t-022
-  teiginys: 'Nors žemaičiai Saulės mūšyje 1236 m. šį žygį Vokiečių ordino riteris pagrobia vaiką.'
+  teiginys: '1237 m. Kalavijuočių ordinas tapo Kryžiuočių ordino vasalu.'
   pagrindžia:
     - c-010
 - t-023
-  teiginys: 'Pirmiausia prie Dauguvos krantų ėmė stiprintis kalavijuočių ordinas^69.'
+  teiginys: 'Kalavijuočių ordinas pirmiausia ėmė stiprintis prie Dauguvos krantų.'
   pagrindžia:
     - c-011
 - t-024
-  teiginys: 'Pagal Palestinoje su turkais kovojančių templininkų statutą, vyskupo priklausomybėje 1202-1203 m. žiemą buvo įkurtas kalavijuočių ordinas ( Fratres Militiae Christi ).'
+  teiginys: '1202-1203 m. žiemą vyskupo priklausomybėje buvo įkurtas Kalavijuočių ordinas.'
   pagrindžia:
     - c-012
 - t-025
-  teiginys: 'Tačiau šis procesas buvo pertrauktas 1202 m., dabartinėje Latvijos teritorijoje įsikūrus vokiečių Kalavijuočių ordinui, kuris siekė nukariauti ir jėga pakrikštyti pagonis baltus bei pajungti juos naujai vokiečių valstybei.'
+  teiginys: '1202 m. dabartinėje Latvijoje įsikūręs Kalavijuočių ordinas siekė nukariauti ir jėga pakrikštyti pagonis baltus.'
   pagrindžia:
     - c-013
-- t-026
-  teiginys: 'Sustiprėjusios Lietuvos valstybės kariuomenė buvo pajėgi kautis su Kalavijuočių ordinu ir pastarasis buvo lietuvių sutriuškintas lemiamame Saulės mūšyje 1236 m. Nors lietui viams nepavyko perimti vokiečių užgrobtų šiaurinių baltų žemių, .'
-  pagrindžia:
-    - c-014
-- t-027
-  teiginys: 'Vokiečių Ordinas, bekariaudamas įsigijo Prūsuose didelius žemės plotus ir juos kolonizuodamas, darėsi vis stipresnis, Lai­ mėjęs Vislos žiotis ir Pamarį (1309 metais) ir išplėtęs savo pre­ kybą su tolimais Vakarų Europos miestais, nors vis labiau tolo nuo.'
-  pagrindžia:
-    - c-015
 - t-028
-  teiginys: 'Ypač 1378 metų žiemą smarkiai buvo teriojama Lietuva: Vokiečių Ordino kariuomenė, įsiveržusi iš Prūsijos, nuėjo į pietus ligi Bresto ir Pripe­ tės upės, o kardininkai apsilankė nuolat naikinamose Upy­ tės apylinkėse.'
+  teiginys: '1378 m. žiemą kardininkai nusiaubė Upytės apylinkes ir iš žygio parsivedė 500 lietuvių belaisvių.'
   pagrindžia:
     - c-016
+- t-029
+  teiginys: '1557 m. Vilniuje sutelkta kariuomenė žygiavo į Livoniją prieš Kalavijuočių ordino didįjį magistrą Firstembergą.'
+  pagrindžia:
+    - c-017
+- t-031
+  teiginys: 'Maskvos ginklų sutriuškintas Livonijos magistras Gotardas Ketleris patikėjo valdovui save, ordiną ir valdas.'
+  pagrindžia:
+    - c-019
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -189,7 +192,7 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   pagrindžia:
     - t-015
 - c-004
-  santrauka: 'Vieni jų atsikraustė į Padauguvį (kalavijuočiai), o kiti į Pavyslį (kryžiuočiai).'
+  santrauka: 'Kalavijuočiai atsikraustė į Padauguvį, o kryžiuočiai į Pavyslį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vieni jų atsikraustė į Padauguvį (ka-
@@ -204,7 +207,7 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   pagrindžia:
     - t-016
 - c-005
-  santrauka: 'Ordinas buvo pavadintas Kristaus Karių Brolija (Fratres Militiae Christi), bet dėl išsiūto ant balto jų apsiausto raudono kalavijo paprastai vadinamas kalavijuočių ordinu.'
+  santrauka: 'Ordinas vadintas Kristaus karių brolija, bet dėl raudono kalavijo ant balto apsiausto paprastai vadintas Kalavijuočių ordinu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Ordinas buvo pavadintas Kris-
@@ -238,7 +241,7 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   pagrindžia:
     - t-018
 - c-007
-  santrauka: 'Pabūgęs, kad vienas neatsilaikys, kalavijuočių ordinas susidėjo su kariaujančiu tuo metu Prūsuose kryžiuočių ordinu.'
+  santrauka: 'Kalavijuočių ordinas, bijodamas vienas neatsilaikyti, susidėjo su Prūsuose kariavusiu Kryžiuočių ordinu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pabūgęs, kad vienas neat-
@@ -272,7 +275,7 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   pagrindžia:
     - t-020
 - c-009
-  santrauka: 'Vienydamas Lietuvą, Mindaugas negalėjo nekreipti dėmesio į tokią faktų grandinę: 1202 m. Dauguvos žiotyse susikūręs Kalavijuočių ordinas pamažu pradeda užkariauti lybius, latvius, estus, kuršius.'
+  santrauka: '1202 m. Dauguvos žiotyse susikūręs Kalavijuočių ordinas pamažu pradėjo užkariauti lybius, latvius, estus ir kuršius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vienydamas Lietuvą, Mindaugas negalėjo nekreipti dėmesio į tokią
@@ -289,7 +292,7 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   pagrindžia:
     - t-021
 - c-010
-  santrauka: 'Nors žemaičiai Saulės mūšyje 1236 m. šį žygį Vokiečių ordino riteris pagrobia vaiką.'
+  santrauka: '1237 m. Kalavijuočių ordinas tapo Kryžiuočių ordino vasalu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nors žemaičiai Saulės mūšyje 1236 m. šį žygį
@@ -308,7 +311,7 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   pagrindžia:
     - t-022
 - c-011
-  santrauka: 'Pirmiausia prie Dauguvos krantų ėmė stiprintis kalavijuočių ordinas^69.'
+  santrauka: 'Kalavijuočių ordinas pirmiausia ėmė stiprintis prie Dauguvos krantų.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Pirmiausia prie Dauguvos krantų ėmė stiprintis kalavijuočių
@@ -325,7 +328,7 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   pagrindžia:
     - t-023
 - c-012
-  santrauka: 'Pagal Palestinoje su turkais kovojančių templininkų statutą, vyskupo priklausomybėje 1202-1203 m. žiemą buvo įkurtas kalavijuočių ordinas ( Fratres Militiae Christi ).'
+  santrauka: '1202-1203 m. žiemą vyskupo priklausomybėje buvo įkurtas Kalavijuočių ordinas.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Pagal Palestinoje
@@ -341,7 +344,7 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   pagrindžia:
     - t-024
 - c-013
-  santrauka: 'Tačiau šis procesas buvo pertrauktas 1202 m., dabartinėje Latvijos teritorijoje įsikūrus vokiečių Kalavijuočių ordinui, kuris siekė nukariauti ir jėga pakrikštyti pagonis baltus bei pajungti juos naujai vokiečių valstybei.'
+  santrauka: '1202 m. dabartinėje Latvijoje įsikūręs Kalavijuočių ordinas siekė nukariauti ir jėga pakrikštyti pagonis baltus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tačiau šis proce-
@@ -358,7 +361,7 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   pagrindžia:
     - t-025
 - c-014
-  santrauka: 'Sustiprėjusios Lietuvos valstybės kariuomenė buvo pajėgi kautis su Kalavijuočių ordinu ir pastarasis buvo lietuvių sutriuškintas lemiamame Saulės mūšyje 1236 m. Nors lietui viams nepavyko perimti vokiečių užgrobtų šiaurinių baltų žemių, .'
+  santrauka: '1236 m. Saulės mūšyje lietuviai sutriuškino Kalavijuočių ordiną.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Sustiprėjusios Lietuvos valstybės kariuomenė
@@ -374,33 +377,8 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-026
-- c-015
-  santrauka: 'Vokiečių Ordinas, bekariaudamas įsigijo Prūsuose didelius žemės plotus ir juos kolonizuodamas, darėsi vis stipresnis, Lai­ mėjęs Vislos žiotis ir Pamarį (1309 metais) ir išplėtęs savo pre­ kybą su tolimais Vakarų Europos miestais, nors vis labiau tolo nuo.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Vytautas brendo audringu Lietuvos valstybės laikotarpiu,
-    kada jo tėvas, gindamas Žemaitijos bei lietuvių laisvę, negalėjo
-    išleisti ginklo iš rankų, nes du galingi priešai, kardininkai iš
-    šiaurės ir kryžiuočiai iš žiemos vakarų pusės, tuo laiku ypač
-    smarkiai puldavo Lietuvą.
-    Vokiečių Ordinas, bekariaudamas įsigijo Prūsuose didelius
-    žemės plotus ir juos kolonizuodamas, darėsi vis stipresnis, Lai­
-    mėjęs Vislos žiotis ir Pamarį (1309 metais) ir išplėtęs savo pre­
-    kybą su tolimais Vakarų Europos miestais, nors vis labiau tolo
-    nuo pirmykštės Ordino dvasios, bet turėdami pilną iždą pinigų,
-    daug stiprių pilių ir nuolat iš Vakarų Europos plaukiančių jėgų,
-    kryžiuočiai kasmet po kelis kartus puldavo Lietuvą, išniokoda­
-    mi plačias jos sritis, degindami gyvenamas vietas ir žmones iš­
-    sivesdami nelaisvėn.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-027
 - c-016
-  santrauka: 'Ypač 1378 metų žiemą smarkiai buvo teriojama Lietuva: Vokiečių Ordino kariuomenė, įsiveržusi iš Prūsijos, nuėjo į pietus ligi Bresto ir Pripe­ tės upės, o kardininkai apsilankė nuolat naikinamose Upy­ tės apylinkėse.'
+  santrauka: '1378 m. žiemą kardininkai nusiaubė Upytės apylinkes ir iš žygio parsivedė 500 lietuvių belaisvių.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Ypač 1378 metų žiemą
@@ -425,25 +403,63 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-028
+- c-017
+  santrauka: '1557 m. Vilniuje sutelkta kariuomenė žygiavo į Livoniją prieš Kalavijuočių ordino didįjį magistrą Firstembergą.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Karaliui, turinčiam tokias dide­
+    les karinės amunicijos atsargas, nesunku buvo apginkluoti
+    gausią kariuomenę, 1557 metais sutelktą Vilniuje, iš kur žy­
+    giavo į Livoniją prieš didįjį kalavijuočių riterių ordino ma­
+    gistrą Firstembergą, nuo seno engusį karaliaus giminaitį Ry­
+    gos arkivyskupą. Bet šis žygis greitai baigėsi dėl didžiojo
+    magistro visiško nuolankumo Žygimantui Augustui ir pri­
+    pažinimo jam valdžios Livonijoje.
+    1552 metais miesto valdžia kartu su piliečiais sudarė Wiel-
+    kierzą* [ Wilkirz, Willkühren], arba teismo proceso būdą pagal
+    Magdeburgo teisę, kad būtų išvengta piktnaudžiavimo įvai­
+    riais mokesčiais, kuriais valdininkai apkraudavo besibyli­
+    nėjančias šalis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-029
+- c-019
+  santrauka: 'Maskvos ginklų sutriuškintas Livonijos magistras Gotardas Ketleris patikėjo valdovui save, ordiną ir valdas.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Šiuo raštu skelbiame vi­
+    siems, kam dera žinoti, kad Maskvos ginklų įveiktas ir su­
+    triuškintas garbusis ir kilnusis ponas Go tardas Ketleris, Te­
+    utonų ordino Livonijoje magistras, vildamasis mūsų
+    ištikimybės ir pritarimo, patikėjo mums save, ordiną bei val­
+    das ir, jei juos imtumėmės ginti, pažadėjo mums perduoti
+    kai kurias pilis ir apskritis, tačiau su konkrečiomis abiejų
+    pusių sąlygomis, raštu ir priesaika iškilmingai patvirtinto­
+    mis. Tarp jų buvo išsakyta ir tokia, kad tiems žmonėms, ku­
+    rie mums su pačiomis apskritimis atitektų, šventomis apei­
+    gomis, taip pat su papročiais ir ypač religija, išpažįstančia
+    Augustino tikėjimą, leistume laisvai naudotis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-031
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/paprociai/Vakarų pagalbos kvietimas ir svečių iš Vokietijos šaukimas]]
-- [[objektai/asmenys/Hermanas]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/Adynos|adynos]]
-- [[objektai/zodynas/žygis]]
 - [[objektai/autoriai/F. Gause]]
 - [[objektai/autoriai/Fr. Benninghoven]]
 - [[objektai/autoriai/Fr. Mager]]
 - [[objektai/autoriai/Henrikas]]
 - [[objektai/asmenys/Henrikas (Meiseno markgrafas)]]
 - [[objektai/autoriai/Hermanas Vartbergė]]
-- [[objektai/asmenys/Julijona (Vytauto žmona)]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/autoriai/Loreta Uzdraitė]]
 - [[objektai/ivykiai/Pirmojo kryžiaus žygio prieš lietuvius paskelbimas (1236.II.19)]]

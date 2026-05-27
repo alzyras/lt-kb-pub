@@ -79,6 +79,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
 - [[objektai/grupes/Baltai]]
 - [[objektai/grupes/Kuršiai]]
 - [[objektai/grupes/Vikingai]]
+- [[objektai/zodynas/Austurweg]]
+- [[objektai/daiktai/Laivai]]
 - [[objektai/ivykiai/Vikingų įsigalėjimas aisčių kraštuose ir jų sodybų sunaikinimas]]
 - [[objektai/grupes/Bizantijos imperija]]
 - [[objektai/grupes/Voluiniečiai]]

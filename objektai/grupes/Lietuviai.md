@@ -27,6 +27,7 @@ datos:
   - '1345 m.'
   - '1370 m.'
   - '1377 m.'
+  - '1385 m.'
   - '1514 m.'
   - '1529 m.'
   - '1566 m.'
@@ -109,11 +110,11 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-008
-  teiginys: 'Kildindamas lietuvius iš romėnų, legendarinėje dalyje jis padarė ypač daug papildinėjimų, pvz., surašė genealogiją atskirų Lietuvos žymių šeimų, vesdamas jų pradžią iš Romos patricijų.'
+  teiginys: 'Kildindamas lietuvius iš romėnų, istorikas papildė legendinę dalį Lietuvos žymių šeimų genealogijomis iš Romos patricijų.'
   pagrindžia:
     - c-029
 - t-009
-  teiginys: 'Latvių ten atliktas asimiliacijos faktas yra aiškus, kaip aišku ir tai, kad pietines žiemgalių ir sėlių sritis yra asimiliavę lietuviai.'
+  teiginys: 'Lietuviai, kaip teigiama citatoje, asimiliavo pietines žiemgalių ir sėlių sritis.'
   pagrindžia:
     - c-030
 - t-010
@@ -125,23 +126,23 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   pagrindžia:
     - c-032
 - t-012
-  teiginys: 'Pagal Dusbur­ gą, jiems talkos siuntę ir lietuviai, ir iki Mindaugo nužudymo yra minimi (1262-63 m.) du jų žygiai į Prūsus208 .'
+  teiginys: 'Pagal Dusburgą, 1262–1263 m. lietuviai surengė du žygius į Prūsus, talkindami prūsams.'
   pagrindžia:
     - c-033
 - t-013
-  teiginys: 'Mindaugas lietuvių tautoje yra atlikęs svarbių uždavinių.'
+  teiginys: 'Mindaugas apjungė smulkias Lietuvos, ypač Aukštaitijos, kunigaikštijas vienoje valdžioje.'
   pagrindžia:
     - c-034
 - t-014
-  teiginys: 'Ne vien tik Romanaičiai pajuto energingo Lietuvos valdovo ranką.'
+  teiginys: 'Lietuviai vėl stipriai puolė Livonijos kryžiuočius ir rengė intensyvius karo žygius į Lenkiją.'
   pagrindžia:
     - c-035
 - t-015
-  teiginys: 'Lietuviai prievarta imdavo galinčius ginklą vartoti^248.'
+  teiginys: 'Lietuviai prievarta imdavo žmones, galinčius vartoti ginklą.'
   pagrindžia:
     - c-036
 - t-016
-  teiginys: 'Kronikininkas Posilgė, kuris apie kryžiuočius kautynių pabaigoje rašė, jog jie, esą bėgę («in der flucht geslagin »), apie lietuvius tiek tepasakė, kad jie buvę atmušti^26.'
+  teiginys: 'Kronikininkas Posilgė apie lietuvius kautynių pabaigoje tepasakė, kad jie buvo atmušti.'
   pagrindžia:
     - c-037
 - t-017
@@ -149,11 +150,11 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   pagrindžia:
     - c-038
 - t-018
-  teiginys: 'Lietuvos vardo kilmė ir sampratos likimas Lietuvos vardas pirmąkart paminėtas 1009 m., tačiau atsirado jis anksčiau: lietuvių gentis iš rytų baltų turėjo išsiskirti prieš keliolika amžių.'
+  teiginys: 'Lietuvos vardas pirmąkart paminėtas 1009 m., bet lietuvių gentis iš rytų baltų turėjo išsiskirti anksčiau.'
   pagrindžia:
     - c-039
 - t-019
-  teiginys: 'Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo) valstybės pakraščiuose, ne lietuvių, o senųjų rusų (arba rusėnų), taip pat žemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš Lietuvos.'
+  teiginys: 'Valstybės pakraščiuose Lietuvos valdovai galėjo įkurdinti ištikimus žmones iš Lietuvos, vadintus leičiais arba liečiais.'
   pagrindžia:
     - c-040
 - t-020
@@ -161,11 +162,11 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   pagrindžia:
     - c-041
 - t-021
-  teiginys: 'Lietuviai veikiausiai buvo tokie pat imperialistai kaip ir kiti, tik, užgrobę svetimą kraštą, „nespausdavo“, t.'
+  teiginys: 'Užėmę svetimą kraštą, lietuviai iš pradžių veikiausiai nekeisdavo susiklosčiusios tvarkos.'
   pagrindžia:
     - c-042
 - t-022
-  teiginys: 'Atėję iš ryškią individualią alodinę nuosavybės struktūrą turinčios visuomenės lietuvių bajorai ir individualiai ūkininkaujantys valstiečiai skyrėsi nuo rytinių slavų.'
+  teiginys: 'Lietuvių bajorai ir individualiai ūkininkaujantys valstiečiai skyrėsi nuo rytinių slavų žemėvaldos tradicijos.'
   pagrindžia:
     - c-043
 - t-023
@@ -173,7 +174,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   pagrindžia:
     - c-044
 - t-024
-  teiginys: 'Ir vis dėlto net ir šiais vėlyvais amžiais gyvavo „lietuvių nacija“, LDK „politinė tauta“.'
+  teiginys: 'XVII–XVIII a. LDK dar gyvavo lietuvių nacija, suprasta kaip politinė tauta.'
   pagrindžia:
     - c-045
 - t-025
@@ -192,52 +193,44 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   teiginys: 'Grupė inteligentų 1883 m. Rytprūsiuose pradėjo leisti pirmąjį Didžiajai Lietuvai skirtą periodinį leidinį lietuvių kalba ir tradiciniu raidynu – mėnraštį „Aušra“ („Auszra“).'
   pagrindžia:
     - c-049
-- t-029
-  teiginys: '1897 m. surašymo duomenimis, gyventojų skaičius maždaug dabartinės Lietuvos ribose (be Klaipėdos krašto) siekė apie 2,7 mln.'
-  pagrindžia:
-    - c-050
-- t-030
-  teiginys: 'Į šį leidinį stengtasi atrinkti svarbesnius, įdokotarpio karybos, ginkluotės raidos tendencijas bei regiono mesnius, o svarbiausia tuos mūšius, kuriuose lietuviai kovojo geopolitinį kontekstą.'
-  pagrindžia:
-    - c-051
 - t-032
-  teiginys: 'Vytautas brendo audringu Lietuvos valstybės laikotarpiu, kada jo tėvas, gindamas Žemaitijos bei lietuvių laisvę, negalėjo išleisti ginklo iš rankų, nes du galingi priešai, kardininkai iš šiaurės ir kryžiuočiai iš žiemos vakarų pusės, tuo laiku ypač smarkiai.'
+  teiginys: 'Vytauto jaunystės laikotarpiu kardininkai ir kryžiuočiai smarkiai puldavo Lietuvą.'
   pagrindžia:
     - c-053
 - t-033
-  teiginys: 'Po Ostrovos sutarties lietuviai savo valstybę laikė visiš­ kai savarankišką^1 ), o lenkai, remdamiesi Krėvės unijos aktu, laikė Lietuvą savo provincija.'
+  teiginys: 'Po Ostrovos sutarties lietuviai savo valstybę laikė visiškai savarankiška.'
   pagrindžia:
     - c-054
 - t-034
-  teiginys: 'Lietuviams, lais­ viems nuo senų senovės, mokėti kam nors mokesčius ir tuo pri­ pažinti savo priklausomybę, ir tai tada, kai prieš Lietuvos galy­ bę drebėjo visos aplinkinės tautos, viso to buvo perdaug!'
+  teiginys: 'Lietuviams mokėti mokesčius ir taip pripažinti priklausomybę buvo laikoma per didele nuolaida.'
   pagrindžia:
     - c-055
 - t-035
-  teiginys: 'Lietu­ vių ir rusų bajorai paskelbė Vytautą Lietuvos ir Rusijos kara­ liumi.'
+  teiginys: 'Lietuvių ir rusų bajorai paskelbė Vytautą Lietuvos ir Rusijos karaliumi.'
   pagrindžia:
     - c-056
 - t-036
-  teiginys: 'Tuo būdu Vytauto kariuomenę sudarė lietuviai, žemaičiai, vokie­ čiai, lenkai, totoriai, rusai, valakai, vadinas, Vytauto vedama kariuomenė buvo internacionalinė.'
+  teiginys: 'Vytauto kariuomenę sudarė lietuviai, žemaičiai, vokiečiai, lenkai, totoriai, rusai ir valakai.'
   pagrindžia:
     - c-057
 - t-037
-  teiginys: 'Lietuvos kariuomenė pradėjo rinktis gegužės mėn.'
+  teiginys: 'Lietuvos kariuomenė pradėjo rinktis gegužės pabaigoje arba birželio pradžioje.'
   pagrindžia:
     - c-058
 - t-038
-  teiginys: 'Tuo metu ir įvyko lietuvių puolimas iš Žemaičių, o lenkų — netoli Sviečės.'
+  teiginys: 'Tuo metu lietuviai puolė iš Žemaitijos, o lenkai – netoli Sviečės.'
   pagrindžia:
     - c-059
 - t-039
-  teiginys: 'Pirmutiniai žygiavo lietuviai.'
+  teiginys: 'Lietuviai žygiavo pirmieji ir prie Gilgenburgo užpuolė bei paėmė miestelį.'
   pagrindžia:
     - c-060
 - t-040
-  teiginys: 'Pabėgusios lietuvių kariuomenės sugrįžimas ir stojimas mūšin tuo momentu, kai jau laimė sviro kryžiuočių pusėn, yra nepa­ prastas karo taktikos reiškinys.'
+  teiginys: 'Lietuvių kariuomenė grįžo į mūšį tuo metu, kai sėkmė jau sviro kryžiuočių pusėn.'
   pagrindžia:
     - c-061
 - t-041
-  teiginys: 'Lenkų ponų taryba Radome davė garantiją, kaip lietuv.'
+  teiginys: 'Lietuvių bajorai gavo teisę po Vytauto mirties dalyvauti naujo kunigaikščio rinkimuose.'
   pagrindžia:
     - c-062
 - t-042
@@ -249,7 +242,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   pagrindžia:
     - c-064
 - t-044
-  teiginys: 'Sužinoję apie kryžiuočių žygį, lietuviai skubėdavo pasislėpti miškuose, iš kur tykodavo užpulti kryžiuočius, dažnai jie sunaikindavo ištisą grįžtančių kryžiuočių būrį: kryžiuočių kelią staiga užvertę medžiais, patys iš visų pusių supuolę juos išžudydavo.'
+  teiginys: 'Sužinoję apie kryžiuočių žygį, lietuviai slėpdavosi miškuose ir iš pasalų puldavo grįžtančius kryžiuočius.'
   pagrindžia:
     - c-065
 - t-045
@@ -265,13 +258,58 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   pagrindžia:
     - c-068
 - t-048
-  teiginys: 'Tad ir šitam unijos projekte ir vėlesniuose ginčuose su lenkais lietuviai reikalavo, kad karalius duotų garantiją, jog Lietuvoje nebūsianti vykdoma vadinamoji egzekucija.'
+  teiginys: 'Unijos projekte ir vėlesniuose ginčuose lietuviai reikalavo garantijos, kad Lietuvoje nebus vykdoma egzekucija.'
   pagrindžia:
     - c-069
 - t-049
   teiginys: 'Tačiau dar ilgai lietuviai savo didįjį kunigaikštį rinkdavosi atskirai nuo lenkų.'
   pagrindžia:
     - c-070
+- t-050
+  teiginys: 'Tik X a. Lietuvos vardu Europai tapusi žinoma tauta citatoje siejama su trijų skirtingų kilmių gyventojų samplaika.'
+  pagrindžia:
+    - c-071
+- t-051
+  teiginys: 'Cituojamame aiškinime teigiama, kad žemaičiai nuo senų laikų save vadino lietuviais.'
+  pagrindžia:
+    - c-072
+- t-052
+  teiginys: 'Palei Vilnią gyvenę lietuviai ir Perkūną garbinę vaidilos citatoje laikomi būsimo Vilniaus užuomazga iki Gedimino.'
+  pagrindžia:
+    - c-073
+- t-053
+  teiginys: 'Ordino riteriai, nešini šv. Jurgio vėliava, puolė į mūšį, bet lietuviai juos atrėmė.'
+  pagrindžia:
+    - c-074
+- t-054
+  teiginys: '1385 m. pabaigoje Jogaila, lydimas gausios lietuvių kunigaikščių ir didikų svitos, išvyko į Krokuvą.'
+  pagrindžia:
+    - c-075
+- t-055
+  teiginys: 'Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją.'
+  pagrindžia:
+    - c-076
+- t-056
+  teiginys: 'Šv. Kryžiaus Išaukštinimo dieną gausus lietuvių pulkas užgriuvo Prūsiją.'
+  pagrindžia:
+    - c-077
+- t-057
+  teiginys: 'Po šv. Grigaliaus šventės lietuviai įsiveržė į Memelį, sudegino miestą su priemiesčiais ir paėmė belaisvių.'
+  pagrindžia:
+    - c-078
+- t-058
+  teiginys: 'Prūsijoje pasklido gandas, kad Gediminas laiškais skelbė norą priimti krikštą.'
+  pagrindžia:
+    - c-079
+- t-060
+  teiginys: 'Dalis lietuvių diduomenės ir paprastų žmonių, kaip manyta, nekeisianti senojo gyvenimo būdo.'
+  pagrindžia:
+    - c-081
+- t-061
+  teiginys: 'Anglų riteriai, ne kartą draugėj su kryžiuočiais ėję į kryžiaus žygius kautis su pagonimis lietuviais, ga­ lėjo kryžiuočius prieš kelerius me­ tus su tuo bombardų išradimu su­ pažindinti, galėjo ir Gediminas nuo jų žūti.'
+  pagrindžia:
+    - c-082
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Lietuvių vardą pirmasis paminėjo vienas Karolio Didžiojo žvalgas.'
@@ -484,7 +522,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-010
     - t-010
 - c-029
-  santrauka: 'Kildindamas lietuvius iš romėnų, legendarinėje dalyje jis padarė ypač daug papildinėjimų, pvz., surašė genealogiją atskirų Lietuvos žymių šeimų, vesdamas jų pradžią iš Romos patricijų.'
+  santrauka: 'Kildindamas lietuvius iš romėnų, istorikas papildė legendinę dalį Lietuvos žymių šeimų genealogijomis iš Romos patricijų.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kildindamas lietuvius iš romėnų, legendarinėje dalyje jis
@@ -501,7 +539,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   pagrindžia:
     - t-008
 - c-030
-  santrauka: 'Latvių ten atliktas asimiliacijos faktas yra aiškus, kaip aišku ir tai, kad pietines žiemgalių ir sėlių sritis yra asimiliavę lietuviai.'
+  santrauka: 'Lietuviai, kaip teigiama citatoje, asimiliavo pietines žiemgalių ir sėlių sritis.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Latvių ten atliktas asimiliacijos
@@ -548,7 +586,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   pagrindžia:
     - t-011
 - c-033
-  santrauka: 'Pagal Dusbur­ gą, jiems talkos siuntę ir lietuviai, ir iki Mindaugo nužudymo yra minimi (1262-63 m.) du jų žygiai į Prūsus208 .'
+  santrauka: 'Pagal Dusburgą, 1262–1263 m. lietuviai surengė du žygius į Prūsus, talkindami prūsams.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Pagal Dusbur­
@@ -565,7 +603,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   pagrindžia:
     - t-012
 - c-034
-  santrauka: 'Mindaugas lietuvių tautoje yra atlikęs svarbių uždavinių.'
+  santrauka: 'Mindaugas apjungė smulkias Lietuvos, ypač Aukštaitijos, kunigaikštijas vienoje valdžioje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Mindaugas lietuvių tautoje yra atlikęs svarbių uždavinių. Nuo
@@ -580,7 +618,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   pagrindžia:
     - t-013
 - c-035
-  santrauka: 'Ne vien tik Romanaičiai pajuto energingo Lietuvos valdovo ranką.'
+  santrauka: 'Lietuviai vėl stipriai puolė Livonijos kryžiuočius ir rengė intensyvius karo žygius į Lenkiją.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Ne vien tik Romanaičiai pajuto energingo Lietuvos valdovo
@@ -595,7 +633,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   pagrindžia:
     - t-014
 - c-036
-  santrauka: 'Lietuviai prievarta imdavo galinčius ginklą vartoti^248.'
+  santrauka: 'Lietuviai prievarta imdavo žmones, galinčius vartoti ginklą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Lietuviai prievarta imdavo galinčius ginklą
@@ -610,7 +648,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   pagrindžia:
     - t-015
 - c-037
-  santrauka: 'Kronikininkas Posilgė, kuris apie kryžiuočius kautynių pabaigoje rašė, jog jie, esą bėgę («in der flucht geslagin »), apie lietuvius tiek tepasakė, kad jie buvę atmušti^26.'
+  santrauka: 'Kronikininkas Posilgė apie lietuvius kautynių pabaigoje tepasakė, kad jie buvo atmušti.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Šitas «bėgimas»
@@ -642,7 +680,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   pagrindžia:
     - t-017
 - c-039
-  santrauka: 'Lietuvos vardo kilmė ir sampratos likimas Lietuvos vardas pirmąkart paminėtas 1009 m., tačiau atsirado jis anksčiau: lietuvių gentis iš rytų baltų turėjo išsiskirti prieš keliolika amžių.'
+  santrauka: 'Lietuvos vardas pirmąkart paminėtas 1009 m., bet lietuvių gentis iš rytų baltų turėjo išsiskirti anksčiau.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos vardo kilmė ir
@@ -659,7 +697,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   pagrindžia:
     - t-018
 - c-040
-  santrauka: 'Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo) valstybės pakraščiuose, ne lietuvių, o senųjų rusų (arba rusėnų), taip pat žemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš Lietuvos.'
+  santrauka: 'Valstybės pakraščiuose Lietuvos valdovai galėjo įkurdinti ištikimus žmones iš Lietuvos, vadintus leičiais arba liečiais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Grindžiama
@@ -695,7 +733,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   pagrindžia:
     - t-020
 - c-042
-  santrauka: 'Lietuviai veikiausiai buvo tokie pat imperialistai kaip ir kiti, tik, užgrobę svetimą kraštą, „nespausdavo“, t.'
+  santrauka: 'Užėmę svetimą kraštą, lietuviai iš pradžių veikiausiai nekeisdavo susiklosčiusios tvarkos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuviai veikiausiai buvo tokie pat imperialistai kaip ir kiti, tik, užgro-
@@ -709,7 +747,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   pagrindžia:
     - t-021
 - c-043
-  santrauka: 'Atėję iš ryškią individualią alodinę nuosavybės struktūrą turinčios visuomenės lietuvių bajorai ir individualiai ūkininkaujantys valstiečiai skyrėsi nuo rytinių slavų.'
+  santrauka: 'Lietuvių bajorai ir individualiai ūkininkaujantys valstiečiai skyrėsi nuo rytinių slavų žemėvaldos tradicijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Atėję iš ryškią individualią alodinę nuosavybės struk-
@@ -743,7 +781,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   pagrindžia:
     - t-023
 - c-045
-  santrauka: 'Ir vis dėlto net ir šiais vėlyvais amžiais gyvavo „lietuvių nacija“, LDK „politinė tauta“.'
+  santrauka: 'XVII–XVIII a. LDK dar gyvavo lietuvių nacija, suprasta kaip politinė tauta.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     XVII–XVIII  a. formavosi ir bendra Abiejų Tautų Respublikos kaip
@@ -847,42 +885,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-028
-- c-050
-  santrauka: '1897 m. surašymo duomenimis, gyventojų skaičius maždaug dabartinės Lietuvos ribose (be Klaipėdos krašto) siekė apie 2,7 mln.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1897 m. surašymo duomenimis, gyventojų skaičius maždaug da-
-    bartinės Lietuvos ribose (be Klaipėdos krašto) siekė apie 2,7 mln. Apie
-    1,6 mln. (58 proc.) jų buvo etniniai lietuviai (prie lietuvių save priskyrė
-    ir apie 28 proc. bajorų – tuomet bajorai sudarė 5,3 proc. visų krašto gy-
-    ventojų), 13 proc. – žydai, 10 proc. – lenkai, 15 proc. – baltarusiai, rusai ir
-    ukrainiečiai kartu sudėjus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-029
-- c-051
-  santrauka: 'Į šį leidinį stengtasi atrinkti svarbesnius, įdokotarpio karybos, ginkluotės raidos tendencijas bei regiono mesnius, o svarbiausia tuos mūšius, kuriuose lietuviai kovojo geopolitinį kontekstą.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Į šį leidinį stengtasi atrinkti svarbesnius, įdo- kotarpio karybos, ginkluotės raidos tendencijas bei regiono
-    mesnius, o svarbiausia tuos mūšius, kuriuose lietuviai kovojo geopolitinį kontekstą.
-    dėl Lietuvos valstybės interesų, todėl į knygą nepateko karinės Knygos rengėjai tikisi, kad ši knyga suteiks galimybę skaityto-
-    operacijos, kuriose lietuviai dalyvavo kitų šalių kariuomenėse, ar jams pamatyti Lietuvos istoriją ir Lietuvos karybos raidą nauju
-    mūšiai, kuriuose lietuviai talkino kitoms šalims sąjungininkėms kampu ir paskatins papildyti Lietuvos karybos istorijos tyrinėtojų
-    ir jungtinėse kariuomenėse nesudarė ženklios dalies ar neatliko gretas naujais jaunais istorikais.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-030
 - c-053
-  santrauka: 'Vytautas brendo audringu Lietuvos valstybės laikotarpiu, kada jo tėvas, gindamas Žemaitijos bei lietuvių laisvę, negalėjo išleisti ginklo iš rankų, nes du galingi priešai, kardininkai iš šiaurės ir kryžiuočiai iš žiemos vakarų pusės, tuo laiku ypač smarkiai.'
+  santrauka: 'Vytauto jaunystės laikotarpiu kardininkai ir kryžiuočiai smarkiai puldavo Lietuvą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas brendo audringu Lietuvos valstybės laikotarpiu,
@@ -907,7 +911,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   pagrindžia:
     - t-032
 - c-054
-  santrauka: 'Po Ostrovos sutarties lietuviai savo valstybę laikė visiš­ kai savarankišką^1 ), o lenkai, remdamiesi Krėvės unijos aktu, laikė Lietuvą savo provincija.'
+  santrauka: 'Po Ostrovos sutarties lietuviai savo valstybę laikė visiškai savarankiška.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Po Ostrovos sutarties lietuviai savo valstybę laikė visiš­
@@ -923,7 +927,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   pagrindžia:
     - t-033
 - c-055
-  santrauka: 'Lietuviams, lais­ viems nuo senų senovės, mokėti kam nors mokesčius ir tuo pri­ pažinti savo priklausomybę, ir tai tada, kai prieš Lietuvos galy­ bę drebėjo visos aplinkinės tautos, viso to buvo perdaug!'
+  santrauka: 'Lietuviams mokėti mokesčius ir taip pripažinti priklausomybę buvo laikoma per didele nuolaida.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Lietuviams, lais­
@@ -940,7 +944,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   pagrindžia:
     - t-034
 - c-056
-  santrauka: 'Lietu­ vių ir rusų bajorai paskelbė Vytautą Lietuvos ir Rusijos kara­ liumi.'
+  santrauka: 'Lietuvių ir rusų bajorai paskelbė Vytautą Lietuvos ir Rusijos karaliumi.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Lietu­
@@ -954,7 +958,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   pagrindžia:
     - t-035
 - c-057
-  santrauka: 'Tuo būdu Vytauto kariuomenę sudarė lietuviai, žemaičiai, vokie­ čiai, lenkai, totoriai, rusai, valakai, vadinas, Vytauto vedama kariuomenė buvo internacionalinė.'
+  santrauka: 'Vytauto kariuomenę sudarė lietuviai, žemaičiai, vokiečiai, lenkai, totoriai, rusai ir valakai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tuo
@@ -970,7 +974,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   pagrindžia:
     - t-036
 - c-058
-  santrauka: 'Lietuvos kariuomenė pradėjo rinktis gegužės mėn.'
+  santrauka: 'Lietuvos kariuomenė pradėjo rinktis gegužės pabaigoje arba birželio pradžioje.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Lietuvos kariuomenė
@@ -984,7 +988,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   pagrindžia:
     - t-037
 - c-059
-  santrauka: 'Tuo metu ir įvyko lietuvių puolimas iš Žemaičių, o lenkų — netoli Sviečės.'
+  santrauka: 'Tuo metu lietuviai puolė iš Žemaitijos, o lenkai – netoli Sviečės.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tuo metu ir įvyko lietuvių puolimas iš
@@ -1000,7 +1004,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   pagrindžia:
     - t-038
 - c-060
-  santrauka: 'Pirmutiniai žygiavo lietuviai.'
+  santrauka: 'Lietuviai žygiavo pirmieji ir prie Gilgenburgo užpuolė bei paėmė miestelį.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Pirmutiniai žygiavo lietuviai. Kai visa kariuomenė apsistojo
@@ -1015,7 +1019,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   pagrindžia:
     - t-039
 - c-061
-  santrauka: 'Pabėgusios lietuvių kariuomenės sugrįžimas ir stojimas mūšin tuo momentu, kai jau laimė sviro kryžiuočių pusėn, yra nepa­ prastas karo taktikos reiškinys.'
+  santrauka: 'Lietuvių kariuomenė grįžo į mūšį tuo metu, kai sėkmė jau sviro kryžiuočių pusėn.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Pabėgusios lietuvių kariuomenės sugrįžimas ir stojimas mūšin
@@ -1031,7 +1035,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   pagrindžia:
     - t-040
 - c-062
-  santrauka: 'Lenkų ponų taryba Radome davė garantiją, kaip lietuv.'
+  santrauka: 'Lietuvių bajorai gavo teisę po Vytauto mirties dalyvauti naujo kunigaikščio rinkimuose.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Lenkų ponų
@@ -1082,7 +1086,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   pagrindžia:
     - t-043
 - c-065
-  santrauka: 'Sužinoję apie kryžiuočių žygį, lietuviai skubėdavo pasislėpti miškuose, iš kur tykodavo užpulti kryžiuočius, dažnai jie sunaikindavo ištisą grįžtančių kryžiuočių būrį: kryžiuočių kelią staiga užvertę medžiais, patys iš visų pusių supuolę juos išžudydavo.'
+  santrauka: 'Sužinoję apie kryžiuočių žygį, lietuviai slėpdavosi miškuose ir iš pasalų puldavo grįžtančius kryžiuočius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Sužinoję apie kryžiuočių žygį, lietuviai skubė-
@@ -1154,7 +1158,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   pagrindžia:
     - t-047
 - c-069
-  santrauka: 'Tad ir šitam unijos projekte ir vėlesniuose ginčuose su lenkais lietuviai reikalavo, kad karalius duotų garantiją, jog Lietuvoje nebūsianti vykdoma vadinamoji egzekucija.'
+  santrauka: 'Unijos projekte ir vėlesniuose ginčuose lietuviai reikalavo garantijos, kad Lietuvoje nebus vykdoma egzekucija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tad ir šitam unijos projekte ir vėlesniuose ginčuose su lenkais
@@ -1186,6 +1190,278 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-049
+- c-071
+  santrauka: 'Tik X a. Lietuvos vardu Europai tapusi žinoma tauta citatoje siejama su trijų skirtingų kilmių gyventojų samplaika.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Iš tokio
+    trijų skirtingų kilmių gyventojų maišymosi ir samplaikos
+    radosi nauja pasienio tauta, kuri senovės geografų ilgai bu­
+    vo vadinta skyrų, herulų ir vidivarijų vardais ir tik X amžiuje
+    Lietuvos vardu tapo žinoma Europai1. Ta lietuvių tauta, išsis­
+    kyrusi į šešias pagrindines atšakas: prūsus, žemaičius, kur­
+    šius, latvius, jotvingius ir lietuvius, žemėse palei Viliją, arba
+    tikrojoj Lietuvoj, užėmė visą Baltijos pakrantę, nuo Dvinos
+    iki Vyslos, o į žemyno gilumą buvo pasistūmėjusi tiesiog iki
+    Nemuno ir Būgo žiočių. Prūsai - apie jų kalbą pasakytina,
+    kad pasidavė kaimynų gotų įtakai; jotvingiai, labiau negu
+    palei Viliją gyvenę ar aukštaičiai, pasistūmėję į Rusios gilu­
+    mą, kalba ir papročiais į slavus panašūs; vien tik Žemaitija,
+    iki pat Baltijos jūros siekianti, kaip lietuvių genties centras,
+    išsaugojo gryniausius savo padermės bruožus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-050
+- c-072
+  santrauka: 'Cituojamame aiškinime teigiama, kad žemaičiai nuo senų laikų save vadino lietuviais.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tai reiškia:
+    „Žemaitijos žemė yra ir visada bu­
+    vo vienas ir tas pats, kaip ir Lietu­
+    vos žemė: juk ta pati kalba ir tie pa­
+    tys žmonės; tik dėl to, kad žemaičių
+    žemė yra žemesnė už Lietuvos že­
+    mę, todėl ir vadinama Szomoyth, kas
+    lietuviškai reiškia - žemesnė žemė.
+    O žemaičiai Lietuvą vadina Auxto-
+    te, tai yra aukštesnė žemė palyginus
+    su Žemaitija. Visi žemaičiai nuo se­
+    nų laikų lietuviais save vadino, bet
+    niekados - žemaičiais, ir dėl tokio ta­
+    patumo mes mūsų titule nerašome
+    Žemaitijos vardo, nes viskas yra vie­
+    na - ir žemė, ir žmonės/'
+    3
+    Kraštas, lankytas normanų piratų iš
+    Švedijos, Norvegijos ir Danijos, už­
+    ėmė visą Baltijos jūros pakrantę nuo
+    Vyslos žiočių iki pat Suomijos įlan­
+    kos ir buvo jų vadinamas A ust u rweg.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-051
+- c-073
+  santrauka: 'Palei Vilnią gyvenę lietuviai ir Perkūną garbinę vaidilos citatoje laikomi būsimo Vilniaus užuomazga iki Gedimino.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Nesunku numanyti, koks buvo Vilniaus, kaip miesto,
+    pradinis kūrimasis. Palei Vilnios upę esančios gyvenvietės
+    senbuviai lietuviai, greta jų Perkūną garbinę vaidilos ir jų
+    svitai priklausę žmonės - tokia tad būsimo miesto užuomaz­
+    ga dar iki Gedimino. Kai tas galingas valdovas įsakė ant kal­
+    no sumūryti pilį ir papėdėje pastatyti medinę tvirtovę, už­
+    12
+    R a y n a 1  d u s Annal.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-052
+- c-074
+  santrauka: 'Ordino riteriai, nešini šv. Jurgio vėliava, puolė į mūšį, bet lietuviai juos atrėmė.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Su trigubai di­
+    desniu įniršiu, nešini šv. Jurgio vėliava puolė į mūšį Ordino
+    riteriai, bet, narsiai lietuvių atremti, patyrę didelių nuosto­
+    lių, turėjo grįžti prie likusių karių. Tačiau mūšio metu į me­
+    dinius miesto namus mestas deglas sukėlė didžiulį gaisrą,
+    per kurį didelę Vilniaus dalį pasiglemžė ugnis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-053
+- c-075
+  santrauka: '1385 m. pabaigoje Jogaila, lydimas gausios lietuvių kunigaikščių ir didikų svitos, išvyko į Krokuvą.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Juk kai per Jogai­
+    los apsukrų laviravimą žlugo visos kryžiuočių jam daromos
+    kliūtys siekti Lenkijos sosto, 1385 metų pabaigoje Lietuvos
+    valdovas paliko savo senąją sostinę ir gausios lietuvių kuni­
+    gaikščių ir didikų svitos lydimas išvyko į Krokuvą.
+    Miesto, kurio istorijos įvykius keliame iš užmaršties, li­
+    kimas glaudžiai susijęs su viso krašto likimu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-054
+- c-076
+  santrauka: 'Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Kol vokiečių kariau­
+    na dar delsė stovyklaudama Žemaitijoje, galingas lietuvių
+    pulkas įsiveržė į Livoniją ir pirmiausia ugnimi bei kardu
+    nusiaubė Dorpato vyskupiją; daugiau kaip penki tūkstan­
+    čiai krikščionių buvo per tą antpuolį užmušta ar į nelaisvę
+    išsivesta3. Vėliau tarp kryžiuočių buvo įsigalėjusi visuotinė
+    nuomonė, esą kupinas senos neapykantos Rygos arkivys­
+    kupas Fridrichas atsikvietęs priešą į šalį; bent jau neabejoti­
+    nas dalykas, jog Gediminas nuo to laiko su arkivyskupu bu­
+    vo susimokęs ir veikė jo patarimų ir planų paisydamas1 5 .
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-055
+- c-077
+  santrauka: 'Šv. Kryžiaus Išaukštinimo dieną gausus lietuvių pulkas užgriuvo Prūsiją.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Iki to laiko sėkmės lydėti lietuviai taip suįžūlėjo, kad
+    Šv. Kryžiaus Išaukštinimo dieną, kai Prūsijos vyresnybė iš­
+    vyko į Marienburgą, į kapitulą, gausus jų pulkas užgriūna
+    tą kraštą, nužudo nuo šešių iki aštuonių tūkstančių abiejų
+    lyčių gyventojų1  arba juos išsiveda į nelaisvę iki gyvos galvos;
+    shin aiškina: dry vlihuyser, taip pat
+    Łuk.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-056
+- c-078
+  santrauka: 'Po šv. Grigaliaus šventės lietuviai įsiveržė į Memelį, sudegino miestą su priemiesčiais ir paėmė belaisvių.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Gregorii
+    iidem Lytvini civitatem Memelam ar­
+    m ata manu intraverunt hostiliter et eam
+    cum suburbiis suis preter solum cast­
+    rum muro circumdatum, in quo fratres
+    ejusdem ordinis morantur, ceperunt,
+    cremaverunt et penitus destruxerunt,
+    multos ibidem occidentes homines ac
+    eciam captivantes virgines, mulieres et
+    alios quos rapere valuerunt [Tais pa­
+    čiais metais po pal. Grigaliaus šven­
+    tės tie patys lietuviai į Memelio
+    miestą ginkluota jėga priešiškai įsi­
+    veržė ir jį su jo priemiesčiais, išsky­
+    rus pačią pilį, apjuostą siena, kurio­
+    je to paties Ordino brolių būta,
+    paėmė, sudegino ir iki pamatų su­
+    griovė, ten pat daugybę žmonių nu­
+    žudė ir paėmė į nelaisvę merginų,
+    moterų ir kitų, kuriuos tik įstengė
+    pagrobti].
+    g
+    Dyploma tą patį byloja ir Wehlau va­
+    dina Wilnnouwe.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-057
+- c-079
+  santrauka: 'Prūsijoje pasklido gandas, kad Gediminas laiškais skelbė norą priimti krikštą.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Ir kaip tik
+    70
+
+    ## Puslapis 87
+
+    I  KNYGA
+    Kai plėšikaujančių lietuvių gaujos, dažniausiai valdovo
+    numylėtinių ir bičiulių vedamos, su laukiniu įniršiu šitaip
+    niokojo krikščionių žemes, Prūsijoje pasklido gandas, jog ka­
+    ralius Gediminas į visas šalis išsiuntinėjo laiškus, skelbda­
+    mas apie savo norą priimti krikštą ir prisijungti prie tikinčių­
+    jų. Netrukus su tais laiškais ir Prūsijoje buvo susipažinta.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-058
+- c-081
+  santrauka: 'Dalis lietuvių diduomenės ir paprastų žmonių, kaip manyta, nekeisianti senojo gyvenimo būdo.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tačiau ka­
+    dangi daugelis pavienių lietuvių iš diduomenės ir paprastų
+    žmonių nekeisią savo senojo gyvenimo būdo, tad, skaitantis
+    su tomis aplinkybėmis, būsią naudinga pirma pasiųsti į Lie­
+    tuvą pasiuntinius, ir pridūrė: Si prefato negocio stante in su­
+    spenso antequam fidem christi suscipiant et baptismum, quemad­
+    modum in litteris pollicentur prelibatis, in Christianos quod absit,
+    aut in res, terras seu personas eorundem manus mitterent virulen­
+    tas, sicut ex certis verisimiliter formidant coniecturis, cum fides fi­
+    dem non servanti minime debeat observari, in ipsos cogentur fidei
+    contumeliam vindicare, atque hoc facientes promissi sui inveniri
+    nolunt circa premissa transgressores [Jei minėtas reikalas atsi­
+    durs ant pražūties slenksčio anksčiau, negu jie Kristaus tikė­
+    jimą ir krikštą priimtų, kurį bent jau iš anksto laiškuose žada,
+    į krikščionis kad nebūtų, arba į reikalus, žemes arba jų pačių
+    asmenis išties nuodingas rankas; tartum tam tikrų, tikėtina,
+    baimintųsi pasekmių; kadangi tikėjimas tikėjimui netarnau­
+    jančiam mažiausiai reikalinga garbinti, pačiuose privalo ti­
+    kėjimo niekinimą įveikti ir šitai darydami dėl savo pažado
+    nenori pažeidėjų atskleisti].
+    Visą tą aukščiau aprašytą reikalą raštininkas išdėstė tarny­
+    biniame pranešime (Notariats instrument), į kurį taip pat buvo
+    įrašyti ir tariamieji Gedimino laiškai dviem ordinams ir pajū­
+    rio miestams, ir kaip tik šis dokumentas yra Kryžiuočių archy­
+    ve, ir tik iš jo su tais laiškais galima susipažinti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-060
+- c-082
+  santrauka: 'Anglų riteriai, ne kartą draugėj su kryžiuočiais ėję į kryžiaus žygius kautis su pagonimis lietuviais, ga­ lėjo kryžiuočius prieš kelerius me­ tus su tuo bombardų išradimu su­ pažindinti, galėjo ir Gediminas nuo jų žūti.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Anglų riteriai, ne kartą draugėj su
+    kryžiuočiais ėję į kryžiaus žygius
+    kautis su pagonimis lietuviais, ga­
+    lėjo kryžiuočius prieš kelerius me­
+    tus su tuo bombardų išradimu su­
+    pažindinti, galėjo ir Gediminas nuo
+    jų žūti.
+    - • —
+    103
+
+    ## Puslapis 120
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    vietos žmonių, atiteko sūnui vienos karo belaisvės, lietuvių
+    paimtos Prūsijoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-061
 
 ## Ryšiai
 ### Susiję objektai
@@ -1211,7 +1487,6 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - [[objektai/autoriai/A. Mickevičius]]
 - [[objektai/grupes/A. Mokšeckio brigada]]
 - [[objektai/autoriai/A. Plateris]]
-- [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/asmenys/Adolfas Šapoka]]
 - [[objektai/asmenys/Adomas Jakštas-Dambrauskas]]
 - [[objektai/asmenys/Adomas Mickevičius|Adomas Mickevičius (poetas)]]
@@ -1223,12 +1498,12 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - [[objektai/asmenys/Aleksandras Gonsevskis]]
 - [[objektai/asmenys/Aleksandras Štromas]]
 - [[objektai/autoriai/Aleksandro Gvanjinio]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/ivykiai/Algirdo Brazausko tapimas LKP CK pirmuoju sekretoriumi ir Vilniaus arkikatedros grąžinimas tikintiesiems (1988 m. spalis)]]
 - [[objektai/grupes/Ambasadorių Konferencija]]
 - [[objektai/grupes/Amerikos Lietuvių R. Katalikų Moksleivių Susivienijimas]]
 - [[objektai/ivykiai/Amerikos lietuvių seimas Niujorke (1918 m. kovo 13–14 d.)]]
 - [[objektai/grupes/Amerikos lietuvių taryba|Amerikos lietuvių taryba (institucija)]]
+- [[objektai/paprociai/Amžinosios ugnies saugojimas ir Perkūno garbinimas Šventaragio slėnyje]]
 - [[objektai/asmenys/Andrius Algirdaitis Polockietis]]
 - [[objektai/asmenys/Andrius Vosylius Jastrzębiecas]]
 - [[objektai/asmenys/Antanas Buračas]]
@@ -1252,6 +1527,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - [[objektai/paprociai/Atskiri Lietuvos seimai karo ir tarpuvaldžio metu]]
 - [[objektai/ivykiai/Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga)]]
 - [[objektai/asmenys/Augustinas Voldemaras]]
+- [[objektai/daiktai/Aukuras]]
 - [[objektai/grupes/Aukštaičiai]]
 - [[objektai/grupes/Aukščiausioji Visos Rusijos Lietuvių Tautos Taryba|Aukščiausioji Visos Rusijos Lietuvių Tautos Taryba (institucija)]]
 - [[objektai/grupes/Aušrininkų organizacija]]
@@ -1261,8 +1537,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - [[objektai/daiktai/Balti vilnoniai marškiniai]]
 - [[objektai/grupes/Baltų kovų brolija „Vilkatlakai“]]
 - [[objektai/asmenys/Balys Sruoga]]
+- [[objektai/asmenys/Barbora Radvilaitė]]
 - [[objektai/ivykiai/Baro konfederacija (1768–1772 m.)]]
-- [[objektai/zodynas/Baudžiava]]
 - [[objektai/posakiai/Be abejonės, sanskrito giminingumas su lietuvių kalba]]
 - [[objektai/posakiai/Bemeilijo žūti ugny, negu pasiduoti vokiečiams]]
 - [[objektai/paprociai/Bendras Lietuvos ir Lenkijos valdovo rinkimas]]
@@ -1296,7 +1572,6 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - [[objektai/asmenys/Dominykas Semaško]]
 - [[objektai/asmenys/Donatas Malinauskas]]
 - [[objektai/grupes/Dono kazokų pulkas]]
-- [[objektai/asmenys/Dovydas (Gardino pilininkas)]]
 - [[objektai/grupes/Draugija Užsienio Lietuviams Remti (DULR)]]
 - [[objektai/ivykiai/Draugijos Užsienio Lietuviams Remti įsikūrimas ir veikla (1932 m.)]]
 - [[objektai/ivykiai/Durbės mūšis (1260 m.)]]
@@ -1306,7 +1581,6 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - [[objektai/autoriai/Edv. Volteris]]
 - [[objektai/zodynas/Eistr]]
 - [[objektai/paprociai/Elekcijų dalyvavimo tvarka lenkai viritim, lietuviai atstovais]]
-- [[objektai/asmenys/Elžbieta]]
 - [[objektai/grupes/Etninių lietuvių tautinis kultūrinis sąjūdis]]
 - [[objektai/paprociai/Fronto kasdienybė: naktinis budėjimas ir dienos miegas slėptuvėse]]
 - [[objektai/asmenys/Gabrielis Narutovičius]]
@@ -1315,7 +1589,6 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - [[objektai/grupes/Gardino pulkas]]
 - [[objektai/grupes/Gardino seimas (1566 m.)]]
 - [[objektai/grupes/Gediminaičių šeima]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
 - [[objektai/ivykiai/Gedimino sostinės perkėlimas į Vilnių (iki 1322 m.)]]
 - [[objektai/ivykiai/Gedimino sąjunga su Lenkija]]
 - [[objektai/ivykiai/Gedimino taikos sutartis su Livonija (1322 m.)]]
@@ -1343,16 +1616,15 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - [[objektai/autoriai/Henrikas]]
 - [[objektai/daiktai/Herbas]]
 - [[objektai/autoriai/Hermanas Vartbergė]]
-- [[objektai/grupes/Husitai]]
 - [[objektai/grupes/II brigada]]
 - [[objektai/ivykiai/IV Pasaulio lietuvių sporto žaidynės Lietuvoje (1991 m. vasara)]]
 - [[objektai/daiktai/Ietis]]
 - [[objektai/autoriai/Ign. Kraszewskio]]
 - [[objektai/autoriai/Isaac Taylor]]
+- [[objektai/paprociai/Istorikų darbų aptarinėjimas bajorų pobūviuose ir privačių kolekcijų kaupimas]]
 - [[objektai/grupes/Istorikų kolektyvas]]
 - [[objektai/autoriai/J. Antoniewicz]]
 - [[objektai/grupes/J. Baranovskio brigada]]
-- [[objektai/autoriai/J. Dlugošas]]
 - [[objektai/autoriai/J. Grinius]]
 - [[objektai/autoriai/J. Jaroszewicz]]
 - [[objektai/asmenys/J. Kraševskis]]
@@ -1369,7 +1641,6 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - [[objektai/asmenys/Jaroslavas (Kijevo valdovas)]]
 - [[objektai/asmenys/Jaroslavas (rusų kunigaikštis, 1234 m.)]]
 - [[objektai/asmenys/Jelena Boner]]
-- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
 - [[objektai/ivykiai/Jogailos 1387 m. privilegijos ir popiežiaus 1403 m. draudimas Ordinui kariauti|Jogailos 1387 m. privilegijos ir popiežiaus 1403 m. draudimas Ordinui kariauti (privilegija, XIV a.)]]
 - [[objektai/ivykiai/Jogailos ir Vytauto susitaikinimas]]
 - [[objektai/grupes/Jogailos palikuonys]]
@@ -1380,9 +1651,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - [[objektai/asmenys/Jonas XXIII]]
 - [[objektai/ivykiai/Jono Sobieskio elekcija (1674 m.)]]
 - [[objektai/asmenys/Josifas Stalinas]]
-- [[objektai/grupes/Jotvingiai]]
 - [[objektai/asmenys/Julija Žymantienė-Žemaitė]]
-- [[objektai/asmenys/Julijona (Vytauto žmona)]]
 - [[objektai/ivykiai/Junigėdos ir Peštvės priešpilių sudeginimas (1298 m.)]]
 - [[objektai/ivykiai/Junigėdos puolimas laivu ir Surmino kontrataka (1313 m.)]]
 - [[objektai/daiktai/Juostos]]
@@ -1391,7 +1660,6 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - [[objektai/asmenys/Jurgis (Lengvenio sūnus)]]
 - [[objektai/asmenys/Jurgis Baltrušaitis]]
 - [[objektai/asmenys/Jurgis Matulaitis]]
-- [[objektai/asmenys/Jurgis Radvila]]
 - [[objektai/asmenys/Jurgis Vytautaitis]]
 - [[objektai/asmenys/Jurgis Šaulys]]
 - [[objektai/asmenys/Juzefas Pilsudskis]]
@@ -1401,7 +1669,6 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - [[objektai/autoriai/K. Chodynicki]]
 - [[objektai/autoriai/K. Duonelaitis]]
 - [[objektai/asmenys/K. Ladyga]]
-- [[objektai/grupes/Kalavijuočių ordinas]]
 - [[objektai/posakiai/Kalbos dvasios nepažinęs, taisykliškai kalbėt ir rašyt neišmoksi]]
 - [[objektai/grupes/Kalnėnai]]
 - [[objektai/autoriai/Kantas]]
@@ -1417,7 +1684,6 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - [[objektai/ivykiai/Karusės mūšis (1270 m. vasario 16 d.)]]
 - [[objektai/ivykiai/Karšuvos nuniokojimas ir Skronaičių bei Bebirvaičių pilių sudeginimas (1307 m.)]]
 - [[objektai/ivykiai/Katalikiško moksleivių judėjimo plėtra Amerikoje (1899–1912 m.)]]
-- [[objektai/grupes/Katalikų Bažnyčia]]
 - [[objektai/asmenys/Kazimiera Prunskienė]]
 - [[objektai/asmenys/Kazimieras Antanavičius]]
 - [[objektai/asmenys/Kazimieras Būga]]
@@ -1446,7 +1712,6 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - [[objektai/paprociai/Kronikų rašymo ir lietuvių kilmės iš romėnų mito perėmimas]]
 - [[objektai/daiktai/Kryžiuočių kariuomenės dalių vėliavos]]
 - [[objektai/daiktai/Kryžiuočių kariuomenės vėliavos]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/autoriai/Ks. Bauža]]
 - [[objektai/autoriai/Ksaveras Bogušas]]
 - [[objektai/paprociai/Kunigo A. Mackevičiaus religinės apeigos sukilėlių stovykloje]]
@@ -1458,7 +1723,6 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - [[objektai/ivykiai/Kėdainių-Šėtos kautynės]]
 - [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]
 - [[objektai/ivykiai/Kėzmarko suvažiavimas ir santykių su husitais nutraukimas (1423 m.)]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
 - [[objektai/paprociai/Kęstučio riteriškų papročių laikymasis]]
 - [[objektai/autoriai/L. Kondratowicziaus (Wl. Syrokomlės)]]
 - [[objektai/autoriai/L. Truska]]
@@ -1467,12 +1731,11 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - [[objektai/grupes/LTSR Mokslų Akademijos Istorijos Institutas]]
 - [[objektai/paprociai/Laidotuvių giesmė ir įkapės]]
 - [[objektai/grupes/Laikinoji vyriausybė]]
-- [[objektai/grupes/Latviai]]
+- [[objektai/daiktai/Laivai]]
 - [[objektai/asmenys/Laurencijus Bojeris]]
 - [[objektai/asmenys/Lebedevas]]
 - [[objektai/posakiai/Leidžiama spausdinti, tik rusiškomis raidėmis]]
 - [[objektai/autoriai/Lelevelis]]
-- [[objektai/grupes/Lenkai]]
 - [[objektai/ivykiai/Lenkijos ultimatumas Lietuvai ir jo priėmimas (1938 m. kovo 17-19 d.)]]
 - [[objektai/grupes/Lenkijos valstybės taryba|Lenkijos valstybės taryba (institucija)]]
 - [[objektai/grupes/Lenkų bajorai]]
@@ -1520,7 +1783,6 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - [[objektai/ivykiai/Lietuvių raštijos tradiciniu raidynu draudimo pradžia]]
 - [[objektai/grupes/Lietuvių vienybės sąjūdis]]
 - [[objektai/grupes/Lietuvos Didžioji Kunigaikštija]]
-- [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė]]
 - [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis]]
 - [[objektai/grupes/Lietuvos Respublika]]
 - [[objektai/grupes/Lietuvos Respublikos švietimo ministerija|Lietuvos Respublikos švietimo ministerija (institucija)]]
@@ -1537,8 +1799,10 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - [[objektai/ivykiai/Lietuvos ir Lenkijos paskutinis padalinimas]]
 - [[objektai/ivykiai/Lietuvos ir SSRS nepuolimo ir neutralumo sutarties pasirašymas (1926 m. rugsėjo 28 d.)]]
 - [[objektai/ivykiai/Lietuvos istorijos parašymas ir išleidimas Švietimo ministerijos iniciatyva (1936 m.)]]
+- [[objektai/grupes/Lietuvos jėzuitų kolegijos]]
 - [[objektai/grupes/Lietuvos komunistų partija]]
 - [[objektai/ivykiai/Lietuvos krikštas (1387 m.)]]
+- [[objektai/ivykiai/Lietuvos krikštas Vilniuje (1387 m.)]]
 - [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto|Lietuvos kunigaikščių derybos dėl krikšto (krikštas)]]
 - [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos|Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (krikštas)]]
 - [[objektai/grupes/Lietuvos laisvės kovotojų sąjunga]]
@@ -1572,26 +1836,22 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - [[objektai/paprociai/Mergaičių, nuotakų, žmonų ir našlių galvos puošyba]]
 - [[objektai/asmenys/Michailas Jaroslavičius]]
 - [[objektai/asmenys/Michailas Muravjovas]]
-- [[objektai/asmenys/Mikalojus Akelaitis]]
 - [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis|Mikalojus Konstantinas Čiurlionis (dailininkas)]]
 - [[objektai/autoriai/Milkė]]
-- [[objektai/asmenys/Mindaugas]]
 - [[objektai/ivykiai/Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia)]]
 - [[objektai/paprociai/Mindaugo krikšto sukakties minėjimas J. A. V. lietuvių kolonijose|Mindaugo krikšto sukakties minėjimas J. A. V. lietuvių kolonijose (krikštas)]]
 - [[objektai/ivykiai/Mindaugo mirtis]]
 - [[objektai/ivykiai/Mindaugo žygis į Livonijos Ordino žemes]]
 - [[objektai/grupes/Mokslo bičiulių draugija]]
 - [[objektai/grupes/Mokslo mėgėjų draugija Krokuvoje]]
-- [[objektai/grupes/Mongolai]]
-- [[objektai/autoriai/M. Strijkovskis|Motiejus Strijkovskis (kronikininkas)]]
 - [[objektai/autoriai/Motiejus Valančius]]
 - [[objektai/grupes/Mozūrai (XV amžius)]]
 - [[objektai/asmenys/Mykolas]]
+- [[objektai/autoriai/Mykolas Balinskis]]
 - [[objektai/asmenys/Mykolas Biržiška]]
 - [[objektai/autoriai/Mykolas Brenšteinas]]
 - [[objektai/asmenys/Mykolas Glinskis]]
 - [[objektai/asmenys/Mykolas Küchmeisteris]]
-- [[objektai/autoriai/Mykolas Lietuvis]]
 - [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)]]
 - [[objektai/grupes/NKVD]]
 - [[objektai/grupes/Nacių Vokietija]]
@@ -1634,6 +1894,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - [[objektai/asmenys/Petras Klimas]]
 - [[objektai/asmenys/Petras Kriaučiūnas]]
 - [[objektai/autoriai/Petras Suchenwirt]]
+- [[objektai/zodynas/Pilininkas]]
 - [[objektai/ivykiai/Pilypavo mūšis (1656 m. spalio 22 d.)]]
 - [[objektai/ivykiai/Pilėnų pilies gynimas (1336 m.)]]
 - [[objektai/ivykiai/Pirmasis Lietuvos gyventojų surašymas (1923 m. rugsėjo 17 d.)]]
@@ -1668,6 +1929,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - [[objektai/daiktai/Ritmuša]]
 - [[objektai/grupes/Riurikaičių dinastija]]
 - [[objektai/asmenys/Robert Gordon Latham]]
+- [[objektai/ivykiai/Romainių šventvietės sunaikinimas (1294 m.)]]
 - [[objektai/grupes/Romanovų dinastija]]
 - [[objektai/ivykiai/Rusijos ir Lenkijos-Lietuvos karas (1654–1667 m.)]]
 - [[objektai/grupes/Rusijos kariuomenė]]
@@ -1682,6 +1944,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - [[objektai/ivykiai/Rūdavos mūšis (1370 m. vasario 17 d.)]]
 - [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)]]
 - [[objektai/autoriai/Saliamonas Slavočinskis]]
+- [[objektai/ivykiai/Salyno sutartis]]
 - [[objektai/grupes/Sandara]]
 - [[objektai/grupes/Saulė]]
 - [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)]]
@@ -1699,7 +1962,6 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - [[objektai/grupes/Slavai]]
 - [[objektai/grupes/Smolenskiečiai]]
 - [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.)]]
-- [[objektai/grupes/Smolensko pulkai]]
 - [[objektai/ivykiai/Smolensko užėmimas (1395 m. rugsėjo 28 d.)]]
 - [[objektai/ivykiai/Smolensko užėmimas (1405 m.)]]
 - [[objektai/zodynas/Soclageris]]
@@ -1708,7 +1970,6 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - [[objektai/daiktai/Spaudos leidiniai kaip kontrabandiniai objektai]]
 - [[objektai/asmenys/Stanislovas Liubomirskis]]
 - [[objektai/asmenys/Stanislovas Narutavičius]]
-- [[objektai/autoriai/Stasys Šalkauskis]]
 - [[objektai/asmenys/Stasys Šilingas]]
 - [[objektai/zodynas/Status quo]]
 - [[objektai/ivykiai/Steigiamojo Seimo rinkimai ir pirmasis posėdis (1920 m.)]]
@@ -1737,10 +1998,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - [[objektai/grupes/Tautų Sąjungos kontrolės komisija]]
 - [[objektai/paprociai/Teresboro stovyklos mokymai lietuvių kalba]]
 - [[objektai/asmenys/Timūr-Kutlukas]]
-- [[objektai/asmenys/Tochtamišas]]
 - [[objektai/grupes/Tochtamišo totoriai]]
 - [[objektai/asmenys/Tomas Venclova]]
-- [[objektai/grupes/Totoriai]]
 - [[objektai/ivykiai/Trakų paliaubos (1379 m. rugsėjo 29 d.)]]
 - [[objektai/asmenys/Treniota Vykintaitis]]
 - [[objektai/posakiai/Tėve mūsų ir Tikiu Dievą]]
@@ -1755,7 +2014,6 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - [[objektai/autoriai/V. Kudirka]]
 - [[objektai/autoriai/V. O. Ključevskis]]
 - [[objektai/zodynas/Vaisba ir vaisbūnas]]
-- [[objektai/asmenys/Vaišelga|Vaišelga (kunigaikštis)]]
 - [[objektai/paprociai/Valančiaus blaivybės sąjūdis ir blaivybės brolijos]]
 - [[objektai/ivykiai/Valkavisko perdavimas Haličo-Volinijos kunigaikščiams (1289 m.)]]
 - [[objektai/daiktai/Valstybiniai ženklai ir vėliava]]
@@ -1763,6 +2021,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - [[objektai/grupes/Variagai (normanai)]]
 - [[objektai/grupes/Varšuvos seimas|Varšuvos seimas (seimas)]]
 - [[objektai/grupes/Vazų dinastija]]
+- [[objektai/zodynas/Vidivarijai]]
 - [[objektai/paprociai/Vienkieminis gyvenimas dėl taikos ir gaisrų saugos]]
 - [[objektai/ivykiai/Vietinės rinktinės ir Armijos Krajovos susidūrimai Vilniaus krašte|Vietinės rinktinės ir Armijos Krajovos susidūrimai Vilniaus krašte (kraštas)]]
 - [[objektai/ivykiai/Vietinės rinktinės organizavimas ir nacių represinis jos likvidavimas (1944 m. pradžia)]]
@@ -1773,11 +2032,12 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - [[objektai/grupes/Vilniaus dailės draugija]]
 - [[objektai/ivykiai/Vilniaus konferencija (1917 m. rugsėjo 18–22 d.)]]
 - [[objektai/grupes/Vilniaus mokslo bičiulių draugija]]
-- [[objektai/grupes/Vilniaus universitetas]]
 - [[objektai/grupes/Vilniaus universiteto Lietuvių literatūros katedra]]
 - [[objektai/ivykiai/Vilniaus užėmimas (1655 m. rugpjūčio 7 d.)]]
+- [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija]]
 - [[objektai/grupes/Vilniui vaduoti sąjunga]]
 - [[objektai/posakiai/Vilniuje karalius turi gan puikios artilerijos]]
+- [[objektai/posakiai/Vilnius - tai gyva senosios Lietuvos kronika]]
 - [[objektai/asmenys/Vincas Krėvė-Mickevičius]]
 - [[objektai/asmenys/Vincas Mykolaitis-Putinas]]
 - [[objektai/daiktai/Virtuti Militari ordino medaliai]]
@@ -1792,10 +2052,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]
 - [[objektai/asmenys/Vudrau Vilsonas]]
 - [[objektai/autoriai/Vydūnas]]
-- [[objektai/autoriai/Vygandas Marburgietis]]
 - [[objektai/grupes/Vyriausias Mažosios Lietuvos gelbėjimo komitetas|Vyriausias Mažosios Lietuvos gelbėjimo komitetas (institucija)]]
 - [[objektai/grupes/Vyriausiasis Lietuvos išlaisvinimo komitetas|Vyriausiasis Lietuvos išlaisvinimo komitetas (institucija)]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/ivykiai/Vytauto Reivyčio įsakymas sulaikyti visus žydus ir getų sudarymas (1941 m. rugpjūčio 16 d.)]]
 - [[objektai/ivykiai/Vytauto dalinių kunigaikštijų sistemos naikinimas]]
 - [[objektai/ivykiai/Vytenio žygis į Sembą, Natangą ir Varmę bei pralaimėjimas Woplaukene (1311 m.)]]
@@ -1939,7 +2197,6 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - [[objektai/grupes/Švedijos kariuomenė]]
 - [[objektai/grupes/Švedų gvardijos kavalerija]]
 - [[objektai/daiktai/Šventieji medžiai ir akmenys]]
-- [[objektai/asmenys/Švitrigaila]]
 - [[objektai/daiktai/Šėtra]]
 - [[objektai/zodynas/šturmovcai]]
 - [[objektai/daiktai/Ūkės lazda]]
@@ -1950,11 +2207,9 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - [[objektai/daiktai/Žemėlapis „Lituania Propria“]]
 - [[objektai/grupes/Žiburys]]
 - [[objektai/grupes/Žiemgaliai]]
-- [[objektai/grupes/Žydai]]
 - [[objektai/ivykiai/Žydų atstovų įėjimas į Lietuvos vyriausybę (1918 m. gruodis)]]
 - [[objektai/paprociai/Žydų gelbėjimas ir slėpimas rizikuojant gyvybe]]
 - [[objektai/ivykiai/Žydų ministro be portfelio posto panaikinimas (1923 m.)]]
-- [[objektai/asmenys/Žygimantas Kęstutaitis]]
 - [[objektai/zodynas/Žiuponai|žiuponai]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/ivykiai/„Aušros“ leidimo pradžia]]
@@ -1998,7 +2253,6 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - [[objektai/ivykiai/1905 m. revoliucija Rusijoje]]
 - [[objektai/paprociai/Aisčių laidotuvių ir vėlinių apeigos]]
 - [[objektai/asmenys/Albertas (Vaitiekus) Sampolinskis]]
-- [[objektai/grupes/Anglai]]
 - [[objektai/posakiai/Eikime, broliai, už vierą šventą]]
 - [[objektai/autoriai/Ekdahl, S]]
 - [[objektai/zodynas/Jidiš]]
@@ -2017,6 +2271,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - [[objektai/ivykiai/Lietuvos pasiuntinių derybos Rygoje (1298 m.)]]
 - [[objektai/autoriai/M. Gimbutienė]]
 - [[objektai/autoriai/M. Liubavskij]]
+- [[objektai/posakiai/Mes kariaujame ne su kryžium, o su vokiečiais!]]
 - [[objektai/asmenys/Nikita Chruščiovas]]
 - [[objektai/grupes/Nuolatinė Taryba|Nuolatinė Taryba (institucija)]]
 - [[objektai/paprociai/Paimtų priešo vadų aukojimas dievams ir kaukolių naudojimas pokyliuose]]
@@ -2028,7 +2283,6 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - [[objektai/paprociai/Savarankiškas ūkio ir namų dirbinių gaminimas]]
 - [[objektai/grupes/Suomiai]]
 - [[objektai/asmenys/Tomas Survila]]
-- [[objektai/asmenys/Urbonas VI]]
 - [[objektai/autoriai/V. Daugirdaitė-Sruogienė]]
 - [[objektai/autoriai/V. Sruogienė]]
 - [[objektai/autoriai/V. Trumpa]]

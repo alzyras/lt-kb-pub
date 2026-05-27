@@ -190,6 +190,7 @@ tags: []
 ### Susiję objektai
 - [[objektai/grupes/Abiejų Tautų Respublikos kariuomenė]]
 - [[objektai/autoriai/Aleksandro Gvanjinio]]
+- [[objektai/daiktai/Deglas]]
 - [[objektai/paprociai/Husarų vėliavų „draugų“ ir palydos sistema]]
 - [[objektai/asmenys/Karolis Jastržembskis]]
 - [[objektai/grupes/Lietuvos kariuomenė]]

@@ -48,5 +48,4 @@ tags:
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/zodynas/unija]]
 - [[objektai/asmenys/Jadvyga Jogailienė]]
-- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
 - [[objektai/ivykiai/Liublino unija (1569 m.)]]

@@ -8,14 +8,15 @@ aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1857 m.'
   - '1859 m.'
 periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
 periodo_grupes:
   - 'naujieji laikai'
 amziai:
   - 'XIX'
-date_start: '1859'
-date_end: ''
+date_start: '1857'
+date_end: '1859'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -38,6 +39,10 @@ tags:
   teiginys: '1859 m. Mikalojus Akelaitis Juzefui Ignacui Kraševskiui rašė, kad tautos istorija turi būti kiekvieno piliečio lūpose.'
   pagrindžia:
     - c-002
+- t-005
+  teiginys: 'Mikalojus Akelaitis, iš valstiečių kilęs švietėjas, spaudoje kėlė lietuvių tautos kultūrinę būklę.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -76,11 +81,24 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-003
+  santrauka: 'Mikalojus Akelaitis, iš valstiečių kilęs švietėjas, spaudoje kėlė lietuvių tautos kultūrinę būklę.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Adomas Honorijus Kir­
+    koras 1857-1858 m. leido Teki Wileńskie (Vilniaus aplankus), lie­
+    tuvių tautos kultūrinę būklę spaudos puslapiuose kėlė iš vals­
+    tiečių kilęs švietėjas Mikalojus Akelaitis. M.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/posakiai/„Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“]]
 - [[objektai/posakiai/Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga|Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.]]
 - [[objektai/paprociai/Tautos istorijos atminties saugojimas piliečių lūpose]]
+- [[objektai/posakiai/„Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“]]

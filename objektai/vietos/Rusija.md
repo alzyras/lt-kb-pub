@@ -9,6 +9,9 @@ saltiniai:
 datos:
   - '1386 m.'
   - '1558 m.'
+  - '1579 m.'
+  - '1581 m.'
+  - '1582 m.'
   - '1583 m.'
   - '1587 m.'
   - '1654 m.'
@@ -68,17 +71,17 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: 'Rusija užėmė rytinę didžiosios Lietuvos kunigaikštijos dalį iki Dauguvos ir Dniepro.'
+  teiginys: 'Rusija užėmė rytinę Didžiosios Lietuvos Kunigaikštijos dalį iki Dauguvos ir Dniepro.'
   pagrindžia:
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-004
-  teiginys: 'Šiaurės Europą dengęs ledynas, kuris buvo apėmęs Pabaltijį, šiaurės Lenkiją, vidurio Rusiją, ėmė trauktis iš Baltijos plotų.'
+  teiginys: 'Šiaurės Europą dengęs ledynas buvo apėmęs ir vidurio Rusiją.'
   pagrindžia:
     - c-004
 - t-005
-  teiginys: 'Rytų Pabaltijyje ir šiaurės-rytų Rusijoje medžiotojų ir žvejų kultūra panašiame laipsnyje tęsėsi porą tūkstančių metų.'
+  teiginys: 'Rytų Pabaltijyje ir šiaurės rytų Rusijoje medžiotojų bei žvejų kultūra tęsėsi panašiu lygiu apie porą tūkstančių metų.'
   pagrindžia:
     - c-005
 - t-006
@@ -90,7 +93,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   pagrindžia:
     - c-007
 - t-008
-  teiginys: 'Aišku, šis klausimas dar per mažai tirtas, bet pasauliui žinomas „Rusijos žydų“ fenomenas paaiškinamas paprastai – Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo „sėslumo ribos“, o ši visiškai sutapo su buvusios LDK arba Abiejų Tautų Respublikos.'
+  teiginys: 'Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo 1791 m. Jekaterinos II nubrėžtos sėslumo ribos.'
   pagrindžia:
     - c-008
 - t-009
@@ -98,7 +101,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   pagrindžia:
     - c-009
 - t-010
-  teiginys: 'Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė milžiniški kaimynų smūgiai: valdant švedų kilmės Vazų dinastijai (1587–1668), Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos invazija (1654–1667), o valdant Saksų dinastijai.'
+  teiginys: '1654–1667 m. Lietuvą ir Lenkiją ištiko Rusijos ir Švedijos invazija, vadinama tvanu.'
   pagrindžia:
     - c-010
 - t-011
@@ -106,7 +109,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   pagrindžia:
     - c-011
 - t-012
-  teiginys: 'Apšvieta ateina į LDK Nuolatiniai karai su turkais, ypač Maskvos didžiąja kunigaikštyste (vėliau – Rusija) dėl rytinių teritorijų, bandymai išeiti į Baltijos jūrą ir įsitvirtinti Livonijoje kėlė konfliktus tarp ATR ir Rusijos bei XVII a.'
+  teiginys: 'Karai su Maskvos didžiąja kunigaikštyste, vėliau Rusija, dėl rytinių teritorijų kėlė ATR ir Rusijos konfliktus.'
   pagrindžia:
     - c-012
 - t-013
@@ -133,6 +136,10 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   teiginys: 'Sierakausko manymu, po mėnesio kito turėjo prasidėti Anglijos ir Prancūzijos intervencija prieš Rusiją.'
   pagrindžia:
     - c-018
+- t-019
+  teiginys: '1579 m. iš Vilniaus karalius per Bazilijų Lopacinskį išsiuntė svarbią pasiuntinybę į Rusiją.'
+  pagrindžia:
+    - c-019
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -166,7 +173,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Rusija užėmė rytinę didžiosios Lietuvos kunigaikštijos dalį iki Dauguvos ir Dniepro.'
+  santrauka: 'Rusija užėmė rytinę Didžiosios Lietuvos Kunigaikštijos dalį iki Dauguvos ir Dniepro.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Rusija užėmė rytinę didžiosios Lietuvos kunigaikštijos dalį
@@ -182,7 +189,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   pagrindžia:
     - t-003
 - c-004
-  santrauka: 'Šiaurės Europą dengęs ledynas, kuris buvo apėmęs Pabaltijį, šiaurės Lenkiją, vidurio Rusiją, ėmė trauktis iš Baltijos plotų.'
+  santrauka: 'Šiaurės Europą dengęs ledynas buvo apėmęs ir vidurio Rusiją.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Šiaurės Europą dengęs ledynas, kuris buvo apėmęs Pabaltijį,
@@ -197,7 +204,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   pagrindžia:
     - t-004
 - c-005
-  santrauka: 'Rytų Pabaltijyje ir šiaurės-rytų Rusijoje medžiotojų ir žvejų kultūra panašiame laipsnyje tęsėsi porą tūkstančių metų.'
+  santrauka: 'Rytų Pabaltijyje ir šiaurės rytų Rusijoje medžiotojų bei žvejų kultūra tęsėsi panašiu lygiu apie porą tūkstančių metų.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Rytų Pabaltijyje ir šiaurės-rytų Rusijoje medžiotojų ir žvejų
@@ -244,7 +251,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   pagrindžia:
     - t-007
 - c-008
-  santrauka: 'Aišku, šis klausimas dar per mažai tirtas, bet pasauliui žinomas „Rusijos žydų“ fenomenas paaiškinamas paprastai – Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo „sėslumo ribos“, o ši visiškai sutapo su buvusios LDK arba Abiejų Tautų Respublikos.'
+  santrauka: 'Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo 1791 m. Jekaterinos II nubrėžtos sėslumo ribos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Aišku, šis klausimas dar per mažai tirtas, bet pasauliui žinomas
@@ -276,7 +283,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   pagrindžia:
     - t-009
 - c-010
-  santrauka: 'Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė milžiniški kaimynų smūgiai: valdant švedų kilmės Vazų dinastijai (1587–1668), Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos invazija (1654–1667), o valdant Saksų dinastijai.'
+  santrauka: '1654–1667 m. Lietuvą ir Lenkiją ištiko Rusijos ir Švedijos invazija, vadinama tvanu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ truk-
@@ -314,7 +321,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   pagrindžia:
     - t-011
 - c-012
-  santrauka: 'Apšvieta ateina į LDK Nuolatiniai karai su turkais, ypač Maskvos didžiąja kunigaikštyste (vėliau – Rusija) dėl rytinių teritorijų, bandymai išeiti į Baltijos jūrą ir įsitvirtinti Livonijoje kėlė konfliktus tarp ATR ir Rusijos bei XVII a.'
+  santrauka: 'Karai su Maskvos didžiąja kunigaikštyste, vėliau Rusija, dėl rytinių teritorijų kėlė ATR ir Rusijos konfliktus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Apšvieta ateina į LDK
@@ -431,3 +438,25 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-018
+- c-019
+  santrauka: '1579 m. iš Vilniaus karalius per Bazilijų Lopacinskį išsiuntė svarbią pasiuntinybę į Rusiją.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Iš šio miesto 1579
+    metais jis išsiuntė svarbią pasiuntinybę į Rusiją per Bazilijų
+    Lopacinskį ir 1581 metais į Švediją per garsųjį Lauryną Gos-
+    lickį60, be to, pats priėmė garbingas pasiuntinybes: nuo toto­
+    rių chano 1579 ir 1582 metais ir 1579 metais patį Gotardą
+    Ketlerį, Kuršo kunigaikštį, be šių, ir Maskvos pasiuntinius,
+    su kuriais turėjo daugiausia darbo. Pagaliau čia, Vilniuje,
+    šis didis karalius, nenuilstamai rūpindamasis krašto saugu­
+    mu, naudodamasis jam patikėta valdžia, griežtai, bet teisin­
+    gai bausdavo išdavikus ir apdovanodavo doruosius bei nu­
+    sipelniusius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019

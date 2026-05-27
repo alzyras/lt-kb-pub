@@ -73,4 +73,4 @@ Nenurodyta
 - [[temos/privilegija]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/asmenys/Jogaila]]

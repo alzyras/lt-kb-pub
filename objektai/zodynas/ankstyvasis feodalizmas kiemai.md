@@ -43,6 +43,6 @@ Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/zodynas/feodalizmas]]
 - [[objektai/zodynas/ankstyvoji monarchija karinė monarchija]]

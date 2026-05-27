@@ -73,7 +73,7 @@ Be to, tas susitarimas nepatiko nė valdančiajai Gediminaičių šeimai; Aleksa
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Gediminaičių dinastija]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/grupes/Jogailos palikuonys]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/unija]]

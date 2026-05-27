@@ -50,3 +50,7 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai]]

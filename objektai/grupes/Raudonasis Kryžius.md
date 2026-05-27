@@ -56,4 +56,5 @@ Mažvydo bibliotekoje Raudonojo Kryžiaus pastangomis įkurtas pirmosios medicin
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/Martynas Mažvydas Vaitkūnas]]
+- [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai]]
 - [[objektai/paprociai/Aukščiausiosios Tarybos gynybos savitarpio aprūpinimo praktika|Aukščiausiosios Tarybos gynybos savitarpio aprūpinimo praktika (institucija)]]

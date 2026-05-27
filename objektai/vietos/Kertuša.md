@@ -29,6 +29,10 @@ tags:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Pabaisko parapijos ribos buvo juosiamos Kertušos upės, tekančios per Šešuolės mišką iki Šesarkos upės.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -49,3 +53,22 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Pabaisko parapijos ribos buvo juosiamos Kertušos upės, tekančios per Šešuolės mišką iki Šesarkos upės.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Pirmiausia norime, kad minėta
+    Pabaisko parapija turėtų buvusias ribas, kurios eina nuo
+    Širvintos upės iki pat Šventosios ir yra juosiamos Kertušos
+    upės, tekančios per Šešuolės mišką iki Šesarkos upės, kur
+    prieš Skočiūnų dvarą upė Šešulka [Šešuolėlė] įteka į Šventą­
+    ją; ir šiose ribose jokia kita parapijinė bažnyčia neturi būti
+    pastatyta ir veikti, kad nepadarytų nuostolio ir skriaudos
+    minėtai Pabaisko bažnyčiai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

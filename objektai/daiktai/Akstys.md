@@ -87,3 +87,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/daiktai/Brūklys]]
 - [[objektai/daiktai/Kalavijai]]
+- [[objektai/daiktai/Vilniaus gaisro gesinimo įrankiai]]

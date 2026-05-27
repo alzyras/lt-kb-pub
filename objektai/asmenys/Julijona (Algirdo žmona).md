@@ -32,12 +32,6 @@ tags:
 Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebske minima kunigaikštienė. Skirtingi šaltiniai jos kilmę nusako nevienodai, tačiau sutaria dėl jos vietos Jogailos ankstyvojoje politikoje ir augusios įtakos po Algirdo mirties.
 
 ## Teiginiai
-- t-008
-  teiginys: 'Ivinskio veikale Julijona tiesiogiai pristatoma kaip Tverės kunigaikščio Aleksandro duktė ir Algirdo žmona.'
-  pagrindžia:
-    - c-005
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 - t-009
   teiginys: 'Julijona valdė Vitebską, o jai mirus 1392 m. Jogaila į jos vietą pasodino Feodorą Vesną.'
   pagrindžia:
@@ -45,9 +39,17 @@ Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebsk
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-010
-  teiginys: 'Pagal tas sutartis didysis kunigaikštis Jogaila, — pritariamas motinos Julijonos ir brolių: Kaributo, Lingvenio, Karigailos, Vy­ gunto ir Švitrigailos — pasižadėjo 4 metus laikytis su Ordinais taikos, per tuos pat 4 metus „su visais saviškiais“ apsikrikš­.'
+  teiginys: 'Jogaila, pritariant motinai Julijonai ir broliams, pasižadėjo ketverius metus laikytis taikos su Ordinais.'
   pagrindžia:
     - c-006
+- t-011
+  teiginys: 'Algirdas krikščionišką tikėjimą priartino per vedybas su Vitebsko kunigaikštyte Julijona.'
+  pagrindžia:
+    - c-007
+- t-012
+  teiginys: 'Andrius, Algirdo sūnus iš antros santuokos su Julijona, nebuvo palankus Jogailai ir labiau linko į Kęstučio pusę.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-004
@@ -67,25 +69,8 @@ Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebsk
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-009
-- c-005
-  santrauka: 'Ivinskio veikale Julijona tiesiogiai pristatoma kaip Tverės kunigaikščio Aleksandro duktė ir Algirdo žmona.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tad ir esančiam dabar didž. Lietuvos kunigaikš­
-    čiui Jogailai, Algirdo sūnui, kuris nebuvo priėmęs dar jokio
-    krikšto, tiesesnis kelias buvo į Rytus, į savo motinos, daugelio
-    brolių, dėdžių ir giminaičių tikėjimą. Jo motiną Julijoną rišo
-    prie Rytų Bažnyčios praeitis, tradicijos, tautybė ir net tai, kad
-    iš jos giminės buvo stačiatikių Bažnyčios šventųjų.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-008
 - c-006
-  santrauka: 'Pagal tas sutartis didysis kunigaikštis Jogaila, — pritariamas motinos Julijonos ir brolių: Kaributo, Lingvenio, Karigailos, Vy­ gunto ir Švitrigailos — pasižadėjo 4 metus laikytis su Ordinais taikos, per tuos pat 4 metus „su visais saviškiais“ apsikrikš­.'
+  santrauka: 'Jogaila, pritariant motinai Julijonai ir broliams, pasižadėjo ketverius metus laikytis taikos su Ordinais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Pagal tas sutartis didysis kunigaikštis Jogaila, — pritariamas
@@ -102,13 +87,52 @@ Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebsk
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-010
+- c-007
+  santrauka: 'Algirdas krikščionišką tikėjimą priartino per vedybas su Vitebsko kunigaikštyte Julijona.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    26
+
+    ## Puslapis 43
+
+    I  KNYGA
+    krikščionišku tikėjimu, pirmiausia per vedybas su Vitebs­
+    ko kunigaikštyte Julijona, vėliau - su Tverės kunigaikštyte
+    Marija, sekdamas Gedimino politika, leido, be skirtumo, iš
+    Romos atsiųstiems vienuoliams Vilniuje skelbti evangeliją,
+    o graikų apeigų dvasininkams atlikti savo tikėjimo apei­
+    gas. Jau Algirdo viešpatavimo pradžioje Šv.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+- c-008
+  santrauka: 'Andrius, Algirdo sūnus iš antros santuokos su Julijona, nebuvo palankus Jogailai ir labiau linko į Kęstučio pusę.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    30
+    Tasai Andrius, Jogailai pavaldaus
+    Polocko kunigaikštis, Algirdo sū­
+    nus, gimęs iš antros jo santuokos su
+    Julijona, Vitebsko kunigaikštyte, ta­
+    čiau nebuvo palankus Jogailai, vei­
+    kiau linkęs į Kęstučio pusę; tad Jo­
+    gaila nusprendė jį išvyti iš jo dalinės
+    valdos. Dėl to sudarė slaptą, be
+    Kęstučio žinios, sutartį su Livoni­
+    jos magistru, kad anas padėtų jam
+    vykdyti tuos kėslus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/asmenys/Feodoras (Ostrogo kunigaikštis)]]
-- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
-- [[objektai/grupes/Stačiatikiai]]
-- [[objektai/asmenys/Švitrigaila]]
 - [[objektai/asmenys/Vyguntas]]
-- [[objektai/asmenys/Julijona]]

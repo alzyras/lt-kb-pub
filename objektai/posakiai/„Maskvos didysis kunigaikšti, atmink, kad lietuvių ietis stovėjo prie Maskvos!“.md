@@ -92,9 +92,10 @@ Algirdas uždegęs titnagu kempine, paduodamas ją, atsako Maskvos valdovo pasiu
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Algirdas]]
 - [[objektai/ivykiai/Algirdo žygiai į Maskvą]]
 - [[objektai/daiktai/Ietis]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Skydas]]
+- [[objektai/daiktai/Vilniaus gaisro gesinimo įrankiai]]
 - [[objektai/posakiai/Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!]]

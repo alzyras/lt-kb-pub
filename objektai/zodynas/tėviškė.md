@@ -59,10 +59,11 @@ Jo priešas — Jogaila: jis jam keršija už Kęstučio mirtį ir tėviškės p
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/asmenys/Karijotas]]
 - [[objektai/posakiai/Tikslas pateisino priemones|Tikslas pateisino priemones.]]
 - [[objektai/ivykiai/Vytauto persikėlimas pas Ordiną (1382 m. pabaiga)]]
 - [[objektai/zodynas/Karšinčius|karšinčius]]
 - [[objektai/zodynas/lėnas]]
-- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Vytautas]]

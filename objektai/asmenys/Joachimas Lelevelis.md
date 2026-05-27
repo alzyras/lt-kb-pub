@@ -8,6 +8,15 @@ aliases:
   - 'Joachimas Lelevelis'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1825 m.'
+periodas: 'XIX a. ir Rusijos imperijos laikotarpis'
+periodo_grupes:
+  - 'naujieji laikai'
+amziai:
+  - 'XIX'
+date_start: '1825'
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -32,6 +41,14 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Joachimas Lelevelis skatino M. Balinskį parašyti daugiatomę Vilniaus miesto istoriją.'
+  pagrindžia:
+    - c-003
+- t-004
+  teiginys: 'Joachimas Lelevelis jaunystėje įskiepijo M. Balinskiui kritinį istorijos metodą.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -74,13 +91,40 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Joachimas Lelevelis skatino M. Balinskį parašyti daugiatomę Vilniaus miesto istoriją.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Laiške Joachi­
+    mui Leleveliui M. Balinskis prisipažįsta, kad Vilniaus miesto is­
+    torijos pirmąjį tomą baigė rašyti 1825 metų pradžioje. Į J. Lele­
+    velio skatinimą parašyti daugiatomę miesto istoriją atsakė manąs
+    parašyti „tris, o gal keturis tomus"4.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Joachimas Lelevelis jaunystėje įskiepijo M. Balinskiui kritinį istorijos metodą.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Iki pat gyvenimo pabaigos M. Balinskis liko kritinio meto­
+    do, kurį jam dar jaunystėje įskiepijo istorikas J. Lelevelis, šali­
+    ninkas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Andrius Sniadeckis]]
-- [[objektai/asmenys/Johanas Pėteris Frankas]]
-- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
-- [[objektai/autoriai/Lelevelis]]
-- [[objektai/zodynas/Miera|miera]]
 - [[objektai/asmenys/Eduardas Karolis Eichvaldas]]
+- [[objektai/asmenys/Johanas Pėteris Frankas]]
 - [[objektai/asmenys/Jozefas Frankas]]

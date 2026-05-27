@@ -100,7 +100,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/asmenys/Jogaila]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/posakiai/„prišlieti“]]

@@ -54,3 +54,4 @@ Statutas, paruoštas vadovaujant kancleriui Albertui Goštautui, buvo taisomas k
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
 - [[objektai/zodynas/statutas]]
+- [[objektai/daiktai/Tiltai, jazai ir vandens infrastruktūra]]

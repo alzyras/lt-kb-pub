@@ -55,4 +55,5 @@ Savo mokytojo Olesnickio įtakoje Dlugošas yra neteisingai suvedęs Vytauto vai
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/kunigaikštija]]
+- [[objektai/ivykiai/Astravos sutartis]]
 - [[objektai/asmenys/Zbignievo Olesnickio]]

@@ -30,10 +30,10 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Karaliumi tapo Rusijos remiamas neveiklus Augusto 11 sūnus Augustas III.'
+- t-003
+  teiginys: 'Augustas III ir Stanislovas Augustas privilegijomis suteikė spaustuvei karališkosios spaustuvės titulą.'
   pagrindžia:
-    - c-002
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -55,7 +55,7 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Karaliumi tapo Rusijos remiamas neveiklus Augusto 11 sūnus Augustas III.'
+  santrauka: 'Augustas III, Augusto II sūnus, tapo karaliumi remiamas Rusijos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Karaliumi
@@ -69,8 +69,26 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Augustas III ir Stanislovas Augustas privilegijomis suteikė spaustuvei karališkosios spaustuvės titulą.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Spaustuvė turėjo karališkosios vardą todėl, kad tas titu­
+    las jai buvo suteiktas privilegijomis šviesiausiųjų karalių: Au­
+    gusto III ir Stanislovo Augusto.
+    Nėra jokių kitų įsipareigojimų, išskyrus visuomenei tei­
+    kiamą naudą ir paskutiniojoje privilegijoje išsakytą sąlygą,
+    kad nuo kiekvienos naujai išspausdintos knygos po vieną
+    egzempliorių privalo duoti Lietuvos kancleriams ir Viešajai
+    bibliotekai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/asmenys/Stanislovas Leščinskis]]

@@ -130,3 +130,5 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/autoriai/Karamzinas]]
+- [[objektai/asmenys/Kazimieras Karigaila]]

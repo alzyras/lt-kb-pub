@@ -51,6 +51,6 @@ Kliausis, lg.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Vytautas]]
 - [[objektai/autoriai/lg. Kliausis]]

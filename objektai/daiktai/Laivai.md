@@ -2,29 +2,41 @@
 tipas: daiktas
 pavadinimas: 'Laivai'
 sukurta: '2026-04-25'
-variantai: []
+variantai:
+  - valtys
+  - sieliai
+  - plaustai
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
+  - '880 m.'
+  - '1160 m.'
+  - '1323 m.'
+  - '1390 m.'
+  - '1394 m.'
   - '1350 m.'
   - '1410 m.'
   - '1430 m.'
   - '1930 m.'
   - '1936 m.'
   - '1978 m.'
+  - '2007 m.'
   - '2026 m.'
-periodas: 'LDK laikotarpis'
+periodas: 'viduramziai'
 periodo_grupes:
   - 'LDK'
 amziai:
+  - 'IX'
+  - 'XII'
   - 'XIV'
   - 'XV'
   - 'XX'
   - 'XXI'
-date_start: '1350'
+date_start: '880'
 date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
@@ -34,138 +46,218 @@ tags:
 
 ## Santrauka
 
-Laivai šiame šaltinyje minimi kaip karo transporto ir puolimo priemonė. Kryžiuočiai plaukė su karo laivu ir kitais laivais, Vytenis atsakė pasiųsdamas 100 laivų, o rygiečiai bei Livonijos kariuomenė taip pat judėjo laivais.
+Laivai minimi kaip prekybos, persikėlimo, karo logistikos ir žygio transporto priemonė. Ankstyvuosiuose pasakojimuose jie siejami su Krokuvos pirklių kelionėmis, normanų judėjimu Baltijos pakrantėje ir tremtinių persikėlimu valtimis. Vilniaus karo kontekstuose laivai gabeno atsargas bei amuniciją, stovėjo Vilijoje ir buvo naudojami slaptiems kryžiuočių žygiams.
 
 ## Pavadinimai šaltiniuose
-Nenurodyta
+- laivai
+- valtis
+- sieliais
 
 ## Laikotarpis ir datos
-Nenurodyta
+- 880 m.
+- 1160 m.
+- 1390 m.
+- 1394 m.
 
 ## Kas tai
-Nenurodyta
+Vandens transporto priemonės, šaltinyje apimančios laivus, valtis ir sielius.
 
 ## Naudojimas
-Nenurodyta
+Naudoti prekybai, persikėlimui, karo atsargoms gabenti ir kariuomenės judėjimui vandens keliais.
 
 ## Kontekstas
-Nenurodyta
+- laikotarpis: viduramžiai
+- susiję žmonės: nėra aiškiai kuriamo naujo ryšio
+- susiję įvykiai: Vilniaus apgultis 1390 m.; 1394 m. kryžiuočių žygis
 
 ## Teiginiai
-- t-007
-  teiginys: '1382 m. pavasarį Kęstutis, armotomis ginkluotas, nuplaukė laivais Nemunu į Ordino sritį ir sustojo ties Jurbarku.'
+- t-012
+  teiginys: '1160 m., pasak Benjamino iš Tudelio, į Aleksandrijos uostą užsukdavo Krokuvos pirklių laivai.'
   pagrindžia:
-    - c-001
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+    - c-006
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
-- t-008
-  teiginys: '1383 m. liepos 19 d. Ordino viršininkas laivu nuvyko iki Christmemelio salos.'
+- t-013
+  teiginys: 'Karolio Didžiojo monarchijai žlugus, normanų piratų laivai pasklido iš Skandinavijos po Baltijos pakrantę.'
   pagrindžia:
-    - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+    - c-007
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   statusas: patvirtinta
-- t-009
-  teiginys: 'Su rygiečiais atvykę laivais griauti Neuermühleno pilies, lietuviai skaudžiai pralaimėjo.'
+- t-014
+  teiginys: 'Apie 880 m. tremtiniai sutelkė valtis, persikėlė per jūrą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje.'
   pagrindžia:
-    - c-003
-- t-010
-  teiginys: 'Bet (1410.VIII.) Livonijos kariuomenė laivais atvyko Sembon.'
+    - c-008
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  statusas: patvirtinta
+- t-015
+  teiginys: 'Vilniaus apgulties metu laivai iš Nemuno įplaukė į Viliją ir gabeno maisto atsargas bei karinę amuniciją.'
   pagrindžia:
-    - c-004
-- t-011
-  teiginys: 'Gavęs Jogai­ los apsaugos raštą, Ordino viršininkas, lydimas kunigų, lie­ pos 19 dieną laivu nuvyko iki Christmemelio (Skirsnemunės) sa­ los ir ten sustojo, prisidengdamas ta priežastimi, jog dėl Nemu­ no seklumo esą nebegalima toliau plaukti.'
+    - c-009
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  statusas: patvirtinta
+- t-016
+  teiginys: 'Didysis magistras slapta iš Marienburgo išplaukė Vysla laivais, paskui jūros įlanka įplaukė į Nemuną.'
   pagrindžia:
-    - c-005
+    - c-010
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  statusas: patvirtinta
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: '1382 m. pavasarį Kęstutis, armotomis ginkluotas, nuplaukė laivais Nemunu į Ordino sritį ir sustojo ties Jurbarku.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+- c-006
+  santrauka: '1160 m. Krokuvos pirklių laivai užsukdavo į Aleksandrijos uostą.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Jis darė 1382 m. sausio mėn. žygius į jo
-    žemes, teriodamas Varmijos kraštą; tų metų pavasarį net ar­
-    motomis ginkluotas nuplaukė laivais Nemunu į Ordino sritį ir
-    sustojo ties Jurbarku.
+    ĮVADAS
+    Lenkijos miestų, jau XII amžiuje dėl savo prekybinių ryšių bu­
+    vo žinoma net Rytuose. Benjaminas iš Tudelio, žydų kilmės ke­
+    liauninkas, tvirtina, kad 1160 metais į Aleksandrijos uostą ne
+    tik anglų, bet ir Krokuvos pirklių laivai užsukdavęd). Tad jau
+    nuo seno buvusi turtinga, Krokuva už pirmąją municipalinę
+    tvarką, puošnius statinius ir teutonų teises (1257 metais) sko­
+    linga Boleslovui Droviajam, už svarbias privilegijas, svetimtau­
+    čių antplūdį ir geriausiai sutvirtintas mūro sienas - Lešekui Juo­
+    dajam.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-007
-- c-002
-  santrauka: '1383 m. liepos 19 d. Ordino viršininkas laivu nuvyko iki Christmemelio salos.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+    - t-012
+- c-007
+  santrauka: 'Karolio Didžiojo monarchijai žlugus, normanų piratų laivai pasklido iš Skandinavijos po Baltijos pakrantę.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Gavęs Jogai­
-    los apsaugos raštą, Ordino viršininkas, lydimas kunigų, lie­
-    pos 19 dieną laivu nuvyko iki Christmemelio (Skirsnemunės) sa­
-    los ir ten sustojo, prisidengdamas ta priežastimi, jog dėl Nemu­
-    no seklumo esą nebegalima toliau plaukti. Jogaila tuo tarpu
+    Atšiaurus klimatas, nenaši, uolėta
+    žemė, pagaliau tvarkos stoka ir tar­
+    pusavio nesantaika atgrasaus barba­
+    riškumo laikais vertė skandinavus
+    traukti į tas jūros keliones, o kartais
+    į didesnes išvykas, į kitą Baltijos pu­
+    sę. Nors jau V amžiaus pabaigoje,
+    tuoj po Romos valstybės žlugimo,
+    Europos Šiaurės kraštai kentėjo nuo
+    normanų puldinėjimų, bet jie nebu­
+    vo tokie reikšmingi ir grėsmingi,
+    kaip prasidėjusieji sulig didelės Ka­
+    rolio Didžiojo monarchijos žlugimu.
+    Būtent toje epochoje narsių piratų
+    valdomi prasti, bet mitrūs ir lengvi
+    laivai pasklido iš Skandinavijos pu­
+    siasalio po visą Baltijos pakrantę.
   citata_rodoma: ""
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-008
-- c-003
-  santrauka: 'Su rygiečiais atvykę laivais griauti Neuermühleno pilies, lietuviai skaudžiai pralaimėjo.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+    - t-013
+- c-008
+  santrauka: 'Apie 880 m. tremtiniai sutelkė valtis, persikėlė per jūrą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Su rygiečiais atvykę laivais griauti Neuermühleno pilies,
-    lietuviai skaudžiai pralaimėjo. Prie ano meto didžių skaičių pamė­
-    gimo, Dusburgas užrašė, jog ten kautynėse žuvę 4000 lietuvių ir
-    rygiečių^35.
-  citata_rodoma: ''
+    Man vis dėlto atrodo,
+    kad įvykis, aprašytas Petro Olai
+    „Danų kronikoje", yra kaip tik tas,
+    kuris, viena vertus, atbloškė Riuri-
+    ką ir jo variagus į Rusiją, kita ver­
+    tus, galbūt tariamąjį Palemoną su
+    draugais - į Lietuvą. Juk šis kroniki­
+    ninkas pasakoja, kad apie 880 me­
+    tus, viešpataujant Danijoje karaliui
+    Kanutui (Cnud), kai dėl pragaištingo
+    nederliaus visiems gyventojams trū­
+    ko grūdų, buvo įsakyta kas trečią
+    žmogų išvaryti iš valsčiaus visiems
+    laikams. Likimo lemties tremtiniai,
+    sutelkę į draugę valtis, vadovauja­
+    mi išsirinkto vado, persikėlė per jū­
+    rą ir įsikūrė Prūsijoje, Žemaitijoje bei
+    Karelijoje, tarp vietinių gyventojų.
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-009
-- c-004
-  santrauka: 'Bet (1410.VIII.) Livonijos kariuomenė laivais atvyko Sembon.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+    - t-014
+- c-009
+  santrauka: 'Vilniaus apgultyje laivai gabeno maistą ir karinę amuniciją.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Bet (1410.VIII.)
-    Livonijos kariuomenė laivais atvyko Sembon.
-  citata_rodoma: ''
+    VILNIAUS MIESTO ISTORIJA J  TOMAS
+    dieną visos kryžiuočių ir Vytauto pajėgos susijungusios su­
+    stojo prie Vilniaus ir iš visų pusių aklinai apsupo miestą, o
+    daugybė laivų, iš Nemuno įplaukę į Viliją, gabeno didžiu­
+    les atsargas maisto ir karinę amuniciją. Kai palei miestą bu­
+    vo įsirengta keletas stovyklų, sąjungininkai sugriovė tiltus
+    per Viliją, taip atimdami visas galimybes pristatyti maistą
+    apsuptiesiems, o kitas dvi dienas buvo ruošiamasi puoli­
+    mui.
+    Kryžiuočiai priešais regėjo dvi galingas tvirtoves, prieš
+    kurias buvo užsimota.
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-010
-- c-005
-  santrauka: 'Gavęs Jogai­ los apsaugos raštą, Ordino viršininkas, lydimas kunigų, lie­ pos 19 dieną laivu nuvyko iki Christmemelio (Skirsnemunės) sa­ los ir ten sustojo, prisidengdamas ta priežastimi, jog dėl Nemu­ no seklumo esą nebegalima toliau plaukti.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+    - t-015
+- c-010
+  santrauka: 'Didysis magistras slapta keliavo laivais Vysla ir Nemunu.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Gavęs Jogai­
-    los apsaugos raštą, Ordino viršininkas, lydimas kunigų, lie­
-    pos 19 dieną laivu nuvyko iki Christmemelio (Skirsnemunės) sa­
-    los ir ten sustojo, prisidengdamas ta priežastimi, jog dėl Nemu­
-    no seklumo esą nebegalima toliau plaukti. Jogaila tuo tarpu
-    apsistojo su savo motina ir broliais sutartoje vietoje prie Duby­
-    sos įtakos į Nemuną.
-  citata_rodoma: ''
+    Tas žygis buvo paskubomis ir slap­
+    ta suruoštas, ir todėl didysis magist­
+    ras tuokart mažai teturėjo svetimša­
+    lių, juk nesigarsino po visą Europą,
+    o slapčia iš Marienburgo išplaukė
+    Vysla laivais, paskui jūros įlanka
+    įplaukė į Nemuną. Mūsų istorikai
+    bendrais bruožais ir ne taip išsamiai
+    apie šitai pasakoja. Miechowita,
+    Lib.
+  citata_rodoma: ""
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
+  patikimumo_pagrindimas: ""
   pagrindžia:
-    - t-011
+    - t-016
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/transportas]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/asmenys/Jogaila]]
 - [[objektai/ivykiai/Junigėdos puolimas laivu ir Surmino kontrataka (1313 m.)]]
 - [[objektai/ivykiai/Kuršių sukilimas prieš danus (853 m.)]]
 - [[objektai/autoriai/Rimbertas]]
-- [[objektai/autoriai/Rimberto, Rimbertas]]
 - [[objektai/ivykiai/Vilniaus apgultis ir mūšiai prie Rudaminos (1394 m. vasara)]]
 - [[objektai/ivykiai/Vytauto paliaubos ir taikos derybos su Livonijos ordinu (1410 m. vasara)]]
 - [[objektai/ivykiai/Vytenio žygis į Sembą, Natangą ir Varmę bei pralaimėjimas Woplaukene (1311 m.)]]
+- [[objektai/grupes/Didžiojo Naugardo respublika]]
+- [[objektai/autoriai/Dusburgas]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Kęstutis]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Palemonas]]
+- [[objektai/grupes/Rygiečiai]]
+- [[objektai/grupes/Skandinavai]]
+- [[objektai/grupes/Teutonai]]
+- [[objektai/zodynas/komtūras]]
+- [[objektai/zodynas/magistras]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Švitrigaila]]
+- [[objektai/grupes/Žydai]]
+- [[objektai/zodynas/žygis]]
+- [[objektai/asmenys/Aleksandras Jogailaitis]]
+- [[objektai/autoriai/Benjaminas iš Tudelio]]
+- [[objektai/daiktai/Mūro sienos ir miesto sienos]]
+- [[objektai/autoriai/Rimberto, Rimbertas]]
+- [[objektai/ivykiai/Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]
+- [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
+- [[objektai/zodynas/didysis magistras]]
+- [[objektai/ivykiai/Vilniaus apgultis ir Kreivosios pilies sudeginimas (1390 m. rugsėjis-spalis)]]
+- [[objektai/zodynas/apsaugos raštas]]

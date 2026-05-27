@@ -121,7 +121,7 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
 - [[temos/simbolis]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/asmenys/Jogaila]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]

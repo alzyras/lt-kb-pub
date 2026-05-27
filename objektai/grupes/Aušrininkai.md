@@ -6,6 +6,12 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: 'aukštas'
 tags:
   - grupe
@@ -17,17 +23,21 @@ Aušrininkai šiame šaltinyje apibūdinami kaip romantiškai nusiteikusi lietuv
 
 ## Teiginiai
 - t-003
-  teiginys: 'Aušrininkai Lietuvoje sekė Simono Daukanto romantiniu tautiniu nusistatymu ir jo palikimu.'
+  teiginys: 'Aušrininkai Lietuvoje sekė Simono Daukanto vykdytu romantiniu tautinės istorijos nusistatymu.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-004
-  teiginys: 'Aušrininkai siejami su Simono Daukanto pradėto tautinio ir istorinio palikimo tęsiniu iki nepriklausomybės metų.'
+  teiginys: 'Aušrininkai ir jų tautinio palikimo tęsėjai iki nepriklausomybės metų sekė Simono Daukanto istoriniu nusistatymu.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: 'Aušrininkai plačiai naudojo Vilniaus ir urbanistinės Lietuvos istorijos ištakose stovėjusių asmenybių kūrybinį palikimą.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -52,10 +62,22 @@ Aušrininkai šiame šaltinyje apibūdinami kaip romantiškai nusiteikusi lietuv
   pagrindžia:
     - t-003
     - t-004
+- c-002
+  santrauka: 'Aušrininkai plačiai naudojo Vilniaus ir urbanistinės Lietuvos istorijos ištakose stovėjusių asmenybių kūrybinį palikimą.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Ap­
+    skritai šios asmenybės stovėjo prie Vilniaus ir urbanistinės
+    Lietuvos istorijos ištakų, jų kūrybinį palikimą plačiai naudojo
+    lietuvių nacionalinio judėjimo dalyviai - aušrininkai. Nors M.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/J. Basanavičius]]
-- [[objektai/zodynas/tautinis atgimimas]]
 - [[objektai/grupes/Aušrininkų organizacija]]
-- [[objektai/autoriai/S. Daukantas]]

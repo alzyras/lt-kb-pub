@@ -79,6 +79,7 @@ Nenurodyta
 - [[temos/simbolis]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Andrius Algirdaitis]]
 - [[objektai/grupes/Karijotaičiai]]
 - [[objektai/asmenys/Mykolas]]
 - [[objektai/zodynas/kunigaikščiai]]

@@ -40,6 +40,14 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
   teiginys: 'Želigovskio pajėgos su negausiomis lietuvių pajėgomis susidūrė ties Merkio upe.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Mediniai rūmai ant aukšto mūrinio cokolio stovėjo ant kalvelės, puslankiu skalaujamos Merkio upės.'
+  pagrindžia:
+    - c-003
+- t-004
+  teiginys: 'Prie Merkio ant nedidelės aukštumėlės stovėjo du mažesni namai, kuriuose gyvendavo Žygimantas Senasis ir karalienė Bona.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -83,3 +91,35 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Mediniai rūmai ant aukšto mūrinio cokolio stovėjo ant kalvelės, puslankiu skalaujamos Merkio upės.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Pastatyti iš medžio ant aukšto mūrinio cokolio,
+    stūksojo ant mažos kalvelės, puslankiu skalaujami veržlios
+    Merkio upės srovės. Iš šiaurės greta rūmų buvo nedidelis
+    tvenkinys, į jį upės vanduo patekdavo lataku. Tasai latakas
+    dar iki šiol nuo senųjų laikų išlikęs žemėje, visai nepakenk­
+    tas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Prie Merkio ant nedidelės aukštumėlės stovėjo du mažesni namai, kuriuose gyvendavo Žygimantas Senasis ir karalienė Bona.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Per kelis šimtus žingsnių, ant nedidelės aukštumė­
+    lės, irgi prie Merkio, stovėjo du kiti mažesni namai, berods
+    taip pat dviejų aukštų. Žygimantas Senasis paprastai gy­
+    vendavo viename, o karalienė Bona - antrame.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004

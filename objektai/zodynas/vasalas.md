@@ -56,6 +56,10 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
   teiginys: 'Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietuva valstybingumo neprarado, tik tapo Lenkijos vasale.'
   pagrindžia:
     - c-005
+- t-009
+  teiginys: 'Geremferdenas atvyko į Didžiosios Kunigaikštystės sostinę, kad būtų pripažintas Lietuvos vasalu.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -144,6 +148,29 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-006
+  santrauka: 'Geremferdenas atvyko į Didžiosios Kunigaikštystės sostinę, kad būtų pripažintas Lietuvos vasalu.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tačiau nau­
+    jasis chanas, išvykęs iš Vilniaus, netrukus žuvo mūšyje su sa­
+    vo varžovu Kerimberdėjumi, kuris, savo ruožtu, irgi buvo
+    užmuštas brolio Geremferdeno, tad reikėjo inauguruoti Vil­
+    niuje naują chaną. Geremferdenas, Vytauto padedamas įvei­
+    kęs priešininkus, tuoj pat atvyko į Didžiosios Kunigaikštystės
+    sostinę, kad būtų pripažintas Lietuvos vasalu ir iš jos garbin­
+    go valdovo rankų priimtų įvesdinimą, po to, globojamas
+    maršalkos Radvilos, buvo išsiųstas į ordą, sėdo į tėvo sostą ir
+    liko ištikimas Lietuvai bei paslaugus75 iki pat mirties. Vytauto
+    didžiausios šlovės ir galybės metai ir Vilniui buvo geriausios
+    kloties laikai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -151,14 +178,9 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
 
 ### Susiję objektai
 - [[objektai/paprociai/Ištikimybės priesaikos Jogailai]]
-- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
-- [[objektai/asmenys/Mindaugas]]
-- [[objektai/zodynas/tėvonija]]
+- [[objektai/zodynas/maršalka]]
 - [[objektai/ivykiai/Jogailos pasiūlymas Vytautui per Henriką Ziemovitą (1392 m. pavasaris)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Skirgaila]]
 - [[objektai/asmenys/Vladislovas iš Opolės]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Zigmantas Liuksemburgietis]]
+- [[objektai/zodynas/tėvonija]]
 - [[objektai/zodynas/tėvonija tėvų palikimas]]
-- [[objektai/grupes/Livonijos ordinas]]

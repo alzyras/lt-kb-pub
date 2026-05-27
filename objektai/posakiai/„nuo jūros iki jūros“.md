@@ -51,5 +51,4 @@ Lietuvos pripažinimo reikalai nejudėjo į priekį, daugybė durų jai buvo už
 - [[objektai/grupes/Rusai]]
 - [[objektai/grupes/Vokiečiai]]
 - [[objektai/zodynas/karo grobis]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/zodynas/didvalstybė]]

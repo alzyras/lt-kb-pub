@@ -95,7 +95,7 @@ Juo buvo patvirtintas Vytauto savarankiškumas: jis buvo paskelbtas tikruoju val
 - [[objektai/asmenys/Kazimieras Antanavičius]]
 - [[objektai/ivykiai/Krėvos sutartis (1385 m.)]]
 - [[objektai/grupes/Lenkų ponų taryba|Lenkų ponų taryba (institucija)]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Vytautas]]
 - [[objektai/zodynas/bažnytinė provincija]]
 - [[objektai/zodynas/karūnacija karūnuotis]]
 - [[objektai/zodynas/kunigaikštija]]

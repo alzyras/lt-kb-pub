@@ -69,6 +69,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Husitai]]
 - [[objektai/asmenys/Kaributas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Vytautas]]
 - [[objektai/grupes/Čekai]]
-- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/asmenys/Jogaila]]

@@ -71,6 +71,10 @@ Nenurodyta
   teiginys: 'Atsisakęs krikšto, Gediminas neatsisakė tikslo artinti Lietuvą prie Vakarų Europos, kviesdamas vokiečių kolonistus.'
   pagrindžia:
     - c-003
+- t-005
+  teiginys: 'Gediminas kvietė pirklius, amatininkus ir žemdirbius atvykti į jo valstybę, žadėdamas jiems mokestines lengvatas.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -125,14 +129,37 @@ Nenurodyta
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-004
+  santrauka: 'Gediminas kvietė pirklius, amatininkus ir žemdirbius atvykti į jo valstybę, žadėdamas jiems mokestines lengvatas.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Karius, kurie atvyks pas mus, aprūpinsim to­
+    kiom pajamom ir žeme, kiek tik bus reikalingi. Pirkliai ir
+    amatininkai, ginklakaliai, karo technikos meistrai, siuvė­
+    jai, akmentašiai, račiai, druskininkai, auksakaliai, žvejai ir
+    apskritai žmonės bet kokio amato su žmonomis, vaikais,
+    jiems be jokių mokesčių ir prievolių, mūsų valstybėj yra
+    atviri keliai atvykti ir išvykti. Žemdirbiams, kurie norėtų
+    pas mus atsikelti ir įsikurti, duodame dešimties metų lai­
+    ką, per kurį jie bus atleisti nuo bet kokių mokesčių ir dar-
+    ł
+    To laiško nuorašas tais pačiais lai- Palyginimui žr. Gedimino laiškai p. 21
+    kais rašytas, ant pergamento, be da- (Leid. past.)
+    tos Slapt. arch. Spinta XVIII, Nr. 1.
+    72
 
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Baltai]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
-- [[objektai/ivykiai/Gedimino krikšto akcija|Gedimino krikšto akcija (krikštas)]]
-- [[objektai/grupes/Karaimai]]
-- [[objektai/grupes/Stačiatikiai]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/unija]]
+    ## Puslapis 89
+
+    I  KNYGA
+    bo prievolių, tam laikui praėjus, turės, priklausomai nuo
+    žemės rūšies, tokią dešimtinę mokėti, kokią yra įprasta imti
+    kitose šalyse; visiems atvykėliams galioja Rygos miesto tei­
+    sė, nebent teisės žinovų potvarkiu kita nustatyta jiems ge­
+    resnė atrodytų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005

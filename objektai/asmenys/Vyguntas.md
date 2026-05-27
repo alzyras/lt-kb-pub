@@ -59,7 +59,7 @@ Pagal tas sutartis didysis kunigaikštis Jogaila, — pritariamas motinos Julijo
 ### Susiję objektai
 - [[objektai/asmenys/Julijona (Algirdo žmona)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Kęstutis]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/asmenys/Švitrigaila]]
 - [[objektai/ivykiai/Atskiros Lietuvos didžiojo kunigaikščio valdžios projektas ir jo žlugimas]]

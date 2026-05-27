@@ -33,7 +33,7 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
 
 ## Teiginiai
 - t-001
-  teiginys: '1421 m. sausį į Varėną atvykę husitų pasiuntiniai kvietė Vytautą savo karaliumi ir gavo iš jo aiškių vilčių.'
+  teiginys: '1421 m. sausį į Varėną atvykę husitų pasiuntiniai kvietė Vytautą tapti jų karaliumi ir gavo iš jo vilčių.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -45,25 +45,28 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: 'Bet pirma Lenkijoje, o paskui ir Lietuvoje kilo prieš husitus opozicija — imta kovoti su jų mokslu, paliekant Bažny­ čios pusėje.'
+  teiginys: 'Lenkijoje, o vėliau ir Lietuvoje kilo opozicija husitams: imta kovoti su jų mokslu ir likta Bažnyčios pusėje.'
   pagrindžia:
     - c-003
 - t-004
-  teiginys: 'Ir kai čekai husitai pasiūlė karališką vainiką Jo­ gailai, šis nesutiko jos priimti, nes tai buvo eretikų siūlymas.'
+  teiginys: 'Čekai husitai pasiūlė karališką vainiką Jogailai, bet jis atsisakė jį priimti, nes tai buvo eretikų siūlymas.'
   pagrindžia:
     - c-004
 - t-005
-  teiginys: 'Popiežius draudė siųsti Kaributą, o kai Vytautas nepaklausė, grasė paskelbsiąs Lietuvai kryžiaus žygį, jei jo neatšauktų ir nenutrauktų su husitais santykių.'
+  teiginys: 'Popiežius draudė Vytautui siųsti Kaributą ir grasė paskelbti Lietuvai kryžiaus žygį, jei jis nenutrauks ryšių su husitais.'
   pagrindžia:
     - c-005
 - t-006
-  teiginys: '1424 m. Jogaila, Vytautas, jų didikai, riteriai ir miestai sudarė didelę prieš husitus opo­ ziciją: nutarta su jais kovoti Lietuvoje ir Lenkijoje, vyti iš vals­ tybės husitų šalininkus, konfiskuoti su Kaributu Čekijon išvy­ kusiųjų turtą ir kt.'
+  teiginys: '1424 m. Jogaila, Vytautas, jų didikai, riteriai ir miestai sudarė opoziciją husitams.'
   pagrindžia:
     - c-006
-
+- t-007
+  teiginys: 'Husitai ne kartą naudojosi Vytauto globa.'
+  pagrindžia:
+    - c-007
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1421 m. sausį į Varėną atvykę husitų pasiuntiniai kvietė Vytautą savo karaliumi ir gavo iš jo aiškių vilčių.'
+  santrauka: '1421 m. sausį į Varėną atvykę husitų pasiuntiniai kvietė Vytautą tapti jų karaliumi ir gavo iš jo vilčių.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Jogailai atsisakius priimti jam husitų siūlomą Čekijos karūną,
@@ -95,7 +98,7 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Bet pirma Lenkijoje, o paskui ir Lietuvoje kilo prieš husitus opozicija — imta kovoti su jų mokslu, paliekant Bažny­ čios pusėje.'
+  santrauka: 'Lenkijoje, o vėliau ir Lietuvoje kilo opozicija husitams: imta kovoti su jų mokslu ir likta Bažnyčios pusėje.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Todėl kai Čekijoje pasklido Katalikų Bažnyčiai prie­
@@ -115,7 +118,7 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
   pagrindžia:
     - t-003
 - c-004
-  santrauka: 'Ir kai čekai husitai pasiūlė karališką vainiką Jo­ gailai, šis nesutiko jos priimti, nes tai buvo eretikų siūlymas.'
+  santrauka: 'Čekai husitai pasiūlė karališką vainiką Jogailai, bet jis atsisakė jį priimti, nes tai buvo eretikų siūlymas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Ir kai čekai husitai pasiūlė karališką vainiką Jo­
@@ -133,7 +136,7 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
   pagrindžia:
     - t-004
 - c-005
-  santrauka: 'Popiežius draudė siųsti Kaributą, o kai Vytautas nepaklausė, grasė paskelbsiąs Lietuvai kryžiaus žygį, jei jo neatšauktų ir nenutrauktų su husitais santykių.'
+  santrauka: 'Popiežius draudė Vytautui siųsti Kaributą ir grasė paskelbti Lietuvai kryžiaus žygį, jei jis nenutrauks ryšių su husitais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tą patį rašė ir Rygos
@@ -150,7 +153,7 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
   pagrindžia:
     - t-005
 - c-006
-  santrauka: '1424 m. Jogaila, Vytautas, jų didikai, riteriai ir miestai sudarė didelę prieš husitus opo­ ziciją: nutarta su jais kovoti Lietuvoje ir Lenkijoje, vyti iš vals­ tybės husitų šalininkus, konfiskuoti su Kaributu Čekijon išvy­ kusiųjų turtą ir kt.'
+  santrauka: '1424 m. Jogaila, Vytautas, jų didikai, riteriai ir miestai sudarė opoziciją husitams.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     1424 m. Jogaila, Vytautas, jų
@@ -173,19 +176,27 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Husitai ne kartą naudojosi Vytauto globa.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Pavyzdžiui, husitai dargi ne
+    kartą Vytauto globa naudojosi. Šis kunigaikštis nė nedvejoda­
+    mas griebdavosi prie jo didybės nelabai derančių būdų, kad
+    tik nukreiptų Jogailos dėmesį nuo Lietuvos valdymo reikalų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Kaributas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/ciesorius]]
-- [[objektai/grupes/Čekai]]
 - [[objektai/ivykiai/Husitų karališko vainiko pasiūlymas Jogailai ir Vytautui bei Zigmanto Kaributo siuntimas į Čekiją]]
 - [[objektai/daiktai/Karūna]]
 - [[objektai/ivykiai/Kėzmarko suvažiavimas ir santykių su husitais nutraukimas (1423 m.)]]
-- [[objektai/asmenys/Martynas V]]
 - [[objektai/ivykiai/Martyno V įsakymas atšaukti Kaributą (1422 m. lapkričio mėn.)]]
 - [[objektai/asmenys/Prokopas]]
 - [[objektai/asmenys/Sofija (Vytauto duktė)]]
@@ -194,6 +205,7 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
 - [[objektai/zodynas/ekskomunika]]
 - [[objektai/posakiai/in odium Sigismundi]]
 - [[objektai/posakiai/vienintelis kelias, kuriuo galima atvesti husitus atgal į katalikų Bažnyčią]]
+- [[objektai/grupes/Čekai]]
 - [[objektai/grupes/Čekijos husitai]]
 - [[objektai/daiktai/Šv. Vaclovo karūna]]
 - [[objektai/ivykiai/Šv. Vaclovo karūnos pasiūlymas Jogailai ir Vytauto sutikimas priimti čekų karūną (1420–1421 m.)]]

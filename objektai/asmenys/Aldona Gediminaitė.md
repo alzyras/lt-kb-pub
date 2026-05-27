@@ -12,13 +12,14 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1325 m.'
+  - '1326 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
   - 'XIV'
 date_start: '1325'
-date_end: ''
+date_end: '1326'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -47,9 +48,13 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
   pagrindžia:
     - c-003
 - t-009
-  teiginys: 'Jau tada bekovodamas su Ordinu Lenkų kara­ lius Vladislovas Łokietka sau tinkamu sąjungininku buvo nu­ žiūrėjęs Gedimino valdomą Lietuvą, ir tarp jų 1325 buvo pa­ daryta sutartis, kurią sutvirtino Gedimino dukters Aldonos ir Vladislovo sūnaus Kazimiero.'
+  teiginys: '1325 m. sutartį tarp Lietuvos ir Vladislovo Lokietkos sutvirtino Aldonos Gediminaitės ir Kazimiero jungtuvės.'
   pagrindžia:
     - c-004
+- t-010
+  teiginys: 'Aldona Gediminaitė per krikštą buvo pavadinta Ona ir ištekinta už Lenkijos karaliaus Kazimiero Didžiojo.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -94,7 +99,7 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
   pagrindžia:
     - t-008
 - c-004
-  santrauka: 'Jau tada bekovodamas su Ordinu Lenkų kara­ lius Vladislovas Łokietka sau tinkamu sąjungininku buvo nu­ žiūrėjęs Gedimino valdomą Lietuvą, ir tarp jų 1325 buvo pa­ daryta sutartis, kurią sutvirtino Gedimino dukters Aldonos ir Vladislovo sūnaus Kazimiero.'
+  santrauka: '1325 m. sutartį tarp Lietuvos ir Vladislovo Lokietkos sutvirtino Aldonos Gediminaitės ir Kazimiero jungtuvės.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Jau tada bekovodamas su Ordinu Lenkų kara­
@@ -110,17 +115,34 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-009
+- c-005
+  santrauka: 'Aldona Gediminaitė per krikštą buvo pavadinta Ona ir ištekinta už Lenkijos karaliaus Kazimiero Didžiojo.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Iš jų Aldona, arba Aldoina, per
+    krikštą pavadinta Ona, buvo ištekin­
+    ta už Lenkijos karaliaus Kazimiero
+    Didžiojo. Danmilė, pakrikštyta Elž­
+    bieta, už Vaclovo - Mazovijos kuni­
+    gaikščio, Marija - už Boleslovo - Ru­
+    sios kunigaikščio; o ketvirtoji,
+    bevaikė, - už Rusios didžiojo kuni­
+    gaikščio Dmitrijaus Michailovičiaus,
+    1326 metų spalio 15 dieną totorių
+    chano Uzbeko įsakymu nužudyto.
+    (Žr.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/asmenys/Vladislovas]]
-- [[objektai/asmenys/Vladislovas Łokietka]]
 - [[objektai/ivykiai/Gedimino sąjunga su Lenkija]]
 - [[objektai/asmenys/Kazimieras]]
-- [[objektai/asmenys/Kazimieras Didysis]]
 - [[objektai/asmenys/Lokietka]]
+- [[objektai/asmenys/Vladislovas Łokietka]]
 - [[objektai/asmenys/Kazimieras (Lokietkos sūnus)]]
-- [[objektai/asmenys/Vladislovas Lokietka]]

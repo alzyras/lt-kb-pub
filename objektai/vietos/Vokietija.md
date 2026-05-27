@@ -7,6 +7,9 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
+  - '1034 m.'
+  - '1035 m.'
+  - '1323 m.'
   - '1525 m.'
   - '1579 m.'
   - '1618 m.'
@@ -24,12 +27,15 @@ periodo_grupes:
   - 'LDK'
   - 'XX a.'
   - 'modernioji Lietuva'
+  - 'viduramžiai'
 amziai:
+  - 'XI'
+  - 'XIV'
   - 'XVI'
   - 'XVII'
   - 'XX'
   - 'XXI'
-date_start: '1525'
+date_start: '1034'
 date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
@@ -52,23 +58,23 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Neišnyko nė senas papratimas kviesti svečius iš Vokietijos; buvo pradėti skelbti net specialūs kryžiaus žygiai.'
+  teiginys: 'Iš Vokietijos ir toliau buvo kviečiami svečiai, o kovoms imta skelbti specialius kryžiaus žygius.'
   pagrindžia:
     - c-002
 - t-003
-  teiginys: 'Be to, daug didikų vaikų, išvažiavę mokytis į Vokietijos universitetus, užsikrėsdavo protestantų mokslu, kurį parsiveždavo kartu ir į Lietuvą; čia, esant tokiai liūdnai Bažnyčios būklei, jam buvo labai patogi dirva plisti.'
+  teiginys: 'Vokietijos universitetuose besimokę didikų vaikai protestantų mokslą parsiveždavo į Lietuvą.'
   pagrindžia:
     - c-003
 - t-004
-  teiginys: 'Tuo būdu surinkus pinigų, prisisamdžius Vengrijoje ir Vokietijoje kareivių, prisipirkus ir prisigaminus ginklų (tada Vilniuje buvo įsteigta patrankų liejykla), 1579 m.'
+  teiginys: 'Rengiantis 1579 m. buvo samdomi kareiviai Vengrijoje ir Vokietijoje, perkami ir gaminami ginklai.'
   pagrindžia:
     - c-004
 - t-005
-  teiginys: 'Daugelis vyko į Vokietiją; bet kadangi ten universitetai buvo protestantiški, tai dažnai jie iš ten grįždavo protestantai.'
+  teiginys: 'Į Vokietijos protestantiškus universitetus išvykę studentai dažnai grįždavo protestantais.'
   pagrindžia:
     - c-005
 - t-006
-  teiginys: 'Tais laikais būdavo labai paprastas reiškinys, kad jaunystėje buvę protestantai, patekę į jėzuitų mokyklas, pasidarydavo katalikais, išvykę į Vokietijos universitetus, vėl atvirsdavo į protestantizmą, o grįžę namo po kiek laiko vėl pereidavo į katalikybę.'
+  teiginys: 'Išvykę į Vokietijos universitetus jaunuoliai dažnai vėl pereidavo į protestantizmą.'
   pagrindžia:
     - c-006
 - t-007
@@ -84,11 +90,11 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   pagrindžia:
     - c-009
 - t-010
-  teiginys: 'Jeigu Vokietija sutiktų pripažinti Lietuvos valstybę prieš Taikos konferenciją, nustatyti tam tikrus, dar tikslintinus santykius su Vokietija, jeigu tai nekenktų Lietuvos interesams, nes Lietuvos interesai „yra pasvirę ne tiek į rytus /Rusiją/ ir ne tiek į.'
+  teiginys: 'Vilniaus konferencijoje svarstyta, kad Lietuvos interesai labiau krypsta į Vakarus, tai yra į Vokietiją.'
   pagrindžia:
     - c-010
 - t-011
-  teiginys: 'Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui Georgui fon Hertlingui (Georg von Hertling), ir tą pačią dieną Vokietijos kaizeris Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomybę, bet pažymėjo, kad.'
+  teiginys: '1918 m. kovo 23 d. Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomybę, bet siejo ją su glaudžiais ryšiais su Vokietija.'
   pagrindžia:
     - c-011
 - t-012
@@ -96,15 +102,15 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   pagrindžia:
     - c-012
 - t-013
-  teiginys: 'Sureguliavus santykius su sąjungininkais, stengiantis išvengti dvejonių dėl naujo teritorijos statuso, su Vokietija pasirašytas kompleksas sutarčių, svarbi prekybos ir laivininkystės sutartis, o 1928 m. sausio 29 d. po ilgų ir sunkių derybų pasirašyta.'
+  teiginys: '1928 m. sausio 29 d. po ilgų derybų buvo pasirašyta Lietuvos ir Vokietijos sienos sutartis.'
   pagrindžia:
     - c-013
 - t-014
-  teiginys: 'Tapusi Tautų Sąjungos nare Vokietija nebegalėjo remti Lietuvos ambicijų Vilniuje, tačiau būtent su Vokietija 1928 m. pasirašytos net aštuonios sutartys ir pasiekta daugiausia.'
+  teiginys: '1928 m. Lietuva su Vokietija pasirašė net aštuonias sutartis.'
   pagrindžia:
     - c-014
 - t-015
-  teiginys: 'Negalime kautis dviejuose diplomatijos frontuose, todėl Lietuvai reikia susigrąžinti Lenkijos faktorių ir išnaudoti jį kovojant su Vokietija.'
+  teiginys: 'Lietuvos diplomatijoje buvo siūloma susigrąžinti Lenkijos faktorių ir išnaudoti jį kovojant su Vokietija.'
   pagrindžia:
     - c-015
 - t-016
@@ -116,15 +122,15 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   pagrindžia:
     - c-017
 - t-018
-  teiginys: 'Neutralumo įstatymu besiginantį Kauną sukrėtė naujiena apie nacių ir sovietų nepuolimo sutartį 1939 m. rugpjūčio 23 d., kad Vokietija ir SSRS pasirašė papildomą slaptąjį protokolą, – pasidalijo regioną įtakos sferomis: Suomija, Estija ir Latvija atiteko.'
+  teiginys: '1939 m. rugpjūčio 23 d. Vokietija ir SSRS slaptu protokolu pasidalijo regioną įtakos sferomis, o Lietuva atiteko Vokietijai.'
   pagrindžia:
     - c-018
 - t-019
-  teiginys: 'Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (Joachim von Ribbentrop) pasirašius sienų ir draugystės sutartį tarp Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į SSRS įtakos sferą (už tai Vokietija gavo.'
+  teiginys: '1939 m. rugsėjo 28 d. slaptu protokolu Lietuva pateko į SSRS įtakos sferą, o Vokietija gavo Liublino vaivadiją.'
   pagrindžia:
     - c-019
 - t-020
-  teiginys: 'Lietuvos sovietizacija 1940 m. birželio 16 d., sovietų divizijoms žygiu per Lietuvos teritoriją strategiškai atkirtus Latviją ir Estiją nuo Vokietijos, žaibu okupuotos ir dvi gretimos Baltijos valstybės.'
+  teiginys: '1940 m. birželio 16 d. sovietų divizijos per Lietuvą strategiškai atkirtusios Latviją ir Estiją nuo Vokietijos.'
   pagrindžia:
     - c-020
 - t-021
@@ -156,17 +162,21 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   pagrindžia:
     - c-027
 - t-028
-  teiginys: 'Išgirdę apie pasienio trukdymus, tie pasiuntiniai su vainikais grįžo Vokietijon.'
+  teiginys: 'Pasiuntiniai su vainikais, išgirdę apie pasienio trukdymus, grįžo į Vokietiją.'
   pagrindžia:
     - c-028
-- t-029
-  teiginys: '214 Voinas, Vytenio brolis 224 Vokietija 27, 90, 91, 101, 153, 164, 165, 167, 168, 171, 184, 186-193, 226-228, 235, 237, 249, 250, 260, 306, 337, 343, 351, 355, 356, 374 Volchovas, upė 22, 114 410 VARDYNAS Voldemaras Aug.'
-  pagrindžia:
-    - c-029
 - t-030
-  teiginys: 'Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­ čiai ir Hanzos atstovai.'
+  teiginys: 'Susitikime dalyvavo Vokietijos pasiuntiniai, Silezijos kunigaikščiai ir Hanzos atstovai.'
   pagrindžia:
     - c-030
+- t-031
+  teiginys: 'Rygos pasiuntiniai pranešė popiežiui, kad buvo svarstytas Gedimino laiškų į Vokietiją tikrumas.'
+  pagrindžia:
+    - c-031
+- t-032
+  teiginys: 'Karolis Tryrietis 1323 m. rugpjūčio viduryje dar buvo Vokietijoje.'
+  pagrindžia:
+    - c-032
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -185,7 +195,7 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Neišnyko nė senas papratimas kviesti svečius iš Vokietijos; buvo pradėti skelbti net specialūs kryžiaus žygiai.'
+  santrauka: 'Iš Vokietijos ir toliau buvo kviečiami svečiai, o kovoms imta skelbti specialius kryžiaus žygius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Neišnyko nė senas paprati-
@@ -200,7 +210,7 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Be to, daug didikų vaikų, išvažiavę mokytis į Vokietijos universitetus, užsikrėsdavo protestantų mokslu, kurį parsiveždavo kartu ir į Lietuvą; čia, esant tokiai liūdnai Bažnyčios būklei, jam buvo labai patogi dirva plisti.'
+  santrauka: 'Vokietijos universitetuose besimokę didikų vaikai protestantų mokslą parsiveždavo į Lietuvą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Protestantizmo plitimas.** Protestantizmas labai greitai pa-
@@ -218,7 +228,7 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   pagrindžia:
     - t-003
 - c-004
-  santrauka: 'Tuo būdu surinkus pinigų, prisisamdžius Vengrijoje ir Vokietijoje kareivių, prisipirkus ir prisigaminus ginklų (tada Vilniuje buvo įsteigta patrankų liejykla), 1579 m.'
+  santrauka: 'Rengiantis 1579 m. buvo samdomi kareiviai Vengrijoje ir Vokietijoje, perkami ir gaminami ginklai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo būdu surinkus pinigų, prisi-
@@ -234,7 +244,7 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   pagrindžia:
     - t-004
 - c-005
-  santrauka: 'Daugelis vyko į Vokietiją; bet kadangi ten universitetai buvo protestantiški, tai dažnai jie iš ten grįždavo protestantai.'
+  santrauka: 'Į Vokietijos protestantiškus universitetus išvykę studentai dažnai grįždavo protestantais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Daugelis vyko į Vokietiją; bet kadangi ten universitetai
@@ -252,7 +262,7 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   pagrindžia:
     - t-005
 - c-006
-  santrauka: 'Tais laikais būdavo labai paprastas reiškinys, kad jaunystėje buvę protestantai, patekę į jėzuitų mokyklas, pasidarydavo katalikais, išvykę į Vokietijos universitetus, vėl atvirsdavo į protestantizmą, o grįžę namo po kiek laiko vėl pereidavo į katalikybę.'
+  santrauka: 'Išvykę į Vokietijos universitetus jaunuoliai dažnai vėl pereidavo į protestantizmą.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tais laikais būdavo labai paprastas reiškinys, kad jaunystėje
@@ -320,7 +330,7 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   pagrindžia:
     - t-009
 - c-010
-  santrauka: 'Jeigu Vokietija sutiktų pripažinti Lietuvos valstybę prieš Taikos konferenciją, nustatyti tam tikrus, dar tikslintinus santykius su Vokietija, jeigu tai nekenktų Lietuvos interesams, nes Lietuvos interesai „yra pasvirę ne tiek į rytus /Rusiją/ ir ne tiek į.'
+  santrauka: 'Vilniaus konferencijoje svarstyta, kad Lietuvos interesai labiau krypsta į Vakarus, tai yra į Vokietiją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Jeigu Vokietija sutiktų pripažinti Lietuvos valstybę prieš Taikos konfe-
@@ -338,7 +348,7 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   pagrindžia:
     - t-010
 - c-011
-  santrauka: 'Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui Georgui fon Hertlingui (Georg von Hertling), ir tą pačią dieną Vokietijos kaizeris Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomybę, bet pažymėjo, kad.'
+  santrauka: '1918 m. kovo 23 d. Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomybę, bet siejo ją su glaudžiais ryšiais su Vokietija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Kovo 23 dieną Berlyne A. Smetonos vadovau-
@@ -379,7 +389,7 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   pagrindžia:
     - t-012
 - c-013
-  santrauka: 'Sureguliavus santykius su sąjungininkais, stengiantis išvengti dvejonių dėl naujo teritorijos statuso, su Vokietija pasirašytas kompleksas sutarčių, svarbi prekybos ir laivininkystės sutartis, o 1928 m. sausio 29 d. po ilgų ir sunkių derybų pasirašyta.'
+  santrauka: '1928 m. sausio 29 d. po ilgų derybų buvo pasirašyta Lietuvos ir Vokietijos sienos sutartis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Sureguliavus santykius su sąjungininkais, stengiantis išvengti dvejonių
@@ -394,7 +404,7 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   pagrindžia:
     - t-013
 - c-014
-  santrauka: 'Tapusi Tautų Sąjungos nare Vokietija nebegalėjo remti Lietuvos ambicijų Vilniuje, tačiau būtent su Vokietija 1928 m. pasirašytos net aštuonios sutartys ir pasiekta daugiausia.'
+  santrauka: '1928 m. Lietuva su Vokietija pasirašė net aštuonias sutartis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tapusi Tautų Sąjungos nare Vokietija nebegalėjo remti Lietuvos
@@ -408,7 +418,7 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   pagrindžia:
     - t-014
 - c-015
-  santrauka: 'Negalime kautis dviejuose diplomatijos frontuose, todėl Lietuvai reikia susigrąžinti Lenkijos faktorių ir išnaudoti jį kovojant su Vokietija.'
+  santrauka: 'Lietuvos diplomatijoje buvo siūloma susigrąžinti Lenkijos faktorių ir išnaudoti jį kovojant su Vokietija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nega-
@@ -457,7 +467,7 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   pagrindžia:
     - t-017
 - c-018
-  santrauka: 'Neutralumo įstatymu besiginantį Kauną sukrėtė naujiena apie nacių ir sovietų nepuolimo sutartį 1939 m. rugpjūčio 23 d., kad Vokietija ir SSRS pasirašė papildomą slaptąjį protokolą, – pasidalijo regioną įtakos sferomis: Suomija, Estija ir Latvija atiteko.'
+  santrauka: '1939 m. rugpjūčio 23 d. Vokietija ir SSRS slaptu protokolu pasidalijo regioną įtakos sferomis, o Lietuva atiteko Vokietijai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Neutralumo įstatymu besiginantį Kauną sukrėtė naujiena apie nacių ir
@@ -472,7 +482,7 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   pagrindžia:
     - t-018
 - c-019
-  santrauka: 'Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (Joachim von Ribbentrop) pasirašius sienų ir draugystės sutartį tarp Reicho ir SSRS, pagal jos slaptą protokolą Lietuvos teritorijai patekus į SSRS įtakos sferą (už tai Vokietija gavo.'
+  santrauka: '1939 m. rugsėjo 28 d. slaptu protokolu Lietuva pateko į SSRS įtakos sferą, o Vokietija gavo Liublino vaivadiją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentro-
@@ -489,7 +499,7 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   pagrindžia:
     - t-019
 - c-020
-  santrauka: 'Lietuvos sovietizacija 1940 m. birželio 16 d., sovietų divizijoms žygiu per Lietuvos teritoriją strategiškai atkirtus Latviją ir Estiją nuo Vokietijos, žaibu okupuotos ir dvi gretimos Baltijos valstybės.'
+  santrauka: '1940 m. birželio 16 d. sovietų divizijos per Lietuvą strategiškai atkirtusios Latviją ir Estiją nuo Vokietijos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos sovietizacija
@@ -626,7 +636,7 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   pagrindžia:
     - t-027
 - c-028
-  santrauka: 'Išgirdę apie pasienio trukdymus, tie pasiuntiniai su vainikais grįžo Vokietijon.'
+  santrauka: 'Pasiuntiniai su vainikais, išgirdę apie pasienio trukdymus, grįžo į Vokietiją.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Išgirdę apie pasienio trukdymus, tie pasiuntiniai su vainikais grįžo
@@ -638,32 +648,8 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-028
-- c-029
-  santrauka: '214 Voinas, Vytenio brolis 224 Vokietija 27, 90, 91, 101, 153, 164, 165, 167, 168, 171, 184, 186-193, 226-228, 235, 237, 249, 250, 260, 306, 337, 343, 351, 355, 356, 374 Volchovas, upė 22, 114 410 VARDYNAS Voldemaras Aug.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    214
-    Voinas, Vytenio brolis 224
-    Vokietija 27, 90, 91, 101, 153, 164,
-    165, 167, 168, 171, 184, 186-193,
-    226-228, 235, 237, 249, 250, 260,
-    306, 337, 343, 351, 355, 356, 374
-    Volchovas, upė 22, 114
-    ```
-
-    ```
-    410 VARDYNAS
-    ```
-    **Voldemaras Aug.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-029
 - c-030
-  santrauka: 'Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­ čiai ir Hanzos atstovai.'
+  santrauka: 'Susitikime dalyvavo Vokietijos pasiuntiniai, Silezijos kunigaikščiai ir Hanzos atstovai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­
@@ -676,3 +662,40 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-030
+- c-031
+  santrauka: 'Rygos pasiuntiniai pranešė popiežiui, kad buvo svarstytas Gedimino laiškų į Vokietiją tikrumas.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Atvykę taip pat Rygos miesto pasiun­
+    tiniai pranešė popiežiui, kad Gediminas prašęs Ordino ri­
+    terių, vyskupų ir Livonijos miestų tarpininkauti sudarant
+    taiką, kad dėl to tartasi ir kartu apsvarstytas valdovo laiškų,
+    rašytų į Vokietiją, tikrumas ir pagaliau po pasitarimų pas
+    jį išleista ori misija, kuri pagarbiai sutikta, iškilmingai pri­
+    imta ir kuri pagal turimus įgaliojimus sudarė taikos sutar­
+    tį, ištisai visą abiejų besitariančių pusių priesaikomis pa­
+    tvirtintą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-031
+- c-032
+  santrauka: 'Karolis Tryrietis 1323 m. rugpjūčio viduryje dar buvo Vokietijoje.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    1034-1035;
+    kad Karolis Tryrietis, dar 1323 m.
+    rugpjūčiui įpusėjus, buvo Vokietijo­
+    je. Apie jo priėmimą popiežiaus
+    rūmuose pasakoja Vygandas
+    M a r b u r g a s, p.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-032

@@ -57,25 +57,29 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-008
-  teiginys: 'Kazimieraicio : Li Ores / Wyinlavas DAUGĖLIŠKIŲ KAUTYNES ) Leipalingis Armoniskis e OVolozynas Š 2 = AS ie o righ tinė Bastūnaio | rakelii Subatninkai J a 1950 m. liepos 22 d. ties Ariogalos ir Vilkijos raj.'
+  teiginys: '1950 m. liepos 22 d. ties Ariogalos ir Vilkijos rajonų riba MGB 208-ojo pulko kareiviai puolė partizanų bunkerį.'
   pagrindžia:
     - c-004
 - t-009
-  teiginys: 'Karūnavimo metais jis užrašė Žemaičiuose po pusę žemių Raseinių, Betygalos, Ariogalos ir Laukuvos.'
+  teiginys: 'Mindaugas karūnavimo metais Žemaičiuose užrašė po pusę Raseinių, Betygalos, Ariogalos ir Laukuvos žemių.'
   pagrindžia:
     - c-005
 - t-010
-  teiginys: 'Kniprodė smarkiai teriojo Gaižuvos, Ariogalos ir Raseinių sritis; tik dėl staigaus polaidžio jis turėjo gana nuostolingą grįžimą^12.'
+  teiginys: '1352 m. vasarį Kniprodė smarkiai teriojo Gaižuvos, Ariogalos ir Raseinių sritis.'
   pagrindžia:
     - c-006
 - t-011
-  teiginys: 'Jis vaizdingai eilėmis aprašė, kaip ištisą savaitę buvo švaistomasi Ariogalos — Dubysos rajone, kokie vynai buvo geriami, kaip nuotykių ieškotojai, nudeginę lietuvių sodybas, dešimtimis buvo keliami į riterius, o jų tarpe ir pats Albrechtas^25.'
+  teiginys: 'Petras Suchenwirtas aprašė savaitę trukusį siaubimą Ariogalos-Dubysos rajone ir lietuvių sodybų deginimą.'
   pagrindžia:
     - c-007
 - t-012
   teiginys: 'Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupui gyvenamąja vieta paskyrė Žemaičius ir dovanojo jam čia kai kurias žemes: po pusę Raseinių, Ariogalos, Betygalos, Laukuvos ir kt.'
   pagrindžia:
     - c-008
+- t-013
+  teiginys: 'Ginkluota palyda, pasiekusi Raseinių ribas, vėliau pasiekė ir Ariogalos apylinkes.'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -131,7 +135,7 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
   pagrindžia:
     - t-007
 - c-004
-  santrauka: 'Kazimieraicio : Li Ores / Wyinlavas DAUGĖLIŠKIŲ KAUTYNES ) Leipalingis Armoniskis e OVolozynas Š 2 = AS ie o righ tinė Bastūnaio | rakelii Subatninkai J a 1950 m. liepos 22 d. ties Ariogalos ir Vilkijos raj.'
+  santrauka: '1950 m. liepos 22 d. ties Ariogalos ir Vilkijos rajonų riba MGB 208-ojo pulko kareiviai puolė partizanų bunkerį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kazimieraicio * : Li Ores / Wyinlavas DAUGĖLIŠKIŲ KAUTYNES
@@ -149,7 +153,7 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
   pagrindžia:
     - t-008
 - c-005
-  santrauka: 'Karūnavimo metais jis užrašė Žemaičiuose po pusę žemių Raseinių, Betygalos, Ariogalos ir Laukuvos.'
+  santrauka: 'Mindaugas karūnavimo metais Žemaičiuose užrašė po pusę Raseinių, Betygalos, Ariogalos ir Laukuvos žemių.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Karūnavimo metais jis užrašė Žemaičiuose
@@ -163,7 +167,7 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
   pagrindžia:
     - t-009
 - c-006
-  santrauka: 'Kniprodė smarkiai teriojo Gaižuvos, Ariogalos ir Raseinių sritis; tik dėl staigaus polaidžio jis turėjo gana nuostolingą grįžimą^12.'
+  santrauka: '1352 m. vasarį Kniprodė smarkiai teriojo Gaižuvos, Ariogalos ir Raseinių sritis.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Bet jau 1352.II. Kniprodė smarkiai
@@ -177,7 +181,7 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
   pagrindžia:
     - t-010
 - c-007
-  santrauka: 'Jis vaizdingai eilėmis aprašė, kaip ištisą savaitę buvo švaistomasi Ariogalos — Dubysos rajone, kokie vynai buvo geriami, kaip nuotykių ieškotojai, nudeginę lietuvių sodybas, dešimtimis buvo keliami į riterius, o jų tarpe ir pats Albrechtas^25.'
+  santrauka: 'Petras Suchenwirtas aprašė savaitę trukusį siaubimą Ariogalos-Dubysos rajone ir lietuvių sodybų deginimą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Jis vaizdingai eilėmis aprašė, kaip ištisą savaitę buvo
@@ -210,3 +214,21 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-012
+- c-009
+  santrauka: 'Ginkluota palyda, pasiekusi Raseinių ribas, vėliau pasiekė ir Ariogalos apylinkes.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Baigusi kruvinus darbus, ginkluota palyda kitą die­
+    ną pasiekė Raseinių ribas, o vėliau ir Ariogalos apylinkes.
+    Abi tos vietovės pagonims buvo labai svarbios, juk čia sto­
+    vėjo Romuva (Perkūno šventykla ir vyriausiojo vaidilos Kri­
+    vių Krivaičio pagrindinė buveinė). Pakeliui viską versdama
+    pelenais, kryžiuočių kariauna puolėsi Bisenės pilies link, pa­
+    siryžusi užimti ją šturmu, ir jau vėlų vakarą imta pulti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013

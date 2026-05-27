@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 55.
+Objektų skaičius: 56.
 
 ## Kaip naudoti
 
@@ -47,9 +47,10 @@ Objektų skaičius: 55.
 - [[objektai/grupes/Raudonieji]]
 
 ### Papročiai
+- [[objektai/paprociai/Amžinosios ugnies saugojimas ir Perkūno garbinimas Šventaragio slėnyje]]
 - [[objektai/paprociai/Baudžiauninkų tikėjimo priklausomybė nuo pono paskirto kunigo]]
 - [[objektai/paprociai/Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m]]
-- [[objektai/paprociai/Draudimų nepaisančios religinės manifestacijos ir draustos religinės literatūros įsigijimas]]
+- [Draudimų nepaisančios religinės manifestacijos ir draustos religinės literatūros įsigijimas](../objektai/paprociai/Draudim%C5%B3%20nepaisan%C4%8Dios%20religin%C4%97s%20manifestacijos%20ir%20draustos%20religin%C4%97s%20literat%C5%ABros%20%C4%AFsigijimas)
 - [Kryžių statymas Kryžių kalne kaip tikėjimo laisvės pasipriešinimo praktika](../objektai/paprociai/Kry%C5%BEi%C5%B3%20statymas%20Kry%C5%BEi%C5%B3%20kalne%20kaip%20tik%C4%97jimo%20laisv%C4%97s%20pasiprie%C5%A1inimo%20praktika)
 - [Litvakų rabininės tradicijos gynimas, Talmudo studijos ir savita gyvensena](../objektai/paprociai/Litvak%C5%B3%20rabinin%C4%97s%20tradicijos%20gynimas%2C%20Talmudo%20studijos%20ir%20savita%20gyvensena)
 - [Pagoniškų elementų ir pagoniškųjų tikėjimų integravimas į krikščioniškas praktikas](../objektai/paprociai/Pagoni%C5%A1k%C5%B3%20element%C5%B3%20ir%20pagoni%C5%A1k%C5%B3j%C5%B3%20tik%C4%97jim%C5%B3%20integravimas%20%C4%AF%20krik%C5%A1%C4%8Dioni%C5%A1kas%20praktikas)

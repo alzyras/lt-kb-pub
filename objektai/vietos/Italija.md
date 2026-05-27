@@ -40,17 +40,21 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Esą, istorijoje žinomas romėnų karvedys Publijas Libonas, savo priešų persekiojamas, iš Italijos atbėgęs į Lietuvą ir čia sukūręs valstybę.'
+  teiginys: 'Pasakojime romėnų karvedys Publijas Libonas iš Italijos atbėgo į Lietuvą ir čia sukūrė valstybę.'
   pagrindžia:
     - c-002
 - t-003
-  teiginys: 'Katalikybė buvo prielaida Italijos ir Ispanijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse – Prancūzijoje, Bavarijoje, Flandrijoje, ypač šių šalių monarchų ir aristokratų dvaruose (Flandrijoje subrendo bene žymiausias baroko dailininkas.'
+  teiginys: 'Katalikybė sudarė prielaidas Italijos ir Ispanijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse.'
   pagrindžia:
     - c-003
 - t-004
   teiginys: '1939 m. Kaune Lietuva antrą kartą laimėjo Europos čempionatą, o netrukus merginų krepšinio rinktinė Italijoje iškovojo Europos čempionato sidabro medalius.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'Iš Italijos atvykę meistrai Vilniuje sukūrė marmurinius antkapius karaliaus žmonoms Elžbietai ir Barborai.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -71,7 +75,7 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Esą, istorijoje žinomas romėnų karvedys Publijas Libonas, savo priešų persekiojamas, iš Italijos atbėgęs į Lietuvą ir čia sukūręs valstybę.'
+  santrauka: 'Pasakojime romėnų karvedys Publijas Libonas iš Italijos atbėgo į Lietuvą ir čia sukūrė valstybę.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Esą, istorijoje žinomas romėnų karvedys Publijas Li-
@@ -87,7 +91,7 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Katalikybė buvo prielaida Italijos ir Ispanijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse – Prancūzijoje, Bavarijoje, Flandrijoje, ypač šių šalių monarchų ir aristokratų dvaruose (Flandrijoje subrendo bene žymiausias baroko dailininkas.'
+  santrauka: 'Katalikybė sudarė prielaidas Italijos ir Ispanijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Katalikybė buvo prielaida Italijos ir Is-
@@ -120,3 +124,27 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Iš Italijos atvykę meistrai Vilniuje sukūrė marmurinius antkapius karaliaus žmonoms Elžbietai ir Barborai.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    — • —
+    275
+
+    ## Puslapis 292
+
+    VILNIAUS MIESTO ISTORIJA I I  TOMAS
+    de Senis iš Italijos - papuošė Vilnių nuostabaus darbo savo
+    meno kūriniais. Italai, čia nuolat dirbdami šešerius metus,
+    iš brangaus marmuro pastatė du puikius antkapius kara­
+    liaus žmonoms - Elžbietai ir Barborai Šv. Stanislovo bažny­
+    čioje, deja, dėl kapitulos priekaištingo aplaidumo vėliau,
+    XVIII amžiuje, tie antkapiai visiems laikams pražuvo seno­
+    sios Katedros griuvėsiuose.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005

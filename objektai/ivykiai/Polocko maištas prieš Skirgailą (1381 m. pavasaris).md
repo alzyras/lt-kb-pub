@@ -65,6 +65,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Andrius Algirdaitis]]
 - [[objektai/asmenys/Skirgaila]]
 - [[objektai/zodynas/metropolitas]]
 - [[objektai/ivykiai/Kulikovo kautynės (1380 m. rugsėjo 8 d.)]]

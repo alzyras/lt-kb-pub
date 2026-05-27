@@ -92,6 +92,7 @@ Nenurodyta
 - [[temos/transportas]]
 
 ### Susiję objektai
+- [[objektai/daiktai/Parakas]]
 - [[objektai/zodynas/gurguolė]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/asmenys/Zaberezinskis]]

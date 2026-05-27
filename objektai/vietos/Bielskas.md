@@ -6,11 +6,14 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
+datos:
+  - '1495 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XV'
+date_start: '1495'
 date_end: ''
 patikimumas: 'vidutinis'
 tags:
@@ -29,7 +32,6 @@ O Vokiečiai apsiėmė tik su krikščioniškomis Trakų kunigaikštijos žemėm
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Bielskas buvo tarp krikščioniškų Trakų kunigaikštijos žemių, su kuriomis Vokiečiai įsipareigojo laikytis taikos.'

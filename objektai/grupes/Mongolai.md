@@ -7,14 +7,16 @@ aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
+  - '1272 m.'
   - '1328 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
+  - 'XIII'
   - 'XIV'
-date_start: '1328'
-date_end: ''
+date_start: '1272'
+date_end: '1328'
 patikimumas: 'vidutinis'
 tags:
   - grupe
@@ -32,6 +34,10 @@ tags:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: '1272 m. Slonimas smarkiai pasipriešino Lietuvą puolusiems Haličo kunigaikščiams ir Nogajaus mongolams.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -56,14 +62,36 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: '1272 m. Slonimas smarkiai pasipriešino Lietuvą puolusiems Haličo kunigaikščiams ir Nogajaus mongolams.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Naugardukas jau buvo garsiojo Min­
+    daugo (Mendogo) sostinė. Gardinas, dar vadintas Gartena, Trai-
+    d)
+    Harris, Voyages. T. 1, p. 554.
+    8
+
+    ## Puslapis 25
+
+    ĮVADAS
+    denio įkurtas gynybai nuo Prūsijos Teutonų ordino puolimų;
+    Slonimas, gyvenamas tų pačių išeivių, smarkiai pasipriešino
+    1272 metais Lietuvą puolusiems Haličo kunigaikščiams kartu
+    su Nogajaus mongolais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/grupes/Rusėnai]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Nogajus (Aukso ordos valdytojas)]]
+- [[objektai/grupes/Teutonai]]
+- [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/asmenys/Karolis IV]]
 - [[objektai/paprociai/LDK rusų žemių duoklės mokėjimas Aukso ordai]]
 - [[objektai/grupes/Lietuvos kariuomenė]]

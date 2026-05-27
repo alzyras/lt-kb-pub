@@ -95,7 +95,7 @@ Nenurodyta
 - [[objektai/autoriai/Maironis]]
 - [[objektai/asmenys/Petras Bartkus-Žadgaila]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Vytautas]]
 - [[objektai/asmenys/Vytautas Šniuolis-Svajūnas]]
 - [[objektai/grupes/Prisikėlimo apygarda]]
 - [[objektai/ivykiai/Užpelkių kautynės]]

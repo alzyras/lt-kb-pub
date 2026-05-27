@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 21.
+Objektų skaičius: 22.
 
 ## Kaip naudoti
 
@@ -24,6 +24,7 @@ Objektų skaičius: 21.
 - [[objektai/daiktai/Aukuras]]
 - [[objektai/daiktai/Baltijos kelio gedulo kaspinai ir žvakutės]]
 - [[objektai/daiktai/Bizantijos imperatorių herbas]]
+- [[objektai/daiktai/Gedimino antspaudas]]
 - [[objektai/daiktai/Herbai]]
 - [[objektai/daiktai/Kryžiuočių kariuomenės dalių vėliavos]]
 - [[objektai/daiktai/Kryžius ant kardo galo]]

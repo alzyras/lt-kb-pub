@@ -6,12 +6,16 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
+datos:
+  - '1417 m.'
+  - '1453 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XV'
+date_start: '1417'
+date_end: '1453'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -30,6 +34,10 @@ Kelis kartus Vytautas išpažino savo nuodė­ mes Vilniaus vyskupui Motiejui; p
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Motiejus nuo 1417 m. buvo Medininkų, arba Žemaičių, vyskupas, o 1421 m. popiežiaus iškeltas į Vilniaus vyskupus.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -50,6 +58,30 @@ Kelis kartus Vytautas išpažino savo nuodė­ mes Vilniaus vyskupui Motiejui; p
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Motiejus nuo 1417 m. buvo Medininkų, arba Žemaičių, vyskupas, o 1421 m. popiežiaus iškeltas į Vilniaus vyskupus.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    6. Motiejus, šv. teologijos magistras, lietuvis, iš pradžių,
+    nuo 1417 metų, Medininkų arba Žemaičių vyskupas, paskui,
+    1421 m., popiežiaus iškeltas į Vilniaus vyskupus, tačiau ne­
+    greit perėmė valdžią kitos diecezijos, kadangi jis buvo nepa­
+    geidaujamas Vytauto, Apaštališkajam Sostui į Vilniaus vys­
+    kupus siūlančio Trakų koleginės bažnyčios kleboną Mikalojų.
+    Turbūt todėl 1427 m. šventinant Šv. Jono bažnyčią Vilniaus
+    vyskupo dar nebuvo. Tą mūsų spėjimą patvirtina tai, jog vys­
+    kupo Motiejaus vardą dokumentuose randame tik nuo 1430
+    metų, vėliau: 1433, 1434 ir t. t.; antra, kad nuo 1417 m. iki
+    1453 m., tai yra 36 metus, kiek jam Kojelavičius ir kiti istori­
+    jas rašę buvo davę, būtų buvęs per ilgas tarpsnis vyskupu
+    išbūti. Apleido šį pasaulį 1453 m., tikriausiai nunuodytas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai

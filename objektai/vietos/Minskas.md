@@ -8,6 +8,8 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
   - '1387 m.'
+  - '1432 m.'
+  - '1506 m.'
   - '1529 m.'
   - '1936 m.'
   - '1960 m.'
@@ -18,6 +20,7 @@ periodo_grupes:
   - 'modernioji Lietuva'
 amziai:
   - 'XIV'
+  - 'XV'
   - 'XVI'
   - 'XX'
   - 'XXI'
@@ -47,18 +50,22 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-004
-  teiginys: 'Buvo tikrai laimingas atvejis, kai Baltarusijos TSR Mokslų Akademija (Minskas) Jablonskiui pavedė suredaguoti ir išleisti 1-jį Lietuvos Statutą («Statut Velikogo Knjažestva Litovskogo 1529 goda»).'
-  pagrindžia:
-    - c-004
 - t-005
   teiginys: 'Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zaslavlis.'
   pagrindžia:
     - c-005
 - t-006
-  teiginys: 'Šios pajėgos užėmė Borisovą, Minską, Zaslavlį, Krėvą, Lydą, Vilnių, Trakus ir priartėjo prie Kauno.'
+  teiginys: 'Švitrigailos pajėgos užėmė Minską ir kitus miestus, o vėliau priartėjo prie Kauno.'
   pagrindžia:
     - c-006
+- t-007
+  teiginys: 'Žygimantas suteikė Vilniaus miestiečiams teisę be muito gabenti prekes visoje Lietuvos žemėje, įskaitant Minską.'
+  pagrindžia:
+    - c-007
+- t-008
+  teiginys: '1506 m. totoriai nusiaubė Slucko ir Minsko apylinkes ir pradėjo taikytis į Vilnių.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -103,27 +110,6 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
-- c-004
-  santrauka: 'Buvo tikrai laimingas atvejis, kai Baltarusijos TSR Mokslų Akademija (Minskas) Jablonskiui pavedė suredaguoti ir išleisti 1-jį Lietuvos Statutą («Statut Velikogo Knjažestva Litovskogo 1529 goda»).'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Buvo tikrai laimingas atvejis, kai Baltarusijos TSR Mokslų
-    Akademija (Minskas) Jablonskiui pavedė suredaguoti ir išleisti 1-jį
-    Lietuvos Statutą («Statut Velikogo Knjažestva Litovskogo 1529
-    goda»). Tą darbą atliko objektyviai ir kritiškai su reikalingu
-    moksliniu aparatu (1960).
-    Nežiūrint priverčiamųjų okupanto direktyvų, kurių ir Ja­
-    blonskis, žinoma, ypač kolektyviniuose leidiniuose, negalėjo išveng­
-    ti, jis sugebėjo ir tarybiniais metais duoti gerų darbų Lietuvos
-    kultūros istorijos, jos teisės istorijos bei socialinių santykių vysty­
-    mosi srityje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-004
 - c-005
   santrauka: 'Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zaslavlis.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -142,7 +128,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   pagrindžia:
     - t-005
 - c-006
-  santrauka: 'Šios pajėgos užėmė Borisovą, Minską, Zaslavlį, Krėvą, Lydą, Vilnių, Trakus ir priartėjo prie Kauno.'
+  santrauka: 'Švitrigailos pajėgos užėmė Minską ir kitus miestus, o vėliau priartėjo prie Kauno.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Šios pajėgos užėmė
@@ -181,3 +167,42 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Žygimantas suteikė Vilniaus miestiečiams teisę be muito gabenti prekes visoje Lietuvos žemėje, įskaitant Minską.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­
+    pročiu, Vilniaus miestiečiams suteikė laisvę imtis prekybos
+    ir be muito mokesčio nuo kelių, tiltų ir visų perėjų gabenti
+    prekes visoje Lietuvos žemėje: Lucke, Kaune, Minske, Bras­
+    toje, Naugarduke, Smolenske ir Podolėje. Vėliau, po ketu­
+    rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo
+    17
+    Apie tai didžiajam magistrui pra­
+    neša komtūras iš Lealio, iš Rygos,
+    laiške, datuotame 1432 metų rugpjū­
+    čio 19 d.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: '1506 m. totoriai nusiaubė Slucko ir Minsko apylinkes ir pradėjo taikytis į Vilnių.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tačiau šis karaliaus nurodymas gal taip greitai ne­
+    būtų buvęs įgyvendintas, jeigu 1506 metais totoriai, nusiau­
+    bę Slucko ir Minsko apylinkes, nebūtų pradėję taikytis į
+    Vilnių. Jų pabūgę miestiečiai, raginami ir remiami Vilniaus
+    vyskupo Vaitiekaus Taboro, visą miestą apjuosė mūro py­
+    limu, išmetę medinius statinius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008

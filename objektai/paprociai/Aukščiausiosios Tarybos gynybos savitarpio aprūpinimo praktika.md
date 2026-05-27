@@ -120,4 +120,5 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/autoriai/Martynas Mažvydas Vaitkūnas]]
+- [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai]]
 - [[objektai/grupes/Raudonasis Kryžius]]

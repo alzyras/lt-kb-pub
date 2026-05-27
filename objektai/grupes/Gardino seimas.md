@@ -101,3 +101,4 @@ Tam tikslui Gardine buvo sušauktas seimas. Taigi minėtame Gardino seime (1793 
 - [[objektai/grupes/Nuolatinė Taryba|Nuolatinė Taryba (institucija)]]
 - [[objektai/grupes/Rusai]]
 - [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis (valdovas)]]
+- [[objektai/paprociai/Vilniaus miesto viešųjų aktų antspaudavimas šv. Kristoforo antspaudu]]

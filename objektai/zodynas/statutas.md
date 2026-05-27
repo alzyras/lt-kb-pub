@@ -80,6 +80,7 @@ Kodeksas (statutas) 1780 m. buvo pateiktas seimui patvirtinti. (Lietuvos bajorij
 - [[objektai/ivykiai/Memelio (Klaipėdos) Konvencijos ir Statuto paskelbimas (1924 m. gegužės 8 d.)]]
 - [[objektai/autoriai/P. Dundulienė]]
 - [[objektai/grupes/Sovietų Sąjungos komunistų partija]]
+- [[objektai/grupes/Vilniaus miestiečių luomas]]
 - [[objektai/zodynas/federacija federacinė valstybė]]
 - [[objektai/zodynas/federacija konfederacinė valstybė unitarinė valstybė]]
 - [[objektai/asmenys/Žygimantas Augustas]]

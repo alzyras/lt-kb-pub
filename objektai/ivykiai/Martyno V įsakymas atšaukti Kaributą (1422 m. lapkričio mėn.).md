@@ -72,6 +72,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Husitai]]
 - [[objektai/grupes/Lietuvos vyskupai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Vytautas]]
 - [[objektai/asmenys/Martynas V]]
 - [[objektai/zodynas/ekskomunika]]

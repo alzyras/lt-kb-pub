@@ -74,7 +74,12 @@ Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyve
 ### Susiję objektai
 - [[objektai/asmenys/Albertas]]
 - [[objektai/asmenys/Albertas (Rygos vyskupas)]]
+- [[objektai/autoriai/Benjaminas iš Tudelio]]
+- [[objektai/grupes/Haličo kunigaikščiai]]
 - [[objektai/asmenys/Konradas fon Jungingenas]]
+- [[objektai/daiktai/Laivai]]
+- [[objektai/zodynas/Municipalinė teisėtvarka]]
+- [[objektai/daiktai/Mūro sienos ir miesto sienos]]
 - [[objektai/autoriai/R. Jasas]]
 - [[objektai/ivykiai/Vilniaus pokalbiai su popiežiaus legatais dėl Lietuvos krikšto (1324 m. gegužės gale)]]
 - [[objektai/asmenys/Visvaldis]]

@@ -64,6 +64,6 @@ Puzyna, autorius disertacijos apie Švitrigailą, davė eilę studijų genealogi
 - [[temos/dinastija]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/asmenys/Liubartas]]
 - [[objektai/asmenys/Liubartas Gediminaitis]]

@@ -31,6 +31,10 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Gedimino laiškai pajūrio miestams buvo skirti ir Štetinui.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -51,3 +55,25 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Gedimino laiškai pajūrio miestams buvo skirti ir Štetinui.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tuo pat metu buvo paskelbti ir kiti laiškai, kuriuos Ge­
+    diminas rašė dominikonų ordino vyresniesiems, būtent į
+    Saksoniją, Mažesniųjų brolių ordinui ir pajūrio miestams -
+    Liubekui, Rostokui, Zundui, Greifsvaldui, Štetinui ir Got-
+    landui, pranešdamas juose, kad kreipėsi į popiežių,
+    prašydamas išsiųsti pas jį pasiuntinius, kad jų nekantrau­
+    damas laukiąs, kad pasiryžęs sutikti su visais popiežiaus
+    įsakymais. „Pageidautume, - rašo toliau, - savo krašte tu­
+    rėti dvasininkų ir vyskupų; šventai saugosime bažnyčios
+    teises, dvasininkus gerbsime, Dievo garbinimą maldomis
+    plėtosime.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

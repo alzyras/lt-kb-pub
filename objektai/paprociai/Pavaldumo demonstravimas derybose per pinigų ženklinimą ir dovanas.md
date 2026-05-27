@@ -78,6 +78,6 @@ Nenurodyta
 - [[temos/pinigai]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Vytautas]]
 - [[objektai/zodynas/chanas]]
 - [[objektai/zodynas/emyras]]

@@ -29,7 +29,7 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
 
 ## Teiginiai
 - t-001
-  teiginys: 'Gediminas rado sąjungininką Lenkijos Vladislovo Lokietkos asmenyje, nes kova su kryžiuočiais turėjo užtrukti.'
+  teiginys: 'Vladislovas Lokietka tapo Gedimino sąjungininku kovoje su Vokiečių ordinu.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -40,10 +40,14 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Vladislovo Lokietkos laikais Lenkijos aristokratai ir dvasininkija pradėjo šaukti suvažiavimus ir tautos pasitarimus.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Gediminas rado sąjungininką Lenkijos Vladislovo Lokietkos asmenyje, nes kova su kryžiuočiais turėjo užtrukti.'
+  santrauka: 'Vladislovas Lokietka tapo Gedimino sąjungininku kovoje su Vokiečių ordinu.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     **4. Gedimino taika su Lenkija ir kovos su vokiečių ordinu**
@@ -76,14 +80,19 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
-- [[objektai/ivykiai/Gedimino sąjunga su Lenkija]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/asmenys/Lokietka]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Aldona Gediminaitė]]
-- [[objektai/asmenys/Kazimieras (Lokietkos sūnus)]]
+- c-003
+  santrauka: 'Vladislovo Lokietkos laikais Lenkijos aristokratai ir dvasininkija pradėjo šaukti suvažiavimus ir tautos pasitarimus.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Jo užuomazgos, mažumėlę kitoniškų formų, ruseno
+    Lenkijoje, kur turtingi aristokratai kartu su dvasininkija Vla­
+    dislovo Lokietkos laikais pradėjo šaukti suvažiavimus ir tau­
+    tos pasitarimus, taip klodami busimosios šlėktų laisvės pa­
+    matus. Kitaip anuomet buvo valdoma Rusia.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003

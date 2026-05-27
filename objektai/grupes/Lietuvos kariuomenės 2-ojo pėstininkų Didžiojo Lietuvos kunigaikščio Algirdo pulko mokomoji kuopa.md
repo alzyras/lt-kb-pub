@@ -54,7 +54,7 @@ p. 208, Lietuvos kariuomenės 2-ojo pėstininkų Didžiojo Lietuvos kunigaikšč
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Algirdas]]
 - [[objektai/daiktai/Artilerija]]
 - [[objektai/zodynas/gurguolė]]
 - [[objektai/grupes/Mokomoji kuopa]]

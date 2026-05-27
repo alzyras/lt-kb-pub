@@ -55,7 +55,7 @@ Ilgą laiką panašiai buvo ir su Naugardo respublika, nors Algirdas siekė ją 
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Algirdas]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/grupes/Abiejų Tautų Respublika]]
 - [[objektai/grupes/Didžiojo Naugardo respublika]]

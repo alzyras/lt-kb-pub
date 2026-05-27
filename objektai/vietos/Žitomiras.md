@@ -38,11 +38,6 @@ tags:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Tik 1394 metais jis puolė Vladimiro že­ mes ir paėmė Ovručą ir Žitomirą.'
-  pagrindžia:
-    - c-002
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1394 m. Vytautas puolė Vladimiro žemes ir paėmė Ovručą bei Žitomirą.'
@@ -60,7 +55,7 @@ tags:
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Tik 1394 metais jis puolė Vladimiro že­ mes ir paėmė Ovručą ir Žitomirą.'
+  santrauka: '1394 m. Vytautas puolė Vladimiro žemes ir paėmė Ovručą bei Žitomirą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tik 1394 metais jis puolė Vladimiro že­

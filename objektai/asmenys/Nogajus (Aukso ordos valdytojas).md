@@ -64,4 +64,5 @@ tags:
 - [[objektai/grupes/Totoriai]]
 - [[objektai/asmenys/Traidenis]]
 - [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/grupes/Haličo kunigaikščiai]]
 - [[objektai/asmenys/Mamšėjus]]

@@ -87,7 +87,7 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Algirdas]]
 - [[objektai/daiktai/Ietis]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/daiktai/Skydas]]

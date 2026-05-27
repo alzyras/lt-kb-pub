@@ -130,3 +130,4 @@ Nenurodyta
 - [[objektai/zodynas/kunigas]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/zodynas/pagonybė]]
+- [[objektai/asmenys/Andrius Algirdaitis]]

@@ -71,6 +71,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/daiktai/Vąšas]]
 - [[objektai/posakiai/„Lietuvos žemės druska“]]

@@ -7,15 +7,18 @@ aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
+  - '1432 m.'
   - '1961 m.'
   - '1965 m.'
   - '1967 m.'
 periodas: 'okupacijų ir sovietmečio laikotarpis'
 periodo_grupes:
+  - 'LDK'
   - 'XX a.'
 amziai:
+  - 'XV'
   - 'XX'
-date_start: '1961'
+date_start: '1432'
 date_end: '1967'
 patikimumas: 'vidutinis'
 tags:
@@ -42,6 +45,14 @@ tags:
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: '1432 m. Vroclavo gyventojai per Ordino žemes atvykdavo į Lietuvą ir Vilnių su savo prekėmis.'
+  pagrindžia:
+    - c-003
+- t-004
+  teiginys: 'Švitrigaila prašė garantuoti Vroclavo gyventojams laisvą kelionę su prekėmis per Ordino žemes.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -77,3 +88,51 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: '1432 m. Vroclavo gyventojai per Ordino žemes atvykdavo į Lietuvą ir Vilnių su savo prekėmis.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Silezijos, o ypač Vroclavo (1432 m.) gyventojai per Ordi­
+    no žemes atvykdavo į Lietuvą ir į Vilnių su savo prekėmis, o
+    turtingiausi Silezijos didikai viešėdavo didžiojo kunigaikš­
+    čio dvare9. Prekybos sutartis su Pskovu, kaip ir prieš metus
+    sudarytoji su Naugardu, buvo patvirtinta Vilniuje ir, ano
+    gą poną Fridrichą fon Bebirsteyną,
+    priėmiau į savo dvariškių būrį ir
+    kaip malonų patikėtinį", bei prašo,
+    kad panašią paslaugą padarytų to
+    paties svečio broliui Prūsijoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: 'Švitrigaila prašė garantuoti Vroclavo gyventojams laisvą kelionę su prekėmis per Ordino žemes.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    " Tame pačia­
+    me laiške Švitrigaila prideda prašy­
+    mą: „kad Vroclavo gyventojams
+    duotų garantiją vykti per Ordino že­
+    mes, kad jie galėtų laisvai ir nevar­
+    žomai keliauti su savo prekėmis,
+    kadangi mums rodo daug palanku­
+    mo".
+    —  « —
+    213
+
+    ## Puslapis 230
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    miesto gyventojų prašymu, didysis kunigaikštis turėjo pa­
+    skirti valdytoją bei garantuoti jiems globą10.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004

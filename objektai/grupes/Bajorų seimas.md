@@ -50,3 +50,4 @@ Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės tar
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]
+- [[objektai/ivykiai/Lietuvos krikštas Vilniuje (1387 m.)]]

@@ -80,6 +80,7 @@ Vietinio valdymo grandyje buvo gubernija, kurios galva – caro skiriamas, bet v
 - [[objektai/ivykiai/Rūdninkų ir Dubičių kautynės]]
 - [[objektai/asmenys/Steponas Kairys]]
 - [[objektai/paprociai/Sukilėlių partizaninio karo nedidelių antpuolių taktika]]
+- [[objektai/zodynas/Vidivarijai]]
 - [[objektai/asmenys/Zigmantas Sierakauskas]]
 - [[objektai/zodynas/autokratinė monarchinė imperija]]
 - [[objektai/zodynas/etnografinės ribos etnografinis principas]]

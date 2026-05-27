@@ -132,7 +132,6 @@ tags:
 - [[objektai/zodynas/hegemonija]]
 - [[objektai/asmenys/Martynas V]]
 - [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/ivykiai/Vytauto žygis į Naugardą (1428 m. vasara)]]
 - [[objektai/ivykiai/Vytauto žygis į Pskovą ir Pskovo taika (1426 m.)]]
 - [[objektai/zodynas/indulgencija]]

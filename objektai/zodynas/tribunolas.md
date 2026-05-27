@@ -6,6 +6,17 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1581 m.'
+  - '1823 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVI'
+  - 'XIX'
+date_start: '1581'
+date_end: '1823'
 patikimumas: 'vidutinis'
 tags:
   - bajorija
@@ -27,11 +38,15 @@ Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose 
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'O bajorijos byloms su dvasininkais būdavo sudaromas mišrasis teismas, arba dvasiškasis tribunolas, į kurį įeidavo 4 vyskupijų kapitulų skiriami kunigai ir 6 tribunolo deputatai.'
+  teiginys: 'Bajorijos byloms su dvasininkais buvo sudaromas mišrusis, arba dvasiškasis, tribunolas.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Lietuvai paskirtas tribunolas 1581 m. buvo iškilmingai įvesdintas Vilniuje.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -55,7 +70,7 @@ Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose 
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'O bajorijos byloms su dvasininkais būdavo sudaromas mišrasis teismas, arba dvasiškasis tribunolas, į kurį įeidavo 4 vyskupijų kapitulų skiriami kunigai ir 6 tribunolo deputatai.'
+  santrauka: 'Bajorijos byloms su dvasininkais buvo sudaromas mišrusis, arba dvasiškasis, tribunolas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tribunole pirmininkaudavo iš tų pačių deputatų renkamas
@@ -71,12 +86,30 @@ Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Lietuvai paskirtas tribunolas 1581 m. buvo iškilmingai įvesdintas Vilniuje.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Lietuvai paskirtas Tribunolas ir 1581 metais Vilniuje iš­
+    kilmingai įvesdintas išlaisvino karalius nuo varginančio
+    57
+    Visas Vilniaus universiteto fundaci­
+    jos privilegijas kartu su atitinkama
+    popiežiaus bule galima perskaityti
+    veikale „Stepono Batoro valdymas",
+    iš Albertrandžio rankraščių, rūpestin­
+    gai profesoriaus Onacevičiaus
+    išleistų Varšuvoje, 1823 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Steponas]]
-- [[objektai/zodynas/bajorija]]
-- [[objektai/zodynas/kapitula]]
 - [[objektai/grupes/7-ojo fuzilierių regimento]]
 - [[objektai/autoriai/Aug. Janulaitis]]
 - [[objektai/grupes/LDK 4-ojo pėstininkų regimento]]

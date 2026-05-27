@@ -281,4 +281,3 @@ Nenurodyta
 - [[objektai/asmenys/Žygimantas Augustas]]
 - [[objektai/posakiai/„Šventos santuokos“]]
 - [[objektai/asmenys/Jadvyga Jogailienė]]
-- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]

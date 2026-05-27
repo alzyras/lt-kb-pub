@@ -38,10 +38,14 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Buvęs Karaliaučiaus archyvo (dabar (^149) Bendroje Bazilijonų ordino « Analecta » II serijos 3 sekcijoje šalti­ niai padalinami dar į tokias serijas : Documenta Pontificum Romanorum; Acta S.'
+- t-003
+  teiginys: 'Konstantinas Ostrogiškis prie Vilniaus Švč. Trejybės cerkvės įkurdino Šv. Bazilijaus ordino vienuolius.'
   pagrindžia:
-    - c-003
+    - c-004
+- t-004
+  teiginys: 'Vėliau Mamoničių spaus­ tuvė, matyt, atiteko bazilijonams.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -73,22 +77,35 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-003
-  santrauka: 'Buvęs Karaliaučiaus archyvo (dabar (^149) Bendroje Bazilijonų ordino « Analecta » II serijos 3 sekcijoje šalti­ niai padalinami dar į tokias serijas : Documenta Pontificum Romanorum; Acta S.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+- c-004
+  santrauka: 'Konstantinas Ostrogiškis prie Vilniaus Švč. Trejybės cerkvės įkurdino Šv. Bazilijaus ordino vienuolius.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Buvęs Karaliaučiaus archyvo (dabar
-
-    (^149) **Bendroje Bazilijonų ordino « Analecta » II serijos 3 sekcijoje šalti­
-    niai padalinami dar į tokias serijas :** **_Documenta Pontificum Romanorum;
-    Acta S. Gongr. de Propaganda Fide ; Litterae S. Gongr. de Prop. Fide ; Lit-
-    terae Nuntiorum Apostolicorum ; Epistolae Metropolitarum et Episcoporum ;
-    Monumentą Bio-Hagiographica_** **(S. Iosaphat Kuncevyč),** **_Audientiae Sanc-
-    tissimi,_** **ir kt.
+    Beveik tuo
+    pat metu kunigaikštis Konstantinas Ostrogiškis, kaip padėką
+    Dievui už puikią savo pergalę, ant kalvelės, netoli Medinin­
+    kų vartų, pastatė mūrinę Švč. Trejybės cerkvę ir prie jos įkur­
+    dino Šv. Bazilijaus ordino vienuolius.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-002
+    - t-003
+- c-005
+  santrauka: 'Vėliau Mamoničių spaus­ tuvė, matyt, atiteko bazilijonams.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Vėliau Mamoničių spaus­
+    tuvė, matyt, atiteko bazilijonams.
+    69
+    Perlas paimtas iš pranašo Habukuko ir
+    Kalėdoms dovanotas Jonui Hlebavičiui.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004

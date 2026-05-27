@@ -53,7 +53,7 @@ Po rinktinės vado suėmimo J.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Kęstutis]]
 - [[objektai/grupes/Kęstučio apygarda]]
 - [[objektai/zodynas/Savanoris]]
 - [[objektai/grupes/Prisikėlimo apygarda]]

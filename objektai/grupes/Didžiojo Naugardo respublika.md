@@ -175,8 +175,10 @@ Didžiojo Naugardo respublika šiame šaltinyje pateikiama kaip turtinga šiauri
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Algirdas]]
 - [[objektai/zodynas/kunigaikštija]]
+- [[objektai/daiktai/Laivai]]
 - [[objektai/grupes/Pamario kunigaikščių sąjunga]]
+- [[objektai/grupes/Vilniaus miestiečių luomas]]
 - [[objektai/grupes/Naugardo respublika]]
 - [[objektai/ivykiai/Tautvilo nužudymas (apie 1263-1264 m.)]]

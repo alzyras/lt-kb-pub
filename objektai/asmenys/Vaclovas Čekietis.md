@@ -87,6 +87,6 @@ Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyk
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Slavai]]
 - [[objektai/asmenys/Vaclovas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Vytautas]]
 - [[objektai/zodynas/elektorius]]
 - [[objektai/zodynas/magistras]]

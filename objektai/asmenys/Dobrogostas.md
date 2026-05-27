@@ -6,11 +6,14 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
+datos:
+  - '1389 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+date_start: '1389'
 date_end: ''
 patikimumas: 'vidutinis'
 tags:
@@ -27,7 +30,7 @@ Tad kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­ niai s
 
 ## Teiginiai
 - t-001
-  teiginys: 'Poznanės vyskupas Dobrogostas buvo pasiųstas pas popiežių Urboną VI ir anksčiau tarpininkavo Algirdui.'
+  teiginys: 'Poznanės vyskupas Dobrogostas buvo pasiųstas pas popiežių Urboną VI ir anksčiau tarpininkavo Algirdui bei Inocentui VI.'
   pagrindžia:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -38,10 +41,18 @@ Tad kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­ niai s
     - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Poznanės vyskupas Dobrogostas buvo nusiųstas pas popiežių išprašyti bulės dėl Vilniaus vyskupijos fundacijos.'
+  pagrindžia:
+    - c-003
+- t-004
+  teiginys: '1389 m. pabaigoje Dobrogostas kaip Urbono VI pasiuntinys Vilniuje paskelbė bulę dėl Vilniaus katedros ir vyskupijos.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Poznanės vyskupas Dobrogostas buvo pasiųstas pas popiežių Urboną VI ir anksčiau tarpininkavo Algirdui.'
+  santrauka: 'Poznanės vyskupas Dobrogostas buvo pasiųstas pas popiežių Urboną VI ir anksčiau tarpininkavo Algirdui bei Inocentui VI.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tuo reikalu pas popiežių buvo
@@ -79,11 +90,51 @@ Tad kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­ niai s
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Poznanės vyskupas Dobrogostas buvo nusiųstas pas popiežių išprašyti bulės dėl Vilniaus vyskupijos fundacijos.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Netrukus Poznanės vys­
+    kupas Dobrogostas iš Jogailos svitos buvo nusiųstas pas po­
+    piežių išprašyti bulės, patvirtinančios naujo ganytojo
+    išrinkimą ir Vilniaus vyskupijos fundaciją. Karalius tuoj pat
+    aprūpino ją nemenkomis pajamomis: be turtingos Klodovo
+    klebonijos Gniezno diecezijoje, dar anksčiau duotos naujajam
+    bet ir kai kuriais padavimais ar
+    užuominomis, kurias aptikau Vil­
+    niaus kapitulos ar Karaliauč.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
+- c-004
+  santrauka: '1389 m. pabaigoje Dobrogostas kaip Urbono VI pasiuntinys Vilniuje paskelbė bulę dėl Vilniaus katedros ir vyskupijos.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Ne­
+    paisant tos Vilniuje buvusios maišaties, vis dėlto 1389 me­
+    tams baigiantis atvyko Poznanės vyskupas Dobrogostas ir
+    kaip popiežiaus Urbono VI pasiuntinys paskelbė bulę, ku­
+    rios galia, atsiliepiant į karaliaus Vladislovo ir karalienės Jad­
+    vygos prašymą, vietovė, vadinama Vilniumi ir laikytina mies­
+    tu, o bažnyčia, pastatyta ant pagonių šventyklos griuvėsių,
+    šv. Stanislovo garbei, iškilmingai pripažinta katedra. O vys­
+    kupas Andrius, Dobrogosto atleistas iš Cereto ganytojo pa­
+    reigų, gavo popiežiaus patvirtinimą perimti Vilniaus vysku­
+    piją20.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Habsburgai]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/brevė]]
-- [[objektai/grupes/Vilniaus kapitula]]
 - [[objektai/ivykiai/Vilniaus vyskupystės įkūrimas]]
+- [[objektai/zodynas/brevė]]
+- [[objektai/zodynas/gurguolė]]

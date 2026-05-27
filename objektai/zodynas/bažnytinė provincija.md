@@ -132,7 +132,7 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
 - [[temos/religinis-terminas]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Vytautas]]
 - [[objektai/zodynas/metropolija]]
 - [[objektai/zodynas/savarankiškumas]]
 - [[objektai/posakiai/Gens Lithuanorum]]

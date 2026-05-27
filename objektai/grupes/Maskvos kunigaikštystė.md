@@ -10,6 +10,7 @@ datos:
   - '1349 m.'
   - '1425 m.'
   - '1427 m.'
+  - '1430 m.'
   - '1936 m.'
   - '2026 m.'
 periodas: 'LDK laikotarpis'
@@ -34,7 +35,7 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
 
 ## Teiginiai
 - t-001
-  teiginys: 'Padėtis tačiau pamažu keitėsi Lietuvos nenaudai, kai Maskvos kunigaikščiai ėmė stiprėti.'
+  teiginys: 'Maskvos kunigaikščiams stiprėjant, politinė padėtis pamažu keitėsi Lietuvos nenaudai.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -46,17 +47,21 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: 'Maskvos kunigaikštija, kurioje viešpatavo nuo 1425 metų Vytauto globojamas jo anūkas, dukters Sofijos sūnus Vosylius, atsparumo nerodė.'
+  teiginys: 'Didžioji Maskvos kunigaikštija, kurioje nuo 1425 m. viešpatavo Vytauto globojamas anūkas Vosylius, nerodė atsparumo.'
   pagrindžia:
     - c-003
 - t-004
-  teiginys: 'Rusų kronikos aiškina, kad su Tochtamyšu jis sutaręs šitaip: „Aš tave pasodinsiu saaro Kotlogo vietoj, o pats tada atsisėsiu Didžioj Maskvos kunigaikš­ tijoje ir valdysiu visą Rusiją^2 ).'
+  teiginys: 'Rusų kronikos teigė, kad Vytautas su Tochtamyšu sutarė užimti Didžiąją Maskvos kunigaikštiją ir valdyti visą Rusią.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: '1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, vadintas Akluoju.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Padėtis tačiau pamažu keitėsi Lietuvos nenaudai, kai Maskvos kunigaikščiai ėmė stiprėti.'
+  santrauka: 'Maskvos kunigaikščiams stiprėjant, politinė padėtis pamažu keitėsi Lietuvos nenaudai.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Iki XIV amž. vidurio Rusios gyventojai, nors ir išpažindami
@@ -94,7 +99,7 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Maskvos kunigaikštija, kurioje viešpatavo nuo 1425 metų Vytauto globojamas jo anūkas, dukters Sofijos sūnus Vosylius, atsparumo nerodė.'
+  santrauka: 'Didžioji Maskvos kunigaikštija, kurioje nuo 1425 m. viešpatavo Vytauto globojamas anūkas Vosylius, nerodė atsparumo.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kad ir po didelių pastangų, bet į gyvenimo galą
@@ -114,7 +119,7 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
   pagrindžia:
     - t-003
 - c-004
-  santrauka: 'Rusų kronikos aiškina, kad su Tochtamyšu jis sutaręs šitaip: „Aš tave pasodinsiu saaro Kotlogo vietoj, o pats tada atsisėsiu Didžioj Maskvos kunigaikš­ tijoje ir valdysiu visą Rusiją^2 ).'
+  santrauka: 'Rusų kronikos teigė, kad Vytautas su Tochtamyšu sutarė užimti Didžiąją Maskvos kunigaikštiją ir valdyti visą Rusią.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Rusų kronikos aiškina, kad
@@ -134,13 +139,25 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Sofija (Vytauto duktė)]]
-- [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/saar]]
-- [[objektai/zodynas/kunigaikštija]]
-- [[objektai/grupes/Maskvos kunigaikštija]]
+- c-005
+  santrauka: '1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, vadintas Akluoju.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Į Trakus (1430
+    metais), kur didysis kunigaikštis paprastai gyvendavo di­
+    džiulėje pilyje, ir į Vilnių atvyksta: Maskvos didysis kuni­
+    gaikštis Vasilijus Vasiljevičius, vadintas Akluoju, Tverės ir
+    Riazanės kunigaikščiai bei daugelis kitų iš Rusios; Mask­
+    vos metropolitas Fotijas, Valakijos vaivada Aleksandro sū­
+    nus Elijas, Prūsijos didysis magistras Rusdorfas, Livonijos
+    magistras, Mazovijos kunigaikščiai ir totorių chanai84. Pa­
+    galiau pakviestas atvyksta Jogaila, lydimas gausaus Len-
+    karalių Zigmantą nuo ketinimo ka­
+    rūnuoti Vytautą, ir Nr.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005

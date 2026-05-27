@@ -198,8 +198,8 @@ Nenurodyta.
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/metropolitas]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Algirdas]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/asmenys/Bžostovskis (Vilniaus vyskupas)]]
 - [[objektai/ivykiai/Florencijos bažnytinė unija|Florencijos bažnytinė unija (unija)]]
 - [[objektai/autoriai/Grigorijus Camblakas]]
@@ -209,7 +209,6 @@ Nenurodyta.
 - [[objektai/ivykiai/Naugarduko susirinkimas (1415 m.)]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/asmenys/Teofilis (arkivyskupas)]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/bažnytinė provincija]]
 - [[objektai/zodynas/daugiakonfesiškumas]]
 - [[objektai/zodynas/daugiakonfesiškumas daugiakultūriškumas]]

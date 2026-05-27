@@ -56,3 +56,7 @@ Merkys 125 , S. Jurginis, J., Merkys, V., Tautavičius, A.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/zodynas/Cechas]]

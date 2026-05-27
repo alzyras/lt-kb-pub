@@ -9,6 +9,7 @@ saltiniai:
 datos:
   - '1384 m.'
   - '1401 m.'
+  - '1576 m.'
   - '1936 m.'
   - '2026 m.'
 periodas: 'LDK laikotarpis'
@@ -17,6 +18,7 @@ periodo_grupes:
 amziai:
   - 'XIV'
   - 'XV'
+  - 'XVI'
   - 'XX'
   - 'XXI'
 date_start: '1384'
@@ -57,23 +59,19 @@ rijenburgas.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-005
-  teiginys: 'Ordinas, matyti, apie Skirgailos pasiuntinystės tikslus žinojo ar bent nujautė, nes jis Marienburge buvo draugiš­ kai ir vaišingai priimtas.'
+  teiginys: 'Skirgaila Marienburge buvo draugiškai ir vaišingai priimtas, nes Ordinas žinojo arba nujautė jo pasiuntinystės tikslus.'
   pagrindžia:
     - c-005
 - t-006
-  teiginys: 'Yra žinių, kad Vaidyla keletą kartų slaptai kelia­ vęs į Marienburgą ir iš Vokiečių Ordino magistro gavęs suti­ kimą sudaryti naują sutartį.'
+  teiginys: 'Vaidyla, turimomis žiniomis, kelis kartus slaptai keliavo į Marienburgą ir iš Vokiečių ordino magistro gavo sutikimą sudaryti naują sutartį.'
   pagrindžia:
     - c-006
 - t-007
-  teiginys: 'Nuo 1384.VII.9 d. vykdydamas savo plačiai išgar­ sintą «išdavystę» (Verrat), Vytautas, vikriai užsimaskavęs, sude­ gino Nemuno Marienburgą ir sunaikino dar kitas dvi jam valdyti pavestas pilis (Jurgenburgą, Naująjį Bajerburgą = Neuhaus)^24.'
+  teiginys: '1384 m. liepos 9 d. Vytautas sudegino Nemuno Marienburgą ir sunaikino Jurgenburgą bei Naująjį Bajerburgą.'
   pagrindžia:
     - c-007
-- t-008
-  teiginys: 'Kai Schwetzo komtūras Henrikas von Plauen į Marienburgą surinko apie 5000 vyrų įgulos, tik liepos 25 teatvykę pusbroliai tvirtovės jau nebeįstengė paimti.'
-  pagrindžia:
-    - c-008
 - t-009
-  teiginys: 'Vytauto kariuomenė buvo stipriai išretinta ne tik Žalgirio kautynėse, bet ir prie Marienburgo prasidėjusių ligų^35.'
+  teiginys: 'Vytauto kariuomenę stipriai išretino ne tik Žalgirio kautynės, bet ir prie Marienburgo prasidėjusios ligos.'
   pagrindžia:
     - c-009
 - t-010
@@ -84,6 +82,14 @@ rijenburgas.
   teiginys: 'Gavus žvalgų duomenis, koks pilies sienų aukštis, kryžiuočių sostinėje Marienburge buvo pagaminti atitinkamo aukščio šturmo bokštai.'
   pagrindžia:
     - c-011
+- t-012
+  teiginys: 'Slaptai suruošto žygio metu didysis magistras iš Marienburgo laivais išplaukė Vysla ir per jūros įlanką įplaukė į Nemuną.'
+  pagrindžia:
+    - c-012
+- t-013
+  teiginys: '1576 m. rugsėjo 23 d. iš Marienburgo rašytame laiške karalius pareiškė muitą nustatysiąs tik gavęs prie jo buvusios Senato tarybos sutikimą.'
+  pagrindžia:
+    - c-013
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -155,7 +161,7 @@ rijenburgas.
   pagrindžia:
     - t-004
 - c-005
-  santrauka: 'Ordinas, matyti, apie Skirgailos pasiuntinystės tikslus žinojo ar bent nujautė, nes jis Marienburge buvo draugiš­ kai ir vaišingai priimtas.'
+  santrauka: 'Skirgaila Marienburge buvo draugiškai ir vaišingai priimtas, nes Ordinas žinojo arba nujautė jo pasiuntinystės tikslus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Ordinas, matyti, apie Skirgailos pasiuntinystės
@@ -171,7 +177,7 @@ rijenburgas.
   pagrindžia:
     - t-005
 - c-006
-  santrauka: 'Yra žinių, kad Vaidyla keletą kartų slaptai kelia­ vęs į Marienburgą ir iš Vokiečių Ordino magistro gavęs suti­ kimą sudaryti naują sutartį.'
+  santrauka: 'Vaidyla, turimomis žiniomis, kelis kartus slaptai keliavo į Marienburgą ir iš Vokiečių ordino magistro gavo sutikimą sudaryti naują sutartį.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Yra žinių, kad Vaidyla keletą kartų slaptai kelia­
@@ -187,7 +193,7 @@ rijenburgas.
   pagrindžia:
     - t-006
 - c-007
-  santrauka: 'Nuo 1384.VII.9 d. vykdydamas savo plačiai išgar­ sintą «išdavystę» (Verrat), Vytautas, vikriai užsimaskavęs, sude­ gino Nemuno Marienburgą ir sunaikino dar kitas dvi jam valdyti pavestas pilis (Jurgenburgą, Naująjį Bajerburgą = Neuhaus)^24.'
+  santrauka: '1384 m. liepos 9 d. Vytautas sudegino Nemuno Marienburgą ir sunaikino Jurgenburgą bei Naująjį Bajerburgą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Nuo 1384.VII.9 d. vykdydamas savo plačiai išgar­
@@ -202,7 +208,7 @@ rijenburgas.
   pagrindžia:
     - t-007
 - c-008
-  santrauka: 'Kai Schwetzo komtūras Henrikas von Plauen į Marienburgą surinko apie 5000 vyrų įgulos, tik liepos 25 teatvykę pusbroliai tvirtovės jau nebeįstengė paimti.'
+  santrauka: 'Henrikui von Plauenui Marienburge surinkus apie 5000 vyrų įgulą, liepos 25 d. atvykę pusbroliai tvirtovės nebepajėgė paimti.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kai
@@ -220,7 +226,7 @@ rijenburgas.
   pagrindžia:
     - t-008
 - c-009
-  santrauka: 'Vytauto kariuomenė buvo stipriai išretinta ne tik Žalgirio kautynėse, bet ir prie Marienburgo prasidėjusių ligų^35.'
+  santrauka: 'Vytauto kariuomenę stipriai išretino ne tik Žalgirio kautynės, bet ir prie Marienburgo prasidėjusios ligos.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Vytauto kariuomenė buvo stipriai išretinta ne tik
@@ -262,3 +268,45 @@ rijenburgas.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-011
+- c-012
+  santrauka: 'Slaptai suruošto žygio metu didysis magistras iš Marienburgo laivais išplaukė Vysla ir per jūros įlanką įplaukė į Nemuną.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    52
+    Tas žygis buvo paskubomis ir slap­
+    ta suruoštas, ir todėl didysis magist­
+    ras tuokart mažai teturėjo svetimša­
+    lių, juk nesigarsino po visą Europą,
+    o slapčia iš Marienburgo išplaukė
+    Vysla laivais, paskui jūros įlanka
+    įplaukė į Nemuną. Mūsų istorikai
+    bendrais bruožais ir ne taip išsamiai
+    apie šitai pasakoja.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+- c-013
+  santrauka: '1576 m. rugsėjo 23 d. iš Marienburgo rašytame laiške karalius pareiškė muitą nustatysiąs tik gavęs prie jo buvusios Senato tarybos sutikimą.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Viename tų laiškų, rašytame iš Marienburgo 1576 metų
+    rugsėjo 23 dieną Vilniaus vyskupui ir Vilniaus vaivadai, Lie­
+    tuvos Didžiosios Kunigaikštystės kancleriui Radvilai, kara­
+    lius pareiškia jokio muito nenustatysiąs kitaip - tik su Sena­
+    to tarybos, prie jo esančios ir žinančios skubiausiai
+    tvarkytinus Respublikos reikalus, sutikimu. Tačiau sutinkąs
+    atidėti šio muito rinkimą iki būsimo seimo, įsakęs Lietuvos
+    iždininkui įrašyti tik į sąrašus tai, kas priklausys nuo pre­
+    kių, kad vėliau, po seimo sprendimo, būtų žinoma, ko gali­
+    ma reikalauti iš pirklių, o ko reikėtų atsisakyti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013

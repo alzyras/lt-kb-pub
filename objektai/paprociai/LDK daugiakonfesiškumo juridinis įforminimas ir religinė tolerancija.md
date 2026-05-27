@@ -106,7 +106,7 @@ Nenurodyta
 - [[objektai/grupes/Karaimai]]
 - [[objektai/grupes/Stačiatikiai]]
 - [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Vytautas]]
 - [[objektai/zodynas/daugiakonfesiškumas]]
 - [[objektai/zodynas/statutas]]
 - [[objektai/zodynas/supremus dux ir magnus dux]]

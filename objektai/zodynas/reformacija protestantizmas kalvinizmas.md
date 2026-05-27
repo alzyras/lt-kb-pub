@@ -92,4 +92,5 @@ tags:
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/protestantizmas]]
+- [[objektai/asmenys/Abraomas Kulvietis]]
 - [[objektai/ivykiai/Reformacijos pradžia Lietuvoje]]

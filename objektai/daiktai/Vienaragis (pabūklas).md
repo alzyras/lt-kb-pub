@@ -79,3 +79,4 @@ Nenurodyta
 - [[objektai/daiktai/Artilerija]]
 - [[objektai/daiktai/Herbas]]
 - [[objektai/grupes/Rusai]]
+- [[objektai/asmenys/Ona Jogailaitė]]

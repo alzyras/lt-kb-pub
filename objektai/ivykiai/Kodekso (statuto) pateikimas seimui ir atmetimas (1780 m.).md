@@ -102,4 +102,6 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/statutas]]
+- [[objektai/grupes/Šubravcų draugija]]
+- [[objektai/paprociai/Šubravcų elgesio kodekso normos ir saviugdos reikalavimai]]
 - [[objektai/grupes/Lietuvos bajorija]]

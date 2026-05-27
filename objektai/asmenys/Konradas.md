@@ -59,5 +59,5 @@ pakvietė Mozūrijos kunigaikštis Konradas ir padovanojo jiems Kulmo žemę.
 ### Susiję objektai
 - [[objektai/ivykiai/Konrado Wallenrodo žygis į Lietuvą ir Vytauto kontrpuolimas Nemuno ruože (1391 m.)]]
 - [[objektai/ivykiai/Kryžiuočių ordino atsikraustymas į Prūsus]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/ivykiai/Vilniaus apgultis ir Kreivosios pilies sudeginimas (1390 m. rugsėjis-spalis)]]
 - [[objektai/grupes/Kryžiuočių ordinas]]

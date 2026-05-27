@@ -6,6 +6,15 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1492 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XV'
+date_start: '1492'
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -19,12 +28,6 @@ tags:
 Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrinkimas d. Lietuvos kunigaikščiu (1440 m.). Kazimiero karaliavimas Lenkijoje ir jo santykiai su.
 
 ## Teiginiai
-- t-001
-  teiginys: 'Kazimieras Jogailaitis 1440 m. buvo išrinktas didžiuoju Lietuvos kunigaikščiu.'
-  pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
 - t-002
   teiginys: 'Nuo Kazimiero Jogailaičio Lietuvos valdovais visada būdavo išrenkami Jogailos palikuonys.'
   pagrindžia:
@@ -32,7 +35,7 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: '1454 m. sukilę miestai, bajorija ir vyskupai pasidavė Lenkijos karaliui Kazimierui Jogailaičiui.'
+  teiginys: '1454 m. sukilę Ordino valstybės miestai, bajorija ir vyskupai pasidavė Lenkijos karaliui Kazimierui Jogailaičiui.'
   pagrindžia:
     - c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -43,25 +46,20 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-005
+  teiginys: 'Kazimieras Jogailaitis, pašauktas į Lenkijos sostą, nepanoro Didžiosios Kunigaikštystės valdyti per vietininką.'
+  pagrindžia:
+    - c-005
+- t-006
+  teiginys: 'Dar būdamas didžiuoju kunigaikščiu, Kazimieras Jogailaitis atleido Vilniaus miestiečius nuo muito mokesčio visoje Lietuvoje.'
+  pagrindžia:
+    - c-006
+- t-007
+  teiginys: 'Kazimieras Jogailaitis mirė 1492 m. birželio 7 d., susirgęs kelyje iš Vilniaus į Trakus.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Kazimieras Jogailaitis 1440 m. buvo išrinktas didžiuoju Lietuvos kunigaikščiu.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Jogaila 174
-    B. Didžiųjų kunigaikščių monarchijos irimo ir ponų įsigalėjimo
-    laikotarpis
-    I. Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis
-    1. Kazimiero išrinkimas d. Lietuvos kunigaikščiu (1440 m.). 177
-    2.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-001
 - c-002
   santrauka: 'Kazimieras Jogailaitis turėjo 6 sūnus ir 5 dukteris.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -96,7 +94,7 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
   pagrindžia:
     - t-002
 - c-004
-  santrauka: '1454 m. sukilę miestai, bajorija ir vyskupai pasidavė Lenkijos karaliui Kazimierui Jogailaičiui.'
+  santrauka: '1454 m. sukilę Ordino valstybės miestai, bajorija ir vyskupai pasidavė Lenkijos karaliui Kazimierui Jogailaičiui.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Ordino galas.** Po Tanenbergo mūšio ordinas pradėjo nykti.
@@ -110,12 +108,73 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+- c-005
+  santrauka: 'Kazimieras Jogailaitis, pašauktas į Lenkijos sostą, nepanoro Didžiosios Kunigaikštystės valdyti per vietininką.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    223
+
+    ## Puslapis 240
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    Žygimanto įpėdinis Kazimieras Jogailaitis, nors pašauk­
+    tas į Lenkijos sostą, vis dėlto nepanoro Didžiąją Kuni­
+    gaikštystę valdyti per vietininką. Pirmenybę teikdamas Lie­
+    tuvai, jis dažniausiai gyveno Trakuose arba Vilniuje. Iš tikrųjų
+    tai daryti jį vertė krašto nesutarimai ir Lietuvos bajorų ne­
+    santaika, o dar labiau traukė prisirišimas prie gimtosios že­
+    mės ir lengvai patenkinamas aistringas jo pomėgis medžiok­
+    lei, kuriai atsiduodavo, pamiršdamas net ir oficialius
+    reikalus29.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: 'Dar būdamas didžiuoju kunigaikščiu, Kazimieras Jogailaitis atleido Vilniaus miestiečius nuo muito mokesčio visoje Lietuvoje.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Dar būdamas
+    didžiuoju kunigaikščiu, Kazimieras tais pačiais metais atlei­
+    do Vilniaus miestiečius nuo muito mokesčio visoje Lietuvo­
+    je, o atskiru įsakymu jiems suteikė šią laisvę prekiaujant su
+    Černigovu32. Tapęs karaliumi, jis tą pačią privilegiją pritaikė
+    visiems Vilniaus gyventojams, prekiaujantiems su Lenkija.
+    Sutartis, Vilniuje sudaryta su Pskovu, likusiu Kazimiero
+    globoje, gerokai praplėtė prekybinius šio turtingo miesto
+    santykius su Lietuvos sostinė33.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
+- c-007
+  santrauka: 'Kazimieras Jogailaitis mirė 1492 m. birželio 7 d., susirgęs kelyje iš Vilniaus į Trakus.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Prabėgus
+    aštuoneriems metams, pats karalius Kazimieras, būdamas
+    Vilniuje, gauna žinią apie sūnaus Jono Albrechto sutriuški­
+    nimą Vengrijoje ir palaužtas sielvarto, susirgęs kelyje iš Vil­
+    niaus į Trakus, 1492 metų birželio mėnesio 7 dieną apleidžia
+    šį pasaulį.
+    39
+    Šventasis Kazimieras, kurio mirtis,
+    tapytojo Dankerso pavaizduota
+    al fresco ant kairės Šv.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/pereinamasis laikotarpis]]
-- [[objektai/asmenys/Elžbieta]]
-- [[objektai/asmenys/Kazimieras]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/grupes/Jogailos palikuonys]]

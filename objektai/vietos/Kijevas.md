@@ -24,13 +24,13 @@ datos:
   - '1414 m.'
   - '1416 m.'
   - '1461 m.'
+  - '1501 m.'
   - '1569 m.'
   - '1589 m.'
   - '1600 m.'
   - '1868 m.'
   - '1878 m.'
   - '1885 m.'
-  - '1936 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
@@ -45,7 +45,7 @@ amziai:
   - 'XX'
   - 'XXI'
 date_start: '1240'
-date_end: '1936'
+date_end: '1885'
 patikimumas: 'vidutinis'
 tags:
   - karalius
@@ -79,45 +79,45 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-004
-  teiginys: 'Kijeve birželio mėnesį prie gausių stalų buvo susirinkusi didelė kariuomenė.'
+  teiginys: '1399 m. birželį Kijeve buvo sutelkta didelė Vytauto kariuomenė.'
   pagrindžia:
     - c-004
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-005
-  teiginys: 'Tuo pačiu laiku atsisakė Vytauto klausyti ir Kijevo kuni­ gaikštis, Algirdo sūnus, Vladimiras, nesutikdamas padėti jam malšinti sukilusio Podolijos kunigaikščio Karijoto sūnaus Feo- — 47 — doro.'
+  teiginys: 'Kijevo kunigaikštis Vladimiras atsisakė klausyti Vytauto ir nepadėjo malšinti Teodoro Karijotaičio sukilimo.'
   pagrindžia:
     - c-005
 - t-006
-  teiginys: 'Kada iš Vladimiro Kijevas buvo atimtas, Vytautas išlaikė savo žodį ir jį atidavė Skirgailai (1395).'
+  teiginys: '1395 m. Vytautas atėmė Kijevą iš Vladimiro ir atidavė jį Skirgailai.'
   pagrindžia:
     - c-006
 - t-007
-  teiginys: 'Panašiai buvo ir rusiškuose Lietuvos valstybės kraštuose, kur apie Vytauto pergalę skleidė žinias iš Žalgirio mūšio sugrį­ žusieji rusų kareiviai ir vokiečių belaisviai, kalinami tų kraštų pilyse, kaip Vitebske, Kijeve ir kitur.'
+  teiginys: 'Po Žalgirio mūšio Kijeve kalinti vokiečių belaisviai skleidė žinias apie Vytauto pergalę.'
   pagrindžia:
     - c-007
 - t-008
-  teiginys: 'Vykstant Vytautui pro Polocką, Vitebską, Smolenską, Zaslavlių, Brianską, Černigovą iki Kijevo, jam lenkėsi visi tų kraštų kunigaikščiai, išreikšdami savo pa­ klusnumą.'
+  teiginys: 'Vytautui vykstant iki Kijevo, pakeliui esančių kraštų kunigaikščiai reiškė jam paklusnumą.'
   pagrindžia:
     - c-008
 - t-009
-  teiginys: 'Totoriai, vedami seno Vorsklos nugalėtojo Edygos, 1414—1416 m. smar­ kiai apgriovė Kijevą, Lucką ir nuniokojo jų apylinkes.'
+  teiginys: '1414-1416 m. Edygos vedami totoriai smarkiai apgriovė Kijevą ir nuniokojo jo apylinkes.'
   pagrindžia:
     - c-009
 - t-010
-  teiginys: 'Vytautas pasižadėjo padėti Skirgailai pa­ imti Kijevą ir atiduoti jam Kremencą ir Stožką vietoj Trakų kunigaikštijos.'
+  teiginys: 'Vytautas pasižadėjo padėti Skirgailai paimti Kijevą vietoj Trakų kunigaikštijos.'
   pagrindžia:
     - c-010
 - t-011
-  teiginys: '237 įvyko panaikinant tokias didžiąsias kunigaikštijas, kaip Poloc­ ko, Vitebsko, Smolensko, Novgorodo-Sieversko, Kijevo, Voly­ nijos ir Podolijos.'
+  teiginys: 'Vytauto laikais panaikinus Kijevo kunigaikštiją, jos kunigaikščių dvarai pateko į tiesioginę Vytauto valdžią.'
   pagrindžia:
     - c-011
 - t-012
-  teiginys: 'Rusiškuose kraštuose Vytautas stengėsi atgaivinti prekybą, remdamas Kijevo miestą, kuris Dniepro upe turėjo susisiekimą su Juodosiomis jūromis, o sausuma — su Volynijos ir Podoli­ jos miestais, kuriuos lankydavo Krokuvos ir vokiečių pirkliai.'
+  teiginys: 'Vytautas rėmė Kijevo prekybą, nes miestas Dniepru jungėsi su Juodosios jūros kryptimi ir sausuma su Volynės bei Podolės miestais.'
   pagrindžia:
     - c-012
 - t-013
-  teiginys: 'Lietuva tapo politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijungtos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje buvę Voluinė ir Haličas, Kijevas, Pskovas.'
+  teiginys: 'Kijevas buvo tarp Lietuvos politinėje įtakoje buvusių Rusios erdvės centrų.'
   pagrindžia:
     - c-013
 - t-014
@@ -125,43 +125,39 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   pagrindžia:
     - c-014
 - t-015
-  teiginys: '1393 m. Luckas perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikštiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.'
+  teiginys: '1394 m. Vytautas panaikino Kijevo kunigaikštiją, o Kijevą gavo Skirgaila.'
   pagrindžia:
     - c-015
 - t-016
-  teiginys: '„Senovės nekeitimo“ tezė tėra istoriografinis mitas – Lietuvos ekspansija Kijevo Rusios erdvę reikšmingai perskėlė į dvi dalis: Kijevo ir Maskvos, kurių istorija keliems amžiams nuėjo savarankiškais keliais.'
+  teiginys: 'Lietuvos ekspansija Kijevo Rusios erdvę perskėlė į Kijevo ir Maskvos dalis, kurių istorija kelis amžius klostėsi atskirai.'
   pagrindžia:
     - c-016
 - t-017
-  teiginys: 'Tuoj pat po krikšto LDK šalia jau veikusių stačiatikių vyskupijų buvo suformuotos keturios katalikų vyskupijos (Vilniaus, Žemaičių, Lucko ir Kijevo), steigėsi vienuolijos.'
+  teiginys: 'Po LDK krikšto buvo suformuota Kijevo katalikų vyskupija šalia jau veikusių stačiatikių vyskupijų.'
   pagrindžia:
     - c-017
 - t-018
-  teiginys: 'Tada Lietuvai buvo suduotas skaudus smūgis – karalius Žygimantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė beveik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos (Palenkę ir Voluinės, Kijevo ir Podolės (Braclavo) vaivadijas).'
+  teiginys: 'Žygimantas Augustas prie Lenkijos prijungė Kijevo vaivadiją ir kitas dideles Lietuvos Didžiosios Kunigaikštijos teritorijas.'
   pagrindžia:
     - c-018
 - t-019
-  teiginys: 'Tačiau Graikų katalikų bažnyčios metropolitai vėlgi buvo Kijevo metropolitai, tik jau nuolat reziduojantys Vilniuje.'
+  teiginys: 'Graikų katalikų bažnyčios metropolitai buvo Kijevo metropolitai, bet nuolat rezidavo Vilniuje.'
   pagrindžia:
     - c-019
-- t-021
-  teiginys: ': Očerk istorii Velikago Knjažestva Litovskogo do poloviny XV stoletija, Kijevas 1878.'
-  pagrindžia:
-    - c-021
 - t-023
-  teiginys: 'Drauge su Podole Lietuvos valstybėn buvo įjungta ir Kijevo kunigaikštystė, kuri jau nuo Gedimino laikų buvo didžiojo Lietuvos kunigaikščio priklausomybėje, kai Kijevą valdė jaunesnis Gedimino brolis Teodoras.'
+  teiginys: 'Kijevo kunigaikštystė buvo įjungta į Lietuvos valstybę drauge su Podole.'
   pagrindžia:
     - c-023
 - t-024
-  teiginys: 'Maskvos kunigaikščių ateičiai buvo gana reikšminga, kad visos Rusios metropolitas savo sostinę iš Kijevo, esančio nuolatinių totorių puolimų pavojuose, 1300 m. perkėlė į šiaurinės Rusios Vladimirą.'
+  teiginys: '1300 m. visos Rusios metropolitas perkėlė sostinę iš totorių puolimų grėsmėje buvusio Kijevo į Vladimirą.'
   pagrindžia:
     - c-024
 - t-025
-  teiginys: 'Iš tikro, Skirgailai bebuvo palik­ tas Polockas ir pažadėta Kijevo kunigaikštija.'
+  teiginys: 'Skirgailai buvo paliktas Polockas ir pažadėta Kijevo kunigaikštystė.'
   pagrindžia:
     - c-025
 - t-026
-  teiginys: 'Beveik tuo pat laiku (1396) Vytautas iš Vladimiro Algirdaičio atėmė Kijevą, sau pasilaikydamas Žitomiro ir Ovručio plačius valsčius (« volosti »).'
+  teiginys: '1396 m. Vytautas atėmė Kijevą iš Vladimiro Algirdaičio, o Žitomiro ir Ovručio valsčius pasiliko sau.'
   pagrindžia:
     - c-026
 - t-027
@@ -173,11 +169,11 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   pagrindžia:
     - c-028
 - t-029
-  teiginys: 'Kijeviečiams ginantis, „Gediminas stovyklavo prie Kijevo mėnesį“.'
+  teiginys: 'Kijeviečiams ginantis, Gediminas mėnesį stovyklavo prie Kijevo.'
   pagrindžia:
     - c-029
 - t-030
-  teiginys: 'Po to išgirdę, nugalėjęs rusų ir totorių kariuomenę, nuvijo totorius ir Kijevą paėmė į savo valdžią.'
+  teiginys: 'Gediminas, nugalėjęs rusų ir totorių kariuomenę, nuvijo totorius ir paėmė Kijevą į savo valdžią.'
   pagrindžia:
     - c-030
 - t-031
@@ -185,17 +181,33 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   pagrindžia:
     - c-031
 - t-032
-  teiginys: 'Lietuvos ponai kandidatu iškėlė Algirdo palikuonį, Kijevo kunigaikštį Simaną.'
+  teiginys: 'Lietuvos ponai kandidatu iškėlė Kijevo kunigaikštį Simaną, Algirdo palikuonį.'
   pagrindžia:
     - c-032
 - t-033
-  teiginys: 'Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiuliai Palenkės, Voluinės, Braclavo ir Kijevo žemių plotai atiteko Lenkijai.'
+  teiginys: 'Po unijos Kijevo žemių plotai atiteko Lenkijai, todėl Lietuvos valstybės teritorija labai sumažėjo.'
   pagrindžia:
     - c-033
 - t-034
-  teiginys: 'Jis rūpinosi, kad šiam naujajam patriarchui priklausytų Kijevo metropolitas, kuriuo tuomet buvo Ragoza.'
+  teiginys: '1589 m. Borisas Godunovas siekė, kad Kijevo metropolitas Ragoza priklausytų naujajam Maskvos patriarchui.'
   pagrindžia:
     - c-034
+- t-035
+  teiginys: 'Maskva tuomet dar tebuvo menka gyvenvietė; tik pietų Rusioje klestėjo senasis Kijevas, Rytų apeigų tikėjimo lopšys ir kurį laiką garsios monarchijos sostinė.'
+  pagrindžia:
+    - c-035
+- t-039
+  teiginys: 'Kijevo kunigaikštystė ir Podolė priklausė Lietuvai, o per Kijevą Vilnius palaikė prekybinius ryšius su Rytais.'
+  pagrindžia:
+    - c-039
+- t-040
+  teiginys: 'Maskvos metropolitas Fotijas siekė išprašyti Kijevo metropolijos prijungimą prie Maskvos, bet nieko nelaimėjęs išvyko.'
+  pagrindžia:
+    - c-040
+- t-041
+  teiginys: 'Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, paklūstančias Aleksandro skeptrui, ir kilo grėsmė Kijevui.'
+  pagrindžia:
+    - c-041
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -255,7 +267,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   pagrindžia:
     - t-003
 - c-004
-  santrauka: 'Kijeve birželio mėnesį prie gausių stalų buvo susirinkusi didelė kariuomenė.'
+  santrauka: '1399 m. birželį Kijeve buvo sutelkta didelė Vytauto kariuomenė.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Pats Vytautas, Krokuvoje praleidęs 1399 pavasarį^28 , vykdė
@@ -272,7 +284,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   pagrindžia:
     - t-004
 - c-005
-  santrauka: 'Tuo pačiu laiku atsisakė Vytauto klausyti ir Kijevo kuni­ gaikštis, Algirdo sūnus, Vladimiras, nesutikdamas padėti jam malšinti sukilusio Podolijos kunigaikščio Karijoto sūnaus Feo- — 47 — doro.'
+  santrauka: 'Kijevo kunigaikštis Vladimiras atsisakė klausyti Vytauto ir nepadėjo malšinti Teodoro Karijotaičio sukilimo.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tuo pačiu laiku atsisakė Vytauto klausyti ir Kijevo kuni­
@@ -299,7 +311,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   pagrindžia:
     - t-005
 - c-006
-  santrauka: 'Kada iš Vladimiro Kijevas buvo atimtas, Vytautas išlaikė savo žodį ir jį atidavė Skirgailai (1395).'
+  santrauka: '1395 m. Vytautas atėmė Kijevą iš Vladimiro ir atidavė jį Skirgailai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kada iš Vladimiro Kijevas buvo atimtas, Vytautas išlaikė
@@ -315,7 +327,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   pagrindžia:
     - t-006
 - c-007
-  santrauka: 'Panašiai buvo ir rusiškuose Lietuvos valstybės kraštuose, kur apie Vytauto pergalę skleidė žinias iš Žalgirio mūšio sugrį­ žusieji rusų kareiviai ir vokiečių belaisviai, kalinami tų kraštų pilyse, kaip Vitebske, Kijeve ir kitur.'
+  santrauka: 'Po Žalgirio mūšio Kijeve kalinti vokiečių belaisviai skleidė žinias apie Vytauto pergalę.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     ```
@@ -332,7 +344,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   pagrindžia:
     - t-007
 - c-008
-  santrauka: 'Vykstant Vytautui pro Polocką, Vitebską, Smolenską, Zaslavlių, Brianską, Černigovą iki Kijevo, jam lenkėsi visi tų kraštų kunigaikščiai, išreikšdami savo pa­ klusnumą.'
+  santrauka: 'Vytautui vykstant iki Kijevo, pakeliui esančių kraštų kunigaikščiai reiškė jam paklusnumą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vykstant Vytautui pro Polocką,
@@ -347,7 +359,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   pagrindžia:
     - t-008
 - c-009
-  santrauka: 'Totoriai, vedami seno Vorsklos nugalėtojo Edygos, 1414—1416 m. smar­ kiai apgriovė Kijevą, Lucką ir nuniokojo jų apylinkes.'
+  santrauka: '1414-1416 m. Edygos vedami totoriai smarkiai apgriovė Kijevą ir nuniokojo jo apylinkes.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Totoriai,
@@ -368,7 +380,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   pagrindžia:
     - t-009
 - c-010
-  santrauka: 'Vytautas pasižadėjo padėti Skirgailai pa­ imti Kijevą ir atiduoti jam Kremencą ir Stožką vietoj Trakų kunigaikštijos.'
+  santrauka: 'Vytautas pasižadėjo padėti Skirgailai paimti Kijevą vietoj Trakų kunigaikštijos.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas pasižadėjo padėti Skirgailai pa­
@@ -383,7 +395,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   pagrindžia:
     - t-010
 - c-011
-  santrauka: '237 įvyko panaikinant tokias didžiąsias kunigaikštijas, kaip Poloc­ ko, Vitebsko, Smolensko, Novgorodo-Sieversko, Kijevo, Voly­ nijos ir Podolijos.'
+  santrauka: 'Vytauto laikais panaikinus Kijevo kunigaikštiją, jos kunigaikščių dvarai pateko į tiesioginę Vytauto valdžią.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     ```
@@ -402,7 +414,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   pagrindžia:
     - t-011
 - c-012
-  santrauka: 'Rusiškuose kraštuose Vytautas stengėsi atgaivinti prekybą, remdamas Kijevo miestą, kuris Dniepro upe turėjo susisiekimą su Juodosiomis jūromis, o sausuma — su Volynijos ir Podoli­ jos miestais, kuriuos lankydavo Krokuvos ir vokiečių pirkliai.'
+  santrauka: 'Vytautas rėmė Kijevo prekybą, nes miestas Dniepru jungėsi su Juodosios jūros kryptimi ir sausuma su Volynės bei Podolės miestais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Rusiškuose kraštuose Vytautas stengėsi atgaivinti prekybą,
@@ -419,7 +431,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   pagrindžia:
     - t-012
 - c-013
-  santrauka: 'Lietuva tapo politinės sistemos centru, apie kurį telkėsi ne tik Mindaugo laikais prijungtos Juodosios Rusios ir Polocko žemės, bet ir Lietuvos politinėje įtakoje buvę Voluinė ir Haličas, Kijevas, Pskovas.'
+  santrauka: 'Kijevas buvo tarp Lietuvos politinėje įtakoje buvusių Rusios erdvės centrų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuva tapo
@@ -449,7 +461,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   pagrindžia:
     - t-014
 - c-015
-  santrauka: '1393 m. Luckas perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikštiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.'
+  santrauka: '1394 m. Vytautas panaikino Kijevo kunigaikštiją, o Kijevą gavo Skirgaila.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1393 m. Luckas
@@ -463,7 +475,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   pagrindžia:
     - t-015
 - c-016
-  santrauka: '„Senovės nekeitimo“ tezė tėra istoriografinis mitas – Lietuvos ekspansija Kijevo Rusios erdvę reikšmingai perskėlė į dvi dalis: Kijevo ir Maskvos, kurių istorija keliems amžiams nuėjo savarankiškais keliais.'
+  santrauka: 'Lietuvos ekspansija Kijevo Rusios erdvę perskėlė į Kijevo ir Maskvos dalis, kurių istorija kelis amžius klostėsi atskirai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     „Senovės nekeitimo“ tezė tėra istoriografi-
@@ -480,7 +492,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   pagrindžia:
     - t-016
 - c-017
-  santrauka: 'Tuoj pat po krikšto LDK šalia jau veikusių stačiatikių vyskupijų buvo suformuotos keturios katalikų vyskupijos (Vilniaus, Žemaičių, Lucko ir Kijevo), steigėsi vienuolijos.'
+  santrauka: 'Po LDK krikšto buvo suformuota Kijevo katalikų vyskupija šalia jau veikusių stačiatikių vyskupijų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tuoj pat po krikšto LDK šalia jau veikusių stačiatikių vysku-
@@ -494,7 +506,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   pagrindžia:
     - t-017
 - c-018
-  santrauka: 'Tada Lietuvai buvo suduotas skaudus smūgis – karalius Žygimantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė beveik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos (Palenkę ir Voluinės, Kijevo ir Podolės (Braclavo) vaivadijas).'
+  santrauka: 'Žygimantas Augustas prie Lenkijos prijungė Kijevo vaivadiją ir kitas dideles Lietuvos Didžiosios Kunigaikštijos teritorijas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tada Lietuvai buvo suduotas skaudus smūgis – karalius Žygi-
@@ -510,7 +522,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   pagrindžia:
     - t-018
 - c-019
-  santrauka: 'Tačiau Graikų katalikų bažnyčios metropolitai vėlgi buvo Kijevo metropolitai, tik jau nuolat reziduojantys Vilniuje.'
+  santrauka: 'Graikų katalikų bažnyčios metropolitai buvo Kijevo metropolitai, bet nuolat rezidavo Vilniuje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau Graikų katalikų bažnyčios metropolitai vėlgi buvo Kijevo metropo-
@@ -523,21 +535,8 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-019
-- c-021
-  santrauka: ': Očerk istorii Velikago Knjažestva Litovskogo do poloviny XV stoletija, Kijevas 1878.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    AnOč = Antonovič, V. B. : Očerk istorii Velikago Knjažestva Litov-
-    skogo do poloviny XV stoletija, Kijevas 1878.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-021
 - c-023
-  santrauka: 'Drauge su Podole Lietuvos valstybėn buvo įjungta ir Kijevo kunigaikštystė, kuri jau nuo Gedimino laikų buvo didžiojo Lietuvos kunigaikščio priklausomybėje, kai Kijevą valdė jaunesnis Gedimino brolis Teodoras.'
+  santrauka: 'Kijevo kunigaikštystė buvo įjungta į Lietuvos valstybę drauge su Podole.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Drauge su Podole Lietuvos valstybėn buvo įjungta ir Kijevo
@@ -553,7 +552,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   pagrindžia:
     - t-023
 - c-024
-  santrauka: 'Maskvos kunigaikščių ateičiai buvo gana reikšminga, kad visos Rusios metropolitas savo sostinę iš Kijevo, esančio nuolatinių totorių puolimų pavojuose, 1300 m. perkėlė į šiaurinės Rusios Vladimirą.'
+  santrauka: '1300 m. visos Rusios metropolitas perkėlė sostinę iš totorių puolimų grėsmėje buvusio Kijevo į Vladimirą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Maskvos kunigaikščių ateičiai buvo gana reikšminga, kad visos
@@ -568,7 +567,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   pagrindžia:
     - t-024
 - c-025
-  santrauka: 'Iš tikro, Skirgailai bebuvo palik­ tas Polockas ir pažadėta Kijevo kunigaikštija.'
+  santrauka: 'Skirgailai buvo paliktas Polockas ir pažadėta Kijevo kunigaikštystė.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Iš tikro, Skirgailai bebuvo palik­
@@ -583,7 +582,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   pagrindžia:
     - t-025
 - c-026
-  santrauka: 'Beveik tuo pat laiku (1396) Vytautas iš Vladimiro Algirdaičio atėmė Kijevą, sau pasilaikydamas Žitomiro ir Ovručio plačius valsčius (« volosti »).'
+  santrauka: '1396 m. Vytautas atėmė Kijevą iš Vladimiro Algirdaičio, o Žitomiro ir Ovručio valsčius pasiliko sau.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Beveik tuo pat laiku (1396) Vytautas iš Vladimiro Algirdaičio
@@ -632,7 +631,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   pagrindžia:
     - t-028
 - c-029
-  santrauka: 'Kijeviečiams ginantis, „Gediminas stovyklavo prie Kijevo mėnesį“.'
+  santrauka: 'Kijeviečiams ginantis, Gediminas mėnesį stovyklavo prie Kijevo.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kijeviečiams gi-
@@ -650,7 +649,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   pagrindžia:
     - t-029
 - c-030
-  santrauka: 'Po to išgirdę, nugalėjęs rusų ir totorių kariuomenę, nuvijo totorius ir Kijevą paėmė į savo valdžią.'
+  santrauka: 'Gediminas, nugalėjęs rusų ir totorių kariuomenę, nuvijo totorius ir paėmė Kijevą į savo valdžią.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Po to išgirdę,
@@ -689,7 +688,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   pagrindžia:
     - t-031
 - c-032
-  santrauka: 'Lietuvos ponai kandidatu iškėlė Algirdo palikuonį, Kijevo kunigaikštį Simaną.'
+  santrauka: 'Lietuvos ponai kandidatu iškėlė Kijevo kunigaikštį Simaną, Algirdo palikuonį.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     ), kada Lietuvos ponai iškėlė kandidatu
@@ -703,7 +702,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   pagrindžia:
     - t-032
 - c-033
-  santrauka: 'Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiuliai Palenkės, Voluinės, Braclavo ir Kijevo žemių plotai atiteko Lenkijai.'
+  santrauka: 'Po unijos Kijevo žemių plotai atiteko Lenkijai, todėl Lietuvos valstybės teritorija labai sumažėjo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **Lietuvos valstybės teritorija**
@@ -721,7 +720,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   pagrindžia:
     - t-033
 - c-034
-  santrauka: 'Jis rūpinosi, kad šiam naujajam patriarchui priklausytų Kijevo metropolitas, kuriuo tuomet buvo Ragoza.'
+  santrauka: '1589 m. Borisas Godunovas siekė, kad Kijevo metropolitas Ragoza priklausytų naujajam Maskvos patriarchui.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kaip tik tuo metu (1589 m.) Maskvos caras Borisas Godu-
@@ -735,3 +734,84 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-034
+- c-035
+  santrauka: 'Maskva tuomet dar tebuvo menka gyvenvietė; tik pietų Rusioje klestėjo senasis Kijevas, Rytų apeigų tikėjimo lopšys ir kurį laiką garsios monarchijos sostinė.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Maskva tuomet dar tebuvo menka
+    gyvenvietė; tik pietų Rusioje klestėjo senasis Kijevas, Rytų apeigų
+    tikėjimo lopšys ir kurį laiką garsios monarchijos sostinė. Visi
+    kiti Rusios miestai, šiauriniai ir pietiniai, perdėm susmulkintų
+    kunigaikštysčių sostinės, neturėjo nei tokios reikšmės, nei lais­
+    vių, kad galėtų bent kiek paveikti kaimyninius kraštus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-035
+- c-039
+  santrauka: 'Kijevo kunigaikštystė ir Podolė priklausė Lietuvai, o per Kijevą Vilnius palaikė prekybinius ryšius su Rytais.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    79
+    Kijevo kunigaikštystė ir Podolė,
+    anais laikais nusidriekusi iki pat
+    Dniepro ir Dniestro žiočių, priklau­
+    sė Lietuvai; Kafos* miestas prie Juo­
+    dosios jūros buvo svarbiausias Lie­
+    tuvos prekybinis uostas, jungęs su
+    Rytais, iš kur prekės būdavo gabe­
+    namos į Kijevą; pastarajam tarpinin­
+    kaujant Vilnius, kaip valstybės sos­
+    tinė, palaikė prekybinius ryšius su
+    Rytais. Lietuvių Tavano pilyje, sto­
+    vinčioje prie Dniepro, Vytautas įstei­
+    gė muitinę, vadintą Vytauto pirtimi.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-039
+- c-040
+  santrauka: 'Maskvos metropolitas Fotijas siekė išprašyti Kijevo metropolijos prijungimą prie Maskvos, bet nieko nelaimėjęs išvyko.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Liko tik vienas Fotijas, Maskvos metropolitas, ketinęs
+    išprašyti Kijevo metropolijos prijungimą prie Maskvos;
+    gražiai, kaip byloja Rusios metraštininkai, buvo Vytauto pri­
+    imtas, bet dėl ano ligos nieko nelaimėjęs, irgi išvyko į Mask­
+    vą. Tuo tarpu karalius, regėdamas didįjį kunigaikštį kasdien
+    silpstantį ir būdamas tikras, kad šis jau galutinai atsisakė
+    savo sumanymo, aukštuosius didikus iš savo tarybos išsiun­
+    tė atgal į Lenkiją, kad jam netrukdytų Vytauto mirties atve­
+    ju.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-040
+- c-041
+  santrauka: 'Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, paklūstančias Aleksandro skeptrui, ir kilo grėsmė Kijevui.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Krymo totorių
+    orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes,
+    paklūstančias Aleksandro skeptrui, ir kilo grėsmė Kijevui.
+    Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus
+    Mendli Girėjaus priešas, savo pajėgomis rėmė lietuvius, -
+    Aleksandro veiksmams stigo ryžto ir, nors buvo išrinktas
+    Lenkijos karaliumi (1501 metais), jis vis dėlto negebėjo pa­
+    naudoti savo galios ir susidoroti su savo priešais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-041

@@ -178,10 +178,10 @@ Karijotas čia minimas kaip Gedimino sūnus, gavęs Naugarduką; jo vardu siejam
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Algirdas]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/asmenys/Jaunutis]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Kęstutis]]
 - [[objektai/zodynas/tėviškė]]
 - [[objektai/asmenys/Borisas Karijotaitis]]
 - [[objektai/asmenys/Konstantinas (Karijotaitis)]]

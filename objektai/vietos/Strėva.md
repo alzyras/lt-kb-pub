@@ -8,13 +8,16 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1348 m.'
+  - '1805 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
+  - 'naujieji laikai'
 amziai:
   - 'XIV'
+  - 'XIX'
 date_start: '1348'
-date_end: ''
+date_end: '1805'
 patikimumas: 'vidutinis'
 tags:
   - ordinas
@@ -46,6 +49,10 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
     - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-004
+  teiginys: 'Atsitraukiančiai kariaunai priartėjus prie Strėvos upės Trakų paviete, ją tankiame miške iš pasalų apsupo žemaičių būriai.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -102,3 +109,55 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Atsitraukiančiai kariaunai priartėjus prie Strėvos upės Trakų paviete, ją tankiame miške iš pasalų apsupo žemaičių būriai.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tačiau
+    atsitraukiant jo laukė nauji pavojai: mat jų kariaunai pri­
+    siartinus prie Strėvos upės Trakų paviete, tankiame miške
+    iš pasalų juos apsupo žemaičių būriai ir, prikirtę medžių,
+    54
+    Stryjkowski, p. 464, aiškiai
+    nurodo, kad Švitrigaila pilies užėmi­
+    mo dėlei turėjo būti pasinaudojęs ru­
+    sų vienuolių, vadintų „čiornais", iš­
+    davyste; tačiau čia ateina į galvą
+    mintis, kad „čiornų" (prasčiokai)
+    vardu buvo vadinama ir rusų gyven­
+    tojų prastuomenė, kurių nemažai
+    anuomet buvo Vilniuje. „MepHbie
+    a k d a h" ,  „cziomyje ludi" - taip buvo
+    vadinamas Rusios miestuose pats
+    žemiausias miestiečių sluoksnis. Žr.
+    Rakowiecki  Prawda Ruška, T. I,
+    p. 108. Dar žr. CAOBapb TeorpcKpu-
+    v p c k u ü PoccuücKaro rocyqapcmßa,
+    coópcLH H biu A(panacheM h UįeKamo-
+    BbiM b, MocKBa, 1805, 4to, prie
+    žodžio Pskov, kur autorius nurodo:
+    „...a nocAeAHHe b MeiųaHCTBe 6bi-
+    AH nepHbie a k >a h ,  b HHCAe k o h x b
+    HaxoAHAHCb Bee xcHByujHe b ropo-
+    Ae xyAOxcHHKH, peMecAeHHHKH h
+    paöoTHbie a i o a h [ o  žemiausi tarp
+    miestiečių buvo čiornyje liūdi (pras­
+    tuomenė), kuriems priklausė visi
+    mieste gyvenantys dailininkai, ama­
+    tininkai ir darbininkai]. Galbūt Strij­
+    kovskis, skaitydamas rusų-lietuvių
+    metraščius, bus vienus su kitais su­
+    painiojęs.
+    138
+
+    ## Puslapis 155
+
+    Il KNYGA
+    jais užvertė kelią.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004

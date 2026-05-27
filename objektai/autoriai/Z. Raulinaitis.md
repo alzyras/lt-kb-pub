@@ -75,4 +75,5 @@ Raulinaitis, Z.
 ### Susiję objektai
 - [[objektai/daiktai/Kalavijai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/daiktai/Vilniaus gaisro gesinimo įrankiai]]
 - [[objektai/zodynas/feodalizmas]]

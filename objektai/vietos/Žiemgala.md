@@ -40,9 +40,13 @@ Jam buvo pasisekę paimti į savo valdžią net Žiemgalos dalį; tačiau jam ne
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Betarpiškame ryšyje su Georgenburgo įkūrimu reikia sieti 1259-1260 m. žiemą Žiemgaloje pastatymą stiprios pilies Dobės (Doblen)^151 , kurios sukilę žiemgaliai negalėjo įveikti.'
+  teiginys: '1259-1260 m. žiemą Žiemgaloje pastatyta stipri Dobės pilis, kurios sukilę žiemgaliai neįveikė.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Ordinas Žiemgalą ir kitus kraštus vertė dykynėmis, teigdamas, kad tai daro krikščionybei ginti.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -65,7 +69,7 @@ Jam buvo pasisekę paimti į savo valdžią net Žiemgalos dalį; tačiau jam ne
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Betarpiškame ryšyje su Georgenburgo įkūrimu reikia sieti 1259-1260 m. žiemą Žiemgaloje pastatymą stiprios pilies Dobės (Doblen)^151 , kurios sukilę žiemgaliai negalėjo įveikti.'
+  santrauka: '1259-1260 m. žiemą Žiemgaloje pastatyta stipri Dobės pilis, kurios sukilę žiemgaliai neįveikė.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Betarpiškame ryšyje su Georgenburgo įkūrimu
@@ -81,3 +85,29 @@ Jam buvo pasisekę paimti į savo valdžią net Žiemgalos dalį; tačiau jam ne
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Ordinas Žiemgalą ir kitus kraštus vertė dykynėmis, teigdamas, kad tai daro krikščionybei ginti.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Juk taip pat nedorai Ordinas elgiasi ir su garbin­
+    gąja dvasininkijos diduomene, kaip antai arkivyskupais Jo­
+    nu ir Fridrichu, juk tokius kraštus kaip Žiemgalą bei kitus
+    verčia dykynėmis, visada sakydami, jog visa tai daroma
+    krikščionybei ginti. „Noriai (tęsia toliau) liausimės puldinė­
+    ję krikščionių žemes, iš tiesų esame linkę prisidėti prie to
+    tikėjimo skleidimo, ką rodo tai, kad daug minoritų laikome
+    savo žemėj, kuriems suteikėme visišką laisvę krikštyti,
+    71
+    šiame sutvirtintame mieste, papras­
+    tai tariant, nukariautame ir visai pe­
+    lenais virtusiame, daugeliui Kristų
+    tikinčiųjų nuo ginklo žuvus, dešimt
+    tūkstančių abiejų lyčių žmonių su
+    savimi paėmė ir išsivarė].
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003

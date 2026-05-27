@@ -41,14 +41,14 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklausomybės kovose generolas, Ju
     - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
-- t-003
-  teiginys: 'Kosciuškos sukilimo metu tapęs Vilniaus gvardijos vadu.'
-  pagrindžia:
-    - c-003
 - t-004
   teiginys: '1794 m. kovą Lenkijoje prasidėjo sukilimas, kuriam vadovavo iš LDK kilęs ir kovose dėl JAV nepriklausomybės pasižymėjęs generolas Tadas Kosciuška.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'Tadas Kosciuška mėgino gelbėti Lenkijos ir Lietuvos valstybę jos žlugimo išvakarėse.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -89,20 +89,6 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklausomybės kovose generolas, Ju
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Kosciuškos sukilimo metu tapęs Vilniaus gvardijos vadu.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Ginti Gegužės trečiosios kons-
-    titucijos stos ir pats L. Gucevičius, T. Kosciuškos sukilimo metu tapęs
-    Vilniaus gvardijos vadu.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
 - c-004
   santrauka: '1794 m. kovą Lenkijoje prasidėjo sukilimas, kuriam vadovavo iš LDK kilęs ir kovose dėl JAV nepriklausomybės pasižymėjęs generolas Tadas Kosciuška.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -117,11 +103,28 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklausomybės kovose generolas, Ju
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Tadas Kosciuška mėgino gelbėti Lenkijos ir Lietuvos valstybę jos žlugimo išvakarėse.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Gimęs Lenkijos-Lie­
+    tuvos valstybės žlugimo išvakarėse, kai Tadas Kosciuška bevil­
+    tiškai mėgino gelbėti šalį nuo godžių kaimyninių valstybių kės­
+    lų, M. Balinskis, kaip ir tūkstančiai jo bendraamžių, jaunųjų
+    bajoriškų atžalų, buvo Vilniaus universiteto suklestėjimo ir žlu­
+    gimo liudininkas, miesto kultūrinio gyvenimo dalyvis.
+    Lenkų ir lietuvių istoriografijoje M.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/pinigai]]
 
 ### Susiję objektai
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/Jokūbo Jasinskio pašalinimas iš Lietuvos sukilėlių vado pareigų (1794 m. gegužės 4 d.)]]

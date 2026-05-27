@@ -62,4 +62,4 @@ Apie tai galima spręsti iš to, kad Jogaila, kartu su „brangiausia žmona“,
 - [[temos/papuošalas]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/asmenys/Jogaila]]

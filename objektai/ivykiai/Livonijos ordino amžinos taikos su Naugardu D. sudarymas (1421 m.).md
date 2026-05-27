@@ -74,4 +74,4 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Livonijos ordinas]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Vytautas]]

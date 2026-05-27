@@ -128,4 +128,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Vilniaus miestiečių luomas]]
 - [[objektai/daiktai/Taurės]]

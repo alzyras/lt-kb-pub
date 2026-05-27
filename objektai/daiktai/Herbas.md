@@ -106,5 +106,6 @@ Nenurodyta
 - [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas ir Kovo 11 Aktas (1990 m. kovo 11 d.)]]
 - [[objektai/daiktai/Ringrafas]]
 - [[objektai/daiktai/Vienaragis (pabūklas)]]
+- [[objektai/paprociai/Vilniaus miesto viešųjų aktų antspaudavimas šv. Kristoforo antspaudu]]
 - [[objektai/grupes/Vilniaus romantizmo mokykla]]
 - [[objektai/daiktai/Zigmanto Augusto pinigai]]

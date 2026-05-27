@@ -56,7 +56,7 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Didžiojo Naugardo respublika]]
-- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/asmenys/Jogaila]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Vytautas]]
 - [[objektai/zodynas/kunigaikščiai]]

@@ -129,3 +129,4 @@ Osten-Sakenui. Osten-Sakenas dešiniajame gynybos sparne puolimui išrikiavo kav
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Orenburgo ulonų pulkas]]
+- [[objektai/daiktai/Parakas]]

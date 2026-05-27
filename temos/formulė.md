@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 6.
+Objektų skaičius: 7.
 
 ## Kaip naudoti
 
@@ -22,6 +22,7 @@ Objektų skaičius: 6.
 - [[objektai/posakiai/Didelėj garbėj ir šlovėj gyveno garsus valdytojas Vytautas]]
 - [[objektai/posakiai/Ne bičiulystės, o teisybės]]
 - [[objektai/posakiai/ne koks „Storasta“ ar Jogailos vietininkas, bet faktiškasis Lietuvos valdytojas]]
+- [[objektai/posakiai/Pirmiau geležis pasikeis į vašką ir vanduo pavirs plienu]]
 - [[objektai/posakiai/Viskas yra viena, viena žemė ir tie patys žmonės]]
 - [[objektai/posakiai/„gente polonus, natione lituanus“]]
 

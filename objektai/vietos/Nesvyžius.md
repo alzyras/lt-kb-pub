@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
+  - '1519 m.'
   - '1562 m.'
   - '1569 m.'
   - '1575 m.'
@@ -19,7 +20,7 @@ periodo_grupes:
 amziai:
   - 'XVI'
   - 'XVIII'
-date_start: '1562'
+date_start: '1519'
 date_end: '1787'
 patikimumas: 'vidutinis'
 tags:
@@ -39,7 +40,7 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Nesvyžiaus Radvilų liejykloje 1602 m. buvo nulietas objektas su Radvilų herbu ir užrašu.'
+  teiginys: 'Nesvyžiaus Radvilų liejykloje 1602 m. buvo nulieta patranka su Radvilų herbu ir užrašu.'
   pagrindžia:
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -51,11 +52,11 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-004
-  teiginys: 'Gotikinių LDK cerkvių stilius turi analogų ir rezidencijų architektūroje (Myro pilis prie Nesvyžiaus), o kartu, atrodo, yra fenomenalus visos Europos kultūroje – tad labiausiai į rytus nutolusi gotika yra istorinėje Lietuvoje, tai yra europinės reikšmės riba.'
+  teiginys: 'Myro pilis prie Nesvyžiaus laikoma viena iš gotikinių LDK cerkvių stiliaus analogijų rezidencijų architektūroje.'
   pagrindžia:
     - c-004
 - t-005
-  teiginys: 'Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su Radvilomis ėmė konkuruoti ir Chodkevičiai: jie įsteigė spaustuvę Zabluduve ir priglobė pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, nulėmusį stačiatikišką jos pobūdį.'
+  teiginys: 'Radvila Juodasis 1562 m. įkūrė spaustuvę Nesvyžiuje.'
   pagrindžia:
     - c-005
 - t-006
@@ -66,6 +67,14 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   teiginys: 'Nuo 1586 m. Nesvyžiaus jėzuitų bažnyčios iki Vilniaus katedros fasado skulptūrų, sukurtų 1784–1787 m. du šimtus metų Lietuva gyveno baroko dvasia.'
   pagrindžia:
     - c-007
+- t-008
+  teiginys: 'Vilniaus praeities žinovas Mikalojus Malinovskis padėjo istorikui pasinaudoti Radvilų Nesvyžiaus archyvu.'
+  pagrindžia:
+    - c-008
+- t-009
+  teiginys: 'Vaitiekus II Radvila, Olykos ir Nesvyžiaus kunigaikštis, mirė 1519 m. liepos 5 d. ir vyskupo pareigas ėjo 11 metų.'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -88,7 +97,7 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Nesvyžiaus Radvilų liejykloje 1602 m. buvo nulietas objektas su Radvilų herbu ir užrašu.'
+  santrauka: 'Nesvyžiaus Radvilų liejykloje 1602 m. buvo nulieta patranka su Radvilų herbu ir užrašu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **XVII amž. patrankos**
@@ -120,7 +129,7 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   pagrindžia:
     - t-003
 - c-004
-  santrauka: 'Gotikinių LDK cerkvių stilius turi analogų ir rezidencijų architektūroje (Myro pilis prie Nesvyžiaus), o kartu, atrodo, yra fenomenalus visos Europos kultūroje – tad labiausiai į rytus nutolusi gotika yra istorinėje Lietuvoje, tai yra europinės reikšmės riba.'
+  santrauka: 'Myro pilis prie Nesvyžiaus laikoma viena iš gotikinių LDK cerkvių stiliaus analogijų rezidencijų architektūroje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Gotikinių LDK cerkvių stilius turi analogų ir rezidencijų architektūroje
@@ -135,7 +144,7 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   pagrindžia:
     - t-004
 - c-005
-  santrauka: 'Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su Radvilomis ėmė konkuruoti ir Chodkevičiai: jie įsteigė spaustuvę Zabluduve ir priglobė pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, nulėmusį stačiatikišką jos pobūdį.'
+  santrauka: 'Radvila Juodasis 1562 m. įkūrė spaustuvę Nesvyžiuje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vėliau Radvila Juo-
@@ -181,3 +190,33 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-008
+  santrauka: 'Vilniaus praeities žinovas Mikalojus Malinovskis padėjo istorikui pasinaudoti Radvilų Nesvyžiaus archyvu.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Vilniaus praeities žinovas Mikalojus Malinovskis padėjo
+    istorikui pasinaudoti Radvilų Nesvyžiaus archyvu. Grafas Ado­
+    mas Chreptavičius tyrinėtojui plačiai atvėrė savo Ščorsų biblio­
+    tekos turtus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: 'Vaitiekus II Radvila, Olykos ir Nesvyžiaus kunigaikštis, mirė 1519 m. liepos 5 d. ir vyskupo pareigas ėjo 11 metų.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    11. Vaitiekus II Radvila, vadintas varguolių tėvu, Olykos
+    ir Nesvyžiaus kunigaikštis, su šiuo pasauliu atsisveikino
+    1519 metų liepos 5 dieną, vyskupo pareigas ėjo tad 11 metų.
+    12.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009

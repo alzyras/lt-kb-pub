@@ -60,7 +60,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-005
-  teiginys: '2 ## Puslapis 19 [tuščias arba OCR neatpažino teksto] ## Puslapis 20 NUO PAGONIŠKOSIOS IKI VYTAUTO IMPERIJOS Baltų gentys Pirmajame tūkstantmetyje po Kristaus baltų gentys ir toliau gyveno plačioje teritorijoje - nuo maždaug Vyslos ir Dauguvos žemupių iki.'
+  teiginys: 'Pirmajame tūkstantmetyje baltų gentys gyveno plačioje teritorijoje nuo Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.'
   pagrindžia:
     - c-005
 - t-006
@@ -80,21 +80,17 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   pagrindžia:
     - c-009
 - t-010
-  teiginys: 'Lie­ tuvoje tos medžiotojų — žvejų kultūros, kuri visada vadinama svi­ drinės kultūros vardu (Swidry — prie Vyslos Lenkijoje), židinių yra ne maža^2.'
+  teiginys: 'Svidrinės kultūros vardas siejamas su Svidrais prie Vyslos Lenkijoje.'
   pagrindžia:
     - c-010
 - t-011
-  teiginys: 'Proistorikams sudarė atskirą įdomų klausimą tai, kad tarp Vyslos ir Dauguvos gyventojų vartojamieji žemei dirbti akmeniniai kapliai (kirvukai), kuriais buvo pradrėskiama, daužoma, ar purenama žemė, savo išvaizda skyrėsi nuo kitų sričių kaplių.'
+  teiginys: 'Tarp Vyslos ir Dauguvos gyventojų naudoti akmeniniai kapliai savo išvaizda skyrėsi nuo kitų sričių kaplių.'
   pagrindžia:
     - c-011
 - t-012
-  teiginys: 'Ordinas buvo numatęs pristatyti panašių burgų ir verderių kaip tie, kurie buvo išdėstyti prie Vyslos Šv. Marijos garbei.'
+  teiginys: 'Ordinas buvo numatęs pristatyti panašių burgų ir verderių kaip tie, kurie buvo išdėstyti prie Vyslos.'
   pagrindžia:
     - c-012
-- t-013
-  teiginys: 'Susijungusios Červinske prie Vyslos lietuvių ir lenkų jėgos turėjo žygiuoti į Marienburgą^5.'
-  pagrindžia:
-    - c-013
 - t-014
   teiginys: 'Išplaukęs Vysla į jūrą, jis priplaukė krantą Priegliaus žiotyse.'
   pagrindžia:
@@ -107,6 +103,18 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   teiginys: 'Surinkę savo jėgas ir prisisamdę Vakaruose daug karių, ypač čekų, Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (prie Vyslos).'
   pagrindžia:
     - c-016
+- t-017
+  teiginys: 'Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).'
+  pagrindžia:
+    - c-017
+- t-018
+  teiginys: 'Lietuvių tautos atšakos užėmė Baltijos pakrantę nuo Dvinos iki Vyslos.'
+  pagrindžia:
+    - c-018
+- t-019
+  teiginys: 'Didysis magistras slapčia iš Marienburgo išplaukė Vysla laivais, o paskui jūros įlanka įplaukė į Nemuną.'
+  pagrindžia:
+    - c-019
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -175,7 +183,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   pagrindžia:
     - t-004
 - c-005
-  santrauka: '2 ## Puslapis 19 [tuščias arba OCR neatpažino teksto] ## Puslapis 20 NUO PAGONIŠKOSIOS IKI VYTAUTO IMPERIJOS Baltų gentys Pirmajame tūkstantmetyje po Kristaus baltų gentys ir toliau gyveno plačioje teritorijoje - nuo maždaug Vyslos ir Dauguvos žemupių iki.'
+  santrauka: 'Pirmajame tūkstantmetyje baltų gentys gyveno plačioje teritorijoje nuo Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     2
@@ -267,7 +275,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   pagrindžia:
     - t-009
 - c-010
-  santrauka: 'Lie­ tuvoje tos medžiotojų — žvejų kultūros, kuri visada vadinama svi­ drinės kultūros vardu (Swidry — prie Vyslos Lenkijoje), židinių yra ne maža^2.'
+  santrauka: 'Svidrinės kultūros vardas siejamas su Svidrais prie Vyslos Lenkijoje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Lie­
@@ -284,7 +292,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   pagrindžia:
     - t-010
 - c-011
-  santrauka: 'Proistorikams sudarė atskirą įdomų klausimą tai, kad tarp Vyslos ir Dauguvos gyventojų vartojamieji žemei dirbti akmeniniai kapliai (kirvukai), kuriais buvo pradrėskiama, daužoma, ar purenama žemė, savo išvaizda skyrėsi nuo kitų sričių kaplių.'
+  santrauka: 'Tarp Vyslos ir Dauguvos gyventojų naudoti akmeniniai kapliai savo išvaizda skyrėsi nuo kitų sričių kaplių.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Proistorikams sudarė atskirą įdomų klausimą tai, kad tarp Vyslos
@@ -307,7 +315,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   pagrindžia:
     - t-011
 - c-012
-  santrauka: 'Ordinas buvo numatęs pristatyti panašių burgų ir verderių kaip tie, kurie buvo išdėstyti prie Vyslos Šv. Marijos garbei.'
+  santrauka: 'Ordinas buvo numatęs pristatyti panašių burgų ir verderių kaip tie, kurie buvo išdėstyti prie Vyslos.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Jie buvo
@@ -323,7 +331,7 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   pagrindžia:
     - t-012
 - c-013
-  santrauka: 'Susijungusios Červinske prie Vyslos lietuvių ir lenkų jėgos turėjo žygiuoti į Marienburgą^5.'
+  santrauka: 'Červinske prie Vyslos susijungusios lietuvių ir lenkų jėgos turėjo žygiuoti į Marienburgą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Susijungusios Červinske prie Vyslos lietuvių ir lenkų
@@ -383,3 +391,62 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-016
+- c-017
+  santrauka: 'Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta
+    venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos
+    žiočių iki pat Samlandijos (Sembos). Į rytus nuo Dvinos prie
+    jų šliejosi estų, gausios suomių padermės atšakos, gyven­
+    vietės.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
+- c-018
+  santrauka: 'Lietuvių tautos atšakos užėmė Baltijos pakrantę nuo Dvinos iki Vyslos.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Ta lietuvių tauta, išsis­
+    kyrusi į šešias pagrindines atšakas: prūsus, žemaičius, kur­
+    šius, latvius, jotvingius ir lietuvius, žemėse palei Viliją, arba
+    tikrojoj Lietuvoj, užėmė visą Baltijos pakrantę, nuo Dvinos
+    iki Vyslos, o į žemyno gilumą buvo pasistūmėjusi tiesiog iki
+    Nemuno ir Būgo žiočių. Prūsai - apie jų kalbą pasakytina,
+    kad pasidavė kaimynų gotų įtakai; jotvingiai, labiau negu
+    palei Viliją gyvenę ar aukštaičiai, pasistūmėję į Rusios gilu­
+    mą, kalba ir papročiais į slavus panašūs; vien tik Žemaitija,
+    iki pat Baltijos jūros siekianti, kaip lietuvių genties centras,
+    išsaugojo gryniausius savo padermės bruožus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018
+- c-019
+  santrauka: 'Didysis magistras slapčia iš Marienburgo išplaukė Vysla laivais, o paskui jūros įlanka įplaukė į Nemuną.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    52
+    Tas žygis buvo paskubomis ir slap­
+    ta suruoštas, ir todėl didysis magist­
+    ras tuokart mažai teturėjo svetimša­
+    lių, juk nesigarsino po visą Europą,
+    o slapčia iš Marienburgo išplaukė
+    Vysla laivais, paskui jūros įlanka
+    įplaukė į Nemuną. Mūsų istorikai
+    bendrais bruožais ir ne taip išsamiai
+    apie šitai pasakoja.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019

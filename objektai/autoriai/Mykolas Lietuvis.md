@@ -14,16 +14,12 @@ vaidmenys:
   - "raštininkas"
 dalyviai: []
 susije_irasai: []
-datos:
-  - '1523 m.'
-  - '1550 m.'
-periodas: 'LDK laikotarpis'
-periodo_grupes:
-  - 'LDK'
-amziai:
-  - 'XVI'
-date_start: '1523'
-date_end: '1550'
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
 patikimumas: "aukštas"
 tags:
   - autorius
@@ -52,13 +48,21 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-008
-  teiginys: '(Kaip liudija Mykolas Lietuvis, jos su kitomis čia saugotomis sudegė per 1530 m. gaisrą).'
+  teiginys: 'Mykolas Lietuvis liudijo, kad Vilniaus katedroje saugotos trofėjinės vėliavos sudegė per 1530 m. gaisrą.'
   pagrindžia:
     - c-002
 - t-009
   teiginys: 'Mykolas Lietuvis siūlė atsisakyti rusėnų kalbos ir pereiti prie lotynų kalbos.'
   pagrindžia:
     - c-003
+- t-010
+  teiginys: 'Mykolas Lietuvis liudijo, kad seniau totoriai garsėjo santūrumu, svetingumu ir iš kartos į kartą perduodamomis dorybėmis.'
+  pagrindžia:
+    - c-004
+- t-012
+  teiginys: 'Mykolas Lietuvis rašė apie Keturiasdešimties Totorių kaimo pavadinimo kilmę.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -79,7 +83,7 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
     - t-006
     - t-007
 - c-002
-  santrauka: '(Kaip liudija Mykolas Lietuvis, jos su kitomis čia saugotomis sudegė per 1530 m. gaisrą).'
+  santrauka: 'Mykolas Lietuvis liudijo, kad Vilniaus katedroje saugotos trofėjinės vėliavos sudegė per 1530 m. gaisrą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Čia, valdovui grįžus, įvyko
@@ -117,11 +121,58 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-009
+- c-004
+  santrauka: 'Mykolas Lietuvis liudijo, kad seniau totoriai garsėjo santūrumu, svetingumu ir iš kartos į kartą perduodamomis dorybėmis.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    62
+    Kaip seniau totoriai garsėjo santū­
+    rumu, svetingumu ir kitomis iš kar­
+    tų kartoms pereinančiomis dorybė­
+    mis, liudija Mykolas Lietuvis,
+    vienintelis autentiškų raštų apie sa­
+    vo tautos papročius autorius, kuris
+    bando (gal ir apsirinka) totorius ver­
+    tesniais už savo tėvynainius esant
+    pripažinti. Žr. retą jo kūrinėlį: Mi­
+    kalonis Lituani, de M oribus Tartarorum,
+    Lituanorum et M oschorum, Fragmina X,
+    multiplici historia referta etc. nunc pri-
+    M um per J. J a c. G r a s s e r u in, C. P.
+    cx Manuscripto authentico edita. Basi-
+    ^’ne, apud Conrad Waldkirchium
+    MDCXV - nurodo jis savo kūrinėlio
+    gale: Epithomefragminis secundi, p. 14.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+- c-006
+  santrauka: 'Mykolas Lietuvis rašė apie Keturiasdešimties Totorių kaimo pavadinimo kilmę.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    63
+    Tolesniuose mūsų istorijos pasakoji­
+    muose plačiau išdėstysime apie tą to­
+    torių gyvenamą miesto dalį; prie Vo­
+    kės, be kitų totorių, buvo apsigyvenę
+    40 brolių, todėl iki šios dienos ta gy­
+    venvietė vadinama Sorok Tatary, iš ru­
+    sų k. išvertus reiškia - Keturiasdešim­
+    ties Totorių kaimas. Apie tai yra rašęs
+    Mykolas L i e t u v i s, p. 28.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Maskvėnai]]
-- [[objektai/grupes/Rusėnai]]
 - [[objektai/paprociai/Kronikų rašymo ir lietuvių kilmės iš romėnų mito perėmimas]]
 - [[objektai/paprociai/Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose]]

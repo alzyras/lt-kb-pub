@@ -108,6 +108,7 @@ Vytautas sutiko ir pasiuntė įkaitais savo brolį Zigmantą su šio sūnum Myko
 - [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.)]]
 - [[objektai/asmenys/Spytkas iš Melsztyno]]
 - [[objektai/grupes/Tverės kunigaikštystė]]
+- [[objektai/grupes/Vilniaus sukilimo centrinis komitetas]]
 - [[objektai/ivykiai/Vytauto palaidojimas Vilniaus katedroje]]
 - [[objektai/daiktai/Vytauto vėliava]]
 - [[objektai/zodynas/etmonų teisė]]

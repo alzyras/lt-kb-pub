@@ -71,6 +71,7 @@ Nenurodyta
 - [[temos/upė]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Andrius Algirdaitis]]
 - [[objektai/asmenys/Skirgaila]]
 - [[objektai/zodynas/metropolitas]]
 - [[objektai/ivykiai/Polocko maištas prieš Skirgailą (1381 m. pavasaris)]]

@@ -51,9 +51,17 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-004
-  teiginys: 'Berods, to žygio metu paim­ tieji karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose^22.'
+  teiginys: '1398 m. žygio metu paimti karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'Karaimų atvykimas į Lietuvą priskiriamas Vytauto viešpatavimo laikams.'
+  pagrindžia:
+    - c-005
+- t-006
+  teiginys: 'Trakuose gyvenę karaimai vertėsi daržininkyste ir agurkus vežė į Vilniaus turgus.'
+  pagrindžia:
+    - c-006
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -100,7 +108,7 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
   pagrindžia:
     - t-003
 - c-004
-  santrauka: 'Berods, to žygio metu paim­ tieji karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose^22.'
+  santrauka: '1398 m. žygio metu paimti karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Antrajame žygyje (1398) Vytautas Dniepro žiotyse pastatė
@@ -113,11 +121,63 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Karaimų atvykimas į Lietuvą priskiriamas Vytauto viešpatavimo laikams.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Bet Vytauto privilegija negalio­
+    jo žydų kitai sektai, vadinamai ka­
+    raimais, Lietuvoje, Trakų mieste, ir
+    labai menkoje Vilniaus dalyje įsikū-
+    rusiems. Tie karaimai, kurie išties
+    galėtų būti vadinami žvdų disiden­
+    tais, atkeliavo į Lietuvą iš rytų, o
+    įvairias aplinkybes įvertinęs, numa­
+    nau, kad jų atvykimą reikėtų Vytau­
+    to viešpatavimo laikams priskirti,
+    juk šis kunigaikštis, kurio valdžia
+    siekė tolimus rytų kraštus, noriai
+    priimdavo ateivius iš tų šalių ir juos
+    priglobdavo. Karaimai, gyvenantys
+    Trakuose, nors skurdžiai būdami ir
+    ne taip pašėlusiai besigriebiantys ri­
+    zikingiausių prekybinių sumany­
+    mų, kaip žydai, yra betgi garbingi,
+    ramūs ir darbštūs; gyvena Trakuo­
+    se, manydamiesi iš daržų, kur gau­
+    siai dera agurkai, kuriuos vežimais
+    į Vilniaus turgus gabena.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005
+- c-006
+  santrauka: 'Trakuose gyvenę karaimai vertėsi daržininkyste ir agurkus vežė į Vilniaus turgus.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Karaimai, gyvenantys
+    Trakuose, nors skurdžiai būdami ir
+    ne taip pašėlusiai besigriebiantys ri­
+    zikingiausių prekybinių sumany­
+    mų, kaip žydai, yra betgi garbingi,
+    ramūs ir darbštūs; gyvena Trakuo­
+    se, manydamiesi iš daržų, kur gau­
+    siai dera agurkai, kuriuos vežimais
+    į Vilniaus turgus gabena.
+    69
+    Žr.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-006
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/paprociai/Gedimino kvietimas Vakarų pirkliams, amatininkams ir kolonistams į Lietuvą]]
 - [[objektai/paprociai/LDK daugiakonfesiškumo juridinis įforminimas ir religinė tolerancija]]
 - [[objektai/ivykiai/Vytauto žygiai prie Juodosios jūros ir Krymo (1397–1398 m.)]]

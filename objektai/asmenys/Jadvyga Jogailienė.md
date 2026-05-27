@@ -26,7 +26,7 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
 
 ## Teiginiai
 - t-001
-  teiginys: 'Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpiūčio 5 d.).'
+  teiginys: 'Jadvyga Jogailienė 1392 m. rugpjūčio 5 d. Astravoje gavo Onos Vytautienės laidavimą, kad Vytautas laikysis taikos sąlygų.'
   pagrindžia:
     - c-001
 - t-003
@@ -38,7 +38,7 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   pagrindžia:
     - c-004
 - t-005
-  teiginys: '1386 m. vasario 18 d. Jogaila susituokė su Jadvyga Jogailiene, o kovo 4 d. buvo karūnuotas Lenkijos karaliumi.'
+  teiginys: '1386 m. vasario 18 d. Jogaila susituokė su Jadvyga, o kovo 4 d. buvo karūnuotas Lenkijos karaliumi.'
   pagrindžia:
     - c-005
 - t-006
@@ -49,24 +49,20 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   teiginys: 'Tuo reikalu pas popiežių buvo siunčiamas kanauninkas Mykolas Trombas (Trąb), bet Vokieti­ joje Habsburgai jį sulaikė, keršydami Jogailai, kad buvo vedęs Vilhelmui Habsburgui pažadėtą lenkų karalaitę Jadvygą.'
   pagrindžia:
     - c-007
-- t-008
-  teiginys: 'Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo kurį laiką gyveno Vil­ niuje, paskui ėjo kapeliono ir sekretoriaus pareigas Vengrų ka­ ralienės Elžbietos, Jadvygos motinos.'
-  pagrindžia:
-    - c-008
 - t-009
-  teiginys: 'Bet jam pavyko dvi savo karalystes — Vengrų ir Len­ kijos — paskirti savo dviem dukterim: Jadvygai ir Marijai.'
+  teiginys: 'Jadvyga buvo viena iš dviejų dukterų, kurioms tėvas paskyrė Vengrijos ir Lenkijos karalystes.'
   pagrindžia:
     - c-009
 - t-010
-  teiginys: 'Ka­ ralienė Elžbieta bijodama nustoti Lenkijos, pasiuntė savo ketu­ riolikos metų dukterį Jadvygą, kuri 1384 m. spalių 13 d. iškilmin­ gai įvažiavo į Krokuvą ir po dviejų dienų buvo karūnuota „Lenki­ jos karalium“.'
+  teiginys: 'Jadvyga 1384 m. spalio 13 d. iškilmingai įvažiavo į Krokuvą, o po dviejų dienų buvo karūnuota Lenkijos karaliumi.'
   pagrindžia:
     - c-010
 - t-011
-  teiginys: 'Jadvyga nepalankiai žiūrėjo į Vytauto politiką rytuose ir jo elgesį su Volynija ir Podolija: Jogaila gi prijautė Vytautui, (^1) ) Hal., 146, 147.'
+  teiginys: 'Jadvyga nepalankiai žiūrėjo į Vytauto politiką rytuose ir jo elgesį su Voluinija bei Podolija.'
   pagrindžia:
     - c-011
 - t-012
-  teiginys: 'Tada Jadvyga „mylimam broliui“ (taip ji rašė) Vytautui laišku priminė, kad tos Lietuvos ir Rusijos žemės, kurias valdė Jogaila prieš ją vesdamas, užrašy­ tos jai kraičiu1 2), ir todėl už jas reikalauja iš jo mokėti jai metinį činšą^3 ).'
+  teiginys: 'Jadvyga laišku priminė Vytautui, kad Jogailos prieš vedybas valdytos Lietuvos ir Rusijos žemės jai užrašytos kraičiu.'
   pagrindžia:
     - c-012
 - t-013
@@ -78,17 +74,29 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   pagrindžia:
     - c-014
 - t-015
-  teiginys: 'Pagal Krėvos sutarties sąlygas Lenkijos karalaitė Jadvyga Jogailienė turėjo tapti Jogailos žmona.'
+  teiginys: 'Krėvos sutarties sąlygomis Jogaila turėjo vesti Lenkijos karalaitę Jadvygą.'
   pagrindžia:
     - c-015
 - t-016
-  teiginys: 'ABIEJŲ TAUTŲ RESPUBLIKA Liublino unija 1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas.'
+  teiginys: '1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas.'
   pagrindžia:
     - c-016
+- t-017
+  teiginys: 'Žinia apie sėkmingas Jogailos derybas dėl Jadvygos rankos paskatino didįjį magistrą 1385 m. rugpjūtį pulti Lietuvą.'
+  pagrindžia:
+    - c-017
+- t-018
+  teiginys: 'Jadvyga 1387 m. sausį kartu su Jogaila atvyko į Vilnių ir, pasak citatos, troško skleisti krikščionybę.'
+  pagrindžia:
+    - c-018
+- t-019
+  teiginys: 'Karalienė Jadvyga iš savo lobyno apdovanojo pašventintą Vilniaus bažnyčią brangiais rykais ir kita manta.'
+  pagrindžia:
+    - c-019
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpiūčio 5 d.).'
+  santrauka: 'Jadvyga Jogailienė 1392 m. rugpjūčio 5 d. Astravoje gavo Onos Vytautienės laidavimą, kad Vytautas laikysis taikos sąlygų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     **III. Onos Vytautienės raštas Jadvygai Jogailienei** (rašytas Astravoje
@@ -144,7 +152,7 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   pagrindžia:
     - t-004
 - c-005
-  santrauka: '1386 m. vasario 18 d. Jogaila susituokė su Jadvyga Jogailiene, o kovo 4 d. buvo karūnuotas Lenkijos karaliumi.'
+  santrauka: '1386 m. vasario 18 d. Jogaila susituokė su Jadvyga, o kovo 4 d. buvo karūnuotas Lenkijos karaliumi.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Po krikšto įvyko jo jung-
@@ -191,23 +199,8 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
-- c-008
-  santrauka: 'Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo kurį laiką gyveno Vil­ niuje, paskui ėjo kapeliono ir sekretoriaus pareigas Vengrų ka­ ralienės Elžbietos, Jadvygos motinos.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Jis, būdamas dar pranciškonų ku­
-    nigas, kartu su savo broliu prie Algirdo kurį laiką gyveno Vil­
-    niuje, paskui ėjo kapeliono ir sekretoriaus pareigas Vengrų ka­
-    ralienės Elžbietos, Jadvygos motinos. 1377 m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-008
 - c-009
-  santrauka: 'Bet jam pavyko dvi savo karalystes — Vengrų ir Len­ kijos — paskirti savo dviem dukterim: Jadvygai ir Marijai.'
+  santrauka: 'Jadvyga buvo viena iš dviejų dukterų, kurioms tėvas paskyrė Vengrijos ir Lenkijos karalystes.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Bet jam pavyko dvi savo karalystes — Vengrų ir Len­
@@ -223,7 +216,7 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   pagrindžia:
     - t-009
 - c-010
-  santrauka: 'Ka­ ralienė Elžbieta bijodama nustoti Lenkijos, pasiuntė savo ketu­ riolikos metų dukterį Jadvygą, kuri 1384 m. spalių 13 d. iškilmin­ gai įvažiavo į Krokuvą ir po dviejų dienų buvo karūnuota „Lenki­ jos karalium“.'
+  santrauka: 'Jadvyga 1384 m. spalio 13 d. iškilmingai įvažiavo į Krokuvą, o po dviejų dienų buvo karūnuota Lenkijos karaliumi.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Ka­
@@ -239,7 +232,7 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   pagrindžia:
     - t-010
 - c-011
-  santrauka: 'Jadvyga nepalankiai žiūrėjo į Vytauto politiką rytuose ir jo elgesį su Volynija ir Podolija: Jogaila gi prijautė Vytautui, (^1) ) Hal., 146, 147.'
+  santrauka: 'Jadvyga nepalankiai žiūrėjo į Vytauto politiką rytuose ir jo elgesį su Voluinija bei Podolija.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Jadvyga nepalankiai žiūrėjo į Vytauto politiką rytuose ir
@@ -268,7 +261,7 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   pagrindžia:
     - t-011
 - c-012
-  santrauka: 'Tada Jadvyga „mylimam broliui“ (taip ji rašė) Vytautui laišku priminė, kad tos Lietuvos ir Rusijos žemės, kurias valdė Jogaila prieš ją vesdamas, užrašy­ tos jai kraičiu1 2), ir todėl už jas reikalauja iš jo mokėti jai metinį činšą^3 ).'
+  santrauka: 'Jadvyga laišku priminė Vytautui, kad Jogailos prieš vedybas valdytos Lietuvos ir Rusijos žemės jai užrašytos kraičiu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tada Jadvyga „mylimam
@@ -319,7 +312,7 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   pagrindžia:
     - t-014
 - c-015
-  santrauka: 'Pagal Krėvos sutarties sąlygas Lenkijos karalaitė Jadvyga Jogailienė turėjo tapti Jogailos žmona.'
+  santrauka: 'Krėvos sutarties sąlygomis Jogaila turėjo vesti Lenkijos karalaitę Jadvygą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1385 m. rugpjūčio 14 d. į Krėvos pilį atvyko lenkų delegacija. Lenkai,
@@ -337,7 +330,7 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   pagrindžia:
     - t-015
 - c-016
-  santrauka: 'ABIEJŲ TAUTŲ RESPUBLIKA Liublino unija 1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas.'
+  santrauka: '1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     ABIEJŲ TAUTŲ RESPUBLIKA
@@ -352,15 +345,79 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-016
+- c-017
+  santrauka: 'Žinia apie sėkmingas Jogailos derybas dėl Jadvygos rankos paskatino didįjį magistrą 1385 m. rugpjūtį pulti Lietuvą.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Kai tik Prūsiją pasiekė žinia, kad Jogailos derybos su Lenki­
+    jos didikais ir Vengrijos karaliene Elžbieta dėl Jadvygos ran­
+    kos sėkmingos, didysis magistras Konradas Ciolneris Ro-
+    tenšteinas tuojau pat, surinkęs didžiules pajėgas, 1385 metų
+    rugpjūtį ties Kaunu persikėlė per Nemuną ir ėmė siautėti
+    visame krašte. Vilnius, tiesa, turėdamas tvirtovėse labai stip­
+    rias įgulas, išvengė puolimo, bet aplinkinės žemės iki Medi­
+    ninkų, netgi iki pat Ašmenos, buvo didžiojo magistro nunio­
+    kotos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
+- c-018
+  santrauka: 'Jadvyga 1387 m. sausį kartu su Jogaila atvyko į Vilnių ir, pasak citatos, troško skleisti krikščionybę.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    ,
+    106
+
+    ## Puslapis 123
+
+    Il KNYGA
+    Galop išsižadėjęs jau apnykusių pagonybės prietarų, kaip
+    naujas Kristaus tikėjimo išpažinėjas ir uolus savo tautos
+    apaštalas, 1387 metų sausį lietuvių žemėje Gedimino sostinė­
+    je atsirado Vladislovas Jogaila. Kartu su juo atvyko žavesiu ir
+    tauriais jausmais švytinti Jadvyga, irgi trokštanti skleisti krikš­
+    čionybę, Jogailos giminės vasaliniai kunigaikščiai, Gniezno
+    arkivyskupas ir Krokuvos vyskupas, Mazovijos kunigaikš­
+    čiai, daugybė lenkų didikų ir kunigaikščių, pagaliau pa­
+    krikštytieji Krokuvoje. Lietuviai bajorai buvo puiki tų dviejų
+    pirmaujančios anuomet Šiaurėje valstybės valdovų svita.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018
+- c-019
+  santrauka: 'Karalienė Jadvyga iš savo lobyno apdovanojo pašventintą Vilniaus bažnyčią brangiais rykais ir kita manta.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Iškilmingai,
+    dalyvaujant lietuvių ir lenkų kunigaikščiams bei didikams,
+    ją pašventino Gniezno arkivyskupas Bodzanta, o karalienė
+    Jadvyga iš savo pačios lobyno skrynių apdovanojo brangiais
+    rykais ir visokia manta. Lenkų didžponiams patarus, pir­
+    muoju Vilniaus diecezijos vyskupu Vladislovas Jogaila iš­
+    rinko Andrių iš Vasilevo Važilą, dar vadinamą Vasilionu, iš
+    Jastžembcų giminės, lenką, Mažesniųjų brolių ordino vie­
+    nuolį, Cereto vyskupą, kadaise Vengrijos karalienės Elžbie­
+    tos nuodėmklausį, pavyzdingą vyrą ir garsų pamokslinin­
+    ką9.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/karalienė]]
+
 ### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/ivykiai/Liublino unija (1569 m.)]]
-- [[objektai/zodynas/applicare]]
-- [[objektai/zodynas/unija]]
-- [[objektai/posakiai/„prišlieti“]]
-- [[objektai/posakiai/„Šventos santuokos“]]
-- [[objektai/asmenys/Jadvyga]]
+- [[objektai/ivykiai/Lietuvos krikštas Vilniuje (1387 m.)]]

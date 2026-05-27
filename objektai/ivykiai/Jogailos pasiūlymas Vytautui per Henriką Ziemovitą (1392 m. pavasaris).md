@@ -72,4 +72,4 @@ Nenurodyta
 - [[objektai/daiktai/Karūna]]
 - [[objektai/asmenys/Ziemovitas]]
 - [[objektai/zodynas/vasalas]]
-- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/asmenys/Jogaila]]

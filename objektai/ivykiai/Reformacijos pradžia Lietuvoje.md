@@ -80,5 +80,6 @@ Nenurodyta
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/autoriai/Liuteris]]
+- [[objektai/asmenys/Abraomas Kulvietis]]
 - [[objektai/asmenys/Martynas Liuteris]]
 - [[objektai/zodynas/reformacija protestantizmas kalvinizmas]]

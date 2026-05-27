@@ -98,4 +98,4 @@ Autoriaus formulė apibendrina Vytauto kovą dėl teisių kaip siekį, kuriam pa
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/tėviškė]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Vytautas]]

@@ -32,6 +32,10 @@ Kai per Lietuvos jėzuitų kolegijas ir Vilniaus Akademiją lotynų kalba vis da
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Pilaitė, buvusi jėzuitų nuosavybė, vėliau atiteko Vilniaus universitetui.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -56,7 +60,31 @@ Kai per Lietuvos jėzuitų kolegijas ir Vilniaus Akademiją lotynų kalba vis da
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Pilaitė, buvusi jėzuitų nuosavybė, vėliau atiteko Vilniaus universitetui.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Pilaitė, jėzuitų buvusi, per mylią
+    nuo Vilniaus atstu, dešiniajame Vilijos krante, kur pastarai­
+    siais metais buvo agronomijos institutas, dabar priklauso
+    buvusiam to instituto direktoriui ponui Fričinskiui, yra vie­
+    na iš seniausių įtvirtintų vietovių prie Vilniaus. Nuo neat­
+    menamų laikų ten buvo kunigaikščių pilis, kuri vėliau do­
+    vanota Viršilų giminei, paskui perėjo Glebavičių paveldui,
+    po jų tapo jėzuitų nuosavybe, pagaliau atiteko Vilniaus uni­
+    versitetui. To dvaro lankose iki šiol dunkso pilkapis, arba
+    lietuvių sumuštų kryžiuočių kapavietė, prie Sudervėlės upe­
+    lio; apie pastarąjį mūšį užsimena Strijkovskis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Vilniaus Akademija]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/kunigaikščiai]]

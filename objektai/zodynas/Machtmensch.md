@@ -49,4 +49,4 @@ Kaip ten bebūtų, žinome viena, kad jis buvo pilna to žodžio prasme „Macht
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Vytautas]]

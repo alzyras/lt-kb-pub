@@ -83,6 +83,7 @@ Kuršiečiai, kartu su kunigaikščiu, sėkmingai perplaukė upę ir prisistatė
 - [[temos/upė]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Fridrichas (Rygos arkivyskupas)]]
 - [[objektai/zodynas/arkebuzieriai]]
 - [[objektai/zodynas/husarai]]
 - [[objektai/zodynas/rotmistras]]

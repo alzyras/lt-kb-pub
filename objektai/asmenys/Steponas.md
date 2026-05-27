@@ -51,6 +51,8 @@ Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo krikštas (100
 - [[objektai/zodynas/apsikarūnavimas]]
 - [[objektai/zodynas/christianizacija]]
 - [[objektai/daiktai/ANBO lėktuvai]]
+- [[objektai/grupes/Vilniaus miesto auksakalių cechas]]
+- [[objektai/grupes/Vilniaus miesto cechai]]
 - [[objektai/grupes/Vilniaus universitetas]]
 - [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.)]]
 - [[objektai/grupes/Vyriausiasis Lietuvos tribunolas]]

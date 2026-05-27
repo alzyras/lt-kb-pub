@@ -58,8 +58,9 @@ Ar nagrinėti pavyzdinga krašto administracija, ar tvarkyti sku­ būs Malburgo
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Vytautas]]
 - [[objektai/daiktai/Bomba]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/asmenys/Stasys Lozoraitis]]
 - [[objektai/zodynas/Status quo]]
 - [[objektai/zodynas/primus inter pares]]

@@ -108,3 +108,4 @@ Terminais žymimos senosios kulto vietos ir šventovės. Kartu pabrėžiama, kad
 ### Susiję objektai
 - [[objektai/grupes/Aisčiai]]
 - [[objektai/zodynas/kunigas]]
+- [[objektai/ivykiai/Romainių šventvietės sunaikinimas (1294 m.)]]

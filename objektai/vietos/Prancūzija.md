@@ -40,7 +40,7 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
 
 ## Teiginiai
 - t-001
-  teiginys: 'Į Prancūziją, kaip ir į Vokietiją bei Italiją, vykdavo mokytis tie, kurie nesiruošė dvasininkais.'
+  teiginys: 'Į Prancūzijos universitetus vykdavo mokytis tie, kurie nesiruošė dvasininkais.'
   pagrindžia:
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -56,7 +56,7 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   pagrindžia:
     - c-003
 - t-004
-  teiginys: 'Katalikybė buvo prielaida Italijos ir Ispanijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse – Prancūzijoje, Bavarijoje, Flandrijoje, ypač šių šalių monarchų ir aristokratų dvaruose (Flandrijoje subrendo bene žymiausias baroko dailininkas.'
+  teiginys: 'Katalikybė sudarė prielaidą Italijos ir Ispanijos baroko kultūrai plisti Prancūzijoje.'
   pagrindžia:
     - c-004
 - t-005
@@ -64,21 +64,25 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   pagrindžia:
     - c-005
 - t-006
-  teiginys: 'Taigi, LLV Konstitucija buvo antroji pasaulyje ir pirmoji Europoje, keliais mėnesiais aplenkusi Prancūzijos konstituciją.'
+  teiginys: 'LLV Konstitucija keliais mėnesiais aplenkė Prancūzijos konstituciją.'
   pagrindžia:
     - c-006
 - t-007
-  teiginys: 'LLKS Tarybos prezidiumo pirmininku išrinktas kadrinis kariškis Jonas Žemaitis-Vytautas (1929 m. baigė Kauno karo mokyklą, gavo leitenanto laipsnį, kurį laiką tarnavo 2-ajame artilerijos pulke, 1936–1938 m. studijavo Prancūzijos artilerijos mokykloje), jam.'
+  teiginys: 'Jonas Žemaitis-Vytautas 1936–1938 m. studijavo Prancūzijos artilerijos mokykloje.'
   pagrindžia:
     - c-007
 - t-008
-  teiginys: 'Ji siekė išlaikyti Lietuvos valstybės tarptautinį pripažinimą tose šalyse, kurios nepripažino Lietuvos prievartinio įjungimo į SSRS sudėtį: JAV, Kanadoje, Brazilijoje (iki 1967 m.), Kolumbijoje, Urugvajuje (iki 1977 m.), Didžiojoje Britanijoje, Prancūzijoje.'
+  teiginys: 'Prancūzija nepripažino prievartinio Lietuvos įjungimo į SSRS sudėtį.'
   pagrindžia:
     - c-008
+- t-009
+  teiginys: 'Į Prūsijoje rengiamus mūšius atvyko savanorių iš Anglijos ir Prancūzijos.'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Į Prancūziją, kaip ir į Vokietiją bei Italiją, vykdavo mokytis tie, kurie nesiruošė dvasininkais.'
+  santrauka: 'Į Prancūzijos universitetus vykdavo mokytis tie, kurie nesiruošė dvasininkais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     aukštojo mokslo, turėdavo vykti į užsienį. Tie, kurie ruošėsi dvasi-
@@ -132,7 +136,7 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   pagrindžia:
     - t-003
 - c-004
-  santrauka: 'Katalikybė buvo prielaida Italijos ir Ispanijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse – Prancūzijoje, Bavarijoje, Flandrijoje, ypač šių šalių monarchų ir aristokratų dvaruose (Flandrijoje subrendo bene žymiausias baroko dailininkas.'
+  santrauka: 'Katalikybė sudarė prielaidą Italijos ir Ispanijos baroko kultūrai plisti Prancūzijoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Katalikybė buvo prielaida Italijos ir Is-
@@ -166,7 +170,7 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   pagrindžia:
     - t-005
 - c-006
-  santrauka: 'Taigi, LLV Konstitucija buvo antroji pasaulyje ir pirmoji Europoje, keliais mėnesiais aplenkusi Prancūzijos konstituciją.'
+  santrauka: 'LLV Konstitucija keliais mėnesiais aplenkė Prancūzijos konstituciją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taigi, LLV Konstitucija buvo antroji pasaulyje ir pirmoji Europoje, keliais
@@ -181,7 +185,7 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   pagrindžia:
     - t-006
 - c-007
-  santrauka: 'LLKS Tarybos prezidiumo pirmininku išrinktas kadrinis kariškis Jonas Žemaitis-Vytautas (1929 m. baigė Kauno karo mokyklą, gavo leitenanto laipsnį, kurį laiką tarnavo 2-ajame artilerijos pulke, 1936–1938 m. studijavo Prancūzijos artilerijos mokykloje), jam.'
+  santrauka: 'Jonas Žemaitis-Vytautas 1936–1938 m. studijavo Prancūzijos artilerijos mokykloje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     LLKS Tarybos prezidiumo pirmininku iš-
@@ -197,7 +201,7 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   pagrindžia:
     - t-007
 - c-008
-  santrauka: 'Ji siekė išlaikyti Lietuvos valstybės tarptautinį pripažinimą tose šalyse, kurios nepripažino Lietuvos prievartinio įjungimo į SSRS sudėtį: JAV, Kanadoje, Brazilijoje (iki 1967 m.), Kolumbijoje, Urugvajuje (iki 1977 m.), Didžiojoje Britanijoje, Prancūzijoje.'
+  santrauka: 'Prancūzija nepripažino prievartinio Lietuvos įjungimo į SSRS sudėtį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ji siekė išlaikyti Lietuvos vals-
@@ -212,3 +216,21 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-009
+  santrauka: 'Į Prūsijoje rengiamus mūšius atvyko savanorių iš Anglijos ir Prancūzijos.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Kai rug­
+    pjūtį visa parengtis mūšiams Prūsijoj buvo baigta, dar atvy­
+    ko savanorių iš Anglijos ir Prancūzijos, kurie, tų laikų pa­
+    pročiu, noriai eidavo kariauti su pagonimis, kur tik užgirdę
+    jų esant. Tad, visuotinei tamsybei klestint, kryžiuočiai leng­
+    vai įkalbėjo tieką svetimtaučių, kad visa Lietuva iki šiol dar
+    esanti pagonių šalis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009

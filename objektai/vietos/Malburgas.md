@@ -7,15 +7,20 @@ aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
+  - '1235 m.'
+  - '1255 m.'
+  - '1281 m.'
   - '1388 m.'
   - '1404 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
+  - 'viduramžiai'
 amziai:
+  - 'XIII'
   - 'XIV'
   - 'XV'
-date_start: '1388'
+date_start: '1235'
 date_end: '1404'
 patikimumas: 'vidutinis'
 tags:
@@ -31,21 +36,19 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
 
 ## Teiginiai
 - t-001
-  teiginys: '1388–1404 m. popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII pasiuntė į Malburgą kelias bules prieš lietuvių puolimą.'
+  teiginys: '1388–1404 m. popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII į Malburgą pasiuntė kelias bules, drausdami Ordinui pulti lietuvius.'
   pagrindžia:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Ordino pasiuntinys grįžo į Malburgą aiškiai supratęs, kad Vytautas lengvai Žemaitijos neužleis, o Makras dar labiau palinko į Vytauto pusę.'
+- t-003
+  teiginys: 'Malburgas, dar vadintas Marienburgu, 1281 m. buvo pastatytas kryžiuočių.'
   pagrindžia:
-    - c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: '1388–1404 m. popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII pasiuntė į Malburgą kelias bules prieš lietuvių puolimą.'
+  santrauka: '1388–1404 m. popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII į Malburgą pasiuntė kelias bules, drausdami Ordinui pulti lietuvius.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam
@@ -61,21 +64,22 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Ordino pasiuntinys grįžo į Malburgą aiškiai supratęs, kad Vytautas lengvai Žemaitijos neužleis, o Makras dar labiau palinko į Vytauto pusę.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+- c-003
+  santrauka: 'Malburgas, dar vadintas Marienburgu, 1281 m. buvo pastatytas kryžiuočių.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Prie šio teisėtų
-    įpėdinių veto pridėjo savo žodį ir Žemaičių bajorai, pasisaky­
-    dami neužleisią niekam savo krašto.
-    Pasireiškus tokiems abiejų pusių skirtumams, Kauno salos
-    suvažiavimas nutrūko. Ordino pasiuntinys grįžo į Malburgą
-    aiškiai supratęs, kad Vytautas lengvai Žemaitijos neužleis, o
-    Makras dar labiau palinko į Vytauto pusę.
-  citata_rodoma: ""
+    1255 me­
+    tais iškilo Karaliaučius, įkurtas padedant Čekijos karaliui Oto­
+    kami; Torunę -1235 metais, Malburgas [Marienburgas] -1281
+    metais, pastatyti kryžiuočių; galiausiai XIV amžiuje buvo įkurti
+    bemaž visi Varmės miestai.
+    Tuo pačiu keliu kaip Henrikas Paukštininkas Vokietijoje, tik
+    amžiumi vėliau, Lenkijoje pasuko vienas galingiausių anų lai­
+    kų karalių - Boleslovas Didysis, pramintas Narsiuoju.
+  citata_rodoma: ''
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
+  patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-002
+    - t-003

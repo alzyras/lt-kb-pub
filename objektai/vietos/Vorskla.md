@@ -46,7 +46,7 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Kai Vytautas priartėjo prie Vorsklos upės kranto, ten atvyko Timur-Kutlugo vadas Edyga.'
+  teiginys: 'Kai Vytautas priartėjo prie Vorsklos upės, ten atvyko Timur-Kutlugo vadas Edyga.'
   pagrindžia:
     - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -66,13 +66,17 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
   pagrindžia:
     - c-005
 - t-006
-  teiginys: 'Rugpjūčio pradžioje kariuomenė, persikėlusi per Dnieprą, jo kairiuoju krantu patraukė į Šarvinių pirštinių rekonstrukcija stepes, kur laukė prie kairiojo Dniepro intako Vorsklos, prie Ordos valdų paribių, susitiko su Aukso ordos chano Timūr-Kutluko kariuomene.'
+  teiginys: 'Prie Vorsklos, kairiojo Dniepro intako, Vytauto kariuomenė susitiko su Aukso ordos chano Timūr-Kutluko kariuomene.'
   pagrindžia:
     - c-006
 - t-007
   teiginys: 'Vytauto pralaimėjimas ties Vorskla buvo baisus, sukrėtęs jo likimą iš pamatų: jo galybė sumažėjo ir Lietuvoj ir Rusijoj.'
   pagrindžia:
     - c-007
+- t-008
+  teiginys: 'Andrius žuvo prie Vorsklos 1399 metais.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -91,7 +95,7 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Kai Vytautas priartėjo prie Vorsklos upės kranto, ten atvyko Timur-Kutlugo vadas Edyga.'
+  santrauka: 'Kai Vytautas priartėjo prie Vorsklos upės, ten atvyko Timur-Kutlugo vadas Edyga.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tokios didelės
@@ -158,7 +162,7 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
   pagrindžia:
     - t-005
 - c-006
-  santrauka: 'Rugpjūčio pradžioje kariuomenė, persikėlusi per Dnieprą, jo kairiuoju krantu patraukė į Šarvinių pirštinių rekonstrukcija stepes, kur laukė prie kairiojo Dniepro intako Vorsklos, prie Ordos valdų paribių, susitiko su Aukso ordos chano Timūr-Kutluko kariuomene.'
+  santrauka: 'Prie Vorsklos, kairiojo Dniepro intako, Vytauto kariuomenė susitiko su Aukso ordos chano Timūr-Kutluko kariuomene.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Rugpjūčio
@@ -204,3 +208,18 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-008
+  santrauka: 'Andrius žuvo prie Vorsklos 1399 metais.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Andrius žuvo prie Vorsklos 1399
+    metais.
+    31
+    Strijkovskis, 1.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008

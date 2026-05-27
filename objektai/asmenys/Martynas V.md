@@ -53,7 +53,7 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-004
-  teiginys: 'Martynas V pa­ skyrė Vytautą vikaru Rusijos kraštuose ir Livonijos vyskupijų globėju, patvirtino Žemaičių vyskupiją ir apgynė ją nuo Rygos arkivyskupo pretenzijų, parėmė Vytauto žygius prieš totorius, uždedamas kunigijai kontribuciją (1424) tiems reikalams.'
+  teiginys: 'Martynas V paskyrė Vytautą vikaru Rusijos kraštuose, patvirtino Žemaičių vyskupiją ir 1424 m. parėmė jo žygius prieš totorius.'
   pagrindžia:
     - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -64,16 +64,12 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
     - c-005
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-006
-  teiginys: 'Popiežius Martynas V, Konstan­ cijos susirinkime išrinktas, Vytautą ir Jogailą paskyrė (1417.'
-  pagrindžia:
-    - c-006
 - t-007
   teiginys: 'Taip pat po­ piežius Martynas V galutinai patvirtino ir Žemaičių vyskupiją.'
   pagrindžia:
     - c-007
 - t-008
-  teiginys: 'Vytautas su Jogaila išvien kovodami prieš Breslavo sprendimą, pasistengė iškelt Ordinui bylą ir pas popiežių Martyną V.'
+  teiginys: 'Vytautas ir Jogaila, kovodami prieš Breslavo sprendimą, siekė iškelti Ordinui bylą pas popiežių Martyną V.'
   pagrindžia:
     - c-008
 - t-010
@@ -82,6 +78,14 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
     - c-010
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-011
+  teiginys: 'Popiežius Martynas V draudė kištis į lenkų ir lietuvių reikalus.'
+  pagrindžia:
+    - c-011
+- t-012
+  teiginys: 'Popiežius Martynas V paragino imperatorių Zigmantą rūpintis Jogailos išlaisvinimu.'
+  pagrindžia:
+    - c-012
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -137,7 +141,7 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
   pagrindžia:
     - t-003
 - c-004
-  santrauka: 'Martynas V pa­ skyrė Vytautą vikaru Rusijos kraštuose ir Livonijos vyskupijų globėju, patvirtino Žemaičių vyskupiją ir apgynė ją nuo Rygos arkivyskupo pretenzijų, parėmė Vytauto žygius prieš totorius, uždedamas kunigijai kontribuciją (1424) tiems reikalams.'
+  santrauka: 'Martynas V paskyrė Vytautą vikaru Rusijos kraštuose, patvirtino Žemaičių vyskupiją ir 1424 m. parėmė jo žygius prieš totorius.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Martynas V pa­
@@ -176,7 +180,7 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
   pagrindžia:
     - t-005
 - c-006
-  santrauka: 'Popiežius Martynas V, Konstan­ cijos susirinkime išrinktas, Vytautą ir Jogailą paskyrė (1417.'
+  santrauka: 'Popiežius Martynas V 1417 m. gegužės 13 d. paskyrė Vytautą ir Jogailą savo vikarais pasauliniuose dalykuose Lietuvai ir Rusijai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Konstanci­
@@ -212,7 +216,7 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
   pagrindžia:
     - t-007
 - c-008
-  santrauka: 'Vytautas su Jogaila išvien kovodami prieš Breslavo sprendimą, pasistengė iškelt Ordinui bylą ir pas popiežių Martyną V.'
+  santrauka: 'Vytautas ir Jogaila, kovodami prieš Breslavo sprendimą, siekė iškelti Ordinui bylą pas popiežių Martyną V.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Maža to. Vytautas su
@@ -245,15 +249,42 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-010
+- c-011
+  santrauka: 'Popiežius Martynas V draudė kištis į lenkų ir lietuvių reikalus.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Nepadėjo
+    šiuo atžvilgiu nei popiežiaus Martyno V draudimas liautis
+    kišusis į lenkų ir lietuvių reikalus83; nei ištvermingas lenkų
+    83
+    Popiežius Martynas V 1428 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+- c-012
+  santrauka: 'Popiežius Martynas V paragino imperatorių Zigmantą rūpintis Jogailos išlaisvinimu.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Čia ener­
+    gingai reiškėsi popiežius Martynas V. Jis net imperatorių Zig­
+    mantą paragino rūpintis Jogailos išlaisvinimu ir pats asme­
+    niškai savo autoritetu didžiai prie to prisidėjo5. Buvo nuveikta
+    3
+    Stryjkowski, Ks.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Husitai]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/kontribucija]]
-- [[objektai/grupes/Čekai]]
-- [[objektai/grupes/Žemaičiai]]
 - [[objektai/zodynas/indulgencija]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/Martyno V įsakymas atšaukti Kaributą (1422 m. lapkričio mėn.)]]
 - [[objektai/ivykiai/Vytauto ir Jogailos paskyrimas popiežiaus Martyno V vikariais Lietuvai ir Rusijai (1417 m. gegužės 13 d.)]]

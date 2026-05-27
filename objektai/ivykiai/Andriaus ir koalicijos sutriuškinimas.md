@@ -61,5 +61,6 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Algirdas]]
+- [[objektai/asmenys/Andrius Algirdaitis]]
 - [[objektai/grupes/Lenkai]]

@@ -58,8 +58,9 @@ Atvyko Jogaila su savo šimtais palydovų, Romos ciesorius Zigmantas su savo žm
 - [[temos/didikas]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Barbora Radvilaitė]]
 - [[objektai/grupes/Hanza]]
-- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Vytautas]]
 - [[objektai/zodynas/ciesorius]]
 - [[objektai/zodynas/lėnininkai]]

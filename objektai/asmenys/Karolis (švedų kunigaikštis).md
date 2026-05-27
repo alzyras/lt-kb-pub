@@ -102,6 +102,7 @@ tags:
 - [[objektai/posakiai/in confinio Rusciae et Lituae]]
 - [[objektai/ivykiai/Šiaurės karas]]
 - [[objektai/grupes/Švedijos kariuomenė]]
+- [[objektai/daiktai/Laivai]]
 - [[objektai/grupes/Danijos karaliaus kariai iš Revelio]]
 - [[objektai/grupes/Notangai]]
 - [[objektai/grupes/Pamedėnai]]

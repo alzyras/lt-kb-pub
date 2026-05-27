@@ -8,6 +8,12 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
+  - '1251 m.'
+  - '1253 m.'
+  - '1280 m.'
+  - '1286 m.'
+  - '1310 m.'
+  - '1317 m.'
   - '1563 m.'
   - '1569 m.'
   - '1936 m.'
@@ -18,10 +24,12 @@ periodo_grupes:
   - 'LDK'
   - 'modernioji Lietuva'
 amziai:
+  - 'XIII'
+  - 'XIV'
   - 'XVI'
   - 'XX'
   - 'XXI'
-date_start: '1563'
+date_start: '1251'
 date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
@@ -58,9 +66,29 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   pagrindžia:
     - c-005
 - t-006
-  teiginys: 'Jis džiaugėsi ir Liublino unijoje «įvykusia santaika»^30.'
+  teiginys: 'Kojalavičius džiaugėsi Liublino unijoje įvykusia santaika.'
   pagrindžia:
     - c-006
+- t-007
+  teiginys: 'Liublinas Vladislovo Lokietkos laikais, 1317 m., ėmė tvarkytis pagal vokiečių miestų teises.'
+  pagrindžia:
+    - c-007
+- t-008
+  teiginys: 'Krokuvos ir Liublino gatvės buvo siejamos su gotikos rūmais ir aukštomis sienomis.'
+  pagrindžia:
+    - c-008
+- t-009
+  teiginys: 'Po tokių sostinės apsaugos priemonių karalius, į Vilnių atvykęs iš Liublino seimo, ėmėsi reikalų su totoriais.'
+  pagrindžia:
+    - c-009
+- t-010
+  teiginys: 'Jo karališkajai didenybei vykstant į Solcą, į pono Lietu­ vos pataurininkio vestuves, būdamas Liubline, išleidau lie­ tuviškoms monetoms 7 flor., 4 grašius, 2 liet.'
+  pagrindžia:
+    - c-010
+- t-011
+  teiginys: 'Liubline stovyklininkas Pavlikas keitė lietuviškas monetas į lenkiškas, kad pinigai būtų pasiųsti į Leipcigą.'
+  pagrindžia:
+    - c-011
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -155,7 +183,7 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   pagrindžia:
     - t-005
 - c-006
-  santrauka: 'Jis džiaugėsi ir Liublino unijoje «įvykusia santaika»^30.'
+  santrauka: 'Kojalavičius džiaugėsi Liublino unijoje įvykusia santaika.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Jis džiaugėsi ir Liublino
@@ -169,3 +197,94 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Liublinas Vladislovo Lokietkos laikais, 1317 m., ėmė tvarkytis pagal vokiečių miestų teises.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Poznanė dar anksčiau už Krokuvą - 1253 metais,
+    Sandomiras - vėliau, 1286 metais, o Liublinas Vladislavo Lo­
+    ketkos laikais -1317 metais, ėmė tvarkytis pagal vokiečių miestų
+    teises. Panašiai ir Varšuva, įkurta 1251 metais, o Lvovas po jos -
+    1280 metais, pastatydintas Leono, Darnios iš Haličo sūnaus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
+- c-008
+  santrauka: 'Krokuvos ir Liublino gatvės buvo siejamos su gotikos rūmais ir aukštomis sienomis.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Lietuvai, ilgai nuo krikščio­
+    niškojo pasaulio civilizacijos užsisklendusiai ir kryžiuočių
+    antpuolių tolydžio alinamai, dar nepažįstami buvo tie goti­
+    kos rūmai, apsupti aukštų sienų, iš kurių susidarė tiesios,
+    nors ir siauros Krokuvos ar Liublino gatvės, nei tokie, tam
+    laikui neįprastai dideli pastatai, kaip Krokuvos Gelumbės
+    prekybos namai, statydinti Kazimiero Didžiojo. Vilniuje, vi­
+    dur namų samplaikos, iškilesnėje vietovėje nei Šventaragio
+    slėnis, plytėjo ganėtinai didelė aikštė, aplipusi prekijų krau­
+    tuvėlėmis ir, atsargumo dėlei, nuo kryžiuočių antpuolių ap­
+    juosta statinių tvoromis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-009
+  santrauka: 'Po tokių sostinės apsaugos priemonių karalius, į Vilnių atvykęs iš Liublino seimo, ėmėsi reikalų su totoriais.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Po tokių sostinės apsaugos priemonių karalius, į Vilnių
+    atvykęs iš Liublino seimo, ėmėsi reikalų su totoriais. Aplink
+    miestą su savo palyda palapinėse klajojo Šach Achmedas, o
+    Krymo ir Nogajaus ordos pasiuntiniai už Vilniaus sienų lū­
+    kuriavo karaliaus45.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
+- c-010
+  santrauka: 'Jo karališkajai didenybei vykstant į Solcą, į pono Lietu­ vos pataurininkio vestuves, būdamas Liubline, išleidau lie­ tuviškoms monetoms 7 flor., 4 grašius, 2 liet.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Jo karališkajai didenybei vykstant į Solcą, į pono Lietu­
+    vos pataurininkio vestuves, būdamas Liubline, išleidau lie­
+    tuviškoms monetoms 7 flor., 4 grašius, 2 liet. denarus.
+    Liubline nuo šimto zlotų palūkanų - 3 taleriai; sudaro
+    3 flor., 9 zl.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
+- c-011
+  santrauka: 'Liubline stovyklininkas Pavlikas keitė lietuviškas monetas į lenkiškas, kad pinigai būtų pasiųsti į Leipcigą.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Stovyklininkas Pavlikas Liubline pakeisdamas in Febru­
+    aris [vasarį], kai buvo iš anksto pasiųstas su pinigais, kad
+    443
+
+    ## Puslapis 460
+
+    VILNIAUS MIESTO ISTORIJA II TOMAS
+    juos laiku pasiųstų JMCPP* : Mlodyčiui į Leipcigą ir ponui
+    Plockiui sumokėti skolą iš lietuviškų monetų, jas keičiant į
+    lenkiškas, pridėjau 1310 flor. (23 fl.: 88) (6) 9 den.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011

@@ -37,13 +37,13 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai, kurie jau nuo seniau buvo įsikūrę dešiniajame Dauguvos krante, apimdami dabartinę Latgaliją ir rytinę Vidžemės dalį nuo Aiz­ krauklės prie Dauguvos iki Burtnieko ežero.'
+  teiginys: 'XII-XIII a. sandūroje latviai gyveno dešiniajame Dauguvos krante, dabartinėje Latgalijoje ir rytinėje Vidžemėje.'
   pagrindžia:
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: 'Baltai ir jų ainiai, lietuviai ir latviai, sėsliai prie Baltijos jūros gyvena mažiausiai 4 tūkstančius metų.'
+  teiginys: 'Lietuviai ir latviai buvo laikomi baltais, mažiausiai keturis tūkstančius metų sėsliai gyvenusiais prie Baltijos jūros.'
   pagrindžia:
     - c-003
 - t-004
@@ -55,9 +55,13 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   pagrindžia:
     - c-005
 - t-006
-  teiginys: 'Tikrieji latviai, tik naujojo geležies amžiaus pradžioje kalbiškai ryškiau nuo lietuvių pradėję išsiskirti, Nestoro kronikai buvo žino­ mi kaip Liet’gola.'
+  teiginys: 'Tikrieji latviai Nestoro kronikai buvo žinomi kaip Liet''gola.'
   pagrindžia:
     - c-006
+- t-007
+  teiginys: 'Balinskis latvius priskyrė vienai iš šešių pagrindinių lietuvių tautos atšakų.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -80,7 +84,7 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai, kurie jau nuo seniau buvo įsikūrę dešiniajame Dauguvos krante, apimdami dabartinę Latgaliją ir rytinę Vidžemės dalį nuo Aiz­ krauklės prie Dauguvos iki Burtnieko ežero.'
+  santrauka: 'XII-XIII a. sandūroje latviai gyveno dešiniajame Dauguvos krante, dabartinėje Latgalijoje ir rytinėje Vidžemėje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Latvijos Henrikas juos vadino « Lethi vel Le _t_ ­
@@ -100,7 +104,7 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Baltai ir jų ainiai, lietuviai ir latviai, sėsliai prie Baltijos jūros gyvena mažiausiai 4 tūkstančius metų.'
+  santrauka: 'Lietuviai ir latviai buvo laikomi baltais, mažiausiai keturis tūkstančius metų sėsliai gyvenusiais prie Baltijos jūros.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Bal-
@@ -151,7 +155,7 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   pagrindžia:
     - t-005
 - c-006
-  santrauka: 'Tikrieji latviai, tik naujojo geležies amžiaus pradžioje kalbiškai ryškiau nuo lietuvių pradėję išsiskirti, Nestoro kronikai buvo žino­ mi kaip Liet’gola.'
+  santrauka: 'Tikrieji latviai Nestoro kronikai buvo žinomi kaip Liet''gola.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tikrieji latviai, tik naujojo geležies amžiaus pradžioje kalbiškai
@@ -166,11 +170,31 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Balinskis latvius priskyrė vienai iš šešių pagrindinių lietuvių tautos atšakų.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Ta lietuvių tauta, išsis­
+    kyrusi į šešias pagrindines atšakas: prūsus, žemaičius, kur­
+    šius, latvius, jotvingius ir lietuvius, žemėse palei Viliją, arba
+    tikrojoj Lietuvoj, užėmė visą Baltijos pakrantę, nuo Dvinos
+    iki Vyslos, o į žemyno gilumą buvo pasistūmėjusi tiesiog iki
+    Nemuno ir Būgo žiočių. Prūsai - apie jų kalbą pasakytina,
+    kad pasidavė kaimynų gotų įtakai; jotvingiai, labiau negu
+    palei Viliją gyvenę ar aukštaičiai, pasistūmėję į Rusios gilu­
+    mą, kalba ir papročiais į slavus panašūs; vien tik Žemaitija,
+    iki pat Baltijos jūros siekianti, kaip lietuvių genties centras,
+    išsaugojo gryniausius savo padermės bruožus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/autoriai/Henrikas]]
-- [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/A. Stapulionis]]
 - [[objektai/grupes/Andrejaus Vlasovo armija]]
 - [[objektai/grupes/Baltai]]
@@ -182,7 +206,6 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
 - [[objektai/ivykiai/Lietuvos ir Latvijos sienos išvedimas (1921 m.)]]
 - [[objektai/posakiai/Liet’gola Lethi vel Lethigalli]]
 - [[objektai/grupes/Lybiai]]
-- [[objektai/asmenys/Mindaugas]]
 - [[objektai/paprociai/Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui]]
 - [[objektai/grupes/Petrapilio latvių pabėgėlių komitetas|Petrapilio latvių pabėgėlių komitetas (institucija)]]
 - [[objektai/ivykiai/Polocko pavergimas Mindaugo laikais]]

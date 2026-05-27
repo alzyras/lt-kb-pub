@@ -26,23 +26,23 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
 
 ## Teiginiai
 - t-001
-  teiginys: 'Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yra suminėti visi kiti likusieji penki Jogailos broliai, Julijonos sūnūs (Kaributas, Karigaila, Lengvenis, Vygandas, Švitrigaila), ir Jogailai nusipelnęs bei svarbiu patarėju tapęs.'
+  teiginys: 'Kaributas buvo paminėtas tarp penkių Jogailos brolių, liudijusių trijose Jogailos ir Skirgailos vardu sudarytose sutartyse.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-- t-002
-  teiginys: 'Jį saugojo kunigaikščio Kaributo vėliava, kurią dar prieš karą Vytautas buvo Jogailai nusiuntęs.'
-  pagrindžia:
-    - c-002
 - t-003
-  teiginys: 'Pagal tas sutartis didysis kunigaikštis Jogaila, — pritariamas motinos Julijonos ir brolių: Kaributo, Lingvenio, Karigailos, Vy­ gunto ir Švitrigailos — pasižadėjo 4 metus laikytis su Ordinais taikos, per tuos pat 4 metus „su visais saviškiais“ apsikrikš­.'
+  teiginys: 'Kaributas kartu su kitais Jogailos broliais pritarė sutartims, pagal kurias Jogaila pasižadėjo ketverius metus laikytis taikos su Ordinais.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Kaributas valdė Seversko kunigaikštystę, nenorėjo pripažinti Kęstučio viršenybės ir sukėlė maištus Rusioje.'
+  pagrindžia:
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yra suminėti visi kiti likusieji penki Jogailos broliai, Julijonos sūnūs (Kaributas, Karigaila, Lengvenis, Vygandas, Švitrigaila), ir Jogailai nusipelnęs bei svarbiu patarėju tapęs.'
+  santrauka: 'Kaributas buvo paminėtas tarp penkių Jogailos brolių, liudijusių trijose Jogailos ir Skirgailos vardu sudarytose sutartyse.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kaip kita­
@@ -63,24 +63,8 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Jį saugojo kunigaikščio Kaributo vėliava, kurią dar prieš karą Vytautas buvo Jogailai nusiuntęs.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Jį saugojo kunigaikščio Kaributo
-    vėliava, kurią dar prieš karą Vytautas buvo Jogailai nusiuntęs.
-    Nuo karaliaus stovyklos Lenkijos pusėn buvo sustatyta visa ei­
-    lė greičiausių ir visiškai paruoštų arklių, kuriais Jogaila galė­
-    tų pabėgti, jei kiltų pavojus iš kryžiuočių pusės.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-002
 - c-003
-  santrauka: 'Pagal tas sutartis didysis kunigaikštis Jogaila, — pritariamas motinos Julijonos ir brolių: Kaributo, Lingvenio, Karigailos, Vy­ gunto ir Švitrigailos — pasižadėjo 4 metus laikytis su Ordinais taikos, per tuos pat 4 metus „su visais saviškiais“ apsikrikš­.'
+  santrauka: 'Kaributas kartu su kitais Jogailos broliais pritarė sutartims, pagal kurias Jogaila pasižadėjo ketverius metus laikytis taikos su Ordinais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Pagal tas sutartis didysis kunigaikštis Jogaila, — pritariamas
@@ -96,6 +80,24 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Kaributas valdė Seversko kunigaikštystę, nenorėjo pripažinti Kęstučio viršenybės ir sukėlė maištus Rusioje.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Ir Lietuvos sostinė ilgai netvėrė Kęstučio valdžioje;
+    vos tik jis išvijo vokiečius už Lietuvos ribų, kai maištai Ru­
+    sioje, sukelti Jogailos brolio Kaributo, viešpatavusio Severs-
+    ko kunigaikštystėje ir nenorėjusio pripažinti Kęstučio vir­
+    šenybės, vertė šį vykti ten su visa kariauna. Palikdamas
+    Vilnių, Trakų pilies gynybą ir valdžią pavedė savo sūnui,
+    jaunajam Vytautui.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 ### Teminiai klasteriai
@@ -103,10 +105,7 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
 - [[temos/pinigai]]
 
 ### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/daiktai/Aleksandro pinigai]]
-- [[objektai/grupes/Husitai]]
 - [[objektai/ivykiai/Husitų karališko vainiko pasiūlymas Jogailai ir Vytautui bei Zigmanto Kaributo siuntimas į Čekiją]]
 - [[objektai/ivykiai/Kėzmarko suvažiavimas ir santykių su husitais nutraukimas (1423 m.)]]
 - [[objektai/daiktai/Pragos miesto raktai|Pragos miesto raktai (miestas)]]

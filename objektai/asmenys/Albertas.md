@@ -72,4 +72,6 @@ Nes Lietuviai Vilnius 0 Jotvingiai aw MI Visvaldis buvo nugalėtas NY Rygos vysk
 - [[objektai/grupes/Dobrinės ordinas]]
 - [[objektai/ivykiai/Dobrinės ordino įkūrimas]]
 - [[objektai/ivykiai/Kalavijuočių ordino įkūrimas]]
+- [[objektai/daiktai/Tiltai, jazai ir vandens infrastruktūra]]
 - [[objektai/grupes/Vilniaus Akademija]]
+- [[objektai/grupes/Vilniaus miesto auksakalių cechas]]

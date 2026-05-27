@@ -33,11 +33,15 @@ Archeolo­ giniai duomens parodo apie 650 m. prasidedančią didelę švedų eks
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Gotlando salai buvo adresuotas vienas iš trijų laiškų, siųstų Hanzos miestams ir Saksų provincijos vienuoliams.'
+  teiginys: 'Gotlando salai buvo adresuotas vienas iš trijų 1323 m. gegužės 26 d. laiškų Hanzos miestams.'
   pagrindžia:
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Gediminas laiškuose pajūrio miestams, tarp jų Gotlandui, pranešė kreipęsis į popiežių dėl pasiuntinių.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -58,7 +62,7 @@ Archeolo­ giniai duomens parodo apie 650 m. prasidedančią didelę švedų eks
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Gotlando salai buvo adresuotas vienas iš trijų laiškų, siųstų Hanzos miestams ir Saksų provincijos vienuoliams.'
+  santrauka: 'Gotlando salai buvo adresuotas vienas iš trijų 1323 m. gegužės 26 d. laiškų Hanzos miestams.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Vienas tų
@@ -75,3 +79,25 @@ Archeolo­ giniai duomens parodo apie 650 m. prasidedančią didelę švedų eks
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Gediminas laiškuose pajūrio miestams, tarp jų Gotlandui, pranešė kreipęsis į popiežių dėl pasiuntinių.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tuo pat metu buvo paskelbti ir kiti laiškai, kuriuos Ge­
+    diminas rašė dominikonų ordino vyresniesiems, būtent į
+    Saksoniją, Mažesniųjų brolių ordinui ir pajūrio miestams -
+    Liubekui, Rostokui, Zundui, Greifsvaldui, Štetinui ir Got-
+    landui, pranešdamas juose, kad kreipėsi į popiežių,
+    prašydamas išsiųsti pas jį pasiuntinius, kad jų nekantrau­
+    damas laukiąs, kad pasiryžęs sutikti su visais popiežiaus
+    įsakymais. „Pageidautume, - rašo toliau, - savo krašte tu­
+    rėti dvasininkų ir vyskupų; šventai saugosime bažnyčios
+    teises, dvasininkus gerbsime, Dievo garbinimą maldomis
+    plėtosime.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003

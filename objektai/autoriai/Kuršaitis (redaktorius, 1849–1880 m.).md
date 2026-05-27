@@ -146,4 +146,5 @@ Kuršaitis šiame šaltinyje minimas kaip redaktorius, profesorius; jam priskiri
 
 ### Susiję objektai
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija]]
 - [[objektai/grupes/Žydai]]

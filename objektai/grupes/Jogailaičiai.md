@@ -41,6 +41,10 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
   teiginys: 'Nors Habsburgai dinastinėje kovoje su Jogailaičiais dėl įtakos Čekijoje ir Vengrijoje turėjo neabejotinai daugiau naudos, bet nustojo remti amžinus Lietuvos ir Lenkijos priešus - Vokiečių ordiną ir Maskvą.'
   pagrindžia:
     - c-002
+- t-003
+  teiginys: 'Dviejų paskutiniųjų Jogailaičių paaukštintas miestiečių luomas valdant Steponui turėjo stiprų karaliaus palaikymą.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -76,18 +80,33 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Dviejų paskutiniųjų Jogailaičių paaukštintas miestiečių luomas valdant Steponui turėjo stiprų karaliaus palaikymą.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Miestiečių luomas,
+    dviejų paskutiniųjų Jogailaičių paaukštintas iki tikrųjų pi­
+    liečių ir stipriai palaikomas karaliaus Stepono, dabar jo as­
+    menyje neteko tokio globėjo, kokiu paskui netapo nė vienas
+    iš vėlesnių karalių; galiausiai pati tauta, atsibudusi iš pra­
+    gaištingo letargo, tiesą sakant, per vėlai, nes jau pabaigoje,
+    panoro ne tik pripažinti jam senąjį įžymumą, bet padaryti
+    dar ir naujų, amžiui priderančių, laisvių dalyviu72.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/dinastija]]
 
 ### Susiję objektai
-- [[objektai/grupes/Habsburgai]]
-- [[objektai/ivykiai/Oršos mūšis (1514 m.)]]
-- [[objektai/grupes/Vokiečiai]]
 - [[objektai/grupes/Gediminaičiai]]
 - [[objektai/grupes/Habsburgų dinastija]]
 - [[objektai/grupes/Jogailaičių dinastija]]
 - [[objektai/asmenys/Motiejus Huniadis]]
 - [[objektai/posakiai/„jogailaičių Europa“ „krikščionybės forpostas“]]
-- [[objektai/grupes/Kryžiuočių ordinas]]

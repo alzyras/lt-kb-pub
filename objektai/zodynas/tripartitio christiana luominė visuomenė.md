@@ -68,5 +68,5 @@ Su tripartitio christiana (visuomenės skirstymas į karius, dvasininkus ir dirb
 - [[temos/privilegija]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/asmenys/Jogaila]]
 - [[objektai/grupes/Bajorai]]

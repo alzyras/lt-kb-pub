@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 55.
+Objektų skaičius: 57.
 
 ## Kaip naudoti
 
@@ -23,6 +23,7 @@ Objektų skaičius: 55.
 - [[objektai/asmenys/Aleksandras I]]
 - [[objektai/asmenys/Andrius Vosylius Jastrzębiecas]]
 - [[objektai/asmenys/Barbora Cyleikaitė]]
+- [[objektai/asmenys/Barbora Radvilaitė]]
 - [[objektai/asmenys/Goštautas]]
 - [[objektai/asmenys/Jurgis Boliminas]]
 - [[objektai/asmenys/Jurgis Cemblakas]]
@@ -36,6 +37,7 @@ Objektų skaičius: 55.
 - [[objektai/asmenys/Mikalojus Sapienskis]]
 - [[objektai/asmenys/Mikalojus Sepienskis]]
 - [[objektai/asmenys/Mykolas Sapienskis]]
+- [[objektai/asmenys/Petras Goštautas]]
 - [[objektai/asmenys/Petras iš Kustynės]]
 - [[objektai/asmenys/Vladislovas (Jogailos sūnus)]]
 - [[objektai/asmenys/Vosylius II]]
@@ -46,8 +48,8 @@ Objektų skaičius: 55.
 - [[objektai/daiktai/Taurės]]
 
 ### Grupės
-- [[objektai/grupes/Didžlenkiai]]
-- [[objektai/grupes/Evangelikų reformatų bažnyčia]]
+- [Didžlenkiai](../objektai/grupes/Did%C5%BElenkiai)
+- [Evangelikų reformatų bažnyčia](../objektai/grupes/Evangelik%C5%B3%20reformat%C5%B3%20ba%C5%BEny%C4%8Dia)
 - [Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai](../objektai/grupes/Evangelik%C5%B3%20reformat%C5%B3%20ba%C5%BEny%C4%8Dia%20Lietuvos%20evangelikai%20reformatai)
 - [LDK didikai](../objektai/grupes/LDK%20didikai)
 - [Lietuvos didikai](../objektai/grupes/Lietuvos%20didikai)

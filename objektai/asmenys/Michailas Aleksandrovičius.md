@@ -109,7 +109,7 @@ Jos kunigaikštis Michailas Aleksandrovičius pabėgo į Lietuvą ir Lietuvos va
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Algirdas]]
 - [[objektai/asmenys/Dmitrijus]]
 - [[objektai/daiktai/Ietis]]
 - [[objektai/asmenys/Julijona]]

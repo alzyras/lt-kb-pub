@@ -78,7 +78,7 @@ Nenurodyta
 - [[objektai/autoriai/Maironis]]
 - [[objektai/asmenys/Petras Bartkus-Žadgaila]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Vytautas]]
 - [[objektai/grupes/Agentai-smogikai]]
 - [[objektai/autoriai/Dalius Žygelis]]
 - [[objektai/grupes/Maironio rinktinė]]

@@ -141,5 +141,8 @@ Mykolas Kleopas Oginskis vadinamas garsiojo polonezo „Atsisveikinimas su Tėvy
     - t-012
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/bajoras]]
+
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]

@@ -6,11 +6,14 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
+datos:
+  - '1575 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVI'
+date_start: '1575'
 date_end: ''
 patikimumas: 'vidutinis'
 tags:
@@ -37,6 +40,10 @@ Iš anų laikų lenkų karūnos kanceliarijos raštų matome, kad to meto žymū
     - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Dokumentą Gardine pasirašė pakancleris Leonas Sapiega ir raštininkas Stanislovas Skulskis.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -80,12 +87,37 @@ Iš anų laikų lenkų karūnos kanceliarijos raštų matome, kad to meto žymū
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Dokumentą Gardine pasirašė pakancleris Leonas Sapiega ir raštininkas Stanislovas Skulskis.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Duota Gardine. Parašai: Vice-
+    Cancellarius Leo Sapieha, Stanislaus
+    Skulski Notarius [Pakancleris Leo­
+    nas Sapiega, raštininkas Stanislovas
+    Skulskis].
+    68
+    Petras Timofiejevas Mstislavliškis, iš
+    Maskvos atvykęs spaustuvininkas,
+    padedamas ir proteguojamas Alek­
+    sandro Chodkevičiaus sūnaus Jurgio,
+    1575 metais Vilniuje pas Kuzmą ir
+    Luką Mamoničius, Jono Semena vi-
+    čiaus Zažeckio, iždininko, Upytės se­
+    niūno ir jo brolio Zenono, Vilniaus
+    miesto burmistro, iniciatyva ir lėšo­
+    mis pirmą kartą išspausdino „Cztėry
+    Ewangelje" in folio minori.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/daiktai/Karūna]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/asmenys/Stanislovas Ciołek]]
-- [[objektai/asmenys/Ziemovitas]]
 - [[objektai/paprociai/Kreipimasis į Vytautą svarbiausiais reikalais]]
+- [[objektai/asmenys/Stanislovas Ciołek]]
 - [[objektai/asmenys/Zbignievas Olesnickis]]

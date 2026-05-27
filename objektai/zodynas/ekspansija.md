@@ -57,11 +57,10 @@ tags: []
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/asmenys/Vytenis]]
 - [[objektai/zodynas/kunigaikštija]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - [[objektai/grupes/Galindai]]
 - [[objektai/zodynas/Nepriklausomybės kovos]]
 - [[objektai/paprociai/Reguliarūs lietuvių grobiamieji žygiai į kaimynų baltų ir slavų žemes]]
@@ -69,5 +68,4 @@ tags: []
 - [[objektai/asmenys/Teodoras (Gedimino brolis)]]
 - [[objektai/asmenys/Timūras (Tamerlanas)]]
 - [[objektai/asmenys/Uzbeko]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/komputas]]

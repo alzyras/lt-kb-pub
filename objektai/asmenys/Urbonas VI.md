@@ -6,11 +6,14 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
+datos:
+  - '1389 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XIV'
+date_start: '1389'
 date_end: ''
 patikimumas: 'vidutinis'
 tags:
@@ -31,6 +34,10 @@ Joje popiežius Urbonas VI išgyrė apsikrikštiju­ sius lietuvius, o vysk.
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Urbonas VI per pasiuntinį Dobrogostą patvirtino Vilniaus katedrą ir vyskupą Andrių Vilniaus vyskupijoje.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -51,10 +58,31 @@ Joje popiežius Urbonas VI išgyrė apsikrikštiju­ sius lietuvius, o vysk.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Urbonas VI per pasiuntinį Dobrogostą patvirtino Vilniaus katedrą ir vyskupą Andrių Vilniaus vyskupijoje.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Ne­
+    paisant tos Vilniuje buvusios maišaties, vis dėlto 1389 me­
+    tams baigiantis atvyko Poznanės vyskupas Dobrogostas ir
+    kaip popiežiaus Urbono VI pasiuntinys paskelbė bulę, ku­
+    rios galia, atsiliepiant į karaliaus Vladislovo ir karalienės Jad­
+    vygos prašymą, vietovė, vadinama Vilniumi ir laikytina mies­
+    tu, o bažnyčia, pastatyta ant pagonių šventyklos griuvėsių,
+    šv. Stanislovo garbei, iškilmingai pripažinta katedra. O vys­
+    kupas Andrius, Dobrogosto atleistas iš Cereto ganytojo pa­
+    reigų, gavo popiežiaus patvirtinimą perimti Vilniaus vysku­
+    piją20.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/pagonybė]]
 - [[objektai/ivykiai/Vilniaus vyskupystės įkūrimas]]
 - [[objektai/zodynas/brevė]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Vilniaus kapitula]]

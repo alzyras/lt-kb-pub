@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 4.
+Objektų skaičius: 5.
 
 ## Kaip naudoti
 
@@ -19,6 +19,7 @@ Objektų skaičius: 4.
 ## Susiję objektai
 
 ### Asmenys
+- [[objektai/asmenys/Fridrichas (Rygos arkivyskupas)]]
 - [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
 
 ### Autoriai

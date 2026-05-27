@@ -48,3 +48,4 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 ### Susiję objektai
 - [[objektai/grupes/Aisčiai]]
 - [[objektai/autoriai/Stasys Šalkauskis]]
+- [[objektai/zodynas/Vidivarijai]]

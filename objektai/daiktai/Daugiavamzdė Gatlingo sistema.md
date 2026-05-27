@@ -71,4 +71,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Parakas]]
 - [[objektai/daiktai/Revolveriai]]

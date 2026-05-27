@@ -80,11 +80,11 @@ Terminas vartojamas ilgame istoriniame pjūvyje: nuo 1447 m. privilegijos, padė
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-010
-  teiginys: 'Taigi privilegija padėjo pamatą visuotinei baudžiavai: bajorų valstiečiai liko visiškoje savo ponų valdžioje; jie nebeturėjo jokių pareigų didžiajam kunigaikščiui (valstybei), o vien tik ponams ir niekur nebegalėjo išsikelti iš jų žemių.'
+  teiginys: 'Privilegija padėjo pamatą visuotinei baudžiavai: bajorų valstiečiai liko ponų valdžioje ir nebegalėjo išsikelti iš jų žemių.'
   pagrindžia:
     - c-005
 - t-011
-  teiginys: 'Labai dažnai bajorai versdavo valstiečius pirkti tam tikrą kiekį degtinės, kaip kad, pav., vertė eiti baudžiavą ar mokėti mokesčius.'
+  teiginys: 'Bajorai dažnai vertė valstiečius pirkti nustatytą kiekį degtinės, kaip vertė eiti baudžiavą ar mokėti mokesčius.'
   pagrindžia:
     - c-006
 - t-012
@@ -100,9 +100,17 @@ Terminas vartojamas ilgame istoriniame pjūvyje: nuo 1447 m. privilegijos, padė
   pagrindžia:
     - c-009
 - t-015
-  teiginys: 'Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą Aleksandrą II rengtis baudžiavos panaikinimui, sušvelninta tautinė politika.'
+  teiginys: 'Rusijos pralaimėjimas Krymo kare paskatino carą Aleksandrą II rengtis baudžiavos panaikinimui.'
   pagrindžia:
     - c-010
+- t-016
+  teiginys: 'Po Napoleono sutriuškinimo Rusijoje drąsiau kelti valdžios reformavimo ir baudžiavos paveldo klausimai.'
+  pagrindžia:
+    - c-011
+- t-017
+  teiginys: 'Caras Aleksandras II ir jo aplinka rengė baudžiavos panaikinimo projektus.'
+  pagrindžia:
+    - c-012
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -166,7 +174,7 @@ Terminas vartojamas ilgame istoriniame pjūvyje: nuo 1447 m. privilegijos, padė
   pagrindžia:
     - t-009
 - c-005
-  santrauka: 'Taigi privilegija padėjo pamatą visuotinei baudžiavai: bajorų valstiečiai liko visiškoje savo ponų valdžioje; jie nebeturėjo jokių pareigų didžiajam kunigaikščiui (valstybei), o vien tik ponams ir niekur nebegalėjo išsikelti iš jų žemių.'
+  santrauka: 'Privilegija padėjo pamatą visuotinei baudžiavai: bajorų valstiečiai liko ponų valdžioje ir nebegalėjo išsikelti iš jų žemių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Taigi privilegija pa-
@@ -184,7 +192,7 @@ Terminas vartojamas ilgame istoriniame pjūvyje: nuo 1447 m. privilegijos, padė
   pagrindžia:
     - t-010
 - c-006
-  santrauka: 'Labai dažnai bajorai versdavo valstiečius pirkti tam tikrą kiekį degtinės, kaip kad, pav., vertė eiti baudžiavą ar mokėti mokesčius.'
+  santrauka: 'Bajorai dažnai vertė valstiečius pirkti nustatytą kiekį degtinės, kaip vertė eiti baudžiavą ar mokėti mokesčius.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     _ Labai dažnai bajorai
@@ -252,7 +260,7 @@ Terminas vartojamas ilgame istoriniame pjūvyje: nuo 1447 m. privilegijos, padė
   pagrindžia:
     - t-014
 - c-010
-  santrauka: 'Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą Aleksandrą II rengtis baudžiavos panaikinimui, sušvelninta tautinė politika.'
+  santrauka: 'Rusijos pralaimėjimas Krymo kare paskatino carą Aleksandrą II rengtis baudžiavos panaikinimui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą
@@ -269,6 +277,38 @@ Terminas vartojamas ilgame istoriniame pjūvyje: nuo 1447 m. privilegijos, padė
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-015
+- c-011
+  santrauka: 'Po Napoleono sutriuškinimo Rusijoje drąsiau kelti valdžios reformavimo ir baudžiavos paveldo klausimai.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Po Napoleono sutriuškinimo Rusijoje kurį laiką pastebimas
+    visuomeninio gyvenimo pagyvėjimas. Buvo kuriamos legalios
+    ir pusiau legalios draugijos, salonuose ir vakaruose atvirai ap­
+    tarinėjamos socialinės, politinės problemos. Drąsiau keliami val­
+    džios reformavimo, baudžiavos paveldo klausimai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016
+- c-012
+  santrauka: 'Caras Aleksandras II ir jo aplinka rengė baudžiavos panaikinimo projektus.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Caras Aleksandras II ir jo aplinka rengė baudžiavos panaikini­
+    mo projektus, vakarinėse imperijos gubernijose pagyvėjo visuo­
+    meninis - politinis gyvenimas. Eustachijaus Tiškevičiaus inicia­
+    tyva buvo įkurtas Vilniaus Senienų muziejus - mokslinė
+    institucija, sutelkusi krašto visuomenę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
 
 ## Šaltiniai ir įrodymai
 
@@ -279,9 +319,6 @@ Terminas vartojamas ilgame istoriniame pjūvyje: nuo 1447 m. privilegijos, padė
 - [[temos/teisinis-terminas]]
 
 ### Susiję objektai
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/bajorija]]
 - [[objektai/ivykiai/1863 m. sukilimo paskelbimas Lenkijoje ir Lietuvoje (1863 m. pradžioje)]]
 - [[objektai/paprociai/Bajorijos seimelių rinkimosi ir atstovų rinkimo praktika]]
 - [[objektai/zodynas/Baudžiavinė santvarka]]

@@ -16,6 +16,7 @@ datos:
   - '1370 m.'
   - '1372 m.'
   - '1382 m.'
+  - '1396 m.'
   - '1435 m.'
   - '1545 m.'
   - '1558 m.'
@@ -30,7 +31,6 @@ datos:
   - '1609 m.'
   - '1621 m.'
   - '1629 m.'
-  - '1700 m.'
 periodas: 'viduramžiai'
 periodo_grupes:
   - 'LDK'
@@ -46,7 +46,7 @@ amziai:
   - 'XX'
   - 'XXI'
 date_start: '1180'
-date_end: '1700'
+date_end: '1629'
 patikimumas: 'vidutinis'
 tags:
   - kunigaikštis
@@ -108,19 +108,15 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   pagrindžia:
     - c-008
 - t-009
-  teiginys: 'Kad būtų lengviau gintis, jis pastatė Rygos pilį (1201 m.), kuri vėliau virto visos valstybės centru ir didžiausiu Livonijos miestu.'
+  teiginys: '1201 m. pastatyta Rygos pilis vėliau tapo valstybės centru ir didžiausiu Livonijos miestu.'
   pagrindžia:
     - c-009
-- t-010
-  teiginys: '), Livonijoje naujos vokiečių valstybės valdovas buvo jis.'
-  pagrindžia:
-    - c-010
 - t-011
   teiginys: 'Atsilygindamas už tai, Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė.'
   pagrindžia:
     - c-011
 - t-012
-  teiginys: 'Visai Livonijai buvo pripažinta tikėjimo laisvė (mat, ji buvo protestantiška) ir plati savivaldybė, o iš Kuršo ir Žiemgalos buvo sudaryta kunigaikštystė su sostine Jelgavoje (Mintaujoje), kuri buvo pavesta vasalo teisėmis valdyti Ketleriui, ligi pasibaigs jo.'
+  teiginys: 'Livonijai buvo pripažinta tikėjimo laisvė ir plati savivaldybė.'
   pagrindžia:
     - c-012
 - t-013
@@ -132,25 +128,21 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   pagrindžia:
     - c-014
 - t-015
-  teiginys: 'Batorui ateinant į sostą, tarp Lietuvos ir Maskvos tebebuvo neišspręstas ginčas dėl Livonijos (žiūr.'
+  teiginys: 'Batorui ateinant į sostą, Lietuvos ir Maskvos ginčas dėl Livonijos tebebuvo neišspręstas.'
   pagrindžia:
     - c-015
 - t-016
-  teiginys: 'Caras tuo tarpu sugalvojo lengvesnį būdą Livonijai įgyti.'
+  teiginys: 'Caras siekė įgyti Livoniją, kuri tuo metu buvo suskaldyta tarp kelių valstybių.'
   pagrindžia:
     - c-016
 - t-017
-  teiginys: 'Sutartyje caras atsisakė nuo Livonijos, Polocko ir Veližo; jam buvo grąžinti tik Didieji Lukai.'
+  teiginys: '1582 m. sutartimi caras atsisakė Livonijos, Polocko ir Veližo, o jam buvo grąžinti tik Didieji Lukai.'
   pagrindžia:
     - c-017
 - t-018
   teiginys: 'Vėliau lietuvių žygiai padažnėjo – kasmet vyko po vieną–du žygius ir ne tik į rusų pusę, bet ir į Lenkiją bei Livoniją.'
   pagrindžia:
     - c-018
-- t-019
-  teiginys: 'Opoziciją pirmiausia sudarė artimiausi giminaičiai – brolvaikiai, pagalbon pasitelkę ir svetimuosius – Livonijos ordiną ir Voluinę.'
-  pagrindžia:
-    - c-019
 - t-020
   teiginys: 'Vadinasi, Mindaugui reikėjo kovoti dėl pagoniškos Žemaitijos su krikščioniškąja Livonija, o kartu Vakarų jėgų ir popiežiaus akyse išlaikyti krikščionio valdovo statusą.'
   pagrindžia:
@@ -167,70 +159,94 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   teiginys: 'Iškylanti Rusija Šiaurės karo metu (1700–1721) sutriuškino Švedijos karaliaus Karolio XII kariuomenę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki Rygos.'
   pagrindžia:
     - c-023
-- t-024
-  teiginys: 'Šitaip pagal Stryjkovskį buvo restauruoti Livonijos Ronneburgo analai ir necrologium14 15.'
-  pagrindžia:
-    - c-024
-- t-025
-  teiginys: 'Jau Livonijos (Ronneburgo) analai parodė, kad Stryjkovskis nebuvo tikslus šaltinių atžvilgiu.'
-  pagrindžia:
-    - c-025
 - t-026
-  teiginys: '1) su Livonija sudarė prekybinę sutartį.'
+  teiginys: 'Gediminas su Livonija sudarė prekybinę sutartį.'
   pagrindžia:
     - c-026
 - t-027
-  teiginys: 'Kryžininkai grįžo atgal, o lietuviai, pasukę Livonijon, ją smarkiai nuteriojo.'
+  teiginys: 'Lietuviai, pasukę į Livoniją, ją smarkiai nuniokojo.'
   pagrindžia:
     - c-027
 - t-028
-  teiginys: 'Jie dar padažnino savo « reizus » Lietuvon: 1370 jų padarė du, o 1372 puolė vienu metu iš Prūsų ir Livonijos.'
+  teiginys: '1372 m. Ordinas puolė Lietuvą vienu metu iš Prūsijos ir Livonijos.'
   pagrindžia:
     - c-028
 - t-029
-  teiginys: 'Ordino kronikose 1345-1382 m. yra suregistruota 66 žygiai iš Prūsų kryžiuočių ir 30—iš Livonijos.'
+  teiginys: 'Ordino kronikose 1345–1382 m. užregistruota 30 žygių iš Livonijos.'
   pagrindžia:
     - c-029
 - t-030
-  teiginys: '1608 m. vasarą Livonijoje išsilaipino grafo Frederiko Joachimo Mansfeldo vadovaujamas 8000 Švedijos karių ekspedicinis korpusas, kuris 1608 m. rugpjūčio 1 d.'
+  teiginys: '1608 m. vasarą Livonijoje išsilaipino grafo Frederiko Joachimo Mansfeldo vadovaujamas 8000 Švedijos karių korpusas.'
   pagrindžia:
     - c-030
 - t-031
-  teiginys: 'Tuo metu pačiai Lietuvai grėsė pavojus iš Švedijos - švedai 1621 m. užėmė didelę dalį Livonijos, karu grasino ir Rusija, tačiau nepaisant to, lietuviai atskubėjo lenkams į pagalbą kovoje su turkais.'
+  teiginys: '1621 m. švedai užėmė didelę Livonijos dalį, o Rusija tuo metu grasino Lietuvai karu.'
   pagrindžia:
     - c-031
-- t-032
-  teiginys: 'Todėl Augustas 11 nusprendė išvyti iš Livonijos švedus ir ją užvaldyti.'
-  pagrindžia:
-    - c-032
-- t-033
-  teiginys: 'Augusto II siekius rėmė ir dalis Švedijos karaliaus Karolio x11 valdymu nepatenkintos Livonijos aristokratijos.'
-  pagrindžia:
-    - c-033
 - t-034
-  teiginys: 'Iš savo pusės, sutikdami apsi­ krikštyti, jiedu pirmiausia reikalavo, kad Vokiečių Ordinas Lie­ tuvai grąžintų žemes iki Deimės ir Alės upių Prūsijoje ir Žiemga­ lius bei Kuršius Livonijoje.'
+  teiginys: 'Sutikdami krikštytis, jie reikalavo, kad Vokiečių ordinas Lietuvai grąžintų žiemgalius ir kuršius Livonijoje.'
   pagrindžia:
     - c-034
 - t-035
-  teiginys: 'Šitomis paliaubomis pasibaigė ilgai traukęsi karai su Maskva dėl Livonijos.'
+  teiginys: 'Paliaubomis pasibaigė ilgai trukę Lietuvos karai su Maskva dėl Livonijos.'
   pagrindžia:
     - c-035
 - t-036
-  teiginys: 'Visa Livonija, anapus Dauguvos, su Ryga buvo palikta švedams.'
+  teiginys: '1629 m. Altmarko paliaubomis Livonija anapus Dauguvos su Ryga buvo palikta švedams.'
   pagrindžia:
     - c-036
 - t-037
-  teiginys: 'Lietuvos sienos Vazų laikais Ilgai trukę karai su Maskva dėl Livonijos pasibaigė Lietuvos ir Lenkijos laimėjimu: Stepono Batoro laikais buvo atgautas Polockas ir visa Livonija (žiūr.'
+  teiginys: 'Stepono Batoro laikais Lietuvos ir Lenkijos karai su Maskva baigėsi Polocko ir visos Livonijos atgavimu.'
   pagrindžia:
     - c-037
 - t-038
-  teiginys: 'Zigmanto Vazos laikais, šiam pradėjus karą dėl Švedijos sosto, Livonija buvo prarasta: ji net iki Dauguvos upės atiteko Švedijai (žiūr.'
+  teiginys: 'Zigmanto Vazos laikais Livonija iki Dauguvos upės atiteko Švedijai.'
   pagrindžia:
     - c-038
 - t-039
-  teiginys: 'Tik labai sumažėjo Lietuvos ir Lenkijos bendrai valdomoji Livonija: didžioji jos dalis su Ryga liko Švedijai; Štumdorfo taika (žiūr.'
+  teiginys: 'Štumdorfo taika grąžino Lietuvai ir Lenkijai tik Latgalą, o didžioji Livonijos dalis su Ryga liko Švedijai.'
   pagrindžia:
     - c-039
+- t-040
+  teiginys: 'Iš Livonijos Vilnių pasiekdavo rykai ir rūbai.'
+  pagrindžia:
+    - c-040
+- t-041
+  teiginys: 'Jau nuo seno visoje Lietuvoje, jai priklausančioje Rusioje ir Livonijos vokiečių žemėse buvo įsitvirtinęs feodalinis val­ dymas.'
+  pagrindžia:
+    - c-041
+- t-042
+  teiginys: 'Rygoje buvo sudarytos paliaubos su Livonijos magistru, apeinant Kęstutį ir jo Žemaitijos kunigaikštystę.'
+  pagrindžia:
+    - c-042
+- t-043
+  teiginys: 'Jogaila be Kęstučio žinios sudarė taikos sutartį su Prūsijos kraštu ir Livonija.'
+  pagrindžia:
+    - c-043
+- t-044
+  teiginys: 'Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją.'
+  pagrindžia:
+    - c-044
+- t-045
+  teiginys: 'Gedimino misija prašė popiežiaus į Livoniją ir Lietuvą atsiųsti tikėjimo mokymą išmanančių vyrų.'
+  pagrindžia:
+    - c-045
+- t-047
+  teiginys: 'Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai atsitraukė į Prūsiją ir Livoniją.'
+  pagrindžia:
+    - c-047
+- t-048
+  teiginys: 'Vytauto laikais Vilniaus prekyba buvo išsišakojusi su Prūsijos ir Livonijos miestais.'
+  pagrindžia:
+    - c-048
+- t-049
+  teiginys: 'Švitrigaila prikalbino Livonijos ordino riterius kartu su juo pulti Vitebską.'
+  pagrindžia:
+    - c-049
+- t-051
+  teiginys: 'Švitrigaila buvo remiamas visos Prūsijos ir Livonijos kryžiuočių galybės.'
+  pagrindžia:
+    - c-051
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -412,7 +428,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   pagrindžia:
     - t-008
 - c-009
-  santrauka: 'Kad būtų lengviau gintis, jis pastatė Rygos pilį (1201 m.), kuri vėliau virto visos valstybės centru ir didžiausiu Livonijos miestu.'
+  santrauka: '1201 m. pastatyta Rygos pilis vėliau tapo valstybės centru ir didžiausiu Livonijos miestu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Kad būtų lengviau gintis, jis pasta-
@@ -426,20 +442,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-009
-- c-010
-  santrauka: '), Livonijoje naujos vokiečių valstybės valdovas buvo jis.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    ), Livonijoje nau-
-    jos vokiečių valstybės valdovas buvo jis. Tada buvo nukariauti
-    visi lybiai, latgaliai, dalis sėlių ir dalis estų.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-010
 - c-011
   santrauka: 'Atsilygindamas už tai, Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -456,7 +458,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   pagrindžia:
     - t-011
 - c-012
-  santrauka: 'Visai Livonijai buvo pripažinta tikėjimo laisvė (mat, ji buvo protestantiška) ir plati savivaldybė, o iš Kuršo ir Žiemgalos buvo sudaryta kunigaikštystė su sostine Jelgavoje (Mintaujoje), kuri buvo pavesta vasalo teisėmis valdyti Ketleriui, ligi pasibaigs jo.'
+  santrauka: 'Livonijai buvo pripažinta tikėjimo laisvė ir plati savivaldybė.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Visai Livonijai bu-
@@ -511,7 +513,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   pagrindžia:
     - t-014
 - c-015
-  santrauka: 'Batorui ateinant į sostą, tarp Lietuvos ir Maskvos tebebuvo neišspręstas ginčas dėl Livonijos (žiūr.'
+  santrauka: 'Batorui ateinant į sostą, Lietuvos ir Maskvos ginčas dėl Livonijos tebebuvo neišspręstas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     ** Batorui ateinant į sostą,
@@ -528,7 +530,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   pagrindžia:
     - t-015
 - c-016
-  santrauka: 'Caras tuo tarpu sugalvojo lengvesnį būdą Livonijai įgyti.'
+  santrauka: 'Caras siekė įgyti Livoniją, kuri tuo metu buvo suskaldyta tarp kelių valstybių.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Caras tuo tarpu sugalvojo lengvesnį būdą Livonijai įgyti.
@@ -543,7 +545,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   pagrindžia:
     - t-016
 - c-017
-  santrauka: 'Sutartyje caras atsisakė nuo Livonijos, Polocko ir Veližo; jam buvo grąžinti tik Didieji Lukai.'
+  santrauka: '1582 m. sutartimi caras atsisakė Livonijos, Polocko ir Veližo, o jam buvo grąžinti tik Didieji Lukai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Todėl po
@@ -573,21 +575,6 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-018
-- c-019
-  santrauka: 'Opoziciją pirmiausia sudarė artimiausi giminaičiai – brolvaikiai, pagalbon pasitelkę ir svetimuosius – Livonijos ordiną ir Voluinę.'
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    Tačiau Mindaugui dar reikėjo įtvirtinti valdžią. 1248 m. padėtis jam
-    tapo labai grėsminga. Opoziciją pirmiausia sudarė artimiausi giminai-
-    čiai – brolvaikiai, pagalbon pasitelkę ir svetimuosius – Livonijos ordiną
-    ir Voluinę.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-019
 - c-020
   santrauka: 'Vadinasi, Mindaugui reikėjo kovoti dėl pagoniškos Žemaitijos su krikščioniškąja Livonija, o kartu Vakarų jėgų ir popiežiaus akyse išlaikyti krikščionio valdovo statusą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -653,37 +640,8 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-023
-- c-024
-  santrauka: 'Šitaip pagal Stryjkovskį buvo restauruoti Livonijos Ronneburgo analai ir necrologium14 15.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Šitaip pagal Stryjkovskį buvo restauruoti
-    Livonijos Ronneburgo analai ir necrologium14 15. Bet toji akyla
-    lotyniška restauracija parodė, kad analų originalo tekstu skubotas
-    Stryjko vskis nesinaudojo tiksliai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-024
-- c-025
-  santrauka: 'Jau Livonijos (Ronneburgo) analai parodė, kad Stryjkovskis nebuvo tikslus šaltinių atžvilgiu.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Jau Livonijos (Ronneburgo) analai parodė, kad Stryjkovskis
-    nebuvo tikslus šaltinių atžvilgiu. Jis neparodė ir žymesnio kritiš­
-    kumo.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-025
 - c-026
-  santrauka: '1) su Livonija sudarė prekybinę sutartį.'
+  santrauka: 'Gediminas su Livonija sudarė prekybinę sutartį.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Jis tada
@@ -698,7 +656,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   pagrindžia:
     - t-026
 - c-027
-  santrauka: 'Kryžininkai grįžo atgal, o lietuviai, pasukę Livonijon, ją smarkiai nuteriojo.'
+  santrauka: 'Lietuviai, pasukę į Livoniją, ją smarkiai nuniokojo.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kryžininkai grįžo atgal, o lietuviai, pasukę Livonijon, ją smarkiai
@@ -714,7 +672,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   pagrindžia:
     - t-027
 - c-028
-  santrauka: 'Jie dar padažnino savo « reizus » Lietuvon: 1370 jų padarė du, o 1372 puolė vienu metu iš Prūsų ir Livonijos.'
+  santrauka: '1372 m. Ordinas puolė Lietuvą vienu metu iš Prūsijos ir Livonijos.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Jie dar padažnino savo « reizus » Lietuvon: 1370 jų padarė du, o
@@ -729,7 +687,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   pagrindžia:
     - t-028
 - c-029
-  santrauka: 'Ordino kronikose 1345-1382 m. yra suregistruota 66 žygiai iš Prūsų kryžiuočių ir 30—iš Livonijos.'
+  santrauka: 'Ordino kronikose 1345–1382 m. užregistruota 30 žygių iš Livonijos.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Ordino kronikose 1345-1382 m. yra suregistruota 66 žygiai iš Prūsų
@@ -743,7 +701,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   pagrindžia:
     - t-029
 - c-030
-  santrauka: '1608 m. vasarą Livonijoje išsilaipino grafo Frederiko Joachimo Mansfeldo vadovaujamas 8000 Švedijos karių ekspedicinis korpusas, kuris 1608 m. rugpjūčio 1 d.'
+  santrauka: '1608 m. vasarą Livonijoje išsilaipino grafo Frederiko Joachimo Mansfeldo vadovaujamas 8000 Švedijos karių korpusas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1608 m. vasarą Livonijoje išsilaipino grafo
@@ -758,7 +716,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   pagrindžia:
     - t-030
 - c-031
-  santrauka: 'Tuo metu pačiai Lietuvai grėsė pavojus iš Švedijos - švedai 1621 m. užėmė didelę dalį Livonijos, karu grasino ir Rusija, tačiau nepaisant to, lietuviai atskubėjo lenkams į pagalbą kovoje su turkais.'
+  santrauka: '1621 m. švedai užėmė didelę Livonijos dalį, o Rusija tuo metu grasino Lietuvai karu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Tuo metu pačiai Lietuvai grėsė pavojus
@@ -780,7 +738,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   pagrindžia:
     - t-031
 - c-032
-  santrauka: 'Todėl Augustas 11 nusprendė išvyti iš Livonijos švedus ir ją užvaldyti.'
+  santrauka: 'Augustas II nusprendė išvyti švedus iš Livonijos ir ją užvaldyti.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Todėl Augustas 11 nusprendė
@@ -795,7 +753,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   pagrindžia:
     - t-032
 - c-033
-  santrauka: 'Augusto II siekius rėmė ir dalis Švedijos karaliaus Karolio x11 valdymu nepatenkintos Livonijos aristokratijos.'
+  santrauka: 'Augusto II siekius rėmė dalis Švedijos karaliaus Karolio XII valdymu nepatenkintos Livonijos aristokratijos.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Augusto II siekius rėmė ir dalis Švedijos kara-
@@ -812,7 +770,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   pagrindžia:
     - t-033
 - c-034
-  santrauka: 'Iš savo pusės, sutikdami apsi­ krikštyti, jiedu pirmiausia reikalavo, kad Vokiečių Ordinas Lie­ tuvai grąžintų žemes iki Deimės ir Alės upių Prūsijoje ir Žiemga­ lius bei Kuršius Livonijoje.'
+  santrauka: 'Sutikdami krikštytis, jie reikalavo, kad Vokiečių ordinas Lietuvai grąžintų žiemgalius ir kuršius Livonijoje.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Iš savo pusės, sutikdami apsi­
@@ -830,7 +788,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   pagrindžia:
     - t-034
 - c-035
-  santrauka: 'Šitomis paliaubomis pasibaigė ilgai traukęsi karai su Maskva dėl Livonijos.'
+  santrauka: 'Paliaubomis pasibaigė ilgai trukę Lietuvos karai su Maskva dėl Livonijos.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     ** Šitomis paliaubomis pasibaigė
@@ -850,7 +808,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   pagrindžia:
     - t-035
 - c-036
-  santrauka: 'Visa Livonija, anapus Dauguvos, su Ryga buvo palikta švedams.'
+  santrauka: '1629 m. Altmarko paliaubomis Livonija anapus Dauguvos su Ryga buvo palikta švedams.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Pagaliau įsimaišė Pran-
@@ -866,7 +824,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   pagrindžia:
     - t-036
 - c-037
-  santrauka: 'Lietuvos sienos Vazų laikais Ilgai trukę karai su Maskva dėl Livonijos pasibaigė Lietuvos ir Lenkijos laimėjimu: Stepono Batoro laikais buvo atgautas Polockas ir visa Livonija (žiūr.'
+  santrauka: 'Stepono Batoro laikais Lietuvos ir Lenkijos karai su Maskva baigėsi Polocko ir visos Livonijos atgavimu.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Lietuvos sienos Vazų laikais
@@ -882,7 +840,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   pagrindžia:
     - t-037
 - c-038
-  santrauka: 'Zigmanto Vazos laikais, šiam pradėjus karą dėl Švedijos sosto, Livonija buvo prarasta: ji net iki Dauguvos upės atiteko Švedijai (žiūr.'
+  santrauka: 'Zigmanto Vazos laikais Livonija iki Dauguvos upės atiteko Švedijai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Zigmanto
@@ -897,7 +855,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   pagrindžia:
     - t-038
 - c-039
-  santrauka: 'Tik labai sumažėjo Lietuvos ir Lenkijos bendrai valdomoji Livonija: didžioji jos dalis su Ryga liko Švedijai; Štumdorfo taika (žiūr.'
+  santrauka: 'Štumdorfo taika grąžino Lietuvai ir Lenkijai tik Latgalą, o didžioji Livonijos dalis su Ryga liko Švedijai.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tik labai suma-
@@ -911,3 +869,226 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-039
+- c-040
+  santrauka: 'Iš Livonijos Vilnių pasiekdavo rykai ir rūbai.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    ## Puslapis 40
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    atveždavo kai kokių Rytų vaisių, o iš Lenkijos, glaudžia gi­
+    minyste susietos, ir iš Livonijos pasiekdavo rykai ir rūbai.
+    Juk jei visas kraštas, didesne dalimi anuomet dar laukinis,
+    svetimšaliams pirkliams galėjo būti pelno šaltinis, tai jo sos­
+    tinei, ypač turinčiai rūmus tokio galingo valdovo, koks bu­
+    vo Gediminas, tie ryšiai, suprantama, buvo pravartus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-040
+- c-041
+  santrauka: 'Jau nuo seno visoje Lietuvoje, jai priklausančioje Rusioje ir Livonijos vokiečių žemėse buvo įsitvirtinęs feodalinis val­ dymas.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Jau nuo seno visoje Lietuvoje, jai priklausančioje Rusioje
+    ir Livonijos vokiečių žemėse buvo įsitvirtinęs feodalinis val­
+    dymas. Jo užuomazgos, mažumėlę kitoniškų formų, ruseno
+    Lenkijoje, kur turtingi aristokratai kartu su dvasininkija Vla­
+    dislovo Lokietkos laikais pradėjo šaukti suvažiavimus ir tau­
+    tos pasitarimus, taip klodami busimosios šlėktų laisvės pa­
+    matus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-041
+- c-042
+  santrauka: 'Rygoje buvo sudarytos paliaubos su Livonijos magistru, apeinant Kęstutį ir jo Žemaitijos kunigaikštystę.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Taip
+    pat buvo sudarytos paliaubos su Livonijos magistru Rygo­
+    je, apeinant Kęstutį ir jo Žemaitijos kunigaikštystę29. Kitais
+    metais, kai Jogaila savo įbrolio, bet Kęstučiui palankaus An­
+    driaus Algirdaičio vietoje į Polocko kunigaikštystę pasiuntė
+    tikrą brolį Skirgailą, buvo prieita iki atviro susirėmimo30.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-042
+- c-043
+  santrauka: 'Jogaila be Kęstučio žinios sudarė taikos sutartį su Prūsijos kraštu ir Livonija.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    364, taip pat, tik pa­
+    prastais žodžiais tą įvykį yra aiški­
+    nęs: „Po to mūsų tėvas (Kęstutis) su­
+    sižinojo iš kelių savo draugų, kad
+    kunigaikštis Jogaila, be mūsų tėvo
+    žinios ir nuo jo slėpdamasis, sudarė
+    taikos sutartį su Prūsijos kraštu ir su
+    Livonija, ir taip išdavė mūsų tėvą, ir
+    atidavė jį pražūčiai. Ir prisiekė Jogai­
+    la, kaip mūsų tėvui nepadės, ir gy­
+    rėsi, kaip mano tėvą ir mane patį pa­
+    gaus, ir kaip mano tėvą ir mane pati
+    35
+
+    ## Puslapis 52
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    Pasigailėjo laimėtojas Jogailos, nors iš surastų pas jį doku­
+    mentų akivaizdžiai įsitikino jo priešiškumu, bet, Vytautui
+    užsistojus, kartu su motina į tėvoniją, į Vitebską, išsiuntė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-043
+- c-044
+  santrauka: 'Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Kol vokiečių kariau­
+    na dar delsė stovyklaudama Žemaitijoje, galingas lietuvių
+    pulkas įsiveržė į Livoniją ir pirmiausia ugnimi bei kardu
+    nusiaubė Dorpato vyskupiją; daugiau kaip penki tūkstan­
+    čiai krikščionių buvo per tą antpuolį užmušta ar į nelaisvę
+    išsivesta3. Vėliau tarp kryžiuočių buvo įsigalėjusi visuotinė
+    nuomonė, esą kupinas senos neapykantos Rygos arkivys­
+    kupas Fridrichas atsikvietęs priešą į šalį; bent jau neabejoti­
+    nas dalykas, jog Gediminas nuo to laiko su arkivyskupu bu­
+    vo susimokęs ir veikė jo patarimų ir planų paisydamas1 5 .
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-044
+- c-045
+  santrauka: 'Gedimino misija prašė popiežiaus į Livoniją ir Lietuvą atsiųsti tikėjimo mokymą išmanančių vyrų.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Mat
+    atvyko į popiežiaus rūmus misija žodžiu pareikšti popiežiui
+    apie Gedimino ryžtą pereiti į naują tikėjimą ir prašyti, kad
+    teiktųsi į Livoniją ir Lietuvą atsiųsti dievotų ir gerai išma­
+    nančių tikėjimo mokymą vyrų, kurie uoliai prisidėtų pildant
+    valdovo sumanymą. Atvykę taip pat Rygos miesto pasiun­
+    tiniai pranešė popiežiui, kad Gediminas prašęs Ordino ri­
+    terių, vyskupų ir Livonijos miestų tarpininkauti sudarant
+    taiką, kad dėl to tartasi ir kartu apsvarstytas valdovo laiškų,
+    rašytų į Vokietiją, tikrumas ir pagaliau po pasitarimų pas
+    jį išleista ori misija, kuri pagarbiai sutikta, iškilmingai pri­
+    imta ir kuri pagal turimus įgaliojimus sudarė taikos sutar­
+    tį, ištisai visą abiejų besitariančių pusių priesaikomis pa­
+    tvirtintą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-045
+- c-047
+  santrauka: 'Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai atsitraukė į Prūsiją ir Livoniją.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    - • —
+    126
+
+    ## Puslapis 143
+
+    Il KNYGA
+    po įtemptos, tačiau perniek nuėjusios, pilies apsupties, kry­
+    žiuočiai galop atsitraukė ir, palikę Vilnių, kraštą ugnimi ir
+    kalaviju nusiaubę, grįžo į Prūsiją ir Livoniją. Puolėjų nuos­
+    toliai buvo irgi ne mažesni; be daugybės nukautų karių, prie
+    Vilniaus šūvio pakirstas žuvo Lietuvos kunigaikštis, Kęstu­
+    čio sūnus, Vytauto tikras brolis Tautvilas ir Hohenšteino gra­
+    fas Algardas34.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-047
+- c-048
+  santrauka: 'Vytauto laikais Vilniaus prekyba buvo išsišakojusi su Prūsijos ir Livonijos miestais.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Juk
+    tas didis žmogus mėgo tvarką ir krašte jos reikalaudavo, glo­
+    bojo pirklius, ir prekyba Vilniuje jau plačiai išsišakojo - su
+    Prūsijos bei Livonijos miestais, su Pskovu, Naugardu ir Mask­
+    va, o naudodamasi galingo monarcho parama, jau pasiekė ir
+    tolimus kraštus, bet jai trukdydavo dažni karai: ir, regis, Vil­
+    nius savo dydžiu ir turtais nepasiekė tokių aukštumų, iki ko­
+    kių turėjo išaugti būdamas tokios didelės valstybės sostinė.
+    Esant karinei valdžiai, viešpataujant valdovams, besirūpinan­
+    tiems vien nukariavimais ir, po teisybei, naujos monarchijos
+    kūrimu, toje sumaištyje, kuri anuomet dar tvyrojo šiaurės
+    kraštuose, kai barbariškumas lėtai ir sunkiai traukėsi, įveik­
+    tas Kristaus tikėjimo šviesos, miestai tikrai dar negalėjo su­
+    klestėti!
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-048
+- c-049
+  santrauka: 'Švitrigaila prikalbino Livonijos ordino riterius kartu su juo pulti Vitebską.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Sėkmė lydėjo Vytautą ir susidūrus su Švitrigaila, kuris, nie­
+    ko nepešęs prie Vilniaus, prikalbino Livonijos ordino rite­
+    rius drauge su juo pulti Vitebską. Vytautas, sutelkęs Smo­
+    lenske pulkus, apsupo tą miestą ir po keturias savaites
+    užsitęsusio puolimo užėmė Vitebską, o Švitrigailą paėmė į
+    nelaisvę.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-049
+- c-051
+  santrauka: 'Švitrigaila buvo remiamas visos Prūsijos ir Livonijos kryžiuočių galybės.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    210
+
+    ## Puslapis 227
+
+    III KNYGA
+    čų su Vytautu nuolat susijęs su Ordinu, visiškai pasidavęs jo
+    įtakai, dabar, remiamas stipraus šalininko ir visos Prūsijos
+    bei Livonijos kryžiuočių galybės, buvo taip pakerėtas noro
+    tapti Lietuvos valdovu, jog nebeįstengė slėpti troškimo at­
+    keršyti. Šį norą dar labiau sustiprino Vilniuje gauta žinia, kad
+    Podolės bajorai, vadovaujami Gregoro Kierdėjaus, klastingai
+    sugavę Daugirdą Gedgailą, anuomet Vytauto vardu valdžiusį
+    Podolę, visą šį kraštą nuo Lietuvos atplėšė Lenkijai, atiduo­
+    dami viršenybę Bučackiams.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-051

@@ -7,6 +7,8 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
+  - '1200 m.'
+  - '1337 m.'
   - '1338 m.'
   - '1360 m.'
   - '1412 m.'
@@ -20,13 +22,15 @@ periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
   - 'XX a.'
+  - 'viduramžiai'
 amziai:
   - 'V'
+  - 'XII'
   - 'XIV'
   - 'XV'
   - 'XX'
   - 'XXI'
-date_start: '1338'
+date_start: '1200'
 date_end: '2026'
 patikimumas: 'žemas'
 tags:
@@ -64,11 +68,11 @@ saugoti Dubysos upyną.
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-005
-  teiginys: 'Kada Vytautas, išvykęs į Panemunę žvalgybų, pra­ nešė savo tėvui, kad Bajerburgo pilyje, netoli Veliuonos, yra susimetę kryžiuočiai, o Jogaila, sužinojęs apie tai iš Kęstučio, vis dėlto atsiuntė savo brolį Kaributą pagalbon.'
+  teiginys: 'Vytautas pranešė Kęstučiui, kad Bajerburgo pilyje netoli Veliuonos yra susimetę kryžiuočiai.'
   pagrindžia:
     - c-005
 - t-006
-  teiginys: 'Jis griežtai pareiškė, ne tiktai niekada neišsižadėsiąs savo tėviškės, Veliuonos, bet galįs siek­ ti ir Prūsijos, nes ir tas kraštas seniau priklausė jo protėviams.'
+  teiginys: 'Vytautas pareiškė niekada neišsižadėsiąs savo tėviškės Veliuonos ir galįs siekti Prūsijos.'
   pagrindžia:
     - c-006
 - t-007
@@ -76,29 +80,17 @@ saugoti Dubysos upyną.
   pagrindžia:
     - c-007
 - t-008
-  teiginys: 'Tai buvo po nenusisekusių Veliuonos (1418) derybų nu­ statyti Žemaitijos sienas.'
+  teiginys: '1418 m. Veliuonos derybose nepavyko nustatyti Žemaitijos sienų.'
   pagrindžia:
     - c-008
-- t-009
-  teiginys: 'Iš Rudaičių ir Veliuonos kapinynų duomenų pateikė M.'
-  pagrindžia:
-    - c-009
-- t-010
-  teiginys: 'Yra tikra tiek, jog ilgai buvo klaidingai aiškinta, kad Gediminas esąs žuvęs per Veliuonos apgulimą 1338 m., į pečius kryžiuočių pašautas.'
-  pagrindžia:
-    - c-010
 - t-011
   teiginys: 'Tuo pat metu, kai kryžiuočiai įrodinėjo, kad dešinysis Nemuno krantas nuo seno tik jiems priklausęs, Vytautas pasistatė tvirtą Veliuonos pilį, o Dubysos žiotyse (Seredžiuje) atstatė Peštvę, nuo XIX amž. žinomą « Palemono kalno » vardu^2.'
   pagrindžia:
     - c-011
 - t-012
-  teiginys: 'Šitas vengriškos kilmės teisių žinovas, nuvykęs į Žemaitijos pasienius, vietoje turėjo išspręsti, ar Veliuonos ir Klaipėdos pilys yra Žemaičių žemės ribose, kadangi jau Budoje pasiuntiniai Lietuvos vardu pareiškė, jog kryžiuočiai Klaipėdos pilį valdą.'
+  teiginys: 'Vengriškos kilmės teisių žinovas turėjo vietoje išspręsti, ar Veliuonos ir Klaipėdos pilys yra Žemaičių žemės ribose.'
   pagrindžia:
     - c-012
-- t-013
-  teiginys: '81 Vechra, upė 287, 312 Vedrošos kautynės 39 Veiviržo upė 180 Vėjukų pilis 227, 235 Velikaja, upė 158 Veliuona 77, 100, 105, 216, 236, 237, 244, 251, 256, 345-347, 352, 353, 357, 358, 360 Vėluva, Prūsuose 250, 252 Vencelis, Čekijos karalius 62, 373, žr.'
-  pagrindžia:
-    - c-013
 - t-014
   teiginys: 'Atvykus naujai pagalbai Ordinui, „daug vokiečių, anglų“, kryžiuočiai vėl veikė prie Nemuno, rugpjūtį magistrui pavyko sunaikinti svarbią lietuvių Veliuonos pilį.'
   pagrindžia:
@@ -107,6 +99,26 @@ saugoti Dubysos upyną.
   teiginys: 'Tais metais maršalo vadovaujama Ordino kariuomenė, su talkininkais iš Vokietijos atplaukusi laivais, puolė Veliuonos pilį, padarė jai daug žalos.'
   pagrindžia:
     - c-015
+- t-016
+  teiginys: 'Gediminas, pasak citatos, buvo nužudytas 1337 m. prie Bajerburgo pilies, per mylią nuo Veliuonos.'
+  pagrindžia:
+    - c-016
+- t-017
+  teiginys: 'Mes net veikiau Veliuonoje negu Vilniuje tą Gedimino pilį manytume buvus.'
+  pagrindžia:
+    - c-017
+- t-018
+  teiginys: '100 ## Puslapis 117 III APIE VELIUONĄ IR KRYŽIUOČIŲ PILIS PALEI NEMUNĄ Veliuona, seniau pilis, pastatyta tikriausiai XIII amžiuje, kad Žemaitijos sienos būtų įtvirtinimais apsaugotos nuo kry­ žiuočių puldinėjimų, įsimintina dėl nuolatinių Gedimino ko­ vų su.'
+  pagrindžia:
+    - c-018
+- t-019
+  teiginys: 'Senoji Veliuonos piliavietė apėmė du kalnus prie Nemuno, sujungtus tiltu per gilią griovą.'
+  pagrindžia:
+    - c-019
+- t-020
+  teiginys: 'Veliuonėlė įteka į Nemuną ir iš šiaurės skalauja Pilies bei Gedimino kalno šlaitus.'
+  pagrindžia:
+    - c-020
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -181,7 +193,7 @@ saugoti Dubysos upyną.
   pagrindžia:
     - t-004
 - c-005
-  santrauka: 'Kada Vytautas, išvykęs į Panemunę žvalgybų, pra­ nešė savo tėvui, kad Bajerburgo pilyje, netoli Veliuonos, yra susimetę kryžiuočiai, o Jogaila, sužinojęs apie tai iš Kęstučio, vis dėlto atsiuntė savo brolį Kaributą pagalbon.'
+  santrauka: 'Vytautas pranešė Kęstučiui, kad Bajerburgo pilyje netoli Veliuonos yra susimetę kryžiuočiai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kada Vytautas, išvykęs į Panemunę žvalgybų, pra­
@@ -196,7 +208,7 @@ saugoti Dubysos upyną.
   pagrindžia:
     - t-005
 - c-006
-  santrauka: 'Jis griežtai pareiškė, ne tiktai niekada neišsižadėsiąs savo tėviškės, Veliuonos, bet galįs siek­ ti ir Prūsijos, nes ir tas kraštas seniau priklausė jo protėviams.'
+  santrauka: 'Vytautas pareiškė niekada neišsižadėsiąs savo tėviškės Veliuonos ir galįs siekti Prūsijos.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Bet
@@ -233,7 +245,7 @@ saugoti Dubysos upyną.
   pagrindžia:
     - t-007
 - c-008
-  santrauka: 'Tai buvo po nenusisekusių Veliuonos (1418) derybų nu­ statyti Žemaitijos sienas.'
+  santrauka: '1418 m. Veliuonos derybose nepavyko nustatyti Žemaitijos sienų.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tai buvo po nenusisekusių Veliuonos (1418) derybų nu­
@@ -249,7 +261,7 @@ saugoti Dubysos upyną.
   pagrindžia:
     - t-008
 - c-009
-  santrauka: 'Iš Rudaičių ir Veliuonos kapinynų duomenų pateikė M.'
+  santrauka: 'M. Michelbertas pateikė duomenų iš Rudaičių ir Veliuonos kapinynų.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Iš Rudaičių ir Veliuonos
@@ -264,7 +276,7 @@ saugoti Dubysos upyną.
   pagrindžia:
     - t-009
 - c-010
-  santrauka: 'Yra tikra tiek, jog ilgai buvo klaidingai aiškinta, kad Gediminas esąs žuvęs per Veliuonos apgulimą 1338 m., į pečius kryžiuočių pašautas.'
+  santrauka: 'Ilgai buvo klaidingai aiškinta, kad Gediminas žuvo per Veliuonos apgulimą 1338 m.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Yra tikra tiek,
@@ -296,7 +308,7 @@ saugoti Dubysos upyną.
   pagrindžia:
     - t-011
 - c-012
-  santrauka: 'Šitas vengriškos kilmės teisių žinovas, nuvykęs į Žemaitijos pasienius, vietoje turėjo išspręsti, ar Veliuonos ir Klaipėdos pilys yra Žemaičių žemės ribose, kadangi jau Budoje pasiuntiniai Lietuvos vardu pareiškė, jog kryžiuočiai Klaipėdos pilį valdą.'
+  santrauka: 'Vengriškos kilmės teisių žinovas turėjo vietoje išspręsti, ar Veliuonos ir Klaipėdos pilys yra Žemaičių žemės ribose.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Šitas vengriškos kilmės teisių žinovas, nuvykęs
@@ -312,29 +324,6 @@ saugoti Dubysos upyną.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-012
-- c-013
-  santrauka: '81 Vechra, upė 287, 312 Vedrošos kautynės 39 Veiviržo upė 180 Vėjukų pilis 227, 235 Velikaja, upė 158 Veliuona 77, 100, 105, 216, 236, 237, 244, 251, 256, 345-347, 352, 353, 357, 358, 360 Vėluva, Prūsuose 250, 252 Vencelis, Čekijos karalius 62, 373, žr.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    81
-    Vechra, upė 287, 312
-    Vedrošos kautynės 39
-    Veiviržo upė 180
-    Vėjukų pilis 227, 235
-    Velikaja, upė 158
-    Veliuona 77, 100, 105, 216, 236, 237,
-    244, 251, 256, 345-347, 352, 353,
-    357, 358, 360
-    Vėluva, Prūsuose 250, 252
-    Vencelis, Čekijos karalius 62, 373,
-    žr.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-013
 - c-014
   santrauka: 'Atvykus naujai pagalbai Ordinui, „daug vokiečių, anglų“, kryžiuočiai vėl veikė prie Nemuno, rugpjūtį magistrui pavyko sunaikinti svarbią lietuvių Veliuonos pilį.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -376,3 +365,112 @@ saugoti Dubysos upyną.
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-015
+- c-016
+  santrauka: 'Gediminas, pasak citatos, buvo nužudytas 1337 m. prie Bajerburgo pilies, per mylią nuo Veliuonos.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­
+    lies, per mylią nuo Veliuonos15, mūšyje su kryžiuočiais, Jau­
+    nutis, vyriausias jo sūnus, paveldėjo ne tik sostą kartu su
+    valdovo, arba Lietuvos didžiojo kunigaikščio, pareigomis,
+    13
+    Rygos miestas buvo įkurtas 1200
+    metais, ant kalno, vadinto Righe,
+    Dvinos pakrantėje, vyskupo Alber­
+    to fon Apeldemo, pasiųsto skleisti
+    krikščioniškąjį tikėjimą Livonijoje,
+    bet ten dar prieš aštuonerius metus
+    Bremeno pirkliai jau buvo pastaty­
+    dinę keletą namų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016
+- c-017
+  santrauka: 'Mes net veikiau Veliuonoje negu Vilniuje tą Gedimino pilį manytume buvus.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tai­
+    gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs
+    būti ta vadinama Castrum Gedemini, yra visiškai atmestina.
+    Mes net veikiau Veliuonoje negu Vilniuje tą Gedimino pilį
+    manytume buvus.
+    g
+    Post haec XI Kalendas Junii Fr.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
+- c-018
+  santrauka: '100 ## Puslapis 117 III APIE VELIUONĄ IR KRYŽIUOČIŲ PILIS PALEI NEMUNĄ Veliuona, seniau pilis, pastatyta tikriausiai XIII amžiuje, kad Žemaitijos sienos būtų įtvirtinimais apsaugotos nuo kry­ žiuočių puldinėjimų, įsimintina dėl nuolatinių Gedimino ko­ vų su.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    100
+
+    ## Puslapis 117
+
+    III
+    APIE VELIUONĄ IR KRYŽIUOČIŲ PILIS PALEI NEMUNĄ
+    Veliuona, seniau pilis, pastatyta tikriausiai XIII amžiuje,
+    kad Žemaitijos sienos būtų įtvirtinimais apsaugotos nuo kry­
+    žiuočių puldinėjimų, įsimintina dėl nuolatinių Gedimino ko­
+    vų su Ordinu šioje vietovėje, nusidriekusi ties Nemunu, už
+    7 mylių nuo Kauno, per pusę mylios nuo Jurbarko ir per
+    pusantros mylios nutolusi nuo dabartinės Prūsijos sienos.
+    Šiandieninė Veliuona - tai miestelis, kuriame, kartu su kai­
+    mu prie jo, yra apie 160 namų ir dvaras. Pats miestelis dali­
+    jamas į aukštutinį ir žemutinį: pirmajame stovi aukšta goti­
+    kinė mūro bažnyčia, kurios mažesnioji pusė, tai yra Sanctuarium
+    [šventovė], regis, turėtų būti senesnių metų ir, pasak vieti­
+    nio padavimo, gali siekti net pagonybės laikus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018
+- c-019
+  santrauka: 'Senoji Veliuonos piliavietė apėmė du kalnus prie Nemuno, sujungtus tiltu per gilią griovą.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Senoji pi­
+    liavietė rėpė du kalnus ties Nemunu, sujungtus tiltu, nu­
+    tiestu per gana gilią griovą, tarp kurios polių buvo net kalė­
+    jimas atitvertas, kai Veliuona kurį laiką buvo Žemaitijos
+    pavieto centras. Ant vieno iš tų kalnų dabar stovi bažnyčia,
+    ° už jos - aukštutinis miestas; ant kito - dvaro parkas ir so­
+    das. Visas kalnas parko dalyje nusėtas nuolaužomis, bet ki-
+    lp pėdsakų, kad čia stovėta pilies, nėra, nors ji buvo mūrinė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019
+- c-020
+  santrauka: 'Veliuonėlė įteka į Nemuną ir iš šiaurės skalauja Pilies bei Gedimino kalno šlaitus.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Mažas upeliu­
+    kas, Veliuonėlė, įteka į Nemuną, iš šiaurės skalaudama Pi­
+    lies ir Gedimino kalno šlaitus. Tokie kalnų pavadinimai,
+    pirmtakų duoti, iki šiol išlikę, iš senovės laikų perimta tra­
+    dicija; ir tas pilkapis, kaip žinia, kapavietė, tad labai tikėti­
+    na, jog tai yra netoli nuo Veliuonos, prie Bajerburgo pilies,
+    žuvusio Gedimino kapas. Dabar Veliuona priklauso dvari­
+    ninkui Mykolui Zaleskiui.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020

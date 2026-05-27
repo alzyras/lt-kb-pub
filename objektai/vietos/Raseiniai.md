@@ -47,7 +47,7 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: 'Kaip jau matėme, 1416 metais Vytautas Varniuose pastatė katedrą ir aštuonias parapijines bažnyčias: Viduklėje, Kaltinėnuose, Kelmėje, Raseiniuose, Luokėje, Kra­ žiuose, Airiogaloje, Veliuonoje.'
+  teiginys: '1416 m. Vytautas pastatė parapijinę bažnyčią Raseiniuose.'
   pagrindžia:
     - c-003
 - t-004
@@ -55,15 +55,15 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
   pagrindžia:
     - c-004
 - t-005
-  teiginys: 'Karūnavimo metais jis užrašė Žemaičiuose po pusę žemių Raseinių, Betygalos, Ariogalos ir Laukuvos.'
+  teiginys: 'Karūnavimo metais Mindaugas Žemaičiuose užrašė po pusę Raseinių, Betygalos, Ariogalos ir Laukuvos žemių.'
   pagrindžia:
     - c-005
 - t-006
-  teiginys: 'Kniprodė smarkiai teriojo Gaižuvos, Ariogalos ir Raseinių sritis; tik dėl staigaus polaidžio jis turėjo gana nuostolingą grįžimą^12.'
+  teiginys: '1352 m. vasarį Kniprodė smarkiai teriojo Gaižuvos, Ariogalos ir Raseinių sritis.'
   pagrindžia:
     - c-006
 - t-007
-  teiginys: 'Viso Žemaičių krašto vardu pavardėmis surašyti 31 atstovas iš septynių Žemaičių aukštumos sričių (Ariogalos, Kal­ tinėnų, Knituvos, Kražių, Medingėnų, Raseinių ir Viduklės) darė taiką su Vytautu ir ordinu.'
+  teiginys: 'Raseinių atstovai buvo tarp 31 Žemaičių aukštumos atstovo, dariusio taiką su Vytautu ir Ordinu.'
   pagrindžia:
     - c-007
 - t-008
@@ -74,6 +74,10 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
   teiginys: 'Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupui gyvenamąja vieta paskyrė Žemaičius ir dovanojo jam čia kai kurias žemes: po pusę Raseinių, Ariogalos, Betygalos, Laukuvos ir kt.'
   pagrindžia:
     - c-009
+- t-010
+  teiginys: 'Kryžiuočių ginkluota palyda po žudynių pasiekė Raseinių ribas, o vėliau ir Ariogalos apylinkes.'
+  pagrindžia:
+    - c-010
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -110,7 +114,7 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Kaip jau matėme, 1416 metais Vytautas Varniuose pastatė katedrą ir aštuonias parapijines bažnyčias: Viduklėje, Kaltinėnuose, Kelmėje, Raseiniuose, Luokėje, Kra­ žiuose, Airiogaloje, Veliuonoje.'
+  santrauka: '1416 m. Vytautas pastatė parapijinę bažnyčią Raseiniuose.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kaip jau matėme, 1416 metais Vytautas
@@ -142,7 +146,7 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
   pagrindžia:
     - t-004
 - c-005
-  santrauka: 'Karūnavimo metais jis užrašė Žemaičiuose po pusę žemių Raseinių, Betygalos, Ariogalos ir Laukuvos.'
+  santrauka: 'Karūnavimo metais Mindaugas Žemaičiuose užrašė po pusę Raseinių, Betygalos, Ariogalos ir Laukuvos žemių.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Karūnavimo metais jis užrašė Žemaičiuose
@@ -156,7 +160,7 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
   pagrindžia:
     - t-005
 - c-006
-  santrauka: 'Kniprodė smarkiai teriojo Gaižuvos, Ariogalos ir Raseinių sritis; tik dėl staigaus polaidžio jis turėjo gana nuostolingą grįžimą^12.'
+  santrauka: '1352 m. vasarį Kniprodė smarkiai teriojo Gaižuvos, Ariogalos ir Raseinių sritis.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Bet jau 1352.II. Kniprodė smarkiai
@@ -170,7 +174,7 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
   pagrindžia:
     - t-006
 - c-007
-  santrauka: 'Viso Žemaičių krašto vardu pavardėmis surašyti 31 atstovas iš septynių Žemaičių aukštumos sričių (Ariogalos, Kal­ tinėnų, Knituvos, Kražių, Medingėnų, Raseinių ir Viduklės) darė taiką su Vytautu ir ordinu.'
+  santrauka: 'Raseinių atstovai buvo tarp 31 Žemaičių aukštumos atstovo, dariusio taiką su Vytautu ir Ordinu.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Viso Žemaičių krašto vardu pavardėmis surašyti
@@ -228,3 +232,21 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-009
+- c-010
+  santrauka: 'Kryžiuočių ginkluota palyda po žudynių pasiekė Raseinių ribas, o vėliau ir Ariogalos apylinkes.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Baigusi kruvinus darbus, ginkluota palyda kitą die­
+    ną pasiekė Raseinių ribas, o vėliau ir Ariogalos apylinkes.
+    Abi tos vietovės pagonims buvo labai svarbios, juk čia sto­
+    vėjo Romuva (Perkūno šventykla ir vyriausiojo vaidilos Kri­
+    vių Krivaičio pagrindinė buveinė). Pakeliui viską versdama
+    pelenais, kryžiuočių kariauna puolėsi Bisenės pilies link, pa­
+    siryžusi užimti ją šturmu, ir jau vėlų vakarą imta pulti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010

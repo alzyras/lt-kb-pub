@@ -61,7 +61,7 @@ Nenurodyta
 - [[temos/privilegija]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Algirdas]]
 - [[objektai/daiktai/Apgulties mašinos]]
 - [[objektai/asmenys/Birutė]]
 - [[objektai/posakiai/„Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!“]]

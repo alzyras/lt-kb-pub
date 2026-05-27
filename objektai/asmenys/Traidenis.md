@@ -58,13 +58,17 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-013
-  teiginys: 'Pats Traidenis, pietuose atrėmęs priešo atakas, 1272 m. prie Vakarų Bugo, pasiuntęs ten gardiniečius, užėmė Drohičiną (dab.'
+  teiginys: '1272 m. Traidenis, pasiuntęs gardiniečius, užėmė prie Vakarų Bugo buvusį Drohičiną.'
   pagrindžia:
     - c-005
 - t-014
   teiginys: 'Žymus Lietuvos valdovas ir karo vadas Traidenis atkakliai gynė Lietuvą bei kitus baltus plačiuose frontuose.'
   pagrindžia:
     - c-006
+- t-017
+  teiginys: 'Viename dokumente pasakojama apie kunigaikščių Ziemovito ir Traidenio įsiveržimą į Dobrynės žemę.'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -139,7 +143,7 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   pagrindžia:
     - t-012
 - c-005
-  santrauka: 'Pats Traidenis, pietuose atrėmęs priešo atakas, 1272 m. prie Vakarų Bugo, pasiuntęs ten gardiniečius, užėmė Drohičiną (dab.'
+  santrauka: '1272 m. Traidenis, pasiuntęs gardiniečius, užėmė prie Vakarų Bugo buvusį Drohičiną.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Pats Traidenis, pietuose atrėmęs priešo
@@ -175,15 +179,29 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-014
+- c-009
+  santrauka: 'Viename dokumente pasakojama apie kunigaikščių Ziemovito ir Traidenio įsiveržimą į Dobrynės žemę.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Viename dokumen­
+    te, apie kurį vėliau smulkiau kalbė­
+    sime, pasakojama apie kunigaikščių
+    Ziemovito ir Traidenio įsiveržimą į
+    Dobrynės žemę. Qui prophanus dux
+    David paulo ante indictas treugas pre-
+    dictas Ingrediens cum valido exercitu
+    Litwanorum terram Dobrinens.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Baltai]]
-- [[objektai/grupes/Gediminaičiai]]
-- [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/ivykiai/Gedimino sąjunga su Lenkija]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Livonijos ordinas]]
 - [[objektai/asmenys/Mamšėjus]]
 - [[objektai/asmenys/Nogajus (Aukso ordos valdytojas)]]
 - [[objektai/ivykiai/Ragainės pilies puolimas ir Christmemelio apgultis (1315 m.)]]

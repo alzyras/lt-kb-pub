@@ -81,8 +81,10 @@ Sovietmečio kasdienybėje deficitas reiškė apytuštes parduotuves, maisto ir 
 
 ## Ryšiai
 ### Teminiai klasteriai
+- [[temos/kasdienybė]]
 - [[temos/socialinė-praktika]]
 
 ### Susiję objektai
+- [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai]]
 - [[objektai/daiktai/Deficitinės vartojimo prekės]]
 - [[objektai/zodynas/deficitas talonai]]

@@ -47,9 +47,17 @@ Lietuvos pasieny, o iš kitos pusės, nuo Lenkijos netolimoje Saksonijoje, jis b
   pagrindžia:
     - c-002
 - t-003
-  teiginys: 'Šiaurės karas 1700 m. Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą.'
+  teiginys: '1700 m. Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą.'
   pagrindžia:
     - c-003
+- t-004
+  teiginys: 'Į Vilnių atvyko nemažai amatininkų iš Vokietijos, įskaitant Saksoniją, Sileziją, Liubeką ir kitus Hanzos miestus.'
+  pagrindžia:
+    - c-004
+- t-005
+  teiginys: 'Gediminas rašė laiškus dominikonų ordino vyresniesiems į Saksoniją, Mažesniųjų brolių ordinui ir pajūrio miestams.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -83,7 +91,7 @@ Lietuvos pasieny, o iš kitos pusės, nuo Lenkijos netolimoje Saksonijoje, jis b
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Šiaurės karas 1700 m. Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą.'
+  santrauka: '1700 m. Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Šiaurės karas
@@ -101,3 +109,44 @@ Lietuvos pasieny, o iš kitos pusės, nuo Lenkijos netolimoje Saksonijoje, jis b
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+- c-004
+  santrauka: 'Į Vilnių atvyko nemažai amatininkų iš Vokietijos, įskaitant Saksoniją, Sileziją, Liubeką ir kitus Hanzos miestus.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Žinodami gausią globą ir ypatingas privilegijas, o krikščio­
+    nys - garantuotą tikėjimo laisvę, atvyko nemažai amatinin­
+    kų iš Vokietijos - Saksonijos, Silezijos, Liubeko ir kitų Han­
+    zos miestų, ir kartu su Rusios bei Livonijos pirkliais jie
+    pasidarė turtingiausias Vilniaus gyventojų sluoksnis. Savo
+    ruožtu lietuvių didikai ir kunigaikščio giminės, gyvenę Ge­
+    dimino dvare, statydinosi ties pilimi medinius savo rūmus,
+    o aplink kurdino savo valdinius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-004
+- c-005
+  santrauka: 'Gediminas rašė laiškus dominikonų ordino vyresniesiems į Saksoniją, Mažesniųjų brolių ordinui ir pajūrio miestams.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tuo pat metu buvo paskelbti ir kiti laiškai, kuriuos Ge­
+    diminas rašė dominikonų ordino vyresniesiems, būtent į
+    Saksoniją, Mažesniųjų brolių ordinui ir pajūrio miestams -
+    Liubekui, Rostokui, Zundui, Greifsvaldui, Štetinui ir Got-
+    landui, pranešdamas juose, kad kreipėsi į popiežių,
+    prašydamas išsiųsti pas jį pasiuntinius, kad jų nekantrau­
+    damas laukiąs, kad pasiryžęs sutikti su visais popiežiaus
+    įsakymais. „Pageidautume, - rašo toliau, - savo krašte tu­
+    rėti dvasininkų ir vyskupų; šventai saugosime bažnyčios
+    teises, dvasininkus gerbsime, Dievo garbinimą maldomis
+    plėtosime.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005

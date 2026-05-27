@@ -53,6 +53,7 @@ Prie Vorsklos galvas paguldė Vytauto ištikimieji Smolensko vietininkai Boreika
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Andrius Algirdaitis]]
 - [[objektai/asmenys/Dlugošas]]
 - [[objektai/grupes/Karijotaičiai]]
 - [[objektai/asmenys/Mykolas]]

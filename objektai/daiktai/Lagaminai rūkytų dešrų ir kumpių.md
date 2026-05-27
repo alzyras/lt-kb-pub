@@ -74,5 +74,8 @@ Nenurodyta
     - t-003
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/buities-daiktas]]
+
 ### Susiję objektai
 - [[objektai/zodynas/dolgostrojai]]

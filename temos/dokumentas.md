@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 58.
+Objektų skaičius: 60.
 
 ## Kaip naudoti
 
@@ -49,6 +49,7 @@ Objektų skaičius: 58.
 - [[objektai/daiktai/Išsaugotos Toros]]
 - [[objektai/daiktai/Karūna]]
 - [Lietuviški dokumentai, degtukai ir cigarečių pakelis Klaipėdos žygyje](../objektai/daiktai/Lietuvi%C5%A1ki%20dokumentai%2C%20degtukai%20ir%20cigare%C4%8Di%C5%B3%20pakelis%20Klaip%C4%97dos%20%C5%BEygyje)
+- [Užstato daiktai Trakų žydų privilegijoje](../objektai/daiktai/U%C5%BEstato%20daiktai%20Trak%C5%B3%20%C5%BEyd%C5%B3%20privilegijoje)
 - [Vytauto laikų pinigėliai](../objektai/daiktai/Vytauto%20laik%C5%B3%20pinig%C4%97liai)
 
 ### Grupės
@@ -64,6 +65,7 @@ Objektų skaičius: 58.
 - [„žingsnis po žingsnio“](../objektai/posakiai/%E2%80%9E%C5%BEingsnis%20po%20%C5%BEingsnio%E2%80%9C)
 
 ### Įvykiai
+- [Astravos sutartis](../objektai/ivykiai/Astravos%20sutartis)
 - [Derybos Salyne su Vokiečių ordinu](../objektai/ivykiai/Derybos%20Salyne%20su%20Vokie%C4%8Di%C5%B3%20ordinu)
 - [Jogailos atvykimas į Krokuvą, krikštas, vestuvės ir karūnacija Lenkijos karalium (1386 m. vasaris–kovas)](../objektai/ivykiai/Jogailos%20atvykimas%20%C4%AF%20Krokuv%C4%85%2C%20krik%C5%A1tas%2C%20vestuv%C4%97s%20ir%20kar%C5%ABnacija%20Lenkijos%20karalium%20%281386%20m.%20vasaris%E2%80%93kovas%29)
 - [Lenkų sąmokslas Lietuvoje (P.O.W.) (1919 m. rugpiūčio 28–29 d. naktis)](../objektai/ivykiai/Lenk%C5%B3%20s%C4%85mokslas%20Lietuvoje%20%28P.O.W.%29%20%281919%20m.%20rugpi%C5%AB%C4%8Dio%2028%E2%80%9329%20d.%20naktis%29)

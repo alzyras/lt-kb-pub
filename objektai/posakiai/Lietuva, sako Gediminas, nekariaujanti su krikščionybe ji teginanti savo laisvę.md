@@ -58,4 +58,4 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Vytenis]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Gediminas]]

@@ -106,6 +106,7 @@ Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalika
 - [[objektai/ivykiai/Rusijos ir Prūsijos sutartis remti Poniatausko kandidatūrą (1764 m.)]]
 - [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
 - [[objektai/ivykiai/Vilniaus universiteto įkūrimas]]
+- [[objektai/posakiai/Vilnius tapo žodžio ir rašto rungtynių lauku]]
 - [[objektai/zodynas/karakolė]]
 - [[objektai/zodynas/protestantizmas]]
 - [[objektai/posakiai/„aidint patrankoms, mūzos tyli“]]

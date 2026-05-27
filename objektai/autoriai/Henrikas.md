@@ -84,4 +84,5 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
 - [[objektai/grupes/Latviai]]
 - [[objektai/posakiai/Liet’gola Lethi vel Lethigalli]]
 - [[objektai/asmenys/Vaclovas Čekietis]]
+- [[objektai/daiktai/Vaišių stalai]]
 - [[objektai/zodynas/apsiaustis]]

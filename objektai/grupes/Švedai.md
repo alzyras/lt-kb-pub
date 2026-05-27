@@ -149,6 +149,7 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
 - [[objektai/grupes/Unitai]]
 - [[objektai/asmenys/Vaina]]
 - [[objektai/grupes/Varmiai]]
+- [[objektai/zodynas/Vidivarijai]]
 - [[objektai/ivykiai/Vilniaus užėmimas rusų ir 17 dienų gaisras (1655 m.)]]
 - [[objektai/asmenys/Walenrodto]]
 - [[objektai/asmenys/Zigmantas Vaza]]

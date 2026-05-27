@@ -6,6 +6,15 @@ variantai: []
 aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+datos:
+  - '1514 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVI'
+date_start: '1514'
+date_end: ''
 patikimumas: 'vidutinis'
 tags:
   - grupe
@@ -26,6 +35,10 @@ Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: 
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Mikalojus Radvila pakvietė karmelitus ir prie Šv. Jurgio bažnyčios jiems pastatydino vienuolyną.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -49,7 +62,28 @@ Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Mikalojus Radvila pakvietė karmelitus ir prie Šv. Jurgio bažnyčios jiems pastatydino vienuolyną.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Be
+    to, Vilnių šiuo laikotarpiu papuošė dvi reikšmingos bažny­
+    čių fundacijos: Vilniaus vaivada ir LDK kancleris Mikalojus
+    Radvila, Aleksandro laikais, apie 1514 metus, ties Kłecku prieš
+    totorius pasiektai pergalei atminti savo žemėje už miesto ant
+    kalnelio prie Vilijos, pastatė bažnyčią Šv. Jurgio ir kartu Mer­
+    gelės Dievo Gimdytojos garbei. Po to pakvietė karmelitus ir
+    prie tos bažnyčios jiems pastatydino vienuolyną.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Augustinijonų ordinas]]
+- [[objektai/asmenys/Mikalojus (Gniezno arkivyskupas)]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/zodynas/vaivada]]

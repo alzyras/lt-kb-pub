@@ -16,6 +16,7 @@ susije_irasai:
 datos:
   - '1350 m.'
   - '1430 m.'
+  - '1506 m.'
   - '1918 m.'
   - '1919 m.'
   - '1920 m.'
@@ -34,6 +35,7 @@ periodo_grupes:
 amziai:
   - 'XIV'
   - 'XV'
+  - 'XVI'
   - 'XX'
   - 'XXI'
 date_start: '1350'
@@ -50,19 +52,19 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
 
 ## Teiginiai
 - t-007
-  teiginys: 'Karalius aplankė Merkinę ir kitus didesnius Lietuvos miestelius, kuriuose vietiniai bei apylinkių žmonės buvo mokomi tikėjimo tiesų ir krikštijami.'
+  teiginys: 'Jogaila aplankė Merkinę, kur vietiniai ir apylinkių žmonės buvo mokomi tikėjimo tiesų ir krikštijami.'
   pagrindžia:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-008
-  teiginys: 'Jie keliavo Nemunu iš Merkinės į Kauną su kunigija ir diduomene, o vėliau Nemunu bei Dubysa pasiekė Aukokalnį prie Betygalos.'
+  teiginys: '1413 m. rudenį Vytautas ir Jogaila keliavo Nemunu iš Merkinės į Kauną su kunigija ir diduomene.'
   pagrindžia:
     - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-009
-  teiginys: '1945 m. Merkinės puolimas buvo pasiūlytas kaip atsakas priešui po sprendimo atkeršyti.'
+  teiginys: '1945 m. Merkinės puolimas buvo pasiūlytas kaip keršto priešui veiksmas.'
   pagrindžia:
     - c-003
 - t-010
@@ -70,29 +72,33 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   pagrindžia:
     - c-004
 - t-011
-  teiginys: 'Antrasis būrys be įsakymo MERKINĖS PUOLIMAS 1945 m. gruodžio 15 d. dalyvavę būriai ir pamažu atsitraukė iš miestelio.'
+  teiginys: 'Po 1945 m. gruodžio 15 d. Merkinės puolimo partizanų būriai pamažu atsitraukė iš miestelio.'
   pagrindžia:
     - c-005
 - t-012
-  teiginys: 'Dešinysis Nemuno aukštupio krantas, kurio plote nuo Gardino link Merkinės tęsėsi miškų masyvas, buvo ištisai lietuvių gyvena­ mas.'
+  teiginys: 'Nuo Gardino link Merkinės besitęsęs Nemuno aukštupio dešiniojo kranto miškų masyvas buvo ištisai lietuvių gyvenamas.'
   pagrindžia:
     - c-006
 - t-013
-  teiginys: 'Čia jis aplankė didesnius Lietuvos miestelius, kaip Ašmeną, Lydą, Krėvę, Eišiškius, Merkinę, Gardiną ir k., kur buvo sukviečiami vietiniai ir iš apylinkių žmonės ir, pamo­ kius juos tikėjimo tiesų, krikštijami.'
+  teiginys: 'Jogaila aplankė Merkinę, kur sukvietus vietinius ir apylinkių žmones jie buvo mokomi tikėjimo tiesų ir krikštijami.'
   pagrindžia:
     - c-007
 - t-014
-  teiginys: 'Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­ gijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir ja iki Aukokalnio, buvusio ties dabartine Betygala.'
+  teiginys: 'Vytautas ir Jogaila keliavo Nemunu iš Merkinės į Kauną, o vėliau pasiekė Aukokalnį prie Betygalos.'
   pagrindžia:
     - c-008
 - t-015
-  teiginys: '7 d. Ta sutartis, nespręsdama sienų klausimo, nustatė demarkacijos liniją Suvalkų krašte, kaip ją buvo nustačiusi 1919 metų gruodžio 8 d. Aukščiausioji Santarvės Taryba (Kerzono linija); bet toliau už Nemuno — visą Gardino apskritį ligi Merkinės, Varėnos ir.'
+  teiginys: '1920 m. spalio 7 d. Suvalkų sutartis visą Gardino apskritį iki Merkinės, Varėnos ir Bastūnų paliko Lenkijos pusėje.'
   pagrindžia:
     - c-009
+- t-016
+  teiginys: 'Karaliaus Aleksandro testamento liudytojų sąraše Jonas iš Zabrežjės įvardytas Merkinės laikytoju.'
+  pagrindžia:
+    - c-010
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Karalius aplankė Merkinę ir kitus didesnius Lietuvos miestelius, kuriuose vietiniai bei apylinkių žmonės buvo mokomi tikėjimo tiesų ir krikštijami.'
+  santrauka: 'Jogaila aplankė Merkinę, kur vietiniai ir apylinkių žmonės buvo mokomi tikėjimo tiesų ir krikštijami.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Dar prieš vyskupijos įkūrimą Jogaila iš Vilniaus išvyko į
@@ -110,7 +116,7 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   pagrindžia:
     - t-007
 - c-002
-  santrauka: 'Jie keliavo Nemunu iš Merkinės į Kauną su kunigija ir diduomene, o vėliau Nemunu bei Dubysa pasiekė Aukokalnį prie Betygalos.'
+  santrauka: '1413 m. rudenį Vytautas ir Jogaila keliavo Nemunu iš Merkinės į Kauną su kunigija ir diduomene.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tačiau Vytautas dar dvejus metus už­
@@ -128,7 +134,7 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   pagrindžia:
     - t-008
 - c-003
-  santrauka: '1945 m. Merkinės puolimas buvo pasiūlytas kaip atsakas priešui po sprendimo atkeršyti.'
+  santrauka: '1945 m. Merkinės puolimas buvo pasiūlytas kaip keršto priešui veiksmas.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Nutarėme priešui atkeršyti. Pasiūliau pulti Merkinę.
@@ -175,7 +181,7 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   pagrindžia:
     - t-010
 - c-005
-  santrauka: 'Antrasis būrys be įsakymo MERKINĖS PUOLIMAS 1945 m. gruodžio 15 d. dalyvavę būriai ir pamažu atsitraukė iš miestelio.'
+  santrauka: 'Po 1945 m. gruodžio 15 d. Merkinės puolimo partizanų būriai pamažu atsitraukė iš miestelio.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Antrasis būrys be įsakymo
@@ -206,7 +212,7 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   pagrindžia:
     - t-011
 - c-006
-  santrauka: 'Dešinysis Nemuno aukštupio krantas, kurio plote nuo Gardino link Merkinės tęsėsi miškų masyvas, buvo ištisai lietuvių gyvena­ mas.'
+  santrauka: 'Nuo Gardino link Merkinės besitęsęs Nemuno aukštupio dešiniojo kranto miškų masyvas buvo ištisai lietuvių gyvenamas.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Dešinysis Nemuno aukštupio krantas, kurio plote nuo Gardino
@@ -222,7 +228,7 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   pagrindžia:
     - t-012
 - c-007
-  santrauka: 'Čia jis aplankė didesnius Lietuvos miestelius, kaip Ašmeną, Lydą, Krėvę, Eišiškius, Merkinę, Gardiną ir k., kur buvo sukviečiami vietiniai ir iš apylinkių žmonės ir, pamo­ kius juos tikėjimo tiesų, krikštijami.'
+  santrauka: 'Jogaila aplankė Merkinę, kur sukvietus vietinius ir apylinkių žmones jie buvo mokomi tikėjimo tiesų ir krikštijami.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Čia jis aplankė didesnius Lietuvos miestelius,
@@ -239,7 +245,7 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   pagrindžia:
     - t-013
 - c-008
-  santrauka: 'Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­ gijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir ja iki Aukokalnio, buvusio ties dabartine Betygala.'
+  santrauka: 'Vytautas ir Jogaila keliavo Nemunu iš Merkinės į Kauną, o vėliau pasiekė Aukokalnį prie Betygalos.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­
@@ -254,7 +260,7 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   pagrindžia:
     - t-014
 - c-009
-  santrauka: '7 d. Ta sutartis, nespręsdama sienų klausimo, nustatė demarkacijos liniją Suvalkų krašte, kaip ją buvo nustačiusi 1919 metų gruodžio 8 d. Aukščiausioji Santarvės Taryba (Kerzono linija); bet toliau už Nemuno — visą Gardino apskritį ligi Merkinės, Varėnos ir.'
+  santrauka: '1920 m. spalio 7 d. Suvalkų sutartis visą Gardino apskritį iki Merkinės, Varėnos ir Bastūnų paliko Lenkijos pusėje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Suvalkų derybos pasibaigė susitarimu, kurį abi ša-
@@ -273,3 +279,30 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-015
+- c-010
+  santrauka: 'Karaliaus Aleksandro testamento liudytojų sąraše Jonas iš Zabrežjės įvardytas Merkinės laikytoju.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Ten pat dalyvaujant didžiai gerbiamam Kristuje tėvui
+    ir Vilniaus vyskupui Albertui, didingiesiems ir prakilniesiems
+    LDK didžiajam maršalkai, Trakų vaivadai Jonui iš Zabrežjės,
+    Merkinės laikytojui, mūsų Lietuvos rūmų maršalkai, Glins-
+    ko kunigaikščiui Mykolui, Polocko laikytojui Stanislovui Hle-
+    bavičiui, Kauno laikytojui, mūsų maršalkai ir jos šviesybės
+    rūmininkui Albertui Janavičiui, apaštališkojo sosto protono-
+    taro, Vilniaus prepozito ir Vroclavo scholasto, garbingojo
+    Erazmo, dalyvavusio sprendime, ranka.
+
+    ## Puslapis 384
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    KARALIAUS ALEKSANDRO TESTAMENTAS
+    1506 METAI
+    (Iš Dogelio rankraščių buv.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016

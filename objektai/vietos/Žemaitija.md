@@ -84,13 +84,13 @@ tags:
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-011
-  teiginys: 'Taip buvo kolonizuojama ir Žemaitija ir ki­ ti kraštai.'
+  teiginys: 'Vytauto laikais kolonizuota Žemaitija ir kiti jam priklausę kraštai.'
   pagrindžia:
     - c-006
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-012
-  teiginys: 'Ordinui Žemaitijos užvaldymas buvo laikomas valstybės gerovės ir net egzistencijos klausimu.'
+  teiginys: 'Kryžiuočių ordinui Žemaitijos užvaldymas buvo valstybės gerovės ir net egzistencijos klausimas.'
   pagrindžia:
     - c-007
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -108,7 +108,7 @@ tags:
   pagrindžia:
     - c-010
 - t-016
-  teiginys: '1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaitijos Livonijos ordinui.'
+  teiginys: '1251 m. Mindaugas perleido didelę dalį Žemaitijos Livonijos ordinui mainais į krikštą.'
   pagrindžia:
     - c-011
 - t-017
@@ -116,7 +116,7 @@ tags:
   pagrindžia:
     - c-012
 - t-018
-  teiginys: 'Žalgirio mūšis Nors popiežius uždraudė Vokiečių ordinui kariauti su apsikrikštijusia Lietuva, Žemaitija vis dar priklausė jam. Ordinas tebebuvo galinga jėga, kėlusi egzistencinį pavojų Lietuvos valstybei.'
+  teiginys: 'Po Lietuvos krikšto Žemaitija vis dar priklausė Vokiečių ordinui.'
   pagrindžia:
     - c-013
 - t-019
@@ -128,7 +128,7 @@ tags:
   pagrindžia:
     - c-015
 - t-021
-  teiginys: 'Taigi, net po Žalgirio mūšio pagrindinė Vytauto konflikto su Ordinu priežastis – Žemaitija.'
+  teiginys: 'Po Žalgirio mūšio Žemaitija liko pagrindinė Vytauto konflikto su Ordinu priežastis.'
   pagrindžia:
     - c-016
 - t-022
@@ -148,29 +148,65 @@ tags:
   pagrindžia:
     - c-020
 - t-026
-  teiginys: 'Vytautas brendo audringu Lietuvos valstybės laikotarpiu, kada jo tėvas, gindamas Žemaitijos bei lietuvių laisvę, negalėjo išleisti ginklo iš rankų, nes du galingi priešai, kardininkai iš šiaurės ir kryžiuočiai iš žiemos vakarų pusės, tuo laiku ypač smarkiai.'
+  teiginys: 'Vytauto tėvas gynė Žemaitijos ir lietuvių laisvę nuo kardininkų ir kryžiuočių antpuolių.'
   pagrindžia:
     - c-021
-- t-027
-  teiginys: 'Brastoje (pirmos žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko Litevske, Gniondze, Naugardėlyje, Vitebske, Drahočyne, Pinske, Kamieńce (vyskupui katedrą); Žemaitijoje pastatė Var­ niuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje.'
-  pagrindžia:
-    - c-022
 - t-028
-  teiginys: 'Padarytos pa­ liaubos buvo kelis kartus pailgintos, vis atidedant pastovią tai­ ką ; sušaukti trys suvažiavimai sienoms nustatyti praėjo be vai­ sių: Vytautas reikalavo Žemaitijai plačių sienų, o Ordinas nenorėjo su tuo sutikti.'
+  teiginys: 'Trijuose suvažiavimuose dėl sienų Vytautas reikalavo plačių Žemaitijos ribų, bet Ordinas su tuo nesutiko.'
   pagrindžia:
     - c-023
 - t-029
-  teiginys: 'Arklių ūkis labiau buvo paplitęs Žemaitijoje ir apie Tra­ kus; žemaičiai net ir duoklę Vytautui dažnai arkliais mokėda­ vo1 2).'
+  teiginys: 'Arklių ūkis labiau buvo paplitęs Žemaitijoje ir apie Trakus, o žemaičiai Vytautui dažnai mokėdavo duoklę arkliais.'
   pagrindžia:
     - c-024
-- t-030
-  teiginys: 'Užvaldyti Žemaitiją jiems buvo jų valstybės gerovės ir net egzistencijos klausimas.'
-  pagrindžia:
-    - c-025
 - t-031
   teiginys: 'Žemaitijos pasieny kryžiuočiai turėjo pasistatę eilę tvirtovių ir ruošėsi slinkti tolyn.'
   pagrindžia:
     - c-026
+- t-032
+  teiginys: 'Tačiau pavasarį sukilimas spontaniškai prasidėjo Žemaitijoje ir greitai apėmė visą Lietuvą.'
+  pagrindžia:
+    - c-027
+- t-034
+  teiginys: 'Žemaitijoje tik šen bei ten kilo pavienės feodalinių kunigaikščių ir bajorų gynybinės gyvenvietės.'
+  pagrindžia:
+    - c-029
+- t-035
+  teiginys: 'Žemaitija, siekianti Baltijos jūrą, apibūdinta kaip lietuvių genties centras, išsaugojęs gryniausius padermės bruožus.'
+  pagrindžia:
+    - c-030
+- t-036
+  teiginys: 'Vilniaus ir dalies Gardino gubernijų kraštas laikytas dviejų lietuvių padermių, Žemaitijos ir aukštutinės Lietuvos, gyvenviete.'
+  pagrindžia:
+    - c-031
+- t-037
+  teiginys: 'Žemaitijos žemė aiškinta kaip ta pati Lietuvos žemė, tik vadinama žemesne žeme.'
+  pagrindžia:
+    - c-032
+- t-038
+  teiginys: 'Pasakojama, kad tremtiniai persikėlė per jūrą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje.'
+  pagrindžia:
+    - c-033
+- t-039
+  teiginys: 'Be kai kurių skandinaviškų žodžių, pastebėtų lietuvių kalboje, dar di­ džiuliai pilkapiai Žemaitijoje, vadin­ ti Milžinų Kapais, gal šventovėmis, gal kapais buvę, yra paminklai, liu­ dijantys buvus mūsų kraštuose tų drąsių klajūnų ir Skandinavijos įta­ kos.'
+  pagrindžia:
+    - c-034
+- t-040
+  teiginys: 'Rygoje sudarytos paliaubos su Livonijos magistru aplenkė Kęstutį ir jo Žemaitijos kunigaikštystę.'
+  pagrindžia:
+    - c-035
+- t-041
+  teiginys: 'Kęstutis su stipriais pulkais iš Žemaitijos atvyko į pagalbą sūnui.'
+  pagrindžia:
+    - c-036
+- t-042
+  teiginys: 'Kol vokiečių kariuomenė stovyklavo Žemaitijoje, lietuvių pulkas įsiveržė į Livoniją ir nusiaubė Dorpato vyskupiją.'
+  pagrindžia:
+    - c-037
+- t-043
+  teiginys: 'Veliuonos pilis tikriausiai buvo pastatyta XIII a., kad Žemaitijos sienos būtų apsaugotos nuo kryžiuočių puldinėjimų.'
+  pagrindžia:
+    - c-038
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -279,7 +315,7 @@ tags:
   pagrindžia:
     - t-010
 - c-006
-  santrauka: 'Taip buvo kolonizuojama ir Žemaitija ir ki­ ti kraštai.'
+  santrauka: 'Vytauto laikais kolonizuota Žemaitija ir kiti jam priklausę kraštai.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Taip pat ir kitais sumetimais Vytautas stengdavosi įkur­
@@ -299,7 +335,7 @@ tags:
   pagrindžia:
     - t-011
 - c-007
-  santrauka: 'Ordinui Žemaitijos užvaldymas buvo laikomas valstybės gerovės ir net egzistencijos klausimu.'
+  santrauka: 'Kryžiuočių ordinui Žemaitijos užvaldymas buvo valstybės gerovės ir net egzistencijos klausimas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Matydamas, kad Lietuva metais vėliau ar anksčiau taps
@@ -373,7 +409,7 @@ tags:
   pagrindžia:
     - t-015
 - c-011
-  santrauka: '1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaitijos Livonijos ordinui.'
+  santrauka: '1251 m. Mindaugas perleido didelę dalį Žemaitijos Livonijos ordinui mainais į krikštą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaiti-
@@ -405,7 +441,7 @@ tags:
   pagrindžia:
     - t-017
 - c-013
-  santrauka: 'Žalgirio mūšis Nors popiežius uždraudė Vokiečių ordinui kariauti su apsikrikštijusia Lietuva, Žemaitija vis dar priklausė jam. Ordinas tebebuvo galinga jėga, kėlusi egzistencinį pavojų Lietuvos valstybei.'
+  santrauka: 'Po Lietuvos krikšto Žemaitija vis dar priklausė Vokiečių ordinui.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Žalgirio mūšis
@@ -456,7 +492,7 @@ tags:
   pagrindžia:
     - t-020
 - c-016
-  santrauka: 'Taigi, net po Žalgirio mūšio pagrindinė Vytauto konflikto su Ordinu priežastis – Žemaitija.'
+  santrauka: 'Po Žalgirio mūšio Žemaitija liko pagrindinė Vytauto konflikto su Ordinu priežastis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Taigi, net po Žalgirio mūšio pagrindinė Vytauto konflikto su Ordinu
@@ -534,7 +570,7 @@ tags:
   pagrindžia:
     - t-025
 - c-021
-  santrauka: 'Vytautas brendo audringu Lietuvos valstybės laikotarpiu, kada jo tėvas, gindamas Žemaitijos bei lietuvių laisvę, negalėjo išleisti ginklo iš rankų, nes du galingi priešai, kardininkai iš šiaurės ir kryžiuočiai iš žiemos vakarų pusės, tuo laiku ypač smarkiai.'
+  santrauka: 'Vytauto tėvas gynė Žemaitijos ir lietuvių laisvę nuo kardininkų ir kryžiuočių antpuolių.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vytautas brendo audringu Lietuvos valstybės laikotarpiu,
@@ -550,7 +586,7 @@ tags:
   pagrindžia:
     - t-026
 - c-022
-  santrauka: 'Brastoje (pirmos žmonos Marijos Praksėdos atminimui), Volkoviske, Visoko Litevske, Gniondze, Naugardėlyje, Vitebske, Drahočyne, Pinske, Kamieńce (vyskupui katedrą); Žemaitijoje pastatė Var­ niuose katedrą ir bažnyčias: Airiogaloje, Betygaloje, Kelmėje.'
+  santrauka: 'Žemaitijoje Vytautas pastatė Varnių katedrą ir bažnyčias Ariogaloje, Betygaloje, Kelmėje, Kražiuose, Kaltinėnuose, Luokėje, Raseiniuose, Viduklėje, Senvarniuose ir Veliuonoje.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Brastoje (pirmos
@@ -570,7 +606,7 @@ tags:
   pagrindžia:
     - t-027
 - c-023
-  santrauka: 'Padarytos pa­ liaubos buvo kelis kartus pailgintos, vis atidedant pastovią tai­ ką ; sušaukti trys suvažiavimai sienoms nustatyti praėjo be vai­ sių: Vytautas reikalavo Žemaitijai plačių sienų, o Ordinas nenorėjo su tuo sutikti.'
+  santrauka: 'Trijuose suvažiavimuose dėl sienų Vytautas reikalavo plačių Žemaitijos ribų, bet Ordinas su tuo nesutiko.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Padarytos pa­
@@ -589,7 +625,7 @@ tags:
   pagrindžia:
     - t-028
 - c-024
-  santrauka: 'Arklių ūkis labiau buvo paplitęs Žemaitijoje ir apie Tra­ kus; žemaičiai net ir duoklę Vytautui dažnai arkliais mokėda­ vo1 2).'
+  santrauka: 'Arklių ūkis labiau buvo paplitęs Žemaitijoje ir apie Trakus, o žemaičiai Vytautui dažnai mokėdavo duoklę arkliais.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Arklių ūkis labiau buvo paplitęs Žemaitijoje ir apie Tra­
@@ -604,7 +640,7 @@ tags:
   pagrindžia:
     - t-029
 - c-025
-  santrauka: 'Užvaldyti Žemaitiją jiems buvo jų valstybės gerovės ir net egzistencijos klausimas.'
+  santrauka: 'Kryžiuočių ordinui Žemaitijos užvaldymas buvo valstybės gerovės ir net egzistencijos klausimas.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Užvaldyti Žemaitiją jiems buvo jų valstybės gerovės ir net
@@ -631,3 +667,221 @@ tags:
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-031
+- c-027
+  santrauka: 'Tačiau pavasarį sukilimas spontaniškai prasidėjo Žemaitijoje ir greitai apėmė visą Lietuvą.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tačiau pavasarį
+    sukilimas spontaniškai prasidėjo Žemaitijoje ir greitai apėmė
+    visą Lietuvą. Rusų valdžia kontroliavo tik Vilniaus miestą, iš
+    kurio pasitraukė keli šimtai universiteto studentų ir įsiliejo į su­
+    kilėlių gretas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-032
+- c-029
+  santrauka: 'Žemaitijoje tik šen bei ten kilo pavienės feodalinių kunigaikščių ir bajorų gynybinės gyvenvietės.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tačiau, tiesą sakant, ir visoje Lie­
+    tuvos žemėje, ir Žemaitijoje tik šen bei ten kilo vienišos pilys,
+    nevienodos galios feodalinių kunigaikščių ir bajorų gynybinės
+    gyvenvietės. Tokią Lietuvą rado kunigaikštis Gediminas, dar­
+    nesnio ir pajėgesnio feodalizmo kūrėjas, sykiu ir miestų savo
+    šalyje įkūrėjas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-034
+- c-030
+  santrauka: 'Žemaitija, siekianti Baltijos jūrą, apibūdinta kaip lietuvių genties centras, išsaugojęs gryniausius padermės bruožus.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Prūsai - apie jų kalbą pasakytina,
+    kad pasidavė kaimynų gotų įtakai; jotvingiai, labiau negu
+    palei Viliją gyvenę ar aukštaičiai, pasistūmėję į Rusios gilu­
+    mą, kalba ir papročiais į slavus panašūs; vien tik Žemaitija,
+    iki pat Baltijos jūros siekianti, kaip lietuvių genties centras,
+    išsaugojo gryniausius savo padermės bruožus. Kraštas, ku­
+    rį dabar užima Vilniaus gubernija ir dalis Gardino guberni­
+    jų, nuo tos gadynės buvo nuolatinė dviejų svarbiausių lie­
+    tuvių tautos padermių gyvenvietė: Žemaitijos, arba
+    žemutinės, ir Vilijos pakrančių, arba aukštutinės, Lietuvos2.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-035
+- c-031
+  santrauka: 'Vilniaus ir dalies Gardino gubernijų kraštas laikytas dviejų lietuvių padermių, Žemaitijos ir aukštutinės Lietuvos, gyvenviete.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Kraštas, ku­
+    rį dabar užima Vilniaus gubernija ir dalis Gardino guberni­
+    jų, nuo tos gadynės buvo nuolatinė dviejų svarbiausių lie­
+    tuvių tautos padermių gyvenvietė: Žemaitijos, arba
+    žemutinės, ir Vilijos pakrančių, arba aukštutinės, Lietuvos2.
+    i
+    Kol istorikai neįstengė rasti patiki­
+    mos išvados apie lietuvių tautos
+    kilmę, kol kas to dar neketinu šia­
+    me veikale aptarti; vis dėlto turiu
+    pripažinti, kad švedų mokslininko
+    Thunmano  tyrinėjimai ir prie­
+    laidos panašiausios į tiesą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-036
+- c-032
+  santrauka: 'Žemaitijos žemė aiškinta kaip ta pati Lietuvos žemė, tik vadinama žemesne žeme.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tai reiškia:
+    „Žemaitijos žemė yra ir visada bu­
+    vo vienas ir tas pats, kaip ir Lietu­
+    vos žemė: juk ta pati kalba ir tie pa­
+    tys žmonės; tik dėl to, kad žemaičių
+    žemė yra žemesnė už Lietuvos že­
+    mę, todėl ir vadinama Szomoyth, kas
+    lietuviškai reiškia - žemesnė žemė.
+    O žemaičiai Lietuvą vadina Auxto-
+    te, tai yra aukštesnė žemė palyginus
+    su Žemaitija.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-037
+- c-033
+  santrauka: 'Pasakojama, kad tremtiniai persikėlė per jūrą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Likimo lemties tremtiniai,
+    sutelkę į draugę valtis, vadovauja­
+    mi išsirinkto vado, persikėlė per jū­
+    rą ir įsikūrė Prūsijoje, Žemaitijoje bei
+    Karelijoje, tarp vietinių gyventojų.
+    Žr.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-038
+- c-034
+  santrauka: 'Be kai kurių skandinaviškų žodžių, pastebėtų lietuvių kalboje, dar di­ džiuliai pilkapiai Žemaitijoje, vadin­ ti Milžinų Kapais, gal šventovėmis, gal kapais buvę, yra paminklai, liu­ dijantys buvus mūsų kraštuose tų drąsių klajūnų ir Skandinavijos įta­ kos.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Be kai kurių skandinaviškų žodžių,
+    pastebėtų lietuvių kalboje, dar di­
+    džiuliai pilkapiai Žemaitijoje, vadin­
+    ti Milžinų Kapais, gal šventovėmis,
+    gal kapais buvę, yra paminklai, liu­
+    dijantys buvus mūsų kraštuose tų
+    drąsių klajūnų ir Skandinavijos įta­
+    kos Lietuvoje.
+    4
+    Žr.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-039
+- c-035
+  santrauka: 'Rygoje sudarytos paliaubos su Livonijos magistru aplenkė Kęstutį ir jo Žemaitijos kunigaikštystę.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Taip
+    pat buvo sudarytos paliaubos su Livonijos magistru Rygo­
+    je, apeinant Kęstutį ir jo Žemaitijos kunigaikštystę29. Kitais
+    metais, kai Jogaila savo įbrolio, bet Kęstučiui palankaus An­
+    driaus Algirdaičio vietoje į Polocko kunigaikštystę pasiuntė
+    tikrą brolį Skirgailą, buvo prieita iki atviro susirėmimo30.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-040
+- c-036
+  santrauka: 'Kęstutis su stipriais pulkais iš Žemaitijos atvyko į pagalbą sūnui.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Ir šią pilį Jogaila būtų leng­
+    vai užėmęs, jeigu Kęstutis su stipriais pulkais iš Žemaitijos į
+    pagalbą sūnui pagaliau nebūtų atvykęs. Stojo vėl į kovą tarp
+    Trakų ir Vilniaus35 kartu su sūnumi Vytautu visus smūgius
+    atlaikęs senolis, o prieš jį Jogailos pulkas, kartu su broliu
+    Skirgaila ir kryžiuočių pulkais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-041
+- c-037
+  santrauka: 'Kol vokiečių kariuomenė stovyklavo Žemaitijoje, lietuvių pulkas įsiveržė į Livoniją ir nusiaubė Dorpato vyskupiją.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Kol vokiečių kariau­
+    na dar delsė stovyklaudama Žemaitijoje, galingas lietuvių
+    pulkas įsiveržė į Livoniją ir pirmiausia ugnimi bei kardu
+    nusiaubė Dorpato vyskupiją; daugiau kaip penki tūkstan­
+    čiai krikščionių buvo per tą antpuolį užmušta ar į nelaisvę
+    išsivesta3. Vėliau tarp kryžiuočių buvo įsigalėjusi visuotinė
+    nuomonė, esą kupinas senos neapykantos Rygos arkivys­
+    kupas Fridrichas atsikvietęs priešą į šalį; bent jau neabejoti­
+    nas dalykas, jog Gediminas nuo to laiko su arkivyskupu bu­
+    vo susimokęs ir veikė jo patarimų ir planų paisydamas1 5 .
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-042
+- c-038
+  santrauka: 'Veliuonos pilis tikriausiai buvo pastatyta XIII a., kad Žemaitijos sienos būtų apsaugotos nuo kryžiuočių puldinėjimų.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    100
+
+    ## Puslapis 117
+
+    III
+    APIE VELIUONĄ IR KRYŽIUOČIŲ PILIS PALEI NEMUNĄ
+    Veliuona, seniau pilis, pastatyta tikriausiai XIII amžiuje,
+    kad Žemaitijos sienos būtų įtvirtinimais apsaugotos nuo kry­
+    žiuočių puldinėjimų, įsimintina dėl nuolatinių Gedimino ko­
+    vų su Ordinu šioje vietovėje, nusidriekusi ties Nemunu, už
+    7 mylių nuo Kauno, per pusę mylios nuo Jurbarko ir per
+    pusantros mylios nutolusi nuo dabartinės Prūsijos sienos.
+    Šiandieninė Veliuona - tai miestelis, kuriame, kartu su kai­
+    mu prie jo, yra apie 160 namų ir dvaras.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-043

@@ -91,6 +91,10 @@ Nenurodyta
 ## Šaltiniai ir įrodymai
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/buities-daiktas]]
+
 ### Susiję objektai
+- [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai]]
 - [[objektai/paprociai/Sovietinio deficito eilės ir talonų laukimas]]
 - [[objektai/zodynas/deficitas talonai]]

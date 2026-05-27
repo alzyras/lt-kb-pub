@@ -86,9 +86,9 @@ Jam mirus Vilniaus d. kun. tapo Jogaila, kuris, spren­ džiant iš 1379 m. suta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Algirdas]]
+- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Kęstutis]]
 - [[objektai/zodynas/diarchija]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/posakiai/supremus dux]]

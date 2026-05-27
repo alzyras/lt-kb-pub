@@ -35,43 +35,43 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
 
 ## Teiginiai
 - t-001
-  teiginys: 'II tūkstantmečio pradžioje jotvingiai pradėjo formuotis kaip viena baltų tautų, bet juos nukariavo ir asimiliavo Vokiečių ordinas.'
+  teiginys: 'II tūkstantmečio pradžioje pradėję formuotis jotvingiai buvo nukariauti ir asimiliuoti Vokiečių ordino.'
   pagrindžia:
     - c-001
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Nors šios sienos yra įvairavusios, tačiau iš XIII amž. duomenų galima spręsti, kad Jotvingija tęsėsi į šiaurę nuo per balas tekančio Bebro (Narevo prieupio) aukštupio ir Ne­ muno prie Gardino.'
+  teiginys: 'Pagal XIII a. duomenis Jotvingija tęsėsi į šiaurę nuo Bebro aukštupio ir Nemuno prie Gardino.'
   pagrindžia:
     - c-002
-- t-003
-  teiginys: 'Tokiu atskirų sričių kunigų istorijos priešaušryje lietuvių, kuršių, žiemgalių, lietgalių ir prūsų (imant drauge ir jotvingius) žemėse turėjo būti gana daug.'
-  pagrindžia:
-    - c-003
 - t-004
   teiginys: 'Apie prūsus ir įsakmiai apie jotvingius yra žinoma, jog, norėdami apsisaugoti nuo priešų, jie turėjo susimesti į sustiprintus kaimus.'
   pagrindžia:
     - c-004
 - t-005
-  teiginys: 'Jeigu lietuvių skaičius nebūtų siekęs nė poros šimtų tūkstančių, badmečiai, marai ir žiaurus to laiko karai būtų galėję tautą privesti prie sunykimo, kaip yra atsitikę su jotvingiais.'
+  teiginys: 'Jotvingius badmečiai, marai ir to meto karai privedė prie sunykimo.'
   pagrindžia:
     - c-005
 - t-006
-  teiginys: 'Kaip žemės ūkis buvo greit pažeidžiamas, rodo jotvingių pavyzdys.'
+  teiginys: 'Jotvingių pavyzdys rodo, kad žemės ūkis buvo greitai pažeidžiamas.'
   pagrindžia:
     - c-006
 - t-007
-  teiginys: 'Tuo tarpu per didelį bad­ metį Lietuvoje ir Jotvingijoje (1279), anksčiau javais pertekę, jotvingiai prašė kunigaikštį Vladimirą parduoti rugių, siūlydami « vaško, ar voverių, ar bebrų, ar juodųjų kiaunių, ar sidabro » (PSRL II, 879).'
+  teiginys: '1279 m. per badmetį Lietuvoje ir Jotvingijoje jotvingiai prašė kunigaikščio Vladimiro parduoti rugių.'
   pagrindžia:
     - c-007
 - t-008
-  teiginys: '1282 drauge su jotvingiais lietuviai teriojo Liublino ir Sandomie­ riaus žemes; kitais metais, atjoję per Kuršių Neringą, lietuviai puolė Sembą.'
+  teiginys: '1282 m. lietuviai drauge su jotvingiais teriojo Liublino ir Sandomiero žemes.'
   pagrindžia:
     - c-008
+- t-009
+  teiginys: 'Jotvingiai, pasistūmėję į Rusios gilumą, kalba ir papročiais buvo panašūs į slavus.'
+  pagrindžia:
+    - c-009
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'II tūkstantmečio pradžioje jotvingiai pradėjo formuotis kaip viena baltų tautų, bet juos nukariavo ir asimiliavo Vokiečių ordinas.'
+  santrauka: 'II tūkstantmečio pradžioje pradėję formuotis jotvingiai buvo nukariauti ir asimiliuoti Vokiečių ordino.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     II tūkstantmečio pradžioje pradėjo formuotis prū-
@@ -86,7 +86,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Nors šios sienos yra įvairavusios, tačiau iš XIII amž. duomenų galima spręsti, kad Jotvingija tęsėsi į šiaurę nuo per balas tekančio Bebro (Narevo prieupio) aukštupio ir Ne­ muno prie Gardino.'
+  santrauka: 'Pagal XIII a. duomenis Jotvingija tęsėsi į šiaurę nuo Bebro aukštupio ir Nemuno prie Gardino.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Nors šios sienos yra įvairavusios, tačiau iš
@@ -102,20 +102,6 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Tokiu atskirų sričių kunigų istorijos priešaušryje lietuvių, kuršių, žiemgalių, lietgalių ir prūsų (imant drauge ir jotvingius) žemėse turėjo būti gana daug.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Tokiu atskirų sričių kunigų istorijos
-    priešaušryje lietuvių, kuršių, žiemgalių, lietgalių ir prūsų (imant
-    drauge ir jotvingius) žemėse turėjo būti gana daug. XIII amž.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-003
 - c-004
   santrauka: 'Apie prūsus ir įsakmiai apie jotvingius yra žinoma, jog, norėdami apsisaugoti nuo priešų, jie turėjo susimesti į sustiprintus kaimus.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -133,7 +119,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   pagrindžia:
     - t-004
 - c-005
-  santrauka: 'Jeigu lietuvių skaičius nebūtų siekęs nė poros šimtų tūkstančių, badmečiai, marai ir žiaurus to laiko karai būtų galėję tautą privesti prie sunykimo, kaip yra atsitikę su jotvingiais.'
+  santrauka: 'Jotvingius badmečiai, marai ir to meto karai privedė prie sunykimo.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Priimant dėmesin ir šitas istorines aplinkybes, nega­
@@ -151,7 +137,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   pagrindžia:
     - t-005
 - c-006
-  santrauka: 'Kaip žemės ūkis buvo greit pažeidžiamas, rodo jotvingių pavyzdys.'
+  santrauka: 'Jotvingių pavyzdys rodo, kad žemės ūkis buvo greitai pažeidžiamas.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Kaip žemės ūkis buvo greit pažeidžiamas, rodo jotvingių
@@ -171,7 +157,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   pagrindžia:
     - t-006
 - c-007
-  santrauka: 'Tuo tarpu per didelį bad­ metį Lietuvoje ir Jotvingijoje (1279), anksčiau javais pertekę, jotvingiai prašė kunigaikštį Vladimirą parduoti rugių, siūlydami « vaško, ar voverių, ar bebrų, ar juodųjų kiaunių, ar sidabro » (PSRL II, 879).'
+  santrauka: '1279 m. per badmetį Lietuvoje ir Jotvingijoje jotvingiai prašė kunigaikščio Vladimiro parduoti rugių.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tuo tarpu per didelį bad­
@@ -190,7 +176,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   pagrindžia:
     - t-007
 - c-008
-  santrauka: '1282 drauge su jotvingiais lietuviai teriojo Liublino ir Sandomie­ riaus žemes; kitais metais, atjoję per Kuršių Neringą, lietuviai puolė Sembą.'
+  santrauka: '1282 m. lietuviai drauge su jotvingiais teriojo Liublino ir Sandomiero žemes.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     1282 drauge su jotvingiais lietuviai teriojo Liublino ir Sandomie­
@@ -203,17 +189,33 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-008
+- c-009
+  santrauka: 'Jotvingiai, pasistūmėję į Rusios gilumą, kalba ir papročiais buvo panašūs į slavus.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Prūsai - apie jų kalbą pasakytina,
+    kad pasidavė kaimynų gotų įtakai; jotvingiai, labiau negu
+    palei Viliją gyvenę ar aukštaičiai, pasistūmėję į Rusios gilu­
+    mą, kalba ir papročiais į slavus panašūs; vien tik Žemaitija,
+    iki pat Baltijos jūros siekianti, kaip lietuvių genties centras,
+    išsaugojo gryniausius savo padermės bruožus. Kraštas, ku­
+    rį dabar užima Vilniaus gubernija ir dalis Gardino guberni­
+    jų, nuo tos gadynės buvo nuolatinė dviejų svarbiausių lie­
+    tuvių tautos padermių gyvenvietė: Žemaitijos, arba
+    žemutinės, ir Vilijos pakrančių, arba aukštutinės, Lietuvos2.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/daiktai/Klėtis]]
-- [[objektai/grupes/Lietgaliai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Slavai]]
 - [[objektai/ivykiai/1279 m. badmetis Lietuvoje ir Jotvingijoje]]
 - [[objektai/asmenys/Albertas]]
 - [[objektai/asmenys/Albertas (Rygos vyskupas)]]
 - [[objektai/paprociai/Bičiulystė ir bitininkystė]]
 - [[objektai/asmenys/Visvaldis]]
-- [[objektai/grupes/Baltai]]
 - [[objektai/grupes/Jotvingai]]

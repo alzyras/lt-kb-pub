@@ -60,12 +60,6 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
     - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
-- t-024
-  teiginys: '1391 m. Jogailos išduotas dokumentas rodė, kad Skirgailos valdžia Vilniuje buvo griežtai apribota.'
-  pagrindžia:
-    - c-005
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  statusas: patvirtinta
 - t-025
   teiginys: 'Skirgaila mirė 1395 m., o po jo mirties Kremenecas vėl susijungė su Volynija.'
   pagrindžia:
@@ -73,7 +67,7 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-026
-  teiginys: 'Viena jų Jogaila su Skirgaila pasižadėjo ketverių metų būvyje pasikrikštyti su visu kraštu.'
+  teiginys: 'Skirgaila su Jogaila pasižadėjo per ketverius metus pasikrikštyti su visu kraštu.'
   pagrindžia:
     - c-007
 - t-027
@@ -81,27 +75,23 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
   pagrindžia:
     - c-008
 - t-028
-  teiginys: 'Reikšmingu dokumentu užrašydamas Skirgailai Trakus ir Polocką, karalius pažadėjo laikyti jį aukščiau už visus kitus brolius — «a deržati mi jeho vyše usieje našeje bratije »^3.'
+  teiginys: 'Karalius, užrašydamas Skirgailai Trakus ir Polocką, pažadėjo laikyti jį aukščiau už visus kitus brolius.'
   pagrindžia:
     - c-009
 - t-029
   teiginys: 'Bet visos valdžios valstybėje Skirgaila neturėjo.'
   pagrindžia:
     - c-010
-- t-030
-  teiginys: '1393 m. tarp jo ir Skirgailos vėl kilo smarkus ginčas, kuriam išspręsti Jogaila ir Jadvyga nuvyko į Vilnių.'
-  pagrindžia:
-    - c-011
 - t-031
-  teiginys: 'Luckas perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikštiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.'
+  teiginys: 'Skirgaila gavo Kijevą, kai 1394 m. Vytautas panaikino Kijevo kunigaikštiją.'
   pagrindžia:
     - c-012
 - t-032
-  teiginys: 'Lietuvą Jogaila pavedė savo broliui Skirgailai ir todėl Vytautui tuo tarpu la­ biau parūpo Lietuvos ateitis, kaip jos krikštas.'
+  teiginys: 'Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Vilnių.'
   pagrindžia:
     - c-013
 - t-033
-  teiginys: 'Todėl paskyrė jai savo vietininku tikrąjį bro­ lį Skirgailą, kuriam jau anksčiau buvo davęs valdyti vasalo tei­ sėmis Trakų kunigaikštiją.'
+  teiginys: 'Jogaila paskyrė Skirgailą savo vietininku Lietuvoje, o anksčiau buvo davęs jam valdyti Trakų kunigaikštiją vasalo teisėmis.'
   pagrindžia:
     - c-014
 - t-034
@@ -109,13 +99,53 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
   pagrindžia:
     - c-015
 - t-035
-  teiginys: 'Susitaikinęs Jogaila su Vytautu, stengėsi jį, pagaliau, su­ taikinti ir su Skirgaila^2 ), didžiausiu Vytauto priešu, kas jam ir pavyko padaryti^3 ).'
+  teiginys: 'Jogaila sutaikė Vytautą su Skirgaila, kuris citatoje vadinamas didžiausiu Vytauto priešu.'
   pagrindžia:
     - c-016
 - t-036
   teiginys: 'Jogaila iki 1392 m. bandė valdyti Lietuvą per savo vietininką brolį Skirgailą.'
   pagrindžia:
     - c-017
+- t-037
+  teiginys: 'Jogaila pasiuntė Skirgailą į Polocko kunigaikštystę vietoje Andriaus Algirdaičio, o tai privedė prie atviro susirėmimo.'
+  pagrindžia:
+    - c-018
+- t-039
+  teiginys: 'Skirgailos rūpesčiu Kęstučio palaikai buvo nuvežti į Vilnių ir turėjo būti sudeginti pagal pagonių paprotį.'
+  pagrindžia:
+    - c-020
+- t-040
+  teiginys: 'Jogaila paskyrė Skirgailą savo vietininku ir titulavo jį Lietuvos didžiuoju kunigaikščiu, pavaldžiu karališkajai valdžiai.'
+  pagrindžia:
+    - c-021
+- t-041
+  teiginys: 'Skirgaila ne anksčiau kaip 1388 m. tapo didžiuoju kunigaikščiu, nes 1387 m. dokumentuose vadintas tik Trakų kunigaikščiu.'
+  pagrindžia:
+    - c-022
+- t-042
+  teiginys: '1388 m. prie Kauno sudarytoje taikos sutartyje Skirgaila save vadino Lietuvos kunigaikščiu ir Trakų bei Polocko valdovu.'
+  pagrindžia:
+    - c-023
+- t-043
+  teiginys: 'Dėl Skirgailos niršaus būdo Vytautas negalėjo būti tikras, kad nebus pasikėsinta į jo gyvybę.'
+  pagrindžia:
+    - c-024
+- t-044
+  teiginys: 'Vytautas negalėjo taikstytis su Skirgailos paaukštinimu ir nusprendė išvyti jį iš sostinės bei paimti valdžią.'
+  pagrindžia:
+    - c-025
+- t-045
+  teiginys: 'Skirgailai išvykus į Polocką, Vytautui atsirado proga bandyti įgyvendinti sumanymą užimti Vilniaus Žemutinę pilį.'
+  pagrindžia:
+    - c-026
+- t-046
+  teiginys: 'Skirgaila, anot citatos, gavęs valdžią aplaidumu ir žiauriu elgesiu nuteikė prieš save didesnę Lietuvos dalį.'
+  pagrindžia:
+    - c-027
+- t-047
+  teiginys: 'Karalienė Jadvyga stengėsi sutaikyti Skirgailą su Vytautu, o po sutarčių vienas jų gavo Kijevo kunigaikštystę.'
+  pagrindžia:
+    - c-028
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -179,23 +209,6 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-023
-- c-005
-  santrauka: '1391 m. Jogailos išduotas dokumentas rodė, kad Skirgailos valdžia Vilniuje buvo griežtai apribota.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    1391 m.
-    liepos 22 d. Jogaila išdavė Skirgailai dokumentą, kad Vilniaus
-    ir kitų miestų be jo žinios niekam neatiduos, net ir tikram savo
-    broliui, ir kad Vilnių ir kitus miestus valdys tiesiog pats Jogaila
-    ir jo palikuonys. Iš to matyt, kad Skirgaila sužinojo aukščiau
-    minėtą projektą, kuriam jis skubinos užbėgti už akių.
-  citata_rodoma: ""
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ""
-  pagrindžia:
-    - t-024
 - c-006
   santrauka: 'Skirgaila mirė 1395 m., o po jo mirties Kremenecas vėl susijungė su Volynija.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -211,7 +224,7 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
   pagrindžia:
     - t-025
 - c-007
-  santrauka: 'Viena jų Jogaila su Skirgaila pasižadėjo ketverių metų būvyje pasikrikštyti su visu kraštu.'
+  santrauka: 'Skirgaila su Jogaila pasižadėjo per ketverius metus pasikrikštyti su visu kraštu.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Viena jų Jogaila su
@@ -239,7 +252,7 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
   pagrindžia:
     - t-027
 - c-009
-  santrauka: 'Reikšmingu dokumentu užrašydamas Skirgailai Trakus ir Polocką, karalius pažadėjo laikyti jį aukščiau už visus kitus brolius — «a deržati mi jeho vyše usieje našeje bratije »^3.'
+  santrauka: 'Karalius, užrašydamas Skirgailai Trakus ir Polocką, pažadėjo laikyti jį aukščiau už visus kitus brolius.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Reikšmingu dokumentu užrašydamas
@@ -273,23 +286,8 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-029
-- c-011
-  santrauka: '1393 m. tarp jo ir Skirgailos vėl kilo smarkus ginčas, kuriam išspręsti Jogaila ir Jadvyga nuvyko į Vilnių.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    1393 m. tarp jo ir Skirgailos vėl kilo smarkus ginčas,
-    kuriam išspręsti Jogaila ir Jadvyga nuvyko į Vilnių. Abu pusbro­
-    liai isipareigoįo, reikalui esant, šauktis karalienės tarpininkavimo
-    (1393.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-030
 - c-012
-  santrauka: 'Luckas perėjo tiesiogiai Vytauto žinion, 1394 m. jis panaikino Kijevo kunigaikštiją (Kijevą gavo Skirgaila), 1395 m. paskyrė savo vietininką Podolėje.'
+  santrauka: 'Skirgaila gavo Kijevą, kai 1394 m. Vytautas panaikino Kijevo kunigaikštiją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Luckas
@@ -303,7 +301,7 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
   pagrindžia:
     - t-031
 - c-013
-  santrauka: 'Lietuvą Jogaila pavedė savo broliui Skirgailai ir todėl Vytautui tuo tarpu la­ biau parūpo Lietuvos ateitis, kaip jos krikštas.'
+  santrauka: 'Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Vilnių.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Lietuvą Jogaila
@@ -320,7 +318,7 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
   pagrindžia:
     - t-032
 - c-014
-  santrauka: 'Todėl paskyrė jai savo vietininku tikrąjį bro­ lį Skirgailą, kuriam jau anksčiau buvo davęs valdyti vasalo tei­ sėmis Trakų kunigaikštiją.'
+  santrauka: 'Jogaila paskyrė Skirgailą savo vietininku Lietuvoje, o anksčiau buvo davęs jam valdyti Trakų kunigaikštiją vasalo teisėmis.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Todėl paskyrė jai savo vietininku tikrąjį bro­
@@ -361,7 +359,7 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
   pagrindžia:
     - t-034
 - c-016
-  santrauka: 'Susitaikinęs Jogaila su Vytautu, stengėsi jį, pagaliau, su­ taikinti ir su Skirgaila^2 ), didžiausiu Vytauto priešu, kas jam ir pavyko padaryti^3 ).'
+  santrauka: 'Jogaila sutaikė Vytautą su Skirgaila, kuris citatoje vadinamas didžiausiu Vytauto priešu.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Susitaikinęs Jogaila su Vytautu, stengėsi jį, pagaliau, su­
@@ -393,27 +391,249 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-036
+- c-018
+  santrauka: 'Jogaila pasiuntė Skirgailą į Polocko kunigaikštystę vietoje Andriaus Algirdaičio, o tai privedė prie atviro susirėmimo.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Kitais
+    metais, kai Jogaila savo įbrolio, bet Kęstučiui palankaus An­
+    driaus Algirdaičio vietoje į Polocko kunigaikštystę pasiuntė
+    tikrą brolį Skirgailą, buvo prieita iki atviro susirėmimo30.
+    28
+    Tas sandėris buvo sudarytas slapta
+    girioje, prie dabartinių Daugų, Tra­
+    kų paviete, netoli nuo Alytaus, kaip
+    manau (auf dem Felde Daudisken);
+    tarp atvykusiųjų į tariamą medžiok­
+    lę buvo: Jogaila, lydimas Lietuvos
+    kunigaikščių Vytauto ir Jono, bei
+    Vaidilos, ir didysis komtūras, ku­
+    ris jiems iškėlė puikias vaišes.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-037
+- c-020
+  santrauka: 'Skirgailos rūpesčiu Kęstučio palaikai buvo nuvežti į Vilnių ir turėjo būti sudeginti pagal pagonių paprotį.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    To garbingo karžygio palaikai Skir­
+    gailos rūpesčiu buvo nuvežti į Vilnių, pagonių papročiu tu­
+    rėjo būti sudeginti su visu tuo, ką jis dažniausiai naudoda­
+    vo37. Galbūt ir Vytautą būtų ištikusi tėvo lemtis, juk pervežtas
+    iš Vilniaus į Krėvą po Kęstučio mirties irgi buvo įkalintas,
+    tačiau jo stebėtina narsa ir žmonos Onos meilė, nesenu pa­
+    vyzdžiu Europos istorijoje pasikartojusi, išgelbėjo jį nuo
+    neišvengiamos pražūties.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-039
+- c-021
+  santrauka: 'Jogaila paskyrė Skirgailą savo vietininku ir titulavo jį Lietuvos didžiuoju kunigaikščiu, pavaldžiu karališkajai valdžiai.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Čia, krašto reikalus
+    įstatęs į tvirtas vėžes, tikrąjį savo brolį Skirgailą paskyrė sa­
+    vo vietininku ir titulavo Lietuvos didžiuoju kunigaikščiu,
+    pavaldžiu karališkajai savo valdžiai16.
+    Miestui teko būti liudytoju dviejų prašmatnių vestuvių:
+    Ziemovito, Mazovijos jaunesniojo kunigaikščio, už kurio Jo­
+    gaila išleido savo seserį Aleksandrą, ir Jonušo, vyresniojo
+    Mazovijos kunigaikščio, kuris vedė Vytauto seserį Oną.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-040
+- c-022
+  santrauka: 'Skirgaila ne anksčiau kaip 1388 m. tapo didžiuoju kunigaikščiu, nes 1387 m. dokumentuose vadintas tik Trakų kunigaikščiu.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Išties trumpas, bet itin nesėkmingas buvo Vilniui Skir­
+    gailos valdymas. Nuolatine savo buveine pasirinkęs Trakų
+    pilį, jis išvykdavo tik į mūšius su Prūsijos ordinu arba su
+    Baltojoje Rusioje maištaujančiais įvairių valdų kunigaikš­
+    čiais. Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su
+    lenkų įgula17 tuomet valdydavo ir kitus gyventojus, bet ir
+    16
+    Skirgaila ne anksčiau kaip 1388 me­
+    tais tapo didžiuoju kunigaikščiu, nes
+    1387 metais visuose dokumentuose
+    visur vadinamas Skargalo Dux Tro-
+    censis, bet niekur nėra Dux Lithua-
+    niae.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-041
+- c-023
+  santrauka: '1388 m. prie Kauno sudarytoje taikos sutartyje Skirgaila save vadino Lietuvos kunigaikščiu ir Trakų bei Polocko valdovu.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tik taikos sutartyje tarp Ordi­
+    no maršalo Engelhardo Rabės ir
+    Lietuvos, apie kurią užsimena F o i g-
+    t a s, V, 507, sudarytoje ties Kaunu
+    1388 metais, Scriptum prope Cowno in
+    crastino b. Martini Fpi^copi et confes.
+    an. dom. 1388 [pasirašyta ties Kaunu
+    rytojaus dieną po Šv. Martyno, vys­
+    kupo ir išpažinėjo, Viešpaties metais
+    1388], Skirgaila save vadina: Schir-
+    galo Dei gratia dux lithuanie et domi­
+    nus Tracensis et Polocensis [Skirgaila -
+    didysis Lietuvos kunigaikštis ir Tra­
+    kų bei Polocko valdovas].
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-042
+- c-024
+  santrauka: 'Dėl Skirgailos niršaus būdo Vytautas negalėjo būti tikras, kad nebus pasikėsinta į jo gyvybę.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Karaliui išvykus į Lenkiją, Vytauto padė­
+    tis tapo dargi nesaugi: mat akylai stebimas kiekviename
+    žingsnyje, nevaliojo savarankiškai imtis kokių nors veiks­
+    mų, o dėl Skirgailos niršaus būdo negalėjo netgi būti tikras,
+    kad nebus pasikėsinta į jo gyvybę18. Vytautas, visus savo
+    brolius ir gimines gabumais lenkiantis, pasigviešęs valdžios
+    ir garbės, negalėjo taikstytis nei su jam daromomis skriau­
+    domis, nei su Skirgailos, kuris neturėjo jokių sugebėjimų val­
+    dyti, išskyrus tą privalumą, kad buvo tikras karaliaus bro­
+    lis, paaukštinimu, tad susimokęs Gardine su jam palankiais
+    Lietuvos kunigaikščiais ir didikais, nusprendė išvyti iš sos­
+    tinės Skirgailą ir paimti valdžią.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-043
+- c-025
+  santrauka: 'Vytautas negalėjo taikstytis su Skirgailos paaukštinimu ir nusprendė išvyti jį iš sostinės bei paimti valdžią.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Vytautas, visus savo
+    brolius ir gimines gabumais lenkiantis, pasigviešęs valdžios
+    ir garbės, negalėjo taikstytis nei su jam daromomis skriau­
+    domis, nei su Skirgailos, kuris neturėjo jokių sugebėjimų val­
+    dyti, išskyrus tą privalumą, kad buvo tikras karaliaus bro­
+    lis, paaukštinimu, tad susimokęs Gardine su jam palankiais
+    Lietuvos kunigaikščiais ir didikais, nusprendė išvyti iš sos­
+    tinės Skirgailą ir paimti valdžią. Tačiau nenorėdamas ban­
+    dyti laimės ir pradėti mūšį su persvarą turinčiomis priešo
+    pajėgomis, ieškojo paspirties, juoba kad 1389 metų gale
+    18
+    Slap t.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-044
+- c-026
+  santrauka: 'Skirgailai išvykus į Polocką, Vytautui atsirado proga bandyti įgyvendinti sumanymą užimti Vilniaus Žemutinę pilį.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    116
+
+    ## Puslapis 133
+
+    Il KNYGA
+    Skirgailai išvykus į Polocką jam buvo gera proga įgyvendin­
+    ti savo sumanymą. Tuo tikslu paskleidęs gandą, esą turįs at­
+    vykti į Vilnių sudaryti tam tikrų sutarčių, pirma išsiuntė daug
+    dengtų rogių, prikrautų įvairių atsargų, ten sutalpino ir gin­
+    kluotų žmonių būrį. Pastarieji, gurguolei atvykus iki Žemu­
+    tinės pilies, turėjo ją užimti, mat menkai teapsaugota ji buvo,
+    ir atiduoti į Vytauto rankas, kuris manė suskubsiąs su savo
+    kariais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-045
+- c-027
+  santrauka: 'Skirgaila, anot citatos, gavęs valdžią aplaidumu ir žiauriu elgesiu nuteikė prieš save didesnę Lietuvos dalį.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Kai visa tai vyko, karalius, matydamas
+    pavojų keliančias Vytauto užmačias, kita vertus, negalėda­
+    mas pasikliauti ir Skirgailos pasiruošimu apsiginti, mat jis,
+    vos tik gavęs valdžią, aplaidumu ir žiauriu elgesiu didesnę
+    pusę Lietuvos prieš save nuteikė, išsiuntė į Vilnių Karūnos
+    pakanclerį Mikalojų Moskoževskį, naujais Lenkijos pulkais
+    vediną, ir liepė įsikurti Vilniaus pilyse. Pats tuo metu už­
+    ėmęs Vytauto valdžioje buvusias pilis: Lucką, Brastą ir Su­
+    ražą, pagaliau kovo mėnesį, Skirgailos padedamas, štur­
+    mu užėmė ano valdos sostinę Gardiną ir šiaip taip
+    patvarkęs tolesnę Lietuvos gynybą, pargrįžo į Lenkiją.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-046
+- c-028
+  santrauka: 'Karalienė Jadvyga stengėsi sutaikyti Skirgailą su Vytautu, o po sutarčių vienas jų gavo Kijevo kunigaikštystę.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Pati karalienė Jad­
+    vyga stengėsi sutaikyti nuo seno besipykstančius pusbrolius -
+    Skirgailą su Vytautu: tad buvo sudarytos sutartys, kurių galia
+    vienas gavo Kijevo kunigaikštystę ir keletą pilių valdyti nuo­
+    savybės teise, o Lietuvos sostinė kartu su didžiuliais vals­
+    tybės žemių plotais atiteko įžymiajam kariui, kuris greit Al­
+    girdo sostui su kaupu sugrąžino senąją šlovę bei galybę50.
+    48
+    Długosz Histor.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-047
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/vasalas]]
-- [[objektai/zodynas/vietininkas]]
 - [[objektai/daiktai/Apgulties mašinos]]
+- [[objektai/daiktai/Bombardos]]
+- [[objektai/ivykiai/Jogailos grįžimas į nuniokotą Vilnių ir miesto atkūrimo pradžia (1390 m. lapkritis)]]
 - [[objektai/ivykiai/Jogailos ir Vokiečių ordino puolimo sutartis (1382 m. liepos 6 d.)]]
 - [[objektai/ivykiai/Kulikovo kautynės (1380 m. rugsėjo 8 d.)]]
 - [[objektai/ivykiai/Kęstučio ir Vytauto suėmimas bei Kęstučio mirtis Kriave (1382 m. rugpjūčio 15 d.)]]
-- [[objektai/grupes/Livonijos ordinas]]
+- [[objektai/daiktai/Parakas]]
 - [[objektai/ivykiai/Polocko maištas prieš Skirgailą (1381 m. pavasaris)]]
 - [[objektai/ivykiai/Trakų pilies pasidavimas Jogailai (1382 m. liepos 20 d.)]]
 - [[objektai/ivykiai/Vilniečių sąmokslas ir Jogailos įsitvirtinimas Vilniuje bei Trakuose]]
 - [[objektai/ivykiai/Vitebsko užėmimas (1392 m.)]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/ivykiai/Vytauto ir Ordino žygis į Trakus bei Vilnių (1383 m. rugsėjo 11–22 d.)]]
 - [[objektai/ivykiai/Vytauto ir Skirgailos ginčas Vilniuje (1393 m. spalio 3 d.)]]
 - [[objektai/posakiai/deržati mi jeho vyše vseje našeje bratije]]
 - [[objektai/posakiai/dux Russiae]]
+- [[objektai/zodynas/gurguolė]]
 - [[objektai/zodynas/kunigaikštija]]
 - [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija|Įkaitų davimas kaip sutarties garantija (sutartis)]]
 - [[objektai/zodynas/įkaitai]]

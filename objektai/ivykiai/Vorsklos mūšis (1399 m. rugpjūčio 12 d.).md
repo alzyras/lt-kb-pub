@@ -228,7 +228,7 @@ Nenurodyta
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Totoriai]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Vytautas]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/asmenys/Žygimantas]]
 - [[objektai/asmenys/Švitrigaila]]

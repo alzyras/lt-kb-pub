@@ -31,7 +31,7 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
 
 ## Teiginiai
 - t-005
-  teiginys: 'Šiame leidinyje J. Dlugošas cituojamas kaip Vorsklos mūšio pasakojimo šaltinis.'
+  teiginys: 'J. Dlugošas aprašė Vorsklos mūšį, kuriame Edigėjaus kariuomenė atrodė akimis neaprėpiama.'
   pagrindžia:
     - c-009
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -43,11 +43,11 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
 - t-007
-  teiginys: 'Dlugošas pateikia vengrų didiko Dobeslavo Skoračevskio, Ordino pasiuntinio, atvykusio pas Jogailą į stovyklą derėtis Ordino vardu dėl taikos (tikroji vizito priežastis | buvo informacijos rinkimas apie sąjungininkų pajėgas) pokalbį grįžus su didžiuoju.'
+  teiginys: 'J. Dlugošas pateikė Dobeslavo Skoračevskio pokalbį su didžiuoju magistru po apsilankymo Jogailos stovykloje.'
   pagrindžia:
     - c-011
 - t-008
-  teiginys: '“ VYTAUTAS RIKIUOJA PULKUS Dlugošas aprašo tai, kaip Vytautas žygio metu (liepos 5 d.) stovykloje išrikiavęs tvarkė lietuvių kariuomenę: „Senu Tėvynės papročiu paskirstęs ją raitelių pulkais (pleištais) ir daliniais; kiekviename pulke raitelius ant žemesnių.'
+  teiginys: 'J. Dlugošas aprašė, kaip Vytautas liepos 5 d. stovykloje rikiavo lietuvių kariuomenę pulkais ir daliniais.'
   pagrindžia:
     - c-012
 - t-009
@@ -55,13 +55,28 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   pagrindžia:
     - c-013
 - t-010
-  teiginys: 'Dlugošas mini Prūsijos magistro karius), Livonijos samdiniai - apie 4500.'
+  teiginys: 'J. Dlugošas tarp Švitrigailos ir Livonijos ordino pajėgų mini apie 100 Prūsijos magistro karių.'
   pagrindžia:
     - c-014
-
+- t-011
+  teiginys: 'J. Dlugošas nurodė, kad Kęstutis slapta atėjo į Vilnių ir užėmė Jogailą bei Vilniaus pilį.'
+  pagrindžia:
+    - c-015
+- t-012
+  teiginys: 'J. Dlugošas Vilnių laikė senoviniu miestu, kurį įkūrė lietuvių protėviai ir kurio vardą siejo su vadu Viliumi.'
+  pagrindžia:
+    - c-016
+- t-013
+  teiginys: 'J. Dlugošas nurodė, kad Gediminas žuvo pervertas ugninės strėlės.'
+  pagrindžia:
+    - c-017
+- t-014
+  teiginys: 'J. Dlugošas tvirtino, kad Vilniaus Žemutinės pilies dvejus vartus padegė kažkurie iš apgultųjų.'
+  pagrindžia:
+    - c-018
 ## Reikšmingi paminėjimai
 - c-009
-  santrauka: 'Šiame leidinyje J. Dlugošas cituojamas kaip Vorsklos mūšio pasakojimo šaltinis.'
+  santrauka: 'J. Dlugošas aprašė Vorsklos mūšį, kuriame Edigėjaus kariuomenė atrodė akimis neaprėpiama.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1399 m. rugpjūčio 12 d., „dvi valan-
@@ -96,7 +111,7 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   pagrindžia:
     - t-006
 - c-011
-  santrauka: 'Dlugošas pateikia vengrų didiko Dobeslavo Skoračevskio, Ordino pasiuntinio, atvykusio pas Jogailą į stovyklą derėtis Ordino vardu dėl taikos (tikroji vizito priežastis | buvo informacijos rinkimas apie sąjungininkų pajėgas) pokalbį grįžus su didžiuoju.'
+  santrauka: 'J. Dlugošas pateikė Dobeslavo Skoračevskio pokalbį su didžiuoju magistru po apsilankymo Jogailos stovykloje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Rankoje
@@ -126,7 +141,7 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   pagrindžia:
     - t-007
 - c-012
-  santrauka: '“ VYTAUTAS RIKIUOJA PULKUS Dlugošas aprašo tai, kaip Vytautas žygio metu (liepos 5 d.) stovykloje išrikiavęs tvarkė lietuvių kariuomenę: „Senu Tėvynės papročiu paskirstęs ją raitelių pulkais (pleištais) ir daliniais; kiekviename pulke raitelius ant žemesnių.'
+  santrauka: 'J. Dlugošas aprašė, kaip Vytautas liepos 5 d. stovykloje rikiavo lietuvių kariuomenę pulkais ir daliniais.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     “
@@ -171,7 +186,7 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   pagrindžia:
     - t-009
 - c-014
-  santrauka: 'Dlugošas mini Prūsijos magistro karius), Livonijos samdiniai - apie 4500.'
+  santrauka: 'J. Dlugošas tarp Švitrigailos ir Livonijos ordino pajėgų mini apie 100 Prūsijos magistro karių.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Švitrigailos ir Livonijos ordino pajėgos
@@ -194,12 +209,80 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-010
-
-## Ryšiai
-### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/žygis]]
-- [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]
+- c-015
+  santrauka: 'J. Dlugošas nurodė, kad Kęstutis slapta atėjo į Vilnių ir užėmė Jogailą bei Vilniaus pilį.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tačiau, regis, toks stai­
+    gus Vilniaus užėmimas tik dėl Kęs­
+    tučio miklumo ir žygio sumanų už-
+    slaptinimo pavyko, ir kad mūsų
+    Lietuvos istorikas stengėsi pagražin­
+    ti savaime aiškų dalyką. Dlugošas
+    nieko apie tai neužsimena, tik apie
+    patį Kęstutį, nurodydamas: ad Vilna
+    agmine silenti veniens et JagyelJonem
+    ducem et castrum Vilnense comprehen­
+    dit [Į Vilnių su būriu slaptu atėjęs ir
+    kunigaikštį Jogailą, ir Vilniaus pilį
+    užėmė]. X. 63.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-011
+- c-016
+  santrauka: 'J. Dlugošas Vilnių laikė senoviniu miestu, kurį įkūrė lietuvių protėviai ir kurio vardą siejo su vadu Viliumi.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Dlugošas nurodo, jog Vilnius yra senovinis
+    miestas, lietuvių tautos protėvių įkurtas ir gavęs vardą nuo
+    vado Viliaus, kuris juos iš Italijos atvedęs0. Tačiau ta nuo-
+    c
+    Historya Państwa Rossyjsk.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-012
+- c-017
+  santrauka: 'J. Dlugošas nurodė, kad Gediminas žuvo pervertas ugninės strėlės.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Rau­
+    donė, arba Bajerburgas, Lietuvos galutinai užvaldytas, anot
+    Kai dėl rūšies ginklo, nuo kurio žuvo
+    Gediminas: Dlugošas Lib. IX,
+    p. 923, nurodo, kad buvo ugninės
+    strėlės pervertas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+- c-018
+  santrauka: 'J. Dlugošas tvirtino, kad Vilniaus Žemutinės pilies dvejus vartus padegė kažkurie iš apgultųjų.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    29
+    Įvairios buvo amžininkų nuomonės ta daugybė ten buvusių žmonių/'
+    apie Vilniaus pilių sudeginimą, ta- Mūsų istorikai, būtent Dlugošas,
+    tai iki šiol dar nėra išaiškinta. Jogai- p. 128 ir K o j e 1 a v i č i u s, p. 20, tą
+    Ia ir lenkai nuolatos tvirtindavo, kad patį tvirtina. Pastarieji dar priduria,
+    papirkti išdavikai sukėlę gaisrą. Do- kad kažkurie iš apgultųjų, ar Vytau-
+    niesienie polskie, anksčiau minėti, Foi to pažadų suvilioti, ar iš neapykan-
+    E, p. 70, regis, taip pat, kaip ir mini- tos Skirgailai, padegę Žemutinės pi­
+    nai Naruševičiaus Proces ory- lies dvejus vartus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014

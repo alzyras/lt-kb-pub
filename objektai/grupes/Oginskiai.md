@@ -43,6 +43,7 @@ giminių lietuviškos kilmės yra tik Goštautai ir Radvilos, o visos kitos – 
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Goštautai]]
+- [[objektai/daiktai/Akademijos observatorijos prietaisai]]
 - [[objektai/grupes/Tiškevičiai]]
 - [[objektai/grupes/Valavičiai]]
 - [[objektai/grupes/Rusėnai]]

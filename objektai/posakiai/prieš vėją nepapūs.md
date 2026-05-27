@@ -90,4 +90,4 @@ Patarlinė formulė čia vartojama kalbant apie jėgų nelygybę ir nenorą prie
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Rusai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Vytautas]]

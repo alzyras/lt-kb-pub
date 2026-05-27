@@ -15,20 +15,25 @@ saltiniai:
 - Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
 - Vytautas Didysis 1350-1430 (1930 m.)
 datos:
+  - '1128 m.'
   - '1350 m.'
+  - '1380 m.'
   - '1430 m.'
+  - '1432 m.'
   - '1930 m.'
   - '1936 m.'
   - '2026 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
+  - 'viduramžiai'
 amziai:
+  - 'XII'
   - 'XIV'
   - 'XV'
   - 'XX'
   - 'XXI'
-date_start: '1350'
+date_start: '1128'
 date_end: '2026'
 laikotarpis: ''
 patikimumas: vidutinis
@@ -56,7 +61,7 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-010
-  teiginys: 'Vytauto santykiai su Lenkija jo gyvenimo pabaigoj Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenorėjo gadinti santykių su Jogaila ir Lenkija.'
+  teiginys: 'Iš vietininko tapęs savarankišku Lietuvos valdovu, Vytautas nenorėjo gadinti santykių su Jogaila ir Lenkija.'
   pagrindžia:
     - c-003
 - t-011
@@ -64,17 +69,37 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   pagrindžia:
     - c-004
 - t-012
-  teiginys: 'Tačiau vietininkai nebuvo vien tik ūkių prievaizdai: jie valdė ne tik dvarus, bet jų žinioje buvo ir tose srityse esančios pilys, kurias jie turėjo taisyti ir laikyti paruoštas karui.'
+  teiginys: 'Vietininkai valdė dvarus, prižiūrėjo pilis ir turėjo jas taisyti bei laikyti paruoštas karui.'
   pagrindžia:
     - c-005
-- t-013
-  teiginys: 'Vy­ tauto vietininkas ir bajorai, palaikę lietuviškąją partiją, buvo išžudyti.'
-  pagrindžia:
-    - c-006
 - t-014
-  teiginys: 'Šis darbas beveik galutinai buvo baigtas Vytauto: jam pasisekė svarbesniąsias ir didesniąsias sričių kunigaikštijas panaikinti ir savarankiškų kuni­ gaikščių vietoj pasodinti savo vietininkus, visiškai nuo d. kun. priklausomus.'
+  teiginys: 'Vytautas panaikino svarbesnes sričių kunigaikštijas ir vietoj savarankiškų kunigaikščių paskyrė nuo jo priklausomus vietininkus.'
   pagrindžia:
     - c-007
+- t-015
+  teiginys: 'Jogaila paskyrė Vaidilą Lydos vietininku ir atidavė jam į žmonas savo seserį.'
+  pagrindžia:
+    - c-008
+- t-016
+  teiginys: 'Rusios kronikininkai liudijo, kad Vilniaus gyventojai vietininkais pasikvietė Dovilą ir Maukoldą.'
+  pagrindžia:
+    - c-009
+- t-017
+  teiginys: 'Jogaila paskyrė Skirgailą savo vietininku ir titulavo jį Lietuvos didžiuoju kunigaikščiu.'
+  pagrindžia:
+    - c-010
+- t-018
+  teiginys: '1432 m. vietininkai Joachimas ir Aleksas Jefremovičius su Pskovo bojarinais sudarė sutartį su Švitrigaila.'
+  pagrindžia:
+    - c-011
+- t-019
+  teiginys: 'Kazimieras Jogailaitis, pašauktas į Lenkijos sostą, nepanoro Didžiosios Kunigaikštystės valdyti per vietininką.'
+  pagrindžia:
+    - c-012
+- t-020
+  teiginys: 'Aleksandras Jogailaitis nurodė, kad Vilniaus vaivados vietininkams nereikia mokėti po grašį nuo krovinio perkėloje ties Vilniumi.'
+  pagrindžia:
+    - c-013
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -113,7 +138,7 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   pagrindžia:
     - t-008
 - c-003
-  santrauka: 'Vytauto santykiai su Lenkija jo gyvenimo pabaigoj Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenorėjo gadinti santykių su Jogaila ir Lenkija.'
+  santrauka: 'Iš vietininko tapęs savarankišku Lietuvos valdovu, Vytautas nenorėjo gadinti santykių su Jogaila ir Lenkija.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Vytauto santykiai su Lenkija jo gyvenimo pabaigoj**
@@ -149,7 +174,7 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   pagrindžia:
     - t-011
 - c-005
-  santrauka: 'Tačiau vietininkai nebuvo vien tik ūkių prievaizdai: jie valdė ne tik dvarus, bet jų žinioje buvo ir tose srityse esančios pilys, kurias jie turėjo taisyti ir laikyti paruoštas karui.'
+  santrauka: 'Vietininkai valdė dvarus, prižiūrėjo pilis ir turėjo jas taisyti bei laikyti paruoštas karui.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tačiau vietininkai nebuvo vien tik ūkių prievaizdai: jie
@@ -167,7 +192,7 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   pagrindžia:
     - t-012
 - c-006
-  santrauka: 'Vy­ tauto vietininkas ir bajorai, palaikę lietuviškąją partiją, buvo išžudyti.'
+  santrauka: 'Vytauto vietininkas ir lietuviškąją partiją palaikę bajorai buvo išžudyti.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vy­
@@ -182,7 +207,7 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   pagrindžia:
     - t-013
 - c-007
-  santrauka: 'Šis darbas beveik galutinai buvo baigtas Vytauto: jam pasisekė svarbesniąsias ir didesniąsias sričių kunigaikštijas panaikinti ir savarankiškų kuni­ gaikščių vietoj pasodinti savo vietininkus, visiškai nuo d. kun. priklausomus.'
+  santrauka: 'Vytautas panaikino svarbesnes sričių kunigaikštijas ir vietoj savarankiškų kunigaikščių paskyrė nuo jo priklausomus vietininkus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Šis darbas beveik
@@ -197,14 +222,173 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-014
+- c-008
+  santrauka: 'Jogaila paskyrė Vaidilą Lydos vietininku ir atidavė jam į žmonas savo seserį.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    O
+    Jogaila, labai jį pamilęs, ne tik Lydos vietininku padarė, bet,
+    nepaisydamas Kęstučio prieštaravimų, dargi atidavė jam į
+    žmonas savo seserį. Kaip pasiuntinys nuvykęs į Prūsiją, Vai­
+    dila 1380 metais paruošė dirvą Jogailai sudaryti slaptą san­
+    dėrį su arkikomtūru, siekiant užsitikrinti saugumą nuo kry­
+    žiuočių ir palengvinti jiems Kęstučio valdų puolimą28.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
+- c-009
+  santrauka: 'Rusios kronikininkai liudijo, kad Vilniaus gyventojai vietininkais pasikvietė Dovilą ir Maukoldą.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    PIRMOSIOS
+    KNYGOS
+    PABAIGA
+
+    ## Puslapis 59
+
+    VILNIAUS
+    MIESTO
+    ISTORIJOS
+    I
+    KNYGOS
+    PRIEDAI
+    STUDIJA APIE VILNIAUS MIESTO ATSIRADIMĄ
+    Rusios kronikininkai, tarp kitų ir Voskresenski Letopis
+    (BocKpeceHCK. AeTon. I. 48), liudija, kad XII amžiuje jau
+    būta Vilniaus ir kad šio miesto gyventojai, bijodami Mstis­
+    lavo Didžiojo kariaunos, kuris 1128 metais užvaldė krivi-
+    čių žemę, pasidavė Vengrijos, tai yra Haličo, karaliaus
+    valdžiai, vietininkais pasikvietę Dovilą ir Maukoldą, sū­
+    nus Rostislavo Rogvoldovičiaus, kurį tas pats Mstislavas
+    išvijo į Graikiją.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-016
+- c-010
+  santrauka: 'Jogaila paskyrė Skirgailą savo vietininku ir titulavo jį Lietuvos didžiuoju kunigaikščiu.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Vladislovas Jogaila su nemažėjančiu apaštalavimo įkarš­
+    čiu tuo metu tikrai visą Lietuvą aplankė diegdamas naujo
+    tikėjimo nuostatus; dar numaldęs Baltojoje Rusioje prasidė­
+    jusius bruzdėjimus, pargrįžo į Vilnių. Čia, krašto reikalus
+    įstatęs į tvirtas vėžes, tikrąjį savo brolį Skirgailą paskyrė sa­
+    vo vietininku ir titulavo Lietuvos didžiuoju kunigaikščiu,
+    pavaldžiu karališkajai savo valdžiai16.
+    Miestui teko būti liudytoju dviejų prašmatnių vestuvių:
+    Ziemovito, Mazovijos jaunesniojo kunigaikščio, už kurio Jo­
+    gaila išleido savo seserį Aleksandrą, ir Jonušo, vyresniojo
+    Mazovijos kunigaikščio, kuris vedė Vytauto seserį Oną.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-017
+- c-011
+  santrauka: '1432 m. vietininkai Joachimas ir Aleksas Jefremovičius su Pskovo bojarinais sudarė sutartį su Švitrigaila.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Palenkdamas rusų bojari-
+    10
+    Pskovo metraštis (K a r a m z i n, V,
+    1. 146 - prieraš.) pasakoja, kad 1432
+    metais vietininkai Joachimas ir Alek­
+    sas Jefremovičius su Pskovo bojari­
+    nais atvyko pas Švitrigailą ir sudarė
+    su juo sutartį, kurioje patvirtinta se­
+    novinės sienos, kaip buvę Vytauto
+    laikais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-018
+- c-012
+  santrauka: 'Kazimieras Jogailaitis, pašauktas į Lenkijos sostą, nepanoro Didžiosios Kunigaikštystės valdyti per vietininką.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    223
+
+    ## Puslapis 240
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    Žygimanto įpėdinis Kazimieras Jogailaitis, nors pašauk­
+    tas į Lenkijos sostą, vis dėlto nepanoro Didžiąją Kuni­
+    gaikštystę valdyti per vietininką. Pirmenybę teikdamas Lie­
+    tuvai, jis dažniausiai gyveno Trakuose arba Vilniuje. Iš tikrųjų
+    tai daryti jį vertė krašto nesutarimai ir Lietuvos bajorų ne­
+    santaika, o dar labiau traukė prisirišimas prie gimtosios že­
+    mės ir lengvai patenkinamas aistringas jo pomėgis medžiok­
+    lei, kuriai atsiduodavo, pamiršdamas net ir oficialius
+    reikalus29.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-019
+- c-013
+  santrauka: 'Aleksandras Jogailaitis nurodė, kad Vilniaus vaivados vietininkams nereikia mokėti po grašį nuo krovinio perkėloje ties Vilniumi.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    41
+    Miesto archyve yra Aleksandro Jogai-
+    laičio, Lietuvos didžiojo kunigaikš­
+    čio, tokio turinio laiškas: „Vaitas, ta­
+    rybos nariai ir Vilniaus miestiečiai
+    skundė Bogdaną Kievlą, Vilniaus
+    vaivados ir valstybės kanclerio Mi­
+    kalojaus Radvilos vietininką, kad tas
+    Kievla perkėloje ties Vilniumi imąs
+    po grašį nuo krovinio, ko Vytauto ir
+    Žygimanto laikais nebūdavo. Tad
+    kunigaikščio Aleksandro nurody­
+    mu, vaivada Mikalojus išsiklausinė-
+    jo ir sužinojo, kad nuo seno nemo­
+    kėję to mokesčio vietininkui, tik po
+    grašį nuo krovinio keltininkams, ku­
+    rie krovinius praleidžia, ir kad tą
+    naują mokestį buvę įvedę Tomas ir
+    Zdanas, Vilniaus vaivados ir miru­
+    sio karaliaus Kazimiero kanclerio,
+    velionio pono Olechnos Sudiman-
+    taičio, vietininkai. Tada Aleksan­
+    dras miestui davė šį raštą, taip nu­
+    rodydamas: „Jiems visiems nereikia
+    duoti po grašį nuo krovinio pono
+    Vilniaus vaivados vietininkams
+    perkėloje ties Vilniumi visais lai­
+    kais, tiktai privalo duoti nuo krovi­
+    nio po grašį keltininkams, kurie
+    krovinį praleidžia".
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-020
 
 ## Pastabos
 - Šalia esantis viecinykas yra senesnė ar tarmiška forma, bet reikšmė iš konteksto aiški.
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Andrius Algirdaitis Polockietis]]
+- [[objektai/ivykiai/Astravos sutartis]]
 - [[objektai/paprociai/Bajorų skyrimas į vietininkus ir žemvaldžių riterių sluoksnio kūrimas]]
 - [[objektai/asmenys/Dimitrijus (Voluinietis Karijotaitis)]]
 - [[objektai/asmenys/Dmitrijus Algirdaitis Brenskietis]]
@@ -221,7 +405,6 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
 - [[objektai/asmenys/Narimantas Gediminaitis]]
 - [[objektai/daiktai/Pragos miesto raktai|Pragos miesto raktai (miestas)]]
 - [[objektai/grupes/Rygos miesto taryba|Rygos miesto taryba (institucija)]]
-- [[objektai/asmenys/Skirgaila]]
 - [[objektai/ivykiai/Smolensko sukilimas|Smolensko sukilimas (sukilimas)]]
 - [[objektai/asmenys/Teodoras]]
 - [[objektai/asmenys/Tomas Survila]]
@@ -237,6 +420,5 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
 - [[objektai/ivykiai/Šv. Vaclovo karūnos pasiūlymas Jogailai ir Vytauto sutikimas priimti čekų karūną (1420–1421 m.)]]
 - [[objektai/ivykiai/Žemaičių sukilimas 1409 m|Žemaičių sukilimas 1409 m (sukilimas)]]
 - [[objektai/posakiai/„Didžiuoju“]]
-- [[objektai/grupes/Bajorai]]
 - [[objektai/zodynas/baskakas]]
 - [[objektai/zodynas/ekonomija]]

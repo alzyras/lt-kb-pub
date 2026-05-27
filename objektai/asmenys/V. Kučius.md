@@ -60,3 +60,7 @@ Kučiui panaudojus spec.
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai]]

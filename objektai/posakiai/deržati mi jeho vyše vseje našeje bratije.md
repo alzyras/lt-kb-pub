@@ -62,4 +62,4 @@ Ta pačia proga Jogaila, savarankiškai be Jadvygos ir lenkų didikų žinios, i
 - [[objektai/grupes/Lenkai]]
 - [[objektai/asmenys/Skirgaila]]
 - [[objektai/zodynas/kunigaikštija]]
-- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/asmenys/Jogaila]]

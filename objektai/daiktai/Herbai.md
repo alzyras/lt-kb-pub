@@ -208,7 +208,7 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/asmenys/Adomas Mickevičius|Adomas Mickevičius (poetas)]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/daiktai/Herbas]]
 - [[objektai/asmenys/Julius Slovackis]]
 - [[objektai/autoriai/Mickevičius]]

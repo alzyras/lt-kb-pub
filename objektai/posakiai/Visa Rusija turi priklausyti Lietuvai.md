@@ -75,5 +75,5 @@ tags:
 ### Susiję objektai
 - [[objektai/grupes/Slavai]]
 - [[objektai/zodynas/kunigaikščiai]]
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Algirdas]]
 - [[objektai/grupes/Lietuviai]]

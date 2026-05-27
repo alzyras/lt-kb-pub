@@ -35,6 +35,10 @@ Kitoj doku­ mento daly kalba: kai Vytautas numirs, tai d. Lietuvos kun. (princi
     - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Be to, suteikiame dvasiškiams pilną ir ne­ ribotą jurisdikciją, kokia galioja kitose, ir mūsų, ir svetimo­ se, dominijose.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -77,11 +81,24 @@ Kitoj doku­ mento daly kalba: kai Vytautas numirs, tai d. Lietuvos kun. (princi
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Be to, suteikiame dvasiškiams pilną ir ne­ ribotą jurisdikciją, kokia galioja kitose, ir mūsų, ir svetimo­ se, dominijose.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Be to, suteikiame dvasiškiams pilną ir ne­
+    ribotą jurisdikciją, kokia galioja kitose, ir mūsų, ir svetimo­
+    se, dominijose. Norime, kad ponai vyskupai turėtų įgalioji­
+    mus nutraukti ir panaikinti neteisėtas ir Apaštalų Sosto
+    neaprobuotas santuokas, o paklusti nenorinčius bausti baž­
+    nytinėmis bausmėmis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/daiktai/Karūna]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/grupes/Didžioji Lietuvos kunigaikštystė]]
-- [[objektai/zodynas/kunigaikštija]]
+- [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija]]

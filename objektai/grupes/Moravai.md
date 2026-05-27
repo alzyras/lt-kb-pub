@@ -54,4 +54,3 @@ tags:
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Čekai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

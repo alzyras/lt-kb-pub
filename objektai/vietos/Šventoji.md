@@ -35,13 +35,13 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Jos žemupys paliekamas ordinui, nes nuo į vakarus pasukančios Šešupės siena tiesia linija į Nemuną buvo išvesta ten, kur priešais dešinėje Ne­ muno pusėje įteka Šventoji.'
+  teiginys: 'Siena buvo išvesta į Nemuną ties vieta, priešais kurią dešinėje Nemuno pusėje įteka Šventoji.'
   pagrindžia:
     - c-002
-- t-003
-  teiginys: 'Žemė (Palestina) 234 Šventoji, upė 118, 126, 177, 234, 354, 359, 360 Švėtė, upė 118 Švietimo Darbas 58, 128, 232 Švitrigaila-Boleslovas 65, 83, 84, 169, 276, 311, 312, 318, 320-322, 325, 329, 330, 336, 354, 361, 364, 374, 381 Švoba J.'
+- t-004
+  teiginys: 'Vytauto laiške minima riba išilgai Nemuno iki Strėvos žiočių ir išilgai Neries iki jos santakos su Šventąja.'
   pagrindžia:
-    - c-003
+    - c-004
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -63,7 +63,7 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Jos žemupys paliekamas ordinui, nes nuo į vakarus pasukančios Šešupės siena tiesia linija į Nemuną buvo išvesta ten, kur priešais dešinėje Ne­ muno pusėje įteka Šventoji.'
+  santrauka: 'Siena buvo išvesta į Nemuną ties vieta, priešais kurią dešinėje Nemuno pusėje įteka Šventoji.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Jos žemupys
@@ -80,24 +80,23 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
-- c-003
-  santrauka: 'Žemė (Palestina) 234 Šventoji, upė 118, 126, 177, 234, 354, 359, 360 Švėtė, upė 118 Švietimo Darbas 58, 128, 232 Švitrigaila-Boleslovas 65, 83, 84, 169, 276, 311, 312, 318, 320-322, 325, 329, 330, 336, 354, 361, 364, 374, 381 Švoba J.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+- c-004
+  santrauka: 'Vytauto laiške minima riba išilgai Nemuno iki Strėvos žiočių ir išilgai Neries iki jos santakos su Šventąja.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
-    Žemė (Palestina) 234
-    Šventoji, upė 118, 126, 177, 234,
-    354, 359, 360
-    Švėtė, upė 118**
-    **_Švietimo Darbas_** **58, 128, 232
-    Švitrigaila-Boleslovas 65, 83, 84,
-    169, 276, 311, 312, 318, 320-322,
-    325, 329, 330, 336, 354, 361, 364,
-    374, 381
-    Švoba J.
+    Vy­
+    tautas viename laiške, tais metais da­
+    tuotame, kuriame žada Prūsijos
+    ordinui pagalbą statant dvi pilis, sa­
+    ko, kad bus padaryta šitaip: „Išilgai
+    Nemuno, iki pat tos vietos, kur Strė­
+    va į jį įteka, ir išilgai Nerige, iki pat
+    ten, kur Šventoji su ja susijungia/'
+    Cfr.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ''
   pagrindžia:
-    - t-003
+    - t-004

@@ -99,7 +99,7 @@ tags:
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Skirgaila]]
 - [[objektai/grupes/Vokiečiai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Vytautas]]
 - [[objektai/asmenys/Zöllneris]]
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/zodynas/žygis]]

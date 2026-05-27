@@ -57,4 +57,4 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Gediminaičių dinastija]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Gediminas]]

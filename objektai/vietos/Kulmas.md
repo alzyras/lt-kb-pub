@@ -10,13 +10,17 @@ datos:
   - '1231 m.'
   - '1232 m.'
   - '1235 m.'
+  - '1323 m.'
+  - '1324 m.'
   - '1936 m.'
   - '2026 m.'
 periodas: 'viduramžiai'
 periodo_grupes:
+  - 'LDK'
   - 'viduramžiai'
 amziai:
   - 'XIII'
+  - 'XIV'
   - 'XX'
   - 'XXI'
 date_start: '1231'
@@ -33,7 +37,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
 
 ## Teiginiai
 - t-001
-  teiginys: 'Kryžiuočių riteriams pirmąją bazę sudarė Tornas 1232 m. ir Kulmas 1235 m.'
+  teiginys: 'Kryžiuočių riterių pirmosios bazės buvo Tornas 1232 m. ir Kulmas 1235 m.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -47,13 +51,12 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   pagrindžia:
     - c-003
 - t-004
-  teiginys: 'Jiems pirmąją bazę sudarė Tornas (1232 m.) ir Kulmas (1235 m.).'
+  teiginys: 'Hermano Balke''s vadovaujamiems riteriams pirmąją bazę sudarė Tornas 1232 m. ir Kulmas 1235 m.'
   pagrindžia:
     - c-004
-
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Kryžiuočių riteriams pirmąją bazę sudarė Tornas 1232 m. ir Kulmas 1235 m.'
+  santrauka: 'Kryžiuočių riterių pirmosios bazės buvo Tornas 1232 m. ir Kulmas 1235 m.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Tada Salza priėmė kvietimą
@@ -100,7 +103,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   pagrindžia:
     - t-003
 - c-004
-  santrauka: 'Jiems pirmąją bazę sudarė Tornas (1232 m.) ir Kulmas (1235 m.).'
+  santrauka: 'Hermano Balke''s vadovaujamiems riteriams pirmąją bazę sudarė Tornas 1232 m. ir Kulmas 1235 m.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Krikščionims

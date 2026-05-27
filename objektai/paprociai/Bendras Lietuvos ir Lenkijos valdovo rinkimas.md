@@ -121,7 +121,7 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
-- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/asmenys/Jogaila]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lenkų bajorija]]
 - [[objektai/grupes/Lietuviai]]

@@ -59,6 +59,7 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Andrius Algirdaitis]]
 - [[objektai/asmenys/Mindaugas]]
 - [[objektai/zodynas/magistras]]
 - [[objektai/asmenys/Andrius Štirlandas]]

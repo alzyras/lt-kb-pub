@@ -72,11 +72,12 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
 
 ### Susiję objektai
 - [[objektai/grupes/Chodkevičiai]]
-- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/asmenys/Jogaila]]
 - [[objektai/grupes/Vyšnioveckiai]]
 - [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/zodynas/vasalas]]
 - [[objektai/grupes/Čartoriskiai]]
+- [[objektai/asmenys/Elena]]
+- [[objektai/asmenys/Gabrielius Bekešas]]
 - [[objektai/autoriai/J. Jaroszewicz]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/tėvonija tėvų palikimas]]

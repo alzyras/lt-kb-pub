@@ -75,7 +75,6 @@ tags:
 - [[objektai/zodynas/Romos karalius]]
 - [[objektai/asmenys/St. Ciolką]]
 - [[objektai/grupes/Vienos universiteto profesoriai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/asmenys/Zbignievas Olesnickis]]
 - [[objektai/asmenys/Zig. Rothas]]
 - [[objektai/posakiai/in odium Sigismundi]]

@@ -15,6 +15,10 @@ dalyviai: []
 susije_irasai: []
 datos:
   - '1320 m.'
+  - '1388 m.'
+  - '1408 m.'
+  - '1414 m.'
+  - '1427 m.'
   - '1791 m.'
   - '1795 m.'
   - '1840 m.'
@@ -29,6 +33,7 @@ periodo_grupes:
   - 'naujieji laikai'
 amziai:
   - 'XIV'
+  - 'XV'
   - 'XVIII'
   - 'XIX'
   - 'XX'
@@ -54,11 +59,11 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   pagrindžia:
     - c-005
 - t-002
-  teiginys: 'Aišku, šis klausimas dar per mažai tirtas, bet pasauliui žinomas „Rusijos žydų“ fenomenas paaiškinamas paprastai – Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo „sėslumo ribos“, o ši visiškai sutapo su buvusios LDK arba Abiejų Tautų Respublikos.'
+  teiginys: 'Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo 1791 m. Jekaterinos II nubrėžtos sėslumo ribos.'
   pagrindžia:
     - c-006
 - t-003
-  teiginys: 'O kai kas priduria – ir… Izraelis, nes, kuriant šią valstybę, reikšmingiausius vaidmenis suvaidino iš šios erdvės kilę žydai, vadinęsi litvakais.'
+  teiginys: 'Kuriant Izraelį, reikšmingus vaidmenis atliko iš buvusios LDK erdvės kilę litvakai.'
   pagrindžia:
     - c-007
 - t-004
@@ -82,7 +87,7 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   pagrindžia:
     - c-012
 - t-009
-  teiginys: 'Lietuviai sudarė 82 proc., žydai 7, vokiečiai 4, lenkai 3, rusai 2,3 proc.'
+  teiginys: 'Pagal citatoje pateiktą gyventojų sudėtį žydai sudarė 7 proc. gyventojų.'
   pagrindžia:
     - c-013
 - t-010
@@ -90,13 +95,25 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   pagrindžia:
     - c-014
 - t-011
-  teiginys: 'Apskritai Lietuvos nepriklausomybę žydai parėmė, dalyvavo Lietuvos Tarybos veikloje, žydai savanoriai dalyvavo nepriklausomybės kovose.'
+  teiginys: 'Lietuvos nepriklausomybę žydai parėmė dalyvaudami Lietuvos Tarybos veikloje ir nepriklausomybės kovose.'
   pagrindžia:
     - c-015
 - t-012
-  teiginys: 'Nepaisant lietuvių kultūros, iš kurios neseniai šaipytasi, dominavimo, žydai galėjo ir toliau visiškai tenkinti savo nacionalinius kultūrinius poreikius, tačiau žydai ir lietuviai gyveno atskirus, tik darbo reikalais susijusius gyvenimus.'
+  teiginys: 'Nepriklausomoje Lietuvoje žydai galėjo tenkinti savo kultūrinius poreikius, bet su lietuviais gyveno daugiausia atskirai.'
   pagrindžia:
     - c-016
+- t-013
+  teiginys: 'Žydai Lietuvoje nuo seno galėjo atvykti tiek per Lenkijos sieną, tiek iš rytų pusės.'
+  pagrindžia:
+    - c-017
+- t-014
+  teiginys: 'Trakų žydai 1388 m. buvo gavę privilegiją, apibrėžusią jų elgseną krikščionių atžvilgiu.'
+  pagrindžia:
+    - c-018
+- t-015
+  teiginys: 'Vytauto laikais Vilniaus žydai tarp savųjų garsėjo ištekliais ir išsimokslinimu.'
+  pagrindžia:
+    - c-019
 
 ## Reikšmingi paminėjimai
 - c-004
@@ -135,7 +152,7 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   pagrindžia:
     - t-001
 - c-006
-  santrauka: 'Aišku, šis klausimas dar per mažai tirtas, bet pasauliui žinomas „Rusijos žydų“ fenomenas paaiškinamas paprastai – Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo „sėslumo ribos“, o ši visiškai sutapo su buvusios LDK arba Abiejų Tautų Respublikos.'
+  santrauka: 'Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo 1791 m. Jekaterinos II nubrėžtos sėslumo ribos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Aišku, šis klausimas dar per mažai tirtas, bet pasauliui žinomas
@@ -151,7 +168,7 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   pagrindžia:
     - t-002
 - c-007
-  santrauka: 'O kai kas priduria – ir… Izraelis, nes, kuriant šią valstybę, reikšmingiausius vaidmenis suvaidino iš šios erdvės kilę žydai, vadinęsi litvakais.'
+  santrauka: 'Kuriant Izraelį, reikšmingus vaidmenis atliko iš buvusios LDK erdvės kilę litvakai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     O
@@ -246,7 +263,7 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   pagrindžia:
     - t-008
 - c-013
-  santrauka: 'Lietuviai sudarė 82 proc., žydai 7, vokiečiai 4, lenkai 3, rusai 2,3 proc.'
+  santrauka: 'Pagal citatoje pateiktą gyventojų sudėtį žydai sudarė 7 proc. gyventojų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuviai sudarė 82 proc.,
@@ -284,7 +301,7 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   pagrindžia:
     - t-010
 - c-015
-  santrauka: 'Apskritai Lietuvos nepriklausomybę žydai parėmė, dalyvavo Lietuvos Tarybos veikloje, žydai savanoriai dalyvavo nepriklausomybės kovose.'
+  santrauka: 'Lietuvos nepriklausomybę žydai parėmė dalyvaudami Lietuvos Tarybos veikloje ir nepriklausomybės kovose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Galima sakyti, kad dvi svarbiausios užsienio politikos problemos –
@@ -309,7 +326,7 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   pagrindžia:
     - t-011
 - c-016
-  santrauka: 'Nepaisant lietuvių kultūros, iš kurios neseniai šaipytasi, dominavimo, žydai galėjo ir toliau visiškai tenkinti savo nacionalinius kultūrinius poreikius, tačiau žydai ir lietuviai gyveno atskirus, tik darbo reikalais susijusius gyvenimus.'
+  santrauka: 'Nepriklausomoje Lietuvoje žydai galėjo tenkinti savo kultūrinius poreikius, bet su lietuviais gyveno daugiausia atskirai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Nepaisant lietuvių kultūros, iš kurios neseniai šaipytasi, dominavimo,
@@ -329,33 +346,76 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-012
+- c-017
+  santrauka: 'Žydai Lietuvoje nuo seno galėjo atvykti tiek per Lenkijos sieną, tiek iš rytų pusės.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Žydai, dar XI am­
+    žiuje paplitę kaimyninėje Lenkijoje, Lietuvoje irgi nuo seno
+    buvo ne naujiena, juk laisvai galėjo į ją atvykti, tiek Lenkijos
+    sieną kirsdami, tiek ir iš rytų pusės. Tikriausiai jau Algirdo
+    laikais Vilnius juos bus pažinęs, bet Vytautas, kaip pavyzdį pri­
+    simindamas Kazimierą Didįjį, kuris žydų tautybės žmonių, ga­
+    nėtinai pasiturinčių, apsčiai pritelkė savo naujai pastatydintuo­
+    se miestuose, be to, išmanė, kiek naudos gali duoti turtai, verslai
+    bei įgimti sugebėjimai prekiauti tos tautos, anuomet ne tokios
+    kenksmingos kaip dabar. Taigi siekdamas to, nes matė jau ga-
+    66
+    Žr.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-013
+- c-018
+  santrauka: 'Trakų žydai 1388 m. buvo gavę privilegiją, apibrėžusią jų elgseną krikščionių atžvilgiu.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Betgi Trakų žydai,
+    gerokai anksčiau, dar 1388 m., atskirai buvo gavę panašią pri­
+    vilegiją, kuria išsamiai apibūdinta jų elgsena krikščionių at­
+    žvilgiu69.
+    Nuo šiol kelerius metus (1408-1414 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-014
+- c-019
+  santrauka: 'Vytauto laikais Vilniaus žydai tarp savųjų garsėjo ištekliais ir išsimokslinimu.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Jau Vytauto laikais Vil­
+    niaus žydai ne tik ištekliais, bet ir
+    išsimokslinimu tarp savųjų buvo
+    garsūs. Jakob Levi, iš Vilniaus, 1427
+    m. rašė hebrajiškas knygas ir turėjo
+    Moreno, t. y. teologijos daktaro, var­
+    dą.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-015
 
 ## Ryšiai
 ### Teminiai klasteriai
 - [[temos/privilegija]]
 
 ### Susiję objektai
-- [[objektai/grupes/Abiejų Tautų Respublika]]
-- [[objektai/zodynas/Antisemitizmas]]
-- [[objektai/grupes/Bajorai]]
-- [[objektai/asmenys/Jekaterina II]]
-- [[objektai/zodynas/Jidiš]]
-- [[objektai/grupes/Lenkai]]
-- [[objektai/grupes/Lietuviai]]
-- [[objektai/grupes/Rusai]]
-- [[objektai/zodynas/Tautinės mažumos]]
-- [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/istorinė Lietuva]]
-- [[objektai/zodynas/litvakai Lite litviš]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
-- [[objektai/posakiai/„mūsų žydeliai“]]
 - [[objektai/grupes/16-oji lietuviškoji šaulių divizija]]
 - [[objektai/ivykiai/1941 m. Birželio sukilimas|1941 m. Birželio sukilimas (sukilimas)]]
 - [[objektai/ivykiai/1944 m. emigracija į Vakarus]]
 - [[objektai/paprociai/Abiejų Tautų Respublikos religinės tolerancijos, bajoriškosios demokratijos ir teisinės tradicijos]]
 - [[objektai/grupes/Andrejaus Vlasovo armija]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
+- [[objektai/zodynas/Antisemitizmas]]
 - [[objektai/grupes/Armėnai]]
 - [[objektai/asmenys/Augustinas Voldemaras]]
 - [[objektai/grupes/Baltarusiai]]
@@ -365,11 +425,13 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
 - [[objektai/daiktai/Ginklai ir ginkluotė]]
 - [[objektai/paprociai/Istorinės Lietuvos žydų savivardystė „Lite“ ir „litvakai“]]
 - [[objektai/daiktai/Išsaugotos Toros]]
+- [[objektai/zodynas/Jidiš]]
 - [[objektai/asmenys/Jonas Mačiulis-Maironis]]
 - [[objektai/autoriai/Juozas Tumas (Vaižgantas)]]
 - [[objektai/zodynas/Kahalai]]
 - [[objektai/daiktai/Kino kronikos kameros]]
 - [[objektai/autoriai/Kuršaitis (redaktorius, 1849–1880 m.)]]
+- [[objektai/daiktai/Laivai]]
 - [[objektai/grupes/Lietuvių aktyvistų frontas]]
 - [[objektai/ivykiai/Lietuvių dalyvavimas Valstybės Dūmos rinkimuose po 1905 m. revoliucijos]]
 - [[objektai/grupes/Lietuvos delegacija prie Paryžiaus taikos konferencijos]]
@@ -399,8 +461,8 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
 - [[objektai/daiktai/Sutikimo vartai]]
 - [[objektai/autoriai/Sužiedėlis S]]
 - [[objektai/grupes/Tilžės gestapo būrys]]
+- [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]
 - [[objektai/grupes/Vilniaus baroko architektūros mokykla]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/ivykiai/Vytauto Reivyčio įsakymas sulaikyti visus žydus ir getų sudarymas (1941 m. rugpjūčio 16 d.)]]
 - [[objektai/ivykiai/Vytauto privilegijos žydams|Vytauto privilegijos žydams (privilegija)]]
 - [[objektai/daiktai/Zigmanto Augusto pinigai]]
@@ -415,6 +477,7 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
 - [[objektai/zodynas/krajovcai]]
 - [[objektai/zodynas/krajovcai kraštiečiai]]
 - [[objektai/zodynas/kultūrinė autonomija]]
+- [[objektai/zodynas/litvakai Lite litviš]]
 - [[objektai/zodynas/Pusrytės|pusrytės]]
 - [[objektai/zodynas/valymo operacijos]]
 - [[objektai/ivykiai/Žydų atstovų įėjimas į Lietuvos vyriausybę (1918 m. gruodis)]]
@@ -427,10 +490,11 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
 - [[objektai/posakiai/„Lietuvos Jeruzalė“ „Jerušalaim de Lite“]]
 - [[objektai/posakiai/„duona, tolerancija, demokratija, konstitucija, barokas“]]
 - [[objektai/posakiai/„kovos su judobolševizmu“]]
+- [[objektai/posakiai/„mūsų žydeliai“]]
 - [[objektai/posakiai/„niekuomet nebuvo karo padėtyje“ „nedraugiškas aktas“]]
 - [[objektai/posakiai/„teritoriniai patriotai“]]
 - [[objektai/posakiai/„žydšaudžiais“]]
-- [[objektai/grupes/Litvakai]]
 - [[objektai/ivykiai/Jekaterinos II sėslumo ribos nustatymas (1791 m.)]]
 - [[objektai/autoriai/Liekis Š]]
+- [[objektai/daiktai/Užstato daiktai Trakų žydų privilegijoje]]
 - [[objektai/zodynas/autonomija autonominis statusas]]

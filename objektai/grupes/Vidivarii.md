@@ -60,4 +60,5 @@ Padarydamas santrauką vėliau dingusios Kassiodoro rašytos gotų istorijos, ra
 - [[objektai/grupes/Gotai]]
 - [[objektai/autoriai/Jordanes]]
 - [[objektai/autoriai/Kassiodoras]]
+- [[objektai/zodynas/Vidivarijai]]
 - [[objektai/posakiai/pacatum hominum genus omnino]]

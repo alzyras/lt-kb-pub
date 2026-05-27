@@ -6,12 +6,17 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
-date_end: ''
+datos:
+  - '1578 m.'
+  - '1824 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVI'
+  - 'XIX'
+date_start: '1578'
+date_end: '1824'
 patikimumas: 'vidutinis'
 tags:
   - vieta
@@ -29,6 +34,10 @@ tags:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: '1578 m. sausio 28 d. Mogiliavas iš Stepono Batoro gavo privilegiją su Magdeburgo teise.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -50,3 +59,19 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: '1578 m. sausio 28 d. Mogiliavas iš Stepono Batoro gavo privilegiją su Magdeburgo teise.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Mogiliavas - iš Stepono Batoro, sausio 28 dieną...............................1578 m.
+    Privilegija Mogiliavui, kuria gavo Magdeburgo teisę, išspausdinta su prie­
+    du apie tam miestui suteiktą herbą Baltarusijos Archyve, leistame garbin­
+    gos atminties kanclerio Rumiancevo lėšomis: EeAopyccKuü apxuBb, HacTb
+    I, MocKBa, 1824, in 4to, p. 27.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

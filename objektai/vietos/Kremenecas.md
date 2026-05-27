@@ -9,13 +9,14 @@ saltiniai:
 datos:
   - '1407 m.'
   - '1418 m.'
+  - '1442 m.'
 periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
   - 'XV'
 date_start: '1407'
-date_end: '1418'
+date_end: '1442'
 patikimumas: 'vidutinis'
 tags:
   - ordinas
@@ -29,15 +30,14 @@ Bet dėl savo naujo sąmokslo su ordinu, kurio dalinys jau Maskvos žygio metu �
 
 ## Teiginiai
 - t-001
-  teiginys: 'Švitrigaila dėl naujo sąmokslo su ordinu buvo uždarytas į Kremeneco kalėjimą Volinijoje, iš kur pabėgo tik 1418 m.'
+  teiginys: 'Švitrigaila dėl sąmokslo su ordinu buvo uždarytas į Kremeneco kalėjimą Voluinijoje ir iš jo pabėgo tik 1418 m.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Švitrigaila dėl naujo sąmokslo su ordinu buvo uždarytas į Kremeneco kalėjimą Volinijoje, iš kur pabėgo tik 1418 m.'
+  santrauka: 'Švitrigaila dėl sąmokslo su ordinu buvo uždarytas į Kremeneco kalėjimą Voluinijoje ir iš jo pabėgo tik 1418 m.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Net Švitrigaila, kuris iš Maskvos Vosyliaus buvo gavęs eilę žemių^59 ,

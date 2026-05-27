@@ -109,8 +109,11 @@ Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai. Vėliau 
 
 ### Susiję objektai
 - [[objektai/zodynas/vaivada]]
-- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/asmenys/Jogaila]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/unija]]
 - [[objektai/asmenys/Benediktas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/zodynas/Municipalinė teisėtvarka]]
+- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Barbora Radvilaitė]]
+- [[objektai/zodynas/Pilininkas]]

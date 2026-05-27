@@ -7,6 +7,7 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
+  - '1317 m.'
   - '1409 m.'
   - '1600 m.'
   - '1936 m.'
@@ -16,11 +17,12 @@ periodo_grupes:
   - 'LDK'
   - 'modernioji Lietuva'
 amziai:
+  - 'XIV'
   - 'XV'
   - 'XVI'
   - 'XX'
   - 'XXI'
-date_start: '1409'
+date_start: '1317'
 date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
@@ -48,7 +50,7 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-003
-  teiginys: 'Šalia paties Vytauto būrių iš tikrosios Lietuvos ir rusiškųjų žemių, dalyvavo būrelis lenkų riterių ir su 1600 raitelių Ragainės komtūras Markvardas Salzba­ chas^30.'
+  teiginys: 'Ragainės komtūras Markvardas Salzbachas su 1600 raitelių dalyvavo Vytauto kariuomenėje.'
   pagrindžia:
     - c-003
 - t-004
@@ -56,13 +58,17 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
   pagrindžia:
     - c-004
 - t-005
-  teiginys: 'Pav., Ragainės komtūras vienu puolimu išsivedė 100 žmonių nelaisvėn.'
+  teiginys: 'Ragainės komtūras per vieną puolimą išsivedė į nelaisvę 100 žmonių.'
   pagrindžia:
     - c-005
 - t-006
   teiginys: 'Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o kiek vėliau ir Skirsnemunės pilis (šią pastarąją netrukus turėjo vėl sugriauti, nes sunku buvo ją atlaikyti).'
   pagrindžia:
     - c-006
+- t-007
+  teiginys: 'Ragainės komtūras Fridrichas de Libencelė su 150 žmonių apgulė Gedimino pilį, bet jos neužėmė ir sudegino tik papilį.'
+  pagrindžia:
+    - c-007
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -94,7 +100,7 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Šalia paties Vytauto būrių iš tikrosios Lietuvos ir rusiškųjų žemių, dalyvavo būrelis lenkų riterių ir su 1600 raitelių Ragainės komtūras Markvardas Salzba­ chas^30.'
+  santrauka: 'Ragainės komtūras Markvardas Salzbachas su 1600 raitelių dalyvavo Vytauto kariuomenėje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Šalia paties Vytauto būrių
@@ -130,7 +136,7 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
   pagrindžia:
     - t-004
 - c-005
-  santrauka: 'Pav., Ragainės komtūras vienu puolimu išsivedė 100 žmonių nelaisvėn.'
+  santrauka: 'Ragainės komtūras per vieną puolimą išsivedė į nelaisvę 100 žmonių.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Pav., Ragainės komtūras vienu puolimu išsivedė 100
@@ -160,3 +166,19 @@ Kryžiuočiai, atslinkę prie Nemuno, tuojau pasistatė Ragainės, Jurbarko, o k
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-006
+- c-007
+  santrauka: 'Ragainės komtūras Fridrichas de Libencelė su 150 žmonių apgulė Gedimino pilį, bet jos neužėmė ir sudegino tik papilį.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Kita užuomina
+    Dusburgo kronikoje apie Castrum Gedemini [Gedimino pilį]
+    yra prie 1317 m. (1. 387); anot jos, Ragainės komtūras Fridri­
+    chas de Libencelė, su 150 žmonių apgulęs tą pilį, neįstengė
+    jos užimti, o tik sudegino papilį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-007

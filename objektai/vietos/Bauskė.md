@@ -30,6 +30,10 @@ Etmonas, iždininkas ir maršalas vakare pasiekė Vilnių, iš visų savo rūmų
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: 'Bauskė buvo paminėta tarp Livonijos pilių sąrašo.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -58,3 +62,38 @@ Etmonas, iždininkas ir maršalas vakare pasiekė Vilnių, iš visų savo rūmų
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: 'Bauskė buvo paminėta tarp Livonijos pilių sąrašo.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    ]
+    Vietovių pavadinimai yra tokie:
+    Pirmajame plane - Vilniaus arsenalas, antrame ir trečia­
+    me: Vilniaus pilis, Vinica, Žitomiras, Naugardukas, Poloc­
+    kas, Vitebskas, Orša, Mogiliovas, Propoiskiai, Čečerskiai,
+    Mstislavlis, Radomie, Liubičius, Gomelis, Rečica, Kšičovai,
+    Ovručas, Ostras, Vladimiras, Luckas, Mozyrius, Kijevas,
+    Čerkasai, Medilas, Kaniuvas, Podolės Brasta, Bialocerkievas,
+    Minskas, Radoškovičiai, Lietuvos Brasta, Chastiča, Rožekas,
+    Novy Zamekas, Svisločėje vadinamas Kasperu, Kremene-
+    cas, Černobilis, Suražas, Cieriščiai, Borisovas, Drisa, Trakai,
+    Upytė, Druja, Lepelis, Kopečius arba Ušcas, Tikocinas. Li­
+    vonijos pilys: Marienhausenas, Lutzenas, Švarcenburgas,
+    Rosytė, Dinaburgas, Bauskė, Pernava, Kaskhauzenas, Hel-
+    314
+
+    ## Puslapis 331
+
+    IV  KNYGA
+    menas, Trikačius, Hermesas, Veisenšteinas, Kirchholmas,
+    Volmera, Vendenė, Kokenhauzenas, Rundborgas, Diuna-
+    mundė, Ryga, Šmetenė.
+    Taip atrodė mūsų artilerija (baigia Golembiovskis, išvar­
+    dinęs ginklus ir pilis) tik Lietuvos provincijoje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

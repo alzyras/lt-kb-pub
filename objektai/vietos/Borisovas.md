@@ -6,11 +6,14 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
-datos: []
-periodas: ''
-periodo_grupes: []
-amziai: []
-date_start: ''
+datos:
+  - '1500 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XV'
+date_start: '1500'
 date_end: ''
 patikimumas: 'vidutinis'
 tags:
@@ -25,15 +28,19 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Švitrigailos pajėgos užėmė Borisovą, Minską, Zaslavlį, Krėvą, Lydą, Vilnių ir Trakus, o vėliau priartėjo prie Kauno.'
+  teiginys: 'Į Lietuvą įsiveržusios totorių pajėgos užėmė Borisovą, Minską, Zaslavlį, Krėvą, Lydą, Vilnių ir Trakus.'
   pagrindžia:
     - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   statusas: patvirtinta
+- t-002
+  teiginys: '1500 m. Borisove datuotu sprendimu karalius Aleksandras liepė nugriauti prie bernardinų vienuolyno buvusį malūną.'
+  pagrindžia:
+    - c-002
 
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Švitrigailos pajėgos užėmė Borisovą, Minską, Zaslavlį, Krėvą, Lydą, Vilnių ir Trakus, o vėliau priartėjo prie Kauno.'
+  santrauka: 'Į Lietuvą įsiveržusios totorių pajėgos užėmė Borisovą, Minską, Zaslavlį, Krėvą, Lydą, Vilnių ir Trakus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     kunigaikštystės, totorių kariuomenė
@@ -73,3 +80,27 @@ tags:
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+- c-002
+  santrauka: '1500 m. Borisove datuotu sprendimu karalius Aleksandras liepė nugriauti prie bernardinų vienuolyno buvusį malūną.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    51
+    Karalius Aleksandras savo sprendi­
+    mu, datuotu Borisove 1500 m. (feria
+    quinta in octava Visitationis Beatae
+    Virginis Mariae - ketvirtadienį Švč.
+    Mergelės Marijos Apsilankymo ok­
+    tavoje), bernardinų prašymu, prie
+    vienuolyno esantį savo malūną įsa­
+    ko nugriauti, kadangi šis dėl drebė­
+    jimo malimo metu išjudino jau ir
+    taip netvirtus bernardinų pastatų
+    pamatus, o sklvpą, kuriame malū­
+    nas stovėjo, atiduoda vienuolynui.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-002

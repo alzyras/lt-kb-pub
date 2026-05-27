@@ -102,6 +102,9 @@ Tadas Korsakas siejamas su Abiejų Tautų tarpusavio įžado autoryste: šaltini
     - t-012
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/bajoras]]
+
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/konstitucijos]]

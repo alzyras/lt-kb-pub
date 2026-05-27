@@ -7,6 +7,11 @@ aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
+  - '1251 m.'
+  - '1253 m.'
+  - '1280 m.'
+  - '1286 m.'
+  - '1317 m.'
   - '1386 m.'
   - '1429 m.'
   - '1978 m.'
@@ -15,11 +20,12 @@ periodas: 'LDK laikotarpis'
 periodo_grupes:
   - 'LDK'
 amziai:
+  - 'XIII'
   - 'XIV'
   - 'XV'
   - 'XX'
   - 'XXI'
-date_start: '1386'
+date_start: '1251'
 date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
@@ -40,7 +46,7 @@ Bet Jogaila nebepabūgo ir pakeliui į Krokuvą iš Sandomiro rašė vyriausiam 
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: 'Paskutiniame Sandomiro suvažiavime, matyt, buvo priimtas neįvardytas sumanymas.'
+  teiginys: 'Paskutiniame Sandomiro suvažiavime, matyt, buvo priimtas sumanymas pasiūlyti Vytautui Jogailos karūną.'
   pagrindžia:
     - c-002
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -50,9 +56,13 @@ Bet Jogaila nebepabūgo ir pakeliui į Krokuvą iš Sandomiro rašė vyriausiam 
   pagrindžia:
     - c-003
 - t-004
-  teiginys: 'Paskutiniame Sandomiro suvažiavime, matyt, buvo priimtas minimas sumanymas, tačiau abejojama, ar tam pritarė Jogaila.'
+  teiginys: 'Paskutiniame Sandomiro suvažiavime, matyt, buvo priimtas sumanymas, tačiau abejojama, ar jam pritarė Jogaila.'
   pagrindžia:
     - c-004
+- t-005
+  teiginys: 'Poznanė dar anksčiau už Krokuvą - 1253 metais, Sandomiras - vėliau, 1286 metais, o Liublinas Vladislavo Lo­ ketkos laikais -1317 metais, ėmė tvarkytis pagal vokiečių miestų teises.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -75,7 +85,7 @@ Bet Jogaila nebepabūgo ir pakeliui į Krokuvą iš Sandomiro rašė vyriausiam 
   pagrindžia:
     - t-001
 - c-002
-  santrauka: 'Paskutiniame Sandomiro suvažiavime, matyt, buvo priimtas neįvardytas sumanymas.'
+  santrauka: 'Paskutiniame Sandomiro suvažiavime, matyt, buvo priimtas sumanymas pasiūlyti Vytautui Jogailos karūną.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Pasakęs tokį ilgą ir griaudingą pamokslą, Olesnickis pa­
@@ -106,7 +116,7 @@ Bet Jogaila nebepabūgo ir pakeliui į Krokuvą iš Sandomiro rašė vyriausiam 
   pagrindžia:
     - t-003
 - c-004
-  santrauka: 'Paskutiniame Sandomiro suvažiavime, matyt, buvo priimtas minimas sumanymas, tačiau abejojama, ar tam pritarė Jogaila.'
+  santrauka: 'Paskutiniame Sandomiro suvažiavime, matyt, buvo priimtas sumanymas, tačiau abejojama, ar jam pritarė Jogaila.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Toks sumanymas, matyt, bu­
@@ -119,3 +129,19 @@ Bet Jogaila nebepabūgo ir pakeliui į Krokuvą iš Sandomiro rašė vyriausiam 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-005
+  santrauka: 'Poznanė dar anksčiau už Krokuvą - 1253 metais, Sandomiras - vėliau, 1286 metais, o Liublinas Vladislavo Lo­ ketkos laikais -1317 metais, ėmė tvarkytis pagal vokiečių miestų teises.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Poznanė dar anksčiau už Krokuvą - 1253 metais,
+    Sandomiras - vėliau, 1286 metais, o Liublinas Vladislavo Lo­
+    ketkos laikais -1317 metais, ėmė tvarkytis pagal vokiečių miestų
+    teises. Panašiai ir Varšuva, įkurta 1251 metais, o Lvovas po jos -
+    1280 metais, pastatydintas Leono, Darnios iš Haličo sūnaus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-005

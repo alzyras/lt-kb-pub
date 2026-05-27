@@ -286,7 +286,9 @@ Nenurodyta
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/A. Liuneburgietis]]
+- [[objektai/asmenys/Andrius Algirdaitis]]
 - [[objektai/grupes/Chodkevičiai]]
+- [[objektai/asmenys/Fridrichas (Rygos arkivyskupas)]]
 - [[objektai/asmenys/Karolis (švedų kunigaikštis)]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Sapiegos]]

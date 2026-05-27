@@ -106,10 +106,11 @@ Nenurodyta
 - [[temos/didikas]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Algirdas]]
 - [[objektai/daiktai/Kalavijai]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/Margalis (Margirius )]]
+- [[objektai/daiktai/Vilniaus gaisro gesinimo įrankiai]]
 - [[objektai/zodynas/karyba]]
 - [[objektai/posakiai/„Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!“]]
 - [[objektai/grupes/Lietuvos totoriai]]

@@ -6,6 +6,16 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1519 m.'
+  - '1538 m.'
+periodas: 'LDK laikotarpis'
+periodo_grupes:
+  - 'LDK'
+amziai:
+  - 'XVI'
+date_start: '1519'
+date_end: '1538'
 patikimumas: 'vidutinis'
 tags:
   - asmuo
@@ -32,6 +42,10 @@ Lietuvos ir Lenkijos valdovų – Vytauto ir Jogailos – susitikimui su Švento
     - c-002
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
+- t-003
+  teiginys: 'Zigmantas I buvo Jono II tėvas; Jonas II 1519 m. paskelbtas Vilniaus vyskupu, o 1536 m. perkeltas į Poznanės vyskupiją.'
+  pagrindžia:
+    - c-003
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -68,11 +82,24 @@ Lietuvos ir Lenkijos valdovų – Vytauto ir Jogailos – susitikimui su Švento
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-002
+- c-003
+  santrauka: 'Zigmantas I buvo Jono II tėvas; Jonas II 1519 m. paskelbtas Vilniaus vyskupu, o 1536 m. perkeltas į Poznanės vyskupiją.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    12. Jonas II, iš Lietuvos kunigaikščių, karaliaus Zigmanto
+    I tikras sūnus, 1519 metais paskelbtas Vilniaus vyskupu, o
+    1536 m. perkeltas į Poznanės vyskupiją, mirė turėdamas 40
+    metų, 1538 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Vokiečiai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/Lucko suvažiavimas]]
 - [[objektai/grupes/Vokiečių ordinas]]
 - [[objektai/daiktai/Vytauto ir Julijonos karūnos]]

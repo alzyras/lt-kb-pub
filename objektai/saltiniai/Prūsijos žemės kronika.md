@@ -56,7 +56,7 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
 
 ## Teiginiai
 - t-006
-  teiginys: 'Petras Dusburgas nurodė, kad vienoje Žemaitijoje buvo net 70 tokių „karaliukų“.'
+  teiginys: 'Petras Dusburgas Prūsijos žemės kronikoje nurodė Žemaitijoje buvus net 70 tokių „karaliukų“.'
   pagrindžia:
     - c-001
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -68,17 +68,21 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-008
-  teiginys: 'Dusburgo amžininko, Mikalojaus iš Jarošino, kuris beversdamas kalbamą Dusburgo kroniką iš lo­ tynų į vokiečių kalbą, pridėjo nemaža papildymų ir paaiški­ nimų nuo savęs^1 ).'
+  teiginys: 'Mikalojus iš Jarošino, versdamas Dusburgo kroniką į vokiečių kalbą, pridėjo nemažai savo papildymų ir paaiškinimų.'
   pagrindžia:
     - c-003
 - t-009
-  teiginys: 'Šilainiai, Raudonė, Kejėnai RŪSTUS DIEVO ŽMONIŲ LIKIMAS Ištrauka iš Petro Dusburgiečio „Prūsijos žemės kronikos“ apie Durbės mūšį.'
+  teiginys: 'Prūsijos žemės kronikos ištraukoje apie Durbės mūšį pasakojama, kad 1260 m. lietuviai nuniokojo dalį Kuršo žemės.'
   pagrindžia:
     - c-004
+- t-010
+  teiginys: 'Dusburgas mini tik Dobrynės kunigaikštystę, nors kitame dokumente nurodyta, kad per antpuolį kentėjo ir kaimyninės Kulmo žemės.'
+  pagrindžia:
+    - c-005
 
 ## Reikšmingi paminėjimai
 - c-003
-  santrauka: 'Dusburgo amžininko, Mikalojaus iš Jarošino, kuris beversdamas kalbamą Dusburgo kroniką iš lo­ tynų į vokiečių kalbą, pridėjo nemaža papildymų ir paaiški­ nimų nuo savęs^1 ).'
+  santrauka: 'Mikalojus iš Jarošino, versdamas Dusburgo kroniką į vokiečių kalbą, pridėjo nemažai savo papildymų ir paaiškinimų.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Tuo klausimu įdo­
@@ -95,7 +99,7 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
   pagrindžia:
     - t-008
 - c-004
-  santrauka: 'Šilainiai, Raudonė, Kejėnai RŪSTUS DIEVO ŽMONIŲ LIKIMAS Ištrauka iš Petro Dusburgiečio „Prūsijos žemės kronikos“ apie Durbės mūšį.'
+  santrauka: 'Prūsijos žemės kronikos ištraukoje apie Durbės mūšį pasakojama, kad 1260 m. lietuviai nuniokojo dalį Kuršo žemės.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Šilainiai,
@@ -119,10 +123,29 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-009
+- c-005
+  santrauka: 'Dusburgas mini tik Dobrynės kunigaikštystę, nors kitame dokumente nurodyta, kad per antpuolį kentėjo ir kaimyninės Kulmo žemės.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    h
+    D u s b. c. 399, mini tik pačią Dobry­
+    nės kunigaikštystę, bet viename do­
+    kumente Slapt. arch. Spinta XI, Nr.
+    18 sakoma: terra Dobrynensis et con­
+    finia Culmensia [Dobrynės žemė ir
+    kaimyninės Kulmo žemės] kentė­
+    jo per tą antpuolį.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-010
 
 ## Bibliografiniai įrodymai
 - c-001
-  santrauka: 'Petras Dusburgas nurodė, kad vienoje Žemaitijoje buvo net 70 tokių „karaliukų“.'
+  santrauka: 'Petras Dusburgas Prūsijos žemės kronikoje nurodė Žemaitijoje buvus net 70 tokių „karaliukų“.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kryžiuočių kronikininkas P. Dusburgas pav. vienoje Žemai­

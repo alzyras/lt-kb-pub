@@ -89,3 +89,4 @@ Kazimieras mirė bevaikis, ir po jo sostas atiteko jo sesers sūnui, Vengrijos k
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Vengrai]]
 - [[objektai/ivykiai/Kęstučio taikos ir krikšto sutartis su Liudviku Anžu (1351 m.)]]
+- [[objektai/grupes/Vilniaus sukilimo centrinis komitetas]]

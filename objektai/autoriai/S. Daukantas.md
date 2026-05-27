@@ -131,6 +131,7 @@ S. Daukantas šiame šaltinyje minimas kaip istorikas, rašytojas; jam priskiria
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/paprociai/Istorikų darbų aptarinėjimas bajorų pobūviuose ir privačių kolekcijų kaupimas]]
 - [[objektai/grupes/Sakalo bendrovė]]
 - [[objektai/paprociai/Vyskupo M. Valančiaus lietuviški ir dvikalbiai pamokslai]]
 - [[objektai/posakiai/mokytiems vyrams išnagrinėti]]

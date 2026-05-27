@@ -50,7 +50,11 @@ Visus raštus į Maskvą antspauduodavo Lietuvos kancleriai, o iš Maskvos gauna
 ### Susiję objektai
 - [[objektai/grupes/Lenkai]]
 - [[objektai/paprociai/Didžiojo kunigaikščio raštinės dokumentų rengimo, kaupimo ir registravimo praktika]]
+- [[objektai/asmenys/Elena]]
+- [[objektai/autoriai/Ignacas Onacevičius]]
 - [[objektai/autoriai/M. K. Liubavskis]]
+- [[objektai/autoriai/Mykolas Balinskis]]
+- [[objektai/autoriai/Pranciškus Malevskis]]
 - [[objektai/grupes/Rusėnai]]
 - [[objektai/autoriai/V. T. Pašuto]]
 - [[objektai/zodynas/lietuviškos ūkio ir gerovės sąvokos rusėnų kalboje]]

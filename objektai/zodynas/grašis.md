@@ -86,9 +86,9 @@ Taip pat jau nuo Algirdo ir Kęstučio laikų Lietuvoje kursavo ir Čeki­ jos g
 - [[temos/pinigai]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Algirdas]]
+- [[objektai/asmenys/Kęstutis]]
+- [[objektai/asmenys/Vytautas]]
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/zodynas/rublis]]
 - [[objektai/grupes/Čekai]]

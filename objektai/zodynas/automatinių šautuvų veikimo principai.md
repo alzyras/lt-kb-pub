@@ -52,3 +52,7 @@ AK-47 automatika veikia dujų nuvedimo principu, kai dalis kulką iš vamzdžio 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/daiktai/Parakas]]

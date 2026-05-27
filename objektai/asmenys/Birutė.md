@@ -36,17 +36,22 @@ Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo 
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   statusas: patvirtinta
 - t-005
-  teiginys: 'Jo tėvas Kęstutis, nuolatinis Žemaičių krašto gynėjas, turėdamas per 40 metų vedė žinomo Žemaičių bajoro Vydimanto dukterį Birutę.'
+  teiginys: 'Kęstutis, perkopęs 40 metų, vedė žinomo Žemaičių bajoro Vydimanto dukterį Birutę.'
   pagrindžia:
     - c-002
-- t-006
-  teiginys: 'Birutė iš jų bus išmokęs skaityti ir rašyti.'
-  pagrindžia:
-    - c-003
 - t-007
-  teiginys: 'Šiandien pripažįstama, kad epinius pasakojimus atitinka keletas siužetų, užrašytų Lietuvos metraščiuose: Gedimino sapnas apie Vilniaus įkūrimą, Ldk Algirdo žygiai į Maskvą bei Birutės ir Ldk Kęstučio meilės istorija (Birutės istorija įdomi dar ir kitkuo –.'
+  teiginys: 'Birutė neįgijo krikščioniško vardo, buvo palaidota kaip pagonė, o jos legenda išliko ir įsigalint krikščionybei.'
   pagrindžia:
     - c-004
+- t-008
+  teiginys: 'Tačiau ir tai negalėjo pasotinti go­ duolio Ordino, kuris, priėmęs savo globon Vytautą ir Taut­ 36 Klausimas, ar Kęstutis pats pasirin­ kęs mirtį, - juk Skirgaila, važiavęs jo aplankyti, netikėtai rado negyvą, ar nužudytas, o jo žmona kunigaikš­ tienė Birutė.'
+  pagrindžia:
+    - c-005
+- t-009
+  teiginys: '• — 125 ## Puslapis 142 VILNIAUS MIESTO ISTORIJA / TOMAS jo jie visa širdimi linko, nes jis buvo Birutės, jų žemietės, sū­ nus.'
+  pagrindžia:
+    - c-006
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.'
@@ -64,7 +69,7 @@ Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo 
   pagrindžia:
     - t-004
 - c-002
-  santrauka: 'Jo tėvas Kęstutis, nuolatinis Žemaičių krašto gynėjas, turėdamas per 40 metų vedė žinomo Žemaičių bajoro Vydimanto dukterį Birutę.'
+  santrauka: 'Kęstutis, perkopęs 40 metų, vedė žinomo Žemaičių bajoro Vydimanto dukterį Birutę.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Jo tėvas Kęstutis, nuolatinis
@@ -80,35 +85,8 @@ Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
-- c-003
-  santrauka: 'Birutė iš jų bus išmokęs skaityti ir rašyti.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Bet iš ki­
-    tos pusės, Vytautui teko gyventi ne vien pagoniško tikėjimo pa­
-    sauliožiūros rate. Kaip Trakuose, taip ir dėdės Algirdo šeimoj
-    Vilniuj tekdavo jam susidurti ir su krikščionybės idėjomis,
-    nes čia dažnai atvykdavo iš Vakarų ir Rytų Europos įvairūs
-    pasiuntiniai, riteriai, vienuoliai, kurie lankydavos ne tik naujo
-    tikėjimo skelbimo reikalais, bet ir apsigyvendavo kunigaikščių
-    dvaruose raštininkais, patarėjais. Vienas Vytauto mokytojas
-    buvo kryžiuotis, nes tėvo dvare vokiečių belaisvių nestigdavo;
-    todėl jis iš jų bus išmokęs skaityti ir rašyti. Vadinas, Vytautas
-    augo ir pagoniško ir krikščioniško tikėjimų įtakoje. Jo pirmoji
-    žmona Marija, Rusijos kunigaikštytė, berods, buvo stačiatikė.
-    Antroji jo žmona Ona pradžioj taip pat buvusi stačiatikė, tik
-    paskui pasidarė labai uoli katalikė. Istorikai nurodo, kad Vy­
-    tautas turėjo tris žmonas^1 ). Trečios žmonos vardas buvęs Ju­
-    lijona.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  patikimumo_pagrindimas: ''
-  pagrindžia:
-    - t-006
 - c-004
-  santrauka: 'Šiandien pripažįstama, kad epinius pasakojimus atitinka keletas siužetų, užrašytų Lietuvos metraščiuose: Gedimino sapnas apie Vilniaus įkūrimą, Ldk Algirdo žygiai į Maskvą bei Birutės ir Ldk Kęstučio meilės istorija (Birutės istorija įdomi dar ir kitkuo –.'
+  santrauka: 'Birutė neįgijo krikščioniško vardo, buvo palaidota kaip pagonė, o jos legenda išliko ir įsigalint krikščionybei.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Šiandien pripažįstama, kad
@@ -126,14 +104,59 @@ Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-005
+  santrauka: 'Tačiau ir tai negalėjo pasotinti go­ duolio Ordino, kuris, priėmęs savo globon Vytautą ir Taut­ 36 Klausimas, ar Kęstutis pats pasirin­ kęs mirtį, - juk Skirgaila, važiavęs jo aplankyti, netikėtai rado negyvą, ar nužudytas, o jo žmona kunigaikš­ tienė Birutė.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tačiau ir tai negalėjo pasotinti go­
+    duolio Ordino, kuris, priėmęs savo globon Vytautą ir Taut­
+    36
+    Klausimas, ar Kęstutis pats pasirin­
+    kęs mirtį, - juk Skirgaila, važiavęs
+    jo aplankyti, netikėtai rado negyvą,
+    ar nužudytas, o jo žmona kunigaikš­
+    tienė Birutė paskandinta, - nėra iki
+    šiol aiškus ir rašantiesiems Lietuvos
+    istoriją dera jo imtis.
+    37
+    Vygandas  savo kronikoje, p.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008
+- c-006
+  santrauka: '• — 125 ## Puslapis 142 VILNIAUS MIESTO ISTORIJA / TOMAS jo jie visa širdimi linko, nes jis buvo Birutės, jų žemietės, sū­ nus.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    —  •  —
+    125
+
+    ## Puslapis 142
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    jo jie visa širdimi linko, nes jis buvo Birutės, jų žemietės, sū­
+    nus. Juo sunkiau buvo įveikiami lenkai, juo kautynės darėsi
+    žiauresnės; įkiršinti prancūzų atkaklumo, kurie su savo va­
+    du Boucicaut'u nemažai buvo pridarę žalos apgultiesiems,
+    pastarieji aniems su kartėliu iškalbėjo, kam, menko grobio ir
+    tuščios garbės pasigviešę, iš tolimų kraštų atvyko lieti tokių
+    pačių, kaip ir jie, krikščionių, kraujo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-009
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/ivykiai/Algirdo žygiai į Maskvą]]
 - [[objektai/daiktai/Aukuras]]
 - [[objektai/autoriai/Józef Wolff]]
 - [[objektai/ivykiai/Kęstučio žūtis Krėvos kalėjime (1382 m.)]]
 - [[objektai/grupes/Tauro apygarda]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - [[objektai/zodynas/vaidilutė]]
 - [[objektai/asmenys/Vydimantas]]

@@ -96,10 +96,10 @@ Nenurodyta
 - [[temos/aktas]]
 
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
+- [[objektai/asmenys/Jogaila]]
 - [[objektai/grupes/Lenkai]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Vytautas]]
 - [[objektai/zodynas/elektorius]]
 - [[objektai/asmenys/Jadvyga]]
 - [[objektai/grupes/Kryžiuočių ordinas]]

@@ -45,7 +45,7 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
   pagrindžia:
     - c-002
 - t-003
-  teiginys: 'Šiaurinė (Kauno) grupė turėjo pulti per Žiežmarius, Zaslius, Vievį Pietinė grupė turėjo užimti Daugus ir Varéng@, tada palei gelezinkelį pro Lentvarį pulti Vilnių.'
+  teiginys: '1919 m. balandžio 3-8 d. pietinė Lietuvos kariuomenės grupė turėjo užimti Daugus ir Varėną.'
   pagrindžia:
     - c-003
 - t-004
@@ -53,7 +53,7 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
   pagrindžia:
     - c-004
 - t-005
-  teiginys: '1945 m. birželio 14 d. Varčios mūšis vyko Varčios miške tarp Alovės ir Daugų.'
+  teiginys: '1945 m. birželio 14 d. Varčios mūšis vyko Varčios miške tarp Alovės ir Daugų miestelio.'
   pagrindžia:
     - c-005
 - t-006
@@ -61,9 +61,13 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
   pagrindžia:
     - c-006
 - t-007
-  teiginys: 'Kai šį sprendimą sužinojo Vytautas ir Jogaila, kurie tada viešėjo Dauguose, abu taip balsiai pra­ virko, kad jų verksmas, kaip sako Dlugošas, iš tolo buvo girdėti.'
+  teiginys: 'Vytautas ir Jogaila buvo Dauguose, kai sužinojo juos įžeidusį sprendimą.'
   pagrindžia:
     - c-007
+- t-008
+  teiginys: 'Slaptas sandėris buvo sudarytas girioje prie dabartinių Daugų, Trakų paviete, netoli Alytaus.'
+  pagrindžia:
+    - c-008
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -102,7 +106,7 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
   pagrindžia:
     - t-002
 - c-003
-  santrauka: 'Šiaurinė (Kauno) grupė turėjo pulti per Žiežmarius, Zaslius, Vievį Pietinė grupė turėjo užimti Daugus ir Varéng@, tada palei gelezinkelį pro Lentvarį pulti Vilnių.'
+  santrauka: '1919 m. balandžio 3-8 d. pietinė Lietuvos kariuomenės grupė turėjo užimti Daugus ir Varėną.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Balandžio 3-8 d. lietuviai iš Alytaus ir Kauno puolė Vilniaus link.
@@ -130,7 +134,7 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
   pagrindžia:
     - t-004
 - c-005
-  santrauka: '1945 m. birželio 14 d. Varčios mūšis vyko Varčios miške tarp Alovės ir Daugų.'
+  santrauka: '1945 m. birželio 14 d. Varčios mūšis vyko Varčios miške tarp Alovės ir Daugų miestelio.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     DAINAVOS APYGARDA DIDZIOSIOS KOVOS APYGARDA
@@ -177,7 +181,7 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
   pagrindžia:
     - t-006
 - c-007
-  santrauka: 'Kai šį sprendimą sužinojo Vytautas ir Jogaila, kurie tada viešėjo Dauguose, abu taip balsiai pra­ virko, kad jų verksmas, kaip sako Dlugošas, iš tolo buvo girdėti.'
+  santrauka: 'Vytautas ir Jogaila buvo Dauguose, kai sužinojo juos įžeidusį sprendimą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Kai šį sprendimą sužinojo Vytautas ir
@@ -192,3 +196,24 @@ Per susitikimą Dauguose patyrę ištarmę, jiedu esą rėkę ir raudoję, kaip 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-007
+- c-008
+  santrauka: 'Slaptas sandėris buvo sudarytas girioje prie dabartinių Daugų, Trakų paviete, netoli Alytaus.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    28
+    Tas sandėris buvo sudarytas slapta
+    girioje, prie dabartinių Daugų, Tra­
+    kų paviete, netoli nuo Alytaus, kaip
+    manau (auf dem Felde Daudisken);
+    tarp atvykusiųjų į tariamą medžiok­
+    lę buvo: Jogaila, lydimas Lietuvos
+    kunigaikščių Vytauto ir Jono, bei
+    Vaidilos, ir didysis komtūras, ku­
+    ris jiems iškėlė puikias vaišes. Žr.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ''
+  pagrindžia:
+    - t-008

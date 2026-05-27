@@ -56,7 +56,7 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+- [[objektai/asmenys/Kęstutis]]
 - [[objektai/grupes/Maironio rinktinė]]
 - [[objektai/grupes/P. Lukšio rinktinė]]
 - [[objektai/grupes/Prisikėlimo apygarda]]

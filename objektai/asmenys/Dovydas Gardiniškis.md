@@ -53,4 +53,4 @@ Stryjkovskio kroniką, Gedimino laikų žymiojo karo vado Dovydo Gardiniškio ž
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/asmenys/Dovydas (Gardino pilininkas)]]
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Gediminas]]

@@ -83,8 +83,10 @@ XVII amžiuje kapitula ruošėsi atnaujinti paminklą, bet 1655 m. Vilnių užė
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Barbora Radvilaitė]]
 - [[objektai/ivykiai/Konstancijos susirinkimas (1414–1418 m.)]]
 - [[objektai/grupes/Vilniaus kapitula]]
+- [[objektai/grupes/Vilniaus žydų kahalas]]
 - [[objektai/paprociai/Vyriausiojo Lietuvos tribunolo teisėjų rinkimas seimeliuose]]
 - [[objektai/zodynas/tautinė sąmonė]]
 - [[objektai/zodynas/tribunolas]]

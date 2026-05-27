@@ -103,6 +103,7 @@ Marksistinė Lietuvos istorijos periodizacija yra paprasta. Pritaikydami ir Liet
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/daiktai/Akademijos teatro įranga]]
 - [[objektai/zodynas/Baudžiava]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/feodalizmas]]
