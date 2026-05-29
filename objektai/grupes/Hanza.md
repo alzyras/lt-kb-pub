@@ -420,9 +420,10 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-018
+
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Gediminas]]
 - [[objektai/grupes/Pietų Lietuvos sritis]]
 - [[objektai/grupes/Rygiečiai]]
 - [[objektai/grupes/Vokiečiai]]

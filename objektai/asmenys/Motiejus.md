@@ -89,6 +89,7 @@ Kelis kartus Vytautas išpažino savo nuodė­ mes Vilniaus vyskupui Motiejui; p
 - [[objektai/ivykiai/Herasimo sąmokslas ir sudeginimas ant laužo]]
 - [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]
 - [[objektai/paprociai/Valančiaus blaivybės sąjūdis ir blaivybės brolijos]]
+- [[objektai/grupes/Vilniaus miesto auksakalių cechas]]
 - [[objektai/zodynas/murza]]
 - [[objektai/zodynas/ulonas]]
 - [[objektai/paprociai/Vyskupo M. Valančiaus lietuviški ir dvikalbiai pamokslai]]

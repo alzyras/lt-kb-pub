@@ -156,8 +156,5 @@ Nenurodyta
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/asmenys/Skirgaila]]
-- [[objektai/zodynas/magistras]]
-- [[objektai/zodynas/maršalas]]
-- [[objektai/zodynas/Miera|miera]]
+- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Vytautas]]

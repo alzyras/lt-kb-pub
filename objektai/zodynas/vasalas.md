@@ -178,9 +178,14 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
 
 ### Susiję objektai
 - [[objektai/paprociai/Ištikimybės priesaikos Jogailai]]
-- [[objektai/zodynas/maršalka]]
-- [[objektai/ivykiai/Jogailos pasiūlymas Vytautui per Henriką Ziemovitą (1392 m. pavasaris)]]
-- [[objektai/asmenys/Vladislovas iš Opolės]]
-- [[objektai/asmenys/Zigmantas Liuksemburgietis]]
+- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Mindaugas]]
 - [[objektai/zodynas/tėvonija]]
+- [[objektai/ivykiai/Jogailos pasiūlymas Vytautui per Henriką Ziemovitą (1392 m. pavasaris)]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Skirgaila]]
+- [[objektai/asmenys/Vladislovas iš Opolės]]
+- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Zigmantas Liuksemburgietis]]
 - [[objektai/zodynas/tėvonija tėvų palikimas]]
+- [[objektai/grupes/Livonijos ordinas]]

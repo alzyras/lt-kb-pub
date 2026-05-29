@@ -80,3 +80,9 @@ Per 150 metų toliau patverusi su Tverės kunigaikš­ čiais sąjunga, kuri rei
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/asmenys/Marija]]
+- [[objektai/asmenys/Dimitras (Tverės kunigaikštis)]]

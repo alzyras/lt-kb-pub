@@ -57,12 +57,13 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-011
-  teiginys: 'Simono Grunau kronikoje Rikojotas aprašomas kaip prūsų dievų kulto centras su šventykla po žaliuojančiu ąžuolu.'
+  teiginys: 'Prūsijos šaltinius, kuriuose kronikininkai kalbėjo apie prūsų dievus.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
 - c-002
-  santrauka: 'Simono Grunau kronikoje Rikojotas aprašomas kaip prūsų dievų kulto centras su šventykla po žaliuojančiu ąžuolu.'
+  santrauka: 'Prūsijos šaltinius, kuriuose kronikininkai kalbėjo apie prūsų dievus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Atsikirsdami kritikams romantikai pasitelkdavo XVI–XVII  a. Prū-
@@ -80,6 +81,7 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-011
+
 ## Bibliografiniai įrodymai
 - c-001
   santrauka: 'Simono Grunau kronikoje Rikojotas vadinamas prūsų dievų kulto centru su ąžuolu ir po juo įsikūrusia šventykla.'

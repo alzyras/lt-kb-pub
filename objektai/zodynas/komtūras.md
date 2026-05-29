@@ -286,6 +286,7 @@ Komtūras šiame įraše žymi Ordino pareigūną ir srities ar pilies vadą. An
 
 ### Susiję objektai
 - [[objektai/zodynas/maršalka]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/daiktai/Apgulties mašinos]]
 - [[objektai/ivykiai/Aukaimio pilies sunaikinimas (1302 ir 1305 m.)]]
 - [[objektai/asmenys/Danuta]]
@@ -312,4 +313,6 @@ Komtūras šiame įraše žymi Ordino pareigūną ir srities ar pilies vadą. An
 - [[objektai/zodynas/vyskupo teisėjas]]
 - [[objektai/daiktai/Šarvinių pirštinių, žasto, dilbio, kelio ir blauzdos apsaugos]]
 - [[objektai/daiktai/Šarvinės pirštinės]]
+- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Herkus Mantas]]
 - [[objektai/ivykiai/Junigėdos ir Peštvės priešpilių sudeginimas (1298 m.)]]

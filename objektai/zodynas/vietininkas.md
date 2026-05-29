@@ -387,6 +387,7 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Vytautas]]
 - [[objektai/asmenys/Andrius Algirdaitis Polockietis]]
 - [[objektai/ivykiai/Astravos sutartis]]
 - [[objektai/paprociai/Bajorų skyrimas į vietininkus ir žemvaldžių riterių sluoksnio kūrimas]]
@@ -400,11 +401,14 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
 - [[objektai/asmenys/Jonas Survila]]
 - [[objektai/asmenys/Jurgis (Danieliaus sūnus)]]
 - [[objektai/asmenys/Jurgis Vytautaitis]]
+- [[objektai/posakiai/Kaip pelė krepšyje arba angis užantyje]]
 - [[objektai/zodynas/Kamarninkas]]
 - [[objektai/asmenys/Klemensas Moskorzewskis]]
 - [[objektai/asmenys/Narimantas Gediminaitis]]
+- [[objektai/asmenys/Petras Goštautas]]
 - [[objektai/daiktai/Pragos miesto raktai|Pragos miesto raktai (miestas)]]
 - [[objektai/grupes/Rygos miesto taryba|Rygos miesto taryba (institucija)]]
+- [[objektai/asmenys/Skirgaila]]
 - [[objektai/ivykiai/Smolensko sukilimas|Smolensko sukilimas (sukilimas)]]
 - [[objektai/asmenys/Teodoras]]
 - [[objektai/asmenys/Tomas Survila]]
@@ -420,5 +424,6 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
 - [[objektai/ivykiai/Šv. Vaclovo karūnos pasiūlymas Jogailai ir Vytauto sutikimas priimti čekų karūną (1420–1421 m.)]]
 - [[objektai/ivykiai/Žemaičių sukilimas 1409 m|Žemaičių sukilimas 1409 m (sukilimas)]]
 - [[objektai/posakiai/„Didžiuoju“]]
+- [[objektai/grupes/Bajorai]]
 - [[objektai/zodynas/baskakas]]
 - [[objektai/zodynas/ekonomija]]

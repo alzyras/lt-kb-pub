@@ -138,4 +138,5 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
 - [[objektai/autoriai/Jordanas]]
 - [[objektai/asmenys/Michailas Aleksandrovičius]]
 - [[objektai/posakiai/nei žemės, nei žmonių]]
+- [[objektai/asmenys/Julijona (Algirdo žmona)]]
 - [[objektai/asmenys/Vyguntas]]

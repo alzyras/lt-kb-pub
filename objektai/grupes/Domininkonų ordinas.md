@@ -406,5 +406,6 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/grupes/Pranciškonų ordinas]]
+- [[objektai/asmenys/Goštautas]]
 - [[objektai/paprociai/Vytauto bažnyčių statymas ir vienuolynų steigimas]]
 - [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]

@@ -4,7 +4,7 @@ import { FullSlug, joinSegments } from "./path"
 interface FileTrieData {
   slug: string
   title: string
-  filePath: string
+  filePath?: string
 }
 
 export class FileTrieNode<T extends FileTrieData = ContentDetails> {
@@ -78,7 +78,7 @@ export class FileTrieNode<T extends FileTrieData = ContentDetails> {
       const child =
         this.children.find((c) => c.slugSegment === segment) ?? this.makeChild(path, undefined)
 
-      const fileParts = file.filePath.split("/")
+      const fileParts = (file.filePath ?? file.slug).split("/")
       child.fileSegmentHint = fileParts.at(-path.length)
       child.insert(path.slice(1), file)
     }

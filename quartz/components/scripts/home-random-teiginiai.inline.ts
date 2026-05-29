@@ -12,6 +12,12 @@ type TeiginysEntry = {
   slug: string
 }
 
+type RandomClaimsRuntime = typeof globalThis & {
+  loadRandomClaims?: () => Promise<Record<string, ContentIndexEntry>>
+}
+
+const randomClaimsRuntime = globalThis as RandomClaimsRuntime
+
 function shuffle<T>(arr: T[]): T[] {
   const copy = [...arr]
   for (let i = copy.length - 1; i > 0; i -= 1) {
@@ -112,17 +118,28 @@ function pickRandomTeiginiai(entries: TeiginysEntry[], limit: number): TeiginysE
 }
 
 async function fetchContentIndex(siteBasePath?: string): Promise<Record<string, ContentIndexEntry>> {
+  if (randomClaimsRuntime.loadRandomClaims) {
+    try {
+      const payload = await randomClaimsRuntime.loadRandomClaims()
+      if (payload && typeof payload === "object") {
+        return payload
+      }
+    } catch {
+      // fallback below
+    }
+  }
+
   const basePath = normalizeSiteBasePath(siteBasePath)
   const candidates = [
-    "./static/contentIndex.json",
-    "../static/contentIndex.json",
-    basePath ? `${basePath}static/contentIndex.json` : "",
-    "/static/contentIndex.json",
+    "./static/randomClaims.json",
+    "../static/randomClaims.json",
+    basePath ? `${basePath}static/randomClaims.json` : "",
+    "/static/randomClaims.json",
   ].filter(Boolean)
 
   for (const url of candidates) {
     try {
-      const response = await fetch(url, { cache: "no-store" })
+      const response = await fetch(url, { cache: "force-cache" })
       if (!response.ok) {
         continue
       }

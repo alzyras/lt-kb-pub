@@ -23,11 +23,7 @@ amziai:
 date_start: '1773'
 date_end: '2026'
 patikimumas: 'vidutinis'
-tags:
-  - grupe
-  - ordinas
-  - seimas
-  - valstybė
+tags: []
 ---
 # Edukacinė Komisija
 
@@ -201,6 +197,7 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/ivykiai/Edukacinės komisijos įkūrimas]]

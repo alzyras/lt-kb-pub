@@ -110,6 +110,9 @@ Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Steponas]]
+- [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/kapitula]]
 - [[objektai/grupes/7-ojo fuzilierių regimento]]
 - [[objektai/autoriai/Aug. Janulaitis]]
 - [[objektai/grupes/LDK 4-ojo pėstininkų regimento]]

@@ -136,15 +136,15 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   statusas: patvirtinta
 - t-029
-  teiginys: 'Zigmantas Vaza III 1587 m. buvo išrinktas Abiejų Tautų Respublikos valdovu.'
+  teiginys: 'Jų sūnus Zigmantas Vaza III 1587 m. buvo išrinktas Abiejų Tautų Respublikos valdovu.'
   pagrindžia:
     - c-009
 - t-030
-  teiginys: 'Abiejų Tautų Respublika per Gdanską į Amsterdamą aprūpino Vakarus javais ir sukūrė religinės tolerancijos bei bajoriškosios demokratijos tradiciją.'
+  teiginys: 'Taigi Abiejų Tautų Respublika: • aprūpino Vakarus (per Gdanską į Amsterdamą) javais, • sukūrė Vakarams tuomet beveik nežinomą religinės tolerancijos ir bajoriškosios demokratijos tradiciją, • Vilnius XVI–XVIII a.'
   pagrindžia:
     - c-010
 - t-031
-  teiginys: '1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas, kurio padariniu tapo 1569 m. Liublino unija.'
+  teiginys: 'ABIEJŲ TAUTŲ RESPUBLIKA Liublino unija 1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas.'
   pagrindžia:
     - c-011
 - t-032
@@ -152,17 +152,18 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
   pagrindžia:
     - c-012
 - t-033
-  teiginys: 'Oficialus Liublino unijos sukurtos jungtinės valstybės pavadinimas buvo Abiejų Tautų Respublika.'
+  teiginys: 'Oficialus jungtinės valstybės pavadinimas – Abiejų Tautų Respublika (net ir lietuviai kartais ją pavadina Žečpospolita: plg.'
   pagrindžia:
     - c-013
 - t-034
-  teiginys: 'LLV santvarka rėmėsi bajorais, kurie sudarė apie 7 proc. visuomenės, todėl ji apibūdinta kaip luominė monarchija.'
+  teiginys: 'L I E T U V O S I S T O R I J A 70 LLV santvarka artima Naujiesiems laikams, prilygsta Olandijai (pradėjusiai kurti respublikinę santvarką antrojoje XVI a.'
   pagrindžia:
     - c-014
 - t-035
   teiginys: '1791 m. spalio 20 d. Lietuvos delegacija Ketverių metų seime išsireikalavo konstitucijos pataisą, kuri buvo pavadinta Abiejų Tautų tarpusavio įžadu.'
   pagrindžia:
     - c-015
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1569 m. Liublino unija sukūrė jungtinę valstybę – Abiejų Tautų Respubliką.'
@@ -340,7 +341,7 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     - t-023
     - t-028
 - c-009
-  santrauka: 'Zigmantas Vaza III 1587 m. buvo išrinktas Abiejų Tautų Respublikos valdovu.'
+  santrauka: 'Jų sūnus Zigmantas Vaza III 1587 m. buvo išrinktas Abiejų Tautų Respublikos valdovu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Mūšio priešistorė
@@ -357,7 +358,7 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
   pagrindžia:
     - t-029
 - c-010
-  santrauka: 'Abiejų Tautų Respublika per Gdanską į Amsterdamą aprūpino Vakarus javais ir sukūrė religinės tolerancijos bei bajoriškosios demokratijos tradiciją.'
+  santrauka: 'Taigi Abiejų Tautų Respublika: • aprūpino Vakarus (per Gdanską į Amsterdamą) javais, • sukūrė Vakarams tuomet beveik nežinomą religinės tolerancijos ir bajoriškosios demokratijos tradiciją, • Vilnius XVI–XVIII a.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Paprastai moksle laikoma, kad ši
@@ -376,7 +377,7 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
   pagrindžia:
     - t-030
 - c-011
-  santrauka: '1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas, kurio padariniu tapo 1569 m. Liublino unija.'
+  santrauka: 'ABIEJŲ TAUTŲ RESPUBLIKA Liublino unija 1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     ABIEJŲ TAUTŲ RESPUBLIKA
@@ -411,7 +412,7 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
   pagrindžia:
     - t-032
 - c-013
-  santrauka: 'Oficialus Liublino unijos sukurtos jungtinės valstybės pavadinimas buvo Abiejų Tautų Respublika.'
+  santrauka: 'Oficialus jungtinės valstybės pavadinimas – Abiejų Tautų Respublika (net ir lietuviai kartais ją pavadina Žečpospolita: plg.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Baroko epocha valstybės istorijos požiūriu – tai Lenkijos ir Lietuvos
@@ -432,7 +433,7 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
   pagrindžia:
     - t-033
 - c-014
-  santrauka: 'LLV santvarka rėmėsi bajorais, kurie sudarė apie 7 proc. visuomenės, todėl ji apibūdinta kaip luominė monarchija.'
+  santrauka: 'L I E T U V O S I S T O R I J A 70 LLV santvarka artima Naujiesiems laikams, prilygsta Olandijai (pradėjusiai kurti respublikinę santvarką antrojoje XVI a.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     L I E T U V O S  I S T O R I J A
@@ -482,6 +483,18 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Bajorai]]
+- [[objektai/zodynas/Baroko epocha]]
+- [[objektai/asmenys/Kazimieras]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/zodynas/Liberum veto]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/ivykiai/Liublino unija (1569 m.)]]
+- [[objektai/zodynas/barokas]]
+- [[objektai/zodynas/konstitucijos]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/zodynas/unija]]
+- [[objektai/posakiai/„Šventos santuokos“]]
 - [[objektai/grupes/1773—1775 m. seimas|1773—1775 m. seimas (seimas, XVIII a.)]]
 - [[objektai/ivykiai/1830-1831 m. ir 1863 m. sukilimai]]
 - [[objektai/daiktai/ANBO lėktuvai]]
@@ -496,6 +509,7 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - [[objektai/asmenys/Antanas Tyzenhauzas|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]
 - [[objektai/ivykiai/Antrasis Respublikos padalinimas (1793 m.)]]
 - [[objektai/asmenys/Audrys Juozas Bačkis|Audrys Juozas Bačkis (Vilniaus arkivyskupas metropolitas)]]
+- [[objektai/asmenys/Augustas III]]
 - [[objektai/ivykiai/Augusto II elekcija (1697 m.)]]
 - [[objektai/grupes/Aukščiausioji Taryba|Aukščiausioji Taryba (institucija)]]
 - [[objektai/grupes/Aukščiausioji Taryba-Atkuriamasis Seimas|Aukščiausioji Taryba-Atkuriamasis Seimas (seimas)]]
@@ -508,12 +522,16 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - [[objektai/asmenys/Džordžas Robertsonas]]
 - [[objektai/asmenys/Eduardas Vilkas]]
 - [[objektai/zodynas/Euroatlantinė ir transatlantinė integracija]]
+- [[objektai/asmenys/Gabrielius Bekešas]]
 - [[objektai/grupes/Gardino seimas|Gardino seimas (seimas)]]
 - [[objektai/autoriai/Inga Vinogradnaitė]]
+- [[objektai/autoriai/Irena Katilienė]]
+- [[objektai/asmenys/Jadvyga Jogailienė]]
 - [[objektai/grupes/Jaunalietuviai]]
 - [[objektai/asmenys/Jokūbas Jasinskis]]
 - [[objektai/asmenys/Jonas Kristupas Glaubicas|Jonas Kristupas Glaubicas (architektas)]]
 - [[objektai/asmenys/Jonas Paulius II]]
+- [[objektai/autoriai/Jūratė Dalia Baronienė]]
 - [[objektai/ivykiai/Karolio XII žygis į Saksoniją ir Altrandštato taika (1706 m.)]]
 - [[objektai/asmenys/Kazimiera Prunskienė]]
 - [[objektai/asmenys/Kazimieras Antanavičius]]
@@ -543,7 +561,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - [[objektai/ivykiai/Lietuvos partizanų apygardų atstovų suvažiavimas ir LLKS deklaracija (1949 m. vasaris)]]
 - [[objektai/ivykiai/Lietuvos įstojimas į ES ir NATO (2004 m.)]]
 - [[objektai/grupes/Litvakai]]
-- [[objektai/ivykiai/Liublino unija (1569 m.)]]
 - [[objektai/asmenys/Louis Washkansky]]
 - [[objektai/autoriai/Mindaugas Tamošaitis]]
 - [[objektai/autoriai/Mykolas Balinskis]]
@@ -553,6 +570,7 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - [[objektai/zodynas/Nepriklausomybės kovos]]
 - [[objektai/grupes/Nuolatinė Taryba|Nuolatinė Taryba (institucija)]]
 - [[objektai/asmenys/Ona Jogailaitė]]
+- [[objektai/autoriai/Ona Slavėnaitė]]
 - [[objektai/ivykiai/Pirmoji pasaulyje žmogaus širdies persodinimo operacija (1967 m.)]]
 - [[objektai/asmenys/Povilas Ksaveras Bžostovskis|Povilas Ksaveras Bžostovskis (reformų veikėjas)]]
 - [[objektai/grupes/Radomo konfederacija]]
@@ -566,10 +584,12 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - [[objektai/ivykiai/Salyno sutartis]]
 - [[objektai/paprociai/Seimų vieta Lietuvoje ir Gardino kas trečio seimo taisyklė|Seimų vieta Lietuvoje ir Gardino kas trečio seimo taisyklė (seimas)]]
 - [[objektai/grupes/Senalietuviai]]
+- [[objektai/autoriai/Skirmantė Ramanauskaitė]]
 - [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.)]]
 - [[objektai/zodynas/Suverenitetas]]
 - [[objektai/ivykiai/Sąmyšio metai (1604-1612 m.)]]
 - [[objektai/autoriai/T. Wierzbowski]]
+- [[objektai/grupes/Valerijono Bursos studentų bendrija]]
 - [[objektai/paprociai/Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai|Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai (institucija)]]
 - [[objektai/grupes/Varšuvos konfederacinis seimas|Varšuvos konfederacinis seimas (seimas)]]
 - [[objektai/asmenys/Vladislovas Vaza]]
@@ -588,13 +608,13 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - [[objektai/posakiai/sąmyšio metai]]
 - [[objektai/asmenys/Česlovas Stankevičius]]
 - [[objektai/zodynas/šturmovcai]]
+- [[objektai/grupes/Žydai]]
 - [[objektai/paprociai/Žydų gyvenimo ribojimas sėslumo riba Rusijos imperijoje]]
 - [[objektai/posakiai/„Baltic Kindergarten“]]
 - [[objektai/posakiai/„Mūsų sąjunga pasiryžusi ginti savo nares...“]]
 - [[objektai/posakiai/„suverenitetų parado“]]
 - [[objektai/posakiai/„valdomos demokratijos“]]
 - [[objektai/posakiai/„įžen-gus į šalį svetimai kariuomenei į kraštą Respublikos kariuomenę rinkti“|„įžen-gus į šalį svetimai kariuomenei į kraštą Respublikos kariuomenę rinkti“ (kraštas)]]
-- [[objektai/posakiai/„Šventos santuokos“]]
 - [[objektai/paprociai/Abiejų Tautų Respublikos religinės tolerancijos, bajoriškosios demokratijos ir teisinės tradicijos]]
 - [[objektai/asmenys/Augustas II]]
 - [[objektai/grupes/Bajorijos konfederacija]]
@@ -614,6 +634,7 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - [[objektai/asmenys/Pilsudskis]]
 - [[objektai/ivykiai/Pirmasis Abiejų Tautų Respublikos padalijimas (1772 m.)]]
 - [[objektai/daiktai/Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d|Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d (institucija, XX a.)]]
+- [[objektai/grupes/Pskovo respublika]]
 - [[objektai/ivykiai/Sovietų Sąjungos Lietuvos okupacija ir aneksija (1940 m.)]]
 - [[objektai/grupes/Vilniaus baroko architektūros mokykla]]
 - [[objektai/zodynas/bajoriškoji demokratija]]
@@ -621,3 +642,4 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 - [[objektai/posakiai/duona, tolerancija, demokratija, konstitucija, barokas]]
 - [[objektai/posakiai/„Respublika turi dvi atskiras kariuomenes“]]
 - [[objektai/posakiai/„duona, tolerancija, demokratija, konstitucija, barokas“]]
+- [[objektai/autoriai/Tadas Korsakas]]

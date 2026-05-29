@@ -79,5 +79,6 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/grupes/NATO]]
+- [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Šiaurės Atlanto sutarties organizacija (NATO)]]

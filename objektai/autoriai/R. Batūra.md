@@ -1,11 +1,17 @@
 ---
 tipas: autorius
-pavadinimas: 'R. Batūra'
+pavadinimas: 'Romas Batūra'
 sukurta: '2026-05-20'
-variantai: []
-aliases: []
+variantai:
+  - 'Romas Batūra'
+  - 'R. Batūra'
+  - 'ROMAS BATŪRA'
+  - 'Бaтypa P.'
+aliases:
+  - 'R. Batūra'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1966 m.'
 periodas: 'okupacijų ir sovietmečio laikotarpis'
@@ -19,11 +25,11 @@ patikimumas: 'vidutinis'
 tags:
   - autorius
 ---
-# R. Batūra
+# Romas Batūra
 
 ## Santrauka
 
-Batūra : Lietuvos metraščių legendinės dalies ir M. Batūra rašė : XIII a.
+R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausimą ir lietuvių kovas su totoriais. Šiame šaltinyje papildomai pateikta pilna jo vardo forma Romas Batūra ir bibliografinės nuorodos į įvadinę studiją šiame leidime bei darbus „Šiaulių..“, „Lietuva...“ ir „Karinė...“.
 
 ## Teiginiai
 - t-001
@@ -32,7 +38,6 @@ Batūra : Lietuvos metraščių legendinės dalies ir M. Batūra rašė : XIII a
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'R. Batūra rašė apie XIII a. Lietuvos sostinės klausimą ir lietuvių kovas su totoriais.'
@@ -55,5 +60,5 @@ Batūra : Lietuvos metraščių legendinės dalies ir M. Batūra rašė : XIII a
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/grupes/Totoriai]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]

@@ -97,6 +97,8 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Andrius Algirdaitis]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Andrius Polockietis]]
 - [[objektai/asmenys/Jurgis (Sviatoslavo sūnus)]]
 - [[objektai/ivykiai/Smolensko sukilimas po Vorsklos mūšio|Smolensko sukilimas po Vorsklos mūšio (mūšis)]]

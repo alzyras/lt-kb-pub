@@ -55,4 +55,5 @@ Todėl tuojau po krikšto Jogaila įkūrė Vilniaus vyskupystę, pastatė katedr
 - [[objektai/asmenys/Jogaila]]
 - [[objektai/paprociai/Blaivybės brolijų ir blaivybės skelbimo praktika]]
 - [[objektai/ivykiai/Blaivybės brolijų kūrimas ir plitimas Žemaičių vyskupystėje (1858—1859 m.)]]
+- [[objektai/asmenys/Dovydas (Gardino pilininkas)]]
 - [[objektai/zodynas/grašis]]

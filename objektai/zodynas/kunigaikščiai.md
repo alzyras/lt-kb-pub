@@ -69,6 +69,7 @@ Iš pradžių tokios apylinkių sąjungos būdavo laikinės, bet palengva ryšia
 - [[objektai/daiktai/Halka]]
 - [[objektai/asmenys/Henne]]
 - [[objektai/asmenys/Hennė (Ordino agentas)]]
+- [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]
 - [[objektai/autoriai/J. Dlugošas]]
 - [[objektai/asmenys/Jagurčinas]]
 - [[objektai/asmenys/Jogaila]]

@@ -25,7 +25,7 @@ tags:
 
 ## Teiginiai
 - t-001
-  teiginys: 'Žygimantas buvo pakrikštytas atvykęs į brolio naująją rezidenciją.'
+  teiginys: 'Čia atvykęs, jo brolis Žygimantas buvo pakrikštytas.'
   pagrindžia:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -36,9 +36,10 @@ tags:
     - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
+
 ## Reikšmingi paminėjimai
 - c-001
-  santrauka: 'Žygimantas buvo pakrikštytas atvykęs į brolio naująją rezidenciją.'
+  santrauka: 'Čia atvykęs, jo brolis Žygimantas buvo pakrikštytas.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Naujojon jo rezidencijon ėmė rinktis
@@ -73,14 +74,14 @@ tags:
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Kęstutis]]
+- [[objektai/grupes/Pranciškonų ordinas]]
 - [[objektai/posakiai/Antemurale Christianitatis]]
-- [[objektai/asmenys/Barbora Radvilaitė]]
 - [[objektai/grupes/Dievo Kūno arkibrolija]]
 - [[objektai/daiktai/Geležinėmis grandinėmis kaustyti vežimai]]
 - [[objektai/asmenys/Grigalius Chodkevičius]]
 - [[objektai/asmenys/Jonas Chodkevičius]]
 - [[objektai/asmenys/Kristupas Radvila Perkūnas]]
-- [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė]]
 - [[objektai/ivykiai/Liublino unija (1569 m.)]]
 - [[objektai/asmenys/Mahometas Aminas]]
 - [[objektai/asmenys/Maksimilijonas I]]
@@ -89,16 +90,21 @@ tags:
 - [[objektai/ivykiai/Polocko apsiaustis (1563 m. sausio 31 d.)]]
 - [[objektai/posakiai/Raštu neužrašyti darbai pražūna iš atminties]]
 - [[objektai/asmenys/Romanas Sanguška]]
+- [[objektai/grupes/Valerijono Bursos studentų bendrija]]
+- [[objektai/grupes/Vilniaus miestiečių luomas]]
 - [[objektai/paprociai/Vilniaus padienininkų rinkimasis prie rotušės]]
 - [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]
 - [[objektai/zodynas/artilerijos pasala]]
 - [[objektai/zodynas/etmonas]]
+- [[objektai/zodynas/gurguolė]]
 - [[objektai/zodynas/poliublininis laikotarpis]]
 - [[objektai/zodynas/poliublininis laikotarpis poliublininiai laikai]]
 - [[objektai/grupes/Čekijos husitai]]
 - [[objektai/grupes/Šv. Jono brolija]]
+- [[objektai/asmenys/Žygimantas Senasis]]
 - [[objektai/ivykiai/Žygimanto Augusto privilegija dėl krikščioniškų konfesijų teisių|Žygimanto Augusto privilegija dėl krikščioniškų konfesijų teisių (privilegija)]]
 - [[objektai/ivykiai/Žygimanto Senojo ir Bonos Sforcos vedybos]]
 - [[objektai/daiktai/Žygimanto Senojo kalavijas su Lietuvos ir Lenkijos herbais]]
 - [[objektai/posakiai/„Lietuva pasodino didįjį kunigaikštį Žygimantą Kęstutaitį didžiojoje kunigaikštystėje Vilniuje ir Trakuose rugsėjo 1 d.“]]
+- [[objektai/asmenys/Barbora Radvilaitė]]
 - [[objektai/daiktai/Patranka Hidra]]

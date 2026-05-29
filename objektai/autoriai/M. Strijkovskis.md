@@ -404,3 +404,13 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-013
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Karijotaičiai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Lietuvos kariuomenė]]
+- [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)]]
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/zodynas/žygis]]

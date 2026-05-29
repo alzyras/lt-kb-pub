@@ -64,6 +64,7 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
 - [[objektai/asmenys/Antanas Merkys]]
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
 - [[objektai/asmenys/Augustinas Voldemaras]]
+- [[objektai/asmenys/Dovydas (Gardino pilininkas)]]
 - [[objektai/ivykiai/Jono Černiaus „vieningo darbo“ vyriausybės sudarymas po Klaipėdos praradimo (1939 m.)]]
 - [[objektai/grupes/Lenkų krikščionys demokratai]]
 - [[objektai/ivykiai/Lietuvos krikštas (1387 m.)]]

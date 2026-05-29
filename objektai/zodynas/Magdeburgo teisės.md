@@ -383,6 +383,9 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
 - [[temos/teisinis-terminas]]
 
 ### Susiję objektai
+- [[objektai/asmenys/Vytautas]]
+- [[objektai/zodynas/luomas]]
+- [[objektai/asmenys/Aleksandras Jogailaitis]]
 - [[objektai/ivykiai/Magdeburgo teisių suteikimas Lietuvos miestams]]
 - [[objektai/grupes/Miestelėnų luomas]]
 - [[objektai/ivykiai/Vilniui suteikiamos Magdeburgo teisės (1387 m.)]]

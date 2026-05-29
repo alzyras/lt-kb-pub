@@ -201,7 +201,12 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Baltai]]
+- [[objektai/grupes/Gediminaičiai]]
+- [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/ivykiai/Gedimino sąjunga su Lenkija]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Livonijos ordinas]]
 - [[objektai/asmenys/Mamšėjus]]
 - [[objektai/asmenys/Nogajus (Aukso ordos valdytojas)]]
 - [[objektai/ivykiai/Ragainės pilies puolimas ir Christmemelio apgultis (1315 m.)]]

@@ -799,3 +799,10 @@ pavyzdžiui, 1570 m. iš 9 Vilniaus kapitulos kanauninkų vos vienas tebuvo su �
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-025
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Dobrogostas]]
+- [[objektai/zodynas/kapitula]]
+- [[objektai/grupes/Vilniaus žydų kahalas]]
+- [[objektai/asmenys/Urbonas VI]]

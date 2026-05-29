@@ -78,4 +78,7 @@ Butautas, kuriam šaltiniai duoda įvai­ rius vardus ir kartais vadina Vaidotu,
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/Algirdas]]
+- [[objektai/asmenys/Kęstutis]]
+- [[objektai/grupes/Vokiečiai]]
 - [[objektai/ivykiai/Butauto bėgimas į Karaliaučių ir apsikrikštijimas]]

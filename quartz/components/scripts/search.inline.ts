@@ -1,7 +1,9 @@
 import FlexSearch, { DefaultDocumentSearchResults } from "flexsearch"
-import { ContentDetails } from "../../plugins/emitters/contentIndex"
+import { SearchIndexDetails } from "../../plugins/emitters/contentIndex"
 import { registerEscapeHandler, removeAllChildren } from "./util"
 import { FullSlug, normalizeRelativeURLs, resolveRelative } from "../../util/path"
+
+type ContentIndex = Record<FullSlug, SearchIndexDetails>
 
 interface Item {
   id: number
@@ -22,6 +24,7 @@ type SearchOptionsState = {
 type SearchType = "basic" | "tags"
 let searchType: SearchType = "basic"
 let currentSearchTerm: string = ""
+let idDataMap: FullSlug[] = []
 const OPTIONS_STORAGE_KEY = "ltkb-options-v1"
 const DEFAULT_SEARCH_OPTIONS_STATE: SearchOptionsState = {
   minQuoteCount: 0,
@@ -112,6 +115,25 @@ const contextWindowWords = 30
 const numSearchResults = 12
 const searchCandidateLimit = 80
 const numTagResults = 5
+const searchRuntime = globalThis as typeof globalThis & {
+  loadSearchIndex?: () => Promise<ContentIndex>
+}
+
+let searchDataPromise: Promise<ContentIndex> | undefined
+let searchData: ContentIndex | undefined
+
+function loadSearchData(): Promise<ContentIndex> {
+  if (!searchDataPromise) {
+    searchDataPromise = (
+      searchRuntime.loadSearchIndex?.() ?? Promise.resolve({} as ContentIndex)
+    ).then(async (payload) => {
+        searchData = payload
+        await fillDocument(payload)
+        return payload
+      })
+  }
+  return searchDataPromise
+}
 
 const tokenizeTerm = (term: string) => {
   const tokens = term.split(/\s+/).filter((t) => t.trim() !== "")
@@ -149,7 +171,10 @@ function searchOptionFiltersActive(options: SearchOptionsState): boolean {
   return options.minQuoteCount > 0 || options.sourceSelectionMode === "custom"
 }
 
-function searchOptionsMatchPage(page: ContentDetails | undefined, options: SearchOptionsState): boolean {
+function searchOptionsMatchPage(
+  page: SearchIndexDetails | undefined,
+  options: SearchOptionsState,
+): boolean {
   if (!searchOptionFiltersActive(options)) {
     return true
   }
@@ -259,7 +284,7 @@ function highlightHTML(searchTerm: string, el: HTMLElement) {
   return html.body
 }
 
-async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: ContentIndex) {
+async function setupSearch(searchElement: Element, currentSlug: FullSlug) {
   const container = searchElement.querySelector(".search-container") as HTMLElement
   if (!container) return
 
@@ -274,12 +299,12 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
   const searchLayout = searchElement.querySelector(".search-layout") as HTMLElement
   if (!searchLayout) return
 
-  const idDataMap = Object.keys(data) as FullSlug[]
   const appendLayout = (el: HTMLElement) => {
     searchLayout.appendChild(el)
   }
 
-  const enablePreview = searchLayout.dataset.preview === "true"
+  const enablePreview =
+    searchLayout.dataset.preview === "true" && window.matchMedia("(min-width: 900px)").matches
   let preview: HTMLDivElement | undefined = undefined
   let previewInner: HTMLDivElement | undefined = undefined
   const results = document.createElement("div")
@@ -310,6 +335,7 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
     if (sidebar) sidebar.style.zIndex = "1"
     container.classList.add("active")
     searchBar.focus()
+    void loadSearchData()
   }
 
   let currentHover: HTMLInputElement | null = null
@@ -381,12 +407,13 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
 
   const formatForDisplay = (term: string, id: number) => {
     const slug = idDataMap[id]
+    const page = searchData?.[slug]
     return {
       id,
       slug,
-      title: searchType === "tags" ? data[slug].title : highlight(term, data[slug].title ?? ""),
-      content: highlight(term, data[slug].content ?? "", true),
-      tags: highlightTags(term.substring(1), data[slug].tags),
+      title: searchType === "tags" ? page?.title ?? "" : highlight(term, page?.title ?? ""),
+      content: highlight(term, page?.content ?? "", true),
+      tags: highlightTags(term.substring(1), page?.tags ?? []),
     }
   }
 
@@ -394,7 +421,7 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
 
   const rankResult = (term: string, id: number) => {
     const slug = idDataMap[id]
-    const page = data[slug]
+    const page = searchData?.[slug]
     const query = normalizeSearchText(term.trim())
     const title = normalizeSearchText(page?.title ?? "")
     const slugName = normalizeSearchText(basename(slug).replaceAll("-", " "))
@@ -533,6 +560,7 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
 
   async function onType(e: HTMLElementEventMap["input"]) {
     if (!searchLayout || !index) return
+    await loadSearchData()
     currentSearchTerm = (e.target as HTMLInputElement).value
     searchLayout.classList.toggle("display-results", currentSearchTerm !== "")
     searchType = currentSearchTerm.startsWith("#") ? "tags" : "basic"
@@ -587,7 +615,7 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
     ])
     const options = readSearchOptionsState()
     const finalResults = [...allIds]
-      .filter((id) => searchOptionsMatchPage(data[idDataMap[id]], options))
+      .filter((id) => searchOptionsMatchPage(searchData?.[idDataMap[id]], options))
       .sort((a, b) => rankResult(currentSearchTerm, b) - rankResult(currentSearchTerm, a))
       .slice(0, numSearchResults)
       .map((id) => formatForDisplay(currentSearchTerm, id))
@@ -610,7 +638,6 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
   window.addCleanup(() => document.removeEventListener("quartz-options-change", onOptionsChange))
 
   registerEscapeHandler(container, hideSearch)
-  await fillDocument(data)
 }
 
 /**
@@ -623,10 +650,12 @@ async function fillDocument(data: ContentIndex) {
   if (indexPopulated) return
   let id = 0
   const promises: Array<Promise<unknown>> = []
-  for (const [slug, fileData] of Object.entries<ContentDetails>(data)) {
+  idDataMap = Object.keys(data) as FullSlug[]
+  for (const [slug, fileData] of Object.entries<SearchIndexDetails>(data)) {
+    const itemId = id++
     promises.push(
-      index.addAsync(id++, {
-        id,
+      index.addAsync(itemId, {
+        id: itemId,
         slug: slug as FullSlug,
         title: fileData.title,
         content: fileData.content,
@@ -641,9 +670,8 @@ async function fillDocument(data: ContentIndex) {
 
 document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
   const currentSlug = e.detail.url
-  const data = await fetchData
   const searchElement = document.getElementsByClassName("search")
   for (const element of searchElement) {
-    await setupSearch(element, currentSlug, data)
+    await setupSearch(element, currentSlug)
   }
 })

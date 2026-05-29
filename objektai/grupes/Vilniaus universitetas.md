@@ -461,6 +461,15 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/Laisvamanybė ir laisvamaniai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/asmenys/Simonas Stanevičius]]
+- [[objektai/asmenys/Steponas]]
+- [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
+- [[objektai/zodynas/barokas]]
 - [[objektai/paprociai/Jėzuitiškas mokymas ir katalikybės sklaida per Vilniaus universitetą]]
 - [[objektai/ivykiai/Vilniaus universiteto įkūrimas]]
 - [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.)]]
+- [[objektai/posakiai/„Lietuvos laisvamanybės lizdą“]]
+- [[objektai/grupes/Etninių lietuvių tautinis kultūrinis sąjūdis]]
+- [[objektai/zodynas/dvilypis lietuvių-žemaičių etnosas]]

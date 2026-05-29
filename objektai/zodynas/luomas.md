@@ -21,11 +21,7 @@ amziai:
 date_start: '1413'
 date_end: '2026'
 patikimumas: 'vidutinis'
-tags:
-  - bajorija
-  - miestas
-  - sąvoka
-  - tauta
+tags: []
 ---
 # luomas
 
@@ -202,10 +198,12 @@ Tačiau bajorai – dvarininkai sudarė tik ¼ dalį vietos bajorų luomo, daugu
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/grupes/Bajorai]]
 - [[objektai/ivykiai/1422 m. Červinsko stovykla ir bajorų privilegijų suteikimas|1422 m. Červinsko stovykla ir bajorų privilegijų suteikimas (privilegija)]]
+- [[objektai/asmenys/Abraomas Kulvietis]]
+- [[objektai/grupes/Bajorai]]
 - [[objektai/daiktai/Herbas]]
 - [[objektai/autoriai/K. Avižonis]]
 - [[objektai/posakiai/Kad tik be arklio nebūtų]]
@@ -213,6 +211,9 @@ Tačiau bajorai – dvarininkai sudarė tik ¼ dalį vietos bajorų luomo, daugu
 - [[objektai/grupes/Lietuvių bajorija]]
 - [[objektai/zodynas/Magdeburgo teisės]]
 - [[objektai/grupes/Miestelėnų luomas]]
+- [[objektai/zodynas/Riterių luomas]]
+- [[objektai/grupes/Vilniaus miestiečių luomas]]
+- [[objektai/paprociai/Vilniaus miesto viešųjų aktų antspaudavimas šv. Kristoforo antspaudu]]
 - [[objektai/zodynas/nobilitetas]]
 - [[objektai/zodynas/Pilies ir rūmų pareigybės|pilies ir rūmų pareigybės (pilis)]]
 - [[objektai/zodynas/privilegija lex privata|privilegija lex privata (privilegija)]]

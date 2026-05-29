@@ -80,4 +80,7 @@ Bet jau 1409 m. artimose totorių žemėse Vytautui pavyko įkurdinti paklusnų 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Rusai]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/zodynas/chanas]]
 - [[objektai/asmenys/Tochtamyšas (Krymo ordos chanas)]]

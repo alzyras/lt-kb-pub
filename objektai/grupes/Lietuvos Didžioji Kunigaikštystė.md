@@ -258,5 +258,10 @@ Valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios �
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/asmenys/Žygimantas]]
-- [[objektai/asmenys/Žygimantas Augustas]]
+- [[objektai/grupes/Bajorai]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/kultūrinė autonomija]]
+- [[objektai/zodynas/rusinimas]]
+- [[objektai/zodynas/rusinimas Vakarų Rusija Šiaurės Vakarų kraštas|rusinimas Vakarų Rusija Šiaurės Vakarų kraštas (kraštas)]]

@@ -151,3 +151,10 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-005
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/asmenys/Vytautas]]
+- [[objektai/grupes/Abiejų Tautų Respublika]]
+- [[objektai/grupes/Maskvos kunigaikštija]]

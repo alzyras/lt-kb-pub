@@ -63,6 +63,8 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
 
 ### Susiję objektai
 - [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/autoriai/Dusburgas]]
+- [[objektai/autoriai/Petras Dusburgietis]]
 - [[objektai/ivykiai/Vytauto žygis į Ordino žemes (1377 m.)]]
 - [[objektai/zodynas/stabmeldys]]
 - [[objektai/zodynas/vyskupo teisėjas]]

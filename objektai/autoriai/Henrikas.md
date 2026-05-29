@@ -81,6 +81,7 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
 - [[objektai/grupes/Kalavijuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Herkus Mantas]]
 - [[objektai/grupes/Latviai]]
 - [[objektai/posakiai/Liet’gola Lethi vel Lethigalli]]
 - [[objektai/asmenys/Vaclovas Čekietis]]

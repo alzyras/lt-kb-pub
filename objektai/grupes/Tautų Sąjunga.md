@@ -89,7 +89,7 @@ Tuo pat laiku, kai Tautų Sąjunga nusprendė (rugsėjo 20 d.) tarp Lietuvos ir 
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: Tautų Sąjunga papildomas patvirtintas šaltinio paminėjimas.
-  šaltinis: [[Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)]]
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Metai pirmosios komunistų, lygiai kaip ir beveik vėl pilni
     treji metai antros vokiečių okupacijos, žinoma, buvo tiesioginė

@@ -80,4 +80,7 @@ Aušrininkai šiame šaltinyje apibūdinami kaip romantiškai nusiteikusi lietuv
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/asmenys/J. Basanavičius]]
+- [[objektai/zodynas/tautinis atgimimas]]
 - [[objektai/grupes/Aušrininkų organizacija]]
+- [[objektai/autoriai/S. Daukantas]]

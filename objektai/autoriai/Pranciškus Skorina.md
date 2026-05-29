@@ -128,4 +128,5 @@ Pranciškus Skorina vadinamas pirmuoju Lietuvos spaustuvininku; jis Prahoje pare
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Rusėnai]]
 - [[objektai/ivykiai/Pranciškaus Skorinos spaustuvės įkūrimas Vilniuje]]

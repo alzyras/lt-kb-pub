@@ -135,6 +135,8 @@ Tad kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­ niai s
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/ivykiai/Vilniaus vyskupystės įkūrimas]]
+- [[objektai/grupes/Habsburgai]]
+- [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/brevė]]
-- [[objektai/zodynas/gurguolė]]
+- [[objektai/grupes/Vilniaus kapitula]]
+- [[objektai/ivykiai/Vilniaus vyskupystės įkūrimas]]

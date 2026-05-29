@@ -154,9 +154,13 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/zodynas/suverenas]]
 - [[objektai/autoriai/Archeologai ir priešistorės tyrėjai]]
 - [[objektai/paprociai/Bajorų prievolės valstybei]]
 - [[objektai/zodynas/Municipalinė teisėtvarka]]
+- [[objektai/zodynas/Riterių luomas]]
 - [[objektai/autoriai/Z. Raulinaitis]]
 - [[objektai/zodynas/marksistinė periodizacija komunistinės istoriografijos nomenklatūra]]
 - [[objektai/zodynas/sritinė kunigaikštystė]]

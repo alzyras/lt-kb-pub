@@ -195,17 +195,21 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/autoriai/Henrikas]]
+- [[objektai/grupes/Lietuviai]]
 - [[objektai/asmenys/A. Stapulionis]]
 - [[objektai/grupes/Andrejaus Vlasovo armija]]
 - [[objektai/grupes/Baltai]]
 - [[objektai/paprociai/Baltijos kelias kaip gyvos žmonių grandinės komemoracinė protesto forma]]
 - [[objektai/grupes/Bolševikai]]
 - [[objektai/autoriai/H. Lowmiański]]
+- [[objektai/autoriai/J. Endzelins]]
 - [[objektai/grupes/Joniškėlio partizanų batalionas]]
 - [[objektai/grupes/Latvių Tautos Taryba|Latvių Tautos Taryba (institucija)]]
 - [[objektai/ivykiai/Lietuvos ir Latvijos sienos išvedimas (1921 m.)]]
 - [[objektai/posakiai/Liet’gola Lethi vel Lethigalli]]
 - [[objektai/grupes/Lybiai]]
+- [[objektai/asmenys/Mindaugas]]
 - [[objektai/paprociai/Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui]]
 - [[objektai/grupes/Petrapilio latvių pabėgėlių komitetas|Petrapilio latvių pabėgėlių komitetas (institucija)]]
 - [[objektai/ivykiai/Polocko pavergimas Mindaugo laikais]]

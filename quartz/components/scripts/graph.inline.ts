@@ -1,4 +1,4 @@
-import type { ContentDetails } from "../../plugins/emitters/contentIndex"
+import type { GraphIndexDetails } from "../../plugins/emitters/contentIndex"
 import {
   SimulationNodeDatum,
   SimulationLinkDatum,
@@ -38,6 +38,10 @@ type SimpleLinkData = {
   target: SimpleSlug
 }
 
+type GraphRuntime = typeof globalThis & {
+  loadGraphIndex?: () => Promise<Record<FullSlug, GraphIndexDetails>>
+}
+
 type LinkData = {
   source: NodeData
   target: NodeData
@@ -72,6 +76,7 @@ function addToVisited(slug: SimpleSlug) {
   visited.add(slug)
   localStorage.setItem(localStorageKey, JSON.stringify([...visited]))
 }
+const graphRuntime = globalThis as GraphRuntime
 
 type TweenNode = {
   update: (time: number) => void
@@ -117,8 +122,10 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     directLinksOnly = true
   }
 
-  const data: Map<SimpleSlug, ContentDetails> = new Map(
-    Object.entries<ContentDetails>(await fetchData).map(([k, v]) => [
+  const data: Map<SimpleSlug, GraphIndexDetails> = new Map(
+    Object.entries<GraphIndexDetails>(
+      await (graphRuntime.loadGraphIndex?.() ?? Promise.resolve({})),
+    ).map(([k, v]) => [
       simplifySlug(k as FullSlug),
       v,
     ]),
@@ -703,17 +710,34 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
   const slug = e.detail.url
   addToVisited(simplifySlug(slug))
 
-  async function renderLocalGraph() {
+  async function renderLocalGraph(container: HTMLElement) {
+    if (container.dataset.graphLoaded === "true") {
+      return
+    }
+    container.dataset.graphLoaded = "true"
+    container.querySelector(".graph-load-button")?.remove()
+    localGraphCleanups.push(await renderGraph(container, slug))
+  }
+
+  function setupLocalGraphs() {
     cleanupLocalGraphs()
     const localGraphContainers = document.getElementsByClassName("graph-container")
     for (const container of localGraphContainers) {
-      localGraphCleanups.push(await renderGraph(container as HTMLElement, slug))
+      const graph = container as HTMLElement
+      graph.dataset.graphLoaded = "false"
+      removeAllChildren(graph)
+      const button = document.createElement("button")
+      button.type = "button"
+      button.className = "graph-load-button"
+      button.textContent = "Rodyti grafiką"
+      button.addEventListener("click", () => void renderLocalGraph(graph), { once: true })
+      graph.appendChild(button)
     }
   }
 
-  await renderLocalGraph()
+  setupLocalGraphs()
   const handleThemeChange = () => {
-    void renderLocalGraph()
+    setupLocalGraphs()
   }
 
   document.addEventListener("themechange", handleThemeChange)

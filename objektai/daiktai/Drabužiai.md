@@ -63,8 +63,10 @@ Nenurodyta
 
 ### Susiję objektai
 - [[objektai/asmenys/Vytautas]]
+- [[objektai/autoriai/Dusburgas]]
 - [[objektai/ivykiai/Jogailos grįžimas į nuniokotą Vilnių ir miesto atkūrimo pradžia (1390 m. lapkritis)]]
 - [[objektai/daiktai/Klėtis]]
+- [[objektai/autoriai/Petras Dusburgietis]]
 - [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]
 - [[objektai/daiktai/Užstato daiktai Trakų žydų privilegijoje]]
 - [[objektai/ivykiai/Vilniaus pokalbiai su popiežiaus legatais dėl Lietuvos krikšto (1324 m. gegužės gale)]]

@@ -6,6 +6,7 @@ variantai: []
 aliases: []
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1961 m.'
   - '1972 m.'
@@ -20,13 +21,12 @@ patikimumas: 'vidutinis'
 tags:
   - autorius
   - mokslininkas
-  - reforma
 ---
 # A. Šidlauskas
 
 ## Santrauka
 
-Šidlauskas atkreipė dėmesį į mokyklų reformą Lietuvoje XVIII a.
+A. Šidlauskas minimas kaip XVIII a. pabaigos Lietuvos mokyklų reformos tyrėjas ir kaip leidinio „Kraštas ir žmonės: Lietuvos geografiniai ir etnografiniai aprašymai (XIV—XIX a.)“ parengėjas.
 
 ## Teiginiai
 - t-001
@@ -35,7 +35,6 @@ tags:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'A. Šidlauskas nagrinėjo mokyklų reformą Lietuvoje XVIII a. pabaigoje.'

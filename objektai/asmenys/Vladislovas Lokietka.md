@@ -96,3 +96,14 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Gediminas]]
+- [[objektai/ivykiai/Gedimino sąjunga su Lenkija]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/asmenys/Lokietka]]
+- [[objektai/grupes/Vokiečiai]]
+- [[objektai/asmenys/Aldona Gediminaitė]]
+- [[objektai/asmenys/Kazimieras (Lokietkos sūnus)]]

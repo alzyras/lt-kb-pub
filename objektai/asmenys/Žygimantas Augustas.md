@@ -496,7 +496,9 @@ pabaigoje į Lietuvos istoriją įžengė garsiausia ir – tai svarbu – lietu
 - [[temos/dinastija]]
 
 ### Susiję objektai
-- [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė]]
+- [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/statutas]]
 - [[objektai/ivykiai/Liublino unija (1569 m.)]]
 - [[objektai/ivykiai/Polocko apsiaustis (1563 m. sausio 31 d.)]]
+- [[objektai/grupes/Vilniaus miestiečių luomas]]
 - [[objektai/asmenys/Barbora Radvilaitė]]

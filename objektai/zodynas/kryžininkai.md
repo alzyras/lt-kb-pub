@@ -108,6 +108,10 @@ tags:
 - [[temos/upė]]
 
 ### Susiję objektai
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/zodynas/kunigaikščiai]]
 - [[objektai/asmenys/Bajazitas]]
 - [[objektai/daiktai/Baltas apsiaustas su išsiuvinėtu kalaviju]]
 - [[objektai/grupes/Danijos karaliaus kariai iš Revelio]]

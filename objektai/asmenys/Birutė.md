@@ -154,6 +154,7 @@ Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo 
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/ivykiai/Algirdo žygiai į Maskvą]]
 - [[objektai/daiktai/Aukuras]]
 - [[objektai/autoriai/Józef Wolff]]
 - [[objektai/ivykiai/Kęstučio žūtis Krėvos kalėjime (1382 m.)]]

@@ -1,6 +1,6 @@
 import { FileTrieNode } from "../../util/fileTrie"
 import { FullSlug, resolveRelative, simplifySlug } from "../../util/path"
-import { ContentDetails } from "../../plugins/emitters/contentIndex"
+import { ContentMetaDetails } from "../../plugins/emitters/contentIndex"
 
 type MaybeHTMLElement = HTMLElement | undefined
 
@@ -8,20 +8,27 @@ interface ParsedOptions {
   folderClickBehavior: "collapse" | "link"
   folderDefaultState: "collapsed" | "open"
   useSavedState: boolean
-  sortFn: (a: FileTrieNode, b: FileTrieNode) => number
-  filterFn: (node: FileTrieNode) => boolean
-  mapFn: (node: FileTrieNode) => void
+  sortFn: (a: FileTrieNode<ContentMetaDetails>, b: FileTrieNode<ContentMetaDetails>) => number
+  filterFn: (node: FileTrieNode<ContentMetaDetails>) => boolean
+  mapFn: (node: FileTrieNode<ContentMetaDetails>) => void
   order: "sort" | "filter" | "map"[]
 }
 
 type ExplorerWindow = Window &
   typeof globalThis & {
     applyQuartzOptionFilters?: () => void
+    loadContentMeta?: () => Promise<Record<FullSlug, ContentMetaDetails>>
   }
 
 type FolderState = {
   path: string
   collapsed: boolean
+}
+
+type ExplorerToggleButton = HTMLElement & {
+  dataset: HTMLElement["dataset"] & {
+    explorerToggleBound?: string
+  }
 }
 
 let currentExplorerState: Array<FolderState>
@@ -41,6 +48,16 @@ function toggleExplorer(this: HTMLElement) {
   } else {
     document.documentElement.classList.remove("mobile-no-scroll")
   }
+}
+
+function bindExplorerToggle(button: HTMLElement, handler: (this: HTMLElement) => void | Promise<void>) {
+  const toggle = button as ExplorerToggleButton
+  if (toggle.dataset.explorerToggleBound === "true") {
+    return
+  }
+  toggle.dataset.explorerToggleBound = "true"
+  toggle.addEventListener("click", handler)
+  window.addCleanup(() => toggle.removeEventListener("click", handler))
 }
 
 function toggleFolder(evt: MouseEvent) {
@@ -85,7 +102,10 @@ function toggleFolder(evt: MouseEvent) {
   localStorage.setItem("fileTree", stringifiedFileTree)
 }
 
-function createFileNode(currentSlug: FullSlug, node: FileTrieNode): HTMLLIElement {
+function createFileNode(
+  currentSlug: FullSlug,
+  node: FileTrieNode<ContentMetaDetails>,
+): HTMLLIElement {
   const template = document.getElementById("template-file") as HTMLTemplateElement
   const clone = template.content.cloneNode(true) as DocumentFragment
   const li = clone.querySelector("li") as HTMLLIElement
@@ -112,7 +132,7 @@ function createFileNode(currentSlug: FullSlug, node: FileTrieNode): HTMLLIElemen
 
 function createFolderNode(
   currentSlug: FullSlug,
-  node: FileTrieNode,
+  node: FileTrieNode<ContentMetaDetails>,
   opts: ParsedOptions,
 ): HTMLLIElement {
   const template = document.getElementById("template-folder") as HTMLTemplateElement
@@ -171,10 +191,15 @@ function createFolderNode(
   return li
 }
 
-async function setupExplorer(currentSlug: FullSlug) {
-  const allExplorers = document.querySelectorAll("div.explorer") as NodeListOf<HTMLElement>
+async function setupExplorer(currentSlug: FullSlug, targetExplorer?: HTMLElement) {
+  const allExplorers = targetExplorer
+    ? [targetExplorer]
+    : ([...document.querySelectorAll("div.explorer")] as HTMLElement[])
 
   for (const explorer of allExplorers) {
+    if (explorer.dataset.explorerBuilt === "true") {
+      continue
+    }
     const dataFns = JSON.parse(explorer.dataset.dataFns || "{}")
     const opts: ParsedOptions = {
       folderClickBehavior: (explorer.dataset.behavior || "collapse") as "collapse" | "link",
@@ -193,8 +218,8 @@ async function setupExplorer(currentSlug: FullSlug) {
       serializedExplorerState.map((entry: FolderState) => [entry.path, entry.collapsed]),
     )
 
-    const data = await fetchData
-    const entries = [...Object.entries(data)] as [FullSlug, ContentDetails][]
+    const data = await (explorerWindow.loadContentMeta?.() ?? Promise.resolve({}))
+    const entries = [...Object.entries(data)] as [FullSlug, ContentMetaDetails][]
     const trie = FileTrieNode.fromEntries(entries)
 
     // Apply functions in order
@@ -225,6 +250,7 @@ async function setupExplorer(currentSlug: FullSlug) {
 
     const explorerUl = explorer.querySelector(".explorer-ul")
     if (!explorerUl) continue
+    explorer.dataset.explorerBuilt = "true"
 
     // Create and insert new content
     const fragment = document.createDocumentFragment()
@@ -254,8 +280,7 @@ async function setupExplorer(currentSlug: FullSlug) {
       "explorer-toggle",
     ) as HTMLCollectionOf<HTMLElement>
     for (const button of explorerButtons) {
-      button.addEventListener("click", toggleExplorer)
-      window.addCleanup(() => button.removeEventListener("click", toggleExplorer))
+      bindExplorerToggle(button, toggleExplorer)
     }
 
     // Set up folder click handlers
@@ -281,6 +306,20 @@ async function setupExplorer(currentSlug: FullSlug) {
   explorerWindow.applyQuartzOptionFilters?.()
 }
 
+function setupMobileExplorerShell(explorer: HTMLElement, currentSlug: FullSlug) {
+  const explorerButtons = explorer.getElementsByClassName(
+    "explorer-toggle",
+  ) as HTMLCollectionOf<HTMLElement>
+  for (const button of explorerButtons) {
+    bindExplorerToggle(button, async function (this: HTMLElement) {
+      if (explorer.dataset.explorerBuilt !== "true") {
+        await setupExplorer(currentSlug, explorer)
+      }
+      toggleExplorer.call(this)
+    })
+  }
+}
+
 document.addEventListener("prenav", async () => {
   // save explorer scrollTop position
   const explorer = document.querySelector(".explorer-ul")
@@ -290,7 +329,6 @@ document.addEventListener("prenav", async () => {
 
 document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
   const currentSlug = e.detail.url
-  await setupExplorer(currentSlug)
 
   // if mobile hamburger is visible, collapse by default
   for (const explorer of document.getElementsByClassName("explorer")) {
@@ -300,9 +338,12 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
     if (mobileExplorer.checkVisibility()) {
       explorer.classList.add("collapsed")
       explorer.setAttribute("aria-expanded", "false")
+      setupMobileExplorerShell(explorer as HTMLElement, currentSlug)
 
       // Allow <html> to be scrollable when mobile explorer is collapsed
       document.documentElement.classList.remove("mobile-no-scroll")
+    } else {
+      await setupExplorer(currentSlug, explorer as HTMLElement)
     }
 
     mobileExplorer.classList.remove("hide-until-loaded")

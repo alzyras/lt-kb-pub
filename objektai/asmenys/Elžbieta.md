@@ -101,3 +101,15 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-003
+
+## Ryšiai
+### Susiję objektai
+- [[objektai/asmenys/Algirdas]]
+- [[objektai/asmenys/Andrius Algirdaitis]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Pranciškonų ordinas]]
+- [[objektai/grupes/Vengrai]]
+- [[objektai/asmenys/Vosylius]]
+- [[objektai/asmenys/Elena]]
+- [[objektai/asmenys/Kazimieras Jogailaitis]]

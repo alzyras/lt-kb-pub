@@ -285,6 +285,12 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Husitai]]
+- [[objektai/grupes/Kryžiuočių ordinas]]
+- [[objektai/zodynas/kontribucija]]
+- [[objektai/grupes/Čekai]]
+- [[objektai/grupes/Žemaičiai]]
 - [[objektai/zodynas/indulgencija]]
+- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/ivykiai/Martyno V įsakymas atšaukti Kaributą (1422 m. lapkričio mėn.)]]
 - [[objektai/ivykiai/Vytauto ir Jogailos paskyrimas popiežiaus Martyno V vikariais Lietuvai ir Rusijai (1417 m. gegužės 13 d.)]]

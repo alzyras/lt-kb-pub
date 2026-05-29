@@ -7,21 +7,18 @@ aliases: []
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 datos:
-  - '1401 m.'
   - '1859 m.'
   - '1936 m.'
   - '2026 m.'
 periodas: 'Pirmoji Lietuvos Respublika'
 periodo_grupes:
-  - 'LDK'
   - 'modernioji Lietuva'
   - 'naujieji laikai'
 amziai:
-  - 'XV'
   - 'XIX'
   - 'XX'
   - 'XXI'
-date_start: '1401'
+date_start: '1859'
 date_end: '2026'
 patikimumas: 'vidutinis'
 tags:
@@ -41,12 +38,13 @@ Vėliau, XVIII amžiuje, visos konstitucijos buvo surinktos ir išspausdintos sp
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
 - t-002
-  teiginys: '1859 m. Peterburge išleistas šeštasis „Volumina Legum“ tomas.'
+  teiginys: '= Volumina legum, 6 t., Petersburg 1859.'
   pagrindžia:
     - c-002
+
 ## Reikšmingi paminėjimai
 - c-002
-  santrauka: '1859 m. Peterburge išleistas šeštasis „Volumina Legum“ tomas.'
+  santrauka: '= Volumina legum, 6 t., Petersburg 1859.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
     Vol. 1. = Volumina legum, 6 t., Petersburg 1859.
@@ -57,6 +55,7 @@ Vėliau, XVIII amžiuje, visos konstitucijos buvo surinktos ir išspausdintos sp
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-002
+
 ## Bibliografiniai įrodymai
 - c-001
   santrauka: 'XVIII a. visos konstitucijos buvo surinktos ir išspausdintos aštuonių tomų rinkinyje „Volumina Legum“.'

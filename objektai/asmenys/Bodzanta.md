@@ -81,4 +81,5 @@ Bodzanta Vladislovo vardu.
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lenkai]]
 - [[objektai/ivykiai/Lietuvos krikštas Vilniuje (1387 m.)]]

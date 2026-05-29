@@ -76,6 +76,7 @@ Nenurodyta
 - [[objektai/daiktai/Ietys]]
 - [[objektai/daiktai/Akstys]]
 - [[objektai/daiktai/Balnakilpės]]
+- [[objektai/asmenys/Dovydas (Gardino pilininkas)]]
 - [[objektai/daiktai/Dviašmenis kalavijas]]
 - [[objektai/daiktai/Ietis]]
 - [[objektai/asmenys/Margalis (Margirius )]]

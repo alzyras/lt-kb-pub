@@ -106,6 +106,7 @@ Nenurodyta
 - [[objektai/grupes/Žemaičiai]]
 - [[objektai/asmenys/Augustinas Voldemaras]]
 - [[objektai/asmenys/Barbora Radvilaitė]]
+- [[objektai/asmenys/Dovydas (Gardino pilininkas)]]
 - [[objektai/asmenys/Elena]]
 - [[objektai/paprociai/Jėzuitų viešos religinės kovos praktikos]]
 - [[objektai/daiktai/Kūtė]]

@@ -77,5 +77,6 @@ tags:
 - [[temos/dokumentas]]
 
 ### Susiję objektai
+- [[objektai/grupes/Lenkai]]
 - [[objektai/zodynas/regestai]]
 - [[objektai/zodynas/regestas regestai]]

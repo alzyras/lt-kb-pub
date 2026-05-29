@@ -192,6 +192,8 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - [[objektai/paprociai/Gedimino kvietimas Vakarų pirkliams, amatininkams ir kolonistams į Lietuvą]]
 - [[objektai/grupes/Gotai]]
 - [[objektai/autoriai/H. Lowmiański]]
+- [[objektai/asmenys/Herkus Mantas]]
+- [[objektai/autoriai/J. Endzelins]]
 - [[objektai/autoriai/K. Būga]]
 - [[objektai/asmenys/Karolis IV]]
 - [[objektai/autoriai/Klaudios Ptolemaios]]

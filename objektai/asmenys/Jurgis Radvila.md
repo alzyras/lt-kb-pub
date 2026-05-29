@@ -325,5 +325,9 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Totoriai]]
+- [[objektai/zodynas/vaivada]]
 - [[objektai/zodynas/koadjutorius]]
+- [[objektai/grupes/Bajorai]]
 - [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija]]

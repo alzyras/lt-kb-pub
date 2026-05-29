@@ -685,5 +685,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
 
 ## Ryšiai
 ### Susiję objektai
+- [[objektai/grupes/Totoriai]]
+- [[objektai/asmenys/Žygimantas]]
 - [[objektai/asmenys/Mahometas Aminas]]
 - [[objektai/ivykiai/Žygimanto Senojo ir Bonos Sforcos vedybos]]

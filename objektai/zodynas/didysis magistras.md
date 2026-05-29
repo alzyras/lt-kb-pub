@@ -297,9 +297,11 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
 ### Susiję objektai
 - [[objektai/asmenys/Ulrichas von Jungingenas]]
 - [[objektai/zodynas/krašto magistras|krašto magistras (kraštas)]]
+- [[objektai/zodynas/magistras]]
 - [[objektai/ivykiai/Lietuvos ir ordino sienos galutinis patvirtinimas pagal Melno taiką (1422 m.)]]
 - [[objektai/ivykiai/Melno taikos ratifikavimas Veliuonoje (1423 m. gegužė)]]
 - [[objektai/asmenys/Ulrichas fon Jungingenas]]
+- [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]
 - [[objektai/ivykiai/Vilniaus apgultis ir Kreivosios pilies sudeginimas (1390 m. rugsėjis-spalis)]]
 - [[objektai/ivykiai/Vilniaus apgultis ir miesto padegimas (1377 m.)]]
 - [[objektai/zodynas/rezervas]]

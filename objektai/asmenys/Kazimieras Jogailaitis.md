@@ -178,3 +178,8 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
 ## Ryšiai
 ### Susiję objektai
 - [[objektai/zodynas/pereinamasis laikotarpis]]
+- [[objektai/asmenys/Elžbieta]]
+- [[objektai/asmenys/Kazimieras]]
+- [[objektai/grupes/Lenkai]]
+- [[objektai/zodynas/kunigaikščiai]]
+- [[objektai/grupes/Jogailos palikuonys]]

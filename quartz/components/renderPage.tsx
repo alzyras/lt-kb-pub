@@ -29,11 +29,30 @@ export function pageResources(
   baseDir: FullSlug | RelativeURL,
   staticResources: StaticResources,
 ): StaticResources {
-  const contentIndexPath = joinSegments(baseDir, "static/contentIndex.json")
+  const contentMetaPath = joinSegments(baseDir, "static/contentMeta.json")
+  const searchIndexPath = joinSegments(baseDir, "static/searchIndex.json")
+  const graphIndexPath = joinSegments(baseDir, "static/graphIndex.json")
+  const randomClaimsPath = joinSegments(baseDir, "static/randomClaims.json")
   const citationSourcesPath = joinSegments(baseDir, "static/citationSources.json")
-  const assetVersion = Date.now().toString()
-  const contentIndexScript = `const fetchData = fetch("${contentIndexPath}?v=${assetVersion}", { cache: "no-store" }).then(data => data.json())`
-  const citationSourcesScript = `globalThis.fetchCitationSources = fetch("${citationSourcesPath}?v=${assetVersion}", { cache: "no-store" }).then(data => data.json()).catch(() => [])`
+  const staticIndexScript = `
+globalThis.__ltkbStaticJsonCache ??= new Map()
+globalThis.loadStaticJson ??= (path) => {
+  const cache = globalThis.__ltkbStaticJsonCache
+  if (!cache.has(path)) {
+    cache.set(path, fetch(path, { cache: "force-cache" }).then((data) => data.json()))
+  }
+  return cache.get(path)
+}
+globalThis.loadContentMeta = () => globalThis.loadStaticJson("${contentMetaPath}")
+globalThis.loadSearchIndex = () => globalThis.loadStaticJson("${searchIndexPath}")
+globalThis.loadGraphIndex = () => globalThis.loadStaticJson("${graphIndexPath}")
+globalThis.loadRandomClaims = () => globalThis.loadStaticJson("${randomClaimsPath}")
+// Compatibility only: callers should prefer purpose-specific loaders.
+globalThis.fetchData = {
+  then: (resolve, reject) => globalThis.loadContentMeta().then(resolve, reject),
+}
+`
+  const citationSourcesScript = `globalThis.fetchCitationSources = globalThis.loadStaticJson("${citationSourcesPath}").catch(() => [])`
 
   const resources: StaticResources = {
     css: [
@@ -52,7 +71,7 @@ export function pageResources(
         loadTime: "beforeDOMReady",
         contentType: "inline",
         spaPreserve: true,
-        script: contentIndexScript,
+        script: staticIndexScript,
       },
       {
         loadTime: "beforeDOMReady",

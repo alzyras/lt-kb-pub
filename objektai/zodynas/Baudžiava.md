@@ -319,7 +319,11 @@ Terminas vartojamas ilgame istoriniame pjūvyje: nuo 1447 m. privilegijos, padė
 - [[temos/teisinis-terminas]]
 
 ### Susiję objektai
+- [[objektai/grupes/Lenkai]]
+- [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/bajorija]]
 - [[objektai/ivykiai/1863 m. sukilimo paskelbimas Lenkijoje ir Lietuvoje (1863 m. pradžioje)]]
+- [[objektai/autoriai/Adomas Honorijus Kirkoras]]
 - [[objektai/paprociai/Bajorijos seimelių rinkimosi ir atstovų rinkimo praktika]]
 - [[objektai/zodynas/Baudžiavinė santvarka]]
 - [[objektai/ivykiai/Baudžiavos panaikinimas Rusijos imperijoje (1861 m.)]]
@@ -327,6 +331,8 @@ Terminas vartojamas ilgame istoriniame pjūvyje: nuo 1447 m. privilegijos, padė
 - [[objektai/grupes/Lietuvos gubernijų seimeliai]]
 - [[objektai/autoriai/Motiejus Valančius]]
 - [[objektai/grupes/Raudonieji]]
+- [[objektai/ivykiai/Vilniaus Senienų muziejaus įkūrimas]]
+- [[objektai/grupes/Vilniaus Senienų muziejus]]
 - [[objektai/zodynas/baudžiava baudžiavinė priklausomybė]]
 - [[objektai/zodynas/marksistinė periodizacija komunistinės istoriografijos nomenklatūra]]
 - [[objektai/zodynas/taikos suvažiavimai]]

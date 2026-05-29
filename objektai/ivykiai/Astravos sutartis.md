@@ -22,6 +22,9 @@ date_end: ''
 patikimumas: 'vidutinis'
 laikotarpis: '1392 m. rugpjūčio 5 d.'
 tags:
+  - dokumentas
+  - ivykis
+  - ordinas
   - sutartis
 ---
 # Astravos sutartis (sutartis)
@@ -232,8 +235,12 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
     - t-011
 
 ## Ryšiai
+### Teminiai klasteriai
+- [[temos/dokumentas]]
+
 ### Susiję objektai
-- [[objektai/asmenys/Jogaila|Jogaila (Lenkijos karalius)]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lenkai]]
+- [[objektai/asmenys/Jogaila]]
+- [[objektai/asmenys/Vytautas]]
+- [[objektai/asmenys/Dlugošas]]
+- [[objektai/asmenys/Olesnickio]]
+- [[objektai/zodynas/vietininkas]]

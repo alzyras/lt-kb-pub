@@ -36,6 +36,36 @@ export type ContentDetails = {
   claims?: string[]
 }
 
+export type ContentMetaDetails = Pick<
+  ContentDetails,
+  | "slug"
+  | "title"
+  | "tags"
+  | "citationFilterable"
+  | "quoteCount"
+  | "citationSourceIds"
+  | "claimCount"
+>
+
+export type GraphIndexDetails = Pick<ContentDetails, "slug" | "title" | "links" | "tags">
+
+export type SearchIndexDetails = Pick<
+  ContentDetails,
+  | "slug"
+  | "title"
+  | "tags"
+  | "content"
+  | "citationFilterable"
+  | "quoteCount"
+  | "citationSourceIds"
+  | "claimCount"
+>
+
+export type RandomClaimsDetails = Pick<
+  ContentDetails,
+  "slug" | "title" | "quoteCount" | "claimCount" | "claims"
+>
+
 interface Options {
   enableSiteMap: boolean
   enableRSS: boolean
@@ -103,6 +133,63 @@ function extractClaims(markdown: string): string[] {
   }
 
   return claims
+}
+
+function compactSearchContent(content: ContentDetails): string {
+  const parts = [content.title, ...(content.claims ?? []), ...(content.tags ?? []).map((tag) => `#${tag}`)]
+    .map((part) => String(part ?? "").trim())
+    .filter(Boolean)
+  return parts.join("\n")
+}
+
+function asContentMeta(content: ContentDetails): ContentMetaDetails {
+  return {
+    slug: content.slug,
+    title: content.title,
+    tags: content.tags,
+    citationFilterable: content.citationFilterable,
+    quoteCount: content.quoteCount,
+    citationSourceIds: content.citationSourceIds,
+    claimCount: content.claimCount,
+  }
+}
+
+function asSearchIndex(content: ContentDetails): SearchIndexDetails {
+  return {
+    slug: content.slug,
+    title: content.title,
+    tags: content.tags,
+    content: compactSearchContent(content),
+    citationFilterable: content.citationFilterable,
+    quoteCount: content.quoteCount,
+    citationSourceIds: content.citationSourceIds,
+    claimCount: content.claimCount,
+  }
+}
+
+function asGraphIndex(content: ContentDetails): GraphIndexDetails {
+  return {
+    slug: content.slug,
+    title: content.title,
+    links: content.links,
+    tags: content.tags,
+  }
+}
+
+function asRandomClaims(content: ContentDetails): RandomClaimsDetails | undefined {
+  const claims = (content.claims ?? [])
+    .map((claim) => claim.trim())
+    .filter(Boolean)
+  if (claims.length === 0) {
+    return undefined
+  }
+  return {
+    slug: content.slug,
+    title: content.title,
+    quoteCount: content.quoteCount,
+    claimCount: content.claimCount,
+    claims,
+  }
 }
 
 function canonicalUrl(baseUrl: string, slug: SimpleSlug): string {
@@ -233,25 +320,38 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
         })
       }
 
-      const fp = joinSegments("static", "contentIndex") as FullSlug
-      const simplifiedIndex = Object.fromEntries(
-        Array.from(linkIndex).map(([slug, content]) => {
-          // remove description and from content index as nothing downstream
-          // actually uses it. we only keep it in the index as we need it
-          // for the RSS feed
-          delete content.description
-          delete content.date
-          delete content.modifiedDate
-          return [slug, content]
-        }),
+      const contentMetaIndex = Object.fromEntries(
+        Array.from(linkIndex).map(([slug, content]) => [slug, asContentMeta(content)]),
+      )
+      const searchIndex = Object.fromEntries(
+        Array.from(linkIndex).map(([slug, content]) => [slug, asSearchIndex(content)]),
+      )
+      const graphIndex = Object.fromEntries(
+        Array.from(linkIndex).map(([slug, content]) => [slug, asGraphIndex(content)]),
+      )
+      const randomClaimsIndex = Object.fromEntries(
+        Array.from(linkIndex)
+          .map(([slug, content]) => [slug, asRandomClaims(content)] as const)
+          .filter((entry): entry is readonly [FullSlug, RandomClaimsDetails] => entry[1] !== undefined),
       )
 
-      yield write({
-        ctx,
-        content: JSON.stringify(simplifiedIndex),
-        slug: fp,
-        ext: ".json",
-      })
+      const emittedIndexes: Array<[FullSlug, unknown]> = [
+        [joinSegments("static", "contentMeta") as FullSlug, contentMetaIndex],
+        [joinSegments("static", "searchIndex") as FullSlug, searchIndex],
+        [joinSegments("static", "graphIndex") as FullSlug, graphIndex],
+        [joinSegments("static", "randomClaims") as FullSlug, randomClaimsIndex],
+        // Backward-compatible alias. It intentionally no longer contains full page bodies.
+        [joinSegments("static", "contentIndex") as FullSlug, contentMetaIndex],
+      ]
+
+      for (const [slug, payload] of emittedIndexes) {
+        yield write({
+          ctx,
+          content: JSON.stringify(payload),
+          slug,
+          ext: ".json",
+        })
+      }
     },
     externalResources: (ctx) => {
       if (opts?.enableRSS) {

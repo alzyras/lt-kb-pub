@@ -289,6 +289,7 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Vokiečiai]]
+- [[objektai/asmenys/Dovydas (Gardino pilininkas)]]
 - [[objektai/grupes/Kuršiečiai]]
 - [[objektai/grupes/Kuršo ir Žiemgalos kunigaikštystė]]
 - [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)]]

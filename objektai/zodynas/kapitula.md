@@ -85,6 +85,7 @@ XVII amžiuje kapitula ruošėsi atnaujinti paminklą, bet 1655 m. Vilnių užė
 - [[objektai/grupes/Kryžiuočių ordinas]]
 - [[objektai/asmenys/Barbora Radvilaitė]]
 - [[objektai/ivykiai/Konstancijos susirinkimas (1414–1418 m.)]]
+- [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]
 - [[objektai/grupes/Vilniaus kapitula]]
 - [[objektai/grupes/Vilniaus žydų kahalas]]
 - [[objektai/paprociai/Vyriausiojo Lietuvos tribunolo teisėjų rinkimas seimeliuose]]

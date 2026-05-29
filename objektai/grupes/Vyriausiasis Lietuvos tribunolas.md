@@ -157,8 +157,10 @@ Bet pagaliau, kai Steponas Batoras, ruošdamasis į karą prieš Maskvą (1578 m
 
 ## Ryšiai
 ### Susiję objektai
-- [[objektai/paprociai/Vyriausiojo Lietuvos tribunolo teisėjų rinkimas seimeliuose]]
-- [[objektai/zodynas/kunigas]]
-- [[objektai/zodynas/pavietas]]
-- [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
+- [[objektai/asmenys/Steponas]]
+- [[objektai/zodynas/bajorija]]
+- [[objektai/zodynas/seimelis]]
+- [[objektai/zodynas/supremus dux ir magnus dux]]
 - [[objektai/zodynas/tribunolas]]
+- [[objektai/asmenys/Steponas Batoras]]
+- [[objektai/paprociai/Vyriausiojo Lietuvos tribunolo teisėjų rinkimas seimeliuose]]

@@ -95,7 +95,7 @@ function deriveSourcesFromDom(): CitationSourceRegistryEntry[] {
 
 async function fetchRegistryAt(url: string): Promise<CitationSourceRegistryEntry[] | null> {
   try {
-    const response = await fetch(url, { cache: "no-store" })
+    const response = await fetch(url, { cache: "force-cache" })
     if (!response.ok) {
       return null
     }

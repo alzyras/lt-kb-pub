@@ -91,4 +91,6 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
 - [[temos/didikas]]
 
 ### Susiję objektai
+- [[objektai/zodynas/poliublininis laikotarpis]]
 - [[objektai/ivykiai/Vilniaus akademijos įkūrimas (1579 m.)]]
+- [[objektai/zodynas/unija]]

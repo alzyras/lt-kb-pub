@@ -951,6 +951,7 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
 - [[objektai/asmenys/Chadžibėjus]]
 - [[objektai/ivykiai/Chotyno mūšis|Chotyno mūšis (mūšis)]]
 - [[objektai/asmenys/Dmitrijus (totorių vadas)]]
+- [[objektai/asmenys/Dovydas (Gardino pilininkas)]]
 - [[objektai/autoriai/J. Bennetas]]
 - [[objektai/asmenys/Jonas Sicinskis]]
 - [[objektai/asmenys/Juzefas Poniatovskis]]

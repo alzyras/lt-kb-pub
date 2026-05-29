@@ -113,6 +113,7 @@ Nenurodyta
 - [[objektai/daiktai/Vilniaus gaisro gesinimo įrankiai]]
 - [[objektai/zodynas/karyba]]
 - [[objektai/posakiai/„Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!“]]
+- [[objektai/asmenys/Dovydas (Gardino pilininkas)]]
 - [[objektai/grupes/Lietuvos totoriai]]
 - [[objektai/posakiai/Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!]]
 - [[objektai/asmenys/Michailas Aleksandrovičius]]
