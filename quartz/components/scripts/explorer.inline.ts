@@ -33,6 +33,16 @@ type ExplorerToggleButton = HTMLElement & {
 
 let currentExplorerState: Array<FolderState>
 const explorerWindow = window as ExplorerWindow
+
+function isElementVisible(element: Element): boolean {
+  const checkVisibility = (element as HTMLElement & { checkVisibility?: () => boolean })
+    .checkVisibility
+  if (typeof checkVisibility === "function") {
+    return checkVisibility.call(element)
+  }
+  return element.getClientRects().length > 0
+}
+
 function toggleExplorer(this: HTMLElement) {
   const nearestExplorer = this.closest(".explorer") as HTMLElement
   if (!nearestExplorer) return
@@ -50,7 +60,10 @@ function toggleExplorer(this: HTMLElement) {
   }
 }
 
-function bindExplorerToggle(button: HTMLElement, handler: (this: HTMLElement) => void | Promise<void>) {
+function bindExplorerToggle(
+  button: HTMLElement,
+  handler: (this: HTMLElement) => void | Promise<void>,
+) {
   const toggle = button as ExplorerToggleButton
   if (toggle.dataset.explorerToggleBound === "true") {
     return
@@ -335,7 +348,7 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
     const mobileExplorer = explorer.querySelector(".mobile-explorer")
     if (!mobileExplorer) return
 
-    if (mobileExplorer.checkVisibility()) {
+    if (isElementVisible(mobileExplorer)) {
       explorer.classList.add("collapsed")
       explorer.setAttribute("aria-expanded", "false")
       setupMobileExplorerShell(explorer as HTMLElement, currentSlug)

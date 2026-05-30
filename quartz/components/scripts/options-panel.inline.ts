@@ -24,9 +24,9 @@ type CitationSourceGlobal = typeof globalThis & {
   fetchCitationSources?: Promise<CitationSourceRegistryEntry[]>
 }
 
-const OPTIONS_STORAGE_KEY = "ltkb-options-v1"
+const OPTIONS_STORAGE_KEY = "ltkb-options-v2"
 const DEFAULT_STATE: OptionsState = {
-  minQuoteCount: 0,
+  minQuoteCount: 3,
   sourceSelectionMode: "all",
   selectedSourceIds: [],
 }
@@ -159,7 +159,7 @@ function readState(): OptionsState {
     const parsed = JSON.parse(stored) as Partial<OptionsState>
     const minQuoteCount = Number.isFinite(parsed.minQuoteCount)
       ? Math.max(0, Number(parsed.minQuoteCount))
-      : 0
+      : DEFAULT_STATE.minQuoteCount
     const selectedSourceIds = Array.isArray(parsed.selectedSourceIds)
       ? parsed.selectedSourceIds.filter((value): value is string => typeof value === "string")
       : []
@@ -267,6 +267,18 @@ function updatePeriodSummaries() {
   })
 }
 
+function syncPageListGroups() {
+  document.querySelectorAll<HTMLElement>(".page-list-type-group").forEach((group) => {
+    const entries = [...group.querySelectorAll<HTMLLIElement>("li.section-li")]
+    const visible = entries.filter((entry) => !entry.hidden)
+    const count = group.querySelector<HTMLElement>(".page-list-type-heading small")
+    if (count) {
+      count.textContent = `${visible.length}`
+    }
+    group.hidden = entries.length > 0 && visible.length === 0
+  })
+}
+
 function applyListFilters() {
   const entries = document.querySelectorAll<HTMLLIElement>("li.section-li")
   entries.forEach((entry) => {
@@ -279,6 +291,7 @@ function applyListFilters() {
     entry.hidden = !(periodOk && optionsOk)
   })
   updatePeriodSummaries()
+  syncPageListGroups()
 }
 
 function applyExplorerFilters() {
@@ -365,7 +378,7 @@ function syncCurrentPageFilter() {
   const quoteCount = Number(body.dataset.quoteCount ?? "0")
   const sourceIds = parseSourceIds(body.dataset.citationSources)
   const optionsOk = optionsMatchItem({ filterable, quoteCount, sourceIds })
-  const shouldHide = optionFiltersActive() && !optionsOk
+  const showNotice = optionFiltersActive() && filterable && !optionsOk
 
   let notice = center.querySelector<HTMLElement>("[data-current-options-empty]")
   if (!notice) {
@@ -376,17 +389,8 @@ function syncCurrentPageFilter() {
     center.insertBefore(notice, center.firstChild)
   }
   notice.textContent =
-    "Šis puslapis neatitinka pasirinktų citatų filtrų. Sumažink min. citatų skaičių arba atstatyk filtrus."
-  notice.hidden = !shouldHide
-
-  center
-    .querySelectorAll<HTMLElement>(":scope > .page-header, :scope > article, :scope > hr")
-    .forEach((element) => {
-      if (element === notice) {
-        return
-      }
-      element.hidden = shouldHide
-    })
+    "Šis puslapis neatitinka pasirinktų citatų filtrų, bet tiesiogiai atidaryti puslapiai vis tiek rodomi."
+  notice.hidden = !showNotice
 }
 
 function applyCitationFilters() {

@@ -56,7 +56,7 @@ const OptionsPanel: QuartzComponent = ({ displayClass }: QuartzComponentProps) =
               min="0"
               max="50"
               step="1"
-              value="0"
+              value="3"
               data-options-quote-range=""
             />
             <input
@@ -65,7 +65,7 @@ const OptionsPanel: QuartzComponent = ({ displayClass }: QuartzComponentProps) =
               type="number"
               min="0"
               step="1"
-              value="0"
+              value="3"
               data-options-quote-number=""
             />
           </div>

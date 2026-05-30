@@ -67,6 +67,15 @@ const isGraphSuppressedSlug = (slug: SimpleSlug | string) => {
   return publicNavigationSuppressedLinkPrefixes.some((prefix) => value.startsWith(prefix))
 }
 
+function isElementVisible(element: HTMLElement): boolean {
+  const checkVisibility = (element as HTMLElement & { checkVisibility?: () => boolean })
+    .checkVisibility
+  if (typeof checkVisibility === "function") {
+    return checkVisibility.call(element)
+  }
+  return element.getClientRects().length > 0
+}
+
 function getVisited(): Set<SimpleSlug> {
   return new Set(JSON.parse(localStorage.getItem(localStorageKey) ?? "[]"))
 }
@@ -125,10 +134,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   const data: Map<SimpleSlug, GraphIndexDetails> = new Map(
     Object.entries<GraphIndexDetails>(
       await (graphRuntime.loadGraphIndex?.() ?? Promise.resolve({})),
-    ).map(([k, v]) => [
-      simplifySlug(k as FullSlug),
-      v,
-    ]),
+    ).map(([k, v]) => [simplifySlug(k as FullSlug), v]),
   )
   const links: SimpleLinkData[] = []
   const tags: SimpleSlug[] = []
@@ -726,6 +732,10 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
       const graph = container as HTMLElement
       graph.dataset.graphLoaded = "false"
       removeAllChildren(graph)
+      if (isElementVisible(graph)) {
+        void renderLocalGraph(graph)
+        continue
+      }
       const button = document.createElement("button")
       button.type = "button"
       button.className = "graph-load-button"

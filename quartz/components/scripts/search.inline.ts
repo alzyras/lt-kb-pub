@@ -25,9 +25,9 @@ type SearchType = "basic" | "tags"
 let searchType: SearchType = "basic"
 let currentSearchTerm: string = ""
 let idDataMap: FullSlug[] = []
-const OPTIONS_STORAGE_KEY = "ltkb-options-v1"
+const OPTIONS_STORAGE_KEY = "ltkb-options-v2"
 const DEFAULT_SEARCH_OPTIONS_STATE: SearchOptionsState = {
-  minQuoteCount: 0,
+  minQuoteCount: 3,
   sourceSelectionMode: "all",
   selectedSourceIds: [],
 }
@@ -127,10 +127,10 @@ function loadSearchData(): Promise<ContentIndex> {
     searchDataPromise = (
       searchRuntime.loadSearchIndex?.() ?? Promise.resolve({} as ContentIndex)
     ).then(async (payload) => {
-        searchData = payload
-        await fillDocument(payload)
-        return payload
-      })
+      searchData = payload
+      await fillDocument(payload)
+      return payload
+    })
   }
   return searchDataPromise
 }
@@ -158,7 +158,9 @@ function readSearchOptionsState(): SearchOptionsState {
       ? parsed.selectedSourceIds.filter((value): value is string => typeof value === "string")
       : []
     return {
-      minQuoteCount: Number.isFinite(parsed.minQuoteCount) ? Math.max(0, Number(parsed.minQuoteCount)) : 0,
+      minQuoteCount: Number.isFinite(parsed.minQuoteCount)
+        ? Math.max(0, Number(parsed.minQuoteCount))
+        : DEFAULT_SEARCH_OPTIONS_STATE.minQuoteCount,
       sourceSelectionMode: parsed.sourceSelectionMode === "custom" ? "custom" : "all",
       selectedSourceIds,
     }
@@ -411,7 +413,7 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug) {
     return {
       id,
       slug,
-      title: searchType === "tags" ? page?.title ?? "" : highlight(term, page?.title ?? ""),
+      title: searchType === "tags" ? (page?.title ?? "") : highlight(term, page?.title ?? ""),
       content: highlight(term, page?.content ?? "", true),
       tags: highlightTags(term.substring(1), page?.tags ?? []),
     }
