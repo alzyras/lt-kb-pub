@@ -29,6 +29,8 @@ export function pageResources(
   baseDir: FullSlug | RelativeURL,
   staticResources: StaticResources,
 ): StaticResources {
+  const assetVersion = "20260530-search"
+  const versionedAsset = (path: string) => `${path}?v=${assetVersion}`
   const contentMetaPath = joinSegments(baseDir, "static/contentMeta.json")
   const searchIndexPath = joinSegments(baseDir, "static/searchIndex.json")
   const graphIndexPath = joinSegments(baseDir, "static/graphIndex.json")
@@ -57,13 +59,13 @@ globalThis.fetchData = {
   const resources: StaticResources = {
     css: [
       {
-        content: joinSegments(baseDir, "index.css"),
+        content: versionedAsset(joinSegments(baseDir, "index.css")),
       },
       ...staticResources.css,
     ],
     js: [
       {
-        src: joinSegments(baseDir, "prescript.js"),
+        src: versionedAsset(joinSegments(baseDir, "prescript.js")),
         loadTime: "beforeDOMReady",
         contentType: "external",
       },
@@ -85,7 +87,7 @@ globalThis.fetchData = {
   }
 
   resources.js.push({
-    src: joinSegments(baseDir, "postscript.js"),
+    src: versionedAsset(joinSegments(baseDir, "postscript.js")),
     loadTime: "afterDOMReady",
     moduleType: "module",
     contentType: "external",

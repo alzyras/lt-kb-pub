@@ -234,6 +234,15 @@
             & > p {
               margin-bottom: 0;
             }
+
+            &.filtered-match {
+              color: var(--dark);
+
+              & .filter-hint {
+                color: var(--secondary);
+                font-weight: $boldWeight;
+              }
+            }
           }
         }
       }

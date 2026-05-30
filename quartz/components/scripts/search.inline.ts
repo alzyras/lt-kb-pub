@@ -421,6 +421,22 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug) {
 
   const basename = (slug: FullSlug) => String(slug).split("/").pop() ?? String(slug)
 
+  const resultContainsQuery = (term: string, id: number) => {
+    const queryTokens = normalizeSearchText(term.trim())
+      .split(/\s+/)
+      .filter(Boolean)
+    if (queryTokens.length === 0) return true
+
+    const slug = idDataMap[id]
+    const page = searchData?.[slug]
+    const haystack = normalizeSearchText(
+      [page?.title ?? "", page?.content ?? "", ...(page?.tags ?? []), String(slug).replaceAll("/", " ")]
+        .join(" ")
+        .replaceAll("-", " "),
+    )
+    return queryTokens.every((token) => haystack.includes(token))
+  }
+
   const rankResult = (term: string, id: number) => {
     const slug = idDataMap[id]
     const page = searchData?.[slug]
@@ -498,14 +514,46 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug) {
     return itemTile
   }
 
-  async function displayResults(finalResults: Item[]) {
+  function writeSearchOptionsState(options: SearchOptionsState) {
+    localStorage.setItem(OPTIONS_STORAGE_KEY, JSON.stringify(options))
+    document.dispatchEvent(new CustomEvent("quartz-options-change"))
+  }
+
+  async function displayResults(
+    finalResults: Item[],
+    filteredResultCount: number,
+    options: SearchOptionsState,
+  ) {
     removeAllChildren(results)
+    const createFilteredCard = () => {
+      const card = document.createElement("button")
+      card.type = "button"
+      card.className = "result-card no-match filtered-match"
+      card.innerHTML = `
+        <h3>Rezultatai paslėpti filtro</h3>
+        <p>Rasta ${filteredResultCount}, bet dabartinis filtras rodo tik objektus su bent ${options.minQuoteCount} citatomis.</p>
+        <p class="filter-hint">Spausk čia, kad šiai paieškai sumažintum minimumą iki 0.</p>
+      `
+      card.addEventListener("click", () => {
+        writeSearchOptionsState({ ...options, minQuoteCount: 0 })
+        searchBar.dispatchEvent(new Event("input", { bubbles: true }))
+      })
+      return card
+    }
+
     if (finalResults.length === 0) {
-      results.innerHTML = `<a class="result-card no-match">
-          <h3>No results.</h3>
-          <p>Try another search term?</p>
-      </a>`
+      if (filteredResultCount > 0) {
+        results.append(createFilteredCard())
+      } else {
+        results.innerHTML = `<a class="result-card no-match">
+            <h3>No results.</h3>
+            <p>Try another search term?</p>
+        </a>`
+      }
     } else {
+      if (filteredResultCount > 0) {
+        results.append(createFilteredCard())
+      }
       results.append(...finalResults.map(resultToHTML))
     }
 
@@ -616,12 +664,15 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug) {
       ...getByField("tags"),
     ])
     const options = readSearchOptionsState()
-    const finalResults = [...allIds]
-      .filter((id) => searchOptionsMatchPage(searchData?.[idDataMap[id]], options))
+    const candidateIds = [...allIds].filter((id) => resultContainsQuery(currentSearchTerm, id))
+    const visibleIds = candidateIds.filter((id) =>
+      searchOptionsMatchPage(searchData?.[idDataMap[id]], options),
+    )
+    const finalResults = visibleIds
       .sort((a, b) => rankResult(currentSearchTerm, b) - rankResult(currentSearchTerm, a))
       .slice(0, numSearchResults)
       .map((id) => formatForDisplay(currentSearchTerm, id))
-    await displayResults(finalResults)
+    await displayResults(finalResults, Math.max(0, candidateIds.length - visibleIds.length), options)
   }
 
   document.addEventListener("keydown", shortcutHandler)
