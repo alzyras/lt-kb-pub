@@ -3,13 +3,13 @@ tipas: zodyno_irasas
 pavadinimas: kunigaikštija
 sukurta: '2026-05-05'
 variantai:
-- kunigaikštija
-- kunigaikštijos
-- kunigaikštijoj
-- kunigaikštiją
+  - kunigaikštija
+  - kunigaikštijos
+  - kunigaikštijoj
+  - kunigaikštiją
 aliases: []
 saltiniai:
-- Vytautas Didysis 1350-1430 (1930 m.)
+  - Vytautas Didysis 1350-1430 (1930 m.)
 datos:
   - '1350 m.'
   - '1391 m.'

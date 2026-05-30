@@ -3,10 +3,10 @@ tipas: zodyno_irasas
 pavadinimas: militarinė valstybė
 sukurta: '2026-05-05'
 variantai:
-- militarine valstybe
+  - militarine valstybe
 aliases: []
 saltiniai:
-- Vytautas Didysis 1350-1430 (1930 m.)
+  - Vytautas Didysis 1350-1430 (1930 m.)
 patikimumas: aukštas
 tags: []
 ---

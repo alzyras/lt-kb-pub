@@ -3,12 +3,12 @@ tipas: zodyno_irasas
 pavadinimas: saar
 sukurta: '2026-05-05'
 variantai:
-- saarai
-- saaro
-- saarų
+  - saarai
+  - saaro
+  - saarų
 aliases: []
 saltiniai:
-- Vytautas Didysis 1350-1430 (1930 m.)
+  - Vytautas Didysis 1350-1430 (1930 m.)
 laikotarpis: 1395 m., 1411 m., 1427 m.
 datos:
   - '1350 m.'

@@ -3,11 +3,11 @@ tipas: zodyno_irasas
 pavadinimas: tėvūnas
 sukurta: '2026-04-25'
 variantai:
-- tėvūnai
+  - tėvūnai
 aliases: []
 saltiniai:
-- A. Šapoka (red.), Lietuvos istorija (1936 m.)
-- Vytautas Didysis 1350-1430 (1930 m.)
+  - A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  - Vytautas Didysis 1350-1430 (1930 m.)
 patikimumas: vidutinis
 tags: []
 ---

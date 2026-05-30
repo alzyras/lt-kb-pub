@@ -5,8 +5,10 @@ sukurta: "2026-05-13"
 variantai:
   - "alodinę nuosavybės struktūrą"
   - "alodas"
+  - 'alodą, arba dvarą'
 aliases: []
 saltiniai:
+  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
 datos: []
 periodas: 'viduramziai'
@@ -29,7 +31,7 @@ tags: []
 
 ## Santrauka
 
-Alodas šiame kontekste reiškia individualų valstiečių ūkį ir vakarietišką ūkininkavimo bei nuosavybės formą.
+Alodas šiame įraše reiškia ir vakarietišką individualios nuosavybės formą, ir konkrečiame ankstyvesniame karo epizode tiesiogiai sugretinamas su dvaru kaip valdoma valda.
 
 ## Žodis ir formos
 
@@ -57,13 +59,25 @@ Vartojama aiškinant lietuvių, rusėnų žemių ir Maskvos erdvės nuosavybės 
   teiginys: 'Rusėnų žemėse, priklausiusiose Lenkijai ir Lietuvai, išplito alodas – individualus valstiečių ūkis.'
   pagrindžia:
     - c-002
-
+- t-005
+  teiginys: 'Šiame šaltinyje `alodas` tiesiogiai paaiškinamas kaip `dvaras`.'
+  pagrindžia:
+    - c-003
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  statusas: patvirtinta
+- t-006
+  teiginys: 'Šiame šaltinyje `alodas / dvaras` nusako Gardino pilininko Dovydo valdą kaip karo antpuolio taikinį.'
+  pagrindžia:
+    - c-003
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  statusas: patvirtinta
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Rusėnų žemėse, priklausiusiose Lenkijai ir Lietuvai, išplito vakarietiška alodinė nuosavybė – individualus valstiečių ūkis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
-    Atėję iš ryškią individualią alodinę nuosavybės struk-
+    Kitą lietuvių vaidmens rusėnų visuomenėje aspektą slepia socialinė
+    ekonominė sritis. Atėję iš ryškią individualią alodinę nuosavybės struk-
     tūrą turinčios visuomenės lietuvių bajorai ir individualiai ūkininkaujan-
     tys valstiečiai skyrėsi nuo rytinių slavų. Pastarųjų erdvėje toliau į rytus
     (Maskvos valstybėje, vėliau Rusijoje) ryškėjo bendruomeninė žemėvalda,
@@ -96,14 +110,26 @@ Vartojama aiškinant lietuvių, rusėnų žemių ir Maskvos erdvės nuosavybės 
   patikimumo_pagrindimas: ''
   pagrindžia:
     - t-004
+- c-003
+  santrauka: `Alodas` tiesiogiai sugretinamas su dvaru ir nusako Dovydo valdą.
+  šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
+  citata_originali: |
+    Tais pačiais metais, per gavėnią (kovo 1), trys broliai ir šeši šimtai Notangos vyrų
+    smarkiai užpuolė Gardino pilininko Dovydo alodą, arba dvarą, ir jį iki pamatų sudegino;
+    nukovę 38 žmones, išsivarė 100 arklių ir daug kitokių gyvulių.
+  citata_rodoma: ""
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  patikimumo_pagrindimas: ""
+  pagrindžia:
+    - t-005
+    - t-006
 
 ## Ryšiai
-### Teminiai klasteriai
-- [[temos/istorinė-sąvoka]]
-- [[temos/teisinis-terminas]]
-
 ### Susiję objektai
 - [[objektai/grupes/Bajorai]]
+- [[objektai/asmenys/Dovydas (Gardino pilininkas)]]
 - [[objektai/grupes/Lietuviai]]
 - [[objektai/grupes/Rusėnai]]
-- [[objektai/asmenys/Dovydas (Gardino pilininkas)]]
+- [[objektai/zodynas/Pilininkas]]

@@ -104,3 +104,4 @@ J. Endzelins minimas kaip kalbininkas. Viename šaltinyje jis siejamas su veikal
 - [[objektai/grupes/Baltai]]
 - [[objektai/grupes/Latviai]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/zodynas/vakariniai baltai]]

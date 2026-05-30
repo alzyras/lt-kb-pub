@@ -3,14 +3,14 @@ tipas: zodyno_irasas
 pavadinimas: seniūnas
 sukurta: '2026-04-25'
 variantai:
-- Storastą
-- seniūnu
-- seniūną
-- Vilniaus seniūnas
+  - Storastą
+  - seniūnu
+  - seniūną
+  - Vilniaus seniūnas
 aliases: []
 saltiniai:
-- A. Šapoka (red.), Lietuvos istorija (1936 m.)
-- Vytautas Didysis 1350-1430 (1930 m.)
+  - A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  - Vytautas Didysis 1350-1430 (1930 m.)
 patikimumas: vidutinis
 tags: []
 ---

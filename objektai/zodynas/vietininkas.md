@@ -3,17 +3,17 @@ tipas: zodyno_irasas
 pavadinimas: vietininkas
 sukurta: 2026-04-25
 variantai:
-- vietininkas / viecinykas
-- viecinyku
-- vietininku
-- viecinykas
-- vietininkas
-- vietininkus
+  - vietininkas / viecinykas
+  - viecinyku
+  - vietininku
+  - viecinykas
+  - vietininkas
+  - vietininkus
 aliases: []
 saltiniai:
-- A. Šapoka (red.), Lietuvos istorija (1936 m.)
-- Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-- Vytautas Didysis 1350-1430 (1930 m.)
+  - A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  - Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  - Vytautas Didysis 1350-1430 (1930 m.)
 datos:
   - '1128 m.'
   - '1350 m.'

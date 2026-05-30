@@ -3,11 +3,11 @@ tipas: zodyno_irasas
 pavadinimas: Vakarų Bažnyčios schizma
 sukurta: '2026-05-05'
 variantai:
-- Vakarų Bažnyčios schizma
-- Vakarų Bažnyčios schizmą
+  - Vakarų Bažnyčios schizma
+  - Vakarų Bažnyčios schizmą
 aliases: []
 saltiniai:
-- Vytautas Didysis 1350-1430 (1930 m.)
+  - Vytautas Didysis 1350-1430 (1930 m.)
 datos:
   - '1350 m.'
   - '1388 m.'

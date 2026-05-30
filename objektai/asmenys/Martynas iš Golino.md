@@ -210,6 +210,7 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - [[objektai/ivykiai/Pirmosios lietuviškos knygos išspausdinimas]]
 - [[objektai/ivykiai/Reformacijos pradžia Lietuvoje]]
 - [[objektai/ivykiai/Vytauto ir Jogailos paskyrimas popiežiaus Martyno V vikariais Lietuvai ir Rusijai (1417 m. gegužės 13 d.)]]
+- [[objektai/ivykiai/Vytauto karūnacijos byla (1429–1430 m.)]]
 - [[objektai/zodynas/bažnytinė provincija]]
 - [[objektai/zodynas/ekskomunika]]
 - [[objektai/zodynas/indulgencija]]
@@ -217,4 +218,5 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - [[objektai/zodynas/vikariatas]]
 - [[objektai/ivykiai/Žemaičių vyskupijos įkūrimas (1417 m. spalio 24 d.)]]
 - [[objektai/posakiai/„Palemono universitetu“ „Lietuvos palemoniškųjų miestų sostine“]]
+- [[objektai/zodynas/netikėliai]]
 - [[objektai/ivykiai/Martyno V įsakymas atšaukti Kaributą (1422 m. lapkričio mėn.)]]

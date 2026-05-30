@@ -3,16 +3,16 @@ tipas: zodyno_irasas
 pavadinimas: supremus dux ir magnus dux
 sukurta: '2026-05-05'
 variantai:
-- supremus dux
-- magnus dux
-- aukščiausias kunigaikštis
-- didysis kunigaikštis
+  - supremus dux
+  - magnus dux
+  - aukščiausias kunigaikštis
+  - didysis kunigaikštis
 aliases: []
 saltiniai:
-- Vytautas Didysis 1350-1430 (1930 m.)
+  - Vytautas Didysis 1350-1430 (1930 m.)
 laikotarpis: 1379 m., 1401 m.
 datos:
-- 1379 m., 1401 m.
+  - 1379 m., 1401 m.
 patikimumas: aukštas
 tags: []
 ---

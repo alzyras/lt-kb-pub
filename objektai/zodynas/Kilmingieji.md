@@ -5,6 +5,7 @@ sukurta: '2026-05-20'
 variantai: []
 aliases: []
 saltiniai:
+  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos: []
 periodas: ''
@@ -23,7 +24,7 @@ tags:
 
 ## Santrauka
 
-Šalia « kunigų » pirmuosiuose Lietuvos istorijos šaltiniuose taip pat nenusistovėjusiais vardais yra minimi kilmingieji : nobiles, me­ liores, maiores, potentiores, besten ir kt.
+Kilmingieji šiame įraše žymi socialinių viršūnių sluoksnį. Ankstesnis šaltinis pabrėžė kilmingųjų vardų įvairovę Lietuvos pradžioje, o šis leidinys papildomai sieja `nobilis` su platesne prūsų ir lietuvių diduomenės terminų šeima.
 
 ## Teiginiai
 - t-001
@@ -32,7 +33,6 @@ tags:
     - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   statusas: patvirtinta
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Šalia « kunigų » pirmuosiuose Lietuvos istorijos šaltiniuose taip pat nenusistovėjusiais vardais yra minimi kilmingieji : nobiles, me­ liores, maiores, potentiores, besten ir kt.'

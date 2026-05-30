@@ -3,12 +3,12 @@ tipas: zodyno_irasas
 pavadinimas: neofitas
 sukurta: '2026-05-05'
 variantai:
-- neofitus
-- neofitą
-- neofitai
+  - neofitus
+  - neofitą
+  - neofitai
 aliases: []
 saltiniai:
-- Vytautas Didysis 1350-1430 (1930 m.)
+  - Vytautas Didysis 1350-1430 (1930 m.)
 datos:
   - '1350 m.'
   - '1388 m.'

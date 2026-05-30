@@ -3,20 +3,20 @@ tipas: zodyno_irasas
 pavadinimas: metropolija
 sukurta: '2026-04-28'
 variantai:
-- Lietuvos metropolijos
-- Kijevo metropolijos
-- arkivyskupo-metropolito sostą
-- metropolitą
-- Lietuvos stačiatikių metropolija
-- metropolitu
-- visos Rusijos metropolitui
-- metropoliją
-- metropolijos
-- Kijevo metropolija
+  - Lietuvos metropolijos
+  - Kijevo metropolijos
+  - arkivyskupo-metropolito sostą
+  - metropolitą
+  - Lietuvos stačiatikių metropolija
+  - metropolitu
+  - visos Rusijos metropolitui
+  - metropoliją
+  - metropolijos
+  - Kijevo metropolija
 aliases: []
 saltiniai:
-- Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-- Vytautas Didysis 1350-1430 (1930 m.)
+  - Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  - Vytautas Didysis 1350-1430 (1930 m.)
 datos:
   - '1300 m.'
   - '1350 m.'

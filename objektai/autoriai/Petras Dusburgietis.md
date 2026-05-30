@@ -253,5 +253,6 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
 - [[objektai/zodynas/Miera|miera]]
 - [[objektai/grupes/Teutonai]]
 - [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]
+- [[objektai/zodynas/netikėliai]]
 - [[objektai/zodynas/žygis]]
 - [[objektai/autoriai/Dusburgas]]

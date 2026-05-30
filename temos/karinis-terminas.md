@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 4.
+Objektų skaičius: 5.
 
 ## Kaip naudoti
 
@@ -23,3 +23,4 @@ Objektų skaičius: 4.
 - [[objektai/zodynas/komputas]]
 - [[objektai/zodynas/kryžiaus karas]]
 - [[objektai/zodynas/rotmistras]]
+- [[objektai/zodynas/valstybingumo idėja]]

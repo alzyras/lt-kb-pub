@@ -3,15 +3,15 @@ tipas: zodyno_irasas
 pavadinimas: vaivada
 sukurta: '2026-04-25'
 variantai:
-- vaivados
-- Krokuvos vaivada
-- Vilniaus vaivada
-- palatinus
+  - vaivados
+  - Krokuvos vaivada
+  - Vilniaus vaivada
+  - palatinus
 aliases: []
 saltiniai:
-- A. Šapoka (red.), Lietuvos istorija (1936 m.)
-- Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-- Vytautas Didysis 1350-1430 (1930 m.)
+  - A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  - Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  - Vytautas Didysis 1350-1430 (1930 m.)
 datos:
   - '1350 m.'
   - '1413 m.'

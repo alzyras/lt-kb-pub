@@ -3,14 +3,14 @@ tipas: zodyno_irasas
 pavadinimas: komtūras
 sukurta: '2026-04-25'
 variantai:
-- didysis komtūras
-- Gdansko komtūras
-- komtūras
+  - didysis komtūras
+  - Gdansko komtūras
+  - komtūras
 aliases: []
 saltiniai:
-- A. Šapoka (red.), Lietuvos istorija (1936 m.)
-- Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-- Vytautas Didysis 1350-1430 (1930 m.)
+  - A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  - Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  - Vytautas Didysis 1350-1430 (1930 m.)
 datos:
   - '1346 m.'
   - '1348 m.'

@@ -255,6 +255,7 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
 - [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|senieji mėnesių vardai ir devintinės]]
 - [[objektai/autoriai/Henrikas]]
 - [[objektai/grupes/Lietuviai]]
+- [[objektai/grupes/Sūduviai-jotvingiai]]
 - [[objektai/daiktai/Karūna]]
 - [[objektai/ivykiai/Kėzmarko pasitarimai su Zigmantu dėl karūnos]]
 - [[objektai/ivykiai/Liublino unija (1569 m.)]]
@@ -262,4 +263,5 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
 - [[objektai/paprociai/Vilniaus miesto viešųjų aktų antspaudavimas šv. Kristoforo antspaudu]]
 - [[objektai/grupes/Vokietijos kunigaikščiai]]
 - [[objektai/ivykiai/Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.)]]
+- [[objektai/daiktai/Vėliavos]]
 - [[objektai/grupes/Žiemgaliai]]

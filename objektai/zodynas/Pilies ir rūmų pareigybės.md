@@ -25,8 +25,8 @@ variantai:
   - 'vyno pilstytoju'
   - 'pilies ir rūmų pareigybės'
 saltiniai:
-- Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-- Vytautas Didysis 1350-1430 (1930 m.)
+  - Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+  - Vytautas Didysis 1350-1430 (1930 m.)
 patikimumas: aukštas
 aliases:
   - 'pilies ir rūmų pareigybės'
